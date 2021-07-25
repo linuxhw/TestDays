@@ -1,7 +1,7 @@
 Debian 11 - Tested Hardware & Statistics
 ----------------------------------------
 
-A project to collect tested hardware configurations for Debian 11.
+A project to collect tested hardware configurations for Debian 11 (Beta test).
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 
