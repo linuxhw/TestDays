@@ -11,3 +11,4 @@ Contents
 --------
 
 * [ Debian 11 ](/Dist/Debian_11)
+* [ Debian 10 ](/Dist/Debian_10)
