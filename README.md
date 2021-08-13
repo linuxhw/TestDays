@@ -16,3 +16,5 @@ Contents
 * [ Fedora 34 ](/Dist/Fedora_34)
 * [ Zorin 16 ](/Dist/Zorin_16)
 * [ Zorin 15 ](/Dist/Zorin_15)
+* [ Ubuntu 21.10 ](/Dist/Ubuntu_21.10)
+* [ Ubuntu 21.04 ](/Dist/Ubuntu_21.04)
