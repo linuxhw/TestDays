@@ -724,7 +724,7 @@ Hard drive vendors
 | Seagate                   | 7        | 9      | 15.91%  |
 | Samsung Electronics       | 6        | 9      | 13.64%  |
 | Kingston                  | 4        | 5      | 9.09%   |
-| Sandisk                   | 3        | 5      | 6.82%   |
+| SanDisk                   | 3        | 5      | 6.82%   |
 | Toshiba                   | 2        | 2      | 4.55%   |
 | Phison                    | 2        | 2      | 4.55%   |
 | Unknown                   | 1        | 1      | 2.27%   |
@@ -761,7 +761,7 @@ Hard drive models
 | WDC WD10EZEX-08M2NA0 1TB            | 1        | 1.96%   |
 | WDC WD10EZEX-00KUWA0 1TB            | 1        | 1.96%   |
 | WDC WD10EURX-63FH1Y0 1TB            | 1        | 1.96%   |
-| Unknown SD/MMC/MS PRO 16GB          | 1        | 1.96%   |
+| Unknown SD/MMC/MS PRO 8GB           | 1        | 1.96%   |
 | Toshiba HDWD110 1TB                 | 1        | 1.96%   |
 | Toshiba DT01ACA300 3TB              | 1        | 1.96%   |
 | Silicon Motion NVMe SSD Drive 128GB | 1        | 1.96%   |

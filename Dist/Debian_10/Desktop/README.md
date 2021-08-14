@@ -157,6 +157,9 @@ Test Cases
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | M5A97 R2.0                  | [69064747f1](https://linux-hardware.org/?probe=69064747f1) | Aug 13, 2021 |
+| Gigabyte      | Z390 AORUS PRO WIFI-CF      | [ccc387436e](https://linux-hardware.org/?probe=ccc387436e) | Aug 13, 2021 |
+| Gigabyte      | Z390 AORUS PRO WIFI-CF      | [fc9d4eb6f9](https://linux-hardware.org/?probe=fc9d4eb6f9) | Aug 13, 2021 |
 | Gigabyte      | H61M-S2PV                   | [3985c521c2](https://linux-hardware.org/?probe=3985c521c2) | Aug 12, 2021 |
 | ASUSTek       | ROG Maximus XI HERO         | [345c99ec14](https://linux-hardware.org/?probe=345c99ec14) | Aug 12, 2021 |
 | ASRock        | P67 Pro3                    | [e03db50d11](https://linux-hardware.org/?probe=e03db50d11) | Aug 12, 2021 |
@@ -1039,19 +1042,19 @@ Version of the Linux kernel
 
 | Version                                                   | Desktops | Percent |
 |-----------------------------------------------------------|----------|---------|
-| 4.19.0-14-amd64                                           | 52       | 7.93%   |
-| 4.19.0-6-amd64                                            | 51       | 7.77%   |
-| 4.19.0-16-amd64                                           | 50       | 7.62%   |
-| 4.19.0-9-amd64                                            | 48       | 7.32%   |
-| 4.19.0-13-amd64                                           | 48       | 7.32%   |
-| 4.19.0-8-amd64                                            | 43       | 6.55%   |
-| 4.19.0-12-amd64                                           | 37       | 5.64%   |
-| 4.19.0-17-amd64                                           | 34       | 5.18%   |
-| 4.19.0-10-amd64                                           | 29       | 4.42%   |
+| 4.19.0-14-amd64                                           | 52       | 7.91%   |
+| 4.19.0-6-amd64                                            | 51       | 7.76%   |
+| 4.19.0-16-amd64                                           | 50       | 7.61%   |
+| 4.19.0-9-amd64                                            | 48       | 7.31%   |
+| 4.19.0-13-amd64                                           | 48       | 7.31%   |
+| 4.19.0-8-amd64                                            | 43       | 6.54%   |
+| 4.19.0-12-amd64                                           | 37       | 5.63%   |
+| 4.19.0-17-amd64                                           | 35       | 5.33%   |
+| 4.19.0-10-amd64                                           | 29       | 4.41%   |
 | 4.19.0-11-amd64                                           | 16       | 2.44%   |
 | 5.10.0-0.bpo.3-amd64                                      | 14       | 2.13%   |
 | 4.19.0-5-amd64                                            | 14       | 2.13%   |
-| 5.8.0-0.bpo.2-amd64                                       | 11       | 1.68%   |
+| 5.8.0-0.bpo.2-amd64                                       | 11       | 1.67%   |
 | 5.9.0-0.bpo.2-amd64                                       | 9        | 1.37%   |
 | 5.6.0-2-amd64                                             | 9        | 1.37%   |
 | 5.4.106-1-pve                                             | 9        | 1.37%   |
@@ -1705,14 +1708,14 @@ Used RAM memory
 
 | Used GB     | Desktops | Percent |
 |-------------|----------|---------|
-| 1.01-2.0    | 161      | 25.08%  |
-| 2.01-3.0    | 134      | 20.87%  |
-| 4.01-8.0    | 100      | 15.58%  |
-| 3.01-4.0    | 75       | 11.68%  |
-| 8.01-16.0   | 58       | 9.03%   |
-| 0.51-1.0    | 50       | 7.79%   |
-| 0.01-0.5    | 27       | 4.21%   |
-| 16.01-24.0  | 15       | 2.34%   |
+| 1.01-2.0    | 161      | 25.04%  |
+| 2.01-3.0    | 135      | 21%     |
+| 4.01-8.0    | 100      | 15.55%  |
+| 3.01-4.0    | 75       | 11.66%  |
+| 8.01-16.0   | 58       | 9.02%   |
+| 0.51-1.0    | 50       | 7.78%   |
+| 0.01-0.5    | 27       | 4.2%    |
+| 16.01-24.0  | 15       | 2.33%   |
 | 32.01-64.0  | 12       | 1.87%   |
 | 24.01-32.0  | 7        | 1.09%   |
 | Unknown     | 2        | 0.31%   |
@@ -1729,8 +1732,8 @@ Number of drives on board
 | Drives | Desktops | Percent |
 |--------|----------|---------|
 | 1      | 192      | 32.32%  |
-| 2      | 175      | 29.46%  |
-| 3      | 84       | 14.14%  |
+| 2      | 176      | 29.63%  |
+| 3      | 83       | 13.97%  |
 | 4      | 66       | 11.11%  |
 | 5      | 31       | 5.22%   |
 | 6      | 20       | 3.37%   |
@@ -1754,8 +1757,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 348      | 59.69%  |
-| Yes       | 235      | 40.31%  |
+| No        | 352      | 60.27%  |
+| Yes       | 232      | 39.73%  |
 
 Has Ethernet
 ------------
@@ -1881,8 +1884,8 @@ Geographic location (city)
 | City                 | Desktops | Percent |
 |----------------------|----------|---------|
 | St Petersburg        | 22       | 3.64%   |
-| Moscow               | 12       | 1.99%   |
-| São Paulo           | 10       | 1.66%   |
+| Moscow               | 12       | 1.98%   |
+| São Paulo           | 10       | 1.65%   |
 | Paris                | 9        | 1.49%   |
 | Vienna               | 6        | 0.99%   |
 | Lahore               | 6        | 0.99%   |
@@ -1916,6 +1919,7 @@ Geographic location (city)
 | Ufa                  | 2        | 0.33%   |
 | Toronto              | 2        | 0.33%   |
 | Sydney               | 2        | 0.33%   |
+| Swansea              | 2        | 0.33%   |
 | Stuttgart            | 2        | 0.33%   |
 | Sofia                | 2        | 0.33%   |
 | Sarajevo             | 2        | 0.33%   |
@@ -1939,7 +1943,6 @@ Geographic location (city)
 | Gatesville           | 2        | 0.33%   |
 | Gatchina             | 2        | 0.33%   |
 | Freiburg im Breisgau | 2        | 0.33%   |
-| Frattamaggiore       | 2        | 0.33%   |
 
 Drives
 ------
@@ -1956,17 +1959,17 @@ Hard drive vendors
 |---------------------------|----------|--------|---------|
 | WDC                       | 222      | 417    | 19.8%   |
 | Seagate                   | 204      | 357    | 18.2%   |
-| Samsung Electronics       | 147      | 248    | 13.11%  |
+| Samsung Electronics       | 147      | 251    | 13.11%  |
 | Toshiba                   | 74       | 133    | 6.6%    |
 | Kingston                  | 69       | 93     | 6.16%   |
 | Crucial                   | 57       | 77     | 5.08%   |
 | Hitachi                   | 49       | 84     | 4.37%   |
-| SanDisk                   | 31       | 44     | 2.77%   |
+| Sandisk                   | 31       | 44     | 2.77%   |
 | Unknown                   | 25       | 34     | 2.23%   |
 | A-DATA Technology         | 22       | 33     | 1.96%   |
 | HGST                      | 19       | 33     | 1.69%   |
 | Intel                     | 18       | 23     | 1.61%   |
-| MAXTOR                    | 14       | 17     | 1.25%   |
+| Maxtor                    | 14       | 17     | 1.25%   |
 | OCZ                       | 13       | 15     | 1.16%   |
 | Corsair                   | 12       | 16     | 1.07%   |
 | China                     | 12       | 12     | 1.07%   |
@@ -1990,7 +1993,7 @@ Hard drive vendors
 | Gigabyte Technology       | 3        | 5      | 0.27%   |
 | Zheino                    | 2        | 4      | 0.18%   |
 | Silicon Motion            | 2        | 3      | 0.18%   |
-| SABRENT                   | 2        | 3      | 0.18%   |
+| Sabrent                   | 2        | 3      | 0.18%   |
 | Micron Technology         | 2        | 3      | 0.18%   |
 | LDLC                      | 2        | 4      | 0.18%   |
 | GOODRAM                   | 2        | 2      | 0.18%   |
@@ -2100,7 +2103,7 @@ Hard disk drive vendors
 | Seagate             | 199      | 351    | 33.06%  |
 | Toshiba             | 63       | 112    | 10.47%  |
 | Hitachi             | 49       | 84     | 8.14%   |
-| Samsung Electronics | 37       | 61     | 6.15%   |
+| Samsung Electronics | 37       | 63     | 6.15%   |
 | HGST                | 19       | 33     | 3.16%   |
 | MAXTOR              | 14       | 17     | 2.33%   |
 | Hewlett-Packard     | 4        | 8      | 0.66%   |
@@ -2128,7 +2131,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 84       | 117    | 20.95%  |
+| Samsung Electronics | 84       | 118    | 20.95%  |
 | Kingston            | 64       | 83     | 15.96%  |
 | Crucial             | 52       | 70     | 12.97%  |
 | SanDisk             | 27       | 38     | 6.73%   |
@@ -2191,8 +2194,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 440      | 1073   | 48.57%  |
-| SSD     | 322      | 524    | 35.54%  |
+| HDD     | 440      | 1075   | 48.57%  |
+| SSD     | 322      | 525    | 35.54%  |
 | NVMe    | 111      | 168    | 12.25%  |
 | Unknown | 23       | 36     | 2.54%   |
 | MMC     | 10       | 12     | 1.1%    |
@@ -2207,7 +2210,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 550      | 1547   | 76.6%   |
+| SATA | 550      | 1550   | 76.6%   |
 | NVMe | 111      | 168    | 15.46%  |
 | SAS  | 47       | 86     | 6.55%   |
 | MMC  | 10       | 12     | 1.39%   |
@@ -2222,11 +2225,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 416      | 782    | 49.41%  |
-| 0.51-1.0   | 216      | 363    | 25.65%  |
-| 1.01-2.0   | 97       | 175    | 11.52%  |
-| 3.01-4.0   | 51       | 126    | 6.06%   |
-| 4.01-10.0  | 31       | 79     | 3.68%   |
+| 0.01-0.5   | 416      | 785    | 49.52%  |
+| 0.51-1.0   | 216      | 365    | 25.71%  |
+| 1.01-2.0   | 96       | 174    | 11.43%  |
+| 3.01-4.0   | 50       | 125    | 5.95%   |
+| 4.01-10.0  | 31       | 79     | 3.69%   |
 | 2.01-3.0   | 28       | 67     | 3.33%   |
 | 10.01-20.0 | 3        | 5      | 0.36%   |
 
@@ -2441,7 +2444,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Works    | 318      | 872    | 44.98%  |
-| Detected | 280      | 784    | 39.6%   |
+| Detected | 280      | 787    | 39.6%   |
 | Malfunc  | 108      | 156    | 15.28%  |
 | Failed   | 1        | 1      | 0.14%   |
 
@@ -3606,7 +3609,7 @@ Wireless models
 | Broadcom BCM43228 802.11a/b/g/n                                      | 2        | 0.95%   |
 | ASUS WL-167G v3 802.11n Adapter [Realtek RTL8188SU]                  | 2        | 0.95%   |
 | TRENDnet 802.11n WLAN Adapter                                        | 1        | 0.47%   |
-| TP-Link TL WN823N RTL8192EU                                          | 1        | 0.47%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                          | 1        | 0.47%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                               | 1        | 0.47%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                  | 1        | 0.47%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                      | 1        | 0.47%   |
@@ -3616,9 +3619,9 @@ Wireless models
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                           | 1        | 0.47%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                               | 1        | 0.47%   |
 | Realtek RTL8188SU 802.11n WLAN Adapter                               | 1        | 0.47%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)            | 1        | 0.47%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                           | 1        | 0.47%   |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter             | 1        | 0.47%   |
-| Realtek 802.11n WLAN Adapter                                         | 1        | 0.47%   |
 | Ralink RT5372 Wireless Adapter                                       | 1        | 0.47%   |
 | Ralink RT5370 Wireless Adapter                                       | 1        | 0.47%   |
 | Ralink RT5392 PCIe Wireless Network Adapter                          | 1        | 0.47%   |
@@ -3840,10 +3843,10 @@ Controller models
 | Intel Bluetooth wireless interface                    | 14       | 9.03%   |
 | Intel AX200 Bluetooth                                 | 13       | 8.39%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 11       | 7.1%    |
-| Realtek Bluetooth Radio                               | 9        | 5.81%   |
+| Realtek Bluetooth Radio                               | 10       | 6.45%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 8        | 5.16%   |
-| Qualcomm Atheros  Bluetooth Device                    | 6        | 3.87%   |
 | ASUS Bluetooth Adapter                                | 6        | 3.87%   |
+| Qualcomm Atheros  Bluetooth Device                    | 5        | 3.23%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 4        | 2.58%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 4        | 2.58%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 4        | 2.58%   |
@@ -3855,13 +3858,13 @@ Controller models
 | Broadcom Bluetooth 2.0+eDR dongle                     | 2        | 1.29%   |
 | ASUS Qualcomm Bluetooth 4.1                           | 2        | 1.29%   |
 | Apple Bluetooth HCI                                   | 2        | 1.29%   |
-| Realtek  Bluetooth 4.2 Adapter                        | 1        | 0.65%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                | 1        | 0.65%   |
 | Qualcomm Atheros Bluetooth USB Host Controller        | 1        | 0.65%   |
 | Qualcomm Atheros AR3011 Bluetooth (no firmware)       | 1        | 0.65%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 1        | 0.65%   |
 | Kensington Bluetooth EDR Dongle                       | 1        | 0.65%   |
 | Intel Centrino Bluetooth Wireless Transceiver         | 1        | 0.65%   |
-| Intel AX201 Bluetooth                                 | 1        | 0.65%   |
+| Intel Bluetooth Device                                | 1        | 0.65%   |
 | Integrated System Solution Bluetooth Device           | 1        | 0.65%   |
 | Foxconn / Hon Hai Acer Bluetooth module               | 1        | 0.65%   |
 | Com One Bluetooth Device                              | 1        | 0.65%   |
@@ -4114,7 +4117,7 @@ Memory module models
 | Patriot RAM PSD34G1600L2S 4096MB SODIMM DDR3 1600MT/s             | 2        | 0.41%   |
 | Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s             | 2        | 0.41%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s            | 2        | 0.41%   |
-| Kingston RAM KHX3000C15/16GX 16GB DIMM DDR4 3200MT/s              | 2        | 0.41%   |
+| Kingston RAM KHX3000C15/16GX 16384MB DIMM DDR4 3200MT/s           | 2        | 0.41%   |
 | Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s            | 2        | 0.41%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 3334MT/s               | 2        | 0.41%   |
 | Kingston RAM KHX2133C14D4/4G 4096MB DIMM DDR4 2933MT/s            | 2        | 0.41%   |
@@ -4187,16 +4190,16 @@ Memory module speed
 | 1600    | 105      | 24.65%  |
 | 1333    | 43       | 10.09%  |
 | 2400    | 37       | 8.69%   |
-| 2667    | 30       | 7.04%   |
 | 2133    | 30       | 7.04%   |
+| 2667    | 29       | 6.81%   |
 | 3200    | 28       | 6.57%   |
 | 800     | 22       | 5.16%   |
 | 667     | 19       | 4.46%   |
 | 3600    | 11       | 2.58%   |
+| 3000    | 8        | 1.88%   |
 | 2666    | 8        | 1.88%   |
 | 1866    | 8        | 1.88%   |
 | Unknown | 8        | 1.88%   |
-| 3000    | 7        | 1.64%   |
 | 2933    | 7        | 1.64%   |
 | 3400    | 5        | 1.17%   |
 | 1867    | 5        | 1.17%   |
@@ -4370,6 +4373,7 @@ Camera device models
 | Logitech Webcam C270                                                 | 12       | 12.5%   |
 | Logitech HD Pro Webcam C920                                          | 10       | 10.42%  |
 | Logitech HD Webcam C525                                              | 4        | 4.17%   |
+| Z-Star Venus USB2.0 Camera                                           | 3        | 3.13%   |
 | Samsung Galaxy A5 (MTP)                                              | 3        | 3.13%   |
 | Microsoft LifeCam HD-3000                                            | 3        | 3.13%   |
 | Microdia USB 2.0 Camera                                              | 3        | 3.13%   |
@@ -4378,7 +4382,6 @@ Camera device models
 | Logitech C922 Pro Stream Webcam                                      | 3        | 3.13%   |
 | Jieli USB PHY 2.0                                                    | 3        | 3.13%   |
 | Generalplus GENERAL WEBCAM                                           | 3        | 3.13%   |
-| Z-Star Venus USB2.0 Camera                                           | 2        | 2.08%   |
 | Microdia USB Live camera                                             | 2        | 2.08%   |
 | Microdia MSI Starcam Racer                                           | 2        | 2.08%   |
 | Microdia Integrated Camera                                           | 2        | 2.08%   |
@@ -4390,7 +4393,6 @@ Camera device models
 | Huawei UVC Camera                                                    | 2        | 2.08%   |
 | HP Webcam 3110                                                       | 2        | 2.08%   |
 | Cheng Uei Precision Industry (Foxlink) HP High Definition 1MP Webcam | 2        | 2.08%   |
-| Z-Star UVC USB2.0 Camera                                             | 1        | 1.04%   |
 | Z-Star A4 TECH USB2.0 PC Camera J                                    | 1        | 1.04%   |
 | Trust WB-6250X Webcam                                                | 1        | 1.04%   |
 | Syntek Integrated RGB Camera                                         | 1        | 1.04%   |
