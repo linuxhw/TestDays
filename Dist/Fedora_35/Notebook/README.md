@@ -1383,7 +1383,7 @@ Controller models
 | Foxconn / Hon Hai Bluetooth Device       | 2         | 28.57%  |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter  | 1         | 14.29%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter | 1         | 14.29%  |
-| Intel Bluetooth wireless interface       | 1         | 14.29%  |
+| Intel Bluetooth Device                   | 1         | 14.29%  |
 
 Sound
 -----
@@ -1614,7 +1614,7 @@ Fingerprint sensor models
 |----------------------------------------------|-----------|---------|
 | Shenzhen Goodix  Fingerprint Device          | 2         | 50%     |
 | Validity Sensors VFS 5011 fingerprint sensor | 1         | 25%     |
-| LighTuning EgisTec_ES603                     | 1         | 25%     |
+| LighTuning ES603 Swipe Fingerprint Sensor    | 1         | 25%     |
 
 Chipcard Vendor
 ---------------

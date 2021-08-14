@@ -1578,7 +1578,7 @@ Controller models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 16       | 39.02%  |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2        | 4.88%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 4.88%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                            | 1        | 2.44%   |
+| TP-Link 802.11ac NIC                                              | 1        | 2.44%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 2.44%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 2.44%   |
 | Realtek 802.11ac NIC                                              | 1        | 2.44%   |
@@ -1628,7 +1628,7 @@ Wireless models
 
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
-| TP-Link Archer T3U [Realtek RTL8812BU]                      | 1        | 9.09%   |
+| TP-Link 802.11ac NIC                                        | 1        | 9.09%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter         | 1        | 9.09%   |
 | Realtek 802.11ac NIC                                        | 1        | 9.09%   |
 | Ralink MT7601U Wireless Adapter                             | 1        | 9.09%   |

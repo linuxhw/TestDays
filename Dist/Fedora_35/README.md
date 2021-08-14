@@ -1636,15 +1636,14 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
+| Realtek  Bluetooth 4.2 Adapter                      | 2         | 15.38%  |
 | Realtek Bluetooth Radio                             | 2         | 15.38%  |
 | Foxconn / Hon Hai Bluetooth Device                  | 2         | 15.38%  |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 7.69%   |
-| Realtek  Bluetooth 4.2 Adapter                      | 1         | 7.69%   |
-| Realtek Bluetooth Radio                             | 1         | 7.69%   |
 | Marvell Bluetooth and Wireless LAN Composite        | 1         | 7.69%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 7.69%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 7.69%   |
-| Intel Bluetooth wireless interface                  | 1         | 7.69%   |
+| Intel Bluetooth Device                              | 1         | 7.69%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 7.69%   |
 | ASUS BCM20702A0                                     | 1         | 7.69%   |
 
@@ -1904,7 +1903,7 @@ Fingerprint sensor models
 |----------------------------------------------|-----------|---------|
 | Shenzhen Goodix  Fingerprint Device          | 2         | 50%     |
 | Validity Sensors VFS 5011 fingerprint sensor | 1         | 25%     |
-| LighTuning EgisTec_ES603                     | 1         | 25%     |
+| LighTuning ES603 Swipe Fingerprint Sensor    | 1         | 25%     |
 
 Chipcard Vendor
 ---------------

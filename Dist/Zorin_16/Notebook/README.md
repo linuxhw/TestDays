@@ -1674,9 +1674,9 @@ Controller models
 
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface             | 6         | 27.27%  |
+| Intel Bluetooth Device                         | 5         | 22.73%  |
+| Intel Bluetooth wireless interface             | 3         | 13.64%  |
 | Qualcomm Atheros  Bluetooth Device             | 2         | 9.09%   |
-| Intel Bluetooth Device                         | 2         | 9.09%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2         | 9.09%   |
 | Realtek  Bluetooth 4.2 Adapter                 | 1         | 4.55%   |
 | Ralink RT3290 Bluetooth                        | 1         | 4.55%   |
@@ -1771,7 +1771,7 @@ Memory module models
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
 | SK Hynix RAM HMA81GS6JJR8N-VK 8192MB SODIMM DDR4 2667MT/s         | 1         | 7.14%   |
-| Samsung RAM UBE3D4AA-MGCR 2048MB Row Of Chips LPDDR4 4267MT/s     | 1         | 7.14%   |
+| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s        | 1         | 7.14%   |
 | Samsung RAM M471B5773EB0-CK0 2048MB SODIMM DDR3 1600MT/s          | 1         | 7.14%   |
 | Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s          | 1         | 7.14%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s             | 1         | 7.14%   |

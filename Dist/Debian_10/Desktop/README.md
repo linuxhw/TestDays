@@ -1757,8 +1757,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 352      | 60.27%  |
-| Yes       | 232      | 39.73%  |
+| No        | 347      | 59.42%  |
+| Yes       | 237      | 40.58%  |
 
 Has Ethernet
 ------------
@@ -1964,7 +1964,7 @@ Hard drive vendors
 | Kingston                  | 69       | 93     | 6.16%   |
 | Crucial                   | 57       | 77     | 5.08%   |
 | Hitachi                   | 49       | 84     | 4.37%   |
-| Sandisk                   | 31       | 44     | 2.77%   |
+| SanDisk                   | 31       | 44     | 2.77%   |
 | Unknown                   | 25       | 34     | 2.23%   |
 | A-DATA Technology         | 22       | 33     | 1.96%   |
 | HGST                      | 19       | 33     | 1.69%   |
@@ -2059,7 +2059,7 @@ Hard drive models
 | Toshiba HDWD110 1TB              | 6        | 0.45%   |
 | Seagate ST4000VN008-2DR166 4TB   | 6        | 0.45%   |
 | Seagate ST31000528AS 1TB         | 6        | 0.45%   |
-| Seagate Expansion Desk 5TB       | 6        | 0.45%   |
+| Seagate Expansion Desk 6TB       | 6        | 0.45%   |
 | Samsung SSD 850 PRO 256GB        | 6        | 0.45%   |
 | Crucial CT240BX500SSD1 240GB     | 6        | 0.45%   |
 | WDC WD20EZRZ-00Z5HB0 2TB         | 5        | 0.37%   |
@@ -2105,7 +2105,7 @@ Hard disk drive vendors
 | Hitachi             | 49       | 84     | 8.14%   |
 | Samsung Electronics | 37       | 63     | 6.15%   |
 | HGST                | 19       | 33     | 3.16%   |
-| MAXTOR              | 14       | 17     | 2.33%   |
+| Maxtor              | 14       | 17     | 2.33%   |
 | Hewlett-Packard     | 4        | 8      | 0.66%   |
 | ASMT                | 3        | 5      | 0.5%    |
 | Fujitsu             | 2        | 2      | 0.33%   |
@@ -2225,8 +2225,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 416      | 785    | 49.52%  |
-| 0.51-1.0   | 216      | 365    | 25.71%  |
+| 0.01-0.5   | 416      | 789    | 49.52%  |
+| 0.51-1.0   | 216      | 361    | 25.71%  |
 | 1.01-2.0   | 96       | 174    | 11.43%  |
 | 3.01-4.0   | 50       | 125    | 5.95%   |
 | 4.01-10.0  | 31       | 79     | 3.69%   |
@@ -3610,8 +3610,8 @@ Wireless models
 | ASUS WL-167G v3 802.11n Adapter [Realtek RTL8188SU]                  | 2        | 0.95%   |
 | TRENDnet 802.11n WLAN Adapter                                        | 1        | 0.47%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                          | 1        | 0.47%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                               | 1        | 0.47%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                  | 1        | 0.47%   |
+| TP-Link 802.11ac NIC                                                 | 1        | 0.47%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                      | 1        | 0.47%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter             | 1        | 0.47%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter              | 1        | 0.47%   |
@@ -3840,13 +3840,14 @@ Controller models
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 39       | 25.16%  |
-| Intel Bluetooth wireless interface                    | 14       | 9.03%   |
 | Intel AX200 Bluetooth                                 | 13       | 8.39%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 11       | 7.1%    |
-| Realtek Bluetooth Radio                               | 10       | 6.45%   |
+| Realtek Bluetooth Radio                               | 9        | 5.81%   |
+| Intel Bluetooth wireless interface                    | 9        | 5.81%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 8        | 5.16%   |
+| Intel Bluetooth Device                                | 6        | 3.87%   |
 | ASUS Bluetooth Adapter                                | 6        | 3.87%   |
-| Qualcomm Atheros  Bluetooth Device                    | 5        | 3.23%   |
+| Qualcomm Atheros  Bluetooth Device                    | 4        | 2.58%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 4        | 2.58%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 4        | 2.58%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 4        | 2.58%   |
@@ -3858,13 +3859,14 @@ Controller models
 | Broadcom Bluetooth 2.0+eDR dongle                     | 2        | 1.29%   |
 | ASUS Qualcomm Bluetooth 4.1                           | 2        | 1.29%   |
 | Apple Bluetooth HCI                                   | 2        | 1.29%   |
+| Realtek  Bluetooth 4.2 Adapter                        | 1        | 0.65%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                | 1        | 0.65%   |
 | Qualcomm Atheros Bluetooth USB Host Controller        | 1        | 0.65%   |
+| Qualcomm Atheros AR9462 Bluetooth                     | 1        | 0.65%   |
 | Qualcomm Atheros AR3011 Bluetooth (no firmware)       | 1        | 0.65%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 1        | 0.65%   |
 | Kensington Bluetooth EDR Dongle                       | 1        | 0.65%   |
 | Intel Centrino Bluetooth Wireless Transceiver         | 1        | 0.65%   |
-| Intel Bluetooth Device                                | 1        | 0.65%   |
 | Integrated System Solution Bluetooth Device           | 1        | 0.65%   |
 | Foxconn / Hon Hai Acer Bluetooth module               | 1        | 0.65%   |
 | Com One Bluetooth Device                              | 1        | 0.65%   |
@@ -4120,7 +4122,7 @@ Memory module models
 | Kingston RAM KHX3000C15/16GX 16384MB DIMM DDR4 3200MT/s           | 2        | 0.41%   |
 | Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s            | 2        | 0.41%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 3334MT/s               | 2        | 0.41%   |
-| Kingston RAM KHX2133C14D4/4G 4096MB DIMM DDR4 2933MT/s            | 2        | 0.41%   |
+| Kingston RAM KHX2133C14D4/4G 4GB DIMM DDR4 2933MT/s               | 2        | 0.41%   |
 | Kingston RAM KHX2133C11D3/8GX 8192MB DIMM DDR3 2133MT/s           | 2        | 0.41%   |
 | Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s             | 2        | 0.41%   |
 | Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s          | 2        | 0.41%   |
@@ -4390,7 +4392,7 @@ Camera device models
 | Logitech Webcam C200                                                 | 2        | 2.08%   |
 | Logitech HD Webcam C910                                              | 2        | 2.08%   |
 | Logitech BRIO                                                        | 2        | 2.08%   |
-| Huawei UVC Camera                                                    | 2        | 2.08%   |
+| Huawei HiCamera                                                      | 2        | 2.08%   |
 | HP Webcam 3110                                                       | 2        | 2.08%   |
 | Cheng Uei Precision Industry (Foxlink) HP High Definition 1MP Webcam | 2        | 2.08%   |
 | Z-Star A4 TECH USB2.0 PC Camera J                                    | 1        | 1.04%   |
@@ -4493,8 +4495,8 @@ Total unsupported devices on board
 | Total | Desktops | Percent |
 |-------|----------|---------|
 | 0     | 463      | 78.61%  |
-| 1     | 103      | 17.49%  |
-| 2     | 20       | 3.4%    |
+| 1     | 102      | 17.32%  |
+| 2     | 21       | 3.57%   |
 | 3     | 2        | 0.34%   |
 | 6     | 1        | 0.17%   |
 
@@ -4508,21 +4510,21 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 54       | 38.3%   |
-| Net/wireless             | 21       | 14.89%  |
-| Communication controller | 13       | 9.22%   |
-| Unassigned class         | 12       | 8.51%   |
-| Multimedia controller    | 9        | 6.38%   |
-| Chipcard                 | 6        | 4.26%   |
-| Sound                    | 5        | 3.55%   |
-| Card reader              | 5        | 3.55%   |
-| Storage/ide              | 3        | 2.13%   |
-| Net/ethernet             | 3        | 2.13%   |
-| Network                  | 2        | 1.42%   |
-| Camera                   | 2        | 1.42%   |
-| Bluetooth                | 2        | 1.42%   |
-| Storage/raid             | 1        | 0.71%   |
-| Storage/ata              | 1        | 0.71%   |
-| Modem                    | 1        | 0.71%   |
-| Fingerprint reader       | 1        | 0.71%   |
+| Graphics card            | 55       | 38.73%  |
+| Net/wireless             | 21       | 14.79%  |
+| Communication controller | 13       | 9.15%   |
+| Unassigned class         | 12       | 8.45%   |
+| Multimedia controller    | 9        | 6.34%   |
+| Chipcard                 | 6        | 4.23%   |
+| Sound                    | 5        | 3.52%   |
+| Card reader              | 5        | 3.52%   |
+| Storage/ide              | 3        | 2.11%   |
+| Net/ethernet             | 3        | 2.11%   |
+| Network                  | 2        | 1.41%   |
+| Camera                   | 2        | 1.41%   |
+| Bluetooth                | 2        | 1.41%   |
+| Storage/raid             | 1        | 0.7%    |
+| Storage/ata              | 1        | 0.7%    |
+| Modem                    | 1        | 0.7%    |
+| Fingerprint reader       | 1        | 0.7%    |
 

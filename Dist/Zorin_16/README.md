@@ -1966,7 +1966,7 @@ Controller models
 | Intel Centrino Wireless-N 1000 [Condor Peak]                      | 2         | 1.98%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 1.98%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 2         | 1.98%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                            | 1         | 0.99%   |
+| TP-Link 802.11ac NIC                                              | 1         | 0.99%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 0.99%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 0.99%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1         | 0.99%   |
@@ -2042,7 +2042,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth             | 2         | 4.44%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                           | 2         | 4.44%   |
 | Intel Centrino Wireless-N 1000 [Condor Peak]                | 2         | 4.44%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                      | 1         | 2.22%   |
+| TP-Link 802.11ac NIC                                        | 1         | 2.22%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                          | 1         | 2.22%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter             | 1         | 2.22%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter         | 1         | 2.22%   |
@@ -2201,12 +2201,12 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 7         | 19.44%  |
+| Intel Bluetooth Device                              | 5         | 13.89%  |
+| Intel Bluetooth wireless interface                  | 4         | 11.11%  |
 | Qualcomm Atheros  Bluetooth Device                  | 3         | 8.33%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 8.33%   |
 | Lite-On Bluetooth Device                            | 2         | 5.56%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 5.56%   |
-| Intel Bluetooth Device                              | 2         | 5.56%   |
 | Intel AX200 Bluetooth                               | 2         | 5.56%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 5.56%   |
 | Apple Bluetooth USB Host Controller                 | 2         | 5.56%   |
@@ -2344,7 +2344,7 @@ Memory module models
 | Unknown RAM 04S2400CL17A 4096MB DIMM DDR4 2400MT/s                | 1         | 5.26%   |
 | Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2667MT/s                | 1         | 5.26%   |
 | SK Hynix RAM HMA81GS6JJR8N-VK 8192MB SODIMM DDR4 2667MT/s         | 1         | 5.26%   |
-| Samsung RAM UBE3D4AA-MGCR 2048MB Row Of Chips LPDDR4 4267MT/s     | 1         | 5.26%   |
+| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s        | 1         | 5.26%   |
 | Samsung RAM M471B5773EB0-CK0 2048MB SODIMM DDR3 1600MT/s          | 1         | 5.26%   |
 | Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s          | 1         | 5.26%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
