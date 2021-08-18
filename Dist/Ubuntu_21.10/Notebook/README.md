@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek  | ROG Strix G533QS_G533QS     | [b8aa2e41d5](https://linux-hardware.org/?probe=b8aa2e41d5) | Aug 16, 2021 |
 | ASUSTek  | ROG Strix G533QS_G533QS     | [612dda8fba](https://linux-hardware.org/?probe=612dda8fba) | Aug 13, 2021 |
 | ASUSTek  | ROG Strix G533QS_G533QS     | [1eb6008b88](https://linux-hardware.org/?probe=1eb6008b88) | Aug 13, 2021 |
 | ASUSTek  | VivoBook_ASUSLaptop X509... | [808cfab06b](https://linux-hardware.org/?probe=808cfab06b) | Aug 12, 2021 |
@@ -539,8 +540,8 @@ Number of drives on board
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
 | 1      | 10        | 66.67%  |
-| 2      | 4         | 26.67%  |
-| 3      | 1         | 6.67%   |
+| 2      | 3         | 20%     |
+| 3      | 2         | 13.33%  |
 
 Has CD-ROM
 ----------
@@ -656,19 +657,19 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 4         | 4      | 20%     |
-| SK Hynix            | 2         | 2      | 10%     |
-| Seagate             | 2         | 2      | 10%     |
-| Sandisk             | 2         | 2      | 10%     |
-| Intel               | 2         | 3      | 10%     |
-| WDC                 | 1         | 1      | 5%      |
-| Unknown             | 1         | 1      | 5%      |
-| Toshiba             | 1         | 1      | 5%      |
-| SP                  | 1         | 1      | 5%      |
-| LITEON              | 1         | 1      | 5%      |
-| Kingston            | 1         | 1      | 5%      |
-| KingDian            | 1         | 1      | 5%      |
-| HGST                | 1         | 1      | 5%      |
+| Samsung Electronics | 4         | 4      | 19.05%  |
+| Seagate             | 3         | 3      | 14.29%  |
+| SK Hynix            | 2         | 2      | 9.52%   |
+| SanDisk             | 2         | 2      | 9.52%   |
+| Intel               | 2         | 3      | 9.52%   |
+| WDC                 | 1         | 1      | 4.76%   |
+| Unknown             | 1         | 1      | 4.76%   |
+| Toshiba             | 1         | 1      | 4.76%   |
+| SP                  | 1         | 1      | 4.76%   |
+| LITEON              | 1         | 1      | 4.76%   |
+| Kingston            | 1         | 1      | 4.76%   |
+| KingDian            | 1         | 1      | 4.76%   |
+| HGST                | 1         | 1      | 4.76%   |
 
 Drive Model
 -----------
@@ -680,26 +681,26 @@ Hard drive models
 
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
-| SK Hynix HFM001TD3JX013N 1TB            | 2         | 9.52%   |
-| WDC WD5000LPVX-22V0TT0 500GB            | 1         | 4.76%   |
-| Unknown SB64G  64GB                     | 1         | 4.76%   |
-| Toshiba MQ04ABF100 1TB                  | 1         | 4.76%   |
-| SP PC60 1TB                             | 1         | 4.76%   |
-| Seagate ST9320423AS 320GB               | 1         | 4.76%   |
-| Seagate Expansion 2TB                   | 1         | 4.76%   |
-| SanDisk SD9SN8W256G1102 256GB SSD       | 1         | 4.76%   |
-| Sandisk NVMe SSD Drive 500GB            | 1         | 4.76%   |
-| Samsung SSD 970 EVO 500GB               | 1         | 4.76%   |
-| Samsung SSD 850 EVO 500GB               | 1         | 4.76%   |
-| Samsung MZVLQ512HALU-00000 512GB        | 1         | 4.76%   |
-| Samsung MZALQ512HALU-000L2 512GB        | 1         | 4.76%   |
-| LITEON L8H-256V2G-11 M.2 2280 256GB SSD | 1         | 4.76%   |
-| Kingston SKC300S37A240G 240GB SSD       | 1         | 4.76%   |
-| KingDian N400 240GB SSD                 | 1         | 4.76%   |
-| Intel NVMe SSD Drive 512GB              | 1         | 4.76%   |
-| Intel HBRPEKNX0101AHO 16GB              | 1         | 4.76%   |
-| Intel HBRPEKNX0101AH 256GB              | 1         | 4.76%   |
-| HGST HTS721010A9E630 1TB                | 1         | 4.76%   |
+| SK Hynix HFM001TD3JX013N 1TB            | 2         | 9.09%   |
+| Seagate Expansion 1TB                   | 2         | 9.09%   |
+| WDC WD5000LPVX-22V0TT0 500GB            | 1         | 4.55%   |
+| Unknown SB64G  64GB                     | 1         | 4.55%   |
+| Toshiba MQ04ABF100 1TB                  | 1         | 4.55%   |
+| SP PC60 1TB                             | 1         | 4.55%   |
+| Seagate ST9320423AS 320GB               | 1         | 4.55%   |
+| SanDisk SD9SN8W256G1102 256GB SSD       | 1         | 4.55%   |
+| Sandisk NVMe SSD Drive 500GB            | 1         | 4.55%   |
+| Samsung SSD 970 EVO 500GB               | 1         | 4.55%   |
+| Samsung SSD 850 EVO 500GB               | 1         | 4.55%   |
+| Samsung MZVLQ512HALU-00000 512GB        | 1         | 4.55%   |
+| Samsung MZALQ512HALU-000L2 512GB        | 1         | 4.55%   |
+| LITEON L8H-256V2G-11 M.2 2280 256GB SSD | 1         | 4.55%   |
+| Kingston SKC300S37A240G 240GB SSD       | 1         | 4.55%   |
+| KingDian N400 240GB SSD                 | 1         | 4.55%   |
+| Intel NVMe SSD Drive 512GB              | 1         | 4.55%   |
+| Intel HBRPEKNX0101AHO 16GB              | 1         | 4.55%   |
+| Intel HBRPEKNX0101AH 256GB              | 1         | 4.55%   |
+| HGST HTS721010A9E630 1TB                | 1         | 4.55%   |
 
 HDD Vendor
 ----------
@@ -711,10 +712,10 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Seagate | 2         | 2      | 40%     |
-| WDC     | 1         | 1      | 20%     |
-| Toshiba | 1         | 1      | 20%     |
-| HGST    | 1         | 1      | 20%     |
+| Seagate | 3         | 3      | 50%     |
+| WDC     | 1         | 1      | 16.67%  |
+| Toshiba | 1         | 1      | 16.67%  |
+| HGST    | 1         | 1      | 16.67%  |
 
 SSD Vendor
 ----------
@@ -742,11 +743,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 8         | 9      | 40%     |
-| SSD     | 5         | 5      | 25%     |
-| HDD     | 5         | 5      | 25%     |
-| MMC     | 1         | 1      | 5%      |
-| Unknown | 1         | 1      | 5%      |
+| NVMe    | 8         | 9      | 38.1%   |
+| HDD     | 6         | 6      | 28.57%  |
+| SSD     | 5         | 5      | 23.81%  |
+| MMC     | 1         | 1      | 4.76%   |
+| Unknown | 1         | 1      | 4.76%   |
 
 Drive Connector
 ---------------
@@ -760,7 +761,7 @@ SATA, SAS, NVMe, etc.
 |------|-----------|--------|---------|
 | NVMe | 8         | 9      | 42.11%  |
 | SATA | 8         | 9      | 42.11%  |
-| SAS  | 2         | 2      | 10.53%  |
+| SAS  | 2         | 3      | 10.53%  |
 | MMC  | 1         | 1      | 5.26%   |
 
 Drive Size
@@ -773,9 +774,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 7         | 7      | 70%     |
-| 0.51-1.0   | 2         | 2      | 20%     |
-| 1.01-2.0   | 1         | 1      | 10%     |
+| 0.01-0.5   | 7         | 7      | 63.64%  |
+| 0.51-1.0   | 4         | 4      | 36.36%  |
 
 Space Total
 -----------
@@ -863,7 +863,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 10        | 12     | 55.56%  |
+| Detected | 10        | 13     | 55.56%  |
 | Works    | 8         | 9      | 44.44%  |
 
 Storage controller
@@ -1346,12 +1346,13 @@ Controller vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Realtek Semiconductor | 8         | 40%     |
-| Intel                 | 7         | 35%     |
-| MEDIATEK              | 2         | 10%     |
-| Qualcomm Atheros      | 1         | 5%      |
-| Broadcom Limited      | 1         | 5%      |
-| Broadcom              | 1         | 5%      |
+| Realtek Semiconductor | 8         | 38.1%   |
+| Intel                 | 7         | 33.33%  |
+| MEDIATEK              | 2         | 9.52%   |
+| Xiaomi                | 1         | 4.76%   |
+| Qualcomm Atheros      | 1         | 4.76%   |
+| Broadcom Limited      | 1         | 4.76%   |
+| Broadcom              | 1         | 4.76%   |
 
 Net Controller Model
 --------------------
@@ -1363,23 +1364,24 @@ Controller models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6         | 26.09%  |
-| MEDIATEK Network controller                                       | 2         | 8.7%    |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 4.35%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 4.35%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1         | 4.35%   |
-| Realtek RTL8188EE Wireless Network Adapter                        | 1         | 4.35%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 4.35%   |
-| Intel Wireless 8265 / 8275                                        | 1         | 4.35%   |
-| Intel Wireless 7265                                               | 1         | 4.35%   |
-| Intel Wireless 3165                                               | 1         | 4.35%   |
-| Intel Wi-Fi 6 AX201                                               | 1         | 4.35%   |
-| Intel Wi-Fi 6 AX200                                               | 1         | 4.35%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection             | 1         | 4.35%   |
-| Intel Centrino Advanced-N 6200                                    | 1         | 4.35%   |
-| Intel 82577LM Gigabit Network Connection                          | 1         | 4.35%   |
-| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 4.35%   |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter        | 1         | 4.35%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6         | 25%     |
+| MEDIATEK Network controller                                       | 2         | 8.33%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 4.17%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 4.17%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 4.17%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1         | 4.17%   |
+| Realtek RTL8188EE Wireless Network Adapter                        | 1         | 4.17%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 4.17%   |
+| Intel Wireless 8265 / 8275                                        | 1         | 4.17%   |
+| Intel Wireless 7265                                               | 1         | 4.17%   |
+| Intel Wireless 3165                                               | 1         | 4.17%   |
+| Intel Wi-Fi 6 AX201                                               | 1         | 4.17%   |
+| Intel Wi-Fi 6 AX200                                               | 1         | 4.17%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection             | 1         | 4.17%   |
+| Intel Centrino Advanced-N 6200                                    | 1         | 4.17%   |
+| Intel 82577LM Gigabit Network Connection                          | 1         | 4.17%   |
+| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 4.17%   |
+| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter        | 1         | 4.17%   |
 
 Wireless Vendor
 ---------------
@@ -1432,9 +1434,10 @@ Ethernet vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Realtek Semiconductor | 6         | 75%     |
-| Intel                 | 1         | 12.5%   |
-| Broadcom              | 1         | 12.5%   |
+| Realtek Semiconductor | 6         | 66.67%  |
+| Xiaomi                | 1         | 11.11%  |
+| Intel                 | 1         | 11.11%  |
+| Broadcom              | 1         | 11.11%  |
 
 Ethernet Model
 --------------
@@ -1446,9 +1449,10 @@ Ethernet models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6         | 75%     |
-| Intel 82577LM Gigabit Network Connection                          | 1         | 12.5%   |
-| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 12.5%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6         | 66.67%  |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 11.11%  |
+| Intel 82577LM Gigabit Network Connection                          | 1         | 11.11%  |
+| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 11.11%  |
 
 Net Controller Kind
 -------------------
@@ -1532,12 +1536,12 @@ Controller models
 
 | Model                                 | Notebooks | Percent |
 |---------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface    | 3         | 25%     |
+| Intel Bluetooth wireless interface    | 2         | 16.67%  |
+| Intel Bluetooth Device                | 2         | 16.67%  |
 | IMC Networks Wireless_Device          | 2         | 16.67%  |
 | Realtek  Bluetooth 4.2 Adapter        | 1         | 8.33%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0 | 1         | 8.33%   |
 | Lite-On Bluetooth Radio               | 1         | 8.33%   |
-| Intel Bluetooth Device                | 1         | 8.33%   |
 | Intel AX200 Bluetooth                 | 1         | 8.33%   |
 | IMC Networks Bluetooth Radio          | 1         | 8.33%   |
 | Broadcom BCM20702A0 Bluetooth         | 1         | 8.33%   |
