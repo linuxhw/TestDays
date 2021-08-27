@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor   | Model                    | Probe                                                      | Date         |
 |----------|--------------------------|------------------------------------------------------------|--------------|
+| Huanan   | X99 F8D V2.2             | [30fe8d6bb3](https://linux-hardware.org/?probe=30fe8d6bb3) | Aug 26, 2021 |
 | ASUSTek  | ROG ZENITH II EXTREME    | [1a371ea24e](https://linux-hardware.org/?probe=1a371ea24e) | Aug 16, 2021 |
 | Fujitsu  | D3400-B2 S26361-D3400-B2 | [067c79a9fe](https://linux-hardware.org/?probe=067c79a9fe) | Aug 13, 2021 |
 | MSI      | MAG B550M MORTAR         | [912b2a77a2](https://linux-hardware.org/?probe=912b2a77a2) | Aug 05, 2021 |
@@ -177,10 +178,10 @@ Version of the Linux kernel
 
 | Version               | Desktops | Percent |
 |-----------------------|----------|---------|
-| 5.13.0-12-generic     | 2        | 40%     |
-| 5.13.0-14-generic     | 1        | 20%     |
-| 5.13.0-051300-generic | 1        | 20%     |
-| 5.11.0-20-generic     | 1        | 20%     |
+| 5.13.0-14-generic     | 2        | 33.33%  |
+| 5.13.0-12-generic     | 2        | 33.33%  |
+| 5.13.0-051300-generic | 1        | 16.67%  |
+| 5.11.0-20-generic     | 1        | 16.67%  |
 
 Kernel Family
 -------------
@@ -192,8 +193,8 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.13.0  | 4        | 80%     |
-| 5.11.0  | 1        | 20%     |
+| 5.13.0  | 5        | 83.33%  |
+| 5.11.0  | 1        | 16.67%  |
 
 Kernel Major Ver.
 -----------------
@@ -205,8 +206,8 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.13    | 4        | 80%     |
-| 5.11    | 1        | 20%     |
+| 5.13    | 5        | 83.33%  |
+| 5.11    | 1        | 16.67%  |
 
 Arch
 ----
@@ -448,9 +449,9 @@ Total RAM memory
 
 | Size in GB  | Desktops | Percent |
 |-------------|----------|---------|
-| 4.01-8.0    | 2        | 40%     |
-| 32.01-64.0  | 2        | 40%     |
-| 64.01-256.0 | 1        | 20%     |
+| 4.01-8.0    | 2        | 33.33%  |
+| 32.01-64.0  | 2        | 33.33%  |
+| 64.01-256.0 | 2        | 33.33%  |
 
 RAM Used
 --------
@@ -462,9 +463,9 @@ Used RAM memory
 
 | Used GB  | Desktops | Percent |
 |----------|----------|---------|
-| 4.01-8.0 | 2        | 40%     |
-| 3.01-4.0 | 2        | 40%     |
-| 2.01-3.0 | 1        | 20%     |
+| 3.01-4.0 | 3        | 50%     |
+| 4.01-8.0 | 2        | 33.33%  |
+| 2.01-3.0 | 1        | 16.67%  |
 
 Total Drives
 ------------
@@ -583,11 +584,11 @@ Hard drive vendors
 | Samsung Electronics | 3        | 5      | 27.27%  |
 | WDC                 | 1        | 1      | 9.09%   |
 | Toshiba             | 1        | 1      | 9.09%   |
-| Silicon Motion      | 1        | 1      | 9.09%   |
+| Silicon Motion      | 1        | 2      | 9.09%   |
 | Seagate             | 1        | 1      | 9.09%   |
 | PNY                 | 1        | 1      | 9.09%   |
 | KIOXIA-EXCERIA      | 1        | 1      | 9.09%   |
-| Kingston            | 1        | 1      | 9.09%   |
+| Kingston            | 1        | 2      | 9.09%   |
 | China               | 1        | 1      | 9.09%   |
 
 Drive Model
@@ -640,7 +641,7 @@ Solid state drive vendors
 | Samsung Electronics | 2        | 2      | 33.33%  |
 | PNY                 | 1        | 1      | 16.67%  |
 | KIOXIA-EXCERIA      | 1        | 1      | 16.67%  |
-| Kingston            | 1        | 1      | 16.67%  |
+| Kingston            | 1        | 2      | 16.67%  |
 | China               | 1        | 1      | 16.67%  |
 
 Drive Kind
@@ -653,8 +654,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| NVMe | 3        | 4      | 33.33%  |
-| SSD  | 3        | 6      | 33.33%  |
+| NVMe | 3        | 5      | 33.33%  |
+| SSD  | 3        | 7      | 33.33%  |
 | HDD  | 3        | 3      | 33.33%  |
 
 Drive Connector
@@ -667,8 +668,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 4        | 8      | 50%     |
-| NVMe | 3        | 4      | 37.5%   |
+| SATA | 4        | 9      | 50%     |
+| NVMe | 3        | 5      | 37.5%   |
 | SAS  | 1        | 1      | 12.5%   |
 
 Drive Size
@@ -681,7 +682,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 4        | 7      | 66.67%  |
+| 0.01-0.5   | 4        | 8      | 66.67%  |
 | 1.01-2.0   | 1        | 1      | 16.67%  |
 | 0.51-1.0   | 1        | 1      | 16.67%  |
 
@@ -767,7 +768,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 3        | 4      | 50%     |
+| Detected | 3        | 6      | 50%     |
 | Works    | 3        | 9      | 50%     |
 
 Storage controller
@@ -1402,13 +1403,13 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM DDR4 2667MT/s              | 1        | 20%     |
-| Samsung RAM M471A1K43CB1-CTD 8GB DIMM DDR4 2667MT/s    | 1        | 20%     |
-| Samsung RAM M378A1K43BB2-CRC 8GB DIMM DDR4 3400MT/s    | 1        | 20%     |
-| Kingston RAM KHX3600C18D4/32GX 32GB DIMM DDR4 3600MT/s | 1        | 20%     |
-| Crucial RAM BL8G36C16U4B.M8FE1 8GB DIMM DDR4 3733MT/s  | 1        | 20%     |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                | 1        | 20%     |
+| Samsung RAM M471A1K43CB1-CTD 8GB DIMM DDR4 2667MT/s      | 1        | 20%     |
+| Samsung RAM M378A1K43BB2-CRC 8GB DIMM DDR4 3400MT/s      | 1        | 20%     |
+| Kingston RAM KHX3600C18D4/32GX 32GB DIMM DDR4 3600MT/s   | 1        | 20%     |
+| Crucial RAM BL8G36C16U4B.M8FE1 8192MB DIMM DDR4 3733MT/s | 1        | 20%     |
 
 Memory Kind
 -----------

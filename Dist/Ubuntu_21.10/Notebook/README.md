@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek  | ROG Strix G533QS_G533QS     | [cae806f49d](https://linux-hardware.org/?probe=cae806f49d) | Aug 22, 2021 |
 | ASUSTek  | ROG Strix G533QS_G533QS     | [b8aa2e41d5](https://linux-hardware.org/?probe=b8aa2e41d5) | Aug 16, 2021 |
 | ASUSTek  | ROG Strix G533QS_G533QS     | [612dda8fba](https://linux-hardware.org/?probe=612dda8fba) | Aug 13, 2021 |
 | ASUSTek  | ROG Strix G533QS_G533QS     | [1eb6008b88](https://linux-hardware.org/?probe=1eb6008b88) | Aug 13, 2021 |
@@ -1536,12 +1537,12 @@ Controller models
 
 | Model                                 | Notebooks | Percent |
 |---------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface    | 2         | 16.67%  |
-| Intel Bluetooth Device                | 2         | 16.67%  |
+| Intel Bluetooth wireless interface    | 3         | 25%     |
 | IMC Networks Wireless_Device          | 2         | 16.67%  |
 | Realtek  Bluetooth 4.2 Adapter        | 1         | 8.33%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0 | 1         | 8.33%   |
 | Lite-On Bluetooth Radio               | 1         | 8.33%   |
+| Intel Bluetooth Device                | 1         | 8.33%   |
 | Intel AX200 Bluetooth                 | 1         | 8.33%   |
 | IMC Networks Bluetooth Radio          | 1         | 8.33%   |
 | Broadcom BCM20702A0 Bluetooth         | 1         | 8.33%   |
@@ -1625,17 +1626,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s           | 2         | 20%     |
-| SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s             | 1         | 10%     |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 10%     |
-| SK Hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 10%     |
-| Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s      | 1         | 10%     |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 10%     |
-| Micron RAM 4ATF1G64HZ-3G2E1 8192MB SODIMM DDR4 3200MT/s          | 1         | 10%     |
-| Elpida RAM Module 4GB Row Of Chips LPDDR3 1867MT/s               | 1         | 10%     |
-| Crucial RAM CT16G4SFRA266.M16FRS 16GB SODIMM DDR4 2667MT/s       | 1         | 10%     |
+| Model                                                               | Notebooks | Percent |
+|---------------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s              | 2         | 20%     |
+| SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                | 1         | 10%     |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s           | 1         | 10%     |
+| SK Hynix RAM H9CCNNNCLGALAR-NVD 8192MB Row Of Chips LPDDR3 2133MT/s | 1         | 10%     |
+| Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s         | 1         | 10%     |
+| Micron RAM 4ATF51264HZ-3G2J1 4096MB SODIMM DDR4 3200MT/s            | 1         | 10%     |
+| Micron RAM 4ATF1G64HZ-3G2E1 8192MB SODIMM DDR4 3200MT/s             | 1         | 10%     |
+| Elpida RAM Module 4GB Row Of Chips LPDDR3 1867MT/s                  | 1         | 10%     |
+| Crucial RAM CT16G4SFRA266.M16FRS 16GB SODIMM DDR4 2667MT/s          | 1         | 10%     |
 
 Memory Kind
 -----------
@@ -1761,21 +1762,21 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                              | Notebooks | Percent |
-|------------------------------------|-----------|---------|
-| IMC Networks USB2.0 HD UVC WebCam  | 2         | 14.29%  |
-| Syntek Lenovo EasyCamera           | 1         | 7.14%   |
-| Suyin Acer CrystalEye Webcam       | 1         | 7.14%   |
-| Samsung Galaxy A5 (MTP)            | 1         | 7.14%   |
-| Quanta USB2.0 HD UVC WebCam        | 1         | 7.14%   |
-| Microdia Integrated_Webcam_HD      | 1         | 7.14%   |
-| Microdia Integrated Webcam HD      | 1         | 7.14%   |
-| Lenovo Integrated Webcam           | 1         | 7.14%   |
-| IMC Networks USB2.0 VGA UVC WebCam | 1         | 7.14%   |
-| Chicony USB 2.0 Camera             | 1         | 7.14%   |
-| Chicony HP Wide Vision HD Camera   | 1         | 7.14%   |
-| Alcor Micro USB 2.0 PC Camera      | 1         | 7.14%   |
-| Acer Integrated Camera             | 1         | 7.14%   |
+| Model                                   | Notebooks | Percent |
+|-----------------------------------------|-----------|---------|
+| IMC Networks USB2.0 HD UVC WebCam       | 2         | 14.29%  |
+| Syntek Lenovo EasyCamera                | 1         | 7.14%   |
+| Suyin Acer CrystalEye Webcam            | 1         | 7.14%   |
+| Samsung Galaxy series, misc. (MTP mode) | 1         | 7.14%   |
+| Quanta USB2.0 HD UVC WebCam             | 1         | 7.14%   |
+| Microdia Integrated_Webcam_HD           | 1         | 7.14%   |
+| Microdia Integrated Webcam HD           | 1         | 7.14%   |
+| Lenovo Integrated Webcam                | 1         | 7.14%   |
+| IMC Networks USB2.0 VGA UVC WebCam      | 1         | 7.14%   |
+| Chicony USB 2.0 Camera                  | 1         | 7.14%   |
+| Chicony HP Wide Vision HD Camera        | 1         | 7.14%   |
+| Alcor Micro USB 2.0 PC Camera           | 1         | 7.14%   |
+| Acer Integrated Camera                  | 1         | 7.14%   |
 
 Security
 --------
