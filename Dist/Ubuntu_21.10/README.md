@@ -737,7 +737,7 @@ Hard drive models
 | Model                                    | Computers | Percent |
 |------------------------------------------|-----------|---------|
 | SK Hynix HFM001TD3JX013N 1TB             | 2         | 5.71%   |
-| Seagate Expansion 1TB                    | 2         | 5.71%   |
+| Seagate Expansion 2TB                    | 2         | 5.71%   |
 | WDC WD5000LPVX-22V0TT0 500GB             | 1         | 2.86%   |
 | WDC WD3200AAJS-56B4A0 320GB              | 1         | 2.86%   |
 | Unknown SB64G  64GB                      | 1         | 2.86%   |
@@ -847,8 +847,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 12        | 16     | 66.67%  |
-| 0.51-1.0   | 5         | 5      | 27.78%  |
-| 1.01-2.0   | 1         | 1      | 5.56%   |
+| 1.01-2.0   | 3         | 3      | 16.67%  |
+| 0.51-1.0   | 3         | 3      | 16.67%  |
 
 Space Total
 -----------
@@ -1692,13 +1692,14 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 3         | 18.75%  |
-| Intel Bluetooth Device                              | 2         | 12.5%   |
 | Intel AX200 Bluetooth                               | 2         | 12.5%   |
 | IMC Networks Wireless_Device                        | 2         | 12.5%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 6.25%   |
 | Realtek Bluetooth Radio                             | 1         | 6.25%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 6.25%   |
 | Lite-On Bluetooth Radio                             | 1         | 6.25%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1         | 6.25%   |
+| Intel Bluetooth Device                              | 1         | 6.25%   |
 | IMC Networks Bluetooth Radio                        | 1         | 6.25%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 6.25%   |
 | Broadcom BCM20702A0 Bluetooth                       | 1         | 6.25%   |
@@ -1798,22 +1799,22 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                               | Computers | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s              | 2         | 13.33%  |
-| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                           | 1         | 6.67%   |
-| SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                | 1         | 6.67%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s           | 1         | 6.67%   |
-| SK Hynix RAM H9CCNNNCLGALAR-NVD 8192MB Row Of Chips LPDDR3 2133MT/s | 1         | 6.67%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB DIMM DDR4 2667MT/s                 | 1         | 6.67%   |
-| Samsung RAM M378A1K43BB2-CRC 8GB DIMM DDR4 3400MT/s                 | 1         | 6.67%   |
-| Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s         | 1         | 6.67%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4096MB SODIMM DDR4 3200MT/s            | 1         | 6.67%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8192MB SODIMM DDR4 3200MT/s             | 1         | 6.67%   |
-| Kingston RAM KHX3600C18D4/32GX 32GB DIMM DDR4 3600MT/s              | 1         | 6.67%   |
-| Elpida RAM Module 4GB Row Of Chips LPDDR3 1867MT/s                  | 1         | 6.67%   |
-| Crucial RAM CT16G4SFRA266.M16FRS 16GB SODIMM DDR4 2667MT/s          | 1         | 6.67%   |
-| Crucial RAM BL8G36C16U4B.M8FE1 8192MB DIMM DDR4 3733MT/s            | 1         | 6.67%   |
+| Model                                                            | Computers | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s           | 2         | 13.33%  |
+| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                        | 1         | 6.67%   |
+| SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s             | 1         | 6.67%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 6.67%   |
+| SK Hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 6.67%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB DIMM DDR4 2667MT/s              | 1         | 6.67%   |
+| Samsung RAM M378A1K43BB2-CRC 8GB DIMM DDR4 3400MT/s              | 1         | 6.67%   |
+| Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s      | 1         | 6.67%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4096MB SODIMM DDR4 3200MT/s         | 1         | 6.67%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8192MB SODIMM DDR4 3200MT/s          | 1         | 6.67%   |
+| Kingston RAM KHX3600C18D4/32GX 32GB DIMM DDR4 3600MT/s           | 1         | 6.67%   |
+| Elpida RAM Module 4GB Row Of Chips LPDDR3 1867MT/s               | 1         | 6.67%   |
+| Crucial RAM CT16G4SFRA266.M16FRS 16GB SODIMM DDR4 2667MT/s       | 1         | 6.67%   |
+| Crucial RAM BL8G36C16U4B.M8FE1 8192MB DIMM DDR4 3733MT/s         | 1         | 6.67%   |
 
 Memory Kind
 -----------

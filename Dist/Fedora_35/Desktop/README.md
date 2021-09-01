@@ -1263,7 +1263,7 @@ Controller models
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2        | 18.18%  |
-| TP-Link TL WN823N RTL8192EU                                       | 1        | 9.09%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 9.09%   |
 | Ralink RT5370 Wireless Adapter                                    | 1        | 9.09%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 9.09%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 9.09%   |
@@ -1298,7 +1298,7 @@ Wireless models
 
 | Model                                         | Desktops | Percent |
 |-----------------------------------------------|----------|---------|
-| TP-Link TL WN823N RTL8192EU                   | 1        | 25%     |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]   | 1        | 25%     |
 | Ralink RT5370 Wireless Adapter                | 1        | 25%     |
 | Intel Centrino Wireless-N 1030 [Rainbow Peak] | 1        | 25%     |
 | Broadcom BCM43228 802.11a/b/g/n               | 1        | 25%     |
@@ -1413,7 +1413,7 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Intel Bluetooth Device                              | 1        | 33.33%  |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1        | 33.33%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1        | 33.33%  |
 | ASUS BCM20702A0                                     | 1        | 33.33%  |
 
@@ -1487,11 +1487,11 @@ Memory module models
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s              | 1        | 14.29%  |
-| Samsung RAM M378B1G73QH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 14.29%  |
+| Samsung RAM M378B1G73QH0-CK0 8192MB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
 | Micron RAM 8KTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 14.29%  |
 | Crucial RAM CT8G4SFS824A.C8FBR1 8GB SODIMM DDR4 2400MT/s | 1        | 14.29%  |
 | Corsair RAM VS2GB1333D4 2048MB DIMM DDR3 1600MT/s        | 1        | 14.29%  |
-| Corsair RAM VS2GB1333D3 2GB DIMM DDR3 1333MT/s           | 1        | 14.29%  |
+| Corsair RAM VS2GB1333D3 2048MB DIMM DDR3 1333MT/s        | 1        | 14.29%  |
 | Corsair RAM CMZ32GX3M4X1866C10 8GB DIMM DDR3 1333MT/s    | 1        | 14.29%  |
 
 Memory Kind
