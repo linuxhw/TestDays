@@ -1,7 +1,7 @@
 Ubuntu 21.10 - Tested Hardware & Statistics (Desktops)
 ------------------------------------------------------
 
-A project to collect tested hardware configurations for Ubuntu 21.10 (Beta test).
+A project to collect tested hardware configurations for Ubuntu 21.10.
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 
@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor   | Model                    | Probe                                                      | Date         |
 |----------|--------------------------|------------------------------------------------------------|--------------|
+| Huanan   | X99 F8D V2.2             | [c080ec772f](https://linux-hardware.org/?probe=c080ec772f) | Sep 03, 2021 |
 | Huanan   | X99 F8D V2.2             | [30fe8d6bb3](https://linux-hardware.org/?probe=30fe8d6bb3) | Aug 26, 2021 |
 | ASUSTek  | ROG ZENITH II EXTREME    | [1a371ea24e](https://linux-hardware.org/?probe=1a371ea24e) | Aug 16, 2021 |
 | Fujitsu  | D3400-B2 S26361-D3400-B2 | [067c79a9fe](https://linux-hardware.org/?probe=067c79a9fe) | Aug 13, 2021 |
@@ -231,8 +232,9 @@ Desktop Environment
 
 | Name       | Desktops | Percent |
 |------------|----------|---------|
-| GNOME      | 4        | 80%     |
-| X-Cinnamon | 1        | 20%     |
+| GNOME      | 4        | 66.67%  |
+| X-Cinnamon | 1        | 16.67%  |
+| Unknown    | 1        | 16.67%  |
 
 Display Server
 --------------
@@ -244,8 +246,9 @@ X11 or Wayland
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| X11     | 4        | 80%     |
-| Wayland | 1        | 20%     |
+| X11     | 4        | 66.67%  |
+| Wayland | 1        | 16.67%  |
+| Tty     | 1        | 16.67%  |
 
 Display Manager
 ---------------
@@ -584,11 +587,11 @@ Hard drive vendors
 | Samsung Electronics | 3        | 5      | 27.27%  |
 | WDC                 | 1        | 1      | 9.09%   |
 | Toshiba             | 1        | 1      | 9.09%   |
-| Silicon Motion      | 1        | 2      | 9.09%   |
+| Silicon Motion      | 1        | 3      | 9.09%   |
 | Seagate             | 1        | 1      | 9.09%   |
 | PNY                 | 1        | 1      | 9.09%   |
 | KIOXIA-EXCERIA      | 1        | 1      | 9.09%   |
-| Kingston            | 1        | 2      | 9.09%   |
+| Kingston            | 1        | 3      | 9.09%   |
 | China               | 1        | 1      | 9.09%   |
 
 Drive Model
@@ -641,7 +644,7 @@ Solid state drive vendors
 | Samsung Electronics | 2        | 2      | 33.33%  |
 | PNY                 | 1        | 1      | 16.67%  |
 | KIOXIA-EXCERIA      | 1        | 1      | 16.67%  |
-| Kingston            | 1        | 2      | 16.67%  |
+| Kingston            | 1        | 3      | 16.67%  |
 | China               | 1        | 1      | 16.67%  |
 
 Drive Kind
@@ -654,8 +657,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| NVMe | 3        | 5      | 33.33%  |
-| SSD  | 3        | 7      | 33.33%  |
+| NVMe | 3        | 6      | 33.33%  |
+| SSD  | 3        | 8      | 33.33%  |
 | HDD  | 3        | 3      | 33.33%  |
 
 Drive Connector
@@ -668,8 +671,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 4        | 9      | 50%     |
-| NVMe | 3        | 5      | 37.5%   |
+| SATA | 4        | 10     | 50%     |
+| NVMe | 3        | 6      | 37.5%   |
 | SAS  | 1        | 1      | 12.5%   |
 
 Drive Size
@@ -682,7 +685,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 4        | 8      | 66.67%  |
+| 0.01-0.5   | 4        | 9      | 66.67%  |
 | 1.01-2.0   | 1        | 1      | 16.67%  |
 | 0.51-1.0   | 1        | 1      | 16.67%  |
 
@@ -768,7 +771,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 3        | 6      | 50%     |
+| Detected | 3        | 8      | 50%     |
 | Works    | 3        | 9      | 50%     |
 
 Storage controller
@@ -1045,10 +1048,10 @@ Monitor vendors
 
 | Vendor         | Desktops | Percent |
 |----------------|----------|---------|
-| SKY            | 1        | 25%     |
-| LG Electronics | 1        | 25%     |
-| Lenovo         | 1        | 25%     |
-| Dell           | 1        | 25%     |
+| Dell           | 2        | 40%     |
+| SKY            | 1        | 20%     |
+| LG Electronics | 1        | 20%     |
+| Lenovo         | 1        | 20%     |
 
 Monitor Model
 -------------
@@ -1060,11 +1063,12 @@ Monitor models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| SKY TV-monitor SKY0001 1920x1080 697x392mm 31.5-inch     | 1        | 20%     |
-| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080        | 1        | 20%     |
-| LG Electronics LCD Monitor LG ULTRAWIDE                  | 1        | 20%     |
-| Lenovo LEN L24q-30 LEN65FB 2560x1440 527x296mm 23.8-inch | 1        | 20%     |
-| Dell P2719H DEL4184 1920x1080 598x336mm 27.0-inch        | 1        | 20%     |
+| SKY TV-monitor SKY0001 1920x1080 697x392mm 31.5-inch     | 1        | 16.67%  |
+| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080        | 1        | 16.67%  |
+| LG Electronics LCD Monitor LG ULTRAWIDE                  | 1        | 16.67%  |
+| Lenovo LEN L24q-30 LEN65FB 2560x1440 527x296mm 23.8-inch | 1        | 16.67%  |
+| Dell P2719H DEL4184 1920x1080 598x336mm 27.0-inch        | 1        | 16.67%  |
+| Dell LCD Monitor P2419H 4480x1080                        | 1        | 16.67%  |
 
 Monitor Resolution
 ------------------
@@ -1076,10 +1080,11 @@ Monitor screen resolution
 
 | Resolution      | Desktops | Percent |
 |-----------------|----------|---------|
-| 1920x1080 (FHD) | 2        | 40%     |
-| 2560x1440 (QHD) | 1        | 20%     |
-| 2560x1080       | 1        | 20%     |
-| Unknown         | 1        | 20%     |
+| 1920x1080 (FHD) | 2        | 33.33%  |
+| 4480x1080       | 1        | 16.67%  |
+| 2560x1440 (QHD) | 1        | 16.67%  |
+| 2560x1080       | 1        | 16.67%  |
+| Unknown         | 1        | 16.67%  |
 
 Monitor Diagonal
 ----------------
@@ -1163,8 +1168,9 @@ Total monitors connected
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 4        | 80%     |
-| 0     | 1        | 20%     |
+| 1     | 4        | 66.67%  |
+| 2     | 1        | 16.67%  |
+| 0     | 1        | 16.67%  |
 
 Network
 -------
@@ -1333,7 +1339,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Realtek Bluetooth Radio                             | 1        | 33.33%  |
-| Intel AX200 Bluetooth                               | 1        | 33.33%  |
+| Intel Bluetooth Device                              | 1        | 33.33%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1        | 33.33%  |
 
 Sound
@@ -1403,13 +1409,13 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                | 1        | 20%     |
-| Samsung RAM M471A1K43CB1-CTD 8GB DIMM DDR4 2667MT/s      | 1        | 20%     |
-| Samsung RAM M378A1K43BB2-CRC 8GB DIMM DDR4 3400MT/s      | 1        | 20%     |
-| Kingston RAM KHX3600C18D4/32GX 32GB DIMM DDR4 3600MT/s   | 1        | 20%     |
-| Crucial RAM BL8G36C16U4B.M8FE1 8192MB DIMM DDR4 3733MT/s | 1        | 20%     |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM DDR4 2667MT/s              | 1        | 20%     |
+| Samsung RAM M471A1K43CB1-CTD 8GB DIMM DDR4 2667MT/s    | 1        | 20%     |
+| Samsung RAM M378A1K43BB2-CRC 8GB DIMM DDR4 3400MT/s    | 1        | 20%     |
+| Kingston RAM KHX3600C18D4/32GX 32GB DIMM DDR4 3600MT/s | 1        | 20%     |
+| Crucial RAM BL8G36C16U4B.M8FE1 8GB DIMM DDR4 3733MT/s  | 1        | 20%     |
 
 Memory Kind
 -----------
