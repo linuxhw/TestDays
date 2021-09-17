@@ -1644,7 +1644,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 37.5%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 12.5%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 12.5%   |
-| Intel Bluetooth Device                              | 1        | 12.5%   |
+| Intel Bluetooth wireless interface                  | 1        | 12.5%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 12.5%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 12.5%   |
 

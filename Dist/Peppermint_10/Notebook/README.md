@@ -933,8 +933,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 72        | 58.54%  |
-| No        | 51        | 41.46%  |
+| Yes       | 71        | 57.72%  |
+| No        | 52        | 42.28%  |
 
 Has Ethernet
 ------------
@@ -1216,13 +1216,14 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 28        | 30     | 34.57%  |
-| WDC                 | 18        | 20     | 22.22%  |
-| Toshiba             | 14        | 14     | 17.28%  |
-| Hitachi             | 10        | 12     | 12.35%  |
-| Samsung Electronics | 5         | 5      | 6.17%   |
-| HGST                | 4         | 5      | 4.94%   |
-| Fujitsu             | 2         | 2      | 2.47%   |
+| Seagate             | 28        | 30     | 33.73%  |
+| WDC                 | 18        | 20     | 21.69%  |
+| Toshiba             | 14        | 14     | 16.87%  |
+| Hitachi             | 10        | 12     | 12.05%  |
+| Samsung Electronics | 5         | 5      | 6.02%   |
+| HGST                | 4         | 5      | 4.82%   |
+| Unknown             | 2         | 2      | 2.41%   |
+| Fujitsu             | 2         | 2      | 2.41%   |
 
 SSD Vendor
 ----------
@@ -1263,11 +1264,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 80        | 88     | 61.07%  |
-| SSD     | 33        | 46     | 25.19%  |
-| MMC     | 13        | 15     | 9.92%   |
-| Unknown | 4         | 4      | 3.05%   |
-| NVMe    | 1         | 1      | 0.76%   |
+| HDD     | 81        | 90     | 62.31%  |
+| SSD     | 33        | 46     | 25.38%  |
+| MMC     | 13        | 15     | 10%     |
+| Unknown | 2         | 2      | 1.54%   |
+| NVMe    | 1         | 1      | 0.77%   |
 
 Drive Connector
 ---------------
@@ -1294,9 +1295,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 97        | 118    | 86.61%  |
-| 0.51-1.0   | 14        | 15     | 12.5%   |
-| 1.01-2.0   | 1         | 1      | 0.89%   |
+| 0.01-0.5   | 98        | 120    | 86.73%  |
+| 0.51-1.0   | 14        | 15     | 12.39%  |
+| 1.01-2.0   | 1         | 1      | 0.88%   |
 
 Space Total
 -----------
@@ -2222,10 +2223,10 @@ Controller models
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Modem Controller        | 3         | 1.2%    |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 3         | 1.2%    |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                         | 2         | 0.8%    |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 2         | 0.8%    |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                     | 2         | 0.8%    |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 2         | 0.8%    |
 | Realtek RTL8187B Wireless Adapter                                       | 2         | 0.8%    |
-| Realtek 802.11n WLAN Adapter                                            | 2         | 0.8%    |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                               | 2         | 0.8%    |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 2         | 0.8%    |
 | Qualcomm Atheros QCA8172 Fast Ethernet                                  | 2         | 0.8%    |
@@ -2305,10 +2306,10 @@ Wireless models
 | Intel Wireless 3165                                                           | 3         | 2.34%   |
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                 | 3         | 2.34%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 2         | 1.56%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 2         | 1.56%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 2         | 1.56%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                    | 2         | 1.56%   |
 | Realtek RTL8187B Wireless Adapter                                             | 2         | 1.56%   |
-| Realtek 802.11n WLAN Adapter                                                  | 2         | 1.56%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                     | 2         | 1.56%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                    | 2         | 1.56%   |
 | Intel WiFi Link 5100                                                          | 2         | 1.56%   |
@@ -2524,10 +2525,9 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 7         | 10.94%  |
+| Intel Bluetooth wireless interface                  | 9         | 14.06%  |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 5         | 7.81%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 3         | 4.69%   |
-| Intel Bluetooth wireless interface                  | 3         | 4.69%   |
+| Intel Bluetooth Device                              | 4         | 6.25%   |
 | Foxconn International BCM43142A0 Bluetooth module   | 3         | 4.69%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 4.69%   |
 | Broadcom BCM2070 Bluetooth Device                   | 3         | 4.69%   |
@@ -2670,42 +2670,42 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                                        | Notebooks | Percent |
-|------------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                        | 2         | 5.71%   |
-| Unknown RAM Module SODIMM DDR                                                | 1         | 2.86%   |
-| Unknown RAM Module 4GB SODIMM DDR3                                           | 1         | 2.86%   |
-| Unknown RAM Module 2GB SODIMM SDRAM                                          | 1         | 2.86%   |
-| Unknown RAM Module 2048MB SODIMM DRAM                                        | 1         | 2.86%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                               | 1         | 2.86%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s                               | 1         | 2.86%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1066MT/s                               | 1         | 2.86%   |
-| Unknown RAM Module 2048MB SODIMM DDR3                                        | 1         | 2.86%   |
-| Unknown RAM Module 1024MB SODIMM DDR 100MT/s                                 | 1         | 2.86%   |
-| Toshiba RAM 8HTF12864HDY-800G1 4GB SODIMM 1066MT/s                           | 1         | 2.86%   |
-| Toshiba RAM 64T128020EDL2.5C2 4GB SODIMM 1066MT/s                            | 1         | 2.86%   |
-| Smart RAM SG564568FG8NWKF-Z1 2GB SODIMM DDR 800MT/s                          | 1         | 2.86%   |
-| SK Hynix RAM HMT451S6DFR8A-PB 4096MB SODIMM DDR3 1600MT/s                    | 1         | 2.86%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                       | 1         | 2.86%   |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                       | 1         | 2.86%   |
-| SK Hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s                       | 1         | 2.86%   |
-| SK Hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1333MT/s                    | 1         | 2.86%   |
-| SK Hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s                       | 1         | 2.86%   |
-| Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s                          | 1         | 2.86%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s                     | 1         | 2.86%   |
-| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
-| Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
-| Samsung RAM M471A5244CB0-CWE 4096MB Row Of Chips DDR4 3200MT/s               | 1         | 2.86%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s                     | 1         | 2.86%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                        | 1         | 2.86%   |
-| Kingston RAM KX830D-ELC 4GB SODIMM DDR3 1333MT/s                             | 1         | 2.86%   |
-| Kingston RAM 9905428-196.A00LF 8192MB SODIMM DDR3 1333MT/s                   | 1         | 2.86%   |
-| Elpida RAM EBJ21UE8BFU0-DJ-F 2048MB SODIMM DDR3 1334MT/s                     | 1         | 2.86%   |
-| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.86%   |
-| Crucial RAM CT102464BF1339.C16 8GB SODIMM DDR3 1333MT/s                      | 1         | 2.86%   |
-| Corsair RAM CMSX8GX3M1A1600C10 8GB SODIMM DDR3 1600MT/s                      | 1         | 2.86%   |
-| A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s                         | 1         | 2.86%   |
-| 48spaces RAM 012345678901234567890123456789012345 2048MB SODIMM DDR2 667MT/s | 1         | 2.86%   |
+| Model                                                                     | Notebooks | Percent |
+|---------------------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471B5173EB0-YK0 4096MB SODIMM DDR3 1600MT/s                  | 2         | 5.71%   |
+| Unknown RAM Module SODIMM DDR                                             | 1         | 2.86%   |
+| Unknown RAM Module 4GB SODIMM DDR3                                        | 1         | 2.86%   |
+| Unknown RAM Module 2GB SODIMM SDRAM                                       | 1         | 2.86%   |
+| Unknown RAM Module 2048MB SODIMM DRAM                                     | 1         | 2.86%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                            | 1         | 2.86%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s                            | 1         | 2.86%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1066MT/s                            | 1         | 2.86%   |
+| Unknown RAM Module 2048MB SODIMM DDR3                                     | 1         | 2.86%   |
+| Unknown RAM Module 1024MB SODIMM DDR 100MT/s                              | 1         | 2.86%   |
+| Toshiba RAM 8HTF12864HDY-800G1 4GB SODIMM 1066MT/s                        | 1         | 2.86%   |
+| Toshiba RAM 64T128020EDL2.5C2 4GB SODIMM 1066MT/s                         | 1         | 2.86%   |
+| Smart RAM SG564568FG8NWKF-Z1 2GB SODIMM DDR 800MT/s                       | 1         | 2.86%   |
+| SK Hynix RAM HMT451S6DFR8A-PB 4096MB SODIMM DDR3 1600MT/s                 | 1         | 2.86%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s                 | 1         | 2.86%   |
+| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                    | 1         | 2.86%   |
+| SK Hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 2.86%   |
+| SK Hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1333MT/s                 | 1         | 2.86%   |
+| SK Hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s                    | 1         | 2.86%   |
+| Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s                       | 1         | 2.86%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s                  | 1         | 2.86%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
+| Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s               | 1         | 2.86%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s                  | 1         | 2.86%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
+| Kingston RAM KX830D-ELC 4GB SODIMM DDR3 1333MT/s                          | 1         | 2.86%   |
+| Kingston RAM 9905428-196.A00LF 8192MB SODIMM DDR3 1333MT/s                | 1         | 2.86%   |
+| Elpida RAM EBJ21UE8BFU0-DJ-F 2048MB SODIMM DDR3 1334MT/s                  | 1         | 2.86%   |
+| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s                   | 1         | 2.86%   |
+| Crucial RAM CT102464BF1339.C16 8GB SODIMM DDR3 1333MT/s                   | 1         | 2.86%   |
+| Corsair RAM CMSX8GX3M1A1600C10 8GB SODIMM DDR3 1600MT/s                   | 1         | 2.86%   |
+| A-DATA RAM AM1U16BC4P2-B19H 4096MB SODIMM DDR3 1600MT/s                   | 1         | 2.86%   |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 2.86%   |
 
 Memory Kind
 -----------
@@ -2862,6 +2862,7 @@ Camera device models
 | Suyin Acer/HP Integrated Webcam [CN0314]                    | 3         | 3.13%   |
 | IMC Networks UVC VGA Webcam                                 | 3         | 3.13%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 3         | 3.13%   |
+| Acer Integrated Camera                                      | 3         | 3.13%   |
 | Ricoh Sony Vaio Integrated Webcam                           | 2         | 2.08%   |
 | Ricoh Laptop_Integrated_Webcam_FHD                          | 2         | 2.08%   |
 | Importek HP Webcam-50                                       | 2         | 2.08%   |
@@ -2871,8 +2872,8 @@ Camera device models
 | Chicony USB 2.0 Camera                                      | 2         | 2.08%   |
 | Chicony TOSHIBA Web Camera - HD                             | 2         | 2.08%   |
 | Chicony Lenovo EasyCamera                                   | 2         | 2.08%   |
+| Chicony Integrated Camera                                   | 2         | 2.08%   |
 | Chicony CNF9055 Toshiba Webcam                              | 2         | 2.08%   |
-| Acer Integrated Camera                                      | 2         | 2.08%   |
 | Z-Star Vega USB 2.0 Camera                                  | 1         | 1.04%   |
 | Z-Star Sirius USB2.0 Camera                                 | 1         | 1.04%   |
 | Syntek USB Camera Device                                    | 1         | 1.04%   |
@@ -2909,8 +2910,6 @@ Camera device models
 | Chicony USB2.0 VGA UVC WebCam                               | 1         | 1.04%   |
 | Chicony USB2.0 UVC WebCam                                   | 1         | 1.04%   |
 | Chicony USB2.0 HD UVC WebCam                                | 1         | 1.04%   |
-| Chicony Integrated Camera (1280x720@30)                     | 1         | 1.04%   |
-| Chicony Integrated Camera                                   | 1         | 1.04%   |
 | Chicony HP Wide Vision HD                                   | 1         | 1.04%   |
 | Chicony HP Webcam [2 MP Macro]                              | 1         | 1.04%   |
 | Chicony HP Webcam                                           | 1         | 1.04%   |
@@ -2918,6 +2917,7 @@ Camera device models
 | Chicony HP Truevision HD                                    | 1         | 1.04%   |
 | Chicony HP HD Webcam                                        | 1         | 1.04%   |
 | Chicony HD WebCam                                           | 1         | 1.04%   |
+| Chicony EasyCamera                                          | 1         | 1.04%   |
 
 Security
 --------

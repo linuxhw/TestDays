@@ -667,10 +667,11 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 4        | 8      | 44.44%  |
-| WDC     | 2        | 2      | 22.22%  |
-| Hitachi | 2        | 3      | 22.22%  |
-| Toshiba | 1        | 1      | 11.11%  |
+| Seagate | 4        | 8      | 40%     |
+| WDC     | 2        | 2      | 20%     |
+| Hitachi | 2        | 3      | 20%     |
+| Unknown | 1        | 1      | 10%     |
+| Toshiba | 1        | 1      | 10%     |
 
 SSD Vendor
 ----------
@@ -697,12 +698,11 @@ HDD or SSD
 ![Drive Kind](./images/pie_chart/drive_kind.svg)
 
 
-| Kind    | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| HDD     | 7        | 14     | 41.18%  |
-| SSD     | 6        | 6      | 35.29%  |
-| NVMe    | 3        | 3      | 17.65%  |
-| Unknown | 1        | 1      | 5.88%   |
+| Kind | Desktops | Drives | Percent |
+|------|----------|--------|---------|
+| HDD  | 7        | 15     | 43.75%  |
+| SSD  | 6        | 6      | 37.5%   |
+| NVMe | 3        | 3      | 18.75%  |
 
 Drive Connector
 ---------------
@@ -728,7 +728,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 7        | 13     | 53.85%  |
+| 0.01-0.5   | 7        | 14     | 53.85%  |
 | 0.51-1.0   | 5        | 6      | 38.46%  |
 | 3.01-4.0   | 1        | 1      | 7.69%   |
 
@@ -1451,9 +1451,8 @@ Controller models
 
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
+| Intel Bluetooth wireless interface | 2        | 66.67%  |
 | Realtek Bluetooth Radio            | 1        | 33.33%  |
-| Intel Bluetooth wireless interface | 1        | 33.33%  |
-| Intel Bluetooth Device             | 1        | 33.33%  |
 
 Sound
 -----

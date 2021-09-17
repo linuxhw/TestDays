@@ -931,7 +931,7 @@ Hard drive models
 | Kingston SUV500120G 120GB SSD                | 1         | 1.64%   |
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.64%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.64%   |
-| KingSpec NT-256 256GB SSD                    | 1         | 1.64%   |
+| KingSpec NT-256 256GB                        | 1         | 1.64%   |
 | KingDian S200 60GB                           | 1         | 1.64%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.64%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.64%   |
@@ -1803,8 +1803,8 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 4.3%    |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 4.3%    |
 | Intel 82567LM Gigabit Network Connection                                | 4         | 4.3%    |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 3.23%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                   | 3         | 3.23%   |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 3.23%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 3.23%   |
 | Intel WiFi Link 5100                                                    | 3         | 3.23%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 2.15%   |
@@ -1878,7 +1878,7 @@ Wireless models
 |-------------------------------------------------------------------------|-----------|---------|
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 8%      |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 8%      |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 6%      |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 6%      |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 6%      |
 | Intel WiFi Link 5100                                                    | 3         | 6%      |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 4%      |
@@ -2043,20 +2043,18 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 4         | 13.33%  |
+| Intel Bluetooth wireless interface                  | 5         | 16.67%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 13.33%  |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 13.33%  |
-| Qualcomm Atheros  Bluetooth Device                  | 2         | 6.67%   |
+| Qualcomm Atheros  Bluetooth Device                  | 3         | 10%     |
 | IMC Networks Bluetooth Device                       | 2         | 6.67%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 6.67%   |
 | Toshiba Askey for                                   | 1         | 3.33%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 3.33%   |
 | Realtek Bluetooth Radio                             | 1         | 3.33%   |
-| Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.33%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.33%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.33%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.33%   |
-| Intel Bluetooth wireless interface                  | 1         | 3.33%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.33%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.33%   |
 | Foxconn / Hon Hai BCM43142A0 broadcom bluetooth     | 1         | 3.33%   |
@@ -2286,7 +2284,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 18.75%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |

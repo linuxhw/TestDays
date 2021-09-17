@@ -1005,13 +1005,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 17       | 29     | 35.42%  |
-| Seagate             | 17       | 28     | 35.42%  |
-| Toshiba             | 6        | 6      | 12.5%   |
-| Hitachi             | 3        | 3      | 6.25%   |
-| HGST                | 3        | 4      | 6.25%   |
-| Samsung Electronics | 1        | 1      | 2.08%   |
-| Maxtor              | 1        | 4      | 2.08%   |
+| WDC                 | 17       | 29     | 34.69%  |
+| Seagate             | 17       | 28     | 34.69%  |
+| Toshiba             | 6        | 6      | 12.24%  |
+| Hitachi             | 3        | 3      | 6.12%   |
+| HGST                | 3        | 4      | 6.12%   |
+| Unknown             | 1        | 1      | 2.04%   |
+| Samsung Electronics | 1        | 1      | 2.04%   |
+| Maxtor              | 1        | 4      | 2.04%   |
 
 SSD Vendor
 ----------
@@ -1051,10 +1052,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 38       | 75     | 42.7%   |
-| SSD     | 30       | 58     | 33.71%  |
-| NVMe    | 17       | 23     | 19.1%   |
-| Unknown | 4        | 5      | 4.49%   |
+| HDD     | 38       | 76     | 43.18%  |
+| SSD     | 30       | 58     | 34.09%  |
+| NVMe    | 17       | 23     | 19.32%  |
+| Unknown | 3        | 4      | 3.41%   |
 
 Drive Connector
 ---------------
@@ -1080,11 +1081,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 39       | 80     | 53.42%  |
-| 0.51-1.0   | 19       | 30     | 26.03%  |
-| 1.01-2.0   | 7        | 10     | 9.59%   |
-| 3.01-4.0   | 5        | 9      | 6.85%   |
-| 4.01-10.0  | 3        | 4      | 4.11%   |
+| 0.01-0.5   | 40       | 81     | 54.05%  |
+| 0.51-1.0   | 19       | 30     | 25.68%  |
+| 1.01-2.0   | 7        | 10     | 9.46%   |
+| 3.01-4.0   | 5        | 9      | 6.76%   |
+| 4.01-10.0  | 3        | 4      | 4.05%   |
 
 Space Total
 -----------
@@ -1971,7 +1972,7 @@ Controller models
 | Intel 82579V Gigabit Network Connection                                    | 2        | 2.17%   |
 | Intel 82567LM-3 Gigabit Network Connection                                 | 2        | 2.17%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                           | 2        | 2.17%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                             | 1        | 1.09%   |
+| Xiaomi SDM660-MTP _SN:6C524624                                             | 1        | 1.09%   |
 | Wacom ACK-40401 [Wireless Accessory Kit]                                   | 1        | 1.09%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                            | 1        | 1.09%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                            | 1        | 1.09%   |
@@ -2089,7 +2090,7 @@ Ethernet models
 | Intel 82579V Gigabit Network Connection                           | 2        | 3.28%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 2        | 3.28%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 2        | 3.28%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.64%   |
+| Xiaomi SDM660-MTP _SN:6C524624                                    | 1        | 1.64%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 1.64%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 1.64%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.64%   |
@@ -2183,12 +2184,13 @@ Controller models
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 7        | 26.92%  |
-| Intel Bluetooth Device                                | 6        | 23.08%  |
+| Intel AX200 Bluetooth                                 | 5        | 19.23%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 3        | 11.54%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 2        | 7.69%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 2        | 7.69%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 1        | 3.85%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 1        | 3.85%   |
+| Intel Bluetooth wireless interface                    | 1        | 3.85%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter      | 1        | 3.85%   |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter | 1        | 3.85%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 1        | 3.85%   |
@@ -2331,17 +2333,17 @@ Memory module models
 | Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 3007MT/s    | 1        | 3.33%   |
 | SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s          | 1        | 3.33%   |
 | SK Hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s  | 1        | 3.33%   |
-| Sesame RAM S939A2UGS-ITR 8192MB DIMM DDR3 1600MT/s       | 1        | 3.33%   |
+| Sesame RAM S939A2UGS-ITR.. 8192MB DIMM DDR3 1600MT/s     | 1        | 3.33%   |
 | Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s   | 1        | 3.33%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 3.33%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 2048MT/s     | 1        | 3.33%   |
 | Kingston RAM KHX2133C11D3/4GX 4096MB DIMM DDR3 2134MT/s  | 1        | 3.33%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.33%   |
-| Kingston RAM 99U5403-159.A01LF 8192MB DIMM DDR3 1600MT/s | 1        | 3.33%   |
+| Kingston RAM 99U5403-159.A01LF 8192MB DIMM DDR3          | 1        | 3.33%   |
 | Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 3.33%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s      | 1        | 3.33%   |
 | G.Skill RAM F4-3200C16-8GVK 8192MB DIMM DDR4 3200MT/s    | 1        | 3.33%   |
-| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s   | 1        | 3.33%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s      | 1        | 3.33%   |
 | G.Skill RAM F3-1600C11-4GNT 4096MB DIMM DDR3 1333MT/s    | 1        | 3.33%   |
 | Crucial RAM CT4G4DFS824A.M8FB 4096MB DIMM DDR4 2400MT/s  | 1        | 3.33%   |
 | Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s    | 1        | 3.33%   |
@@ -2349,7 +2351,7 @@ Memory module models
 | Crucial RAM BLS4G4D240FSB.8FBD 4096MB DIMM DDR4 2400MT/s | 1        | 3.33%   |
 | Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s    | 1        | 3.33%   |
 | Corsair RAM CMD16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 3.33%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s              | 1        | 3.33%   |
+| A-DATA RAM DDR4 3000 8192MB DIMM DDR4 3600MT/s           | 1        | 3.33%   |
 
 Memory Kind
 -----------
@@ -2493,21 +2495,21 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| Logitech Webcam C270                 | 2        | 13.33%  |
-| Logitech Webcam B500                 | 2        | 13.33%  |
-| Sunplus HD 720P webcam               | 1        | 6.67%   |
-| Realtek Web Camera                   | 1        | 6.67%   |
-| OPPO Reno4 5G                        | 1        | 6.67%   |
-| Microsoft LifeCam HD-3000            | 1        | 6.67%   |
-| Logitech Webcam C170                 | 1        | 6.67%   |
-| Logitech Logitech Webcam C160        | 1        | 6.67%   |
-| Logitech HD Pro Webcam C920          | 1        | 6.67%   |
-| LG Optimus (Various Models) MTP Mode | 1        | 6.67%   |
-| Guillemot Hercules HD Sunset         | 1        | 6.67%   |
-| Generalplus 808 Camera               | 1        | 6.67%   |
-| Cubeternet GL-UPC822 UVC WebCam      | 1        | 6.67%   |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Logitech Webcam C270                     | 2        | 13.33%  |
+| Logitech Webcam B500                     | 2        | 13.33%  |
+| Sunplus HD 720P webcam                   | 1        | 6.67%   |
+| Realtek Web Camera                       | 1        | 6.67%   |
+| OPPO Reno4 5G                            | 1        | 6.67%   |
+| Microsoft LifeCam HD-3000                | 1        | 6.67%   |
+| Logitech Webcam C170                     | 1        | 6.67%   |
+| Logitech Logitech Webcam C160            | 1        | 6.67%   |
+| Logitech HD Pro Webcam C920              | 1        | 6.67%   |
+| LG Optimus (Various Models) MTP Mode     | 1        | 6.67%   |
+| Guillemot Hercules HD Sunset             | 1        | 6.67%   |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 6.67%   |
+| Cubeternet GL-UPC822 UVC WebCam          | 1        | 6.67%   |
 
 Security
 --------

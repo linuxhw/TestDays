@@ -1550,7 +1550,7 @@ Controller models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Qualcomm Atheros AR9462 Bluetooth                     | 1        | 33.33%  |
+| Qualcomm Atheros  Bluetooth Device                    | 1        | 33.33%  |
 | Integrated System Solution KY-BT100 Bluetooth Adapter | 1        | 33.33%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 1        | 33.33%  |
 

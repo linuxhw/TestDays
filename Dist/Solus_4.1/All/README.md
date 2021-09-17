@@ -2276,8 +2276,8 @@ Controller models
 
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                                                              | 14        | 31.11%  |
-| Intel Bluetooth wireless interface                                                  | 4         | 8.89%   |
+| Intel Bluetooth wireless interface                                                  | 10        | 22.22%  |
+| Intel Bluetooth Device                                                              | 7         | 15.56%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 4         | 8.89%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 4         | 8.89%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 4.44%   |
@@ -2289,6 +2289,7 @@ Controller models
 | Lite-On Bluetooth Device                                                            | 1         | 2.22%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 2.22%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.22%   |
+| Intel AX200 Bluetooth                                                               | 1         | 2.22%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 2.22%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 2.22%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 2.22%   |
@@ -2430,20 +2431,20 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s               | 1         | 2.78%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 2.78%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
 | SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
 | Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.78%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s           | 1         | 2.78%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
 | Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
-| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s      | 1         | 2.78%   |
+| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s  | 1         | 2.78%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s      | 1         | 2.78%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s              | 1         | 2.78%   |
 | Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
 | Kingston RAM HP24D4S7S8MBP-8 8192MB SODIMM DDR4 2400MT/s   | 1         | 2.78%   |
-| Kingston RAM ACR26D4S9S8ME-8 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
 | Kingston RAM 99U5428-063.A00LF 8192MB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
 | G.Skill RAM F4-2400C15-8GVR 8192MB DIMM DDR4 3200MT/s      | 1         | 2.78%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
@@ -2512,10 +2513,11 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 9         | 28.13%  |
-| 2667    | 8         | 25%     |
+| 2667    | 7         | 21.88%  |
 | 2400    | 3         | 9.38%   |
 | 3466    | 2         | 6.25%   |
 | 3600    | 1         | 3.13%   |
+| 3266    | 1         | 3.13%   |
 | 3200    | 1         | 3.13%   |
 | 3000    | 1         | 3.13%   |
 | 2133    | 1         | 3.13%   |

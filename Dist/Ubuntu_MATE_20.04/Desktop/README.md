@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASRock        | H110M-STX                   | [6bb90d3b07](https://linux-hardware.org/?probe=6bb90d3b07) | Sep 16, 2021 |
 | HP            | 3396                        | [147c8ed96c](https://linux-hardware.org/?probe=147c8ed96c) | Sep 04, 2021 |
 | ASRock        | H110M-STX                   | [a0b807eb42](https://linux-hardware.org/?probe=a0b807eb42) | Aug 30, 2021 |
 | MSI           | Z370 PC PRO                 | [c594736488](https://linux-hardware.org/?probe=c594736488) | Aug 30, 2021 |
@@ -997,8 +998,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 111      | 61.33%  |
-| No        | 70       | 38.67%  |
+| Yes       | 108      | 59.67%  |
+| No        | 73       | 40.33%  |
 
 Has Ethernet
 ------------
@@ -1180,7 +1181,7 @@ Hard drive vendors
 | Crucial                   | 7        | 11     | 2.47%   |
 | Silicon Motion            | 4        | 5      | 1.41%   |
 | A-DATA Technology         | 4        | 4      | 1.41%   |
-| Maxtor                    | 3        | 9      | 1.06%   |
+| MAXTOR                    | 3        | 9      | 1.06%   |
 | HGST                      | 3        | 5      | 1.06%   |
 | Unknown                   | 2        | 2      | 0.71%   |
 | PNY                       | 2        | 2      | 0.71%   |
@@ -1237,7 +1238,7 @@ Hard drive models
 | WDC WDS120G2G0A-00JH30 120GB SSD     | 2        | 0.62%   |
 | WDC WD5000AZLX-75K2TA0 500GB         | 2        | 0.62%   |
 | WDC WD3200AAKS-75L9A0 320GB          | 2        | 0.62%   |
-| WDC WD20EZRZ-00Z5HB0  2TB            | 2        | 0.62%   |
+| WDC WD20EZRZ-00Z5HB0 2TB             | 2        | 0.62%   |
 | WDC WD10EZEX-08M2NA0 1TB             | 2        | 0.62%   |
 | WDC WD10EARX-00N0YB0 1TB             | 2        | 0.62%   |
 | Unknown SD/MMC/MS PRO 64GB           | 2        | 0.62%   |
@@ -1246,7 +1247,7 @@ Hard drive models
 | Seagate ST31000528AS 1TB             | 2        | 0.62%   |
 | Seagate ST2000DM008-2FR102 2TB       | 2        | 0.62%   |
 | Seagate ST2000DM001-9YN164 2TB       | 2        | 0.62%   |
-| Seagate Expansion 1TB                | 2        | 0.62%   |
+| Seagate Expansion+ 1TB               | 2        | 0.62%   |
 | SanDisk SSD U100 16GB                | 2        | 0.62%   |
 | SanDisk SSD PLUS 480GB               | 2        | 0.62%   |
 | Samsung SSD 970 PRO 512GB            | 2        | 0.62%   |
@@ -1288,17 +1289,18 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 68       | 89     | 39.31%  |
-| Seagate             | 60       | 102    | 34.68%  |
-| Samsung Electronics | 16       | 16     | 9.25%   |
-| Toshiba             | 10       | 19     | 5.78%   |
-| Hitachi             | 10       | 13     | 5.78%   |
-| HGST                | 3        | 5      | 1.73%   |
-| MAXTOR              | 2        | 7      | 1.16%   |
-| USB3.0              | 1        | 1      | 0.58%   |
-| TO Exter            | 1        | 1      | 0.58%   |
-| ASMT109x            | 1        | 2      | 0.58%   |
-| ASMT                | 1        | 2      | 0.58%   |
+| WDC                 | 68       | 89     | 38.86%  |
+| Seagate             | 60       | 102    | 34.29%  |
+| Samsung Electronics | 16       | 16     | 9.14%   |
+| Toshiba             | 10       | 19     | 5.71%   |
+| Hitachi             | 10       | 13     | 5.71%   |
+| HGST                | 3        | 5      | 1.71%   |
+| Unknown             | 2        | 2      | 1.14%   |
+| MAXTOR              | 2        | 7      | 1.14%   |
+| USB3.0              | 1        | 1      | 0.57%   |
+| TO Exter            | 1        | 1      | 0.57%   |
+| ASMT109x            | 1        | 2      | 0.57%   |
+| ASMT                | 1        | 2      | 0.57%   |
 
 SSD Vendor
 ----------
@@ -1340,10 +1342,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 140      | 257    | 57.61%  |
-| SSD     | 71       | 110    | 29.22%  |
-| NVMe    | 27       | 45     | 11.11%  |
-| Unknown | 5        | 5      | 2.06%   |
+| HDD     | 141      | 259    | 58.26%  |
+| SSD     | 71       | 110    | 29.34%  |
+| NVMe    | 27       | 45     | 11.16%  |
+| Unknown | 3        | 3      | 1.24%   |
 
 Drive Connector
 ---------------
@@ -1369,13 +1371,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 134      | 200    | 57.26%  |
-| 0.51-1.0   | 53       | 81     | 22.65%  |
-| 1.01-2.0   | 24       | 37     | 10.26%  |
-| 4.01-10.0  | 9        | 24     | 3.85%   |
-| 3.01-4.0   | 8        | 13     | 3.42%   |
-| 2.01-3.0   | 5        | 11     | 2.14%   |
-| 10.01-20.0 | 1        | 1      | 0.43%   |
+| 0.01-0.5   | 135      | 201    | 57.2%   |
+| 0.51-1.0   | 53       | 82     | 22.46%  |
+| 1.01-2.0   | 24       | 36     | 10.17%  |
+| 4.01-10.0  | 10       | 25     | 4.24%   |
+| 3.01-4.0   | 8        | 13     | 3.39%   |
+| 2.01-3.0   | 5        | 11     | 2.12%   |
+| 10.01-20.0 | 1        | 1      | 0.42%   |
 
 Space Total
 -----------
@@ -1627,7 +1629,7 @@ Storage controller models
 | SK Hynix BC501 NVMe Solid State Drive                                                   | 1        | 0.34%   |
 | Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1        | 0.34%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 0.34%   |
-| Samsung NVMe Controller                                                                 | 1        | 0.34%   |
+| Samsung NVMe SSD Controller 980                                                         | 1        | 0.34%   |
 | Phison NVMe Storage Controller                                                          | 1        | 0.34%   |
 | Phison E12 NVMe Controller                                                              | 1        | 0.34%   |
 | Nvidia MCP51 Serial ATA Controller                                                      | 1        | 0.34%   |
@@ -2437,7 +2439,7 @@ Controller models
 | ASIX AX88179 Gigabit Ethernet                                      | 2        | 0.78%   |
 | Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]  | 2        | 0.78%   |
 | ZyDAS ZD1211B 802.11g                                              | 1        | 0.39%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                     | 1        | 0.39%   |
+| Xiaomi SDM660-MTP _SN:6C524624                                     | 1        | 0.39%   |
 | Xiaomi MediaTek MT7601U [MI WiFi]                                  | 1        | 0.39%   |
 | TP-Link RTL8812AU Archer T4U 802.11ac                              | 1        | 0.39%   |
 | Sitecom Europe 802.11n WLAN Adapter                                | 1        | 0.39%   |
@@ -2593,7 +2595,7 @@ Ethernet models
 | Broadcom Limited NetLink BCM5787 Gigabit Ethernet PCI Express     | 2        | 1.03%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 2        | 1.03%   |
 | Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 2        | 1.03%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.51%   |
+| Xiaomi SDM660-MTP _SN:6C524624                                    | 1        | 0.51%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 0.51%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 0.51%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 0.51%   |
@@ -2706,11 +2708,11 @@ Controller models
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)    | 15       | 31.91%  |
-| Intel Bluetooth Device                                 | 9        | 19.15%  |
+| Intel AX200 Bluetooth                                  | 7        | 14.89%  |
+| Intel Bluetooth wireless interface                     | 4        | 8.51%   |
 | Intel Wireless-AC 3168 Bluetooth                       | 3        | 6.38%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                      | 3        | 6.38%   |
 | Qualcomm Atheros AR3011 Bluetooth                      | 2        | 4.26%   |
-| Intel Bluetooth wireless interface                     | 2        | 4.26%   |
 | Realtek  Bluetooth 4.2 Adapter                         | 1        | 2.13%   |
 | Realtek Bluetooth Radio                                | 1        | 2.13%   |
 | Lite-On Bluetooth Device                               | 1        | 2.13%   |
@@ -2812,7 +2814,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                                | 2        | 0.64%   |
 | Nvidia GF116 High Definition Audio Controller                                     | 2        | 0.64%   |
 | Nvidia GA104 High Definition Audio Controller                                     | 2        | 0.64%   |
-| Kingston Technology HyperX 7.1 Audio                                              | 2        | 0.64%   |
+| Kingston Technology HyperX Virtual Surround Sound                                 | 2        | 0.64%   |
 | Intel USB PnP Sound Device                                                        | 2        | 0.64%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller        | 2        | 0.64%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                                    | 2        | 0.64%   |
@@ -2882,7 +2884,7 @@ Memory module models
 | SK Hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                      | 2        | 1.45%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s                               | 2        | 1.45%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s                        | 2        | 1.45%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s                   | 2        | 1.45%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                      | 2        | 1.45%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                      | 2        | 1.45%   |
 | Elpida RAM EBJ41EF8BCFA-DJ-F 4096MB DIMM DDR3 1333MT/s                     | 2        | 1.45%   |
 | Corsair RAM CMK8GX4M1D3000C16 8GB DIMM DDR4 3200MT/s                       | 2        | 1.45%   |
@@ -2924,7 +2926,7 @@ Memory module models
 | SK Hynix RAM MMXIV 8GB DIMM DDR3 1600MT/s                                  | 1        | 0.72%   |
 | SK Hynix RAM HMT41GU7AFR8C-PB 8192MB DIMM DDR3 1333MT/s                    | 1        | 0.72%   |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                     | 1        | 0.72%   |
-| SK Hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s                       | 1        | 0.72%   |
+| SK Hynix RAM HMA81GU6CJR8N-XN 8192MB DIMM DDR4 3200MT/s                    | 1        | 0.72%   |
 | SK Hynix RAM 48594D503132355536344350382D53362020 2048MB DIMM DDR2 800MT/s | 1        | 0.72%   |
 | Samsung RAM Module 8192MB DIMM DDR4 2400MT/s                               | 1        | 0.72%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1067MT/s                               | 1        | 0.72%   |
@@ -2992,7 +2994,7 @@ Memory module speed
 |---------|----------|---------|
 | 1333    | 27       | 22.88%  |
 | 1600    | 24       | 20.34%  |
-| 3200    | 12       | 10.17%  |
+| 3200    | 11       | 9.32%   |
 | 800     | 9        | 7.63%   |
 | 2400    | 8        | 6.78%   |
 | 667     | 8        | 6.78%   |
@@ -3005,6 +3007,7 @@ Memory module speed
 | Unknown | 2        | 1.69%   |
 | 3866    | 1        | 0.85%   |
 | 3733    | 1        | 0.85%   |
+| 3600    | 1        | 0.85%   |
 | 3500    | 1        | 0.85%   |
 | 3400    | 1        | 0.85%   |
 | 3100    | 1        | 0.85%   |

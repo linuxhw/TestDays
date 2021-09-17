@@ -1007,11 +1007,11 @@ Storage controller vendors
 
 | Vendor                           | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| Intel                            | 25        | 73.53%  |
-| AMD                              | 5         | 14.71%  |
-| Silicon Integrated Systems [SiS] | 2         | 5.88%   |
-| Kingston Technology Company      | 1         | 2.94%   |
-| ADATA Technology                 | 1         | 2.94%   |
+| Intel                            | 24        | 72.73%  |
+| AMD                              | 5         | 15.15%  |
+| Silicon Integrated Systems [SiS] | 2         | 6.06%   |
+| Kingston Technology Company      | 1         | 3.03%   |
+| ADATA Technology                 | 1         | 3.03%   |
 
 Storage Model
 -------------
@@ -1023,31 +1023,31 @@ Storage controller models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 5         | 11.9%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 3         | 7.14%   |
-| AMD FCH SATA Controller [AHCI mode]                                            | 3         | 7.14%   |
-| Silicon Integrated Systems [SiS] SATA Controller / IDE mode                    | 2         | 4.76%   |
-| Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 2         | 4.76%   |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 2         | 4.76%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                  | 2         | 4.76%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                               | 2         | 4.76%   |
-| Intel 7 Series Chipset Family 4-port SATA Controller [IDE mode]                | 2         | 4.76%   |
-| Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                | 2         | 4.76%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 2         | 4.76%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 4.76%   |
-| Kingston Company Company Non-Volatile memory controller                        | 1         | 2.38%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 2.38%   |
-| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                             | 1         | 2.38%   |
-| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 1         | 2.38%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 1         | 2.38%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 1         | 2.38%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 1         | 2.38%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 1         | 2.38%   |
-| Intel 400 Series Chipset Family SATA AHCI Controller                           | 1         | 2.38%   |
-| AMD SB600 Non-Raid-5 SATA                                                      | 1         | 2.38%   |
-| AMD SB600 IDE                                                                  | 1         | 2.38%   |
-| AMD FCH SATA Controller [IDE mode]                                             | 1         | 2.38%   |
-| ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 1         | 2.38%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 5         | 12.2%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 3         | 7.32%   |
+| AMD FCH SATA Controller [AHCI mode]                                            | 3         | 7.32%   |
+| Silicon Integrated Systems [SiS] SATA Controller / IDE mode                    | 2         | 4.88%   |
+| Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 2         | 4.88%   |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 2         | 4.88%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                  | 2         | 4.88%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                               | 2         | 4.88%   |
+| Intel 7 Series Chipset Family 4-port SATA Controller [IDE mode]                | 2         | 4.88%   |
+| Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                | 2         | 4.88%   |
+| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 4.88%   |
+| Kingston Company Company Non-Volatile memory controller                        | 1         | 2.44%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 2.44%   |
+| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                             | 1         | 2.44%   |
+| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 1         | 2.44%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 1         | 2.44%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 1         | 2.44%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 1         | 2.44%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 1         | 2.44%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 1         | 2.44%   |
+| Intel 400 Series Chipset Family SATA AHCI Controller                           | 1         | 2.44%   |
+| AMD SB600 Non-Raid-5 SATA                                                      | 1         | 2.44%   |
+| AMD SB600 IDE                                                                  | 1         | 2.44%   |
+| AMD FCH SATA Controller [IDE mode]                                             | 1         | 2.44%   |
+| ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 1         | 2.44%   |
 
 Storage Kind
 ------------
@@ -1059,10 +1059,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 28        | 73.68%  |
-| IDE  | 7         | 18.42%  |
-| NVMe | 2         | 5.26%   |
-| RAID | 1         | 2.63%   |
+| SATA | 27        | 72.97%  |
+| IDE  | 7         | 18.92%  |
+| NVMe | 2         | 5.41%   |
+| RAID | 1         | 2.7%    |
 
 Processor
 ---------
@@ -1770,17 +1770,17 @@ Controller models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                          | 3         | 15.79%  |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 10.53%  |
+| Intel Centrino Bluetooth Wireless Transceiver               | 2         | 10.53%  |
+| Intel Bluetooth wireless interface                          | 2         | 10.53%  |
 | Intel Bluetooth Device                                      | 2         | 10.53%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 2         | 10.53%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 1         | 5.26%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 5.26%   |
+| Qualcomm Atheros  Bluetooth Device                          | 1         | 5.26%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 5.26%   |
-| Qualcomm Atheros AR9462 Bluetooth                           | 1         | 5.26%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 5.26%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 1         | 5.26%   |
-| Intel AX201 Bluetooth                                       | 1         | 5.26%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 5.26%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 5.26%   |
 | Foxconn / Hon Hai BCM20702A0                                | 1         | 5.26%   |
@@ -1864,13 +1864,13 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Notebooks | Percent |
-|-----------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2GB SODIMM SDRAM                       | 1         | 20%     |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 20%     |
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1         | 20%     |
-| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s      | 1         | 20%     |
-| Kingston RAM 9905428-026.A00LF 2048MB SODIMM 800MT/s      | 1         | 20%     |
+| Model                                                   | Notebooks | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2GB SODIMM SDRAM                     | 1         | 20%     |
+| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 20%     |
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 20%     |
+| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s    | 1         | 20%     |
+| Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s | 1         | 20%     |
 
 Memory Kind
 -----------
@@ -1880,12 +1880,11 @@ Memory module kinds
 ![Memory Kind](./images/pie_chart/memory_kind.svg)
 
 
-| Kind    | Notebooks | Percent |
-|---------|-----------|---------|
-| SDRAM   | 1         | 25%     |
-| LPDDR4  | 1         | 25%     |
-| DDR3    | 1         | 25%     |
-| Unknown | 1         | 25%     |
+| Kind   | Notebooks | Percent |
+|--------|-----------|---------|
+| DDR3   | 2         | 50%     |
+| SDRAM  | 1         | 25%     |
+| LPDDR4 | 1         | 25%     |
 
 Memory Form Factor
 ------------------
@@ -1925,7 +1924,7 @@ Memory module speed
 |---------|-----------|---------|
 | 2667    | 1         | 25%     |
 | 1600    | 1         | 25%     |
-| 800     | 1         | 25%     |
+| 1066    | 1         | 25%     |
 | Unknown | 1         | 25%     |
 
 Printers & scanners

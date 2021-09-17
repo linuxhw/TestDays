@@ -1581,7 +1581,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 6.15%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 6.15%   |
 | Intel 82567LM Gigabit Network Connection                                | 4         | 6.15%   |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 4.62%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 4.62%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 4.62%   |
 | Intel WiFi Link 5100                                                    | 3         | 4.62%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 3.08%   |
@@ -1641,7 +1641,7 @@ Wireless models
 |-------------------------------------------------------------------------|-----------|---------|
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 10.26%  |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 10.26%  |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 7.69%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 7.69%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 7.69%   |
 | Intel WiFi Link 5100                                                    | 3         | 7.69%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 5.13%   |
@@ -1790,7 +1790,7 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 17.39%  |
-| Intel Bluetooth Device                              | 3         | 13.04%  |
+| Intel Bluetooth wireless interface                  | 3         | 13.04%  |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 8.7%    |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 8.7%    |
 | Toshiba Askey for                                   | 1         | 4.35%   |
@@ -1998,7 +1998,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 20%     |
+| Alcor Micro USB 2.0 Camera                              | 6         | 20%     |
 | Lenovo UVC Camera                                       | 3         | 10%     |
 | Ricoh Integrated Webcam                                 | 2         | 6.67%   |
 | Lite-On Integrated Camera                               | 2         | 6.67%   |

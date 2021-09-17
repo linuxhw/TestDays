@@ -821,8 +821,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 48       | 67.61%  |
-| No        | 23       | 32.39%  |
+| Yes       | 47       | 66.2%   |
+| No        | 24       | 33.8%   |
 
 Has Ethernet
 ------------
@@ -1088,7 +1088,7 @@ Hard disk drive vendors
 | Seagate             | 19       | 21     | 24.68%  |
 | Hitachi             | 14       | 21     | 18.18%  |
 | Samsung Electronics | 7        | 10     | 9.09%   |
-| Maxtor              | 6        | 8      | 7.79%   |
+| MAXTOR              | 6        | 8      | 7.79%   |
 | Toshiba             | 2        | 2      | 2.6%    |
 | WD MediaMax         | 1        | 1      | 1.3%    |
 | Fujitsu             | 1        | 1      | 1.3%    |
@@ -2359,11 +2359,11 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4        | 30.77%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 2        | 15.38%  |
-| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 7.69%   |
+| Qualcomm Atheros  Bluetooth Device                  | 1        | 7.69%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1        | 7.69%   |
 | Primax Rocketfish RF-FLBTAD Bluetooth Adapter       | 1        | 7.69%   |
 | Kensington Bluetooth EDR Dongle                     | 1        | 7.69%   |
-| Intel Bluetooth Device                              | 1        | 7.69%   |
+| Intel AX200 Bluetooth                               | 1        | 7.69%   |
 | Broadcom Bluetooth Controller                       | 1        | 7.69%   |
 | ASUS Bluetooth Radio                                | 1        | 7.69%   |
 
@@ -2503,7 +2503,7 @@ Memory module models
 | Samsung RAM M378B2873FHS-CH9 1GB DIMM DDR3 1333MT/s      | 1        | 6.25%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s    | 1        | 6.25%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 6.25%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 6.25%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 6.25%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 6.25%   |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 6.25%   |
 | Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2400MT/s     | 1        | 6.25%   |
