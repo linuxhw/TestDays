@@ -932,7 +932,7 @@ Hard drive models
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.64%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.64%   |
 | KingSpec NT-256 256GB                        | 1         | 1.64%   |
-| KingDian S200 60GB                           | 1         | 1.64%   |
+| KingDian S200 60GB SSD                       | 1         | 1.64%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.64%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.64%   |
 | Hitachi HTS545032B9A300 320GB                | 1         | 1.64%   |
@@ -1742,8 +1742,8 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 101-120       | 22        | 38.6%   |
-| 51-100        | 15        | 26.32%  |
+| 101-120       | 21        | 36.84%  |
+| 51-100        | 16        | 28.07%  |
 | 121-160       | 12        | 21.05%  |
 | 161-240       | 4         | 7.02%   |
 | 1-50          | 3         | 5.26%   |
@@ -2043,18 +2043,18 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 5         | 16.67%  |
+| Intel Bluetooth Device                              | 5         | 16.67%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 13.33%  |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 13.33%  |
-| Qualcomm Atheros  Bluetooth Device                  | 3         | 10%     |
+| Realtek Bluetooth Radio                             | 2         | 6.67%   |
+| Qualcomm Atheros  Bluetooth Device                  | 2         | 6.67%   |
 | IMC Networks Bluetooth Device                       | 2         | 6.67%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 6.67%   |
 | Toshiba Askey for                                   | 1         | 3.33%   |
-| Realtek RTL8723B Bluetooth                          | 1         | 3.33%   |
-| Realtek Bluetooth Radio                             | 1         | 3.33%   |
+| Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.33%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.33%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.33%   |
-| Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.33%   |
+| Lite-On Bluetooth Device                            | 1         | 3.33%   |
+| Intel Bluetooth wireless interface                  | 1         | 3.33%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.33%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.33%   |
 | Foxconn / Hon Hai BCM43142A0 broadcom bluetooth     | 1         | 3.33%   |
@@ -2112,7 +2112,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                               | 1         | 1.61%   |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 1         | 1.61%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.61%   |
-| Generalplus Technology USB Audio Device                                                           | 1         | 1.61%   |
+| Generalplus Technology Usb Audio Device                                                           | 1         | 1.61%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.61%   |
 | AMD Kaveri HDMI/DP Audio Controller                                                               | 1         | 1.61%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                                    | 1         | 1.61%   |
@@ -2217,10 +2217,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Computers | Percent |
-|----------------------------|-----------|---------|
-| Seiko Epson ET-2710 Series | 1         | 50%     |
-| HP LaserJet 1012           | 1         | 50%     |
+| Model                    | Computers | Percent |
+|--------------------------|-----------|---------|
+| Seiko Epson L3150 Series | 1         | 50%     |
+| HP LaserJet 1012         | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2284,7 +2284,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
+| Alcor Micro SHUNCCM2MP                                  | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |

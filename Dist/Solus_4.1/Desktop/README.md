@@ -1641,11 +1641,9 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
+| Intel Bluetooth Device                              | 3        | 37.5%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 37.5%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 12.5%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1        | 12.5%   |
-| Intel Bluetooth wireless interface                  | 1        | 12.5%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 12.5%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 12.5%   |
 
 Sound
@@ -1689,7 +1687,7 @@ Sound card models
 | AMD SBx00 Azalia (Intel HDA)                                               | 2        | 4.44%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 2        | 4.44%   |
 | AMD Navi 10 HDMI Audio                                                     | 2        | 4.44%   |
-| SteelSeries ApS Arctis 7 wireless adapter                                  | 1        | 2.22%   |
+| SteelSeries ApS SteelSeries Arctis 7                                       | 1        | 2.22%   |
 | Nvidia TU116 High Definition Audio Controller                              | 1        | 2.22%   |
 | Nvidia TU106 High Definition Audio Controller                              | 1        | 2.22%   |
 | Nvidia TU102 High Definition Audio Controller                              | 1        | 2.22%   |
@@ -1698,7 +1696,7 @@ Sound card models
 | Nvidia GP102 HDMI Audio Controller                                         | 1        | 2.22%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1        | 2.22%   |
 | Nvidia GK104 HDMI Audio Controller                                         | 1        | 2.22%   |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 2.22%   |
+| JMTek USB PnP Audio Device                                                 | 1        | 2.22%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 2.22%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 2.22%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 2.22%   |
@@ -1739,7 +1737,7 @@ Memory module models
 
 | Model                                                     | Desktops | Percent |
 |-----------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3466MT/s     | 2        | 20%     |
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3466MT/s  | 2        | 20%     |
 | Unknown RAM Module 4096MB DIMM DDR3 1066MT/s              | 1        | 10%     |
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1        | 10%     |
 | G.Skill RAM F4-2400C15-8GVR 8192MB DIMM DDR4 3200MT/s     | 1        | 10%     |
@@ -1747,7 +1745,7 @@ Memory module models
 | Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s       | 1        | 10%     |
 | Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s    | 1        | 10%     |
 | Corsair RAM CMK32GX4M2B3000C15 16384MB DIMM DDR4 3000MT/s | 1        | 10%     |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 10%     |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1        | 10%     |
 
 Memory Kind
 -----------
@@ -1876,15 +1874,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| Microdia Camera               | 2        | 25%     |
-| Samsung Galaxy A5 (MTP)       | 1        | 12.5%   |
-| Microsoft Xbox NUI Camera     | 1        | 12.5%   |
-| Logitech Webcam C270          | 1        | 12.5%   |
-| Logitech StreamCam            | 1        | 12.5%   |
-| Logitech Logitech Webcam C160 | 1        | 12.5%   |
-| HP Webcam HD 2300             | 1        | 12.5%   |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Microdia Camera                         | 2        | 25%     |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 12.5%   |
+| Microsoft Xbox NUI Camera               | 1        | 12.5%   |
+| Logitech Webcam C270                    | 1        | 12.5%   |
+| Logitech StreamCam                      | 1        | 12.5%   |
+| Logitech Logitech Webcam C160           | 1        | 12.5%   |
+| HP Webcam HD 2300                       | 1        | 12.5%   |
 
 Security
 --------

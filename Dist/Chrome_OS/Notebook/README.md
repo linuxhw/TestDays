@@ -1522,9 +1522,9 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 101-120       | 20        | 46.51%  |
+| 101-120       | 19        | 44.19%  |
 | 121-160       | 11        | 25.58%  |
-| 51-100        | 7         | 16.28%  |
+| 51-100        | 8         | 18.6%   |
 | 161-240       | 3         | 6.98%   |
 | More than 240 | 1         | 2.33%   |
 | 1-50          | 1         | 2.33%   |
@@ -1789,16 +1789,14 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                              | 4         | 17.39%  |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 17.39%  |
-| Intel Bluetooth wireless interface                  | 3         | 13.04%  |
+| Realtek Bluetooth Radio                             | 2         | 8.7%    |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 8.7%    |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 8.7%    |
 | Toshiba Askey for                                   | 1         | 4.35%   |
-| Realtek RTL8723B Bluetooth                          | 1         | 4.35%   |
-| Realtek Bluetooth Radio                             | 1         | 4.35%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.35%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 4.35%   |
-| Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4.35%   |
+| Lite-On Bluetooth Device                            | 1         | 4.35%   |
 | IMC Networks Bluetooth Device                       | 1         | 4.35%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 4.35%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 4.35%   |
@@ -1851,7 +1849,7 @@ Sound card models
 | Intel Broadwell-U Audio Controller                                                                | 1         | 2.33%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1         | 2.33%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 1         | 2.33%   |
-| Generalplus Technology USB Audio Device                                                           | 1         | 2.33%   |
+| Generalplus Technology Usb Audio Device                                                           | 1         | 2.33%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 2.33%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1         | 2.33%   |
 
@@ -1998,7 +1996,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 20%     |
+| Alcor Micro SHUNCCM2MP                                  | 6         | 20%     |
 | Lenovo UVC Camera                                       | 3         | 10%     |
 | Ricoh Integrated Webcam                                 | 2         | 6.67%   |
 | Lite-On Integrated Camera                               | 2         | 6.67%   |

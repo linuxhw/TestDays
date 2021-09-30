@@ -649,7 +649,8 @@ Has WiFi module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 31        | 100%    |
+| Yes       | 30        | 96.77%  |
+| No        | 1         | 3.23%   |
 
 Has Bluetooth
 -------------
@@ -1593,16 +1594,15 @@ Wireless vendors
 ![Wireless Vendor](./images/pie_chart/net_wireless_vendor.svg)
 
 
-| Vendor                            | Notebooks | Percent |
-|-----------------------------------|-----------|---------|
-| Qualcomm Atheros                  | 12        | 35.29%  |
-| Intel                             | 9         | 26.47%  |
-| Realtek Semiconductor             | 4         | 11.76%  |
-| Broadcom                          | 4         | 11.76%  |
-| Broadcom Limited                  | 2         | 5.88%   |
-| Ralink                            | 1         | 2.94%   |
-| NetGear                           | 1         | 2.94%   |
-| Ericsson Business Mobile Networks | 1         | 2.94%   |
+| Vendor                | Notebooks | Percent |
+|-----------------------|-----------|---------|
+| Qualcomm Atheros      | 12        | 37.5%   |
+| Intel                 | 8         | 25%     |
+| Realtek Semiconductor | 4         | 12.5%   |
+| Broadcom              | 4         | 12.5%   |
+| Broadcom Limited      | 2         | 6.25%   |
+| Ralink                | 1         | 3.13%   |
+| NetGear               | 1         | 3.13%   |
 
 Wireless Model
 --------------
@@ -1614,31 +1614,29 @@ Wireless models
 
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 11.76%  |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 3         | 8.82%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 5.88%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 5.88%   |
-| Intel Centrino Wireless-N 2230                                          | 2         | 5.88%   |
-| Broadcom BCM4312 802.11b/g LP-PHY                                       | 2         | 5.88%   |
-| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 2.94%   |
-| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2.94%   |
-| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 2.94%   |
-| Realtek 802.11ac NIC                                                    | 1         | 2.94%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 2.94%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 1         | 2.94%   |
-| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 2.94%   |
-| Intel Wireless 8260                                                     | 1         | 2.94%   |
-| Intel Wireless 7265                                                     | 1         | 2.94%   |
-| Intel Wireless 7260                                                     | 1         | 2.94%   |
-| Intel Wireless 3165                                                     | 1         | 2.94%   |
-| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 2.94%   |
-| Intel Centrino Advanced-N 6235                                          | 1         | 2.94%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 2.94%   |
-| Ericsson Business Mobile Networks N5321 gw                              | 1         | 2.94%   |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 2.94%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 2.94%   |
-| Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.94%   |
-| Broadcom BCM4311 802.11b/g WLAN                                         | 1         | 2.94%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 12.5%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 3         | 9.38%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 6.25%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 6.25%   |
+| Intel Centrino Wireless-N 2230                                          | 2         | 6.25%   |
+| Broadcom BCM4312 802.11b/g LP-PHY                                       | 2         | 6.25%   |
+| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 3.13%   |
+| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 3.13%   |
+| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 3.13%   |
+| Realtek 802.11ac NIC                                                    | 1         | 3.13%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 3.13%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 1         | 3.13%   |
+| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 3.13%   |
+| Intel Wireless 8260                                                     | 1         | 3.13%   |
+| Intel Wireless 7265                                                     | 1         | 3.13%   |
+| Intel Wireless 7260                                                     | 1         | 3.13%   |
+| Intel Wireless 3165                                                     | 1         | 3.13%   |
+| Intel Centrino Advanced-N 6235                                          | 1         | 3.13%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 3.13%   |
+| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 3.13%   |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 3.13%   |
+| Broadcom BCM43142 802.11b/g/n                                           | 1         | 3.13%   |
+| Broadcom BCM4311 802.11b/g WLAN                                         | 1         | 3.13%   |
 
 Ethernet Vendor
 ---------------
@@ -1650,14 +1648,14 @@ Ethernet vendors
 
 | Vendor                           | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| Realtek Semiconductor            | 17        | 53.13%  |
-| Qualcomm Atheros                 | 4         | 12.5%   |
-| Intel                            | 4         | 12.5%   |
-| Broadcom                         | 3         | 9.38%   |
-| Silicon Integrated Systems [SiS] | 1         | 3.13%   |
-| Marvell Technology Group         | 1         | 3.13%   |
-| Broadcom Limited                 | 1         | 3.13%   |
-| ASIX Electronics                 | 1         | 3.13%   |
+| Realtek Semiconductor            | 17        | 51.52%  |
+| Intel                            | 5         | 15.15%  |
+| Qualcomm Atheros                 | 4         | 12.12%  |
+| Broadcom                         | 3         | 9.09%   |
+| Silicon Integrated Systems [SiS] | 1         | 3.03%   |
+| Marvell Technology Group         | 1         | 3.03%   |
+| Broadcom Limited                 | 1         | 3.03%   |
+| ASIX Electronics                 | 1         | 3.03%   |
 
 Ethernet Model
 --------------
@@ -1669,22 +1667,23 @@ Ethernet models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 10        | 31.25%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 7         | 21.88%  |
-| Qualcomm Atheros QCA8172 Fast Ethernet                            | 2         | 6.25%   |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 3.13%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.13%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 3.13%   |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 3.13%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 3.13%   |
-| Intel Ethernet Connection (3) I218-LM                             | 1         | 3.13%   |
-| Intel 82579V Gigabit Network Connection                           | 1         | 3.13%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1         | 3.13%   |
-| Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 1         | 3.13%   |
-| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 3.13%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 3.13%   |
-| Broadcom Limited BCM4401-B0 100Base-TX                            | 1         | 3.13%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1         | 3.13%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 10        | 30.3%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 7         | 21.21%  |
+| Qualcomm Atheros QCA8172 Fast Ethernet                            | 2         | 6.06%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 3.03%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.03%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 3.03%   |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 3.03%   |
+| Intel Ethernet Connection I218-LM                                 | 1         | 3.03%   |
+| Intel Ethernet Connection (3) I218-LM                             | 1         | 3.03%   |
+| Intel Comet Lake PCH CNVi WiFi                                    | 1         | 3.03%   |
+| Intel 82579V Gigabit Network Connection                           | 1         | 3.03%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1         | 3.03%   |
+| Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 1         | 3.03%   |
+| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 3.03%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 3.03%   |
+| Broadcom Limited BCM4401-B0 100Base-TX                            | 1         | 3.03%   |
+| ASIX AX88179 Gigabit Ethernet                                     | 1         | 3.03%   |
 
 Net Controller Kind
 -------------------
@@ -1696,8 +1695,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 31        | 50%     |
 | Ethernet | 31        | 50%     |
+| WiFi     | 30        | 48.39%  |
+| Modem    | 1         | 1.61%   |
 
 Used Controller
 ---------------
@@ -1709,8 +1709,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 24        | 55.81%  |
-| Ethernet | 19        | 44.19%  |
+| WiFi     | 23        | 54.76%  |
+| Ethernet | 19        | 45.24%  |
 
 NICs
 ----
@@ -1770,16 +1770,15 @@ Controller models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                                      | 4         | 21.05%  |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 10.53%  |
-| Intel Centrino Bluetooth Wireless Transceiver               | 2         | 10.53%  |
 | Intel Bluetooth wireless interface                          | 2         | 10.53%  |
-| Intel Bluetooth Device                                      | 2         | 10.53%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 2         | 10.53%  |
-| Realtek  Bluetooth 4.2 Adapter                              | 1         | 5.26%   |
+| Realtek 802.11n WLAN Adapter                                | 1         | 5.26%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 5.26%   |
-| Qualcomm Atheros  Bluetooth Device                          | 1         | 5.26%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 5.26%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 5.26%   |
+| Qualcomm Atheros AR9462 Bluetooth                           | 1         | 5.26%   |
+| Lite-On Bluetooth Device                                    | 1         | 5.26%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 1         | 5.26%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 5.26%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 5.26%   |

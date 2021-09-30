@@ -1005,13 +1005,13 @@ Hard drive models
 | Unknown AJNB4R  16GB                    | 1         | 0.84%   |
 | Unknown 00000  64GB                     | 1         | 0.84%   |
 | Toshiba THNSNJ256GVNU 256GB SSD         | 1         | 0.84%   |
-| Toshiba NVMe SSD Drive 256GB            | 1         | 0.84%   |
 | Toshiba NVMe SSD Drive 1024GB           | 1         | 0.84%   |
 | Toshiba MQ01ABD075 752GB                | 1         | 0.84%   |
 | Toshiba MQ01ABD050 500GB                | 1         | 0.84%   |
 | Toshiba MK5055GSX 500GB                 | 1         | 0.84%   |
 | Toshiba MK3276GSX 320GB                 | 1         | 0.84%   |
 | Toshiba MK1665GSX 160GB                 | 1         | 0.84%   |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 0.84%   |
 | SK Hynix HFM512GDJTNG-8310A 512GB       | 1         | 0.84%   |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 0.84%   |
 | Seagate ST9500325AS 500GB               | 1         | 0.84%   |
@@ -2276,19 +2276,16 @@ Controller models
 
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                                                  | 10        | 22.22%  |
-| Intel Bluetooth Device                                                              | 7         | 15.56%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 4         | 8.89%   |
+| Intel Bluetooth wireless interface                                                  | 11        | 24.44%  |
+| Intel Bluetooth Device                                                              | 11        | 24.44%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 4         | 8.89%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 4.44%   |
+| Lite-On Bluetooth Device                                                            | 3         | 6.67%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 4.44%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 2.22%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 2.22%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.22%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.22%   |
-| Lite-On Bluetooth Device                                                            | 1         | 2.22%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 2.22%   |
-| Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.22%   |
 | Intel AX200 Bluetooth                                                               | 1         | 2.22%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 2.22%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 2.22%   |
@@ -2357,7 +2354,7 @@ Sound card models
 | AMD Redwood HDMI Audio [Radeon HD 5000 Series]                             | 2         | 1.8%    |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 2         | 1.8%    |
 | AMD Navi 10 HDMI Audio                                                     | 2         | 1.8%    |
-| SteelSeries ApS Arctis 7 wireless adapter                                  | 1         | 0.9%    |
+| SteelSeries ApS SteelSeries Arctis 7                                       | 1         | 0.9%    |
 | Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 0.9%    |
 | Nvidia TU102 High Definition Audio Controller                              | 1         | 0.9%    |
 | Nvidia MCP79 High Definition Audio                                         | 1         | 0.9%    |
@@ -2367,7 +2364,7 @@ Sound card models
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1         | 0.9%    |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 1         | 0.9%    |
 | Nvidia GK104 HDMI Audio Controller                                         | 1         | 0.9%    |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1         | 0.9%    |
+| JMTek USB PnP Audio Device                                                 | 1         | 0.9%    |
 | Intel CM238 HD Audio Controller                                            | 1         | 0.9%    |
 | Intel Celeron/Pentium Silver Processor High Definition Audio               | 1         | 0.9%    |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1         | 0.9%    |
@@ -2423,7 +2420,7 @@ Memory module models
 | Model                                                      | Computers | Percent |
 |------------------------------------------------------------|-----------|---------|
 | SK Hynix RAM Module 8192MB SODIMM DDR4 2400MT/s            | 2         | 5.56%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3466MT/s      | 2         | 5.56%   |
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3466MT/s   | 2         | 5.56%   |
 | Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s             | 1         | 2.78%   |
 | Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
 | Unknown RAM Module 4096MB SODIMM DDR3                      | 1         | 2.78%   |
@@ -2431,18 +2428,18 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s               | 1         | 2.78%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 2.78%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
 | SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
 | Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.78%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s           | 1         | 2.78%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
-| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s      | 1         | 2.78%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
+| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s   | 1         | 2.78%   |
 | Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s      | 1         | 2.78%   |
+| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s  | 1         | 2.78%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s              | 1         | 2.78%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
+| Micron RAM 4ATF51264HZ-2G3E1 4096MB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
 | Kingston RAM HP24D4S7S8MBP-8 8192MB SODIMM DDR4 2400MT/s   | 1         | 2.78%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
 | Kingston RAM 99U5428-063.A00LF 8192MB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
@@ -2453,7 +2450,7 @@ Memory module models
 | Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s        | 1         | 2.78%   |
 | Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s     | 1         | 2.78%   |
 | Corsair RAM CMK32GX4M2B3000C15 16384MB DIMM DDR4 3000MT/s  | 1         | 2.78%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s      | 1         | 2.78%   |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s   | 1         | 2.78%   |
 | A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s              | 1         | 2.78%   |
 | A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
 
@@ -2626,8 +2623,8 @@ Camera device models
 | Suyin HP TrueVision FHD RGB-IR                               | 1         | 1.92%   |
 | Sunplus Laptop Integrated WebCam HD                          | 1         | 1.92%   |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 1.92%   |
-| Samsung Galaxy A5 (MTP)                                      | 1         | 1.92%   |
-| Realtek Integrated Webcam HD                                 | 1         | 1.92%   |
+| Samsung Galaxy series, misc. (MTP mode)                      | 1         | 1.92%   |
+| Realtek Integrated_Webcam_HD                                 | 1         | 1.92%   |
 | Realtek Integrated Camera                                    | 1         | 1.92%   |
 | Realtek HD WebCam                                            | 1         | 1.92%   |
 | Quanta HP TrueVision HD Webcam                               | 1         | 1.92%   |

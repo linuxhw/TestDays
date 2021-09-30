@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor   | Model                  | Probe                                                      | Date         |
 |----------|------------------------|------------------------------------------------------------|--------------|
+| Gigabyte | A320M-S2H-CF           | [b733e7fac1](https://linux-hardware.org/?probe=b733e7fac1) | Sep 23, 2021 |
 | Gigabyte | A320M-S2H-CF           | [6647d75cdb](https://linux-hardware.org/?probe=6647d75cdb) | Aug 20, 2021 |
 | Gigabyte | A320M-S2H-CF           | [5363cc3efd](https://linux-hardware.org/?probe=5363cc3efd) | Aug 12, 2021 |
 | Gigabyte | A320M-S2H-CF           | [3ba02ffef3](https://linux-hardware.org/?probe=3ba02ffef3) | Aug 10, 2021 |
@@ -516,8 +517,7 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 8        | 88.89%  |
-| Yes       | 1        | 11.11%  |
+| No        | 8        | 100%    |
 
 Has Ethernet
 ------------
@@ -611,7 +611,7 @@ Hard drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Seagate             | 4        | 8      | 21.05%  |
-| WDC                 | 3        | 3      | 15.79%  |
+| WDC                 | 3        | 4      | 15.79%  |
 | Hitachi             | 2        | 3      | 10.53%  |
 | Unknown             | 1        | 1      | 5.26%   |
 | Toshiba             | 1        | 1      | 5.26%   |
@@ -622,7 +622,7 @@ Hard drive vendors
 | Intenso             | 1        | 1      | 5.26%   |
 | FORESEE             | 1        | 1      | 5.26%   |
 | Crucial             | 1        | 1      | 5.26%   |
-| China               | 1        | 1      | 5.26%   |
+| China               | 1        | 2      | 5.26%   |
 
 Drive Model
 -----------
@@ -637,7 +637,7 @@ Hard drive models
 | WDC WDBNCE0010PNC 1TB SSD           | 1        | 4.55%   |
 | WDC WD3200LPVX-60V0TT0 320GB        | 1        | 4.55%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 4.55%   |
-| Unknown SD/MMC/MS PRO 64GB          | 1        | 4.55%   |
+| Unknown SD/MMC/MS PRO 128GB         | 1        | 4.55%   |
 | Toshiba MK2552GSX 250GB             | 1        | 4.55%   |
 | SPCC Solid State Disk 120GB         | 1        | 4.55%   |
 | SK Hynix NVMe SSD Drive 256GB       | 1        | 4.55%   |
@@ -649,7 +649,7 @@ Hard drive models
 | Seagate ST250DM000-1BD141 250GB     | 1        | 4.55%   |
 | Samsung NVMe SSD Drive 1TB          | 1        | 4.55%   |
 | Phison NVMe SSD Drive 1TB           | 1        | 4.55%   |
-| Intenso SSD SATAIII 960GB           | 1        | 4.55%   |
+| Intenso SSD SATAIII 480GB           | 1        | 4.55%   |
 | Hitachi HTS547564A9E384 640GB       | 1        | 4.55%   |
 | Hitachi HTS545050B9A300 500GB       | 1        | 4.55%   |
 | Hitachi HDT721010SLA360 1TB         | 1        | 4.55%   |
@@ -668,7 +668,7 @@ Hard disk drive vendors
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | Seagate | 4        | 8      | 40%     |
-| WDC     | 2        | 2      | 20%     |
+| WDC     | 2        | 3      | 20%     |
 | Hitachi | 2        | 3      | 20%     |
 | Unknown | 1        | 1      | 10%     |
 | Toshiba | 1        | 1      | 10%     |
@@ -688,7 +688,7 @@ Solid state drive vendors
 | Intenso | 1        | 1      | 16.67%  |
 | FORESEE | 1        | 1      | 16.67%  |
 | Crucial | 1        | 1      | 16.67%  |
-| China   | 1        | 1      | 16.67%  |
+| China   | 1        | 2      | 16.67%  |
 
 Drive Kind
 ----------
@@ -700,8 +700,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 7        | 15     | 43.75%  |
-| SSD  | 6        | 6      | 37.5%   |
+| HDD  | 7        | 16     | 43.75%  |
+| SSD  | 6        | 7      | 37.5%   |
 | NVMe | 3        | 3      | 18.75%  |
 
 Drive Connector
@@ -714,7 +714,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 7        | 20     | 63.64%  |
+| SATA | 7        | 22     | 63.64%  |
 | NVMe | 3        | 3      | 27.27%  |
 | SAS  | 1        | 1      | 9.09%   |
 
@@ -728,7 +728,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 7        | 14     | 53.85%  |
+| 0.01-0.5   | 7        | 16     | 53.85%  |
 | 0.51-1.0   | 5        | 6      | 38.46%  |
 | 3.01-4.0   | 1        | 1      | 7.69%   |
 
@@ -742,12 +742,12 @@ Amount of disk space available on the file system
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 251-500    | 3        | 33.33%  |
-| 101-250    | 2        | 22.22%  |
-| 2001-3000  | 1        | 11.11%  |
-| 1001-2000  | 1        | 11.11%  |
-| 501-1000   | 1        | 11.11%  |
-| 51-100     | 1        | 11.11%  |
+| 251-500    | 3        | 30%     |
+| 101-250    | 2        | 20%     |
+| 1001-2000  | 2        | 20%     |
+| 2001-3000  | 1        | 10%     |
+| 501-1000   | 1        | 10%     |
+| 51-100     | 1        | 10%     |
 
 Space Used
 ----------
@@ -759,11 +759,11 @@ Amount of used disk space
 
 | Used GB  | Desktops | Percent |
 |----------|----------|---------|
-| 21-50    | 3        | 33.33%  |
-| 101-250  | 3        | 33.33%  |
-| 251-500  | 1        | 11.11%  |
-| 1-20     | 1        | 11.11%  |
-| 501-1000 | 1        | 11.11%  |
+| 101-250  | 4        | 40%     |
+| 21-50    | 3        | 30%     |
+| 251-500  | 1        | 10%     |
+| 1-20     | 1        | 10%     |
+| 501-1000 | 1        | 10%     |
 
 Malfunc. Drives
 ---------------
@@ -824,7 +824,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 960GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 480GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -848,7 +848,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 6        | 14     | 46.15%  |
+| Detected | 6        | 16     | 46.15%  |
 | Works    | 4        | 7      | 30.77%  |
 | Malfunc  | 2        | 2      | 15.38%  |
 | Failed   | 1        | 1      | 7.69%   |
@@ -1451,8 +1451,9 @@ Controller models
 
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
-| Intel Bluetooth wireless interface | 2        | 66.67%  |
 | Realtek Bluetooth Radio            | 1        | 33.33%  |
+| Intel Bluetooth wireless interface | 1        | 33.33%  |
+| Intel Bluetooth Device             | 1        | 33.33%  |
 
 Sound
 -----

@@ -670,7 +670,7 @@ Hard drive models
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
 | KingSpec NT-256 256GB                 | 1        | 6.67%   |
-| KingDian S200 60GB                    | 1        | 6.67%   |
+| KingDian S200 60GB SSD                | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
 | Crucial CT256MX100SSD1 256GB          | 1        | 6.67%   |
@@ -1504,7 +1504,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 50%     |
-| Qualcomm Atheros  Bluetooth Device                  | 1        | 16.67%  |
+| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 16.67%  |
 | Intel Bluetooth wireless interface                  | 1        | 16.67%  |
 | IMC Networks Bluetooth Device                       | 1        | 16.67%  |
 
@@ -1622,10 +1622,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Desktops | Percent |
-|----------------------------|----------|---------|
-| Seiko Epson ET-2710 Series | 1        | 50%     |
-| HP LaserJet 1012           | 1        | 50%     |
+| Model                    | Desktops | Percent |
+|--------------------------|----------|---------|
+| Seiko Epson L3150 Series | 1        | 50%     |
+| HP LaserJet 1012         | 1        | 50%     |
 
 Scanner Vendor
 --------------

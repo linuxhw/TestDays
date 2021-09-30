@@ -1066,7 +1066,7 @@ Hard drive vendors
 | Toshiba                   | 17       | 26     | 9.77%   |
 | Kingston                  | 13       | 15     | 7.47%   |
 | Hitachi                   | 11       | 17     | 6.32%   |
-| Sandisk                   | 7        | 10     | 4.02%   |
+| SanDisk                   | 7        | 10     | 4.02%   |
 | Intel                     | 6        | 17     | 3.45%   |
 | Unknown                   | 3        | 3      | 1.72%   |
 | HGST                      | 2        | 3      | 1.15%   |
@@ -1252,9 +1252,9 @@ Size of hard drive
 | 0.01-0.5   | 72       | 174    | 48.98%  |
 | 0.51-1.0   | 39       | 51     | 26.53%  |
 | 1.01-2.0   | 14       | 26     | 9.52%   |
-| 3.01-4.0   | 7        | 17     | 4.76%   |
+| 3.01-4.0   | 8        | 18     | 5.44%   |
 | 2.01-3.0   | 6        | 16     | 4.08%   |
-| 4.01-10.0  | 6        | 14     | 4.08%   |
+| 4.01-10.0  | 5        | 13     | 3.4%    |
 | 10.01-20.0 | 3        | 10     | 2.04%   |
 
 Space Total
@@ -2504,9 +2504,9 @@ Controller models
 |-------------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 4        | 40%     |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE | 2        | 20%     |
-| Intel Bluetooth Device                                | 1        | 10%     |
+| Intel AX200 Bluetooth                                 | 1        | 10%     |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter      | 1        | 10%     |
-| Broadcom BCM20702A0 Bluetooth 4.0                     | 1        | 10%     |
+| Broadcom BCM20702A0                                   | 1        | 10%     |
 | Broadcom ANYCOM Blue USB-200/250                      | 1        | 10%     |
 
 Sound
@@ -2668,17 +2668,17 @@ Memory module models
 | SK Hynix RAM Module 2048MB DIMM DDR3 800MT/s                | 1        | 0.83%   |
 | SK Hynix RAM Module 16GB DIMM DDR4 3200MT/s                 | 1        | 0.83%   |
 | SK Hynix RAM HMT451U7BFR8A-PB 4096MB DIMM DDR3 1600MT/s     | 1        | 0.83%   |
-| SK Hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s        | 1        | 0.83%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s   | 1        | 0.83%   |
+| SK Hynix RAM HMT451U6BFR8A-PB 4096MB DIMM DDR3 1600MT/s     | 1        | 0.83%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1        | 0.83%   |
 | SK Hynix RAM HMT41GU7MFR8C-PB 8192MB DIMM DDR3 1600MT/s     | 1        | 0.83%   |
 | SK Hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s     | 1        | 0.83%   |
 | SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s     | 1        | 0.83%   |
-| SK Hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s     | 1        | 0.83%   |
+| SK Hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s        | 1        | 0.83%   |
 | SK Hynix RAM HMT112U7AFP8C-H9 1024MB DIMM DDR3 1333MT/s     | 1        | 0.83%   |
 | SK Hynix RAM HMAA4GS6AJR8N-XN 32GB SODIMM DDR4 3200MT/s     | 1        | 0.83%   |
-| SK Hynix RAM HMA81GU6DJR8N-VK 8192MB DIMM DDR4 2666MT/s     | 1        | 0.83%   |
+| SK Hynix RAM HMA81GU6DJR8N-VK 8GB DIMM DDR4 2667MT/s        | 1        | 0.83%   |
 | SK Hynix RAM HMA42GR7AFR4N-TF 16384MB RIMM 2133MT/s         | 1        | 0.83%   |
-| SK Hynix RAM HMA41GU6AFR8N-TF 8192MB DIMM DDR4 2465MT/s     | 1        | 0.83%   |
+| SK Hynix RAM HMA41GU6AFR8N-TF 8GB DIMM DDR4 2465MT/s        | 1        | 0.83%   |
 | Samsung RAM Module 8GB DIMM DDR4 3200MT/s                   | 1        | 0.83%   |
 | Samsung RAM Module 8192MB DIMM DDR4 3200MT/s                | 1        | 0.83%   |
 | Samsung RAM Module 8192MB DIMM DDR4 2133MT/s                | 1        | 0.83%   |
@@ -2693,10 +2693,10 @@ Memory module models
 | Samsung RAM M391A2K43BB1-CTD 16384MB DIMM DDR4 2667MT/s     | 1        | 0.83%   |
 | Samsung RAM M391A1K43BB1-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 0.83%   |
 | Samsung RAM M378B5273EB0-CK0 4GB DIMM DDR3 1800MT/s         | 1        | 0.83%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s         | 1        | 0.83%   |
-| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s        | 1        | 0.83%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s         | 1        | 0.83%   |
-| Patriot RAM PSD34G160081 4096MB DIMM DDR3 1600MT/s          | 1        | 0.83%   |
+| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s      | 1        | 0.83%   |
+| Samsung RAM M378A2K43CB1-CTD 16384MB DIMM DDR4 2667MT/s     | 1        | 0.83%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s      | 1        | 0.83%   |
+| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s             | 1        | 0.83%   |
 | Patriot RAM PSD34G133381 4096MB DIMM 1333MT/s               | 1        | 0.83%   |
 
 Memory Kind
@@ -2759,17 +2759,17 @@ Memory module speed
 | 1600    | 25       | 24.27%  |
 | 1333    | 18       | 17.48%  |
 | 2400    | 13       | 12.62%  |
-| 2667    | 9        | 8.74%   |
+| 2667    | 10       | 9.71%   |
 | 2133    | 7        | 6.8%    |
 | 3200    | 6        | 5.83%   |
 | 800     | 5        | 4.85%   |
 | 2800    | 4        | 3.88%   |
-| 2666    | 2        | 1.94%   |
 | 2134    | 2        | 1.94%   |
 | 2000    | 2        | 1.94%   |
 | 1800    | 2        | 1.94%   |
 | 667     | 2        | 1.94%   |
 | 3500    | 1        | 0.97%   |
+| 2666    | 1        | 0.97%   |
 | 2465    | 1        | 0.97%   |
 | 1867    | 1        | 0.97%   |
 | 1067    | 1        | 0.97%   |
@@ -2801,12 +2801,12 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                  | Desktops | Percent |
-|------------------------|----------|---------|
-| HP LaserJet 400 M401dn | 1        | 25%     |
-| HP LaserJet 3030       | 1        | 25%     |
-| Canon MF210 Series     | 1        | 25%     |
-| Brother MFC-9130CW     | 1        | 25%     |
+| Model                 | Desktops | Percent |
+|-----------------------|----------|---------|
+| HP LaserJet 400 M401n | 1        | 25%     |
+| HP LaserJet 3030      | 1        | 25%     |
+| Canon MF210 Series    | 1        | 25%     |
+| Brother MFC-9130CW    | 1        | 25%     |
 
 Scanner Vendor
 --------------
@@ -2849,14 +2849,14 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Samsung Galaxy A5 (MTP)                  | 1        | 16.67%  |
-| Realtek Web Camera                       | 1        | 16.67%  |
-| Microsoft LifeCam HD-5000                | 1        | 16.67%  |
-| Logitech Webcam C310                     | 1        | 16.67%  |
-| Logitech HD Pro Webcam C920              | 1        | 16.67%  |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 16.67%  |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 16.67%  |
+| Realtek Web Camera                      | 1        | 16.67%  |
+| Microsoft LifeCam HD-5000               | 1        | 16.67%  |
+| Logitech Webcam C310                    | 1        | 16.67%  |
+| Logitech HD Pro Webcam C920             | 1        | 16.67%  |
+| Generalplus 808 Camera                  | 1        | 16.67%  |
 
 Security
 --------

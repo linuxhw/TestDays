@@ -830,10 +830,10 @@ Hard drive models
 | Unknown MMC Card  32GB                  | 1         | 2%      |
 | Unknown AJNB4R  16GB                    | 1         | 2%      |
 | Toshiba THNSNJ256GVNU 256GB SSD         | 1         | 2%      |
-| Toshiba NVMe SSD Drive 256GB            | 1         | 2%      |
 | Toshiba NVMe SSD Drive 1024GB           | 1         | 2%      |
 | Toshiba MQ01ABD075 752GB                | 1         | 2%      |
 | Toshiba MK5055GSX 500GB                 | 1         | 2%      |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 2%      |
 | SK Hynix PC401 HFS256GD9TNG-62A0A 256GB | 1         | 2%      |
 | SK Hynix HFM512GDJTNG-8310A 512GB       | 1         | 2%      |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 2%      |
@@ -1931,15 +1931,13 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                                                  | 8         | 25.81%  |
-| Intel Bluetooth Device                                                              | 6         | 19.35%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 9.68%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 6.45%   |
+| Intel Bluetooth wireless interface                                                  | 10        | 32.26%  |
+| Intel Bluetooth Device                                                              | 7         | 22.58%  |
+| Lite-On Bluetooth Device                                                            | 3         | 9.68%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 6.45%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 3.23%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 3.23%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 3.23%   |
-| Lite-On Bluetooth Device                                                            | 1         | 3.23%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 3.23%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 3.23%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 3.23%   |
@@ -2039,15 +2037,15 @@ Memory module models
 | SK Hynix RAM Module 8192MB SODIMM DDR4 2400MT/s            | 2         | 10.53%  |
 | Unknown RAM Module 4096MB SODIMM DDR3                      | 1         | 5.26%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 5.26%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s           | 1         | 5.26%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
-| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s      | 1         | 5.26%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 5.26%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 5.26%   |
+| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s   | 1         | 5.26%   |
 | Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 5.26%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s      | 1         | 5.26%   |
+| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 5.26%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s  | 1         | 5.26%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
 | Kingston RAM 99U5428-063.A00LF 8192MB SODIMM DDR3 1600MT/s | 1         | 5.26%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 5.26%   |
@@ -2193,7 +2191,7 @@ Camera device models
 | Syntek USB2.0 Camera                                         | 1         | 2.7%    |
 | Sunplus Laptop Integrated WebCam HD                          | 1         | 2.7%    |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 2.7%    |
-| Realtek Integrated Webcam HD                                 | 1         | 2.7%    |
+| Realtek Integrated_Webcam_HD                                 | 1         | 2.7%    |
 | Realtek Integrated Camera                                    | 1         | 2.7%    |
 | Realtek HD WebCam                                            | 1         | 2.7%    |
 | Quanta HP TrueVision HD Webcam                               | 1         | 2.7%    |
