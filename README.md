@@ -26,6 +26,7 @@ Contents
 * [ LinuxFX 10 ](/Dist/LinuxFX_10)
 * [ LMDE 4 ](/Dist/LMDE_4)
 * [ Lubuntu 20.04 ](/Dist/Lubuntu_20.04)
+* [ MX 20 ](/Dist/MX_20)
 * [ MX 19 ](/Dist/MX_19)
 * [ openSUSE Leap-15.3 ](/Dist/openSUSE_Leap-15.3)
 * [ Parrot 4.11 ](/Dist/Parrot_4.11)

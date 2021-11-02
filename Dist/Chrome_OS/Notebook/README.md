@@ -643,8 +643,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 25        | 60.98%  |
-| Yes       | 16        | 39.02%  |
+| No        | 24        | 58.54%  |
+| Yes       | 17        | 41.46%  |
 
 Has Ethernet
 ------------
@@ -1789,14 +1789,16 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 4         | 17.39%  |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 17.39%  |
-| Realtek Bluetooth Radio                             | 2         | 8.7%    |
+| Intel Bluetooth wireless interface                  | 3         | 13.04%  |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 8.7%    |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 8.7%    |
 | Toshiba Askey for                                   | 1         | 4.35%   |
+| Realtek RTL8723B Bluetooth                          | 1         | 4.35%   |
+| Realtek Bluetooth Radio                             | 1         | 4.35%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.35%   |
 | Lite-On Bluetooth Device                            | 1         | 4.35%   |
+| Intel Bluetooth Device                              | 1         | 4.35%   |
 | IMC Networks Bluetooth Device                       | 1         | 4.35%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 4.35%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 4.35%   |
@@ -1996,7 +1998,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 20%     |
+| Alcor Micro USB 2.0 Camera                              | 6         | 20%     |
 | Lenovo UVC Camera                                       | 3         | 10%     |
 | Ricoh Integrated Webcam                                 | 2         | 6.67%   |
 | Lite-On Integrated Camera                               | 2         | 6.67%   |
@@ -2006,8 +2008,8 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 3.33%   |
 | Sunplus HD WebCam                                       | 1         | 3.33%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.33%   |
-| Realtek USB Camera                                      | 1         | 3.33%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.33%   |
+| Realtek 2SF022                                          | 1         | 3.33%   |
 | Microdia HP Webcam                                      | 1         | 3.33%   |
 | Importek HP Webcam                                      | 1         | 3.33%   |
 | IMC Networks Lenovo EasyCamera                          | 1         | 3.33%   |

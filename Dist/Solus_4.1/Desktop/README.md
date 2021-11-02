@@ -590,8 +590,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 12       | 63.16%  |
-| Yes       | 7        | 36.84%  |
+| No        | 11       | 57.89%  |
+| Yes       | 8        | 42.11%  |
 
 Has Ethernet
 ------------
@@ -749,17 +749,17 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
-| Seagate Backup+ Hub BK 10TB     | 1        | 1.72%   |
-| SanDisk SDSSDH31024G 1024GB     | 1        | 1.72%   |
+| Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
+| SanDisk SDSSDH31024G 1TB        | 1        | 1.72%   |
 | SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
 | Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
 | Samsung SSD 840 EVO 120GB       | 1        | 1.72%   |
 | Samsung Portable SSD T5 500GB   | 1        | 1.72%   |
-| Samsung M3 Portable 1TB         | 1        | 1.72%   |
+| Samsung M3 Portable 4TB         | 1        | 1.72%   |
 | Samsung HD203WI 2TB             | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
-| Intel NVMe SSD Drive 256GB      | 1        | 1.72%   |
+| Intel SSDPEKKW256G7 256GB       | 1        | 1.72%   |
 | Hitachi HTS545032B9A300 320GB   | 1        | 1.72%   |
 | Crucial CT250BX100SSD1 250GB    | 1        | 1.72%   |
 | Crucial CT240BX500SSD1 240GB    | 1        | 1.72%   |
@@ -839,8 +839,8 @@ Size of hard drive
 |------------|----------|--------|---------|
 | 0.01-0.5   | 17       | 33     | 51.52%  |
 | 0.51-1.0   | 10       | 11     | 30.3%   |
-| 1.01-2.0   | 5        | 22     | 15.15%  |
-| 3.01-4.0   | 1        | 1      | 3.03%   |
+| 1.01-2.0   | 4        | 21     | 12.12%  |
+| 3.01-4.0   | 2        | 2      | 6.06%   |
 
 Space Total
 -----------
@@ -1477,7 +1477,7 @@ Controller vendors
 | Realtek Semiconductor | 13       | 54.17%  |
 | Intel                 | 8        | 33.33%  |
 | Qualcomm Atheros      | 2        | 8.33%   |
-| TP-Link               | 1        | 4.17%   |
+| Realtek               | 1        | 4.17%   |
 
 Net Controller Model
 --------------------
@@ -1493,9 +1493,9 @@ Controller models
 | Intel I211 Gigabit Network Connection                             | 3        | 10.71%  |
 | Qualcomm Atheros AR922X Wireless Network Adapter                  | 2        | 7.14%   |
 | Intel Ethernet Connection (7) I219-V                              | 2        | 7.14%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 3.57%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 3.57%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.57%   |
+| Realtek 802.11n NIC                                               | 1        | 3.57%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.57%   |
 | Intel Wireless 7265                                               | 1        | 3.57%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 1        | 3.57%   |
@@ -1514,7 +1514,7 @@ Wireless vendors
 |------------------|----------|---------|
 | Intel            | 4        | 57.14%  |
 | Qualcomm Atheros | 2        | 28.57%  |
-| TP-Link          | 1        | 14.29%  |
+| Realtek          | 1        | 14.29%  |
 
 Wireless Model
 --------------
@@ -1527,7 +1527,7 @@ Wireless models
 | Model                                            | Desktops | Percent |
 |--------------------------------------------------|----------|---------|
 | Qualcomm Atheros AR922X Wireless Network Adapter | 2        | 28.57%  |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]      | 1        | 14.29%  |
+| Realtek 802.11n NIC                              | 1        | 14.29%  |
 | Intel Wireless-AC 9260                           | 1        | 14.29%  |
 | Intel Wireless 7265                              | 1        | 14.29%  |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak] | 1        | 14.29%  |
@@ -1641,9 +1641,11 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Intel Bluetooth Device                              | 3        | 37.5%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 37.5%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 12.5%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 12.5%   |
+| Intel Bluetooth wireless interface                  | 1        | 12.5%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 12.5%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 12.5%   |
 
 Sound
@@ -1687,7 +1689,7 @@ Sound card models
 | AMD SBx00 Azalia (Intel HDA)                                               | 2        | 4.44%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 2        | 4.44%   |
 | AMD Navi 10 HDMI Audio                                                     | 2        | 4.44%   |
-| SteelSeries ApS SteelSeries Arctis 7                                       | 1        | 2.22%   |
+| SteelSeries ApS Arctis 7 wireless adapter                                  | 1        | 2.22%   |
 | Nvidia TU116 High Definition Audio Controller                              | 1        | 2.22%   |
 | Nvidia TU106 High Definition Audio Controller                              | 1        | 2.22%   |
 | Nvidia TU102 High Definition Audio Controller                              | 1        | 2.22%   |
@@ -1735,17 +1737,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3466MT/s  | 2        | 20%     |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s              | 1        | 10%     |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1        | 10%     |
-| G.Skill RAM F4-2400C15-8GVR 8192MB DIMM DDR4 3200MT/s     | 1        | 10%     |
-| Corsair RAM CMY8GX3M2A1600C9 4096MB DIMM DDR3 1600MT/s    | 1        | 10%     |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s       | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s    | 1        | 10%     |
-| Corsair RAM CMK32GX4M2B3000C15 16384MB DIMM DDR4 3000MT/s | 1        | 10%     |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1        | 10%     |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3466MT/s  | 2        | 20%     |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 10%     |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 10%     |
+| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 10%     |
+| Corsair RAM CMY8GX3M2A1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
 
 Memory Kind
 -----------
@@ -1874,15 +1876,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Microdia Camera                         | 2        | 25%     |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 12.5%   |
-| Microsoft Xbox NUI Camera               | 1        | 12.5%   |
-| Logitech Webcam C270                    | 1        | 12.5%   |
-| Logitech StreamCam                      | 1        | 12.5%   |
-| Logitech Logitech Webcam C160           | 1        | 12.5%   |
-| HP Webcam HD 2300                       | 1        | 12.5%   |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Microdia Camera               | 2        | 25%     |
+| Samsung Galaxy A5 (MTP)       | 1        | 12.5%   |
+| Microsoft Xbox NUI Camera     | 1        | 12.5%   |
+| Logitech Webcam C270          | 1        | 12.5%   |
+| Logitech StreamCam            | 1        | 12.5%   |
+| Logitech Logitech Webcam C160 | 1        | 12.5%   |
+| HP Webcam HD 2300             | 1        | 12.5%   |
 
 Security
 --------

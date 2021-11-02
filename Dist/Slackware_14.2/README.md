@@ -1036,7 +1036,7 @@ Hard drive models
 | Toshiba HDWD110 1TB                  | 1         | 0.88%   |
 | Toshiba DT01ACA200 2TB               | 1         | 0.88%   |
 | Toshiba DT01ACA100 1TB               | 1         | 0.88%   |
-| TO Exter nal USB 3.0 4TB             | 1         | 0.88%   |
+| TO Exter nal USB 3.0 160GB           | 1         | 0.88%   |
 | Team T253X1480G 480GB SSD            | 1         | 0.88%   |
 | SK Hynix SHGP31-1000GM-2 1TB         | 1         | 0.88%   |
 | Seagate ST980310AS 80GB              | 1         | 0.88%   |
@@ -1046,7 +1046,7 @@ Hard drive models
 | Seagate ST4000VN008-2DR166 4TB       | 1         | 0.88%   |
 | Seagate ST4000DM004-2CV104 4TB       | 1         | 0.88%   |
 | Seagate ST380819AS 80GB              | 1         | 0.88%   |
-| Seagate ST380011A 80GB               | 1         | 0.88%   |
+| Seagate ST380011A 34GB               | 1         | 0.88%   |
 | Seagate ST3500418AS 500GB            | 1         | 0.88%   |
 | Seagate ST3500410AS 500GB            | 1         | 0.88%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1         | 0.88%   |
@@ -1141,11 +1141,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 33        | 50     | 48.53%  |
+| 0.01-0.5   | 34        | 51     | 50%     |
 | 0.51-1.0   | 19        | 42     | 27.94%  |
 | 1.01-2.0   | 5         | 6      | 7.35%   |
-| 3.01-4.0   | 4         | 8      | 5.88%   |
 | 2.01-3.0   | 4         | 8      | 5.88%   |
+| 3.01-4.0   | 3         | 7      | 4.41%   |
 | 10.01-20.0 | 2         | 5      | 2.94%   |
 | 4.01-10.0  | 1         | 1      | 1.47%   |
 
@@ -1209,7 +1209,7 @@ Drive models with a malfunction
 | WDC WD10EALS-00Z8A0 1TB        | 1         | 2      | 5%      |
 | WDC WD1003FZEX-00MK2A0 1TB     | 1         | 2      | 5%      |
 | Toshiba MK2565GSXN 250GB       | 1         | 1      | 5%      |
-| Seagate ST380011A 80GB         | 1         | 1      | 5%      |
+| Seagate ST380011A 34GB         | 1         | 1      | 5%      |
 | Seagate ST3500418AS 500GB      | 1         | 1      | 5%      |
 | Seagate ST3500410AS 500GB      | 1         | 1      | 5%      |
 | Seagate ST31000524AS 1TB       | 1         | 1      | 5%      |
@@ -2095,7 +2095,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 1         | 0.99%   |
 | Intel Centrino Ultimate-N 6300                                                        | 1         | 0.99%   |
 | Intel Cannon Lake PCH CNVi WiFi                                                       | 1         | 0.99%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                                  | 1         | 0.99%   |
+| Intel 82599 10 Gigabit Dual Port Network Connection                                   | 1         | 0.99%   |
 | Intel 82579V Gigabit Network Connection                                               | 1         | 0.99%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications)         | 1         | 0.99%   |
 | Intel 82567LM Gigabit Network Connection                                              | 1         | 0.99%   |
@@ -2215,7 +2215,7 @@ Ethernet models
 | Intel Ethernet Connection (4) I219-V                                          | 1         | 1.54%   |
 | Intel Ethernet Connection (3) I218-LM                                         | 1         | 1.54%   |
 | Intel Ethernet Connection (10) I219-V                                         | 1         | 1.54%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1         | 1.54%   |
+| Intel 82599 10 Gigabit Dual Port Network Connection                           | 1         | 1.54%   |
 | Intel 82579V Gigabit Network Connection                                       | 1         | 1.54%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1         | 1.54%   |
 | Intel 82567LM Gigabit Network Connection                                      | 1         | 1.54%   |
@@ -2312,15 +2312,18 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 8         | 25.81%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7         | 22.58%  |
-| Intel Bluetooth Device                              | 6         | 19.35%  |
+| Intel Bluetooth wireless interface                  | 6         | 19.35%  |
+| Intel Bluetooth Device                              | 4         | 12.9%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 3         | 9.68%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.45%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 6.45%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 3.23%   |
 | Realtek Bluetooth Radio                             | 1         | 3.23%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.23%   |
 | Micro Star International Bluetooth Device           | 1         | 3.23%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1         | 3.23%   |
+| Intel AX201 Bluetooth                               | 1         | 3.23%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1         | 3.23%   |
 
 Sound
@@ -2395,8 +2398,8 @@ Sound card models
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1         | 1.11%   |
 | Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1         | 1.11%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1         | 1.11%   |
-| C-Media Electronics USB Audio Device                                                              | 1         | 1.11%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                                                 | 1         | 1.11%   |
+| C-Media Electronics 7.1ch Surround Audio Device                                                   | 1         | 1.11%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1         | 1.11%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1         | 1.11%   |
 | AMD Navi 10 HDMI Audio                                                                            | 1         | 1.11%   |
@@ -2455,31 +2458,31 @@ Memory module models
 | Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 1.61%   |
 | SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.61%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 975MT/s     | 1         | 1.61%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 1.61%   |
+| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 1.61%   |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
 | SK Hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s      | 1         | 1.61%   |
-| SK Hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.61%   |
+| SK Hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
 | SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s      | 1         | 1.61%   |
 | SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s         | 1         | 1.61%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 1.61%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 1.61%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 1.61%   |
 | Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s     | 1         | 1.61%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 1         | 1.61%   |
-| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s     | 1         | 1.61%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 1.61%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 1         | 1.61%   |
-| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s     | 1         | 1.61%   |
-| Samsung RAM M471A2K43DB1-CTD 16384MB SODIMM DDR4 2667MT/s    | 1         | 1.61%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 1         | 1.61%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 1.61%   |
 | Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 1.61%   |
 | Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 1.61%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 1.61%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4096MB SODIMM DDR4 2400MT/s     | 1         | 1.61%   |
 | Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s       | 1         | 1.61%   |
 | Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s       | 1         | 1.61%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s      | 1         | 1.61%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s         | 1         | 1.61%   |
 | Kingston RAM KHX2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s     | 1         | 1.61%   |
-| Kingston RAM KHX2666C15S4/16G 16384MB SODIMM DDR4 2667MT/s   | 1         | 1.61%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s          | 1         | 1.61%   |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 1.61%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM 1867MT/s            | 1         | 1.61%   |
 | Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s     | 1         | 1.61%   |
 | Kingston RAM 99U5471-037.A00LF 8192MB DIMM DDR3 1600MT/s     | 1         | 1.61%   |
 | Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s     | 1         | 1.61%   |
@@ -2496,7 +2499,7 @@ Memory module models
 | Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s   | 1         | 1.61%   |
 | Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s     | 1         | 1.61%   |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s           | 1         | 1.61%   |
-| Corsair RAM CMY16GX3M2A2400C11 8192MB DIMM DDR3 2400MT/s     | 1         | 1.61%   |
+| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s        | 1         | 1.61%   |
 | Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s      | 1         | 1.61%   |
 | Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s     | 1         | 1.61%   |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s       | 1         | 1.61%   |
@@ -2678,7 +2681,7 @@ Camera device models
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 3.85%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 3.85%   |
 | Silicon Motion Web Camera                                                  | 1         | 3.85%   |
-| Realtek USB Camera                                                         | 1         | 3.85%   |
+| Realtek 2SF022                                                             | 1         | 3.85%   |
 | Quanta HP Webcam                                                           | 1         | 3.85%   |
 | Motorola PCS Moto E (4) Plus                                               | 1         | 3.85%   |
 | Logitech Webcam C300                                                       | 1         | 3.85%   |
@@ -2779,8 +2782,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 34        | 58.62%  |
-| 1     | 10        | 17.24%  |
+| 0     | 33        | 56.9%   |
+| 1     | 11        | 18.97%  |
 | 2     | 9         | 15.52%  |
 | 3     | 4         | 6.9%    |
 | 4     | 1         | 1.72%   |
@@ -2795,18 +2798,18 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 9         | 21.95%  |
-| Fingerprint reader       | 6         | 14.63%  |
-| Chipcard                 | 6         | 14.63%  |
-| Sound                    | 5         | 12.2%   |
-| Communication controller | 3         | 7.32%   |
-| Card reader              | 3         | 7.32%   |
-| Net/wireless             | 2         | 4.88%   |
-| Unassigned class         | 1         | 2.44%   |
-| Storage/ata              | 1         | 2.44%   |
-| Storage                  | 1         | 2.44%   |
-| Net/ethernet             | 1         | 2.44%   |
-| Firewire controller      | 1         | 2.44%   |
-| Camera                   | 1         | 2.44%   |
-| Bluetooth                | 1         | 2.44%   |
+| Graphics card            | 9         | 21.43%  |
+| Fingerprint reader       | 6         | 14.29%  |
+| Chipcard                 | 6         | 14.29%  |
+| Sound                    | 5         | 11.9%   |
+| Card reader              | 4         | 9.52%   |
+| Communication controller | 3         | 7.14%   |
+| Net/wireless             | 2         | 4.76%   |
+| Unassigned class         | 1         | 2.38%   |
+| Storage/ata              | 1         | 2.38%   |
+| Storage                  | 1         | 2.38%   |
+| Net/ethernet             | 1         | 2.38%   |
+| Firewire controller      | 1         | 2.38%   |
+| Camera                   | 1         | 2.38%   |
+| Bluetooth                | 1         | 2.38%   |
 

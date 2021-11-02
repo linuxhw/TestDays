@@ -822,7 +822,7 @@ Hard drive models
 | Seagate ST4000VN008-2DR166 4TB                | 1        | 1.32%   |
 | Seagate ST4000DM004-2CV104 4TB                | 1        | 1.32%   |
 | Seagate ST380819AS 80GB                       | 1        | 1.32%   |
-| Seagate ST380011A 80GB                        | 1        | 1.32%   |
+| Seagate ST380011A 34GB                        | 1        | 1.32%   |
 | Seagate ST3500418AS 500GB                     | 1        | 1.32%   |
 | Seagate ST3500410AS 500GB                     | 1        | 1.32%   |
 | Seagate ST2000DM008-2FR102 2TB                | 1        | 1.32%   |
@@ -841,7 +841,7 @@ Hard drive models
 | Samsung SSD 750 EVO 250GB                     | 1        | 1.32%   |
 | Samsung NVMe SSD Controller SM981/PM981 512GB | 1        | 1.32%   |
 | Samsung HD501LJ 500GB                         | 1        | 1.32%   |
-| Samsung HD160JJ/ 160GB                        | 1        | 1.32%   |
+| Samsung HD160JJ 160GB                         | 1        | 1.32%   |
 | MAXTOR 4G120J6 128GB                          | 1        | 1.32%   |
 | Kingston SUV500MS120G 120GB SSD               | 1        | 1.32%   |
 | Kingston SUV400S37120G 120GB SSD              | 1        | 1.32%   |
@@ -988,7 +988,7 @@ Drive models with a malfunction
 | WDC WD10EZEX-00RKKA0 1TB       | 1        | 1      | 5.56%   |
 | WDC WD10EALS-00Z8A0 1TB        | 1        | 2      | 5.56%   |
 | WDC WD1003FZEX-00MK2A0 1TB     | 1        | 2      | 5.56%   |
-| Seagate ST380011A 80GB         | 1        | 1      | 5.56%   |
+| Seagate ST380011A 34GB         | 1        | 1      | 5.56%   |
 | Seagate ST3500418AS 500GB      | 1        | 1      | 5.56%   |
 | Seagate ST3500410AS 500GB      | 1        | 1      | 5.56%   |
 | Seagate ST31000524AS 1TB       | 1        | 1      | 5.56%   |
@@ -1703,7 +1703,7 @@ Controller models
 | Intel Ethernet Connection (7) I219-V                                          | 1        | 2.22%   |
 | Intel Ethernet Connection (2) I219-LM                                         | 1        | 2.22%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 1        | 2.22%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1        | 2.22%   |
+| Intel 82599 10 Gigabit Dual Port Network Connection                           | 1        | 2.22%   |
 | Intel 82579V Gigabit Network Connection                                       | 1        | 2.22%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 2.22%   |
 | Chelsio T320 10GbE Dual Port Adapter                                          | 1        | 2.22%   |
@@ -1784,7 +1784,7 @@ Ethernet models
 | Intel Ethernet Connection I217-V                                              | 1        | 2.63%   |
 | Intel Ethernet Connection (7) I219-V                                          | 1        | 2.63%   |
 | Intel Ethernet Connection (2) I219-LM                                         | 1        | 2.63%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1        | 2.63%   |
+| Intel 82599 10 Gigabit Dual Port Network Connection                           | 1        | 2.63%   |
 | Intel 82579V Gigabit Network Connection                                       | 1        | 2.63%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 2.63%   |
 | Chelsio T320 10GbE Dual Port Adapter                                          | 1        | 2.63%   |
@@ -1876,7 +1876,7 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 6        | 66.67%  |
 | Micro Star International Bluetooth Device           | 1        | 11.11%  |
-| Intel Bluetooth Device                              | 1        | 11.11%  |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 11.11%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 11.11%  |
 
 Sound
@@ -1939,7 +1939,7 @@ Sound card models
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1        | 2%      |
 | Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1        | 2%      |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1        | 2%      |
-| C-Media Electronics USB Audio Device                                                              | 1        | 2%      |
+| C-Media Electronics 7.1ch Surround Audio Device                                                   | 1        | 2%      |
 | AMD Trinity HDMI Audio Controller                                                                 | 1        | 2%      |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1        | 2%      |
 | AMD Navi 10 HDMI Audio                                                                            | 1        | 2%      |
@@ -1997,7 +1997,7 @@ Memory module models
 | Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s     | 1        | 2.86%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s    | 1        | 2.86%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.86%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s        | 1        | 2.86%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM 1867MT/s          | 1        | 2.86%   |
 | Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.86%   |
 | Kingston RAM 99U5471-037.A00LF 8192MB DIMM DDR3 1600MT/s   | 1        | 2.86%   |
 | Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.86%   |
@@ -2011,7 +2011,7 @@ Memory module models
 | Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s | 1        | 2.86%   |
 | Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.86%   |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.86%   |
-| Corsair RAM CMY16GX3M2A2400C11 8192MB DIMM DDR3 2400MT/s   | 1        | 2.86%   |
+| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.86%   |
 | Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.86%   |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 1        | 2.86%   |
 | Corsair RAM CMK16GX4M1A2666C16 16384MB DIMM DDR4 2667MT/s  | 1        | 2.86%   |

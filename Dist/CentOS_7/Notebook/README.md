@@ -901,7 +901,7 @@ Hard drive models
 |------------------------------------------|-----------|---------|
 | Kingston SA400S37240G 240GB SSD          | 3         | 4.62%   |
 | Toshiba TR200 240GB SSD                  | 2         | 3.08%   |
-| StoreJet Transcend 512GB                 | 2         | 3.08%   |
+| StoreJet Transcend 240GB                 | 2         | 3.08%   |
 | Seagate BUP Slim 2TB                     | 2         | 3.08%   |
 | WDC WD7500BPKX-00HPJT0 752GB             | 1         | 1.54%   |
 | WDC WD5000BEVT-80A0RT0 500GB             | 1         | 1.54%   |
@@ -936,7 +936,7 @@ Hard drive models
 | Samsung SSD 860 EVO 1TB                  | 1         | 1.54%   |
 | Samsung SSD 850 EVO 500GB                | 1         | 1.54%   |
 | Samsung SSD 840 Series 250GB             | 1         | 1.54%   |
-| Samsung NVMe SSD Drive 512GB             | 1         | 1.54%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 512GB   | 1         | 1.54%   |
 | Samsung MZVLB1T0HBLR-000L7 1TB           | 1         | 1.54%   |
 | Samsung MZVLB1T0 1TB                     | 1         | 1.54%   |
 | Samsung MZNLN256HMHQ-00000 256GB SSD     | 1         | 1.54%   |
@@ -1042,8 +1042,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 47     | 73.08%  |
-| 0.51-1.0   | 12        | 12     | 23.08%  |
+| 0.01-0.5   | 40        | 49     | 76.92%  |
+| 0.51-1.0   | 10        | 10     | 19.23%  |
 | 1.01-2.0   | 2         | 2      | 3.85%   |
 
 Space Total
@@ -1875,7 +1875,7 @@ Controller models
 | Intel Centrino Advanced-N 6200                                                | 2         | 1.87%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                        | 2         | 1.87%   |
 | Xilinx Ethernet controller                                                    | 1         | 0.93%   |
-| TP-Link USB 10/100 LAN                                                        | 1         | 0.93%   |
+| TP-LINK USB 10/100 LAN                                                        | 1         | 0.93%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]               | 1         | 0.93%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1         | 0.93%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1         | 0.93%   |
@@ -1994,7 +1994,7 @@ Ethernet vendors
 | Intel                            | 21        | 41.18%  |
 | Realtek Semiconductor            | 18        | 35.29%  |
 | Qualcomm Atheros                 | 4         | 7.84%   |
-| TP-Link                          | 2         | 3.92%   |
+| TP-LINK                          | 2         | 3.92%   |
 | Xilinx                           | 1         | 1.96%   |
 | Silicon Integrated Systems [SiS] | 1         | 1.96%   |
 | Nvidia                           | 1         | 1.96%   |
@@ -2022,7 +2022,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 2         | 3.92%   |
 | Intel Ethernet Connection (4) I219-V                              | 2         | 3.92%   |
 | Xilinx Ethernet controller                                        | 1         | 1.96%   |
-| TP-Link USB 10/100 LAN                                            | 1         | 1.96%   |
+| TP-LINK USB 10/100 LAN                                            | 1         | 1.96%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 1.96%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet         | 1         | 1.96%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 1.96%   |
@@ -2127,22 +2127,22 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth Device                                                              | 6         | 16.22%  |
 | Intel Bluetooth wireless interface                                                  | 5         | 13.51%  |
+| Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 5.41%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 2         | 5.41%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 5.41%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 2         | 5.41%   |
 | Intel AX200 Bluetooth                                                               | 2         | 5.41%   |
 | Dell DW375 Bluetooth Module                                                         | 2         | 5.41%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 2         | 5.41%   |
-| Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 2.7%    |
 | Realtek Bluetooth Radio                                                             | 1         | 2.7%    |
-| Realtek 802.11n WLAN Adapter                                                        | 1         | 2.7%    |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.7%    |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.7%    |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 2.7%    |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 2.7%    |
+| Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.7%    |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 1         | 2.7%    |
 | IMC Networks Bluetooth Device                                                       | 1         | 2.7%    |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 2.7%    |
-| Dell BCM20702A0                                                                     | 1         | 2.7%    |
+| Dell BCM20702A0 Bluetooth Module                                                    | 1         | 2.7%    |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 1         | 2.7%    |
 | Broadcom BCM2045B (BDC-2) [Bluetooth Controller]                                    | 1         | 2.7%    |
 | ASUS BT-270 Bluetooth Adapter                                                       | 1         | 2.7%    |
@@ -2250,24 +2250,24 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM DRAM                           | 1         | 2.44%   |
 | Transcend RAM JM2666HSB-16G 16GB SODIMM DDR4 2667MT/s           | 1         | 2.44%   |
 | SK Hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 2.44%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 1         | 2.44%   |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 2.44%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 2.44%   |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 2.44%   |
-| SK Hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s       | 1         | 2.44%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 2.44%   |
+| SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s       | 1         | 2.44%   |
+| SK Hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 1         | 2.44%   |
+| SK Hynix RAM HMT351S6CFR8C-PB 4096MB SODIMM DDR3 1600MT/s       | 1         | 2.44%   |
+| SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s          | 1         | 2.44%   |
 | SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s       | 1         | 2.44%   |
-| SK Hynix RAM HMA82GS6JJR8N-VK 16384MB SODIMM DDR4 2667MT/s      | 1         | 2.44%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s       | 1         | 2.44%   |
+| SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s         | 1         | 2.44%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s          | 1         | 2.44%   |
 | Samsung RAM Module 4096MB SODIMM DDR4 2667MT/s                  | 1         | 2.44%   |
 | Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                   | 1         | 2.44%   |
 | Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                   | 1         | 2.44%   |
-| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s           | 1         | 2.44%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s        | 1         | 2.44%   |
+| Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s        | 1         | 2.44%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s           | 1         | 2.44%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 2.44%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 2667MT/s           | 1         | 2.44%   |
-| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s        | 1         | 2.44%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s           | 1         | 2.44%   |
 | Samsung RAM M471A5244BB0-CPB 4096MB SODIMM DDR4 2400MT/s        | 1         | 2.44%   |
-| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s        | 1         | 2.44%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s           | 1         | 2.44%   |
 | Samsung RAM K4E6E304EE-EGCE 4096MB SODIMM LPDDR3 1600MT/s       | 1         | 2.44%   |
 | Samsung RAM K4E6E304EB-EGCG 4096MB Row Of Chips LPDDR3 2133MT/s | 1         | 2.44%   |
 | Ramaxel RAM RMSA3260MB78HAF2400 8192MB SODIMM DDR4 2400MT/s     | 1         | 2.44%   |
@@ -2275,13 +2275,13 @@ Memory module models
 | Micron RAM 16JTF51264HZ-1G4M1 4GB SODIMM DDR3 1334MT/s          | 1         | 2.44%   |
 | Micron RAM 16JTF51264HZ-1G4H1 4GB SODIMM DDR3 1333MT/s          | 1         | 2.44%   |
 | Kingston RAM MSI26D4S9D8ME-16 16384MB SODIMM DDR4 2667MT/s      | 1         | 2.44%   |
-| Kingston RAM KHX1600C9S3L/8G 8192MB SODIMM DDR3 1600MT/s        | 1         | 2.44%   |
+| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s           | 1         | 2.44%   |
 | Kingston RAM ACR16D3LS1NGG/4G 4096MB SODIMM DDR3 1600MT/s       | 1         | 2.44%   |
 | Kingston RAM 99U5469-041.A00LF 4GB SODIMM DDR3 1600MT/s         | 1         | 2.44%   |
 | Kingston RAM 99U5428-058.A00LF 8192MB SODIMM DDR3 1333MT/s      | 1         | 2.44%   |
 | Kingston RAM 9905700-025.A00G 8GB SODIMM DDR4 2400MT/s          | 1         | 2.44%   |
 | ELPIDA RAM EBJ20UF8BDU5-GN-F 2GB SODIMM DDR3 1600MT/s           | 1         | 2.44%   |
-| Crucial RAM CT51264BF160B.C16F 4096MB SODIMM DDR3 1600MT/s      | 1         | 2.44%   |
+| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s         | 1         | 2.44%   |
 | Crucial RAM CT25664BF160B.C8FK 2048MB SODIMM DDR3 1600MT/s      | 1         | 2.44%   |
 | Apacer RAM 78.A2G86.AF5 2048MB SODIMM DDR2 800MT/s              | 1         | 2.44%   |
 | A-DATA RAM Module 4096MB SODIMM DDR3 1333MT/s                   | 1         | 2.44%   |
@@ -2468,7 +2468,7 @@ Camera device models
 | Chicony HP Truevision HD                      | 1         | 2.56%   |
 | Chicony HD WebCam                             | 1         | 2.56%   |
 | Cheng Uei Precision Industry (Foxlink) Webcam | 1         | 2.56%   |
-| Apple iPhone5/5C/5S/6                         | 1         | 2.56%   |
+| Apple iPhone 5/5C/5S/6/SE                     | 1         | 2.56%   |
 | Apple Built-in iSight                         | 1         | 2.56%   |
 | Acer SunplusIT INC. Integrated Camera         | 1         | 2.56%   |
 | Acer HD Webcam                                | 1         | 2.56%   |

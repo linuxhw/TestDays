@@ -709,8 +709,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 31        | 55.36%  |
-| Yes       | 25        | 44.64%  |
+| No        | 30        | 53.57%  |
+| Yes       | 26        | 46.43%  |
 
 Has Ethernet
 ------------
@@ -1776,17 +1776,18 @@ Controller vendors
 
 | Vendor                            | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| Realtek Semiconductor             | 28        | 35.44%  |
-| Intel                             | 19        | 24.05%  |
-| Qualcomm Atheros                  | 13        | 16.46%  |
-| Broadcom                          | 5         | 6.33%   |
-| Ralink Technology                 | 3         | 3.8%    |
-| Marvell Technology Group          | 3         | 3.8%    |
-| Broadcom Limited                  | 3         | 3.8%    |
-| TP-Link                           | 2         | 2.53%   |
-| Nvidia                            | 1         | 1.27%   |
-| Ericsson Business Mobile Networks | 1         | 1.27%   |
-| Dell                              | 1         | 1.27%   |
+| Realtek Semiconductor             | 28        | 35%     |
+| Intel                             | 19        | 23.75%  |
+| Qualcomm Atheros                  | 13        | 16.25%  |
+| Broadcom                          | 5         | 6.25%   |
+| Ralink Technology                 | 3         | 3.75%   |
+| Marvell Technology Group          | 3         | 3.75%   |
+| Broadcom Limited                  | 3         | 3.75%   |
+| TP-Link                           | 2         | 2.5%    |
+| Realtek                           | 1         | 1.25%   |
+| Nvidia                            | 1         | 1.25%   |
+| Ericsson Business Mobile Networks | 1         | 1.25%   |
+| Dell                              | 1         | 1.25%   |
 
 Net Controller Model
 --------------------
@@ -1817,12 +1818,12 @@ Controller models
 | Intel Wireless 3165                                                     | 2         | 2.15%   |
 | Intel Centrino Ultimate-N 6300                                          | 2         | 2.15%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 2         | 2.15%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.08%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 1.08%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.08%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.08%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 1.08%   |
 | Realtek 802.11ac NIC                                                    | 1         | 1.08%   |
+| Realtek 802.11n NIC                                                     | 1         | 1.08%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 1.08%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                           | 1         | 1.08%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                   | 1         | 1.08%   |
@@ -1858,13 +1859,14 @@ Wireless vendors
 
 | Vendor                | Computers | Percent |
 |-----------------------|-----------|---------|
-| Intel                 | 17        | 35.42%  |
-| Realtek Semiconductor | 11        | 22.92%  |
-| Qualcomm Atheros      | 10        | 20.83%  |
-| Broadcom              | 4         | 8.33%   |
-| Ralink Technology     | 3         | 6.25%   |
-| TP-Link               | 2         | 4.17%   |
-| Broadcom Limited      | 1         | 2.08%   |
+| Intel                 | 17        | 34.69%  |
+| Realtek Semiconductor | 11        | 22.45%  |
+| Qualcomm Atheros      | 10        | 20.41%  |
+| Broadcom              | 4         | 8.16%   |
+| Ralink Technology     | 3         | 6.12%   |
+| TP-Link               | 2         | 4.08%   |
+| Realtek               | 1         | 2.04%   |
+| Broadcom Limited      | 1         | 2.04%   |
 
 Wireless Model
 --------------
@@ -1889,12 +1891,12 @@ Wireless models
 | Intel Wireless 7265                                                     | 2         | 4%      |
 | Intel Wireless 3165                                                     | 2         | 4%      |
 | Intel Centrino Ultimate-N 6300                                          | 2         | 4%      |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 2%      |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 2%      |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 2%      |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2%      |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 2%      |
 | Realtek 802.11ac NIC                                                    | 1         | 2%      |
+| Realtek 802.11n NIC                                                     | 1         | 2%      |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 2%      |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 2%      |
 | Intel Wireless 7260                                                     | 1         | 2%      |
@@ -2043,18 +2045,19 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 5         | 16.67%  |
+| Intel Bluetooth wireless interface                  | 5         | 16.67%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 13.33%  |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 13.33%  |
-| Realtek Bluetooth Radio                             | 2         | 6.67%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.67%   |
 | IMC Networks Bluetooth Device                       | 2         | 6.67%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 6.67%   |
 | Toshiba Askey for                                   | 1         | 3.33%   |
+| Realtek RTL8723B Bluetooth                          | 1         | 3.33%   |
+| Realtek Bluetooth Radio                             | 1         | 3.33%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.33%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.33%   |
 | Lite-On Bluetooth Device                            | 1         | 3.33%   |
-| Intel Bluetooth wireless interface                  | 1         | 3.33%   |
+| Intel Bluetooth Device                              | 1         | 3.33%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.33%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.33%   |
 | Foxconn / Hon Hai BCM43142A0 broadcom bluetooth     | 1         | 3.33%   |
@@ -2284,7 +2287,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 18.75%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |
@@ -2295,8 +2298,8 @@ Camera device models
 | Sunplus HD WebCam                                       | 1         | 3.13%   |
 | Realtek WebCamera                                       | 1         | 3.13%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.13%   |
-| Realtek USB Camera                                      | 1         | 3.13%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.13%   |
+| Realtek 2SF022                                          | 1         | 3.13%   |
 | Microdia HP Webcam                                      | 1         | 3.13%   |
 | Importek HP Webcam                                      | 1         | 3.13%   |
 | IMC Networks Lenovo EasyCamera                          | 1         | 3.13%   |
