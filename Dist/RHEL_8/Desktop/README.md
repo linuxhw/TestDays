@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=rhel-8
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo     | MAHOBAY                     | [ea1413bf9e](https://linux-hardware.org/?probe=ea1413bf9e) | Nov 19, 2021 |
 | ASUSTek    | PRIME B350M-A               | [d3d69e7587](https://linux-hardware.org/?probe=d3d69e7587) | Oct 24, 2021 |
 | ASUSTek    | Pro WS X570-ACE             | [07a5b3c465](https://linux-hardware.org/?probe=07a5b3c465) | Oct 16, 2021 |
 | ASUSTek    | PRIME B350M-A               | [66cd9bb2c9](https://linux-hardware.org/?probe=66cd9bb2c9) | Oct 09, 2021 |
@@ -261,30 +262,31 @@ Version of the Linux kernel
 
 | Version                      | Desktops | Percent |
 |------------------------------|----------|---------|
-| 4.18.0-305.el8.x86_64        | 7        | 13.21%  |
-| 4.18.0-147.3.1.el8_1.x86_64  | 6        | 11.32%  |
-| 4.18.0-305.19.1.el8_4.x86_64 | 4        | 7.55%   |
-| 4.18.0-240.1.1.el8_3.x86_64  | 4        | 7.55%   |
-| 4.18.0-240.10.1.el8_3.x86_64 | 3        | 5.66%   |
-| 4.18.0-193.el8.x86_64        | 3        | 5.66%   |
-| 4.18.0-147.5.1.el8_1.x86_64  | 3        | 5.66%   |
-| 4.18.0-305.10.2.el8_4.x86_64 | 2        | 3.77%   |
-| 4.18.0-240.22.1.el8_3.x86_64 | 2        | 3.77%   |
-| 4.18.0-240.15.1.el8_3.x86_64 | 2        | 3.77%   |
-| 4.18.0-193.6.3.el8_2.x86_64  | 2        | 3.77%   |
-| 4.18.0-193.19.1.el8_2.x86_64 | 2        | 3.77%   |
-| 4.18.0-147.el8.x86_64        | 2        | 3.77%   |
-| 5.10.6-1.el8.elrepo.x86_64   | 1        | 1.89%   |
-| 4.19.150                     | 1        | 1.89%   |
-| 4.18.0-80.11.2.el8_0.x86_64  | 1        | 1.89%   |
-| 4.18.0-305.7.1.el8_4.x86_64  | 1        | 1.89%   |
-| 4.18.0-305.3.1.el8_4.x86_64  | 1        | 1.89%   |
-| 4.18.0-305.17.1.el8_4.x86_64 | 1        | 1.89%   |
-| 4.18.0-305.12.1.el8_4.x86_64 | 1        | 1.89%   |
-| 4.18.0-240.8.1.el8_3.x86_64  | 1        | 1.89%   |
-| 4.18.0-193.28.1.el8_2.x86_64 | 1        | 1.89%   |
-| 4.18.0-147.8.1.el8_1.x86_64  | 1        | 1.89%   |
-| 4.18.0-147.0.3.el8_1.x86_64  | 1        | 1.89%   |
+| 4.18.0-305.el8.x86_64        | 7        | 12.96%  |
+| 4.18.0-147.3.1.el8_1.x86_64  | 6        | 11.11%  |
+| 4.18.0-305.19.1.el8_4.x86_64 | 4        | 7.41%   |
+| 4.18.0-240.1.1.el8_3.x86_64  | 4        | 7.41%   |
+| 4.18.0-240.10.1.el8_3.x86_64 | 3        | 5.56%   |
+| 4.18.0-193.el8.x86_64        | 3        | 5.56%   |
+| 4.18.0-147.5.1.el8_1.x86_64  | 3        | 5.56%   |
+| 4.18.0-305.10.2.el8_4.x86_64 | 2        | 3.7%    |
+| 4.18.0-240.22.1.el8_3.x86_64 | 2        | 3.7%    |
+| 4.18.0-240.15.1.el8_3.x86_64 | 2        | 3.7%    |
+| 4.18.0-193.6.3.el8_2.x86_64  | 2        | 3.7%    |
+| 4.18.0-193.19.1.el8_2.x86_64 | 2        | 3.7%    |
+| 4.18.0-147.el8.x86_64        | 2        | 3.7%    |
+| 5.10.6-1.el8.elrepo.x86_64   | 1        | 1.85%   |
+| 4.19.150                     | 1        | 1.85%   |
+| 4.18.0-80.11.2.el8_0.x86_64  | 1        | 1.85%   |
+| 4.18.0-348.2.1.el8_5.x86_64  | 1        | 1.85%   |
+| 4.18.0-305.7.1.el8_4.x86_64  | 1        | 1.85%   |
+| 4.18.0-305.3.1.el8_4.x86_64  | 1        | 1.85%   |
+| 4.18.0-305.17.1.el8_4.x86_64 | 1        | 1.85%   |
+| 4.18.0-305.12.1.el8_4.x86_64 | 1        | 1.85%   |
+| 4.18.0-240.8.1.el8_3.x86_64  | 1        | 1.85%   |
+| 4.18.0-193.28.1.el8_2.x86_64 | 1        | 1.85%   |
+| 4.18.0-147.8.1.el8_1.x86_64  | 1        | 1.85%   |
+| 4.18.0-147.0.3.el8_1.x86_64  | 1        | 1.85%   |
 
 Kernel Family
 -------------
@@ -667,11 +669,11 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 4.01-8.0  | 14       | 29.17%  |
-| 2.01-3.0  | 14       | 29.17%  |
-| 8.01-16.0 | 10       | 20.83%  |
-| 3.01-4.0  | 7        | 14.58%  |
-| 1.01-2.0  | 3        | 6.25%   |
+| 4.01-8.0  | 14       | 28.57%  |
+| 2.01-3.0  | 14       | 28.57%  |
+| 8.01-16.0 | 11       | 22.45%  |
+| 3.01-4.0  | 7        | 14.29%  |
+| 1.01-2.0  | 3        | 6.12%   |
 
 Total Drives
 ------------
@@ -701,8 +703,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 23       | 52.27%  |
-| Yes       | 21       | 47.73%  |
+| No        | 24       | 54.55%  |
+| Yes       | 20       | 45.45%  |
 
 Has Ethernet
 ------------
@@ -788,46 +790,47 @@ Geographic location (city)
 
 | City                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Brno                  | 3        | 6.98%   |
-| Kyiv                  | 2        | 4.65%   |
-| Wiesbaden             | 1        | 2.33%   |
-| Weybridge             | 1        | 2.33%   |
-| Warsaw                | 1        | 2.33%   |
-| Valmontone            | 1        | 2.33%   |
-| Vaestra Froelunda     | 1        | 2.33%   |
-| Toronto               | 1        | 2.33%   |
-| Tauranga              | 1        | 2.33%   |
-| Suwon                 | 1        | 2.33%   |
-| Spokane               | 1        | 2.33%   |
-| Seoul                 | 1        | 2.33%   |
-| Saratov               | 1        | 2.33%   |
-| San Jose              | 1        | 2.33%   |
-| Pernis                | 1        | 2.33%   |
-| Paracuellos de Jarama | 1        | 2.33%   |
-| Musselburgh           | 1        | 2.33%   |
-| Montreal              | 1        | 2.33%   |
-| Mississauga           | 1        | 2.33%   |
-| Minsk                 | 1        | 2.33%   |
-| Milwaukee             | 1        | 2.33%   |
-| Milan                 | 1        | 2.33%   |
-| Lugano                | 1        | 2.33%   |
-| Jary                  | 1        | 2.33%   |
-| Huddersfield          | 1        | 2.33%   |
-| Houghton              | 1        | 2.33%   |
-| Gyami                 | 1        | 2.33%   |
-| Dobrany               | 1        | 2.33%   |
-| Dimitrovgrad          | 1        | 2.33%   |
-| Des Moines            | 1        | 2.33%   |
-| Coimbatore            | 1        | 2.33%   |
-| Cary                  | 1        | 2.33%   |
-| Cairo                 | 1        | 2.33%   |
-| Buenos Aires          | 1        | 2.33%   |
-| Bonn                  | 1        | 2.33%   |
-| Bengaluru             | 1        | 2.33%   |
-| Bandung               | 1        | 2.33%   |
-| ? iauliai             | 1        | 2.33%   |
-| Aurora                | 1        | 2.33%   |
-| Albuquerque           | 1        | 2.33%   |
+| Brno                  | 3        | 6.82%   |
+| Kyiv                  | 2        | 4.55%   |
+| Wiesbaden             | 1        | 2.27%   |
+| Weybridge             | 1        | 2.27%   |
+| Warsaw                | 1        | 2.27%   |
+| Valmontone            | 1        | 2.27%   |
+| Vaestra Froelunda     | 1        | 2.27%   |
+| Toronto               | 1        | 2.27%   |
+| Tauranga              | 1        | 2.27%   |
+| Suwon                 | 1        | 2.27%   |
+| Spokane               | 1        | 2.27%   |
+| Seoul                 | 1        | 2.27%   |
+| Saratov               | 1        | 2.27%   |
+| San Jose              | 1        | 2.27%   |
+| Poznan                | 1        | 2.27%   |
+| Pernis                | 1        | 2.27%   |
+| Paracuellos de Jarama | 1        | 2.27%   |
+| Musselburgh           | 1        | 2.27%   |
+| Montreal              | 1        | 2.27%   |
+| Mississauga           | 1        | 2.27%   |
+| Minsk                 | 1        | 2.27%   |
+| Milwaukee             | 1        | 2.27%   |
+| Milan                 | 1        | 2.27%   |
+| Lugano                | 1        | 2.27%   |
+| Huddersfield          | 1        | 2.27%   |
+| Houghton              | 1        | 2.27%   |
+| Gyami                 | 1        | 2.27%   |
+| Dobrany               | 1        | 2.27%   |
+| Dimitrovgrad          | 1        | 2.27%   |
+| Des Moines            | 1        | 2.27%   |
+| Coimbatore            | 1        | 2.27%   |
+| Chicago               | 1        | 2.27%   |
+| Cary                  | 1        | 2.27%   |
+| Cairo                 | 1        | 2.27%   |
+| Buenos Aires          | 1        | 2.27%   |
+| Bonn                  | 1        | 2.27%   |
+| Bengaluru             | 1        | 2.27%   |
+| Bandung               | 1        | 2.27%   |
+| ? iauliai             | 1        | 2.27%   |
+| Aurora                | 1        | 2.27%   |
+| Albuquerque           | 1        | 2.27%   |
 
 Drives
 ------
@@ -856,7 +859,7 @@ Hard drive vendors
 | A-DATA Technology   | 2        | 2      | 2.38%   |
 | XPG                 | 1        | 1      | 1.19%   |
 | Unknown             | 1        | 1      | 1.19%   |
-| T-FORCE             | 1        | 1      | 1.19%   |
+| T-FORCE             | 1        | 2      | 1.19%   |
 | Silicon Motion      | 1        | 1      | 1.19%   |
 | PNY                 | 1        | 1      | 1.19%   |
 | OCZ                 | 1        | 2      | 1.19%   |
@@ -876,68 +879,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Samsung SSD 860 EVO 1TB                | 3        | 2.91%   |
-| WDC WD1002FAEX-00Z3A0 1TB              | 2        | 1.94%   |
-| Toshiba NVMe SSD Drive 256GB           | 2        | 1.94%   |
-| Seagate ST2000DM001-1ER164 2TB         | 2        | 1.94%   |
-| Seagate ST1000DM003-9YN162 1TB         | 2        | 1.94%   |
-| Samsung PM963 2.5" NVMe PCIe SSD 512GB | 2        | 1.94%   |
-| Samsung NVMe SSD Drive 500GB           | 2        | 1.94%   |
-| Kingston SUV500120G 120GB SSD          | 2        | 1.94%   |
-| XPG NVMe SSD Drive 1024GB              | 1        | 0.97%   |
-| WDC WDS250G2B0B-00YS70 250GB SSD       | 1        | 0.97%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD       | 1        | 0.97%   |
-| WDC WDS240G1G0A-00SS50 240GB SSD       | 1        | 0.97%   |
-| WDC WDS100T2B0A-00SM50 1TB SSD         | 1        | 0.97%   |
-| WDC WD7500BPKT-00PK4T0 752GB           | 1        | 0.97%   |
-| WDC WD60 EFAX-68JH4N1 6TB              | 1        | 0.97%   |
-| WDC WD60 EFAX-68JH4N0 6TB              | 1        | 0.97%   |
-| WDC WD5003ABYZ-011FA0 500GB            | 1        | 0.97%   |
-| WDC WD5000AAKX-75U6AA0 500GB           | 1        | 0.97%   |
-| WDC WD40PURZ-85TTDY0 4TB               | 1        | 0.97%   |
-| WDC WD40EZRZ-19GXCB0 4TB               | 1        | 0.97%   |
-| WDC WD40EFRX-68N32N0 4TB               | 1        | 0.97%   |
-| WDC WD4005FZBX-00K5WB0 4TB             | 1        | 0.97%   |
-| WDC WD2500BEKT-75F3T0 250GB            | 1        | 0.97%   |
-| WDC WD2500AAKX-083CA1 250GB            | 1        | 0.97%   |
-| WDC WD20PURZ-85GU6Y0 2TB               | 1        | 0.97%   |
-| WDC WD20EARS-22MVWB0 2TB               | 1        | 0.97%   |
-| WDC WD10JPVX-22JC3T0 1TB               | 1        | 0.97%   |
-| WDC WD10EZEX-75WN4A0 1TB               | 1        | 0.97%   |
-| WDC WD10EZEX-22MFCA0 1TB               | 1        | 0.97%   |
-| WDC WD1003FZEX-00MK2A0 1TB             | 1        | 0.97%   |
-| Unknown SD/MMC/MS PRO 128GB            | 1        | 0.97%   |
-| Toshiba HDWT140 4TB                    | 1        | 0.97%   |
-| Toshiba HDWQ140 4TB                    | 1        | 0.97%   |
-| Toshiba HDWD120 2TB                    | 1        | 0.97%   |
-| Toshiba DT01ACA300 3TB                 | 1        | 0.97%   |
-| Toshiba DT01ACA200 2TB                 | 1        | 0.97%   |
-| Toshiba DT01ACA100 1TB                 | 1        | 0.97%   |
-| T-FORCE 1TB                            | 1        | 0.97%   |
-| SK Hynix PC601 NVMe 512GB              | 1        | 0.97%   |
-| SK Hynix HFS128G32TNF-N3A0A 128GB SSD  | 1        | 0.97%   |
-| Silicon Motion NVMe SSD Drive 256GB    | 1        | 0.97%   |
-| Seagate ST6000VN0033-2EE110 6TB        | 1        | 0.97%   |
-| Seagate ST500DM002-1BD142 500GB        | 1        | 0.97%   |
-| Seagate ST4000LM024-2AN17V 4TB         | 1        | 0.97%   |
-| Seagate ST3250310AS 250GB              | 1        | 0.97%   |
-| Seagate ST31000524AS 1TB               | 1        | 0.97%   |
-| Seagate ST2000DM001-9YN164 2TB         | 1        | 0.97%   |
-| Seagate ST1000VN002-2EY102 1TB         | 1        | 0.97%   |
-| Seagate ST1000LM049-2GH172 1TB         | 1        | 0.97%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB     | 1        | 0.97%   |
-| Seagate ST1000DM010-2EP102 1TB         | 1        | 0.97%   |
-| Seagate ST1000DM003-1SB102 1TB         | 1        | 0.97%   |
-| SanDisk WD_BLACK AN1500 1TB            | 1        | 0.97%   |
-| SanDisk SDSSDA480G 480GB               | 1        | 0.97%   |
-| Sandisk NVMe SSD Drive 500GB           | 1        | 0.97%   |
-| Sandisk NVMe SSD Drive 1TB             | 1        | 0.97%   |
-| Samsung SSD 970 EVO 500GB              | 1        | 0.97%   |
-| Samsung SSD 970 EVO 1TB                | 1        | 0.97%   |
-| Samsung SSD 860 EVO 500GB              | 1        | 0.97%   |
-| Samsung SSD 850 PRO 256GB              | 1        | 0.97%   |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Samsung SSD 860 EVO 1TB               | 3        | 2.91%   |
+| WDC WD1002FAEX-00Z3A0 1TB             | 2        | 1.94%   |
+| Toshiba NVMe SSD Drive 256GB          | 2        | 1.94%   |
+| Seagate ST2000DM001-1ER164 2TB        | 2        | 1.94%   |
+| Seagate ST1000DM003-9YN162 1TB        | 2        | 1.94%   |
+| Samsung NVMe SSD Drive 512GB          | 2        | 1.94%   |
+| Samsung NVMe SSD Drive 500GB          | 2        | 1.94%   |
+| Kingston SUV500120G 120GB SSD         | 2        | 1.94%   |
+| XPG NVMe SSD Drive 1024GB             | 1        | 0.97%   |
+| WDC WDS250G2B0B-00YS70 250GB SSD      | 1        | 0.97%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD      | 1        | 0.97%   |
+| WDC WDS240G1G0A-00SS50 240GB SSD      | 1        | 0.97%   |
+| WDC WDS100T2B0A-00SM50 1TB SSD        | 1        | 0.97%   |
+| WDC WD7500BPKT-00PK4T0 752GB          | 1        | 0.97%   |
+| WDC WD60 EFAX-68JH4N1 6TB             | 1        | 0.97%   |
+| WDC WD60 EFAX-68JH4N0 6TB             | 1        | 0.97%   |
+| WDC WD5003ABYZ-011FA0 500GB           | 1        | 0.97%   |
+| WDC WD5000AAKX-75U6AA0 500GB          | 1        | 0.97%   |
+| WDC WD40PURZ-85TTDY0 4TB              | 1        | 0.97%   |
+| WDC WD40EZRZ-19GXCB0 4TB              | 1        | 0.97%   |
+| WDC WD40EFRX-68N32N0 4TB              | 1        | 0.97%   |
+| WDC WD4005FZBX-00K5WB0 4TB            | 1        | 0.97%   |
+| WDC WD2500BEKT-75F3T0 250GB           | 1        | 0.97%   |
+| WDC WD2500AAKX-083CA1 250GB           | 1        | 0.97%   |
+| WDC WD20PURZ-85GU6Y0 2TB              | 1        | 0.97%   |
+| WDC WD20EARS-22MVWB0 2TB              | 1        | 0.97%   |
+| WDC WD10JPVX-22JC3T0 1TB              | 1        | 0.97%   |
+| WDC WD10EZEX-75WN4A0 1TB              | 1        | 0.97%   |
+| WDC WD10EZEX-22MFCA0 1TB              | 1        | 0.97%   |
+| WDC WD1003FZEX-00MK2A0 1TB            | 1        | 0.97%   |
+| Unknown SD/MMC/MS PRO 394GB           | 1        | 0.97%   |
+| Toshiba HDWT140 4TB                   | 1        | 0.97%   |
+| Toshiba HDWQ140 4TB                   | 1        | 0.97%   |
+| Toshiba HDWD120 2TB                   | 1        | 0.97%   |
+| Toshiba DT01ACA300 3TB                | 1        | 0.97%   |
+| Toshiba DT01ACA200 2TB                | 1        | 0.97%   |
+| Toshiba DT01ACA100 1TB                | 1        | 0.97%   |
+| T-FORCE 1TB                           | 1        | 0.97%   |
+| SK Hynix PC601 NVMe 512GB             | 1        | 0.97%   |
+| SK Hynix HFS128G32TNF-N3A0A 128GB SSD | 1        | 0.97%   |
+| Silicon Motion NVMe SSD Drive 256GB   | 1        | 0.97%   |
+| Seagate ST6000VN0033-2EE110 6TB       | 1        | 0.97%   |
+| Seagate ST500DM002-1BD142 500GB       | 1        | 0.97%   |
+| Seagate ST4000LM024-2AN17V 4TB        | 1        | 0.97%   |
+| Seagate ST3250310AS 250GB             | 1        | 0.97%   |
+| Seagate ST31000524AS 1TB              | 1        | 0.97%   |
+| Seagate ST2000DM001-9YN164 2TB        | 1        | 0.97%   |
+| Seagate ST1000VN002-2EY102 1TB        | 1        | 0.97%   |
+| Seagate ST1000LM049-2GH172 1TB        | 1        | 0.97%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB    | 1        | 0.97%   |
+| Seagate ST1000DM010-2EP102 1TB        | 1        | 0.97%   |
+| Seagate ST1000DM003-1SB102 1TB        | 1        | 0.97%   |
+| SanDisk WD_BLACK AN1500 1TB           | 1        | 0.97%   |
+| SanDisk SDSSDA480G 480GB              | 1        | 0.97%   |
+| Sandisk NVMe SSD Drive 500GB          | 1        | 0.97%   |
+| Sandisk NVMe SSD Drive 1TB            | 1        | 0.97%   |
+| Samsung SSD 970 EVO 500GB             | 1        | 0.97%   |
+| Samsung SSD 970 EVO 1TB               | 1        | 0.97%   |
+| Samsung SSD 860 EVO 500GB             | 1        | 0.97%   |
+| Samsung SSD 850 PRO 256GB             | 1        | 0.97%   |
 
 HDD Vendor
 ----------
@@ -996,7 +999,7 @@ HDD or SSD
 | SSD     | 32       | 46     | 42.11%  |
 | HDD     | 32       | 63     | 42.11%  |
 | NVMe    | 11       | 24     | 14.47%  |
-| Unknown | 1        | 1      | 1.32%   |
+| Unknown | 1        | 2      | 1.32%   |
 
 Drive Connector
 ---------------
@@ -1008,7 +1011,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 41       | 103    | 74.55%  |
+| SATA | 41       | 104    | 74.55%  |
 | NVMe | 11       | 24     | 20%     |
 | SAS  | 3        | 7      | 5.45%   |
 
@@ -1142,7 +1145,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 29       | 100    | 61.7%   |
+| Detected | 29       | 101    | 61.7%   |
 | Works    | 16       | 32     | 34.04%  |
 | Malfunc  | 2        | 2      | 4.26%   |
 
@@ -1474,11 +1477,12 @@ Graphics card models
 
 | Model                                                                       | Desktops | Percent |
 |-----------------------------------------------------------------------------|----------|---------|
-| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 4        | 7.55%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                    | 4        | 7.55%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 4        | 7.55%   |
 | Nvidia GP107 [GeForce GTX 1050 Ti]                                          | 3        | 5.66%   |
 | Nvidia GP106 [GeForce GTX 1060 6GB]                                         | 2        | 3.77%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 2        | 3.77%   |
+| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 2        | 3.77%   |
+| Intel IvyBridge GT2 [HD Graphics 4000]                                      | 2        | 3.77%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller   | 2        | 3.77%   |
 | Nvidia TU116 [GeForce GTX 1660 Ti]                                          | 1        | 1.89%   |
 | Nvidia TU116 [GeForce GTX 1650 SUPER]                                       | 1        | 1.89%   |
@@ -1506,13 +1510,13 @@ Graphics card models
 | Intel Iris Plus Graphics 640                                                | 1        | 1.89%   |
 | Intel HD Graphics 630                                                       | 1        | 1.89%   |
 | Intel HD Graphics 530                                                       | 1        | 1.89%   |
-| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 1        | 1.89%   |
+| Intel CometLake-S GT2 [UHD Graphics 630]                                    | 1        | 1.89%   |
 | Intel CoffeeLake-S GT1 [UHD Graphics 610]                                   | 1        | 1.89%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 1        | 1.89%   |
 | AMD Vega 10 XL/XT [Radeon RX Vega 56/64]                                    | 1        | 1.89%   |
 | AMD Tahiti XT [Radeon HD 7970/8970 OEM / R9 280X]                           | 1        | 1.89%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]            | 1        | 1.89%   |
-| AMD Picasso                                                                 | 1        | 1.89%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]        | 1        | 1.89%   |
 | AMD Oland XT [Radeon HD 8670 / R5 340X OEM / R7 250/350/350X OEM]           | 1        | 1.89%   |
 | AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 1        | 1.89%   |
 | AMD ES1000                                                                  | 1        | 1.89%   |
@@ -2199,7 +2203,7 @@ Memory module models
 
 | Model                                                     | Desktops | Percent |
 |-----------------------------------------------------------|----------|---------|
-| Samsung RAM M378A2K43CB1-CTD 16384MB DIMM DDR4 2667MT/s   | 2        | 7.41%   |
+| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s      | 2        | 7.41%   |
 | Corsair RAM CMK64GX4M2D3600C18 32GB DIMM DDR4 3600MT/s    | 2        | 7.41%   |
 | Unknown (0x0205) RAM Module 8GB DIMM DDR3 1600MT/s        | 1        | 3.7%    |
 | Transcend RAM TS1GLK72V3H 8GB DIMM DDR3 1333MT/s          | 1        | 3.7%    |
@@ -2209,7 +2213,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 3.7%    |
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 3.7%    |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                | 1        | 3.7%    |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s       | 1        | 3.7%    |
+| Samsung RAM M378B5673FH0-CH9 2048MB DIMM 1600MT/s         | 1        | 3.7%    |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s       | 1        | 3.7%    |
 | Patriot RAM PSD416G26662 16384MB DIMM DDR4 2667MT/s       | 1        | 3.7%    |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                  | 1        | 3.7%    |
@@ -2316,8 +2320,8 @@ Printer device models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | HP LaserJet Professional P 1102w | 1        | 25%     |
-| Canon LiDE 300                   | 1        | 25%     |
 | Canon E560 series                | 1        | 25%     |
+| Canon CanoScan LiDE 300          | 1        | 25%     |
 | Brother DCP-1610W                | 1        | 25%     |
 
 Scanner Vendor

@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=mx-19
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
+| ECS           | A55F-M3                  | [5439a8e37c](https://linux-hardware.org/?probe=5439a8e37c) | Nov 27, 2021 |
 | MSI           | B460M PRO                | [ae3e01fef8](https://linux-hardware.org/?probe=ae3e01fef8) | Oct 31, 2021 |
 | ECS           | A55F-M3                  | [27e84aca95](https://linux-hardware.org/?probe=27e84aca95) | Oct 31, 2021 |
 | ASUSTek       | Maximus VII HERO         | [cbff9b4baf](https://linux-hardware.org/?probe=cbff9b4baf) | Oct 21, 2021 |
@@ -678,8 +679,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 22       | 53.66%  |
-| No        | 19       | 46.34%  |
+| Yes       | 23       | 56.1%   |
+| No        | 18       | 43.9%   |
 
 Has Ethernet
 ------------
@@ -761,42 +762,43 @@ Geographic location (city)
 
 | City                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Bratislava               | 4        | 9.76%   |
-| Montevallo               | 2        | 4.88%   |
-| Belgrade                 | 2        | 4.88%   |
-| Virginia Beach           | 1        | 2.44%   |
-| Vienna                   | 1        | 2.44%   |
-| Valencia                 | 1        | 2.44%   |
-| Tilburg                  | 1        | 2.44%   |
-| Szar                     | 1        | 2.44%   |
-| Sydney                   | 1        | 2.44%   |
-| Stargard                 | 1        | 2.44%   |
-| Springdale               | 1        | 2.44%   |
-| Serrana                  | 1        | 2.44%   |
-| Pleasant Hill            | 1        | 2.44%   |
-| Pabianice                | 1        | 2.44%   |
-| Oxford                   | 1        | 2.44%   |
-| Norwalk                  | 1        | 2.44%   |
-| Newtownabbey             | 1        | 2.44%   |
-| Melbourne                | 1        | 2.44%   |
-| McLoud                   | 1        | 2.44%   |
-| Mainz                    | 1        | 2.44%   |
-| Madrid                   | 1        | 2.44%   |
-| Lyon                     | 1        | 2.44%   |
-| Kharagpur                | 1        | 2.44%   |
-| Istanbul                 | 1        | 2.44%   |
-| Greenwich                | 1        | 2.44%   |
-| Gosport                  | 1        | 2.44%   |
-| Gdansk                   | 1        | 2.44%   |
-| Fort Wayne               | 1        | 2.44%   |
-| Dubno                    | 1        | 2.44%   |
-| Chula Vista              | 1        | 2.44%   |
-| Castleknock              | 1        | 2.44%   |
-| Campos dos Goytacazes    | 1        | 2.44%   |
-| Bremerhaven              | 1        | 2.44%   |
-| Bengaluru                | 1        | 2.44%   |
-| Barrington               | 1        | 2.44%   |
-| Albertslund Municipality | 1        | 2.44%   |
+| Bratislava               | 4        | 9.52%   |
+| Montevallo               | 2        | 4.76%   |
+| Belgrade                 | 2        | 4.76%   |
+| Virginia Beach           | 1        | 2.38%   |
+| Vienna                   | 1        | 2.38%   |
+| Valencia                 | 1        | 2.38%   |
+| Tilburg                  | 1        | 2.38%   |
+| Szar                     | 1        | 2.38%   |
+| Sydney                   | 1        | 2.38%   |
+| Stargard                 | 1        | 2.38%   |
+| Springdale               | 1        | 2.38%   |
+| Serrana                  | 1        | 2.38%   |
+| Pleasant Hill            | 1        | 2.38%   |
+| Pabianice                | 1        | 2.38%   |
+| Oxford                   | 1        | 2.38%   |
+| Norwalk                  | 1        | 2.38%   |
+| Newtownabbey             | 1        | 2.38%   |
+| Melbourne                | 1        | 2.38%   |
+| McLoud                   | 1        | 2.38%   |
+| Mainz                    | 1        | 2.38%   |
+| Madrid                   | 1        | 2.38%   |
+| Lyon                     | 1        | 2.38%   |
+| Kharagpur                | 1        | 2.38%   |
+| Istanbul                 | 1        | 2.38%   |
+| Greenwich                | 1        | 2.38%   |
+| Gosport                  | 1        | 2.38%   |
+| Gdansk                   | 1        | 2.38%   |
+| Fort Wayne               | 1        | 2.38%   |
+| Dubno                    | 1        | 2.38%   |
+| Chula Vista              | 1        | 2.38%   |
+| Castleknock              | 1        | 2.38%   |
+| Campos dos Goytacazes    | 1        | 2.38%   |
+| Bremerhaven              | 1        | 2.38%   |
+| Bengaluru                | 1        | 2.38%   |
+| Barrington               | 1        | 2.38%   |
+| Ankara                   | 1        | 2.38%   |
+| Albertslund Municipality | 1        | 2.38%   |
 
 Drives
 ------
@@ -814,7 +816,7 @@ Hard drive vendors
 | Seagate                   | 20       | 29     | 26.32%  |
 | WDC                       | 15       | 18     | 19.74%  |
 | Hitachi                   | 8        | 11     | 10.53%  |
-| Samsung Electronics       | 6        | 6      | 7.89%   |
+| Samsung Electronics       | 6        | 7      | 7.89%   |
 | Toshiba                   | 5        | 6      | 6.58%   |
 | Crucial                   | 5        | 5      | 6.58%   |
 | SanDisk                   | 3        | 3      | 3.95%   |
@@ -913,7 +915,7 @@ Hard disk drive vendors
 | WDC                 | 13       | 16     | 27.08%  |
 | Hitachi             | 8        | 11     | 16.67%  |
 | Toshiba             | 5        | 6      | 10.42%  |
-| Samsung Electronics | 1        | 1      | 2.08%   |
+| Samsung Electronics | 1        | 2      | 2.08%   |
 | Fujitsu             | 1        | 2      | 2.08%   |
 
 SSD Vendor
@@ -947,7 +949,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 35       | 65     | 59.32%  |
+| HDD  | 35       | 66     | 59.32%  |
 | SSD  | 18       | 26     | 30.51%  |
 | NVMe | 6        | 6      | 10.17%  |
 
@@ -961,7 +963,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 39       | 91     | 86.67%  |
+| SATA | 39       | 92     | 86.67%  |
 | NVMe | 6        | 6      | 13.33%  |
 
 Drive Size
@@ -974,7 +976,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 31       | 49     | 50%     |
+| 0.01-0.5   | 31       | 50     | 50%     |
 | 0.51-1.0   | 17       | 27     | 27.42%  |
 | 1.01-2.0   | 6        | 7      | 9.68%   |
 | 2.01-3.0   | 4        | 4      | 6.45%   |
@@ -1040,7 +1042,7 @@ Drive models with a malfunction
 | Seagate ST3320413CS 320GB         | 1        | 1      | 5.88%   |
 | Seagate ST33000651NS 3TB          | 1        | 1      | 5.88%   |
 | Seagate ST1000DM010-2EP102 1TB    | 1        | 1      | 5.88%   |
-| Samsung Electronics HD322GJ 320GB | 1        | 1      | 5.88%   |
+| Samsung Electronics HD322GJ 320GB | 1        | 2      | 5.88%   |
 | Hitachi HUA722020ALA331 2TB       | 1        | 1      | 5.88%   |
 | Hitachi HDT721010SLA360 1TB       | 1        | 1      | 5.88%   |
 | Hitachi HDP725016GLA380 160GB     | 1        | 1      | 5.88%   |
@@ -1063,7 +1065,7 @@ Vendors of faulty drives
 | Hitachi             | 3        | 3      | 18.75%  |
 | Crucial             | 2        | 2      | 12.5%   |
 | Toshiba             | 1        | 1      | 6.25%   |
-| Samsung Electronics | 1        | 1      | 6.25%   |
+| Samsung Electronics | 1        | 2      | 6.25%   |
 | Fujitsu             | 1        | 2      | 6.25%   |
 
 Malfunc. HDD Vendor
@@ -1080,7 +1082,7 @@ Vendors of faulty HDD drives
 | Seagate             | 3        | 4      | 21.43%  |
 | Hitachi             | 3        | 3      | 21.43%  |
 | Toshiba             | 1        | 1      | 7.14%   |
-| Samsung Electronics | 1        | 1      | 7.14%   |
+| Samsung Electronics | 1        | 2      | 7.14%   |
 | Fujitsu             | 1        | 2      | 7.14%   |
 
 Malfunc. Drive Kind
@@ -1093,7 +1095,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 12       | 16     | 85.71%  |
+| HDD  | 12       | 17     | 85.71%  |
 | SSD  | 2        | 2      | 14.29%  |
 
 Failed Drives
@@ -1133,7 +1135,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Works    | 33       | 70     | 62.26%  |
-| Malfunc  | 13       | 18     | 24.53%  |
+| Malfunc  | 13       | 19     | 24.53%  |
 | Detected | 4        | 5      | 7.55%   |
 | Failed   | 3        | 4      | 5.66%   |
 
@@ -1482,7 +1484,6 @@ Graphics card models
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                     | 3        | 6.12%   |
 | Nvidia GT218 [GeForce 210]                                                  | 2        | 4.08%   |
 | Nvidia GK208B [GeForce GT 710]                                              | 2        | 4.08%   |
-| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 2        | 4.08%   |
 | AMD RV635 [Radeon HD 3650/3750/4570/4580]                                   | 2        | 4.08%   |
 | AMD RV610 [Radeon HD 2400 PRO/XT]                                           | 2        | 4.08%   |
 | AMD RS780L [Radeon 3000]                                                    | 2        | 4.08%   |
@@ -1499,6 +1500,8 @@ Graphics card models
 | Nvidia GF108 [GeForce GT 430]                                               | 1        | 2.04%   |
 | Nvidia GF104 [GeForce GTX 460]                                              | 1        | 2.04%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 1        | 2.04%   |
+| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 1        | 2.04%   |
+| Intel IvyBridge GT2 [HD Graphics 4000]                                      | 1        | 2.04%   |
 | Intel HD Graphics 530                                                       | 1        | 2.04%   |
 | Intel Core Processor Integrated Graphics Controller                         | 1        | 2.04%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                    | 1        | 2.04%   |
@@ -2060,7 +2063,7 @@ Sound card models
 | JMTek iTalk-02                                                             | 1        | 1.25%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1        | 1.25%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 1        | 1.25%   |
-| Intel Comet Lake PCH-V Smart Sound Technology Audio Controller             | 1        | 1.25%   |
+| Intel Comet Lake PCH-V cAVS                                                | 1        | 1.25%   |
 | Intel Cannon Lake PCH cAVS                                                 | 1        | 1.25%   |
 | Intel C600/X79 series chipset High Definition Audio Controller             | 1        | 1.25%   |
 | Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 1.25%   |
@@ -2128,8 +2131,8 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 667MT/s                    | 1        | 2.04%   |
 | Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3 1600MT/s       | 1        | 2.04%   |
 | Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s    | 1        | 2.04%   |
-| SK Hynix RAM HMT351U6CFR8C-H9 4096MB DIMM DDR3 1600MT/s   | 1        | 2.04%   |
-| SK Hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
+| SK Hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
+| SK Hynix RAM HMT325U6CFR8C-PB 2048MB DIMM DDR3 1600MT/s   | 1        | 2.04%   |
 | Samsung RAM M391B5273CH0-CH9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.04%   |
 | Samsung RAM M378B5773DH0-CH9 2048MB DIMM DDR3 1333MT/s    | 1        | 2.04%   |
 | Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM DDR2 1639MT/s   | 1        | 2.04%   |
@@ -2140,7 +2143,7 @@ Memory module models
 | Kingston RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 2.04%   |
 | Kingston RAM Module 4096MB DIMM DDR3 1333MT/s             | 1        | 2.04%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 2.04%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3200MT/s         | 1        | 2.04%   |
+| Kingston RAM KHX2666C16/8G 8192MB DIMM DDR4 3200MT/s      | 1        | 2.04%   |
 | Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 2400MT/s    | 1        | 2.04%   |
 | Kingston RAM K531R8-ETB 4096MB DIMM DDR3 1600MT/s         | 1        | 2.04%   |
 | Kingston RAM CL16-16-16 D4-2400 8192MB DIMM DDR4 2134MT/s | 1        | 2.04%   |
@@ -2312,7 +2315,7 @@ Camera device models
 | Microsoft LifeCam HD-3000 | 1        | 14.29%  |
 | Logitech Webcam Pro 9000  | 1        | 14.29%  |
 | Logitech Webcam C270      | 1        | 14.29%  |
-| Huawei UVC Camera         | 1        | 14.29%  |
+| Huawei HiCamera           | 1        | 14.29%  |
 | Generalplus 808 Camera    | 1        | 14.29%  |
 
 Security

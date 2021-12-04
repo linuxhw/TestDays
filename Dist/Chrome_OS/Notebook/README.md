@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=chrome_os
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -643,8 +643,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 24        | 58.54%  |
-| Yes       | 17        | 41.46%  |
+| No        | 23        | 56.1%   |
+| Yes       | 18        | 43.9%   |
 
 Has Ethernet
 ------------
@@ -733,43 +733,44 @@ Geographic location (city)
 
 | City              | Notebooks | Percent |
 |-------------------|-----------|---------|
-| Central           | 3         | 7.32%   |
-| Rome              | 2         | 4.88%   |
-| Jakarta           | 2         | 4.88%   |
-| Yekaterinburg     | 1         | 2.44%   |
-| Wijchen           | 1         | 2.44%   |
-| Vienna            | 1         | 2.44%   |
-| Turin             | 1         | 2.44%   |
-| Toronto           | 1         | 2.44%   |
-| Thessaloniki      | 1         | 2.44%   |
-| Taranto           | 1         | 2.44%   |
-| Srednyaya Akhtuba | 1         | 2.44%   |
-| Spokane           | 1         | 2.44%   |
-| South Bend        | 1         | 2.44%   |
-| Rio Largo         | 1         | 2.44%   |
-| Pouso Alegre      | 1         | 2.44%   |
-| Porter Ranch      | 1         | 2.44%   |
-| Oslo              | 1         | 2.44%   |
-| Orbassano         | 1         | 2.44%   |
-| Navan             | 1         | 2.44%   |
-| Montreal          | 1         | 2.44%   |
-| Melbourne         | 1         | 2.44%   |
-| Mannheim          | 1         | 2.44%   |
-| Los Angeles       | 1         | 2.44%   |
-| Ljubljana         | 1         | 2.44%   |
-| Kolkata           | 1         | 2.44%   |
-| Hilversum         | 1         | 2.44%   |
-| Haarlem           | 1         | 2.44%   |
-| Guildford         | 1         | 2.44%   |
-| Green Bay         | 1         | 2.44%   |
-| Glasgow           | 1         | 2.44%   |
-| Etimesgut         | 1         | 2.44%   |
-| Debrecen          | 1         | 2.44%   |
-| Ciudadela         | 1         | 2.44%   |
-| Bushel            | 1         | 2.44%   |
-| Barcelona         | 1         | 2.44%   |
-| Antwerp           | 1         | 2.44%   |
-| Alvsjo            | 1         | 2.44%   |
+| Central           | 3         | 7.14%   |
+| Rome              | 2         | 4.76%   |
+| Jakarta           | 2         | 4.76%   |
+| Yekaterinburg     | 1         | 2.38%   |
+| Wijchen           | 1         | 2.38%   |
+| Vienna            | 1         | 2.38%   |
+| Turin             | 1         | 2.38%   |
+| Toronto           | 1         | 2.38%   |
+| Thessaloniki      | 1         | 2.38%   |
+| Taranto           | 1         | 2.38%   |
+| Stockholm         | 1         | 2.38%   |
+| Srednyaya Akhtuba | 1         | 2.38%   |
+| Spokane           | 1         | 2.38%   |
+| South Bend        | 1         | 2.38%   |
+| Rio Largo         | 1         | 2.38%   |
+| Pouso Alegre      | 1         | 2.38%   |
+| Porter Ranch      | 1         | 2.38%   |
+| Oslo              | 1         | 2.38%   |
+| Orbassano         | 1         | 2.38%   |
+| Navan             | 1         | 2.38%   |
+| Montreal          | 1         | 2.38%   |
+| Melbourne         | 1         | 2.38%   |
+| Mannheim          | 1         | 2.38%   |
+| Los Angeles       | 1         | 2.38%   |
+| Ljubljana         | 1         | 2.38%   |
+| Kolkata           | 1         | 2.38%   |
+| Hilversum         | 1         | 2.38%   |
+| Haarlem           | 1         | 2.38%   |
+| Guildford         | 1         | 2.38%   |
+| Green Bay         | 1         | 2.38%   |
+| Glasgow           | 1         | 2.38%   |
+| Etimesgut         | 1         | 2.38%   |
+| Debrecen          | 1         | 2.38%   |
+| Ciudadela         | 1         | 2.38%   |
+| Bushel            | 1         | 2.38%   |
+| Barcelona         | 1         | 2.38%   |
+| Antwerp           | 1         | 2.38%   |
+| Alvsjo            | 1         | 2.38%   |
 
 Drives
 ------
@@ -1797,7 +1798,7 @@ Controller models
 | Realtek RTL8723B Bluetooth                          | 1         | 4.35%   |
 | Realtek Bluetooth Radio                             | 1         | 4.35%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.35%   |
-| Lite-On Bluetooth Device                            | 1         | 4.35%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 4.35%   |
 | Intel Bluetooth Device                              | 1         | 4.35%   |
 | IMC Networks Bluetooth Device                       | 1         | 4.35%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 4.35%   |
@@ -1851,7 +1852,7 @@ Sound card models
 | Intel Broadwell-U Audio Controller                                                                | 1         | 2.33%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1         | 2.33%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 1         | 2.33%   |
-| Generalplus Technology Usb Audio Device                                                           | 1         | 2.33%   |
+| Generalplus Technology USB Audio Device                                                           | 1         | 2.33%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 2.33%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1         | 2.33%   |
 

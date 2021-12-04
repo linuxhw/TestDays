@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=chrome_os
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -670,7 +670,7 @@ Hard drive models
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
 | KingSpec NT-256 256GB                 | 1        | 6.67%   |
-| KingDian S200 60GB SSD                | 1        | 6.67%   |
+| KingDian S200 60GB                    | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
 | Crucial CT256MX100SSD1 256GB          | 1        | 6.67%   |
@@ -1318,14 +1318,13 @@ Controller vendors
 
 | Vendor                   | Desktops | Percent |
 |--------------------------|----------|---------|
-| Realtek Semiconductor    | 12       | 50%     |
-| Qualcomm Atheros         | 3        | 12.5%   |
-| Intel                    | 3        | 12.5%   |
-| TP-Link                  | 2        | 8.33%   |
-| Realtek                  | 1        | 4.17%   |
-| Nvidia                   | 1        | 4.17%   |
-| Marvell Technology Group | 1        | 4.17%   |
-| Broadcom                 | 1        | 4.17%   |
+| Realtek Semiconductor    | 12       | 52.17%  |
+| Qualcomm Atheros         | 3        | 13.04%  |
+| Intel                    | 3        | 13.04%  |
+| TP-Link                  | 2        | 8.7%    |
+| Nvidia                   | 1        | 4.35%   |
+| Marvell Technology Group | 1        | 4.35%   |
+| Broadcom                 | 1        | 4.35%   |
 
 Net Controller Model
 --------------------
@@ -1341,9 +1340,9 @@ Controller models
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 3        | 11.11%  |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2        | 7.41%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 2        | 7.41%   |
+| TP-Link TL WN823N RTL8192EU                                       | 1        | 3.7%    |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 3.7%    |
 | Realtek 802.11ac NIC                                              | 1        | 3.7%    |
-| Realtek 802.11n NIC                                               | 1        | 3.7%    |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1        | 3.7%    |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1        | 3.7%    |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                  | 1        | 3.7%    |
@@ -1364,11 +1363,10 @@ Wireless vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Realtek Semiconductor | 3        | 33.33%  |
-| TP-Link               | 2        | 22.22%  |
-| Qualcomm Atheros      | 2        | 22.22%  |
-| Realtek               | 1        | 11.11%  |
-| Intel                 | 1        | 11.11%  |
+| Realtek Semiconductor | 3        | 37.5%   |
+| TP-Link               | 2        | 25%     |
+| Qualcomm Atheros      | 2        | 25%     |
+| Intel                 | 1        | 12.5%   |
 
 Wireless Model
 --------------
@@ -1382,9 +1380,9 @@ Wireless models
 |------------------------------------------------------------|----------|---------|
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 2        | 20%     |
 | Realtek RTL8192CU 802.11n WLAN Adapter                     | 2        | 20%     |
+| TP-Link TL WN823N RTL8192EU                                | 1        | 10%     |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 10%     |
 | Realtek 802.11ac NIC                                       | 1        | 10%     |
-| Realtek 802.11n NIC                                        | 1        | 10%     |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter | 1        | 10%     |
 | Qualcomm Atheros AR9462 Wireless Network Adapter           | 1        | 10%     |
 | Intel Wireless 7260                                        | 1        | 10%     |

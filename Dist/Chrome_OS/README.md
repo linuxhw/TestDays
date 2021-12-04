@@ -11,7 +11,7 @@ Please submit a probe of your configuration if it's not presented on the page or
 
 This is a report for all computer types. See also reports for [desktops](/Dist/Chrome_OS/Desktop/README.md) and [notebooks](/Dist/Chrome_OS/Notebook/README.md).
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=chrome_os
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -709,8 +709,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 30        | 53.57%  |
-| Yes       | 26        | 46.43%  |
+| No        | 29        | 51.79%  |
+| Yes       | 27        | 48.21%  |
 
 Has Ethernet
 ------------
@@ -800,58 +800,59 @@ Geographic location (city)
 
 | City                 | Computers | Percent |
 |----------------------|-----------|---------|
-| Central              | 3         | 5.36%   |
-| Rome                 | 2         | 3.57%   |
-| Jakarta              | 2         | 3.57%   |
-| Yekaterinburg        | 1         | 1.79%   |
-| Winter Garden        | 1         | 1.79%   |
-| Wijchen              | 1         | 1.79%   |
-| Welwyn Garden City   | 1         | 1.79%   |
-| Vienna               | 1         | 1.79%   |
-| Turin                | 1         | 1.79%   |
-| Toronto              | 1         | 1.79%   |
-| Thessaloniki         | 1         | 1.79%   |
-| Taranto              | 1         | 1.79%   |
-| Suwon                | 1         | 1.79%   |
-| Stevenage            | 1         | 1.79%   |
-| Srednyaya Akhtuba    | 1         | 1.79%   |
-| Spokane              | 1         | 1.79%   |
-| South Bend           | 1         | 1.79%   |
-| Seoul                | 1         | 1.79%   |
-| Rio Largo            | 1         | 1.79%   |
-| Pouso Alegre         | 1         | 1.79%   |
-| Porter Ranch         | 1         | 1.79%   |
-| Oslo                 | 1         | 1.79%   |
-| Orbassano            | 1         | 1.79%   |
-| Oklahoma City        | 1         | 1.79%   |
-| Navan                | 1         | 1.79%   |
-| Montreal             | 1         | 1.79%   |
-| Milan                | 1         | 1.79%   |
-| Middle River         | 1         | 1.79%   |
-| Melbourne            | 1         | 1.79%   |
-| Marysville           | 1         | 1.79%   |
-| Mannheim             | 1         | 1.79%   |
-| Los Angeles          | 1         | 1.79%   |
-| Ljubljana            | 1         | 1.79%   |
-| Kolkata              | 1         | 1.79%   |
-| Kingston upon Thames | 1         | 1.79%   |
-| Hilversum            | 1         | 1.79%   |
-| Haarlem              | 1         | 1.79%   |
-| Guildford            | 1         | 1.79%   |
-| Green Bay            | 1         | 1.79%   |
-| Glasgow              | 1         | 1.79%   |
-| Etimesgut            | 1         | 1.79%   |
-| Debrecen             | 1         | 1.79%   |
-| Ciudadela            | 1         | 1.79%   |
-| Casalecchio di Reno  | 1         | 1.79%   |
-| Campinas             | 1         | 1.79%   |
-| Camillus             | 1         | 1.79%   |
-| Bushel               | 1         | 1.79%   |
-| Barcelona            | 1         | 1.79%   |
-| Aschaffenburg        | 1         | 1.79%   |
-| Arlington            | 1         | 1.79%   |
-| Antwerp              | 1         | 1.79%   |
-| Alvsjo               | 1         | 1.79%   |
+| Central              | 3         | 5.26%   |
+| Rome                 | 2         | 3.51%   |
+| Jakarta              | 2         | 3.51%   |
+| Yekaterinburg        | 1         | 1.75%   |
+| Winter Garden        | 1         | 1.75%   |
+| Wijchen              | 1         | 1.75%   |
+| Welwyn Garden City   | 1         | 1.75%   |
+| Vienna               | 1         | 1.75%   |
+| Turin                | 1         | 1.75%   |
+| Toronto              | 1         | 1.75%   |
+| Thessaloniki         | 1         | 1.75%   |
+| Taranto              | 1         | 1.75%   |
+| Syracuse             | 1         | 1.75%   |
+| Suwon                | 1         | 1.75%   |
+| Stockholm            | 1         | 1.75%   |
+| Stevenage            | 1         | 1.75%   |
+| Srednyaya Akhtuba    | 1         | 1.75%   |
+| Spokane              | 1         | 1.75%   |
+| South Bend           | 1         | 1.75%   |
+| Seoul                | 1         | 1.75%   |
+| Rio Largo            | 1         | 1.75%   |
+| Pouso Alegre         | 1         | 1.75%   |
+| Porter Ranch         | 1         | 1.75%   |
+| Oslo                 | 1         | 1.75%   |
+| Orbassano            | 1         | 1.75%   |
+| Oklahoma City        | 1         | 1.75%   |
+| Navan                | 1         | 1.75%   |
+| Montreal             | 1         | 1.75%   |
+| Milan                | 1         | 1.75%   |
+| Middle River         | 1         | 1.75%   |
+| Melbourne            | 1         | 1.75%   |
+| Marysville           | 1         | 1.75%   |
+| Mannheim             | 1         | 1.75%   |
+| Los Angeles          | 1         | 1.75%   |
+| Ljubljana            | 1         | 1.75%   |
+| Kolkata              | 1         | 1.75%   |
+| Kingston upon Thames | 1         | 1.75%   |
+| Hilversum            | 1         | 1.75%   |
+| Haarlem              | 1         | 1.75%   |
+| Guildford            | 1         | 1.75%   |
+| Green Bay            | 1         | 1.75%   |
+| Glasgow              | 1         | 1.75%   |
+| Etimesgut            | 1         | 1.75%   |
+| Debrecen             | 1         | 1.75%   |
+| Ciudadela            | 1         | 1.75%   |
+| Casalecchio di Reno  | 1         | 1.75%   |
+| Campinas             | 1         | 1.75%   |
+| Bushel               | 1         | 1.75%   |
+| Barcelona            | 1         | 1.75%   |
+| Aschaffenburg        | 1         | 1.75%   |
+| Arlington            | 1         | 1.75%   |
+| Antwerp              | 1         | 1.75%   |
+| Alvsjo               | 1         | 1.75%   |
 
 Drives
 ------
@@ -932,7 +933,7 @@ Hard drive models
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.64%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.64%   |
 | KingSpec NT-256 256GB                        | 1         | 1.64%   |
-| KingDian S200 60GB SSD                       | 1         | 1.64%   |
+| KingDian S200 60GB                           | 1         | 1.64%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.64%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.64%   |
 | Hitachi HTS545032B9A300 320GB                | 1         | 1.64%   |
@@ -1776,18 +1777,17 @@ Controller vendors
 
 | Vendor                            | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| Realtek Semiconductor             | 28        | 35%     |
-| Intel                             | 19        | 23.75%  |
-| Qualcomm Atheros                  | 13        | 16.25%  |
-| Broadcom                          | 5         | 6.25%   |
-| Ralink Technology                 | 3         | 3.75%   |
-| Marvell Technology Group          | 3         | 3.75%   |
-| Broadcom Limited                  | 3         | 3.75%   |
-| TP-Link                           | 2         | 2.5%    |
-| Realtek                           | 1         | 1.25%   |
-| Nvidia                            | 1         | 1.25%   |
-| Ericsson Business Mobile Networks | 1         | 1.25%   |
-| Dell                              | 1         | 1.25%   |
+| Realtek Semiconductor             | 28        | 35.44%  |
+| Intel                             | 19        | 24.05%  |
+| Qualcomm Atheros                  | 13        | 16.46%  |
+| Broadcom                          | 5         | 6.33%   |
+| Ralink Technology                 | 3         | 3.8%    |
+| Marvell Technology Group          | 3         | 3.8%    |
+| Broadcom Limited                  | 3         | 3.8%    |
+| TP-Link                           | 2         | 2.53%   |
+| Nvidia                            | 1         | 1.27%   |
+| Ericsson Business Mobile Networks | 1         | 1.27%   |
+| Dell                              | 1         | 1.27%   |
 
 Net Controller Model
 --------------------
@@ -1818,12 +1818,12 @@ Controller models
 | Intel Wireless 3165                                                     | 2         | 2.15%   |
 | Intel Centrino Ultimate-N 6300                                          | 2         | 2.15%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 2         | 2.15%   |
+| TP-Link TL WN823N RTL8192EU                                             | 1         | 1.08%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 1.08%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.08%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.08%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 1.08%   |
 | Realtek 802.11ac NIC                                                    | 1         | 1.08%   |
-| Realtek 802.11n NIC                                                     | 1         | 1.08%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 1.08%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                           | 1         | 1.08%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                   | 1         | 1.08%   |
@@ -1859,14 +1859,13 @@ Wireless vendors
 
 | Vendor                | Computers | Percent |
 |-----------------------|-----------|---------|
-| Intel                 | 17        | 34.69%  |
-| Realtek Semiconductor | 11        | 22.45%  |
-| Qualcomm Atheros      | 10        | 20.41%  |
-| Broadcom              | 4         | 8.16%   |
-| Ralink Technology     | 3         | 6.12%   |
-| TP-Link               | 2         | 4.08%   |
-| Realtek               | 1         | 2.04%   |
-| Broadcom Limited      | 1         | 2.04%   |
+| Intel                 | 17        | 35.42%  |
+| Realtek Semiconductor | 11        | 22.92%  |
+| Qualcomm Atheros      | 10        | 20.83%  |
+| Broadcom              | 4         | 8.33%   |
+| Ralink Technology     | 3         | 6.25%   |
+| TP-Link               | 2         | 4.17%   |
+| Broadcom Limited      | 1         | 2.08%   |
 
 Wireless Model
 --------------
@@ -1891,12 +1890,12 @@ Wireless models
 | Intel Wireless 7265                                                     | 2         | 4%      |
 | Intel Wireless 3165                                                     | 2         | 4%      |
 | Intel Centrino Ultimate-N 6300                                          | 2         | 4%      |
+| TP-Link TL WN823N RTL8192EU                                             | 1         | 2%      |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 2%      |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 2%      |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2%      |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 2%      |
 | Realtek 802.11ac NIC                                                    | 1         | 2%      |
-| Realtek 802.11n NIC                                                     | 1         | 2%      |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 2%      |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 2%      |
 | Intel Wireless 7260                                                     | 1         | 2%      |
@@ -2056,7 +2055,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 3.33%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.33%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.33%   |
-| Lite-On Bluetooth Device                            | 1         | 3.33%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.33%   |
 | Intel Bluetooth Device                              | 1         | 3.33%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.33%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.33%   |
@@ -2115,7 +2114,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                               | 1         | 1.61%   |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 1         | 1.61%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.61%   |
-| Generalplus Technology Usb Audio Device                                                           | 1         | 1.61%   |
+| Generalplus Technology USB Audio Device                                                           | 1         | 1.61%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.61%   |
 | AMD Kaveri HDMI/DP Audio Controller                                                               | 1         | 1.61%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                                    | 1         | 1.61%   |

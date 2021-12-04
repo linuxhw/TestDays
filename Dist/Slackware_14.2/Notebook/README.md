@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=slackware-14.2
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -1757,15 +1757,14 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 6         | 28.57%  |
-| Intel Bluetooth Device                              | 4         | 19.05%  |
+| Intel Bluetooth wireless interface                  | 10        | 47.62%  |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 9.52%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 9.52%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 9.52%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 4.76%   |
 | Realtek Bluetooth Radio                             | 1         | 4.76%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.76%   |
-| Intel AX201 Bluetooth                               | 1         | 4.76%   |
+| Intel Bluetooth Device                              | 1         | 4.76%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4.76%   |
 
 Sound
@@ -1849,32 +1848,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Notebooks | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 8%      |
-| Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 4%      |
-| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 4%      |
-| SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 4%      |
-| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 4%      |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 4%      |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 4%      |
-| SK Hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 4%      |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 4%      |
-| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s     | 1         | 4%      |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 4%      |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4%      |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4%      |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 4%      |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 1         | 4%      |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
-| Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 4%      |
-| Micron RAM 4ATF51264HZ-2G3B1 4096MB SODIMM DDR4 2400MT/s     | 1         | 4%      |
-| Kingston RAM KHX2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s     | 1         | 4%      |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Elpida RAM EBJ81UG8BBU0-GN-F 8GB SODIMM DDR3 1600MT/s        | 1         | 4%      |
-| Crucial RAM CT4G4SFS824A.C8FE 4096MB SODIMM DDR4 2400MT/s    | 1         | 4%      |
-| Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| Model                                                      | Notebooks | Percent |
+|------------------------------------------------------------|-----------|---------|
+| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s  | 2         | 8%      |
+| Unknown RAM Module 1024MB SODIMM SDRAM                     | 1         | 4%      |
+| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 4%      |
+| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s            | 1         | 4%      |
+| SK Hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 975MT/s    | 1         | 4%      |
+| SK Hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
+| SK Hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s     | 1         | 4%      |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s  | 1         | 4%      |
+| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s   | 1         | 4%      |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s   | 1         | 4%      |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
+| Samsung RAM M471A2K43DB1-CTD 16384MB SODIMM DDR4 2667MT/s  | 1         | 4%      |
+| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s  | 1         | 4%      |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
+| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
+| Kingston RAM KHX2666C15S4/16G 16384MB SODIMM DDR4 2667MT/s | 1         | 4%      |
+| Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
+| Crucial RAM CT4G4SFS824A.C8FE 4096MB SODIMM DDR4 2400MT/s  | 1         | 4%      |
+| Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s    | 1         | 4%      |
 
 Memory Kind
 -----------
@@ -2012,7 +2011,7 @@ Camera device models
 | Silicon Motion Web Camera                                                  | 1         | 4.55%   |
 | Realtek 2SF022                                                             | 1         | 4.55%   |
 | Quanta HP Webcam                                                           | 1         | 4.55%   |
-| Motorola PCS Moto E (4) Plus                                               | 1         | 4.55%   |
+| Motorola PCS XT1033 [Moto G], PTP mode                                     | 1         | 4.55%   |
 | Lite-On TOSHIBA Web Camera - FHD                                           | 1         | 4.55%   |
 | Lite-On Integrated Camera                                                  | 1         | 4.55%   |
 | IMC Networks UVC VGA Webcam                                                | 1         | 4.55%   |

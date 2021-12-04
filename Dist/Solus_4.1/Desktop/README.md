@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=solus-4.1
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -590,8 +590,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 11       | 57.89%  |
-| Yes       | 8        | 42.11%  |
+| No        | 12       | 63.16%  |
+| Yes       | 7        | 36.84%  |
 
 Has Ethernet
 ------------
@@ -749,17 +749,17 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
-| Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
-| SanDisk SDSSDH31024G 1TB        | 1        | 1.72%   |
+| Seagate Backup+ Hub BK 4TB      | 1        | 1.72%   |
+| SanDisk SDSSDH31024G 1024GB     | 1        | 1.72%   |
 | SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
 | Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
 | Samsung SSD 840 EVO 120GB       | 1        | 1.72%   |
 | Samsung Portable SSD T5 500GB   | 1        | 1.72%   |
-| Samsung M3 Portable 4TB         | 1        | 1.72%   |
+| Samsung M3 Portable 1TB         | 1        | 1.72%   |
 | Samsung HD203WI 2TB             | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
-| Intel SSDPEKKW256G7 256GB       | 1        | 1.72%   |
+| Intel NVMe SSD Drive 256GB      | 1        | 1.72%   |
 | Hitachi HTS545032B9A300 320GB   | 1        | 1.72%   |
 | Crucial CT250BX100SSD1 250GB    | 1        | 1.72%   |
 | Crucial CT240BX500SSD1 240GB    | 1        | 1.72%   |
@@ -839,8 +839,8 @@ Size of hard drive
 |------------|----------|--------|---------|
 | 0.01-0.5   | 17       | 33     | 51.52%  |
 | 0.51-1.0   | 10       | 11     | 30.3%   |
-| 1.01-2.0   | 4        | 21     | 12.12%  |
-| 3.01-4.0   | 2        | 2      | 6.06%   |
+| 1.01-2.0   | 5        | 22     | 15.15%  |
+| 3.01-4.0   | 1        | 1      | 3.03%   |
 
 Space Total
 -----------
@@ -1215,26 +1215,26 @@ Graphics card models
 ![GPU Model](./images/pie_chart/gpu_model.svg)
 
 
-| Model                                                            | Desktops | Percent |
-|------------------------------------------------------------------|----------|---------|
-| Nvidia GP106 [GeForce GTX 1060 6GB]                              | 3        | 14.29%  |
-| AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]          | 2        | 9.52%   |
-| Nvidia TU116 [GeForce GTX 1660 SUPER]                            | 1        | 4.76%   |
-| Nvidia TU106 [GeForce RTX 2070]                                  | 1        | 4.76%   |
-| Nvidia TU102 [GeForce RTX 2080 Ti Rev. A]                        | 1        | 4.76%   |
-| Nvidia GP107 [GeForce GTX 1050 Ti]                               | 1        | 4.76%   |
-| Nvidia GP104 [GeForce GTX 1070]                                  | 1        | 4.76%   |
-| Nvidia GP102 [GeForce GTX 1080 Ti]                               | 1        | 4.76%   |
-| Nvidia GM107 [GeForce GTX 750 Ti]                                | 1        | 4.76%   |
-| Nvidia GK104 [GeForce GTX 680]                                   | 1        | 4.76%   |
-| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller | 1        | 4.76%   |
-| Intel 4 Series Chipset Integrated Graphics Controller            | 1        | 4.76%   |
-| AMD Tahiti XT [Radeon HD 7970/8970 OEM / R9 280X]                | 1        | 4.76%   |
-| AMD Picasso                                                      | 1        | 4.76%   |
-| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]          | 1        | 4.76%   |
-| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                 | 1        | 4.76%   |
-| AMD Cape Verde XT [Radeon HD 7770/8760 / R7 250X]                | 1        | 4.76%   |
-| AMD Cape Verde PRO [Radeon HD 7750/8740 / R7 250E]               | 1        | 4.76%   |
+| Model                                                                | Desktops | Percent |
+|----------------------------------------------------------------------|----------|---------|
+| Nvidia GP106 [GeForce GTX 1060 6GB]                                  | 3        | 14.29%  |
+| AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]              | 2        | 9.52%   |
+| Nvidia TU116 [GeForce GTX 1660 SUPER]                                | 1        | 4.76%   |
+| Nvidia TU106 [GeForce RTX 2070]                                      | 1        | 4.76%   |
+| Nvidia TU102 [GeForce RTX 2080 Ti Rev. A]                            | 1        | 4.76%   |
+| Nvidia GP107 [GeForce GTX 1050 Ti]                                   | 1        | 4.76%   |
+| Nvidia GP104 [GeForce GTX 1070]                                      | 1        | 4.76%   |
+| Nvidia GP102 [GeForce GTX 1080 Ti]                                   | 1        | 4.76%   |
+| Nvidia GM107 [GeForce GTX 750 Ti]                                    | 1        | 4.76%   |
+| Nvidia GK104 [GeForce GTX 680]                                       | 1        | 4.76%   |
+| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller     | 1        | 4.76%   |
+| Intel 4 Series Chipset Integrated Graphics Controller                | 1        | 4.76%   |
+| AMD Tahiti XT [Radeon HD 7970/8970 OEM / R9 280X]                    | 1        | 4.76%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] | 1        | 4.76%   |
+| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]              | 1        | 4.76%   |
+| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                     | 1        | 4.76%   |
+| AMD Cape Verde XT [Radeon HD 7770/8760 / R7 250X]                    | 1        | 4.76%   |
+| AMD Cape Verde PRO [Radeon HD 7750/8740 / R7 250E]                   | 1        | 4.76%   |
 
 GPU Combo
 ---------
@@ -1477,7 +1477,7 @@ Controller vendors
 | Realtek Semiconductor | 13       | 54.17%  |
 | Intel                 | 8        | 33.33%  |
 | Qualcomm Atheros      | 2        | 8.33%   |
-| Realtek               | 1        | 4.17%   |
+| TP-Link               | 1        | 4.17%   |
 
 Net Controller Model
 --------------------
@@ -1493,9 +1493,9 @@ Controller models
 | Intel I211 Gigabit Network Connection                             | 3        | 10.71%  |
 | Qualcomm Atheros AR922X Wireless Network Adapter                  | 2        | 7.14%   |
 | Intel Ethernet Connection (7) I219-V                              | 2        | 7.14%   |
+| TP-Link TL WN823N RTL8192EU                                       | 1        | 3.57%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 3.57%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.57%   |
-| Realtek 802.11n NIC                                               | 1        | 3.57%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.57%   |
 | Intel Wireless 7265                                               | 1        | 3.57%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 1        | 3.57%   |
@@ -1514,7 +1514,7 @@ Wireless vendors
 |------------------|----------|---------|
 | Intel            | 4        | 57.14%  |
 | Qualcomm Atheros | 2        | 28.57%  |
-| Realtek          | 1        | 14.29%  |
+| TP-Link          | 1        | 14.29%  |
 
 Wireless Model
 --------------
@@ -1527,7 +1527,7 @@ Wireless models
 | Model                                            | Desktops | Percent |
 |--------------------------------------------------|----------|---------|
 | Qualcomm Atheros AR922X Wireless Network Adapter | 2        | 28.57%  |
-| Realtek 802.11n NIC                              | 1        | 14.29%  |
+| TP-Link TL WN823N RTL8192EU                      | 1        | 14.29%  |
 | Intel Wireless-AC 9260                           | 1        | 14.29%  |
 | Intel Wireless 7265                              | 1        | 14.29%  |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak] | 1        | 14.29%  |
@@ -1745,7 +1745,7 @@ Memory module models
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 10%     |
 | Corsair RAM CMY8GX3M2A1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
 | Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s | 1        | 10%     |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
 

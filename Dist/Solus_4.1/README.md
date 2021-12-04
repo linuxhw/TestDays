@@ -11,7 +11,7 @@ Please submit a probe of your configuration if it's not presented on the page or
 
 This is a report for all computer types. See also reports for [desktops](/Dist/Solus_4.1/Desktop/README.md) and [notebooks](/Dist/Solus_4.1/Notebook/README.md).
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=solus-4.1
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -244,7 +244,7 @@ Test Cases
 | MSI           | 990FXA-GD65                 | Desktop     | [868fa5cf23](https://linux-hardware.org/?probe=868fa5cf23) | Mar 15, 2020 |
 | Dell          | Vostro 3446                 | Notebook    | [c42d273e36](https://linux-hardware.org/?probe=c42d273e36) | Mar 12, 2020 |
 | Gigabyte      | GA-890XA-UD3                | Desktop     | [e2cafdec0d](https://linux-hardware.org/?probe=e2cafdec0d) | Mar 09, 2020 |
-| Unknown       | Unknown                     | Notebook    | [0c527b2640](https://linux-hardware.org/?probe=0c527b2640) | Mar 08, 2020 |
+| HP            | ProBook 450 G5              | Notebook    | [0c527b2640](https://linux-hardware.org/?probe=0c527b2640) | Mar 08, 2020 |
 | Acer          | Aspire VN7-792G             | Notebook    | [3924df2c92](https://linux-hardware.org/?probe=3924df2c92) | Feb 28, 2020 |
 | Apple         | MacBookPro10,2              | Notebook    | [1281c8c30d](https://linux-hardware.org/?probe=1281c8c30d) | Feb 26, 2020 |
 | Lenovo        | ThinkPad T480 20L5S08L00    | Notebook    | [3c23e0d823](https://linux-hardware.org/?probe=3c23e0d823) | Feb 20, 2020 |
@@ -767,8 +767,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 42        | 64.62%  |
-| Yes       | 23        | 35.38%  |
+| No        | 43        | 66.15%  |
+| Yes       | 22        | 33.85%  |
 
 Has Ethernet
 ------------
@@ -793,8 +793,8 @@ Has WiFi module
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 53        | 81.54%  |
-| No        | 12        | 18.46%  |
+| Yes       | 52        | 80%     |
+| No        | 13        | 20%     |
 
 Has Bluetooth
 -------------
@@ -878,6 +878,7 @@ Geographic location (city)
 | Semarang                | 1         | 1.54%   |
 | Santo Domingo Este      | 1         | 1.54%   |
 | Santiago                | 1         | 1.54%   |
+| Saint Paul              | 1         | 1.54%   |
 | Riga                    | 1         | 1.54%   |
 | Pessac                  | 1         | 1.54%   |
 | Perth                   | 1         | 1.54%   |
@@ -890,7 +891,6 @@ Geographic location (city)
 | Morioka                 | 1         | 1.54%   |
 | Mittelbiberach          | 1         | 1.54%   |
 | Minsk                   | 1         | 1.54%   |
-| Minneapolis             | 1         | 1.54%   |
 | Mexico City             | 1         | 1.54%   |
 | Melbourne               | 1         | 1.54%   |
 | Martigues               | 1         | 1.54%   |
@@ -980,7 +980,7 @@ Hard drive models
 | Samsung SSD 860 EVO 250GB               | 2         | 1.68%   |
 | Samsung NVMe SSD Drive 1TB              | 2         | 1.68%   |
 | Kingston SA400S37240G 240GB SSD         | 2         | 1.68%   |
-| Intel SSDPEKKW256G7 256GB               | 2         | 1.68%   |
+| Intel NVMe SSD Drive 256GB              | 2         | 1.68%   |
 | Intel NVMe SSD Drive 1024GB             | 2         | 1.68%   |
 | WDC WDS500G2B0B-00YS70 500GB SSD        | 1         | 0.84%   |
 | WDC WDS100T2B0C-00PXH0 1TB              | 1         | 0.84%   |
@@ -1111,8 +1111,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 41        | 61     | 61.19%  |
 | 0.51-1.0   | 19        | 22     | 28.36%  |
-| 1.01-2.0   | 5         | 22     | 7.46%   |
-| 3.01-4.0   | 2         | 2      | 2.99%   |
+| 1.01-2.0   | 6         | 23     | 8.96%   |
+| 3.01-4.0   | 1         | 1      | 1.49%   |
 
 Space Total
 -----------
@@ -1615,7 +1615,7 @@ Graphics card models
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 3         | 3.66%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 3         | 3.66%   |
 | Intel 3rd Gen Core processor Graphics Controller                                         | 3         | 3.66%   |
-| AMD Picasso                                                                              | 3         | 3.66%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 3         | 3.66%   |
 | Nvidia GP108M [GeForce MX150]                                                            | 2         | 2.44%   |
 | Nvidia GK208M [GeForce GT 740M]                                                          | 2         | 2.44%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 2         | 2.44%   |
@@ -1992,9 +1992,9 @@ Controller vendors
 | Intel                    | 33        | 34.38%  |
 | Qualcomm Atheros         | 16        | 16.67%  |
 | Broadcom                 | 7         | 7.29%   |
+| TP-Link                  | 1         | 1.04%   |
 | Sierra Wireless          | 1         | 1.04%   |
 | Samsung Electronics      | 1         | 1.04%   |
-| Realtek                  | 1         | 1.04%   |
 | Nvidia                   | 1         | 1.04%   |
 | Marvell Technology Group | 1         | 1.04%   |
 | Lenovo                   | 1         | 1.04%   |
@@ -2025,6 +2025,7 @@ Controller models
 | Intel Wireless 3165                                                            | 2         | 1.79%   |
 | Intel Ethernet Connection (7) I219-V                                           | 2         | 1.79%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                              | 2         | 1.79%   |
+| TP-Link TL WN823N RTL8192EU                                                    | 1         | 0.89%   |
 | Sierra Wireless EM7305                                                         | 1         | 0.89%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 1         | 0.89%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                       | 1         | 0.89%   |
@@ -2033,7 +2034,6 @@ Controller models
 | Realtek RTL8125 2.5GbE Controller                                              | 1         | 0.89%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 1         | 0.89%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1         | 0.89%   |
-| Realtek 802.11n NIC                                                            | 1         | 0.89%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                      | 1         | 0.89%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 1         | 0.89%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                               | 1         | 0.89%   |
@@ -2084,8 +2084,8 @@ Wireless vendors
 | Qualcomm Atheros      | 13        | 24.07%  |
 | Broadcom              | 6         | 11.11%  |
 | Realtek Semiconductor | 3         | 5.56%   |
+| TP-Link               | 1         | 1.85%   |
 | Sierra Wireless       | 1         | 1.85%   |
-| Realtek               | 1         | 1.85%   |
 | Dell                  | 1         | 1.85%   |
 
 Wireless Model
@@ -2108,11 +2108,11 @@ Wireless models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 2         | 3.7%    |
 | Qualcomm Atheros AR922X Wireless Network Adapter               | 2         | 3.7%    |
 | Intel Wireless 3165                                            | 2         | 3.7%    |
+| TP-Link TL WN823N RTL8192EU                                    | 1         | 1.85%   |
 | Sierra Wireless EM7305                                         | 1         | 1.85%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 1.85%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1         | 1.85%   |
 | Realtek RTL8723AE PCIe Wireless Network Adapter                | 1         | 1.85%   |
-| Realtek 802.11n NIC                                            | 1         | 1.85%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter               | 1         | 1.85%   |
 | Intel Wireless-AC 9260                                         | 1         | 1.85%   |
 | Intel Wireless 8260                                            | 1         | 1.85%   |
@@ -2276,16 +2276,16 @@ Controller models
 
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                                                  | 10        | 22.22%  |
-| Intel Bluetooth Device                                                              | 7         | 15.56%  |
+| Intel Bluetooth wireless interface                                                  | 17        | 37.78%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 4         | 8.89%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 4         | 8.89%   |
-| Lite-On Bluetooth Device                                                            | 3         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 4.44%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 4.44%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 2.22%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 2.22%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.22%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.22%   |
+| Lite-On Bluetooth Device                                                            | 1         | 2.22%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 2.22%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.22%   |
 | Intel AX200 Bluetooth                                                               | 1         | 2.22%   |
@@ -2431,15 +2431,15 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1         | 2.78%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s            | 1         | 2.78%   |
 | SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.78%   |
-| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| SK Hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
 | Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 2.78%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 2.78%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
-| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 1         | 2.78%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s | 1         | 2.78%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s     | 1         | 2.78%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 2.78%   |
 | Micron RAM 4ATF51264HZ-2G3E1 4096MB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
 | Kingston RAM HP24D4S7S8MBP-8 8192MB SODIMM DDR4 2400MT/s  | 1         | 2.78%   |
@@ -2450,7 +2450,7 @@ Memory module models
 | Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
 | Corsair RAM CMY8GX3M2A1600C9 4096MB DIMM DDR3 1600MT/s    | 1         | 2.78%   |
 | Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s       | 1         | 2.78%   |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s       | 1         | 2.78%   |
+| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s    | 1         | 2.78%   |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s    | 1         | 2.78%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1         | 2.78%   |
 | A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s             | 1         | 2.78%   |
@@ -2623,8 +2623,8 @@ Camera device models
 | Unknown ATIV VGA CAMERA                                      | 1         | 1.92%   |
 | Syntek USB2.0 Camera                                         | 1         | 1.92%   |
 | Suyin HP TrueVision FHD RGB-IR                               | 1         | 1.92%   |
+| Sunplus Laptop Integrated WebCam HD                          | 1         | 1.92%   |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 1.92%   |
-| Sunplus HD WebCam                                            | 1         | 1.92%   |
 | Samsung Galaxy A5 (MTP)                                      | 1         | 1.92%   |
 | Realtek Integrated Webcam HD                                 | 1         | 1.92%   |
 | Realtek Integrated Camera                                    | 1         | 1.92%   |
@@ -2654,7 +2654,7 @@ Camera device models
 | Chicony HP HD Camera                                         | 1         | 1.92%   |
 | Chicony HD WebCam (Acer)                                     | 1         | 1.92%   |
 | Cheng Uei Precision Industry (Foxlink) XiaoMi USB 2.0 Webcam | 1         | 1.92%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera          | 1         | 1.92%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam                | 1         | 1.92%   |
 | Acer USB HD Webcam                                           | 1         | 1.92%   |
 | Acer HP Webcam                                               | 1         | 1.92%   |
 

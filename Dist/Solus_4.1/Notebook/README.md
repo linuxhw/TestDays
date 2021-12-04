@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=solus-4.1
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -204,7 +204,7 @@ Test Cases
 | Acer          | Swift SF314-56              | [3826e4d14c](https://linux-hardware.org/?probe=3826e4d14c) | Mar 24, 2020 |
 | Google        | Kip                         | [4f62ee34a3](https://linux-hardware.org/?probe=4f62ee34a3) | Mar 22, 2020 |
 | Dell          | Vostro 3446                 | [c42d273e36](https://linux-hardware.org/?probe=c42d273e36) | Mar 12, 2020 |
-| Unknown       | Unknown                     | [0c527b2640](https://linux-hardware.org/?probe=0c527b2640) | Mar 08, 2020 |
+| HP            | ProBook 450 G5              | [0c527b2640](https://linux-hardware.org/?probe=0c527b2640) | Mar 08, 2020 |
 | Acer          | Aspire VN7-792G             | [3924df2c92](https://linux-hardware.org/?probe=3924df2c92) | Feb 28, 2020 |
 | Apple         | MacBookPro10,2              | [1281c8c30d](https://linux-hardware.org/?probe=1281c8c30d) | Feb 26, 2020 |
 | Lenovo        | ThinkPad T480 20L5S08L00    | [3c23e0d823](https://linux-hardware.org/?probe=3c23e0d823) | Feb 20, 2020 |
@@ -745,6 +745,7 @@ Geographic location (city)
 | Semarang              | 1         | 2.56%   |
 | Santo Domingo Este    | 1         | 2.56%   |
 | Santiago              | 1         | 2.56%   |
+| Saint Paul            | 1         | 2.56%   |
 | Riga                  | 1         | 2.56%   |
 | Pessac                | 1         | 2.56%   |
 | Parkdale              | 1         | 2.56%   |
@@ -752,7 +753,6 @@ Geographic location (city)
 | Muscat                | 1         | 2.56%   |
 | Morioka               | 1         | 2.56%   |
 | Minsk                 | 1         | 2.56%   |
-| Minneapolis           | 1         | 2.56%   |
 | Melbourne             | 1         | 2.56%   |
 | Marica                | 1         | 2.56%   |
 | Madrid                | 1         | 2.56%   |
@@ -1366,7 +1366,7 @@ Graphics card models
 | Intel HD Graphics 5500                                                                | 2         | 3.77%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                             | 2         | 3.77%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                          | 2         | 3.77%   |
-| AMD Picasso                                                                           | 2         | 3.77%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                  | 2         | 3.77%   |
 | AMD Madison [Mobility Radeon HD 5650/5750 / 6530M/6550M]                              | 2         | 3.77%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                       | 1         | 1.89%   |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                            | 1         | 1.89%   |
@@ -1931,14 +1931,14 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                                                  | 8         | 25.81%  |
-| Intel Bluetooth Device                                                              | 6         | 19.35%  |
-| Lite-On Bluetooth Device                                                            | 3         | 9.68%   |
+| Intel Bluetooth wireless interface                                                  | 14        | 45.16%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 9.68%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 6.45%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 6.45%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 3.23%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 3.23%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 3.23%   |
+| Lite-On Bluetooth Device                                                            | 1         | 3.23%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 3.23%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 3.23%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 3.23%   |
@@ -2039,14 +2039,14 @@ Memory module models
 | Unknown RAM Module 4096MB SODIMM DDR3                     | 1         | 5.26%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s            | 1         | 5.26%   |
 | SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
-| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 5.26%   |
+| SK Hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s | 1         | 5.26%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 5.26%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
-| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 1         | 5.26%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s | 1         | 5.26%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s     | 1         | 5.26%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
@@ -2190,8 +2190,8 @@ Camera device models
 | Chicony Integrated Camera                                    | 2         | 5.41%   |
 | Unknown ATIV VGA CAMERA                                      | 1         | 2.7%    |
 | Syntek USB2.0 Camera                                         | 1         | 2.7%    |
+| Sunplus Laptop Integrated WebCam HD                          | 1         | 2.7%    |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 2.7%    |
-| Sunplus HD WebCam                                            | 1         | 2.7%    |
 | Realtek Integrated Webcam HD                                 | 1         | 2.7%    |
 | Realtek Integrated Camera                                    | 1         | 2.7%    |
 | Realtek HD WebCam                                            | 1         | 2.7%    |
@@ -2213,7 +2213,7 @@ Camera device models
 | Chicony HP HD Camera                                         | 1         | 2.7%    |
 | Chicony HD WebCam (Acer)                                     | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) XiaoMi USB 2.0 Webcam | 1         | 2.7%    |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera          | 1         | 2.7%    |
+| Cheng Uei Precision Industry (Foxlink) Webcam                | 1         | 2.7%    |
 | Apple FaceTime HD Camera (Built-in)                          | 1         | 2.7%    |
 | Acer USB HD Webcam                                           | 1         | 2.7%    |
 | Acer HP Webcam                                               | 1         | 2.7%    |

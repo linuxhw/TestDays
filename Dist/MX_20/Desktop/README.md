@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends&rel=mx-20
+Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -714,7 +714,7 @@ Hard drive models
 | Seagate ST3500830AS 500GB         | 1        | 2.33%   |
 | Seagate ST3320620AS 320GB         | 1        | 2.33%   |
 | Seagate ST2000DX001-1CM164 2TB    | 1        | 2.33%   |
-| Seagate Backup+ Desk 8TB          | 1        | 2.33%   |
+| Seagate Backup+ Desk 5TB          | 1        | 2.33%   |
 | SanDisk SSD PLUS 1000GB           | 1        | 2.33%   |
 | SanDisk SSD G5 BICS4 500GB        | 1        | 2.33%   |
 | Samsung SSD 860 QVO 1TB           | 1        | 2.33%   |
@@ -1471,30 +1471,30 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 5        | 16.67%  |
-| Realtek RTL8125 2.5GbE Controller                                                             | 2        | 6.67%   |
-| Intel Ethernet Connection I217-LM                                                             | 2        | 6.67%   |
-| Intel Ethernet Connection (11) I219-V                                                         | 2        | 6.67%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 2        | 6.67%   |
-| U-Blox [u-blox 8]                                                                             | 1        | 3.33%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 3.33%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 3.33%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 3.33%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                                               | 1        | 3.33%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 3.33%   |
-| Ralink MT7601U Wireless Adapter                                                               | 1        | 3.33%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 1        | 3.33%   |
-| NetGear A6210                                                                                 | 1        | 3.33%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                                       | 1        | 3.33%   |
-| Intel Wireless 8260                                                                           | 1        | 3.33%   |
-| Intel Wi-Fi 6 AX200                                                                           | 1        | 3.33%   |
-| Intel I211 Gigabit Network Connection                                                         | 1        | 3.33%   |
-| Intel Ethernet Connection (7) I219-V                                                          | 1        | 3.33%   |
-| Intel Ethernet Connection (2) I219-V                                                          | 1        | 3.33%   |
-| Intel Ethernet Connection (2) I218-V                                                          | 1        | 3.33%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 1        | 3.33%   |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 16.67%  |
+| Realtek RTL8125 2.5GbE Controller                                 | 2        | 6.67%   |
+| Intel Ethernet Connection I217-LM                                 | 2        | 6.67%   |
+| Intel Ethernet Connection (11) I219-V                             | 2        | 6.67%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 6.67%   |
+| U-Blox [u-blox 8]                                                 | 1        | 3.33%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 3.33%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 3.33%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 3.33%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 3.33%   |
+| Realtek 802.11ac WLAN Adapter                                     | 1        | 3.33%   |
+| Ralink MT7601U Wireless Adapter                                   | 1        | 3.33%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 3.33%   |
+| NetGear A6210                                                     | 1        | 3.33%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 3.33%   |
+| Intel Wireless 8260                                               | 1        | 3.33%   |
+| Intel Wi-Fi 6 AX200                                               | 1        | 3.33%   |
+| Intel I211 Gigabit Network Connection                             | 1        | 3.33%   |
+| Intel Ethernet Connection (7) I219-V                              | 1        | 3.33%   |
+| Intel Ethernet Connection (2) I219-V                              | 1        | 3.33%   |
+| Intel Ethernet Connection (2) I218-V                              | 1        | 3.33%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 1        | 3.33%   |
 
 Wireless Vendor
 ---------------
@@ -1521,18 +1521,18 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 10%     |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 10%     |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 10%     |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 10%     |
-| Ralink MT7601U Wireless Adapter                                                               | 1        | 10%     |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 1        | 10%     |
-| NetGear A6210                                                                                 | 1        | 10%     |
-| Intel Wireless 8260                                                                           | 1        | 10%     |
-| Intel Wi-Fi 6 AX200                                                                           | 1        | 10%     |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 1        | 10%     |
+| Model                                            | Desktops | Percent |
+|--------------------------------------------------|----------|---------|
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]              | 1        | 10%     |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]     | 1        | 10%     |
+| Realtek RTL88x2bu [AC1200 Techkey]               | 1        | 10%     |
+| Realtek 802.11ac WLAN Adapter                    | 1        | 10%     |
+| Ralink MT7601U Wireless Adapter                  | 1        | 10%     |
+| Qualcomm Atheros AR9485 Wireless Network Adapter | 1        | 10%     |
+| NetGear A6210                                    | 1        | 10%     |
+| Intel Wireless 8260                              | 1        | 10%     |
+| Intel Wi-Fi 6 AX200                              | 1        | 10%     |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak] | 1        | 10%     |
 
 Ethernet Vendor
 ---------------
@@ -1653,7 +1653,7 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Realtek Bluetooth Radio                             | 1        | 20%     |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 20%     |
-| Intel Bluetooth Device                              | 1        | 20%     |
+| Intel Bluetooth wireless interface                  | 1        | 20%     |
 | Intel AX200 Bluetooth                               | 1        | 20%     |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1        | 20%     |
 
@@ -1753,32 +1753,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s     | 2        | 8%      |
-| Unknown RAM Module 8192MB DIMM DDR4 2133MT/s             | 1        | 4%      |
-| Unknown RAM Module 512MB DIMM SDRAM                      | 1        | 4%      |
-| Unknown RAM Module 2048MB DIMM DDR 667MT/s               | 1        | 4%      |
-| Unknown RAM Module 1024MB DIMM SDRAM                     | 1        | 4%      |
-| SK Hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s  | 1        | 4%      |
-| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s     | 1        | 4%      |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s    | 1        | 4%      |
-| Samsung RAM M391B5273DH0-YK0 4096MB DIMM DDR3 1600MT/s   | 1        | 4%      |
-| PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s     | 1        | 4%      |
-| Nanya RAM NT4GC64B8HG0NF-DI 4096MB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s  | 1        | 4%      |
-| Kingston RAM KHX2133C13D4/8GX 8192MB DIMM DDR4 2133MT/s  | 1        | 4%      |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| G.Skill RAM F4-3000C15-8GTZR 8192MB DIMM DDR4 3000MT/s   | 1        | 4%      |
-| Crucial RAM CT8G4DFS824A.M8FE 8192MB DIMM DDR4 2933MT/s  | 1        | 4%      |
-| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1        | 4%      |
-| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s | 1        | 4%      |
-| Corsair RAM CMK8GX4M2A2133C13 4096MB DIMM DDR4 2933MT/s  | 1        | 4%      |
-| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3100MT/s   | 1        | 4%      |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 4%      |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3466MT/s    | 1        | 4%      |
-| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s    | 1        | 4%      |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s    | 2        | 8%      |
+| Unknown RAM Module 8192MB DIMM DDR4 2133MT/s            | 1        | 4%      |
+| Unknown RAM Module 512MB DIMM SDRAM                     | 1        | 4%      |
+| Unknown RAM Module 2048MB DIMM DDR 667MT/s              | 1        | 4%      |
+| Unknown RAM Module 1024MB DIMM SDRAM                    | 1        | 4%      |
+| SK Hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s | 1        | 4%      |
+| SK Hynix RAM HMT351U6EFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 4%      |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 4%      |
+| Samsung RAM M391B5273DH0-YK0 4096MB DIMM DDR3 1600MT/s  | 1        | 4%      |
+| PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s    | 1        | 4%      |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
+| Kingston RAM KHX2133C13D4/8GX 8192MB DIMM DDR4 2133MT/s | 1        | 4%      |
+| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 4%      |
+| G.Skill RAM F4-3000C15-8GTZR 8192MB DIMM DDR4 3000MT/s  | 1        | 4%      |
+| Crucial RAM CT8G4DFS824A.M8FE 8192MB DIMM DDR4 2933MT/s | 1        | 4%      |
+| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s   | 1        | 4%      |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s   | 1        | 4%      |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s   | 1        | 4%      |
+| Corsair RAM CMK8GX4M2A2133C13 4096MB DIMM DDR4 2933MT/s | 1        | 4%      |
+| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3100MT/s  | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s   | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3466MT/s   | 1        | 4%      |
+| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s   | 1        | 4%      |
 
 Memory Kind
 -----------
@@ -1872,10 +1872,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| Lexmark International Lexmark CS410dn | 1        | 50%     |
-| Brother DCP-L2540DW                   | 1        | 50%     |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Lexmark International CS417dn | 1        | 50%     |
+| Brother DCP-L2540DW           | 1        | 50%     |
 
 Scanner Vendor
 --------------
