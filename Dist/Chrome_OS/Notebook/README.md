@@ -1799,7 +1799,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 4.35%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.35%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 4.35%   |
-| Intel Bluetooth Device                              | 1         | 4.35%   |
+| Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4.35%   |
 | IMC Networks Bluetooth Device                       | 1         | 4.35%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 4.35%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 4.35%   |
@@ -1999,7 +1999,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 20%     |
+| Alcor Micro USB Camera                                  | 6         | 20%     |
 | Lenovo UVC Camera                                       | 3         | 10%     |
 | Ricoh Integrated Webcam                                 | 2         | 6.67%   |
 | Lite-On Integrated Camera                               | 2         | 6.67%   |
@@ -2009,8 +2009,8 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 3.33%   |
 | Sunplus HD WebCam                                       | 1         | 3.33%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.33%   |
+| Realtek USB Camera                                      | 1         | 3.33%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.33%   |
-| Realtek 2SF022                                          | 1         | 3.33%   |
 | Microdia HP Webcam                                      | 1         | 3.33%   |
 | Importek HP Webcam                                      | 1         | 3.33%   |
 | IMC Networks Lenovo EasyCamera                          | 1         | 3.33%   |

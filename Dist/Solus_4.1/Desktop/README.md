@@ -590,8 +590,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 12       | 63.16%  |
-| Yes       | 7        | 36.84%  |
+| No        | 11       | 57.89%  |
+| Yes       | 8        | 42.11%  |
 
 Has Ethernet
 ------------
@@ -749,8 +749,8 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
-| Seagate Backup+ Hub BK 4TB      | 1        | 1.72%   |
-| SanDisk SDSSDH31024G 1024GB     | 1        | 1.72%   |
+| Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
+| SanDisk SDSSDH31024G 1TB        | 1        | 1.72%   |
 | SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
 | Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
@@ -838,8 +838,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 17       | 33     | 51.52%  |
-| 0.51-1.0   | 10       | 11     | 30.3%   |
-| 1.01-2.0   | 5        | 22     | 15.15%  |
+| 0.51-1.0   | 11       | 12     | 33.33%  |
+| 1.01-2.0   | 4        | 21     | 12.12%  |
 | 3.01-4.0   | 1        | 1      | 3.03%   |
 
 Space Total
@@ -1493,7 +1493,7 @@ Controller models
 | Intel I211 Gigabit Network Connection                             | 3        | 10.71%  |
 | Qualcomm Atheros AR922X Wireless Network Adapter                  | 2        | 7.14%   |
 | Intel Ethernet Connection (7) I219-V                              | 2        | 7.14%   |
-| TP-Link TL WN823N RTL8192EU                                       | 1        | 3.57%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 3.57%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 3.57%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.57%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.57%   |
@@ -1527,7 +1527,7 @@ Wireless models
 | Model                                            | Desktops | Percent |
 |--------------------------------------------------|----------|---------|
 | Qualcomm Atheros AR922X Wireless Network Adapter | 2        | 28.57%  |
-| TP-Link TL WN823N RTL8192EU                      | 1        | 14.29%  |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]      | 1        | 14.29%  |
 | Intel Wireless-AC 9260                           | 1        | 14.29%  |
 | Intel Wireless 7265                              | 1        | 14.29%  |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak] | 1        | 14.29%  |
@@ -1645,7 +1645,7 @@ Controller models
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 12.5%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 12.5%   |
 | Intel Bluetooth wireless interface                  | 1        | 12.5%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 12.5%   |
+| Intel Bluetooth Device                              | 1        | 12.5%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 12.5%   |
 
 Sound
@@ -1745,7 +1745,7 @@ Memory module models
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 10%     |
 | Corsair RAM CMY8GX3M2A1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
 | Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
 

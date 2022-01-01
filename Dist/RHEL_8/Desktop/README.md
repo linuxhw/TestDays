@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte   | Z97N-WIFI                   | [9d1a04cc28](https://linux-hardware.org/?probe=9d1a04cc28) | Dec 15, 2021 |
 | Lenovo     | MAHOBAY                     | [ea1413bf9e](https://linux-hardware.org/?probe=ea1413bf9e) | Nov 19, 2021 |
 | ASUSTek    | PRIME B350M-A               | [d3d69e7587](https://linux-hardware.org/?probe=d3d69e7587) | Oct 24, 2021 |
 | ASUSTek    | Pro WS X570-ACE             | [07a5b3c465](https://linux-hardware.org/?probe=07a5b3c465) | Oct 16, 2021 |
@@ -262,31 +263,31 @@ Version of the Linux kernel
 
 | Version                      | Desktops | Percent |
 |------------------------------|----------|---------|
-| 4.18.0-305.el8.x86_64        | 7        | 12.96%  |
-| 4.18.0-147.3.1.el8_1.x86_64  | 6        | 11.11%  |
-| 4.18.0-305.19.1.el8_4.x86_64 | 4        | 7.41%   |
-| 4.18.0-240.1.1.el8_3.x86_64  | 4        | 7.41%   |
-| 4.18.0-240.10.1.el8_3.x86_64 | 3        | 5.56%   |
-| 4.18.0-193.el8.x86_64        | 3        | 5.56%   |
-| 4.18.0-147.5.1.el8_1.x86_64  | 3        | 5.56%   |
-| 4.18.0-305.10.2.el8_4.x86_64 | 2        | 3.7%    |
-| 4.18.0-240.22.1.el8_3.x86_64 | 2        | 3.7%    |
-| 4.18.0-240.15.1.el8_3.x86_64 | 2        | 3.7%    |
-| 4.18.0-193.6.3.el8_2.x86_64  | 2        | 3.7%    |
-| 4.18.0-193.19.1.el8_2.x86_64 | 2        | 3.7%    |
-| 4.18.0-147.el8.x86_64        | 2        | 3.7%    |
-| 5.10.6-1.el8.elrepo.x86_64   | 1        | 1.85%   |
-| 4.19.150                     | 1        | 1.85%   |
-| 4.18.0-80.11.2.el8_0.x86_64  | 1        | 1.85%   |
-| 4.18.0-348.2.1.el8_5.x86_64  | 1        | 1.85%   |
-| 4.18.0-305.7.1.el8_4.x86_64  | 1        | 1.85%   |
-| 4.18.0-305.3.1.el8_4.x86_64  | 1        | 1.85%   |
-| 4.18.0-305.17.1.el8_4.x86_64 | 1        | 1.85%   |
-| 4.18.0-305.12.1.el8_4.x86_64 | 1        | 1.85%   |
-| 4.18.0-240.8.1.el8_3.x86_64  | 1        | 1.85%   |
-| 4.18.0-193.28.1.el8_2.x86_64 | 1        | 1.85%   |
-| 4.18.0-147.8.1.el8_1.x86_64  | 1        | 1.85%   |
-| 4.18.0-147.0.3.el8_1.x86_64  | 1        | 1.85%   |
+| 4.18.0-305.el8.x86_64        | 7        | 12.73%  |
+| 4.18.0-147.3.1.el8_1.x86_64  | 6        | 10.91%  |
+| 4.18.0-305.19.1.el8_4.x86_64 | 4        | 7.27%   |
+| 4.18.0-240.1.1.el8_3.x86_64  | 4        | 7.27%   |
+| 4.18.0-240.10.1.el8_3.x86_64 | 3        | 5.45%   |
+| 4.18.0-193.el8.x86_64        | 3        | 5.45%   |
+| 4.18.0-147.5.1.el8_1.x86_64  | 3        | 5.45%   |
+| 4.18.0-348.2.1.el8_5.x86_64  | 2        | 3.64%   |
+| 4.18.0-305.10.2.el8_4.x86_64 | 2        | 3.64%   |
+| 4.18.0-240.22.1.el8_3.x86_64 | 2        | 3.64%   |
+| 4.18.0-240.15.1.el8_3.x86_64 | 2        | 3.64%   |
+| 4.18.0-193.6.3.el8_2.x86_64  | 2        | 3.64%   |
+| 4.18.0-193.19.1.el8_2.x86_64 | 2        | 3.64%   |
+| 4.18.0-147.el8.x86_64        | 2        | 3.64%   |
+| 5.10.6-1.el8.elrepo.x86_64   | 1        | 1.82%   |
+| 4.19.150                     | 1        | 1.82%   |
+| 4.18.0-80.11.2.el8_0.x86_64  | 1        | 1.82%   |
+| 4.18.0-305.7.1.el8_4.x86_64  | 1        | 1.82%   |
+| 4.18.0-305.3.1.el8_4.x86_64  | 1        | 1.82%   |
+| 4.18.0-305.17.1.el8_4.x86_64 | 1        | 1.82%   |
+| 4.18.0-305.12.1.el8_4.x86_64 | 1        | 1.82%   |
+| 4.18.0-240.8.1.el8_3.x86_64  | 1        | 1.82%   |
+| 4.18.0-193.28.1.el8_2.x86_64 | 1        | 1.82%   |
+| 4.18.0-147.8.1.el8_1.x86_64  | 1        | 1.82%   |
+| 4.18.0-147.0.3.el8_1.x86_64  | 1        | 1.82%   |
 
 Kernel Family
 -------------
@@ -790,47 +791,48 @@ Geographic location (city)
 
 | City                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Brno                  | 3        | 6.82%   |
-| Kyiv                  | 2        | 4.55%   |
-| Wiesbaden             | 1        | 2.27%   |
-| Weybridge             | 1        | 2.27%   |
-| Warsaw                | 1        | 2.27%   |
-| Valmontone            | 1        | 2.27%   |
-| Vaestra Froelunda     | 1        | 2.27%   |
-| Toronto               | 1        | 2.27%   |
-| Tauranga              | 1        | 2.27%   |
-| Suwon                 | 1        | 2.27%   |
-| Spokane               | 1        | 2.27%   |
-| Seoul                 | 1        | 2.27%   |
-| Saratov               | 1        | 2.27%   |
-| San Jose              | 1        | 2.27%   |
-| Poznan                | 1        | 2.27%   |
-| Pernis                | 1        | 2.27%   |
-| Paracuellos de Jarama | 1        | 2.27%   |
-| Musselburgh           | 1        | 2.27%   |
-| Montreal              | 1        | 2.27%   |
-| Mississauga           | 1        | 2.27%   |
-| Minsk                 | 1        | 2.27%   |
-| Milwaukee             | 1        | 2.27%   |
-| Milan                 | 1        | 2.27%   |
-| Lugano                | 1        | 2.27%   |
-| Huddersfield          | 1        | 2.27%   |
-| Houghton              | 1        | 2.27%   |
-| Gyami                 | 1        | 2.27%   |
-| Dobrany               | 1        | 2.27%   |
-| Dimitrovgrad          | 1        | 2.27%   |
-| Des Moines            | 1        | 2.27%   |
-| Coimbatore            | 1        | 2.27%   |
-| Chicago               | 1        | 2.27%   |
-| Cary                  | 1        | 2.27%   |
-| Cairo                 | 1        | 2.27%   |
-| Buenos Aires          | 1        | 2.27%   |
-| Bonn                  | 1        | 2.27%   |
-| Bengaluru             | 1        | 2.27%   |
-| Bandung               | 1        | 2.27%   |
-| ? iauliai             | 1        | 2.27%   |
-| Aurora                | 1        | 2.27%   |
-| Albuquerque           | 1        | 2.27%   |
+| Brno                  | 3        | 6.67%   |
+| Kyiv                  | 2        | 4.44%   |
+| Wiesbaden             | 1        | 2.22%   |
+| Weybridge             | 1        | 2.22%   |
+| Warsaw                | 1        | 2.22%   |
+| Valmontone            | 1        | 2.22%   |
+| Vaestra Froelunda     | 1        | 2.22%   |
+| Toronto               | 1        | 2.22%   |
+| Tauranga              | 1        | 2.22%   |
+| Suwon                 | 1        | 2.22%   |
+| Spokane               | 1        | 2.22%   |
+| Seoul                 | 1        | 2.22%   |
+| Saratov               | 1        | 2.22%   |
+| San Jose              | 1        | 2.22%   |
+| Poznan                | 1        | 2.22%   |
+| Pernis                | 1        | 2.22%   |
+| Paracuellos de Jarama | 1        | 2.22%   |
+| Ostrow Mazowiecka     | 1        | 2.22%   |
+| Musselburgh           | 1        | 2.22%   |
+| Montreal              | 1        | 2.22%   |
+| Mississauga           | 1        | 2.22%   |
+| Minsk                 | 1        | 2.22%   |
+| Milwaukee             | 1        | 2.22%   |
+| Milan                 | 1        | 2.22%   |
+| Lugano                | 1        | 2.22%   |
+| Huddersfield          | 1        | 2.22%   |
+| Houghton              | 1        | 2.22%   |
+| Gyami                 | 1        | 2.22%   |
+| Dobrany               | 1        | 2.22%   |
+| Dimitrovgrad          | 1        | 2.22%   |
+| Des Moines            | 1        | 2.22%   |
+| Coimbatore            | 1        | 2.22%   |
+| Chicago               | 1        | 2.22%   |
+| Cary                  | 1        | 2.22%   |
+| Cairo                 | 1        | 2.22%   |
+| Buenos Aires          | 1        | 2.22%   |
+| Bonn                  | 1        | 2.22%   |
+| Bengaluru             | 1        | 2.22%   |
+| Bandung               | 1        | 2.22%   |
+| ? iauliai             | 1        | 2.22%   |
+| Aurora                | 1        | 2.22%   |
+| Albuquerque           | 1        | 2.22%   |
 
 Drives
 ------
@@ -845,13 +847,13 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 16       | 32     | 19.05%  |
+| WDC                 | 16       | 33     | 19.05%  |
 | Seagate             | 13       | 22     | 15.48%  |
-| Samsung Electronics | 10       | 20     | 11.9%   |
+| Samsung Electronics | 10       | 21     | 11.9%   |
 | Kingston            | 7        | 9      | 8.33%   |
 | Toshiba             | 6        | 9      | 7.14%   |
 | Crucial             | 4        | 8      | 4.76%   |
-| SanDisk             | 3        | 4      | 3.57%   |
+| Sandisk             | 3        | 4      | 3.57%   |
 | Intel               | 3        | 4      | 3.57%   |
 | Hitachi             | 3        | 3      | 3.57%   |
 | SK Hynix            | 2        | 3      | 2.38%   |
@@ -911,7 +913,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB              | 1        | 0.97%   |
 | WDC WD10EZEX-22MFCA0 1TB              | 1        | 0.97%   |
 | WDC WD1003FZEX-00MK2A0 1TB            | 1        | 0.97%   |
-| Unknown SD/MMC/MS PRO 394GB           | 1        | 0.97%   |
+| Unknown SD/MMC/MS PRO 7GB             | 1        | 0.97%   |
 | Toshiba HDWT140 4TB                   | 1        | 0.97%   |
 | Toshiba HDWQ140 4TB                   | 1        | 0.97%   |
 | Toshiba HDWD120 2TB                   | 1        | 0.97%   |
@@ -952,7 +954,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 14       | 28     | 36.84%  |
+| WDC                 | 14       | 29     | 36.84%  |
 | Seagate             | 13       | 22     | 34.21%  |
 | Toshiba             | 4        | 6      | 10.53%  |
 | Hitachi             | 3        | 3      | 7.89%   |
@@ -971,7 +973,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 8        | 10     | 23.53%  |
+| Samsung Electronics | 8        | 11     | 23.53%  |
 | Kingston            | 7        | 9      | 20.59%  |
 | Crucial             | 4        | 8      | 11.76%  |
 | WDC                 | 3        | 4      | 8.82%   |
@@ -996,8 +998,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 32       | 46     | 42.11%  |
-| HDD     | 32       | 63     | 42.11%  |
+| SSD     | 32       | 47     | 42.11%  |
+| HDD     | 32       | 64     | 42.11%  |
 | NVMe    | 11       | 24     | 14.47%  |
 | Unknown | 1        | 2      | 1.32%   |
 
@@ -1011,7 +1013,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 41       | 104    | 74.55%  |
+| SATA | 41       | 106    | 74.55%  |
 | NVMe | 11       | 24     | 20%     |
 | SAS  | 3        | 7      | 5.45%   |
 
@@ -1025,12 +1027,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 29       | 46     | 41.43%  |
-| 0.51-1.0   | 22       | 35     | 31.43%  |
-| 1.01-2.0   | 10       | 11     | 14.29%  |
-| 3.01-4.0   | 6        | 11     | 8.57%   |
-| 4.01-10.0  | 2        | 5      | 2.86%   |
-| 2.01-3.0   | 1        | 1      | 1.43%   |
+| 0.01-0.5   | 29       | 47     | 40.85%  |
+| 0.51-1.0   | 22       | 35     | 30.99%  |
+| 1.01-2.0   | 11       | 12     | 15.49%  |
+| 3.01-4.0   | 6        | 11     | 8.45%   |
+| 4.01-10.0  | 2        | 5      | 2.82%   |
+| 2.01-3.0   | 1        | 1      | 1.41%   |
 
 Space Total
 -----------
@@ -1060,15 +1062,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 21-50          | 12       | 24.49%  |
-| 1-20           | 9        | 18.37%  |
-| 101-250        | 8        | 16.33%  |
-| 51-100         | 5        | 10.2%   |
-| 1001-2000      | 4        | 8.16%   |
-| 501-1000       | 4        | 8.16%   |
-| 251-500        | 3        | 6.12%   |
-| More than 3000 | 2        | 4.08%   |
-| 2001-3000      | 2        | 4.08%   |
+| 21-50          | 12       | 24%     |
+| 1-20           | 9        | 18%     |
+| 101-250        | 8        | 16%     |
+| 51-100         | 6        | 12%     |
+| 1001-2000      | 4        | 8%      |
+| 501-1000       | 4        | 8%      |
+| 251-500        | 3        | 6%      |
+| More than 3000 | 2        | 4%      |
+| 2001-3000      | 2        | 4%      |
 
 Malfunc. Drives
 ---------------
@@ -1145,7 +1147,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 29       | 101    | 61.7%   |
+| Detected | 29       | 103    | 61.7%   |
 | Works    | 16       | 32     | 34.04%  |
 | Malfunc  | 2        | 2      | 4.26%   |
 
@@ -1531,11 +1533,11 @@ Combinations of graphics cards
 
 | Name           | Desktops | Percent |
 |----------------|----------|---------|
-| 1 x Nvidia     | 25       | 58.14%  |
-| 1 x Intel      | 10       | 23.26%  |
-| 1 x AMD        | 5        | 11.63%  |
-| Intel + AMD    | 2        | 4.65%   |
-| Intel + Nvidia | 1        | 2.33%   |
+| 1 x Nvidia     | 25       | 56.82%  |
+| 1 x Intel      | 11       | 25%     |
+| 1 x AMD        | 5        | 11.36%  |
+| Intel + AMD    | 2        | 4.55%   |
+| Intel + Nvidia | 1        | 2.27%   |
 
 GPU Driver
 ----------
@@ -1560,15 +1562,15 @@ Total video memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 16       | 34.78%  |
-| 1.01-2.0   | 10       | 21.74%  |
-| 7.01-8.0   | 4        | 8.7%    |
-| 3.01-4.0   | 4        | 8.7%    |
-| 5.01-6.0   | 3        | 6.52%   |
-| 2.01-3.0   | 3        | 6.52%   |
-| 0.01-0.5   | 3        | 6.52%   |
-| 0.51-1.0   | 2        | 4.35%   |
-| 8.01-16.0  | 1        | 2.17%   |
+| Unknown    | 17       | 36.17%  |
+| 1.01-2.0   | 10       | 21.28%  |
+| 7.01-8.0   | 4        | 8.51%   |
+| 3.01-4.0   | 4        | 8.51%   |
+| 5.01-6.0   | 3        | 6.38%   |
+| 2.01-3.0   | 3        | 6.38%   |
+| 0.01-0.5   | 3        | 6.38%   |
+| 0.51-1.0   | 2        | 4.26%   |
+| 8.01-16.0  | 1        | 2.13%   |
 
 Monitor
 -------
@@ -2073,7 +2075,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4        | 25%     |
 | Realtek Bluetooth Radio                             | 2        | 12.5%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2        | 12.5%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2        | 12.5%   |
+| Intel Bluetooth Device                              | 2        | 12.5%   |
 | Micro Star International Bluetooth Device           | 1        | 6.25%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 6.25%   |
 | Intel Bluetooth wireless interface                  | 1        | 6.25%   |
@@ -2213,7 +2215,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 3.7%    |
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 3.7%    |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                | 1        | 3.7%    |
-| Samsung RAM M378B5673FH0-CH9 2048MB DIMM 1600MT/s         | 1        | 3.7%    |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s       | 1        | 3.7%    |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s       | 1        | 3.7%    |
 | Patriot RAM PSD416G26662 16384MB DIMM DDR4 2667MT/s       | 1        | 3.7%    |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                  | 1        | 3.7%    |
@@ -2222,12 +2224,12 @@ Memory module models
 | Kingston RAM 9905712-034.A00G 16GB SODIMM DDR4 2400MT/s   | 1        | 3.7%    |
 | GOODRAM RAM GR1600D364L11S/4G 4GB DIMM DDR3 1600MT/s      | 1        | 3.7%    |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s     | 1        | 3.7%    |
-| Crucial RAM CT4G4DFS824A.M8FG 4096MB DIMM DDR4 2400MT/s   | 1        | 3.7%    |
+| Crucial RAM CT4G4DFS824A.M8FG 4GB DIMM DDR4 2400MT/s      | 1        | 3.7%    |
 | Crucial RAM CT16G4DFD824A.C16FBD 16GB DIMM DDR4 2933MT/s  | 1        | 3.7%    |
 | Crucial RAM BLS4G4D240FSB.8FBD2 4096MB DIMM DDR4 2400MT/s | 1        | 3.7%    |
 | Crucial RAM BLS4G4D240FSB.8FBD 4096MB DIMM DDR4 2400MT/s  | 1        | 3.7%    |
-| Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s     | 1        | 3.7%    |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 1        | 3.7%    |
+| Crucial RAM BLS4G3D1609DS1S00. 4096MB DIMM DDR3 1600MT/s  | 1        | 3.7%    |
+| Corsair RAM CMZ16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s  | 1        | 3.7%    |
 
 Memory Kind
 -----------

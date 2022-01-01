@@ -932,7 +932,7 @@ Hard drive models
 | Kingston SUV500120G 120GB SSD                | 1         | 1.64%   |
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.64%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.64%   |
-| KingSpec NT-256 256GB                        | 1         | 1.64%   |
+| KingSpec NT-256 256GB SSD                    | 1         | 1.64%   |
 | KingDian S200 60GB                           | 1         | 1.64%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.64%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.64%   |
@@ -1818,7 +1818,7 @@ Controller models
 | Intel Wireless 3165                                                     | 2         | 2.15%   |
 | Intel Centrino Ultimate-N 6300                                          | 2         | 2.15%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 2         | 2.15%   |
-| TP-Link TL WN823N RTL8192EU                                             | 1         | 1.08%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.08%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 1.08%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.08%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.08%   |
@@ -1890,7 +1890,7 @@ Wireless models
 | Intel Wireless 7265                                                     | 2         | 4%      |
 | Intel Wireless 3165                                                     | 2         | 4%      |
 | Intel Centrino Ultimate-N 6300                                          | 2         | 4%      |
-| TP-Link TL WN823N RTL8192EU                                             | 1         | 2%      |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 2%      |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 2%      |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 2%      |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2%      |
@@ -2056,7 +2056,7 @@ Controller models
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.33%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.33%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.33%   |
-| Intel Bluetooth Device                              | 1         | 3.33%   |
+| Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.33%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.33%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.33%   |
 | Foxconn / Hon Hai BCM43142A0 broadcom bluetooth     | 1         | 3.33%   |
@@ -2286,7 +2286,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
+| Alcor Micro USB Camera                                  | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |
@@ -2297,8 +2297,8 @@ Camera device models
 | Sunplus HD WebCam                                       | 1         | 3.13%   |
 | Realtek WebCamera                                       | 1         | 3.13%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.13%   |
+| Realtek USB Camera                                      | 1         | 3.13%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.13%   |
-| Realtek 2SF022                                          | 1         | 3.13%   |
 | Microdia HP Webcam                                      | 1         | 3.13%   |
 | Importek HP Webcam                                      | 1         | 3.13%   |
 | IMC Networks Lenovo EasyCamera                          | 1         | 3.13%   |

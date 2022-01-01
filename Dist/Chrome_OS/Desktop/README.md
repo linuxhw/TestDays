@@ -669,7 +669,7 @@ Hard drive models
 | Seagate ST3160812AS 41N3268 LEN 160GB | 1        | 6.67%   |
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
-| KingSpec NT-256 256GB                 | 1        | 6.67%   |
+| KingSpec NT-256 256GB SSD             | 1        | 6.67%   |
 | KingDian S200 60GB                    | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
@@ -1340,7 +1340,7 @@ Controller models
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 3        | 11.11%  |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2        | 7.41%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 2        | 7.41%   |
-| TP-Link TL WN823N RTL8192EU                                       | 1        | 3.7%    |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 3.7%    |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 3.7%    |
 | Realtek 802.11ac NIC                                              | 1        | 3.7%    |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1        | 3.7%    |
@@ -1380,7 +1380,7 @@ Wireless models
 |------------------------------------------------------------|----------|---------|
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 2        | 20%     |
 | Realtek RTL8192CU 802.11n WLAN Adapter                     | 2        | 20%     |
-| TP-Link TL WN823N RTL8192EU                                | 1        | 10%     |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 10%     |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 10%     |
 | Realtek 802.11ac NIC                                       | 1        | 10%     |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter | 1        | 10%     |

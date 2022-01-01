@@ -2132,9 +2132,9 @@ Memory module models
 | Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3 1600MT/s       | 1        | 2.04%   |
 | Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s    | 1        | 2.04%   |
 | SK Hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
-| SK Hynix RAM HMT325U6CFR8C-PB 2048MB DIMM DDR3 1600MT/s   | 1        | 2.04%   |
-| Samsung RAM M391B5273CH0-CH9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.04%   |
-| Samsung RAM M378B5773DH0-CH9 2048MB DIMM DDR3 1333MT/s    | 1        | 2.04%   |
+| SK Hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
+| Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s       | 1        | 2.04%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s       | 1        | 2.04%   |
 | Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM DDR2 1639MT/s   | 1        | 2.04%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 2048MT/s      | 1        | 2.04%   |
 | Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s        | 1        | 2.04%   |
@@ -2143,8 +2143,8 @@ Memory module models
 | Kingston RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 2.04%   |
 | Kingston RAM Module 4096MB DIMM DDR3 1333MT/s             | 1        | 2.04%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 2.04%   |
-| Kingston RAM KHX2666C16/8G 8192MB DIMM DDR4 3200MT/s      | 1        | 2.04%   |
-| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 2400MT/s    | 1        | 2.04%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3200MT/s         | 1        | 2.04%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s       | 1        | 2.04%   |
 | Kingston RAM K531R8-ETB 4096MB DIMM DDR3 1600MT/s         | 1        | 2.04%   |
 | Kingston RAM CL16-16-16 D4-2400 8192MB DIMM DDR4 2134MT/s | 1        | 2.04%   |
 | Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s  | 1        | 2.04%   |
@@ -2153,7 +2153,7 @@ Memory module models
 | G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2400MT/s        | 1        | 2.04%   |
 | G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s         | 1        | 2.04%   |
 | G.Skill RAM F3-1333C9-4GSL 4096MB SODIMM DDR3 1333MT/s    | 1        | 2.04%   |
-| Crucial RAM CT51264BA160BJ.C8 4096MB DIMM DDR3 1600MT/s   | 1        | 2.04%   |
+| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
 | Corsair RAM CMX8GX3M1A1333C9 8192MB DIMM DDR3 1333MT/s    | 1        | 2.04%   |
 | Corsair RAM CMW16GX4M1Z3600C18 16384MB DIMM DDR4 3000MT/s | 1        | 2.04%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 2.04%   |
@@ -2161,7 +2161,7 @@ Memory module models
 | Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s     | 1        | 2.04%   |
 | Corsair RAM CM4X8GD3200C16K4 8192MB DIMM DDR4 2133MT/s    | 1        | 2.04%   |
 | Corsair RAM CM4X16GC3000C16K4D 16384MB DIMM DDR4 3000MT/s | 1        | 2.04%   |
-| Axiom RAM 51264Y133IHYN 4096MB DIMM DDR3 1333MT/s         | 1        | 2.04%   |
+| Axiom RAM 51264Y133IHYN 4GB DIMM DDR3 1333MT/s            | 1        | 2.04%   |
 
 Memory Kind
 -----------
@@ -2315,7 +2315,7 @@ Camera device models
 | Microsoft LifeCam HD-3000 | 1        | 14.29%  |
 | Logitech Webcam Pro 9000  | 1        | 14.29%  |
 | Logitech Webcam C270      | 1        | 14.29%  |
-| Huawei HiCamera           | 1        | 14.29%  |
+| Huawei UVC Camera         | 1        | 14.29%  |
 | Generalplus 808 Camera    | 1        | 14.29%  |
 
 Security

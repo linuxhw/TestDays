@@ -1066,7 +1066,7 @@ Hard drive models
 | WDC WD3200AAJS-56B4A0 320GB         | 1        | 0.87%   |
 | WDC WD2500BEVT-22A23T0 250GB        | 1        | 0.87%   |
 | WDC WD2500AVJB-63WKA0 250GB         | 1        | 0.87%   |
-| WDC WD2500AAJS-75M0A0 249GB         | 1        | 0.87%   |
+| WDC WD2500AAJS-75M0A0 250GB         | 1        | 0.87%   |
 | WDC WD2500AAJS-00VTA0 250GB         | 1        | 0.87%   |
 | WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.87%   |
 | WDC WD20EURS-63S48Y0 2TB            | 1        | 0.87%   |
@@ -1411,11 +1411,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| IDE  | 49       | 53.85%  |
-| SATA | 32       | 35.16%  |
-| RAID | 8        | 8.79%   |
-| SAS  | 1        | 1.1%    |
-| NVMe | 1        | 1.1%    |
+| IDE  | 49       | 54.44%  |
+| SATA | 32       | 35.56%  |
+| RAID | 7        | 7.78%   |
+| SAS  | 1        | 1.11%   |
+| NVMe | 1        | 1.11%   |
 
 Processor
 ---------
@@ -2143,7 +2143,7 @@ Controller models
 | 3Com 3c905B 100BaseTX [Cyclone]                                               | 2        | 1.56%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.78%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                  | 1        | 0.78%   |
-| TP-Link TL WN823N RTL8192EU                                                   | 1        | 0.78%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                   | 1        | 0.78%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                              | 1        | 0.78%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 1        | 0.78%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                        | 1        | 0.78%   |
@@ -2229,7 +2229,7 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                       | 2        | 4.26%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                       | 2        | 4.26%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                           | 1        | 2.13%   |
-| TP-Link TL WN823N RTL8192EU                                                            | 1        | 2.13%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                            | 1        | 2.13%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                                       | 1        | 2.13%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                        | 1        | 2.13%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                 | 1        | 2.13%   |
@@ -2553,13 +2553,13 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 800MT/s                   | 1        | 5.56%   |
 | Unknown RAM Module 1024MB DIMM 41632MT/s                 | 1        | 5.56%   |
 | SK Hynix RAM Module 2GB DIMM DDR3 1600MT/s               | 1        | 5.56%   |
-| SK Hynix RAM HMT125U6TFR8C-H9 2048MB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
+| SK Hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s     | 1        | 5.56%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0-CH9 2048MB DIMM 1600MT/s        | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 5.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 5.56%   |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 5.56%   |
 | Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2400MT/s     | 1        | 5.56%   |

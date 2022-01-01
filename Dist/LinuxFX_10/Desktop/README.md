@@ -157,6 +157,8 @@ Test Cases
 
 | Vendor   | Model               | Probe                                                      | Date         |
 |----------|---------------------|------------------------------------------------------------|--------------|
+| ASRock   | 970 Extreme4        | [a30d1aa4b9](https://linux-hardware.org/?probe=a30d1aa4b9) | Dec 29, 2021 |
+| Gigabyte | G31M-ES2C           | [5afa9a7018](https://linux-hardware.org/?probe=5afa9a7018) | Dec 23, 2021 |
 | ASRock   | 970 Extreme4        | [85b942a5c3](https://linux-hardware.org/?probe=85b942a5c3) | Oct 30, 2021 |
 | ASRock   | 970 Extreme4        | [022942c4aa](https://linux-hardware.org/?probe=022942c4aa) | Oct 30, 2021 |
 | MSI      | MS-7309             | [33faf5dbef](https://linux-hardware.org/?probe=33faf5dbef) | Oct 14, 2021 |
@@ -568,10 +570,10 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 8        | 38.1%   |
-| 2      | 7        | 33.33%  |
-| 3      | 5        | 23.81%  |
-| 4      | 1        | 4.76%   |
+| 1      | 8        | 36.36%  |
+| 2      | 7        | 31.82%  |
+| 3      | 6        | 27.27%  |
+| 4      | 1        | 4.55%   |
 
 Has CD-ROM
 ----------
@@ -692,25 +694,25 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 9        | 9      | 25%     |
-| Seagate             | 4        | 7      | 11.11%  |
-| Hitachi             | 3        | 3      | 8.33%   |
-| Toshiba             | 2        | 2      | 5.56%   |
-| Samsung Electronics | 2        | 3      | 5.56%   |
-| MAXTOR              | 2        | 2      | 5.56%   |
-| Kingston            | 2        | 3      | 5.56%   |
-| XPG                 | 1        | 1      | 2.78%   |
-| TO Exter            | 1        | 1      | 2.78%   |
-| SanDisk             | 1        | 1      | 2.78%   |
-| PNY                 | 1        | 1      | 2.78%   |
-| Phison              | 1        | 1      | 2.78%   |
-| Patriot             | 1        | 1      | 2.78%   |
-| OCZ                 | 1        | 1      | 2.78%   |
-| Mushkin             | 1        | 1      | 2.78%   |
-| Hewlett-Packard     | 1        | 1      | 2.78%   |
-| China               | 1        | 1      | 2.78%   |
-| ASMT109x            | 1        | 1      | 2.78%   |
-| A-DATA Technology   | 1        | 1      | 2.78%   |
+| WDC                 | 9        | 10     | 24.32%  |
+| Seagate             | 4        | 7      | 10.81%  |
+| Samsung Electronics | 3        | 4      | 8.11%   |
+| Hitachi             | 3        | 3      | 8.11%   |
+| Toshiba             | 2        | 2      | 5.41%   |
+| MAXTOR              | 2        | 2      | 5.41%   |
+| Kingston            | 2        | 3      | 5.41%   |
+| XPG                 | 1        | 1      | 2.7%    |
+| TO Exter            | 1        | 1      | 2.7%    |
+| SanDisk             | 1        | 1      | 2.7%    |
+| PNY                 | 1        | 1      | 2.7%    |
+| Phison              | 1        | 1      | 2.7%    |
+| Patriot             | 1        | 1      | 2.7%    |
+| OCZ                 | 1        | 1      | 2.7%    |
+| Mushkin             | 1        | 1      | 2.7%    |
+| Hewlett-Packard     | 1        | 1      | 2.7%    |
+| China               | 1        | 1      | 2.7%    |
+| ASMT109x            | 1        | 1      | 2.7%    |
+| A-DATA Technology   | 1        | 2      | 2.7%    |
 
 Drive Model
 -----------
@@ -722,45 +724,46 @@ Hard drive models
 
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
-| WDC WD10EZEX-08WN4A0 1TB           | 2        | 5%      |
-| XPG GAMMIX S11 Pro 1TB             | 1        | 2.5%    |
-| WDC WD5000AAKX-001CA0 500GB        | 1        | 2.5%    |
-| WDC WD5000AACS-00G8B1 500GB        | 1        | 2.5%    |
-| WDC WD400JD-55MSA1 40GB            | 1        | 2.5%    |
-| WDC WD2500BEVS-22UST0 250GB        | 1        | 2.5%    |
-| WDC WD20EZRX-00D8PB0 2TB           | 1        | 2.5%    |
-| WDC WD10EARX-00N0YB0 1TB           | 1        | 2.5%    |
-| WDC WD1003FZEX-00MK2A0 1TB         | 1        | 2.5%    |
-| Toshiba MQ01ACF050 500GB           | 1        | 2.5%    |
-| Toshiba MQ01ABD050 500GB           | 1        | 2.5%    |
-| TO Exter nal USB 3.0 1TB           | 1        | 2.5%    |
-| Seagate ST500LX012-SSHD-8GB        | 1        | 2.5%    |
-| Seagate ST500DM002-1BD142 500GB    | 1        | 2.5%    |
-| Seagate ST3200826AS 200GB          | 1        | 2.5%    |
-| Seagate ST3160318AS 160GB          | 1        | 2.5%    |
-| Seagate ST3160215A 160GB           | 1        | 2.5%    |
-| Seagate ST31500341AS 1TB           | 1        | 2.5%    |
-| Seagate ST250DM000-1BD141 250GB    | 1        | 2.5%    |
-| SanDisk SD9SN8W256G1002 256GB SSD  | 1        | 2.5%    |
-| Samsung HD501LJ 500GB              | 1        | 2.5%    |
-| Samsung HD321KJ 320GB              | 1        | 2.5%    |
-| Samsung HD161HJ 41R0186LEN 160GB   | 1        | 2.5%    |
-| PNY SSD2SC240G1SA754D117-443 240GB | 1        | 2.5%    |
-| Phison NVMe SSD Drive 1TB          | 1        | 2.5%    |
-| Patriot Burst 120GB SSD            | 1        | 2.5%    |
-| OCZ ARC100 240GB SSD               | 1        | 2.5%    |
-| Mushkin MKNSSDSR250GB              | 1        | 2.5%    |
-| MAXTOR STM3160215AS 160GB          | 1        | 2.5%    |
-| MAXTOR 6Y120L0 122GB               | 1        | 2.5%    |
-| Kingston SV300S37A120G 120GB SSD   | 1        | 2.5%    |
-| Kingston SA400S37480G 480GB SSD    | 1        | 2.5%    |
-| Hitachi HUS724040ALE641 4TB        | 1        | 2.5%    |
-| Hitachi HDT721032SLA360 320GB      | 1        | 2.5%    |
-| Hitachi HDS725050KLA360 500GB      | 1        | 2.5%    |
-| HP SSD S700 500GB                  | 1        | 2.5%    |
-| China SATA SSD 120GB               | 1        | 2.5%    |
-| ASMT109x Config 100MB              | 1        | 2.5%    |
-| A-DATA SU800 128GB SSD             | 1        | 2.5%    |
+| WDC WD10EZEX-08WN4A0 1TB           | 2        | 4.88%   |
+| XPG GAMMIX S11 Pro 1TB             | 1        | 2.44%   |
+| WDC WD5000AAKX-001CA0 500GB        | 1        | 2.44%   |
+| WDC WD5000AACS-00G8B1 500GB        | 1        | 2.44%   |
+| WDC WD400JD-55MSA1 40GB            | 1        | 2.44%   |
+| WDC WD2500BEVS-22UST0 250GB        | 1        | 2.44%   |
+| WDC WD20EZRX-00D8PB0 2TB           | 1        | 2.44%   |
+| WDC WD10EARX-00N0YB0 1TB           | 1        | 2.44%   |
+| WDC WD1003FZEX-00MK2A0 1TB         | 1        | 2.44%   |
+| Toshiba MQ01ACF050 500GB           | 1        | 2.44%   |
+| Toshiba MQ01ABD050 500GB           | 1        | 2.44%   |
+| TO Exter nal USB 3.0 250GB         | 1        | 2.44%   |
+| Seagate ST500LX012-SSHD-8GB        | 1        | 2.44%   |
+| Seagate ST500DM002-1BD142 500GB    | 1        | 2.44%   |
+| Seagate ST3200826AS 200GB          | 1        | 2.44%   |
+| Seagate ST3160318AS 160GB          | 1        | 2.44%   |
+| Seagate ST3160215A 160GB           | 1        | 2.44%   |
+| Seagate ST31500341AS 1TB           | 1        | 2.44%   |
+| Seagate ST250DM000-1BD141 250GB    | 1        | 2.44%   |
+| SanDisk SD9SN8W256G1002 256GB SSD  | 1        | 2.44%   |
+| Samsung HD501LJ 500GB              | 1        | 2.44%   |
+| Samsung HD321KJ 320GB              | 1        | 2.44%   |
+| Samsung HD161HJ 41R0186LEN 160GB   | 1        | 2.44%   |
+| Samsung HD081GJ 80GB               | 1        | 2.44%   |
+| PNY SSD2SC240G1SA754D117-443 240GB | 1        | 2.44%   |
+| Phison NVMe SSD Drive 1TB          | 1        | 2.44%   |
+| Patriot Burst 120GB SSD            | 1        | 2.44%   |
+| OCZ ARC100 240GB SSD               | 1        | 2.44%   |
+| Mushkin MKNSSDSR250GB              | 1        | 2.44%   |
+| MAXTOR STM3160215AS 160GB          | 1        | 2.44%   |
+| MAXTOR 6Y120L0 122GB               | 1        | 2.44%   |
+| Kingston SV300S37A120G 120GB SSD   | 1        | 2.44%   |
+| Kingston SA400S37480G 480GB SSD    | 1        | 2.44%   |
+| Hitachi HUS724040ALE641 4TB        | 1        | 2.44%   |
+| Hitachi HDT721032SLA360 320GB      | 1        | 2.44%   |
+| Hitachi HDS725050KLA360 500GB      | 1        | 2.44%   |
+| HP SSD S700 500GB                  | 1        | 2.44%   |
+| China SATA SSD 120GB               | 1        | 2.44%   |
+| ASMT109x Config 100MB              | 1        | 2.44%   |
+| A-DATA SU800 128GB SSD             | 1        | 2.44%   |
 
 HDD Vendor
 ----------
@@ -772,14 +775,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 9        | 9      | 37.5%   |
-| Seagate             | 4        | 7      | 16.67%  |
-| Hitachi             | 3        | 3      | 12.5%   |
-| Toshiba             | 2        | 2      | 8.33%   |
-| Samsung Electronics | 2        | 3      | 8.33%   |
-| MAXTOR              | 2        | 2      | 8.33%   |
-| TO Exter            | 1        | 1      | 4.17%   |
-| ASMT109x            | 1        | 1      | 4.17%   |
+| WDC                 | 9        | 10     | 36%     |
+| Seagate             | 4        | 7      | 16%     |
+| Samsung Electronics | 3        | 4      | 12%     |
+| Hitachi             | 3        | 3      | 12%     |
+| Toshiba             | 2        | 2      | 8%      |
+| MAXTOR              | 2        | 2      | 8%      |
+| TO Exter            | 1        | 1      | 4%      |
+| ASMT109x            | 1        | 1      | 4%      |
 
 SSD Vendor
 ----------
@@ -799,7 +802,7 @@ Solid state drive vendors
 | Mushkin           | 1        | 1      | 10%     |
 | Hewlett-Packard   | 1        | 1      | 10%     |
 | China             | 1        | 1      | 10%     |
-| A-DATA Technology | 1        | 1      | 10%     |
+| A-DATA Technology | 1        | 2      | 10%     |
 
 Drive Kind
 ----------
@@ -811,9 +814,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 18       | 28     | 62.07%  |
-| SSD  | 9        | 11     | 31.03%  |
-| NVMe | 2        | 2      | 6.9%    |
+| HDD  | 19       | 30     | 63.33%  |
+| SSD  | 9        | 12     | 30%     |
+| NVMe | 2        | 2      | 6.67%   |
 
 Drive Connector
 ---------------
@@ -825,9 +828,9 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 20       | 38     | 86.96%  |
-| NVMe | 2        | 2      | 8.7%    |
-| SAS  | 1        | 1      | 4.35%   |
+| SATA | 21       | 41     | 87.5%   |
+| NVMe | 2        | 2      | 8.33%   |
+| SAS  | 1        | 1      | 4.17%   |
 
 Drive Size
 ----------
@@ -839,10 +842,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 31     | 70.37%  |
-| 0.51-1.0   | 6        | 6      | 22.22%  |
-| 3.01-4.0   | 1        | 1      | 3.7%    |
-| 1.01-2.0   | 1        | 1      | 3.7%    |
+| 0.01-0.5   | 21       | 34     | 75%     |
+| 0.51-1.0   | 5        | 6      | 17.86%  |
+| 3.01-4.0   | 1        | 1      | 3.57%   |
+| 1.01-2.0   | 1        | 1      | 3.57%   |
 
 Space Total
 -----------
@@ -872,39 +875,59 @@ Amount of used disk space
 
 | Used GB | Desktops | Percent |
 |---------|----------|---------|
-| 1-20    | 10       | 47.62%  |
-| 101-250 | 4        | 19.05%  |
-| 21-50   | 3        | 14.29%  |
-| 251-500 | 2        | 9.52%   |
-| 51-100  | 2        | 9.52%   |
+| 1-20    | 10       | 45.45%  |
+| 101-250 | 4        | 18.18%  |
+| 21-50   | 3        | 13.64%  |
+| 51-100  | 3        | 13.64%  |
+| 251-500 | 2        | 9.09%   |
 
 Malfunc. Drives
 ---------------
 
 Drive models with a malfunction
 
-Zero info for selected period =(
+![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
+
+
+| Model                            | Desktops | Drives | Percent |
+|----------------------------------|----------|--------|---------|
+| Samsung Electronics HD081GJ 80GB | 1        | 1      | 100%    |
 
 Malfunc. Drive Vendor
 ---------------------
 
 Vendors of faulty drives
 
-Zero info for selected period =(
+![Malfunc. Drive Vendor](./images/pie_chart/drive_malfunc_vendor.svg)
+
+
+| Vendor              | Desktops | Drives | Percent |
+|---------------------|----------|--------|---------|
+| Samsung Electronics | 1        | 1      | 100%    |
 
 Malfunc. HDD Vendor
 -------------------
 
 Vendors of faulty HDD drives
 
-Zero info for selected period =(
+![Malfunc. HDD Vendor](./images/pie_chart/drive_malfunc_hdd_vendor.svg)
+
+
+| Vendor              | Desktops | Drives | Percent |
+|---------------------|----------|--------|---------|
+| Samsung Electronics | 1        | 1      | 100%    |
 
 Malfunc. Drive Kind
 -------------------
 
 Kinds of faulty drives
 
-Zero info for selected period =(
+![Malfunc. Drive Kind](./images/pie_chart/drive_malfunc_kind.svg)
+
+
+| Kind | Desktops | Drives | Percent |
+|------|----------|--------|---------|
+| HDD  | 1        | 1      | 100%    |
 
 Failed Drives
 -------------
@@ -930,8 +953,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 20       | 38     | 90.91%  |
-| Works    | 2        | 3      | 9.09%   |
+| Detected | 20       | 40     | 86.96%  |
+| Works    | 2        | 3      | 8.7%    |
+| Malfunc  | 1        | 1      | 4.35%   |
 
 Storage controller
 ------------------
@@ -1241,9 +1265,9 @@ Free vs proprietary
 
 | Driver      | Desktops | Percent |
 |-------------|----------|---------|
-| Free        | 16       | 76.19%  |
-| Unknown     | 4        | 19.05%  |
-| Proprietary | 1        | 4.76%   |
+| Free        | 17       | 77.27%  |
+| Unknown     | 4        | 18.18%  |
+| Proprietary | 1        | 4.55%   |
 
 GPU Memory
 ----------
@@ -1255,11 +1279,11 @@ Total video memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 12       | 57.14%  |
-| 1.01-2.0   | 3        | 14.29%  |
-| 0.01-0.5   | 3        | 14.29%  |
-| 3.01-4.0   | 2        | 9.52%   |
-| 0.51-1.0   | 1        | 4.76%   |
+| Unknown    | 12       | 54.55%  |
+| 1.01-2.0   | 3        | 13.64%  |
+| 0.01-0.5   | 3        | 13.64%  |
+| 3.01-4.0   | 2        | 9.09%   |
+| 0.51-1.0   | 2        | 9.09%   |
 
 Monitor
 -------
@@ -1478,7 +1502,7 @@ Controller models
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                        | 1        | 3.13%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                          | 1        | 3.13%   |
 | Realtek 802.11ac NIC                                                         | 1        | 3.13%   |
-| Qualcomm SM6150-IDP _SN:86979BB5                                             | 1        | 3.13%   |
+| Qualcomm SDM636-QRD _SN:494F4540                                             | 1        | 3.13%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                   | 1        | 3.13%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                   | 1        | 3.13%   |
 | Intel Wireless 7260                                                          | 1        | 3.13%   |
@@ -1550,7 +1574,7 @@ Ethernet models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 16       | 72.73%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 9.09%   |
 | Nvidia MCP61 Ethernet                                             | 2        | 9.09%   |
-| Qualcomm SM6150-IDP _SN:86979BB5                                  | 1        | 4.55%   |
+| Qualcomm SDM636-QRD _SN:494F4540                                  | 1        | 4.55%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 4.55%   |
 
 Net Controller Kind
@@ -1711,9 +1735,10 @@ Memory module vendors
 
 | Vendor   | Desktops | Percent |
 |----------|----------|---------|
-| Corsair  | 3        | 60%     |
-| Kingston | 1        | 20%     |
-| G.Skill  | 1        | 20%     |
+| Corsair  | 3        | 50%     |
+| Unknown  | 1        | 16.67%  |
+| Kingston | 1        | 16.67%  |
+| G.Skill  | 1        | 16.67%  |
 
 Memory Model
 ------------
@@ -1723,13 +1748,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s   | 1        | 20%     |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s    | 1        | 20%     |
-| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 20%     |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s  | 1        | 20%     |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s  | 1        | 20%     |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 14.29%  |
+| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 14.29%  |
+| Kingston RAM KHX2400C11D3/8GX 8192MB DIMM DDR3 2400MT/s  | 1        | 14.29%  |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s      | 1        | 14.29%  |
+| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1        | 14.29%  |
+| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s | 1        | 14.29%  |
 
 Memory Kind
 -----------
@@ -1739,10 +1766,11 @@ Memory module kinds
 ![Memory Kind](./images/pie_chart/memory_kind.svg)
 
 
-| Kind | Desktops | Percent |
-|------|----------|---------|
-| DDR4 | 2        | 50%     |
-| DDR3 | 2        | 50%     |
+| Kind    | Desktops | Percent |
+|---------|----------|---------|
+| DDR4    | 2        | 40%     |
+| DDR3    | 2        | 40%     |
+| Unknown | 1        | 20%     |
 
 Memory Form Factor
 ------------------
@@ -1754,7 +1782,7 @@ Physical design of the memory module
 
 | Name | Desktops | Percent |
 |------|----------|---------|
-| DIMM | 4        | 100%    |
+| DIMM | 5        | 100%    |
 
 Memory Size
 -----------
@@ -1766,8 +1794,10 @@ Memory module size
 
 | Size | Desktops | Percent |
 |------|----------|---------|
-| 8192 | 3        | 75%     |
-| 4096 | 1        | 25%     |
+| 8192 | 3        | 50%     |
+| 4096 | 1        | 16.67%  |
+| 2048 | 1        | 16.67%  |
+| 1024 | 1        | 16.67%  |
 
 Memory Speed
 ------------
@@ -1779,10 +1809,12 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 2        | 40%     |
-| 3266  | 1        | 20%     |
-| 3200  | 1        | 20%     |
-| 2400  | 1        | 20%     |
+| 1600  | 2        | 28.57%  |
+| 3266  | 1        | 14.29%  |
+| 3200  | 1        | 14.29%  |
+| 2400  | 1        | 14.29%  |
+| 800   | 1        | 14.29%  |
+| 667   | 1        | 14.29%  |
 
 Printers & scanners
 -------------------
@@ -1902,8 +1934,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 14       | 66.67%  |
-| 1     | 7        | 33.33%  |
+| 0     | 15       | 68.18%  |
+| 1     | 7        | 31.82%  |
 
 Unsupported Device Types
 ------------------------

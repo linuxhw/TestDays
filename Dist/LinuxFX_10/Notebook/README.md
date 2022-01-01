@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| Toshiba  | Satellite C660              | [47b40007ee](https://linux-hardware.org/?probe=47b40007ee) | Dec 04, 2021 |
 | Dell     | Inspiron 1501               | [94ca9e7f47](https://linux-hardware.org/?probe=94ca9e7f47) | Nov 12, 2021 |
 | Dell     | Latitude E6420              | [dc9a1e9c1b](https://linux-hardware.org/?probe=dc9a1e9c1b) | Oct 18, 2021 |
 | HP       | 250 G7 Notebook PC          | [7368bcaf0a](https://linux-hardware.org/?probe=7368bcaf0a) | Oct 04, 2021 |
@@ -771,18 +772,19 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 8         | 9      | 20%     |
-| Seagate             | 8         | 8      | 20%     |
-| Toshiba             | 5         | 5      | 12.5%   |
-| Kingston            | 4         | 4      | 10%     |
-| Samsung Electronics | 3         | 3      | 7.5%    |
-| Hitachi             | 3         | 4      | 7.5%    |
-| Unknown             | 2         | 3      | 5%      |
-| LITEONIT            | 2         | 2      | 5%      |
-| HGST                | 2         | 3      | 5%      |
-| SanDisk             | 1         | 1      | 2.5%    |
-| GOODRAM             | 1         | 1      | 2.5%    |
-| A-DATA Technology   | 1         | 1      | 2.5%    |
+| WDC                 | 8         | 9      | 19.51%  |
+| Seagate             | 8         | 8      | 19.51%  |
+| Toshiba             | 5         | 5      | 12.2%   |
+| Kingston            | 4         | 4      | 9.76%   |
+| Samsung Electronics | 3         | 3      | 7.32%   |
+| Hitachi             | 3         | 4      | 7.32%   |
+| Unknown             | 2         | 3      | 4.88%   |
+| LITEONIT            | 2         | 2      | 4.88%   |
+| HGST                | 2         | 3      | 4.88%   |
+| SanDisk             | 1         | 1      | 2.44%   |
+| GOODRAM             | 1         | 1      | 2.44%   |
+| Crucial             | 1         | 1      | 2.44%   |
+| A-DATA Technology   | 1         | 1      | 2.44%   |
 
 Drive Model
 -----------
@@ -794,45 +796,46 @@ Hard drive models
 
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
-| Toshiba MQ01ABF050 500GB             | 2         | 5%      |
-| WDC WD5000LPVX-22V0TT0 500GB         | 1         | 2.5%    |
-| WDC WD5000LPVT-24G33T1 500GB         | 1         | 2.5%    |
-| WDC WD3200BPVT-22JJ5T0 320GB         | 1         | 2.5%    |
-| WDC WD3200BEVT-80A0RT0 320GB         | 1         | 2.5%    |
-| WDC WD1200BEVS-75UST0 120GB          | 1         | 2.5%    |
-| WDC WD10JPVX-60JC3T1 1TB             | 1         | 2.5%    |
-| WDC WD10JPVX-22JC3T0 1TB             | 1         | 2.5%    |
-| WDC PC SA530 SDASN8Y-256G-1006 256GB | 1         | 2.5%    |
-| Unknown NVMe SSD Drive 512GB         | 1         | 2.5%    |
-| Unknown MMC Card  8GB                | 1         | 2.5%    |
-| Toshiba MQ01ABF032 320GB             | 1         | 2.5%    |
-| Toshiba MK5059GSXP 500GB             | 1         | 2.5%    |
-| Toshiba MK2561GSYN 250GB             | 1         | 2.5%    |
-| Seagate ST9320325AS 320GB            | 1         | 2.5%    |
-| Seagate ST9160827AS 160GB            | 1         | 2.5%    |
-| Seagate ST9160821AS 160GB            | 1         | 2.5%    |
-| Seagate ST9160314AS 160GB            | 1         | 2.5%    |
-| Seagate ST500LT012-9WS142 500GB      | 1         | 2.5%    |
-| Seagate ST500LM021-1KJ152 500GB      | 1         | 2.5%    |
-| Seagate ST500LM012 HN-M500MBB 500GB  | 1         | 2.5%    |
-| Seagate ST1000LM035-1RK172 1TB       | 1         | 2.5%    |
-| SanDisk SSD PLUS 1000GB              | 1         | 2.5%    |
-| Samsung SSD 850 EVO 250GB            | 1         | 2.5%    |
-| Samsung MZMPC032HBCD-000D1 32GB SSD  | 1         | 2.5%    |
-| Samsung HM321HI 320GB                | 1         | 2.5%    |
-| LITEONIT LMT-256M6M-HP 256GB SSD     | 1         | 2.5%    |
-| LITEONIT LGT-256M6G 256GB SSD        | 1         | 2.5%    |
-| Kingston SV300S37A120G 120GB SSD     | 1         | 2.5%    |
-| Kingston SUV400S37120G 120GB SSD     | 1         | 2.5%    |
-| Kingston SA400S37240G 240GB SSD      | 1         | 2.5%    |
-| Kingston NVMe SSD Drive 512GB        | 1         | 2.5%    |
-| Hitachi HTS722080K9A300 80GB         | 1         | 2.5%    |
-| Hitachi HTS722012K9A300 120GB        | 1         | 2.5%    |
-| Hitachi HTS545050B9A300 500GB        | 1         | 2.5%    |
-| HGST HTS721010A9E630 1TB             | 1         | 2.5%    |
-| HGST HTS545025A7E380 250GB           | 1         | 2.5%    |
-| GOODRAM SSDPR-CX300-240 240GB        | 1         | 2.5%    |
-| A-DATA SU750 256GB SSD               | 1         | 2.5%    |
+| Toshiba MQ01ABF050 500GB             | 2         | 4.88%   |
+| WDC WD5000LPVX-22V0TT0 500GB         | 1         | 2.44%   |
+| WDC WD5000LPVT-24G33T1 500GB         | 1         | 2.44%   |
+| WDC WD3200BPVT-22JJ5T0 320GB         | 1         | 2.44%   |
+| WDC WD3200BEVT-80A0RT0 320GB         | 1         | 2.44%   |
+| WDC WD1200BEVS-75UST0 120GB          | 1         | 2.44%   |
+| WDC WD10JPVX-60JC3T1 1TB             | 1         | 2.44%   |
+| WDC WD10JPVX-22JC3T0 1TB             | 1         | 2.44%   |
+| WDC PC SA530 SDASN8Y-256G-1006 256GB | 1         | 2.44%   |
+| Unknown NVMe SSD Drive 512GB         | 1         | 2.44%   |
+| Unknown MMC Card  8GB                | 1         | 2.44%   |
+| Toshiba MQ01ABF032 320GB             | 1         | 2.44%   |
+| Toshiba MK5059GSXP 500GB             | 1         | 2.44%   |
+| Toshiba MK2561GSYN 250GB             | 1         | 2.44%   |
+| Seagate ST9320325AS 320GB            | 1         | 2.44%   |
+| Seagate ST9160827AS 160GB            | 1         | 2.44%   |
+| Seagate ST9160821AS 160GB            | 1         | 2.44%   |
+| Seagate ST9160314AS 160GB            | 1         | 2.44%   |
+| Seagate ST500LT012-9WS142 500GB      | 1         | 2.44%   |
+| Seagate ST500LM021-1KJ152 500GB      | 1         | 2.44%   |
+| Seagate ST500LM012 HN-M500MBB 500GB  | 1         | 2.44%   |
+| Seagate ST1000LM035-1RK172 1TB       | 1         | 2.44%   |
+| SanDisk SSD PLUS 1000GB              | 1         | 2.44%   |
+| Samsung SSD 850 EVO 250GB            | 1         | 2.44%   |
+| Samsung MZMPC032HBCD-000D1 32GB SSD  | 1         | 2.44%   |
+| Samsung HM321HI 320GB                | 1         | 2.44%   |
+| LITEONIT LMT-256M6M-HP 256GB SSD     | 1         | 2.44%   |
+| LITEONIT LGT-256M6G 256GB SSD        | 1         | 2.44%   |
+| Kingston SV300S37A120G 120GB SSD     | 1         | 2.44%   |
+| Kingston SUV400S37120G 120GB SSD     | 1         | 2.44%   |
+| Kingston SA400S37240G 240GB SSD      | 1         | 2.44%   |
+| Kingston NVMe SSD Drive 512GB        | 1         | 2.44%   |
+| Hitachi HTS722080K9A300 80GB         | 1         | 2.44%   |
+| Hitachi HTS722012K9A300 120GB        | 1         | 2.44%   |
+| Hitachi HTS545050B9A300 500GB        | 1         | 2.44%   |
+| HGST HTS721010A9E630 1TB             | 1         | 2.44%   |
+| HGST HTS545025A7E380 250GB           | 1         | 2.44%   |
+| GOODRAM SSDPR-CX300-240 240GB        | 1         | 2.44%   |
+| Crucial CT250MX500SSD1 250GB         | 1         | 2.44%   |
+| A-DATA SU750 256GB SSD               | 1         | 2.44%   |
 
 HDD Vendor
 ----------
@@ -861,13 +864,14 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Kingston            | 3         | 3      | 27.27%  |
-| Samsung Electronics | 2         | 2      | 18.18%  |
-| LITEONIT            | 2         | 2      | 18.18%  |
-| WDC                 | 1         | 2      | 9.09%   |
-| SanDisk             | 1         | 1      | 9.09%   |
-| GOODRAM             | 1         | 1      | 9.09%   |
-| A-DATA Technology   | 1         | 1      | 9.09%   |
+| Kingston            | 3         | 3      | 25%     |
+| Samsung Electronics | 2         | 2      | 16.67%  |
+| LITEONIT            | 2         | 2      | 16.67%  |
+| WDC                 | 1         | 2      | 8.33%   |
+| SanDisk             | 1         | 1      | 8.33%   |
+| GOODRAM             | 1         | 1      | 8.33%   |
+| Crucial             | 1         | 1      | 8.33%   |
+| A-DATA Technology   | 1         | 1      | 8.33%   |
 
 Drive Kind
 ----------
@@ -879,10 +883,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 25        | 28     | 64.1%   |
-| SSD  | 11        | 12     | 28.21%  |
-| NVMe | 2         | 3      | 5.13%   |
-| MMC  | 1         | 1      | 2.56%   |
+| HDD  | 25        | 28     | 62.5%   |
+| SSD  | 12        | 13     | 30%     |
+| NVMe | 2         | 3      | 5%      |
+| MMC  | 1         | 1      | 2.5%    |
 
 Drive Connector
 ---------------
@@ -894,9 +898,9 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 35        | 40     | 92.11%  |
-| NVMe | 2         | 3      | 5.26%   |
-| MMC  | 1         | 1      | 2.63%   |
+| SATA | 36        | 41     | 92.31%  |
+| NVMe | 2         | 3      | 5.13%   |
+| MMC  | 1         | 1      | 2.56%   |
 
 Drive Size
 ----------
@@ -908,8 +912,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 31        | 34     | 86.11%  |
-| 0.51-1.0   | 5         | 6      | 13.89%  |
+| 0.01-0.5   | 32        | 35     | 86.49%  |
+| 0.51-1.0   | 5         | 6      | 13.51%  |
 
 Space Total
 -----------
@@ -1021,9 +1025,9 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 33        | 40     | 89.19%  |
-| Malfunc  | 2         | 2      | 5.41%   |
-| Works    | 2         | 2      | 5.41%   |
+| Detected | 34        | 41     | 89.47%  |
+| Malfunc  | 2         | 2      | 5.26%   |
+| Works    | 2         | 2      | 5.26%   |
 
 Storage controller
 ------------------
@@ -1831,13 +1835,13 @@ Controller models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                          | 3         | 14.29%  |
-| Intel Bluetooth Device                                      | 3         | 14.29%  |
+| Realtek  Bluetooth 4.2 Adapter                              | 2         | 9.52%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 9.52%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 9.52%   |
+| Intel Centrino Bluetooth Wireless Transceiver               | 2         | 9.52%   |
+| Intel Bluetooth wireless interface                          | 2         | 9.52%   |
+| Intel Bluetooth Device                                      | 2         | 9.52%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 2         | 9.52%   |
-| Realtek  Bluetooth 4.2 Adapter                              | 1         | 4.76%   |
-| Realtek 802.11n WLAN Adapter                                | 1         | 4.76%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 4.76%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 4.76%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 1         | 4.76%   |
@@ -1931,7 +1935,7 @@ Memory module models
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM SDRAM                       | 1         | 20%     |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 20%     |
+| SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 20%     |
 | SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1         | 20%     |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s      | 1         | 20%     |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s   | 1         | 20%     |
