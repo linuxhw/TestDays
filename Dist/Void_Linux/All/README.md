@@ -1,7 +1,7 @@
-Void - Tested Hardware & Statistics
------------------------------------
+Void Linux - Tested Hardware & Statistics
+-----------------------------------------
 
-A project to collect tested hardware configurations for Void.
+A project to collect tested hardware configurations for Void Linux.
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 
@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-This is a report for all computer types. See also reports for [desktops](/Dist/Void/Desktop/README.md) and [notebooks](/Dist/Void/Notebook/README.md).
+This is a report for all computer types. See also reports for [desktops](/Dist/Void_Linux/Desktop/README.md) and [notebooks](/Dist/Void_Linux/Notebook/README.md).
 
 Full-feature report is available here: https://linux-hardware.org/?view=trends
 

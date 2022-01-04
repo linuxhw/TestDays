@@ -48,4 +48,4 @@ Contents
 * [ Garuda ](/Dist/Garuda)
 * [ Mageia ](/Dist/Mageia)
 * [ Reborn OS ](/Dist/Reborn_OS)
-* [ Void ](/Dist/Void)
+* [ Void Linux ](/Dist/Void_Linux)

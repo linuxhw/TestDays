@@ -1,7 +1,7 @@
-Void - Tested Hardware & Statistics (Desktops)
-----------------------------------------------
+Void Linux - Tested Hardware & Statistics (Desktops)
+----------------------------------------------------
 
-A project to collect tested hardware configurations for Void.
+A project to collect tested hardware configurations for Void Linux.
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 

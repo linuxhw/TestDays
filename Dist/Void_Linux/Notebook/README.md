@@ -1,7 +1,7 @@
-Void - Tested Hardware & Statistics (Notebooks)
------------------------------------------------
+Void Linux - Tested Hardware & Statistics (Notebooks)
+-----------------------------------------------------
 
-A project to collect tested hardware configurations for Void.
+A project to collect tested hardware configurations for Void Linux.
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 
