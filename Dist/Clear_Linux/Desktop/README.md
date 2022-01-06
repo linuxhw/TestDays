@@ -1369,7 +1369,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 500GB        | 15       | 3.12%   |
 | Samsung NVMe SSD Drive 1TB          | 8        | 1.66%   |
 | Samsung NVMe SSD Drive 250GB        | 7        | 1.46%   |
-| Unknown SD/MMC/MS PRO 7GB           | 6        | 1.25%   |
+| Unknown SD/MMC/MS PRO 4GB           | 6        | 1.25%   |
 | Toshiba DT01ACA100 1TB              | 6        | 1.25%   |
 | Samsung SSD 850 EVO 250GB           | 6        | 1.25%   |
 | Phison NVMe SSD Drive 1TB           | 6        | 1.25%   |
@@ -1396,7 +1396,7 @@ Hard drive models
 | Phison NVMe SSD Drive 512GB         | 3        | 0.62%   |
 | Phison NVMe SSD Drive 500GB         | 3        | 0.62%   |
 | Phison NVMe SSD Drive 240GB         | 3        | 0.62%   |
-| JMicron Generic 250GB               | 3        | 0.62%   |
+| JMicron Generic 1TB                 | 3        | 0.62%   |
 | Intel NVMe SSD Drive 1024GB         | 3        | 0.62%   |
 | Crucial CT240BX500SSD1 240GB        | 3        | 0.62%   |
 | WDC WD10EZEX-60ZF5A0 1TB            | 2        | 0.42%   |
@@ -1535,13 +1535,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 142      | 250    | 52.4%   |
-| 0.51-1.0   | 66       | 83     | 24.35%  |
-| 1.01-2.0   | 29       | 35     | 10.7%   |
-| 4.01-10.0  | 13       | 17     | 4.8%    |
-| 3.01-4.0   | 11       | 14     | 4.06%   |
-| 2.01-3.0   | 6        | 6      | 2.21%   |
-| 10.01-20.0 | 4        | 6      | 1.48%   |
+| 0.01-0.5   | 141      | 246    | 51.46%  |
+| 0.51-1.0   | 69       | 86     | 25.18%  |
+| 1.01-2.0   | 29       | 35     | 10.58%  |
+| 4.01-10.0  | 14       | 18     | 5.11%   |
+| 3.01-4.0   | 11       | 14     | 4.01%   |
+| 2.01-3.0   | 6        | 6      | 2.19%   |
+| 10.01-20.0 | 4        | 6      | 1.46%   |
 
 Space Total
 -----------
@@ -2199,9 +2199,9 @@ Monitor models
 | Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch              | 5        | 1.82%   |
 | MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                | 3        | 1.09%   |
 | Samsung Electronics U28E510 SAM0D63 3840x2160 607x345mm 27.5-inch      | 2        | 0.73%   |
-| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1190x340mm 48.7-inch     | 2        | 0.73%   |
+| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch     | 2        | 0.73%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch      | 2        | 0.73%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch      | 2        | 0.73%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 2        | 0.73%   |
 | Hitachi W240D DVI HIT7D03 1920x1200 520x320mm 24.0-inch                | 2        | 0.73%   |
 | Hitachi HDMI HEC0030 4096x2160 1150x650mm 52.0-inch                    | 2        | 0.73%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 2        | 0.73%   |
@@ -2520,7 +2520,7 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                                                | 1        | 0.27%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                                         | 1        | 0.27%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 0.27%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1        | 0.27%   |
+| TP-Link 802.11ac NIC                                                                          | 1        | 0.27%   |
 | Samsung Galaxy series, misc. (tethering mode)                                                 | 1        | 0.27%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                                       | 1        | 0.27%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 0.27%   |
@@ -2594,7 +2594,7 @@ Wireless models
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                            | 2        | 1.83%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                                         | 1        | 0.92%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 0.92%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1        | 0.92%   |
+| TP-Link 802.11ac NIC                                                                          | 1        | 0.92%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                                       | 1        | 0.92%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 0.92%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 0.92%   |
@@ -2688,7 +2688,7 @@ Ethernet models
 | Samsung Galaxy series, misc. (tethering mode)                                 | 1        | 0.39%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 0.39%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 1        | 0.39%   |
-| MediaTek WP5 Pro                                                              | 1        | 0.39%   |
+| MediaTek KIICAA MIX                                                           | 1        | 0.39%   |
 | Intel Ethernet Connection (2) I218-LM                                         | 1        | 0.39%   |
 | Intel Ethernet Connection (14) I219-V                                         | 1        | 0.39%   |
 | Intel Ethernet Connection (12) I219-V                                         | 1        | 0.39%   |
@@ -2795,12 +2795,10 @@ Controller models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
+| Intel Bluetooth Device                                               | 18       | 20%     |
 | Intel AX200 Bluetooth                                                | 15       | 16.67%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                  | 15       | 16.67%  |
 | Intel Bluetooth wireless interface                                   | 10       | 11.11%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 8        | 8.89%   |
-| Intel AX210 Bluetooth                                                | 5        | 5.56%   |
-| Intel AX201 Bluetooth                                                | 5        | 5.56%   |
 | Realtek  Bluetooth 4.2 Adapter                                       | 4        | 4.44%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                             | 3        | 3.33%   |
 | Intel Wireless-AC 3168 Bluetooth                                     | 3        | 3.33%   |
