@@ -45,7 +45,7 @@ Contents
 * [ Deepin ](/Dist/Deepin)
 * [ Devuan ](/Dist/Devuan)
 * [ EndeavourOS ](/Dist/EndeavourOS)
-* [ Garuda ](/Dist/Garuda)
+* [ Garuda Linux ](/Dist/Garuda_Linux)
 * [ Mageia ](/Dist/Mageia)
 * [ Reborn OS ](/Dist/Reborn_OS)
 * [ Void Linux ](/Dist/Void_Linux)
