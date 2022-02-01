@@ -478,19 +478,17 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2009 | 4        | 19.05%  |
-| 2020 | 2        | 9.52%   |
+| 2013 | 3        | 14.29%  |
 | 2019 | 2        | 9.52%   |
-| 2015 | 2        | 9.52%   |
+| 2018 | 2        | 9.52%   |
 | 2014 | 2        | 9.52%   |
+| 2011 | 2        | 9.52%   |
 | 2010 | 2        | 9.52%   |
-| 2021 | 1        | 4.76%   |
-| 2018 | 1        | 4.76%   |
-| 2016 | 1        | 4.76%   |
-| 2013 | 1        | 4.76%   |
+| 2009 | 2        | 9.52%   |
+| 2008 | 2        | 9.52%   |
+| 2007 | 2        | 9.52%   |
+| 2015 | 1        | 4.76%   |
 | 2012 | 1        | 4.76%   |
-| 2011 | 1        | 4.76%   |
-| 2007 | 1        | 4.76%   |
 
 Form Factor
 -----------
@@ -570,10 +568,10 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 8        | 36.36%  |
-| 2      | 7        | 31.82%  |
-| 3      | 6        | 27.27%  |
-| 4      | 1        | 4.55%   |
+| 1      | 8        | 38.1%   |
+| 2      | 7        | 33.33%  |
+| 3      | 5        | 23.81%  |
+| 4      | 1        | 4.76%   |
 
 Has CD-ROM
 ----------
@@ -585,8 +583,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 14       | 66.67%  |
-| Yes       | 7        | 33.33%  |
+| No        | 14       | 63.64%  |
+| Yes       | 8        | 36.36%  |
 
 Has Ethernet
 ------------
@@ -725,7 +723,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | WDC WD10EZEX-08WN4A0 1TB           | 2        | 4.88%   |
-| XPG GAMMIX S11 Pro 1TB             | 1        | 2.44%   |
+| XPG GAMMIX S11 Pro 2TB             | 1        | 2.44%   |
 | WDC WD5000AAKX-001CA0 500GB        | 1        | 2.44%   |
 | WDC WD5000AACS-00G8B1 500GB        | 1        | 2.44%   |
 | WDC WD400JD-55MSA1 40GB            | 1        | 2.44%   |
@@ -735,7 +733,7 @@ Hard drive models
 | WDC WD1003FZEX-00MK2A0 1TB         | 1        | 2.44%   |
 | Toshiba MQ01ACF050 500GB           | 1        | 2.44%   |
 | Toshiba MQ01ABD050 500GB           | 1        | 2.44%   |
-| TO Exter nal USB 3.0 250GB         | 1        | 2.44%   |
+| TO Exter nal USB 3.0 256GB         | 1        | 2.44%   |
 | Seagate ST500LX012-SSHD-8GB        | 1        | 2.44%   |
 | Seagate ST500DM002-1BD142 500GB    | 1        | 2.44%   |
 | Seagate ST3200826AS 200GB          | 1        | 2.44%   |
@@ -1319,8 +1317,8 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 2        | 10%     |
 | ViewSonic VX3211-2K VSCF634 2560x1440 698x392mm 31.5-inch              | 1        | 5%      |
-| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                 | 1        | 5%      |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch      | 1        | 5%      |
+| Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch         | 1        | 5%      |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch      | 1        | 5%      |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch   | 1        | 5%      |
 | Samsung Electronics SMBX2331 SAM076F 1920x1080 510x290mm 23.1-inch     | 1        | 5%      |
 | Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch | 1        | 5%      |
@@ -1748,15 +1746,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 14.29%  |
-| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 14.29%  |
-| Kingston RAM KHX2400C11D3/8GX 8192MB DIMM DDR3 2400MT/s  | 1        | 14.29%  |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s      | 1        | 14.29%  |
-| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1        | 14.29%  |
-| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s | 1        | 14.29%  |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 800MT/s                  | 1        | 14.29%  |
+| Unknown RAM Module 1024MB DIMM 667MT/s                  | 1        | 14.29%  |
+| Kingston RAM KHX2400C11D3/8GX 8192MB DIMM DDR3 2400MT/s | 1        | 14.29%  |
+| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3200MT/s  | 1        | 14.29%  |
+| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s  | 1        | 14.29%  |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s   | 1        | 14.29%  |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
 
 Memory Kind
 -----------

@@ -650,17 +650,19 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2019 | 14        | 21.54%  |
-| 2020 | 12        | 18.46%  |
-| 2018 | 10        | 15.38%  |
+| 2018 | 13        | 20%     |
+| 2019 | 8         | 12.31%  |
+| 2016 | 7         | 10.77%  |
+| 2017 | 6         | 9.23%   |
+| 2013 | 6         | 9.23%   |
 | 2014 | 5         | 7.69%   |
 | 2010 | 5         | 7.69%   |
-| 2016 | 4         | 6.15%   |
-| 2013 | 4         | 6.15%   |
-| 2009 | 4         | 6.15%   |
-| 2015 | 3         | 4.62%   |
-| 2017 | 2         | 3.08%   |
-| 2012 | 1         | 1.54%   |
+| 2020 | 4         | 6.15%   |
+| 2012 | 3         | 4.62%   |
+| 2015 | 2         | 3.08%   |
+| 2009 | 2         | 3.08%   |
+| 2008 | 2         | 3.08%   |
+| 2007 | 1         | 1.54%   |
 | 2006 | 1         | 1.54%   |
 
 Form Factor
@@ -980,7 +982,7 @@ Hard drive models
 | Samsung SSD 860 EVO 250GB               | 2         | 1.68%   |
 | Samsung NVMe SSD Drive 1TB              | 2         | 1.68%   |
 | Kingston SA400S37240G 240GB SSD         | 2         | 1.68%   |
-| Intel NVMe SSD Drive 256GB              | 2         | 1.68%   |
+| Intel SSDPEKKW256G7 256GB               | 2         | 1.68%   |
 | Intel NVMe SSD Drive 1024GB             | 2         | 1.68%   |
 | WDC WDS500G2B0B-00YS70 500GB SSD        | 1         | 0.84%   |
 | WDC WDS100T2B0C-00PXH0 1TB              | 1         | 0.84%   |
@@ -1005,13 +1007,13 @@ Hard drive models
 | Unknown AJNB4R  16GB                    | 1         | 0.84%   |
 | Unknown 00000  64GB                     | 1         | 0.84%   |
 | Toshiba THNSNJ256GVNU 256GB SSD         | 1         | 0.84%   |
-| Toshiba NVMe SSD Drive 256GB            | 1         | 0.84%   |
 | Toshiba NVMe SSD Drive 1024GB           | 1         | 0.84%   |
 | Toshiba MQ01ABD075 752GB                | 1         | 0.84%   |
 | Toshiba MQ01ABD050 500GB                | 1         | 0.84%   |
 | Toshiba MK5055GSX 500GB                 | 1         | 0.84%   |
 | Toshiba MK3276GSX 320GB                 | 1         | 0.84%   |
 | Toshiba MK1665GSX 160GB                 | 1         | 0.84%   |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 0.84%   |
 | SK Hynix HFM512GDJTNG-8310A 512GB       | 1         | 0.84%   |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 0.84%   |
 | Seagate ST9500325AS 500GB               | 1         | 0.84%   |
@@ -1039,7 +1041,7 @@ Hard disk drive vendors
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | WDC                 | 14        | 21     | 35.9%   |
-| Seagate             | 13        | 29     | 33.33%  |
+| Seagate             | 13        | 30     | 33.33%  |
 | Toshiba             | 7         | 10     | 17.95%  |
 | Samsung Electronics | 2         | 2      | 5.13%   |
 | Hitachi             | 2         | 2      | 5.13%   |
@@ -1078,11 +1080,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| SSD     | 32        | 42     | 33.68%  |
-| HDD     | 32        | 65     | 33.68%  |
-| NVMe    | 23        | 30     | 24.21%  |
-| MMC     | 5         | 6      | 5.26%   |
-| Unknown | 3         | 5      | 3.16%   |
+| SSD     | 32        | 42     | 34.04%  |
+| HDD     | 32        | 66     | 34.04%  |
+| NVMe    | 23        | 30     | 24.47%  |
+| MMC     | 5         | 6      | 5.32%   |
+| Unknown | 2         | 4      | 2.13%   |
 
 Drive Connector
 ---------------
@@ -1109,10 +1111,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 42        | 62     | 61.76%  |
-| 0.51-1.0   | 20        | 22     | 29.41%  |
-| 1.01-2.0   | 5         | 22     | 7.35%   |
-| 3.01-4.0   | 1         | 1      | 1.47%   |
+| 0.01-0.5   | 42        | 62     | 60.87%  |
+| 0.51-1.0   | 20        | 22     | 28.99%  |
+| 1.01-2.0   | 5         | 22     | 7.25%   |
+| 3.01-4.0   | 1         | 1      | 1.45%   |
+| 4.01-10.0  | 1         | 1      | 1.45%   |
 
 Space Total
 -----------
@@ -1762,68 +1765,68 @@ Monitor models
 ![Monitor Model](./All/images/pie_chart/mon_model.svg)
 
 
-| Model                                                                                 | Computers | Percent |
-|---------------------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch                     | 2         | 2.56%   |
-| ___ Monitor ranges (GTF): 48-62Hz V, 14-68kHz H, max dotclock 150MHz ___9000 1440x900 | 1         | 1.28%   |
-| ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                                | 1         | 1.28%   |
-| Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                                    | 1         | 1.28%   |
-| Sony Nvidia Defaul SNY05FA 1366x768 290x170mm 13.2-inch                               | 1         | 1.28%   |
-| Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch                               | 1         | 1.28%   |
-| Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch                               | 1         | 1.28%   |
-| Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch                  | 1         | 1.28%   |
-| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch                    | 1         | 1.28%   |
-| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch                    | 1         | 1.28%   |
-| Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch                     | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch                  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC3641 1366x768 353x198mm 15.9-inch                  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch                  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch                 | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch                  | 1         | 1.28%   |
-| Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch                               | 1         | 1.28%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                               | 1         | 1.28%   |
-| MSI G27C5 MSI3CA9 1920x1080 598x336mm 27.0-inch                                       | 1         | 1.28%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                                     | 1         | 1.28%   |
-| LG Display LCD Monitor LGD05B4 1920x1080 294x165mm 13.3-inch                          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0597 1920x1080 294x165mm 13.3-inch                          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch                          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch                          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch                          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch                           | 1         | 1.28%   |
-| LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch                           | 1         | 1.28%   |
-| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                               | 1         | 1.28%   |
-| Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch                            | 1         | 1.28%   |
-| Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch                              | 1         | 1.28%   |
-| Goldstar T730SH GSM43CB 1152x864 310x230mm 15.2-inch                                  | 1         | 1.28%   |
-| Goldstar LG ULTRAWIDE GSM59F1 1920x1080 580x240mm 24.7-inch                           | 1         | 1.28%   |
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch                             | 1         | 1.28%   |
-| Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                                  | 1         | 1.28%   |
-| Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                                  | 1         | 1.28%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                                | 1         | 1.28%   |
-| GKK MONITOR GKK3034 1920x1080                                                         | 1         | 1.28%   |
-| Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                                   | 1         | 1.28%   |
-| Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                                      | 1         | 1.28%   |
-| Dell LCD Monitor U2412M                                                               | 1         | 1.28%   |
-| Chimei Innolux LCD Monitor CMN15D2 1920x1080 340x190mm 15.3-inch                      | 1         | 1.28%   |
-| Chimei Innolux LCD Monitor CMN15CB 1920x1080 344x193mm 15.5-inch                      | 1         | 1.28%   |
-| Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch                       | 1         | 1.28%   |
-| Chimei Innolux LCD Monitor CMN1469 1366x768 309x174mm 14.0-inch                       | 1         | 1.28%   |
-| BOE LCD Monitor BOE07D2 1920x1080 382x215mm 17.3-inch                                 | 1         | 1.28%   |
-| BOE LCD Monitor BOE0747 1920x1080 344x194mm 15.5-inch                                 | 1         | 1.28%   |
-| BOE LCD Monitor BOE0700 1920x1080 344x194mm 15.5-inch                                 | 1         | 1.28%   |
-| BOE LCD Monitor BOE06C3 3840x2160 345x194mm 15.6-inch                                 | 1         | 1.28%   |
-| BOE LCD Monitor BOE06A5 1366x768 344x194mm 15.5-inch                                  | 1         | 1.28%   |
-| BOE LCD Monitor BOE0638 1920x1080 309x173mm 13.9-inch                                 | 1         | 1.28%   |
-| BOE LCD Monitor BOE0628 1366x768 309x173mm 13.9-inch                                  | 1         | 1.28%   |
-| BOE LCD Monitor BOE05F3 1366x768 309x173mm 13.9-inch                                  | 1         | 1.28%   |
-| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                                     | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUOD0ED 1920x1080 344x193mm 15.5-inch                        | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUO82ED 1920x1080 344x194mm 15.5-inch                        | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUO70EC 1366x768 340x190mm 15.3-inch                         | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUO5E2D 1920x1080 293x165mm 13.2-inch                        | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch                        | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUO41ED 1920x1080 344x193mm 15.5-inch                        | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch                        | 1         | 1.28%   |
+| Model                                                                 | Computers | Percent |
+|-----------------------------------------------------------------------|-----------|---------|
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 2         | 2.56%   |
+| ___ LCDTV16 ___9000 1360x768                                          | 1         | 1.28%   |
+| ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                | 1         | 1.28%   |
+| Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 1.28%   |
+| Sony Nvidia Defaul SNY05FA 1366x768 290x170mm 13.2-inch               | 1         | 1.28%   |
+| Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
+| Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
+| Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 1.28%   |
+| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch    | 1         | 1.28%   |
+| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch    | 1         | 1.28%   |
+| Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch     | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch  | 1         | 1.28%   |
+| Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch               | 1         | 1.28%   |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.28%   |
+| MSI G27C5 MSI3CA9 1920x1080 598x336mm 27.0-inch                       | 1         | 1.28%   |
+| LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                     | 1         | 1.28%   |
+| LG Display LCD Monitor LGD05B4 1920x1080 294x165mm 13.3-inch          | 1         | 1.28%   |
+| LG Display LCD Monitor LGD0597 1920x1080 294x165mm 13.3-inch          | 1         | 1.28%   |
+| LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch          | 1         | 1.28%   |
+| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 1.28%   |
+| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 1.28%   |
+| LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 1.28%   |
+| LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch           | 1         | 1.28%   |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 1.28%   |
+| Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch            | 1         | 1.28%   |
+| Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch              | 1         | 1.28%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch              | 1         | 1.28%   |
+| Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                  | 1         | 1.28%   |
+| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch            | 1         | 1.28%   |
+| Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
+| Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                | 1         | 1.28%   |
+| GKK MONITOR GKK3034 1920x1080                                         | 1         | 1.28%   |
+| Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                   | 1         | 1.28%   |
+| Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                      | 1         | 1.28%   |
+| Dell LCD Monitor U2412M                                               | 1         | 1.28%   |
+| Chimei Innolux LCD Monitor CMN15D2 1920x1080 344x193mm 15.5-inch      | 1         | 1.28%   |
+| Chimei Innolux LCD Monitor CMN15CB 1920x1080 344x193mm 15.5-inch      | 1         | 1.28%   |
+| Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch       | 1         | 1.28%   |
+| Chimei Innolux LCD Monitor CMN1469 1366x768 309x174mm 14.0-inch       | 1         | 1.28%   |
+| BOE LCD Monitor BOE07D2 1920x1080 382x215mm 17.3-inch                 | 1         | 1.28%   |
+| BOE LCD Monitor BOE0747 1920x1080 344x194mm 15.5-inch                 | 1         | 1.28%   |
+| BOE LCD Monitor BOE0700 1920x1080 344x194mm 15.5-inch                 | 1         | 1.28%   |
+| BOE LCD Monitor BOE06C3 3840x2160 345x194mm 15.6-inch                 | 1         | 1.28%   |
+| BOE LCD Monitor BOE06A5 1366x768 344x194mm 15.5-inch                  | 1         | 1.28%   |
+| BOE LCD Monitor BOE0638 1920x1080 309x173mm 13.9-inch                 | 1         | 1.28%   |
+| BOE LCD Monitor BOE0628 1366x768 309x173mm 13.9-inch                  | 1         | 1.28%   |
+| BOE LCD Monitor BOE05F3 1366x768 309x173mm 13.9-inch                  | 1         | 1.28%   |
+| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                     | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUOD0ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUO82ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch         | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUO5E2D 1920x1080 293x165mm 13.2-inch        | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch        | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUO41ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 1         | 1.28%   |
 
 Monitor Resolution
 ------------------
@@ -1929,11 +1932,11 @@ Area in inch²
 |----------------|-----------|---------|
 | 101-110        | 18        | 24%     |
 | 81-90          | 13        | 17.33%  |
-| 201-250        | 9         | 12%     |
+| 201-250        | 10        | 13.33%  |
 | 71-80          | 7         | 9.33%   |
 | 301-350        | 7         | 9.33%   |
 | Unknown        | 6         | 8%      |
-| 151-200        | 4         | 5.33%   |
+| 151-200        | 3         | 4%      |
 | 61-70          | 2         | 2.67%   |
 | 351-500        | 2         | 2.67%   |
 | 121-130        | 2         | 2.67%   |
@@ -2277,18 +2280,18 @@ Controller models
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth Device                                                              | 11        | 24.44%  |
-| Intel Bluetooth wireless interface                                                  | 10        | 22.22%  |
+| Intel Bluetooth wireless interface                                                  | 7         | 15.56%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 4         | 8.89%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 4         | 8.89%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 4.44%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 4.44%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 2.22%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 2.22%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 1         | 2.22%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.22%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.22%   |
 | Lite-On Bluetooth Device                                                            | 1         | 2.22%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 2.22%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.22%   |
-| Intel AX200 Bluetooth                                                               | 1         | 2.22%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 2.22%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 2.22%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 2.22%   |
@@ -2419,42 +2422,42 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Computers | Percent |
-|------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM Module 8192MB SODIMM DDR4 2400MT/s            | 2         | 5.56%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3466MT/s      | 2         | 5.56%   |
-| Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s             | 1         | 2.78%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
-| Unknown RAM Module 4096MB SODIMM DDR3                      | 1         | 2.78%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s               | 1         | 2.78%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s               | 1         | 2.78%   |
-| SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 2.78%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
-| SK Hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
-| Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.78%   |
-| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s           | 1         | 2.78%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
-| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s      | 1         | 2.78%   |
-| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s  | 1         | 2.78%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1867MT/s              | 1         | 2.78%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Kingston RAM HP24D4S7S8MBP-8 8192MB SODIMM DDR4 2400MT/s   | 1         | 2.78%   |
-| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Kingston RAM 99U5428-063.A00LF 8192MB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s         | 1         | 2.78%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
-| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
-| Corsair RAM CMY8GX3M2A1600C9 4096MB DIMM DDR3 1600MT/s     | 1         | 2.78%   |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s        | 1         | 2.78%   |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s        | 1         | 2.78%   |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s     | 1         | 2.78%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s      | 1         | 2.78%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s              | 1         | 2.78%   |
-| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
+| Model                                                     | Computers | Percent |
+|-----------------------------------------------------------|-----------|---------|
+| SK Hynix RAM Module 8192MB SODIMM DDR4 2400MT/s           | 2         | 5.56%   |
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 2400MT/s  | 2         | 5.56%   |
+| Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 2.78%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s            | 1         | 2.78%   |
+| Unknown RAM Module 4096MB SODIMM DDR3                     | 1         | 2.78%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s              | 1         | 2.78%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s            | 1         | 2.78%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1         | 2.78%   |
+| SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s            | 1         | 2.78%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
+| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 2.78%   |
+| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 2.78%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 1         | 2.78%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
+| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s | 1         | 2.78%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 2.78%   |
+| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
+| Kingston RAM HP24D4S7S8MBP-8 8192MB SODIMM DDR4 2400MT/s  | 1         | 2.78%   |
+| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
+| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
+| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s        | 1         | 2.78%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
+| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s       | 1         | 2.78%   |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s       | 1         | 2.78%   |
+| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s    | 1         | 2.78%   |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s    | 1         | 2.78%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1         | 2.78%   |
+| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s             | 1         | 2.78%   |
+| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
 
 Memory Kind
 -----------
@@ -2633,7 +2636,7 @@ Camera device models
 | Microsoft Xbox NUI Camera                                    | 1         | 1.92%   |
 | Microdia Webcam                                              | 1         | 1.92%   |
 | Microdia USB 2.0 Camera                                      | 1         | 1.92%   |
-| Microdia Integrated Webcam HD                                | 1         | 1.92%   |
+| Microdia Integrated_Webcam_HD                                | 1         | 1.92%   |
 | Luxvisions Innotech Limited HP HD Camera                     | 1         | 1.92%   |
 | Logitech Webcam C270                                         | 1         | 1.92%   |
 | Logitech StreamCam                                           | 1         | 1.92%   |
@@ -2654,7 +2657,7 @@ Camera device models
 | Chicony HP HD Camera                                         | 1         | 1.92%   |
 | Chicony HD WebCam (Acer)                                     | 1         | 1.92%   |
 | Cheng Uei Precision Industry (Foxlink) XiaoMi USB 2.0 Webcam | 1         | 1.92%   |
-| Cheng Uei Precision Industry (Foxlink) Webcam                | 1         | 1.92%   |
+| Cheng Uei Precision Industry (Foxlink) HP HD Camera          | 1         | 1.92%   |
 | Acer USB HD Webcam                                           | 1         | 1.92%   |
 | Acer HP Webcam                                               | 1         | 1.92%   |
 

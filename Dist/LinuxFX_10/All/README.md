@@ -641,21 +641,21 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2015    | 8         | 12.9%   |
-| 2019    | 7         | 11.29%  |
+| 2014    | 7         | 11.29%  |
 | 2013    | 7         | 11.29%  |
-| 2011    | 7         | 11.29%  |
+| 2012    | 7         | 11.29%  |
+| 2011    | 6         | 9.68%   |
 | 2009    | 6         | 9.68%   |
-| 2014    | 4         | 6.45%   |
-| 2008    | 4         | 6.45%   |
-| 2020    | 3         | 4.84%   |
-| 2018    | 3         | 4.84%   |
-| 2012    | 3         | 4.84%   |
+| 2008    | 5         | 8.06%   |
+| 2018    | 4         | 6.45%   |
+| 2007    | 4         | 6.45%   |
+| 2019    | 3         | 4.84%   |
+| 2015    | 3         | 4.84%   |
 | 2010    | 3         | 4.84%   |
-| 2016    | 2         | 3.23%   |
+| 2017    | 2         | 3.23%   |
 | 2006    | 2         | 3.23%   |
-| 2021    | 1         | 1.61%   |
-| 2007    | 1         | 1.61%   |
+| 2020    | 1         | 1.61%   |
+| 2016    | 1         | 1.61%   |
 | Unknown | 1         | 1.61%   |
 
 Form Factor
@@ -746,12 +746,12 @@ Number of drives on board
 
 | Drives  | Computers | Percent |
 |---------|-----------|---------|
-| 1       | 41        | 65.08%  |
-| 2       | 12        | 19.05%  |
-| 3       | 7         | 11.11%  |
-| 6       | 1         | 1.59%   |
-| 4       | 1         | 1.59%   |
-| Unknown | 1         | 1.59%   |
+| 1       | 41        | 66.13%  |
+| 2       | 12        | 19.35%  |
+| 3       | 6         | 9.68%   |
+| 6       | 1         | 1.61%   |
+| 4       | 1         | 1.61%   |
+| Unknown | 1         | 1.61%   |
 
 Has CD-ROM
 ----------
@@ -763,8 +763,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 36        | 58.06%  |
-| No        | 26        | 41.94%  |
+| Yes       | 37        | 58.73%  |
+| No        | 26        | 41.27%  |
 
 Has Ethernet
 ------------
@@ -929,7 +929,7 @@ Hard drive vendors
 | Kingston            | 7         | 8      | 8.14%   |
 | Hitachi             | 7         | 8      | 8.14%   |
 | Unknown             | 3         | 4      | 3.49%   |
-| Sandisk             | 3         | 3      | 3.49%   |
+| SanDisk             | 3         | 3      | 3.49%   |
 | MAXTOR              | 2         | 2      | 2.33%   |
 | LITEONIT            | 2         | 2      | 2.33%   |
 | HGST                | 2         | 3      | 2.33%   |
@@ -960,7 +960,7 @@ Hard drive models
 | WDC WD10EZEX-08WN4A0 1TB             | 2         | 2.2%    |
 | Toshiba MQ01ABF050 500GB             | 2         | 2.2%    |
 | Kingston SV300S37A120G 120GB SSD     | 2         | 2.2%    |
-| XPG GAMMIX S11 Pro 1TB               | 1         | 1.1%    |
+| XPG GAMMIX S11 Pro 2TB               | 1         | 1.1%    |
 | WDC WD5000LPVX-22V0TT0 500GB         | 1         | 1.1%    |
 | WDC WD5000LPVT-24G33T1 500GB         | 1         | 1.1%    |
 | WDC WD5000AAKX-001CA0 500GB          | 1         | 1.1%    |
@@ -984,7 +984,7 @@ Hard drive models
 | Toshiba MQ01ABD050 500GB             | 1         | 1.1%    |
 | Toshiba MK5059GSXP 500GB             | 1         | 1.1%    |
 | Toshiba MK2561GSYN 250GB             | 1         | 1.1%    |
-| TO Exter nal USB 3.0 250GB           | 1         | 1.1%    |
+| TO Exter nal USB 3.0 256GB           | 1         | 1.1%    |
 | Seagate ST9320325AS 320GB            | 1         | 1.1%    |
 | Seagate ST9160827AS 160GB            | 1         | 1.1%    |
 | Seagate ST9160821AS 160GB            | 1         | 1.1%    |
@@ -1002,7 +1002,7 @@ Hard drive models
 | Seagate ST31500341AS 1TB             | 1         | 1.1%    |
 | Seagate ST250DM000-1BD141 250GB      | 1         | 1.1%    |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 1.1%    |
-| Seagate Expansion Desk 5TB           | 1         | 1.1%    |
+| Seagate Expansion Desk 8TB           | 1         | 1.1%    |
 | SanDisk SSD PLUS 1000GB              | 1         | 1.1%    |
 | SanDisk SD9SN8W256G1002 256GB SSD    | 1         | 1.1%    |
 | Sandisk NVMe SSD Drive 500GB         | 1         | 1.1%    |
@@ -1747,15 +1747,15 @@ Monitor models
 | Model                                                                    | Computers | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 3.23%   |
-| LG Display LCD Monitor LGD038E 1366x768 340x190mm 15.3-inch              | 2         | 3.23%   |
+| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 3.23%   |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                      | 2         | 3.23%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch          | 2         | 3.23%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 2         | 3.23%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 3.23%   |
 | ViewSonic VX3211-2K VSCF634 2560x1440 698x392mm 31.5-inch                | 1         | 1.61%   |
 | Unknown LCD Monitor SHI LCD-TV 4640x1080                                 | 1         | 1.61%   |
 | Sony LCD Monitor AVSYSTEM                                                | 1         | 1.61%   |
-| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                   | 1         | 1.61%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch        | 1         | 1.61%   |
+| Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch           | 1         | 1.61%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch        | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch     | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch     | 1         | 1.61%   |
 | Samsung Electronics SMBX2331 SAM076F 1920x1080 510x290mm 23.1-inch       | 1         | 1.61%   |
@@ -1764,7 +1764,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SDC4752 1366x768 340x190mm 15.3-inch     | 1         | 1.61%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 340x190mm 15.3-inch     | 1         | 1.61%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 1.61%   |
 | Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                       | 1         | 1.61%   |
 | Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                       | 1         | 1.61%   |
 | NXP OptiPlex 9010 NXP1111 1920x1080 510x286mm 23.0-inch                  | 1         | 1.61%   |
@@ -1773,14 +1773,14 @@ Monitor models
 | LG Display LCD Monitor LGD03B3 1366x768 309x174mm 14.0-inch              | 1         | 1.61%   |
 | LG Display LCD Monitor LGD02EB 1366x768 309x174mm 14.0-inch              | 1         | 1.61%   |
 | LG Display LCD Monitor LGD0251 1366x768 310x174mm 14.0-inch              | 1         | 1.61%   |
-| Lenovo LEN T2454pA LEN60C9 1920x1080 527x296mm 23.8-inch                 | 1         | 1.61%   |
+| Lenovo LEN T2454pA LEN60C9 1920x1200 527x296mm 23.8-inch                 | 1         | 1.61%   |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch             | 1         | 1.61%   |
 | Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                     | 1         | 1.61%   |
 | Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                      | 1         | 1.61%   |
 | Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                     | 1         | 1.61%   |
 | CPT LCD Monitor CPT13B1 1280x800 331x207mm 15.4-inch                     | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 1         | 1.61%   |
-| Chimei Innolux LCD Monitor CMN15C6 1366x768 340x190mm 15.3-inch          | 1         | 1.61%   |
+| Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch          | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN1521 1920x1080 344x193mm 15.5-inch         | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN1476 1366x768 309x174mm 14.0-inch          | 1         | 1.61%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1007 1024x600 222x125mm 10.0-inch | 1         | 1.61%   |
@@ -1791,8 +1791,8 @@ Monitor models
 | BenQ LCD Monitor GL951A                                                  | 1         | 1.61%   |
 | BenQ GL951A BNQ7897 1440x900 408x255mm 18.9-inch                         | 1         | 1.61%   |
 | AU Optronics LCD Monitor AUO8174 1280x800 331x207mm 15.4-inch            | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO313C 1366x768 310x170mm 13.9-inch            | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO253C 1366x768 310x170mm 13.9-inch            | 1         | 1.61%   |
+| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch            | 1         | 1.61%   |
+| AU Optronics LCD Monitor AUO253C 1366x768 309x173mm 13.9-inch            | 1         | 1.61%   |
 | AU Optronics LCD Monitor AUO23EC 1366x768 344x193mm 15.5-inch            | 1         | 1.61%   |
 | AU Optronics LCD Monitor AUO2374 1280x800 331x207mm 15.4-inch            | 1         | 1.61%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 1.61%   |
@@ -2263,16 +2263,16 @@ Controller models
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 4         | 15.38%  |
+| Intel Bluetooth Device                                      | 3         | 11.54%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 7.69%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 2         | 7.69%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 7.69%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 7.69%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 7.69%   |
-| Intel Bluetooth wireless interface                          | 2         | 7.69%   |
-| Intel Bluetooth Device                                      | 2         | 7.69%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 3.85%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 3.85%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 3.85%   |
+| Intel Bluetooth wireless interface                          | 1         | 3.85%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter       | 1         | 3.85%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 3.85%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 3.85%   |
@@ -2401,10 +2401,10 @@ Memory module models
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s      | 1         | 8.33%   |
 | Kingston RAM KHX2400C11D3/8GX 8192MB DIMM DDR3 2400MT/s   | 1         | 8.33%   |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s   | 1         | 8.33%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s       | 1         | 8.33%   |
+| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3200MT/s    | 1         | 8.33%   |
 | Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s    | 1         | 8.33%   |
 | Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s     | 1         | 8.33%   |
-| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s  | 1         | 8.33%   |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 1         | 8.33%   |
 
 Memory Kind
 -----------

@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor   | Model                   | Probe                                                      | Date         |
 |----------|-------------------------|------------------------------------------------------------|--------------|
+| ASUSTek  | ROG STRIX X570-I GAMING | [bc31f5f2bd](https://linux-hardware.org/?probe=bc31f5f2bd) | Jan 17, 2022 |
 | ASUSTek  | PRIME H310M-K R2.0      | [7dba1540ad](https://linux-hardware.org/?probe=7dba1540ad) | Dec 06, 2021 |
 | Medion   | Cattle24 1M             | [fd68d44a6a](https://linux-hardware.org/?probe=fd68d44a6a) | Oct 16, 2021 |
 | Medion   | Cattle24 1M             | [dd4a0707ba](https://linux-hardware.org/?probe=dd4a0707ba) | May 19, 2021 |
@@ -254,54 +255,55 @@ Version of the Linux kernel
 
 | Version              | Desktops | Percent |
 |----------------------|----------|---------|
-| 5.10.3-arch1-1       | 4        | 6.67%   |
-| 5.9.14-arch1-1       | 3        | 5%      |
-| 5.7.12-arch1-1       | 3        | 5%      |
-| 5.9.1-arch1-1        | 2        | 3.33%   |
-| 5.8.7-arch1-1        | 2        | 3.33%   |
-| 5.11.7-arch1-1       | 2        | 3.33%   |
-| 5.10.4-arch2-1       | 2        | 3.33%   |
-| 5.10.13-arch1-1      | 2        | 3.33%   |
-| 5.9.6-arch1-1        | 1        | 1.67%   |
-| 5.9.3-arch1-1        | 1        | 1.67%   |
-| 5.9.2-arch1-1        | 1        | 1.67%   |
-| 5.9.13-arch1-1       | 1        | 1.67%   |
-| 5.9.12-arch1-1       | 1        | 1.67%   |
-| 5.9.11-arch2-1       | 1        | 1.67%   |
-| 5.8.6-arch1-1        | 1        | 1.67%   |
-| 5.8.5-arch1-1        | 1        | 1.67%   |
-| 5.8.14-arch1-1       | 1        | 1.67%   |
-| 5.8.12-arch1-1       | 1        | 1.67%   |
-| 5.8.1-arch1-1        | 1        | 1.67%   |
-| 5.7.6-arch1-1-custom | 1        | 1.67%   |
-| 5.7.11-arch1-1       | 1        | 1.67%   |
-| 5.7.10-arch1-1       | 1        | 1.67%   |
-| 5.6.3-arch1-1        | 1        | 1.67%   |
-| 5.6.2-arch1-2        | 1        | 1.67%   |
-| 5.5.9-arch1-2        | 1        | 1.67%   |
-| 5.5.5-arch1-1        | 1        | 1.67%   |
-| 5.5.2-arch1-1        | 1        | 1.67%   |
-| 5.5.11-arch1-1       | 1        | 1.67%   |
-| 5.4.6-arch3-1        | 1        | 1.67%   |
-| 5.4.10-arch1-1       | 1        | 1.67%   |
-| 5.3.7-arch1-2-ARCH   | 1        | 1.67%   |
-| 5.3.5-arch1-1-ARCH   | 1        | 1.67%   |
-| 5.3.11-arch1-1       | 1        | 1.67%   |
-| 5.2.9-arch1-1-ARCH   | 1        | 1.67%   |
-| 5.14.7-arch1-1       | 1        | 1.67%   |
-| 5.12.4-arch1-2       | 1        | 1.67%   |
-| 5.12.1-arch1-1       | 1        | 1.67%   |
-| 5.11.6-arch1-1       | 1        | 1.67%   |
-| 5.11.4-arch1-1       | 1        | 1.67%   |
-| 5.11.16-arch1-1      | 1        | 1.67%   |
-| 5.11.16-149-tkg-bmq  | 1        | 1.67%   |
-| 5.11.1-arch1-1       | 1        | 1.67%   |
-| 5.10.83-1-lts        | 1        | 1.67%   |
-| 5.10.6-arch1-1       | 1        | 1.67%   |
-| 4.20.3-arch1-1-ARCH  | 1        | 1.67%   |
-| 4.19.2-arch1-1-ARCH  | 1        | 1.67%   |
-| 4.19.12-arch1-1-ARCH | 1        | 1.67%   |
-| 4.18.10-arch1-1-ARCH | 1        | 1.67%   |
+| 5.10.3-arch1-1       | 4        | 6.56%   |
+| 5.9.14-arch1-1       | 3        | 4.92%   |
+| 5.7.12-arch1-1       | 3        | 4.92%   |
+| 5.9.1-arch1-1        | 2        | 3.28%   |
+| 5.8.7-arch1-1        | 2        | 3.28%   |
+| 5.11.7-arch1-1       | 2        | 3.28%   |
+| 5.10.4-arch2-1       | 2        | 3.28%   |
+| 5.10.13-arch1-1      | 2        | 3.28%   |
+| 5.9.6-arch1-1        | 1        | 1.64%   |
+| 5.9.3-arch1-1        | 1        | 1.64%   |
+| 5.9.2-arch1-1        | 1        | 1.64%   |
+| 5.9.13-arch1-1       | 1        | 1.64%   |
+| 5.9.12-arch1-1       | 1        | 1.64%   |
+| 5.9.11-arch2-1       | 1        | 1.64%   |
+| 5.8.6-arch1-1        | 1        | 1.64%   |
+| 5.8.5-arch1-1        | 1        | 1.64%   |
+| 5.8.14-arch1-1       | 1        | 1.64%   |
+| 5.8.12-arch1-1       | 1        | 1.64%   |
+| 5.8.1-arch1-1        | 1        | 1.64%   |
+| 5.7.6-arch1-1-custom | 1        | 1.64%   |
+| 5.7.11-arch1-1       | 1        | 1.64%   |
+| 5.7.10-arch1-1       | 1        | 1.64%   |
+| 5.6.3-arch1-1        | 1        | 1.64%   |
+| 5.6.2-arch1-2        | 1        | 1.64%   |
+| 5.5.9-arch1-2        | 1        | 1.64%   |
+| 5.5.5-arch1-1        | 1        | 1.64%   |
+| 5.5.2-arch1-1        | 1        | 1.64%   |
+| 5.5.11-arch1-1       | 1        | 1.64%   |
+| 5.4.6-arch3-1        | 1        | 1.64%   |
+| 5.4.10-arch1-1       | 1        | 1.64%   |
+| 5.3.7-arch1-2-ARCH   | 1        | 1.64%   |
+| 5.3.5-arch1-1-ARCH   | 1        | 1.64%   |
+| 5.3.11-arch1-1       | 1        | 1.64%   |
+| 5.2.9-arch1-1-ARCH   | 1        | 1.64%   |
+| 5.16.0-zen1-1-zen    | 1        | 1.64%   |
+| 5.14.7-arch1-1       | 1        | 1.64%   |
+| 5.12.4-arch1-2       | 1        | 1.64%   |
+| 5.12.1-arch1-1       | 1        | 1.64%   |
+| 5.11.6-arch1-1       | 1        | 1.64%   |
+| 5.11.4-arch1-1       | 1        | 1.64%   |
+| 5.11.16-arch1-1      | 1        | 1.64%   |
+| 5.11.16-149-tkg-bmq  | 1        | 1.64%   |
+| 5.11.1-arch1-1       | 1        | 1.64%   |
+| 5.10.83-1-lts        | 1        | 1.64%   |
+| 5.10.6-arch1-1       | 1        | 1.64%   |
+| 4.20.3-arch1-1-ARCH  | 1        | 1.64%   |
+| 4.19.2-arch1-1-ARCH  | 1        | 1.64%   |
+| 4.19.12-arch1-1-ARCH | 1        | 1.64%   |
+| 4.18.10-arch1-1-ARCH | 1        | 1.64%   |
 
 Kernel Family
 -------------
@@ -313,53 +315,54 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.10.3  | 4        | 6.78%   |
-| 5.9.14  | 3        | 5.08%   |
-| 5.7.12  | 3        | 5.08%   |
-| 5.9.1   | 2        | 3.39%   |
-| 5.8.7   | 2        | 3.39%   |
-| 5.11.7  | 2        | 3.39%   |
-| 5.10.4  | 2        | 3.39%   |
-| 5.10.13 | 2        | 3.39%   |
-| 5.9.6   | 1        | 1.69%   |
-| 5.9.3   | 1        | 1.69%   |
-| 5.9.2   | 1        | 1.69%   |
-| 5.9.13  | 1        | 1.69%   |
-| 5.9.12  | 1        | 1.69%   |
-| 5.9.11  | 1        | 1.69%   |
-| 5.8.6   | 1        | 1.69%   |
-| 5.8.5   | 1        | 1.69%   |
-| 5.8.14  | 1        | 1.69%   |
-| 5.8.12  | 1        | 1.69%   |
-| 5.8.1   | 1        | 1.69%   |
-| 5.7.6   | 1        | 1.69%   |
-| 5.7.11  | 1        | 1.69%   |
-| 5.7.10  | 1        | 1.69%   |
-| 5.6.3   | 1        | 1.69%   |
-| 5.6.2   | 1        | 1.69%   |
-| 5.5.9   | 1        | 1.69%   |
-| 5.5.5   | 1        | 1.69%   |
-| 5.5.2   | 1        | 1.69%   |
-| 5.5.11  | 1        | 1.69%   |
-| 5.4.6   | 1        | 1.69%   |
-| 5.4.10  | 1        | 1.69%   |
-| 5.3.7   | 1        | 1.69%   |
-| 5.3.5   | 1        | 1.69%   |
-| 5.3.11  | 1        | 1.69%   |
-| 5.2.9   | 1        | 1.69%   |
-| 5.14.7  | 1        | 1.69%   |
-| 5.12.4  | 1        | 1.69%   |
-| 5.12.1  | 1        | 1.69%   |
-| 5.11.6  | 1        | 1.69%   |
-| 5.11.4  | 1        | 1.69%   |
-| 5.11.16 | 1        | 1.69%   |
-| 5.11.1  | 1        | 1.69%   |
-| 5.10.83 | 1        | 1.69%   |
-| 5.10.6  | 1        | 1.69%   |
-| 4.20.3  | 1        | 1.69%   |
-| 4.19.2  | 1        | 1.69%   |
-| 4.19.12 | 1        | 1.69%   |
-| 4.18.10 | 1        | 1.69%   |
+| 5.10.3  | 4        | 6.67%   |
+| 5.9.14  | 3        | 5%      |
+| 5.7.12  | 3        | 5%      |
+| 5.9.1   | 2        | 3.33%   |
+| 5.8.7   | 2        | 3.33%   |
+| 5.11.7  | 2        | 3.33%   |
+| 5.10.4  | 2        | 3.33%   |
+| 5.10.13 | 2        | 3.33%   |
+| 5.9.6   | 1        | 1.67%   |
+| 5.9.3   | 1        | 1.67%   |
+| 5.9.2   | 1        | 1.67%   |
+| 5.9.13  | 1        | 1.67%   |
+| 5.9.12  | 1        | 1.67%   |
+| 5.9.11  | 1        | 1.67%   |
+| 5.8.6   | 1        | 1.67%   |
+| 5.8.5   | 1        | 1.67%   |
+| 5.8.14  | 1        | 1.67%   |
+| 5.8.12  | 1        | 1.67%   |
+| 5.8.1   | 1        | 1.67%   |
+| 5.7.6   | 1        | 1.67%   |
+| 5.7.11  | 1        | 1.67%   |
+| 5.7.10  | 1        | 1.67%   |
+| 5.6.3   | 1        | 1.67%   |
+| 5.6.2   | 1        | 1.67%   |
+| 5.5.9   | 1        | 1.67%   |
+| 5.5.5   | 1        | 1.67%   |
+| 5.5.2   | 1        | 1.67%   |
+| 5.5.11  | 1        | 1.67%   |
+| 5.4.6   | 1        | 1.67%   |
+| 5.4.10  | 1        | 1.67%   |
+| 5.3.7   | 1        | 1.67%   |
+| 5.3.5   | 1        | 1.67%   |
+| 5.3.11  | 1        | 1.67%   |
+| 5.2.9   | 1        | 1.67%   |
+| 5.16.0  | 1        | 1.67%   |
+| 5.14.7  | 1        | 1.67%   |
+| 5.12.4  | 1        | 1.67%   |
+| 5.12.1  | 1        | 1.67%   |
+| 5.11.6  | 1        | 1.67%   |
+| 5.11.4  | 1        | 1.67%   |
+| 5.11.16 | 1        | 1.67%   |
+| 5.11.1  | 1        | 1.67%   |
+| 5.10.83 | 1        | 1.67%   |
+| 5.10.6  | 1        | 1.67%   |
+| 4.20.3  | 1        | 1.67%   |
+| 4.19.2  | 1        | 1.67%   |
+| 4.19.12 | 1        | 1.67%   |
+| 4.18.10 | 1        | 1.67%   |
 
 Kernel Major Ver.
 -----------------
@@ -371,21 +374,22 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.9     | 11       | 18.97%  |
-| 5.10    | 9        | 15.52%  |
-| 5.8     | 7        | 12.07%  |
-| 5.7     | 6        | 10.34%  |
-| 5.11    | 6        | 10.34%  |
-| 5.5     | 4        | 6.9%    |
-| 5.3     | 3        | 5.17%   |
-| 5.6     | 2        | 3.45%   |
-| 5.4     | 2        | 3.45%   |
-| 5.12    | 2        | 3.45%   |
-| 4.19    | 2        | 3.45%   |
-| 5.2     | 1        | 1.72%   |
-| 5.14    | 1        | 1.72%   |
-| 4.20    | 1        | 1.72%   |
-| 4.18    | 1        | 1.72%   |
+| 5.9     | 11       | 18.64%  |
+| 5.10    | 9        | 15.25%  |
+| 5.8     | 7        | 11.86%  |
+| 5.7     | 6        | 10.17%  |
+| 5.11    | 6        | 10.17%  |
+| 5.5     | 4        | 6.78%   |
+| 5.3     | 3        | 5.08%   |
+| 5.6     | 2        | 3.39%   |
+| 5.4     | 2        | 3.39%   |
+| 5.12    | 2        | 3.39%   |
+| 4.19    | 2        | 3.39%   |
+| 5.2     | 1        | 1.69%   |
+| 5.16    | 1        | 1.69%   |
+| 5.14    | 1        | 1.69%   |
+| 4.20    | 1        | 1.69%   |
+| 4.18    | 1        | 1.69%   |
 
 Arch
 ----
@@ -701,19 +705,18 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 13       | 23.21%  |
-| 2013 | 8        | 14.29%  |
-| 2020 | 7        | 12.5%   |
+| 2019 | 9        | 16.07%  |
+| 2012 | 8        | 14.29%  |
+| 2013 | 7        | 12.5%   |
+| 2018 | 6        | 10.71%  |
 | 2010 | 6        | 10.71%  |
-| 2018 | 5        | 8.93%   |
+| 2009 | 5        | 8.93%   |
+| 2017 | 4        | 7.14%   |
+| 2016 | 4        | 7.14%   |
 | 2014 | 3        | 5.36%   |
-| 2011 | 3        | 5.36%   |
-| 2009 | 3        | 5.36%   |
-| 2016 | 2        | 3.57%   |
-| 2015 | 2        | 3.57%   |
-| 2012 | 2        | 3.57%   |
-| 2021 | 1        | 1.79%   |
-| 2017 | 1        | 1.79%   |
+| 2011 | 2        | 3.57%   |
+| 2015 | 1        | 1.79%   |
+| 2008 | 1        | 1.79%   |
 
 Form Factor
 -----------
@@ -779,12 +782,12 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1.01-2.0  | 24       | 41.38%  |
-| 2.01-3.0  | 18       | 31.03%  |
-| 3.01-4.0  | 7        | 12.07%  |
-| 4.01-8.0  | 5        | 8.62%   |
-| 8.01-16.0 | 2        | 3.45%   |
-| 0.51-1.0  | 2        | 3.45%   |
+| 1.01-2.0  | 24       | 40.68%  |
+| 2.01-3.0  | 18       | 30.51%  |
+| 3.01-4.0  | 7        | 11.86%  |
+| 4.01-8.0  | 6        | 10.17%  |
+| 8.01-16.0 | 2        | 3.39%   |
+| 0.51-1.0  | 2        | 3.39%   |
 
 Total Drives
 ------------
@@ -968,7 +971,7 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 25       | 30     | 23.15%  |
+| WDC                 | 25       | 31     | 23.15%  |
 | Seagate             | 16       | 22     | 14.81%  |
 | Samsung Electronics | 14       | 16     | 12.96%  |
 | Toshiba             | 8        | 9      | 7.41%   |
@@ -982,7 +985,7 @@ Hard drive vendors
 | Intel               | 2        | 2      | 1.85%   |
 | ZOTAC               | 1        | 1      | 0.93%   |
 | SPCC                | 1        | 1      | 0.93%   |
-| Phison Electronics  | 1        | 1      | 0.93%   |
+| Phison Electronics  | 1        | 2      | 0.93%   |
 | Patriot             | 1        | 1      | 0.93%   |
 | OCZ                 | 1        | 2      | 0.93%   |
 | KingSpec            | 1        | 1      | 0.93%   |
@@ -1045,7 +1048,7 @@ Hard drive models
 | WDC WD10EARS-00Y5B1 1TB            | 1        | 0.83%   |
 | WDC WD10EADS-65M2B1 1TB            | 1        | 0.83%   |
 | WDC WD1002FAEX-00Y9A0 1TB          | 1        | 0.83%   |
-| Unknown SD/MMC/MS PRO 7GB          | 1        | 0.83%   |
+| Unknown SD/MMC/MS PRO 128GB        | 1        | 0.83%   |
 | Unknown NVMe SSD Drive 512GB       | 1        | 0.83%   |
 | Toshiba TL100 240GB SSD            | 1        | 0.83%   |
 | Toshiba THNSN5512GPUK NVMe 512GB   | 1        | 0.83%   |
@@ -1129,7 +1132,7 @@ HDD or SSD
 |---------|----------|--------|---------|
 | HDD     | 38       | 65     | 45.24%  |
 | SSD     | 27       | 40     | 32.14%  |
-| NVMe    | 17       | 21     | 20.24%  |
+| NVMe    | 17       | 23     | 20.24%  |
 | Unknown | 2        | 2      | 2.38%   |
 
 Drive Connector
@@ -1143,7 +1146,7 @@ SATA, SAS, NVMe, etc.
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | SATA | 51       | 101    | 69.86%  |
-| NVMe | 17       | 21     | 23.29%  |
+| NVMe | 17       | 23     | 23.29%  |
 | SAS  | 5        | 6      | 6.85%   |
 
 Drive Size
@@ -1156,12 +1159,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 39       | 59     | 50%     |
-| 0.51-1.0   | 27       | 30     | 34.62%  |
-| 1.01-2.0   | 6        | 8      | 7.69%   |
-| 2.01-3.0   | 3        | 4      | 3.85%   |
-| 3.01-4.0   | 2        | 2      | 2.56%   |
-| 4.01-10.0  | 1        | 2      | 1.28%   |
+| 0.01-0.5   | 39       | 60     | 50.65%  |
+| 0.51-1.0   | 27       | 30     | 35.06%  |
+| 1.01-2.0   | 6        | 8      | 7.79%   |
+| 2.01-3.0   | 3        | 4      | 3.9%    |
+| 3.01-4.0   | 1        | 1      | 1.3%    |
+| 4.01-10.0  | 1        | 2      | 1.3%    |
 
 Space Total
 -----------
@@ -1193,14 +1196,15 @@ Amount of used disk space
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 21-50     | 19       | 32.76%  |
-| 1-20      | 19       | 32.76%  |
-| 251-500   | 4        | 6.9%    |
-| 51-100    | 4        | 6.9%    |
-| 2001-3000 | 3        | 5.17%   |
-| 101-250   | 3        | 5.17%   |
-| 501-1000  | 3        | 5.17%   |
-| Unknown   | 3        | 5.17%   |
+| 21-50     | 19       | 32.2%   |
+| 1-20      | 19       | 32.2%   |
+| 251-500   | 4        | 6.78%   |
+| 51-100    | 4        | 6.78%   |
+| 2001-3000 | 3        | 5.08%   |
+| 101-250   | 3        | 5.08%   |
+| 501-1000  | 3        | 5.08%   |
+| Unknown   | 3        | 5.08%   |
+| 1001-2000 | 1        | 1.69%   |
 
 Malfunc. Drives
 ---------------
@@ -1255,7 +1259,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Detected | 49       | 108    | 89.09%  |
-| Works    | 6        | 20     | 10.91%  |
+| Works    | 6        | 22     | 10.91%  |
 
 Storage controller
 ------------------
@@ -1529,30 +1533,31 @@ Microcode number
 
 | Number     | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 10       | 17.86%  |
-| 0x306c3    | 5        | 8.93%   |
-| 0x306a9    | 5        | 8.93%   |
-| 0x206a7    | 4        | 7.14%   |
-| 0x0800820d | 4        | 7.14%   |
-| 0x06001119 | 4        | 7.14%   |
-| 0x906e9    | 3        | 5.36%   |
-| 0x506e3    | 3        | 5.36%   |
-| 0x20652    | 2        | 3.57%   |
-| 0x1067a    | 2        | 3.57%   |
-| 0x906ea    | 1        | 1.79%   |
-| 0x6fb      | 1        | 1.79%   |
-| 0x306e4    | 1        | 1.79%   |
-| 0x106e5    | 1        | 1.79%   |
-| 0x106a5    | 1        | 1.79%   |
-| 0x10676    | 1        | 1.79%   |
-| 0x0a201009 | 1        | 1.79%   |
-| 0x08701021 | 1        | 1.79%   |
-| 0x08108109 | 1        | 1.79%   |
-| 0x08001138 | 1        | 1.79%   |
-| 0x0600081c | 1        | 1.79%   |
-| 0x06000817 | 1        | 1.79%   |
-| 0x010000c8 | 1        | 1.79%   |
-| 0x010000b6 | 1        | 1.79%   |
+| Unknown    | 10       | 17.54%  |
+| 0x306c3    | 5        | 8.77%   |
+| 0x306a9    | 5        | 8.77%   |
+| 0x206a7    | 4        | 7.02%   |
+| 0x0800820d | 4        | 7.02%   |
+| 0x06001119 | 4        | 7.02%   |
+| 0x906e9    | 3        | 5.26%   |
+| 0x506e3    | 3        | 5.26%   |
+| 0x20652    | 2        | 3.51%   |
+| 0x1067a    | 2        | 3.51%   |
+| 0x906ea    | 1        | 1.75%   |
+| 0x6fb      | 1        | 1.75%   |
+| 0x306e4    | 1        | 1.75%   |
+| 0x106e5    | 1        | 1.75%   |
+| 0x106a5    | 1        | 1.75%   |
+| 0x10676    | 1        | 1.75%   |
+| 0x0a201016 | 1        | 1.75%   |
+| 0x0a201009 | 1        | 1.75%   |
+| 0x08701021 | 1        | 1.75%   |
+| 0x08108109 | 1        | 1.75%   |
+| 0x08001138 | 1        | 1.75%   |
+| 0x0600081c | 1        | 1.75%   |
+| 0x06000817 | 1        | 1.75%   |
+| 0x010000c8 | 1        | 1.75%   |
+| 0x010000b6 | 1        | 1.75%   |
 
 CPU Microarch
 -------------
@@ -1747,68 +1752,68 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch   | 2        | 2.99%   |
-| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                 | 2        | 2.99%   |
-| Vizio D55-D2 VIZ1004 1920x1080 477x268mm 21.5-inch                      | 1        | 1.49%   |
-| Vestel LCD Monitor 32W_LCD_TV                                           | 1        | 1.49%   |
-| Unknown LCD Monitor DAC Moniter 5760x1080                               | 1        | 1.49%   |
-| Sony TV SNYF301 1920x1080 1600x900mm 72.3-inch                          | 1        | 1.49%   |
-| Sceptre Tech Sceptre M25 SPT0A05 1920x1080 698x393mm 31.5-inch          | 1        | 1.49%   |
-| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch    | 1        | 1.49%   |
-| Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch     | 1        | 1.49%   |
-| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 1.49%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch       | 1        | 1.49%   |
-| Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch       | 1        | 1.49%   |
-| Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch       | 1        | 1.49%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1872x1053mm 84.6-inch | 1        | 1.49%   |
-| Samsung Electronics LCD Monitor SAM094E 1920x1080 1020x570mm 46.0-inch  | 1        | 1.49%   |
-| Samsung Electronics LCD Monitor SAM07BA 1920x1080 890x500mm 40.2-inch   | 1        | 1.49%   |
-| Samsung Electronics LCD Monitor S24D300 1920x1080                       | 1        | 1.49%   |
-| Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch       | 1        | 1.49%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch                | 1        | 1.49%   |
-| Philips PHL 273V5 PHLC0D2 1920x1080 600x340mm 27.2-inch                 | 1        | 1.49%   |
-| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                | 1        | 1.49%   |
-| Philips LCD Monitor PHL 276E8V 7680x2160                                | 1        | 1.49%   |
-| Philips LCD Monitor PHL 276E8V                                          | 1        | 1.49%   |
-| MSI Optix AG32C MSI1462 1920x1080 700x390mm 31.5-inch                   | 1        | 1.49%   |
-| Microstep LCD Monitor Optix MAG24C 3840x1200                            | 1        | 1.49%   |
-| Medion LCD Monitor MEDB603 1920x1080 480x270mm 21.7-inch                | 1        | 1.49%   |
-| Iiyama PL2493H IVM6148 1920x1080 527x296mm 23.8-inch                    | 1        | 1.49%   |
-| Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch            | 1        | 1.49%   |
-| Hewlett-Packard w2228h HWP2810 1680x1050 473x296mm 22.0-inch            | 1        | 1.49%   |
-| Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch             | 1        | 1.49%   |
-| Hewlett-Packard vs19x HWP2658 1280x1024 376x301mm 19.0-inch             | 1        | 1.49%   |
-| Hewlett-Packard LCD Monitor x23LED 1920x1080                            | 1        | 1.49%   |
-| Hewlett-Packard HP2159 HWP282A 1920x1080 477x268mm 21.5-inch            | 1        | 1.49%   |
-| Hewlett-Packard Compaq S1922 HWP290B 1366x768 413x234mm 18.7-inch       | 1        | 1.49%   |
-| GRM Q19 cinema GRM2730 1360x768 410x230mm 18.5-inch                     | 1        | 1.49%   |
-| Goldstar M228WA GSM563C 1680x1050 434x270mm 20.1-inch                   | 1        | 1.49%   |
-| Goldstar L1915S GSM4A90 1280x1024 380x300mm 19.1-inch                   | 1        | 1.49%   |
-| Goldstar 32inch FHD GSM76F5 1920x1080 698x392mm 31.5-inch               | 1        | 1.49%   |
-| Goldstar 24MP55 GSM5A20 1920x1080 510x290mm 23.1-inch                   | 1        | 1.49%   |
-| Dell U2312HM DEL4072 1920x1080 510x290mm 23.1-inch                      | 1        | 1.49%   |
-| Dell SE2417HG DELD08C 1920x1080 521x293mm 23.5-inch                     | 1        | 1.49%   |
-| Dell LCD Monitor U2713HM 2560x1440                                      | 1        | 1.49%   |
-| Dell LCD Monitor 2408WFP                                                | 1        | 1.49%   |
-| Dell E2417H DELA0E2 1920x1080 527x296mm 23.8-inch                       | 1        | 1.49%   |
-| Dell E2417H DELA0E1 1920x1080 527x296mm 23.8-inch                       | 1        | 1.49%   |
-| Dell 2408WFP DELA02C 1920x1200 519x324mm 24.1-inch                      | 1        | 1.49%   |
-| BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 531x299mm 24.0-inch                 | 1        | 1.49%   |
-| BenQ LCD Monitor LCD 7680x2160                                          | 1        | 1.49%   |
-| BenQ LCD Monitor LCD                                                    | 1        | 1.49%   |
-| BenQ LCD Monitor GC2870 1920x1080                                       | 1        | 1.49%   |
-| BenQ LCD Monitor G2220HD                                                | 1        | 1.49%   |
-| BenQ LCD BNQ801D 3840x2160 521x293mm 23.5-inch                          | 1        | 1.49%   |
-| BenQ GW2470 BNQ78D9 1920x1080 530x300mm 24.0-inch                       | 1        | 1.49%   |
-| BenQ GW2280 BNQ78E8 1920x1080 480x270mm 21.7-inch                       | 1        | 1.49%   |
-| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch            | 1        | 1.49%   |
-| AOC Q3279WG5B AOC3279 2560x1440 725x428mm 33.1-inch                     | 1        | 1.49%   |
-| AOC 2269WM AOC2269 1920x1080 477x268mm 21.5-inch                        | 1        | 1.49%   |
-| Ancor Communications MX279 ACI27C3 1920x1080 600x340mm 27.2-inch        | 1        | 1.49%   |
-| Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch   | 1        | 1.49%   |
-| Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch   | 1        | 1.49%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch | 2        | 2.94%   |
+| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch               | 2        | 2.94%   |
+| Vizio D55-D2 VIZ1004 1920x1080 477x268mm 21.5-inch                    | 1        | 1.47%   |
+| Vestel LCD Monitor 32W_LCD_TV                                         | 1        | 1.47%   |
+| Unknown LCD Monitor DAC Moniter 5760x1080                             | 1        | 1.47%   |
+| Sony TV SNYF301 1920x1080 1600x900mm 72.3-inch                        | 1        | 1.47%   |
+| Sceptre Tech Sceptre M25 SPT0A05 1920x1080 698x393mm 31.5-inch        | 1        | 1.47%   |
+| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch  | 1        | 1.47%   |
+| Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch   | 1        | 1.47%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch     | 1        | 1.47%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 1.47%   |
+| Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 1.47%   |
+| Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch     | 1        | 1.47%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 950x540mm 43.0-inch | 1        | 1.47%   |
+| Samsung Electronics LCD Monitor SAM094E 1920x1080 700x390mm 31.5-inch | 1        | 1.47%   |
+| Samsung Electronics LCD Monitor SAM07BA 1920x1080 480x270mm 21.7-inch | 1        | 1.47%   |
+| Samsung Electronics LCD Monitor S24D300 1920x1080                     | 1        | 1.47%   |
+| Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch     | 1        | 1.47%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch              | 1        | 1.47%   |
+| Philips PHL 273V5 PHLC0D2 1920x1080 600x340mm 27.2-inch               | 1        | 1.47%   |
+| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch              | 1        | 1.47%   |
+| Philips LCD Monitor PHL 276E8V 7680x2160                              | 1        | 1.47%   |
+| Philips LCD Monitor PHL 276E8V                                        | 1        | 1.47%   |
+| MSI MPG341CQR MSI3DA0 3440x1440 797x334mm 34.0-inch                   | 1        | 1.47%   |
+| MSI MAG341CQ MSI1462 3440x1440 800x330mm 34.1-inch                    | 1        | 1.47%   |
+| Microstep LCD Monitor Optix MAG24C 3840x1200                          | 1        | 1.47%   |
+| Medion LCD Monitor MEDB603 1920x1080 480x270mm 21.7-inch              | 1        | 1.47%   |
+| Iiyama PL2493H IVM6148 1920x1080 527x296mm 23.8-inch                  | 1        | 1.47%   |
+| Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch          | 1        | 1.47%   |
+| Hewlett-Packard w2228h HWP2810 1680x1050 473x296mm 22.0-inch          | 1        | 1.47%   |
+| Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch           | 1        | 1.47%   |
+| Hewlett-Packard vs19x HWP2658 1280x1024 376x301mm 19.0-inch           | 1        | 1.47%   |
+| Hewlett-Packard LCD Monitor x23LED 1920x1080                          | 1        | 1.47%   |
+| Hewlett-Packard HP2159 HWP282A 1920x1080 477x268mm 21.5-inch          | 1        | 1.47%   |
+| Hewlett-Packard Compaq S1922 HWP290B 1366x768 413x234mm 18.7-inch     | 1        | 1.47%   |
+| GRM Q19 cinema GRM2730 1360x768 410x230mm 18.5-inch                   | 1        | 1.47%   |
+| Goldstar M228WA GSM563C 1680x1050 434x270mm 20.1-inch                 | 1        | 1.47%   |
+| Goldstar L1915S GSM4A90 1280x1024 380x300mm 19.1-inch                 | 1        | 1.47%   |
+| Goldstar 32inch FHD GSM76F5 1920x1080 698x392mm 31.5-inch             | 1        | 1.47%   |
+| Goldstar 24MP55 GSM5A20 1920x1080 510x290mm 23.1-inch                 | 1        | 1.47%   |
+| Dell U2312HM DEL4072 1920x1080 510x290mm 23.1-inch                    | 1        | 1.47%   |
+| Dell SE2417HG DELD08C 1920x1080 521x293mm 23.5-inch                   | 1        | 1.47%   |
+| Dell LCD Monitor U2713HM 2560x1440                                    | 1        | 1.47%   |
+| Dell LCD Monitor 2408WFP                                              | 1        | 1.47%   |
+| Dell E2417H DELA0E2 1920x1080 527x296mm 23.8-inch                     | 1        | 1.47%   |
+| Dell E2417H DELA0E1 1920x1080 527x296mm 23.8-inch                     | 1        | 1.47%   |
+| Dell 2408WFP DELA02C 1920x1200 519x324mm 24.1-inch                    | 1        | 1.47%   |
+| BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 531x299mm 24.0-inch               | 1        | 1.47%   |
+| BenQ LCD Monitor LCD 7680x2160                                        | 1        | 1.47%   |
+| BenQ LCD Monitor LCD                                                  | 1        | 1.47%   |
+| BenQ LCD Monitor GC2870 1920x1080                                     | 1        | 1.47%   |
+| BenQ LCD Monitor G2220HD                                              | 1        | 1.47%   |
+| BenQ LCD BNQ801D 3840x2160 521x293mm 23.5-inch                        | 1        | 1.47%   |
+| BenQ GW2470 BNQ78D9 1920x1080 527x296mm 23.8-inch                     | 1        | 1.47%   |
+| BenQ GW2280 BNQ78E8 1920x1080 480x270mm 21.7-inch                     | 1        | 1.47%   |
+| ASUSTek Computer VP28U AUS28B1 3840x2160 620x340mm 27.8-inch          | 1        | 1.47%   |
+| AOC Q3279WG5B AOC3279 2560x1440 725x428mm 33.1-inch                   | 1        | 1.47%   |
+| AOC 2269W AOC2269 1920x1080 477x268mm 21.5-inch                       | 1        | 1.47%   |
+| Ancor Communications MX279 ACI27C3 1920x1080 600x340mm 27.2-inch      | 1        | 1.47%   |
+| Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch | 1        | 1.47%   |
 
 Monitor Resolution
 ------------------
@@ -2003,7 +2008,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-V                                    | 2        | 2.27%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                          | 1        | 1.14%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                   | 1        | 1.14%   |
-| TP-Link 802.11n NIC                                                     | 1        | 1.14%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                               | 1        | 1.14%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1        | 1.14%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1        | 1.14%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1        | 1.14%   |
@@ -2067,7 +2072,7 @@ Wireless models
 | Ralink RT5572 Wireless Adapter                                          | 2        | 6.67%   |
 | Intel Wireless-AC 9260                                                  | 2        | 6.67%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                   | 1        | 3.33%   |
-| TP-Link 802.11n NIC                                                     | 1        | 3.33%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                               | 1        | 3.33%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1        | 3.33%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1        | 3.33%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1        | 3.33%   |
@@ -2216,7 +2221,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7        | 36.84%  |
-| Intel AX200 Bluetooth                               | 5        | 26.32%  |
+| Intel Bluetooth Device                              | 5        | 26.32%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2        | 10.53%  |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 5.26%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 5.26%   |
@@ -2300,7 +2305,7 @@ Sound card models
 | Intel C600/X79 series chipset High Definition Audio Controller             | 1        | 0.88%   |
 | Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 0.88%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 0.88%   |
-| Generalplus Technology USB Audio Device                                    | 1        | 0.88%   |
+| Generalplus Technology Usb Audio Device                                    | 1        | 0.88%   |
 | Focusrite-Novation Scarlett Solo (3rd Gen.)                                | 1        | 0.88%   |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.88%   |
 | C-Media Electronics USB Audio Device                                       | 1        | 0.88%   |
@@ -2351,20 +2356,20 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 8.33%   |
-| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s    | 1        | 8.33%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s   | 1        | 8.33%   |
-| Samsung RAM M378B5773CH0-CH9 2048MB DIMM 1867MT/s        | 1        | 8.33%   |
-| Kingston RAM 99P5471-002.A00LF 2GB DIMM DDR3 1600MT/s    | 1        | 8.33%   |
-| Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s    | 1        | 8.33%   |
-| Kingston RAM 99P5471-001.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 8.33%   |
-| Kingston RAM 9905584-023.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 8.33%   |
-| G.Skill RAM F4-3600C16-8GVKC 8GB DIMM DDR4 3600MT/s      | 1        | 8.33%   |
-| Crucial RAM BLT4G3D1869DT 4096MB DIMM DDR3 1333MT/s      | 1        | 8.33%   |
-| Crucial RAM BL16G36C16U4W.M16FE1 16GB DIMM DDR4 3733MT/s | 1        | 8.33%   |
-| Corsair RAM CMK64GX4M2D3000C16 32GB DIMM DDR4 3000MT/s   | 1        | 8.33%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s              | 1        | 8.33%   |
+| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s      | 1        | 8.33%   |
+| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1        | 8.33%   |
+| Samsung RAM M378B5773CH0-CH9 2GB DIMM 1867MT/s            | 1        | 8.33%   |
+| Kingston RAM 99P5471-002.A00LF 2GB DIMM DDR3 1600MT/s     | 1        | 8.33%   |
+| Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s     | 1        | 8.33%   |
+| Kingston RAM 99P5471-001.A00LF 2GB DIMM DDR3 1333MT/s     | 1        | 8.33%   |
+| Kingston RAM 9905584-023.A00LF 4096MB DIMM DDR3 1600MT/s  | 1        | 8.33%   |
+| G.Skill RAM F4-3600C16-8GVKC 8GB DIMM DDR4 3600MT/s       | 1        | 8.33%   |
+| Crucial RAM BLT4G3D1869DT 4096MB DIMM DDR3 1333MT/s       | 1        | 8.33%   |
+| Crucial RAM BL16G36C16U4W.M16FE1 16GB DIMM DDR4 3733MT/s  | 1        | 8.33%   |
+| Corsair RAM CMK64GX4M2D3000C16 32GB DIMM DDR4 3000MT/s    | 1        | 8.33%   |
 
 Memory Kind
 -----------
@@ -2557,8 +2562,8 @@ Total unsupported devices on board
 | Total | Desktops | Percent |
 |-------|----------|---------|
 | 0     | 48       | 85.71%  |
-| 1     | 7        | 12.5%   |
-| 2     | 1        | 1.79%   |
+| 1     | 6        | 10.71%  |
+| 2     | 2        | 3.57%   |
 
 Unsupported Device Types
 ------------------------

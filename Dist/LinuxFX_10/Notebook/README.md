@@ -535,17 +535,19 @@ Motherboard manufacture year
 
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
-| 2013    | 6         | 16.67%  |
-| 2015    | 5         | 13.89%  |
-| 2011    | 5         | 13.89%  |
-| 2019    | 4         | 11.11%  |
-| 2008    | 3         | 8.33%   |
+| 2012    | 6         | 16.67%  |
+| 2014    | 5         | 13.89%  |
+| 2009    | 4         | 11.11%  |
+| 2013    | 3         | 8.33%   |
+| 2011    | 3         | 8.33%   |
 | 2018    | 2         | 5.56%   |
-| 2014    | 2         | 5.56%   |
-| 2012    | 2         | 5.56%   |
-| 2009    | 2         | 5.56%   |
+| 2017    | 2         | 5.56%   |
+| 2008    | 2         | 5.56%   |
+| 2007    | 2         | 5.56%   |
 | 2006    | 2         | 5.56%   |
 | 2020    | 1         | 2.78%   |
+| 2016    | 1         | 2.78%   |
+| 2015    | 1         | 2.78%   |
 | 2010    | 1         | 2.78%   |
 | Unknown | 1         | 2.78%   |
 
@@ -1429,14 +1431,14 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 5.88%   |
-| LG Display LCD Monitor LGD038E 1366x768 340x190mm 15.3-inch              | 2         | 5.88%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch          | 2         | 5.88%   |
+| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 5.88%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 2         | 5.88%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 5.88%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SDC4752 1366x768 340x190mm 15.3-inch     | 1         | 2.94%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 340x190mm 15.3-inch     | 1         | 2.94%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.94%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 2.94%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch              | 1         | 2.94%   |
 | LG Display LCD Monitor LGD03B3 1366x768 309x174mm 14.0-inch              | 1         | 2.94%   |
@@ -1444,15 +1446,15 @@ Monitor models
 | LG Display LCD Monitor LGD0251 1366x768 310x174mm 14.0-inch              | 1         | 2.94%   |
 | CPT LCD Monitor CPT13B1 1280x800 331x207mm 15.4-inch                     | 1         | 2.94%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 1         | 2.94%   |
-| Chimei Innolux LCD Monitor CMN15C6 1366x768 340x190mm 15.3-inch          | 1         | 2.94%   |
+| Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch          | 1         | 2.94%   |
 | Chimei Innolux LCD Monitor CMN1521 1920x1080 344x193mm 15.5-inch         | 1         | 2.94%   |
 | Chimei Innolux LCD Monitor CMN1476 1366x768 309x174mm 14.0-inch          | 1         | 2.94%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1007 1024x600 222x125mm 10.0-inch | 1         | 2.94%   |
 | BOE LCD Monitor BOE06BA 1920x1080 344x193mm 15.5-inch                    | 1         | 2.94%   |
 | BOE LCD Monitor BOE06A5 1366x768 344x194mm 15.5-inch                     | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUO8174 1280x800 331x207mm 15.4-inch            | 1         | 2.94%   |
-| AU Optronics LCD Monitor AUO313C 1366x768 310x170mm 13.9-inch            | 1         | 2.94%   |
-| AU Optronics LCD Monitor AUO253C 1366x768 310x170mm 13.9-inch            | 1         | 2.94%   |
+| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch            | 1         | 2.94%   |
+| AU Optronics LCD Monitor AUO253C 1366x768 309x173mm 13.9-inch            | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUO23EC 1366x768 344x193mm 15.5-inch            | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUO2374 1280x800 331x207mm 15.4-inch            | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 2.94%   |
@@ -1835,17 +1837,17 @@ Controller models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                                      | 3         | 14.29%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 9.52%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 9.52%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 9.52%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 9.52%   |
-| Intel Bluetooth wireless interface                          | 2         | 9.52%   |
-| Intel Bluetooth Device                                      | 2         | 9.52%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 2         | 9.52%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 4.76%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 4.76%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 1         | 4.76%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 4.76%   |
+| Intel Bluetooth wireless interface                          | 1         | 4.76%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 4.76%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 4.76%   |
 | Foxconn / Hon Hai BCM20702A0                                | 1         | 4.76%   |

@@ -482,14 +482,14 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 5        | 26.32%  |
-| 2020 | 4        | 21.05%  |
-| 2015 | 2        | 10.53%  |
+| 2018 | 4        | 21.05%  |
+| 2013 | 4        | 21.05%  |
+| 2019 | 3        | 15.79%  |
+| 2020 | 2        | 10.53%  |
 | 2010 | 2        | 10.53%  |
-| 2009 | 2        | 10.53%  |
-| 2018 | 1        | 5.26%   |
-| 2014 | 1        | 5.26%   |
-| 2013 | 1        | 5.26%   |
+| 2017 | 1        | 5.26%   |
+| 2009 | 1        | 5.26%   |
+| 2008 | 1        | 5.26%   |
 | 2006 | 1        | 5.26%   |
 
 Form Factor
@@ -759,7 +759,7 @@ Hard drive models
 | Samsung M3 Portable 1TB         | 1        | 1.72%   |
 | Samsung HD203WI 2TB             | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
-| Intel NVMe SSD Drive 256GB      | 1        | 1.72%   |
+| Intel SSDPEKKW256G7 256GB       | 1        | 1.72%   |
 | Hitachi HTS545032B9A300 320GB   | 1        | 1.72%   |
 | Crucial CT250BX100SSD1 250GB    | 1        | 1.72%   |
 | Crucial CT240BX500SSD1 240GB    | 1        | 1.72%   |
@@ -776,7 +776,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 9        | 15     | 42.86%  |
-| Seagate             | 7        | 23     | 33.33%  |
+| Seagate             | 7        | 24     | 33.33%  |
 | Toshiba             | 2        | 4      | 9.52%   |
 | Samsung Electronics | 2        | 2      | 9.52%   |
 | Hitachi             | 1        | 1      | 4.76%   |
@@ -808,10 +808,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 15       | 22     | 36.59%  |
-| HDD     | 15       | 45     | 36.59%  |
-| NVMe    | 8        | 13     | 19.51%  |
-| Unknown | 3        | 5      | 7.32%   |
+| SSD     | 15       | 22     | 37.5%   |
+| HDD     | 15       | 46     | 37.5%   |
+| NVMe    | 8        | 13     | 20%     |
+| Unknown | 2        | 4      | 5%      |
 
 Drive Connector
 ---------------
@@ -837,10 +837,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 33     | 51.52%  |
-| 0.51-1.0   | 11       | 12     | 33.33%  |
-| 1.01-2.0   | 4        | 21     | 12.12%  |
-| 3.01-4.0   | 1        | 1      | 3.03%   |
+| 0.01-0.5   | 17       | 33     | 50%     |
+| 0.51-1.0   | 11       | 12     | 32.35%  |
+| 1.01-2.0   | 4        | 21     | 11.76%  |
+| 3.01-4.0   | 1        | 1      | 2.94%   |
+| 4.01-10.0  | 1        | 1      | 2.94%   |
 
 Space Total
 -----------
@@ -1317,7 +1318,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch    | 2        | 8.33%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 8.33%   |
 | ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch               | 1        | 4.17%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1        | 4.17%   |
 | Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch   | 1        | 4.17%   |
@@ -1328,7 +1329,7 @@ Monitor models
 | LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                    | 1        | 4.17%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 4.17%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
-| Goldstar T730SH GSM43CB 1152x864 310x230mm 15.2-inch                 | 1        | 4.17%   |
+| Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
 | Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch               | 1        | 4.17%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                  | 1        | 4.17%   |
@@ -1336,7 +1337,7 @@ Monitor models
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1        | 4.17%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1644,8 +1645,8 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 37.5%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 12.5%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 12.5%   |
-| Intel Bluetooth wireless interface                  | 1        | 12.5%   |
 | Intel Bluetooth Device                              | 1        | 12.5%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 12.5%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 12.5%   |
 
 Sound
@@ -1737,17 +1738,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3466MT/s  | 2        | 20%     |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 10%     |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 10%     |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 10%     |
-| Corsair RAM CMY8GX3M2A1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 2400MT/s | 2        | 20%     |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s             | 1        | 10%     |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s             | 1        | 10%     |
+| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s       | 1        | 10%     |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 10%     |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s   | 1        | 10%     |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s   | 1        | 10%     |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 10%     |
 
 Memory Kind
 -----------

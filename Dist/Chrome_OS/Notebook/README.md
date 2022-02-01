@@ -552,19 +552,18 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2020 | 6         | 13.95%  |
-| 2018 | 6         | 13.95%  |
-| 2009 | 6         | 13.95%  |
-| 2017 | 4         | 9.3%    |
+| 2008 | 10        | 23.26%  |
+| 2020 | 4         | 9.3%    |
+| 2018 | 4         | 9.3%    |
+| 2016 | 4         | 9.3%    |
 | 2015 | 4         | 9.3%    |
-| 2013 | 4         | 9.3%    |
+| 2009 | 4         | 9.3%    |
+| 2019 | 3         | 6.98%   |
+| 2017 | 3         | 6.98%   |
 | 2011 | 3         | 6.98%   |
-| 2008 | 3         | 6.98%   |
-| 2019 | 2         | 4.65%   |
-| 2016 | 2         | 4.65%   |
-| 2021 | 1         | 2.33%   |
-| 2014 | 1         | 2.33%   |
-| 2010 | 1         | 2.33%   |
+| 2014 | 2         | 4.65%   |
+| 2013 | 1         | 2.33%   |
+| 2012 | 1         | 2.33%   |
 
 Form Factor
 -----------
@@ -660,8 +659,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 26        | 60.47%  |
-| Yes       | 17        | 39.53%  |
+| No        | 27        | 62.79%  |
+| Yes       | 16        | 37.21%  |
 
 Has Ethernet
 ------------
@@ -841,7 +840,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 2.08%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 2.08%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 2.08%   |
-| TO Exter nal USB 3.0 500GB                   | 1         | 2.08%   |
+| TO Exter nal USB 3.0 256GB                   | 1         | 2.08%   |
 | Seagate ST980811AS 80GB                      | 1         | 2.08%   |
 | Seagate ST9160821AS 160GB                    | 1         | 2.08%   |
 | SanDisk SSD U100 16GB                        | 1         | 2.08%   |
@@ -1413,11 +1412,11 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                    | 3         | 6.67%   |
-| Chimei Innolux LCD Monitor CMN1132 1366x768 260x140mm 11.6-inch          | 2         | 4.44%   |
+| Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 4.44%   |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.44%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.22%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.22%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch     | 1         | 2.22%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.22%   |
@@ -1431,7 +1430,7 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 2.22%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 2.22%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 2.22%   |
-| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch                  | 1         | 2.22%   |
+| Lenovo LCD Monitor LEN4031 1280x800 286x179mm 13.3-inch                  | 1         | 2.22%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 2.22%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 2.22%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 2.22%   |
@@ -1449,7 +1448,7 @@ Monitor models
 | BOE LCD Monitor BOE06DC 1920x1280 259x173mm 12.3-inch                    | 1         | 2.22%   |
 | BOE LCD Monitor BOE061D 1366x768 309x173mm 13.9-inch                     | 1         | 2.22%   |
 | AU Optronics LCD Monitor AUO6024 1280x800 286x178mm 13.3-inch            | 1         | 2.22%   |
-| AU Optronics LCD Monitor AUO323C 1366x768 310x170mm 13.9-inch            | 1         | 2.22%   |
+| AU Optronics LCD Monitor AUO323C 1366x768 309x173mm 13.9-inch            | 1         | 2.22%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 2.22%   |
 | AU Optronics LCD Monitor AUO225C 1366x768 256x144mm 11.6-inch            | 1         | 2.22%   |
 | Apple Color LCD APPA018 2560x1600 286x179mm 13.3-inch                    | 1         | 2.22%   |
@@ -1835,7 +1834,7 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 4         | 16%     |
+| Intel Bluetooth Device                              | 5         | 20%     |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 16%     |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 8%      |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 8%      |
@@ -1845,7 +1844,6 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4%      |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 4%      |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4%      |
-| Intel AX200 Bluetooth                               | 1         | 4%      |
 | IMC Networks Bluetooth Device                       | 1         | 4%      |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 4%      |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 4%      |
@@ -1898,7 +1896,7 @@ Sound card models
 | Intel Broadwell-U Audio Controller                                                                | 1         | 2.22%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1         | 2.22%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 1         | 2.22%   |
-| Generalplus Technology USB Audio Device                                                           | 1         | 2.22%   |
+| Generalplus Technology Usb Audio Device                                                           | 1         | 2.22%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 2.22%   |
 | AMD High Definition Audio Controller                                                              | 1         | 2.22%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1         | 2.22%   |
@@ -1928,11 +1926,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Notebooks | Percent |
-|-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
+| Model                                                   | Notebooks | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s          | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s   | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8192MB SODIMM DDR4 2667MT/s | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2055,7 +2053,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
+| Alcor Micro USB 2.0 Web Camera                          | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |

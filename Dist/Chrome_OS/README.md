@@ -612,19 +612,19 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2018 | 8         | 13.79%  |
-| 2020 | 7         | 12.07%  |
-| 2009 | 7         | 12.07%  |
-| 2008 | 7         | 12.07%  |
-| 2017 | 5         | 8.62%   |
-| 2013 | 5         | 8.62%   |
-| 2015 | 4         | 6.9%    |
-| 2019 | 3         | 5.17%   |
-| 2016 | 3         | 5.17%   |
+| 2008 | 13        | 22.41%  |
+| 2020 | 5         | 8.62%   |
+| 2015 | 5         | 8.62%   |
+| 2019 | 4         | 6.9%    |
+| 2018 | 4         | 6.9%    |
+| 2017 | 4         | 6.9%    |
+| 2016 | 4         | 6.9%    |
+| 2014 | 4         | 6.9%    |
+| 2009 | 4         | 6.9%    |
 | 2011 | 3         | 5.17%   |
-| 2014 | 2         | 3.45%   |
-| 2021 | 1         | 1.72%   |
-| 2012 | 1         | 1.72%   |
+| 2013 | 2         | 3.45%   |
+| 2012 | 2         | 3.45%   |
+| 2007 | 2         | 3.45%   |
 | 2010 | 1         | 1.72%   |
 | 2005 | 1         | 1.72%   |
 
@@ -726,8 +726,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 32        | 55.17%  |
-| Yes       | 26        | 44.83%  |
+| No        | 33        | 56.9%   |
+| Yes       | 25        | 43.1%   |
 
 Has Ethernet
 ------------
@@ -934,7 +934,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.56%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.56%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.56%   |
-| TO Exter nal USB 3.0 500GB                   | 1         | 1.56%   |
+| TO Exter nal USB 3.0 256GB                   | 1         | 1.56%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.56%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.56%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.56%   |
@@ -953,7 +953,7 @@ Hard drive models
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.56%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.56%   |
 | Kingston SA2000M81000G 1TB                   | 1         | 1.56%   |
-| KingSpec NT-256 256GB SSD                    | 1         | 1.56%   |
+| KingSpec NT-256 256GB                        | 1         | 1.56%   |
 | KingDian S200 60GB                           | 1         | 1.56%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.56%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.56%   |
@@ -1599,15 +1599,15 @@ Monitor models
 | Model                                                                    | Computers | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                    | 3         | 5.08%   |
-| Chimei Innolux LCD Monitor CMN1132 1366x768 260x140mm 11.6-inch          | 2         | 3.39%   |
+| Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 3.39%   |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 3.39%   |
 | Toshiba TV TSB0106 1280x720 1050x590mm 47.4-inch                         | 1         | 1.69%   |
-| Sony TV SNY9C01 1920x1080 1600x900mm 72.3-inch                           | 1         | 1.69%   |
+| Sony TV SNY9C01 1920x1080                                                | 1         | 1.69%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch                  | 1         | 1.69%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch     | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch     | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 1.69%   |
@@ -1623,7 +1623,7 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch                  | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN4031 1280x800 286x179mm 13.3-inch                  | 1         | 1.69%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 1.69%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 1.69%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 1.69%   |
@@ -1647,7 +1647,7 @@ Monitor models
 | BOE LCD Monitor BOE061D 1366x768 309x173mm 13.9-inch                     | 1         | 1.69%   |
 | BenQ GL2450H BNQ78A6 1920x1080 531x298mm 24.0-inch                       | 1         | 1.69%   |
 | AU Optronics LCD Monitor AUO6024 1280x800 286x178mm 13.3-inch            | 1         | 1.69%   |
-| AU Optronics LCD Monitor AUO323C 1366x768 310x170mm 13.9-inch            | 1         | 1.69%   |
+| AU Optronics LCD Monitor AUO323C 1366x768 309x173mm 13.9-inch            | 1         | 1.69%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 1.69%   |
 | AU Optronics LCD Monitor AUO225C 1366x768 256x144mm 11.6-inch            | 1         | 1.69%   |
 | Apple Color LCD APPA018 2560x1600 286x179mm 13.3-inch                    | 1         | 1.69%   |
@@ -1844,7 +1844,7 @@ Controller models
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                   | 3         | 3.13%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 3.13%   |
 | Intel WiFi Link 5100                                                    | 3         | 3.13%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 2.08%   |
+| TP-Link 802.11ac WLAN Adapter                                           | 2         | 2.08%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 2.08%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 2.08%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 2.08%   |
@@ -1920,7 +1920,7 @@ Wireless models
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 5.77%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 5.77%   |
 | Intel WiFi Link 5100                                                    | 3         | 5.77%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 3.85%   |
+| TP-Link 802.11ac WLAN Adapter                                           | 2         | 3.85%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 3.85%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 3.85%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 3.85%   |
@@ -2085,7 +2085,7 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 6         | 18.75%  |
+| Intel Bluetooth Device                              | 7         | 21.88%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 12.5%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 12.5%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.25%   |
@@ -2098,7 +2098,6 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.13%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.13%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.13%   |
-| Intel AX200 Bluetooth                               | 1         | 3.13%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.13%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.13%   |
 | Foxconn / Hon Hai BCM43142A0 broadcom bluetooth     | 1         | 3.13%   |
@@ -2156,7 +2155,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                               | 1         | 1.56%   |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 1         | 1.56%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.56%   |
-| Generalplus Technology USB Audio Device                                                           | 1         | 1.56%   |
+| Generalplus Technology Usb Audio Device                                                           | 1         | 1.56%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.56%   |
 | AMD Kaveri HDMI/DP Audio Controller                                                               | 1         | 1.56%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                                    | 1         | 1.56%   |
@@ -2188,11 +2187,11 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Computers | Percent |
-|-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
+| Model                                                   | Computers | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s          | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s   | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8192MB SODIMM DDR4 2667MT/s | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2271,10 +2270,10 @@ Printer device models
 ![Printer Model](./All/images/pie_chart/printer_model.svg)
 
 
-| Model                    | Computers | Percent |
-|--------------------------|-----------|---------|
-| Seiko Epson L3150 Series | 1         | 50%     |
-| HP LaserJet 1012         | 1         | 50%     |
+| Model                      | Computers | Percent |
+|----------------------------|-----------|---------|
+| Seiko Epson ET-2710 Series | 1         | 50%     |
+| HP LaserJet 1012           | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2338,7 +2337,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 17.65%  |
+| Alcor Micro USB 2.0 Web Camera                          | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |

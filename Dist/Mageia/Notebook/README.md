@@ -524,16 +524,16 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2020 | 4         | 19.05%  |
-| 2019 | 3         | 14.29%  |
-| 2021 | 2         | 9.52%   |
-| 2017 | 2         | 9.52%   |
-| 2014 | 2         | 9.52%   |
+| 2012 | 4         | 19.05%  |
+| 2020 | 3         | 14.29%  |
+| 2018 | 3         | 14.29%  |
+| 2016 | 3         | 14.29%  |
 | 2013 | 2         | 9.52%   |
-| 2012 | 2         | 9.52%   |
-| 2018 | 1         | 4.76%   |
-| 2011 | 1         | 4.76%   |
+| 2019 | 1         | 4.76%   |
+| 2017 | 1         | 4.76%   |
+| 2014 | 1         | 4.76%   |
 | 2010 | 1         | 4.76%   |
+| 2008 | 1         | 4.76%   |
 | 2007 | 1         | 4.76%   |
 
 Form Factor
@@ -1359,8 +1359,8 @@ Monitor models
 |---------------------------------------------------------------------------|-----------|---------|
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                   | 1         | 4.17%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 4.17%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch      | 1         | 4.17%   |
-| LG Display LCD Monitor LGD049B 1920x1080 340x190mm 15.3-inch              | 1         | 4.17%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 344x194mm 15.5-inch      | 1         | 4.17%   |
+| LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch              | 1         | 4.17%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 4.17%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 4.17%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 4.17%   |
@@ -1380,7 +1380,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO429D 1920x1080 382x215mm 17.3-inch            | 1         | 4.17%   |
 | AU Optronics LCD Monitor AUO123D 1920x1080 309x173mm 13.9-inch            | 1         | 4.17%   |
 | Ancor Communications VE248 ACI2494 1920x1080 531x299mm 24.0-inch          | 1         | 4.17%   |
-| Acer G247HL ACR03FA 1920x1080 530x300mm 24.0-inch                         | 1         | 4.17%   |
+| Acer G247HL ACR03FA 1920x1080 531x299mm 24.0-inch                         | 1         | 4.17%   |
 
 Monitor Resolution
 ------------------
@@ -1721,14 +1721,13 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 2         | 12.5%   |
+| Intel Bluetooth Device                              | 3         | 18.75%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 12.5%   |
 | IMC Networks Bluetooth Device                       | 2         | 12.5%   |
 | Realtek Bluetooth Radio                             | 1         | 6.25%   |
 | Lite-On Bluetooth Device                            | 1         | 6.25%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 6.25%   |
-| Intel AX201 Bluetooth                               | 1         | 6.25%   |
-| Intel AX200 Bluetooth                               | 1         | 6.25%   |
+| Intel Bluetooth wireless interface                  | 1         | 6.25%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1         | 6.25%   |
 | Foxconn / Hon Hai BCM20702A0                        | 1         | 6.25%   |
 | Dell BCM20702A0 Bluetooth Module                    | 1         | 6.25%   |
@@ -1820,18 +1819,18 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2 975MT/s                | 1         | 4.55%   |
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
 | SK Hynix RAM Module 4GB SODIMM DDR3 1066MT/s                 | 1         | 4.55%   |
-| SK Hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s    | 1         | 4.55%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 4.55%   |
-| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s       | 1         | 4.55%   |
+| SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 4.55%   |
+| SK Hynix RAM HMA451S6AFR8N-TF 4096MB SODIMM DDR4 2133MT/s    | 1         | 4.55%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s               | 1         | 4.55%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s     | 1         | 4.55%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 4.55%   |
 | Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s        | 1         | 4.55%   |
 | Micron RAM 8KTS51264HDZ-1G6E1 4GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4096MB SODIMM DDR4 3200MT/s     | 1         | 4.55%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s        | 1         | 4.55%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s        | 1         | 4.55%   |
-| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM 1334MT/s         | 1         | 4.55%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s       | 1         | 4.55%   |
 | Kingston RAM KFYHV1-HYC 4GB SODIMM DDR3 1600MT/s             | 1         | 4.55%   |
 | Kingston RAM KCRXJ6-MIE 16384MB SODIMM DDR4 2667MT/s         | 1         | 4.55%   |
 | Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
@@ -1982,7 +1981,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 4.76%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 4.76%   |
 | Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 4.76%   |
-| Alcor Micro SHUNCCM2MP                                                     | 1         | 4.76%   |
+| Alcor Micro USB 2.0 Web Camera                                             | 1         | 4.76%   |
 
 Security
 --------

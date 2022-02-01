@@ -695,18 +695,18 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2019 | 10        | 16.95%  |
-| 2020 | 9         | 15.25%  |
-| 2018 | 8         | 13.56%  |
-| 2013 | 8         | 13.56%  |
-| 2017 | 4         | 6.78%   |
-| 2012 | 4         | 6.78%   |
+| 2019 | 8         | 13.56%  |
+| 2012 | 8         | 13.56%  |
+| 2011 | 8         | 13.56%  |
+| 2020 | 5         | 8.47%   |
+| 2018 | 5         | 8.47%   |
+| 2013 | 5         | 8.47%   |
+| 2010 | 4         | 6.78%   |
+| 2009 | 4         | 6.78%   |
+| 2016 | 3         | 5.08%   |
 | 2015 | 3         | 5.08%   |
 | 2014 | 3         | 5.08%   |
-| 2010 | 3         | 5.08%   |
-| 2016 | 2         | 3.39%   |
-| 2011 | 2         | 3.39%   |
-| 2009 | 2         | 3.39%   |
+| 2017 | 2         | 3.39%   |
 | 2021 | 1         | 1.69%   |
 
 Form Factor
@@ -985,68 +985,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Notebooks | Percent |
-|----------------------------------------|-----------|---------|
-| Unknown MMC Card  64GB                 | 3         | 4.11%   |
-| WDC WD10JPVT-08A1YT2 1TB               | 2         | 2.74%   |
-| Seagate ST9500325AS 500GB              | 2         | 2.74%   |
-| Seagate ST500LT012-1DG142 500GB        | 2         | 2.74%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB     | 2         | 2.74%   |
-| Kingston SA400S37480G 480GB SSD        | 2         | 2.74%   |
-| Intel NVMe SSD Drive 512GB             | 2         | 2.74%   |
-| HGST HTS725050A7E630 500GB             | 2         | 2.74%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD       | 1         | 1.37%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD       | 1         | 1.37%   |
-| WDC WD7500LPCX-60HWST0 752GB           | 1         | 1.37%   |
-| WDC WD5000LPVX-22V0TT0 500GB           | 1         | 1.37%   |
-| WDC WD5000LPCX-00VHAT0 500GB           | 1         | 1.37%   |
-| WDC WD3200BEVT-22ZCT0 320GB            | 1         | 1.37%   |
-| WDC WD10SPZX-22Z10T0 1TB               | 1         | 1.37%   |
-| WDC WD10JPVX-22JC3T0 1TB               | 1         | 1.37%   |
-| WDC WD10JPCX-24UE4T0 1TB               | 1         | 1.37%   |
-| Unknown SD/MMC/MS PRO 7GB              | 1         | 1.37%   |
-| Transcend TS1TSSD230S 1024GB           | 1         | 1.37%   |
-| Toshiba TR200 240GB SSD                | 1         | 1.37%   |
-| Toshiba NVMe SSD Drive 512GB           | 1         | 1.37%   |
-| Toshiba MQ01ABD100M 1TB                | 1         | 1.37%   |
-| Toshiba MQ01ABD075 752GB               | 1         | 1.37%   |
-| Toshiba MK5065GSXN 500GB               | 1         | 1.37%   |
-| Toshiba MK3265GSX 320GB                | 1         | 1.37%   |
-| Toshiba KBG30ZMS256G NVMe 256GB        | 1         | 1.37%   |
-| SPCC Solid State Disk 256GB            | 1         | 1.37%   |
-| SK Hynix NVMe SSD Drive 256GB          | 1         | 1.37%   |
-| Seagate ST9500420AS 500GB              | 1         | 1.37%   |
-| Seagate ST9320423AS 320GB              | 1         | 1.37%   |
-| Seagate ST500LT012-9WS142 500GB        | 1         | 1.37%   |
-| Seagate ST1000LX015-1U7172 1TB         | 1         | 1.37%   |
-| Seagate ST1000LM035-1RK1 1TB           | 1         | 1.37%   |
-| Seagate Expansion 500GB                | 1         | 1.37%   |
-| SanDisk SSD PLUS 240 GB                | 1         | 1.37%   |
-| SanDisk SD9SN8W512G1002 512GB SSD      | 1         | 1.37%   |
-| SanDisk SD8SBBU480G1122 480GB SSD      | 1         | 1.37%   |
-| Samsung SSD 860 PRO 512GB              | 1         | 1.37%   |
-| Samsung SSD 860 PRO 1TB                | 1         | 1.37%   |
-| Samsung SSD 850 EVO 250GB              | 1         | 1.37%   |
-| Samsung SSD 840 PRO Series 128GB       | 1         | 1.37%   |
-| Samsung SSD 840 EVO 120GB              | 1         | 1.37%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB | 1         | 1.37%   |
-| Samsung NVMe SSD Drive 512GB           | 1         | 1.37%   |
-| Samsung NVMe SSD Drive 500GB           | 1         | 1.37%   |
-| Samsung NVMe SSD Drive 1024GB          | 1         | 1.37%   |
-| Samsung MZVLB512HBJQ-000L2 512GB       | 1         | 1.37%   |
-| Samsung MZNLN128HAHQ-000H1 128GB SSD   | 1         | 1.37%   |
-| Samsung HM321HI 320GB                  | 1         | 1.37%   |
-| Patriot Burst 480GB SSD                | 1         | 1.37%   |
-| oyunkey 480GB                          | 1         | 1.37%   |
-| Micron NVMe SSD Drive 256GB            | 1         | 1.37%   |
-| LITEONIT LCS-256M6S 256GB SSD          | 1         | 1.37%   |
-| Kingston SV300S37A240G 240GB SSD       | 1         | 1.37%   |
-| Kingston SA400S37960G 960GB SSD        | 1         | 1.37%   |
-| Hitachi HTS725032A9A364 320GB          | 1         | 1.37%   |
-| HGST HTS541010B7E610 1TB               | 1         | 1.37%   |
-| EMTEC X200 256GB                       | 1         | 1.37%   |
-| Dell SD1-U0250 256GB                   | 1         | 1.37%   |
-| Crucial CT525MX300SSD4 528GB           | 1         | 1.37%   |
+| Model                                | Notebooks | Percent |
+|--------------------------------------|-----------|---------|
+| Unknown MMC Card  64GB               | 3         | 4.11%   |
+| WDC WD10JPVT-08A1YT2 1TB             | 2         | 2.74%   |
+| Seagate ST9500325AS 500GB            | 2         | 2.74%   |
+| Seagate ST500LT012-1DG142 500GB      | 2         | 2.74%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB   | 2         | 2.74%   |
+| Kingston SA400S37480G 480GB SSD      | 2         | 2.74%   |
+| Intel NVMe SSD Drive 512GB           | 2         | 2.74%   |
+| HGST HTS725050A7E630 500GB           | 2         | 2.74%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD     | 1         | 1.37%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD     | 1         | 1.37%   |
+| WDC WD7500LPCX-60HWST0 752GB         | 1         | 1.37%   |
+| WDC WD5000LPVX-22V0TT0 500GB         | 1         | 1.37%   |
+| WDC WD5000LPCX-00VHAT0 500GB         | 1         | 1.37%   |
+| WDC WD3200BEVT-22ZCT0 320GB          | 1         | 1.37%   |
+| WDC WD10SPZX-22Z10T0 1TB             | 1         | 1.37%   |
+| WDC WD10JPVX-22JC3T0 1TB             | 1         | 1.37%   |
+| WDC WD10JPCX-24UE4T0 1TB             | 1         | 1.37%   |
+| Unknown SD/MMC/MS PRO 128GB          | 1         | 1.37%   |
+| Transcend TS1TSSD230S 1024GB         | 1         | 1.37%   |
+| Toshiba TR200 240GB SSD              | 1         | 1.37%   |
+| Toshiba NVMe SSD Drive 512GB         | 1         | 1.37%   |
+| Toshiba MQ01ABD100M 1TB              | 1         | 1.37%   |
+| Toshiba MQ01ABD075 752GB             | 1         | 1.37%   |
+| Toshiba MK5065GSXN 500GB             | 1         | 1.37%   |
+| Toshiba MK3265GSX 320GB              | 1         | 1.37%   |
+| Toshiba KBG30ZMS256G NVMe 256GB      | 1         | 1.37%   |
+| SPCC Solid State Disk 256GB          | 1         | 1.37%   |
+| SK Hynix NVMe SSD Drive 256GB        | 1         | 1.37%   |
+| Seagate ST9500420AS 500GB            | 1         | 1.37%   |
+| Seagate ST9320423AS 320GB            | 1         | 1.37%   |
+| Seagate ST500LT012-9WS142 500GB      | 1         | 1.37%   |
+| Seagate ST1000LX015-1U7172 1TB       | 1         | 1.37%   |
+| Seagate ST1000LM035-1RK1 1TB         | 1         | 1.37%   |
+| Seagate Expansion 1TB                | 1         | 1.37%   |
+| SanDisk SSD PLUS 240 GB              | 1         | 1.37%   |
+| SanDisk SD9SN8W512G1002 512GB SSD    | 1         | 1.37%   |
+| SanDisk SD8SBBU480G1122 480GB SSD    | 1         | 1.37%   |
+| Samsung SSD 860 PRO 512GB            | 1         | 1.37%   |
+| Samsung SSD 860 PRO 1TB              | 1         | 1.37%   |
+| Samsung SSD 850 EVO 250GB            | 1         | 1.37%   |
+| Samsung SSD 840 PRO Series 128GB     | 1         | 1.37%   |
+| Samsung SSD 840 EVO 120GB            | 1         | 1.37%   |
+| Samsung NVMe SSD Drive 512GB         | 1         | 1.37%   |
+| Samsung NVMe SSD Drive 500GB         | 1         | 1.37%   |
+| Samsung NVMe SSD Drive 256GB         | 1         | 1.37%   |
+| Samsung NVMe SSD Drive 1024GB        | 1         | 1.37%   |
+| Samsung MZVLB512HBJQ-000L2 512GB     | 1         | 1.37%   |
+| Samsung MZNLN128HAHQ-000H1 128GB SSD | 1         | 1.37%   |
+| Samsung HM321HI 320GB                | 1         | 1.37%   |
+| Patriot Burst 480GB SSD              | 1         | 1.37%   |
+| oyunkey 480GB                        | 1         | 1.37%   |
+| Micron NVMe SSD Drive 256GB          | 1         | 1.37%   |
+| LITEONIT LCS-256M6S 256GB SSD        | 1         | 1.37%   |
+| Kingston SV300S37A240G 240GB SSD     | 1         | 1.37%   |
+| Kingston SA400S37960G 960GB SSD      | 1         | 1.37%   |
+| Hitachi HTS725032A9A364 320GB        | 1         | 1.37%   |
+| HGST HTS541010B7E610 1TB             | 1         | 1.37%   |
+| EMTEC X200 256GB                     | 1         | 1.37%   |
+| Dell SD1-U0250 256GB                 | 1         | 1.37%   |
+| Crucial CT525MX300SSD4 528GB         | 1         | 1.37%   |
 
 HDD Vendor
 ----------
@@ -1128,9 +1128,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 35        | 38     | 63.64%  |
-| 0.51-1.0   | 19        | 22     | 34.55%  |
-| 1.01-2.0   | 1         | 1      | 1.82%   |
+| 0.01-0.5   | 34        | 37     | 62.96%  |
+| 0.51-1.0   | 19        | 23     | 35.19%  |
+| 1.01-2.0   | 1         | 1      | 1.85%   |
 
 Space Total
 -----------
@@ -1666,7 +1666,7 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD033A 1366x768 340x190mm 15.3-inch              | 4         | 5.97%   |
+| LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 4         | 5.97%   |
 | AU Optronics LCD Monitor AUO723C 1366x768 309x173mm 13.9-inch            | 3         | 4.48%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch          | 2         | 2.99%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1592 1366x768 344x193mm 15.5-inch | 2         | 2.99%   |
@@ -1674,23 +1674,23 @@ Monitor models
 | Sharp LQ156M1JW08 SHP14D4 1920x1080 344x194mm 15.5-inch                  | 1         | 1.49%   |
 | Samsung Electronics SyncMaster SAM037B 1680x1050 474x296mm 22.0-inch     | 1         | 1.49%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.49%   |
-| Samsung Electronics SA300/SA350 SAM078E 1680x1050 480x270mm 21.7-inch    | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 1         | 1.49%   |
+| Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch    | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 344x194mm 15.5-inch     | 1         | 1.49%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 1.49%   |
 | Samsung Electronics LCD Monitor SEC3551 1366x768 344x194mm 15.5-inch     | 1         | 1.49%   |
 | Samsung Electronics LCD Monitor SDC464C 1366x768 309x174mm 14.0-inch     | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 1020x570mm 46.0-inch   | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch    | 1         | 1.49%   |
 | LG Display LCD Monitor LGD05FF 1920x1080 344x194mm 15.5-inch             | 1         | 1.49%   |
 | LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch             | 1         | 1.49%   |
 | LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch             | 1         | 1.49%   |
-| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 1.49%   |
+| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch             | 1         | 1.49%   |
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 1         | 1.49%   |
 | LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 1         | 1.49%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 1.49%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 1.49%   |
-| LG Display LCD Monitor LGD027A 1600x900 380x210mm 17.1-inch              | 1         | 1.49%   |
+| LG Display LCD Monitor LGD027A 1600x900 382x215mm 17.3-inch              | 1         | 1.49%   |
 | LG Display LCD Monitor LGD0259 1920x1080 350x190mm 15.7-inch             | 1         | 1.49%   |
-| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                  | 1         | 1.49%   |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 1.49%   |
 | InfoVision LCD Monitor IVO0579 1366x768 310x170mm 13.9-inch              | 1         | 1.49%   |
 | Hewlett-Packard LA2205 HWP2847 1680x1050 473x296mm 22.0-inch             | 1         | 1.49%   |
 | Goldstar 27EA63 GSM598B 1920x1080 600x340mm 27.2-inch                    | 1         | 1.49%   |
@@ -1708,22 +1708,22 @@ Monitor models
 | BOE LCD Monitor BOE06B0 1366x768 344x194mm 15.5-inch                     | 1         | 1.49%   |
 | BOE LCD Monitor BOE0672 1366x768 344x194mm 15.5-inch                     | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO48EC 1366x768 344x193mm 15.5-inch            | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO45EC 1366x768 340x190mm 15.3-inch            | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO41EC 1366x768 340x190mm 15.3-inch            | 1         | 1.49%   |
+| AU Optronics LCD Monitor AUO45EC 1366x768 344x193mm 15.5-inch            | 1         | 1.49%   |
+| AU Optronics LCD Monitor AUO41EC 1366x768 344x193mm 15.5-inch            | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO4147 1440x900 303x189mm 14.1-inch            | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO36ED 1920x1080 340x190mm 15.3-inch           | 1         | 1.49%   |
+| AU Optronics LCD Monitor AUO36ED 1920x1080 344x193mm 15.5-inch           | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO325C 1366x768 256x144mm 11.6-inch            | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO313E 1600x900 309x174mm 14.0-inch            | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO312C 1366x768 293x164mm 13.2-inch            | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch            | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO25ED 1920x1080 344x193mm 15.5-inch           | 1         | 1.49%   |
+| AU Optronics LCD Monitor AUO25ED 1920x1080 344x194mm 15.5-inch           | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO233E 1600x900 309x174mm 14.0-inch            | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch           | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO21EC 1366x768 340x190mm 15.3-inch            | 1         | 1.49%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch           | 1         | 1.49%   |
+| AU Optronics LCD Monitor AUO21EC 1366x768 344x193mm 15.5-inch            | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO20EC 1366x768 344x193mm 15.5-inch            | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO159E 1600x900 380x210mm 17.1-inch            | 1         | 1.49%   |
 | AU Optronics LCD Monitor AUO149D 1920x1080 381x214mm 17.2-inch           | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO103C 1366x768 310x170mm 13.9-inch            | 1         | 1.49%   |
+| AU Optronics LCD Monitor AUO103C 1366x768 309x173mm 13.9-inch            | 1         | 1.49%   |
 | AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                          | 1         | 1.49%   |
 
 Monitor Resolution
@@ -2135,12 +2135,12 @@ Controller models
 
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                | 5         | 11.63%  |
+| Intel Bluetooth Device                            | 7         | 16.28%  |
 | Realtek Bluetooth Radio                           | 4         | 9.3%    |
 | Qualcomm Atheros  Bluetooth Device                | 4         | 9.3%    |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 4         | 9.3%    |
-| Intel AX200 Bluetooth                             | 3         | 6.98%   |
 | Lite-On Atheros AR3012 Bluetooth                  | 2         | 4.65%   |
+| Intel Bluetooth wireless interface                | 2         | 4.65%   |
 | Dell BCM20702A0 Bluetooth Module                  | 2         | 4.65%   |
 | Realtek RTL8723B Bluetooth                        | 1         | 2.33%   |
 | Realtek  Bluetooth 4.2 Adapter                    | 1         | 2.33%   |
@@ -2150,7 +2150,6 @@ Controller models
 | Lite-On Qualcomm Atheros Bluetooth                | 1         | 2.33%   |
 | Lite-On BCM43142A0                                | 1         | 2.33%   |
 | Intel Centrino Bluetooth Wireless Transceiver     | 1         | 2.33%   |
-| Intel AX201 Bluetooth                             | 1         | 2.33%   |
 | IMC Networks Bluetooth Radio                      | 1         | 2.33%   |
 | IMC Networks Bluetooth Device                     | 1         | 2.33%   |
 | HP Broadcom 2070 Bluetooth Combo                  | 1         | 2.33%   |
@@ -2261,13 +2260,13 @@ Memory module models
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM 800MT/s                       | 1         | 11.11%  |
-| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s       | 1         | 11.11%  |
+| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 11.11%  |
 | Smart RAM SH564128FJ8NZRNSDR 4096MB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |
 | SK Hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 11.11%  |
 | SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 11.11%  |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 1         | 11.11%  |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s       | 1         | 11.11%  |
-| Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM DDR3 1066MT/s     | 1         | 11.11%  |
+| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s    | 1         | 11.11%  |
+| Samsung RAM M471A1K43EB1-CWE 8192MB SODIMM DDR4 3200MT/s    | 1         | 11.11%  |
+| Ramaxel RAM RMT1970ED48E8F1066 2048MB SODIMM DDR3 1066MT/s  | 1         | 11.11%  |
 | Micron RAM 4ATF11G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s | 1         | 11.11%  |
 
 Memory Kind
@@ -2410,10 +2409,10 @@ Camera device models
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
 | Chicony HD WebCam                                                          | 5         | 8.77%   |
+| Microdia Laptop_Integrated_Webcam_HD                                       | 3         | 5.26%   |
 | Chicony Integrated Camera                                                  | 3         | 5.26%   |
 | Acer EasyCamera                                                            | 3         | 5.26%   |
 | Syntek Integrated Camera                                                   | 2         | 3.51%   |
-| Microdia Laptop_Integrated_Webcam_HD                                       | 2         | 3.51%   |
 | Microdia Integrated_Webcam_HD                                              | 2         | 3.51%   |
 | IMC Networks Integrated Camera                                             | 2         | 3.51%   |
 | Chicony Integrated HP HD Webcam                                            | 2         | 3.51%   |
@@ -2436,7 +2435,6 @@ Camera device models
 | Microdia Laptop_Integrated_Webcam_E4HD                                     | 1         | 1.75%   |
 | Microdia Laptop_Integrated_Webcam_2M                                       | 1         | 1.75%   |
 | Microdia Laptop Integrated Webcam HD (Composite Device)                    | 1         | 1.75%   |
-| Microdia Dell Laptop Integrated Webcam HD                                  | 1         | 1.75%   |
 | Microdia Dell Integrated HD Webcam                                         | 1         | 1.75%   |
 | Logitech HD Pro Webcam C920                                                | 1         | 1.75%   |
 | Lite-On HP Wide Vision HD Camera                                           | 1         | 1.75%   |

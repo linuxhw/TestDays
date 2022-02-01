@@ -535,17 +535,19 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 8        | 25.81%  |
+| 2019 | 4        | 12.9%   |
 | 2018 | 4        | 12.9%   |
-| 2015 | 4        | 12.9%   |
-| 2020 | 3        | 9.68%   |
-| 2016 | 3        | 9.68%   |
-| 2017 | 2        | 6.45%   |
-| 2012 | 2        | 6.45%   |
-| 2010 | 2        | 6.45%   |
+| 2017 | 4        | 12.9%   |
+| 2012 | 4        | 12.9%   |
+| 2014 | 3        | 9.68%   |
+| 2016 | 2        | 6.45%   |
+| 2015 | 2        | 6.45%   |
+| 2013 | 2        | 6.45%   |
+| 2009 | 2        | 6.45%   |
+| 2020 | 1        | 3.23%   |
 | 2011 | 1        | 3.23%   |
-| 2009 | 1        | 3.23%   |
 | 2008 | 1        | 3.23%   |
+| 2007 | 1        | 3.23%   |
 
 Form Factor
 -----------
@@ -1426,7 +1428,7 @@ Graphics card models
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 1        | 3.13%   |
 | AMD Richland [Radeon HD 8470D]                                                           | 1        | 3.13%   |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]                    | 1        | 3.13%   |
-| AMD Oland PRO [Radeon R7 240/340]                                                        | 1        | 3.13%   |
+| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                                           | 1        | 3.13%   |
 | AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                                  | 1        | 3.13%   |
 | AMD Kabini [Radeon HD 8330E]                                                             | 1        | 3.13%   |
 | AMD Cypress XT [Radeon HD 5870]                                                          | 1        | 3.13%   |
@@ -1553,9 +1555,9 @@ Monitor models
 | BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                    | 1        | 3.13%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch              | 1        | 3.13%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch      | 1        | 3.13%   |
-| Ancor Communications VG248 ACI24E1 1680x1050 530x300mm 24.0-inch     | 1        | 3.13%   |
+| Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch     | 1        | 3.13%   |
 | Acer K222HQL ACR040D 1920x1080 480x270mm 21.7-inch                   | 1        | 3.13%   |
-| Acer AL171 ACRAD18 1280x1024 338x270mm 17.0-inch                     | 1        | 3.13%   |
+| Acer AL1714 ACRAD18 1280x1024 338x270mm 17.0-inch                    | 1        | 3.13%   |
 
 Monitor Resolution
 ------------------
@@ -1921,7 +1923,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 6        | 60%     |
 | Micro Star International Bluetooth Device           | 1        | 10%     |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 10%     |
-| Intel Bluetooth wireless interface                  | 1        | 10%     |
+| Intel Bluetooth Device                              | 1        | 10%     |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 10%     |
 
 Sound
@@ -2036,9 +2038,9 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.63%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.63%   |
 | Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s       | 1        | 2.63%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s        | 1        | 2.63%   |
+| Team RAM TEAMGROUP-UD4-3200 16384MB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
 | SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.63%   |
-| SK Hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s    | 1        | 2.63%   |
+| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.63%   |
 | SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.63%   |
 | SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.63%   |
@@ -2047,7 +2049,7 @@ Memory module models
 | Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s     | 1        | 2.63%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.63%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1867MT/s        | 1        | 2.63%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1867MT/s     | 1        | 2.63%   |
 | Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
@@ -2062,7 +2064,7 @@ Memory module models
 | Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.63%   |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.63%   |
-| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
 | Corsair RAM CMK16GX4M1A2666C16 16384MB DIMM DDR4 2667MT/s  | 1        | 2.63%   |
 | AMD RAM R534G1601S1SL 4096MB DIMM DDR3 1600MT/s            | 1        | 2.63%   |
