@@ -157,6 +157,7 @@ Test Cases
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
+| ASRock        | FM2A68M-HD+ R2.0         | [d0ba3786b2](https://linux-hardware.org/?probe=d0ba3786b2) | Feb 03, 2022 |
 | Intel         | H81                      | [c1763fe2cf](https://linux-hardware.org/?probe=c1763fe2cf) | Jan 29, 2022 |
 | ECS           | A55F-M3                  | [5439a8e37c](https://linux-hardware.org/?probe=5439a8e37c) | Nov 27, 2021 |
 | MSI           | B460M PRO                | [ae3e01fef8](https://linux-hardware.org/?probe=ae3e01fef8) | Oct 31, 2021 |
@@ -683,8 +684,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 24       | 57.14%  |
-| No        | 18       | 42.86%  |
+| Yes       | 23       | 54.76%  |
+| No        | 19       | 45.24%  |
 
 Has Ethernet
 ------------
@@ -794,7 +795,7 @@ Geographic location (city)
 | Gosport                  | 1        | 2.33%   |
 | Gdansk                   | 1        | 2.33%   |
 | Fort Wayne               | 1        | 2.33%   |
-| Florian??polis           | 1        | 2.33%   |
+| FlorianÃ³polis         | 1        | 2.33%   |
 | Dubno                    | 1        | 2.33%   |
 | Chula Vista              | 1        | 2.33%   |
 | Castleknock              | 1        | 2.33%   |
@@ -1201,7 +1202,7 @@ Storage controller models
 | Nvidia MCP55 IDE                                                                        | 1        | 1.32%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                         | 1        | 1.32%   |
 | Marvell Group 88SE9230 PCIe 2.0 x2 4-port SATA 6 Gb/s RAID Controller                   | 1        | 1.32%   |
-| Marvell Group 88SE9170 SATA 6G Controller                                               | 1        | 1.32%   |
+| Marvell Group 88SE9170 PCIe 2.0 x1 2-port SATA 6 Gb/s Controller                        | 1        | 1.32%   |
 | Kingston Company KC2000 NVMe SSD                                                        | 1        | 1.32%   |
 | JMicron JMB368 IDE controller                                                           | 1        | 1.32%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 1        | 1.32%   |
@@ -1585,21 +1586,22 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Samsung Electronics  | 8        | 20%     |
-| Goldstar             | 8        | 20%     |
-| Dell                 | 6        | 15%     |
-| Acer                 | 4        | 10%     |
-| ViewSonic            | 2        | 5%      |
-| Philips              | 2        | 5%      |
-| Ancor Communications | 2        | 5%      |
-| Vestel Elektronik    | 1        | 2.5%    |
-| Sanyo                | 1        | 2.5%    |
-| MSI                  | 1        | 2.5%    |
-| IBM                  | 1        | 2.5%    |
-| HYO                  | 1        | 2.5%    |
-| Eizo                 | 1        | 2.5%    |
-| BenQ                 | 1        | 2.5%    |
-| AOC                  | 1        | 2.5%    |
+| Samsung Electronics  | 8        | 19.51%  |
+| Goldstar             | 8        | 19.51%  |
+| Dell                 | 6        | 14.63%  |
+| Acer                 | 4        | 9.76%   |
+| ViewSonic            | 2        | 4.88%   |
+| Philips              | 2        | 4.88%   |
+| Ancor Communications | 2        | 4.88%   |
+| Vestel Elektronik    | 1        | 2.44%   |
+| Sanyo                | 1        | 2.44%   |
+| MSI                  | 1        | 2.44%   |
+| IBM                  | 1        | 2.44%   |
+| HYO                  | 1        | 2.44%   |
+| Eizo                 | 1        | 2.44%   |
+| DTV                  | 1        | 2.44%   |
+| BenQ                 | 1        | 2.44%   |
+| AOC                  | 1        | 2.44%   |
 
 Monitor Model
 -------------
@@ -1611,43 +1613,44 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch    | 4        | 9.76%   |
-| Goldstar LG 32 FHD GSM76FF 1920x1080 700x390mm 31.5-inch                | 2        | 4.88%   |
-| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.44%   |
-| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.44%   |
-| Vestel Elektronik LCD Monitor VES3700 1920x540                          | 1        | 2.44%   |
-| Sanyo LCD MONITOR SAN2213 1920x1080 474x296mm 22.0-inch                 | 1        | 2.44%   |
-| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.44%   |
-| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 2.44%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 2.44%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 2.44%   |
-| Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.44%   |
-| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.44%   |
-| MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                       | 1        | 2.44%   |
-| IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                         | 1        | 2.44%   |
-| HYO DUAL-DVI HYO049B 2560x1440 597x336mm 27.0-inch                      | 1        | 2.44%   |
-| Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                    | 1        | 2.44%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                    | 1        | 2.44%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch              | 1        | 2.44%   |
-| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 2.44%   |
-| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                        | 1        | 2.44%   |
-| Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                    | 1        | 2.44%   |
-| Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                        | 1        | 2.44%   |
-| Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                       | 1        | 2.44%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 1        | 2.44%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                   | 1        | 2.44%   |
-| Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                      | 1        | 2.44%   |
-| Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                        | 1        | 2.44%   |
-| Dell E1913 DELD051 1440x900 408x255mm 18.9-inch                         | 1        | 2.44%   |
-| BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                      | 1        | 2.44%   |
-| AOC 2060W AOC2060 1600x900 430x240mm 19.4-inch                          | 1        | 2.44%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                          | 1        | 2.44%   |
-| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch        | 1        | 2.44%   |
-| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch   | 1        | 2.44%   |
-| Acer XF240H ACR0472 1920x1080 530x300mm 24.0-inch                       | 1        | 2.44%   |
-| Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                         | 1        | 2.44%   |
-| Acer HX1953L ACR038C 1600x900 432x239mm 19.4-inch                       | 1        | 2.44%   |
-| Acer H243H ACR0074 1920x1080 530x290mm 23.8-inch                        | 1        | 2.44%   |
+| Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch    | 4        | 9.52%   |
+| Goldstar 32 FHD GSM76FF 1920x1080 698x392mm 31.5-inch                   | 2        | 4.76%   |
+| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.38%   |
+| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.38%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1100x620mm 49.7-inch   | 1        | 2.38%   |
+| Sanyo LCD MONITOR SAN2213 1920x1080 474x296mm 22.0-inch                 | 1        | 2.38%   |
+| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.38%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 2.38%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 2.38%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 2.38%   |
+| Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.38%   |
+| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.38%   |
+| MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                       | 1        | 2.38%   |
+| IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                         | 1        | 2.38%   |
+| HYO DUAL-DVI HYO049B 2560x1440 597x336mm 27.0-inch                      | 1        | 2.38%   |
+| Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                    | 1        | 2.38%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                    | 1        | 2.38%   |
+| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch               | 1        | 2.38%   |
+| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 2.38%   |
+| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                        | 1        | 2.38%   |
+| Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                    | 1        | 2.38%   |
+| Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                        | 1        | 2.38%   |
+| DTV Philco DTV0B01 1600x1200 700x390mm 31.5-inch                        | 1        | 2.38%   |
+| Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                       | 1        | 2.38%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 1        | 2.38%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                   | 1        | 2.38%   |
+| Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                      | 1        | 2.38%   |
+| Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                        | 1        | 2.38%   |
+| Dell E1913 DELD051 1440x900 408x255mm 18.9-inch                         | 1        | 2.38%   |
+| BenQ GW2406Z BNQ78E1 1920x1080 530x300mm 24.0-inch                      | 1        | 2.38%   |
+| AOC 2060W AOC2060 1600x900 430x240mm 19.4-inch                          | 1        | 2.38%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                          | 1        | 2.38%   |
+| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch        | 1        | 2.38%   |
+| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch   | 1        | 2.38%   |
+| Acer XF240H ACR0472 1920x1080 530x300mm 24.0-inch                       | 1        | 2.38%   |
+| Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                         | 1        | 2.38%   |
+| Acer HX1953L ACR038C 1600x900 432x239mm 19.4-inch                       | 1        | 2.38%   |
+| Acer H243H ACR0074 1920x1080 530x290mm 23.8-inch                        | 1        | 2.38%   |
 
 Monitor Resolution
 ------------------
@@ -1659,16 +1662,16 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 20       | 50%     |
-| 1600x1200          | 4        | 10%     |
-| 3840x2160 (4K)     | 3        | 7.5%    |
-| 1366x768 (WXGA)    | 3        | 7.5%    |
-| 1680x1050 (WSXGA+) | 2        | 5%      |
-| 1600x900 (HD+)     | 2        | 5%      |
-| 1440x900 (WXGA+)   | 2        | 5%      |
-| 1280x1024 (SXGA)   | 2        | 5%      |
-| 2560x1440 (QHD)    | 1        | 2.5%    |
-| 1920x1200 (WUXGA)  | 1        | 2.5%    |
+| 1920x1080 (FHD)    | 20       | 48.78%  |
+| 1600x1200          | 5        | 12.2%   |
+| 3840x2160 (4K)     | 3        | 7.32%   |
+| 1366x768 (WXGA)    | 3        | 7.32%   |
+| 1680x1050 (WSXGA+) | 2        | 4.88%   |
+| 1600x900 (HD+)     | 2        | 4.88%   |
+| 1440x900 (WXGA+)   | 2        | 4.88%   |
+| 1280x1024 (SXGA)   | 2        | 4.88%   |
+| 2560x1440 (QHD)    | 1        | 2.44%   |
+| 1920x1200 (WUXGA)  | 1        | 2.44%   |
 
 Monitor Diagonal
 ----------------
@@ -1680,18 +1683,18 @@ Diagonal size in inches
 
 | Inches | Desktops | Percent |
 |--------|----------|---------|
-| 21     | 8        | 19.51%  |
-| 24     | 7        | 17.07%  |
-| 19     | 5        | 12.2%   |
-| 27     | 4        | 9.76%   |
-| 18     | 4        | 9.76%   |
-| 23     | 3        | 7.32%   |
-| 84     | 2        | 4.88%   |
-| 65     | 2        | 4.88%   |
-| 31     | 2        | 4.88%   |
-| 20     | 2        | 4.88%   |
-| 42     | 1        | 2.44%   |
-| 22     | 1        | 2.44%   |
+| 21     | 8        | 19.05%  |
+| 24     | 7        | 16.67%  |
+| 19     | 5        | 11.9%   |
+| 27     | 4        | 9.52%   |
+| 18     | 4        | 9.52%   |
+| 31     | 3        | 7.14%   |
+| 23     | 3        | 7.14%   |
+| 84     | 2        | 4.76%   |
+| 65     | 2        | 4.76%   |
+| 20     | 2        | 4.76%   |
+| 42     | 1        | 2.38%   |
+| 22     | 1        | 2.38%   |
 
 Monitor Width
 -------------
@@ -1703,13 +1706,13 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 401-500     | 17       | 42.5%   |
-| 501-600     | 14       | 35%     |
-| 601-700     | 2        | 5%      |
-| 351-400     | 2        | 5%      |
-| 1501-2000   | 2        | 5%      |
-| 1001-1500   | 2        | 5%      |
-| 901-1000    | 1        | 2.5%    |
+| 401-500     | 17       | 41.46%  |
+| 501-600     | 14       | 34.15%  |
+| 601-700     | 3        | 7.32%   |
+| 351-400     | 2        | 4.88%   |
+| 1501-2000   | 2        | 4.88%   |
+| 1001-1500   | 2        | 4.88%   |
+| 901-1000    | 1        | 2.44%   |
 
 Aspect Ratio
 ------------
@@ -1721,10 +1724,10 @@ Proportional relationship between the width and the height
 
 | Ratio | Desktops | Percent |
 |-------|----------|---------|
-| 16/9  | 28       | 71.79%  |
-| 16/10 | 5        | 12.82%  |
-| 4/3   | 4        | 10.26%  |
-| 5/4   | 2        | 5.13%   |
+| 16/9  | 29       | 72.5%   |
+| 16/10 | 5        | 12.5%   |
+| 4/3   | 4        | 10%     |
+| 5/4   | 2        | 5%      |
 
 Monitor Area
 ------------
@@ -1736,14 +1739,14 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 18       | 45%     |
-| 151-200        | 7        | 17.5%   |
-| More than 1000 | 4        | 10%     |
-| 301-350        | 4        | 10%     |
-| 141-150        | 3        | 7.5%    |
-| 351-500        | 2        | 5%      |
-| 251-300        | 1        | 2.5%    |
-| 501-1000       | 1        | 2.5%    |
+| 201-250        | 18       | 43.9%   |
+| 151-200        | 7        | 17.07%  |
+| More than 1000 | 4        | 9.76%   |
+| 301-350        | 4        | 9.76%   |
+| 351-500        | 3        | 7.32%   |
+| 141-150        | 3        | 7.32%   |
+| 251-300        | 1        | 2.44%   |
+| 501-1000       | 1        | 2.44%   |
 
 Pixel Density
 -------------
@@ -1755,9 +1758,9 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 30       | 76.92%  |
-| 101-120 | 7        | 17.95%  |
-| 1-50    | 2        | 5.13%   |
+| 51-100  | 31       | 77.5%   |
+| 101-120 | 7        | 17.5%   |
+| 1-50    | 2        | 5%      |
 
 Multiple Monitors
 -----------------
@@ -2001,9 +2004,10 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Intel Bluetooth Device                              | 2        | 28.57%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2        | 28.57%  |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1        | 14.29%  |
+| Intel Bluetooth wireless interface                  | 1        | 14.29%  |
+| Intel AX200 Bluetooth                               | 1        | 14.29%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 14.29%  |
 | ASUS BCM20702A0                                     | 1        | 14.29%  |
 
@@ -2128,7 +2132,7 @@ Memory module models
 |-----------------------------------------------------------|----------|---------|
 | Unknown RAM Module 4096MB DIMM 1600MT/s                   | 3        | 5.88%   |
 | Unknown RAM Module 1024MB DIMM DDR 333MT/s                | 2        | 3.92%   |
-| SK Hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s  | 2        | 3.92%   |
+| SK Hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s     | 2        | 3.92%   |
 | Unknown RAM Module 512MB DIMM DDR 200MT/s                 | 1        | 1.96%   |
 | Unknown RAM Module 4GB DIMM SDRAM                         | 1        | 1.96%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s               | 1        | 1.96%   |
@@ -2144,31 +2148,31 @@ Memory module models
 | SK Hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 1.96%   |
 | Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s       | 1        | 1.96%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s       | 1        | 1.96%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM DDR2 1639MT/s   | 1        | 1.96%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 2048MT/s      | 1        | 1.96%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 1639MT/s      | 1        | 1.96%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2               | 1        | 1.96%   |
 | RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s             | 1        | 1.96%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3200MT/s       | 1        | 1.96%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s        | 1        | 1.96%   |
 | Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s        | 1        | 1.96%   |
 | OCZ RAM OCZ2N800SR2G 2048MB DIMM DDR 800MT/s              | 1        | 1.96%   |
 | Kingston RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 1.96%   |
 | Kingston RAM Module 4096MB DIMM DDR3 1333MT/s             | 1        | 1.96%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 1.96%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3200MT/s         | 1        | 1.96%   |
-| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 2400MT/s    | 1        | 1.96%   |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1867MT/s    | 1        | 1.96%   |
-| Kingston RAM K531R8-ETB 4096MB DIMM DDR3 1600MT/s         | 1        | 1.96%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s       | 1        | 1.96%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s       | 1        | 1.96%   |
+| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s            | 1        | 1.96%   |
 | Kingston RAM CL16-16-16 D4-2400 8192MB DIMM DDR4 2134MT/s | 1        | 1.96%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 1.96%   |
+| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s  | 1        | 1.96%   |
 | Kingston RAM 99U5403-159.A01LF 8192MB DIMM DDR3 1333MT/s  | 1        | 1.96%   |
 | Kingston RAM 9965525-026.A00LF 8192MB DIMM DDR3 1333MT/s  | 1        | 1.96%   |
-| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2400MT/s        | 1        | 1.96%   |
+| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s        | 1        | 1.96%   |
 | G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s         | 1        | 1.96%   |
 | G.Skill RAM F3-1333C9-4GSL 4096MB SODIMM DDR3 1333MT/s    | 1        | 1.96%   |
 | Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 1.96%   |
 | Corsair RAM CMX8GX3M1A1333C9 8192MB DIMM DDR3 1333MT/s    | 1        | 1.96%   |
 | Corsair RAM CMW16GX4M1Z3600C18 16384MB DIMM DDR4 3000MT/s | 1        | 1.96%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 1.96%   |
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 2400MT/s  | 1        | 1.96%   |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1        | 1.96%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 1.96%   |
 | Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s     | 1        | 1.96%   |
 | Corsair RAM CM4X8GD3200C16K4 8192MB DIMM DDR4 2133MT/s    | 1        | 1.96%   |
 | Corsair RAM CM4X16GC3000C16K4D 16384MB DIMM DDR4 3000MT/s | 1        | 1.96%   |
@@ -2235,15 +2239,16 @@ Memory module speed
 | 1600    | 12       | 24%     |
 | 1333    | 9        | 18%     |
 | 3000    | 4        | 8%      |
-| 2400    | 3        | 6%      |
 | 800     | 3        | 6%      |
 | 49926   | 2        | 4%      |
 | 3200    | 2        | 4%      |
+| 2400    | 2        | 4%      |
 | 2133    | 2        | 4%      |
 | 667     | 2        | 4%      |
 | 333     | 2        | 4%      |
 | 3600    | 1        | 2%      |
 | 3466    | 1        | 2%      |
+| 2666    | 1        | 2%      |
 | 2048    | 1        | 2%      |
 | 1867    | 1        | 2%      |
 | 1639    | 1        | 2%      |
@@ -2321,14 +2326,14 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                     | Desktops | Percent |
-|---------------------------|----------|---------|
-| Logitech Webcam C200      | 2        | 28.57%  |
-| Microsoft LifeCam HD-3000 | 1        | 14.29%  |
-| Logitech Webcam Pro 9000  | 1        | 14.29%  |
-| Logitech Webcam C270      | 1        | 14.29%  |
-| Huawei UVC Camera         | 1        | 14.29%  |
-| Generalplus 808 Camera    | 1        | 14.29%  |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Logitech Webcam C200                     | 2        | 28.57%  |
+| Microsoft LifeCam HD-3000                | 1        | 14.29%  |
+| Logitech Webcam Pro 9000                 | 1        | 14.29%  |
+| Logitech Webcam C270                     | 1        | 14.29%  |
+| Huawei HiCamera                          | 1        | 14.29%  |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 14.29%  |
 
 Security
 --------

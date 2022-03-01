@@ -734,13 +734,13 @@ Geographic location (city)
 | Lisbon                 | 2         | 7.14%   |
 | Winnipeg               | 1         | 3.57%   |
 | Visconde do Rio Branco | 1         | 3.57%   |
-| Setúbal               | 1         | 3.57%   |
+| SetГєbal             | 1         | 3.57%   |
 | Savonlinna             | 1         | 3.57%   |
 | Santiago               | 1         | 3.57%   |
 | Redding                | 1         | 3.57%   |
 | Reading                | 1         | 3.57%   |
 | Prato                  | 1         | 3.57%   |
-| Piteå                 | 1         | 3.57%   |
+| PiteГҐ               | 1         | 3.57%   |
 | Pasig                  | 1         | 3.57%   |
 | Paris                  | 1         | 3.57%   |
 | Ottawa                 | 1         | 3.57%   |
@@ -1400,14 +1400,14 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 3.7%    |
-| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch          | 1         | 3.7%    |
+| Panasonic VVX10T025J00 MEI96A2 2560x1600 223x125mm 10.1-inch         | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 3.7%    |
-| LG Display LCD Monitor LGD03D7 1366x768 309x174mm 14.0-inch          | 1         | 3.7%    |
+| LG Display LCD Monitor LGD03D7 1366x768 310x174mm 14.0-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0353 1366x768 345x194mm 15.6-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD02D9 1920x1080 345x194mm 15.6-inch         | 1         | 3.7%    |
-| Lenovo LCD Monitor LEN4035 1280x800 304x190mm 14.1-inch              | 1         | 3.7%    |
+| Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch              | 1         | 3.7%    |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 3.7%    |
@@ -1420,7 +1420,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch        | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO48EC 1366x768 344x193mm 15.5-inch        | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.7%    |
-| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch        | 1         | 3.7%    |
+| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch        | 1         | 3.7%    |
 
 Monitor Resolution
 ------------------
@@ -1598,7 +1598,7 @@ Controller models
 | Intel Cannon Lake PCH CNVi WiFi                                                       | 1         | 1.85%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                 | 1         | 1.85%   |
 | Intel 82567LM Gigabit Network Connection                                              | 1         | 1.85%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                                                  | 1         | 1.85%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                                                  | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                                     | 1         | 1.85%   |
 | Broadcom Limited NetXtreme BCM5756ME Gigabit Ethernet PCI Express                     | 1         | 1.85%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 1         | 1.85%   |
@@ -1651,7 +1651,7 @@ Wireless models
 | Intel Gemini Lake PCH CNVi WiFi                                                       | 1         | 3.45%   |
 | Intel Centrino Ultimate-N 6300                                                        | 1         | 3.45%   |
 | Intel Cannon Lake PCH CNVi WiFi                                                       | 1         | 3.45%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                                                  | 1         | 3.45%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                                                  | 1         | 3.45%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 1         | 3.45%   |
 
 Ethernet Vendor
@@ -1781,13 +1781,13 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth Device                              | 7         | 31.82%  |
-| Intel Bluetooth wireless interface                  | 4         | 18.18%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 13.64%  |
+| Intel Bluetooth wireless interface                  | 6         | 27.27%  |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 9.09%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 9.09%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 4.55%   |
 | Realtek Bluetooth Radio                             | 1         | 4.55%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.55%   |
+| Intel AX201 Bluetooth                               | 1         | 4.55%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4.55%   |
 
 Sound
@@ -1829,7 +1829,7 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                                                | 2         | 5.41%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 2         | 5.41%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2         | 5.41%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 2         | 5.41%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 2         | 5.41%   |
 | Texas Instruments PCM2902 Audio Codec                                                             | 1         | 2.7%    |
 | Nvidia GM204 High Definition Audio Controller                                                     | 1         | 2.7%    |
 | Nvidia GF106 High Definition Audio Controller                                                     | 1         | 2.7%    |
@@ -1874,14 +1874,14 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s    | 2         | 7.69%   |
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 7.69%   |
 | Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 3.85%   |
 | Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
 | SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 3.85%   |
 | SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 3.85%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s         | 1         | 3.85%   |
+| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 3.85%   |
 | SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.85%   |
-| SK Hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.85%   |
+| SK Hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 3.85%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 3.85%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s        | 1         | 3.85%   |
@@ -1895,9 +1895,9 @@ Memory module models
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
 | Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 3.85%   |
 | Kingston RAM KHX2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 3.85%   |
+| Kingston RAM KHX2666C15S4/16G 16384MB SODIMM DDR4 2667MT/s   | 1         | 3.85%   |
 | Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
-| Crucial RAM CT4G4SFS824A.C8FE 4096MB SODIMM DDR4 2400MT/s    | 1         | 3.85%   |
+| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
 | Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
 
 Memory Kind

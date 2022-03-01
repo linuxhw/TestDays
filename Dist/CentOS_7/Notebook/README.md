@@ -834,10 +834,10 @@ Geographic location (city)
 | Tehran           | 1         | 1.85%   |
 | Sofia            | 1         | 1.85%   |
 | Shakhovskaya     | 1         | 1.85%   |
-| S??o Paulo       | 1         | 1.85%   |
+| SÃ£o Paulo     | 1         | 1.85%   |
 | Santiago         | 1         | 1.85%   |
 | Salt Lake City   | 1         | 1.85%   |
-| Rzesz??w         | 1         | 1.85%   |
+| RzeszÃ³w       | 1         | 1.85%   |
 | Rostov-on-Don    | 1         | 1.85%   |
 | Paris            | 1         | 1.85%   |
 | Nur-Sultan       | 1         | 1.85%   |
@@ -850,7 +850,7 @@ Geographic location (city)
 | Manchester       | 1         | 1.85%   |
 | Maidenhead       | 1         | 1.85%   |
 | Lyubertsy        | 1         | 1.85%   |
-| Los ??ngeles     | 1         | 1.85%   |
+| Los Ãngeles   | 1         | 1.85%   |
 | Lodz             | 1         | 1.85%   |
 | Lisbon           | 1         | 1.85%   |
 | Langenhagen      | 1         | 1.85%   |
@@ -920,8 +920,8 @@ Hard drive models
 |---------------------------------------------------|-----------|---------|
 | Kingston SA400S37240G 240GB SSD                   | 3         | 4.48%   |
 | Toshiba TR200 240GB SSD                           | 2         | 2.99%   |
-| StoreJet Transcend 160GB                          | 2         | 2.99%   |
-| Seagate BUP Slim 2TB                              | 2         | 2.99%   |
+| StoreJet Transcend 256GB                          | 2         | 2.99%   |
+| Seagate BUP Slim 1TB                              | 2         | 2.99%   |
 | WDC WD7500BPKX-00HPJT0 752GB                      | 1         | 1.49%   |
 | WDC WD5000BEVT-80A0RT0 500GB                      | 1         | 1.49%   |
 | WDC WD5000BEVT-22A0RT0 500GB                      | 1         | 1.49%   |
@@ -1062,8 +1062,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 41        | 50     | 77.36%  |
-| 0.51-1.0   | 10        | 10     | 18.87%  |
-| 1.01-2.0   | 2         | 2      | 3.77%   |
+| 0.51-1.0   | 12        | 12     | 22.64%  |
 
 Space Total
 -----------
@@ -1665,13 +1664,13 @@ Monitor models
 | LG Display LCD Monitor LGD0456 1366x768 344x194mm 15.5-inch           | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0450 1366x768 277x156mm 12.5-inch           | 1         | 1.59%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch           | 1         | 1.59%   |
-| LG Display LCD Monitor LGD032C 1920x1080 344x194mm 15.5-inch          | 1         | 1.59%   |
+| LG Display LCD Monitor LGD032C 1920x1080 340x190mm 15.3-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02FC 1920x1080 380x210mm 17.1-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 345x194mm 15.6-inch          | 1         | 1.59%   |
-| LG Display LCD Monitor LGD02C5 1920x1080 380x210mm 17.1-inch          | 1         | 1.59%   |
+| LG Display LCD Monitor LGD02C5 1920x1080 382x215mm 17.3-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0290 1366x768 293x165mm 13.2-inch           | 1         | 1.59%   |
 | Lenovo T24i-10 LEN61A6 1920x1080 530x300mm 24.0-inch                  | 1         | 1.59%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch               | 1         | 1.59%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch               | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN4000 1024x768 246x184mm 12.1-inch               | 1         | 1.59%   |
@@ -1686,7 +1685,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15D6 1920x1080 344x193mm 15.5-inch      | 1         | 1.59%   |
 | Chimei Innolux LCD Monitor CMN15D3 1920x1080 344x193mm 15.5-inch      | 1         | 1.59%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 344x193mm 15.5-inch       | 1         | 1.59%   |
-| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x193mm 15.5-inch       | 1         | 1.59%   |
+| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x194mm 15.5-inch       | 1         | 1.59%   |
 | Chimei Innolux LCD Monitor CMN14D7 1920x1080 309x173mm 13.9-inch      | 1         | 1.59%   |
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch      | 1         | 1.59%   |
 | Chimei Innolux LCD Monitor CMN14A1 1366x768 309x174mm 14.0-inch       | 1         | 1.59%   |
@@ -1704,7 +1703,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO102C 1366x768 293x164mm 13.2-inch         | 1         | 1.59%   |
 | AU Optronics LCD Monitor 1920x1080                                    | 1         | 1.59%   |
 | Apple LCD Monitor APP9C9F 1280x800 286x179mm 13.3-inch                | 1         | 1.59%   |
-| Acer K272HL ACR0523 1920x1080 598x336mm 27.0-inch                     | 1         | 1.59%   |
+| Acer K272HL ACR0523 1920x1080 600x340mm 27.2-inch                     | 1         | 1.59%   |
 | Acer E191HQ ACR0062 1366x768 344x194mm 15.5-inch                      | 1         | 1.59%   |
 
 Monitor Resolution
@@ -1905,7 +1904,7 @@ Controller models
 | Xilinx Ethernet controller                                                    | 1         | 0.89%   |
 | TP-Link USB 10/100 LAN                                                        | 1         | 0.89%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]               | 1         | 0.89%   |
-| TP-Link 802.11ac WLAN Adapter                                                 | 1         | 0.89%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1         | 0.89%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1         | 0.89%   |
 | Silicon Integrated Systems [SiS] AC'97 Modem Controller                       | 1         | 0.89%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 1         | 0.89%   |
@@ -1984,7 +1983,7 @@ Wireless models
 | Intel Centrino Advanced-N 6230 [Rainbow Peak]                                 | 2         | 3.57%   |
 | Intel Centrino Advanced-N 6200                                                | 2         | 3.57%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                        | 2         | 3.57%   |
-| TP-Link 802.11ac WLAN Adapter                                                 | 1         | 1.79%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1         | 1.79%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 1         | 1.79%   |
 | Realtek RTL8723DE Wireless Network Adapter                                    | 1         | 1.79%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                               | 1         | 1.79%   |
@@ -2137,10 +2136,11 @@ Controller vendors
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
 | Intel                           | 16        | 42.11%  |
-| Qualcomm Atheros Communications | 7         | 18.42%  |
+| Qualcomm Atheros Communications | 6         | 15.79%  |
 | Broadcom                        | 4         | 10.53%  |
 | Realtek Semiconductor           | 3         | 7.89%   |
 | Dell                            | 3         | 7.89%   |
+| Qualcomm Atheros                | 1         | 2.63%   |
 | Lite-On Technology              | 1         | 2.63%   |
 | IMC Networks                    | 1         | 2.63%   |
 | Foxconn / Hon Hai               | 1         | 2.63%   |
@@ -2157,25 +2157,24 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                                                              | 8         | 21.05%  |
+| Intel Bluetooth wireless interface                                                  | 5         | 13.16%  |
+| Intel Bluetooth Device                                                              | 5         | 13.16%  |
+| Qualcomm Atheros  Bluetooth Device                                                  | 3         | 7.89%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 5.26%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 2         | 5.26%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 5.26%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 5.26%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 2         | 5.26%   |
-| Intel Bluetooth wireless interface                                                  | 2         | 5.26%   |
+| Intel AX200 Bluetooth                                                               | 2         | 5.26%   |
 | Dell DW375 Bluetooth Module                                                         | 2         | 5.26%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 2         | 5.26%   |
 | Realtek Bluetooth Radio                                                             | 1         | 2.63%   |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.63%   |
-| Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.63%   |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 2.63%   |
+| Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.63%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 2.63%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.63%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 1         | 2.63%   |
+| Intel AX201 Bluetooth                                                               | 1         | 2.63%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 2.63%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 2.63%   |
-| Dell BCM20702A0 Bluetooth Module                                                    | 1         | 2.63%   |
+| Dell BCM20702A0                                                                     | 1         | 2.63%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 1         | 2.63%   |
 | Broadcom BCM2045B (BDC-2) [Bluetooth Controller]                                    | 1         | 2.63%   |
 | ASUS BT-270 Bluetooth Adapter                                                       | 1         | 2.63%   |
@@ -2286,39 +2285,39 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM DRAM                        | 1         | 2.38%   |
 | Transcend RAM JM2666HSB-16G 16GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |
 | SK Hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
+| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s    | 1         | 2.38%   |
-| SK Hynix RAM HMA82GS6JJR8N-VK 16384MB SODIMM DDR4 2667MT/s   | 1         | 2.38%   |
+| SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s      | 1         | 2.38%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 2.38%   |
 | Samsung RAM Module 4096MB SODIMM DDR4 2667MT/s               | 1         | 2.38%   |
 | Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 2.38%   |
 | Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                | 1         | 2.38%   |
-| Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s     | 1         | 2.38%   |
+| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s        | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 2.38%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
-| Samsung RAM M471B1G73QH0-YK0 8192MB SODIMM DDR3 2667MT/s     | 1         | 2.38%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s        | 1         | 2.38%   |
+| Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 2667MT/s        | 1         | 2.38%   |
+| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s     | 1         | 2.38%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s        | 1         | 2.38%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |
+| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s     | 1         | 2.38%   |
 | Samsung RAM K4E6E304EE-EGCE 4096MB SODIMM LPDDR3 1600MT/s    | 1         | 2.38%   |
 | Samsung RAM K4E6E304EB-EGCG 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.38%   |
 | Ramaxel RAM RMSA3260MB78HAF2400 8GB SODIMM DDR4 2400MT/s     | 1         | 2.38%   |
-| Micron RAM 8JSF25664HZ-1G4D1 2048MB SODIMM DDR3 1334MT/s     | 1         | 2.38%   |
+| Micron RAM 8JSF25664HZ-1G4D1 2GB SODIMM DDR3 1334MT/s        | 1         | 2.38%   |
 | Micron RAM 16JTF51264HZ-1G4M1 4GB SODIMM DDR3 1334MT/s       | 1         | 2.38%   |
 | Micron RAM 16JTF51264HZ-1G4H1 4GB SODIMM DDR3 1333MT/s       | 1         | 2.38%   |
 | Kingston RAM MSI26D4S9D8ME-16 16384MB SODIMM DDR4 2667MT/s   | 1         | 2.38%   |
-| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
-| Kingston RAM ACR16D3LS1NGG/4G 4096MB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
+| Kingston RAM KHX1600C9S3L/8G 8192MB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
+| Kingston RAM ACR16D3LS1NGG/4G 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | Kingston RAM 99U5469-041.A00LF 4GB SODIMM DDR3 1600MT/s      | 1         | 2.38%   |
 | Kingston RAM 99U5428-058.A00LF 8192MB SODIMM DDR3 1333MT/s   | 1         | 2.38%   |
 | Kingston RAM 9905744-066.A00G 32GB SODIMM DDR4 3200MT/s      | 1         | 2.38%   |
 | Kingston RAM 9905700-025.A00G 8GB SODIMM DDR4 2400MT/s       | 1         | 2.38%   |
 | ELPIDA RAM EBJ20UF8BDU5-GN-F 2GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
-| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s      | 1         | 2.38%   |
+| Crucial RAM CT51264BF160B.C16F 4096MB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Crucial RAM CT25664BF160B.C8FK 2048MB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Apacer RAM 78.A2G86.AF5 2048MB SODIMM DDR2 800MT/s           | 1         | 2.38%   |
 | A-DATA RAM Module 4096MB SODIMM DDR3 1333MT/s                | 1         | 2.38%   |
@@ -2483,8 +2482,8 @@ Camera device models
 | IMC Networks Integrated Camera                | 2         | 5%      |
 | Syntek EasyCamera                             | 1         | 2.5%    |
 | Suyin Asus Integrated Webcam [CN031B]         | 1         | 2.5%    |
-| Sunplus USB2.0 Camera                         | 1         | 2.5%    |
 | Sunplus Laptop_Integrated_Webcam_HD           | 1         | 2.5%    |
+| Sunplus Integrated Webcam                     | 1         | 2.5%    |
 | Silicon Motion WebCam SC-10HDD12636N          | 1         | 2.5%    |
 | Ricoh Laptop_Integrated_Webcam_FHD            | 1         | 2.5%    |
 | Ricoh HD Webcam                               | 1         | 2.5%    |
@@ -2500,7 +2499,7 @@ Camera device models
 | Microdia Dell Integrated HD Webcam            | 1         | 2.5%    |
 | Logitech Webcam C170                          | 1         | 2.5%    |
 | Lite-On HP HD Camera                          | 1         | 2.5%    |
-| Generalplus 808 Camera                        | 1         | 2.5%    |
+| Generalplus 808 Camera #9 (web-cam mode)      | 1         | 2.5%    |
 | Chicony USB2.0 Camera                         | 1         | 2.5%    |
 | Chicony TOSHIBA Web Camera - HD               | 1         | 2.5%    |
 | Chicony Lenovo Integrated Camera (0.3MP)      | 1         | 2.5%    |

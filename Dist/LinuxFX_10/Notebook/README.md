@@ -732,7 +732,7 @@ Geographic location (city)
 | Vila Velha     | 1         | 2.63%   |
 | Val-d'Or       | 1         | 2.63%   |
 | Sydney         | 1         | 2.63%   |
-| S??o Paulo     | 1         | 2.63%   |
+| SÃ£o Paulo   | 1         | 2.63%   |
 | Sao Bernardo   | 1         | 2.63%   |
 | Salerno        | 1         | 2.63%   |
 | Saladas        | 1         | 2.63%   |
@@ -757,7 +757,7 @@ Geographic location (city)
 | Cincinnati     | 1         | 2.63%   |
 | Central        | 1         | 2.63%   |
 | Belo Horizonte | 1         | 2.63%   |
-| Bel?�m         | 1         | 2.63%   |
+| BelÃ©m       | 1         | 2.63%   |
 | Barcelona      | 1         | 2.63%   |
 | Arad           | 1         | 2.63%   |
 
@@ -1441,7 +1441,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.94%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 2.94%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch              | 1         | 2.94%   |
-| LG Display LCD Monitor LGD03B3 1366x768 309x174mm 14.0-inch              | 1         | 2.94%   |
+| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch              | 1         | 2.94%   |
 | LG Display LCD Monitor LGD02EB 1366x768 309x174mm 14.0-inch              | 1         | 2.94%   |
 | LG Display LCD Monitor LGD0251 1366x768 310x174mm 14.0-inch              | 1         | 2.94%   |
 | CPT LCD Monitor CPT13B1 1280x800 331x207mm 15.4-inch                     | 1         | 2.94%   |
@@ -1819,9 +1819,10 @@ Controller vendors
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
 | Intel                           | 6         | 28.57%  |
-| Qualcomm Atheros Communications | 4         | 19.05%  |
 | Lite-On Technology              | 3         | 14.29%  |
 | Realtek Semiconductor           | 2         | 9.52%   |
+| Qualcomm Atheros Communications | 2         | 9.52%   |
+| Qualcomm Atheros                | 2         | 9.52%   |
 | Hewlett-Packard                 | 2         | 9.52%   |
 | Cambridge Silicon Radio         | 2         | 9.52%   |
 | Ralink Technology               | 1         | 4.76%   |
@@ -1837,17 +1838,18 @@ Controller models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                                      | 3         | 14.29%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 9.52%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 9.52%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 9.52%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 9.52%   |
+| Intel Bluetooth wireless interface                          | 2         | 9.52%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 2         | 9.52%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 4.76%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 4.76%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 1         | 4.76%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 4.76%   |
-| Intel Bluetooth wireless interface                          | 1         | 4.76%   |
+| Lite-On Bluetooth Device                                    | 1         | 4.76%   |
+| Intel Bluetooth Device                                      | 1         | 4.76%   |
+| Intel AX201 Bluetooth                                       | 1         | 4.76%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 4.76%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 4.76%   |
 | Foxconn / Hon Hai BCM20702A0                                | 1         | 4.76%   |
@@ -1938,7 +1940,7 @@ Memory module models
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM SDRAM                       | 1         | 20%     |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 20%     |
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1         | 20%     |
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 1         | 20%     |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s      | 1         | 20%     |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s   | 1         | 20%     |
 

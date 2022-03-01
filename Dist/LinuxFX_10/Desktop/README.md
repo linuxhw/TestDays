@@ -723,7 +723,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | WDC WD10EZEX-08WN4A0 1TB           | 2        | 4.88%   |
-| XPG GAMMIX S11 Pro 2TB             | 1        | 2.44%   |
+| XPG GAMMIX S11 Pro 1TB             | 1        | 2.44%   |
 | WDC WD5000AAKX-001CA0 500GB        | 1        | 2.44%   |
 | WDC WD5000AACS-00G8B1 500GB        | 1        | 2.44%   |
 | WDC WD400JD-55MSA1 40GB            | 1        | 2.44%   |
@@ -733,7 +733,7 @@ Hard drive models
 | WDC WD1003FZEX-00MK2A0 1TB         | 1        | 2.44%   |
 | Toshiba MQ01ACF050 500GB           | 1        | 2.44%   |
 | Toshiba MQ01ABD050 500GB           | 1        | 2.44%   |
-| TO Exter nal USB 3.0 256GB         | 1        | 2.44%   |
+| TO Exter nal USB 3.0 2TB           | 1        | 2.44%   |
 | Seagate ST500LX012-SSHD-8GB        | 1        | 2.44%   |
 | Seagate ST500DM002-1BD142 500GB    | 1        | 2.44%   |
 | Seagate ST3200826AS 200GB          | 1        | 2.44%   |
@@ -773,14 +773,13 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 9        | 10     | 36%     |
-| Seagate             | 4        | 7      | 16%     |
-| Samsung Electronics | 3        | 4      | 12%     |
-| Hitachi             | 3        | 3      | 12%     |
-| Toshiba             | 2        | 2      | 8%      |
-| MAXTOR              | 2        | 2      | 8%      |
-| TO Exter            | 1        | 1      | 4%      |
-| ASMT109x            | 1        | 1      | 4%      |
+| WDC                 | 9        | 10     | 37.5%   |
+| Seagate             | 4        | 7      | 16.67%  |
+| Samsung Electronics | 3        | 4      | 12.5%   |
+| Hitachi             | 3        | 3      | 12.5%   |
+| Toshiba             | 2        | 2      | 8.33%   |
+| MAXTOR              | 2        | 2      | 8.33%   |
+| ASMT109x            | 1        | 1      | 4.17%   |
 
 SSD Vendor
 ----------
@@ -792,15 +791,16 @@ Solid state drive vendors
 
 | Vendor            | Desktops | Drives | Percent |
 |-------------------|----------|--------|---------|
-| Kingston          | 2        | 3      | 20%     |
-| SanDisk           | 1        | 1      | 10%     |
-| PNY               | 1        | 1      | 10%     |
-| Patriot           | 1        | 1      | 10%     |
-| OCZ               | 1        | 1      | 10%     |
-| Mushkin           | 1        | 1      | 10%     |
-| Hewlett-Packard   | 1        | 1      | 10%     |
-| China             | 1        | 1      | 10%     |
-| A-DATA Technology | 1        | 2      | 10%     |
+| Kingston          | 2        | 3      | 18.18%  |
+| TO Exter          | 1        | 1      | 9.09%   |
+| SanDisk           | 1        | 1      | 9.09%   |
+| PNY               | 1        | 1      | 9.09%   |
+| Patriot           | 1        | 1      | 9.09%   |
+| OCZ               | 1        | 1      | 9.09%   |
+| Mushkin           | 1        | 1      | 9.09%   |
+| Hewlett-Packard   | 1        | 1      | 9.09%   |
+| China             | 1        | 1      | 9.09%   |
+| A-DATA Technology | 1        | 2      | 9.09%   |
 
 Drive Kind
 ----------
@@ -812,8 +812,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 19       | 30     | 63.33%  |
-| SSD  | 9        | 12     | 30%     |
+| HDD  | 18       | 29     | 60%     |
+| SSD  | 10       | 13     | 33.33%  |
 | NVMe | 2        | 2      | 6.67%   |
 
 Drive Connector
@@ -840,10 +840,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 21       | 34     | 75%     |
+| 0.01-0.5   | 20       | 33     | 71.43%  |
 | 0.51-1.0   | 5        | 6      | 17.86%  |
+| 1.01-2.0   | 2        | 2      | 7.14%   |
 | 3.01-4.0   | 1        | 1      | 3.57%   |
-| 1.01-2.0   | 1        | 1      | 3.57%   |
 
 Space Total
 -----------
@@ -1320,19 +1320,19 @@ Monitor models
 | Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch         | 1        | 5%      |
 | Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch      | 1        | 5%      |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch   | 1        | 5%      |
-| Samsung Electronics SMBX2331 SAM076F 1920x1080 510x290mm 23.1-inch     | 1        | 5%      |
+| Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch     | 1        | 5%      |
 | Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch | 1        | 5%      |
 | Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1        | 5%      |
 | Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                     | 1        | 5%      |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch           | 1        | 5%      |
 | Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                   | 1        | 5%      |
 | Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                    | 1        | 5%      |
-| Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                   | 1        | 5%      |
+| Goldstar E2441 GSM581F 1920x1080 530x300mm 24.0-inch                   | 1        | 5%      |
 | BenQ LCD Monitor GL951A 2880x900                                       | 1        | 5%      |
 | BenQ LCD Monitor GL951A                                                | 1        | 5%      |
 | BenQ GL951A BNQ7897 1440x900 408x255mm 18.9-inch                       | 1        | 5%      |
 | Acer V226WL ACR0339 1680x1050 474x296mm 22.0-inch                      | 1        | 5%      |
-| Acer G226HQL ACR02EA 1920x1080 480x270mm 21.7-inch                     | 1        | 5%      |
+| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                     | 1        | 5%      |
 | Acer G185HV ACR019F 1366x768 410x230mm 18.5-inch                       | 1        | 5%      |
 
 Monitor Resolution
@@ -1500,7 +1500,7 @@ Controller models
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                        | 1        | 3.13%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                          | 1        | 3.13%   |
 | Realtek 802.11ac NIC                                                         | 1        | 3.13%   |
-| Qualcomm SDM636-QRD _SN:494F4540                                             | 1        | 3.13%   |
+| Qualcomm FP3                                                                 | 1        | 3.13%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                   | 1        | 3.13%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                   | 1        | 3.13%   |
 | Intel Wireless 7260                                                          | 1        | 3.13%   |
@@ -1572,7 +1572,7 @@ Ethernet models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 16       | 72.73%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 9.09%   |
 | Nvidia MCP61 Ethernet                                             | 2        | 9.09%   |
-| Qualcomm SDM636-QRD _SN:494F4540                                  | 1        | 4.55%   |
+| Qualcomm FP3                                                      | 1        | 4.55%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 4.55%   |
 
 Net Controller Kind
@@ -1716,7 +1716,7 @@ Sound card models
 | AMD RV610 HDMI Audio [Radeon HD 2350 PRO / 2400 PRO/XT / HD 3410]          | 1        | 2.33%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 2.33%   |
 | AMD FCH Azalia Controller                                                  | 1        | 2.33%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 1        | 2.33%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 1        | 2.33%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 2.33%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1        | 2.33%   |
 
@@ -1746,15 +1746,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 800MT/s                  | 1        | 14.29%  |
-| Unknown RAM Module 1024MB DIMM 667MT/s                  | 1        | 14.29%  |
-| Kingston RAM KHX2400C11D3/8GX 8192MB DIMM DDR3 2400MT/s | 1        | 14.29%  |
-| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3200MT/s  | 1        | 14.29%  |
-| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s  | 1        | 14.29%  |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s   | 1        | 14.29%  |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 14.29%  |
+| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 14.29%  |
+| Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s     | 1        | 14.29%  |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 2933MT/s      | 1        | 14.29%  |
+| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1        | 14.29%  |
+| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s | 1        | 14.29%  |
 
 Memory Kind
 -----------
@@ -1808,8 +1808,8 @@ Memory module speed
 | Speed | Desktops | Percent |
 |-------|----------|---------|
 | 1600  | 2        | 28.57%  |
+| 3466  | 1        | 14.29%  |
 | 3266  | 1        | 14.29%  |
-| 3200  | 1        | 14.29%  |
 | 2400  | 1        | 14.29%  |
 | 800   | 1        | 14.29%  |
 | 667   | 1        | 14.29%  |

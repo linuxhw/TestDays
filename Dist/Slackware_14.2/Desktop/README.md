@@ -1550,7 +1550,7 @@ Monitor models
 | Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                     | 1        | 3.13%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 3.13%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1        | 3.13%   |
-| Dell E176FP DELA014 1280x1024 340x270mm 17.1-inch                    | 1        | 3.13%   |
+| Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1        | 3.13%   |
 | Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                    | 1        | 3.13%   |
 | BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                    | 1        | 3.13%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch              | 1        | 3.13%   |
@@ -1923,7 +1923,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 6        | 60%     |
 | Micro Star International Bluetooth Device           | 1        | 10%     |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 10%     |
-| Intel Bluetooth Device                              | 1        | 10%     |
+| Intel Bluetooth wireless interface                  | 1        | 10%     |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 10%     |
 
 Sound
@@ -1987,7 +1987,7 @@ Sound card models
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1        | 1.82%   |
 | Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1        | 1.82%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1        | 1.82%   |
-| C-Media Electronics USB Audio Device                                                              | 1        | 1.82%   |
+| C-Media Electronics SADES Hammer                                                                  | 1        | 1.82%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1        | 1.82%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1        | 1.82%   |
 | AMD Navi 10 HDMI Audio                                                                            | 1        | 1.82%   |
@@ -2038,7 +2038,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.63%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.63%   |
 | Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s       | 1        | 2.63%   |
-| Team RAM TEAMGROUP-UD4-3200 16384MB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s        | 1        | 2.63%   |
 | SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.63%   |
 | SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.63%   |
 | SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.63%   |
@@ -2047,10 +2047,10 @@ Memory module models
 | Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.63%   |
 | Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s     | 1        | 2.63%   |
 | Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s     | 1        | 2.63%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s    | 1        | 2.63%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.63%   |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1867MT/s     | 1        | 2.63%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s        | 1        | 2.63%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
 | Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.63%   |
@@ -2064,7 +2064,7 @@ Memory module models
 | Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.63%   |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.63%   |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
+| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
 | Corsair RAM CMK16GX4M1A2666C16 16384MB DIMM DDR4 2667MT/s  | 1        | 2.63%   |
 | AMD RAM R534G1601S1SL 4096MB DIMM DDR3 1600MT/s            | 1        | 2.63%   |

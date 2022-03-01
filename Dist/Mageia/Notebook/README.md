@@ -710,8 +710,8 @@ Geographic location (city)
 | Tver                | 1         | 4.17%   |
 | Tours               | 1         | 4.17%   |
 | Thessaloniki        | 1         | 4.17%   |
-| São Paulo          | 1         | 4.17%   |
-| Saint-Dié          | 1         | 4.17%   |
+| SГЈo Paulo        | 1         | 4.17%   |
+| Saint-DiГ©        | 1         | 4.17%   |
 | Poznan              | 1         | 4.17%   |
 | Pisa                | 1         | 4.17%   |
 | Paris               | 1         | 4.17%   |
@@ -728,7 +728,7 @@ Geographic location (city)
 | Casalecchio di Reno | 1         | 4.17%   |
 | Burgas              | 1         | 4.17%   |
 | Brindas             | 1         | 4.17%   |
-| Bogotá             | 1         | 4.17%   |
+| BogotГЎ           | 1         | 4.17%   |
 
 Drives
 ------
@@ -1359,18 +1359,18 @@ Monitor models
 |---------------------------------------------------------------------------|-----------|---------|
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                   | 1         | 4.17%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 4.17%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 344x194mm 15.5-inch      | 1         | 4.17%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch      | 1         | 4.17%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch              | 1         | 4.17%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 4.17%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 4.17%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 4.17%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                   | 1         | 4.17%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch                   | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1357 1920x1080 293x165mm 13.2-inch          | 1         | 4.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 4.17%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch  | 1         | 4.17%   |
+| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 350x190mm 15.7-inch  | 1         | 4.17%   |
 | BOE LCD Monitor BOE0868 1920x1080 309x174mm 14.0-inch                     | 1         | 4.17%   |
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                     | 1         | 4.17%   |
 | BOE LCD Monitor BOE0806 1920x1080 309x173mm 13.9-inch                     | 1         | 4.17%   |
@@ -1526,7 +1526,7 @@ Controller models
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 2         | 5.26%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 5.26%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 5.26%   |
-| Sierra Wireless MC8305 Modem                                      | 1         | 2.63%   |
+| Sierra Wireless MC8305                                            | 1         | 2.63%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 2.63%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 2.63%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 2.63%   |
@@ -1544,7 +1544,7 @@ Controller models
 | Intel Comet Lake PCH CNVi WiFi                                    | 1         | 2.63%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                          | 1         | 2.63%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 2.63%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                              | 1         | 2.63%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                              | 1         | 2.63%   |
 | Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1         | 2.63%   |
 | Broadcom Limited NetLink BCM57780 Gigabit Ethernet PCIe           | 1         | 2.63%   |
 | Broadcom BCM4311 802.11a/b/g                                      | 1         | 2.63%   |
@@ -1581,7 +1581,7 @@ Wireless models
 | Intel Wireless 8260                                            | 2         | 9.09%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 2         | 9.09%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 9.09%   |
-| Sierra Wireless MC8305 Modem                                   | 1         | 4.55%   |
+| Sierra Wireless MC8305                                         | 1         | 4.55%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 4.55%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1         | 4.55%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter               | 1         | 4.55%   |
@@ -1593,7 +1593,7 @@ Wireless models
 | Intel Gemini Lake PCH CNVi WiFi                                | 1         | 4.55%   |
 | Intel Comet Lake PCH CNVi WiFi                                 | 1         | 4.55%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                       | 1         | 4.55%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                           | 1         | 4.55%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                           | 1         | 4.55%   |
 | Broadcom BCM4311 802.11a/b/g                                   | 1         | 4.55%   |
 
 Ethernet Vendor
@@ -1722,15 +1722,16 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth Device                              | 3         | 18.75%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 12.5%   |
 | IMC Networks Bluetooth Device                       | 2         | 12.5%   |
 | Realtek Bluetooth Radio                             | 1         | 6.25%   |
 | Lite-On Bluetooth Device                            | 1         | 6.25%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 6.25%   |
 | Intel Bluetooth wireless interface                  | 1         | 6.25%   |
+| Intel AX201 Bluetooth                               | 1         | 6.25%   |
+| Intel AX200 Bluetooth                               | 1         | 6.25%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1         | 6.25%   |
 | Foxconn / Hon Hai BCM20702A0                        | 1         | 6.25%   |
-| Dell BCM20702A0 Bluetooth Module                    | 1         | 6.25%   |
+| Dell BCM20702A0                                     | 1         | 6.25%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 6.25%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 1         | 6.25%   |
 
@@ -1766,7 +1767,7 @@ Sound card models
 | Intel Sunrise Point-LP HD Audio                                            | 3         | 10.71%  |
 | Intel Haswell-ULT HD Audio Controller                                      | 2         | 7.14%   |
 | Intel 8 Series HD Audio Controller                                         | 2         | 7.14%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 2         | 7.14%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 2         | 7.14%   |
 | Nvidia TU106 High Definition Audio Controller                              | 1         | 3.57%   |
 | Nvidia GF108 High Definition Audio Controller                              | 1         | 3.57%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1         | 3.57%   |
@@ -1821,7 +1822,7 @@ Memory module models
 | SK Hynix RAM Module 4GB SODIMM DDR3 1066MT/s                 | 1         | 4.55%   |
 | SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 4.55%   |
-| SK Hynix RAM HMA451S6AFR8N-TF 4096MB SODIMM DDR4 2133MT/s    | 1         | 4.55%   |
+| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s       | 1         | 4.55%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s               | 1         | 4.55%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
@@ -1981,7 +1982,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 4.76%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 4.76%   |
 | Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 4.76%   |
-| Alcor Micro USB 2.0 Web Camera                                             | 1         | 4.76%   |
+| Alcor Micro USB 2.0 Camera                                                 | 1         | 4.76%   |
 
 Security
 --------

@@ -929,14 +929,14 @@ Geographic location (city)
 | Stockholm              | 1         | 1.64%   |
 | St Louis               | 1         | 1.64%   |
 | Sidcup                 | 1         | 1.64%   |
-| Setúbal               | 1         | 1.64%   |
+| SetГєbal             | 1         | 1.64%   |
 | Savonlinna             | 1         | 1.64%   |
 | Santiago               | 1         | 1.64%   |
 | Saedinenie             | 1         | 1.64%   |
 | Redding                | 1         | 1.64%   |
 | Reading                | 1         | 1.64%   |
 | Prato                  | 1         | 1.64%   |
-| Piteå                 | 1         | 1.64%   |
+| PiteГҐ               | 1         | 1.64%   |
 | Paterson               | 1         | 1.64%   |
 | Pasig                  | 1         | 1.64%   |
 | Paris                  | 1         | 1.64%   |
@@ -1057,7 +1057,7 @@ Hard drive models
 | Toshiba HDWD110 1TB                  | 1         | 0.83%   |
 | Toshiba DT01ACA200 2TB               | 1         | 0.83%   |
 | Toshiba DT01ACA100 1TB               | 1         | 0.83%   |
-| TO Exter nal USB 3.0 256GB           | 1         | 0.83%   |
+| TO Exter nal USB 3.0 2TB             | 1         | 0.83%   |
 | Team T253X1480G 480GB SSD            | 1         | 0.83%   |
 | SK Hynix SHGP31-1000GM-2 1TB         | 1         | 0.83%   |
 | Seagate ST980310AS 80GB              | 1         | 0.83%   |
@@ -1084,15 +1084,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 18        | 40     | 36%     |
-| Seagate             | 15        | 28     | 30%     |
-| Toshiba             | 7         | 13     | 14%     |
-| Hitachi             | 3         | 3      | 6%      |
-| Samsung Electronics | 2         | 2      | 4%      |
-| HGST                | 2         | 2      | 4%      |
-| TO Exter            | 1         | 1      | 2%      |
-| MAXTOR              | 1         | 1      | 2%      |
-| Fujitsu             | 1         | 1      | 2%      |
+| WDC                 | 18        | 40     | 36.73%  |
+| Seagate             | 15        | 28     | 30.61%  |
+| Toshiba             | 7         | 13     | 14.29%  |
+| Hitachi             | 3         | 3      | 6.12%   |
+| Samsung Electronics | 2         | 2      | 4.08%   |
+| HGST                | 2         | 2      | 4.08%   |
+| MAXTOR              | 1         | 1      | 2.04%   |
+| Fujitsu             | 1         | 1      | 2.04%   |
 
 SSD Vendor
 ----------
@@ -1104,19 +1103,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 9         | 15     | 31.03%  |
-| Kingston            | 4         | 4      | 13.79%  |
-| Crucial             | 4         | 5      | 13.79%  |
-| SanDisk             | 2         | 2      | 6.9%    |
-| A-DATA Technology   | 2         | 2      | 6.9%    |
-| Team                | 1         | 1      | 3.45%   |
-| Patriot             | 1         | 2      | 3.45%   |
-| Netac               | 1         | 1      | 3.45%   |
-| Micron Technology   | 1         | 1      | 3.45%   |
-| Intel               | 1         | 1      | 3.45%   |
-| DOGFISH             | 1         | 1      | 3.45%   |
-| China               | 1         | 2      | 3.45%   |
-| Apple               | 1         | 2      | 3.45%   |
+| Samsung Electronics | 9         | 15     | 30%     |
+| Kingston            | 4         | 4      | 13.33%  |
+| Crucial             | 4         | 5      | 13.33%  |
+| SanDisk             | 2         | 2      | 6.67%   |
+| A-DATA Technology   | 2         | 2      | 6.67%   |
+| TO Exter            | 1         | 1      | 3.33%   |
+| Team                | 1         | 1      | 3.33%   |
+| Patriot             | 1         | 2      | 3.33%   |
+| Netac               | 1         | 1      | 3.33%   |
+| Micron Technology   | 1         | 1      | 3.33%   |
+| Intel               | 1         | 1      | 3.33%   |
+| DOGFISH             | 1         | 1      | 3.33%   |
+| China               | 1         | 2      | 3.33%   |
+| Apple               | 1         | 2      | 3.33%   |
 
 Drive Kind
 ----------
@@ -1128,8 +1128,8 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 37        | 91     | 45.12%  |
-| SSD     | 27        | 39     | 32.93%  |
+| HDD     | 36        | 90     | 43.9%   |
+| SSD     | 28        | 40     | 34.15%  |
 | NVMe    | 14        | 16     | 17.07%  |
 | MMC     | 3         | 4      | 3.66%   |
 | Unknown | 1         | 4      | 1.22%   |
@@ -1159,9 +1159,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 37        | 57     | 51.39%  |
+| 0.01-0.5   | 36        | 56     | 50%     |
 | 0.51-1.0   | 19        | 42     | 26.39%  |
-| 1.01-2.0   | 5         | 6      | 6.94%   |
+| 1.01-2.0   | 6         | 7      | 8.33%   |
 | 3.01-4.0   | 4         | 11     | 5.56%   |
 | 2.01-3.0   | 4         | 8      | 5.56%   |
 | 10.01-20.0 | 2         | 5      | 2.78%   |
@@ -1864,17 +1864,17 @@ Monitor models
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.61%   |
-| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch          | 1         | 1.61%   |
+| Panasonic VVX10T025J00 MEI96A2 2560x1600 223x125mm 10.1-inch         | 1         | 1.61%   |
 | ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1         | 1.61%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1         | 1.61%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 1.61%   |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 1.61%   |
-| LG Display LCD Monitor LGD03D7 1366x768 309x174mm 14.0-inch          | 1         | 1.61%   |
+| LG Display LCD Monitor LGD03D7 1366x768 310x174mm 14.0-inch          | 1         | 1.61%   |
 | LG Display LCD Monitor LGD0353 1366x768 345x194mm 15.6-inch          | 1         | 1.61%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 1.61%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 345x194mm 15.6-inch         | 1         | 1.61%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1         | 1.61%   |
-| Lenovo LCD Monitor LEN4035 1280x800 304x190mm 14.1-inch              | 1         | 1.61%   |
+| Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch              | 1         | 1.61%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1         | 1.61%   |
 | Iiyama PLE2207WS IVM5609 1680x1050 474x296mm 22.0-inch               | 1         | 1.61%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1         | 1.61%   |
@@ -1891,7 +1891,7 @@ Monitor models
 | DPC Qumi Q38 DPC81F2 1920x1200 708x398mm 32.0-inch                   | 1         | 1.61%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1         | 1.61%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1         | 1.61%   |
-| Dell E176FP DELA014 1280x1024 340x270mm 17.1-inch                    | 1         | 1.61%   |
+| Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1         | 1.61%   |
 | Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                    | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 1.61%   |
@@ -1907,7 +1907,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch        | 1         | 1.61%   |
 | AU Optronics LCD Monitor AUO48EC 1366x768 344x193mm 15.5-inch        | 1         | 1.61%   |
 | AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch       | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch        | 1         | 1.61%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch        | 1         | 1.61%   |
 | ASUSTek Computer VZ229 AUS22CC 1920x1080 476x268mm 21.5-inch         | 1         | 1.61%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch      | 1         | 1.61%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch     | 1         | 1.61%   |
@@ -2149,7 +2149,7 @@ Controller models
 | Intel 82579V Gigabit Network Connection                                               | 1         | 0.93%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications)         | 1         | 0.93%   |
 | Intel 82567LM Gigabit Network Connection                                              | 1         | 0.93%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                                                  | 1         | 0.93%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                                                  | 1         | 0.93%   |
 | Chelsio T320 10GbE Dual Port Adapter                                                  | 1         | 0.93%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                                     | 1         | 0.93%   |
 | Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express                               | 1         | 0.93%   |
@@ -2212,7 +2212,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 1         | 2.56%   |
 | Intel Centrino Ultimate-N 6300                                                        | 1         | 2.56%   |
 | Intel Cannon Lake PCH CNVi WiFi                                                       | 1         | 2.56%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                                                  | 1         | 2.56%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                                                  | 1         | 2.56%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 1         | 2.56%   |
 
 Ethernet Vendor
@@ -2365,17 +2365,17 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 8         | 24.24%  |
+| Intel Bluetooth wireless interface                  | 7         | 21.21%  |
+| Intel Bluetooth Device                              | 7         | 21.21%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7         | 21.21%  |
-| Intel Bluetooth wireless interface                  | 4         | 12.12%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 3         | 9.09%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 9.09%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.06%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 3.03%   |
 | Realtek Bluetooth Radio                             | 1         | 3.03%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.03%   |
 | Micro Star International Bluetooth Device           | 1         | 3.03%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 3.03%   |
+| Intel AX201 Bluetooth                               | 1         | 3.03%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1         | 3.03%   |
 
 Sound
@@ -2421,7 +2421,7 @@ Sound card models
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 3         | 3.13%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 3         | 3.13%   |
 | AMD FCH Azalia Controller                                                                         | 3         | 3.13%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 3         | 3.13%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 3         | 3.13%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 3         | 3.13%   |
 | Nvidia GP107GL High Definition Audio Controller                                                   | 2         | 2.08%   |
 | Nvidia GM204 High Definition Audio Controller                                                     | 2         | 2.08%   |
@@ -2452,7 +2452,7 @@ Sound card models
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1         | 1.04%   |
 | Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1         | 1.04%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1         | 1.04%   |
-| C-Media Electronics USB Audio Device                                                              | 1         | 1.04%   |
+| C-Media Electronics SADES Hammer                                                                  | 1         | 1.04%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                                                 | 1         | 1.04%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1         | 1.04%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1         | 1.04%   |
@@ -2502,7 +2502,7 @@ Memory module models
 | Model                                                        | Computers | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 3.03%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s    | 2         | 3.03%   |
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 3.03%   |
 | Unknown RAM Module 4096MB DIMM DDR3 65535MT/s                | 1         | 1.52%   |
 | Unknown RAM Module 2048MB DIMM SDRAM                         | 1         | 1.52%   |
 | Unknown RAM Module 2048MB DIMM DDR 800MT/s                   | 1         | 1.52%   |
@@ -2511,13 +2511,13 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                   | 1         | 1.52%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                       | 1         | 1.52%   |
 | Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s         | 1         | 1.52%   |
-| Team RAM TEAMGROUP-UD4-3200 16384MB DIMM DDR4 3200MT/s       | 1         | 1.52%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s          | 1         | 1.52%   |
 | Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 1.52%   |
 | SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 1.52%   |
 | SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.52%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s         | 1         | 1.52%   |
+| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 1.52%   |
 | SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s         | 1         | 1.52%   |
-| SK Hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.52%   |
+| SK Hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.52%   |
 | SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s      | 1         | 1.52%   |
 | SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s         | 1         | 1.52%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 1.52%   |
@@ -2536,12 +2536,12 @@ Memory module models
 | Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 1.52%   |
 | Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s       | 1         | 1.52%   |
 | Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s       | 1         | 1.52%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s         | 1         | 1.52%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s      | 1         | 1.52%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s         | 1         | 1.52%   |
 | Kingston RAM KHX2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s     | 1         | 1.52%   |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 1.52%   |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1867MT/s       | 1         | 1.52%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s     | 1         | 1.52%   |
+| Kingston RAM KHX2666C15S4/16G 16384MB SODIMM DDR4 2667MT/s   | 1         | 1.52%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s          | 1         | 1.52%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s        | 1         | 1.52%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s        | 1         | 1.52%   |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s        | 1         | 1.52%   |
 | Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s      | 1         | 1.52%   |
@@ -2549,7 +2549,7 @@ Memory module models
 | HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s                 | 1         | 1.52%   |
 | Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s     | 1         | 1.52%   |
 | Crucial RAM CT51264BF160B.M16F 4096MB DIMM DDR3 1600MT/s     | 1         | 1.52%   |
-| Crucial RAM CT4G4SFS824A.C8FE 4096MB SODIMM DDR4 2400MT/s    | 1         | 1.52%   |
+| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s       | 1         | 1.52%   |
 | Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s        | 1         | 1.52%   |
 | Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s        | 1         | 1.52%   |
 | Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s      | 1         | 1.52%   |
@@ -2559,7 +2559,7 @@ Memory module models
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s           | 1         | 1.52%   |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s        | 1         | 1.52%   |
 | Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s      | 1         | 1.52%   |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s        | 1         | 1.52%   |
+| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s     | 1         | 1.52%   |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s       | 1         | 1.52%   |
 
 Memory Kind

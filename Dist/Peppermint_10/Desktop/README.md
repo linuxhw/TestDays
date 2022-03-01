@@ -727,14 +727,14 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2007 | 15       | 19.23%  |
-| 2013 | 9        | 11.54%  |
 | 2008 | 9        | 11.54%  |
+| 2013 | 8        | 10.26%  |
 | 2011 | 6        | 7.69%   |
 | 2010 | 6        | 7.69%   |
 | 2006 | 6        | 7.69%   |
+| 2012 | 5        | 6.41%   |
 | 2009 | 5        | 6.41%   |
 | 2005 | 5        | 6.41%   |
-| 2012 | 4        | 5.13%   |
 | 2019 | 3        | 3.85%   |
 | 2015 | 3        | 3.85%   |
 | 2017 | 2        | 2.56%   |
@@ -846,8 +846,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 54       | 68.35%  |
-| No        | 25       | 31.65%  |
+| Yes       | 56       | 70.89%  |
+| No        | 23       | 29.11%  |
 
 Has Ethernet
 ------------
@@ -939,7 +939,7 @@ Geographic location (city)
 | City                   | Desktops | Percent |
 |------------------------|----------|---------|
 | Villingen-Schwenningen | 3        | 3.66%   |
-| Środa Śląska        | 1        | 1.22%   |
+| Ељroda ЕљlД…ska | 1        | 1.22%   |
 | Winfield               | 1        | 1.22%   |
 | Wassenaar              | 1        | 1.22%   |
 | Washington             | 1        | 1.22%   |
@@ -980,7 +980,7 @@ Geographic location (city)
 | Maywood Park           | 1        | 1.22%   |
 | Manchester             | 1        | 1.22%   |
 | Lugagnano Val d'Arda   | 1        | 1.22%   |
-| Lourinhã              | 1        | 1.22%   |
+| LourinhГЈ            | 1        | 1.22%   |
 | Lincoln                | 1        | 1.22%   |
 | Lima                   | 1        | 1.22%   |
 | Lee's Summit           | 1        | 1.22%   |
@@ -1866,8 +1866,8 @@ Monitor models
 | BenQ FP731 BNQ7659 1280x1024 304x228mm 15.0-inch                        | 2        | 2.6%    |
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.6%    |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.3%    |
-| ViewSonic VG2230wm-EU VSCA21E 1680x1050 474x296mm 22.0-inch             | 1        | 1.3%    |
-| Vestel Elektronik LCD Monitor VES3700 1920x540                          | 1        | 1.3%    |
+| ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.3%    |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1100x620mm 49.7-inch   | 1        | 1.3%    |
 | Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.3%    |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.3%    |
 | Sony LCD Monitor TV                                                     | 1        | 1.3%    |
@@ -1879,7 +1879,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.3%    |
 | Samsung Electronics SME1920 SAM06B7 1366x768 410x230mm 18.5-inch        | 1        | 1.3%    |
 | Samsung Electronics S22B370 SAM0898 1920x1080 477x268mm 21.5-inch       | 1        | 1.3%    |
-| Samsung Electronics S22B300 SAM08AB 1920x1080 480x270mm 21.7-inch       | 1        | 1.3%    |
+| Samsung Electronics S22B300 SAM08AB 1920x1080 477x268mm 21.5-inch       | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor SyncMaster 2624x1200                    | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor SMB1930NW 1440x900                      | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor SAM0DF3 3840x2160 1872x1053mm 84.6-inch | 1        | 1.3%    |
@@ -1892,7 +1892,7 @@ Monitor models
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.3%    |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.3%    |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.3%    |
-| KTC 32T55-H-CS KTC3200 1360x768 698x392mm 31.5-inch                     | 1        | 1.3%    |
+| KTC 32'TV KTC3200 1360x768 708x398mm 32.0-inch                          | 1        | 1.3%    |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.3%    |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch              | 1        | 1.3%    |
 | Hewlett-Packard LCD Monitor 2711 1920x1080                              | 1        | 1.3%    |
@@ -1900,7 +1900,7 @@ Monitor models
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch              | 1        | 1.3%    |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.3%    |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.3%    |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch                | 1        | 1.3%    |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.3%    |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.3%    |
 | Goldstar L1553S GSM3BB0 1024x768 304x228mm 15.0-inch                    | 1        | 1.3%    |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 1        | 1.3%    |
@@ -1913,14 +1913,14 @@ Monitor models
 | Dell P2213 DELF041 1680x1050 473x296mm 22.0-inch                        | 1        | 1.3%    |
 | Dell LCD Monitor SE2417HG 1920x1080                                     | 1        | 1.3%    |
 | Dell IN1910N DELA04C 1366x768 410x230mm 18.5-inch                       | 1        | 1.3%    |
-| Dell E228WFP DELD015 1680x1050 470x300mm 22.0-inch                      | 1        | 1.3%    |
+| Dell E228WFP DELD015 1680x1050 473x296mm 22.0-inch                      | 1        | 1.3%    |
 | Dell DEL 1908FPBLK DEL4047 1280x1024 376x301mm 19.0-inch                | 1        | 1.3%    |
 | Dell 1703FP DEL3010 1280x1024 338x270mm 17.0-inch                       | 1        | 1.3%    |
 | CPT CL-151G CPT1790 1024x768 304x228mm 15.0-inch                        | 1        | 1.3%    |
 | CPT CL-151G CPT06FE 1024x768 300x230mm 14.9-inch                        | 1        | 1.3%    |
 | BenQ RL2460H BNQ7F34 1920x1080 531x299mm 24.0-inch                      | 1        | 1.3%    |
 | BenQ LCD Monitor GL2450H 1920x1080                                      | 1        | 1.3%    |
-| BenQ GL2450H BNQ78A7 1920x1080 531x298mm 24.0-inch                      | 1        | 1.3%    |
+| BenQ GL2450H BNQ78A7 1920x1080 530x300mm 24.0-inch                      | 1        | 1.3%    |
 | BenQ G610HDAL BNQ785B 1366x768 344x194mm 15.5-inch                      | 1        | 1.3%    |
 
 Monitor Resolution
@@ -2150,7 +2150,7 @@ Controller models
 | 3Com 3c905B 100BaseTX [Cyclone]                                               | 2        | 1.55%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.78%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                  | 1        | 0.78%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                   | 1        | 0.78%   |
+| TP-Link TL WN823N RTL8192EU                                                   | 1        | 0.78%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                              | 1        | 0.78%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 1        | 0.78%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                        | 1        | 0.78%   |
@@ -2236,7 +2236,7 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                       | 2        | 4.26%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                       | 2        | 4.26%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                           | 1        | 2.13%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                            | 1        | 2.13%   |
+| TP-Link TL WN823N RTL8192EU                                                            | 1        | 2.13%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                                       | 1        | 2.13%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                        | 1        | 2.13%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                 | 1        | 2.13%   |
@@ -2422,7 +2422,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1        | 6.25%   |
 | Primax Rocketfish RF-FLBTAD Bluetooth Adapter       | 1        | 6.25%   |
 | Kensington Bluetooth EDR Dongle                     | 1        | 6.25%   |
-| Intel Bluetooth Device                              | 1        | 6.25%   |
+| Intel AX200 Bluetooth                               | 1        | 6.25%   |
 | Broadcom Bluetooth Controller                       | 1        | 6.25%   |
 | ASUS Bluetooth Radio                                | 1        | 6.25%   |
 
@@ -2502,7 +2502,7 @@ Sound card models
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.84%   |
 | Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                       | 1        | 0.84%   |
 | Intel 200 Series PCH HD Audio                                              | 1        | 0.84%   |
-| Generalplus Technology Usb Audio Device                                    | 1        | 0.84%   |
+| Generalplus Technology USB Audio Device                                    | 1        | 0.84%   |
 | Creative Technology SoundBlaster MP3+                                      | 1        | 0.84%   |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.84%   |
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                 | 1        | 0.84%   |
@@ -2518,7 +2518,7 @@ Sound card models
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 0.84%   |
 | AMD Kabini HDMI/DP Audio                                                   | 1        | 0.84%   |
 | AMD IXP SB400 AC'97 Audio Controller                                       | 1        | 0.84%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 1        | 0.84%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 1        | 0.84%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                           | 1        | 0.84%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 0.84%   |
 
@@ -2562,16 +2562,16 @@ Memory module models
 | SK Hynix RAM Module 2GB DIMM DDR3 1600MT/s               | 1        | 5.56%   |
 | SK Hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s     | 1        | 5.56%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s           | 1        | 5.56%   |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s       | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 5.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 5.56%   |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 5.56%   |
 | Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2400MT/s     | 1        | 5.56%   |
 | G.Skill RAM F3-1866C10-8GAB 8GB DIMM DDR3 1866MT/s       | 1        | 5.56%   |
-| Crucial RAM BLS8G3D18ADS3 8192MB DIMM DDR3 1866MT/s      | 1        | 5.56%   |
+| Crucial RAM BLS8G3D18ADS3 8GB DIMM DDR3 1866MT/s         | 1        | 5.56%   |
 | Unknown                                                  | 1        | 5.56%   |
 
 Memory Kind

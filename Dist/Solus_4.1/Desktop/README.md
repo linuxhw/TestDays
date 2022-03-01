@@ -483,11 +483,12 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 4        | 21.05%  |
-| 2013 | 4        | 21.05%  |
 | 2019 | 3        | 15.79%  |
+| 2013 | 3        | 15.79%  |
 | 2020 | 2        | 10.53%  |
 | 2010 | 2        | 10.53%  |
 | 2017 | 1        | 5.26%   |
+| 2012 | 1        | 5.26%   |
 | 2009 | 1        | 5.26%   |
 | 2008 | 1        | 5.26%   |
 | 2006 | 1        | 5.26%   |
@@ -678,7 +679,7 @@ Geographic location (city)
 | Martigues      | 1        | 5.26%   |
 | Malmo          | 1        | 5.26%   |
 | Guelph         | 1        | 5.26%   |
-| Goiânia       | 1        | 5.26%   |
+| GoiГўnia     | 1        | 5.26%   |
 | Clecy          | 1        | 5.26%   |
 | Bladel         | 1        | 5.26%   |
 | Berezniki      | 1        | 5.26%   |
@@ -750,7 +751,7 @@ Hard drive models
 | Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
 | Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
-| SanDisk SDSSDH31024G 1TB        | 1        | 1.72%   |
+| SanDisk SDSSDH31024G 1024GB     | 1        | 1.72%   |
 | SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
 | Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
@@ -838,8 +839,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 17       | 33     | 50%     |
-| 0.51-1.0   | 11       | 12     | 32.35%  |
-| 1.01-2.0   | 4        | 21     | 11.76%  |
+| 0.51-1.0   | 10       | 11     | 29.41%  |
+| 1.01-2.0   | 5        | 22     | 14.71%  |
 | 3.01-4.0   | 1        | 1      | 2.94%   |
 | 4.01-10.0  | 1        | 1      | 2.94%   |
 
@@ -1331,13 +1332,13 @@ Monitor models
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch               | 1        | 4.17%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch               | 1        | 4.17%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                  | 1        | 4.17%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.17%   |
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 4.17%   |
+| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1494,7 +1495,7 @@ Controller models
 | Intel I211 Gigabit Network Connection                             | 3        | 10.71%  |
 | Qualcomm Atheros AR922X Wireless Network Adapter                  | 2        | 7.14%   |
 | Intel Ethernet Connection (7) I219-V                              | 2        | 7.14%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 3.57%   |
+| TP-Link TL WN823N RTL8192EU                                       | 1        | 3.57%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 3.57%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.57%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.57%   |
@@ -1528,7 +1529,7 @@ Wireless models
 | Model                                            | Desktops | Percent |
 |--------------------------------------------------|----------|---------|
 | Qualcomm Atheros AR922X Wireless Network Adapter | 2        | 28.57%  |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]      | 1        | 14.29%  |
+| TP-Link TL WN823N RTL8192EU                      | 1        | 14.29%  |
 | Intel Wireless-AC 9260                           | 1        | 14.29%  |
 | Intel Wireless 7265                              | 1        | 14.29%  |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak] | 1        | 14.29%  |
@@ -1645,8 +1646,8 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 37.5%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 12.5%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 12.5%   |
+| Intel Bluetooth wireless interface                  | 1        | 12.5%   |
 | Intel Bluetooth Device                              | 1        | 12.5%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 12.5%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 12.5%   |
 
 Sound
@@ -1708,7 +1709,7 @@ Sound card models
 | Blue Microphones Yeti Nano                                                 | 1        | 2.22%   |
 | AMD Tahiti HDMI Audio [Radeon HD 7870 XT / 7950/7970]                      | 1        | 2.22%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 2.22%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 1        | 2.22%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 1        | 2.22%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 1        | 2.22%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 2.22%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1        | 2.22%   |
@@ -1740,15 +1741,15 @@ Memory module models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 2400MT/s | 2        | 20%     |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s    | 2        | 20%     |
 | Unknown RAM Module 4096MB DIMM DDR3 1066MT/s             | 1        | 10%     |
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s             | 1        | 10%     |
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s       | 1        | 10%     |
 | Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 10%     |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s   | 1        | 10%     |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM 1600MT/s           | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s      | 1        | 10%     |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s   | 1        | 10%     |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 10%     |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 1        | 10%     |
 
 Memory Kind
 -----------
@@ -1831,10 +1832,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                 | Desktops | Percent |
-|-----------------------|----------|---------|
-| Canon G3000 series    | 1        | 50%     |
-| Canon CAPT USB Device | 1        | 50%     |
+| Model                | Desktops | Percent |
+|----------------------|----------|---------|
+| Canon LBP7010C/7018C | 1        | 50%     |
+| Canon G3000 series   | 1        | 50%     |
 
 Scanner Vendor
 --------------

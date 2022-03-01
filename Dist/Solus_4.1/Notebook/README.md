@@ -544,17 +544,17 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2018 | 7         | 17.95%  |
+| 2018 | 6         | 15.38%  |
 | 2016 | 6         | 15.38%  |
 | 2014 | 5         | 12.82%  |
 | 2019 | 4         | 10.26%  |
-| 2017 | 3         | 7.69%   |
+| 2017 | 4         | 10.26%  |
 | 2012 | 3         | 7.69%   |
-| 2010 | 3         | 7.69%   |
 | 2015 | 2         | 5.13%   |
 | 2013 | 2         | 5.13%   |
+| 2010 | 2         | 5.13%   |
+| 2009 | 2         | 5.13%   |
 | 2020 | 1         | 2.56%   |
-| 2009 | 1         | 2.56%   |
 | 2008 | 1         | 2.56%   |
 | 2007 | 1         | 2.56%   |
 
@@ -741,7 +741,6 @@ Geographic location (city)
 | City                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
 | Columbus              | 2         | 5.13%   |
-| Yankton               | 1         | 2.56%   |
 | Vienna                | 1         | 2.56%   |
 | St. Cloud             | 1         | 2.56%   |
 | Semarang              | 1         | 2.56%   |
@@ -763,11 +762,12 @@ Geographic location (city)
 | Jeddah                | 1         | 2.56%   |
 | Hyderabad             | 1         | 2.56%   |
 | Humble                | 1         | 2.56%   |
-| Hrubieszów           | 1         | 2.56%   |
+| HrubieszГіw         | 1         | 2.56%   |
+| Hartington            | 1         | 2.56%   |
 | Guatemala City        | 1         | 2.56%   |
 | Guarulhos             | 1         | 2.56%   |
 | Guanajuato City       | 1         | 2.56%   |
-| Foz do Iguaçu        | 1         | 2.56%   |
+| Foz do IguaГ§u      | 1         | 2.56%   |
 | Curitiba              | 1         | 2.56%   |
 | Cleveland             | 1         | 2.56%   |
 | Changis-sur-Marne     | 1         | 2.56%   |
@@ -1484,7 +1484,7 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | ___ LCDTV16 ___9000 1360x768                                          | 1         | 2.08%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 2.08%   |
-| Sony Nvidia Defaul SNY05FA 1366x768 290x170mm 13.2-inch               | 1         | 2.08%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 2.08%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 2.08%   |
@@ -1492,15 +1492,15 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 2.08%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 2.08%   |
+| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 2.08%   |
 | LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch           | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 2.08%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch              | 1         | 2.08%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch            | 1         | 2.08%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1         | 2.08%   |
+| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 2.08%   |
 | Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 2.08%   |
 | GKK MONITOR GKK3034 1920x1080                                         | 1         | 2.08%   |
 | Chimei Innolux LCD Monitor CMN15D2 1920x1080 344x193mm 15.5-inch      | 1         | 2.08%   |
@@ -1520,7 +1520,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch         | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch        | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO41ED 1920x1080 344x193mm 15.5-inch        | 1         | 2.08%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 1         | 2.08%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch        | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch        | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch         | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO233E 1600x900 309x174mm 14.0-inch         | 1         | 2.08%   |
@@ -1528,7 +1528,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO1136 2560x1440 309x174mm 14.0-inch        | 1         | 2.08%   |
 | Apple Color LCD APPA013 2560x1600 286x179mm 13.3-inch                 | 1         | 2.08%   |
 | Apple Color LCD APP9C5B 1280x800 290x180mm 13.4-inch                  | 1         | 2.08%   |
-| AOC 24G2W1G4 AOC2402 1920x1080 527x296mm 23.8-inch                    | 1         | 2.08%   |
+| AOC 24G2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 1         | 2.08%   |
 | AOC 1621Wb AOC1621 1366x768 344x194mm 15.5-inch                       | 1         | 2.08%   |
 
 Monitor Resolution
@@ -1738,7 +1738,7 @@ Controller models
 | Intel Cannon Point-LP CNVi [Wireless-AC]                                       | 1         | 1.32%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 1         | 1.32%   |
 | Intel 82577LM Gigabit Network Connection                                       | 1         | 1.32%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                                           | 1         | 1.32%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                                           | 1         | 1.32%   |
 | Broadcom BCM4331 802.11a/b/g/n                                                 | 1         | 1.32%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                         | 1         | 1.32%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                            | 1         | 1.32%   |
@@ -1791,7 +1791,7 @@ Wireless models
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 1         | 2.44%   |
 | Intel Centrino Advanced-N 6200                                 | 1         | 2.44%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                       | 1         | 2.44%   |
-| Dell DW5811e Snapdragon???�?? X7 LTE                           | 1         | 2.44%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                           | 1         | 2.44%   |
 | Broadcom BCM4331 802.11a/b/g/n                                 | 1         | 2.44%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller         | 1         | 2.44%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 1         | 2.44%   |
@@ -1914,9 +1914,10 @@ Controller vendors
 |---------------------------------|-----------|---------|
 | Intel                           | 17        | 54.84%  |
 | Lite-On Technology              | 5         | 16.13%  |
-| Qualcomm Atheros Communications | 2         | 6.45%   |
 | Apple                           | 2         | 6.45%   |
 | Toshiba                         | 1         | 3.23%   |
+| Qualcomm Atheros Communications | 1         | 3.23%   |
+| Qualcomm Atheros                | 1         | 3.23%   |
 | IMC Networks                    | 1         | 3.23%   |
 | Hewlett-Packard                 | 1         | 3.23%   |
 | Foxconn / Hon Hai               | 1         | 3.23%   |
@@ -1932,15 +1933,13 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                                                              | 8         | 25.81%  |
-| Intel Bluetooth wireless interface                                                  | 6         | 19.35%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 9.68%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 6.45%   |
+| Intel Bluetooth Device                                                              | 9         | 29.03%  |
+| Intel Bluetooth wireless interface                                                  | 8         | 25.81%  |
+| Lite-On Bluetooth Device                                                            | 3         | 9.68%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 6.45%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 3.23%   |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 3.23%   |
+| Qualcomm Atheros  Bluetooth Device                                                  | 1         | 3.23%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 3.23%   |
-| Lite-On Bluetooth Device                                                            | 1         | 3.23%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 3.23%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 3.23%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 3.23%   |
@@ -1988,7 +1987,7 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                                 | 2         | 3.45%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 2         | 3.45%   |
 | AMD Redwood HDMI Audio [Radeon HD 5000 Series]                             | 2         | 3.45%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 2         | 3.45%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 2         | 3.45%   |
 | Nvidia TU116 High Definition Audio Controller                              | 1         | 1.72%   |
 | Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 1.72%   |
 | Nvidia TU106 High Definition Audio Controller                              | 1         | 1.72%   |
@@ -2000,7 +1999,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1         | 1.72%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                             | 1         | 1.72%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1         | 1.72%   |
-| GYROCOM C&C Fiio E10                                                       | 1         | 1.72%   |
+| GYROCOM C&C DigiHug USB Audio                                              | 1         | 1.72%   |
 | AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                           | 1         | 1.72%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 1.72%   |
 | AMD High Definition Audio Controller                                       | 1         | 1.72%   |
@@ -2045,14 +2044,14 @@ Memory module models
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 5.26%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 1         | 5.26%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
+| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s  | 1         | 5.26%   |
+| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 5.26%   |
 | Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 5.26%   |
 | Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s | 1         | 5.26%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
-| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s | 1         | 5.26%   |
+| Crucial RAM CT8G4SFS824A.C8FE 8GB SODIMM DDR4 2667MT/s    | 1         | 5.26%   |
 | A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s             | 1         | 5.26%   |
 | A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
 
@@ -2215,7 +2214,7 @@ Camera device models
 | Chicony HP HD Camera                                         | 1         | 2.7%    |
 | Chicony HD WebCam (Acer)                                     | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) XiaoMi USB 2.0 Webcam | 1         | 2.7%    |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera          | 1         | 2.7%    |
+| Cheng Uei Precision Industry (Foxlink) Webcam                | 1         | 2.7%    |
 | Apple FaceTime HD Camera (Built-in)                          | 1         | 2.7%    |
 | Acer USB HD Webcam                                           | 1         | 2.7%    |
 | Acer HP Webcam                                               | 1         | 2.7%    |

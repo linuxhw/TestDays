@@ -809,53 +809,53 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                    | Desktops | Percent |
-|-------------------------|----------|---------|
-| Beijing                 | 5        | 9.62%   |
-| São Paulo              | 2        | 3.85%   |
-| Rio de Janeiro          | 2        | 3.85%   |
-| David                   | 2        | 3.85%   |
-| Wuhan                   | 1        | 1.92%   |
-| Windhoek                | 1        | 1.92%   |
-| Vilnius                 | 1        | 1.92%   |
-| Vienna                  | 1        | 1.92%   |
-| São Bernardo do Campo  | 1        | 1.92%   |
-| Surakarta               | 1        | 1.92%   |
-| St Petersburg           | 1        | 1.92%   |
-| Socorro                 | 1        | 1.92%   |
-| Seesen                  | 1        | 1.92%   |
-| S??o Paulo              | 1        | 1.92%   |
-| San Francisco           | 1        | 1.92%   |
-| Rzeszotary              | 1        | 1.92%   |
-| Rome                    | 1        | 1.92%   |
-| Para de Minas           | 1        | 1.92%   |
-| Palo Alto               | 1        | 1.92%   |
-| Niterói                | 1        | 1.92%   |
-| Naucalpan               | 1        | 1.92%   |
-| Nanjing                 | 1        | 1.92%   |
-| Namur                   | 1        | 1.92%   |
-| Mesa                    | 1        | 1.92%   |
-| Medell?�n               | 1        | 1.92%   |
-| Marília                | 1        | 1.92%   |
-| Lviv                    | 1        | 1.92%   |
-| Liège                  | 1        | 1.92%   |
-| Leipzig                 | 1        | 1.92%   |
-| Krakow                  | 1        | 1.92%   |
-| Jaboatao dos Guararapes | 1        | 1.92%   |
-| Grand Bourg             | 1        | 1.92%   |
-| Getxo                   | 1        | 1.92%   |
-| Dhaka                   | 1        | 1.92%   |
-| Cypress Hills           | 1        | 1.92%   |
-| Contagem                | 1        | 1.92%   |
-| Cluj-Napoca             | 1        | 1.92%   |
-| Chennai                 | 1        | 1.92%   |
-| Campina Grande          | 1        | 1.92%   |
-| Campeche                | 1        | 1.92%   |
-| Brasília               | 1        | 1.92%   |
-| Brandsen                | 1        | 1.92%   |
-| Barueri                 | 1        | 1.92%   |
-| Baixucun                | 1        | 1.92%   |
-| Auckland                | 1        | 1.92%   |
+| City                     | Desktops | Percent |
+|--------------------------|----------|---------|
+| Beijing                  | 5        | 9.62%   |
+| SГЈo Paulo             | 2        | 3.85%   |
+| Rio de Janeiro           | 2        | 3.85%   |
+| David                    | 2        | 3.85%   |
+| Wuhan                    | 1        | 1.92%   |
+| Windhoek                 | 1        | 1.92%   |
+| Vilnius                  | 1        | 1.92%   |
+| Vienna                   | 1        | 1.92%   |
+| SГЈo Bernardo do Campo | 1        | 1.92%   |
+| Surakarta                | 1        | 1.92%   |
+| St Petersburg            | 1        | 1.92%   |
+| Socorro                  | 1        | 1.92%   |
+| Seesen                   | 1        | 1.92%   |
+| SÃ£o Paulo             | 1        | 1.92%   |
+| San Francisco            | 1        | 1.92%   |
+| Rzeszotary               | 1        | 1.92%   |
+| Rome                     | 1        | 1.92%   |
+| Para de Minas            | 1        | 1.92%   |
+| Palo Alto                | 1        | 1.92%   |
+| NiterГіi               | 1        | 1.92%   |
+| Naucalpan                | 1        | 1.92%   |
+| Nanjing                  | 1        | 1.92%   |
+| Namur                    | 1        | 1.92%   |
+| Mesa                     | 1        | 1.92%   |
+| MedellÃ­n              | 1        | 1.92%   |
+| MarГ­lia               | 1        | 1.92%   |
+| Lviv                     | 1        | 1.92%   |
+| LiГЁge                 | 1        | 1.92%   |
+| Leipzig                  | 1        | 1.92%   |
+| Krakow                   | 1        | 1.92%   |
+| Jaboatao dos Guararapes  | 1        | 1.92%   |
+| Grand Bourg              | 1        | 1.92%   |
+| Getxo                    | 1        | 1.92%   |
+| Dhaka                    | 1        | 1.92%   |
+| Cypress Hills            | 1        | 1.92%   |
+| Contagem                 | 1        | 1.92%   |
+| Cluj-Napoca              | 1        | 1.92%   |
+| Chennai                  | 1        | 1.92%   |
+| Campina Grande           | 1        | 1.92%   |
+| Campeche                 | 1        | 1.92%   |
+| BrasГ­lia              | 1        | 1.92%   |
+| Brandsen                 | 1        | 1.92%   |
+| Barueri                  | 1        | 1.92%   |
+| Baixucun                 | 1        | 1.92%   |
+| Auckland                 | 1        | 1.92%   |
 
 Drives
 ------
@@ -934,7 +934,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB            | 1        | 1.01%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 1.01%   |
 | Vaseky V800/256G 256GB SSD          | 1        | 1.01%   |
-| Unknown SD/MMC/MS PRO 128GB         | 1        | 1.01%   |
+| Unknown SD/MMC/MS PRO 64GB          | 1        | 1.01%   |
 | Toshiba MQ01ABF050 500GB            | 1        | 1.01%   |
 | Toshiba MQ01ABD075 752GB            | 1        | 1.01%   |
 | Toshiba DT01ACA200 2TB              | 1        | 1.01%   |
@@ -1660,7 +1660,7 @@ Monitor models
 | ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch              | 1        | 1.72%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch              | 1        | 1.72%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 1.72%   |
-| Toshiba TV TSB0108 1360x768 700x390mm 31.5-inch                         | 1        | 1.72%   |
+| Toshiba TV TSB0108 1920x1080 700x390mm 31.5-inch                        | 1        | 1.72%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                        | 1        | 1.72%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch    | 1        | 1.72%   |
 | Samsung Electronics SyncMaster SAM0601 1600x900                         | 1        | 1.72%   |
@@ -1671,7 +1671,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SMS23A350H 1920x1080                    | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor SAM0E90 1366x768 609x347mm 27.6-inch    | 1        | 1.72%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch   | 1        | 1.72%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1872x1053mm 84.6-inch | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor S24E390 1920x1080                       | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor S24E360 1920x1080                       | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor S24E310 3840x1080                       | 1        | 1.72%   |
@@ -1683,17 +1683,17 @@ Monitor models
 | MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                       | 1        | 1.72%   |
 | Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch                 | 1        | 1.72%   |
 | Lenovo E1922s Wide LEN60BD 1366x768 410x230mm 18.5-inch                 | 1        | 1.72%   |
-| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                    | 1        | 1.72%   |
+| Iiyama PL2792Q IVM6630 2560x1440 600x340mm 27.2-inch                    | 1        | 1.72%   |
 | Iiyama PL2792Q IVM662F 2560x1440 597x336mm 27.0-inch                    | 1        | 1.72%   |
 | Hisense LCD Monitor HDMI 1360x768                                       | 1        | 1.72%   |
-| Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch            | 1        | 1.72%   |
+| Hewlett-Packard VH240a HPN3499 1920x1080 530x300mm 24.0-inch            | 1        | 1.72%   |
 | Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch        | 1        | 1.72%   |
 | Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch              | 1        | 1.72%   |
 | Hewlett-Packard 2311x HWP293A 1920x1080 510x287mm 23.0-inch             | 1        | 1.72%   |
-| Hewlett-Packard 22f HPN3542 1920x1080 476x267mm 21.5-inch               | 1        | 1.72%   |
+| Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch              | 1        | 1.72%   |
 | Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                   | 1        | 1.72%   |
+| Goldstar LCD Monitor GSM5AB7 1920x1080 480x270mm 21.7-inch              | 1        | 1.72%   |
 | Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                   | 1        | 1.72%   |
-| Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch               | 1        | 1.72%   |
 | Goldstar E2360 GSM57E4 1920x1080 510x290mm 23.1-inch                    | 1        | 1.72%   |
 | Goldstar 2D HD TV GSM59CA 1366x768 509x286mm 23.0-inch                  | 1        | 1.72%   |
 | Goldstar 22MP55 GSM5A26 1920x1080 477x268mm 21.5-inch                   | 1        | 1.72%   |
@@ -1704,7 +1704,7 @@ Monitor models
 | Dell 20 DELF112 1600x900 443x249mm 20.0-inch                            | 1        | 1.72%   |
 | BOE LCD Monitor BOE0691 1920x1080 280x160mm 12.7-inch                   | 1        | 1.72%   |
 | BenQ XL2430T BNQ7F3D 1920x1080 531x298mm 24.0-inch                      | 1        | 1.72%   |
-| ASUSTek Computer VA24E AUS24D1 1920x1080 530x300mm 24.0-inch            | 1        | 1.72%   |
+| ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch            | 1        | 1.72%   |
 | AOC 24G1WG4 AOC2401 1920x1080 520x290mm 23.4-inch                       | 1        | 1.72%   |
 | AOC 2267W AOC2267 1920x1080 476x268mm 21.5-inch                         | 1        | 1.72%   |
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                   | 1        | 1.72%   |
@@ -1902,22 +1902,22 @@ Controller models
 | Broadcom NetLink BCM57781 Gigabit Ethernet PCIe                   | 2        | 2.78%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.39%   |
 | Unknown Network controller                                        | 1        | 1.39%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 1.39%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 1.39%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1        | 1.39%   |
+| TP-Link TL WN823N RTL8192EU                                       | 1        | 1.39%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.39%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.39%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 1.39%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 1.39%   |
-| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)         | 1        | 1.39%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 1.39%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 1.39%   |
+| Realtek 802.11n WLAN Adapter                                      | 1        | 1.39%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.39%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.39%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 1.39%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.39%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.39%   |
 | NetGear A6210                                                     | 1        | 1.39%   |
-| MediaTek Infinix HOT 10T                                          | 1        | 1.39%   |
+| MediaTek Wiko U316AT                                              | 1        | 1.39%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.39%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.39%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.39%   |
@@ -1957,22 +1957,22 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]               | 1        | 7.14%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                       | 1        | 7.14%   |
-| TP-Link 802.11ac WLAN Adapter                             | 1        | 7.14%   |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter   | 1        | 7.14%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter           | 1        | 7.14%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                    | 1        | 7.14%   |
-| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch) | 1        | 7.14%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter     | 1        | 7.14%   |
-| Realtek RTL8188EE Wireless Network Adapter                | 1        | 7.14%   |
-| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter    | 1        | 7.14%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter          | 1        | 7.14%   |
-| NetGear A6210                                             | 1        | 7.14%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]          | 1        | 7.14%   |
-| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]      | 1        | 7.14%   |
+| Model                                                      | Desktops | Percent |
+|------------------------------------------------------------|----------|---------|
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 1        | 7.14%   |
+| TP-Link TL WN823N RTL8192EU                                | 1        | 7.14%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 7.14%   |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 7.14%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter            | 1        | 7.14%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                     | 1        | 7.14%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 7.14%   |
+| Realtek RTL8188EE Wireless Network Adapter                 | 1        | 7.14%   |
+| Realtek 802.11n WLAN Adapter                               | 1        | 7.14%   |
+| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter     | 1        | 7.14%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter           | 1        | 7.14%   |
+| NetGear A6210                                              | 1        | 7.14%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]           | 1        | 7.14%   |
+| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]       | 1        | 7.14%   |
 
 Ethernet Vendor
 ---------------
@@ -2015,7 +2015,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.79%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.79%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.79%   |
-| MediaTek Infinix HOT 10T                                          | 1        | 1.79%   |
+| MediaTek Wiko U316AT                                              | 1        | 1.79%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.79%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.79%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.79%   |
@@ -2239,23 +2239,23 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                   | 1        | 3.85%   |
 | Unknown RAM Module 2GB DIMM SDRAM                        | 1        | 3.85%   |
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s       | 1        | 3.85%   |
-| Team RAM TEAMGROUP-UD4-3200 16384MB DIMM DDR4 3200MT/s   | 1        | 3.85%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 3.85%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s      | 1        | 3.85%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s   | 1        | 3.85%   |
 | Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s       | 1        | 3.85%   |
 | Kingston RAM KTW149-ELF 1024MB DIMM DDR3 1333MT/s        | 1        | 3.85%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3200MT/s        | 1        | 3.85%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s        | 1        | 3.85%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s      | 1        | 3.85%   |
-| Kingston RAM KHX1866C10D3/8G 8192MB DIMM DDR3 1867MT/s   | 1        | 3.85%   |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1867MT/s   | 1        | 3.85%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s      | 1        | 3.85%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s      | 1        | 3.85%   |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s | 1        | 3.85%   |
-| Kingston RAM 99U5474-038.A00LF 4096MB DIMM DDR3 1333MT/s | 1        | 3.85%   |
-| Kingston RAM 99U5403-034.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.85%   |
+| Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.85%   |
+| Kingston RAM 99U5403-034.A00LF 4GB DIMM 1333MT/s         | 1        | 3.85%   |
 | G.Skill RAM F3-2400C10-8GTX 8GB DIMM DDR3 2400MT/s       | 1        | 3.85%   |
 | G.Skill RAM F3-14900CL10-8GBXL 8GB DIMM DDR3 1867MT/s    | 1        | 3.85%   |
-| CSX RAM V01D3LF4GB26826813 4096MB DIMM DDR3 1333MT/s     | 1        | 3.85%   |
+| CSX RAM V01D3LF4GB26826813 4GB DIMM DDR3 1333MT/s        | 1        | 3.85%   |
 | Corsair RAM CMK8GX4M1A2400C16 8GB DIMM DDR4 2800MT/s     | 1        | 3.85%   |
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 2400MT/s | 1        | 3.85%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s    | 1        | 3.85%   |
 | Apacer RAM 76.C346G.C850C 8192MB SODIMM DDR3 1600MT/s    | 1        | 3.85%   |
 | A-DATA RAM DDR4 2400 2OZ 8GB DIMM DDR4 2666MT/s          | 1        | 3.85%   |
 
@@ -2384,8 +2384,8 @@ Camera device vendors
 | Vendor                 | Desktops | Percent |
 |------------------------|----------|---------|
 | Logitech               | 5        | 55.56%  |
-| PC-LM1E                | 1        | 11.11%  |
 | Microdia               | 1        | 11.11%  |
+| HD 2MP WEBCAM          | 1        | 11.11%  |
 | Generalplus Technology | 1        | 11.11%  |
 | Arkmicro Technologies  | 1        | 11.11%  |
 
@@ -2400,10 +2400,10 @@ Camera device models
 | Model                         | Desktops | Percent |
 |-------------------------------|----------|---------|
 | Logitech Webcam C270          | 3        | 33.33%  |
-| PC-LM1E PC-LM1E               | 1        | 11.11%  |
 | Microdia Integrated_Webcam_HD | 1        | 11.11%  |
 | Logitech Webcam C200          | 1        | 11.11%  |
 | Logitech HD Pro Webcam C920   | 1        | 11.11%  |
+| HD 2MP WEBCAM HD 2MP WEBCAM   | 1        | 11.11%  |
 | Generalplus GENERAL WEBCAM    | 1        | 11.11%  |
 | Arkmicro USB2.0 PC CAMERA     | 1        | 11.11%  |
 

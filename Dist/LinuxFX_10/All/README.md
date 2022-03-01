@@ -862,7 +862,7 @@ Geographic location (city)
 | Taboao da Serra       | 1         | 1.56%   |
 | Sydney                | 1         | 1.56%   |
 | Stockholm             | 1         | 1.56%   |
-| S??o Paulo            | 1         | 1.56%   |
+| SÃ£o Paulo          | 1         | 1.56%   |
 | Sao Bernardo          | 1         | 1.56%   |
 | Salerno               | 1         | 1.56%   |
 | Saladas               | 1         | 1.56%   |
@@ -887,7 +887,7 @@ Geographic location (city)
 | Londrina              | 1         | 1.56%   |
 | Launceston            | 1         | 1.56%   |
 | Karlsruhe             | 1         | 1.56%   |
-| Jundia?�              | 1         | 1.56%   |
+| JundiaÃ­            | 1         | 1.56%   |
 | Johannesburg          | 1         | 1.56%   |
 | Itatiba               | 1         | 1.56%   |
 | Hobart                | 1         | 1.56%   |
@@ -903,7 +903,7 @@ Geographic location (city)
 | Bonn                  | 1         | 1.56%   |
 | Bhopal                | 1         | 1.56%   |
 | Belgrade              | 1         | 1.56%   |
-| Bel?�m                | 1         | 1.56%   |
+| BelÃ©m              | 1         | 1.56%   |
 | Barcelona             | 1         | 1.56%   |
 | Arad                  | 1         | 1.56%   |
 | Altamira              | 1         | 1.56%   |
@@ -929,7 +929,7 @@ Hard drive vendors
 | Kingston            | 7         | 8      | 8.14%   |
 | Hitachi             | 7         | 8      | 8.14%   |
 | Unknown             | 3         | 4      | 3.49%   |
-| SanDisk             | 3         | 3      | 3.49%   |
+| Sandisk             | 3         | 3      | 3.49%   |
 | MAXTOR              | 2         | 2      | 2.33%   |
 | LITEONIT            | 2         | 2      | 2.33%   |
 | HGST                | 2         | 3      | 2.33%   |
@@ -960,7 +960,7 @@ Hard drive models
 | WDC WD10EZEX-08WN4A0 1TB             | 2         | 2.2%    |
 | Toshiba MQ01ABF050 500GB             | 2         | 2.2%    |
 | Kingston SV300S37A120G 120GB SSD     | 2         | 2.2%    |
-| XPG GAMMIX S11 Pro 2TB               | 1         | 1.1%    |
+| XPG GAMMIX S11 Pro 1TB               | 1         | 1.1%    |
 | WDC WD5000LPVX-22V0TT0 500GB         | 1         | 1.1%    |
 | WDC WD5000LPVT-24G33T1 500GB         | 1         | 1.1%    |
 | WDC WD5000AAKX-001CA0 500GB          | 1         | 1.1%    |
@@ -984,7 +984,7 @@ Hard drive models
 | Toshiba MQ01ABD050 500GB             | 1         | 1.1%    |
 | Toshiba MK5059GSXP 500GB             | 1         | 1.1%    |
 | Toshiba MK2561GSYN 250GB             | 1         | 1.1%    |
-| TO Exter nal USB 3.0 256GB           | 1         | 1.1%    |
+| TO Exter nal USB 3.0 2TB             | 1         | 1.1%    |
 | Seagate ST9320325AS 320GB            | 1         | 1.1%    |
 | Seagate ST9160827AS 160GB            | 1         | 1.1%    |
 | Seagate ST9160821AS 160GB            | 1         | 1.1%    |
@@ -1028,15 +1028,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 16        | 17     | 29.63%  |
-| Seagate             | 14        | 19     | 25.93%  |
-| Toshiba             | 7         | 7      | 12.96%  |
-| Hitachi             | 7         | 8      | 12.96%  |
-| Samsung Electronics | 4         | 5      | 7.41%   |
-| MAXTOR              | 2         | 2      | 3.7%    |
-| HGST                | 2         | 3      | 3.7%    |
-| TO Exter            | 1         | 1      | 1.85%   |
-| ASMT109x            | 1         | 1      | 1.85%   |
+| WDC                 | 16        | 17     | 30.19%  |
+| Seagate             | 14        | 19     | 26.42%  |
+| Toshiba             | 7         | 7      | 13.21%  |
+| Hitachi             | 7         | 8      | 13.21%  |
+| Samsung Electronics | 4         | 5      | 7.55%   |
+| MAXTOR              | 2         | 2      | 3.77%   |
+| HGST                | 2         | 3      | 3.77%   |
+| ASMT109x            | 1         | 1      | 1.89%   |
 
 SSD Vendor
 ----------
@@ -1048,20 +1047,21 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Kingston            | 6         | 7      | 24%     |
-| Samsung Electronics | 4         | 4      | 16%     |
-| SanDisk             | 2         | 2      | 8%      |
-| LITEONIT            | 2         | 2      | 8%      |
-| A-DATA Technology   | 2         | 3      | 8%      |
-| WDC                 | 1         | 2      | 4%      |
-| PNY                 | 1         | 1      | 4%      |
-| Patriot             | 1         | 1      | 4%      |
-| OCZ                 | 1         | 1      | 4%      |
-| Mushkin             | 1         | 1      | 4%      |
-| Hewlett-Packard     | 1         | 1      | 4%      |
-| GOODRAM             | 1         | 1      | 4%      |
-| Crucial             | 1         | 1      | 4%      |
-| China               | 1         | 1      | 4%      |
+| Kingston            | 6         | 7      | 23.08%  |
+| Samsung Electronics | 4         | 4      | 15.38%  |
+| SanDisk             | 2         | 2      | 7.69%   |
+| LITEONIT            | 2         | 2      | 7.69%   |
+| A-DATA Technology   | 2         | 3      | 7.69%   |
+| WDC                 | 1         | 2      | 3.85%   |
+| TO Exter            | 1         | 1      | 3.85%   |
+| PNY                 | 1         | 1      | 3.85%   |
+| Patriot             | 1         | 1      | 3.85%   |
+| OCZ                 | 1         | 1      | 3.85%   |
+| Mushkin             | 1         | 1      | 3.85%   |
+| Hewlett-Packard     | 1         | 1      | 3.85%   |
+| GOODRAM             | 1         | 1      | 3.85%   |
+| Crucial             | 1         | 1      | 3.85%   |
+| China               | 1         | 1      | 3.85%   |
 
 Drive Kind
 ----------
@@ -1073,8 +1073,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 46        | 63     | 59.74%  |
-| SSD  | 24        | 28     | 31.17%  |
+| HDD  | 45        | 62     | 58.44%  |
+| SSD  | 25        | 29     | 32.47%  |
 | NVMe | 5         | 6      | 6.49%   |
 | MMC  | 2         | 2      | 2.6%    |
 
@@ -1103,10 +1103,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 56        | 72     | 77.78%  |
+| 0.01-0.5   | 55        | 71     | 76.39%  |
 | 0.51-1.0   | 11        | 13     | 15.28%  |
+| 1.01-2.0   | 3         | 4      | 4.17%   |
 | 3.01-4.0   | 2         | 2      | 2.78%   |
-| 1.01-2.0   | 2         | 3      | 2.78%   |
 | 4.01-10.0  | 1         | 1      | 1.39%   |
 
 Space Total
@@ -1758,7 +1758,7 @@ Monitor models
 | Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch        | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch     | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch     | 1         | 1.61%   |
-| Samsung Electronics SMBX2331 SAM076F 1920x1080 510x290mm 23.1-inch       | 1         | 1.61%   |
+| Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch       | 1         | 1.61%   |
 | Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch   | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 1.61%   |
@@ -1770,14 +1770,14 @@ Monitor models
 | NXP OptiPlex 9010 NXP1111 1920x1080 510x286mm 23.0-inch                  | 1         | 1.61%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 1.61%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch              | 1         | 1.61%   |
-| LG Display LCD Monitor LGD03B3 1366x768 309x174mm 14.0-inch              | 1         | 1.61%   |
+| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch              | 1         | 1.61%   |
 | LG Display LCD Monitor LGD02EB 1366x768 309x174mm 14.0-inch              | 1         | 1.61%   |
 | LG Display LCD Monitor LGD0251 1366x768 310x174mm 14.0-inch              | 1         | 1.61%   |
 | Lenovo LEN T2454pA LEN60C9 1920x1200 527x296mm 23.8-inch                 | 1         | 1.61%   |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch             | 1         | 1.61%   |
 | Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                     | 1         | 1.61%   |
 | Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                      | 1         | 1.61%   |
-| Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                     | 1         | 1.61%   |
+| Goldstar E2441 GSM581F 1920x1080 530x300mm 24.0-inch                     | 1         | 1.61%   |
 | CPT LCD Monitor CPT13B1 1280x800 331x207mm 15.4-inch                     | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch          | 1         | 1.61%   |
@@ -1801,7 +1801,7 @@ Monitor models
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch    | 1         | 1.61%   |
 | Acer V226WL ACR0339 1680x1050 474x296mm 22.0-inch                        | 1         | 1.61%   |
 | Acer LCD Monitor S230HL                                                  | 1         | 1.61%   |
-| Acer G226HQL ACR02EA 1920x1080 480x270mm 21.7-inch                       | 1         | 1.61%   |
+| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                       | 1         | 1.61%   |
 | Acer G185HV ACR019F 1366x768 410x230mm 18.5-inch                         | 1         | 1.61%   |
 
 Monitor Resolution
@@ -2011,7 +2011,7 @@ Controller models
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                     | 1         | 0.85%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                     | 1         | 0.85%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                    | 1         | 0.85%   |
-| Qualcomm SDM636-QRD _SN:494F4540                                             | 1         | 0.85%   |
+| Qualcomm FP3                                                                 | 1         | 0.85%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                   | 1         | 0.85%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                        | 1         | 0.85%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                     | 1         | 0.85%   |
@@ -2154,7 +2154,7 @@ Ethernet models
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.52%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.52%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.52%   |
-| Qualcomm SDM636-QRD _SN:494F4540                                  | 1         | 1.52%   |
+| Qualcomm FP3                                                      | 1         | 1.52%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.52%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.52%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 1.52%   |
@@ -2242,10 +2242,11 @@ Controller vendors
 | Vendor                          | Computers | Percent |
 |---------------------------------|-----------|---------|
 | Intel                           | 6         | 23.08%  |
-| Qualcomm Atheros Communications | 5         | 19.23%  |
 | Cambridge Silicon Radio         | 4         | 15.38%  |
+| Qualcomm Atheros Communications | 3         | 11.54%  |
 | Lite-On Technology              | 3         | 11.54%  |
 | Realtek Semiconductor           | 2         | 7.69%   |
+| Qualcomm Atheros                | 2         | 7.69%   |
 | Hewlett-Packard                 | 2         | 7.69%   |
 | Ralink Technology               | 1         | 3.85%   |
 | Integrated System Solution      | 1         | 3.85%   |
@@ -2263,16 +2264,17 @@ Controller models
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 4         | 15.38%  |
-| Intel Bluetooth Device                                      | 3         | 11.54%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 7.69%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 2         | 7.69%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 7.69%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 7.69%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 7.69%   |
+| Intel Bluetooth wireless interface                          | 2         | 7.69%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 3.85%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 3.85%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 3.85%   |
-| Intel Bluetooth wireless interface                          | 1         | 3.85%   |
+| Lite-On Bluetooth Device                                    | 1         | 3.85%   |
+| Intel Bluetooth Device                                      | 1         | 3.85%   |
+| Intel AX201 Bluetooth                                       | 1         | 3.85%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter       | 1         | 3.85%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 3.85%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 3.85%   |
@@ -2359,7 +2361,7 @@ Sound card models
 | AMD RV610 HDMI Audio [Radeon HD 2350 PRO / 2400 PRO/XT / HD 3410]          | 1         | 1.05%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 1.05%   |
 | AMD Kaveri HDMI/DP Audio Controller                                        | 1         | 1.05%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 1         | 1.05%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 1         | 1.05%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1         | 1.05%   |
 | AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]        | 1         | 1.05%   |
 
@@ -2397,14 +2399,14 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 800MT/s                    | 1         | 8.33%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                    | 1         | 8.33%   |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1         | 8.33%   |
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 1         | 8.33%   |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s      | 1         | 8.33%   |
-| Kingston RAM KHX2400C11D3/8GX 8192MB DIMM DDR3 2400MT/s   | 1         | 8.33%   |
+| Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s      | 1         | 8.33%   |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s   | 1         | 8.33%   |
-| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3200MT/s    | 1         | 8.33%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 2933MT/s       | 1         | 8.33%   |
 | Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s    | 1         | 8.33%   |
 | Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s     | 1         | 8.33%   |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 1         | 8.33%   |
+| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s  | 1         | 8.33%   |
 
 Memory Kind
 -----------
@@ -2461,8 +2463,8 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 3         | 27.27%  |
+| 3466    | 1         | 9.09%   |
 | 3266    | 1         | 9.09%   |
-| 3200    | 1         | 9.09%   |
 | 2667    | 1         | 9.09%   |
 | 2400    | 1         | 9.09%   |
 | 1066    | 1         | 9.09%   |

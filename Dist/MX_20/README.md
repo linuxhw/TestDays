@@ -768,8 +768,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 40        | 56.34%  |
-| Yes       | 31        | 43.66%  |
+| No        | 41        | 57.75%  |
+| Yes       | 30        | 42.25%  |
 
 Has Ethernet
 ------------
@@ -874,7 +874,7 @@ Geographic location (city)
 | Tobyhanna                 | 1         | 1.37%   |
 | Tampa                     | 1         | 1.37%   |
 | Stockholm                 | 1         | 1.37%   |
-| S?�dert?�lje              | 1         | 1.37%   |
+| SÃ¶dertÃ¤lje          | 1         | 1.37%   |
 | Rensselaer                | 1         | 1.37%   |
 | Prague                    | 1         | 1.37%   |
 | Porto                     | 1         | 1.37%   |
@@ -895,7 +895,7 @@ Geographic location (city)
 | Mexico City               | 1         | 1.37%   |
 | Meriden                   | 1         | 1.37%   |
 | Mechanicsburg             | 1         | 1.37%   |
-| M??nster                  | 1         | 1.37%   |
+| MÃ¼nster                | 1         | 1.37%   |
 | Marbella                  | 1         | 1.37%   |
 | Manado                    | 1         | 1.37%   |
 | Madison                   | 1         | 1.37%   |
@@ -923,7 +923,7 @@ Geographic location (city)
 | Caldicot                  | 1         | 1.37%   |
 | Budapest                  | 1         | 1.37%   |
 | Breedenbroek              | 1         | 1.37%   |
-| Bogot??                   | 1         | 1.37%   |
+| BogotÃ¡                 | 1         | 1.37%   |
 
 Drives
 ------
@@ -1827,15 +1827,15 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch  | 2         | 2.5%    |
 | ViewSonic XG2705 VSC0E39 1920x1080 600x340mm 27.2-inch                    | 1         | 1.25%   |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch                   | 1         | 1.25%   |
-| Vestel Elektronik LCD Monitor VES3700 1920x540                            | 1         | 1.25%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1100x620mm 49.7-inch     | 1         | 1.25%   |
 | Sony TV SNY0801 1360x768 1600x900mm 72.3-inch                             | 1         | 1.25%   |
-| Sceptre Tech Sceptre E24 SPT099D 1920x1080 521x293mm 23.5-inch            | 1         | 1.25%   |
+| Sceptre Tech E24 SPT099D 1920x1080 409x230mm 18.5-inch                    | 1         | 1.25%   |
 | Samsung Electronics SyncMaster SAM04E6 1920x1080 477x268mm 21.5-inch      | 1         | 1.25%   |
 | Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch      | 1         | 1.25%   |
 | Samsung Electronics SyncMaster SAM03C2 1680x1050 459x296mm 21.5-inch      | 1         | 1.25%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch      | 1         | 1.25%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch      | 1         | 1.25%   |
-| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 950x540mm 43.0-inch     | 1         | 1.25%   |
+| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 1020x570mm 46.0-inch    | 1         | 1.25%   |
 | Samsung Electronics C27JG5x SAM0F57 2560x1440 600x340mm 27.2-inch         | 1         | 1.25%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch         | 1         | 1.25%   |
 | RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                          | 1         | 1.25%   |
@@ -1854,12 +1854,12 @@ Monitor models
 | Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                    | 1         | 1.25%   |
 | Lenovo LCD Monitor LEN4043 1400x1050 305x228mm 15.0-inch                  | 1         | 1.25%   |
 | Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                   | 1         | 1.25%   |
-| InfoVision LCD Monitor IVO03FA 1366x768 220x130mm 10.1-inch               | 1         | 1.25%   |
-| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                      | 1         | 1.25%   |
+| InfoVision LCD Monitor IVO03FA 1366x768 223x125mm 10.1-inch               | 1         | 1.25%   |
+| Iiyama PL2792Q IVM6630 2560x1440 600x340mm 27.2-inch                      | 1         | 1.25%   |
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch                | 1         | 1.25%   |
-| Hewlett-Packard 22f HPN3541 1920x1080 476x268mm 21.5-inch                 | 1         | 1.25%   |
+| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch                | 1         | 1.25%   |
 | Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch                 | 1         | 1.25%   |
-| HannStar HSD101PFW2A HSD03E9 1024x600 222x125mm 10.0-inch                 | 1         | 1.25%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                  | 1         | 1.25%   |
 | HannStar HL161ABB HSD61C7 1366x768 344x193mm 15.5-inch                    | 1         | 1.25%   |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                      | 1         | 1.25%   |
 | Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                     | 1         | 1.25%   |
@@ -1870,7 +1870,7 @@ Monitor models
 | Dell S2409W DELA039 1920x1080 530x300mm 24.0-inch                         | 1         | 1.25%   |
 | Dell P2217H DELA0D8 1920x1080 480x270mm 21.7-inch                         | 1         | 1.25%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch           | 1         | 1.25%   |
-| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch           | 1         | 1.25%   |
+| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x194mm 15.5-inch           | 1         | 1.25%   |
 | Chimei Innolux LCD Monitor CMN14A7 1920x1080 308x173mm 13.9-inch          | 1         | 1.25%   |
 | Chimei Innolux LCD Monitor CMN1491 1366x768 309x174mm 14.0-inch           | 1         | 1.25%   |
 | Chimei Innolux LCD Monitor CMN1376 1920x1080 293x165mm 13.2-inch          | 1         | 1.25%   |
@@ -2344,11 +2344,12 @@ Controller vendors
 | Intel                           | 19        | 47.5%   |
 | Broadcom                        | 5         | 12.5%   |
 | Realtek Semiconductor           | 3         | 7.5%    |
-| Qualcomm Atheros Communications | 3         | 7.5%    |
+| Qualcomm Atheros Communications | 2         | 5%      |
 | Lite-On Technology              | 2         | 5%      |
 | IMC Networks                    | 2         | 5%      |
 | Cambridge Silicon Radio         | 2         | 5%      |
 | Apple                           | 2         | 5%      |
+| Qualcomm Atheros                | 1         | 2.5%    |
 | Hewlett-Packard                 | 1         | 2.5%    |
 | Foxconn / Hon Hai               | 1         | 2.5%    |
 
@@ -2362,14 +2363,16 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 11        | 27.5%   |
-| Intel Bluetooth wireless interface                  | 6         | 15%     |
+| Intel Bluetooth wireless interface                  | 7         | 17.5%   |
+| Intel Bluetooth Device                              | 6         | 15%     |
 | Realtek Bluetooth Radio                             | 2         | 5%      |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 5%      |
+| Intel AX201 Bluetooth                               | 2         | 5%      |
+| Intel AX200 Bluetooth                               | 2         | 5%      |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 5%      |
 | Realtek RTL8821A Bluetooth                          | 1         | 2.5%    |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 2.5%    |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.5%    |
+| Lite-On Bluetooth Device                            | 1         | 2.5%    |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.5%    |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.5%    |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.5%    |
@@ -2440,7 +2443,7 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 2         | 1.8%    |
 | AMD Starship/Matisse HD Audio Controller                                                          | 2         | 1.8%    |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2         | 1.8%    |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 2         | 1.8%    |
+| AMD Family 17h/19h HD Audio Controller                                                            | 2         | 1.8%    |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 2         | 1.8%    |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 2         | 1.8%    |
 | Texas Instruments PCM2704 16-bit stereo audio DAC                                                 | 1         | 0.9%    |
@@ -2520,68 +2523,68 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Computers | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s          | 2         | 2.27%   |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s             | 2         | 2.27%   |
-| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s          | 2         | 2.27%   |
-| Unknown RAM Module 8192MB DIMM DDR4 2133MT/s                     | 1         | 1.14%   |
-| Unknown RAM Module 512MB DIMM SDRAM                              | 1         | 1.14%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                     | 1         | 1.14%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s                   | 1         | 1.14%   |
-| Unknown RAM Module 2048MB SODIMM DDR2                            | 1         | 1.14%   |
-| Unknown RAM Module 2048MB DIMM DDR 667MT/s                       | 1         | 1.14%   |
-| Unknown RAM Module 1024MB SODIMM DDR2                            | 1         | 1.14%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                             | 1         | 1.14%   |
-| Unknown RAM Module 1024MB DIMM DDR                               | 1         | 1.14%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR3 2400MT/s | 1         | 1.14%   |
-| Transcend RAM JM1333KSN-4G 4GB SODIMM DDR3 1334MT/s              | 1         | 1.14%   |
-| Teikon RAM TMT451S6BFR8A-PBHJ 4GB SODIMM DDR3 1600MT/s           | 1         | 1.14%   |
-| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s            | 1         | 1.14%   |
-| SK Hynix RAM Module 2048MB SODIMM DDR3 800MT/s                   | 1         | 1.14%   |
-| SK Hynix RAM Module 16384MB SODIMM DDR4 2667MT/s                 | 1         | 1.14%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.14%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.14%   |
-| SK Hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s          | 1         | 1.14%   |
-| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s             | 1         | 1.14%   |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.14%   |
-| SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1334MT/s        | 1         | 1.14%   |
-| SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s        | 1         | 1.14%   |
-| SK Hynix RAM HMT125S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s           | 1         | 1.14%   |
-| SK Hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.14%   |
-| SK Hynix RAM H9CCNNNBJTALAR-NUD 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 1.14%   |
-| SK Hynix RAM H5AN8G6NCJR-XNC 4096MB SODIMM DDR4 3200MT/s         | 1         | 1.14%   |
-| Samsung RAM Module 2048MB SODIMM DDR2 533MT/s                    | 1         | 1.14%   |
-| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.14%   |
-| Samsung RAM M471B5674EB0-YK0 2048MB SODIMM DDR3 1600MT/s         | 1         | 1.14%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM 1067MT/s              | 1         | 1.14%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.14%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.14%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.14%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.14%   |
-| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 1         | 1.14%   |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s           | 1         | 1.14%   |
-| Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s           | 1         | 1.14%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
-| Samsung RAM M391B5273DH0-YK0 4096MB DIMM DDR3 1600MT/s           | 1         | 1.14%   |
-| Ramaxel RAM RMT3150ED58E8W1600 2048MB SODIMM DDR3 1600MT/s       | 1         | 1.14%   |
-| Ramaxel RAM RMSA3300ME78HBF-2666 16GB SODIMM DDR4 2667MT/s       | 1         | 1.14%   |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 1.14%   |
-| PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s             | 1         | 1.14%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s               | 1         | 1.14%   |
-| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s          | 1         | 1.14%   |
-| Nanya RAM NT1GT64UH8D0FN-3C 1024MB SODIMM DDR2 667MT/s           | 1         | 1.14%   |
-| Micron RAM Module 4GB SODIMM DDR3 1067MT/s                       | 1         | 1.14%   |
-| Micron RAM Module 4096MB SODIMM DDR4 2400MT/s                    | 1         | 1.14%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                    | 1         | 1.14%   |
-| Micron RAM Module 1024MB SODIMM DDR3 1067MT/s                    | 1         | 1.14%   |
-| Micron RAM 8ATF1G64HZ-2G3E1 8192MB SODIMM DDR4 2400MT/s          | 1         | 1.14%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB Row Of Chips DDR4 3200MT/s      | 1         | 1.14%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8192MB Row Of Chips DDR4 3200MT/s    | 1         | 1.14%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8192MB SODIMM DDR3 1600MT/s         | 1         | 1.14%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s             | 1         | 1.14%   |
-| Kingston RAM KR1P74-HYC 4096MB DIMM DDR3 1333MT/s                | 1         | 1.14%   |
+| Model                                                               | Computers | Percent |
+|---------------------------------------------------------------------|-----------|---------|
+| SK Hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s             | 2         | 2.27%   |
+| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s                | 2         | 2.27%   |
+| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s             | 2         | 2.27%   |
+| Unknown RAM Module 8192MB DIMM DDR4 2133MT/s                        | 1         | 1.14%   |
+| Unknown RAM Module 512MB DIMM SDRAM                                 | 1         | 1.14%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                        | 1         | 1.14%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s                      | 1         | 1.14%   |
+| Unknown RAM Module 2048MB SODIMM DDR2                               | 1         | 1.14%   |
+| Unknown RAM Module 2048MB DIMM DDR 667MT/s                          | 1         | 1.14%   |
+| Unknown RAM Module 1024MB SODIMM DDR2                               | 1         | 1.14%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                                | 1         | 1.14%   |
+| Unknown RAM Module 1024MB DIMM DDR                                  | 1         | 1.14%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s    | 1         | 1.14%   |
+| Transcend RAM JM1333KSN-4G 4GB SODIMM DDR3 1334MT/s                 | 1         | 1.14%   |
+| Teikon RAM TMT451S6BFR8A-PBHJ 4GB SODIMM DDR3 1600MT/s              | 1         | 1.14%   |
+| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s               | 1         | 1.14%   |
+| SK Hynix RAM Module 2048MB SODIMM DDR3 800MT/s                      | 1         | 1.14%   |
+| SK Hynix RAM Module 16384MB SODIMM DDR4 2667MT/s                    | 1         | 1.14%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s           | 1         | 1.14%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s              | 1         | 1.14%   |
+| SK Hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s             | 1         | 1.14%   |
+| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                | 1         | 1.14%   |
+| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 1.14%   |
+| SK Hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1334MT/s              | 1         | 1.14%   |
+| SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s           | 1         | 1.14%   |
+| SK Hynix RAM HMT125S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s              | 1         | 1.14%   |
+| SK Hynix RAM H9CCNNNCLGALAR-NVD 8192MB Row Of Chips LPDDR3 2133MT/s | 1         | 1.14%   |
+| SK Hynix RAM H9CCNNNBJTALAR-NUD 4096MB Row Of Chips LPDDR3 1867MT/s | 1         | 1.14%   |
+| SK Hynix RAM H5AN8G6NCJR-XNC 4096MB SODIMM DDR4 3200MT/s            | 1         | 1.14%   |
+| Samsung RAM Module 2048MB SODIMM DDR2 533MT/s                       | 1         | 1.14%   |
+| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s               | 1         | 1.14%   |
+| Samsung RAM M471B5674EB0-YK0 2GB SODIMM DDR3 1600MT/s               | 1         | 1.14%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s               | 1         | 1.14%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s               | 1         | 1.14%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s               | 1         | 1.14%   |
+| Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s            | 1         | 1.14%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s               | 1         | 1.14%   |
+| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
+| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s              | 1         | 1.14%   |
+| Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s              | 1         | 1.14%   |
+| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
+| Samsung RAM M391B5273DH0-YK0 4096MB DIMM DDR3 1600MT/s              | 1         | 1.14%   |
+| Ramaxel RAM RMT3150ED58E8W1600 2048MB SODIMM DDR3 1600MT/s          | 1         | 1.14%   |
+| Ramaxel RAM RMSA3300ME78HBF-2666 16GB SODIMM DDR4 2667MT/s          | 1         | 1.14%   |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s           | 1         | 1.14%   |
+| PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s                | 1         | 1.14%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                  | 1         | 1.14%   |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                | 1         | 1.14%   |
+| Nanya RAM NT1GT64UH8D0FN-3C 1024MB SODIMM DDR2 667MT/s              | 1         | 1.14%   |
+| Micron RAM Module 4GB SODIMM DDR3 1067MT/s                          | 1         | 1.14%   |
+| Micron RAM Module 4096MB SODIMM DDR4 2400MT/s                       | 1         | 1.14%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                       | 1         | 1.14%   |
+| Micron RAM Module 1024MB SODIMM DDR3 1067MT/s                       | 1         | 1.14%   |
+| Micron RAM 8ATF1G64HZ-2G3E1 8GB SODIMM DDR4 2400MT/s                | 1         | 1.14%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4GB Row Of Chips DDR4 3200MT/s         | 1         | 1.14%   |
+| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s               | 1         | 1.14%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8192MB Row Of Chips DDR4 3200MT/s       | 1         | 1.14%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s               | 1         | 1.14%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s             | 1         | 1.14%   |
+| Kingston RAM KR1P74-HYC 4096MB DIMM DDR3 1333MT/s                   | 1         | 1.14%   |
 
 Memory Kind
 -----------
@@ -2730,9 +2733,9 @@ Camera device vendors
 | IMC Networks                           | 2         | 5.26%   |
 | Suyin                                  | 1         | 2.63%   |
 | Sunplus Technology                     | 1         | 2.63%   |
-| Luxvisions Innotech Limited            | 1         | 2.63%   |
 | Lenovo                                 | 1         | 2.63%   |
 | GEMBIRD                                | 1         | 2.63%   |
+| DJKANA1BIF866I                         | 1         | 2.63%   |
 | Apple                                  | 1         | 2.63%   |
 
 Camera Model
@@ -2754,16 +2757,16 @@ Camera device models
 | Sunplus SPCA1527A/SPCA1528 SD card camera (webcam mode)     | 1         | 2.63%   |
 | Sunplus Laptop_Integrated_Webcam_HD                         | 1         | 2.63%   |
 | Sunplus Integrated_Webcam_HD                                | 1         | 2.63%   |
+| Realtek USB2.0 camera                                       | 1         | 2.63%   |
 | Realtek USB Camera                                          | 1         | 2.63%   |
-| Realtek MTD camera                                          | 1         | 2.63%   |
 | Realtek Integrated_Webcam_HD                                | 1         | 2.63%   |
 | Realtek HD WebCam                                           | 1         | 2.63%   |
 | Quanta HP Wide Vision FHD Camera                            | 1         | 2.63%   |
-| Luxvisions Innotech Limited HP Wide Vision HD Camera        | 1         | 2.63%   |
 | Lenovo Integrated Webcam                                    | 1         | 2.63%   |
 | IMC Networks USB2.0 VGA UVC WebCam                          | 1         | 2.63%   |
 | IMC Networks USB2.0 HD UVC WebCam                           | 1         | 2.63%   |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311]           | 1         | 2.63%   |
+| DJKANA1BIF866I HP Wide Vision HD Camera                     | 1         | 2.63%   |
 | Chicony Webcam                                              | 1         | 2.63%   |
 | Chicony USB 2.0 Camera                                      | 1         | 2.63%   |
 | Chicony Integrated Camera (1280x720@30)                     | 1         | 2.63%   |

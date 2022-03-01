@@ -828,46 +828,46 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                   | Desktops | Percent |
-|------------------------|----------|---------|
-| Paris                  | 3        | 6.98%   |
-| Seattle                | 2        | 4.65%   |
-| Geneva                 | 2        | 4.65%   |
-| Frankfurt am Main      | 2        | 4.65%   |
-| Villiers-sur-Orge      | 1        | 2.33%   |
-| Vienna                 | 1        | 2.33%   |
-| Valdahon               | 1        | 2.33%   |
-| Utsunomiya             | 1        | 2.33%   |
-| Upper Norwood          | 1        | 2.33%   |
-| Ufa                    | 1        | 2.33%   |
-| Towanda                | 1        | 2.33%   |
-| Thessaloniki           | 1        | 2.33%   |
-| Tehran                 | 1        | 2.33%   |
-| Statesboro             | 1        | 2.33%   |
-| Sofia                  | 1        | 2.33%   |
-| Sant'Agata Bolognese   | 1        | 2.33%   |
-| San Miguel de Tucumán | 1        | 2.33%   |
-| Riverview              | 1        | 2.33%   |
-| Piraeus                | 1        | 2.33%   |
-| Obernai                | 1        | 2.33%   |
-| Nuremberg              | 1        | 2.33%   |
-| Moscow                 | 1        | 2.33%   |
-| Lublin                 | 1        | 2.33%   |
-| Kyiv                   | 1        | 2.33%   |
-| K?�odzko               | 1        | 2.33%   |
-| Kazan’               | 1        | 2.33%   |
-| Gerolzhofen            | 1        | 2.33%   |
-| Essen                  | 1        | 2.33%   |
-| Dallas                 | 1        | 2.33%   |
-| Ciudad Victoria        | 1        | 2.33%   |
-| Charlotte              | 1        | 2.33%   |
-| Central                | 1        | 2.33%   |
-| Bourges                | 1        | 2.33%   |
-| Borken                 | 1        | 2.33%   |
-| Bochum                 | 1        | 2.33%   |
-| Berlin                 | 1        | 2.33%   |
-| Azumino                | 1        | 2.33%   |
-| Austin                 | 1        | 2.33%   |
+| City                     | Desktops | Percent |
+|--------------------------|----------|---------|
+| Paris                    | 3        | 6.98%   |
+| Seattle                  | 2        | 4.65%   |
+| Geneva                   | 2        | 4.65%   |
+| Frankfurt am Main        | 2        | 4.65%   |
+| Villiers-sur-Orge        | 1        | 2.33%   |
+| Vienna                   | 1        | 2.33%   |
+| Valdahon                 | 1        | 2.33%   |
+| Utsunomiya               | 1        | 2.33%   |
+| Upper Norwood            | 1        | 2.33%   |
+| Ufa                      | 1        | 2.33%   |
+| Towanda                  | 1        | 2.33%   |
+| Thessaloniki             | 1        | 2.33%   |
+| Tehran                   | 1        | 2.33%   |
+| Statesboro               | 1        | 2.33%   |
+| Sofia                    | 1        | 2.33%   |
+| Sant'Agata Bolognese     | 1        | 2.33%   |
+| San Miguel de TucumГЎn | 1        | 2.33%   |
+| Riverview                | 1        | 2.33%   |
+| Piraeus                  | 1        | 2.33%   |
+| Obernai                  | 1        | 2.33%   |
+| Nuremberg                | 1        | 2.33%   |
+| Moscow                   | 1        | 2.33%   |
+| Lublin                   | 1        | 2.33%   |
+| Kyiv                     | 1        | 2.33%   |
+| KÅ‚odzko              | 1        | 2.33%   |
+| KazanвЂ™             | 1        | 2.33%   |
+| Gochsheim                | 1        | 2.33%   |
+| Essen                    | 1        | 2.33%   |
+| Dallas                   | 1        | 2.33%   |
+| Ciudad Victoria          | 1        | 2.33%   |
+| Charlotte                | 1        | 2.33%   |
+| Central                  | 1        | 2.33%   |
+| Bourges                  | 1        | 2.33%   |
+| Borken                   | 1        | 2.33%   |
+| Bochum                   | 1        | 2.33%   |
+| Berlin                   | 1        | 2.33%   |
+| Azumino                  | 1        | 2.33%   |
+| Austin                   | 1        | 2.33%   |
 
 Drives
 ------
@@ -888,7 +888,7 @@ Hard drive vendors
 | Kingston            | 7        | 7      | 7.45%   |
 | Crucial             | 7        | 11     | 7.45%   |
 | Toshiba             | 6        | 7      | 6.38%   |
-| SanDisk             | 4        | 6      | 4.26%   |
+| Sandisk             | 4        | 6      | 4.26%   |
 | Intel               | 4        | 7      | 4.26%   |
 | SPCC                | 2        | 2      | 2.13%   |
 | MAXTOR              | 2        | 2      | 2.13%   |
@@ -1055,8 +1055,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 30       | 52     | 43.48%  |
-| 0.51-1.0   | 21       | 29     | 30.43%  |
+| 0.01-0.5   | 30       | 51     | 43.48%  |
+| 0.51-1.0   | 21       | 30     | 30.43%  |
 | 1.01-2.0   | 8        | 8      | 11.59%  |
 | 2.01-3.0   | 4        | 4      | 5.8%    |
 | 3.01-4.0   | 3        | 3      | 4.35%   |
@@ -1114,7 +1114,7 @@ Drive models with a malfunction
 | Seagate ST8000DM004-2CX188 8TB   | 1        | 1      | 10%     |
 | Seagate ST2000DX002-2DV164 2TB   | 1        | 1      | 10%     |
 | Seagate ST2000DM006-2DM164 2TB   | 1        | 1      | 10%     |
-| MAXTOR 6Y080M0 80GB              | 1        | 1      | 10%     |
+| MAXTOR 6Y080M0 82GB              | 1        | 1      | 10%     |
 | Kingston SUV400S37240G 240GB SSD | 1        | 1      | 10%     |
 | Intel SSDSC2BW480A4 480GB        | 1        | 2      | 10%     |
 | Intel SSDPEKKW128G7 128GB        | 1        | 1      | 10%     |
@@ -1646,7 +1646,7 @@ Monitor models
 | AOC F22 AOC2200 1920x1080 476x268mm 21.5-inch                            | 2        | 3.28%   |
 | Ancor Communications ASUS PB277 ACI27B5 2560x1440 597x336mm 27.0-inch    | 2        | 3.28%   |
 | ViewSonic LCD Monitor VX2452 Series 3840x1080                            | 1        | 1.64%   |
-| Vestel Elektronik LCD Monitor VES3700 1920x540                           | 1        | 1.64%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1100x620mm 49.7-inch    | 1        | 1.64%   |
 | Samsung Electronics U32J59x SAM0F34 3840x2160 697x392mm 31.5-inch        | 1        | 1.64%   |
 | Samsung Electronics T24B301 SAM098E 1920x1080 521x293mm 23.5-inch        | 1        | 1.64%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch        | 1        | 1.64%   |
@@ -1654,33 +1654,33 @@ Monitor models
 | Samsung Electronics S24A31x SAM7114 1920x1080 527x296mm 23.8-inch        | 1        | 1.64%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch        | 1        | 1.64%   |
 | Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch    | 1        | 1.64%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 950x540mm 43.0-inch    | 1        | 1.64%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1210x680mm 54.6-inch   | 1        | 1.64%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 700x390mm 31.5-inch        | 1        | 1.64%   |
 | Samsung Electronics C27FG7x SAM0E41 1920x1080 598x337mm 27.0-inch        | 1        | 1.64%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch        | 1        | 1.64%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch        | 1        | 1.64%   |
 | Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch                 | 1        | 1.64%   |
-| Philips PHL 246V5 PHLC0C5 1920x1080 530x300mm 24.0-inch                  | 1        | 1.64%   |
+| Philips PHL 246V5 PHLC0C5 1920x1080 531x299mm 24.0-inch                  | 1        | 1.64%   |
 | Philips PHL 245E1 PHLC20B 2560x1440 527x296mm 23.8-inch                  | 1        | 1.64%   |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                  | 1        | 1.64%   |
 | Philips PHL 220V8 PHLC218 1920x1080 477x268mm 21.5-inch                  | 1        | 1.64%   |
-| Philips LCD Monitor PHLC081 1920x1080 480x270mm 21.7-inch                | 1        | 1.64%   |
+| Philips 226VL PHLC081 1920x1080 480x268mm 21.6-inch                      | 1        | 1.64%   |
 | Packard Bell Viseo203DX PKB0378 1600x900 432x240mm 19.5-inch             | 1        | 1.64%   |
 | KTC 24'TV KTC2400 1360x768 525x297mm 23.7-inch                           | 1        | 1.64%   |
 | Jean JT198x6-7 JEN17C6 1280x1024 376x301mm 19.0-inch                     | 1        | 1.64%   |
 | Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                    | 1        | 1.64%   |
 | Idek Iiyama LCD Monitor PL2488H                                          | 1        | 1.64%   |
 | HVR HTC-VIVE HVRAA01 2160x1200                                           | 1        | 1.64%   |
-| Hitachi HISENSE HEC0030 1920x540                                         | 1        | 1.64%   |
+| Hitachi HDMI HEC0030 1920x1080 580x330mm 26.3-inch                       | 1        | 1.64%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                  | 1        | 1.64%   |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                     | 1        | 1.64%   |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch                  | 1        | 1.64%   |
 | Goldstar E2251 GSM586D 1920x1080 477x268mm 21.5-inch                     | 1        | 1.64%   |
 | Envision Peripherals LED P2478MDHL ENV2478 1920x1080 531x299mm 24.0-inch | 1        | 1.64%   |
-| Dell U2415 DELA0B8 1920x1200 518x324mm 24.1-inch                         | 1        | 1.64%   |
+| Dell U2415 DELA0B8 1920x1200 520x320mm 24.0-inch                         | 1        | 1.64%   |
 | Dell S2817Q DEL40EE 3840x2160 621x341mm 27.9-inch                        | 1        | 1.64%   |
 | Dell P2211H DEL4061 1920x1080 477x268mm 21.5-inch                        | 1        | 1.64%   |
-| Dell AW2518HF DELA103 1920x1080 544x303mm 24.5-inch                      | 1        | 1.64%   |
+| Dell LCD Monitor DELA103 1920x1080 540x300mm 24.3-inch                   | 1        | 1.64%   |
 | CTV LCD Monitor CTV0030 1920x1080 930x520mm 41.9-inch                    | 1        | 1.64%   |
 | BenQ LCD Monitor RL2455                                                  | 1        | 1.64%   |
 | BenQ GW2270 BNQ78DB 1920x1080 476x268mm 21.5-inch                        | 1        | 1.64%   |
@@ -1695,9 +1695,9 @@ Monitor models
 | AOC 2367M AOC2367 1920x1080 510x290mm 23.1-inch                          | 1        | 1.64%   |
 | Ancor Communications LCD Monitor ASUS PB277 2560x1440                    | 1        | 1.64%   |
 | Acer XB241H ACR050E 1920x1080 531x299mm 24.0-inch                        | 1        | 1.64%   |
-| Acer S240HL ACR0289 1920x1080 531x299mm 24.0-inch                        | 1        | 1.64%   |
+| Acer S240HL ACR0289 1920x1080 530x300mm 24.0-inch                        | 1        | 1.64%   |
 | Acer LCD Monitor P223W 3600x1080                                         | 1        | 1.64%   |
-| Acer K242HQL ACR042E 1920x1080 520x290mm 23.4-inch                       | 1        | 1.64%   |
+| Acer K242HQL ACR042E 1920x1080 509x286mm 23.0-inch                       | 1        | 1.64%   |
 | Acer GN246HL ACR02FA 1920x1080 530x300mm 24.0-inch                       | 1        | 1.64%   |
 | Acer G277HU ACR0417 2560x1440 597x336mm 27.0-inch                        | 1        | 1.64%   |
 | Acer G246HL ACR02FF 1920x1080 531x299mm 24.0-inch                        | 1        | 1.64%   |
@@ -1878,7 +1878,7 @@ Controller models
 | Intel I211 Gigabit Network Connection                                                               | 5        | 7.14%   |
 | Intel Ethernet Connection (2) I219-V                                                                | 2        | 2.86%   |
 | Intel 82574L Gigabit Network Connection                                                             | 2        | 2.86%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                         | 1        | 1.43%   |
+| TP-Link TL WN823N RTL8192EU                                                                         | 1        | 1.43%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                                     | 1        | 1.43%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                            | 1        | 1.43%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                            | 1        | 1.43%   |
@@ -1946,7 +1946,7 @@ Wireless models
 
 | Model                                                                                               | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                         | 1        | 5%      |
+| TP-Link TL WN823N RTL8192EU                                                                         | 1        | 5%      |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                                     | 1        | 5%      |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                            | 1        | 5%      |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                            | 1        | 5%      |
@@ -2098,20 +2098,19 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                                                | Desktops | Percent |
-|----------------------------------------------------------------------|----------|---------|
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                  | 3        | 18.75%  |
-| Intel Bluetooth Device                                               | 2        | 12.5%   |
-| IMC Networks Bluetooth Radio                                         | 2        | 12.5%   |
-| Qualcomm Atheros  Bluetooth Device                                   | 1        | 6.25%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter                             | 1        | 6.25%   |
-| Intel Bluetooth wireless interface                                   | 1        | 6.25%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 1        | 6.25%   |
-| Intel AX210 Bluetooth                                                | 1        | 6.25%   |
-| IMC Networks Bluetooth Device                                        | 1        | 6.25%   |
-| HTC (High Tech Computer) Vive Hub Bluetooth 4.1 (Broadcom BCM920703) | 1        | 6.25%   |
-| Broadcom BCM20702A0 Bluetooth 4.0                                    | 1        | 6.25%   |
-| ASUS Broadcom BCM20702A0 Bluetooth                                   | 1        | 6.25%   |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Intel Bluetooth Device                              | 3        | 18.75%  |
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 18.75%  |
+| IMC Networks Bluetooth Radio                        | 2        | 12.5%   |
+| Qualcomm Atheros  Bluetooth Device                  | 1        | 6.25%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 6.25%   |
+| Intel Bluetooth wireless interface                  | 1        | 6.25%   |
+| Intel AX201 Bluetooth                               | 1        | 6.25%   |
+| IMC Networks Bluetooth Device                       | 1        | 6.25%   |
+| HTC (High Tech Computer) BCM920703 Bluetooth 4.1    | 1        | 6.25%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 6.25%   |
+| ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 6.25%   |
 
 Sound
 -----
@@ -2167,7 +2166,7 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 2        | 2%      |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 2%      |
 | Creative Labs CA0110 [Sound Blaster X-Fi Xtreme Audio]                     | 2        | 2%      |
-| C-Media Electronics USB Audio Device                                       | 2        | 2%      |
+| C-Media Electronics SADES Hammer                                           | 2        | 2%      |
 | AMD Navi 21 HDMI Audio [Radeon RX 6800/6800 XT / 6900 XT]                  | 2        | 2%      |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 2        | 2%      |
 | TC Electronic VoiceLive Play                                               | 1        | 1%      |
@@ -2192,13 +2191,13 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 1%      |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 1        | 1%      |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 1%      |
-| Generalplus Technology Usb Audio Device                                    | 1        | 1%      |
+| Generalplus Technology USB Audio Device                                    | 1        | 1%      |
 | Focusrite-Novation Scarlett Solo (3rd Gen.)                                | 1        | 1%      |
 | Creative Technology Sound Blaster Tactic(3D) Alpha                         | 1        | 1%      |
 | Creative Technology Sound Blaster Premium HD [SBX]                         | 1        | 1%      |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 1%      |
 | Corsair HS45 Surround USB Sound Adapter                                    | 1        | 1%      |
-| C-Media Electronics TONOR TC-777 Audio Device                              | 1        | 1%      |
+| C-Media Electronics TONOR TC30 Audio Device                                | 1        | 1%      |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 1%      |
 | AudioQuest DragonFly                                                       | 1        | 1%      |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                        | 1        | 1%      |
@@ -2209,7 +2208,7 @@ Sound card models
 | AMD Kaveri HDMI/DP Audio Controller                                        | 1        | 1%      |
 | AMD Hawaii HDMI Audio [Radeon R9 290/290X / 390/390X]                      | 1        | 1%      |
 | AMD FCH Azalia Controller                                                  | 1        | 1%      |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 1        | 1%      |
+| AMD Family 17h/19h HD Audio Controller                                     | 1        | 1%      |
 
 Memory
 ------
@@ -2244,48 +2243,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Desktops | Percent |
-|------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s    | 2        | 4.55%   |
-| G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1400MT/s       | 2        | 4.55%   |
-| Crucial RAM BLS16G4D30AESB.M16FE 16GB DIMM DDR4 3200MT/s   | 2        | 4.55%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s      | 2        | 4.55%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                       | 1        | 2.27%   |
-| Unknown RAM Module 2048MB DIMM 1328MT/s                    | 1        | 2.27%   |
-| Transcend RAM JM2666HLB-16G 16GB DIMM DDR4 2667MT/s        | 1        | 2.27%   |
-| SK Hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4 2667MT/s      | 1        | 2.27%   |
-| SK Hynix RAM HMA82GS6DJR8N-XN 16384MB SODIMM DDR4 3200MT/s | 1        | 2.27%   |
-| SK Hynix RAM HMA41GU6AFR8N-TF 8192MB DIMM DDR4 2465MT/s    | 1        | 2.27%   |
-| Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.27%   |
-| Samsung RAM M3 78T2863RZS-CF7 1GB DIMM DDR2 800MT/s        | 1        | 2.27%   |
-| Micron RAM 16ATF2G64HZ-2G6J1 16384MB SODIMM DDR4 2667MT/s  | 1        | 2.27%   |
-| Kingston RAM XJ69DF-MIE 8GB DIMM DDR4 2933MT/s             | 1        | 2.27%   |
-| Kingston RAM KHX2133C14D4/4G 4GB DIMM DDR4 2933MT/s        | 1        | 2.27%   |
-| Kingston RAM 99U5584-014.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.27%   |
-| Kingston RAM 99U5474-026.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 2.27%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s     | 1        | 2.27%   |
-| G.Skill RAM F4-3200C16-8GSXWB 8192MB DIMM DDR4 4133MT/s    | 1        | 2.27%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s      | 1        | 2.27%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s        | 1        | 2.27%   |
-| G.Skill RAM F4-2400C15-4GRR 4096MB DIMM DDR4 2133MT/s      | 1        | 2.27%   |
-| G.Skill RAM F3-2400C10-4GTX 4GB DIMM DDR3 2400MT/s         | 1        | 2.27%   |
-| G.Skill RAM F3-1866C10-8G 8192MB DIMM DDR3 1600MT/s        | 1        | 2.27%   |
-| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
-| Crucial RAM BL16G32C16U4BL.M16FE 16GB DIMM DDR4 3200MT/s   | 1        | 2.27%   |
-| Corsair RAM Module 4096MB DIMM DDR3 2481MT/s               | 1        | 2.27%   |
-| Corsair RAM CMZ8GX3M2A160 4096MB DIMM DDR3 1333MT/s        | 1        | 2.27%   |
-| Corsair RAM CMZ4GX3M1A160 4GB DIMM DDR3 1333MT/s           | 1        | 2.27%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.27%   |
-| Corsair RAM CMY16GX3M2A1600C9 8192MB DIMM DDR3 2133MT/s    | 1        | 2.27%   |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s      | 1        | 2.27%   |
-| Corsair RAM CML8GX3M1A1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 2.27%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s      | 1        | 2.27%   |
-| Corsair RAM CMK16GX4M2D3000C16 8GB DIMM DDR4 3200MT/s      | 1        | 2.27%   |
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 2400MT/s   | 1        | 2.27%   |
-| AMD RAM R534G1601U1S 4GB DIMM DDR3 1600MT/s                | 1        | 2.27%   |
-| A-DATA RAM Module 32GB DIMM DDR4 3200MT/s                  | 1        | 2.27%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3533MT/s     | 2        | 4.55%   |
+| G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1400MT/s     | 2        | 4.55%   |
+| Crucial RAM BLS16G4D30AESB.M16FE 16GB DIMM DDR4 3200MT/s | 2        | 4.55%   |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 2        | 4.55%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                     | 1        | 2.27%   |
+| Unknown RAM Module 2048MB DIMM 1328MT/s                  | 1        | 2.27%   |
+| Transcend RAM JM2666HLB-16G 16GB DIMM DDR4 2667MT/s      | 1        | 2.27%   |
+| SK Hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4 2667MT/s    | 1        | 2.27%   |
+| SK Hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s  | 1        | 2.27%   |
+| SK Hynix RAM HMA41GU6AFR8N-TF 8GB DIMM DDR4 2465MT/s     | 1        | 2.27%   |
+| Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
+| Samsung RAM M3 78T2863RZS-CF7 1GB DIMM DDR2 800MT/s      | 1        | 2.27%   |
+| Micron RAM 16ATF2G64HZ-2G6J1 16GB SODIMM DDR4 2667MT/s   | 1        | 2.27%   |
+| Kingston RAM XJ69DF-MIE 8GB DIMM DDR4 2933MT/s           | 1        | 2.27%   |
+| Kingston RAM KHX2133C14D4/4G 4096MB DIMM DDR4 2933MT/s   | 1        | 2.27%   |
+| Kingston RAM 99U5584-014.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 2.27%   |
+| Kingston RAM 99U5474-026.A00LF 4096MB DIMM DDR3 1333MT/s | 1        | 2.27%   |
+| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 2.27%   |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.27%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s   | 1        | 2.27%   |
+| G.Skill RAM F4-3200C16-8GSXWB 8192MB DIMM DDR4 4133MT/s  | 1        | 2.27%   |
+| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s    | 1        | 2.27%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s      | 1        | 2.27%   |
+| G.Skill RAM F4-2400C15-4GRR 4096MB DIMM DDR4 2133MT/s    | 1        | 2.27%   |
+| G.Skill RAM F3-2400C10-4GTX 4GB DIMM DDR3 2400MT/s       | 1        | 2.27%   |
+| G.Skill RAM F3-1866C10-8G 8192MB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
+| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s    | 1        | 2.27%   |
+| Crucial RAM BL16G32C16U4BL.M16FE 16GB DIMM DDR4 3200MT/s | 1        | 2.27%   |
+| Corsair RAM Module 4096MB DIMM DDR3 2481MT/s             | 1        | 2.27%   |
+| Corsair RAM CMZ8GX3M2A160 4096MB DIMM DDR3 1333MT/s      | 1        | 2.27%   |
+| Corsair RAM CMZ4GX3M1A160 4GB DIMM DDR3 1333MT/s         | 1        | 2.27%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s    | 1        | 2.27%   |
+| Corsair RAM CMY16GX3M2A1600C9 8192MB DIMM DDR3 2133MT/s  | 1        | 2.27%   |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1        | 2.27%   |
+| Corsair RAM CML8GX3M1A1600C10 8GB DIMM DDR3 1600MT/s     | 1        | 2.27%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s    | 1        | 2.27%   |
+| Corsair RAM CMK16GX4M2D3000C16 8GB DIMM DDR4 3200MT/s    | 1        | 2.27%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s    | 1        | 2.27%   |
+| AMD RAM R534G1601U1S 4GB DIMM DDR3 1600MT/s              | 1        | 2.27%   |
+| A-DATA RAM Module 32GB DIMM DDR4 3200MT/s                | 1        | 2.27%   |
 
 Memory Kind
 -----------
