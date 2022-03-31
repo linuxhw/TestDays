@@ -12,6 +12,7 @@ Contents
 
 * [ Debian 11 ](/Dist/Debian_11)
 * [ Debian 10 ](/Dist/Debian_10)
+* [ Fedora 36 ](/Dist/Fedora_36)
 * [ Fedora 35 ](/Dist/Fedora_35)
 * [ Fedora 34 ](/Dist/Fedora_34)
 * [ Zorin 16 ](/Dist/Zorin_16)
@@ -36,6 +37,7 @@ Contents
 * [ Parrot 4.11 ](/Dist/Parrot_4.11)
 * [ Peppermint 10 ](/Dist/Peppermint_10)
 * [ RHEL 8 ](/Dist/RHEL_8)
+* [ Slackware 15.0 ](/Dist/Slackware_15.0)
 * [ Slackware 14.2 ](/Dist/Slackware_14.2)
 * [ Solus 4.3 ](/Dist/Solus_4.3)
 * [ Solus 4.2 ](/Dist/Solus_4.2)
