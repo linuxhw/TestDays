@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 78
+
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
 | Dell          | XPS 15 7590                 | [91780395d8](https://linux-hardware.org/?probe=91780395d8) | Dec 25, 2021 |
@@ -238,6 +242,31 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name         | Notebooks | Percent |
+|--------------|-----------|---------|
+| Chrome OS    | 41        | 95.35%  |
+| Chrome OS 94 | 2         | 4.65%   |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name      | Notebooks | Percent |
+|-----------|-----------|---------|
+| Chrome OS | 43        | 100%    |
 
 Kernel
 ------
@@ -840,7 +869,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 2.08%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 2.08%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 2.08%   |
-| TO Exter nal USB 3.0 2TB                     | 1         | 2.08%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 2.08%   |
 | Seagate ST980811AS 80GB                      | 1         | 2.08%   |
 | Seagate ST9160821AS 160GB                    | 1         | 2.08%   |
 | SanDisk SSD U100 16GB                        | 1         | 2.08%   |
@@ -849,7 +878,7 @@ Hard drive models
 | Samsung SSD 850 EVO 120GB                    | 1         | 2.08%   |
 | Samsung MZNLN128HAHQ-000L2 128GB SSD         | 1         | 2.08%   |
 | Netac SSD 256GB                              | 1         | 2.08%   |
-| MyDigitalSSD SC2 M2 SSD 120GB                | 1         | 2.08%   |
+| MyDigitalSSD SC2 M2 SSD 64GB                 | 1         | 2.08%   |
 | Kingston SUV500120G 120GB SSD                | 1         | 2.08%   |
 | Kingston SH100S3120G 120GB SSD               | 1         | 2.08%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 2.08%   |
@@ -937,7 +966,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 26        | 32     | 96.3%   |
-| 1.01-2.0   | 1         | 1      | 3.7%    |
+| 0.51-1.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1417,7 +1446,7 @@ Monitor models
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.44%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.22%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.22%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch     | 1         | 2.22%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.22%   |
@@ -1443,7 +1472,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1476 1366x768 309x174mm 14.0-inch          | 1         | 2.22%   |
 | Chimei Innolux LCD Monitor CMN1131 1366x768 256x144mm 11.6-inch          | 1         | 2.22%   |
 | Chimei Innolux LCD Monitor CMN1126 1920x1080 256x144mm 11.6-inch         | 1         | 2.22%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 350x190mm 15.7-inch | 1         | 2.22%   |
+| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch | 1         | 2.22%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A1 1366x768 344x193mm 15.5-inch | 1         | 2.22%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1464 1366x768 309x174mm 14.0-inch | 1         | 2.22%   |
 | BOE LCD Monitor BOE06DC 1920x1280 259x173mm 12.3-inch                    | 1         | 2.22%   |
@@ -1837,12 +1866,13 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 4         | 16%     |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 16%     |
-| Realtek Bluetooth Radio                             | 2         | 8%      |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 8%      |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 8%      |
 | Toshiba Askey for                                   | 1         | 4%      |
+| Realtek RTL8723B Bluetooth                          | 1         | 4%      |
+| Realtek Bluetooth Radio                             | 1         | 4%      |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4%      |
-| Lite-On Bluetooth Device                            | 1         | 4%      |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 4%      |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4%      |
 | Intel AX200 Bluetooth                               | 1         | 4%      |
 | IMC Networks Bluetooth Device                       | 1         | 4%      |
@@ -2054,7 +2084,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
+| Alcor Micro USB 2.0 PC cam                              | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |

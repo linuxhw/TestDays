@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 51
+
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
 | Lenovo        | ThinkPad T410 2522Y1L       | [3c4543a94f](https://linux-hardware.org/?probe=3c4543a94f) | Jan 26, 2021 |
@@ -832,10 +834,10 @@ Hard drive models
 | Unknown MMC Card  32GB                  | 1         | 2%      |
 | Unknown AJNB4R  16GB                    | 1         | 2%      |
 | Toshiba THNSNJ256GVNU 256GB SSD         | 1         | 2%      |
+| Toshiba NVMe SSD Drive 256GB            | 1         | 2%      |
 | Toshiba NVMe SSD Drive 1024GB           | 1         | 2%      |
 | Toshiba MQ01ABD075 752GB                | 1         | 2%      |
 | Toshiba MK5055GSX 500GB                 | 1         | 2%      |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 2%      |
 | SK Hynix PC401 HFS256GD9TNG-62A0A 256GB | 1         | 2%      |
 | SK Hynix HFM512GDJTNG-8310A 512GB       | 1         | 2%      |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 2%      |
@@ -1482,17 +1484,17 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| ___ LCDTV16 ___9000 1360x768                                          | 1         | 2.08%   |
+| ___ LCD TV ___9000 1360x768                                           | 1         | 2.08%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 2.08%   |
 | Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 2.08%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 2.08%   |
-| Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 2.08%   |
+| Samsung Electronics LCD Monitor SEC3641 1366x768 353x198mm 15.9-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 2.08%   |
-| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 2.08%   |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 2.08%   |
@@ -1527,8 +1529,8 @@ Monitor models
 | AU Optronics LCD Monitor AUO11EC 1366x768 344x193mm 15.5-inch         | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO1136 2560x1440 309x174mm 14.0-inch        | 1         | 2.08%   |
 | Apple Color LCD APPA013 2560x1600 286x179mm 13.3-inch                 | 1         | 2.08%   |
-| Apple Color LCD APP9C5B 1280x800 290x180mm 13.4-inch                  | 1         | 2.08%   |
-| AOC 24G2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 1         | 2.08%   |
+| Apple Color LCD APP9C5B 1280x800 286x179mm 13.3-inch                  | 1         | 2.08%   |
+| AOC 24B2W1 AOC2402 1920x1080 527x296mm 23.8-inch                      | 1         | 2.08%   |
 | AOC 1621Wb AOC1621 1366x768 344x194mm 15.5-inch                       | 1         | 2.08%   |
 
 Monitor Resolution
@@ -1914,10 +1916,9 @@ Controller vendors
 |---------------------------------|-----------|---------|
 | Intel                           | 17        | 54.84%  |
 | Lite-On Technology              | 5         | 16.13%  |
+| Qualcomm Atheros Communications | 2         | 6.45%   |
 | Apple                           | 2         | 6.45%   |
 | Toshiba                         | 1         | 3.23%   |
-| Qualcomm Atheros Communications | 1         | 3.23%   |
-| Qualcomm Atheros                | 1         | 3.23%   |
 | IMC Networks                    | 1         | 3.23%   |
 | Hewlett-Packard                 | 1         | 3.23%   |
 | Foxconn / Hon Hai               | 1         | 3.23%   |
@@ -1933,13 +1934,14 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                                                              | 9         | 29.03%  |
-| Intel Bluetooth wireless interface                                                  | 8         | 25.81%  |
-| Lite-On Bluetooth Device                                                            | 3         | 9.68%   |
+| Intel Bluetooth wireless interface                                                  | 14        | 45.16%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 9.68%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 6.45%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 6.45%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 3.23%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 1         | 3.23%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 3.23%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 3.23%   |
+| Lite-On Bluetooth Device                                                            | 1         | 3.23%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 3.23%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 3.23%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 3.23%   |
@@ -1999,7 +2001,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1         | 1.72%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                             | 1         | 1.72%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1         | 1.72%   |
-| GYROCOM C&C DigiHug USB Audio                                              | 1         | 1.72%   |
+| GYROCOM C&C Fiio E10                                                       | 1         | 1.72%   |
 | AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                           | 1         | 1.72%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 1.72%   |
 | AMD High Definition Audio Controller                                       | 1         | 1.72%   |
@@ -2040,14 +2042,14 @@ Memory module models
 | Unknown RAM Module 4096MB SODIMM DDR3                     | 1         | 5.26%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s            | 1         | 5.26%   |
 | SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 5.26%   |
-| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 5.26%   |
+| SK Hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s | 1         | 5.26%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 5.26%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
-| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
+| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
 | Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s  | 1         | 5.26%   |
-| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 5.26%   |
-| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 5.26%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s | 1         | 5.26%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s    | 1         | 5.26%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
@@ -2199,7 +2201,7 @@ Camera device models
 | Quanta HP TrueVision HD Webcam                               | 1         | 2.7%    |
 | Microdia Webcam                                              | 1         | 2.7%    |
 | Microdia USB 2.0 Camera                                      | 1         | 2.7%    |
-| Microdia Integrated_Webcam_HD                                | 1         | 2.7%    |
+| Microdia Integrated Webcam HD                                | 1         | 2.7%    |
 | Logitech HD Pro Webcam C920                                  | 1         | 2.7%    |
 | Lite-On HP HD Camera                                         | 1         | 2.7%    |
 | Lenovo Integrated Webcam [R5U877]                            | 1         | 2.7%    |

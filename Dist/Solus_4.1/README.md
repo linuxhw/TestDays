@@ -157,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 92
+
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
 | Gigabyte      | H61M-HD2                    | Desktop     | [78c877458a](https://linux-hardware.org/?probe=78c877458a) | Jan 28, 2021 |
@@ -982,7 +984,7 @@ Hard drive models
 | Samsung SSD 860 EVO 250GB               | 2         | 1.68%   |
 | Samsung NVMe SSD Drive 1TB              | 2         | 1.68%   |
 | Kingston SA400S37240G 240GB SSD         | 2         | 1.68%   |
-| Intel SSDPEKKW256G7 256GB               | 2         | 1.68%   |
+| Intel NVMe SSD Drive 256GB              | 2         | 1.68%   |
 | Intel NVMe SSD Drive 1024GB             | 2         | 1.68%   |
 | WDC WDS500G2B0B-00YS70 500GB SSD        | 1         | 0.84%   |
 | WDC WDS100T2B0C-00PXH0 1TB              | 1         | 0.84%   |
@@ -1007,13 +1009,13 @@ Hard drive models
 | Unknown AJNB4R  16GB                    | 1         | 0.84%   |
 | Unknown 00000  64GB                     | 1         | 0.84%   |
 | Toshiba THNSNJ256GVNU 256GB SSD         | 1         | 0.84%   |
+| Toshiba NVMe SSD Drive 256GB            | 1         | 0.84%   |
 | Toshiba NVMe SSD Drive 1024GB           | 1         | 0.84%   |
 | Toshiba MQ01ABD075 752GB                | 1         | 0.84%   |
 | Toshiba MQ01ABD050 500GB                | 1         | 0.84%   |
 | Toshiba MK5055GSX 500GB                 | 1         | 0.84%   |
 | Toshiba MK3276GSX 320GB                 | 1         | 0.84%   |
 | Toshiba MK1665GSX 160GB                 | 1         | 0.84%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 0.84%   |
 | SK Hynix HFM512GDJTNG-8310A 512GB       | 1         | 0.84%   |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 0.84%   |
 | Seagate ST9500325AS 500GB               | 1         | 0.84%   |
@@ -1111,11 +1113,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 61     | 59.42%  |
-| 0.51-1.0   | 19        | 21     | 27.54%  |
-| 1.01-2.0   | 7         | 24     | 10.14%  |
-| 3.01-4.0   | 1         | 1      | 1.45%   |
-| 4.01-10.0  | 1         | 1      | 1.45%   |
+| 0.01-0.5   | 41        | 61     | 60.29%  |
+| 0.51-1.0   | 18        | 20     | 26.47%  |
+| 1.01-2.0   | 7         | 25     | 10.29%  |
+| 3.01-4.0   | 1         | 1      | 1.47%   |
+| 4.01-10.0  | 1         | 1      | 1.47%   |
 
 Space Total
 -----------
@@ -1302,8 +1304,8 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                                          | 2         | 2.17%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 2         | 2.17%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                          | 2         | 2.17%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 2         | 2.17%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2         | 2.17%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 2         | 2.17%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                                    | 1         | 1.09%   |
 | Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller        | 1         | 1.09%   |
 | SK Hynix BC501 NVMe Solid State Drive                                                   | 1         | 1.09%   |
@@ -1768,7 +1770,7 @@ Monitor models
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 2         | 2.56%   |
-| ___ LCDTV16 ___9000 1360x768                                          | 1         | 1.28%   |
+| ___ LCD TV ___9000 1360x768                                           | 1         | 1.28%   |
 | ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                | 1         | 1.28%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 1.28%   |
 | Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 1.28%   |
@@ -1779,12 +1781,12 @@ Monitor models
 | Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch    | 1         | 1.28%   |
 | Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch     | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SEC3641 1366x768 353x198mm 15.9-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch  | 1         | 1.28%   |
 | Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch               | 1         | 1.28%   |
-| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 1.28%   |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.28%   |
 | MSI G27C5 MSI3CA9 1920x1080 598x336mm 27.0-inch                       | 1         | 1.28%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                     | 1         | 1.28%   |
 | LG Display LCD Monitor LGD05B4 1920x1080 294x165mm 13.3-inch          | 1         | 1.28%   |
@@ -1802,9 +1804,9 @@ Monitor models
 | Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 1.28%   |
 | Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch                | 1         | 1.28%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                | 1         | 1.28%   |
 | GKK MONITOR GKK3034 1920x1080                                         | 1         | 1.28%   |
-| Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                   | 1         | 1.28%   |
+| Dell S2719DGF DELD0E6 2560x1440 600x340mm 27.2-inch                   | 1         | 1.28%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                      | 1         | 1.28%   |
 | Dell LCD Monitor U2412M                                               | 1         | 1.28%   |
 | Chimei Innolux LCD Monitor CMN15D2 1920x1080 344x193mm 15.5-inch      | 1         | 1.28%   |
@@ -2028,7 +2030,7 @@ Controller models
 | Intel Wireless 3165                                                            | 2         | 1.79%   |
 | Intel Ethernet Connection (7) I219-V                                           | 2         | 1.79%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                              | 2         | 1.79%   |
-| TP-Link TL WN823N RTL8192EU                                                    | 1         | 0.89%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                    | 1         | 0.89%   |
 | Sierra Wireless EM7305                                                         | 1         | 0.89%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 1         | 0.89%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                       | 1         | 0.89%   |
@@ -2111,7 +2113,7 @@ Wireless models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 2         | 3.7%    |
 | Qualcomm Atheros AR922X Wireless Network Adapter               | 2         | 3.7%    |
 | Intel Wireless 3165                                            | 2         | 3.7%    |
-| TP-Link TL WN823N RTL8192EU                                    | 1         | 1.85%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                    | 1         | 1.85%   |
 | Sierra Wireless EM7305                                         | 1         | 1.85%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 1.85%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1         | 1.85%   |
@@ -2260,10 +2262,9 @@ Controller vendors
 | Lite-On Technology              | 5         | 11.11%  |
 | Cambridge Silicon Radio         | 4         | 8.89%   |
 | Apple                           | 3         | 6.67%   |
+| Qualcomm Atheros Communications | 2         | 4.44%   |
 | Toshiba                         | 1         | 2.22%   |
 | Realtek Semiconductor           | 1         | 2.22%   |
-| Qualcomm Atheros Communications | 1         | 2.22%   |
-| Qualcomm Atheros                | 1         | 2.22%   |
 | IMC Networks                    | 1         | 2.22%   |
 | Hewlett-Packard                 | 1         | 2.22%   |
 | Foxconn / Hon Hai               | 1         | 2.22%   |
@@ -2280,17 +2281,18 @@ Controller models
 
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                                                              | 11        | 24.44%  |
-| Intel Bluetooth wireless interface                                                  | 10        | 22.22%  |
+| Intel Bluetooth wireless interface                                                  | 17        | 37.78%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 4         | 8.89%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 4         | 8.89%   |
-| Lite-On Bluetooth Device                                                            | 3         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 4.44%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 4.44%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 2.22%   |
-| Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 2.22%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 1         | 2.22%   |
+| Realtek Bluetooth Radio                                                             | 1         | 2.22%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.22%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.22%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 2.22%   |
+| Lite-On Bluetooth Device                                                            | 1         | 2.22%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.22%   |
+| Intel Bluetooth Device                                                              | 1         | 2.22%   |
 | Intel AX200 Bluetooth                                                               | 1         | 2.22%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 2.22%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 2.22%   |
@@ -2377,7 +2379,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1         | 0.9%    |
 | Intel 82801H (ICH8 Family) HD Audio Controller                             | 1         | 0.9%    |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1         | 0.9%    |
-| GYROCOM C&C DigiHug USB Audio                                              | 1         | 0.9%    |
+| GYROCOM C&C Fiio E10                                                       | 1         | 0.9%    |
 | Creative Technology SB X-Fi Surround 5.1 Pro                               | 1         | 0.9%    |
 | C-Media Electronics USB Advanced Audio Device                              | 1         | 0.9%    |
 | Blue Microphones Yeti Nano                                                 | 1         | 0.9%    |
@@ -2434,17 +2436,17 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1         | 2.78%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s            | 1         | 2.78%   |
 | SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
-| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| SK Hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
 | Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 2.78%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 2.78%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
-| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
 | Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s  | 1         | 2.78%   |
-| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
-| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2048MB SODIMM DDR2 2048MT/s | 1         | 2.78%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s    | 1         | 2.78%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 2.78%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
+| Micron RAM 4ATF51264HZ-2G3E1 4096MB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
 | Kingston RAM HP24D4S7S8MBP-8 8192MB SODIMM DDR4 2400MT/s  | 1         | 2.78%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
 | Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
@@ -2628,7 +2630,7 @@ Camera device models
 | Suyin HP TrueVision FHD RGB-IR                               | 1         | 1.92%   |
 | Sunplus Laptop Integrated WebCam HD                          | 1         | 1.92%   |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 1.92%   |
-| Samsung Galaxy A5 (MTP)                                      | 1         | 1.92%   |
+| Samsung Galaxy series, misc. (MTP mode)                      | 1         | 1.92%   |
 | Realtek Integrated Webcam HD                                 | 1         | 1.92%   |
 | Realtek Integrated Camera                                    | 1         | 1.92%   |
 | Realtek HD WebCam                                            | 1         | 1.92%   |
@@ -2636,7 +2638,7 @@ Camera device models
 | Microsoft Xbox NUI Camera                                    | 1         | 1.92%   |
 | Microdia Webcam                                              | 1         | 1.92%   |
 | Microdia USB 2.0 Camera                                      | 1         | 1.92%   |
-| Microdia Integrated_Webcam_HD                                | 1         | 1.92%   |
+| Microdia Integrated Webcam HD                                | 1         | 1.92%   |
 | Luxvisions Innotech Limited HP HD Camera                     | 1         | 1.92%   |
 | Logitech Webcam C270                                         | 1         | 1.92%   |
 | Logitech StreamCam                                           | 1         | 1.92%   |

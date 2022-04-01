@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 7
+
 | Vendor        | Model         | Probe                                                      | Date         |
 |---------------|---------------|------------------------------------------------------------|--------------|
 | Compaq        | 07E4h         | [535804dbc6](https://linux-hardware.org/?probe=535804dbc6) | Jan 05, 2022 |
@@ -167,6 +171,32 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name        | Desktops | Percent |
+|-------------|----------|---------|
+| Q4OS 3.14.2 | 3        | 50%     |
+| Q4OS 4      | 2        | 33.33%  |
+| Q4OS 3.15.2 | 1        | 16.67%  |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name | Desktops | Percent |
+|------|----------|---------|
+| Q4OS | 6        | 100%    |
 
 Kernel
 ------
@@ -831,8 +861,8 @@ Storage controller models
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                         | 1        | 10%     |
 | Intel 82801G (ICH7 Family) IDE Controller                                 | 1        | 10%     |
 | Intel 82801DB (ICH4) IDE Controller                                       | 1        | 10%     |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                  | 1        | 10%     |
 | AMD FCH SATA Controller [AHCI mode]                                       | 1        | 10%     |
+| AMD 500 Series Chipset SATA Controller                                    | 1        | 10%     |
 
 Storage Kind
 ------------
@@ -1432,14 +1462,14 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                              | Desktops | Percent |
-|----------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM 400MT/s              | 1        | 16.67%  |
-| Unknown RAM Module 512MB DIMM                      | 1        | 16.67%  |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s      | 1        | 16.67%  |
-| Unknown RAM Module 2048MB DIMM SDRAM               | 1        | 16.67%  |
-| Transcend RAM Module 1GB DIMM SDRAM 266MT/s        | 1        | 16.67%  |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s | 1        | 16.67%  |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Unknown RAM Module 512MB DIMM 400MT/s               | 1        | 16.67%  |
+| Unknown RAM Module 512MB DIMM                       | 1        | 16.67%  |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s       | 1        | 16.67%  |
+| Unknown RAM Module 2048MB DIMM SDRAM                | 1        | 16.67%  |
+| Transcend RAM Module 1GB DIMM SDRAM 266MT/s         | 1        | 16.67%  |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s | 1        | 16.67%  |
 
 Memory Kind
 -----------

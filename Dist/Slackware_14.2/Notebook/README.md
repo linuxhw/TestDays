@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 43
+
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
 | HP       | Laptop 15-bs2xx             | [bf53c3c878](https://linux-hardware.org/?probe=bf53c3c878) | Jan 02, 2022 |
@@ -1399,15 +1401,15 @@ Monitor models
 | Sharp LCD Monitor SHP14C4 1920x1080 344x194mm 15.5-inch              | 1         | 3.7%    |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 3.7%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 3.7%    |
-| Panasonic VVX10T025J00 MEI96A2 2560x1600 223x125mm 10.1-inch         | 1         | 3.7%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 256x144mm 11.6-inch | 1         | 3.7%    |
+| Panasonic VVX13F009G00 MEI96A2 1920x1080 344x193mm 15.5-inch         | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD03D7 1366x768 310x174mm 14.0-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0353 1366x768 345x194mm 15.6-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 3.7%    |
-| LG Display LCD Monitor LGD02D9 1920x1080 345x194mm 15.6-inch         | 1         | 3.7%    |
-| Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch              | 1         | 3.7%    |
+| LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 3.7%    |
+| Lenovo LCD Monitor LEN4035 1280x800 304x190mm 14.1-inch              | 1         | 3.7%    |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 3.7%    |
@@ -1780,10 +1782,10 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 7         | 31.82%  |
-| Intel Bluetooth wireless interface                  | 6         | 27.27%  |
+| Intel Bluetooth wireless interface                  | 10        | 45.45%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 13.64%  |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 9.09%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 9.09%   |
+| Intel Bluetooth Device                              | 2         | 9.09%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 4.55%   |
 | Realtek Bluetooth Radio                             | 1         | 4.55%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.55%   |
@@ -1872,33 +1874,33 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Notebooks | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 7.69%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 3.85%   |
-| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 3.85%   |
-| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 3.85%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 3.85%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.85%   |
-| SK Hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 3.85%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 3.85%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 3.85%   |
-| Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 3.85%   |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 3.85%   |
-| Kingston RAM KHX2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
-| Kingston RAM KHX2666C15S4/16G 16384MB SODIMM DDR4 2667MT/s   | 1         | 3.85%   |
-| Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
-| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
-| Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
+| Model                                                     | Notebooks | Percent |
+|-----------------------------------------------------------|-----------|---------|
+| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 2         | 7.69%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                    | 1         | 3.85%   |
+| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s   | 1         | 3.85%   |
+| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
+| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s      | 1         | 3.85%   |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 3.85%   |
+| SK Hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 3.85%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s    | 1         | 3.85%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2400MT/s | 1         | 3.85%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s     | 1         | 3.85%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s  | 1         | 3.85%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
+| Samsung RAM M471A2K43DB1-CTD 16384MB SODIMM DDR4 2667MT/s | 1         | 3.85%   |
+| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s     | 1         | 3.85%   |
+| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s   | 1         | 3.85%   |
+| Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s  | 1         | 3.85%   |
+| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s    | 1         | 3.85%   |
+| Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s   | 1         | 3.85%   |
 
 Memory Kind
 -----------

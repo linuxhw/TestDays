@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 23
+
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
 | Dell    | Latitude 3540               | [6fb057646a](https://linux-hardware.org/?probe=6fb057646a) | Feb 25, 2022 |
@@ -183,6 +187,32 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name                     | Notebooks | Percent |
+|--------------------------|-----------|---------|
+| Makulu 2020              | 10        | 71.43%  |
+| Makulu Build: 2021.12.15 | 3         | 21.43%  |
+| Makulu Build: 2022.01.06 | 1         | 7.14%   |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name   | Notebooks | Percent |
+|--------|-----------|---------|
+| Makulu | 14        | 100%    |
 
 Kernel
 ------
@@ -674,12 +704,12 @@ Hard drive models
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
 | Seagate ST500LT012-1DG142 500GB      | 2         | 10%     |
-| Unknown SD/MMC/MS PRO 64GB           | 1         | 5%      |
+| Unknown SD/MMC/MS PRO 32GB           | 1         | 5%      |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 5%      |
 | Toshiba MQ01ABF050M 500GB            | 1         | 5%      |
 | Toshiba MQ01ABD100 1TB               | 1         | 5%      |
 | Seagate ST9320325AS 320GB            | 1         | 5%      |
-| Seagate Expansion Desk 8TB           | 1         | 5%      |
+| Seagate Expansion Desk 4TB           | 1         | 5%      |
 | SanDisk SSD PLUS 1000GB              | 1         | 5%      |
 | Sandisk NVMe SSD Drive 512GB         | 1         | 5%      |
 | Samsung NVMe SSD Drive 1TB           | 1         | 5%      |
@@ -767,7 +797,7 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 9         | 14     | 69.23%  |
 | 0.51-1.0   | 3         | 3      | 23.08%  |
-| 4.01-10.0  | 1         | 1      | 7.69%   |
+| 3.01-4.0   | 1         | 1      | 7.69%   |
 
 Space Total
 -----------
@@ -1186,7 +1216,7 @@ Monitor models
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 7.14%   |
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 7.14%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 7.14%   |
-| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x194mm 15.5-inch          | 1         | 7.14%   |
+| Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 7.14%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 7.14%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 7.14%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 7.14%   |
@@ -1514,10 +1544,10 @@ Controller models
 
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
-| Realtek  Bluetooth 4.2 Adapter                    | 1         | 10%     |
+| Realtek Bluetooth Radio                           | 1         | 10%     |
 | Qualcomm Atheros AR9462 Bluetooth                 | 1         | 10%     |
 | Intel Bluetooth wireless interface                | 1         | 10%     |
-| Intel Bluetooth Device                            | 1         | 10%     |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 1         | 10%     |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter | 1         | 10%     |
 | Broadcom Bluetooth 2.1 Device                     | 1         | 10%     |
 | Broadcom BCM43142 Bluetooth 4.0                   | 1         | 10%     |
@@ -1678,7 +1708,7 @@ Camera device models
 | Suyin UVC HD Webcam                                     | 1         | 9.09%   |
 | Suyin Laptop_Integrated_Webcam_HD                       | 1         | 9.09%   |
 | Suyin HP Truevision HD                                  | 1         | 9.09%   |
-| Microdia Dell Laptop Integrated Webcam HD               | 1         | 9.09%   |
+| Microdia Laptop_Integrated_Webcam_HD                    | 1         | 9.09%   |
 | Lite-On HP Wide Vision HD Camera                        | 1         | 9.09%   |
 | Chicony UVC 1.00 device HD UVC WebCam                   | 1         | 9.09%   |
 | Chicony Lenovo EasyCamera                               | 1         | 9.09%   |

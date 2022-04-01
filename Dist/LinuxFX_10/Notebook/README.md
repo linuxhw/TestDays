@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 54
+
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
 | Toshiba  | Satellite C660              | [47b40007ee](https://linux-hardware.org/?probe=47b40007ee) | Dec 04, 2021 |
@@ -732,7 +734,7 @@ Geographic location (city)
 | Vila Velha     | 1         | 2.63%   |
 | Val-d'Or       | 1         | 2.63%   |
 | Sydney         | 1         | 2.63%   |
-| SÃ£o Paulo   | 1         | 2.63%   |
+| Sao Paulo      | 1         | 2.63%   |
 | Sao Bernardo   | 1         | 2.63%   |
 | Salerno        | 1         | 2.63%   |
 | Saladas        | 1         | 2.63%   |
@@ -1437,7 +1439,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.94%   |
-| Samsung Electronics LCD Monitor SDC4752 1366x768 340x190mm 15.3-inch     | 1         | 2.94%   |
+| Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.94%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 2.94%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch              | 1         | 2.94%   |
@@ -1459,7 +1461,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO2374 1280x800 331x207mm 15.4-inch            | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUO20EC 1366x768 344x193mm 15.5-inch            | 1         | 2.94%   |
-| Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch    | 1         | 2.94%   |
+| Ancor Communications ASUS VS228 ACI22FD 1920x1080 480x270mm 21.7-inch    | 1         | 2.94%   |
 
 Monitor Resolution
 ------------------
@@ -1656,15 +1658,16 @@ Wireless vendors
 ![Wireless Vendor](./images/pie_chart/net_wireless_vendor.svg)
 
 
-| Vendor                | Notebooks | Percent |
-|-----------------------|-----------|---------|
-| Qualcomm Atheros      | 13        | 34.21%  |
-| Intel                 | 10        | 26.32%  |
-| Broadcom              | 6         | 15.79%  |
-| Realtek Semiconductor | 5         | 13.16%  |
-| Broadcom Limited      | 2         | 5.26%   |
-| Ralink                | 1         | 2.63%   |
-| NetGear               | 1         | 2.63%   |
+| Vendor                            | Notebooks | Percent |
+|-----------------------------------|-----------|---------|
+| Qualcomm Atheros                  | 13        | 33.33%  |
+| Intel                             | 10        | 25.64%  |
+| Broadcom                          | 6         | 15.38%  |
+| Realtek Semiconductor             | 5         | 12.82%  |
+| Broadcom Limited                  | 2         | 5.13%   |
+| Ralink                            | 1         | 2.56%   |
+| NetGear                           | 1         | 2.56%   |
+| Ericsson Business Mobile Networks | 1         | 2.56%   |
 
 Wireless Model
 --------------
@@ -1676,32 +1679,33 @@ Wireless models
 
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 4         | 10.53%  |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 10.53%  |
-| Broadcom BCM4312 802.11b/g LP-PHY                                       | 3         | 7.89%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 5.26%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 5.26%   |
-| Intel Centrino Wireless-N 2230                                          | 2         | 5.26%   |
-| Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 5.26%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 2.63%   |
-| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 2.63%   |
-| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2.63%   |
-| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 2.63%   |
-| Realtek 802.11ac NIC                                                    | 1         | 2.63%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 2.63%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 1         | 2.63%   |
-| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 2.63%   |
-| Intel Wireless 8260                                                     | 1         | 2.63%   |
-| Intel Wireless 7265                                                     | 1         | 2.63%   |
-| Intel Wireless 7260                                                     | 1         | 2.63%   |
-| Intel Wireless 3165                                                     | 1         | 2.63%   |
-| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 2.63%   |
-| Intel Centrino Ultimate-N 6300                                          | 1         | 2.63%   |
-| Intel Centrino Advanced-N 6235                                          | 1         | 2.63%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 2.63%   |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 2.63%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 2.63%   |
-| Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.63%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 4         | 10.26%  |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 10.26%  |
+| Broadcom BCM4312 802.11b/g LP-PHY                                       | 3         | 7.69%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 5.13%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 5.13%   |
+| Intel Centrino Wireless-N 2230                                          | 2         | 5.13%   |
+| Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 5.13%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 2.56%   |
+| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 2.56%   |
+| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2.56%   |
+| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 2.56%   |
+| Realtek 802.11ac NIC                                                    | 1         | 2.56%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 2.56%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 1         | 2.56%   |
+| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 2.56%   |
+| Intel Wireless 8260                                                     | 1         | 2.56%   |
+| Intel Wireless 7265                                                     | 1         | 2.56%   |
+| Intel Wireless 7260                                                     | 1         | 2.56%   |
+| Intel Wireless 3165                                                     | 1         | 2.56%   |
+| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 2.56%   |
+| Intel Centrino Ultimate-N 6300                                          | 1         | 2.56%   |
+| Intel Centrino Advanced-N 6235                                          | 1         | 2.56%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 2.56%   |
+| Ericsson Business Mobile Networks N5321 gw                              | 1         | 2.56%   |
+| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 2.56%   |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 2.56%   |
+| Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.56%   |
 
 Ethernet Vendor
 ---------------
@@ -1762,9 +1766,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 36        | 49.32%  |
-| Ethernet | 36        | 49.32%  |
-| Modem    | 1         | 1.37%   |
+| WiFi     | 36        | 50%     |
+| Ethernet | 36        | 50%     |
 
 Used Controller
 ---------------
@@ -1819,10 +1822,9 @@ Controller vendors
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
 | Intel                           | 6         | 28.57%  |
+| Qualcomm Atheros Communications | 4         | 19.05%  |
 | Lite-On Technology              | 3         | 14.29%  |
 | Realtek Semiconductor           | 2         | 9.52%   |
-| Qualcomm Atheros Communications | 2         | 9.52%   |
-| Qualcomm Atheros                | 2         | 9.52%   |
 | Hewlett-Packard                 | 2         | 9.52%   |
 | Cambridge Silicon Radio         | 2         | 9.52%   |
 | Ralink Technology               | 1         | 4.76%   |
@@ -1838,17 +1840,16 @@ Controller models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface                          | 3         | 14.29%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 9.52%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 9.52%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 9.52%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 9.52%   |
-| Intel Bluetooth wireless interface                          | 2         | 9.52%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 2         | 9.52%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 4.76%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 4.76%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 1         | 4.76%   |
-| Lite-On Bluetooth Device                                    | 1         | 4.76%   |
-| Intel Bluetooth Device                                      | 1         | 4.76%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 4.76%   |
 | Intel AX201 Bluetooth                                       | 1         | 4.76%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 4.76%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 4.76%   |
@@ -1940,7 +1941,7 @@ Memory module models
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM SDRAM                       | 1         | 20%     |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 20%     |
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 1         | 20%     |
+| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1         | 20%     |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s      | 1         | 20%     |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s   | 1         | 20%     |
 

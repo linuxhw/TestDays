@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 18
+
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
 | Dell          | Vostro 15-3568              | [3d6d3007cf](https://linux-hardware.org/?probe=3d6d3007cf) | Jul 10, 2021 |
@@ -690,7 +692,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -1307,15 +1309,16 @@ Controller vendors
 ![Net Controller Vendor](./images/pie_chart/net_vendor.svg)
 
 
-| Vendor                   | Notebooks | Percent |
-|--------------------------|-----------|---------|
-| Realtek Semiconductor    | 7         | 31.82%  |
-| Intel                    | 6         | 27.27%  |
-| Qualcomm Atheros         | 5         | 22.73%  |
-| Ralink                   | 1         | 4.55%   |
-| Marvell Technology Group | 1         | 4.55%   |
-| Hewlett-Packard          | 1         | 4.55%   |
-| Broadcom                 | 1         | 4.55%   |
+| Vendor                        | Notebooks | Percent |
+|-------------------------------|-----------|---------|
+| Realtek Semiconductor         | 7         | 30.43%  |
+| Intel                         | 6         | 26.09%  |
+| Qualcomm Atheros              | 5         | 21.74%  |
+| Ralink                        | 1         | 4.35%   |
+| OnePlus Technology (Shenzhen) | 1         | 4.35%   |
+| Marvell Technology Group      | 1         | 4.35%   |
+| Hewlett-Packard               | 1         | 4.35%   |
+| Broadcom                      | 1         | 4.35%   |
 
 Net Controller Model
 --------------------
@@ -1327,29 +1330,30 @@ Controller models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4         | 14.81%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 7.41%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 3.7%    |
-| Realtek RTL8723AE PCIe Wireless Network Adapter                   | 1         | 3.7%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 3.7%    |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 3.7%    |
-| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                         | 1         | 3.7%    |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 3.7%    |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 3.7%    |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.7%    |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.7%    |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.7%    |
-| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.7%    |
-| Intel Wireless 8260                                               | 1         | 3.7%    |
-| Intel Wireless 7260                                               | 1         | 3.7%    |
-| Intel Wi-Fi 6 AX200                                               | 1         | 3.7%    |
-| Intel Ethernet Connection I219-LM                                 | 1         | 3.7%    |
-| Intel Ethernet Connection I217-V                                  | 1         | 3.7%    |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                     | 1         | 3.7%    |
-| Intel Centrino Advanced-N 6230 [Rainbow Peak]                     | 1         | 3.7%    |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 1         | 3.7%    |
-| HP lt4112 Gobi 4G Module Network Device                           | 1         | 3.7%    |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 3.7%    |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4         | 14.29%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 7.14%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 3.57%   |
+| Realtek RTL8723AE PCIe Wireless Network Adapter                   | 1         | 3.57%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 3.57%   |
+| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 3.57%   |
+| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                         | 1         | 3.57%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 3.57%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 3.57%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
+| OnePlus (Shenzhen) AC2001                                         | 1         | 3.57%   |
+| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
+| Intel Wireless 8260                                               | 1         | 3.57%   |
+| Intel Wireless 7260                                               | 1         | 3.57%   |
+| Intel Wi-Fi 6 AX200                                               | 1         | 3.57%   |
+| Intel Ethernet Connection I219-LM                                 | 1         | 3.57%   |
+| Intel Ethernet Connection I217-V                                  | 1         | 3.57%   |
+| Intel Centrino Wireless-N 1030 [Rainbow Peak]                     | 1         | 3.57%   |
+| Intel Centrino Advanced-N 6230 [Rainbow Peak]                     | 1         | 3.57%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 1         | 3.57%   |
+| HP lt4112 Gobi 4G Module Network Device                           | 1         | 3.57%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 3.57%   |
 
 Wireless Vendor
 ---------------
@@ -1438,8 +1442,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 13        | 50%     |
-| Ethernet | 13        | 50%     |
+| WiFi     | 13        | 48.15%  |
+| Ethernet | 13        | 48.15%  |
+| Unknown  | 1         | 3.7%    |
 
 Used Controller
 ---------------
@@ -1506,16 +1511,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                              | Notebooks | Percent |
-|------------------------------------|-----------|---------|
-| Intel Bluetooth Device             | 3         | 30%     |
-| Toshiba RT Bluetooth Radio         | 1         | 10%     |
-| Realtek Bluetooth Radio            | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth  | 1         | 10%     |
-| Qualcomm Atheros AR3011 Bluetooth  | 1         | 10%     |
-| Lite-On Bluetooth Device           | 1         | 10%     |
-| Intel Bluetooth wireless interface | 1         | 10%     |
-| Intel AX200 Bluetooth              | 1         | 10%     |
+| Model                                            | Notebooks | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
+| Intel Bluetooth wireless interface               | 2         | 20%     |
+| Toshiba RT Bluetooth Radio                       | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
+| Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
 -----
@@ -1588,8 +1593,8 @@ Memory module models
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
-| Micron RAM 16KTF51264HZ-1G6M1 4096MB SODIMM DDR3 1600MT/s | 1         | 16.67%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 16.67%  |
+| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 16.67%  |
 | A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 16.67%  |
@@ -1709,18 +1714,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                     | Notebooks | Percent |
-|-------------------------------------------|-----------|---------|
-| Suyin HP TrueVision HD Integrated Webcam  | 1         | 10%     |
-| Suyin 1.3M HD WebCam                      | 1         | 10%     |
-| Microdia Dell Laptop Integrated Webcam HD | 1         | 10%     |
-| Lite-On Integrated Camera                 | 1         | 10%     |
-| Lite-On HP HD Webcam                      | 1         | 10%     |
-| Importek TOSHIBA Web Camera - HD          | 1         | 10%     |
-| IMC Networks USB2.0 HD UVC WebCam         | 1         | 10%     |
-| Chicony Integrated Camera                 | 1         | 10%     |
-| Chicony HD WebCam                         | 1         | 10%     |
-| Chicony 2.0M UVC WebCam                   | 1         | 10%     |
+| Model                                    | Notebooks | Percent |
+|------------------------------------------|-----------|---------|
+| Suyin HP TrueVision HD Integrated Webcam | 1         | 10%     |
+| Suyin 1.3M HD WebCam                     | 1         | 10%     |
+| Microdia Laptop_Integrated_Webcam_HD     | 1         | 10%     |
+| Lite-On Integrated Camera                | 1         | 10%     |
+| Lite-On HP HD Webcam                     | 1         | 10%     |
+| Importek TOSHIBA Web Camera - HD         | 1         | 10%     |
+| IMC Networks USB2.0 HD UVC WebCam        | 1         | 10%     |
+| Chicony Integrated Camera                | 1         | 10%     |
+| Chicony HD WebCam                        | 1         | 10%     |
+| Chicony 2.0M UVC WebCam                  | 1         | 10%     |
 
 Security
 --------

@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 30
+
 | Vendor   | Model               | Probe                                                      | Date         |
 |----------|---------------------|------------------------------------------------------------|--------------|
 | ASRock   | 970 Extreme4        | [a30d1aa4b9](https://linux-hardware.org/?probe=a30d1aa4b9) | Dec 29, 2021 |
@@ -723,7 +725,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | WDC WD10EZEX-08WN4A0 1TB           | 2        | 4.88%   |
-| XPG GAMMIX S11 Pro 1TB             | 1        | 2.44%   |
+| XPG GAMMIX S11 Pro 256GB           | 1        | 2.44%   |
 | WDC WD5000AAKX-001CA0 500GB        | 1        | 2.44%   |
 | WDC WD5000AACS-00G8B1 500GB        | 1        | 2.44%   |
 | WDC WD400JD-55MSA1 40GB            | 1        | 2.44%   |
@@ -733,7 +735,7 @@ Hard drive models
 | WDC WD1003FZEX-00MK2A0 1TB         | 1        | 2.44%   |
 | Toshiba MQ01ACF050 500GB           | 1        | 2.44%   |
 | Toshiba MQ01ABD050 500GB           | 1        | 2.44%   |
-| TO Exter nal USB 3.0 2TB           | 1        | 2.44%   |
+| TO Exter nal USB 3.0 1TB           | 1        | 2.44%   |
 | Seagate ST500LX012-SSHD-8GB        | 1        | 2.44%   |
 | Seagate ST500DM002-1BD142 500GB    | 1        | 2.44%   |
 | Seagate ST3200826AS 200GB          | 1        | 2.44%   |
@@ -841,9 +843,9 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 20       | 33     | 71.43%  |
-| 0.51-1.0   | 5        | 6      | 17.86%  |
-| 1.01-2.0   | 2        | 2      | 7.14%   |
+| 0.51-1.0   | 6        | 7      | 21.43%  |
 | 3.01-4.0   | 1        | 1      | 3.57%   |
+| 1.01-2.0   | 1        | 1      | 3.57%   |
 
 Space Total
 -----------
@@ -1318,11 +1320,11 @@ Monitor models
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 2        | 10%     |
 | ViewSonic VX3211-2K VSCF634 2560x1440 698x392mm 31.5-inch              | 1        | 5%      |
 | Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch         | 1        | 5%      |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch      | 1        | 5%      |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch      | 1        | 5%      |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch   | 1        | 5%      |
 | Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch     | 1        | 5%      |
 | Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch | 1        | 5%      |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1        | 5%      |
+| Philips LCD Monitor PHLC0BF 1600x900 430x240mm 19.4-inch               | 1        | 5%      |
 | Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                     | 1        | 5%      |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch           | 1        | 5%      |
 | Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                   | 1        | 5%      |
@@ -1497,10 +1499,10 @@ Controller models
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                          | 1        | 3.13%   |
 | TP-Link Archer T4U ver.3                                                     | 1        | 3.13%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                         | 1        | 3.13%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                        | 1        | 3.13%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                          | 1        | 3.13%   |
+| Realtek 802.11n                                                              | 1        | 3.13%   |
 | Realtek 802.11ac NIC                                                         | 1        | 3.13%   |
-| Qualcomm FP3                                                                 | 1        | 3.13%   |
+| Qualcomm SDM710-QRD _SN:0BC14CBF                                             | 1        | 3.13%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                   | 1        | 3.13%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                   | 1        | 3.13%   |
 | Intel Wireless 7260                                                          | 1        | 3.13%   |
@@ -1536,8 +1538,8 @@ Wireless models
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                          | 1        | 10%     |
 | TP-Link Archer T4U ver.3                                                     | 1        | 10%     |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                         | 1        | 10%     |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                        | 1        | 10%     |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                          | 1        | 10%     |
+| Realtek 802.11n                                                              | 1        | 10%     |
 | Realtek 802.11ac NIC                                                         | 1        | 10%     |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                   | 1        | 10%     |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                   | 1        | 10%     |
@@ -1572,7 +1574,7 @@ Ethernet models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 16       | 72.73%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 9.09%   |
 | Nvidia MCP61 Ethernet                                             | 2        | 9.09%   |
-| Qualcomm FP3                                                      | 1        | 4.55%   |
+| Qualcomm SDM710-QRD _SN:0BC14CBF                                  | 1        | 4.55%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 4.55%   |
 
 Net Controller Kind
@@ -1746,15 +1748,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 14.29%  |
-| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 14.29%  |
-| Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s     | 1        | 14.29%  |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 2933MT/s      | 1        | 14.29%  |
-| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1        | 14.29%  |
-| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s | 1        | 14.29%  |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 800MT/s                 | 1        | 14.29%  |
+| Unknown RAM Module 1024MB DIMM 667MT/s                 | 1        | 14.29%  |
+| Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s   | 1        | 14.29%  |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s    | 1        | 14.29%  |
+| Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 14.29%  |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s  | 1        | 14.29%  |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s  | 1        | 14.29%  |
 
 Memory Kind
 -----------

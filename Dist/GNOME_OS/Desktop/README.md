@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 13
+
 | Vendor   | Model          | Probe                                                      | Date         |
 |----------|----------------|------------------------------------------------------------|--------------|
 | Gigabyte | B450M S2H V2   | [cd6b701253](https://linux-hardware.org/?probe=cd6b701253) | Nov 03, 2021 |
@@ -173,6 +177,31 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name             | Desktops | Percent |
+|------------------|----------|---------|
+| GNOME OS Nightly | 8        | 72.73%  |
+| GNOME OS 3.38    | 3        | 27.27%  |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name     | Desktops | Percent |
+|----------|----------|---------|
+| GNOME OS | 11       | 100%    |
 
 Kernel
 ------
@@ -639,29 +668,29 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| WDC WD1600AAJS-22L7A0 160GB            | 1        | 4.76%   |
-| WDC WD10EALX-009BA0 1TB                | 1        | 4.76%   |
-| Toshiba HDWD120 2TB                    | 1        | 4.76%   |
-| SK Hynix HFS128G39TND-N210A 128GB SSD  | 1        | 4.76%   |
-| Seagate ST9500325AS 500GB              | 1        | 4.76%   |
-| Seagate ST4000DX001-1CE168 4TB         | 1        | 4.76%   |
-| Seagate ST3500312CS 500GB              | 1        | 4.76%   |
-| Seagate ST2000DM001-1ER164 2TB         | 1        | 4.76%   |
-| Seagate ST1000DM010-2EP102 1TB         | 1        | 4.76%   |
-| Seagate ST1000DM003-1SB102 1TB         | 1        | 4.76%   |
-| Sandisk NVMe SSD Drive 500GB           | 1        | 4.76%   |
-| Samsung SSD 860 QVO 1TB                | 1        | 4.76%   |
-| Samsung SSD 840 EVO 250GB              | 1        | 4.76%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB | 1        | 4.76%   |
-| Samsung NVMe SSD Drive 1024GB          | 1        | 4.76%   |
-| PNY CS900 240GB SSD                    | 1        | 4.76%   |
-| Kingston SV300S37A240G 240GB SSD       | 1        | 4.76%   |
-| Kingston SA400S37120G 120GB SSD        | 1        | 4.76%   |
-| Kingston SA400M8240G 240GB SSD         | 1        | 4.76%   |
-| Kingston RBUSNS4180S3256GJ 256GB SSD   | 1        | 4.76%   |
-| Apacer AS350 120GB SSD                 | 1        | 4.76%   |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| WDC WD1600AAJS-22L7A0 160GB           | 1        | 4.76%   |
+| WDC WD10EALX-009BA0 1TB               | 1        | 4.76%   |
+| Toshiba HDWD120 2TB                   | 1        | 4.76%   |
+| SK Hynix HFS128G39TND-N210A 128GB SSD | 1        | 4.76%   |
+| Seagate ST9500325AS 500GB             | 1        | 4.76%   |
+| Seagate ST4000DX001-1CE168 4TB        | 1        | 4.76%   |
+| Seagate ST3500312CS 500GB             | 1        | 4.76%   |
+| Seagate ST2000DM001-1ER164 2TB        | 1        | 4.76%   |
+| Seagate ST1000DM010-2EP102 1TB        | 1        | 4.76%   |
+| Seagate ST1000DM003-1SB102 1TB        | 1        | 4.76%   |
+| Sandisk NVMe SSD Drive 500GB          | 1        | 4.76%   |
+| Samsung SSD 860 QVO 1TB               | 1        | 4.76%   |
+| Samsung SSD 840 EVO 250GB             | 1        | 4.76%   |
+| Samsung NVMe SSD Drive 256GB          | 1        | 4.76%   |
+| Samsung NVMe SSD Drive 1024GB         | 1        | 4.76%   |
+| PNY CS900 240GB SSD                   | 1        | 4.76%   |
+| Kingston SV300S37A240G 240GB SSD      | 1        | 4.76%   |
+| Kingston SA400S37120G 120GB SSD       | 1        | 4.76%   |
+| Kingston SA400M8240G 240GB SSD        | 1        | 4.76%   |
+| Kingston RBUSNS4180S3256GJ 256GB SSD  | 1        | 4.76%   |
+| Apacer AS350 120GB SSD                | 1        | 4.76%   |
 
 HDD Vendor
 ----------
@@ -1143,13 +1172,13 @@ Monitor models
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch | 1        | 7.69%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 7.69%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 7.69%   |
-| Samsung Electronics C32F391 SAM0D34 1920x1080 700x390mm 31.5-inch   | 1        | 7.69%   |
+| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch   | 1        | 7.69%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch   | 1        | 7.69%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 7.69%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch             | 1        | 7.69%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 7.69%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 7.69%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 530x300mm 24.0-inch             | 1        | 7.69%   |
-| BenQ LCD BNQ8024 2560x1440 600x340mm 27.2-inch                      | 1        | 7.69%   |
+| BenQ LCD BNQ8024 2560x1440 597x336mm 27.0-inch                      | 1        | 7.69%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 7.69%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 7.69%   |
 
@@ -1293,7 +1322,7 @@ Controller models
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1        | 5.26%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 5.26%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 5.26%   |
-| Motorola PCS moto g stylus                                        | 1        | 5.26%   |
+| Motorola PCS moto g power (2021)                                  | 1        | 5.26%   |
 | Intel Wireless-AC 9260                                            | 1        | 5.26%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 5.26%   |
 | Intel Gemini Lake PCH CNVi WiFi                                   | 1        | 5.26%   |
@@ -1439,13 +1468,13 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Realtek  Bluetooth 4.2 Adapter           | 1        | 20%     |
-| Intel Wireless-AC 9260 Bluetooth Adapter | 1        | 20%     |
-| Intel Wireless-AC 3168 Bluetooth         | 1        | 20%     |
-| Intel Bluetooth Device                   | 1        | 20%     |
-| ASUS Broadcom BCM20702A0 Bluetooth       | 1        | 20%     |
+| Model                                          | Desktops | Percent |
+|------------------------------------------------|----------|---------|
+| Realtek  Bluetooth 4.2 Adapter                 | 1        | 20%     |
+| Intel Wireless-AC 3168 Bluetooth               | 1        | 20%     |
+| Intel Bluetooth Device                         | 1        | 20%     |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1        | 20%     |
+| ASUS Broadcom BCM20702A0 Bluetooth             | 1        | 20%     |
 
 Sound
 -----

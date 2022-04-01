@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 16
+
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
 | Biostar  | A320MH                      | [2c478119e9](https://linux-hardware.org/?probe=2c478119e9) | Jun 30, 2021 |
@@ -1207,7 +1209,7 @@ Monitor models
 | Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                  | 1        | 7.69%   |
+| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
@@ -1357,7 +1359,7 @@ Controller models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6        | 26.09%  |
 | Intel I211 Gigabit Network Connection                             | 2        | 8.7%    |
-| TP-Link TL WN823N RTL8192EU                                       | 1        | 4.35%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 4.35%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1        | 4.35%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 4.35%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1        | 4.35%   |
@@ -1401,7 +1403,7 @@ Wireless models
 
 | Model                                                          | Desktops | Percent |
 |----------------------------------------------------------------|----------|---------|
-| TP-Link TL WN823N RTL8192EU                                    | 1        | 11.11%  |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                    | 1        | 11.11%  |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                     | 1        | 11.11%  |
 | Realtek RTL8188EE Wireless Network Adapter                     | 1        | 11.11%  |
 | Realtek 802.11ac NIC                                           | 1        | 11.11%  |
@@ -1523,12 +1525,12 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Realtek Bluetooth Radio                  | 1        | 25%     |
-| Intel Wireless-AC 9260 Bluetooth Adapter | 1        | 25%     |
-| Broadcom BCM20702A0 Bluetooth 4.0        | 1        | 25%     |
-| Apple Bluetooth USB Host Controller      | 1        | 25%     |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Realtek Bluetooth Radio             | 1        | 25%     |
+| Intel Bluetooth Device              | 1        | 25%     |
+| Broadcom BCM20702A0 Bluetooth 4.0   | 1        | 25%     |
+| Apple Bluetooth USB Host Controller | 1        | 25%     |
 
 Sound
 -----
@@ -1604,9 +1606,9 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Desktops | Percent |
-|-------------------------------------------------------|----------|---------|
-| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s | 1        | 100%    |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| G.Skill RAM F4-3600C16-16GVKC 16384MB DIMM DDR4 3866MT/s | 1        | 100%    |
 
 Memory Kind
 -----------

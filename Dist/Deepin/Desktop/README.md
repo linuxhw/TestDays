@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 88
+
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
 | ASUSTek       | Z97-PRO GAMER               | [3e37ded7e2](https://linux-hardware.org/?probe=3e37ded7e2) | Jan 04, 2022 |
@@ -248,6 +252,43 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name           | Desktops | Percent |
+|----------------|----------|---------|
+| Deepin         | 14       | 25.93%  |
+| Deepin 20      | 10       | 18.52%  |
+| UOS 20         | 6        | 11.11%  |
+| Deepin 20 beta | 4        | 7.41%   |
+| Deepin 15.9.2  | 4        | 7.41%   |
+| Deepin 20.1    | 3        | 5.56%   |
+| Deepin 15.11   | 3        | 5.56%   |
+| Deepin 20.3    | 2        | 3.7%    |
+| Deepin 20.2.2  | 2        | 3.7%    |
+| Deepin 15.10.1 | 2        | 3.7%    |
+| Deepin 20.2.4  | 1        | 1.85%   |
+| Deepin 20.2.3  | 1        | 1.85%   |
+| Deepin 20.2    | 1        | 1.85%   |
+| Deepin 15.7    | 1        | 1.85%   |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name   | Desktops | Percent |
+|--------|----------|---------|
+| Deepin | 50       | 100%    |
 
 Kernel
 ------
@@ -812,7 +853,7 @@ Geographic location (city)
 | City                     | Desktops | Percent |
 |--------------------------|----------|---------|
 | Beijing                  | 5        | 9.62%   |
-| SГЈo Paulo             | 2        | 3.85%   |
+| Sao Paulo                | 3        | 5.77%   |
 | Rio de Janeiro           | 2        | 3.85%   |
 | David                    | 2        | 3.85%   |
 | Wuhan                    | 1        | 1.92%   |
@@ -824,7 +865,6 @@ Geographic location (city)
 | St Petersburg            | 1        | 1.92%   |
 | Socorro                  | 1        | 1.92%   |
 | Seesen                   | 1        | 1.92%   |
-| SÃ£o Paulo             | 1        | 1.92%   |
 | San Francisco            | 1        | 1.92%   |
 | Rzeszotary               | 1        | 1.92%   |
 | Rome                     | 1        | 1.92%   |
@@ -882,7 +922,7 @@ Hard drive vendors
 | Crucial               | 3        | 4      | 3.23%   |
 | SPCC                  | 2        | 2      | 2.15%   |
 | MAXTOR                | 2        | 4      | 2.15%   |
-| Hewlett-Packard       | 2        | 2      | 2.15%   |
+| Hewlett-Packard       | 2        | 3      | 2.15%   |
 | FORESEE               | 2        | 2      | 2.15%   |
 | Vaseky                | 1        | 1      | 1.08%   |
 | Unknown               | 1        | 2      | 1.08%   |
@@ -910,66 +950,66 @@ Hard drive models
 
 | Model                               | Desktops | Percent |
 |-------------------------------------|----------|---------|
-| Seagate ST1000DM010-2EP102 1TB      | 3        | 3.03%   |
-| WDC WD5000AAKX-003CA0 500GB         | 2        | 2.02%   |
-| Seagate ST1000DM003-1SB102 1TB      | 2        | 2.02%   |
-| SanDisk SDSSDH3512G 512GB           | 2        | 2.02%   |
-| Kingston SV300S37A120G 120GB SSD    | 2        | 2.02%   |
-| FORESEE P900F256GBH                 | 2        | 2.02%   |
-| WDC WDS500G2B0B-00YS70 500GB SSD    | 1        | 1.01%   |
-| WDC WDS120G1G0A-00SS50 120GB SSD    | 1        | 1.01%   |
-| WDC WDS100T2G0A-00JH30 1TB SSD      | 1        | 1.01%   |
-| WDC WD80 0BEVE-11UYT0 80GB          | 1        | 1.01%   |
-| WDC WD7500BPKX-22HPJT0 752GB        | 1        | 1.01%   |
-| WDC WD6400AAKS-75A7B0 640GB         | 1        | 1.01%   |
-| WDC WD5000AAKX-00ERMA0 500GB        | 1        | 1.01%   |
-| WDC WD5000AAKS-00A7B2 500GB         | 1        | 1.01%   |
-| WDC WD5000AAJS-57TKA0 500GB         | 1        | 1.01%   |
-| WDC WD3200AAKS-00VYA0 320GB         | 1        | 1.01%   |
-| WDC WD20PURX-64P6ZY0 2TB            | 1        | 1.01%   |
-| WDC WD20EARX-00PASB0 2TB            | 1        | 1.01%   |
-| WDC WD1600AAJS-00L7A0 160GB         | 1        | 1.01%   |
-| WDC WD10EZEX-22MFCA0 1TB            | 1        | 1.01%   |
-| WDC WD10EZEX-08M2NA0 1TB            | 1        | 1.01%   |
-| WDC WD10EFRX-68FYTN0 1TB            | 1        | 1.01%   |
-| WDC WD10EARS-00Y5B1 1TB             | 1        | 1.01%   |
-| Vaseky V800/256G 256GB SSD          | 1        | 1.01%   |
-| Unknown SD/MMC/MS PRO 64GB          | 1        | 1.01%   |
-| Toshiba MQ01ABF050 500GB            | 1        | 1.01%   |
-| Toshiba MQ01ABD075 752GB            | 1        | 1.01%   |
-| Toshiba DT01ACA200 2TB              | 1        | 1.01%   |
-| Toshiba DT01ACA100 LENOVO 1TB       | 1        | 1.01%   |
-| Toshiba DT01ACA100 1TB              | 1        | 1.01%   |
-| Toshiba DT01ACA050 500GB            | 1        | 1.01%   |
-| SPCC Solid State Disk 512GB         | 1        | 1.01%   |
-| SPCC Solid State Disk 120GB         | 1        | 1.01%   |
-| Silicon Motion NVME SSD 128GB       | 1        | 1.01%   |
-| Seagate ST500LM012 HN-M500MBB 500GB | 1        | 1.01%   |
-| Seagate ST500DM002-1BD142 500GB     | 1        | 1.01%   |
-| Seagate ST3750528AS 752GB           | 1        | 1.01%   |
-| Seagate ST3500418AS 500GB           | 1        | 1.01%   |
-| Seagate ST3250312AS 250GB           | 1        | 1.01%   |
-| Seagate ST31000524AS 1TB            | 1        | 1.01%   |
-| Seagate ST2000LM003 HN-M201RAD 2TB  | 1        | 1.01%   |
-| Seagate ST1500DL003-9VT16L 1TB      | 1        | 1.01%   |
-| Seagate ST1000DM003-9YN162 1TB      | 1        | 1.01%   |
-| Seagate ST1000DM003-1CH162 1TB      | 1        | 1.01%   |
-| Seagate ST1000DL002-9TT153 1TB      | 1        | 1.01%   |
-| SanDisk SSD PLUS 240GB              | 1        | 1.01%   |
-| SanDisk SSD PLUS 120GB              | 1        | 1.01%   |
-| SanDisk SDSSDHP128G 128GB           | 1        | 1.01%   |
-| SanDisk SDSSDH3 500G                | 1        | 1.01%   |
-| SanDisk SDSSDA240G 240GB            | 1        | 1.01%   |
-| SanDisk SDSSDA120G 120GB            | 1        | 1.01%   |
-| SanDisk SD7SB6S-256G-1006 256GB SSD | 1        | 1.01%   |
-| Samsung SSD 860 EVO 500GB           | 1        | 1.01%   |
-| Samsung SSD 850 PRO 256GB           | 1        | 1.01%   |
-| Samsung SSD 850 EVO 500GB           | 1        | 1.01%   |
-| Samsung SSD 850 EVO 120GB           | 1        | 1.01%   |
-| Samsung HD502HJ 500GB               | 1        | 1.01%   |
-| Samsung HD250HJ 250GB               | 1        | 1.01%   |
-| Realtek NVMe SSD Drive 256GB        | 1        | 1.01%   |
-| Phison ESO256GMFCH-E3C-2 256GB      | 1        | 1.01%   |
+| Seagate ST1000DM010-2EP102 1TB      | 3        | 3%      |
+| WDC WD5000AAKX-003CA0 500GB         | 2        | 2%      |
+| Seagate ST1000DM003-1SB102 1TB      | 2        | 2%      |
+| SanDisk SDSSDH3512G 512GB           | 2        | 2%      |
+| Kingston SV300S37A120G 120GB SSD    | 2        | 2%      |
+| FORESEE P900F256GBH                 | 2        | 2%      |
+| WDC WDS500G2B0B-00YS70 500GB SSD    | 1        | 1%      |
+| WDC WDS120G1G0A-00SS50 120GB SSD    | 1        | 1%      |
+| WDC WDS100T2G0A-00JH30 1TB SSD      | 1        | 1%      |
+| WDC WD80 0BEVE-11UYT0 80GB          | 1        | 1%      |
+| WDC WD7500BPKX-22HPJT0 752GB        | 1        | 1%      |
+| WDC WD6400AAKS-75A7B0 640GB         | 1        | 1%      |
+| WDC WD5000AAKX-00ERMA0 500GB        | 1        | 1%      |
+| WDC WD5000AAKS-00A7B2 500GB         | 1        | 1%      |
+| WDC WD5000AAJS-57TKA0 500GB         | 1        | 1%      |
+| WDC WD3200AAKS-00VYA0 320GB         | 1        | 1%      |
+| WDC WD20PURX-64P6ZY0 2TB            | 1        | 1%      |
+| WDC WD20EARX-00PASB0 2TB            | 1        | 1%      |
+| WDC WD1600AAJS-00L7A0 160GB         | 1        | 1%      |
+| WDC WD10EZEX-22MFCA0 1TB            | 1        | 1%      |
+| WDC WD10EZEX-08M2NA0 1TB            | 1        | 1%      |
+| WDC WD10EFRX-68FYTN0 1TB            | 1        | 1%      |
+| WDC WD10EARS-00Y5B1 1TB             | 1        | 1%      |
+| Vaseky V800/256G 256GB SSD          | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 32GB          | 1        | 1%      |
+| Toshiba MQ01ABF050 500GB            | 1        | 1%      |
+| Toshiba MQ01ABD075 752GB            | 1        | 1%      |
+| Toshiba DT01ACA200 2TB              | 1        | 1%      |
+| Toshiba DT01ACA100 LENOVO 1TB       | 1        | 1%      |
+| Toshiba DT01ACA100 1TB              | 1        | 1%      |
+| Toshiba DT01ACA050 500GB            | 1        | 1%      |
+| SPCC Solid State Disk 512GB         | 1        | 1%      |
+| SPCC Solid State Disk 120GB         | 1        | 1%      |
+| Silicon Motion NVME SSD 128GB       | 1        | 1%      |
+| Seagate ST500LM012 HN-M500MBB 500GB | 1        | 1%      |
+| Seagate ST500DM002-1BD142 500GB     | 1        | 1%      |
+| Seagate ST3750528AS 752GB           | 1        | 1%      |
+| Seagate ST3500418AS 500GB           | 1        | 1%      |
+| Seagate ST3250312AS 250GB           | 1        | 1%      |
+| Seagate ST31000524AS 1TB            | 1        | 1%      |
+| Seagate ST2000LM003 HN-M201RAD 2TB  | 1        | 1%      |
+| Seagate ST1500DL003-9VT16L 1TB      | 1        | 1%      |
+| Seagate ST1000DM003-9YN162 1TB      | 1        | 1%      |
+| Seagate ST1000DM003-1CH162 1TB      | 1        | 1%      |
+| Seagate ST1000DL002-9TT153 1TB      | 1        | 1%      |
+| SanDisk SSD PLUS 240GB              | 1        | 1%      |
+| SanDisk SSD PLUS 120GB              | 1        | 1%      |
+| SanDisk SDSSDHP128G 128GB           | 1        | 1%      |
+| SanDisk SDSSDH3 500G                | 1        | 1%      |
+| SanDisk SDSSDA240G 240GB            | 1        | 1%      |
+| SanDisk SDSSDA120G 120GB            | 1        | 1%      |
+| SanDisk SD7SB6S-256G-1006 256GB SSD | 1        | 1%      |
+| Samsung SSD 860 EVO 500GB           | 1        | 1%      |
+| Samsung SSD 850 PRO 256GB           | 1        | 1%      |
+| Samsung SSD 850 EVO 500GB           | 1        | 1%      |
+| Samsung SSD 850 EVO 120GB           | 1        | 1%      |
+| Samsung HD502HJ 500GB               | 1        | 1%      |
+| Samsung HD250HJ 250GB               | 1        | 1%      |
+| Realtek NVMe SSD Drive 256GB        | 1        | 1%      |
+| Phison ESO256GMFCH-E3C-2 256GB      | 1        | 1%      |
 
 HDD Vendor
 ----------
@@ -989,7 +1029,7 @@ Hard disk drive vendors
 | MAXTOR              | 2        | 4      | 4.44%   |
 | Unknown             | 1        | 2      | 2.22%   |
 | Maxtor 6            | 1        | 1      | 2.22%   |
-| Hewlett-Packard     | 1        | 1      | 2.22%   |
+| Hewlett-Packard     | 1        | 2      | 2.22%   |
 
 SSD Vendor
 ----------
@@ -1001,20 +1041,21 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SanDisk             | 7        | 12     | 18.92%  |
-| Kingston            | 5        | 9      | 13.51%  |
-| Samsung Electronics | 4        | 5      | 10.81%  |
-| China               | 4        | 4      | 10.81%  |
-| WDC                 | 3        | 3      | 8.11%   |
-| Crucial             | 3        | 4      | 8.11%   |
-| A-DATA Technology   | 3        | 4      | 8.11%   |
-| SPCC                | 2        | 2      | 5.41%   |
-| Vaseky              | 1        | 1      | 2.7%    |
-| KingDian            | 1        | 1      | 2.7%    |
-| KINGBANK            | 1        | 1      | 2.7%    |
-| Intenso             | 1        | 2      | 2.7%    |
-| Hewlett-Packard     | 1        | 1      | 2.7%    |
-| Apacer              | 1        | 3      | 2.7%    |
+| SanDisk             | 7        | 12     | 18.42%  |
+| Kingston            | 5        | 9      | 13.16%  |
+| Samsung Electronics | 4        | 5      | 10.53%  |
+| China               | 4        | 4      | 10.53%  |
+| WDC                 | 3        | 3      | 7.89%   |
+| Crucial             | 3        | 4      | 7.89%   |
+| A-DATA Technology   | 3        | 4      | 7.89%   |
+| SPCC                | 2        | 2      | 5.26%   |
+| Vaseky              | 1        | 1      | 2.63%   |
+| KingDian            | 1        | 1      | 2.63%   |
+| KINGBANK            | 1        | 1      | 2.63%   |
+| JMicron             | 1        | 1      | 2.63%   |
+| Intenso             | 1        | 2      | 2.63%   |
+| Hewlett-Packard     | 1        | 1      | 2.63%   |
+| Apacer              | 1        | 3      | 2.63%   |
 
 Drive Kind
 ----------
@@ -1026,10 +1067,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 35       | 57     | 46.05%  |
-| SSD     | 30       | 52     | 39.47%  |
-| NVMe    | 10       | 10     | 13.16%  |
-| Unknown | 1        | 2      | 1.32%   |
+| HDD     | 35       | 58     | 46.67%  |
+| SSD     | 30       | 53     | 40%     |
+| NVMe    | 9        | 9      | 12%     |
+| Unknown | 1        | 2      | 1.33%   |
 
 Drive Connector
 ---------------
@@ -1041,7 +1082,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 49       | 105    | 79.03%  |
+| SATA | 49       | 106    | 79.03%  |
 | NVMe | 9        | 9      | 14.52%  |
 | SAS  | 4        | 7      | 6.45%   |
 
@@ -1055,9 +1096,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 71     | 55.88%  |
-| 0.51-1.0   | 25       | 32     | 36.76%  |
-| 1.01-2.0   | 5        | 6      | 7.35%   |
+| 0.01-0.5   | 38       | 71     | 55.07%  |
+| 0.51-1.0   | 25       | 32     | 36.23%  |
+| 1.01-2.0   | 6        | 8      | 8.7%    |
 
 Space Total
 -----------
@@ -1189,7 +1230,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 29       | 68     | 47.54%  |
+| Detected | 29       | 69     | 47.54%  |
 | Works    | 26       | 46     | 42.62%  |
 | Malfunc  | 5        | 6      | 8.2%    |
 | Failed   | 1        | 1      | 1.64%   |
@@ -1267,10 +1308,10 @@ Storage controller models
 | Intel 4 Series Chipset PT IDER Controller                                               | 1        | 1.27%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 1        | 1.27%   |
 | Beijing Starblaze STAR1200C NVMe SSD                                                    | 1        | 1.27%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 1        | 1.27%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 1        | 1.27%   |
 | AMD FCH SATA Controller D                                                               | 1        | 1.27%   |
 | AMD FCH IDE Controller                                                                  | 1        | 1.27%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 1        | 1.27%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 1        | 1.27%   |
 | AMD 300 Series Chipset SATA Controller                                                  | 1        | 1.27%   |
 
@@ -1660,7 +1701,7 @@ Monitor models
 | ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch              | 1        | 1.72%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch              | 1        | 1.72%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 1.72%   |
-| Toshiba TV TSB0108 1920x1080 700x390mm 31.5-inch                        | 1        | 1.72%   |
+| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                         | 1        | 1.72%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                        | 1        | 1.72%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch    | 1        | 1.72%   |
 | Samsung Electronics SyncMaster SAM0601 1600x900                         | 1        | 1.72%   |
@@ -1678,28 +1719,28 @@ Monitor models
 | Samsung Electronics LCD Monitor S24E310                                 | 1        | 1.72%   |
 | RTK FHD HDR RTKBC32 1920x1080 597x336mm 27.0-inch                       | 1        | 1.72%   |
 | Positivo FIT85X NON1801 1360x768 344x194mm 15.5-inch                    | 1        | 1.72%   |
+| Philips LCD Monitor PHLC0BF 1600x900 430x240mm 19.4-inch                | 1        | 1.72%   |
 | Philips FTV PHL04C2 1920x1080 1440x810mm 65.0-inch                      | 1        | 1.72%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                      | 1        | 1.72%   |
 | MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                       | 1        | 1.72%   |
 | Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch                 | 1        | 1.72%   |
 | Lenovo E1922s Wide LEN60BD 1366x768 410x230mm 18.5-inch                 | 1        | 1.72%   |
 | Iiyama PL2792Q IVM6630 2560x1440 600x340mm 27.2-inch                    | 1        | 1.72%   |
 | Iiyama PL2792Q IVM662F 2560x1440 597x336mm 27.0-inch                    | 1        | 1.72%   |
 | Hisense LCD Monitor HDMI 1360x768                                       | 1        | 1.72%   |
-| Hewlett-Packard VH240a HPN3499 1920x1080 530x300mm 24.0-inch            | 1        | 1.72%   |
+| Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch            | 1        | 1.72%   |
 | Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch        | 1        | 1.72%   |
 | Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch              | 1        | 1.72%   |
-| Hewlett-Packard 2311x HWP293A 1920x1080 510x287mm 23.0-inch             | 1        | 1.72%   |
+| Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch              | 1        | 1.72%   |
 | Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch              | 1        | 1.72%   |
 | Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                   | 1        | 1.72%   |
-| Goldstar LCD Monitor GSM5AB7 1920x1080 480x270mm 21.7-inch              | 1        | 1.72%   |
 | Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                   | 1        | 1.72%   |
+| Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch               | 1        | 1.72%   |
 | Goldstar E2360 GSM57E4 1920x1080 510x290mm 23.1-inch                    | 1        | 1.72%   |
-| Goldstar 2D HD TV GSM59CA 1366x768 509x286mm 23.0-inch                  | 1        | 1.72%   |
+| Goldstar 2D HD TV GSM59CA 1920x1080 521x293mm 23.5-inch                 | 1        | 1.72%   |
 | Goldstar 22MP55 GSM5A26 1920x1080 477x268mm 21.5-inch                   | 1        | 1.72%   |
 | Gateway HD2201 GWY08AF 1680x1050 465x261mm 21.0-inch                    | 1        | 1.72%   |
 | DTV STI DTV0030 1600x1200 708x398mm 32.0-inch                           | 1        | 1.72%   |
-| Dell P2314H DEL4099 1920x1080 510x290mm 23.1-inch                       | 1        | 1.72%   |
+| Dell P2314H DEL4099 1920x1080 509x286mm 23.0-inch                       | 1        | 1.72%   |
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                       | 1        | 1.72%   |
 | Dell 20 DELF112 1600x900 443x249mm 20.0-inch                            | 1        | 1.72%   |
 | BOE LCD Monitor BOE0691 1920x1080 280x160mm 12.7-inch                   | 1        | 1.72%   |
@@ -1710,7 +1751,7 @@ Monitor models
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                   | 1        | 1.72%   |
 | Ancor Communications LCD Monitor ASUS VS247                             | 1        | 1.72%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch   | 1        | 1.72%   |
-| Ancor Communications ASUS MX239 ACI23C2 1920x1080 528x310mm 24.1-inch   | 1        | 1.72%   |
+| Ancor Communications ASUS MX239 ACI23C2 1920x1080 530x310mm 24.2-inch   | 1        | 1.72%   |
 | Acer P193W ACRADAA 1440x900 408x255mm 18.9-inch                         | 1        | 1.72%   |
 | Acer K272HUL ACR0524 2560x1440 598x336mm 27.0-inch                      | 1        | 1.72%   |
 
@@ -1902,22 +1943,22 @@ Controller models
 | Broadcom NetLink BCM57781 Gigabit Ethernet PCIe                   | 2        | 2.78%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.39%   |
 | Unknown Network controller                                        | 1        | 1.39%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 1.39%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 1.39%   |
-| TP-Link TL WN823N RTL8192EU                                       | 1        | 1.39%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.39%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.39%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 1.39%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 1.39%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 1.39%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)         | 1        | 1.39%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 1.39%   |
-| Realtek 802.11n WLAN Adapter                                      | 1        | 1.39%   |
+| Realtek 802.11n                                                   | 1        | 1.39%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.39%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.39%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 1.39%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.39%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.39%   |
 | NetGear A6210                                                     | 1        | 1.39%   |
-| MediaTek Wiko U316AT                                              | 1        | 1.39%   |
+| MediaTek U FEEL                                                   | 1        | 1.39%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.39%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.39%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.39%   |
@@ -1959,15 +2000,15 @@ Wireless models
 
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 7.14%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 1        | 7.14%   |
-| TP-Link TL WN823N RTL8192EU                                | 1        | 7.14%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 7.14%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 7.14%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter            | 1        | 7.14%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                     | 1        | 7.14%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 7.14%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)  | 1        | 7.14%   |
 | Realtek RTL8188EE Wireless Network Adapter                 | 1        | 7.14%   |
-| Realtek 802.11n WLAN Adapter                               | 1        | 7.14%   |
+| Realtek 802.11n                                            | 1        | 7.14%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter     | 1        | 7.14%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter           | 1        | 7.14%   |
 | NetGear A6210                                              | 1        | 7.14%   |
@@ -2015,7 +2056,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.79%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.79%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.79%   |
-| MediaTek Wiko U316AT                                              | 1        | 1.79%   |
+| MediaTek U FEEL                                                   | 1        | 1.79%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.79%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.79%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.79%   |
@@ -2109,14 +2150,14 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)      | 10       | 66.67%  |
-| Realtek Bluetooth Radio                                  | 1        | 6.67%   |
-| Qualcomm Atheros Bluetooth USB Host Controller           | 1        | 6.67%   |
-| Intel Wireless-AC 3168 Bluetooth                         | 1        | 6.67%   |
-| Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 6.67%   |
-| ASUS Broadcom BCM20702A0 Bluetooth                       | 1        | 6.67%   |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 10       | 66.67%  |
+| Realtek Bluetooth Radio                             | 1        | 6.67%   |
+| Qualcomm Atheros Bluetooth USB Host Controller      | 1        | 6.67%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.67%   |
+| Dynex BCM20702A0                                    | 1        | 6.67%   |
+| ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 6.67%   |
 
 Sound
 -----
@@ -2239,14 +2280,14 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                   | 1        | 3.85%   |
 | Unknown RAM Module 2GB DIMM SDRAM                        | 1        | 3.85%   |
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s       | 1        | 3.85%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s      | 1        | 3.85%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s   | 1        | 3.85%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s       | 1        | 3.85%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 3.85%   |
 | Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s       | 1        | 3.85%   |
-| Kingston RAM KTW149-ELF 1024MB DIMM DDR3 1333MT/s        | 1        | 3.85%   |
+| Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s           | 1        | 3.85%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3200MT/s        | 1        | 3.85%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s        | 1        | 3.85%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s      | 1        | 3.85%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s      | 1        | 3.85%   |
+| Kingston RAM KHX1866C10D3/8G 8192MB DIMM DDR3 1867MT/s   | 1        | 3.85%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s      | 1        | 3.85%   |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s | 1        | 3.85%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.85%   |

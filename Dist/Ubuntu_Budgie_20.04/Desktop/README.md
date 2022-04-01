@@ -155,8 +155,11 @@ Contents
 Test Cases
 ----------
 
+Total: 103
+
 | Vendor    | Model                       | Probe                                                      | Date         |
 |-----------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte  | 970A-DS3P                   | [eaae14de4f](https://linux-hardware.org/?probe=eaae14de4f) | Mar 05, 2022 |
 | ASUSTek   | ROG STRIX B550-E GAMING     | [7fa418eb00](https://linux-hardware.org/?probe=7fa418eb00) | Feb 25, 2022 |
 | ASUSTek   | M4A87TD/USB3                | [88768afd55](https://linux-hardware.org/?probe=88768afd55) | Feb 10, 2022 |
 | ASUSTek   | M4A87TD/USB3                | [74c94f396f](https://linux-hardware.org/?probe=74c94f396f) | Feb 10, 2022 |
@@ -273,47 +276,48 @@ Version of the Linux kernel
 
 | Version                 | Desktops | Percent |
 |-------------------------|----------|---------|
-| 5.4.0-42-generic        | 7        | 10%     |
-| 5.4.0-52-generic        | 4        | 5.71%   |
-| 5.4.0-48-generic        | 4        | 5.71%   |
-| 5.4.0-45-generic        | 4        | 5.71%   |
-| 5.4.0-37-generic        | 4        | 5.71%   |
-| 5.4.0-29-generic        | 4        | 5.71%   |
-| 5.4.0-47-generic        | 3        | 4.29%   |
-| 5.8.0-59-generic        | 2        | 2.86%   |
-| 5.4.0-91-generic        | 2        | 2.86%   |
-| 5.4.0-72-generic        | 2        | 2.86%   |
-| 5.4.0-65-generic        | 2        | 2.86%   |
-| 5.4.0-59-generic        | 2        | 2.86%   |
-| 5.4.0-40-generic        | 2        | 2.86%   |
-| 5.9.1-050901-generic    | 1        | 1.43%   |
-| 5.8.0-59-lowlatency     | 1        | 1.43%   |
-| 5.8.0-45-generic        | 1        | 1.43%   |
-| 5.8.0-44-generic        | 1        | 1.43%   |
-| 5.8.0-43-generic        | 1        | 1.43%   |
-| 5.7.7-xanmod1           | 1        | 1.43%   |
-| 5.5.8-050508-lowlatency | 1        | 1.43%   |
-| 5.4.0-96-generic        | 1        | 1.43%   |
-| 5.4.0-80-generic        | 1        | 1.43%   |
-| 5.4.0-70-generic        | 1        | 1.43%   |
-| 5.4.0-67-generic        | 1        | 1.43%   |
-| 5.4.0-66-generic        | 1        | 1.43%   |
-| 5.4.0-58-generic        | 1        | 1.43%   |
-| 5.4.0-44-generic        | 1        | 1.43%   |
-| 5.4.0-39-generic        | 1        | 1.43%   |
-| 5.4.0-31-generic        | 1        | 1.43%   |
-| 5.4.0-29-lowlatency     | 1        | 1.43%   |
-| 5.4.0-28-generic        | 1        | 1.43%   |
-| 5.4.0-26-generic        | 1        | 1.43%   |
-| 5.4.0-24-generic        | 1        | 1.43%   |
-| 5.4.0-18-generic        | 1        | 1.43%   |
-| 5.4.0-16-generic        | 1        | 1.43%   |
-| 5.4.0-14-generic        | 1        | 1.43%   |
-| 5.13.0-30-generic       | 1        | 1.43%   |
-| 5.11.0-46-generic       | 1        | 1.43%   |
-| 5.11.0-41-generic       | 1        | 1.43%   |
-| 5.11.0-38-generic       | 1        | 1.43%   |
-| 5.11.0-37-generic       | 1        | 1.43%   |
+| 5.4.0-42-generic        | 7        | 9.86%   |
+| 5.4.0-52-generic        | 4        | 5.63%   |
+| 5.4.0-48-generic        | 4        | 5.63%   |
+| 5.4.0-45-generic        | 4        | 5.63%   |
+| 5.4.0-37-generic        | 4        | 5.63%   |
+| 5.4.0-29-generic        | 4        | 5.63%   |
+| 5.4.0-47-generic        | 3        | 4.23%   |
+| 5.8.0-59-generic        | 2        | 2.82%   |
+| 5.4.0-91-generic        | 2        | 2.82%   |
+| 5.4.0-72-generic        | 2        | 2.82%   |
+| 5.4.0-65-generic        | 2        | 2.82%   |
+| 5.4.0-59-generic        | 2        | 2.82%   |
+| 5.4.0-40-generic        | 2        | 2.82%   |
+| 5.9.1-050901-generic    | 1        | 1.41%   |
+| 5.8.0-59-lowlatency     | 1        | 1.41%   |
+| 5.8.0-45-generic        | 1        | 1.41%   |
+| 5.8.0-44-generic        | 1        | 1.41%   |
+| 5.8.0-43-generic        | 1        | 1.41%   |
+| 5.7.7-xanmod1           | 1        | 1.41%   |
+| 5.5.8-050508-lowlatency | 1        | 1.41%   |
+| 5.4.0-96-generic        | 1        | 1.41%   |
+| 5.4.0-80-generic        | 1        | 1.41%   |
+| 5.4.0-70-generic        | 1        | 1.41%   |
+| 5.4.0-67-generic        | 1        | 1.41%   |
+| 5.4.0-66-generic        | 1        | 1.41%   |
+| 5.4.0-58-generic        | 1        | 1.41%   |
+| 5.4.0-44-generic        | 1        | 1.41%   |
+| 5.4.0-39-generic        | 1        | 1.41%   |
+| 5.4.0-31-generic        | 1        | 1.41%   |
+| 5.4.0-29-lowlatency     | 1        | 1.41%   |
+| 5.4.0-28-generic        | 1        | 1.41%   |
+| 5.4.0-26-generic        | 1        | 1.41%   |
+| 5.4.0-24-generic        | 1        | 1.41%   |
+| 5.4.0-18-generic        | 1        | 1.41%   |
+| 5.4.0-16-generic        | 1        | 1.41%   |
+| 5.4.0-14-generic        | 1        | 1.41%   |
+| 5.4.0-102-generic       | 1        | 1.41%   |
+| 5.13.0-30-generic       | 1        | 1.41%   |
+| 5.11.0-46-generic       | 1        | 1.41%   |
+| 5.11.0-41-generic       | 1        | 1.41%   |
+| 5.11.0-38-generic       | 1        | 1.41%   |
+| 5.11.0-37-generic       | 1        | 1.41%   |
 
 Kernel Family
 -------------
@@ -780,8 +784,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 31       | 50.82%  |
-| No        | 30       | 49.18%  |
+| No        | 31       | 50.82%  |
+| Yes       | 30       | 49.18%  |
 
 Has Ethernet
 ------------
@@ -944,9 +948,9 @@ Hard drive vendors
 | Vendor                    | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
 | WDC                       | 23       | 38     | 18.55%  |
-| Seagate                   | 19       | 32     | 15.32%  |
+| Seagate                   | 19       | 35     | 15.32%  |
 | Samsung Electronics       | 19       | 26     | 15.32%  |
-| Kingston                  | 10       | 15     | 8.06%   |
+| Kingston                  | 10       | 16     | 8.06%   |
 | SanDisk                   | 7        | 10     | 5.65%   |
 | Toshiba                   | 6        | 6      | 4.84%   |
 | Phison                    | 6        | 9      | 4.84%   |
@@ -1029,7 +1033,7 @@ Hard drive models
 | WDC WD10EZEX-22BN5A0 1TB            | 1        | 0.66%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 0.66%   |
 | WDC WD1003FZEX-00K3CA0 1TB          | 1        | 0.66%   |
-| Unknown SD/MMC/MS PRO 64GB          | 1        | 0.66%   |
+| Unknown SD/MMC/MS PRO 32GB          | 1        | 0.66%   |
 | Unknown SD/MMC 16GB                 | 1        | 0.66%   |
 | Unknown M.S./M.S.Pro/HG 16GB        | 1        | 0.66%   |
 | Transcend TS256GSSD370 256GB        | 1        | 0.66%   |
@@ -1056,7 +1060,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 20       | 34     | 35.71%  |
-| Seagate             | 19       | 32     | 33.93%  |
+| Seagate             | 19       | 35     | 33.93%  |
 | Toshiba             | 6        | 6      | 10.71%  |
 | Hitachi             | 3        | 3      | 5.36%   |
 | HGST                | 3        | 4      | 5.36%   |
@@ -1075,22 +1079,23 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 11       | 13     | 24.44%  |
-| Kingston            | 10       | 15     | 22.22%  |
-| SanDisk             | 6        | 9      | 13.33%  |
-| WDC                 | 4        | 4      | 8.89%   |
-| Crucial             | 2        | 3      | 4.44%   |
-| A-DATA Technology   | 2        | 2      | 4.44%   |
-| Transcend           | 1        | 1      | 2.22%   |
-| PNY                 | 1        | 1      | 2.22%   |
-| PLEXTOR             | 1        | 1      | 2.22%   |
-| Netac               | 1        | 1      | 2.22%   |
-| KingDian            | 1        | 1      | 2.22%   |
-| Intel               | 1        | 1      | 2.22%   |
-| China               | 1        | 1      | 2.22%   |
-| Axiom               | 1        | 1      | 2.22%   |
-| Apacer              | 1        | 1      | 2.22%   |
-| AMD                 | 1        | 8      | 2.22%   |
+| Samsung Electronics | 11       | 13     | 23.91%  |
+| Kingston            | 10       | 16     | 21.74%  |
+| SanDisk             | 6        | 9      | 13.04%  |
+| WDC                 | 4        | 4      | 8.7%    |
+| Crucial             | 2        | 3      | 4.35%   |
+| A-DATA Technology   | 2        | 2      | 4.35%   |
+| Transcend           | 1        | 1      | 2.17%   |
+| PNY                 | 1        | 1      | 2.17%   |
+| PLEXTOR             | 1        | 1      | 2.17%   |
+| Netac               | 1        | 1      | 2.17%   |
+| KingDian            | 1        | 1      | 2.17%   |
+| JMicron             | 1        | 1      | 2.17%   |
+| Intel               | 1        | 1      | 2.17%   |
+| China               | 1        | 1      | 2.17%   |
+| Axiom               | 1        | 1      | 2.17%   |
+| Apacer              | 1        | 1      | 2.17%   |
+| AMD                 | 1        | 8      | 2.17%   |
 
 Drive Kind
 ----------
@@ -1102,10 +1107,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 45       | 87     | 44.12%  |
-| SSD     | 34       | 63     | 33.33%  |
-| NVMe    | 19       | 28     | 18.63%  |
-| Unknown | 4        | 5      | 3.92%   |
+| HDD     | 45       | 90     | 43.69%  |
+| SSD     | 35       | 65     | 33.98%  |
+| NVMe    | 19       | 27     | 18.45%  |
+| Unknown | 4        | 5      | 3.88%   |
 
 Drive Connector
 ---------------
@@ -1117,7 +1122,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 56       | 151    | 71.79%  |
+| SATA | 56       | 155    | 71.79%  |
 | NVMe | 19       | 27     | 24.36%  |
 | SAS  | 3        | 5      | 3.85%   |
 
@@ -1131,11 +1136,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 43       | 85     | 51.19%  |
-| 0.51-1.0   | 21       | 32     | 25%     |
-| 1.01-2.0   | 11       | 19     | 13.1%   |
-| 3.01-4.0   | 6        | 10     | 7.14%   |
-| 4.01-10.0  | 3        | 4      | 3.57%   |
+| 0.01-0.5   | 43       | 86     | 50.59%  |
+| 0.51-1.0   | 21       | 32     | 24.71%  |
+| 1.01-2.0   | 12       | 23     | 14.12%  |
+| 3.01-4.0   | 6        | 10     | 7.06%   |
+| 4.01-10.0  | 3        | 4      | 3.53%   |
 
 Space Total
 -----------
@@ -1147,15 +1152,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 251-500        | 17       | 26.56%  |
-| 101-250        | 16       | 25%     |
-| 501-1000       | 9        | 14.06%  |
-| More than 3000 | 8        | 12.5%   |
-| 1001-2000      | 5        | 7.81%   |
-| 2001-3000      | 3        | 4.69%   |
-| 21-50          | 2        | 3.13%   |
-| 1-20           | 2        | 3.13%   |
-| Unknown        | 2        | 3.13%   |
+| 251-500        | 17       | 26.15%  |
+| 101-250        | 17       | 26.15%  |
+| 501-1000       | 9        | 13.85%  |
+| More than 3000 | 8        | 12.31%  |
+| 1001-2000      | 5        | 7.69%   |
+| 2001-3000      | 3        | 4.62%   |
+| 21-50          | 2        | 3.08%   |
+| 1-20           | 2        | 3.08%   |
+| Unknown        | 2        | 3.08%   |
 
 Space Used
 ----------
@@ -1268,7 +1273,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 43       | 117    | 61.43%  |
+| Detected | 43       | 121    | 61.43%  |
 | Works    | 17       | 50     | 24.29%  |
 | Malfunc  | 10       | 16     | 14.29%  |
 
@@ -1318,7 +1323,7 @@ Storage controller models
 | Phison E16 PCIe4 NVMe Controller                                                        | 4        | 3.39%   |
 | Intel SATA Controller [RAID mode]                                                       | 4        | 3.39%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 4        | 3.39%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 4        | 3.39%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 4        | 3.39%   |
 | Phison E12 NVMe Controller                                                              | 3        | 2.54%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 3        | 2.54%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 3        | 2.54%   |
@@ -1377,11 +1382,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 48       | 54.55%  |
-| NVMe | 19       | 21.59%  |
-| IDE  | 14       | 15.91%  |
-| RAID | 6        | 6.82%   |
-| SAS  | 1        | 1.14%   |
+| SATA | 48       | 55.17%  |
+| NVMe | 19       | 21.84%  |
+| IDE  | 13       | 14.94%  |
+| RAID | 6        | 6.9%    |
+| SAS  | 1        | 1.15%   |
 
 Processor
 ---------
@@ -1785,11 +1790,11 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0587 1920x1200 518x324mm 24.1-inch    | 1        | 1.35%   |
 | Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch    | 1        | 1.35%   |
 | Samsung Electronics S34J55x SAM0F72 3440x1440 800x330mm 34.1-inch       | 1        | 1.35%   |
-| Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch       | 1        | 1.35%   |
+| Samsung Electronics S27F350 SAM0D22 1920x1080 600x340mm 27.2-inch       | 1        | 1.35%   |
 | Samsung Electronics S24C650 SAM09E9 1920x1080 521x293mm 23.5-inch       | 1        | 1.35%   |
 | Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch       | 1        | 1.35%   |
 | Samsung Electronics S24B300 SAM08B4 1920x1080 521x293mm 23.5-inch       | 1        | 1.35%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch   | 1        | 1.35%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch   | 1        | 1.35%   |
 | Samsung Electronics LCD Monitor SAM06CA 1920x1080 1110x620mm 50.1-inch  | 1        | 1.35%   |
 | Samsung Electronics LCD Monitor S24E310 3840x1080                       | 1        | 1.35%   |
 | Samsung Electronics LCD Monitor S24E310                                 | 1        | 1.35%   |
@@ -1809,11 +1814,11 @@ Monitor models
 | Idek Iiyama LCD Monitor X2485 1920x1200                                 | 1        | 1.35%   |
 | Idek Iiyama LCD Monitor PL2730H 1920x1080                               | 1        | 1.35%   |
 | Hewlett-Packard LCD Monitor LP3065 2560x1600                            | 1        | 1.35%   |
-| Hewlett-Packard L1940T HWP2682 1280x1024 376x301mm 19.0-inch            | 1        | 1.35%   |
+| Hewlett-Packard L1940T HWP2682 1280x1024 338x270mm 17.0-inch            | 1        | 1.35%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.35%   |
-| Goldstar LG HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                | 1        | 1.35%   |
+| Goldstar LG HDR WFHD GSM7714 2560x1080 800x340mm 34.2-inch              | 1        | 1.35%   |
 | Goldstar L1919S GSM4AF0 1280x1024 376x301mm 19.0-inch                   | 1        | 1.35%   |
-| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 1        | 1.35%   |
+| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                   | 1        | 1.35%   |
 | Goldstar HD GSM5ACD 1366x768 410x230mm 18.5-inch                        | 1        | 1.35%   |
 | Goldstar 25UM58G GSM5B98 2560x1080 673x284mm 28.8-inch                  | 1        | 1.35%   |
 | Eizo LCD Monitor L767 2560x1024                                         | 1        | 1.35%   |
@@ -1828,9 +1833,9 @@ Monitor models
 | Dell 2405FPW DELA00F 1920x1200 519x324mm 24.1-inch                      | 1        | 1.35%   |
 | Dell 1908FP DEL4026 1280x1024 376x301mm 19.0-inch                       | 1        | 1.35%   |
 | Dell 1708FP DEL4024 1280x1024 338x270mm 17.0-inch                       | 1        | 1.35%   |
-| Daewoo LM1810W DWE1810 1360x768 340x190mm 15.3-inch                     | 1        | 1.35%   |
+| Daewoo HDMI DWE1810 1366x768 340x190mm 15.3-inch                        | 1        | 1.35%   |
 | BenQ GL2760 BNQ78D5 1920x1080 598x336mm 27.0-inch                       | 1        | 1.35%   |
-| BenQ GL2450H BNQ78A7 1920x1080 530x300mm 24.0-inch                      | 1        | 1.35%   |
+| BenQ GL2450H BNQ78A7 1920x1080 531x298mm 24.0-inch                      | 1        | 1.35%   |
 | BenQ GL2230 BNQ7874 1920x1080 480x270mm 21.7-inch                       | 1        | 1.35%   |
 | ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch            | 1        | 1.35%   |
 
@@ -1849,11 +1854,11 @@ Monitor screen resolution
 | Unknown            | 6        | 8.7%    |
 | 2560x1080          | 5        | 7.25%   |
 | 1280x1024 (SXGA)   | 5        | 7.25%   |
+| 1366x768 (WXGA)    | 4        | 5.8%    |
 | 3840x1080          | 3        | 4.35%   |
 | 3440x1440          | 3        | 4.35%   |
 | 1920x1200 (WUXGA)  | 3        | 4.35%   |
 | 1680x1050 (WSXGA+) | 3        | 4.35%   |
-| 1366x768 (WXGA)    | 3        | 4.35%   |
 | 2560x1440 (QHD)    | 2        | 2.9%    |
 | 3520x1080          | 1        | 1.45%   |
 | 2646x768           | 1        | 1.45%   |
@@ -1863,7 +1868,6 @@ Monitor screen resolution
 | 2048x1152          | 1        | 1.45%   |
 | 1600x1200          | 1        | 1.45%   |
 | 1400x1050          | 1        | 1.45%   |
-| 1360x768           | 1        | 1.45%   |
 | 1280x720 (HD)      | 1        | 1.45%   |
 
 Monitor Diagonal
@@ -2268,8 +2272,8 @@ Controller models
 |-------------------------------------------------------|----------|---------|
 | Intel AX200 Bluetooth                                 | 7        | 25%     |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 7        | 25%     |
-| Intel Wireless-AC 9260 Bluetooth Adapter              | 3        | 10.71%  |
-| Intel Bluetooth Device                                | 2        | 7.14%   |
+| Intel Bluetooth Device                                | 3        | 10.71%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 2        | 7.14%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 2        | 7.14%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 1        | 3.57%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 1        | 3.57%   |
@@ -2422,25 +2426,25 @@ Memory module models
 | Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 3007MT/s    | 1        | 3.13%   |
 | SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s          | 1        | 3.13%   |
 | SK Hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
-| Sesame RAM S939A2UGS-ITR 8GB DIMM DDR3 1600MT/s          | 1        | 3.13%   |
+| Sesame RAM S939A2UGS-ITR 8192MB DIMM DDR3 1600MT/s       | 1        | 3.13%   |
 | Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s   | 1        | 3.13%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s   | 1        | 3.13%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2              | 1        | 3.13%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 3.13%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 667MT/s      | 1        | 3.13%   |
 | Kingston RAM KHX2133C11D3/4GX 4096MB DIMM DDR3 2134MT/s  | 1        | 3.13%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s      | 1        | 3.13%   |
 | Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1600MT/s        | 1        | 3.13%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.13%   |
-| Kingston RAM 99U5403-159.A01LF 8192MB DIMM DDR3 1333MT/s | 1        | 3.13%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s    | 1        | 3.13%   |
 | Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 3.13%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 2933MT/s      | 1        | 3.13%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s      | 1        | 3.13%   |
 | G.Skill RAM F4-3200C16-8GVK 8192MB DIMM DDR4 3200MT/s    | 1        | 3.13%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s      | 1        | 3.13%   |
 | G.Skill RAM F3-1600C11-4GNT 4GB DIMM DDR3 1600MT/s       | 1        | 3.13%   |
 | Crucial RAM CT4G4DFS824A.M8FB 4GB DIMM DDR4 2400MT/s     | 1        | 3.13%   |
 | Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s    | 1        | 3.13%   |
 | Crucial RAM BLT8G3D1608DT1TX0. 8GB DIMM DDR3 1600MT/s    | 1        | 3.13%   |
-| Crucial RAM BLS4G4D240FSB.8FBD 4096MB DIMM DDR4 2400MT/s | 1        | 3.13%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s    | 1        | 3.13%   |
+| Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s    | 1        | 3.13%   |
+| Corsair RAM CMK16GX4M2D3600C18 8192MB DIMM DDR4 3600MT/s | 1        | 3.13%   |
 | Corsair RAM CMD16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 3.13%   |
 | A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s              | 1        | 3.13%   |
 
@@ -2592,7 +2596,7 @@ Camera device models
 |------------------------------------------|----------|---------|
 | Logitech Webcam C270                     | 2        | 13.33%  |
 | Logitech Webcam B500                     | 2        | 13.33%  |
-| Sunplus Full HD webcam                   | 1        | 6.67%   |
+| Sunplus HD 720P webcam                   | 1        | 6.67%   |
 | Realtek Web Camera                       | 1        | 6.67%   |
 | OPPO Reno4 5G                            | 1        | 6.67%   |
 | Microsoft LifeCam HD-3000                | 1        | 6.67%   |

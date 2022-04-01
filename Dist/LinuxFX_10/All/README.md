@@ -157,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 90
+
 | Vendor     | Model                       | Form-Factor | Probe                                                      | Date         |
 |------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
 | ASRock     | 970 Extreme4                | Desktop     | [a30d1aa4b9](https://linux-hardware.org/?probe=a30d1aa4b9) | Dec 29, 2021 |
@@ -862,7 +864,7 @@ Geographic location (city)
 | Taboao da Serra       | 1         | 1.56%   |
 | Sydney                | 1         | 1.56%   |
 | Stockholm             | 1         | 1.56%   |
-| SÃ£o Paulo          | 1         | 1.56%   |
+| Sao Paulo             | 1         | 1.56%   |
 | Sao Bernardo          | 1         | 1.56%   |
 | Salerno               | 1         | 1.56%   |
 | Saladas               | 1         | 1.56%   |
@@ -960,7 +962,7 @@ Hard drive models
 | WDC WD10EZEX-08WN4A0 1TB             | 2         | 2.2%    |
 | Toshiba MQ01ABF050 500GB             | 2         | 2.2%    |
 | Kingston SV300S37A120G 120GB SSD     | 2         | 2.2%    |
-| XPG GAMMIX S11 Pro 1TB               | 1         | 1.1%    |
+| XPG GAMMIX S11 Pro 256GB             | 1         | 1.1%    |
 | WDC WD5000LPVX-22V0TT0 500GB         | 1         | 1.1%    |
 | WDC WD5000LPVT-24G33T1 500GB         | 1         | 1.1%    |
 | WDC WD5000AAKX-001CA0 500GB          | 1         | 1.1%    |
@@ -984,7 +986,7 @@ Hard drive models
 | Toshiba MQ01ABD050 500GB             | 1         | 1.1%    |
 | Toshiba MK5059GSXP 500GB             | 1         | 1.1%    |
 | Toshiba MK2561GSYN 250GB             | 1         | 1.1%    |
-| TO Exter nal USB 3.0 2TB             | 1         | 1.1%    |
+| TO Exter nal USB 3.0 1TB             | 1         | 1.1%    |
 | Seagate ST9320325AS 320GB            | 1         | 1.1%    |
 | Seagate ST9160827AS 160GB            | 1         | 1.1%    |
 | Seagate ST9160821AS 160GB            | 1         | 1.1%    |
@@ -1002,7 +1004,7 @@ Hard drive models
 | Seagate ST31500341AS 1TB             | 1         | 1.1%    |
 | Seagate ST250DM000-1BD141 250GB      | 1         | 1.1%    |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 1.1%    |
-| Seagate Expansion Desk 8TB           | 1         | 1.1%    |
+| Seagate Expansion Desk 4TB           | 1         | 1.1%    |
 | SanDisk SSD PLUS 1000GB              | 1         | 1.1%    |
 | SanDisk SD9SN8W256G1002 256GB SSD    | 1         | 1.1%    |
 | Sandisk NVMe SSD Drive 500GB         | 1         | 1.1%    |
@@ -1104,10 +1106,9 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 55        | 71     | 76.39%  |
-| 0.51-1.0   | 11        | 13     | 15.28%  |
-| 1.01-2.0   | 3         | 4      | 4.17%   |
-| 3.01-4.0   | 2         | 2      | 2.78%   |
-| 4.01-10.0  | 1         | 1      | 1.39%   |
+| 0.51-1.0   | 12        | 14     | 16.67%  |
+| 3.01-4.0   | 3         | 3      | 4.17%   |
+| 1.01-2.0   | 2         | 3      | 2.78%   |
 
 Space Total
 -----------
@@ -1755,7 +1756,7 @@ Monitor models
 | Unknown LCD Monitor SHI LCD-TV 4640x1080                                 | 1         | 1.61%   |
 | Sony LCD Monitor AVSYSTEM                                                | 1         | 1.61%   |
 | Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch           | 1         | 1.61%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch        | 1         | 1.61%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch        | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch     | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch     | 1         | 1.61%   |
 | Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch       | 1         | 1.61%   |
@@ -1763,9 +1764,9 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 1.61%   |
-| Samsung Electronics LCD Monitor SDC4752 1366x768 340x190mm 15.3-inch     | 1         | 1.61%   |
+| Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 1.61%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                       | 1         | 1.61%   |
+| Philips LCD Monitor PHLC0BF 1600x900 430x240mm 19.4-inch                 | 1         | 1.61%   |
 | Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                       | 1         | 1.61%   |
 | NXP OptiPlex 9010 NXP1111 1920x1080 510x286mm 23.0-inch                  | 1         | 1.61%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 1.61%   |
@@ -1773,7 +1774,7 @@ Monitor models
 | LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch              | 1         | 1.61%   |
 | LG Display LCD Monitor LGD02EB 1366x768 309x174mm 14.0-inch              | 1         | 1.61%   |
 | LG Display LCD Monitor LGD0251 1366x768 310x174mm 14.0-inch              | 1         | 1.61%   |
-| Lenovo LEN T2454pA LEN60C9 1920x1200 527x296mm 23.8-inch                 | 1         | 1.61%   |
+| Lenovo LEN T2454pA LEN60C9 1920x1200 518x324mm 24.1-inch                 | 1         | 1.61%   |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch             | 1         | 1.61%   |
 | Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                     | 1         | 1.61%   |
 | Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                      | 1         | 1.61%   |
@@ -1798,7 +1799,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 1.61%   |
 | AU Optronics LCD Monitor AUO20EC 1366x768 344x193mm 15.5-inch            | 1         | 1.61%   |
 | Apple Color LCD APP9C6A 1680x1050 433x270mm 20.1-inch                    | 1         | 1.61%   |
-| Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch    | 1         | 1.61%   |
+| Ancor Communications ASUS VS228 ACI22FD 1920x1080 480x270mm 21.7-inch    | 1         | 1.61%   |
 | Acer V226WL ACR0339 1680x1050 474x296mm 22.0-inch                        | 1         | 1.61%   |
 | Acer LCD Monitor S230HL                                                  | 1         | 1.61%   |
 | Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                       | 1         | 1.61%   |
@@ -2005,13 +2006,13 @@ Controller models
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                     | 1         | 0.85%   |
 | Realtek RTL8723DE Wireless Network Adapter                                   | 1         | 0.85%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                         | 1         | 0.85%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                        | 1         | 0.85%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                          | 1         | 0.85%   |
 | Realtek RTL8188EE Wireless Network Adapter                                   | 1         | 0.85%   |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                     | 1         | 0.85%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                     | 1         | 0.85%   |
+| Realtek 802.11n                                                              | 1         | 0.85%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                    | 1         | 0.85%   |
-| Qualcomm FP3                                                                 | 1         | 0.85%   |
+| Qualcomm SDM710-QRD _SN:0BC14CBF                                             | 1         | 0.85%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                   | 1         | 0.85%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                        | 1         | 0.85%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                     | 1         | 0.85%   |
@@ -2053,19 +2054,20 @@ Wireless vendors
 ![Wireless Vendor](./images/pie_chart/net_wireless_vendor.svg)
 
 
-| Vendor                | Computers | Percent |
-|-----------------------|-----------|---------|
-| Qualcomm Atheros      | 15        | 29.41%  |
-| Intel                 | 11        | 21.57%  |
-| Realtek Semiconductor | 9         | 17.65%  |
-| Broadcom              | 7         | 13.73%  |
-| TP-Link               | 2         | 3.92%   |
-| Broadcom Limited      | 2         | 3.92%   |
-| Ralink                | 1         | 1.96%   |
-| NetGear               | 1         | 1.96%   |
-| D-Link                | 1         | 1.96%   |
-| CyberTAN Technology   | 1         | 1.96%   |
-| Accton Technology     | 1         | 1.96%   |
+| Vendor                            | Computers | Percent |
+|-----------------------------------|-----------|---------|
+| Qualcomm Atheros                  | 15        | 28.85%  |
+| Intel                             | 11        | 21.15%  |
+| Realtek Semiconductor             | 9         | 17.31%  |
+| Broadcom                          | 7         | 13.46%  |
+| TP-Link                           | 2         | 3.85%   |
+| Broadcom Limited                  | 2         | 3.85%   |
+| Ralink                            | 1         | 1.92%   |
+| NetGear                           | 1         | 1.92%   |
+| Ericsson Business Mobile Networks | 1         | 1.92%   |
+| D-Link                            | 1         | 1.92%   |
+| CyberTAN Technology               | 1         | 1.92%   |
+| Accton Technology                 | 1         | 1.92%   |
 
 Wireless Model
 --------------
@@ -2077,42 +2079,43 @@ Wireless models
 
 | Model                                                                        | Computers | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                   | 5         | 9.8%    |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                             | 4         | 7.84%   |
-| Broadcom BCM4312 802.11b/g LP-PHY                                            | 3         | 5.88%   |
-| Realtek 802.11ac NIC                                                         | 2         | 3.92%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)               | 2         | 3.92%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)      | 2         | 3.92%   |
-| Intel Wireless 7260                                                          | 2         | 3.92%   |
-| Intel Centrino Wireless-N 2230                                               | 2         | 3.92%   |
-| Broadcom BCM4311 802.11b/g WLAN                                              | 2         | 3.92%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                          | 1         | 1.96%   |
-| TP-Link Archer T4U ver.3                                                     | 1         | 1.96%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                     | 1         | 1.96%   |
-| Realtek RTL8723DE Wireless Network Adapter                                   | 1         | 1.96%   |
-| Realtek RTL8190 802.11n PCI Wireless Network Adapter                         | 1         | 1.96%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                        | 1         | 1.96%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                          | 1         | 1.96%   |
-| Realtek RTL8188EE Wireless Network Adapter                                   | 1         | 1.96%   |
-| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                     | 1         | 1.96%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                    | 1         | 1.96%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                   | 1         | 1.96%   |
-| Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                   | 1         | 1.96%   |
-| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                          | 1         | 1.96%   |
-| Intel Wireless 8260                                                          | 1         | 1.96%   |
-| Intel Wireless 7265                                                          | 1         | 1.96%   |
-| Intel Wireless 3165                                                          | 1         | 1.96%   |
-| Intel Comet Lake PCH CNVi WiFi                                               | 1         | 1.96%   |
-| Intel Centrino Ultimate-N 6300                                               | 1         | 1.96%   |
-| Intel Centrino Advanced-N 6235                                               | 1         | 1.96%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                 | 1         | 1.96%   |
-| D-Link DWA-125 Wireless N 150 Adapter(rev.A3) [Ralink RT5370]                | 1         | 1.96%   |
-| CyberTAN Siemens S30853-S1031-R351 802.11g Wireless Adapter [Atheros AR5523] | 1         | 1.96%   |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter                   | 1         | 1.96%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                                    | 1         | 1.96%   |
-| Broadcom BCM4321 802.11a/b/g/n                                               | 1         | 1.96%   |
-| Broadcom BCM43142 802.11b/g/n                                                | 1         | 1.96%   |
-| Accton WN7512BEP Wireless LAN adapter                                        | 1         | 1.96%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                   | 5         | 9.62%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                             | 4         | 7.69%   |
+| Broadcom BCM4312 802.11b/g LP-PHY                                            | 3         | 5.77%   |
+| Realtek 802.11ac NIC                                                         | 2         | 3.85%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)               | 2         | 3.85%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)      | 2         | 3.85%   |
+| Intel Wireless 7260                                                          | 2         | 3.85%   |
+| Intel Centrino Wireless-N 2230                                               | 2         | 3.85%   |
+| Broadcom BCM4311 802.11b/g WLAN                                              | 2         | 3.85%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                          | 1         | 1.92%   |
+| TP-Link Archer T4U ver.3                                                     | 1         | 1.92%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                     | 1         | 1.92%   |
+| Realtek RTL8723DE Wireless Network Adapter                                   | 1         | 1.92%   |
+| Realtek RTL8190 802.11n PCI Wireless Network Adapter                         | 1         | 1.92%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                          | 1         | 1.92%   |
+| Realtek RTL8188EE Wireless Network Adapter                                   | 1         | 1.92%   |
+| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                     | 1         | 1.92%   |
+| Realtek 802.11n                                                              | 1         | 1.92%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                    | 1         | 1.92%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                   | 1         | 1.92%   |
+| Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                   | 1         | 1.92%   |
+| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                          | 1         | 1.92%   |
+| Intel Wireless 8260                                                          | 1         | 1.92%   |
+| Intel Wireless 7265                                                          | 1         | 1.92%   |
+| Intel Wireless 3165                                                          | 1         | 1.92%   |
+| Intel Comet Lake PCH CNVi WiFi                                               | 1         | 1.92%   |
+| Intel Centrino Ultimate-N 6300                                               | 1         | 1.92%   |
+| Intel Centrino Advanced-N 6235                                               | 1         | 1.92%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                                 | 1         | 1.92%   |
+| Ericsson Business Mobile Networks N5321 gw                                   | 1         | 1.92%   |
+| D-Link DWA-125 Wireless N 150 Adapter(rev.A3) [Ralink RT5370]                | 1         | 1.92%   |
+| CyberTAN Siemens S30853-S1031-R351 802.11g Wireless Adapter [Atheros AR5523] | 1         | 1.92%   |
+| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter                   | 1         | 1.92%   |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                                    | 1         | 1.92%   |
+| Broadcom BCM4321 802.11a/b/g/n                                               | 1         | 1.92%   |
+| Broadcom BCM43142 802.11b/g/n                                                | 1         | 1.92%   |
+| Accton WN7512BEP Wireless LAN adapter                                        | 1         | 1.92%   |
 
 Ethernet Vendor
 ---------------
@@ -2154,7 +2157,7 @@ Ethernet models
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.52%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.52%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.52%   |
-| Qualcomm FP3                                                      | 1         | 1.52%   |
+| Qualcomm SDM710-QRD _SN:0BC14CBF                                  | 1         | 1.52%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.52%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.52%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 1.52%   |
@@ -2182,9 +2185,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 62        | 55.86%  |
-| WiFi     | 48        | 43.24%  |
-| Modem    | 1         | 0.9%    |
+| Ethernet | 62        | 56.36%  |
+| WiFi     | 48        | 43.64%  |
 
 Used Controller
 ---------------
@@ -2242,11 +2244,10 @@ Controller vendors
 | Vendor                          | Computers | Percent |
 |---------------------------------|-----------|---------|
 | Intel                           | 6         | 23.08%  |
+| Qualcomm Atheros Communications | 5         | 19.23%  |
 | Cambridge Silicon Radio         | 4         | 15.38%  |
-| Qualcomm Atheros Communications | 3         | 11.54%  |
 | Lite-On Technology              | 3         | 11.54%  |
 | Realtek Semiconductor           | 2         | 7.69%   |
-| Qualcomm Atheros                | 2         | 7.69%   |
 | Hewlett-Packard                 | 2         | 7.69%   |
 | Ralink Technology               | 1         | 3.85%   |
 | Integrated System Solution      | 1         | 3.85%   |
@@ -2264,16 +2265,15 @@ Controller models
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 4         | 15.38%  |
+| Intel Bluetooth wireless interface                          | 3         | 11.54%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 7.69%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 2         | 7.69%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 7.69%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 7.69%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 7.69%   |
-| Intel Bluetooth wireless interface                          | 2         | 7.69%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 3.85%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 3.85%   |
-| Lite-On Bluetooth Device                                    | 1         | 3.85%   |
-| Intel Bluetooth Device                                      | 1         | 3.85%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 3.85%   |
 | Intel AX201 Bluetooth                                       | 1         | 3.85%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter       | 1         | 3.85%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 3.85%   |
@@ -2399,14 +2399,14 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 800MT/s                    | 1         | 8.33%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                    | 1         | 8.33%   |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 1         | 8.33%   |
+| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1         | 8.33%   |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s      | 1         | 8.33%   |
 | Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s      | 1         | 8.33%   |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s   | 1         | 8.33%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 2933MT/s       | 1         | 8.33%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s       | 1         | 8.33%   |
 | Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s    | 1         | 8.33%   |
 | Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s     | 1         | 8.33%   |
-| Corsair RAM CML16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s  | 1         | 8.33%   |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 1         | 8.33%   |
 
 Memory Kind
 -----------

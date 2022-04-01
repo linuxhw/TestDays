@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 78
+
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
 | Acer     | Aspire 3820                 | [195bb81f89](https://linux-hardware.org/?probe=195bb81f89) | Dec 28, 2021 |
@@ -612,11 +614,11 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2013 | 7         | 13.46%  |
+| 2013 | 8         | 15.38%  |
 | 2011 | 7         | 13.46%  |
-| 2014 | 5         | 9.62%   |
 | 2010 | 5         | 9.62%   |
 | 2016 | 4         | 7.69%   |
+| 2014 | 4         | 7.69%   |
 | 2019 | 3         | 5.77%   |
 | 2018 | 3         | 5.77%   |
 | 2015 | 3         | 5.77%   |
@@ -834,7 +836,7 @@ Geographic location (city)
 | Tehran           | 1         | 1.85%   |
 | Sofia            | 1         | 1.85%   |
 | Shakhovskaya     | 1         | 1.85%   |
-| SÃ£o Paulo     | 1         | 1.85%   |
+| Sao Paulo        | 1         | 1.85%   |
 | Santiago         | 1         | 1.85%   |
 | Salt Lake City   | 1         | 1.85%   |
 | RzeszÃ³w       | 1         | 1.85%   |
@@ -920,7 +922,7 @@ Hard drive models
 |---------------------------------------------------|-----------|---------|
 | Kingston SA400S37240G 240GB SSD                   | 3         | 4.48%   |
 | Toshiba TR200 240GB SSD                           | 2         | 2.99%   |
-| StoreJet Transcend 256GB                          | 2         | 2.99%   |
+| StoreJet Transcend 960GB                          | 2         | 2.99%   |
 | Seagate BUP Slim 1TB                              | 2         | 2.99%   |
 | WDC WD7500BPKX-00HPJT0 752GB                      | 1         | 1.49%   |
 | WDC WD5000BEVT-80A0RT0 500GB                      | 1         | 1.49%   |
@@ -1061,8 +1063,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 50     | 77.36%  |
-| 0.51-1.0   | 12        | 12     | 22.64%  |
+| 0.01-0.5   | 39        | 48     | 73.58%  |
+| 0.51-1.0   | 14        | 14     | 26.42%  |
 
 Space Total
 -----------
@@ -1651,7 +1653,7 @@ Monitor models
 | Sharp LCD Monitor SHP144D 3840x2160 276x156mm 12.5-inch               | 1         | 1.59%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch | 1         | 1.59%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch     | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 256x144mm 11.6-inch  | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC4C42 1280x800 303x190mm 14.1-inch  | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch  | 1         | 1.59%   |
@@ -1661,19 +1663,19 @@ Monitor models
 | LG Philips LCD Monitor LPLC700 1280x800 331x207mm 15.4-inch           | 1         | 1.59%   |
 | LG Display LCD Monitor LGD6616 1366x768 277x156mm 12.5-inch           | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0525 1366x768 344x194mm 15.5-inch           | 1         | 1.59%   |
-| LG Display LCD Monitor LGD0456 1366x768 344x194mm 15.5-inch           | 1         | 1.59%   |
+| LG Display LCD Monitor LGD0456 1366x768 340x190mm 15.3-inch           | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0450 1366x768 277x156mm 12.5-inch           | 1         | 1.59%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch           | 1         | 1.59%   |
-| LG Display LCD Monitor LGD032C 1920x1080 340x190mm 15.3-inch          | 1         | 1.59%   |
+| LG Display LCD Monitor LGD032C 1920x1080 344x194mm 15.5-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02FC 1920x1080 380x210mm 17.1-inch          | 1         | 1.59%   |
-| LG Display LCD Monitor LGD02D9 1920x1080 345x194mm 15.6-inch          | 1         | 1.59%   |
+| LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02C5 1920x1080 382x215mm 17.3-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0290 1366x768 293x165mm 13.2-inch           | 1         | 1.59%   |
 | Lenovo T24i-10 LEN61A6 1920x1080 530x300mm 24.0-inch                  | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch               | 1         | 1.59%   |
-| Lenovo LCD Monitor LEN4000 1024x768 246x184mm 12.1-inch               | 1         | 1.59%   |
+| Lenovo LCD Monitor LEN4000 1024x768 246x185mm 12.1-inch               | 1         | 1.59%   |
 | Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch            | 1         | 1.59%   |
 | Goldstar W2252 GSM567E 1680x1050 474x296mm 22.0-inch                  | 1         | 1.59%   |
 | Goldstar L192WS GSM4B32 1440x900 410x256mm 19.0-inch                  | 1         | 1.59%   |
@@ -2136,11 +2138,10 @@ Controller vendors
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
 | Intel                           | 16        | 42.11%  |
-| Qualcomm Atheros Communications | 6         | 15.79%  |
+| Qualcomm Atheros Communications | 7         | 18.42%  |
 | Broadcom                        | 4         | 10.53%  |
 | Realtek Semiconductor           | 3         | 7.89%   |
 | Dell                            | 3         | 7.89%   |
-| Qualcomm Atheros                | 1         | 2.63%   |
 | Lite-On Technology              | 1         | 2.63%   |
 | IMC Networks                    | 1         | 2.63%   |
 | Foxconn / Hon Hai               | 1         | 2.63%   |
@@ -2157,24 +2158,26 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                                                  | 5         | 13.16%  |
-| Intel Bluetooth Device                                                              | 5         | 13.16%  |
-| Qualcomm Atheros  Bluetooth Device                                                  | 3         | 7.89%   |
-| Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 5.26%   |
+| Intel Bluetooth wireless interface                                                  | 7         | 18.42%  |
+| Realtek Bluetooth Radio                                                             | 2         | 5.26%   |
+| Qualcomm Atheros  Bluetooth Device                                                  | 2         | 5.26%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 5.26%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 5.26%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 2         | 5.26%   |
 | Intel AX200 Bluetooth                                                               | 2         | 5.26%   |
 | Dell DW375 Bluetooth Module                                                         | 2         | 5.26%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 2         | 5.26%   |
-| Realtek Bluetooth Radio                                                             | 1         | 2.63%   |
-| Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 2.63%   |
+| Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 2.63%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.63%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.63%   |
+| Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 2.63%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 2.63%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.63%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 1         | 2.63%   |
 | Intel AX201 Bluetooth                                                               | 1         | 2.63%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 2.63%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 2.63%   |
-| Dell BCM20702A0                                                                     | 1         | 2.63%   |
+| Dell BCM20702A0 Bluetooth Module                                                    | 1         | 2.63%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 1         | 2.63%   |
 | Broadcom BCM2045B (BDC-2) [Bluetooth Controller]                                    | 1         | 2.63%   |
 | ASUS BT-270 Bluetooth Adapter                                                       | 1         | 2.63%   |
@@ -2285,28 +2288,28 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM DRAM                        | 1         | 2.38%   |
 | Transcend RAM JM2666HSB-16G 16GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |
 | SK Hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s    | 1         | 2.38%   |
 | SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s      | 1         | 2.38%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 2.38%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 2.38%   |
 | Samsung RAM Module 4096MB SODIMM DDR4 2667MT/s               | 1         | 2.38%   |
 | Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 2.38%   |
 | Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                | 1         | 2.38%   |
-| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s        | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 2.38%   |
+| Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s     | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 1         | 2.38%   |
 | Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 2667MT/s        | 1         | 2.38%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
 | Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s     | 1         | 2.38%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s        | 1         | 2.38%   |
-| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s     | 1         | 2.38%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |
 | Samsung RAM K4E6E304EE-EGCE 4096MB SODIMM LPDDR3 1600MT/s    | 1         | 2.38%   |
 | Samsung RAM K4E6E304EB-EGCG 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.38%   |
 | Ramaxel RAM RMSA3260MB78HAF2400 8GB SODIMM DDR4 2400MT/s     | 1         | 2.38%   |
-| Micron RAM 8JSF25664HZ-1G4D1 2GB SODIMM DDR3 1334MT/s        | 1         | 2.38%   |
+| Micron RAM 8JSF25664HZ-1G4D1 2048MB SODIMM DDR3 1334MT/s     | 1         | 2.38%   |
 | Micron RAM 16JTF51264HZ-1G4M1 4GB SODIMM DDR3 1334MT/s       | 1         | 2.38%   |
 | Micron RAM 16JTF51264HZ-1G4H1 4GB SODIMM DDR3 1333MT/s       | 1         | 2.38%   |
 | Kingston RAM MSI26D4S9D8ME-16 16384MB SODIMM DDR4 2667MT/s   | 1         | 2.38%   |
@@ -2317,11 +2320,11 @@ Memory module models
 | Kingston RAM 9905744-066.A00G 32GB SODIMM DDR4 3200MT/s      | 1         | 2.38%   |
 | Kingston RAM 9905700-025.A00G 8GB SODIMM DDR4 2400MT/s       | 1         | 2.38%   |
 | ELPIDA RAM EBJ20UF8BDU5-GN-F 2GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
-| Crucial RAM CT51264BF160B.C16F 4096MB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
+| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s      | 1         | 2.38%   |
 | Crucial RAM CT25664BF160B.C8FK 2048MB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Apacer RAM 78.A2G86.AF5 2048MB SODIMM DDR2 800MT/s           | 1         | 2.38%   |
 | A-DATA RAM Module 4096MB SODIMM DDR3 1333MT/s                | 1         | 2.38%   |
-| A-DATA RAM AD73I1B1672EG 2GB SODIMM DDR3 1333MT/s            | 1         | 2.38%   |
+| A-DATA RAM AD73I1B1672EG 2048MB SODIMM DDR3 1333MT/s         | 1         | 2.38%   |
 
 Memory Kind
 -----------

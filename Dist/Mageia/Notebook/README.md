@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 47
+
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
 | Dell     | Latitude E5570              | [38032eae74](https://linux-hardware.org/?probe=38032eae74) | Dec 06, 2021 |
@@ -207,6 +211,32 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name     | Notebooks | Percent |
+|----------|-----------|---------|
+| Mageia 8 | 11        | 47.83%  |
+| Mageia 7 | 11        | 47.83%  |
+| Mageia 9 | 1         | 4.35%   |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name   | Notebooks | Percent |
+|--------|-----------|---------|
+| Mageia | 21        | 100%    |
 
 Kernel
 ------
@@ -710,7 +740,7 @@ Geographic location (city)
 | Tver                | 1         | 4.17%   |
 | Tours               | 1         | 4.17%   |
 | Thessaloniki        | 1         | 4.17%   |
-| SГЈo Paulo        | 1         | 4.17%   |
+| Sao Paulo           | 1         | 4.17%   |
 | Saint-DiГ©        | 1         | 4.17%   |
 | Poznan              | 1         | 4.17%   |
 | Pisa                | 1         | 4.17%   |
@@ -1359,7 +1389,7 @@ Monitor models
 |---------------------------------------------------------------------------|-----------|---------|
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                   | 1         | 4.17%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 4.17%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch      | 1         | 4.17%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch      | 1         | 4.17%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch              | 1         | 4.17%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 4.17%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 4.17%   |
@@ -1370,7 +1400,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1357 1920x1080 293x165mm 13.2-inch          | 1         | 4.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 4.17%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 350x190mm 15.7-inch  | 1         | 4.17%   |
+| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch  | 1         | 4.17%   |
 | BOE LCD Monitor BOE0868 1920x1080 309x174mm 14.0-inch                     | 1         | 4.17%   |
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                     | 1         | 4.17%   |
 | BOE LCD Monitor BOE0806 1920x1080 309x173mm 13.9-inch                     | 1         | 4.17%   |
@@ -1526,7 +1556,7 @@ Controller models
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 2         | 5.26%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 5.26%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 5.26%   |
-| Sierra Wireless MC8305                                            | 1         | 2.63%   |
+| Sierra Wireless MC8305 Modem                                      | 1         | 2.63%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 2.63%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 2.63%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 2.63%   |
@@ -1581,7 +1611,7 @@ Wireless models
 | Intel Wireless 8260                                            | 2         | 9.09%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 2         | 9.09%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 9.09%   |
-| Sierra Wireless MC8305                                         | 1         | 4.55%   |
+| Sierra Wireless MC8305 Modem                                   | 1         | 4.55%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 4.55%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1         | 4.55%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter               | 1         | 4.55%   |
@@ -1721,17 +1751,17 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 3         | 18.75%  |
+| Intel Bluetooth wireless interface                  | 2         | 12.5%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 12.5%   |
 | IMC Networks Bluetooth Device                       | 2         | 12.5%   |
 | Realtek Bluetooth Radio                             | 1         | 6.25%   |
 | Lite-On Bluetooth Device                            | 1         | 6.25%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 6.25%   |
-| Intel Bluetooth wireless interface                  | 1         | 6.25%   |
+| Intel Bluetooth Device                              | 1         | 6.25%   |
 | Intel AX201 Bluetooth                               | 1         | 6.25%   |
 | Intel AX200 Bluetooth                               | 1         | 6.25%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1         | 6.25%   |
 | Foxconn / Hon Hai BCM20702A0                        | 1         | 6.25%   |
-| Dell BCM20702A0                                     | 1         | 6.25%   |
+| Dell BCM20702A0 Bluetooth Module                    | 1         | 6.25%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 6.25%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 1         | 6.25%   |
 
@@ -1814,30 +1844,30 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Notebooks | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 4GB SODIMM DDR4 2400MT/s                  | 1         | 4.55%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 975MT/s                | 1         | 4.55%   |
-| Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
-| SK Hynix RAM Module 4GB SODIMM DDR3 1066MT/s                 | 1         | 4.55%   |
-| SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 4.55%   |
-| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s       | 1         | 4.55%   |
-| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s               | 1         | 4.55%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
-| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 4.55%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s        | 1         | 4.55%   |
-| Micron RAM 8KTS51264HDZ-1G6E1 4GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s        | 1         | 4.55%   |
-| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s        | 1         | 4.55%   |
-| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s       | 1         | 4.55%   |
-| Kingston RAM KFYHV1-HYC 4GB SODIMM DDR3 1600MT/s             | 1         | 4.55%   |
-| Kingston RAM KCRXJ6-MIE 16384MB SODIMM DDR4 2667MT/s         | 1         | 4.55%   |
-| Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
-| Kingston RAM 9905428-102.A00G 4GB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
-| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s   | 1         | 4.55%   |
-| Corsair RAM CMSX16GX4M1A2666C18 16384MB SODIMM DDR4 2667MT/s | 1         | 4.55%   |
+| Model                                                      | Notebooks | Percent |
+|------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 4GB SODIMM DDR4 2400MT/s                | 1         | 4.55%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 975MT/s              | 1         | 4.55%   |
+| Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s      | 1         | 4.55%   |
+| SK Hynix RAM Module 4GB SODIMM DDR3 1066MT/s               | 1         | 4.55%   |
+| SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s     | 1         | 4.55%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4.55%   |
+| SK Hynix RAM HMA451S6AFR8N-TF 4096MB SODIMM DDR4 2133MT/s  | 1         | 4.55%   |
+| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s             | 1         | 4.55%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4.55%   |
+| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4.55%   |
+| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s   | 1         | 4.55%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR 667MT/s    | 1         | 4.55%   |
+| Micron RAM 8KTS51264HDZ-1G6E1 4GB SODIMM DDR3 1600MT/s     | 1         | 4.55%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4096MB SODIMM DDR4 3200MT/s   | 1         | 4.55%   |
+| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s      | 1         | 4.55%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s     | 1         | 4.55%   |
+| Kingston RAM KFYHV1-HYC 4GB SODIMM DDR3 1600MT/s           | 1         | 4.55%   |
+| Kingston RAM KCRXJ6-MIE 16384MB SODIMM DDR4 2667MT/s       | 1         | 4.55%   |
+| Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s     | 1         | 4.55%   |
+| Kingston RAM 9905428-102.A00G 4GB SODIMM DDR3 1600MT/s     | 1         | 4.55%   |
+| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s | 1         | 4.55%   |
+| Corsair RAM CMSX16GX4M1A2666C18 16GB SODIMM DDR4 2667MT/s  | 1         | 4.55%   |
 
 Memory Kind
 -----------
@@ -1969,7 +1999,7 @@ Camera device models
 | Chicony USB2.0 Camera                                                      | 2         | 9.52%   |
 | Chicony Integrated Camera                                                  | 2         | 9.52%   |
 | Suyin HP TrueVision HD Integrated Webcam                                   | 1         | 4.76%   |
-| Sunplus Dell E5570 integrated webcam                                       | 1         | 4.76%   |
+| Sunplus Integrated_Webcam_HD                                               | 1         | 4.76%   |
 | Realtek USB Camera                                                         | 1         | 4.76%   |
 | Realtek Integrated_Webcam_HD                                               | 1         | 4.76%   |
 | Primax HP Truevision FHD                                                   | 1         | 4.76%   |
@@ -1982,7 +2012,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 4.76%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 4.76%   |
 | Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 4.76%   |
-| Alcor Micro USB 2.0 Camera                                                 | 1         | 4.76%   |
+| Alcor Micro USB 2.0 PC cam                                                 | 1         | 4.76%   |
 
 Security
 --------

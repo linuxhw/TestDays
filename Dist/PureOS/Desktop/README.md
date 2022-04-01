@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 10
+
 | Vendor   | Model         | Probe                                                      | Date         |
 |----------|---------------|------------------------------------------------------------|--------------|
 | Dell     | 088DT1 A01    | [6800234271](https://linux-hardware.org/?probe=6800234271) | Dec 02, 2021 |
@@ -170,6 +174,30 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name       | Desktops | Percent |
+|------------|----------|---------|
+| PureOS 9.0 | 3        | 100%    |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name   | Desktops | Percent |
+|--------|----------|---------|
+| PureOS | 3        | 100%    |
 
 Kernel
 ------
@@ -475,8 +503,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 2        | 66.67%  |
-| No        | 1        | 33.33%  |
+| No        | 2        | 66.67%  |
+| Yes       | 1        | 33.33%  |
 
 Has Ethernet
 ------------

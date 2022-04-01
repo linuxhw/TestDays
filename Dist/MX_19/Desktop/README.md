@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 63
+
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
 | ASRock        | FM2A68M-HD+ R2.0         | [d0ba3786b2](https://linux-hardware.org/?probe=d0ba3786b2) | Feb 03, 2022 |
@@ -580,10 +582,11 @@ Motherboard manufacture year
 | 2020 | 3        | 7.14%   |
 | 2019 | 3        | 7.14%   |
 | 2017 | 3        | 7.14%   |
-| 2015 | 3        | 7.14%   |
 | 2010 | 3        | 7.14%   |
 | 2016 | 2        | 4.76%   |
+| 2015 | 2        | 4.76%   |
 | 2012 | 2        | 4.76%   |
+| 2014 | 1        | 2.38%   |
 | 2009 | 1        | 2.38%   |
 | 2007 | 1        | 2.38%   |
 | 2006 | 1        | 2.38%   |
@@ -684,8 +687,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 23       | 54.76%  |
-| No        | 19       | 45.24%  |
+| Yes       | 24       | 57.14%  |
+| No        | 18       | 42.86%  |
 
 Has Ethernet
 ------------
@@ -1193,7 +1196,7 @@ Storage controller models
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                                    | 2        | 2.63%   |
 | Intel 4 Series Chipset PT IDER Controller                                               | 2        | 2.63%   |
 | ASMedia ASM1062 Serial ATA Controller                                                   | 2        | 2.63%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 2        | 2.63%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 2        | 2.63%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                           | 1        | 1.32%   |
 | Phison E12 NVMe Controller                                                              | 1        | 1.32%   |
 | Nvidia MCP61 SATA Controller                                                            | 1        | 1.32%   |
@@ -1617,7 +1620,7 @@ Monitor models
 | Goldstar 32 FHD GSM76FF 1920x1080 698x392mm 31.5-inch                   | 2        | 4.76%   |
 | ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.38%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.38%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1100x620mm 49.7-inch   | 1        | 2.38%   |
+| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                           | 1        | 2.38%   |
 | Sanyo LCD MONITOR SAN2213 1920x1080 474x296mm 22.0-inch                 | 1        | 2.38%   |
 | Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.38%   |
 | Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 2.38%   |
@@ -1634,7 +1637,7 @@ Monitor models
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 2.38%   |
 | Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                        | 1        | 2.38%   |
 | Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                    | 1        | 2.38%   |
-| Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                        | 1        | 2.38%   |
+| Eizo S1921 ENC1831 1280x1024 380x300mm 19.1-inch                        | 1        | 2.38%   |
 | DTV Philco DTV0B01 1600x1200 700x390mm 31.5-inch                        | 1        | 2.38%   |
 | Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                       | 1        | 2.38%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 1        | 2.38%   |
@@ -2148,8 +2151,8 @@ Memory module models
 | SK Hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 1.96%   |
 | Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s       | 1        | 1.96%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s       | 1        | 1.96%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 1639MT/s      | 1        | 1.96%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2               | 1        | 1.96%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM DDR2 1639MT/s   | 1        | 1.96%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 667MT/s       | 1        | 1.96%   |
 | RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s             | 1        | 1.96%   |
 | Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s        | 1        | 1.96%   |
 | Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s        | 1        | 1.96%   |
@@ -2161,19 +2164,19 @@ Memory module models
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s       | 1        | 1.96%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1867MT/s       | 1        | 1.96%   |
 | Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s            | 1        | 1.96%   |
-| Kingston RAM CL16-16-16 D4-2400 8192MB DIMM DDR4 2134MT/s | 1        | 1.96%   |
-| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s  | 1        | 1.96%   |
-| Kingston RAM 99U5403-159.A01LF 8192MB DIMM DDR3 1333MT/s  | 1        | 1.96%   |
+| Kingston RAM CL16-16-16 D4-2400 8GB DIMM DDR4 2134MT/s    | 1        | 1.96%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 1.96%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s     | 1        | 1.96%   |
 | Kingston RAM 9965525-026.A00LF 8192MB DIMM DDR3 1333MT/s  | 1        | 1.96%   |
 | G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s        | 1        | 1.96%   |
 | G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s         | 1        | 1.96%   |
 | G.Skill RAM F3-1333C9-4GSL 4096MB SODIMM DDR3 1333MT/s    | 1        | 1.96%   |
-| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 1.96%   |
+| Crucial RAM CT51264BA160BJ.C8 4096MB DIMM DDR3 1600MT/s   | 1        | 1.96%   |
 | Corsair RAM CMX8GX3M1A1333C9 8192MB DIMM DDR3 1333MT/s    | 1        | 1.96%   |
 | Corsair RAM CMW16GX4M1Z3600C18 16384MB DIMM DDR4 3000MT/s | 1        | 1.96%   |
 | Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1        | 1.96%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 1.96%   |
-| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s     | 1        | 1.96%   |
+| Corsair RAM CMK16GX4M2A2133C13 8192MB DIMM DDR4 3000MT/s  | 1        | 1.96%   |
 | Corsair RAM CM4X8GD3200C16K4 8192MB DIMM DDR4 2133MT/s    | 1        | 1.96%   |
 | Corsair RAM CM4X16GC3000C16K4D 16384MB DIMM DDR4 3000MT/s | 1        | 1.96%   |
 | Axiom RAM 51264Y133IHYN 4GB DIMM DDR3 1333MT/s            | 1        | 1.96%   |
@@ -2218,13 +2221,13 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 4096  | 13       | 29.55%  |
-| 8192  | 12       | 27.27%  |
-| 2048  | 10       | 22.73%  |
-| 1024  | 4        | 9.09%   |
-| 16384 | 3        | 6.82%   |
-| 32768 | 1        | 2.27%   |
-| 512   | 1        | 2.27%   |
+| 8192  | 13       | 28.89%  |
+| 4096  | 13       | 28.89%  |
+| 2048  | 10       | 22.22%  |
+| 1024  | 4        | 8.89%   |
+| 16384 | 3        | 6.67%   |
+| 32768 | 1        | 2.22%   |
+| 512   | 1        | 2.22%   |
 
 Memory Speed
 ------------
@@ -2332,7 +2335,7 @@ Camera device models
 | Microsoft LifeCam HD-3000                | 1        | 14.29%  |
 | Logitech Webcam Pro 9000                 | 1        | 14.29%  |
 | Logitech Webcam C270                     | 1        | 14.29%  |
-| Huawei HiCamera                          | 1        | 14.29%  |
+| Huawei UVC Camera                        | 1        | 14.29%  |
 | Generalplus 808 Camera #9 (web-cam mode) | 1        | 14.29%  |
 
 Security

@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 26
+
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
 | ASUSTek    | A88X-PRO                    | [fb6f0426c3](https://linux-hardware.org/?probe=fb6f0426c3) | Jan 20, 2022 |
@@ -1240,14 +1242,14 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 2        | 9.09%   |
+| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 2        | 9.09%   |
 | SHARP LCD Monitor HDMI 1920x1080                                     | 1        | 4.55%   |
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1        | 4.55%   |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 4.55%   |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1        | 4.55%   |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1        | 4.55%   |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 4.55%   |
-| Hewlett-Packard 24yh HPN3504 1920x1080 528x297mm 23.9-inch           | 1        | 4.55%   |
+| Hewlett-Packard 24y HPN3504 1920x1080 528x297mm 23.9-inch            | 1        | 4.55%   |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 4.55%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 4.55%   |
 | Goldstar E2050 GSM4EAE 1600x900 443x249mm 20.0-inch                  | 1        | 4.55%   |
@@ -1257,7 +1259,7 @@ Monitor models
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1        | 4.55%   |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 4.55%   |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 4.55%   |
-| AOC 2460G5 AOC2460 1920x1080 531x299mm 24.0-inch                     | 1        | 4.55%   |
+| AOC 2460 AOC2460 1920x1080 531x299mm 24.0-inch                       | 1        | 4.55%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 4.55%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.55%   |
 | Acer V236HL ACR0350 1920x1080 509x286mm 23.0-inch                    | 1        | 4.55%   |
@@ -1581,8 +1583,8 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2        | 25%     |
 | Realtek Bluetooth Radio                             | 1        | 12.5%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 12.5%   |
 | Intel Bluetooth wireless interface                  | 1        | 12.5%   |
+| Intel Bluetooth Device                              | 1        | 12.5%   |
 | Broadcom BCM92045B3 ROM                             | 1        | 12.5%   |
 | Broadcom BCM2045 Bluetooth                          | 1        | 12.5%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 12.5%   |

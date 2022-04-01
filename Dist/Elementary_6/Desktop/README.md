@@ -155,6 +155,8 @@ Contents
 Test Cases
 ----------
 
+Total: 79
+
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
 | ASUSTek  | PRIME B250-PRO              | [be377c733e](https://linux-hardware.org/?probe=be377c733e) | Feb 14, 2022 |
@@ -847,8 +849,8 @@ Geographic location (city)
 | Staropyshminsk            | 1        | 1.47%   |
 | Sparti                    | 1        | 1.47%   |
 | Simferopol                | 1        | 1.47%   |
-| SÃ£o Paulo              | 1        | 1.47%   |
 | Saskatoon                 | 1        | 1.47%   |
+| Sao Paulo                 | 1        | 1.47%   |
 | Santiago                  | 1        | 1.47%   |
 | San JosÃ©               | 1        | 1.47%   |
 | Rosario                   | 1        | 1.47%   |
@@ -906,7 +908,7 @@ Hard drive vendors
 | Samsung Electronics       | 18       | 27     | 15.38%  |
 | Seagate                   | 17       | 21     | 14.53%  |
 | Kingston                  | 10       | 13     | 8.55%   |
-| SanDisk                   | 9        | 10     | 7.69%   |
+| Sandisk                   | 9        | 10     | 7.69%   |
 | Crucial                   | 7        | 10     | 5.98%   |
 | OCZ                       | 3        | 3      | 2.56%   |
 | Hitachi                   | 3        | 3      | 2.56%   |
@@ -978,8 +980,8 @@ Hard drive models
 | WDC WD10EURX-63UY4Y0 1TB           | 1        | 0.74%   |
 | WDC WD1003FZEX-00MK2A0 1TB         | 1        | 0.74%   |
 | WDC PC SN730 SDBQNTY-1T00-1014 1TB | 1        | 0.74%   |
-| USB3.1 Disk 500GB                  | 1        | 0.74%   |
-| Unknown SD/MMC/MS PRO 64GB         | 1        | 0.74%   |
+| USB3.1 Disk 1TB                    | 1        | 0.74%   |
+| Unknown SD/MMC/MS PRO 32GB         | 1        | 0.74%   |
 | Unknown MMC Card  128GB            | 1        | 0.74%   |
 | Transcend TS512GMTS430S 512GB SSD  | 1        | 0.74%   |
 | Toshiba MQ01ABD100 1TB             | 1        | 0.74%   |
@@ -1316,9 +1318,9 @@ Storage controller models
 | Intel 400 Series Chipset Family SATA AHCI Controller                                    | 1        | 0.81%   |
 | Broadcom / LSI SAS2308 PCI-Express Fusion-MPT SAS-2                                     | 1        | 0.81%   |
 | AMD X370 Series Chipset SATA Controller                                                 | 1        | 0.81%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 1        | 0.81%   |
 | AMD FCH SATA Controller [IDE mode]                                                      | 1        | 0.81%   |
 | AMD FCH IDE Controller                                                                  | 1        | 0.81%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 1        | 0.81%   |
 
 Storage Kind
 ------------
@@ -1770,9 +1772,9 @@ Monitor models
 | ViewSonic VA2446 SERIES VSC732E 1920x1080 521x293mm 23.5-inch          | 1        | 1.27%   |
 | ViewSonic VA2055 Series VSC3C31 1920x1080 435x239mm 19.5-inch          | 1        | 1.27%   |
 | TBD HDMI TBD3148 1600x900 344x193mm 15.5-inch                          | 1        | 1.27%   |
-| SKY TV-monitor SKY0001 1920x1080 697x392mm 31.5-inch                   | 1        | 1.27%   |
-| Samsung Electronics U32J59x SAM0F33 1920x2160 700x390mm 31.5-inch      | 1        | 1.27%   |
-| Samsung Electronics U28H75x SAM0E00 3840x2160 607x345mm 27.5-inch      | 1        | 1.27%   |
+| SKY TV Monitor SKY0001 1920x1080 885x498mm 40.0-inch                   | 1        | 1.27%   |
+| Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 1.27%   |
+| Samsung Electronics U28H75x SAM0E00 3840x2160 610x350mm 27.7-inch      | 1        | 1.27%   |
 | Samsung Electronics U28H75x SAM0DFF 3840x2160 608x345mm 27.5-inch      | 1        | 1.27%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch   | 1        | 1.27%   |
 | Samsung Electronics S27H85x SAM0E0E 2560x1440 597x336mm 27.0-inch      | 1        | 1.27%   |
@@ -1780,7 +1782,7 @@ Monitor models
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch      | 1        | 1.27%   |
 | Samsung Electronics S22C200 SAM09B6 1920x1080 477x268mm 21.5-inch      | 1        | 1.27%   |
 | Samsung Electronics LCD Monitor SAM705B 1920x1080 1210x680mm 54.6-inch | 1        | 1.27%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch  | 1        | 1.27%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 1210x680mm 54.6-inch | 1        | 1.27%   |
 | Samsung Electronics LCD Monitor S24F350 5760x1080                      | 1        | 1.27%   |
 | Samsung Electronics LCD Monitor S24F350                                | 1        | 1.27%   |
 | Samsung Electronics LCD Monitor C24F390 1920x1080                      | 1        | 1.27%   |
@@ -1800,30 +1802,30 @@ Monitor models
 | Hewlett-Packard E243m HPN3466 1920x1080 527x296mm 23.8-inch            | 1        | 1.27%   |
 | Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch             | 1        | 1.27%   |
 | Hewlett-Packard Compaq WF1907 HWP26A4 1440x900 408x255mm 18.9-inch     | 1        | 1.27%   |
-| Hewlett-Packard 27fw HPN354C 1920x1080 598x336mm 27.0-inch             | 1        | 1.27%   |
+| Hewlett-Packard 27f HPN354C 1920x1080 598x336mm 27.0-inch              | 1        | 1.27%   |
 | Hewlett-Packard 24x HPN3635 1920x1080 527x297mm 23.8-inch              | 1        | 1.27%   |
 | Hewlett-Packard 2159 HWP282C 1920x1080 479x269mm 21.6-inch             | 1        | 1.27%   |
-| Grundig UHD GRU4448 3840x2160 1210x680mm 54.6-inch                     | 1        | 1.27%   |
-| Goldstar W2253 GSM56DC 1920x1080 510x290mm 23.1-inch                   | 1        | 1.27%   |
+| Grundig TV GRU4448 1920x1080 1210x680mm 54.6-inch                      | 1        | 1.27%   |
+| Goldstar W2253 GSM56DC 1920x1080 480x270mm 21.7-inch                   | 1        | 1.27%   |
 | Goldstar W2043 GSM4E9E 1600x900 443x249mm 20.0-inch                    | 1        | 1.27%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                    | 1        | 1.27%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 1        | 1.27%   |
 | Goldstar TV SSCR2 GSMC0C8 3840x2160                                    | 1        | 1.27%   |
-| Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch              | 1        | 1.27%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 1        | 1.27%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                 | 1        | 1.27%   |
 | Goldstar 25UM58G GSM5B98 2560x1080 673x284mm 28.8-inch                 | 1        | 1.27%   |
 | Denver UXGA-100-C LHC2900 2560x1080 681x287mm 29.1-inch                | 1        | 1.27%   |
 | Dell U2417H DEL40E8 1920x1080 527x296mm 23.8-inch                      | 1        | 1.27%   |
 | Dell U2417H DEL40E7 1920x1080 527x296mm 23.8-inch                      | 1        | 1.27%   |
-| Dell U2312HM DEL4073 1920x1080 510x290mm 23.1-inch                     | 1        | 1.27%   |
-| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                      | 1        | 1.27%   |
-| Dell P2317H DEL40F4 1920x1080 510x290mm 23.1-inch                      | 1        | 1.27%   |
+| Dell U2312HM DEL4073 1920x1080 510x287mm 23.0-inch                     | 1        | 1.27%   |
+| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                      | 1        | 1.27%   |
+| Dell P2317H DEL40F4 1920x1080 509x286mm 23.0-inch                      | 1        | 1.27%   |
 | Dell P2214H DELA098 1920x1080 477x268mm 21.5-inch                      | 1        | 1.27%   |
 | Dell 1707FPV DEL4021 1280x1024 338x270mm 17.0-inch                     | 1        | 1.27%   |
-| BenQ ZOWIE XL LCD BNQ7F31 1920x1080 531x298mm 24.0-inch                | 1        | 1.27%   |
+| BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                     | 1        | 1.27%   |
 | BenQ LCD Monitor ZOWIE XL LCD 3840x1080                                | 1        | 1.27%   |
 | BenQ LCD Monitor PD2700U 3840x2160                                     | 1        | 1.27%   |
-| BenQ LCD BNQ8024 2560x1440 600x340mm 27.2-inch                         | 1        | 1.27%   |
+| BenQ LCD BNQ8024 2560x1440 597x336mm 27.0-inch                         | 1        | 1.27%   |
 
 Monitor Resolution
 ------------------
@@ -1868,14 +1870,14 @@ Diagonal size in inches
 | 23      | 9        | 12.68%  |
 | 24      | 5        | 7.04%   |
 | 19      | 4        | 5.63%   |
+| 54      | 3        | 4.23%   |
 | 31      | 3        | 4.23%   |
-| 54      | 2        | 2.82%   |
 | 49      | 2        | 2.82%   |
-| 40      | 2        | 2.82%   |
 | 34      | 2        | 2.82%   |
 | 20      | 2        | 2.82%   |
 | 17      | 2        | 2.82%   |
 | 72      | 1        | 1.41%   |
+| 40      | 1        | 1.41%   |
 | 33      | 1        | 1.41%   |
 | 32      | 1        | 1.41%   |
 | 29      | 1        | 1.41%   |
@@ -1899,10 +1901,10 @@ Physical width
 | 401-500     | 17       | 25%     |
 | Unknown     | 10       | 14.71%  |
 | 601-700     | 7        | 10.29%  |
+| 1001-1500   | 5        | 7.35%   |
 | 701-800     | 4        | 5.88%   |
-| 1001-1500   | 4        | 5.88%   |
-| 801-900     | 2        | 2.94%   |
 | 301-350     | 2        | 2.94%   |
+| 801-900     | 1        | 1.47%   |
 | 351-400     | 1        | 1.47%   |
 | 1501-2000   | 1        | 1.47%   |
 
@@ -1939,8 +1941,8 @@ Area in inch²
 | 151-200        | 10       | 14.29%  |
 | Unknown        | 10       | 14.29%  |
 | 351-500        | 7        | 10%     |
-| 501-1000       | 4        | 5.71%   |
-| More than 1000 | 3        | 4.29%   |
+| More than 1000 | 4        | 5.71%   |
+| 501-1000       | 3        | 4.29%   |
 | 251-300        | 2        | 2.86%   |
 | 141-150        | 2        | 2.86%   |
 | 131-140        | 1        | 1.43%   |
@@ -1956,11 +1958,11 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 38       | 57.58%  |
-| 101-120 | 13       | 19.7%   |
-| Unknown | 10       | 15.15%  |
-| 1-50    | 3        | 4.55%   |
-| 121-160 | 2        | 3.03%   |
+| 51-100  | 38       | 56.72%  |
+| 101-120 | 13       | 19.4%   |
+| Unknown | 10       | 14.93%  |
+| 1-50    | 4        | 5.97%   |
+| 121-160 | 2        | 2.99%   |
 
 Multiple Monitors
 -----------------
@@ -2050,7 +2052,7 @@ Controller models
 | Nvidia MCP77 Ethernet                                             | 1        | 0.92%   |
 | NetGear WNA3100(v1) Wireless-N 300 [Broadcom BCM43231]            | 1        | 0.92%   |
 | Mercucys 802.11n NIC                                              | 1        | 0.92%   |
-| MediaTek Wiko U316AT                                              | 1        | 0.92%   |
+| MediaTek U FEEL                                                   | 1        | 0.92%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.92%   |
 | Intel Wireless-AC 9260                                            | 1        | 0.92%   |
 | Intel Wireless 7260                                               | 1        | 0.92%   |
@@ -2175,7 +2177,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.39%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.39%   |
 | Nvidia MCP77 Ethernet                                             | 1        | 1.39%   |
-| MediaTek Wiko U316AT                                              | 1        | 1.39%   |
+| MediaTek U FEEL                                                   | 1        | 1.39%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.39%   |
 | Intel Ethernet Controller I225-V                                  | 1        | 1.39%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 1.39%   |
@@ -2270,12 +2272,13 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 10       | 37.04%  |
-| Intel Bluetooth Device                              | 4        | 14.81%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3        | 11.11%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 2        | 7.41%   |
 | Intel AX200 Bluetooth                               | 2        | 7.41%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 3.7%    |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 3.7%    |
 | Intel Bluetooth wireless interface                  | 1        | 3.7%    |
+| Intel Bluetooth Device                              | 1        | 3.7%    |
+| Intel AX210 Bluetooth                               | 1        | 3.7%    |
 | Intel AX201 Bluetooth                               | 1        | 3.7%    |
 | Broadcom Bluetooth 3.0 Dongle                       | 1        | 3.7%    |
 | Belkin Components Bluetooth Mini Dongle             | 1        | 3.7%    |
@@ -2306,9 +2309,9 @@ Sound card vendors
 | Thesycon Systemsoftware & Consulting | 1        | 0.84%   |
 | Razer USA                            | 1        | 0.84%   |
 | JMTek                                | 1        | 0.84%   |
-| HECATE G2 GAMING HEADSET             | 1        | 0.84%   |
 | Focusrite-Novation                   | 1        | 0.84%   |
 | Creative Technology                  | 1        | 0.84%   |
+| BY EDIFIER                           | 1        | 0.84%   |
 | ATI Technologies                     | 1        | 0.84%   |
 | ASUSTek Computer                     | 1        | 0.84%   |
 
@@ -2350,7 +2353,7 @@ Sound card models
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                            | 2        | 1.44%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                                  | 2        | 1.44%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2        | 1.44%   |
-| Thesycon Systemsoftware & Consulting E30                                          | 1        | 0.72%   |
+| Thesycon Systemsoftware & Consulting D30 Pro                                      | 1        | 0.72%   |
 | Razer USA Razer Kraken Tournament Edition                                         | 1        | 0.72%   |
 | Nvidia TU116 High Definition Audio Controller                                     | 1        | 0.72%   |
 | Nvidia TU106 High Definition Audio Controller                                     | 1        | 0.72%   |
@@ -2375,13 +2378,13 @@ Sound card models
 | Intel Audio device                                                                | 1        | 0.72%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                                    | 1        | 0.72%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 1        | 0.72%   |
-| HECATE G2 GAMING HEADSET HECATE G2 GAMING HEADSET                                 | 1        | 0.72%   |
 | Focusrite-Novation Focusrite Scarlett 2i2 2nd Gen                                 | 1        | 0.72%   |
 | Creative Technology Sound BlasterX Kratos S5                                      | 1        | 0.72%   |
 | Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]         | 1        | 0.72%   |
-| C-Media Electronics TONOR TC30 Audio Device                                       | 1        | 0.72%   |
-| C-Media Electronics SABAJ D3                                                      | 1        | 0.72%   |
 | C-Media Electronics Multimedia Headset [Gigaware by Ignition L.P.]                | 1        | 0.72%   |
+| C-Media Electronics CM6631A Audio Processor                                       | 1        | 0.72%   |
+| C-Media Electronics CM102-A+/102S+ Audio Controller                               | 1        | 0.72%   |
+| C-Media Electronics Blue Snowball                                                 | 1        | 0.72%   |
 
 Memory
 ------
@@ -2419,18 +2422,18 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s               | 1        | 5%      |
 | SK Hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s      | 1        | 5%      |
 | Samsung RAM Module 8192MB DIMM DDR4 2666MT/s              | 1        | 5%      |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s  | 1        | 5%      |
-| Samsung RAM M378A1K43CB2-CTD 8192MB DIMM DDR4 3200MT/s    | 1        | 5%      |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1        | 5%      |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s       | 1        | 5%      |
 | Neo Forza RAM NMUD380D81-1600D 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Nanya RAM Module 4GB DIMM DDR3 1333MT/s                   | 1        | 5%      |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s       | 1        | 5%      |
-| Kingston RAM KHX1866C10D3/4G 4096MB DIMM DDR3 1867MT/s    | 1        | 5%      |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s       | 1        | 5%      |
 | Kingston RAM 99U5471-052.A 8GB DIMM DDR3 1333MT/s         | 1        | 5%      |
 | Kingston RAM 99U5458-001.A00LF 2GB DIMM DDR3 1600MT/s     | 1        | 5%      |
-| Kingston RAM 99U5403-159.A01LF 8192MB DIMM DDR3 1333MT/s  | 1        | 5%      |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Kingston RAM 9965516-069.A00LF 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Kingston RAM 9965516-003.A00LF 8GB DIMM 1333MT/s          | 1        | 5%      |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s    | 1        | 5%      |
+| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 1        | 5%      |
 | G.Skill RAM F3-1866C11-8GRSL 8GB SODIMM DDR3 1867MT/s     | 1        | 5%      |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1800MT/s      | 1        | 5%      |
 | Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 2400MT/s     | 1        | 5%      |
@@ -2578,13 +2581,13 @@ Camera device models
 |---------------------------------|----------|---------|
 | Logitech Webcam C270            | 2        | 10.53%  |
 | Z-Star Sirius USB2.0 Camera     | 1        | 5.26%   |
-| Sunplus WebCamera               | 1        | 5.26%   |
+| Sunplus Integrated_Webcam_HD    | 1        | 5.26%   |
 | Sunplus Aukey-PC-LM1E Camera    | 1        | 5.26%   |
 | Microsoft Xbox NUI Camera       | 1        | 5.26%   |
 | Microsoft LifeCam HD-3000       | 1        | 5.26%   |
 | Microdia Webcam Vitade AF       | 1        | 5.26%   |
-| Microdia USB 2.0 Camera         | 1        | 5.26%   |
-| Microdia Integrated Camera      | 1        | 5.26%   |
+| Microdia Integrated_Webcam_FHD  | 1        | 5.26%   |
+| Microdia Hy-HD-Camera           | 1        | 5.26%   |
 | Logitech Webcam C310            | 1        | 5.26%   |
 | Logitech Logi 4K Stream Edition | 1        | 5.26%   |
 | Logitech HD Webcam C615         | 1        | 5.26%   |

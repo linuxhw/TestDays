@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Kernel                   ](#kernel)
   - [ Kernel Family            ](#kernel-family)
   - [ Kernel Major Ver.        ](#kernel-major-ver)
@@ -155,6 +157,8 @@ Contents
 Test Cases
 ----------
 
+Total: 22
+
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
 | Gigabyte      | Z490I AORUS ULTRA           | [908edb3724](https://linux-hardware.org/?probe=908edb3724) | Jan 27, 2022 |
@@ -182,6 +186,40 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart/os_name.svg)
+
+
+| Name                        | Desktops | Percent |
+|-----------------------------|----------|---------|
+| Alpine 3.12.0               | 5        | 27.78%  |
+| Alpine 3.13.0_alpha20200626 | 3        | 16.67%  |
+| Alpine 3.11.2               | 2        | 11.11%  |
+| Alpine 3.8.4                | 1        | 5.56%   |
+| Alpine 3.15.0               | 1        | 5.56%   |
+| Alpine 3.14.2               | 1        | 5.56%   |
+| Alpine 3.13.6               | 1        | 5.56%   |
+| Alpine 3.13.2               | 1        | 5.56%   |
+| Alpine 3.13.1               | 1        | 5.56%   |
+| Alpine 3.13.0_alpha20201218 | 1        | 5.56%   |
+| Alpine 3.12.3               | 1        | 5.56%   |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart/os_family.svg)
+
+
+| Name   | Desktops | Percent |
+|--------|----------|---------|
+| Alpine | 17       | 100%    |
 
 Kernel
 ------
@@ -1450,9 +1488,9 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 4.17%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 4.17%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 4.17%   |
+| Qualcomm Redmi Note 7                                             | 1        | 4.17%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1        | 4.17%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 4.17%   |
-| Qualcomm 8920FT CD-ROM                                            | 1        | 4.17%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 4.17%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 4.17%   |
 | Intel 82578DM Gigabit Network Connection                          | 1        | 4.17%   |
@@ -1524,8 +1562,8 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 5%      |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 5%      |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 5%      |
+| Qualcomm Redmi Note 7                                             | 1        | 5%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 5%      |
-| Qualcomm 8920FT CD-ROM                                            | 1        | 5%      |
 | Nvidia MCP61 Ethernet                                             | 1        | 5%      |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 5%      |
 | Intel 82578DM Gigabit Network Connection                          | 1        | 5%      |
@@ -1702,7 +1740,7 @@ Memory module models
 | SK Hynix RAM HMT451S6BFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1        | 4%      |
 | SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1        | 4%      |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 4%      |
+| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s   | 1        | 4%      |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1866MT/s       | 1        | 4%      |
 | Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s       | 1        | 4%      |
 | Qimonda RAM 64T128020HU3SB 1024MB DIMM DDR2 667MT/s       | 1        | 4%      |
