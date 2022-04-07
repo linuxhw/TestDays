@@ -3165,7 +3165,7 @@ Total: 3967
 
 ...
 
-See full list of test cases in the file [Test_Cases.md](https://github.com/linuxhw/TestCoverage/blob/main/Dist/Debian_11/Test_Cases.md).
+See full list of test cases in the file [Test_Cases.md](</Dist/Debian_11/Test_Cases.md>).
 
 System
 ------
