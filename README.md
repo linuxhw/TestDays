@@ -23,7 +23,6 @@ Contents
 * [ Ubuntu 21.04 ](/Dist/Ubuntu_21.04)
 * [ CentOS 8 ](/Dist/CentOS_8)
 * [ CentOS 7 ](/Dist/CentOS_7)
-
 * [ Elementary 6.1 ](/Dist/Elementary_6.1)
 * [ Elementary 6 ](/Dist/Elementary_6)
 * [ Gentoo 2.8 ](/Dist/Gentoo_2.8)
@@ -47,7 +46,6 @@ Contents
 * [ Solus 4.1 ](/Dist/Solus_4.1)
 * [ Ubuntu Budgie 20.04 ](/Dist/Ubuntu_Budgie_20.04)
 * [ Ubuntu MATE 20.04 ](/Dist/Ubuntu_MATE_20.04)
-
 * [ Alpine ](/Dist/Alpine)
 * [ ALT Linux ](/Dist/ALT_Linux)
 * [ antiX ](/Dist/antiX)
