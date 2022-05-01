@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1177,7 +1175,7 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 7.69%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 7.69%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 7.69%   |
-| Goldstar 24GL600F GSM5B73 1920x1080 530x300mm 24.0-inch             | 1        | 7.69%   |
+| Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 7.69%   |
 | BenQ LCD BNQ8024 2560x1440 597x336mm 27.0-inch                      | 1        | 7.69%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 7.69%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 7.69%   |
@@ -1471,8 +1469,8 @@ Controller models
 | Model                                          | Desktops | Percent |
 |------------------------------------------------|----------|---------|
 | Realtek  Bluetooth 4.2 Adapter                 | 1        | 20%     |
+| Intel Wireless-AC 9260 Bluetooth Adapter       | 1        | 20%     |
 | Intel Wireless-AC 3168 Bluetooth               | 1        | 20%     |
-| Intel Bluetooth Device                         | 1        | 20%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1        | 20%     |
 | ASUS Broadcom BCM20702A0 Bluetooth             | 1        | 20%     |
 
@@ -1606,10 +1604,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor        | Desktops | Percent |
-|---------------|----------|---------|
-| Logitech      | 1        | 50%     |
-| HD 2MP WEBCAM | 1        | 50%     |
+| Vendor   | Desktops | Percent |
+|----------|----------|---------|
+| webcam   | 1        | 50%     |
+| Logitech | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1621,8 +1619,8 @@ Camera device models
 
 | Model                       | Desktops | Percent |
 |-----------------------------|----------|---------|
+| webcam webcam               | 1        | 50%     |
 | Logitech HD Pro Webcam C920 | 1        | 50%     |
-| HD 2MP WEBCAM HD 2MP WEBCAM | 1        | 50%     |
 
 Security
 --------

@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -698,7 +696,7 @@ Hard drive models
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
 | KingSpec NT-256 256GB                 | 1        | 6.67%   |
-| KingDian S200 60GB                    | 1        | 6.67%   |
+| KingDian S200 60GB SSD                | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
 | Crucial CT256MX100SSD1 256GB          | 1        | 6.67%   |
@@ -1199,7 +1197,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Toshiba TV TSB0106 1280x720 1050x590mm 47.4-inch                     | 1        | 7.69%   |
+| Toshiba TV TSB0106 1920x1080                                         | 1        | 7.69%   |
 | Sony TV SNY9C01 1920x1080                                            | 1        | 7.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch | 1        | 7.69%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                       | 1        | 7.69%   |
@@ -1211,7 +1209,7 @@ Monitor models
 | Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                   | 1        | 7.69%   |
 | BenQ GL2450H BNQ78A6 1920x1080 531x298mm 24.0-inch                   | 1        | 7.69%   |
 | Apple Cinema HD Display APP9220 2560x1600 641x401mm 29.8-inch        | 1        | 7.69%   |
-| Ancor Communications VS278 ACI27A1 1920x1080 600x340mm 27.2-inch     | 1        | 7.69%   |
+| Ancor Communications VS278 ACI27A1 1920x1080 598x336mm 27.0-inch     | 1        | 7.69%   |
 
 Monitor Resolution
 ------------------
@@ -1369,7 +1367,7 @@ Controller models
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2        | 7.41%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 2        | 7.41%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 3.7%    |
-| Realtek 802.11n                                                   | 1        | 3.7%    |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 3.7%    |
 | Realtek 802.11ac NIC                                              | 1        | 3.7%    |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1        | 3.7%    |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1        | 3.7%    |
@@ -1409,7 +1407,7 @@ Wireless models
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 2        | 20%     |
 | Realtek RTL8192CU 802.11n WLAN Adapter                     | 2        | 20%     |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 10%     |
-| Realtek 802.11n                                            | 1        | 10%     |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 10%     |
 | Realtek 802.11ac NIC                                       | 1        | 10%     |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter | 1        | 10%     |
 | Qualcomm Atheros AR9462 Wireless Network Adapter           | 1        | 10%     |

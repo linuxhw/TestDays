@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -650,7 +648,7 @@ Hard drive models
 | Seagate ST310211A 10GB           | 1        | 9.09%   |
 | SanDisk SDSSDA120G 120GB         | 1        | 9.09%   |
 | Samsung HD081GJ 80GB             | 1        | 9.09%   |
-| MAXTOR 6Y080L0 81GB              | 1        | 9.09%   |
+| MAXTOR 6Y080L0 82GB              | 1        | 9.09%   |
 
 HDD Vendor
 ----------
@@ -759,7 +757,7 @@ Drive models with a malfunction
 | Model                   | Desktops | Drives | Percent |
 |-------------------------|----------|--------|---------|
 | WDC WD400BD-23JMC0 40GB | 1        | 1      | 50%     |
-| MAXTOR 6Y080L0 81GB     | 1        | 1      | 50%     |
+| MAXTOR 6Y080L0 82GB     | 1        | 1      | 50%     |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1121,7 +1119,7 @@ Monitor models
 | VIE S20W VIE2080 1600x900 440x250mm 19.9-inch                           | 1        | 16.67%  |
 | Samsung Electronics S24B20/S24B30 SAM09ED 1920x1080 521x293mm 23.5-inch | 1        | 16.67%  |
 | Orion ORION ORN120A 1920x540                                            | 1        | 16.67%  |
-| Hewlett-Packard 2009 HWP2827 1600x900 442x249mm 20.0-inch               | 1        | 16.67%  |
+| Hewlett-Packard 2009 HWP2827 1600x900 443x250mm 20.0-inch               | 1        | 16.67%  |
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 16.67%  |
 
 Monitor Resolution

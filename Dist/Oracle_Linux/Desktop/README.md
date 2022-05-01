@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1187,7 +1185,7 @@ Monitor models
 |---------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0564 1360x768 410x230mm 18.5-inch | 1        | 11.11%  |
 | Samsung Electronics LCD Monitor S24C650                             | 1        | 11.11%  |
-| Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch          | 1        | 11.11%  |
+| Hewlett-Packard Z24i HWP309E 1920x1200 520x320mm 24.0-inch          | 1        | 11.11%  |
 | Hewlett-Packard E273q HPN3474 2560x1440 597x336mm 27.0-inch         | 1        | 11.11%  |
 | Goldstar E2240 GSM57A3 1920x1080 477x268mm 21.5-inch                | 1        | 11.11%  |
 | Eizo EV2460 ENC3129 1920x1080 528x297mm 23.9-inch                   | 1        | 11.11%  |

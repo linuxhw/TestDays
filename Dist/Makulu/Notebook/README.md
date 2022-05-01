@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -704,7 +702,7 @@ Hard drive models
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
 | Seagate ST500LT012-1DG142 500GB      | 2         | 10%     |
-| Unknown SD/MMC/MS PRO 32GB           | 1         | 5%      |
+| Unknown SD/MMC/MS PRO 16GB           | 1         | 5%      |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 5%      |
 | Toshiba MQ01ABF050M 500GB            | 1         | 5%      |
 | Toshiba MQ01ABD100 1TB               | 1         | 5%      |
@@ -1209,7 +1207,7 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 7.14%   |
+| Samsung Electronics LCD Monitor SEC314C 1920x1080 340x190mm 15.3-inch    | 1         | 7.14%   |
 | Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 7.14%   |
 | Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 7.14%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 7.14%   |
@@ -1217,7 +1215,7 @@ Monitor models
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 7.14%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 7.14%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 7.14%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 7.14%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 7.14%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 7.14%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 7.14%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 7.14%   |
@@ -1544,7 +1542,7 @@ Controller models
 
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                           | 1         | 10%     |
+| Realtek  Bluetooth 4.2 Adapter                    | 1         | 10%     |
 | Qualcomm Atheros AR9462 Bluetooth                 | 1         | 10%     |
 | Intel Bluetooth wireless interface                | 1         | 10%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 1         | 10%     |
@@ -1708,7 +1706,7 @@ Camera device models
 | Suyin UVC HD Webcam                                     | 1         | 9.09%   |
 | Suyin Laptop_Integrated_Webcam_HD                       | 1         | 9.09%   |
 | Suyin HP Truevision HD                                  | 1         | 9.09%   |
-| Microdia Laptop_Integrated_Webcam_HD                    | 1         | 9.09%   |
+| Microdia Dell Laptop Integrated Webcam HD               | 1         | 9.09%   |
 | Lite-On HP Wide Vision HD Camera                        | 1         | 9.09%   |
 | Chicony UVC 1.00 device HD UVC WebCam                   | 1         | 9.09%   |
 | Chicony Lenovo EasyCamera                               | 1         | 9.09%   |

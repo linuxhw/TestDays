@@ -9,8 +9,6 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please contribute! Especially if your hardware is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends
-
 Contents
 --------
 
@@ -800,8 +798,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 31       | 50%     |
-| No        | 31       | 50%     |
+| No        | 32       | 51.61%  |
+| Yes       | 30       | 48.39%  |
 
 Has Ethernet
 ------------
@@ -1053,7 +1051,7 @@ Hard drive models
 | WDC WD10EZEX-22MFCA0 1TB              | 1        | 0.63%   |
 | WDC WD10EZEX-08WN4A0 1TB              | 1        | 0.63%   |
 | WDC WD10EALX-759BA1 1TB               | 1        | 0.63%   |
-| Unknown SD/MMC/MS PRO 394GB           | 1        | 0.63%   |
+| Unknown SD/MMC/MS PRO 16GB            | 1        | 0.63%   |
 | Toshiba MQ01ACF032 320GB              | 1        | 0.63%   |
 | Toshiba HDWT140 4TB                   | 1        | 0.63%   |
 | Toshiba HDWQ140 4TB                   | 1        | 0.63%   |
@@ -1153,8 +1151,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 84     | 38%     |
-| 0.51-1.0   | 29       | 49     | 29%     |
+| 0.01-0.5   | 39       | 85     | 39%     |
+| 0.51-1.0   | 28       | 48     | 28%     |
 | 1.01-2.0   | 18       | 42     | 18%     |
 | 3.01-4.0   | 7        | 13     | 7%      |
 | 20.01-50.0 | 4        | 8      | 4%      |
@@ -1824,10 +1822,10 @@ Monitor models
 | Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch         | 1        | 1.35%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.35%   |
 | Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch            | 1        | 1.35%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.35%   |
-| Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.35%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1        | 1.35%   |
+| Goldstar W2243 GSM56FE 1920x1080 480x270mm 21.7-inch                  | 1        | 1.35%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch              | 1        | 1.35%   |
 | Goldstar ULTRAGEAR GSM5BB1 1920x1080 527x296mm 23.8-inch              | 1        | 1.35%   |
+| Goldstar LG ULTRAWIDE GSM76F6 3440x1440 800x340mm 34.2-inch           | 1        | 1.35%   |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1        | 1.35%   |
 | Goldstar 26LB75  GSM5673 1920x1080 700x390mm 31.5-inch                | 1        | 1.35%   |
 | Goldstar 24GM77 GSM5A90 1920x1080 531x298mm 24.0-inch                 | 1        | 1.35%   |
@@ -1847,7 +1845,7 @@ Monitor models
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                     | 1        | 1.35%   |
 | BenQ GL2250H BNQ78A1 1920x1080 477x268mm 21.5-inch                    | 1        | 1.35%   |
 | BenQ BenQG2222HDL BNQ7859 1920x1080 478x269mm 21.6-inch               | 1        | 1.35%   |
-| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch      | 1        | 1.35%   |
+| Ancor Communications VS248 ACI2498 1920x1080 530x300mm 24.0-inch      | 1        | 1.35%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch | 1        | 1.35%   |
 
 Monitor Resolution
@@ -2047,7 +2045,7 @@ Controller models
 | Intel Ethernet Connection (2) I218-LM                                         | 2        | 1.68%   |
 | Intel Cannon Lake PCH CNVi WiFi                                               | 2        | 1.68%   |
 | Intel 82599 10 Gigabit Dual Port Backplane Connection                         | 2        | 1.68%   |
-| Dell iDRAC Virtual NIC USB Device                                             | 2        | 1.68%   |
+| Dell iDRAC Virtual NIC                                                        | 2        | 1.68%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                               | 1        | 0.84%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                               | 1        | 0.84%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                               | 1        | 0.84%   |
@@ -2065,7 +2063,7 @@ Controller models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 1        | 0.84%   |
 | Microchip TrueRNG                                                             | 1        | 0.84%   |
 | Micro Star International MS-3871 802.11bgn Wireless Module [Ralink RT8070]    | 1        | 0.84%   |
-| MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                            | 1        | 0.84%   |
+| MediaTek Wireless                                                             | 1        | 0.84%   |
 | Intel Wireless 7260                                                           | 1        | 0.84%   |
 | Intel Ethernet Connection (11) I219-V                                         | 1        | 0.84%   |
 | Intel 82579V Gigabit Network Connection                                       | 1        | 0.84%   |
@@ -2129,7 +2127,7 @@ Wireless models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)             | 1        | 3.7%    |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                           | 1        | 3.7%    |
 | Micro Star International MS-3871 802.11bgn Wireless Module [Ralink RT8070] | 1        | 3.7%    |
-| MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                         | 1        | 3.7%    |
+| MediaTek Wireless                                                          | 1        | 3.7%    |
 | Intel Wireless 7260                                                        | 1        | 3.7%    |
 | D-Link DWA-171 AC600 DB Wireless Adapter(rev.A1) [Realtek RTL8811AU]       | 1        | 3.7%    |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                         | 1        | 3.7%    |
@@ -2442,9 +2440,9 @@ Memory module models
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s               | 1        | 2.5%    |
 | Samsung RAM M393A2G40DB0-CPB 16384MB DIMM DDR4 2133MT/s  | 1        | 2.5%    |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
-| Samsung RAM M378A1K43CB2-CTD 8192MB DIMM DDR4 3200MT/s   | 1        | 2.5%    |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s      | 1        | 2.5%    |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 667MT/s      | 1        | 2.5%    |
-| Samsung RAM M3 78T2863EHS-CF7 1024MB DIMM DDR2 800MT/s   | 1        | 2.5%    |
+| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s      | 1        | 2.5%    |
 | Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s         | 1        | 2.5%    |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 2.5%    |
 | Micron RAM 9ASF51272PZ-2G3B1 4096MB RIMM DDR4 2400MT/s   | 1        | 2.5%    |

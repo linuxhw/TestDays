@@ -7,11 +7,9 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
+Please contribute! Especially if your hardware is rare.
 
 This is a report for all computer types. See also reports for [desktops](/Dist/Makulu/Desktop/README.md) and [notebooks](/Dist/Makulu/Notebook/README.md).
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -854,7 +852,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.79%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.79%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.79%   |
-| Unknown SD/MMC/MS PRO 32GB                   | 1         | 1.79%   |
+| Unknown SD/MMC/MS PRO 16GB                   | 1         | 1.79%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.79%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.79%   |
 | Toshiba MQ01ABF050M 500GB                    | 1         | 1.79%   |
@@ -888,7 +886,7 @@ Hard drive models
 | Leven JAJS600M512C 512GB SSD                 | 1         | 1.79%   |
 | KIOXIA NVMe SSD Drive 256GB                  | 1         | 1.79%   |
 | JMicron Tech 250GB                           | 1         | 1.79%   |
-| JMicron Generic 2TB                          | 1         | 1.79%   |
+| JMicron Generic 240GB                        | 1         | 1.79%   |
 | Hitachi HTS545025B9A300 250GB                | 1         | 1.79%   |
 | Hitachi HDS728080PLA380 80GB                 | 1         | 1.79%   |
 | Hitachi HDS721010CLA332 1TB                  | 1         | 1.79%   |
@@ -978,10 +976,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 24        | 33     | 63.16%  |
-| 0.51-1.0   | 11        | 12     | 28.95%  |
-| 1.01-2.0   | 2         | 2      | 5.26%   |
-| 3.01-4.0   | 1         | 1      | 2.63%   |
+| 0.01-0.5   | 24        | 34     | 64.86%  |
+| 0.51-1.0   | 11        | 12     | 29.73%  |
+| 3.01-4.0   | 1         | 1      | 2.7%    |
+| 1.01-2.0   | 1         | 1      | 2.7%    |
 
 Space Total
 -----------
@@ -1531,7 +1529,7 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | Toshiba LCD Monitor TV 1920x1080                                         | 1         | 3.03%   |
 | Sony TV SNYDC01 1360x768 1600x900mm 72.3-inch                            | 1         | 3.03%   |
-| Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 3.03%   |
+| Samsung Electronics LCD Monitor SEC314C 1920x1080 340x190mm 15.3-inch    | 1         | 3.03%   |
 | Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 3.03%   |
 | Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 3.03%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 3.03%   |
@@ -1550,9 +1548,9 @@ Monitor models
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                        | 1         | 3.03%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch                        | 1         | 3.03%   |
 | Dell LCD Monitor E228WFP                                                 | 1         | 3.03%   |
-| Dell INSPIRON ONE DELB123 1920x1080 510x287mm 23.0-inch                  | 1         | 3.03%   |
+| Dell 23" AIO DELB123 1920x1080 510x287mm 23.0-inch                       | 1         | 3.03%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 3.03%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 3.03%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 3.03%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 3.03%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 3.03%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 3.03%   |
@@ -1960,10 +1958,11 @@ Controller models
 | Model                                             | Computers | Percent |
 |---------------------------------------------------|-----------|---------|
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 3         | 17.65%  |
-| Realtek Bluetooth Radio                           | 2         | 11.76%  |
+| Realtek  Bluetooth 4.2 Adapter                    | 1         | 5.88%   |
+| Realtek Bluetooth Radio                           | 1         | 5.88%   |
 | Qualcomm Atheros AR9462 Bluetooth                 | 1         | 5.88%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter          | 1         | 5.88%   |
 | Intel Bluetooth wireless interface                | 1         | 5.88%   |
-| Intel Bluetooth Device                            | 1         | 5.88%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter | 1         | 5.88%   |
 | Dell BT Mini-Receiver                             | 1         | 5.88%   |
 | Broadcom Bluetooth 2.1 Device                     | 1         | 5.88%   |
@@ -2064,11 +2063,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Computers | Percent |
-|---------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1         | 33.33%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s     | 1         | 33.33%  |
-| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1         | 33.33%  |
+| Model                                                | Computers | Percent |
+|------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1         | 33.33%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1         | 33.33%  |
+| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2202,8 +2201,8 @@ Camera device models
 | Suyin Laptop_Integrated_Webcam_HD                       | 1         | 7.14%   |
 | Suyin HP Truevision HD                                  | 1         | 7.14%   |
 | Sonix USB 2.0 Camera                                    | 1         | 7.14%   |
-| Microdia Laptop_Integrated_Webcam_HD                    | 1         | 7.14%   |
-| Microdia Integrated_Webcam_FHD                          | 1         | 7.14%   |
+| Microdia Laptop_Integrated_Webcam_FHD                   | 1         | 7.14%   |
+| Microdia Dell Laptop Integrated Webcam HD               | 1         | 7.14%   |
 | Lite-On HP Wide Vision HD Camera                        | 1         | 7.14%   |
 | Chicony UVC 1.00 device HD UVC WebCam                   | 1         | 7.14%   |
 | Chicony Lenovo EasyCamera                               | 1         | 7.14%   |

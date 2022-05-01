@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1100,9 +1098,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 31       | 52     | 42.47%  |
+| 0.01-0.5   | 32       | 53     | 43.84%  |
 | 0.51-1.0   | 23       | 32     | 31.51%  |
-| 1.01-2.0   | 9        | 9      | 12.33%  |
+| 1.01-2.0   | 8        | 8      | 10.96%  |
 | 2.01-3.0   | 4        | 4      | 5.48%   |
 | 3.01-4.0   | 3        | 3      | 4.11%   |
 | 4.01-10.0  | 3        | 9      | 4.11%   |
@@ -1701,20 +1699,20 @@ Monitor models
 | AOC F22 AOC2200 1920x1080 476x268mm 21.5-inch                            | 2        | 3.13%   |
 | Ancor Communications ASUS PB277 ACI27B5 2560x1440 597x336mm 27.0-inch    | 2        | 3.13%   |
 | ViewSonic LCD Monitor VX2452 Series 3840x1080                            | 1        | 1.56%   |
-| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                            | 1        | 1.56%   |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch     | 1        | 1.56%   |
 | Samsung Electronics U32J59x SAM0F34 3840x2160 697x392mm 31.5-inch        | 1        | 1.56%   |
 | Samsung Electronics T24B301 SAM098E 1920x1080 520x290mm 23.4-inch        | 1        | 1.56%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch        | 1        | 1.56%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch        | 1        | 1.56%   |
 | Samsung Electronics S24D330 SAM0D92 1920x1080 531x299mm 24.0-inch        | 1        | 1.56%   |
 | Samsung Electronics S24A31x SAM7114 1920x1080 527x296mm 23.8-inch        | 1        | 1.56%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch        | 1        | 1.56%   |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 700x390mm 31.5-inch    | 1        | 1.56%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1210x680mm 54.6-inch   | 1        | 1.56%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.56%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.56%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch        | 1        | 1.56%   |
 | Samsung Electronics C27FG7x SAM0E41 1920x1080 598x337mm 27.0-inch        | 1        | 1.56%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch        | 1        | 1.56%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch        | 1        | 1.56%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch                 | 1        | 1.56%   |
+| Philips PHL 276E8V PHLC18F 1920x1080 597x336mm 27.0-inch                 | 1        | 1.56%   |
 | Philips PHL 246V5 PHLC0C5 1920x1080 531x299mm 24.0-inch                  | 1        | 1.56%   |
 | Philips PHL 245E1 PHLC20B 2560x1440 527x296mm 23.8-inch                  | 1        | 1.56%   |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                  | 1        | 1.56%   |
@@ -1722,17 +1720,17 @@ Monitor models
 | Philips 247ELH PHLC085 1920x1080 521x293mm 23.5-inch                     | 1        | 1.56%   |
 | Philips 226VL PHLC081 1920x1080 480x268mm 21.6-inch                      | 1        | 1.56%   |
 | Packard Bell Viseo203DX PKB0378 1600x900 432x240mm 19.5-inch             | 1        | 1.56%   |
-| KTC 24'TV KTC2400 1360x768 525x297mm 23.7-inch                           | 1        | 1.56%   |
+| KTC 24'TV KTC2400 1360x768 708x398mm 32.0-inch                           | 1        | 1.56%   |
 | Jean JT198x6-7 JEN17C6 1280x1024 376x301mm 19.0-inch                     | 1        | 1.56%   |
 | Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                    | 1        | 1.56%   |
 | Idek Iiyama LCD Monitor PL2488H                                          | 1        | 1.56%   |
 | HVR HTC-VIVE HVRAA01 2160x1200                                           | 1        | 1.56%   |
 | Hitachi HISENSE HEC0030 3840x2160 1872x1053mm 84.6-inch                  | 1        | 1.56%   |
-| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                  | 1        | 1.56%   |
-| Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                     | 1        | 1.56%   |
+| Goldstar Ultra HD GSM5B09 3780x2160 600x340mm 27.2-inch                  | 1        | 1.56%   |
+| Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                     | 1        | 1.56%   |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch                  | 1        | 1.56%   |
 | Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                   | 1        | 1.56%   |
-| Goldstar E2251 GSM586D 1920x1080 477x268mm 21.5-inch                     | 1        | 1.56%   |
+| Goldstar E2251 GSM586D 1920x1080 480x270mm 21.7-inch                     | 1        | 1.56%   |
 | Envision Peripherals LED P2478MDHL ENV2478 1920x1080 531x299mm 24.0-inch | 1        | 1.56%   |
 | Dell U2415 DELA0B8 1920x1200 518x324mm 24.1-inch                         | 1        | 1.56%   |
 | Dell S2817Q DEL40EE 3840x2160 621x341mm 27.9-inch                        | 1        | 1.56%   |
@@ -1745,8 +1743,8 @@ Monitor models
 | BenQ FP202W BNQ76C3 1680x1050 376x301mm 19.0-inch                        | 1        | 1.56%   |
 | BenQ EX2780Q BNQ7F76 2560x1440 597x336mm 27.0-inch                       | 1        | 1.56%   |
 | Belinea Belinea101536 MAX05EA 1024x768 304x228mm 15.0-inch               | 1        | 1.56%   |
-| ASUSTek Computer VP249 AUS24AF 1920x1080 527x296mm 23.8-inch             | 1        | 1.56%   |
-| ASUSTek Computer VG289 AUS28BA 3840x2160 620x340mm 27.8-inch             | 1        | 1.56%   |
+| ASUSTek Computer VP249 AUS24AF 1920x1080 530x300mm 24.0-inch             | 1        | 1.56%   |
+| ASUSTek Computer VG289 AUS28BA 3840x2160 621x341mm 27.9-inch             | 1        | 1.56%   |
 | ASUSTek Computer ROG PG27U AUS27A4 3840x2160 598x336mm 27.0-inch         | 1        | 1.56%   |
 | AOC U3277WB AOC3277 3840x2160 698x393mm 31.5-inch                        | 1        | 1.56%   |
 | AOC 2475W AOC2475 1920x1080 521x293mm 23.5-inch                          | 1        | 1.56%   |
@@ -2162,20 +2160,20 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 18.75%  |
-| Intel Bluetooth wireless interface                  | 2        | 12.5%   |
-| IMC Networks Bluetooth Radio                        | 2        | 12.5%   |
-| Qualcomm Atheros  Bluetooth Device                  | 1        | 6.25%   |
-| Intel Bluetooth Device                              | 1        | 6.25%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 6.25%   |
-| Intel AX210 Bluetooth                               | 1        | 6.25%   |
-| Intel AX201 Bluetooth                               | 1        | 6.25%   |
-| IMC Networks Bluetooth Device                       | 1        | 6.25%   |
-| HTC (High Tech Computer) BCM920703 Bluetooth 4.1    | 1        | 6.25%   |
-| Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 6.25%   |
-| ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 6.25%   |
+| Model                                                                | Desktops | Percent |
+|----------------------------------------------------------------------|----------|---------|
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                  | 3        | 18.75%  |
+| Intel Bluetooth wireless interface                                   | 2        | 12.5%   |
+| IMC Networks Bluetooth Radio                                         | 2        | 12.5%   |
+| Qualcomm Atheros  Bluetooth Device                                   | 1        | 6.25%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter                             | 1        | 6.25%   |
+| Intel Bluetooth Device                                               | 1        | 6.25%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 1        | 6.25%   |
+| Intel AX210 Bluetooth                                                | 1        | 6.25%   |
+| IMC Networks Bluetooth Device                                        | 1        | 6.25%   |
+| HTC (High Tech Computer) Vive Hub Bluetooth 4.1 (Broadcom BCM920703) | 1        | 6.25%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                                    | 1        | 6.25%   |
+| ASUS Broadcom BCM20702A0 Bluetooth                                   | 1        | 6.25%   |
 
 Sound
 -----
@@ -2233,7 +2231,7 @@ Sound card models
 | Nvidia GM206 High Definition Audio Controller                              | 2        | 1.9%    |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 1.9%    |
 | Creative Labs CA0110 [Sound Blaster X-Fi Xtreme Audio]                     | 2        | 1.9%    |
-| C-Media Electronics KLIM Mantis Audio 7.1                                  | 2        | 1.9%    |
+| C-Media Electronics USB Audio Device                                       | 2        | 1.9%    |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 2        | 1.9%    |
 | TC Electronic VoiceLive Play                                               | 1        | 0.95%   |
 | SteelSeries ApS Arctis Pro Wireless                                        | 1        | 0.95%   |
@@ -2259,13 +2257,13 @@ Sound card models
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 1        | 0.95%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 0.95%   |
 | Generalplus Technology USB Audio Device                                    | 1        | 0.95%   |
-| Focusrite-Novation Scarlett Solo (3rd Gen.)                                | 1        | 0.95%   |
+| Focusrite-Novation Scarlett Solo USB                                       | 1        | 0.95%   |
 | Creative Technology Sound Blaster Tactic(3D) Alpha                         | 1        | 0.95%   |
 | Creative Technology Sound Blaster Premium HD [SBX]                         | 1        | 0.95%   |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.95%   |
 | Corsair HS45 Surround USB Sound Adapter                                    | 1        | 0.95%   |
+| C-Media Electronics Auna Mic CM900                                         | 1        | 0.95%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 0.95%   |
-| C-Media Electronics Anua Mic CM 900                                        | 1        | 0.95%   |
 | AudioQuest DragonFly                                                       | 1        | 0.95%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                        | 1        | 0.95%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                 | 1        | 0.95%   |
@@ -2312,50 +2310,50 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3533MT/s      | 2        | 4.35%   |
-| G.Skill RAM F3-10666CL9-4GBNT 4096MB DIMM DDR3 1400MT/s   | 2        | 4.35%   |
-| Crucial RAM BLS16G4D30AESB.M16FE 16GB DIMM DDR4 3200MT/s  | 2        | 4.35%   |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 2        | 4.35%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                      | 1        | 2.17%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                      | 1        | 2.17%   |
-| Unknown RAM Module 2048MB DIMM 1328MT/s                   | 1        | 2.17%   |
-| Transcend RAM JM2666HLB-16G 16GB DIMM DDR4 2667MT/s       | 1        | 2.17%   |
-| SK Hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4 2667MT/s     | 1        | 2.17%   |
-| SK Hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s   | 1        | 2.17%   |
-| SK Hynix RAM HMA41GU6AFR8N-TF 8GB DIMM DDR4 2465MT/s      | 1        | 2.17%   |
-| Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s       | 1        | 2.17%   |
-| Samsung RAM M3 78T2863RZS-CF7 1GB DIMM DDR2 800MT/s       | 1        | 2.17%   |
-| Patriot RAM PSD48G240082 8GB DIMM DDR4 2400MT/s           | 1        | 2.17%   |
-| Micron RAM 16ATF2G64HZ-2G6J1 16GB SODIMM DDR4 2667MT/s    | 1        | 2.17%   |
-| Kingston RAM XJ69DF-MIE 8GB DIMM DDR4 2933MT/s            | 1        | 2.17%   |
-| Kingston RAM KHX2133C14D4/4G 4096MB DIMM DDR4 2933MT/s    | 1        | 2.17%   |
-| Kingston RAM 99U5584-014.A00LF 4096MB DIMM DDR3 1600MT/s  | 1        | 2.17%   |
-| Kingston RAM 99U5474-026.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 2.17%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 2.17%   |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 2.17%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 1        | 2.17%   |
-| G.Skill RAM F4-3200C16-8GSXWB 8192MB DIMM DDR4 4133MT/s   | 1        | 2.17%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s     | 1        | 2.17%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s       | 1        | 2.17%   |
-| G.Skill RAM F4-2400C15-4GRR 4096MB DIMM DDR4 2133MT/s     | 1        | 2.17%   |
-| G.Skill RAM F3-2400C10-4GTX 4GB DIMM DDR3 2400MT/s        | 1        | 2.17%   |
-| G.Skill RAM F3-1866C10-8G 8192MB DIMM DDR3 1600MT/s       | 1        | 2.17%   |
-| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s     | 1        | 2.17%   |
-| Crucial RAM BL16G32C16U4BL.M16FE 16GB DIMM DDR4 3200MT/s  | 1        | 2.17%   |
-| Corsair RAM Module 4096MB DIMM DDR3 2481MT/s              | 1        | 2.17%   |
-| Corsair RAM CMZ8GX3M2A160 4096MB DIMM DDR3 1333MT/s       | 1        | 2.17%   |
-| Corsair RAM CMZ4GX3M1A160 4GB DIMM DDR3 1333MT/s          | 1        | 2.17%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 1        | 2.17%   |
-| Corsair RAM CMY16GX3M2A1600C9 8192MB DIMM DDR3 2133MT/s   | 1        | 2.17%   |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s     | 1        | 2.17%   |
-| Corsair RAM CML8GX3M1A1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.17%   |
-| Corsair RAM CMK16GX4M2D3600C18 8192MB DIMM DDR4 3600MT/s  | 1        | 2.17%   |
-| Corsair RAM CMK16GX4M2D3000C16 8192MB DIMM DDR4 3200MT/s  | 1        | 2.17%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 2.17%   |
-| AMD RAM R534G1601U1S 4GB DIMM DDR3 1600MT/s               | 1        | 2.17%   |
-| A-DATA RAM Module 32GB DIMM DDR4 3200MT/s                 | 1        | 2.17%   |
+| Model                                                      | Desktops | Percent |
+|------------------------------------------------------------|----------|---------|
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3533MT/s       | 2        | 4.35%   |
+| G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1400MT/s       | 2        | 4.35%   |
+| Crucial RAM BLS16G4D30AESB.M16FE 16GB DIMM DDR4 3200MT/s   | 2        | 4.35%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s      | 2        | 4.35%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                       | 1        | 2.17%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                       | 1        | 2.17%   |
+| Unknown RAM Module 2048MB DIMM 1328MT/s                    | 1        | 2.17%   |
+| Transcend RAM JM2666HLB-16G 16GB DIMM DDR4 2667MT/s        | 1        | 2.17%   |
+| SK Hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4 2667MT/s      | 1        | 2.17%   |
+| SK Hynix RAM HMA82GS6DJR8N-XN 16384MB SODIMM DDR4 3200MT/s | 1        | 2.17%   |
+| SK Hynix RAM HMA41GU6AFR8N-TF 8GB DIMM DDR4 2465MT/s       | 1        | 2.17%   |
+| Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.17%   |
+| Samsung RAM M3 78T2863RZS-CF7 1GB DIMM DDR2 800MT/s        | 1        | 2.17%   |
+| Patriot RAM PSD48G240082 8GB DIMM DDR4 2400MT/s            | 1        | 2.17%   |
+| Micron RAM 16ATF2G64HZ-2G6J1 16GB SODIMM DDR4 2667MT/s     | 1        | 2.17%   |
+| Kingston RAM XJ69DF-MIE 8GB DIMM DDR4 2933MT/s             | 1        | 2.17%   |
+| Kingston RAM KHX2133C14D4/4G 4096MB DIMM DDR4 2933MT/s     | 1        | 2.17%   |
+| Kingston RAM 99U5584-014.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.17%   |
+| Kingston RAM 99U5474-026.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 2.17%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.17%   |
+| Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.17%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s     | 1        | 2.17%   |
+| G.Skill RAM F4-3200C16-8GSXWB 8GB DIMM DDR4 4133MT/s       | 1        | 2.17%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s         | 1        | 2.17%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s        | 1        | 2.17%   |
+| G.Skill RAM F4-2400C15-4GRR 4096MB DIMM DDR4 2133MT/s      | 1        | 2.17%   |
+| G.Skill RAM F3-2400C10-4GTX 4GB DIMM DDR3 2400MT/s         | 1        | 2.17%   |
+| G.Skill RAM F3-1866C10-8G 8192MB DIMM DDR3 1600MT/s        | 1        | 2.17%   |
+| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s      | 1        | 2.17%   |
+| Crucial RAM BL16G32C16U4BL.M16FE 16GB DIMM DDR4 3200MT/s   | 1        | 2.17%   |
+| Corsair RAM Module 4096MB DIMM DDR3 2481MT/s               | 1        | 2.17%   |
+| Corsair RAM CMZ8GX3M2A160 4096MB DIMM DDR3 1333MT/s        | 1        | 2.17%   |
+| Corsair RAM CMZ4GX3M1A160 4GB DIMM DDR3 1333MT/s           | 1        | 2.17%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.17%   |
+| Corsair RAM CMY16GX3M2A1600C9 8192MB DIMM DDR3 2133MT/s    | 1        | 2.17%   |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s      | 1        | 2.17%   |
+| Corsair RAM CML8GX3M1A1600C10 8192MB DIMM DDR3 1600MT/s    | 1        | 2.17%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s      | 1        | 2.17%   |
+| Corsair RAM CMK16GX4M2D3000C16 8192MB DIMM DDR4 3200MT/s   | 1        | 2.17%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s      | 1        | 2.17%   |
+| AMD RAM R534G1601U1S 4GB DIMM DDR3 1600MT/s                | 1        | 2.17%   |
+| A-DATA RAM Module 32GB DIMM DDR4 3200MT/s                  | 1        | 2.17%   |
 
 Memory Kind
 -----------

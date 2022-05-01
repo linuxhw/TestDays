@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -414,9 +412,8 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
+| 2013 | 2        | 66.67%  |
 | 2016 | 1        | 33.33%  |
-| 2014 | 1        | 33.33%  |
-| 2013 | 1        | 33.33%  |
 
 Form Factor
 -----------

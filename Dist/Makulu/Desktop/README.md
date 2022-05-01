@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -770,7 +768,7 @@ Hard drive models
 | Origin Inception TLC830 SSD 256GB            | 1        | 2.86%   |
 | Micron/Crucial NVMe SSD Drive 500GB          | 1        | 2.86%   |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.86%   |
-| JMicron Generic 2TB                          | 1        | 2.86%   |
+| JMicron Generic 240GB                        | 1        | 2.86%   |
 | Hitachi HDS728080PLA380 80GB                 | 1        | 2.86%   |
 | Hitachi HDS721010CLA332 1TB                  | 1        | 2.86%   |
 | China SATA SSD 120GB                         | 1        | 2.86%   |
@@ -850,9 +848,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 15       | 19     | 62.5%   |
-| 0.51-1.0   | 7        | 8      | 29.17%  |
-| 1.01-2.0   | 2        | 2      | 8.33%   |
+| 0.01-0.5   | 15       | 20     | 65.22%  |
+| 0.51-1.0   | 7        | 8      | 30.43%  |
+| 1.01-2.0   | 1        | 1      | 4.35%   |
 
 Space Total
 -----------
@@ -1681,7 +1679,7 @@ Controller models
 |------------------------------------------------|----------|---------|
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2        | 28.57%  |
 | Realtek Bluetooth Radio                        | 1        | 14.29%  |
-| Intel Bluetooth Device                         | 1        | 14.29%  |
+| Intel Wireless-AC 9260 Bluetooth Adapter       | 1        | 14.29%  |
 | Dell BT Mini-Receiver                          | 1        | 14.29%  |
 | Broadcom BCM20702A0 Bluetooth 4.0              | 1        | 14.29%  |
 | ASUS Broadcom BCM20702A0 Bluetooth             | 1        | 14.29%  |
@@ -1766,11 +1764,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1        | 33.33%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s     | 1        | 33.33%  |
-| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 33.33%  |
+| Model                                                | Desktops | Percent |
+|------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1        | 33.33%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1        | 33.33%  |
+| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1        | 33.33%  |
 
 Memory Kind
 -----------
@@ -1889,10 +1887,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                          | Desktops | Percent |
-|--------------------------------|----------|---------|
-| Sonix USB 2.0 Camera           | 1        | 50%     |
-| Microdia Integrated_Webcam_FHD | 1        | 50%     |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Sonix USB 2.0 Camera                  | 1        | 50%     |
+| Microdia Laptop_Integrated_Webcam_FHD | 1        | 50%     |
 
 Security
 --------

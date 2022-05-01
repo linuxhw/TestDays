@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -851,8 +849,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 55       | 68.75%  |
-| No        | 25       | 31.25%  |
+| Yes       | 54       | 67.5%   |
+| No        | 26       | 32.5%   |
 
 Has Ethernet
 ------------
@@ -1880,8 +1878,8 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                           | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.28%   |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch    | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080 700x390mm 31.5-inch                        | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
@@ -1905,18 +1903,18 @@ Monitor models
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.28%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.28%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.28%   |
-| KTC 32'TV KTC3200 1360x768 708x398mm 32.0-inch                          | 1        | 1.28%   |
+| KTC Q3202S KTC3200 2560x1440 708x398mm 32.0-inch                        | 1        | 1.28%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch              | 1        | 1.28%   |
 | Hewlett-Packard LCD Monitor 2711 1920x1080                              | 1        | 1.28%   |
 | Hewlett-Packard L1955 HWP262C 1280x1024 380x300mm 19.1-inch             | 1        | 1.28%   |
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch              | 1        | 1.28%   |
-| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
+| Goldstar W1943 GSM4BAD 1360x768 410x230mm 18.5-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.28%   |
-| Goldstar LG HDR WFHD GSM7714 2560x1080 800x340mm 34.2-inch              | 1        | 1.28%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch                | 1        | 1.28%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.28%   |
 | Goldstar L1553S GSM3BB0 1024x768 304x228mm 15.0-inch                    | 1        | 1.28%   |
+| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 1        | 1.28%   |
 | Goldstar E2350 GSM5791 1920x1080 510x290mm 23.1-inch                    | 1        | 1.28%   |
 | Goldstar 27GN7 GSM5B8E 1920x1080 600x303mm 26.5-inch                    | 1        | 1.28%   |
 | FUS LCD Monitor 383V FA                                                 | 1        | 1.28%   |
@@ -2153,8 +2151,8 @@ Controller models
 | Gemtek WUBR-177G [Ralink RT2571W]                                             | 3        | 2.29%   |
 | VIA VT6102/VT6103 [Rhine-II]                                                  | 2        | 1.53%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 2        | 1.53%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                         | 2        | 1.53%   |
 | Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                     | 2        | 1.53%   |
-| Realtek 802.11n                                                               | 2        | 1.53%   |
 | Realtek 802.11ac NIC                                                          | 2        | 1.53%   |
 | Qualcomm Atheros AR9271 802.11n                                               | 2        | 1.53%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                              | 2        | 1.53%   |
@@ -2243,8 +2241,8 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                                        | 3        | 6.25%   |
 | Gemtek WUBR-177G [Ralink RT2571W]                                                      | 3        | 6.25%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                        | 2        | 4.17%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                  | 2        | 4.17%   |
 | Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                              | 2        | 4.17%   |
-| Realtek 802.11n                                                                        | 2        | 4.17%   |
 | Realtek 802.11ac NIC                                                                   | 2        | 4.17%   |
 | Qualcomm Atheros AR9271 802.11n                                                        | 2        | 4.17%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                       | 2        | 4.17%   |
@@ -2574,16 +2572,16 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 800MT/s                   | 1        | 5.56%   |
 | Unknown RAM Module 1024MB DIMM 41632MT/s                 | 1        | 5.56%   |
 | SK Hynix RAM Module 2GB DIMM DDR3 1600MT/s               | 1        | 5.56%   |
-| SK Hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s     | 1        | 5.56%   |
+| SK Hynix RAM HMT125U6TFR8C-H9 2048MB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5.56%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s       | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 5.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 5.56%   |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 5.56%   |
-| Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2400MT/s     | 1        | 5.56%   |
+| Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2866MT/s     | 1        | 5.56%   |
 | G.Skill RAM F3-1866C10-8GAB 8GB DIMM DDR3 1866MT/s       | 1        | 5.56%   |
 | Crucial RAM BLS8G3D18ADS3 8GB DIMM DDR3 1866MT/s         | 1        | 5.56%   |
 | Unknown                                                  | 1        | 5.56%   |
@@ -2643,15 +2641,16 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 3        | 21.43%  |
-| 1333    | 3        | 21.43%  |
-| 800     | 2        | 14.29%  |
-| 41632   | 1        | 7.14%   |
-| 2400    | 1        | 7.14%   |
-| 1867    | 1        | 7.14%   |
-| 1866    | 1        | 7.14%   |
-| 320     | 1        | 7.14%   |
-| Unknown | 1        | 7.14%   |
+| 1600    | 3        | 20%     |
+| 1333    | 3        | 20%     |
+| 800     | 2        | 13.33%  |
+| 41632   | 1        | 6.67%   |
+| 2866    | 1        | 6.67%   |
+| 2400    | 1        | 6.67%   |
+| 1867    | 1        | 6.67%   |
+| 1866    | 1        | 6.67%   |
+| 320     | 1        | 6.67%   |
+| Unknown | 1        | 6.67%   |
 
 Printers & scanners
 -------------------
@@ -2732,7 +2731,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Sunplus SPCA2281 Web Camera                                         | 1        | 12.5%   |
-| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 12.5%   |
+| Samsung Galaxy A5 (MTP)                                             | 1        | 12.5%   |
 | Logitech Webcam C270                                                | 1        | 12.5%   |
 | Logitech Webcam C210                                                | 1        | 12.5%   |
 | GEO Semi Condor                                                     | 1        | 12.5%   |

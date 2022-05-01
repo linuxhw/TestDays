@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1497,16 +1495,16 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Desktops | Percent |
-|-------------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM DDR 400MT/s             | 1        | 12.5%   |
-| Unknown RAM Module 512MB DIMM                         | 1        | 12.5%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                   | 1        | 12.5%   |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s           | 1        | 12.5%   |
-| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s        | 1        | 12.5%   |
-| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s    | 1        | 12.5%   |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 12.5%   |
-| Kingston RAM 99U5402-060.A 2GB DIMM DDR3 1333MT/s     | 1        | 12.5%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 512MB DIMM DDR 400MT/s                | 1        | 12.5%   |
+| Unknown RAM Module 512MB DIMM                            | 1        | 12.5%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                      | 1        | 12.5%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s              | 1        | 12.5%   |
+| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s           | 1        | 12.5%   |
+| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s       | 1        | 12.5%   |
+| Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 12.5%   |
+| Kingston RAM 99U5402-060.A 2GB DIMM DDR3 1333MT/s        | 1        | 12.5%   |
 
 Memory Kind
 -----------

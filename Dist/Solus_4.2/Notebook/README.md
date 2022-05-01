@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -692,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -1183,7 +1181,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1191,7 +1189,7 @@ Monitor models
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 6.67%   |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 6.67%   |
-| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 6.67%   |
+| AU Optronics LCD Monitor AUO313C 1366x768 310x170mm 13.9-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO173D 1920x1080 309x173mm 13.9-inch       | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO15ED 1920x1080 344x193mm 15.5-inch       | 1         | 6.67%   |
@@ -1309,16 +1307,16 @@ Controller vendors
 ![Net Controller Vendor](./images/pie_chart/net_vendor.svg)
 
 
-| Vendor                        | Notebooks | Percent |
-|-------------------------------|-----------|---------|
-| Realtek Semiconductor         | 7         | 30.43%  |
-| Intel                         | 6         | 26.09%  |
-| Qualcomm Atheros              | 5         | 21.74%  |
-| Ralink                        | 1         | 4.35%   |
-| OnePlus Technology (Shenzhen) | 1         | 4.35%   |
-| Marvell Technology Group      | 1         | 4.35%   |
-| Hewlett-Packard               | 1         | 4.35%   |
-| Broadcom                      | 1         | 4.35%   |
+| Vendor                   | Notebooks | Percent |
+|--------------------------|-----------|---------|
+| Realtek Semiconductor    | 7         | 30.43%  |
+| Intel                    | 6         | 26.09%  |
+| Qualcomm Atheros         | 5         | 21.74%  |
+| Ralink                   | 1         | 4.35%   |
+| OnePlus                  | 1         | 4.35%   |
+| Marvell Technology Group | 1         | 4.35%   |
+| Hewlett-Packard          | 1         | 4.35%   |
+| Broadcom                 | 1         | 4.35%   |
 
 Net Controller Model
 --------------------
@@ -1342,7 +1340,7 @@ Controller models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
-| OnePlus (Shenzhen) AC2001                                         | 1         | 3.57%   |
+| OnePlus IN2017                                                    | 1         | 3.57%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
 | Intel Wireless 8260                                               | 1         | 3.57%   |
 | Intel Wireless 7260                                               | 1         | 3.57%   |
@@ -1519,7 +1517,7 @@ Controller models
 | Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
 | Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
+| Lite-On Bluetooth Device                         | 1         | 10%     |
 | Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
@@ -1593,8 +1591,8 @@ Memory module models
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 16.67%  |
-| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
+| Micron RAM 16KTF51264HZ-1G6M1 4096MB SODIMM DDR3 1600MT/s | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 16.67%  |
 | A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 16.67%  |
@@ -1714,18 +1712,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Notebooks | Percent |
-|------------------------------------------|-----------|---------|
-| Suyin HP TrueVision HD Integrated Webcam | 1         | 10%     |
-| Suyin 1.3M HD WebCam                     | 1         | 10%     |
-| Microdia Laptop_Integrated_Webcam_HD     | 1         | 10%     |
-| Lite-On Integrated Camera                | 1         | 10%     |
-| Lite-On HP HD Webcam                     | 1         | 10%     |
-| Importek TOSHIBA Web Camera - HD         | 1         | 10%     |
-| IMC Networks USB2.0 HD UVC WebCam        | 1         | 10%     |
-| Chicony Integrated Camera                | 1         | 10%     |
-| Chicony HD WebCam                        | 1         | 10%     |
-| Chicony 2.0M UVC WebCam                  | 1         | 10%     |
+| Model                                     | Notebooks | Percent |
+|-------------------------------------------|-----------|---------|
+| Suyin HP TrueVision HD Integrated Webcam  | 1         | 10%     |
+| Suyin 1.3M HD WebCam                      | 1         | 10%     |
+| Microdia Dell Laptop Integrated Webcam HD | 1         | 10%     |
+| Lite-On Integrated Camera                 | 1         | 10%     |
+| Lite-On HP HD Webcam                      | 1         | 10%     |
+| Importek TOSHIBA Web Camera - HD          | 1         | 10%     |
+| IMC Networks USB2.0 HD UVC WebCam         | 1         | 10%     |
+| Chicony Integrated Camera                 | 1         | 10%     |
+| Chicony HD WebCam                         | 1         | 10%     |
+| Chicony 2.0M UVC WebCam                   | 1         | 10%     |
 
 Security
 --------

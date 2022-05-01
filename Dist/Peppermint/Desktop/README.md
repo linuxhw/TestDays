@@ -9,8 +9,6 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please contribute! Especially if your hardware is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends
-
 Contents
 --------
 
@@ -1955,7 +1953,7 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.3%    |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.15%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.15%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch      | 1        | 1.15%   |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch    | 1        | 1.15%   |
 | Toshiba TV TSB0206 1920x1080 700x390mm 31.5-inch                        | 1        | 1.15%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.15%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.15%   |
@@ -1979,7 +1977,7 @@ Monitor models
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.15%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.15%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.15%   |
-| Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.15%   |
+| Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.15%   |
 | KTC Q3202S KTC3200 2560x1440 708x398mm 32.0-inch                        | 1        | 1.15%   |
 | Hitachi 40E31 HTC0139 1920x1080 575x323mm 26.0-inch                     | 1        | 1.15%   |
 | Hewlett-Packard w2338h HWP281B 1920x1080 509x286mm 23.0-inch            | 1        | 1.15%   |
@@ -1989,10 +1987,10 @@ Monitor models
 | Hewlett-Packard L1955 HWP262C 1280x1024 380x300mm 19.1-inch             | 1        | 1.15%   |
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch              | 1        | 1.15%   |
 | Hewlett-Packard 27m HPN3579 1920x1080 598x336mm 27.0-inch               | 1        | 1.15%   |
-| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.15%   |
+| Goldstar W1943 GSM4BAD 1360x768 410x230mm 18.5-inch                     | 1        | 1.15%   |
 | Goldstar W1930 GSM4BBD 1360x768 409x230mm 18.5-inch                     | 1        | 1.15%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.15%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 1        | 1.15%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch                | 1        | 1.15%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.15%   |
 | Goldstar L1553S GSM3BB0 1024x768 304x228mm 15.0-inch                    | 1        | 1.15%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 1        | 1.15%   |
@@ -2244,7 +2242,7 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.67%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                  | 1        | 0.67%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                   | 1        | 0.67%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                         | 1        | 0.67%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                           | 1        | 0.67%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                              | 1        | 0.67%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 1        | 0.67%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                        | 1        | 0.67%   |
@@ -2268,7 +2266,7 @@ Controller models
 | Nvidia MCP51 Ethernet Controller                                              | 1        | 0.67%   |
 | Nvidia CK804 Ethernet Controller                                              | 1        | 0.67%   |
 | NetGear WG111v3 54 Mbps Wireless [realtek RTL8187B]                           | 1        | 0.67%   |
-| Motorola PCS moto g pure                                                      | 1        | 0.67%   |
+| Motorola PCS moto g power (2021)                                              | 1        | 0.67%   |
 | Marvell Group 88w8335 [Libertas] 802.11b/g Wireless                           | 1        | 0.67%   |
 | Intel Wi-Fi 6 AX200                                                           | 1        | 0.67%   |
 | Intel NM10/ICH7 Family LAN Controller                                         | 1        | 0.67%   |
@@ -2330,7 +2328,7 @@ Wireless models
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                       | 2        | 3.85%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                           | 1        | 1.92%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                            | 1        | 1.92%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                  | 1        | 1.92%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                    | 1        | 1.92%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                                       | 1        | 1.92%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                 | 1        | 1.92%   |
 | Realtek RTL8188EE Wireless Network Adapter                                             | 1        | 1.92%   |

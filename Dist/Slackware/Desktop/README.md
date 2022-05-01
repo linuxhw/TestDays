@@ -9,8 +9,6 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please contribute! Especially if your hardware is rare.
 
-Full-feature report is available here: https://linux-hardware.org/?view=trends
-
 Contents
 --------
 
@@ -394,7 +392,7 @@ Desktop Environment
 | Unknown | 22       | 43.14%  |
 | XFCE    | 13       | 25.49%  |
 | KDE5    | 13       | 25.49%  |
-| fvwm    | 2        | 3.92%   |
+| FVWM    | 2        | 3.92%   |
 | KDE     | 1        | 1.96%   |
 
 Display Server
@@ -1111,13 +1109,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 33       | 58     | 40.74%  |
-| 0.51-1.0   | 19       | 41     | 23.46%  |
+| 0.01-0.5   | 32       | 57     | 39.51%  |
+| 0.51-1.0   | 20       | 42     | 24.69%  |
 | 1.01-2.0   | 11       | 15     | 13.58%  |
+| 3.01-4.0   | 7        | 18     | 8.64%   |
 | 2.01-3.0   | 7        | 15     | 8.64%   |
-| 3.01-4.0   | 6        | 17     | 7.41%   |
-| 4.01-10.0  | 3        | 3      | 3.7%    |
 | 10.01-20.0 | 2        | 5      | 2.47%   |
+| 4.01-10.0  | 2        | 2      | 2.47%   |
 
 Space Total
 -----------
@@ -1807,7 +1805,7 @@ Monitor models
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch    | 1        | 1.89%   |
 | Samsung Electronics SM2333T SAM0736 1920x1080 477x268mm 21.5-inch     | 1        | 1.89%   |
 | Samsung Electronics S24D390 SAM0B65 1920x1080 521x293mm 23.5-inch     | 1        | 1.89%   |
-| Samsung Electronics S22D300 SAM0B3E 1920x1080 480x270mm 21.7-inch     | 1        | 1.89%   |
+| Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 1.89%   |
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                   | 1        | 1.89%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch       | 1        | 1.89%   |
 | Lenovo LEN L171 LEN24C9 1280x1024 337x270mm 17.0-inch                 | 1        | 1.89%   |
@@ -1838,14 +1836,14 @@ Monitor models
 | BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                     | 1        | 1.89%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch               | 1        | 1.89%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch       | 1        | 1.89%   |
-| AOC Q27G2WG4 AOC2702 2560x1440 597x336mm 27.0-inch                    | 1        | 1.89%   |
+| AOC 27G2G3 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 1.89%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch      | 1        | 1.89%   |
-| Ancor Communications ROG PG348Q ACI3433 3440x1440 800x340mm 34.2-inch | 1        | 1.89%   |
+| Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch | 1        | 1.89%   |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 1.89%   |
 | Ancor Communications ASUS MG28U ACI28A7 3840x2160 621x341mm 27.9-inch | 1        | 1.89%   |
 | Acer RC241YU ACR0600 2560x1440 530x300mm 24.0-inch                    | 1        | 1.89%   |
 | Acer K222HQL ACR040D 1920x1080 477x268mm 21.5-inch                    | 1        | 1.89%   |
-| Acer GN246HL ACR02F9 1920x1080 531x299mm 24.0-inch                    | 1        | 1.89%   |
+| Acer GN246HL ACR02F9 1920x1080 530x300mm 24.0-inch                    | 1        | 1.89%   |
 | Acer AL1714 ACRAD18 1280x1024 338x270mm 17.0-inch                     | 1        | 1.89%   |
 
 Monitor Resolution
@@ -2393,7 +2391,7 @@ Memory module models
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 3.28%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s         | 2        | 3.28%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s          | 2        | 3.28%   |
 | Unknown RAM Module 4GB DIMM DDR3 1066MT/s                   | 1        | 1.64%   |
 | Unknown RAM Module 4096MB DIMM DDR3 65535MT/s               | 1        | 1.64%   |
 | Unknown RAM Module 2048MB DIMM DDR 800MT/s                  | 1        | 1.64%   |
@@ -2415,7 +2413,7 @@ Memory module models
 | Samsung RAM M393A2G40DB0-CPB 16GB RIMM DDR4 2133MT/s        | 1        | 1.64%   |
 | Samsung RAM M393A1K43BB0-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.64%   |
 | Samsung RAM M393A1G43EB1-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.64%   |
-| Samsung RAM M378B5173EB0-CK0 4GB DIMM 1600MT/s              | 1        | 1.64%   |
+| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s         | 1        | 1.64%   |
 | Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s      | 1        | 1.64%   |
 | Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s      | 1        | 1.64%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s        | 1        | 1.64%   |
@@ -2424,8 +2422,8 @@ Memory module models
 | Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.64%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3533MT/s        | 1        | 1.64%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 1        | 1.64%   |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1867MT/s      | 1        | 1.64%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s         | 1        | 1.64%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s         | 1        | 1.64%   |
+| Kingston RAM KHX1600C10D3/4G 4096MB DIMM DDR3 1866MT/s      | 1        | 1.64%   |
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 800MT/s      | 1        | 1.64%   |
 | Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s    | 1        | 1.64%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s       | 1        | 1.64%   |

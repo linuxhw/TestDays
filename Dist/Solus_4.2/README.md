@@ -7,11 +7,9 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
+Please contribute! Especially if your hardware is rare.
 
 This is a report for all computer types. See also reports for [desktops](/Dist/Solus_4.2/Desktop/README.md) and [notebooks](/Dist/Solus_4.2/Notebook/README.md).
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -804,7 +802,7 @@ Hard drive models
 | SanDisk SDSSDP064G 64GB                  | 1         | 2.22%   |
 | SanDisk SDSSDA240G 240GB                 | 1         | 2.22%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 2.22%   |
-| SanDisk Extreme SSD 2TB                  | 1         | 2.22%   |
+| SanDisk Extreme SSD 1TB                  | 1         | 2.22%   |
 | Samsung SSD 970 EVO Plus 2TB             | 1         | 2.22%   |
 | Samsung SSD 970 EVO 500GB                | 1         | 2.22%   |
 | Samsung PSSD T7 500GB                    | 1         | 2.22%   |
@@ -815,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -900,10 +898,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 23     | 59.38%  |
-| 0.51-1.0   | 10        | 15     | 31.25%  |
-| 1.01-2.0   | 2         | 6      | 6.25%   |
-| 3.01-4.0   | 1         | 1      | 3.13%   |
+| 0.01-0.5   | 19        | 23     | 61.29%  |
+| 0.51-1.0   | 10        | 17     | 32.26%  |
+| 3.01-4.0   | 1         | 1      | 3.23%   |
+| 1.01-2.0   | 1         | 4      | 3.23%   |
 
 Space Total
 -----------
@@ -1413,28 +1411,28 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
 | JRY HDMI JRY1950 1366x768 410x220mm 18.3-inch                        | 1         | 3.45%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1         | 3.45%   |
+| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch                | 1         | 3.45%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch          | 1         | 3.45%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 3.45%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1         | 3.45%   |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 3.45%   |
-| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 3.45%   |
+| AU Optronics LCD Monitor AUO313C 1366x768 310x170mm 13.9-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO173D 1920x1080 309x173mm 13.9-inch       | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO15ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
+| AOC 24E1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1573,20 +1571,20 @@ Controller vendors
 ![Net Controller Vendor](./All/images/pie_chart/net_vendor.svg)
 
 
-| Vendor                        | Computers | Percent |
-|-------------------------------|-----------|---------|
-| Realtek Semiconductor         | 15        | 34.88%  |
-| Intel                         | 11        | 25.58%  |
-| Qualcomm Atheros              | 6         | 13.95%  |
-| Broadcom                      | 3         | 6.98%   |
-| TP-Link                       | 1         | 2.33%   |
-| Ralink Technology             | 1         | 2.33%   |
-| Ralink                        | 1         | 2.33%   |
-| OnePlus Technology (Shenzhen) | 1         | 2.33%   |
-| NetGear                       | 1         | 2.33%   |
-| Marvell Technology Group      | 1         | 2.33%   |
-| Hewlett-Packard               | 1         | 2.33%   |
-| Broadcom Limited              | 1         | 2.33%   |
+| Vendor                   | Computers | Percent |
+|--------------------------|-----------|---------|
+| Realtek Semiconductor    | 15        | 34.88%  |
+| Intel                    | 11        | 25.58%  |
+| Qualcomm Atheros         | 6         | 13.95%  |
+| Broadcom                 | 3         | 6.98%   |
+| TP-Link                  | 1         | 2.33%   |
+| Ralink Technology        | 1         | 2.33%   |
+| Ralink                   | 1         | 2.33%   |
+| OnePlus                  | 1         | 2.33%   |
+| NetGear                  | 1         | 2.33%   |
+| Marvell Technology Group | 1         | 2.33%   |
+| Hewlett-Packard          | 1         | 2.33%   |
+| Broadcom Limited         | 1         | 2.33%   |
 
 Net Controller Model
 --------------------
@@ -1618,7 +1616,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.89%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
-| OnePlus (Shenzhen) AC2001                                         | 1         | 1.89%   |
+| OnePlus IN2017                                                    | 1         | 1.89%   |
 | NetGear A6150                                                     | 1         | 1.89%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.89%   |
@@ -1832,8 +1830,8 @@ Controller models
 | Realtek Bluetooth Radio                          | 1         | 6.67%   |
 | Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
-| Intel Bluetooth Device                           | 1         | 6.67%   |
+| Lite-On Bluetooth Device                         | 1         | 6.67%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
 | Intel AX200 Bluetooth                            | 1         | 6.67%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
 
@@ -1932,11 +1930,11 @@ Memory module models
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 11.11%  |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 11.11%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 11.11%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 11.11%  |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 11.11%  |
-| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |
+| Micron RAM 16KTF51264HZ-1G6M1 4096MB SODIMM DDR3 1600MT/s | 1         | 11.11%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 11.11%  |
-| G.Skill RAM F4-3600C16-16GVKC 16384MB DIMM DDR4 3866MT/s  | 1         | 11.11%  |
+| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s     | 1         | 11.11%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 11.11%  |
 | A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 11.11%  |
 
@@ -2072,22 +2070,22 @@ Camera device models
 ![Camera Model](./All/images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Computers | Percent |
-|------------------------------------------|-----------|---------|
-| Suyin HP TrueVision HD Integrated Webcam | 1         | 7.14%   |
-| Suyin 1.3M HD WebCam                     | 1         | 7.14%   |
-| Microsoft LifeCam HD-3000                | 1         | 7.14%   |
-| Microdia Laptop_Integrated_Webcam_HD     | 1         | 7.14%   |
-| Logitech Logitech Webcam C160            | 1         | 7.14%   |
-| Lite-On Integrated Camera                | 1         | 7.14%   |
-| Lite-On HP HD Webcam                     | 1         | 7.14%   |
-| Importek TOSHIBA Web Camera - HD         | 1         | 7.14%   |
-| IMC Networks USB2.0 HD UVC WebCam        | 1         | 7.14%   |
-| Chicony Integrated Camera                | 1         | 7.14%   |
-| Chicony HD WebCam                        | 1         | 7.14%   |
-| Chicony 2.0M UVC WebCam                  | 1         | 7.14%   |
-| Apple iPhone 5/5C/5S/6/SE                | 1         | 7.14%   |
-| Apple FaceTime HD Camera (Built-in)      | 1         | 7.14%   |
+| Model                                     | Computers | Percent |
+|-------------------------------------------|-----------|---------|
+| Suyin HP TrueVision HD Integrated Webcam  | 1         | 7.14%   |
+| Suyin 1.3M HD WebCam                      | 1         | 7.14%   |
+| Microsoft LifeCam HD-3000                 | 1         | 7.14%   |
+| Microdia Dell Laptop Integrated Webcam HD | 1         | 7.14%   |
+| Logitech Logitech Webcam C160             | 1         | 7.14%   |
+| Lite-On Integrated Camera                 | 1         | 7.14%   |
+| Lite-On HP HD Webcam                      | 1         | 7.14%   |
+| Importek TOSHIBA Web Camera - HD          | 1         | 7.14%   |
+| IMC Networks USB2.0 HD UVC WebCam         | 1         | 7.14%   |
+| Chicony Integrated Camera                 | 1         | 7.14%   |
+| Chicony HD WebCam                         | 1         | 7.14%   |
+| Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE                 | 1         | 7.14%   |
+| Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security
 --------

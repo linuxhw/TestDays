@@ -7,11 +7,9 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
+Please contribute! Especially if your hardware is rare.
 
 This is a report for all computer types. See also reports for [desktops](/Dist/Chrome_OS/Desktop/README.md) and [notebooks](/Dist/Chrome_OS/Notebook/README.md).
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
 
 Contents
 --------
@@ -963,7 +961,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.56%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.56%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.56%   |
-| TO Exter nal USB 3.0 1TB                     | 1         | 1.56%   |
+| TO Exter nal USB 3.0 128GB                   | 1         | 1.56%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.56%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.56%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.56%   |
@@ -983,7 +981,7 @@ Hard drive models
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.56%   |
 | Kingston SA2000M81000G 1TB                   | 1         | 1.56%   |
 | KingSpec NT-256 256GB                        | 1         | 1.56%   |
-| KingDian S200 60GB                           | 1         | 1.56%   |
+| KingDian S200 60GB SSD                       | 1         | 1.56%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.56%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.56%   |
 | Hitachi HTS545032B9A300 320GB                | 1         | 1.56%   |
@@ -1079,8 +1077,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 49     | 97.56%  |
-| 0.51-1.0   | 1         | 1      | 2.44%   |
+| 0.01-0.5   | 41        | 50     | 100%    |
 
 Space Total
 -----------
@@ -1631,7 +1628,7 @@ Monitor models
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                    | 3         | 5.08%   |
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 3.39%   |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 3.39%   |
-| Toshiba TV TSB0106 1280x720 1050x590mm 47.4-inch                         | 1         | 1.69%   |
+| Toshiba TV TSB0106 1920x1080                                             | 1         | 1.69%   |
 | Sony TV SNY9C01 1920x1080                                                | 1         | 1.69%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch                  | 1         | 1.69%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 1.69%   |
@@ -1642,7 +1639,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768                         | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 1.69%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                           | 1         | 1.69%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch                   | 1         | 1.69%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch              | 1         | 1.69%   |
@@ -1653,16 +1650,16 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN4031 1280x800 286x179mm 13.3-inch                  | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch                  | 1         | 1.69%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 1.69%   |
-| Hewlett-Packard S2031 HWP2904 1600x900 440x250mm 19.9-inch               | 1         | 1.69%   |
+| Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 1.69%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 1.69%   |
 | Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                      | 1         | 1.69%   |
 | Goldstar E2260 GSM57DF 1680x1050 480x270mm 21.7-inch                     | 1         | 1.69%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                   | 1         | 1.69%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                    | 1         | 1.69%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                      | 1         | 1.69%   |
-| Dell P2312H DEL4076 1920x1080 510x290mm 23.1-inch                        | 1         | 1.69%   |
+| Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                        | 1         | 1.69%   |
 | Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                       | 1         | 1.69%   |
 | Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch         | 1         | 1.69%   |
 | Chimei Innolux LCD Monitor CMN14E5 1920x1080 309x173mm 13.9-inch         | 1         | 1.69%   |
@@ -1682,7 +1679,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO225C 1366x768 256x144mm 11.6-inch            | 1         | 1.69%   |
 | Apple Color LCD APPA018 2560x1600 286x179mm 13.3-inch                    | 1         | 1.69%   |
 | Apple Cinema HD Display APP9220 2560x1600 641x401mm 29.8-inch            | 1         | 1.69%   |
-| Ancor Communications VS278 ACI27A1 1920x1080 600x340mm 27.2-inch         | 1         | 1.69%   |
+| Ancor Communications VS278 ACI27A1 1920x1080 598x336mm 27.0-inch         | 1         | 1.69%   |
 
 Monitor Resolution
 ------------------
@@ -1888,9 +1885,9 @@ Controller models
 | TP-Link USB 10/100 LAN                                                  | 1         | 1.04%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.04%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 1.04%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.04%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.04%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 1.04%   |
-| Realtek 802.11n                                                         | 1         | 1.04%   |
 | Realtek 802.11ac NIC                                                    | 1         | 1.04%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 1.04%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                           | 1         | 1.04%   |
@@ -1961,9 +1958,9 @@ Wireless models
 | Intel Centrino Ultimate-N 6300                                          | 2         | 3.85%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.92%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 1.92%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.92%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.92%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 1.92%   |
-| Realtek 802.11n                                                         | 1         | 1.92%   |
 | Realtek 802.11ac NIC                                                    | 1         | 1.92%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 1.92%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 1.92%   |
@@ -2126,13 +2123,13 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 3.13%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.13%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.13%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.13%   |
+| Lite-On Bluetooth Device                            | 1         | 3.13%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.13%   |
 | Intel AX200 Bluetooth                               | 1         | 3.13%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.13%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.13%   |
 | Foxconn / Hon Hai BCM43142A0 broadcom bluetooth     | 1         | 3.13%   |
-| Apple Bluetooth Host Controller                     | 1         | 3.13%   |
+| Apple Bluetooth USB Host Controller                 | 1         | 3.13%   |
 
 Sound
 -----
@@ -2368,7 +2365,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 PC cam                              | 6         | 17.65%  |
+| Alcor Micro USB 2.0 Web Camera                          | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |

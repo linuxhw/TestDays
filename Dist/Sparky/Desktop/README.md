@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -743,33 +741,33 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| Samsung HD161GJ 160GB                | 2        | 7.69%   |
-| XPG GAMMIX S11 Pro 256GB             | 1        | 3.85%   |
-| WDC WD800JD-08MSA1 80GB              | 1        | 3.85%   |
-| WDC WD5000AVVS-63ZWB0 500GB          | 1        | 3.85%   |
-| WDC WD2500AAKX-07U6AA0 250GB         | 1        | 3.85%   |
-| WDC WD1600BEVT-22ZCT0 160GB          | 1        | 3.85%   |
-| WDC WD1600AAJS-08L7A0 160GB          | 1        | 3.85%   |
-| WDC WD10EZEX-60WN4A0 1TB             | 1        | 3.85%   |
-| Seagate ST9250315AS 250GB            | 1        | 3.85%   |
-| Seagate ST500LT012-1DG142 500GB      | 1        | 3.85%   |
-| Seagate ST3500312CS 500GB            | 1        | 3.85%   |
-| Seagate ST3320418AS 320GB            | 1        | 3.85%   |
-| Seagate ST2000VM003-1ET164 2TB       | 1        | 3.85%   |
-| Samsung SSD 850 EVO 500GB            | 1        | 3.85%   |
-| Samsung SSD 850 EVO 250GB            | 1        | 3.85%   |
-| Samsung MZVPV256HDGL-000H1 256GB     | 1        | 3.85%   |
-| Samsung HD753LJ 752GB                | 1        | 3.85%   |
-| Samsung HD154UI 1TB                  | 1        | 3.85%   |
-| Kingston SV300S37A480G 480GB SSD     | 1        | 3.85%   |
-| Kingston SA400S37120G 120GB SSD      | 1        | 3.85%   |
-| Kingston SA400M8240G 240GB SSD       | 1        | 3.85%   |
-| Intel SSDSA2BW120G3H 120GB           | 1        | 3.85%   |
-| Hitachi HTS543232A7A384 320GB        | 1        | 3.85%   |
-| HGST HTS545050A7E380 500GB           | 1        | 3.85%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD | 1        | 3.85%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Samsung HD161GJ 160GB            | 2        | 7.69%   |
+| XPG GAMMIX S11 Pro 512GB         | 1        | 3.85%   |
+| WDC WD800JD-08MSA1 80GB          | 1        | 3.85%   |
+| WDC WD5000AVVS-63ZWB0 500GB      | 1        | 3.85%   |
+| WDC WD2500AAKX-07U6AA0 250GB     | 1        | 3.85%   |
+| WDC WD1600BEVT-22ZCT0 160GB      | 1        | 3.85%   |
+| WDC WD1600AAJS-08L7A0 160GB      | 1        | 3.85%   |
+| WDC WD10EZEX-60WN4A0 1TB         | 1        | 3.85%   |
+| Seagate ST9250315AS 250GB        | 1        | 3.85%   |
+| Seagate ST500LT012-1DG142 500GB  | 1        | 3.85%   |
+| Seagate ST3500312CS 500GB        | 1        | 3.85%   |
+| Seagate ST3320418AS 320GB        | 1        | 3.85%   |
+| Seagate ST2000VM003-1ET164 2TB   | 1        | 3.85%   |
+| Samsung SSD 850 EVO 500GB        | 1        | 3.85%   |
+| Samsung SSD 850 EVO 250GB        | 1        | 3.85%   |
+| Samsung MZVPV256HDGL-000H1 256GB | 1        | 3.85%   |
+| Samsung HD753LJ 752GB            | 1        | 3.85%   |
+| Samsung HD154UI 1TB              | 1        | 3.85%   |
+| Kingston SV300S37A480G 480GB SSD | 1        | 3.85%   |
+| Kingston SA400S37120G 120GB SSD  | 1        | 3.85%   |
+| Kingston SA400M8240G 240GB SSD   | 1        | 3.85%   |
+| Intel SSDSA2BW120G3H 120GB       | 1        | 3.85%   |
+| Hitachi HTS543232A7A384 320GB    | 1        | 3.85%   |
+| HGST HTS545050A7E380 500GB       | 1        | 3.85%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB | 1        | 3.85%   |
 
 HDD Vendor
 ----------
@@ -1023,9 +1021,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 10       | 52.63%  |
-| IDE  | 7        | 36.84%  |
-| NVMe | 2        | 10.53%  |
+| SATA | 10       | 50%     |
+| IDE  | 7        | 35%     |
+| NVMe | 2        | 10%     |
+| RAID | 1        | 5%      |
 
 Processor
 ---------
@@ -1323,7 +1322,7 @@ Monitor models
 | Samsung Electronics S22C450 SAM09C5 1920x1080 477x268mm 21.5-inch    | 1        | 5.56%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1        | 5.56%   |
 | JCH F24 JCH1919 1920x1080 520x310mm 23.8-inch                        | 1        | 5.56%   |
-| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1        | 5.56%   |
+| Goldstar W2043 GSM4E9D 1600x900 450x250mm 20.3-inch                  | 1        | 5.56%   |
 | Goldstar T710SH GSM436B 1280x960 310x230mm 15.2-inch                 | 1        | 5.56%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1        | 5.56%   |
 | Goldstar 23MP55 GSM5A23 1920x1080 510x290mm 23.1-inch                | 1        | 5.56%   |
@@ -1331,7 +1330,7 @@ Monitor models
 | Dell LCD Monitor S2715H                                              | 1        | 5.56%   |
 | Dell IN1930 DELF03B 1366x768 410x230mm 18.5-inch                     | 1        | 5.56%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1        | 5.56%   |
-| BenQ FP202W BNQ76C2 1680x1050 376x301mm 19.0-inch                    | 1        | 5.56%   |
+| BenQ FP202WA BNQ76C2 1680x1050 430x270mm 20.0-inch                   | 1        | 5.56%   |
 | BenQ E900HD BNQ7910 1366x768 410x230mm 18.5-inch                     | 1        | 5.56%   |
 | AOC LM729 AOCA784 1280x1024 340x270mm 17.1-inch                      | 1        | 5.56%   |
 | AOC 2450W AOC2450 1920x1080 521x293mm 23.5-inch                      | 1        | 5.56%   |
@@ -1370,10 +1369,9 @@ Diagonal size in inches
 | 23      | 4        | 23.53%  |
 | 17      | 3        | 17.65%  |
 | 21      | 2        | 11.76%  |
+| 20      | 2        | 11.76%  |
 | 18      | 2        | 11.76%  |
 | 142     | 1        | 5.88%   |
-| 20      | 1        | 5.88%   |
-| 19      | 1        | 5.88%   |
 | 16      | 1        | 5.88%   |
 | 13      | 1        | 5.88%   |
 | Unknown | 1        | 5.88%   |
@@ -1388,11 +1386,10 @@ Physical width
 
 | Width in mm    | Desktops | Percent |
 |----------------|----------|---------|
-| 401-500        | 5        | 29.41%  |
+| 401-500        | 6        | 35.29%  |
 | 501-600        | 4        | 23.53%  |
 | 301-350        | 4        | 23.53%  |
 | More than 2000 | 1        | 5.88%   |
-| 351-400        | 1        | 5.88%   |
 | 201-300        | 1        | 5.88%   |
 | Unknown        | 1        | 5.88%   |
 
@@ -1407,8 +1404,9 @@ Proportional relationship between the width and the height
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
 | 16/9    | 9        | 52.94%  |
-| 5/4     | 4        | 23.53%  |
+| 5/4     | 3        | 17.65%  |
 | 4/3     | 2        | 11.76%  |
+| 16/10   | 1        | 5.88%   |
 | 1.00    | 1        | 5.88%   |
 | Unknown | 1        | 5.88%   |
 
@@ -1440,8 +1438,8 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 11       | 68.75%  |
-| 101-120 | 3        | 18.75%  |
+| 51-100  | 12       | 75%     |
+| 101-120 | 2        | 12.5%   |
 | 1-50    | 1        | 6.25%   |
 | Unknown | 1        | 6.25%   |
 
@@ -1753,12 +1751,12 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 800MT/s                   | 2        | 18.18%  |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 9.09%   |
 | Unknown RAM Module 1024MB DIMM SDRAM                     | 1        | 9.09%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s    | 1        | 9.09%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s | 1        | 9.09%   |
 | Kingston RAM Module 16GB SODIMM DDR4 2133MT/s            | 1        | 9.09%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s      | 1        | 9.09%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s    | 1        | 9.09%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s       | 1        | 9.09%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8192MB DIMM DDR3 1600MT/s | 1        | 9.09%   |
-| Corsair RAM CMZ4GX3M1A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 9.09%   |
+| Corsair RAM CMZ4GX3M1A1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 9.09%   |
 | Avant RAM W641GU49J2320N6 8GB DIMM DDR4 2666MT/s         | 1        | 9.09%   |
 
 Memory Kind
@@ -1879,11 +1877,11 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 33.33%  |
-| Logitech Webcam C270                    | 1        | 33.33%  |
-| Logitech QuickCam Notebook Pro          | 1        | 33.33%  |
+| Model                          | Desktops | Percent |
+|--------------------------------|----------|---------|
+| Samsung Galaxy A5 (MTP)        | 1        | 33.33%  |
+| Logitech Webcam C270           | 1        | 33.33%  |
+| Logitech QuickCam Notebook Pro | 1        | 33.33%  |
 
 Security
 --------

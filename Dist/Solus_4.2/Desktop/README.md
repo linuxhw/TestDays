@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     sudo -E hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://linux-hardware.org/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1205,11 +1203,11 @@ Monitor models
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch | 1        | 7.69%   |
 | LG Electronics LCD Monitor W1952 1440x900                        | 1        | 7.69%   |
 | JRY HDMI JRY1950 1366x768 410x220mm 18.3-inch                    | 1        | 7.69%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch            | 1        | 7.69%   |
+| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch            | 1        | 7.69%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
+| AOC 24E1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
@@ -1525,12 +1523,12 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Realtek Bluetooth Radio             | 1        | 25%     |
-| Intel Bluetooth Device              | 1        | 25%     |
-| Broadcom BCM20702A0 Bluetooth 4.0   | 1        | 25%     |
-| Apple Bluetooth USB Host Controller | 1        | 25%     |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Realtek Bluetooth Radio                  | 1        | 25%     |
+| Intel Wireless-AC 9260 Bluetooth Adapter | 1        | 25%     |
+| Broadcom BCM20702A0 Bluetooth 4.0        | 1        | 25%     |
+| Apple Bluetooth USB Host Controller      | 1        | 25%     |
 
 Sound
 -----
@@ -1606,9 +1604,9 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| G.Skill RAM F4-3600C16-16GVKC 16384MB DIMM DDR4 3866MT/s | 1        | 100%    |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s | 1        | 100%    |
 
 Memory Kind
 -----------
