@@ -622,21 +622,21 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City            | Notebooks | Percent |
-|-----------------|-----------|---------|
-| Г„ngelholm   | 1         | 7.69%   |
-| Winchmore Hill  | 1         | 7.69%   |
-| St Petersburg   | 1         | 7.69%   |
-| Severna Park    | 1         | 7.69%   |
-| San Jose        | 1         | 7.69%   |
-| MГЎlaga       | 1         | 7.69%   |
-| Muiderberg      | 1         | 7.69%   |
-| Guatemala City  | 1         | 7.69%   |
-| Guanajuato City | 1         | 7.69%   |
-| Delhi           | 1         | 7.69%   |
-| Auckland        | 1         | 7.69%   |
-| Athens          | 1         | 7.69%   |
-| Antalya         | 1         | 7.69%   |
+| City                      | Notebooks | Percent |
+|---------------------------|-----------|---------|
+| St Petersburg             | 1         | 7.69%   |
+| Severna Park              | 1         | 7.69%   |
+| San Francisco del Rincón | 1         | 7.69%   |
+| San Francisco             | 1         | 7.69%   |
+| Málaga                   | 1         | 7.69%   |
+| Istanbul                  | 1         | 7.69%   |
+| Guatemala City            | 1         | 7.69%   |
+| Enfield                   | 1         | 7.69%   |
+| Delhi                     | 1         | 7.69%   |
+| Auckland                  | 1         | 7.69%   |
+| Athens                    | 1         | 7.69%   |
+| Ängelholm                | 1         | 7.69%   |
+| Amsterdam                 | 1         | 7.69%   |
 
 Drives
 ------
@@ -1181,7 +1181,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1189,7 +1189,7 @@ Monitor models
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 6.67%   |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 6.67%   |
-| AU Optronics LCD Monitor AUO313C 1366x768 310x170mm 13.9-inch        | 1         | 6.67%   |
+| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO173D 1920x1080 309x173mm 13.9-inch       | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO15ED 1920x1080 344x193mm 15.5-inch       | 1         | 6.67%   |
@@ -1307,16 +1307,16 @@ Controller vendors
 ![Net Controller Vendor](./images/pie_chart/net_vendor.svg)
 
 
-| Vendor                   | Notebooks | Percent |
-|--------------------------|-----------|---------|
-| Realtek Semiconductor    | 7         | 30.43%  |
-| Intel                    | 6         | 26.09%  |
-| Qualcomm Atheros         | 5         | 21.74%  |
-| Ralink                   | 1         | 4.35%   |
-| OnePlus                  | 1         | 4.35%   |
-| Marvell Technology Group | 1         | 4.35%   |
-| Hewlett-Packard          | 1         | 4.35%   |
-| Broadcom                 | 1         | 4.35%   |
+| Vendor                        | Notebooks | Percent |
+|-------------------------------|-----------|---------|
+| Realtek Semiconductor         | 7         | 30.43%  |
+| Intel                         | 6         | 26.09%  |
+| Qualcomm Atheros              | 5         | 21.74%  |
+| Ralink                        | 1         | 4.35%   |
+| OnePlus Technology (Shenzhen) | 1         | 4.35%   |
+| Marvell Technology Group      | 1         | 4.35%   |
+| Hewlett-Packard               | 1         | 4.35%   |
+| Broadcom                      | 1         | 4.35%   |
 
 Net Controller Model
 --------------------
@@ -1340,7 +1340,7 @@ Controller models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
-| OnePlus IN2017                                                    | 1         | 3.57%   |
+| OnePlus (Shenzhen) EB2103                                         | 1         | 3.57%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
 | Intel Wireless 8260                                               | 1         | 3.57%   |
 | Intel Wireless 7260                                               | 1         | 3.57%   |
@@ -1454,8 +1454,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 11        | 50%     |
-| Ethernet | 11        | 50%     |
+| WiFi     | 11        | 91.67%  |
+| Ethernet | 1         | 8.33%   |
 
 NICs
 ----
@@ -1515,9 +1515,9 @@ Controller models
 | Intel Bluetooth wireless interface               | 2         | 20%     |
 | Toshiba RT Bluetooth Radio                       | 1         | 10%     |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
+| Qualcomm Atheros  Bluetooth Device               | 1         | 10%     |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
-| Lite-On Bluetooth Device                         | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
 | Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
@@ -1590,9 +1590,9 @@ Memory module models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
+| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
-| Micron RAM 16KTF51264HZ-1G6M1 4096MB SODIMM DDR3 1600MT/s | 1         | 16.67%  |
+| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 16.67%  |
 | A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 16.67%  |

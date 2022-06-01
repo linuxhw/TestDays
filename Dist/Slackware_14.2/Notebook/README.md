@@ -153,13 +153,13 @@ Contents
 Test Cases
 ----------
 
-Total: 43
+Total: 38
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
 | HP       | Laptop 15-bs2xx             | [bf53c3c878](https://linux-hardware.org/?probe=bf53c3c878) | Jan 02, 2022 |
 | Toshiba  | PORTEGE Z30-A               | [13b9ce0773](https://linux-hardware.org/?probe=13b9ce0773) | Sep 22, 2021 |
-| Dynabook | dynabook PORTEGE X50-G      | [da8279a7a9](https://linux-hardware.org/?probe=da8279a7a9) | Sep 22, 2021 |
+| Dynabook | PORTEGE X50-G               | [da8279a7a9](https://linux-hardware.org/?probe=da8279a7a9) | Sep 22, 2021 |
 | HP       | 15 Notebook PC              | [bec2fe2e78](https://linux-hardware.org/?probe=bec2fe2e78) | Mar 21, 2021 |
 | Toshiba  | Satellite C660              | [5189fbc4c9](https://linux-hardware.org/?probe=5189fbc4c9) | Mar 10, 2021 |
 | Samsung  | 300E5M/300E5L               | [bda4ee984f](https://linux-hardware.org/?probe=bda4ee984f) | Mar 05, 2021 |
@@ -169,9 +169,7 @@ Total: 43
 | Lenovo   | ThinkPad L440 20ASS05K00    | [7a6a06bb55](https://linux-hardware.org/?probe=7a6a06bb55) | Jan 04, 2021 |
 | Dell     | Precision M4600             | [71bb8e2e9a](https://linux-hardware.org/?probe=71bb8e2e9a) | Dec 28, 2020 |
 | Lenovo   | ThinkPad L440 20ASS05K00    | [b330b2d38a](https://linux-hardware.org/?probe=b330b2d38a) | Nov 19, 2020 |
-| Lenovo   | ThinkPad L440 20ASS05K00    | [416d54b307](https://linux-hardware.org/?probe=416d54b307) | Nov 17, 2020 |
 | MSI      | GL73 8RC                    | [44f82bfc01](https://linux-hardware.org/?probe=44f82bfc01) | Nov 09, 2020 |
-| Lenovo   | ThinkPad L440 20ASS05K00    | [9c79f4e7b9](https://linux-hardware.org/?probe=9c79f4e7b9) | Nov 08, 2020 |
 | Lenovo   | ThinkPad L440 20ASS05K00    | [a4cb1ecf16](https://linux-hardware.org/?probe=a4cb1ecf16) | Nov 08, 2020 |
 | Samsung  | 300E5M/300E5L               | [270b65ced8](https://linux-hardware.org/?probe=270b65ced8) | Jul 24, 2020 |
 | Notebook | NL40_50CU                   | [941073da73](https://linux-hardware.org/?probe=941073da73) | Jun 27, 2020 |
@@ -188,8 +186,6 @@ Total: 43
 | ASUSTek  | 1000H                       | [50da35c0d0](https://linux-hardware.org/?probe=50da35c0d0) | Oct 28, 2019 |
 | Acer     | Aspire E1-572               | [0fe80f5758](https://linux-hardware.org/?probe=0fe80f5758) | Oct 23, 2019 |
 | ASUSTek  | VivoBook_ASUSLaptop X570... | [ecca7bced0](https://linux-hardware.org/?probe=ecca7bced0) | Oct 22, 2019 |
-| ASUSTek  | VivoBook_ASUSLaptop X570... | [e1cfaedc22](https://linux-hardware.org/?probe=e1cfaedc22) | Oct 22, 2019 |
-| ASUSTek  | VivoBook_ASUSLaptop X570... | [c7637c27a6](https://linux-hardware.org/?probe=c7637c27a6) | Oct 22, 2019 |
 | Acer     | Swift SF314-52              | [05f880ecec](https://linux-hardware.org/?probe=05f880ecec) | Oct 21, 2019 |
 | Lenovo   | ThinkPad P70 20ERCTO1WW     | [0ceeb50e5e](https://linux-hardware.org/?probe=0ceeb50e5e) | Oct 21, 2019 |
 | Lenovo   | ThinkPad T450s 20BW000EU... | [41ca8d1a20](https://linux-hardware.org/?probe=41ca8d1a20) | Oct 21, 2019 |
@@ -197,7 +193,6 @@ Total: 43
 | Dell     | Latitude E7270              | [859e021e2f](https://linux-hardware.org/?probe=859e021e2f) | Oct 20, 2019 |
 | Fujitsu  | LIFEBOOK A555               | [e0c6729d5b](https://linux-hardware.org/?probe=e0c6729d5b) | Oct 20, 2019 |
 | Lenovo   | ThinkPad T470 20HDCTO1WW    | [0f9287651d](https://linux-hardware.org/?probe=0f9287651d) | Jul 24, 2019 |
-| Lenovo   | ThinkPad T470 20HDCTO1WW    | [6986d35989](https://linux-hardware.org/?probe=6986d35989) | Jul 23, 2019 |
 | Lenovo   | ThinkPad T470 20HDCTO1WW    | [67672ef038](https://linux-hardware.org/?probe=67672ef038) | Jul 23, 2019 |
 | Fujitsu  | LIFEBOOK A555               | [63c120aa28](https://linux-hardware.org/?probe=63c120aa28) | Aug 19, 2018 |
 
@@ -491,7 +486,7 @@ Motherboard model
 | HP Laptop 15-bs2xx                       | 1         | 3.85%   |
 | HP 15 Notebook PC                        | 1         | 3.85%   |
 | Fujitsu LIFEBOOK A555                    | 1         | 3.85%   |
-| Dynabook dynabook PORTEGE X50-G          | 1         | 3.85%   |
+| Dynabook PORTEGE X50-G                   | 1         | 3.85%   |
 | Dell Precision M4600                     | 1         | 3.85%   |
 | Dell Latitude E7270                      | 1         | 3.85%   |
 | Dell Latitude E5500                      | 1         | 3.85%   |
@@ -523,7 +518,7 @@ Motherboard model prefix
 | HP Laptop         | 1         | 3.85%   |
 | HP 15             | 1         | 3.85%   |
 | Fujitsu LIFEBOOK  | 1         | 3.85%   |
-| Dynabook dynabook | 1         | 3.85%   |
+| Dynabook PORTEGE  | 1         | 3.85%   |
 | Dell Precision    | 1         | 3.85%   |
 | ASUS VivoBook     | 1         | 3.85%   |
 | ASUS P53E         | 1         | 3.85%   |
@@ -732,30 +727,30 @@ Geographic location (city)
 |------------------------|-----------|---------|
 | Warsaw                 | 2         | 7.14%   |
 | Lisbon                 | 2         | 7.14%   |
+| Wokingham              | 1         | 3.57%   |
 | Winnipeg               | 1         | 3.57%   |
 | Visconde do Rio Branco | 1         | 3.57%   |
-| SetГєbal             | 1         | 3.57%   |
-| Savonlinna             | 1         | 3.57%   |
-| Santiago               | 1         | 3.57%   |
+| Roknaes                | 1         | 3.57%   |
 | Redding                | 1         | 3.57%   |
-| Reading                | 1         | 3.57%   |
-| Prato                  | 1         | 3.57%   |
-| PiteГҐ               | 1         | 3.57%   |
-| Pasig                  | 1         | 3.57%   |
+| Puente Alto            | 1         | 3.57%   |
+| Pinhal Novo            | 1         | 3.57%   |
+| Pesaro                 | 1         | 3.57%   |
+| Pasay                  | 1         | 3.57%   |
 | Paris                  | 1         | 3.57%   |
-| Ottawa                 | 1         | 3.57%   |
 | Northport              | 1         | 3.57%   |
-| Nizhniy Novgorod       | 1         | 3.57%   |
 | Milan                  | 1         | 3.57%   |
 | Lins                   | 1         | 3.57%   |
+| Kstovo                 | 1         | 3.57%   |
+| Jaipur                 | 1         | 3.57%   |
 | Hornsey                | 1         | 3.57%   |
-| Heinsberg              | 1         | 3.57%   |
-| Guntur                 | 1         | 3.57%   |
-| Delhi                  | 1         | 3.57%   |
+| Helsinki               | 1         | 3.57%   |
+| Faridabad              | 1         | 3.57%   |
 | Carrollton             | 1         | 3.57%   |
 | Canandaigua            | 1         | 3.57%   |
+| Borken                 | 1         | 3.57%   |
 | Bengaluru              | 1         | 3.57%   |
 | Barry                  | 1         | 3.57%   |
+| Barrie                 | 1         | 3.57%   |
 
 Drives
 ------
@@ -1400,7 +1395,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch | 1         | 3.7%    |
-| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch          | 1         | 3.7%    |
+| Panasonic VVX16T029D00 MEI96A2 2880x1620 344x193mm 15.5-inch         | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD03D7 1366x768 310x174mm 14.0-inch          | 1         | 3.7%    |
@@ -1408,7 +1403,7 @@ Monitor models
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 3.7%    |
 | Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch              | 1         | 3.7%    |
-| Goldstar W2043 GSM4E9D 1600x900 450x250mm 20.3-inch                  | 1         | 3.7%    |
+| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch     | 1         | 3.7%    |
@@ -1420,7 +1415,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch        | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO48EC 1366x768 344x193mm 15.5-inch        | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.7%    |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch        | 1         | 3.7%    |
+| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch        | 1         | 3.7%    |
 
 Monitor Resolution
 ------------------
@@ -1722,8 +1717,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 19        | 61.29%  |
-| Ethernet | 12        | 38.71%  |
+| WiFi     | 17        | 68%     |
+| Ethernet | 8         | 32%     |
 
 NICs
 ----
@@ -1787,7 +1782,7 @@ Controller models
 | Toshiba Askey Bluetooth Module                      | 1         | 4.55%   |
 | Realtek Bluetooth Radio                             | 1         | 4.55%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.55%   |
-| Intel Bluetooth Device                              | 1         | 4.55%   |
+| Intel AX201 Bluetooth                               | 1         | 4.55%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4.55%   |
 
 Sound
@@ -1872,33 +1867,33 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Notebooks | Percent |
-|-----------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 2         | 7.69%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM                    | 1         | 3.85%   |
-| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
-| SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s   | 1         | 3.85%   |
-| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s      | 1         | 3.85%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 3.85%   |
-| SK Hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s | 1         | 3.85%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s    | 1         | 3.85%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s    | 1         | 3.85%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s     | 1         | 3.85%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s  | 1         | 3.85%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 3.85%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s    | 1         | 3.85%   |
-| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s | 1         | 3.85%   |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s     | 1         | 3.85%   |
-| Kingston RAM KHX2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s  | 1         | 3.85%   |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s   | 1         | 3.85%   |
-| Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s  | 1         | 3.85%   |
-| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s    | 1         | 3.85%   |
-| Corsair RAM CMSO4GX3M1C1600C11 4GB SODIMM DDR3 1600MT/s   | 1         | 3.85%   |
+| Model                                                        | Notebooks | Percent |
+|--------------------------------------------------------------|-----------|---------|
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 7.69%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 3.85%   |
+| Smart RAM SH5641G8FJ8NWRNSQG 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 3.85%   |
+| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 3.85%   |
+| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s         | 1         | 3.85%   |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.85%   |
+| SK Hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.85%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 3.85%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s        | 1         | 3.85%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 3.85%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 3.85%   |
+| Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 3.85%   |
+| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 3.85%   |
+| Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
+| Corsair RAM CMSO4GX3M1C1600C11 4096MB SODIMM DDR3 1600MT/s   | 1         | 3.85%   |
 
 Memory Kind
 -----------
@@ -2030,11 +2025,12 @@ Camera device models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Realtek USB Camera                                                         | 2         | 8.7%    |
 | Chicony Integrated Camera                                                  | 2         | 8.7%    |
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 4.35%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 4.35%   |
 | Silicon Motion Web Camera                                                  | 1         | 4.35%   |
+| Realtek USB2.0-Camera                                                      | 1         | 4.35%   |
+| Realtek USB Camera                                                         | 1         | 4.35%   |
 | Quanta HP Webcam                                                           | 1         | 4.35%   |
 | Motorola PCS XT1033 [Moto G], PTP mode                                     | 1         | 4.35%   |
 | Lite-On TOSHIBA Web Camera - FHD                                           | 1         | 4.35%   |
@@ -2131,8 +2127,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 13        | 46.43%  |
-| 1     | 7         | 25%     |
+| 0     | 12        | 42.86%  |
+| 1     | 8         | 28.57%  |
 | 2     | 5         | 17.86%  |
 | 3     | 3         | 10.71%  |
 
@@ -2146,14 +2142,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 6         | 24%     |
-| Chipcard                 | 6         | 24%     |
-| Graphics card            | 4         | 16%     |
-| Card reader              | 3         | 12%     |
-| Storage                  | 1         | 4%      |
-| Net/wireless             | 1         | 4%      |
-| Net/ethernet             | 1         | 4%      |
-| Firewire controller      | 1         | 4%      |
-| Communication controller | 1         | 4%      |
-| Camera                   | 1         | 4%      |
+| Fingerprint reader       | 6         | 23.08%  |
+| Chipcard                 | 6         | 23.08%  |
+| Graphics card            | 5         | 19.23%  |
+| Card reader              | 3         | 11.54%  |
+| Storage                  | 1         | 3.85%   |
+| Net/wireless             | 1         | 3.85%   |
+| Net/ethernet             | 1         | 3.85%   |
+| Firewire controller      | 1         | 3.85%   |
+| Communication controller | 1         | 3.85%   |
+| Camera                   | 1         | 3.85%   |
 

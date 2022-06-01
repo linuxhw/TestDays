@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 96
+Total: 94
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek    | B85M-E                      | [bd4201a786](https://linux-hardware.org/?probe=bd4201a786) | May 09, 2022 |
 | ASUSTek    | B85M-E                      | [78752966d0](https://linux-hardware.org/?probe=78752966d0) | May 02, 2022 |
 | ASUSTek    | B85M-E                      | [200ed04d31](https://linux-hardware.org/?probe=200ed04d31) | May 02, 2022 |
 | Dell       | 06CV2N A00                  | [f9e949ad9b](https://linux-hardware.org/?probe=f9e949ad9b) | Apr 24, 2022 |
@@ -199,7 +200,6 @@ Total: 96
 | Gigabyte   | H81M-DS2                    | [589d53b7ce](https://linux-hardware.org/?probe=589d53b7ce) | May 11, 2021 |
 | ASUSTek    | M5A78L-M LX V2              | [e20da66200](https://linux-hardware.org/?probe=e20da66200) | Apr 17, 2021 |
 | ASRock     | HM55-MXM                    | [e56d216ab7](https://linux-hardware.org/?probe=e56d216ab7) | Apr 14, 2021 |
-| ASRock     | HM55-MXM                    | [959b48465a](https://linux-hardware.org/?probe=959b48465a) | Apr 14, 2021 |
 | Lenovo     | ThinkCentre M90p 5864BM3    | [666e4f970e](https://linux-hardware.org/?probe=666e4f970e) | Apr 10, 2021 |
 | Dell       | 0D6H9T A00                  | [94d321f020](https://linux-hardware.org/?probe=94d321f020) | Apr 02, 2021 |
 | Gigabyte   | B550I AORUS PRO AX          | [9eff035231](https://linux-hardware.org/?probe=9eff035231) | Mar 01, 2021 |
@@ -209,7 +209,6 @@ Total: 96
 | MSI        | MAG X570 TOMAHAWK WIFI      | [e5b808ee57](https://linux-hardware.org/?probe=e5b808ee57) | Jan 02, 2021 |
 | MSI        | MAG X570 TOMAHAWK WIFI      | [ca915222e5](https://linux-hardware.org/?probe=ca915222e5) | Dec 07, 2020 |
 | Dell       | 0D02VH A01                  | [1d822ef5a3](https://linux-hardware.org/?probe=1d822ef5a3) | Dec 07, 2020 |
-| MSI        | MAG X570 TOMAHAWK WIFI      | [e7b0e54e51](https://linux-hardware.org/?probe=e7b0e54e51) | Nov 29, 2020 |
 | MSI        | MAG X570 TOMAHAWK WIFI      | [b9461ebddd](https://linux-hardware.org/?probe=b9461ebddd) | Nov 29, 2020 |
 | Dell       | 0D441T A03                  | [b57394e325](https://linux-hardware.org/?probe=b57394e325) | Nov 20, 2020 |
 | ASUSTek    | E3M-ET V5 SERIES            | [f1faffa793](https://linux-hardware.org/?probe=f1faffa793) | Nov 20, 2020 |
@@ -223,7 +222,6 @@ Total: 96
 | Gigabyte   | 945GZM-S2                   | [56d2f5c077](https://linux-hardware.org/?probe=56d2f5c077) | Sep 03, 2020 |
 | Gigabyte   | 945GZM-S2                   | [3a8e991dee](https://linux-hardware.org/?probe=3a8e991dee) | Sep 01, 2020 |
 | ASUSTek    | P8H77-V LE                  | [efb532b71e](https://linux-hardware.org/?probe=efb532b71e) | Jul 24, 2020 |
-| ASUSTek    | P8H77-V LE                  | [25ada4cd63](https://linux-hardware.org/?probe=25ada4cd63) | Jul 24, 2020 |
 | ASRock     | HM55-MXM                    | [7f12e5a53c](https://linux-hardware.org/?probe=7f12e5a53c) | Jul 19, 2020 |
 | Gigabyte   | G1.Sniper A88X-CF           | [6d5b75622f](https://linux-hardware.org/?probe=6d5b75622f) | Jul 10, 2020 |
 | ECS        | H61H2-MV                    | [a4ebb57c65](https://linux-hardware.org/?probe=a4ebb57c65) | Jun 19, 2020 |
@@ -610,8 +608,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 63       | 87.5%   |
-| Yes       | 9        | 12.5%   |
+| No        | 60       | 83.33%  |
+| Yes       | 12       | 16.67%  |
 
 Dual Boot (Win)
 ---------------
@@ -911,8 +909,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 40       | 56.34%  |
-| Yes       | 31       | 43.66%  |
+| No        | 41       | 57.75%  |
+| Yes       | 30       | 42.25%  |
 
 Has Ethernet
 ------------
@@ -977,10 +975,9 @@ Geographic location (city)
 
 | City              | Desktops | Percent |
 |-------------------|----------|---------|
-| Singapore         | 68       | 94.44%  |
-| Jurong West       | 2        | 2.78%   |
-| Yishun New Town   | 1        | 1.39%   |
-| Queenstown Estate | 1        | 1.39%   |
+| Singapore         | 67       | 94.37%  |
+| Jurong West       | 3        | 4.23%   |
+| Queenstown Estate | 1        | 1.41%   |
 
 Drives
 ------
@@ -1001,7 +998,7 @@ Hard drive vendors
 | Toshiba                   | 12       | 12     | 9.76%   |
 | Hitachi                   | 6        | 7      | 4.88%   |
 | Kingston                  | 5        | 7      | 4.07%   |
-| SanDisk                   | 4        | 5      | 3.25%   |
+| Sandisk                   | 4        | 5      | 3.25%   |
 | JMicron                   | 3        | 4      | 2.44%   |
 | Crucial                   | 3        | 4      | 2.44%   |
 | Unknown                   | 2        | 2      | 1.63%   |
@@ -1037,7 +1034,7 @@ Hard drive models
 | Toshiba DT01ACA100 1TB              | 6        | 4.29%   |
 | Seagate ST1000DM010-2EP102 1TB      | 3        | 2.14%   |
 | Samsung SSD 850 EVO 250GB           | 3        | 2.14%   |
-| JMicron Generic 160GB               | 3        | 2.14%   |
+| JMicron Generic 128GB               | 3        | 2.14%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD    | 2        | 1.43%   |
 | WDC WD6400AAKS-22A7B2 640GB         | 2        | 1.43%   |
 | Toshiba DT01ACA200 2TB              | 2        | 1.43%   |
@@ -1068,7 +1065,7 @@ Hard drive models
 | WDC WD10JPVT-00A1YT0 1TB            | 1        | 0.71%   |
 | WDC WD10EZEX-60M2NA0 1TB            | 1        | 0.71%   |
 | WDC WD10EZEX-22MFCA0 1TB            | 1        | 0.71%   |
-| Vaseky V800/500G 500GB              | 1        | 0.71%   |
+| Vaseky V800/500G 512GB              | 1        | 0.71%   |
 | USB30 Disk 500GB                    | 1        | 0.71%   |
 | Unknown NCard  32GB                 | 1        | 0.71%   |
 | Unknown MMC Card  64GB              | 1        | 0.71%   |
@@ -1182,12 +1179,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 43       | 65     | 47.78%  |
-| 0.51-1.0   | 24       | 32     | 26.67%  |
-| 1.01-2.0   | 9        | 11     | 10%     |
-| 4.01-10.0  | 7        | 9      | 7.78%   |
-| 3.01-4.0   | 4        | 4      | 4.44%   |
-| 2.01-3.0   | 3        | 3      | 3.33%   |
+| 0.01-0.5   | 43       | 64     | 47.25%  |
+| 0.51-1.0   | 25       | 33     | 27.47%  |
+| 1.01-2.0   | 10       | 12     | 10.99%  |
+| 4.01-10.0  | 6        | 8      | 6.59%   |
+| 3.01-4.0   | 4        | 4      | 4.4%    |
+| 2.01-3.0   | 3        | 3      | 3.3%    |
 
 Space Total
 -----------
@@ -1854,68 +1851,68 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| PRISM+ X315 INN3200 2560x1440 697x393mm 31.5-inch                      | 2        | 2.78%   |
-| Goldstar W1943 GSM4BAD 1360x768 410x230mm 18.5-inch                    | 2        | 2.78%   |
-| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 2        | 2.78%   |
-| Denver F240v LHC0236 1920x1080 530x280mm 23.6-inch                     | 2        | 2.78%   |
-| Dell SE2417HG DELD08C 1920x1080 521x293mm 23.5-inch                    | 2        | 2.78%   |
-| Dell S2340L DELD058 1920x1080 509x286mm 23.0-inch                      | 2        | 2.78%   |
-| Dell E2213H DELA08F 1920x1080 480x270mm 21.7-inch                      | 2        | 2.78%   |
-| Dell E2011H DEL406C 1600x900 443x249mm 20.0-inch                       | 2        | 2.78%   |
-| Acer S201HL ACR01A5 1600x900 443x249mm 20.0-inch                       | 2        | 2.78%   |
-| Acer EB321HQU ACR0507 2560x1440 699x393mm 31.6-inch                    | 2        | 2.78%   |
-| Wacom CintiqPro24P WAC1063 3840x2160 530x300mm 24.0-inch               | 1        | 1.39%   |
-| Sony TV SNY2C02 1920x1080 1018x573mm 46.0-inch                         | 1        | 1.39%   |
-| Sharp HDMI SHP115C 1920x1080 880x480mm 39.5-inch                       | 1        | 1.39%   |
-| SGT Split SGT0156 1920x1080 346x194mm 15.6-inch                        | 1        | 1.39%   |
-| Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch      | 1        | 1.39%   |
-| Samsung Electronics S24D300 SAM0B42 1920x1080 531x299mm 24.0-inch      | 1        | 1.39%   |
-| Samsung Electronics LU28R55 SAM1017 3840x2160 632x360mm 28.6-inch      | 1        | 1.39%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1020x570mm 46.0-inch | 1        | 1.39%   |
-| Samsung Electronics LCD Monitor SAM0509 1920x1080                      | 1        | 1.39%   |
-| Samsung Electronics LCD Monitor S27A950D 1920x1080                     | 1        | 1.39%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch      | 1        | 1.39%   |
-| SAC DP_FREESYNC SAC2700 2560x1440 597x336mm 27.0-inch                  | 1        | 1.39%   |
-| PRISM+ P270 INN2700 3840x2160 597x336mm 27.0-inch                      | 1        | 1.39%   |
-| Pixio HDMI WAM2700 1920x1080 600x332mm 27.0-inch                       | 1        | 1.39%   |
-| Philips PHL 274E5 PHLC0C8 1920x1080 598x336mm 27.0-inch                | 1        | 1.39%   |
-| Philips 227E4QH PHLC0AA 1920x1080 477x268mm 21.5-inch                  | 1        | 1.39%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch             | 1        | 1.39%   |
-| Lenovo Group Limited LCD Monitor LEN T27i-10 1920x1080                 | 1        | 1.39%   |
-| Lenovo Group Limited LCD Monitor LEN LS2323wA 1920x1080                | 1        | 1.39%   |
-| Hewlett-Packard L1950 HWP26E8 1280x1024 380x300mm 19.1-inch            | 1        | 1.39%   |
-| Hewlett-Packard 24f HPN3545 1920x1080 530x300mm 24.0-inch              | 1        | 1.39%   |
-| Hewlett-Packard 23es HWP331E 1920x1080 509x286mm 23.0-inch             | 1        | 1.39%   |
-| Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch              | 1        | 1.39%   |
-| Goldstar IPS224 GSM58D5 1920x1080 477x268mm 21.5-inch                  | 1        | 1.39%   |
-| Denver MLE-2401 LHC2360 1920x1080 521x294mm 23.6-inch                  | 1        | 1.39%   |
-| Dell U2917W DEL40F8 2560x1080 673x284mm 28.8-inch                      | 1        | 1.39%   |
-| Dell U2717D DEL40EA 2560x1440 597x336mm 27.0-inch                      | 1        | 1.39%   |
-| Dell U2713HM DEL407E 2560x1440 600x340mm 27.2-inch                     | 1        | 1.39%   |
-| Dell U2518D DEL413A 2560x1440 553x311mm 25.0-inch                      | 1        | 1.39%   |
-| Dell U2311H DELA05E 1920x1080 509x286mm 23.0-inch                      | 1        | 1.39%   |
-| Dell ST2410 DELA05B 1920x1080 531x299mm 24.0-inch                      | 1        | 1.39%   |
-| Dell SE2219H DELF10F 1920x1080 476x268mm 21.5-inch                     | 1        | 1.39%   |
-| Dell P2421D DELD0FE 2560x1440 527x296mm 23.8-inch                      | 1        | 1.39%   |
-| Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                      | 1        | 1.39%   |
-| Dell P1913 DELA088 1440x900 410x260mm 19.1-inch                        | 1        | 1.39%   |
-| Dell LCD Monitor P2717H 1920x1080                                      | 1        | 1.39%   |
-| Dell E2213H DELA090 1920x1080 480x270mm 21.7-inch                      | 1        | 1.39%   |
-| Dell E2211H DELA072 1920x1080 477x268mm 21.5-inch                      | 1        | 1.39%   |
-| Dell E2011H DEL406B 1600x900 443x249mm 20.0-inch                       | 1        | 1.39%   |
-| CVT Monitor CVT4670 1920x1080 360x290mm 18.2-inch                      | 1        | 1.39%   |
-| CHR CH7511B CHR7511 1280x768 519x324mm 24.1-inch                       | 1        | 1.39%   |
-| BenQ GL2580 BNQ78E5 1920x1080 544x303mm 24.5-inch                      | 1        | 1.39%   |
-| ASUSTek Computer VG278 AUS27AD 1920x1080 598x336mm 27.0-inch           | 1        | 1.39%   |
-| AOC U3277WB AOC3277 3840x2160 698x393mm 31.5-inch                      | 1        | 1.39%   |
-| AOC 27G2G8 AOC2702 1920x1080 598x336mm 27.0-inch                       | 1        | 1.39%   |
-| AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                     | 1        | 1.39%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                         | 1        | 1.39%   |
-| Ancor Communications LCD Monitor ROG PG279Q 2560x1440                  | 1        | 1.39%   |
-| Ancor Communications ASUS VC239 ACI23C4 1920x1080 509x286mm 23.0-inch  | 1        | 1.39%   |
-| Acer LCD Monitor X223HQ 1920x1080                                      | 1        | 1.39%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| PRISM+ X315 INN3200 2560x1440 697x393mm 31.5-inch                     | 2        | 2.78%   |
+| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                   | 2        | 2.78%   |
+| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                 | 2        | 2.78%   |
+| Denver F240v LHC0236 1920x1080 530x280mm 23.6-inch                    | 2        | 2.78%   |
+| Dell SE2417HG DELD08C 1920x1080 521x293mm 23.5-inch                   | 2        | 2.78%   |
+| Dell S2340L DELD058 1920x1080 510x290mm 23.1-inch                     | 2        | 2.78%   |
+| Dell E2213H DELA08F 1920x1080 480x270mm 21.7-inch                     | 2        | 2.78%   |
+| Dell E2011H DEL406C 1600x900 443x249mm 20.0-inch                      | 2        | 2.78%   |
+| Acer S201HL ACR01A5 1600x900 443x249mm 20.0-inch                      | 2        | 2.78%   |
+| Acer EB321HQU ACR0507 2560x1440 699x393mm 31.6-inch                   | 2        | 2.78%   |
+| Wacom CintiqPro24P WAC1063 3840x2160 530x300mm 24.0-inch              | 1        | 1.39%   |
+| Sony TV SNY2C02 1920x1080 1018x573mm 46.0-inch                        | 1        | 1.39%   |
+| Sharp HDMI SHP115C 1920x1080 880x480mm 39.5-inch                      | 1        | 1.39%   |
+| SGT Split SGT0156 1920x1080 346x194mm 15.6-inch                       | 1        | 1.39%   |
+| Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch     | 1        | 1.39%   |
+| Samsung Electronics S24D300 SAM0B42 1920x1080 531x299mm 24.0-inch     | 1        | 1.39%   |
+| Samsung Electronics LU28R55 SAM1017 3840x2160 630x360mm 28.6-inch     | 1        | 1.39%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch | 1        | 1.39%   |
+| Samsung Electronics LCD Monitor SAM0509 1920x1080                     | 1        | 1.39%   |
+| Samsung Electronics LCD Monitor S27A950D 1920x1080                    | 1        | 1.39%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 1.39%   |
+| SAC DP_FREESYNC SAC2700 2560x1440 597x336mm 27.0-inch                 | 1        | 1.39%   |
+| PRISM+ P270 INN2700 3840x2160 597x336mm 27.0-inch                     | 1        | 1.39%   |
+| Pixio HDMI WAM2700 1920x1080 600x332mm 27.0-inch                      | 1        | 1.39%   |
+| Philips PHL 274E5 PHLC0C8 1920x1080 598x336mm 27.0-inch               | 1        | 1.39%   |
+| Philips 227E4QH PHLC0AA 1920x1080 477x268mm 21.5-inch                 | 1        | 1.39%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch            | 1        | 1.39%   |
+| Lenovo Group Limited LCD Monitor LEN T27i-10 1920x1080                | 1        | 1.39%   |
+| Lenovo Group Limited LCD Monitor LEN LS2323wA 1920x1080               | 1        | 1.39%   |
+| Hewlett-Packard L1950 HWP26E8 1280x1024 380x300mm 19.1-inch           | 1        | 1.39%   |
+| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch             | 1        | 1.39%   |
+| Hewlett-Packard 23es HWP331E 1920x1080 509x286mm 23.0-inch            | 1        | 1.39%   |
+| Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch             | 1        | 1.39%   |
+| Goldstar IPS224 GSM58D5 1920x1080 477x268mm 21.5-inch                 | 1        | 1.39%   |
+| Denver MLE-2401 LHC2360 1920x1080 521x294mm 23.6-inch                 | 1        | 1.39%   |
+| Dell U2917W DEL40F8 2560x1080 673x284mm 28.8-inch                     | 1        | 1.39%   |
+| Dell U2717D DEL40EA 2560x1440 597x336mm 27.0-inch                     | 1        | 1.39%   |
+| Dell U2713HM DEL407E 2560x1440 600x340mm 27.2-inch                    | 1        | 1.39%   |
+| Dell U2518D DEL413A 2560x1440 553x311mm 25.0-inch                     | 1        | 1.39%   |
+| Dell U2311H DELA05E 1920x1080 509x286mm 23.0-inch                     | 1        | 1.39%   |
+| Dell ST2410 DELA05B 1920x1080 531x299mm 24.0-inch                     | 1        | 1.39%   |
+| Dell SE2219H DELF10F 1920x1080 476x268mm 21.5-inch                    | 1        | 1.39%   |
+| Dell P2421D DELD0FE 2560x1440 527x296mm 23.8-inch                     | 1        | 1.39%   |
+| Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                     | 1        | 1.39%   |
+| Dell P1913 DELA088 1440x900 410x260mm 19.1-inch                       | 1        | 1.39%   |
+| Dell LCD Monitor P2717H 1920x1080                                     | 1        | 1.39%   |
+| Dell E2213H DELA090 1920x1080 480x270mm 21.7-inch                     | 1        | 1.39%   |
+| Dell E2211H DELA072 1920x1080 477x268mm 21.5-inch                     | 1        | 1.39%   |
+| Dell E2011H DEL406B 1600x900 443x249mm 20.0-inch                      | 1        | 1.39%   |
+| CVT Monitor CVT4670 1920x1080 360x290mm 18.2-inch                     | 1        | 1.39%   |
+| CHR M190PW01 V7 CHR7511 1440x900 518x333mm 24.2-inch                  | 1        | 1.39%   |
+| BenQ GL2580 BNQ78E5 1920x1080 544x303mm 24.5-inch                     | 1        | 1.39%   |
+| ASUSTek Computer VG278 AUS27AD 1920x1080 598x336mm 27.0-inch          | 1        | 1.39%   |
+| AOC U3277WB AOC3277 3840x2160 698x393mm 31.5-inch                     | 1        | 1.39%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 1.39%   |
+| AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 1        | 1.39%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                        | 1        | 1.39%   |
+| Ancor Communications LCD Monitor ROG PG279Q 2560x1440                 | 1        | 1.39%   |
+| Ancor Communications ASUS VC239 ACI23C4 1920x1080 509x286mm 23.0-inch | 1        | 1.39%   |
+| Acer LCD Monitor X223HQ 1920x1080                                     | 1        | 1.39%   |
 
 Monitor Resolution
 ------------------
@@ -2099,7 +2096,7 @@ Controller models
 | Intel Ethernet Connection I217-LM                                 | 3        | 2.61%   |
 | Intel Ethernet Connection (2) I219-LM                             | 3        | 2.61%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                        | 2        | 1.74%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2        | 1.74%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 2        | 1.74%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 1.74%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 2        | 1.74%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 2        | 1.74%   |
@@ -2168,7 +2165,7 @@ Wireless models
 |-----------------------------------------------------------------|----------|---------|
 | Intel Wi-Fi 6 AX200                                             | 10       | 28.57%  |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                      | 2        | 5.71%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]      | 2        | 5.71%   |
+| TP-Link 802.11ac WLAN Adapter                                   | 2        | 5.71%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                 | 2        | 5.71%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)  | 2        | 5.71%   |
 | Intel Wireless 3165                                             | 2        | 5.71%   |
@@ -2265,9 +2262,9 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 59       | 73.75%  |
-| WiFi     | 20       | 25%     |
-| Unknown  | 1        | 1.25%   |
+| Ethernet | 57       | 75%     |
+| WiFi     | 18       | 23.68%  |
+| Unknown  | 1        | 1.32%   |
 
 NICs
 ----
@@ -2329,7 +2326,7 @@ Controller models
 | Intel AX200 Bluetooth                               | 8        | 34.78%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 5        | 21.74%  |
 | Intel Bluetooth wireless interface                  | 3        | 13.04%  |
-| TP-Link TP-TR- UB500 Adapter                       | 2        | 8.7%    |
+| TP-Link UB500 Adapter                               | 2        | 8.7%    |
 | Qualcomm Atheros  Bluetooth Device                  | 1        | 4.35%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 4.35%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 4.35%   |
@@ -2474,8 +2471,8 @@ Memory module models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Kingston RAM KY7N41-MIE 8192MB DIMM DDR4 2666MT/s                   | 2        | 3.85%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s                 | 2        | 3.85%   |
-| Kingston RAM 9905471-011.A00LF 4096MB DIMM DDR3 1600MT/s            | 2        | 3.85%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 2400MT/s              | 2        | 3.85%   |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s               | 2        | 3.85%   |
 | Kingmax RAM GLLG42F-DA--------- 8GB DIMM DDR4 2400MT/s              | 2        | 3.85%   |
 | G.Skill RAM F4-3200C16-8GTZN 8GB DIMM DDR4 3200MT/s                 | 2        | 3.85%   |
 | Unknown RAM Module 8GB DIMM 1600MT/s                                | 1        | 1.92%   |
@@ -2483,8 +2480,8 @@ Memory module models
 | Transcend RAM JM800QLU-2G 2048MB DIMM DDR2 2048MT/s                 | 1        | 1.92%   |
 | Transcend RAM JM1600KLH-8G 8GB DIMM DDR3 1600MT/s                   | 1        | 1.92%   |
 | SK Hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s                | 1        | 1.92%   |
-| SK Hynix RAM HMT351U6EFR8C-PB 4096MB DIMM DDR3 1800MT/s             | 1        | 1.92%   |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s                | 1        | 1.92%   |
+| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                | 1        | 1.92%   |
+| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s             | 1        | 1.92%   |
 | SK Hynix RAM HMT125U6TFR8C-H9 2048MB DIMM DDR3 1333MT/s             | 1        | 1.92%   |
 | SK Hynix RAM HMA451U6AFR8N-TF 4GB DIMM DDR4 2133MT/s                | 1        | 1.92%   |
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM SDRAM 1867MT/s                | 1        | 1.92%   |
@@ -2492,30 +2489,30 @@ Memory module models
 | Samsung RAM M378A2K43CB1-CRC 16GB DIMM DDR4 2400MT/s                | 1        | 1.92%   |
 | Samsung RAM M378A1K43DB2-CTD 8GB DIMM DDR4 4333MT/s                 | 1        | 1.92%   |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s                 | 1        | 1.92%   |
-| Qimonda RAM 64T128020HU3SB 1024MB DIMM DDR2 667MT/s                 | 1        | 1.92%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3200MT/s                 | 1        | 1.92%   |
-| Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s                  | 1        | 1.92%   |
+| Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s                    | 1        | 1.92%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s                  | 1        | 1.92%   |
+| Nanya RAM NT2GT64U8HD0BY-AD 2048MB DIMM DDR2 2048MT/s               | 1        | 1.92%   |
 | MKF_SMBIOS_TYPE17_MANUFACTURER RAM Module 2048MB DIMM DDR3 1600MT/s | 1        | 1.92%   |
 | Micron RAM TEAMGROUP-UD4-2133 16384MB DIMM DDR4 2134MT/s            | 1        | 1.92%   |
 | Micron RAM 9JSF51272PZ-1G9E2 4GB DIMM DDR3 1866MT/s                 | 1        | 1.92%   |
 | Micron RAM 8ATF1G64AZ-3G2J1 8GB DIMM DDR4 3200MT/s                  | 1        | 1.92%   |
 | Micron RAM 16ATF2G64AZ-2G6E1 16GB DIMM DDR4 2667MT/s                | 1        | 1.92%   |
 | Klevv RAM KD48GU881-26N190A 8GB DIMM DDR4 2667MT/s                  | 1        | 1.92%   |
-| Kingston RAM KHX3200C16D4/16GX 16384MB DIMM DDR4 3600MT/s           | 1        | 1.92%   |
-| Kingston RAM KHX1600C10D3/4G 4096MB DIMM DDR3 1866MT/s              | 1        | 1.92%   |
+| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s              | 1        | 1.92%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                 | 1        | 1.92%   |
 | Kingston RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s                | 1        | 1.92%   |
 | Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1600MT/s               | 1        | 1.92%   |
-| Kingston RAM 99U5469-051.A00LF 4GB SODIMM DDR3 1600MT/s             | 1        | 1.92%   |
+| Kingston RAM 99U5469-051.A00LF 4096MB SODIMM DDR3 1600MT/s          | 1        | 1.92%   |
 | Kingston RAM 9905471-006.A00LF 4GB DIMM DDR3 1333MT/s               | 1        | 1.92%   |
 | Kingston RAM 9905417-082.A00G 4GB SODIMM DDR3 1600MT/s              | 1        | 1.92%   |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s              | 1        | 1.92%   |
-| G.Skill RAM F3-2400C11-8GXM 8GB DIMM DDR3 2400MT/s                  | 1        | 1.92%   |
+| G.Skill RAM F3-2400C11-8GXM 8192MB DIMM DDR3 2400MT/s               | 1        | 1.92%   |
 | G.Skill RAM F3-1600C11-8GNT 8GB DIMM DDR3 1600MT/s                  | 1        | 1.92%   |
 | Essencore Limited RAM KD48GU880-32A160U 8GB DIMM DDR4 2667MT/s      | 1        | 1.92%   |
 | Essencore Limited RAM KD48GU880-32A160T 8GB DIMM DDR4 2667MT/s      | 1        | 1.92%   |
 | Crucial RAM CT8G4DFS8213.C8FBD1 8GB DIMM DDR4 2133MT/s              | 1        | 1.92%   |
 | Crucial RAM BL8G36C16U4BL.M8FE1 8192MB DIMM DDR4 3600MT/s           | 1        | 1.92%   |
-| Corsair RAM CMW32GX4M2D3600C18 16384MB DIMM DDR4 3600MT/s           | 1        | 1.92%   |
+| Corsair RAM CMW32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s              | 1        | 1.92%   |
 | Corsair RAM CMU32GX4M2A2666C16 16384MB DIMM DDR4 2133MT/s           | 1        | 1.92%   |
 | Corsair RAM CMK16GX4M2D3200C16 8GB DIMM DDR4 3200MT/s               | 1        | 1.92%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3200MT/s               | 1        | 1.92%   |

@@ -157,7 +157,7 @@ Contents
 Test Cases
 ----------
 
-Total: 104
+Total: 94
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
@@ -175,7 +175,6 @@ Total: 104
 | Lenovo        | IdeaPad L340-15IRH Gamin... | Notebook    | [38a0ac2efa](https://linux-hardware.org/?probe=38a0ac2efa) | Feb 16, 2021 |
 | Toshiba       | Satellite C850-14X          | Notebook    | [73977134ff](https://linux-hardware.org/?probe=73977134ff) | Feb 12, 2021 |
 | Lenovo        | ThinkPad T500 22439AG       | Notebook    | [fe8ffb1fc3](https://linux-hardware.org/?probe=fe8ffb1fc3) | Jan 27, 2021 |
-| HP            | Compaq 6510b (GB867ET#AK... | Notebook    | [4b065e1397](https://linux-hardware.org/?probe=4b065e1397) | Jan 22, 2021 |
 | Dell          | 0PU052                      | Desktop     | [855a0698a6](https://linux-hardware.org/?probe=855a0698a6) | Jan 10, 2021 |
 | Dell          | 0PU052                      | Desktop     | [4472b7cd46](https://linux-hardware.org/?probe=4472b7cd46) | Jan 10, 2021 |
 | Chuwi         | UBook Pro                   | Notebook    | [ae3077af50](https://linux-hardware.org/?probe=ae3077af50) | Jan 01, 2021 |
@@ -219,26 +218,19 @@ Total: 104
 | Google        | Peppy                       | Notebook    | [417b93b591](https://linux-hardware.org/?probe=417b93b591) | Apr 28, 2020 |
 | Google        | Peppy                       | Notebook    | [3a4c5d1adf](https://linux-hardware.org/?probe=3a4c5d1adf) | Apr 28, 2020 |
 | Fujitsu Si... | LIFEBOOK E8420              | Notebook    | [cd2222973b](https://linux-hardware.org/?probe=cd2222973b) | Apr 21, 2020 |
-| Fujitsu Si... | LIFEBOOK E8420              | Notebook    | [a30ff7ed82](https://linux-hardware.org/?probe=a30ff7ed82) | Apr 21, 2020 |
-| Fujitsu Si... | LIFEBOOK E8420              | Notebook    | [3af9b9a04e](https://linux-hardware.org/?probe=3af9b9a04e) | Apr 20, 2020 |
-| Fujitsu Si... | LIFEBOOK E8420              | Notebook    | [9341944c37](https://linux-hardware.org/?probe=9341944c37) | Apr 20, 2020 |
 | Fujitsu Si... | LIFEBOOK E8420              | Notebook    | [05c4106212](https://linux-hardware.org/?probe=05c4106212) | Apr 20, 2020 |
 | HP            | Pavilion dv6                | Notebook    | [26098586ce](https://linux-hardware.org/?probe=26098586ce) | Apr 19, 2020 |
 | Dell          | 05XGC8 A01                  | Desktop     | [f243c5fe72](https://linux-hardware.org/?probe=f243c5fe72) | Apr 17, 2020 |
 | Dell          | 05XGC8 A01                  | Desktop     | [7e85fad5a0](https://linux-hardware.org/?probe=7e85fad5a0) | Apr 17, 2020 |
 | ONDA          | OBOOK 11                    | Notebook    | [ee48f07c90](https://linux-hardware.org/?probe=ee48f07c90) | Apr 14, 2020 |
 | ONDA          | OBOOK 11                    | Notebook    | [2833831652](https://linux-hardware.org/?probe=2833831652) | Apr 14, 2020 |
-| ONDA          | OBOOK 11                    | Notebook    | [1c927a5034](https://linux-hardware.org/?probe=1c927a5034) | Apr 14, 2020 |
-| ONDA          | OBOOK 11                    | Notebook    | [c97e05fa2b](https://linux-hardware.org/?probe=c97e05fa2b) | Apr 14, 2020 |
 | ONDA          | OBOOK 11                    | Notebook    | [9f4ddc3830](https://linux-hardware.org/?probe=9f4ddc3830) | Apr 14, 2020 |
 | ASUSTek       | E200HA                      | Notebook    | [3117acfee5](https://linux-hardware.org/?probe=3117acfee5) | Apr 11, 2020 |
 | ASUSTek       | E200HA                      | Notebook    | [a3c88b9be1](https://linux-hardware.org/?probe=a3c88b9be1) | Apr 11, 2020 |
 | Acer          | Aspire 3810T                | Notebook    | [10965a7219](https://linux-hardware.org/?probe=10965a7219) | Mar 23, 2020 |
 | Google        | Panther                     | Desktop     | [fbc127e88c](https://linux-hardware.org/?probe=fbc127e88c) | Feb 17, 2020 |
-| Google        | Panther                     | Desktop     | [f369e3ccad](https://linux-hardware.org/?probe=f369e3ccad) | Feb 17, 2020 |
 | Google        | Panther                     | Desktop     | [5ead9de21a](https://linux-hardware.org/?probe=5ead9de21a) | Feb 17, 2020 |
 | Dell          | Inspiron 1545               | Notebook    | [d558a45887](https://linux-hardware.org/?probe=d558a45887) | Feb 09, 2020 |
-| Dell          | Inspiron 1545               | Notebook    | [db67a5097a](https://linux-hardware.org/?probe=db67a5097a) | Feb 09, 2020 |
 | Dell          | Inspiron 1545               | Notebook    | [b2a0d6b4ee](https://linux-hardware.org/?probe=b2a0d6b4ee) | Feb 09, 2020 |
 | Hampoo        | B3W6_NA123C Reserved        | Notebook    | [eaf4701374](https://linux-hardware.org/?probe=eaf4701374) | Feb 08, 2020 |
 | Hampoo        | B3W6_NA123C Reserved        | Notebook    | [1ca0264090](https://linux-hardware.org/?probe=1ca0264090) | Feb 04, 2020 |
@@ -249,10 +241,8 @@ Total: 104
 | HP            | EliteBook 8460p             | Notebook    | [7d7699569b](https://linux-hardware.org/?probe=7d7699569b) | Jan 08, 2020 |
 | HP            | 635                         | Notebook    | [8bd618c5d7](https://linux-hardware.org/?probe=8bd618c5d7) | Jan 08, 2020 |
 | ASUSTek       | P5B-PLUS Series             | Desktop     | [b0a90d8478](https://linux-hardware.org/?probe=b0a90d8478) | Jan 02, 2020 |
-| Lenovo        | IdeaPad S145-14IWL 81MU     | Notebook    | [c93639d44b](https://linux-hardware.org/?probe=c93639d44b) | Dec 12, 2019 |
 | Lenovo        | IdeaPad S145-14IWL 81MU     | Notebook    | [6a1ec0281a](https://linux-hardware.org/?probe=6a1ec0281a) | Dec 11, 2019 |
 | HP            | Pavilion dv3500             | Notebook    | [ba878abe40](https://linux-hardware.org/?probe=ba878abe40) | Dec 09, 2019 |
-| HP            | Pavilion dv3500             | Notebook    | [e696795455](https://linux-hardware.org/?probe=e696795455) | Dec 09, 2019 |
 | HP            | Pavilion dv3500             | Notebook    | [089a351d46](https://linux-hardware.org/?probe=089a351d46) | Dec 09, 2019 |
 | NEC Comput... | ECS-945G                    | Desktop     | [3494d9ef49](https://linux-hardware.org/?probe=3494d9ef49) | Nov 10, 2019 |
 | Unknown       | Unknown                     | Notebook    | [f8f1207d2d](https://linux-hardware.org/?probe=f8f1207d2d) | Sep 29, 2019 |
@@ -528,7 +518,7 @@ Motherboard model
 | Dell Inspiron 1545                    | 2         | 3.45%   |
 | Toshiba Satellite T130                | 1         | 1.72%   |
 | Toshiba Satellite C850-14X            | 1         | 1.72%   |
-| Samsung Samsung DeskTop System        | 1         | 1.72%   |
+| Samsung DeskTop System                | 1         | 1.72%   |
 | Positivo S14CT01                      | 1         | 1.72%   |
 | Positivo Q232A                        | 1         | 1.72%   |
 | ONDA OBOOK 11                         | 1         | 1.72%   |
@@ -599,7 +589,7 @@ Motherboard model prefix
 | HP Compaq                | 2         | 3.45%   |
 | Dell OptiPlex            | 2         | 3.45%   |
 | Acer Aspire              | 2         | 3.45%   |
-| Samsung Samsung          | 1         | 1.72%   |
+| Samsung DeskTop          | 1         | 1.72%   |
 | Positivo S14CT01         | 1         | 1.72%   |
 | Positivo Q232A           | 1         | 1.72%   |
 | ONDA OBOOK               | 1         | 1.72%   |
@@ -648,10 +638,10 @@ Motherboard manufacture year
 | 2014 | 4         | 6.9%    |
 | 2009 | 4         | 6.9%    |
 | 2017 | 3         | 5.17%   |
+| 2012 | 3         | 5.17%   |
 | 2011 | 3         | 5.17%   |
-| 2013 | 2         | 3.45%   |
-| 2012 | 2         | 3.45%   |
 | 2007 | 2         | 3.45%   |
+| 2013 | 1         | 1.72%   |
 | 2010 | 1         | 1.72%   |
 | 2005 | 1         | 1.72%   |
 
@@ -842,62 +832,61 @@ Geographic location (city)
 ![City](./All/images/pie_chart/node_city.svg)
 
 
-| City                 | Computers | Percent |
-|----------------------|-----------|---------|
-| Central              | 3         | 5.08%   |
-| Rome                 | 2         | 3.39%   |
-| Montreal             | 2         | 3.39%   |
-| Jakarta              | 2         | 3.39%   |
-| Yekaterinburg        | 1         | 1.69%   |
-| Winter Garden        | 1         | 1.69%   |
-| Wijchen              | 1         | 1.69%   |
-| Welwyn Garden City   | 1         | 1.69%   |
-| Vienna               | 1         | 1.69%   |
-| Turin                | 1         | 1.69%   |
-| Toronto              | 1         | 1.69%   |
-| Thessaloniki         | 1         | 1.69%   |
-| Taranto              | 1         | 1.69%   |
-| Suwon                | 1         | 1.69%   |
-| Stockholm            | 1         | 1.69%   |
-| Stevenage            | 1         | 1.69%   |
-| Srednyaya Akhtuba    | 1         | 1.69%   |
-| Spokane              | 1         | 1.69%   |
-| South Bend           | 1         | 1.69%   |
-| Seoul                | 1         | 1.69%   |
-| Rio Largo            | 1         | 1.69%   |
-| Pouso Alegre         | 1         | 1.69%   |
-| Porter Ranch         | 1         | 1.69%   |
-| Oslo                 | 1         | 1.69%   |
-| Orbassano            | 1         | 1.69%   |
-| Oklahoma City        | 1         | 1.69%   |
-| Navan                | 1         | 1.69%   |
-| Milan                | 1         | 1.69%   |
-| Middle River         | 1         | 1.69%   |
-| Melbourne            | 1         | 1.69%   |
-| Marysville           | 1         | 1.69%   |
-| Mannheim             | 1         | 1.69%   |
-| Los Angeles          | 1         | 1.69%   |
-| Ljubljana            | 1         | 1.69%   |
-| Kolkata              | 1         | 1.69%   |
-| Kingston upon Thames | 1         | 1.69%   |
-| Hilversum            | 1         | 1.69%   |
-| Henan                | 1         | 1.69%   |
-| Haarlem              | 1         | 1.69%   |
-| Guildford            | 1         | 1.69%   |
-| Green Bay            | 1         | 1.69%   |
-| Glasgow              | 1         | 1.69%   |
-| Etimesgut            | 1         | 1.69%   |
-| Debrecen             | 1         | 1.69%   |
-| Ciudadela            | 1         | 1.69%   |
-| Casalecchio di Reno  | 1         | 1.69%   |
-| Campinas             | 1         | 1.69%   |
-| Camillus             | 1         | 1.69%   |
-| Bushel               | 1         | 1.69%   |
-| Barcelona            | 1         | 1.69%   |
-| Aschaffenburg        | 1         | 1.69%   |
-| Arlington            | 1         | 1.69%   |
-| Antwerp              | 1         | 1.69%   |
-| Alvsjo               | 1         | 1.69%   |
+| City               | Computers | Percent |
+|--------------------|-----------|---------|
+| Central            | 3         | 5.17%   |
+| Turin              | 2         | 3.45%   |
+| Rome               | 2         | 3.45%   |
+| Montreal           | 2         | 3.45%   |
+| Yekaterinburg      | 1         | 1.72%   |
+| Winter Garden      | 1         | 1.72%   |
+| Welwyn Garden City | 1         | 1.72%   |
+| Thessaloniki       | 1         | 1.72%   |
+| Suwon              | 1         | 1.72%   |
+| Spokane            | 1         | 1.72%   |
+| South Bend         | 1         | 1.72%   |
+| Sidney             | 1         | 1.72%   |
+| Senador Jose Bento | 1         | 1.72%   |
+| Samara             | 1         | 1.72%   |
+| Porter Ranch       | 1         | 1.72%   |
+| Oslo               | 1         | 1.72%   |
+| Omagh              | 1         | 1.72%   |
+| Oklahoma City      | 1         | 1.72%   |
+| Navan              | 1         | 1.72%   |
+| Murici             | 1         | 1.72%   |
+| Middle River       | 1         | 1.72%   |
+| Melbourne          | 1         | 1.72%   |
+| Mannheim           | 1         | 1.72%   |
+| Los Angeles        | 1         | 1.72%   |
+| Ljubljana          | 1         | 1.72%   |
+| Kolkata            | 1         | 1.72%   |
+| Istanbul           | 1         | 1.72%   |
+| Hitchin            | 1         | 1.72%   |
+| Henan              | 1         | 1.72%   |
+| Haarlem            | 1         | 1.72%   |
+| Green Bay          | 1         | 1.72%   |
+| Forlì             | 1         | 1.72%   |
+| Farnborough        | 1         | 1.72%   |
+| Falun              | 1         | 1.72%   |
+| Etobicoke          | 1         | 1.72%   |
+| Deurne             | 1         | 1.72%   |
+| Debrecen           | 1         | 1.72%   |
+| Crispiano          | 1         | 1.72%   |
+| Concesio           | 1         | 1.72%   |
+| Cleveleys          | 1         | 1.72%   |
+| Chinon             | 1         | 1.72%   |
+| Cheonan            | 1         | 1.72%   |
+| Campinas           | 1         | 1.72%   |
+| Camillus           | 1         | 1.72%   |
+| Buenos Aires       | 1         | 1.72%   |
+| Bogor              | 1         | 1.72%   |
+| Bleiswijk          | 1         | 1.72%   |
+| Beuningen          | 1         | 1.72%   |
+| Barcelona          | 1         | 1.72%   |
+| Bandung            | 1         | 1.72%   |
+| Bad Hall           | 1         | 1.72%   |
+| Aschaffenburg      | 1         | 1.72%   |
+| Arlington          | 1         | 1.72%   |
 
 Drives
 ------
@@ -917,7 +906,7 @@ Hard drive vendors
 | Seagate                 | 6         | 7      | 9.68%   |
 | Samsung Electronics     | 5         | 6      | 8.06%   |
 | Hitachi                 | 5         | 5      | 8.06%   |
-| Kingston                | 4         | 6      | 6.45%   |
+| Kingston                | 4         | 5      | 6.45%   |
 | Toshiba                 | 2         | 2      | 3.23%   |
 | HGST                    | 2         | 3      | 3.23%   |
 | Fujitsu                 | 2         | 2      | 3.23%   |
@@ -961,7 +950,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.56%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.56%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.56%   |
-| TO Exter nal USB 3.0 128GB                   | 1         | 1.56%   |
+| TO Exter nal USB 3.0 320GB                   | 1         | 1.56%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.56%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.56%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.56%   |
@@ -975,12 +964,12 @@ Hard drive models
 | Samsung HD502IJ 500GB                        | 1         | 1.56%   |
 | Patriot Inferno 120GB SSD                    | 1         | 1.56%   |
 | Netac SSD 256GB                              | 1         | 1.56%   |
-| MyDigitalSSD SC2 M2 SSD 64GB                 | 1         | 1.56%   |
+| MyDigitalSSD SC2 M2 SSD 120GB                | 1         | 1.56%   |
 | Kingston SUV500120G 120GB SSD                | 1         | 1.56%   |
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.56%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.56%   |
 | Kingston SA2000M81000G 1TB                   | 1         | 1.56%   |
-| KingSpec NT-256 256GB                        | 1         | 1.56%   |
+| KingSpec NT-256 256GB SSD                    | 1         | 1.56%   |
 | KingDian S200 60GB SSD                       | 1         | 1.56%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.56%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.56%   |
@@ -1023,7 +1012,7 @@ Solid state drive vendors
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 4         | 5      | 20%     |
-| Kingston            | 3         | 5      | 15%     |
+| Kingston            | 3         | 4      | 15%     |
 | Crucial             | 2         | 2      | 10%     |
 | WDC                 | 1         | 1      | 5%      |
 | TO Exter            | 1         | 1      | 5%      |
@@ -1048,7 +1037,7 @@ HDD or SSD
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
 | HDD  | 23        | 25     | 37.1%   |
-| SSD  | 20        | 25     | 32.26%  |
+| SSD  | 20        | 24     | 32.26%  |
 | MMC  | 17        | 22     | 27.42%  |
 | NVMe | 2         | 2      | 3.23%   |
 
@@ -1062,7 +1051,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 40        | 49     | 66.67%  |
+| SATA | 40        | 48     | 66.67%  |
 | MMC  | 17        | 22     | 28.33%  |
 | NVMe | 2         | 2      | 3.33%   |
 | SAS  | 1         | 1      | 1.67%   |
@@ -1077,7 +1066,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 50     | 100%    |
+| 0.01-0.5   | 41        | 49     | 100%    |
 
 Space Total
 -----------
@@ -1162,7 +1151,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 57        | 73     | 98.28%  |
+| Detected | 57        | 72     | 98.28%  |
 | Works    | 1         | 1      | 1.72%   |
 
 Storage controller
@@ -1628,7 +1617,7 @@ Monitor models
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                    | 3         | 5.08%   |
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 3.39%   |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 3.39%   |
-| Toshiba TV TSB0106 1920x1080                                             | 1         | 1.69%   |
+| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                         | 1         | 1.69%   |
 | Sony TV SNY9C01 1920x1080                                                | 1         | 1.69%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch                  | 1         | 1.69%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 1.69%   |
@@ -1871,7 +1860,7 @@ Controller models
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                   | 3         | 3.13%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 3.13%   |
 | Intel WiFi Link 5100                                                    | 3         | 3.13%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 2.08%   |
+| TP-Link 802.11ac WLAN Adapter                                           | 2         | 2.08%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 2.08%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 2.08%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 2.08%   |
@@ -1947,7 +1936,7 @@ Wireless models
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 5.77%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 5.77%   |
 | Intel WiFi Link 5100                                                    | 3         | 5.77%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 3.85%   |
+| TP-Link 802.11ac WLAN Adapter                                           | 2         | 3.85%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 3.85%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 3.85%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 3.85%   |
@@ -2046,9 +2035,8 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| WiFi     | 42        | 62.69%  |
-| Ethernet | 24        | 35.82%  |
-| Modem    | 1         | 1.49%   |
+| WiFi     | 42        | 71.19%  |
+| Ethernet | 17        | 28.81%  |
 
 NICs
 ----
@@ -2115,21 +2103,20 @@ Controller models
 | Intel Bluetooth wireless interface                  | 6         | 18.75%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 12.5%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 12.5%   |
-| Qualcomm Atheros  Bluetooth Device                  | 2         | 6.25%   |
+| Qualcomm Atheros  Bluetooth Device                  | 3         | 9.38%   |
 | IMC Networks Bluetooth Device                       | 2         | 6.25%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 6.25%   |
 | Toshiba Askey for                                   | 1         | 3.13%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 3.13%   |
 | Realtek Bluetooth Radio                             | 1         | 3.13%   |
-| Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.13%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.13%   |
-| Lite-On Bluetooth Device                            | 1         | 3.13%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.13%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.13%   |
 | Intel AX200 Bluetooth                               | 1         | 3.13%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.13%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.13%   |
 | Foxconn / Hon Hai BCM43142A0 broadcom bluetooth     | 1         | 3.13%   |
-| Apple Bluetooth USB Host Controller                 | 1         | 3.13%   |
+| Apple Bluetooth Host Controller                     | 1         | 3.13%   |
 
 Sound
 -----
@@ -2183,7 +2170,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                               | 1         | 1.56%   |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 1         | 1.56%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.56%   |
-| Generalplus Technology USB Audio Device                                                           | 1         | 1.56%   |
+| Generalplus Technology Usb Audio Device                                                           | 1         | 1.56%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.56%   |
 | AMD Kaveri HDMI/DP Audio Controller                                                               | 1         | 1.56%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                                    | 1         | 1.56%   |
@@ -2365,7 +2352,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Web Camera                          | 6         | 17.65%  |
+| Alcor Micro SHUNCCM2MP                                  | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |
@@ -2375,8 +2362,8 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 2.94%   |
 | Sunplus HD WebCam                                       | 1         | 2.94%   |
 | Realtek WebCamera                                       | 1         | 2.94%   |
+| Realtek USB2.0-Camera                                   | 1         | 2.94%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.94%   |
-| Realtek USB Camera                                      | 1         | 2.94%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.94%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.94%   |
 | Microdia HP Webcam                                      | 1         | 2.94%   |
@@ -2461,8 +2448,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 36        | 61.02%  |
-| 1     | 20        | 33.9%   |
+| 0     | 34        | 57.63%  |
+| 1     | 22        | 37.29%  |
 | 2     | 3         | 5.08%   |
 
 Unsupported Device Types
@@ -2475,13 +2462,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 24%     |
-| Net/wireless             | 5         | 20%     |
-| Fingerprint reader       | 5         | 20%     |
-| Chipcard                 | 3         | 12%     |
-| Storage                  | 2         | 8%      |
-| Storage/ide              | 1         | 4%      |
-| Modem                    | 1         | 4%      |
-| Graphics card            | 1         | 4%      |
-| Communication controller | 1         | 4%      |
+| Multimedia controller    | 6         | 22.22%  |
+| Net/wireless             | 5         | 18.52%  |
+| Fingerprint reader       | 5         | 18.52%  |
+| Graphics card            | 3         | 11.11%  |
+| Chipcard                 | 3         | 11.11%  |
+| Storage                  | 2         | 7.41%   |
+| Storage/ide              | 1         | 3.7%    |
+| Modem                    | 1         | 3.7%    |
+| Communication controller | 1         | 3.7%    |
 

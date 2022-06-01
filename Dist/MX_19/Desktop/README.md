@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 64
+Total: 62
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
@@ -180,11 +180,9 @@ Total: 64
 | ASRock        | H81M-ITX                 | [d58331ce9b](https://linux-hardware.org/?probe=d58331ce9b) | Feb 23, 2021 |
 | ASUSTek       | M2N-MX SE Plus           | [94f0202173](https://linux-hardware.org/?probe=94f0202173) | Feb 23, 2021 |
 | ASRock        | K8A780LM                 | [6543fc448e](https://linux-hardware.org/?probe=6543fc448e) | Feb 23, 2021 |
-| ASRock        | K8A780LM                 | [2340ea8f96](https://linux-hardware.org/?probe=2340ea8f96) | Feb 23, 2021 |
 | ASRock        | K8A780LM                 | [ce0076fd09](https://linux-hardware.org/?probe=ce0076fd09) | Feb 23, 2021 |
 | ASRock        | K8A780LM                 | [2e54aedb9e](https://linux-hardware.org/?probe=2e54aedb9e) | Jan 14, 2021 |
 | ASRock        | H81M-ITX                 | [50e5d36672](https://linux-hardware.org/?probe=50e5d36672) | Jan 14, 2021 |
-| ASRock        | K8A780LM                 | [ba37404fee](https://linux-hardware.org/?probe=ba37404fee) | Jan 14, 2021 |
 | ASUSTek       | M2N-MX SE Plus           | [f6a8e9eaf5](https://linux-hardware.org/?probe=f6a8e9eaf5) | Jan 14, 2021 |
 | Intel         | MAHOBAY                  | [d3e3aa3011](https://linux-hardware.org/?probe=d3e3aa3011) | Nov 28, 2020 |
 | Intel         | MAHOBAY                  | [b51d9808ea](https://linux-hardware.org/?probe=b51d9808ea) | Nov 28, 2020 |
@@ -349,8 +347,9 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| LightDM | 40       | 93.02%  |
+| LightDM | 38       | 88.37%  |
 | SDDM    | 3        | 6.98%   |
+| TDM     | 2        | 4.65%   |
 
 OS Lang
 -------
@@ -774,41 +773,41 @@ Geographic location (city)
 | City                     | Desktops | Percent |
 |--------------------------|----------|---------|
 | Bratislava               | 4        | 9.09%   |
-| Montevallo               | 2        | 4.55%   |
+| Centreville              | 2        | 4.55%   |
 | Belgrade                 | 2        | 4.55%   |
+| Warsaw                   | 1        | 2.27%   |
 | Virginia Beach           | 1        | 2.27%   |
 | Vienna                   | 1        | 2.27%   |
 | Valencia                 | 1        | 2.27%   |
 | Tilburg                  | 1        | 2.27%   |
-| Szar                     | 1        | 2.27%   |
 | Sydney                   | 1        | 2.27%   |
-| Stargard                 | 1        | 2.27%   |
 | Springdale               | 1        | 2.27%   |
+| Southsea                 | 1        | 2.27%   |
 | Serrana                  | 1        | 2.27%   |
-| Pleasant Hill            | 1        | 2.27%   |
 | Pabianice                | 1        | 2.27%   |
 | Oxford                   | 1        | 2.27%   |
 | Norwalk                  | 1        | 2.27%   |
 | Newtownabbey             | 1        | 2.27%   |
 | Melbourne                | 1        | 2.27%   |
 | McLoud                   | 1        | 2.27%   |
-| Mainz                    | 1        | 2.27%   |
-| Madrid                   | 1        | 2.27%   |
 | Lyon                     | 1        | 2.27%   |
+| Lewisham                 | 1        | 2.27%   |
+| Lee's Summit             | 1        | 2.27%   |
+| Lahnstein                | 1        | 2.27%   |
+| Kolodenka                | 1        | 2.27%   |
 | Kharagpur                | 1        | 2.27%   |
-| Istanbul                 | 1        | 2.27%   |
-| Greenwich                | 1        | 2.27%   |
-| Gosport                  | 1        | 2.27%   |
+| Hamburg                  | 1        | 2.27%   |
 | Gdansk                   | 1        | 2.27%   |
 | Fort Wayne               | 1        | 2.27%   |
-| FlorianÃ³polis         | 1        | 2.27%   |
-| Dubno                    | 1        | 2.27%   |
+| Florianópolis           | 1        | 2.27%   |
+| Felcsut                  | 1        | 2.27%   |
+| Farmington               | 1        | 2.27%   |
+| Dublin                   | 1        | 2.27%   |
 | Chula Vista              | 1        | 2.27%   |
-| Castleknock              | 1        | 2.27%   |
 | Campos dos Goytacazes    | 1        | 2.27%   |
-| Bremerhaven              | 1        | 2.27%   |
+| Bilecik                  | 1        | 2.27%   |
 | Bengaluru                | 1        | 2.27%   |
-| Barrington               | 1        | 2.27%   |
+| Barcelona                | 1        | 2.27%   |
 | Baddeck                  | 1        | 2.27%   |
 | Ankara                   | 1        | 2.27%   |
 | Albertslund Municipality | 1        | 2.27%   |
@@ -836,11 +835,11 @@ Hard drive vendors
 | SanDisk                   | 3        | 3      | 3.8%    |
 | Mushkin                   | 2        | 2      | 2.53%   |
 | GOODRAM                   | 2        | 3      | 2.53%   |
-| A-DATA Technology         | 2        | 3      | 2.53%   |
+| A-DATA Technology         | 2        | 2      | 2.53%   |
 | Micron/Crucial Technology | 1        | 1      | 1.27%   |
 | KingFast                  | 1        | 1      | 1.27%   |
 | Intel                     | 1        | 2      | 1.27%   |
-| Fujitsu                   | 1        | 2      | 1.27%   |
+| Fujitsu                   | 1        | 1      | 1.27%   |
 | Corsair                   | 1        | 1      | 1.27%   |
 
 Drive Model
@@ -929,7 +928,7 @@ Hard disk drive vendors
 | Hitachi             | 8        | 11     | 16.33%  |
 | Toshiba             | 5        | 6      | 10.2%   |
 | Samsung Electronics | 1        | 2      | 2.04%   |
-| Fujitsu             | 1        | 2      | 2.04%   |
+| Fujitsu             | 1        | 1      | 2.04%   |
 
 SSD Vendor
 ----------
@@ -947,7 +946,7 @@ Solid state drive vendors
 | Kingston            | 3        | 4      | 12.5%   |
 | WDC                 | 2        | 2      | 8.33%   |
 | GOODRAM             | 2        | 3      | 8.33%   |
-| A-DATA Technology   | 2        | 3      | 8.33%   |
+| A-DATA Technology   | 2        | 2      | 8.33%   |
 | Mushkin             | 1        | 1      | 4.17%   |
 | KingFast            | 1        | 1      | 4.17%   |
 | Intel               | 1        | 2      | 4.17%   |
@@ -962,8 +961,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 36       | 67     | 58.06%  |
-| SSD  | 20       | 28     | 32.26%  |
+| HDD  | 36       | 66     | 58.06%  |
+| SSD  | 20       | 27     | 32.26%  |
 | NVMe | 6        | 6      | 9.68%   |
 
 Drive Connector
@@ -976,7 +975,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 41       | 95     | 87.23%  |
+| SATA | 41       | 93     | 87.23%  |
 | NVMe | 6        | 6      | 12.77%  |
 
 Drive Size
@@ -989,7 +988,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 33       | 52     | 50.77%  |
+| 0.01-0.5   | 33       | 50     | 50.77%  |
 | 0.51-1.0   | 18       | 28     | 27.69%  |
 | 1.01-2.0   | 6        | 7      | 9.23%   |
 | 2.01-3.0   | 4        | 4      | 6.15%   |
@@ -1059,7 +1058,7 @@ Drive models with a malfunction
 | Hitachi HUA722020ALA331 2TB       | 1        | 1      | 5.88%   |
 | Hitachi HDT721010SLA360 1TB       | 1        | 1      | 5.88%   |
 | Hitachi HDP725016GLA380 160GB     | 1        | 1      | 5.88%   |
-| Fujitsu MHV2060BH PL 64GB         | 1        | 2      | 5.88%   |
+| Fujitsu MHV2060BH PL 64GB         | 1        | 1      | 5.88%   |
 | Crucial CT256M550SSD1 256GB       | 1        | 1      | 5.88%   |
 | Crucial CT240M500SSD1 240GB       | 1        | 1      | 5.88%   |
 
@@ -1079,7 +1078,7 @@ Vendors of faulty drives
 | Crucial             | 2        | 2      | 12.5%   |
 | Toshiba             | 1        | 1      | 6.25%   |
 | Samsung Electronics | 1        | 2      | 6.25%   |
-| Fujitsu             | 1        | 2      | 6.25%   |
+| Fujitsu             | 1        | 1      | 6.25%   |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1096,7 +1095,7 @@ Vendors of faulty HDD drives
 | Hitachi             | 3        | 3      | 21.43%  |
 | Toshiba             | 1        | 1      | 7.14%   |
 | Samsung Electronics | 1        | 2      | 7.14%   |
-| Fujitsu             | 1        | 2      | 7.14%   |
+| Fujitsu             | 1        | 1      | 7.14%   |
 
 Malfunc. Drive Kind
 -------------------
@@ -1108,7 +1107,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 12       | 17     | 85.71%  |
+| HDD  | 12       | 16     | 85.71%  |
 | SSD  | 2        | 2      | 14.29%  |
 
 Failed Drives
@@ -1147,8 +1146,8 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 35       | 73     | 63.64%  |
-| Malfunc  | 13       | 19     | 23.64%  |
+| Works    | 35       | 72     | 63.64%  |
+| Malfunc  | 13       | 18     | 23.64%  |
 | Detected | 4        | 5      | 7.27%   |
 | Failed   | 3        | 4      | 5.45%   |
 
@@ -1626,21 +1625,21 @@ Monitor models
 | Goldstar 32 FHD GSM76FF 1920x1080 698x392mm 31.5-inch                   | 2        | 4.65%   |
 | ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.33%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.33%   |
-| ViewSonic VS2210-FHD VSC1939 1920x1080 480x270mm 21.7-inch              | 1        | 2.33%   |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch    | 1        | 2.33%   |
+| ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch              | 1        | 2.33%   |
+| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                           | 1        | 2.33%   |
 | Sanyo LCD MONITOR SAN2213 1920x1080 474x296mm 22.0-inch                 | 1        | 2.33%   |
 | Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.33%   |
-| Samsung Electronics SMB1930N SAM0632 1360x768 410x230mm 18.5-inch       | 1        | 2.33%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 2.33%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 2.33%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch       | 1        | 2.33%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 2.33%   |
 | Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.33%   |
-| Philips FTV PHL01EA 1920x1080 640x360mm 28.9-inch                       | 1        | 2.33%   |
+| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.33%   |
 | MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                       | 1        | 2.33%   |
 | IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                         | 1        | 2.33%   |
 | HYO DUAL-DVI HYO049B 2560x1440 597x336mm 27.0-inch                      | 1        | 2.33%   |
 | Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                    | 1        | 2.33%   |
-| Goldstar W2243 GSM56FE 1920x1080 480x270mm 21.7-inch                    | 1        | 2.33%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch              | 1        | 2.33%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                    | 1        | 2.33%   |
+| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch               | 1        | 2.33%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 2.33%   |
 | Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                        | 1        | 2.33%   |
 | Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                    | 1        | 2.33%   |
@@ -1655,7 +1654,7 @@ Monitor models
 | BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                      | 1        | 2.33%   |
 | AOC 2060W AOC2060 1600x900 430x240mm 19.4-inch                          | 1        | 2.33%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                          | 1        | 2.33%   |
-| Ancor Communications VS248 ACI2498 1920x1080 530x300mm 24.0-inch        | 1        | 2.33%   |
+| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch        | 1        | 2.33%   |
 | Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch   | 1        | 2.33%   |
 | Acer XF240H ACR0472 1920x1080 531x299mm 24.0-inch                       | 1        | 2.33%   |
 | Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                         | 1        | 2.33%   |
@@ -1957,8 +1956,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 39       | 75%     |
-| WiFi     | 13       | 25%     |
+| Ethernet | 33       | 73.33%  |
+| WiFi     | 12       | 26.67%  |
 
 NICs
 ----
@@ -2017,7 +2016,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2        | 28.57%  |
-| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 14.29%  |
+| Qualcomm Atheros  Bluetooth Device                  | 1        | 14.29%  |
 | Intel Bluetooth wireless interface                  | 1        | 14.29%  |
 | Intel AX200 Bluetooth                               | 1        | 14.29%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 14.29%  |
@@ -2144,7 +2143,7 @@ Memory module models
 |-----------------------------------------------------------|----------|---------|
 | Unknown RAM Module 4096MB DIMM 1600MT/s                   | 3        | 5.77%   |
 | Unknown RAM Module 1024MB DIMM DDR 333MT/s                | 2        | 3.85%   |
-| SK Hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s     | 2        | 3.85%   |
+| SK Hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s  | 2        | 3.85%   |
 | Unknown RAM Module 512MB DIMM DDR 200MT/s                 | 1        | 1.92%   |
 | Unknown RAM Module 4GB DIMM SDRAM                         | 1        | 1.92%   |
 | Unknown RAM Module 4GB DIMM DDR2 800MT/s                  | 1        | 1.92%   |
@@ -2161,8 +2160,8 @@ Memory module models
 | SK Hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
 | Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM DDR2 1639MT/s   | 1        | 1.92%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 667MT/s       | 1        | 1.92%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 1639MT/s      | 1        | 1.92%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s       | 1        | 1.92%   |
 | RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s             | 1        | 1.92%   |
 | Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s        | 1        | 1.92%   |
 | Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s        | 1        | 1.92%   |
@@ -2171,14 +2170,14 @@ Memory module models
 | Kingston RAM Module 4096MB DIMM DDR3 1333MT/s             | 1        | 1.92%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 1.92%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 1        | 1.92%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s       | 1        | 1.92%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s       | 1        | 1.92%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 2400MT/s    | 1        | 1.92%   |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
 | Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
-| Kingston RAM CL16-16-16 D4-2400 8GB DIMM DDR4 2134MT/s    | 1        | 1.92%   |
+| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2134MT/s    | 1        | 1.92%   |
 | Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
 | Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s     | 1        | 1.92%   |
 | Kingston RAM 9965525-026.A00LF 8192MB DIMM DDR3 1333MT/s  | 1        | 1.92%   |
-| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s        | 1        | 1.92%   |
+| G.Skill RAM F4-2400C15-8GNT 8192MB DIMM DDR4 2666MT/s     | 1        | 1.92%   |
 | G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s         | 1        | 1.92%   |
 | G.Skill RAM F3-1333C9-4GSL 4096MB SODIMM DDR3 1333MT/s    | 1        | 1.92%   |
 | Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
@@ -2187,7 +2186,7 @@ Memory module models
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 1.92%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 1.92%   |
 | Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s     | 1        | 1.92%   |
-| Corsair RAM CM4X8GD3200C16K4 8192MB DIMM DDR4 2133MT/s    | 1        | 1.92%   |
+| Corsair RAM CM4X8GD3200C16K4 8GB DIMM DDR4 2133MT/s       | 1        | 1.92%   |
 | Corsair RAM CM4X16GC3000C16K4D 16384MB DIMM DDR4 3000MT/s | 1        | 1.92%   |
 | Axiom RAM 51264Y133IHYN 4GB DIMM DDR3 1333MT/s            | 1        | 1.92%   |
 
@@ -2339,15 +2338,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Logitech Webcam C200                     | 2        | 25%     |
-| Microsoft LifeCam HD-3000                | 1        | 12.5%   |
-| Logitech Webcam Pro 9000                 | 1        | 12.5%   |
-| Logitech Webcam C270                     | 1        | 12.5%   |
-| Logitech B525 HD Webcam                  | 1        | 12.5%   |
-| Huawei UVC Camera                        | 1        | 12.5%   |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 12.5%   |
+| Model                     | Desktops | Percent |
+|---------------------------|----------|---------|
+| Logitech Webcam C200      | 2        | 25%     |
+| Microsoft LifeCam HD-3000 | 1        | 12.5%   |
+| Logitech Webcam Pro 9000  | 1        | 12.5%   |
+| Logitech Webcam C270      | 1        | 12.5%   |
+| Logitech B525 HD Webcam   | 1        | 12.5%   |
+| Huawei UVC Camera         | 1        | 12.5%   |
+| Generalplus 808 Camera    | 1        | 12.5%   |
 
 Security
 --------

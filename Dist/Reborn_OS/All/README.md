@@ -157,7 +157,7 @@ Contents
 Test Cases
 ----------
 
-Total: 185
+Total: 178
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
@@ -186,14 +186,12 @@ Total: 185
 | Lenovo        | IdeaPad 330-17IKB 81DM      | Notebook    | [19226582d9](https://linux-hardware.org/?probe=19226582d9) | May 31, 2021 |
 | Medion        | Cattle24 1M                 | Desktop     | [dd4a0707ba](https://linux-hardware.org/?probe=dd4a0707ba) | May 19, 2021 |
 | HP            | EliteBook 8460p             | Notebook    | [6f3d7a9d3f](https://linux-hardware.org/?probe=6f3d7a9d3f) | May 15, 2021 |
-| HP            | EliteBook 8460p             | Notebook    | [634f320f1e](https://linux-hardware.org/?probe=634f320f1e) | May 14, 2021 |
 | HP            | EliteBook 8460p             | Notebook    | [426f99f758](https://linux-hardware.org/?probe=426f99f758) | May 14, 2021 |
 | Dell          | 0200DY A01                  | Desktop     | [426fc0381c](https://linux-hardware.org/?probe=426fc0381c) | May 08, 2021 |
 | ASUSTek       | PRIME Z270-A                | Desktop     | [58fbf7553b](https://linux-hardware.org/?probe=58fbf7553b) | May 03, 2021 |
 | ASUSTek       | PRIME Z270-A                | Desktop     | [27595787eb](https://linux-hardware.org/?probe=27595787eb) | Apr 26, 2021 |
 | ASUSTek       | PRIME Z270-A                | Desktop     | [ec119e020d](https://linux-hardware.org/?probe=ec119e020d) | Apr 26, 2021 |
 | Lenovo        | Y50-70 20378                | Notebook    | [18ec5d54a4](https://linux-hardware.org/?probe=18ec5d54a4) | Apr 02, 2021 |
-| Lenovo        | Y50-70 20378                | Notebook    | [3bb0e32d6c](https://linux-hardware.org/?probe=3bb0e32d6c) | Apr 02, 2021 |
 | Lenovo        | IdeaPad L340-17API 81LY     | Notebook    | [989604544a](https://linux-hardware.org/?probe=989604544a) | Apr 02, 2021 |
 | Lenovo        | IdeaPad L340-17API 81LY     | Notebook    | [1b1d0bc44f](https://linux-hardware.org/?probe=1b1d0bc44f) | Mar 27, 2021 |
 | CyberPower... | Tracer Series               | Notebook    | [295977bfa3](https://linux-hardware.org/?probe=295977bfa3) | Mar 24, 2021 |
@@ -255,7 +253,7 @@ Total: 185
 | Acer          | Aspire F5-573G              | Notebook    | [9153f43376](https://linux-hardware.org/?probe=9153f43376) | Nov 02, 2020 |
 | Gigabyte      | EP43-UD3L                   | Desktop     | [d6fd55eee0](https://linux-hardware.org/?probe=d6fd55eee0) | Nov 01, 2020 |
 | Acer          | Aspire E5-571G              | Notebook    | [9d695214a4](https://linux-hardware.org/?probe=9d695214a4) | Oct 27, 2020 |
-| Lenovo        | Board                       | Desktop     | [a1896b3549](https://linux-hardware.org/?probe=a1896b3549) | Oct 26, 2020 |
+| Lenovo        | ThinkCentre M58 6258WCY     | Desktop     | [a1896b3549](https://linux-hardware.org/?probe=a1896b3549) | Oct 26, 2020 |
 | Dell          | Latitude 5500               | Notebook    | [b1f5e9ea7a](https://linux-hardware.org/?probe=b1f5e9ea7a) | Oct 25, 2020 |
 | Sony          | VPCEH10EB                   | Notebook    | [167720fe57](https://linux-hardware.org/?probe=167720fe57) | Oct 25, 2020 |
 | ASUSTek       | PRIME H110M-P               | Desktop     | [5f4ab6b326](https://linux-hardware.org/?probe=5f4ab6b326) | Oct 18, 2020 |
@@ -309,7 +307,6 @@ Total: 185
 | Lenovo        | MAHOBAY NOK                 | Desktop     | [aaac6f9d4d](https://linux-hardware.org/?probe=aaac6f9d4d) | Mar 17, 2020 |
 | ASRock        | X570 Phantom Gaming 4       | Desktop     | [63b8db155d](https://linux-hardware.org/?probe=63b8db155d) | Mar 02, 2020 |
 | ASRock        | X570 Phantom Gaming 4       | Desktop     | [ed0b979970](https://linux-hardware.org/?probe=ed0b979970) | Mar 01, 2020 |
-| ASRock        | X570 Phantom Gaming 4       | Desktop     | [cf634b4bfa](https://linux-hardware.org/?probe=cf634b4bfa) | Mar 01, 2020 |
 | ASRock        | X570 Phantom Gaming 4       | Desktop     | [85c6480266](https://linux-hardware.org/?probe=85c6480266) | Mar 01, 2020 |
 | ASRock        | H81M-HDS                    | Desktop     | [0f180375d6](https://linux-hardware.org/?probe=0f180375d6) | Feb 25, 2020 |
 | HP            | Pavilion 17                 | Notebook    | [5d3ccb9ed7](https://linux-hardware.org/?probe=5d3ccb9ed7) | Feb 24, 2020 |
@@ -319,21 +316,17 @@ Total: 185
 | HP            | Pavilion 17                 | Notebook    | [26bdca3832](https://linux-hardware.org/?probe=26bdca3832) | Feb 09, 2020 |
 | HP            | Pavilion Gaming Laptop 1... | Notebook    | [48487463eb](https://linux-hardware.org/?probe=48487463eb) | Feb 09, 2020 |
 | Gigabyte      | GA-880GM-UD2H               | Desktop     | [b189e00138](https://linux-hardware.org/?probe=b189e00138) | Jan 16, 2020 |
-| Gigabyte      | GA-880GM-UD2H               | Desktop     | [486c4324ce](https://linux-hardware.org/?probe=486c4324ce) | Jan 16, 2020 |
 | Gigabyte      | GA-880GM-UD2H               | Desktop     | [ecb6ade802](https://linux-hardware.org/?probe=ecb6ade802) | Jan 16, 2020 |
 | Lenovo        | IdeaPad S145-15IWL 81MV     | Notebook    | [9c202df9eb](https://linux-hardware.org/?probe=9c202df9eb) | Jan 14, 2020 |
-| Lenovo        | IdeaPad S145-15IWL 81MV     | Notebook    | [461cbdb5c5](https://linux-hardware.org/?probe=461cbdb5c5) | Jan 12, 2020 |
 | Lenovo        | IdeaPad S145-15IWL 81MV     | Notebook    | [12d0a26c62](https://linux-hardware.org/?probe=12d0a26c62) | Jan 12, 2020 |
 | HP            | Pavilion 17                 | Notebook    | [baeaa7afdc](https://linux-hardware.org/?probe=baeaa7afdc) | Jan 11, 2020 |
 | Acer          | Aspire E1-571               | Notebook    | [3b1545354e](https://linux-hardware.org/?probe=3b1545354e) | Jan 08, 2020 |
-| Acer          | Aspire E1-571               | Notebook    | [8d913c63e5](https://linux-hardware.org/?probe=8d913c63e5) | Jan 08, 2020 |
 | Acer          | Aspire E1-571               | Notebook    | [25229b0eaf](https://linux-hardware.org/?probe=25229b0eaf) | Jan 08, 2020 |
 | Acer          | Aspire E1-571               | Notebook    | [3d68993148](https://linux-hardware.org/?probe=3d68993148) | Jan 08, 2020 |
 | Avell High... | G1550 FOX                   | Notebook    | [b2380e6e7a](https://linux-hardware.org/?probe=b2380e6e7a) | Dec 30, 2019 |
 | Intel         | DH55HC AAE70933-501         | Desktop     | [64266b67a2](https://linux-hardware.org/?probe=64266b67a2) | Dec 26, 2019 |
 | HP            | 82F2 A01                    | Desktop     | [0b8306e086](https://linux-hardware.org/?probe=0b8306e086) | Nov 18, 2019 |
 | Dell          | 0773VG A00                  | Desktop     | [adf2d5daca](https://linux-hardware.org/?probe=adf2d5daca) | Oct 31, 2019 |
-| Dell          | 0773VG A00                  | Desktop     | [05df3b6227](https://linux-hardware.org/?probe=05df3b6227) | Oct 31, 2019 |
 | Dell          | 0773VG A00                  | Desktop     | [2f3044da6d](https://linux-hardware.org/?probe=2f3044da6d) | Oct 31, 2019 |
 | MSI           | C236A WORKSTATION           | Desktop     | [fcc16b2804](https://linux-hardware.org/?probe=fcc16b2804) | Oct 11, 2019 |
 | MSI           | C236A WORKSTATION           | Desktop     | [f68bc503a9](https://linux-hardware.org/?probe=f68bc503a9) | Oct 11, 2019 |
@@ -345,7 +338,7 @@ Total: 185
 | ASUSTek       | P8Z77-V DELUXE              | Desktop     | [2180eb318a](https://linux-hardware.org/?probe=2180eb318a) | Dec 30, 2018 |
 | Lenovo        | G570 20079                  | Notebook    | [b1b5baaf85](https://linux-hardware.org/?probe=b1b5baaf85) | Dec 12, 2018 |
 | ASRock        | H97M Pro4                   | Desktop     | [2e4984a12a](https://linux-hardware.org/?probe=2e4984a12a) | Nov 27, 2018 |
-| Lenovo        | Board                       | Desktop     | [812afde3d9](https://linux-hardware.org/?probe=812afde3d9) | Nov 21, 2018 |
+| Lenovo        | ThinkCentre M91p 0266RZ1    | Desktop     | [812afde3d9](https://linux-hardware.org/?probe=812afde3d9) | Nov 21, 2018 |
 
 System
 ------
@@ -407,7 +400,6 @@ Version of the Linux kernel
 | 5.14.16-arch1-1      | 2         | 1.49%   |
 | 5.11.7-arch1-1       | 2         | 1.49%   |
 | 5.11.6-arch1-1       | 2         | 1.49%   |
-| 5.11.10-arch1-1      | 2         | 1.49%   |
 | 5.11.1-arch1-1       | 2         | 1.49%   |
 | 5.10.4-arch2-1       | 2         | 1.49%   |
 | 5.10.13-arch1-1      | 2         | 1.49%   |
@@ -445,6 +437,7 @@ Version of the Linux kernel
 | 5.16.0-zen1-1-zen    | 1         | 0.75%   |
 | 5.15.7-arch1-1       | 1         | 0.75%   |
 | 5.15.6-arch2-1       | 1         | 0.75%   |
+| 5.15.21-1-lts        | 1         | 0.75%   |
 
 Kernel Family
 -------------
@@ -480,7 +473,7 @@ Linux kernel without a distro release
 | 5.14.16 | 2         | 1.5%    |
 | 5.11.7  | 2         | 1.5%    |
 | 5.11.6  | 2         | 1.5%    |
-| 5.11.10 | 2         | 1.5%    |
+| 5.11.11 | 2         | 1.5%    |
 | 5.11.1  | 2         | 1.5%    |
 | 5.10.4  | 2         | 1.5%    |
 | 5.10.13 | 2         | 1.5%    |
@@ -914,16 +907,16 @@ Motherboard manufacture year
 | 2012 | 16        | 12.7%   |
 | 2018 | 12        | 9.52%   |
 | 2013 | 12        | 9.52%   |
+| 2011 | 11        | 8.73%   |
 | 2016 | 10        | 7.94%   |
-| 2011 | 10        | 7.94%   |
 | 2009 | 10        | 7.94%   |
 | 2020 | 9         | 7.14%   |
-| 2010 | 9         | 7.14%   |
-| 2014 | 8         | 6.35%   |
+| 2010 | 8         | 6.35%   |
+| 2014 | 7         | 5.56%   |
 | 2017 | 5         | 3.97%   |
 | 2015 | 5         | 3.97%   |
+| 2008 | 2         | 1.59%   |
 | 2021 | 1         | 0.79%   |
-| 2008 | 1         | 0.79%   |
 
 Form Factor
 -----------
@@ -995,12 +988,12 @@ Used RAM memory
 
 | Used GB   | Computers | Percent |
 |-----------|-----------|---------|
-| 1.01-2.0  | 57        | 43.51%  |
-| 2.01-3.0  | 41        | 31.3%   |
-| 3.01-4.0  | 13        | 9.92%   |
-| 4.01-8.0  | 11        | 8.4%    |
-| 0.51-1.0  | 6         | 4.58%   |
-| 8.01-16.0 | 3         | 2.29%   |
+| 1.01-2.0  | 58        | 43.94%  |
+| 2.01-3.0  | 41        | 31.06%  |
+| 3.01-4.0  | 13        | 9.85%   |
+| 4.01-8.0  | 11        | 8.33%   |
+| 0.51-1.0  | 6         | 4.55%   |
+| 8.01-16.0 | 3         | 2.27%   |
 
 Total Drives
 ------------
@@ -1031,8 +1024,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 67        | 52.76%  |
-| Yes       | 60        | 47.24%  |
+| No        | 68        | 53.54%  |
+| Yes       | 59        | 46.46%  |
 
 Has Ethernet
 ------------
@@ -1129,68 +1122,68 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                | Computers | Percent |
-|---------------------|-----------|---------|
-| Melbourne           | 3         | 2.29%   |
-| Aleksandrov         | 3         | 2.29%   |
-| Toronto             | 2         | 1.53%   |
-| Tallinn             | 2         | 1.53%   |
-| Sao Paulo           | 2         | 1.53%   |
-| Santa Clara         | 2         | 1.53%   |
-| Miami               | 2         | 1.53%   |
-| Madrid              | 2         | 1.53%   |
-| Lelystad            | 2         | 1.53%   |
-| Irun                | 2         | 1.53%   |
-| Essen               | 2         | 1.53%   |
-| David               | 2         | 1.53%   |
-| Cologne             | 2         | 1.53%   |
-| Buffalo             | 2         | 1.53%   |
-| Athens              | 2         | 1.53%   |
-| Ankara              | 2         | 1.53%   |
-| Zutphen             | 1         | 0.76%   |
-| Zabrze              | 1         | 0.76%   |
-| Yadrin              | 1         | 0.76%   |
-| Winsted             | 1         | 0.76%   |
-| Watford             | 1         | 0.76%   |
-| Warsaw              | 1         | 0.76%   |
-| Waren               | 1         | 0.76%   |
-| VitГіria          | 1         | 0.76%   |
-| Villahermosa        | 1         | 0.76%   |
-| Villa Martelli      | 1         | 0.76%   |
-| Vienna              | 1         | 0.76%   |
-| Ullastrell          | 1         | 0.76%   |
-| The Hague           | 1         | 0.76%   |
-| SzekszГЎrd        | 1         | 0.76%   |
-| Sydney              | 1         | 0.76%   |
-| Surrey              | 1         | 0.76%   |
-| Stabroek            | 1         | 0.76%   |
-| Southampton         | 1         | 0.76%   |
-| Smithfield          | 1         | 0.76%   |
-| Seville             | 1         | 0.76%   |
-| Schorndorf          | 1         | 0.76%   |
-| Sattahip            | 1         | 0.76%   |
-| San Miguel          | 1         | 0.76%   |
-| Salt Lake City      | 1         | 0.76%   |
-| Reno                | 1         | 0.76%   |
-| Queens              | 1         | 0.76%   |
-| Puente Alto         | 1         | 0.76%   |
-| Portsmouth          | 1         | 0.76%   |
-| Porto UniГЈo      | 1         | 0.76%   |
-| Phoenix             | 1         | 0.76%   |
-| Perth               | 1         | 0.76%   |
-| Orem                | 1         | 0.76%   |
-| Novosibirsk         | 1         | 0.76%   |
-| North Fort Myers    | 1         | 0.76%   |
-| North Bay           | 1         | 0.76%   |
-| Newport News        | 1         | 0.76%   |
-| Newcastle           | 1         | 0.76%   |
-| New Orleans         | 1         | 0.76%   |
-| Nava de la Asuncion | 1         | 0.76%   |
-| Mogi Mirim          | 1         | 0.76%   |
-| Mexico City         | 1         | 0.76%   |
-| Mascouche           | 1         | 0.76%   |
-| Littleton           | 1         | 0.76%   |
-| Limeira             | 1         | 0.76%   |
+| City           | Computers | Percent |
+|----------------|-----------|---------|
+| Melbourne      | 3         | 2.31%   |
+| Aleksandrov    | 3         | 2.31%   |
+| Tres Cantos    | 2         | 1.54%   |
+| Toronto        | 2         | 1.54%   |
+| Tallinn        | 2         | 1.54%   |
+| Sao Paulo      | 2         | 1.54%   |
+| Santa Clara    | 2         | 1.54%   |
+| Miami          | 2         | 1.54%   |
+| Lelystad       | 2         | 1.54%   |
+| Cologne        | 2         | 1.54%   |
+| Buffalo        | 2         | 1.54%   |
+| Athens         | 2         | 1.54%   |
+| Zutphen        | 1         | 0.77%   |
+| Zabrze         | 1         | 0.77%   |
+| Yadrin         | 1         | 0.77%   |
+| Wuppertal      | 1         | 0.77%   |
+| Winsted        | 1         | 0.77%   |
+| Watford        | 1         | 0.77%   |
+| Warsaw         | 1         | 0.77%   |
+| Villahermosa   | 1         | 0.77%   |
+| Verwood        | 1         | 0.77%   |
+| Toledo         | 1         | 0.77%   |
+| The Hague      | 1         | 0.77%   |
+| Szekszárd     | 1         | 0.77%   |
+| Sydney         | 1         | 0.77%   |
+| Surrey         | 1         | 0.77%   |
+| Stuttgart      | 1         | 0.77%   |
+| Streatham      | 1         | 0.77%   |
+| Spremberg      | 1         | 0.77%   |
+| Southampton    | 1         | 0.77%   |
+| Smithfield     | 1         | 0.77%   |
+| Si Racha       | 1         | 0.77%   |
+| Seville        | 1         | 0.77%   |
+| Santiago       | 1         | 0.77%   |
+| Salt Lake City | 1         | 0.77%   |
+| Roebel         | 1         | 0.77%   |
+| Reno           | 1         | 0.77%   |
+| Quezon City    | 1         | 0.77%   |
+| Queens         | 1         | 0.77%   |
+| Purdon         | 1         | 0.77%   |
+| Potts Camp     | 1         | 0.77%   |
+| Portsmouth     | 1         | 0.77%   |
+| Porto Uniao    | 1         | 0.77%   |
+| Pont-y-clun    | 1         | 0.77%   |
+| Phoenix        | 1         | 0.77%   |
+| Perth          | 1         | 0.77%   |
+| Orem           | 1         | 0.77%   |
+| Novosibirsk    | 1         | 0.77%   |
+| North Bay      | 1         | 0.77%   |
+| Nijmegen       | 1         | 0.77%   |
+| Newport News   | 1         | 0.77%   |
+| Newcastle      | 1         | 0.77%   |
+| New Orleans    | 1         | 0.77%   |
+| New Delhi      | 1         | 0.77%   |
+| Mogi Mirim     | 1         | 0.77%   |
+| Mexico City    | 1         | 0.77%   |
+| Mascouche      | 1         | 0.77%   |
+| Madrid         | 1         | 0.77%   |
+| Littleton      | 1         | 0.77%   |
+| Limeira        | 1         | 0.77%   |
 
 Drives
 ------
@@ -1261,7 +1254,7 @@ Hard drive models
 | WDC WD10EZEX-08WN4A0 1TB           | 2         | 0.93%   |
 | WDC WD1002FAEX-00Z3A0 1TB          | 2         | 0.93%   |
 | WDC WD1001FALS-403AA0 1TB          | 2         | 0.93%   |
-| Unknown SD/MMC/MS PRO 16GB         | 2         | 0.93%   |
+| Unknown SD/MMC/MS PRO 999GB        | 2         | 0.93%   |
 | Toshiba NVMe SSD Drive 512GB       | 2         | 0.93%   |
 | Toshiba DT01ACA100 1TB             | 2         | 0.93%   |
 | SK Hynix NVMe SSD Drive 256GB      | 2         | 0.93%   |
@@ -1324,15 +1317,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 34        | 39     | 38.64%  |
-| Seagate             | 27        | 35     | 30.68%  |
-| Toshiba             | 9         | 10     | 10.23%  |
-| Hitachi             | 7         | 7      | 7.95%   |
-| HGST                | 4         | 4      | 4.55%   |
-| Samsung Electronics | 3         | 3      | 3.41%   |
-| Unknown             | 2         | 2      | 2.27%   |
-| JMicron             | 1         | 1      | 1.14%   |
-| ASMT                | 1         | 1      | 1.14%   |
+| WDC                 | 34        | 39     | 39.08%  |
+| Seagate             | 27        | 35     | 31.03%  |
+| Toshiba             | 9         | 10     | 10.34%  |
+| Hitachi             | 7         | 7      | 8.05%   |
+| HGST                | 4         | 4      | 4.6%    |
+| Samsung Electronics | 3         | 3      | 3.45%   |
+| Unknown             | 2         | 2      | 2.3%    |
+| ASMT                | 1         | 1      | 1.15%   |
 
 SSD Vendor
 ----------
@@ -1344,26 +1336,27 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 19        | 22     | 30.65%  |
-| Kingston            | 8         | 9      | 12.9%   |
-| Crucial             | 7         | 8      | 11.29%  |
-| SanDisk             | 6         | 8      | 9.68%   |
-| WDC                 | 3         | 3      | 4.84%   |
-| ZOTAC               | 2         | 2      | 3.23%   |
-| Toshiba             | 2         | 2      | 3.23%   |
-| PNY                 | 2         | 2      | 3.23%   |
-| Patriot             | 2         | 2      | 3.23%   |
-| Transcend           | 1         | 1      | 1.61%   |
-| SPCC                | 1         | 2      | 1.61%   |
-| OCZ                 | 1         | 2      | 1.61%   |
-| LITEONIT            | 1         | 1      | 1.61%   |
-| KingSpec            | 1         | 1      | 1.61%   |
-| Hewlett-Packard     | 1         | 2      | 1.61%   |
-| Gigabyte Technology | 1         | 2      | 1.61%   |
-| Emtec               | 1         | 1      | 1.61%   |
-| DREVO               | 1         | 1      | 1.61%   |
-| AMD                 | 1         | 1      | 1.61%   |
-| A-DATA Technology   | 1         | 1      | 1.61%   |
+| Samsung Electronics | 19        | 22     | 30.16%  |
+| Kingston            | 8         | 9      | 12.7%   |
+| Crucial             | 7         | 8      | 11.11%  |
+| SanDisk             | 6         | 8      | 9.52%   |
+| WDC                 | 3         | 3      | 4.76%   |
+| ZOTAC               | 2         | 2      | 3.17%   |
+| Toshiba             | 2         | 2      | 3.17%   |
+| PNY                 | 2         | 2      | 3.17%   |
+| Patriot             | 2         | 2      | 3.17%   |
+| Transcend           | 1         | 1      | 1.59%   |
+| SPCC                | 1         | 2      | 1.59%   |
+| OCZ                 | 1         | 2      | 1.59%   |
+| LITEONIT            | 1         | 1      | 1.59%   |
+| KingSpec            | 1         | 1      | 1.59%   |
+| JMicron             | 1         | 1      | 1.59%   |
+| Hewlett-Packard     | 1         | 2      | 1.59%   |
+| Gigabyte Technology | 1         | 2      | 1.59%   |
+| Emtec               | 1         | 1      | 1.59%   |
+| DREVO               | 1         | 1      | 1.59%   |
+| AMD                 | 1         | 1      | 1.59%   |
+| A-DATA Technology   | 1         | 1      | 1.59%   |
 
 Drive Kind
 ----------
@@ -1375,8 +1368,8 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 71        | 102    | 41.76%  |
-| SSD     | 53        | 73     | 31.18%  |
+| HDD     | 71        | 101    | 41.76%  |
+| SSD     | 53        | 74     | 31.18%  |
 | NVMe    | 34        | 41     | 20%     |
 | MMC     | 7         | 10     | 4.12%   |
 | Unknown | 5         | 6      | 2.94%   |
@@ -1406,11 +1399,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 75        | 98     | 53.96%  |
-| 0.51-1.0   | 51        | 60     | 36.69%  |
-| 1.01-2.0   | 8         | 10     | 5.76%   |
-| 2.01-3.0   | 3         | 4      | 2.16%   |
-| 3.01-4.0   | 2         | 3      | 1.44%   |
+| 0.01-0.5   | 74        | 97     | 52.86%  |
+| 0.51-1.0   | 52        | 60     | 37.14%  |
+| 1.01-2.0   | 8         | 10     | 5.71%   |
+| 2.01-3.0   | 3         | 4      | 2.14%   |
+| 3.01-4.0   | 2         | 2      | 1.43%   |
+| 4.01-10.0  | 1         | 2      | 0.71%   |
 
 Space Total
 -----------
@@ -2003,9 +1997,9 @@ Free vs proprietary
 
 | Driver      | Computers | Percent |
 |-------------|-----------|---------|
-| Free        | 109       | 85.16%  |
-| Proprietary | 18        | 14.06%  |
-| Unknown     | 1         | 0.78%   |
+| Free        | 109       | 85.83%  |
+| Proprietary | 17        | 13.39%  |
+| Unknown     | 1         | 0.79%   |
 
 GPU Memory
 ----------
@@ -2085,7 +2079,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch          | 3         | 2.08%   |
 | AU Optronics LCD Monitor AUO723C 1366x768 309x173mm 13.9-inch            | 3         | 2.08%   |
 | Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch    | 2         | 1.39%   |
-| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                       | 2         | 1.39%   |
+| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                  | 2         | 1.39%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1592 1366x768 344x193mm 15.5-inch | 2         | 1.39%   |
 | BOE LCD Monitor BOE0685 1600x900 382x215mm 17.3-inch                     | 2         | 1.39%   |
 | Vizio E500i-A1 VIZ1004 1920x1080 1095x616mm 49.5-inch                    | 1         | 0.69%   |
@@ -2099,26 +2093,26 @@ Monitor models
 | Samsung Electronics SyncMaster SAM037B 1680x1050 474x296mm 22.0-inch     | 1         | 0.69%   |
 | Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch      | 1         | 0.69%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 0.69%   |
-| Samsung Electronics SMB1930N SAM0632 1360x768 410x230mm 18.5-inch        | 1         | 0.69%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch        | 1         | 0.69%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch    | 1         | 0.69%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch        | 1         | 0.69%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch        | 1         | 0.69%   |
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch        | 1         | 0.69%   |
 | Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch        | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 1         | 0.69%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch     | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor SEC3551 1366x768 344x194mm 15.5-inch     | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor SDC5744 1920x1080 344x194mm 15.5-inch    | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor SDC464C 1366x768 309x174mm 14.0-inch     | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1872x1053mm 84.6-inch  | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SAM094E 1920x1080 1210x680mm 54.6-inch   | 1         | 0.69%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 950x540mm 43.0-inch    | 1         | 0.69%   |
+| Samsung Electronics LCD Monitor SAM094E 1920x1080 890x500mm 40.2-inch    | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch    | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SAM07BA 1920x1080 1020x570mm 46.0-inch   | 1         | 0.69%   |
+| Samsung Electronics LCD Monitor SAM07BA 1920x1080 890x500mm 40.2-inch    | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor S24D300 1920x1080                        | 1         | 0.69%   |
 | Samsung Electronics LCD Monitor S22D300 1920x1080                        | 1         | 0.69%   |
 | Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch        | 1         | 0.69%   |
-| Philips PHL 276E8V PHLC18F 1920x1080 597x336mm 27.0-inch                 | 1         | 0.69%   |
-| Philips PHL 273V5 PHLC0D2 1920x1080 600x340mm 27.2-inch                  | 1         | 0.69%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch                 | 1         | 0.69%   |
+| Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch                  | 1         | 0.69%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                 | 1         | 0.69%   |
 | Philips LCD Monitor PHL 276E8V 7680x2160                                 | 1         | 0.69%   |
 | Philips LCD Monitor PHL 276E8V                                           | 1         | 0.69%   |
@@ -2128,15 +2122,15 @@ Monitor models
 | Medion LCD Monitor MEDB603 1920x1080 480x270mm 21.7-inch                 | 1         | 0.69%   |
 | LG Display LCD Monitor LGD05FF 1920x1080 344x194mm 15.5-inch             | 1         | 0.69%   |
 | LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch             | 1         | 0.69%   |
-| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch             | 1         | 0.69%   |
+| LG Display LCD Monitor LGD053F 1920x1080 340x190mm 15.3-inch             | 1         | 0.69%   |
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 0.69%   |
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 1         | 0.69%   |
 | LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 1         | 0.69%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 0.69%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 0.69%   |
 | LG Display LCD Monitor LGD027A 1600x900 382x215mm 17.3-inch              | 1         | 0.69%   |
-| LG Display LCD Monitor LGD0259 1920x1080 350x190mm 15.7-inch             | 1         | 0.69%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 0.69%   |
+| LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch             | 1         | 0.69%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                  | 1         | 0.69%   |
 | InfoVision LCD Monitor IVO0579 1366x768 310x170mm 13.9-inch              | 1         | 0.69%   |
 | Iiyama PL2493H IVM6148 1920x1080 527x296mm 23.8-inch                     | 1         | 0.69%   |
 | Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch             | 1         | 0.69%   |
@@ -2412,7 +2406,7 @@ Controller models
 | NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter    | 1         | 0.45%   |
 | Microsoft XBOX ACC                                                      | 1         | 0.45%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1         | 0.45%   |
-| Microsoft RTL8153 GigE [Surface Dock Ethernet]                          | 1         | 0.45%   |
+| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                       | 1         | 0.45%   |
 
 Wireless Vendor
 ---------------
@@ -2556,7 +2550,7 @@ Ethernet models
 | Qualcomm Atheros AR8131 Gigabit Ethernet                             | 1         | 0.85%   |
 | Nvidia MCP61 Ethernet                                                | 1         | 0.85%   |
 | NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter | 1         | 0.85%   |
-| Microsoft RTL8153 GigE [Surface Dock Ethernet]                       | 1         | 0.85%   |
+| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                    | 1         | 0.85%   |
 | Intel Ethernet Connection I217-V                                     | 1         | 0.85%   |
 | Intel Ethernet Connection (6) I219-V                                 | 1         | 0.85%   |
 | Intel Ethernet Connection (6) I219-LM                                | 1         | 0.85%   |
@@ -2595,8 +2589,8 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 100       | 53.19%  |
-| WiFi     | 88        | 46.81%  |
+| WiFi     | 64        | 50%     |
+| Ethernet | 64        | 50%     |
 
 NICs
 ----
@@ -2679,11 +2673,11 @@ Controller models
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 1.45%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 1.45%   |
 | Marvell Bluetooth and Wireless LAN Composite        | 1         | 1.45%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 1.45%   |
 | Lite-On Qualcomm Atheros Bluetooth                  | 1         | 1.45%   |
-| Lite-On Bluetooth Device                            | 1         | 1.45%   |
 | Lite-On BCM43142A0                                  | 1         | 1.45%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.45%   |
-| Intel Bluetooth Device                              | 1         | 1.45%   |
+| Intel AX201 Bluetooth                               | 1         | 1.45%   |
 | IMC Networks Bluetooth Radio                        | 1         | 1.45%   |
 | IMC Networks Bluetooth Module                       | 1         | 1.45%   |
 | IMC Networks Bluetooth Device                       | 1         | 1.45%   |
@@ -2832,20 +2826,20 @@ Memory module models
 
 | Model                                                          | Computers | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s           | 2         | 7.69%   |
+| Team RAM TEAMGROUP-SD4-2666 16384MB SODIMM DDR4 2667MT/s       | 2         | 7.69%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                   | 1         | 3.85%   |
 | Unknown RAM Module 2GB SODIMM 800MT/s                          | 1         | 3.85%   |
 | Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s          | 1         | 3.85%   |
-| SK Hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 3.85%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s      | 1         | 3.85%   |
+| SK Hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 1         | 3.85%   |
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s         | 1         | 3.85%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s          | 1         | 3.85%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 3.85%   |
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM SDRAM 1867MT/s           | 1         | 3.85%   |
 | Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s         | 1         | 3.85%   |
 | Samsung RAM K3QF3F30BM-AGCF 2GB Row Of Chips LPDDR3 1867MT/s   | 1         | 3.85%   |
 | Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM DDR3 1067MT/s        | 1         | 3.85%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8192MB SODIMM DDR4 3200MT/s        | 1         | 3.85%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s           | 1         | 3.85%   |
 | Micron RAM 4ATF11G64HZ-3G2E1 8192MB Row Of Chips DDR4 3200MT/s | 1         | 3.85%   |
 | Micron RAM 16ATF1G64AZ-2G1A2 8192MB DIMM DDR4 2400MT/s         | 1         | 3.85%   |
 | Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s           | 1         | 3.85%   |
@@ -2853,7 +2847,7 @@ Memory module models
 | Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s          | 1         | 3.85%   |
 | Kingston RAM 99P5471-001.A00LF 2GB DIMM DDR3 1333MT/s          | 1         | 3.85%   |
 | Kingston RAM 9905584-023.A00LF 4GB DIMM DDR3 1600MT/s          | 1         | 3.85%   |
-| G.Skill RAM F4-3600C16-8GVKC 8GB DIMM DDR4 3600MT/s            | 1         | 3.85%   |
+| G.Skill RAM F4-3600C16-8GVKC 8192MB DIMM DDR4 3600MT/s         | 1         | 3.85%   |
 | Crucial RAM BLT4G3D1869DT 4096MB DIMM DDR3 1333MT/s            | 1         | 3.85%   |
 | Crucial RAM BL16G36C16U4W.M16FE1 16GB DIMM DDR4 3733MT/s       | 1         | 3.85%   |
 | Corsair RAM CMK64GX4M2D3000C16 32GB DIMM DDR4 3000MT/s         | 1         | 3.85%   |
@@ -3028,8 +3022,9 @@ Camera device models
 | Microdia Laptop_Integrated_Webcam_HD                                       | 2         | 2.82%   |
 | Microdia Integrated_Webcam_HD                                              | 2         | 2.82%   |
 | IMC Networks Integrated Camera                                             | 2         | 2.82%   |
-| Generalplus 808 Camera #9 (web-cam mode)                                   | 2         | 2.82%   |
+| Generalplus 808 Camera                                                     | 2         | 2.82%   |
 | Chicony Integrated HP HD Webcam                                            | 2         | 2.82%   |
+| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 2         | 2.82%   |
 | Acer Lenovo EasyCamera                                                     | 2         | 2.82%   |
 | Syntek Lenovo EasyCamera                                                   | 1         | 1.41%   |
 | Suyin Sony Visual Communication Camera                                     | 1         | 1.41%   |
@@ -3066,9 +3061,7 @@ Camera device models
 | Chicony Lenovo EasyCamera                                                  | 1         | 1.41%   |
 | Chicony Integrated Camera (1280x720@30)                                    | 1         | 1.41%   |
 | Chicony HD WebCam (Acer)                                                   | 1         | 1.41%   |
-| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD integrated webcam | 1         | 1.41%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD                    | 1         | 1.41%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 1.41%   |
 | Alcor Micro USB 2.0 PC Camera                                              | 1         | 1.41%   |
 | Alcor Micro HP Webcam-101                                                  | 1         | 1.41%   |
 | Acer HD Webcam                                                             | 1         | 1.41%   |
@@ -3150,8 +3143,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 92        | 73.02%  |
-| 1     | 29        | 23.02%  |
-| 2     | 5         | 3.97%   |
+| 1     | 28        | 22.22%  |
+| 2     | 6         | 4.76%   |
 
 Unsupported Device Types
 ------------------------

@@ -1,8 +1,20 @@
-Pop!_OS 20.04 - Test Cases
---------------------------
+Pop!_OS 20.04 - Test Cases (Notebooks)
+--------------------------------------
+
+Total: 1607
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| System76      | Galago Pro                  | [3baddb9faa](https://linux-hardware.org/?probe=3baddb9faa) | May 26, 2022 |
+| Dell          | Inspiron 7501               | [81f3b14e0a](https://linux-hardware.org/?probe=81f3b14e0a) | May 25, 2022 |
+| Intel Clie... | LAPKC71F                    | [1f67896c5c](https://linux-hardware.org/?probe=1f67896c5c) | May 22, 2022 |
+| MSI           | Katana GF76 12UGS           | [06cb917381](https://linux-hardware.org/?probe=06cb917381) | May 22, 2022 |
+| MSI           | Katana GF76 12UGS           | [22776216d6](https://linux-hardware.org/?probe=22776216d6) | May 22, 2022 |
+| MSI           | Katana GF76 12UGS           | [cd50fa44c3](https://linux-hardware.org/?probe=cd50fa44c3) | May 21, 2022 |
+| MSI           | Katana GF76 12UGS           | [556940f73e](https://linux-hardware.org/?probe=556940f73e) | May 21, 2022 |
+| MSI           | Katana GF76 12UGS           | [fbea498a36](https://linux-hardware.org/?probe=fbea498a36) | May 21, 2022 |
+| Intel Clie... | LAPKC71F                    | [a227af798c](https://linux-hardware.org/?probe=a227af798c) | May 20, 2022 |
+| Samsung       | 550XCJ/550XCR               | [2dd9e88806](https://linux-hardware.org/?probe=2dd9e88806) | May 11, 2022 |
 | Acer          | Aspire A315-41              | [a42b1cda2c](https://linux-hardware.org/?probe=a42b1cda2c) | Apr 26, 2022 |
 | ASUSTek       | TUF Gaming FX705DT_FX705... | [329905cab9](https://linux-hardware.org/?probe=329905cab9) | Apr 21, 2022 |
 | Acer          | Aspire A315-42G             | [3654d1f0fa](https://linux-hardware.org/?probe=3654d1f0fa) | Apr 19, 2022 |
@@ -10,7 +22,6 @@ Pop!_OS 20.04 - Test Cases
 | HP            | 15 Notebook PC              | [e1d2871cd8](https://linux-hardware.org/?probe=e1d2871cd8) | Apr 18, 2022 |
 | HP            | Laptop 14s-dk0xxx           | [ef76ce862d](https://linux-hardware.org/?probe=ef76ce862d) | Apr 14, 2022 |
 | Lenovo        | IdeaPad S145-15IWL 81S9     | [3752ecab33](https://linux-hardware.org/?probe=3752ecab33) | Apr 14, 2022 |
-| Lenovo        | IdeaPad S145-15IWL 81S9     | [a8061e68ff](https://linux-hardware.org/?probe=a8061e68ff) | Apr 14, 2022 |
 | Lenovo        | IdeaPad S145-15IWL 81S9     | [297454c537](https://linux-hardware.org/?probe=297454c537) | Apr 07, 2022 |
 | HP            | ZBook 15 G6                 | [d98ca9a688](https://linux-hardware.org/?probe=d98ca9a688) | Apr 07, 2022 |
 | Acer          | Aspire E5-576               | [520cbf0afa](https://linux-hardware.org/?probe=520cbf0afa) | Apr 06, 2022 |
@@ -93,7 +104,6 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Inspiron 5547               | [6b6f86a9f7](https://linux-hardware.org/?probe=6b6f86a9f7) | Dec 10, 2021 |
 | Acer          | Aspire A514-53              | [eb51cb66cb](https://linux-hardware.org/?probe=eb51cb66cb) | Dec 10, 2021 |
 | Razer         | Blade 14 - RZ09-0370        | [01cddd0145](https://linux-hardware.org/?probe=01cddd0145) | Dec 10, 2021 |
-| OEM           | I38II                       | [b4db17dc1d](https://linux-hardware.org/?probe=b4db17dc1d) | Dec 10, 2021 |
 | Acer          | Aspire A514-53              | [90975ac5a8](https://linux-hardware.org/?probe=90975ac5a8) | Dec 09, 2021 |
 | Acer          | Aspire A315-42              | [c5d73b2d3a](https://linux-hardware.org/?probe=c5d73b2d3a) | Dec 07, 2021 |
 | Lenovo        | IdeaPad Gaming 3 15ARH05... | [ee7ae7b860](https://linux-hardware.org/?probe=ee7ae7b860) | Dec 06, 2021 |
@@ -105,7 +115,6 @@ Pop!_OS 20.04 - Test Cases
 | Apple         | MacBookPro4,1               | [aa8c361e26](https://linux-hardware.org/?probe=aa8c361e26) | Dec 02, 2021 |
 | GPU Compan... | GWTN156-1                   | [0f7052d7f4](https://linux-hardware.org/?probe=0f7052d7f4) | Dec 01, 2021 |
 | Lenovo        | ThinkPad E15 Gen 3 20YHS... | [89b56db565](https://linux-hardware.org/?probe=89b56db565) | Dec 01, 2021 |
-| GPU Compan... | GWTN156-1                   | [5aace6ef30](https://linux-hardware.org/?probe=5aace6ef30) | Nov 28, 2021 |
 | GPU Compan... | GWTN156-1                   | [450b474fd7](https://linux-hardware.org/?probe=450b474fd7) | Nov 27, 2021 |
 | HP            | ProBook 6460b               | [a072a6246d](https://linux-hardware.org/?probe=a072a6246d) | Nov 25, 2021 |
 | LG Electro... | S425-L.BC24P1               | [6d6d4fca9b](https://linux-hardware.org/?probe=6d6d4fca9b) | Nov 24, 2021 |
@@ -141,7 +150,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | IdeaPad S145-15IIL 82DJ     | [4b98da95b0](https://linux-hardware.org/?probe=4b98da95b0) | Nov 06, 2021 |
 | Lenovo        | ThinkPad E14 Gen 3 20Y7C... | [28363f1eea](https://linux-hardware.org/?probe=28363f1eea) | Nov 05, 2021 |
 | Dell          | Inspiron 5547               | [6ebd71080f](https://linux-hardware.org/?probe=6ebd71080f) | Nov 04, 2021 |
-| Dell          | Inspiron 5547               | [df08a534fa](https://linux-hardware.org/?probe=df08a534fa) | Nov 04, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X513... | [bd5646426b](https://linux-hardware.org/?probe=bd5646426b) | Nov 03, 2021 |
 | Dell          | Vostro 3560                 | [cc1347a298](https://linux-hardware.org/?probe=cc1347a298) | Nov 03, 2021 |
 | Acer          | Aspire V3-771               | [98a6324a75](https://linux-hardware.org/?probe=98a6324a75) | Nov 01, 2021 |
@@ -164,14 +172,12 @@ Pop!_OS 20.04 - Test Cases
 | HP            | Pavilion dv2000 (RP408UA... | [31a42ed2b6](https://linux-hardware.org/?probe=31a42ed2b6) | Oct 12, 2021 |
 | ASUSTek       | ROG Zephyrus GX550LWS_GX... | [1952252a77](https://linux-hardware.org/?probe=1952252a77) | Oct 12, 2021 |
 | ASUSTek       | G752VY                      | [635126af58](https://linux-hardware.org/?probe=635126af58) | Oct 09, 2021 |
-| ASUSTek       | TUF GAMING FX504GM_FX80G... | [d4b69cd83e](https://linux-hardware.org/?probe=d4b69cd83e) | Oct 05, 2021 |
-| ASUSTek       | TUF GAMING FX504GM_FX80G... | [d8d3dbe4a2](https://linux-hardware.org/?probe=d8d3dbe4a2) | Oct 05, 2021 |
+| ASUSTek       | TUF Gaming FX504GM_FX80G... | [d4b69cd83e](https://linux-hardware.org/?probe=d4b69cd83e) | Oct 05, 2021 |
+| ASUSTek       | TUF Gaming FX504GM_FX80G... | [d8d3dbe4a2](https://linux-hardware.org/?probe=d8d3dbe4a2) | Oct 05, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [97be3fb7f0](https://linux-hardware.org/?probe=97be3fb7f0) | Oct 05, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [84ac45681c](https://linux-hardware.org/?probe=84ac45681c) | Oct 05, 2021 |
 | ASUSTek       | X450LD                      | [1fb155805b](https://linux-hardware.org/?probe=1fb155805b) | Oct 01, 2021 |
 | Dell          | Inspiron 7520               | [2968458879](https://linux-hardware.org/?probe=2968458879) | Oct 01, 2021 |
-| Dell          | Inspiron 7520               | [964476869c](https://linux-hardware.org/?probe=964476869c) | Sep 30, 2021 |
-| Dell          | Inspiron 7520               | [2fe59d03eb](https://linux-hardware.org/?probe=2fe59d03eb) | Sep 30, 2021 |
 | Acer          | Aspire VX5-591G             | [949ac66eff](https://linux-hardware.org/?probe=949ac66eff) | Sep 29, 2021 |
 | Lenovo        | G510 20238                  | [1df80706d4](https://linux-hardware.org/?probe=1df80706d4) | Sep 27, 2021 |
 | MSI           | GS73 Stealth 8RF            | [c5e6cd2079](https://linux-hardware.org/?probe=c5e6cd2079) | Sep 22, 2021 |
@@ -225,11 +231,9 @@ Pop!_OS 20.04 - Test Cases
 | Acer          | Aspire A315-41G             | [24a1d5180b](https://linux-hardware.org/?probe=24a1d5180b) | Aug 02, 2021 |
 | Dell          | Inspiron 5458               | [bd589490df](https://linux-hardware.org/?probe=bd589490df) | Jul 31, 2021 |
 | Acer          | Nitro AN515-55              | [43b20b25c7](https://linux-hardware.org/?probe=43b20b25c7) | Jul 29, 2021 |
-| Acer          | Nitro AN515-55              | [40bb3424a8](https://linux-hardware.org/?probe=40bb3424a8) | Jul 29, 2021 |
 | Acer          | Aspire E5-574               | [cfe7be64c7](https://linux-hardware.org/?probe=cfe7be64c7) | Jul 29, 2021 |
 | Lenovo        | ThinkPad T410 2537CJ0       | [3722a27c42](https://linux-hardware.org/?probe=3722a27c42) | Jul 28, 2021 |
 | ASUSTek       | TUF Gaming FX505DT_FX505... | [ab4d5dfa6d](https://linux-hardware.org/?probe=ab4d5dfa6d) | Jul 28, 2021 |
-| Acer          | Nitro AN515-55              | [6355762450](https://linux-hardware.org/?probe=6355762450) | Jul 28, 2021 |
 | Acer          | Nitro AN515-55              | [d83b05ee2d](https://linux-hardware.org/?probe=d83b05ee2d) | Jul 28, 2021 |
 | ASUSTek       | TUF Gaming FX505DT_FX505... | [e184c22f47](https://linux-hardware.org/?probe=e184c22f47) | Jul 27, 2021 |
 | ASUSTek       | X556UQ                      | [9dee8d2c07](https://linux-hardware.org/?probe=9dee8d2c07) | Jul 27, 2021 |
@@ -244,7 +248,6 @@ Pop!_OS 20.04 - Test Cases
 | System76      | Serval                      | [2e4269e982](https://linux-hardware.org/?probe=2e4269e982) | Jul 16, 2021 |
 | System76      | Serval                      | [fb256b3e71](https://linux-hardware.org/?probe=fb256b3e71) | Jul 16, 2021 |
 | Lenovo        | IdeaPad S145-15IWL 81S9     | [d3a3591561](https://linux-hardware.org/?probe=d3a3591561) | Jul 14, 2021 |
-| Lenovo        | IdeaPad S145-15IWL 81S9     | [f4d511f3fa](https://linux-hardware.org/?probe=f4d511f3fa) | Jul 14, 2021 |
 | Dell          | Precision 7540              | [813d72e9ad](https://linux-hardware.org/?probe=813d72e9ad) | Jul 12, 2021 |
 | HP            | EliteBook 8570p             | [eb056b143b](https://linux-hardware.org/?probe=eb056b143b) | Jul 09, 2021 |
 | HP            | Pavilion Laptop 14-ce0xx... | [3dab621700](https://linux-hardware.org/?probe=3dab621700) | Jul 09, 2021 |
@@ -253,7 +256,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | IdeaPad S340-15IWL 81N8     | [8fad40cd01](https://linux-hardware.org/?probe=8fad40cd01) | Jul 06, 2021 |
 | Lenovo        | IdeaPad L340-15IRH Gamin... | [88c9ccda6d](https://linux-hardware.org/?probe=88c9ccda6d) | Jul 02, 2021 |
 | Lenovo        | ThinkBook 14-IML 20RV       | [93cf61716d](https://linux-hardware.org/?probe=93cf61716d) | Jul 02, 2021 |
-| Dell          | Inspiron 5547               | [8065b0496a](https://linux-hardware.org/?probe=8065b0496a) | Jul 02, 2021 |
 | Dell          | Inspiron 5547               | [f866d3b521](https://linux-hardware.org/?probe=f866d3b521) | Jul 02, 2021 |
 | Dell          | Precision 7540              | [973fc83d1d](https://linux-hardware.org/?probe=973fc83d1d) | Jul 02, 2021 |
 | Dell          | Latitude 5580               | [2167c4a9ac](https://linux-hardware.org/?probe=2167c4a9ac) | Jul 02, 2021 |
@@ -274,7 +276,6 @@ Pop!_OS 20.04 - Test Cases
 | HP            | EliteBook 820 G1            | [b64bd1afcd](https://linux-hardware.org/?probe=b64bd1afcd) | Jun 17, 2021 |
 | Chuwi         | GemiBook Pro                | [03f12de5a1](https://linux-hardware.org/?probe=03f12de5a1) | Jun 17, 2021 |
 | Fujitsu       | LIFEBOOK E782               | [be2a32c3f5](https://linux-hardware.org/?probe=be2a32c3f5) | Jun 14, 2021 |
-| Fujitsu       | LIFEBOOK E782               | [aa955794f7](https://linux-hardware.org/?probe=aa955794f7) | Jun 14, 2021 |
 | Positivo B... | VJC141F11X-B0111L           | [116a3f8f3e](https://linux-hardware.org/?probe=116a3f8f3e) | Jun 13, 2021 |
 | Chuwi         | GemiBook Pro                | [7a4b730903](https://linux-hardware.org/?probe=7a4b730903) | Jun 13, 2021 |
 | Lenovo        | IdeaPad S145-15IIL 82DJ     | [51991fb796](https://linux-hardware.org/?probe=51991fb796) | Jun 13, 2021 |
@@ -308,24 +309,19 @@ Pop!_OS 20.04 - Test Cases
 | HP            | Stream Notebook PC 11       | [cc7f828773](https://linux-hardware.org/?probe=cc7f828773) | May 16, 2021 |
 | Metabox       | Alpha-X NH58RHQ             | [bae61addd8](https://linux-hardware.org/?probe=bae61addd8) | May 16, 2021 |
 | Dell          | Inspiron 5448               | [6b49f5eb63](https://linux-hardware.org/?probe=6b49f5eb63) | May 15, 2021 |
-| HP            | Stream Notebook PC 11       | [01670ea99c](https://linux-hardware.org/?probe=01670ea99c) | May 13, 2021 |
 | ASUSTek       | G750JX                      | [77c3bbc977](https://linux-hardware.org/?probe=77c3bbc977) | May 13, 2021 |
-| Dell          | Inspiron 5448               | [c023a99051](https://linux-hardware.org/?probe=c023a99051) | May 12, 2021 |
 | Dell          | Inspiron 5448               | [a29c60aea5](https://linux-hardware.org/?probe=a29c60aea5) | May 12, 2021 |
 | ASUSTek       | G750JX                      | [c0a4c5f12c](https://linux-hardware.org/?probe=c0a4c5f12c) | May 12, 2021 |
 | Acer          | Aspire E5-573G              | [bf96a7d90d](https://linux-hardware.org/?probe=bf96a7d90d) | May 12, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 4th 2... | [4069c09cec](https://linux-hardware.org/?probe=4069c09cec) | May 11, 2021 |
 | Lenovo        | ThinkPad T420 4236RM8       | [11fdc99047](https://linux-hardware.org/?probe=11fdc99047) | May 11, 2021 |
 | Acer          | Aspire A715-75G             | [dd8dec2a48](https://linux-hardware.org/?probe=dd8dec2a48) | May 10, 2021 |
-| Acer          | Aspire A715-75G             | [96839adfaf](https://linux-hardware.org/?probe=96839adfaf) | May 10, 2021 |
 | Lenovo        | IdeaPad 330S-15ARR 81FB     | [cbe08b6f59](https://linux-hardware.org/?probe=cbe08b6f59) | May 09, 2021 |
 | Lenovo        | IdeaPad 330S-15ARR 81FB     | [b2e6deb92e](https://linux-hardware.org/?probe=b2e6deb92e) | May 09, 2021 |
-| Acer          | Swift SF314-42              | [1750d3294c](https://linux-hardware.org/?probe=1750d3294c) | May 08, 2021 |
 | Acer          | Swift SF314-42              | [64a0369220](https://linux-hardware.org/?probe=64a0369220) | May 08, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X412... | [9a69a064a2](https://linux-hardware.org/?probe=9a69a064a2) | May 08, 2021 |
 | Dell          | Inspiron 7520               | [518dc99f15](https://linux-hardware.org/?probe=518dc99f15) | May 07, 2021 |
 | HP            | Stream Notebook PC 11       | [849a411cd3](https://linux-hardware.org/?probe=849a411cd3) | May 04, 2021 |
-| Acer          | Swift SF314-42              | [1fe5325c5e](https://linux-hardware.org/?probe=1fe5325c5e) | May 04, 2021 |
 | Acer          | Swift SF314-42              | [afc6a20999](https://linux-hardware.org/?probe=afc6a20999) | May 04, 2021 |
 | Apple         | MacBookPro8,1               | [ad00f41e81](https://linux-hardware.org/?probe=ad00f41e81) | May 02, 2021 |
 | HP            | OMEN by Laptop 15-ce0xx     | [471a5fed37](https://linux-hardware.org/?probe=471a5fed37) | May 01, 2021 |
@@ -343,18 +339,15 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkPad X1 Carbon 4th 2... | [abaa41e2ff](https://linux-hardware.org/?probe=abaa41e2ff) | Apr 24, 2021 |
 | Lenovo        | IdeaPad S145-15IWL 81S9     | [c2e0fc28f8](https://linux-hardware.org/?probe=c2e0fc28f8) | Apr 23, 2021 |
 | Lenovo        | IdeaPad Gaming 3 15IMH05... | [b6bf66b28e](https://linux-hardware.org/?probe=b6bf66b28e) | Apr 23, 2021 |
-| Lenovo        | IdeaPad S145-15IWL 81S9     | [9866eb07e6](https://linux-hardware.org/?probe=9866eb07e6) | Apr 21, 2021 |
 | HUAWEI        | HLYL-WXX9                   | [985aae83e6](https://linux-hardware.org/?probe=985aae83e6) | Apr 20, 2021 |
 | Lenovo        | IdeaPad Gaming 3 15IMH05... | [d7a945866a](https://linux-hardware.org/?probe=d7a945866a) | Apr 20, 2021 |
 | Samsung       | 800G5M/800G5W               | [536f1dd4fe](https://linux-hardware.org/?probe=536f1dd4fe) | Apr 20, 2021 |
 | Schenker      | XMG CORE 17(M20, RTX 206... | [578a5e5b7b](https://linux-hardware.org/?probe=578a5e5b7b) | Apr 18, 2021 |
 | Lenovo        | ThinkPad T470p 20J6S08M0... | [84619b1b45](https://linux-hardware.org/?probe=84619b1b45) | Apr 15, 2021 |
 | Lenovo        | ThinkPad T470p 20J6S08M0... | [c07c58ac04](https://linux-hardware.org/?probe=c07c58ac04) | Apr 14, 2021 |
-| Lenovo        | IdeaPad S145-15IWL 81S9     | [5af507f808](https://linux-hardware.org/?probe=5af507f808) | Apr 14, 2021 |
 | Lenovo        | ThinkPad L14 Gen 1 20U1S... | [6f2efbb083](https://linux-hardware.org/?probe=6f2efbb083) | Apr 10, 2021 |
 | TrekStor      | Notebook Slim S130          | [15a723bc0a](https://linux-hardware.org/?probe=15a723bc0a) | Apr 10, 2021 |
 | HP            | Notebook                    | [023066c915](https://linux-hardware.org/?probe=023066c915) | Apr 08, 2021 |
-| Lenovo        | IdeaPad S145-15IWL 81S9     | [2d750934a8](https://linux-hardware.org/?probe=2d750934a8) | Apr 08, 2021 |
 | HP            | EliteBook 8760w             | [59247a25b1](https://linux-hardware.org/?probe=59247a25b1) | Apr 07, 2021 |
 | HP            | Laptop 15-bw0xx             | [44efde8890](https://linux-hardware.org/?probe=44efde8890) | Apr 05, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X421... | [cfc34dded2](https://linux-hardware.org/?probe=cfc34dded2) | Apr 04, 2021 |
@@ -384,11 +377,9 @@ Pop!_OS 20.04 - Test Cases
 | ASUSTek       | VivoBook_ASUSLaptop X509... | [843d061b78](https://linux-hardware.org/?probe=843d061b78) | Mar 15, 2021 |
 | Notebook      | N15_N17RD1                  | [b2c84b45f4](https://linux-hardware.org/?probe=b2c84b45f4) | Mar 14, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X509... | [44775f7ea2](https://linux-hardware.org/?probe=44775f7ea2) | Mar 12, 2021 |
-| Lenovo        | IdeaPad S145-15IWL 81S9     | [ffc7ae6ab6](https://linux-hardware.org/?probe=ffc7ae6ab6) | Mar 12, 2021 |
 | Dell          | XPS 15 9500                 | [521e325e64](https://linux-hardware.org/?probe=521e325e64) | Mar 11, 2021 |
 | Lenovo        | ThinkPad T495 20NKS01Y00    | [7a53a5be48](https://linux-hardware.org/?probe=7a53a5be48) | Mar 10, 2021 |
 | Alienware     | 17 R3                       | [8582334b5a](https://linux-hardware.org/?probe=8582334b5a) | Mar 10, 2021 |
-| Dell          | Inspiron 5547               | [9e4ab22f07](https://linux-hardware.org/?probe=9e4ab22f07) | Mar 09, 2021 |
 | OEM           | KabyLake                    | [86a8483829](https://linux-hardware.org/?probe=86a8483829) | Mar 09, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [9be60c8533](https://linux-hardware.org/?probe=9be60c8533) | Mar 08, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [23bd18b9d8](https://linux-hardware.org/?probe=23bd18b9d8) | Mar 08, 2021 |
@@ -399,7 +390,6 @@ Pop!_OS 20.04 - Test Cases
 | HP            | Pavilion 15                 | [7e1e525192](https://linux-hardware.org/?probe=7e1e525192) | Mar 05, 2021 |
 | Toshiba       | Satellite Pro L450          | [55e86ceaf1](https://linux-hardware.org/?probe=55e86ceaf1) | Mar 05, 2021 |
 | Lenovo        | ThinkPad E14 Gen 2 20T6S... | [6c0ed116b0](https://linux-hardware.org/?probe=6c0ed116b0) | Mar 05, 2021 |
-| Lenovo        | ThinkPad E14 Gen 2 20T6S... | [713d3ef071](https://linux-hardware.org/?probe=713d3ef071) | Mar 05, 2021 |
 | Dell          | XPS 15 9500                 | [3881b9e1d1](https://linux-hardware.org/?probe=3881b9e1d1) | Mar 05, 2021 |
 | Lenovo        | IdeaPad 3 15IIL05 81WE      | [aec063421c](https://linux-hardware.org/?probe=aec063421c) | Mar 03, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X509... | [ae525665fb](https://linux-hardware.org/?probe=ae525665fb) | Mar 02, 2021 |
@@ -470,7 +460,6 @@ Pop!_OS 20.04 - Test Cases
 | ASUSTek       | UX430UQ                     | [1a9db6c76f](https://linux-hardware.org/?probe=1a9db6c76f) | Jan 13, 2021 |
 | Apple         | MacBook4,1                  | [85de5b93e7](https://linux-hardware.org/?probe=85de5b93e7) | Jan 12, 2021 |
 | HP            | ProBook 6565b               | [517e898344](https://linux-hardware.org/?probe=517e898344) | Jan 12, 2021 |
-| HP            | ProBook 6565b               | [3a95dfc151](https://linux-hardware.org/?probe=3a95dfc151) | Jan 12, 2021 |
 | Lenovo        | IdeaPad 310-14ISK 80SL      | [88b12593bc](https://linux-hardware.org/?probe=88b12593bc) | Jan 11, 2021 |
 | ASUSTek       | UX430UQ                     | [2f305a3671](https://linux-hardware.org/?probe=2f305a3671) | Jan 10, 2021 |
 | Acer          | Aspire V5-572               | [074b13aec5](https://linux-hardware.org/?probe=074b13aec5) | Jan 10, 2021 |
@@ -508,7 +497,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | IdeaPad S145-15IWL 81S9     | [7cc383ff7c](https://linux-hardware.org/?probe=7cc383ff7c) | Dec 22, 2020 |
 | Dell          | XPS M1330                   | [2a99154233](https://linux-hardware.org/?probe=2a99154233) | Dec 22, 2020 |
 | Lenovo        | IdeaPad 320-15IKB 81BG      | [1cfdffe4cb](https://linux-hardware.org/?probe=1cfdffe4cb) | Dec 22, 2020 |
-| ASUSTek       | VivoBook_ASUSLaptop X509... | [6049f1e627](https://linux-hardware.org/?probe=6049f1e627) | Dec 19, 2020 |
 | HP            | Pavilion Laptop 15-cw1xx... | [f16d7154b8](https://linux-hardware.org/?probe=f16d7154b8) | Dec 18, 2020 |
 | Quanta        | TW8/SW8/DW8                 | [705e766496](https://linux-hardware.org/?probe=705e766496) | Dec 18, 2020 |
 | Quanta        | TW8/SW8/DW8                 | [5501a16739](https://linux-hardware.org/?probe=5501a16739) | Dec 18, 2020 |
@@ -537,9 +525,7 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | XPS 15 7590                 | [248f58d6a3](https://linux-hardware.org/?probe=248f58d6a3) | Dec 07, 2020 |
 | Lenovo        | Legion Y540-15IRH 81RJ      | [0983a29d84](https://linux-hardware.org/?probe=0983a29d84) | Dec 07, 2020 |
 | Acer          | Predator PH315-52           | [1627e0acb7](https://linux-hardware.org/?probe=1627e0acb7) | Dec 06, 2020 |
-| Dell          | Inspiron 5547               | [1d3d2f0607](https://linux-hardware.org/?probe=1d3d2f0607) | Dec 06, 2020 |
 | Notebook      | N9x0TD_TF                   | [be9594f20f](https://linux-hardware.org/?probe=be9594f20f) | Dec 04, 2020 |
-| Dell          | Inspiron 3584               | [b31606e560](https://linux-hardware.org/?probe=b31606e560) | Dec 04, 2020 |
 | Unknown       | Unknown                     | [ab5ced8995](https://linux-hardware.org/?probe=ab5ced8995) | Dec 04, 2020 |
 | Lenovo        | IdeaPad L340-17API 81LY     | [9cb2994e8d](https://linux-hardware.org/?probe=9cb2994e8d) | Dec 04, 2020 |
 | HP            | Compaq nc8430 (RB554UT#A... | [e44d774552](https://linux-hardware.org/?probe=e44d774552) | Dec 02, 2020 |
@@ -558,7 +544,6 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Inspiron 3584               | [4ac487b0fb](https://linux-hardware.org/?probe=4ac487b0fb) | Nov 23, 2020 |
 | Acer          | Aspire E5-575G              | [f6118f99af](https://linux-hardware.org/?probe=f6118f99af) | Nov 22, 2020 |
 | Dell          | Venue 11 Pro 7140           | [6da1b122fb](https://linux-hardware.org/?probe=6da1b122fb) | Nov 19, 2020 |
-| Dell          | Inspiron 5547               | [c41f4a9cfc](https://linux-hardware.org/?probe=c41f4a9cfc) | Nov 18, 2020 |
 | Dell          | Inspiron 3542               | [6647cfca50](https://linux-hardware.org/?probe=6647cfca50) | Nov 18, 2020 |
 | Lenovo        | ThinkPad X140e 20BLS0090... | [cc1a7d7c14](https://linux-hardware.org/?probe=cc1a7d7c14) | Nov 16, 2020 |
 | Lenovo        | ThinkPad T495 20NKS01Y00    | [2c00041fd5](https://linux-hardware.org/?probe=2c00041fd5) | Nov 16, 2020 |
@@ -568,7 +553,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkPad E14 20RA001HFR     | [546956f1df](https://linux-hardware.org/?probe=546956f1df) | Nov 14, 2020 |
 | Dell          | Inspiron 7391               | [f848d16250](https://linux-hardware.org/?probe=f848d16250) | Nov 13, 2020 |
 | Packard Be... | ENNS44HR                    | [c7fa220dbe](https://linux-hardware.org/?probe=c7fa220dbe) | Nov 13, 2020 |
-| Dell          | Inspiron 5547               | [1bac5b6650](https://linux-hardware.org/?probe=1bac5b6650) | Nov 13, 2020 |
 | Lenovo        | IdeaPad S145-15IWL 81S9     | [58577195ed](https://linux-hardware.org/?probe=58577195ed) | Nov 12, 2020 |
 | Sony          | VGN-SZ71VN_X                | [17598c8706](https://linux-hardware.org/?probe=17598c8706) | Nov 10, 2020 |
 | ASUSTek       | X556UV                      | [0b3a9b5950](https://linux-hardware.org/?probe=0b3a9b5950) | Nov 09, 2020 |
@@ -585,7 +569,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | IdeaPad 320-15IKB 80XL      | [65b1afb8b7](https://linux-hardware.org/?probe=65b1afb8b7) | Nov 03, 2020 |
 | ASUSTek       | GL752VW                     | [15eb23300a](https://linux-hardware.org/?probe=15eb23300a) | Nov 01, 2020 |
 | Gigabyte      | AERO 15 WB                  | [1a70aca57b](https://linux-hardware.org/?probe=1a70aca57b) | Oct 31, 2020 |
-| Gigabyte      | AERO 15 WB                  | [9494f42edb](https://linux-hardware.org/?probe=9494f42edb) | Oct 31, 2020 |
 | Lenovo        | ThinkPad T480 20L5CTO1WW    | [979a25634e](https://linux-hardware.org/?probe=979a25634e) | Oct 31, 2020 |
 | MSI           | GP60 2PE                    | [ea487475af](https://linux-hardware.org/?probe=ea487475af) | Oct 31, 2020 |
 | Samsung       | 905S3G/906S3G/915S3G/930... | [ff79109f93](https://linux-hardware.org/?probe=ff79109f93) | Oct 31, 2020 |
@@ -637,7 +620,7 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkPad T420 4236WUL       | [fa50e94e7f](https://linux-hardware.org/?probe=fa50e94e7f) | Oct 18, 2020 |
 | Dell          | XPS 17 9700                 | [af5e192001](https://linux-hardware.org/?probe=af5e192001) | Oct 17, 2020 |
 | HUAWEI        | NBLK-WAX9X                  | [9e02d94bf0](https://linux-hardware.org/?probe=9e02d94bf0) | Oct 17, 2020 |
-| Dell          | XPS L502X                   | [dc6eea4b63](https://linux-hardware.org/?probe=dc6eea4b63) | Oct 17, 2020 |
+| Dell          | System XPS L502X            | [dc6eea4b63](https://linux-hardware.org/?probe=dc6eea4b63) | Oct 17, 2020 |
 | Dell          | Latitude E7440              | [ce626be790](https://linux-hardware.org/?probe=ce626be790) | Oct 16, 2020 |
 | Acer          | Aspire S3-391               | [767c396a75](https://linux-hardware.org/?probe=767c396a75) | Oct 16, 2020 |
 | HP            | Pavilion Laptop 15-cw1xx... | [f8dbd9482f](https://linux-hardware.org/?probe=f8dbd9482f) | Oct 15, 2020 |
@@ -649,17 +632,12 @@ Pop!_OS 20.04 - Test Cases
 | Acer          | Aspire A715-75G             | [8eaca6c79e](https://linux-hardware.org/?probe=8eaca6c79e) | Oct 15, 2020 |
 | Acer          | Aspire E5-553G              | [ed0fa29dfd](https://linux-hardware.org/?probe=ed0fa29dfd) | Oct 15, 2020 |
 | Acer          | Aspire E5-553G              | [92e951940c](https://linux-hardware.org/?probe=92e951940c) | Oct 15, 2020 |
-| Apple         | MacBookAir9,1               | [5f91b6a8af](https://linux-hardware.org/?probe=5f91b6a8af) | Oct 13, 2020 |
 | Quanta        | TWS                         | [74d65e3098](https://linux-hardware.org/?probe=74d65e3098) | Oct 13, 2020 |
 | Samsung       | 940Z5L                      | [11b34667af](https://linux-hardware.org/?probe=11b34667af) | Oct 13, 2020 |
 | PC Special... | NP50DE_DB                   | [ec15f2e63f](https://linux-hardware.org/?probe=ec15f2e63f) | Oct 13, 2020 |
 | Dell          | Latitude E6410              | [19dec796e2](https://linux-hardware.org/?probe=19dec796e2) | Oct 13, 2020 |
 | Apple         | MacBookPro11,1              | [0ade7e336f](https://linux-hardware.org/?probe=0ade7e336f) | Oct 12, 2020 |
-| Apple         | MacBookAir9,1               | [19a23f3656](https://linux-hardware.org/?probe=19a23f3656) | Oct 12, 2020 |
 | Toshiba       | Satellite P50-C             | [5a416fb424](https://linux-hardware.org/?probe=5a416fb424) | Oct 12, 2020 |
-| Dell          | Latitude E5520              | [321fa545e9](https://linux-hardware.org/?probe=321fa545e9) | Oct 12, 2020 |
-| Dell          | Latitude E5520              | [b7c97062d4](https://linux-hardware.org/?probe=b7c97062d4) | Oct 12, 2020 |
-| Apple         | MacBookAir9,1               | [d38a1c5760](https://linux-hardware.org/?probe=d38a1c5760) | Oct 11, 2020 |
 | Apple         | MacBookAir9,1               | [132912b6d5](https://linux-hardware.org/?probe=132912b6d5) | Oct 11, 2020 |
 | Acer          | Aspire 5750                 | [a6057ed9a7](https://linux-hardware.org/?probe=a6057ed9a7) | Oct 11, 2020 |
 | Lenovo        | ThinkPad T60 200748U        | [e02439022a](https://linux-hardware.org/?probe=e02439022a) | Oct 10, 2020 |
@@ -686,7 +664,6 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Precision 3520              | [d4cf6d5d26](https://linux-hardware.org/?probe=d4cf6d5d26) | Oct 07, 2020 |
 | Apple         | MacBookPro7,1               | [f65057589c](https://linux-hardware.org/?probe=f65057589c) | Oct 07, 2020 |
 | System76      | Darter Pro                  | [208797dc88](https://linux-hardware.org/?probe=208797dc88) | Oct 07, 2020 |
-| Dell          | Latitude E7440              | [1eca123c3c](https://linux-hardware.org/?probe=1eca123c3c) | Oct 06, 2020 |
 | ASUSTek       | X442URR                     | [5e9f9ee314](https://linux-hardware.org/?probe=5e9f9ee314) | Oct 06, 2020 |
 | Acer          | Nitro AN517-51              | [84ac75c33f](https://linux-hardware.org/?probe=84ac75c33f) | Oct 06, 2020 |
 | ASUSTek       | N501JW                      | [f74674eb0e](https://linux-hardware.org/?probe=f74674eb0e) | Oct 06, 2020 |
@@ -769,7 +746,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkPad X1 Carbon 6th 2... | [238e8dadcc](https://linux-hardware.org/?probe=238e8dadcc) | Sep 27, 2020 |
 | Acer          | Aspire E5-773G              | [49ead9b95d](https://linux-hardware.org/?probe=49ead9b95d) | Sep 26, 2020 |
 | HP            | EliteBook 725 G2            | [6f184c4bc8](https://linux-hardware.org/?probe=6f184c4bc8) | Sep 26, 2020 |
-| HP            | EliteBook 725 G2            | [b46ffda49e](https://linux-hardware.org/?probe=b46ffda49e) | Sep 26, 2020 |
 | ASUSTek       | UX301LAA                    | [382cae10b1](https://linux-hardware.org/?probe=382cae10b1) | Sep 26, 2020 |
 | System76      | Darter Pro                  | [7862e0c6e7](https://linux-hardware.org/?probe=7862e0c6e7) | Sep 26, 2020 |
 | MSI           | GF63 Thin 9RCX              | [bfa89add58](https://linux-hardware.org/?probe=bfa89add58) | Sep 25, 2020 |
@@ -779,7 +755,6 @@ Pop!_OS 20.04 - Test Cases
 | HP            | EliteBook 8770w             | [bea7a9c504](https://linux-hardware.org/?probe=bea7a9c504) | Sep 25, 2020 |
 | ASUSTek       | UX301LAA                    | [22b97e3cdb](https://linux-hardware.org/?probe=22b97e3cdb) | Sep 25, 2020 |
 | HP            | Pavilion Gaming Laptop 1... | [b23c97aed7](https://linux-hardware.org/?probe=b23c97aed7) | Sep 25, 2020 |
-| ASUSTek       | G751JT                      | [08ccd18fd6](https://linux-hardware.org/?probe=08ccd18fd6) | Sep 24, 2020 |
 | Apple         | MacBook5,1                  | [fb2f9dd279](https://linux-hardware.org/?probe=fb2f9dd279) | Sep 24, 2020 |
 | Lenovo        | IdeaPad 330-15AST 81D6      | [e22e757c8c](https://linux-hardware.org/?probe=e22e757c8c) | Sep 23, 2020 |
 | Acer          | Swift SF314-55              | [222c0aa8f6](https://linux-hardware.org/?probe=222c0aa8f6) | Sep 23, 2020 |
@@ -828,12 +803,11 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Inspiron 7352               | [64e9531caa](https://linux-hardware.org/?probe=64e9531caa) | Sep 14, 2020 |
 | Lenovo        | ThinkPad T14s Gen 1 20UH... | [a1983f62b1](https://linux-hardware.org/?probe=a1983f62b1) | Sep 14, 2020 |
 | MSI           | GT63 Titan 8RG              | [9555951bf8](https://linux-hardware.org/?probe=9555951bf8) | Sep 14, 2020 |
-| HP            | OMEN by HP Laptop           | [1aca06c6ec](https://linux-hardware.org/?probe=1aca06c6ec) | Sep 14, 2020 |
+| HP            | OMEN by Laptop              | [1aca06c6ec](https://linux-hardware.org/?probe=1aca06c6ec) | Sep 14, 2020 |
 | HP            | ZBook 15 G2                 | [adb3d38645](https://linux-hardware.org/?probe=adb3d38645) | Sep 13, 2020 |
 | ASUSTek       | VivoBook_ASUSLaptop X530... | [614f49754a](https://linux-hardware.org/?probe=614f49754a) | Sep 13, 2020 |
 | Lenovo        | ThinkPad T460s 20FAS54D0... | [1906a25c9b](https://linux-hardware.org/?probe=1906a25c9b) | Sep 13, 2020 |
 | Dell          | Latitude E5520              | [17a8e877d3](https://linux-hardware.org/?probe=17a8e877d3) | Sep 13, 2020 |
-| Dell          | Latitude E5520              | [6a609059c1](https://linux-hardware.org/?probe=6a609059c1) | Sep 13, 2020 |
 | Lenovo        | ThinkPad T530 2392AQU       | [2d24a0cf83](https://linux-hardware.org/?probe=2d24a0cf83) | Sep 12, 2020 |
 | ASUSTek       | VivoBook_ASUSLaptop X545... | [1697990f38](https://linux-hardware.org/?probe=1697990f38) | Sep 12, 2020 |
 | Dell          | Latitude D620               | [d14cb277b7](https://linux-hardware.org/?probe=d14cb277b7) | Sep 12, 2020 |
@@ -875,7 +849,6 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | XPS M1530                   | [95bbc5463f](https://linux-hardware.org/?probe=95bbc5463f) | Sep 06, 2020 |
 | Lenovo        | IdeaPad S540-14API 81NH     | [d043bf1b42](https://linux-hardware.org/?probe=d043bf1b42) | Sep 06, 2020 |
 | Acer          | Extensa 215-51              | [7fc5ebdb6a](https://linux-hardware.org/?probe=7fc5ebdb6a) | Sep 06, 2020 |
-| HP            | ZBook 15 G2                 | [373c4f98ec](https://linux-hardware.org/?probe=373c4f98ec) | Sep 06, 2020 |
 | BANGHO        | MAX G0101                   | [636674d438](https://linux-hardware.org/?probe=636674d438) | Sep 06, 2020 |
 | Timi          | RedmiBook 16                | [a52786c26a](https://linux-hardware.org/?probe=a52786c26a) | Sep 05, 2020 |
 | Dell          | Inspiron 5480               | [98a76b0f6d](https://linux-hardware.org/?probe=98a76b0f6d) | Sep 05, 2020 |
@@ -916,27 +889,21 @@ Pop!_OS 20.04 - Test Cases
 | ASUSTek       | G56JK                       | [7446056e82](https://linux-hardware.org/?probe=7446056e82) | Sep 01, 2020 |
 | HP            | Pavilion g6                 | [ad8002e60e](https://linux-hardware.org/?probe=ad8002e60e) | Sep 01, 2020 |
 | Acer          | Aspire F5-573G              | [8c96e81360](https://linux-hardware.org/?probe=8c96e81360) | Sep 01, 2020 |
-| HP            | ProBook 455R G6             | [826d96358a](https://linux-hardware.org/?probe=826d96358a) | Aug 31, 2020 |
 | Dell          | Vostro 3478                 | [6d6b35a7fc](https://linux-hardware.org/?probe=6d6b35a7fc) | Aug 31, 2020 |
 | Samsung       | 550XCJ/550XCR               | [c46fe44dfd](https://linux-hardware.org/?probe=c46fe44dfd) | Aug 31, 2020 |
-| Dell          | Inspiron 5547               | [7cd1abda28](https://linux-hardware.org/?probe=7cd1abda28) | Aug 30, 2020 |
 | Lenovo        | ThinkPad P73 20QRCTO1WW     | [aa63f5b34e](https://linux-hardware.org/?probe=aa63f5b34e) | Aug 30, 2020 |
-| MSI           | GF63 Thin 9RCX              | [415c03781d](https://linux-hardware.org/?probe=415c03781d) | Aug 29, 2020 |
 | Apple         | MacBookPro7,1               | [6c3518c3f2](https://linux-hardware.org/?probe=6c3518c3f2) | Aug 29, 2020 |
 | MSI           | PS42 Modern 8RA             | [ab71a04043](https://linux-hardware.org/?probe=ab71a04043) | Aug 29, 2020 |
 | ASUSTek       | K55VD                       | [9bbd896739](https://linux-hardware.org/?probe=9bbd896739) | Aug 29, 2020 |
 | Lenovo        | ThinkPad X250 20CLS2YH00    | [cee4231640](https://linux-hardware.org/?probe=cee4231640) | Aug 29, 2020 |
 | HP            | OMEN Laptop 15-ek0xxx       | [964360b8dd](https://linux-hardware.org/?probe=964360b8dd) | Aug 29, 2020 |
 | Apple         | MacBookPro7,1               | [03f1147cb9](https://linux-hardware.org/?probe=03f1147cb9) | Aug 29, 2020 |
-| Acer          | Swift SF314-55              | [1bbf1ee7d5](https://linux-hardware.org/?probe=1bbf1ee7d5) | Aug 29, 2020 |
 | Toshiba       | Satellite L775              | [d7a7431896](https://linux-hardware.org/?probe=d7a7431896) | Aug 28, 2020 |
-| Dell          | Vostro 3478                 | [fe03f4a852](https://linux-hardware.org/?probe=fe03f4a852) | Aug 28, 2020 |
 | Toshiba       | Satellite A350              | [0f1ec4ce4e](https://linux-hardware.org/?probe=0f1ec4ce4e) | Aug 28, 2020 |
 | Lenovo        | ThinkPad E495 20NE001TTX    | [9275c50d63](https://linux-hardware.org/?probe=9275c50d63) | Aug 28, 2020 |
 | Lenovo        | Legion 5 15ARH05 82B5       | [2c5aa3a840](https://linux-hardware.org/?probe=2c5aa3a840) | Aug 28, 2020 |
 | Dell          | Inspiron 5480               | [ac483cbada](https://linux-hardware.org/?probe=ac483cbada) | Aug 27, 2020 |
 | System76      | Lemur Pro                   | [9492c98398](https://linux-hardware.org/?probe=9492c98398) | Aug 27, 2020 |
-| System76      | Lemur Pro                   | [c5f2aad9a8](https://linux-hardware.org/?probe=c5f2aad9a8) | Aug 26, 2020 |
 | ASUSTek       | G74Sx                       | [ee1eff80f9](https://linux-hardware.org/?probe=ee1eff80f9) | Aug 26, 2020 |
 | HP            | ProBook 455 G7              | [d1eed17447](https://linux-hardware.org/?probe=d1eed17447) | Aug 26, 2020 |
 | HP            | Laptop 14-cm0xxx            | [9422c9ac09](https://linux-hardware.org/?probe=9422c9ac09) | Aug 26, 2020 |
@@ -954,16 +921,11 @@ Pop!_OS 20.04 - Test Cases
 | Unknown       | Unknown                     | [4117aedbf0](https://linux-hardware.org/?probe=4117aedbf0) | Aug 24, 2020 |
 | Dell          | XPS 15 9570                 | [b2636a7543](https://linux-hardware.org/?probe=b2636a7543) | Aug 24, 2020 |
 | Lenovo        | IdeaPad Slim 1-14AST-05 ... | [52667a817a](https://linux-hardware.org/?probe=52667a817a) | Aug 24, 2020 |
-| System76      | Lemur Pro                   | [419bc74477](https://linux-hardware.org/?probe=419bc74477) | Aug 24, 2020 |
 | Lenovo        | IdeaPad Slim 1-14AST-05 ... | [d6ecec7769](https://linux-hardware.org/?probe=d6ecec7769) | Aug 24, 2020 |
 | Dell          | XPS 13 9380                 | [ab6b629076](https://linux-hardware.org/?probe=ab6b629076) | Aug 23, 2020 |
-| System76      | Lemur Pro                   | [cd9588ff15](https://linux-hardware.org/?probe=cd9588ff15) | Aug 23, 2020 |
-| Dell          | Vostro 3478                 | [eefce334d5](https://linux-hardware.org/?probe=eefce334d5) | Aug 23, 2020 |
 | Dell          | Vostro V131                 | [4a8ecaec28](https://linux-hardware.org/?probe=4a8ecaec28) | Aug 23, 2020 |
 | Lenovo        | 81D2                        | [00c8f983ca](https://linux-hardware.org/?probe=00c8f983ca) | Aug 22, 2020 |
-| HP            | ProBook 455 G7              | [2931fbab78](https://linux-hardware.org/?probe=2931fbab78) | Aug 22, 2020 |
 | Dell          | Inspiron 15 7000 Gaming     | [291fa69185](https://linux-hardware.org/?probe=291fa69185) | Aug 22, 2020 |
-| Dell          | Vostro 3478                 | [40418b242e](https://linux-hardware.org/?probe=40418b242e) | Aug 22, 2020 |
 | Dell          | Vostro 3478                 | [e59474f0e1](https://linux-hardware.org/?probe=e59474f0e1) | Aug 22, 2020 |
 | Acer          | Aspire A515-51G             | [94664198ed](https://linux-hardware.org/?probe=94664198ed) | Aug 22, 2020 |
 | Acer          | Aspire 5741                 | [3361f58791](https://linux-hardware.org/?probe=3361f58791) | Aug 22, 2020 |
@@ -981,7 +943,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | B560                        | [dff3ae9acb](https://linux-hardware.org/?probe=dff3ae9acb) | Aug 20, 2020 |
 | HP            | Pavilion 15                 | [d9c1a66672](https://linux-hardware.org/?probe=d9c1a66672) | Aug 20, 2020 |
 | HP            | ProBook 455 G7              | [290031325f](https://linux-hardware.org/?probe=290031325f) | Aug 20, 2020 |
-| HP            | ProBook 455 G7              | [e16a1b854d](https://linux-hardware.org/?probe=e16a1b854d) | Aug 20, 2020 |
 | MSI           | PE60 6QD                    | [3b353ca451](https://linux-hardware.org/?probe=3b353ca451) | Aug 20, 2020 |
 | Dell          | Inspiron 5558               | [ca88e858a5](https://linux-hardware.org/?probe=ca88e858a5) | Aug 20, 2020 |
 | Lenovo        | IdeaPad S540-15IWL D 81N... | [2e262241ec](https://linux-hardware.org/?probe=2e262241ec) | Aug 20, 2020 |
@@ -992,7 +953,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkPad E14 20RBCTO1WW     | [03ad67f26a](https://linux-hardware.org/?probe=03ad67f26a) | Aug 19, 2020 |
 | ASUSTek       | X555UA                      | [82c082b726](https://linux-hardware.org/?probe=82c082b726) | Aug 19, 2020 |
 | HP            | Pavilion Power Laptop 15... | [52b0c98507](https://linux-hardware.org/?probe=52b0c98507) | Aug 19, 2020 |
-| Dell          | Latitude E5520              | [8927804c05](https://linux-hardware.org/?probe=8927804c05) | Aug 19, 2020 |
 | Lenovo        | ThinkPad E14 20RBCTO1WW     | [b1d7d7e4a3](https://linux-hardware.org/?probe=b1d7d7e4a3) | Aug 18, 2020 |
 | Acer          | Aspire 5742G                | [72484efdf8](https://linux-hardware.org/?probe=72484efdf8) | Aug 18, 2020 |
 | Dell          | Latitude E5520              | [9530325afb](https://linux-hardware.org/?probe=9530325afb) | Aug 18, 2020 |
@@ -1008,8 +968,6 @@ Pop!_OS 20.04 - Test Cases
 | HP            | ENVY TS m6 Sleekbook        | [234e35474c](https://linux-hardware.org/?probe=234e35474c) | Aug 17, 2020 |
 | ASUSTek       | GL553VW                     | [b84ed4ed7f](https://linux-hardware.org/?probe=b84ed4ed7f) | Aug 16, 2020 |
 | Toshiba       | Satellite P55W-C            | [e6c04670d9](https://linux-hardware.org/?probe=e6c04670d9) | Aug 16, 2020 |
-| Dell          | Inspiron 5547               | [1507cbcc79](https://linux-hardware.org/?probe=1507cbcc79) | Aug 16, 2020 |
-| Dell          | Inspiron 5547               | [3ffcb360d0](https://linux-hardware.org/?probe=3ffcb360d0) | Aug 16, 2020 |
 | Lenovo        | ThinkPad T480 20L6S43212    | [e408e4045b](https://linux-hardware.org/?probe=e408e4045b) | Aug 16, 2020 |
 | System76      | Lemur Pro                   | [42b5653929](https://linux-hardware.org/?probe=42b5653929) | Aug 16, 2020 |
 | Sony          | VPCEG37FM                   | [7d9c615034](https://linux-hardware.org/?probe=7d9c615034) | Aug 16, 2020 |
@@ -1017,7 +975,6 @@ Pop!_OS 20.04 - Test Cases
 | MSI           | GS63VR 6RF                  | [dd432654da](https://linux-hardware.org/?probe=dd432654da) | Aug 16, 2020 |
 | Intel         | Skylake Platform            | [0c4e945afd](https://linux-hardware.org/?probe=0c4e945afd) | Aug 15, 2020 |
 | Sony          | VPCEG37FM                   | [e5790ff4ab](https://linux-hardware.org/?probe=e5790ff4ab) | Aug 15, 2020 |
-| HP            | ProBook 430 G3              | [fdc95a9b5e](https://linux-hardware.org/?probe=fdc95a9b5e) | Aug 15, 2020 |
 | HP            | Laptop 14-dq1xxx            | [7aef944461](https://linux-hardware.org/?probe=7aef944461) | Aug 15, 2020 |
 | HP            | Laptop 14-dq1xxx            | [875b32f336](https://linux-hardware.org/?probe=875b32f336) | Aug 15, 2020 |
 | ASUSTek       | X502CA                      | [7876d4c48d](https://linux-hardware.org/?probe=7876d4c48d) | Aug 14, 2020 |
@@ -1028,7 +985,6 @@ Pop!_OS 20.04 - Test Cases
 | System76      | Lemur Pro                   | [40503a46cc](https://linux-hardware.org/?probe=40503a46cc) | Aug 13, 2020 |
 | System76      | Lemur Pro                   | [9789e8fcf1](https://linux-hardware.org/?probe=9789e8fcf1) | Aug 13, 2020 |
 | Lenovo        | ThinkPad X240 20AL007NMS    | [6b21cd8c3e](https://linux-hardware.org/?probe=6b21cd8c3e) | Aug 13, 2020 |
-| HP            | ENVY 17                     | [03a5ef7c2d](https://linux-hardware.org/?probe=03a5ef7c2d) | Aug 13, 2020 |
 | ASUSTek       | ZenBook UX434FLC_UX433FL... | [8bc9e504d7](https://linux-hardware.org/?probe=8bc9e504d7) | Aug 13, 2020 |
 | Lenovo        | IdeaPad 330-15IKB 81FE      | [b7bab15e7c](https://linux-hardware.org/?probe=b7bab15e7c) | Aug 13, 2020 |
 | HP            | EliteBook 8560w             | [c5c3ea52c7](https://linux-hardware.org/?probe=c5c3ea52c7) | Aug 12, 2020 |
@@ -1084,7 +1040,6 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkBook 14-IML 20RV       | [07ab67a4e7](https://linux-hardware.org/?probe=07ab67a4e7) | Aug 03, 2020 |
 | ASUSTek       | Zephyrus M GM501GM          | [bdcca9dc2d](https://linux-hardware.org/?probe=bdcca9dc2d) | Aug 03, 2020 |
 | Lenovo        | IdeaPad 530S-14ARR 81H1     | [62f9d9cc6b](https://linux-hardware.org/?probe=62f9d9cc6b) | Aug 03, 2020 |
-| Acer          | Swift SF314-55              | [273bd7903b](https://linux-hardware.org/?probe=273bd7903b) | Aug 03, 2020 |
 | Toshiba       | Satellite L745              | [4770498bee](https://linux-hardware.org/?probe=4770498bee) | Aug 02, 2020 |
 | Toshiba       | Satellite L745              | [8f86800c3c](https://linux-hardware.org/?probe=8f86800c3c) | Aug 02, 2020 |
 | Toshiba       | Satellite C55Dt-B           | [5b6b6c015c](https://linux-hardware.org/?probe=5b6b6c015c) | Aug 02, 2020 |
@@ -1094,7 +1049,7 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Precision M6700             | [9efb86bf94](https://linux-hardware.org/?probe=9efb86bf94) | Aug 01, 2020 |
 | Dell          | XPS 15 7590                 | [27679a2995](https://linux-hardware.org/?probe=27679a2995) | Aug 01, 2020 |
 | Dell          | XPS 15 7590                 | [3b83fe06f7](https://linux-hardware.org/?probe=3b83fe06f7) | Aug 01, 2020 |
-| Dell          | XPS 15Z                     | [6846c9be82](https://linux-hardware.org/?probe=6846c9be82) | Aug 01, 2020 |
+| Dell          | System XPS 15Z              | [6846c9be82](https://linux-hardware.org/?probe=6846c9be82) | Aug 01, 2020 |
 | HP            | ProBook 4540s               | [e92cb0caf6](https://linux-hardware.org/?probe=e92cb0caf6) | Aug 01, 2020 |
 | Lenovo        | ThinkPad T420 42363Y8       | [7fc126e497](https://linux-hardware.org/?probe=7fc126e497) | Aug 01, 2020 |
 | HP            | ProBook 4540s               | [c187f3a558](https://linux-hardware.org/?probe=c187f3a558) | Jul 31, 2020 |
@@ -1151,7 +1106,7 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Inspiron 3583               | [44129b7f76](https://linux-hardware.org/?probe=44129b7f76) | Jul 24, 2020 |
 | Samsung       | 550XBE/350XBE               | [0f67a040ba](https://linux-hardware.org/?probe=0f67a040ba) | Jul 24, 2020 |
 | Dell          | Inspiron 7577               | [63be1a4b5f](https://linux-hardware.org/?probe=63be1a4b5f) | Jul 24, 2020 |
-| Positivo      | NB50TH 11144919             | [ed997d4980](https://linux-hardware.org/?probe=ed997d4980) | Jul 24, 2020 |
+| Positivo      | NB50TH                      | [ed997d4980](https://linux-hardware.org/?probe=ed997d4980) | Jul 24, 2020 |
 | Notebook      | W230SD                      | [17334fe86e](https://linux-hardware.org/?probe=17334fe86e) | Jul 24, 2020 |
 | Acer          | Aspire A515-52G             | [fbfc59bb0f](https://linux-hardware.org/?probe=fbfc59bb0f) | Jul 24, 2020 |
 | Dell          | G7 7588                     | [0b2b186052](https://linux-hardware.org/?probe=0b2b186052) | Jul 24, 2020 |
@@ -1178,15 +1133,13 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | IdeaPad L340-15IRH Gamin... | [2e3eca8b23](https://linux-hardware.org/?probe=2e3eca8b23) | Jul 24, 2020 |
 | Lenovo        | ThinkPad T440p 20AWS1VN0... | [a075d5f71f](https://linux-hardware.org/?probe=a075d5f71f) | Jul 24, 2020 |
 | Samsung       | R520/R522/R620              | [d5280dffc2](https://linux-hardware.org/?probe=d5280dffc2) | Jul 23, 2020 |
-| ASUSTek       | X555UA                      | [67f2805008](https://linux-hardware.org/?probe=67f2805008) | Jul 23, 2020 |
 | Lenovo        | IdeaPad Y550 20017          | [3122f02f2c](https://linux-hardware.org/?probe=3122f02f2c) | Jul 23, 2020 |
 | LG Electro... | A410-K.BE47P1               | [f1cf1ce0c5](https://linux-hardware.org/?probe=f1cf1ce0c5) | Jul 23, 2020 |
 | LG Electro... | A410-K.BE47P1               | [5d2a6b4937](https://linux-hardware.org/?probe=5d2a6b4937) | Jul 23, 2020 |
 | Lenovo        | IdeaPad 330S-14IKB 81F4     | [d56b63c95e](https://linux-hardware.org/?probe=d56b63c95e) | Jul 22, 2020 |
 | Dell          | Inspiron 3537               | [50a7e88fb1](https://linux-hardware.org/?probe=50a7e88fb1) | Jul 22, 2020 |
 | Lenovo        | IdeaPad C340-14API 81N6     | [ddfadcc7f0](https://linux-hardware.org/?probe=ddfadcc7f0) | Jul 21, 2020 |
-| HP            | OMEN by HP Laptop           | [a9202a9c5e](https://linux-hardware.org/?probe=a9202a9c5e) | Jul 20, 2020 |
-| HP            | OMEN by HP Laptop           | [5830171dc4](https://linux-hardware.org/?probe=5830171dc4) | Jul 20, 2020 |
+| HP            | OMEN by Laptop              | [a9202a9c5e](https://linux-hardware.org/?probe=a9202a9c5e) | Jul 20, 2020 |
 | HP            | ProBook 455R G6             | [f4f6e75c97](https://linux-hardware.org/?probe=f4f6e75c97) | Jul 20, 2020 |
 | Sony          | VPCF234FD                   | [d13d3443bf](https://linux-hardware.org/?probe=d13d3443bf) | Jul 19, 2020 |
 | HP            | Pavilion Sleekbook 15 PC    | [e6678b23a8](https://linux-hardware.org/?probe=e6678b23a8) | Jul 19, 2020 |
@@ -1195,9 +1148,7 @@ Pop!_OS 20.04 - Test Cases
 | ASUSTek       | K75VM                       | [ba2d8921cb](https://linux-hardware.org/?probe=ba2d8921cb) | Jul 19, 2020 |
 | NEC Comput... | PC-LS150HS1TW               | [dc5608a2ef](https://linux-hardware.org/?probe=dc5608a2ef) | Jul 19, 2020 |
 | Gateway       | NE71B                       | [01f3fc0d93](https://linux-hardware.org/?probe=01f3fc0d93) | Jul 19, 2020 |
-| Lenovo        | ThinkPad P73 20QRCTO1WW     | [03e39af4f9](https://linux-hardware.org/?probe=03e39af4f9) | Jul 19, 2020 |
 | System76      | Serval WS                   | [10e1281202](https://linux-hardware.org/?probe=10e1281202) | Jul 19, 2020 |
-| ASUSTek       | X555UA                      | [db84f608bc](https://linux-hardware.org/?probe=db84f608bc) | Jul 18, 2020 |
 | Dell          | Inspiron 5480               | [2f3ce32a7e](https://linux-hardware.org/?probe=2f3ce32a7e) | Jul 18, 2020 |
 | Lenovo        | ThinkPad E550 20DF0030US    | [bd4cec3da3](https://linux-hardware.org/?probe=bd4cec3da3) | Jul 18, 2020 |
 | HP            | Laptop 15-db1xxx            | [22c0484c7c](https://linux-hardware.org/?probe=22c0484c7c) | Jul 18, 2020 |
@@ -1205,11 +1156,10 @@ Pop!_OS 20.04 - Test Cases
 | Acer          | Nitro AN515-31              | [0046acaf2f](https://linux-hardware.org/?probe=0046acaf2f) | Jul 17, 2020 |
 | Lenovo        | ThinkPad T440p 20AWA0850... | [d1f9bdb471](https://linux-hardware.org/?probe=d1f9bdb471) | Jul 17, 2020 |
 | Lenovo        | IdeaPad S205 10383EG        | [431f089dd8](https://linux-hardware.org/?probe=431f089dd8) | Jul 16, 2020 |
-| HP            | OMEN by HP Laptop           | [2b163aed02](https://linux-hardware.org/?probe=2b163aed02) | Jul 16, 2020 |
+| HP            | OMEN by Laptop              | [2b163aed02](https://linux-hardware.org/?probe=2b163aed02) | Jul 16, 2020 |
 | Dell          | Latitude E6440              | [4b2f248143](https://linux-hardware.org/?probe=4b2f248143) | Jul 16, 2020 |
 | Avell High... | 1513                        | [2587c75f44](https://linux-hardware.org/?probe=2587c75f44) | Jul 16, 2020 |
 | Acer          | Aspire V5-573G              | [6909e1a1df](https://linux-hardware.org/?probe=6909e1a1df) | Jul 16, 2020 |
-| ASUSTek       | X555UA                      | [ffe9d7d18d](https://linux-hardware.org/?probe=ffe9d7d18d) | Jul 16, 2020 |
 | HP            | 14                          | [6a66a0888e](https://linux-hardware.org/?probe=6a66a0888e) | Jul 16, 2020 |
 | Dell          | Inspiron 13-7359            | [8745eba377](https://linux-hardware.org/?probe=8745eba377) | Jul 16, 2020 |
 | System76      | Oryx Pro                    | [91f4d933b2](https://linux-hardware.org/?probe=91f4d933b2) | Jul 16, 2020 |
@@ -1217,7 +1167,6 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Inspiron 5557               | [3bdab8d6ab](https://linux-hardware.org/?probe=3bdab8d6ab) | Jul 16, 2020 |
 | ASUSTek       | VivoBook_ASUSLaptop X509... | [22aa8b554a](https://linux-hardware.org/?probe=22aa8b554a) | Jul 16, 2020 |
 | ASUSTek       | N55SF                       | [1b755477f7](https://linux-hardware.org/?probe=1b755477f7) | Jul 15, 2020 |
-| Lenovo        | ThinkPad T440p 20AWA0850... | [97f92cb186](https://linux-hardware.org/?probe=97f92cb186) | Jul 15, 2020 |
 | Lenovo        | ThinkPad T440p 20AWA0850... | [b4672f67db](https://linux-hardware.org/?probe=b4672f67db) | Jul 15, 2020 |
 | System76      | Oryx Pro                    | [ef35e4d22a](https://linux-hardware.org/?probe=ef35e4d22a) | Jul 15, 2020 |
 | Samsung       | 940Z5L                      | [2a80db9eec](https://linux-hardware.org/?probe=2a80db9eec) | Jul 14, 2020 |
@@ -1230,9 +1179,8 @@ Pop!_OS 20.04 - Test Cases
 | Samsung       | R520/R522/R620              | [d20711535d](https://linux-hardware.org/?probe=d20711535d) | Jul 14, 2020 |
 | HP            | ZBook 15 G2                 | [33fcb49009](https://linux-hardware.org/?probe=33fcb49009) | Jul 14, 2020 |
 | Acer          | Aspire 5738                 | [8585dc49b8](https://linux-hardware.org/?probe=8585dc49b8) | Jul 13, 2020 |
-| Acer          | Aspire 5738                 | [05a9f9a340](https://linux-hardware.org/?probe=05a9f9a340) | Jul 13, 2020 |
 | HP            | Stream Laptop 14-ax0XX      | [933ba73ef9](https://linux-hardware.org/?probe=933ba73ef9) | Jul 13, 2020 |
-| HP            | OMEN by HP Laptop 15-dc0... | [5ad6b89480](https://linux-hardware.org/?probe=5ad6b89480) | Jul 13, 2020 |
+| HP            | OMEN by Laptop 15-dc0xxx    | [5ad6b89480](https://linux-hardware.org/?probe=5ad6b89480) | Jul 13, 2020 |
 | Dell          | Latitude E7440              | [aec15e23f5](https://linux-hardware.org/?probe=aec15e23f5) | Jul 12, 2020 |
 | Durabook      | S15H                        | [4b80b5939b](https://linux-hardware.org/?probe=4b80b5939b) | Jul 12, 2020 |
 | Bluechip C... | BUSINESSline                | [bc0c1e3029](https://linux-hardware.org/?probe=bc0c1e3029) | Jul 11, 2020 |
@@ -1259,14 +1207,12 @@ Pop!_OS 20.04 - Test Cases
 | Notebook      | W65_W67RN,RC1,RCY           | [57db8f98a9](https://linux-hardware.org/?probe=57db8f98a9) | Jul 07, 2020 |
 | Dell          | XPS 15 7590                 | [1673cc1a69](https://linux-hardware.org/?probe=1673cc1a69) | Jul 07, 2020 |
 | Dell          | Inspiron 15-7579            | [b8acc8d110](https://linux-hardware.org/?probe=b8acc8d110) | Jul 07, 2020 |
-| Acer          | Swift SF314-55              | [1f89b88729](https://linux-hardware.org/?probe=1f89b88729) | Jul 06, 2020 |
 | Acer          | Aspire A315-42              | [7c061a0688](https://linux-hardware.org/?probe=7c061a0688) | Jul 06, 2020 |
 | Lenovo        | ThinkPad X1 Extreme 2nd ... | [2454673d05](https://linux-hardware.org/?probe=2454673d05) | Jul 05, 2020 |
 | Dell          | Inspiron N5110              | [bd30f237dd](https://linux-hardware.org/?probe=bd30f237dd) | Jul 05, 2020 |
 | Acer          | Aspire E1-451G              | [4765a08df1](https://linux-hardware.org/?probe=4765a08df1) | Jul 04, 2020 |
 | Lenovo        | IdeaPad Yoga 2 Pro 13 59... | [df50f92777](https://linux-hardware.org/?probe=df50f92777) | Jul 04, 2020 |
 | Lenovo        | ThinkPad P52 20M9001FRT     | [6deb3ed800](https://linux-hardware.org/?probe=6deb3ed800) | Jul 04, 2020 |
-| Lenovo        | IdeaPad Yoga 2 Pro 13 59... | [1fcdcfc419](https://linux-hardware.org/?probe=1fcdcfc419) | Jul 04, 2020 |
 | ASUSTek       | UX430UNR                    | [84daa7abc8](https://linux-hardware.org/?probe=84daa7abc8) | Jul 04, 2020 |
 | Lenovo        | IdeaPad S145-15API 81UT     | [dc59d4480f](https://linux-hardware.org/?probe=dc59d4480f) | Jul 04, 2020 |
 | HP            | EliteBook 725 G4            | [b3e1336d2f](https://linux-hardware.org/?probe=b3e1336d2f) | Jul 04, 2020 |
@@ -1282,8 +1228,8 @@ Pop!_OS 20.04 - Test Cases
 | HP            | Pavilion dv7                | [cdb63f485d](https://linux-hardware.org/?probe=cdb63f485d) | Jul 02, 2020 |
 | HP            | Pavilion dv7                | [c130b59bb4](https://linux-hardware.org/?probe=c130b59bb4) | Jul 02, 2020 |
 | ASUSTek       | ROG Strix G531GV_G531GV     | [320fa53669](https://linux-hardware.org/?probe=320fa53669) | Jul 01, 2020 |
-| Toshiba       | Satellite PRO C850-15N      | [d3da3849dd](https://linux-hardware.org/?probe=d3da3849dd) | Jul 01, 2020 |
-| Toshiba       | Satellite PRO C850-15N      | [c78d4eaed3](https://linux-hardware.org/?probe=c78d4eaed3) | Jul 01, 2020 |
+| Toshiba       | Satellite Pro C850-15N      | [d3da3849dd](https://linux-hardware.org/?probe=d3da3849dd) | Jul 01, 2020 |
+| Toshiba       | Satellite Pro C850-15N      | [c78d4eaed3](https://linux-hardware.org/?probe=c78d4eaed3) | Jul 01, 2020 |
 | Acer          | Aspire A315-42G             | [55fbbc0c69](https://linux-hardware.org/?probe=55fbbc0c69) | Jul 01, 2020 |
 | Dell          | Inspiron 14-3452            | [cb378fd6aa](https://linux-hardware.org/?probe=cb378fd6aa) | Jul 01, 2020 |
 | Apple         | MacBookPro14,3              | [65f106a492](https://linux-hardware.org/?probe=65f106a492) | Jul 01, 2020 |
@@ -1292,11 +1238,9 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | Yoga S740-14IIL 81RS        | [5d0963c01b](https://linux-hardware.org/?probe=5d0963c01b) | Jun 30, 2020 |
 | Timi          | RedmiBook 16                | [a47f088685](https://linux-hardware.org/?probe=a47f088685) | Jun 30, 2020 |
 | HP            | ProBook 6565b               | [19bad7a13f](https://linux-hardware.org/?probe=19bad7a13f) | Jun 30, 2020 |
-| Apple         | MacBookAir4,1               | [d263346829](https://linux-hardware.org/?probe=d263346829) | Jun 30, 2020 |
 | Dell          | XPS 15 7590                 | [a1dda22c7d](https://linux-hardware.org/?probe=a1dda22c7d) | Jun 30, 2020 |
 | HP            | ProBook 6565b               | [3a81652253](https://linux-hardware.org/?probe=3a81652253) | Jun 30, 2020 |
 | ASUSTek       | TUF Gaming FX705DT_FX705... | [f86d13d08b](https://linux-hardware.org/?probe=f86d13d08b) | Jun 30, 2020 |
-| ASUSTek       | UX430UNR                    | [66535af0ec](https://linux-hardware.org/?probe=66535af0ec) | Jun 30, 2020 |
 | ASUSTek       | UX430UNR                    | [bcca587692](https://linux-hardware.org/?probe=bcca587692) | Jun 30, 2020 |
 | Dell          | G7 7790                     | [ea77c657c0](https://linux-hardware.org/?probe=ea77c657c0) | Jun 29, 2020 |
 | Toshiba       | PORTEGE R30-A               | [d33d8295b1](https://linux-hardware.org/?probe=d33d8295b1) | Jun 29, 2020 |
@@ -1308,7 +1252,6 @@ Pop!_OS 20.04 - Test Cases
 | Dell          | Inspiron 3180               | [ec307f7ac3](https://linux-hardware.org/?probe=ec307f7ac3) | Jun 28, 2020 |
 | Fujitsu       | LIFEBOOK U938               | [445cfe436d](https://linux-hardware.org/?probe=445cfe436d) | Jun 28, 2020 |
 | Lenovo        | ThinkPad Edge E430 3254T... | [8dc078ea24](https://linux-hardware.org/?probe=8dc078ea24) | Jun 28, 2020 |
-| Fujitsu       | LIFEBOOK U938               | [e71dc2cb6e](https://linux-hardware.org/?probe=e71dc2cb6e) | Jun 28, 2020 |
 | HP            | Notebook                    | [e4e0504d1d](https://linux-hardware.org/?probe=e4e0504d1d) | Jun 28, 2020 |
 | LNV           | L40-30                      | [cf4dea493a](https://linux-hardware.org/?probe=cf4dea493a) | Jun 28, 2020 |
 | Acer          | Aspire E5-575G              | [0a6f85883d](https://linux-hardware.org/?probe=0a6f85883d) | Jun 27, 2020 |
@@ -1327,7 +1270,6 @@ Pop!_OS 20.04 - Test Cases
 | Apple         | MacBookPro5,5               | [5e921d68ff](https://linux-hardware.org/?probe=5e921d68ff) | Jun 25, 2020 |
 | Dell          | Latitude D830               | [8bbb9ee1af](https://linux-hardware.org/?probe=8bbb9ee1af) | Jun 24, 2020 |
 | Dell          | Precision M4600             | [2fb606da9c](https://linux-hardware.org/?probe=2fb606da9c) | Jun 24, 2020 |
-| Dell          | Precision M4600             | [92fc0c1fa5](https://linux-hardware.org/?probe=92fc0c1fa5) | Jun 24, 2020 |
 | System76      | Gazelle                     | [7e7fc80488](https://linux-hardware.org/?probe=7e7fc80488) | Jun 24, 2020 |
 | Apple         | MacBookPro11,5              | [4d62dbbf1a](https://linux-hardware.org/?probe=4d62dbbf1a) | Jun 23, 2020 |
 | Lenovo        | ThinkPad X220 429144G       | [18d1f7f0ce](https://linux-hardware.org/?probe=18d1f7f0ce) | Jun 23, 2020 |
@@ -1347,7 +1289,6 @@ Pop!_OS 20.04 - Test Cases
 | Acer          | Aspire VX5-591G             | [e66519169f](https://linux-hardware.org/?probe=e66519169f) | Jun 21, 2020 |
 | HP            | Notebook                    | [3650b92871](https://linux-hardware.org/?probe=3650b92871) | Jun 21, 2020 |
 | ASUSTek       | K56CB                       | [bbdd76a080](https://linux-hardware.org/?probe=bbdd76a080) | Jun 21, 2020 |
-| Fujitsu       | LIFEBOOK U938               | [ad3c978ff4](https://linux-hardware.org/?probe=ad3c978ff4) | Jun 21, 2020 |
 | HP            | Pavilion Gaming Laptop 1... | [683b19ba25](https://linux-hardware.org/?probe=683b19ba25) | Jun 21, 2020 |
 | Acer          | Swift SF314-54G             | [e69e144ab8](https://linux-hardware.org/?probe=e69e144ab8) | Jun 21, 2020 |
 | Apple         | MacBookAir3,2               | [57590b568e](https://linux-hardware.org/?probe=57590b568e) | Jun 20, 2020 |
@@ -1366,12 +1307,11 @@ Pop!_OS 20.04 - Test Cases
 | Apple         | MacBookPro11,5              | [663c7f6726](https://linux-hardware.org/?probe=663c7f6726) | Jun 17, 2020 |
 | Apple         | MacBookPro11,5              | [6374d83ea8](https://linux-hardware.org/?probe=6374d83ea8) | Jun 17, 2020 |
 | Dell          | Vostro 5490                 | [28b7bc5321](https://linux-hardware.org/?probe=28b7bc5321) | Jun 17, 2020 |
-| Lenovo        | ThinkPad W540 20BG001BMD    | [0712d8f96a](https://linux-hardware.org/?probe=0712d8f96a) | Jun 16, 2020 |
 | Acer          | Predator PH315-51           | [fd3a9fefcf](https://linux-hardware.org/?probe=fd3a9fefcf) | Jun 16, 2020 |
 | Dell          | G7 7588                     | [f9e0d15f1d](https://linux-hardware.org/?probe=f9e0d15f1d) | Jun 16, 2020 |
 | HP            | Pavilion 15                 | [6d0c4b8b4f](https://linux-hardware.org/?probe=6d0c4b8b4f) | Jun 16, 2020 |
 | Acer          | Aspire F5-573G              | [8606d10d2b](https://linux-hardware.org/?probe=8606d10d2b) | Jun 16, 2020 |
-| HP            | OMEN by HP Laptop 15-dc0... | [588dee9fe6](https://linux-hardware.org/?probe=588dee9fe6) | Jun 16, 2020 |
+| HP            | OMEN by Laptop 15-dc0xxx    | [588dee9fe6](https://linux-hardware.org/?probe=588dee9fe6) | Jun 16, 2020 |
 | Lenovo        | ThinkPad X1 Extreme 2nd ... | [2a90d0749c](https://linux-hardware.org/?probe=2a90d0749c) | Jun 15, 2020 |
 | Apple         | MacBook3,1                  | [15d0be4fd8](https://linux-hardware.org/?probe=15d0be4fd8) | Jun 15, 2020 |
 | HP            | ProBook 650 G1              | [96551875ca](https://linux-hardware.org/?probe=96551875ca) | Jun 15, 2020 |
@@ -1446,7 +1386,6 @@ Pop!_OS 20.04 - Test Cases
 | HP            | ProBook 440 G3              | [4854af6654](https://linux-hardware.org/?probe=4854af6654) | May 31, 2020 |
 | Acer          | Aspire A315-51              | [1509883885](https://linux-hardware.org/?probe=1509883885) | May 31, 2020 |
 | Apple         | MacBookPro14,1              | [0ecb29970a](https://linux-hardware.org/?probe=0ecb29970a) | May 31, 2020 |
-| Apple         | MacBookPro14,1              | [15bba40982](https://linux-hardware.org/?probe=15bba40982) | May 31, 2020 |
 | Apple         | MacBookPro14,1              | [28fa9f025a](https://linux-hardware.org/?probe=28fa9f025a) | May 31, 2020 |
 | Google        | Caroline                    | [4e305a0551](https://linux-hardware.org/?probe=4e305a0551) | May 31, 2020 |
 | EVOO          | EG-LP6                      | [d3d3c87793](https://linux-hardware.org/?probe=d3d3c87793) | May 31, 2020 |
@@ -1470,7 +1409,6 @@ Pop!_OS 20.04 - Test Cases
 | Acer          | Aspire E1-572               | [8122067d6e](https://linux-hardware.org/?probe=8122067d6e) | May 29, 2020 |
 | Lenovo        | ThinkPad X1 Extreme 2nd ... | [5ac8383396](https://linux-hardware.org/?probe=5ac8383396) | May 28, 2020 |
 | Dell          | Latitude E6520              | [f7280c7e76](https://linux-hardware.org/?probe=f7280c7e76) | May 28, 2020 |
-| EVOO          | EG-LP6                      | [d1e8696236](https://linux-hardware.org/?probe=d1e8696236) | May 27, 2020 |
 | Lenovo        | ThinkPad W550s 20E2001PG... | [d4abc5a8c0](https://linux-hardware.org/?probe=d4abc5a8c0) | May 27, 2020 |
 | HUAWEI        | KPL-W0X                     | [ef5667e0c7](https://linux-hardware.org/?probe=ef5667e0c7) | May 27, 2020 |
 | Samsung       | 500R5L/501R5L/500R5P        | [48440c2e57](https://linux-hardware.org/?probe=48440c2e57) | May 27, 2020 |
@@ -1481,8 +1419,6 @@ Pop!_OS 20.04 - Test Cases
 | ASUSTek       | N550JV                      | [ffdc793b1a](https://linux-hardware.org/?probe=ffdc793b1a) | May 26, 2020 |
 | Lenovo        | IdeaPad 330-14AST 81D5      | [add4c19bf6](https://linux-hardware.org/?probe=add4c19bf6) | May 26, 2020 |
 | HUAWEI        | KPL-W0X                     | [8dd90e4e54](https://linux-hardware.org/?probe=8dd90e4e54) | May 26, 2020 |
-| HUAWEI        | KPL-W0X                     | [6ae2d6cac3](https://linux-hardware.org/?probe=6ae2d6cac3) | May 26, 2020 |
-| HUAWEI        | KPL-W0X                     | [789d043484](https://linux-hardware.org/?probe=789d043484) | May 26, 2020 |
 | HUAWEI        | KPL-W0X                     | [2a3d514a83](https://linux-hardware.org/?probe=2a3d514a83) | May 26, 2020 |
 | Dell          | Latitude E6330              | [342b266d71](https://linux-hardware.org/?probe=342b266d71) | May 26, 2020 |
 | ASUSTek       | X556URK                     | [a4fc886f10](https://linux-hardware.org/?probe=a4fc886f10) | May 26, 2020 |
@@ -1492,7 +1428,7 @@ Pop!_OS 20.04 - Test Cases
 | Toshiba       | Satellite C55-B             | [0bc2465c23](https://linux-hardware.org/?probe=0bc2465c23) | May 25, 2020 |
 | Toshiba       | Satellite C870-1DD          | [b629ff644c](https://linux-hardware.org/?probe=b629ff644c) | May 25, 2020 |
 | Alienware     | M17xR3                      | [898ae3ea34](https://linux-hardware.org/?probe=898ae3ea34) | May 25, 2020 |
-| ASUSTek       | TUF GAMING FX504GD_FX80G... | [0d35855885](https://linux-hardware.org/?probe=0d35855885) | May 25, 2020 |
+| ASUSTek       | TUF Gaming FX504GD_FX80G... | [0d35855885](https://linux-hardware.org/?probe=0d35855885) | May 25, 2020 |
 | Dell          | Inspiron 5767               | [bdab68c78a](https://linux-hardware.org/?probe=bdab68c78a) | May 25, 2020 |
 | Dell          | Latitude 7414               | [e697c4220a](https://linux-hardware.org/?probe=e697c4220a) | May 24, 2020 |
 | Dell          | Latitude 7414               | [e3792e37df](https://linux-hardware.org/?probe=e3792e37df) | May 24, 2020 |
@@ -1520,16 +1456,13 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkPad T430 2347D93       | [92f849dabb](https://linux-hardware.org/?probe=92f849dabb) | May 21, 2020 |
 | HP            | Pavilion Laptop 15-ck0xx    | [afb72edf13](https://linux-hardware.org/?probe=afb72edf13) | May 21, 2020 |
 | HP            | Pavilion Laptop 15-ck0xx    | [3cc10360c0](https://linux-hardware.org/?probe=3cc10360c0) | May 21, 2020 |
-| HP            | ZBook 15 G2                 | [b928bf78a1](https://linux-hardware.org/?probe=b928bf78a1) | May 21, 2020 |
 | Lenovo        | ThinkPad X280 20KES69A00    | [c1fc46e405](https://linux-hardware.org/?probe=c1fc46e405) | May 21, 2020 |
 | Sony          | SVF1532H1EW                 | [f9956a4f35](https://linux-hardware.org/?probe=f9956a4f35) | May 21, 2020 |
 | Sony          | SVF1532H1EW                 | [6d5ae83283](https://linux-hardware.org/?probe=6d5ae83283) | May 21, 2020 |
 | HP            | EliteBook 840 G2            | [9db9c52de8](https://linux-hardware.org/?probe=9db9c52de8) | May 21, 2020 |
 | Dell          | Inspiron 5570               | [bce9eca554](https://linux-hardware.org/?probe=bce9eca554) | May 21, 2020 |
-| Dell          | Inspiron 5570               | [eb18273916](https://linux-hardware.org/?probe=eb18273916) | May 21, 2020 |
 | Dell          | Inspiron 5570               | [ed4a85f1b9](https://linux-hardware.org/?probe=ed4a85f1b9) | May 21, 2020 |
 | Dell          | Latitude E7440              | [26b5908778](https://linux-hardware.org/?probe=26b5908778) | May 20, 2020 |
-| Lenovo        | ThinkPad T430 2347D93       | [b52a8e093a](https://linux-hardware.org/?probe=b52a8e093a) | May 20, 2020 |
 | ASUSTek       | ZenBook UX433FN_UX433FN     | [910d27523a](https://linux-hardware.org/?probe=910d27523a) | May 20, 2020 |
 | HP            | ProBook 455 G2              | [edc9f227a9](https://linux-hardware.org/?probe=edc9f227a9) | May 20, 2020 |
 | Lenovo        | ThinkPad T430 2347D93       | [baa78e30e1](https://linux-hardware.org/?probe=baa78e30e1) | May 19, 2020 |
@@ -1544,7 +1477,6 @@ Pop!_OS 20.04 - Test Cases
 | Sony          | VPCF234FD                   | [83a38717cd](https://linux-hardware.org/?probe=83a38717cd) | May 18, 2020 |
 | Lenovo        | ThinkPad E420 1141BTU       | [4768ae804b](https://linux-hardware.org/?probe=4768ae804b) | May 18, 2020 |
 | Lenovo        | ThinkPad E420 1141BTU       | [bb700492a1](https://linux-hardware.org/?probe=bb700492a1) | May 18, 2020 |
-| System76      | Serval WS                   | [87a2ae92a6](https://linux-hardware.org/?probe=87a2ae92a6) | May 18, 2020 |
 | Dell          | Latitude E6420              | [46a7b9904a](https://linux-hardware.org/?probe=46a7b9904a) | May 17, 2020 |
 | Dell          | Latitude E6420              | [15d9716666](https://linux-hardware.org/?probe=15d9716666) | May 17, 2020 |
 | System76      | Serval WS                   | [d143bef5b3](https://linux-hardware.org/?probe=d143bef5b3) | May 17, 2020 |
@@ -1567,9 +1499,6 @@ Pop!_OS 20.04 - Test Cases
 | Samsung       | RC530/RC730                 | [0e0621770e](https://linux-hardware.org/?probe=0e0621770e) | May 16, 2020 |
 | Samsung       | RC530/RC730                 | [17c8b6ef4e](https://linux-hardware.org/?probe=17c8b6ef4e) | May 15, 2020 |
 | Alienware     | M17xR3                      | [d7bce39c2a](https://linux-hardware.org/?probe=d7bce39c2a) | May 15, 2020 |
-| HP            | ZBook 15 G2                 | [e3fd079c26](https://linux-hardware.org/?probe=e3fd079c26) | May 15, 2020 |
-| Alienware     | M17xR3                      | [ee85390b48](https://linux-hardware.org/?probe=ee85390b48) | May 15, 2020 |
-| Alienware     | M17xR3                      | [307a432404](https://linux-hardware.org/?probe=307a432404) | May 15, 2020 |
 | Alienware     | M17xR3                      | [03d4231eda](https://linux-hardware.org/?probe=03d4231eda) | May 15, 2020 |
 | HP            | EliteBook 840 G3            | [8dd2608a38](https://linux-hardware.org/?probe=8dd2608a38) | May 15, 2020 |
 | Lenovo        | G50-70 20351                | [b709d501e9](https://linux-hardware.org/?probe=b709d501e9) | May 14, 2020 |
@@ -1581,7 +1510,6 @@ Pop!_OS 20.04 - Test Cases
 | Sony          | VPCF136FM                   | [961089fab7](https://linux-hardware.org/?probe=961089fab7) | May 14, 2020 |
 | Sony          | VPCF136FM                   | [3be5a59f29](https://linux-hardware.org/?probe=3be5a59f29) | May 14, 2020 |
 | Dell          | Inspiron 5720               | [67b2afbc3a](https://linux-hardware.org/?probe=67b2afbc3a) | May 13, 2020 |
-| HP            | ZBook 15 G2                 | [c4d8120802](https://linux-hardware.org/?probe=c4d8120802) | May 13, 2020 |
 | Dell          | XPS 15 7590                 | [064028d6b7](https://linux-hardware.org/?probe=064028d6b7) | May 13, 2020 |
 | Dell          | Inspiron 5720               | [02f6e422fb](https://linux-hardware.org/?probe=02f6e422fb) | May 13, 2020 |
 | HP            | Pavilion dv6                | [e958b269ed](https://linux-hardware.org/?probe=e958b269ed) | May 13, 2020 |
@@ -1611,11 +1539,10 @@ Pop!_OS 20.04 - Test Cases
 | Apple         | MacBookPro9,2               | [d3c51696c2](https://linux-hardware.org/?probe=d3c51696c2) | May 09, 2020 |
 | HUAWEI        | MACH-WX9                    | [38d36446d0](https://linux-hardware.org/?probe=38d36446d0) | May 09, 2020 |
 | HP            | ENVY 17                     | [dc50734505](https://linux-hardware.org/?probe=dc50734505) | May 09, 2020 |
-| Lenovo        | IdeaPad N585                | [413f81a533](https://linux-hardware.org/?probe=413f81a533) | May 09, 2020 |
 | MSI           | MS-163A                     | [df24ae7647](https://linux-hardware.org/?probe=df24ae7647) | May 09, 2020 |
 | MSI           | MS-163A                     | [51738b7f87](https://linux-hardware.org/?probe=51738b7f87) | May 09, 2020 |
 | Lenovo        | Y520-15IKBA 80WY            | [8005059a8c](https://linux-hardware.org/?probe=8005059a8c) | May 09, 2020 |
-| HP            | OMEN by HP Laptop 15-dc0... | [59aaf14638](https://linux-hardware.org/?probe=59aaf14638) | May 09, 2020 |
+| HP            | OMEN by Laptop 15-dc0xxx    | [59aaf14638](https://linux-hardware.org/?probe=59aaf14638) | May 09, 2020 |
 | HP            | Laptop 15-db1xxx            | [5f5d074a36](https://linux-hardware.org/?probe=5f5d074a36) | May 09, 2020 |
 | Acer          | Aspire M5-481PT             | [772cc038ae](https://linux-hardware.org/?probe=772cc038ae) | May 09, 2020 |
 | Acer          | Aspire M5-481PT             | [332e871ec3](https://linux-hardware.org/?probe=332e871ec3) | May 09, 2020 |
@@ -1623,23 +1550,18 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | ThinkPad T420 4180M8P       | [c5e3028fd9](https://linux-hardware.org/?probe=c5e3028fd9) | May 09, 2020 |
 | Lenovo        | ThinkPad T420 4180M8P       | [8275ca05b8](https://linux-hardware.org/?probe=8275ca05b8) | May 09, 2020 |
 | Acer          | Nitro AN515-53              | [d8bca081d2](https://linux-hardware.org/?probe=d8bca081d2) | May 09, 2020 |
-| Google        | Swanky                      | [a4c4de6f3c](https://linux-hardware.org/?probe=a4c4de6f3c) | May 08, 2020 |
 | Acer          | Nitro AN515-53              | [fa9a302515](https://linux-hardware.org/?probe=fa9a302515) | May 08, 2020 |
 | Lenovo        | ThinkPad T420 4180M8P       | [2eb93720b5](https://linux-hardware.org/?probe=2eb93720b5) | May 08, 2020 |
 | Acer          | TravelMate 7730             | [f922502a91](https://linux-hardware.org/?probe=f922502a91) | May 08, 2020 |
 | HP            | Notebook                    | [045809fb67](https://linux-hardware.org/?probe=045809fb67) | May 08, 2020 |
 | Dell          | Studio 1558                 | [0dd360bb5b](https://linux-hardware.org/?probe=0dd360bb5b) | May 07, 2020 |
 | ASUSTek       | N750JK                      | [56e173d548](https://linux-hardware.org/?probe=56e173d548) | May 07, 2020 |
-| Google        | Swanky                      | [a425a695fd](https://linux-hardware.org/?probe=a425a695fd) | May 07, 2020 |
-| Google        | Swanky                      | [b1dba5bb96](https://linux-hardware.org/?probe=b1dba5bb96) | May 07, 2020 |
-| Google        | Swanky                      | [28a8c9187c](https://linux-hardware.org/?probe=28a8c9187c) | May 07, 2020 |
 | Google        | Swanky                      | [80cbfac849](https://linux-hardware.org/?probe=80cbfac849) | May 07, 2020 |
 | Acer          | Nitro AN515-42              | [5c659d6268](https://linux-hardware.org/?probe=5c659d6268) | May 07, 2020 |
 | Notebook      | PB50_70RF,RD,RC             | [f1f7780815](https://linux-hardware.org/?probe=f1f7780815) | May 07, 2020 |
 | Dell          | Inspiron 3442               | [59a128354b](https://linux-hardware.org/?probe=59a128354b) | May 06, 2020 |
 | Razer         | Blade Stealth 13 Late 20... | [da502d7c85](https://linux-hardware.org/?probe=da502d7c85) | May 06, 2020 |
 | Dell          | Latitude E7240              | [6f9d4efc51](https://linux-hardware.org/?probe=6f9d4efc51) | May 06, 2020 |
-| Dell          | Latitude E7240              | [6ffc46e99c](https://linux-hardware.org/?probe=6ffc46e99c) | May 06, 2020 |
 | Dell          | Latitude E7240              | [9e5819a0bc](https://linux-hardware.org/?probe=9e5819a0bc) | May 06, 2020 |
 | LG Electro... | 23V545-G.BK33P1             | [17bee1289f](https://linux-hardware.org/?probe=17bee1289f) | May 05, 2020 |
 | HP            | Stream Notebook PC 14       | [36182f214b](https://linux-hardware.org/?probe=36182f214b) | May 05, 2020 |
@@ -1653,16 +1575,14 @@ Pop!_OS 20.04 - Test Cases
 | Acer          | Aspire A315-54K             | [45fad98669](https://linux-hardware.org/?probe=45fad98669) | May 04, 2020 |
 | Lenovo        | IdeaPad 330-15IKB 81DE      | [31f5dfadff](https://linux-hardware.org/?probe=31f5dfadff) | May 04, 2020 |
 | TUXEDO        | Unknown                     | [3f23947dd8](https://linux-hardware.org/?probe=3f23947dd8) | May 04, 2020 |
-| Lenovo        | IdeaPad N585                | [d4a9fa0324](https://linux-hardware.org/?probe=d4a9fa0324) | May 04, 2020 |
 | HP            | ENVY 17                     | [678613c5fd](https://linux-hardware.org/?probe=678613c5fd) | May 04, 2020 |
 | Lenovo        | ThinkPad X1 Carbon 6th 2... | [f257ddac1a](https://linux-hardware.org/?probe=f257ddac1a) | May 04, 2020 |
 | Acer          | Predator PH315-52           | [7adb1a873c](https://linux-hardware.org/?probe=7adb1a873c) | May 04, 2020 |
 | Acer          | Aspire 5750                 | [1ed47b252b](https://linux-hardware.org/?probe=1ed47b252b) | May 04, 2020 |
 | Acer          | Aspire 5750                 | [97f25e2970](https://linux-hardware.org/?probe=97f25e2970) | May 04, 2020 |
-| Lenovo        | IdeaPad N585                | [8829b5407b](https://linux-hardware.org/?probe=8829b5407b) | May 04, 2020 |
 | HP            | Pavilion Notebook           | [35d925dbae](https://linux-hardware.org/?probe=35d925dbae) | May 04, 2020 |
 | Sony          | SVP13215CDB                 | [c4679545d4](https://linux-hardware.org/?probe=c4679545d4) | May 04, 2020 |
-| Dell          | XPS L502X                   | [b74750881b](https://linux-hardware.org/?probe=b74750881b) | May 03, 2020 |
+| Dell          | System XPS L502X            | [b74750881b](https://linux-hardware.org/?probe=b74750881b) | May 03, 2020 |
 | Positivo      | C14CR21TV                   | [458ec019da](https://linux-hardware.org/?probe=458ec019da) | May 03, 2020 |
 | Lenovo        | Y520-15IKBA 80WY            | [6b2a381c5d](https://linux-hardware.org/?probe=6b2a381c5d) | May 03, 2020 |
 | Notebook      | P7xxTM1                     | [8346e150ad](https://linux-hardware.org/?probe=8346e150ad) | May 03, 2020 |
@@ -1671,9 +1591,8 @@ Pop!_OS 20.04 - Test Cases
 | Lenovo        | IdeaPad N585                | [82f8977e88](https://linux-hardware.org/?probe=82f8977e88) | May 03, 2020 |
 | Google        | Cyan                        | [25d3efe7bc](https://linux-hardware.org/?probe=25d3efe7bc) | May 03, 2020 |
 | Lenovo        | B5400 20278                 | [7c01a074bd](https://linux-hardware.org/?probe=7c01a074bd) | May 03, 2020 |
-| Lenovo        | B5400 20278                 | [dce71e37d0](https://linux-hardware.org/?probe=dce71e37d0) | May 03, 2020 |
 | Lenovo        | B5400 20278                 | [a1563c06b2](https://linux-hardware.org/?probe=a1563c06b2) | May 03, 2020 |
-| HP            | OMEN by HP Laptop 15-ce0... | [e32c5acfe5](https://linux-hardware.org/?probe=e32c5acfe5) | May 03, 2020 |
+| HP            | OMEN by Laptop 15-ce0xx     | [e32c5acfe5](https://linux-hardware.org/?probe=e32c5acfe5) | May 03, 2020 |
 | Lenovo        | B5400 20278                 | [9efb03dc6b](https://linux-hardware.org/?probe=9efb03dc6b) | May 03, 2020 |
 | Dell          | XPS 15 7590                 | [d97ed24fb5](https://linux-hardware.org/?probe=d97ed24fb5) | May 03, 2020 |
 | HP            | Pavilion g4                 | [7fed6506a9](https://linux-hardware.org/?probe=7fed6506a9) | May 02, 2020 |
@@ -1685,15 +1604,12 @@ Pop!_OS 20.04 - Test Cases
 | HP            | ProBook 4740s               | [9d5ffaef1d](https://linux-hardware.org/?probe=9d5ffaef1d) | May 02, 2020 |
 | Dell          | Inspiron 5767               | [32e3129638](https://linux-hardware.org/?probe=32e3129638) | May 02, 2020 |
 | Lenovo        | IdeaPad S540-14API 81NH     | [69942e79bd](https://linux-hardware.org/?probe=69942e79bd) | May 02, 2020 |
-| MSI           | GE62 6QF                    | [8566050749](https://linux-hardware.org/?probe=8566050749) | May 02, 2020 |
-| MSI           | GE62 6QF                    | [f878db654a](https://linux-hardware.org/?probe=f878db654a) | May 02, 2020 |
 | HP            | Laptop 15-bs0xx             | [7fdc3c7af9](https://linux-hardware.org/?probe=7fdc3c7af9) | May 02, 2020 |
 | Sony          | SVP13215PXB                 | [2c61378a7c](https://linux-hardware.org/?probe=2c61378a7c) | May 02, 2020 |
 | Acer          | Aspire VN7-792G             | [b9128d5787](https://linux-hardware.org/?probe=b9128d5787) | May 01, 2020 |
 | Acer          | Aspire VN7-792G             | [c2b23ed5d9](https://linux-hardware.org/?probe=c2b23ed5d9) | May 01, 2020 |
 | Razer         | Blade                       | [295cd53ffd](https://linux-hardware.org/?probe=295cd53ffd) | May 01, 2020 |
 | MSI           | GE62 6QF                    | [650ce68841](https://linux-hardware.org/?probe=650ce68841) | May 01, 2020 |
-| Lenovo        | IdeaPad 530S-14ARR 81H1     | [eabe84a8c7](https://linux-hardware.org/?probe=eabe84a8c7) | Apr 30, 2020 |
 | Lenovo        | IdeaPad 530S-14ARR 81H1     | [87a660b2af](https://linux-hardware.org/?probe=87a660b2af) | Apr 30, 2020 |
 | Acer          | Aspire 9810                 | [2d3698dec2](https://linux-hardware.org/?probe=2d3698dec2) | Apr 22, 2020 |
 

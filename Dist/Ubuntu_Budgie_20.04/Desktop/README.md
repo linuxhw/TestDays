@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 104
+Total: 97
 
 | Vendor    | Model                       | Probe                                                      | Date         |
 |-----------|-----------------------------|------------------------------------------------------------|--------------|
@@ -161,7 +161,6 @@ Total: 104
 | Gigabyte  | 970A-DS3P                   | [eaae14de4f](https://linux-hardware.org/?probe=eaae14de4f) | Mar 05, 2022 |
 | ASUSTek   | ROG STRIX B550-E GAMING     | [7fa418eb00](https://linux-hardware.org/?probe=7fa418eb00) | Feb 25, 2022 |
 | ASUSTek   | M4A87TD/USB3                | [88768afd55](https://linux-hardware.org/?probe=88768afd55) | Feb 10, 2022 |
-| ASUSTek   | M4A87TD/USB3                | [74c94f396f](https://linux-hardware.org/?probe=74c94f396f) | Feb 10, 2022 |
 | Gigabyte  | 970A-DS3P                   | [b96e414ae9](https://linux-hardware.org/?probe=b96e414ae9) | Jan 21, 2022 |
 | Gigabyte  | 970A-DS3P                   | [96047ce382](https://linux-hardware.org/?probe=96047ce382) | Jan 19, 2022 |
 | ASRock    | 4X4-4000 Series             | [172d5b0abc](https://linux-hardware.org/?probe=172d5b0abc) | Jan 12, 2022 |
@@ -176,7 +175,6 @@ Total: 104
 | ASUSTek   | P7P55D                      | [c62d162396](https://linux-hardware.org/?probe=c62d162396) | Aug 02, 2021 |
 | ASUSTek   | PRIME B450M-A               | [7b213037a5](https://linux-hardware.org/?probe=7b213037a5) | Jul 31, 2021 |
 | ASUSTek   | P7P55D                      | [cd96dbf86a](https://linux-hardware.org/?probe=cd96dbf86a) | Jul 30, 2021 |
-| ASUSTek   | P7P55D                      | [4d91af39ee](https://linux-hardware.org/?probe=4d91af39ee) | Jul 30, 2021 |
 | ASUSTek   | P7P55D                      | [b983e48d71](https://linux-hardware.org/?probe=b983e48d71) | Jul 24, 2021 |
 | ASUSTek   | P7P55D                      | [2335f32be7](https://linux-hardware.org/?probe=2335f32be7) | Jul 22, 2021 |
 | ASUSTek   | PRIME B450M-A               | [abea66177f](https://linux-hardware.org/?probe=abea66177f) | Jul 20, 2021 |
@@ -191,14 +189,11 @@ Total: 104
 | ASUSTek   | PRIME B450-PLUS             | [79b5c4e048](https://linux-hardware.org/?probe=79b5c4e048) | Mar 07, 2021 |
 | Unknown   | Unknown                     | [f97163d774](https://linux-hardware.org/?probe=f97163d774) | Feb 24, 2021 |
 | ASUSTek   | ROG STRIX H470-I GAMING     | [f747681c25](https://linux-hardware.org/?probe=f747681c25) | Feb 19, 2021 |
-| ASUSTek   | Maximus VIII IMPACT         | [ffbb4c8bec](https://linux-hardware.org/?probe=ffbb4c8bec) | Feb 17, 2021 |
 | MSI       | A320M PRO-VD PLUS           | [24a9ae34ed](https://linux-hardware.org/?probe=24a9ae34ed) | Feb 13, 2021 |
 | Gigabyte  | B450M DS3H-CF               | [5f9a9ff276](https://linux-hardware.org/?probe=5f9a9ff276) | Feb 13, 2021 |
 | Gigabyte  | B450M DS3H-CF               | [d8069f1e01](https://linux-hardware.org/?probe=d8069f1e01) | Feb 12, 2021 |
 | HP        | 1589                        | [fe93b414cb](https://linux-hardware.org/?probe=fe93b414cb) | Jan 09, 2021 |
 | ASUSTek   | TUF Z370-PLUS GAMING        | [276dda536a](https://linux-hardware.org/?probe=276dda536a) | Jan 06, 2021 |
-| ASUSTek   | TUF Z370-PLUS GAMING        | [e894de170a](https://linux-hardware.org/?probe=e894de170a) | Jan 06, 2021 |
-| ASUSTek   | TUF Z370-PLUS GAMING        | [8c4fc87665](https://linux-hardware.org/?probe=8c4fc87665) | Jan 02, 2021 |
 | ASUSTek   | TUF Z370-PLUS GAMING        | [a80e8c5eb0](https://linux-hardware.org/?probe=a80e8c5eb0) | Jan 02, 2021 |
 | Gigabyte  | B550I AORUS PRO AX          | [1effa5938b](https://linux-hardware.org/?probe=1effa5938b) | Dec 31, 2020 |
 | Gigabyte  | B550M AORUS PRO-P           | [c32461bc20](https://linux-hardware.org/?probe=c32461bc20) | Dec 19, 2020 |
@@ -252,9 +247,7 @@ Total: 104
 | Dell      | 0TNXNR A01                  | [c16ecd859c](https://linux-hardware.org/?probe=c16ecd859c) | May 11, 2020 |
 | Lenovo    | 3704 SDK0R32862 WIN 3258... | [eb7d6f2ec3](https://linux-hardware.org/?probe=eb7d6f2ec3) | May 10, 2020 |
 | Biostar   | G31-M7 TE                   | [e9d31442df](https://linux-hardware.org/?probe=e9d31442df) | May 09, 2020 |
-| Gigabyte  | Z68M-D2H                    | [6fc5f4e0be](https://linux-hardware.org/?probe=6fc5f4e0be) | May 06, 2020 |
 | ASRock    | B450 Gaming-ITX/ac          | [2e108e8f82](https://linux-hardware.org/?probe=2e108e8f82) | May 06, 2020 |
-| Gigabyte  | Z68M-D2H                    | [1778c8dba1](https://linux-hardware.org/?probe=1778c8dba1) | May 03, 2020 |
 | MSI       | MEG Z390 GODLIKE            | [f5c70a1643](https://linux-hardware.org/?probe=f5c70a1643) | Apr 30, 2020 |
 | ASUSTek   | TUF B450-PLUS GAMING        | [6982ff0a12](https://linux-hardware.org/?probe=6982ff0a12) | Apr 25, 2020 |
 | Gigabyte  | Z68M-D2H                    | [3db29a7f67](https://linux-hardware.org/?probe=3db29a7f67) | Apr 12, 2020 |
@@ -275,49 +268,49 @@ Version of the Linux kernel
 
 | Version                 | Desktops | Percent |
 |-------------------------|----------|---------|
-| 5.4.0-42-generic        | 7        | 9.72%   |
-| 5.4.0-52-generic        | 4        | 5.56%   |
-| 5.4.0-48-generic        | 4        | 5.56%   |
-| 5.4.0-45-generic        | 4        | 5.56%   |
-| 5.4.0-37-generic        | 4        | 5.56%   |
-| 5.4.0-29-generic        | 4        | 5.56%   |
-| 5.4.0-47-generic        | 3        | 4.17%   |
-| 5.8.0-59-generic        | 2        | 2.78%   |
-| 5.4.0-91-generic        | 2        | 2.78%   |
-| 5.4.0-72-generic        | 2        | 2.78%   |
-| 5.4.0-65-generic        | 2        | 2.78%   |
-| 5.4.0-59-generic        | 2        | 2.78%   |
-| 5.4.0-40-generic        | 2        | 2.78%   |
-| 5.9.1-050901-generic    | 1        | 1.39%   |
-| 5.8.0-59-lowlatency     | 1        | 1.39%   |
-| 5.8.0-45-generic        | 1        | 1.39%   |
-| 5.8.0-44-generic        | 1        | 1.39%   |
-| 5.8.0-43-generic        | 1        | 1.39%   |
-| 5.7.7-xanmod1           | 1        | 1.39%   |
-| 5.5.8-050508-lowlatency | 1        | 1.39%   |
-| 5.4.0-96-generic        | 1        | 1.39%   |
-| 5.4.0-80-generic        | 1        | 1.39%   |
-| 5.4.0-70-generic        | 1        | 1.39%   |
-| 5.4.0-67-generic        | 1        | 1.39%   |
-| 5.4.0-66-generic        | 1        | 1.39%   |
-| 5.4.0-58-generic        | 1        | 1.39%   |
-| 5.4.0-44-generic        | 1        | 1.39%   |
-| 5.4.0-39-generic        | 1        | 1.39%   |
-| 5.4.0-31-generic        | 1        | 1.39%   |
-| 5.4.0-29-lowlatency     | 1        | 1.39%   |
-| 5.4.0-28-generic        | 1        | 1.39%   |
-| 5.4.0-26-generic        | 1        | 1.39%   |
-| 5.4.0-24-generic        | 1        | 1.39%   |
-| 5.4.0-18-generic        | 1        | 1.39%   |
-| 5.4.0-16-generic        | 1        | 1.39%   |
-| 5.4.0-14-generic        | 1        | 1.39%   |
-| 5.4.0-102-generic       | 1        | 1.39%   |
-| 5.13.0-39-generic       | 1        | 1.39%   |
-| 5.13.0-30-generic       | 1        | 1.39%   |
-| 5.11.0-46-generic       | 1        | 1.39%   |
-| 5.11.0-41-generic       | 1        | 1.39%   |
-| 5.11.0-38-generic       | 1        | 1.39%   |
-| 5.11.0-37-generic       | 1        | 1.39%   |
+| 5.4.0-42-generic        | 7        | 9.86%   |
+| 5.4.0-52-generic        | 4        | 5.63%   |
+| 5.4.0-48-generic        | 4        | 5.63%   |
+| 5.4.0-45-generic        | 4        | 5.63%   |
+| 5.4.0-37-generic        | 4        | 5.63%   |
+| 5.4.0-47-generic        | 3        | 4.23%   |
+| 5.4.0-29-generic        | 3        | 4.23%   |
+| 5.8.0-59-generic        | 2        | 2.82%   |
+| 5.4.0-91-generic        | 2        | 2.82%   |
+| 5.4.0-72-generic        | 2        | 2.82%   |
+| 5.4.0-59-generic        | 2        | 2.82%   |
+| 5.4.0-40-generic        | 2        | 2.82%   |
+| 5.4.0-31-generic        | 2        | 2.82%   |
+| 5.9.1-050901-generic    | 1        | 1.41%   |
+| 5.8.0-59-lowlatency     | 1        | 1.41%   |
+| 5.8.0-45-generic        | 1        | 1.41%   |
+| 5.8.0-44-generic        | 1        | 1.41%   |
+| 5.8.0-43-generic        | 1        | 1.41%   |
+| 5.7.7-xanmod1           | 1        | 1.41%   |
+| 5.5.8-050508-lowlatency | 1        | 1.41%   |
+| 5.4.0-96-generic        | 1        | 1.41%   |
+| 5.4.0-80-generic        | 1        | 1.41%   |
+| 5.4.0-70-generic        | 1        | 1.41%   |
+| 5.4.0-67-generic        | 1        | 1.41%   |
+| 5.4.0-66-generic        | 1        | 1.41%   |
+| 5.4.0-65-generic        | 1        | 1.41%   |
+| 5.4.0-58-generic        | 1        | 1.41%   |
+| 5.4.0-44-generic        | 1        | 1.41%   |
+| 5.4.0-39-generic        | 1        | 1.41%   |
+| 5.4.0-29-lowlatency     | 1        | 1.41%   |
+| 5.4.0-28-generic        | 1        | 1.41%   |
+| 5.4.0-26-generic        | 1        | 1.41%   |
+| 5.4.0-24-generic        | 1        | 1.41%   |
+| 5.4.0-18-generic        | 1        | 1.41%   |
+| 5.4.0-16-generic        | 1        | 1.41%   |
+| 5.4.0-14-generic        | 1        | 1.41%   |
+| 5.4.0-102-generic       | 1        | 1.41%   |
+| 5.13.0-39-generic       | 1        | 1.41%   |
+| 5.13.0-30-generic       | 1        | 1.41%   |
+| 5.11.0-46-generic       | 1        | 1.41%   |
+| 5.11.0-41-generic       | 1        | 1.41%   |
+| 5.11.0-38-generic       | 1        | 1.41%   |
+| 5.11.0-37-generic       | 1        | 1.41%   |
 
 Kernel Family
 -------------
@@ -751,12 +744,12 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 2.01-3.0   | 23       | 33.82%  |
-| 4.01-8.0   | 17       | 25%     |
-| 1.01-2.0   | 13       | 19.12%  |
-| 3.01-4.0   | 10       | 14.71%  |
-| 8.01-16.0  | 4        | 5.88%   |
-| 32.01-64.0 | 1        | 1.47%   |
+| 2.01-3.0   | 23       | 34.33%  |
+| 4.01-8.0   | 17       | 25.37%  |
+| 1.01-2.0   | 12       | 17.91%  |
+| 3.01-4.0   | 10       | 14.93%  |
+| 8.01-16.0  | 4        | 5.97%   |
+| 32.01-64.0 | 1        | 1.49%   |
 
 Total Drives
 ------------
@@ -875,67 +868,67 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City              | Desktops | Percent |
-|-------------------|----------|---------|
-| Miami             | 2        | 3.17%   |
-| MaringГЎ        | 2        | 3.17%   |
-| Dallas            | 2        | 3.17%   |
-| Berlin            | 2        | 3.17%   |
-| Zapopan           | 1        | 1.59%   |
-| Zagreb            | 1        | 1.59%   |
-| Versailles        | 1        | 1.59%   |
-| Uman              | 1        | 1.59%   |
-| Trondheim         | 1        | 1.59%   |
-| Tijuana           | 1        | 1.59%   |
-| Ternopil          | 1        | 1.59%   |
-| Talcahuano        | 1        | 1.59%   |
-| Szentendre        | 1        | 1.59%   |
-| Sydney            | 1        | 1.59%   |
-| Stara Zagora      | 1        | 1.59%   |
-| Smithville        | 1        | 1.59%   |
-| Santo AndrГ©    | 1        | 1.59%   |
-| QuГ©bec         | 1        | 1.59%   |
-| Queens            | 1        | 1.59%   |
-| Pouso Alegre      | 1        | 1.59%   |
-| Poplarville       | 1        | 1.59%   |
-| Pocono Summit     | 1        | 1.59%   |
-| Petaбє– Tiqwa | 1        | 1.59%   |
-| Perth             | 1        | 1.59%   |
-| Paulhe            | 1        | 1.59%   |
-| Paris             | 1        | 1.59%   |
-| Palm Springs      | 1        | 1.59%   |
-| Paderborn         | 1        | 1.59%   |
-| New York          | 1        | 1.59%   |
-| New Milford       | 1        | 1.59%   |
-| Natal             | 1        | 1.59%   |
-| Mainburg          | 1        | 1.59%   |
-| Ljungby           | 1        | 1.59%   |
-| Laupen            | 1        | 1.59%   |
-| La Paz            | 1        | 1.59%   |
-| Kirov             | 1        | 1.59%   |
-| Jeddah            | 1        | 1.59%   |
-| Hamburg           | 1        | 1.59%   |
-| Halle             | 1        | 1.59%   |
-| Grabenstatt       | 1        | 1.59%   |
-| Genoa             | 1        | 1.59%   |
-| Gainesville       | 1        | 1.59%   |
-| Emsdetten         | 1        | 1.59%   |
-| Dresden           | 1        | 1.59%   |
-| Dour              | 1        | 1.59%   |
-| Dickson           | 1        | 1.59%   |
-| Connewarre        | 1        | 1.59%   |
-| Chang-hua         | 1        | 1.59%   |
-| Burnaby           | 1        | 1.59%   |
-| BogotГЎ         | 1        | 1.59%   |
-| BogotÃ¡         | 1        | 1.59%   |
-| Belfast           | 1        | 1.59%   |
-| Bauru             | 1        | 1.59%   |
-| Barcelona         | 1        | 1.59%   |
-| Baltimore         | 1        | 1.59%   |
-| Aslonnes          | 1        | 1.59%   |
-| Arnold            | 1        | 1.59%   |
-| Anjo              | 1        | 1.59%   |
-| Unknown           | 1        | 1.59%   |
+| City                  | Desktops | Percent |
+|-----------------------|----------|---------|
+| Miami                 | 2        | 3.17%   |
+| Maringá              | 2        | 3.17%   |
+| Dallas                | 2        | 3.17%   |
+| Bogotá               | 2        | 3.17%   |
+| Zagreb                | 1        | 1.59%   |
+| Uman                  | 1        | 1.59%   |
+| Trondheim             | 1        | 1.59%   |
+| Traunstein            | 1        | 1.59%   |
+| Tobyhanna             | 1        | 1.59%   |
+| Tijuana               | 1        | 1.59%   |
+| Sydney                | 1        | 1.59%   |
+| Stara Zagora          | 1        | 1.59%   |
+| Smithville            | 1        | 1.59%   |
+| Seraing               | 1        | 1.59%   |
+| Senaide               | 1        | 1.59%   |
+| Seminary              | 1        | 1.59%   |
+| Sao Caetano do Sul    | 1        | 1.59%   |
+| Sao Bernardo do Campo | 1        | 1.59%   |
+| Santa Cruz            | 1        | 1.59%   |
+| San Pedro de la Paz   | 1        | 1.59%   |
+| Salach                | 1        | 1.59%   |
+| Queens                | 1        | 1.59%   |
+| Pouso Alegre          | 1        | 1.59%   |
+| Pomaz                 | 1        | 1.59%   |
+| Petaẖ Tiqwa         | 1        | 1.59%   |
+| Perth                 | 1        | 1.59%   |
+| Paris                 | 1        | 1.59%   |
+| Palm Springs          | 1        | 1.59%   |
+| Paderborn             | 1        | 1.59%   |
+| New York              | 1        | 1.59%   |
+| New Milford           | 1        | 1.59%   |
+| Natal                 | 1        | 1.59%   |
+| Nagoya                | 1        | 1.59%   |
+| Münster              | 1        | 1.59%   |
+| Montreal              | 1        | 1.59%   |
+| Mainburg              | 1        | 1.59%   |
+| Ljungby               | 1        | 1.59%   |
+| Leopold               | 1        | 1.59%   |
+| Kirov                 | 1        | 1.59%   |
+| Jeddah                | 1        | 1.59%   |
+| Imperial              | 1        | 1.59%   |
+| Hamburg               | 1        | 1.59%   |
+| Halle                 | 1        | 1.59%   |
+| Gustavo Adolfo Madero | 1        | 1.59%   |
+| Grimma                | 1        | 1.59%   |
+| Genoa                 | 1        | 1.59%   |
+| Gainesville           | 1        | 1.59%   |
+| Düdingen             | 1        | 1.59%   |
+| Dresden               | 1        | 1.59%   |
+| Dnipro                | 1        | 1.59%   |
+| Dickson               | 1        | 1.59%   |
+| Chang-hua             | 1        | 1.59%   |
+| Burnaby               | 1        | 1.59%   |
+| Bouliac               | 1        | 1.59%   |
+| Berlin                | 1        | 1.59%   |
+| Belfast               | 1        | 1.59%   |
+| Barcelona             | 1        | 1.59%   |
+| Baltimore             | 1        | 1.59%   |
+| Argences en Aubrac    | 1        | 1.59%   |
 
 Drives
 ------
@@ -952,7 +945,7 @@ Hard drive vendors
 |---------------------------|----------|--------|---------|
 | WDC                       | 23       | 38     | 18.25%  |
 | Samsung Electronics       | 20       | 28     | 15.87%  |
-| Seagate                   | 19       | 35     | 15.08%  |
+| Seagate                   | 19       | 33     | 15.08%  |
 | Kingston                  | 10       | 16     | 7.94%   |
 | SanDisk                   | 8        | 11     | 6.35%   |
 | Toshiba                   | 6        | 6      | 4.76%   |
@@ -1036,7 +1029,7 @@ Hard drive models
 | WDC WD10EZEX-22BN5A0 1TB            | 1        | 0.65%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 0.65%   |
 | WDC WD1003FZEX-00K3CA0 1TB          | 1        | 0.65%   |
-| Unknown SD/MMC/MS PRO 16GB          | 1        | 0.65%   |
+| Unknown SD/MMC/MS PRO 999GB         | 1        | 0.65%   |
 | Unknown SD/MMC 16GB                 | 1        | 0.65%   |
 | Unknown M.S./M.S.Pro/HG 16GB        | 1        | 0.65%   |
 | Transcend TS256GSSD370 256GB        | 1        | 0.65%   |
@@ -1063,7 +1056,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 20       | 34     | 35.71%  |
-| Seagate             | 19       | 35     | 33.93%  |
+| Seagate             | 19       | 33     | 33.93%  |
 | Toshiba             | 6        | 6      | 10.71%  |
 | Hitachi             | 3        | 3      | 5.36%   |
 | HGST                | 3        | 4      | 5.36%   |
@@ -1110,7 +1103,7 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 45       | 90     | 43.27%  |
+| HDD     | 45       | 88     | 43.27%  |
 | SSD     | 36       | 68     | 34.62%  |
 | NVMe    | 19       | 27     | 18.27%  |
 | Unknown | 4        | 5      | 3.85%   |
@@ -1125,7 +1118,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 57       | 158    | 72.15%  |
+| SATA | 57       | 156    | 72.15%  |
 | NVMe | 19       | 27     | 24.05%  |
 | SAS  | 3        | 5      | 3.8%    |
 
@@ -1139,11 +1132,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 45       | 90     | 51.72%  |
-| 0.51-1.0   | 22       | 33     | 25.29%  |
-| 1.01-2.0   | 11       | 21     | 12.64%  |
-| 3.01-4.0   | 6        | 10     | 6.9%    |
-| 4.01-10.0  | 3        | 4      | 3.45%   |
+| 0.01-0.5   | 44       | 90     | 51.16%  |
+| 0.51-1.0   | 22       | 31     | 25.58%  |
+| 1.01-2.0   | 11       | 21     | 12.79%  |
+| 3.01-4.0   | 6        | 10     | 6.98%   |
+| 4.01-10.0  | 3        | 4      | 3.49%   |
 
 Space Total
 -----------
@@ -1276,7 +1269,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 44       | 124    | 61.97%  |
+| Detected | 44       | 122    | 61.97%  |
 | Works    | 17       | 50     | 23.94%  |
 | Malfunc  | 10       | 16     | 14.08%  |
 
@@ -1385,11 +1378,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 49       | 55.06%  |
-| NVMe | 19       | 21.35%  |
-| IDE  | 14       | 15.73%  |
-| RAID | 6        | 6.74%   |
-| SAS  | 1        | 1.12%   |
+| SATA | 49       | 55.68%  |
+| NVMe | 19       | 21.59%  |
+| IDE  | 13       | 14.77%  |
+| RAID | 6        | 6.82%   |
+| SAS  | 1        | 1.14%   |
 
 Processor
 ---------
@@ -1793,7 +1786,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM05CD 1920x1080                        | 1        | 1.33%   |
 | Samsung Electronics SyncMaster SAM0587 1920x1200 518x324mm 24.1-inch    | 1        | 1.33%   |
 | Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch    | 1        | 1.33%   |
-| Samsung Electronics S34J55x SAM0F72 3440x1440 800x330mm 34.1-inch       | 1        | 1.33%   |
+| Samsung Electronics S34J55x SAM0F72 3440x1440 797x333mm 34.0-inch       | 1        | 1.33%   |
 | Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch       | 1        | 1.33%   |
 | Samsung Electronics S24C650 SAM09E9 1920x1080 521x293mm 23.5-inch       | 1        | 1.33%   |
 | Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch       | 1        | 1.33%   |
@@ -1820,7 +1813,7 @@ Monitor models
 | Hewlett-Packard w185e HWP292E 1366x768 410x230mm 18.5-inch              | 1        | 1.33%   |
 | Hewlett-Packard LCD Monitor LP3065 2560x1600                            | 1        | 1.33%   |
 | Hewlett-Packard L1940T HWP2682 1280x1024 338x270mm 17.0-inch            | 1        | 1.33%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch                | 1        | 1.33%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.33%   |
 | Goldstar L1919S GSM4AF0 1280x1024 376x301mm 19.0-inch                   | 1        | 1.33%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 1        | 1.33%   |
 | Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                   | 1        | 1.33%   |
@@ -2214,8 +2207,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 50       | 63.29%  |
-| WiFi     | 29       | 36.71%  |
+| Ethernet | 46       | 67.65%  |
+| WiFi     | 22       | 32.35%  |
 
 NICs
 ----
@@ -2418,39 +2411,39 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Corsair RAM CMW32GX4M2C3200C16 16384MB DIMM DDR4 3200MT/s | 2        | 6.25%   |
-| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s              | 1        | 3.13%   |
-| Unknown RAM Module 4096MB DIMM DDR 1066MT/s               | 1        | 3.13%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                      | 1        | 3.13%   |
-| Unknown RAM Module 2048MB DIMM DDR 1333MT/s               | 1        | 3.13%   |
-| Unknown RAM Module 2048MB DIMM DDR 1066MT/s               | 1        | 3.13%   |
-| TIMETEC RAM ED3-1600 8192MB DIMM DDR3 1600MT/s            | 1        | 3.13%   |
-| Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 3007MT/s     | 1        | 3.13%   |
-| SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s           | 1        | 3.13%   |
-| SK Hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s   | 1        | 3.13%   |
-| Sesame RAM S939A2UGS-ITR 8192MB DIMM DDR3 1600MT/s        | 1        | 3.13%   |
-| Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s    | 1        | 3.13%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s    | 1        | 3.13%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 667MT/s       | 1        | 3.13%   |
-| Kingston RAM KHX2133C11D3/4GX 4096MB DIMM DDR3 2134MT/s   | 1        | 3.13%   |
-| Kingston RAM KHX1600C10D3/4G 4096MB DIMM DDR3 1866MT/s    | 1        | 3.13%   |
-| Kingston RAM KHX1600C10D3/ 4GB DIMM DDR3 1600MT/s         | 1        | 3.13%   |
-| Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 3.13%   |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s     | 1        | 3.13%   |
-| Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
-| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3200MT/s    | 1        | 3.13%   |
-| G.Skill RAM F4-3200C16-8GVK 8192MB DIMM DDR4 3200MT/s     | 1        | 3.13%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s       | 1        | 3.13%   |
-| G.Skill RAM F3-1600C11-4GNT 4GB DIMM DDR3 1600MT/s        | 1        | 3.13%   |
-| Crucial RAM CT4G4DFS824A.M8FB 4GB DIMM DDR4 2400MT/s      | 1        | 3.13%   |
-| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
-| Crucial RAM BLT8G3D1608DT1TX0. 8GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
-| Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s     | 1        | 3.13%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s     | 1        | 3.13%   |
-| Corsair RAM CMD16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s     | 1        | 3.13%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s               | 1        | 3.13%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s  | 2        | 6.25%   |
+| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s            | 1        | 3.13%   |
+| Unknown RAM Module 4096MB DIMM DDR 1066MT/s             | 1        | 3.13%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                    | 1        | 3.13%   |
+| Unknown RAM Module 2048MB DIMM DDR 1333MT/s             | 1        | 3.13%   |
+| Unknown RAM Module 2048MB DIMM DDR 1066MT/s             | 1        | 3.13%   |
+| TIMETEC RAM ED3-1600 8192MB DIMM DDR3 1600MT/s          | 1        | 3.13%   |
+| Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 3007MT/s   | 1        | 3.13%   |
+| SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s         | 1        | 3.13%   |
+| SK Hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s | 1        | 3.13%   |
+| Sesame RAM S939A2UGS-ITR 8192MB DIMM DDR3 1600MT/s      | 1        | 3.13%   |
+| Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s  | 1        | 3.13%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s  | 1        | 3.13%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s     | 1        | 3.13%   |
+| Kingston RAM KHX2133C11D3/4GX 4GB DIMM DDR3 2134MT/s    | 1        | 3.13%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s     | 1        | 3.13%   |
+| Kingston RAM KHX1600C10D3/ 8192MB DIMM DDR3 1600MT/s    | 1        | 3.13%   |
+| Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 3.13%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s   | 1        | 3.13%   |
+| Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 3.13%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s     | 1        | 3.13%   |
+| G.Skill RAM F4-3200C16-8GVK 8192MB DIMM DDR4 3200MT/s   | 1        | 3.13%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s     | 1        | 3.13%   |
+| G.Skill RAM F3-1600C11-4GNT 4GB DIMM DDR3 1600MT/s      | 1        | 3.13%   |
+| Crucial RAM CT4G4DFS824A.M8FB 4GB DIMM DDR4 2400MT/s    | 1        | 3.13%   |
+| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s   | 1        | 3.13%   |
+| Crucial RAM BLT8G3D1608DT1TX0. 8GB DIMM DDR3 1600MT/s   | 1        | 3.13%   |
+| Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s   | 1        | 3.13%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s   | 1        | 3.13%   |
+| Corsair RAM CMD16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 1        | 3.13%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s             | 1        | 3.13%   |
 
 Memory Kind
 -----------
@@ -2596,22 +2589,22 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Logitech Webcam C270                     | 2        | 12.5%   |
-| Logitech Webcam B500                     | 2        | 12.5%   |
-| Sunplus Full HD webcam                   | 1        | 6.25%   |
-| Realtek Web Camera                       | 1        | 6.25%   |
-| OPPO Reno4 5G                            | 1        | 6.25%   |
-| Microsoft LifeCam HD-3000                | 1        | 6.25%   |
-| Logitech Webcam C925e                    | 1        | 6.25%   |
-| Logitech Webcam C170                     | 1        | 6.25%   |
-| Logitech Logitech Webcam C160            | 1        | 6.25%   |
-| Logitech HD Pro Webcam C920              | 1        | 6.25%   |
-| LG Optimus (Various Models) MTP Mode     | 1        | 6.25%   |
-| Guillemot Hercules HD Sunset             | 1        | 6.25%   |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 6.25%   |
-| Cubeternet GL-UPC822 UVC WebCam          | 1        | 6.25%   |
+| Model                                | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| Logitech Webcam C270                 | 2        | 12.5%   |
+| Logitech Webcam B500                 | 2        | 12.5%   |
+| Sunplus HD 720P webcam               | 1        | 6.25%   |
+| Realtek Web Camera                   | 1        | 6.25%   |
+| OPPO Reno4 5G                        | 1        | 6.25%   |
+| Microsoft LifeCam HD-3000            | 1        | 6.25%   |
+| Logitech Webcam C925e                | 1        | 6.25%   |
+| Logitech Webcam C170                 | 1        | 6.25%   |
+| Logitech Logitech Webcam C160        | 1        | 6.25%   |
+| Logitech HD Pro Webcam C920          | 1        | 6.25%   |
+| LG Optimus (Various Models) MTP Mode | 1        | 6.25%   |
+| Guillemot Hercules HD Sunset         | 1        | 6.25%   |
+| Generalplus 808 Camera               | 1        | 6.25%   |
+| Cubeternet GL-UPC822 UVC WebCam      | 1        | 6.25%   |
 
 Security
 --------

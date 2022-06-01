@@ -184,7 +184,7 @@ Total: 43
 | Gigabyte | X570 GAMING X               | Desktop     | [b751f6615d](https://linux-hardware.org/?probe=b751f6615d) | Jul 17, 2021 |
 | Gigabyte | B450M S2H V2                | Desktop     | [d8886335b1](https://linux-hardware.org/?probe=d8886335b1) | Jul 10, 2021 |
 | Intel    | X79                         | Desktop     | [9f19896285](https://linux-hardware.org/?probe=9f19896285) | May 13, 2021 |
-| Lenovo   | IdeaPad Flex 5 14IIL05 8... | Convertible | [35876a09ad](https://linux-hardware.org/?probe=35876a09ad) | May 09, 2021 |
+| Lenovo   | IdeaPadFlex 5 14IIL05 81... | Convertible | [35876a09ad](https://linux-hardware.org/?probe=35876a09ad) | May 09, 2021 |
 | HP       | ProBook 430 G3              | Notebook    | [c3acaeb030](https://linux-hardware.org/?probe=c3acaeb030) | Apr 26, 2021 |
 | HP       | ProBook 430 G3              | Notebook    | [de3298645e](https://linux-hardware.org/?probe=de3298645e) | Apr 26, 2021 |
 | Toshiba  | Satellite C55-A-1F5         | Notebook    | [d7b4bf2642](https://linux-hardware.org/?probe=d7b4bf2642) | Apr 15, 2021 |
@@ -198,7 +198,7 @@ Total: 43
 | Unknown  | Unknown                     | Notebook    | [1c5ed732c5](https://linux-hardware.org/?probe=1c5ed732c5) | Mar 01, 2021 |
 | Dell     | Precision M6800             | Notebook    | [95fa029c09](https://linux-hardware.org/?probe=95fa029c09) | Jan 14, 2021 |
 | Dell     | Inspiron 5566               | Notebook    | [a3fd17119a](https://linux-hardware.org/?probe=a3fd17119a) | Nov 03, 2020 |
-| Chuwi    | LarkBox                     | Desktop     | [c7f6fd9a66](https://linux-hardware.org/?probe=c7f6fd9a66) | Oct 21, 2020 |
+| Chuwi    | LarkBox                     | Mini pc     | [c7f6fd9a66](https://linux-hardware.org/?probe=c7f6fd9a66) | Oct 21, 2020 |
 | HP       | Pavilion 17                 | Notebook    | [edc8ed595b](https://linux-hardware.org/?probe=edc8ed595b) | Oct 12, 2020 |
 | Acer     | Aspire GX-781               | Desktop     | [159afb32c1](https://linux-hardware.org/?probe=159afb32c1) | Oct 10, 2020 |
 | ASUSTek  | SABERTOOTH X79              | Desktop     | [17acfc90d4](https://linux-hardware.org/?probe=17acfc90d4) | Oct 07, 2020 |
@@ -468,9 +468,9 @@ Motherboard model
 | Toshiba Satellite C55-A-1F5            | 1         | 2.86%   |
 | Lenovo Yoga Slim 7 14ARE05 82A2        | 1         | 2.86%   |
 | Lenovo ThinkPad Edge E531 68851P6      | 1         | 2.86%   |
+| Lenovo IdeaPadFlex 5 14IIL05 81X1      | 1         | 2.86%   |
 | Lenovo IdeaPad S340-14API 81NB         | 1         | 2.86%   |
 | Lenovo IdeaPad S145-15IWL 81S9         | 1         | 2.86%   |
-| Lenovo IdeaPad Flex 5 14IIL05 81X1     | 1         | 2.86%   |
 | Lenovo IdeaCentre 3 07IMB05 90NB0020IN | 1         | 2.86%   |
 | Intel X79                              | 1         | 2.86%   |
 | HP ProBook 430 G3                      | 1         | 2.86%   |
@@ -510,12 +510,13 @@ Motherboard model prefix
 | Name               | Computers | Percent |
 |--------------------|-----------|---------|
 | HP Pavilion        | 5         | 14.29%  |
-| Lenovo IdeaPad     | 3         | 8.57%   |
+| Lenovo IdeaPad     | 2         | 5.71%   |
 | Dell Inspiron      | 2         | 5.71%   |
 | ASUS PRIME         | 2         | 5.71%   |
 | Toshiba Satellite  | 1         | 2.86%   |
 | Lenovo Yoga        | 1         | 2.86%   |
 | Lenovo ThinkPad    | 1         | 2.86%   |
+| Lenovo IdeaPadFlex | 1         | 2.86%   |
 | Lenovo IdeaCentre  | 1         | 2.86%   |
 | Intel X79          | 1         | 2.86%   |
 | HP ProBook         | 1         | 2.86%   |
@@ -548,14 +549,14 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2020 | 7         | 20%     |
-| 2019 | 7         | 20%     |
+| 2019 | 6         | 17.14%  |
 | 2013 | 6         | 17.14%  |
 | 2017 | 3         | 8.57%   |
 | 2015 | 3         | 8.57%   |
 | 2014 | 3         | 8.57%   |
 | 2012 | 3         | 8.57%   |
+| 2018 | 2         | 5.71%   |
 | 2016 | 2         | 5.71%   |
-| 2018 | 1         | 2.86%   |
 
 Form Factor
 -----------
@@ -568,8 +569,9 @@ Physical design of the computer
 | Name        | Computers | Percent |
 |-------------|-----------|---------|
 | Notebook    | 22        | 62.86%  |
-| Desktop     | 11        | 31.43%  |
+| Desktop     | 10        | 28.57%  |
 | Convertible | 1         | 2.86%   |
+| Mini pc     | 1         | 2.86%   |
 | All in one  | 1         | 2.86%   |
 
 Secure Boot
@@ -740,16 +742,18 @@ Geographic location (city)
 | City                | Computers | Percent |
 |---------------------|-----------|---------|
 | Vancouver           | 2         | 5.71%   |
+| Santiago            | 2         | 5.71%   |
+| Waldachtal          | 1         | 2.86%   |
 | Verden an der Aller | 1         | 2.86%   |
 | Uruguaiana          | 1         | 2.86%   |
 | Tyumen              | 1         | 2.86%   |
 | Talence             | 1         | 2.86%   |
-| Sobral              | 1         | 2.86%   |
 | Skydra              | 1         | 2.86%   |
-| Santiago            | 1         | 2.86%   |
+| San Salvador        | 1         | 2.86%   |
 | Rio de Janeiro      | 1         | 2.86%   |
 | Prague              | 1         | 2.86%   |
 | Pori                | 1         | 2.86%   |
+| Parempuyre          | 1         | 2.86%   |
 | Ottawa              | 1         | 2.86%   |
 | Novoyavorovske      | 1         | 2.86%   |
 | Novi Sad            | 1         | 2.86%   |
@@ -762,17 +766,14 @@ Geographic location (city)
 | Krasnoyarsk         | 1         | 2.86%   |
 | Kolkata             | 1         | 2.86%   |
 | Kalispell           | 1         | 2.86%   |
-| Grandview           | 1         | 2.86%   |
-| Glatten             | 1         | 2.86%   |
+| Juazeiro do Norte   | 1         | 2.86%   |
 | Columbia            | 1         | 2.86%   |
 | Castelnau-le-Lez    | 1         | 2.86%   |
 | Budapest            | 1         | 2.86%   |
 | Bratislava          | 1         | 2.86%   |
+| Belton              | 1         | 2.86%   |
 | Baghdad             | 1         | 2.86%   |
-| Arica               | 1         | 2.86%   |
-| Antiguo Cuscatlan   | 1         | 2.86%   |
 | Abu Dhabi           | 1         | 2.86%   |
-| Abbeville           | 1         | 2.86%   |
 
 Drives
 ------
@@ -1452,7 +1453,7 @@ Monitor models
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch    | 1         | 2.63%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 1         | 2.63%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1         | 2.63%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1         | 2.63%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch              | 1         | 2.63%   |
 | LG Display LCD Monitor LGD05EC 1920x1080 309x174mm 14.0-inch         | 1         | 2.63%   |
 | LG Display LCD Monitor LGD04B3 1920x1080 345x194mm 15.6-inch         | 1         | 2.63%   |
 | LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch          | 1         | 2.63%   |
@@ -1461,7 +1462,7 @@ Monitor models
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 2.63%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                  | 1         | 2.63%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch              | 1         | 2.63%   |
-| Dell P2421D DELD0FF 2560x1440 530x300mm 24.0-inch                    | 1         | 2.63%   |
+| Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                    | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch      | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN15BB 1920x1080 344x194mm 15.5-inch     | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN1406 1920x1080 309x173mm 13.9-inch     | 1         | 2.63%   |
@@ -1658,7 +1659,7 @@ Controller models
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.56%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.56%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.56%   |
-| Motorola PCS moto g power (2021)                                  | 1         | 1.56%   |
+| Motorola PCS motorola edge 20 fusion                              | 1         | 1.56%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.56%   |
 | Intel Wireless 3165                                               | 1         | 1.56%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                   | 1         | 1.56%   |
@@ -1669,7 +1670,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.56%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.56%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.56%   |
-| Google Pixel 6 Pro                                                | 1         | 1.56%   |
+| Google Pixel 6                                                    | 1         | 1.56%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 1.56%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.56%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 1.56%   |
@@ -1769,7 +1770,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 1         | 3.13%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 3.13%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 3.13%   |
-| Google Pixel 6 Pro                                                | 1         | 3.13%   |
+| Google Pixel 6                                                    | 1         | 3.13%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 3.13%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 3.13%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 3.13%   |
@@ -1799,8 +1800,8 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 27        | 64.29%  |
-| WiFi     | 15        | 35.71%  |
+| Ethernet | 20        | 58.82%  |
+| WiFi     | 14        | 41.18%  |
 
 NICs
 ----
@@ -1862,19 +1863,18 @@ Controller models
 
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
+| Qualcomm Atheros  Bluetooth Device             | 4         | 16%     |
 | Realtek Bluetooth Radio                        | 3         | 12%     |
-| Qualcomm Atheros  Bluetooth Device             | 3         | 12%     |
 | Realtek  Bluetooth 4.2 Adapter                 | 2         | 8%      |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device   | 2         | 8%      |
 | Intel Bluetooth wireless interface             | 2         | 8%      |
 | Toshiba Bluetooth Device                       | 1         | 4%      |
-| Realtek RTL8821A Bluetooth                     | 1         | 4%      |
-| Qualcomm Atheros AR9462 Bluetooth              | 1         | 4%      |
+| Realtek 802.11ac WLAN Adapter                  | 1         | 4%      |
 | Lite-On Bluetooth Device                       | 1         | 4%      |
 | Intel Wireless-AC 9260 Bluetooth Adapter       | 1         | 4%      |
 | Intel Wireless-AC 3168 Bluetooth               | 1         | 4%      |
-| Intel Bluetooth Device                         | 1         | 4%      |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 4%      |
+| Intel AX201 Bluetooth                          | 1         | 4%      |
 | Intel AX200 Bluetooth                          | 1         | 4%      |
 | Dell Broadcom BCM20702A0 Bluetooth             | 1         | 4%      |
 | ASUS Broadcom BCM20702A0 Bluetooth             | 1         | 4%      |
@@ -2073,9 +2073,9 @@ Camera device vendors
 | Microdia                               | 2         | 8%      |
 | Logitech                               | 2         | 8%      |
 | Apple                                  | 2         | 8%      |
-| webcam                                 | 1         | 4%      |
 | IMC Networks                           | 1         | 4%      |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 4%      |
+| 2M UVC CAMERA                          | 1         | 4%      |
 
 Camera Model
 ------------
@@ -2092,7 +2092,6 @@ Camera device models
 | Realtek USB Camera                               | 2         | 7.69%   |
 | Chicony Integrated Camera                        | 2         | 7.69%   |
 | Apple FaceTime HD Camera (Built-in)              | 2         | 7.69%   |
-| webcam webcam                                    | 1         | 3.85%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 3.85%   |
 | Sunplus HD WebCam                                | 1         | 3.85%   |
 | Realtek Integrated Camera                        | 1         | 3.85%   |
@@ -2107,6 +2106,7 @@ Camera device models
 | Chicony HD WebCam                                | 1         | 3.85%   |
 | Chicony 5M Cam                                   | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 1         | 3.85%   |
+| 2M UVC CAMERA Web Camera                         | 1         | 3.85%   |
 
 Security
 --------

@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 90
+Total: 86
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
@@ -173,10 +173,8 @@ Total: 90
 | Lenovo        | IdeaPad S145-15API 81UT     | [13aee77624](https://linux-hardware.org/?probe=13aee77624) | Jun 30, 2021 |
 | Lenovo        | IdeaPad 330-17IKB 81DM      | [19226582d9](https://linux-hardware.org/?probe=19226582d9) | May 31, 2021 |
 | HP            | EliteBook 8460p             | [6f3d7a9d3f](https://linux-hardware.org/?probe=6f3d7a9d3f) | May 15, 2021 |
-| HP            | EliteBook 8460p             | [634f320f1e](https://linux-hardware.org/?probe=634f320f1e) | May 14, 2021 |
 | HP            | EliteBook 8460p             | [426f99f758](https://linux-hardware.org/?probe=426f99f758) | May 14, 2021 |
 | Lenovo        | Y50-70 20378                | [18ec5d54a4](https://linux-hardware.org/?probe=18ec5d54a4) | Apr 02, 2021 |
-| Lenovo        | Y50-70 20378                | [3bb0e32d6c](https://linux-hardware.org/?probe=3bb0e32d6c) | Apr 02, 2021 |
 | Lenovo        | IdeaPad L340-17API 81LY     | [989604544a](https://linux-hardware.org/?probe=989604544a) | Apr 02, 2021 |
 | Lenovo        | IdeaPad L340-17API 81LY     | [1b1d0bc44f](https://linux-hardware.org/?probe=1b1d0bc44f) | Mar 27, 2021 |
 | CyberPower... | Tracer Series               | [295977bfa3](https://linux-hardware.org/?probe=295977bfa3) | Mar 24, 2021 |
@@ -238,11 +236,9 @@ Total: 90
 | HP            | Pavilion 17                 | [26bdca3832](https://linux-hardware.org/?probe=26bdca3832) | Feb 09, 2020 |
 | HP            | Pavilion Gaming Laptop 1... | [48487463eb](https://linux-hardware.org/?probe=48487463eb) | Feb 09, 2020 |
 | Lenovo        | IdeaPad S145-15IWL 81MV     | [9c202df9eb](https://linux-hardware.org/?probe=9c202df9eb) | Jan 14, 2020 |
-| Lenovo        | IdeaPad S145-15IWL 81MV     | [461cbdb5c5](https://linux-hardware.org/?probe=461cbdb5c5) | Jan 12, 2020 |
 | Lenovo        | IdeaPad S145-15IWL 81MV     | [12d0a26c62](https://linux-hardware.org/?probe=12d0a26c62) | Jan 12, 2020 |
 | HP            | Pavilion 17                 | [baeaa7afdc](https://linux-hardware.org/?probe=baeaa7afdc) | Jan 11, 2020 |
 | Acer          | Aspire E1-571               | [3b1545354e](https://linux-hardware.org/?probe=3b1545354e) | Jan 08, 2020 |
-| Acer          | Aspire E1-571               | [8d913c63e5](https://linux-hardware.org/?probe=8d913c63e5) | Jan 08, 2020 |
 | Acer          | Aspire E1-571               | [25229b0eaf](https://linux-hardware.org/?probe=25229b0eaf) | Jan 08, 2020 |
 | Acer          | Aspire E1-571               | [3d68993148](https://linux-hardware.org/?probe=3d68993148) | Jan 08, 2020 |
 | Avell High... | G1550 FOX                   | [b2380e6e7a](https://linux-hardware.org/?probe=b2380e6e7a) | Dec 30, 2019 |
@@ -295,7 +291,6 @@ Version of the Linux kernel
 | 5.6.4-arch1-1       | 2         | 3.13%   |
 | 5.5.2-arch1-1       | 2         | 3.13%   |
 | 5.4.10-arch1-1      | 2         | 3.13%   |
-| 5.11.10-arch1-1     | 2         | 3.13%   |
 | 5.9.2-zen1-1-zen    | 1         | 1.56%   |
 | 5.9.13-arch1-1      | 1         | 1.56%   |
 | 5.9.11-arch2-1      | 1         | 1.56%   |
@@ -329,7 +324,9 @@ Version of the Linux kernel
 | 5.12.3-arch1-1      | 1         | 1.56%   |
 | 5.11.6-arch1-1      | 1         | 1.56%   |
 | 5.11.2-arch1-1      | 1         | 1.56%   |
+| 5.11.11-zen1-1-zen  | 1         | 1.56%   |
 | 5.11.11-arch1-1     | 1         | 1.56%   |
+| 5.11.10-arch1-1     | 1         | 1.56%   |
 | 5.11.1-arch1-1      | 1         | 1.56%   |
 | 5.10.9-arch1-1      | 1         | 1.56%   |
 | 5.10.7-arch1-1      | 1         | 1.56%   |
@@ -357,7 +354,7 @@ Linux kernel without a distro release
 | 5.6.4   | 2         | 3.13%   |
 | 5.5.2   | 2         | 3.13%   |
 | 5.4.10  | 2         | 3.13%   |
-| 5.11.10 | 2         | 3.13%   |
+| 5.11.11 | 2         | 3.13%   |
 | 5.9.2   | 1         | 1.56%   |
 | 5.9.13  | 1         | 1.56%   |
 | 5.9.11  | 1         | 1.56%   |
@@ -390,7 +387,7 @@ Linux kernel without a distro release
 | 5.12.3  | 1         | 1.56%   |
 | 5.11.6  | 1         | 1.56%   |
 | 5.11.2  | 1         | 1.56%   |
-| 5.11.11 | 1         | 1.56%   |
+| 5.11.10 | 1         | 1.56%   |
 | 5.11.1  | 1         | 1.56%   |
 | 5.10.9  | 1         | 1.56%   |
 | 5.10.7  | 1         | 1.56%   |
@@ -807,12 +804,12 @@ Used RAM memory
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1.01-2.0  | 29        | 46.03%  |
-| 2.01-3.0  | 21        | 33.33%  |
-| 3.01-4.0  | 5         | 7.94%   |
-| 0.51-1.0  | 4         | 6.35%   |
-| 4.01-8.0  | 3         | 4.76%   |
-| 8.01-16.0 | 1         | 1.59%   |
+| 1.01-2.0  | 30        | 46.88%  |
+| 2.01-3.0  | 21        | 32.81%  |
+| 3.01-4.0  | 5         | 7.81%   |
+| 0.51-1.0  | 4         | 6.25%   |
+| 4.01-8.0  | 3         | 4.69%   |
+| 8.01-16.0 | 1         | 1.56%   |
 
 Total Drives
 ------------
@@ -923,62 +920,64 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                    | Notebooks | Percent |
-|-------------------------|-----------|---------|
-| Melbourne               | 3         | 4.84%   |
-| Aleksandrov             | 3         | 4.84%   |
-| Toronto                 | 2         | 3.23%   |
-| Tallinn                 | 2         | 3.23%   |
-| Madrid                  | 2         | 3.23%   |
-| Ankara                  | 2         | 3.23%   |
-| Zabrze                  | 1         | 1.61%   |
-| Yadrin                  | 1         | 1.61%   |
-| Warsaw                  | 1         | 1.61%   |
-| Waren                   | 1         | 1.61%   |
-| VitГіria              | 1         | 1.61%   |
-| Villahermosa            | 1         | 1.61%   |
-| The Hague               | 1         | 1.61%   |
-| Stabroek                | 1         | 1.61%   |
-| Schorndorf              | 1         | 1.61%   |
-| Sao Paulo               | 1         | 1.61%   |
-| Puente Alto             | 1         | 1.61%   |
-| Portsmouth              | 1         | 1.61%   |
-| Porto UniГЈo          | 1         | 1.61%   |
-| Orem                    | 1         | 1.61%   |
-| North Bay               | 1         | 1.61%   |
-| Newport News            | 1         | 1.61%   |
-| New Orleans             | 1         | 1.61%   |
-| Mogi Mirim              | 1         | 1.61%   |
-| Mexico City             | 1         | 1.61%   |
-| Limeira                 | 1         | 1.61%   |
-| Launceston              | 1         | 1.61%   |
-| Lagoa Santa             | 1         | 1.61%   |
-| Jonschwil               | 1         | 1.61%   |
-| Jalpa de Mendez         | 1         | 1.61%   |
-| Jacksonville            | 1         | 1.61%   |
-| Itauna                  | 1         | 1.61%   |
-| Irvine                  | 1         | 1.61%   |
-| Irun                    | 1         | 1.61%   |
-| Holly Springs           | 1         | 1.61%   |
-| Heredia                 | 1         | 1.61%   |
-| Helsinki                | 1         | 1.61%   |
-| HavlГ­ДЌkЕЇv Brod | 1         | 1.61%   |
-| Haarlem                 | 1         | 1.61%   |
-| Frankfurt am Main       | 1         | 1.61%   |
-| Esposende               | 1         | 1.61%   |
-| Erie                    | 1         | 1.61%   |
-| Embu                    | 1         | 1.61%   |
-| Eksjoe                  | 1         | 1.61%   |
-| Compton                 | 1         | 1.61%   |
-| Columbus                | 1         | 1.61%   |
-| Chagrin Falls           | 1         | 1.61%   |
-| Buffalo                 | 1         | 1.61%   |
-| BrasÃ­lia             | 1         | 1.61%   |
-| Binghamton              | 1         | 1.61%   |
-| Berlin                  | 1         | 1.61%   |
-| Barrow                  | 1         | 1.61%   |
-| Bad Zwischenahn         | 1         | 1.61%   |
-| Abomey-Calavi           | 1         | 1.61%   |
+| City              | Notebooks | Percent |
+|-------------------|-----------|---------|
+| Melbourne         | 3         | 4.84%   |
+| Aleksandrov       | 3         | 4.84%   |
+| Toronto           | 2         | 3.23%   |
+| Tallinn           | 2         | 3.23%   |
+| Zabrze            | 1         | 1.61%   |
+| Yadrin            | 1         | 1.61%   |
+| Warsaw            | 1         | 1.61%   |
+| Villahermosa      | 1         | 1.61%   |
+| Tres Cantos       | 1         | 1.61%   |
+| The Hague         | 1         | 1.61%   |
+| Sao Paulo         | 1         | 1.61%   |
+| Santiago          | 1         | 1.61%   |
+| Roebel            | 1         | 1.61%   |
+| Potts Camp        | 1         | 1.61%   |
+| Portsmouth        | 1         | 1.61%   |
+| Porto Uniao       | 1         | 1.61%   |
+| Orem              | 1         | 1.61%   |
+| North Bay         | 1         | 1.61%   |
+| Nijmegen          | 1         | 1.61%   |
+| Newport News      | 1         | 1.61%   |
+| New Orleans       | 1         | 1.61%   |
+| Mogi Mirim        | 1         | 1.61%   |
+| Mexico City       | 1         | 1.61%   |
+| Madrid            | 1         | 1.61%   |
+| Limeira           | 1         | 1.61%   |
+| Lagoa Santa       | 1         | 1.61%   |
+| Kestel            | 1         | 1.61%   |
+| Kapellen          | 1         | 1.61%   |
+| Jonschwil         | 1         | 1.61%   |
+| Jever             | 1         | 1.61%   |
+| Jacksonville      | 1         | 1.61%   |
+| Itauna            | 1         | 1.61%   |
+| Istanbul          | 1         | 1.61%   |
+| Irvine            | 1         | 1.61%   |
+| Hobart            | 1         | 1.61%   |
+| Heredia           | 1         | 1.61%   |
+| Helsinki          | 1         | 1.61%   |
+| Havlíčkův Brod | 1         | 1.61%   |
+| Garden Grove      | 1         | 1.61%   |
+| Freudenstadt      | 1         | 1.61%   |
+| Erie              | 1         | 1.61%   |
+| Embu              | 1         | 1.61%   |
+| Elorrio           | 1         | 1.61%   |
+| Eksjoe            | 1         | 1.61%   |
+| Darmstadt         | 1         | 1.61%   |
+| Cotonou           | 1         | 1.61%   |
+| Columbus          | 1         | 1.61%   |
+| Chagrin Falls     | 1         | 1.61%   |
+| Cariacica         | 1         | 1.61%   |
+| Cardenas          | 1         | 1.61%   |
+| Buffalo           | 1         | 1.61%   |
+| Brasília         | 1         | 1.61%   |
+| Binghamton        | 1         | 1.61%   |
+| Berlin            | 1         | 1.61%   |
+| Barrow            | 1         | 1.61%   |
+| Albufeira         | 1         | 1.61%   |
 
 Drives
 ------
@@ -1043,7 +1042,7 @@ Hard drive models
 | WDC WD10SPZX-22Z10T0 1TB             | 1         | 1.32%   |
 | WDC WD10JPVX-22JC3T0 1TB             | 1         | 1.32%   |
 | WDC WD10JPCX-24UE4T0 1TB             | 1         | 1.32%   |
-| Unknown SD/MMC/MS PRO 16GB           | 1         | 1.32%   |
+| Unknown SD/MMC/MS PRO 999GB          | 1         | 1.32%   |
 | Transcend TS1TSSD230S 1024GB         | 1         | 1.32%   |
 | Toshiba TR200 240GB SSD              | 1         | 1.32%   |
 | Toshiba NVMe SSD Drive 512GB         | 1         | 1.32%   |
@@ -1058,7 +1057,7 @@ Hard drive models
 | Seagate ST500LT012-9WS142 500GB      | 1         | 1.32%   |
 | Seagate ST1000LX015-1U7172 1TB       | 1         | 1.32%   |
 | Seagate ST1000LM035-1RK1 1TB         | 1         | 1.32%   |
-| Seagate Expansion+ 2TB               | 1         | 1.32%   |
+| Seagate Expansion 4TB                | 1         | 1.32%   |
 | SanDisk SSD PLUS 240 GB              | 1         | 1.32%   |
 | SanDisk SD9SN8W512G1002 512GB SSD    | 1         | 1.32%   |
 | SanDisk SD8SBBU480G1122 480GB SSD    | 1         | 1.32%   |
@@ -1166,9 +1165,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 34        | 37     | 60.71%  |
-| 0.51-1.0   | 20        | 23     | 35.71%  |
-| 1.01-2.0   | 2         | 2      | 3.57%   |
+| 0.01-0.5   | 33        | 36     | 58.93%  |
+| 0.51-1.0   | 21        | 24     | 37.5%   |
+| 3.01-4.0   | 1         | 1      | 1.79%   |
+| 1.01-2.0   | 1         | 1      | 1.79%   |
 
 Space Total
 -----------
@@ -1647,8 +1647,8 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 56        | 90.32%  |
-| Proprietary | 6         | 9.68%   |
+| Free        | 56        | 91.8%   |
+| Proprietary | 5         | 8.2%    |
 
 GPU Memory
 ----------
@@ -1714,22 +1714,22 @@ Monitor models
 | Samsung Electronics SyncMaster SAM037B 1680x1050 474x296mm 22.0-inch     | 1         | 1.45%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.45%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch    | 1         | 1.45%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 1         | 1.45%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch     | 1         | 1.45%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 1.45%   |
 | Samsung Electronics LCD Monitor SEC3551 1366x768 344x194mm 15.5-inch     | 1         | 1.45%   |
 | Samsung Electronics LCD Monitor SDC464C 1366x768 309x174mm 14.0-inch     | 1         | 1.45%   |
 | Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch    | 1         | 1.45%   |
 | LG Display LCD Monitor LGD05FF 1920x1080 344x194mm 15.5-inch             | 1         | 1.45%   |
 | LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch             | 1         | 1.45%   |
-| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch             | 1         | 1.45%   |
+| LG Display LCD Monitor LGD053F 1920x1080 340x190mm 15.3-inch             | 1         | 1.45%   |
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 1.45%   |
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 1         | 1.45%   |
 | LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 1         | 1.45%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 1.45%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 1.45%   |
 | LG Display LCD Monitor LGD027A 1600x900 382x215mm 17.3-inch              | 1         | 1.45%   |
-| LG Display LCD Monitor LGD0259 1920x1080 350x190mm 15.7-inch             | 1         | 1.45%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 1.45%   |
+| LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch             | 1         | 1.45%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                  | 1         | 1.45%   |
 | InfoVision LCD Monitor IVO0579 1366x768 310x170mm 13.9-inch              | 1         | 1.45%   |
 | Hewlett-Packard LA2205 HWP2847 1680x1050 473x296mm 22.0-inch             | 1         | 1.45%   |
 | Goldstar 27EA63 GSM598B 1920x1080 600x340mm 27.2-inch                    | 1         | 1.45%   |
@@ -1764,7 +1764,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch            | 1         | 1.45%   |
 | AU Optronics LCD Monitor AUO149D 1920x1080 381x214mm 17.2-inch           | 1         | 1.45%   |
 | AU Optronics LCD Monitor AUO103C 1366x768 309x173mm 13.9-inch            | 1         | 1.45%   |
-| AOC 2369 AOC2369 1920x1080 509x286mm 23.0-inch                           | 1         | 1.45%   |
+| AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                          | 1         | 1.45%   |
 
 Monitor Resolution
 ------------------
@@ -2114,8 +2114,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 58        | 55.77%  |
-| Ethernet | 46        | 44.23%  |
+| WiFi     | 45        | 71.43%  |
+| Ethernet | 18        | 28.57%  |
 
 NICs
 ----
@@ -2188,12 +2188,12 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                    | 1         | 2.27%   |
 | Qualcomm Atheros Bluetooth USB Host Controller    | 1         | 2.27%   |
 | Qualcomm Atheros AR3011 Bluetooth                 | 1         | 2.27%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth        | 1         | 2.27%   |
 | Lite-On Qualcomm Atheros Bluetooth                | 1         | 2.27%   |
-| Lite-On Bluetooth Device                          | 1         | 2.27%   |
 | Lite-On BCM43142A0                                | 1         | 2.27%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter          | 1         | 2.27%   |
 | Intel Centrino Bluetooth Wireless Transceiver     | 1         | 2.27%   |
-| Intel Bluetooth Device                            | 1         | 2.27%   |
+| Intel AX201 Bluetooth                             | 1         | 2.27%   |
 | IMC Networks Bluetooth Radio                      | 1         | 2.27%   |
 | IMC Networks Bluetooth Device                     | 1         | 2.27%   |
 | HP Broadcom 2070 Bluetooth Combo                  | 1         | 2.27%   |
@@ -2304,10 +2304,10 @@ Memory module models
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM 800MT/s                          | 1         | 11.11%  |
-| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s           | 1         | 11.11%  |
+| Team RAM TEAMGROUP-SD4-2666 16384MB SODIMM DDR4 2667MT/s       | 1         | 11.11%  |
 | Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s          | 1         | 11.11%  |
-| SK Hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 11.11%  |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s      | 1         | 11.11%  |
+| SK Hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 11.11%  |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 1         | 11.11%  |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s          | 1         | 11.11%  |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 11.11%  |
 | Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM DDR3 1067MT/s        | 1         | 11.11%  |
@@ -2450,52 +2450,52 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                   | Notebooks | Percent |
-|---------------------------------------------------------|-----------|---------|
-| Chicony HD WebCam                                       | 5         | 8.62%   |
-| Chicony Integrated Camera                               | 3         | 5.17%   |
-| Acer EasyCamera                                         | 3         | 5.17%   |
-| Syntek Integrated Camera                                | 2         | 3.45%   |
-| Microdia Laptop_Integrated_Webcam_HD                    | 2         | 3.45%   |
-| Microdia Integrated_Webcam_HD                           | 2         | 3.45%   |
-| IMC Networks Integrated Camera                          | 2         | 3.45%   |
-| Chicony Integrated HP HD Webcam                         | 2         | 3.45%   |
-| Acer Lenovo EasyCamera                                  | 2         | 3.45%   |
-| Syntek Lenovo EasyCamera                                | 1         | 1.72%   |
-| Suyin Sony Visual Communication Camera                  | 1         | 1.72%   |
-| Suyin Lenovo EasyCamera                                 | 1         | 1.72%   |
-| Suyin Acer/HP Integrated Webcam [CN0314]                | 1         | 1.72%   |
-| Sunplus HD WebCam                                       | 1         | 1.72%   |
-| Samsung Galaxy A5 (MTP)                                 | 1         | 1.72%   |
-| Ricoh HD Webcam                                         | 1         | 1.72%   |
-| Realtek USB2.0 VGA UVC WebCam                           | 1         | 1.72%   |
-| Realtek USB Camera                                      | 1         | 1.72%   |
-| Realtek Laptop_Integrated_Webcam_HD                     | 1         | 1.72%   |
-| Realtek Integrated_Webcam_HD                            | 1         | 1.72%   |
-| Realtek HP "Truevision HD" laptop camera                | 1         | 1.72%   |
-| Realtek HD WebCam                                       | 1         | 1.72%   |
-| Quanta hm1091_techfront                                 | 1         | 1.72%   |
-| Quanta HD User Facing                                   | 1         | 1.72%   |
-| Microdia Laptop_Integrated_Webcam_E4HD                  | 1         | 1.72%   |
-| Microdia Laptop_Integrated_Webcam_2M                    | 1         | 1.72%   |
-| Microdia Laptop Integrated Webcam HD (Composite Device) | 1         | 1.72%   |
-| Microdia Dell Laptop Integrated Webcam HD               | 1         | 1.72%   |
-| Microdia Dell Integrated HD Webcam                      | 1         | 1.72%   |
-| Logitech HD Pro Webcam C920                             | 1         | 1.72%   |
-| Lite-On HP Wide Vision HD Camera                        | 1         | 1.72%   |
-| Lenovo Integrated Webcam [R5U877]                       | 1         | 1.72%   |
-| IMC Networks USB2.0 VGA UVC WebCam                      | 1         | 1.72%   |
-| IMC Networks USB2.0 HD UVC WebCam                       | 1         | 1.72%   |
-| IMC Networks Lenovo EasyCamera                          | 1         | 1.72%   |
-| IMC Networks EasyCamera                                 | 1         | 1.72%   |
-| Chicony TOSHIBA Web Camera                              | 1         | 1.72%   |
-| Chicony Lenovo EasyCamera                               | 1         | 1.72%   |
-| Chicony Integrated Camera (1280x720@30)                 | 1         | 1.72%   |
-| Chicony HD WebCam (Acer)                                | 1         | 1.72%   |
-| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD | 1         | 1.72%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera     | 1         | 1.72%   |
-| Alcor Micro HP Webcam-101                               | 1         | 1.72%   |
-| Acer HD Webcam                                          | 1         | 1.72%   |
+| Model                                                                      | Notebooks | Percent |
+|----------------------------------------------------------------------------|-----------|---------|
+| Chicony HD WebCam                                                          | 5         | 8.62%   |
+| Chicony Integrated Camera                                                  | 3         | 5.17%   |
+| Acer EasyCamera                                                            | 3         | 5.17%   |
+| Syntek Integrated Camera                                                   | 2         | 3.45%   |
+| Microdia Laptop_Integrated_Webcam_HD                                       | 2         | 3.45%   |
+| Microdia Integrated_Webcam_HD                                              | 2         | 3.45%   |
+| IMC Networks Integrated Camera                                             | 2         | 3.45%   |
+| Chicony Integrated HP HD Webcam                                            | 2         | 3.45%   |
+| Acer Lenovo EasyCamera                                                     | 2         | 3.45%   |
+| Syntek Lenovo EasyCamera                                                   | 1         | 1.72%   |
+| Suyin Sony Visual Communication Camera                                     | 1         | 1.72%   |
+| Suyin Lenovo EasyCamera                                                    | 1         | 1.72%   |
+| Suyin Acer/HP Integrated Webcam [CN0314]                                   | 1         | 1.72%   |
+| Sunplus HD WebCam                                                          | 1         | 1.72%   |
+| Samsung Galaxy A5 (MTP)                                                    | 1         | 1.72%   |
+| Ricoh HD Webcam                                                            | 1         | 1.72%   |
+| Realtek USB2.0 VGA UVC WebCam                                              | 1         | 1.72%   |
+| Realtek USB Camera                                                         | 1         | 1.72%   |
+| Realtek Laptop_Integrated_Webcam_HD                                        | 1         | 1.72%   |
+| Realtek Integrated_Webcam_HD                                               | 1         | 1.72%   |
+| Realtek HP "Truevision HD" laptop camera                                   | 1         | 1.72%   |
+| Realtek HD WebCam                                                          | 1         | 1.72%   |
+| Quanta hm1091_techfront                                                    | 1         | 1.72%   |
+| Quanta HD User Facing                                                      | 1         | 1.72%   |
+| Microdia Laptop_Integrated_Webcam_E4HD                                     | 1         | 1.72%   |
+| Microdia Laptop_Integrated_Webcam_2M                                       | 1         | 1.72%   |
+| Microdia Laptop Integrated Webcam HD (Composite Device)                    | 1         | 1.72%   |
+| Microdia Dell Laptop Integrated Webcam HD                                  | 1         | 1.72%   |
+| Microdia Dell Integrated HD Webcam                                         | 1         | 1.72%   |
+| Logitech HD Pro Webcam C920                                                | 1         | 1.72%   |
+| Lite-On HP Wide Vision HD Camera                                           | 1         | 1.72%   |
+| Lenovo Integrated Webcam [R5U877]                                          | 1         | 1.72%   |
+| IMC Networks USB2.0 VGA UVC WebCam                                         | 1         | 1.72%   |
+| IMC Networks USB2.0 HD UVC WebCam                                          | 1         | 1.72%   |
+| IMC Networks Lenovo EasyCamera                                             | 1         | 1.72%   |
+| IMC Networks EasyCamera                                                    | 1         | 1.72%   |
+| Chicony TOSHIBA Web Camera                                                 | 1         | 1.72%   |
+| Chicony Lenovo EasyCamera                                                  | 1         | 1.72%   |
+| Chicony Integrated Camera (1280x720@30)                                    | 1         | 1.72%   |
+| Chicony HD WebCam (Acer)                                                   | 1         | 1.72%   |
+| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 1.72%   |
+| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD                    | 1         | 1.72%   |
+| Alcor Micro HP Webcam-101                                                  | 1         | 1.72%   |
+| Acer HD Webcam                                                             | 1         | 1.72%   |
 
 Security
 --------

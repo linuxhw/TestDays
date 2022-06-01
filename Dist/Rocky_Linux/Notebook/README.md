@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 27
+Total: 26
 
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
@@ -180,7 +180,6 @@ Total: 27
 | Lenovo  | IdeaPad Slim 1-14AST-05 ... | [860ec3c89d](https://linux-hardware.org/?probe=860ec3c89d) | Aug 08, 2021 |
 | Lenovo  | IdeaPad Y410P 20216         | [b2df1c0e6d](https://linux-hardware.org/?probe=b2df1c0e6d) | Aug 08, 2021 |
 | Lenovo  | IdeaPad Y410P 20216         | [3fc207c5b9](https://linux-hardware.org/?probe=3fc207c5b9) | Aug 07, 2021 |
-| Lenovo  | IdeaPad Slim 1-14AST-05 ... | [2a4bd5cb12](https://linux-hardware.org/?probe=2a4bd5cb12) | Jul 11, 2021 |
 | Lenovo  | IdeaPad Slim 1-14AST-05 ... | [09738de946](https://linux-hardware.org/?probe=09738de946) | Jul 04, 2021 |
 | Lenovo  | IdeaPad Slim 1-14AST-05 ... | [741cab87e1](https://linux-hardware.org/?probe=741cab87e1) | Jun 29, 2021 |
 | ASUSTek | ASUS TUF Gaming A15 FA50... | [60fe7f2653](https://linux-hardware.org/?probe=60fe7f2653) | Jun 13, 2021 |
@@ -658,26 +657,26 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City             | Notebooks | Percent |
-|------------------|-----------|---------|
-| Žilina          | 1         | 5.56%   |
-| Xi'an            | 1         | 5.56%   |
-| Weinheim         | 1         | 5.56%   |
-| Scarborough      | 1         | 5.56%   |
-| San Ramon        | 1         | 5.56%   |
-| Pretoria         | 1         | 5.56%   |
-| Prague           | 1         | 5.56%   |
-| Ottignies        | 1         | 5.56%   |
-| Nur-Sultan       | 1         | 5.56%   |
-| Nowy Wisnicz     | 1         | 5.56%   |
-| Mossel Bay       | 1         | 5.56%   |
-| Kuala Terengganu | 1         | 5.56%   |
-| Jette            | 1         | 5.56%   |
-| Houston          | 1         | 5.56%   |
-| Forest           | 1         | 5.56%   |
-| Contrada Tenna   | 1         | 5.56%   |
-| Berlin           | 1         | 5.56%   |
-| Ashburn          | 1         | 5.56%   |
+| City        | Notebooks | Percent |
+|-------------|-----------|---------|
+| Žilina     | 1         | 5.56%   |
+| Xi'an       | 1         | 5.56%   |
+| Senigallia  | 1         | 5.56%   |
+| Scarborough | 1         | 5.56%   |
+| Prague      | 1         | 5.56%   |
+| Ottignies   | 1         | 5.56%   |
+| Oakley      | 1         | 5.56%   |
+| Nur-Sultan  | 1         | 5.56%   |
+| Mossel Bay  | 1         | 5.56%   |
+| Kutno       | 1         | 5.56%   |
+| Johor Bahru | 1         | 5.56%   |
+| Houston     | 1         | 5.56%   |
+| Forest      | 1         | 5.56%   |
+| Dreieich    | 1         | 5.56%   |
+| Centurion   | 1         | 5.56%   |
+| Brussels    | 1         | 5.56%   |
+| Berlin      | 1         | 5.56%   |
+| Ashburn     | 1         | 5.56%   |
 
 Drives
 ------
@@ -698,7 +697,7 @@ Hard drive vendors
 | Unknown                 | 2         | 2      | 6.67%   |
 | Kingston                | 2         | 2      | 6.67%   |
 | Union Memory (Shenzhen) | 1         | 1      | 3.33%   |
-| UMIS                    | 1         | 2      | 3.33%   |
+| UMIS                    | 1         | 1      | 3.33%   |
 | StoreJet                | 1         | 1      | 3.33%   |
 | SK Hynix                | 1         | 2      | 3.33%   |
 | Seagate                 | 1         | 1      | 3.33%   |
@@ -723,7 +722,7 @@ Hard drive models
 |----------------------------------------------|-----------|---------|
 | WDC WD10SPCX-24HWST1 1TB                     | 1         | 3.13%   |
 | WDC WD10JPVX-22JC3T0 1TB                     | 1         | 3.13%   |
-| Unknown SD/MMC/MS PRO 16GB                   | 1         | 3.13%   |
+| Unknown SD/MMC/MS PRO 999GB                  | 1         | 3.13%   |
 | Unknown MMC Card  64GB                       | 1         | 3.13%   |
 | Union Memory (Shenzhen) NVMe SSD Drive 128GB | 1         | 3.13%   |
 | UMIS RPFTJ128PDD2EWX 128GB                   | 1         | 3.13%   |
@@ -798,7 +797,7 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 9         | 13     | 37.5%   |
+| NVMe    | 9         | 12     | 37.5%   |
 | SSD     | 8         | 12     | 33.33%  |
 | HDD     | 5         | 7      | 20.83%  |
 | MMC     | 1         | 1      | 4.17%   |
@@ -815,7 +814,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 11        | 17     | 45.83%  |
-| NVMe | 9         | 13     | 37.5%   |
+| NVMe | 9         | 12     | 37.5%   |
 | SAS  | 3         | 3      | 12.5%   |
 | MMC  | 1         | 1      | 4.17%   |
 
@@ -829,8 +828,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 6         | 6      | 37.5%   |
-| 0.01-0.5   | 6         | 8      | 37.5%   |
+| 0.51-1.0   | 7         | 7      | 43.75%  |
+| 0.01-0.5   | 5         | 7      | 31.25%  |
 | 1.01-2.0   | 3         | 3      | 18.75%  |
 | 3.01-4.0   | 1         | 2      | 6.25%   |
 
@@ -923,7 +922,7 @@ Number of failed and malfunc. drives
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
 | Detected | 13        | 22     | 65%     |
-| Works    | 7         | 12     | 35%     |
+| Works    | 7         | 11     | 35%     |
 
 Storage controller
 ------------------
@@ -1290,17 +1289,17 @@ Monitor models
 | Philips PHL 271S7Q PHL090A 1920x1080 600x340mm 27.2-inch              | 1         | 3.13%   |
 | Philips 226V4 PHLC0B1 1920x1080 477x268mm 21.5-inch                   | 1         | 3.13%   |
 | PANDA LCD Monitor NCP004D 1920x1080 344x194mm 15.5-inch               | 1         | 3.13%   |
-| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch           | 1         | 3.13%   |
+| Panasonic VVX16T029D00 MEI96A2 2880x1620 344x193mm 15.5-inch          | 1         | 3.13%   |
 | LG Display LCD Monitor LGD04D5 1920x1080 344x194mm 15.5-inch          | 1         | 3.13%   |
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch          | 1         | 3.13%   |
 | LG Display LCD Monitor LGD0406 1920x1080 309x175mm 14.0-inch          | 1         | 3.13%   |
 | LG Display LCD Monitor LGD02E2 1600x900 310x174mm 14.0-inch           | 1         | 3.13%   |
-| Lenovo LCD Monitor LEN4055 1920x1200 331x207mm 15.4-inch              | 1         | 3.13%   |
+| Lenovo LCD Monitor LEN4055 1920x1200 330x210mm 15.4-inch              | 1         | 3.13%   |
 | Goldstar W2252 GSM567D 1680x1050 474x296mm 22.0-inch                  | 1         | 3.13%   |
 | Goldstar LG UltraFine GSM5B11                                         | 1         | 3.13%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch               | 1         | 3.13%   |
 | Goldstar 32ML600 GSM772D 1920x1080 480x270mm 21.7-inch                | 1         | 3.13%   |
-| Dell U3415W DELA0AA 3440x1440 800x330mm 34.1-inch                     | 1         | 3.13%   |
+| Dell U3415W DELA0AA 3440x1440 798x335mm 34.1-inch                     | 1         | 3.13%   |
 | Dell S2740L DELA08E 1920x1080 598x336mm 27.0-inch                     | 1         | 3.13%   |
 | Dell S2421HS DEL41F4 1920x1080 527x296mm 23.8-inch                    | 1         | 3.13%   |
 | Dell P2715Q DEL40BD 3840x2160 597x336mm 27.0-inch                     | 1         | 3.13%   |
@@ -1590,8 +1589,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 14        | 50%     |
-| Ethernet | 14        | 50%     |
+| WiFi     | 13        | 65%     |
+| Ethernet | 7         | 35%     |
 
 NICs
 ----
@@ -1650,7 +1649,7 @@ Controller models
 | Model                                              | Notebooks | Percent |
 |----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                 | 9         | 52.94%  |
-| Intel Bluetooth Device                             | 2         | 11.76%  |
+| Intel AX201 Bluetooth                              | 2         | 11.76%  |
 | Realtek  Bluetooth 4.2 Adapter                     | 1         | 5.88%   |
 | Qualcomm Atheros  Bluetooth Device                 | 1         | 5.88%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)     | 1         | 5.88%   |
@@ -1748,8 +1747,8 @@ Memory module models
 |------------------------------------------------------------|-----------|---------|
 | SK Hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s     | 1         | 16.67%  |
 | SK Hynix RAM H9HCNNNCPMMLXR-NEE 8GB SODIMM LPDDR4 4266MT/s | 1         | 16.67%  |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 16.67%  |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 16.67%  |
+| Samsung RAM M471B1G73QH0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 16.67%  |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 16.67%  |
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s     | 1         | 16.67%  |
 | Crucial RAM CT16G4SFRA266.M16FRS 16GB SODIMM DDR4 2667MT/s | 1         | 16.67%  |
 

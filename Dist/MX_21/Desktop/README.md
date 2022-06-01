@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 26
+Total: 27
 
 | Vendor   | Model                    | Probe                                                      | Date         |
 |----------|--------------------------|------------------------------------------------------------|--------------|
+| ASUSTek  | SABERTOOTH X99           | [b627953ad4](https://linux-hardware.org/?probe=b627953ad4) | May 11, 2022 |
 | Intel    | V1.3                     | [a01993f2fa](https://linux-hardware.org/?probe=a01993f2fa) | Apr 30, 2022 |
 | ASUSTek  | SABERTOOTH X99           | [51cc264c62](https://linux-hardware.org/?probe=51cc264c62) | Apr 22, 2022 |
 | Gigabyte | B550M S2H                | [208972e3b5](https://linux-hardware.org/?probe=208972e3b5) | Apr 19, 2022 |
@@ -658,7 +659,7 @@ Geographic location (city)
 
 | City                | Desktops | Percent |
 |---------------------|----------|---------|
-| Lausen              | 2        | 10%     |
+| Ettingen            | 2        | 10%     |
 | Volos               | 1        | 5%      |
 | Vilhelmina          | 1        | 5%      |
 | Seelbach            | 1        | 5%      |
@@ -667,13 +668,13 @@ Geographic location (city)
 | Portland            | 1        | 5%      |
 | Piedmont            | 1        | 5%      |
 | Normal              | 1        | 5%      |
-| Munster             | 1        | 5%      |
 | Milwaukee           | 1        | 5%      |
-| London              | 1        | 5%      |
 | Houston             | 1        | 5%      |
 | Granadilla de Abona | 1        | 5%      |
 | Göttingen          | 1        | 5%      |
 | Freital             | 1        | 5%      |
+| Dieburg             | 1        | 5%      |
+| Chingford           | 1        | 5%      |
 | Brisbane            | 1        | 5%      |
 | Bengaluru           | 1        | 5%      |
 | Belmont             | 1        | 5%      |
@@ -691,9 +692,9 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 9        | 17     | 20.45%  |
+| Samsung Electronics | 9        | 19     | 20.45%  |
 | WDC                 | 7        | 11     | 15.91%  |
-| Seagate             | 6        | 8      | 13.64%  |
+| Seagate             | 6        | 9      | 13.64%  |
 | Kingston            | 5        | 5      | 11.36%  |
 | PNY                 | 2        | 3      | 4.55%   |
 | Hitachi             | 2        | 2      | 4.55%   |
@@ -780,7 +781,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 6        | 8      | 35.29%  |
+| Seagate             | 6        | 9      | 35.29%  |
 | WDC                 | 5        | 9      | 29.41%  |
 | Samsung Electronics | 2        | 2      | 11.76%  |
 | Hitachi             | 2        | 2      | 11.76%  |
@@ -797,7 +798,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 6        | 8      | 28.57%  |
+| Samsung Electronics | 6        | 9      | 28.57%  |
 | Kingston            | 5        | 5      | 23.81%  |
 | WDC                 | 1        | 1      | 4.76%   |
 | Transcend           | 1        | 1      | 4.76%   |
@@ -820,9 +821,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 16       | 23     | 40%     |
-| HDD  | 13       | 23     | 32.5%   |
-| NVMe | 11       | 13     | 27.5%   |
+| SSD  | 16       | 24     | 40%     |
+| HDD  | 13       | 24     | 32.5%   |
+| NVMe | 11       | 14     | 27.5%   |
 
 Drive Connector
 ---------------
@@ -834,8 +835,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 19       | 44     | 61.29%  |
-| NVMe | 11       | 13     | 35.48%  |
+| SATA | 19       | 46     | 61.29%  |
+| NVMe | 11       | 14     | 35.48%  |
 | SAS  | 1        | 2      | 3.23%   |
 
 Drive Size
@@ -849,8 +850,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 16       | 27     | 51.61%  |
-| 0.51-1.0   | 7        | 8      | 22.58%  |
-| 1.01-2.0   | 4        | 5      | 12.9%   |
+| 0.51-1.0   | 7        | 9      | 22.58%  |
+| 1.01-2.0   | 4        | 6      | 12.9%   |
 | 3.01-4.0   | 2        | 2      | 6.45%   |
 | 2.01-3.0   | 1        | 1      | 3.23%   |
 | 4.01-10.0  | 1        | 3      | 3.23%   |
@@ -883,14 +884,14 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 21-50          | 5        | 25%     |
-| 51-100         | 4        | 20%     |
-| 101-250        | 3        | 15%     |
-| 1001-2000      | 3        | 15%     |
-| 1-20           | 2        | 10%     |
-| More than 3000 | 1        | 5%      |
-| 251-500        | 1        | 5%      |
-| 2001-3000      | 1        | 5%      |
+| 21-50          | 5        | 23.81%  |
+| 51-100         | 4        | 19.05%  |
+| 101-250        | 3        | 14.29%  |
+| 1001-2000      | 3        | 14.29%  |
+| 251-500        | 2        | 9.52%   |
+| 1-20           | 2        | 9.52%   |
+| More than 3000 | 1        | 4.76%   |
+| 2001-3000      | 1        | 4.76%   |
 
 Malfunc. Drives
 ---------------
@@ -907,7 +908,7 @@ Drive models with a malfunction
 | Seagate ST3500413AS 500GB                | 1        | 1      | 11.11%  |
 | Seagate ST3360320AS 360GB                | 1        | 1      | 11.11%  |
 | Samsung Electronics SSD 850 EVO 500GB    | 1        | 1      | 11.11%  |
-| Samsung Electronics SSD 850 EVO 1TB      | 1        | 1      | 11.11%  |
+| Samsung Electronics SSD 850 EVO 1TB      | 1        | 2      | 11.11%  |
 | Samsung Electronics SSD 840 Series 120GB | 1        | 1      | 11.11%  |
 | MAXTOR 4K040H2 40GB                      | 1        | 1      | 11.11%  |
 | GOODRAM SSDPR-CL100-480-G3 480GB         | 1        | 1      | 11.11%  |
@@ -923,7 +924,7 @@ Vendors of faulty drives
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Seagate             | 3        | 3      | 33.33%  |
-| Samsung Electronics | 3        | 3      | 33.33%  |
+| Samsung Electronics | 3        | 4      | 33.33%  |
 | WDC                 | 1        | 1      | 11.11%  |
 | MAXTOR              | 1        | 1      | 11.11%  |
 | GOODRAM             | 1        | 1      | 11.11%  |
@@ -951,7 +952,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 5        | 5      | 62.5%   |
+| SSD  | 5        | 6      | 62.5%   |
 | HDD  | 3        | 4      | 37.5%   |
 
 Failed Drives
@@ -978,8 +979,8 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 18       | 48     | 66.67%  |
-| Malfunc  | 8        | 9      | 29.63%  |
+| Works    | 18       | 50     | 66.67%  |
+| Malfunc  | 8        | 10     | 29.63%  |
 | Detected | 1        | 2      | 3.7%    |
 
 Storage controller
@@ -1366,7 +1367,7 @@ Monitor models
 | Hewlett-Packard X27q HPN3725 2560x1440 600x340mm 27.2-inch            | 1        | 3.57%   |
 | Hewlett-Packard X27q HPN3724 2560x1440 600x340mm 27.2-inch            | 1        | 3.57%   |
 | Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch           | 1        | 3.57%   |
-| Grundig UHD GRU4448 3840x2160 1210x680mm 54.6-inch                    | 1        | 3.57%   |
+| Grundig WXGA GRU4448 1600x1200                                        | 1        | 3.57%   |
 | Gigabyte Technology G34WQC GBT3400 3440x1440 797x334mm 34.0-inch      | 1        | 3.57%   |
 | Fujitsu Siemens L24W-2 FUS077A 1920x1200 520x320mm 24.0-inch          | 1        | 3.57%   |
 | Fujitsu Siemens B22W-7 LED FUS0838 1680x1050 474x296mm 22.0-inch      | 1        | 3.57%   |
@@ -1810,25 +1811,25 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s | 2        | 10.53%  |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 2        | 10.53%  |
-| Unknown RAM Module 4GB DIMM SDRAM                      | 1        | 5.26%   |
-| Unknown RAM Module 2GB DIMM DDR2 333MT/s               | 1        | 5.26%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1        | 5.26%   |
-| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s   | 1        | 5.26%   |
-| Samsung RAM M386A4G40DM0-CPB 32GB DIMM DDR4 2133MT/s   | 1        | 5.26%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 1        | 5.26%   |
-| Kingston RAM KHX3200C16D4/4GX 4GB DIMM DDR4 3600MT/s   | 1        | 5.26%   |
-| Kingston RAM 99U5471-033.A00LF 4096MB DIMM DDR3        | 1        | 5.26%   |
-| Kingston RAM 9905471-006.A00LF 4GB DIMM DDR3 1333MT/s  | 1        | 5.26%   |
-| G.Skill RAM F4-4000C18-16GTZR 16GB DIMM DDR4 2133MT/s  | 1        | 5.26%   |
-| G.Skill RAM F4-3600C19-16GSXWB 16GB DIMM DDR4 3600MT/s | 1        | 5.26%   |
-| G.Skill RAM F3-2133C11-8GAR 8GB DIMM DDR3 2133MT/s     | 1        | 5.26%   |
-| G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1400MT/s   | 1        | 5.26%   |
-| Corsair RAM CMK32GX4M4A2666C16 8GB DIMM DDR4 2667MT/s  | 1        | 5.26%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s  | 1        | 5.26%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s  | 2        | 10.53%  |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s   | 2        | 10.53%  |
+| Unknown RAM Module 4GB DIMM SDRAM                       | 1        | 5.26%   |
+| Unknown RAM Module 2GB DIMM DDR2 333MT/s                | 1        | 5.26%   |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 5.26%   |
+| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s    | 1        | 5.26%   |
+| Samsung RAM M386A4G40DM0-CPB 32GB DIMM DDR4 2133MT/s    | 1        | 5.26%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s  | 1        | 5.26%   |
+| Kingston RAM KHX3200C16D4/4GX 4GB DIMM DDR4 3600MT/s    | 1        | 5.26%   |
+| Kingston RAM 99U5471-033.A00LF 4096MB DIMM DDR3         | 1        | 5.26%   |
+| Kingston RAM 9905471-006.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 5.26%   |
+| G.Skill RAM F4-4000C18-16GTZR 16GB DIMM DDR4 2133MT/s   | 1        | 5.26%   |
+| G.Skill RAM F4-3600C19-16GSXWB 16GB DIMM DDR4 3600MT/s  | 1        | 5.26%   |
+| G.Skill RAM F3-2133C11-8GAR 8GB DIMM DDR3 2133MT/s      | 1        | 5.26%   |
+| G.Skill RAM F3-10666CL9-4GBNT 4096MB DIMM DDR3 1400MT/s | 1        | 5.26%   |
+| Corsair RAM CMK32GX4M4A2666C16 8GB DIMM DDR4 2667MT/s   | 1        | 5.26%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s   | 1        | 5.26%   |
 
 Memory Kind
 -----------
@@ -1962,12 +1963,12 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                      | Desktops | Percent |
-|----------------------------|----------|---------|
-| Logitech Webcam C930e      | 2        | 40%     |
-| Microsoft LifeCam HD-3000  | 1        | 20%     |
-| Logitech Webcam C270       | 1        | 20%     |
-| Generalplus GENERAL WEBCAM | 1        | 20%     |
+| Model                     | Desktops | Percent |
+|---------------------------|----------|---------|
+| Logitech Webcam C930e     | 2        | 40%     |
+| Microsoft LifeCam HD-3000 | 1        | 20%     |
+| Logitech Webcam C270      | 1        | 20%     |
+| Generalplus CAMERA - UVC  | 1        | 20%     |
 
 Security
 --------

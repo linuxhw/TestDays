@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 11
+Total: 10
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
@@ -164,9 +164,8 @@ Total: 11
 | Gigabyte | X99-Designare EX-CF         | [5195396549](https://linux-hardware.org/?probe=5195396549) | Mar 06, 2021 |
 | ASUSTek  | G11CD                       | [13961e12a8](https://linux-hardware.org/?probe=13961e12a8) | Feb 01, 2021 |
 | HP       | 158B                        | [5e6b9531d7](https://linux-hardware.org/?probe=5e6b9531d7) | Feb 01, 2021 |
-| Dell     | Board                       | [bcd33a41f0](https://linux-hardware.org/?probe=bcd33a41f0) | Jan 25, 2021 |
+| Dell     | PowerEdge FC630             | [bcd33a41f0](https://linux-hardware.org/?probe=bcd33a41f0) | Jan 25, 2021 |
 | Gigabyte | X470 AORUS ULTRA GAMING-... | [71628a95b6](https://linux-hardware.org/?probe=71628a95b6) | Jan 13, 2021 |
-| ASUSTek  | G11CD                       | [79f24a0a82](https://linux-hardware.org/?probe=79f24a0a82) | Dec 31, 2020 |
 | Foxconn  | 2ADA                        | [809e03aea5](https://linux-hardware.org/?probe=809e03aea5) | Dec 24, 2020 |
 | ASUSTek  | G11CD                       | [d9d0f8fdf2](https://linux-hardware.org/?probe=d9d0f8fdf2) | Dec 20, 2020 |
 | Dell     | 0C96W1 A01                  | [b5c14107bb](https://linux-hardware.org/?probe=b5c14107bb) | Feb 12, 2020 |
@@ -454,10 +453,9 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 3        | 33.33%  |
+| 2016 | 2        | 22.22%  |
 | 2012 | 2        | 22.22%  |
 | 2020 | 1        | 11.11%  |
-| 2019 | 1        | 11.11%  |
-| 2016 | 1        | 11.11%  |
 | 2010 | 1        | 11.11%  |
 
 Form Factor
@@ -628,17 +626,18 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City          | Desktops | Percent |
-|---------------|----------|---------|
-| Rheinstetten  | 1        | 11.11%  |
-| Reading       | 1        | 11.11%  |
-| Moscow        | 1        | 11.11%  |
-| Milan         | 1        | 11.11%  |
-| Dietmannsried | 1        | 11.11%  |
-| Bucharest     | 1        | 11.11%  |
-| Berlin        | 1        | 11.11%  |
-| Bengaluru     | 1        | 11.11%  |
-| Asheville     | 1        | 11.11%  |
+| City        | Desktops | Percent |
+|-------------|----------|---------|
+| Weaverville | 1        | 10%     |
+| Reading     | 1        | 10%     |
+| Neunkirchen | 1        | 10%     |
+| Moscow      | 1        | 10%     |
+| Langgons    | 1        | 10%     |
+| Bucharest   | 1        | 10%     |
+| Berlin      | 1        | 10%     |
+| Bengaluru   | 1        | 10%     |
+| Asheville   | 1        | 10%     |
+| Albairate   | 1        | 10%     |
 
 Drives
 ------

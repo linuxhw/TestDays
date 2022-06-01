@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 51
+Total: 50
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
@@ -198,7 +198,6 @@ Total: 51
 | HP            | Pavilion dv6                | [6939cb8715](https://linux-hardware.org/?probe=6939cb8715) | Apr 11, 2020 |
 | Acer          | Aspire E5-575               | [328b82f240](https://linux-hardware.org/?probe=328b82f240) | Apr 11, 2020 |
 | HP            | Pavilion dv6                | [0c6dc861d6](https://linux-hardware.org/?probe=0c6dc861d6) | Apr 06, 2020 |
-| HP            | Pavilion dv6                | [d459f09cfe](https://linux-hardware.org/?probe=d459f09cfe) | Apr 01, 2020 |
 | HP            | Pavilion dv6                | [3d9d707ea7](https://linux-hardware.org/?probe=3d9d707ea7) | Mar 30, 2020 |
 | Chuwi         | LapBook SE                  | [f7cfd1b163](https://linux-hardware.org/?probe=f7cfd1b163) | Mar 26, 2020 |
 | Acer          | Swift SF314-56              | [3826e4d14c](https://linux-hardware.org/?probe=3826e4d14c) | Mar 24, 2020 |
@@ -388,8 +387,8 @@ Scheme of partitioning
 | Type    | Notebooks | Percent |
 |---------|-----------|---------|
 | Unknown | 25        | 62.5%   |
-| GPT     | 11        | 27.5%   |
-| MBR     | 4         | 10%     |
+| GPT     | 12        | 30%     |
+| MBR     | 3         | 7.5%    |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -621,12 +620,12 @@ Used RAM memory
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1.01-2.0  | 13        | 33.33%  |
-| 2.01-3.0  | 10        | 25.64%  |
-| 4.01-8.0  | 7         | 17.95%  |
-| 3.01-4.0  | 5         | 12.82%  |
-| 0.51-1.0  | 3         | 7.69%   |
-| 8.01-16.0 | 1         | 2.56%   |
+| 1.01-2.0  | 14        | 35%     |
+| 2.01-3.0  | 10        | 25%     |
+| 4.01-8.0  | 7         | 17.5%   |
+| 3.01-4.0  | 5         | 12.5%   |
+| 0.51-1.0  | 3         | 7.5%    |
+| 8.01-16.0 | 1         | 2.5%    |
 
 Total Drives
 ------------
@@ -738,46 +737,46 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                  | Notebooks | Percent |
-|-----------------------|-----------|---------|
-| Columbus              | 2         | 5.13%   |
-| Vienna                | 1         | 2.56%   |
-| St. Cloud             | 1         | 2.56%   |
-| Semarang              | 1         | 2.56%   |
-| Santo Domingo Este    | 1         | 2.56%   |
-| Santiago              | 1         | 2.56%   |
-| Saint Paul            | 1         | 2.56%   |
-| Riga                  | 1         | 2.56%   |
-| Pessac                | 1         | 2.56%   |
-| Parkdale              | 1         | 2.56%   |
-| Paracuellos de Jarama | 1         | 2.56%   |
-| Muscat                | 1         | 2.56%   |
-| Morioka               | 1         | 2.56%   |
-| Minsk                 | 1         | 2.56%   |
-| Melbourne             | 1         | 2.56%   |
-| Marica                | 1         | 2.56%   |
-| Madrid                | 1         | 2.56%   |
-| Kyiv                  | 1         | 2.56%   |
-| Kayseri               | 1         | 2.56%   |
-| Jeddah                | 1         | 2.56%   |
-| Hyderabad             | 1         | 2.56%   |
-| Humble                | 1         | 2.56%   |
-| HrubieszГіw         | 1         | 2.56%   |
-| Hartington            | 1         | 2.56%   |
-| Guatemala City        | 1         | 2.56%   |
-| Guarulhos             | 1         | 2.56%   |
-| Guanajuato City       | 1         | 2.56%   |
-| Foz do IguaГ§u      | 1         | 2.56%   |
-| Curitiba              | 1         | 2.56%   |
-| Cleveland             | 1         | 2.56%   |
-| Changis-sur-Marne     | 1         | 2.56%   |
-| Budapest              | 1         | 2.56%   |
-| Bogor                 | 1         | 2.56%   |
-| Bengaluru             | 1         | 2.56%   |
-| Beijing               | 1         | 2.56%   |
-| Babice                | 1         | 2.56%   |
-| Auckland              | 1         | 2.56%   |
-| Arichuna              | 1         | 2.56%   |
+| City                      | Notebooks | Percent |
+|---------------------------|-----------|---------|
+| Melbourne                 | 2         | 5%      |
+| Columbus                  | 2         | 5%      |
+| Zhytomyr                  | 1         | 2.5%    |
+| Vienna                    | 1         | 2.5%    |
+| Teresopolis               | 1         | 2.5%    |
+| Semarang                  | 1         | 2.5%    |
+| Santo Domingo Este        | 1         | 2.5%    |
+| San Francisco del Rincón | 1         | 2.5%    |
+| Riga                      | 1         | 2.5%    |
+| Quilicura                 | 1         | 2.5%    |
+| Port Orange               | 1         | 2.5%    |
+| Pessac                    | 1         | 2.5%    |
+| Paracuellos de Jarama     | 1         | 2.5%    |
+| Muscat                    | 1         | 2.5%    |
+| Minsk                     | 1         | 2.5%    |
+| Minneapolis               | 1         | 2.5%    |
+| Makkah                    | 1         | 2.5%    |
+| Madrid                    | 1         | 2.5%    |
+| Kayseri                   | 1         | 2.5%    |
+| Jeddah                    | 1         | 2.5%    |
+| Jakarta                   | 1         | 2.5%    |
+| Ichinoseki                | 1         | 2.5%    |
+| Hyderabad                 | 1         | 2.5%    |
+| Humble                    | 1         | 2.5%    |
+| Hrubieszów               | 1         | 2.5%    |
+| Hartington                | 1         | 2.5%    |
+| Guatemala City            | 1         | 2.5%    |
+| Guarulhos                 | 1         | 2.5%    |
+| Foz do Iguaçu            | 1         | 2.5%    |
+| Curitiba                  | 1         | 2.5%    |
+| Cleveland                 | 1         | 2.5%    |
+| Changis-sur-Marne         | 1         | 2.5%    |
+| Caracas                   | 1         | 2.5%    |
+| Budapest                  | 1         | 2.5%    |
+| Bengaluru                 | 1         | 2.5%    |
+| Beijing                   | 1         | 2.5%    |
+| Babice                    | 1         | 2.5%    |
+| Auckland                  | 1         | 2.5%    |
 
 Drives
 ------
@@ -977,13 +976,13 @@ Amount of used disk space
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1-20     | 15        | 38.46%  |
-| 101-250  | 6         | 15.38%  |
-| 51-100   | 6         | 15.38%  |
-| 21-50    | 5         | 12.82%  |
-| 251-500  | 4         | 10.26%  |
-| 501-1000 | 2         | 5.13%   |
-| Unknown  | 1         | 2.56%   |
+| 1-20     | 15        | 37.5%   |
+| 51-100   | 7         | 17.5%   |
+| 101-250  | 6         | 15%     |
+| 21-50    | 5         | 12.5%   |
+| 251-500  | 4         | 10%     |
+| 501-1000 | 2         | 5%      |
+| Unknown  | 1         | 2.5%    |
 
 Malfunc. Drives
 ---------------
@@ -1484,7 +1483,7 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | ___ LCDTV16 ___9000 1360x768                                          | 1         | 2.08%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 2.08%   |
-| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 2.08%   |
+| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 2.08%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 2.08%   |
@@ -1498,9 +1497,9 @@ Monitor models
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 2.08%   |
 | LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch           | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 2.08%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch              | 1         | 2.08%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch            | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch               | 1         | 2.08%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1         | 2.08%   |
+| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 2.08%   |
 | Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 2.08%   |
 | GKK MONITOR GKK3034 1920x1080                                         | 1         | 2.08%   |
 | Chimei Innolux LCD Monitor CMN15D2 1920x1080 344x193mm 15.5-inch      | 1         | 2.08%   |
@@ -1528,7 +1527,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO1136 2560x1440 309x174mm 14.0-inch        | 1         | 2.08%   |
 | Apple Color LCD APPA013 2560x1600 286x179mm 13.3-inch                 | 1         | 2.08%   |
 | Apple Color LCD APP9C5B 1280x800 286x179mm 13.3-inch                  | 1         | 2.08%   |
-| AOC 24G2W1G4 AOC2402 1920x1080 527x296mm 23.8-inch                    | 1         | 2.08%   |
+| AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 1         | 2.08%   |
 | AOC 1621w AOC1621 1366x768 344x194mm 15.5-inch                        | 1         | 2.08%   |
 
 Monitor Resolution
@@ -1721,7 +1720,7 @@ Controller models
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                                     | 1         | 1.32%   |
 | Nvidia MCP79 Ethernet                                                          | 1         | 1.32%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 1.32%   |
-| Lenovo Thinkpad USB LAN                                                        | 1         | 1.32%   |
+| Lenovo Thinkpad LAN                                                            | 1         | 1.32%   |
 | Intel Wireless 8260                                                            | 1         | 1.32%   |
 | Intel Wireless 7265                                                            | 1         | 1.32%   |
 | Intel Wireless 3160                                                            | 1         | 1.32%   |
@@ -1838,7 +1837,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                                     | 1         | 2.86%   |
 | Nvidia MCP79 Ethernet                                                          | 1         | 2.86%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 2.86%   |
-| Lenovo Thinkpad USB LAN                                                        | 1         | 2.86%   |
+| Lenovo Thinkpad LAN                                                            | 1         | 2.86%   |
 | Intel Ethernet Connection I219-V                                               | 1         | 2.86%   |
 | Intel Ethernet Connection I218-LM                                              | 1         | 2.86%   |
 | Intel Ethernet Connection I217-LM                                              | 1         | 2.86%   |
@@ -1871,8 +1870,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 37        | 62.71%  |
-| Ethernet | 22        | 37.29%  |
+| WiFi     | 36        | 92.31%  |
+| Ethernet | 3         | 7.69%   |
 
 NICs
 ----
@@ -1933,12 +1932,13 @@ Controller models
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 14        | 45.16%  |
-| Lite-On Bluetooth Device                                                            | 3         | 9.68%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 9.68%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 6.45%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 6.45%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 3.23%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 3.23%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 3.23%   |
+| Lite-On Bluetooth Device                                                            | 1         | 3.23%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 3.23%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 3.23%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 3.23%   |
@@ -2033,26 +2033,26 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Notebooks | Percent |
-|-----------------------------------------------------------|-----------|---------|
-| SK Hynix RAM Module 8192MB SODIMM DDR4 2400MT/s           | 2         | 10.53%  |
-| Unknown RAM Module 4096MB SODIMM DDR3                     | 1         | 5.26%   |
-| SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s            | 1         | 5.26%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
-| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 5.26%   |
-| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 5.26%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
-| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
-| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s  | 1         | 5.26%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
-| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s  | 1         | 5.26%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s    | 1         | 5.26%   |
-| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
-| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
-| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s | 1         | 5.26%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s             | 1         | 5.26%   |
-| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
+| Model                                                      | Notebooks | Percent |
+|------------------------------------------------------------|-----------|---------|
+| SK Hynix RAM Module 8192MB SODIMM DDR4 2400MT/s            | 2         | 10.53%  |
+| Unknown RAM Module 4096MB SODIMM DDR3                      | 1         | 5.26%   |
+| SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 5.26%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
+| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
+| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s           | 1         | 5.26%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 5.26%   |
+| Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s      | 1         | 5.26%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s     | 1         | 5.26%   |
+| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
+| Kingston RAM 99U5428-063.A00LF 8192MB SODIMM DDR3 1600MT/s | 1         | 5.26%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 5.26%   |
+| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s  | 1         | 5.26%   |
+| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s              | 1         | 5.26%   |
+| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s       | 1         | 5.26%   |
 
 Memory Kind
 -----------
@@ -2198,7 +2198,7 @@ Camera device models
 | Quanta HP TrueVision HD Webcam                               | 1         | 2.7%    |
 | Microdia Webcam                                              | 1         | 2.7%    |
 | Microdia USB 2.0 Camera                                      | 1         | 2.7%    |
-| Microdia Integrated Webcam HD                                | 1         | 2.7%    |
+| Microdia Integrated_Webcam_HD                                | 1         | 2.7%    |
 | Logitech HD Pro Webcam C920                                  | 1         | 2.7%    |
 | Lite-On HP HD Camera                                         | 1         | 2.7%    |
 | Lenovo Integrated Webcam [R5U877]                            | 1         | 2.7%    |

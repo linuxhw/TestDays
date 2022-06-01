@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 48
+Total: 47
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
@@ -192,7 +192,6 @@ Total: 48
 | Lenovo   | ThinkPad T400 2768WGB       | [995b1a3a3d](https://linux-hardware.org/?probe=995b1a3a3d) | Sep 29, 2020 |
 | Lenovo   | ThinkPad T60 20085TG        | [31cd0f06c2](https://linux-hardware.org/?probe=31cd0f06c2) | Sep 16, 2020 |
 | Samsung  | 350V5C/351V5C/3540VC/344... | [356bacc97a](https://linux-hardware.org/?probe=356bacc97a) | Aug 27, 2020 |
-| Samsung  | 350V5C/351V5C/3540VC/344... | [f16c9341a8](https://linux-hardware.org/?probe=f16c9341a8) | Aug 21, 2020 |
 | Acer     | Aspire A114-32              | [7f178a7089](https://linux-hardware.org/?probe=7f178a7089) | Aug 20, 2020 |
 | Samsung  | 350V5C/351V5C/3540VC/344... | [9b4d2c057e](https://linux-hardware.org/?probe=9b4d2c057e) | Aug 19, 2020 |
 | ASUSTek  | VivoBook 15_ASUS Laptop ... | [57e274292b](https://linux-hardware.org/?probe=57e274292b) | Aug 16, 2020 |
@@ -204,7 +203,7 @@ Total: 48
 | Lenovo   | B590 20206                  | [8f4a7e2b6e](https://linux-hardware.org/?probe=8f4a7e2b6e) | May 26, 2020 |
 | ASUSTek  | X455LAB                     | [4a5174a726](https://linux-hardware.org/?probe=4a5174a726) | Mar 24, 2020 |
 | Notebook | W65_W67RZ1                  | [aaffd10ebf](https://linux-hardware.org/?probe=aaffd10ebf) | Mar 24, 2020 |
-| Medion   | AKOYA E1318T                | [d6be35c8af](https://linux-hardware.org/?probe=d6be35c8af) | Mar 20, 2020 |
+| Medion   | Akoya E1318T                | [d6be35c8af](https://linux-hardware.org/?probe=d6be35c8af) | Mar 20, 2020 |
 
 System
 ------
@@ -332,9 +331,9 @@ SDDM, LightDM, etc.
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| LightDM | 37        | 88.1%   |
+| LightDM | 34        | 80.95%  |
+| TDM     | 4         | 9.52%   |
 | SDDM    | 4         | 9.52%   |
-| TDM     | 1         | 2.38%   |
 
 OS Lang
 -------
@@ -378,9 +377,10 @@ Type of filesystem
 
 | Type    | Notebooks | Percent |
 |---------|-----------|---------|
-| Ext4    | 38        | 90.48%  |
-| Overlay | 3         | 7.14%   |
+| Ext4    | 36        | 85.71%  |
+| Overlay | 4         | 9.52%   |
 | Xfs     | 1         | 2.38%   |
+| Btrfs   | 1         | 2.38%   |
 
 Part. scheme
 ------------
@@ -459,7 +459,7 @@ Motherboard model
 |------------------------------------------|-----------|---------|
 | Sony VGN-NR310FH                         | 1         | 2.38%   |
 | Notebook W65_W67RZ1                      | 1         | 2.38%   |
-| Medion AKOYA E1318T                      | 1         | 2.38%   |
+| Medion Akoya E1318T                      | 1         | 2.38%   |
 | Lenovo ThinkPad X1 Carbon 5th 20HR0013AU | 1         | 2.38%   |
 | Lenovo ThinkPad T60 20085TG              | 1         | 2.38%   |
 | Lenovo ThinkPad T530 2394CJ9             | 1         | 2.38%   |
@@ -517,7 +517,7 @@ Motherboard model prefix
 | ASUS VivoBook    | 2         | 4.76%   |
 | Sony VGN-NR310FH | 1         | 2.38%   |
 | Notebook W65     | 1         | 2.38%   |
-| Medion AKOYA     | 1         | 2.38%   |
+| Medion Akoya     | 1         | 2.38%   |
 | Lenovo IdeaPad   | 1         | 2.38%   |
 | Lenovo B590      | 1         | 2.38%   |
 | Lenovo B40-45    | 1         | 2.38%   |
@@ -747,49 +747,47 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                      | Notebooks | Percent |
-|---------------------------|-----------|---------|
-| Madrid                    | 2         | 4.65%   |
-| Asansol                   | 2         | 4.65%   |
-| Trivandrum                | 1         | 2.33%   |
-| Torquay                   | 1         | 2.33%   |
-| Tampa                     | 1         | 2.33%   |
-| Rensselaer                | 1         | 2.33%   |
-| Prague                    | 1         | 2.33%   |
-| Porto                     | 1         | 2.33%   |
-| Piszczac                  | 1         | 2.33%   |
-| Perm                      | 1         | 2.33%   |
-| Nuremberg                 | 1         | 2.33%   |
-| Munich                    | 1         | 2.33%   |
-| Montreal                  | 1         | 2.33%   |
-| Monterrey                 | 1         | 2.33%   |
-| Mexico City               | 1         | 2.33%   |
-| MÃ¼nster                | 1         | 2.33%   |
-| Madison                   | 1         | 2.33%   |
-| Luanda                    | 1         | 2.33%   |
-| Los Puertos de Altagracia | 1         | 2.33%   |
-| Los Angeles               | 1         | 2.33%   |
-| Lobnya                    | 1         | 2.33%   |
-| Lille                     | 1         | 2.33%   |
-| Leipzig                   | 1         | 2.33%   |
-| Kreuztal                  | 1         | 2.33%   |
-| Kartal                    | 1         | 2.33%   |
-| Iowa City                 | 1         | 2.33%   |
-| Ho Chi Minh City          | 1         | 2.33%   |
-| Helsinki                  | 1         | 2.33%   |
-| Gargan                    | 1         | 2.33%   |
-| Damascus                  | 1         | 2.33%   |
-| Carl Junction             | 1         | 2.33%   |
-| Caldicot                  | 1         | 2.33%   |
-| Budapest                  | 1         | 2.33%   |
-| Breedenbroek              | 1         | 2.33%   |
-| BogotÃ¡                 | 1         | 2.33%   |
-| Bergisch Gladbach         | 1         | 2.33%   |
-| Aurora                    | 1         | 2.33%   |
-| ArujÃ¡                  | 1         | 2.33%   |
-| Arroyomolinos             | 1         | 2.33%   |
-| Antakya                   | 1         | 2.33%   |
-| Amsterdam                 | 1         | 2.33%   |
+| City              | Notebooks | Percent |
+|-------------------|-----------|---------|
+| Patna             | 2         | 4.76%   |
+| Munich            | 2         | 4.76%   |
+| Madrid            | 2         | 4.76%   |
+| Trivandrum        | 1         | 2.38%   |
+| Tampa             | 1         | 2.38%   |
+| Siegen            | 1         | 2.38%   |
+| Rusko             | 1         | 2.38%   |
+| Rensselaer        | 1         | 2.38%   |
+| Prague            | 1         | 2.38%   |
+| Porto             | 1         | 2.38%   |
+| Perm              | 1         | 2.38%   |
+| Newmarket         | 1         | 2.38%   |
+| Münster          | 1         | 2.38%   |
+| Montreal          | 1         | 2.38%   |
+| Monterrey         | 1         | 2.38%   |
+| Mexico City       | 1         | 2.38%   |
+| Madison           | 1         | 2.38%   |
+| Lublin            | 1         | 2.38%   |
+| Luanda            | 1         | 2.38%   |
+| Los Angeles       | 1         | 2.38%   |
+| Lobnya            | 1         | 2.38%   |
+| Lille             | 1         | 2.38%   |
+| Leipzig           | 1         | 2.38%   |
+| Kartal            | 1         | 2.38%   |
+| Ho Chi Minh City  | 1         | 2.38%   |
+| Geelong           | 1         | 2.38%   |
+| Gargan            | 1         | 2.38%   |
+| Damascus          | 1         | 2.38%   |
+| Cowfold           | 1         | 2.38%   |
+| Cedar Rapids      | 1         | 2.38%   |
+| Carl Junction     | 1         | 2.38%   |
+| Caracas           | 1         | 2.38%   |
+| Budapest          | 1         | 2.38%   |
+| Breedenbroek      | 1         | 2.38%   |
+| Bogotá           | 1         | 2.38%   |
+| Bergisch Gladbach | 1         | 2.38%   |
+| Arujá            | 1         | 2.38%   |
+| Arroyomolinos     | 1         | 2.38%   |
+| Amsterdam         | 1         | 2.38%   |
 
 Drives
 ------
@@ -835,7 +833,7 @@ Hard drive models
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
 | Samsung SSD 860 EVO 500GB            | 2         | 3.92%   |
-| Yeyian VALK 1000 120GB               | 1         | 1.96%   |
+| Yeyian VALK 1000 120GB SSD           | 1         | 1.96%   |
 | WDC WD5000LPVX-22V0TT0 500GB         | 1         | 1.96%   |
 | WDC WD5000LPCX-24VHAT0 500GB         | 1         | 1.96%   |
 | WDC WD3200LPVT-08G33T1 320GB         | 1         | 1.96%   |
@@ -855,7 +853,7 @@ Hard drive models
 | Seagate ST2000LM003 HN-M201RAD 2TB   | 1         | 1.96%   |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 1.96%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 1         | 1.96%   |
-| Seagate BUP BK 4TB                   | 1         | 1.96%   |
+| Seagate BUP BK 5TB                   | 1         | 1.96%   |
 | SanDisk SSD PLUS 480G                | 1         | 1.96%   |
 | SanDisk SDSSDHII120G 120GB           | 1         | 1.96%   |
 | SanDisk SDSSDA120G 120GB             | 1         | 1.96%   |
@@ -875,7 +873,7 @@ Hard drive models
 | Intenso SSD Sata III 256GB           | 1         | 1.96%   |
 | Intel SSDPEKNW512G8H 512GB           | 1         | 1.96%   |
 | Indilinx IND-S325S120G 120GB SSD     | 1         | 1.96%   |
-| HUAWEI SD Storage 2GB                | 1         | 1.96%   |
+| HUAWEI SD Storage 8GB                | 1         | 1.96%   |
 | Hitachi HTS545025B9SA02 250GB        | 1         | 1.96%   |
 | Hitachi HTS543225L9A300 250GB        | 1         | 1.96%   |
 | Hitachi HTS542516K9SA00 160GB        | 1         | 1.96%   |
@@ -966,8 +964,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 29        | 36     | 82.86%  |
 | 0.51-1.0   | 4         | 4      | 11.43%  |
-| 3.01-4.0   | 1         | 1      | 2.86%   |
 | 1.01-2.0   | 1         | 1      | 2.86%   |
+| 4.01-10.0  | 1         | 1      | 2.86%   |
 
 Space Total
 -----------
@@ -1555,9 +1553,9 @@ Monitor models
 | LG Display LCD Monitor LGD03B8 1366x768 310x174mm 14.0-inch               | 1         | 2.22%   |
 | Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch                  | 1         | 2.22%   |
 | Lenovo LCD Monitor LEN4043 1400x1050 305x228mm 15.0-inch                  | 1         | 2.22%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                   | 1         | 2.22%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                   | 1         | 2.22%   |
 | InfoVision LCD Monitor IVO03FA 1366x768 223x125mm 10.1-inch               | 1         | 2.22%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                  | 1         | 2.22%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                 | 1         | 2.22%   |
 | HannStar HL161ABB HSD61C7 1366x768 344x193mm 15.5-inch                    | 1         | 2.22%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                   | 1         | 2.22%   |
 | Dell S2409W DELA039 1920x1080 530x300mm 24.0-inch                         | 1         | 2.22%   |
@@ -1927,9 +1925,9 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 37        | 52.86%  |
-| Ethernet | 32        | 45.71%  |
-| Unknown  | 1         | 1.43%   |
+| WiFi     | 31        | 73.81%  |
+| Ethernet | 10        | 23.81%  |
+| Unknown  | 1         | 2.38%   |
 
 NICs
 ----
@@ -1992,12 +1990,11 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 9         | 31.03%  |
-| Intel Bluetooth Device                              | 2         | 6.9%    |
-| Realtek RTL8821A Bluetooth                          | 1         | 3.45%   |
-| Realtek Bluetooth Radio                             | 1         | 3.45%   |
+| Realtek Bluetooth Radio                             | 2         | 6.9%    |
+| Intel AX201 Bluetooth                               | 2         | 6.9%    |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 3.45%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 3.45%   |
-| Lite-On Bluetooth Device                            | 1         | 3.45%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.45%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 3.45%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 3.45%   |
 | Intel AX200 Bluetooth                               | 1         | 3.45%   |
@@ -2115,48 +2112,48 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | SK Hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s             | 2         | 4%      |
-| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s          | 2         | 4%      |
+| Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s       | 2         | 4%      |
 | Unknown RAM Module 2048MB SODIMM DDR2                            | 1         | 2%      |
 | Unknown RAM Module 1024MB SODIMM DDR2                            | 1         | 2%      |
 | Transcend RAM JM1333KSN-4G 4096MB SODIMM DDR3 1334MT/s           | 1         | 2%      |
 | Teikon RAM TMT451S6BFR8A-PBHJ 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
-| Smart RAM SH564128FJ8NWRNSQR 4096MB SODIMM DDR3 1600MT/s         | 1         | 2%      |
+| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s            | 1         | 2%      |
 | SK Hynix RAM Module 2048MB SODIMM DDR3 800MT/s                   | 1         | 2%      |
 | SK Hynix RAM Module 16384MB SODIMM DDR4 2667MT/s                 | 1         | 2%      |
-| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 2%      |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 2%      |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
 | SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
-| SK Hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1334MT/s           | 1         | 2%      |
+| SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1334MT/s        | 1         | 2%      |
 | SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s        | 1         | 2%      |
 | SK Hynix RAM HMT125S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s           | 1         | 2%      |
 | SK Hynix RAM H9CCNNNBJTALAR-NUD 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 2%      |
 | SK Hynix RAM H5AN8G6NCJR-XNC 4GB SODIMM DDR4 3200MT/s            | 1         | 2%      |
 | Samsung RAM Module 2048MB SODIMM DDR2 533MT/s                    | 1         | 2%      |
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 2%      |
-| Samsung RAM M471B5674EB0-YK0 2048MB SODIMM DDR3 1600MT/s         | 1         | 2%      |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s            | 1         | 2%      |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 1         | 2%      |
+| Samsung RAM M471B5674EB0-YK0 2GB SODIMM 1600MT/s                 | 1         | 2%      |
+| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s         | 1         | 2%      |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 2%      |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 2%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2%      |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s           | 1         | 2%      |
-| Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s           | 1         | 2%      |
+| Samsung RAM M471A2K43CB1-CRC 16384MB SODIMM DDR4 2667MT/s        | 1         | 2%      |
+| Samsung RAM M471A2K43BB1-CPB 16384MB SODIMM DDR4 2133MT/s        | 1         | 2%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 2%      |
 | Ramaxel RAM RMT3150ED58E8W1600 2GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
-| Ramaxel RAM RMSA3300ME78HBF-2666 16384MB SODIMM DDR4 2667MT/s    | 1         | 2%      |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8192MB SODIMM DDR4 2667MT/s     | 1         | 2%      |
+| Ramaxel RAM RMSA3300ME78HBF-2666 16GB SODIMM DDR4 2667MT/s       | 1         | 2%      |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 2%      |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s             | 1         | 2%      |
 | Nanya RAM NT1GT64UH8D0FN-3C 1024MB SODIMM DDR2 667MT/s           | 1         | 2%      |
 | Micron RAM Module 4096MB SODIMM DDR4 2400MT/s                    | 1         | 2%      |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                    | 1         | 2%      |
 | Micron RAM Module 1024MB SODIMM DDR3 1067MT/s                    | 1         | 2%      |
-| Micron RAM 8ATF1G64HZ-2G3E1 8GB SODIMM DDR4 2400MT/s             | 1         | 2%      |
-| Micron RAM 4ATF51264HZ-2G3E1 4096MB SODIMM DDR4 2667MT/s         | 1         | 2%      |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s            | 1         | 2%      |
+| Micron RAM 8ATF1G64HZ-2G3E1 8192MB SODIMM DDR4 2400MT/s          | 1         | 2%      |
+| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s            | 1         | 2%      |
+| Micron RAM 16KTF1G64HZ-1G6E1 8192MB SODIMM DDR3 1600MT/s         | 1         | 2%      |
 | Kingston RAM KNWMX1-ETB 4GB SODIMM DDR3 1600MT/s                 | 1         | 2%      |
 | Kingston RAM KHX2400C14S4/8G 8GB SODIMM DDR4 2400MT/s            | 1         | 2%      |
 | Kingston RAM KHX2133C13S4/8G 8GB SODIMM DDR4 2133MT/s            | 1         | 2%      |
 | Kingston RAM HP32D4S2S1ME-8 8GB SODIMM DDR4 3200MT/s             | 1         | 2%      |
-| Kingston RAM HP16D3LS1KBG/4G 4096MB SODIMM DDR3 1600MT/s         | 1         | 2%      |
+| Kingston RAM HP16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s            | 1         | 2%      |
 | Kingston RAM 99U5594-001.A00LF 2GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
 | Kingston RAM 9905428-417.A00LF 8GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
 | Crucial RAM CT4G3S160BM.C16FKD 4GB SODIMM DDR3 1600MT/s          | 1         | 2%      |

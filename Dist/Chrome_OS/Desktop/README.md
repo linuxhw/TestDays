@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 25
+Total: 24
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
@@ -180,7 +180,6 @@ Total: 25
 | Dell          | 05XGC8 A01                  | [f243c5fe72](https://linux-hardware.org/?probe=f243c5fe72) | Apr 17, 2020 |
 | Dell          | 05XGC8 A01                  | [7e85fad5a0](https://linux-hardware.org/?probe=7e85fad5a0) | Apr 17, 2020 |
 | Google        | Panther                     | [fbc127e88c](https://linux-hardware.org/?probe=fbc127e88c) | Feb 17, 2020 |
-| Google        | Panther                     | [f369e3ccad](https://linux-hardware.org/?probe=f369e3ccad) | Feb 17, 2020 |
 | Google        | Panther                     | [5ead9de21a](https://linux-hardware.org/?probe=5ead9de21a) | Feb 17, 2020 |
 | ASUSTek       | P5B-PLUS Series             | [b0a90d8478](https://linux-hardware.org/?probe=b0a90d8478) | Jan 02, 2020 |
 | NEC Comput... | ECS-945G                    | [3494d9ef49](https://linux-hardware.org/?probe=3494d9ef49) | Nov 10, 2019 |
@@ -412,7 +411,7 @@ Motherboard model
 
 | Name                                | Desktops | Percent |
 |-------------------------------------|----------|---------|
-| Samsung Samsung DeskTop System      | 1        | 7.14%   |
+| Samsung DeskTop System              | 1        | 7.14%   |
 | NEC Computers ECS-945G              | 1        | 7.14%   |
 | MSI MS-7350                         | 1        | 7.14%   |
 | Intel DN2820FYK H24582-202          | 1        | 7.14%   |
@@ -438,7 +437,7 @@ Motherboard model prefix
 | Name                   | Desktops | Percent |
 |------------------------|----------|---------|
 | Dell OptiPlex          | 2        | 14.29%  |
-| Samsung Samsung        | 1        | 7.14%   |
+| Samsung DeskTop        | 1        | 7.14%   |
 | NEC Computers ECS-945G | 1        | 7.14%   |
 | MSI MS-7350            | 1        | 7.14%   |
 | Intel DN2820FYK        | 1        | 7.14%   |
@@ -463,12 +462,11 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2008 | 3        | 21.43%  |
 | 2014 | 2        | 14.29%  |
+| 2012 | 2        | 14.29%  |
 | 2007 | 2        | 14.29%  |
 | 2019 | 1        | 7.14%   |
 | 2016 | 1        | 7.14%   |
 | 2015 | 1        | 7.14%   |
-| 2013 | 1        | 7.14%   |
-| 2012 | 1        | 7.14%   |
 | 2010 | 1        | 7.14%   |
 | 2005 | 1        | 7.14%   |
 
@@ -636,22 +634,22 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                 | Desktops | Percent |
-|----------------------|----------|---------|
-| Winter Garden        | 1        | 7.14%   |
-| Welwyn Garden City   | 1        | 7.14%   |
-| Suwon                | 1        | 7.14%   |
-| Stevenage            | 1        | 7.14%   |
-| Seoul                | 1        | 7.14%   |
-| Oklahoma City        | 1        | 7.14%   |
-| Milan                | 1        | 7.14%   |
-| Middle River         | 1        | 7.14%   |
-| Marysville           | 1        | 7.14%   |
-| Kingston upon Thames | 1        | 7.14%   |
-| Casalecchio di Reno  | 1        | 7.14%   |
-| Campinas             | 1        | 7.14%   |
-| Aschaffenburg        | 1        | 7.14%   |
-| Arlington            | 1        | 7.14%   |
+| City               | Desktops | Percent |
+|--------------------|----------|---------|
+| Winter Garden      | 1        | 7.14%   |
+| Welwyn Garden City | 1        | 7.14%   |
+| Suwon              | 1        | 7.14%   |
+| Sidney             | 1        | 7.14%   |
+| Oklahoma City      | 1        | 7.14%   |
+| Middle River       | 1        | 7.14%   |
+| Hitchin            | 1        | 7.14%   |
+| Forlì             | 1        | 7.14%   |
+| Concesio           | 1        | 7.14%   |
+| Cleveleys          | 1        | 7.14%   |
+| Cheonan            | 1        | 7.14%   |
+| Campinas           | 1        | 7.14%   |
+| Aschaffenburg      | 1        | 7.14%   |
+| Arlington          | 1        | 7.14%   |
 
 Drives
 ------
@@ -695,7 +693,7 @@ Hard drive models
 | Seagate ST3160812AS 41N3268 LEN 160GB | 1        | 6.67%   |
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
-| KingSpec NT-256 256GB                 | 1        | 6.67%   |
+| KingSpec NT-256 256GB SSD             | 1        | 6.67%   |
 | KingDian S200 60GB SSD                | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
@@ -1197,7 +1195,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Toshiba TV TSB0106 1920x1080                                         | 1        | 7.69%   |
+| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                     | 1        | 7.69%   |
 | Sony TV SNY9C01 1920x1080                                            | 1        | 7.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch | 1        | 7.69%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                       | 1        | 7.69%   |
@@ -1364,7 +1362,7 @@ Controller models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8        | 29.63%  |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 3        | 11.11%  |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2        | 7.41%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 2        | 7.41%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 2        | 7.41%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 3.7%    |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 3.7%    |
@@ -1404,7 +1402,7 @@ Wireless models
 
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 2        | 20%     |
+| TP-Link 802.11ac WLAN Adapter                              | 2        | 20%     |
 | Realtek RTL8192CU 802.11n WLAN Adapter                     | 2        | 20%     |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 10%     |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 10%     |
@@ -1472,8 +1470,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 12       | 70.59%  |
-| WiFi     | 5        | 29.41%  |
+| Ethernet | 11       | 68.75%  |
+| WiFi     | 5        | 31.25%  |
 
 NICs
 ----
@@ -1530,7 +1528,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 50%     |
-| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 16.67%  |
+| Qualcomm Atheros  Bluetooth Device                  | 1        | 16.67%  |
 | Intel Bluetooth wireless interface                  | 1        | 16.67%  |
 | IMC Networks Bluetooth Device                       | 1        | 16.67%  |
 

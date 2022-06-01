@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 30
+Total: 31
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Sony          | SVE14A2V2ES                 | [59435d662a](https://linux-hardware.org/?probe=59435d662a) | May 11, 2022 |
 | Acer          | Aspire 5742G                | [b3cef97540](https://linux-hardware.org/?probe=b3cef97540) | Apr 12, 2022 |
 | Sony          | SVE14A2V2ES                 | [b2695cc80d](https://linux-hardware.org/?probe=b2695cc80d) | Mar 13, 2022 |
 | Sony          | SVE14A2V2ES                 | [4b2203862a](https://linux-hardware.org/?probe=4b2203862a) | Mar 11, 2022 |
@@ -203,16 +204,16 @@ Installed operating systems
 
 | Name          | Notebooks | Percent |
 |---------------|-----------|---------|
-| Pardus 21.1   | 5         | 20.83%  |
-| Pardus 21.0   | 3         | 12.5%   |
-| Pardus 19.5   | 3         | 12.5%   |
-| Pardus 19.3   | 3         | 12.5%   |
-| Pardus 19.4-1 | 2         | 8.33%   |
-| Pardus 19.2   | 2         | 8.33%   |
-| Pardus 19.1   | 2         | 8.33%   |
-| Pardus 19.0   | 2         | 8.33%   |
-| Pardus 21.2   | 1         | 4.17%   |
-| Pardus 19.4   | 1         | 4.17%   |
+| Pardus 21.1   | 5         | 20%     |
+| Pardus 21.0   | 3         | 12%     |
+| Pardus 19.5   | 3         | 12%     |
+| Pardus 19.3   | 3         | 12%     |
+| Pardus 21.2   | 2         | 8%      |
+| Pardus 19.4-1 | 2         | 8%      |
+| Pardus 19.2   | 2         | 8%      |
+| Pardus 19.1   | 2         | 8%      |
+| Pardus 19.0   | 2         | 8%      |
+| Pardus 19.4   | 1         | 4%      |
 
 OS Family
 ---------
@@ -236,21 +237,22 @@ Version of the Linux kernel
 
 | Version              | Notebooks | Percent |
 |----------------------|-----------|---------|
-| 5.10.0-11-amd64      | 3         | 12.5%   |
-| 4.19.0-6-amd64       | 3         | 12.5%   |
-| 4.19.0-10-amd64      | 3         | 12.5%   |
-| 5.10.0-9-amd64       | 2         | 8.33%   |
-| 5.10.0-10-amd64      | 2         | 8.33%   |
-| 4.19.0-13-amd64      | 2         | 8.33%   |
-| 5.9.0-0.bpo.2-amd64  | 1         | 4.17%   |
-| 5.4.0-0.bpo.3-amd64  | 1         | 4.17%   |
-| 5.10.0-8-amd64       | 1         | 4.17%   |
-| 5.10.0-13-amd64      | 1         | 4.17%   |
-| 5.10.0-0.bpo.8-amd64 | 1         | 4.17%   |
-| 4.19.0-8-amd64       | 1         | 4.17%   |
-| 4.19.0-5-amd64       | 1         | 4.17%   |
-| 4.19.0-19-amd64      | 1         | 4.17%   |
-| 4.19.0-16-amd64      | 1         | 4.17%   |
+| 5.10.0-11-amd64      | 3         | 12%     |
+| 4.19.0-6-amd64       | 3         | 12%     |
+| 4.19.0-10-amd64      | 3         | 12%     |
+| 5.10.0-9-amd64       | 2         | 8%      |
+| 5.10.0-10-amd64      | 2         | 8%      |
+| 4.19.0-13-amd64      | 2         | 8%      |
+| 5.9.0-0.bpo.2-amd64  | 1         | 4%      |
+| 5.4.0-0.bpo.3-amd64  | 1         | 4%      |
+| 5.10.0-8-amd64       | 1         | 4%      |
+| 5.10.0-14-amd64      | 1         | 4%      |
+| 5.10.0-13-amd64      | 1         | 4%      |
+| 5.10.0-0.bpo.8-amd64 | 1         | 4%      |
+| 4.19.0-8-amd64       | 1         | 4%      |
+| 4.19.0-5-amd64       | 1         | 4%      |
+| 4.19.0-19-amd64      | 1         | 4%      |
+| 4.19.0-16-amd64      | 1         | 4%      |
 
 Kernel Family
 -------------
@@ -262,10 +264,10 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 4.19.0  | 11        | 47.83%  |
-| 5.10.0  | 10        | 43.48%  |
-| 5.9.0   | 1         | 4.35%   |
-| 5.4.0   | 1         | 4.35%   |
+| 5.10.0  | 11        | 45.83%  |
+| 4.19.0  | 11        | 45.83%  |
+| 5.9.0   | 1         | 4.17%   |
+| 5.4.0   | 1         | 4.17%   |
 
 Kernel Major Ver.
 -----------------
@@ -277,10 +279,10 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 4.19    | 11        | 47.83%  |
-| 5.10    | 10        | 43.48%  |
-| 5.9     | 1         | 4.35%   |
-| 5.4     | 1         | 4.35%   |
+| 5.10    | 11        | 45.83%  |
+| 4.19    | 11        | 45.83%  |
+| 5.9     | 1         | 4.17%   |
+| 5.4     | 1         | 4.17%   |
 
 Arch
 ----
@@ -362,8 +364,8 @@ EFI or BIOS
 
 | Mode | Notebooks | Percent |
 |------|-----------|---------|
-| BIOS | 17        | 73.91%  |
-| EFI  | 6         | 26.09%  |
+| BIOS | 17        | 70.83%  |
+| EFI  | 7         | 29.17%  |
 
 Filesystem
 ----------
@@ -590,11 +592,11 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 11        | 47.83%  |
-| 2.01-3.0 | 5         | 21.74%  |
-| 3.01-4.0 | 4         | 17.39%  |
-| 4.01-8.0 | 2         | 8.7%    |
-| 0.51-1.0 | 1         | 4.35%   |
+| 1.01-2.0 | 11        | 45.83%  |
+| 2.01-3.0 | 6         | 25%     |
+| 3.01-4.0 | 4         | 16.67%  |
+| 4.01-8.0 | 2         | 8.33%   |
+| 0.51-1.0 | 1         | 4.17%   |
 
 Total Drives
 ------------
@@ -686,22 +688,21 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City          | Notebooks | Percent |
-|---------------|-----------|---------|
-| Istanbul      | 7         | 29.17%  |
-| Izmir         | 3         | 12.5%   |
-| Bursa         | 2         | 8.33%   |
-| Ankara        | 2         | 8.33%   |
-| Г‡anakkale | 1         | 4.17%   |
-| Porto Alegre  | 1         | 4.17%   |
-| Mersin        | 1         | 4.17%   |
-| Malatya       | 1         | 4.17%   |
-| London        | 1         | 4.17%   |
-| Kosekoy       | 1         | 4.17%   |
-| Konya         | 1         | 4.17%   |
-| Gaziantep     | 1         | 4.17%   |
-| Artvin        | 1         | 4.17%   |
-| Antalya       | 1         | 4.17%   |
+| City        | Notebooks | Percent |
+|-------------|-----------|---------|
+| Istanbul    | 7         | 28%     |
+| Ankara      | 4         | 16%     |
+| Izmir       | 3         | 12%     |
+| Çanakkale  | 2         | 8%      |
+| Sao Gabriel | 1         | 4%      |
+| London      | 1         | 4%      |
+| Konya       | 1         | 4%      |
+| Gaziantep   | 1         | 4%      |
+| Esenyurt    | 1         | 4%      |
+| Bursa       | 1         | 4%      |
+| Aydin       | 1         | 4%      |
+| Artvin      | 1         | 4%      |
+| Antalya     | 1         | 4%      |
 
 Drives
 ------
@@ -720,12 +721,12 @@ Hard drive vendors
 | Seagate             | 5         | 5      | 17.86%  |
 | Samsung Electronics | 4         | 4      | 14.29%  |
 | SK Hynix            | 2         | 2      | 7.14%   |
-| Kingston            | 2         | 2      | 7.14%   |
+| Kingston            | 2         | 3      | 7.14%   |
 | HGST                | 2         | 2      | 7.14%   |
 | SPCC                | 1         | 1      | 3.57%   |
 | Silicon Motion      | 1         | 1      | 3.57%   |
 | SanDisk             | 1         | 1      | 3.57%   |
-| Micron Technology   | 1         | 1      | 3.57%   |
+| Micron Technology   | 1         | 2      | 3.57%   |
 | Lexar               | 1         | 1      | 3.57%   |
 | KingSpec            | 1         | 1      | 3.57%   |
 | Hitachi             | 1         | 1      | 3.57%   |
@@ -754,7 +755,7 @@ Hard drive models
 | Seagate ST9500325AS 500GB                   | 1         | 3.57%   |
 | Seagate ST9120822AS 120GB                   | 1         | 3.57%   |
 | Seagate ST1000LM035-1RK172 1TB              | 1         | 3.57%   |
-| Seagate Expansion+ 2TB                      | 1         | 3.57%   |
+| Seagate Expansion 4TB                       | 1         | 3.57%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB | 1         | 3.57%   |
 | SanDisk SDSSDA480G 480GB                    | 1         | 3.57%   |
 | Samsung SSD 860 EVO 500GB                   | 1         | 3.57%   |
@@ -765,7 +766,7 @@ Hard drive models
 | Lexar 120GB SSD                             | 1         | 3.57%   |
 | Kingston SHFS37A120G 120GB SSD              | 1         | 3.57%   |
 | Kingston SA400S37240G 240GB SSD             | 1         | 3.57%   |
-| KingSpec P3-128 128GB SSD                   | 1         | 3.57%   |
+| KingSpec P3-128 128GB                       | 1         | 3.57%   |
 | Hitachi HTS545025B9A300 250GB               | 1         | 3.57%   |
 | addlink S10 120GB                           | 1         | 3.57%   |
 
@@ -795,12 +796,12 @@ Solid state drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 3         | 3      | 25%     |
-| Kingston            | 2         | 2      | 16.67%  |
+| Kingston            | 2         | 3      | 16.67%  |
 | SPCC                | 1         | 1      | 8.33%   |
 | SK Hynix            | 1         | 1      | 8.33%   |
 | Seagate             | 1         | 1      | 8.33%   |
 | SanDisk             | 1         | 1      | 8.33%   |
-| Micron Technology   | 1         | 1      | 8.33%   |
+| Micron Technology   | 1         | 2      | 8.33%   |
 | Lexar               | 1         | 1      | 8.33%   |
 | KingSpec            | 1         | 1      | 8.33%   |
 
@@ -815,7 +816,7 @@ HDD or SSD
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
 | HDD     | 12        | 14     | 48%     |
-| SSD     | 10        | 12     | 40%     |
+| SSD     | 10        | 14     | 40%     |
 | NVMe    | 2         | 3      | 8%      |
 | Unknown | 1         | 1      | 4%      |
 
@@ -829,7 +830,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 21        | 26     | 87.5%   |
+| SATA | 21        | 28     | 87.5%   |
 | NVMe | 2         | 3      | 8.33%   |
 | SAS  | 1         | 1      | 4.17%   |
 
@@ -843,9 +844,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 17        | 18     | 73.91%  |
-| 0.51-1.0   | 5         | 7      | 21.74%  |
-| 1.01-2.0   | 1         | 1      | 4.35%   |
+| 0.01-0.5   | 17        | 19     | 73.91%  |
+| 0.51-1.0   | 5         | 8      | 21.74%  |
+| 3.01-4.0   | 1         | 1      | 4.35%   |
 
 Space Total
 -----------
@@ -857,11 +858,11 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 251-500    | 9         | 39.13%  |
-| 101-250    | 9         | 39.13%  |
-| 21-50      | 2         | 8.7%    |
-| 501-1000   | 2         | 8.7%    |
-| 51-100     | 1         | 4.35%   |
+| 101-250    | 10        | 41.67%  |
+| 251-500    | 9         | 37.5%   |
+| 21-50      | 2         | 8.33%   |
+| 501-1000   | 2         | 8.33%   |
+| 51-100     | 1         | 4.17%   |
 
 Space Used
 ----------
@@ -873,11 +874,11 @@ Amount of used disk space
 
 | Used GB | Notebooks | Percent |
 |---------|-----------|---------|
-| 1-20    | 10        | 43.48%  |
-| 21-50   | 6         | 26.09%  |
-| 51-100  | 4         | 17.39%  |
-| 101-250 | 2         | 8.7%    |
-| 251-500 | 1         | 4.35%   |
+| 1-20    | 10        | 41.67%  |
+| 21-50   | 7         | 29.17%  |
+| 51-100  | 4         | 16.67%  |
+| 101-250 | 2         | 8.33%   |
+| 251-500 | 1         | 4.17%   |
 
 Malfunc. Drives
 ---------------
@@ -951,7 +952,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 15        | 20     | 65.22%  |
+| Detected | 15        | 22     | 65.22%  |
 | Works    | 7         | 9      | 30.43%  |
 | Malfunc  | 1         | 1      | 4.35%   |
 
@@ -1318,10 +1319,10 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SDC4951 1366x768 344x194mm 15.5-inch     | 1         | 4.35%   |
 | LG Philips LCD Monitor LPL1146 1280x800 331x207mm 15.4-inch              | 1         | 4.35%   |
-| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch             | 1         | 4.35%   |
+| LG Display LCD Monitor LGD053F 1920x1080 340x190mm 15.3-inch             | 1         | 4.35%   |
 | LG Display LCD Monitor LGD0470 1920x1080 345x194mm 15.6-inch             | 1         | 4.35%   |
 | LG Display LCD Monitor LGD0384 1366x768 344x194mm 15.5-inch              | 1         | 4.35%   |
-| LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch              | 1         | 4.35%   |
+| LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch              | 1         | 4.35%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch                 | 1         | 4.35%   |
 | Goldstar 2D HD TV GSM59CA 1366x768 509x286mm 23.0-inch                   | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN15C9 1366x768 344x193mm 15.5-inch          | 1         | 4.35%   |
@@ -1335,7 +1336,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 1         | 4.35%   |
 | AU Optronics LCD Monitor AUO3791 1920x1080 344x194mm 15.5-inch           | 1         | 4.35%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 4.35%   |
-| AOC 2260W AOC2260 1920x1080 477x268mm 21.5-inch                          | 1         | 4.35%   |
+| AOC 2260WG5 AOC2260 1920x1080 477x268mm 21.5-inch                        | 1         | 4.35%   |
 
 Monitor Resolution
 ------------------
@@ -1615,8 +1616,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 21        | 56.76%  |
-| Ethernet | 16        | 43.24%  |
+| WiFi     | 20        | 80%     |
+| Ethernet | 5         | 20%     |
 
 NICs
 ----
@@ -1676,18 +1677,17 @@ Controller models
 
 | Model                                            | Notebooks | Percent |
 |--------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                          | 4         | 21.05%  |
+| Realtek Bluetooth Radio                          | 5         | 26.32%  |
 | Intel Bluetooth wireless interface               | 2         | 10.53%  |
 | Toshiba RT Bluetooth Radio                       | 1         | 5.26%   |
 | Toshiba Integrated Bluetooth HCI                 | 1         | 5.26%   |
-| Realtek RTL8821A Bluetooth                       | 1         | 5.26%   |
 | Ralink RT3290 Bluetooth                          | 1         | 5.26%   |
 | Qualcomm Atheros  Bluetooth Device               | 1         | 5.26%   |
 | Lite-On Atheros AR3012 Bluetooth                 | 1         | 5.26%   |
 | Intel Centrino Bluetooth Wireless Transceiver    | 1         | 5.26%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter | 1         | 5.26%   |
-| Intel Bluetooth Device                           | 1         | 5.26%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)   | 1         | 5.26%   |
+| Intel AX201 Bluetooth                            | 1         | 5.26%   |
 | IMC Networks Bluetooth Device                    | 1         | 5.26%   |
 | Foxconn / Hon Hai BCM43142A0                     | 1         | 5.26%   |
 | Broadcom HP Portable Valentine                   | 1         | 5.26%   |
@@ -1779,7 +1779,7 @@ Memory module models
 | Samsung RAM M471B5773CHS-CH9 2GB DIMM DDR3 1333MT/s                | 1         | 11.11%  |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s              | 1         | 11.11%  |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s              | 1         | 11.11%  |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s           | 1         | 11.11%  |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s              | 1         | 11.11%  |
 | Micron RAM 8KTF51264HDZ-1G6E1 4GB SODIMM DDR3 1600MT/s             | 1         | 11.11%  |
 | Kingmax RAM FSFE85F-C8KL9 2GB DIMM DDR3 1333MT/s                   | 1         | 11.11%  |
 
@@ -2004,9 +2004,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 16        | 69.57%  |
-| 1     | 5         | 21.74%  |
-| 2     | 2         | 8.7%    |
+| 0     | 17        | 70.83%  |
+| 1     | 5         | 20.83%  |
+| 2     | 2         | 8.33%   |
 
 Unsupported Device Types
 ------------------------

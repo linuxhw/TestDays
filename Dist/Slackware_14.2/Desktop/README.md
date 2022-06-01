@@ -175,7 +175,7 @@ Total: 36
 | MSI        | G31TM-P21                   | [91c11ae82e](https://linux-hardware.org/?probe=91c11ae82e) | May 07, 2021 |
 | Foxconn    | 2ADA                        | [425d15a5ce](https://linux-hardware.org/?probe=425d15a5ce) | Mar 09, 2021 |
 | Dell       | 0TP412                      | [f0e56aacff](https://linux-hardware.org/?probe=f0e56aacff) | Jan 05, 2021 |
-| Supermicro | X8SIE 0001                  | [96607f4270](https://linux-hardware.org/?probe=96607f4270) | Nov 12, 2020 |
+| NETGEAR    | ReadyDATA 5200              | [96607f4270](https://linux-hardware.org/?probe=96607f4270) | Nov 12, 2020 |
 | ASRock     | Z390M-ITX/ac                | [06eb8afdbc](https://linux-hardware.org/?probe=06eb8afdbc) | Oct 19, 2020 |
 | ASUSTek    | PRIME B450-PLUS             | [d42d44dd82](https://linux-hardware.org/?probe=d42d44dd82) | Jul 23, 2020 |
 | ASUSTek    | PRIME B450-PLUS             | [888f105221](https://linux-hardware.org/?probe=888f105221) | Jul 23, 2020 |
@@ -406,8 +406,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 20       | 64.52%  |
-| Yes       | 11       | 35.48%  |
+| Yes       | 19       | 61.29%  |
+| No        | 12       | 38.71%  |
 
 Dual Boot (Win)
 ---------------
@@ -439,9 +439,10 @@ Motherboard manufacturer
 | Gigabyte Technology | 4        | 12.9%   |
 | Hewlett-Packard     | 3        | 9.68%   |
 | ASRock              | 3        | 9.68%   |
-| Supermicro          | 2        | 6.45%   |
 | Dell                | 2        | 6.45%   |
+| Supermicro          | 1        | 3.23%   |
 | Shuttle             | 1        | 3.23%   |
+| NETGEAR             | 1        | 3.23%   |
 | MSI                 | 1        | 3.23%   |
 | Intel               | 1        | 3.23%   |
 | Huanan              | 1        | 3.23%   |
@@ -460,8 +461,8 @@ Motherboard model
 |-------------------------------------|----------|---------|
 | ASUS All Series                     | 3        | 9.68%   |
 | Supermicro X9DA7/E                  | 1        | 3.23%   |
-| Supermicro ReadyDATA 5200           | 1        | 3.23%   |
 | Shuttle NC03U                       | 1        | 3.23%   |
+| NETGEAR ReadyDATA 5200              | 1        | 3.23%   |
 | MSI MS-7529                         | 1        | 3.23%   |
 | Intel DZ77RE-75K AAG39010-302       | 1        | 3.23%   |
 | Huanan X79-8D VAA31                 | 1        | 3.23%   |
@@ -496,34 +497,34 @@ Motherboard model prefix
 ![Model Family](./images/pie_chart/node_model_family.svg)
 
 
-| Name                 | Desktops | Percent |
-|----------------------|----------|---------|
-| ASUS PRIME           | 3        | 9.68%   |
-| ASUS All             | 3        | 9.68%   |
-| Dell Precision       | 2        | 6.45%   |
-| Supermicro X9DA7     | 1        | 3.23%   |
-| Supermicro ReadyDATA | 1        | 3.23%   |
-| Shuttle NC03U        | 1        | 3.23%   |
-| MSI MS-7529          | 1        | 3.23%   |
-| Intel DZ77RE-75K     | 1        | 3.23%   |
-| Huanan X79-8D        | 1        | 3.23%   |
-| HPE ProLiant         | 1        | 3.23%   |
-| HP Z620              | 1        | 3.23%   |
-| HP t620              | 1        | 3.23%   |
-| HP 500-515na         | 1        | 3.23%   |
-| Gigabyte X150M-PRO   | 1        | 3.23%   |
-| Gigabyte N3160TN     | 1        | 3.23%   |
-| Gigabyte M61SME-S2   | 1        | 3.23%   |
-| Gigabyte 970A-DS3P   | 1        | 3.23%   |
-| Foxconn p6-2390      | 1        | 3.23%   |
-| ASUS ROG             | 1        | 3.23%   |
-| ASUS Pro             | 1        | 3.23%   |
-| ASUS P5QLD           | 1        | 3.23%   |
-| ASUS M5A97           | 1        | 3.23%   |
-| ASUS A68HM-PLUS      | 1        | 3.23%   |
-| ASRock Z390M-ITX     | 1        | 3.23%   |
-| ASRock H87M          | 1        | 3.23%   |
-| ASRock H310CM-HDV    | 1        | 3.23%   |
+| Name               | Desktops | Percent |
+|--------------------|----------|---------|
+| ASUS PRIME         | 3        | 9.68%   |
+| ASUS All           | 3        | 9.68%   |
+| Dell Precision     | 2        | 6.45%   |
+| Supermicro X9DA7   | 1        | 3.23%   |
+| Shuttle NC03U      | 1        | 3.23%   |
+| NETGEAR ReadyDATA  | 1        | 3.23%   |
+| MSI MS-7529        | 1        | 3.23%   |
+| Intel DZ77RE-75K   | 1        | 3.23%   |
+| Huanan X79-8D      | 1        | 3.23%   |
+| HPE ProLiant       | 1        | 3.23%   |
+| HP Z620            | 1        | 3.23%   |
+| HP t620            | 1        | 3.23%   |
+| HP 500-515na       | 1        | 3.23%   |
+| Gigabyte X150M-PRO | 1        | 3.23%   |
+| Gigabyte N3160TN   | 1        | 3.23%   |
+| Gigabyte M61SME-S2 | 1        | 3.23%   |
+| Gigabyte 970A-DS3P | 1        | 3.23%   |
+| Foxconn p6-2390    | 1        | 3.23%   |
+| ASUS ROG           | 1        | 3.23%   |
+| ASUS Pro           | 1        | 3.23%   |
+| ASUS P5QLD         | 1        | 3.23%   |
+| ASUS M5A97         | 1        | 3.23%   |
+| ASUS A68HM-PLUS    | 1        | 3.23%   |
+| ASRock Z390M-ITX   | 1        | 3.23%   |
+| ASRock H87M        | 1        | 3.23%   |
+| ASRock H310CM-HDV  | 1        | 3.23%   |
 
 MFG Year
 --------
@@ -729,35 +730,36 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                  | Desktops | Percent |
-|-----------------------|----------|---------|
-| Yekaterinburg         | 3        | 9.68%   |
-| Springfield           | 2        | 6.45%   |
-| Caen                  | 2        | 6.45%   |
-| Weilheim              | 1        | 3.23%   |
-| Toronto               | 1        | 3.23%   |
-| Tiffin                | 1        | 3.23%   |
-| Stockholm             | 1        | 3.23%   |
-| Sidcup                | 1        | 3.23%   |
-| Saedinenie            | 1        | 3.23%   |
-| Paterson              | 1        | 3.23%   |
-| Palma                 | 1        | 3.23%   |
-| Ottawa                | 1        | 3.23%   |
-| Oldham                | 1        | 3.23%   |
-| Naples                | 1        | 3.23%   |
-| Milwaukee             | 1        | 3.23%   |
-| London                | 1        | 3.23%   |
-| Lisbon                | 1        | 3.23%   |
-| Lexington             | 1        | 3.23%   |
-| Kowloon               | 1        | 3.23%   |
-| Koblenz               | 1        | 3.23%   |
-| Haar                  | 1        | 3.23%   |
-| Enskede-Arsta-Vantoer | 1        | 3.23%   |
-| Dallas                | 1        | 3.23%   |
-| Chelmsford            | 1        | 3.23%   |
-| Carrollton            | 1        | 3.23%   |
-| Camp Hill             | 1        | 3.23%   |
-| Barry                 | 1        | 3.23%   |
+| City            | Desktops | Percent |
+|-----------------|----------|---------|
+| Yekaterinburg   | 3        | 9.68%   |
+| Paris           | 2        | 6.45%   |
+| Weilheim        | 1        | 3.23%   |
+| Tiffin          | 1        | 3.23%   |
+| Stockholm       | 1        | 3.23%   |
+| Springfield     | 1        | 3.23%   |
+| Southend-on-Sea | 1        | 3.23%   |
+| Shrewsbury      | 1        | 3.23%   |
+| Plovdiv         | 1        | 3.23%   |
+| Palma           | 1        | 3.23%   |
+| Ottawa          | 1        | 3.23%   |
+| Oldham          | 1        | 3.23%   |
+| Naples          | 1        | 3.23%   |
+| Milwaukee       | 1        | 3.23%   |
+| Mason           | 1        | 3.23%   |
+| Lisbon          | 1        | 3.23%   |
+| Lexington       | 1        | 3.23%   |
+| Kowloon         | 1        | 3.23%   |
+| Koblenz         | 1        | 3.23%   |
+| Hampstead       | 1        | 3.23%   |
+| Gothenburg      | 1        | 3.23%   |
+| Garfield        | 1        | 3.23%   |
+| Düsseldorf     | 1        | 3.23%   |
+| Dallas          | 1        | 3.23%   |
+| Carrollton      | 1        | 3.23%   |
+| Camp Hill       | 1        | 3.23%   |
+| Barry           | 1        | 3.23%   |
+| Barrie          | 1        | 3.23%   |
 
 Drives
 ------
@@ -1526,11 +1528,11 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 1        | 3.13%   |
+| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 1        | 3.13%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.13%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.13%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.13%   |
-| Toshiba TV TSB0206 1920x1080 700x390mm 31.5-inch                     | 1        | 3.13%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 3.13%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 3.13%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1        | 3.13%   |
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1        | 3.13%   |
@@ -1543,10 +1545,10 @@ Monitor models
 | Hewlett-Packard 2309 HWP2823 1920x1080 510x287mm 23.0-inch           | 1        | 3.13%   |
 | Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                 | 1        | 3.13%   |
 | Goldstar W2242 GSM5677 1680x1050 474x296mm 22.0-inch                 | 1        | 3.13%   |
-| Goldstar LG FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch            | 1        | 3.13%   |
+| Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch               | 1        | 3.13%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1        | 3.13%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1        | 3.13%   |
-| Gigabyte Technology G27Q GBT2709 2560x1440 600x330mm 27.0-inch       | 1        | 3.13%   |
+| Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1        | 3.13%   |
 | Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                     | 1        | 3.13%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 3.13%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1        | 3.13%   |
@@ -1574,7 +1576,7 @@ Monitor screen resolution
 | 2560x1440 (QHD)    | 2        | 6.9%    |
 | 1920x1200 (WUXGA)  | 2        | 6.9%    |
 | 1680x1050 (WSXGA+) | 2        | 6.9%    |
-| 2880x1800          | 1        | 3.45%   |
+| 3440x1440          | 1        | 3.45%   |
 | 2288x1287          | 1        | 3.45%   |
 | 1920x540           | 1        | 3.45%   |
 | 1366x768 (WXGA)    | 1        | 3.45%   |
@@ -1987,7 +1989,7 @@ Sound card models
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1        | 1.82%   |
 | Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1        | 1.82%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1        | 1.82%   |
-| C-Media Electronics USB Audio Device                                                              | 1        | 1.82%   |
+| C-Media Electronics SADES Luna                                                                    | 1        | 1.82%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1        | 1.82%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1        | 1.82%   |
 | AMD Navi 10 HDMI Audio                                                                            | 1        | 1.82%   |
@@ -2008,17 +2010,18 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Kingston            | 6        | 18.75%  |
-| Corsair             | 6        | 18.75%  |
-| Unknown             | 4        | 12.5%   |
-| SK Hynix            | 4        | 12.5%   |
-| Crucial             | 4        | 12.5%   |
-| Samsung Electronics | 2        | 6.25%   |
-| Micron Technology   | 2        | 6.25%   |
-| Transcend           | 1        | 3.13%   |
-| Team                | 1        | 3.13%   |
-| HPE                 | 1        | 3.13%   |
-| AMD                 | 1        | 3.13%   |
+| Kingston            | 6        | 18.18%  |
+| Corsair             | 6        | 18.18%  |
+| Unknown             | 4        | 12.12%  |
+| SK Hynix            | 4        | 12.12%  |
+| Crucial             | 4        | 12.12%  |
+| Samsung Electronics | 2        | 6.06%   |
+| Micron Technology   | 2        | 6.06%   |
+| Transcend           | 1        | 3.03%   |
+| Team                | 1        | 3.03%   |
+| HPE                 | 1        | 3.03%   |
+| AMD                 | 1        | 3.03%   |
+| A Force             | 1        | 3.03%   |
 
 Memory Model
 ------------
@@ -2030,43 +2033,45 @@ Memory module models
 
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s              | 1        | 2.7%    |
-| Unknown RAM Module 2048MB DIMM SDRAM                       | 1        | 2.7%    |
-| Unknown RAM Module 2048MB DIMM DDR 800MT/s                 | 1        | 2.7%    |
-| Unknown RAM Module 2048MB DIMM 667MT/s                     | 1        | 2.7%    |
-| Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.7%    |
-| Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.7%    |
-| Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s       | 1        | 2.7%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s         | 1        | 2.7%    |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.7%    |
-| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.7%    |
-| SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.7%    |
-| SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.7%    |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.7%    |
-| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.7%    |
-| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s     | 1        | 2.7%    |
-| Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s     | 1        | 2.7%    |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.7%    |
-| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.7%    |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.7%    |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.7%    |
-| Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.7%    |
-| Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.7%    |
-| Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.7%    |
-| Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s    | 1        | 2.7%    |
-| HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s               | 1        | 2.7%    |
-| Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s      | 1        | 2.7%    |
-| Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s      | 1        | 2.7%    |
-| Crucial RAM BLS8G4D32AESBK.M8FE1 8192MB DIMM DDR4 3600MT/s | 1        | 2.7%    |
-| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s    | 1        | 2.7%    |
-| Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s | 1        | 2.7%    |
-| Corsair RAM CMZ32GX3M4X1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.7%    |
-| Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.7%    |
-| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.7%    |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.7%    |
-| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 1        | 2.7%    |
-| Corsair RAM CMK16GX4M1A2666C16 16GB DIMM DDR4 2667MT/s     | 1        | 2.7%    |
-| AMD RAM R534G1601S1SL 4096MB DIMM DDR3 1600MT/s            | 1        | 2.7%    |
+| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s              | 1        | 2.56%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                       | 1        | 2.56%   |
+| Unknown RAM Module 2048MB DIMM DDR 800MT/s                 | 1        | 2.56%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                     | 1        | 2.56%   |
+| Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.56%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.56%   |
+| Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s       | 1        | 2.56%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s         | 1        | 2.56%   |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.56%   |
+| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.56%   |
+| SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
+| SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.56%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.56%   |
+| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s     | 1        | 2.56%   |
+| Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s        | 1        | 2.56%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.56%   |
+| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.56%   |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s     | 1        | 2.56%   |
+| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.56%   |
+| Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.56%   |
+| Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s    | 1        | 2.56%   |
+| HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s               | 1        | 2.56%   |
+| Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s      | 1        | 2.56%   |
+| Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s    | 1        | 2.56%   |
+| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s    | 1        | 2.56%   |
+| Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s | 1        | 2.56%   |
+| Corsair RAM CMZ32GX3M4X1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.56%   |
+| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.56%   |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 1        | 2.56%   |
+| Corsair RAM CMK16GX4M1A2666C16 16GB DIMM DDR4 2667MT/s     | 1        | 2.56%   |
+| AMD RAM R534G1601S1SL 4GB DIMM DDR3 1600MT/s               | 1        | 2.56%   |
+| A Force RAM 1GX72V160K 8192MB DIMM DDR3 1333MT/s           | 1        | 2.56%   |
+| A Force RAM 1GX72B160K 8192MB DIMM DDR3 1333MT/s           | 1        | 2.56%   |
 
 Memory Kind
 -----------
@@ -2078,12 +2083,12 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR3    | 16       | 53.33%  |
-| DDR4    | 10       | 33.33%  |
-| SDRAM   | 1        | 3.33%   |
-| DDR2    | 1        | 3.33%   |
-| DDR     | 1        | 3.33%   |
-| Unknown | 1        | 3.33%   |
+| DDR3    | 17       | 54.84%  |
+| DDR4    | 10       | 32.26%  |
+| SDRAM   | 1        | 3.23%   |
+| DDR2    | 1        | 3.23%   |
+| DDR     | 1        | 3.23%   |
+| Unknown | 1        | 3.23%   |
 
 Memory Form Factor
 ------------------
@@ -2095,8 +2100,8 @@ Physical design of the memory module
 
 | Name   | Desktops | Percent |
 |--------|----------|---------|
-| DIMM   | 28       | 93.33%  |
-| SODIMM | 2        | 6.67%   |
+| DIMM   | 29       | 93.55%  |
+| SODIMM | 2        | 6.45%   |
 
 Memory Size
 -----------
@@ -2108,12 +2113,12 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 14       | 42.42%  |
-| 4096  | 8        | 24.24%  |
-| 2048  | 4        | 12.12%  |
-| 16384 | 3        | 9.09%   |
-| 32768 | 2        | 6.06%   |
-| 1024  | 2        | 6.06%   |
+| 8192  | 15       | 44.12%  |
+| 4096  | 8        | 23.53%  |
+| 2048  | 4        | 11.76%  |
+| 16384 | 3        | 8.82%   |
+| 32768 | 2        | 5.88%   |
+| 1024  | 2        | 5.88%   |
 
 Memory Speed
 ------------
@@ -2125,21 +2130,21 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 10       | 30.3%   |
-| 2400    | 3        | 9.09%   |
-| 667     | 3        | 9.09%   |
-| 3600    | 2        | 6.06%   |
-| 3200    | 2        | 6.06%   |
-| 2666    | 2        | 6.06%   |
-| 1867    | 2        | 6.06%   |
-| 1333    | 2        | 6.06%   |
-| 65535   | 1        | 3.03%   |
-| 2667    | 1        | 3.03%   |
-| 2133    | 1        | 3.03%   |
-| 2000    | 1        | 3.03%   |
-| 1866    | 1        | 3.03%   |
-| 800     | 1        | 3.03%   |
-| Unknown | 1        | 3.03%   |
+| 1600    | 10       | 29.41%  |
+| 2400    | 3        | 8.82%   |
+| 1333    | 3        | 8.82%   |
+| 667     | 3        | 8.82%   |
+| 3600    | 2        | 5.88%   |
+| 3200    | 2        | 5.88%   |
+| 2666    | 2        | 5.88%   |
+| 1867    | 2        | 5.88%   |
+| 65535   | 1        | 2.94%   |
+| 2667    | 1        | 2.94%   |
+| 2133    | 1        | 2.94%   |
+| 2000    | 1        | 2.94%   |
+| 1866    | 1        | 2.94%   |
+| 800     | 1        | 2.94%   |
+| Unknown | 1        | 2.94%   |
 
 Printers & scanners
 -------------------

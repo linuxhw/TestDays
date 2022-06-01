@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 90
+Total: 83
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
@@ -186,7 +186,6 @@ Total: 90
 | Gigabyte      | Z170X-Gaming 7              | [edb786e43a](https://linux-hardware.org/?probe=edb786e43a) | Mar 25, 2021 |
 | ASUSTek       | PRIME A320M-K               | [1db414e1cd](https://linux-hardware.org/?probe=1db414e1cd) | Mar 21, 2021 |
 | Gigabyte      | H81M-D2V                    | [d62d3a2dad](https://linux-hardware.org/?probe=d62d3a2dad) | Mar 19, 2021 |
-| Gigabyte      | H81M-D2V                    | [3fbfb29382](https://linux-hardware.org/?probe=3fbfb29382) | Mar 14, 2021 |
 | MSI           | B460M PRO-VDH WIFI          | [b165cd04ce](https://linux-hardware.org/?probe=b165cd04ce) | Feb 25, 2021 |
 | Dell          | 0KWVT8 A00                  | [56f1d17280](https://linux-hardware.org/?probe=56f1d17280) | Feb 04, 2021 |
 | Dell          | 00V62H A00                  | [863c1d64fe](https://linux-hardware.org/?probe=863c1d64fe) | Jan 23, 2021 |
@@ -206,9 +205,7 @@ Total: 90
 | ASUSTek       | P8H77-M PRO                 | [7318b0893d](https://linux-hardware.org/?probe=7318b0893d) | Sep 22, 2020 |
 | Gigabyte      | H81M-D2V                    | [c46dd29f7a](https://linux-hardware.org/?probe=c46dd29f7a) | Sep 17, 2020 |
 | Gigabyte      | Z77-DS3H                    | [d7f43611eb](https://linux-hardware.org/?probe=d7f43611eb) | Sep 13, 2020 |
-| Foxconn       | 2ADA                        | [f1eb818ac5](https://linux-hardware.org/?probe=f1eb818ac5) | Sep 04, 2020 |
 | HP            | 81B4                        | [9e3aa00a36](https://linux-hardware.org/?probe=9e3aa00a36) | Aug 21, 2020 |
-| Foxconn       | 2ADA                        | [f93d4fa401](https://linux-hardware.org/?probe=f93d4fa401) | Jul 30, 2020 |
 | HP            | 81B4                        | [03c849fcd2](https://linux-hardware.org/?probe=03c849fcd2) | Jul 26, 2020 |
 | Foxconn       | 2ADA                        | [035b1fd159](https://linux-hardware.org/?probe=035b1fd159) | Jul 24, 2020 |
 | ASUSTek       | AM1M-A/BR                   | [dafd042867](https://linux-hardware.org/?probe=dafd042867) | Jul 22, 2020 |
@@ -225,14 +222,11 @@ Total: 90
 | ASRock        | J5005-ITX                   | [94c7463689](https://linux-hardware.org/?probe=94c7463689) | Mar 16, 2020 |
 | ASRock        | J5005-ITX                   | [12e2c41514](https://linux-hardware.org/?probe=12e2c41514) | Mar 08, 2020 |
 | ASRock        | J5005-ITX                   | [77ca797332](https://linux-hardware.org/?probe=77ca797332) | Mar 04, 2020 |
-| ASRock        | J5005-ITX                   | [624ee7e0ec](https://linux-hardware.org/?probe=624ee7e0ec) | Mar 04, 2020 |
-| ASRock        | J5005-ITX                   | [be5d91522e](https://linux-hardware.org/?probe=be5d91522e) | Mar 04, 2020 |
 | ASRock        | J5005-ITX                   | [455989807e](https://linux-hardware.org/?probe=455989807e) | Mar 04, 2020 |
 | Gigabyte      | GA-78LMT-USB3               | [c8e114bee8](https://linux-hardware.org/?probe=c8e114bee8) | Feb 14, 2020 |
 | Medion        | MS-7728                     | [645a7667ce](https://linux-hardware.org/?probe=645a7667ce) | Feb 07, 2020 |
 | Medion        | MS-7728                     | [c55f5705f3](https://linux-hardware.org/?probe=c55f5705f3) | Feb 07, 2020 |
 | ASUSTek       | Z170-AR                     | [cd4ef749f3](https://linux-hardware.org/?probe=cd4ef749f3) | Feb 03, 2020 |
-| ASUSTek       | Z170-AR                     | [3c9887587e](https://linux-hardware.org/?probe=3c9887587e) | Feb 03, 2020 |
 | ASUSTek       | Z170-AR                     | [74934afe78](https://linux-hardware.org/?probe=74934afe78) | Feb 03, 2020 |
 | ASRock        | N68-S3 FX                   | [ddf39244d2](https://linux-hardware.org/?probe=ddf39244d2) | Dec 24, 2019 |
 | ASRock        | N68-S3 FX                   | [5f2a15fa54](https://linux-hardware.org/?probe=5f2a15fa54) | Dec 24, 2019 |
@@ -247,7 +241,6 @@ Total: 90
 | ASUSTek       | PRIME B350-PLUS             | [dccca67c2e](https://linux-hardware.org/?probe=dccca67c2e) | Mar 25, 2019 |
 | ASUSTek       | PRIME B350-PLUS             | [d0787d5045](https://linux-hardware.org/?probe=d0787d5045) | Mar 25, 2019 |
 | Gigabyte      | H110M-H-CF                  | [730a46747b](https://linux-hardware.org/?probe=730a46747b) | Nov 07, 2018 |
-| Gigabyte      | H110M-H-CF                  | [96835c9cef](https://linux-hardware.org/?probe=96835c9cef) | Oct 30, 2018 |
 | Gigabyte      | H110M-H-CF                  | [0e7a915eb4](https://linux-hardware.org/?probe=0e7a915eb4) | Oct 30, 2018 |
 
 System
@@ -547,52 +540,52 @@ Motherboard model
 ![Model](./images/pie_chart/node_model.svg)
 
 
-| Name                                          | Desktops | Percent |
-|-----------------------------------------------|----------|---------|
-| TSINGHUA TONGFANG COMPUTER E500               | 4        | 8%      |
-| Semp Toshiba STI                              | 2        | 4%      |
-| ECS H81H3-M4                                  | 2        | 4%      |
-| ASUS All Series                               | 2        | 4%      |
-| Positivo POS-PQ45AU                           | 1        | 2%      |
-| Positivo POS-EINM70CS                         | 1        | 2%      |
-| MSI MS-7C83                                   | 1        | 2%      |
-| MSI MS-7851                                   | 1        | 2%      |
-| MSI MS-7681                                   | 1        | 2%      |
-| Medion MS-7728                                | 1        | 2%      |
-| Loongson Loongson-LS3A3000-7A1000-1w-V1.2-Dev | 1        | 2%      |
-| Lenovo ThinkCentre M910t-N000 10N9CTO1WW      | 1        | 2%      |
-| Lenovo ThinkCentre M82 2929AJ2                | 1        | 2%      |
-| Huanan X99-8M-F V1.1                          | 1        | 2%      |
-| HP 260-P020il                                 | 1        | 2%      |
-| Gigabyte Z77-DS3H                             | 1        | 2%      |
-| Gigabyte Z170X-Gaming 7                       | 1        | 2%      |
-| Gigabyte H81M-D2V                             | 1        | 2%      |
-| Gigabyte H110M-H                              | 1        | 2%      |
-| Gigabyte GA-78LMT-USB3                        | 1        | 2%      |
-| Gigabyte B550M DS3H                           | 1        | 2%      |
-| Gigabyte B365M D3H                            | 1        | 2%      |
-| Gigabyte B360M AORUS Gaming 3                 | 1        | 2%      |
-| Gigabyte 990XA-UD3                            | 1        | 2%      |
-| Foxconn p7-1430br                             | 1        | 2%      |
-| Dell Vostro 230                               | 1        | 2%      |
-| Dell OptiPlex 9020                            | 1        | 2%      |
-| Dell OptiPlex 760                             | 1        | 2%      |
-| Dell Inspiron One 2020                        | 1        | 2%      |
-| ASUS PRIME B450M-GAMING/BR                    | 1        | 2%      |
-| ASUS PRIME B350-PLUS                          | 1        | 2%      |
-| ASUS PRIME A320M-K                            | 1        | 2%      |
-| ASUS P8H77-M PRO                              | 1        | 2%      |
-| ASUS P8H61-MX                                 | 1        | 2%      |
-| ASUS P8H61-M LX2 R2.0                         | 1        | 2%      |
-| ASUS P5Q-E                                    | 1        | 2%      |
-| ASUS P5G41T-M LX2/BR                          | 1        | 2%      |
-| ASUS M5A78L-M/USB3                            | 1        | 2%      |
-| ASUS H110I-PLUS                               | 1        | 2%      |
-| ASRock Z77 Extreme4                           | 1        | 2%      |
-| ASRock Z68 Extreme7 Gen3                      | 1        | 2%      |
-| ASRock N68-S3 FX                              | 1        | 2%      |
-| ASRock J5005-ITX                              | 1        | 2%      |
-| AMD X64                                       | 1        | 2%      |
+| Name                                     | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| TSINGHUA TONGFANG COMPUTER E500          | 4        | 8%      |
+| Semp Toshiba STI                         | 2        | 4%      |
+| ECS H81H3-M4                             | 2        | 4%      |
+| ASUS All Series                          | 2        | 4%      |
+| Positivo POS-PQ45AU                      | 1        | 2%      |
+| Positivo POS-EINM70CS                    | 1        | 2%      |
+| MSI MS-7C83                              | 1        | 2%      |
+| MSI MS-7851                              | 1        | 2%      |
+| MSI MS-7681                              | 1        | 2%      |
+| Medion MS-7728                           | 1        | 2%      |
+| Loongson LS3A3000-7A1000-1w-V1.2-Dev     | 1        | 2%      |
+| Lenovo ThinkCentre M910t-N000 10N9CTO1WW | 1        | 2%      |
+| Lenovo ThinkCentre M82 2929AJ2           | 1        | 2%      |
+| Huanan X99-8M-F V1.1                     | 1        | 2%      |
+| HP 260-P020il                            | 1        | 2%      |
+| Gigabyte Z77-DS3H                        | 1        | 2%      |
+| Gigabyte Z170X-Gaming 7                  | 1        | 2%      |
+| Gigabyte H81M-D2V                        | 1        | 2%      |
+| Gigabyte H110M-H                         | 1        | 2%      |
+| Gigabyte GA-78LMT-USB3                   | 1        | 2%      |
+| Gigabyte B550M DS3H                      | 1        | 2%      |
+| Gigabyte B365M D3H                       | 1        | 2%      |
+| Gigabyte B360M AORUS Gaming 3            | 1        | 2%      |
+| Gigabyte 990XA-UD3                       | 1        | 2%      |
+| Foxconn p7-1430br                        | 1        | 2%      |
+| Dell Vostro 230                          | 1        | 2%      |
+| Dell OptiPlex 9020                       | 1        | 2%      |
+| Dell OptiPlex 760                        | 1        | 2%      |
+| Dell Inspiron One 2020                   | 1        | 2%      |
+| ASUS PRIME B450M-GAMING/BR               | 1        | 2%      |
+| ASUS PRIME B350-PLUS                     | 1        | 2%      |
+| ASUS PRIME A320M-K                       | 1        | 2%      |
+| ASUS P8H77-M PRO                         | 1        | 2%      |
+| ASUS P8H61-MX                            | 1        | 2%      |
+| ASUS P8H61-M LX2 R2.0                    | 1        | 2%      |
+| ASUS P5Q-E                               | 1        | 2%      |
+| ASUS P5G41T-M LX2/BR                     | 1        | 2%      |
+| ASUS M5A78L-M/USB3                       | 1        | 2%      |
+| ASUS H110I-PLUS                          | 1        | 2%      |
+| ASRock Z77 Extreme4                      | 1        | 2%      |
+| ASRock Z68 Extreme7 Gen3                 | 1        | 2%      |
+| ASRock N68-S3 FX                         | 1        | 2%      |
+| ASRock J5005-ITX                         | 1        | 2%      |
+| AMD X64                                  | 1        | 2%      |
 
 Model Family
 ------------
@@ -602,48 +595,48 @@ Motherboard model prefix
 ![Model Family](./images/pie_chart/node_model_family.svg)
 
 
-| Name                                          | Desktops | Percent |
-|-----------------------------------------------|----------|---------|
-| TSINGHUA TONGFANG COMPUTER E500               | 4        | 8%      |
-| ASUS PRIME                                    | 3        | 6%      |
-| Semp Toshiba STI                              | 2        | 4%      |
-| Lenovo ThinkCentre                            | 2        | 4%      |
-| ECS H81H3-M4                                  | 2        | 4%      |
-| Dell OptiPlex                                 | 2        | 4%      |
-| ASUS All                                      | 2        | 4%      |
-| Positivo POS-PQ45AU                           | 1        | 2%      |
-| Positivo POS-EINM70CS                         | 1        | 2%      |
-| MSI MS-7C83                                   | 1        | 2%      |
-| MSI MS-7851                                   | 1        | 2%      |
-| MSI MS-7681                                   | 1        | 2%      |
-| Medion MS-7728                                | 1        | 2%      |
-| Loongson Loongson-LS3A3000-7A1000-1w-V1.2-Dev | 1        | 2%      |
-| Huanan X99-8M-F                               | 1        | 2%      |
-| HP 260-P020il                                 | 1        | 2%      |
-| Gigabyte Z77-DS3H                             | 1        | 2%      |
-| Gigabyte Z170X-Gaming                         | 1        | 2%      |
-| Gigabyte H81M-D2V                             | 1        | 2%      |
-| Gigabyte H110M-H                              | 1        | 2%      |
-| Gigabyte GA-78LMT-USB3                        | 1        | 2%      |
-| Gigabyte B550M                                | 1        | 2%      |
-| Gigabyte B365M                                | 1        | 2%      |
-| Gigabyte B360M                                | 1        | 2%      |
-| Gigabyte 990XA-UD3                            | 1        | 2%      |
-| Foxconn p7-1430br                             | 1        | 2%      |
-| Dell Vostro                                   | 1        | 2%      |
-| Dell Inspiron                                 | 1        | 2%      |
-| ASUS P8H77-M                                  | 1        | 2%      |
-| ASUS P8H61-MX                                 | 1        | 2%      |
-| ASUS P8H61-M                                  | 1        | 2%      |
-| ASUS P5Q-E                                    | 1        | 2%      |
-| ASUS P5G41T-M                                 | 1        | 2%      |
-| ASUS M5A78L-M                                 | 1        | 2%      |
-| ASUS H110I-PLUS                               | 1        | 2%      |
-| ASRock Z77                                    | 1        | 2%      |
-| ASRock Z68                                    | 1        | 2%      |
-| ASRock N68-S3                                 | 1        | 2%      |
-| ASRock J5005-ITX                              | 1        | 2%      |
-| AMD X64                                       | 1        | 2%      |
+| Name                                 | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| TSINGHUA TONGFANG COMPUTER E500      | 4        | 8%      |
+| ASUS PRIME                           | 3        | 6%      |
+| Semp Toshiba STI                     | 2        | 4%      |
+| Lenovo ThinkCentre                   | 2        | 4%      |
+| ECS H81H3-M4                         | 2        | 4%      |
+| Dell OptiPlex                        | 2        | 4%      |
+| ASUS All                             | 2        | 4%      |
+| Positivo POS-PQ45AU                  | 1        | 2%      |
+| Positivo POS-EINM70CS                | 1        | 2%      |
+| MSI MS-7C83                          | 1        | 2%      |
+| MSI MS-7851                          | 1        | 2%      |
+| MSI MS-7681                          | 1        | 2%      |
+| Medion MS-7728                       | 1        | 2%      |
+| Loongson LS3A3000-7A1000-1w-V1.2-Dev | 1        | 2%      |
+| Huanan X99-8M-F                      | 1        | 2%      |
+| HP 260-P020il                        | 1        | 2%      |
+| Gigabyte Z77-DS3H                    | 1        | 2%      |
+| Gigabyte Z170X-Gaming                | 1        | 2%      |
+| Gigabyte H81M-D2V                    | 1        | 2%      |
+| Gigabyte H110M-H                     | 1        | 2%      |
+| Gigabyte GA-78LMT-USB3               | 1        | 2%      |
+| Gigabyte B550M                       | 1        | 2%      |
+| Gigabyte B365M                       | 1        | 2%      |
+| Gigabyte B360M                       | 1        | 2%      |
+| Gigabyte 990XA-UD3                   | 1        | 2%      |
+| Foxconn p7-1430br                    | 1        | 2%      |
+| Dell Vostro                          | 1        | 2%      |
+| Dell Inspiron                        | 1        | 2%      |
+| ASUS P8H77-M                         | 1        | 2%      |
+| ASUS P8H61-MX                        | 1        | 2%      |
+| ASUS P8H61-M                         | 1        | 2%      |
+| ASUS P5Q-E                           | 1        | 2%      |
+| ASUS P5G41T-M                        | 1        | 2%      |
+| ASUS M5A78L-M                        | 1        | 2%      |
+| ASUS H110I-PLUS                      | 1        | 2%      |
+| ASRock Z77                           | 1        | 2%      |
+| ASRock Z68                           | 1        | 2%      |
+| ASRock N68-S3                        | 1        | 2%      |
+| ASRock J5005-ITX                     | 1        | 2%      |
+| AMD X64                              | 1        | 2%      |
 
 MFG Year
 --------
@@ -732,12 +725,12 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1.01-2.0  | 16       | 28.07%  |
-| 4.01-8.0  | 15       | 26.32%  |
-| 2.01-3.0  | 12       | 21.05%  |
-| 3.01-4.0  | 9        | 15.79%  |
-| 0.51-1.0  | 4        | 7.02%   |
-| 8.01-16.0 | 1        | 1.75%   |
+| 1.01-2.0  | 16       | 28.57%  |
+| 4.01-8.0  | 15       | 26.79%  |
+| 2.01-3.0  | 11       | 19.64%  |
+| 3.01-4.0  | 9        | 16.07%  |
+| 0.51-1.0  | 4        | 7.14%   |
+| 8.01-16.0 | 1        | 1.79%   |
 
 Total Drives
 ------------
@@ -850,52 +843,53 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                     | Desktops | Percent |
-|--------------------------|----------|---------|
-| Beijing                  | 5        | 9.62%   |
-| Sao Paulo                | 3        | 5.77%   |
-| Rio de Janeiro           | 2        | 3.85%   |
-| David                    | 2        | 3.85%   |
-| Wuhan                    | 1        | 1.92%   |
-| Windhoek                 | 1        | 1.92%   |
-| Vilnius                  | 1        | 1.92%   |
-| Vienna                   | 1        | 1.92%   |
-| SГЈo Bernardo do Campo | 1        | 1.92%   |
-| Surakarta                | 1        | 1.92%   |
-| St Petersburg            | 1        | 1.92%   |
-| Socorro                  | 1        | 1.92%   |
-| Seesen                   | 1        | 1.92%   |
-| San Francisco            | 1        | 1.92%   |
-| Rzeszotary               | 1        | 1.92%   |
-| Rome                     | 1        | 1.92%   |
-| Para de Minas            | 1        | 1.92%   |
-| Palo Alto                | 1        | 1.92%   |
-| NiterГіi               | 1        | 1.92%   |
-| Naucalpan                | 1        | 1.92%   |
-| Nanjing                  | 1        | 1.92%   |
-| Namur                    | 1        | 1.92%   |
-| Mesa                     | 1        | 1.92%   |
-| MedellÃ­n              | 1        | 1.92%   |
-| MarГ­lia               | 1        | 1.92%   |
-| Lviv                     | 1        | 1.92%   |
-| LiГЁge                 | 1        | 1.92%   |
-| Leipzig                  | 1        | 1.92%   |
-| Krakow                   | 1        | 1.92%   |
-| Jaboatao dos Guararapes  | 1        | 1.92%   |
-| Grand Bourg              | 1        | 1.92%   |
-| Getxo                    | 1        | 1.92%   |
-| Dhaka                    | 1        | 1.92%   |
-| Cypress Hills            | 1        | 1.92%   |
-| Contagem                 | 1        | 1.92%   |
-| Cluj-Napoca              | 1        | 1.92%   |
-| Chennai                  | 1        | 1.92%   |
-| Campina Grande           | 1        | 1.92%   |
-| Campeche                 | 1        | 1.92%   |
-| BrasГ­lia              | 1        | 1.92%   |
-| Brandsen                 | 1        | 1.92%   |
-| Barueri                  | 1        | 1.92%   |
-| Baixucun                 | 1        | 1.92%   |
-| Auckland                 | 1        | 1.92%   |
+| City                    | Desktops | Percent |
+|-------------------------|----------|---------|
+| Sao Paulo               | 3        | 5.77%   |
+| Nanjing                 | 3        | 5.77%   |
+| San Francisco           | 2        | 3.85%   |
+| David                   | 2        | 3.85%   |
+| Beijing                 | 2        | 3.85%   |
+| Wuhan                   | 1        | 1.92%   |
+| Windhoek                | 1        | 1.92%   |
+| Voluntari               | 1        | 1.92%   |
+| Tychy                   | 1        | 1.92%   |
+| Toluca                  | 1        | 1.92%   |
+| Taua                    | 1        | 1.92%   |
+| Surakarta               | 1        | 1.92%   |
+| St Petersburg           | 1        | 1.92%   |
+| Socorro                 | 1        | 1.92%   |
+| Shanghai                | 1        | 1.92%   |
+| Seesen                  | 1        | 1.92%   |
+| Sao Caetano do Sul      | 1        | 1.92%   |
+| Rome                    | 1        | 1.92%   |
+| Rio de Janeiro          | 1        | 1.92%   |
+| Ransart                 | 1        | 1.92%   |
+| Para de Minas           | 1        | 1.92%   |
+| Olinda                  | 1        | 1.92%   |
+| Niterói                | 1        | 1.92%   |
+| Naucalpan               | 1        | 1.92%   |
+| Mesa                    | 1        | 1.92%   |
+| Medellín               | 1        | 1.92%   |
+| Marília                | 1        | 1.92%   |
+| Lviv                    | 1        | 1.92%   |
+| Leipzig                 | 1        | 1.92%   |
+| Krakow                  | 1        | 1.92%   |
+| Klagenfurt              | 1        | 1.92%   |
+| Jaboatao dos Guararapes | 1        | 1.92%   |
+| Itapevi                 | 1        | 1.92%   |
+| Guangzhou               | 1        | 1.92%   |
+| Grand Bourg             | 1        | 1.92%   |
+| Gilly                   | 1        | 1.92%   |
+| Getxo                   | 1        | 1.92%   |
+| Elektrėnai             | 1        | 1.92%   |
+| Dhaka                   | 1        | 1.92%   |
+| Cypress Hills           | 1        | 1.92%   |
+| Contagem                | 1        | 1.92%   |
+| Brasília               | 1        | 1.92%   |
+| Brandsen                | 1        | 1.92%   |
+| Bengaluru               | 1        | 1.92%   |
+| Auckland                | 1        | 1.92%   |
 
 Drives
 ------
@@ -912,7 +906,7 @@ Hard drive vendors
 |-----------------------|----------|--------|---------|
 | WDC                   | 17       | 22     | 18.28%  |
 | Seagate               | 15       | 18     | 16.13%  |
-| SanDisk               | 7        | 12     | 7.53%   |
+| SanDisk               | 7        | 11     | 7.53%   |
 | Toshiba               | 6        | 7      | 6.45%   |
 | Samsung Electronics   | 6        | 7      | 6.45%   |
 | Kingston              | 5        | 9      | 5.38%   |
@@ -974,7 +968,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB            | 1        | 1%      |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 1%      |
 | Vaseky V800/256G 256GB SSD          | 1        | 1%      |
-| Unknown SD/MMC/MS PRO 16GB          | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 999GB         | 1        | 1%      |
 | Toshiba MQ01ABF050 500GB            | 1        | 1%      |
 | Toshiba MQ01ABD075 752GB            | 1        | 1%      |
 | Toshiba DT01ACA200 2TB              | 1        | 1%      |
@@ -1041,7 +1035,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SanDisk             | 7        | 12     | 18.42%  |
+| SanDisk             | 7        | 11     | 18.42%  |
 | Kingston            | 5        | 9      | 13.16%  |
 | Samsung Electronics | 4        | 5      | 10.53%  |
 | China               | 4        | 4      | 10.53%  |
@@ -1068,7 +1062,7 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 35       | 58     | 46.67%  |
-| SSD     | 30       | 53     | 40%     |
+| SSD     | 30       | 52     | 40%     |
 | NVMe    | 9        | 9      | 12%     |
 | Unknown | 1        | 2      | 1.33%   |
 
@@ -1082,7 +1076,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 49       | 106    | 79.03%  |
+| SATA | 49       | 105    | 79.03%  |
 | NVMe | 9        | 9      | 14.52%  |
 | SAS  | 4        | 7      | 6.45%   |
 
@@ -1096,9 +1090,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 72     | 55.88%  |
-| 0.51-1.0   | 25       | 32     | 36.76%  |
-| 1.01-2.0   | 5        | 7      | 7.35%   |
+| 0.01-0.5   | 37       | 69     | 55.22%  |
+| 0.51-1.0   | 25       | 34     | 37.31%  |
+| 1.01-2.0   | 5        | 7      | 7.46%   |
 
 Space Total
 -----------
@@ -1129,15 +1123,15 @@ Amount of used disk space
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 101-250   | 16       | 28.57%  |
-| 501-1000  | 11       | 19.64%  |
-| 21-50     | 8        | 14.29%  |
-| 1-20      | 6        | 10.71%  |
-| 251-500   | 5        | 8.93%   |
-| 51-100    | 5        | 8.93%   |
-| 1001-2000 | 3        | 5.36%   |
-| 2001-3000 | 1        | 1.79%   |
-| Unknown   | 1        | 1.79%   |
+| 101-250   | 16       | 29.09%  |
+| 501-1000  | 11       | 20%     |
+| 21-50     | 8        | 14.55%  |
+| 1-20      | 6        | 10.91%  |
+| 251-500   | 5        | 9.09%   |
+| 51-100    | 4        | 7.27%   |
+| 1001-2000 | 3        | 5.45%   |
+| 2001-3000 | 1        | 1.82%   |
+| Unknown   | 1        | 1.82%   |
 
 Malfunc. Drives
 ---------------
@@ -1230,7 +1224,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 29       | 69     | 47.54%  |
+| Detected | 29       | 68     | 47.54%  |
 | Works    | 26       | 46     | 42.62%  |
 | Malfunc  | 5        | 6      | 8.2%    |
 | Failed   | 1        | 1      | 1.64%   |
@@ -1701,7 +1695,7 @@ Monitor models
 | ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch              | 1        | 1.72%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch              | 1        | 1.72%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 1.72%   |
-| Toshiba TV TSB0108 1360x768 885x498mm 40.0-inch                         | 1        | 1.72%   |
+| Toshiba TV TSB0108 1920x540                                             | 1        | 1.72%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                        | 1        | 1.72%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch    | 1        | 1.72%   |
 | Samsung Electronics SyncMaster SAM0601 1600x900                         | 1        | 1.72%   |
@@ -1712,7 +1706,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SMS23A350H 1920x1080                    | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor SAM0E90 1366x768 609x347mm 27.6-inch    | 1        | 1.72%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1020x570mm 46.0-inch  | 1        | 1.72%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch   | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor S24E390 1920x1080                       | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor S24E360 1920x1080                       | 1        | 1.72%   |
 | Samsung Electronics LCD Monitor S24E310 3840x1080                       | 1        | 1.72%   |
@@ -1721,7 +1715,7 @@ Monitor models
 | Positivo FIT85X NON1801 1360x768 344x194mm 15.5-inch                    | 1        | 1.72%   |
 | Philips LCD Monitor PHLC0BF 1600x900 430x240mm 19.4-inch                | 1        | 1.72%   |
 | Philips FTV PHL04C2 1920x1080 1440x810mm 65.0-inch                      | 1        | 1.72%   |
-| MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                       | 1        | 1.72%   |
+| MSI MAG271CR MSI3FA6 1920x1080 598x336mm 27.0-inch                      | 1        | 1.72%   |
 | Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch                 | 1        | 1.72%   |
 | Lenovo E1922s Wide LEN60BD 1366x768 410x230mm 18.5-inch                 | 1        | 1.72%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                    | 1        | 1.72%   |
@@ -1730,7 +1724,7 @@ Monitor models
 | Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch            | 1        | 1.72%   |
 | Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch        | 1        | 1.72%   |
 | Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch              | 1        | 1.72%   |
-| Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch              | 1        | 1.72%   |
+| Hewlett-Packard 2311x HWP293A 1920x1080 510x287mm 23.0-inch             | 1        | 1.72%   |
 | Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch              | 1        | 1.72%   |
 | Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                   | 1        | 1.72%   |
 | Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                   | 1        | 1.72%   |
@@ -1740,18 +1734,18 @@ Monitor models
 | Goldstar 22MP55 GSM5A26 1920x1080 477x268mm 21.5-inch                   | 1        | 1.72%   |
 | Gateway HD2201 GWY08AF 1680x1050 465x261mm 21.0-inch                    | 1        | 1.72%   |
 | DTV STI DTV0030 1600x1200 708x398mm 32.0-inch                           | 1        | 1.72%   |
-| Dell P2314H DEL4099 1920x1080 509x286mm 23.0-inch                       | 1        | 1.72%   |
+| Dell P2314H DEL4099 1920x1080 510x290mm 23.1-inch                       | 1        | 1.72%   |
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                       | 1        | 1.72%   |
 | Dell 20 DELF112 1600x900 443x249mm 20.0-inch                            | 1        | 1.72%   |
 | BOE LCD Monitor BOE0691 1920x1080 280x160mm 12.7-inch                   | 1        | 1.72%   |
-| BenQ XL2430T BNQ7F3D 1920x1080 531x298mm 24.0-inch                      | 1        | 1.72%   |
-| ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch            | 1        | 1.72%   |
+| BenQ XL2430T BNQ7F3D 1920x1080 530x300mm 24.0-inch                      | 1        | 1.72%   |
+| ASUSTek Computer VA24E AUS24D1 1920x1080 530x300mm 24.0-inch            | 1        | 1.72%   |
 | AOC 24G1WG4 AOC2401 1920x1080 520x290mm 23.4-inch                       | 1        | 1.72%   |
 | AOC 2267W AOC2267 1920x1080 476x268mm 21.5-inch                         | 1        | 1.72%   |
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                   | 1        | 1.72%   |
 | Ancor Communications LCD Monitor ASUS VS247                             | 1        | 1.72%   |
-| Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch   | 1        | 1.72%   |
-| Ancor Communications ASUS MX239 ACI23C2 1920x1080 530x310mm 24.2-inch   | 1        | 1.72%   |
+| Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch   | 1        | 1.72%   |
+| Ancor Communications ASUS MX239 ACI23C2 1920x1080 528x310mm 24.1-inch   | 1        | 1.72%   |
 | Acer P193W ACRADAA 1440x900 408x255mm 18.9-inch                         | 1        | 1.72%   |
 | Acer K272HUL ACR0524 2560x1440 598x336mm 27.0-inch                      | 1        | 1.72%   |
 
@@ -1944,21 +1938,21 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.39%   |
 | Unknown Network controller                                        | 1        | 1.39%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 1.39%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 1.39%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.39%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 1.39%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 1        | 1.39%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.39%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 1.39%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 1.39%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)         | 1        | 1.39%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 1.39%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 1.39%   |
-| Realtek 802.11n WLAN Adapter                                      | 1        | 1.39%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.39%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.39%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 1.39%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.39%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.39%   |
 | NetGear A6210                                                     | 1        | 1.39%   |
-| MediaTek NOA N2                                                   | 1        | 1.39%   |
+| MediaTek Vodafone Smart N10                                       | 1        | 1.39%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.39%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.39%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.39%   |
@@ -1998,22 +1992,22 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                      | Desktops | Percent |
-|------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 7.14%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 1        | 7.14%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 7.14%   |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 7.14%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter            | 1        | 7.14%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                     | 1        | 7.14%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 7.14%   |
-| Realtek RTL8188EE Wireless Network Adapter                 | 1        | 7.14%   |
-| Realtek 802.11n WLAN Adapter                               | 1        | 7.14%   |
-| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter     | 1        | 7.14%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter           | 1        | 7.14%   |
-| NetGear A6210                                              | 1        | 7.14%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]           | 1        | 7.14%   |
-| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]       | 1        | 7.14%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]               | 1        | 7.14%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                     | 1        | 7.14%   |
+| TP-Link 802.11ac WLAN Adapter                             | 1        | 7.14%   |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter   | 1        | 7.14%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter           | 1        | 7.14%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                    | 1        | 7.14%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch) | 1        | 7.14%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter     | 1        | 7.14%   |
+| Realtek RTL8188EE Wireless Network Adapter                | 1        | 7.14%   |
+| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter    | 1        | 7.14%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter          | 1        | 7.14%   |
+| NetGear A6210                                             | 1        | 7.14%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]          | 1        | 7.14%   |
+| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]      | 1        | 7.14%   |
 
 Ethernet Vendor
 ---------------
@@ -2056,7 +2050,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.79%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.79%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.79%   |
-| MediaTek NOA N2                                                   | 1        | 1.79%   |
+| MediaTek Vodafone Smart N10                                       | 1        | 1.79%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.79%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.79%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.79%   |
@@ -2092,9 +2086,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 47       | 82.46%  |
-| WiFi     | 9        | 15.79%  |
-| Unknown  | 1        | 1.75%   |
+| Ethernet | 42       | 84%     |
+| WiFi     | 8        | 16%     |
 
 NICs
 ----
@@ -2274,7 +2267,7 @@ Memory module models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| Kingston RAM TF32D4U2S1MEH-8 8192MB DIMM DDR4 3200MT/s   | 2        | 7.69%   |
+| Kingston RAM TF32D4U2S1MEH-8 8GB DIMM DDR4 3200MT/s      | 2        | 7.69%   |
 | Unknown RAM Module 8GB DIMM DDR4 2667MT/s                | 1        | 3.85%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1067MT/s             | 1        | 3.85%   |
 | Unknown RAM Module 4096MB DIMM 667MT/s                   | 1        | 3.85%   |
@@ -2282,13 +2275,13 @@ Memory module models
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s       | 1        | 3.85%   |
 | Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s       | 1        | 3.85%   |
 | Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s   | 1        | 3.85%   |
-| Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s       | 1        | 3.85%   |
+| Nanya RAM M2X4G64CB8HG5N-DG 4096MB DIMM DDR3 1867MT/s    | 1        | 3.85%   |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s           | 1        | 3.85%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 3.85%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s        | 1        | 3.85%   |
+| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 2933MT/s     | 1        | 3.85%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s      | 1        | 3.85%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s      | 1        | 3.85%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 3.85%   |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s   | 1        | 3.85%   |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s | 1        | 3.85%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.85%   |
 | Kingston RAM 99U5403-034.A00LF 4GB DIMM 1333MT/s         | 1        | 3.85%   |
@@ -2425,10 +2418,10 @@ Camera device vendors
 | Vendor                 | Desktops | Percent |
 |------------------------|----------|---------|
 | Logitech               | 5        | 55.56%  |
-| webcam                 | 1        | 11.11%  |
 | Microdia               | 1        | 11.11%  |
 | Generalplus Technology | 1        | 11.11%  |
 | Arkmicro Technologies  | 1        | 11.11%  |
+| 2M UVC CAMERA          | 1        | 11.11%  |
 
 Camera Model
 ------------
@@ -2441,12 +2434,12 @@ Camera device models
 | Model                         | Desktops | Percent |
 |-------------------------------|----------|---------|
 | Logitech Webcam C270          | 3        | 33.33%  |
-| webcam webcam                 | 1        | 11.11%  |
 | Microdia Integrated_Webcam_HD | 1        | 11.11%  |
 | Logitech Webcam C200          | 1        | 11.11%  |
 | Logitech HD Pro Webcam C920   | 1        | 11.11%  |
-| Generalplus GENERAL WEBCAM    | 1        | 11.11%  |
+| Generalplus CAMERA - UVC      | 1        | 11.11%  |
 | Arkmicro USB2.0 PC CAMERA     | 1        | 11.11%  |
+| 2M UVC CAMERA Web Camera      | 1        | 11.11%  |
 
 Security
 --------

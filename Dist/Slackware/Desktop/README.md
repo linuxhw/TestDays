@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 58
+Total: 59
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte   | N3160TN                     | [e2f44a8274](https://linux-hardware.org/?probe=e2f44a8274) | May 31, 2022 |
 | ASUSTek    | TUF B450-PLUS GAMING        | [533b8a9f83](https://linux-hardware.org/?probe=533b8a9f83) | Apr 13, 2022 |
 | MSI        | 970 GAMING                  | [25d8968f19](https://linux-hardware.org/?probe=25d8968f19) | Apr 13, 2022 |
 | ASRock     | N68-S3 FX                   | [ca818bd06d](https://linux-hardware.org/?probe=ca818bd06d) | Apr 08, 2022 |
@@ -199,7 +200,7 @@ Total: 58
 | Foxconn    | 2ADA                        | [425d15a5ce](https://linux-hardware.org/?probe=425d15a5ce) | Mar 09, 2021 |
 | Dell       | 0TP412                      | [f0e56aacff](https://linux-hardware.org/?probe=f0e56aacff) | Jan 05, 2021 |
 | ASRock     | B450M Steel Legend          | [e1424f6de3](https://linux-hardware.org/?probe=e1424f6de3) | Dec 31, 2020 |
-| Supermicro | X8SIE 0001                  | [96607f4270](https://linux-hardware.org/?probe=96607f4270) | Nov 12, 2020 |
+| NETGEAR    | ReadyDATA 5200              | [96607f4270](https://linux-hardware.org/?probe=96607f4270) | Nov 12, 2020 |
 | ASRock     | Z390M-ITX/ac                | [06eb8afdbc](https://linux-hardware.org/?probe=06eb8afdbc) | Oct 19, 2020 |
 | ASUSTek    | PRIME B450-PLUS             | [d42d44dd82](https://linux-hardware.org/?probe=d42d44dd82) | Jul 23, 2020 |
 | ASUSTek    | PRIME B450-PLUS             | [888f105221](https://linux-hardware.org/?probe=888f105221) | Jul 23, 2020 |
@@ -231,9 +232,9 @@ Installed operating systems
 
 | Name            | Desktops | Percent |
 |-----------------|----------|---------|
-| Slackware 14.2  | 31       | 60.78%  |
-| Slackware 15.0  | 18       | 35.29%  |
-| Slackware 14.2+ | 2        | 3.92%   |
+| Slackware 14.2  | 31       | 59.62%  |
+| Slackware 15.0  | 19       | 36.54%  |
+| Slackware 14.2+ | 2        | 3.85%   |
 
 OS Family
 ---------
@@ -257,44 +258,44 @@ Version of the Linux kernel
 
 | Version              | Desktops | Percent |
 |----------------------|----------|---------|
-| 5.10.28-Unraid       | 5        | 9.8%    |
-| 4.19.80              | 4        | 7.84%   |
-| 5.15.19              | 3        | 5.88%   |
-| 4.4.190              | 3        | 5.88%   |
-| 5.15.27              | 2        | 3.92%   |
-| 4.4.240              | 2        | 3.92%   |
-| 5.4.77               | 1        | 1.96%   |
-| 5.4.53-APRL          | 1        | 1.96%   |
-| 5.4.43               | 1        | 1.96%   |
-| 5.4.0-rc2-vto        | 1        | 1.96%   |
-| 5.17.2               | 1        | 1.96%   |
-| 5.17.0-custom        | 1        | 1.96%   |
-| 5.16.18              | 1        | 1.96%   |
-| 5.16.13              | 1        | 1.96%   |
-| 5.16.11              | 1        | 1.96%   |
-| 5.15.6               | 1        | 1.96%   |
-| 5.15.30-Unraid       | 1        | 1.96%   |
-| 5.15.14              | 1        | 1.96%   |
-| 5.15.13              | 1        | 1.96%   |
-| 5.14.15-Unraid       | 1        | 1.96%   |
-| 5.14.15              | 1        | 1.96%   |
-| 5.14.11              | 1        | 1.96%   |
-| 5.13.9-jw            | 1        | 1.96%   |
-| 5.13.12              | 1        | 1.96%   |
-| 5.12.12              | 1        | 1.96%   |
-| 5.10.44-slack64-host | 1        | 1.96%   |
-| 5.10.40              | 1        | 1.96%   |
-| 5.10.3               | 1        | 1.96%   |
-| 4.9.248.a            | 1        | 1.96%   |
-| 4.9.118              | 1        | 1.96%   |
-| 4.4.261              | 1        | 1.96%   |
-| 4.4.189              | 1        | 1.96%   |
-| 4.4.14               | 1        | 1.96%   |
-| 4.20.11              | 1        | 1.96%   |
-| 4.19.98-Unraid       | 1        | 1.96%   |
-| 4.19.88-Unraid       | 1        | 1.96%   |
-| 4.19.107-Unraid      | 1        | 1.96%   |
-| 4.19.10              | 1        | 1.96%   |
+| 5.10.28-Unraid       | 5        | 9.62%   |
+| 4.19.80              | 4        | 7.69%   |
+| 5.15.19              | 3        | 5.77%   |
+| 4.4.190              | 3        | 5.77%   |
+| 5.15.30-Unraid       | 2        | 3.85%   |
+| 5.15.27              | 2        | 3.85%   |
+| 4.4.240              | 2        | 3.85%   |
+| 5.4.77               | 1        | 1.92%   |
+| 5.4.53-APRL          | 1        | 1.92%   |
+| 5.4.43               | 1        | 1.92%   |
+| 5.4.0-rc2-vto        | 1        | 1.92%   |
+| 5.17.2               | 1        | 1.92%   |
+| 5.17.0-custom        | 1        | 1.92%   |
+| 5.16.18              | 1        | 1.92%   |
+| 5.16.13              | 1        | 1.92%   |
+| 5.16.11              | 1        | 1.92%   |
+| 5.15.6               | 1        | 1.92%   |
+| 5.15.14              | 1        | 1.92%   |
+| 5.15.13              | 1        | 1.92%   |
+| 5.14.15-Unraid       | 1        | 1.92%   |
+| 5.14.15              | 1        | 1.92%   |
+| 5.14.11              | 1        | 1.92%   |
+| 5.13.9-jw            | 1        | 1.92%   |
+| 5.13.12              | 1        | 1.92%   |
+| 5.12.12              | 1        | 1.92%   |
+| 5.10.44-slack64-host | 1        | 1.92%   |
+| 5.10.40              | 1        | 1.92%   |
+| 5.10.3               | 1        | 1.92%   |
+| 4.9.248.a            | 1        | 1.92%   |
+| 4.9.118              | 1        | 1.92%   |
+| 4.4.261              | 1        | 1.92%   |
+| 4.4.189              | 1        | 1.92%   |
+| 4.4.14               | 1        | 1.92%   |
+| 4.20.11              | 1        | 1.92%   |
+| 4.19.98-Unraid       | 1        | 1.92%   |
+| 4.19.88-Unraid       | 1        | 1.92%   |
+| 4.19.107-Unraid      | 1        | 1.92%   |
+| 4.19.10              | 1        | 1.92%   |
 
 Kernel Family
 -------------
@@ -306,43 +307,43 @@ Linux kernel without a distro release
 
 | Version  | Desktops | Percent |
 |----------|----------|---------|
-| 5.10.28  | 5        | 9.8%    |
-| 4.19.80  | 4        | 7.84%   |
-| 5.15.19  | 3        | 5.88%   |
-| 4.4.190  | 3        | 5.88%   |
-| 5.15.27  | 2        | 3.92%   |
-| 5.14.15  | 2        | 3.92%   |
-| 4.4.240  | 2        | 3.92%   |
-| 5.4.77   | 1        | 1.96%   |
-| 5.4.53   | 1        | 1.96%   |
-| 5.4.43   | 1        | 1.96%   |
-| 5.4.0    | 1        | 1.96%   |
-| 5.17.2   | 1        | 1.96%   |
-| 5.17.0   | 1        | 1.96%   |
-| 5.16.18  | 1        | 1.96%   |
-| 5.16.13  | 1        | 1.96%   |
-| 5.16.11  | 1        | 1.96%   |
-| 5.15.6   | 1        | 1.96%   |
-| 5.15.30  | 1        | 1.96%   |
-| 5.15.14  | 1        | 1.96%   |
-| 5.15.13  | 1        | 1.96%   |
-| 5.14.11  | 1        | 1.96%   |
-| 5.13.9   | 1        | 1.96%   |
-| 5.13.12  | 1        | 1.96%   |
-| 5.12.12  | 1        | 1.96%   |
-| 5.10.44  | 1        | 1.96%   |
-| 5.10.40  | 1        | 1.96%   |
-| 5.10.3   | 1        | 1.96%   |
-| 4.9.248  | 1        | 1.96%   |
-| 4.9.118  | 1        | 1.96%   |
-| 4.4.261  | 1        | 1.96%   |
-| 4.4.189  | 1        | 1.96%   |
-| 4.4.14   | 1        | 1.96%   |
-| 4.20.11  | 1        | 1.96%   |
-| 4.19.98  | 1        | 1.96%   |
-| 4.19.88  | 1        | 1.96%   |
-| 4.19.107 | 1        | 1.96%   |
-| 4.19.10  | 1        | 1.96%   |
+| 5.10.28  | 5        | 9.62%   |
+| 4.19.80  | 4        | 7.69%   |
+| 5.15.19  | 3        | 5.77%   |
+| 4.4.190  | 3        | 5.77%   |
+| 5.15.30  | 2        | 3.85%   |
+| 5.15.27  | 2        | 3.85%   |
+| 5.14.15  | 2        | 3.85%   |
+| 4.4.240  | 2        | 3.85%   |
+| 5.4.77   | 1        | 1.92%   |
+| 5.4.53   | 1        | 1.92%   |
+| 5.4.43   | 1        | 1.92%   |
+| 5.4.0    | 1        | 1.92%   |
+| 5.17.2   | 1        | 1.92%   |
+| 5.17.0   | 1        | 1.92%   |
+| 5.16.18  | 1        | 1.92%   |
+| 5.16.13  | 1        | 1.92%   |
+| 5.16.11  | 1        | 1.92%   |
+| 5.15.6   | 1        | 1.92%   |
+| 5.15.14  | 1        | 1.92%   |
+| 5.15.13  | 1        | 1.92%   |
+| 5.14.11  | 1        | 1.92%   |
+| 5.13.9   | 1        | 1.92%   |
+| 5.13.12  | 1        | 1.92%   |
+| 5.12.12  | 1        | 1.92%   |
+| 5.10.44  | 1        | 1.92%   |
+| 5.10.40  | 1        | 1.92%   |
+| 5.10.3   | 1        | 1.92%   |
+| 4.9.248  | 1        | 1.92%   |
+| 4.9.118  | 1        | 1.92%   |
+| 4.4.261  | 1        | 1.92%   |
+| 4.4.189  | 1        | 1.92%   |
+| 4.4.14   | 1        | 1.92%   |
+| 4.20.11  | 1        | 1.92%   |
+| 4.19.98  | 1        | 1.92%   |
+| 4.19.88  | 1        | 1.92%   |
+| 4.19.107 | 1        | 1.92%   |
+| 4.19.10  | 1        | 1.92%   |
 
 Kernel Major Ver.
 -----------------
@@ -354,18 +355,18 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.15    | 9        | 17.65%  |
-| 5.10    | 8        | 15.69%  |
-| 4.4     | 8        | 15.69%  |
-| 4.19    | 8        | 15.69%  |
-| 5.4     | 4        | 7.84%   |
-| 5.16    | 3        | 5.88%   |
-| 5.14    | 3        | 5.88%   |
-| 5.17    | 2        | 3.92%   |
-| 5.13    | 2        | 3.92%   |
-| 4.9     | 2        | 3.92%   |
-| 5.12    | 1        | 1.96%   |
-| 4.20    | 1        | 1.96%   |
+| 5.15    | 10       | 19.23%  |
+| 5.10    | 8        | 15.38%  |
+| 4.4     | 8        | 15.38%  |
+| 4.19    | 8        | 15.38%  |
+| 5.4     | 4        | 7.69%   |
+| 5.16    | 3        | 5.77%   |
+| 5.14    | 3        | 5.77%   |
+| 5.17    | 2        | 3.85%   |
+| 5.13    | 2        | 3.85%   |
+| 4.9     | 2        | 3.85%   |
+| 5.12    | 1        | 1.92%   |
+| 4.20    | 1        | 1.92%   |
 
 Arch
 ----
@@ -488,9 +489,9 @@ Scheme of partitioning
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| GPT     | 33       | 64.71%  |
-| MBR     | 17       | 33.33%  |
-| Unknown | 1        | 1.96%   |
+| GPT     | 34       | 65.38%  |
+| MBR     | 17       | 32.69%  |
+| Unknown | 1        | 1.92%   |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -502,8 +503,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 32       | 64%     |
-| Yes       | 18       | 36%     |
+| Yes       | 26       | 52%     |
+| No        | 24       | 48%     |
 
 Dual Boot (Win)
 ---------------
@@ -536,9 +537,10 @@ Motherboard manufacturer
 | MSI                 | 6        | 12%     |
 | Hewlett-Packard     | 5        | 10%     |
 | Gigabyte Technology | 4        | 8%      |
-| Supermicro          | 2        | 4%      |
 | Dell                | 2        | 4%      |
+| Supermicro          | 1        | 2%      |
 | Shuttle             | 1        | 2%      |
+| NETGEAR             | 1        | 2%      |
 | Lenovo              | 1        | 2%      |
 | Intel               | 1        | 2%      |
 | Huanan              | 1        | 2%      |
@@ -560,8 +562,8 @@ Motherboard model
 |-------------------------------------|----------|---------|
 | ASUS All Series                     | 4        | 8%      |
 | Supermicro X9DA7/E                  | 1        | 2%      |
-| Supermicro ReadyDATA 5200           | 1        | 2%      |
 | Shuttle NC03U                       | 1        | 2%      |
+| NETGEAR ReadyDATA 5200              | 1        | 2%      |
 | MSI MS-7C52                         | 1        | 2%      |
 | MSI MS-7C02                         | 1        | 2%      |
 | MSI MS-7788                         | 1        | 2%      |
@@ -614,51 +616,51 @@ Motherboard model prefix
 ![Model Family](./images/pie_chart/node_model_family.svg)
 
 
-| Name                 | Desktops | Percent |
-|----------------------|----------|---------|
-| ASUS PRIME           | 4        | 8%      |
-| ASUS All             | 4        | 8%      |
-| Dell Precision       | 2        | 4%      |
-| Supermicro X9DA7     | 1        | 2%      |
-| Supermicro ReadyDATA | 1        | 2%      |
-| Shuttle NC03U        | 1        | 2%      |
-| MSI MS-7C52          | 1        | 2%      |
-| MSI MS-7C02          | 1        | 2%      |
-| MSI MS-7788          | 1        | 2%      |
-| MSI MS-7693          | 1        | 2%      |
-| MSI MS-7529          | 1        | 2%      |
-| MSI MS-7365          | 1        | 2%      |
-| Lenovo H50-05        | 1        | 2%      |
-| Intel DZ77RE-75K     | 1        | 2%      |
-| Huanan X79-8D        | 1        | 2%      |
-| HPE ProLiant         | 1        | 2%      |
-| HP Z620              | 1        | 2%      |
-| HP Z440              | 1        | 2%      |
-| HP xw8400            | 1        | 2%      |
-| HP t620              | 1        | 2%      |
-| HP 500-515na         | 1        | 2%      |
-| Gigabyte X150M-PRO   | 1        | 2%      |
-| Gigabyte N3160TN     | 1        | 2%      |
-| Gigabyte M61SME-S2   | 1        | 2%      |
-| Gigabyte 970A-DS3P   | 1        | 2%      |
-| Foxconn p6-2390      | 1        | 2%      |
-| Biostar X470GTA      | 1        | 2%      |
-| ASUS TUF             | 1        | 2%      |
-| ASUS SABERTOOTH      | 1        | 2%      |
-| ASUS ROG             | 1        | 2%      |
-| ASUS Pro             | 1        | 2%      |
-| ASUS P5QLD           | 1        | 2%      |
-| ASUS M5A97           | 1        | 2%      |
-| ASUS A68HM-PLUS      | 1        | 2%      |
-| ASRock Z390M-ITX     | 1        | 2%      |
-| ASRock N68-S3        | 1        | 2%      |
-| ASRock H87M          | 1        | 2%      |
-| ASRock H410M-ITX     | 1        | 2%      |
-| ASRock H310CM-HDV    | 1        | 2%      |
-| ASRock H270          | 1        | 2%      |
-| ASRock B450M         | 1        | 2%      |
-| Acer Aspire          | 1        | 2%      |
-| Unknown              | 1        | 2%      |
+| Name               | Desktops | Percent |
+|--------------------|----------|---------|
+| ASUS PRIME         | 4        | 8%      |
+| ASUS All           | 4        | 8%      |
+| Dell Precision     | 2        | 4%      |
+| Supermicro X9DA7   | 1        | 2%      |
+| Shuttle NC03U      | 1        | 2%      |
+| NETGEAR ReadyDATA  | 1        | 2%      |
+| MSI MS-7C52        | 1        | 2%      |
+| MSI MS-7C02        | 1        | 2%      |
+| MSI MS-7788        | 1        | 2%      |
+| MSI MS-7693        | 1        | 2%      |
+| MSI MS-7529        | 1        | 2%      |
+| MSI MS-7365        | 1        | 2%      |
+| Lenovo H50-05      | 1        | 2%      |
+| Intel DZ77RE-75K   | 1        | 2%      |
+| Huanan X79-8D      | 1        | 2%      |
+| HPE ProLiant       | 1        | 2%      |
+| HP Z620            | 1        | 2%      |
+| HP Z440            | 1        | 2%      |
+| HP xw8400          | 1        | 2%      |
+| HP t620            | 1        | 2%      |
+| HP 500-515na       | 1        | 2%      |
+| Gigabyte X150M-PRO | 1        | 2%      |
+| Gigabyte N3160TN   | 1        | 2%      |
+| Gigabyte M61SME-S2 | 1        | 2%      |
+| Gigabyte 970A-DS3P | 1        | 2%      |
+| Foxconn p6-2390    | 1        | 2%      |
+| Biostar X470GTA    | 1        | 2%      |
+| ASUS TUF           | 1        | 2%      |
+| ASUS SABERTOOTH    | 1        | 2%      |
+| ASUS ROG           | 1        | 2%      |
+| ASUS Pro           | 1        | 2%      |
+| ASUS P5QLD         | 1        | 2%      |
+| ASUS M5A97         | 1        | 2%      |
+| ASUS A68HM-PLUS    | 1        | 2%      |
+| ASRock Z390M-ITX   | 1        | 2%      |
+| ASRock N68-S3      | 1        | 2%      |
+| ASRock H87M        | 1        | 2%      |
+| ASRock H410M-ITX   | 1        | 2%      |
+| ASRock H310CM-HDV  | 1        | 2%      |
+| ASRock H270        | 1        | 2%      |
+| ASRock B450M       | 1        | 2%      |
+| Acer Aspire        | 1        | 2%      |
+| Unknown            | 1        | 2%      |
 
 MFG Year
 --------
@@ -749,17 +751,17 @@ Used RAM memory
 
 | Used GB     | Desktops | Percent |
 |-------------|----------|---------|
-| 1.01-2.0    | 13       | 25%     |
-| 4.01-8.0    | 12       | 23.08%  |
-| 2.01-3.0    | 9        | 17.31%  |
-| 3.01-4.0    | 6        | 11.54%  |
-| 0.51-1.0    | 3        | 5.77%   |
-| 24.01-32.0  | 2        | 3.85%   |
-| 8.01-16.0   | 2        | 3.85%   |
-| 0.01-0.5    | 2        | 3.85%   |
-| 32.01-64.0  | 1        | 1.92%   |
-| 64.01-256.0 | 1        | 1.92%   |
-| 16.01-24.0  | 1        | 1.92%   |
+| 1.01-2.0    | 13       | 24.53%  |
+| 4.01-8.0    | 12       | 22.64%  |
+| 2.01-3.0    | 10       | 18.87%  |
+| 3.01-4.0    | 6        | 11.32%  |
+| 0.51-1.0    | 3        | 5.66%   |
+| 24.01-32.0  | 2        | 3.77%   |
+| 8.01-16.0   | 2        | 3.77%   |
+| 0.01-0.5    | 2        | 3.77%   |
+| 32.01-64.0  | 1        | 1.89%   |
+| 64.01-256.0 | 1        | 1.89%   |
+| 16.01-24.0  | 1        | 1.89%   |
 
 Total Drives
 ------------
@@ -771,17 +773,17 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 11       | 22%     |
-| 3      | 10       | 20%     |
-| 4      | 7        | 14%     |
-| 2      | 7        | 14%     |
-| 5      | 5        | 10%     |
-| 6      | 4        | 8%      |
-| 0      | 2        | 4%      |
-| 13     | 1        | 2%      |
-| 9      | 1        | 2%      |
-| 8      | 1        | 2%      |
-| 7      | 1        | 2%      |
+| 3      | 11       | 21.57%  |
+| 1      | 11       | 21.57%  |
+| 2      | 8        | 15.69%  |
+| 4      | 7        | 13.73%  |
+| 6      | 4        | 7.84%   |
+| 5      | 4        | 7.84%   |
+| 0      | 2        | 3.92%   |
+| 13     | 1        | 1.96%   |
+| 9      | 1        | 1.96%   |
+| 8      | 1        | 1.96%   |
+| 7      | 1        | 1.96%   |
 
 Has CD-ROM
 ----------
@@ -793,8 +795,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 25       | 50%     |
-| No        | 25       | 50%     |
+| Yes       | 26       | 52%     |
+| No        | 24       | 48%     |
 
 Has Ethernet
 ------------
@@ -873,51 +875,55 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                  | Desktops | Percent |
-|-----------------------|----------|---------|
-| Yekaterinburg         | 3        | 6%      |
-| Ust-Kamenogorsk       | 2        | 4%      |
-| Toronto               | 2        | 4%      |
-| Springfield           | 2        | 4%      |
-| London                | 2        | 4%      |
-| Caen                  | 2        | 4%      |
-| Weilheim              | 1        | 2%      |
-| Verona                | 1        | 2%      |
-| Tsuruoka              | 1        | 2%      |
-| Tiffin                | 1        | 2%      |
-| Stockholm             | 1        | 2%      |
-| Sidcup                | 1        | 2%      |
-| Sham Shui Po          | 1        | 2%      |
-| Santa Cruz do Sul     | 1        | 2%      |
-| Saint Paul            | 1        | 2%      |
-| Saedinenie            | 1        | 2%      |
-| Rome                  | 1        | 2%      |
-| Porto Alegre          | 1        | 2%      |
-| Paterson              | 1        | 2%      |
-| Palma                 | 1        | 2%      |
-| Ottawa                | 1        | 2%      |
-| Oldham                | 1        | 2%      |
-| Naples                | 1        | 2%      |
-| Musashino             | 1        | 2%      |
-| Milwaukee             | 1        | 2%      |
-| Mead                  | 1        | 2%      |
-| Lisbon                | 1        | 2%      |
-| Lexington             | 1        | 2%      |
-| Kowloon               | 1        | 2%      |
-| Koblenz               | 1        | 2%      |
-| Karaganda             | 1        | 2%      |
-| Haar                  | 1        | 2%      |
-| Granada               | 1        | 2%      |
-| Frosinone             | 1        | 2%      |
-| Enskede-Arsta-Vantoer | 1        | 2%      |
-| Dallas                | 1        | 2%      |
-| Chelmsford            | 1        | 2%      |
-| Carrollton            | 1        | 2%      |
-| Cape Town             | 1        | 2%      |
-| Camp Hill             | 1        | 2%      |
-| Belgrade              | 1        | 2%      |
-| Belfast               | 1        | 2%      |
-| Barry                 | 1        | 2%      |
+| City              | Desktops | Percent |
+|-------------------|----------|---------|
+| Yekaterinburg     | 3        | 5.88%   |
+| Ust-Kamenogorsk   | 2        | 3.92%   |
+| Paris             | 2        | 3.92%   |
+| Weilheim          | 1        | 1.96%   |
+| Tsukuba           | 1        | 1.96%   |
+| Toronto           | 1        | 1.96%   |
+| Tiffin            | 1        | 1.96%   |
+| Tendo             | 1        | 1.96%   |
+| Stockholm         | 1        | 1.96%   |
+| St Petersburg     | 1        | 1.96%   |
+| Springfield       | 1        | 1.96%   |
+| Southend-on-Sea   | 1        | 1.96%   |
+| Shrewsbury        | 1        | 1.96%   |
+| Sham Shui Po      | 1        | 1.96%   |
+| Santa Cruz do Sul | 1        | 1.96%   |
+| Saint Paul        | 1        | 1.96%   |
+| Rome              | 1        | 1.96%   |
+| Porto Alegre      | 1        | 1.96%   |
+| Plovdiv           | 1        | 1.96%   |
+| Palma             | 1        | 1.96%   |
+| Ottawa            | 1        | 1.96%   |
+| Oldham            | 1        | 1.96%   |
+| Naples            | 1        | 1.96%   |
+| Milwaukee         | 1        | 1.96%   |
+| Milan             | 1        | 1.96%   |
+| Mead              | 1        | 1.96%   |
+| Mason             | 1        | 1.96%   |
+| London            | 1        | 1.96%   |
+| Lisbon            | 1        | 1.96%   |
+| Lexington         | 1        | 1.96%   |
+| Kowloon           | 1        | 1.96%   |
+| Koblenz           | 1        | 1.96%   |
+| Karaganda         | 1        | 1.96%   |
+| Hampstead         | 1        | 1.96%   |
+| Granada           | 1        | 1.96%   |
+| Gothenburg        | 1        | 1.96%   |
+| Garfield          | 1        | 1.96%   |
+| Frosinone         | 1        | 1.96%   |
+| Düsseldorf       | 1        | 1.96%   |
+| Dallas            | 1        | 1.96%   |
+| Carrollton        | 1        | 1.96%   |
+| Cape Town         | 1        | 1.96%   |
+| Camp Hill         | 1        | 1.96%   |
+| Belgrade          | 1        | 1.96%   |
+| Belfast           | 1        | 1.96%   |
+| Barry             | 1        | 1.96%   |
+| Barrie            | 1        | 1.96%   |
 
 Drives
 ------
@@ -932,28 +938,28 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 22       | 46     | 22%     |
-| Seagate             | 20       | 45     | 20%     |
-| Samsung Electronics | 14       | 23     | 14%     |
-| Toshiba             | 8        | 16     | 8%      |
-| Hitachi             | 7        | 10     | 7%      |
-| Kingston            | 5        | 6      | 5%      |
-| Crucial             | 3        | 3      | 3%      |
-| A-DATA Technology   | 3        | 3      | 3%      |
-| Intel               | 2        | 2      | 2%      |
-| HGST                | 2        | 2      | 2%      |
-| Hewlett-Packard     | 2        | 2      | 2%      |
-| China               | 2        | 3      | 2%      |
-| ZHITAI              | 1        | 2      | 1%      |
-| Team                | 1        | 1      | 1%      |
-| SK Hynix            | 1        | 1      | 1%      |
-| SanDisk             | 1        | 1      | 1%      |
-| Patriot             | 1        | 1      | 1%      |
-| MAXTOR              | 1        | 1      | 1%      |
-| Intenso             | 1        | 1      | 1%      |
-| Gigabyte Technology | 1        | 1      | 1%      |
-| Fujitsu             | 1        | 1      | 1%      |
-| Apple               | 1        | 2      | 1%      |
+| WDC                 | 22       | 46     | 21.78%  |
+| Seagate             | 21       | 46     | 20.79%  |
+| Samsung Electronics | 14       | 23     | 13.86%  |
+| Toshiba             | 8        | 16     | 7.92%   |
+| Hitachi             | 7        | 10     | 6.93%   |
+| Kingston            | 5        | 7      | 4.95%   |
+| Crucial             | 3        | 3      | 2.97%   |
+| A-DATA Technology   | 3        | 3      | 2.97%   |
+| Intel               | 2        | 2      | 1.98%   |
+| HGST                | 2        | 2      | 1.98%   |
+| Hewlett-Packard     | 2        | 2      | 1.98%   |
+| China               | 2        | 3      | 1.98%   |
+| ZHITAI              | 1        | 2      | 0.99%   |
+| Team                | 1        | 1      | 0.99%   |
+| SK Hynix            | 1        | 1      | 0.99%   |
+| SanDisk             | 1        | 1      | 0.99%   |
+| Patriot             | 1        | 1      | 0.99%   |
+| MAXTOR              | 1        | 1      | 0.99%   |
+| Intenso             | 1        | 1      | 0.99%   |
+| Gigabyte Technology | 1        | 1      | 0.99%   |
+| Fujitsu             | 1        | 1      | 0.99%   |
+| Apple               | 1        | 2      | 0.99%   |
 
 Drive Model
 -----------
@@ -965,19 +971,19 @@ Hard drive models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| WDC WD20EFRX-68EUZN0 2TB        | 3        | 2.22%   |
-| WDC WD1003FZEX-00MK2A0 1TB      | 3        | 2.22%   |
-| Samsung SSD 970 EVO 250GB       | 3        | 2.22%   |
-| Toshiba MQ01ABD100 1TB          | 2        | 1.48%   |
-| Seagate ST500DM002-1BD142 500GB | 2        | 1.48%   |
-| Seagate ST4000VN008-2DR166 4TB  | 2        | 1.48%   |
-| Seagate ST31000524AS 1TB        | 2        | 1.48%   |
-| Seagate ST2000DM008-2FR102 2TB  | 2        | 1.48%   |
-| Seagate ST2000DM001-1CH164 2TB  | 2        | 1.48%   |
-| Seagate ST1000DM010-2EP102 1TB  | 2        | 1.48%   |
-| Seagate ST1000DM003-1ER162 1TB  | 2        | 1.48%   |
-| Samsung SSD 970 EVO Plus 1TB    | 2        | 1.48%   |
-| Crucial CT500MX500SSD1 500GB    | 2        | 1.48%   |
+| WDC WD20EFRX-68EUZN0 2TB        | 3        | 2.21%   |
+| WDC WD1003FZEX-00MK2A0 1TB      | 3        | 2.21%   |
+| Samsung SSD 970 EVO 250GB       | 3        | 2.21%   |
+| Toshiba MQ01ABD100 1TB          | 2        | 1.47%   |
+| Seagate ST500DM002-1BD142 500GB | 2        | 1.47%   |
+| Seagate ST4000VN008-2DR166 4TB  | 2        | 1.47%   |
+| Seagate ST31000524AS 1TB        | 2        | 1.47%   |
+| Seagate ST2000DM008-2FR102 2TB  | 2        | 1.47%   |
+| Seagate ST2000DM001-1CH164 2TB  | 2        | 1.47%   |
+| Seagate ST1000DM010-2EP102 1TB  | 2        | 1.47%   |
+| Seagate ST1000DM003-1ER162 1TB  | 2        | 1.47%   |
+| Samsung SSD 970 EVO Plus 1TB    | 2        | 1.47%   |
+| Crucial CT500MX500SSD1 500GB    | 2        | 1.47%   |
 | ZHITAI SC001 Active 1TB SSD     | 1        | 0.74%   |
 | ZHITAI PC005 Active 512GB       | 1        | 0.74%   |
 | WDC WDS100T2B0C-00PXH0 1TB      | 1        | 0.74%   |
@@ -1036,15 +1042,15 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 22       | 45     | 34.38%  |
-| Seagate             | 20       | 41     | 31.25%  |
-| Toshiba             | 8        | 16     | 12.5%   |
-| Hitachi             | 7        | 10     | 10.94%  |
-| Samsung Electronics | 2        | 2      | 3.13%   |
-| HGST                | 2        | 2      | 3.13%   |
-| MAXTOR              | 1        | 1      | 1.56%   |
-| Hewlett-Packard     | 1        | 1      | 1.56%   |
-| Fujitsu             | 1        | 1      | 1.56%   |
+| WDC                 | 22       | 45     | 33.85%  |
+| Seagate             | 21       | 42     | 32.31%  |
+| Toshiba             | 8        | 16     | 12.31%  |
+| Hitachi             | 7        | 10     | 10.77%  |
+| Samsung Electronics | 2        | 2      | 3.08%   |
+| HGST                | 2        | 2      | 3.08%   |
+| MAXTOR              | 1        | 1      | 1.54%   |
+| Hewlett-Packard     | 1        | 1      | 1.54%   |
+| Fujitsu             | 1        | 1      | 1.54%   |
 
 SSD Vendor
 ----------
@@ -1057,7 +1063,7 @@ Solid state drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 7        | 13     | 26.92%  |
-| Kingston            | 5        | 6      | 19.23%  |
+| Kingston            | 5        | 7      | 19.23%  |
 | Crucial             | 3        | 3      | 11.54%  |
 | China               | 2        | 3      | 7.69%   |
 | ZHITAI              | 1        | 1      | 3.85%   |
@@ -1080,10 +1086,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 39       | 119    | 51.32%  |
-| SSD     | 23       | 35     | 30.26%  |
-| NVMe    | 13       | 15     | 17.11%  |
-| Unknown | 1        | 4      | 1.32%   |
+| HDD     | 40       | 120    | 51.95%  |
+| SSD     | 23       | 36     | 29.87%  |
+| NVMe    | 13       | 15     | 16.88%  |
+| Unknown | 1        | 4      | 1.3%    |
 
 Drive Connector
 ---------------
@@ -1095,7 +1101,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 44       | 149    | 74.58%  |
+| SATA | 44       | 151    | 74.58%  |
 | NVMe | 13       | 15     | 22.03%  |
 | SAS  | 2        | 9      | 3.39%   |
 
@@ -1109,13 +1115,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 32       | 57     | 39.51%  |
-| 0.51-1.0   | 20       | 42     | 24.69%  |
-| 1.01-2.0   | 11       | 15     | 13.58%  |
-| 3.01-4.0   | 7        | 18     | 8.64%   |
-| 2.01-3.0   | 7        | 15     | 8.64%   |
-| 10.01-20.0 | 2        | 5      | 2.47%   |
-| 4.01-10.0  | 2        | 2      | 2.47%   |
+| 0.01-0.5   | 33       | 59     | 40.24%  |
+| 0.51-1.0   | 19       | 41     | 23.17%  |
+| 1.01-2.0   | 11       | 15     | 13.41%  |
+| 2.01-3.0   | 7        | 15     | 8.54%   |
+| 3.01-4.0   | 6        | 17     | 7.32%   |
+| 4.01-10.0  | 4        | 4      | 4.88%   |
+| 10.01-20.0 | 2        | 5      | 2.44%   |
 
 Space Total
 -----------
@@ -1268,7 +1274,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 42       | 120    | 61.76%  |
+| Works    | 42       | 122    | 61.76%  |
 | Malfunc  | 22       | 38     | 32.35%  |
 | Detected | 4        | 15     | 5.88%   |
 
@@ -1792,12 +1798,12 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                    | 1        | 1.89%   |
+| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                    | 1        | 1.89%   |
 | Wacom Cintiq 22HDT WAC1037 1920x1080 476x268mm 21.5-inch              | 1        | 1.89%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                         | 1        | 1.89%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                         | 1        | 1.89%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.89%   |
-| Toshiba TV TSB0206 1920x1080 700x390mm 31.5-inch                      | 1        | 1.89%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                      | 1        | 1.89%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch  | 1        | 1.89%   |
 | Samsung Electronics SyncMaster SAM0248 1280x1024 376x301mm 19.0-inch  | 1        | 1.89%   |
 | Samsung Electronics SyncMaster SAM01AD 1600x1200 408x306mm 20.1-inch  | 1        | 1.89%   |
@@ -1819,12 +1825,12 @@ Monitor models
 | Hewlett-Packard 2309 HWP2823 1920x1080 510x287mm 23.0-inch            | 1        | 1.89%   |
 | Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                  | 1        | 1.89%   |
 | Goldstar W2242 GSM5677 1680x1050 474x296mm 22.0-inch                  | 1        | 1.89%   |
-| Goldstar LG FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch             | 1        | 1.89%   |
+| Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch                | 1        | 1.89%   |
 | Goldstar E1641 GSM8B3E 1366x768 350x200mm 15.9-inch                   | 1        | 1.89%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                 | 1        | 1.89%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                 | 1        | 1.89%   |
-| Gigabyte Technology G27Q GBT2709 2560x1440 600x330mm 27.0-inch        | 1        | 1.89%   |
-| GDH PHILCO GDH0030 1920x540 1150x650mm 52.0-inch                      | 1        | 1.89%   |
+| Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch        | 1        | 1.89%   |
+| GDH CHHWJT GDH0030 1440x900 1150x650mm 52.0-inch                      | 1        | 1.89%   |
 | Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                      | 1        | 1.89%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 1.89%   |
 | Dell LCD Monitor U2312HM 1920x1080                                    | 1        | 1.89%   |
@@ -1836,9 +1842,9 @@ Monitor models
 | BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                     | 1        | 1.89%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch               | 1        | 1.89%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch       | 1        | 1.89%   |
-| AOC 27G2G3 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 1.89%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 1.89%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch      | 1        | 1.89%   |
-| Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch | 1        | 1.89%   |
+| Ancor Communications ROG PG348Q ACI3433 3440x1440 800x340mm 34.2-inch | 1        | 1.89%   |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 1.89%   |
 | Ancor Communications ASUS MG28U ACI28A7 3840x2160 621x341mm 27.9-inch | 1        | 1.89%   |
 | Acer RC241YU ACR0600 2560x1440 530x300mm 24.0-inch                    | 1        | 1.89%   |
@@ -1862,9 +1868,8 @@ Monitor screen resolution
 | 1920x1200 (WUXGA)  | 3        | 6%      |
 | 1366x768 (WXGA)    | 3        | 6%      |
 | 3840x2160 (4K)     | 2        | 4%      |
+| 3440x1440          | 2        | 4%      |
 | 1680x1050 (WSXGA+) | 2        | 4%      |
-| 3440x1440          | 1        | 2%      |
-| 2880x1800          | 1        | 2%      |
 | 2288x1287          | 1        | 2%      |
 | 1920x540           | 1        | 2%      |
 | 1600x1200          | 1        | 2%      |
@@ -2038,7 +2043,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)                         | 2        | 2.53%   |
 | VIA VT6105/VT6106S [Rhine-III]                                                | 1        | 1.27%   |
 | TP-Link RTL8812AU Archer T4U 802.11ac                                         | 1        | 1.27%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1        | 1.27%   |
+| TP-Link 802.11ac WLAN Adapter                                                 | 1        | 1.27%   |
 | Realtek USB 10/100/1G/2.5G LAN                                                | 1        | 1.27%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                       | 1        | 1.27%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.27%   |
@@ -2101,7 +2106,7 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                            | 2        | 11.76%  |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                           | 2        | 11.76%  |
 | TP-Link RTL8812AU Archer T4U 802.11ac                                      | 1        | 5.88%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 1        | 5.88%   |
+| TP-Link 802.11ac WLAN Adapter                                              | 1        | 5.88%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                    | 1        | 5.88%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                  | 1        | 5.88%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                           | 1        | 5.88%   |
@@ -2195,8 +2200,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 42       | 87.5%   |
-| WiFi     | 6        | 12.5%   |
+| Ethernet | 43       | 87.76%  |
+| WiFi     | 6        | 12.24%  |
 
 NICs
 ----
@@ -2208,12 +2213,12 @@ Total network controllers on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 27       | 54%     |
-| 2     | 15       | 30%     |
-| 4     | 3        | 6%      |
-| 3     | 3        | 6%      |
-| 5     | 1        | 2%      |
-| 0     | 1        | 2%      |
+| 1     | 28       | 54.9%   |
+| 2     | 15       | 29.41%  |
+| 4     | 3        | 5.88%   |
+| 3     | 3        | 5.88%   |
+| 5     | 1        | 1.96%   |
+| 0     | 1        | 1.96%   |
 
 IPv6
 ----
@@ -2225,8 +2230,8 @@ IPv6 vs IPv4
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 46       | 92%     |
-| Yes  | 4        | 8%      |
+| No   | 47       | 92.16%  |
+| Yes  | 4        | 7.84%   |
 
 Bluetooth
 ---------
@@ -2341,7 +2346,7 @@ Sound card models
 | Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]                         | 1        | 1.09%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1        | 1.09%   |
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                                        | 1        | 1.09%   |
-| C-Media Electronics USB Audio Device                                                              | 1        | 1.09%   |
+| C-Media Electronics SADES Luna                                                                    | 1        | 1.09%   |
 | ASUSTek Computer XONAR SOUND CARD                                                                 | 1        | 1.09%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1        | 1.09%   |
 | AMD Kabini HDMI/DP Audio                                                                          | 1        | 1.09%   |
@@ -2363,22 +2368,24 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Kingston            | 12       | 22.22%  |
-| Corsair             | 7        | 12.96%  |
-| Unknown             | 6        | 11.11%  |
-| Samsung Electronics | 6        | 11.11%  |
-| SK Hynix            | 5        | 9.26%   |
-| Crucial             | 5        | 9.26%   |
-| Transcend           | 2        | 3.7%    |
-| Team                | 2        | 3.7%    |
-| Micron Technology   | 2        | 3.7%    |
-| Strontium           | 1        | 1.85%   |
-| Silicon Power       | 1        | 1.85%   |
-| HPE                 | 1        | 1.85%   |
-| Gloway              | 1        | 1.85%   |
-| G.Skill             | 1        | 1.85%   |
-| AMD                 | 1        | 1.85%   |
-| A-DATA Technology   | 1        | 1.85%   |
+| Kingston            | 12       | 21.43%  |
+| Corsair             | 7        | 12.5%   |
+| Unknown             | 6        | 10.71%  |
+| Samsung Electronics | 6        | 10.71%  |
+| SK Hynix            | 5        | 8.93%   |
+| Crucial             | 5        | 8.93%   |
+| Transcend           | 2        | 3.57%   |
+| Team                | 2        | 3.57%   |
+| Micron Technology   | 2        | 3.57%   |
+| Strontium           | 1        | 1.79%   |
+| Silicon Power       | 1        | 1.79%   |
+| HPE                 | 1        | 1.79%   |
+| Gloway              | 1        | 1.79%   |
+| G.Skill             | 1        | 1.79%   |
+| AMD                 | 1        | 1.79%   |
+| A-DATA Technology   | 1        | 1.79%   |
+| A Force             | 1        | 1.79%   |
+| Unknown             | 1        | 1.79%   |
 
 Memory Model
 ------------
@@ -2390,65 +2397,66 @@ Memory module models
 
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 3.28%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s          | 2        | 3.28%   |
-| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                   | 1        | 1.64%   |
-| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s               | 1        | 1.64%   |
-| Unknown RAM Module 2048MB DIMM DDR 800MT/s                  | 1        | 1.64%   |
-| Unknown RAM Module 2048MB DIMM 667MT/s                      | 1        | 1.64%   |
-| Unknown RAM Module 1024MB DIMM DDR 800MT/s                  | 1        | 1.64%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                      | 1        | 1.64%   |
-| Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s        | 1        | 1.64%   |
-| Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 1.64%   |
-| Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.64%   |
-| SK Hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.64%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1        | 1.64%   |
-| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s        | 1        | 1.64%   |
-| SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s     | 1        | 1.64%   |
-| SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s        | 1        | 1.64%   |
-| Silicon Power RAM DCLT4GN568S V 4096MB DIMM DDR3 1600MT/s   | 1        | 1.64%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s       | 1        | 1.64%   |
-| Samsung RAM M395T5663QZ4-CE66 2048MB FB-DIMM DDR2 667MT/s   | 1        | 1.64%   |
-| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s         | 1        | 1.64%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB RIMM DDR4 2133MT/s        | 1        | 1.64%   |
-| Samsung RAM M393A1K43BB0-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.64%   |
-| Samsung RAM M393A1G43EB1-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.64%   |
-| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s         | 1        | 1.64%   |
-| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s      | 1        | 1.64%   |
-| Micron RAM 18JSF1G72PZ-1G9E1 8192MB DIMM DDR3 1866MT/s      | 1        | 1.64%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s        | 1        | 1.64%   |
-| Kingston RAM Module 2048MB FB-DIMM DDR2 667MT/s             | 1        | 1.64%   |
-| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.64%   |
-| Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.64%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3533MT/s        | 1        | 1.64%   |
-| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 1        | 1.64%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s         | 1        | 1.64%   |
-| Kingston RAM KHX1600C10D3/4G 4096MB DIMM DDR3 1866MT/s      | 1        | 1.64%   |
-| Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 800MT/s      | 1        | 1.64%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s    | 1        | 1.64%   |
-| Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s       | 1        | 1.64%   |
-| Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s    | 1        | 1.64%   |
-| Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s     | 1        | 1.64%   |
-| Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s     | 1        | 1.64%   |
-| HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s                | 1        | 1.64%   |
-| Gloway RAM TYA4U2666D19161C 16GB DIMM DDR4 2667MT/s         | 1        | 1.64%   |
-| G.Skill RAM F4-3200C16-16GTZSW 16384MB DIMM DDR4 3200MT/s   | 1        | 1.64%   |
-| Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s       | 1        | 1.64%   |
-| Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s       | 1        | 1.64%   |
-| Crucial RAM BLS8G4D32AESBK.M8FE1 8192MB DIMM DDR4 3600MT/s  | 1        | 1.64%   |
-| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s     | 1        | 1.64%   |
-| Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 1.64%   |
-| Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s       | 1        | 1.64%   |
-| Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s  | 1        | 1.64%   |
-| Corsair RAM CMZ8GX3M1A1600C10 8192MB DIMM DDR3 1600MT/s     | 1        | 1.64%   |
-| Corsair RAM CMZ32GX3M4X1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 1.64%   |
-| Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s          | 1        | 1.64%   |
-| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s       | 1        | 1.64%   |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 1.64%   |
-| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s      | 1        | 1.64%   |
-| Corsair RAM CMK16GX4M1A2666C16 16GB DIMM DDR4 2667MT/s      | 1        | 1.64%   |
-| AMD RAM R534G1601S1SL 4096MB DIMM DDR3 1600MT/s             | 1        | 1.64%   |
-| A-DATA RAM Module 4096MB DIMM DDR3 1333MT/s                 | 1        | 1.64%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 3.13%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s          | 2        | 3.13%   |
+| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                   | 1        | 1.56%   |
+| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s               | 1        | 1.56%   |
+| Unknown RAM Module 2048MB DIMM DDR 800MT/s                  | 1        | 1.56%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                      | 1        | 1.56%   |
+| Unknown RAM Module 1024MB DIMM DDR 800MT/s                  | 1        | 1.56%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                      | 1        | 1.56%   |
+| Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s        | 1        | 1.56%   |
+| Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
+| Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.56%   |
+| SK Hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.56%   |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1        | 1.56%   |
+| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s        | 1        | 1.56%   |
+| SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s     | 1        | 1.56%   |
+| SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s        | 1        | 1.56%   |
+| Silicon Power RAM DCLT4GN568S V 4096MB DIMM DDR3 1600MT/s   | 1        | 1.56%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s       | 1        | 1.56%   |
+| Samsung RAM M395T5663QZ4-CE66 2048MB FB-DIMM DDR2 667MT/s   | 1        | 1.56%   |
+| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s         | 1        | 1.56%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB RIMM DDR4 2133MT/s        | 1        | 1.56%   |
+| Samsung RAM M393A1K43BB0-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.56%   |
+| Samsung RAM M393A1G43EB1-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.56%   |
+| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s         | 1        | 1.56%   |
+| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s      | 1        | 1.56%   |
+| Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s         | 1        | 1.56%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s        | 1        | 1.56%   |
+| Kingston RAM Module 2048MB FB-DIMM DDR2 667MT/s             | 1        | 1.56%   |
+| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.56%   |
+| Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.56%   |
+| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s     | 1        | 1.56%   |
+| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 1        | 1.56%   |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s      | 1        | 1.56%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s         | 1        | 1.56%   |
+| Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 800MT/s      | 1        | 1.56%   |
+| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s    | 1        | 1.56%   |
+| Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
+| Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s     | 1        | 1.56%   |
+| Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s     | 1        | 1.56%   |
+| HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s                | 1        | 1.56%   |
+| Gloway RAM TYA4U2666D19161C 16GB DIMM DDR4 2667MT/s         | 1        | 1.56%   |
+| G.Skill RAM F4-3200C16-16GTZSW 16384MB DIMM DDR4 3200MT/s   | 1        | 1.56%   |
+| Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s       | 1        | 1.56%   |
+| Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
+| Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s     | 1        | 1.56%   |
+| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s     | 1        | 1.56%   |
+| Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 1.56%   |
+| Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s       | 1        | 1.56%   |
+| Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s  | 1        | 1.56%   |
+| Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 800MT/s         | 1        | 1.56%   |
+| Corsair RAM CMZ32GX3M4X1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
+| Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s          | 1        | 1.56%   |
+| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s       | 1        | 1.56%   |
+| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
+| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s      | 1        | 1.56%   |
+| Corsair RAM CMK16GX4M1A2666C16 16GB DIMM DDR4 2667MT/s      | 1        | 1.56%   |
+| AMD RAM R534G1601S1SL 4GB DIMM DDR3 1600MT/s                | 1        | 1.56%   |
+| A-DATA RAM Module 4096MB DIMM DDR3 1333MT/s                 | 1        | 1.56%   |
+| A Force RAM 1GX72V160K 8192MB DIMM DDR3 1333MT/s            | 1        | 1.56%   |
 
 Memory Kind
 -----------
@@ -2460,12 +2468,12 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR3    | 22       | 45.83%  |
-| DDR4    | 19       | 39.58%  |
-| DDR2    | 3        | 6.25%   |
-| SDRAM   | 2        | 4.17%   |
-| DDR     | 1        | 2.08%   |
-| Unknown | 1        | 2.08%   |
+| DDR3    | 23       | 46.94%  |
+| DDR4    | 19       | 38.78%  |
+| DDR2    | 3        | 6.12%   |
+| SDRAM   | 2        | 4.08%   |
+| DDR     | 1        | 2.04%   |
+| Unknown | 1        | 2.04%   |
 
 Memory Form Factor
 ------------------
@@ -2477,10 +2485,10 @@ Physical design of the memory module
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| DIMM    | 43       | 89.58%  |
-| SODIMM  | 3        | 6.25%   |
-| RIMM    | 1        | 2.08%   |
-| FB-DIMM | 1        | 2.08%   |
+| DIMM    | 44       | 89.8%   |
+| SODIMM  | 3        | 6.12%   |
+| RIMM    | 1        | 2.04%   |
+| FB-DIMM | 1        | 2.04%   |
 
 Memory Size
 -----------
@@ -2492,12 +2500,12 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 18       | 34.62%  |
-| 4096  | 14       | 26.92%  |
-| 16384 | 7        | 13.46%  |
-| 2048  | 6        | 11.54%  |
-| 1024  | 4        | 7.69%   |
-| 32768 | 3        | 5.77%   |
+| 8192  | 19       | 35.85%  |
+| 4096  | 14       | 26.42%  |
+| 16384 | 7        | 13.21%  |
+| 2048  | 6        | 11.32%  |
+| 1024  | 4        | 7.55%   |
+| 32768 | 3        | 5.66%   |
 
 Memory Speed
 ------------
@@ -2509,24 +2517,24 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 13       | 25.49%  |
-| 2400    | 5        | 9.8%    |
-| 3200    | 4        | 7.84%   |
-| 667     | 4        | 7.84%   |
-| 3600    | 3        | 5.88%   |
-| 1333    | 3        | 5.88%   |
-| 2667    | 2        | 3.92%   |
-| 2666    | 2        | 3.92%   |
-| 2133    | 2        | 3.92%   |
-| 1867    | 2        | 3.92%   |
-| 1866    | 2        | 3.92%   |
-| 800     | 2        | 3.92%   |
-| Unknown | 2        | 3.92%   |
-| 65535   | 1        | 1.96%   |
-| 3800    | 1        | 1.96%   |
-| 3533    | 1        | 1.96%   |
-| 2000    | 1        | 1.96%   |
-| 1066    | 1        | 1.96%   |
+| 1600    | 13       | 25%     |
+| 2400    | 5        | 9.62%   |
+| 3200    | 4        | 7.69%   |
+| 1333    | 4        | 7.69%   |
+| 667     | 4        | 7.69%   |
+| 3600    | 3        | 5.77%   |
+| 2667    | 2        | 3.85%   |
+| 2666    | 2        | 3.85%   |
+| 2133    | 2        | 3.85%   |
+| 1867    | 2        | 3.85%   |
+| 1866    | 2        | 3.85%   |
+| 800     | 2        | 3.85%   |
+| Unknown | 2        | 3.85%   |
+| 65535   | 1        | 1.92%   |
+| 3800    | 1        | 1.92%   |
+| 3533    | 1        | 1.92%   |
+| 2000    | 1        | 1.92%   |
+| 1066    | 1        | 1.92%   |
 
 Printers & scanners
 -------------------
@@ -2562,7 +2570,7 @@ Printer device models
 | HP ENVY 4520 series          | 1        | 12.5%   |
 | HP ENVY 4500 series          | 1        | 12.5%   |
 | Dell 2330d Laser Printer     | 1        | 12.5%   |
-| Canon CanoScan LiDE 300      | 1        | 12.5%   |
+| Canon LiDE 300               | 1        | 12.5%   |
 | Brother Printer              | 1        | 12.5%   |
 | Brother HL-L2320D series     | 1        | 12.5%   |
 

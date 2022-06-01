@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 28
+Total: 27
 
 | Vendor   | Model                    | Probe                                                      | Date         |
 |----------|--------------------------|------------------------------------------------------------|--------------|
@@ -176,7 +176,6 @@ Total: 28
 | ASUSTek  | PRIME B450-PLUS          | [19af27b191](https://linux-hardware.org/?probe=19af27b191) | Aug 20, 2020 |
 | Intel    | DH67CL AAG10212-210      | [f555bad747](https://linux-hardware.org/?probe=f555bad747) | Aug 14, 2020 |
 | HP       | 2AA2                     | [f20932c5c3](https://linux-hardware.org/?probe=f20932c5c3) | Aug 09, 2020 |
-| Intel    | DH67CL AAG10212-210      | [08facfa894](https://linux-hardware.org/?probe=08facfa894) | Jul 17, 2020 |
 | HP       | 2AA2                     | [424f0397a7](https://linux-hardware.org/?probe=424f0397a7) | Jul 16, 2020 |
 | ASUSTek  | P7P55 LX                 | [dc74d7b188](https://linux-hardware.org/?probe=dc74d7b188) | Jun 25, 2020 |
 | Intel    | DH67CL AAG10212-210      | [fdbf1ae7da](https://linux-hardware.org/?probe=fdbf1ae7da) | Jun 19, 2020 |
@@ -239,30 +238,29 @@ Version of the Linux kernel
 
 | Version                 | Desktops | Percent |
 |-------------------------|----------|---------|
-| 5.8.0-40-generic        | 1        | 4.17%   |
-| 5.8.0-0.bpo.2-amd64     | 1        | 4.17%   |
-| 5.7.14-1-MANJARO        | 1        | 4.17%   |
-| 5.4.0-81-generic        | 1        | 4.17%   |
-| 5.4.0-48-generic        | 1        | 4.17%   |
-| 5.4.0-47-generic        | 1        | 4.17%   |
-| 5.4.0-42-generic        | 1        | 4.17%   |
-| 5.4.0-40-generic        | 1        | 4.17%   |
-| 5.4.0-37-generic        | 1        | 4.17%   |
-| 5.3.0-28-generic        | 1        | 4.17%   |
-| 5.16.7-desktop-1omv4003 | 1        | 4.17%   |
-| 5.12.13-300.fc34.x86_64 | 1        | 4.17%   |
-| 5.11.0-40-generic       | 1        | 4.17%   |
-| 5.10.0-11-amd64         | 1        | 4.17%   |
-| 5.0.0-23-generic        | 1        | 4.17%   |
-| 4.19.0-16-amd64         | 1        | 4.17%   |
-| 4.18.0-11-generic       | 1        | 4.17%   |
-| 4.15.0-55-generic       | 1        | 4.17%   |
-| 4.15.0-50-generic       | 1        | 4.17%   |
-| 4.15.0-36-generic       | 1        | 4.17%   |
-| 4.15.0-118-generic      | 1        | 4.17%   |
-| 4.15.0-112-generic      | 1        | 4.17%   |
-| 4.15.0-111-generic      | 1        | 4.17%   |
-| 4.15.0-101-generic      | 1        | 4.17%   |
+| 5.8.0-40-generic        | 1        | 4.35%   |
+| 5.8.0-0.bpo.2-amd64     | 1        | 4.35%   |
+| 5.7.14-1-MANJARO        | 1        | 4.35%   |
+| 5.4.0-81-generic        | 1        | 4.35%   |
+| 5.4.0-48-generic        | 1        | 4.35%   |
+| 5.4.0-47-generic        | 1        | 4.35%   |
+| 5.4.0-42-generic        | 1        | 4.35%   |
+| 5.4.0-40-generic        | 1        | 4.35%   |
+| 5.4.0-37-generic        | 1        | 4.35%   |
+| 5.3.0-28-generic        | 1        | 4.35%   |
+| 5.16.7-desktop-1omv4003 | 1        | 4.35%   |
+| 5.12.13-300.fc34.x86_64 | 1        | 4.35%   |
+| 5.11.0-40-generic       | 1        | 4.35%   |
+| 5.10.0-11-amd64         | 1        | 4.35%   |
+| 5.0.0-23-generic        | 1        | 4.35%   |
+| 4.19.0-16-amd64         | 1        | 4.35%   |
+| 4.18.0-11-generic       | 1        | 4.35%   |
+| 4.15.0-55-generic       | 1        | 4.35%   |
+| 4.15.0-50-generic       | 1        | 4.35%   |
+| 4.15.0-36-generic       | 1        | 4.35%   |
+| 4.15.0-118-generic      | 1        | 4.35%   |
+| 4.15.0-112-generic      | 1        | 4.35%   |
+| 4.15.0-101-generic      | 1        | 4.35%   |
 
 Kernel Family
 -------------
@@ -437,8 +435,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 17       | 85%     |
-| Yes       | 3        | 15%     |
+| No        | 16       | 80%     |
+| Yes       | 4        | 20%     |
 
 Dual Boot (Win)
 ---------------
@@ -617,13 +615,13 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 2.01-3.0  | 6        | 28.57%  |
-| 4.01-8.0  | 5        | 23.81%  |
-| 1.01-2.0  | 5        | 23.81%  |
-| 8.01-16.0 | 2        | 9.52%   |
-| 3.01-4.0  | 1        | 4.76%   |
-| 0.51-1.0  | 1        | 4.76%   |
-| 0.01-0.5  | 1        | 4.76%   |
+| 2.01-3.0  | 6        | 30%     |
+| 4.01-8.0  | 5        | 25%     |
+| 1.01-2.0  | 4        | 20%     |
+| 8.01-16.0 | 2        | 10%     |
+| 3.01-4.0  | 1        | 5%      |
+| 0.51-1.0  | 1        | 5%      |
+| 0.01-0.5  | 1        | 5%      |
 
 Total Drives
 ------------
@@ -676,8 +674,8 @@ Has WiFi module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 13       | 65%     |
-| Yes       | 7        | 35%     |
+| No        | 12       | 63.16%  |
+| Yes       | 7        | 36.84%  |
 
 Has Bluetooth
 -------------
@@ -717,9 +715,11 @@ Geographic location (city)
 
 | City             | Desktops | Percent |
 |------------------|----------|---------|
-| Dubai            | 11       | 57.89%  |
-| Abu Dhabi        | 7        | 36.84%  |
+| Dubai            | 10       | 52.63%  |
+| Abu Dhabi        | 6        | 31.58%  |
+| Sharjah          | 1        | 5.26%   |
 | Al Fujairah City | 1        | 5.26%   |
+| Al Ain City      | 1        | 5.26%   |
 
 Drives
 ------
@@ -735,7 +735,7 @@ Hard drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 11       | 13     | 29.73%  |
-| Seagate             | 7        | 12     | 18.92%  |
+| Seagate             | 7        | 11     | 18.92%  |
 | Samsung Electronics | 7        | 9      | 18.92%  |
 | Toshiba             | 2        | 2      | 5.41%   |
 | Kingston            | 2        | 2      | 5.41%   |
@@ -806,7 +806,7 @@ Hard disk drive vendors
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | WDC     | 8        | 10     | 40%     |
-| Seagate | 7        | 12     | 35%     |
+| Seagate | 7        | 11     | 35%     |
 | Toshiba | 2        | 2      | 10%     |
 | MAXTOR  | 1        | 1      | 5%      |
 | Hitachi | 1        | 1      | 5%      |
@@ -840,7 +840,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 16       | 27     | 55.17%  |
+| HDD  | 16       | 26     | 55.17%  |
 | SSD  | 9        | 15     | 31.03%  |
 | NVMe | 4        | 4      | 13.79%  |
 
@@ -854,7 +854,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 18       | 41     | 78.26%  |
+| SATA | 18       | 40     | 78.26%  |
 | NVMe | 4        | 4      | 17.39%  |
 | SAS  | 1        | 1      | 4.35%   |
 
@@ -868,9 +868,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 26     | 60.71%  |
-| 0.51-1.0   | 5        | 6      | 17.86%  |
-| 1.01-2.0   | 4        | 4      | 14.29%  |
+| 0.01-0.5   | 17       | 25     | 60.71%  |
+| 0.51-1.0   | 7        | 8      | 25%     |
+| 1.01-2.0   | 2        | 2      | 7.14%   |
 | 3.01-4.0   | 1        | 5      | 3.57%   |
 | 4.01-10.0  | 1        | 1      | 3.57%   |
 
@@ -962,7 +962,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 15       | 33     | 78.95%  |
+| Detected | 15       | 32     | 78.95%  |
 | Works    | 4        | 13     | 21.05%  |
 
 Storage controller
@@ -1337,21 +1337,21 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SMB1930N SAM0632 1360x768 410x230mm 18.5-inch    | 1        | 5.88%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch    | 1        | 5.88%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1        | 5.88%   |
-| Panasonic TV MEIA296 1280x1024 698x392mm 31.5-inch                   | 1        | 5.88%   |
+| Panasonic TV MEIA296 1360x768                                        | 1        | 5.88%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                    | 1        | 5.88%   |
 | Hewlett-Packard LCD Monitor HWP4101 1920x1080 470x270mm 21.3-inch    | 1        | 5.88%   |
-| Goldstar HDR 4K GSM7750 3840x2160 697x392mm 31.5-inch                | 1        | 5.88%   |
+| Goldstar LG HDR 4K GSM7750 3840x2160 700x400mm 31.7-inch             | 1        | 5.88%   |
 | Goldstar 24MP76 GSM5A28 1920x1080 530x300mm 24.0-inch                | 1        | 5.88%   |
 | Gigabyte Technology M27Q GBT270D 2560x1440 596x335mm 26.9-inch       | 1        | 5.88%   |
 | Dell E1914H DELD03A 1366x768 410x230mm 18.5-inch                     | 1        | 5.88%   |
-| Dell 2407WFP DELA017 1920x1200 520x330mm 24.2-inch                   | 1        | 5.88%   |
+| Dell 2407WFP DELA017 1920x1200 519x324mm 24.1-inch                   | 1        | 5.88%   |
 | BenQ XL2720Z BNQ7F29 1920x1080 597x336mm 27.0-inch                   | 1        | 5.88%   |
 | BenQ RL2455 BNQ7F1C 1920x1080 531x298mm 24.0-inch                    | 1        | 5.88%   |
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                    | 1        | 5.88%   |
 | BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                   | 1        | 5.88%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1        | 5.88%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 5.88%   |
 | Ancor Communications LCD Monitor ASUS PB287 3840x2160                | 1        | 5.88%   |
 | Ancor Communications ASUS VT207 ACI20F4 1600x900 458x256mm 20.7-inch | 1        | 5.88%   |
 
@@ -1635,8 +1635,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 17       | 73.91%  |
-| WiFi     | 6        | 26.09%  |
+| Ethernet | 17       | 80.95%  |
+| WiFi     | 4        | 19.05%  |
 
 NICs
 ----
@@ -1749,7 +1749,7 @@ Sound card models
 | Nvidia GK106 HDMI Audio Controller                                         | 1        | 2.7%    |
 | Nvidia GF108 High Definition Audio Controller                              | 1        | 2.7%    |
 | Nvidia GA104 High Definition Audio Controller                              | 1        | 2.7%    |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 2.7%    |
+| JMTek USB PnP Audio Device                                                 | 1        | 2.7%    |
 | Intel Comet Lake PCH-V cAVS                                                | 1        | 2.7%    |
 | Intel C600/X79 series chipset High Definition Audio Controller             | 1        | 2.7%    |
 | Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                       | 1        | 2.7%    |
@@ -1785,15 +1785,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Samsung RAM M393B1K70DH0-YH9 8192MB DIMM 1333MT/s         | 1        | 14.29%  |
-| Micron RAM 36JSZF51272PZ1G4F1 4096MB DIMM DDR3 1333MT/s   | 1        | 14.29%  |
-| Kingston RAM KHX2666C16D4/16GX 16384MB DIMM DDR4 2667MT/s | 1        | 14.29%  |
-| Crucial RAM BLS8G4D30BESBK.8FD 8192MB DIMM DDR4 3000MT/s  | 1        | 14.29%  |
-| Corsair RAM CMZ8GX3M1A1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
-| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3200MT/s     | 1        | 14.29%  |
-| Corsair RAM CMD32GX4M4A2800C16 8192MB DIMM DDR4 2133MT/s  | 1        | 14.29%  |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Samsung RAM M393B1K70DH0-YH9 8GB DIMM DDR3 1333MT/s      | 1        | 14.29%  |
+| Micron RAM 36JSZF51272PZ1G4F1 4096MB DIMM DDR3 1333MT/s  | 1        | 14.29%  |
+| Kingston RAM KHX2666C16D4/16GX 16GB DIMM DDR4 2667MT/s   | 1        | 14.29%  |
+| Crucial RAM BLS8G4D30BESBK.8FD 8192MB DIMM DDR4 3000MT/s | 1        | 14.29%  |
+| Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 800MT/s      | 1        | 14.29%  |
+| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3200MT/s    | 1        | 14.29%  |
+| Corsair RAM CMD32GX4M4A2800C16 8192MB DIMM DDR4 2133MT/s | 1        | 14.29%  |
 
 Memory Kind
 -----------

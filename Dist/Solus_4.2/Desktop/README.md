@@ -612,16 +612,16 @@ Geographic location (city)
 
 | City          | Desktops | Percent |
 |---------------|----------|---------|
-| Vesoul        | 1        | 8.33%   |
 | SГЈo Pedro  | 1        | 8.33%   |
 | St Petersburg | 1        | 8.33%   |
 | Severna Park  | 1        | 8.33%   |
 | Santa Maria   | 1        | 8.33%   |
+| Santa Cruz    | 1        | 8.33%   |
 | Moita Bonita  | 1        | 8.33%   |
-| KungÃ¤lv    | 1        | 8.33%   |
-| Irmo          | 1        | 8.33%   |
+| Malmo         | 1        | 8.33%   |
+| Lexington     | 1        | 8.33%   |
+| Gray-la-Ville | 1        | 8.33%   |
 | Gdansk        | 1        | 8.33%   |
-| Funchal       | 1        | 8.33%   |
 | Dublin        | 1        | 8.33%   |
 | Dijon         | 1        | 8.33%   |
 
@@ -1203,11 +1203,11 @@ Monitor models
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch | 1        | 7.69%   |
 | LG Electronics LCD Monitor W1952 1440x900                        | 1        | 7.69%   |
 | JRY HDMI JRY1950 1366x768 410x220mm 18.3-inch                    | 1        | 7.69%   |
-| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch            | 1        | 7.69%   |
+| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch            | 1        | 7.69%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24E1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
@@ -1467,8 +1467,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 11       | 64.71%  |
-| WiFi     | 6        | 35.29%  |
+| Ethernet | 9        | 69.23%  |
+| WiFi     | 4        | 30.77%  |
 
 NICs
 ----

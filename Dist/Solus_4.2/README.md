@@ -708,33 +708,33 @@ Geographic location (city)
 ![City](./All/images/pie_chart/node_city.svg)
 
 
-| City            | Computers | Percent |
-|-----------------|-----------|---------|
-| St Petersburg   | 2         | 7.41%   |
-| Severna Park    | 2         | 7.41%   |
-| Г„ngelholm   | 1         | 3.7%    |
-| Winchmore Hill  | 1         | 3.7%    |
-| Vesoul          | 1         | 3.7%    |
-| SГЈo Pedro    | 1         | 3.7%    |
-| Santa Maria     | 1         | 3.7%    |
-| San Jose        | 1         | 3.7%    |
-| MГЎlaga       | 1         | 3.7%    |
-| Muiderberg      | 1         | 3.7%    |
-| Moita Bonita    | 1         | 3.7%    |
-| Miami           | 1         | 3.7%    |
-| KungÃ¤lv      | 1         | 3.7%    |
-| Irmo            | 1         | 3.7%    |
-| Guatemala City  | 1         | 3.7%    |
-| Guanajuato City | 1         | 3.7%    |
-| Gdansk          | 1         | 3.7%    |
-| Funchal         | 1         | 3.7%    |
-| Dublin          | 1         | 3.7%    |
-| Dijon           | 1         | 3.7%    |
-| Delhi           | 1         | 3.7%    |
-| Bossier City    | 1         | 3.7%    |
-| Auckland        | 1         | 3.7%    |
-| Athens          | 1         | 3.7%    |
-| Antalya         | 1         | 3.7%    |
+| City                      | Computers | Percent |
+|---------------------------|-----------|---------|
+| St Petersburg             | 2         | 7.41%   |
+| Severna Park              | 2         | 7.41%   |
+| SГЈo Pedro              | 1         | 3.7%    |
+| Santa Maria               | 1         | 3.7%    |
+| Santa Cruz                | 1         | 3.7%    |
+| San Francisco del Rincón | 1         | 3.7%    |
+| San Francisco             | 1         | 3.7%    |
+| Moita Bonita              | 1         | 3.7%    |
+| Miami                     | 1         | 3.7%    |
+| Malmo                     | 1         | 3.7%    |
+| Málaga                   | 1         | 3.7%    |
+| Lexington                 | 1         | 3.7%    |
+| Istanbul                  | 1         | 3.7%    |
+| Guatemala City            | 1         | 3.7%    |
+| Gray-la-Ville             | 1         | 3.7%    |
+| Gdansk                    | 1         | 3.7%    |
+| Enfield                   | 1         | 3.7%    |
+| Dublin                    | 1         | 3.7%    |
+| Dijon                     | 1         | 3.7%    |
+| Delhi                     | 1         | 3.7%    |
+| Bossier City              | 1         | 3.7%    |
+| Auckland                  | 1         | 3.7%    |
+| Athens                    | 1         | 3.7%    |
+| Ängelholm                | 1         | 3.7%    |
+| Amsterdam                 | 1         | 3.7%    |
 
 Drives
 ------
@@ -802,7 +802,7 @@ Hard drive models
 | SanDisk SDSSDP064G 64GB                  | 1         | 2.22%   |
 | SanDisk SDSSDA240G 240GB                 | 1         | 2.22%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 2.22%   |
-| SanDisk Extreme SSD 1TB                  | 1         | 2.22%   |
+| SanDisk Extreme SSD 500GB                | 1         | 2.22%   |
 | Samsung SSD 970 EVO Plus 2TB             | 1         | 2.22%   |
 | Samsung SSD 970 EVO 500GB                | 1         | 2.22%   |
 | Samsung PSSD T7 500GB                    | 1         | 2.22%   |
@@ -898,10 +898,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 23     | 61.29%  |
-| 0.51-1.0   | 10        | 17     | 32.26%  |
-| 3.01-4.0   | 1         | 1      | 3.23%   |
-| 1.01-2.0   | 1         | 4      | 3.23%   |
+| 0.01-0.5   | 20        | 25     | 62.5%   |
+| 0.51-1.0   | 10        | 15     | 31.25%  |
+| 3.01-4.0   | 1         | 1      | 3.13%   |
+| 1.01-2.0   | 1         | 4      | 3.13%   |
 
 Space Total
 -----------
@@ -1411,28 +1411,28 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
 | JRY HDMI JRY1950 1366x768 410x220mm 18.3-inch                        | 1         | 3.45%   |
-| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch                | 1         | 3.45%   |
+| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1         | 3.45%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch          | 1         | 3.45%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 3.45%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1         | 3.45%   |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 3.45%   |
-| AU Optronics LCD Monitor AUO313C 1366x768 310x170mm 13.9-inch        | 1         | 3.45%   |
+| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO173D 1920x1080 309x173mm 13.9-inch       | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO15ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24E1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1571,20 +1571,20 @@ Controller vendors
 ![Net Controller Vendor](./All/images/pie_chart/net_vendor.svg)
 
 
-| Vendor                   | Computers | Percent |
-|--------------------------|-----------|---------|
-| Realtek Semiconductor    | 15        | 34.88%  |
-| Intel                    | 11        | 25.58%  |
-| Qualcomm Atheros         | 6         | 13.95%  |
-| Broadcom                 | 3         | 6.98%   |
-| TP-Link                  | 1         | 2.33%   |
-| Ralink Technology        | 1         | 2.33%   |
-| Ralink                   | 1         | 2.33%   |
-| OnePlus                  | 1         | 2.33%   |
-| NetGear                  | 1         | 2.33%   |
-| Marvell Technology Group | 1         | 2.33%   |
-| Hewlett-Packard          | 1         | 2.33%   |
-| Broadcom Limited         | 1         | 2.33%   |
+| Vendor                        | Computers | Percent |
+|-------------------------------|-----------|---------|
+| Realtek Semiconductor         | 15        | 34.88%  |
+| Intel                         | 11        | 25.58%  |
+| Qualcomm Atheros              | 6         | 13.95%  |
+| Broadcom                      | 3         | 6.98%   |
+| TP-Link                       | 1         | 2.33%   |
+| Ralink Technology             | 1         | 2.33%   |
+| Ralink                        | 1         | 2.33%   |
+| OnePlus Technology (Shenzhen) | 1         | 2.33%   |
+| NetGear                       | 1         | 2.33%   |
+| Marvell Technology Group      | 1         | 2.33%   |
+| Hewlett-Packard               | 1         | 2.33%   |
+| Broadcom Limited              | 1         | 2.33%   |
 
 Net Controller Model
 --------------------
@@ -1616,7 +1616,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.89%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
-| OnePlus IN2017                                                    | 1         | 1.89%   |
+| OnePlus (Shenzhen) EB2103                                         | 1         | 1.89%   |
 | NetGear A6150                                                     | 1         | 1.89%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.89%   |
@@ -1761,8 +1761,8 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 23        | 56.1%   |
-| WiFi     | 18        | 43.9%   |
+| WiFi     | 16        | 59.26%  |
+| Ethernet | 11        | 40.74%  |
 
 NICs
 ----
@@ -1828,9 +1828,9 @@ Controller models
 | Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
 | Realtek Bluetooth Radio                          | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
+| Qualcomm Atheros  Bluetooth Device               | 1         | 6.67%   |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
-| Lite-On Bluetooth Device                         | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
 | Intel AX200 Bluetooth                            | 1         | 6.67%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
@@ -1929,10 +1929,10 @@ Memory module models
 | Model                                                     | Computers | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 11.11%  |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 11.11%  |
+| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 11.11%  |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 11.11%  |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 11.11%  |
-| Micron RAM 16KTF51264HZ-1G6M1 4096MB SODIMM DDR3 1600MT/s | 1         | 11.11%  |
+| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 11.11%  |
 | G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s     | 1         | 11.11%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 11.11%  |

@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 40
+Total: 39
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
@@ -166,7 +166,6 @@ Total: 40
 | ASRock     | B450 Gaming-ITX/ac          | [1211bed149](https://linux-hardware.org/?probe=1211bed149) | Apr 13, 2022 |
 | ASRock     | H81 Pro BTC R2.0            | [0c294047d9](https://linux-hardware.org/?probe=0c294047d9) | Apr 13, 2022 |
 | ASRock     | H81 Pro BTC R2.0            | [50c38c2cc6](https://linux-hardware.org/?probe=50c38c2cc6) | Apr 12, 2022 |
-| ASRock     | H81 Pro BTC R2.0            | [9f5778e082](https://linux-hardware.org/?probe=9f5778e082) | Apr 11, 2022 |
 | Gigabyte   | GA-MA770-UD3                | [18063bba4f](https://linux-hardware.org/?probe=18063bba4f) | Apr 10, 2022 |
 | Unknown    | HX90                        | [ab8a381a52](https://linux-hardware.org/?probe=ab8a381a52) | Apr 08, 2022 |
 | Unknown    | HX90                        | [a83217f763](https://linux-hardware.org/?probe=a83217f763) | Apr 07, 2022 |
@@ -196,7 +195,7 @@ Total: 40
 | Gigabyte   | H81M-S2V                    | [db8fadad17](https://linux-hardware.org/?probe=db8fadad17) | Aug 06, 2021 |
 | MSI        | B450 GAMING PRO CARBON A... | [b6ae0cb479](https://linux-hardware.org/?probe=b6ae0cb479) | Aug 05, 2021 |
 | Gigabyte   | B360M AORUS Gaming 3-CF     | [fc89bec579](https://linux-hardware.org/?probe=fc89bec579) | Jul 16, 2021 |
-| Lenovo     | Board                       | [89217c2643](https://linux-hardware.org/?probe=89217c2643) | Jul 14, 2021 |
+| Lenovo     | ThinkCentre M71e 3157G6S    | [89217c2643](https://linux-hardware.org/?probe=89217c2643) | Jul 14, 2021 |
 
 System
 ------
@@ -211,11 +210,11 @@ Version of the Linux kernel
 
 | Version             | Desktops | Percent |
 |---------------------|----------|---------|
-| 5.15.32-213.current | 4        | 15.38%  |
+| 5.15.32-213.current | 5        | 19.23%  |
 | 5.14.21-210.current | 4        | 15.38%  |
 | 5.14.16-205.current | 4        | 15.38%  |
-| 5.15.30-212.current | 3        | 11.54%  |
 | 5.13.12-193.current | 3        | 11.54%  |
+| 5.15.30-212.current | 2        | 7.69%   |
 | 5.14.14-202.current | 2        | 7.69%   |
 | 5.13.6-190.current  | 2        | 7.69%   |
 | 5.13.1-187.current  | 2        | 7.69%   |
@@ -232,11 +231,11 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.15.32 | 4        | 15.38%  |
+| 5.15.32 | 5        | 19.23%  |
 | 5.14.21 | 4        | 15.38%  |
 | 5.14.16 | 4        | 15.38%  |
-| 5.15.30 | 3        | 11.54%  |
 | 5.13.12 | 3        | 11.54%  |
+| 5.15.30 | 2        | 7.69%   |
 | 5.14.14 | 2        | 7.69%   |
 | 5.13.6  | 2        | 7.69%   |
 | 5.13.1  | 2        | 7.69%   |
@@ -508,17 +507,17 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2018 | 6        | 24%     |
+| 2018 | 5        | 20%     |
 | 2014 | 4        | 16%     |
 | 2015 | 3        | 12%     |
+| 2011 | 3        | 12%     |
+| 2016 | 2        | 8%      |
 | 2013 | 2        | 8%      |
-| 2012 | 2        | 8%      |
-| 2011 | 2        | 8%      |
 | 2008 | 2        | 8%      |
 | 2021 | 1        | 4%      |
 | 2020 | 1        | 4%      |
 | 2017 | 1        | 4%      |
-| 2016 | 1        | 4%      |
+| 2012 | 1        | 4%      |
 
 Form Factor
 -----------
@@ -581,14 +580,13 @@ Used RAM memory
 ![RAM Used](./images/pie_chart/node_ram_used.svg)
 
 
-| Used GB   | Desktops | Percent |
-|-----------|----------|---------|
-| 1.01-2.0  | 8        | 30.77%  |
-| 4.01-8.0  | 6        | 23.08%  |
-| 2.01-3.0  | 6        | 23.08%  |
-| 3.01-4.0  | 4        | 15.38%  |
-| 8.01-16.0 | 1        | 3.85%   |
-| 0.51-1.0  | 1        | 3.85%   |
+| Used GB  | Desktops | Percent |
+|----------|----------|---------|
+| 1.01-2.0 | 9        | 34.62%  |
+| 4.01-8.0 | 6        | 23.08%  |
+| 2.01-3.0 | 6        | 23.08%  |
+| 3.01-4.0 | 4        | 15.38%  |
+| 0.51-1.0 | 1        | 3.85%   |
 
 Total Drives
 ------------
@@ -616,8 +614,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 14       | 53.85%  |
-| Yes       | 12       | 46.15%  |
+| No        | 15       | 60%     |
+| Yes       | 10       | 40%     |
 
 Has Ethernet
 ------------
@@ -700,31 +698,31 @@ Geographic location (city)
 
 | City            | Desktops | Percent |
 |-----------------|----------|---------|
+| Weil am Rhein   | 1        | 4%      |
 | Toronto         | 1        | 4%      |
 | Thessaloniki    | 1        | 4%      |
+| Songkhla        | 1        | 4%      |
 | Seville         | 1        | 4%      |
 | Severna Park    | 1        | 4%      |
-| Sadao           | 1        | 4%      |
 | Portsmouth      | 1        | 4%      |
 | Phoenix         | 1        | 4%      |
 | Oslo            | 1        | 4%      |
 | Orenburg        | 1        | 4%      |
-| Loerrach        | 1        | 4%      |
+| Ochten          | 1        | 4%      |
 | Lipa City       | 1        | 4%      |
+| Lexington       | 1        | 4%      |
 | Krefeld         | 1        | 4%      |
-| Kostanay        | 1        | 4%      |
 | Kolkata         | 1        | 4%      |
 | Huntington Park | 1        | 4%      |
 | Georgetown      | 1        | 4%      |
 | Durrës         | 1        | 4%      |
 | Dammam          | 1        | 4%      |
 | Curitiba        | 1        | 4%      |
-| Columbia        | 1        | 4%      |
 | Caracas         | 1        | 4%      |
 | Caen            | 1        | 4%      |
 | Bad Homburg     | 1        | 4%      |
+| Atyrau          | 1        | 4%      |
 | Arak            | 1        | 4%      |
-| Alblasserdam    | 1        | 4%      |
 
 Drives
 ------
@@ -810,9 +808,9 @@ Hard drive models
 | Kingston SHSS37A240G 240GB SSD       | 1        | 1.72%   |
 | Kingston NVMe SSD Drive 512GB        | 1        | 1.72%   |
 | Kingston NVMe SSD Drive 500GB        | 1        | 1.72%   |
-| Intenso External USB 3.0 3TB         | 1        | 1.72%   |
+| Intenso External USB 3.0 4TB         | 1        | 1.72%   |
 | Hitachi HTS545032B9A300 320GB        | 1        | 1.72%   |
-| Hitachi HDS721616PLA380 160GB        | 1        | 1.72%   |
+| Hitachi HDS721616PLA380 164GB        | 1        | 1.72%   |
 | China SSD 128GB                      | 1        | 1.72%   |
 
 HDD Vendor
@@ -892,8 +890,7 @@ Size of hard drive
 | 0.01-0.5   | 18       | 33     | 51.43%  |
 | 0.51-1.0   | 9        | 11     | 25.71%  |
 | 1.01-2.0   | 5        | 5      | 14.29%  |
-| 3.01-4.0   | 2        | 2      | 5.71%   |
-| 2.01-3.0   | 1        | 2      | 2.86%   |
+| 3.01-4.0   | 3        | 4      | 8.57%   |
 
 Space Total
 -----------
@@ -905,13 +902,13 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 251-500        | 9        | 34.62%  |
-| 101-250        | 4        | 15.38%  |
-| 1001-2000      | 4        | 15.38%  |
-| 501-1000       | 4        | 15.38%  |
-| More than 3000 | 3        | 11.54%  |
-| 21-50          | 1        | 3.85%   |
-| 51-100         | 1        | 3.85%   |
+| 251-500        | 8        | 32%     |
+| 101-250        | 4        | 16%     |
+| 1001-2000      | 4        | 16%     |
+| 501-1000       | 4        | 16%     |
+| More than 3000 | 3        | 12%     |
+| 21-50          | 1        | 4%      |
+| 51-100         | 1        | 4%      |
 
 Space Used
 ----------
@@ -923,13 +920,13 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 8        | 30.77%  |
-| 101-250        | 5        | 19.23%  |
-| 501-1000       | 4        | 15.38%  |
-| 251-500        | 3        | 11.54%  |
-| 1001-2000      | 3        | 11.54%  |
-| 21-50          | 2        | 7.69%   |
-| More than 3000 | 1        | 3.85%   |
+| 1-20           | 8        | 32%     |
+| 101-250        | 5        | 20%     |
+| 501-1000       | 4        | 16%     |
+| 1001-2000      | 3        | 12%     |
+| 251-500        | 2        | 8%      |
+| 21-50          | 2        | 8%      |
+| More than 3000 | 1        | 4%      |
 
 Malfunc. Drives
 ---------------
@@ -1377,7 +1374,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24E1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 9.68%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 3        | 9.68%   |
 | SHARP LCD Monitor HDMI 1920x1080                                     | 1        | 3.23%   |
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1        | 3.23%   |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 3.23%   |
@@ -1389,7 +1386,7 @@ Monitor models
 | Hewlett-Packard 24y HPN3504 1920x1080 528x297mm 23.9-inch            | 1        | 3.23%   |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 3.23%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 3.23%   |
-| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1        | 3.23%   |
+| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch           | 1        | 3.23%   |
 | Goldstar E2050 GSM4EAE 1600x900 443x249mm 20.0-inch                  | 1        | 3.23%   |
 | Goldstar 19EN33 GSM4C18 1366x768 410x230mm 18.5-inch                 | 1        | 3.23%   |
 | Dell SE2419HR DELF113 1920x1080 527x296mm 23.8-inch                  | 1        | 3.23%   |
@@ -1403,7 +1400,7 @@ Monitor models
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 3.23%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 3.23%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 3.23%   |
-| Acer V236HL ACR0350 1920x1080 509x286mm 23.0-inch                    | 1        | 3.23%   |
+| Acer V236HL ACR0350 1920x1080 510x290mm 23.1-inch                    | 1        | 3.23%   |
 | Acer V193HQV ACR0133 1366x768 410x230mm 18.5-inch                    | 1        | 3.23%   |
 | Unknown                                                              | 1        | 3.23%   |
 
@@ -1580,13 +1577,13 @@ Controller models
 | Ralink MT7601U Wireless Adapter                                                         | 1        | 2.33%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                              | 1        | 2.33%   |
 | MediaTek Wireless                                                                       | 1        | 2.33%   |
-| MEDIATEK RZ608 Wi-Fi 6E 80MHz                                                           | 1        | 2.33%   |
+| MEDIATEK MT7921K (RZ608) Wi-Fi 6E 80MHz                                                 | 1        | 2.33%   |
 | Linksys WUSB6100M 802.11a/b/g/n/ac Wireless Adapter                                     | 1        | 2.33%   |
 | Intel Wireless-AC 9260                                                                  | 1        | 2.33%   |
 | Intel Wireless 3165                                                                     | 1        | 2.33%   |
 | Intel Wi-Fi 6 AX200                                                                     | 1        | 2.33%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 2.33%   |
-| Huawei JNY-LX1                                                                          | 1        | 2.33%   |
+| Huawei MAR-LX1A                                                                         | 1        | 2.33%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 2.33%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                      | 1        | 2.33%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 2.33%   |
@@ -1603,7 +1600,7 @@ Wireless vendors
 |-----------------------|----------|---------|
 | Realtek Semiconductor | 5        | 31.25%  |
 | Intel                 | 4        | 25%     |
-| MEDIATEK              | 2        | 12.5%   |
+| MediaTek              | 2        | 12.5%   |
 | Ralink Technology     | 1        | 6.25%   |
 | Linksys               | 1        | 6.25%   |
 | D-Link System         | 1        | 6.25%   |
@@ -1626,7 +1623,7 @@ Wireless models
 | Realtek RTL8187 Wireless Adapter                                                        | 1        | 6.25%   |
 | Ralink MT7601U Wireless Adapter                                                         | 1        | 6.25%   |
 | MediaTek Wireless                                                                       | 1        | 6.25%   |
-| MEDIATEK RZ608 Wi-Fi 6E 80MHz                                                           | 1        | 6.25%   |
+| MEDIATEK MT7921K (RZ608) Wi-Fi 6E 80MHz                                                 | 1        | 6.25%   |
 | Linksys WUSB6100M 802.11a/b/g/n/ac Wireless Adapter                                     | 1        | 6.25%   |
 | Intel Wireless-AC 9260                                                                  | 1        | 6.25%   |
 | Intel Wireless 3165                                                                     | 1        | 6.25%   |
@@ -1668,7 +1665,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 2        | 7.41%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 3.7%    |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 3.7%    |
-| Huawei JNY-LX1                                                    | 1        | 3.7%    |
+| Huawei MAR-LX1A                                                   | 1        | 3.7%    |
 
 Net Controller Kind
 -------------------
@@ -1693,8 +1690,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 21       | 70%     |
-| WiFi     | 9        | 30%     |
+| Ethernet | 20       | 71.43%  |
+| WiFi     | 8        | 28.57%  |
 
 NICs
 ----
@@ -1861,9 +1858,9 @@ Memory module models
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s                 | 1        | 14.29%  |
 | Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s         | 1        | 14.29%  |
 | Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s       | 1        | 14.29%  |
-| Crucial RAM CT51264BA160BJ.M8F 4096MB DIMM DDR3 1600MT/s  | 1        | 14.29%  |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s     | 1        | 14.29%  |
 | Crucial RAM BLS8G4D32AESBK.M8FE 8192MB DIMM DDR4 3200MT/s | 1        | 14.29%  |
-| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s     | 1        | 14.29%  |
+| Corsair RAM CMK16GX4M2Z3200C16 8192MB DIMM DDR4 3200MT/s  | 1        | 14.29%  |
 | A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s               | 1        | 14.29%  |
 
 Memory Kind

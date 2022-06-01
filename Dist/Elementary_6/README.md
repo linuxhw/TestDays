@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 285
+Total: 282
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
@@ -185,7 +185,7 @@ Total: 285
 | Star Labs     | StarBook                    | Notebook    | [e9414e6bc4](https://linux-hardware.org/?probe=e9414e6bc4) | Dec 09, 2021 |
 | Lenovo        | ThinkPad X201 Tablet 311... | Notebook    | [31e281d91b](https://linux-hardware.org/?probe=31e281d91b) | Dec 09, 2021 |
 | Lenovo        | IdeaPad 320S-14IKB 81BN     | Notebook    | [d6be9fac19](https://linux-hardware.org/?probe=d6be9fac19) | Dec 09, 2021 |
-| ASUSTek       | TUF GAMING B560M-PLUS       | Desktop     | [5c0550c1e8](https://linux-hardware.org/?probe=5c0550c1e8) | Dec 09, 2021 |
+| ASUSTek       | TUF Gaming B560M-PLUS       | Desktop     | [5c0550c1e8](https://linux-hardware.org/?probe=5c0550c1e8) | Dec 09, 2021 |
 | ASUSTek       | PRIME A320M-K               | Desktop     | [fc49eed81d](https://linux-hardware.org/?probe=fc49eed81d) | Dec 09, 2021 |
 | Lenovo        | ThinkPad SL400 2743A37      | Notebook    | [d32c954439](https://linux-hardware.org/?probe=d32c954439) | Dec 09, 2021 |
 | ASUSTek       | H81M-C                      | Desktop     | [0b0241baf7](https://linux-hardware.org/?probe=0b0241baf7) | Dec 08, 2021 |
@@ -228,7 +228,7 @@ Total: 285
 | ASUSTek       | PRIME B365M-A               | Desktop     | [c7cbb50843](https://linux-hardware.org/?probe=c7cbb50843) | Nov 30, 2021 |
 | Google        | Kip                         | Notebook    | [958c198a17](https://linux-hardware.org/?probe=958c198a17) | Nov 29, 2021 |
 | Lenovo        | ThinkPad SL400 2743A37      | Notebook    | [26cba9b931](https://linux-hardware.org/?probe=26cba9b931) | Nov 29, 2021 |
-| Chuwi         | LarkBox Pro                 | Desktop     | [4af62a6057](https://linux-hardware.org/?probe=4af62a6057) | Nov 29, 2021 |
+| Chuwi         | LarkBox Pro                 | Mini pc     | [4af62a6057](https://linux-hardware.org/?probe=4af62a6057) | Nov 29, 2021 |
 | Biostar       | TH55XE                      | Desktop     | [9e420cc495](https://linux-hardware.org/?probe=9e420cc495) | Nov 28, 2021 |
 | Toshiba       | Satellite L750              | Notebook    | [0a4f8ff5f1](https://linux-hardware.org/?probe=0a4f8ff5f1) | Nov 28, 2021 |
 | HP            | Laptop 15s-fq0xxx           | Notebook    | [8b1d090289](https://linux-hardware.org/?probe=8b1d090289) | Nov 28, 2021 |
@@ -242,7 +242,6 @@ Total: 285
 | Acer          | Iconia Tab W500             | Tablet      | [5984a91751](https://linux-hardware.org/?probe=5984a91751) | Nov 27, 2021 |
 | TUXEDO        | Pulse 15 Gen1               | Notebook    | [c8a72fc7e2](https://linux-hardware.org/?probe=c8a72fc7e2) | Nov 26, 2021 |
 | HP            | 1825                        | Desktop     | [3648c360a9](https://linux-hardware.org/?probe=3648c360a9) | Nov 26, 2021 |
-| Lenovo        | ThinkPad SL400 2743A37      | Notebook    | [8c0a3a65ba](https://linux-hardware.org/?probe=8c0a3a65ba) | Nov 26, 2021 |
 | HP            | EliteBook Folio 1040 G3     | Notebook    | [0004bab911](https://linux-hardware.org/?probe=0004bab911) | Nov 26, 2021 |
 | HP            | EliteBook Folio 1040 G3     | Notebook    | [2ef4f4f273](https://linux-hardware.org/?probe=2ef4f4f273) | Nov 26, 2021 |
 | Dell          | Inspiron 15-3573            | Notebook    | [04dc1956ff](https://linux-hardware.org/?probe=04dc1956ff) | Nov 26, 2021 |
@@ -323,8 +322,6 @@ Total: 285
 | Acer          | Aspire ES1-311              | Notebook    | [df266accf1](https://linux-hardware.org/?probe=df266accf1) | Oct 12, 2021 |
 | Apple         | MacBookAir6,1               | Notebook    | [66f91918dc](https://linux-hardware.org/?probe=66f91918dc) | Oct 12, 2021 |
 | Apple         | MacBookAir6,1               | Notebook    | [87403edfc9](https://linux-hardware.org/?probe=87403edfc9) | Oct 11, 2021 |
-| HP            | 2B42                        | All in one  | [794d39b312](https://linux-hardware.org/?probe=794d39b312) | Oct 11, 2021 |
-| HP            | 2B42                        | All in one  | [936b3a489d](https://linux-hardware.org/?probe=936b3a489d) | Oct 11, 2021 |
 | HP            | 2B42                        | All in one  | [c1224ad1ab](https://linux-hardware.org/?probe=c1224ad1ab) | Oct 11, 2021 |
 | ASUSTek       | 1215B                       | Notebook    | [7b3bf2ca14](https://linux-hardware.org/?probe=7b3bf2ca14) | Oct 11, 2021 |
 | HP            | EliteBook 8440p             | Notebook    | [e5071e6c43](https://linux-hardware.org/?probe=e5071e6c43) | Oct 10, 2021 |
@@ -332,7 +329,7 @@ Total: 285
 | HP            | ProBook 4530s               | Notebook    | [0a725a0b81](https://linux-hardware.org/?probe=0a725a0b81) | Oct 07, 2021 |
 | Apple         | MacBookPro7,1               | Notebook    | [644b3b5b60](https://linux-hardware.org/?probe=644b3b5b60) | Oct 04, 2021 |
 | MSI           | B460M PRO-VDH WIFI          | Desktop     | [05711b548f](https://linux-hardware.org/?probe=05711b548f) | Oct 03, 2021 |
-| ASUSTek       | TUF GAMING B560M-PLUS       | Desktop     | [de0f051658](https://linux-hardware.org/?probe=de0f051658) | Oct 02, 2021 |
+| ASUSTek       | TUF Gaming B560M-PLUS       | Desktop     | [de0f051658](https://linux-hardware.org/?probe=de0f051658) | Oct 02, 2021 |
 | Shuttle       | FS61                        | Desktop     | [b25047a516](https://linux-hardware.org/?probe=b25047a516) | Oct 01, 2021 |
 | Panasonic     | FZ-G1ASH39E3                | Tablet      | [06f11c0449](https://linux-hardware.org/?probe=06f11c0449) | Sep 30, 2021 |
 | Panasonic     | FZ-G1ASH39E3                | Tablet      | [961d53afb6](https://linux-hardware.org/?probe=961d53afb6) | Sep 30, 2021 |
@@ -416,7 +413,7 @@ Total: 285
 | HP            | Notebook                    | Notebook    | [a3058005e3](https://linux-hardware.org/?probe=a3058005e3) | Aug 16, 2021 |
 | HP            | Notebook                    | Notebook    | [7800ef9623](https://linux-hardware.org/?probe=7800ef9623) | Aug 16, 2021 |
 | Lenovo        | IdeaPad 330-15IKB 81FE      | Notebook    | [fa6c69671f](https://linux-hardware.org/?probe=fa6c69671f) | Aug 16, 2021 |
-| ASUSTek       | TUF GAMING B450M-PRO II     | Desktop     | [73beb900ea](https://linux-hardware.org/?probe=73beb900ea) | Aug 15, 2021 |
+| ASUSTek       | TUF Gaming B450M-PRO II     | Desktop     | [73beb900ea](https://linux-hardware.org/?probe=73beb900ea) | Aug 15, 2021 |
 | Acidanther... | Mac-7BA5B2D9E42DDD94 iMa... | All in one  | [a8d4959fde](https://linux-hardware.org/?probe=a8d4959fde) | Aug 14, 2021 |
 | Apple         | MacBookPro9,1               | Notebook    | [a6b2c12401](https://linux-hardware.org/?probe=a6b2c12401) | Aug 14, 2021 |
 | Dell          | Precision 5760              | Notebook    | [824e5e7dad](https://linux-hardware.org/?probe=824e5e7dad) | Aug 14, 2021 |
@@ -435,9 +432,9 @@ Total: 285
 | Acer          | Swift SF315-41              | Notebook    | [8df5e13fc0](https://linux-hardware.org/?probe=8df5e13fc0) | Jun 18, 2021 |
 | ASRock        | B450 Pro4                   | Desktop     | [c5d0611f79](https://linux-hardware.org/?probe=c5d0611f79) | Jun 13, 2021 |
 | Acer          | Swift SF314-55G             | Notebook    | [4e5cf8aa1e](https://linux-hardware.org/?probe=4e5cf8aa1e) | Jun 13, 2021 |
-| ASUSTek       | TUF GAMING B550M-PLUS       | Desktop     | [63da02a979](https://linux-hardware.org/?probe=63da02a979) | May 19, 2021 |
+| ASUSTek       | TUF Gaming B550M-PLUS       | Desktop     | [63da02a979](https://linux-hardware.org/?probe=63da02a979) | May 19, 2021 |
 | Acer          | ConceptD CN315-71P          | Notebook    | [5ecea84320](https://linux-hardware.org/?probe=5ecea84320) | May 15, 2021 |
-| ASUSTek       | TUF GAMING B550M-PLUS       | Desktop     | [223234378e](https://linux-hardware.org/?probe=223234378e) | May 04, 2021 |
+| ASUSTek       | TUF Gaming B550M-PLUS       | Desktop     | [223234378e](https://linux-hardware.org/?probe=223234378e) | May 04, 2021 |
 | HP            | ENVY x360 Convertible 15... | Convertible | [e177523d81](https://linux-hardware.org/?probe=e177523d81) | May 03, 2021 |
 | ASUSTek       | ROG STRIX B450-I GAMING     | Desktop     | [a208e8a358](https://linux-hardware.org/?probe=a208e8a358) | May 01, 2021 |
 | Apple         | MacBookPro8,2               | Notebook    | [e87a073ae8](https://linux-hardware.org/?probe=e87a073ae8) | Mar 18, 2021 |
@@ -658,8 +655,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 221       | 95.67%  |
-| Yes       | 10        | 4.33%   |
+| No        | 220       | 95.24%  |
+| Yes       | 11        | 4.76%   |
 
 Dual Boot (Win)
 ---------------
@@ -878,15 +875,15 @@ Motherboard manufacture year
 | Year    | Computers | Percent |
 |---------|-----------|---------|
 | 2020    | 28        | 12.12%  |
-| 2018    | 22        | 9.52%   |
+| 2018    | 23        | 9.96%   |
 | 2011    | 22        | 9.52%   |
-| 2019    | 20        | 8.66%   |
 | 2010    | 20        | 8.66%   |
+| 2019    | 19        | 8.23%   |
 | 2017    | 19        | 8.23%   |
 | 2021    | 17        | 7.36%   |
 | 2016    | 17        | 7.36%   |
-| 2015    | 17        | 7.36%   |
-| 2012    | 15        | 6.49%   |
+| 2012    | 17        | 7.36%   |
+| 2015    | 15        | 6.49%   |
 | 2014    | 11        | 4.76%   |
 | 2013    | 8         | 3.46%   |
 | 2009    | 7         | 3.03%   |
@@ -906,11 +903,11 @@ Physical design of the computer
 | Name        | Computers | Percent |
 |-------------|-----------|---------|
 | Notebook    | 141       | 61.04%  |
-| Desktop     | 68        | 29.44%  |
+| Desktop     | 67        | 29%     |
 | All in one  | 11        | 4.76%   |
 | Convertible | 6         | 2.6%    |
 | Tablet      | 4         | 1.73%   |
-| Mini pc     | 1         | 0.43%   |
+| Mini pc     | 2         | 0.87%   |
 
 Secure Boot
 -----------
@@ -1003,8 +1000,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 158       | 68.4%   |
-| Yes       | 73        | 31.6%   |
+| No        | 159       | 68.83%  |
+| Yes       | 72        | 31.17%  |
 
 Has Ethernet
 ------------
@@ -1125,68 +1122,68 @@ Geographic location (city)
 ![City](./All/images/pie_chart/node_city.svg)
 
 
-| City                  | Computers | Percent |
-|-----------------------|-----------|---------|
-| Vienna                | 3         | 1.27%   |
-| Vernon                | 3         | 1.27%   |
-| Paris                 | 3         | 1.27%   |
-| Moscow                | 3         | 1.27%   |
-| Mexico City           | 3         | 1.27%   |
-| Warsaw                | 2         | 0.84%   |
-| Tallinn               | 2         | 0.84%   |
-| Santiago              | 2         | 0.84%   |
-| Perth                 | 2         | 0.84%   |
-| New Delhi             | 2         | 0.84%   |
-| Nairobi               | 2         | 0.84%   |
-| Mumbai                | 2         | 0.84%   |
-| Montreal              | 2         | 0.84%   |
-| Milan                 | 2         | 0.84%   |
-| Medan                 | 2         | 0.84%   |
-| Istanbul              | 2         | 0.84%   |
-| Guatemala City        | 2         | 0.84%   |
-| Calgary               | 2         | 0.84%   |
-| Buenos Aires          | 2         | 0.84%   |
-| Brussels              | 2         | 0.84%   |
-| Zonguldak             | 1         | 0.42%   |
-| Znojmo                | 1         | 0.42%   |
-| Xicheng District      | 1         | 0.42%   |
-| Wythenshawe           | 1         | 0.42%   |
-| Wriezen               | 1         | 0.42%   |
-| Woodbridge            | 1         | 0.42%   |
-| Wigan                 | 1         | 0.42%   |
-| Wattala               | 1         | 0.42%   |
-| Wakefield             | 1         | 0.42%   |
-| VitÃ³ria            | 1         | 0.42%   |
-| Vilnius               | 1         | 0.42%   |
-| Villeurbanne          | 1         | 0.42%   |
-| Villahermosa          | 1         | 0.42%   |
-| Victoria              | 1         | 0.42%   |
-| Veyre-Monton          | 1         | 0.42%   |
-| Vantaa                | 1         | 0.42%   |
-| Vancouver             | 1         | 0.42%   |
-| Valladolid            | 1         | 0.42%   |
-| Ullastrell            | 1         | 0.42%   |
-| Turku                 | 1         | 0.42%   |
-| Tucson                | 1         | 0.42%   |
-| Tolyatti              | 1         | 0.42%   |
-| Toluca                | 1         | 0.42%   |
-| Toledo                | 1         | 0.42%   |
-| Tirupur               | 1         | 0.42%   |
-| Thousand Oaks         | 1         | 0.42%   |
-| Temecula              | 1         | 0.42%   |
-| Taganrog              | 1         | 0.42%   |
-| Surabaya              | 1         | 0.42%   |
-| Sukabumi              | 1         | 0.42%   |
-| Stockholm             | 1         | 0.42%   |
-| Stevenage             | 1         | 0.42%   |
-| Staropyshminsk        | 1         | 0.42%   |
-| Sparti                | 1         | 0.42%   |
-| Sinop                 | 1         | 0.42%   |
-| Simferopol            | 1         | 0.42%   |
-| Seattle               | 1         | 0.42%   |
-| Schwarzenbach am Wald | 1         | 0.42%   |
-| SÃ£o Pedro          | 1         | 0.42%   |
-| Saskatoon             | 1         | 0.42%   |
+| City               | Computers | Percent |
+|--------------------|-----------|---------|
+| Vienna             | 3         | 1.27%   |
+| Vernon             | 3         | 1.27%   |
+| Paris              | 3         | 1.27%   |
+| Moscow             | 3         | 1.27%   |
+| Mexico City        | 3         | 1.27%   |
+| Warsaw             | 2         | 0.84%   |
+| Valladolid         | 2         | 0.84%   |
+| Tallinn            | 2         | 0.84%   |
+| Sassnitz           | 2         | 0.84%   |
+| Sao Paulo          | 2         | 0.84%   |
+| Santiago           | 2         | 0.84%   |
+| San Jose           | 2         | 0.84%   |
+| Perth              | 2         | 0.84%   |
+| Nairobi            | 2         | 0.84%   |
+| Mumbai             | 2         | 0.84%   |
+| Montreal           | 2         | 0.84%   |
+| Milan              | 2         | 0.84%   |
+| Kolkata            | 2         | 0.84%   |
+| Istanbul           | 2         | 0.84%   |
+| Ho Chi Minh City   | 2         | 0.84%   |
+| Guatemala City     | 2         | 0.84%   |
+| Copenhagen         | 2         | 0.84%   |
+| Coimbatore         | 2         | 0.84%   |
+| Calgary            | 2         | 0.84%   |
+| Buenos Aires       | 2         | 0.84%   |
+| Berlin             | 2         | 0.84%   |
+| Zurich             | 1         | 0.42%   |
+| Zonguldak          | 1         | 0.42%   |
+| Xicheng District   | 1         | 0.42%   |
+| Woodbridge         | 1         | 0.42%   |
+| Wigan              | 1         | 0.42%   |
+| Walsrode           | 1         | 0.42%   |
+| Wakefield          | 1         | 0.42%   |
+| Vitória           | 1         | 0.42%   |
+| Vilnius            | 1         | 0.42%   |
+| Villeurbanne       | 1         | 0.42%   |
+| Villahermosa       | 1         | 0.42%   |
+| Victoria           | 1         | 0.42%   |
+| Vertaizon          | 1         | 0.42%   |
+| Vancouver          | 1         | 0.42%   |
+| Vălenii Șomcutei | 1         | 0.42%   |
+| Turku              | 1         | 0.42%   |
+| Turin              | 1         | 0.42%   |
+| Tucson             | 1         | 0.42%   |
+| Tolyatti           | 1         | 0.42%   |
+| Toledo             | 1         | 0.42%   |
+| The Hague          | 1         | 0.42%   |
+| Temecula           | 1         | 0.42%   |
+| Taganrog           | 1         | 0.42%   |
+| Surabaya           | 1         | 0.42%   |
+| Sukabumi           | 1         | 0.42%   |
+| Stockport          | 1         | 0.42%   |
+| Stockholm          | 1         | 0.42%   |
+| Stevenage          | 1         | 0.42%   |
+| Sparti             | 1         | 0.42%   |
+| Skanderborg        | 1         | 0.42%   |
+| Sinop              | 1         | 0.42%   |
+| Simferopol         | 1         | 0.42%   |
+| Setagaya-ku        | 1         | 0.42%   |
+| Sedlec             | 1         | 0.42%   |
 
 Drives
 ------
@@ -1419,8 +1416,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 133       | 173    | 62.44%  |
-| 0.51-1.0   | 64        | 72     | 30.05%  |
+| 0.01-0.5   | 132       | 172    | 61.97%  |
+| 0.51-1.0   | 65        | 73     | 30.52%  |
 | 1.01-2.0   | 11        | 13     | 5.16%   |
 | 2.01-3.0   | 3         | 4      | 1.41%   |
 | 3.01-4.0   | 2         | 2      | 0.94%   |
@@ -2203,12 +2200,12 @@ Monitor models
 | AU Optronics LCD Monitor AUO413D 1920x1080 309x174mm 14.0-inch           | 2         | 0.78%   |
 | AU Optronics LCD Monitor AUO235C 1366x768 256x144mm 11.6-inch            | 2         | 0.78%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 2         | 0.78%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch            | 2         | 0.78%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch            | 2         | 0.78%   |
 | Apple Color LCD APPA014 2560x1600 286x179mm 13.3-inch                    | 2         | 0.78%   |
 | Apple Color LCD APP9CDF 1440x900 286x179mm 13.3-inch                     | 2         | 0.78%   |
 | Apple Color LCD APP9CC7 1280x800 286x179mm 13.3-inch                     | 2         | 0.78%   |
 | Apple Color LCD APP9CA4 1440x900 331x207mm 15.4-inch                     | 2         | 0.78%   |
-| AOC 2369 AOC2369 1920x1080 509x286mm 23.0-inch                           | 2         | 0.78%   |
+| AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                          | 2         | 0.78%   |
 | AOC 22B2WG5 AOC2202 1920x1080 477x268mm 21.5-inch                        | 2         | 0.78%   |
 | Vizio M260VA VIZ0067 1360x768 575x323mm 26.0-inch                        | 1         | 0.39%   |
 | Vizio L37 HD VIZ1300 1366x768 820x460mm 37.0-inch                        | 1         | 0.39%   |
@@ -2216,7 +2213,7 @@ Monitor models
 | ViewSonic VA2446 SERIES VSC732E 1920x1080 521x293mm 23.5-inch            | 1         | 0.39%   |
 | ViewSonic VA2445 SERIES VSC712E 1920x1080 521x293mm 23.5-inch            | 1         | 0.39%   |
 | ViewSonic VA2055 Series VSC3C31 1920x1080 435x239mm 19.5-inch            | 1         | 0.39%   |
-| Toshiba TV TSB0206 1920x1080 700x390mm 31.5-inch                         | 1         | 0.39%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                         | 1         | 0.39%   |
 | TBD HDMI TBD3148 1600x900 344x193mm 15.5-inch                            | 1         | 0.39%   |
 | SKY TV Monitor SKY0001 1920x1080 885x498mm 40.0-inch                     | 1         | 0.39%   |
 | Sharp LCD Monitor SHP1517 3840x2400 366x229mm 17.0-inch                  | 1         | 0.39%   |
@@ -2226,28 +2223,28 @@ Monitor models
 | Sharp LCD Monitor SHP1420 1920x1080 294x165mm 13.3-inch                  | 1         | 0.39%   |
 | Seiko/Epson LCD Monitor 1920x1080                                        | 1         | 0.39%   |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 0.39%   |
-| Samsung Electronics U28H75x SAM0E00 3840x2160 610x350mm 27.7-inch        | 1         | 0.39%   |
+| Samsung Electronics U28H75x SAM0E00 3840x2160 607x345mm 27.5-inch        | 1         | 0.39%   |
 | Samsung Electronics U28H75x SAM0DFF 3840x2160 608x345mm 27.5-inch        | 1         | 0.39%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch     | 1         | 0.39%   |
 | Samsung Electronics S27H85x SAM0E0E 2560x1440 597x336mm 27.0-inch        | 1         | 0.39%   |
 | Samsung Electronics S27D850 SAM0BC8 2560x1440 598x336mm 27.0-inch        | 1         | 0.39%   |
-| Samsung Electronics S24D332 SAM0F5E 1920x1080 530x300mm 24.0-inch        | 1         | 0.39%   |
+| Samsung Electronics S24D332 SAM0F5E 1920x1080 531x299mm 24.0-inch        | 1         | 0.39%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch        | 1         | 0.39%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch        | 1         | 0.39%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch        | 1         | 0.39%   |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch        | 1         | 0.39%   |
 | Samsung Electronics S22C200 SAM09B6 1920x1080 477x268mm 21.5-inch        | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SEC5842 1366x768 309x174mm 14.0-inch     | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SEC364D 1600x900 382x214mm 17.2-inch     | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch    | 1         | 0.39%   |
-| Samsung Electronics LCD Monitor SEC3541 1366x768 344x194mm 15.5-inch     | 1         | 0.39%   |
+| Samsung Electronics LCD Monitor SEC3541 1366x768 309x174mm 14.0-inch     | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SEC3041 1366x768 353x198mm 15.9-inch     | 1         | 0.39%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch     | 1         | 0.39%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch     | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SDC4E42 1366x768 309x174mm 14.0-inch     | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor SAM705B 1920x1080 1210x680mm 54.6-inch   | 1         | 0.39%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch    | 1         | 0.39%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch    | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor S24F350 5760x1080                        | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor S24F350                                  | 1         | 0.39%   |
 | Samsung Electronics LCD Monitor C24F390 1920x1080                        | 1         | 0.39%   |
@@ -2505,6 +2502,7 @@ Controller models
 | Intel I211 Gigabit Network Connection                             | 5         | 1.18%   |
 | Intel 82577LM Gigabit Network Connection                          | 5         | 1.18%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                | 5         | 1.18%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 4         | 0.95%   |
 | Ralink MT7601U Wireless Adapter                                   | 4         | 0.95%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 4         | 0.95%   |
 | Intel Wireless 8265 / 8275                                        | 4         | 0.95%   |
@@ -2524,8 +2522,6 @@ Controller models
 | Intel Centrino Wireless-N 2230                                    | 3         | 0.71%   |
 | Intel 82574L Gigabit Network Connection                           | 3         | 0.71%   |
 | Broadcom Limited BCM4360 802.11ac Wireless Network Adapter        | 3         | 0.71%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2         | 0.47%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 2         | 0.47%   |
 | TP-Link 802.11ac NIC                                              | 2         | 0.47%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 2         | 0.47%   |
 | Realtek RTL8723DE Wireless Network Adapter                        | 2         | 0.47%   |
@@ -2533,7 +2529,7 @@ Controller models
 | Realtek RTL8125 2.5GbE Controller                                 | 2         | 0.47%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                         | 2         | 0.47%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 2         | 0.47%   |
-| MediaTek NOA N2                                                   | 2         | 0.47%   |
+| MediaTek Vodafone Smart N10                                       | 2         | 0.47%   |
 | Marvell Group 88W8897 [AVASTAR] 802.11ac Wireless                 | 2         | 0.47%   |
 | Intel Wireless 3165                                               | 2         | 0.47%   |
 | Intel Ethernet Connection I219-V                                  | 2         | 0.47%   |
@@ -2546,6 +2542,7 @@ Controller models
 | Intel Comet Lake PCH-LP CNVi WiFi                                 | 2         | 0.47%   |
 | Intel Centrino Advanced-N 6235                                    | 2         | 0.47%   |
 | Intel Centrino Advanced-N 6200                                    | 2         | 0.47%   |
+| Intel Cannon Lake PCH CNVi WiFi                                   | 2         | 0.47%   |
 
 Wireless Vendor
 ---------------
@@ -2597,6 +2594,7 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter               | 5         | 2.35%   |
 | Intel Wireless 7265                                            | 5         | 2.35%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter             | 5         | 2.35%   |
+| TP-Link 802.11ac WLAN Adapter                                  | 4         | 1.88%   |
 | Ralink MT7601U Wireless Adapter                                | 4         | 1.88%   |
 | Intel Wireless 8265 / 8275                                     | 4         | 1.88%   |
 | Intel Wireless 7260                                            | 4         | 1.88%   |
@@ -2611,8 +2609,6 @@ Wireless models
 | Intel Comet Lake PCH CNVi WiFi                                 | 3         | 1.41%   |
 | Intel Centrino Wireless-N 2230                                 | 3         | 1.41%   |
 | Broadcom Limited BCM4360 802.11ac Wireless Network Adapter     | 3         | 1.41%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 2         | 0.94%   |
-| TP-Link 802.11ac WLAN Adapter                                  | 2         | 0.94%   |
 | TP-Link 802.11ac NIC                                           | 2         | 0.94%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter       | 2         | 0.94%   |
 | Realtek RTL8723DE Wireless Network Adapter                     | 2         | 0.94%   |
@@ -2631,7 +2627,7 @@ Wireless models
 | Broadcom BCM43228 802.11a/b/g/n                                | 2         | 0.94%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                          | 1         | 0.47%   |
 | Sierra Wireless MC8305 Modem                                   | 1         | 0.47%   |
-| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A            | 1         | 0.47%   |
+| Sierra Wireless EM7455                                         | 1         | 0.47%   |
 | Sierra Wireless EM7305 Modem                                   | 1         | 0.47%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 0.47%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                | 1         | 0.47%   |
@@ -2644,6 +2640,7 @@ Wireless models
 | Realtek 802.11ac NIC                                           | 1         | 0.47%   |
 | Ralink RT5370 Wireless Adapter                                 | 1         | 0.47%   |
 | Ralink RT2870/RT3070 Wireless Adapter                          | 1         | 0.47%   |
+| Ralink RT5592 PCIe Wireless Network Adapter                    | 1         | 0.47%   |
 
 Ethernet Vendor
 ---------------
@@ -2696,7 +2693,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 3         | 1.47%   |
 | Intel 82574L Gigabit Network Connection                           | 3         | 1.47%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 2         | 0.98%   |
-| MediaTek NOA N2                                                   | 2         | 0.98%   |
+| MediaTek Vodafone Smart N10                                       | 2         | 0.98%   |
 | Intel Ethernet Connection I219-V                                  | 2         | 0.98%   |
 | Intel Ethernet Connection I219-LM                                 | 2         | 0.98%   |
 | Intel Ethernet Connection (4) I219-LM                             | 2         | 0.98%   |
@@ -2711,7 +2708,7 @@ Ethernet models
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 0.49%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 0.49%   |
 | Realtek Killer E3000 2.5GbE Controller                            | 1         | 0.49%   |
-| Qualcomm Mobile Router                                            | 1         | 0.49%   |
+| Qualcomm Redmi Note 9S                                            | 1         | 0.49%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 0.49%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 0.49%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 0.49%   |
@@ -2719,7 +2716,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 0.49%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1         | 0.49%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.49%   |
-| OPPO SDM665-IDP _SN:18689828                                      | 1         | 0.49%   |
+| OPPO realme X50 5G                                                | 1         | 0.49%   |
 | Nvidia MCP77 Ethernet                                             | 1         | 0.49%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 0.49%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1         | 0.49%   |
@@ -2770,8 +2767,8 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| WiFi     | 177       | 50.86%  |
-| Ethernet | 171       | 49.14%  |
+| WiFi     | 158       | 67.81%  |
+| Ethernet | 75        | 32.19%  |
 
 NICs
 ----
@@ -2844,22 +2841,22 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 25        | 14.71%  |
-| Realtek Bluetooth Radio                             | 13        | 7.65%   |
-| Intel Bluetooth Device                              | 12        | 7.06%   |
+| Intel AX201 Bluetooth                               | 12        | 7.06%   |
 | Intel AX200 Bluetooth                               | 12        | 7.06%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 12        | 7.06%   |
+| Realtek Bluetooth Radio                             | 10        | 5.88%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 9         | 5.29%   |
-| Apple Bluetooth USB Host Controller                 | 9         | 5.29%   |
+| Apple Bluetooth USB Host Controller                 | 8         | 4.71%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 7         | 4.12%   |
+| Apple Bluetooth Host Controller                     | 7         | 4.12%   |
+| Qualcomm Atheros  Bluetooth Device                  | 6         | 3.53%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 6         | 3.53%   |
-| Apple Bluetooth Host Controller                     | 6         | 3.53%   |
-| Qualcomm Atheros  Bluetooth Device                  | 5         | 2.94%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 5         | 2.94%   |
+| Realtek 802.11ac WLAN Adapter                       | 3         | 1.76%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 3         | 1.76%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 3         | 1.76%   |
 | Ralink RT3290 Bluetooth                             | 2         | 1.18%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 1.18%   |
-| Lite-On Bluetooth Device                            | 2         | 1.18%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 1.18%   |
 | IMC Networks Bluetooth Radio                        | 2         | 1.18%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 2         | 1.18%   |
@@ -2869,12 +2866,13 @@ Controller models
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 0.59%   |
 | Realtek Bluetooth Radio                             | 1         | 0.59%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 0.59%   |
-| Qualcomm Atheros AR9462 Bluetooth                   | 1         | 0.59%   |
 | Qcom Broadcom Bluetooth USB                         | 1         | 0.59%   |
 | Marvell Bluetooth and Wireless LAN Composite Device | 1         | 0.59%   |
 | Marvell Bluetooth and Wireless LAN Composite        | 1         | 0.59%   |
 | Lite-On Wireless_Device                             | 1         | 0.59%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 0.59%   |
 | Lite-On Qualcomm Atheros Bluetooth                  | 1         | 0.59%   |
+| Lite-On Bluetooth Device                            | 1         | 0.59%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 0.59%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 0.59%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 0.59%   |
@@ -2976,7 +2974,7 @@ Sound card models
 | Intel C600/X79 series chipset High Definition Audio Controller                                    | 3         | 0.8%    |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 3         | 0.8%    |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 3         | 0.8%    |
-| Generalplus Technology USB Audio Device                                                           | 3         | 0.8%    |
+| Generalplus Technology Usb Audio Device                                                           | 3         | 0.8%    |
 | AMD Wrestler HDMI Audio                                                                           | 3         | 0.8%    |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 3         | 0.8%    |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                                                  | 3         | 0.8%    |
@@ -2992,7 +2990,7 @@ Sound card models
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                                        | 2         | 0.54%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                        | 2         | 0.54%   |
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                                            | 2         | 0.54%   |
-| Thesycon Systemsoftware & Consulting D10s                                                         | 1         | 0.27%   |
+| Thesycon Systemsoftware & Consulting E30                                                          | 1         | 0.27%   |
 | TEAC TASCAM iXR                                                                                   | 1         | 0.27%   |
 | Razer USA Kraken Tournament Edition                                                               | 1         | 0.27%   |
 
@@ -3037,21 +3035,21 @@ Memory module models
 
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s    | 3         | 3.75%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 3         | 3.75%   |
 | SK Hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s      | 2         | 2.5%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 2         | 2.5%    |
 | Unknown RAM Module 4096MB Chip DDR4 2133MT/s                | 1         | 1.25%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                 | 1         | 1.25%   |
 | Unknown RAM Module 1024MB SODIMM LPDDR4 2400MT/s            | 1         | 1.25%   |
-| Toshiba RAM 8HTF12864HDY-800G1 4GB SODIMM 1066MT/s          | 1         | 1.25%   |
-| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 1066MT/s        | 1         | 1.25%   |
+| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s          | 1         | 1.25%   |
+| Toshiba RAM 64T128020EDL2.5C2 4GB SODIMM 1066MT/s           | 1         | 1.25%   |
 | SK Hynix RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 1.25%   |
 | SK Hynix RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 1.25%   |
 | SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 1.25%   |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s   | 1         | 1.25%   |
+| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 1.25%   |
 | SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s      | 1         | 1.25%   |
 | SK Hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s        | 1         | 1.25%   |
-| SK Hynix RAM HMAA2GS6CJR8N-XN 16GB SODIMM DDR4 3200MT/s     | 1         | 1.25%   |
+| SK Hynix RAM HMAA2GS6CJR8N-XN 16384MB SODIMM DDR4 3200MT/s  | 1         | 1.25%   |
 | SK Hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s      | 1         | 1.25%   |
 | SK Hynix RAM HMA82GS6MFR8N-TF 16GB SODIMM DDR4 2133MT/s     | 1         | 1.25%   |
 | SK Hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s      | 1         | 1.25%   |
@@ -3061,16 +3059,16 @@ Memory module models
 | Samsung RAM Module 8192MB DIMM DDR4 2666MT/s                | 1         | 1.25%   |
 | Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s       | 1         | 1.25%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s       | 1         | 1.25%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s       | 1         | 1.25%   |
+| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s    | 1         | 1.25%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s       | 1         | 1.25%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 1         | 1.25%   |
-| Samsung RAM M471B2873FHS-CF8 1GB SODIMM DDR3 1067MT/s       | 1         | 1.25%   |
+| Samsung RAM M471B2873FHS-CF8 1024MB SODIMM DDR3 1067MT/s    | 1         | 1.25%   |
 | Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.25%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s      | 1         | 1.25%   |
 | Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s      | 1         | 1.25%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s | 1         | 1.25%   |
 | Samsung RAM M471A1G43DB0-CPB 8GB SODIMM DDR4 2400MT/s       | 1         | 1.25%   |
-| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR 975MT/s        | 1         | 1.25%   |
+| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s       | 1         | 1.25%   |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s         | 1         | 1.25%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s     | 1         | 1.25%   |
 | Ramaxel RAM RMSA3310NA86H9F-2666 4GB SODIMM DDR4 2667MT/s   | 1         | 1.25%   |
@@ -3086,12 +3084,12 @@ Memory module models
 | Micron RAM 4ATF51264HZ-2G6E3 4GB SODIMM DDR4 2667MT/s       | 1         | 1.25%   |
 | Micron RAM 4ATF1G64HZ-3G2E2 8GB SODIMM DDR4 3200MT/s        | 1         | 1.25%   |
 | Micron RAM 16JSF25664HZ-1G4F1 2GB SODIMM 1334MT/s           | 1         | 1.25%   |
-| Micron RAM 16ATF2G64HZ-3G2J1 16384MB SODIMM DDR4 3200MT/s   | 1         | 1.25%   |
+| Micron RAM 16ATF2G64HZ-3G2J1 16GB SODIMM DDR4 3200MT/s      | 1         | 1.25%   |
 | Kllisre RAM KRE-D3S1600M/8G 8192MB SODIMM DDR3 1600MT/s     | 1         | 1.25%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s         | 1         | 1.25%   |
-| Kingston RAM KHX2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s    | 1         | 1.25%   |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s         | 1         | 1.25%   |
-| Kingston RAM HP687515-H66-MCN 4GB SODIMM DDR3 1600MT/s      | 1         | 1.25%   |
+| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s       | 1         | 1.25%   |
+| Kingston RAM KHX1866C10D3/4G 4096MB DIMM DDR3 1867MT/s      | 1         | 1.25%   |
+| Kingston RAM HP687515-H66-MCN 4096MB SODIMM DDR3 1600MT/s   | 1         | 1.25%   |
 | Kingston RAM HP16D3LS1KBG/8G 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.25%   |
 | Kingston RAM ACR16D3LS1KFG/8G 8GB SODIMM DDR3 1600MT/s      | 1         | 1.25%   |
 | Kingston RAM 99U5471-052.A 8GB DIMM DDR3 1333MT/s           | 1         | 1.25%   |
@@ -3249,12 +3247,12 @@ Camera device vendors
 | Lite-On Technology                     | 3         | 1.92%   |
 | IMC Networks                           | 3         | 1.92%   |
 | Z-Star Microelectronics                | 1         | 0.64%   |
-| webcam                                 | 1         | 0.64%   |
 | USB Camera                             | 1         | 0.64%   |
 | Primax Electronics                     | 1         | 0.64%   |
 | Importek                               | 1         | 0.64%   |
 | Generalplus Technology                 | 1         | 0.64%   |
 | Creative Technology                    | 1         | 0.64%   |
+| 2M UVC CAMERA                          | 1         | 0.64%   |
 
 Camera Model
 ------------
@@ -3282,12 +3280,10 @@ Camera device models
 | Syntek Integrated Camera                       | 2         | 1.27%   |
 | Suyin Acer/HP Integrated Webcam [CN0314]       | 2         | 1.27%   |
 | Sunplus Laptop_Integrated_Webcam_HD            | 2         | 1.27%   |
-| Sunplus Integrated_Webcam_HD                   | 2         | 1.27%   |
-| Realtek USB Camera                             | 2         | 1.27%   |
+| Realtek USB2.0-Camera                          | 2         | 1.27%   |
 | Microdia Webcam Vitade AF                      | 2         | 1.27%   |
 | Microdia Laptop_Integrated_Webcam_HD           | 2         | 1.27%   |
-| Microdia Laptop_Integrated_Webcam_FHD          | 2         | 1.27%   |
-| Microdia Integrated Webcam HD                  | 2         | 1.27%   |
+| Microdia Integrated_Webcam_HD                  | 2         | 1.27%   |
 | Logitech Webcam C270                           | 2         | 1.27%   |
 | Logitech HD Pro Webcam C920                    | 2         | 1.27%   |
 | Lite-On Integrated Camera                      | 2         | 1.27%   |
@@ -3298,7 +3294,6 @@ Camera device models
 | Chicony HP High Definition 1MP Webcam          | 2         | 1.27%   |
 | Apple Built-in iSight                          | 2         | 1.27%   |
 | Z-Star Sirius USB2.0 Camera                    | 1         | 0.63%   |
-| webcam webcam                                  | 1         | 0.63%   |
 | USB Camera USB Camera                          | 1         | 0.63%   |
 | Syntek USB2.0 Camera                           | 1         | 0.63%   |
 | Syntek EasyCamera                              | 1         | 0.63%   |
@@ -3306,6 +3301,8 @@ Camera device models
 | Suyin Asus Integrated Webcam                   | 1         | 0.63%   |
 | Sunplus Laptop_Integrated_Webcam_1.3M          | 1         | 0.63%   |
 | Sunplus Laptop Integrated WebCam HD            | 1         | 0.63%   |
+| Sunplus Integrated_Webcam_HD                   | 1         | 0.63%   |
+| Sunplus HK 1080P K20Pro                        | 1         | 0.63%   |
 | Sunplus Aukey-PC-LM1E Camera                   | 1         | 0.63%   |
 | Sunplus 1.3M HD WebCam                         | 1         | 0.63%   |
 | Realtek USB2.0 HD UVC WebCam                   | 1         | 0.63%   |
@@ -3323,8 +3320,9 @@ Camera device models
 | Microsoft LifeCam Rear                         | 1         | 0.63%   |
 | Microsoft LifeCam HD-3000                      | 1         | 0.63%   |
 | Microsoft LifeCam Front                        | 1         | 0.63%   |
-| Microdia WEBCAM PCYES RAZA FHD-03              | 1         | 0.63%   |
+| Microdia USB Camera                            | 1         | 0.63%   |
 | Microdia Sonix 1.3 MP Laptop Integrated Webcam | 1         | 0.63%   |
+| Microdia Laptop_Integrated_Webcam_FHD          | 1         | 0.63%   |
 | Microdia Laptop_Integrated_Webcam_2M           | 1         | 0.63%   |
 
 Security

@@ -157,18 +157,18 @@ Test Cases
 
 Total: 10
 
-| Vendor   | Model          | Probe                                                      | Date         |
-|----------|----------------|------------------------------------------------------------|--------------|
-| Gigabyte | F2A85XM-D3H    | [cf20f6e233](https://linux-hardware.org/?probe=cf20f6e233) | Mar 09, 2022 |
-| Gigabyte | 945GCMX-S2     | [54149177a7](https://linux-hardware.org/?probe=54149177a7) | Feb 12, 2022 |
-| Unknown  | NF-CK804       | [dc6287d017](https://linux-hardware.org/?probe=dc6287d017) | Jan 05, 2022 |
-| ASUSTek  | A8R-MVP        | [43a7b44e3f](https://linux-hardware.org/?probe=43a7b44e3f) | Mar 27, 2021 |
-| ASUSTek  | M2N-MX SE Plus | [a8985150bd](https://linux-hardware.org/?probe=a8985150bd) | Feb 08, 2021 |
-| ASRock   | H81M-ITX       | [7b2d6774c8](https://linux-hardware.org/?probe=7b2d6774c8) | Feb 05, 2021 |
-| HP       | 3641h          | [f918637d53](https://linux-hardware.org/?probe=f918637d53) | Jul 29, 2020 |
-| Unknown  | Unknown        | [7653370d96](https://linux-hardware.org/?probe=7653370d96) | Dec 16, 2019 |
-| ASUSTek  | P5KPL/1600     | [8ba4b22f71](https://linux-hardware.org/?probe=8ba4b22f71) | Oct 22, 2019 |
-| Lenovo   | Board          | [e68917ee9f](https://linux-hardware.org/?probe=e68917ee9f) | Nov 04, 2018 |
+| Vendor   | Model                    | Probe                                                      | Date         |
+|----------|--------------------------|------------------------------------------------------------|--------------|
+| Gigabyte | F2A85XM-D3H              | [cf20f6e233](https://linux-hardware.org/?probe=cf20f6e233) | Mar 09, 2022 |
+| Gigabyte | 945GCMX-S2               | [54149177a7](https://linux-hardware.org/?probe=54149177a7) | Feb 12, 2022 |
+| Unknown  | NF-CK804                 | [dc6287d017](https://linux-hardware.org/?probe=dc6287d017) | Jan 05, 2022 |
+| ASUSTek  | A8R-MVP                  | [43a7b44e3f](https://linux-hardware.org/?probe=43a7b44e3f) | Mar 27, 2021 |
+| ASUSTek  | M2N-MX SE Plus           | [a8985150bd](https://linux-hardware.org/?probe=a8985150bd) | Feb 08, 2021 |
+| ASRock   | H81M-ITX                 | [7b2d6774c8](https://linux-hardware.org/?probe=7b2d6774c8) | Feb 05, 2021 |
+| HP       | 3641h                    | [f918637d53](https://linux-hardware.org/?probe=f918637d53) | Jul 29, 2020 |
+| Unknown  | Unknown                  | [7653370d96](https://linux-hardware.org/?probe=7653370d96) | Dec 16, 2019 |
+| ASUSTek  | P5KPL/1600               | [8ba4b22f71](https://linux-hardware.org/?probe=8ba4b22f71) | Oct 22, 2019 |
+| Lenovo   | ThinkCentre M91p 4480B9U | [e68917ee9f](https://linux-hardware.org/?probe=e68917ee9f) | Nov 04, 2018 |
 
 System
 ------
@@ -449,8 +449,9 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2012    | 2        | 25%     |
 | 2008    | 2        | 25%     |
+| 2012    | 1        | 12.5%   |
+| 2011    | 1        | 12.5%   |
 | 2009    | 1        | 12.5%   |
 | 2007    | 1        | 12.5%   |
 | 2005    | 1        | 12.5%   |
@@ -621,9 +622,9 @@ Geographic location (city)
 | City              | Desktops | Percent |
 |-------------------|----------|---------|
 | Zagnansk          | 1        | 12.5%   |
-| Vogue             | 1        | 12.5%   |
-| Springfield       | 1        | 12.5%   |
-| Kazanâ€™     | 1        | 12.5%   |
+| Violes            | 1        | 12.5%   |
+| Mason             | 1        | 12.5%   |
+| Kazan’          | 1        | 12.5%   |
 | Heraklion         | 1        | 12.5%   |
 | Frankfurt am Main | 1        | 12.5%   |
 | Bratislava        | 1        | 12.5%   |
@@ -1155,7 +1156,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Vizio D39h-D0 VIZ1002 1366x768 853x479mm 38.5-inch                   | 1        | 20%     |
+| Vizio E28h-C1 VIZ1002 1360x768 610x350mm 27.7-inch                   | 1        | 20%     |
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch | 1        | 20%     |
 | Acer VG220Q ACR06D8 1920x1080 476x268mm 21.5-inch                    | 1        | 20%     |
 | Acer V243H ACR00A3 1920x1080 531x298mm 24.0-inch                     | 1        | 20%     |
@@ -1495,16 +1496,16 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM DDR 400MT/s                | 1        | 12.5%   |
-| Unknown RAM Module 512MB DIMM                            | 1        | 12.5%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                      | 1        | 12.5%   |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s              | 1        | 12.5%   |
-| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s           | 1        | 12.5%   |
-| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s       | 1        | 12.5%   |
-| Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 12.5%   |
-| Kingston RAM 99U5402-060.A 2GB DIMM DDR3 1333MT/s        | 1        | 12.5%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Unknown RAM Module 512MB DIMM DDR 400MT/s             | 1        | 12.5%   |
+| Unknown RAM Module 512MB DIMM                         | 1        | 12.5%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                   | 1        | 12.5%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s           | 1        | 12.5%   |
+| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s        | 1        | 12.5%   |
+| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s    | 1        | 12.5%   |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 12.5%   |
+| Kingston RAM 99U5402-060.A 2GB DIMM DDR3 1333MT/s     | 1        | 12.5%   |
 
 Memory Kind
 -----------

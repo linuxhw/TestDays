@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 26
+Total: 24
 
 | Vendor    | Model                   | Probe                                                      | Date         |
 |-----------|-------------------------|------------------------------------------------------------|--------------|
@@ -171,8 +171,6 @@ Total: 26
 | Dell      | 0T2HR0 A00              | [dc55f173fe](https://linux-hardware.org/?probe=dc55f173fe) | Oct 05, 2021 |
 | ASUSTek   | P8H67-M PRO             | [7dcd6067ac](https://linux-hardware.org/?probe=7dcd6067ac) | Oct 04, 2021 |
 | Gigabyte  | A320M-S2H-CF            | [b733e7fac1](https://linux-hardware.org/?probe=b733e7fac1) | Sep 23, 2021 |
-| Gigabyte  | A320M-S2H-CF            | [6647d75cdb](https://linux-hardware.org/?probe=6647d75cdb) | Aug 20, 2021 |
-| Gigabyte  | A320M-S2H-CF            | [5363cc3efd](https://linux-hardware.org/?probe=5363cc3efd) | Aug 12, 2021 |
 | Gigabyte  | A320M-S2H-CF            | [3ba02ffef3](https://linux-hardware.org/?probe=3ba02ffef3) | Aug 10, 2021 |
 | ZOTAC     | Unknown                 | [0324aff0a3](https://linux-hardware.org/?probe=0324aff0a3) | Aug 03, 2021 |
 | ZOTAC     | Unknown                 | [c1a9e01bd7](https://linux-hardware.org/?probe=c1a9e01bd7) | Aug 03, 2021 |
@@ -365,8 +363,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 17       | 80.95%  |
-| Yes       | 4        | 19.05%  |
+| No        | 16       | 76.19%  |
+| Yes       | 5        | 23.81%  |
 
 Dual Boot (Win)
 ---------------
@@ -571,11 +569,11 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 2      | 8        | 40%     |
-| 3      | 6        | 30%     |
-| 1      | 3        | 15%     |
-| 4      | 2        | 10%     |
-| 5      | 1        | 5%      |
+| 2      | 8        | 38.1%   |
+| 3      | 6        | 28.57%  |
+| 1      | 4        | 19.05%  |
+| 4      | 2        | 9.52%   |
+| 5      | 1        | 4.76%   |
 
 Has CD-ROM
 ----------
@@ -587,8 +585,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 14       | 70%     |
-| Yes       | 6        | 30%     |
+| No        | 14       | 66.67%  |
+| Yes       | 7        | 33.33%  |
 
 Has Ethernet
 ------------
@@ -666,22 +664,22 @@ Geographic location (city)
 | Eugene              | 2        | 9.52%   |
 | Warsaw              | 1        | 4.76%   |
 | Uherské Hradiště | 1        | 4.76%   |
-| Ternopil            | 1        | 4.76%   |
+| Sydney              | 1        | 4.76%   |
 | Sao Paulo           | 1        | 4.76%   |
 | Santa Maria         | 1        | 4.76%   |
 | Saint Paul          | 1        | 4.76%   |
 | Portsmouth          | 1        | 4.76%   |
 | Orange Park         | 1        | 4.76%   |
-| Offenbach           | 1        | 4.76%   |
 | Nam Định         | 1        | 4.76%   |
 | Melbourne           | 1        | 4.76%   |
 | Lyon                | 1        | 4.76%   |
 | Los Angeles         | 1        | 4.76%   |
 | Lafayette           | 1        | 4.76%   |
+| Kyiv                | 1        | 4.76%   |
 | Khabarovsk          | 1        | 4.76%   |
-| Dudenhofen          | 1        | 4.76%   |
-| Brunswick           | 1        | 4.76%   |
+| Hanau               | 1        | 4.76%   |
 | Braunschweig        | 1        | 4.76%   |
+| Berlin              | 1        | 4.76%   |
 | Barcelona           | 1        | 4.76%   |
 
 Drives
@@ -699,7 +697,7 @@ Hard drive vendors
 |---------------------|----------|--------|---------|
 | Seagate             | 10       | 16     | 22.73%  |
 | Samsung Electronics | 7        | 9      | 15.91%  |
-| WDC                 | 5        | 6      | 11.36%  |
+| WDC                 | 5        | 5      | 11.36%  |
 | Hitachi             | 3        | 4      | 6.82%   |
 | Crucial             | 3        | 3      | 6.82%   |
 | Unknown             | 2        | 2      | 4.55%   |
@@ -725,8 +723,8 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Unknown SD/MMC/MS PRO 16GB            | 2        | 3.92%   |
-| Seagate Expansion+ 2TB                | 2        | 3.92%   |
+| Unknown SD/MMC/MS PRO 999GB           | 2        | 3.92%   |
+| Seagate Expansion 4TB                 | 2        | 3.92%   |
 | WDC WDBNCE0010PNC 1TB SSD             | 1        | 1.96%   |
 | WDC WD5000AACS-00ZUB0 500GB           | 1        | 1.96%   |
 | WDC WD3200LPVX-60V0TT0 320GB          | 1        | 1.96%   |
@@ -763,7 +761,7 @@ Hard drive models
 | Phison NVMe SSD Drive 1TB             | 1        | 1.96%   |
 | LITEONIT LCS-128M6S 2.5 7mm 128GB SSD | 1        | 1.96%   |
 | Kingston SV300S37A 120G SSD           | 1        | 1.96%   |
-| Intenso SSD SATAIII 512GB             | 1        | 1.96%   |
+| Intenso SSD SATAIII 120GB             | 1        | 1.96%   |
 | Hitachi HUA722020ALA331 2TB           | 1        | 1.96%   |
 | Hitachi HTS547564A9E384 640GB         | 1        | 1.96%   |
 | Hitachi HTS545050B9A300 500GB         | 1        | 1.96%   |
@@ -786,7 +784,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Seagate             | 10       | 16     | 41.67%  |
-| WDC                 | 4        | 5      | 16.67%  |
+| WDC                 | 4        | 4      | 16.67%  |
 | Hitachi             | 3        | 4      | 12.5%   |
 | Unknown             | 2        | 2      | 8.33%   |
 | Toshiba             | 2        | 2      | 8.33%   |
@@ -824,7 +822,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 17       | 33     | 50%     |
+| HDD  | 17       | 32     | 50%     |
 | SSD  | 12       | 17     | 35.29%  |
 | NVMe | 5        | 5      | 14.71%  |
 
@@ -838,7 +836,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 18       | 46     | 69.23%  |
+| SATA | 18       | 45     | 69.23%  |
 | NVMe | 5        | 5      | 19.23%  |
 | SAS  | 3        | 4      | 11.54%  |
 
@@ -852,10 +850,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 32     | 53.13%  |
-| 0.51-1.0   | 11       | 13     | 34.38%  |
-| 1.01-2.0   | 3        | 4      | 9.38%   |
-| 3.01-4.0   | 1        | 1      | 3.13%   |
+| 0.01-0.5   | 17       | 31     | 50%     |
+| 0.51-1.0   | 12       | 13     | 35.29%  |
+| 3.01-4.0   | 3        | 3      | 8.82%   |
+| 1.01-2.0   | 2        | 2      | 5.88%   |
 
 Space Total
 -----------
@@ -965,7 +963,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 512GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 120GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -989,7 +987,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 12       | 27     | 37.5%   |
+| Detected | 12       | 26     | 37.5%   |
 | Works    | 11       | 18     | 34.38%  |
 | Malfunc  | 8        | 9      | 25%     |
 | Failed   | 1        | 1      | 3.13%   |
@@ -1059,10 +1057,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 14       | 53.85%  |
+| SATA | 15       | 57.69%  |
 | NVMe | 5        | 19.23%  |
 | IDE  | 4        | 15.38%  |
-| RAID | 3        | 11.54%  |
+| RAID | 2        | 7.69%   |
 
 Processor
 ---------
@@ -1366,7 +1364,7 @@ Monitor models
 
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
-| Vizio E420VO VIZ0070 1920x1080 930x523mm 42.0-inch          | 1        | 4.35%   |
+| Vizio E220VA VIZ0070 1920x1080 476x268mm 21.5-inch          | 1        | 4.35%   |
 | Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch            | 1        | 4.35%   |
 | Sony SDM-HX73 SNY2870 1280x1024 338x270mm 17.0-inch         | 1        | 4.35%   |
 | Sceptre LCD Monitor P30 2560x1080                           | 1        | 4.35%   |
@@ -1376,15 +1374,15 @@ Monitor models
 | Insignia NS-L32Q09-10A BBY3210 1360x768 697x392mm 31.5-inch | 1        | 4.35%   |
 | Hewlett-Packard w2207 HWP26A9 1680x1050 473x296mm 22.0-inch | 1        | 4.35%   |
 | Hewlett-Packard P224 HPN361C 1920x1080 480x270mm 21.7-inch  | 1        | 4.35%   |
-| Goldstar L1742 GSM449B 1280x1024 340x270mm 17.1-inch        | 1        | 4.35%   |
+| Goldstar L1742 GSM449B 1280x1024 338x270mm 17.0-inch        | 1        | 4.35%   |
 | Goldstar HDR WFHD GSM7749 2560x1080 798x334mm 34.1-inch     | 1        | 4.35%   |
 | Goldstar 24GM79G GSM5B39 1920x1080 531x298mm 24.0-inch      | 1        | 4.35%   |
 | Dell SE2417HGX DELD0F7 1920x1080 521x293mm 23.5-inch        | 1        | 4.35%   |
 | Dell S2419H DELD0D2 1920x1080 527x296mm 23.8-inch           | 1        | 4.35%   |
 | Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch           | 1        | 4.35%   |
 | Dell E2318H DELF092 1920x1080 509x286mm 23.0-inch           | 1        | 4.35%   |
-| Dell 1907FP DEL4015 1280x1024 376x301mm 19.0-inch           | 1        | 4.35%   |
-| BenQ GW2760 BNQ78C6 1920x1080 598x336mm 27.0-inch           | 1        | 4.35%   |
+| Dell 1907FP DEL4015 1280x1024 380x300mm 19.1-inch           | 1        | 4.35%   |
+| BenQ GW2760 BNQ78C6 1920x1080 600x340mm 27.2-inch           | 1        | 4.35%   |
 | AUS LCD Monitor VG259 1920x1080                             | 1        | 4.35%   |
 | AOC LCD Monitor 2217 1680x1050                              | 1        | 4.35%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch               | 1        | 4.35%   |
@@ -1534,7 +1532,7 @@ Controller vendors
 | Broadcom Limited                | 2        | 5.71%   |
 | Broadcom                        | 2        | 5.71%   |
 | Ralink Technology               | 1        | 2.86%   |
-| OnePlus                         | 1        | 2.86%   |
+| OnePlus Technology (Shenzhen)   | 1        | 2.86%   |
 | Microsoft                       | 1        | 2.86%   |
 | D-Link System                   | 1        | 2.86%   |
 | D-Link                          | 1        | 2.86%   |
@@ -1561,7 +1559,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 1        | 2.7%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller            | 1        | 2.7%    |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller            | 1        | 2.7%    |
-| OnePlus IN2017                                                       | 1        | 2.7%    |
+| OnePlus (Shenzhen) EB2103                                            | 1        | 2.7%    |
 | Microsoft Xbox 360 Wireless Adapter                                  | 1        | 2.7%    |
 | Intel Wireless 7265                                                  | 1        | 2.7%    |
 | Intel Wireless 3160                                                  | 1        | 2.7%    |
@@ -1681,8 +1679,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 16       | 64%     |
-| WiFi     | 9        | 36%     |
+| Ethernet | 15       | 62.5%   |
+| WiFi     | 9        | 37.5%   |
 
 NICs
 ----

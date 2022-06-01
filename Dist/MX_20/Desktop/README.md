@@ -660,25 +660,25 @@ Geographic location (city)
 
 | City                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Tuusula                  | 1        | 4.55%   |
-| Torrevieja               | 1        | 4.55%   |
-| Tobyhanna                | 1        | 4.55%   |
+| Tacoma                   | 1        | 4.55%   |
 | Stockholm                | 1        | 4.55%   |
-| SÃ¶dertÃ¤lje         | 1        | 4.55%   |
+| Södertälje             | 1        | 4.55%   |
+| Sibulan                  | 1        | 4.55%   |
 | Podolsk                  | 1        | 4.55%   |
-| Pocono Summit            | 1        | 4.55%   |
 | Omsk                     | 1        | 4.55%   |
 | Novi Knezevac            | 1        | 4.55%   |
+| Mount Pocono             | 1        | 4.55%   |
 | Mechanicsburg            | 1        | 4.55%   |
-| Marbella                 | 1        | 4.55%   |
 | Manado                   | 1        | 4.55%   |
 | Madrid                   | 1        | 4.55%   |
-| Lebanon                  | 1        | 4.55%   |
-| Kent                     | 1        | 4.55%   |
+| La Puebla                | 1        | 4.55%   |
 | Huntsville               | 1        | 4.55%   |
-| Comox                    | 1        | 4.55%   |
+| Franklin                 | 1        | 4.55%   |
+| Fanny Bay                | 1        | 4.55%   |
+| Espoo                    | 1        | 4.55%   |
 | Chesapeake               | 1        | 4.55%   |
-| Cebu City                | 1        | 4.55%   |
+| Barcelona                | 1        | 4.55%   |
+| Bacolod City             | 1        | 4.55%   |
 | Ashburn                  | 1        | 4.55%   |
 | Albertslund Municipality | 1        | 4.55%   |
 | Albavilla                | 1        | 4.55%   |
@@ -1349,7 +1349,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                | 1        | 3.7%    |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch               | 1        | 3.7%    |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch  | 1        | 3.7%    |
+| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                         | 1        | 3.7%    |
 | Sony TV SNY0801 1360x768                                              | 1        | 3.7%    |
 | Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch  | 1        | 3.7%    |
 | Samsung Electronics LCD Monitor SAM0D3B 3840x2160 890x500mm 40.2-inch | 1        | 3.7%    |
@@ -1368,9 +1368,9 @@ Monitor models
 | Dell ST2220L DELA063 1920x1080 477x268mm 21.5-inch                    | 1        | 3.7%    |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1        | 3.7%    |
 | BenQ GL2760 BNQ78D5 1920x1080 598x336mm 27.0-inch                     | 1        | 3.7%    |
-| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch          | 1        | 3.7%    |
+| ASUSTek Computer VP28U AUS28B1 3840x2160 620x340mm 27.8-inch          | 1        | 3.7%    |
 | ASUSTek Computer VG279QL1A AUS2702 1920x1080 598x336mm 27.0-inch      | 1        | 3.7%    |
-| Acer X34 P ACR054F 3440x1440 798x335mm 34.1-inch                      | 1        | 3.7%    |
+| Acer X34 P ACR054F 3440x1440 800x340mm 34.2-inch                      | 1        | 3.7%    |
 | Acer S230HL ACR0280 1920x1080 509x286mm 23.0-inch                     | 1        | 3.7%    |
 | Acer R240HY ACR046F 1920x1080 527x296mm 23.8-inch                     | 1        | 3.7%    |
 | Acer G227HQL ACR03DE 1920x1080 476x267mm 21.5-inch                    | 1        | 3.7%    |
@@ -1536,7 +1536,7 @@ Controller models
 | Intel Ethernet Connection (11) I219-V                                                         | 2        | 5.88%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 2        | 5.88%   |
 | U-Blox [u-blox 8]                                                                             | 1        | 2.94%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 2.94%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                         | 1        | 2.94%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 2.94%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 2.94%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                                               | 1        | 2.94%   |
@@ -1583,7 +1583,7 @@ Wireless models
 
 | Model                                                                                         | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 9.09%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                         | 1        | 9.09%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 9.09%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 9.09%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 9.09%   |
@@ -1657,8 +1657,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 19       | 70.37%  |
-| WiFi     | 8        | 29.63%  |
+| Ethernet | 14       | 66.67%  |
+| WiFi     | 7        | 33.33%  |
 
 NICs
 ----
@@ -1822,25 +1822,25 @@ Memory module models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 2        | 7.14%   |
+| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s              | 2        | 7.14%   |
 | Unknown RAM Module 8192MB DIMM DDR4 2133MT/s                         | 1        | 3.57%   |
 | Unknown RAM Module 512MB DIMM SDRAM                                  | 1        | 3.57%   |
 | Unknown RAM Module 2048MB DIMM DDR 667MT/s                           | 1        | 3.57%   |
 | Unknown RAM Module 1024MB DIMM SDRAM                                 | 1        | 3.57%   |
 | Unknown RAM Module 1024MB DIMM DDR                                   | 1        | 3.57%   |
 | SK Hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s              | 1        | 3.57%   |
-| SK Hynix RAM HMT351U6EFR8C-PB 4096MB DIMM DDR3 1800MT/s              | 1        | 3.57%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                | 1        | 3.57%   |
+| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 1        | 3.57%   |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s             | 1        | 3.57%   |
 | Samsung RAM M391B5273DH0-YK0 4GB DIMM DDR3 1600MT/s                  | 1        | 3.57%   |
 | PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s                 | 1        | 3.57%   |
 | Patriot Memory (PDP Systems) RAM PSD48G320081 8GB DIMM DDR4 3200MT/s | 1        | 3.57%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                   | 1        | 3.57%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4096MB DIMM DDR3 1600MT/s                | 1        | 3.57%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s                 | 1        | 3.57%   |
 | Kingston RAM KHX2133C13D4/8GX 8192MB DIMM DDR4 2133MT/s              | 1        | 3.57%   |
 | Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1600MT/s                | 1        | 3.57%   |
 | G.Skill RAM F4-3000C15-8GTZR 8192MB DIMM DDR4 3000MT/s               | 1        | 3.57%   |
 | G.Skill RAM F3-2400C10-8G 8192MB DIMM DDR3 1333MT/s                  | 1        | 3.57%   |
-| Crucial RAM CT8G4DFS824A.M8FE 8GB DIMM DDR4 2933MT/s                 | 1        | 3.57%   |
+| Crucial RAM CT8G4DFS824A.M8FE 8192MB DIMM DDR4 2933MT/s              | 1        | 3.57%   |
 | Crucial RAM CT51264BA160B.C16F 4096MB DIMM DDR3 1600MT/s             | 1        | 3.57%   |
 | Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s                | 1        | 3.57%   |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s                | 1        | 3.57%   |

@@ -677,10 +677,11 @@ Geographic location (city)
 | Vancouver         | 1         | 4.55%   |
 | Uruguaiana        | 1         | 4.55%   |
 | Talence           | 1         | 4.55%   |
-| Sobral            | 1         | 4.55%   |
 | Skydra            | 1         | 4.55%   |
 | Santiago          | 1         | 4.55%   |
+| San Salvador      | 1         | 4.55%   |
 | Pori              | 1         | 4.55%   |
+| Parempuyre        | 1         | 4.55%   |
 | Novi Sad          | 1         | 4.55%   |
 | Millers Creek     | 1         | 4.55%   |
 | Mariupol          | 1         | 4.55%   |
@@ -689,13 +690,12 @@ Geographic location (city)
 | Lehighton         | 1         | 4.55%   |
 | Kyiv              | 1         | 4.55%   |
 | Krasnoyarsk       | 1         | 4.55%   |
-| Grandview         | 1         | 4.55%   |
+| Juazeiro do Norte | 1         | 4.55%   |
 | Castelnau-le-Lez  | 1         | 4.55%   |
 | Bratislava        | 1         | 4.55%   |
+| Belton            | 1         | 4.55%   |
 | Baghdad           | 1         | 4.55%   |
-| Antiguo Cuscatlan | 1         | 4.55%   |
 | Abu Dhabi         | 1         | 4.55%   |
-| Abbeville         | 1         | 4.55%   |
 
 Drives
 ------
@@ -1273,7 +1273,7 @@ Monitor models
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch          | 1         | 4.35%   |
 | LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch         | 1         | 4.35%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 4.35%   |
-| Dell P2421D DELD0FF 2560x1440 530x300mm 24.0-inch                    | 1         | 4.35%   |
+| Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                    | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch      | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN15BB 1920x1080 344x194mm 15.5-inch     | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN1130 1366x768 256x144mm 11.6-inch      | 1         | 4.35%   |
@@ -1448,7 +1448,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2.38%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 2.38%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 2.38%   |
-| Google Pixel 6 Pro                                                | 1         | 2.38%   |
+| Google Pixel 6                                                    | 1         | 2.38%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 2.38%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 2.38%   |
 | Broadcom Limited BCM4352 802.11ac Wireless Network Adapter        | 1         | 2.38%   |
@@ -1536,7 +1536,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 5%      |
 | Intel Ethernet Connection I217-LM                                 | 1         | 5%      |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 5%      |
-| Google Pixel 6 Pro                                                | 1         | 5%      |
+| Google Pixel 6                                                    | 1         | 5%      |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 5%      |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 5%      |
 
@@ -1563,8 +1563,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| Ethernet | 16        | 61.54%  |
-| WiFi     | 10        | 38.46%  |
+| Ethernet | 13        | 59.09%  |
+| WiFi     | 9         | 40.91%  |
 
 NICs
 ----
@@ -1625,14 +1625,13 @@ Controller models
 
 | Model                                        | Notebooks | Percent |
 |----------------------------------------------|-----------|---------|
+| Qualcomm Atheros  Bluetooth Device           | 4         | 22.22%  |
 | Realtek Bluetooth Radio                      | 3         | 16.67%  |
-| Qualcomm Atheros  Bluetooth Device           | 3         | 16.67%  |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device | 2         | 11.11%  |
 | Intel Bluetooth wireless interface           | 2         | 11.11%  |
 | Toshiba Bluetooth Device                     | 1         | 5.56%   |
-| Realtek RTL8821A Bluetooth                   | 1         | 5.56%   |
 | Realtek  Bluetooth 4.2 Adapter               | 1         | 5.56%   |
-| Qualcomm Atheros AR9462 Bluetooth            | 1         | 5.56%   |
+| Realtek 802.11ac WLAN Adapter                | 1         | 5.56%   |
 | Lite-On Bluetooth Device                     | 1         | 5.56%   |
 | Intel AX200 Bluetooth                        | 1         | 5.56%   |
 | Dell Broadcom BCM20702A0 Bluetooth           | 1         | 5.56%   |

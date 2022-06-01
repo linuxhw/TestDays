@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 34
+Total: 31
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
@@ -162,8 +162,6 @@ Total: 34
 | MSI      | 990FXA-GD65                 | [f8c2afa143](https://linux-hardware.org/?probe=f8c2afa143) | Jan 20, 2021 |
 | ASRock   | B550M-ITX/ac                | [f69556d436](https://linux-hardware.org/?probe=f69556d436) | Jan 15, 2021 |
 | Gigabyte | Z390 D                      | [010be27c6a](https://linux-hardware.org/?probe=010be27c6a) | Jan 11, 2021 |
-| MSI      | 990FXA-GD65                 | [0083f37f14](https://linux-hardware.org/?probe=0083f37f14) | Jan 05, 2021 |
-| MSI      | 990FXA-GD65                 | [4db9c4da66](https://linux-hardware.org/?probe=4db9c4da66) | Jan 03, 2021 |
 | ASRock   | X470 Master SLI             | [f2c8ec14c7](https://linux-hardware.org/?probe=f2c8ec14c7) | Jan 02, 2021 |
 | MSI      | MAG B550 TOMAHAWK           | [8e3d2a963b](https://linux-hardware.org/?probe=8e3d2a963b) | Nov 18, 2020 |
 | ASUSTek  | PRIME X370-A                | [c8f850e40f](https://linux-hardware.org/?probe=c8f850e40f) | Nov 15, 2020 |
@@ -183,10 +181,9 @@ Total: 34
 | MSI      | H310M PRO-M2 PLUS           | [5d852ecca8](https://linux-hardware.org/?probe=5d852ecca8) | Jun 06, 2020 |
 | MSI      | H87-G41 PC Mate             | [b3513301a1](https://linux-hardware.org/?probe=b3513301a1) | May 08, 2020 |
 | MSI      | H87-G41 PC Mate             | [acad555779](https://linux-hardware.org/?probe=acad555779) | Apr 01, 2020 |
-| Lenovo   | Board                       | [ef01565711](https://linux-hardware.org/?probe=ef01565711) | Apr 01, 2020 |
-| Lenovo   | Board                       | [7c54db2820](https://linux-hardware.org/?probe=7c54db2820) | Apr 01, 2020 |
+| Lenovo   | IdeaCentre K320 10031       | [ef01565711](https://linux-hardware.org/?probe=ef01565711) | Apr 01, 2020 |
+| Lenovo   | IdeaCentre K320 10031       | [7c54db2820](https://linux-hardware.org/?probe=7c54db2820) | Apr 01, 2020 |
 | ASUSTek  | P5PL2                       | [19fbc6cfd3](https://linux-hardware.org/?probe=19fbc6cfd3) | Mar 25, 2020 |
-| MSI      | 990FXA-GD65                 | [868fa5cf23](https://linux-hardware.org/?probe=868fa5cf23) | Mar 15, 2020 |
 | Gigabyte | GA-890XA-UD3                | [e2cafdec0d](https://linux-hardware.org/?probe=e2cafdec0d) | Mar 09, 2020 |
 | MSI      | 990FXA-GD65                 | [fdc69c0b70](https://linux-hardware.org/?probe=fdc69c0b70) | Feb 08, 2020 |
 | Gigabyte | Z390 AORUS ELITE-CF         | [771600b1ae](https://linux-hardware.org/?probe=771600b1ae) | Feb 07, 2020 |
@@ -205,18 +202,18 @@ Version of the Linux kernel
 
 | Version            | Desktops | Percent |
 |--------------------|----------|---------|
-| 5.6.19-158.current | 6        | 25%     |
-| 5.5.7-150.current  | 3        | 12.5%   |
-| 5.4.12-144.current | 3        | 12.5%   |
-| 5.6.19-159.current | 2        | 8.33%   |
-| 5.6.13-153.current | 2        | 8.33%   |
-| 5.10.5-167.current | 2        | 8.33%   |
-| 5.6.4-152.current  | 1        | 4.17%   |
-| 5.6.18-156.current | 1        | 4.17%   |
-| 5.5.11-151.current | 1        | 4.17%   |
-| 5.10.9-169.current | 1        | 4.17%   |
-| 5.10.4-165.current | 1        | 4.17%   |
-| 4.14.189-161.lts   | 1        | 4.17%   |
+| 5.6.19-158.current | 6        | 26.09%  |
+| 5.4.12-144.current | 3        | 13.04%  |
+| 5.6.19-159.current | 2        | 8.7%    |
+| 5.6.13-153.current | 2        | 8.7%    |
+| 5.5.7-150.current  | 2        | 8.7%    |
+| 5.10.5-167.current | 2        | 8.7%    |
+| 5.6.4-152.current  | 1        | 4.35%   |
+| 5.6.18-156.current | 1        | 4.35%   |
+| 5.5.11-151.current | 1        | 4.35%   |
+| 5.10.9-169.current | 1        | 4.35%   |
+| 5.10.7-168.current | 1        | 4.35%   |
+| 4.14.189-161.lts   | 1        | 4.35%   |
 
 Kernel Family
 -------------
@@ -228,17 +225,17 @@ Linux kernel without a distro release
 
 | Version  | Desktops | Percent |
 |----------|----------|---------|
-| 5.6.19   | 8        | 33.33%  |
-| 5.5.7    | 3        | 12.5%   |
-| 5.4.12   | 3        | 12.5%   |
-| 5.6.13   | 2        | 8.33%   |
-| 5.10.5   | 2        | 8.33%   |
-| 5.6.4    | 1        | 4.17%   |
-| 5.6.18   | 1        | 4.17%   |
-| 5.5.11   | 1        | 4.17%   |
-| 5.10.9   | 1        | 4.17%   |
-| 5.10.4   | 1        | 4.17%   |
-| 4.14.189 | 1        | 4.17%   |
+| 5.6.19   | 8        | 34.78%  |
+| 5.4.12   | 3        | 13.04%  |
+| 5.6.13   | 2        | 8.7%    |
+| 5.5.7    | 2        | 8.7%    |
+| 5.10.5   | 2        | 8.7%    |
+| 5.6.4    | 1        | 4.35%   |
+| 5.6.18   | 1        | 4.35%   |
+| 5.5.11   | 1        | 4.35%   |
+| 5.10.9   | 1        | 4.35%   |
+| 5.10.7   | 1        | 4.35%   |
+| 4.14.189 | 1        | 4.35%   |
 
 Kernel Major Ver.
 -----------------
@@ -250,11 +247,11 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.6     | 11       | 47.83%  |
-| 5.5     | 4        | 17.39%  |
-| 5.10    | 4        | 17.39%  |
-| 5.4     | 3        | 13.04%  |
-| 4.14    | 1        | 4.35%   |
+| 5.6     | 11       | 50%     |
+| 5.10    | 4        | 18.18%  |
+| 5.5     | 3        | 13.64%  |
+| 5.4     | 3        | 13.64%  |
+| 4.14    | 1        | 4.55%   |
 
 Arch
 ----
@@ -556,12 +553,12 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1.01-2.0  | 6        | 27.27%  |
-| 2.01-3.0  | 5        | 22.73%  |
-| 8.01-16.0 | 4        | 18.18%  |
-| 4.01-8.0  | 3        | 13.64%  |
-| 3.01-4.0  | 2        | 9.09%   |
-| 0.51-1.0  | 2        | 9.09%   |
+| 1.01-2.0  | 6        | 28.57%  |
+| 2.01-3.0  | 4        | 19.05%  |
+| 8.01-16.0 | 4        | 19.05%  |
+| 4.01-8.0  | 3        | 14.29%  |
+| 3.01-4.0  | 2        | 9.52%   |
+| 0.51-1.0  | 2        | 9.52%   |
 
 Total Drives
 ------------
@@ -616,8 +613,8 @@ Has WiFi module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 12       | 63.16%  |
-| Yes       | 7        | 36.84%  |
+| No        | 11       | 57.89%  |
+| Yes       | 8        | 42.11%  |
 
 Has Bluetooth
 -------------
@@ -664,26 +661,27 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City           | Desktops | Percent |
-|----------------|----------|---------|
-| Mainz          | 2        | 10.53%  |
-| Yekaterinburg  | 1        | 5.26%   |
-| Waterloo       | 1        | 5.26%   |
-| Toronto        | 1        | 5.26%   |
-| Severna Park   | 1        | 5.26%   |
-| Perth          | 1        | 5.26%   |
-| Novosibirsk    | 1        | 5.26%   |
-| New York       | 1        | 5.26%   |
-| Mittelbiberach | 1        | 5.26%   |
-| Mexico City    | 1        | 5.26%   |
-| Martigues      | 1        | 5.26%   |
-| Malmo          | 1        | 5.26%   |
-| Guelph         | 1        | 5.26%   |
-| GoiГўnia     | 1        | 5.26%   |
-| Clecy          | 1        | 5.26%   |
-| Bladel         | 1        | 5.26%   |
-| Berezniki      | 1        | 5.26%   |
-| Adelaide       | 1        | 5.26%   |
+| City                 | Desktops | Percent |
+|----------------------|----------|---------|
+| Mainz                | 2        | 10%     |
+| Yekaterinburg        | 1        | 5%      |
+| Uppsala              | 1        | 5%      |
+| Toronto              | 1        | 5%      |
+| Severna Park         | 1        | 5%      |
+| Novosibirsk          | 1        | 5%      |
+| New York             | 1        | 5%      |
+| Millstadt            | 1        | 5%      |
+| Mexico City          | 1        | 5%      |
+| Martigues            | 1        | 5%      |
+| Mandurah             | 1        | 5%      |
+| Guelph               | 1        | 5%      |
+| Gothenburg           | 1        | 5%      |
+| Dourados             | 1        | 5%      |
+| Caen                 | 1        | 5%      |
+| Biberach an der Riss | 1        | 5%      |
+| Berezniki            | 1        | 5%      |
+| Amsterdam            | 1        | 5%      |
+| Adelaide             | 1        | 5%      |
 
 Drives
 ------
@@ -698,9 +696,9 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 10       | 27     | 24.39%  |
+| Samsung Electronics | 10       | 26     | 24.39%  |
 | WDC                 | 9        | 15     | 21.95%  |
-| Seagate             | 7        | 24     | 17.07%  |
+| Seagate             | 7        | 20     | 17.07%  |
 | Unknown             | 3        | 5      | 7.32%   |
 | Intel               | 3        | 3      | 7.32%   |
 | Toshiba             | 2        | 4      | 4.88%   |
@@ -750,17 +748,17 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
-| Seagate Backup+ Hub BK 4TB      | 1        | 1.72%   |
+| Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
 | SanDisk SDSSDH31024G 1TB        | 1        | 1.72%   |
 | SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
 | Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
 | Samsung SSD 840 EVO 120GB       | 1        | 1.72%   |
 | Samsung Portable SSD T5 500GB   | 1        | 1.72%   |
-| Samsung M3 Portable 500GB       | 1        | 1.72%   |
+| Samsung M3 Portable 1TB         | 1        | 1.72%   |
 | Samsung HD203WI 2TB             | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
-| Intel NVMe SSD Drive 256GB      | 1        | 1.72%   |
+| Intel SSDPEKKW256G7 256GB       | 1        | 1.72%   |
 | Hitachi HTS545032B9A300 320GB   | 1        | 1.72%   |
 | Crucial CT250BX100SSD1 250GB    | 1        | 1.72%   |
 | Crucial CT240BX500SSD1 240GB    | 1        | 1.72%   |
@@ -777,7 +775,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 9        | 15     | 42.86%  |
-| Seagate             | 7        | 24     | 33.33%  |
+| Seagate             | 7        | 20     | 33.33%  |
 | Toshiba             | 2        | 4      | 9.52%   |
 | Samsung Electronics | 2        | 2      | 9.52%   |
 | Hitachi             | 1        | 1      | 4.76%   |
@@ -792,7 +790,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 8        | 15     | 53.33%  |
+| Samsung Electronics | 8        | 14     | 53.33%  |
 | SanDisk             | 2        | 2      | 13.33%  |
 | Crucial             | 2        | 2      | 13.33%  |
 | Unknown             | 1        | 1      | 6.67%   |
@@ -809,8 +807,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 15       | 22     | 37.5%   |
-| HDD     | 15       | 46     | 37.5%   |
+| SSD     | 15       | 21     | 37.5%   |
+| HDD     | 15       | 42     | 37.5%   |
 | NVMe    | 8        | 13     | 20%     |
 | Unknown | 2        | 4      | 5%      |
 
@@ -824,7 +822,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 17       | 67     | 60.71%  |
+| SATA | 17       | 62     | 60.71%  |
 | NVMe | 8        | 13     | 28.57%  |
 | SAS  | 3        | 5      | 10.71%  |
 
@@ -838,10 +836,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 34     | 51.52%  |
-| 0.51-1.0   | 10       | 11     | 30.3%   |
-| 1.01-2.0   | 4        | 21     | 12.12%  |
-| 3.01-4.0   | 2        | 2      | 6.06%   |
+| 0.01-0.5   | 17       | 32     | 50%     |
+| 0.51-1.0   | 11       | 12     | 32.35%  |
+| 1.01-2.0   | 4        | 17     | 11.76%  |
+| 3.01-4.0   | 1        | 1      | 2.94%   |
+| 4.01-10.0  | 1        | 1      | 2.94%   |
 
 Space Total
 -----------
@@ -870,15 +869,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 21-50          | 4        | 19.05%  |
-| 2001-3000      | 3        | 14.29%  |
-| 101-250        | 3        | 14.29%  |
-| 1001-2000      | 3        | 14.29%  |
-| 1-20           | 3        | 14.29%  |
-| 501-1000       | 2        | 9.52%   |
-| More than 3000 | 1        | 4.76%   |
-| 251-500        | 1        | 4.76%   |
-| 51-100         | 1        | 4.76%   |
+| 21-50          | 4        | 20%     |
+| 2001-3000      | 3        | 15%     |
+| 101-250        | 3        | 15%     |
+| 1001-2000      | 3        | 15%     |
+| 1-20           | 2        | 10%     |
+| 501-1000       | 2        | 10%     |
+| More than 3000 | 1        | 5%      |
+| 251-500        | 1        | 5%      |
+| 51-100         | 1        | 5%      |
 
 Malfunc. Drives
 ---------------
@@ -957,7 +956,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 15       | 65     | 60%     |
+| Detected | 15       | 60     | 60%     |
 | Works    | 7        | 16     | 28%     |
 | Malfunc  | 3        | 4      | 12%     |
 
@@ -1325,19 +1324,19 @@ Monitor models
 | Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch    | 1        | 4.17%   |
 | Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch | 1        | 4.17%   |
 | Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch              | 1        | 4.17%   |
-| MSI G27C5 MSI3CA9 1920x1080 598x336mm 27.0-inch                      | 1        | 4.17%   |
+| MSI G27C4 MSI3CA9 1920x1080 598x336mm 27.0-inch                      | 1        | 4.17%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                    | 1        | 4.17%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 4.17%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
+| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch          | 1        | 4.17%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch               | 1        | 4.17%   |
 | Dell S2719DGF DELD0E6 2560x1440 600x340mm 27.2-inch                  | 1        | 4.17%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.17%   |
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24E1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1        | 4.17%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1587,8 +1586,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 18       | 72%     |
-| WiFi     | 7        | 28%     |
+| Ethernet | 15       | 75%     |
+| WiFi     | 5        | 25%     |
 
 NICs
 ----
@@ -1738,17 +1737,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 2        | 20%     |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s              | 1        | 10%     |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1        | 10%     |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s        | 1        | 10%     |
-| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s       | 1        | 10%     |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM 1600MT/s            | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4096MB DIMM DDR3 1800MT/s    | 1        | 10%     |
-| Corsair RAM CMK32GX4M2B3000C15 16384MB DIMM DDR4 3000MT/s | 1        | 10%     |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 10%     |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s  | 2        | 20%     |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 10%     |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 10%     |
+| G.Skill RAM F4-2400C15-8GVR 8192MB DIMM DDR4 3200MT/s  | 1        | 10%     |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
+| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
 
 Memory Kind
 -----------

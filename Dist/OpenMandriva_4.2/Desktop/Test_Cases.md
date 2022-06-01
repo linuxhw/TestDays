@@ -1,8 +1,22 @@
-OpenMandriva 4.2 - Test Cases
------------------------------
+OpenMandriva 4.2 - Test Cases (Desktops)
+----------------------------------------
+
+Total: 2247
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | B460 AORUS PRO AC           | [2966cd34b8](https://linux-hardware.org/?probe=2966cd34b8) | May 31, 2022 |
+| Lenovo        | 3178 SDK0J40697 WIN 3305... | [63747954e9](https://linux-hardware.org/?probe=63747954e9) | May 29, 2022 |
+| Intel         | D2500HN AAG81480-500        | [bc39db0484](https://linux-hardware.org/?probe=bc39db0484) | May 24, 2022 |
+| MSI           | B150M BAZOOKA               | [b8ec3bee43](https://linux-hardware.org/?probe=b8ec3bee43) | May 22, 2022 |
+| Gigabyte      | Z68XP-UD3                   | [063aeed1a1](https://linux-hardware.org/?probe=063aeed1a1) | May 19, 2022 |
+| Gigabyte      | GA-E6010N                   | [679cd1e540](https://linux-hardware.org/?probe=679cd1e540) | May 18, 2022 |
+| Gigabyte      | X38-DQ6                     | [653ffc4014](https://linux-hardware.org/?probe=653ffc4014) | May 16, 2022 |
+| Dell          | 0HD5W2 A00                  | [9f28ef42a4](https://linux-hardware.org/?probe=9f28ef42a4) | May 11, 2022 |
+| ASUSTek       | CROSSHAIR                   | [39f623cf4d](https://linux-hardware.org/?probe=39f623cf4d) | May 08, 2022 |
+| Positivo      | POS-PARS760GCD              | [dfc00dfd71](https://linux-hardware.org/?probe=dfc00dfd71) | May 05, 2022 |
+| ASRock        | Z77 Pro3                    | [050aee0a5f](https://linux-hardware.org/?probe=050aee0a5f) | May 03, 2022 |
+| Intel         | DG31PR AAE58249-306         | [53f6946eba](https://linux-hardware.org/?probe=53f6946eba) | May 01, 2022 |
 | ASUSTek       | P6T DELUXE V2               | [0e266b4987](https://linux-hardware.org/?probe=0e266b4987) | Apr 25, 2022 |
 | Foxconn       | 945 7AD Series              | [04346c58f5](https://linux-hardware.org/?probe=04346c58f5) | Apr 23, 2022 |
 | Pegatron      | EVANS                       | [118f512619](https://linux-hardware.org/?probe=118f512619) | Apr 21, 2022 |
@@ -150,7 +164,7 @@ OpenMandriva 4.2 - Test Cases
 | Pegatron      | IPM31G                      | [7ca6a7c129](https://linux-hardware.org/?probe=7ca6a7c129) | Jan 14, 2022 |
 | Fujitsu Si... | D2464-B1 S26361-D2464-B1    | [962a3a8bb0](https://linux-hardware.org/?probe=962a3a8bb0) | Jan 14, 2022 |
 | MSI           | A320M-A PRO                 | [6b023312e7](https://linux-hardware.org/?probe=6b023312e7) | Jan 14, 2022 |
-| ASUSTek       | TUF GAMING X570-PLUS        | [5724c20f52](https://linux-hardware.org/?probe=5724c20f52) | Jan 14, 2022 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [5724c20f52](https://linux-hardware.org/?probe=5724c20f52) | Jan 14, 2022 |
 | MSI           | MS-7A66                     | [fcddf8cda4](https://linux-hardware.org/?probe=fcddf8cda4) | Jan 13, 2022 |
 | ASUSTek       | PRIME B450M-A               | [ad49cdde74](https://linux-hardware.org/?probe=ad49cdde74) | Jan 13, 2022 |
 | ASUSTek       | M2N-MX SE Plus              | [4fae921f3e](https://linux-hardware.org/?probe=4fae921f3e) | Jan 13, 2022 |
@@ -312,7 +326,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | H110M-CS/BR                 | [203c43fc12](https://linux-hardware.org/?probe=203c43fc12) | Nov 15, 2021 |
 | MSI           | MS-7529                     | [d6f55ff177](https://linux-hardware.org/?probe=d6f55ff177) | Nov 15, 2021 |
 | ASUSTek       | P5KPL                       | [6e52b269ee](https://linux-hardware.org/?probe=6e52b269ee) | Nov 15, 2021 |
-| ASUSTek       | TUF GAMING X570-PLUS        | [4b7d36666a](https://linux-hardware.org/?probe=4b7d36666a) | Nov 15, 2021 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [4b7d36666a](https://linux-hardware.org/?probe=4b7d36666a) | Nov 15, 2021 |
 | ASRock        | H470M-HDV                   | [09b482f622](https://linux-hardware.org/?probe=09b482f622) | Nov 15, 2021 |
 | Gigabyte      | GA-870A-UD3                 | [58809fa055](https://linux-hardware.org/?probe=58809fa055) | Nov 14, 2021 |
 | MSI           | X570-A PRO                  | [1d72b572ac](https://linux-hardware.org/?probe=1d72b572ac) | Nov 14, 2021 |
@@ -535,7 +549,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | B85M-HD3                    | [87c38c92e2](https://linux-hardware.org/?probe=87c38c92e2) | Sep 16, 2021 |
 | Acer          | Aspire XC-830               | [ad445dc43a](https://linux-hardware.org/?probe=ad445dc43a) | Sep 15, 2021 |
 | ASUSTek       | M4A77TD                     | [b5b48ab672](https://linux-hardware.org/?probe=b5b48ab672) | Sep 15, 2021 |
-| Lenovo        | Board                       | [3800ed0406](https://linux-hardware.org/?probe=3800ed0406) | Sep 15, 2021 |
+| Lenovo        | ThinkCentre XXXX 8813AA2    | [3800ed0406](https://linux-hardware.org/?probe=3800ed0406) | Sep 15, 2021 |
 | Gigabyte      | GA-990FX-GAMING             | [61c16353ce](https://linux-hardware.org/?probe=61c16353ce) | Sep 14, 2021 |
 | ASRock        | B85 Pro4                    | [fd3e875a73](https://linux-hardware.org/?probe=fd3e875a73) | Sep 14, 2021 |
 | ASUSTek       | P5GL-MX                     | [e5161b0f36](https://linux-hardware.org/?probe=e5161b0f36) | Sep 14, 2021 |
@@ -767,7 +781,6 @@ OpenMandriva 4.2 - Test Cases
 | Lenovo        | ThinkCentre M58p 3285A1G    | [214c59a169](https://linux-hardware.org/?probe=214c59a169) | Jul 19, 2021 |
 | Acer          | Veriton M290                | [933b393728](https://linux-hardware.org/?probe=933b393728) | Jul 19, 2021 |
 | ASUSTek       | Z97-A                       | [b8edd50f3b](https://linux-hardware.org/?probe=b8edd50f3b) | Jul 19, 2021 |
-| Acer          | Aspire XC-830               | [fba1c7b829](https://linux-hardware.org/?probe=fba1c7b829) | Jul 19, 2021 |
 | ASUSTek       | Rampage III GENE            | [ab44db5647](https://linux-hardware.org/?probe=ab44db5647) | Jul 18, 2021 |
 | Intel         | H61                         | [33ac153fc0](https://linux-hardware.org/?probe=33ac153fc0) | Jul 18, 2021 |
 | Positivo      | POS-EIBTPDC                 | [8d82a3932b](https://linux-hardware.org/?probe=8d82a3932b) | Jul 18, 2021 |
@@ -785,7 +798,6 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | ROG STRIX Z490-F GAMING     | [d2f11dc136](https://linux-hardware.org/?probe=d2f11dc136) | Jul 18, 2021 |
 | Lenovo        | ThinkCentre M90p 5536B2G    | [4486d669b3](https://linux-hardware.org/?probe=4486d669b3) | Jul 18, 2021 |
 | ASUSTek       | PRIME B460I-PLUS            | [626b3cccb3](https://linux-hardware.org/?probe=626b3cccb3) | Jul 18, 2021 |
-| ASUSTek       | P8Z77-V PRO                 | [3c3a7c6892](https://linux-hardware.org/?probe=3c3a7c6892) | Jul 18, 2021 |
 | Gigabyte      | GA-890GPA-UD3H              | [3b293f18b7](https://linux-hardware.org/?probe=3b293f18b7) | Jul 18, 2021 |
 | MSI           | Z97 GAMING 3                | [fb4d52b3b2](https://linux-hardware.org/?probe=fb4d52b3b2) | Jul 18, 2021 |
 | Pegatron      | 2AB6                        | [b790271fac](https://linux-hardware.org/?probe=b790271fac) | Jul 18, 2021 |
@@ -836,7 +848,7 @@ OpenMandriva 4.2 - Test Cases
 | ASRock        | N68-GS4/USB3 FX             | [574ca908b2](https://linux-hardware.org/?probe=574ca908b2) | Jul 10, 2021 |
 | Dell          | 0DFRFW A01                  | [228725f740](https://linux-hardware.org/?probe=228725f740) | Jul 09, 2021 |
 | HP            | 83EE                        | [f9f4af77e6](https://linux-hardware.org/?probe=f9f4af77e6) | Jul 09, 2021 |
-| Lenovo        | Board                       | [8dad962f2f](https://linux-hardware.org/?probe=8dad962f2f) | Jul 09, 2021 |
+| Lenovo        | ThinkCentre M70e 0830F2U    | [8dad962f2f](https://linux-hardware.org/?probe=8dad962f2f) | Jul 09, 2021 |
 | ASUSTek       | TUF B450M-PLUS GAMING       | [9736c8f382](https://linux-hardware.org/?probe=9736c8f382) | Jul 09, 2021 |
 | ASRock        | 880GM-LE FX                 | [ed6f3d1c5f](https://linux-hardware.org/?probe=ed6f3d1c5f) | Jul 08, 2021 |
 | ASUSTek       | X99-DELUXE                  | [cb24d096c3](https://linux-hardware.org/?probe=cb24d096c3) | Jul 08, 2021 |
@@ -977,7 +989,7 @@ OpenMandriva 4.2 - Test Cases
 | Dell          | 0R790T A00                  | [2a1a642f42](https://linux-hardware.org/?probe=2a1a642f42) | Jun 06, 2021 |
 | ASRock        | H87 Pro4                    | [5f78dd5211](https://linux-hardware.org/?probe=5f78dd5211) | Jun 06, 2021 |
 | HP            | 870C                        | [2161a2184f](https://linux-hardware.org/?probe=2161a2184f) | Jun 06, 2021 |
-| Unknown       | Board                       | [38e8344779](https://linux-hardware.org/?probe=38e8344779) | Jun 06, 2021 |
+| Unknown       | Unknown                     | [38e8344779](https://linux-hardware.org/?probe=38e8344779) | Jun 06, 2021 |
 | Gigabyte      | H61M-DS2                    | [2cded67836](https://linux-hardware.org/?probe=2cded67836) | Jun 06, 2021 |
 | ASUSTek       | A8V Deluxe                  | [b38568681e](https://linux-hardware.org/?probe=b38568681e) | Jun 05, 2021 |
 | Fujitsu       | D3162-A1 S26361-D3162-A1    | [9a2b696908](https://linux-hardware.org/?probe=9a2b696908) | Jun 05, 2021 |
@@ -1003,11 +1015,11 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | B85M-D3H                    | [a85b460d7a](https://linux-hardware.org/?probe=a85b460d7a) | Jun 01, 2021 |
 | ASUSTek       | P8Z68-V LX                  | [7bbe919e56](https://linux-hardware.org/?probe=7bbe919e56) | Jun 01, 2021 |
 | Biostar       | H81MHV3                     | [0a593d3966](https://linux-hardware.org/?probe=0a593d3966) | Jun 01, 2021 |
-| Lenovo        | Board                       | [1bd4686165](https://linux-hardware.org/?probe=1bd4686165) | Jun 01, 2021 |
+| Lenovo        | ThinkCentre M71e 3157A23    | [1bd4686165](https://linux-hardware.org/?probe=1bd4686165) | Jun 01, 2021 |
 | ASUSTek       | Maximus IX FORMULA          | [49645f5d3a](https://linux-hardware.org/?probe=49645f5d3a) | Jun 01, 2021 |
 | Acer          | EG31M R01-A3                | [58c95200b2](https://linux-hardware.org/?probe=58c95200b2) | Jun 01, 2021 |
 | Gigabyte      | H97M-Gaming 3               | [df13f72a9a](https://linux-hardware.org/?probe=df13f72a9a) | Jun 01, 2021 |
-| Lenovo        | Board                       | [d1d91c4baf](https://linux-hardware.org/?probe=d1d91c4baf) | May 30, 2021 |
+| Lenovo        | ThinkCentre A70z 0401ZBP    | [d1d91c4baf](https://linux-hardware.org/?probe=d1d91c4baf) | May 30, 2021 |
 | Medion        | Z370H4-EM                   | [88279b78cf](https://linux-hardware.org/?probe=88279b78cf) | May 30, 2021 |
 | Dell          | 0U880P A01                  | [d8137ab8a4](https://linux-hardware.org/?probe=d8137ab8a4) | May 30, 2021 |
 | Gigabyte      | P55-USB3                    | [053480926c](https://linux-hardware.org/?probe=053480926c) | May 30, 2021 |
@@ -1032,7 +1044,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | GA-78LMT-USB3               | [63b4120251](https://linux-hardware.org/?probe=63b4120251) | May 28, 2021 |
 | HP            | 2B00 A01                    | [aa243a819d](https://linux-hardware.org/?probe=aa243a819d) | May 28, 2021 |
 | ASUSTek       | CROSSHAIR VI HERO           | [dfe212da86](https://linux-hardware.org/?probe=dfe212da86) | May 28, 2021 |
-| Lenovo        | Board                       | [7e76e404ec](https://linux-hardware.org/?probe=7e76e404ec) | May 28, 2021 |
+| Lenovo        | ThinkCentre M58 7360BB6     | [7e76e404ec](https://linux-hardware.org/?probe=7e76e404ec) | May 28, 2021 |
 | Dell          | 0D6H9T A00                  | [50bce970ea](https://linux-hardware.org/?probe=50bce970ea) | May 28, 2021 |
 | Gigabyte      | F2A88XM-D3HP                | [1112ac9ec4](https://linux-hardware.org/?probe=1112ac9ec4) | May 28, 2021 |
 | ASUSTek       | PRIME A320M-K               | [3c83289b45](https://linux-hardware.org/?probe=3c83289b45) | May 28, 2021 |
@@ -1084,7 +1096,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | H310M H x.x                 | [141475f02b](https://linux-hardware.org/?probe=141475f02b) | May 25, 2021 |
 | ASUSTek       | PRIME H310M-R R2.0          | [dd9596a6b0](https://linux-hardware.org/?probe=dd9596a6b0) | May 25, 2021 |
 | MSI           | X79A-GD45                   | [02cd4d8346](https://linux-hardware.org/?probe=02cd4d8346) | May 25, 2021 |
-| Lenovo        | Board                       | [f0ab2754bf](https://linux-hardware.org/?probe=f0ab2754bf) | May 24, 2021 |
+| Lenovo        | ThinkCentre M58 7373ANU     | [f0ab2754bf](https://linux-hardware.org/?probe=f0ab2754bf) | May 24, 2021 |
 | ASUSTek       | A8V Deluxe                  | [e739f2f0ba](https://linux-hardware.org/?probe=e739f2f0ba) | May 24, 2021 |
 | ASUSTek       | PRIME B460I-PLUS            | [18673416df](https://linux-hardware.org/?probe=18673416df) | May 24, 2021 |
 | ASUSTek       | ROG STRIX Z390-F GAMING     | [18a85dba7a](https://linux-hardware.org/?probe=18a85dba7a) | May 24, 2021 |
@@ -1119,7 +1131,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | P8P67 LE                    | [6f03b103e7](https://linux-hardware.org/?probe=6f03b103e7) | May 19, 2021 |
 | ASUSTek       | P8H67                       | [fa879ee1d2](https://linux-hardware.org/?probe=fa879ee1d2) | May 19, 2021 |
 | Gigabyte      | GA-MA78GM-UD2H              | [ef29fffcf0](https://linux-hardware.org/?probe=ef29fffcf0) | May 19, 2021 |
-| Lenovo        | Board                       | [1b01ff9935](https://linux-hardware.org/?probe=1b01ff9935) | May 19, 2021 |
+| Lenovo        | ThinkCentre M81 5048W4M     | [1b01ff9935](https://linux-hardware.org/?probe=1b01ff9935) | May 19, 2021 |
 | Dell          | 0HN7XN A01                  | [fa2352afac](https://linux-hardware.org/?probe=fa2352afac) | May 19, 2021 |
 | PERTOSA       | GA-H110TN-M                 | [4da44461b8](https://linux-hardware.org/?probe=4da44461b8) | May 19, 2021 |
 | Gigabyte      | B460M DS3H AC-Y1            | [ff04bd46cb](https://linux-hardware.org/?probe=ff04bd46cb) | May 19, 2021 |
@@ -1221,7 +1233,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | P5QL-ASUS-SE                | [72b785dd42](https://linux-hardware.org/?probe=72b785dd42) | Apr 29, 2021 |
 | Gigabyte      | M55S-S3                     | [7114f9857a](https://linux-hardware.org/?probe=7114f9857a) | Apr 29, 2021 |
 | HP            | 0AA8h                       | [5f350b471f](https://linux-hardware.org/?probe=5f350b471f) | Apr 29, 2021 |
-| Lenovo        | Board                       | [751668cb7c](https://linux-hardware.org/?probe=751668cb7c) | Apr 28, 2021 |
+| Lenovo        | H220                        | [751668cb7c](https://linux-hardware.org/?probe=751668cb7c) | Apr 28, 2021 |
 | ASUSTek       | P7P55-M                     | [5634ac753e](https://linux-hardware.org/?probe=5634ac753e) | Apr 28, 2021 |
 | HP            | 2B36                        | [6458f2da90](https://linux-hardware.org/?probe=6458f2da90) | Apr 28, 2021 |
 | ASRock        | H81 Pro BTC R2.0            | [7fd75986b4](https://linux-hardware.org/?probe=7fd75986b4) | Apr 28, 2021 |
@@ -1279,7 +1291,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | H81M-S2PV                   | [17b76de966](https://linux-hardware.org/?probe=17b76de966) | Apr 21, 2021 |
 | MSI           | H81M-E33                    | [d73f21e9c3](https://linux-hardware.org/?probe=d73f21e9c3) | Apr 21, 2021 |
 | ASUSTek       | TUF B350M-PLUS GAMING       | [671daf25c5](https://linux-hardware.org/?probe=671daf25c5) | Apr 21, 2021 |
-| Lenovo        | Board                       | [6983745c31](https://linux-hardware.org/?probe=6983745c31) | Apr 21, 2021 |
+| Lenovo        | ThinkCentre M91p 7033WE1    | [6983745c31](https://linux-hardware.org/?probe=6983745c31) | Apr 21, 2021 |
 | Dell          | 018D1Y A00                  | [71e1e3019c](https://linux-hardware.org/?probe=71e1e3019c) | Apr 21, 2021 |
 | Gigabyte      | G41M-Combo                  | [600ab598ef](https://linux-hardware.org/?probe=600ab598ef) | Apr 21, 2021 |
 | Fujitsu       | D3230-A1 S26361-D3230-A1    | [7b91ab27dd](https://linux-hardware.org/?probe=7b91ab27dd) | Apr 21, 2021 |
@@ -1311,7 +1323,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | GA-MA790XT-UD4P             | [9383f87d8a](https://linux-hardware.org/?probe=9383f87d8a) | Apr 15, 2021 |
 | Lenovo        | Dory CRB                    | [676ace5d71](https://linux-hardware.org/?probe=676ace5d71) | Apr 15, 2021 |
 | MSI           | 970 GAMING                  | [85147b76d4](https://linux-hardware.org/?probe=85147b76d4) | Apr 15, 2021 |
-| Intel         | H55 INTEL                   | [a5e4100a0a](https://linux-hardware.org/?probe=a5e4100a0a) | Apr 15, 2021 |
+| Intel         | H55                         | [a5e4100a0a](https://linux-hardware.org/?probe=a5e4100a0a) | Apr 15, 2021 |
 | ASRock        | FM2A58M-HD+ R2.0            | [9166558a28](https://linux-hardware.org/?probe=9166558a28) | Apr 15, 2021 |
 | MSI           | PRESTIGE X570 CREATION      | [26b69278f1](https://linux-hardware.org/?probe=26b69278f1) | Apr 14, 2021 |
 | Dell          | 09KPNV A00                  | [4fc6e5fa65](https://linux-hardware.org/?probe=4fc6e5fa65) | Apr 14, 2021 |
@@ -1345,7 +1357,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | Z170-D3H-CF                 | [6af96b8b4e](https://linux-hardware.org/?probe=6af96b8b4e) | Apr 10, 2021 |
 | Dell          | 0WMJ54 A01                  | [59c7b4d6ff](https://linux-hardware.org/?probe=59c7b4d6ff) | Apr 10, 2021 |
 | Dell          | 0GDG8Y A00                  | [652cc9bc89](https://linux-hardware.org/?probe=652cc9bc89) | Apr 10, 2021 |
-| Lenovo        | Board                       | [57e7329bf2](https://linux-hardware.org/?probe=57e7329bf2) | Apr 09, 2021 |
+| Lenovo        | ThinkCentre M58 7373WB7     | [57e7329bf2](https://linux-hardware.org/?probe=57e7329bf2) | Apr 09, 2021 |
 | Supermicro    | X9SRE/X9SRE-3F/X9SRi/X9S... | [f791c179a5](https://linux-hardware.org/?probe=f791c179a5) | Apr 09, 2021 |
 | Intel         | DP55WB AAE64798-205         | [c3484ad47c](https://linux-hardware.org/?probe=c3484ad47c) | Apr 09, 2021 |
 | Lenovo        | 0C48431 PRO                 | [168c88c35b](https://linux-hardware.org/?probe=168c88c35b) | Apr 08, 2021 |
@@ -1354,10 +1366,10 @@ OpenMandriva 4.2 - Test Cases
 | Medion        | B550A4-EM                   | [5ed240bcdd](https://linux-hardware.org/?probe=5ed240bcdd) | Apr 07, 2021 |
 | MSI           | MS-7360                     | [4fddba3fda](https://linux-hardware.org/?probe=4fddba3fda) | Apr 07, 2021 |
 | Gigabyte      | B550 GAMING X V2            | [fb80233da7](https://linux-hardware.org/?probe=fb80233da7) | Apr 07, 2021 |
-| ASUSTek       | TUF GAMING B450-PLUS II     | [10498e9d12](https://linux-hardware.org/?probe=10498e9d12) | Apr 07, 2021 |
+| ASUSTek       | TUF Gaming B450-PLUS II     | [10498e9d12](https://linux-hardware.org/?probe=10498e9d12) | Apr 07, 2021 |
 | ASUSTek       | SABERTOOTH 990FX R2.0       | [f061f1e474](https://linux-hardware.org/?probe=f061f1e474) | Apr 07, 2021 |
 | ASUSTek       | Maximus VI HERO             | [72e481dfa2](https://linux-hardware.org/?probe=72e481dfa2) | Apr 07, 2021 |
-| ASUSTek       | TUF GAMING X570-PLUS        | [b0530164f5](https://linux-hardware.org/?probe=b0530164f5) | Apr 06, 2021 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [b0530164f5](https://linux-hardware.org/?probe=b0530164f5) | Apr 06, 2021 |
 | ASUSTek       | ROG STRIX X570-E GAMING     | [200f5fc3d6](https://linux-hardware.org/?probe=200f5fc3d6) | Apr 06, 2021 |
 | ASUSTek       | PRIME A320M-K               | [251a492b82](https://linux-hardware.org/?probe=251a492b82) | Apr 06, 2021 |
 | ASUSTek       | P5Q                         | [ebd008d62f](https://linux-hardware.org/?probe=ebd008d62f) | Apr 06, 2021 |
@@ -1404,7 +1416,7 @@ OpenMandriva 4.2 - Test Cases
 | MSI           | H81M-E33                    | [e0909347c4](https://linux-hardware.org/?probe=e0909347c4) | Apr 01, 2021 |
 | ASUSTek       | PRIME N3060T                | [ca424e5a3d](https://linux-hardware.org/?probe=ca424e5a3d) | Mar 31, 2021 |
 | HP            | 8433 11                     | [e9742c8d9f](https://linux-hardware.org/?probe=e9742c8d9f) | Mar 31, 2021 |
-| Lenovo        | Board                       | [6e0ad0f342](https://linux-hardware.org/?probe=6e0ad0f342) | Mar 31, 2021 |
+| Lenovo        | ThinkCentre M71e 3157H2U    | [6e0ad0f342](https://linux-hardware.org/?probe=6e0ad0f342) | Mar 31, 2021 |
 | Gigabyte      | K8M800-8237                 | [a47db8ede5](https://linux-hardware.org/?probe=a47db8ede5) | Mar 31, 2021 |
 | ASUSTek       | B85-PLUS                    | [f6ac5358d0](https://linux-hardware.org/?probe=f6ac5358d0) | Mar 30, 2021 |
 | Gigabyte      | 970A-DS3P                   | [c1f8d5a818](https://linux-hardware.org/?probe=c1f8d5a818) | Mar 30, 2021 |
@@ -1580,7 +1592,7 @@ OpenMandriva 4.2 - Test Cases
 | HP            | 3047h                       | [b1eace383e](https://linux-hardware.org/?probe=b1eace383e) | Mar 11, 2021 |
 | Dell          | 0HY9JP A00                  | [7c50339008](https://linux-hardware.org/?probe=7c50339008) | Mar 10, 2021 |
 | MSI           | B75MA-E33                   | [e459ded47c](https://linux-hardware.org/?probe=e459ded47c) | Mar 10, 2021 |
-| Lenovo        | Board                       | [82a9fbf842](https://linux-hardware.org/?probe=82a9fbf842) | Mar 10, 2021 |
+| Lenovo        | ThinkCentre M58p 3285A1G    | [82a9fbf842](https://linux-hardware.org/?probe=82a9fbf842) | Mar 10, 2021 |
 | Huanan        | X99-F8                      | [3bbee45dc4](https://linux-hardware.org/?probe=3bbee45dc4) | Mar 10, 2021 |
 | ASUSTek       | H81M-PLUS                   | [f69b341120](https://linux-hardware.org/?probe=f69b341120) | Mar 09, 2021 |
 | ASUSTek       | M2N68-AM SE2                | [db45d26f2d](https://linux-hardware.org/?probe=db45d26f2d) | Mar 09, 2021 |
@@ -1659,7 +1671,7 @@ OpenMandriva 4.2 - Test Cases
 | Intel         | DG41RQ AAE54511-205         | [799bd82a1f](https://linux-hardware.org/?probe=799bd82a1f) | Mar 03, 2021 |
 | ASUSTek       | M5A78L-M/USB3               | [f8b4357520](https://linux-hardware.org/?probe=f8b4357520) | Mar 03, 2021 |
 | ASUSTek       | Z87-DELUXE                  | [a42c6fba38](https://linux-hardware.org/?probe=a42c6fba38) | Mar 03, 2021 |
-| Lenovo        | Board                       | [f895ed0873](https://linux-hardware.org/?probe=f895ed0873) | Mar 03, 2021 |
+| Lenovo        | ThinkCentre M70e 0833AL2    | [f895ed0873](https://linux-hardware.org/?probe=f895ed0873) | Mar 03, 2021 |
 | ASUSTek       | M32CD_A_F_K20CD_K31CD       | [9e852bf65f](https://linux-hardware.org/?probe=9e852bf65f) | Mar 02, 2021 |
 | Pegatron      | 2A94h                       | [b035a149a3](https://linux-hardware.org/?probe=b035a149a3) | Mar 02, 2021 |
 | ASUSTek       | B85-PLUS                    | [4cc8774bf3](https://linux-hardware.org/?probe=4cc8774bf3) | Mar 02, 2021 |
@@ -1689,7 +1701,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | G11CD                       | [00f5bdbdfb](https://linux-hardware.org/?probe=00f5bdbdfb) | Mar 01, 2021 |
 | ASUSTek       | B85M-G                      | [65a39ddc43](https://linux-hardware.org/?probe=65a39ddc43) | Mar 01, 2021 |
 | ASUSTek       | P8B75-M LX                  | [9fb20c11d3](https://linux-hardware.org/?probe=9fb20c11d3) | Mar 01, 2021 |
-| Casper        | CASPER NIRVANA DESKTOP 1    | [fe1eeed22d](https://linux-hardware.org/?probe=fe1eeed22d) | Mar 01, 2021 |
+| Casper        | NIRVANA DESKTOP 1           | [fe1eeed22d](https://linux-hardware.org/?probe=fe1eeed22d) | Mar 01, 2021 |
 | ASUSTek       | Z170-A                      | [1c477e6a87](https://linux-hardware.org/?probe=1c477e6a87) | Feb 28, 2021 |
 | Dell          | 0MGK50 A02                  | [2a9c7c67dc](https://linux-hardware.org/?probe=2a9c7c67dc) | Feb 28, 2021 |
 | Gigabyte      | H81M-HD3                    | [1eca782ae1](https://linux-hardware.org/?probe=1eca782ae1) | Feb 28, 2021 |
@@ -1713,7 +1725,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | PRIME X570-P                | [341cde83f2](https://linux-hardware.org/?probe=341cde83f2) | Feb 27, 2021 |
 | Dell          | 0T1D10 A01                  | [3577c78a56](https://linux-hardware.org/?probe=3577c78a56) | Feb 27, 2021 |
 | HP            | 1998                        | [43bd925171](https://linux-hardware.org/?probe=43bd925171) | Feb 27, 2021 |
-| Lenovo        | Board                       | [05a9547b85](https://linux-hardware.org/?probe=05a9547b85) | Feb 26, 2021 |
+| Lenovo        | ThinkCentre M58p 6234WAV    | [05a9547b85](https://linux-hardware.org/?probe=05a9547b85) | Feb 26, 2021 |
 | Gigabyte      | G31M-S2L                    | [c0301ac11d](https://linux-hardware.org/?probe=c0301ac11d) | Feb 26, 2021 |
 | Gigabyte      | EP35-DS3L                   | [fe9a1b7496](https://linux-hardware.org/?probe=fe9a1b7496) | Feb 26, 2021 |
 | Gigabyte      | B450 AORUS ELITE            | [94d8e7faa5](https://linux-hardware.org/?probe=94d8e7faa5) | Feb 26, 2021 |
@@ -1721,7 +1733,7 @@ OpenMandriva 4.2 - Test Cases
 | HP            | 3029h                       | [c1402e7026](https://linux-hardware.org/?probe=c1402e7026) | Feb 26, 2021 |
 | Biostar       | G31M+                       | [ef2a1747ae](https://linux-hardware.org/?probe=ef2a1747ae) | Feb 26, 2021 |
 | ASRock        | B450M-HDV                   | [e9e6224aba](https://linux-hardware.org/?probe=e9e6224aba) | Feb 26, 2021 |
-| LIVEFAN       | Board                       | [a95f919120](https://linux-hardware.org/?probe=a95f919120) | Feb 25, 2021 |
+| LIVEFAN       | Unknown                     | [a95f919120](https://linux-hardware.org/?probe=a95f919120) | Feb 25, 2021 |
 | ASUSTek       | ROG STRIX B550-A GAMING     | [029f25ca7b](https://linux-hardware.org/?probe=029f25ca7b) | Feb 25, 2021 |
 | ASUSTek       | M5A97 R2.0                  | [c52ad0d2fd](https://linux-hardware.org/?probe=c52ad0d2fd) | Feb 25, 2021 |
 | Gigabyte      | B460M AORUS PRO             | [4af3ce6a11](https://linux-hardware.org/?probe=4af3ce6a11) | Feb 25, 2021 |
@@ -1754,7 +1766,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | PRIME H310M-R R2.0          | [b9f01d9593](https://linux-hardware.org/?probe=b9f01d9593) | Feb 23, 2021 |
 | Acer          | Aspire M3920                | [a14c36aae7](https://linux-hardware.org/?probe=a14c36aae7) | Feb 23, 2021 |
 | ASUSTek       | P5K-VM                      | [39270c836f](https://linux-hardware.org/?probe=39270c836f) | Feb 23, 2021 |
-| Lenovo        | Board                       | [df374a38e5](https://linux-hardware.org/?probe=df374a38e5) | Feb 23, 2021 |
+| Lenovo        | ThinkCentre M71e 3134C3U    | [df374a38e5](https://linux-hardware.org/?probe=df374a38e5) | Feb 23, 2021 |
 | ASRock        | M3N78D                      | [c40a449681](https://linux-hardware.org/?probe=c40a449681) | Feb 23, 2021 |
 | HP            | 1494                        | [c369d28059](https://linux-hardware.org/?probe=c369d28059) | Feb 23, 2021 |
 | Dell          | 0C27VV A01                  | [d47c258b89](https://linux-hardware.org/?probe=d47c258b89) | Feb 22, 2021 |
@@ -1866,7 +1878,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | P8H61-M LE                  | [367abd019e](https://linux-hardware.org/?probe=367abd019e) | Feb 18, 2021 |
 | Gigabyte      | GA-MA770-UD3                | [83000197e3](https://linux-hardware.org/?probe=83000197e3) | Feb 18, 2021 |
 | Dell          | 0GDG8Y A00                  | [7080c165c4](https://linux-hardware.org/?probe=7080c165c4) | Feb 18, 2021 |
-| ASUSTek       | TUF GAMING X570-PLUS        | [9f4b4d9c63](https://linux-hardware.org/?probe=9f4b4d9c63) | Feb 18, 2021 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [9f4b4d9c63](https://linux-hardware.org/?probe=9f4b4d9c63) | Feb 18, 2021 |
 | ASRock        | 990FX Extreme3              | [e60ede799d](https://linux-hardware.org/?probe=e60ede799d) | Feb 18, 2021 |
 | ECS           | A780GM-A                    | [dc3479d75d](https://linux-hardware.org/?probe=dc3479d75d) | Feb 18, 2021 |
 | ASRock        | 970A-G                      | [47cd142b28](https://linux-hardware.org/?probe=47cd142b28) | Feb 18, 2021 |
@@ -1882,7 +1894,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | H81M-S1                     | [9f76940797](https://linux-hardware.org/?probe=9f76940797) | Feb 17, 2021 |
 | HP            | 2B60 MVB                    | [0330705a93](https://linux-hardware.org/?probe=0330705a93) | Feb 17, 2021 |
 | MSI           | B460M-A PRO                 | [e692ace041](https://linux-hardware.org/?probe=e692ace041) | Feb 17, 2021 |
-| Lenovo        | Board                       | [856c271a7e](https://linux-hardware.org/?probe=856c271a7e) | Feb 17, 2021 |
+| Lenovo        | ThinkCentre M91p 7033A2G    | [856c271a7e](https://linux-hardware.org/?probe=856c271a7e) | Feb 17, 2021 |
 | ASUSTek       | PRIME A320M-C R2.0          | [43febdf802](https://linux-hardware.org/?probe=43febdf802) | Feb 17, 2021 |
 | Dell          | 044NDP A00                  | [b28763e35a](https://linux-hardware.org/?probe=b28763e35a) | Feb 17, 2021 |
 | ASUSTek       | Z87M-PLUS                   | [d90fd08234](https://linux-hardware.org/?probe=d90fd08234) | Feb 17, 2021 |
@@ -1894,7 +1906,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | VM65-K                      | [4f0bcd1276](https://linux-hardware.org/?probe=4f0bcd1276) | Feb 17, 2021 |
 | Gigabyte      | Z77-D3H                     | [927d662923](https://linux-hardware.org/?probe=927d662923) | Feb 17, 2021 |
 | ASUSTek       | VM40B                       | [6c0bf22f39](https://linux-hardware.org/?probe=6c0bf22f39) | Feb 17, 2021 |
-| Lenovo        | Board                       | [a57355ac9b](https://linux-hardware.org/?probe=a57355ac9b) | Feb 17, 2021 |
+| Lenovo        | ThinkCentre M91 4518E4S     | [a57355ac9b](https://linux-hardware.org/?probe=a57355ac9b) | Feb 17, 2021 |
 | Gigabyte      | GA-78LMT-USB3               | [ab98b73d62](https://linux-hardware.org/?probe=ab98b73d62) | Feb 17, 2021 |
 | Fujitsu       | D3162-A1 S26361-D3162-A1    | [2ce3af7431](https://linux-hardware.org/?probe=2ce3af7431) | Feb 17, 2021 |
 | Foxconn       | G41MX/G41MX-K 2.0 1.0       | [b73a33497c](https://linux-hardware.org/?probe=b73a33497c) | Feb 17, 2021 |
@@ -1902,7 +1914,7 @@ OpenMandriva 4.2 - Test Cases
 | ASRock        | 990FX Killer                | [d1452b5b51](https://linux-hardware.org/?probe=d1452b5b51) | Feb 17, 2021 |
 | ASUSTek       | ROG STRIX Z390-F GAMING     | [4dce235be2](https://linux-hardware.org/?probe=4dce235be2) | Feb 17, 2021 |
 | HP            | 2B2C                        | [8c45c42df1](https://linux-hardware.org/?probe=8c45c42df1) | Feb 17, 2021 |
-| ASUSTek       | TUF GAMING X570-PLUS_BR     | [c4b7ce9a90](https://linux-hardware.org/?probe=c4b7ce9a90) | Feb 17, 2021 |
+| ASUSTek       | TUF Gaming X570-PLUS_BR     | [c4b7ce9a90](https://linux-hardware.org/?probe=c4b7ce9a90) | Feb 17, 2021 |
 | ASUSTek       | P8Z77-V PRO/THUNDERBOLT     | [d716bdd4fd](https://linux-hardware.org/?probe=d716bdd4fd) | Feb 17, 2021 |
 | ASUSTek       | P5B-E Plus                  | [74cd5585e4](https://linux-hardware.org/?probe=74cd5585e4) | Feb 17, 2021 |
 | MSI           | Z370 GAMING M5              | [b8a1cae0de](https://linux-hardware.org/?probe=b8a1cae0de) | Feb 17, 2021 |
@@ -1921,7 +1933,7 @@ OpenMandriva 4.2 - Test Cases
 | Acer          | Predator G3-605             | [f1a8ae2c26](https://linux-hardware.org/?probe=f1a8ae2c26) | Feb 17, 2021 |
 | Gigabyte      | B450M DS3H-CF               | [345a062971](https://linux-hardware.org/?probe=345a062971) | Feb 17, 2021 |
 | ECS           | Nettle3                     | [fb2a315c43](https://linux-hardware.org/?probe=fb2a315c43) | Feb 16, 2021 |
-| Lenovo        | Board                       | [7f54c3475f](https://linux-hardware.org/?probe=7f54c3475f) | Feb 16, 2021 |
+| Lenovo        | ThinkCentre M58p 7479AF7    | [7f54c3475f](https://linux-hardware.org/?probe=7f54c3475f) | Feb 16, 2021 |
 | ASUSTek       | P8H61-M LX                  | [0f5221a11b](https://linux-hardware.org/?probe=0f5221a11b) | Feb 16, 2021 |
 | Dell          | 0DFRFW A01                  | [71a10bba93](https://linux-hardware.org/?probe=71a10bba93) | Feb 16, 2021 |
 | ASUSTek       | P8H61-M LX3                 | [613c8a1900](https://linux-hardware.org/?probe=613c8a1900) | Feb 16, 2021 |
@@ -1941,7 +1953,7 @@ OpenMandriva 4.2 - Test Cases
 | HP            | 845A                        | [9e9db37079](https://linux-hardware.org/?probe=9e9db37079) | Feb 16, 2021 |
 | Gigabyte      | 990XA-UD3                   | [1b7882d331](https://linux-hardware.org/?probe=1b7882d331) | Feb 16, 2021 |
 | ASUSTek       | P8H77-V LE                  | [7f15f19a9b](https://linux-hardware.org/?probe=7f15f19a9b) | Feb 16, 2021 |
-| Intel         | H55 INTEL                   | [f5d64f432c](https://linux-hardware.org/?probe=f5d64f432c) | Feb 16, 2021 |
+| Intel         | H55                         | [f5d64f432c](https://linux-hardware.org/?probe=f5d64f432c) | Feb 16, 2021 |
 | ASRock        | H61M-HG4                    | [a13c61d4d2](https://linux-hardware.org/?probe=a13c61d4d2) | Feb 16, 2021 |
 | Gigabyte      | G31M-S2L                    | [28e9f55296](https://linux-hardware.org/?probe=28e9f55296) | Feb 16, 2021 |
 | MSI           | B85M-G43                    | [78c8425747](https://linux-hardware.org/?probe=78c8425747) | Feb 16, 2021 |
@@ -1952,8 +1964,8 @@ OpenMandriva 4.2 - Test Cases
 | HP            | 3397                        | [ba21eb1e9b](https://linux-hardware.org/?probe=ba21eb1e9b) | Feb 16, 2021 |
 | ASRock        | A88M-G                      | [130d73daed](https://linux-hardware.org/?probe=130d73daed) | Feb 16, 2021 |
 | ASUSTek       | PRIME A320M-K               | [388c283a3d](https://linux-hardware.org/?probe=388c283a3d) | Feb 16, 2021 |
-| Lenovo        | Board                       | [c00914fcfe](https://linux-hardware.org/?probe=c00914fcfe) | Feb 16, 2021 |
-| Packard Be... | imedia S1300                | [63b7117a72](https://linux-hardware.org/?probe=63b7117a72) | Feb 16, 2021 |
+| Lenovo        | ThinkCentre M58p 6234DJ1    | [c00914fcfe](https://linux-hardware.org/?probe=c00914fcfe) | Feb 16, 2021 |
+| Packard Be... | IMEDIA S1300                | [63b7117a72](https://linux-hardware.org/?probe=63b7117a72) | Feb 16, 2021 |
 | MSI           | H81M-E34                    | [79e5bf9034](https://linux-hardware.org/?probe=79e5bf9034) | Feb 16, 2021 |
 | HP            | 3646h                       | [5ab0630d12](https://linux-hardware.org/?probe=5ab0630d12) | Feb 16, 2021 |
 | ASUSTek       | P8Z68-V PRO GEN3            | [50a296ab73](https://linux-hardware.org/?probe=50a296ab73) | Feb 16, 2021 |
@@ -1963,7 +1975,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | H61M-S2P                    | [93bf0c5ca7](https://linux-hardware.org/?probe=93bf0c5ca7) | Feb 16, 2021 |
 | Dell          | 0TVR1F A01                  | [cc737eba14](https://linux-hardware.org/?probe=cc737eba14) | Feb 16, 2021 |
 | MSI           | A88X-G45 GAMING             | [05d5a888d4](https://linux-hardware.org/?probe=05d5a888d4) | Feb 16, 2021 |
-| ASUSTek       | TUF GAMING X570-PLUS        | [cd896e34fc](https://linux-hardware.org/?probe=cd896e34fc) | Feb 16, 2021 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [cd896e34fc](https://linux-hardware.org/?probe=cd896e34fc) | Feb 16, 2021 |
 | HP            | 3031h                       | [05d6f9c869](https://linux-hardware.org/?probe=05d6f9c869) | Feb 16, 2021 |
 | ASUSTek       | M5A78L-M PLUS/USB3          | [2a34d7c2e6](https://linux-hardware.org/?probe=2a34d7c2e6) | Feb 16, 2021 |
 | Biostar       | H81MHV3                     | [dd2f04f1ee](https://linux-hardware.org/?probe=dd2f04f1ee) | Feb 16, 2021 |
@@ -1983,7 +1995,7 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | P8H61-MX                    | [ab353c0e7e](https://linux-hardware.org/?probe=ab353c0e7e) | Feb 15, 2021 |
 | Gigabyte      | X570 AORUS ELITE            | [14acba97fd](https://linux-hardware.org/?probe=14acba97fd) | Feb 15, 2021 |
 | ASUSTek       | SABERTOOTH 990FX R2.0       | [6f51b530bd](https://linux-hardware.org/?probe=6f51b530bd) | Feb 15, 2021 |
-| Lenovo        | Board                       | [87a77f0fa3](https://linux-hardware.org/?probe=87a77f0fa3) | Feb 15, 2021 |
+| Lenovo        | ThinkCentre M72e 3598B44    | [87a77f0fa3](https://linux-hardware.org/?probe=87a77f0fa3) | Feb 15, 2021 |
 | Gigabyte      | A320M-HD2-CF                | [4587ba7aff](https://linux-hardware.org/?probe=4587ba7aff) | Feb 15, 2021 |
 | MSI           | MS-7267                     | [b987c1ad14](https://linux-hardware.org/?probe=b987c1ad14) | Feb 15, 2021 |
 | MSI           | MPG B550 GAMING CARBON W... | [e2586980c6](https://linux-hardware.org/?probe=e2586980c6) | Feb 15, 2021 |
@@ -2008,7 +2020,7 @@ OpenMandriva 4.2 - Test Cases
 | Gigabyte      | Z170M-D3H-CF                | [e8f2857b0a](https://linux-hardware.org/?probe=e8f2857b0a) | Feb 15, 2021 |
 | Gateway       | IPISB-VR                    | [34ac07f88c](https://linux-hardware.org/?probe=34ac07f88c) | Feb 15, 2021 |
 | Gigabyte      | G41MT-S2PT                  | [7b39e6bd46](https://linux-hardware.org/?probe=7b39e6bd46) | Feb 15, 2021 |
-| Lenovo        | Board                       | [b0cc1d5047](https://linux-hardware.org/?probe=b0cc1d5047) | Feb 15, 2021 |
+| Lenovo        | ThinkCentre M58e 7307AR8    | [b0cc1d5047](https://linux-hardware.org/?probe=b0cc1d5047) | Feb 15, 2021 |
 | Gigabyte      | GA-MA785GM-US2H             | [7378ccd14c](https://linux-hardware.org/?probe=7378ccd14c) | Feb 15, 2021 |
 | Gigabyte      | B85M-D2V-SI                 | [a0779807a2](https://linux-hardware.org/?probe=a0779807a2) | Feb 15, 2021 |
 | HP            | 0A64h                       | [783ae68bbc](https://linux-hardware.org/?probe=783ae68bbc) | Feb 15, 2021 |
@@ -2150,12 +2162,12 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | P5Q                         | [a9bc15b309](https://linux-hardware.org/?probe=a9bc15b309) | Feb 13, 2021 |
 | Dell          | 0P301D A02                  | [478789c1ce](https://linux-hardware.org/?probe=478789c1ce) | Feb 13, 2021 |
 | ASUSTek       | M5A78L-M LX/BR              | [013d17bfbe](https://linux-hardware.org/?probe=013d17bfbe) | Feb 13, 2021 |
-| Lenovo        | Board                       | [634bd29e96](https://linux-hardware.org/?probe=634bd29e96) | Feb 13, 2021 |
+| Lenovo        | ThinkCentre M57 6075G4G     | [634bd29e96](https://linux-hardware.org/?probe=634bd29e96) | Feb 13, 2021 |
 | Foxconn       | 2ADA                        | [e331704c31](https://linux-hardware.org/?probe=e331704c31) | Feb 13, 2021 |
 | ASUSTek       | TUF X470-PLUS GAMING        | [f0591914c5](https://linux-hardware.org/?probe=f0591914c5) | Feb 13, 2021 |
 | HP            | 1998                        | [c415742b9e](https://linux-hardware.org/?probe=c415742b9e) | Feb 13, 2021 |
 | ASRock        | 880GM-LE FX                 | [b044dbde27](https://linux-hardware.org/?probe=b044dbde27) | Feb 13, 2021 |
-| ASUSTek       | TUF GAMING B550-PLUS        | [6969353956](https://linux-hardware.org/?probe=6969353956) | Feb 13, 2021 |
+| ASUSTek       | TUF Gaming B550-PLUS        | [6969353956](https://linux-hardware.org/?probe=6969353956) | Feb 13, 2021 |
 | HP            | 339A                        | [28d7d73e86](https://linux-hardware.org/?probe=28d7d73e86) | Feb 13, 2021 |
 | Biostar       | X470NH                      | [b4ae665275](https://linux-hardware.org/?probe=b4ae665275) | Feb 13, 2021 |
 | MSI           | A320M PRO-VD/S              | [cfb6d7e271](https://linux-hardware.org/?probe=cfb6d7e271) | Feb 13, 2021 |
@@ -2165,7 +2177,7 @@ OpenMandriva 4.2 - Test Cases
 | HP            | 8434 11                     | [61c3e3852a](https://linux-hardware.org/?probe=61c3e3852a) | Feb 13, 2021 |
 | Gigabyte      | 970A-DS3P                   | [bdecca84fa](https://linux-hardware.org/?probe=bdecca84fa) | Feb 13, 2021 |
 | Dell          | 0H8052                      | [d8d0898e8c](https://linux-hardware.org/?probe=d8d0898e8c) | Feb 13, 2021 |
-| ASUSTek       | TUF GAMING X570-PLUS        | [23ecc9c16e](https://linux-hardware.org/?probe=23ecc9c16e) | Feb 13, 2021 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [23ecc9c16e](https://linux-hardware.org/?probe=23ecc9c16e) | Feb 13, 2021 |
 | Dell          | 0MGK50 A01                  | [9e95b96d22](https://linux-hardware.org/?probe=9e95b96d22) | Feb 13, 2021 |
 | MSI           | B450-A PRO MAX              | [847afbdecd](https://linux-hardware.org/?probe=847afbdecd) | Feb 13, 2021 |
 | ASUSTek       | P8H67-V                     | [271ddfba55](https://linux-hardware.org/?probe=271ddfba55) | Feb 13, 2021 |
@@ -2189,7 +2201,7 @@ OpenMandriva 4.2 - Test Cases
 | Medion        | MS-7728                     | [d0402ddbf8](https://linux-hardware.org/?probe=d0402ddbf8) | Feb 13, 2021 |
 | Gigabyte      | X470 AORUS GAMING 7 WIFI... | [5357a43f8b](https://linux-hardware.org/?probe=5357a43f8b) | Feb 13, 2021 |
 | Intel         | DZ75ML-45K AAG75008-102     | [766f49163c](https://linux-hardware.org/?probe=766f49163c) | Feb 13, 2021 |
-| Dell          | OptiPlex GX620              | [d6748871e7](https://linux-hardware.org/?probe=d6748871e7) | Feb 13, 2021 |
+| Dell          | 0F8096                      | [d6748871e7](https://linux-hardware.org/?probe=d6748871e7) | Feb 13, 2021 |
 | ASUSTek       | M11AD                       | [20f79fd732](https://linux-hardware.org/?probe=20f79fd732) | Feb 13, 2021 |
 | Dell          | 0N826N A03                  | [a6d1088895](https://linux-hardware.org/?probe=a6d1088895) | Feb 13, 2021 |
 | Gigabyte      | GA-MA790XT-UD4P             | [0ebedefc78](https://linux-hardware.org/?probe=0ebedefc78) | Feb 13, 2021 |
@@ -2220,26 +2232,24 @@ OpenMandriva 4.2 - Test Cases
 | ASUSTek       | H110M-K                     | [93e2887ee4](https://linux-hardware.org/?probe=93e2887ee4) | Feb 13, 2021 |
 | Gigabyte      | H67MA-USB3-B3               | [bd0fcefe9f](https://linux-hardware.org/?probe=bd0fcefe9f) | Feb 13, 2021 |
 | ASUSTek       | PRIME B350-PLUS             | [8187617dc6](https://linux-hardware.org/?probe=8187617dc6) | Feb 13, 2021 |
+| HP            | 18E6                        | [3ac0a6e0d1](https://linux-hardware.org/?probe=3ac0a6e0d1) | Feb 13, 2021 |
 | Supermicro    | H8SMI                       | [fca930ae99](https://linux-hardware.org/?probe=fca930ae99) | Feb 13, 2021 |
 | PCWare        | IPMH61R1                    | [0886282c12](https://linux-hardware.org/?probe=0886282c12) | Feb 13, 2021 |
 | Intel         | DH61CR AAG14064-204         | [3785afcc75](https://linux-hardware.org/?probe=3785afcc75) | Feb 13, 2021 |
 | Gigabyte      | P41T-D3P                    | [bbeb28eda5](https://linux-hardware.org/?probe=bbeb28eda5) | Feb 13, 2021 |
 | HP            | 3048h                       | [2c055ef572](https://linux-hardware.org/?probe=2c055ef572) | Feb 13, 2021 |
-| Lenovo        | Board                       | [b26c381be4](https://linux-hardware.org/?probe=b26c381be4) | Feb 13, 2021 |
+| Lenovo        | ThinkCentre A55 926503U     | [b26c381be4](https://linux-hardware.org/?probe=b26c381be4) | Feb 13, 2021 |
 | ASRock        | A320M-HDV R4.0              | [f9baed0a61](https://linux-hardware.org/?probe=f9baed0a61) | Feb 13, 2021 |
 | Fujitsu       | D3011-A1 S26361-D3011-A1    | [aadc2b1f61](https://linux-hardware.org/?probe=aadc2b1f61) | Feb 09, 2021 |
 | ASRock        | H81M-DGS R2.0               | [d02448fddf](https://linux-hardware.org/?probe=d02448fddf) | Feb 08, 2021 |
 | ASRock        | H81M-DGS R2.0               | [062114a51e](https://linux-hardware.org/?probe=062114a51e) | Feb 08, 2021 |
 | ASRock        | X570 Phantom Gaming 4 Wi... | [5366a7f32a](https://linux-hardware.org/?probe=5366a7f32a) | Feb 08, 2021 |
-| ASRock        | X570 Phantom Gaming 4 Wi... | [b890a5806b](https://linux-hardware.org/?probe=b890a5806b) | Feb 08, 2021 |
 | ASUSTek       | P8Z77-V                     | [d165244f3b](https://linux-hardware.org/?probe=d165244f3b) | Feb 07, 2021 |
 | Fujitsu       | D3011-A1 S26361-D3011-A1    | [4a97f0b328](https://linux-hardware.org/?probe=4a97f0b328) | Feb 06, 2021 |
 | ASRock        | A320M-HDV R3.0              | [698b1c6ea7](https://linux-hardware.org/?probe=698b1c6ea7) | Feb 05, 2021 |
 | Lenovo        | SHARKBAY 0B98401 WIN        | [3cb6ed97a9](https://linux-hardware.org/?probe=3cb6ed97a9) | Jan 22, 2021 |
 | Gigabyte      | GA-MA770T-UD3P              | [b48c163a55](https://linux-hardware.org/?probe=b48c163a55) | Jan 17, 2021 |
-| ASRock        | X570 Phantom Gaming 4 Wi... | [cc2ffef4ac](https://linux-hardware.org/?probe=cc2ffef4ac) | Jan 16, 2021 |
 | Gigabyte      | GA-MA770T-UD3P              | [893a38628c](https://linux-hardware.org/?probe=893a38628c) | Jan 15, 2021 |
 | Gigabyte      | X58A-UD3R                   | [17344d5408](https://linux-hardware.org/?probe=17344d5408) | Jan 04, 2021 |
-| ASRock        | X570 Phantom Gaming 4 Wi... | [46df832caf](https://linux-hardware.org/?probe=46df832caf) | Dec 07, 2020 |
 | ASRock        | X570 Phantom Gaming 4 Wi... | [1e34395780](https://linux-hardware.org/?probe=1e34395780) | Oct 07, 2020 |
 

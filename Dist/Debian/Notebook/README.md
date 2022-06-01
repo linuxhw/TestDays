@@ -155,10 +155,184 @@ Contents
 Test Cases
 ----------
 
-Total: 4587
+Total: 4386
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell          | Inspiron 5749               | [408e42beb8](https://linux-hardware.org/?probe=408e42beb8) | Jun 01, 2022 |
+| Lenovo        | ThinkPad T440s 20AQ008FU... | [3b5255ec2c](https://linux-hardware.org/?probe=3b5255ec2c) | Jun 01, 2022 |
+| Dell          | Latitude E6400              | [85d314bfd8](https://linux-hardware.org/?probe=85d314bfd8) | May 31, 2022 |
+| Aquarius      | NS585                       | [44bd30c95d](https://linux-hardware.org/?probe=44bd30c95d) | May 31, 2022 |
+| Aquarius      | NS585                       | [2a7545f0f9](https://linux-hardware.org/?probe=2a7545f0f9) | May 31, 2022 |
+| Aquarius      | NS585                       | [12e45f7665](https://linux-hardware.org/?probe=12e45f7665) | May 31, 2022 |
+| Aquarius      | NS585                       | [c420e4cafb](https://linux-hardware.org/?probe=c420e4cafb) | May 31, 2022 |
+| Aquarius      | NS585                       | [e562931a35](https://linux-hardware.org/?probe=e562931a35) | May 31, 2022 |
+| Aquarius      | NS585                       | [26a3362040](https://linux-hardware.org/?probe=26a3362040) | May 31, 2022 |
+| Aquarius      | NS585                       | [51595712dd](https://linux-hardware.org/?probe=51595712dd) | May 31, 2022 |
+| Aquarius      | NS585                       | [0d31fa737e](https://linux-hardware.org/?probe=0d31fa737e) | May 31, 2022 |
+| Aquarius      | NS585                       | [6e5a613444](https://linux-hardware.org/?probe=6e5a613444) | May 31, 2022 |
+| Aquarius      | NS585                       | [7744e6a785](https://linux-hardware.org/?probe=7744e6a785) | May 31, 2022 |
+| Aquarius      | NS585                       | [828c791c7c](https://linux-hardware.org/?probe=828c791c7c) | May 31, 2022 |
+| Aquarius      | NS585                       | [ff8ca3e68b](https://linux-hardware.org/?probe=ff8ca3e68b) | May 31, 2022 |
+| Aquarius      | NS585                       | [dbbe2e1b71](https://linux-hardware.org/?probe=dbbe2e1b71) | May 31, 2022 |
+| Aquarius      | NS585                       | [099918e5b2](https://linux-hardware.org/?probe=099918e5b2) | May 31, 2022 |
+| Aquarius      | NS585                       | [bdcf61dc44](https://linux-hardware.org/?probe=bdcf61dc44) | May 31, 2022 |
+| Aquarius      | NS585                       | [3693e77fee](https://linux-hardware.org/?probe=3693e77fee) | May 31, 2022 |
+| Aquarius      | NS585                       | [e41a23ba31](https://linux-hardware.org/?probe=e41a23ba31) | May 31, 2022 |
+| Aquarius      | NS585                       | [a8aa698844](https://linux-hardware.org/?probe=a8aa698844) | May 31, 2022 |
+| Dell          | Latitude E6400              | [f5ae9fef9c](https://linux-hardware.org/?probe=f5ae9fef9c) | May 31, 2022 |
+| Aquarius      | NS585                       | [f0c6dbeb87](https://linux-hardware.org/?probe=f0c6dbeb87) | May 31, 2022 |
+| Aquarius      | NS585                       | [ff453a32b6](https://linux-hardware.org/?probe=ff453a32b6) | May 31, 2022 |
+| Aquarius      | NS585                       | [1ed72b7951](https://linux-hardware.org/?probe=1ed72b7951) | May 31, 2022 |
+| Aquarius      | NS585                       | [222ff0011e](https://linux-hardware.org/?probe=222ff0011e) | May 31, 2022 |
+| Acer          | Aspire T5000                | [55aaebdab5](https://linux-hardware.org/?probe=55aaebdab5) | May 31, 2022 |
+| Acer          | Aspire T5000                | [7bdeb5fb3b](https://linux-hardware.org/?probe=7bdeb5fb3b) | May 31, 2022 |
+| Alienware     | 15 R2                       | [776abe61ea](https://linux-hardware.org/?probe=776abe61ea) | May 31, 2022 |
+| Acer          | Aspire E5-575G              | [7c44163245](https://linux-hardware.org/?probe=7c44163245) | May 31, 2022 |
+| SANTECH       | NHx0DB,DE                   | [f3444e62bb](https://linux-hardware.org/?probe=f3444e62bb) | May 30, 2022 |
+| SANTECH       | NHx0DB,DE                   | [4fbdcfe44b](https://linux-hardware.org/?probe=4fbdcfe44b) | May 30, 2022 |
+| ASUSTek       | ROG Strix G713IH_G713IH     | [883f055fb1](https://linux-hardware.org/?probe=883f055fb1) | May 30, 2022 |
+| ASUSTek       | ROG Strix G713IH_G713IH     | [e475b560cf](https://linux-hardware.org/?probe=e475b560cf) | May 30, 2022 |
+| Lenovo        | ThinkPad X1 Carbon 6th 2... | [e72ac27af1](https://linux-hardware.org/?probe=e72ac27af1) | May 30, 2022 |
+| Notebook      | W65_67SJ                    | [2f6d77befb](https://linux-hardware.org/?probe=2f6d77befb) | May 29, 2022 |
+| Lenovo        | ThinkPad W500 4061W8H       | [db9160e089](https://linux-hardware.org/?probe=db9160e089) | May 29, 2022 |
+| Dell          | Vostro 3546                 | [3acd5d4cb0](https://linux-hardware.org/?probe=3acd5d4cb0) | May 28, 2022 |
+| ASUSTek       | 900                         | [e50c30c38d](https://linux-hardware.org/?probe=e50c30c38d) | May 28, 2022 |
+| ASUSTek       | 900                         | [dfd6af657c](https://linux-hardware.org/?probe=dfd6af657c) | May 28, 2022 |
+| Dell          | Vostro 5490                 | [56ffa50c5b](https://linux-hardware.org/?probe=56ffa50c5b) | May 28, 2022 |
+| Lenovo        | ThinkPad P14s Gen 1 20Y1... | [24fc1b394e](https://linux-hardware.org/?probe=24fc1b394e) | May 27, 2022 |
+| HP            | Notebook                    | [9900044e89](https://linux-hardware.org/?probe=9900044e89) | May 27, 2022 |
+| HP            | 255 G8 Notebook PC          | [9430147fab](https://linux-hardware.org/?probe=9430147fab) | May 27, 2022 |
+| Lenovo        | ThinkPad X1 Carbon Gen 9... | [d2581e2c05](https://linux-hardware.org/?probe=d2581e2c05) | May 27, 2022 |
+| MSI           | Katana GF66 11UD            | [f3ee20f625](https://linux-hardware.org/?probe=f3ee20f625) | May 27, 2022 |
+| HP            | Pavilion g6                 | [0e98027e39](https://linux-hardware.org/?probe=0e98027e39) | May 26, 2022 |
+| Dell          | Latitude 3520               | [6c5618416d](https://linux-hardware.org/?probe=6c5618416d) | May 26, 2022 |
+| ASUSTek       | K43E                        | [968007a0a9](https://linux-hardware.org/?probe=968007a0a9) | May 26, 2022 |
+| Lenovo        | ThinkPad T490 20N2000LMZ    | [9ebff03a43](https://linux-hardware.org/?probe=9ebff03a43) | May 26, 2022 |
+| Dell          | Inspiron 1420               | [4ca4bb715c](https://linux-hardware.org/?probe=4ca4bb715c) | May 26, 2022 |
+| Lenovo        | ThinkPad T490 20N2000LMZ    | [cc80808aea](https://linux-hardware.org/?probe=cc80808aea) | May 26, 2022 |
+| ASUSTek       | ASUS EXPERTBOOK B9400CEA... | [f5488ccb22](https://linux-hardware.org/?probe=f5488ccb22) | May 26, 2022 |
+| Lenovo        | ThinkPad P15 Gen 1 20SUS... | [75063d8f18](https://linux-hardware.org/?probe=75063d8f18) | May 26, 2022 |
+| Lenovo        | ThinkPad P15 Gen 1 20SUS... | [0d1ba4ee73](https://linux-hardware.org/?probe=0d1ba4ee73) | May 26, 2022 |
+| Lenovo        | V145-15AST 81MT             | [86f00d534a](https://linux-hardware.org/?probe=86f00d534a) | May 26, 2022 |
+| Lenovo        | IdeaPad Slim 1-14AST-05 ... | [0f450fb6e0](https://linux-hardware.org/?probe=0f450fb6e0) | May 26, 2022 |
+| Lenovo        | V145-15AST 81MT             | [3929f17532](https://linux-hardware.org/?probe=3929f17532) | May 26, 2022 |
+| Samsung       | 350V5C/351V5C/3540VC/344... | [29b8def5b3](https://linux-hardware.org/?probe=29b8def5b3) | May 25, 2022 |
+| Apple         | MacBookPro15,2              | [c0fe1740e0](https://linux-hardware.org/?probe=c0fe1740e0) | May 25, 2022 |
+| Dell          | Latitude 5310               | [2117fbfccb](https://linux-hardware.org/?probe=2117fbfccb) | May 25, 2022 |
+| Acer          | Aspire A715-42G             | [b343d4e9b9](https://linux-hardware.org/?probe=b343d4e9b9) | May 25, 2022 |
+| Acer          | Aspire A715-42G             | [89a48429dc](https://linux-hardware.org/?probe=89a48429dc) | May 25, 2022 |
+| Acer          | Aspire A315-23              | [dd46d19f05](https://linux-hardware.org/?probe=dd46d19f05) | May 25, 2022 |
+| MSI           | GP62MVR 6RF                 | [1dd5741ea8](https://linux-hardware.org/?probe=1dd5741ea8) | May 25, 2022 |
+| ASUSTek       | K52F                        | [601b1c4857](https://linux-hardware.org/?probe=601b1c4857) | May 25, 2022 |
+| Dell          | Inspiron 3543               | [c48c32ae19](https://linux-hardware.org/?probe=c48c32ae19) | May 25, 2022 |
+| Acer          | Nitro AN515-42              | [c755d907ca](https://linux-hardware.org/?probe=c755d907ca) | May 24, 2022 |
+| Dell          | Latitude 5310               | [cb40714b3f](https://linux-hardware.org/?probe=cb40714b3f) | May 24, 2022 |
+| Dell          | Latitude 5300               | [b2e8f91f15](https://linux-hardware.org/?probe=b2e8f91f15) | May 24, 2022 |
+| Dell          | XPS 13 9360                 | [41f966f459](https://linux-hardware.org/?probe=41f966f459) | May 24, 2022 |
+| Dell          | Latitude E5570              | [310aadd79a](https://linux-hardware.org/?probe=310aadd79a) | May 24, 2022 |
+| HUAWEI        | BOHB-WAX9                   | [64a3f31676](https://linux-hardware.org/?probe=64a3f31676) | May 23, 2022 |
+| MSI           | Prestige 14Evo A11M         | [166b6b7ac3](https://linux-hardware.org/?probe=166b6b7ac3) | May 23, 2022 |
+| Lenovo        | ThinkPad X1 Extreme 20MF... | [1d8684d1f5](https://linux-hardware.org/?probe=1d8684d1f5) | May 23, 2022 |
+| ASUSTek       | F50SL                       | [7d588b102d](https://linux-hardware.org/?probe=7d588b102d) | May 23, 2022 |
+| Dell          | Latitude 3120               | [e97cf58459](https://linux-hardware.org/?probe=e97cf58459) | May 23, 2022 |
+| Samsung       | SR70S/SR71S                 | [53642077bd](https://linux-hardware.org/?probe=53642077bd) | May 23, 2022 |
+| Google        | Glimmer                     | [f16458e3ea](https://linux-hardware.org/?probe=f16458e3ea) | May 22, 2022 |
+| LG Electro... | A410-G.BC48P1               | [fb2344f915](https://linux-hardware.org/?probe=fb2344f915) | May 22, 2022 |
+| Lenovo        | ThinkPad T450s 20BXCTO1W... | [c1b20c63e0](https://linux-hardware.org/?probe=c1b20c63e0) | May 22, 2022 |
+| TUXEDO        | Unknown                     | [487d75fce7](https://linux-hardware.org/?probe=487d75fce7) | May 21, 2022 |
+| Dell          | Inspiron 1545               | [890010e793](https://linux-hardware.org/?probe=890010e793) | May 21, 2022 |
+| ASUSTek       | 900                         | [082b51aa29](https://linux-hardware.org/?probe=082b51aa29) | May 21, 2022 |
+| Lenovo        | ThinkPad E550 20DF002YUS    | [fe9f7989ef](https://linux-hardware.org/?probe=fe9f7989ef) | May 21, 2022 |
+| Lenovo        | Legion 5 15ACH6H 82JU       | [c273310228](https://linux-hardware.org/?probe=c273310228) | May 20, 2022 |
+| HP            | 250 G3                      | [463622ad88](https://linux-hardware.org/?probe=463622ad88) | May 20, 2022 |
+| ASUSTek       | UX330UAK                    | [7b50efe523](https://linux-hardware.org/?probe=7b50efe523) | May 19, 2022 |
+| Lenovo        | ThinkPad E14 Gen 2 20TA0... | [2972e28673](https://linux-hardware.org/?probe=2972e28673) | May 19, 2022 |
+| Dell          | Latitude E4310              | [79cda1608c](https://linux-hardware.org/?probe=79cda1608c) | May 19, 2022 |
+| System76      | Kudu                        | [78ce5e3b3e](https://linux-hardware.org/?probe=78ce5e3b3e) | May 19, 2022 |
+| Acer          | Aspire 5750                 | [4c6bbffcae](https://linux-hardware.org/?probe=4c6bbffcae) | May 17, 2022 |
+| ASUSTek       | VivoBook 15_ASUS Laptop ... | [61e58bea6c](https://linux-hardware.org/?probe=61e58bea6c) | May 17, 2022 |
+| HP            | ProBook 4720s               | [887ea9cd89](https://linux-hardware.org/?probe=887ea9cd89) | May 16, 2022 |
+| Lenovo        | V145-15AST 81MT             | [486b786e45](https://linux-hardware.org/?probe=486b786e45) | May 16, 2022 |
+| HP            | ProBook 4720s               | [09bb5a5088](https://linux-hardware.org/?probe=09bb5a5088) | May 16, 2022 |
+| HP            | EliteBook 820 G1            | [f06eee580b](https://linux-hardware.org/?probe=f06eee580b) | May 16, 2022 |
+| Dell          | Precision 3551              | [f134f92d00](https://linux-hardware.org/?probe=f134f92d00) | May 16, 2022 |
+| HP            | ProBook 6470b               | [9cdf33bcc1](https://linux-hardware.org/?probe=9cdf33bcc1) | May 16, 2022 |
+| Dell          | Precision M4400             | [d0d09df553](https://linux-hardware.org/?probe=d0d09df553) | May 15, 2022 |
+| ASUSTek       | X550LD                      | [75c6734097](https://linux-hardware.org/?probe=75c6734097) | May 15, 2022 |
+| Dell          | Precision M4400             | [96af5a9104](https://linux-hardware.org/?probe=96af5a9104) | May 15, 2022 |
+| HP            | Laptop 15-bs0xx             | [9445ab07bf](https://linux-hardware.org/?probe=9445ab07bf) | May 15, 2022 |
+| Lenovo        | ThinkPad W520 4284D47       | [f0fef230c2](https://linux-hardware.org/?probe=f0fef230c2) | May 15, 2022 |
+| Lenovo        | ThinkPad W520 4284D47       | [2f0e46cc27](https://linux-hardware.org/?probe=2f0e46cc27) | May 15, 2022 |
+| Lenovo        | ThinkPad X260 20F5S4C000    | [66fe039d1a](https://linux-hardware.org/?probe=66fe039d1a) | May 14, 2022 |
+| Dell          | MXG061                      | [36b09ae01e](https://linux-hardware.org/?probe=36b09ae01e) | May 14, 2022 |
+| Lenovo        | ThinkPad X1 Carbon 4th 2... | [3f84f4220e](https://linux-hardware.org/?probe=3f84f4220e) | May 14, 2022 |
+| Lenovo        | ThinkPad X260 20F5S4C000    | [96693754dd](https://linux-hardware.org/?probe=96693754dd) | May 14, 2022 |
+| Lenovo        | ThinkPad T14 Gen 1 20UDC... | [d8cfc5384f](https://linux-hardware.org/?probe=d8cfc5384f) | May 13, 2022 |
+| Dell          | System Inspiron N7110       | [f397801c5f](https://linux-hardware.org/?probe=f397801c5f) | May 13, 2022 |
+| Lenovo        | ThinkPad T14 Gen 1 20S1S... | [8866f1fd7c](https://linux-hardware.org/?probe=8866f1fd7c) | May 13, 2022 |
+| Lenovo        | ThinkPad T14 Gen 1 20S1S... | [76a04f4e4e](https://linux-hardware.org/?probe=76a04f4e4e) | May 13, 2022 |
+| HP            | EliteBook 820 G1            | [dd51bb3592](https://linux-hardware.org/?probe=dd51bb3592) | May 12, 2022 |
+| Lenovo        | IdeaPad 3 15ALC6 82MF       | [8431edf013](https://linux-hardware.org/?probe=8431edf013) | May 12, 2022 |
+| Acer          | Aspire 5750                 | [008e256981](https://linux-hardware.org/?probe=008e256981) | May 12, 2022 |
+| HP            | Notebook                    | [3b4cd7fe5a](https://linux-hardware.org/?probe=3b4cd7fe5a) | May 12, 2022 |
+| ASUSTek       | ASUS TUF Gaming A17 FA70... | [53aed63d64](https://linux-hardware.org/?probe=53aed63d64) | May 12, 2022 |
+| ASUSTek       | ASUS TUF Gaming A17 FA70... | [7d03983e37](https://linux-hardware.org/?probe=7d03983e37) | May 11, 2022 |
+| TUXEDO        | InfinityBook Pro 14 Gen6    | [f71977d1fa](https://linux-hardware.org/?probe=f71977d1fa) | May 11, 2022 |
+| HP            | 250 G6 Notebook PC          | [f2f010a36d](https://linux-hardware.org/?probe=f2f010a36d) | May 11, 2022 |
+| Notebook      | NS50_70MU                   | [40fe0416f5](https://linux-hardware.org/?probe=40fe0416f5) | May 11, 2022 |
+| Lenovo        | Legion 5 Pro 16IAH7H 82R... | [e6d1749248](https://linux-hardware.org/?probe=e6d1749248) | May 10, 2022 |
+| HP            | ENVY TS 17                  | [2423c94072](https://linux-hardware.org/?probe=2423c94072) | May 10, 2022 |
+| HP            | OMEN by Laptop 15-dh1xxx    | [3314cd39d7](https://linux-hardware.org/?probe=3314cd39d7) | May 10, 2022 |
+| MSI           | Modern 15 A11M              | [8fe60eb961](https://linux-hardware.org/?probe=8fe60eb961) | May 10, 2022 |
+| HP            | EliteBook 840 G3            | [9d0ee854e4](https://linux-hardware.org/?probe=9d0ee854e4) | May 10, 2022 |
+| Acer          | Swift SF314-52              | [ee252c0c42](https://linux-hardware.org/?probe=ee252c0c42) | May 10, 2022 |
+| Thirdwave     | DX-T7                       | [b90ec1bf3a](https://linux-hardware.org/?probe=b90ec1bf3a) | May 10, 2022 |
+| Apple         | MacBook1,1                  | [399e291a66](https://linux-hardware.org/?probe=399e291a66) | May 09, 2022 |
+| Acer          | Aspire 5750                 | [200ac122e9](https://linux-hardware.org/?probe=200ac122e9) | May 09, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X509... | [65ef6677b9](https://linux-hardware.org/?probe=65ef6677b9) | May 09, 2022 |
+| Lenovo        | IdeaPad Yoga 13 20175       | [019117605e](https://linux-hardware.org/?probe=019117605e) | May 08, 2022 |
+| HP            | ProBook x360 11 G1 EE       | [cfe7a62390](https://linux-hardware.org/?probe=cfe7a62390) | May 08, 2022 |
+| Panasonic     | CF-AX2LDCZMF                | [0eb2c8ff07](https://linux-hardware.org/?probe=0eb2c8ff07) | May 08, 2022 |
+| Acer          | Aspire 5755G                | [634471ce19](https://linux-hardware.org/?probe=634471ce19) | May 08, 2022 |
+| ASUSTek       | 900                         | [a4dc643c13](https://linux-hardware.org/?probe=a4dc643c13) | May 08, 2022 |
+| Dell          | Inspiron 13-7378            | [7a8fd14c85](https://linux-hardware.org/?probe=7a8fd14c85) | May 08, 2022 |
+| Lenovo        | ThinkPad X250 20CLS2TQ22    | [8fa9fd80a0](https://linux-hardware.org/?probe=8fa9fd80a0) | May 07, 2022 |
+| SLIMBOOK      | Essential15L                | [1a244b5f4a](https://linux-hardware.org/?probe=1a244b5f4a) | May 07, 2022 |
+| SLIMBOOK      | Essential15L                | [4f64e62082](https://linux-hardware.org/?probe=4f64e62082) | May 07, 2022 |
+| HP            | EliteBook 845 G8 Noteboo... | [1d84f1a74a](https://linux-hardware.org/?probe=1d84f1a74a) | May 07, 2022 |
+| Lenovo        | ThinkPad T15 Gen 2i 20W4... | [591d3fa922](https://linux-hardware.org/?probe=591d3fa922) | May 07, 2022 |
+| Dell          | Latitude E6330              | [cbfc4e6f78](https://linux-hardware.org/?probe=cbfc4e6f78) | May 07, 2022 |
+| Lenovo        | ThinkPad W540 20BG0011US    | [1679543d3d](https://linux-hardware.org/?probe=1679543d3d) | May 06, 2022 |
+| Lenovo        | ThinkPad T450s 20BWS1U60... | [ffafca2b97](https://linux-hardware.org/?probe=ffafca2b97) | May 06, 2022 |
+| MSI           | Prestige 14Evo A11M         | [5de20a7cb4](https://linux-hardware.org/?probe=5de20a7cb4) | May 06, 2022 |
+| Lenovo        | Legion 5 15ARH05H 82B1      | [53e5fa5fd0](https://linux-hardware.org/?probe=53e5fa5fd0) | May 06, 2022 |
+| Lenovo        | ThinkPad L470 20J4003WGE    | [79bb6b88d3](https://linux-hardware.org/?probe=79bb6b88d3) | May 06, 2022 |
+| Lenovo        | Z710 20250                  | [955a89377b](https://linux-hardware.org/?probe=955a89377b) | May 06, 2022 |
+| Lenovo        | ThinkPad X280 20KES94F05    | [16b4cbc9fb](https://linux-hardware.org/?probe=16b4cbc9fb) | May 05, 2022 |
+| ASUSTek       | ASUS TUF Dash F15 FX517Z... | [9df718b88f](https://linux-hardware.org/?probe=9df718b88f) | May 05, 2022 |
+| ASUSTek       | UX430UAR                    | [6d471de246](https://linux-hardware.org/?probe=6d471de246) | May 05, 2022 |
+| ASUSTek       | UX430UAR                    | [4aea04443a](https://linux-hardware.org/?probe=4aea04443a) | May 05, 2022 |
+| Lenovo        | Y520-15IKBN 80WK            | [5cba3c93ba](https://linux-hardware.org/?probe=5cba3c93ba) | May 05, 2022 |
+| Lenovo        | ThinkPad L412 0585AV3       | [4208da52ad](https://linux-hardware.org/?probe=4208da52ad) | May 04, 2022 |
+| HP            | Pavilion g7                 | [e213ff845c](https://linux-hardware.org/?probe=e213ff845c) | May 04, 2022 |
+| Dell          | Latitude 5300               | [fa0246b764](https://linux-hardware.org/?probe=fa0246b764) | May 04, 2022 |
+| Dell          | Latitude 3520               | [586dc3475e](https://linux-hardware.org/?probe=586dc3475e) | May 04, 2022 |
+| HP            | ProBook 4330s               | [7cad0acb2c](https://linux-hardware.org/?probe=7cad0acb2c) | May 04, 2022 |
+| HP            | ProBook 4330s               | [ca6474fbfc](https://linux-hardware.org/?probe=ca6474fbfc) | May 04, 2022 |
+| Lenovo        | ThinkPad P15 Gen 1 20STS... | [1d4b493814](https://linux-hardware.org/?probe=1d4b493814) | May 03, 2022 |
+| Acer          | Aspire A315-23G             | [f749343aee](https://linux-hardware.org/?probe=f749343aee) | May 03, 2022 |
+| Fujitsu       | LIFEBOOK A3510              | [d5908498e1](https://linux-hardware.org/?probe=d5908498e1) | May 02, 2022 |
+| ASUSTek       | E403SA                      | [c59815fc46](https://linux-hardware.org/?probe=c59815fc46) | May 02, 2022 |
+| ASUSTek       | A6G                         | [a873db0112](https://linux-hardware.org/?probe=a873db0112) | May 02, 2022 |
+| ASUSTek       | E403SA                      | [1036fd29cb](https://linux-hardware.org/?probe=1036fd29cb) | May 02, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X530... | [20420f0426](https://linux-hardware.org/?probe=20420f0426) | May 02, 2022 |
+| Samsung       | 300E4C/300E5C/300E7C        | [d9878767eb](https://linux-hardware.org/?probe=d9878767eb) | May 02, 2022 |
+| Panasonic     | CF-31-5                     | [d17d17b778](https://linux-hardware.org/?probe=d17d17b778) | May 02, 2022 |
+| Dell          | Vostro 5470                 | [8fbdd05b2a](https://linux-hardware.org/?probe=8fbdd05b2a) | May 02, 2022 |
+| Lenovo        | IdeaPad 3 15ALC6 82MF       | [414334d8e3](https://linux-hardware.org/?probe=414334d8e3) | May 01, 2022 |
+| Acer          | Aspire E1-532               | [38d01733a6](https://linux-hardware.org/?probe=38d01733a6) | May 01, 2022 |
+| Lenovo        | ThinkPad T14 Gen 1 20UDC... | [acdc37bb16](https://linux-hardware.org/?probe=acdc37bb16) | May 01, 2022 |
 | Dell          | Precision M6500             | [a3d82a4f1a](https://linux-hardware.org/?probe=a3d82a4f1a) | Apr 30, 2022 |
 | Dell          | Precision M6500             | [cb7e68eb50](https://linux-hardware.org/?probe=cb7e68eb50) | Apr 30, 2022 |
 | Lenovo        | ThinkPad X270 W10DG 20K5... | [e14a2c047d](https://linux-hardware.org/?probe=e14a2c047d) | Apr 30, 2022 |
@@ -190,7 +364,6 @@ Total: 4587
 | ASUSTek       | VivoBook_ASUSLaptop X530... | [710ddc650e](https://linux-hardware.org/?probe=710ddc650e) | Apr 25, 2022 |
 | Dell          | Vostro 3405                 | [2d5bae0eeb](https://linux-hardware.org/?probe=2d5bae0eeb) | Apr 24, 2022 |
 | ASUSTek       | VivoBook_ASUSLaptop M350... | [de4fb8782a](https://linux-hardware.org/?probe=de4fb8782a) | Apr 24, 2022 |
-| ASUSTek       | VivoBook_ASUSLaptop M350... | [02a8ced4e4](https://linux-hardware.org/?probe=02a8ced4e4) | Apr 24, 2022 |
 | ASUSTek       | S551LN                      | [779fe5a429](https://linux-hardware.org/?probe=779fe5a429) | Apr 24, 2022 |
 | HP            | Laptop 15-bw0xx             | [e83ffcb04f](https://linux-hardware.org/?probe=e83ffcb04f) | Apr 24, 2022 |
 | HP            | Laptop 15-bw0xx             | [25e6181500](https://linux-hardware.org/?probe=25e6181500) | Apr 24, 2022 |
@@ -208,7 +381,6 @@ Total: 4587
 | HP            | Unknown                     | [0a47967da0](https://linux-hardware.org/?probe=0a47967da0) | Apr 23, 2022 |
 | Dell          | Latitude 3120               | [632ba0bee8](https://linux-hardware.org/?probe=632ba0bee8) | Apr 23, 2022 |
 | HP            | Unknown                     | [fa5bba3e33](https://linux-hardware.org/?probe=fa5bba3e33) | Apr 22, 2022 |
-| ASUSTek       | VivoBook_ASUSLaptop M350... | [e18efd2f6b](https://linux-hardware.org/?probe=e18efd2f6b) | Apr 22, 2022 |
 | Lenovo        | E31-70 80KX                 | [21f5bdfbc7](https://linux-hardware.org/?probe=21f5bdfbc7) | Apr 22, 2022 |
 | Google        | Enguarde                    | [d23e0dd7ea](https://linux-hardware.org/?probe=d23e0dd7ea) | Apr 22, 2022 |
 | Lenovo        | E31-70 80KX                 | [6910bac4f7](https://linux-hardware.org/?probe=6910bac4f7) | Apr 22, 2022 |
@@ -220,7 +392,6 @@ Total: 4587
 | ASUSTek       | UX31E                       | [ca406cf975](https://linux-hardware.org/?probe=ca406cf975) | Apr 21, 2022 |
 | ASUSTek       | UX31E                       | [32d9d8c8df](https://linux-hardware.org/?probe=32d9d8c8df) | Apr 21, 2022 |
 | Lenovo        | ThinkPad T450s 20BWS2US0... | [1a7a85a6ca](https://linux-hardware.org/?probe=1a7a85a6ca) | Apr 21, 2022 |
-| Lenovo        | ThinkPad T450s 20BWS2US0... | [2dcace1084](https://linux-hardware.org/?probe=2dcace1084) | Apr 21, 2022 |
 | HP            | Laptop 15s-fq2xxx           | [cba42e1765](https://linux-hardware.org/?probe=cba42e1765) | Apr 21, 2022 |
 | Lenovo        | ThinkPad E580 20KS006EMZ    | [4d54c594ff](https://linux-hardware.org/?probe=4d54c594ff) | Apr 20, 2022 |
 | Google        | Enguarde                    | [2bad463aa0](https://linux-hardware.org/?probe=2bad463aa0) | Apr 20, 2022 |
@@ -273,7 +444,6 @@ Total: 4587
 | Google        | Enguarde                    | [f0ec477b78](https://linux-hardware.org/?probe=f0ec477b78) | Apr 15, 2022 |
 | ASUSTek       | 1001PX                      | [520db05629](https://linux-hardware.org/?probe=520db05629) | Apr 15, 2022 |
 | Acer          | TMP455-M                    | [451dbf0a20](https://linux-hardware.org/?probe=451dbf0a20) | Apr 15, 2022 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [4a4bcf5608](https://linux-hardware.org/?probe=4a4bcf5608) | Apr 15, 2022 |
 | Acer          | TMP455-M                    | [b7b9924190](https://linux-hardware.org/?probe=b7b9924190) | Apr 15, 2022 |
 | Lenovo        | ThinkPad T440 20B7S1970B    | [055812a1f1](https://linux-hardware.org/?probe=055812a1f1) | Apr 14, 2022 |
 | Dell          | XPS L322X                   | [eee5065a27](https://linux-hardware.org/?probe=eee5065a27) | Apr 14, 2022 |
@@ -321,7 +491,6 @@ Total: 4587
 | Lenovo        | ThinkPad E570 20H500B5IX    | [28ab9096ba](https://linux-hardware.org/?probe=28ab9096ba) | Apr 11, 2022 |
 | HP            | EliteBook 840 G3            | [659999d04a](https://linux-hardware.org/?probe=659999d04a) | Apr 11, 2022 |
 | Dell          | Latitude D400               | [46981d939b](https://linux-hardware.org/?probe=46981d939b) | Apr 11, 2022 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [e9442a91a0](https://linux-hardware.org/?probe=e9442a91a0) | Apr 11, 2022 |
 | Intel         | powered classmate PC        | [39f9a3dcac](https://linux-hardware.org/?probe=39f9a3dcac) | Apr 11, 2022 |
 | Lenovo        | ThinkPad X1 Carbon 4th 2... | [4ca643452e](https://linux-hardware.org/?probe=4ca643452e) | Apr 10, 2022 |
 | Lenovo        | ThinkPad X260 20F5S6QV00    | [315f7326a1](https://linux-hardware.org/?probe=315f7326a1) | Apr 10, 2022 |
@@ -329,14 +498,11 @@ Total: 4587
 | HP            | OMEN by Laptop              | [f83f7f076a](https://linux-hardware.org/?probe=f83f7f076a) | Apr 10, 2022 |
 | HP            | Laptop 15-da1xxx            | [8d9c212045](https://linux-hardware.org/?probe=8d9c212045) | Apr 10, 2022 |
 | Sony          | VGN-NR31ZR_S                | [aa9e4ae485](https://linux-hardware.org/?probe=aa9e4ae485) | Apr 09, 2022 |
-| MSI           | Prestige 14Evo A11M         | [831111c8b5](https://linux-hardware.org/?probe=831111c8b5) | Apr 09, 2022 |
 | HP            | Laptop 15s-fq2xxx           | [a0001e2492](https://linux-hardware.org/?probe=a0001e2492) | Apr 09, 2022 |
-| HP            | 250 G7 Notebook PC          | [ef88107fcf](https://linux-hardware.org/?probe=ef88107fcf) | Apr 09, 2022 |
 | HP            | EliteBook 840 G3            | [227c3936b8](https://linux-hardware.org/?probe=227c3936b8) | Apr 09, 2022 |
 | Advent        | Tacto Purple                | [5ad7851c7a](https://linux-hardware.org/?probe=5ad7851c7a) | Apr 09, 2022 |
 | HP            | Pavilion dv6                | [9d37acefa0](https://linux-hardware.org/?probe=9d37acefa0) | Apr 09, 2022 |
 | HP            | EliteBook 840 G3            | [a78a4e608e](https://linux-hardware.org/?probe=a78a4e608e) | Apr 09, 2022 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [f34e188779](https://linux-hardware.org/?probe=f34e188779) | Apr 08, 2022 |
 | HP            | 250 G7 Notebook PC          | [6271f39c13](https://linux-hardware.org/?probe=6271f39c13) | Apr 08, 2022 |
 | Acer          | Aspire 7720G                | [8cdee656da](https://linux-hardware.org/?probe=8cdee656da) | Apr 08, 2022 |
 | Getac         | S400                        | [7f8a76a614](https://linux-hardware.org/?probe=7f8a76a614) | Apr 08, 2022 |
@@ -385,7 +551,6 @@ Total: 4587
 | HP            | EliteBook 840 G8 Noteboo... | [26082e6921](https://linux-hardware.org/?probe=26082e6921) | Apr 02, 2022 |
 | Lenovo        | IdeaPad 110-15AST 80TR      | [fec94b0f90](https://linux-hardware.org/?probe=fec94b0f90) | Apr 02, 2022 |
 | HP            | EliteBook 840 G8 Noteboo... | [0f191252cb](https://linux-hardware.org/?probe=0f191252cb) | Apr 02, 2022 |
-| HP            | Presario R4100 (PN495AV)    | [1eda605bc1](https://linux-hardware.org/?probe=1eda605bc1) | Apr 01, 2022 |
 | HP            | Pavilion dm4                | [269069b765](https://linux-hardware.org/?probe=269069b765) | Apr 01, 2022 |
 | Apple         | MacBook5,2                  | [dea55476fe](https://linux-hardware.org/?probe=dea55476fe) | Apr 01, 2022 |
 | Apple         | MacBook5,2                  | [b96ec01020](https://linux-hardware.org/?probe=b96ec01020) | Apr 01, 2022 |
@@ -614,13 +779,10 @@ Total: 4587
 | Apple         | MacBook5,2                  | [c0f7394bf5](https://linux-hardware.org/?probe=c0f7394bf5) | Mar 28, 2022 |
 | Apple         | MacBook5,2                  | [e6fbc3ef69](https://linux-hardware.org/?probe=e6fbc3ef69) | Mar 28, 2022 |
 | HP            | Laptop 15-bw0xx             | [c2ae1d8052](https://linux-hardware.org/?probe=c2ae1d8052) | Mar 28, 2022 |
-| Acer          | Aspire A315-23G             | [94a20fae0d](https://linux-hardware.org/?probe=94a20fae0d) | Mar 28, 2022 |
 | Lenovo        | ThinkPad T61 7661WE7        | [30fce12920](https://linux-hardware.org/?probe=30fce12920) | Mar 27, 2022 |
 | Dell          | Latitude 3410               | [503bb0a712](https://linux-hardware.org/?probe=503bb0a712) | Mar 27, 2022 |
-| Dell          | Latitude 3410               | [5590356e12](https://linux-hardware.org/?probe=5590356e12) | Mar 27, 2022 |
 | Lenovo        | ThinkPad X1 Carbon Gen 9... | [a8cacc7845](https://linux-hardware.org/?probe=a8cacc7845) | Mar 27, 2022 |
 | HP            | Compaq 615                  | [906354c0ce](https://linux-hardware.org/?probe=906354c0ce) | Mar 27, 2022 |
-| HP            | Compaq 615                  | [0d993a8d57](https://linux-hardware.org/?probe=0d993a8d57) | Mar 27, 2022 |
 | Lenovo        | ThinkPad T495 20NKS13Q00    | [95d0d1e82a](https://linux-hardware.org/?probe=95d0d1e82a) | Mar 27, 2022 |
 | HP            | ENVY Laptop 13-ba0xxx       | [0bf3028253](https://linux-hardware.org/?probe=0bf3028253) | Mar 27, 2022 |
 | ASUSTek       | 1101HA                      | [2c4815fb69](https://linux-hardware.org/?probe=2c4815fb69) | Mar 26, 2022 |
@@ -696,7 +858,6 @@ Total: 4587
 | Lenovo        | E31-80 80MX                 | [8dc93e34e9](https://linux-hardware.org/?probe=8dc93e34e9) | Mar 25, 2022 |
 | HP            | 255 G8 Notebook PC          | [d51166d2be](https://linux-hardware.org/?probe=d51166d2be) | Mar 25, 2022 |
 | HP            | 255 G8 Notebook PC          | [496d2fd146](https://linux-hardware.org/?probe=496d2fd146) | Mar 25, 2022 |
-| Acer          | Aspire A315-23G             | [19cb24e20c](https://linux-hardware.org/?probe=19cb24e20c) | Mar 25, 2022 |
 | Dell          | Latitude E6420              | [bcf7ead91d](https://linux-hardware.org/?probe=bcf7ead91d) | Mar 24, 2022 |
 | Apple         | MacBook5,2                  | [aab65645ee](https://linux-hardware.org/?probe=aab65645ee) | Mar 24, 2022 |
 | Apple         | MacBook5,2                  | [62cb62ab87](https://linux-hardware.org/?probe=62cb62ab87) | Mar 24, 2022 |
@@ -852,7 +1013,6 @@ Total: 4587
 | Apple         | MacBook5,2                  | [3b0fd0ec8b](https://linux-hardware.org/?probe=3b0fd0ec8b) | Mar 22, 2022 |
 | Aquarius      | NS585                       | [2cc901ad54](https://linux-hardware.org/?probe=2cc901ad54) | Mar 22, 2022 |
 | Dell          | XPS 15 9570                 | [d4b19324b2](https://linux-hardware.org/?probe=d4b19324b2) | Mar 22, 2022 |
-| Dell          | Latitude 3410               | [d81534df3a](https://linux-hardware.org/?probe=d81534df3a) | Mar 22, 2022 |
 | Packard Be... | EasyNote TK85               | [7b2ab61a6e](https://linux-hardware.org/?probe=7b2ab61a6e) | Mar 21, 2022 |
 | Lenovo        | Legion Y540-17IRH 81Q4      | [26a88b6d1f](https://linux-hardware.org/?probe=26a88b6d1f) | Mar 21, 2022 |
 | Dell          | Latitude 3410               | [6d78749bd6](https://linux-hardware.org/?probe=6d78749bd6) | Mar 21, 2022 |
@@ -867,7 +1027,6 @@ Total: 4587
 | HP            | ProBook 450 G5              | [8ff982fca7](https://linux-hardware.org/?probe=8ff982fca7) | Mar 21, 2022 |
 | Lenovo        | IdeaPad S540-13API 81XC     | [543e44c95a](https://linux-hardware.org/?probe=543e44c95a) | Mar 20, 2022 |
 | Dell          | Latitude 7300               | [751dc53e2b](https://linux-hardware.org/?probe=751dc53e2b) | Mar 20, 2022 |
-| Acer          | Aspire A315-23G             | [b5abf934a3](https://linux-hardware.org/?probe=b5abf934a3) | Mar 20, 2022 |
 | Lenovo        | ThinkPad P53 20QQA004CD     | [c99fae499f](https://linux-hardware.org/?probe=c99fae499f) | Mar 20, 2022 |
 | Lenovo        | IdeaPad 330S-14IKB 81F4     | [b8b480e048](https://linux-hardware.org/?probe=b8b480e048) | Mar 20, 2022 |
 | Fujitsu Si... | LIFEBOOK E8410              | [1b9131d30f](https://linux-hardware.org/?probe=1b9131d30f) | Mar 19, 2022 |
@@ -891,7 +1050,6 @@ Total: 4587
 | MSI           | Katana GF66 12UC            | [bc07a3de3d](https://linux-hardware.org/?probe=bc07a3de3d) | Mar 15, 2022 |
 | MSI           | Katana GF66 12UC            | [ddbc85ab3a](https://linux-hardware.org/?probe=ddbc85ab3a) | Mar 15, 2022 |
 | Lenovo        | IdeaPad L3 15ITL6 82HL      | [c4ce1fa83f](https://linux-hardware.org/?probe=c4ce1fa83f) | Mar 15, 2022 |
-| Lenovo        | ThinkPad 13 2nd Gen 20J1... | [8070a2b368](https://linux-hardware.org/?probe=8070a2b368) | Mar 15, 2022 |
 | Samsung       | 300V3A/300V4A/300V5A        | [c0fcc559b7](https://linux-hardware.org/?probe=c0fcc559b7) | Mar 15, 2022 |
 | ASUSTek       | X550VXK                     | [9d51869d37](https://linux-hardware.org/?probe=9d51869d37) | Mar 15, 2022 |
 | Lenovo        | G505 20240                  | [c21e84e1a7](https://linux-hardware.org/?probe=c21e84e1a7) | Mar 15, 2022 |
@@ -903,8 +1061,6 @@ Total: 4587
 | Acer          | Aspire VN7-572G             | [dc759490e1](https://linux-hardware.org/?probe=dc759490e1) | Mar 14, 2022 |
 | Lenovo        | ThinkPad T450s 20BXCTO1W... | [4d32980028](https://linux-hardware.org/?probe=4d32980028) | Mar 14, 2022 |
 | Lenovo        | ThinkPad P15v Gen 1 20TQ... | [2ea48b8569](https://linux-hardware.org/?probe=2ea48b8569) | Mar 14, 2022 |
-| Lenovo        | IdeaPad Slim 1-14AST-05 ... | [03e078e598](https://linux-hardware.org/?probe=03e078e598) | Mar 14, 2022 |
-| Lenovo        | IdeaPad Slim 1-14AST-05 ... | [917b5794e9](https://linux-hardware.org/?probe=917b5794e9) | Mar 14, 2022 |
 | Toshiba       | Satellite P850              | [0cd9132f27](https://linux-hardware.org/?probe=0cd9132f27) | Mar 14, 2022 |
 | Lenovo        | ThinkPad T410 2522DK2       | [9990e887c2](https://linux-hardware.org/?probe=9990e887c2) | Mar 13, 2022 |
 | Dell          | Precision 5510              | [50ca449b34](https://linux-hardware.org/?probe=50ca449b34) | Mar 13, 2022 |
@@ -933,10 +1089,7 @@ Total: 4587
 | Acer          | Aspire ES1-572              | [5e63db91a1](https://linux-hardware.org/?probe=5e63db91a1) | Mar 07, 2022 |
 | Lenovo        | ThinkPad E14 Gen 3 20YDS... | [eccfe5b35c](https://linux-hardware.org/?probe=eccfe5b35c) | Mar 07, 2022 |
 | Lenovo        | ThinkPad E14 Gen 3 20YDS... | [af11e24c3a](https://linux-hardware.org/?probe=af11e24c3a) | Mar 07, 2022 |
-| Acer          | Aspire A315-23G             | [852b569ef5](https://linux-hardware.org/?probe=852b569ef5) | Mar 06, 2022 |
-| AXDIA Inte... | MYBOOK 14 PRO               | [a02da9c610](https://linux-hardware.org/?probe=a02da9c610) | Mar 06, 2022 |
 | Dell          | Latitude E5430 non-vPro     | [04d9923f43](https://linux-hardware.org/?probe=04d9923f43) | Mar 06, 2022 |
-| Dell          | Latitude E5430 non-vPro     | [fe6d3d8eaf](https://linux-hardware.org/?probe=fe6d3d8eaf) | Mar 06, 2022 |
 | Dell          | MXG071                      | [62a45db2eb](https://linux-hardware.org/?probe=62a45db2eb) | Mar 06, 2022 |
 | Lenovo        | IdeaPad 330S-15ARR 81FB     | [a630a0c13c](https://linux-hardware.org/?probe=a630a0c13c) | Mar 06, 2022 |
 | Dell          | Latitude E6330              | [f4491d2da7](https://linux-hardware.org/?probe=f4491d2da7) | Mar 06, 2022 |
@@ -953,10 +1106,8 @@ Total: 4587
 | HP            | 2140                        | [6956607bfd](https://linux-hardware.org/?probe=6956607bfd) | Mar 02, 2022 |
 | Dell          | Inspiron 5566               | [9b5ba1cd95](https://linux-hardware.org/?probe=9b5ba1cd95) | Mar 02, 2022 |
 | Acer          | Aspire A515-54G             | [67241eca45](https://linux-hardware.org/?probe=67241eca45) | Mar 02, 2022 |
-| Samsung       | RC530/RC730                 | [5a235f718e](https://linux-hardware.org/?probe=5a235f718e) | Mar 01, 2022 |
 | Dell          | Latitude E5430 non-vPro     | [3f1e43c90c](https://linux-hardware.org/?probe=3f1e43c90c) | Mar 01, 2022 |
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [3e10ea1487](https://linux-hardware.org/?probe=3e10ea1487) | Mar 01, 2022 |
-| Acer          | Aspire 1640                 | [0296f1869b](https://linux-hardware.org/?probe=0296f1869b) | Mar 01, 2022 |
 | Philco        | O E M                       | [47cc99022d](https://linux-hardware.org/?probe=47cc99022d) | Mar 01, 2022 |
 | Dell          | Inspiron N5110              | [6cec0db416](https://linux-hardware.org/?probe=6cec0db416) | Mar 01, 2022 |
 | Dell          | Inspiron N5110              | [c88c351a35](https://linux-hardware.org/?probe=c88c351a35) | Mar 01, 2022 |
@@ -1072,14 +1223,12 @@ Total: 4587
 | Samsung       | N150P/N210P/N220P           | [b654dcd163](https://linux-hardware.org/?probe=b654dcd163) | Feb 07, 2022 |
 | Lenovo        | ThinkPad L440 20ASS3A300    | [136f9d4c89](https://linux-hardware.org/?probe=136f9d4c89) | Feb 07, 2022 |
 | Lenovo        | IdeaPad 330-14AST 81D5      | [aaceb070e8](https://linux-hardware.org/?probe=aaceb070e8) | Feb 07, 2022 |
-| Acer          | Aspire A315-23G             | [09e661535f](https://linux-hardware.org/?probe=09e661535f) | Feb 07, 2022 |
 | HP            | 250 G3                      | [c54f59d942](https://linux-hardware.org/?probe=c54f59d942) | Feb 06, 2022 |
 | Acer          | Aspire E5-553G              | [d6f8f41bc5](https://linux-hardware.org/?probe=d6f8f41bc5) | Feb 06, 2022 |
 | Dell          | Latitude E6410              | [e8e62d3cde](https://linux-hardware.org/?probe=e8e62d3cde) | Feb 06, 2022 |
 | Dell          | Inspiron 15 5510            | [3dbd4103ce](https://linux-hardware.org/?probe=3dbd4103ce) | Feb 06, 2022 |
 | Lenovo        | B590 20206                  | [6d6a3d2ac4](https://linux-hardware.org/?probe=6d6a3d2ac4) | Feb 06, 2022 |
 | Dell          | Latitude D630               | [b2d5d4aa5a](https://linux-hardware.org/?probe=b2d5d4aa5a) | Feb 05, 2022 |
-| Dell          | Latitude E6330              | [41ba1619f5](https://linux-hardware.org/?probe=41ba1619f5) | Feb 05, 2022 |
 | Lenovo        | ThinkPad E15 Gen 3 20YHS... | [5a11c55e55](https://linux-hardware.org/?probe=5a11c55e55) | Feb 05, 2022 |
 | Acer          | Swift SF314-57              | [de92ca9fec](https://linux-hardware.org/?probe=de92ca9fec) | Feb 05, 2022 |
 | HP            | EliteBook 840 G2            | [711d2a668d](https://linux-hardware.org/?probe=711d2a668d) | Feb 05, 2022 |
@@ -1090,7 +1239,6 @@ Total: 4587
 | Acer          | Nitro AN515-44              | [417bb2f526](https://linux-hardware.org/?probe=417bb2f526) | Feb 04, 2022 |
 | Fujitsu       | LIFEBOOK A3510              | [abe18af5e7](https://linux-hardware.org/?probe=abe18af5e7) | Feb 04, 2022 |
 | HP            | EliteBook 845 G8 Noteboo... | [0b95e33d17](https://linux-hardware.org/?probe=0b95e33d17) | Feb 03, 2022 |
-| Acer          | Aspire A315-23G             | [ebc65d68d9](https://linux-hardware.org/?probe=ebc65d68d9) | Feb 03, 2022 |
 | HP            | EliteBook 845 G8 Noteboo... | [3171e9710d](https://linux-hardware.org/?probe=3171e9710d) | Feb 03, 2022 |
 | Chuwi         | GemiBook                    | [8a892ea268](https://linux-hardware.org/?probe=8a892ea268) | Feb 03, 2022 |
 | Acer          | Aspire E5-553G              | [a7b8841235](https://linux-hardware.org/?probe=a7b8841235) | Feb 02, 2022 |
@@ -1109,13 +1257,10 @@ Total: 4587
 | Lenovo        | ThinkPad T430s 2356A89      | [98dc82b4af](https://linux-hardware.org/?probe=98dc82b4af) | Jan 31, 2022 |
 | Acer          | Aspire ES1-411              | [8d478b1936](https://linux-hardware.org/?probe=8d478b1936) | Jan 31, 2022 |
 | ASUSTek       | ZenBook 13 UX331UAL         | [1202dc6569](https://linux-hardware.org/?probe=1202dc6569) | Jan 31, 2022 |
-| Acer          | Aspire A315-23G             | [d60beb8456](https://linux-hardware.org/?probe=d60beb8456) | Jan 31, 2022 |
 | MSI           | GE70 2OC\2OD\2OE            | [f9efba7bbf](https://linux-hardware.org/?probe=f9efba7bbf) | Jan 30, 2022 |
 | Lenovo        | IdeaPad Slim 7 Carbon 14... | [105f93d011](https://linux-hardware.org/?probe=105f93d011) | Jan 30, 2022 |
 | Lenovo        | IdeaPad 720S-14IKB 81BD     | [9e3040619f](https://linux-hardware.org/?probe=9e3040619f) | Jan 30, 2022 |
 | HP            | Laptop 15-db0xxx            | [aa29a61907](https://linux-hardware.org/?probe=aa29a61907) | Jan 30, 2022 |
-| Toshiba       | Satellite L775D             | [6f8044dd04](https://linux-hardware.org/?probe=6f8044dd04) | Jan 30, 2022 |
-| Toshiba       | Satellite L775D             | [b7b77abd4a](https://linux-hardware.org/?probe=b7b77abd4a) | Jan 30, 2022 |
 | Lenovo        | ThinkPad T430 2349GCG       | [9c94c598d3](https://linux-hardware.org/?probe=9c94c598d3) | Jan 30, 2022 |
 | Toshiba       | TECRA R950                  | [53fc5e9542](https://linux-hardware.org/?probe=53fc5e9542) | Jan 29, 2022 |
 | Lenovo        | ThinkPad X1 Carbon 3rd 2... | [6158642c8d](https://linux-hardware.org/?probe=6158642c8d) | Jan 29, 2022 |
@@ -1126,11 +1271,9 @@ Total: 4587
 | ASUSTek       | X555BA                      | [526e03cf05](https://linux-hardware.org/?probe=526e03cf05) | Jan 28, 2022 |
 | HP            | Laptop 15-db0xxx            | [5dbc003da9](https://linux-hardware.org/?probe=5dbc003da9) | Jan 28, 2022 |
 | HP            | Laptop 15-db0xxx            | [64400dd3d5](https://linux-hardware.org/?probe=64400dd3d5) | Jan 28, 2022 |
-| Lenovo        | IdeaPad 320S-14IKB 81BN     | [5e934e6551](https://linux-hardware.org/?probe=5e934e6551) | Jan 28, 2022 |
 | ASUSTek       | PU403UA                     | [25ac7ce226](https://linux-hardware.org/?probe=25ac7ce226) | Jan 28, 2022 |
 | ASUSTek       | ZenBook UX325UAZ_UM325UA... | [7a90772bfd](https://linux-hardware.org/?probe=7a90772bfd) | Jan 27, 2022 |
 | HP            | OMEN Laptop 15-ek0xxx       | [b2461c5213](https://linux-hardware.org/?probe=b2461c5213) | Jan 27, 2022 |
-| Acer          | Aspire A315-23G             | [f741575389](https://linux-hardware.org/?probe=f741575389) | Jan 27, 2022 |
 | Samsung       | N150P/N210P/N220P           | [b7b95978f9](https://linux-hardware.org/?probe=b7b95978f9) | Jan 27, 2022 |
 | Toshiba       | Satellite P850              | [9fed64bb7e](https://linux-hardware.org/?probe=9fed64bb7e) | Jan 27, 2022 |
 | Dell          | Inspiron 3505               | [343ab23f97](https://linux-hardware.org/?probe=343ab23f97) | Jan 27, 2022 |
@@ -1155,7 +1298,6 @@ Total: 4587
 | HP            | 250 G7 Notebook PC          | [032ee6d6c0](https://linux-hardware.org/?probe=032ee6d6c0) | Jan 24, 2022 |
 | Dell          | Inspiron 3583               | [9ea2007217](https://linux-hardware.org/?probe=9ea2007217) | Jan 24, 2022 |
 | Lenovo        | ThinkPad T580 20LAS4KG0Q    | [b552b967e4](https://linux-hardware.org/?probe=b552b967e4) | Jan 24, 2022 |
-| HP            | 250 G7 Notebook PC          | [9f5905c095](https://linux-hardware.org/?probe=9f5905c095) | Jan 24, 2022 |
 | HP            | 250 G6 Notebook PC          | [dae0e58890](https://linux-hardware.org/?probe=dae0e58890) | Jan 23, 2022 |
 | Lenovo        | ThinkPad X250 20CMS02F00    | [e4d90a5ae8](https://linux-hardware.org/?probe=e4d90a5ae8) | Jan 23, 2022 |
 | HP            | ProBook 445 G8 Notebook ... | [8ee01c475e](https://linux-hardware.org/?probe=8ee01c475e) | Jan 23, 2022 |
@@ -1164,29 +1306,22 @@ Total: 4587
 | Dell          | Latitude 5310               | [424fadc888](https://linux-hardware.org/?probe=424fadc888) | Jan 23, 2022 |
 | Dell          | Inspiron 5559               | [5832d766ab](https://linux-hardware.org/?probe=5832d766ab) | Jan 23, 2022 |
 | Lenovo        | IdeaPad 3 15ALC6 82KU       | [586c28a98a](https://linux-hardware.org/?probe=586c28a98a) | Jan 23, 2022 |
-| Acer          | Aspire A315-23G             | [310b719b15](https://linux-hardware.org/?probe=310b719b15) | Jan 23, 2022 |
 | Dell          | Inspiron 5580               | [515465fd5a](https://linux-hardware.org/?probe=515465fd5a) | Jan 22, 2022 |
 | Dell          | Inspiron 6000               | [9bbb0b47c9](https://linux-hardware.org/?probe=9bbb0b47c9) | Jan 22, 2022 |
 | Unknown       | Unknown                     | [05e17dc297](https://linux-hardware.org/?probe=05e17dc297) | Jan 21, 2022 |
-| Acer          | Aspire A315-23G             | [164b959848](https://linux-hardware.org/?probe=164b959848) | Jan 21, 2022 |
 | Lenovo        | ThinkPad E15 Gen 3 20YHS... | [f9deb1d329](https://linux-hardware.org/?probe=f9deb1d329) | Jan 20, 2022 |
-| Lenovo        | B475 Sabine                 | [4f40d723c5](https://linux-hardware.org/?probe=4f40d723c5) | Jan 20, 2022 |
 | Alienware     | x15 R1                      | [5f9dce49b3](https://linux-hardware.org/?probe=5f9dce49b3) | Jan 20, 2022 |
-| HP            | Pavilion g7                 | [f789fa0e4b](https://linux-hardware.org/?probe=f789fa0e4b) | Jan 20, 2022 |
 | Dell          | Latitude E6410              | [2e43a65524](https://linux-hardware.org/?probe=2e43a65524) | Jan 20, 2022 |
 | Timi          | A7S                         | [9c419e0bab](https://linux-hardware.org/?probe=9c419e0bab) | Jan 20, 2022 |
-| Acer          | Aspire A315-23G             | [c1b18abd63](https://linux-hardware.org/?probe=c1b18abd63) | Jan 20, 2022 |
 | HP            | Pavilion g7                 | [064474c7e0](https://linux-hardware.org/?probe=064474c7e0) | Jan 20, 2022 |
 | Lenovo        | ThinkPad T530 24296HG       | [e2161b5856](https://linux-hardware.org/?probe=e2161b5856) | Jan 20, 2022 |
 | Alienware     | 17 R3                       | [032772ad42](https://linux-hardware.org/?probe=032772ad42) | Jan 20, 2022 |
-| Dell          | Latitude E6330              | [2c94023cca](https://linux-hardware.org/?probe=2c94023cca) | Jan 19, 2022 |
 | Lenovo        | ThinkPad X230 23252EG       | [e236263783](https://linux-hardware.org/?probe=e236263783) | Jan 19, 2022 |
 | Samsung       | 340XAA/350XAA/550XAA        | [6a311bab4a](https://linux-hardware.org/?probe=6a311bab4a) | Jan 19, 2022 |
 | Dell          | Precision 3561              | [05b06d8c48](https://linux-hardware.org/?probe=05b06d8c48) | Jan 19, 2022 |
 | Lenovo        | ThinkBook 13s G2 ITL 20V... | [d99cb4b767](https://linux-hardware.org/?probe=d99cb4b767) | Jan 19, 2022 |
 | HP            | Pavilion g6                 | [2acc56ff71](https://linux-hardware.org/?probe=2acc56ff71) | Jan 19, 2022 |
 | Lenovo        | IdeaPad S540-13API 81XC     | [29fd90e072](https://linux-hardware.org/?probe=29fd90e072) | Jan 19, 2022 |
-| Lenovo        | IdeaPad S540-13API 81XC     | [cf702f0baa](https://linux-hardware.org/?probe=cf702f0baa) | Jan 19, 2022 |
 | Dell          | Precision 5560              | [4404c43852](https://linux-hardware.org/?probe=4404c43852) | Jan 19, 2022 |
 | HP            | Pavilion Notebook           | [c4465062c7](https://linux-hardware.org/?probe=c4465062c7) | Jan 19, 2022 |
 | Lenovo        | ThinkPad E15 Gen 3 20YHS... | [efdc064669](https://linux-hardware.org/?probe=efdc064669) | Jan 19, 2022 |
@@ -1197,11 +1332,8 @@ Total: 4587
 | Lenovo        | G580                        | [b575a14a10](https://linux-hardware.org/?probe=b575a14a10) | Jan 18, 2022 |
 | HP            | EliteBook 8440p             | [eea8c3a5c3](https://linux-hardware.org/?probe=eea8c3a5c3) | Jan 18, 2022 |
 | Lenovo        | IdeaPad 320S-14IKB 81BN     | [c021e3bb40](https://linux-hardware.org/?probe=c021e3bb40) | Jan 18, 2022 |
-| HP            | Pavilion Laptop 14-ec0xx... | [9901f0a14a](https://linux-hardware.org/?probe=9901f0a14a) | Jan 18, 2022 |
-| HP            | Pavilion Laptop 14-ec0xx... | [3837c06ca1](https://linux-hardware.org/?probe=3837c06ca1) | Jan 18, 2022 |
 | HP            | EliteBook 840 G1            | [743d1b6641](https://linux-hardware.org/?probe=743d1b6641) | Jan 18, 2022 |
 | HP            | Notebook                    | [782c51f796](https://linux-hardware.org/?probe=782c51f796) | Jan 17, 2022 |
-| Dell          | Inspiron 5580               | [a8e7059c51](https://linux-hardware.org/?probe=a8e7059c51) | Jan 17, 2022 |
 | Dell          | Latitude 5420               | [dd45d8465d](https://linux-hardware.org/?probe=dd45d8465d) | Jan 17, 2022 |
 | HP            | EliteBook 8440p             | [a3133c9aab](https://linux-hardware.org/?probe=a3133c9aab) | Jan 17, 2022 |
 | Lenovo        | G580                        | [554ee0ef82](https://linux-hardware.org/?probe=554ee0ef82) | Jan 17, 2022 |
@@ -1214,14 +1346,10 @@ Total: 4587
 | Lenovo        | ThinkPad X1 Carbon 2nd 2... | [dae8d10589](https://linux-hardware.org/?probe=dae8d10589) | Jan 15, 2022 |
 | Lenovo        | ThinkPad X1 Carbon 2nd 2... | [fb799bb9f5](https://linux-hardware.org/?probe=fb799bb9f5) | Jan 15, 2022 |
 | ASUSTek       | X550VX                      | [96b0a9dbdc](https://linux-hardware.org/?probe=96b0a9dbdc) | Jan 14, 2022 |
-| Lenovo        | ThinkPad T450s 20BXCTO1W... | [5c41a54599](https://linux-hardware.org/?probe=5c41a54599) | Jan 14, 2022 |
-| Lenovo        | Y520-15IKBN 80WK            | [9f0d682171](https://linux-hardware.org/?probe=9f0d682171) | Jan 14, 2022 |
 | Lenovo        | V510-15IKB 80WQ             | [53c16c3d57](https://linux-hardware.org/?probe=53c16c3d57) | Jan 14, 2022 |
-| Lenovo        | ThinkPad E475 20H40006US    | [eb4e0295d3](https://linux-hardware.org/?probe=eb4e0295d3) | Jan 14, 2022 |
 | MSI           | MS-1454                     | [1cb9a056e7](https://linux-hardware.org/?probe=1cb9a056e7) | Jan 14, 2022 |
 | Acer          | Aspire V3-772               | [79e884f81e](https://linux-hardware.org/?probe=79e884f81e) | Jan 14, 2022 |
 | Lex BayTra... | 3I380A                      | [7f59432801](https://linux-hardware.org/?probe=7f59432801) | Jan 14, 2022 |
-| Lenovo        | ThinkPad P53 20QQA004CD     | [9d63aff476](https://linux-hardware.org/?probe=9d63aff476) | Jan 14, 2022 |
 | HP            | Mini 110-1100               | [10271759b0](https://linux-hardware.org/?probe=10271759b0) | Jan 14, 2022 |
 | HP            | Laptop 17-cn0xxx            | [5cb4bc2ed8](https://linux-hardware.org/?probe=5cb4bc2ed8) | Jan 14, 2022 |
 | Lenovo        | ThinkPad T14 Gen 2a 20XL... | [3050abff3a](https://linux-hardware.org/?probe=3050abff3a) | Jan 13, 2022 |
@@ -1229,7 +1357,6 @@ Total: 4587
 | Acer          | AOD255E                     | [cf1f3ab0e0](https://linux-hardware.org/?probe=cf1f3ab0e0) | Jan 13, 2022 |
 | Lenovo        | ThinkPad E470 20H2S00400    | [d717ae7a04](https://linux-hardware.org/?probe=d717ae7a04) | Jan 12, 2022 |
 | Samsung       | 535U3C                      | [c18e5d660d](https://linux-hardware.org/?probe=c18e5d660d) | Jan 12, 2022 |
-| Lenovo        | ThinkPad X1 Carbon 5th 2... | [4c04661023](https://linux-hardware.org/?probe=4c04661023) | Jan 12, 2022 |
 | Dell          | Inspiron 3593               | [9c5f9bb3c6](https://linux-hardware.org/?probe=9c5f9bb3c6) | Jan 12, 2022 |
 | Apple         | MacBookPro5,5               | [46d42db225](https://linux-hardware.org/?probe=46d42db225) | Jan 12, 2022 |
 | Apple         | MacBookPro5,5               | [5c58aa5b86](https://linux-hardware.org/?probe=5c58aa5b86) | Jan 12, 2022 |
@@ -1241,8 +1368,8 @@ Total: 4587
 | Aquarius      | NS585                       | [05fa3aee01](https://linux-hardware.org/?probe=05fa3aee01) | Jan 11, 2022 |
 | Aquarius      | NS585                       | [00bdbd3175](https://linux-hardware.org/?probe=00bdbd3175) | Jan 11, 2022 |
 | Aquarius      | NS585                       | [ff9e56cc49](https://linux-hardware.org/?probe=ff9e56cc49) | Jan 11, 2022 |
-| Aquarius      | NS585                       | [4225f64fae](https://linux-hardware.org/?probe=4225f64fae) | Jan 11, 2022 |
 | Aquarius      | NS585                       | [fc09ae03e2](https://linux-hardware.org/?probe=fc09ae03e2) | Jan 11, 2022 |
+| Aquarius      | NS585                       | [4225f64fae](https://linux-hardware.org/?probe=4225f64fae) | Jan 11, 2022 |
 | Toshiba       | Satellite C660D             | [99758d2a73](https://linux-hardware.org/?probe=99758d2a73) | Jan 11, 2022 |
 | Aquarius      | NS585                       | [e892be3b29](https://linux-hardware.org/?probe=e892be3b29) | Jan 11, 2022 |
 | Dell          | Inspiron 13 5310            | [fd57c1981b](https://linux-hardware.org/?probe=fd57c1981b) | Jan 11, 2022 |
@@ -1250,7 +1377,6 @@ Total: 4587
 | Lenovo        | IdeaPad Slim 1-14AST-05 ... | [f21bede8f0](https://linux-hardware.org/?probe=f21bede8f0) | Jan 11, 2022 |
 | MOTION        | KEX00                       | [8ff3554d7d](https://linux-hardware.org/?probe=8ff3554d7d) | Jan 10, 2022 |
 | Lenovo        | V14-IIL 82C4                | [e9f4084086](https://linux-hardware.org/?probe=e9f4084086) | Jan 10, 2022 |
-| Lenovo        | ThinkPad E15 Gen 3 20YHS... | [a046d0cd96](https://linux-hardware.org/?probe=a046d0cd96) | Jan 10, 2022 |
 | Dell          | Inspiron 15-3567            | [acd9a0596c](https://linux-hardware.org/?probe=acd9a0596c) | Jan 10, 2022 |
 | Lenovo        | ThinkPad T14 Gen 2a 20XL... | [7ce7a30da1](https://linux-hardware.org/?probe=7ce7a30da1) | Jan 10, 2022 |
 | Lenovo        | ThinkPad T14 Gen 2a 20XL... | [ac620bc1b6](https://linux-hardware.org/?probe=ac620bc1b6) | Jan 10, 2022 |
@@ -1262,7 +1388,6 @@ Total: 4587
 | TUXEDO        | Polaris 15 AMD Gen1         | [4df70f0938](https://linux-hardware.org/?probe=4df70f0938) | Jan 09, 2022 |
 | Acer          | Aspire 5755G                | [2bb43fbbb1](https://linux-hardware.org/?probe=2bb43fbbb1) | Jan 09, 2022 |
 | HP            | EliteBook 840 G2            | [5de9fddbf7](https://linux-hardware.org/?probe=5de9fddbf7) | Jan 09, 2022 |
-| HP            | EliteBook 840 G2            | [29f18e6869](https://linux-hardware.org/?probe=29f18e6869) | Jan 09, 2022 |
 | Lenovo        | ThinkPad E15 Gen 3 20YHS... | [99a245965c](https://linux-hardware.org/?probe=99a245965c) | Jan 09, 2022 |
 | Dell          | Latitude E5420              | [28c33b9e71](https://linux-hardware.org/?probe=28c33b9e71) | Jan 09, 2022 |
 | Lenovo        | V130-15IGM 81HL             | [c6da06ae31](https://linux-hardware.org/?probe=c6da06ae31) | Jan 09, 2022 |
@@ -1278,12 +1403,10 @@ Total: 4587
 | ASUSTek       | K53U                        | [62410e0adc](https://linux-hardware.org/?probe=62410e0adc) | Jan 07, 2022 |
 | ASUSTek       | ROG Strix G733QM_G733QM     | [232b0ed628](https://linux-hardware.org/?probe=232b0ed628) | Jan 07, 2022 |
 | Notebook      | W65_67SZ                    | [a38592dcaf](https://linux-hardware.org/?probe=a38592dcaf) | Jan 06, 2022 |
-| Acer          | Aspire A315-23G             | [d22f32f071](https://linux-hardware.org/?probe=d22f32f071) | Jan 06, 2022 |
 | Lenovo        | ThinkPad X230 23202DG       | [22e51b8b41](https://linux-hardware.org/?probe=22e51b8b41) | Jan 06, 2022 |
 | Lenovo        | ThinkPad X230 23202DG       | [52db8d0bbf](https://linux-hardware.org/?probe=52db8d0bbf) | Jan 06, 2022 |
 | Dell          | Vostro 5471                 | [4057935870](https://linux-hardware.org/?probe=4057935870) | Jan 05, 2022 |
 | Dell          | Inspiron 3793               | [78ea49cf6a](https://linux-hardware.org/?probe=78ea49cf6a) | Jan 05, 2022 |
-| AXDIA Inte... | MYBOOK 14 PRO               | [f691531281](https://linux-hardware.org/?probe=f691531281) | Jan 05, 2022 |
 | Dell          | XPS L322X                   | [97388c82c7](https://linux-hardware.org/?probe=97388c82c7) | Jan 04, 2022 |
 | Lenovo        | IdeaPad 120S-11IAP 81A4     | [c7f2471bdf](https://linux-hardware.org/?probe=c7f2471bdf) | Jan 04, 2022 |
 | ASUSTek       | VivoBook_ASUSLaptop X412... | [0d69dca8f3](https://linux-hardware.org/?probe=0d69dca8f3) | Jan 04, 2022 |
@@ -1308,7 +1431,6 @@ Total: 4587
 | Samsung       | 750XDA                      | [2b99263c43](https://linux-hardware.org/?probe=2b99263c43) | Jan 01, 2022 |
 | Lenovo        | IdeaPad S540-13API 81XC     | [4c8824cb05](https://linux-hardware.org/?probe=4c8824cb05) | Jan 01, 2022 |
 | HP            | ProBook 650 G5              | [10c33cbcd2](https://linux-hardware.org/?probe=10c33cbcd2) | Jan 01, 2022 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [eede59cbf0](https://linux-hardware.org/?probe=eede59cbf0) | Jan 01, 2022 |
 | ASUSTek       | X756UXK                     | [3f565d70fe](https://linux-hardware.org/?probe=3f565d70fe) | Jan 01, 2022 |
 | ASUSTek       | X555LD                      | [1fbd5a6a63](https://linux-hardware.org/?probe=1fbd5a6a63) | Jan 01, 2022 |
 | YiFang        | NXW9QC132                   | [922ca114f1](https://linux-hardware.org/?probe=922ca114f1) | Jan 01, 2022 |
@@ -1347,21 +1469,17 @@ Total: 4587
 | Lenovo        | ThinkPad E475 20H40006US    | [f022aa3706](https://linux-hardware.org/?probe=f022aa3706) | Dec 27, 2021 |
 | Lenovo        | ThinkPad E475 20H40006US    | [252503762f](https://linux-hardware.org/?probe=252503762f) | Dec 27, 2021 |
 | Lenovo        | ThinkPad E475 20H40006US    | [5be0d36fa8](https://linux-hardware.org/?probe=5be0d36fa8) | Dec 27, 2021 |
-| Acer          | Aspire A315-23G             | [8262ba8f4a](https://linux-hardware.org/?probe=8262ba8f4a) | Dec 27, 2021 |
 | Dell          | Inspiron 3520               | [902760a1e6](https://linux-hardware.org/?probe=902760a1e6) | Dec 27, 2021 |
 | Acer          | Aspire E5-511               | [86bd37c584](https://linux-hardware.org/?probe=86bd37c584) | Dec 27, 2021 |
 | Acer          | Aspire A515-56              | [359493a8bf](https://linux-hardware.org/?probe=359493a8bf) | Dec 27, 2021 |
 | Lenovo        | ThinkPad X220 4291W99       | [ead56def80](https://linux-hardware.org/?probe=ead56def80) | Dec 26, 2021 |
 | Lenovo        | ThinkPad T450 20BUS09X01    | [acce80e775](https://linux-hardware.org/?probe=acce80e775) | Dec 26, 2021 |
-| Lenovo        | IdeaPad S540-13API 81XC     | [e3a3030886](https://linux-hardware.org/?probe=e3a3030886) | Dec 26, 2021 |
 | Lenovo        | IdeaPad S540-13API 81XC     | [c7612aac66](https://linux-hardware.org/?probe=c7612aac66) | Dec 26, 2021 |
 | HP            | Laptop 15s-fq2xxx           | [cb4cb1ea51](https://linux-hardware.org/?probe=cb4cb1ea51) | Dec 26, 2021 |
 | HUAWEI        | BOHK-WAX9X                  | [1daccedded](https://linux-hardware.org/?probe=1daccedded) | Dec 26, 2021 |
 | HP            | Laptop 14s-fq1xxx           | [8e0b4fec6c](https://linux-hardware.org/?probe=8e0b4fec6c) | Dec 26, 2021 |
 | HUAWEI        | HVY-WXX9                    | [2c33c2931e](https://linux-hardware.org/?probe=2c33c2931e) | Dec 26, 2021 |
-| Toshiba       | Satellite L775D             | [1ad6310748](https://linux-hardware.org/?probe=1ad6310748) | Dec 26, 2021 |
 | Lenovo        | IdeaPad S145-15API 81V7     | [9a6b436bcb](https://linux-hardware.org/?probe=9a6b436bcb) | Dec 26, 2021 |
-| AXDIA Inte... | MYBOOK 14 PRO               | [73d605f4e5](https://linux-hardware.org/?probe=73d605f4e5) | Dec 26, 2021 |
 | Dell          | XPS 17 9700                 | [f82235d02f](https://linux-hardware.org/?probe=f82235d02f) | Dec 25, 2021 |
 | Dell          | Vostro 3560                 | [7bd51b12d6](https://linux-hardware.org/?probe=7bd51b12d6) | Dec 25, 2021 |
 | Dell          | Vostro 3560                 | [0929a4f988](https://linux-hardware.org/?probe=0929a4f988) | Dec 25, 2021 |
@@ -1422,14 +1540,12 @@ Total: 4587
 | ASUSTek       | X542UA                      | [920ca90cbe](https://linux-hardware.org/?probe=920ca90cbe) | Dec 13, 2021 |
 | MSI           | PS42 8RB                    | [539899e0d0](https://linux-hardware.org/?probe=539899e0d0) | Dec 12, 2021 |
 | Lenovo        | ThinkPad Edge E430 3254A... | [bd4021ec3d](https://linux-hardware.org/?probe=bd4021ec3d) | Dec 11, 2021 |
-| Dell          | Precision M6500             | [5b825d4133](https://linux-hardware.org/?probe=5b825d4133) | Dec 11, 2021 |
 | Lenovo        | Z51-70 80K6                 | [3faa0a2aad](https://linux-hardware.org/?probe=3faa0a2aad) | Dec 11, 2021 |
 | Insyde        | CherryTrail                 | [1525831810](https://linux-hardware.org/?probe=1525831810) | Dec 11, 2021 |
 | Dell          | XPS 17 9700                 | [d5ec843ea7](https://linux-hardware.org/?probe=d5ec843ea7) | Dec 11, 2021 |
 | HASEE Comp... | E400                        | [32bee165ba](https://linux-hardware.org/?probe=32bee165ba) | Dec 11, 2021 |
 | HP            | ZBook Firefly 15 inch G8... | [f2bfaaf185](https://linux-hardware.org/?probe=f2bfaaf185) | Dec 11, 2021 |
 | HP            | ProBook 440 G6              | [8c952bfc3d](https://linux-hardware.org/?probe=8c952bfc3d) | Dec 11, 2021 |
-| AXDIA Inte... | MYBOOK 14 PRO               | [7d2780ae1a](https://linux-hardware.org/?probe=7d2780ae1a) | Dec 11, 2021 |
 | Apple         | MacBookPro3,1               | [4577eaf68d](https://linux-hardware.org/?probe=4577eaf68d) | Dec 11, 2021 |
 | HP            | EliteBook 2540p (VB841AV... | [c0406366e7](https://linux-hardware.org/?probe=c0406366e7) | Dec 10, 2021 |
 | Lenovo        | ThinkPad P51s 20HB000URT    | [e4f3353735](https://linux-hardware.org/?probe=e4f3353735) | Dec 10, 2021 |
@@ -1451,7 +1567,6 @@ Total: 4587
 | ASUSTek       | ZenBook UX325EA_UX325EA     | [610d56a10a](https://linux-hardware.org/?probe=610d56a10a) | Dec 08, 2021 |
 | Apple         | MacBookAir7,1               | [0a1d0c4e9b](https://linux-hardware.org/?probe=0a1d0c4e9b) | Dec 07, 2021 |
 | Google        | Enguarde                    | [75bc922bae](https://linux-hardware.org/?probe=75bc922bae) | Dec 07, 2021 |
-| Lenovo        | G585 2181                   | [9f1eb2ede7](https://linux-hardware.org/?probe=9f1eb2ede7) | Dec 07, 2021 |
 | Dell          | Latitude 7490               | [187ce36374](https://linux-hardware.org/?probe=187ce36374) | Dec 07, 2021 |
 | Lenovo        | G585 2181                   | [c03b3fab75](https://linux-hardware.org/?probe=c03b3fab75) | Dec 07, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [4173a9406a](https://linux-hardware.org/?probe=4173a9406a) | Dec 07, 2021 |
@@ -1460,7 +1575,6 @@ Total: 4587
 | HP            | Laptop 15                   | [da76eec83a](https://linux-hardware.org/?probe=da76eec83a) | Dec 07, 2021 |
 | HP            | Laptop 15-db1xxx            | [0a6e6fb2e6](https://linux-hardware.org/?probe=0a6e6fb2e6) | Dec 07, 2021 |
 | HP            | Laptop 15-db1xxx            | [f2a731f5bc](https://linux-hardware.org/?probe=f2a731f5bc) | Dec 07, 2021 |
-| HP            | Laptop 15-db0xxx            | [c2e3c75ed0](https://linux-hardware.org/?probe=c2e3c75ed0) | Dec 07, 2021 |
 | HP            | Laptop 15-db1xxx            | [438e75161a](https://linux-hardware.org/?probe=438e75161a) | Dec 07, 2021 |
 | HP            | Laptop 15-db1xxx            | [8e20af97d9](https://linux-hardware.org/?probe=8e20af97d9) | Dec 07, 2021 |
 | Lenovo        | ThinkPad L14 Gen 2 20X10... | [830882c4e6](https://linux-hardware.org/?probe=830882c4e6) | Dec 07, 2021 |
@@ -1475,34 +1589,27 @@ Total: 4587
 | Dell          | Latitude E7440              | [bb71f679cf](https://linux-hardware.org/?probe=bb71f679cf) | Dec 06, 2021 |
 | HP            | EliteBook 840 G7 Noteboo... | [d78c027940](https://linux-hardware.org/?probe=d78c027940) | Dec 05, 2021 |
 | Lenovo        | ThinkPad E14 20RA001LMC     | [2694c27280](https://linux-hardware.org/?probe=2694c27280) | Dec 05, 2021 |
-| Lenovo        | ThinkPad E14 20RA001LMC     | [4a20a593d0](https://linux-hardware.org/?probe=4a20a593d0) | Dec 05, 2021 |
 | HP            | Compaq CQ58                 | [a859413f86](https://linux-hardware.org/?probe=a859413f86) | Dec 05, 2021 |
 | Chuwi         | LarkBook                    | [d79825f0e0](https://linux-hardware.org/?probe=d79825f0e0) | Dec 05, 2021 |
 | Lenovo        | ThinkPad T495s 20QKS01E0... | [b7f992ec75](https://linux-hardware.org/?probe=b7f992ec75) | Dec 05, 2021 |
 | Apple         | MacBookPro12,1              | [a6e257304d](https://linux-hardware.org/?probe=a6e257304d) | Dec 05, 2021 |
 | Lenovo        | ThinkPad T450 20BUS46900    | [980d2b1409](https://linux-hardware.org/?probe=980d2b1409) | Dec 04, 2021 |
 | HP            | EliteBook 8460p             | [97aec623b3](https://linux-hardware.org/?probe=97aec623b3) | Dec 04, 2021 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [5f7a6857d1](https://linux-hardware.org/?probe=5f7a6857d1) | Dec 04, 2021 |
 | Lenovo        | ThinkPad T410 2522Y15       | [8b9bc362b3](https://linux-hardware.org/?probe=8b9bc362b3) | Dec 04, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [18da52385a](https://linux-hardware.org/?probe=18da52385a) | Dec 04, 2021 |
 | Lenovo        | ThinkPad T480s 20L7CTO1W... | [d1843d03ba](https://linux-hardware.org/?probe=d1843d03ba) | Dec 04, 2021 |
 | Notebook      | NV4XMB,ME,MZ                | [ec05196354](https://linux-hardware.org/?probe=ec05196354) | Dec 03, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [1adcfe3e5e](https://linux-hardware.org/?probe=1adcfe3e5e) | Dec 03, 2021 |
 | AXDIA Inte... | MYBOOK 14 PRO               | [0ae648efae](https://linux-hardware.org/?probe=0ae648efae) | Dec 03, 2021 |
-| HP            | Pavilion Gaming Laptop 1... | [db4aacc50a](https://linux-hardware.org/?probe=db4aacc50a) | Dec 03, 2021 |
 | Dell          | Latitude E6400              | [b8e56749b8](https://linux-hardware.org/?probe=b8e56749b8) | Dec 03, 2021 |
 | HP            | Laptop 15-db0xxx            | [b7a0fe35eb](https://linux-hardware.org/?probe=b7a0fe35eb) | Dec 03, 2021 |
 | Lenovo        | ThinkPad T430 2349S9E       | [0da495ab3b](https://linux-hardware.org/?probe=0da495ab3b) | Dec 02, 2021 |
 | Lenovo        | B50-70 20384                | [d75361564f](https://linux-hardware.org/?probe=d75361564f) | Dec 02, 2021 |
 | Lenovo        | ThinkPad T450s 20BWS2US0... | [0e099c0bdd](https://linux-hardware.org/?probe=0e099c0bdd) | Dec 02, 2021 |
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [f102e6537d](https://linux-hardware.org/?probe=f102e6537d) | Dec 02, 2021 |
-| Lenovo        | ThinkPad 13 2nd Gen 20J1... | [92c4d0059f](https://linux-hardware.org/?probe=92c4d0059f) | Dec 02, 2021 |
-| HP            | Pavilion Gaming Laptop 1... | [42575594c3](https://linux-hardware.org/?probe=42575594c3) | Dec 02, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [4459608572](https://linux-hardware.org/?probe=4459608572) | Dec 02, 2021 |
 | ASUSTek       | ASUS EXPERTBOOK B1400CEA... | [37d28d8425](https://linux-hardware.org/?probe=37d28d8425) | Dec 02, 2021 |
 | Schenker      | VIA 15 Pro                  | [6b98d6a307](https://linux-hardware.org/?probe=6b98d6a307) | Dec 02, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [8f2252e65a](https://linux-hardware.org/?probe=8f2252e65a) | Dec 02, 2021 |
-| Dell          | Inspiron 3793               | [bdd0f25735](https://linux-hardware.org/?probe=bdd0f25735) | Dec 01, 2021 |
 | ASUSTek       | ZenBook UX325EA_UX325EA     | [933ffd0145](https://linux-hardware.org/?probe=933ffd0145) | Dec 01, 2021 |
 | Lenovo        | ThinkPad X1 Carbon Gen 8... | [63dade9d7b](https://linux-hardware.org/?probe=63dade9d7b) | Dec 01, 2021 |
 | Lenovo        | ThinkPad T410 2522Y15       | [c57f5d2453](https://linux-hardware.org/?probe=c57f5d2453) | Nov 30, 2021 |
@@ -1519,13 +1626,9 @@ Total: 4587
 | Lenovo        | ThinkPad T490 20N2CTO1WW    | [cca6a99387](https://linux-hardware.org/?probe=cca6a99387) | Nov 29, 2021 |
 | MSI           | MS-N014                     | [f98cf89699](https://linux-hardware.org/?probe=f98cf89699) | Nov 29, 2021 |
 | MSI           | MS-N014                     | [a90d5979be](https://linux-hardware.org/?probe=a90d5979be) | Nov 29, 2021 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [2360f50367](https://linux-hardware.org/?probe=2360f50367) | Nov 29, 2021 |
-| IBM           | ThinkPad T43 2668BU7        | [594b3488d6](https://linux-hardware.org/?probe=594b3488d6) | Nov 29, 2021 |
 | Acer          | Aspire E5-521               | [48d70742bb](https://linux-hardware.org/?probe=48d70742bb) | Nov 28, 2021 |
 | Acer          | Aspire 5610                 | [853aee060d](https://linux-hardware.org/?probe=853aee060d) | Nov 28, 2021 |
 | Lenovo        | ThinkPad T14 Gen 1 20S00... | [4fa0a94620](https://linux-hardware.org/?probe=4fa0a94620) | Nov 28, 2021 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [6e1ecfa79e](https://linux-hardware.org/?probe=6e1ecfa79e) | Nov 28, 2021 |
-| Timi          | A7S                         | [ae14f4acfe](https://linux-hardware.org/?probe=ae14f4acfe) | Nov 28, 2021 |
 | Dell          | Vostro 3400                 | [d8946eaf3c](https://linux-hardware.org/?probe=d8946eaf3c) | Nov 28, 2021 |
 | Toshiba       | Satellite L40               | [d031ddee30](https://linux-hardware.org/?probe=d031ddee30) | Nov 28, 2021 |
 | Philco        | OEM                         | [3d13f6a539](https://linux-hardware.org/?probe=3d13f6a539) | Nov 28, 2021 |
@@ -1535,14 +1638,11 @@ Total: 4587
 | HP            | Pavilion dv6                | [e81d5a7298](https://linux-hardware.org/?probe=e81d5a7298) | Nov 27, 2021 |
 | HP            | Pavilion dv6                | [02376f3101](https://linux-hardware.org/?probe=02376f3101) | Nov 27, 2021 |
 | HUAWEI        | HVY-WXX9                    | [c6289480ca](https://linux-hardware.org/?probe=c6289480ca) | Nov 27, 2021 |
-| Acer          | Aspire E5-521               | [7984741863](https://linux-hardware.org/?probe=7984741863) | Nov 27, 2021 |
 | Samsung       | 300E4C/300E5C/300E7C        | [16be623c84](https://linux-hardware.org/?probe=16be623c84) | Nov 27, 2021 |
 | Lenovo        | ThinkPad T14 Gen 1 20S00... | [f08b8241b0](https://linux-hardware.org/?probe=f08b8241b0) | Nov 26, 2021 |
 | HP            | ProBook 635 Aero G7 Note... | [bef33ffa93](https://linux-hardware.org/?probe=bef33ffa93) | Nov 26, 2021 |
 | Dell          | XPS 13 9310                 | [ec7596ddfa](https://linux-hardware.org/?probe=ec7596ddfa) | Nov 26, 2021 |
 | Lenovo        | B50-10 80QR                 | [5e57df0c06](https://linux-hardware.org/?probe=5e57df0c06) | Nov 26, 2021 |
-| Lenovo        | IdeaPad 3 15IIL05 81WE      | [550ad36300](https://linux-hardware.org/?probe=550ad36300) | Nov 26, 2021 |
-| Lenovo        | IdeaPad 3 15IIL05 81WE      | [db67630cee](https://linux-hardware.org/?probe=db67630cee) | Nov 26, 2021 |
 | HUAWEI        | HVY-WXX9                    | [7569ef6338](https://linux-hardware.org/?probe=7569ef6338) | Nov 26, 2021 |
 | Dell          | XPS 13 9305                 | [1d19ad984f](https://linux-hardware.org/?probe=1d19ad984f) | Nov 26, 2021 |
 | AXDIA Inte... | Wintab 10                   | [9db3481488](https://linux-hardware.org/?probe=9db3481488) | Nov 25, 2021 |
@@ -1550,7 +1650,6 @@ Total: 4587
 | Lenovo        | ThinkPad E15 Gen 3 20YGC... | [5f3cfbdd91](https://linux-hardware.org/?probe=5f3cfbdd91) | Nov 25, 2021 |
 | Avell High... | B.ON                        | [5fd318217e](https://linux-hardware.org/?probe=5fd318217e) | Nov 25, 2021 |
 | HP            | Presario CQ56               | [a9203b72bb](https://linux-hardware.org/?probe=a9203b72bb) | Nov 25, 2021 |
-| Compal        | QAL51                       | [d7e7cedc5c](https://linux-hardware.org/?probe=d7e7cedc5c) | Nov 25, 2021 |
 | HP            | 255 G6 Notebook PC          | [a0a3c23fb7](https://linux-hardware.org/?probe=a0a3c23fb7) | Nov 25, 2021 |
 | AXDIA Inte... | Wintab 10                   | [04f77c36b0](https://linux-hardware.org/?probe=04f77c36b0) | Nov 24, 2021 |
 | Lenovo        | ThinkPad W540 20BG0042FR    | [02b8528d76](https://linux-hardware.org/?probe=02b8528d76) | Nov 24, 2021 |
@@ -1565,16 +1664,13 @@ Total: 4587
 | Lenovo        | ThinkPad T420 4180ED3       | [c7726d6967](https://linux-hardware.org/?probe=c7726d6967) | Nov 23, 2021 |
 | Dell          | Inspiron 11-3168            | [b7b3b8ef38](https://linux-hardware.org/?probe=b7b3b8ef38) | Nov 23, 2021 |
 | Lenovo        | IdeaPad 5 14ALC05 82LM      | [a99a51f4e0](https://linux-hardware.org/?probe=a99a51f4e0) | Nov 23, 2021 |
-| MSI           | Creator Z16 Hiroshi F A1... | [40f615079d](https://linux-hardware.org/?probe=40f615079d) | Nov 23, 2021 |
 | Acer          | Predator PH315-52           | [ce6d0a4e47](https://linux-hardware.org/?probe=ce6d0a4e47) | Nov 22, 2021 |
 | Samsung       | RV420/RV520/RV720/E3530/... | [d279b3f946](https://linux-hardware.org/?probe=d279b3f946) | Nov 22, 2021 |
 | Dell          | Latitude 5421               | [21f7411827](https://linux-hardware.org/?probe=21f7411827) | Nov 22, 2021 |
 | Lenovo        | ThinkPad X250 20CM004UGE    | [26bd0cd883](https://linux-hardware.org/?probe=26bd0cd883) | Nov 22, 2021 |
-| HP            | ZBook Firefly 14 G7 Mobi... | [0dc4672364](https://linux-hardware.org/?probe=0dc4672364) | Nov 21, 2021 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | [d5a663555f](https://linux-hardware.org/?probe=d5a663555f) | Nov 21, 2021 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | [2b69fd787e](https://linux-hardware.org/?probe=2b69fd787e) | Nov 21, 2021 |
 | ASUSTek       | ZenBook UX482EG_UX482EG     | [2e109e9059](https://linux-hardware.org/?probe=2e109e9059) | Nov 21, 2021 |
-| Dell          | Latitude E6330              | [843131a308](https://linux-hardware.org/?probe=843131a308) | Nov 21, 2021 |
 | HP            | ENVY m7                     | [97fae6afa0](https://linux-hardware.org/?probe=97fae6afa0) | Nov 21, 2021 |
 | Lenovo        | ThinkPad T480s 20L8S31E0... | [5015d88753](https://linux-hardware.org/?probe=5015d88753) | Nov 21, 2021 |
 | Lenovo        | ThinkPad T460 20FMS66R00    | [f66705283e](https://linux-hardware.org/?probe=f66705283e) | Nov 21, 2021 |
@@ -1588,22 +1684,16 @@ Total: 4587
 | IBM           | ThinkPad T43 26688AG        | [f0e357cf85](https://linux-hardware.org/?probe=f0e357cf85) | Nov 20, 2021 |
 | IBM           | ThinkPad T43 26688AG        | [26b7c2dab9](https://linux-hardware.org/?probe=26b7c2dab9) | Nov 20, 2021 |
 | ASUSTek       | ZenBook Pro Duo UX581LV_... | [065770fe24](https://linux-hardware.org/?probe=065770fe24) | Nov 19, 2021 |
-| Lenovo        | ThinkPad T430 2349S9E       | [d68e11bb6f](https://linux-hardware.org/?probe=d68e11bb6f) | Nov 19, 2021 |
 | Acer          | TravelMate 4220             | [154009efd2](https://linux-hardware.org/?probe=154009efd2) | Nov 19, 2021 |
 | Acer          | TravelMate 4220             | [b437a6cdee](https://linux-hardware.org/?probe=b437a6cdee) | Nov 19, 2021 |
 | HP            | ProBook 4530s               | [de11d1bb53](https://linux-hardware.org/?probe=de11d1bb53) | Nov 19, 2021 |
-| Compal        | QAL51                       | [9922147938](https://linux-hardware.org/?probe=9922147938) | Nov 19, 2021 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [15916ce478](https://linux-hardware.org/?probe=15916ce478) | Nov 19, 2021 |
 | Apple         | MacBookAir7,2               | [4a24670ff6](https://linux-hardware.org/?probe=4a24670ff6) | Nov 19, 2021 |
 | Lenovo        | G50-30 80G0                 | [1604bcdd0d](https://linux-hardware.org/?probe=1604bcdd0d) | Nov 19, 2021 |
-| HP            | EliteBook 840 G2            | [736657999a](https://linux-hardware.org/?probe=736657999a) | Nov 18, 2021 |
 | Lenovo        | V14-IIL 82C4                | [7f0992aae9](https://linux-hardware.org/?probe=7f0992aae9) | Nov 18, 2021 |
 | Lenovo        | ThinkPad T14 Gen 2i 20W0... | [6da7601574](https://linux-hardware.org/?probe=6da7601574) | Nov 18, 2021 |
-| Dell          | Inspiron 3793               | [bc9da19934](https://linux-hardware.org/?probe=bc9da19934) | Nov 18, 2021 |
 | ASUSTek       | K53U                        | [8b542e61d9](https://linux-hardware.org/?probe=8b542e61d9) | Nov 18, 2021 |
 | Google        | Stout                       | [2201cceced](https://linux-hardware.org/?probe=2201cceced) | Nov 17, 2021 |
 | Lenovo        | ThinkPad 20J10046US         | [1597db42c1](https://linux-hardware.org/?probe=1597db42c1) | Nov 17, 2021 |
-| Dell          | Inspiron 3793               | [a1c2626420](https://linux-hardware.org/?probe=a1c2626420) | Nov 17, 2021 |
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [3025843274](https://linux-hardware.org/?probe=3025843274) | Nov 17, 2021 |
 | Sony          | SVE1712E1RB                 | [4be9dde00d](https://linux-hardware.org/?probe=4be9dde00d) | Nov 17, 2021 |
 | Dell          | System XPS L502X            | [8d247d71f2](https://linux-hardware.org/?probe=8d247d71f2) | Nov 17, 2021 |
@@ -1612,10 +1702,8 @@ Total: 4587
 | ASUSTek       | 1015PE                      | [9735619dd6](https://linux-hardware.org/?probe=9735619dd6) | Nov 17, 2021 |
 | Dell          | 0NY667                      | [d0c838dff6](https://linux-hardware.org/?probe=d0c838dff6) | Nov 17, 2021 |
 | HUAWEI        | BOHK-WAX9X                  | [5f28060674](https://linux-hardware.org/?probe=5f28060674) | Nov 16, 2021 |
-| Lenovo        | ThinkPad T430 2349S9E       | [72ac73a219](https://linux-hardware.org/?probe=72ac73a219) | Nov 16, 2021 |
 | Apple         | MacBookPro5,5               | [706587b8f3](https://linux-hardware.org/?probe=706587b8f3) | Nov 16, 2021 |
 | Lenovo        | ThinkPad T430 2347G61       | [12ee1cee2b](https://linux-hardware.org/?probe=12ee1cee2b) | Nov 16, 2021 |
-| ASUSTek       | ZenBook Pro Duo UX581GV_... | [f65310e00b](https://linux-hardware.org/?probe=f65310e00b) | Nov 16, 2021 |
 | Acer          | Aspire V3-772G              | [1e66881588](https://linux-hardware.org/?probe=1e66881588) | Nov 16, 2021 |
 | Acer          | TravelMate 8371             | [312ed52708](https://linux-hardware.org/?probe=312ed52708) | Nov 16, 2021 |
 | Acer          | TravelMate 8371             | [78b196a98c](https://linux-hardware.org/?probe=78b196a98c) | Nov 16, 2021 |
@@ -1636,13 +1724,11 @@ Total: 4587
 | HP            | EliteBook 2740p             | [8406ced05c](https://linux-hardware.org/?probe=8406ced05c) | Nov 14, 2021 |
 | HP            | EliteBook 2740p             | [f035cd561e](https://linux-hardware.org/?probe=f035cd561e) | Nov 14, 2021 |
 | MSI           | GE60 2OC\2OD\2OE            | [4d129ac049](https://linux-hardware.org/?probe=4d129ac049) | Nov 14, 2021 |
-| Dell          | Latitude E6330              | [a03858cc87](https://linux-hardware.org/?probe=a03858cc87) | Nov 13, 2021 |
 | MSI           | Prestige 15 A10SC           | [b362dd3f20](https://linux-hardware.org/?probe=b362dd3f20) | Nov 13, 2021 |
 | Dell          | Precision 7520              | [55077aa291](https://linux-hardware.org/?probe=55077aa291) | Nov 13, 2021 |
 | ASUSTek       | ASUS EXPERTBOOK B1500CEA... | [c1a976d644](https://linux-hardware.org/?probe=c1a976d644) | Nov 13, 2021 |
 | Lenovo        | ThinkPad L470 W10DG 20JV... | [8b26cea464](https://linux-hardware.org/?probe=8b26cea464) | Nov 13, 2021 |
 | Lenovo        | ThinkPad X201 3626GG3       | [78619d2639](https://linux-hardware.org/?probe=78619d2639) | Nov 12, 2021 |
-| Compal        | QAL51                       | [431d587da7](https://linux-hardware.org/?probe=431d587da7) | Nov 12, 2021 |
 | Dell          | Inspiron 7447               | [4ca16063da](https://linux-hardware.org/?probe=4ca16063da) | Nov 12, 2021 |
 | Acer          | Aspire F5-573G              | [768c187f40](https://linux-hardware.org/?probe=768c187f40) | Nov 12, 2021 |
 | HP            | ProBook 450 G8 Notebook ... | [924d961707](https://linux-hardware.org/?probe=924d961707) | Nov 12, 2021 |
@@ -1667,7 +1753,6 @@ Total: 4587
 | Apple         | MacBookAir7,1               | [006454048e](https://linux-hardware.org/?probe=006454048e) | Nov 09, 2021 |
 | Apple         | MacBookAir7,1               | [466c86045e](https://linux-hardware.org/?probe=466c86045e) | Nov 09, 2021 |
 | Apple         | MacBookAir7,1               | [e9818fe37e](https://linux-hardware.org/?probe=e9818fe37e) | Nov 09, 2021 |
-| Apple         | MacBookAir7,1               | [eeb1d38579](https://linux-hardware.org/?probe=eeb1d38579) | Nov 09, 2021 |
 | Apple         | MacBookAir7,1               | [deab410735](https://linux-hardware.org/?probe=deab410735) | Nov 09, 2021 |
 | Apple         | MacBookAir7,1               | [1ab4a1aebc](https://linux-hardware.org/?probe=1ab4a1aebc) | Nov 09, 2021 |
 | Apple         | MacBookAir7,1               | [6d39af3a58](https://linux-hardware.org/?probe=6d39af3a58) | Nov 09, 2021 |
@@ -1690,13 +1775,11 @@ Total: 4587
 | Google        | Relm                        | [9ff6f82dc7](https://linux-hardware.org/?probe=9ff6f82dc7) | Nov 07, 2021 |
 | Dell          | Inspiron 15-3567            | [9c14e4d461](https://linux-hardware.org/?probe=9c14e4d461) | Nov 06, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [1dd0c3ba0a](https://linux-hardware.org/?probe=1dd0c3ba0a) | Nov 05, 2021 |
-| Dell          | Latitude E6330              | [cafb5e6e80](https://linux-hardware.org/?probe=cafb5e6e80) | Nov 05, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X515... | [31f91364c1](https://linux-hardware.org/?probe=31f91364c1) | Nov 04, 2021 |
 | HP            | Laptop 14-ck0xxx            | [8d24d56a03](https://linux-hardware.org/?probe=8d24d56a03) | Nov 04, 2021 |
 | HP            | EliteBook 840 G2            | [cd9efb14b2](https://linux-hardware.org/?probe=cd9efb14b2) | Nov 04, 2021 |
 | Unknown       | Unknown                     | [64a170e367](https://linux-hardware.org/?probe=64a170e367) | Nov 04, 2021 |
 | Aquarius      | NS585                       | [8d7faba1cb](https://linux-hardware.org/?probe=8d7faba1cb) | Nov 04, 2021 |
-| Aquarius      | NS585                       | [99b57214d1](https://linux-hardware.org/?probe=99b57214d1) | Nov 04, 2021 |
 | ASUSTek       | K52F                        | [f90cbb4d26](https://linux-hardware.org/?probe=f90cbb4d26) | Nov 04, 2021 |
 | Dell          | Latitude 5511               | [6dca737664](https://linux-hardware.org/?probe=6dca737664) | Nov 04, 2021 |
 | Dell          | Latitude 5511               | [f2ef4f8e35](https://linux-hardware.org/?probe=f2ef4f8e35) | Nov 04, 2021 |
@@ -1707,7 +1790,6 @@ Total: 4587
 | ASUSTek       | BU403UA                     | [acb1038124](https://linux-hardware.org/?probe=acb1038124) | Nov 03, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 6th 2... | [810980b4bd](https://linux-hardware.org/?probe=810980b4bd) | Nov 03, 2021 |
 | Lenovo        | ThinkPad T480 20L50009MX    | [349faf5242](https://linux-hardware.org/?probe=349faf5242) | Nov 03, 2021 |
-| HP            | EliteBook 840 G2            | [2e08c10fec](https://linux-hardware.org/?probe=2e08c10fec) | Nov 02, 2021 |
 | Dell          | Vostro 3500                 | [6eb01124a7](https://linux-hardware.org/?probe=6eb01124a7) | Nov 02, 2021 |
 | Dell          | Latitude D600               | [024dd9fbc7](https://linux-hardware.org/?probe=024dd9fbc7) | Nov 02, 2021 |
 | ASUSTek       | ROG Strix G731GU_G731GU     | [bf52b0246d](https://linux-hardware.org/?probe=bf52b0246d) | Nov 02, 2021 |
@@ -1723,9 +1805,7 @@ Total: 4587
 | HP            | Mini 110-3100               | [7312570938](https://linux-hardware.org/?probe=7312570938) | Oct 30, 2021 |
 | Dell          | Inspiron 1525               | [38b4ba227c](https://linux-hardware.org/?probe=38b4ba227c) | Oct 30, 2021 |
 | Dell          | Inspiron 1525               | [b6302b710d](https://linux-hardware.org/?probe=b6302b710d) | Oct 30, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [c0b80e3276](https://linux-hardware.org/?probe=c0b80e3276) | Oct 30, 2021 |
 | ASUSTek       | N10Jh                       | [9d10643a15](https://linux-hardware.org/?probe=9d10643a15) | Oct 30, 2021 |
-| Dell          | Vostro 3500                 | [60f4ac8cc5](https://linux-hardware.org/?probe=60f4ac8cc5) | Oct 30, 2021 |
 | Apple         | MacBookAir7,2               | [5be083edab](https://linux-hardware.org/?probe=5be083edab) | Oct 29, 2021 |
 | HP            | OMEN Laptop 15-en1xxx       | [9f4e0e6da5](https://linux-hardware.org/?probe=9f4e0e6da5) | Oct 29, 2021 |
 | Lenovo        | G570 4334                   | [d1d57448c4](https://linux-hardware.org/?probe=d1d57448c4) | Oct 29, 2021 |
@@ -1741,21 +1821,16 @@ Total: 4587
 | HP            | EliteBook 8460p             | [8264430178](https://linux-hardware.org/?probe=8264430178) | Oct 28, 2021 |
 | HP            | Laptop 17-by1xxx            | [e6406f34f8](https://linux-hardware.org/?probe=e6406f34f8) | Oct 27, 2021 |
 | Lenovo        | ThinkPad T480s 20L7002AU... | [dda6d4cdcb](https://linux-hardware.org/?probe=dda6d4cdcb) | Oct 26, 2021 |
-| Dell          | Latitude E6330              | [872cfff7da](https://linux-hardware.org/?probe=872cfff7da) | Oct 26, 2021 |
 | Lenovo        | ThinkPad X1 Carbon Gen 9... | [67ab68b5f3](https://linux-hardware.org/?probe=67ab68b5f3) | Oct 26, 2021 |
 | Lenovo        | ThinkPad T540p 20BFS05B0... | [5026826dbe](https://linux-hardware.org/?probe=5026826dbe) | Oct 26, 2021 |
 | Lenovo        | ThinkPad T540p 20BFS05B0... | [f644310091](https://linux-hardware.org/?probe=f644310091) | Oct 26, 2021 |
 | Dell          | Inspiron 5570               | [c01fa4b013](https://linux-hardware.org/?probe=c01fa4b013) | Oct 26, 2021 |
-| Dell          | Latitude E6330              | [c3e7f97c42](https://linux-hardware.org/?probe=c3e7f97c42) | Oct 25, 2021 |
-| Dell          | Latitude E6330              | [0e88df3ae7](https://linux-hardware.org/?probe=0e88df3ae7) | Oct 25, 2021 |
 | HP            | Pavilion g6                 | [2c2d7620f9](https://linux-hardware.org/?probe=2c2d7620f9) | Oct 25, 2021 |
 | Acer          | AOA150                      | [1380638bb1](https://linux-hardware.org/?probe=1380638bb1) | Oct 25, 2021 |
 | Dell          | Latitude E6540              | [df9262f810](https://linux-hardware.org/?probe=df9262f810) | Oct 25, 2021 |
 | ASUSTek       | TUF Gaming FX506LU_FX506... | [8f6efb8dbe](https://linux-hardware.org/?probe=8f6efb8dbe) | Oct 24, 2021 |
 | Acer          | Swift SF314-59              | [1e4856a770](https://linux-hardware.org/?probe=1e4856a770) | Oct 24, 2021 |
 | Lenovo        | ThinkPad E15 Gen 2 20TES... | [be67e01a7d](https://linux-hardware.org/?probe=be67e01a7d) | Oct 24, 2021 |
-| Acer          | Aspire A315-23G             | [09f6196e70](https://linux-hardware.org/?probe=09f6196e70) | Oct 23, 2021 |
-| Dell          | Latitude E6330              | [e7a19ad923](https://linux-hardware.org/?probe=e7a19ad923) | Oct 23, 2021 |
 | HP            | ProBook 430 G5              | [6954277377](https://linux-hardware.org/?probe=6954277377) | Oct 23, 2021 |
 | HUAWEI        | BOHK-WAX9X                  | [7aac95cd60](https://linux-hardware.org/?probe=7aac95cd60) | Oct 23, 2021 |
 | ASUSTek       | ZenBook UX425QA_UM425QA     | [c8f19e95d8](https://linux-hardware.org/?probe=c8f19e95d8) | Oct 23, 2021 |
@@ -1778,8 +1853,6 @@ Total: 4587
 | ASUSTek       | N551JW                      | [a6c41c9d3e](https://linux-hardware.org/?probe=a6c41c9d3e) | Oct 19, 2021 |
 | Dell          | XPS L521X                   | [925df2fec0](https://linux-hardware.org/?probe=925df2fec0) | Oct 19, 2021 |
 | Lenovo        | ThinkPad L15 Gen 2 20X4S... | [0290c2ca6d](https://linux-hardware.org/?probe=0290c2ca6d) | Oct 19, 2021 |
-| ASUSTek       | ROG Strix G731GU_G731GU     | [3c7c0bfb25](https://linux-hardware.org/?probe=3c7c0bfb25) | Oct 18, 2021 |
-| Lenovo        | ThinkPad 20J10046US         | [cad3a5eb69](https://linux-hardware.org/?probe=cad3a5eb69) | Oct 18, 2021 |
 | ASUSTek       | ROG Strix G731GU_G731GU     | [eda72ab2ff](https://linux-hardware.org/?probe=eda72ab2ff) | Oct 18, 2021 |
 | Lenovo        | ThinkPad T480 20L5000AMC    | [ea23d24f90](https://linux-hardware.org/?probe=ea23d24f90) | Oct 18, 2021 |
 | Aquarius      | NS585                       | [ea22908ff7](https://linux-hardware.org/?probe=ea22908ff7) | Oct 18, 2021 |
@@ -1789,7 +1862,6 @@ Total: 4587
 | Aquarius      | NS585                       | [08f117fdcb](https://linux-hardware.org/?probe=08f117fdcb) | Oct 18, 2021 |
 | Aquarius      | NS585                       | [3921dda159](https://linux-hardware.org/?probe=3921dda159) | Oct 18, 2021 |
 | Aquarius      | NS585                       | [22c808750d](https://linux-hardware.org/?probe=22c808750d) | Oct 18, 2021 |
-| Acer          | Aspire A315-23G             | [66d1015de7](https://linux-hardware.org/?probe=66d1015de7) | Oct 17, 2021 |
 | Acer          | Aspire A515-51G             | [43bfef3bcd](https://linux-hardware.org/?probe=43bfef3bcd) | Oct 17, 2021 |
 | Lenovo        | S10-3                       | [1f4f861804](https://linux-hardware.org/?probe=1f4f861804) | Oct 17, 2021 |
 | Dell          | XPS 13 9305                 | [d13426531e](https://linux-hardware.org/?probe=d13426531e) | Oct 17, 2021 |
@@ -1810,17 +1882,14 @@ Total: 4587
 | Lenovo        | ThinkPad X60 17068GG        | [2f3b34aac4](https://linux-hardware.org/?probe=2f3b34aac4) | Oct 15, 2021 |
 | Apple         | MacBookPro14,1              | [dc7e454319](https://linux-hardware.org/?probe=dc7e454319) | Oct 15, 2021 |
 | Apple         | MacBookPro14,1              | [bf9482b190](https://linux-hardware.org/?probe=bf9482b190) | Oct 15, 2021 |
-| Lenovo        | Y520-15IKBN 80WK            | [a7045defdf](https://linux-hardware.org/?probe=a7045defdf) | Oct 15, 2021 |
 | Dell          | Latitude D600               | [c4a1e26625](https://linux-hardware.org/?probe=c4a1e26625) | Oct 15, 2021 |
 | Dell          | Latitude D600               | [994b244534](https://linux-hardware.org/?probe=994b244534) | Oct 15, 2021 |
 | Lenovo        | ThinkPad X1 Carbon Gen 9... | [4aa5287a00](https://linux-hardware.org/?probe=4aa5287a00) | Oct 15, 2021 |
 | Dell          | G7 7700                     | [273e51402c](https://linux-hardware.org/?probe=273e51402c) | Oct 15, 2021 |
 | Dell          | XPS 15 7590                 | [ff55772306](https://linux-hardware.org/?probe=ff55772306) | Oct 15, 2021 |
-| Lenovo        | ThinkPad E15 Gen 3 20YGC... | [9005e4d86d](https://linux-hardware.org/?probe=9005e4d86d) | Oct 15, 2021 |
 | HUAWEI        | BOHK-WAX9X                  | [6360789a1c](https://linux-hardware.org/?probe=6360789a1c) | Oct 14, 2021 |
 | Lenovo        | ThinkPad 20J10046US         | [2d46a44cca](https://linux-hardware.org/?probe=2d46a44cca) | Oct 14, 2021 |
 | Apple         | MacBookAir7,2               | [f78b91b7de](https://linux-hardware.org/?probe=f78b91b7de) | Oct 14, 2021 |
-| Acer          | Aspire A315-23G             | [f8f343d12b](https://linux-hardware.org/?probe=f8f343d12b) | Oct 14, 2021 |
 | HP            | EliteBook 840 G7 Noteboo... | [c3cdfe0336](https://linux-hardware.org/?probe=c3cdfe0336) | Oct 14, 2021 |
 | Aquarius      | NS585                       | [7345eddec4](https://linux-hardware.org/?probe=7345eddec4) | Oct 14, 2021 |
 | Apple         | MacBookAir7,1               | [22a831db3d](https://linux-hardware.org/?probe=22a831db3d) | Oct 14, 2021 |
@@ -1830,16 +1899,13 @@ Total: 4587
 | Acer          | Aspire A515-51G             | [7555392d34](https://linux-hardware.org/?probe=7555392d34) | Oct 14, 2021 |
 | Aquarius      | NS585                       | [aaca557699](https://linux-hardware.org/?probe=aaca557699) | Oct 14, 2021 |
 | HP            | EliteBook 745 G6            | [295112838e](https://linux-hardware.org/?probe=295112838e) | Oct 14, 2021 |
-| Sony          | VAIO                        | [22a4b460cc](https://linux-hardware.org/?probe=22a4b460cc) | Oct 14, 2021 |
+| Sony          | SVE14A15FLB                 | [22a4b460cc](https://linux-hardware.org/?probe=22a4b460cc) | Oct 14, 2021 |
 | Lenovo        | ThinkPad T400 2768WGB       | [2ae81cd94f](https://linux-hardware.org/?probe=2ae81cd94f) | Oct 13, 2021 |
 | Lenovo        | V330-15IKB 81AX             | [000ac750e0](https://linux-hardware.org/?probe=000ac750e0) | Oct 13, 2021 |
-| Lenovo        | V330-15IKB 81AX             | [69b1046c6e](https://linux-hardware.org/?probe=69b1046c6e) | Oct 13, 2021 |
-| Lenovo        | ThinkPad 13 2nd Gen 20J1... | [cdb34ca184](https://linux-hardware.org/?probe=cdb34ca184) | Oct 13, 2021 |
 | Samsung       | 350V5C/350V5X/350V4C/350... | [923479d039](https://linux-hardware.org/?probe=923479d039) | Oct 13, 2021 |
 | ASUSTek       | TP201SA                     | [504956d2e9](https://linux-hardware.org/?probe=504956d2e9) | Oct 13, 2021 |
 | ASUSTek       | UX303LAB                    | [97b9f51735](https://linux-hardware.org/?probe=97b9f51735) | Oct 13, 2021 |
 | MSI           | GF75 Thin 9SC               | [db0ef927e0](https://linux-hardware.org/?probe=db0ef927e0) | Oct 13, 2021 |
-| MSI           | GF75 Thin 9SC               | [be82875929](https://linux-hardware.org/?probe=be82875929) | Oct 13, 2021 |
 | ASUSTek       | ROG Zephyrus G15 GA503QR... | [f2690f5ec4](https://linux-hardware.org/?probe=f2690f5ec4) | Oct 13, 2021 |
 | Lenovo        | ThinkPad X140e 20BL000BU... | [1f91e82c9f](https://linux-hardware.org/?probe=1f91e82c9f) | Oct 12, 2021 |
 | HP            | G62                         | [7873481ecb](https://linux-hardware.org/?probe=7873481ecb) | Oct 12, 2021 |
@@ -1849,16 +1915,13 @@ Total: 4587
 | Acer          | Aspire ES1-531              | [2a96c0566a](https://linux-hardware.org/?probe=2a96c0566a) | Oct 12, 2021 |
 | Dell          | XPS 15 9560                 | [69938c221e](https://linux-hardware.org/?probe=69938c221e) | Oct 12, 2021 |
 | Dell          | Vostro 3500                 | [4e86b85a4d](https://linux-hardware.org/?probe=4e86b85a4d) | Oct 12, 2021 |
-| Acer          | Aspire A315-23G             | [6476999787](https://linux-hardware.org/?probe=6476999787) | Oct 12, 2021 |
 | Lenovo        | ThinkPad T520 4242W9B       | [3947636b4d](https://linux-hardware.org/?probe=3947636b4d) | Oct 12, 2021 |
 | Dell          | Inspiron 5567               | [e551d622a8](https://linux-hardware.org/?probe=e551d622a8) | Oct 11, 2021 |
 | Lenovo        | ThinkPad E15 Gen 3 20YGC... | [dce9cc60d3](https://linux-hardware.org/?probe=dce9cc60d3) | Oct 11, 2021 |
 | HP            | EliteBook 8460p             | [8430d409b5](https://linux-hardware.org/?probe=8430d409b5) | Oct 11, 2021 |
 | Toshiba       | Satellite A215              | [06c3b56836](https://linux-hardware.org/?probe=06c3b56836) | Oct 11, 2021 |
 | Lenovo        | IdeaPad S145-15API 81V7     | [3abe7cda22](https://linux-hardware.org/?probe=3abe7cda22) | Oct 10, 2021 |
-| Acer          | Aspire A315-23G             | [c97f94ce2f](https://linux-hardware.org/?probe=c97f94ce2f) | Oct 10, 2021 |
-| Lenovo        | Y520-15IKBN 80WK            | [598d90e6b6](https://linux-hardware.org/?probe=598d90e6b6) | Oct 10, 2021 |
-| Dell          | Inspiron 7720               | [6728cba5a1](https://linux-hardware.org/?probe=6728cba5a1) | Oct 09, 2021 |
+| Dell          | System Inspiron 7720        | [6728cba5a1](https://linux-hardware.org/?probe=6728cba5a1) | Oct 09, 2021 |
 | HP            | TouchSmart tm2              | [4a04d297c6](https://linux-hardware.org/?probe=4a04d297c6) | Oct 09, 2021 |
 | Apple         | MacBookAir7,2               | [31ae42bc51](https://linux-hardware.org/?probe=31ae42bc51) | Oct 09, 2021 |
 | Apple         | MacBookAir7,2               | [5b47e8efcb](https://linux-hardware.org/?probe=5b47e8efcb) | Oct 09, 2021 |
@@ -1881,9 +1944,7 @@ Total: 4587
 | Lenovo        | ThinkPad T14 Gen 2i 20W0... | [cbb2ea622b](https://linux-hardware.org/?probe=cbb2ea622b) | Oct 07, 2021 |
 | MSI           | GF63 8RD                    | [42dfecd0fb](https://linux-hardware.org/?probe=42dfecd0fb) | Oct 06, 2021 |
 | ASUSTek       | 1015PE                      | [1a2d7bc306](https://linux-hardware.org/?probe=1a2d7bc306) | Oct 06, 2021 |
-| MSI           | GF63 8RD                    | [1c72d1e5d7](https://linux-hardware.org/?probe=1c72d1e5d7) | Oct 06, 2021 |
 | Lenovo        | IdeaPad 3 14ADA05 81W0      | [41ff21e8e8](https://linux-hardware.org/?probe=41ff21e8e8) | Oct 06, 2021 |
-| Dell          | Latitude 7480               | [89d642f54a](https://linux-hardware.org/?probe=89d642f54a) | Oct 06, 2021 |
 | Samsung       | 300E4C/300E5C/300E7C        | [eb4d94004c](https://linux-hardware.org/?probe=eb4d94004c) | Oct 06, 2021 |
 | Apple         | MacBook3,1                  | [1e7ca025e2](https://linux-hardware.org/?probe=1e7ca025e2) | Oct 06, 2021 |
 | HP            | EliteBook 2170p             | [b5e3aaff19](https://linux-hardware.org/?probe=b5e3aaff19) | Oct 06, 2021 |
@@ -1891,12 +1952,9 @@ Total: 4587
 | HP            | 650                         | [bbe8e793b8](https://linux-hardware.org/?probe=bbe8e793b8) | Oct 05, 2021 |
 | HP            | Laptop 15s-eq2xxx           | [555befb01f](https://linux-hardware.org/?probe=555befb01f) | Oct 05, 2021 |
 | Apple         | MacBookAir7,2               | [9a8833b9c4](https://linux-hardware.org/?probe=9a8833b9c4) | Oct 04, 2021 |
-| Dell          | Latitude 7480               | [e8c50a7dbb](https://linux-hardware.org/?probe=e8c50a7dbb) | Oct 04, 2021 |
 | Dell          | Latitude E6520              | [b9f0ad8ced](https://linux-hardware.org/?probe=b9f0ad8ced) | Oct 04, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 7th 2... | [572e073021](https://linux-hardware.org/?probe=572e073021) | Oct 04, 2021 |
-| Lenovo        | IdeaPad 3 14ADA05 81W0      | [bcdf58bee3](https://linux-hardware.org/?probe=bcdf58bee3) | Oct 04, 2021 |
 | Lenovo        | IdeaPad 3 14ADA05 81W0      | [6654adaf99](https://linux-hardware.org/?probe=6654adaf99) | Oct 04, 2021 |
-| Acer          | Aspire A315-23G             | [9622936906](https://linux-hardware.org/?probe=9622936906) | Oct 04, 2021 |
 | HP            | EliteBook 830 G6            | [ccc383c91f](https://linux-hardware.org/?probe=ccc383c91f) | Oct 03, 2021 |
 | HP            | EliteBook 830 G6            | [8a9c0fa053](https://linux-hardware.org/?probe=8a9c0fa053) | Oct 03, 2021 |
 | Acer          | TMP645-M                    | [c3daab516f](https://linux-hardware.org/?probe=c3daab516f) | Oct 03, 2021 |
@@ -1916,14 +1974,12 @@ Total: 4587
 | Lenovo        | B50-30 20382                | [85242c59b6](https://linux-hardware.org/?probe=85242c59b6) | Oct 01, 2021 |
 | Lenovo        | IdeaPad Yoga 13 20175       | [090eee57b7](https://linux-hardware.org/?probe=090eee57b7) | Oct 01, 2021 |
 | TrekStor      | Surfbook A13                | [e393d9bc10](https://linux-hardware.org/?probe=e393d9bc10) | Oct 01, 2021 |
-| MSI           | GF75 Thin 9SC               | [b62cc852e9](https://linux-hardware.org/?probe=b62cc852e9) | Oct 01, 2021 |
 | HP            | Laptop 17-ca1xxx            | [36bb4d47f0](https://linux-hardware.org/?probe=36bb4d47f0) | Oct 01, 2021 |
 | MSI           | GE72 6QD                    | [a8713aca99](https://linux-hardware.org/?probe=a8713aca99) | Oct 01, 2021 |
 | Toshiba       | Satellite L500              | [07116867d0](https://linux-hardware.org/?probe=07116867d0) | Sep 30, 2021 |
 | Apple         | MacBookAir7,2               | [8fa4158350](https://linux-hardware.org/?probe=8fa4158350) | Sep 30, 2021 |
 | Dell          | Latitude 5411               | [b1b898bf2b](https://linux-hardware.org/?probe=b1b898bf2b) | Sep 30, 2021 |
 | Dell          | Latitude 7480               | [edecedab9c](https://linux-hardware.org/?probe=edecedab9c) | Sep 30, 2021 |
-| Acer          | Aspire A315-23G             | [b8b2183bc1](https://linux-hardware.org/?probe=b8b2183bc1) | Sep 30, 2021 |
 | Intel Clie... | LAPBC710                    | [f2535939a1](https://linux-hardware.org/?probe=f2535939a1) | Sep 29, 2021 |
 | Lenovo        | V15-ADA 82C7                | [2bf728a52b](https://linux-hardware.org/?probe=2bf728a52b) | Sep 29, 2021 |
 | Timi          | TM1613                      | [f6bb688e77](https://linux-hardware.org/?probe=f6bb688e77) | Sep 29, 2021 |
@@ -1932,16 +1988,13 @@ Total: 4587
 | Lenovo        | ThinkPad T580 20L9CTO1WW    | [c13569fca7](https://linux-hardware.org/?probe=c13569fca7) | Sep 29, 2021 |
 | ASUSTek       | ASUS TUF Gaming F15 FX50... | [b8e7519557](https://linux-hardware.org/?probe=b8e7519557) | Sep 29, 2021 |
 | Lenovo        | ThinkPad T480 20L5CTO1WW    | [d277db28c5](https://linux-hardware.org/?probe=d277db28c5) | Sep 29, 2021 |
-| Acer          | Aspire A315-23G             | [f7a5bd6c04](https://linux-hardware.org/?probe=f7a5bd6c04) | Sep 29, 2021 |
 | Acer          | Aspire A515-43              | [5edddc1e2c](https://linux-hardware.org/?probe=5edddc1e2c) | Sep 29, 2021 |
 | Dell          | Latitude D630               | [5e7edac95e](https://linux-hardware.org/?probe=5e7edac95e) | Sep 29, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [040b7200c3](https://linux-hardware.org/?probe=040b7200c3) | Sep 28, 2021 |
 | Apple         | MacBookPro14,1              | [01ccd7b321](https://linux-hardware.org/?probe=01ccd7b321) | Sep 28, 2021 |
 | Google        | Enguarde                    | [36df7d61be](https://linux-hardware.org/?probe=36df7d61be) | Sep 28, 2021 |
 | Google        | Enguarde                    | [4514b06137](https://linux-hardware.org/?probe=4514b06137) | Sep 28, 2021 |
 | Google        | Enguarde                    | [ac6c9be38a](https://linux-hardware.org/?probe=ac6c9be38a) | Sep 28, 2021 |
 | Google        | Enguarde                    | [36532b595e](https://linux-hardware.org/?probe=36532b595e) | Sep 28, 2021 |
-| HP            | Pavilion g6                 | [a349ae4420](https://linux-hardware.org/?probe=a349ae4420) | Sep 28, 2021 |
 | Google        | Enguarde                    | [b4273a32be](https://linux-hardware.org/?probe=b4273a32be) | Sep 28, 2021 |
 | Google        | Enguarde                    | [0b6cac4bce](https://linux-hardware.org/?probe=0b6cac4bce) | Sep 28, 2021 |
 | Google        | Enguarde                    | [3ebd210998](https://linux-hardware.org/?probe=3ebd210998) | Sep 28, 2021 |
@@ -1958,10 +2011,8 @@ Total: 4587
 | Lenovo        | ThinkPad T15 Gen 1 20S60... | [299d4edf8d](https://linux-hardware.org/?probe=299d4edf8d) | Sep 27, 2021 |
 | ASUSTek       | X550CA                      | [721c266b6b](https://linux-hardware.org/?probe=721c266b6b) | Sep 27, 2021 |
 | ASUSTek       | X550CA                      | [00d9651c96](https://linux-hardware.org/?probe=00d9651c96) | Sep 27, 2021 |
-| Dell          | Inspiron 3421               | [f290c9b80f](https://linux-hardware.org/?probe=f290c9b80f) | Sep 27, 2021 |
 | Dell          | Inspiron 3421               | [82bd2ec7eb](https://linux-hardware.org/?probe=82bd2ec7eb) | Sep 27, 2021 |
 | MSI           | Bravo 15 A4DDR              | [5236361305](https://linux-hardware.org/?probe=5236361305) | Sep 26, 2021 |
-| HP            | Pavilion Gaming Laptop 1... | [8f8f724934](https://linux-hardware.org/?probe=8f8f724934) | Sep 26, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [3b68a00361](https://linux-hardware.org/?probe=3b68a00361) | Sep 26, 2021 |
 | Packard Be... | EasyNote TS11HR             | [abf2c60d3f](https://linux-hardware.org/?probe=abf2c60d3f) | Sep 26, 2021 |
 | Acer          | Aspire F5-573G              | [97a2a90138](https://linux-hardware.org/?probe=97a2a90138) | Sep 26, 2021 |
@@ -1970,9 +2021,6 @@ Total: 4587
 | Lenovo        | IdeaPad 3 15IML05 81WR      | [1f56f02f1d](https://linux-hardware.org/?probe=1f56f02f1d) | Sep 26, 2021 |
 | Acer          | TravelMate 2490             | [b09a0d7779](https://linux-hardware.org/?probe=b09a0d7779) | Sep 25, 2021 |
 | ASUSTek       | TUF Gaming FX505GE_FX505... | [0c67accead](https://linux-hardware.org/?probe=0c67accead) | Sep 25, 2021 |
-| Lenovo        | V510-15IKB 80WQ             | [3b61d0a304](https://linux-hardware.org/?probe=3b61d0a304) | Sep 25, 2021 |
-| Lenovo        | Y520-15IKBN 80WK            | [2762c5237d](https://linux-hardware.org/?probe=2762c5237d) | Sep 25, 2021 |
-| Lenovo        | Y520-15IKBN 80WK            | [7a1202630f](https://linux-hardware.org/?probe=7a1202630f) | Sep 25, 2021 |
 | Apple         | MacBookPro12,1              | [4d798633db](https://linux-hardware.org/?probe=4d798633db) | Sep 25, 2021 |
 | HP            | Pavilion dv6                | [a97e17fc48](https://linux-hardware.org/?probe=a97e17fc48) | Sep 25, 2021 |
 | Dell          | G3 3590                     | [519cea3f38](https://linux-hardware.org/?probe=519cea3f38) | Sep 25, 2021 |
@@ -1980,8 +2028,6 @@ Total: 4587
 | ASUSTek       | TUF Gaming FX705DT_FX705... | [11ebd06d5f](https://linux-hardware.org/?probe=11ebd06d5f) | Sep 25, 2021 |
 | HP            | ProBook 4530s               | [0fc1845cd7](https://linux-hardware.org/?probe=0fc1845cd7) | Sep 24, 2021 |
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [e9d692e16d](https://linux-hardware.org/?probe=e9d692e16d) | Sep 24, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [a4b7fd74e3](https://linux-hardware.org/?probe=a4b7fd74e3) | Sep 24, 2021 |
-| Lenovo        | V510-15IKB 80WQ             | [c654d6756a](https://linux-hardware.org/?probe=c654d6756a) | Sep 24, 2021 |
 | Dell          | Inspiron 5515               | [64af4c4882](https://linux-hardware.org/?probe=64af4c4882) | Sep 24, 2021 |
 | Lenovo        | ThinkPad E14 20RA0036MX     | [b2183edddf](https://linux-hardware.org/?probe=b2183edddf) | Sep 24, 2021 |
 | Dell          | Precision M4800             | [1d4a25cfec](https://linux-hardware.org/?probe=1d4a25cfec) | Sep 24, 2021 |
@@ -1999,22 +2045,17 @@ Total: 4587
 | Lenovo        | Mixx-700-12ISK 80QL         | [090e25b77c](https://linux-hardware.org/?probe=090e25b77c) | Sep 22, 2021 |
 | HUAWEI        | NBLK-WAX9X                  | [1e8858844a](https://linux-hardware.org/?probe=1e8858844a) | Sep 22, 2021 |
 | Dell          | Latitude E7240              | [7048aa6e8b](https://linux-hardware.org/?probe=7048aa6e8b) | Sep 22, 2021 |
-| HUAWEI        | NBLK-WAX9X                  | [ff5e9a45c3](https://linux-hardware.org/?probe=ff5e9a45c3) | Sep 21, 2021 |
 | ASUSTek       | ASUS TUF Gaming A15 FA50... | [64b5e6acaf](https://linux-hardware.org/?probe=64b5e6acaf) | Sep 21, 2021 |
 | Lenovo        | ThinkPad T14 Gen 2i 20W0... | [5e6cd3a827](https://linux-hardware.org/?probe=5e6cd3a827) | Sep 21, 2021 |
 | Dell          | Vostro 5471                 | [4ce9cddd8f](https://linux-hardware.org/?probe=4ce9cddd8f) | Sep 21, 2021 |
 | Lenovo        | ThinkPad E590 20NB0029GE    | [65802f1a29](https://linux-hardware.org/?probe=65802f1a29) | Sep 21, 2021 |
-| Lenovo        | Y520-15IKBN 80WK            | [14ea1aaa38](https://linux-hardware.org/?probe=14ea1aaa38) | Sep 21, 2021 |
 | Lenovo        | ThinkPad T480S 20L7002HC... | [18b74e9f12](https://linux-hardware.org/?probe=18b74e9f12) | Sep 21, 2021 |
 | HP            | Compaq CQ58                 | [ab40e7b1de](https://linux-hardware.org/?probe=ab40e7b1de) | Sep 21, 2021 |
 | HP            | Compaq CQ58                 | [13687ea608](https://linux-hardware.org/?probe=13687ea608) | Sep 21, 2021 |
 | ASUSTek       | K50IN                       | [7cdaef32aa](https://linux-hardware.org/?probe=7cdaef32aa) | Sep 20, 2021 |
-| Lenovo        | V510-15IKB 80WQ             | [203ccd91be](https://linux-hardware.org/?probe=203ccd91be) | Sep 20, 2021 |
 | HUAWEI        | HN-WX9X                     | [e8748906aa](https://linux-hardware.org/?probe=e8748906aa) | Sep 20, 2021 |
-| MSI           | GE70 2QE                    | [a8b9147ea7](https://linux-hardware.org/?probe=a8b9147ea7) | Sep 20, 2021 |
 | Apple         | MacBookPro5,5               | [22262e98a5](https://linux-hardware.org/?probe=22262e98a5) | Sep 20, 2021 |
 | Apple         | MacBookPro5,5               | [c266841471](https://linux-hardware.org/?probe=c266841471) | Sep 20, 2021 |
-| HUAWEI        | HN-WX9X                     | [81802596f8](https://linux-hardware.org/?probe=81802596f8) | Sep 20, 2021 |
 | HP            | Pavilion g6                 | [d7ce22ebcb](https://linux-hardware.org/?probe=d7ce22ebcb) | Sep 20, 2021 |
 | HP            | Pavilion g6                 | [3c060f3910](https://linux-hardware.org/?probe=3c060f3910) | Sep 20, 2021 |
 | Lenovo        | ThinkPad T460s 20FAS0UM0... | [bcb44edae6](https://linux-hardware.org/?probe=bcb44edae6) | Sep 20, 2021 |
@@ -2037,19 +2078,14 @@ Total: 4587
 | Lenovo        | G70-35 80Q5                 | [6ce6f8e7f7](https://linux-hardware.org/?probe=6ce6f8e7f7) | Sep 17, 2021 |
 | Lenovo        | IdeaPad U510 4941           | [f5774645c1](https://linux-hardware.org/?probe=f5774645c1) | Sep 17, 2021 |
 | HP            | 255 G7 Notebook PC          | [0f6db66354](https://linux-hardware.org/?probe=0f6db66354) | Sep 17, 2021 |
-| HUAWEI        | HN-WX9X                     | [2179e59b37](https://linux-hardware.org/?probe=2179e59b37) | Sep 17, 2021 |
 | HP            | 255 G7 Notebook PC          | [84394a400e](https://linux-hardware.org/?probe=84394a400e) | Sep 17, 2021 |
-| Lenovo        | V510-15IKB 80WQ             | [726f5ed51f](https://linux-hardware.org/?probe=726f5ed51f) | Sep 17, 2021 |
-| Lenovo        | IdeaPad 500-15ISK 80NT      | [e0307085f3](https://linux-hardware.org/?probe=e0307085f3) | Sep 17, 2021 |
-| MSI           | GE70 2QE                    | [e7b42c85f1](https://linux-hardware.org/?probe=e7b42c85f1) | Sep 17, 2021 |
 | HUAWEI        | NBLK-WAX9X                  | [abd7f0d0a1](https://linux-hardware.org/?probe=abd7f0d0a1) | Sep 17, 2021 |
-| Lenovo        | Y520-15IKBN 80WK            | [c8208bc767](https://linux-hardware.org/?probe=c8208bc767) | Sep 17, 2021 |
 | MSI           | GF75 Thin 9SC               | [47a6cd4031](https://linux-hardware.org/?probe=47a6cd4031) | Sep 17, 2021 |
 | MSI           | GE70 2QE                    | [8d4eff5ca2](https://linux-hardware.org/?probe=8d4eff5ca2) | Sep 17, 2021 |
 | Lenovo        | V510-15IKB 80WQ             | [f226485da3](https://linux-hardware.org/?probe=f226485da3) | Sep 17, 2021 |
 | Lenovo        | Y520-15IKBN 80WK            | [643fafdceb](https://linux-hardware.org/?probe=643fafdceb) | Sep 17, 2021 |
 | HUAWEI        | HN-WX9X                     | [e801613095](https://linux-hardware.org/?probe=e801613095) | Sep 17, 2021 |
-| ASUSTek       | TUF GAMING FX504GD_FX80G... | [fb0c3317e3](https://linux-hardware.org/?probe=fb0c3317e3) | Sep 17, 2021 |
+| ASUSTek       | TUF Gaming FX504GD_FX80G... | [fb0c3317e3](https://linux-hardware.org/?probe=fb0c3317e3) | Sep 17, 2021 |
 | Lenovo        | IdeaPad 500-15ISK 80NT      | [5282f852aa](https://linux-hardware.org/?probe=5282f852aa) | Sep 17, 2021 |
 | Lenovo        | IdeaPad 330-15IKB 81DE      | [dd5496fa35](https://linux-hardware.org/?probe=dd5496fa35) | Sep 17, 2021 |
 | Timi          | TM1801                      | [d0919977cb](https://linux-hardware.org/?probe=d0919977cb) | Sep 17, 2021 |
@@ -2076,11 +2112,10 @@ Total: 4587
 | Lenovo        | ThinkPad T590 20N4000BFR    | [834ddc5e6a](https://linux-hardware.org/?probe=834ddc5e6a) | Sep 13, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [eb55a1f000](https://linux-hardware.org/?probe=eb55a1f000) | Sep 13, 2021 |
 | HP            | Notebook                    | [17f4133e28](https://linux-hardware.org/?probe=17f4133e28) | Sep 13, 2021 |
-| Intel         | Intel powered classmate ... | [15cb9c7764](https://linux-hardware.org/?probe=15cb9c7764) | Sep 12, 2021 |
+| Intel         | powered classmate PC        | [15cb9c7764](https://linux-hardware.org/?probe=15cb9c7764) | Sep 12, 2021 |
 | Lenovo        | G50-45 80E3                 | [51cf32f87c](https://linux-hardware.org/?probe=51cf32f87c) | Sep 12, 2021 |
 | Lenovo        | ThinkPad E14 20RB0028BR     | [8b1b3a98ba](https://linux-hardware.org/?probe=8b1b3a98ba) | Sep 12, 2021 |
 | ASUSTek       | M3N                         | [28a5b48a05](https://linux-hardware.org/?probe=28a5b48a05) | Sep 12, 2021 |
-| ASUSTek       | M3N                         | [04307947ae](https://linux-hardware.org/?probe=04307947ae) | Sep 12, 2021 |
 | Dell          | Inspiron 5420               | [bc80b42442](https://linux-hardware.org/?probe=bc80b42442) | Sep 12, 2021 |
 | Lenovo        | V15-IIL 82C5                | [64a2841581](https://linux-hardware.org/?probe=64a2841581) | Sep 11, 2021 |
 | Apple         | MacBookAir7,1               | [795f6bba58](https://linux-hardware.org/?probe=795f6bba58) | Sep 10, 2021 |
@@ -2102,7 +2137,6 @@ Total: 4587
 | Lenovo        | ThinkPad T14s Gen 1 20T0... | [bcfc7ecea2](https://linux-hardware.org/?probe=bcfc7ecea2) | Sep 08, 2021 |
 | Lenovo        | G580 20157                  | [09e0e6dea3](https://linux-hardware.org/?probe=09e0e6dea3) | Sep 08, 2021 |
 | ASUSTek       | K52F                        | [b1f04036d8](https://linux-hardware.org/?probe=b1f04036d8) | Sep 07, 2021 |
-| MSI           | GF63 8RD                    | [19cfc85441](https://linux-hardware.org/?probe=19cfc85441) | Sep 07, 2021 |
 | Lenovo        | ThinkPad P50 20EN0006MS     | [55f595b53f](https://linux-hardware.org/?probe=55f595b53f) | Sep 07, 2021 |
 | ASUSTek       | K52F                        | [0d72cf73ac](https://linux-hardware.org/?probe=0d72cf73ac) | Sep 07, 2021 |
 | MSI           | GF63 8RD                    | [498dd20152](https://linux-hardware.org/?probe=498dd20152) | Sep 07, 2021 |
@@ -2119,7 +2153,6 @@ Total: 4587
 | Lenovo        | ThinkPad X1 Carbon 5th 2... | [2a4adea555](https://linux-hardware.org/?probe=2a4adea555) | Sep 05, 2021 |
 | Toshiba       | Satellite C55-B             | [fe8833475a](https://linux-hardware.org/?probe=fe8833475a) | Sep 05, 2021 |
 | HP            | EliteBook 820 G1            | [0a1850f760](https://linux-hardware.org/?probe=0a1850f760) | Sep 05, 2021 |
-| HP            | EliteBook 820 G1            | [4ba7363e9e](https://linux-hardware.org/?probe=4ba7363e9e) | Sep 05, 2021 |
 | HP            | ProBook 6460b               | [7d379f011c](https://linux-hardware.org/?probe=7d379f011c) | Sep 04, 2021 |
 | Lenovo        | ThinkBook 15-IML 20RW       | [18fe596fba](https://linux-hardware.org/?probe=18fe596fba) | Sep 04, 2021 |
 | HP            | Presario CQ62               | [4cdec89015](https://linux-hardware.org/?probe=4cdec89015) | Sep 04, 2021 |
@@ -2133,7 +2166,6 @@ Total: 4587
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [666c4fef08](https://linux-hardware.org/?probe=666c4fef08) | Sep 02, 2021 |
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [d6ee033eb7](https://linux-hardware.org/?probe=d6ee033eb7) | Sep 02, 2021 |
 | Apple         | MacBookAir7,1               | [28fbb3d82d](https://linux-hardware.org/?probe=28fbb3d82d) | Sep 02, 2021 |
-| Apple         | MacBookAir7,1               | [27c2ebc917](https://linux-hardware.org/?probe=27c2ebc917) | Sep 02, 2021 |
 | Acer          | Aspire A315-23              | [1d9e3a7503](https://linux-hardware.org/?probe=1d9e3a7503) | Sep 02, 2021 |
 | Acer          | Aspire A315-23              | [97c9e2dc1f](https://linux-hardware.org/?probe=97c9e2dc1f) | Sep 02, 2021 |
 | HP            | EliteBook Folio 1040 G3     | [6bf33dd2cb](https://linux-hardware.org/?probe=6bf33dd2cb) | Sep 01, 2021 |
@@ -2141,13 +2173,11 @@ Total: 4587
 | Lenovo        | ThinkPad R60 9462A45        | [5850a811e3](https://linux-hardware.org/?probe=5850a811e3) | Sep 01, 2021 |
 | Lenovo        | ThinkPad E475 20H40006US    | [d542a6b8f9](https://linux-hardware.org/?probe=d542a6b8f9) | Sep 01, 2021 |
 | Acer          | Aspire A315-23              | [12a5a0f9c5](https://linux-hardware.org/?probe=12a5a0f9c5) | Sep 01, 2021 |
-| ASUSTek       | ZenBook UX431DA_UM431DA     | [3267eec643](https://linux-hardware.org/?probe=3267eec643) | Sep 01, 2021 |
 | Timi          | TM1613                      | [f25eeca060](https://linux-hardware.org/?probe=f25eeca060) | Sep 01, 2021 |
 | Lenovo        | ThinkPad T430 2349S9E       | [bc224fb15f](https://linux-hardware.org/?probe=bc224fb15f) | Aug 31, 2021 |
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [9510c18df6](https://linux-hardware.org/?probe=9510c18df6) | Aug 31, 2021 |
 | HP            | Laptop 15s-eq1xxx           | [783955d696](https://linux-hardware.org/?probe=783955d696) | Aug 31, 2021 |
 | Lenovo        | ThinkPad X250 20CLS2DK00    | [db94fcaf10](https://linux-hardware.org/?probe=db94fcaf10) | Aug 31, 2021 |
-| Apple         | MacBookAir7,2               | [baf38e8736](https://linux-hardware.org/?probe=baf38e8736) | Aug 31, 2021 |
 | Lenovo        | ThinkPad T430 2349V4B       | [33a45018fc](https://linux-hardware.org/?probe=33a45018fc) | Aug 31, 2021 |
 | Fujitsu Si... | LIFEBOOK S6420              | [b26e82328a](https://linux-hardware.org/?probe=b26e82328a) | Aug 31, 2021 |
 | HP            | 250 G4 Notebook PC          | [2cf6464047](https://linux-hardware.org/?probe=2cf6464047) | Aug 31, 2021 |
@@ -2159,7 +2189,6 @@ Total: 4587
 | HP            | EliteBook 8460p             | [b1425fa900](https://linux-hardware.org/?probe=b1425fa900) | Aug 30, 2021 |
 | Apple         | MacBookAir7,2               | [b5a84f215b](https://linux-hardware.org/?probe=b5a84f215b) | Aug 30, 2021 |
 | HP            | EliteBook 850 G5            | [68149f9864](https://linux-hardware.org/?probe=68149f9864) | Aug 30, 2021 |
-| Dell          | Latitude E6330              | [95d65375e2](https://linux-hardware.org/?probe=95d65375e2) | Aug 30, 2021 |
 | Lenovo        | ThinkPad T61 7661BF3        | [69b6d76471](https://linux-hardware.org/?probe=69b6d76471) | Aug 30, 2021 |
 | ASUSTek       | K56CB                       | [1a44fc7e8f](https://linux-hardware.org/?probe=1a44fc7e8f) | Aug 29, 2021 |
 | Lenovo        | IdeaPad 330-15ICH 81FK      | [6fcfbde79d](https://linux-hardware.org/?probe=6fcfbde79d) | Aug 29, 2021 |
@@ -2177,7 +2206,6 @@ Total: 4587
 | Apple         | MacBookAir7,2               | [14747d88b3](https://linux-hardware.org/?probe=14747d88b3) | Aug 26, 2021 |
 | Lenovo        | IdeaPad 320-15ABR 80XS      | [87904cbe92](https://linux-hardware.org/?probe=87904cbe92) | Aug 26, 2021 |
 | Apple         | MacBookAir7,2               | [1c2e910793](https://linux-hardware.org/?probe=1c2e910793) | Aug 26, 2021 |
-| Apple         | MacBookAir7,1               | [4a69118897](https://linux-hardware.org/?probe=4a69118897) | Aug 26, 2021 |
 | Apple         | MacBookAir7,1               | [474216fba9](https://linux-hardware.org/?probe=474216fba9) | Aug 26, 2021 |
 | Apple         | MacBookAir7,2               | [76d9383f33](https://linux-hardware.org/?probe=76d9383f33) | Aug 26, 2021 |
 | Apple         | MacBookAir7,2               | [213d3f817b](https://linux-hardware.org/?probe=213d3f817b) | Aug 26, 2021 |
@@ -2190,7 +2218,6 @@ Total: 4587
 | ASUSTek       | P751JA                      | [0ba110ae45](https://linux-hardware.org/?probe=0ba110ae45) | Aug 25, 2021 |
 | Dell          | Inspiron 15 7000 Gaming     | [3da8591ac6](https://linux-hardware.org/?probe=3da8591ac6) | Aug 25, 2021 |
 | HP            | 630                         | [004d2b364d](https://linux-hardware.org/?probe=004d2b364d) | Aug 25, 2021 |
-| HP            | ProBook 6460b               | [c8226af22c](https://linux-hardware.org/?probe=c8226af22c) | Aug 25, 2021 |
 | Dell          | Latitude 7490               | [23ad45f1fd](https://linux-hardware.org/?probe=23ad45f1fd) | Aug 25, 2021 |
 | Apple         | MacBookAir7,2               | [65d82bc8e7](https://linux-hardware.org/?probe=65d82bc8e7) | Aug 24, 2021 |
 | Lenovo        | ThinkPad 13 2nd Gen 20J1... | [e1bd0ec7fd](https://linux-hardware.org/?probe=e1bd0ec7fd) | Aug 24, 2021 |
@@ -2212,8 +2239,6 @@ Total: 4587
 | Apple         | MacBookAir7,2               | [5bc9372587](https://linux-hardware.org/?probe=5bc9372587) | Aug 23, 2021 |
 | Apple         | MacBookAir7,2               | [8bcb9e62e1](https://linux-hardware.org/?probe=8bcb9e62e1) | Aug 23, 2021 |
 | Apple         | MacBookAir7,2               | [6c44c4f7e3](https://linux-hardware.org/?probe=6c44c4f7e3) | Aug 23, 2021 |
-| Google        | Enguarde                    | [12a2003770](https://linux-hardware.org/?probe=12a2003770) | Aug 23, 2021 |
-| Apple         | MacBookAir7,1               | [7f190e4ed2](https://linux-hardware.org/?probe=7f190e4ed2) | Aug 23, 2021 |
 | Apple         | MacBookAir7,1               | [2db5cafda3](https://linux-hardware.org/?probe=2db5cafda3) | Aug 23, 2021 |
 | Apple         | MacBookAir7,1               | [abcab36e0c](https://linux-hardware.org/?probe=abcab36e0c) | Aug 23, 2021 |
 | Apple         | MacBookAir7,1               | [f3ccb91568](https://linux-hardware.org/?probe=f3ccb91568) | Aug 23, 2021 |
@@ -2243,7 +2268,6 @@ Total: 4587
 | Apple         | MacBookAir7,1               | [6f38e35f9a](https://linux-hardware.org/?probe=6f38e35f9a) | Aug 23, 2021 |
 | HP            | EliteBook 840 G4            | [ebe40b3244](https://linux-hardware.org/?probe=ebe40b3244) | Aug 22, 2021 |
 | Lenovo        | IdeaPad 320-15ABR 80XS      | [d98bdb0d1c](https://linux-hardware.org/?probe=d98bdb0d1c) | Aug 22, 2021 |
-| Dell          | Inspiron 15 7000 Gaming     | [d688bffa01](https://linux-hardware.org/?probe=d688bffa01) | Aug 22, 2021 |
 | Dell          | Inspiron 15 7000 Gaming     | [3d52884b6e](https://linux-hardware.org/?probe=3d52884b6e) | Aug 22, 2021 |
 | ASUSTek       | G771JM                      | [57b847b12c](https://linux-hardware.org/?probe=57b847b12c) | Aug 22, 2021 |
 | ASUSTek       | G771JM                      | [db4b9878fa](https://linux-hardware.org/?probe=db4b9878fa) | Aug 22, 2021 |
@@ -2404,18 +2428,15 @@ Total: 4587
 | Apple         | MacBookAir7,1               | [079ef9affe](https://linux-hardware.org/?probe=079ef9affe) | Aug 16, 2021 |
 | Lenovo        | IdeaPad 100S-14IBR 80R9     | [e4ab15ad86](https://linux-hardware.org/?probe=e4ab15ad86) | Aug 16, 2021 |
 | Lenovo        | ThinkPad T450s 20BXCTO1W... | [9e81b88eb8](https://linux-hardware.org/?probe=9e81b88eb8) | Aug 16, 2021 |
-| Lenovo        | ThinkPad T450s 20BXCTO1W... | [7b614dd679](https://linux-hardware.org/?probe=7b614dd679) | Aug 16, 2021 |
 | Acer          | Swift SF114-33              | [2cd1a890fa](https://linux-hardware.org/?probe=2cd1a890fa) | Aug 16, 2021 |
 | Dell          | G3 3590                     | [05e11ad38d](https://linux-hardware.org/?probe=05e11ad38d) | Aug 16, 2021 |
 | HP            | 630                         | [a57ed15001](https://linux-hardware.org/?probe=a57ed15001) | Aug 15, 2021 |
 | HP            | Laptop 15s-eq1xxx           | [31fcb375f4](https://linux-hardware.org/?probe=31fcb375f4) | Aug 15, 2021 |
 | Lenovo        | ThinkPad S1 Yoga 20C0S0X... | [e3fd79d228](https://linux-hardware.org/?probe=e3fd79d228) | Aug 15, 2021 |
 | Apple         | MacBookPro11,3              | [daf1b7a963](https://linux-hardware.org/?probe=daf1b7a963) | Aug 15, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [0b7f4b2da5](https://linux-hardware.org/?probe=0b7f4b2da5) | Aug 15, 2021 |
 | Apple         | MacBookPro11,3              | [f6b6388040](https://linux-hardware.org/?probe=f6b6388040) | Aug 14, 2021 |
 | HP            | Compaq nc6320 (EV073AV)     | [bf6050f750](https://linux-hardware.org/?probe=bf6050f750) | Aug 14, 2021 |
 | Lenovo        | ThinkPad T495 20NJCTO1WW    | [f3506aaa1c](https://linux-hardware.org/?probe=f3506aaa1c) | Aug 14, 2021 |
-| Dell          | Latitude 7490               | [6ca174eba8](https://linux-hardware.org/?probe=6ca174eba8) | Aug 14, 2021 |
 | Dell          | Latitude 7490               | [85cacfa170](https://linux-hardware.org/?probe=85cacfa170) | Aug 13, 2021 |
 | Google        | Enguarde                    | [cac72ff077](https://linux-hardware.org/?probe=cac72ff077) | Aug 13, 2021 |
 | Google        | Enguarde                    | [8c489e2c59](https://linux-hardware.org/?probe=8c489e2c59) | Aug 13, 2021 |
@@ -2431,7 +2452,6 @@ Total: 4587
 | Google        | Enguarde                    | [43919a91f3](https://linux-hardware.org/?probe=43919a91f3) | Aug 12, 2021 |
 | Google        | Enguarde                    | [c93dcd9531](https://linux-hardware.org/?probe=c93dcd9531) | Aug 12, 2021 |
 | Google        | Enguarde                    | [8e7147d832](https://linux-hardware.org/?probe=8e7147d832) | Aug 12, 2021 |
-| Apple         | MacBookAir7,1               | [65a4eb9f2c](https://linux-hardware.org/?probe=65a4eb9f2c) | Aug 12, 2021 |
 | Google        | Enguarde                    | [e9f95dc0ed](https://linux-hardware.org/?probe=e9f95dc0ed) | Aug 12, 2021 |
 | Google        | Enguarde                    | [3b5b9d1698](https://linux-hardware.org/?probe=3b5b9d1698) | Aug 12, 2021 |
 | Google        | Enguarde                    | [e423d1eee6](https://linux-hardware.org/?probe=e423d1eee6) | Aug 12, 2021 |
@@ -2442,8 +2462,6 @@ Total: 4587
 | Google        | Enguarde                    | [d766910df0](https://linux-hardware.org/?probe=d766910df0) | Aug 12, 2021 |
 | Google        | Enguarde                    | [c0516ce965](https://linux-hardware.org/?probe=c0516ce965) | Aug 12, 2021 |
 | Google        | Enguarde                    | [728007c621](https://linux-hardware.org/?probe=728007c621) | Aug 12, 2021 |
-| Google        | Enguarde                    | [b808ac5856](https://linux-hardware.org/?probe=b808ac5856) | Aug 12, 2021 |
-| Google        | Enguarde                    | [326cc3aae3](https://linux-hardware.org/?probe=326cc3aae3) | Aug 12, 2021 |
 | Google        | Enguarde                    | [1fddcb2525](https://linux-hardware.org/?probe=1fddcb2525) | Aug 12, 2021 |
 | Lenovo        | ThinkPad T440s 20AR0011M... | [df7a1d9358](https://linux-hardware.org/?probe=df7a1d9358) | Aug 12, 2021 |
 | Dell          | G7 7790                     | [99dd172940](https://linux-hardware.org/?probe=99dd172940) | Aug 12, 2021 |
@@ -2461,21 +2479,17 @@ Total: 4587
 | HP            | ENVY Laptop 13-ad1xx        | [927a3673b9](https://linux-hardware.org/?probe=927a3673b9) | Aug 11, 2021 |
 | Lenovo        | ThinkBook 14 G2 ARE 20VF    | [cabe0ebbc8](https://linux-hardware.org/?probe=cabe0ebbc8) | Aug 10, 2021 |
 | Apple         | MacBookAir7,2               | [1dcbf85471](https://linux-hardware.org/?probe=1dcbf85471) | Aug 10, 2021 |
-| Apple         | MacBookAir7,2               | [0c67490330](https://linux-hardware.org/?probe=0c67490330) | Aug 10, 2021 |
 | Google        | Careena                     | [a715f6f37f](https://linux-hardware.org/?probe=a715f6f37f) | Aug 10, 2021 |
 | Dell          | Precision 3551              | [da8459ac73](https://linux-hardware.org/?probe=da8459ac73) | Aug 10, 2021 |
 | HP            | 250 G4                      | [5640b0689d](https://linux-hardware.org/?probe=5640b0689d) | Aug 10, 2021 |
-| Dell          | Inspiron 15 7000 Gaming     | [d650ff0c3e](https://linux-hardware.org/?probe=d650ff0c3e) | Aug 10, 2021 |
 | HP            | Laptop 15s-eq1xxx           | [4ce98656a4](https://linux-hardware.org/?probe=4ce98656a4) | Aug 10, 2021 |
 | Dell          | Inspiron ME051              | [5ca4e6101b](https://linux-hardware.org/?probe=5ca4e6101b) | Aug 10, 2021 |
 | Dell          | Precision 3551              | [aeeeb63990](https://linux-hardware.org/?probe=aeeeb63990) | Aug 10, 2021 |
 | Lenovo        | B51-35 80LH                 | [5f87168a65](https://linux-hardware.org/?probe=5f87168a65) | Aug 10, 2021 |
 | HP            | Pavilion Notebook           | [f8742367c3](https://linux-hardware.org/?probe=f8742367c3) | Aug 10, 2021 |
-| Apple         | MacBookAir7,1               | [6ab68482c0](https://linux-hardware.org/?probe=6ab68482c0) | Aug 09, 2021 |
 | Lenovo        | ThinkPad T470s 20HGS3R80... | [fbc29e2063](https://linux-hardware.org/?probe=fbc29e2063) | Aug 09, 2021 |
 | HP            | Pavilion Notebook           | [7401df03e4](https://linux-hardware.org/?probe=7401df03e4) | Aug 09, 2021 |
 | Lenovo        | ThinkPad T450s 20BXCTO1W... | [e4ce236efd](https://linux-hardware.org/?probe=e4ce236efd) | Aug 09, 2021 |
-| Lenovo        | ThinkPad T450s 20BXCTO1W... | [1c26f935e6](https://linux-hardware.org/?probe=1c26f935e6) | Aug 09, 2021 |
 | HP            | Pavilion Laptop 15-cw0xx... | [538a15f3cc](https://linux-hardware.org/?probe=538a15f3cc) | Aug 09, 2021 |
 | HP            | 2000                        | [73e2b73533](https://linux-hardware.org/?probe=73e2b73533) | Aug 09, 2021 |
 | Lenovo        | ThinkPad T580 20L9001AUS    | [65e201224c](https://linux-hardware.org/?probe=65e201224c) | Aug 09, 2021 |
@@ -2490,7 +2504,6 @@ Total: 4587
 | Acer          | TravelMate 5720             | [43aae04fa6](https://linux-hardware.org/?probe=43aae04fa6) | Aug 08, 2021 |
 | DNS           | 101                         | [83fc7e7928](https://linux-hardware.org/?probe=83fc7e7928) | Aug 08, 2021 |
 | Lenovo        | ThinkPad X230 23252FG       | [1c7914d660](https://linux-hardware.org/?probe=1c7914d660) | Aug 08, 2021 |
-| HP            | Laptop 15s-fq2xxx           | [c5ef006a35](https://linux-hardware.org/?probe=c5ef006a35) | Aug 08, 2021 |
 | Acer          | Swift SF314-51              | [88fa728376](https://linux-hardware.org/?probe=88fa728376) | Aug 07, 2021 |
 | Lenovo        | ThinkBook 14 G2 ARE 20VF    | [e18202a558](https://linux-hardware.org/?probe=e18202a558) | Aug 07, 2021 |
 | HP            | Laptop 15s-fq2xxx           | [a89cdf06f5](https://linux-hardware.org/?probe=a89cdf06f5) | Aug 07, 2021 |
@@ -2515,27 +2528,21 @@ Total: 4587
 | Lenovo        | ThinkPad X200 7458B64       | [110a19b1b7](https://linux-hardware.org/?probe=110a19b1b7) | Aug 07, 2021 |
 | Lenovo        | ThinkPad X240 20AMS0BU0T    | [f22b591a0a](https://linux-hardware.org/?probe=f22b591a0a) | Aug 07, 2021 |
 | Lenovo        | ThinkPad T440s 20ARA1DJM... | [3d02d8b67f](https://linux-hardware.org/?probe=3d02d8b67f) | Aug 07, 2021 |
-| HP            | 630                         | [b2d03b8717](https://linux-hardware.org/?probe=b2d03b8717) | Aug 07, 2021 |
 | Dell          | Inspiron 15 7000 Gaming     | [368abe4066](https://linux-hardware.org/?probe=368abe4066) | Aug 07, 2021 |
 | HP            | 630                         | [428ee9672e](https://linux-hardware.org/?probe=428ee9672e) | Aug 07, 2021 |
 | Lenovo        | ThinkPad P17 Gen 1 20SNZ... | [669874ee19](https://linux-hardware.org/?probe=669874ee19) | Aug 07, 2021 |
-| MSI           | GP60 2PE                    | [ad24cf2899](https://linux-hardware.org/?probe=ad24cf2899) | Aug 07, 2021 |
 | MSI           | GP60 2PE                    | [9f994fc086](https://linux-hardware.org/?probe=9f994fc086) | Aug 07, 2021 |
 | Apple         | MacBookAir7,1               | [e2b8c558f7](https://linux-hardware.org/?probe=e2b8c558f7) | Aug 06, 2021 |
 | HP            | Compaq nx6125 (PZ849UA#A... | [8cc604abc2](https://linux-hardware.org/?probe=8cc604abc2) | Aug 06, 2021 |
 | Apple         | MacBookAir7,2               | [c9c4b53460](https://linux-hardware.org/?probe=c9c4b53460) | Aug 06, 2021 |
 | HP            | Compaq nx6110 (PZ065UA#A... | [f54c45ab89](https://linux-hardware.org/?probe=f54c45ab89) | Aug 06, 2021 |
-| Apple         | MacBookAir7,2               | [81fef8f548](https://linux-hardware.org/?probe=81fef8f548) | Aug 06, 2021 |
 | HP            | Compaq nx6125 (PZ849UA#A... | [4e000b3710](https://linux-hardware.org/?probe=4e000b3710) | Aug 06, 2021 |
 | HP            | Compaq nx6110 (PZ065UA#A... | [493e2762bc](https://linux-hardware.org/?probe=493e2762bc) | Aug 06, 2021 |
 | Apple         | MacBookAir7,2               | [2eb3a16b53](https://linux-hardware.org/?probe=2eb3a16b53) | Aug 06, 2021 |
 | Dell          | Precision 3540              | [1b8206cd29](https://linux-hardware.org/?probe=1b8206cd29) | Aug 06, 2021 |
 | Lenovo        | ThinkPad E475 20H40006US    | [10811e8109](https://linux-hardware.org/?probe=10811e8109) | Aug 06, 2021 |
-| Apple         | MacBookAir7,2               | [bba0c0a13c](https://linux-hardware.org/?probe=bba0c0a13c) | Aug 06, 2021 |
-| Apple         | MacBookAir7,1               | [25f1a5ecdf](https://linux-hardware.org/?probe=25f1a5ecdf) | Aug 06, 2021 |
 | HP            | EliteBook 8460p             | [a7114078e2](https://linux-hardware.org/?probe=a7114078e2) | Aug 06, 2021 |
 | Lenovo        | ThinkPad W520 4284CY1       | [5e1c9e9e30](https://linux-hardware.org/?probe=5e1c9e9e30) | Aug 06, 2021 |
-| Apple         | MacBookAir7,1               | [639bb0ca17](https://linux-hardware.org/?probe=639bb0ca17) | Aug 06, 2021 |
 | Dell          | G3 3579                     | [5a268dbc14](https://linux-hardware.org/?probe=5a268dbc14) | Aug 06, 2021 |
 | Dell          | G3 3579                     | [6aae1a533f](https://linux-hardware.org/?probe=6aae1a533f) | Aug 06, 2021 |
 | Apple         | MacBookAir7,1               | [41d352c625](https://linux-hardware.org/?probe=41d352c625) | Aug 06, 2021 |
@@ -2560,21 +2567,16 @@ Total: 4587
 | TUXEDO        | Pulse 15 Gen1               | [5ba990c425](https://linux-hardware.org/?probe=5ba990c425) | Aug 04, 2021 |
 | Apple         | MacBook7,1                  | [a0e7632e28](https://linux-hardware.org/?probe=a0e7632e28) | Aug 04, 2021 |
 | Apple         | MacBook5,2                  | [803a6be591](https://linux-hardware.org/?probe=803a6be591) | Aug 04, 2021 |
-| Lenovo        | ThinkPad E475 20H40006US    | [cca5aa2900](https://linux-hardware.org/?probe=cca5aa2900) | Aug 04, 2021 |
 | Apple         | MacBookAir7,2               | [2c8c33becf](https://linux-hardware.org/?probe=2c8c33becf) | Aug 04, 2021 |
-| Apple         | MacBookAir7,2               | [97f8f86784](https://linux-hardware.org/?probe=97f8f86784) | Aug 04, 2021 |
 | Notebook      | NJ50_70CU                   | [a9b3790d07](https://linux-hardware.org/?probe=a9b3790d07) | Aug 04, 2021 |
 | Apple         | MacBookAir7,2               | [2d764714a4](https://linux-hardware.org/?probe=2d764714a4) | Aug 04, 2021 |
 | Lenovo        | IdeaPad 3 17IIL05 81WF      | [a3914442ca](https://linux-hardware.org/?probe=a3914442ca) | Aug 04, 2021 |
 | Acer          | Aspire E5-571G              | [b2a62f65d6](https://linux-hardware.org/?probe=b2a62f65d6) | Aug 04, 2021 |
-| HP            | EliteBook 8460p             | [09a6257403](https://linux-hardware.org/?probe=09a6257403) | Aug 04, 2021 |
-| Apple         | MacBookAir7,2               | [eafaf5ece3](https://linux-hardware.org/?probe=eafaf5ece3) | Aug 04, 2021 |
 | ASUSTek       | N53Ta                       | [896a02b57b](https://linux-hardware.org/?probe=896a02b57b) | Aug 04, 2021 |
 | Apple         | MacBookAir7,2               | [c0bf2b7b10](https://linux-hardware.org/?probe=c0bf2b7b10) | Aug 03, 2021 |
 | Lenovo        | ThinkPad E475 20H40006US    | [3d29b58c58](https://linux-hardware.org/?probe=3d29b58c58) | Aug 03, 2021 |
 | Lenovo        | ThinkPad E475 20H40006US    | [8b35a81ed6](https://linux-hardware.org/?probe=8b35a81ed6) | Aug 03, 2021 |
 | Apple         | MacBookAir7,2               | [87bca8ecbc](https://linux-hardware.org/?probe=87bca8ecbc) | Aug 03, 2021 |
-| Apple         | MacBook7,1                  | [fbbd748072](https://linux-hardware.org/?probe=fbbd748072) | Aug 03, 2021 |
 | Apple         | MacBook4,1                  | [71738ebf7e](https://linux-hardware.org/?probe=71738ebf7e) | Aug 03, 2021 |
 | Apple         | MacBook7,1                  | [06d86172a1](https://linux-hardware.org/?probe=06d86172a1) | Aug 03, 2021 |
 | HP            | EliteBook 8460p             | [aa415746d6](https://linux-hardware.org/?probe=aa415746d6) | Aug 03, 2021 |
@@ -2601,7 +2603,6 @@ Total: 4587
 | Lenovo        | ThinkPad L520 5016NU7       | [08fe25ec71](https://linux-hardware.org/?probe=08fe25ec71) | Aug 01, 2021 |
 | Lenovo        | ThinkPad Edge E330 3354D... | [9c317f536b](https://linux-hardware.org/?probe=9c317f536b) | Aug 01, 2021 |
 | ASUSTek       | ROG Strix G731GT_G731GT     | [f851abbdf5](https://linux-hardware.org/?probe=f851abbdf5) | Aug 01, 2021 |
-| Lenovo        | ThinkPad R60 9462A45        | [95aacb86f6](https://linux-hardware.org/?probe=95aacb86f6) | Jul 31, 2021 |
 | Dell          | Inspiron 5570               | [5b89a99ad8](https://linux-hardware.org/?probe=5b89a99ad8) | Jul 31, 2021 |
 | Dell          | Vostro 5502                 | [f1e6f11078](https://linux-hardware.org/?probe=f1e6f11078) | Jul 31, 2021 |
 | HP            | OMEN by Laptop 15-dc0xxx    | [60f065b770](https://linux-hardware.org/?probe=60f065b770) | Jul 31, 2021 |
@@ -2616,14 +2617,12 @@ Total: 4587
 | Acer          | Aspire A315-23              | [704ead0e75](https://linux-hardware.org/?probe=704ead0e75) | Jul 29, 2021 |
 | Dell          | XPS 13 7390                 | [370cea169d](https://linux-hardware.org/?probe=370cea169d) | Jul 29, 2021 |
 | Dell          | XPS 13 7390                 | [a5a9ca4678](https://linux-hardware.org/?probe=a5a9ca4678) | Jul 29, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [55c54d17ad](https://linux-hardware.org/?probe=55c54d17ad) | Jul 29, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [1bb07ffc9f](https://linux-hardware.org/?probe=1bb07ffc9f) | Jul 29, 2021 |
 | MSI           | U210/U210 Light             | [98d5949e01](https://linux-hardware.org/?probe=98d5949e01) | Jul 29, 2021 |
 | SLIMBOOK      | PROX14-AMD                  | [16aeb37a86](https://linux-hardware.org/?probe=16aeb37a86) | Jul 29, 2021 |
 | Acer          | Nitro AN517-41              | [ccc850c1da](https://linux-hardware.org/?probe=ccc850c1da) | Jul 29, 2021 |
 | Lenovo        | ThinkPad T420s 4174PEG      | [e448710e41](https://linux-hardware.org/?probe=e448710e41) | Jul 28, 2021 |
 | Lenovo        | IdeaPad 5 14ARE05 81YM      | [89d3c0f09d](https://linux-hardware.org/?probe=89d3c0f09d) | Jul 28, 2021 |
-| HP            | OMEN by HP Laptop 17-cb1... | [bee4fd945a](https://linux-hardware.org/?probe=bee4fd945a) | Jul 28, 2021 |
+| HP            | OMEN by Laptop 17-cb1xxx    | [bee4fd945a](https://linux-hardware.org/?probe=bee4fd945a) | Jul 28, 2021 |
 | Lenovo        | ThinkPad T470 20HES1UD00    | [6034f6a417](https://linux-hardware.org/?probe=6034f6a417) | Jul 28, 2021 |
 | Lenovo        | ThinkPad X230 2325BQ3       | [79a19ade20](https://linux-hardware.org/?probe=79a19ade20) | Jul 28, 2021 |
 | Dell          | Inspiron 8600               | [2f49d18738](https://linux-hardware.org/?probe=2f49d18738) | Jul 28, 2021 |
@@ -2703,7 +2702,7 @@ Total: 4587
 | HP            | 250 G5 Notebook PC          | [53d3003d94](https://linux-hardware.org/?probe=53d3003d94) | Jul 25, 2021 |
 | ASUSTek       | ZenBook UX333FA_UX333FA     | [043c5815ee](https://linux-hardware.org/?probe=043c5815ee) | Jul 25, 2021 |
 | Lenovo        | ThinkPad T470 W10DG 20JN... | [a30a8b568e](https://linux-hardware.org/?probe=a30a8b568e) | Jul 25, 2021 |
-| ASUSTek       | TUF GAMING FX504GD_FX80G... | [686f21af90](https://linux-hardware.org/?probe=686f21af90) | Jul 25, 2021 |
+| ASUSTek       | TUF Gaming FX504GD_FX80G... | [686f21af90](https://linux-hardware.org/?probe=686f21af90) | Jul 25, 2021 |
 | Dell          | XPS L322X                   | [6b0ab2e22d](https://linux-hardware.org/?probe=6b0ab2e22d) | Jul 25, 2021 |
 | Lenovo        | ThinkPad T490 20N2CTO1WW    | [722792ec34](https://linux-hardware.org/?probe=722792ec34) | Jul 25, 2021 |
 | Dell          | Inspiron 3505               | [be67f17212](https://linux-hardware.org/?probe=be67f17212) | Jul 25, 2021 |
@@ -2779,14 +2778,11 @@ Total: 4587
 | HP            | Spectre Laptop 13-af0xx     | [bfef4cded0](https://linux-hardware.org/?probe=bfef4cded0) | Jul 09, 2021 |
 | Acer          | Aspire A315-23G             | [e6aa891005](https://linux-hardware.org/?probe=e6aa891005) | Jul 08, 2021 |
 | Acer          | Aspire A315-23              | [bccfe7e145](https://linux-hardware.org/?probe=bccfe7e145) | Jul 08, 2021 |
-| Acer          | Aspire A315-23              | [73a418aad6](https://linux-hardware.org/?probe=73a418aad6) | Jul 08, 2021 |
 | Acer          | E1-510                      | [b1b6133207](https://linux-hardware.org/?probe=b1b6133207) | Jul 08, 2021 |
 | Dell          | XPS 13 9380                 | [b31688ecfa](https://linux-hardware.org/?probe=b31688ecfa) | Jul 08, 2021 |
-| Dell          | Latitude E6420              | [4facd06f69](https://linux-hardware.org/?probe=4facd06f69) | Jul 08, 2021 |
 | Lenovo        | ThinkPad R60 9462A45        | [541bb57585](https://linux-hardware.org/?probe=541bb57585) | Jul 07, 2021 |
 | Acer          | Aspire E5-573               | [d946214a58](https://linux-hardware.org/?probe=d946214a58) | Jul 06, 2021 |
 | ASUSTek       | VivoBook S14 X411UF         | [f5a3e8f307](https://linux-hardware.org/?probe=f5a3e8f307) | Jul 06, 2021 |
-| Dell          | Latitude E6330              | [321bec10eb](https://linux-hardware.org/?probe=321bec10eb) | Jul 05, 2021 |
 | Dell          | Inspiron 3520               | [a116f0c60b](https://linux-hardware.org/?probe=a116f0c60b) | Jul 05, 2021 |
 | Lenovo        | ThinkPad L590 20Q7CTO1WW    | [ec305ddc45](https://linux-hardware.org/?probe=ec305ddc45) | Jul 05, 2021 |
 | Lenovo        | B50-10 80QR                 | [56044931dc](https://linux-hardware.org/?probe=56044931dc) | Jul 04, 2021 |
@@ -2795,9 +2791,6 @@ Total: 4587
 | Dell          | Inspiron 5570               | [b760b0d9cc](https://linux-hardware.org/?probe=b760b0d9cc) | Jul 03, 2021 |
 | Acer          | Aspire A515-51              | [f94bb31c5a](https://linux-hardware.org/?probe=f94bb31c5a) | Jul 03, 2021 |
 | HP            | ZBook Fury 17 G7 Mobile ... | [c24fcd1454](https://linux-hardware.org/?probe=c24fcd1454) | Jul 02, 2021 |
-| Dell          | Inspiron 5570               | [44b96068f2](https://linux-hardware.org/?probe=44b96068f2) | Jul 02, 2021 |
-| Acer          | Aspire A315-23G             | [5729444e9b](https://linux-hardware.org/?probe=5729444e9b) | Jul 02, 2021 |
-| Acer          | Aspire A315-23G             | [bd3211a03b](https://linux-hardware.org/?probe=bd3211a03b) | Jun 30, 2021 |
 | Lenovo        | ThinkPad X1 Extreme Gen ... | [c8cb82f74d](https://linux-hardware.org/?probe=c8cb82f74d) | Jun 30, 2021 |
 | ASUSTek       | K42Jv                       | [88ee690bb2](https://linux-hardware.org/?probe=88ee690bb2) | Jun 30, 2021 |
 | Sony          | SVE1512G1RB                 | [41dd93f0c7](https://linux-hardware.org/?probe=41dd93f0c7) | Jun 30, 2021 |
@@ -2809,11 +2802,8 @@ Total: 4587
 | Dell          | Inspiron 3421               | [1900fb77ec](https://linux-hardware.org/?probe=1900fb77ec) | Jun 29, 2021 |
 | HP            | ZBook 17 G5                 | [5557a5c23c](https://linux-hardware.org/?probe=5557a5c23c) | Jun 29, 2021 |
 | Lenovo        | IdeaPad Z580                | [6a9d31c8ef](https://linux-hardware.org/?probe=6a9d31c8ef) | Jun 29, 2021 |
-| Dell          | Inspiron 5570               | [5335641d04](https://linux-hardware.org/?probe=5335641d04) | Jun 28, 2021 |
 | Dell          | Inspiron 5570               | [0632a7bf28](https://linux-hardware.org/?probe=0632a7bf28) | Jun 28, 2021 |
-| Acer          | Aspire A315-23G             | [834b68e61a](https://linux-hardware.org/?probe=834b68e61a) | Jun 28, 2021 |
 | HUAWEI        | BOHK-WAX9X                  | [65c54db09e](https://linux-hardware.org/?probe=65c54db09e) | Jun 27, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [fda3d18cf7](https://linux-hardware.org/?probe=fda3d18cf7) | Jun 27, 2021 |
 | Lenovo        | ThinkPad E15 20RD0011GE     | [d4a28fa40a](https://linux-hardware.org/?probe=d4a28fa40a) | Jun 27, 2021 |
 | Samsung       | 355V4C/356V4C/3445VC/354... | [fc58981ecd](https://linux-hardware.org/?probe=fc58981ecd) | Jun 27, 2021 |
 | Samsung       | 355V4C/356V4C/3445VC/354... | [bce9c74edb](https://linux-hardware.org/?probe=bce9c74edb) | Jun 27, 2021 |
@@ -2831,19 +2821,12 @@ Total: 4587
 | Dell          | Latitude E6430              | [f0afba2500](https://linux-hardware.org/?probe=f0afba2500) | Jun 21, 2021 |
 | Timi          | TM1612                      | [c4fb55cbfd](https://linux-hardware.org/?probe=c4fb55cbfd) | Jun 21, 2021 |
 | Fujitsu       | LIFEBOOK A357               | [75c4ec9e5a](https://linux-hardware.org/?probe=75c4ec9e5a) | Jun 21, 2021 |
-| Lenovo        | B50-10 80QR                 | [3da8d18204](https://linux-hardware.org/?probe=3da8d18204) | Jun 20, 2021 |
 | Lenovo        | B50-10 80QR                 | [847e763107](https://linux-hardware.org/?probe=847e763107) | Jun 20, 2021 |
-| Lenovo        | IdeaPad 700-15ISK 80RU      | [c62a9a5058](https://linux-hardware.org/?probe=c62a9a5058) | Jun 20, 2021 |
-| Lenovo        | IdeaPad 700-15ISK 80RU      | [5a39dabe8a](https://linux-hardware.org/?probe=5a39dabe8a) | Jun 20, 2021 |
 | Timi          | TM1612                      | [dcb999a722](https://linux-hardware.org/?probe=dcb999a722) | Jun 20, 2021 |
-| HP            | ProBook 6460b               | [dacf1e8349](https://linux-hardware.org/?probe=dacf1e8349) | Jun 20, 2021 |
-| Acer          | Aspire A315-23G             | [b37bec27b3](https://linux-hardware.org/?probe=b37bec27b3) | Jun 20, 2021 |
 | Dell          | Latitude E7470              | [49cb9ff0b0](https://linux-hardware.org/?probe=49cb9ff0b0) | Jun 20, 2021 |
 | Acer          | Aspire 5750G                | [73d6b46b6b](https://linux-hardware.org/?probe=73d6b46b6b) | Jun 19, 2021 |
 | ASUSTek       | ZenBook UX431DA_UM431DA     | [a894e25838](https://linux-hardware.org/?probe=a894e25838) | Jun 19, 2021 |
-| Acer          | Aspire A315-23G             | [dde7123487](https://linux-hardware.org/?probe=dde7123487) | Jun 19, 2021 |
 | Lenovo        | ThinkPad X270 W10DG 20K5... | [842c53b8e2](https://linux-hardware.org/?probe=842c53b8e2) | Jun 18, 2021 |
-| Acer          | Aspire A315-23G             | [1a8a3efde5](https://linux-hardware.org/?probe=1a8a3efde5) | Jun 18, 2021 |
 | ASUSTek       | ROG Strix G513IH_G513IH     | [3518f65e84](https://linux-hardware.org/?probe=3518f65e84) | Jun 18, 2021 |
 | HP            | ProBook 455 G1              | [c334d50b1f](https://linux-hardware.org/?probe=c334d50b1f) | Jun 18, 2021 |
 | Dell          | Latitude 5420               | [1356be4391](https://linux-hardware.org/?probe=1356be4391) | Jun 18, 2021 |
@@ -2855,7 +2838,6 @@ Total: 4587
 | Sony          | VGN-FW21E                   | [f46b41cd2f](https://linux-hardware.org/?probe=f46b41cd2f) | Jun 15, 2021 |
 | Acer          | Aspire ES1-132              | [c26c0f6e33](https://linux-hardware.org/?probe=c26c0f6e33) | Jun 15, 2021 |
 | Dell          | XPS 13 9310                 | [278fd058ed](https://linux-hardware.org/?probe=278fd058ed) | Jun 14, 2021 |
-| Acer          | Aspire A315-23G             | [eb77944ea2](https://linux-hardware.org/?probe=eb77944ea2) | Jun 14, 2021 |
 | Acer          | Aspire V3-331               | [91f4f7aab6](https://linux-hardware.org/?probe=91f4f7aab6) | Jun 13, 2021 |
 | UNOWHY        | Y13G002S4EI                 | [3d25dc9f69](https://linux-hardware.org/?probe=3d25dc9f69) | Jun 13, 2021 |
 | ASUSTek       | X550LD                      | [2d1f6364aa](https://linux-hardware.org/?probe=2d1f6364aa) | Jun 13, 2021 |
@@ -2865,49 +2847,35 @@ Total: 4587
 | IBM           | ThinkPad T42 23736YG        | [fbf7c66f92](https://linux-hardware.org/?probe=fbf7c66f92) | Jun 12, 2021 |
 | HP            | Compaq Presario CQ71        | [37a87224fb](https://linux-hardware.org/?probe=37a87224fb) | Jun 12, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X512... | [f6ba765876](https://linux-hardware.org/?probe=f6ba765876) | Jun 12, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [57684125de](https://linux-hardware.org/?probe=57684125de) | Jun 12, 2021 |
 | Dell          | Latitude E7440              | [3f4df169bd](https://linux-hardware.org/?probe=3f4df169bd) | Jun 11, 2021 |
-| Dell          | Latitude E7440              | [961681623f](https://linux-hardware.org/?probe=961681623f) | Jun 11, 2021 |
 | Dell          | Inspiron 1525               | [511a525213](https://linux-hardware.org/?probe=511a525213) | Jun 11, 2021 |
-| Acer          | Aspire A315-23              | [0de49e4ceb](https://linux-hardware.org/?probe=0de49e4ceb) | Jun 11, 2021 |
 | Dell          | Latitude E7470              | [51c1f3f1f5](https://linux-hardware.org/?probe=51c1f3f1f5) | Jun 10, 2021 |
 | Clevo         | W250ENQ / W270ENQ           | [95fe5984c2](https://linux-hardware.org/?probe=95fe5984c2) | Jun 09, 2021 |
 | Clevo         | W250ENQ / W270ENQ           | [b992eee8b5](https://linux-hardware.org/?probe=b992eee8b5) | Jun 09, 2021 |
 | HP            | ProBook 450 G6              | [e081b13666](https://linux-hardware.org/?probe=e081b13666) | Jun 09, 2021 |
 | HP            | ProBook 450 G6              | [e3efe71b23](https://linux-hardware.org/?probe=e3efe71b23) | Jun 09, 2021 |
-| Acer          | Aspire A315-23G             | [377f2e9ec6](https://linux-hardware.org/?probe=377f2e9ec6) | Jun 09, 2021 |
-| Dell          | Latitude E6330              | [ba88cd6328](https://linux-hardware.org/?probe=ba88cd6328) | Jun 08, 2021 |
 | Lenovo        | ThinkPad T430s 2356A89      | [0195b8564e](https://linux-hardware.org/?probe=0195b8564e) | Jun 08, 2021 |
 | HP            | Laptop 15-dw0xxx            | [95fdac8e1c](https://linux-hardware.org/?probe=95fdac8e1c) | Jun 08, 2021 |
 | Lenovo        | ThinkPad E590 20NB001AGE    | [21cab94898](https://linux-hardware.org/?probe=21cab94898) | Jun 08, 2021 |
 | Acer          | Aspire ES1-132              | [2db77f0d01](https://linux-hardware.org/?probe=2db77f0d01) | Jun 07, 2021 |
-| Acer          | Aspire A315-23G             | [548356ed30](https://linux-hardware.org/?probe=548356ed30) | Jun 06, 2021 |
 | Dell          | Inspiron 3793               | [f65812f774](https://linux-hardware.org/?probe=f65812f774) | Jun 06, 2021 |
 | HP            | EliteBook 820 G1            | [6fbdebda43](https://linux-hardware.org/?probe=6fbdebda43) | Jun 06, 2021 |
 | Acer          | Aspire 5750G                | [45b5e8d8ae](https://linux-hardware.org/?probe=45b5e8d8ae) | Jun 06, 2021 |
-| Acer          | Aspire 5750G                | [f0574d82e1](https://linux-hardware.org/?probe=f0574d82e1) | Jun 06, 2021 |
-| ASUSTek       | M3N                         | [ec5f914161](https://linux-hardware.org/?probe=ec5f914161) | Jun 06, 2021 |
 | Dell          | Inspiron 5577               | [188fcc64df](https://linux-hardware.org/?probe=188fcc64df) | Jun 06, 2021 |
-| Timi          | TM1612                      | [902746e81d](https://linux-hardware.org/?probe=902746e81d) | Jun 06, 2021 |
 | ASUSTek       | M3N                         | [bd89f26d7e](https://linux-hardware.org/?probe=bd89f26d7e) | Jun 05, 2021 |
 | Lenovo        | IdeaPad 320-15IKB 80XL      | [5c16d903d3](https://linux-hardware.org/?probe=5c16d903d3) | Jun 05, 2021 |
 | Dell          | Latitude C810               | [f379321c88](https://linux-hardware.org/?probe=f379321c88) | Jun 05, 2021 |
 | Dell          | Latitude E5470              | [5b65572d25](https://linux-hardware.org/?probe=5b65572d25) | Jun 05, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [47e9dfd146](https://linux-hardware.org/?probe=47e9dfd146) | Jun 05, 2021 |
-| Timi          | TM1612                      | [14f8479e7c](https://linux-hardware.org/?probe=14f8479e7c) | Jun 05, 2021 |
 | Timi          | TM1612                      | [40318f2d95](https://linux-hardware.org/?probe=40318f2d95) | Jun 05, 2021 |
-| Acer          | Aspire A315-23G             | [90dbe22a68](https://linux-hardware.org/?probe=90dbe22a68) | Jun 05, 2021 |
 | Dell          | Latitude C810               | [23e6f5572a](https://linux-hardware.org/?probe=23e6f5572a) | Jun 04, 2021 |
 | Toshiba       | TECRA M4                    | [3ac511cc5f](https://linux-hardware.org/?probe=3ac511cc5f) | Jun 03, 2021 |
 | HP            | ProBook 640 G8 Notebook ... | [e20b51102d](https://linux-hardware.org/?probe=e20b51102d) | Jun 03, 2021 |
 | Lenovo        | ThinkPad T495 20NJCTO1WW    | [b513f2fc77](https://linux-hardware.org/?probe=b513f2fc77) | Jun 03, 2021 |
 | Monster       | ABRA A5 V15.2               | [012bfa586d](https://linux-hardware.org/?probe=012bfa586d) | Jun 02, 2021 |
 | Pegatron      | A15                         | [dec1b6b43a](https://linux-hardware.org/?probe=dec1b6b43a) | Jun 02, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [ac80feea4f](https://linux-hardware.org/?probe=ac80feea4f) | Jun 01, 2021 |
 | Dell          | Inspiron 3501               | [3e23b17d66](https://linux-hardware.org/?probe=3e23b17d66) | Jun 01, 2021 |
 | Lenovo        | IdeaPad Gaming 3 15IMH05... | [d71fba3e59](https://linux-hardware.org/?probe=d71fba3e59) | Jun 01, 2021 |
 | Lenovo        | ThinkPad T15 Gen 1 20S60... | [1505924642](https://linux-hardware.org/?probe=1505924642) | Jun 01, 2021 |
-| Acer          | Aspire A315-23G             | [80cf3dc8e7](https://linux-hardware.org/?probe=80cf3dc8e7) | Jun 01, 2021 |
 | HP            | Compaq tc4400 (GE179UP#A... | [eeaee9f1ad](https://linux-hardware.org/?probe=eeaee9f1ad) | Jun 01, 2021 |
 | Lenovo        | ThinkPad T430s 2356GBG      | [aef8c27b50](https://linux-hardware.org/?probe=aef8c27b50) | May 31, 2021 |
 | Lenovo        | ThinkPad T430s 2356GBG      | [e67f4b0fd4](https://linux-hardware.org/?probe=e67f4b0fd4) | May 31, 2021 |
@@ -2926,7 +2894,6 @@ Total: 4587
 | MSI           | U90/U100                    | [1a0476551b](https://linux-hardware.org/?probe=1a0476551b) | May 30, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 6th 2... | [c33e7ced42](https://linux-hardware.org/?probe=c33e7ced42) | May 29, 2021 |
 | MSI           | CX700                       | [ef40976753](https://linux-hardware.org/?probe=ef40976753) | May 29, 2021 |
-| Fujitsu       | LIFEBOOK BH531              | [93d4456b05](https://linux-hardware.org/?probe=93d4456b05) | May 29, 2021 |
 | Dell          | XPS 13 9310                 | [5de2c933c1](https://linux-hardware.org/?probe=5de2c933c1) | May 28, 2021 |
 | Lenovo        | ThinkPad T530 24296HG       | [88cee1e822](https://linux-hardware.org/?probe=88cee1e822) | May 28, 2021 |
 | Samsung       | 370E4K                      | [125fbb3d15](https://linux-hardware.org/?probe=125fbb3d15) | May 28, 2021 |
@@ -2937,7 +2904,6 @@ Total: 4587
 | Aquarius      | NS585                       | [e2035017ff](https://linux-hardware.org/?probe=e2035017ff) | May 26, 2021 |
 | Aquarius      | NS585                       | [d2b5b53798](https://linux-hardware.org/?probe=d2b5b53798) | May 26, 2021 |
 | Aquarius      | NS585                       | [1c84a98f48](https://linux-hardware.org/?probe=1c84a98f48) | May 26, 2021 |
-| Acer          | Aspire A315-23G             | [c091670daa](https://linux-hardware.org/?probe=c091670daa) | May 25, 2021 |
 | HP            | Laptop 15s-fq2xxx           | [72287f1bb4](https://linux-hardware.org/?probe=72287f1bb4) | May 25, 2021 |
 | HP            | Laptop 15s-fq2xxx           | [f4713dbdb0](https://linux-hardware.org/?probe=f4713dbdb0) | May 25, 2021 |
 | ASUSTek       | X450LN                      | [aa8e32e484](https://linux-hardware.org/?probe=aa8e32e484) | May 25, 2021 |
@@ -2945,11 +2911,9 @@ Total: 4587
 | ASUSTek       | X553SA                      | [c470382d2a](https://linux-hardware.org/?probe=c470382d2a) | May 24, 2021 |
 | ASUSTek       | X553SA                      | [31d6a914fd](https://linux-hardware.org/?probe=31d6a914fd) | May 24, 2021 |
 | Acer          | Aspire A315-23              | [834e2e7b7e](https://linux-hardware.org/?probe=834e2e7b7e) | May 24, 2021 |
-| Acer          | Aspire A315-23G             | [ad6cd7847f](https://linux-hardware.org/?probe=ad6cd7847f) | May 24, 2021 |
 | Lenovo        | ThinkPad T14 Gen 1 20UDC... | [f03341d873](https://linux-hardware.org/?probe=f03341d873) | May 23, 2021 |
 | Acer          | Aspire 5750G                | [b420f25ed4](https://linux-hardware.org/?probe=b420f25ed4) | May 23, 2021 |
 | Apple         | MacBook5,2                  | [cc0fa80e46](https://linux-hardware.org/?probe=cc0fa80e46) | May 21, 2021 |
-| Lenovo        | ThinkPad T470s 20HGS45C0... | [de4f669b51](https://linux-hardware.org/?probe=de4f669b51) | May 21, 2021 |
 | Acer          | Aspire A315-23              | [71c9c1e86f](https://linux-hardware.org/?probe=71c9c1e86f) | May 21, 2021 |
 | HP            | EliteBook 840 G1            | [6573923d55](https://linux-hardware.org/?probe=6573923d55) | May 21, 2021 |
 | Dell          | Inspiron 7460               | [b766b75906](https://linux-hardware.org/?probe=b766b75906) | May 21, 2021 |
@@ -2957,21 +2921,16 @@ Total: 4587
 | Dell          | Latitude 7480               | [0f2477786d](https://linux-hardware.org/?probe=0f2477786d) | May 19, 2021 |
 | Lenovo        | ThinkPad T440p 20AWS4PN0... | [f8b2c84bc1](https://linux-hardware.org/?probe=f8b2c84bc1) | May 19, 2021 |
 | Toshiba       | Satellite C660              | [60eb674c8f](https://linux-hardware.org/?probe=60eb674c8f) | May 19, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [b9d0acf0a6](https://linux-hardware.org/?probe=b9d0acf0a6) | May 19, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [97a658e572](https://linux-hardware.org/?probe=97a658e572) | May 19, 2021 |
 | HP            | ProBook 6460b               | [06bc21db81](https://linux-hardware.org/?probe=06bc21db81) | May 18, 2021 |
 | Lenovo        | ThinkPad P15v Gen 1 20TQ... | [12cc462c7e](https://linux-hardware.org/?probe=12cc462c7e) | May 17, 2021 |
-| Acer          | Aspire A315-23G             | [28bb88d60c](https://linux-hardware.org/?probe=28bb88d60c) | May 17, 2021 |
 | HP            | Compaq Presario C700        | [91a939ce16](https://linux-hardware.org/?probe=91a939ce16) | May 16, 2021 |
 | Acer          | Aspire A315-23G             | [646b64ccb3](https://linux-hardware.org/?probe=646b64ccb3) | May 15, 2021 |
 | Lenovo        | IdeaPad S340-15API 81NC     | [93286a0d38](https://linux-hardware.org/?probe=93286a0d38) | May 15, 2021 |
 | Lenovo        | IdeaPad S340-15API 81NC     | [796f490bbb](https://linux-hardware.org/?probe=796f490bbb) | May 15, 2021 |
 | LG Electro... | A410-K.BE43P1               | [48978860b6](https://linux-hardware.org/?probe=48978860b6) | May 15, 2021 |
 | Acer          | Swift SF114-33              | [e2d8f58e1e](https://linux-hardware.org/?probe=e2d8f58e1e) | May 11, 2021 |
-| HP            | ProBook 6460b               | [f91f877043](https://linux-hardware.org/?probe=f91f877043) | May 11, 2021 |
 | Lenovo        | ThinkPad P14s Gen 1 20S4... | [2196430972](https://linux-hardware.org/?probe=2196430972) | May 09, 2021 |
-| HP            | ProBook 6460b               | [0322df5146](https://linux-hardware.org/?probe=0322df5146) | May 09, 2021 |
-| HP            | OMEN by HP Laptop 15-dc1... | [5a99a3a590](https://linux-hardware.org/?probe=5a99a3a590) | May 08, 2021 |
+| HP            | OMEN by Laptop 15-dc1xxx    | [5a99a3a590](https://linux-hardware.org/?probe=5a99a3a590) | May 08, 2021 |
 | Acer          | Swift SF114-33              | [a6ed80ed47](https://linux-hardware.org/?probe=a6ed80ed47) | May 08, 2021 |
 | ASUSTek       | T100TAS                     | [0b8e360f8a](https://linux-hardware.org/?probe=0b8e360f8a) | May 07, 2021 |
 | Lenovo        | G50-80 80E5                 | [d4b9ffef0a](https://linux-hardware.org/?probe=d4b9ffef0a) | May 06, 2021 |
@@ -2987,8 +2946,6 @@ Total: 4587
 | Dell          | Inspiron 3593               | [28dda0e7d5](https://linux-hardware.org/?probe=28dda0e7d5) | May 03, 2021 |
 | Lenovo        | ThinkPad E14 20RA001HRT     | [46872b4b26](https://linux-hardware.org/?probe=46872b4b26) | May 02, 2021 |
 | Lenovo        | IdeaPad Gaming 3 15IMH05... | [601029d96c](https://linux-hardware.org/?probe=601029d96c) | May 02, 2021 |
-| HP            | ProBook 6460b               | [5b705fff57](https://linux-hardware.org/?probe=5b705fff57) | May 02, 2021 |
-| Lenovo        | G570 4334                   | [cf33577cbd](https://linux-hardware.org/?probe=cf33577cbd) | May 02, 2021 |
 | Lenovo        | G570 4334                   | [bef0f33897](https://linux-hardware.org/?probe=bef0f33897) | May 02, 2021 |
 | LG Electro... | 15ND530-GX30K               | [9d700ce0b6](https://linux-hardware.org/?probe=9d700ce0b6) | Apr 30, 2021 |
 | HUAWEI        | BOHK-WAX9X                  | [8956498c75](https://linux-hardware.org/?probe=8956498c75) | Apr 29, 2021 |
@@ -3022,7 +2979,6 @@ Total: 4587
 | Lenovo        | ThinkPad T420 4236WS7       | [ed64601956](https://linux-hardware.org/?probe=ed64601956) | Apr 24, 2021 |
 | HP            | ENVY TS 15                  | [7ee12f0f12](https://linux-hardware.org/?probe=7ee12f0f12) | Apr 24, 2021 |
 | HP            | ENVY TS 15                  | [1e93ee4ada](https://linux-hardware.org/?probe=1e93ee4ada) | Apr 23, 2021 |
-| Dell          | Latitude E6330              | [d2a06d1cde](https://linux-hardware.org/?probe=d2a06d1cde) | Apr 22, 2021 |
 | Lenovo        | IdeaPad 320-15IKB 81BG      | [eb3e5cf436](https://linux-hardware.org/?probe=eb3e5cf436) | Apr 22, 2021 |
 | MSI           | Bravo 15 A4DDR              | [60eb0d02a7](https://linux-hardware.org/?probe=60eb0d02a7) | Apr 21, 2021 |
 | TQ-Group      | TQMxE39S                    | [0d550b5fcf](https://linux-hardware.org/?probe=0d550b5fcf) | Apr 21, 2021 |
@@ -3042,7 +2998,6 @@ Total: 4587
 | Fujitsu       | LIFEBOOK BH531              | [2fa4c2d1ef](https://linux-hardware.org/?probe=2fa4c2d1ef) | Apr 18, 2021 |
 | Positivo      | C14CR21                     | [2829ea9d87](https://linux-hardware.org/?probe=2829ea9d87) | Apr 17, 2021 |
 | Dell          | Inspiron 5468               | [cfc77b26b5](https://linux-hardware.org/?probe=cfc77b26b5) | Apr 17, 2021 |
-| Lenovo        | ThinkPad T450s 20BXCTO1W... | [92866f8994](https://linux-hardware.org/?probe=92866f8994) | Apr 17, 2021 |
 | Apple         | MacBook4,1                  | [c81b5705ce](https://linux-hardware.org/?probe=c81b5705ce) | Apr 17, 2021 |
 | Lenovo        | IdeaPad Gaming 3 15IMH05... | [636e4a5139](https://linux-hardware.org/?probe=636e4a5139) | Apr 17, 2021 |
 | Sony          | VPCM120AL                   | [e15b3dcfa3](https://linux-hardware.org/?probe=e15b3dcfa3) | Apr 16, 2021 |
@@ -3068,17 +3023,13 @@ Total: 4587
 | HP            | Pavilion Laptop 15-cc1xx    | [c9da6a52cb](https://linux-hardware.org/?probe=c9da6a52cb) | Apr 11, 2021 |
 | Dell          | Latitude E7440              | [f5329e62a2](https://linux-hardware.org/?probe=f5329e62a2) | Apr 10, 2021 |
 | Sony          | VGN-FW31ZJ                  | [b1bc398f58](https://linux-hardware.org/?probe=b1bc398f58) | Apr 10, 2021 |
-| Sony          | VGN-FW31ZJ                  | [67c8da18d0](https://linux-hardware.org/?probe=67c8da18d0) | Apr 10, 2021 |
 | Acer          | Nitro AN515-42              | [4c7acbbbc1](https://linux-hardware.org/?probe=4c7acbbbc1) | Apr 10, 2021 |
 | Lenovo        | ThinkPad T530 24297XG       | [a8863a15f7](https://linux-hardware.org/?probe=a8863a15f7) | Apr 09, 2021 |
 | Lenovo        | ThinkPad W520 42844LG       | [59d83c563e](https://linux-hardware.org/?probe=59d83c563e) | Apr 09, 2021 |
 | Dell          | Inspiron 5558               | [46663b3845](https://linux-hardware.org/?probe=46663b3845) | Apr 09, 2021 |
 | Acer          | Aspire V5-571G              | [bc54b9763a](https://linux-hardware.org/?probe=bc54b9763a) | Apr 08, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [3e238ba145](https://linux-hardware.org/?probe=3e238ba145) | Apr 08, 2021 |
 | Samsung       | 300E4A/300E5A/300E7A/343... | [adb7fbfc0d](https://linux-hardware.org/?probe=adb7fbfc0d) | Apr 08, 2021 |
 | Dell          | Inspiron 5721               | [d90f3a34d1](https://linux-hardware.org/?probe=d90f3a34d1) | Apr 08, 2021 |
-| Dell          | Inspiron 5721               | [a0bb6867cd](https://linux-hardware.org/?probe=a0bb6867cd) | Apr 07, 2021 |
-| Unknown       | Unknown                     | [005ef9b0a3](https://linux-hardware.org/?probe=005ef9b0a3) | Apr 07, 2021 |
 | Acer          | Predator PH315-52           | [807f19086d](https://linux-hardware.org/?probe=807f19086d) | Apr 07, 2021 |
 | Unknown       | Unknown                     | [4f60492d6a](https://linux-hardware.org/?probe=4f60492d6a) | Apr 07, 2021 |
 | Dell          | Latitude E6330              | [46855c6116](https://linux-hardware.org/?probe=46855c6116) | Apr 07, 2021 |
@@ -3086,17 +3037,13 @@ Total: 4587
 | HP            | ENVY Notebook               | [83a0078309](https://linux-hardware.org/?probe=83a0078309) | Apr 06, 2021 |
 | Lenovo        | ThinkPad T440s 20AR003RM... | [9c7afa6f8c](https://linux-hardware.org/?probe=9c7afa6f8c) | Apr 06, 2021 |
 | Lenovo        | ThinkPad T460 20FMS0X022    | [02ce254082](https://linux-hardware.org/?probe=02ce254082) | Apr 06, 2021 |
-| Dell          | Inspiron 5558               | [348d658964](https://linux-hardware.org/?probe=348d658964) | Apr 05, 2021 |
-| Sony          | VGN-FW31ZJ                  | [fdf9b819fb](https://linux-hardware.org/?probe=fdf9b819fb) | Apr 05, 2021 |
 | Sony          | VGN-FW31ZJ                  | [9de66e685f](https://linux-hardware.org/?probe=9de66e685f) | Apr 05, 2021 |
 | TUXEDO        | Pulse 15 Gen1               | [51b67b480d](https://linux-hardware.org/?probe=51b67b480d) | Apr 05, 2021 |
-| Apple         | MacBook4,1                  | [298dadfff9](https://linux-hardware.org/?probe=298dadfff9) | Apr 05, 2021 |
 | Dell          | Inspiron 5558               | [58cd0a8151](https://linux-hardware.org/?probe=58cd0a8151) | Apr 05, 2021 |
 | HP            | EliteBook 2170p             | [c45b758d6c](https://linux-hardware.org/?probe=c45b758d6c) | Apr 04, 2021 |
 | Notebook      | NJ5x_NJ7xLU                 | [11e4f772a9](https://linux-hardware.org/?probe=11e4f772a9) | Apr 04, 2021 |
 | HP            | Elite x2 1012 G1            | [931b6970f2](https://linux-hardware.org/?probe=931b6970f2) | Apr 04, 2021 |
 | Pine Micro... | Pine64 Pinebook Pro         | [8e270876a9](https://linux-hardware.org/?probe=8e270876a9) | Apr 03, 2021 |
-| Apple         | MacBook4,1                  | [6edccc53b3](https://linux-hardware.org/?probe=6edccc53b3) | Apr 03, 2021 |
 | Notebook      | N650DU                      | [34efc4fdfe](https://linux-hardware.org/?probe=34efc4fdfe) | Apr 02, 2021 |
 | Lenovo        | ThinkPad T15 Gen 1 20S7S... | [29c41b01bd](https://linux-hardware.org/?probe=29c41b01bd) | Apr 02, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X530... | [11a0cd56e5](https://linux-hardware.org/?probe=11a0cd56e5) | Apr 02, 2021 |
@@ -3108,7 +3055,6 @@ Total: 4587
 | HP            | Laptop 15-db0xxx            | [988eff81ca](https://linux-hardware.org/?probe=988eff81ca) | Mar 31, 2021 |
 | Intel         | SLIMBOOK                    | [d27010cd54](https://linux-hardware.org/?probe=d27010cd54) | Mar 31, 2021 |
 | Lenovo        | ThinkPad L390 20NRCTO1WW    | [09ae9c9787](https://linux-hardware.org/?probe=09ae9c9787) | Mar 31, 2021 |
-| Apple         | MacBook4,1                  | [f430c60495](https://linux-hardware.org/?probe=f430c60495) | Mar 31, 2021 |
 | Apple         | MacBook4,1                  | [74bbc27867](https://linux-hardware.org/?probe=74bbc27867) | Mar 31, 2021 |
 | Dell          | Inspiron 5721               | [2e925f1ee2](https://linux-hardware.org/?probe=2e925f1ee2) | Mar 30, 2021 |
 | Acer          | Aspire A315-53              | [4e040e7a0e](https://linux-hardware.org/?probe=4e040e7a0e) | Mar 30, 2021 |
@@ -3118,7 +3064,6 @@ Total: 4587
 | Medion        | Akoya P7818                 | [137cba154e](https://linux-hardware.org/?probe=137cba154e) | Mar 29, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 7th 2... | [3c1d98dce9](https://linux-hardware.org/?probe=3c1d98dce9) | Mar 29, 2021 |
 | Dell          | Latitude 3400               | [e1cab5dc75](https://linux-hardware.org/?probe=e1cab5dc75) | Mar 29, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [2c6ab69ae8](https://linux-hardware.org/?probe=2c6ab69ae8) | Mar 28, 2021 |
 | Lenovo        | ThinkPad L15 Gen 1 20U70... | [a7ba6cfb28](https://linux-hardware.org/?probe=a7ba6cfb28) | Mar 28, 2021 |
 | ASUSTek       | X550VX                      | [8ca6d8ba59](https://linux-hardware.org/?probe=8ca6d8ba59) | Mar 28, 2021 |
 | Micro Elec... | MG-VCTR002-2060             | [3724755eea](https://linux-hardware.org/?probe=3724755eea) | Mar 28, 2021 |
@@ -3129,12 +3074,10 @@ Total: 4587
 | Positivo      | Sinatra                     | [6bc774a94f](https://linux-hardware.org/?probe=6bc774a94f) | Mar 25, 2021 |
 | Positivo      | Sinatra                     | [a9045ef086](https://linux-hardware.org/?probe=a9045ef086) | Mar 25, 2021 |
 | Lenovo        | ThinkPad W520 42844LG       | [0b66d1d8d9](https://linux-hardware.org/?probe=0b66d1d8d9) | Mar 25, 2021 |
-| Dell          | XPS L322X                   | [1dea8d4332](https://linux-hardware.org/?probe=1dea8d4332) | Mar 23, 2021 |
 | HP            | ProBook 4520s               | [7577a208f6](https://linux-hardware.org/?probe=7577a208f6) | Mar 22, 2021 |
 | HP            | ProBook 4520s               | [d94784890e](https://linux-hardware.org/?probe=d94784890e) | Mar 22, 2021 |
 | Lenovo        | ThinkPad T61 7665V2R        | [346128882a](https://linux-hardware.org/?probe=346128882a) | Mar 22, 2021 |
 | HP            | EliteBook 8460p             | [991778f7f8](https://linux-hardware.org/?probe=991778f7f8) | Mar 22, 2021 |
-| HUAWEI        | BOHK-WAX9X                  | [4fc9eab67c](https://linux-hardware.org/?probe=4fc9eab67c) | Mar 21, 2021 |
 | ASUSTek       | UX31A                       | [c6506a0289](https://linux-hardware.org/?probe=c6506a0289) | Mar 21, 2021 |
 | HP            | Notebook                    | [9c0ea8c332](https://linux-hardware.org/?probe=9c0ea8c332) | Mar 21, 2021 |
 | Lenovo        | B50-30 20382                | [2d50a5e736](https://linux-hardware.org/?probe=2d50a5e736) | Mar 21, 2021 |
@@ -3159,7 +3102,64 @@ Total: 4587
 | MSI           | GL65 Leopard 10SFKV         | [e6ac7e1c0c](https://linux-hardware.org/?probe=e6ac7e1c0c) | Mar 17, 2021 |
 | Dell          | Inspiron 5558               | [437ce713e9](https://linux-hardware.org/?probe=437ce713e9) | Mar 16, 2021 |
 | Dell          | Inspiron 5558               | [5af2be25f4](https://linux-hardware.org/?probe=5af2be25f4) | Mar 16, 2021 |
-| Dell          | Inspiron 5548               | [e3d85d4006](https://linux-hardware.org/?probe=e3d85d4006) | Mar 15, 2021 |
+| Dell          | Inspiron 5548               | [3c8f0ff2d4](https://linux-hardware.org/?probe=3c8f0ff2d4) | Mar 15, 2021 |
+| Acer          | Extensa 5635                | [5bf0144cd3](https://linux-hardware.org/?probe=5bf0144cd3) | Mar 15, 2021 |
+| Lenovo        | ThinkPad 11e 20DAS0PS00     | [85555153ea](https://linux-hardware.org/?probe=85555153ea) | Mar 15, 2021 |
+| Fujitsu       | FMVA05007                   | [707f6a3ea5](https://linux-hardware.org/?probe=707f6a3ea5) | Mar 14, 2021 |
+| HUAWEI        | BOHK-WAX9X                  | [bcdd60dc85](https://linux-hardware.org/?probe=bcdd60dc85) | Mar 14, 2021 |
+| Lenovo        | ThinkPad T470s 20HGS45C0... | [8739fea3ef](https://linux-hardware.org/?probe=8739fea3ef) | Mar 14, 2021 |
+| Lenovo        | ThinkPad T470s 20HGS45C0... | [b6d9e2c549](https://linux-hardware.org/?probe=b6d9e2c549) | Mar 14, 2021 |
+| Lenovo        | ThinkPad X201 3249CTO       | [5461951b34](https://linux-hardware.org/?probe=5461951b34) | Mar 14, 2021 |
+| Dell          | XPS 13 7390                 | [89801d79d2](https://linux-hardware.org/?probe=89801d79d2) | Mar 11, 2021 |
+| Lenovo        | ThinkPad P51s 20HB000URT    | [33c60d9e8e](https://linux-hardware.org/?probe=33c60d9e8e) | Mar 10, 2021 |
+| HP            | EliteBook 820 G1            | [0cfc5a07d2](https://linux-hardware.org/?probe=0cfc5a07d2) | Mar 09, 2021 |
+| Lenovo        | ThinkPad Edge E145 20BC0... | [de3f595990](https://linux-hardware.org/?probe=de3f595990) | Mar 09, 2021 |
+| HP            | EliteBook 820 G3            | [2802515b4d](https://linux-hardware.org/?probe=2802515b4d) | Mar 09, 2021 |
+| Lenovo        | ThinkPad P14s Gen 1 20Y1... | [9beff2f127](https://linux-hardware.org/?probe=9beff2f127) | Mar 08, 2021 |
+| HP            | EliteBook 6930p             | [1dc2a48a1c](https://linux-hardware.org/?probe=1dc2a48a1c) | Mar 08, 2021 |
+| Lenovo        | ThinkPad T400 2768BM2       | [b9aea0e95e](https://linux-hardware.org/?probe=b9aea0e95e) | Mar 08, 2021 |
+| Lenovo        | ThinkPad T400 2768BM2       | [906ea1b277](https://linux-hardware.org/?probe=906ea1b277) | Mar 08, 2021 |
+| Lenovo        | ThinkPad T530 24296HG       | [09ff2814ff](https://linux-hardware.org/?probe=09ff2814ff) | Mar 08, 2021 |
+| Lenovo        | G510 20238                  | [bb444bb552](https://linux-hardware.org/?probe=bb444bb552) | Mar 07, 2021 |
+| Medion        | P861X                       | [f163e14733](https://linux-hardware.org/?probe=f163e14733) | Mar 07, 2021 |
+| Dell          | Vostro 5481                 | [f914e0d1b3](https://linux-hardware.org/?probe=f914e0d1b3) | Mar 07, 2021 |
+| Lenovo        | Legion Y530-15ICH 81FV      | [bd5d97f7e7](https://linux-hardware.org/?probe=bd5d97f7e7) | Mar 07, 2021 |
+| Acer          | Aspire E5-521               | [d2ee782761](https://linux-hardware.org/?probe=d2ee782761) | Mar 07, 2021 |
+| HUAWEI        | BOHK-WAX9X                  | [0f1bf2c9c8](https://linux-hardware.org/?probe=0f1bf2c9c8) | Mar 06, 2021 |
+| Lenovo        | ThinkPad X1 Carbon 7th 2... | [ff64809dc3](https://linux-hardware.org/?probe=ff64809dc3) | Mar 05, 2021 |
+| HP            | Notebook                    | [a12fa51807](https://linux-hardware.org/?probe=a12fa51807) | Mar 05, 2021 |
+| HP            | ProBook 430 G6              | [5ed6cc994b](https://linux-hardware.org/?probe=5ed6cc994b) | Mar 05, 2021 |
+| ASUSTek       | K53E                        | [f84c0f2b1b](https://linux-hardware.org/?probe=f84c0f2b1b) | Mar 05, 2021 |
+| Micro Elec... | MG-VCTR002-2060             | [f86910b3b3](https://linux-hardware.org/?probe=f86910b3b3) | Mar 05, 2021 |
+| ASUSTek       | K53E                        | [8a98e99c2f](https://linux-hardware.org/?probe=8a98e99c2f) | Mar 05, 2021 |
+| HP            | ProBook 455 G2              | [f8777fdd8c](https://linux-hardware.org/?probe=f8777fdd8c) | Mar 05, 2021 |
+| Dell          | Inspiron 1525               | [92c198acb8](https://linux-hardware.org/?probe=92c198acb8) | Mar 05, 2021 |
+| Sony          | VPCEG15FB                   | [c23aee4449](https://linux-hardware.org/?probe=c23aee4449) | Mar 05, 2021 |
+| Packard Be... | EasyNote TE11HC             | [53a440907b](https://linux-hardware.org/?probe=53a440907b) | Mar 04, 2021 |
+| Lenovo        | ThinkPad E495 20NECTO1WW    | [3621039fbb](https://linux-hardware.org/?probe=3621039fbb) | Mar 04, 2021 |
+| Medion        | P861X                       | [6b6562c621](https://linux-hardware.org/?probe=6b6562c621) | Mar 04, 2021 |
+| Archos        | 133 FLIP                    | [ef3888a7d1](https://linux-hardware.org/?probe=ef3888a7d1) | Mar 03, 2021 |
+| HP            | ProBook 450 G5              | [ea8530ffe4](https://linux-hardware.org/?probe=ea8530ffe4) | Mar 03, 2021 |
+| Lenovo        | ThinkPad T430 2349PS9       | [4f805206d4](https://linux-hardware.org/?probe=4f805206d4) | Mar 03, 2021 |
+| MSI           | P65 Creator 9SD             | [8cabd1eaa2](https://linux-hardware.org/?probe=8cabd1eaa2) | Mar 03, 2021 |
+| MSI           | P65 Creator 9SD             | [217f63acba](https://linux-hardware.org/?probe=217f63acba) | Mar 03, 2021 |
+| YiFang        | NXM1012BCP                  | [321104f919](https://linux-hardware.org/?probe=321104f919) | Mar 02, 2021 |
+| HP            | EliteBook 840 G6            | [2ab0bd9796](https://linux-hardware.org/?probe=2ab0bd9796) | Mar 02, 2021 |
+| YiFang        | NXM1012BCP                  | [689a0a7984](https://linux-hardware.org/?probe=689a0a7984) | Mar 02, 2021 |
+| Dell          | XPS 13 9310                 | [d8b4e607e1](https://linux-hardware.org/?probe=d8b4e607e1) | Mar 02, 2021 |
+| Dell          | XPS 13 9310                 | [eca0e7f55f](https://linux-hardware.org/?probe=eca0e7f55f) | Mar 02, 2021 |
+| HP            | Pavilion Notebook           | [88c5aee182](https://linux-hardware.org/?probe=88c5aee182) | Mar 02, 2021 |
+| Lenovo        | ThinkPad P14s Gen 1 20Y1... | [7b75113920](https://linux-hardware.org/?probe=7b75113920) | Mar 01, 2021 |
+| MSI           | MS-7A39                     | [ae2ad389da](https://linux-hardware.org/?probe=ae2ad389da) | Mar 01, 2021 |
+| Sony          | VPCEG15FB                   | [6d895891b9](https://linux-hardware.org/?probe=6d895891b9) | Mar 01, 2021 |
+| Lenovo        | ThinkPad E470 20H2S00400    | [7613332b70](https://linux-hardware.org/?probe=7613332b70) | Mar 01, 2021 |
+| Sony          | VPCEG15FB                   | [45318e0495](https://linux-hardware.org/?probe=45318e0495) | Feb 28, 2021 |
+| HP            | EliteBook 850 G7 Noteboo... | [d589c2b2c9](https://linux-hardware.org/?probe=d589c2b2c9) | Feb 27, 2021 |
+| Dell          | Latitude E7250              | [3900450df8](https://linux-hardware.org/?probe=3900450df8) | Feb 27, 2021 |
+| Notebook      | NJ50_70CU                   | [a5163721c5](https://linux-hardware.org/?probe=a5163721c5) | Feb 27, 2021 |
+| Lenovo        | V570 HuronRiver Platform    | [d93b0955fa](https://linux-hardware.org/?probe=d93b0955fa) | Feb 27, 2021 |
+| Medion        | P861X                       | [b2b7b32fe1](https://linux-hardware.org/?probe=b2b7b32fe1) | Feb 26, 2021 |
+| Medion        | P861X                       | [ef45a1774d](https://linux-hardware.org/?probe=ef45a1774d) | Feb 26, 2021 |
 
 ...
 
@@ -3178,14 +3178,13 @@ Installed operating systems
 
 | Name                            | Notebooks | Percent |
 |---------------------------------|-----------|---------|
-| Debian 11                       | 1827      | 57.2%   |
-| Debian 10                       | 819       | 25.64%  |
-| Debian Testing                  | 274       | 8.58%   |
-| Debian 9                        | 145       | 4.54%   |
-| Debian Unstable                 | 98        | 3.07%   |
-| Debian 11-updates               | 11        | 0.34%   |
-| Debian 8                        | 10        | 0.31%   |
-| Debian 5                        | 6         | 0.19%   |
+| Debian 11                       | 1917      | 57.93%  |
+| Debian 10                       | 827       | 24.99%  |
+| Debian Testing                  | 286       | 8.64%   |
+| Debian 9                        | 146       | 4.41%   |
+| Debian Unstable                 | 104       | 3.14%   |
+| Debian 11-updates               | 15        | 0.45%   |
+| Debian 8                        | 10        | 0.3%    |
 | Debian Testing/unstable         | 1         | 0.03%   |
 | Debian Testing-proposed-updates | 1         | 0.03%   |
 | Debian Sid                      | 1         | 0.03%   |
@@ -3201,7 +3200,7 @@ OS without a version
 
 | Name   | Notebooks | Percent |
 |--------|-----------|---------|
-| Debian | 3118      | 100%    |
+| Debian | 3227      | 100%    |
 
 Kernel
 ------
@@ -3213,66 +3212,66 @@ Version of the Linux kernel
 
 | Version              | Notebooks | Percent |
 |----------------------|-----------|---------|
-| 5.10.0-8-amd64       | 584       | 16.91%  |
-| 5.10.0-10-amd64      | 493       | 14.28%  |
-| 5.10.0-9-amd64       | 170       | 4.92%   |
-| 5.10.0-7-amd64       | 133       | 3.85%   |
-| 5.10.0-13-amd64      | 112       | 3.24%   |
-| 5.10.0-11-amd64      | 101       | 2.92%   |
-| 4.19.0-9-amd64       | 85        | 2.46%   |
-| 4.19.0-6-amd64       | 81        | 2.35%   |
-| 4.19.0-13-amd64      | 69        | 2%      |
-| 4.19.0-8-amd64       | 68        | 1.97%   |
-| 4.19.0-10-amd64      | 52        | 1.51%   |
-| 5.15.0-2-amd64       | 50        | 1.45%   |
-| 4.19.0-16-amd64      | 49        | 1.42%   |
-| 4.19.0-12-amd64      | 47        | 1.36%   |
-| 4.19.0-14-amd64      | 42        | 1.22%   |
-| 5.10.0-6-amd64       | 41        | 1.19%   |
-| 4.9.0-8-amd64        | 39        | 1.13%   |
-| 5.10.0-12-amd64      | 38        | 1.1%    |
-| 4.19.0-17-amd64      | 38        | 1.1%    |
-| 5.10.0-2-amd64       | 36        | 1.04%   |
-| 5.10.0-3-amd64       | 29        | 0.84%   |
-| 5.4.0-4-amd64        | 25        | 0.72%   |
-| 5.10.0-13-686-pae    | 23        | 0.67%   |
-| 4.19.0-11-amd64      | 22        | 0.64%   |
-| 5.7.0-1-amd64        | 21        | 0.61%   |
-| 5.16.0-6-amd64       | 21        | 0.61%   |
-| 4.19.0-5-amd64       | 21        | 0.61%   |
-| 5.8.0-2-amd64        | 20        | 0.58%   |
-| 5.6.0-2-amd64        | 20        | 0.58%   |
-| 5.10.0-5-amd64       | 20        | 0.58%   |
-| 5.9.0-5-amd64        | 18        | 0.52%   |
-| 5.9.0-1-amd64        | 18        | 0.52%   |
-| 4.19.0-18-amd64      | 18        | 0.52%   |
-| 5.15.0-3-amd64       | 16        | 0.46%   |
-| 5.9.0-4-amd64        | 15        | 0.43%   |
-| 5.7.0-3-amd64        | 15        | 0.43%   |
-| 5.14.0-2-amd64       | 15        | 0.43%   |
-| 5.14.0-0.bpo.2-amd64 | 15        | 0.43%   |
-| 5.10.0-1-amd64       | 15        | 0.43%   |
-| 4.9.0-11-amd64       | 15        | 0.43%   |
-| 5.6.0-1-amd64        | 14        | 0.41%   |
-| 5.10.0-4-amd64       | 14        | 0.41%   |
-| 5.8.0-3-amd64        | 13        | 0.38%   |
-| 5.8.0-0.bpo.2-amd64  | 13        | 0.38%   |
-| 4.9.0-12-amd64       | 13        | 0.38%   |
-| 5.7.0-2-amd64        | 12        | 0.35%   |
-| 5.4.0-3-amd64        | 12        | 0.35%   |
-| 4.9.0-9-amd64        | 12        | 0.35%   |
-| 5.3.0-2-amd64        | 11        | 0.32%   |
-| 5.10.0-0.bpo.3-amd64 | 11        | 0.32%   |
-| 5.7.0-0.bpo.2-amd64  | 9         | 0.26%   |
-| 5.10.0-9-686-pae     | 9         | 0.26%   |
-| 5.10.0-8-686-pae     | 9         | 0.26%   |
-| 5.9.0-2-amd64        | 8         | 0.23%   |
-| 5.8.0-1-amd64        | 8         | 0.23%   |
-| 5.6.0-0.bpo.2-amd64  | 8         | 0.23%   |
-| 5.15.0-0.bpo.2-amd64 | 8         | 0.23%   |
-| 5.10.0-0.bpo.5-amd64 | 8         | 0.23%   |
-| 5.16.0-5-amd64       | 7         | 0.2%    |
-| 5.16.0-1-amd64       | 7         | 0.2%    |
+| 5.10.0-8-amd64       | 583       | 16.39%  |
+| 5.10.0-10-amd64      | 488       | 13.72%  |
+| 5.10.0-9-amd64       | 168       | 4.72%   |
+| 5.10.0-7-amd64       | 147       | 4.13%   |
+| 5.10.0-13-amd64      | 126       | 3.54%   |
+| 5.10.0-11-amd64      | 100       | 2.81%   |
+| 4.19.0-9-amd64       | 85        | 2.39%   |
+| 4.19.0-6-amd64       | 81        | 2.28%   |
+| 4.19.0-13-amd64      | 68        | 1.91%   |
+| 4.19.0-8-amd64       | 67        | 1.88%   |
+| 5.10.0-14-amd64      | 53        | 1.49%   |
+| 4.19.0-10-amd64      | 52        | 1.46%   |
+| 5.15.0-2-amd64       | 51        | 1.43%   |
+| 4.19.0-16-amd64      | 51        | 1.43%   |
+| 4.19.0-12-amd64      | 47        | 1.32%   |
+| 4.19.0-14-amd64      | 42        | 1.18%   |
+| 5.10.0-6-amd64       | 40        | 1.12%   |
+| 4.19.0-17-amd64      | 40        | 1.12%   |
+| 5.10.0-12-amd64      | 39        | 1.1%    |
+| 4.9.0-8-amd64        | 39        | 1.1%    |
+| 5.10.0-2-amd64       | 35        | 0.98%   |
+| 5.10.0-3-amd64       | 30        | 0.84%   |
+| 5.4.0-4-amd64        | 25        | 0.7%    |
+| 5.10.0-13-686-pae    | 25        | 0.7%    |
+| 5.16.0-6-amd64       | 22        | 0.62%   |
+| 4.19.0-11-amd64      | 22        | 0.62%   |
+| 5.7.0-1-amd64        | 21        | 0.59%   |
+| 4.19.0-5-amd64       | 21        | 0.59%   |
+| 5.6.0-2-amd64        | 20        | 0.56%   |
+| 5.17.0-1-amd64       | 19        | 0.53%   |
+| 4.19.0-18-amd64      | 19        | 0.53%   |
+| 5.9.0-1-amd64        | 18        | 0.51%   |
+| 5.8.0-2-amd64        | 18        | 0.51%   |
+| 5.10.0-5-amd64       | 18        | 0.51%   |
+| 5.9.0-5-amd64        | 17        | 0.48%   |
+| 5.7.0-3-amd64        | 15        | 0.42%   |
+| 5.15.0-3-amd64       | 15        | 0.42%   |
+| 5.14.0-2-amd64       | 15        | 0.42%   |
+| 5.14.0-0.bpo.2-amd64 | 15        | 0.42%   |
+| 5.10.0-1-amd64       | 15        | 0.42%   |
+| 4.9.0-11-amd64       | 15        | 0.42%   |
+| 5.6.0-1-amd64        | 14        | 0.39%   |
+| 5.10.0-4-amd64       | 14        | 0.39%   |
+| 5.9.0-4-amd64        | 13        | 0.37%   |
+| 5.8.0-3-amd64        | 13        | 0.37%   |
+| 5.8.0-0.bpo.2-amd64  | 13        | 0.37%   |
+| 4.9.0-12-amd64       | 13        | 0.37%   |
+| 5.7.0-2-amd64        | 12        | 0.34%   |
+| 5.4.0-3-amd64        | 12        | 0.34%   |
+| 4.9.0-9-amd64        | 12        | 0.34%   |
+| 5.3.0-2-amd64        | 11        | 0.31%   |
+| 5.10.0-0.bpo.3-amd64 | 11        | 0.31%   |
+| 5.7.0-0.bpo.2-amd64  | 9         | 0.25%   |
+| 5.10.0-9-686-pae     | 9         | 0.25%   |
+| 5.10.0-8-686-pae     | 9         | 0.25%   |
+| 5.8.0-1-amd64        | 8         | 0.22%   |
+| 5.6.0-0.bpo.2-amd64  | 8         | 0.22%   |
+| 5.16.0-0.bpo.4-amd64 | 8         | 0.22%   |
+| 5.15.0-0.bpo.2-amd64 | 8         | 0.22%   |
+| 5.10.0-13-686        | 8         | 0.22%   |
 
 Kernel Family
 -------------
@@ -3284,27 +3283,28 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.10.0  | 1819      | 55.46%  |
-| 4.19.0  | 627       | 19.12%  |
-| 4.9.0   | 119       | 3.63%   |
-| 5.15.0  | 91        | 2.77%   |
-| 5.9.0   | 76        | 2.32%   |
-| 5.4.0   | 64        | 1.95%   |
-| 5.7.0   | 59        | 1.8%    |
-| 5.14.0  | 58        | 1.77%   |
-| 5.8.0   | 56        | 1.71%   |
-| 5.16.0  | 52        | 1.59%   |
-| 5.6.0   | 45        | 1.37%   |
-| 5.3.0   | 19        | 0.58%   |
-| 5.5.0   | 16        | 0.49%   |
-| 5.2.0   | 12        | 0.37%   |
-| 4.18.0  | 12        | 0.37%   |
+| 5.10.0  | 1898      | 55.94%  |
+| 4.19.0  | 634       | 18.69%  |
+| 4.9.0   | 120       | 3.54%   |
+| 5.15.0  | 91        | 2.68%   |
+| 5.9.0   | 73        | 2.15%   |
+| 5.4.0   | 64        | 1.89%   |
+| 5.7.0   | 59        | 1.74%   |
+| 5.16.0  | 58        | 1.71%   |
+| 5.8.0   | 56        | 1.65%   |
+| 5.14.0  | 51        | 1.5%    |
+| 5.6.0   | 45        | 1.33%   |
+| 5.17.0  | 30        | 0.88%   |
+| 5.3.0   | 19        | 0.56%   |
+| 5.5.0   | 16        | 0.47%   |
+| 5.2.0   | 12        | 0.35%   |
+| 4.18.0  | 12        | 0.35%   |
 | 3.16.0  | 8         | 0.24%   |
 | 5.12.0  | 6         | 0.18%   |
-| 5.17.0  | 5         | 0.15%   |
-| 5.11.0  | 4         | 0.12%   |
+| 5.17.5  | 3         | 0.09%   |
 | 5.13.19 | 3         | 0.09%   |
 | 5.13.0  | 3         | 0.09%   |
+| 5.11.0  | 3         | 0.09%   |
 | 5.0.0   | 3         | 0.09%   |
 | 5.8.2   | 2         | 0.06%   |
 | 5.8.16  | 2         | 0.06%   |
@@ -3316,6 +3316,7 @@ Linux kernel without a distro release
 | 5.10.10 | 2         | 0.06%   |
 | 4.17.0  | 2         | 0.06%   |
 | 3.10.54 | 2         | 0.06%   |
+| 5.9.8   | 1         | 0.03%   |
 | 5.9.2   | 1         | 0.03%   |
 | 5.9.15  | 1         | 0.03%   |
 | 5.9.14  | 1         | 0.03%   |
@@ -3342,8 +3343,6 @@ Linux kernel without a distro release
 | 5.4.17  | 1         | 0.03%   |
 | 5.4.16  | 1         | 0.03%   |
 | 5.4.143 | 1         | 0.03%   |
-| 5.4.13  | 1         | 0.03%   |
-| 5.4.119 | 1         | 0.03%   |
 
 Kernel Major Ver.
 -----------------
@@ -3355,25 +3354,25 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.10    | 1831      | 55.94%  |
-| 4.19    | 631       | 19.28%  |
-| 4.9     | 122       | 3.73%   |
-| 5.15    | 102       | 3.12%   |
-| 5.9     | 81        | 2.47%   |
-| 5.4     | 75        | 2.29%   |
-| 5.7     | 62        | 1.89%   |
-| 5.14    | 62        | 1.89%   |
-| 5.8     | 61        | 1.86%   |
-| 5.16    | 53        | 1.62%   |
-| 5.6     | 49        | 1.5%    |
-| 5.3     | 23        | 0.7%    |
-| 5.5     | 19        | 0.58%   |
-| 5.2     | 17        | 0.52%   |
-| 5.13    | 12        | 0.37%   |
-| 4.18    | 12        | 0.37%   |
-| 5.12    | 10        | 0.31%   |
-| 5.11    | 10        | 0.31%   |
-| 5.17    | 8         | 0.24%   |
+| 5.10    | 1911      | 56.44%  |
+| 4.19    | 638       | 18.84%  |
+| 4.9     | 123       | 3.63%   |
+| 5.15    | 103       | 3.04%   |
+| 5.9     | 79        | 2.33%   |
+| 5.4     | 75        | 2.22%   |
+| 5.7     | 62        | 1.83%   |
+| 5.8     | 61        | 1.8%    |
+| 5.16    | 60        | 1.77%   |
+| 5.14    | 55        | 1.62%   |
+| 5.6     | 49        | 1.45%   |
+| 5.17    | 37        | 1.09%   |
+| 5.3     | 23        | 0.68%   |
+| 5.5     | 19        | 0.56%   |
+| 5.2     | 17        | 0.5%    |
+| 5.13    | 12        | 0.35%   |
+| 4.18    | 12        | 0.35%   |
+| 5.12    | 9         | 0.27%   |
+| 5.11    | 9         | 0.27%   |
 | 3.16    | 8         | 0.24%   |
 | 3.10    | 4         | 0.12%   |
 | 5.1     | 3         | 0.09%   |
@@ -3382,7 +3381,6 @@ Linux kernel major version
 | 4.15    | 2         | 0.06%   |
 | 5.4.104 | 1         | 0.03%   |
 | 5.15.6  | 1         | 0.03%   |
-| 5.14.12 | 1         | 0.03%   |
 | 4.4     | 1         | 0.03%   |
 | 4.20    | 1         | 0.03%   |
 | 4.14    | 1         | 0.03%   |
@@ -3402,9 +3400,9 @@ OS architecture (x86_64, i586, etc.)
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| x86_64  | 2959      | 94.87%  |
-| i686    | 150       | 4.81%   |
-| armv7l  | 8         | 0.26%   |
+| x86_64  | 3064      | 94.92%  |
+| i686    | 154       | 4.77%   |
+| armv7l  | 8         | 0.25%   |
 | i586    | 1         | 0.03%   |
 | aarch64 | 1         | 0.03%   |
 
@@ -3418,39 +3416,40 @@ Desktop Environment
 
 | Name             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Unknown          | 1022      | 32.01%  |
-| GNOME            | 735       | 23.02%  |
-| XFCE             | 383       | 11.99%  |
-| KDE5             | 356       | 11.15%  |
-| MATE             | 136       | 4.26%   |
-| KDE              | 100       | 3.13%   |
-| X-Cinnamon       | 89        | 2.79%   |
-| LXDE             | 86        | 2.69%   |
-| Cinnamon         | 85        | 2.66%   |
-| i3               | 60        | 1.88%   |
-| LXQt             | 36        | 1.13%   |
-| lightdm-xsession | 20        | 0.63%   |
-| GNOME Flashback  | 20        | 0.63%   |
-| Trinity          | 10        | 0.31%   |
-| Budgie           | 10        | 0.31%   |
-| GNOME Classic    | 8         | 0.25%   |
-| openbox          | 7         | 0.22%   |
-| ICEWM            | 4         | 0.13%   |
-| awesome          | 4         | 0.13%   |
+| Unknown          | 1040      | 31.5%   |
+| GNOME            | 769       | 23.29%  |
+| XFCE             | 399       | 12.08%  |
+| KDE5             | 365       | 11.05%  |
+| MATE             | 143       | 4.33%   |
+| KDE              | 99        | 3%      |
+| X-Cinnamon       | 96        | 2.91%   |
+| LXDE             | 91        | 2.76%   |
+| Cinnamon         | 90        | 2.73%   |
+| i3               | 61        | 1.85%   |
+| LXQt             | 39        | 1.18%   |
+| lightdm-xsession | 21        | 0.64%   |
+| GNOME Flashback  | 20        | 0.61%   |
+| Trinity          | 10        | 0.3%    |
+| Budgie           | 10        | 0.3%    |
+| GNOME Classic    | 8         | 0.24%   |
+| openbox          | 7         | 0.21%   |
+| ICEWM            | 4         | 0.12%   |
+| awesome          | 4         | 0.12%   |
 | sway             | 3         | 0.09%   |
 | Enlightenment    | 3         | 0.09%   |
 | DWM              | 3         | 0.09%   |
 | KDE4             | 2         | 0.06%   |
+| fluxbox          | 2         | 0.06%   |
 | default          | 2         | 0.06%   |
+| Cutefish         | 2         | 0.06%   |
+| bspwm            | 2         | 0.06%   |
 | wmaker-common    | 1         | 0.03%   |
 | Unity            | 1         | 0.03%   |
+| matchbox         | 1         | 0.03%   |
 | jwm              | 1         | 0.03%   |
 | i3-gaps          | 1         | 0.03%   |
 | GNUstep          | 1         | 0.03%   |
-| Fluxbox          | 1         | 0.03%   |
 | Deepin           | 1         | 0.03%   |
-| Cutefish         | 1         | 0.03%   |
-| bspwm            | 1         | 0.03%   |
 
 Display Server
 --------------
@@ -3462,10 +3461,10 @@ X11 or Wayland
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| X11     | 1711      | 53.97%  |
-| Unknown | 828       | 26.12%  |
-| Wayland | 523       | 16.5%   |
-| Tty     | 108       | 3.41%   |
+| X11     | 1773      | 54.01%  |
+| Unknown | 842       | 25.65%  |
+| Wayland | 553       | 16.84%  |
+| Tty     | 115       | 3.5%    |
 
 Display Manager
 ---------------
@@ -3477,18 +3476,17 @@ SDDM, LightDM, etc.
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 1511      | 47.38%  |
-| GDM     | 577       | 18.09%  |
-| SDDM    | 360       | 11.29%  |
-| LightDM | 356       | 11.16%  |
-| TDM     | 280       | 8.78%   |
-| GDM3    | 66        | 2.07%   |
-| XDM     | 14        | 0.44%   |
-| SLiM    | 12        | 0.38%   |
-| KDM     | 6         | 0.19%   |
-| NODM    | 5         | 0.16%   |
+| Unknown | 1548      | 46.87%  |
+| GDM     | 599       | 18.14%  |
+| SDDM    | 368       | 11.14%  |
+| LightDM | 357       | 10.81%  |
+| TDM     | 310       | 9.39%   |
+| GDM3    | 81        | 2.45%   |
+| XDM     | 15        | 0.45%   |
+| SLiM    | 13        | 0.39%   |
+| KDM     | 6         | 0.18%   |
+| NODM    | 5         | 0.15%   |
 | WDM     | 1         | 0.03%   |
-| LXDM    | 1         | 0.03%   |
 
 OS Lang
 -------
@@ -3500,61 +3498,61 @@ Language
 
 | Lang    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 894       | 28.24%  |
-| en_US   | 825       | 26.06%  |
-| ru_RU   | 205       | 6.48%   |
-| de_DE   | 177       | 5.59%   |
-| fr_FR   | 140       | 4.42%   |
-| en_GB   | 123       | 3.89%   |
-| pt_BR   | 116       | 3.66%   |
-| es_ES   | 77        | 2.43%   |
-| it_IT   | 72        | 2.27%   |
-| pl_PL   | 61        | 1.93%   |
-| en_CA   | 31        | 0.98%   |
-| es_MX   | 30        | 0.95%   |
-| C       | 30        | 0.95%   |
-| en_IN   | 27        | 0.85%   |
-| en_AU   | 23        | 0.73%   |
-| es_CL   | 22        | 0.69%   |
-| zh_CN   | 21        | 0.66%   |
-| en_IE   | 17        | 0.54%   |
-| pt_PT   | 15        | 0.47%   |
-| hu_HU   | 15        | 0.47%   |
-| es_AR   | 13        | 0.41%   |
-| de_CH   | 13        | 0.41%   |
-| sv_SE   | 11        | 0.35%   |
-| es_VE   | 10        | 0.32%   |
-| cs_CZ   | 10        | 0.32%   |
-| tr_TR   | 9         | 0.28%   |
-| nl_NL   | 9         | 0.28%   |
-| fi_FI   | 9         | 0.28%   |
-| en_ZA   | 9         | 0.28%   |
-| de_AT   | 9         | 0.28%   |
-| ru_UA   | 8         | 0.25%   |
-| ja_JP   | 8         | 0.25%   |
-| es_CO   | 8         | 0.25%   |
-| en_NZ   | 8         | 0.25%   |
-| uk_UA   | 6         | 0.19%   |
-| fr_BE   | 6         | 0.19%   |
-| da_DK   | 6         | 0.19%   |
-| ko_KR   | 5         | 0.16%   |
-| es_PE   | 5         | 0.16%   |
-| en_SG   | 5         | 0.16%   |
-| zh_TW   | 4         | 0.13%   |
-| sk_SK   | 4         | 0.13%   |
-| fr_CH   | 4         | 0.13%   |
-| es_EC   | 4         | 0.13%   |
-| es_CR   | 4         | 0.13%   |
-| en_HK   | 4         | 0.13%   |
-| en_DK   | 4         | 0.13%   |
-| ca_ES   | 4         | 0.13%   |
+| Unknown | 894       | 27.3%   |
+| en_US   | 870       | 26.56%  |
+| ru_RU   | 226       | 6.9%    |
+| de_DE   | 180       | 5.5%    |
+| fr_FR   | 148       | 4.52%   |
+| en_GB   | 126       | 3.85%   |
+| pt_BR   | 120       | 3.66%   |
+| es_ES   | 83        | 2.53%   |
+| it_IT   | 74        | 2.26%   |
+| pl_PL   | 63        | 1.92%   |
+| en_CA   | 32        | 0.98%   |
+| es_MX   | 31        | 0.95%   |
+| C       | 31        | 0.95%   |
+| en_IN   | 27        | 0.82%   |
+| en_AU   | 26        | 0.79%   |
+| es_CL   | 23        | 0.7%    |
+| zh_CN   | 22        | 0.67%   |
+| en_IE   | 18        | 0.55%   |
+| pt_PT   | 15        | 0.46%   |
+| hu_HU   | 15        | 0.46%   |
+| es_AR   | 13        | 0.4%    |
+| de_CH   | 13        | 0.4%    |
+| sv_SE   | 11        | 0.34%   |
+| fi_FI   | 11        | 0.34%   |
+| nl_NL   | 10        | 0.31%   |
+| es_VE   | 10        | 0.31%   |
+| de_AT   | 10        | 0.31%   |
+| cs_CZ   | 10        | 0.31%   |
+| tr_TR   | 9         | 0.27%   |
+| ja_JP   | 9         | 0.27%   |
+| en_ZA   | 9         | 0.27%   |
+| ru_UA   | 8         | 0.24%   |
+| es_CO   | 8         | 0.24%   |
+| en_NZ   | 8         | 0.24%   |
+| uk_UA   | 6         | 0.18%   |
+| fr_BE   | 6         | 0.18%   |
+| da_DK   | 6         | 0.18%   |
+| ko_KR   | 5         | 0.15%   |
+| es_PE   | 5         | 0.15%   |
+| en_SG   | 5         | 0.15%   |
+| zh_TW   | 4         | 0.12%   |
+| sk_SK   | 4         | 0.12%   |
+| fr_CH   | 4         | 0.12%   |
+| es_EC   | 4         | 0.12%   |
+| es_CR   | 4         | 0.12%   |
+| en_HK   | 4         | 0.12%   |
+| en_DK   | 4         | 0.12%   |
+| ca_ES   | 4         | 0.12%   |
 | nn_NO   | 3         | 0.09%   |
 | nl_BE   | 3         | 0.09%   |
+| nb_NO   | 3         | 0.09%   |
 | hr_HR   | 3         | 0.09%   |
 | bg_BG   | 3         | 0.09%   |
 | sl_SI   | 2         | 0.06%   |
 | ro_RO   | 2         | 0.06%   |
-| nb_NO   | 2         | 0.06%   |
 | fr_CA   | 2         | 0.06%   |
 | et_EE   | 2         | 0.06%   |
 | es_PY   | 2         | 0.06%   |
@@ -3571,8 +3569,8 @@ EFI or BIOS
 
 | Mode | Notebooks | Percent |
 |------|-----------|---------|
-| EFI  | 1858      | 59%     |
-| BIOS | 1291      | 41%     |
+| EFI  | 1918      | 58.85%  |
+| BIOS | 1341      | 41.15%  |
 
 Filesystem
 ----------
@@ -3584,17 +3582,17 @@ Type of filesystem
 
 | Type    | Notebooks | Percent |
 |---------|-----------|---------|
-| Ext4    | 2105      | 67.23%  |
-| Overlay | 834       | 26.64%  |
-| Btrfs   | 99        | 3.16%   |
-| Unknown | 34        | 1.09%   |
-| Xfs     | 23        | 0.73%   |
-| Ext2    | 11        | 0.35%   |
-| Zfs     | 7         | 0.22%   |
-| Rootfs  | 5         | 0.16%   |
-| Ext3    | 5         | 0.16%   |
-| Tmpfs   | 4         | 0.13%   |
-| Aufs    | 3         | 0.1%    |
+| Ext4    | 2156      | 66.48%  |
+| Overlay | 853       | 26.3%   |
+| Btrfs   | 97        | 2.99%   |
+| Unknown | 78        | 2.41%   |
+| Xfs     | 22        | 0.68%   |
+| Ext2    | 12        | 0.37%   |
+| Zfs     | 8         | 0.25%   |
+| Rootfs  | 5         | 0.15%   |
+| Ext3    | 5         | 0.15%   |
+| Tmpfs   | 3         | 0.09%   |
+| Aufs    | 3         | 0.09%   |
 | F2fs    | 1         | 0.03%   |
 
 Part. scheme
@@ -3607,9 +3605,9 @@ Scheme of partitioning
 
 | Type    | Notebooks | Percent |
 |---------|-----------|---------|
-| GPT     | 1866      | 58.96%  |
-| Unknown | 711       | 22.46%  |
-| MBR     | 588       | 18.58%  |
+| GPT     | 1926      | 58.81%  |
+| Unknown | 732       | 22.35%  |
+| MBR     | 617       | 18.84%  |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -3621,8 +3619,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 2515      | 79.82%  |
-| Yes       | 636       | 20.18%  |
+| No        | 2596      | 79.58%  |
+| Yes       | 666       | 20.42%  |
 
 Dual Boot (Win)
 ---------------
@@ -3634,8 +3632,8 @@ Hosting Linux and Windows
 
 | Dual boot | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 2405      | 76.4%   |
-| Yes       | 743       | 23.6%   |
+| No        | 2481      | 76.17%  |
+| Yes       | 776       | 23.83%  |
 
 Board
 -----
@@ -3650,48 +3648,48 @@ Motherboard manufacturer
 
 | Name                   | Notebooks | Percent |
 |------------------------|-----------|---------|
-| Lenovo                 | 680       | 21.81%  |
-| Apple                  | 565       | 18.12%  |
-| Hewlett-Packard        | 443       | 14.21%  |
-| Dell                   | 427       | 13.69%  |
-| ASUSTek Computer       | 259       | 8.31%   |
-| Acer                   | 194       | 6.22%   |
-| Google                 | 84        | 2.69%   |
-| Toshiba                | 49        | 1.57%   |
-| Samsung Electronics    | 49        | 1.57%   |
-| MSI                    | 47        | 1.51%   |
-| Sony                   | 35        | 1.12%   |
-| Unknown                | 24        | 0.77%   |
-| Aquarius               | 20        | 0.64%   |
-| Notebook               | 16        | 0.51%   |
-| HUAWEI                 | 14        | 0.45%   |
-| Timi                   | 10        | 0.32%   |
-| Intel                  | 10        | 0.32%   |
-| IBM                    | 10        | 0.32%   |
-| Fujitsu                | 10        | 0.32%   |
-| Positivo               | 9         | 0.29%   |
-| Alienware              | 9         | 0.29%   |
-| Medion                 | 8         | 0.26%   |
-| Clevo                  | 8         | 0.26%   |
-| Packard Bell           | 7         | 0.22%   |
-| Fujitsu Siemens        | 6         | 0.19%   |
-| Panasonic              | 5         | 0.16%   |
-| LG Electronics         | 5         | 0.16%   |
-| TUXEDO                 | 4         | 0.13%   |
-| PC Specialist          | 4         | 0.13%   |
-| Gigabyte Technology    | 4         | 0.13%   |
-| eMachines              | 4         | 0.13%   |
-| Compal                 | 4         | 0.13%   |
-| SLIMBOOK               | 3         | 0.1%    |
-| Schenker               | 3         | 0.1%    |
-| Razer                  | 3         | 0.1%    |
-| Purism                 | 3         | 0.1%    |
-| Gateway                | 3         | 0.1%    |
-| Chuwi                  | 3         | 0.1%    |
-| Avell High Performance | 3         | 0.1%    |
+| Lenovo                 | 706       | 21.88%  |
+| Apple                  | 567       | 17.57%  |
+| Hewlett-Packard        | 457       | 14.16%  |
+| Dell                   | 445       | 13.79%  |
+| ASUSTek Computer       | 274       | 8.49%   |
+| Acer                   | 201       | 6.23%   |
+| Google                 | 85        | 2.63%   |
+| Samsung Electronics    | 52        | 1.61%   |
+| Toshiba                | 50        | 1.55%   |
+| MSI                    | 48        | 1.49%   |
+| Sony                   | 35        | 1.08%   |
+| Aquarius               | 33        | 1.02%   |
+| Notebook               | 18        | 0.56%   |
+| Unknown                | 18        | 0.56%   |
+| HUAWEI                 | 15        | 0.46%   |
+| Fujitsu                | 11        | 0.34%   |
+| Timi                   | 10        | 0.31%   |
+| Intel                  | 10        | 0.31%   |
+| IBM                    | 10        | 0.31%   |
+| Alienware              | 10        | 0.31%   |
+| Positivo               | 9         | 0.28%   |
+| Medion                 | 9         | 0.28%   |
+| Clevo                  | 8         | 0.25%   |
+| Fujitsu Siemens        | 7         | 0.22%   |
+| TUXEDO                 | 6         | 0.19%   |
+| Panasonic              | 6         | 0.19%   |
+| Packard Bell           | 6         | 0.19%   |
+| LG Electronics         | 6         | 0.19%   |
+| SLIMBOOK               | 4         | 0.12%   |
+| PC Specialist          | 4         | 0.12%   |
+| Gigabyte Technology    | 4         | 0.12%   |
+| eMachines              | 4         | 0.12%   |
+| Compal                 | 4         | 0.12%   |
+| Chuwi                  | 4         | 0.12%   |
+| System76               | 3         | 0.09%   |
+| Schenker               | 3         | 0.09%   |
+| Razer                  | 3         | 0.09%   |
+| Purism                 | 3         | 0.09%   |
+| Gateway                | 3         | 0.09%   |
+| Avell High Performance | 3         | 0.09%   |
 | YiFang                 | 2         | 0.06%   |
 | TQ-Group               | 2         | 0.06%   |
-| System76               | 2         | 0.06%   |
 | Positivo Bahia - VAIO  | 2         | 0.06%   |
 | Philco                 | 2         | 0.06%   |
 | OEM                    | 2         | 0.06%   |
@@ -3721,23 +3719,23 @@ Motherboard model
 
 | Name                                  | Notebooks | Percent |
 |---------------------------------------|-----------|---------|
-| Apple MacBook5,2                      | 304       | 9.75%   |
-| Apple MacBookAir7,1                   | 75        | 2.41%   |
-| Google Enguarde                       | 73        | 2.34%   |
-| Apple MacBookAir7,2                   | 70        | 2.25%   |
-| Apple MacBook2,1                      | 56        | 1.8%    |
-| Unknown                               | 31        | 0.99%   |
-| Lenovo ThinkPad E475 20H40006US       | 23        | 0.74%   |
-| Apple MacBook4,1                      | 23        | 0.74%   |
-| Aquarius NS585                        | 20        | 0.64%   |
-| Lenovo ThinkPad 13 2nd Gen 20J10046US | 16        | 0.51%   |
-| Acer Aspire A315-23                   | 16        | 0.51%   |
-| HP Notebook                           | 13        | 0.42%   |
-| ASUS 1005HA                           | 13        | 0.42%   |
-| HP Pavilion g6                        | 11        | 0.35%   |
-| HP EliteBook 8460p                    | 9         | 0.29%   |
-| HP Laptop 15-db0xxx                   | 8         | 0.26%   |
-| Dell XPS 13 9310                      | 8         | 0.26%   |
+| Apple MacBook5,2                      | 304       | 9.42%   |
+| Apple MacBookAir7,1                   | 75        | 2.32%   |
+| Google Enguarde                       | 73        | 2.26%   |
+| Apple MacBookAir7,2                   | 70        | 2.17%   |
+| Apple MacBook2,1                      | 56        | 1.74%   |
+| Aquarius NS585                        | 33        | 1.02%   |
+| Unknown                               | 27        | 0.84%   |
+| Lenovo ThinkPad E475 20H40006US       | 23        | 0.71%   |
+| Apple MacBook4,1                      | 23        | 0.71%   |
+| Lenovo ThinkPad 13 2nd Gen 20J10046US | 16        | 0.5%    |
+| Acer Aspire A315-23                   | 16        | 0.5%    |
+| HP Notebook                           | 15        | 0.46%   |
+| ASUS 1005HA                           | 13        | 0.4%    |
+| HP Pavilion g6                        | 12        | 0.37%   |
+| HP EliteBook 8460p                    | 9         | 0.28%   |
+| HP Laptop 15-db0xxx                   | 8         | 0.25%   |
+| Dell XPS 13 9310                      | 8         | 0.25%   |
 | HP Pavilion Gaming Laptop 15-ec1xxx   | 7         | 0.22%   |
 | HP Pavilion dv6                       | 7         | 0.22%   |
 | HP 250 G7 Notebook PC                 | 7         | 0.22%   |
@@ -3750,37 +3748,37 @@ Motherboard model
 | HP Pavilion Notebook                  | 6         | 0.19%   |
 | HP Laptop 15s-fq2xxx                  | 6         | 0.19%   |
 | HP Laptop 15-db1xxx                   | 6         | 0.19%   |
+| HP EliteBook 840 G3                   | 6         | 0.19%   |
+| HP 250 G6 Notebook PC                 | 6         | 0.19%   |
+| Dell XPS 13 9360                      | 6         | 0.19%   |
 | Dell Latitude E7470                   | 6         | 0.19%   |
 | Dell Latitude E6430                   | 6         | 0.19%   |
 | Dell Latitude 7490                    | 6         | 0.19%   |
 | Dell Inspiron 5100                    | 6         | 0.19%   |
-| Lenovo IdeaPad S540-13API 81XC        | 5         | 0.16%   |
-| HP Pavilion Gaming Laptop 15-ec2xxx   | 5         | 0.16%   |
-| HP Laptop 15-bw0xx                    | 5         | 0.16%   |
-| HP EliteBook 8470p                    | 5         | 0.16%   |
-| HP EliteBook 840 G3                   | 5         | 0.16%   |
-| HP EliteBook 840 G1                   | 5         | 0.16%   |
-| HP 250 G6 Notebook PC                 | 5         | 0.16%   |
-| Dell XPS 13 9370                      | 5         | 0.16%   |
-| Dell XPS 13 9360                      | 5         | 0.16%   |
-| Dell XPS 13 7390                      | 5         | 0.16%   |
-| Dell Latitude 7400                    | 5         | 0.16%   |
-| Dell Inspiron 3576                    | 5         | 0.16%   |
-| Dell Inspiron 1545                    | 5         | 0.16%   |
-| Dell Inspiron 15-3567                 | 5         | 0.16%   |
-| Acer Aspire A515-51G                  | 5         | 0.16%   |
-| Lenovo IdeaPad L340-15API 81LW        | 4         | 0.13%   |
-| Lenovo IdeaPad 700-15ISK 80RU         | 4         | 0.13%   |
-| Lenovo B50-30 20382                   | 4         | 0.13%   |
-| HP Stream Notebook PC 13              | 4         | 0.13%   |
-| HP ProBook 4540s                      | 4         | 0.13%   |
-| HP Laptop 15s-fq1xxx                  | 4         | 0.13%   |
-| HP Laptop 15-da0xxx                   | 4         | 0.13%   |
-| HP EliteBook 830 G7 Notebook PC       | 4         | 0.13%   |
-| HP Compaq nx6110 (PZ065UA#ABA)        | 4         | 0.13%   |
-| HP Compaq CQ58                        | 4         | 0.13%   |
-| HP 15                                 | 4         | 0.13%   |
-| Dell XPS 17 9700                      | 4         | 0.13%   |
+| Dell Inspiron 1545                    | 6         | 0.19%   |
+| Lenovo IdeaPad S540-13API 81XC        | 5         | 0.15%   |
+| HP Pavilion Gaming Laptop 15-ec2xxx   | 5         | 0.15%   |
+| HP Laptop 15-bw0xx                    | 5         | 0.15%   |
+| HP EliteBook 8470p                    | 5         | 0.15%   |
+| HP EliteBook 840 G1                   | 5         | 0.15%   |
+| Dell XPS 13 9370                      | 5         | 0.15%   |
+| Dell XPS 13 7390                      | 5         | 0.15%   |
+| Dell Latitude 7400                    | 5         | 0.15%   |
+| Dell Inspiron 3576                    | 5         | 0.15%   |
+| Dell Inspiron 15-3567                 | 5         | 0.15%   |
+| ASUS K52F                             | 5         | 0.15%   |
+| Acer Aspire A515-51G                  | 5         | 0.15%   |
+| Samsung 300E4C/300E5C/300E7C          | 4         | 0.12%   |
+| Lenovo ThinkPad T14 Gen 1 20UDCTO1WW  | 4         | 0.12%   |
+| Lenovo IdeaPad L340-15API 81LW        | 4         | 0.12%   |
+| Lenovo IdeaPad 700-15ISK 80RU         | 4         | 0.12%   |
+| Lenovo B50-30 20382                   | 4         | 0.12%   |
+| Intel powered classmate PC            | 4         | 0.12%   |
+| HP Stream Notebook PC 13              | 4         | 0.12%   |
+| HP ProBook 4540s                      | 4         | 0.12%   |
+| HP Laptop 15s-fq1xxx                  | 4         | 0.12%   |
+| HP Laptop 15-da0xxx                   | 4         | 0.12%   |
+| HP Laptop 15-bs0xx                    | 4         | 0.12%   |
 
 Model Family
 ------------
@@ -3792,66 +3790,66 @@ Motherboard model prefix
 
 | Name                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Lenovo ThinkPad       | 451       | 14.46%  |
-| Apple MacBook5        | 305       | 9.78%   |
-| Dell Inspiron         | 153       | 4.91%   |
-| Dell Latitude         | 145       | 4.65%   |
-| Apple MacBookAir7     | 145       | 4.65%   |
-| Acer Aspire           | 128       | 4.11%   |
-| Lenovo IdeaPad        | 127       | 4.07%   |
-| HP EliteBook          | 84        | 2.69%   |
-| HP Pavilion           | 75        | 2.41%   |
-| Google Enguarde       | 73        | 2.34%   |
-| HP Laptop             | 67        | 2.15%   |
-| HP ProBook            | 62        | 1.99%   |
-| Apple MacBook2        | 56        | 1.8%    |
-| Dell XPS              | 52        | 1.67%   |
-| Toshiba Satellite     | 37        | 1.19%   |
-| Dell Vostro           | 36        | 1.15%   |
-| Unknown               | 31        | 0.99%   |
-| Dell Precision        | 28        | 0.9%    |
-| HP Compaq             | 24        | 0.77%   |
-| ASUS VivoBook         | 24        | 0.77%   |
-| Apple MacBook4        | 23        | 0.74%   |
-| HP 250                | 20        | 0.64%   |
-| Aquarius NS585        | 20        | 0.64%   |
-| HP ZBook              | 16        | 0.51%   |
-| ASUS ZenBook          | 16        | 0.51%   |
-| Acer Swift            | 16        | 0.51%   |
-| Acer TravelMate       | 14        | 0.45%   |
-| HP Notebook           | 13        | 0.42%   |
-| ASUS 1005HA           | 13        | 0.42%   |
-| Lenovo ThinkBook      | 12        | 0.38%   |
-| Lenovo Legion         | 12        | 0.38%   |
-| HP ENVY               | 11        | 0.35%   |
-| ASUS ROG              | 11        | 0.35%   |
-| Acer Nitro            | 11        | 0.35%   |
-| HP Presario           | 10        | 0.32%   |
-| HP OMEN               | 10        | 0.32%   |
-| ASUS ASUS             | 10        | 0.32%   |
-| Fujitsu LIFEBOOK      | 9         | 0.29%   |
-| ASUS TUF              | 9         | 0.29%   |
+| Lenovo ThinkPad       | 470       | 14.56%  |
+| Apple MacBook5        | 305       | 9.45%   |
+| Dell Inspiron         | 156       | 4.83%   |
+| Dell Latitude         | 151       | 4.68%   |
+| Apple MacBookAir7     | 145       | 4.49%   |
+| Acer Aspire           | 133       | 4.12%   |
+| Lenovo IdeaPad        | 128       | 3.97%   |
+| HP EliteBook          | 87        | 2.7%    |
+| HP Pavilion           | 76        | 2.36%   |
+| Google Enguarde       | 73        | 2.26%   |
+| HP Laptop             | 68        | 2.11%   |
+| HP ProBook            | 65        | 2.01%   |
+| Apple MacBook2        | 56        | 1.74%   |
+| Dell XPS              | 49        | 1.52%   |
+| Toshiba Satellite     | 38        | 1.18%   |
+| Dell Vostro           | 38        | 1.18%   |
+| Aquarius NS585        | 33        | 1.02%   |
+| Dell Precision        | 30        | 0.93%   |
+| ASUS VivoBook         | 27        | 0.84%   |
+| Unknown               | 27        | 0.84%   |
+| HP Compaq             | 25        | 0.77%   |
+| Apple MacBook4        | 23        | 0.71%   |
+| HP 250                | 22        | 0.68%   |
+| Acer Swift            | 17        | 0.53%   |
+| ASUS ZenBook          | 16        | 0.5%    |
+| Lenovo Legion         | 15        | 0.46%   |
+| HP ZBook              | 15        | 0.46%   |
+| HP Notebook           | 15        | 0.46%   |
+| Acer TravelMate       | 14        | 0.43%   |
+| ASUS ASUS             | 13        | 0.4%    |
+| ASUS 1005HA           | 13        | 0.4%    |
+| Lenovo ThinkBook      | 12        | 0.37%   |
+| ASUS ROG              | 12        | 0.37%   |
+| Acer Nitro            | 12        | 0.37%   |
+| HP OMEN               | 11        | 0.34%   |
+| HP ENVY               | 11        | 0.34%   |
+| HP Presario           | 10        | 0.31%   |
+| Fujitsu LIFEBOOK      | 10        | 0.31%   |
+| Dell System           | 9         | 0.28%   |
+| ASUS TUF              | 9         | 0.28%   |
 | Lenovo G580           | 7         | 0.22%   |
 | HP Stream             | 7         | 0.22%   |
+| HP 255                | 7         | 0.22%   |
 | Apple MacBookPro11    | 7         | 0.22%   |
 | Apple MacBook7        | 7         | 0.22%   |
 | Toshiba TECRA         | 6         | 0.19%   |
 | IBM ThinkPad          | 6         | 0.19%   |
-| HP 255                | 6         | 0.19%   |
 | HP 15                 | 6         | 0.19%   |
-| Toshiba PORTEGE       | 5         | 0.16%   |
-| Packard Bell EasyNote | 5         | 0.16%   |
-| Acer Extensa          | 5         | 0.16%   |
-| Lenovo G50-80         | 4         | 0.13%   |
-| Lenovo B50-30         | 4         | 0.13%   |
-| HP Mini               | 4         | 0.13%   |
-| Dell G3               | 4         | 0.13%   |
-| ASUS X555LD           | 4         | 0.13%   |
-| ASUS K52F             | 4         | 0.13%   |
-| Alienware 17          | 4         | 0.13%   |
-| Samsung N150P         | 3         | 0.1%    |
-| Samsung 305E4A        | 3         | 0.1%    |
-| Samsung 300E4C        | 3         | 0.1%    |
+| Toshiba PORTEGE       | 5         | 0.15%   |
+| Packard Bell EasyNote | 5         | 0.15%   |
+| ASUS K52F             | 5         | 0.15%   |
+| Acer Extensa          | 5         | 0.15%   |
+| Samsung 300E4C        | 4         | 0.12%   |
+| Lenovo G50-80         | 4         | 0.12%   |
+| Lenovo B50-30         | 4         | 0.12%   |
+| Intel powered         | 4         | 0.12%   |
+| HP Mini               | 4         | 0.12%   |
+| Dell G3               | 4         | 0.12%   |
+| ASUS X555LD           | 4         | 0.12%   |
+| Alienware 17          | 4         | 0.12%   |
 
 MFG Year
 --------
@@ -3863,27 +3861,27 @@ Motherboard manufacture year
 
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
-| 2009    | 401       | 12.86%  |
-| 2019    | 294       | 9.43%   |
-| 2016    | 286       | 9.17%   |
-| 2020    | 266       | 8.53%   |
-| 2011    | 214       | 6.86%   |
-| 2018    | 210       | 6.74%   |
-| 2017    | 209       | 6.7%    |
-| 2012    | 199       | 6.38%   |
-| 2021    | 184       | 5.9%    |
-| 2014    | 148       | 4.75%   |
-| 2015    | 142       | 4.55%   |
-| 2013    | 131       | 4.2%    |
-| 2010    | 128       | 4.11%   |
-| 2008    | 113       | 3.62%   |
-| 2007    | 103       | 3.3%    |
-| 2022    | 28        | 0.9%    |
-| 2005    | 18        | 0.58%   |
-| 2006    | 13        | 0.42%   |
-| Unknown | 12        | 0.38%   |
-| 2003    | 10        | 0.32%   |
-| 2004    | 7         | 0.22%   |
+| 2009    | 405       | 12.55%  |
+| 2019    | 299       | 9.27%   |
+| 2020    | 293       | 9.08%   |
+| 2016    | 293       | 9.08%   |
+| 2011    | 221       | 6.85%   |
+| 2018    | 219       | 6.79%   |
+| 2017    | 214       | 6.63%   |
+| 2012    | 202       | 6.26%   |
+| 2021    | 196       | 6.07%   |
+| 2014    | 153       | 4.74%   |
+| 2015    | 147       | 4.56%   |
+| 2013    | 137       | 4.25%   |
+| 2010    | 130       | 4.03%   |
+| 2008    | 116       | 3.59%   |
+| 2007    | 106       | 3.28%   |
+| 2022    | 31        | 0.96%   |
+| 2005    | 18        | 0.56%   |
+| 2006    | 15        | 0.46%   |
+| Unknown | 12        | 0.37%   |
+| 2003    | 10        | 0.31%   |
+| 2004    | 8         | 0.25%   |
 | 2002    | 2         | 0.06%   |
 
 Form Factor
@@ -3896,7 +3894,7 @@ Physical design of the computer
 
 | Name     | Notebooks | Percent |
 |----------|-----------|---------|
-| Notebook | 3118      | 100%    |
+| Notebook | 3227      | 100%    |
 
 Secure Boot
 -----------
@@ -3908,8 +3906,8 @@ Enabled or disabled
 
 | State    | Notebooks | Percent |
 |----------|-----------|---------|
-| Disabled | 2919      | 93.26%  |
-| Enabled  | 211       | 6.74%   |
+| Disabled | 3023      | 93.3%   |
+| Enabled  | 217       | 6.7%    |
 
 Coreboot
 --------
@@ -3921,8 +3919,8 @@ Have coreboot on board
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 3023      | 96.95%  |
-| Yes  | 95        | 3.05%   |
+| No   | 3131      | 97.03%  |
+| Yes  | 96        | 2.97%   |
 
 RAM Size
 --------
@@ -3934,17 +3932,17 @@ Total RAM memory
 
 | Size in GB  | Notebooks | Percent |
 |-------------|-----------|---------|
-| 4.01-8.0    | 784       | 24.94%  |
-| 3.01-4.0    | 608       | 19.34%  |
-| 1.01-2.0    | 480       | 15.27%  |
-| 16.01-24.0  | 475       | 15.11%  |
-| 8.01-16.0   | 465       | 14.79%  |
-| 32.01-64.0  | 139       | 4.42%   |
-| 2.01-3.0    | 63        | 2%      |
-| 0.51-1.0    | 62        | 1.97%   |
-| 24.01-32.0  | 26        | 0.83%   |
-| 64.01-256.0 | 21        | 0.67%   |
-| 0.01-0.5    | 20        | 0.64%   |
+| 4.01-8.0    | 824       | 25.31%  |
+| 3.01-4.0    | 624       | 19.17%  |
+| 16.01-24.0  | 495       | 15.21%  |
+| 8.01-16.0   | 483       | 14.84%  |
+| 1.01-2.0    | 482       | 14.81%  |
+| 32.01-64.0  | 146       | 4.49%   |
+| 2.01-3.0    | 68        | 2.09%   |
+| 0.51-1.0    | 63        | 1.94%   |
+| 24.01-32.0  | 26        | 0.8%    |
+| 64.01-256.0 | 23        | 0.71%   |
+| 0.01-0.5    | 20        | 0.61%   |
 | Unknown     | 1         | 0.03%   |
 
 RAM Used
@@ -3957,15 +3955,15 @@ Used RAM memory
 
 | Used GB    | Notebooks | Percent |
 |------------|-----------|---------|
-| 1.01-2.0   | 1434      | 43.17%  |
-| 2.01-3.0   | 615       | 18.51%  |
-| 4.01-8.0   | 419       | 12.61%  |
-| 0.51-1.0   | 341       | 10.26%  |
-| 3.01-4.0   | 306       | 9.21%   |
-| 8.01-16.0  | 98        | 2.95%   |
-| 0.01-0.5   | 87        | 2.62%   |
-| 16.01-24.0 | 10        | 0.3%    |
-| Unknown    | 6         | 0.18%   |
+| 1.01-2.0   | 1461      | 42.56%  |
+| 2.01-3.0   | 634       | 18.47%  |
+| 4.01-8.0   | 440       | 12.82%  |
+| 0.51-1.0   | 370       | 10.78%  |
+| 3.01-4.0   | 317       | 9.23%   |
+| 8.01-16.0  | 100       | 2.91%   |
+| 0.01-0.5   | 88        | 2.56%   |
+| 16.01-24.0 | 11        | 0.32%   |
+| Unknown    | 6         | 0.17%   |
 | 32.01-64.0 | 3         | 0.09%   |
 | 24.01-32.0 | 2         | 0.06%   |
 | 0          | 1         | 0.03%   |
@@ -3980,11 +3978,11 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 2487      | 78.7%   |
-| 2      | 581       | 18.39%  |
-| 3      | 61        | 1.93%   |
-| 0      | 15        | 0.47%   |
-| 4      | 12        | 0.38%   |
+| 1      | 2577      | 78.76%  |
+| 2      | 598       | 18.28%  |
+| 3      | 63        | 1.93%   |
+| 0      | 18        | 0.55%   |
+| 4      | 12        | 0.37%   |
 | 5      | 3         | 0.09%   |
 | 7      | 1         | 0.03%   |
 
@@ -3998,8 +3996,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 1897      | 60.7%   |
-| Yes       | 1228      | 39.3%   |
+| No        | 1979      | 61.14%  |
+| Yes       | 1258      | 38.86%  |
 
 Has Ethernet
 ------------
@@ -4011,8 +4009,8 @@ Has Ethernet on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 2547      | 81.58%  |
-| No        | 575       | 18.42%  |
+| Yes       | 2647      | 81.9%   |
+| No        | 585       | 18.1%   |
 
 Has WiFi
 --------
@@ -4024,8 +4022,8 @@ Has WiFi module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 3056      | 97.95%  |
-| No        | 64        | 2.05%   |
+| Yes       | 3165      | 98.02%  |
+| No        | 64        | 1.98%   |
 
 Has Bluetooth
 -------------
@@ -4037,8 +4035,8 @@ Has Bluetooth module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 2506      | 79.94%  |
-| No        | 629       | 20.06%  |
+| Yes       | 2597      | 80.01%  |
+| No        | 649       | 19.99%  |
 
 Location
 --------
@@ -4053,66 +4051,66 @@ Geographic location (country)
 
 | Country      | Notebooks | Percent |
 |--------------|-----------|---------|
-| USA          | 962       | 30.71%  |
-| Germany      | 255       | 8.14%   |
-| Russia       | 245       | 7.82%   |
-| France       | 194       | 6.19%   |
-| Brazil       | 169       | 5.39%   |
-| Spain        | 112       | 3.57%   |
-| Italy        | 93        | 2.97%   |
-| Poland       | 82        | 2.62%   |
-| UK           | 70        | 2.23%   |
-| Netherlands  | 49        | 1.56%   |
-| Ukraine      | 48        | 1.53%   |
-| Switzerland  | 48        | 1.53%   |
-| Mexico       | 43        | 1.37%   |
-| Canada       | 43        | 1.37%   |
-| India        | 41        | 1.31%   |
-| China        | 32        | 1.02%   |
-| Portugal     | 30        | 0.96%   |
-| Turkey       | 29        | 0.93%   |
-| Sweden       | 27        | 0.86%   |
-| Chile        | 27        | 0.86%   |
-| Argentina    | 27        | 0.86%   |
-| Czechia      | 26        | 0.83%   |
-| Belgium      | 25        | 0.8%    |
-| Australia    | 25        | 0.8%    |
-| Hungary      | 24        | 0.77%   |
-| Greece       | 22        | 0.7%    |
-| Austria      | 20        | 0.64%   |
-| Norway       | 18        | 0.57%   |
-| Romania      | 17        | 0.54%   |
-| Finland      | 16        | 0.51%   |
-| Ireland      | 15        | 0.48%   |
-| Indonesia    | 15        | 0.48%   |
-| Japan        | 14        | 0.45%   |
-| Colombia     | 14        | 0.45%   |
-| Denmark      | 13        | 0.41%   |
-| Thailand     | 12        | 0.38%   |
-| Venezuela    | 11        | 0.35%   |
-| Belarus      | 11        | 0.35%   |
-| South Africa | 10        | 0.32%   |
-| New Zealand  | 10        | 0.32%   |
-| Slovenia     | 9         | 0.29%   |
-| Latvia       | 9         | 0.29%   |
-| Croatia      | 9         | 0.29%   |
-| Bulgaria     | 9         | 0.29%   |
-| Slovakia     | 8         | 0.26%   |
+| USA          | 983       | 30.31%  |
+| Russia       | 262       | 8.08%   |
+| Germany      | 262       | 8.08%   |
+| France       | 200       | 6.17%   |
+| Brazil       | 174       | 5.37%   |
+| Spain        | 120       | 3.7%    |
+| Italy        | 100       | 3.08%   |
+| Poland       | 87        | 2.68%   |
+| UK           | 71        | 2.19%   |
+| Netherlands  | 52        | 1.6%    |
+| Ukraine      | 49        | 1.51%   |
+| Switzerland  | 48        | 1.48%   |
+| Canada       | 45        | 1.39%   |
+| Mexico       | 44        | 1.36%   |
+| India        | 42        | 1.3%    |
+| China        | 35        | 1.08%   |
+| Portugal     | 31        | 0.96%   |
+| Turkey       | 29        | 0.89%   |
+| Sweden       | 28        | 0.86%   |
+| Chile        | 27        | 0.83%   |
+| Australia    | 27        | 0.83%   |
+| Argentina    | 27        | 0.83%   |
+| Czechia      | 26        | 0.8%    |
+| Belgium      | 26        | 0.8%    |
+| Hungary      | 24        | 0.74%   |
+| Greece       | 22        | 0.68%   |
+| Austria      | 22        | 0.68%   |
+| Norway       | 19        | 0.59%   |
+| Finland      | 19        | 0.59%   |
+| Romania      | 17        | 0.52%   |
+| Ireland      | 17        | 0.52%   |
+| Japan        | 15        | 0.46%   |
+| Indonesia    | 15        | 0.46%   |
+| Denmark      | 14        | 0.43%   |
+| Colombia     | 14        | 0.43%   |
+| Venezuela    | 12        | 0.37%   |
+| Thailand     | 12        | 0.37%   |
+| New Zealand  | 10        | 0.31%   |
+| Belarus      | 10        | 0.31%   |
+| South Africa | 9         | 0.28%   |
+| Slovenia     | 9         | 0.28%   |
+| Latvia       | 9         | 0.28%   |
+| Croatia      | 9         | 0.28%   |
+| Bulgaria     | 9         | 0.28%   |
+| Slovakia     | 8         | 0.25%   |
 | Peru         | 7         | 0.22%   |
+| Kazakhstan   | 7         | 0.22%   |
 | Vietnam      | 6         | 0.19%   |
 | Taiwan       | 6         | 0.19%   |
 | Philippines  | 6         | 0.19%   |
-| Kazakhstan   | 6         | 0.19%   |
 | Ecuador      | 6         | 0.19%   |
-| South Korea  | 5         | 0.16%   |
-| Singapore    | 5         | 0.16%   |
-| Morocco      | 5         | 0.16%   |
-| Iran         | 5         | 0.16%   |
-| Guatemala    | 5         | 0.16%   |
-| Costa Rica   | 5         | 0.16%   |
-| Tunisia      | 4         | 0.13%   |
-| Saudi Arabia | 4         | 0.13%   |
-| Paraguay     | 3         | 0.1%    |
+| South Korea  | 5         | 0.15%   |
+| Singapore    | 5         | 0.15%   |
+| Morocco      | 5         | 0.15%   |
+| Iran         | 5         | 0.15%   |
+| Guatemala    | 5         | 0.15%   |
+| Costa Rica   | 5         | 0.15%   |
+| Tunisia      | 4         | 0.12%   |
+| Saudi Arabia | 4         | 0.12%   |
+| Lithuania    | 4         | 0.12%   |
 
 City
 ----
@@ -4124,66 +4122,66 @@ Geographic location (city)
 
 | City              | Notebooks | Percent |
 |-------------------|-----------|---------|
-| Bangor            | 470       | 14.17%  |
-| Portland          | 180       | 5.43%   |
-| Voronezh          | 97        | 2.93%   |
-| Dover-Foxcroft    | 49        | 1.48%   |
-| Paris             | 42        | 1.27%   |
-| St Petersburg     | 40        | 1.21%   |
-| Moscow            | 33        | 1%      |
-| Warsaw            | 29        | 0.87%   |
-| Berlin            | 28        | 0.84%   |
-| Sao Paulo         | 22        | 0.66%   |
-| Madrid            | 21        | 0.63%   |
-| Eliot             | 19        | 0.57%   |
-| Munich            | 16        | 0.48%   |
-| London            | 16        | 0.48%   |
-| MÃ¡laga         | 15        | 0.45%   |
-| Prague            | 14        | 0.42%   |
-| Hamburg           | 14        | 0.42%   |
-| Vienna            | 13        | 0.39%   |
-| Santiago          | 13        | 0.39%   |
-| Athens            | 13        | 0.39%   |
-| Amsterdam         | 13        | 0.39%   |
-| Zurich            | 12        | 0.36%   |
-| Milan             | 12        | 0.36%   |
-| Helsinki          | 11        | 0.33%   |
+| Bangor            | 477       | 14.11%  |
+| Dover-Foxcroft    | 229       | 6.77%   |
+| Voronezh          | 111       | 3.28%   |
+| Moscow            | 39        | 1.15%   |
+| St Petersburg     | 37        | 1.09%   |
+| Paris             | 35        | 1.04%   |
+| Sao Paulo         | 29        | 0.86%   |
+| Berlin            | 29        | 0.86%   |
+| Warsaw            | 23        | 0.68%   |
+| Madrid            | 22        | 0.65%   |
+| Munich            | 19        | 0.56%   |
+| Seville           | 17        | 0.5%    |
+| Zurich            | 16        | 0.47%   |
+| Vienna            | 16        | 0.47%   |
+| Amsterdam         | 16        | 0.47%   |
+| Prague            | 15        | 0.44%   |
+| Hamburg           | 14        | 0.41%   |
+| Athens            | 13        | 0.38%   |
+| Milan             | 11        | 0.33%   |
 | Budapest          | 11        | 0.33%   |
+| Blizniew          | 11        | 0.33%   |
+| Mexico City       | 10        | 0.3%    |
+| London            | 10        | 0.3%    |
 | Lisbon            | 10        | 0.3%    |
-| Curitiba          | 10        | 0.3%    |
-| Belo Horizonte    | 10        | 0.3%    |
+| Kyiv              | 10        | 0.3%    |
+| Istanbul          | 10        | 0.3%    |
+| Dublin            | 10        | 0.3%    |
 | Zagreb            | 9         | 0.27%   |
-| Turin             | 9         | 0.27%   |
-| Rome              | 9         | 0.27%   |
-| Rio de Janeiro    | 9         | 0.27%   |
 | Lyon              | 9         | 0.27%   |
-| Kyiv              | 9         | 0.27%   |
-| Istanbul          | 9         | 0.27%   |
-| Dublin            | 9         | 0.27%   |
-| Bengaluru         | 9         | 0.27%   |
+| Helsinki          | 9         | 0.27%   |
+| Curitiba          | 9         | 0.27%   |
+| Brasília         | 9         | 0.27%   |
+| Barcelona         | 9         | 0.27%   |
 | Bangkok           | 9         | 0.27%   |
+| Turin             | 8         | 0.24%   |
 | Sydney            | 8         | 0.24%   |
-| Riga              | 8         | 0.24%   |
+| San Jose          | 8         | 0.24%   |
 | Perm              | 8         | 0.24%   |
-| Mesa              | 7         | 0.21%   |
-| Lima              | 7         | 0.21%   |
-| Hampden           | 7         | 0.21%   |
-| Frankfurt am Main | 7         | 0.21%   |
-| Brussels          | 7         | 0.21%   |
-| Yekaterinburg     | 6         | 0.18%   |
+| Frankfurt am Main | 8         | 0.24%   |
+| Belo Horizonte    | 8         | 0.24%   |
+| Yekaterinburg     | 7         | 0.21%   |
+| Rio de Janeiro    | 7         | 0.21%   |
+| Riga              | 7         | 0.21%   |
+| New York          | 7         | 0.21%   |
+| Melbourne         | 7         | 0.21%   |
+| Manchester        | 7         | 0.21%   |
+| Brisbane          | 7         | 0.21%   |
+| Bengaluru         | 7         | 0.21%   |
 | Wooster           | 6         | 0.18%   |
 | Sofia             | 6         | 0.18%   |
 | Poznan            | 6         | 0.18%   |
 | Oslo              | 6         | 0.18%   |
-| Mexico City       | 6         | 0.18%   |
+| Lima              | 6         | 0.18%   |
+| Leipzig           | 6         | 0.18%   |
 | Leimen            | 6         | 0.18%   |
+| Jakarta           | 6         | 0.18%   |
 | Grenoble          | 6         | 0.18%   |
-| Barcelona         | 6         | 0.18%   |
-| Ankara            | 6         | 0.18%   |
-| Valencia          | 5         | 0.15%   |
-| Stuttgart         | 5         | 0.15%   |
-| Singapore         | 5         | 0.15%   |
-| Nuremberg         | 5         | 0.15%   |
+| Cologne           | 6         | 0.18%   |
+| Buenos Aires      | 6         | 0.18%   |
+| Brussels          | 6         | 0.18%   |
 
 Drives
 ------
@@ -4198,64 +4196,64 @@ Hard drive vendors
 
 | Vendor                    | Notebooks | Drives | Percent |
 |---------------------------|-----------|--------|---------|
-| Samsung Electronics       | 498       | 641    | 13.35%  |
-| WDC                       | 429       | 529    | 11.5%   |
-| Seagate                   | 386       | 464    | 10.35%  |
-| Toshiba                   | 332       | 372    | 8.9%    |
-| Fujitsu                   | 245       | 250    | 6.57%   |
-| Unknown                   | 229       | 296    | 6.14%   |
-| Kingston                  | 200       | 226    | 5.36%   |
-| SanDisk                   | 169       | 199    | 4.53%   |
-| Apple                     | 161       | 187    | 4.32%   |
-| Crucial                   | 139       | 168    | 3.73%   |
-| SK Hynix                  | 130       | 158    | 3.48%   |
-| Hitachi                   | 119       | 131    | 3.19%   |
-| HGST                      | 80        | 86     | 2.14%   |
-| Intel                     | 76        | 90     | 2.04%   |
-| A-DATA Technology         | 69        | 87     | 1.85%   |
-| Micron Technology         | 66        | 69     | 1.77%   |
-| KIOXIA                    | 27        | 33     | 0.72%   |
-| Transcend                 | 20        | 24     | 0.54%   |
-| LITEON                    | 19        | 22     | 0.51%   |
-| China                     | 19        | 21     | 0.51%   |
-| SABRENT                   | 16        | 17     | 0.43%   |
-| PNY                       | 16        | 18     | 0.43%   |
-| Silicon Motion            | 14        | 15     | 0.38%   |
-| Patriot                   | 12        | 14     | 0.32%   |
-| Intenso                   | 12        | 17     | 0.32%   |
-| OCZ                       | 9         | 11     | 0.24%   |
-| Micron/Crucial Technology | 9         | 9      | 0.24%   |
+| Samsung Electronics       | 519       | 653    | 13.47%  |
+| WDC                       | 439       | 524    | 11.39%  |
+| Seagate                   | 399       | 472    | 10.36%  |
+| Toshiba                   | 336       | 375    | 8.72%   |
+| Fujitsu                   | 247       | 252    | 6.41%   |
+| Unknown                   | 234       | 295    | 6.07%   |
+| Kingston                  | 207       | 233    | 5.37%   |
+| SanDisk                   | 180       | 210    | 4.67%   |
+| Apple                     | 162       | 187    | 4.2%    |
+| Crucial                   | 140       | 168    | 3.63%   |
+| SK Hynix                  | 139       | 164    | 3.61%   |
+| Hitachi                   | 120       | 132    | 3.11%   |
+| A-DATA Technology         | 85        | 108    | 2.21%   |
+| HGST                      | 83        | 89     | 2.15%   |
+| Intel                     | 79        | 95     | 2.05%   |
+| Micron Technology         | 68        | 71     | 1.76%   |
+| KIOXIA                    | 28        | 35     | 0.73%   |
+| Transcend                 | 21        | 25     | 0.55%   |
+| China                     | 21        | 23     | 0.55%   |
+| LITEON                    | 20        | 23     | 0.52%   |
+| SABRENT                   | 16        | 17     | 0.42%   |
+| PNY                       | 16        | 18     | 0.42%   |
+| Silicon Motion            | 15        | 16     | 0.39%   |
+| Patriot                   | 13        | 15     | 0.34%   |
+| Intenso                   | 13        | 18     | 0.34%   |
+| OCZ                       | 9         | 11     | 0.23%   |
+| Micron/Crucial Technology | 9         | 9      | 0.23%   |
 | Team                      | 8         | 10     | 0.21%   |
 | LITEONIT                  | 8         | 8      | 0.21%   |
 | LDLC                      | 8         | 8      | 0.21%   |
 | GOODRAM                   | 8         | 10     | 0.21%   |
-| Union Memory              | 7         | 8      | 0.19%   |
-| SPCC                      | 7         | 10     | 0.19%   |
-| Phison                    | 7         | 15     | 0.19%   |
-| Lenovo                    | 7         | 11     | 0.19%   |
-| KingSpec                  | 7         | 7      | 0.19%   |
-| Unknown                   | 7         | 7      | 0.19%   |
-| XPG                       | 6         | 9      | 0.16%   |
-| JMicron                   | 6         | 6      | 0.16%   |
+| Union Memory              | 7         | 8      | 0.18%   |
+| SPCC                      | 7         | 10     | 0.18%   |
+| Phison                    | 7         | 14     | 0.18%   |
+| Lenovo                    | 7         | 9      | 0.18%   |
+| KingSpec                  | 7         | 7      | 0.18%   |
+| JMicron                   | 7         | 7      | 0.18%   |
+| Unknown                   | 7         | 7      | 0.18%   |
+| XPG                       | 6         | 7      | 0.16%   |
 | Gigabyte Technology       | 6         | 7      | 0.16%   |
 | Corsair                   | 6         | 6      | 0.16%   |
 | PLEXTOR                   | 5         | 5      | 0.13%   |
 | Lexar                     | 5         | 6      | 0.13%   |
 | IBM/Hitachi               | 5         | 6      | 0.13%   |
 | BIWIN                     | 5         | 5      | 0.13%   |
-| ASMT                      | 5         | 13     | 0.13%   |
-| SSSTC                     | 4         | 4      | 0.11%   |
-| Netac                     | 4         | 4      | 0.11%   |
-| KIOXIA-EXCERIA            | 4         | 4      | 0.11%   |
-| Hewlett-Packard           | 4         | 4      | 0.11%   |
-| Apacer                    | 4         | 4      | 0.11%   |
-| UMIS                      | 3         | 3      | 0.08%   |
+| ASMT                      | 5         | 11     | 0.13%   |
+| SSSTC                     | 4         | 4      | 0.1%    |
+| Netac                     | 4         | 4      | 0.1%    |
+| KIOXIA-EXCERIA            | 4         | 5      | 0.1%    |
+| Hewlett-Packard           | 4         | 4      | 0.1%    |
+| ASUS-PHISON               | 4         | 5      | 0.1%    |
+| Apacer                    | 4         | 4      | 0.1%    |
+| UMIS                      | 3         | 4      | 0.08%   |
 | Mass                      | 3         | 3      | 0.08%   |
 | KingFast                  | 3         | 3      | 0.08%   |
 | KingDian                  | 3         | 3      | 0.08%   |
 | FORESEE                   | 3         | 3      | 0.08%   |
-| ASUS-PHISON               | 3         | 4      | 0.08%   |
-| ZTC                       | 2         | 8      | 0.05%   |
+| ZTC                       | 2         | 5      | 0.05%   |
 | Vaseky                    | 2         | 3      | 0.05%   |
 | Super Talent              | 2         | 3      | 0.05%   |
 
@@ -4269,66 +4267,66 @@ Hard drive models
 
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
-| Fujitsu MHZ2160BH FFS G1 160GB       | 200       | 5.25%   |
-| Apple SSD AP0128H 121GB              | 75        | 1.97%   |
-| Apple SSD SM0128G 121GB              | 69        | 1.81%   |
-| Seagate ST1000LM035-1RK172 1TB       | 56        | 1.47%   |
-| Toshiba MK1655GSXF 160GB             | 46        | 1.21%   |
-| Kingston SA400S37120G 120GB SSD      | 43        | 1.13%   |
-| Toshiba MK1653GSX 160GB              | 42        | 1.1%    |
-| Seagate ST1000LM024 HN-M101MBB 1TB   | 42        | 1.1%    |
-| Unknown AGND3R  16GB                 | 38        | 1%      |
-| Kingston SA400S37240G 240GB SSD      | 36        | 0.95%   |
-| Unknown HAG2e  16GB                  | 31        | 0.81%   |
-| Toshiba MQ01ABD100 1TB               | 31        | 0.81%   |
-| HGST HTS721010A9E630 1TB             | 31        | 0.81%   |
-| Toshiba MQ01ABF050 500GB             | 24        | 0.63%   |
-| Toshiba MQ04ABF100 1TB               | 23        | 0.6%    |
-| Crucial CT500MX500SSD1 500GB         | 23        | 0.6%    |
-| Samsung SSD 850 EVO 250GB            | 22        | 0.58%   |
-| A-DATA SU800 512GB SSD               | 21        | 0.55%   |
-| Unknown MMC Card  32GB               | 20        | 0.53%   |
-| Seagate ST1000LM048-2E7172 1TB       | 18        | 0.47%   |
-| Samsung SSD 860 EVO 500GB            | 17        | 0.45%   |
-| Samsung SSD 860 EVO 1TB              | 17        | 0.45%   |
-| Kingston SA400S37480G 480GB SSD      | 17        | 0.45%   |
-| WDC WD1600BUDT-63DPZY0 160GB         | 16        | 0.42%   |
-| WDC WD10SPZX-24Z10 1TB               | 16        | 0.42%   |
-| Seagate ST500LT012-1DG142 500GB      | 16        | 0.42%   |
-| SABRENT Disk 1TB                     | 16        | 0.42%   |
-| Unknown MMC Card  64GB               | 15        | 0.39%   |
-| Seagate ST9500325AS 500GB            | 15        | 0.39%   |
-| Kingston SV300S37A120G 120GB SSD     | 15        | 0.39%   |
-| Crucial CT240BX500SSD1 240GB         | 15        | 0.39%   |
-| WDC WD10SPZX-21Z10T0 1TB             | 14        | 0.37%   |
-| WDC PC SN730 SDBQNTY-512G-1001 512GB | 14        | 0.37%   |
-| Seagate ST500LM012 HN-M500MBB 500GB  | 14        | 0.37%   |
-| Samsung SSD 970 EVO Plus 1TB         | 14        | 0.37%   |
-| Samsung SSD 860 EVO 250GB            | 14        | 0.37%   |
-| Crucial CT1000MX500SSD1 1TB          | 14        | 0.37%   |
-| Seagate ST1000LM049-2GH172 1TB       | 13        | 0.34%   |
-| SanDisk SSD PLUS 240GB               | 13        | 0.34%   |
-| SanDisk SD8SBAT128G1122 128GB SSD    | 13        | 0.34%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD     | 12        | 0.32%   |
-| HGST HTS725050A7E630 500GB           | 12        | 0.32%   |
-| WDC WD10JPVX-22JC3T0 1TB             | 11        | 0.29%   |
-| Seagate ST2000LM015-2E8174 2TB       | 11        | 0.29%   |
-| Fujitsu MHY2120BH 120GB              | 11        | 0.29%   |
-| Toshiba MK5065GSXF 500GB             | 10        | 0.26%   |
-| Seagate ST980811AS 80GB              | 10        | 0.26%   |
-| Seagate ST9500420AS 500GB            | 10        | 0.26%   |
-| Samsung SSD 850 EVO 500GB            | 10        | 0.26%   |
-| Samsung MZVLB512HBJQ-000L7 512GB     | 10        | 0.26%   |
-| Kingston SUV400S37240G 240GB SSD     | 10        | 0.26%   |
-| Intel SSDPEKNW512G8H 512GB           | 10        | 0.26%   |
-| SanDisk SD8SN8U128G1001 128GB SSD    | 9         | 0.24%   |
-| Samsung MZVLQ512HALU-000H1 512GB     | 9         | 0.24%   |
-| Samsung MZVLB1T0HBLR-000L7 1TB       | 9         | 0.24%   |
-| Samsung MZNTY128HDHP-000L1 128GB SSD | 9         | 0.24%   |
-| Intel SSDPEKNW512G8 512GB            | 9         | 0.24%   |
-| Fujitsu MHY2080BH 80GB               | 9         | 0.24%   |
-| Crucial CT120BX500SSD1 120GB         | 9         | 0.24%   |
-| WDC PC SN530 SDBPNPZ-512G-1006 512GB | 8         | 0.21%   |
+| Fujitsu MHZ2160BH FFS G1 160GB       | 200       | 5.08%   |
+| Apple SSD AP0128H 121GB              | 75        | 1.91%   |
+| Apple SSD SM0128G 121GB              | 69        | 1.75%   |
+| Seagate ST1000LM035-1RK172 1TB       | 56        | 1.42%   |
+| Toshiba MK1655GSXF 160GB             | 46        | 1.17%   |
+| Kingston SA400S37120G 120GB SSD      | 45        | 1.14%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB   | 43        | 1.09%   |
+| Toshiba MK1653GSX 160GB              | 42        | 1.07%   |
+| Unknown AGND3R  16GB                 | 38        | 0.97%   |
+| Kingston SA400S37240G 240GB SSD      | 37        | 0.94%   |
+| A-DATA SU800 512GB SSD               | 34        | 0.86%   |
+| Toshiba MQ01ABD100 1TB               | 33        | 0.84%   |
+| HGST HTS721010A9E630 1TB             | 33        | 0.84%   |
+| Unknown HAG2e  16GB                  | 31        | 0.79%   |
+| Toshiba MQ01ABF050 500GB             | 26        | 0.66%   |
+| Toshiba MQ04ABF100 1TB               | 23        | 0.58%   |
+| Crucial CT500MX500SSD1 500GB         | 23        | 0.58%   |
+| Samsung SSD 850 EVO 250GB            | 22        | 0.56%   |
+| Unknown MMC Card  32GB               | 21        | 0.53%   |
+| Seagate ST1000LM048-2E7172 1TB       | 19        | 0.48%   |
+| Samsung SSD 860 EVO 500GB            | 18        | 0.46%   |
+| Samsung SSD 860 EVO 1TB              | 18        | 0.46%   |
+| Kingston SA400S37480G 480GB SSD      | 18        | 0.46%   |
+| WDC WD1600BUDT-63DPZY0 160GB         | 16        | 0.41%   |
+| WDC WD10SPZX-24Z10 1TB               | 16        | 0.41%   |
+| Seagate ST9500325AS 500GB            | 16        | 0.41%   |
+| Seagate ST500LT012-1DG142 500GB      | 16        | 0.41%   |
+| SABRENT Disk 240GB                   | 16        | 0.41%   |
+| Kingston SV300S37A120G 120GB SSD     | 16        | 0.41%   |
+| WDC PC SN730 SDBQNTY-512G-1001 512GB | 15        | 0.38%   |
+| Unknown MMC Card  64GB               | 15        | 0.38%   |
+| Samsung SSD 970 EVO Plus 1TB         | 15        | 0.38%   |
+| Crucial CT240BX500SSD1 240GB         | 15        | 0.38%   |
+| WDC WD10SPZX-21Z10T0 1TB             | 14        | 0.36%   |
+| Seagate ST500LM012 HN-M500MBB 500GB  | 14        | 0.36%   |
+| Seagate ST1000LM049-2GH172 1TB       | 14        | 0.36%   |
+| Samsung SSD 860 EVO 250GB            | 14        | 0.36%   |
+| Crucial CT1000MX500SSD1 1TB          | 14        | 0.36%   |
+| SanDisk SSD PLUS 240GB               | 13        | 0.33%   |
+| SanDisk SD8SBAT128G1122 128GB SSD    | 13        | 0.33%   |
+| HGST HTS725050A7E630 500GB           | 13        | 0.33%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD     | 12        | 0.3%    |
+| WDC WD10JPVX-22JC3T0 1TB             | 11        | 0.28%   |
+| Seagate ST2000LM015-2E8174 2TB       | 11        | 0.28%   |
+| Samsung MZVLB512HBJQ-000L7 512GB     | 11        | 0.28%   |
+| Fujitsu MHY2120BH 120GB              | 11        | 0.28%   |
+| Toshiba MK5065GSXF 500GB             | 10        | 0.25%   |
+| Seagate ST980811AS 80GB              | 10        | 0.25%   |
+| Seagate ST9500420AS 500GB            | 10        | 0.25%   |
+| Samsung SSD 850 EVO 500GB            | 10        | 0.25%   |
+| Kingston SUV400S37240G 240GB SSD     | 10        | 0.25%   |
+| Intel SSDPEKNW512G8H 512GB           | 10        | 0.25%   |
+| SanDisk SD8SN8U128G1001 128GB SSD    | 9         | 0.23%   |
+| Samsung NVMe SSD Drive 512GB         | 9         | 0.23%   |
+| Samsung MZVLQ512HALU-000H1 512GB     | 9         | 0.23%   |
+| Samsung MZVLB1T0HBLR-000L7 1TB       | 9         | 0.23%   |
+| Samsung MZNTY128HDHP-000L1 128GB SSD | 9         | 0.23%   |
+| Intel SSDPEKNW512G8 512GB            | 9         | 0.23%   |
+| Fujitsu MHY2080BH 80GB               | 9         | 0.23%   |
+| Crucial CT120BX500SSD1 120GB         | 9         | 0.23%   |
 
 HDD Vendor
 ----------
@@ -4340,18 +4338,18 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 377       | 453    | 26.68%  |
-| WDC                 | 270       | 307    | 19.11%  |
-| Toshiba             | 254       | 276    | 17.98%  |
-| Fujitsu             | 245       | 250    | 17.34%  |
-| Hitachi             | 119       | 131    | 8.42%   |
-| HGST                | 80        | 86     | 5.66%   |
-| Samsung Electronics | 25        | 26     | 1.77%   |
-| SABRENT             | 16        | 17     | 1.13%   |
-| Unknown             | 7         | 9      | 0.5%    |
+| Seagate             | 387       | 458    | 26.88%  |
+| WDC                 | 274       | 307    | 19.03%  |
+| Toshiba             | 258       | 281    | 17.92%  |
+| Fujitsu             | 247       | 252    | 17.15%  |
+| Hitachi             | 120       | 132    | 8.33%   |
+| HGST                | 83        | 89     | 5.76%   |
+| Samsung Electronics | 28        | 29     | 1.94%   |
+| SABRENT             | 16        | 17     | 1.11%   |
+| Unknown             | 7         | 9      | 0.49%   |
 | IBM/Hitachi         | 5         | 6      | 0.35%   |
 | Intenso             | 3         | 4      | 0.21%   |
-| ASMT                | 3         | 10     | 0.21%   |
+| ASMT                | 3         | 8      | 0.21%   |
 | SILICONMOTION       | 2         | 2      | 0.14%   |
 | Unknown (CF)        | 1         | 1      | 0.07%   |
 | QNAP                | 1         | 2      | 0.07%   |
@@ -4371,51 +4369,51 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 261       | 342    | 21.29%  |
-| Kingston            | 163       | 188    | 13.3%   |
-| SanDisk             | 138       | 163    | 11.26%  |
-| Crucial             | 129       | 157    | 10.52%  |
-| Apple               | 81        | 85     | 6.61%   |
-| A-DATA Technology   | 51        | 61     | 4.16%   |
-| WDC                 | 49        | 66     | 4%      |
-| Micron Technology   | 38        | 40     | 3.1%    |
-| SK Hynix            | 32        | 35     | 2.61%   |
-| Intel               | 25        | 28     | 2.04%   |
-| Toshiba             | 21        | 23     | 1.71%   |
-| China               | 19        | 21     | 1.55%   |
-| Transcend           | 18        | 22     | 1.47%   |
-| LITEON              | 15        | 18     | 1.22%   |
-| PNY                 | 13        | 15     | 1.06%   |
-| Patriot             | 11        | 13     | 0.9%    |
-| OCZ                 | 9         | 11     | 0.73%   |
-| Team                | 8         | 10     | 0.65%   |
-| LITEONIT            | 8         | 8      | 0.65%   |
-| Intenso             | 8         | 11     | 0.65%   |
-| GOODRAM             | 8         | 10     | 0.65%   |
-| LDLC                | 7         | 7      | 0.57%   |
-| KingSpec            | 7         | 7      | 0.57%   |
-| SPCC                | 6         | 8      | 0.49%   |
-| Seagate             | 5         | 5      | 0.41%   |
-| PLEXTOR             | 5         | 5      | 0.41%   |
-| Lexar               | 5         | 6      | 0.41%   |
-| Corsair             | 5         | 5      | 0.41%   |
-| Netac               | 4         | 4      | 0.33%   |
-| JMicron             | 4         | 4      | 0.33%   |
-| BIWIN               | 4         | 4      | 0.33%   |
-| KingDian            | 3         | 3      | 0.24%   |
-| Hewlett-Packard     | 3         | 3      | 0.24%   |
-| Gigabyte Technology | 3         | 3      | 0.24%   |
-| ASUS-PHISON         | 3         | 4      | 0.24%   |
-| Apacer              | 3         | 3      | 0.24%   |
-| ZTC                 | 2         | 8      | 0.16%   |
+| Samsung Electronics | 267       | 338    | 20.91%  |
+| Kingston            | 168       | 192    | 13.16%  |
+| SanDisk             | 145       | 171    | 11.35%  |
+| Crucial             | 130       | 157    | 10.18%  |
+| Apple               | 81        | 85     | 6.34%   |
+| A-DATA Technology   | 66        | 86     | 5.17%   |
+| WDC                 | 51        | 61     | 3.99%   |
+| Micron Technology   | 40        | 42     | 3.13%   |
+| SK Hynix            | 34        | 37     | 2.66%   |
+| Intel               | 26        | 29     | 2.04%   |
+| Toshiba             | 22        | 24     | 1.72%   |
+| China               | 21        | 23     | 1.64%   |
+| Transcend           | 19        | 23     | 1.49%   |
+| LITEON              | 16        | 19     | 1.25%   |
+| PNY                 | 13        | 15     | 1.02%   |
+| Patriot             | 12        | 14     | 0.94%   |
+| OCZ                 | 9         | 11     | 0.7%    |
+| Intenso             | 9         | 12     | 0.7%    |
+| Team                | 8         | 10     | 0.63%   |
+| LITEONIT            | 8         | 8      | 0.63%   |
+| GOODRAM             | 8         | 10     | 0.63%   |
+| LDLC                | 7         | 7      | 0.55%   |
+| KingSpec            | 7         | 7      | 0.55%   |
+| SPCC                | 6         | 8      | 0.47%   |
+| Seagate             | 5         | 5      | 0.39%   |
+| PLEXTOR             | 5         | 5      | 0.39%   |
+| Lexar               | 5         | 6      | 0.39%   |
+| JMicron             | 5         | 5      | 0.39%   |
+| Corsair             | 5         | 5      | 0.39%   |
+| Netac               | 4         | 4      | 0.31%   |
+| BIWIN               | 4         | 4      | 0.31%   |
+| ASUS-PHISON         | 4         | 5      | 0.31%   |
+| KIOXIA-EXCERIA      | 3         | 4      | 0.23%   |
+| KingDian            | 3         | 3      | 0.23%   |
+| Hewlett-Packard     | 3         | 3      | 0.23%   |
+| Gigabyte Technology | 3         | 3      | 0.23%   |
+| Apacer              | 3         | 3      | 0.23%   |
+| ZTC                 | 2         | 5      | 0.16%   |
 | Vaseky              | 2         | 3      | 0.16%   |
 | Unknown             | 2         | 2      | 0.16%   |
 | Super Talent        | 2         | 3      | 0.16%   |
 | Mushkin             | 2         | 2      | 0.16%   |
 | Leven               | 2         | 2      | 0.16%   |
-| KIOXIA-EXCERIA      | 2         | 2      | 0.16%   |
 | Integral            | 2         | 2      | 0.16%   |
-| DOGFISH             | 2         | 4      | 0.16%   |
+| Dogfish             | 2         | 3      | 0.16%   |
 | AMD                 | 2         | 4      | 0.16%   |
 | Unknown             | 2         | 2      | 0.16%   |
 | USB30               | 1         | 1      | 0.08%   |
@@ -4442,11 +4440,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 1371      | 1585   | 38.25%  |
-| SSD     | 1143      | 1473   | 31.89%  |
-| NVMe    | 806       | 1051   | 22.49%  |
-| MMC     | 234       | 300    | 6.53%   |
-| Unknown | 30        | 34     | 0.84%   |
+| HDD     | 1398      | 1602   | 37.78%  |
+| SSD     | 1191      | 1512   | 32.19%  |
+| NVMe    | 841       | 1074   | 22.73%  |
+| MMC     | 239       | 299    | 6.46%   |
+| Unknown | 31        | 36     | 0.84%   |
 
 Drive Connector
 ---------------
@@ -4458,10 +4456,10 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 2279      | 2954   | 66.64%  |
-| NVMe | 806       | 1048   | 23.57%  |
-| MMC  | 234       | 300    | 6.84%   |
-| SAS  | 101       | 141    | 2.95%   |
+| SATA | 2351      | 3008   | 66.53%  |
+| NVMe | 841       | 1071   | 23.8%   |
+| MMC  | 239       | 299    | 6.76%   |
+| SAS  | 103       | 145    | 2.91%   |
 
 Drive Size
 ----------
@@ -4473,12 +4471,12 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 1805      | 2197   | 72.4%   |
-| 0.51-1.0   | 616       | 761    | 24.71%  |
-| 1.01-2.0   | 55        | 78     | 2.21%   |
-| 4.01-10.0  | 8         | 9      | 0.32%   |
-| 3.01-4.0   | 5         | 8      | 0.2%    |
-| 2.01-3.0   | 4         | 5      | 0.16%   |
+| 0.01-0.5   | 1854      | 2239   | 72.48%  |
+| 0.51-1.0   | 633       | 783    | 24.75%  |
+| 1.01-2.0   | 46        | 55     | 1.8%    |
+| 3.01-4.0   | 11        | 14     | 0.43%   |
+| 4.01-10.0  | 10        | 14     | 0.39%   |
+| 2.01-3.0   | 4         | 9      | 0.16%   |
 
 Space Total
 -----------
@@ -4490,16 +4488,16 @@ Amount of disk space available on the file system
 
 | Size in GB     | Notebooks | Percent |
 |----------------|-----------|---------|
-| 101-250        | 923       | 28.8%   |
-| 251-500        | 614       | 19.16%  |
-| Unknown        | 596       | 18.6%   |
-| 501-1000       | 373       | 11.64%  |
-| 51-100         | 189       | 5.9%    |
-| 1-20           | 170       | 5.3%    |
-| 1001-2000      | 165       | 5.15%   |
-| 21-50          | 112       | 3.49%   |
-| More than 3000 | 34        | 1.06%   |
-| 2001-3000      | 29        | 0.9%    |
+| 101-250        | 949       | 28.6%   |
+| 251-500        | 637       | 19.2%   |
+| Unknown        | 612       | 18.44%  |
+| 501-1000       | 394       | 11.87%  |
+| 51-100         | 199       | 6%      |
+| 1-20           | 175       | 5.27%   |
+| 1001-2000      | 167       | 5.03%   |
+| 21-50          | 113       | 3.41%   |
+| More than 3000 | 36        | 1.08%   |
+| 2001-3000      | 36        | 1.08%   |
 
 Space Used
 ----------
@@ -4511,17 +4509,17 @@ Amount of used disk space
 
 | Used GB        | Notebooks | Percent |
 |----------------|-----------|---------|
-| 1-20           | 1103      | 33.4%   |
-| Unknown        | 596       | 18.05%  |
-| 21-50          | 417       | 12.63%  |
-| 101-250        | 412       | 12.48%  |
-| 51-100         | 335       | 10.15%  |
-| 251-500        | 226       | 6.84%   |
-| 501-1000       | 137       | 4.15%   |
-| 1001-2000      | 49        | 1.48%   |
-| More than 3000 | 11        | 0.33%   |
-| 2001-3000      | 9         | 0.27%   |
-| 0              | 7         | 0.21%   |
+| 1-20           | 1138      | 33.28%  |
+| Unknown        | 612       | 17.9%   |
+| 101-250        | 432       | 12.64%  |
+| 21-50          | 427       | 12.49%  |
+| 51-100         | 351       | 10.27%  |
+| 251-500        | 237       | 6.93%   |
+| 501-1000       | 141       | 4.12%   |
+| 1001-2000      | 52        | 1.52%   |
+| More than 3000 | 13        | 0.38%   |
+| 2001-3000      | 9         | 0.26%   |
+| 0              | 7         | 0.2%    |
 
 Malfunc. Drives
 ---------------
@@ -4533,66 +4531,66 @@ Drive models with a malfunction
 
 | Model                                          | Notebooks | Drives | Percent |
 |------------------------------------------------|-----------|--------|---------|
-| Fujitsu MHZ2160BH FFS G1 160GB                 | 20        | 20     | 6.39%   |
-| Toshiba MK1653GSX 160GB                        | 9         | 9      | 2.88%   |
-| Toshiba MK1655GSXF 160GB                       | 7         | 7      | 2.24%   |
-| Seagate ST9500325AS 500GB                      | 6         | 6      | 1.92%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB             | 6         | 7      | 1.92%   |
-| Hitachi HTS543216L9SA02 160GB                  | 6         | 6      | 1.92%   |
-| Toshiba MQ01ABD100 1TB                         | 5         | 5      | 1.6%    |
-| Seagate ST9500420AS 500GB                      | 5         | 5      | 1.6%    |
-| Hitachi HTS542512K9SA00 120GB                  | 5         | 6      | 1.6%    |
-| WDC WD1600BUDT-63DPZY0 160GB                   | 4         | 4      | 1.28%   |
-| Seagate ST500LT012-9WS142 500GB                | 4         | 5      | 1.28%   |
-| Seagate ST1000LM035-1RK172 1TB                 | 4         | 4      | 1.28%   |
-| Hitachi HTS545050B9A300 500GB                  | 4         | 4      | 1.28%   |
-| HGST HTS725050A7E630 500GB                     | 4         | 4      | 1.28%   |
-| Toshiba MQ04ABF100 1TB                         | 3         | 3      | 0.96%   |
-| Toshiba MQ01ABF050 500GB                       | 3         | 3      | 0.96%   |
-| SK Hynix HFS256G39MND-2300A 256GB SSD          | 3         | 3      | 0.96%   |
-| Seagate ST9250315AS 250GB                      | 3         | 4      | 0.96%   |
-| Seagate ST500LM000-SSHD-8GB                    | 3         | 3      | 0.96%   |
-| Hitachi HTS547575A9E384 752GB                  | 3         | 3      | 0.96%   |
-| Hitachi HTS547550A9E384 500GB                  | 3         | 3      | 0.96%   |
-| Hitachi HTS542516K9SA00 160GB                  | 3         | 3      | 0.96%   |
-| Crucial CT275MX300SSD1 275GB                   | 3         | 3      | 0.96%   |
-| WDC WD7500BPVX-22JC3T0 752GB                   | 2         | 2      | 0.64%   |
-| WDC WD7500BPKT-75PK4T0 752GB                   | 2         | 2      | 0.64%   |
-| WDC WD10JPVX-22JC3T0 1TB                       | 2         | 2      | 0.64%   |
-| Toshiba MQ01ACF050 500GB                       | 2         | 2      | 0.64%   |
-| Toshiba MQ01ABD050 500GB                       | 2         | 2      | 0.64%   |
-| SK Hynix PC711 HFS512GDE9X073N 512GB           | 2         | 2      | 0.64%   |
-| Seagate ST980811AS 80GB                        | 2         | 2      | 0.64%   |
-| Seagate ST94811A 40GB                          | 2         | 2      | 0.64%   |
-| Seagate ST9320325AS 320GB                      | 2         | 2      | 0.64%   |
-| Seagate ST9160310AS 160GB                      | 2         | 2      | 0.64%   |
-| Seagate ST500LT012-1DG142 500GB                | 2         | 2      | 0.64%   |
-| Seagate ST500LM021-1KJ152 500GB                | 2         | 2      | 0.64%   |
-| Seagate ST320LT020-9YG142 320GB                | 2         | 2      | 0.64%   |
-| Seagate ST320LT007-9ZV142 320GB                | 2         | 3      | 0.64%   |
-| Samsung Electronics SSD 850 EVO 1TB            | 2         | 2      | 0.64%   |
-| Micron Technology 1100_MTFDDAV256TBN 256GB SSD | 2         | 2      | 0.64%   |
-| Kingston SHFS37A120G 120GB SSD                 | 2         | 2      | 0.64%   |
-| Kingston SA400S37120G 120GB SSD                | 2         | 3      | 0.64%   |
-| Hitachi HTS725050A9A364 500GB                  | 2         | 2      | 0.64%   |
-| Hitachi HTS543232A7A384 320GB                  | 2         | 2      | 0.64%   |
-| Hitachi HTS543216L9A300 160GB                  | 2         | 2      | 0.64%   |
-| Hitachi HTS541060G9AT00 64GB                   | 2         | 3      | 0.64%   |
-| Hitachi HTS541040G9AT00 40GB                   | 2         | 3      | 0.64%   |
-| HGST HTS721010A9E630 1TB                       | 2         | 2      | 0.64%   |
-| HGST HTS545050A7E680 500GB                     | 2         | 2      | 0.64%   |
-| HGST HTS541075A9E680 752GB                     | 2         | 2      | 0.64%   |
-| A-DATA Technology SX900 256GB SSD              | 2         | 2      | 0.64%   |
-| A-DATA Technology SU630 480GB SSD              | 2         | 2      | 0.64%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD               | 1         | 1      | 0.32%   |
-| WDC WD7500BPVT-80HXZT3 752GB                   | 1         | 1      | 0.32%   |
-| WDC WD5000LPCX-24C6HT0 500GB                   | 1         | 1      | 0.32%   |
-| WDC WD5000BPVT-08HXZT1 500GB                   | 1         | 1      | 0.32%   |
-| WDC WD5000BEVT-22ZAT0 500GB                    | 1         | 1      | 0.32%   |
-| WDC WD3200BPVT-00JJ5T0 320GB                   | 1         | 1      | 0.32%   |
-| WDC WD3200BEVT-80A0RT1 320GB                   | 1         | 1      | 0.32%   |
-| WDC WD3200BEVT-60ZCT1 320GB                    | 1         | 1      | 0.32%   |
-| WDC WD3200BEVT-22A23T0 320GB                   | 1         | 1      | 0.32%   |
+| Fujitsu MHZ2160BH FFS G1 160GB                 | 20        | 20     | 6.19%   |
+| Toshiba MK1653GSX 160GB                        | 9         | 9      | 2.79%   |
+| Toshiba MK1655GSXF 160GB                       | 7         | 7      | 2.17%   |
+| Seagate ST9500325AS 500GB                      | 7         | 7      | 2.17%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB             | 6         | 7      | 1.86%   |
+| Hitachi HTS543216L9SA02 160GB                  | 6         | 6      | 1.86%   |
+| Toshiba MQ01ABD100 1TB                         | 5         | 5      | 1.55%   |
+| Seagate ST9500420AS 500GB                      | 5         | 5      | 1.55%   |
+| Hitachi HTS542512K9SA00 120GB                  | 5         | 6      | 1.55%   |
+| HGST HTS725050A7E630 500GB                     | 5         | 5      | 1.55%   |
+| WDC WD1600BUDT-63DPZY0 160GB                   | 4         | 4      | 1.24%   |
+| Seagate ST500LT012-9WS142 500GB                | 4         | 5      | 1.24%   |
+| Seagate ST1000LM035-1RK172 1TB                 | 4         | 4      | 1.24%   |
+| Hitachi HTS545050B9A300 500GB                  | 4         | 4      | 1.24%   |
+| Toshiba MQ04ABF100 1TB                         | 3         | 3      | 0.93%   |
+| Toshiba MQ01ABF050 500GB                       | 3         | 3      | 0.93%   |
+| SK Hynix HFS256G39MND-2300A 256GB SSD          | 3         | 3      | 0.93%   |
+| Seagate ST9250315AS 250GB                      | 3         | 4      | 0.93%   |
+| Seagate ST500LM021-1KJ152 500GB                | 3         | 3      | 0.93%   |
+| Seagate ST500LM000-SSHD-8GB                    | 3         | 3      | 0.93%   |
+| Hitachi HTS547575A9E384 752GB                  | 3         | 3      | 0.93%   |
+| Hitachi HTS547550A9E384 500GB                  | 3         | 3      | 0.93%   |
+| Hitachi HTS542516K9SA00 160GB                  | 3         | 3      | 0.93%   |
+| Crucial CT275MX300SSD1 275GB                   | 3         | 3      | 0.93%   |
+| WDC WD7500BPVX-22JC3T0 752GB                   | 2         | 2      | 0.62%   |
+| WDC WD7500BPKT-75PK4T0 752GB                   | 2         | 2      | 0.62%   |
+| WDC WD10JPVX-22JC3T0 1TB                       | 2         | 2      | 0.62%   |
+| Toshiba MQ01ACF050 500GB                       | 2         | 2      | 0.62%   |
+| Toshiba MQ01ABD050 500GB                       | 2         | 2      | 0.62%   |
+| SK Hynix PC711 HFS512GDE9X073N 512GB           | 2         | 2      | 0.62%   |
+| Seagate ST980811AS 80GB                        | 2         | 2      | 0.62%   |
+| Seagate ST94811A 40GB                          | 2         | 2      | 0.62%   |
+| Seagate ST9320325AS 320GB                      | 2         | 2      | 0.62%   |
+| Seagate ST9160412AS 160GB                      | 2         | 2      | 0.62%   |
+| Seagate ST9160310AS 160GB                      | 2         | 2      | 0.62%   |
+| Seagate ST500LT012-1DG142 500GB                | 2         | 2      | 0.62%   |
+| Seagate ST320LT020-9YG142 320GB                | 2         | 2      | 0.62%   |
+| Seagate ST320LT007-9ZV142 320GB                | 2         | 3      | 0.62%   |
+| Samsung Electronics SSD 850 EVO 1TB            | 2         | 2      | 0.62%   |
+| Micron Technology 1100_MTFDDAV256TBN 256GB SSD | 2         | 2      | 0.62%   |
+| Kingston SHFS37A120G 120GB SSD                 | 2         | 2      | 0.62%   |
+| Kingston SA400S37240G 240GB SSD                | 2         | 2      | 0.62%   |
+| Kingston SA400S37120G 120GB SSD                | 2         | 3      | 0.62%   |
+| Hitachi HTS725050A9A364 500GB                  | 2         | 2      | 0.62%   |
+| Hitachi HTS543232A7A384 320GB                  | 2         | 2      | 0.62%   |
+| Hitachi HTS543216L9A300 160GB                  | 2         | 2      | 0.62%   |
+| Hitachi HTS541060G9AT00 64GB                   | 2         | 3      | 0.62%   |
+| Hitachi HTS541040G9AT00 40GB                   | 2         | 3      | 0.62%   |
+| HGST HTS721010A9E630 1TB                       | 2         | 2      | 0.62%   |
+| HGST HTS545050A7E680 500GB                     | 2         | 2      | 0.62%   |
+| HGST HTS541075A9E680 752GB                     | 2         | 2      | 0.62%   |
+| A-DATA Technology SX900 256GB SSD              | 2         | 2      | 0.62%   |
+| A-DATA Technology SU630 480GB SSD              | 2         | 2      | 0.62%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD               | 1         | 1      | 0.31%   |
+| WDC WD7500BPVT-80HXZT3 752GB                   | 1         | 1      | 0.31%   |
+| WDC WD5000LPVX-75V0TT0 500GB                   | 1         | 1      | 0.31%   |
+| WDC WD5000LPCX-24C6HT0 500GB                   | 1         | 1      | 0.31%   |
+| WDC WD5000BPVT-22HXZT1 500GB                   | 1         | 1      | 0.31%   |
+| WDC WD5000BPVT-08HXZT1 500GB                   | 1         | 1      | 0.31%   |
+| WDC WD5000BEVT-22ZAT0 500GB                    | 1         | 1      | 0.31%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -4604,31 +4602,31 @@ Vendors of faulty drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 59        | 65     | 18.91%  |
-| Hitachi             | 53        | 57     | 16.99%  |
-| Toshiba             | 45        | 45     | 14.42%  |
-| Fujitsu             | 31        | 31     | 9.94%   |
-| WDC                 | 30        | 30     | 9.62%   |
-| HGST                | 15        | 15     | 4.81%   |
-| Samsung Electronics | 12        | 14     | 3.85%   |
-| SK Hynix            | 11        | 11     | 3.53%   |
-| Micron Technology   | 9         | 9      | 2.88%   |
-| SanDisk             | 7         | 8      | 2.24%   |
-| Kingston            | 7         | 8      | 2.24%   |
-| Crucial             | 7         | 8      | 2.24%   |
-| A-DATA Technology   | 7         | 7      | 2.24%   |
-| Intel               | 5         | 6      | 1.6%    |
-| LITEONIT            | 2         | 2      | 0.64%   |
-| IBM/Hitachi         | 2         | 2      | 0.64%   |
-| Corsair             | 2         | 2      | 0.64%   |
-| Team                | 1         | 1      | 0.32%   |
-| LITEON              | 1         | 1      | 0.32%   |
-| KingSpec            | 1         | 1      | 0.32%   |
-| KingDian            | 1         | 1      | 0.32%   |
-| IBM                 | 1         | 1      | 0.32%   |
-| GOODRAM             | 1         | 1      | 0.32%   |
-| China               | 1         | 1      | 0.32%   |
-| Apple               | 1         | 1      | 0.32%   |
+| Seagate             | 62        | 68     | 19.25%  |
+| Hitachi             | 53        | 57     | 16.46%  |
+| Toshiba             | 44        | 44     | 13.66%  |
+| WDC                 | 32        | 32     | 9.94%   |
+| Fujitsu             | 32        | 32     | 9.94%   |
+| HGST                | 16        | 16     | 4.97%   |
+| Samsung Electronics | 14        | 16     | 4.35%   |
+| SK Hynix            | 12        | 12     | 3.73%   |
+| Micron Technology   | 9         | 9      | 2.8%    |
+| Kingston            | 8         | 9      | 2.48%   |
+| SanDisk             | 7         | 8      | 2.17%   |
+| Crucial             | 7         | 8      | 2.17%   |
+| A-DATA Technology   | 7         | 7      | 2.17%   |
+| Intel               | 5         | 6      | 1.55%   |
+| LITEONIT            | 2         | 2      | 0.62%   |
+| IBM/Hitachi         | 2         | 2      | 0.62%   |
+| Corsair             | 2         | 2      | 0.62%   |
+| Team                | 1         | 1      | 0.31%   |
+| LITEON              | 1         | 1      | 0.31%   |
+| KingSpec            | 1         | 1      | 0.31%   |
+| KingDian            | 1         | 1      | 0.31%   |
+| IBM                 | 1         | 1      | 0.31%   |
+| GOODRAM             | 1         | 1      | 0.31%   |
+| China               | 1         | 1      | 0.31%   |
+| Apple               | 1         | 1      | 0.31%   |
 
 Malfunc. HDD Vendor
 -------------------
@@ -4640,15 +4638,15 @@ Vendors of faulty HDD drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 59        | 65     | 24.48%  |
-| Hitachi             | 53        | 57     | 21.99%  |
-| Toshiba             | 44        | 44     | 18.26%  |
-| Fujitsu             | 31        | 31     | 12.86%  |
-| WDC                 | 29        | 29     | 12.03%  |
-| HGST                | 15        | 15     | 6.22%   |
-| Samsung Electronics | 7         | 7      | 2.9%    |
-| IBM/Hitachi         | 2         | 2      | 0.83%   |
-| IBM                 | 1         | 1      | 0.41%   |
+| Seagate             | 62        | 68     | 24.9%   |
+| Hitachi             | 53        | 57     | 21.29%  |
+| Toshiba             | 43        | 43     | 17.27%  |
+| Fujitsu             | 32        | 32     | 12.85%  |
+| WDC                 | 31        | 31     | 12.45%  |
+| HGST                | 16        | 16     | 6.43%   |
+| Samsung Electronics | 9         | 9      | 3.61%   |
+| IBM/Hitachi         | 2         | 2      | 0.8%    |
+| IBM                 | 1         | 1      | 0.4%    |
 
 Malfunc. Drive Kind
 -------------------
@@ -4660,9 +4658,9 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 238       | 251    | 77.02%  |
-| SSD  | 64        | 70     | 20.71%  |
-| NVMe | 7         | 7      | 2.27%   |
+| HDD  | 246       | 259    | 77.12%  |
+| SSD  | 65        | 71     | 20.38%  |
+| NVMe | 8         | 8      | 2.51%   |
 
 Failed Drives
 -------------
@@ -4706,10 +4704,10 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 2073      | 2673   | 62.12%  |
-| Detected | 951       | 1436   | 28.5%   |
-| Malfunc  | 307       | 328    | 9.2%    |
-| Failed   | 5         | 5      | 0.15%   |
+| Works    | 2150      | 2742   | 62.26%  |
+| Detected | 980       | 1437   | 28.38%  |
+| Malfunc  | 317       | 338    | 9.18%   |
+| Failed   | 5         | 5      | 0.14%   |
 | Limited  | 1         | 1      | 0.03%   |
 
 Storage controller
@@ -4725,33 +4723,33 @@ Storage controller vendors
 
 | Vendor                           | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| Intel                            | 1878      | 55.51%  |
-| Nvidia                           | 322       | 9.52%   |
-| Samsung Electronics              | 300       | 8.87%   |
-| AMD                              | 294       | 8.69%   |
-| Sandisk                          | 134       | 3.96%   |
-| SK Hynix                         | 92        | 2.72%   |
-| Apple                            | 79        | 2.34%   |
-| Toshiba America Info Systems     | 61        | 1.8%    |
-| Kingston Technology Company      | 37        | 1.09%   |
-| Micron Technology                | 28        | 0.83%   |
-| KIOXIA                           | 26        | 0.77%   |
-| ADATA Technology                 | 22        | 0.65%   |
-| Silicon Motion                   | 20        | 0.59%   |
-| Micron/Crucial Technology        | 20        | 0.59%   |
-| Phison Electronics               | 17        | 0.5%    |
-| Union Memory (Shenzhen)          | 10        | 0.3%    |
-| Silicon Integrated Systems [SiS] | 8         | 0.24%   |
-| Solid State Storage Technology   | 6         | 0.18%   |
-| Lite-On Technology               | 5         | 0.15%   |
-| Lenovo                           | 5         | 0.15%   |
+| Intel                            | 1956      | 55.68%  |
+| Nvidia                           | 322       | 9.17%   |
+| Samsung Electronics              | 313       | 8.91%   |
+| AMD                              | 306       | 8.71%   |
+| Sandisk                          | 141       | 4.01%   |
+| SK Hynix                         | 99        | 2.82%   |
+| Apple                            | 80        | 2.28%   |
+| Toshiba America Info Systems     | 63        | 1.79%   |
+| Kingston Technology Company      | 39        | 1.11%   |
+| Micron Technology                | 28        | 0.8%    |
+| KIOXIA                           | 26        | 0.74%   |
+| ADATA Technology                 | 23        | 0.65%   |
+| Silicon Motion                   | 21        | 0.6%    |
+| Micron/Crucial Technology        | 20        | 0.57%   |
+| Phison Electronics               | 17        | 0.48%   |
+| Union Memory (Shenzhen)          | 10        | 0.28%   |
+| Silicon Integrated Systems [SiS] | 9         | 0.26%   |
+| Solid State Storage Technology   | 8         | 0.23%   |
+| Lite-On Technology               | 5         | 0.14%   |
+| Lenovo                           | 5         | 0.14%   |
+| Realtek Semiconductor            | 4         | 0.11%   |
 | Silicon Image                    | 3         | 0.09%   |
 | Shenzhen Longsys Electronics     | 3         | 0.09%   |
-| Realtek Semiconductor            | 3         | 0.09%   |
+| Seagate Technology               | 3         | 0.09%   |
 | ULi Electronics                  | 2         | 0.06%   |
 | Yangtze Memory Technologies      | 1         | 0.03%   |
 | VIA Technologies                 | 1         | 0.03%   |
-| Seagate Technology               | 1         | 0.03%   |
 | Marvell Technology Group         | 1         | 0.03%   |
 | JMicron Technology               | 1         | 0.03%   |
 | ASMedia Technology               | 1         | 0.03%   |
@@ -4768,66 +4766,66 @@ Storage controller models
 
 | Model                                                                            | Notebooks | Percent |
 |----------------------------------------------------------------------------------|-----------|---------|
-| Nvidia MCP79 AHCI Controller                                                     | 309       | 8.5%    |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 259       | 7.13%   |
-| AMD FCH SATA Controller [AHCI mode]                                              | 254       | 6.99%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 208       | 5.72%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 144       | 3.96%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                   | 135       | 3.71%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 130       | 3.58%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 94        | 2.59%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 84        | 2.31%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 81        | 2.23%   |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]            | 81        | 2.23%   |
-| Apple S1X NVMe Controller                                                        | 76        | 2.09%   |
-| Samsung Electronics SATA controller                                              | 75        | 2.06%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                 | 71        | 1.95%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                        | 68        | 1.87%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 64        | 1.76%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 64        | 1.76%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                    | 63        | 1.73%   |
-| Samsung NVMe SSD Controller 980                                                  | 54        | 1.49%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 53        | 1.46%   |
-| Intel Volume Management Device NVMe RAID Controller                              | 51        | 1.4%    |
-| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 43        | 1.18%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                       | 42        | 1.16%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 40        | 1.1%    |
-| Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 36        | 0.99%   |
-| Intel Comet Lake SATA AHCI Controller                                            | 35        | 0.96%   |
-| Toshiba America Info Systems XG6 NVMe SSD Controller                             | 32        | 0.88%   |
-| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 31        | 0.85%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                   | 28        | 0.77%   |
-| Micron Non-Volatile memory controller                                            | 28        | 0.77%   |
-| Intel Celeron/Pentium Silver Processor SATA Controller                           | 28        | 0.77%   |
-| Intel SSD 660P Series                                                            | 27        | 0.74%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 27        | 0.74%   |
-| SK Hynix Gold P31 SSD                                                            | 26        | 0.72%   |
-| KIOXIA Non-Volatile memory controller                                            | 26        | 0.72%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 25        | 0.69%   |
-| SK Hynix BC511                                                                   | 23        | 0.63%   |
-| SK Hynix BC501 NVMe Solid State Drive                                            | 22        | 0.61%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 22        | 0.61%   |
-| Intel Tiger Lake-LP SATA Controller [AHCI mode]                                  | 21        | 0.58%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 21        | 0.58%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                       | 20        | 0.55%   |
-| Intel 400 Series Chipset Family SATA AHCI Controller                             | 20        | 0.55%   |
-| SK Hynix Non-Volatile memory controller                                          | 18        | 0.5%    |
-| Sandisk PC SN520 NVMe SSD                                                        | 18        | 0.5%    |
-| Sandisk Non-Volatile memory controller                                           | 17        | 0.47%   |
-| Intel Ice Lake-LP SATA Controller [AHCI mode]                                    | 17        | 0.47%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                           | 17        | 0.47%   |
-| Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller | 16        | 0.44%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                  | 16        | 0.44%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 15        | 0.41%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                            | 14        | 0.39%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 13        | 0.36%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                    | 13        | 0.36%   |
-| ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                      | 13        | 0.36%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 12        | 0.33%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                          | 12        | 0.33%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [IDE mode]                     | 12        | 0.33%   |
-| Intel 82801FBM (ICH6M) SATA Controller                                           | 12        | 0.33%   |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) IDE Controller                         | 12        | 0.33%   |
+| Nvidia MCP79 AHCI Controller                                                     | 309       | 8.19%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 268       | 7.11%   |
+| AMD FCH SATA Controller [AHCI mode]                                              | 266       | 7.05%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 212       | 5.62%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 149       | 3.95%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                   | 140       | 3.71%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 138       | 3.66%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 101       | 2.68%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 87        | 2.31%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 85        | 2.25%   |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]            | 82        | 2.17%   |
+| Apple S1X NVMe Controller                                                        | 76        | 2.02%   |
+| Samsung Electronics SATA controller                                              | 75        | 1.99%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                 | 72        | 1.91%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                        | 69        | 1.83%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 66        | 1.75%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 64        | 1.7%    |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                    | 64        | 1.7%    |
+| Samsung NVMe SSD Controller 980                                                  | 57        | 1.51%   |
+| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 56        | 1.49%   |
+| Intel Volume Management Device NVMe RAID Controller                              | 53        | 1.41%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                       | 46        | 1.22%   |
+| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 45        | 1.19%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 40        | 1.06%   |
+| Intel Comet Lake SATA AHCI Controller                                            | 37        | 0.98%   |
+| Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 37        | 0.98%   |
+| Toshiba America Info Systems XG6 NVMe SSD Controller                             | 34        | 0.9%    |
+| Intel Cannon Lake PCH SATA AHCI Controller                                       | 33        | 0.88%   |
+| SK Hynix Gold P31 SSD                                                            | 31        | 0.82%   |
+| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 30        | 0.8%    |
+| Sandisk WD Blue SN550 NVMe SSD                                                   | 29        | 0.77%   |
+| Intel Celeron/Pentium Silver Processor SATA Controller                           | 29        | 0.77%   |
+| Micron Non-Volatile memory controller                                            | 28        | 0.74%   |
+| Intel SSD 660P Series                                                            | 27        | 0.72%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 27        | 0.72%   |
+| KIOXIA Non-Volatile memory controller                                            | 26        | 0.69%   |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 25        | 0.66%   |
+| SK Hynix BC511                                                                   | 23        | 0.61%   |
+| Intel Tiger Lake-LP SATA Controller [AHCI mode]                                  | 23        | 0.61%   |
+| SK Hynix BC501 NVMe Solid State Drive                                            | 22        | 0.58%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 22        | 0.58%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 22        | 0.58%   |
+| Intel 400 Series Chipset Family SATA AHCI Controller                             | 22        | 0.58%   |
+| SK Hynix Non-Volatile memory controller                                          | 20        | 0.53%   |
+| Sandisk PC SN520 NVMe SSD                                                        | 18        | 0.48%   |
+| Sandisk Non-Volatile memory controller                                           | 18        | 0.48%   |
+| Intel Ice Lake-LP SATA Controller [AHCI mode]                                    | 18        | 0.48%   |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                  | 17        | 0.45%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                           | 17        | 0.45%   |
+| Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller | 16        | 0.42%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 16        | 0.42%   |
+| Kingston Company U-SNS8154P3 NVMe SSD                                            | 14        | 0.37%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 14        | 0.37%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                    | 14        | 0.37%   |
+| Kingston Company Company Non-Volatile memory controller                          | 13        | 0.34%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [IDE mode]                     | 13        | 0.34%   |
+| Intel 82801FBM (ICH6M) SATA Controller                                           | 13        | 0.34%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 12        | 0.32%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 12        | 0.32%   |
+| Intel SSD Pro 7600p/760p/E 6100p Series                                          | 12        | 0.32%   |
 
 Storage Kind
 ------------
@@ -4839,10 +4837,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 2257      | 63.61%  |
-| NVMe | 813       | 22.91%  |
-| IDE  | 287       | 8.09%   |
-| RAID | 190       | 5.36%   |
+| SATA | 2336      | 63.5%   |
+| NVMe | 850       | 23.1%   |
+| IDE  | 297       | 8.07%   |
+| RAID | 195       | 5.3%    |
 | SCSI | 1         | 0.03%   |
 
 Processor
@@ -4858,9 +4856,9 @@ Processor vendors
 
 | Vendor       | Notebooks | Percent |
 |--------------|-----------|---------|
-| Intel        | 2712      | 86.98%  |
-| AMD          | 395       | 12.67%  |
-| ARM          | 9         | 0.29%   |
+| Intel        | 2806      | 86.95%  |
+| AMD          | 410       | 12.71%  |
+| ARM          | 9         | 0.28%   |
 | CentaurHauls | 1         | 0.03%   |
 | Unknown      | 1         | 0.03%   |
 
@@ -4874,66 +4872,66 @@ Processor models
 
 | Model                                         | Notebooks | Percent |
 |-----------------------------------------------|-----------|---------|
-| Intel Core 2 Duo CPU P7450 @ 2.13GHz          | 304       | 9.75%   |
-| Intel Core i5-5250U CPU @ 1.60GHz             | 141       | 4.52%   |
-| Intel Celeron CPU N2840 @ 2.16GHz             | 84        | 2.69%   |
-| Intel Core i5-8250U CPU @ 1.60GHz             | 58        | 1.86%   |
-| Intel Core 2 CPU T7200 @ 2.00GHz              | 57        | 1.83%   |
-| Intel Core i7-8550U CPU @ 1.80GHz             | 56        | 1.8%    |
-| Intel Core i5-7200U CPU @ 2.50GHz             | 51        | 1.64%   |
-| Intel Core i7-8565U CPU @ 1.80GHz             | 49        | 1.57%   |
-| AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx | 47        | 1.51%   |
-| Intel Core i5-3320M CPU @ 2.60GHz             | 40        | 1.28%   |
-| Intel Core i5-2520M CPU @ 2.50GHz             | 38        | 1.22%   |
-| Intel 11th Gen Core i5-1135G7 @ 2.40GHz       | 37        | 1.19%   |
-| Intel Core i5-8265U CPU @ 1.60GHz             | 35        | 1.12%   |
-| Intel Core i7-10510U CPU @ 1.80GHz            | 34        | 1.09%   |
-| Intel 11th Gen Core i7-1165G7 @ 2.80GHz       | 34        | 1.09%   |
-| Intel Core i7-7500U CPU @ 2.70GHz             | 31        | 0.99%   |
-| Intel Core i7-9750H CPU @ 2.60GHz             | 28        | 0.9%    |
-| Intel Core i5-10210U CPU @ 1.60GHz            | 28        | 0.9%    |
-| Intel Core i5-6200U CPU @ 2.30GHz             | 27        | 0.87%   |
-| Intel Core i5-6300U CPU @ 2.40GHz             | 26        | 0.83%   |
-| Intel Core i7-8750H CPU @ 2.20GHz             | 25        | 0.8%    |
-| Intel Atom CPU N270 @ 1.60GHz                 | 25        | 0.8%    |
-| Intel Core i5-3210M CPU @ 2.50GHz             | 24        | 0.77%   |
-| Intel Core i7-7700HQ CPU @ 2.80GHz            | 23        | 0.74%   |
-| Intel Core 2 Duo CPU T8100 @ 2.10GHz          | 23        | 0.74%   |
-| AMD PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G    | 23        | 0.74%   |
-| Intel Core i5-5200U CPU @ 2.20GHz             | 21        | 0.67%   |
-| Intel Core i5 CPU M 520 @ 2.40GHz             | 20        | 0.64%   |
-| Intel Core i3-9100 CPU @ 3.60GHz              | 20        | 0.64%   |
-| Intel Core i7-10750H CPU @ 2.60GHz            | 18        | 0.58%   |
-| Intel Core i5-5300U CPU @ 2.30GHz             | 18        | 0.58%   |
-| Intel Core i5-3230M CPU @ 2.60GHz             | 18        | 0.58%   |
-| Intel Celeron CPU 3865U @ 1.80GHz             | 18        | 0.58%   |
-| Intel Core i7-5600U CPU @ 2.60GHz             | 17        | 0.55%   |
-| Intel Core i5-4210U CPU @ 1.70GHz             | 17        | 0.55%   |
-| Intel Core i7-6600U CPU @ 2.60GHz             | 16        | 0.51%   |
-| Intel Core i7-6500U CPU @ 2.50GHz             | 16        | 0.51%   |
-| Intel Core i5-2450M CPU @ 2.50GHz             | 16        | 0.51%   |
-| AMD Ryzen 5 5500U with Radeon Graphics        | 16        | 0.51%   |
-| Intel Core i5-2410M CPU @ 2.30GHz             | 15        | 0.48%   |
-| Intel Core 2 Duo CPU P8600 @ 2.40GHz          | 15        | 0.48%   |
-| AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx | 15        | 0.48%   |
-| Intel Core i7-8650U CPU @ 1.90GHz             | 14        | 0.45%   |
-| Intel Core i7-6700HQ CPU @ 2.60GHz            | 14        | 0.45%   |
-| Intel Core i7-3630QM CPU @ 2.40GHz            | 14        | 0.45%   |
-| Intel Core i5-4300U CPU @ 1.90GHz             | 14        | 0.45%   |
-| Intel Core i3-5005U CPU @ 2.00GHz             | 14        | 0.45%   |
-| Intel Atom CPU N455 @ 1.66GHz                 | 13        | 0.42%   |
-| AMD Ryzen 7 PRO 4750U with Radeon Graphics    | 13        | 0.42%   |
-| AMD Ryzen 7 4700U with Radeon Graphics        | 13        | 0.42%   |
-| Intel Core i7-4510U CPU @ 2.00GHz             | 12        | 0.38%   |
-| Intel Core i3-6006U CPU @ 2.00GHz             | 12        | 0.38%   |
-| Intel Core i7-8665U CPU @ 1.90GHz             | 11        | 0.35%   |
-| Intel Core i7-5500U CPU @ 2.40GHz             | 11        | 0.35%   |
-| Intel Core i7-4600U CPU @ 2.10GHz             | 11        | 0.35%   |
-| Intel Core i5-4200U CPU @ 1.60GHz             | 11        | 0.35%   |
-| Intel Core i5-3317U CPU @ 1.70GHz             | 11        | 0.35%   |
-| Intel Core i3-1005G1 CPU @ 1.20GHz            | 11        | 0.35%   |
-| Intel Celeron N4000 CPU @ 1.10GHz             | 11        | 0.35%   |
-| Intel Celeron CPU N3060 @ 1.60GHz             | 11        | 0.35%   |
+| Intel Core 2 Duo CPU P7450 @ 2.13GHz          | 304       | 9.42%   |
+| Intel Core i5-5250U CPU @ 1.60GHz             | 141       | 4.37%   |
+| Intel Celeron CPU N2840 @ 2.16GHz             | 84        | 2.6%    |
+| Intel Core i5-8250U CPU @ 1.60GHz             | 59        | 1.83%   |
+| Intel Core 2 CPU T7200 @ 2.00GHz              | 58        | 1.8%    |
+| Intel Core i7-8550U CPU @ 1.80GHz             | 57        | 1.77%   |
+| Intel Core i5-7200U CPU @ 2.50GHz             | 55        | 1.7%    |
+| Intel Core i7-8565U CPU @ 1.80GHz             | 50        | 1.55%   |
+| AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx | 48        | 1.49%   |
+| Intel Core i5-3320M CPU @ 2.60GHz             | 41        | 1.27%   |
+| Intel 11th Gen Core i5-1135G7 @ 2.40GHz       | 41        | 1.27%   |
+| Intel Core i5-2520M CPU @ 2.50GHz             | 38        | 1.18%   |
+| Intel Core i5-8265U CPU @ 1.60GHz             | 37        | 1.15%   |
+| Intel 11th Gen Core i7-1165G7 @ 2.80GHz       | 37        | 1.15%   |
+| Intel Core i7-10510U CPU @ 1.80GHz            | 34        | 1.05%   |
+| Intel Core i3-9100 CPU @ 3.60GHz              | 33        | 1.02%   |
+| Intel Core i7-7500U CPU @ 2.70GHz             | 32        | 0.99%   |
+| Intel Core i5-10210U CPU @ 1.60GHz            | 30        | 0.93%   |
+| Intel Core i7-9750H CPU @ 2.60GHz             | 28        | 0.87%   |
+| Intel Core i5-6300U CPU @ 2.40GHz             | 27        | 0.84%   |
+| Intel Core i5-6200U CPU @ 2.30GHz             | 27        | 0.84%   |
+| Intel Core i7-8750H CPU @ 2.20GHz             | 25        | 0.77%   |
+| Intel Core i5-3210M CPU @ 2.50GHz             | 25        | 0.77%   |
+| Intel Atom CPU N270 @ 1.60GHz                 | 25        | 0.77%   |
+| Intel Core i7-7700HQ CPU @ 2.80GHz            | 23        | 0.71%   |
+| Intel Core i5-5200U CPU @ 2.20GHz             | 23        | 0.71%   |
+| Intel Core 2 Duo CPU T8100 @ 2.10GHz          | 23        | 0.71%   |
+| AMD PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G    | 23        | 0.71%   |
+| Intel Core i7-10750H CPU @ 2.60GHz            | 21        | 0.65%   |
+| Intel Core i5 CPU M 520 @ 2.40GHz             | 21        | 0.65%   |
+| Intel Core i5-5300U CPU @ 2.30GHz             | 20        | 0.62%   |
+| Intel Core i5-4210U CPU @ 1.70GHz             | 19        | 0.59%   |
+| Intel Core i7-6600U CPU @ 2.60GHz             | 18        | 0.56%   |
+| Intel Core i7-5600U CPU @ 2.60GHz             | 18        | 0.56%   |
+| Intel Core i5-3230M CPU @ 2.60GHz             | 18        | 0.56%   |
+| Intel Celeron CPU 3865U @ 1.80GHz             | 18        | 0.56%   |
+| Intel Core i5-2410M CPU @ 2.30GHz             | 17        | 0.53%   |
+| Intel Core i7-6700HQ CPU @ 2.60GHz            | 16        | 0.5%    |
+| Intel Core i7-6500U CPU @ 2.50GHz             | 16        | 0.5%    |
+| Intel Core i5-2450M CPU @ 2.50GHz             | 16        | 0.5%    |
+| Intel Core 2 Duo CPU P8600 @ 2.40GHz          | 16        | 0.5%    |
+| AMD Ryzen 5 5500U with Radeon Graphics        | 16        | 0.5%    |
+| AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx | 16        | 0.5%    |
+| Intel Core i7-8650U CPU @ 1.90GHz             | 15        | 0.46%   |
+| Intel Core i5-4300U CPU @ 1.90GHz             | 15        | 0.46%   |
+| AMD Ryzen 7 PRO 4750U with Radeon Graphics    | 15        | 0.46%   |
+| Intel Core i7-3630QM CPU @ 2.40GHz            | 14        | 0.43%   |
+| Intel Core i3-5005U CPU @ 2.00GHz             | 14        | 0.43%   |
+| AMD Ryzen 7 4800H with Radeon Graphics        | 14        | 0.43%   |
+| Intel Atom CPU N455 @ 1.66GHz                 | 13        | 0.4%    |
+| AMD Ryzen 7 4700U with Radeon Graphics        | 13        | 0.4%    |
+| Intel Core i7-5500U CPU @ 2.40GHz             | 12        | 0.37%   |
+| Intel Core i7-4510U CPU @ 2.00GHz             | 12        | 0.37%   |
+| Intel Core i5-4200U CPU @ 1.60GHz             | 12        | 0.37%   |
+| Intel Core i5-1035G1 CPU @ 1.00GHz            | 12        | 0.37%   |
+| Intel Core i3-6006U CPU @ 2.00GHz             | 12        | 0.37%   |
+| Intel Celeron N4000 CPU @ 1.10GHz             | 12        | 0.37%   |
+| Intel Core i7-8665U CPU @ 1.90GHz             | 11        | 0.34%   |
+| Intel Core i7-4700MQ CPU @ 2.40GHz            | 11        | 0.34%   |
+| Intel Core i7-4600U CPU @ 2.10GHz             | 11        | 0.34%   |
 
 CPU Model Family
 ----------------
@@ -4945,49 +4943,49 @@ Processor model prefix
 
 | Model                          | Notebooks | Percent |
 |--------------------------------|-----------|---------|
-| Intel Core i5                  | 803       | 25.75%  |
-| Intel Core i7                  | 613       | 19.66%  |
-| Intel Core 2 Duo               | 444       | 14.24%  |
-| Intel Celeron                  | 203       | 6.51%   |
-| Intel Core i3                  | 195       | 6.25%   |
-| Other                          | 149       | 4.78%   |
-| AMD Ryzen 5                    | 111       | 3.56%   |
-| Intel Atom                     | 98        | 3.14%   |
-| Intel Core 2                   | 64        | 2.05%   |
-| Intel Pentium                  | 59        | 1.89%   |
-| AMD Ryzen 7                    | 55        | 1.76%   |
-| Intel Pentium M                | 25        | 0.8%    |
-| AMD A6                         | 23        | 0.74%   |
-| AMD Ryzen 7 PRO                | 21        | 0.67%   |
-| AMD A8                         | 18        | 0.58%   |
-| Intel Pentium Dual-Core        | 17        | 0.55%   |
-| AMD Ryzen 3                    | 16        | 0.51%   |
-| Intel Pentium Dual             | 15        | 0.48%   |
-| Intel Genuine                  | 15        | 0.48%   |
-| AMD A4                         | 15        | 0.48%   |
-| AMD E1                         | 14        | 0.45%   |
-| AMD E                          | 10        | 0.32%   |
-| AMD Ryzen 5 PRO                | 9         | 0.29%   |
-| Intel Pentium 4                | 8         | 0.26%   |
-| AMD A10                        | 8         | 0.26%   |
-| Intel Celeron M                | 7         | 0.22%   |
+| Intel Core i5                  | 834       | 25.84%  |
+| Intel Core i7                  | 632       | 19.58%  |
+| Intel Core 2 Duo               | 449       | 13.91%  |
+| Intel Core i3                  | 210       | 6.51%   |
+| Intel Celeron                  | 209       | 6.48%   |
+| Other                          | 159       | 4.93%   |
+| AMD Ryzen 5                    | 113       | 3.5%    |
+| Intel Atom                     | 97        | 3.01%   |
+| Intel Core 2                   | 65        | 2.01%   |
+| Intel Pentium                  | 62        | 1.92%   |
+| AMD Ryzen 7                    | 61        | 1.89%   |
+| Intel Pentium M                | 26        | 0.81%   |
+| AMD A6                         | 24        | 0.74%   |
+| AMD Ryzen 7 PRO                | 23        | 0.71%   |
+| Intel Pentium Dual-Core        | 18        | 0.56%   |
+| AMD A8                         | 18        | 0.56%   |
+| AMD A4                         | 18        | 0.56%   |
+| Intel Genuine                  | 16        | 0.5%    |
+| AMD Ryzen 3                    | 16        | 0.5%    |
+| Intel Pentium Dual             | 15        | 0.46%   |
+| AMD E1                         | 14        | 0.43%   |
+| AMD E                          | 10        | 0.31%   |
+| AMD Ryzen 5 PRO                | 9         | 0.28%   |
+| Intel Pentium 4                | 8         | 0.25%   |
+| Intel Celeron M                | 8         | 0.25%   |
+| AMD A10                        | 8         | 0.25%   |
+| AMD Ryzen 9                    | 7         | 0.22%   |
 | AMD E2                         | 7         | 0.22%   |
 | Intel Pentium Silver           | 6         | 0.19%   |
-| AMD Ryzen 9                    | 6         | 0.19%   |
 | AMD A12                        | 6         | 0.19%   |
-| Intel Core m3                  | 5         | 0.16%   |
-| ARM ARMv7                      | 5         | 0.16%   |
-| AMD Turion 64 X2 Mobile        | 5         | 0.16%   |
-| AMD Athlon                     | 5         | 0.16%   |
-| Intel Core i9                  | 4         | 0.13%   |
-| Intel Celeron Dual-Core        | 4         | 0.13%   |
-| AMD C-60                       | 4         | 0.13%   |
-| Intel Xeon                     | 3         | 0.1%    |
-| Intel Pentium III              | 3         | 0.1%    |
-| Intel Pentium Gold             | 3         | 0.1%    |
-| Intel Mobile Pentium 4         | 3         | 0.1%    |
-| AMD FX                         | 3         | 0.1%    |
-| AMD C-50                       | 3         | 0.1%    |
+| Intel Core m3                  | 5         | 0.15%   |
+| Intel Core i9                  | 5         | 0.15%   |
+| ARM ARMv7                      | 5         | 0.15%   |
+| AMD Turion 64 X2 Mobile        | 5         | 0.15%   |
+| AMD Athlon                     | 5         | 0.15%   |
+| Intel Celeron Dual-Core        | 4         | 0.12%   |
+| AMD C-60                       | 4         | 0.12%   |
+| Intel Xeon                     | 3         | 0.09%   |
+| Intel Pentium III              | 3         | 0.09%   |
+| Intel Pentium Gold             | 3         | 0.09%   |
+| Intel Mobile Pentium 4         | 3         | 0.09%   |
+| AMD FX                         | 3         | 0.09%   |
+| AMD C-50                       | 3         | 0.09%   |
 | Intel Core m7                  | 2         | 0.06%   |
 | AMD Turion X2 Dual-Core Mobile | 2         | 0.06%   |
 | AMD Turion 64 Mobile           | 2         | 0.06%   |
@@ -5016,12 +5014,13 @@ Number of processor cores
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 2      | 1886      | 60.49%  |
-| 4      | 855       | 27.42%  |
-| 1      | 153       | 4.91%   |
-| 6      | 142       | 4.55%   |
-| 8      | 80        | 2.57%   |
-| 14     | 1         | 0.03%   |
+| 2      | 1931      | 59.84%  |
+| 4      | 899       | 27.86%  |
+| 1      | 157       | 4.87%   |
+| 6      | 147       | 4.56%   |
+| 8      | 89        | 2.76%   |
+| 14     | 2         | 0.06%   |
+| 10     | 1         | 0.03%   |
 | 3      | 1         | 0.03%   |
 
 CPU Sockets
@@ -5034,7 +5033,7 @@ Number of sockets
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 3117      | 99.97%  |
+| 1      | 3226      | 99.97%  |
 | 2      | 1         | 0.03%   |
 
 CPU Threads
@@ -5047,8 +5046,8 @@ Threads per core (Hyper-Threading)
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 2      | 2005      | 64.28%  |
-| 1      | 1114      | 35.72%  |
+| 2      | 2075      | 64.28%  |
+| 1      | 1153      | 35.72%  |
 
 CPU Op-Modes
 ------------
@@ -5060,9 +5059,9 @@ CPU Operation Modes (32-bit, 64-bit)
 
 | Op mode        | Notebooks | Percent |
 |----------------|-----------|---------|
-| 32-bit, 64-bit | 2963      | 94.97%  |
-| 32-bit         | 87        | 2.79%   |
-| Unknown        | 69        | 2.21%   |
+| 32-bit, 64-bit | 3069      | 95.04%  |
+| 32-bit         | 90        | 2.79%   |
+| Unknown        | 69        | 2.14%   |
 | 64-bit         | 1         | 0.03%   |
 
 CPU Microcode
@@ -5075,66 +5074,66 @@ Microcode number
 
 | Number     | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 708       | 22.26%  |
-| 0x1067a    | 372       | 11.69%  |
-| 0x306d4    | 213       | 6.7%    |
-| 0x206a7    | 145       | 4.56%   |
-| 0x306a9    | 133       | 4.18%   |
-| 0x806ec    | 120       | 3.77%   |
-| 0x30678    | 103       | 3.24%   |
-| 0x806e9    | 93        | 2.92%   |
-| 0x806ea    | 89        | 2.8%    |
-| 0x806c1    | 79        | 2.48%   |
-| 0x40651    | 72        | 2.26%   |
-| 0x406e3    | 69        | 2.17%   |
-| 0x6f6      | 60        | 1.89%   |
-| 0x906ea    | 55        | 1.73%   |
-| 0x306c3    | 51        | 1.6%    |
-| 0x20655    | 43        | 1.35%   |
-| 0x10676    | 36        | 1.13%   |
-| 0x08108109 | 34        | 1.07%   |
-| 0x08108102 | 34        | 1.07%   |
-| 0xa0652    | 31        | 0.97%   |
-| 0x706e5    | 29        | 0.91%   |
-| 0x6fd      | 27        | 0.85%   |
-| 0x106c2    | 27        | 0.85%   |
-| 0x08600106 | 27        | 0.85%   |
-| 0x906e9    | 25        | 0.79%   |
-| 0x806eb    | 25        | 0.79%   |
-| 0x0600611a | 25        | 0.79%   |
-| 0x106ca    | 24        | 0.75%   |
-| 0x6d8      | 21        | 0.66%   |
-| 0x906eb    | 20        | 0.63%   |
-| 0x20652    | 20        | 0.63%   |
-| 0x406c4    | 19        | 0.6%    |
-| 0x0a50000c | 19        | 0.6%    |
-| 0x08608103 | 19        | 0.6%    |
-| 0x06006705 | 17        | 0.53%   |
-| 0x506e3    | 15        | 0.47%   |
-| 0x406c3    | 15        | 0.47%   |
-| 0x706a8    | 14        | 0.44%   |
-| 0x506c9    | 14        | 0.44%   |
-| 0x0810100b | 13        | 0.41%   |
-| 0x05000119 | 13        | 0.41%   |
-| 0x906ed    | 11        | 0.35%   |
-| 0x08600103 | 11        | 0.35%   |
-| 0x706a1    | 10        | 0.31%   |
-| 0x6fb      | 10        | 0.31%   |
-| 0x08600104 | 9         | 0.28%   |
-| 0xf29      | 8         | 0.25%   |
-| 0x6e8      | 8         | 0.25%   |
-| 0x07030105 | 8         | 0.25%   |
-| 0x806d1    | 7         | 0.22%   |
-| 0x03000027 | 7         | 0.22%   |
-| 0x0a50000b | 6         | 0.19%   |
-| 0x06006704 | 6         | 0.19%   |
-| 0x106e5    | 5         | 0.16%   |
-| 0x07030106 | 5         | 0.16%   |
-| 0x06003106 | 5         | 0.16%   |
-| 0xa0660    | 4         | 0.13%   |
-| 0x906c0    | 4         | 0.13%   |
-| 0x806c2    | 4         | 0.13%   |
-| 0x6fa      | 4         | 0.13%   |
+| Unknown    | 732       | 22.21%  |
+| 0x1067a    | 375       | 11.38%  |
+| 0x306d4    | 217       | 6.58%   |
+| 0x206a7    | 151       | 4.58%   |
+| 0x306a9    | 136       | 4.13%   |
+| 0x806ec    | 123       | 3.73%   |
+| 0x30678    | 104       | 3.16%   |
+| 0x806e9    | 96        | 2.91%   |
+| 0x806ea    | 93        | 2.82%   |
+| 0x806c1    | 83        | 2.52%   |
+| 0x40651    | 79        | 2.4%    |
+| 0x406e3    | 71        | 2.15%   |
+| 0x6f6      | 61        | 1.85%   |
+| 0x906ea    | 56        | 1.7%    |
+| 0x306c3    | 52        | 1.58%   |
+| 0x20655    | 46        | 1.4%    |
+| 0x10676    | 37        | 1.12%   |
+| 0xa0652    | 35        | 1.06%   |
+| 0x08108109 | 35        | 1.06%   |
+| 0x08108102 | 34        | 1.03%   |
+| 0x906eb    | 33        | 1%      |
+| 0x706e5    | 30        | 0.91%   |
+| 0x08600106 | 30        | 0.91%   |
+| 0x6fd      | 27        | 0.82%   |
+| 0x106c2    | 27        | 0.82%   |
+| 0x806eb    | 26        | 0.79%   |
+| 0x906e9    | 25        | 0.76%   |
+| 0x0600611a | 25        | 0.76%   |
+| 0x106ca    | 24        | 0.73%   |
+| 0x6d8      | 23        | 0.7%    |
+| 0x20652    | 21        | 0.64%   |
+| 0x0a50000c | 21        | 0.64%   |
+| 0x08608103 | 21        | 0.64%   |
+| 0x406c4    | 20        | 0.61%   |
+| 0x506e3    | 19        | 0.58%   |
+| 0x06006705 | 19        | 0.58%   |
+| 0x406c3    | 15        | 0.46%   |
+| 0x706a8    | 14        | 0.42%   |
+| 0x506c9    | 14        | 0.42%   |
+| 0x0810100b | 13        | 0.39%   |
+| 0x05000119 | 13        | 0.39%   |
+| 0x906ed    | 11        | 0.33%   |
+| 0x6fb      | 11        | 0.33%   |
+| 0x08600103 | 11        | 0.33%   |
+| 0x706a1    | 10        | 0.3%    |
+| 0x08600104 | 10        | 0.3%    |
+| 0x6e8      | 9         | 0.27%   |
+| 0xf29      | 8         | 0.24%   |
+| 0x07030105 | 8         | 0.24%   |
+| 0x03000027 | 8         | 0.24%   |
+| 0x806d1    | 6         | 0.18%   |
+| 0x0a50000b | 6         | 0.18%   |
+| 0x06006704 | 6         | 0.18%   |
+| 0x6fa      | 5         | 0.15%   |
+| 0x106e5    | 5         | 0.15%   |
+| 0x07030106 | 5         | 0.15%   |
+| 0x0700010f | 5         | 0.15%   |
+| 0x06003106 | 5         | 0.15%   |
+| 0xa0660    | 4         | 0.12%   |
+| 0x906c0    | 4         | 0.12%   |
 
 CPU Microarch
 -------------
@@ -5144,43 +5143,44 @@ Microarchitecture
 ![CPU Microarch](./images/pie_chart/cpu_microarch.svg)
 
 
-| Name            | Notebooks | Percent |
-|-----------------|-----------|---------|
-| KabyLake        | 594       | 19.05%  |
-| Penryn          | 437       | 14.02%  |
-| Broadwell       | 234       | 7.5%    |
-| SandyBridge     | 201       | 6.45%   |
-| IvyBridge       | 199       | 6.38%   |
-| Haswell         | 176       | 5.64%   |
-| Silvermont      | 156       | 5%      |
-| Skylake         | 132       | 4.23%   |
-| Core            | 119       | 3.82%   |
-| TigerLake       | 98        | 3.14%   |
-| Westmere        | 89        | 2.85%   |
-| Zen+            | 84        | 2.69%   |
-| Bonnell         | 67        | 2.15%   |
-| Zen 2           | 62        | 1.99%   |
-| Excavator       | 61        | 1.96%   |
-| CometLake       | 46        | 1.48%   |
-| P6              | 44        | 1.41%   |
-| IceLake         | 39        | 1.25%   |
-| Unknown         | 38        | 1.22%   |
-| Goldmont plus   | 29        | 0.93%   |
-| Zen             | 27        | 0.87%   |
-| Bobcat          | 27        | 0.87%   |
-| Zen 3           | 26        | 0.83%   |
-| Goldmont        | 21        | 0.67%   |
-| Puma            | 20        | 0.64%   |
-| K8 Hammer       | 15        | 0.48%   |
-| K10 Llano       | 13        | 0.42%   |
-| NetBurst        | 12        | 0.38%   |
-| Jaguar          | 12        | 0.38%   |
-| Nehalem         | 10        | 0.32%   |
-| Piledriver      | 9         | 0.29%   |
-| K10             | 7         | 0.22%   |
-| Steamroller     | 6         | 0.19%   |
-| Tremont         | 4         | 0.13%   |
-| K8 & K10 hybrid | 4         | 0.13%   |
+| Name             | Notebooks | Percent |
+|------------------|-----------|---------|
+| KabyLake         | 622       | 19.27%  |
+| Penryn           | 442       | 13.7%   |
+| Broadwell        | 240       | 7.44%   |
+| SandyBridge      | 207       | 6.41%   |
+| IvyBridge        | 202       | 6.26%   |
+| Haswell          | 185       | 5.73%   |
+| Silvermont       | 158       | 4.9%    |
+| Skylake          | 139       | 4.31%   |
+| Core             | 122       | 3.78%   |
+| TigerLake        | 106       | 3.28%   |
+| Westmere         | 94        | 2.91%   |
+| Zen+             | 86        | 2.67%   |
+| Zen 2            | 67        | 2.08%   |
+| Bonnell          | 66        | 2.05%   |
+| Excavator        | 63        | 1.95%   |
+| CometLake        | 51        | 1.58%   |
+| P6               | 47        | 1.46%   |
+| Unknown          | 40        | 1.24%   |
+| IceLake          | 39        | 1.21%   |
+| Goldmont plus    | 30        | 0.93%   |
+| Zen 3            | 28        | 0.87%   |
+| Zen              | 28        | 0.87%   |
+| Bobcat           | 27        | 0.84%   |
+| Goldmont         | 22        | 0.68%   |
+| Puma             | 20        | 0.62%   |
+| K8 Hammer        | 15        | 0.46%   |
+| K10 Llano        | 14        | 0.43%   |
+| Jaguar           | 13        | 0.4%    |
+| NetBurst         | 12        | 0.37%   |
+| Nehalem          | 10        | 0.31%   |
+| Piledriver       | 9         | 0.28%   |
+| K10              | 7         | 0.22%   |
+| Steamroller      | 6         | 0.19%   |
+| Tremont          | 4         | 0.12%   |
+| K8 & K10 hybrid  | 4         | 0.12%   |
+| Alderlake Hybrid | 2         | 0.06%   |
 
 Graphics
 --------
@@ -5195,9 +5195,9 @@ Vendors of graphics cards
 
 | Vendor                           | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| Intel                            | 2223      | 59.79%  |
-| Nvidia                           | 909       | 24.45%  |
-| AMD                              | 577       | 15.52%  |
+| Intel                            | 2307      | 59.92%  |
+| Nvidia                           | 935       | 24.29%  |
+| AMD                              | 599       | 15.56%  |
 | Silicon Integrated Systems [SiS] | 5         | 0.13%   |
 | S3 Graphics                      | 2         | 0.05%   |
 | VIA Technologies                 | 1         | 0.03%   |
@@ -5213,66 +5213,66 @@ Graphics card models
 
 | Model                                                                                    | Notebooks | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
-| Nvidia C79 [GeForce 9400M G]                                                             | 304       | 7.77%   |
-| Intel 3rd Gen Core processor Graphics Controller                                         | 185       | 4.73%   |
-| Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 180       | 4.6%    |
-| Intel HD Graphics 6000                                                                   | 145       | 3.71%   |
-| Intel UHD Graphics 620                                                                   | 141       | 3.6%    |
-| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 113       | 2.89%   |
-| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 105       | 2.68%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 101       | 2.58%   |
-| Intel HD Graphics 620                                                                    | 99        | 2.53%   |
-| Intel Haswell-ULT Integrated Graphics Controller                                         | 99        | 2.53%   |
-| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller            | 95        | 2.43%   |
-| Intel TigerLake-LP GT2 [Iris Xe Graphics]                                                | 91        | 2.33%   |
-| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 85        | 2.17%   |
-| Intel HD Graphics 5500                                                                   | 82        | 2.1%    |
-| Intel CometLake-U GT2 [UHD Graphics]                                                     | 75        | 1.92%   |
-| Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 74        | 1.89%   |
-| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller                | 68        | 1.74%   |
-| Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 66        | 1.69%   |
-| Intel Core Processor Integrated Graphics Controller                                      | 65        | 1.66%   |
-| Intel 4th Gen Core Processor Integrated Graphics Controller                              | 63        | 1.61%   |
-| Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 62        | 1.58%   |
-| Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 62        | 1.58%   |
-| AMD Renoir                                                                               | 62        | 1.58%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 42        | 1.07%   |
-| Intel CometLake-H GT2 [UHD Graphics]                                                     | 37        | 0.95%   |
-| AMD Wani [Radeon R5/R6/R7 Graphics]                                                      | 36        | 0.92%   |
-| Intel HD Graphics 630                                                                    | 34        | 0.87%   |
-| AMD Topaz XT [Radeon R7 M260/M265 / M340/M360 / M440/M445 / 530/535 / 620/625 Mobile]    | 34        | 0.87%   |
-| Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 31        | 0.79%   |
-| Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 29        | 0.74%   |
-| Intel Mobile 945GSE Express Integrated Graphics Controller                               | 27        | 0.69%   |
-| Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 26        | 0.66%   |
-| Intel GeminiLake [UHD Graphics 600]                                                      | 26        | 0.66%   |
-| AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                                 | 25        | 0.64%   |
-| AMD Cezanne                                                                              | 25        | 0.64%   |
-| Nvidia GP108M [GeForce MX150]                                                            | 24        | 0.61%   |
-| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 24        | 0.61%   |
-| Intel HD Graphics 530                                                                    | 23        | 0.59%   |
-| Intel Iris Plus Graphics G1 (Ice Lake)                                                   | 22        | 0.56%   |
-| AMD Lucienne                                                                             | 22        | 0.56%   |
-| Nvidia TU106M [GeForce RTX 2060 Mobile]                                                  | 21        | 0.54%   |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                                     | 20        | 0.51%   |
-| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 20        | 0.51%   |
-| AMD Seymour [Radeon HD 6400M/7400M Series]                                               | 19        | 0.49%   |
-| Nvidia GM107M [GeForce GTX 950M]                                                         | 18        | 0.46%   |
-| AMD Sun XT [Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile]            | 18        | 0.46%   |
-| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 17        | 0.43%   |
-| Intel Mobile 915GM/GMS/910GML Express Graphics Controller                                | 17        | 0.43%   |
-| Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                                               | 16        | 0.41%   |
-| Nvidia GM108M [GeForce 940MX]                                                            | 16        | 0.41%   |
-| Nvidia GM108M [GeForce 840M]                                                             | 16        | 0.41%   |
-| Intel HD Graphics 500                                                                    | 15        | 0.38%   |
-| AMD Mullins [Radeon R4/R5 Graphics]                                                      | 15        | 0.38%   |
-| Nvidia GK208BM [GeForce 920M]                                                            | 14        | 0.36%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                               | 14        | 0.36%   |
-| Nvidia GP108M [GeForce MX250]                                                            | 13        | 0.33%   |
-| Nvidia TU117M [GeForce GTX 1650 Ti Mobile]                                               | 12        | 0.31%   |
-| Nvidia TU117M                                                                            | 12        | 0.31%   |
-| Nvidia GM107M [GeForce GTX 960M]                                                         | 12        | 0.31%   |
-| Nvidia GK208M [GeForce GT 740M]                                                          | 12        | 0.31%   |
+| Nvidia C79 [GeForce 9400M G]                                                             | 304       | 7.51%   |
+| Intel 3rd Gen Core processor Graphics Controller                                         | 188       | 4.65%   |
+| Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 186       | 4.6%    |
+| Intel HD Graphics 6000                                                                   | 145       | 3.58%   |
+| Intel UHD Graphics 620                                                                   | 144       | 3.56%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 114       | 2.82%   |
+| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 108       | 2.67%   |
+| Intel Haswell-ULT Integrated Graphics Controller                                         | 106       | 2.62%   |
+| Intel Skylake GT2 [HD Graphics 520]                                                      | 104       | 2.57%   |
+| Intel HD Graphics 620                                                                    | 104       | 2.57%   |
+| Intel TigerLake-LP GT2 [Iris Xe Graphics]                                                | 98        | 2.42%   |
+| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller            | 96        | 2.37%   |
+| Intel HD Graphics 5500                                                                   | 88        | 2.17%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 87        | 2.15%   |
+| Intel CometLake-U GT2 [UHD Graphics]                                                     | 77        | 1.9%    |
+| Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 75        | 1.85%   |
+| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller                | 69        | 1.7%    |
+| Intel Core Processor Integrated Graphics Controller                                      | 69        | 1.7%    |
+| Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 67        | 1.66%   |
+| AMD Renoir                                                                               | 66        | 1.63%   |
+| Intel 4th Gen Core Processor Integrated Graphics Controller                              | 65        | 1.61%   |
+| Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 63        | 1.56%   |
+| Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 63        | 1.56%   |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 43        | 1.06%   |
+| Intel CometLake-H GT2 [UHD Graphics]                                                     | 40        | 0.99%   |
+| AMD Wani [Radeon R5/R6/R7 Graphics]                                                      | 36        | 0.89%   |
+| Intel HD Graphics 630                                                                    | 34        | 0.84%   |
+| AMD Topaz XT [Radeon R7 M260/M265 / M340/M360 / M440/M445 / 530/535 / 620/625 Mobile]    | 34        | 0.84%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 33        | 0.82%   |
+| Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 31        | 0.77%   |
+| Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 29        | 0.72%   |
+| Intel Mobile 945GSE Express Integrated Graphics Controller                               | 27        | 0.67%   |
+| Intel HD Graphics 530                                                                    | 27        | 0.67%   |
+| Intel GeminiLake [UHD Graphics 600]                                                      | 27        | 0.67%   |
+| AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                                 | 27        | 0.67%   |
+| AMD Cezanne                                                                              | 27        | 0.67%   |
+| Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 26        | 0.64%   |
+| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 25        | 0.62%   |
+| Nvidia GP108M [GeForce MX150]                                                            | 24        | 0.59%   |
+| Intel Iris Plus Graphics G1 (Ice Lake)                                                   | 23        | 0.57%   |
+| AMD Lucienne                                                                             | 23        | 0.57%   |
+| Nvidia TU106M [GeForce RTX 2060 Mobile]                                                  | 22        | 0.54%   |
+| Intel Kaby Lake-U GT1 Integrated Graphics Controller                                     | 20        | 0.49%   |
+| AMD Seymour [Radeon HD 6400M/7400M Series]                                               | 20        | 0.49%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 19        | 0.47%   |
+| Nvidia GM107M [GeForce GTX 950M]                                                         | 19        | 0.47%   |
+| AMD Sun XT [Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile]            | 19        | 0.47%   |
+| Nvidia GM108M [GeForce 840M]                                                             | 18        | 0.44%   |
+| Intel Mobile 915GM/GMS/910GML Express Graphics Controller                                | 18        | 0.44%   |
+| Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                                               | 17        | 0.42%   |
+| Nvidia GM108M [GeForce 940MX]                                                            | 17        | 0.42%   |
+| Intel HD Graphics 500                                                                    | 16        | 0.4%    |
+| AMD Mullins [Radeon R4/R5 Graphics]                                                      | 15        | 0.37%   |
+| Nvidia GK208BM [GeForce 920M]                                                            | 14        | 0.35%   |
+| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                               | 14        | 0.35%   |
+| Nvidia TU117M                                                                            | 13        | 0.32%   |
+| Nvidia GP108M [GeForce MX250]                                                            | 13        | 0.32%   |
+| AMD Thames [Radeon HD 7500M/7600M Series]                                                | 13        | 0.32%   |
+| Nvidia TU117M [GeForce GTX 1650 Ti Mobile]                                               | 12        | 0.3%    |
+| Nvidia GM107M [GeForce GTX 960M]                                                         | 12        | 0.3%    |
 
 GPU Combo
 ---------
@@ -5284,15 +5284,15 @@ Combinations of graphics cards
 
 | Name               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| 1 x Intel          | 1644      | 52.62%  |
-| Intel + Nvidia     | 463       | 14.82%  |
-| 1 x Nvidia         | 415       | 13.28%  |
-| 1 x AMD            | 401       | 12.84%  |
-| Intel + AMD        | 112       | 3.59%   |
-| 2 x AMD            | 34        | 1.09%   |
-| AMD + Nvidia       | 30        | 0.96%   |
-| Other              | 13        | 0.42%   |
-| 1 x SiS            | 5         | 0.16%   |
+| 1 x Intel          | 1710      | 52.89%  |
+| Intel + Nvidia     | 477       | 14.75%  |
+| 1 x Nvidia         | 422       | 13.05%  |
+| 1 x AMD            | 413       | 12.77%  |
+| Intel + AMD        | 116       | 3.59%   |
+| 2 x AMD            | 35        | 1.08%   |
+| AMD + Nvidia       | 35        | 1.08%   |
+| Other              | 13        | 0.4%    |
+| 1 x SiS            | 5         | 0.15%   |
 | 1 x S3 Graphics    | 2         | 0.06%   |
 | Intel + 2 x Nvidia | 2         | 0.06%   |
 | 2 x Nvidia         | 1         | 0.03%   |
@@ -5309,9 +5309,9 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 2762      | 87.93%  |
-| Proprietary | 214       | 6.81%   |
-| Unknown     | 165       | 5.25%   |
+| Free        | 2840      | 87.38%  |
+| Proprietary | 226       | 6.95%   |
+| Unknown     | 184       | 5.66%   |
 
 GPU Memory
 ----------
@@ -5323,14 +5323,15 @@ Total video memory
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 2246      | 71.23%  |
-| 0.01-0.5   | 544       | 17.25%  |
-| 1.01-2.0   | 162       | 5.14%   |
-| 0.51-1.0   | 90        | 2.85%   |
-| 3.01-4.0   | 86        | 2.73%   |
-| 5.01-6.0   | 12        | 0.38%   |
-| 7.01-8.0   | 10        | 0.32%   |
-| 2.01-3.0   | 3         | 0.1%    |
+| Unknown    | 2332      | 71.42%  |
+| 0.01-0.5   | 556       | 17.03%  |
+| 1.01-2.0   | 170       | 5.21%   |
+| 0.51-1.0   | 91        | 2.79%   |
+| 3.01-4.0   | 88        | 2.7%    |
+| 5.01-6.0   | 14        | 0.43%   |
+| 7.01-8.0   | 10        | 0.31%   |
+| 2.01-3.0   | 3         | 0.09%   |
+| 8.01-16.0  | 1         | 0.03%   |
 
 Monitor
 -------
@@ -5345,47 +5346,49 @@ Monitor vendors
 
 | Vendor                  | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| AU Optronics            | 570       | 16.8%   |
-| Apple                   | 565       | 16.66%  |
-| BOE                     | 421       | 12.41%  |
-| LG Display              | 392       | 11.56%  |
-| Chimei Innolux          | 350       | 10.32%  |
-| Samsung Electronics     | 276       | 8.14%   |
-| Dell                    | 89        | 2.62%   |
-| Lenovo                  | 85        | 2.51%   |
-| Goldstar                | 68        | 2%      |
-| Sharp                   | 66        | 1.95%   |
-| Chi Mei Optoelectronics | 58        | 1.71%   |
-| InfoVision              | 37        | 1.09%   |
-| Hewlett-Packard         | 37        | 1.09%   |
-| Philips                 | 31        | 0.91%   |
-| BenQ                    | 29        | 0.85%   |
-| HannStar                | 27        | 0.8%    |
-| PANDA                   | 25        | 0.74%   |
-| LG Philips              | 22        | 0.65%   |
-| AOC                     | 21        | 0.62%   |
-| Iiyama                  | 20        | 0.59%   |
-| Ancor Communications    | 20        | 0.59%   |
-| Acer                    | 19        | 0.56%   |
-| Sony                    | 15        | 0.44%   |
-| CSO                     | 14        | 0.41%   |
-| CPT                     | 13        | 0.38%   |
-| Unknown                 | 12        | 0.35%   |
-| ViewSonic               | 9         | 0.27%   |
-| Eizo                    | 7         | 0.21%   |
-| ASUSTek Computer        | 7         | 0.21%   |
-| NEC Computers           | 6         | 0.18%   |
-| Quanta Display          | 5         | 0.15%   |
-| Panasonic               | 5         | 0.15%   |
-| InnoLux Display         | 4         | 0.12%   |
+| AU Optronics            | 584       | 16.68%  |
+| Apple                   | 567       | 16.19%  |
+| BOE                     | 437       | 12.48%  |
+| LG Display              | 413       | 11.79%  |
+| Chimei Innolux          | 368       | 10.51%  |
+| Samsung Electronics     | 285       | 8.14%   |
+| Dell                    | 93        | 2.66%   |
+| Lenovo                  | 87        | 2.48%   |
+| Goldstar                | 73        | 2.08%   |
+| Sharp                   | 67        | 1.91%   |
+| Chi Mei Optoelectronics | 61        | 1.74%   |
+| Hewlett-Packard         | 38        | 1.09%   |
+| InfoVision              | 37        | 1.06%   |
+| Philips                 | 31        | 0.89%   |
+| BenQ                    | 29        | 0.83%   |
+| HannStar                | 27        | 0.77%   |
+| PANDA                   | 25        | 0.71%   |
+| LG Philips              | 23        | 0.66%   |
+| Iiyama                  | 22        | 0.63%   |
+| AOC                     | 22        | 0.63%   |
+| Ancor Communications    | 22        | 0.63%   |
+| Acer                    | 19        | 0.54%   |
+| Sony                    | 15        | 0.43%   |
+| Unknown                 | 14        | 0.4%    |
+| CSO                     | 14        | 0.4%    |
+| CPT                     | 13        | 0.37%   |
+| ViewSonic               | 10        | 0.29%   |
+| Eizo                    | 7         | 0.2%    |
+| ASUSTek Computer        | 7         | 0.2%    |
+| Panasonic               | 6         | 0.17%   |
+| NEC Computers           | 6         | 0.17%   |
+| Quanta Display          | 5         | 0.14%   |
+| InnoLux Display         | 4         | 0.11%   |
 | Toshiba                 | 3         | 0.09%   |
+| MSI                     | 3         | 0.09%   |
 | LGD                     | 3         | 0.09%   |
 | Fujitsu Siemens         | 3         | 0.09%   |
 | ___                     | 2         | 0.06%   |
-| MSI                     | 2         | 0.06%   |
+| LPL                     | 2         | 0.06%   |
 | Grundig                 | 2         | 0.06%   |
 | Denver                  | 2         | 0.06%   |
 | CMN                     | 2         | 0.06%   |
+| Unknown                 | 2         | 0.06%   |
 | Xiaomi                  | 1         | 0.03%   |
 | Wacom                   | 1         | 0.03%   |
 | Vizio                   | 1         | 0.03%   |
@@ -5401,10 +5404,8 @@ Monitor vendors
 | RTK                     | 1         | 0.03%   |
 | REG                     | 1         | 0.03%   |
 | PVT                     | 1         | 0.03%   |
+| Pixio                   | 1         | 0.03%   |
 | PHA                     | 1         | 0.03%   |
-| Packard Bell            | 1         | 0.03%   |
-| Olevia                  | 1         | 0.03%   |
-| NECCI                   | 1         | 0.03%   |
 
 Monitor Model
 -------------
@@ -5416,66 +5417,66 @@ Monitor models
 
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| Apple Color LCD APP9C5B 1280x800 286x179mm 13.3-inch                      | 200       | 5.83%   |
-| Apple LCD Monitor APP9C5F 1280x800 286x179mm 13.3-inch                    | 150       | 4.37%   |
-| BOE LCD Monitor BOE0609 1366x768 256x144mm 11.6-inch                      | 49        | 1.43%   |
-| Apple Color LCD APP9CDF 1440x900 286x179mm 13.3-inch                      | 42        | 1.22%   |
-| Apple Color LCD APP9CF3 1366x768 260x140mm 11.6-inch                      | 40        | 1.17%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch            | 36        | 1.05%   |
-| Apple Color LCD APP9CF2 1366x768 256x144mm 11.6-inch                      | 35        | 1.02%   |
-| BOE LCD Monitor BOE06B3 1366x768 309x173mm 13.9-inch                      | 28        | 0.82%   |
-| Apple Color LCD APP9CF0 1440x900 290x180mm 13.4-inch                      | 24        | 0.7%    |
-| Apple Color LCD APP9C5C 1280x800 286x179mm 13.3-inch                      | 21        | 0.61%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch      | 19        | 0.55%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                  | 19        | 0.55%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 19        | 0.55%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch             | 19        | 0.55%   |
-| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch          | 18        | 0.52%   |
-| AU Optronics LCD Monitor AUO235C 1366x768 256x144mm 11.6-inch             | 18        | 0.52%   |
-| Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch           | 17        | 0.5%    |
-| Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch           | 16        | 0.47%   |
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch               | 15        | 0.44%   |
-| AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch             | 14        | 0.41%   |
-| Apple Color LCD APP9C5E 1280x800 286x178mm 13.3-inch                      | 14        | 0.41%   |
-| Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch          | 13        | 0.38%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch            | 13        | 0.38%   |
-| LG Display LCD Monitor LGD02D8 1366x768 277x156mm 12.5-inch               | 12        | 0.35%   |
-| BOE LCD Monitor BOE0687 1920x1080 344x193mm 15.5-inch                     | 12        | 0.35%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch            | 12        | 0.35%   |
-| BOE LCD Monitor BOE06CF 1366x768 277x156mm 12.5-inch                      | 11        | 0.32%   |
-| AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch             | 11        | 0.32%   |
-| AU Optronics LCD Monitor AUO133D 1920x1080 309x173mm 13.9-inch            | 11        | 0.32%   |
-| Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 10        | 0.29%   |
-| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch          | 10        | 0.29%   |
-| AU Optronics LCD Monitor AUO71EC 1366x768 344x193mm 15.5-inch             | 10        | 0.29%   |
-| AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch             | 10        | 0.29%   |
-| Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch                 | 9         | 0.26%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                    | 9         | 0.26%   |
-| AU Optronics LCD Monitor AUO183C 1366x768 309x173mm 13.9-inch             | 9         | 0.26%   |
-| AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch             | 9         | 0.26%   |
+| Apple Color LCD APP9C5B 1280x800 286x179mm 13.3-inch                      | 200       | 5.65%   |
+| Apple LCD Monitor APP9C5F 1280x800 286x179mm 13.3-inch                    | 151       | 4.27%   |
+| BOE LCD Monitor BOE0609 1366x768 256x144mm 11.6-inch                      | 49        | 1.38%   |
+| Apple Color LCD APP9CDF 1440x900 286x179mm 13.3-inch                      | 42        | 1.19%   |
+| Apple Color LCD APP9CF3 1366x768 260x140mm 11.6-inch                      | 40        | 1.13%   |
+| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch            | 36        | 1.02%   |
+| Apple Color LCD APP9CF2 1366x768 256x144mm 11.6-inch                      | 35        | 0.99%   |
+| BOE LCD Monitor BOE06B3 1920x1080                                         | 28        | 0.79%   |
+| Apple Color LCD APP9CF0 1440x900 290x180mm 13.4-inch                      | 24        | 0.68%   |
+| Apple Color LCD APP9C5C 1280x800 286x179mm 13.3-inch                      | 21        | 0.59%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch      | 20        | 0.56%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 20        | 0.56%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch             | 20        | 0.56%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                 | 19        | 0.54%   |
+| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch          | 19        | 0.54%   |
+| Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch           | 18        | 0.51%   |
+| Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch           | 18        | 0.51%   |
+| AU Optronics LCD Monitor AUO235C 1366x768 256x144mm 11.6-inch             | 18        | 0.51%   |
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch               | 16        | 0.45%   |
+| AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch             | 14        | 0.4%    |
+| Apple Color LCD APP9C5E 1280x800 286x178mm 13.3-inch                      | 14        | 0.4%    |
+| Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch          | 13        | 0.37%   |
+| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch            | 13        | 0.37%   |
+| LG Display LCD Monitor LGD02D8 1366x768 277x156mm 12.5-inch               | 12        | 0.34%   |
+| BOE LCD Monitor BOE0687 1920x1080 344x193mm 15.5-inch                     | 12        | 0.34%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch            | 12        | 0.34%   |
+| AU Optronics LCD Monitor AUO133D 1920x1080 309x173mm 13.9-inch            | 12        | 0.34%   |
+| Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch                 | 11        | 0.31%   |
+| Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 11        | 0.31%   |
+| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch          | 11        | 0.31%   |
+| BOE LCD Monitor BOE06CF 1366x768 277x156mm 12.5-inch                      | 11        | 0.31%   |
+| AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch             | 11        | 0.31%   |
+| AU Optronics LCD Monitor AUO71EC 1366x768 344x193mm 15.5-inch             | 10        | 0.28%   |
+| AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch             | 10        | 0.28%   |
+| AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch             | 10        | 0.28%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                    | 9         | 0.25%   |
+| AU Optronics LCD Monitor AUO183C 1366x768 309x173mm 13.9-inch             | 9         | 0.25%   |
+| AU Optronics LCD Monitor AUO123D 1920x1080 309x173mm 13.9-inch            | 9         | 0.25%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch                  | 8         | 0.23%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 8         | 0.23%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                   | 8         | 0.23%   |
-| InfoVision LCD Monitor IVO0533 1366x768 293x164mm 13.2-inch               | 8         | 0.23%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch                  | 8         | 0.23%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                   | 8         | 0.23%   |
+| InfoVision LCD Monitor IVO0533 1366x768 293x165mm 13.2-inch               | 8         | 0.23%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                  | 8         | 0.23%   |
 | Chimei Innolux LCD Monitor CMN15C4 1920x1080 344x193mm 15.5-inch          | 8         | 0.23%   |
 | Chimei Innolux LCD Monitor CMN14F2 1920x1080 309x173mm 13.9-inch          | 8         | 0.23%   |
 | Chimei Innolux LCD Monitor CMN1490 1366x768 309x173mm 13.9-inch           | 8         | 0.23%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch           | 8         | 0.23%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 8         | 0.23%   |
+| BOE LCD Monitor BOE0718 1920x1080 309x173mm 13.9-inch                     | 8         | 0.23%   |
 | BOE LCD Monitor BOE06A9 1920x1080 344x193mm 15.5-inch                     | 8         | 0.23%   |
 | BOE LCD Monitor BOE0672 1366x768 344x194mm 15.5-inch                      | 8         | 0.23%   |
-| AU Optronics LCD Monitor AUO123D 1920x1080 309x173mm 13.9-inch            | 8         | 0.23%   |
 | Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                   | 7         | 0.2%    |
+| LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch              | 7         | 0.2%    |
 | LG Display LCD Monitor LGD0437 1920x1080 276x156mm 12.5-inch              | 7         | 0.2%    |
 | LG Display LCD Monitor LGD0362 1600x900 309x174mm 14.0-inch               | 7         | 0.2%    |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch               | 7         | 0.2%    |
+| LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch               | 7         | 0.2%    |
 | Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch                   | 7         | 0.2%    |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                   | 7         | 0.2%    |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 7         | 0.2%    |
-| Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch          | 7         | 0.2%    |
-| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch  | 7         | 0.2%    |
-| BOE LCD Monitor BOE0718 1920x1080 309x173mm 13.9-inch                     | 7         | 0.2%    |
 
 Monitor Resolution
 ------------------
@@ -5487,30 +5488,30 @@ Monitor screen resolution
 
 | Resolution         | Notebooks | Percent |
 |--------------------|-----------|---------|
-| 1920x1080 (FHD)    | 1121      | 34.86%  |
-| 1366x768 (WXGA)    | 911       | 28.33%  |
-| 1280x800 (WXGA)    | 487       | 15.14%  |
-| 1600x900 (HD+)     | 139       | 4.32%   |
-| 1440x900 (WXGA+)   | 106       | 3.3%    |
-| 3840x2160 (4K)     | 87        | 2.71%   |
-| 2560x1440 (QHD)    | 64        | 1.99%   |
-| 1920x1200 (WUXGA)  | 51        | 1.59%   |
-| 1024x600           | 50        | 1.55%   |
-| 1280x1024 (SXGA)   | 29        | 0.9%    |
-| 1680x1050 (WSXGA+) | 20        | 0.62%   |
-| 2560x1600          | 18        | 0.56%   |
-| 1360x768           | 18        | 0.56%   |
-| 1024x768 (XGA)     | 13        | 0.4%    |
-| 2560x1080          | 12        | 0.37%   |
-| 2880x1800          | 11        | 0.34%   |
-| 3440x1440          | 9         | 0.28%   |
-| 3200x1800 (QHD+)   | 9         | 0.28%   |
-| 2288x1287          | 9         | 0.28%   |
-| 3840x2400          | 7         | 0.22%   |
-| 1600x1200          | 5         | 0.16%   |
+| 1920x1080 (FHD)    | 1167      | 35.13%  |
+| 1366x768 (WXGA)    | 938       | 28.24%  |
+| 1280x800 (WXGA)    | 488       | 14.69%  |
+| 1600x900 (HD+)     | 146       | 4.39%   |
+| 1440x900 (WXGA+)   | 110       | 3.31%   |
+| 3840x2160 (4K)     | 93        | 2.8%    |
+| 2560x1440 (QHD)    | 66        | 1.99%   |
+| 1920x1200 (WUXGA)  | 56        | 1.69%   |
+| 1024x600           | 49        | 1.48%   |
+| 1280x1024 (SXGA)   | 29        | 0.87%   |
+| 1680x1050 (WSXGA+) | 21        | 0.63%   |
+| 2560x1600          | 20        | 0.6%    |
+| 1360x768           | 18        | 0.54%   |
+| 2560x1080          | 13        | 0.39%   |
+| 1024x768 (XGA)     | 13        | 0.39%   |
+| 2880x1800          | 11        | 0.33%   |
+| 2288x1287          | 11        | 0.33%   |
+| 3440x1440          | 10        | 0.3%    |
+| 3200x1800 (QHD+)   | 10        | 0.3%    |
+| 3840x2400          | 7         | 0.21%   |
+| 1600x1200          | 5         | 0.15%   |
+| Unknown            | 5         | 0.15%   |
 | 3840x1080          | 4         | 0.12%   |
 | 2160x1440          | 4         | 0.12%   |
-| Unknown            | 4         | 0.12%   |
 | 3840x1100          | 3         | 0.09%   |
 | 1280x720 (HD)      | 3         | 0.09%   |
 | 2880x1920          | 2         | 0.06%   |
@@ -5541,33 +5542,34 @@ Diagonal size in inches
 
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
-| 15      | 974       | 28.73%  |
-| 13      | 876       | 25.84%  |
-| 14      | 404       | 11.92%  |
-| 11      | 209       | 6.17%   |
-| 17      | 175       | 5.16%   |
-| 12      | 133       | 3.92%   |
-| 24      | 108       | 3.19%   |
-| 27      | 78        | 2.3%    |
-| 23      | 77        | 2.27%   |
-| 21      | 77        | 2.27%   |
-| 10      | 50        | 1.47%   |
-| 18      | 32        | 0.94%   |
-| Unknown | 31        | 0.91%   |
-| 34      | 21        | 0.62%   |
-| 19      | 21        | 0.62%   |
-| 22      | 13        | 0.38%   |
-| 16      | 13        | 0.38%   |
-| 31      | 12        | 0.35%   |
-| 25      | 12        | 0.35%   |
-| 20      | 10        | 0.29%   |
-| 142     | 9         | 0.27%   |
-| 72      | 9         | 0.27%   |
-| 32      | 7         | 0.21%   |
-| 54      | 6         | 0.18%   |
-| 40      | 6         | 0.18%   |
-| 8       | 6         | 0.18%   |
+| 15      | 1017      | 29.06%  |
+| 13      | 892       | 25.49%  |
+| 14      | 418       | 11.94%  |
+| 11      | 210       | 6%      |
+| 17      | 184       | 5.26%   |
+| 12      | 137       | 3.91%   |
+| 24      | 112       | 3.2%    |
+| 27      | 84        | 2.4%    |
+| 21      | 80        | 2.29%   |
+| 23      | 76        | 2.17%   |
+| 10      | 49        | 1.4%    |
+| 18      | 33        | 0.94%   |
+| Unknown | 33        | 0.94%   |
+| 19      | 22        | 0.63%   |
+| 34      | 21        | 0.6%    |
+| 31      | 14        | 0.4%    |
+| 25      | 13        | 0.37%   |
+| 22      | 13        | 0.37%   |
+| 16      | 13        | 0.37%   |
+| 142     | 11        | 0.31%   |
+| 20      | 11        | 0.31%   |
+| 72      | 9         | 0.26%   |
+| 32      | 7         | 0.2%    |
+| 54      | 6         | 0.17%   |
+| 40      | 6         | 0.17%   |
+| 8       | 6         | 0.17%   |
 | 84      | 3         | 0.09%   |
+| 29      | 3         | 0.09%   |
 | 52      | 2         | 0.06%   |
 | 49      | 2         | 0.06%   |
 | 48      | 2         | 0.06%   |
@@ -5577,7 +5579,6 @@ Diagonal size in inches
 | 46      | 1         | 0.03%   |
 | 39      | 1         | 0.03%   |
 | 37      | 1         | 0.03%   |
-| 29      | 1         | 0.03%   |
 | 28      | 1         | 0.03%   |
 | 26      | 1         | 0.03%   |
 | 9       | 1         | 0.03%   |
@@ -5592,19 +5593,19 @@ Physical width
 
 | Width in mm    | Notebooks | Percent |
 |----------------|-----------|---------|
-| 301-350        | 1598      | 47.53%  |
-| 201-300        | 1026      | 30.52%  |
-| 501-600        | 253       | 7.53%   |
-| 351-400        | 208       | 6.19%   |
-| 401-500        | 138       | 4.1%    |
-| Unknown        | 31        | 0.92%   |
-| 701-800        | 30        | 0.89%   |
-| 601-700        | 26        | 0.77%   |
-| 1001-1500      | 15        | 0.45%   |
-| 1501-2000      | 12        | 0.36%   |
-| More than 2000 | 9         | 0.27%   |
-| 801-900        | 8         | 0.24%   |
-| 101-200        | 7         | 0.21%   |
+| 301-350        | 1661      | 47.85%  |
+| 201-300        | 1038      | 29.9%   |
+| 501-600        | 262       | 7.55%   |
+| 351-400        | 219       | 6.31%   |
+| 401-500        | 143       | 4.12%   |
+| Unknown        | 33        | 0.95%   |
+| 601-700        | 31        | 0.89%   |
+| 701-800        | 30        | 0.86%   |
+| 1001-1500      | 15        | 0.43%   |
+| 1501-2000      | 12        | 0.35%   |
+| More than 2000 | 11        | 0.32%   |
+| 801-900        | 8         | 0.23%   |
+| 101-200        | 7         | 0.2%    |
 | 901-1000       | 1         | 0.03%   |
 
 Aspect Ratio
@@ -5617,18 +5618,19 @@ Proportional relationship between the width and the height
 
 | Ratio   | Notebooks | Percent |
 |---------|-----------|---------|
-| 16/9    | 2216      | 72.85%  |
-| 16/10   | 698       | 22.95%  |
-| 5/4     | 28        | 0.92%   |
-| 4/3     | 24        | 0.79%   |
-| 21/9    | 23        | 0.76%   |
-| 3/2     | 18        | 0.59%   |
-| Unknown | 17        | 0.56%   |
-| 1.00    | 9         | 0.3%    |
+| 16/9    | 2292      | 73.09%  |
+| 16/10   | 711       | 22.67%  |
+| 5/4     | 28        | 0.89%   |
+| 4/3     | 24        | 0.77%   |
+| 21/9    | 23        | 0.73%   |
+| Unknown | 19        | 0.61%   |
+| 3/2     | 18        | 0.57%   |
+| 1.00    | 11        | 0.35%   |
 | 32/9    | 4         | 0.13%   |
 | 3.40    | 3         | 0.1%    |
 | 3.73    | 1         | 0.03%   |
 | 3.20    | 1         | 0.03%   |
+| 2.65    | 1         | 0.03%   |
 
 Monitor Area
 ------------
@@ -5640,26 +5642,26 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 81-90          | 1060      | 31.33%  |
-| 101-110        | 976       | 28.85%  |
-| 201-250        | 218       | 6.44%   |
-| 71-80          | 217       | 6.41%   |
-| 51-60          | 212       | 6.27%   |
-| 121-130        | 141       | 4.17%   |
-| 61-70          | 129       | 3.81%   |
-| 301-350        | 79        | 2.34%   |
-| 151-200        | 52        | 1.54%   |
-| 41-50          | 50        | 1.48%   |
-| 351-500        | 44        | 1.3%    |
-| 141-150        | 44        | 1.3%    |
-| 251-300        | 42        | 1.24%   |
-| Unknown        | 31        | 0.92%   |
-| More than 1000 | 30        | 0.89%   |
-| 131-140        | 18        | 0.53%   |
-| 501-1000       | 15        | 0.44%   |
-| 91-100         | 12        | 0.35%   |
-| 1-40           | 7         | 0.21%   |
-| 111-120        | 6         | 0.18%   |
+| 81-90          | 1084      | 31.04%  |
+| 101-110        | 1019      | 29.18%  |
+| 71-80          | 223       | 6.39%   |
+| 201-250        | 222       | 6.36%   |
+| 51-60          | 213       | 6.1%    |
+| 121-130        | 148       | 4.24%   |
+| 61-70          | 133       | 3.81%   |
+| 301-350        | 85        | 2.43%   |
+| 151-200        | 54        | 1.55%   |
+| 41-50          | 49        | 1.4%    |
+| 351-500        | 47        | 1.35%   |
+| 251-300        | 45        | 1.29%   |
+| 141-150        | 45        | 1.29%   |
+| Unknown        | 33        | 0.95%   |
+| More than 1000 | 32        | 0.92%   |
+| 131-140        | 20        | 0.57%   |
+| 501-1000       | 15        | 0.43%   |
+| 91-100         | 12        | 0.34%   |
+| 1-40           | 7         | 0.2%    |
+| 111-120        | 6         | 0.17%   |
 
 Pixel Density
 -------------
@@ -5671,13 +5673,13 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 121-160       | 1334      | 40.24%  |
-| 101-120       | 1230      | 37.1%   |
-| 51-100        | 450       | 13.57%  |
-| 161-240       | 172       | 5.19%   |
-| More than 240 | 61        | 1.84%   |
-| 1-50          | 37        | 1.12%   |
-| Unknown       | 31        | 0.94%   |
+| 121-160       | 1380      | 40.34%  |
+| 101-120       | 1257      | 36.74%  |
+| 51-100        | 467       | 13.65%  |
+| 161-240       | 181       | 5.29%   |
+| More than 240 | 64        | 1.87%   |
+| 1-50          | 39        | 1.14%   |
+| Unknown       | 33        | 0.96%   |
 
 Multiple Monitors
 -----------------
@@ -5689,10 +5691,10 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 2520      | 79.32%  |
-| 2     | 446       | 14.04%  |
-| 0     | 163       | 5.13%   |
-| 3     | 46        | 1.45%   |
+| 1     | 2592      | 78.88%  |
+| 2     | 467       | 14.21%  |
+| 0     | 179       | 5.45%   |
+| 3     | 46        | 1.4%    |
 | 5     | 1         | 0.03%   |
 | 4     | 1         | 0.03%   |
 
@@ -5709,40 +5711,41 @@ Controller vendors
 
 | Vendor                            | Notebooks | Percent |
 |-----------------------------------|-----------|---------|
-| Intel                             | 1435      | 28.47%  |
-| Realtek Semiconductor             | 1278      | 25.36%  |
-| Qualcomm Atheros                  | 724       | 14.37%  |
-| Broadcom                          | 559       | 11.09%  |
-| Nvidia                            | 319       | 6.33%   |
-| Broadcom Limited                  | 212       | 4.21%   |
-| Marvell Technology Group          | 133       | 2.64%   |
-| Ralink                            | 41        | 0.81%   |
-| TP-Link                           | 29        | 0.58%   |
-| MEDIATEK                          | 24        | 0.48%   |
-| JMicron Technology                | 23        | 0.46%   |
-| Dell                              | 23        | 0.46%   |
-| Lenovo                            | 21        | 0.42%   |
-| Ericsson Business Mobile Networks | 17        | 0.34%   |
-| ASIX Electronics                  | 16        | 0.32%   |
-| Sierra Wireless                   | 15        | 0.3%    |
-| Samsung Electronics               | 14        | 0.28%   |
-| Ralink Technology                 | 14        | 0.28%   |
-| Huawei Technologies               | 12        | 0.24%   |
-| Fibocom                           | 11        | 0.22%   |
-| DisplayLink                       | 10        | 0.2%    |
-| Xiaomi                            | 9         | 0.18%   |
-| Qualcomm Atheros Communications   | 8         | 0.16%   |
-| Hewlett-Packard                   | 8         | 0.16%   |
-| Silicon Integrated Systems [SiS]  | 7         | 0.14%   |
-| Qualcomm                          | 6         | 0.12%   |
+| Intel                             | 1508      | 28.82%  |
+| Realtek Semiconductor             | 1340      | 25.61%  |
+| Qualcomm Atheros                  | 744       | 14.22%  |
+| Broadcom                          | 567       | 10.84%  |
+| Nvidia                            | 319       | 6.1%    |
+| Broadcom Limited                  | 213       | 4.07%   |
+| Marvell Technology Group          | 136       | 2.6%    |
+| Ralink                            | 46        | 0.88%   |
+| TP-Link                           | 29        | 0.55%   |
+| MEDIATEK                          | 27        | 0.52%   |
+| Lenovo                            | 24        | 0.46%   |
+| JMicron Technology                | 24        | 0.46%   |
+| Dell                              | 24        | 0.46%   |
+| Sierra Wireless                   | 18        | 0.34%   |
+| Ericsson Business Mobile Networks | 17        | 0.32%   |
+| ASIX Electronics                  | 17        | 0.32%   |
+| Ralink Technology                 | 15        | 0.29%   |
+| Samsung Electronics               | 14        | 0.27%   |
+| Huawei Technologies               | 12        | 0.23%   |
+| Fibocom                           | 11        | 0.21%   |
+| Xiaomi                            | 10        | 0.19%   |
+| DisplayLink                       | 10        | 0.19%   |
+| Hewlett-Packard                   | 9         | 0.17%   |
+| Silicon Integrated Systems [SiS]  | 8         | 0.15%   |
+| Qualcomm Atheros Communications   | 8         | 0.15%   |
+| Qualcomm                          | 7         | 0.13%   |
+| Cypress Semiconductor             | 5         | 0.1%    |
 | Attansic Technology               | 5         | 0.1%    |
+| NetGear                           | 4         | 0.08%   |
 | ICS Advent                        | 4         | 0.08%   |
-| Cypress Semiconductor             | 4         | 0.08%   |
 | ASUSTek Computer                  | 4         | 0.08%   |
 | U-Blox                            | 3         | 0.06%   |
-| NetGear                           | 3         | 0.06%   |
 | Motorola PCS                      | 3         | 0.06%   |
 | Edimax Technology                 | 3         | 0.06%   |
+| Apple                             | 3         | 0.06%   |
 | AMD                               | 3         | 0.06%   |
 | 3Com                              | 3         | 0.06%   |
 | ULi Electronics                   | 2         | 0.04%   |
@@ -5754,14 +5757,13 @@ Controller vendors
 | LSI                               | 2         | 0.04%   |
 | D-Link                            | 2         | 0.04%   |
 | Belkin Components                 | 2         | 0.04%   |
-| Apple                             | 2         | 0.04%   |
 | ZyXEL Communications              | 1         | 0.02%   |
 | Z-Com                             | 1         | 0.02%   |
 | Winbond Electronics               | 1         | 0.02%   |
 | Wilocity                          | 1         | 0.02%   |
 | Sigma Designs                     | 1         | 0.02%   |
 | Quectel Wireless Solutions        | 1         | 0.02%   |
-| OnePlus                           | 1         | 0.02%   |
+| OnePlus Technology (Shenzhen)     | 1         | 0.02%   |
 | Microsoft                         | 1         | 0.02%   |
 | LG Electronics                    | 1         | 0.02%   |
 | HTC (High Tech Computer)          | 1         | 0.02%   |
@@ -5780,66 +5782,66 @@ Controller models
 
 | Model                                                                                 | Notebooks | Percent |
 |---------------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                     | 799       | 13.45%  |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                                | 310       | 5.22%   |
-| Nvidia MCP79 Ethernet                                                                 | 309       | 5.2%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                                 | 247       | 4.16%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                            | 160       | 2.69%   |
-| Intel Wireless 7260                                                                   | 155       | 2.61%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                            | 148       | 2.49%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                                 | 129       | 2.17%   |
-| Intel Wireless 8265 / 8275                                                            | 122       | 2.05%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 115       | 1.94%   |
-| Intel Wi-Fi 6 AX200                                                                   | 106       | 1.78%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                                              | 101       | 1.7%    |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 89        | 1.5%    |
-| Intel Wireless 7265                                                                   | 87        | 1.46%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                          | 87        | 1.46%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                      | 81        | 1.36%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                                              | 71        | 1.2%    |
-| Intel Comet Lake PCH-LP CNVi WiFi                                                     | 67        | 1.13%   |
-| Intel Wireless 8260                                                                   | 63        | 1.06%   |
-| Intel Wi-Fi 6 AX201                                                                   | 63        | 1.06%   |
-| Intel Cannon Lake PCH CNVi WiFi                                                       | 61        | 1.03%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 57        | 0.96%   |
-| Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 57        | 0.96%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                               | 57        | 0.96%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                              | 56        | 0.94%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                            | 53        | 0.89%   |
-| Intel Ethernet Connection (4) I219-V                                                  | 46        | 0.77%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                                       | 44        | 0.74%   |
-| Intel Wireless 3165                                                                   | 42        | 0.71%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 41        | 0.69%   |
-| Intel Ethernet Connection (3) I218-LM                                                 | 39        | 0.66%   |
-| Intel Ethernet Connection I219-LM                                                     | 38        | 0.64%   |
-| Intel Ethernet Connection (4) I219-LM                                                 | 37        | 0.62%   |
-| Intel Comet Lake PCH CNVi WiFi                                                        | 36        | 0.61%   |
-| Intel 82577LM Gigabit Network Connection                                              | 36        | 0.61%   |
-| Intel Ethernet Connection I218-LM                                                     | 32        | 0.54%   |
-| Intel Ethernet Connection (6) I219-V                                                  | 32        | 0.54%   |
-| Intel Wireless-AC 9260                                                                | 30        | 0.51%   |
-| Broadcom BCM43142 802.11b/g/n                                                         | 29        | 0.49%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                                      | 28        | 0.47%   |
-| Intel Wireless 3160                                                                   | 28        | 0.47%   |
-| Intel Centrino Ultimate-N 6300                                                        | 28        | 0.47%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                                                 | 27        | 0.45%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)               | 27        | 0.45%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                       | 26        | 0.44%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 26        | 0.44%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                       | 26        | 0.44%   |
-| Intel Centrino Advanced-N 6200                                                        | 26        | 0.44%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                               | 25        | 0.42%   |
-| Broadcom BCM4321 802.11a/b/g/n                                                        | 25        | 0.42%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                         | 24        | 0.4%    |
-| Intel 82567LM Gigabit Network Connection                                              | 24        | 0.4%    |
-| Realtek RTL8723DE Wireless Network Adapter                                            | 23        | 0.39%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                            | 23        | 0.39%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 21        | 0.35%   |
-| Intel Centrino Advanced-N 6235                                                        | 21        | 0.35%   |
-| MEDIATEK MT7921 802.11ax PCI Express Wireless Network Adapter                         | 20        | 0.34%   |
-| Intel WiFi Link 5100                                                                  | 20        | 0.34%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                        | 19        | 0.32%   |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                                  | 19        | 0.32%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                     | 847       | 13.74%  |
+| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                                | 310       | 5.03%   |
+| Nvidia MCP79 Ethernet                                                                 | 309       | 5.01%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                                 | 253       | 4.1%    |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                            | 163       | 2.64%   |
+| Intel Wireless 7260                                                                   | 160       | 2.59%   |
+| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                            | 148       | 2.4%    |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                                 | 129       | 2.09%   |
+| Intel Wireless 8265 / 8275                                                            | 125       | 2.03%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 116       | 1.88%   |
+| Intel Wi-Fi 6 AX200                                                                   | 112       | 1.82%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                                              | 103       | 1.67%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 92        | 1.49%   |
+| Intel Wireless 7265                                                                   | 92        | 1.49%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                                          | 88        | 1.43%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                                      | 83        | 1.35%   |
+| Intel Cannon Lake PCH CNVi WiFi                                                       | 75        | 1.22%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                                              | 71        | 1.15%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                                     | 69        | 1.12%   |
+| Intel Wireless 8260                                                                   | 68        | 1.1%    |
+| Intel Wi-Fi 6 AX201                                                                   | 68        | 1.1%    |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 60        | 0.97%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                              | 58        | 0.94%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                               | 58        | 0.94%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                            | 57        | 0.92%   |
+| Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 57        | 0.92%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                                       | 45        | 0.73%   |
+| Intel Ethernet Connection (4) I219-V                                                  | 45        | 0.73%   |
+| Intel Wireless 3165                                                                   | 43        | 0.7%    |
+| Intel Ethernet Connection (3) I218-LM                                                 | 42        | 0.68%   |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 42        | 0.68%   |
+| Intel Ethernet Connection I219-LM                                                     | 41        | 0.66%   |
+| Intel Comet Lake PCH CNVi WiFi                                                        | 40        | 0.65%   |
+| Intel Ethernet Connection (4) I219-LM                                                 | 38        | 0.62%   |
+| Intel 82577LM Gigabit Network Connection                                              | 37        | 0.6%    |
+| Intel Ethernet Connection I218-LM                                                     | 35        | 0.57%   |
+| Intel Ethernet Connection (6) I219-V                                                  | 34        | 0.55%   |
+| Intel Wireless-AC 9260                                                                | 31        | 0.5%    |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)               | 30        | 0.49%   |
+| Broadcom BCM43142 802.11b/g/n                                                         | 30        | 0.49%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                                      | 29        | 0.47%   |
+| Intel Wireless 3160                                                                   | 29        | 0.47%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 28        | 0.45%   |
+| Intel Centrino Ultimate-N 6300                                                        | 28        | 0.45%   |
+| Intel Centrino Advanced-N 6200                                                        | 28        | 0.45%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                       | 27        | 0.44%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                                 | 27        | 0.44%   |
+| Intel 82567LM Gigabit Network Connection                                              | 27        | 0.44%   |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                       | 26        | 0.42%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                         | 25        | 0.41%   |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                               | 25        | 0.41%   |
+| Broadcom BCM4321 802.11a/b/g/n                                                        | 25        | 0.41%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                            | 24        | 0.39%   |
+| Realtek RTL8723DE Wireless Network Adapter                                            | 23        | 0.37%   |
+| MEDIATEK MT7921 802.11ax PCI Express Wireless Network Adapter                         | 23        | 0.37%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 23        | 0.37%   |
+| Intel WiFi Link 5100                                                                  | 22        | 0.36%   |
+| Intel Centrino Advanced-N 6235                                                        | 21        | 0.34%   |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                                  | 20        | 0.32%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                        | 19        | 0.31%   |
 
 Wireless Vendor
 ---------------
@@ -5851,24 +5853,24 @@ Wireless vendors
 
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
-| Intel                           | 1351      | 42.63%  |
-| Qualcomm Atheros                | 649       | 20.48%  |
-| Broadcom                        | 484       | 15.27%  |
-| Realtek Semiconductor           | 336       | 10.6%   |
-| Broadcom Limited                | 184       | 5.81%   |
-| Ralink                          | 41        | 1.29%   |
-| MEDIATEK                        | 23        | 0.73%   |
-| TP-Link                         | 17        | 0.54%   |
-| Sierra Wireless                 | 15        | 0.47%   |
-| Ralink Technology               | 14        | 0.44%   |
-| Dell                            | 11        | 0.35%   |
-| Qualcomm Atheros Communications | 8         | 0.25%   |
-| Fibocom                         | 8         | 0.25%   |
-| Qualcomm                        | 4         | 0.13%   |
-| ASUSTek Computer                | 4         | 0.13%   |
-| NetGear                         | 3         | 0.09%   |
+| Intel                           | 1421      | 43.27%  |
+| Qualcomm Atheros                | 666       | 20.28%  |
+| Broadcom                        | 488       | 14.86%  |
+| Realtek Semiconductor           | 345       | 10.51%  |
+| Broadcom Limited                | 185       | 5.63%   |
+| Ralink                          | 46        | 1.4%    |
+| MEDIATEK                        | 26        | 0.79%   |
+| Sierra Wireless                 | 18        | 0.55%   |
+| TP-Link                         | 17        | 0.52%   |
+| Ralink Technology               | 15        | 0.46%   |
+| Dell                            | 12        | 0.37%   |
+| Qualcomm Atheros Communications | 8         | 0.24%   |
+| Fibocom                         | 8         | 0.24%   |
+| Qualcomm                        | 4         | 0.12%   |
+| NetGear                         | 4         | 0.12%   |
+| ASUSTek Computer                | 4         | 0.12%   |
+| Hewlett-Packard                 | 3         | 0.09%   |
 | Edimax Technology               | 3         | 0.09%   |
-| Hewlett-Packard                 | 2         | 0.06%   |
 | Belkin Components               | 2         | 0.06%   |
 | 3Com                            | 2         | 0.06%   |
 | ZyXEL Communications            | 1         | 0.03%   |
@@ -5876,7 +5878,6 @@ Wireless vendors
 | Wilocity                        | 1         | 0.03%   |
 | Quectel Wireless Solutions      | 1         | 0.03%   |
 | Microsoft                       | 1         | 0.03%   |
-| Lenovo                          | 1         | 0.03%   |
 | D-Link System                   | 1         | 0.03%   |
 | Cinterion                       | 1         | 0.03%   |
 
@@ -5890,66 +5891,66 @@ Wireless models
 
 | Model                                                                                 | Notebooks | Percent |
 |---------------------------------------------------------------------------------------|-----------|---------|
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                                | 310       | 9.74%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                            | 160       | 5.03%   |
-| Intel Wireless 7260                                                                   | 155       | 4.87%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                            | 148       | 4.65%   |
-| Intel Wireless 8265 / 8275                                                            | 122       | 3.83%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 115       | 3.61%   |
-| Intel Wi-Fi 6 AX200                                                                   | 106       | 3.33%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 89        | 2.8%    |
-| Intel Wireless 7265                                                                   | 87        | 2.73%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                          | 87        | 2.73%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                      | 81        | 2.54%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                                              | 71        | 2.23%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                                     | 67        | 2.1%    |
-| Intel Wireless 8260                                                                   | 63        | 1.98%   |
-| Intel Wi-Fi 6 AX201                                                                   | 63        | 1.98%   |
-| Intel Cannon Lake PCH CNVi WiFi                                                       | 61        | 1.92%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 57        | 1.79%   |
-| Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 57        | 1.79%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                              | 56        | 1.76%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                            | 53        | 1.66%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                                       | 44        | 1.38%   |
-| Intel Wireless 3165                                                                   | 42        | 1.32%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 41        | 1.29%   |
-| Intel Comet Lake PCH CNVi WiFi                                                        | 36        | 1.13%   |
-| Intel Wireless-AC 9260                                                                | 30        | 0.94%   |
-| Broadcom BCM43142 802.11b/g/n                                                         | 29        | 0.91%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                                      | 28        | 0.88%   |
-| Intel Wireless 3160                                                                   | 28        | 0.88%   |
-| Intel Centrino Ultimate-N 6300                                                        | 28        | 0.88%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)               | 27        | 0.85%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                       | 26        | 0.82%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 26        | 0.82%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                       | 26        | 0.82%   |
-| Intel Centrino Advanced-N 6200                                                        | 26        | 0.82%   |
-| Broadcom BCM4321 802.11a/b/g/n                                                        | 25        | 0.79%   |
-| Realtek RTL8723DE Wireless Network Adapter                                            | 23        | 0.72%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                            | 23        | 0.72%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 21        | 0.66%   |
-| Intel Centrino Advanced-N 6235                                                        | 21        | 0.66%   |
-| MEDIATEK MT7921 802.11ax PCI Express Wireless Network Adapter                         | 20        | 0.63%   |
-| Intel WiFi Link 5100                                                                  | 20        | 0.63%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                        | 19        | 0.6%    |
-| Intel Centrino Wireless-N 2230                                                        | 19        | 0.6%    |
-| Broadcom BCM4312 802.11b/g LP-PHY                                                     | 19        | 0.6%    |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                         | 17        | 0.53%   |
-| Intel PRO/Wireless 2200BG [Calexico2] Network Connection                              | 16        | 0.5%    |
-| Intel Ice Lake-LP PCH CNVi WiFi                                                       | 15        | 0.47%   |
-| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                              | 14        | 0.44%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                             | 14        | 0.44%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                               | 13        | 0.41%   |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                                         | 13        | 0.41%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                                             | 13        | 0.41%   |
-| Broadcom BCM43228 802.11a/b/g/n                                                       | 13        | 0.41%   |
-| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                              | 12        | 0.38%   |
-| Intel Ultimate N WiFi Link 5300                                                       | 11        | 0.35%   |
-| Broadcom BCM43224 802.11a/b/g/n                                                       | 11        | 0.35%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                             | 10        | 0.31%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                                | 10        | 0.31%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                        | 9         | 0.28%   |
-| Intel Centrino Wireless-N 1000 [Condor Peak]                                          | 9         | 0.28%   |
+| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                                | 310       | 9.4%    |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                            | 163       | 4.94%   |
+| Intel Wireless 7260                                                                   | 160       | 4.85%   |
+| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                            | 148       | 4.49%   |
+| Intel Wireless 8265 / 8275                                                            | 125       | 3.79%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 116       | 3.52%   |
+| Intel Wi-Fi 6 AX200                                                                   | 112       | 3.39%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 92        | 2.79%   |
+| Intel Wireless 7265                                                                   | 92        | 2.79%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                                          | 88        | 2.67%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                                      | 83        | 2.52%   |
+| Intel Cannon Lake PCH CNVi WiFi                                                       | 75        | 2.27%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                                              | 71        | 2.15%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                                     | 69        | 2.09%   |
+| Intel Wireless 8260                                                                   | 68        | 2.06%   |
+| Intel Wi-Fi 6 AX201                                                                   | 68        | 2.06%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 60        | 1.82%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                              | 58        | 1.76%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                            | 57        | 1.73%   |
+| Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 57        | 1.73%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                                       | 45        | 1.36%   |
+| Intel Wireless 3165                                                                   | 43        | 1.3%    |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 42        | 1.27%   |
+| Intel Comet Lake PCH CNVi WiFi                                                        | 40        | 1.21%   |
+| Intel Wireless-AC 9260                                                                | 31        | 0.94%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)               | 30        | 0.91%   |
+| Broadcom BCM43142 802.11b/g/n                                                         | 30        | 0.91%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                                      | 29        | 0.88%   |
+| Intel Wireless 3160                                                                   | 29        | 0.88%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 28        | 0.85%   |
+| Intel Centrino Ultimate-N 6300                                                        | 28        | 0.85%   |
+| Intel Centrino Advanced-N 6200                                                        | 28        | 0.85%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                       | 27        | 0.82%   |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                       | 26        | 0.79%   |
+| Broadcom BCM4321 802.11a/b/g/n                                                        | 25        | 0.76%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                            | 24        | 0.73%   |
+| Realtek RTL8723DE Wireless Network Adapter                                            | 23        | 0.7%    |
+| MEDIATEK MT7921 802.11ax PCI Express Wireless Network Adapter                         | 23        | 0.7%    |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 23        | 0.7%    |
+| Intel WiFi Link 5100                                                                  | 22        | 0.67%   |
+| Intel Centrino Advanced-N 6235                                                        | 21        | 0.64%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                        | 19        | 0.58%   |
+| Intel Centrino Wireless-N 2230                                                        | 19        | 0.58%   |
+| Broadcom BCM4312 802.11b/g LP-PHY                                                     | 19        | 0.58%   |
+| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                         | 18        | 0.55%   |
+| Intel PRO/Wireless 2200BG [Calexico2] Network Connection                              | 17        | 0.52%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                             | 16        | 0.48%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                                       | 16        | 0.48%   |
+| Intel Centrino Wireless-N 1030 [Rainbow Peak]                                         | 14        | 0.42%   |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                                             | 14        | 0.42%   |
+| Broadcom BCM43228 802.11a/b/g/n                                                       | 14        | 0.42%   |
+| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                              | 13        | 0.39%   |
+| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                               | 13        | 0.39%   |
+| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                              | 12        | 0.36%   |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                                | 11        | 0.33%   |
+| Intel Ultimate N WiFi Link 5300                                                       | 11        | 0.33%   |
+| Broadcom BCM43224 802.11a/b/g/n                                                       | 11        | 0.33%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                             | 10        | 0.3%    |
+| Sierra Wireless EM7345 4G LTE                                                         | 9         | 0.27%   |
+| Realtek RTL8188EE Wireless Network Adapter                                            | 9         | 0.27%   |
 
 Ethernet Vendor
 ---------------
@@ -5961,34 +5962,34 @@ Ethernet vendors
 
 | Vendor                           | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| Realtek Semiconductor            | 1166      | 44.17%  |
-| Intel                            | 589       | 22.31%  |
-| Nvidia                           | 319       | 12.08%  |
-| Qualcomm Atheros                 | 152       | 5.76%   |
-| Marvell Technology Group         | 133       | 5.04%   |
-| Broadcom                         | 94        | 3.56%   |
-| Broadcom Limited                 | 29        | 1.1%    |
-| JMicron Technology               | 23        | 0.87%   |
-| Lenovo                           | 20        | 0.76%   |
-| ASIX Electronics                 | 16        | 0.61%   |
-| Samsung Electronics              | 14        | 0.53%   |
-| TP-Link                          | 12        | 0.45%   |
-| DisplayLink                      | 10        | 0.38%   |
-| Xiaomi                           | 9         | 0.34%   |
-| Huawei Technologies              | 8         | 0.3%    |
-| Silicon Integrated Systems [SiS] | 7         | 0.27%   |
-| Attansic Technology              | 5         | 0.19%   |
+| Realtek Semiconductor            | 1225      | 44.56%  |
+| Intel                            | 616       | 22.41%  |
+| Nvidia                           | 319       | 11.6%   |
+| Qualcomm Atheros                 | 157       | 5.71%   |
+| Marvell Technology Group         | 136       | 4.95%   |
+| Broadcom                         | 98        | 3.56%   |
+| Broadcom Limited                 | 29        | 1.05%   |
+| Lenovo                           | 24        | 0.87%   |
+| JMicron Technology               | 24        | 0.87%   |
+| ASIX Electronics                 | 17        | 0.62%   |
+| Samsung Electronics              | 14        | 0.51%   |
+| TP-Link                          | 12        | 0.44%   |
+| Xiaomi                           | 10        | 0.36%   |
+| DisplayLink                      | 10        | 0.36%   |
+| Silicon Integrated Systems [SiS] | 8         | 0.29%   |
+| Huawei Technologies              | 8         | 0.29%   |
+| Cypress Semiconductor            | 5         | 0.18%   |
+| Attansic Technology              | 5         | 0.18%   |
 | ICS Advent                       | 4         | 0.15%   |
-| Cypress Semiconductor            | 4         | 0.15%   |
-| Spreadtrum Communications        | 2         | 0.08%   |
-| Qualcomm                         | 2         | 0.08%   |
-| OPPO Electronics                 | 2         | 0.08%   |
-| National Semiconductor           | 2         | 0.08%   |
-| Motorola PCS                     | 2         | 0.08%   |
-| Microchip Technology             | 2         | 0.08%   |
-| FIBOCOM                          | 2         | 0.08%   |
-| D-Link                           | 2         | 0.08%   |
-| Apple                            | 2         | 0.08%   |
+| Qualcomm                         | 3         | 0.11%   |
+| Apple                            | 3         | 0.11%   |
+| Spreadtrum Communications        | 2         | 0.07%   |
+| OPPO Electronics                 | 2         | 0.07%   |
+| National Semiconductor           | 2         | 0.07%   |
+| Motorola PCS                     | 2         | 0.07%   |
+| Microchip Technology             | 2         | 0.07%   |
+| Fibocom                          | 2         | 0.07%   |
+| D-Link                           | 2         | 0.07%   |
 | MediaTek                         | 1         | 0.04%   |
 | LG Electronics                   | 1         | 0.04%   |
 | HTC (High Tech Computer)         | 1         | 0.04%   |
@@ -6008,66 +6009,66 @@ Ethernet models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 799       | 29.98%  |
-| Nvidia MCP79 Ethernet                                                          | 309       | 11.59%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 247       | 9.27%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 129       | 4.84%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                                       | 101       | 3.79%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                        | 57        | 2.14%   |
-| Intel Ethernet Connection (4) I219-V                                           | 46        | 1.73%   |
-| Intel Ethernet Connection (3) I218-LM                                          | 39        | 1.46%   |
-| Intel Ethernet Connection I219-LM                                              | 38        | 1.43%   |
-| Intel Ethernet Connection (4) I219-LM                                          | 37        | 1.39%   |
-| Intel 82577LM Gigabit Network Connection                                       | 36        | 1.35%   |
-| Intel Ethernet Connection I218-LM                                              | 32        | 1.2%    |
-| Intel Ethernet Connection (6) I219-V                                           | 32        | 1.2%    |
-| Qualcomm Atheros AR8132 Fast Ethernet                                          | 27        | 1.01%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                        | 25        | 0.94%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                  | 24        | 0.9%    |
-| Intel 82567LM Gigabit Network Connection                                       | 24        | 0.9%    |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                           | 19        | 0.71%   |
-| Intel Ethernet Connection I217-LM                                              | 19        | 0.71%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                                | 18        | 0.68%   |
-| JMicron JMC250 PCI Express Gigabit Ethernet Controller                         | 17        | 0.64%   |
-| Intel Ethernet Connection I219-V                                               | 17        | 0.64%   |
-| Realtek RTL8152 Fast Ethernet Adapter                                          | 15        | 0.56%   |
-| Intel Ethernet Connection (10) I219-V                                          | 14        | 0.53%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                                       | 13        | 0.49%   |
-| Intel Ethernet Connection (6) I219-LM                                          | 13        | 0.49%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                                          | 12        | 0.45%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                                       | 12        | 0.45%   |
-| Intel Ethernet Connection (13) I219-V                                          | 12        | 0.45%   |
-| TP-Link USB 10/100/1000 LAN                                                    | 11        | 0.41%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 11        | 0.41%   |
-| Qualcomm Atheros QCA8171 Gigabit Ethernet                                      | 11        | 0.41%   |
-| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                        | 11        | 0.41%   |
-| Intel 82579V Gigabit Network Connection                                        | 11        | 0.41%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 10        | 0.38%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 10        | 0.38%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                     | 10        | 0.38%   |
-| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express                         | 10        | 0.38%   |
-| ASIX AX88179 Gigabit Ethernet                                                  | 10        | 0.38%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                                | 9         | 0.34%   |
-| Broadcom BCM4401-B0 100Base-TX                                                 | 9         | 0.34%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                      | 8         | 0.3%    |
-| Intel Ethernet Connection (7) I219-LM                                          | 8         | 0.3%    |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                  | 7         | 0.26%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                      | 7         | 0.26%   |
-| Nvidia MCP89 Ethernet                                                          | 7         | 0.26%   |
-| Intel Ethernet Connection (10) I219-LM                                         | 7         | 0.26%   |
-| Intel 82566MM Gigabit Network Connection                                       | 7         | 0.26%   |
-| Broadcom BCM4401 100Base-T                                                     | 7         | 0.26%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                                 | 6         | 0.23%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                               | 6         | 0.23%   |
-| Qualcomm Atheros AR8152 v1.1 Fast Ethernet                                     | 6         | 0.23%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                 | 6         | 0.23%   |
-| Lenovo USB-C Dock Ethernet                                                     | 6         | 0.23%   |
-| JMicron JMC260 PCI Express Fast Ethernet Controller                            | 6         | 0.23%   |
-| Intel I210 Gigabit Network Connection                                          | 6         | 0.23%   |
-| Intel Ethernet Connection I218-V                                               | 6         | 0.23%   |
-| Intel Ethernet Connection I217-V                                               | 6         | 0.23%   |
-| Intel Ethernet Connection (11) I219-LM                                         | 6         | 0.23%   |
-| Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 5         | 0.19%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 847       | 30.53%  |
+| Nvidia MCP79 Ethernet                                                          | 309       | 11.14%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 253       | 9.12%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 129       | 4.65%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                                       | 103       | 3.71%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                        | 58        | 2.09%   |
+| Intel Ethernet Connection (4) I219-V                                           | 45        | 1.62%   |
+| Intel Ethernet Connection (3) I218-LM                                          | 42        | 1.51%   |
+| Intel Ethernet Connection I219-LM                                              | 41        | 1.48%   |
+| Intel Ethernet Connection (4) I219-LM                                          | 38        | 1.37%   |
+| Intel 82577LM Gigabit Network Connection                                       | 37        | 1.33%   |
+| Intel Ethernet Connection I218-LM                                              | 35        | 1.26%   |
+| Intel Ethernet Connection (6) I219-V                                           | 34        | 1.23%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                          | 27        | 0.97%   |
+| Intel 82567LM Gigabit Network Connection                                       | 27        | 0.97%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                  | 25        | 0.9%    |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                        | 25        | 0.9%    |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                           | 20        | 0.72%   |
+| Intel Ethernet Connection I217-LM                                              | 19        | 0.68%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                                | 19        | 0.68%   |
+| JMicron JMC250 PCI Express Gigabit Ethernet Controller                         | 18        | 0.65%   |
+| Intel Ethernet Connection I219-V                                               | 17        | 0.61%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                          | 16        | 0.58%   |
+| Intel Ethernet Connection (10) I219-V                                          | 15        | 0.54%   |
+| Intel Ethernet Connection (13) I219-V                                          | 14        | 0.5%    |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                                       | 13        | 0.47%   |
+| Intel Ethernet Connection (6) I219-LM                                          | 13        | 0.47%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 12        | 0.43%   |
+| Qualcomm Atheros QCA8171 Gigabit Ethernet                                      | 12        | 0.43%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                                          | 12        | 0.43%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                                       | 12        | 0.43%   |
+| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                        | 12        | 0.43%   |
+| Intel 82579V Gigabit Network Connection                                        | 12        | 0.43%   |
+| TP-Link USB 10/100/1000 LAN                                                    | 11        | 0.4%    |
+| ASIX AX88179 Gigabit Ethernet                                                  | 11        | 0.4%    |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 10        | 0.36%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 10        | 0.36%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                      | 10        | 0.36%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                     | 10        | 0.36%   |
+| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express                         | 10        | 0.36%   |
+| Intel Ethernet Connection (7) I219-LM                                          | 9         | 0.32%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                                | 9         | 0.32%   |
+| Broadcom BCM4401-B0 100Base-TX                                                 | 9         | 0.32%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                  | 8         | 0.29%   |
+| Intel Ethernet Connection (11) I219-LM                                         | 8         | 0.29%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                      | 7         | 0.25%   |
+| Nvidia MCP89 Ethernet                                                          | 7         | 0.25%   |
+| Intel Ethernet Connection I218-V                                               | 7         | 0.25%   |
+| Intel Ethernet Connection (10) I219-LM                                         | 7         | 0.25%   |
+| Intel 82566MM Gigabit Network Connection                                       | 7         | 0.25%   |
+| Broadcom BCM4401 100Base-T                                                     | 7         | 0.25%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                                 | 6         | 0.22%   |
+| Realtek Killer E2600 Gigabit Ethernet Controller                               | 6         | 0.22%   |
+| Qualcomm Atheros AR8152 v1.1 Fast Ethernet                                     | 6         | 0.22%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                 | 6         | 0.22%   |
+| Lenovo USB-C Dock Ethernet                                                     | 6         | 0.22%   |
+| JMicron JMC260 PCI Express Fast Ethernet Controller                            | 6         | 0.22%   |
+| Intel I210 Gigabit Network Connection                                          | 6         | 0.22%   |
+| Intel Ethernet Connection I217-V                                               | 6         | 0.22%   |
+| Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 5         | 0.18%   |
 
 Net Controller Kind
 -------------------
@@ -6079,10 +6080,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 3058      | 53.7%   |
-| Ethernet | 2546      | 44.71%  |
-| Modem    | 87        | 1.53%   |
-| Unknown  | 4         | 0.07%   |
+| WiFi     | 3167      | 53.62%  |
+| Ethernet | 2646      | 44.8%   |
+| Modem    | 88        | 1.49%   |
+| Unknown  | 5         | 0.08%   |
 
 Used Controller
 ---------------
@@ -6094,9 +6095,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 2677      | 62.88%  |
-| Ethernet | 1569      | 36.86%  |
-| Modem    | 11        | 0.26%   |
+| WiFi     | 2540      | 74.9%   |
+| Ethernet | 851       | 25.1%   |
 
 NICs
 ----
@@ -6108,10 +6108,10 @@ Total network controllers on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 2352      | 75.34%  |
-| 1     | 704       | 22.55%  |
-| 0     | 42        | 1.35%   |
-| 3     | 22        | 0.7%    |
+| 2     | 2446      | 75.7%   |
+| 1     | 716       | 22.16%  |
+| 0     | 43        | 1.33%   |
+| 3     | 24        | 0.74%   |
 | 5     | 1         | 0.03%   |
 | 4     | 1         | 0.03%   |
 
@@ -6125,8 +6125,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 2802      | 88.73%  |
-| Yes  | 356       | 11.27%  |
+| No   | 2891      | 88.55%  |
+| Yes  | 374       | 11.45%  |
 
 Bluetooth
 ---------
@@ -6141,26 +6141,26 @@ Controller vendors
 
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
-| Intel                           | 982       | 38.89%  |
-| Apple                           | 556       | 22.02%  |
-| Qualcomm Atheros Communications | 254       | 10.06%  |
-| Realtek Semiconductor           | 197       | 7.8%    |
-| Broadcom                        | 127       | 5.03%   |
-| Lite-On Technology              | 90        | 3.56%   |
-| IMC Networks                    | 75        | 2.97%   |
-| Foxconn / Hon Hai               | 56        | 2.22%   |
-| Dell                            | 39        | 1.54%   |
-| Hewlett-Packard                 | 31        | 1.23%   |
-| Cambridge Silicon Radio         | 29        | 1.15%   |
-| ASUSTek Computer                | 22        | 0.87%   |
-| Toshiba                         | 18        | 0.71%   |
-| Ralink                          | 14        | 0.55%   |
-| Realtek                         | 12        | 0.48%   |
-| Foxconn International           | 6         | 0.24%   |
-| Alps Electric                   | 4         | 0.16%   |
-| Taiyo Yuden                     | 3         | 0.12%   |
+| Intel                           | 1038      | 39.68%  |
+| Apple                           | 557       | 21.29%  |
+| Qualcomm Atheros Communications | 262       | 10.02%  |
+| Realtek Semiconductor           | 201       | 7.68%   |
+| Broadcom                        | 131       | 5.01%   |
+| Lite-On Technology              | 95        | 3.63%   |
+| IMC Networks                    | 81        | 3.1%    |
+| Foxconn / Hon Hai               | 57        | 2.18%   |
+| Dell                            | 42        | 1.61%   |
+| Hewlett-Packard                 | 31        | 1.19%   |
+| Cambridge Silicon Radio         | 29        | 1.11%   |
+| ASUSTek Computer                | 22        | 0.84%   |
+| Toshiba                         | 18        | 0.69%   |
+| Ralink                          | 16        | 0.61%   |
+| Realtek                         | 12        | 0.46%   |
+| Foxconn International           | 6         | 0.23%   |
+| Alps Electric                   | 4         | 0.15%   |
+| Taiyo Yuden                     | 3         | 0.11%   |
+| Ralink Technology               | 3         | 0.11%   |
 | Unknown                         | 2         | 0.08%   |
-| Ralink Technology               | 2         | 0.08%   |
 | Qcom                            | 1         | 0.04%   |
 | Opticis                         | 1         | 0.04%   |
 | MediaTek                        | 1         | 0.04%   |
@@ -6178,66 +6178,66 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                                                  | 466       | 18.43%  |
-| Apple Built-in Bluetooth 2.0+EDR HCI                                                | 300       | 11.87%  |
-| Apple Bluetooth USB Host Controller                                                 | 154       | 6.09%   |
-| Intel Bluetooth Device                                                              | 152       | 6.01%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 152       | 6.01%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 150       | 5.93%   |
-| Realtek Bluetooth Radio                                                             | 109       | 4.31%   |
-| Intel AX200 Bluetooth                                                               | 101       | 4%      |
-| Apple Bluetooth HCI MacBookPro (HID mode)                                           | 76        | 3.01%   |
-| Realtek  Bluetooth 4.2 Adapter                                                      | 60        | 2.37%   |
-| Lite-On Bluetooth Device                                                            | 55        | 2.18%   |
-| Intel Centrino Bluetooth Wireless Transceiver                                       | 37        | 1.46%   |
-| Broadcom BCM2045B (BDC-2.1)                                                         | 33        | 1.31%   |
-| Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 29        | 1.15%   |
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 29        | 1.15%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter                                            | 26        | 1.03%   |
-| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 26        | 1.03%   |
-| Qualcomm Atheros AR3011 Bluetooth                                                   | 25        | 0.99%   |
-| IMC Networks Bluetooth Device                                                       | 25        | 0.99%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 23        | 0.91%   |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 22        | 0.87%   |
-| Foxconn / Hon Hai Bluetooth Device                                                  | 22        | 0.87%   |
-| Intel Wireless-AC 3168 Bluetooth                                                    | 21        | 0.83%   |
-| Apple Bluetooth Host Controller                                                     | 20        | 0.79%   |
-| Qualcomm Atheros Bluetooth USB Host Controller                                      | 19        | 0.75%   |
-| IMC Networks Bluetooth Radio                                                        | 19        | 0.75%   |
-| Dell DW375 Bluetooth Module                                                         | 17        | 0.67%   |
-| Lite-On Atheros AR3012 Bluetooth                                                    | 15        | 0.59%   |
-| HP Broadcom 2070 Bluetooth Combo                                                    | 15        | 0.59%   |
-| Ralink RT3290 Bluetooth                                                             | 14        | 0.55%   |
-| Realtek Bluetooth Radio                                                             | 12        | 0.47%   |
-| HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 11        | 0.44%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 9         | 0.36%   |
-| Realtek RTL8723B Bluetooth                                                          | 9         | 0.36%   |
-| IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter                                   | 9         | 0.36%   |
-| Toshiba Bluetooth Device                                                            | 8         | 0.32%   |
-| Qualcomm Atheros AR9462 Bluetooth                                                   | 8         | 0.32%   |
-| IMC Networks Wireless_Device                                                        | 8         | 0.32%   |
-| Broadcom BCM2070 Bluetooth Device                                                   | 8         | 0.32%   |
-| Broadcom BCM2045B (BDC-2) [Bluetooth Controller]                                    | 8         | 0.32%   |
-| Realtek RTL8821A Bluetooth                                                          | 7         | 0.28%   |
-| Lite-On Broadcom BCM43142A0 Bluetooth Device                                        | 7         | 0.28%   |
-| Intel AX210 Bluetooth                                                               | 7         | 0.28%   |
-| Foxconn / Hon Hai Wireless_Device                                                   | 7         | 0.28%   |
-| Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 7         | 0.28%   |
-| Dell BCM20702A0 Bluetooth Module                                                    | 7         | 0.28%   |
-| Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 7         | 0.28%   |
-| Foxconn International BCM43142A0 Bluetooth module                                   | 6         | 0.24%   |
-| Dell Wireless 365 Bluetooth                                                         | 6         | 0.24%   |
-| Broadcom HP Portable SoftSailing                                                    | 6         | 0.24%   |
-| Broadcom BCM43142 Bluetooth 4.0                                                     | 6         | 0.24%   |
-| Broadcom BCM2045 Bluetooth                                                          | 6         | 0.24%   |
-| ASUS BT-270 Bluetooth Adapter                                                       | 6         | 0.24%   |
-| Apple Bluetooth HCI                                                                 | 6         | 0.24%   |
-| Lite-On Wireless_Device                                                             | 5         | 0.2%    |
-| Foxconn / Hon Hai Bluetooth USB Host Controller                                     | 5         | 0.2%    |
-| Broadcom BCM43142A0 Bluetooth 4.0                                                   | 5         | 0.2%    |
-| ASUS Broadcom Bluetooth 2.1                                                         | 5         | 0.2%    |
-| IMC Networks Bluetooth                                                              | 4         | 0.16%   |
-| Foxconn / Hon Hai Broadcom Bluetooth 2.1 Device                                     | 4         | 0.16%   |
+| Intel Bluetooth wireless interface                                                  | 484       | 18.48%  |
+| Apple Built-in Bluetooth 2.0+EDR HCI                                                | 300       | 11.45%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 167       | 6.38%   |
+| Intel AX201 Bluetooth                                                               | 163       | 6.22%   |
+| Qualcomm Atheros  Bluetooth Device                                                  | 162       | 6.19%   |
+| Apple Bluetooth USB Host Controller                                                 | 148       | 5.65%   |
+| Intel AX200 Bluetooth                                                               | 107       | 4.09%   |
+| Realtek Bluetooth Radio                                                             | 95        | 3.63%   |
+| Apple Bluetooth HCI MacBookPro (HID mode)                                           | 76        | 2.9%    |
+| Realtek  Bluetooth 4.2 Adapter                                                      | 61        | 2.33%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 41        | 1.57%   |
+| Intel Centrino Bluetooth Wireless Transceiver                                       | 37        | 1.41%   |
+| Broadcom BCM2045B (BDC-2.1)                                                         | 34        | 1.3%    |
+| Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 32        | 1.22%   |
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 29        | 1.11%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter                                            | 27        | 1.03%   |
+| IMC Networks Bluetooth Device                                                       | 27        | 1.03%   |
+| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 26        | 0.99%   |
+| Apple Bluetooth Host Controller                                                     | 26        | 0.99%   |
+| Qualcomm Atheros AR3011 Bluetooth                                                   | 25        | 0.95%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 24        | 0.92%   |
+| Realtek 802.11ac WLAN Adapter                                                       | 23        | 0.88%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 23        | 0.88%   |
+| Intel Wireless-AC 3168 Bluetooth                                                    | 23        | 0.88%   |
+| Foxconn / Hon Hai Bluetooth Device                                                  | 22        | 0.84%   |
+| IMC Networks Bluetooth Radio                                                        | 21        | 0.8%    |
+| Lite-On Bluetooth Device                                                            | 17        | 0.65%   |
+| Dell DW375 Bluetooth Module                                                         | 17        | 0.65%   |
+| Ralink RT3290 Bluetooth                                                             | 16        | 0.61%   |
+| Lite-On Atheros AR3012 Bluetooth                                                    | 16        | 0.61%   |
+| HP Broadcom 2070 Bluetooth Combo                                                    | 15        | 0.57%   |
+| Realtek Bluetooth Radio                                                             | 12        | 0.46%   |
+| HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 11        | 0.42%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 10        | 0.38%   |
+| Qualcomm Atheros Bluetooth USB Host Controller                                      | 10        | 0.38%   |
+| Realtek RTL8723B Bluetooth                                                          | 9         | 0.34%   |
+| Qualcomm Atheros Bluetooth                                                          | 9         | 0.34%   |
+| IMC Networks Wireless_Device                                                        | 9         | 0.34%   |
+| IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter                                   | 9         | 0.34%   |
+| Toshiba Bluetooth Device                                                            | 8         | 0.31%   |
+| Intel AX210 Bluetooth                                                               | 8         | 0.31%   |
+| Foxconn / Hon Hai Wireless_Device                                                   | 8         | 0.31%   |
+| Broadcom BCM2070 Bluetooth Device                                                   | 8         | 0.31%   |
+| Broadcom BCM2045B (BDC-2) [Bluetooth Controller]                                    | 8         | 0.31%   |
+| Lite-On Broadcom BCM43142A0 Bluetooth Device                                        | 7         | 0.27%   |
+| Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 7         | 0.27%   |
+| Dell BCM20702A0 Bluetooth Module                                                    | 7         | 0.27%   |
+| Broadcom BCM43142 Bluetooth 4.0                                                     | 7         | 0.27%   |
+| Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 7         | 0.27%   |
+| Broadcom BCM2045 Bluetooth                                                          | 7         | 0.27%   |
+| Apple Bluetooth HCI                                                                 | 7         | 0.27%   |
+| Lite-On Wireless_Device                                                             | 6         | 0.23%   |
+| Foxconn International BCM43142A0 Bluetooth module                                   | 6         | 0.23%   |
+| Dell Wireless 365 Bluetooth                                                         | 6         | 0.23%   |
+| Broadcom HP Portable SoftSailing                                                    | 6         | 0.23%   |
+| ASUS BT-270 Bluetooth Adapter                                                       | 6         | 0.23%   |
+| Foxconn / Hon Hai Bluetooth USB Host Controller                                     | 5         | 0.19%   |
+| Broadcom HP Portable Bumble Bee                                                     | 5         | 0.19%   |
+| Broadcom BCM43142A0 Bluetooth 4.0                                                   | 5         | 0.19%   |
+| ASUS Broadcom Bluetooth 2.1                                                         | 5         | 0.19%   |
 
 Sound
 -----
@@ -6252,32 +6252,35 @@ Sound card vendors
 
 | Vendor                               | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
-| Intel                                | 2354      | 65.94%  |
-| Nvidia                               | 576       | 16.13%  |
-| AMD                                  | 446       | 12.49%  |
-| Logitech                             | 23        | 0.64%   |
-| C-Media Electronics                  | 21        | 0.59%   |
-| Lenovo                               | 20        | 0.56%   |
-| Realtek Semiconductor                | 13        | 0.36%   |
-| Texas Instruments                    | 12        | 0.34%   |
-| Plantronics                          | 9         | 0.25%   |
-| Generalplus Technology               | 9         | 0.25%   |
-| Silicon Integrated Systems [SiS]     | 8         | 0.22%   |
-| GN Netcom                            | 8         | 0.22%   |
-| Creative Technology                  | 6         | 0.17%   |
-| Hewlett-Packard                      | 5         | 0.14%   |
+| Intel                                | 2446      | 66.07%  |
+| Nvidia                               | 589       | 15.91%  |
+| AMD                                  | 463       | 12.51%  |
+| Logitech                             | 23        | 0.62%   |
+| Lenovo                               | 21        | 0.57%   |
+| C-Media Electronics                  | 21        | 0.57%   |
+| Realtek Semiconductor                | 14        | 0.38%   |
+| Texas Instruments                    | 13        | 0.35%   |
+| GN Netcom                            | 10        | 0.27%   |
+| Silicon Integrated Systems [SiS]     | 9         | 0.24%   |
+| Plantronics                          | 9         | 0.24%   |
+| Generalplus Technology               | 9         | 0.24%   |
+| Hewlett-Packard                      | 6         | 0.16%   |
+| Creative Technology                  | 6         | 0.16%   |
 | Razer USA                            | 3         | 0.08%   |
 | JMTek                                | 3         | 0.08%   |
 | Focusrite-Novation                   | 3         | 0.08%   |
 | Dell                                 | 3         | 0.08%   |
-| ULi Electronics                      | 2         | 0.06%   |
-| Sennheiser Communications            | 2         | 0.06%   |
-| RODE Microphones                     | 2         | 0.06%   |
-| Microsoft                            | 2         | 0.06%   |
-| ESS Technology                       | 2         | 0.06%   |
-| CMX Systems                          | 2         | 0.06%   |
-| Blue Microphones                     | 2         | 0.06%   |
-| BEHRINGER International              | 2         | 0.06%   |
+| ULi Electronics                      | 2         | 0.05%   |
+| Sennheiser Communications            | 2         | 0.05%   |
+| RODE Microphones                     | 2         | 0.05%   |
+| Microsoft                            | 2         | 0.05%   |
+| M-Audio                              | 2         | 0.05%   |
+| ESS Technology                       | 2         | 0.05%   |
+| CMX Systems                          | 2         | 0.05%   |
+| Blue Microphones                     | 2         | 0.05%   |
+| BEHRINGER International              | 2         | 0.05%   |
+| ASUSTek Computer                     | 2         | 0.05%   |
+| Apple                                | 2         | 0.05%   |
 | Yamaha                               | 1         | 0.03%   |
 | XMOS                                 | 1         | 0.03%   |
 | VIA Technologies                     | 1         | 0.03%   |
@@ -6296,7 +6299,6 @@ Sound card vendors
 | Pixart Imaging                       | 1         | 0.03%   |
 | Native Instruments                   | 1         | 0.03%   |
 | Microdia                             | 1         | 0.03%   |
-| M-Audio                              | 1         | 0.03%   |
 | Kingston Technology                  | 1         | 0.03%   |
 | Ketron                               | 1         | 0.03%   |
 | Huawei Technologies                  | 1         | 0.03%   |
@@ -6305,10 +6307,8 @@ Sound card vendors
 | Elite Silicon                        | 1         | 0.03%   |
 | Earth Computer Technologies          | 1         | 0.03%   |
 | Conrad Electronic SE                 | 1         | 0.03%   |
-| ASUSTek Computer                     | 1         | 0.03%   |
 | Arturia                              | 1         | 0.03%   |
 | ARCAM                                | 1         | 0.03%   |
-| Apple                                | 1         | 0.03%   |
 | AKAI Professional M.I.               | 1         | 0.03%   |
 
 Sound Model
@@ -6321,66 +6321,66 @@ Sound card models
 
 | Model                                                                                             | Notebooks | Percent |
 |---------------------------------------------------------------------------------------------------|-----------|---------|
-| Intel Sunrise Point-LP HD Audio                                                                   | 378       | 8.75%   |
-| Nvidia MCP79 High Definition Audio                                                                | 310       | 7.18%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 235       | 5.44%   |
-| Intel Broadwell-U Audio Controller                                                                | 234       | 5.42%   |
-| Intel Wildcat Point-LP High Definition Audio Controller                                           | 233       | 5.39%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 216       | 5%      |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 164       | 3.8%    |
-| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 134       | 3.1%    |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 108       | 2.5%    |
-| Intel Cannon Point-LP High Definition Audio Controller                                            | 105       | 2.43%   |
-| Intel Cannon Lake PCH cAVS                                                                        | 102       | 2.36%   |
-| Intel Haswell-ULT HD Audio Controller                                                             | 101       | 2.34%   |
-| Intel 8 Series HD Audio Controller                                                                | 101       | 2.34%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 99        | 2.29%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                                       | 98        | 2.27%   |
-| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 97        | 2.25%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 93        | 2.15%   |
-| AMD Renoir Radeon High Definition Audio Controller                                                | 90        | 2.08%   |
-| Intel Comet Lake PCH-LP cAVS                                                                      | 82        | 1.9%    |
-| Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 75        | 1.74%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 74        | 1.71%   |
-| AMD FCH Azalia Controller                                                                         | 71        | 1.64%   |
-| AMD Kabini HDMI/DP Audio                                                                          | 68        | 1.57%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 64        | 1.48%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                                                  | 59        | 1.37%   |
-| Intel Comet Lake PCH cAVS                                                                         | 41        | 0.95%   |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller                                    | 37        | 0.86%   |
-| Intel CM238 HD Audio Controller                                                                   | 36        | 0.83%   |
-| AMD SBx00 Azalia (Intel HDA)                                                                      | 35        | 0.81%   |
-| Intel Ice Lake-LP Smart Sound Technology Audio Controller                                         | 32        | 0.74%   |
-| Nvidia GF108 High Definition Audio Controller                                                     | 30        | 0.69%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 30        | 0.69%   |
-| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 29        | 0.67%   |
-| Nvidia TU106 High Definition Audio Controller                                                     | 27        | 0.63%   |
-| Nvidia GP107GL High Definition Audio Controller                                                   | 25        | 0.58%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 25        | 0.58%   |
-| AMD High Definition Audio Controller                                                              | 25        | 0.58%   |
-| Nvidia GK107 HDMI Audio Controller                                                                | 22        | 0.51%   |
-| AMD Wrestler HDMI Audio                                                                           | 22        | 0.51%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 21        | 0.49%   |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller                                  | 15        | 0.35%   |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller                                 | 15        | 0.35%   |
-| Nvidia Audio device                                                                               | 14        | 0.32%   |
-| Realtek Semiconductor USB Audio                                                                   | 13        | 0.3%    |
-| Nvidia High Definition Audio Controller                                                           | 13        | 0.3%    |
-| Nvidia GK208 HDMI/DP Audio Controller                                                             | 13        | 0.3%    |
-| AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]                               | 13        | 0.3%    |
-| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                                     | 12        | 0.28%   |
-| Nvidia GF119 HDMI Audio Controller                                                                | 12        | 0.28%   |
+| Intel Sunrise Point-LP HD Audio                                                                   | 389       | 8.68%   |
+| Nvidia MCP79 High Definition Audio                                                                | 310       | 6.92%   |
+| Intel Broadwell-U Audio Controller                                                                | 240       | 5.36%   |
+| Intel Wildcat Point-LP High Definition Audio Controller                                           | 239       | 5.34%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 239       | 5.34%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 227       | 5.07%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 169       | 3.77%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 135       | 3.01%   |
+| Intel Cannon Lake PCH cAVS                                                                        | 116       | 2.59%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 111       | 2.48%   |
+| Intel Cannon Point-LP High Definition Audio Controller                                            | 109       | 2.43%   |
+| Intel Haswell-ULT HD Audio Controller                                                             | 108       | 2.41%   |
+| Intel 8 Series HD Audio Controller                                                                | 108       | 2.41%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                                       | 105       | 2.34%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 104       | 2.32%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 98        | 2.19%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 97        | 2.17%   |
+| AMD Renoir Radeon High Definition Audio Controller                                                | 96        | 2.14%   |
+| Intel Comet Lake PCH-LP cAVS                                                                      | 84        | 1.88%   |
+| Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 77        | 1.72%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 76        | 1.7%    |
+| AMD FCH Azalia Controller                                                                         | 73        | 1.63%   |
+| AMD Kabini HDMI/DP Audio                                                                          | 69        | 1.54%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 66        | 1.47%   |
+| AMD Family 15h (Models 60h-6fh) Audio Controller                                                  | 61        | 1.36%   |
+| Intel Comet Lake PCH cAVS                                                                         | 46        | 1.03%   |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller                                    | 40        | 0.89%   |
+| Intel CM238 HD Audio Controller                                                                   | 36        | 0.8%    |
+| AMD SBx00 Azalia (Intel HDA)                                                                      | 35        | 0.78%   |
+| Intel Ice Lake-LP Smart Sound Technology Audio Controller                                         | 33        | 0.74%   |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 31        | 0.69%   |
+| Nvidia GF108 High Definition Audio Controller                                                     | 30        | 0.67%   |
+| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 30        | 0.67%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 29        | 0.65%   |
+| Nvidia TU106 High Definition Audio Controller                                                     | 28        | 0.63%   |
+| AMD High Definition Audio Controller                                                              | 27        | 0.6%    |
+| Nvidia GP107GL High Definition Audio Controller                                                   | 26        | 0.58%   |
+| Nvidia GK107 HDMI Audio Controller                                                                | 22        | 0.49%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 22        | 0.49%   |
+| AMD Wrestler HDMI Audio                                                                           | 22        | 0.49%   |
+| Nvidia Audio device                                                                               | 16        | 0.36%   |
+| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller                                 | 16        | 0.36%   |
+| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller                                  | 15        | 0.33%   |
+| Realtek Semiconductor USB Audio                                                                   | 14        | 0.31%   |
+| AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]                               | 14        | 0.31%   |
+| Nvidia High Definition Audio Controller                                                           | 13        | 0.29%   |
+| Nvidia GK208 HDMI/DP Audio Controller                                                             | 13        | 0.29%   |
+| Nvidia TU116 High Definition Audio Controller                                                     | 12        | 0.27%   |
+| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                                     | 12        | 0.27%   |
+| Nvidia GF119 HDMI Audio Controller                                                                | 12        | 0.27%   |
+| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 12        | 0.27%   |
 | Intel Tiger Lake-H HD Audio Controller                                                            | 11        | 0.25%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 11        | 0.25%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]                 | 11        | 0.25%   |
-| Nvidia TU116 High Definition Audio Controller                                                     | 10        | 0.23%   |
-| Nvidia MCP89 High Definition Audio                                                                | 9         | 0.21%   |
-| Nvidia GT216 HDMI Audio Controller                                                                | 9         | 0.21%   |
-| Generalplus Technology USB Audio Device                                                           | 9         | 0.21%   |
-| AMD Trinity HDMI Audio Controller                                                                 | 9         | 0.21%   |
-| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                                                  | 9         | 0.21%   |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 8         | 0.19%   |
-| C-Media Electronics Audio Adapter (Unitek Y-247A)                                                 | 8         | 0.19%   |
+| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                                                  | 10        | 0.22%   |
+| Nvidia MCP89 High Definition Audio                                                                | 9         | 0.2%    |
+| Nvidia GT216 HDMI Audio Controller                                                                | 9         | 0.2%    |
+| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 9         | 0.2%    |
+| Generalplus Technology Usb Audio Device                                                           | 9         | 0.2%    |
+| AMD Trinity HDMI Audio Controller                                                                 | 9         | 0.2%    |
+| Silicon Integrated Systems [SiS] Azalia Audio Controller                                          | 8         | 0.18%   |
 
 Memory
 ------
@@ -6395,42 +6395,43 @@ Memory module vendors
 
 | Vendor                       | Notebooks | Percent |
 |------------------------------|-----------|---------|
-| SK Hynix                     | 900       | 31.13%  |
-| Samsung Electronics          | 753       | 26.05%  |
-| Micron Technology            | 283       | 9.79%   |
-| Unknown                      | 197       | 6.81%   |
-| Kingston                     | 196       | 6.78%   |
-| Crucial                      | 136       | 4.7%    |
-| Elpida                       | 96        | 3.32%   |
-| Ramaxel Technology           | 62        | 2.14%   |
-| A-DATA Technology            | 48        | 1.66%   |
-| Nanya Technology             | 32        | 1.11%   |
-| Corsair                      | 27        | 0.93%   |
-| Smart                        | 24        | 0.83%   |
-| Unknown (ABCD)               | 17        | 0.59%   |
-| GOODRAM                      | 17        | 0.59%   |
-| Transcend                    | 12        | 0.42%   |
-| Teikon                       | 9         | 0.31%   |
-| Team                         | 9         | 0.31%   |
-| G.Skill                      | 9         | 0.31%   |
-| 48spaces                     | 7         | 0.24%   |
+| SK Hynix                     | 923       | 30.8%   |
+| Samsung Electronics          | 784       | 26.16%  |
+| Micron Technology            | 291       | 9.71%   |
+| Kingston                     | 203       | 6.77%   |
+| Unknown                      | 201       | 6.71%   |
+| Crucial                      | 154       | 5.14%   |
+| Elpida                       | 97        | 3.24%   |
+| Ramaxel Technology           | 63        | 2.1%    |
+| A-DATA Technology            | 51        | 1.7%    |
+| Nanya Technology             | 34        | 1.13%   |
+| Corsair                      | 28        | 0.93%   |
+| Smart                        | 24        | 0.8%    |
+| GOODRAM                      | 18        | 0.6%    |
+| Unknown (ABCD)               | 17        | 0.57%   |
+| Transcend                    | 12        | 0.4%    |
+| Team                         | 10        | 0.33%   |
+| G.Skill                      | 10        | 0.33%   |
+| Teikon                       | 9         | 0.3%    |
+| 48spaces                     | 7         | 0.23%   |
 | SMART Brazil                 | 5         | 0.17%   |
-| Patriot                      | 4         | 0.14%   |
-| ASint Technology             | 4         | 0.14%   |
-| Apacer                       | 4         | 0.14%   |
+| ASint Technology             | 5         | 0.17%   |
+| Apacer                       | 5         | 0.17%   |
+| Patriot                      | 4         | 0.13%   |
 | Silicon Power                | 3         | 0.1%    |
 | PNY                          | 3         | 0.1%    |
 | Avant                        | 3         | 0.1%    |
 | AMD                          | 3         | 0.1%    |
+| Unknown                      | 3         | 0.1%    |
 | Textorm                      | 2         | 0.07%   |
 | Infineon                     | 2         | 0.07%   |
 | Goldkey                      | 2         | 0.07%   |
 | Essencore                    | 2         | 0.07%   |
-| Unknown                      | 2         | 0.07%   |
 | Wilk                         | 1         | 0.03%   |
 | Unknown (0x08A4FFFFFFFFFFFF) | 1         | 0.03%   |
 | Unknown (08C8)               | 1         | 0.03%   |
 | Unifosa                      | 1         | 0.03%   |
+| SHARETRONIC                  | 1         | 0.03%   |
 | Sesame                       | 1         | 0.03%   |
 | Qimonda                      | 1         | 0.03%   |
 | PKI                          | 1         | 0.03%   |
@@ -6454,68 +6455,68 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM Module 1GB SODIMM DDR2 800MT/s                      | 256       | 8.39%   |
-| SK Hynix RAM Module 1GB SODIMM DDR2 667MT/s                      | 68        | 2.23%   |
-| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s            | 64        | 2.1%    |
-| Samsung RAM Module 2GB SODIMM DDR3 1600MT/s                      | 61        | 2%      |
-| Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                       | 34        | 1.11%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 31        | 1.02%   |
-| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s         | 30        | 0.98%   |
-| Samsung RAM Module 1GB SODIMM DDR2 800MT/s                       | 29        | 0.95%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 28        | 0.92%   |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 25        | 0.82%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 25        | 0.82%   |
-| Samsung RAM M471A1G44AB0-CWE 8192MB SODIMM DDR4 3200MT/s         | 25        | 0.82%   |
-| SK Hynix RAM Module 2GB SODIMM DDR2 800MT/s                      | 24        | 0.79%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 24        | 0.79%   |
-| Crucial RAM CT8G4SFS824A.M8FE 8192MB SODIMM DDR4 2667MT/s        | 24        | 0.79%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 23        | 0.75%   |
-| SK Hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 22        | 0.72%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 21        | 0.69%   |
-| Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                      | 20        | 0.66%   |
-| Crucial RAM CT8G4SFRA266.C8FD1 8GB SODIMM DDR4 2667MT/s          | 20        | 0.66%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 19        | 0.62%   |
-| SK Hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s        | 19        | 0.62%   |
-| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s         | 17        | 0.56%   |
-| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 16        | 0.52%   |
-| SK Hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 16        | 0.52%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 16        | 0.52%   |
-| Elpida RAM Module 2GB SODIMM DDR3 1600MT/s                       | 16        | 0.52%   |
-| Unknown RAM Module 1GB SODIMM SDRAM                              | 15        | 0.49%   |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 15        | 0.49%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 15        | 0.49%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 15        | 0.49%   |
-| Micron RAM 4KTF25664HZ-1G6E 2GB SODIMM DDR3 1333MT/s             | 15        | 0.49%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB Row Of Chips DDR4 3200MT/s      | 15        | 0.49%   |
-| SK Hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 14        | 0.46%   |
-| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s         | 14        | 0.46%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 14        | 0.46%   |
-| SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 13        | 0.43%   |
-| Samsung RAM M471A5143SB1-CRC 4096MB SODIMM DDR4 2400MT/s         | 13        | 0.43%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 12        | 0.39%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s            | 12        | 0.39%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 11        | 0.36%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 11        | 0.36%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 11        | 0.36%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 11        | 0.36%   |
-| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s            | 11        | 0.36%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s         | 11        | 0.36%   |
-| Micron RAM 4ATF1G64HZ-3G2E2 8GB SODIMM DDR4 3200MT/s             | 11        | 0.36%   |
-| Micron RAM 16KTF51264HZ-1G6M1 4096MB SODIMM DDR3 1600MT/s        | 11        | 0.36%   |
-| Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s          | 11        | 0.36%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s             | 10        | 0.33%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 10        | 0.33%   |
-| SK Hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 10        | 0.33%   |
-| SK Hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 10        | 0.33%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 10        | 0.33%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s         | 10        | 0.33%   |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s           | 10        | 0.33%   |
-| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 10        | 0.33%   |
-| Samsung RAM M471A1K43BB1-CTD 8192MB SODIMM DDR4 2667MT/s         | 10        | 0.33%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8192MB SODIMM DDR4 3200MT/s          | 10        | 0.33%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s            | 10        | 0.33%   |
+| Model                                                          | Notebooks | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| SK Hynix RAM Module 1GB SODIMM DDR2 800MT/s                    | 256       | 8.1%    |
+| SK Hynix RAM Module 1GB SODIMM DDR2 667MT/s                    | 68        | 2.15%   |
+| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s          | 65        | 2.06%   |
+| Samsung RAM Module 2GB SODIMM DDR3 1600MT/s                    | 61        | 1.93%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s         | 34        | 1.08%   |
+| Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                     | 34        | 1.08%   |
+| Crucial RAM CT8G4SFRA266.C8FD1 8GB SODIMM DDR4 2667MT/s        | 33        | 1.04%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s          | 30        | 0.95%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 30        | 0.95%   |
+| Samsung RAM Module 1GB SODIMM DDR2 800MT/s                     | 29        | 0.92%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 27        | 0.85%   |
+| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s         | 26        | 0.82%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 26        | 0.82%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 26        | 0.82%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s          | 25        | 0.79%   |
+| SK Hynix RAM Module 2GB SODIMM DDR2 800MT/s                    | 24        | 0.76%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s          | 24        | 0.76%   |
+| Crucial RAM CT8G4SFS824A.M8FE 8192MB SODIMM DDR4 2667MT/s      | 24        | 0.76%   |
+| SK Hynix RAM Module 4GB SODIMM DDR3 1600MT/s                   | 22        | 0.7%    |
+| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 22        | 0.7%    |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s          | 21        | 0.66%   |
+| Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                    | 20        | 0.63%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s          | 19        | 0.6%    |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s          | 19        | 0.6%    |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM DDR4 2400MT/s | 16        | 0.51%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 16        | 0.51%   |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s       | 16        | 0.51%   |
+| Elpida RAM Module 2GB SODIMM DDR3 1600MT/s                     | 16        | 0.51%   |
+| Unknown RAM Module 1GB SODIMM SDRAM                            | 15        | 0.47%   |
+| SK Hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s         | 15        | 0.47%   |
+| Micron RAM 4KTF25664HZ-1G6E 2GB SODIMM DDR3 1333MT/s           | 15        | 0.47%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4GB Row Of Chips DDR4 3200MT/s    | 15        | 0.47%   |
+| SK Hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s         | 14        | 0.44%   |
+| SK Hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s      | 14        | 0.44%   |
+| SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s         | 14        | 0.44%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 14        | 0.44%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s          | 14        | 0.44%   |
+| Samsung RAM M471A5143SB1-CRC 4GB SODIMM DDR4 2400MT/s          | 13        | 0.41%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s          | 13        | 0.41%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 12        | 0.38%   |
+| SK Hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s      | 12        | 0.38%   |
+| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s         | 12        | 0.38%   |
+| SK Hynix RAM HMA82GS6CJR8N-VK 16GB SODIMM DDR4 2667MT/s        | 12        | 0.38%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s          | 12        | 0.38%   |
+| Samsung RAM M471B1G73QH0-YK0 8192MB SODIMM DDR3 1600MT/s       | 12        | 0.38%   |
+| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s          | 12        | 0.38%   |
+| Micron RAM 4ATF1G64HZ-3G2E2 8GB SODIMM DDR4 3200MT/s           | 12        | 0.38%   |
+| Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s        | 12        | 0.38%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                     | 11        | 0.35%   |
+| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s       | 11        | 0.35%   |
+| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s          | 11        | 0.35%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s           | 11        | 0.35%   |
+| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s         | 11        | 0.35%   |
+| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s           | 10        | 0.32%   |
+| SK Hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s        | 10        | 0.32%   |
+| SK Hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s         | 10        | 0.32%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s          | 10        | 0.32%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s       | 10        | 0.32%   |
+| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s         | 10        | 0.32%   |
+| Samsung RAM M471A2K43CB1-CRC 16384MB SODIMM DDR4 2667MT/s      | 10        | 0.32%   |
 
 Memory Kind
 -----------
@@ -6527,15 +6528,15 @@ Memory module kinds
 
 | Kind    | Notebooks | Percent |
 |---------|-----------|---------|
-| DDR3    | 917       | 36.23%  |
-| DDR4    | 890       | 35.16%  |
-| DDR2    | 488       | 19.28%  |
-| LPDDR4  | 72        | 2.84%   |
-| LPDDR3  | 59        | 2.33%   |
-| SDRAM   | 55        | 2.17%   |
-| DDR     | 30        | 1.19%   |
-| Unknown | 12        | 0.47%   |
-| DRAM    | 7         | 0.28%   |
+| DDR3    | 946       | 36.09%  |
+| DDR4    | 935       | 35.67%  |
+| DDR2    | 491       | 18.73%  |
+| LPDDR4  | 74        | 2.82%   |
+| LPDDR3  | 64        | 2.44%   |
+| SDRAM   | 58        | 2.21%   |
+| DDR     | 31        | 1.18%   |
+| Unknown | 14        | 0.53%   |
+| DRAM    | 7         | 0.27%   |
 | RAM     | 1         | 0.04%   |
 
 Memory Form Factor
@@ -6548,11 +6549,11 @@ Physical design of the memory module
 
 | Name         | Notebooks | Percent |
 |--------------|-----------|---------|
-| SODIMM       | 2363      | 93.33%  |
-| Row Of Chips | 136       | 5.37%   |
-| Chip         | 19        | 0.75%   |
-| Unknown      | 10        | 0.39%   |
-| DIMM         | 4         | 0.16%   |
+| SODIMM       | 2449      | 93.37%  |
+| Row Of Chips | 140       | 5.34%   |
+| Chip         | 20        | 0.76%   |
+| Unknown      | 10        | 0.38%   |
+| DIMM         | 4         | 0.15%   |
 
 Memory Size
 -----------
@@ -6564,14 +6565,14 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 769       | 28.01%  |
-| 8192  | 730       | 26.59%  |
-| 1024  | 473       | 17.23%  |
-| 2048  | 450       | 16.39%  |
-| 16384 | 232       | 8.45%   |
-| 32768 | 41        | 1.49%   |
-| 512   | 33        | 1.2%    |
-| 256   | 15        | 0.55%   |
+| 4096  | 792       | 27.87%  |
+| 8192  | 776       | 27.3%   |
+| 1024  | 476       | 16.75%  |
+| 2048  | 461       | 16.22%  |
+| 16384 | 240       | 8.44%   |
+| 32768 | 46        | 1.62%   |
+| 512   | 34        | 1.2%    |
+| 256   | 15        | 0.53%   |
 | 128   | 2         | 0.07%   |
 
 Memory Speed
@@ -6584,35 +6585,37 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 689       | 25.45%  |
-| 2667    | 476       | 17.58%  |
-| 800     | 324       | 11.97%  |
-| 3200    | 269       | 9.94%   |
-| 2400    | 164       | 6.06%   |
-| 667     | 138       | 5.1%    |
-| 1334    | 119       | 4.4%    |
-| 2133    | 113       | 4.17%   |
-| 1333    | 92        | 3.4%    |
-| Unknown | 78        | 2.88%   |
-| 1067    | 40        | 1.48%   |
-| 4267    | 34        | 1.26%   |
-| 3266    | 30        | 1.11%   |
-| 1867    | 22        | 0.81%   |
-| 4199    | 19        | 0.7%    |
-| 975     | 16        | 0.59%   |
-| 533     | 16        | 0.59%   |
-| 2048    | 12        | 0.44%   |
-| 1066    | 11        | 0.41%   |
-| 400     | 9         | 0.33%   |
-| 266     | 8         | 0.3%    |
-| 1866    | 7         | 0.26%   |
-| 333     | 7         | 0.26%   |
-| 8400    | 4         | 0.15%   |
-| 4266    | 4         | 0.15%   |
+| 1600    | 712       | 25.4%   |
+| 2667    | 505       | 18.02%  |
+| 800     | 325       | 11.59%  |
+| 3200    | 284       | 10.13%  |
+| 2400    | 167       | 5.96%   |
+| 667     | 140       | 4.99%   |
+| 1334    | 125       | 4.46%   |
+| 2133    | 117       | 4.17%   |
+| 1333    | 96        | 3.42%   |
+| Unknown | 79        | 2.82%   |
+| 1067    | 41        | 1.46%   |
+| 4267    | 34        | 1.21%   |
+| 3266    | 30        | 1.07%   |
+| 1867    | 24        | 0.86%   |
+| 4199    | 20        | 0.71%   |
+| 975     | 16        | 0.57%   |
+| 533     | 16        | 0.57%   |
+| 2048    | 12        | 0.43%   |
+| 1066    | 11        | 0.39%   |
+| 400     | 10        | 0.36%   |
+| 266     | 8         | 0.29%   |
+| 333     | 7         | 0.25%   |
+| 1866    | 6         | 0.21%   |
+| 8400    | 4         | 0.14%   |
+| 4266    | 4         | 0.14%   |
+| 4800    | 3         | 0.11%   |
 | 1776    | 2         | 0.07%   |
 | 933     | 2         | 0.07%   |
 | 3000    | 1         | 0.04%   |
 | 2933    | 1         | 0.04%   |
+| 200     | 1         | 0.04%   |
 
 Printers & scanners
 -------------------
@@ -6627,14 +6630,15 @@ Printer device vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Hewlett-Packard     | 7         | 36.84%  |
-| Brother Industries  | 3         | 15.79%  |
-| Xerox               | 2         | 10.53%  |
-| Samsung Electronics | 2         | 10.53%  |
-| Canon               | 2         | 10.53%  |
-| Xiaomi              | 1         | 5.26%   |
-| STMicroelectronics  | 1         | 5.26%   |
-| Kyocera             | 1         | 5.26%   |
+| Hewlett-Packard     | 8         | 38.1%   |
+| Brother Industries  | 3         | 14.29%  |
+| Xerox               | 2         | 9.52%   |
+| Samsung Electronics | 2         | 9.52%   |
+| Canon               | 2         | 9.52%   |
+| Xiaomi              | 1         | 4.76%   |
+| STMicroelectronics  | 1         | 4.76%   |
+| Pantum              | 1         | 4.76%   |
+| Kyocera             | 1         | 4.76%   |
 
 Printer Model
 -------------
@@ -6646,25 +6650,27 @@ Printer device models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| Xerox B205                                                | 2         | 10%     |
-| Xiaomi MiMouse 2                                          | 1         | 5%      |
-| STMicroelectronics LED badge -- mini LED display -- 11x44 | 1         | 5%      |
-| Samsung ML-2010P Mono Laser Printer                       | 1         | 5%      |
-| Samsung CLX-3300 Series                                   | 1         | 5%      |
-| Kyocera ECOSYS P2335d                                     | 1         | 5%      |
-| HP OfficeJet 3830 series                                  | 1         | 5%      |
-| HP LaserJet P1102                                         | 1         | 5%      |
-| HP LaserJet 1200                                          | 1         | 5%      |
-| HP LaserJet 1020                                          | 1         | 5%      |
-| HP Ink Tank 110 series                                    | 1         | 5%      |
-| HP EWS UPD                                                | 1         | 5%      |
-| HP Deskjet 2540 series                                    | 1         | 5%      |
-| HP DeskJet 2130 series                                    | 1         | 5%      |
-| Canon PIXMA MX920 Series                                  | 1         | 5%      |
-| Canon LBP3010/LBP3018/LBP3050                             | 1         | 5%      |
-| Brother PT-9500PC                                         | 1         | 5%      |
-| Brother MFC-L2707DW                                       | 1         | 5%      |
-| Brother HL-L2340D series                                  | 1         | 5%      |
+| Xerox B205                                                | 2         | 9.09%   |
+| Xiaomi MiMouse 2                                          | 1         | 4.55%   |
+| STMicroelectronics LED badge -- mini LED display -- 11x44 | 1         | 4.55%   |
+| Samsung ML-2010P Mono Laser Printer                       | 1         | 4.55%   |
+| Samsung CLX-3300 Series                                   | 1         | 4.55%   |
+| Pantum P2500W series                                      | 1         | 4.55%   |
+| Kyocera ECOSYS P2335d                                     | 1         | 4.55%   |
+| HP OfficeJet 3830 series                                  | 1         | 4.55%   |
+| HP LaserJet P1102                                         | 1         | 4.55%   |
+| HP LaserJet 1200                                          | 1         | 4.55%   |
+| HP LaserJet 1160 series                                   | 1         | 4.55%   |
+| HP LaserJet 1020                                          | 1         | 4.55%   |
+| HP Ink Tank 110 series                                    | 1         | 4.55%   |
+| HP EWS UPD                                                | 1         | 4.55%   |
+| HP Deskjet 2540 series                                    | 1         | 4.55%   |
+| HP DeskJet 2130 series                                    | 1         | 4.55%   |
+| Canon PIXMA MX920 Series                                  | 1         | 4.55%   |
+| Canon LBP3010/LBP3018/LBP3050                             | 1         | 4.55%   |
+| Brother PT-9500PC                                         | 1         | 4.55%   |
+| Brother MFC-L2707DW                                       | 1         | 4.55%   |
+| Brother HL-L2340D series                                  | 1         | 4.55%   |
 
 Scanner Vendor
 --------------
@@ -6676,10 +6682,10 @@ Scanner device vendors
 
 | Vendor          | Notebooks | Percent |
 |-----------------|-----------|---------|
-| Seiko Epson     | 4         | 40%     |
-| Canon           | 4         | 40%     |
-| Mustek Systems  | 1         | 10%     |
-| Hewlett-Packard | 1         | 10%     |
+| Canon           | 5         | 45.45%  |
+| Seiko Epson     | 4         | 36.36%  |
+| Mustek Systems  | 1         | 9.09%   |
+| Hewlett-Packard | 1         | 9.09%   |
 
 Scanner Model
 -------------
@@ -6691,15 +6697,16 @@ Scanner device models
 
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
-| Canon CanoScan LiDE 120                           | 2         | 20%     |
-| Seiko Epson GT-9800F [Perfection 3200]            | 1         | 10%     |
-| Seiko Epson GT-9300UF [Perfection 2400 PHOTO]     | 1         | 10%     |
-| Seiko Epson GT-7700U [Perfection 1240U]           | 1         | 10%     |
-| Seiko Epson GT-7300U [Perfection 1260/1260 PHOTO] | 1         | 10%     |
-| Mustek Systems SNAPSCAN e22                       | 1         | 10%     |
-| HP Scanjet 200                                    | 1         | 10%     |
-| Canon CanoScan LIDE 25                            | 1         | 10%     |
-| Canon CanoScan LiDE 110                           | 1         | 10%     |
+| Canon CanoScan LiDE 120                           | 2         | 18.18%  |
+| Seiko Epson GT-9800F [Perfection 3200]            | 1         | 9.09%   |
+| Seiko Epson GT-9300UF [Perfection 2400 PHOTO]     | 1         | 9.09%   |
+| Seiko Epson GT-7700U [Perfection 1240U]           | 1         | 9.09%   |
+| Seiko Epson GT-7300U [Perfection 1260/1260 PHOTO] | 1         | 9.09%   |
+| Mustek Systems SNAPSCAN e22                       | 1         | 9.09%   |
+| HP Scanjet 200                                    | 1         | 9.09%   |
+| Canon CanoScan LIDE 25                            | 1         | 9.09%   |
+| Canon CanoScan LiDE 220                           | 1         | 9.09%   |
+| Canon CanoScan LiDE 110                           | 1         | 9.09%   |
 
 Camera
 ------
@@ -6714,50 +6721,49 @@ Camera device vendors
 
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
-| Chicony Electronics                    | 552       | 24.1%   |
-| IMC Networks                           | 243       | 10.61%  |
-| Acer                                   | 207       | 9.04%   |
-| Realtek Semiconductor                  | 206       | 9%      |
-| Microdia                               | 189       | 8.25%   |
-| Quanta                                 | 171       | 7.47%   |
-| Sunplus Innovation Technology          | 132       | 5.76%   |
-| Suyin                                  | 86        | 3.76%   |
-| Cheng Uei Precision Industry (Foxlink) | 73        | 3.19%   |
-| Lite-On Technology                     | 59        | 2.58%   |
-| Syntek                                 | 43        | 1.88%   |
-| Apple                                  | 40        | 1.75%   |
-| Silicon Motion                         | 39        | 1.7%    |
-| Logitech                               | 35        | 1.53%   |
-| Luxvisions Innotech Limited            | 34        | 1.48%   |
-| Ricoh                                  | 26        | 1.14%   |
-| Alcor Micro                            | 26        | 1.14%   |
-| Lenovo                                 | 22        | 0.96%   |
-| Z-Star Microelectronics                | 14        | 0.61%   |
-| Samsung Electronics                    | 11        | 0.48%   |
-| Primax Electronics                     | 11        | 0.48%   |
-| ALi                                    | 6         | 0.26%   |
-| Importek                               | 5         | 0.22%   |
+| Chicony Electronics                    | 577       | 24.17%  |
+| IMC Networks                           | 253       | 10.6%   |
+| Acer                                   | 230       | 9.64%   |
+| Realtek Semiconductor                  | 213       | 8.92%   |
+| Microdia                               | 195       | 8.17%   |
+| Quanta                                 | 172       | 7.21%   |
+| Sunplus Innovation Technology          | 137       | 5.74%   |
+| Suyin                                  | 86        | 3.6%    |
+| Cheng Uei Precision Industry (Foxlink) | 79        | 3.31%   |
+| Lite-On Technology                     | 59        | 2.47%   |
+| Syntek                                 | 45        | 1.89%   |
+| Silicon Motion                         | 41        | 1.72%   |
+| Apple                                  | 41        | 1.72%   |
+| Logitech                               | 36        | 1.51%   |
+| Luxvisions Innotech Limited            | 34        | 1.42%   |
+| Alcor Micro                            | 27        | 1.13%   |
+| Ricoh                                  | 26        | 1.09%   |
+| Lenovo                                 | 22        | 0.92%   |
+| Z-Star Microelectronics                | 15        | 0.63%   |
+| Samsung Electronics                    | 12        | 0.5%    |
+| Primax Electronics                     | 11        | 0.46%   |
+| ALi                                    | 7         | 0.29%   |
+| Genesys Logic                          | 6         | 0.25%   |
+| Importek                               | 5         | 0.21%   |
+| Sonix Technology                       | 4         | 0.17%   |
 | OmniVision Technologies                | 4         | 0.17%   |
-| Genesys Logic                          | 4         | 0.17%   |
 | USB Camera                             | 3         | 0.13%   |
-| Sonix Technology                       | 3         | 0.13%   |
+| SunplusIT                              | 3         | 0.13%   |
 | Intel                                  | 3         | 0.13%   |
 | GEMBIRD                                | 3         | 0.13%   |
-| Tobii Technology AB                    | 2         | 0.09%   |
-| Sunplus Technology                     | 2         | 0.09%   |
-| Pixart Imaging                         | 2         | 0.09%   |
-| Mimaki Engineering                     | 2         | 0.09%   |
-| MacroSilicon                           | 2         | 0.09%   |
-| Generalplus Technology                 | 2         | 0.09%   |
-| eMPIA Technology                       | 2         | 0.09%   |
-| CQG-5693-201019                        | 2         | 0.09%   |
-| ARC International                      | 2         | 0.09%   |
+| Tobii Technology AB                    | 2         | 0.08%   |
+| Sunplus Technology                     | 2         | 0.08%   |
+| Pixart Imaging                         | 2         | 0.08%   |
+| Mimaki Engineering                     | 2         | 0.08%   |
+| MacroSilicon                           | 2         | 0.08%   |
+| Generalplus Technology                 | 2         | 0.08%   |
+| eMPIA Technology                       | 2         | 0.08%   |
+| Creative Technology                    | 2         | 0.08%   |
+| ARC International                      | 2         | 0.08%   |
 | YGTek                                  | 1         | 0.04%   |
 | Y Media                                | 1         | 0.04%   |
 | Xiongmai                               | 1         | 0.04%   |
-| webcam                                 | 1         | 0.04%   |
 | U0AS01A-0                              | 1         | 0.04%   |
-| SunplusIT                              | 1         | 0.04%   |
 | Spreadtrum Communications              | 1         | 0.04%   |
 | Microsoft                              | 1         | 0.04%   |
 | LG Electronics                         | 1         | 0.04%   |
@@ -6765,14 +6771,14 @@ Camera device vendors
 | Holitech                               | 1         | 0.04%   |
 | GenesysLogic Technology                | 1         | 0.04%   |
 | Fitipower Integrated Technology        | 1         | 0.04%   |
+| DLUPCA1RSFZKI5                         | 1         | 0.04%   |
 | DigiTech                               | 1         | 0.04%   |
 | Cubeternet                             | 1         | 0.04%   |
-| Creative Technology                    | 1         | 0.04%   |
 | Aveo Technology                        | 1         | 0.04%   |
 | Arkmicro Technologies                  | 1         | 0.04%   |
 | Anker                                  | 1         | 0.04%   |
 | A4Tech                                 | 1         | 0.04%   |
-| 8SSC20F27145V1SR19P0BEK                | 1         | 0.04%   |
+| 2M UVC CAMERA                          | 1         | 0.04%   |
 | Unknown                                | 1         | 0.04%   |
 
 Camera Model
@@ -6785,66 +6791,66 @@ Camera device models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                                      | 156       | 6.77%   |
-| IMC Networks Integrated Camera                                 | 90        | 3.91%   |
-| Microdia Integrated_Webcam_HD                                  | 77        | 3.34%   |
-| Realtek Integrated_Webcam_HD                                   | 74        | 3.21%   |
-| Quanta Chromebook HD Camera                                    | 59        | 2.56%   |
-| Acer Integrated Camera                                         | 57        | 2.48%   |
-| Chicony HD WebCam                                              | 56        | 2.43%   |
-| Sunplus Integrated_Webcam_HD                                   | 52        | 2.26%   |
-| IMC Networks USB2.0 HD UVC WebCam                              | 45        | 1.95%   |
-| Acer BisonCam, NB Pro                                          | 31        | 1.35%   |
-| Chicony HP HD Camera                                           | 28        | 1.22%   |
-| Lite-On Integrated Camera                                      | 27        | 1.17%   |
-| Quanta HP TrueVision HD Camera                                 | 25        | 1.09%   |
-| Acer SunplusIT Integrated Camera                               | 24        | 1.04%   |
-| IMC Networks USB2.0 VGA UVC WebCam                             | 21        | 0.91%   |
-| Quanta VGA WebCam                                              | 20        | 0.87%   |
-| Acer Lenovo EasyCamera                                         | 20        | 0.87%   |
-| Syntek Integrated Camera                                       | 19        | 0.83%   |
-| Microdia Integrated Webcam                                     | 19        | 0.83%   |
-| Chicony Integrated Camera (1280x720@30)                        | 19        | 0.83%   |
-| Luxvisions Innotech Limited HP TrueVision HD Camera            | 18        | 0.78%   |
-| Sunplus HD WebCam                                              | 17        | 0.74%   |
-| Realtek Integrated Webcam                                      | 16        | 0.69%   |
-| Quanta HP HD Camera                                            | 16        | 0.69%   |
-| Microdia Laptop_Integrated_Webcam_HD                           | 16        | 0.69%   |
-| Realtek USB2.0 HD UVC WebCam                                   | 15        | 0.65%   |
-| Acer Lenovo Integrated Webcam                                  | 15        | 0.65%   |
-| Realtek USB Camera                                             | 14        | 0.61%   |
-| Realtek EasyCamera                                             | 14        | 0.61%   |
-| Chicony Lenovo EasyCamera                                      | 14        | 0.61%   |
-| Chicony Chromebook HD Camera                                   | 14        | 0.61%   |
-| Sunplus Laptop_Integrated_Webcam_FHD                           | 13        | 0.56%   |
-| Lite-On HP HD Camera                                           | 13        | 0.56%   |
-| Apple iPhone 5/5C/5S/6/SE                                      | 13        | 0.56%   |
-| Apple Built-in iSight                                          | 13        | 0.56%   |
-| Suyin HP Truevision HD                                         | 12        | 0.52%   |
-| Quanta HD WebCam                                               | 12        | 0.52%   |
-| IMC Networks USB 2.0 Camera                                    | 12        | 0.52%   |
-| Chicony USB2.0 HD UVC WebCam                                   | 12        | 0.52%   |
-| Chicony Lenovo Integrated Camera (0.3MP)                       | 12        | 0.52%   |
-| Chicony HP TrueVision HD Camera                                | 12        | 0.52%   |
-| Chicony HP Truevision HD                                       | 12        | 0.52%   |
-| Chicony HD User Facing                                         | 12        | 0.52%   |
-| Chicony EasyCamera                                             | 12        | 0.52%   |
-| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 12        | 0.52%   |
-| Acer ThinkPad Integrated Camera                                | 12        | 0.52%   |
-| Acer EasyCamera                                                | 12        | 0.52%   |
-| Samsung Galaxy A5 (MTP)                                        | 11        | 0.48%   |
-| Realtek USB2.0 VGA UVC WebCam                                  | 11        | 0.48%   |
-| Lenovo Integrated Webcam                                       | 11        | 0.48%   |
-| Chicony USB2.0 VGA UVC WebCam                                  | 11        | 0.48%   |
-| Chicony USB2.0 Camera                                          | 11        | 0.48%   |
-| Chicony USB 2.0 Camera                                         | 11        | 0.48%   |
-| Chicony TOSHIBA Web Camera - HD                                | 11        | 0.48%   |
-| Chicony HP Webcam                                              | 11        | 0.48%   |
-| Cheng Uei Precision Industry (Foxlink) HP Truevision HD        | 11        | 0.48%   |
-| Realtek HD WebCam                                              | 10        | 0.43%   |
-| Quanta HP Webcam                                               | 10        | 0.43%   |
-| Quanta HD User Facing                                          | 10        | 0.43%   |
-| Chicony HP HD Webcam                                           | 10        | 0.43%   |
+| Chicony Integrated Camera                                      | 162       | 6.75%   |
+| IMC Networks Integrated Camera                                 | 90        | 3.75%   |
+| Microdia Integrated_Webcam_HD                                  | 83        | 3.46%   |
+| Realtek Integrated_Webcam_HD                                   | 78        | 3.25%   |
+| Quanta Chromebook HD Camera                                    | 59        | 2.46%   |
+| Chicony HD WebCam                                              | 58        | 2.42%   |
+| Acer Integrated Camera                                         | 57        | 2.37%   |
+| IMC Networks USB2.0 HD UVC WebCam                              | 49        | 2.04%   |
+| Sunplus Integrated_Webcam_HD                                   | 47        | 1.96%   |
+| Acer BisonCam, NB Pro                                          | 44        | 1.83%   |
+| Lite-On Integrated Camera                                      | 27        | 1.12%   |
+| Chicony HP HD Camera                                           | 27        | 1.12%   |
+| Quanta HP TrueVision HD Camera                                 | 25        | 1.04%   |
+| Acer SunplusIT Integrated Camera                               | 24        | 1%      |
+| IMC Networks USB2.0 VGA UVC WebCam                             | 22        | 0.92%   |
+| Acer Lenovo EasyCamera                                         | 22        | 0.92%   |
+| Syntek Integrated Camera                                       | 21        | 0.87%   |
+| Quanta VGA WebCam                                              | 20        | 0.83%   |
+| Chicony Integrated Camera (1280x720@30)                        | 20        | 0.83%   |
+| Microdia Integrated Webcam                                     | 19        | 0.79%   |
+| Luxvisions Innotech Limited HP TrueVision HD Camera            | 19        | 0.79%   |
+| Sunplus HD WebCam                                              | 18        | 0.75%   |
+| Realtek USB2.0 HD UVC WebCam                                   | 16        | 0.67%   |
+| Realtek Integrated Webcam                                      | 16        | 0.67%   |
+| Quanta HP HD Camera                                            | 16        | 0.67%   |
+| Microdia Laptop_Integrated_Webcam_HD                           | 16        | 0.67%   |
+| Lite-On HP HD Camera                                           | 16        | 0.67%   |
+| Chicony Lenovo EasyCamera                                      | 15        | 0.62%   |
+| Acer Lenovo Integrated Webcam                                  | 15        | 0.62%   |
+| Realtek EasyCamera                                             | 14        | 0.58%   |
+| Chicony USB2.0 Camera                                          | 14        | 0.58%   |
+| Chicony Chromebook HD Camera                                   | 14        | 0.58%   |
+| Sunplus Laptop_Integrated_Webcam_FHD                           | 13        | 0.54%   |
+| Realtek USB Camera                                             | 13        | 0.54%   |
+| Chicony USB 2.0 Camera                                         | 13        | 0.54%   |
+| Chicony HP TrueVision HD                                       | 13        | 0.54%   |
+| Chicony HD User Facing                                         | 13        | 0.54%   |
+| Chicony EasyCamera                                             | 13        | 0.54%   |
+| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 13        | 0.54%   |
+| Apple iPhone 5/5C/5S/6/SE                                      | 13        | 0.54%   |
+| Apple Built-in iSight                                          | 13        | 0.54%   |
+| Suyin HP Truevision HD                                         | 12        | 0.5%    |
+| Samsung Galaxy A5 (MTP)                                        | 12        | 0.5%    |
+| Quanta HD Webcam                                               | 12        | 0.5%    |
+| IMC Networks USB 2.0 Camera                                    | 12        | 0.5%    |
+| Chicony USB2.0 VGA UVC WebCam                                  | 12        | 0.5%    |
+| Chicony USB2.0 HD UVC WebCam                                   | 12        | 0.5%    |
+| Chicony Lenovo Integrated Camera (0.3MP)                       | 12        | 0.5%    |
+| Chicony HP TrueVision HD Camera                                | 12        | 0.5%    |
+| Acer ThinkPad Integrated Camera                                | 12        | 0.5%    |
+| Acer EasyCamera                                                | 12        | 0.5%    |
+| Realtek USB2.0 VGA UVC WebCam                                  | 11        | 0.46%   |
+| Quanta HP Webcam                                               | 11        | 0.46%   |
+| Lenovo Integrated Webcam                                       | 11        | 0.46%   |
+| Chicony TOSHIBA Web Camera - HD                                | 11        | 0.46%   |
+| Chicony HP Webcam                                              | 11        | 0.46%   |
+| Chicony HP HD Webcam                                           | 11        | 0.46%   |
+| Cheng Uei Precision Industry (Foxlink) HP Truevision HD        | 11        | 0.46%   |
+| Realtek HD WebCam                                              | 10        | 0.42%   |
+| Quanta HD User Facing                                          | 10        | 0.42%   |
 
 Security
 --------
@@ -6859,16 +6865,16 @@ Fingerprint sensor vendors
 
 | Vendor                     | Notebooks | Percent |
 |----------------------------|-----------|---------|
-| Validity Sensors           | 168       | 33.87%  |
-| Synaptics                  | 144       | 29.03%  |
-| Shenzhen Goodix Technology | 60        | 12.1%   |
-| Upek                       | 35        | 7.06%   |
-| AuthenTec                  | 33        | 6.65%   |
-| Elan Microelectronics      | 23        | 4.64%   |
-| LighTuning Technology      | 19        | 3.83%   |
-| STMicroelectronics         | 12        | 2.42%   |
-| Samsung Electronics        | 1         | 0.2%    |
-| Microsoft                  | 1         | 0.2%    |
+| Validity Sensors           | 175       | 34.11%  |
+| Synaptics                  | 151       | 29.43%  |
+| Shenzhen Goodix Technology | 60        | 11.7%   |
+| Upek                       | 35        | 6.82%   |
+| AuthenTec                  | 34        | 6.63%   |
+| Elan Microelectronics      | 24        | 4.68%   |
+| LighTuning Technology      | 20        | 3.9%    |
+| STMicroelectronics         | 12        | 2.34%   |
+| Samsung Electronics        | 1         | 0.19%   |
+| Microsoft                  | 1         | 0.19%   |
 
 Fingerprint Model
 -----------------
@@ -6880,50 +6886,50 @@ Fingerprint sensor models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Synaptics Prometheus MIS Touch Fingerprint Reader                          | 65        | 13.1%   |
-| Validity Sensors VFS5011 Fingerprint Reader                                | 47        | 9.48%   |
-| Shenzhen Goodix  Fingerprint Device                                        | 34        | 6.85%   |
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                     | 32        | 6.45%   |
-| Validity Sensors VFS 5011 fingerprint sensor                               | 31        | 6.25%   |
-| Validity Sensors VFS495 Fingerprint Reader                                 | 26        | 5.24%   |
-| Synaptics Metallica MIS Touch Fingerprint Reader                           | 20        | 4.03%   |
-| Unknown                                                                    | 16        | 3.23%   |
-| Elan ELAN:Fingerprint                                                      | 15        | 3.02%   |
-| AuthenTec AES2810                                                          | 14        | 2.82%   |
-| Synaptics Metallica MOH Touch Fingerprint Reader                           | 13        | 2.62%   |
-| Shenzhen Goodix Fingerprint Reader                                         | 13        | 2.62%   |
-| Shenzhen Goodix FingerPrint                                                | 13        | 2.62%   |
-| Synaptics  FS7604 Touch Fingerprint Sensor with PurePrint                  | 12        | 2.42%   |
-| LighTuning EgisTec Touch Fingerprint Sensor                                | 11        | 2.22%   |
-| Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor with PurePrint | 10        | 2.02%   |
-| STMicroelectronics Fingerprint Reader                                      | 10        | 2.02%   |
-| Validity Sensors Synaptics WBDI                                            | 9         | 1.81%   |
-| Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint                 | 9         | 1.81%   |
-| Validity Sensors VFS471 Fingerprint Reader                                 | 8         | 1.61%   |
-| Validity Sensors VFS Fingerprint sensor                                    | 8         | 1.61%   |
-| Synaptics  WBDI                                                            | 8         | 1.61%   |
-| Elan ELAN:ARM-M4                                                           | 8         | 1.61%   |
-| AuthenTec AES2501 Fingerprint Sensor                                       | 8         | 1.61%   |
-| Validity Sensors Swipe Fingerprint Sensor                                  | 6         | 1.21%   |
-| LighTuning ES603 Swipe Fingerprint Sensor                                  | 6         | 1.21%   |
-| Validity Sensors VFS491                                                    | 5         | 1.01%   |
-| Validity Sensors VFS7500 Touch Fingerprint Sensor                          | 4         | 0.81%   |
-| Validity Sensors Fingerprint scanner                                       | 4         | 0.81%   |
-| AuthenTec AES1660 Fingerprint Sensor                                       | 4         | 0.81%   |
-| Validity Sensors VFS451 Fingerprint Reader                                 | 3         | 0.6%    |
-| Upek TCS5B Fingerprint sensor                                              | 3         | 0.6%    |
-| AuthenTec Fingerprint Sensor                                               | 3         | 0.6%    |
-| AuthenTec AES2550 Fingerprint Sensor                                       | 3         | 0.6%    |
-| Validity Sensors VFS7552 Touch Fingerprint Sensor                          | 2         | 0.4%    |
-| Validity Sensors VFS301 Fingerprint Reader                                 | 2         | 0.4%    |
-| Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor                | 2         | 0.4%    |
-| STMicroelectronics TouchChipÂ Fingerprint Reader                          | 2         | 0.4%    |
-| LighTuning Fingerprint Reader                                              | 2         | 0.4%    |
-| Validity Sensors VFS101 Fingerprint Reader                                 | 1         | 0.2%    |
-| Synaptics WBDI Device                                                      | 1         | 0.2%    |
-| Samsung Fingerprint Device                                                 | 1         | 0.2%    |
-| Microsoft Fingerprint Reader                                               | 1         | 0.2%    |
-| AuthenTec AES1600                                                          | 1         | 0.2%    |
+| Synaptics Prometheus MIS Touch Fingerprint Reader                          | 70        | 13.65%  |
+| Validity Sensors VFS5011 Fingerprint Reader                                | 48        | 9.36%   |
+| Shenzhen Goodix  FingerPrint Device                                        | 35        | 6.82%   |
+| Validity Sensors VFS 5011 fingerprint sensor                               | 33        | 6.43%   |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                     | 32        | 6.24%   |
+| Validity Sensors VFS495 Fingerprint Reader                                 | 28        | 5.46%   |
+| Synaptics Metallica MIS Touch Fingerprint Reader                           | 22        | 4.29%   |
+| Unknown                                                                    | 17        | 3.31%   |
+| Elan ELAN:Fingerprint                                                      | 16        | 3.12%   |
+| AuthenTec AES2810                                                          | 15        | 2.92%   |
+| Synaptics Metallica MOH Touch Fingerprint Reader                           | 13        | 2.53%   |
+| Shenzhen Goodix FingerPrint                                                | 13        | 2.53%   |
+| Shenzhen Goodix Fingerprint Reader                                         | 12        | 2.34%   |
+| LighTuning EgisTec Touch Fingerprint Sensor                                | 12        | 2.34%   |
+| Synaptics  FS7604 Touch Fingerprint Sensor with PurePrint                  | 11        | 2.14%   |
+| Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor with PurePrint | 10        | 1.95%   |
+| STMicroelectronics Fingerprint Reader                                      | 10        | 1.95%   |
+| Validity Sensors Synaptics WBDI                                            | 9         | 1.75%   |
+| Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint                 | 9         | 1.75%   |
+| Validity Sensors VFS471 Fingerprint Reader                                 | 8         | 1.56%   |
+| Validity Sensors VFS Fingerprint sensor                                    | 8         | 1.56%   |
+| Synaptics  WBDI                                                            | 8         | 1.56%   |
+| Elan ELAN:ARM-M4                                                           | 8         | 1.56%   |
+| AuthenTec AES2501 Fingerprint Sensor                                       | 8         | 1.56%   |
+| Validity Sensors Swipe Fingerprint Sensor                                  | 6         | 1.17%   |
+| LighTuning ES603 Swipe Fingerprint Sensor                                  | 6         | 1.17%   |
+| Validity Sensors VFS7500 Touch Fingerprint Sensor                          | 5         | 0.97%   |
+| Validity Sensors VFS491                                                    | 5         | 0.97%   |
+| Validity Sensors VFS451 Fingerprint Reader                                 | 4         | 0.78%   |
+| Validity Sensors Fingerprint scanner                                       | 4         | 0.78%   |
+| AuthenTec AES1660 Fingerprint Sensor                                       | 4         | 0.78%   |
+| Upek TCS5B Fingerprint sensor                                              | 3         | 0.58%   |
+| AuthenTec Fingerprint Sensor                                               | 3         | 0.58%   |
+| AuthenTec AES2550 Fingerprint Sensor                                       | 3         | 0.58%   |
+| Validity Sensors VFS7552 Touch Fingerprint Sensor                          | 2         | 0.39%   |
+| Validity Sensors VFS301 Fingerprint Reader                                 | 2         | 0.39%   |
+| Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor                | 2         | 0.39%   |
+| STMicroelectronics TouchChipÂ Fingerprint Reader                          | 2         | 0.39%   |
+| LighTuning Fingerprint Reader                                              | 2         | 0.39%   |
+| Validity Sensors VFS101 Fingerprint Reader                                 | 1         | 0.19%   |
+| Synaptics WBDI Device                                                      | 1         | 0.19%   |
+| Samsung Fingerprint Device                                                 | 1         | 0.19%   |
+| Microsoft Fingerprint Reader                                               | 1         | 0.19%   |
+| AuthenTec AES1600                                                          | 1         | 0.19%   |
 
 Chipcard Vendor
 ---------------
@@ -6935,18 +6941,18 @@ Chipcard module vendors
 
 | Vendor                    | Notebooks | Percent |
 |---------------------------|-----------|---------|
-| Broadcom                  | 89        | 36.63%  |
-| Alcor Micro               | 87        | 35.8%   |
-| Upek                      | 21        | 8.64%   |
-| Lenovo                    | 20        | 8.23%   |
-| O2 Micro                  | 14        | 5.76%   |
-| Gemalto (was Gemplus)     | 3         | 1.23%   |
-| Clay Logic                | 3         | 1.23%   |
-| Aladdin Knowledge Systems | 2         | 0.82%   |
-| SCM Microsystems          | 1         | 0.41%   |
-| OmniKey                   | 1         | 0.41%   |
-| Cherry                    | 1         | 0.41%   |
-| Advanced Card Systems     | 1         | 0.41%   |
+| Broadcom                  | 94        | 37.01%  |
+| Alcor Micro               | 92        | 36.22%  |
+| Upek                      | 21        | 8.27%   |
+| Lenovo                    | 20        | 7.87%   |
+| O2 Micro                  | 15        | 5.91%   |
+| Gemalto (was Gemplus)     | 3         | 1.18%   |
+| Clay Logic                | 3         | 1.18%   |
+| Aladdin Knowledge Systems | 2         | 0.79%   |
+| SCM Microsystems          | 1         | 0.39%   |
+| OmniKey                   | 1         | 0.39%   |
+| Cherry                    | 1         | 0.39%   |
+| Advanced Card Systems     | 1         | 0.39%   |
 
 Chipcard Model
 --------------
@@ -6958,26 +6964,26 @@ Chipcard module models
 
 | Model                                                                        | Notebooks | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Alcor Micro AU9540 Smartcard Reader                                          | 85        | 34.98%  |
-| Broadcom BCM5880 Secure Applications Processor                               | 29        | 11.93%  |
-| Broadcom 5880                                                                | 26        | 10.7%   |
-| Upek TouchChip Fingerprint Coprocessor (WBF advanced mode)                   | 21        | 8.64%   |
-| Lenovo Integrated Smart Card Reader                                          | 20        | 8.23%   |
-| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 17        | 7%      |
-| Broadcom 58200                                                               | 16        | 6.58%   |
-| O2 Micro OZ776 CCID Smartcard Reader                                         | 13        | 5.35%   |
-| Gemalto (was Gemplus) Compact Smart Card Reader Writer                       | 2         | 0.82%   |
-| Clay Logic Nitrokey Start                                                    | 2         | 0.82%   |
-| Alcor Micro Watchdata W 1981                                                 | 2         | 0.82%   |
-| Aladdin Knowledge Systems Token JC                                           | 2         | 0.82%   |
-| SCM Microsystems uTrust FIDO2 Security Key                                   | 1         | 0.41%   |
-| OmniKey CardMan 4321                                                         | 1         | 0.41%   |
-| O2 Micro Oz776 SmartCard Reader                                              | 1         | 0.41%   |
-| Gemalto (was Gemplus) GemPC Twin SmartCard Reader                            | 1         | 0.41%   |
-| Clay Logic Nitrokey Pro                                                      | 1         | 0.41%   |
-| Cherry SmartCard Reader Keyboard KC 1000 SC                                  | 1         | 0.41%   |
-| Broadcom BCM5880 Secure Applications Processor with fingerprint touch sensor | 1         | 0.41%   |
-| Advanced Card Systems ACR38 SmartCard Reader                                 | 1         | 0.41%   |
+| Alcor Micro AU9540 Smartcard Reader                                          | 90        | 35.43%  |
+| Broadcom BCM5880 Secure Applications Processor                               | 32        | 12.6%   |
+| Broadcom 5880                                                                | 27        | 10.63%  |
+| Upek TouchChip Fingerprint Coprocessor (WBF advanced mode)                   | 21        | 8.27%   |
+| Lenovo Integrated Smart Card Reader                                          | 20        | 7.87%   |
+| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 17        | 6.69%   |
+| Broadcom 58200                                                               | 17        | 6.69%   |
+| O2 Micro OZ776 CCID Smartcard Reader                                         | 13        | 5.12%   |
+| O2 Micro Oz776 SmartCard Reader                                              | 2         | 0.79%   |
+| Gemalto (was Gemplus) Compact Smart Card Reader Writer                       | 2         | 0.79%   |
+| Clay Logic Nitrokey Start                                                    | 2         | 0.79%   |
+| Alcor Micro Watchdata W 1981                                                 | 2         | 0.79%   |
+| Aladdin Knowledge Systems Token JC                                           | 2         | 0.79%   |
+| SCM Microsystems uTrust FIDO2 Security Key                                   | 1         | 0.39%   |
+| OmniKey CardMan 4321                                                         | 1         | 0.39%   |
+| Gemalto (was Gemplus) GemPC Twin SmartCard Reader                            | 1         | 0.39%   |
+| Clay Logic Nitrokey Pro                                                      | 1         | 0.39%   |
+| Cherry SmartCard Reader Keyboard KC 1000 SC                                  | 1         | 0.39%   |
+| Broadcom BCM5880 Secure Applications Processor with fingerprint touch sensor | 1         | 0.39%   |
+| Advanced Card Systems ACR38 SmartCard Reader                                 | 1         | 0.39%   |
 
 Unsupported
 -----------
@@ -6992,12 +6998,12 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 1916      | 60.29%  |
-| 1     | 961       | 30.24%  |
-| 2     | 240       | 7.55%   |
-| 3     | 54        | 1.7%    |
-| 4     | 5         | 0.16%   |
-| 5     | 2         | 0.06%   |
+| 0     | 1951      | 59.34%  |
+| 1     | 1026      | 31.2%   |
+| 2     | 247       | 7.51%   |
+| 3     | 55        | 1.67%   |
+| 4     | 6         | 0.18%   |
+| 5     | 3         | 0.09%   |
 
 Unsupported Device Types
 ------------------------
@@ -7009,22 +7015,22 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 493       | 31.6%   |
-| Graphics card            | 332       | 21.28%  |
-| Chipcard                 | 221       | 14.17%  |
-| Multimedia controller    | 203       | 13.01%  |
-| Net/wireless             | 126       | 8.08%   |
-| Bluetooth                | 42        | 2.69%   |
-| Card reader              | 28        | 1.79%   |
-| Storage                  | 27        | 1.73%   |
-| Camera                   | 25        | 1.6%    |
-| Communication controller | 21        | 1.35%   |
-| Net/ethernet             | 11        | 0.71%   |
-| Sound                    | 9         | 0.58%   |
-| Network                  | 6         | 0.38%   |
-| Modem                    | 6         | 0.38%   |
-| Flash memory             | 4         | 0.26%   |
-| Firewire controller      | 2         | 0.13%   |
+| Fingerprint reader       | 510       | 31.02%  |
+| Graphics card            | 377       | 22.93%  |
+| Chipcard                 | 232       | 14.11%  |
+| Multimedia controller    | 205       | 12.47%  |
+| Net/wireless             | 128       | 7.79%   |
+| Bluetooth                | 43        | 2.62%   |
+| Card reader              | 30        | 1.82%   |
+| Storage                  | 27        | 1.64%   |
+| Camera                   | 27        | 1.64%   |
+| Communication controller | 23        | 1.4%    |
+| Net/ethernet             | 11        | 0.67%   |
+| Sound                    | 9         | 0.55%   |
+| Network                  | 6         | 0.36%   |
+| Modem                    | 6         | 0.36%   |
+| Flash memory             | 4         | 0.24%   |
+| Firewire controller      | 2         | 0.12%   |
 | Wireless                 | 1         | 0.06%   |
 | Unassigned class         | 1         | 0.06%   |
 | Tv card                  | 1         | 0.06%   |

@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 82
+Total: 81
 
 | Vendor   | Model                       | Form-Factor | Probe                                                      | Date         |
 |----------|-----------------------------|-------------|------------------------------------------------------------|--------------|
@@ -219,7 +219,6 @@ Total: 82
 | Lenovo   | ThinkPad T60 20085TG        | Notebook    | [31cd0f06c2](https://linux-hardware.org/?probe=31cd0f06c2) | Sep 16, 2020 |
 | Teclast  | F5                          | Convertible | [1003072bc5](https://linux-hardware.org/?probe=1003072bc5) | Sep 06, 2020 |
 | Samsung  | 350V5C/351V5C/3540VC/344... | Notebook    | [356bacc97a](https://linux-hardware.org/?probe=356bacc97a) | Aug 27, 2020 |
-| Samsung  | 350V5C/351V5C/3540VC/344... | Notebook    | [f16c9341a8](https://linux-hardware.org/?probe=f16c9341a8) | Aug 21, 2020 |
 | Acer     | Aspire A114-32              | Notebook    | [7f178a7089](https://linux-hardware.org/?probe=7f178a7089) | Aug 20, 2020 |
 | Samsung  | 350V5C/351V5C/3540VC/344... | Notebook    | [9b4d2c057e](https://linux-hardware.org/?probe=9b4d2c057e) | Aug 19, 2020 |
 | ASUSTek  | VivoBook 15_ASUS Laptop ... | Notebook    | [57e274292b](https://linux-hardware.org/?probe=57e274292b) | Aug 16, 2020 |
@@ -240,7 +239,7 @@ Total: 82
 | Notebook | W65_W67RZ1                  | Notebook    | [aaffd10ebf](https://linux-hardware.org/?probe=aaffd10ebf) | Mar 24, 2020 |
 | Gigabyte | X470 AORUS ULTRA GAMING-... | Desktop     | [1243c4a0d9](https://linux-hardware.org/?probe=1243c4a0d9) | Mar 24, 2020 |
 | HP       | 1790                        | Desktop     | [68a167efd3](https://linux-hardware.org/?probe=68a167efd3) | Mar 24, 2020 |
-| Medion   | AKOYA E1318T                | Notebook    | [d6be35c8af](https://linux-hardware.org/?probe=d6be35c8af) | Mar 20, 2020 |
+| Medion   | Akoya E1318T                | Notebook    | [d6be35c8af](https://linux-hardware.org/?probe=d6be35c8af) | Mar 20, 2020 |
 
 System
 ------
@@ -383,9 +382,9 @@ SDDM, LightDM, etc.
 
 | Name    | Computers | Percent |
 |---------|-----------|---------|
-| LightDM | 63        | 87.5%   |
+| LightDM | 58        | 80.56%  |
 | SDDM    | 7         | 9.72%   |
-| TDM     | 1         | 1.39%   |
+| TDM     | 6         | 8.33%   |
 | Unknown | 1         | 1.39%   |
 
 OS Lang
@@ -432,10 +431,10 @@ Type of filesystem
 
 | Type    | Computers | Percent |
 |---------|-----------|---------|
-| Ext4    | 65        | 90.28%  |
-| Overlay | 5         | 6.94%   |
+| Ext4    | 63        | 87.5%   |
+| Overlay | 6         | 8.33%   |
+| Btrfs   | 2         | 2.78%   |
 | Xfs     | 1         | 1.39%   |
-| Btrfs   | 1         | 1.39%   |
 
 Part. scheme
 ------------
@@ -460,8 +459,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 58        | 78.38%  |
-| Yes       | 16        | 21.62%  |
+| No        | 57        | 77.03%  |
+| Yes       | 17        | 22.97%  |
 
 Dual Boot (Win)
 ---------------
@@ -524,7 +523,7 @@ Motherboard model
 | MSI MS-7B86                              | 1         | 1.39%   |
 | MSI MS-7641                              | 1         | 1.39%   |
 | MSI GEG                                  | 1         | 1.39%   |
-| Medion AKOYA E1318T                      | 1         | 1.39%   |
+| Medion Akoya E1318T                      | 1         | 1.39%   |
 | Lenovo ThinkPad X1 Carbon 5th 20HR0013AU | 1         | 1.39%   |
 | Lenovo ThinkPad T60 20085TG              | 1         | 1.39%   |
 | Lenovo ThinkPad T530 2394CJ9             | 1         | 1.39%   |
@@ -601,7 +600,7 @@ Motherboard model prefix
 | MSI MS-7B86         | 1         | 1.39%   |
 | MSI MS-7641         | 1         | 1.39%   |
 | MSI GEG             | 1         | 1.39%   |
-| Medion AKOYA        | 1         | 1.39%   |
+| Medion Akoya        | 1         | 1.39%   |
 | Lenovo MIIX         | 1         | 1.39%   |
 | Lenovo IdeaPad      | 1         | 1.39%   |
 | Lenovo B590         | 1         | 1.39%   |
@@ -868,68 +867,68 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                      | Computers | Percent |
-|---------------------------|-----------|---------|
-| Madrid                    | 3         | 4.05%   |
-| Asansol                   | 3         | 4.05%   |
-| Wadsworth                 | 1         | 1.35%   |
-| Tuusula                   | 1         | 1.35%   |
-| Trivandrum                | 1         | 1.35%   |
-| Torrevieja                | 1         | 1.35%   |
-| Torquay                   | 1         | 1.35%   |
-| Tobyhanna                 | 1         | 1.35%   |
-| Tampa                     | 1         | 1.35%   |
-| Stockholm                 | 1         | 1.35%   |
-| SÃ¶dertÃ¤lje          | 1         | 1.35%   |
-| Rensselaer                | 1         | 1.35%   |
-| Prague                    | 1         | 1.35%   |
-| Porto                     | 1         | 1.35%   |
-| Podolsk                   | 1         | 1.35%   |
-| Pocono Summit             | 1         | 1.35%   |
-| Piszczac                  | 1         | 1.35%   |
-| Perm                      | 1         | 1.35%   |
-| Ooltewah                  | 1         | 1.35%   |
-| Omsk                      | 1         | 1.35%   |
-| Oakland                   | 1         | 1.35%   |
-| Nuremberg                 | 1         | 1.35%   |
-| Novi Knezevac             | 1         | 1.35%   |
-| Nashville                 | 1         | 1.35%   |
-| Munich                    | 1         | 1.35%   |
-| Montreal                  | 1         | 1.35%   |
-| Monterrey                 | 1         | 1.35%   |
-| Milan                     | 1         | 1.35%   |
-| Mexico City               | 1         | 1.35%   |
-| Meriden                   | 1         | 1.35%   |
-| Mechanicsburg             | 1         | 1.35%   |
-| MÃ¼nster                | 1         | 1.35%   |
-| Marbella                  | 1         | 1.35%   |
-| Manado                    | 1         | 1.35%   |
-| Madison                   | 1         | 1.35%   |
-| Luanda                    | 1         | 1.35%   |
-| Los Puertos de Altagracia | 1         | 1.35%   |
-| Los Angeles               | 1         | 1.35%   |
-| Lobnya                    | 1         | 1.35%   |
-| Lille                     | 1         | 1.35%   |
-| Leipzig                   | 1         | 1.35%   |
-| Lebanon                   | 1         | 1.35%   |
-| Kreuztal                  | 1         | 1.35%   |
-| Kent                      | 1         | 1.35%   |
-| Kartal                    | 1         | 1.35%   |
-| Iowa City                 | 1         | 1.35%   |
-| Huntsville                | 1         | 1.35%   |
-| Ho Chi Minh City          | 1         | 1.35%   |
-| Hendon                    | 1         | 1.35%   |
-| Helsinki                  | 1         | 1.35%   |
-| Gargan                    | 1         | 1.35%   |
-| Damascus                  | 1         | 1.35%   |
-| Comox                     | 1         | 1.35%   |
-| Chesapeake                | 1         | 1.35%   |
-| Cebu City                 | 1         | 1.35%   |
-| Carl Junction             | 1         | 1.35%   |
-| Caldicot                  | 1         | 1.35%   |
-| Budapest                  | 1         | 1.35%   |
-| Breedenbroek              | 1         | 1.35%   |
-| BogotÃ¡                 | 1         | 1.35%   |
+| City              | Computers | Percent |
+|-------------------|-----------|---------|
+| Patna             | 3         | 4.11%   |
+| Madrid            | 3         | 4.11%   |
+| Munich            | 2         | 2.74%   |
+| Wadsworth         | 1         | 1.37%   |
+| Trivandrum        | 1         | 1.37%   |
+| Tampa             | 1         | 1.37%   |
+| Tacoma            | 1         | 1.37%   |
+| Stockholm         | 1         | 1.37%   |
+| Södertälje      | 1         | 1.37%   |
+| Siegen            | 1         | 1.37%   |
+| Sibulan           | 1         | 1.37%   |
+| Rusko             | 1         | 1.37%   |
+| Rensselaer        | 1         | 1.37%   |
+| Prague            | 1         | 1.37%   |
+| Porto             | 1         | 1.37%   |
+| Podolsk           | 1         | 1.37%   |
+| Perm              | 1         | 1.37%   |
+| Ooltewah          | 1         | 1.37%   |
+| Omsk              | 1         | 1.37%   |
+| Oakland           | 1         | 1.37%   |
+| Novi Knezevac     | 1         | 1.37%   |
+| Newmarket         | 1         | 1.37%   |
+| Nashville         | 1         | 1.37%   |
+| Münster          | 1         | 1.37%   |
+| Mount Pocono      | 1         | 1.37%   |
+| Montreal          | 1         | 1.37%   |
+| Monterrey         | 1         | 1.37%   |
+| Milton Keynes     | 1         | 1.37%   |
+| Milan             | 1         | 1.37%   |
+| Mexico City       | 1         | 1.37%   |
+| Mechanicsburg     | 1         | 1.37%   |
+| Manado            | 1         | 1.37%   |
+| Madison           | 1         | 1.37%   |
+| Lublin            | 1         | 1.37%   |
+| Luanda            | 1         | 1.37%   |
+| Los Angeles       | 1         | 1.37%   |
+| Lobnya            | 1         | 1.37%   |
+| Lille             | 1         | 1.37%   |
+| Leipzig           | 1         | 1.37%   |
+| La Puebla         | 1         | 1.37%   |
+| Kartal            | 1         | 1.37%   |
+| Huntsville        | 1         | 1.37%   |
+| Ho Chi Minh City  | 1         | 1.37%   |
+| Geelong           | 1         | 1.37%   |
+| Gargan            | 1         | 1.37%   |
+| Franklin          | 1         | 1.37%   |
+| Fanny Bay         | 1         | 1.37%   |
+| Espoo             | 1         | 1.37%   |
+| Damascus          | 1         | 1.37%   |
+| Cowfold           | 1         | 1.37%   |
+| Cheshire          | 1         | 1.37%   |
+| Chesapeake        | 1         | 1.37%   |
+| Cedar Rapids      | 1         | 1.37%   |
+| Carl Junction     | 1         | 1.37%   |
+| Caracas           | 1         | 1.37%   |
+| Budapest          | 1         | 1.37%   |
+| Breedenbroek      | 1         | 1.37%   |
+| Bogotá           | 1         | 1.37%   |
+| Bergisch Gladbach | 1         | 1.37%   |
+| Bayreuth          | 1         | 1.37%   |
 
 Drives
 ------
@@ -986,7 +985,7 @@ Hard drive models
 | WDC WD1002FAEX-00Z3A0 1TB            | 2         | 1.83%   |
 | SK Hynix SC311 SATA 256GB SSD        | 2         | 1.83%   |
 | Seagate ST2000DM008-2FR102 2TB       | 2         | 1.83%   |
-| Yeyian VALK 1000 120GB               | 1         | 0.92%   |
+| Yeyian VALK 1000 120GB SSD           | 1         | 0.92%   |
 | WDC WDS500G2B0A 500GB SSD            | 1         | 0.92%   |
 | WDC WDS500G1R0A-68A4W0 500GB SSD     | 1         | 0.92%   |
 | WDC WDS250G2B0A-00SM50 250GB SSD     | 1         | 0.92%   |
@@ -1027,7 +1026,7 @@ Hard drive models
 | Seagate ST2000DM001-1CH164 2TB       | 1         | 0.92%   |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 0.92%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 1         | 0.92%   |
-| Seagate BUP BK 4TB                   | 1         | 0.92%   |
+| Seagate BUP BK 5TB                   | 1         | 0.92%   |
 | Seagate Backup+ Desk 5TB             | 1         | 0.92%   |
 | SanDisk SSD PLUS 480G                | 1         | 0.92%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 0.92%   |
@@ -1135,8 +1134,9 @@ Size of hard drive
 | 0.01-0.5   | 52        | 73     | 70.27%  |
 | 0.51-1.0   | 13        | 14     | 17.57%  |
 | 1.01-2.0   | 6         | 7      | 8.11%   |
-| 3.01-4.0   | 2         | 3      | 2.7%    |
+| 3.01-4.0   | 1         | 2      | 1.35%   |
 | 2.01-3.0   | 1         | 2      | 1.35%   |
+| 4.01-10.0  | 1         | 1      | 1.35%   |
 
 Space Total
 -----------
@@ -1835,7 +1835,7 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch  | 2         | 2.47%   |
 | ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                    | 1         | 1.23%   |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch                   | 1         | 1.23%   |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch      | 1         | 1.23%   |
+| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                             | 1         | 1.23%   |
 | Sony TV SNY0801 1360x768                                                  | 1         | 1.23%   |
 | Sceptre Tech E24 SPT099D 1920x1080 521x293mm 23.5-inch                    | 1         | 1.23%   |
 | Samsung Electronics SyncMaster SAM04E6 1920x1080 477x268mm 21.5-inch      | 1         | 1.23%   |
@@ -1860,13 +1860,13 @@ Monitor models
 | Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch                  | 1         | 1.23%   |
 | Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                    | 1         | 1.23%   |
 | Lenovo LCD Monitor LEN4043 1400x1050 305x228mm 15.0-inch                  | 1         | 1.23%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                   | 1         | 1.23%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                   | 1         | 1.23%   |
 | InfoVision LCD Monitor IVO03FA 1366x768 223x125mm 10.1-inch               | 1         | 1.23%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                      | 1         | 1.23%   |
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch                | 1         | 1.23%   |
 | Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch                | 1         | 1.23%   |
 | Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch                 | 1         | 1.23%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                  | 1         | 1.23%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                 | 1         | 1.23%   |
 | HannStar HL161ABB HSD61C7 1366x768 344x193mm 15.5-inch                    | 1         | 1.23%   |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                      | 1         | 1.23%   |
 | Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                     | 1         | 1.23%   |
@@ -2101,7 +2101,7 @@ Controller models
 | Broadcom BCM43142 802.11b/g/n                                                                 | 2         | 1.5%    |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                           | 2         | 1.5%    |
 | U-Blox [u-blox 8]                                                                             | 1         | 0.75%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1         | 0.75%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                         | 1         | 0.75%   |
 | Sierra Wireless EM7430 Qualcomm Snapdragon X7 LTE-A                                           | 1         | 0.75%   |
 | Sierra Wireless EM7345 4G LTE                                                                 | 1         | 0.75%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1         | 0.75%   |
@@ -2185,7 +2185,7 @@ Wireless models
 | Intel Centrino Advanced-N 6235                                                                | 2         | 3.13%   |
 | Broadcom BCM43142 802.11b/g/n                                                                 | 2         | 3.13%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                           | 2         | 3.13%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1         | 1.56%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                         | 1         | 1.56%   |
 | Sierra Wireless EM7430 Qualcomm Snapdragon X7 LTE-A                                           | 1         | 1.56%   |
 | Sierra Wireless EM7345 4G LTE                                                                 | 1         | 1.56%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1         | 1.56%   |
@@ -2303,9 +2303,9 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 55        | 51.4%   |
-| WiFi     | 51        | 47.66%  |
-| Unknown  | 1         | 0.93%   |
+| WiFi     | 44        | 61.97%  |
+| Ethernet | 26        | 36.62%  |
+| Unknown  | 1         | 1.41%   |
 
 NICs
 ----
@@ -2371,14 +2371,13 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 13        | 32.5%   |
-| Realtek Bluetooth Radio                             | 2         | 5%      |
+| Realtek Bluetooth Radio                             | 3         | 7.5%    |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 5%      |
-| Intel Bluetooth Device                              | 2         | 5%      |
+| Intel AX201 Bluetooth                               | 2         | 5%      |
 | Intel AX200 Bluetooth                               | 2         | 5%      |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 5%      |
-| Realtek RTL8821A Bluetooth                          | 1         | 2.5%    |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 2.5%    |
-| Lite-On Bluetooth Device                            | 1         | 2.5%    |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.5%    |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.5%    |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.5%    |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.5%    |
@@ -2533,8 +2532,8 @@ Memory module models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | SK Hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s                 | 2         | 2.25%   |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 2         | 2.25%   |
-| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s              | 2         | 2.25%   |
+| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s              | 2         | 2.25%   |
+| Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s           | 2         | 2.25%   |
 | Unknown RAM Module 8192MB DIMM DDR4 2133MT/s                         | 1         | 1.12%   |
 | Unknown RAM Module 512MB DIMM SDRAM                                  | 1         | 1.12%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                         | 1         | 1.12%   |
@@ -2544,18 +2543,18 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM DDR2                                | 1         | 1.12%   |
 | Unknown RAM Module 1024MB DIMM SDRAM                                 | 1         | 1.12%   |
 | Unknown RAM Module 1024MB DIMM DDR                                   | 1         | 1.12%   |
-| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s     | 1         | 1.12%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM DDR4 2400MT/s       | 1         | 1.12%   |
 | Transcend RAM JM1333KSN-4G 4096MB SODIMM DDR3 1334MT/s               | 1         | 1.12%   |
 | Teikon RAM TMT451S6BFR8A-PBHJ 4GB SODIMM DDR3 1600MT/s               | 1         | 1.12%   |
-| Smart RAM SH564128FJ8NWRNSQR 4096MB SODIMM DDR3 1600MT/s             | 1         | 1.12%   |
+| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s                | 1         | 1.12%   |
 | SK Hynix RAM Module 2048MB SODIMM DDR3 800MT/s                       | 1         | 1.12%   |
 | SK Hynix RAM Module 16384MB SODIMM DDR4 2667MT/s                     | 1         | 1.12%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s            | 1         | 1.12%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s            | 1         | 1.12%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s               | 1         | 1.12%   |
+| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s               | 1         | 1.12%   |
 | SK Hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s              | 1         | 1.12%   |
-| SK Hynix RAM HMT351U6EFR8C-PB 4096MB DIMM DDR3 1800MT/s              | 1         | 1.12%   |
+| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 1         | 1.12%   |
 | SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s               | 1         | 1.12%   |
-| SK Hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1334MT/s               | 1         | 1.12%   |
+| SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1334MT/s            | 1         | 1.12%   |
 | SK Hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s            | 1         | 1.12%   |
 | SK Hynix RAM HMT125S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s               | 1         | 1.12%   |
 | SK Hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 1.12%   |
@@ -2563,34 +2562,34 @@ Memory module models
 | SK Hynix RAM H5AN8G6NCJR-XNC 4GB SODIMM DDR4 3200MT/s                | 1         | 1.12%   |
 | Samsung RAM Module 2048MB SODIMM DDR2 533MT/s                        | 1         | 1.12%   |
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s                | 1         | 1.12%   |
-| Samsung RAM M471B5674EB0-YK0 2048MB SODIMM DDR3 1600MT/s             | 1         | 1.12%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s                | 1         | 1.12%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s             | 1         | 1.12%   |
+| Samsung RAM M471B5674EB0-YK0 2GB SODIMM 1600MT/s                     | 1         | 1.12%   |
+| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s             | 1         | 1.12%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                | 1         | 1.12%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s                | 1         | 1.12%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                | 1         | 1.12%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                | 1         | 1.12%   |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s             | 1         | 1.12%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s                | 1         | 1.12%   |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s               | 1         | 1.12%   |
-| Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s               | 1         | 1.12%   |
+| Samsung RAM M471A2K43CB1-CRC 16384MB SODIMM DDR4 2667MT/s            | 1         | 1.12%   |
+| Samsung RAM M471A2K43BB1-CPB 16384MB SODIMM DDR4 2133MT/s            | 1         | 1.12%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s                | 1         | 1.12%   |
 | Samsung RAM M391B5273DH0-YK0 4GB DIMM DDR3 1600MT/s                  | 1         | 1.12%   |
 | Ramaxel RAM RMT3150ED58E8W1600 2GB SODIMM DDR3 1600MT/s              | 1         | 1.12%   |
-| Ramaxel RAM RMSA3300ME78HBF-2666 16384MB SODIMM DDR4 2667MT/s        | 1         | 1.12%   |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8192MB SODIMM DDR4 2667MT/s         | 1         | 1.12%   |
+| Ramaxel RAM RMSA3300ME78HBF-2666 16GB SODIMM DDR4 2667MT/s           | 1         | 1.12%   |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s            | 1         | 1.12%   |
 | PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s                 | 1         | 1.12%   |
 | Patriot Memory (PDP Systems) RAM PSD48G320081 8GB DIMM DDR4 3200MT/s | 1         | 1.12%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                   | 1         | 1.12%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4096MB DIMM DDR3 1600MT/s                | 1         | 1.12%   |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                 | 1         | 1.12%   |
 | Nanya RAM NT1GT64UH8D0FN-3C 1024MB SODIMM DDR2 667MT/s               | 1         | 1.12%   |
 | Micron RAM Module 4GB SODIMM DDR3 1067MT/s                           | 1         | 1.12%   |
 | Micron RAM Module 4096MB SODIMM DDR4 2400MT/s                        | 1         | 1.12%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                        | 1         | 1.12%   |
 | Micron RAM Module 1024MB SODIMM DDR3 1067MT/s                        | 1         | 1.12%   |
-| Micron RAM 8ATF1G64HZ-2G3E1 8GB SODIMM DDR4 2400MT/s                 | 1         | 1.12%   |
+| Micron RAM 8ATF1G64HZ-2G3E1 8192MB SODIMM DDR4 2400MT/s              | 1         | 1.12%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB Row Of Chips DDR4 3200MT/s          | 1         | 1.12%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4096MB SODIMM DDR4 2667MT/s             | 1         | 1.12%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s           | 1         | 1.12%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                | 1         | 1.12%   |
+| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s                | 1         | 1.12%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8192MB Row Of Chips DDR4 3200MT/s        | 1         | 1.12%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8192MB SODIMM DDR3 1600MT/s             | 1         | 1.12%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s                 | 1         | 1.12%   |
 
 Memory Kind
@@ -2765,8 +2764,8 @@ Camera device models
 | Sunplus Laptop_Integrated_Webcam_HD                         | 1         | 2.63%   |
 | Sunplus Integrated_Webcam_HD                                | 1         | 2.63%   |
 | Realtek USB Camera                                          | 1         | 2.63%   |
+| Realtek MTD camera                                          | 1         | 2.63%   |
 | Realtek Integrated_Webcam_HD                                | 1         | 2.63%   |
-| Realtek Integrated Camera 2M                                | 1         | 2.63%   |
 | Realtek HD WebCam                                           | 1         | 2.63%   |
 | Quanta HP Wide Vision FHD Camera                            | 1         | 2.63%   |
 | Luxvisions Innotech Limited HP Wide Vision HD Camera        | 1         | 2.63%   |

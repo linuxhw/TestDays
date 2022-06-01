@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 10
+Total: 9
 
 | Vendor   | Model         | Probe                                                      | Date         |
 |----------|---------------|------------------------------------------------------------|--------------|
@@ -165,7 +165,6 @@ Total: 10
 | Dell     | 088DT1 A01    | [4917dcd8b3](https://linux-hardware.org/?probe=4917dcd8b3) | Nov 02, 2021 |
 | ASUSTek  | A88X-PLUS/USB | [ad21355553](https://linux-hardware.org/?probe=ad21355553) | Sep 27, 2021 |
 | Gigabyte | B85M-DS3H     | [840cb54d82](https://linux-hardware.org/?probe=840cb54d82) | Jul 25, 2021 |
-| ASUSTek  | A88X-PLUS/USB | [2688c43fa5](https://linux-hardware.org/?probe=2688c43fa5) | Apr 08, 2021 |
 | ASUSTek  | A88X-PLUS/USB | [99e83e8dcf](https://linux-hardware.org/?probe=99e83e8dcf) | Mar 08, 2021 |
 | ASUSTek  | Z97-A         | [e6b1f9af05](https://linux-hardware.org/?probe=e6b1f9af05) | Aug 15, 2019 |
 | ASUSTek  | Z97-A         | [c8a97966c9](https://linux-hardware.org/?probe=c8a97966c9) | Aug 14, 2019 |
@@ -565,12 +564,12 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City        | Desktops | Percent |
-|-------------|----------|---------|
-| Wixom       | 1        | 25%     |
-| Warrenton   | 1        | 25%     |
-| New York    | 1        | 25%     |
-| Chelyabinsk | 1        | 25%     |
+| City          | Desktops | Percent |
+|---------------|----------|---------|
+| Yuzhnoural'sk | 1        | 25%     |
+| Wixom         | 1        | 25%     |
+| Troy          | 1        | 25%     |
+| New York      | 1        | 25%     |
 
 Drives
 ------
@@ -585,7 +584,7 @@ Hard drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 3        | 8      | 60%     |
+| Seagate | 3        | 7      | 60%     |
 | WDC     | 1        | 2      | 20%     |
 | ASMT    | 1        | 2      | 20%     |
 
@@ -616,7 +615,7 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 3        | 8      | 100%    |
+| Seagate | 3        | 7      | 100%    |
 
 SSD Vendor
 ----------
@@ -640,7 +639,7 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 3        | 8      | 60%     |
+| HDD     | 3        | 7      | 60%     |
 | SSD     | 1        | 2      | 20%     |
 | Unknown | 1        | 2      | 20%     |
 
@@ -654,7 +653,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 3        | 10     | 75%     |
+| SATA | 3        | 9      | 75%     |
 | SAS  | 1        | 2      | 25%     |
 
 Drive Size
@@ -667,7 +666,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 2        | 5      | 50%     |
+| 0.51-1.0   | 2        | 4      | 50%     |
 | 0.01-0.5   | 2        | 5      | 50%     |
 
 Space Total
@@ -694,9 +693,9 @@ Amount of used disk space
 
 | Used GB | Desktops | Percent |
 |---------|----------|---------|
-| 21-50   | 2        | 33.33%  |
-| 101-250 | 2        | 33.33%  |
-| 1-20    | 2        | 33.33%  |
+| 21-50   | 2        | 40%     |
+| 101-250 | 2        | 40%     |
+| 1-20    | 1        | 20%     |
 
 Malfunc. Drives
 ---------------
@@ -770,7 +769,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 3        | 11     | 75%     |
+| Detected | 3        | 10     | 75%     |
 | Malfunc  | 1        | 1      | 25%     |
 
 Storage controller
@@ -1231,8 +1230,7 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 3        | 75%     |
-| WiFi     | 1        | 25%     |
+| Ethernet | 3        | 100%    |
 
 NICs
 ----
@@ -1282,9 +1280,9 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                             | Desktops | Percent |
-|-----------------------------------|----------|---------|
-| Qualcomm Atheros AR9462 Bluetooth | 1        | 100%    |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Qualcomm Atheros  Bluetooth Device | 1        | 100%    |
 
 Sound
 -----

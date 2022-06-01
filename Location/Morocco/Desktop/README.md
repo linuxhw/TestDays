@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 60
+Total: 59
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
@@ -203,7 +203,6 @@ Total: 60
 | ASUSTek       | ROG CROSSHAIR VIII IMPAC... | [7861f8622e](https://linux-hardware.org/?probe=7861f8622e) | Feb 01, 2021 |
 | ASUSTek       | Crosshair IV Formula        | [3475dcd9b6](https://linux-hardware.org/?probe=3475dcd9b6) | Jan 17, 2021 |
 | ASUSTek       | ROG CROSSHAIR VIII IMPAC... | [8d7a3472b3](https://linux-hardware.org/?probe=8d7a3472b3) | Jan 16, 2021 |
-| ASUSTek       | Crosshair IV Formula        | [9f2e8916d6](https://linux-hardware.org/?probe=9f2e8916d6) | Dec 29, 2020 |
 | HP            | 158A                        | [afd1e7439b](https://linux-hardware.org/?probe=afd1e7439b) | Dec 28, 2020 |
 | ASUSTek       | Crosshair IV Formula        | [4a4ce9f5d2](https://linux-hardware.org/?probe=4a4ce9f5d2) | Dec 25, 2020 |
 | HP            | 304Ah                       | [d5f7af2482](https://linux-hardware.org/?probe=d5f7af2482) | Nov 23, 2020 |
@@ -541,8 +540,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 37       | 80.43%  |
-| Yes       | 9        | 19.57%  |
+| No        | 35       | 76.09%  |
+| Yes       | 11       | 23.91%  |
 
 Dual Boot (Win)
 ---------------
@@ -683,13 +682,12 @@ Motherboard manufacture year
 | 2018 | 2        | 4.44%   |
 | 2017 | 2        | 4.44%   |
 | 2009 | 2        | 4.44%   |
+| 2004 | 2        | 4.44%   |
 | 2021 | 1        | 2.22%   |
 | 2019 | 1        | 2.22%   |
 | 2014 | 1        | 2.22%   |
 | 2010 | 1        | 2.22%   |
 | 2008 | 1        | 2.22%   |
-| 2006 | 1        | 2.22%   |
-| 2004 | 1        | 2.22%   |
 
 Form Factor
 -----------
@@ -853,23 +851,28 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City         | Desktops | Percent |
-|--------------|----------|---------|
-| Casablanca   | 16       | 34.04%  |
-| Marrakesh    | 7        | 14.89%  |
-| Agadir       | 5        | 10.64%  |
-| Fes          | 4        | 8.51%   |
-| Tangier      | 2        | 4.26%   |
-| SalÃ©      | 2        | 4.26%   |
-| Safi         | 2        | 4.26%   |
-| Rabat        | 2        | 4.26%   |
-| TГ©touan   | 1        | 2.13%   |
-| Taza         | 1        | 2.13%   |
-| Settat       | 1        | 2.13%   |
-| Oulad Teima  | 1        | 2.13%   |
-| Meknes       | 1        | 2.13%   |
-| Douar Kalaa  | 1        | 2.13%   |
-| Beni Yakhlef | 1        | 2.13%   |
+| City          | Desktops | Percent |
+|---------------|----------|---------|
+| Casablanca    | 15       | 31.91%  |
+| Agadir        | 6        | 12.77%  |
+| Marrakesh     | 4        | 8.51%   |
+| Fes           | 4        | 8.51%   |
+| Tangier       | 2        | 4.26%   |
+| Salé         | 2        | 4.26%   |
+| Youssoufia    | 1        | 2.13%   |
+| Tiznit        | 1        | 2.13%   |
+| Tétouan      | 1        | 2.13%   |
+| Temara        | 1        | 2.13%   |
+| Taza          | 1        | 2.13%   |
+| Taounate      | 1        | 2.13%   |
+| Skhirate      | 1        | 2.13%   |
+| Sidi Lmokhtar | 1        | 2.13%   |
+| Safi          | 1        | 2.13%   |
+| Ouirgane      | 1        | 2.13%   |
+| Mohammedia    | 1        | 2.13%   |
+| Meknes        | 1        | 2.13%   |
+| Douar Kalaa   | 1        | 2.13%   |
+| Berrechid     | 1        | 2.13%   |
 
 Drives
 ------
@@ -1628,10 +1631,10 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Dell E2414H DEL4090 1920x1080 531x299mm 24.0-inch                      | 3        | 7.69%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch   | 1        | 2.56%   |
-| Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch   | 1        | 2.56%   |
+| Samsung Electronics SyncMaster SAM027E 1680x1050 470x300mm 22.0-inch   | 1        | 2.56%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch   | 1        | 2.56%   |
 | Samsung Electronics SyncMaster SAM0161 1280x1024 338x270mm 17.0-inch   | 1        | 2.56%   |
-| Samsung Electronics SMBX2440 SAM068A 1680x1050 530x300mm 24.0-inch     | 1        | 2.56%   |
+| Samsung Electronics SMBX2440 SAM068A 1920x1080 531x299mm 24.0-inch     | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor SAM0F39 1920x1080 1210x680mm 54.6-inch | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor SAM0B7C 1920x1080 886x498mm 40.0-inch  | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor SAM0B2A 1280x720 949x543mm 43.0-inch   | 1        | 2.56%   |
@@ -1648,8 +1651,8 @@ Monitor models
 | Hewlett-Packard 25x HPN357E 1920x1080 544x303mm 24.5-inch              | 1        | 2.56%   |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                    | 1        | 2.56%   |
 | Goldstar M2394D GSM56C4 1920x1080 509x286mm 23.0-inch                  | 1        | 2.56%   |
-| Dell P2417H DELA0DB 1920x1080 530x300mm 24.0-inch                      | 1        | 2.56%   |
-| Dell P2214H DELA097 1920x1080 480x270mm 21.7-inch                      | 1        | 2.56%   |
+| Dell P2417H DELA0DB 1920x1080 527x296mm 23.8-inch                      | 1        | 2.56%   |
+| Dell P2214H DELA097 1920x1080 477x268mm 21.5-inch                      | 1        | 2.56%   |
 | Dell LCD Monitor P2417H 1920x1080                                      | 1        | 2.56%   |
 | Dell E772p DEL7005 1152x864 300x225mm 14.8-inch                        | 1        | 2.56%   |
 | Dell E2014H DELD03B 1600x900 432x240mm 19.5-inch                       | 1        | 2.56%   |
@@ -2004,8 +2007,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 32       | 64%     |
-| WiFi     | 18       | 36%     |
+| Ethernet | 29       | 63.04%  |
+| WiFi     | 17       | 36.96%  |
 
 NICs
 ----
@@ -2172,7 +2175,7 @@ Memory module models
 |----------------------------------------------------------|----------|---------|
 | SK Hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s     | 4        | 8.16%   |
 | Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s      | 3        | 6.12%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 3        | 6.12%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 3        | 6.12%   |
 | Unknown RAM Module 2GB DIMM                              | 1        | 2.04%   |
 | TakeMS RAM TMS2GB264C081-665U 2048MB DIMM DDR2 667MT/s   | 1        | 2.04%   |
 | SK Hynix RAM HYMP512U64CP8-Y5 1GB DIMM                   | 1        | 2.04%   |
@@ -2193,16 +2196,16 @@ Memory module models
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1866MT/s      | 1        | 2.04%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
 | Samsung RAM M378B2873FH0-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 2.04%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM DDR2 1639MT/s  | 1        | 2.04%   |
-| Samsung RAM M3 78T2953EZ3-CE6 1024MB DIMM DDR 667MT/s    | 1        | 2.04%   |
-| Samsung RAM M3 78T2863DZS-CE6 1GB DIMM DDR2 667MT/s      | 1        | 2.04%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 1639MT/s     | 1        | 2.04%   |
+| Samsung RAM M3 78T2953EZ3-CE6 1024MB DIMM DDR2 667MT/s   | 1        | 2.04%   |
+| Samsung RAM M3 78T2863DZS-CE6 1024MB DIMM DDR2 667MT/s   | 1        | 2.04%   |
 | Samsung RAM M3 68L3223FTN-CB3 256MB DIMM DDR 333MT/s     | 1        | 2.04%   |
 | Qimonda RAM 64T128020EU3SB2 1GB DIMM DDR2 667MT/s        | 1        | 2.04%   |
 | Nanya RAM NT128D64SH4B1G-75B 128MB DIMM DDR 266MT/s      | 1        | 2.04%   |
 | Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s    | 1        | 2.04%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 2.04%   |
 | Micron RAM 4JTF25664AZ-1G6E1 2048MB DIMM DDR3 1600MT/s   | 1        | 2.04%   |
-| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM SDRAM 1600MT/s     | 1        | 2.04%   |
+| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
 | Kingston RAM KTC1G-UDIMM 1GB DIMM DDR2 1639MT/s          | 1        | 2.04%   |
 | Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.04%   |
 | Kingston RAM 9905429-002.A00LF 1GB DIMM DDR2 667MT/s     | 1        | 2.04%   |

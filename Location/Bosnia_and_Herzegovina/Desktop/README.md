@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 68
+Total: 59
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
@@ -165,7 +165,7 @@ Total: 68
 | Fujitsu Si... | D2811-A1 S26361-D2811-A1 | [bc32230a7f](https://linux-hardware.org/?probe=bc32230a7f) | Feb 09, 2022 |
 | HP            | 3396                     | [97720dddd1](https://linux-hardware.org/?probe=97720dddd1) | Jan 10, 2022 |
 | MSI           | B150 GAMING M3           | [3514e82b43](https://linux-hardware.org/?probe=3514e82b43) | Jan 07, 2022 |
-| ASUSTek       | TUF GAMING X570-PLUS     | [52eb9930ad](https://linux-hardware.org/?probe=52eb9930ad) | Nov 14, 2021 |
+| ASUSTek       | TUF Gaming X570-PLUS     | [52eb9930ad](https://linux-hardware.org/?probe=52eb9930ad) | Nov 14, 2021 |
 | Medion        | MS-7366                  | [da9961f1ee](https://linux-hardware.org/?probe=da9961f1ee) | Nov 04, 2021 |
 | Gigabyte      | B450M DS3H-CF            | [63b6ade950](https://linux-hardware.org/?probe=63b6ade950) | Sep 13, 2021 |
 | Gigabyte      | GA-990FX-GAMING          | [4206886abb](https://linux-hardware.org/?probe=4206886abb) | Jul 28, 2021 |
@@ -192,23 +192,17 @@ Total: 68
 | Dell          | 0M858N A01               | [5b7ae4f768](https://linux-hardware.org/?probe=5b7ae4f768) | Aug 13, 2020 |
 | Dell          | 0RF703                   | [e23b194d28](https://linux-hardware.org/?probe=e23b194d28) | Jul 25, 2020 |
 | ASUSTek       | Z97-P                    | [d0375fe030](https://linux-hardware.org/?probe=d0375fe030) | Jul 15, 2020 |
-| Acer          | Board                    | [9311c4fa37](https://linux-hardware.org/?probe=9311c4fa37) | Jun 27, 2020 |
-| Acer          | Board                    | [8d9a1aefd5](https://linux-hardware.org/?probe=8d9a1aefd5) | Jun 27, 2020 |
+| Acer          | Aspire M1200             | [9311c4fa37](https://linux-hardware.org/?probe=9311c4fa37) | Jun 27, 2020 |
+| Acer          | Aspire M1200             | [8d9a1aefd5](https://linux-hardware.org/?probe=8d9a1aefd5) | Jun 27, 2020 |
 | ASUSTek       | P5G41T-M LX3             | [1a6102d9f3](https://linux-hardware.org/?probe=1a6102d9f3) | Jun 17, 2020 |
-| Acer          | Board                    | [4b0da30ee5](https://linux-hardware.org/?probe=4b0da30ee5) | May 24, 2020 |
-| Acer          | Board                    | [2cbc71cc6f](https://linux-hardware.org/?probe=2cbc71cc6f) | May 24, 2020 |
+| Acer          | Aspire M1200             | [2cbc71cc6f](https://linux-hardware.org/?probe=2cbc71cc6f) | May 24, 2020 |
 | ASUSTek       | PRIME H310M-R R2.0       | [c668c517d8](https://linux-hardware.org/?probe=c668c517d8) | Apr 24, 2020 |
 | ASUSTek       | PRIME H310M-R R2.0       | [4e3e7a0cca](https://linux-hardware.org/?probe=4e3e7a0cca) | Apr 20, 2020 |
 | Gigabyte      | nForce                   | [46e8276491](https://linux-hardware.org/?probe=46e8276491) | Apr 03, 2020 |
 | ASUSTek       | P5G41T-M LX2/GB          | [fa5624c697](https://linux-hardware.org/?probe=fa5624c697) | Mar 27, 2020 |
 | Wistron       | ProLiant ML110 G5        | [0dbb663114](https://linux-hardware.org/?probe=0dbb663114) | Mar 26, 2020 |
 | Wistron       | ProLiant ML110 G5        | [ce73a67dba](https://linux-hardware.org/?probe=ce73a67dba) | Mar 26, 2020 |
-| ASUSTek       | P5G41T-M LX2/GB          | [817c809a0f](https://linux-hardware.org/?probe=817c809a0f) | Mar 25, 2020 |
 | ASUSTek       | P5G41T-M LX2/GB          | [84bed079c2](https://linux-hardware.org/?probe=84bed079c2) | Mar 23, 2020 |
-| ASUSTek       | P5G41T-M LX2/GB          | [18d501c38a](https://linux-hardware.org/?probe=18d501c38a) | Mar 23, 2020 |
-| ASUSTek       | P5G41T-M LX2/GB          | [0b37e9eee8](https://linux-hardware.org/?probe=0b37e9eee8) | Mar 23, 2020 |
-| ASUSTek       | P5G41T-M LX2/GB          | [7f308bcb11](https://linux-hardware.org/?probe=7f308bcb11) | Mar 23, 2020 |
-| ASUSTek       | P5G41T-M LX2/GB          | [824f6df84d](https://linux-hardware.org/?probe=824f6df84d) | Mar 23, 2020 |
 | ASUSTek       | P5G41T-M LX2/GB          | [10793053f1](https://linux-hardware.org/?probe=10793053f1) | Mar 23, 2020 |
 | MSI           | GF615M-P33               | [34605f2e7f](https://linux-hardware.org/?probe=34605f2e7f) | Feb 06, 2020 |
 | ASUSTek       | PRIME A320M-K            | [64c7222709](https://linux-hardware.org/?probe=64c7222709) | Dec 22, 2019 |
@@ -217,11 +211,8 @@ Total: 68
 | Dell          | 0RF703                   | [e97de552d8](https://linux-hardware.org/?probe=e97de552d8) | Jul 29, 2019 |
 | Dell          | 0RF703                   | [08019d8b5f](https://linux-hardware.org/?probe=08019d8b5f) | Jul 29, 2019 |
 | Dell          | 0MM599                   | [0b9fef01ec](https://linux-hardware.org/?probe=0b9fef01ec) | Jun 19, 2019 |
-| Dell          | 0MM599                   | [f94c277c39](https://linux-hardware.org/?probe=f94c277c39) | Jun 19, 2019 |
 | Dell          | 0MM599                   | [8376d2c77c](https://linux-hardware.org/?probe=8376d2c77c) | Jun 19, 2019 |
-| ASUSTek       | PRIME A320M-K            | [8f7d2edadc](https://linux-hardware.org/?probe=8f7d2edadc) | May 26, 2019 |
 | ASUSTek       | P8H61-M LX3 R2.0         | [aa5f7a836b](https://linux-hardware.org/?probe=aa5f7a836b) | May 04, 2019 |
-| ASUSTek       | PRIME A320M-K            | [099953bf5c](https://linux-hardware.org/?probe=099953bf5c) | Apr 27, 2019 |
 | ASUSTek       | PRIME A320M-K            | [3aed29ae25](https://linux-hardware.org/?probe=3aed29ae25) | Apr 27, 2019 |
 | HP            | 0A64h                    | [ab563902ff](https://linux-hardware.org/?probe=ab563902ff) | Apr 22, 2019 |
 | ASUSTek       | P8H61-M LX3 R2.0         | [3ce6d97f47](https://linux-hardware.org/?probe=3ce6d97f47) | Apr 21, 2019 |
@@ -301,45 +292,44 @@ Version of the Linux kernel
 
 | Version                         | Desktops | Percent |
 |---------------------------------|----------|---------|
-| 5.16.7-desktop-1omv4003         | 3        | 6.12%   |
-| 5.8.0-59-generic                | 2        | 4.08%   |
-| 5.4.0-52-generic                | 2        | 4.08%   |
-| 5.3.0-42-generic                | 2        | 4.08%   |
-| 4.19.0-13-amd64                 | 2        | 4.08%   |
-| 4.18.0-15-generic               | 2        | 4.08%   |
-| 4.15.0-94-generic               | 2        | 4.08%   |
-| 4.15.0-47-generic               | 2        | 4.08%   |
-| 4.15.0-20-generic               | 2        | 4.08%   |
-| 5.9.8-2-MANJARO                 | 1        | 2.04%   |
-| 5.8.11-200.fc32.x86_64          | 1        | 2.04%   |
-| 5.8.0-7630-generic              | 1        | 2.04%   |
-| 5.4.0-7634-generic              | 1        | 2.04%   |
-| 5.4.0-74-generic                | 1        | 2.04%   |
-| 5.4.0-73-generic                | 1        | 2.04%   |
-| 5.4.0-67-generic                | 1        | 2.04%   |
-| 5.4.0-66-generic                | 1        | 2.04%   |
-| 5.4.0-47-generic                | 1        | 2.04%   |
-| 5.4.0-42-generic                | 1        | 2.04%   |
-| 5.4.0-40-generic                | 1        | 2.04%   |
-| 5.4.0-39-generic                | 1        | 2.04%   |
-| 5.4.0-37-generic                | 1        | 2.04%   |
-| 5.4.0-31-generic                | 1        | 2.04%   |
-| 5.3.0-28-generic                | 1        | 2.04%   |
-| 5.13.0-23-generic               | 1        | 2.04%   |
-| 5.11.19-200.fc33.x86_64         | 1        | 2.04%   |
-| 5.11.0-44-lowlatency            | 1        | 2.04%   |
-| 5.11.0-38-generic               | 1        | 2.04%   |
-| 5.10.60-1-MANJARO               | 1        | 2.04%   |
-| 5.10.34-1-MANJARO               | 1        | 2.04%   |
-| 5.10.0-7-amd64                  | 1        | 2.04%   |
-| 5.0.0-32-generic                | 1        | 2.04%   |
-| 5.0.0-31-generic                | 1        | 2.04%   |
-| 4.9.60-nrj-desktop-1rosa-x86_64 | 1        | 2.04%   |
-| 4.9.0-11-amd64                  | 1        | 2.04%   |
-| 4.18.0-25-generic               | 1        | 2.04%   |
-| 4.15.0-73-generic               | 1        | 2.04%   |
-| 4.15.0-49-generic               | 1        | 2.04%   |
-| 4.15.0-173-generic              | 1        | 2.04%   |
+| 5.16.7-desktop-1omv4003         | 3        | 6.25%   |
+| 5.8.0-59-generic                | 2        | 4.17%   |
+| 5.4.0-52-generic                | 2        | 4.17%   |
+| 5.3.0-42-generic                | 2        | 4.17%   |
+| 4.19.0-13-amd64                 | 2        | 4.17%   |
+| 4.18.0-15-generic               | 2        | 4.17%   |
+| 4.15.0-94-generic               | 2        | 4.17%   |
+| 4.15.0-47-generic               | 2        | 4.17%   |
+| 4.15.0-20-generic               | 2        | 4.17%   |
+| 5.9.8-2-MANJARO                 | 1        | 2.08%   |
+| 5.8.11-200.fc32.x86_64          | 1        | 2.08%   |
+| 5.8.0-7630-generic              | 1        | 2.08%   |
+| 5.4.0-7634-generic              | 1        | 2.08%   |
+| 5.4.0-74-generic                | 1        | 2.08%   |
+| 5.4.0-73-generic                | 1        | 2.08%   |
+| 5.4.0-67-generic                | 1        | 2.08%   |
+| 5.4.0-66-generic                | 1        | 2.08%   |
+| 5.4.0-47-generic                | 1        | 2.08%   |
+| 5.4.0-42-generic                | 1        | 2.08%   |
+| 5.4.0-40-generic                | 1        | 2.08%   |
+| 5.4.0-39-generic                | 1        | 2.08%   |
+| 5.4.0-37-generic                | 1        | 2.08%   |
+| 5.4.0-31-generic                | 1        | 2.08%   |
+| 5.3.0-28-generic                | 1        | 2.08%   |
+| 5.13.0-23-generic               | 1        | 2.08%   |
+| 5.11.19-200.fc33.x86_64         | 1        | 2.08%   |
+| 5.11.0-44-lowlatency            | 1        | 2.08%   |
+| 5.11.0-38-generic               | 1        | 2.08%   |
+| 5.10.60-1-MANJARO               | 1        | 2.08%   |
+| 5.10.34-1-MANJARO               | 1        | 2.08%   |
+| 5.10.0-7-amd64                  | 1        | 2.08%   |
+| 5.0.0-32-generic                | 1        | 2.08%   |
+| 5.0.0-31-generic                | 1        | 2.08%   |
+| 4.9.60-nrj-desktop-1rosa-x86_64 | 1        | 2.08%   |
+| 4.9.0-11-amd64                  | 1        | 2.08%   |
+| 4.18.0-25-generic               | 1        | 2.08%   |
+| 4.15.0-73-generic               | 1        | 2.08%   |
+| 4.15.0-173-generic              | 1        | 2.08%   |
 
 Kernel Family
 -------------
@@ -607,7 +597,7 @@ Motherboard model
 | ECS G31T-M7                            | 1        | 2.5%    |
 | Dell OptiPlex 760                      | 1        | 2.5%    |
 | ASUS Z170-P                            | 1        | 2.5%    |
-| ASUS TUF GAMING X570-PLUS              | 1        | 2.5%    |
+| ASUS TUF Gaming X570-PLUS              | 1        | 2.5%    |
 | ASUS PRIME H310M-R R2.0                | 1        | 2.5%    |
 | ASUS PRIME A320M-K                     | 1        | 2.5%    |
 | ASUS P5G41T-M LX3                      | 1        | 2.5%    |
@@ -845,29 +835,28 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City            | Desktops | Percent |
-|-----------------|----------|---------|
-| Sarajevo        | 10       | 24.39%  |
-| Banja Luka      | 9        | 21.95%  |
-| Visoko          | 2        | 4.88%   |
-| Tuzla           | 2        | 4.88%   |
-| Mostar          | 2        | 4.88%   |
-| Zvornik         | 1        | 2.44%   |
-| Zenica          | 1        | 2.44%   |
-| ViЕЎegrad     | 1        | 2.44%   |
-| Vitez           | 1        | 2.44%   |
-| Teslic          | 1        | 2.44%   |
-| Srbac           | 1        | 2.44%   |
-| Prnjavor        | 1        | 2.44%   |
-| Prijedor        | 1        | 2.44%   |
-| Orasje          | 1        | 2.44%   |
-| Orahovica Donja | 1        | 2.44%   |
-| Novi Travnik    | 1        | 2.44%   |
-| Gracanica       | 1        | 2.44%   |
-| Foca            | 1        | 2.44%   |
-| Drvar           | 1        | 2.44%   |
-| Doboj           | 1        | 2.44%   |
-| Bijeljina       | 1        | 2.44%   |
+| City         | Desktops | Percent |
+|--------------|----------|---------|
+| Sarajevo     | 12       | 29.27%  |
+| Banja Luka   | 7        | 17.07%  |
+| Tuzla        | 2        | 4.88%   |
+| Prnjavor     | 2        | 4.88%   |
+| Prijedor     | 2        | 4.88%   |
+| Gracanica    | 2        | 4.88%   |
+| Zvornik      | 1        | 2.44%   |
+| Zepce        | 1        | 2.44%   |
+| Zenica       | 1        | 2.44%   |
+| Vitez        | 1        | 2.44%   |
+| Teslic       | 1        | 2.44%   |
+| Tarcin       | 1        | 2.44%   |
+| Novi Travnik | 1        | 2.44%   |
+| Nova Topola  | 1        | 2.44%   |
+| Jablanica    | 1        | 2.44%   |
+| Foca         | 1        | 2.44%   |
+| Drvar        | 1        | 2.44%   |
+| Doboj        | 1        | 2.44%   |
+| Brcko        | 1        | 2.44%   |
+| Bijeljina    | 1        | 2.44%   |
 
 Drives
 ------
@@ -882,18 +871,18 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 15       | 25     | 26.79%  |
+| WDC                 | 15       | 24     | 26.79%  |
 | Seagate             | 12       | 16     | 21.43%  |
 | Kingston            | 8        | 10     | 14.29%  |
 | Hitachi             | 6        | 6      | 10.71%  |
 | Samsung Electronics | 5        | 6      | 8.93%   |
 | Toshiba             | 3        | 3      | 5.36%   |
 | Transcend           | 1        | 1      | 1.79%   |
-| ORGE                | 1        | 2      | 1.79%   |
+| ORGE                | 1        | 1      | 1.79%   |
 | MAXTOR              | 1        | 1      | 1.79%   |
 | Intel               | 1        | 1      | 1.79%   |
 | Fujitsu             | 1        | 1      | 1.79%   |
-| China               | 1        | 4      | 1.79%   |
+| China               | 1        | 3      | 1.79%   |
 | ASMT                | 1        | 1      | 1.79%   |
 
 Drive Model
@@ -958,11 +947,11 @@ Hard drive models
 | Kingston NVMe SSD Drive 480GB    | 1        | 1.59%   |
 | Intel SSDSC2BF240A5L 240GB       | 1        | 1.59%   |
 | Hitachi HDS728080PLAT20 82GB     | 1        | 1.59%   |
-| Hitachi HDS721616PLA380 160GB    | 1        | 1.59%   |
+| Hitachi HDS721616PLA380 164GB    | 1        | 1.59%   |
 | Hitachi HDS721032CLA362 320GB    | 1        | 1.59%   |
 | Fujitsu MHW2120BH 120GB          | 1        | 1.59%   |
 | China 240GB SSD                  | 1        | 1.59%   |
-| ASMT 2115 1TB                    | 1        | 1.59%   |
+| ASMT 2115 2TB                    | 1        | 1.59%   |
 
 HDD Vendor
 ----------
@@ -974,7 +963,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 13       | 22     | 33.33%  |
+| WDC                 | 13       | 21     | 33.33%  |
 | Seagate             | 12       | 16     | 30.77%  |
 | Hitachi             | 6        | 6      | 15.38%  |
 | Toshiba             | 3        | 3      | 7.69%   |
@@ -998,7 +987,7 @@ Solid state drive vendors
 | Samsung Electronics | 3        | 4      | 20%     |
 | Transcend           | 1        | 1      | 6.67%   |
 | Intel               | 1        | 1      | 6.67%   |
-| China               | 1        | 4      | 6.67%   |
+| China               | 1        | 3      | 6.67%   |
 
 Drive Kind
 ----------
@@ -1010,10 +999,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 33       | 52     | 66%     |
-| SSD     | 14       | 21     | 28%     |
+| HDD     | 33       | 51     | 66%     |
+| SSD     | 14       | 20     | 28%     |
 | NVMe    | 2        | 2      | 4%      |
-| Unknown | 1        | 2      | 2%      |
+| Unknown | 1        | 1      | 2%      |
 
 Drive Connector
 ---------------
@@ -1025,8 +1014,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 37       | 72     | 90.24%  |
-| SAS  | 2        | 3      | 4.88%   |
+| SATA | 37       | 70     | 90.24%  |
+| SAS  | 2        | 2      | 4.88%   |
 | NVMe | 2        | 2      | 4.88%   |
 
 Drive Size
@@ -1039,12 +1028,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 61     | 80%     |
-| 0.51-1.0   | 5        | 6      | 11.11%  |
-| 3.01-4.0   | 1        | 2      | 2.22%   |
-| 2.01-3.0   | 1        | 2      | 2.22%   |
-| 1.01-2.0   | 1        | 1      | 2.22%   |
-| 4.01-10.0  | 1        | 1      | 2.22%   |
+| 0.01-0.5   | 36       | 59     | 78.26%  |
+| 0.51-1.0   | 5        | 5      | 10.87%  |
+| 1.01-2.0   | 2        | 2      | 4.35%   |
+| 3.01-4.0   | 1        | 2      | 2.17%   |
+| 2.01-3.0   | 1        | 2      | 2.17%   |
+| 4.01-10.0  | 1        | 1      | 2.17%   |
 
 Space Total
 -----------
@@ -1165,7 +1154,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 31       | 59     | 75.61%  |
+| Detected | 31       | 56     | 75.61%  |
 | Works    | 6        | 12     | 14.63%  |
 | Malfunc  | 4        | 6      | 9.76%   |
 
@@ -1613,7 +1602,7 @@ Monitor models
 | IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 5.13%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 5.13%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.56%   |
-| Vestel Elektronik 32FHD_LCD_TV VES3700 1920x1080 700x390mm 31.5-inch   | 1        | 2.56%   |
+| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                          | 1        | 2.56%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.56%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.56%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.56%   |
@@ -1634,19 +1623,19 @@ Monitor models
 | Philips LCD Monitor 170S 3200x1080                                     | 1        | 2.56%   |
 | Philips 192EL PHLC04E 1366x768 410x230mm 18.5-inch                     | 1        | 2.56%   |
 | Philips 170S PHL0856 1280x1024 338x270mm 17.0-inch                     | 1        | 2.56%   |
+| Goldstar LG HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch               | 1        | 2.56%   |
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                   | 1        | 2.56%   |
 | Goldstar IPS231 GSM5816 1920x1080 510x290mm 23.1-inch                  | 1        | 2.56%   |
-| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 1        | 2.56%   |
 | Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 2.56%   |
 | Fujitsu Siemens B22W-6 LED FUS07F3 1680x1050 474x296mm 22.0-inch       | 1        | 2.56%   |
 | Fujitsu Siemens A17-1 FUS0565 1280x1024 340x270mm 17.1-inch            | 1        | 2.56%   |
 | Dell S2409W DELA038 1920x1080 531x298mm 24.0-inch                      | 1        | 2.56%   |
 | Dell 2208WFP DEL403C 1680x1050 473x296mm 22.0-inch                     | 1        | 2.56%   |
-| BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                     | 1        | 2.56%   |
+| BenQ XL2411Z BNQ7F31 1920x1080 530x300mm 24.0-inch                     | 1        | 2.56%   |
 | Belinea b.disp2.1_22W MAX08A0 1680x1050 474x297mm 22.0-inch            | 1        | 2.56%   |
 | AOC LCD Monitor 24E1W1 1920x1080                                       | 1        | 2.56%   |
 | AOC LCD Monitor 2262w 1920x1080                                        | 1        | 2.56%   |
-| Ancor Communications ASUS VH228 ACI22FC 1920x1080 470x260mm 21.1-inch  | 1        | 2.56%   |
+| Ancor Communications ASUS VH228 ACI22FC 1920x1080 477x268mm 21.5-inch  | 1        | 2.56%   |
 
 Monitor Resolution
 ------------------
@@ -1958,8 +1947,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 33       | 71.74%  |
-| WiFi     | 13       | 28.26%  |
+| Ethernet | 30       | 75%     |
+| WiFi     | 10       | 25%     |
 
 NICs
 ----
@@ -2125,20 +2114,20 @@ Memory module models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s                     | 2        | 10%     |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s                  | 2        | 10%     |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 10%     |
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 5%      |
 | Unknown RAM Module 2048MB DIMM DDR2 333MT/s                             | 1        | 5%      |
 | Unknown RAM Module 2048MB DIMM 1066MT/s                                 | 1        | 5%      |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                                | 1        | 5%      |
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                              | 1        | 5%      |
-| SK Hynix RAM HMT351U6EFR8C-PB 4096MB DIMM DDR3 1800MT/s                 | 1        | 5%      |
+| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                    | 1        | 5%      |
 | SK Hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 1333MT/s                       | 1        | 5%      |
 | SK Hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s                 | 1        | 5%      |
 | Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 5%      |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3533MT/s                    | 1        | 5%      |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s                       | 1        | 5%      |
-| Kingston RAM KHX1600C10D3/4G 4096MB DIMM DDR3 1866MT/s                  | 1        | 5%      |
+| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s                 | 1        | 5%      |
+| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 2933MT/s                    | 1        | 5%      |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                     | 1        | 5%      |
 | Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 5%      |
 | Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 5%      |
 | Kingston RAM 393955353432392D3030372E4130304C4600 2GB DIMM DDR2 800MT/s | 1        | 5%      |

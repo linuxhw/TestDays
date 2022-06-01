@@ -153,7 +153,7 @@ Contents
 Test Cases
 ----------
 
-Total: 135
+Total: 124
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
@@ -184,7 +184,6 @@ Total: 135
 | Gateway       | MCP61SM2MA FAB1.0        | [efab4d96e9](https://linux-hardware.org/?probe=efab4d96e9) | Mar 10, 2021 |
 | Gateway       | MCP61SM2MA FAB1.0        | [514d4c99a1](https://linux-hardware.org/?probe=514d4c99a1) | Mar 10, 2021 |
 | Dell          | Dimension E521           | [c82996b3dc](https://linux-hardware.org/?probe=c82996b3dc) | Mar 07, 2021 |
-| Dell          | Dimension E521           | [6c93eb4440](https://linux-hardware.org/?probe=6c93eb4440) | Mar 07, 2021 |
 | Dell          | 0C522T A01               | [4871abab72](https://linux-hardware.org/?probe=4871abab72) | Mar 06, 2021 |
 | HP            | 3032h                    | [50914ba2f5](https://linux-hardware.org/?probe=50914ba2f5) | Mar 04, 2021 |
 | ASUSTek       | P5N-E SLI                | [236a4d5753](https://linux-hardware.org/?probe=236a4d5753) | Feb 23, 2021 |
@@ -207,9 +206,6 @@ Total: 135
 | Gigabyte      | B450M S2H                | [b77ab61c1d](https://linux-hardware.org/?probe=b77ab61c1d) | Nov 10, 2020 |
 | Gigabyte      | J1800M-D3P               | [ae71ad880b](https://linux-hardware.org/?probe=ae71ad880b) | Nov 10, 2020 |
 | ASUSTek       | A88XM-A                  | [c02b06f51f](https://linux-hardware.org/?probe=c02b06f51f) | Oct 31, 2020 |
-| ASUSTek       | A88XM-A                  | [831a02648f](https://linux-hardware.org/?probe=831a02648f) | Oct 31, 2020 |
-| ASUSTek       | A88XM-A                  | [c2bab5c22b](https://linux-hardware.org/?probe=c2bab5c22b) | Oct 15, 2020 |
-| ASUSTek       | A88XM-A                  | [c7104649d5](https://linux-hardware.org/?probe=c7104649d5) | Oct 15, 2020 |
 | Dell          | 0C2KJT A00               | [37cf119697](https://linux-hardware.org/?probe=37cf119697) | Sep 30, 2020 |
 | ASUSTek       | A88XM-A                  | [d822785861](https://linux-hardware.org/?probe=d822785861) | Sep 30, 2020 |
 | ASUSTek       | A88XM-A                  | [b0a785eecd](https://linux-hardware.org/?probe=b0a785eecd) | Sep 30, 2020 |
@@ -217,8 +213,6 @@ Total: 135
 | Intel         | 945GCT-M                 | [f714eaf1b2](https://linux-hardware.org/?probe=f714eaf1b2) | Sep 26, 2020 |
 | Dell          | 09KPNV A00               | [7a9366d7a0](https://linux-hardware.org/?probe=7a9366d7a0) | Sep 04, 2020 |
 | HP            | 8265                     | [b9ebd37c9f](https://linux-hardware.org/?probe=b9ebd37c9f) | Aug 24, 2020 |
-| MSI           | MS-7211                  | [98822d361e](https://linux-hardware.org/?probe=98822d361e) | Aug 17, 2020 |
-| MSI           | MS-7211                  | [a07f95af54](https://linux-hardware.org/?probe=a07f95af54) | Aug 17, 2020 |
 | HP            | 0A54h                    | [097eabe722](https://linux-hardware.org/?probe=097eabe722) | Aug 02, 2020 |
 | ASRock        | N68-S3 FX                | [cbf919cfd5](https://linux-hardware.org/?probe=cbf919cfd5) | Jul 30, 2020 |
 | HP            | 18E7                     | [4b13141bdb](https://linux-hardware.org/?probe=4b13141bdb) | Jul 30, 2020 |
@@ -228,10 +222,8 @@ Total: 135
 | Gigabyte      | 990XA-UD3                | [d8882da61a](https://linux-hardware.org/?probe=d8882da61a) | Jun 13, 2020 |
 | ASUSTek       | K8N4-E Deluxe            | [0908450cf0](https://linux-hardware.org/?probe=0908450cf0) | Jun 08, 2020 |
 | Fujitsu       | D3171-A1 S26361-D3171-A1 | [a514be4e22](https://linux-hardware.org/?probe=a514be4e22) | Jun 06, 2020 |
-| ASUSTek       | K8N4-E Deluxe            | [5fa350f8ac](https://linux-hardware.org/?probe=5fa350f8ac) | May 31, 2020 |
 | MSI           | MS-7267                  | [7003aba6ad](https://linux-hardware.org/?probe=7003aba6ad) | May 27, 2020 |
 | Dell          | 02YRK5 A02               | [27e6fd0506](https://linux-hardware.org/?probe=27e6fd0506) | May 16, 2020 |
-| Dell          | 02YRK5 A02               | [82a7d47cf6](https://linux-hardware.org/?probe=82a7d47cf6) | May 15, 2020 |
 | Dell          | 02YRK5 A02               | [4fa188ca3e](https://linux-hardware.org/?probe=4fa188ca3e) | May 15, 2020 |
 | ECS           | Alhena5                  | [be2ff7b4dc](https://linux-hardware.org/?probe=be2ff7b4dc) | May 15, 2020 |
 | Gigabyte      | 990FXA-UD3               | [a0112b2478](https://linux-hardware.org/?probe=a0112b2478) | May 14, 2020 |
@@ -255,7 +247,6 @@ Total: 135
 | ECS           | Alhena5                  | [89c17f438e](https://linux-hardware.org/?probe=89c17f438e) | Feb 28, 2020 |
 | Fujitsu Si... | D1931 S26361-D1931       | [6a48bc1e53](https://linux-hardware.org/?probe=6a48bc1e53) | Feb 21, 2020 |
 | Fujitsu Si... | D1931 S26361-D1931       | [1ad8d628c8](https://linux-hardware.org/?probe=1ad8d628c8) | Feb 12, 2020 |
-| Fujitsu Si... | D1931 S26361-D1931       | [e5dda37f22](https://linux-hardware.org/?probe=e5dda37f22) | Feb 12, 2020 |
 | Fujitsu Si... | D1931 S26361-D1931       | [a1abc42f9e](https://linux-hardware.org/?probe=a1abc42f9e) | Feb 12, 2020 |
 | HP            | 0AA8h                    | [c5721d223f](https://linux-hardware.org/?probe=c5721d223f) | Feb 05, 2020 |
 | Lenovo        | 31900058 STD             | [4d8db6ee1f](https://linux-hardware.org/?probe=4d8db6ee1f) | Jan 22, 2020 |
@@ -273,7 +264,6 @@ Total: 135
 | Gigabyte      | F2A55M-HD2               | [86b1a4acd7](https://linux-hardware.org/?probe=86b1a4acd7) | Dec 02, 2019 |
 | Intel         | D945GCLF2 AAE46416-106   | [f2817e5306](https://linux-hardware.org/?probe=f2817e5306) | Nov 29, 2019 |
 | Biostar       | A68N-5600E               | [d91042148c](https://linux-hardware.org/?probe=d91042148c) | Nov 27, 2019 |
-| Gigabyte      | F2A55M-HD2               | [ee80ea4e41](https://linux-hardware.org/?probe=ee80ea4e41) | Nov 24, 2019 |
 | Gigabyte      | F2A55M-HD2               | [05c2549698](https://linux-hardware.org/?probe=05c2549698) | Nov 24, 2019 |
 | eMachines     | E945GCU                  | [0a595972e2](https://linux-hardware.org/?probe=0a595972e2) | Nov 23, 2019 |
 | Dell          | 042P49 A01               | [b7c0226ab5](https://linux-hardware.org/?probe=b7c0226ab5) | Nov 10, 2019 |
@@ -283,7 +273,6 @@ Total: 135
 | Gigabyte      | H61M-S1                  | [dc52bfa103](https://linux-hardware.org/?probe=dc52bfa103) | Oct 04, 2019 |
 | Acer          | GRS400M                  | [1d3dc49b0a](https://linux-hardware.org/?probe=1d3dc49b0a) | Sep 29, 2019 |
 | Acer          | GRS400M                  | [e510d98ae4](https://linux-hardware.org/?probe=e510d98ae4) | Sep 22, 2019 |
-| Acer          | GRS400M                  | [e0f3e1d46f](https://linux-hardware.org/?probe=e0f3e1d46f) | Sep 22, 2019 |
 | Acer          | GRS400M                  | [213156ffb7](https://linux-hardware.org/?probe=213156ffb7) | Sep 22, 2019 |
 | ASUSTek       | K8N4-E Deluxe            | [dee3d2bdaa](https://linux-hardware.org/?probe=dee3d2bdaa) | Sep 04, 2019 |
 | ASUSTek       | K8N4-E Deluxe            | [cfaaae942a](https://linux-hardware.org/?probe=cfaaae942a) | Aug 27, 2019 |
@@ -306,50 +295,49 @@ Version of the Linux kernel
 
 | Version              | Desktops | Percent |
 |----------------------|----------|---------|
-| 5.0.0-37-generic     | 15       | 16.67%  |
-| 5.3.0-46-generic     | 4        | 4.44%   |
-| 5.0.0-36-generic     | 4        | 4.44%   |
-| 5.4.0-87-generic     | 3        | 3.33%   |
-| 5.4.0-66-generic     | 3        | 3.33%   |
-| 5.4.0-42-generic     | 3        | 3.33%   |
-| 5.3.0-51-generic     | 3        | 3.33%   |
-| 5.3.0-40-generic     | 3        | 3.33%   |
-| 5.0.0-32-generic     | 3        | 3.33%   |
-| 4.18.0-25-generic    | 3        | 3.33%   |
-| 4.18.0-18-generic    | 3        | 3.33%   |
-| 5.4.0-67-generic     | 2        | 2.22%   |
-| 5.4.0-58-generic     | 2        | 2.22%   |
-| 5.4.0-54-generic     | 2        | 2.22%   |
-| 5.4.0-52-generic     | 2        | 2.22%   |
-| 5.4.0-48-generic     | 2        | 2.22%   |
-| 5.3.0-62-generic     | 2        | 2.22%   |
-| 5.3.0-59-generic     | 2        | 2.22%   |
-| 5.3.0-28-generic     | 2        | 2.22%   |
-| 5.0.0-29-generic     | 2        | 2.22%   |
-| 5.0.0-25-generic     | 2        | 2.22%   |
-| 5.7.1-050701-generic | 1        | 1.11%   |
-| 5.6.7-050607-generic | 1        | 1.11%   |
-| 5.4.0-96-generic     | 1        | 1.11%   |
-| 5.4.0-91-generic     | 1        | 1.11%   |
-| 5.4.0-90-generic     | 1        | 1.11%   |
-| 5.4.0-89-generic     | 1        | 1.11%   |
-| 5.4.0-81-generic     | 1        | 1.11%   |
-| 5.4.0-80-generic     | 1        | 1.11%   |
-| 5.4.0-70-generic     | 1        | 1.11%   |
-| 5.4.0-65-generic     | 1        | 1.11%   |
-| 5.4.0-62-generic     | 1        | 1.11%   |
-| 5.4.0-60-generic     | 1        | 1.11%   |
-| 5.4.0-56-generic     | 1        | 1.11%   |
-| 5.4.0-51-generic     | 1        | 1.11%   |
-| 5.4.0-49-generic     | 1        | 1.11%   |
-| 5.4.0-45-generic     | 1        | 1.11%   |
-| 5.4.0-105-generic    | 1        | 1.11%   |
-| 5.3.9-050309-generic | 1        | 1.11%   |
-| 5.3.6-050306-generic | 1        | 1.11%   |
-| 5.3.0-53-generic     | 1        | 1.11%   |
-| 5.3.0-45-generic     | 1        | 1.11%   |
-| 5.0.0-23-generic     | 1        | 1.11%   |
-| 4.18.0-24-generic    | 1        | 1.11%   |
+| 5.0.0-37-generic     | 15       | 16.85%  |
+| 5.3.0-46-generic     | 4        | 4.49%   |
+| 5.0.0-36-generic     | 4        | 4.49%   |
+| 5.4.0-87-generic     | 3        | 3.37%   |
+| 5.4.0-66-generic     | 3        | 3.37%   |
+| 5.4.0-52-generic     | 3        | 3.37%   |
+| 5.4.0-42-generic     | 3        | 3.37%   |
+| 5.3.0-51-generic     | 3        | 3.37%   |
+| 5.3.0-40-generic     | 3        | 3.37%   |
+| 5.0.0-32-generic     | 3        | 3.37%   |
+| 4.18.0-25-generic    | 3        | 3.37%   |
+| 4.18.0-18-generic    | 3        | 3.37%   |
+| 5.4.0-67-generic     | 2        | 2.25%   |
+| 5.4.0-58-generic     | 2        | 2.25%   |
+| 5.4.0-54-generic     | 2        | 2.25%   |
+| 5.4.0-48-generic     | 2        | 2.25%   |
+| 5.3.0-59-generic     | 2        | 2.25%   |
+| 5.3.0-28-generic     | 2        | 2.25%   |
+| 5.0.0-29-generic     | 2        | 2.25%   |
+| 5.0.0-25-generic     | 2        | 2.25%   |
+| 5.7.1-050701-generic | 1        | 1.12%   |
+| 5.6.7-050607-generic | 1        | 1.12%   |
+| 5.4.0-96-generic     | 1        | 1.12%   |
+| 5.4.0-91-generic     | 1        | 1.12%   |
+| 5.4.0-90-generic     | 1        | 1.12%   |
+| 5.4.0-89-generic     | 1        | 1.12%   |
+| 5.4.0-81-generic     | 1        | 1.12%   |
+| 5.4.0-80-generic     | 1        | 1.12%   |
+| 5.4.0-70-generic     | 1        | 1.12%   |
+| 5.4.0-65-generic     | 1        | 1.12%   |
+| 5.4.0-62-generic     | 1        | 1.12%   |
+| 5.4.0-60-generic     | 1        | 1.12%   |
+| 5.4.0-56-generic     | 1        | 1.12%   |
+| 5.4.0-49-generic     | 1        | 1.12%   |
+| 5.4.0-45-generic     | 1        | 1.12%   |
+| 5.4.0-105-generic    | 1        | 1.12%   |
+| 5.3.9-050309-generic | 1        | 1.12%   |
+| 5.3.6-050306-generic | 1        | 1.12%   |
+| 5.3.0-62-generic     | 1        | 1.12%   |
+| 5.3.0-53-generic     | 1        | 1.12%   |
+| 5.3.0-45-generic     | 1        | 1.12%   |
+| 5.0.0-23-generic     | 1        | 1.12%   |
+| 4.18.0-24-generic    | 1        | 1.12%   |
 
 Kernel Family
 -------------
@@ -813,13 +801,13 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 0.51-1.0  | 37       | 43.02%  |
-| 1.01-2.0  | 32       | 37.21%  |
-| 2.01-3.0  | 6        | 6.98%   |
-| 0.01-0.5  | 5        | 5.81%   |
-| 4.01-8.0  | 3        | 3.49%   |
-| 3.01-4.0  | 2        | 2.33%   |
-| 8.01-16.0 | 1        | 1.16%   |
+| 0.51-1.0  | 37       | 43.53%  |
+| 1.01-2.0  | 32       | 37.65%  |
+| 2.01-3.0  | 6        | 7.06%   |
+| 0.01-0.5  | 4        | 4.71%   |
+| 4.01-8.0  | 3        | 3.53%   |
+| 3.01-4.0  | 2        | 2.35%   |
+| 8.01-16.0 | 1        | 1.18%   |
 
 Total Drives
 ------------
@@ -849,8 +837,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 54       | 67.5%   |
-| No        | 26       | 32.5%   |
+| Yes       | 55       | 68.75%  |
+| No        | 25       | 31.25%  |
 
 Has Ethernet
 ------------
@@ -942,66 +930,66 @@ Geographic location (city)
 
 | City                   | Desktops | Percent |
 |------------------------|----------|---------|
-| Villingen-Schwenningen | 3        | 3.61%   |
-| Ељroda ЕљlД…ska | 1        | 1.2%    |
-| Winfield               | 1        | 1.2%    |
-| Wassenaar              | 1        | 1.2%    |
-| Washington             | 1        | 1.2%    |
-| Van Vleck              | 1        | 1.2%    |
-| Turin                  | 1        | 1.2%    |
-| Tsarskoye Selo         | 1        | 1.2%    |
-| Thatcher               | 1        | 1.2%    |
-| Taranto                | 1        | 1.2%    |
-| Talala                 | 1        | 1.2%    |
-| Tahlequah              | 1        | 1.2%    |
-| Stockholm              | 1        | 1.2%    |
-| Spokane                | 1        | 1.2%    |
-| South Jordan           | 1        | 1.2%    |
-| Somma Vesuviana        | 1        | 1.2%    |
-| Seville                | 1        | 1.2%    |
-| Saratov                | 1        | 1.2%    |
-| Santa Barbara          | 1        | 1.2%    |
-| Sankt Augustin         | 1        | 1.2%    |
-| Saint-Jerome           | 1        | 1.2%    |
-| Rome                   | 1        | 1.2%    |
-| Rock Hill              | 1        | 1.2%    |
-| Roanoke                | 1        | 1.2%    |
-| Rio de Janeiro         | 1        | 1.2%    |
-| Reggio Emilia          | 1        | 1.2%    |
-| Quezon City            | 1        | 1.2%    |
-| Pune                   | 1        | 1.2%    |
-| Popesti-Leordeni       | 1        | 1.2%    |
-| Philadelphia           | 1        | 1.2%    |
-| Perth                  | 1        | 1.2%    |
-| Pensacola              | 1        | 1.2%    |
-| Parral                 | 1        | 1.2%    |
-| Oulu                   | 1        | 1.2%    |
-| Naples                 | 1        | 1.2%    |
-| Mysore                 | 1        | 1.2%    |
-| Mumbai                 | 1        | 1.2%    |
-| Mockmuhl               | 1        | 1.2%    |
-| Middlesboro            | 1        | 1.2%    |
-| Metairie               | 1        | 1.2%    |
-| Maywood Park           | 1        | 1.2%    |
-| Manchester             | 1        | 1.2%    |
-| Lugagnano Val d'Arda   | 1        | 1.2%    |
-| LourinhГЈ            | 1        | 1.2%    |
-| Lincoln                | 1        | 1.2%    |
-| Lima                   | 1        | 1.2%    |
-| Lee's Summit           | 1        | 1.2%    |
-| Lake Charles           | 1        | 1.2%    |
-| La Crosse              | 1        | 1.2%    |
-| Krosnowice             | 1        | 1.2%    |
-| Kielczow               | 1        | 1.2%    |
-| Jacksonville           | 1        | 1.2%    |
-| Ipiau                  | 1        | 1.2%    |
-| Hitchin                | 1        | 1.2%    |
-| Helsinki               | 1        | 1.2%    |
-| Hammond                | 1        | 1.2%    |
-| Hamburg                | 1        | 1.2%    |
-| Guayaquil              | 1        | 1.2%    |
-| Gmina Strzelin         | 1        | 1.2%    |
-| Fitchburg              | 1        | 1.2%    |
+| Villingen-Schwenningen | 3        | 3.66%   |
+| Bengaluru              | 2        | 2.44%   |
+| Wroclaw                | 1        | 1.22%   |
+| Wassenaar              | 1        | 1.22%   |
+| Washington             | 1        | 1.22%   |
+| Vitória               | 1        | 1.22%   |
+| Van Vleck              | 1        | 1.22%   |
+| Turin                  | 1        | 1.22%   |
+| Tsarskoye Selo         | 1        | 1.22%   |
+| Thatcher               | 1        | 1.22%   |
+| Taranto                | 1        | 1.22%   |
+| Talala                 | 1        | 1.22%   |
+| Tahlequah              | 1        | 1.22%   |
+| Swidnica               | 1        | 1.22%   |
+| Stockholm              | 1        | 1.22%   |
+| Spokane                | 1        | 1.22%   |
+| South Jordan           | 1        | 1.22%   |
+| Seville                | 1        | 1.22%   |
+| Seattle                | 1        | 1.22%   |
+| Saratov                | 1        | 1.22%   |
+| Santa Barbara          | 1        | 1.22%   |
+| Sankt Augustin         | 1        | 1.22%   |
+| Rock Hill              | 1        | 1.22%   |
+| Roanoke                | 1        | 1.22%   |
+| Rio de Janeiro         | 1        | 1.22%   |
+| Rio                    | 1        | 1.22%   |
+| Reggio Emilia          | 1        | 1.22%   |
+| Quezon City            | 1        | 1.22%   |
+| Pune                   | 1        | 1.22%   |
+| Prevost                | 1        | 1.22%   |
+| Popesti-Leordeni       | 1        | 1.22%   |
+| Ponchatoula            | 1        | 1.22%   |
+| Philadelphia           | 1        | 1.22%   |
+| Perth                  | 1        | 1.22%   |
+| Peristeri              | 1        | 1.22%   |
+| Pensacola              | 1        | 1.22%   |
+| Parral                 | 1        | 1.22%   |
+| Oulu                   | 1        | 1.22%   |
+| Nelson                 | 1        | 1.22%   |
+| Mumbai                 | 1        | 1.22%   |
+| Milkow                 | 1        | 1.22%   |
+| Middlesboro            | 1        | 1.22%   |
+| Metairie               | 1        | 1.22%   |
+| Lourinha               | 1        | 1.22%   |
+| Lincoln                | 1        | 1.22%   |
+| Lima                   | 1        | 1.22%   |
+| Lewisville             | 1        | 1.22%   |
+| Lake Charles           | 1        | 1.22%   |
+| Kansas City            | 1        | 1.22%   |
+| Jijelli                | 1        | 1.22%   |
+| Jacksonville           | 1        | 1.22%   |
+| Itatiba                | 1        | 1.22%   |
+| Ipiau                  | 1        | 1.22%   |
+| Hitchin                | 1        | 1.22%   |
+| Helsinki               | 1        | 1.22%   |
+| Hamburg                | 1        | 1.22%   |
+| Guayaquil              | 1        | 1.22%   |
+| Gerrards Cross         | 1        | 1.22%   |
+| Gardner                | 1        | 1.22%   |
+| Falciano del Massico   | 1        | 1.22%   |
 
 Drives
 ------
@@ -1016,11 +1004,11 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 29       | 47     | 26.36%  |
+| WDC                 | 29       | 44     | 26.36%  |
 | Seagate             | 20       | 22     | 18.18%  |
 | Hitachi             | 15       | 22     | 13.64%  |
 | Samsung Electronics | 14       | 19     | 12.73%  |
-| MAXTOR              | 8        | 11     | 7.27%   |
+| MAXTOR              | 8        | 10     | 7.27%   |
 | Kingston            | 6        | 8      | 5.45%   |
 | SanDisk             | 3        | 3      | 2.73%   |
 | Toshiba             | 2        | 2      | 1.82%   |
@@ -1075,7 +1063,7 @@ Hard drive models
 | WDC WD30EFZX-68AWUN0 3TB            | 1        | 0.85%   |
 | WDC WD2500BEVT-22A23T0 250GB        | 1        | 0.85%   |
 | WDC WD2500AVJB-63WKA0 250GB         | 1        | 0.85%   |
-| WDC WD2500AAJS-75M0A0 250GB         | 1        | 0.85%   |
+| WDC WD2500AAJS-75M0A0 249GB         | 1        | 0.85%   |
 | WDC WD2500AAJS-00VTA0 250GB         | 1        | 0.85%   |
 | WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.85%   |
 | WDC WD20EURS-63S48Y0 2TB            | 1        | 0.85%   |
@@ -1118,11 +1106,11 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 28       | 46     | 33.73%  |
+| WDC                 | 28       | 43     | 33.73%  |
 | Seagate             | 20       | 22     | 24.1%   |
 | Hitachi             | 15       | 22     | 18.07%  |
 | Samsung Electronics | 8        | 11     | 9.64%   |
-| MAXTOR              | 8        | 11     | 9.64%   |
+| MAXTOR              | 8        | 10     | 9.64%   |
 | Toshiba             | 2        | 2      | 2.41%   |
 | WD MediaMax         | 1        | 1      | 1.2%    |
 | Fujitsu             | 1        | 1      | 1.2%    |
@@ -1158,7 +1146,7 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 66       | 116    | 70.97%  |
+| HDD     | 66       | 112    | 70.97%  |
 | SSD     | 22       | 28     | 23.66%  |
 | NVMe    | 2        | 2      | 2.15%   |
 | Unknown | 2        | 2      | 2.15%   |
@@ -1174,7 +1162,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 77       | 144    | 93.9%   |
+| SATA | 77       | 140    | 93.9%   |
 | SAS  | 2        | 2      | 2.44%   |
 | NVMe | 2        | 2      | 2.44%   |
 | MMC  | 1        | 1      | 1.22%   |
@@ -1189,7 +1177,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 68       | 111    | 72.34%  |
+| 0.01-0.5   | 68       | 107    | 72.34%  |
 | 0.51-1.0   | 19       | 24     | 20.21%  |
 | 1.01-2.0   | 5        | 7      | 5.32%   |
 | 2.01-3.0   | 1        | 1      | 1.06%   |
@@ -1226,14 +1214,14 @@ Amount of used disk space
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1-20      | 47       | 57.32%  |
-| 21-50     | 17       | 20.73%  |
-| 101-250   | 7        | 8.54%   |
-| 51-100    | 5        | 6.1%    |
-| 501-1000  | 2        | 2.44%   |
-| Unknown   | 2        | 2.44%   |
-| 251-500   | 1        | 1.22%   |
-| 1001-2000 | 1        | 1.22%   |
+| 1-20      | 47       | 56.63%  |
+| 21-50     | 17       | 20.48%  |
+| 101-250   | 7        | 8.43%   |
+| 51-100    | 6        | 7.23%   |
+| 501-1000  | 2        | 2.41%   |
+| Unknown   | 2        | 2.41%   |
+| 251-500   | 1        | 1.2%    |
+| 1001-2000 | 1        | 1.2%    |
 
 Malfunc. Drives
 ---------------
@@ -1310,7 +1298,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 76       | 142    | 93.83%  |
+| Detected | 76       | 138    | 93.83%  |
 | Works    | 3        | 5      | 3.7%    |
 | Malfunc  | 2        | 2      | 2.47%   |
 
@@ -1878,8 +1866,8 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch    | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080 700x390mm 31.5-inch                        | 1        | 1.28%   |
+| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                           | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
@@ -1909,9 +1897,9 @@ Monitor models
 | Hewlett-Packard LCD Monitor 2711 1920x1080                              | 1        | 1.28%   |
 | Hewlett-Packard L1955 HWP262C 1280x1024 380x300mm 19.1-inch             | 1        | 1.28%   |
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch              | 1        | 1.28%   |
-| Goldstar W1943 GSM4BAD 1360x768 410x230mm 18.5-inch                     | 1        | 1.28%   |
+| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 677x290mm 29.0-inch                | 1        | 1.28%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.28%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.28%   |
 | Goldstar L1553S GSM3BB0 1024x768 304x228mm 15.0-inch                    | 1        | 1.28%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 1        | 1.28%   |
@@ -1924,7 +1912,7 @@ Monitor models
 | Dell P2213 DELF041 1680x1050 473x296mm 22.0-inch                        | 1        | 1.28%   |
 | Dell LCD Monitor SE2417HG 1920x1080                                     | 1        | 1.28%   |
 | Dell IN1910N DELA04C 1366x768 410x230mm 18.5-inch                       | 1        | 1.28%   |
-| Dell E228WFP DELD015 1680x1050 473x296mm 22.0-inch                      | 1        | 1.28%   |
+| Dell E228WFP DELD015 1680x1050 470x300mm 22.0-inch                      | 1        | 1.28%   |
 | Dell DEL 1908FPBLK DEL4047 1280x1024 376x301mm 19.0-inch                | 1        | 1.28%   |
 | Dell 1703FP DEL3010 1280x1024 338x270mm 17.0-inch                       | 1        | 1.28%   |
 | CPT CL-151G CPT1790 1024x768 304x228mm 15.0-inch                        | 1        | 1.28%   |
@@ -2264,7 +2252,7 @@ Wireless models
 | Marvell Group 88w8335 [Libertas] 802.11b/g Wireless                                    | 1        | 2.08%   |
 | Intel Wi-Fi 6 AX200                                                                    | 1        | 2.08%   |
 | D-Link DWP-156                                                                         | 1        | 2.08%   |
-| D-Link DWA-171 AC600 DB Wireless Adapter(rev.A1) [Realtek RTL8811AU]                   | 1        | 2.08%   |
+| D-Link 802.11n WLAN Adapter                                                            | 1        | 2.08%   |
 | D-Link 802.11ac NIC                                                                    | 1        | 2.08%   |
 | Belkin Components F6D4050 N150 Enhanced Wireless Network Adapter v2000 [Ralink RT3070] | 1        | 2.08%   |
 | ASUS USB-N14 802.11b/g/n (2x2) Wireless Adapter [Ralink RT5372]                        | 1        | 2.08%   |
@@ -2366,8 +2354,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 63       | 64.95%  |
-| WiFi     | 34       | 35.05%  |
+| Ethernet | 48       | 62.34%  |
+| WiFi     | 29       | 37.66%  |
 
 NICs
 ----
@@ -2431,7 +2419,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7        | 41.18%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 2        | 11.76%  |
 | ASUS Bluetooth Radio                                | 2        | 11.76%  |
-| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 5.88%   |
+| Qualcomm Atheros  Bluetooth Device                  | 1        | 5.88%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1        | 5.88%   |
 | Primax Rocketfish RF-FLBTAD Bluetooth Adapter       | 1        | 5.88%   |
 | Kensington Bluetooth EDR Dongle                     | 1        | 5.88%   |
@@ -2514,7 +2502,7 @@ Sound card models
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.83%   |
 | Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                       | 1        | 0.83%   |
 | Intel 200 Series PCH HD Audio                                              | 1        | 0.83%   |
-| Generalplus Technology USB Audio Device                                    | 1        | 0.83%   |
+| Generalplus Technology Usb Audio Device                                    | 1        | 0.83%   |
 | Creative Technology SoundBlaster MP3+                                      | 1        | 0.83%   |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.83%   |
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                 | 1        | 0.83%   |
@@ -2578,11 +2566,11 @@ Memory module models
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s       | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 5.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 5.56%   |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 5.56%   |
 | Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2866MT/s     | 1        | 5.56%   |
-| G.Skill RAM F3-1866C10-8GAB 8GB DIMM DDR3 1866MT/s       | 1        | 5.56%   |
+| G.Skill RAM F3-1866C10-8GAB 8GB DIMM DDR3 1867MT/s       | 1        | 5.56%   |
 | Crucial RAM BLS8G3D18ADS3 8GB DIMM DDR3 1866MT/s         | 1        | 5.56%   |
 | Unknown                                                  | 1        | 5.56%   |
 

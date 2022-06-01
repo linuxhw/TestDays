@@ -777,38 +777,37 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City            | Notebooks | Percent |
-|-----------------|-----------|---------|
-| Marki           | 2         | 6.25%   |
-| London          | 2         | 6.25%   |
-| Woodford        | 1         | 3.13%   |
-| Vienna          | 1         | 3.13%   |
-| Vernouillet     | 1         | 3.13%   |
-| Valpacos        | 1         | 3.13%   |
-| Tottenham       | 1         | 3.13%   |
-| Tehran          | 1         | 3.13%   |
-| Stockholm       | 1         | 3.13%   |
-| South Deerfield | 1         | 3.13%   |
-| Samara          | 1         | 3.13%   |
-| QuÃ©bec       | 1         | 3.13%   |
-| Mykolayiv       | 1         | 3.13%   |
-| Montevideo      | 1         | 3.13%   |
-| Mons            | 1         | 3.13%   |
-| Melsele         | 1         | 3.13%   |
-| Lehrte          | 1         | 3.13%   |
-| Krakow          | 1         | 3.13%   |
-| Kiel            | 1         | 3.13%   |
-| Kharkiv         | 1         | 3.13%   |
-| Irpin           | 1         | 3.13%   |
-| Halifax         | 1         | 3.13%   |
-| Getafe          | 1         | 3.13%   |
-| Enschede        | 1         | 3.13%   |
-| Cluj-Napoca     | 1         | 3.13%   |
-| Chelyabinsk     | 1         | 3.13%   |
-| Cergy           | 1         | 3.13%   |
-| Cartagena       | 1         | 3.13%   |
-| Bedford         | 1         | 3.13%   |
-| Arlesheim       | 1         | 3.13%   |
+| City               | Notebooks | Percent |
+|--------------------|-----------|---------|
+| Marki              | 2         | 6.45%   |
+| London             | 2         | 6.45%   |
+| Woodford           | 1         | 3.23%   |
+| Vienna             | 1         | 3.23%   |
+| Verneuil-sur-Seine | 1         | 3.23%   |
+| Valpacos           | 1         | 3.23%   |
+| Tottenham          | 1         | 3.23%   |
+| Tolyatti           | 1         | 3.23%   |
+| Tehran             | 1         | 3.23%   |
+| Stockholm          | 1         | 3.23%   |
+| South Deerfield    | 1         | 3.23%   |
+| Ottawa             | 1         | 3.23%   |
+| Mykolayiv          | 1         | 3.23%   |
+| Montevideo         | 1         | 3.23%   |
+| Mons               | 1         | 3.23%   |
+| Melsele            | 1         | 3.23%   |
+| Lehrte             | 1         | 3.23%   |
+| Krakow             | 1         | 3.23%   |
+| Kiel               | 1         | 3.23%   |
+| Kharkiv            | 1         | 3.23%   |
+| Irpin              | 1         | 3.23%   |
+| Getafe             | 1         | 3.23%   |
+| Enschede           | 1         | 3.23%   |
+| Cluj-Napoca        | 1         | 3.23%   |
+| Chelyabinsk        | 1         | 3.23%   |
+| Cergy              | 1         | 3.23%   |
+| Cartagena          | 1         | 3.23%   |
+| Bedford            | 1         | 3.23%   |
+| Allschwil          | 1         | 3.23%   |
 
 Drives
 ------
@@ -882,7 +881,7 @@ Hard drive models
 | Kingston SA400S37960G 960GB SSD      | 1         | 2.56%   |
 | Kingston OM8PCP3512F-AI1 512GB       | 1         | 2.56%   |
 | Intel SSDPEKKF010T8L 1TB             | 1         | 2.56%   |
-| INNOVATION IT IT 1TB SSD             | 1         | 2.56%   |
+| INNOVATION IT IT 240GB SSD           | 1         | 2.56%   |
 | HGST HTS721010A9E630 1TB             | 1         | 2.56%   |
 | Crucial CT250MX500SSD1 250GB         | 1         | 2.56%   |
 | Crucial CT1000MX500SSD1 1TB          | 1         | 2.56%   |
@@ -961,9 +960,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 9      | 52.94%  |
-| 0.51-1.0   | 7         | 8      | 41.18%  |
-| 1.01-2.0   | 1         | 1      | 5.88%   |
+| 0.01-0.5   | 9         | 10     | 56.25%  |
+| 0.51-1.0   | 6         | 7      | 37.5%   |
+| 1.01-2.0   | 1         | 1      | 6.25%   |
 
 Space Total
 -----------
@@ -1467,7 +1466,7 @@ Monitor models
 | PANDA LM156LF1L03 NCP001C 1920x1080 344x194mm 15.5-inch           | 1         | 2.56%   |
 | PANDA LCD Monitor NCP0062 1920x1080 309x174mm 14.0-inch           | 1         | 2.56%   |
 | PANDA LCD Monitor NCP005E 1920x1080 309x174mm 14.0-inch           | 1         | 2.56%   |
-| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch       | 1         | 2.56%   |
+| Panasonic VVX16T029D00 MEI96A2 2880x1620 344x193mm 15.5-inch      | 1         | 2.56%   |
 | LG Display LCD Monitor LGD0649 2560x1600 286x179mm 13.3-inch      | 1         | 2.56%   |
 | LG Display LCD Monitor LGD060F 1920x1080 309x174mm 14.0-inch      | 1         | 2.56%   |
 | LG Display LCD Monitor LGD0533 1920x1080 344x194mm 15.5-inch      | 1         | 2.56%   |
@@ -1482,7 +1481,7 @@ Monitor models
 | Eizo L568 ENC1734 1280x1024 338x270mm 17.0-inch                   | 1         | 2.56%   |
 | Dell U2717D DEL40EB 2560x1440 597x336mm 27.0-inch                 | 1         | 2.56%   |
 | Dell P2715Q DEL40BD 3840x2160 597x336mm 27.0-inch                 | 1         | 2.56%   |
-| Dell P2418D DELD0C2 2560x1440 530x300mm 24.0-inch                 | 1         | 2.56%   |
+| Dell P2418D DELD0C2 2560x1440 526x296mm 23.8-inch                 | 1         | 2.56%   |
 | Chimei Innolux LCD Monitor CMN175C 1920x1080 381x214mm 17.2-inch  | 1         | 2.56%   |
 | Chimei Innolux LCD Monitor CMN152A 2560x1440 344x193mm 15.5-inch  | 1         | 2.56%   |
 | Chimei Innolux LCD Monitor CMN14F2 1920x1080 309x173mm 13.9-inch  | 1         | 2.56%   |
@@ -1495,9 +1494,9 @@ Monitor models
 | AU Optronics LCD Monitor AUO4A90 1920x1080 309x174mm 14.0-inch    | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO2336 2560x1440 309x174mm 14.0-inch    | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO226D 1920x1080 276x155mm 12.5-inch    | 1         | 2.56%   |
-| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch      | 1         | 2.56%   |
+| ASUSTek Computer VP28U AUS28B1 3840x2160 620x340mm 27.8-inch      | 1         | 2.56%   |
 | Apple Color LCD APPA02E 2880x1800 331x207mm 15.4-inch             | 1         | 2.56%   |
-| AOC 2770 AOC2770 1920x1080 598x336mm 27.0-inch                    | 1         | 2.56%   |
+| AOC 2770G4 AOC2770 1920x1080 598x336mm 27.0-inch                  | 1         | 2.56%   |
 
 Monitor Resolution
 ------------------
@@ -1786,8 +1785,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 28        | 68.29%  |
-| Ethernet | 13        | 31.71%  |
+| WiFi     | 28        | 75.68%  |
+| Ethernet | 9         | 24.32%  |
 
 NICs
 ----
@@ -1847,8 +1846,8 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 4         | 14.29%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter       | 2         | 7.14%   |
 | Intel Wireless-AC 3168 Bluetooth               | 2         | 7.14%   |
-| Intel Bluetooth Device                         | 2         | 7.14%   |
-| Realtek Bluetooth Radio                        | 1         | 3.57%   |
+| Intel AX201 Bluetooth                          | 2         | 7.14%   |
+| Realtek 802.11ac WLAN Adapter                  | 1         | 3.57%   |
 | Intel AX210 Bluetooth                          | 1         | 3.57%   |
 
 Sound
@@ -1908,7 +1907,7 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                              | 1         | 1.85%   |
 | Intel Broadwell-U Audio Controller                                      | 1         | 1.85%   |
 | Corsair HS70 Pro Wireless Gaming Headset                                | 1         | 1.85%   |
-| C-Media Electronics Svive Essential mic                                 | 1         | 1.85%   |
+| C-Media Electronics USB Advanced Audio Device                           | 1         | 1.85%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series] | 1         | 1.85%   |
 | AMD Navi 10 HDMI Audio                                                  | 1         | 1.85%   |
 
@@ -1945,43 +1944,43 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                               | Notebooks | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s              | 2         | 5.41%   |
-| Samsung RAM M471A1G44AB0-CWE 8192MB SODIMM DDR4 3200MT/s            | 2         | 5.41%   |
-| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s    | 1         | 2.7%    |
-| SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                     | 1         | 2.7%    |
-| SK Hynix RAM H9HCNNNCPMMLXR-NEE 8192MB Row Of Chips LPDDR4 4266MT/s | 1         | 2.7%    |
-| Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                         | 1         | 2.7%    |
-| Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s                     | 1         | 2.7%    |
-| Samsung RAM Module 16384MB SODIMM DDR4 2667MT/s                     | 1         | 2.7%    |
-| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s              | 1         | 2.7%    |
-| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s              | 1         | 2.7%    |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s              | 1         | 2.7%    |
-| Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s              | 1         | 2.7%    |
-| Samsung RAM M471A2K43BB1-CPB 16GB Chip DDR4 2133MT/s                | 1         | 2.7%    |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s               | 1         | 2.7%    |
-| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s               | 1         | 2.7%    |
-| Samsung RAM M471A1K43BB1-CTD 8192MB SODIMM DDR4 2667MT/s            | 1         | 2.7%    |
-| Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s               | 1         | 2.7%    |
-| Micron RAM MT53E1G32D2NP-046 8GB SODIMM LPDDR4 4266MT/s             | 1         | 2.7%    |
-| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s       | 1         | 2.7%    |
-| Micron RAM 53E2G32D4NQ-046 4096MB Row Of Chips LPDDR4 4267MT/s      | 1         | 2.7%    |
-| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s                | 1         | 2.7%    |
-| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s                | 1         | 2.7%    |
-| Micron RAM 16KTF2G64HZ-1G6A1 16GB SODIMM DDR3 1600MT/s              | 1         | 2.7%    |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s               | 1         | 2.7%    |
-| Kingston RAM ACR16D3LS1KBGR/8G 8192MB SODIMM DDR3 1600MT/s          | 1         | 2.7%    |
-| Kingston RAM 9905744-035.A00G 16GB SODIMM DDR4 3200MT/s             | 1         | 2.7%    |
-| GOODRAM RAM GR2400S464L17S/8G 8GB SODIMM DDR4 2400MT/s              | 1         | 2.7%    |
-| G.Skill RAM F4-2400C16-16GRS 16GB SODIMM DDR4 2667MT/s              | 1         | 2.7%    |
-| Crucial RAM CT32G4SFD832A.M16FF 32GB SODIMM DDR4 3200MT/s           | 1         | 2.7%    |
-| Crucial RAM CT16G4SFD824A.C16FBD 16384MB SODIMM DDR4 2667MT/s       | 1         | 2.7%    |
-| Crucial RAM CT16G4SFD8213.M16FB 16GB SODIMM DDR4 2133MT/s           | 1         | 2.7%    |
-| Crucial RAM CB16GS2666.C8ET 16384MB SODIMM DDR4 2667MT/s            | 1         | 2.7%    |
-| Corsair RAM CMSO8GX3M1A1600C11 8GB SODIMM DDR3 1600MT/s             | 1         | 2.7%    |
-| Avant RAM J642GU42J2320NQ 16384MB SODIMM DDR4 3200MT/s              | 1         | 2.7%    |
-| AMD RAM R9432G3206S2S 32GB SODIMM DDR4 3200MT/s                     | 1         | 2.7%    |
+| Model                                                            | Notebooks | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s           | 2         | 5.41%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 2         | 5.41%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM DDR4 2400MT/s   | 1         | 2.7%    |
+| SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                  | 1         | 2.7%    |
+| SK Hynix RAM H9HCNNNCPMMLXR-NEE 8GB Row Of Chips LPDDR4 4266MT/s | 1         | 2.7%    |
+| Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                      | 1         | 2.7%    |
+| Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s                  | 1         | 2.7%    |
+| Samsung RAM Module 16384MB SODIMM DDR4 2667MT/s                  | 1         | 2.7%    |
+| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 1         | 2.7%    |
+| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 2.7%    |
+| Samsung RAM M471A2K43CB1-CRC 16384MB SODIMM DDR4 2667MT/s        | 1         | 2.7%    |
+| Samsung RAM M471A2K43BB1-CPB 16GB Chip DDR4 2133MT/s             | 1         | 2.7%    |
+| Samsung RAM M471A2K43BB1-CPB 16384MB SODIMM DDR4 2133MT/s        | 1         | 2.7%    |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.7%    |
+| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 2.7%    |
+| Samsung RAM M471A1K43BB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 2.7%    |
+| Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s            | 1         | 2.7%    |
+| Micron RAM MT53E1G32D2NP-046 8GB SODIMM LPDDR4 4266MT/s          | 1         | 2.7%    |
+| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s    | 1         | 2.7%    |
+| Micron RAM 53E2G32D4NQ-046 4096MB Row Of Chips LPDDR4 4267MT/s   | 1         | 2.7%    |
+| Micron RAM 4ATS1G64HZ-2G6E1 8192MB SODIMM DDR4 2667MT/s          | 1         | 2.7%    |
+| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s             | 1         | 2.7%    |
+| Micron RAM 16KTF2G64HZ-1G6A1 16GB SODIMM DDR3 1600MT/s           | 1         | 2.7%    |
+| Micron RAM 16KTF1G64HZ-1G6E1 8192MB SODIMM DDR3 1600MT/s         | 1         | 2.7%    |
+| Kingston RAM ACR16D3LS1KBGR/8G 8192MB SODIMM DDR3 1600MT/s       | 1         | 2.7%    |
+| Kingston RAM 9905744-035.A00G 16GB SODIMM DDR4 3200MT/s          | 1         | 2.7%    |
+| GOODRAM RAM GR2400S464L17S/8G 8GB SODIMM DDR4 2400MT/s           | 1         | 2.7%    |
+| G.Skill RAM F4-2400C16-16GRS 16GB SODIMM DDR4 2667MT/s           | 1         | 2.7%    |
+| Crucial RAM CT32G4SFD832A.M16FF 32GB SODIMM DDR4 3200MT/s        | 1         | 2.7%    |
+| Crucial RAM CT16G4SFD824A.C16FBD 16384MB SODIMM DDR4 2667MT/s    | 1         | 2.7%    |
+| Crucial RAM CT16G4SFD8213.M16FB 16GB SODIMM DDR4 2133MT/s        | 1         | 2.7%    |
+| Crucial RAM CB16GS2666.C8ET 16GB SODIMM DDR4 2667MT/s            | 1         | 2.7%    |
+| Corsair RAM CMSO8GX3M1A1600C11 8GB SODIMM DDR3 1600MT/s          | 1         | 2.7%    |
+| Avant RAM J642GU42J2320NQ 16384MB SODIMM DDR4 3200MT/s           | 1         | 2.7%    |
+| AMD RAM R9432G3206S2S 32GB SODIMM DDR4 3200MT/s                  | 1         | 2.7%    |
 
 Memory Kind
 -----------
@@ -2107,24 +2106,25 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                             | Notebooks | Percent |
-|-----------------------------------|-----------|---------|
-| Chicony Integrated Camera         | 6         | 22.22%  |
-| IMC Networks Integrated Camera    | 3         | 11.11%  |
-| Chicony HP HD Camera              | 3         | 11.11%  |
-| IMC Networks USB2.0 HD UVC WebCam | 2         | 7.41%   |
-| Acer Integrated Camera            | 2         | 7.41%   |
-| Sunplus Integrated_Webcam_FHD     | 1         | 3.7%    |
-| Realtek Laptop Camera             | 1         | 3.7%    |
-| Quanta HD WebCam                  | 1         | 3.7%    |
-| Microdia USB 2.0 Camera           | 1         | 3.7%    |
-| Microdia Integrated_Webcam_HD     | 1         | 3.7%    |
-| Logitech Webcam C310              | 1         | 3.7%    |
-| Lite-On HP HD Camera              | 1         | 3.7%    |
-| Chicony USB2.0 Camera             | 1         | 3.7%    |
-| Acer SunplusIT Integrated Camera  | 1         | 3.7%    |
-| Acer Integrated IR Camera         | 1         | 3.7%    |
-| Acer HD Webcam                    | 1         | 3.7%    |
+| Model                               | Notebooks | Percent |
+|-------------------------------------|-----------|---------|
+| Chicony Integrated Camera           | 6         | 22.22%  |
+| IMC Networks Integrated Camera      | 3         | 11.11%  |
+| Chicony HP HD Camera                | 3         | 11.11%  |
+| IMC Networks USB2.0 HD UVC WebCam   | 2         | 7.41%   |
+| Sunplus Integrated_Webcam_FHD       | 1         | 3.7%    |
+| Realtek Laptop Camera               | 1         | 3.7%    |
+| Quanta HD WebCam                    | 1         | 3.7%    |
+| Microdia USB 2.0 Camera             | 1         | 3.7%    |
+| Microdia Integrated_Webcam_HD       | 1         | 3.7%    |
+| Logitech Webcam C310                | 1         | 3.7%    |
+| Lite-On HP HD Camera                | 1         | 3.7%    |
+| Chicony USB2.0 Camera               | 1         | 3.7%    |
+| Acer ThinkPad P50 Integrated Camera | 1         | 3.7%    |
+| Acer SunplusIT Integrated Camera    | 1         | 3.7%    |
+| Acer Integrated IR Camera           | 1         | 3.7%    |
+| Acer Integrated Camera              | 1         | 3.7%    |
+| Acer HD Webcam                      | 1         | 3.7%    |
 
 Security
 --------
