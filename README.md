@@ -102,6 +102,7 @@ Distribution-specific Reports
 * [ PureOS ](/Dist/PureOS)
 * [ Q4OS ](/Dist/Q4OS)
 * [ Reborn OS ](/Dist/Reborn_OS)
+* [ Red OS ](/Dist/Red_OS)
 * [ RHEL ](/Dist/RHEL)
 * [ Rocky Linux ](/Dist/Rocky_Linux)
 * [ Slackware ](/Dist/Slackware)

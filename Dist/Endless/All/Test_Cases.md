@@ -1,10 +1,50 @@
 Endless - Test Cases
 --------------------
 
-Total: 5263
+Total: 5303
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | VivoBook_ASUSLaptop X515... | Notebook    | [81fff806a4](https://linux-hardware.org/?probe=81fff806a4) | Jul 01, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X515... | Notebook    | [294f501cdd](https://linux-hardware.org/?probe=294f501cdd) | Jul 01, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X513... | Notebook    | [af946ca10b](https://linux-hardware.org/?probe=af946ca10b) | Jul 01, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X515... | Notebook    | [d68cd17ca2](https://linux-hardware.org/?probe=d68cd17ca2) | Jun 30, 2022 |
+| Dell          | Inspiron 1525               | Notebook    | [8f507b2e8c](https://linux-hardware.org/?probe=8f507b2e8c) | Jun 29, 2022 |
+| HP            | Pavilion dv7                | Notebook    | [6338462156](https://linux-hardware.org/?probe=6338462156) | Jun 27, 2022 |
+| ASUSTek       | VivoBook 14_ASUS Laptop ... | Notebook    | [b56f69ff9c](https://linux-hardware.org/?probe=b56f69ff9c) | Jun 26, 2022 |
+| Acer          | Nitro AN515-44              | Notebook    | [694f0baf86](https://linux-hardware.org/?probe=694f0baf86) | Jun 26, 2022 |
+| AMI           | Cherry Trail CR             | Notebook    | [0ea2a1f20a](https://linux-hardware.org/?probe=0ea2a1f20a) | Jun 26, 2022 |
+| ASUSTek       | X542UN                      | Notebook    | [56e348118b](https://linux-hardware.org/?probe=56e348118b) | Jun 26, 2022 |
+| Dell          | 0YM158 A02                  | Server      | [ec0a133cdf](https://linux-hardware.org/?probe=ec0a133cdf) | Jun 26, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X515... | Notebook    | [87f6da99c4](https://linux-hardware.org/?probe=87f6da99c4) | Jun 25, 2022 |
+| Acer          | Nitro AN515-54              | Notebook    | [7559b1f8fa](https://linux-hardware.org/?probe=7559b1f8fa) | Jun 24, 2022 |
+| HP            | 81BB                        | All in one  | [6586fa1ae2](https://linux-hardware.org/?probe=6586fa1ae2) | Jun 24, 2022 |
+| Acer          | Nitro AN515-54              | Notebook    | [eb8dbfaa92](https://linux-hardware.org/?probe=eb8dbfaa92) | Jun 23, 2022 |
+| ASUSTek       | X542UN                      | Notebook    | [e1d53a776f](https://linux-hardware.org/?probe=e1d53a776f) | Jun 22, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X513... | Notebook    | [5eaea4e568](https://linux-hardware.org/?probe=5eaea4e568) | Jun 22, 2022 |
+| Dell          | Latitude E6530              | Notebook    | [d456333df9](https://linux-hardware.org/?probe=d456333df9) | Jun 21, 2022 |
+| Packard Be... | EasyNote MH36               | Notebook    | [ecd7a50e8e](https://linux-hardware.org/?probe=ecd7a50e8e) | Jun 20, 2022 |
+| ASUSTek       | X542UN                      | Notebook    | [83a04b4dc4](https://linux-hardware.org/?probe=83a04b4dc4) | Jun 17, 2022 |
+| Acer          | Nitro AN515-44              | Notebook    | [5b70211c3a](https://linux-hardware.org/?probe=5b70211c3a) | Jun 16, 2022 |
+| Acer          | Nitro AN515-44              | Notebook    | [edf78ac5ae](https://linux-hardware.org/?probe=edf78ac5ae) | Jun 15, 2022 |
+| Acer          | Nitro AN515-44              | Notebook    | [ce3588c536](https://linux-hardware.org/?probe=ce3588c536) | Jun 15, 2022 |
+| ASUSTek       | Z550SA                      | Notebook    | [c1c96fa0a4](https://linux-hardware.org/?probe=c1c96fa0a4) | Jun 14, 2022 |
+| Acer          | Aspire E1-421               | Notebook    | [7cbe6cfc8f](https://linux-hardware.org/?probe=7cbe6cfc8f) | Jun 13, 2022 |
+| Acer          | Aspire E1-421               | Notebook    | [8ac8a79ce1](https://linux-hardware.org/?probe=8ac8a79ce1) | Jun 13, 2022 |
+| Gigabyte      | GA-78LMT-S2P                | Desktop     | [ec2e52372f](https://linux-hardware.org/?probe=ec2e52372f) | Jun 10, 2022 |
+| Acer          | Aspire A514-54G             | Notebook    | [a74cd897c5](https://linux-hardware.org/?probe=a74cd897c5) | Jun 09, 2022 |
+| ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [35dc89f7ff](https://linux-hardware.org/?probe=35dc89f7ff) | Jun 09, 2022 |
+| ASUSTek       | X541UAK                     | Notebook    | [92a20ee191](https://linux-hardware.org/?probe=92a20ee191) | Jun 08, 2022 |
+| Positivo      | J14GL11                     | Notebook    | [62ab2ad5f4](https://linux-hardware.org/?probe=62ab2ad5f4) | Jun 08, 2022 |
+| Dell          | Latitude E6530              | Notebook    | [f155f4f9a3](https://linux-hardware.org/?probe=f155f4f9a3) | Jun 08, 2022 |
+| HP            | 81BB                        | All in one  | [c6557e74bd](https://linux-hardware.org/?probe=c6557e74bd) | Jun 07, 2022 |
+| Kllisre       | B75 V1.1                    | Desktop     | [d9a9aa6243](https://linux-hardware.org/?probe=d9a9aa6243) | Jun 06, 2022 |
+| HP            | Laptop 17z-ca100            | Notebook    | [700d19ab97](https://linux-hardware.org/?probe=700d19ab97) | Jun 06, 2022 |
+| ASUSTek       | VivoBook_ASUSLaptop X513... | Notebook    | [9801d8d5c3](https://linux-hardware.org/?probe=9801d8d5c3) | Jun 05, 2022 |
+| Gigabyte      | H97M-D3H                    | Desktop     | [5159501e3a](https://linux-hardware.org/?probe=5159501e3a) | Jun 04, 2022 |
+| Dell          | Latitude E6330              | Notebook    | [775f5f5b15](https://linux-hardware.org/?probe=775f5f5b15) | Jun 03, 2022 |
+| Dell          | Latitude E6330              | Notebook    | [e471e0e49d](https://linux-hardware.org/?probe=e471e0e49d) | Jun 03, 2022 |
+| Microsoft     | Surface Book 2              | Tablet      | [39e5f4ba2a](https://linux-hardware.org/?probe=39e5f4ba2a) | Jun 01, 2022 |
 | Acer          | Aspire A514-54G             | Notebook    | [1019de0d68](https://linux-hardware.org/?probe=1019de0d68) | Jun 01, 2022 |
 | Dell          | Inspiron 1525               | Notebook    | [246387e9bc](https://linux-hardware.org/?probe=246387e9bc) | Jun 01, 2022 |
 | Dell          | Inspiron 1525               | Notebook    | [1b82b95b9a](https://linux-hardware.org/?probe=1b82b95b9a) | Jun 01, 2022 |
@@ -433,7 +473,7 @@ Total: 5263
 | Dell          | Latitude E7240              | Notebook    | [18213a2e29](https://linux-hardware.org/?probe=18213a2e29) | Oct 28, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X509... | Notebook    | [c4ffe3d08b](https://linux-hardware.org/?probe=c4ffe3d08b) | Oct 28, 2021 |
 | Chuwi         | GemiBook                    | Notebook    | [f40d5fd5a7](https://linux-hardware.org/?probe=f40d5fd5a7) | Oct 27, 2021 |
-| DIGIBOARD     | G41M-S                      | Desktop     | [4ec5cdcbd1](https://linux-hardware.org/?probe=4ec5cdcbd1) | Oct 27, 2021 |
+| Digiboard     | G41M-S                      | Desktop     | [4ec5cdcbd1](https://linux-hardware.org/?probe=4ec5cdcbd1) | Oct 27, 2021 |
 | Acer          | Nitro AN515-55              | Notebook    | [2b3ef0e291](https://linux-hardware.org/?probe=2b3ef0e291) | Oct 26, 2021 |
 | ASUSTek       | X540LA                      | Notebook    | [c947e5b1ea](https://linux-hardware.org/?probe=c947e5b1ea) | Oct 26, 2021 |
 | Acer          | Nitro AN515-55              | Notebook    | [2d7ac3338d](https://linux-hardware.org/?probe=2d7ac3338d) | Oct 26, 2021 |
@@ -466,7 +506,7 @@ Total: 5263
 | LG Electro... | U460-G.BG31P1               | Notebook    | [a2979e1c5f](https://linux-hardware.org/?probe=a2979e1c5f) | Oct 15, 2021 |
 | Intel         | Unknown                     | Notebook    | [6173409d40](https://linux-hardware.org/?probe=6173409d40) | Oct 15, 2021 |
 | ASUSTek       | H110M-D                     | Desktop     | [b0cc9343a8](https://linux-hardware.org/?probe=b0cc9343a8) | Oct 15, 2021 |
-| DIGIBOARD     | G41M-S                      | Desktop     | [4bba0c24db](https://linux-hardware.org/?probe=4bba0c24db) | Oct 14, 2021 |
+| Digiboard     | G41M-S                      | Desktop     | [4bba0c24db](https://linux-hardware.org/?probe=4bba0c24db) | Oct 14, 2021 |
 | ASRock        | A88M-G                      | Desktop     | [6d2fb9e92a](https://linux-hardware.org/?probe=6d2fb9e92a) | Oct 14, 2021 |
 | HP            | 2000                        | Notebook    | [e46637441a](https://linux-hardware.org/?probe=e46637441a) | Oct 13, 2021 |
 | Acer          | Aspire A315-53              | Notebook    | [0a00ed81de](https://linux-hardware.org/?probe=0a00ed81de) | Oct 12, 2021 |
@@ -529,7 +569,7 @@ Total: 5263
 | Acer          | Nitro AN515-54              | Notebook    | [6a3592ad63](https://linux-hardware.org/?probe=6a3592ad63) | Sep 15, 2021 |
 | HP            | Pavilion x2 Detachable P... | Notebook    | [c33e445621](https://linux-hardware.org/?probe=c33e445621) | Sep 14, 2021 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [4f393c5347](https://linux-hardware.org/?probe=4f393c5347) | Sep 13, 2021 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [1187336092](https://linux-hardware.org/?probe=1187336092) | Sep 11, 2021 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [1187336092](https://linux-hardware.org/?probe=1187336092) | Sep 11, 2021 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [1465a2e9d6](https://linux-hardware.org/?probe=1465a2e9d6) | Sep 11, 2021 |
 | HP            | Stream x360 Convertible ... | Convertible | [4e86625634](https://linux-hardware.org/?probe=4e86625634) | Sep 10, 2021 |
 | HP            | Stream x360 Convertible ... | Convertible | [e0e7daf6f8](https://linux-hardware.org/?probe=e0e7daf6f8) | Sep 10, 2021 |
@@ -2996,7 +3036,7 @@ Total: 5263
 | Itautec       | Infoway                     | Notebook    | [5fa9ca9acf](https://linux-hardware.org/?probe=5fa9ca9acf) | Apr 30, 2020 |
 | ASUSTek       | TUF Gaming FX705GM_FX705... | Notebook    | [4378118c71](https://linux-hardware.org/?probe=4378118c71) | Apr 30, 2020 |
 | Sony          | VGN-CR320E                  | Notebook    | [3214d06f2c](https://linux-hardware.org/?probe=3214d06f2c) | Apr 30, 2020 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [d2ee2964b9](https://linux-hardware.org/?probe=d2ee2964b9) | Apr 30, 2020 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [d2ee2964b9](https://linux-hardware.org/?probe=d2ee2964b9) | Apr 30, 2020 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [0ae7c20197](https://linux-hardware.org/?probe=0ae7c20197) | Apr 29, 2020 |
 | ASUSTek       | X541NA                      | Notebook    | [8826e140f4](https://linux-hardware.org/?probe=8826e140f4) | Apr 29, 2020 |
 | Acer          | Veriton EX2620G             | Desktop     | [6d5f0f7da2](https://linux-hardware.org/?probe=6d5f0f7da2) | Apr 29, 2020 |
@@ -3837,7 +3877,7 @@ Total: 5263
 | ASUSTek       | UL20A                       | Notebook    | [429a82d3c7](https://linux-hardware.org/?probe=429a82d3c7) | Dec 25, 2019 |
 | Acer          | Aspire A315-53              | Notebook    | [ce1098a7f5](https://linux-hardware.org/?probe=ce1098a7f5) | Dec 25, 2019 |
 | Lenovo        | IdeaPad 520-15IKB 80YL      | Notebook    | [ad1f14d1a1](https://linux-hardware.org/?probe=ad1f14d1a1) | Dec 25, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [daede56dc8](https://linux-hardware.org/?probe=daede56dc8) | Dec 25, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [daede56dc8](https://linux-hardware.org/?probe=daede56dc8) | Dec 25, 2019 |
 | Acer          | Aspire A315-53              | Notebook    | [6dba0943dd](https://linux-hardware.org/?probe=6dba0943dd) | Dec 24, 2019 |
 | Gigabyte      | 945GCM-S2C                  | Desktop     | [53b4651d22](https://linux-hardware.org/?probe=53b4651d22) | Dec 24, 2019 |
 | Gigabyte      | 945GCM-S2C                  | Desktop     | [8cc897c6a2](https://linux-hardware.org/?probe=8cc897c6a2) | Dec 24, 2019 |
@@ -4459,7 +4499,7 @@ Total: 5263
 | Gigabyte      | H55M-USB3                   | Desktop     | [3af6ec9033](https://linux-hardware.org/?probe=3af6ec9033) | Jun 28, 2019 |
 | ASRock        | A88M-G                      | Desktop     | [9ddae73cde](https://linux-hardware.org/?probe=9ddae73cde) | Jun 28, 2019 |
 | Dell          | 0RY206                      | Desktop     | [aed7ab6e58](https://linux-hardware.org/?probe=aed7ab6e58) | Jun 28, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [777c9b958d](https://linux-hardware.org/?probe=777c9b958d) | Jun 27, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [777c9b958d](https://linux-hardware.org/?probe=777c9b958d) | Jun 27, 2019 |
 | Acer          | Aspire E5-575G              | Notebook    | [0446579039](https://linux-hardware.org/?probe=0446579039) | Jun 26, 2019 |
 | Lenovo        | S20-30 20421                | Notebook    | [5c27867f6e](https://linux-hardware.org/?probe=5c27867f6e) | Jun 26, 2019 |
 | Acer          | Aspire A315-31              | Notebook    | [e705ab5d10](https://linux-hardware.org/?probe=e705ab5d10) | Jun 25, 2019 |
@@ -4486,7 +4526,7 @@ Total: 5263
 | Acer          | Predator G3-572             | Notebook    | [8d6430f03d](https://linux-hardware.org/?probe=8d6430f03d) | Jun 22, 2019 |
 | Acer          | TravelMate P259-MG          | Notebook    | [33d7eeb9aa](https://linux-hardware.org/?probe=33d7eeb9aa) | Jun 22, 2019 |
 | Toshiba       | K201                        | Notebook    | [2dfdf716ca](https://linux-hardware.org/?probe=2dfdf716ca) | Jun 22, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [4f8d66c8f2](https://linux-hardware.org/?probe=4f8d66c8f2) | Jun 21, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [4f8d66c8f2](https://linux-hardware.org/?probe=4f8d66c8f2) | Jun 21, 2019 |
 | ASRock        | A88M-G                      | Desktop     | [cd19a40732](https://linux-hardware.org/?probe=cd19a40732) | Jun 21, 2019 |
 | Acer          | Aspire A515-51G             | Notebook    | [6582422be8](https://linux-hardware.org/?probe=6582422be8) | Jun 21, 2019 |
 | Foxconn       | 2A8C                        | Desktop     | [928d183726](https://linux-hardware.org/?probe=928d183726) | Jun 21, 2019 |
@@ -4536,7 +4576,7 @@ Total: 5263
 | MSI           | MS-7369                     | Desktop     | [2f38127d38](https://linux-hardware.org/?probe=2f38127d38) | Jun 08, 2019 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [e86657c965](https://linux-hardware.org/?probe=e86657c965) | Jun 08, 2019 |
 | Sony          | SVF14N13CXB                 | Notebook    | [9977d3d0d2](https://linux-hardware.org/?probe=9977d3d0d2) | Jun 08, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [dc52ce5642](https://linux-hardware.org/?probe=dc52ce5642) | Jun 08, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [dc52ce5642](https://linux-hardware.org/?probe=dc52ce5642) | Jun 08, 2019 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [c5613a70c8](https://linux-hardware.org/?probe=c5613a70c8) | Jun 07, 2019 |
 | CCE           | NM70-I                      | Desktop     | [50b25d84fc](https://linux-hardware.org/?probe=50b25d84fc) | Jun 06, 2019 |
 | Dell          | 0M5DCD A00                  | Desktop     | [4c2d54b4e5](https://linux-hardware.org/?probe=4c2d54b4e5) | Jun 06, 2019 |
@@ -4577,10 +4617,10 @@ Total: 5263
 | Acer          | Aspire A517-51G             | Notebook    | [5245849739](https://linux-hardware.org/?probe=5245849739) | May 23, 2019 |
 | Acer          | Aspire A314-31              | Notebook    | [a7ef3d5e94](https://linux-hardware.org/?probe=a7ef3d5e94) | May 23, 2019 |
 | Gigabyte      | GA-MA78GM-UD2H              | Desktop     | [4b5d7e4dff](https://linux-hardware.org/?probe=4b5d7e4dff) | May 22, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [ef1f693dea](https://linux-hardware.org/?probe=ef1f693dea) | May 22, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [49d2326db1](https://linux-hardware.org/?probe=49d2326db1) | May 22, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [05ed07630e](https://linux-hardware.org/?probe=05ed07630e) | May 22, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [8b7eaeb8f5](https://linux-hardware.org/?probe=8b7eaeb8f5) | May 22, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [ef1f693dea](https://linux-hardware.org/?probe=ef1f693dea) | May 22, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [49d2326db1](https://linux-hardware.org/?probe=49d2326db1) | May 22, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [05ed07630e](https://linux-hardware.org/?probe=05ed07630e) | May 22, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [8b7eaeb8f5](https://linux-hardware.org/?probe=8b7eaeb8f5) | May 22, 2019 |
 | Acer          | Aspire A315-21              | Notebook    | [6d4aebc3ef](https://linux-hardware.org/?probe=6d4aebc3ef) | May 22, 2019 |
 | Itautec       | Infoway w7510               | Notebook    | [7bf56a1008](https://linux-hardware.org/?probe=7bf56a1008) | May 22, 2019 |
 | ASUSTek       | A78M-A                      | Desktop     | [d6a95ef72f](https://linux-hardware.org/?probe=d6a95ef72f) | May 22, 2019 |
@@ -4616,14 +4656,14 @@ Total: 5263
 | Gigabyte      | A320M-S2H V2-CF             | Desktop     | [719e599d42](https://linux-hardware.org/?probe=719e599d42) | May 13, 2019 |
 | Jumper        | EZpad                       | Notebook    | [3a5c0dd378](https://linux-hardware.org/?probe=3a5c0dd378) | May 13, 2019 |
 | Gigabyte      | C847N                       | Desktop     | [07183070ed](https://linux-hardware.org/?probe=07183070ed) | May 13, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [33c6c191ad](https://linux-hardware.org/?probe=33c6c191ad) | May 12, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [33c6c191ad](https://linux-hardware.org/?probe=33c6c191ad) | May 12, 2019 |
 | Acer          | Aspire A315-31              | Notebook    | [e19546ffd9](https://linux-hardware.org/?probe=e19546ffd9) | May 12, 2019 |
 | HP            | Compaq 325                  | Notebook    | [b9dadeece3](https://linux-hardware.org/?probe=b9dadeece3) | May 12, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [e653ee2e50](https://linux-hardware.org/?probe=e653ee2e50) | May 12, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [e653ee2e50](https://linux-hardware.org/?probe=e653ee2e50) | May 12, 2019 |
 | ASUSTek       | X751NA                      | Notebook    | [1f90452794](https://linux-hardware.org/?probe=1f90452794) | May 12, 2019 |
 | Gigabyte      | C847N                       | Desktop     | [10017878ae](https://linux-hardware.org/?probe=10017878ae) | May 12, 2019 |
 | Lenovo        | V330-15IKB 81AX             | Notebook    | [b595bf8876](https://linux-hardware.org/?probe=b595bf8876) | May 11, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [fc2466de5a](https://linux-hardware.org/?probe=fc2466de5a) | May 11, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [fc2466de5a](https://linux-hardware.org/?probe=fc2466de5a) | May 11, 2019 |
 | MSI           | H110M PRO-VH PLUS           | Desktop     | [03d1b5bad5](https://linux-hardware.org/?probe=03d1b5bad5) | May 11, 2019 |
 | Dell          | 0M5DCD A00                  | Desktop     | [75dad15c54](https://linux-hardware.org/?probe=75dad15c54) | May 11, 2019 |
 | ASUSTek       | X541SA                      | Notebook    | [dff8b29714](https://linux-hardware.org/?probe=dff8b29714) | May 10, 2019 |
@@ -4643,7 +4683,7 @@ Total: 5263
 | ASUSTek       | VivoBook_ASUSLaptop X530... | Notebook    | [fbd2210111](https://linux-hardware.org/?probe=fbd2210111) | May 07, 2019 |
 | Acer          | Aspire E5-575G              | Notebook    | [933bd023a3](https://linux-hardware.org/?probe=933bd023a3) | May 07, 2019 |
 | Acer          | Aspire ES1-132              | Notebook    | [c7738eb70a](https://linux-hardware.org/?probe=c7738eb70a) | May 07, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [e6aba2e0fe](https://linux-hardware.org/?probe=e6aba2e0fe) | May 07, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [e6aba2e0fe](https://linux-hardware.org/?probe=e6aba2e0fe) | May 07, 2019 |
 | Lenovo        | ThinkPad X230 2325YN1       | Notebook    | [11b1a757e3](https://linux-hardware.org/?probe=11b1a757e3) | May 07, 2019 |
 | Acer          | TravelMate P449-G2-M        | Notebook    | [d845bbe98a](https://linux-hardware.org/?probe=d845bbe98a) | May 07, 2019 |
 | ASUSTek       | A78M-A                      | Desktop     | [303094521d](https://linux-hardware.org/?probe=303094521d) | May 07, 2019 |
@@ -4651,7 +4691,7 @@ Total: 5263
 | Lenovo        | ThinkPad X230 2325YN1       | Notebook    | [48a1bab21b](https://linux-hardware.org/?probe=48a1bab21b) | May 06, 2019 |
 | ASUSTek       | X541NA                      | Notebook    | [c264843625](https://linux-hardware.org/?probe=c264843625) | May 06, 2019 |
 | ASUSTek       | VivoBook_ASUS Laptop X50... | Notebook    | [4ae6703181](https://linux-hardware.org/?probe=4ae6703181) | May 06, 2019 |
-| HARDKERNEL    | ODROID-H2                   | Desktop     | [ba00e58568](https://linux-hardware.org/?probe=ba00e58568) | May 06, 2019 |
+| Hardkernel    | ODROID-H2                   | Desktop     | [ba00e58568](https://linux-hardware.org/?probe=ba00e58568) | May 06, 2019 |
 | HP            | EliteBook 8470p             | Notebook    | [be19f87892](https://linux-hardware.org/?probe=be19f87892) | May 05, 2019 |
 | Pegatron      | 2AF0                        | Desktop     | [bebc187dbd](https://linux-hardware.org/?probe=bebc187dbd) | May 05, 2019 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [be51dd82dd](https://linux-hardware.org/?probe=be51dd82dd) | May 05, 2019 |
@@ -4992,7 +5032,7 @@ Total: 5263
 | ASUSTek       | X541UVK                     | Notebook    | [c71a005d75](https://linux-hardware.org/?probe=c71a005d75) | Jan 22, 2019 |
 | ASUSTek       | X541UVK                     | Notebook    | [fb49bb0013](https://linux-hardware.org/?probe=fb49bb0013) | Jan 22, 2019 |
 | Lenovo        | IdeaPad 110-15IBR 80W2      | Notebook    | [6cdb7bd812](https://linux-hardware.org/?probe=6cdb7bd812) | Jan 22, 2019 |
-| kennex        | kennexpc                    | Notebook    | [0fbed08f9b](https://linux-hardware.org/?probe=0fbed08f9b) | Jan 21, 2019 |
+| Kennex        | kennexpc                    | Notebook    | [0fbed08f9b](https://linux-hardware.org/?probe=0fbed08f9b) | Jan 21, 2019 |
 | Acer          | Aspire A515-51G             | Notebook    | [bc2c6a0308](https://linux-hardware.org/?probe=bc2c6a0308) | Jan 21, 2019 |
 | Acer          | Aspire A515-51G             | Notebook    | [a4fa6be429](https://linux-hardware.org/?probe=a4fa6be429) | Jan 21, 2019 |
 | Acer          | Aspire V3-571G              | Notebook    | [3f1dd6a0f2](https://linux-hardware.org/?probe=3f1dd6a0f2) | Jan 21, 2019 |
@@ -5261,8 +5301,8 @@ Total: 5263
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [2d1c5d19bf](https://linux-hardware.org/?probe=2d1c5d19bf) | Oct 25, 2018 |
 | HP            | Pavilion 14                 | Notebook    | [a708531868](https://linux-hardware.org/?probe=a708531868) | Oct 25, 2018 |
 | HP            | Pavilion 14                 | Notebook    | [dcd47dff54](https://linux-hardware.org/?probe=dcd47dff54) | Oct 25, 2018 |
-| Acer          | Aspire E5-575G              | Notebook    | [235c8b558f](https://linux-hardware.org/?probe=235c8b558f) | Oct 24, 2018 |
 | Acer          | Aspire E5-575G              | Notebook    | [1489eeb92a](https://linux-hardware.org/?probe=1489eeb92a) | Oct 24, 2018 |
+| Acer          | Aspire E5-575G              | Notebook    | [235c8b558f](https://linux-hardware.org/?probe=235c8b558f) | Oct 24, 2018 |
 | ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [0a670684fa](https://linux-hardware.org/?probe=0a670684fa) | Oct 24, 2018 |
 | ASUSTek       | Z550SA                      | Notebook    | [b0befd5c43](https://linux-hardware.org/?probe=b0befd5c43) | Oct 24, 2018 |
 | ASUSTek       | Z550SA                      | Notebook    | [f0e67f8597](https://linux-hardware.org/?probe=f0e67f8597) | Oct 24, 2018 |

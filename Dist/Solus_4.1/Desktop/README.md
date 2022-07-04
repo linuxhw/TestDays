@@ -716,53 +716,53 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                           | Desktops | Percent |
-|---------------------------------|----------|---------|
-| Samsung NVMe SSD Drive 500GB    | 4        | 6.9%    |
-| Samsung SSD 850 EVO 250GB       | 3        | 5.17%   |
-| WDC WD5000AAKS-00A7B0 500GB     | 2        | 3.45%   |
-| WDC WD10EZEX-08WN4A0 1TB        | 2        | 3.45%   |
-| Unknown TP02000GB 2TB           | 2        | 3.45%   |
-| Seagate ST31000528AS 1TB        | 2        | 3.45%   |
-| Samsung SSD 860 EVO 500GB       | 2        | 3.45%   |
-| Samsung SSD 850 EVO 500GB       | 2        | 3.45%   |
-| Samsung NVMe SSD Drive 1TB      | 2        | 3.45%   |
-| Intel NVMe SSD Drive 1024GB     | 2        | 3.45%   |
-| WDC WD6400AAKS-65A7B2 640GB     | 1        | 1.72%   |
-| WDC WD5000AAKX-001CA0 500GB     | 1        | 1.72%   |
-| WDC WD40EZRZ-00GXCB0 4TB        | 1        | 1.72%   |
-| WDC WD2003FZEX-00SRLA0 2TB      | 1        | 1.72%   |
-| WDC WD10EZEX-08M2NA0 1TB        | 1        | 1.72%   |
-| WDC WD10EADS-22M2B0 1TB         | 1        | 1.72%   |
-| WDC WD10EADS-00M2B0 1TB         | 1        | 1.72%   |
-| WDC WD1002FAEX-00Y9A0 1TB       | 1        | 1.72%   |
-| WDC WD1001FALS-75J7B0 1TB       | 1        | 1.72%   |
-| Unknown SATA3 SSD 128GB         | 1        | 1.72%   |
-| Toshiba MQ01ABD050 500GB        | 1        | 1.72%   |
-| Toshiba MK3276GSX 320GB         | 1        | 1.72%   |
-| Toshiba MK1665GSX 160GB         | 1        | 1.72%   |
-| Seagate ST500DM002-1BC142 500GB | 1        | 1.72%   |
-| Seagate ST3500418AS 500GB       | 1        | 1.72%   |
-| Seagate ST2000DX002-2DV164 2TB  | 1        | 1.72%   |
-| Seagate ST2000DX001-1NS164 2TB  | 1        | 1.72%   |
-| Seagate ST2000DM006-2DM164 2TB  | 1        | 1.72%   |
-| Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
-| Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
-| Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
-| SanDisk SDSSDH31024G 1TB        | 1        | 1.72%   |
-| SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
-| Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
-| Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
-| Samsung SSD 840 EVO 120GB       | 1        | 1.72%   |
-| Samsung Portable SSD T5 500GB   | 1        | 1.72%   |
-| Samsung M3 Portable 1TB         | 1        | 1.72%   |
-| Samsung HD203WI 2TB             | 1        | 1.72%   |
-| Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
-| Intel SSDPEKKW256G7 256GB       | 1        | 1.72%   |
-| Hitachi HTS545032B9A300 320GB   | 1        | 1.72%   |
-| Crucial CT250BX100SSD1 250GB    | 1        | 1.72%   |
-| Crucial CT240BX500SSD1 240GB    | 1        | 1.72%   |
-| A-DATA ED600 160GB SSD          | 1        | 1.72%   |
+| Model                                  | Desktops | Percent |
+|----------------------------------------|----------|---------|
+| Samsung SM963 2.5" NVMe PCIe SSD 500GB | 4        | 6.9%    |
+| Samsung SSD 850 EVO 250GB              | 3        | 5.17%   |
+| WDC WD5000AAKS-00A7B0 500GB            | 2        | 3.45%   |
+| WDC WD10EZEX-08WN4A0 1TB               | 2        | 3.45%   |
+| Unknown TP02000GB 2TB                  | 2        | 3.45%   |
+| Seagate ST31000528AS 1TB               | 2        | 3.45%   |
+| Samsung SSD 860 EVO 500GB              | 2        | 3.45%   |
+| Samsung SSD 850 EVO 500GB              | 2        | 3.45%   |
+| Samsung NVMe SSD Drive 1TB             | 2        | 3.45%   |
+| Intel NVMe SSD Drive 1024GB            | 2        | 3.45%   |
+| WDC WD6400AAKS-65A7B2 640GB            | 1        | 1.72%   |
+| WDC WD5000AAKX-001CA0 500GB            | 1        | 1.72%   |
+| WDC WD40EZRZ-00GXCB0 4TB               | 1        | 1.72%   |
+| WDC WD2003FZEX-00SRLA0 2TB             | 1        | 1.72%   |
+| WDC WD10EZEX-08M2NA0 1TB               | 1        | 1.72%   |
+| WDC WD10EADS-22M2B0 1TB                | 1        | 1.72%   |
+| WDC WD10EADS-00M2B0 1TB                | 1        | 1.72%   |
+| WDC WD1002FAEX-00Y9A0 1TB              | 1        | 1.72%   |
+| WDC WD1001FALS-75J7B0 1TB              | 1        | 1.72%   |
+| Unknown SATA3 SSD 128GB                | 1        | 1.72%   |
+| Toshiba MQ01ABD050 500GB               | 1        | 1.72%   |
+| Toshiba MK3276GSX 320GB                | 1        | 1.72%   |
+| Toshiba MK1665GSX 160GB                | 1        | 1.72%   |
+| Seagate ST500DM002-1BC142 500GB        | 1        | 1.72%   |
+| Seagate ST3500418AS 500GB              | 1        | 1.72%   |
+| Seagate ST2000DX002-2DV164 2TB         | 1        | 1.72%   |
+| Seagate ST2000DX001-1NS164 2TB         | 1        | 1.72%   |
+| Seagate ST2000DM006-2DM164 2TB         | 1        | 1.72%   |
+| Seagate ST2000DM001-9YN164 2TB         | 1        | 1.72%   |
+| Seagate ST2000DL003-9VT166 2TB         | 1        | 1.72%   |
+| Seagate Backup+ Hub BK 8TB             | 1        | 1.72%   |
+| SanDisk SDSSDH31024G 1TB               | 1        | 1.72%   |
+| SanDisk SDSSDA240G 240GB               | 1        | 1.72%   |
+| Samsung SSD 970 EVO Plus 500GB         | 1        | 1.72%   |
+| Samsung SSD 970 EVO 500GB              | 1        | 1.72%   |
+| Samsung SSD 840 EVO 120GB              | 1        | 1.72%   |
+| Samsung Portable SSD T5 500GB          | 1        | 1.72%   |
+| Samsung M3 Portable 1TB                | 1        | 1.72%   |
+| Samsung HD203WI 2TB                    | 1        | 1.72%   |
+| Kingston SA400S37240G 240GB SSD        | 1        | 1.72%   |
+| Intel SSDPEKKW256G7 256GB              | 1        | 1.72%   |
+| Hitachi HTS545032B9A300 320GB          | 1        | 1.72%   |
+| Crucial CT250BX100SSD1 250GB           | 1        | 1.72%   |
+| Crucial CT240BX500SSD1 240GB           | 1        | 1.72%   |
+| A-DATA ED600 160GB SSD                 | 1        | 1.72%   |
 
 HDD Vendor
 ----------
@@ -1328,15 +1328,15 @@ Monitor models
 | LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                    | 1        | 4.17%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 4.17%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
+| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch             | 1        | 4.17%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
-| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch          | 1        | 4.17%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
 | Dell S2719DGF DELD0E6 2560x1440 600x340mm 27.2-inch                  | 1        | 4.17%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.17%   |
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 4.17%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1737,17 +1737,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s  | 2        | 20%     |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 10%     |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 10%     |
-| G.Skill RAM F4-2400C15-8GVR 8192MB DIMM DDR4 3200MT/s  | 1        | 10%     |
-| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
-| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3000MT/s | 2        | 20%     |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s             | 1        | 10%     |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s             | 1        | 10%     |
+| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s       | 1        | 10%     |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 10%     |
+| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s      | 1        | 10%     |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s   | 1        | 10%     |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 10%     |
 
 Memory Kind
 -----------
@@ -1876,15 +1876,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| Microdia Camera               | 2        | 25%     |
-| Samsung Galaxy A5 (MTP)       | 1        | 12.5%   |
-| Microsoft Xbox NUI Camera     | 1        | 12.5%   |
-| Logitech Webcam C270          | 1        | 12.5%   |
-| Logitech StreamCam            | 1        | 12.5%   |
-| Logitech Logitech Webcam C160 | 1        | 12.5%   |
-| HP Webcam HD 2300             | 1        | 12.5%   |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Microdia Camera                         | 2        | 25%     |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 12.5%   |
+| Microsoft Xbox NUI Camera               | 1        | 12.5%   |
+| Logitech Webcam C270                    | 1        | 12.5%   |
+| Logitech StreamCam                      | 1        | 12.5%   |
+| Logitech Logitech Webcam C160           | 1        | 12.5%   |
+| HP Webcam HD 2300                       | 1        | 12.5%   |
 
 Security
 --------

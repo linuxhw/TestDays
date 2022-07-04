@@ -182,7 +182,7 @@ Total: 33
 | Lenovo        | IdeaCentre K430       | [cfee2604e5](https://linux-hardware.org/?probe=cfee2604e5) | Apr 30, 2021 |
 | MSI           | A68HM-P33             | [52eb515b91](https://linux-hardware.org/?probe=52eb515b91) | Apr 01, 2021 |
 | ASRock        | Z77 Pro4              | [981009625b](https://linux-hardware.org/?probe=981009625b) | Mar 29, 2021 |
-| FLEXTRONIC... | CPU-5A-C21 C21        | [4aca4558e4](https://linux-hardware.org/?probe=4aca4558e4) | Mar 21, 2021 |
+| Flextronic... | CPU-5A-C21 C21        | [4aca4558e4](https://linux-hardware.org/?probe=4aca4558e4) | Mar 21, 2021 |
 | ASUSTek       | TUF Gaming B550M-PLUS | [323c65cc17](https://linux-hardware.org/?probe=323c65cc17) | Mar 11, 2021 |
 | Dell          | 0XCR8D A01            | [3ed805ccdf](https://linux-hardware.org/?probe=3ed805ccdf) | Feb 26, 2021 |
 | Dell          | 0XCR8D A01            | [4f32c299db](https://linux-hardware.org/?probe=4f32c299db) | Feb 21, 2021 |
@@ -444,7 +444,7 @@ Motherboard manufacturer
 | ASUSTek Computer    | 4        | 17.39%  |
 | MSI                 | 2        | 8.7%    |
 | Lenovo              | 1        | 4.35%   |
-| FLEXTRONICS         | 1        | 4.35%   |
+| Flextronics         | 1        | 4.35%   |
 | ELSA                | 1        | 4.35%   |
 | ASRock              | 1        | 4.35%   |
 | Alienware           | 1        | 4.35%   |
@@ -468,7 +468,7 @@ Motherboard model
 | Gigabyte GA-880GM-UD2H     | 1        | 4.35%   |
 | Gigabyte B85M-HD3          | 1        | 4.35%   |
 | Gigabyte 990FXA-UD5        | 1        | 4.35%   |
-| FLEXTRONICS 7238US00       | 1        | 4.35%   |
+| Flextronics 7238US00       | 1        | 4.35%   |
 | ELSA EA H410M-E            | 1        | 4.35%   |
 | Dell XPS420                | 1        | 4.35%   |
 | Dell Precision Tower 3620  | 1        | 4.35%   |
@@ -504,7 +504,7 @@ Motherboard model prefix
 | Gigabyte GA-880GM-UD2H   | 1        | 4.35%   |
 | Gigabyte B85M-HD3        | 1        | 4.35%   |
 | Gigabyte 990FXA-UD5      | 1        | 4.35%   |
-| FLEXTRONICS 7238US00     | 1        | 4.35%   |
+| Flextronics 7238US00     | 1        | 4.35%   |
 | ELSA EA                  | 1        | 4.35%   |
 | Dell XPS420              | 1        | 4.35%   |
 | Dell Precision           | 1        | 4.35%   |
@@ -613,9 +613,9 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 12       | 52.17%  |
-| 2      | 5        | 21.74%  |
+| 1      | 13       | 56.52%  |
 | 4      | 4        | 17.39%  |
+| 2      | 4        | 17.39%  |
 | 3      | 2        | 8.7%    |
 
 Has CD-ROM
@@ -628,8 +628,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 12       | 52.17%  |
-| No        | 11       | 47.83%  |
+| Yes       | 13       | 56.52%  |
+| No        | 10       | 43.48%  |
 
 Has Ethernet
 ------------
@@ -747,13 +747,13 @@ Hard drive vendors
 | Unknown                   | 1        | 1      | 2.63%   |
 | Toshiba                   | 1        | 1      | 2.63%   |
 | T-FORCE                   | 1        | 1      | 2.63%   |
-| SK Hynix                  | 1        | 1      | 2.63%   |
+| SK hynix                  | 1        | 1      | 2.63%   |
 | Origin                    | 1        | 1      | 2.63%   |
 | Micron/Crucial Technology | 1        | 1      | 2.63%   |
-| MAXTOR                    | 1        | 1      | 2.63%   |
+| Maxtor                    | 1        | 1      | 2.63%   |
 | LITEONIT                  | 1        | 1      | 2.63%   |
 | Leven                     | 1        | 1      | 2.63%   |
-| JMicron                   | 1        | 1      | 2.63%   |
+| JMicron Technology        | 1        | 1      | 2.63%   |
 | Crucial                   | 1        | 1      | 2.63%   |
 | China                     | 1        | 1      | 2.63%   |
 | ASMT                      | 1        | 1      | 2.63%   |
@@ -768,7 +768,7 @@ Hard drive models
 
 | Model                                        | Desktops | Percent |
 |----------------------------------------------|----------|---------|
-| Sandisk NVMe SSD Drive 500GB                 | 2        | 5%      |
+| SanDisk NVMe SSD Drive 500GB                 | 2        | 5%      |
 | Kingston SA400S37240G 240GB SSD              | 2        | 5%      |
 | WDC WDS100T2B0A-00SM50 1TB SSD               | 1        | 2.5%    |
 | WDC WD5000AADS-00L4B1 500GB                  | 1        | 2.5%    |
@@ -778,7 +778,7 @@ Hard drive models
 | Unknown MMC Card  128GB                      | 1        | 2.5%    |
 | Toshiba NVMe SSD Drive 512GB                 | 1        | 2.5%    |
 | T-FORCE 1TB                                  | 1        | 2.5%    |
-| SK Hynix NVMe SSD Drive 512GB                | 1        | 2.5%    |
+| SK hynix NVMe SSD Drive 512GB                | 1        | 2.5%    |
 | Seagate ST940210AS 40GB                      | 1        | 2.5%    |
 | Seagate ST500DM002-1BD142 500GB              | 1        | 2.5%    |
 | Seagate ST3500418AS 500GB                    | 1        | 2.5%    |
@@ -797,11 +797,11 @@ Hard drive models
 | Samsung MZMPC064HBDR-000L1 64GB SSD          | 1        | 2.5%    |
 | Origin Inception TLC830 SSD 256GB            | 1        | 2.5%    |
 | Micron/Crucial NVMe SSD Drive 500GB          | 1        | 2.5%    |
-| MAXTOR 7L250S0 256GB                         | 1        | 2.5%    |
+| Maxtor 7L250S0 256GB                         | 1        | 2.5%    |
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.5%    |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.5%    |
-| JMicron Generic 128GB                        | 1        | 2.5%    |
-| Hitachi HDS728080PLA380 80GB                 | 1        | 2.5%    |
+| JMicron Generic 2TB                          | 1        | 2.5%    |
+| Hitachi HDS728080PLA380 82GB                 | 1        | 2.5%    |
 | Hitachi HDS721010CLA332 1TB                  | 1        | 2.5%    |
 | Crucial CT240BX500SSD1 240GB                 | 1        | 2.5%    |
 | China SATA SSD 120GB                         | 1        | 2.5%    |
@@ -815,12 +815,13 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| Seagate | 7        | 8      | 50%     |
-| WDC     | 4        | 6      | 28.57%  |
-| Hitachi | 2        | 2      | 14.29%  |
-| MAXTOR  | 1        | 1      | 7.14%   |
+| Vendor             | Desktops | Drives | Percent |
+|--------------------|----------|--------|---------|
+| Seagate            | 7        | 8      | 46.67%  |
+| WDC                | 4        | 6      | 26.67%  |
+| Hitachi            | 2        | 2      | 13.33%  |
+| Maxtor             | 1        | 1      | 6.67%   |
+| JMicron Technology | 1        | 1      | 6.67%   |
 
 SSD Vendor
 ----------
@@ -832,18 +833,17 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 3        | 3      | 18.75%  |
-| SanDisk             | 2        | 2      | 12.5%   |
-| Kingston            | 2        | 3      | 12.5%   |
-| WDC                 | 1        | 1      | 6.25%   |
-| Seagate             | 1        | 1      | 6.25%   |
-| Origin              | 1        | 1      | 6.25%   |
-| LITEONIT            | 1        | 1      | 6.25%   |
-| Leven               | 1        | 1      | 6.25%   |
-| JMicron             | 1        | 1      | 6.25%   |
-| Crucial             | 1        | 1      | 6.25%   |
-| China               | 1        | 1      | 6.25%   |
-| ASMT                | 1        | 1      | 6.25%   |
+| Samsung Electronics | 3        | 3      | 20%     |
+| SanDisk             | 2        | 2      | 13.33%  |
+| Kingston            | 2        | 3      | 13.33%  |
+| WDC                 | 1        | 1      | 6.67%   |
+| Seagate             | 1        | 1      | 6.67%   |
+| Origin              | 1        | 1      | 6.67%   |
+| LITEONIT            | 1        | 1      | 6.67%   |
+| Leven               | 1        | 1      | 6.67%   |
+| Crucial             | 1        | 1      | 6.67%   |
+| China               | 1        | 1      | 6.67%   |
+| ASMT                | 1        | 1      | 6.67%   |
 
 Drive Kind
 ----------
@@ -855,11 +855,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 14       | 17     | 43.75%  |
-| HDD     | 12       | 17     | 37.5%   |
-| NVMe    | 4        | 7      | 12.5%   |
-| MMC     | 1        | 1      | 3.13%   |
-| Unknown | 1        | 1      | 3.13%   |
+| SSD     | 13       | 16     | 41.94%  |
+| HDD     | 12       | 18     | 38.71%  |
+| NVMe    | 4        | 7      | 12.9%   |
+| MMC     | 1        | 1      | 3.23%   |
+| Unknown | 1        | 1      | 3.23%   |
 
 Drive Connector
 ---------------
@@ -886,9 +886,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 23     | 62.96%  |
-| 0.51-1.0   | 9        | 10     | 33.33%  |
-| 1.01-2.0   | 1        | 1      | 3.7%    |
+| 0.01-0.5   | 17       | 22     | 60.71%  |
+| 0.51-1.0   | 9        | 10     | 32.14%  |
+| 1.01-2.0   | 2        | 2      | 7.14%   |
 
 Space Total
 -----------
@@ -1018,12 +1018,12 @@ Storage controller vendors
 |------------------------------|----------|---------|
 | Intel                        | 15       | 44.12%  |
 | AMD                          | 8        | 23.53%  |
-| Sandisk                      | 2        | 5.88%   |
+| SanDisk                      | 2        | 5.88%   |
 | Samsung Electronics          | 2        | 5.88%   |
 | Marvell Technology Group     | 2        | 5.88%   |
 | ASMedia Technology           | 2        | 5.88%   |
 | Toshiba America Info Systems | 1        | 2.94%   |
-| SK Hynix                     | 1        | 2.94%   |
+| SK hynix                     | 1        | 2.94%   |
 | Micron/Crucial Technology    | 1        | 2.94%   |
 
 Storage Model
@@ -1044,9 +1044,9 @@ Storage controller models
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 2        | 5.13%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 2        | 5.13%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1        | 2.56%   |
-| SK Hynix SC300 512GB M.2 2280 SATA Solid State Drive                           | 1        | 2.56%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                 | 1        | 2.56%   |
-| Sandisk Non-Volatile memory controller                                         | 1        | 2.56%   |
+| SK hynix SC300 512GB M.2 2280 SATA Solid State Drive                           | 1        | 2.56%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                 | 1        | 2.56%   |
+| SanDisk Non-Volatile memory controller                                         | 1        | 2.56%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1        | 2.56%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 1        | 2.56%   |
 | Marvell Group 88SE6111/6121 SATA II / PATA Controller                          | 1        | 2.56%   |
@@ -1391,7 +1391,7 @@ Monitor models
 | Model                                                        | Desktops | Percent |
 |--------------------------------------------------------------|----------|---------|
 | Toshiba LCD Monitor TV 1920x1080                             | 1        | 4.35%   |
-| Sony TV SNYDC01 1360x768 1600x900mm 72.3-inch                | 1        | 4.35%   |
+| Sony TV SNYDC01 1360x768                                     | 1        | 4.35%   |
 | Samsung Electronics LCD Monitor SMS27A850T 2560x1440         | 1        | 4.35%   |
 | Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch           | 1        | 4.35%   |
 | LG Electronics LCD Monitor LG IPS FULLHD                     | 1        | 4.35%   |
@@ -1403,13 +1403,13 @@ Monitor models
 | Goldstar TV SSCR GSM8080 3840x2160 1600x900mm 72.3-inch      | 1        | 4.35%   |
 | Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch          | 1        | 4.35%   |
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch        | 1        | 4.35%   |
-| Element ELSFWC321 ELE6308 1366x768 700x390mm 31.5-inch       | 1        | 4.35%   |
-| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch            | 1        | 4.35%   |
+| Element WD32FBL1001 ELE6308 1920x1080 890x500mm 40.2-inch    | 1        | 4.35%   |
+| Dell P2314H DEL4098 1920x1080 510x290mm 23.1-inch            | 1        | 4.35%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch            | 1        | 4.35%   |
 | Dell LCD Monitor E228WFP                                     | 1        | 4.35%   |
 | BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch           | 1        | 4.35%   |
 | AUS LCD Monitor VA32AQ 2560x1440                             | 1        | 4.35%   |
-| AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch             | 1        | 4.35%   |
+| AOC L19W931 AOC1993 1360x768 410x260mm 19.1-inch             | 1        | 4.35%   |
 | AOC 2243W AOC2243 1920x1080 477x268mm 21.5-inch              | 1        | 4.35%   |
 | Acer K243Y ACR08B7 1920x1080 527x296mm 23.8-inch             | 1        | 4.35%   |
 | Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch           | 1        | 4.35%   |
@@ -1424,7 +1424,7 @@ Monitor screen resolution
 
 | Resolution      | Desktops | Percent |
 |-----------------|----------|---------|
-| 1920x1080 (FHD) | 10       | 45.45%  |
+| 1920x1080 (FHD) | 11       | 50%     |
 | 3840x2160 (4K)  | 2        | 9.09%   |
 | 2560x1440 (QHD) | 2        | 9.09%   |
 | 1360x768        | 2        | 9.09%   |
@@ -1432,7 +1432,6 @@ Monitor screen resolution
 | 7360x2160       | 1        | 4.55%   |
 | 3120x1050       | 1        | 4.55%   |
 | 1600x900 (HD+)  | 1        | 4.55%   |
-| 1366x768 (WXGA) | 1        | 4.55%   |
 
 Monitor Diagonal
 ----------------
@@ -1843,7 +1842,7 @@ Memory module vendors
 |----------|----------|---------|
 | Unknown  | 1        | 33.33%  |
 | Smart    | 1        | 33.33%  |
-| SK Hynix | 1        | 33.33%  |
+| SK hynix | 1        | 33.33%  |
 
 Memory Model
 ------------
@@ -1853,11 +1852,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1        | 33.33%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s     | 1        | 33.33%  |
-| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 33.33%  |
+| Model                                                | Desktops | Percent |
+|------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1        | 33.33%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1        | 33.33%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1        | 33.33%  |
 
 Memory Kind
 -----------

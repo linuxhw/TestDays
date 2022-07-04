@@ -799,7 +799,7 @@ Hard drive vendors
 | HGST                | 2         | 3      | 4.55%   |
 | A-DATA Technology   | 2         | 2      | 4.55%   |
 | SanDisk             | 1         | 1      | 2.27%   |
-| GOODRAM             | 1         | 1      | 2.27%   |
+| Goodram             | 1         | 1      | 2.27%   |
 | Crucial             | 1         | 1      | 2.27%   |
 
 Drive Model
@@ -850,7 +850,7 @@ Hard drive models
 | Hitachi HTS545050B9A300 500GB        | 1         | 2.27%   |
 | HGST HTS721010A9E630 1TB             | 1         | 2.27%   |
 | HGST HTS545025A7E380 250GB           | 1         | 2.27%   |
-| GOODRAM SSDPR-CX300-240 240GB        | 1         | 2.27%   |
+| Goodram SSDPR-CX300-240 240GB        | 1         | 2.27%   |
 | Crucial CT250MX500SSD1 250GB         | 1         | 2.27%   |
 | A-DATA SU750 256GB SSD               | 1         | 2.27%   |
 | A-DATA SU630 480GB SSD               | 1         | 2.27%   |
@@ -888,7 +888,7 @@ Solid state drive vendors
 | A-DATA Technology   | 2         | 2      | 14.29%  |
 | WDC                 | 1         | 2      | 7.14%   |
 | SanDisk             | 1         | 1      | 7.14%   |
-| GOODRAM             | 1         | 1      | 7.14%   |
+| Goodram             | 1         | 1      | 7.14%   |
 | Crucial             | 1         | 1      | 7.14%   |
 
 Drive Kind
@@ -1456,11 +1456,11 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 5.56%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 340x190mm 15.3-inch          | 2         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 2         | 5.56%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 5.56%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SEC3358 1280x800 330x210mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.78%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 2.78%   |
@@ -1870,14 +1870,15 @@ Controller models
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 3         | 13.04%  |
 | Intel Bluetooth wireless interface                          | 3         | 13.04%  |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 8.7%    |
-| Qualcomm Atheros  Bluetooth Device                          | 2         | 8.7%    |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 8.7%    |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 8.7%    |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 2         | 8.7%    |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 4.35%   |
+| Qualcomm Atheros  Bluetooth Device                          | 1         | 4.35%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 4.35%   |
+| Qualcomm Atheros AR9462 Bluetooth                           | 1         | 4.35%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 4.35%   |
-| Intel AX201 Bluetooth                                       | 1         | 4.35%   |
+| Intel Bluetooth Device                                      | 1         | 4.35%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 4.35%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 4.35%   |
 | Foxconn / Hon Hai BCM20702A0                                | 1         | 4.35%   |
@@ -1951,7 +1952,7 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| SK Hynix            | 2         | 33.33%  |
+| SK hynix            | 2         | 33.33%  |
 | Unknown             | 1         | 16.67%  |
 | Smart               | 1         | 16.67%  |
 | Samsung Electronics | 1         | 16.67%  |
@@ -1969,8 +1970,8 @@ Memory module models
 |---------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM SDRAM                     | 1         | 16.67%  |
 | Smart RAM SF464128CKHIWDFSEG 4GB SODIMM DDR4 2133MT/s   | 1         | 16.67%  |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 16.67%  |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 16.67%  |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s | 1         | 16.67%  |
 

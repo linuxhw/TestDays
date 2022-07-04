@@ -962,16 +962,16 @@ Hard drive vendors
 | Kingston            | 3         | 3      | 4.69%   |
 | HGST                | 3         | 3      | 4.69%   |
 | Unknown             | 2         | 2      | 3.13%   |
-| SK Hynix            | 2         | 2      | 3.13%   |
+| SK hynix            | 2         | 2      | 3.13%   |
 | Intel               | 2         | 2      | 3.13%   |
 | Gigabyte Technology | 2         | 2      | 3.13%   |
-| PLEXTOR             | 1         | 1      | 1.56%   |
+| Plextor             | 1         | 1      | 1.56%   |
 | Patriot             | 1         | 2      | 1.56%   |
 | Netac               | 1         | 1      | 1.56%   |
 | Micron Technology   | 1         | 1      | 1.56%   |
 | KIOXIA              | 1         | 1      | 1.56%   |
 | Hewlett-Packard     | 1         | 2      | 1.56%   |
-| DOGFISH             | 1         | 1      | 1.56%   |
+| Dogfish             | 1         | 1      | 1.56%   |
 
 Drive Model
 -----------
@@ -999,8 +999,8 @@ Hard drive models
 | Toshiba MQ01ABF050 500GB                | 1         | 1.47%   |
 | Toshiba MK2565GSXN 250GB                | 1         | 1.47%   |
 | Toshiba MK1646GSX 160GB                 | 1         | 1.47%   |
-| SK Hynix HFM001TD3JX013N 1TB            | 1         | 1.47%   |
-| SK Hynix BC511 HFM512GDJTNI-82A0A 512GB | 1         | 1.47%   |
+| SK hynix HFM001TD3JX013N 1TB            | 1         | 1.47%   |
+| SK hynix BC511 HFM512GDJTNI-82A0A 512GB | 1         | 1.47%   |
 | Seagate ST9160827AS 160GB               | 1         | 1.47%   |
 | Seagate ST9160412AS 160GB               | 1         | 1.47%   |
 | Seagate ST500VT000-1DK142 500GB         | 1         | 1.47%   |
@@ -1027,7 +1027,7 @@ Hard drive models
 | Samsung MZMTE256HMHP-00000 256GB SSD    | 1         | 1.47%   |
 | Samsung MZ7LN256HCHP-000L7 256GB SSD    | 1         | 1.47%   |
 | Samsung MZ7LN256HAJQ-000L2 256GB SSD    | 1         | 1.47%   |
-| PLEXTOR PX-128M6S 128GB SSD             | 1         | 1.47%   |
+| Plextor PX-128M6S 128GB SSD             | 1         | 1.47%   |
 | Patriot Burst 960GB SSD                 | 1         | 1.47%   |
 | Patriot Burst 120GB SSD                 | 1         | 1.47%   |
 | Netac SSD 720GB                         | 1         | 1.47%   |
@@ -1042,7 +1042,7 @@ Hard drive models
 | HGST HTS545050A7E380 500GB              | 1         | 1.47%   |
 | HGST HTS541010A9E680 1TB                | 1         | 1.47%   |
 | HP SSD EX950 2TB                        | 1         | 1.47%   |
-| Gigabyte GP-GSTFS31240GNTD 240GB        | 1         | 1.47%   |
+| Gigabyte GP-GSTFS31240GNTD 240GB SSD    | 1         | 1.47%   |
 
 HDD Vendor
 ----------
@@ -1074,12 +1074,12 @@ Solid state drive vendors
 | Crucial             | 3         | 4      | 14.29%  |
 | Kingston            | 2         | 2      | 9.52%   |
 | WDC                 | 1         | 1      | 4.76%   |
-| PLEXTOR             | 1         | 1      | 4.76%   |
+| Plextor             | 1         | 1      | 4.76%   |
 | Patriot             | 1         | 2      | 4.76%   |
 | Netac               | 1         | 1      | 4.76%   |
 | Micron Technology   | 1         | 1      | 4.76%   |
 | Gigabyte Technology | 1         | 1      | 4.76%   |
-| DOGFISH             | 1         | 1      | 4.76%   |
+| Dogfish             | 1         | 1      | 4.76%   |
 
 Drive Kind
 ----------
@@ -1176,7 +1176,7 @@ Drive models with a malfunction
 | WDC WD10JPLX-00MBPT0 1TB            | 1         | 1      | 14.29%  |
 | Toshiba MK2565GSXN 250GB            | 1         | 1      | 14.29%  |
 | Samsung Electronics SSD 870 EVO 1TB | 1         | 1      | 14.29%  |
-| PLEXTOR PX-128M6S 128GB SSD         | 1         | 1      | 14.29%  |
+| Plextor PX-128M6S 128GB SSD         | 1         | 1      | 14.29%  |
 | HGST HTS725050A7E630 500GB          | 1         | 1      | 14.29%  |
 | HGST HTS545050A7E380 500GB          | 1         | 1      | 14.29%  |
 
@@ -1194,7 +1194,7 @@ Vendors of faulty drives
 | HGST                | 2         | 2      | 28.57%  |
 | Toshiba             | 1         | 1      | 14.29%  |
 | Samsung Electronics | 1         | 1      | 14.29%  |
-| PLEXTOR             | 1         | 1      | 14.29%  |
+| Plextor             | 1         | 1      | 14.29%  |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1267,8 +1267,8 @@ Storage controller vendors
 | Intel                       | 39        | 62.9%   |
 | Samsung Electronics         | 9         | 14.52%  |
 | AMD                         | 5         | 8.06%   |
-| SK Hynix                    | 2         | 3.23%   |
-| Sandisk                     | 2         | 3.23%   |
+| SK hynix                    | 2         | 3.23%   |
+| SanDisk                     | 2         | 3.23%   |
 | Phison Electronics          | 1         | 1.61%   |
 | Micron/Crucial Technology   | 1         | 1.61%   |
 | KIOXIA                      | 1         | 1.61%   |
@@ -1298,10 +1298,10 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 2         | 3.13%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 3.13%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 2         | 3.13%   |
-| SK Hynix Gold P31 SSD                                                            | 1         | 1.56%   |
-| SK Hynix BC511                                                                   | 1         | 1.56%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                   | 1         | 1.56%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 1         | 1.56%   |
+| SK hynix Gold P31 SSD                                                            | 1         | 1.56%   |
+| SK hynix BC511                                                                   | 1         | 1.56%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 1.56%   |
+| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 1         | 1.56%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 1.56%   |
 | Phison NVMe Storage Controller                                                   | 1         | 1.56%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                  | 1         | 1.56%   |
@@ -1702,7 +1702,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch     | 2         | 3.57%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch        | 2         | 3.57%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch        | 2         | 3.57%   |
 | Sony TV SNY8102 1360x768 1600x900mm 72.3-inch                        | 1         | 1.79%   |
 | Sharp LQ173M1JW05 SHP14EC 1920x1080 380x210mm 17.1-inch              | 1         | 1.79%   |
 | Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch              | 1         | 1.79%   |
@@ -1710,11 +1710,11 @@ Monitor models
 | Sharp LCD Monitor SHP14C4 1920x1080 344x194mm 15.5-inch              | 1         | 1.79%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 1.79%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 1.79%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch | 1         | 1.79%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.79%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch | 1         | 1.79%   |
 | PANDA LCD Monitor NCP0050 1920x1080 309x174mm 14.0-inch              | 1         | 1.79%   |
-| Panasonic VVX16T029D00 MEI96A2 2880x1620 344x193mm 15.5-inch         | 1         | 1.79%   |
-| LG Display LCD Monitor LGD0625 1920x1080 344x194mm 15.5-inch         | 1         | 1.79%   |
+| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch          | 1         | 1.79%   |
+| LG Display LCD Monitor LGD0625 1920x1080 340x190mm 15.3-inch         | 1         | 1.79%   |
 | LG Display LCD Monitor LGD0599 1920x1080 309x174mm 14.0-inch         | 1         | 1.79%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 1.79%   |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 1.79%   |
@@ -1728,7 +1728,7 @@ Monitor models
 | Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch              | 1         | 1.79%   |
 | Hewlett-Packard P223 HPN3392 1920x1080 477x268mm 21.5-inch           | 1         | 1.79%   |
 | Hewlett-Packard 27m HPN3579 1920x1080 598x336mm 27.0-inch            | 1         | 1.79%   |
-| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 1.79%   |
+| Goldstar W2043 GSM4E9D 1600x900 450x250mm 20.3-inch                  | 1         | 1.79%   |
 | Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                     | 1         | 1.79%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 1.79%   |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 1.79%   |
@@ -2174,16 +2174,15 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 15        | 31.91%  |
-| Intel AX201 Bluetooth                               | 6         | 12.77%  |
+| Intel Bluetooth Device                              | 6         | 12.77%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 3         | 6.38%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 6.38%   |
 | Intel AX210 Bluetooth                               | 3         | 6.38%   |
+| Realtek Bluetooth Radio                             | 2         | 4.26%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 4.26%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 4.26%   |
 | Intel AX200 Bluetooth                               | 2         | 4.26%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 2.13%   |
-| Realtek Bluetooth Radio                             | 1         | 2.13%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 2.13%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 2.13%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 2.13%   |
 | Foxconn / Hon Hai Bluetooth USB Host Controller     | 1         | 2.13%   |
@@ -2270,7 +2269,7 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| SK Hynix            | 16        | 29.63%  |
+| SK hynix            | 16        | 29.63%  |
 | Samsung Electronics | 11        | 20.37%  |
 | Kingston            | 7         | 12.96%  |
 | Micron Technology   | 5         | 9.26%   |
@@ -2295,47 +2294,47 @@ Memory module models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s               | 2         | 3.51%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s               | 2         | 3.51%   |
 | Unknown RAM Module 1024MB SODIMM SDRAM                               | 1         | 1.75%   |
 | Smart RAM SH5641G8FJ8NWRNSQG 8192MB SODIMM DDR3 1600MT/s             | 1         | 1.75%   |
-| SK Hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s              | 1         | 1.75%   |
-| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s                      | 1         | 1.75%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s                 | 1         | 1.75%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
-| SK Hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
-| SK Hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s            | 1         | 1.75%   |
-| SK Hynix RAM HMA851S6JJR6N-VK 4096MB SODIMM DDR4 2667MT/s            | 1         | 1.75%   |
-| SK Hynix RAM HMA81GS6CJR8N-XN 8GB SODIMM DDR4 3200MT/s               | 1         | 1.75%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s               | 1         | 1.75%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s               | 1         | 1.75%   |
-| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s               | 1         | 1.75%   |
-| SK Hynix RAM H9CCNNNCLGALAR-NUD 8192MB Row Of Chips LPDDR3 1867MT/s  | 1         | 1.75%   |
-| SK Hynix RAM 746448-381 4096MB SODIMM LPDDR3 1600MT/s                | 1         | 1.75%   |
+| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s              | 1         | 1.75%   |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s                      | 1         | 1.75%   |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 975MT/s             | 1         | 1.75%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMA81GS6CJR8N-XN 8GB SODIMM DDR4 3200MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s               | 1         | 1.75%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s               | 1         | 1.75%   |
+| SK hynix RAM H9CCNNNCLGALAR-NUD 8192MB Row Of Chips LPDDR3 1867MT/s  | 1         | 1.75%   |
+| SK hynix RAM 746448-381 4096MB SODIMM LPDDR3 1600MT/s                | 1         | 1.75%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s                | 1         | 1.75%   |
 | Samsung RAM M471B5273DH0-YK0 4GB SODIMM DDR3 1600MT/s                | 1         | 1.75%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                | 1         | 1.75%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s                | 1         | 1.75%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s                | 1         | 1.75%   |
-| Samsung RAM M471B5173BH0-CK0 4096MB SODIMM DDR3 1600MT/s             | 1         | 1.75%   |
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s             | 1         | 1.75%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s                | 1         | 1.75%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                | 1         | 1.75%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s                | 1         | 1.75%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s                | 1         | 1.75%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s                | 1         | 1.75%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s               | 1         | 1.75%   |
+| Samsung RAM M471A2K43DB1-CTD 16384MB SODIMM DDR4 2667MT/s            | 1         | 1.75%   |
 | Ramaxel RAM RMT3160ED58E9W1600 4GB SODIMM DDR3 1600MT/s              | 1         | 1.75%   |
 | Ramaxel RAM RMT3150ED58E8W1600 2GB SODIMM DDR3 1600MT/s              | 1         | 1.75%   |
 | Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s         | 1         | 1.75%   |
 | Neo Forza RAM NMSO480E82-3200E 8GB SODIMM DDR4 3200MT/s              | 1         | 1.75%   |
 | Nanya RAM NT4GC64C88B1NS-DI 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.75%   |
-| Micron RAM 8ATF1G64HZ-3G2R1 8192MB SODIMM DDR4 3200MT/s              | 1         | 1.75%   |
+| Micron RAM 8ATF1G64HZ-3G2R1 8GB SODIMM DDR4 3200MT/s                 | 1         | 1.75%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s                 | 1         | 1.75%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s                | 1         | 1.75%   |
 | Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s                | 1         | 1.75%   |
 | Micron RAM 16KTF51264HZ-1G4 4096MB SODIMM DDR3 701MT/s               | 1         | 1.75%   |
 | Kingston RAM KNWMX1-ETB 4GB SODIMM DDR3 1600MT/s                     | 1         | 1.75%   |
-| Kingston RAM KKRVFX-MIE 8GB SODIMM DDR4 3200MT/s                     | 1         | 1.75%   |
+| Kingston RAM KKRVFX-MIE 8192MB SODIMM DDR4 3200MT/s                  | 1         | 1.75%   |
 | Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s                | 1         | 1.75%   |
 | Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s              | 1         | 1.75%   |
 | Kingston RAM CL15-15-15 D4-2133 4096MB SODIMM DDR4 2133MT/s          | 1         | 1.75%   |
@@ -2343,7 +2342,7 @@ Memory module models
 | Kingston RAM 9905711-032.A00G 8GB SODIMM DDR4 2667MT/s               | 1         | 1.75%   |
 | Kingston RAM 9905703-011.A00G 16GB SODIMM DDR4 2400MT/s              | 1         | 1.75%   |
 | Essencore Limited RAM KD4AGSA8M-26N1900 16384MB SODIMM DDR4 2667MT/s | 1         | 1.75%   |
-| Elpida RAM EBJ81UG8BBU0-GN-F 8192MB SODIMM DDR3 1600MT/s             | 1         | 1.75%   |
+| Elpida RAM EBJ81UG8BBU0-GN-F 8GB SODIMM DDR3 1600MT/s                | 1         | 1.75%   |
 | Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s               | 1         | 1.75%   |
 | Crucial RAM CT32G4SFD832A.C16FE 32GB SODIMM DDR4 3200MT/s            | 1         | 1.75%   |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s              | 1         | 1.75%   |
@@ -2494,15 +2493,14 @@ Camera device models
 |----------------------------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                                                  | 3         | 6%      |
 | Acer BisonCam,NB Pro                                                       | 3         | 6%      |
+| Realtek USB Camera                                                         | 2         | 4%      |
 | Quanta HP Webcam                                                           | 2         | 4%      |
 | Acer HD Webcam                                                             | 2         | 4%      |
 | Syntek USB2.0 Camera                                                       | 1         | 2%      |
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 2%      |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 2%      |
 | Silicon Motion Web Camera                                                  | 1         | 2%      |
-| Samsung Galaxy A5 (MTP)                                                    | 1         | 2%      |
-| Realtek USB2.0-Camera                                                      | 1         | 2%      |
-| Realtek USB Camera                                                         | 1         | 2%      |
+| Samsung Galaxy series, misc. (MTP mode)                                    | 1         | 2%      |
 | Realtek Laptop Camera                                                      | 1         | 2%      |
 | Realtek EasyCamera                                                         | 1         | 2%      |
 | Motorola PCS XT1033 [Moto G], PTP mode                                     | 1         | 2%      |
@@ -2620,8 +2618,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 29        | 53.7%   |
-| 1     | 16        | 29.63%  |
+| 0     | 30        | 55.56%  |
+| 1     | 15        | 27.78%  |
 | 2     | 6         | 11.11%  |
 | 3     | 3         | 5.56%   |
 
@@ -2635,16 +2633,16 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 10        | 27.78%  |
-| Graphics card            | 6         | 16.67%  |
-| Chipcard                 | 6         | 16.67%  |
-| Net/wireless             | 3         | 8.33%   |
-| Card reader              | 3         | 8.33%   |
-| Multimedia controller    | 2         | 5.56%   |
-| Storage                  | 1         | 2.78%   |
-| Net/ethernet             | 1         | 2.78%   |
-| Firewire controller      | 1         | 2.78%   |
-| Communication controller | 1         | 2.78%   |
-| Camera                   | 1         | 2.78%   |
-| Bluetooth                | 1         | 2.78%   |
+| Fingerprint reader       | 10        | 28.57%  |
+| Chipcard                 | 6         | 17.14%  |
+| Graphics card            | 5         | 14.29%  |
+| Net/wireless             | 3         | 8.57%   |
+| Card reader              | 3         | 8.57%   |
+| Multimedia controller    | 2         | 5.71%   |
+| Storage                  | 1         | 2.86%   |
+| Net/ethernet             | 1         | 2.86%   |
+| Firewire controller      | 1         | 2.86%   |
+| Communication controller | 1         | 2.86%   |
+| Camera                   | 1         | 2.86%   |
+| Bluetooth                | 1         | 2.86%   |
 

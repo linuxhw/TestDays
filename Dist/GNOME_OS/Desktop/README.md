@@ -647,8 +647,8 @@ Hard drive vendors
 | Kingston            | 3        | 3      | 15.79%  |
 | WDC                 | 2        | 2      | 10.53%  |
 | Toshiba             | 1        | 1      | 5.26%   |
-| SK Hynix            | 1        | 1      | 5.26%   |
-| Sandisk             | 1        | 2      | 5.26%   |
+| SK hynix            | 1        | 1      | 5.26%   |
+| SanDisk             | 1        | 2      | 5.26%   |
 | PNY                 | 1        | 1      | 5.26%   |
 | Apacer              | 1        | 1      | 5.26%   |
 
@@ -665,14 +665,14 @@ Hard drive models
 | WDC WD1600AAJS-22L7A0 160GB           | 1        | 5%      |
 | WDC WD10EALX-009BA0 1TB               | 1        | 5%      |
 | Toshiba HDWD120 2TB                   | 1        | 5%      |
-| SK Hynix HFS128G39TND-N210A 128GB SSD | 1        | 5%      |
+| SK hynix HFS128G39TND-N210A 128GB SSD | 1        | 5%      |
 | Seagate ST9500325AS 500GB             | 1        | 5%      |
 | Seagate ST4000DX001-1CE168 4TB        | 1        | 5%      |
 | Seagate ST3500312CS 500GB             | 1        | 5%      |
 | Seagate ST2000DM001-1ER164 2TB        | 1        | 5%      |
 | Seagate ST1000DM010-2EP102 1TB        | 1        | 5%      |
 | Seagate ST1000DM003-1SB102 1TB        | 1        | 5%      |
-| Sandisk NVMe SSD Drive 500GB          | 1        | 5%      |
+| SanDisk NVMe SSD Drive 500GB          | 1        | 5%      |
 | Samsung SSD 860 QVO 1TB               | 1        | 5%      |
 | Samsung SSD 840 EVO 250GB             | 1        | 5%      |
 | Samsung NVMe SSD Drive 256GB          | 1        | 5%      |
@@ -709,7 +709,7 @@ Solid state drive vendors
 |---------------------|----------|--------|---------|
 | Kingston            | 3        | 3      | 37.5%   |
 | Samsung Electronics | 2        | 3      | 25%     |
-| SK Hynix            | 1        | 1      | 12.5%   |
+| SK hynix            | 1        | 1      | 12.5%   |
 | PNY                 | 1        | 1      | 12.5%   |
 | Apacer              | 1        | 1      | 12.5%   |
 
@@ -856,7 +856,7 @@ Storage controller vendors
 | Intel                    | 7        | 46.67%  |
 | AMD                      | 3        | 20%     |
 | Samsung Electronics      | 2        | 13.33%  |
-| Sandisk                  | 1        | 6.67%   |
+| SanDisk                  | 1        | 6.67%   |
 | Marvell Technology Group | 1        | 6.67%   |
 | ASMedia Technology       | 1        | 6.67%   |
 
@@ -872,7 +872,7 @@ Storage controller models
 |-----------------------------------------------------------------------------------------|----------|---------|
 | AMD FCH SATA Controller [AHCI mode]                                                     | 3        | 16.67%  |
 | Intel 400 Series Chipset Family SATA AHCI Controller                                    | 2        | 11.11%  |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 5.56%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 5.56%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 1        | 5.56%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 1        | 5.56%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo                   | 1        | 5.56%   |
@@ -1156,11 +1156,11 @@ Monitor models
 | Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                 | 1        | 8.33%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch | 1        | 8.33%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 8.33%   |
-| Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 8.33%   |
+| Samsung Electronics S24D300 SAM0B43 1920x1080 530x300mm 24.0-inch   | 1        | 8.33%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch   | 1        | 8.33%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch   | 1        | 8.33%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 8.33%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch             | 1        | 8.33%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 8.33%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 8.33%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 8.33%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 8.33%   |
@@ -1305,7 +1305,7 @@ Controller models
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1        | 5.56%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 5.56%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 5.56%   |
-| Motorola PCS motorola edge 20 fusion                              | 1        | 5.56%   |
+| Motorola PCS Moto G (5S) Plus                                     | 1        | 5.56%   |
 | Intel Wireless-AC 9260                                            | 1        | 5.56%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 5.56%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 1        | 5.56%   |
@@ -1598,10 +1598,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                       | Desktops | Percent |
-|-----------------------------|----------|---------|
-| Logitech HD Pro Webcam C920 | 1        | 50%     |
-| 2M UVC CAMERA Web Camera    | 1        | 50%     |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920         | 1        | 50%     |
+| 2M UVC CAMERA NexiGo N60 FHD Webcam | 1        | 50%     |
 
 Security
 --------

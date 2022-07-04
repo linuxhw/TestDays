@@ -834,7 +834,7 @@ Hard drive vendors
 | Kingston                  | 4        | 5      | 5.06%   |
 | SanDisk                   | 3        | 3      | 3.8%    |
 | Mushkin                   | 2        | 2      | 2.53%   |
-| GOODRAM                   | 2        | 3      | 2.53%   |
+| Goodram                   | 2        | 3      | 2.53%   |
 | A-DATA Technology         | 2        | 2      | 2.53%   |
 | Micron/Crucial Technology | 1        | 1      | 1.27%   |
 | KingFast                  | 1        | 1      | 1.27%   |
@@ -945,7 +945,7 @@ Solid state drive vendors
 | Samsung Electronics | 3        | 3      | 12.5%   |
 | Kingston            | 3        | 4      | 12.5%   |
 | WDC                 | 2        | 2      | 8.33%   |
-| GOODRAM             | 2        | 3      | 8.33%   |
+| Goodram             | 2        | 3      | 8.33%   |
 | A-DATA Technology   | 2        | 2      | 8.33%   |
 | Mushkin             | 1        | 1      | 4.17%   |
 | KingFast            | 1        | 1      | 4.17%   |
@@ -1602,7 +1602,7 @@ Monitor vendors
 | Philips              | 2        | 4.76%   |
 | Ancor Communications | 2        | 4.76%   |
 | Vestel Elektronik    | 1        | 2.38%   |
-| Sanyo                | 1        | 2.38%   |
+| SANYO                | 1        | 2.38%   |
 | MSI                  | 1        | 2.38%   |
 | IBM                  | 1        | 2.38%   |
 | HYO                  | 1        | 2.38%   |
@@ -1626,11 +1626,11 @@ Monitor models
 | ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.33%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.33%   |
 | ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch              | 1        | 2.33%   |
-| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                           | 1        | 2.33%   |
-| Sanyo LCD MONITOR SAN2213 1920x1080 474x296mm 22.0-inch                 | 1        | 2.33%   |
+| Vestel Elektronik 28W_LCD_TV VES3700 1920x540                           | 1        | 2.33%   |
+| SANYO LCD MONITOR SAN2213 1920x1080 474x296mm 22.0-inch                 | 1        | 2.33%   |
 | Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.33%   |
 | Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 2.33%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch       | 1        | 2.33%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 2.33%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 2.33%   |
 | Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.33%   |
 | Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.33%   |
@@ -1655,7 +1655,7 @@ Monitor models
 | AOC 2060W AOC2060 1600x900 430x240mm 19.4-inch                          | 1        | 2.33%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                          | 1        | 2.33%   |
 | Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch        | 1        | 2.33%   |
-| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch   | 1        | 2.33%   |
+| Ancor Communications ASUS VW193D ACI19D5 1440x900 410x260mm 19.1-inch   | 1        | 2.33%   |
 | Acer XF240H ACR0472 1920x1080 531x299mm 24.0-inch                       | 1        | 2.33%   |
 | Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                         | 1        | 2.33%   |
 | Acer HX1953L ACR038C 1600x900 432x239mm 19.4-inch                       | 1        | 2.33%   |
@@ -2016,7 +2016,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2        | 28.57%  |
-| Qualcomm Atheros  Bluetooth Device                  | 1        | 14.29%  |
+| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 14.29%  |
 | Intel Bluetooth wireless interface                  | 1        | 14.29%  |
 | Intel AX200 Bluetooth                               | 1        | 14.29%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 14.29%  |
@@ -2121,7 +2121,7 @@ Memory module vendors
 | Unknown             | 11       | 24.44%  |
 | Kingston            | 10       | 22.22%  |
 | Corsair             | 7        | 15.56%  |
-| SK Hynix            | 4        | 8.89%   |
+| SK hynix            | 4        | 8.89%   |
 | Samsung Electronics | 3        | 6.67%   |
 | G.Skill             | 3        | 6.67%   |
 | Patriot             | 2        | 4.44%   |
@@ -2143,7 +2143,7 @@ Memory module models
 |-----------------------------------------------------------|----------|---------|
 | Unknown RAM Module 4096MB DIMM 1600MT/s                   | 3        | 5.77%   |
 | Unknown RAM Module 1024MB DIMM DDR 333MT/s                | 2        | 3.85%   |
-| SK Hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s  | 2        | 3.85%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s     | 2        | 3.85%   |
 | Unknown RAM Module 512MB DIMM DDR 200MT/s                 | 1        | 1.92%   |
 | Unknown RAM Module 4GB DIMM SDRAM                         | 1        | 1.92%   |
 | Unknown RAM Module 4GB DIMM DDR2 800MT/s                  | 1        | 1.92%   |
@@ -2154,12 +2154,12 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 400MT/s                | 1        | 1.92%   |
 | Unknown RAM Module 1024MB DIMM DDR 200MT/s                | 1        | 1.92%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                    | 1        | 1.92%   |
-| Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3 1600MT/s       | 1        | 1.92%   |
+| Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3                | 1        | 1.92%   |
 | Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
-| SK Hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
-| SK Hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
+| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
 | Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
+| Samsung RAM M378B5773DH0-CH9 2048MB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
 | Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 1639MT/s      | 1        | 1.92%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s       | 1        | 1.92%   |
 | RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s             | 1        | 1.92%   |
@@ -2170,22 +2170,22 @@ Memory module models
 | Kingston RAM Module 4096MB DIMM DDR3 1333MT/s             | 1        | 1.92%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 1.92%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 1        | 1.92%   |
-| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 2400MT/s    | 1        | 1.92%   |
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s       | 1        | 1.92%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s       | 1        | 1.92%   |
 | Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
 | Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2134MT/s    | 1        | 1.92%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
+| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s  | 1        | 1.92%   |
 | Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s     | 1        | 1.92%   |
 | Kingston RAM 9965525-026.A00LF 8192MB DIMM DDR3 1333MT/s  | 1        | 1.92%   |
 | G.Skill RAM F4-2400C15-8GNT 8192MB DIMM DDR4 2666MT/s     | 1        | 1.92%   |
 | G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s         | 1        | 1.92%   |
 | G.Skill RAM F3-1333C9-4GSL 4096MB SODIMM DDR3 1333MT/s    | 1        | 1.92%   |
-| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
+| Crucial RAM CT51264BA160BJ.C8 4096MB DIMM DDR3 1600MT/s   | 1        | 1.92%   |
 | Corsair RAM CMX8GX3M1A1333C9 8192MB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
 | Corsair RAM CMW16GX4M1Z3600C18 16384MB DIMM DDR4 3000MT/s | 1        | 1.92%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 1.92%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 1.92%   |
-| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s     | 1        | 1.92%   |
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3000MT/s  | 1        | 1.92%   |
+| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM 3000MT/s          | 1        | 1.92%   |
 | Corsair RAM CM4X8GD3200C16K4 8GB DIMM DDR4 2133MT/s       | 1        | 1.92%   |
 | Corsair RAM CM4X16GC3000C16K4D 16384MB DIMM DDR4 3000MT/s | 1        | 1.92%   |
 | Axiom RAM 51264Y133IHYN 4GB DIMM DDR3 1333MT/s            | 1        | 1.92%   |
@@ -2392,9 +2392,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 41       | 95.35%  |
+| 0     | 42       | 97.67%  |
 | 3     | 1        | 2.33%   |
-| 1     | 1        | 2.33%   |
 
 Unsupported Device Types
 ------------------------
@@ -2406,8 +2405,7 @@ Types of unsupported devices
 
 | Type                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Net/wireless          | 1        | 25%     |
-| Multimedia controller | 1        | 25%     |
-| Graphics card         | 1        | 25%     |
-| Camera                | 1        | 25%     |
+| Net/wireless          | 1        | 33.33%  |
+| Multimedia controller | 1        | 33.33%  |
+| Camera                | 1        | 33.33%  |
 

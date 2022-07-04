@@ -1043,7 +1043,7 @@ Hard drive vendors
 | Realtek Semiconductor | 1        | 2      | 0.76%   |
 | Phison                | 1        | 2      | 0.76%   |
 | Micron Technology     | 1        | 1      | 0.76%   |
-| MAXTOR                | 1        | 1      | 0.76%   |
+| Maxtor                | 1        | 1      | 0.76%   |
 | Lite-On               | 1        | 1      | 0.76%   |
 | KING                  | 1        | 1      | 0.76%   |
 | Gigabyte Technology   | 1        | 1      | 0.76%   |
@@ -1070,7 +1070,7 @@ Hard drive models
 | WDC WDS120G2G0A-00JH30 120GB SSD  | 2        | 1.42%   |
 | WDC WD3200AAKX-001CA0 320GB       | 2        | 1.42%   |
 | Toshiba DT01ABA100V 1TB           | 2        | 1.42%   |
-| TO Exter nal USB 3.0 320GB        | 2        | 1.42%   |
+| TO Exter nal USB 3.0 256GB        | 2        | 1.42%   |
 | Seagate ST500DM002-1BD142 500GB   | 2        | 1.42%   |
 | Seagate ST2000DM006-2DM164 2TB    | 2        | 1.42%   |
 | Seagate ST1000DM003-1ER162 1TB    | 2        | 1.42%   |
@@ -1111,7 +1111,7 @@ Hard drive models
 | WDC PC SN720 SED SDAQNTW-1T00 1TB | 1        | 0.71%   |
 | Vaseky V800/120G 120GB            | 1        | 0.71%   |
 | Unknown TP02000GB 2TB             | 1        | 0.71%   |
-| Unknown SD/MMC/MS PRO 999GB       | 1        | 0.71%   |
+| Unknown SD/MMC/MS PRO 128GB       | 1        | 0.71%   |
 | Transcend TS256GSSD230S 256GB     | 1        | 0.71%   |
 | Toshiba THNSNH128GCST 128GB SSD   | 1        | 0.71%   |
 | Toshiba MQ01ABF050 500GB          | 1        | 0.71%   |
@@ -1150,26 +1150,25 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 10       | 11     | 17.86%  |
-| WDC                 | 9        | 9      | 16.07%  |
-| Kingston            | 7        | 8      | 12.5%   |
-| Intel               | 4        | 4      | 7.14%   |
-| SanDisk             | 3        | 3      | 5.36%   |
-| Lexar               | 3        | 3      | 5.36%   |
-| Crucial             | 3        | 4      | 5.36%   |
-| ZOTAC               | 2        | 2      | 3.57%   |
-| TO Exter            | 2        | 3      | 3.57%   |
-| Netac               | 2        | 2      | 3.57%   |
-| Colorful            | 2        | 2      | 3.57%   |
-| Vaseky              | 1        | 1      | 1.79%   |
-| Transcend           | 1        | 1      | 1.79%   |
-| Toshiba             | 1        | 1      | 1.79%   |
-| OCZ                 | 1        | 1      | 1.79%   |
-| Micron Technology   | 1        | 1      | 1.79%   |
-| MAXTOR              | 1        | 1      | 1.79%   |
-| Gigabyte Technology | 1        | 1      | 1.79%   |
-| External            | 1        | 1      | 1.79%   |
-| EK                  | 1        | 1      | 1.79%   |
+| Samsung Electronics | 10       | 11     | 18.18%  |
+| WDC                 | 9        | 9      | 16.36%  |
+| Kingston            | 7        | 8      | 12.73%  |
+| Intel               | 4        | 4      | 7.27%   |
+| SanDisk             | 3        | 3      | 5.45%   |
+| Lexar               | 3        | 3      | 5.45%   |
+| Crucial             | 3        | 4      | 5.45%   |
+| ZOTAC               | 2        | 2      | 3.64%   |
+| TO Exter            | 2        | 3      | 3.64%   |
+| Netac               | 2        | 2      | 3.64%   |
+| Colorful            | 2        | 2      | 3.64%   |
+| Vaseky              | 1        | 1      | 1.82%   |
+| Transcend           | 1        | 1      | 1.82%   |
+| Toshiba             | 1        | 1      | 1.82%   |
+| OCZ                 | 1        | 1      | 1.82%   |
+| Micron Technology   | 1        | 1      | 1.82%   |
+| Maxtor              | 1        | 1      | 1.82%   |
+| Gigabyte Technology | 1        | 1      | 1.82%   |
+| EK                  | 1        | 1      | 1.82%   |
 
 Drive Kind
 ----------
@@ -1182,8 +1181,8 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 55       | 85     | 47.83%  |
-| SSD     | 47       | 60     | 40.87%  |
-| NVMe    | 9        | 12     | 7.83%   |
+| SSD     | 46       | 59     | 40%     |
+| NVMe    | 10       | 13     | 8.7%    |
 | Unknown | 4        | 4      | 3.48%   |
 
 Drive Connector
@@ -1210,12 +1209,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 62       | 92     | 64.58%  |
-| 0.51-1.0   | 20       | 30     | 20.83%  |
-| 1.01-2.0   | 6        | 8      | 6.25%   |
-| 4.01-10.0  | 5        | 12     | 5.21%   |
-| 3.01-4.0   | 2        | 2      | 2.08%   |
-| 2.01-3.0   | 1        | 1      | 1.04%   |
+| 0.01-0.5   | 62       | 93     | 65.26%  |
+| 0.51-1.0   | 20       | 29     | 21.05%  |
+| 1.01-2.0   | 6        | 8      | 6.32%   |
+| 4.01-10.0  | 5        | 12     | 5.26%   |
+| 3.01-4.0   | 1        | 1      | 1.05%   |
+| 2.01-3.0   | 1        | 1      | 1.05%   |
 
 Space Total
 -----------
@@ -1369,7 +1368,7 @@ Storage controller vendors
 |---------------------------|----------|---------|
 | Intel                     | 64       | 71.11%  |
 | AMD                       | 11       | 12.22%  |
-| Sandisk                   | 3        | 3.33%   |
+| SanDisk                   | 3        | 3.33%   |
 | ASMedia Technology        | 3        | 3.33%   |
 | Samsung Electronics       | 1        | 1.11%   |
 | Realtek Semiconductor     | 1        | 1.11%   |
@@ -1411,9 +1410,9 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                               | 2        | 1.79%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 2        | 1.79%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 2        | 1.79%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                          | 1        | 0.89%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 0.89%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1        | 0.89%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 0.89%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 0.89%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1        | 0.89%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 1        | 0.89%   |
 | Realtek RTS5763DL NVMe SSD Controller                                                   | 1        | 0.89%   |
 | Phison NVMe Storage Controller                                                          | 1        | 0.89%   |
@@ -1873,7 +1872,7 @@ Monitor models
 | Sony TV SNY8E03 1920x1080                                               | 1        | 1.32%   |
 | Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch       | 1        | 1.32%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 1.32%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch       | 1        | 1.32%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 1.32%   |
 | Samsung Electronics S20D300 SAM0B39 1600x900 432x240mm 19.5-inch        | 1        | 1.32%   |
 | Samsung Electronics S20B370 SAM08B7 1600x900 443x249mm 20.0-inch        | 1        | 1.32%   |
 | Samsung Electronics S19F350 SAM0D46 1366x768 410x230mm 18.5-inch        | 1        | 1.32%   |
@@ -1894,7 +1893,7 @@ Monitor models
 | Hewlett-Packard N220 HPN3408 1920x1080 476x268mm 21.5-inch              | 1        | 1.32%   |
 | Hewlett-Packard LV1911 HWP3005 1366x768 410x230mm 18.5-inch             | 1        | 1.32%   |
 | Goldstar W2043 GSM4E9E 1600x900 443x249mm 20.0-inch                     | 1        | 1.32%   |
-| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch             | 1        | 1.32%   |
+| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch                | 1        | 1.32%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 1        | 1.32%   |
 | Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch                  | 1        | 1.32%   |
 | Goldstar FULL HD GSM5AB9 1920x1080 480x270mm 21.7-inch                  | 1        | 1.32%   |
@@ -1921,7 +1920,7 @@ Monitor models
 | Dell E2318H DELF092 1920x1080 509x286mm 23.0-inch                       | 1        | 1.32%   |
 | Dell E2016H DELA0C7 1600x900 432x236mm 19.4-inch                        | 1        | 1.32%   |
 | Dell E197FP DELA024 1280x1024 380x305mm 19.2-inch                       | 1        | 1.32%   |
-| Dell E1916HV DELF06C 1366x768 410x230mm 18.5-inch                       | 1        | 1.32%   |
+| Dell E1916HV DELF06C 1366x768 409x230mm 18.5-inch                       | 1        | 1.32%   |
 | CGC Z2788P CGC2788 1920x1080 598x336mm 27.0-inch                        | 1        | 1.32%   |
 
 Monitor Resolution
@@ -2114,7 +2113,7 @@ Controller models
 | D-Link DWA-123 Wireless N 150 Adapter (rev.D1)                    | 2        | 1.68%   |
 | Broadcom NetLink BCM5786 Gigabit Ethernet PCI Express             | 2        | 1.68%   |
 | Broadcom BCM43142 802.11b/g/n                                     | 2        | 1.68%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 0.84%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 0.84%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 0.84%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 0.84%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 0.84%   |
@@ -2130,7 +2129,7 @@ Controller models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 0.84%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                  | 1        | 0.84%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.84%   |
-| MediaTek SP514                                                    | 1        | 0.84%   |
+| MediaTek TECNO SPARK 6 Go                                         | 1        | 0.84%   |
 | Intel Wireless 7265                                               | 1        | 0.84%   |
 | Intel Wireless 3165                                               | 1        | 0.84%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 0.84%   |
@@ -2185,7 +2184,7 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter               | 2        | 6.06%   |
 | D-Link DWA-123 Wireless N 150 Adapter (rev.D1)                 | 2        | 6.06%   |
 | Broadcom BCM43142 802.11b/g/n                                  | 2        | 6.06%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                          | 1        | 3.03%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                            | 1        | 3.03%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1        | 3.03%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                             | 1        | 3.03%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter       | 1        | 3.03%   |
@@ -2249,7 +2248,7 @@ Ethernet models
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.16%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.16%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 1.16%   |
-| MediaTek SP514                                                    | 1        | 1.16%   |
+| MediaTek TECNO SPARK 6 Go                                         | 1        | 1.16%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 1.16%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1        | 1.16%   |
 | Intel Ethernet Connection (2) I218-V                              | 1        | 1.16%   |
@@ -2349,7 +2348,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 13       | 54.17%  |
 | Realtek Bluetooth Radio                             | 2        | 8.33%   |
 | Intel Bluetooth wireless interface                  | 2        | 8.33%   |
-| Qualcomm Atheros  Bluetooth Device                  | 1        | 4.17%   |
+| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 4.17%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1        | 4.17%   |
 | Intel AX200 Bluetooth                               | 1        | 4.17%   |
 | Conwise CW6622                                      | 1        | 4.17%   |
@@ -2432,7 +2431,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 1        | 0.7%    |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 0.7%    |
 | GYROCOM C&C NuForce ÂµDAC 2 HP                                           | 1        | 0.7%    |
-| Generalplus Technology Usb Audio Device                                    | 1        | 0.7%    |
+| Generalplus Technology IMYB 7.1 Channel                                    | 1        | 0.7%    |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.7%    |
 | Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]  | 1        | 0.7%    |
 | C-Media Electronics USB PnP Audio Device                                   | 1        | 0.7%    |
@@ -2464,7 +2463,7 @@ Memory module vendors
 | Kingston            | 10       | 22.22%  |
 | Corsair             | 9        | 20%     |
 | Unknown             | 6        | 13.33%  |
-| SK Hynix            | 4        | 8.89%   |
+| SK hynix            | 4        | 8.89%   |
 | Samsung Electronics | 4        | 8.89%   |
 | G.Skill             | 4        | 8.89%   |
 | Kingmax             | 3        | 6.67%   |
@@ -2490,10 +2489,10 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 133MT/s                 | 1        | 2.08%   |
 | Unknown RAM BAPC08G3000D4T8 8192MB DIMM DDR4 2133MT/s      | 1        | 2.08%   |
 | Team RAM TEAMGROUP-UD3-160 4096MB DIMM DDR3 1333MT/s       | 1        | 2.08%   |
-| SK Hynix RAM SNOAMOO Ltd:016M00 4096MB DIMM DDR3 1600MT/s  | 1        | 2.08%   |
-| SK Hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s        | 1        | 2.08%   |
-| SK Hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s       | 1        | 2.08%   |
-| SK Hynix RAM HMT425S6AFR6A-PB 2048MB DIMM DDR3 1600MT/s    | 1        | 2.08%   |
+| SK hynix RAM SNOAMOO Ltd:016M00 4096MB DIMM DDR3 1600MT/s  | 1        | 2.08%   |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s        | 1        | 2.08%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s       | 1        | 2.08%   |
+| SK hynix RAM HMT425S6AFR6A-PB 2048MB DIMM DDR3 1600MT/s    | 1        | 2.08%   |
 | Samsung RAM M393B2K70CM0-YF8 16384MB DIMM DDR3 1067MT/s    | 1        | 2.08%   |
 | Samsung RAM M393B2G70BH0 16GB DIMM DDR3 1600MT/s           | 1        | 2.08%   |
 | Samsung RAM M393A2K40BB1-CRC 16GB DIMM DDR4 2400MT/s       | 1        | 2.08%   |
@@ -2502,8 +2501,8 @@ Memory module models
 | Kingston RAM Module 8192MB DIMM DDR3 1333MT/s              | 1        | 2.08%   |
 | Kingston RAM Module 4GB DIMM DDR3 1333MT/s                 | 1        | 2.08%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 1        | 2.08%   |
-| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s       | 1        | 2.08%   |
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s     | 1        | 2.08%   |
+| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s          | 1        | 2.08%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.08%   |
 | Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s      | 1        | 2.08%   |
 | Kingston RAM 99U5471-056.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.08%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.08%   |
@@ -2520,15 +2519,15 @@ Memory module models
 | G.Skill RAM F4-2400C15-16GVR 16GB DIMM DDR4 2400MT/s       | 1        | 2.08%   |
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s       | 1        | 2.08%   |
 | Crucial RAM CT51264BF160B.C16F 4GB DIMM DDR3 1600MT/s      | 1        | 2.08%   |
-| Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s  | 1        | 2.08%   |
+| Crucial RAM BLS8G4D240FSEK.8FBD 8GB DIMM DDR4 2400MT/s     | 1        | 2.08%   |
 | Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 800MT/s        | 1        | 2.08%   |
 | Corsair RAM CMZ4GX3M1A1600C9 4096MB DIMM DDR3 1600MT/s     | 1        | 2.08%   |
 | Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s       | 1        | 2.08%   |
 | Corsair RAM CMT16GX4M2C3200C16 8192MB DIMM DDR4 3200MT/s   | 1        | 2.08%   |
 | Corsair RAM CMK8GX4M1D3000C16 8GB DIMM DDR4 3200MT/s       | 1        | 2.08%   |
 | Corsair RAM CMK16GX4M2A2400C14 8GB DIMM DDR4 2800MT/s      | 1        | 2.08%   |
-| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s      | 1        | 2.08%   |
-| A-DATA RAM DDR4 2666 2OZ 4GB DIMM DDR4 2667MT/s            | 1        | 2.08%   |
+| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM 3000MT/s           | 1        | 2.08%   |
+| A-DATA RAM DDR4 2666 2OZ 8GB DIMM DDR4 2667MT/s            | 1        | 2.08%   |
 
 Memory Kind
 -----------

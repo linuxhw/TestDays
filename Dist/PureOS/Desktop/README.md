@@ -1280,9 +1280,9 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Qualcomm Atheros  Bluetooth Device | 1        | 100%    |
+| Model                             | Desktops | Percent |
+|-----------------------------------|----------|---------|
+| Qualcomm Atheros AR9462 Bluetooth | 1        | 100%    |
 
 Sound
 -----
@@ -1335,7 +1335,7 @@ Memory module vendors
 | Vendor   | Desktops | Percent |
 |----------|----------|---------|
 | Unknown  | 1        | 50%     |
-| SK Hynix | 1        | 50%     |
+| SK hynix | 1        | 50%     |
 
 Memory Model
 ------------
@@ -1348,7 +1348,7 @@ Memory module models
 | Model                                                | Desktops | Percent |
 |------------------------------------------------------|----------|---------|
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s            | 1        | 50%     |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s | 1        | 50%     |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s | 1        | 50%     |
 
 Memory Kind
 -----------

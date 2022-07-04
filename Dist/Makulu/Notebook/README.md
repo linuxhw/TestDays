@@ -687,12 +687,12 @@ Hard drive vendors
 | Seagate             | 4         | 5      | 20%     |
 | Toshiba             | 3         | 3      | 15%     |
 | Samsung Electronics | 3         | 5      | 15%     |
-| Sandisk             | 2         | 2      | 10%     |
+| SanDisk             | 2         | 2      | 10%     |
 | Unknown             | 1         | 1      | 5%      |
 | Transcend           | 1         | 1      | 5%      |
 | LITEON              | 1         | 2      | 5%      |
 | KIOXIA              | 1         | 1      | 5%      |
-| JMicron             | 1         | 1      | 5%      |
+| JMicron Technology  | 1         | 1      | 5%      |
 | Hitachi             | 1         | 1      | 5%      |
 | HGST                | 1         | 1      | 5%      |
 | Apple               | 1         | 1      | 5%      |
@@ -709,13 +709,13 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 9.52%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 9.52%   |
-| Unknown SD/MMC/MS PRO 999GB          | 1         | 4.76%   |
+| Unknown SD/MMC/MS PRO 128GB          | 1         | 4.76%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.76%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.76%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.76%   |
-| Seagate Expansion Desk 10TB          | 1         | 4.76%   |
+| Seagate Expansion+ Desk 4TB          | 1         | 4.76%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 4.76%   |
-| Sandisk NVMe SSD Drive 512GB         | 1         | 4.76%   |
+| SanDisk NVMe SSD Drive 512GB         | 1         | 4.76%   |
 | Samsung NVMe SSD Drive 1TB           | 1         | 4.76%   |
 | Samsung NVMe SSD Drive 1024GB        | 1         | 4.76%   |
 | Samsung MZ7TD128HAFV-000L1 128GB SSD | 1         | 4.76%   |
@@ -799,9 +799,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 13     | 60%     |
-| 0.51-1.0   | 5         | 5      | 33.33%  |
-| 4.01-10.0  | 1         | 1      | 6.67%   |
+| 0.01-0.5   | 9         | 14     | 64.29%  |
+| 0.51-1.0   | 4         | 4      | 28.57%  |
+| 3.01-4.0   | 1         | 1      | 7.14%   |
 
 Space Total
 -----------
@@ -907,7 +907,7 @@ Storage controller vendors
 | Intel               | 9         | 52.94%  |
 | AMD                 | 4         | 23.53%  |
 | Samsung Electronics | 2         | 11.76%  |
-| Sandisk             | 1         | 5.88%   |
+| SanDisk             | 1         | 5.88%   |
 | KIOXIA              | 1         | 5.88%   |
 
 Storage Model
@@ -923,7 +923,7 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                          | 4         | 23.53%  |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]             | 2         | 11.76%  |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 2         | 11.76%  |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD                                    | 1         | 5.88%   |
+| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                    | 1         | 5.88%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                | 1         | 5.88%   |
 | Samsung Apple PCIe SSD                                                       | 1         | 5.88%   |
 | KIOXIA Non-Volatile memory controller                                        | 1         | 5.88%   |
@@ -1218,16 +1218,16 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics LCD Monitor SEC314C 1920x1080 340x190mm 15.3-inch    | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 6.67%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 6.67%   |
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |
 | LG Display LCD Monitor LGD04DA 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 6.67%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 6.67%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 6.67%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 6.67%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 6.67%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 6.67%   |
@@ -1246,7 +1246,7 @@ Monitor screen resolution
 |------------------|-----------|---------|
 | 1920x1080 (FHD)  | 6         | 40%     |
 | 1366x768 (WXGA)  | 5         | 33.33%  |
-| 3200x1800 (QHD+) | 1         | 6.67%   |
+| 3840x2400        | 1         | 6.67%   |
 | 1600x900 (HD+)   | 1         | 6.67%   |
 | 1440x900 (WXGA+) | 1         | 6.67%   |
 | 1280x800 (WXGA)  | 1         | 6.67%   |
@@ -1262,9 +1262,9 @@ Diagonal size in inches
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
 | 15     | 10        | 66.67%  |
-| 13     | 3         | 20%     |
+| 14     | 2         | 13.33%  |
+| 13     | 2         | 13.33%  |
 | 17     | 1         | 6.67%   |
-| 14     | 1         | 6.67%   |
 
 Monitor Width
 -------------
@@ -1276,9 +1276,9 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 10        | 66.67%  |
+| 301-350     | 11        | 73.33%  |
 | 351-400     | 3         | 20%     |
-| 201-300     | 2         | 13.33%  |
+| 201-300     | 1         | 6.67%   |
 
 Aspect Ratio
 ------------
@@ -1290,8 +1290,8 @@ Proportional relationship between the width and the height
 
 | Ratio | Notebooks | Percent |
 |-------|-----------|---------|
-| 16/9  | 13        | 86.67%  |
-| 16/10 | 2         | 13.33%  |
+| 16/9  | 12        | 80%     |
+| 16/10 | 3         | 20%     |
 
 Monitor Area
 ------------
@@ -1304,8 +1304,7 @@ Area in inch²
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
 | 101-110        | 10        | 66.67%  |
-| 81-90          | 3         | 20%     |
-| 71-80          | 1         | 6.67%   |
+| 81-90          | 4         | 26.67%  |
 | 121-130        | 1         | 6.67%   |
 
 Pixel Density
@@ -1556,8 +1555,9 @@ Controller models
 
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
-| Qualcomm Atheros  Bluetooth Device                | 2         | 18.18%  |
 | Realtek  Bluetooth 4.2 Adapter                    | 1         | 9.09%   |
+| Qualcomm Atheros  Bluetooth Device                | 1         | 9.09%   |
+| Qualcomm Atheros AR9462 Bluetooth                 | 1         | 9.09%   |
 | Intel Bluetooth wireless interface                | 1         | 9.09%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 1         | 9.09%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter | 1         | 9.09%   |

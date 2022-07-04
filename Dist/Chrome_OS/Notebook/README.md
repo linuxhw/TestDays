@@ -857,7 +857,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 2.08%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 2.08%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 2.08%   |
-| TO Exter nal USB 3.0 320GB                   | 1         | 2.08%   |
+| TO Exter nal USB 3.0 256GB                   | 1         | 2.08%   |
 | Seagate ST980811AS 80GB                      | 1         | 2.08%   |
 | Seagate ST9160821AS 160GB                    | 1         | 2.08%   |
 | SanDisk SSD U100 16GB                        | 1         | 2.08%   |
@@ -1435,7 +1435,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.22%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.22%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 2.22%   |
@@ -1913,7 +1913,7 @@ Sound card models
 | Intel Broadwell-U Audio Controller                                                                | 1         | 2.22%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1         | 2.22%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 1         | 2.22%   |
-| Generalplus Technology Usb Audio Device                                                           | 1         | 2.22%   |
+| Generalplus Technology IMYB 7.1 Channel                                                           | 1         | 2.22%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 2.22%   |
 | AMD High Definition Audio Controller                                                              | 1         | 2.22%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1         | 2.22%   |
@@ -1943,11 +1943,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Notebooks | Percent |
-|-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
+| Model                                                   | Notebooks | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s          | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s   | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8192MB SODIMM DDR4 2667MT/s | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2070,7 +2070,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 18.75%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |
@@ -2079,8 +2079,8 @@ Camera device models
 | Suyin HP Truevision HD                                  | 1         | 3.13%   |
 | Suyin HD Video WebCam                                   | 1         | 3.13%   |
 | Sunplus HD WebCam                                       | 1         | 3.13%   |
-| Realtek USB2.0-Camera                                   | 1         | 3.13%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.13%   |
+| Realtek USB Camera                                      | 1         | 3.13%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.13%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.13%   |
 | Microdia HP Webcam                                      | 1         | 3.13%   |
@@ -2164,8 +2164,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 22        | 51.16%  |
-| 1     | 18        | 41.86%  |
+| 0     | 24        | 55.81%  |
+| 1     | 16        | 37.21%  |
 | 2     | 3         | 6.98%   |
 
 Unsupported Device Types
@@ -2178,13 +2178,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 26.09%  |
-| Fingerprint reader       | 5         | 21.74%  |
-| Graphics card            | 3         | 13.04%  |
-| Chipcard                 | 3         | 13.04%  |
-| Storage                  | 2         | 8.7%    |
-| Storage/ide              | 1         | 4.35%   |
-| Net/wireless             | 1         | 4.35%   |
-| Modem                    | 1         | 4.35%   |
-| Communication controller | 1         | 4.35%   |
+| Multimedia controller    | 6         | 28.57%  |
+| Fingerprint reader       | 5         | 23.81%  |
+| Chipcard                 | 3         | 14.29%  |
+| Storage                  | 2         | 9.52%   |
+| Storage/ide              | 1         | 4.76%   |
+| Net/wireless             | 1         | 4.76%   |
+| Modem                    | 1         | 4.76%   |
+| Graphics card            | 1         | 4.76%   |
+| Communication controller | 1         | 4.76%   |
 

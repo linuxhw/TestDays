@@ -798,7 +798,7 @@ Hard drive vendors
 | Kingston            | 4         | 4      | 8.16%   |
 | SanDisk             | 3         | 3      | 6.12%   |
 | Unknown             | 2         | 2      | 4.08%   |
-| SK Hynix            | 2         | 2      | 4.08%   |
+| SK hynix            | 2         | 2      | 4.08%   |
 | Micron Technology   | 2         | 2      | 4.08%   |
 | Silicon Motion      | 1         | 1      | 2.04%   |
 | Lenovo              | 1         | 1      | 2.04%   |
@@ -835,8 +835,8 @@ Hard drive models
 | Toshiba MQ01ABD075 752GB                | 1         | 2%      |
 | Toshiba MK5055GSX 500GB                 | 1         | 2%      |
 | Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 2%      |
-| SK Hynix PC401 HFS256GD9TNG-62A0A 256GB | 1         | 2%      |
-| SK Hynix HFM512GDJTNG-8310A 512GB       | 1         | 2%      |
+| SK hynix PC401 HFS256GD9TNG-62A0A 256GB | 1         | 2%      |
+| SK hynix HFM512GDJTNG-8310A 512GB       | 1         | 2%      |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 2%      |
 | Seagate ST9500325AS 500GB               | 1         | 2%      |
 | Seagate ST9320325AS 320GB               | 1         | 2%      |
@@ -846,7 +846,7 @@ Hard drive models
 | Seagate ST1000LM014-SSHD-8GB            | 1         | 2%      |
 | SanDisk X400 M.2 2280 256GB SSD         | 1         | 2%      |
 | SanDisk SDSSDA120G 120GB                | 1         | 2%      |
-| Sandisk NVMe SSD Drive 256GB            | 1         | 2%      |
+| SanDisk NVMe SSD Drive 256GB            | 1         | 2%      |
 | Samsung SSD 860 EVO 500GB               | 1         | 2%      |
 | Samsung SSD 850 EVO 500GB               | 1         | 2%      |
 | Samsung SSD 850 EVO 120G                | 1         | 2%      |
@@ -1081,11 +1081,11 @@ Storage controller vendors
 |------------------------------|-----------|---------|
 | Intel                        | 30        | 68.18%  |
 | Toshiba America Info Systems | 2         | 4.55%   |
-| SK Hynix                     | 2         | 4.55%   |
+| SK hynix                     | 2         | 4.55%   |
 | Samsung Electronics          | 2         | 4.55%   |
 | AMD                          | 2         | 4.55%   |
 | Silicon Motion               | 1         | 2.27%   |
-| Sandisk                      | 1         | 2.27%   |
+| SanDisk                      | 1         | 2.27%   |
 | Nvidia                       | 1         | 2.27%   |
 | Micron Technology            | 1         | 2.27%   |
 | Lenovo                       | 1         | 2.27%   |
@@ -1111,10 +1111,10 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                              | 2         | 4.55%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                             | 1         | 2.27%   |
 | Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller | 1         | 2.27%   |
-| SK Hynix PC401 NVMe Solid State Drive 256GB                                      | 1         | 2.27%   |
-| SK Hynix BC501 NVMe Solid State Drive                                            | 1         | 2.27%   |
+| SK hynix PC401 NVMe Solid State Drive 256GB                                      | 1         | 2.27%   |
+| SK hynix BC501 NVMe Solid State Drive                                            | 1         | 2.27%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 2.27%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                   | 1         | 2.27%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 2.27%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 2.27%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 2.27%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 2.27%   |
@@ -1489,7 +1489,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC3641 1366x768 353x198mm 15.9-inch  | 1         | 2.08%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 2.08%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 2.08%   |
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch          | 1         | 2.08%   |
@@ -1526,7 +1526,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO11EC 1366x768 344x193mm 15.5-inch         | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO1136 2560x1440 309x174mm 14.0-inch        | 1         | 2.08%   |
 | Apple Color LCD APPA013 2560x1600 286x179mm 13.3-inch                 | 1         | 2.08%   |
-| Apple Color LCD APP9C5B 1280x800 286x179mm 13.3-inch                  | 1         | 2.08%   |
+| Apple Color LCD APP9C5B 1280x800 290x180mm 13.4-inch                  | 1         | 2.08%   |
 | AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 1         | 2.08%   |
 | AOC 1621w AOC1621 1366x768 344x194mm 15.5-inch                        | 1         | 2.08%   |
 
@@ -2018,7 +2018,7 @@ Memory module vendors
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
 | Samsung Electronics | 7         | 36.84%  |
-| SK Hynix            | 5         | 26.32%  |
+| SK hynix            | 5         | 26.32%  |
 | Kingston            | 2         | 10.53%  |
 | A-DATA Technology   | 2         | 10.53%  |
 | Unknown             | 1         | 5.26%   |
@@ -2035,16 +2035,16 @@ Memory module models
 
 | Model                                                      | Notebooks | Percent |
 |------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM Module 8192MB SODIMM DDR4 2400MT/s            | 2         | 10.53%  |
+| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s            | 2         | 10.53%  |
 | Unknown RAM Module 4096MB SODIMM DDR3                      | 1         | 5.26%   |
-| SK Hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 5.26%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
-| SK Hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
+| SK hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 5.26%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
+| SK hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s           | 1         | 5.26%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 5.26%   |
 | Samsung RAM M471B1G73BH0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s      | 1         | 5.26%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
+| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 5.26%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
 | Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s     | 1         | 5.26%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
@@ -2198,7 +2198,7 @@ Camera device models
 | Quanta HP TrueVision HD Webcam                               | 1         | 2.7%    |
 | Microdia Webcam                                              | 1         | 2.7%    |
 | Microdia USB 2.0 Camera                                      | 1         | 2.7%    |
-| Microdia Integrated_Webcam_HD                                | 1         | 2.7%    |
+| Microdia Integrated Webcam HD                                | 1         | 2.7%    |
 | Logitech HD Pro Webcam C920                                  | 1         | 2.7%    |
 | Lite-On HP HD Camera                                         | 1         | 2.7%    |
 | Lenovo Integrated Webcam [R5U877]                            | 1         | 2.7%    |
@@ -2213,7 +2213,7 @@ Camera device models
 | Chicony HP HD Camera                                         | 1         | 2.7%    |
 | Chicony HD WebCam (Acer)                                     | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) XiaoMi USB 2.0 Webcam | 1         | 2.7%    |
-| Cheng Uei Precision Industry (Foxlink) Webcam                | 1         | 2.7%    |
+| Cheng Uei Precision Industry (Foxlink) HP HD Camera          | 1         | 2.7%    |
 | Apple FaceTime HD Camera (Built-in)                          | 1         | 2.7%    |
 | Acer USB HD Webcam                                           | 1         | 2.7%    |
 | Acer HP Webcam                                               | 1         | 2.7%    |

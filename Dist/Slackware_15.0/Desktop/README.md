@@ -756,7 +756,7 @@ Hard drive models
 | Seagate ST1000DM003-1SB102 1TB       | 1        | 2%      |
 | Seagate ST1000DM003-1ER162 1TB       | 1        | 2%      |
 | Seagate ST10000DM005-3AW101 10TB     | 1        | 2%      |
-| Seagate Expansion Desk 10TB          | 1        | 2%      |
+| Seagate Expansion+ Desk 4TB          | 1        | 2%      |
 | Samsung SSD 970 EVO Plus 500GB       | 1        | 2%      |
 | Samsung SSD 970 EVO Plus 1TB         | 1        | 2%      |
 | Samsung SSD 860 EVO 500GB            | 1        | 2%      |
@@ -767,7 +767,7 @@ Hard drive models
 | Kingston SUV500MS120G 120GB SSD      | 1        | 2%      |
 | Kingston SM2280S3G2120G 120GB SSD    | 1        | 2%      |
 | Kingston SA400S37120G 120GB SSD      | 1        | 2%      |
-| Intenso SSD SATAIII 120GB            | 1        | 2%      |
+| Intenso SSD SATAIII 480GB            | 1        | 2%      |
 | Hitachi HUS724040ALE641 4TB          | 1        | 2%      |
 | Hitachi HUA723030ALA640 3TB          | 1        | 2%      |
 | Hitachi HTS545025B9A300 250GB        | 1        | 2%      |
@@ -854,9 +854,9 @@ Size of hard drive
 | 0.01-0.5   | 14       | 20     | 42.42%  |
 | 1.01-2.0   | 5        | 7      | 15.15%  |
 | 0.51-1.0   | 5        | 6      | 15.15%  |
-| 3.01-4.0   | 3        | 8      | 9.09%   |
+| 3.01-4.0   | 4        | 9      | 12.12%  |
 | 2.01-3.0   | 3        | 7      | 9.09%   |
-| 4.01-10.0  | 3        | 3      | 9.09%   |
+| 4.01-10.0  | 2        | 2      | 6.06%   |
 
 Space Total
 -----------
@@ -1378,13 +1378,13 @@ Monitor models
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 5%      |
 | Lenovo LEN L171 LEN24C9 1280x1024 337x270mm 17.0-inch                 | 1        | 5%      |
 | IOD LCD-GL211X IOD151D 1920x1080 458x258mm 20.7-inch                  | 1        | 5%      |
-| Hewlett-Packard 27w HPN3494 1920x1080 598x336mm 27.0-inch             | 1        | 5%      |
+| Hewlett-Packard 27w HPN3494 1920x1080 600x340mm 27.2-inch             | 1        | 5%      |
 | Goldstar E1641 GSM8B3E 1366x768 350x200mm 15.9-inch                   | 1        | 5%      |
 | GDH CHHWJT GDH0030 1440x900 1150x650mm 52.0-inch                      | 1        | 5%      |
 | Dell DELL2407WFPHC DELA026 1920x1200 519x324mm 24.1-inch              | 1        | 5%      |
 | BenQ VZ2770H BNQ7B3C 1920x1080 598x336mm 27.0-inch                    | 1        | 5%      |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                     | 1        | 5%      |
-| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 5%      |
+| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 5%      |
 | Ancor Communications ROG PG348Q ACI3433 3440x1440 800x340mm 34.2-inch | 1        | 5%      |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 5%      |
 | Ancor Communications ASUS MG28U ACI28A7 3840x2160 621x341mm 27.9-inch | 1        | 5%      |
@@ -1806,9 +1806,9 @@ Memory module vendors
 | Transcend           | 1        | 4.35%   |
 | Team                | 1        | 4.35%   |
 | Strontium           | 1        | 4.35%   |
-| SK Hynix            | 1        | 4.35%   |
+| SK hynix            | 1        | 4.35%   |
 | Silicon Power       | 1        | 4.35%   |
-| Gloway              | 1        | 4.35%   |
+| GLOWAY              | 1        | 4.35%   |
 | G.Skill             | 1        | 4.35%   |
 | Crucial             | 1        | 4.35%   |
 | Corsair             | 1        | 4.35%   |
@@ -1828,9 +1828,9 @@ Memory module models
 |-------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 8%      |
 | Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 4%      |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s          | 1        | 4%      |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s         | 1        | 4%      |
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 4%      |
-| SK Hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 4%      |
+| SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 4%      |
 | Silicon Power RAM DCLT4GN568S V 4096MB DIMM DDR3 1600MT/s   | 1        | 4%      |
 | Samsung RAM M395T5663QZ4-CE66 2048MB FB-DIMM DDR2 667MT/s   | 1        | 4%      |
 | Samsung RAM M393A2G40DB0-CPB 16GB RIMM DDR4 2133MT/s        | 1        | 4%      |
@@ -1842,7 +1842,7 @@ Memory module models
 | Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s     | 1        | 4%      |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s         | 1        | 4%      |
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 800MT/s      | 1        | 4%      |
-| Gloway RAM TYA4U2666D19161C 16GB DIMM DDR4 2667MT/s         | 1        | 4%      |
+| GLOWAY RAM TYA4U2666D19161C 16GB DIMM DDR4 2667MT/s         | 1        | 4%      |
 | G.Skill RAM F4-3200C16-16GTZSW 16384MB DIMM DDR4 3200MT/s   | 1        | 4%      |
 | Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 4%      |
 | Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s       | 1        | 4%      |

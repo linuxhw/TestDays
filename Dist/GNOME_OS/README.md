@@ -792,8 +792,8 @@ Hard drive vendors
 | WDC                 | 7         | 7      | 15.56%  |
 | Kingston            | 6         | 6      | 13.33%  |
 | Samsung Electronics | 4         | 6      | 8.89%   |
-| SK Hynix            | 3         | 4      | 6.67%   |
-| Sandisk             | 3         | 4      | 6.67%   |
+| SK hynix            | 3         | 4      | 6.67%   |
+| SanDisk             | 3         | 4      | 6.67%   |
 | Toshiba             | 2         | 2      | 4.44%   |
 | HGST                | 2         | 2      | 4.44%   |
 | Apple               | 2         | 2      | 4.44%   |
@@ -815,7 +815,7 @@ Hard drive models
 
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
-| SK Hynix NVMe SSD Drive 512GB             | 2         | 4.26%   |
+| SK hynix NVMe SSD Drive 512GB             | 2         | 4.26%   |
 | Seagate ST9500325AS 500GB                 | 2         | 4.26%   |
 | Samsung NVMe SSD Drive 256GB              | 2         | 4.26%   |
 | Kingston SA400S37120G 120GB SSD           | 2         | 4.26%   |
@@ -830,8 +830,8 @@ Hard drive models
 | Toshiba MQ01ABD032 320GB                  | 1         | 2.13%   |
 | Toshiba HDWD120 2TB                       | 1         | 2.13%   |
 | SSSTC CVB-8D128-HP 128GB SSD              | 1         | 2.13%   |
-| SK Hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 2.13%   |
-| SK Hynix HFS128G39TND-N210A 128GB SSD     | 1         | 2.13%   |
+| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 2.13%   |
+| SK hynix HFS128G39TND-N210A 128GB SSD     | 1         | 2.13%   |
 | Seagate ST500LM012 HN-M500MBB 500GB       | 1         | 2.13%   |
 | Seagate ST4000DX001-1CE168 4TB            | 1         | 2.13%   |
 | Seagate ST3500312CS 500GB                 | 1         | 2.13%   |
@@ -841,7 +841,7 @@ Hard drive models
 | Seagate ST1000DM003-1SB102 1TB            | 1         | 2.13%   |
 | SanDisk X300 MSATA 128GB SSD              | 1         | 2.13%   |
 | SanDisk SD8SN8U512G1002 512GB SSD         | 1         | 2.13%   |
-| Sandisk NVMe SSD Drive 500GB              | 1         | 2.13%   |
+| SanDisk NVMe SSD Drive 500GB              | 1         | 2.13%   |
 | Samsung SSD 860 QVO 1TB                   | 1         | 2.13%   |
 | Samsung SSD 840 EVO 250GB                 | 1         | 2.13%   |
 | Samsung NVMe SSD Drive 1024GB             | 1         | 2.13%   |
@@ -891,7 +891,7 @@ Solid state drive vendors
 | WDC                 | 1         | 1      | 5.26%   |
 | Transcend           | 1         | 1      | 5.26%   |
 | SSSTC               | 1         | 1      | 5.26%   |
-| SK Hynix            | 1         | 1      | 5.26%   |
+| SK hynix            | 1         | 1      | 5.26%   |
 | PNY                 | 1         | 1      | 5.26%   |
 | Intel               | 1         | 1      | 5.26%   |
 | Crucial             | 1         | 1      | 5.26%   |
@@ -1044,8 +1044,8 @@ Storage controller vendors
 | Intel                    | 23        | 57.5%   |
 | AMD                      | 9         | 22.5%   |
 | Samsung Electronics      | 3         | 7.5%    |
-| SK Hynix                 | 2         | 5%      |
-| Sandisk                  | 1         | 2.5%    |
+| SK hynix                 | 2         | 5%      |
+| SanDisk                  | 1         | 2.5%    |
 | Marvell Technology Group | 1         | 2.5%    |
 | ASMedia Technology       | 1         | 2.5%    |
 
@@ -1065,9 +1065,9 @@ Storage controller models
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller        | 2         | 4.55%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 2         | 4.55%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                                    | 2         | 4.55%   |
-| SK Hynix Non-Volatile memory controller                                                 | 1         | 2.27%   |
-| SK Hynix BC511                                                                          | 1         | 2.27%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1         | 2.27%   |
+| SK hynix Non-Volatile memory controller                                                 | 1         | 2.27%   |
+| SK hynix BC511                                                                          | 1         | 2.27%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1         | 2.27%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 1         | 2.27%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 1         | 2.27%   |
 | Samsung NVMe SSD Controller 980                                                         | 1         | 2.27%   |
@@ -1447,13 +1447,13 @@ Monitor models
 | Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                  | 1         | 2.63%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch  | 1         | 2.63%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1         | 2.63%   |
-| Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch    | 1         | 2.63%   |
+| Samsung Electronics S24D300 SAM0B43 1920x1080 530x300mm 24.0-inch    | 1         | 2.63%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch | 1         | 2.63%   |
 | Samsung Electronics LCD Monitor SDC3754 1600x900 382x215mm 17.3-inch | 1         | 2.63%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch    | 1         | 2.63%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 1         | 2.63%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1         | 2.63%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch              | 1         | 2.63%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1         | 2.63%   |
 | LG Display LCD Monitor LGD05EC 1920x1080 309x174mm 14.0-inch         | 1         | 2.63%   |
 | LG Display LCD Monitor LGD04B3 1920x1080 345x194mm 15.6-inch         | 1         | 2.63%   |
 | LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch          | 1         | 2.63%   |
@@ -1647,7 +1647,7 @@ Controller models
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 2         | 3.13%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                  | 2         | 3.13%   |
 | Intel Wi-Fi 6 AX200                                               | 2         | 3.13%   |
-| TP-Link USB 10/100/1000 LAN                                       | 1         | 1.56%   |
+| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 1.56%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.56%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.56%   |
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1         | 1.56%   |
@@ -1659,7 +1659,7 @@ Controller models
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.56%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.56%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.56%   |
-| Motorola PCS motorola edge 20 fusion                              | 1         | 1.56%   |
+| Motorola PCS Moto G (5S) Plus                                     | 1         | 1.56%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.56%   |
 | Intel Wireless 3165                                               | 1         | 1.56%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                   | 1         | 1.56%   |
@@ -1763,7 +1763,7 @@ Ethernet models
 |-------------------------------------------------------------------|-----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 15        | 46.88%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 5         | 15.63%  |
-| TP-Link USB 10/100/1000 LAN                                       | 1         | 3.13%   |
+| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 3.13%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 3.13%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 3.13%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.13%   |
@@ -1863,18 +1863,19 @@ Controller models
 
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
-| Qualcomm Atheros  Bluetooth Device             | 4         | 16%     |
 | Realtek Bluetooth Radio                        | 3         | 12%     |
+| Qualcomm Atheros  Bluetooth Device             | 3         | 12%     |
 | Realtek  Bluetooth 4.2 Adapter                 | 2         | 8%      |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device   | 2         | 8%      |
 | Intel Bluetooth wireless interface             | 2         | 8%      |
 | Toshiba Bluetooth Device                       | 1         | 4%      |
-| Realtek 802.11ac WLAN Adapter                  | 1         | 4%      |
+| Realtek RTL8821A Bluetooth                     | 1         | 4%      |
+| Qualcomm Atheros AR9462 Bluetooth              | 1         | 4%      |
 | Lite-On Bluetooth Device                       | 1         | 4%      |
 | Intel Wireless-AC 9260 Bluetooth Adapter       | 1         | 4%      |
 | Intel Wireless-AC 3168 Bluetooth               | 1         | 4%      |
+| Intel Bluetooth Device                         | 1         | 4%      |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 4%      |
-| Intel AX201 Bluetooth                          | 1         | 4%      |
 | Intel AX200 Bluetooth                          | 1         | 4%      |
 | Dell Broadcom BCM20702A0 Bluetooth             | 1         | 4%      |
 | ASUS Broadcom BCM20702A0 Bluetooth             | 1         | 4%      |
@@ -2106,7 +2107,7 @@ Camera device models
 | Chicony HD WebCam                                | 1         | 3.85%   |
 | Chicony 5M Cam                                   | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 1         | 3.85%   |
-| 2M UVC CAMERA Web Camera                         | 1         | 3.85%   |
+| 2M UVC CAMERA NexiGo N60 FHD Webcam              | 1         | 3.85%   |
 
 Security
 --------

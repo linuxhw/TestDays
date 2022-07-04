@@ -634,7 +634,7 @@ Hard drive vendors
 | Unknown (CF)        | 1        | 1      | 8.33%   |
 | SanDisk             | 1        | 1      | 8.33%   |
 | Samsung Electronics | 1        | 1      | 8.33%   |
-| MAXTOR              | 1        | 1      | 8.33%   |
+| Maxtor              | 1        | 1      | 8.33%   |
 | China               | 1        | 2      | 8.33%   |
 
 Drive Model
@@ -658,7 +658,7 @@ Hard drive models
 | Seagate ST1000DM003-1ER162 1TB   | 1        | 7.14%   |
 | SanDisk SDSSDA120G 120GB         | 1        | 7.14%   |
 | Samsung HD081GJ 80GB             | 1        | 7.14%   |
-| MAXTOR 6Y080L0 82GB              | 1        | 7.14%   |
+| Maxtor 6Y080L0 82GB              | 1        | 7.14%   |
 | China SSD 256GB                  | 1        | 7.14%   |
 | China SSD 120GB                  | 1        | 7.14%   |
 
@@ -675,7 +675,7 @@ Hard disk drive vendors
 | Seagate             | 4        | 5      | 50%     |
 | WDC                 | 2        | 2      | 25%     |
 | Samsung Electronics | 1        | 1      | 12.5%   |
-| MAXTOR              | 1        | 1      | 12.5%   |
+| Maxtor              | 1        | 1      | 12.5%   |
 
 SSD Vendor
 ----------
@@ -773,7 +773,7 @@ Drive models with a malfunction
 | Model                   | Desktops | Drives | Percent |
 |-------------------------|----------|--------|---------|
 | WDC WD400BD-23JMC0 40GB | 1        | 1      | 50%     |
-| MAXTOR 6Y080L0 82GB     | 1        | 1      | 50%     |
+| Maxtor 6Y080L0 82GB     | 1        | 1      | 50%     |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -786,7 +786,7 @@ Vendors of faulty drives
 | Vendor | Desktops | Drives | Percent |
 |--------|----------|--------|---------|
 | WDC    | 1        | 1      | 50%     |
-| MAXTOR | 1        | 1      | 50%     |
+| Maxtor | 1        | 1      | 50%     |
 
 Malfunc. HDD Vendor
 -------------------
@@ -799,7 +799,7 @@ Vendors of faulty HDD drives
 | Vendor | Desktops | Drives | Percent |
 |--------|----------|--------|---------|
 | WDC    | 1        | 1      | 50%     |
-| MAXTOR | 1        | 1      | 50%     |
+| Maxtor | 1        | 1      | 50%     |
 
 Malfunc. Drive Kind
 -------------------
@@ -1144,7 +1144,7 @@ Monitor models
 | Samsung Electronics SMB1630N SAM0630 1366x768 340x190mm 15.3-inch       | 1        | 14.29%  |
 | Samsung Electronics S24B20/S24B30 SAM09ED 1920x1080 521x293mm 23.5-inch | 1        | 14.29%  |
 | Orion ORION ORN120A 1920x540                                            | 1        | 14.29%  |
-| Hewlett-Packard 2009 HWP2827 1600x900 443x250mm 20.0-inch               | 1        | 14.29%  |
+| Hewlett-Packard 2009 HWP2827 1600x900 442x249mm 20.0-inch               | 1        | 14.29%  |
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 14.29%  |
 
 Monitor Resolution

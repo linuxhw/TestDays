@@ -879,7 +879,7 @@ Hard drive vendors
 | Toshiba             | 3        | 3      | 5.36%   |
 | Transcend           | 1        | 1      | 1.79%   |
 | ORGE                | 1        | 1      | 1.79%   |
-| MAXTOR              | 1        | 1      | 1.79%   |
+| Maxtor              | 1        | 1      | 1.79%   |
 | Intel               | 1        | 1      | 1.79%   |
 | Fujitsu             | 1        | 1      | 1.79%   |
 | China               | 1        | 3      | 1.79%   |
@@ -935,9 +935,9 @@ Hard drive models
 | Samsung SSD 850 EVO 120GB        | 1        | 1.59%   |
 | Samsung SSD 840 PRO Series 256GB | 1        | 1.59%   |
 | Samsung HD160JJ 160GB            | 1        | 1.59%   |
-| Samsung HD080HJ 80GB             | 1        | 1.59%   |
+| Samsung HD080HJ/ 80GB            | 1        | 1.59%   |
 | ORGE GZX202 500GB                | 1        | 1.59%   |
-| MAXTOR STM380211AS 80GB          | 1        | 1.59%   |
+| Maxtor STM380211AS 80GB          | 1        | 1.59%   |
 | Kingston SUV400S37240G 240GB SSD | 1        | 1.59%   |
 | Kingston SHFS37A120G 120GB SSD   | 1        | 1.59%   |
 | Kingston SH103S3120G 120GB SSD   | 1        | 1.59%   |
@@ -947,11 +947,11 @@ Hard drive models
 | Kingston NVMe SSD Drive 480GB    | 1        | 1.59%   |
 | Intel SSDSC2BF240A5L 240GB       | 1        | 1.59%   |
 | Hitachi HDS728080PLAT20 82GB     | 1        | 1.59%   |
-| Hitachi HDS721616PLA380 164GB    | 1        | 1.59%   |
+| Hitachi HDS721616PLA380 160GB    | 1        | 1.59%   |
 | Hitachi HDS721032CLA362 320GB    | 1        | 1.59%   |
 | Fujitsu MHW2120BH 120GB          | 1        | 1.59%   |
 | China 240GB SSD                  | 1        | 1.59%   |
-| ASMT 2115 2TB                    | 1        | 1.59%   |
+| ASMT 2115 128GB                  | 1        | 1.59%   |
 
 HDD Vendor
 ----------
@@ -968,7 +968,7 @@ Hard disk drive vendors
 | Hitachi             | 6        | 6      | 15.38%  |
 | Toshiba             | 3        | 3      | 7.69%   |
 | Samsung Electronics | 2        | 2      | 5.13%   |
-| MAXTOR              | 1        | 1      | 2.56%   |
+| Maxtor              | 1        | 1      | 2.56%   |
 | Fujitsu             | 1        | 1      | 2.56%   |
 | ASMT                | 1        | 1      | 2.56%   |
 
@@ -1028,12 +1028,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 59     | 78.26%  |
-| 0.51-1.0   | 5        | 5      | 10.87%  |
-| 1.01-2.0   | 2        | 2      | 4.35%   |
-| 3.01-4.0   | 1        | 2      | 2.17%   |
-| 2.01-3.0   | 1        | 2      | 2.17%   |
-| 4.01-10.0  | 1        | 1      | 2.17%   |
+| 0.01-0.5   | 36       | 60     | 80%     |
+| 0.51-1.0   | 5        | 5      | 11.11%  |
+| 3.01-4.0   | 1        | 2      | 2.22%   |
+| 2.01-3.0   | 1        | 2      | 2.22%   |
+| 1.01-2.0   | 1        | 1      | 2.22%   |
+| 4.01-10.0  | 1        | 1      | 2.22%   |
 
 Space Total
 -----------
@@ -1602,7 +1602,7 @@ Monitor models
 | IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 5.13%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 5.13%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.56%   |
-| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                          | 1        | 2.56%   |
+| Vestel Elektronik 28W_LCD_TV VES3700 1920x540                          | 1        | 2.56%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.56%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.56%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.56%   |
@@ -1623,15 +1623,15 @@ Monitor models
 | Philips LCD Monitor 170S 3200x1080                                     | 1        | 2.56%   |
 | Philips 192EL PHLC04E 1366x768 410x230mm 18.5-inch                     | 1        | 2.56%   |
 | Philips 170S PHL0856 1280x1024 338x270mm 17.0-inch                     | 1        | 2.56%   |
-| Goldstar LG HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch               | 1        | 2.56%   |
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                   | 1        | 2.56%   |
 | Goldstar IPS231 GSM5816 1920x1080 510x290mm 23.1-inch                  | 1        | 2.56%   |
+| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 1        | 2.56%   |
 | Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 2.56%   |
 | Fujitsu Siemens B22W-6 LED FUS07F3 1680x1050 474x296mm 22.0-inch       | 1        | 2.56%   |
 | Fujitsu Siemens A17-1 FUS0565 1280x1024 340x270mm 17.1-inch            | 1        | 2.56%   |
 | Dell S2409W DELA038 1920x1080 531x298mm 24.0-inch                      | 1        | 2.56%   |
 | Dell 2208WFP DEL403C 1680x1050 473x296mm 22.0-inch                     | 1        | 2.56%   |
-| BenQ XL2411Z BNQ7F31 1920x1080 530x300mm 24.0-inch                     | 1        | 2.56%   |
+| BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                     | 1        | 2.56%   |
 | Belinea b.disp2.1_22W MAX08A0 1680x1050 474x297mm 22.0-inch            | 1        | 2.56%   |
 | AOC LCD Monitor 24E1W1 1920x1080                                       | 1        | 2.56%   |
 | AOC LCD Monitor 2262w 1920x1080                                        | 1        | 2.56%   |
@@ -1791,8 +1791,8 @@ Controller vendors
 | Sony Ericsson Mobile Communications AB | 2        | 3.77%   |
 | Broadcom Limited                       | 2        | 3.77%   |
 | Broadcom                               | 2        | 3.77%   |
+| Realtek                                | 1        | 1.89%   |
 | Ralink                                 | 1        | 1.89%   |
-| Mercucys                               | 1        | 1.89%   |
 | Marvell Technology Group               | 1        | 1.89%   |
 | ICS Advent                             | 1        | 1.89%   |
 
@@ -1818,6 +1818,7 @@ Controller models
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                     | 1        | 1.85%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter               | 1        | 1.85%   |
 | Realtek 802.11ac NIC                                                | 1        | 1.85%   |
+| Realtek 802.11n NIC                                                 | 1        | 1.85%   |
 | Ralink RT2561/RT61 802.11g PCI                                      | 1        | 1.85%   |
 | Qualcomm Atheros Attansic L2 Fast Ethernet                          | 1        | 1.85%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 1        | 1.85%   |
@@ -1825,7 +1826,6 @@ Controller models
 | Nvidia MCP73 Ethernet                                               | 1        | 1.85%   |
 | Nvidia CK8S Ethernet Controller                                     | 1        | 1.85%   |
 | Nvidia CK804 Ethernet Controller                                    | 1        | 1.85%   |
-| Mercucys 802.11n NIC                                                | 1        | 1.85%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller             | 1        | 1.85%   |
 | Intel I211 Gigabit Network Connection                               | 1        | 1.85%   |
 | Intel Ethernet Connection (2) I218-V                                | 1        | 1.85%   |
@@ -1849,9 +1849,9 @@ Wireless vendors
 | Qualcomm Atheros Communications | 3        | 23.08%  |
 | TP-Link                         | 2        | 15.38%  |
 | Realtek Semiconductor           | 1        | 7.69%   |
+| Realtek                         | 1        | 7.69%   |
 | Ralink                          | 1        | 7.69%   |
 | Qualcomm Atheros                | 1        | 7.69%   |
-| Mercucys                        | 1        | 7.69%   |
 | Intel                           | 1        | 7.69%   |
 
 Wireless Model
@@ -1868,9 +1868,9 @@ Wireless models
 | Qualcomm Atheros AR9271 802.11n                                     | 3        | 23.08%  |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                        | 2        | 15.38%  |
 | Realtek 802.11ac NIC                                                | 1        | 7.69%   |
+| Realtek 802.11n NIC                                                 | 1        | 7.69%   |
 | Ralink RT2561/RT61 802.11g PCI                                      | 1        | 7.69%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1        | 7.69%   |
-| Mercucys 802.11n NIC                                                | 1        | 7.69%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                    | 1        | 7.69%   |
 
 Ethernet Vendor
@@ -2100,7 +2100,7 @@ Memory module vendors
 |-------------------|----------|---------|
 | Kingston          | 8        | 47.06%  |
 | Unknown           | 4        | 23.53%  |
-| SK Hynix          | 3        | 17.65%  |
+| SK hynix          | 3        | 17.65%  |
 | Micron Technology | 1        | 5.88%   |
 | Corsair           | 1        | 5.88%   |
 
@@ -2114,19 +2114,19 @@ Memory module models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s                  | 2        | 10%     |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s                     | 2        | 10%     |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 10%     |
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 5%      |
 | Unknown RAM Module 2048MB DIMM DDR2 333MT/s                             | 1        | 5%      |
 | Unknown RAM Module 2048MB DIMM 1066MT/s                                 | 1        | 5%      |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                                | 1        | 5%      |
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                              | 1        | 5%      |
-| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                    | 1        | 5%      |
-| SK Hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 1333MT/s                       | 1        | 5%      |
-| SK Hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s                 | 1        | 5%      |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                    | 1        | 5%      |
+| SK hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 1333MT/s                       | 1        | 5%      |
+| SK hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s                 | 1        | 5%      |
 | Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 5%      |
 | Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s                 | 1        | 5%      |
-| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 2933MT/s                    | 1        | 5%      |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s                       | 1        | 5%      |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                     | 1        | 5%      |
 | Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 5%      |
 | Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 5%      |

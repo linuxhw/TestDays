@@ -659,29 +659,29 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                           | Desktops | Percent |
-|---------------------------------|----------|---------|
-| Seagate ST500DM002-1BD142 500GB | 2        | 8%      |
-| Seagate ST31000524AS 1TB        | 2        | 8%      |
-| Samsung SSD 850 EVO 250GB       | 2        | 8%      |
-| Samsung NVMe SSD Drive 500GB    | 2        | 8%      |
-| WDC WD40EZRZ-00GXCB0 4TB        | 1        | 4%      |
-| WDC WD10EZEX-08WN4A0 1TB        | 1        | 4%      |
-| Unknown R5M120G8 120GB SSD      | 1        | 4%      |
-| Toshiba MK3275GSX 320GB         | 1        | 4%      |
-| Seagate ST2000DX002-2DV164 2TB  | 1        | 4%      |
-| Seagate ST2000DX001-1NS164 2TB  | 1        | 4%      |
-| Seagate ST1000DM010-2EP102 1TB  | 1        | 4%      |
-| Seagate ST1000DM003-1CH162 1TB  | 1        | 4%      |
-| SanDisk SDSSDP064G 64GB         | 1        | 4%      |
-| SanDisk SDSSDA240G 240GB        | 1        | 4%      |
-| Samsung SSD 970 EVO 500GB       | 1        | 4%      |
-| Patriot Spark 256GB SSD         | 1        | 4%      |
-| Kingston NVMe SSD Drive 1TB     | 1        | 4%      |
-| HGST HTS721010A9E630 1TB        | 1        | 4%      |
-| Corsair Force LS SSD 64GB       | 1        | 4%      |
-| China SATA SSD 240GB            | 1        | 4%      |
-| A-DATA SU650 120GB SSD          | 1        | 4%      |
+| Model                                  | Desktops | Percent |
+|----------------------------------------|----------|---------|
+| Seagate ST500DM002-1BD142 500GB        | 2        | 8%      |
+| Seagate ST31000524AS 1TB               | 2        | 8%      |
+| Samsung SSD 850 EVO 250GB              | 2        | 8%      |
+| Samsung SM963 2.5" NVMe PCIe SSD 500GB | 2        | 8%      |
+| WDC WD40EZRZ-00GXCB0 4TB               | 1        | 4%      |
+| WDC WD10EZEX-08WN4A0 1TB               | 1        | 4%      |
+| Unknown R5M120G8 120GB SSD             | 1        | 4%      |
+| Toshiba MK3275GSX 320GB                | 1        | 4%      |
+| Seagate ST2000DX002-2DV164 2TB         | 1        | 4%      |
+| Seagate ST2000DX001-1NS164 2TB         | 1        | 4%      |
+| Seagate ST1000DM010-2EP102 1TB         | 1        | 4%      |
+| Seagate ST1000DM003-1CH162 1TB         | 1        | 4%      |
+| SanDisk SDSSDP064G 64GB                | 1        | 4%      |
+| SanDisk SDSSDA240G 240GB               | 1        | 4%      |
+| Samsung SSD 970 EVO 500GB              | 1        | 4%      |
+| Patriot Spark 256GB SSD                | 1        | 4%      |
+| Kingston NVMe SSD Drive 1TB            | 1        | 4%      |
+| HGST HTS721010A9E630 1TB               | 1        | 4%      |
+| Corsair Force LS SSD 64GB              | 1        | 4%      |
+| China SATA SSD 240GB                   | 1        | 4%      |
+| A-DATA SU650 120GB SSD                 | 1        | 4%      |
 
 HDD Vendor
 ----------
@@ -1207,7 +1207,7 @@ Monitor models
 | Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                | 1        | 7.69%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |

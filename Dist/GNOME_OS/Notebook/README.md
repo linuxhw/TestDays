@@ -718,7 +718,7 @@ Hard drive vendors
 | Transcend           | 1         | 1      | 4.35%   |
 | Toshiba             | 1         | 1      | 4.35%   |
 | SSSTC               | 1         | 1      | 4.35%   |
-| SK Hynix            | 1         | 2      | 4.35%   |
+| SK hynix            | 1         | 2      | 4.35%   |
 | Samsung Electronics | 1         | 1      | 4.35%   |
 | Intel               | 1         | 1      | 4.35%   |
 | HECTRON             | 1         | 1      | 4.35%   |
@@ -743,8 +743,8 @@ Hard drive models
 | Transcend TS64GMTS400 64GB SSD            | 1         | 4.17%   |
 | Toshiba MQ01ABD032 320GB                  | 1         | 4.17%   |
 | SSSTC CVB-8D128-HP 128GB SSD              | 1         | 4.17%   |
-| SK Hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 4.17%   |
-| SK Hynix NVMe SSD Drive 512GB             | 1         | 4.17%   |
+| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 4.17%   |
+| SK hynix NVMe SSD Drive 512GB             | 1         | 4.17%   |
 | Seagate ST9500325AS 500GB                 | 1         | 4.17%   |
 | Seagate ST500LM012 HN-M500MBB 500GB       | 1         | 4.17%   |
 | Seagate ST1000LM035-1RK172 1TB            | 1         | 4.17%   |
@@ -933,7 +933,7 @@ Storage controller vendors
 |---------------------|-----------|---------|
 | Intel               | 14        | 63.64%  |
 | AMD                 | 6         | 27.27%  |
-| SK Hynix            | 1         | 4.55%   |
+| SK hynix            | 1         | 4.55%   |
 | Samsung Electronics | 1         | 4.55%   |
 
 Storage Model
@@ -951,7 +951,7 @@ Storage controller models
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 3         | 13.04%  |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 2         | 8.7%    |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 8.7%    |
-| SK Hynix Non-Volatile memory controller                                          | 1         | 4.35%   |
+| SK hynix Non-Volatile memory controller                                          | 1         | 4.35%   |
 | Samsung NVMe SSD Controller 980                                                  | 1         | 4.35%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 1         | 4.35%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 1         | 4.35%   |
@@ -1431,7 +1431,7 @@ Controller models
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 3         | 7.14%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 2         | 4.76%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                  | 2         | 4.76%   |
-| TP-Link USB 10/100/1000 LAN                                       | 1         | 2.38%   |
+| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 2.38%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 2.38%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1         | 2.38%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1         | 2.38%   |
@@ -1530,7 +1530,7 @@ Ethernet models
 |-------------------------------------------------------------------|-----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6         | 30%     |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 5         | 25%     |
-| TP-Link USB 10/100/1000 LAN                                       | 1         | 5%      |
+| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 5%      |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 5%      |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 5%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 5%      |
@@ -1625,13 +1625,14 @@ Controller models
 
 | Model                                        | Notebooks | Percent |
 |----------------------------------------------|-----------|---------|
-| Qualcomm Atheros  Bluetooth Device           | 4         | 22.22%  |
 | Realtek Bluetooth Radio                      | 3         | 16.67%  |
+| Qualcomm Atheros  Bluetooth Device           | 3         | 16.67%  |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device | 2         | 11.11%  |
 | Intel Bluetooth wireless interface           | 2         | 11.11%  |
 | Toshiba Bluetooth Device                     | 1         | 5.56%   |
+| Realtek RTL8821A Bluetooth                   | 1         | 5.56%   |
 | Realtek  Bluetooth 4.2 Adapter               | 1         | 5.56%   |
-| Realtek 802.11ac WLAN Adapter                | 1         | 5.56%   |
+| Qualcomm Atheros AR9462 Bluetooth            | 1         | 5.56%   |
 | Lite-On Bluetooth Device                     | 1         | 5.56%   |
 | Intel AX200 Bluetooth                        | 1         | 5.56%   |
 | Dell Broadcom BCM20702A0 Bluetooth           | 1         | 5.56%   |

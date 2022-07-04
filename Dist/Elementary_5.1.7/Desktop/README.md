@@ -979,7 +979,7 @@ Hard drive vendors
 | OCZ                 | 1        | 2      | 0.89%   |
 | KingSpec            | 1        | 1      | 0.89%   |
 | Intel               | 1        | 1      | 0.89%   |
-| GOODRAM             | 1        | 2      | 0.89%   |
+| Goodram             | 1        | 2      | 0.89%   |
 | GeIL                | 1        | 1      | 0.89%   |
 | China               | 1        | 1      | 0.89%   |
 
@@ -1031,7 +1031,7 @@ Hard drive models
 | WDC WD10EZEX-08M2NA0 1TB           | 1        | 0.76%   |
 | WDC WD10EURX-63UY4Y0 1TB           | 1        | 0.76%   |
 | WDC WD10EALX-009BA0 1TB            | 1        | 0.76%   |
-| Unknown SD/MMC/MS PRO 999GB        | 1        | 0.76%   |
+| Unknown SD/MMC/MS PRO 128GB        | 1        | 0.76%   |
 | Unknown NVMe SSD Drive 1024GB      | 1        | 0.76%   |
 | Transcend TS256GSSD230S 256GB      | 1        | 0.76%   |
 | Toshiba MQ01ABD032 320GB           | 1        | 0.76%   |
@@ -1096,7 +1096,7 @@ Solid state drive vendors
 | OCZ                 | 1        | 2      | 1.82%   |
 | KingSpec            | 1        | 1      | 1.82%   |
 | Intel               | 1        | 1      | 1.82%   |
-| GOODRAM             | 1        | 2      | 1.82%   |
+| Goodram             | 1        | 2      | 1.82%   |
 | GeIL                | 1        | 1      | 1.82%   |
 | China               | 1        | 1      | 1.82%   |
 
@@ -1138,12 +1138,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 54       | 99     | 62.79%  |
-| 0.51-1.0   | 21       | 33     | 24.42%  |
-| 1.01-2.0   | 5        | 11     | 5.81%   |
-| 4.01-10.0  | 3        | 3      | 3.49%   |
-| 2.01-3.0   | 2        | 6      | 2.33%   |
-| 3.01-4.0   | 1        | 1      | 1.16%   |
+| 0.01-0.5   | 54       | 100    | 63.53%  |
+| 0.51-1.0   | 21       | 33     | 24.71%  |
+| 1.01-2.0   | 5        | 11     | 5.88%   |
+| 4.01-10.0  | 3        | 3      | 3.53%   |
+| 2.01-3.0   | 2        | 6      | 2.35%   |
 
 Space Total
 -----------
@@ -1785,7 +1784,7 @@ Monitor models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                    | 3        | 4.17%   |
-| ___ LCDTV14 ___0101 1920x1080                                           | 1        | 1.39%   |
+| ___ LCD TV ___0101 1360x768                                             | 1        | 1.39%   |
 | Vizio E28h-C1 VIZ1002 1360x768 610x350mm 27.7-inch                      | 1        | 1.39%   |
 | ViewSonic VX2476 Series VSCD332 1920x1080 527x296mm 23.8-inch           | 1        | 1.39%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 1.39%   |
@@ -1794,14 +1793,14 @@ Monitor models
 | Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 1.39%   |
 | Samsung Electronics T27C370 SAM0ADE 1920x1080 598x336mm 27.0-inch       | 1        | 1.39%   |
 | Samsung Electronics SyncMaster SAM0595 2048x1152 510x287mm 23.0-inch    | 1        | 1.39%   |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch    | 1        | 1.39%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 470x300mm 22.0-inch    | 1        | 1.39%   |
 | Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch     | 1        | 1.39%   |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch     | 1        | 1.39%   |
 | Samsung Electronics SA300/SA350 SAM078B 1600x900 443x249mm 20.0-inch    | 1        | 1.39%   |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1420x800mm 64.2-inch  | 1        | 1.39%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 1.39%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 1.39%   |
 | Samsung Electronics LCD Monitor S24F350 1920x1080                       | 1        | 1.39%   |
-| SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch                   | 1        | 1.39%   |
+| SAC LED MONITOR SAC952D 1920x1080 480x270mm 21.7-inch                   | 1        | 1.39%   |
 | Ruijiang HDMI RJT003A 1920x1080 800x480mm 36.7-inch                     | 1        | 1.39%   |
 | Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch                 | 1        | 1.39%   |
 | PDA P24FA2 PDA2380 1920x1080 409x230mm 18.5-inch                        | 1        | 1.39%   |
@@ -1809,14 +1808,14 @@ Monitor models
 | LG Electronics LCD Monitor M227WAP 1920x1080                            | 1        | 1.39%   |
 | LG Electronics LCD Monitor LG ULTRAGEAR 2560x1440                       | 1        | 1.39%   |
 | KIV Kivi TV KIV0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.39%   |
-| Iiyama PL3270Q IVM7608 2560x1440 698x393mm 31.5-inch                    | 1        | 1.39%   |
+| Iiyama PL3270Q IVM7608 2560x1440 700x390mm 31.5-inch                    | 1        | 1.39%   |
 | Iiyama PL2773H IVM660A 1920x1080 598x336mm 27.0-inch                    | 1        | 1.39%   |
 | HPN LCD Monitor HP 27fh 1920x1080                                       | 1        | 1.39%   |
-| Hewlett-Packard 27es HWP3325 1920x1080 598x336mm 27.0-inch              | 1        | 1.39%   |
-| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch               | 1        | 1.39%   |
+| Hewlett-Packard 27es HWP3325 1920x1080 600x340mm 27.2-inch              | 1        | 1.39%   |
+| Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 1.39%   |
 | Haier HAIER HRE0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.39%   |
 | Goldstar M228WA GSM563D 1680x1050 470x300mm 22.0-inch                   | 1        | 1.39%   |
-| Goldstar L1750SQ GSM43E8 1280x1024 338x270mm 17.0-inch                  | 1        | 1.39%   |
+| Goldstar L1750SQ GSM43E8 1280x1024 340x270mm 17.1-inch                  | 1        | 1.39%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 1.39%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 1        | 1.39%   |
 | Goldstar E2250 GSM578D 1920x1080 477x268mm 21.5-inch                    | 1        | 1.39%   |
@@ -1841,7 +1840,7 @@ Monitor models
 | Apple Cinema HD APP9221 2560x1600 641x401mm 29.8-inch                   | 1        | 1.39%   |
 | AOC Q3279WG5B AOC3279 2560x1440 725x428mm 33.1-inch                     | 1        | 1.39%   |
 | AOC LCD Monitor 2757                                                    | 1        | 1.39%   |
-| AOC 2770G4 AOC2770 1920x1080 598x336mm 27.0-inch                        | 1        | 1.39%   |
+| AOC G2770 AOC2770 1920x1080 598x336mm 27.0-inch                         | 1        | 1.39%   |
 | AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                         | 1        | 1.39%   |
 | AOC 2070W AOC2070 1600x900 434x236mm 19.4-inch                          | 1        | 1.39%   |
 
@@ -2037,7 +2036,7 @@ Controller models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                 | 33       | 30.28%  |
 | Intel I211 Gigabit Network Connection                                             | 4        | 3.67%   |
 | Intel Ethernet Connection (2) I219-V                                              | 4        | 3.67%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                             | 3        | 2.75%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                               | 3        | 2.75%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                  | 3        | 2.75%   |
 | Intel Ethernet Connection (7) I219-V                                              | 3        | 2.75%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                               | 2        | 1.83%   |
@@ -2081,7 +2080,7 @@ Controller models
 | Intel 82566DC Gigabit Network Connection                                          | 1        | 0.92%   |
 | Intel 82562V-2 10/100 Network Connection                                          | 1        | 0.92%   |
 | Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)                            | 1        | 0.92%   |
-| Huawei MAR-LX1A                                                                   | 1        | 0.92%   |
+| Huawei COL-L29                                                                    | 1        | 0.92%   |
 | D-Link System DWA-131 802.11n Wireless N Nano Adapter(rev.A1) [Realtek RTL8192SU] | 1        | 0.92%   |
 | D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU]              | 1        | 0.92%   |
 | BUFFALO WLI-UC-GNM Wireless LAN Adapter [Ralink RT8070]                           | 1        | 0.92%   |
@@ -2123,7 +2122,7 @@ Wireless models
 
 | Model                                                                             | Desktops | Percent |
 |-----------------------------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN821N Version 5 RTL8192EU                                             | 3        | 7.5%    |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                               | 3        | 7.5%    |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                  | 3        | 7.5%    |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                               | 2        | 5%      |
 | Realtek 802.11ac NIC                                                              | 2        | 5%      |
@@ -2207,7 +2206,7 @@ Ethernet models
 | Intel 82566DC Gigabit Network Connection                          | 1        | 1.45%   |
 | Intel 82562V-2 10/100 Network Connection                          | 1        | 1.45%   |
 | Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)            | 1        | 1.45%   |
-| Huawei MAR-LX1A                                                   | 1        | 1.45%   |
+| Huawei COL-L29                                                    | 1        | 1.45%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 1.45%   |
 
 Net Controller Kind
@@ -2362,7 +2361,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 2        | 1.59%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 1.59%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 1.59%   |
-| Generalplus Technology Usb Audio Device                                    | 2        | 1.59%   |
+| Generalplus Technology IMYB 7.1 Channel                                    | 2        | 1.59%   |
 | AMD RS880 HDMI Audio [Radeon HD 4200 Series]                               | 2        | 1.59%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 2        | 1.59%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 2        | 1.59%   |
@@ -2390,7 +2389,7 @@ Sound card models
 | Hewlett-Packard Premium Digital Headset                                    | 1        | 0.79%   |
 | Fortemedia Xwave QS3000A [FM801]                                           | 1        | 0.79%   |
 | C-Media Electronics USB Modi Device                                        | 1        | 0.79%   |
-| C-Media Electronics SADES Luna                                             | 1        | 0.79%   |
+| C-Media Electronics USB Audio Device                                       | 1        | 0.79%   |
 | C-Media Electronics CM106 Like Sound Device                                | 1        | 0.79%   |
 | C-Media Electronics CM102-A+/102S+ Audio Controller                        | 1        | 0.79%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 0.79%   |
@@ -2420,7 +2419,7 @@ Memory module vendors
 | Kingston            | 10       | 32.26%  |
 | Unknown             | 4        | 12.9%   |
 | Crucial             | 4        | 12.9%   |
-| SK Hynix            | 3        | 9.68%   |
+| SK hynix            | 3        | 9.68%   |
 | Samsung Electronics | 2        | 6.45%   |
 | Patriot             | 2        | 6.45%   |
 | Corsair             | 2        | 6.45%   |
@@ -2437,40 +2436,40 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM 1333MT/s                      | 2        | 6.06%   |
-| Unknown RAM Module 8GB DIMM 1333MT/s                      | 1        | 3.03%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s              | 1        | 3.03%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                      | 1        | 3.03%   |
-| Unknown RAM Module 2048MB DIMM DDR2 667MT/s               | 1        | 3.03%   |
-| SK Hynix RAM HYMP112U64CP8-Y5 1024MB DIMM DDR2 1639MT/s   | 1        | 3.03%   |
-| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 3.03%   |
-| SK Hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s   | 1        | 3.03%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1        | 3.03%   |
-| Samsung RAM M378A5244CB0-CTD 4GB DIMM DDR4 3334MT/s       | 1        | 3.03%   |
-| Ramaxel RAM RMR1870ED48E8F1333 2048MB DIMM DDR3 1333MT/s  | 1        | 3.03%   |
-| Patriot RAM PSD48G266681 8192MB DIMM DDR4 2934MT/s        | 1        | 3.03%   |
-| Patriot RAM PSD22G8002 2GB DIMM DDR2 800MT/s              | 1        | 3.03%   |
-| Nanya RAM Module 4GB FB-DIMM DDR2 667MT/s                 | 1        | 3.03%   |
-| Micron RAM 16JTF25664AZ-1G4F 2GB DIMM DDR3 1333MT/s       | 1        | 3.03%   |
-| Kingston RAM Module 4GB FB-DIMM DDR2 667MT/s              | 1        | 3.03%   |
-| Kingston RAM Module 4096MB SODIMM DDR3 1333MT/s           | 1        | 3.03%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 3.03%   |
-| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s    | 1        | 3.03%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 1        | 3.03%   |
-| Kingston RAM KHX1866C9D3/8GX 8GB DIMM DDR3 1866MT/s       | 1        | 3.03%   |
-| Kingston RAM KHX1866C10D3/4G 4096MB DIMM DDR3 1867MT/s    | 1        | 3.03%   |
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s    | 1        | 3.03%   |
-| Kingston RAM HP497157-B88-ELDW 2048MB DIMM DDR3 1333MT/s  | 1        | 3.03%   |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 3.03%   |
-| G.Skill RAM F3-12800CL9-4GBRL 4096MB DIMM DDR3 1600MT/s   | 1        | 3.03%   |
-| Crucial RAM CT51264AA667.M16FC 4GB DIMM DDR2 667MT/s      | 1        | 3.03%   |
-| Crucial RAM CT12864BA1339A.C8F 1024MB DIMM DDR3 667MT/s   | 1        | 3.03%   |
-| Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s | 1        | 3.03%   |
-| Crucial RAM BLS16G4D240FSC.16FBD 16GB DIMM DDR4 2400MT/s  | 1        | 3.03%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 3.03%   |
-| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s     | 1        | 3.03%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM 1333MT/s                     | 2        | 6.06%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                     | 1        | 3.03%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s             | 1        | 3.03%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                     | 1        | 3.03%   |
+| Unknown RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 3.03%   |
+| SK hynix RAM HYMP112U64CP8-Y5 1024MB DIMM DDR2 1639MT/s  | 1        | 3.03%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s     | 1        | 3.03%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 3.03%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s    | 1        | 3.03%   |
+| Samsung RAM M378A5244CB0-CTD 4GB DIMM DDR4 3334MT/s      | 1        | 3.03%   |
+| Ramaxel RAM RMR1870ED48E8F1333 2048MB DIMM DDR3 1333MT/s | 1        | 3.03%   |
+| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s          | 1        | 3.03%   |
+| Patriot RAM PSD22G8002 2GB DIMM DDR2 800MT/s             | 1        | 3.03%   |
+| Nanya RAM Module 4GB FB-DIMM DDR2 667MT/s                | 1        | 3.03%   |
+| Micron RAM 16JTF25664AZ-1G4F 2GB DIMM DDR3 1333MT/s      | 1        | 3.03%   |
+| Kingston RAM Module 4GB FB-DIMM DDR2 667MT/s             | 1        | 3.03%   |
+| Kingston RAM Module 4096MB SODIMM DDR3 1333MT/s          | 1        | 3.03%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 3.03%   |
+| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s   | 1        | 3.03%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 3.03%   |
+| Kingston RAM KHX1866C9D3/8GX 8GB DIMM DDR3 1866MT/s      | 1        | 3.03%   |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s      | 1        | 3.03%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 3.03%   |
+| Kingston RAM HP497157-B88-ELDW 2048MB DIMM DDR3 1333MT/s | 1        | 3.03%   |
+| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 3.03%   |
+| G.Skill RAM F3-12800CL9-4GBRL 4GB DIMM DDR3 1600MT/s     | 1        | 3.03%   |
+| Crucial RAM CT51264AA667.M16FC 4GB DIMM DDR2 667MT/s     | 1        | 3.03%   |
+| Crucial RAM CT12864BA1339A.C8F 1024MB DIMM DDR3 667MT/s  | 1        | 3.03%   |
+| Crucial RAM BLS8G4D240FSEK.8FBD 8GB DIMM DDR4 2400MT/s   | 1        | 3.03%   |
+| Crucial RAM BLS16G4D240FSC.16FBD 16GB DIMM DDR4 2400MT/s | 1        | 3.03%   |
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3000MT/s | 1        | 3.03%   |
+| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s    | 1        | 3.03%   |
 
 Memory Kind
 -----------
@@ -2629,13 +2628,13 @@ Camera device models
 |-------------------------------------------------------|----------|---------|
 | Logitech HD Pro Webcam C920                           | 4        | 25%     |
 | Z-Star Venus USB2.0 Camera                            | 1        | 6.25%   |
-| Samsung Galaxy A5 (MTP)                               | 1        | 6.25%   |
+| Samsung Galaxy series, misc. (MTP mode)               | 1        | 6.25%   |
 | Microsoft LifeCam VX-2000                             | 1        | 6.25%   |
 | Microdia Sonix USB 2.0 Camera                         | 1        | 6.25%   |
 | Logitech Webcam C270                                  | 1        | 6.25%   |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode) | 1        | 6.25%   |
 | KYE Systems (Mouse Systems) PC-LM1E Camera            | 1        | 6.25%   |
-| Generalplus CAMERA - UVC                              | 1        | 6.25%   |
+| Generalplus GENERAL WEBCAM                            | 1        | 6.25%   |
 | Cubeternet GL-UPC822 UVC WebCam                       | 1        | 6.25%   |
 | Chicony USB2.0 UVC VGA                                | 1        | 6.25%   |
 | Chicony HP High Definition 1MP Webcam                 | 1        | 6.25%   |

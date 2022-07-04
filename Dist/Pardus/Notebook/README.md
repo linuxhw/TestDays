@@ -720,7 +720,7 @@ Hard drive vendors
 | WDC                 | 5         | 7      | 17.86%  |
 | Seagate             | 5         | 5      | 17.86%  |
 | Samsung Electronics | 4         | 4      | 14.29%  |
-| SK Hynix            | 2         | 2      | 7.14%   |
+| SK hynix            | 2         | 2      | 7.14%   |
 | Kingston            | 2         | 3      | 7.14%   |
 | HGST                | 2         | 2      | 7.14%   |
 | SPCC                | 1         | 1      | 3.57%   |
@@ -749,13 +749,13 @@ Hard drive models
 | WDC WD10JPVX-60JC3T0 1TB                    | 1         | 3.57%   |
 | WDC WD10JPCX-24UE4T0 1TB                    | 1         | 3.57%   |
 | SPCC Solid State Disk 512GB                 | 1         | 3.57%   |
-| SK Hynix SC311 SATA 256GB SSD               | 1         | 3.57%   |
-| SK Hynix BC511 HFM256GDJTNI-82A0A 256GB     | 1         | 3.57%   |
+| SK hynix SC311 SATA 256GB SSD               | 1         | 3.57%   |
+| SK hynix BC511 HFM256GDJTNI-82A0A 256GB     | 1         | 3.57%   |
 | Silicon Motion Longline SSD 512GB           | 1         | 3.57%   |
 | Seagate ST9500325AS 500GB                   | 1         | 3.57%   |
 | Seagate ST9120822AS 120GB                   | 1         | 3.57%   |
 | Seagate ST1000LM035-1RK172 1TB              | 1         | 3.57%   |
-| Seagate Expansion 4TB                       | 1         | 3.57%   |
+| Seagate Expansion 1TB                       | 1         | 3.57%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB | 1         | 3.57%   |
 | SanDisk SDSSDA480G 480GB                    | 1         | 3.57%   |
 | Samsung SSD 860 EVO 500GB                   | 1         | 3.57%   |
@@ -766,7 +766,7 @@ Hard drive models
 | Lexar 120GB SSD                             | 1         | 3.57%   |
 | Kingston SHFS37A120G 120GB SSD              | 1         | 3.57%   |
 | Kingston SA400S37240G 240GB SSD             | 1         | 3.57%   |
-| KingSpec P3-128 128GB                       | 1         | 3.57%   |
+| KingSpec P3-128 128GB SSD                   | 1         | 3.57%   |
 | Hitachi HTS545025B9A300 250GB               | 1         | 3.57%   |
 | addlink S10 120GB                           | 1         | 3.57%   |
 
@@ -798,7 +798,7 @@ Solid state drive vendors
 | Samsung Electronics | 3         | 3      | 25%     |
 | Kingston            | 2         | 3      | 16.67%  |
 | SPCC                | 1         | 1      | 8.33%   |
-| SK Hynix            | 1         | 1      | 8.33%   |
+| SK hynix            | 1         | 1      | 8.33%   |
 | Seagate             | 1         | 1      | 8.33%   |
 | SanDisk             | 1         | 1      | 8.33%   |
 | Micron Technology   | 1         | 2      | 8.33%   |
@@ -845,8 +845,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 17        | 19     | 73.91%  |
-| 0.51-1.0   | 5         | 8      | 21.74%  |
-| 3.01-4.0   | 1         | 1      | 4.35%   |
+| 0.51-1.0   | 6         | 9      | 26.09%  |
 
 Space Total
 -----------
@@ -971,7 +970,7 @@ Storage controller vendors
 |---------------------|-----------|---------|
 | Intel               | 18        | 72%     |
 | AMD                 | 4         | 16%     |
-| SK Hynix            | 1         | 4%      |
+| SK hynix            | 1         | 4%      |
 | Silicon Motion      | 1         | 4%      |
 | Samsung Electronics | 1         | 4%      |
 
@@ -990,7 +989,7 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                              | 3         | 11.54%  |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2         | 7.69%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 2         | 7.69%   |
-| SK Hynix BC511                                                                   | 1         | 3.85%   |
+| SK hynix BC511                                                                   | 1         | 3.85%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 3.85%   |
 | Samsung NVMe SSD Controller 980                                                  | 1         | 3.85%   |
 | Intel Volume Management Device NVMe RAID Controller                              | 1         | 3.85%   |
@@ -1316,10 +1315,10 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch     | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 344x194mm 15.5-inch     | 1         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 4.35%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch     | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SDC4951 1366x768 344x194mm 15.5-inch     | 1         | 4.35%   |
 | LG Philips LCD Monitor LPL1146 1280x800 331x207mm 15.4-inch              | 1         | 4.35%   |
-| LG Display LCD Monitor LGD053F 1920x1080 340x190mm 15.3-inch             | 1         | 4.35%   |
+| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch             | 1         | 4.35%   |
 | LG Display LCD Monitor LGD0470 1920x1080 345x194mm 15.6-inch             | 1         | 4.35%   |
 | LG Display LCD Monitor LGD0384 1366x768 344x194mm 15.5-inch              | 1         | 4.35%   |
 | LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch              | 1         | 4.35%   |
@@ -1677,17 +1676,18 @@ Controller models
 
 | Model                                            | Notebooks | Percent |
 |--------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                          | 5         | 26.32%  |
+| Realtek Bluetooth Radio                          | 4         | 21.05%  |
 | Intel Bluetooth wireless interface               | 2         | 10.53%  |
 | Toshiba RT Bluetooth Radio                       | 1         | 5.26%   |
 | Toshiba Integrated Bluetooth HCI                 | 1         | 5.26%   |
+| Realtek RTL8821A Bluetooth                       | 1         | 5.26%   |
 | Ralink RT3290 Bluetooth                          | 1         | 5.26%   |
 | Qualcomm Atheros  Bluetooth Device               | 1         | 5.26%   |
 | Lite-On Atheros AR3012 Bluetooth                 | 1         | 5.26%   |
 | Intel Centrino Bluetooth Wireless Transceiver    | 1         | 5.26%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter | 1         | 5.26%   |
+| Intel Bluetooth Device                           | 1         | 5.26%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)   | 1         | 5.26%   |
-| Intel AX201 Bluetooth                            | 1         | 5.26%   |
 | IMC Networks Bluetooth Device                    | 1         | 5.26%   |
 | Foxconn / Hon Hai BCM43142A0                     | 1         | 5.26%   |
 | Broadcom HP Portable Valentine                   | 1         | 5.26%   |
@@ -1759,7 +1759,7 @@ Memory module vendors
 | Samsung Electronics | 4         | 44.44%  |
 | Unknown (0x4509)    | 1         | 11.11%  |
 | Unknown             | 1         | 11.11%  |
-| SK Hynix            | 1         | 11.11%  |
+| SK hynix            | 1         | 11.11%  |
 | Micron Technology   | 1         | 11.11%  |
 | Kingmax             | 1         | 11.11%  |
 
@@ -1775,7 +1775,7 @@ Memory module models
 |--------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2048MB SODIMM DDR2                              | 1         | 11.11%  |
 | Unknown (0x4509) RAM GKE800SO102408-2666A 8GB SODIMM DDR4 2133MT/s | 1         | 11.11%  |
-| SK Hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s          | 1         | 11.11%  |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s             | 1         | 11.11%  |
 | Samsung RAM M471B5773CHS-CH9 2GB DIMM DDR3 1333MT/s                | 1         | 11.11%  |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s              | 1         | 11.11%  |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s              | 1         | 11.11%  |

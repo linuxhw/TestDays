@@ -175,7 +175,7 @@ Total: 36
 | MSI        | G31TM-P21                   | [91c11ae82e](https://linux-hardware.org/?probe=91c11ae82e) | May 07, 2021 |
 | Foxconn    | 2ADA                        | [425d15a5ce](https://linux-hardware.org/?probe=425d15a5ce) | Mar 09, 2021 |
 | Dell       | 0TP412                      | [f0e56aacff](https://linux-hardware.org/?probe=f0e56aacff) | Jan 05, 2021 |
-| NETGEAR    | ReadyDATA 5200              | [96607f4270](https://linux-hardware.org/?probe=96607f4270) | Nov 12, 2020 |
+| NetGear    | ReadyDATA 5200              | [96607f4270](https://linux-hardware.org/?probe=96607f4270) | Nov 12, 2020 |
 | ASRock     | Z390M-ITX/ac                | [06eb8afdbc](https://linux-hardware.org/?probe=06eb8afdbc) | Oct 19, 2020 |
 | ASUSTek    | PRIME B450-PLUS             | [d42d44dd82](https://linux-hardware.org/?probe=d42d44dd82) | Jul 23, 2020 |
 | ASUSTek    | PRIME B450-PLUS             | [888f105221](https://linux-hardware.org/?probe=888f105221) | Jul 23, 2020 |
@@ -442,7 +442,7 @@ Motherboard manufacturer
 | Dell                | 2        | 6.45%   |
 | Supermicro          | 1        | 3.23%   |
 | Shuttle             | 1        | 3.23%   |
-| NETGEAR             | 1        | 3.23%   |
+| NetGear             | 1        | 3.23%   |
 | MSI                 | 1        | 3.23%   |
 | Intel               | 1        | 3.23%   |
 | Huanan              | 1        | 3.23%   |
@@ -462,7 +462,7 @@ Motherboard model
 | ASUS All Series                     | 3        | 9.68%   |
 | Supermicro X9DA7/E                  | 1        | 3.23%   |
 | Shuttle NC03U                       | 1        | 3.23%   |
-| NETGEAR ReadyDATA 5200              | 1        | 3.23%   |
+| NetGear ReadyDATA 5200              | 1        | 3.23%   |
 | MSI MS-7529                         | 1        | 3.23%   |
 | Intel DZ77RE-75K AAG39010-302       | 1        | 3.23%   |
 | Huanan X79-8D VAA31                 | 1        | 3.23%   |
@@ -504,7 +504,7 @@ Motherboard model prefix
 | Dell Precision     | 2        | 6.45%   |
 | Supermicro X9DA7   | 1        | 3.23%   |
 | Shuttle NC03U      | 1        | 3.23%   |
-| NETGEAR ReadyDATA  | 1        | 3.23%   |
+| NetGear ReadyDATA  | 1        | 3.23%   |
 | MSI MS-7529        | 1        | 3.23%   |
 | Intel DZ77RE-75K   | 1        | 3.23%   |
 | Huanan X79-8D      | 1        | 3.23%   |
@@ -783,9 +783,9 @@ Hard drive vendors
 | Intel               | 2        | 2      | 3.51%   |
 | A-DATA Technology   | 2        | 2      | 3.51%   |
 | Team                | 1        | 1      | 1.75%   |
-| SK Hynix            | 1        | 1      | 1.75%   |
+| SK hynix            | 1        | 1      | 1.75%   |
 | SanDisk             | 1        | 1      | 1.75%   |
-| MAXTOR              | 1        | 1      | 1.75%   |
+| Maxtor              | 1        | 1      | 1.75%   |
 | HGST                | 1        | 1      | 1.75%   |
 | Fujitsu             | 1        | 1      | 1.75%   |
 | Crucial             | 1        | 1      | 1.75%   |
@@ -835,7 +835,7 @@ Hard drive models
 | Toshiba DT01ACA200 2TB                        | 1        | 1.23%   |
 | Toshiba DT01ACA100 1TB                        | 1        | 1.23%   |
 | Team T253X1480G 480GB SSD                     | 1        | 1.23%   |
-| SK Hynix SHGP31-1000GM-2 1TB                  | 1        | 1.23%   |
+| SK hynix SHGP31-1000GM-2 1TB                  | 1        | 1.23%   |
 | Seagate ST980310AS 80GB                       | 1        | 1.23%   |
 | Seagate ST4000DM004-2CV104 4TB                | 1        | 1.23%   |
 | Seagate ST380819AS 80GB                       | 1        | 1.23%   |
@@ -861,7 +861,7 @@ Hard drive models
 | Samsung NVMe SSD Controller SM981/PM981 512GB | 1        | 1.23%   |
 | Samsung HD501LJ 500GB                         | 1        | 1.23%   |
 | Samsung HD160JJ 160GB                         | 1        | 1.23%   |
-| MAXTOR 4G120J6 128GB                          | 1        | 1.23%   |
+| Maxtor 4G120J6 128GB                          | 1        | 1.23%   |
 
 HDD Vendor
 ----------
@@ -878,7 +878,7 @@ Hard disk drive vendors
 | Toshiba             | 5        | 11     | 13.16%  |
 | Hitachi             | 3        | 3      | 7.89%   |
 | Samsung Electronics | 2        | 2      | 5.26%   |
-| MAXTOR              | 1        | 1      | 2.63%   |
+| Maxtor              | 1        | 1      | 2.63%   |
 | HGST                | 1        | 1      | 2.63%   |
 | Fujitsu             | 1        | 1      | 2.63%   |
 
@@ -1014,7 +1014,7 @@ Drive models with a malfunction
 | Seagate ST1000VM002-1SD102 1TB     | 1        | 1      | 5%      |
 | Seagate ST1000NM0011 1TB           | 1        | 2      | 5%      |
 | SanDisk SDSA6MM-016G-1006 16GB SSD | 1        | 1      | 5%      |
-| MAXTOR 4G120J6 128GB               | 1        | 1      | 5%      |
+| Maxtor 4G120J6 128GB               | 1        | 1      | 5%      |
 | Intel SSDSA2M080G2GC 80GB          | 1        | 1      | 5%      |
 | Hitachi HDS721050CLA660 500GB      | 1        | 1      | 5%      |
 | HGST HDN726040ALE614 4TB           | 1        | 1      | 5%      |
@@ -1032,7 +1032,7 @@ Vendors of faulty drives
 | WDC     | 7        | 15     | 38.89%  |
 | Seagate | 6        | 7      | 33.33%  |
 | SanDisk | 1        | 1      | 5.56%   |
-| MAXTOR  | 1        | 1      | 5.56%   |
+| Maxtor  | 1        | 1      | 5.56%   |
 | Intel   | 1        | 1      | 5.56%   |
 | Hitachi | 1        | 1      | 5.56%   |
 | HGST    | 1        | 1      | 5.56%   |
@@ -1049,7 +1049,7 @@ Vendors of faulty HDD drives
 |---------|----------|--------|---------|
 | WDC     | 7        | 15     | 43.75%  |
 | Seagate | 6        | 7      | 37.5%   |
-| MAXTOR  | 1        | 1      | 6.25%   |
+| Maxtor  | 1        | 1      | 6.25%   |
 | Hitachi | 1        | 1      | 6.25%   |
 | HGST    | 1        | 1      | 6.25%   |
 
@@ -1113,9 +1113,9 @@ Storage controller vendors
 | ASMedia Technology       | 3        | 6.25%   |
 | Marvell Technology Group | 2        | 4.17%   |
 | Broadcom / LSI           | 2        | 4.17%   |
-| SK Hynix                 | 1        | 2.08%   |
+| SK hynix                 | 1        | 2.08%   |
 | Silicon Image            | 1        | 2.08%   |
-| Sandisk                  | 1        | 2.08%   |
+| SanDisk                  | 1        | 2.08%   |
 | Realtek Semiconductor    | 1        | 2.08%   |
 | Nvidia                   | 1        | 2.08%   |
 | JMicron Technology       | 1        | 2.08%   |
@@ -1140,9 +1140,9 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                            | 2        | 3.23%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2        | 3.23%   |
 | AMD 400 Series Chipset SATA Controller                                           | 2        | 3.23%   |
-| SK Hynix Gold P31 SSD                                                            | 1        | 1.61%   |
+| SK hynix Gold P31 SSD                                                            | 1        | 1.61%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 1.61%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                   | 1        | 1.61%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                   | 1        | 1.61%   |
 | Samsung Apple PCIe SSD                                                           | 1        | 1.61%   |
 | Realtek Realtek Non-Volatile memory controller                                   | 1        | 1.61%   |
 | Nvidia MCP61 SATA Controller                                                     | 1        | 1.61%   |
@@ -1532,7 +1532,7 @@ Monitor models
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.13%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.13%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.13%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 3.13%   |
+| Toshiba TV TSB0206 1920x1080                                         | 1        | 3.13%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 3.13%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1        | 3.13%   |
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1        | 3.13%   |
@@ -1989,7 +1989,7 @@ Sound card models
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1        | 1.82%   |
 | Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1        | 1.82%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1        | 1.82%   |
-| C-Media Electronics SADES Luna                                                                    | 1        | 1.82%   |
+| C-Media Electronics USB Audio Device                                                              | 1        | 1.82%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1        | 1.82%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1        | 1.82%   |
 | AMD Navi 10 HDMI Audio                                                                            | 1        | 1.82%   |
@@ -2013,7 +2013,7 @@ Memory module vendors
 | Kingston            | 6        | 18.18%  |
 | Corsair             | 6        | 18.18%  |
 | Unknown             | 4        | 12.12%  |
-| SK Hynix            | 4        | 12.12%  |
+| SK hynix            | 4        | 12.12%  |
 | Crucial             | 4        | 12.12%  |
 | Samsung Electronics | 2        | 6.06%   |
 | Micron Technology   | 2        | 6.06%   |
@@ -2040,19 +2040,19 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.56%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.56%   |
 | Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s       | 1        | 2.56%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s         | 1        | 2.56%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.56%   |
-| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.56%   |
-| SK Hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
-| SK Hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.56%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s        | 1        | 2.56%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.56%   |
+| SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s    | 1        | 2.56%   |
+| SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
+| SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.56%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.56%   |
 | Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.56%   |
 | Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s     | 1        | 2.56%   |
 | Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s        | 1        | 2.56%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.56%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.56%   |
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s     | 1        | 2.56%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.56%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.56%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
 | Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.56%   |
@@ -2063,7 +2063,7 @@ Memory module models
 | Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s    | 1        | 2.56%   |
 | Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s    | 1        | 2.56%   |
 | Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s | 1        | 2.56%   |
-| Corsair RAM CMZ32GX3M4X1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.56%   |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.56%   |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.56%   |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |

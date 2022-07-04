@@ -848,8 +848,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 27       | 50%     |
-| No        | 27       | 50%     |
+| No        | 27       | 50.94%  |
+| Yes       | 26       | 49.06%  |
 
 Has Ethernet
 ------------
@@ -955,12 +955,12 @@ Hard drive vendors
 | XPG                   | 4        | 4      | 4.71%   |
 | ZOTAC                 | 2        | 3      | 2.35%   |
 | Realtek Semiconductor | 2        | 3      | 2.35%   |
-| MAXTOR                | 2        | 2      | 2.35%   |
+| Maxtor                | 2        | 2      | 2.35%   |
 | HGST                  | 2        | 2      | 2.35%   |
 | WD MediaMax           | 1        | 1      | 1.18%   |
 | SanDisk               | 1        | 1      | 1.18%   |
 | Patriot               | 1        | 1      | 1.18%   |
-| JMicron               | 1        | 1      | 1.18%   |
+| JMicron Technology    | 1        | 1      | 1.18%   |
 | Intel                 | 1        | 1      | 1.18%   |
 | Crucial               | 1        | 1      | 1.18%   |
 
@@ -978,7 +978,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A1 1TB             | 3        | 3.23%   |
 | Seagate ST1000DM003-1CH162 1TB       | 3        | 3.23%   |
 | Kingston SA400S37240G 240GB SSD      | 3        | 3.23%   |
-| XPG GAMMIX S11 Pro 256GB             | 2        | 2.15%   |
+| XPG GAMMIX S11 Pro 1TB               | 2        | 2.15%   |
 | Toshiba DT01ACA100 1TB               | 2        | 2.15%   |
 | Seagate ST8000DM004-2CX188 8TB       | 2        | 2.15%   |
 | Seagate ST380815AS 80GB              | 2        | 2.15%   |
@@ -1019,7 +1019,7 @@ Hard drive models
 | Seagate ST2000LM015-2E8174 2TB       | 1        | 1.08%   |
 | Seagate ST2000LM007-1R8174 2TB       | 1        | 1.08%   |
 | Seagate ST1000DM010-2EP102 1TB       | 1        | 1.08%   |
-| Seagate Expansion Desk 10TB          | 1        | 1.08%   |
+| Seagate Expansion+ Desk 4TB          | 1        | 1.08%   |
 | Seagate Backup+ Hub BK 8TB           | 1        | 1.08%   |
 | Seagate Backup+ Desk 5TB             | 1        | 1.08%   |
 | SanDisk SD6SB1M-128G-1006 128GB SSD  | 1        | 1.08%   |
@@ -1031,8 +1031,8 @@ Hard drive models
 | Realtek NVMe SSD Drive 512GB         | 1        | 1.08%   |
 | Realtek NVMe SSD Drive 256GB         | 1        | 1.08%   |
 | Patriot Burst 480GB SSD              | 1        | 1.08%   |
-| MAXTOR STM3500630AS 500GB            | 1        | 1.08%   |
-| MAXTOR STM3160215AS 160GB            | 1        | 1.08%   |
+| Maxtor STM3500630AS 500GB            | 1        | 1.08%   |
+| Maxtor STM3160215AS 160GB            | 1        | 1.08%   |
 | Kingston SV300S37A120G 120GB SSD     | 1        | 1.08%   |
 
 HDD Vendor
@@ -1043,14 +1043,15 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| Seagate | 20       | 36     | 41.67%  |
-| WDC     | 15       | 17     | 31.25%  |
-| Hitachi | 5        | 7      | 10.42%  |
-| Toshiba | 4        | 5      | 8.33%   |
-| MAXTOR  | 2        | 2      | 4.17%   |
-| HGST    | 2        | 2      | 4.17%   |
+| Vendor             | Desktops | Drives | Percent |
+|--------------------|----------|--------|---------|
+| Seagate            | 20       | 36     | 40.82%  |
+| WDC                | 15       | 17     | 30.61%  |
+| Hitachi            | 5        | 7      | 10.2%   |
+| Toshiba            | 4        | 5      | 8.16%   |
+| Maxtor             | 2        | 2      | 4.08%   |
+| HGST               | 2        | 2      | 4.08%   |
+| JMicron Technology | 1        | 1      | 2.04%   |
 
 SSD Vendor
 ----------
@@ -1062,15 +1063,14 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| A-DATA Technology   | 8        | 8      | 34.78%  |
-| Kingston            | 6        | 8      | 26.09%  |
-| ZOTAC               | 2        | 3      | 8.7%    |
-| Samsung Electronics | 2        | 4      | 8.7%    |
-| SanDisk             | 1        | 1      | 4.35%   |
-| Patriot             | 1        | 1      | 4.35%   |
-| JMicron             | 1        | 1      | 4.35%   |
-| Intel               | 1        | 1      | 4.35%   |
-| Crucial             | 1        | 1      | 4.35%   |
+| A-DATA Technology   | 8        | 8      | 36.36%  |
+| Kingston            | 6        | 8      | 27.27%  |
+| ZOTAC               | 2        | 3      | 9.09%   |
+| Samsung Electronics | 2        | 4      | 9.09%   |
+| SanDisk             | 1        | 1      | 4.55%   |
+| Patriot             | 1        | 1      | 4.55%   |
+| Intel               | 1        | 1      | 4.55%   |
+| Crucial             | 1        | 1      | 4.55%   |
 
 Drive Kind
 ----------
@@ -1082,8 +1082,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 39       | 69     | 54.17%  |
-| SSD     | 22       | 28     | 30.56%  |
+| HDD     | 39       | 70     | 54.17%  |
+| SSD     | 22       | 27     | 30.56%  |
 | NVMe    | 10       | 15     | 13.89%  |
 | Unknown | 1        | 2      | 1.39%   |
 
@@ -1111,11 +1111,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 39       | 55     | 57.35%  |
-| 0.51-1.0   | 20       | 24     | 29.41%  |
-| 4.01-10.0  | 5        | 13     | 7.35%   |
-| 1.01-2.0   | 3        | 4      | 4.41%   |
-| 3.01-4.0   | 1        | 1      | 1.47%   |
+| 0.01-0.5   | 39       | 54     | 55.71%  |
+| 0.51-1.0   | 20       | 24     | 28.57%  |
+| 4.01-10.0  | 5        | 8      | 7.14%   |
+| 1.01-2.0   | 4        | 5      | 5.71%   |
+| 3.01-4.0   | 2        | 6      | 2.86%   |
 
 Space Total
 -----------
@@ -1171,7 +1171,7 @@ Drive models with a malfunction
 |-------------------------------------|----------|--------|---------|
 | Seagate ST500DM002-1BD142 500GB     | 1        | 2      | 20%     |
 | SanDisk SD6SB1M-128G-1006 128GB SSD | 1        | 1      | 20%     |
-| MAXTOR STM3160215AS 160GB           | 1        | 1      | 20%     |
+| Maxtor STM3160215AS 160GB           | 1        | 1      | 20%     |
 | Kingston SV300S37A120G 120GB SSD    | 1        | 1      | 20%     |
 | Hitachi HDE721010SLA330 1TB         | 1        | 1      | 20%     |
 
@@ -1187,7 +1187,7 @@ Vendors of faulty drives
 |----------|----------|--------|---------|
 | Seagate  | 1        | 2      | 20%     |
 | SanDisk  | 1        | 1      | 20%     |
-| MAXTOR   | 1        | 1      | 20%     |
+| Maxtor   | 1        | 1      | 20%     |
 | Kingston | 1        | 1      | 20%     |
 | Hitachi  | 1        | 1      | 20%     |
 
@@ -1202,7 +1202,7 @@ Vendors of faulty HDD drives
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | Seagate | 1        | 2      | 33.33%  |
-| MAXTOR  | 1        | 1      | 33.33%  |
+| Maxtor  | 1        | 1      | 33.33%  |
 | Hitachi | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Kind
@@ -1736,7 +1736,7 @@ Monitor models
 |----------------------------------------------------------------------|----------|---------|
 | AOC 2370 AOC2370 1920x1080 509x286mm 23.0-inch                       | 5        | 7.81%   |
 | Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch | 2        | 3.13%   |
-| Dell AW2518HF DELA102 1920x1080 544x303mm 24.5-inch                  | 2        | 3.13%   |
+| Dell LCD Monitor DELA102 1920x1080 540x300mm 24.3-inch               | 2        | 3.13%   |
 | Xerox XA3-17 XER7B10 1280x1024 337x270mm 17.0-inch                   | 1        | 1.56%   |
 | ViewSonic VA1703wb-2 VSCA21F 1440x900 367x230mm 17.1-inch            | 1        | 1.56%   |
 | ViewSonic LCD Monitor VX2458-mhd 3286x1080                           | 1        | 1.56%   |
@@ -1746,7 +1746,7 @@ Monitor models
 | Sony TV SNY0902 1360x768                                             | 1        | 1.56%   |
 | Royal Information Monitor TRL1012 1280x1024 320x240mm 15.7-inch      | 1        | 1.56%   |
 | Philips LCD Monitor 170B4 1280x1024                                  | 1        | 1.56%   |
-| Panasonic TV MEIA296 1360x768                                        | 1        | 1.56%   |
+| Panasonic TV MEIA296 3840x2160 698x392mm 31.5-inch                   | 1        | 1.56%   |
 | MSI MAG271CQP MSI3FA7 2560x1440 597x336mm 27.0-inch                  | 1        | 1.56%   |
 | LTM LCD_VGA LTM0659 1024x768 880x500mm 39.8-inch                     | 1        | 1.56%   |
 | Lenovo LEN LS1922wA LEN0A14 1366x768 410x230mm 18.5-inch             | 1        | 1.56%   |
@@ -1758,25 +1758,25 @@ Monitor models
 | Hewlett-Packard L1910 HWP26E6 1280x1024 380x300mm 19.1-inch          | 1        | 1.56%   |
 | Hewlett-Packard L1908w HWP26F0 1440x900 410x256mm 19.0-inch          | 1        | 1.56%   |
 | Hewlett-Packard Compaq W1952a HWP3010 1366x768 410x230mm 18.5-inch   | 1        | 1.56%   |
-| Hewlett-Packard All in One HWP410E 1366x768 410x230mm 18.5-inch      | 1        | 1.56%   |
+| Hewlett-Packard Compaq CQ-1 HWP410E 1366x768 410x230mm 18.5-inch     | 1        | 1.56%   |
 | Haier HAIER HRE0030 1920x1080 708x398mm 32.0-inch                    | 1        | 1.56%   |
 | Goldstar MP59G GSM5B34 1920x1080 480x270mm 21.7-inch                 | 1        | 1.56%   |
 | Goldstar MP59G GSM5B33 1920x1080 480x270mm 21.7-inch                 | 1        | 1.56%   |
-| Goldstar LG HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch             | 1        | 1.56%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch              | 1        | 1.56%   |
 | Goldstar HDR WFHD GSM5B9F 2560x1080 798x334mm 34.1-inch              | 1        | 1.56%   |
+| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                | 1        | 1.56%   |
 | Goldstar HD PLUS GSM5AC5 1600x900 440x250mm 19.9-inch                | 1        | 1.56%   |
 | Goldstar FULL HD GSM5B9E 1920x1080 600x340mm 27.2-inch               | 1        | 1.56%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 1        | 1.56%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 1.56%   |
-| Dell P2415Q DELA0BE 3840x2160 527x296mm 23.8-inch                    | 1        | 1.56%   |
+| Dell P2415Q DELA0BE 3840x2160 530x300mm 24.0-inch                    | 1        | 1.56%   |
 | Dell E2211H DELA071 1920x1080 477x268mm 21.5-inch                    | 1        | 1.56%   |
 | Dell E1911 DELF036 1440x900 408x255mm 18.9-inch                      | 1        | 1.56%   |
 | Dell 1908FP DEL4026 1280x1024 376x301mm 19.0-inch                    | 1        | 1.56%   |
 | Dell 1708FP DEL4023 1280x1024 338x270mm 17.0-inch                    | 1        | 1.56%   |
 | BenQ RL2455 BNQ7F1C 1920x1080 531x298mm 24.0-inch                    | 1        | 1.56%   |
 | BenQ PC BNQ7816 1366x768 430x254mm 19.7-inch                         | 1        | 1.56%   |
-| BenQ GL2450 BNQ78A4 1920x1080 531x298mm 24.0-inch                    | 1        | 1.56%   |
+| BenQ GL2450 BNQ78A4 1920x1080 530x300mm 24.0-inch                    | 1        | 1.56%   |
 | AOC LCD Monitor 2260WG5 1920x1080                                    | 1        | 1.56%   |
 | AOC LCD Monitor 2036 1600x900                                        | 1        | 1.56%   |
 | AOC LCD Monitor 1970W                                                | 1        | 1.56%   |
@@ -2203,8 +2203,8 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)          | 5        | 35.71%  |
 | Intel Centrino Bluetooth Wireless Transceiver                | 2        | 14.29%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter                     | 1        | 7.14%   |
+| Intel Bluetooth Device                                       | 1        | 7.14%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)               | 1        | 7.14%   |
-| Intel AX201 Bluetooth                                        | 1        | 7.14%   |
 | Intel AX200 Bluetooth                                        | 1        | 7.14%   |
 | Broadcom 2045 Bluetooth 2.0 USB-UHE Device with trace filter | 1        | 7.14%   |
 | ASUS Qualcomm Bluetooth 4.1                                  | 1        | 7.14%   |
@@ -2232,7 +2232,7 @@ Sound card vendors
 | Corsair                 | 1        | 1.25%   |
 | C-Media Electronics     | 1        | 1.25%   |
 | BEHRINGER International | 1        | 1.25%   |
-| Argosy research         | 1        | 1.25%   |
+| Argosy Research         | 1        | 1.25%   |
 
 Sound Model
 -----------
@@ -2263,7 +2263,7 @@ Sound card models
 | Intel 82801JI (ICH10 Family) HD Audio Controller                                  | 2        | 2.15%   |
 | AMD Family 17h/19h HD Audio Controller                                            | 2        | 2.15%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                            | 2        | 2.15%   |
-| Realtek Semiconductor TX-Hifi Type_C Audio                                        | 1        | 1.08%   |
+| Realtek Semiconductor USB Condenser Microphone                                    | 1        | 1.08%   |
 | Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller                    | 1        | 1.08%   |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 1.08%   |
 | Nvidia MCP79 High Definition Audio                                                | 1        | 1.08%   |
@@ -2281,7 +2281,7 @@ Sound card models
 | Corsair VIRTUOSO USB Gaming Headset                                               | 1        | 1.08%   |
 | C-Media Electronics CMI8738/CMI8768 PCI Audio                                     | 1        | 1.08%   |
 | BEHRINGER International UMC202HD 192k                                             | 1        | 1.08%   |
-| Argosy research Argosy Multimedia audio controller                                | 1        | 1.08%   |
+| Argosy Research Argosy Multimedia audio controller                                | 1        | 1.08%   |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                         | 1        | 1.08%   |
 | AMD Renoir Radeon High Definition Audio Controller                                | 1        | 1.08%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                               | 1        | 1.08%   |
@@ -2304,7 +2304,7 @@ Memory module vendors
 |---------------------|----------|---------|
 | Kingston            | 11       | 28.21%  |
 | Micron Technology   | 9        | 23.08%  |
-| SK Hynix            | 5        | 12.82%  |
+| SK hynix            | 5        | 12.82%  |
 | Samsung Electronics | 3        | 7.69%   |
 | Corsair             | 3        | 7.69%   |
 | Crucial             | 2        | 5.13%   |
@@ -2329,23 +2329,23 @@ Memory module models
 | Kingston RAM 9905402-174.A00G 4GB DIMM DDR3 1600MT/s      | 2        | 4.55%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                | 1        | 2.27%   |
 | Unknown RAM Module 2048MB SODIMM DDR2 667MT/s             | 1        | 2.27%   |
-| SK Hynix RAM Module 16GB DIMM DDR4 2667MT/s               | 1        | 2.27%   |
-| SK Hynix RAM HMT451U6BFR8C-PB 4096MB DIMM DDR3 1600MT/s   | 1        | 2.27%   |
-| SK Hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s   | 1        | 2.27%   |
-| SK Hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s   | 1        | 2.27%   |
-| SK Hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 2.27%   |
-| SK Hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s | 1        | 2.27%   |
+| SK hynix RAM Module 16GB DIMM DDR4 2667MT/s               | 1        | 2.27%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 2.27%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 2.27%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s    | 1        | 2.27%   |
 | Samsung RAM M378B5773CH0-CK0 2GB DIMM DDR3 1600MT/s       | 1        | 2.27%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s       | 1        | 2.27%   |
 | Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s      | 1        | 2.27%   |
-| Patriot RAM PSD48G266681 8192MB DIMM DDR4 2934MT/s        | 1        | 2.27%   |
+| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s           | 1        | 2.27%   |
 | Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s  | 1        | 2.27%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
 | Micron RAM 16JTF25664AZ-1G4F1 2GB DIMM 1333MT/s           | 1        | 2.27%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2400MT/s    | 1        | 2.27%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 1        | 2.27%   |
 | Kingston RAM KHX2666C15/16G 16GB DIMM DDR4 2666MT/s       | 1        | 2.27%   |
-| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 2933MT/s      | 1        | 2.27%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s         | 1        | 2.27%   |
 | Kingston RAM 99U5624-001.A00G 8GB SODIMM DDR4 2400MT/s    | 1        | 2.27%   |
 | Kingston RAM 99U5403-067.A00LF 4096MB DIMM DDR3 1600MT/s  | 1        | 2.27%   |
 | Kingston RAM 99U5403-050.A00 F 4GB DIMM DDR3 667MT/s      | 1        | 2.27%   |
@@ -2359,8 +2359,8 @@ Memory module models
 | Corsair RAM CMK8GX4M1A2400C16 8GB DIMM DDR4 2800MT/s      | 1        | 2.27%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 2.27%   |
 | Corsair RAM CMD16GX4M2B3000C15 8192MB DIMM DDR4 3100MT/s  | 1        | 2.27%   |
-| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3200MT/s               | 1        | 2.27%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s               | 1        | 2.27%   |
+| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3400MT/s               | 1        | 2.27%   |
+| A-DATA RAM DDR4 3000 8192MB DIMM DDR4 3600MT/s            | 1        | 2.27%   |
 
 Memory Kind
 -----------
@@ -2424,7 +2424,7 @@ Memory module speed
 | 3466  | 2        | 5.56%   |
 | 2933  | 2        | 5.56%   |
 | 667   | 2        | 5.56%   |
-| 3200  | 1        | 2.78%   |
+| 3400  | 1        | 2.78%   |
 | 3100  | 1        | 2.78%   |
 | 2934  | 1        | 2.78%   |
 | 2800  | 1        | 2.78%   |
@@ -2514,7 +2514,7 @@ Camera device models
 |---------------------------------------|----------|---------|
 | Logitech Webcam C270                  | 3        | 20%     |
 | Microsoft LifeCam HD-3000             | 2        | 13.33%  |
-| Z-Star Vimicro USB Camera (Altair)    | 1        | 6.67%   |
+| Z-Star A4 tech USB2.0 Camera          | 1        | 6.67%   |
 | Philips (or NXP) SPC 1300NC PC Camera | 1        | 6.67%   |
 | Microsoft LifeCam Cinema              | 1        | 6.67%   |
 | Microdia USB 2.0 Camera               | 1        | 6.67%   |

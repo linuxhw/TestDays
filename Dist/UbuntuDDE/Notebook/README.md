@@ -871,7 +871,7 @@ Hard drive vendors
 | HGST                | 2         | 2      | 3.7%    |
 | Fujitsu             | 2         | 2      | 3.7%    |
 | XrayDisk            | 1         | 1      | 1.85%   |
-| SK Hynix            | 1         | 3      | 1.85%   |
+| SK hynix            | 1         | 3      | 1.85%   |
 | KingSpec            | 1         | 1      | 1.85%   |
 | Intenso             | 1         | 1      | 1.85%   |
 | Hitachi             | 1         | 1      | 1.85%   |
@@ -906,8 +906,8 @@ Hard drive models
 | Toshiba MK7559GSXP 752GB               | 1         | 1.82%   |
 | Toshiba MK5059GSXP 500GB               | 1         | 1.82%   |
 | Toshiba KBG30ZMS128G 128GB NVMe SSD    | 1         | 1.82%   |
-| SK Hynix PC401 NVMe 1TB                | 1         | 1.82%   |
-| SK Hynix NVMe SSD Drive 1024GB         | 1         | 1.82%   |
+| SK hynix PC401 NVMe 1TB                | 1         | 1.82%   |
+| SK hynix NVMe SSD Drive 1024GB         | 1         | 1.82%   |
 | Seagate ST9500325AS 500GB              | 1         | 1.82%   |
 | Seagate ST500LT015-1DJ142 500GB        | 1         | 1.82%   |
 | Seagate ST500LM012 HN-M500MBB 500GB    | 1         | 1.82%   |
@@ -927,8 +927,8 @@ Hard drive models
 | Kingston SV300S37A120G 120GB SSD       | 1         | 1.82%   |
 | Kingston SA400S37120G 120GB SSD        | 1         | 1.82%   |
 | Kingston RBU-SNS8100S3128GD1 128GB SSD | 1         | 1.82%   |
-| KingSpec MSH-128 128GB                 | 1         | 1.82%   |
-| Intenso SATA III SSD 240GB             | 1         | 1.82%   |
+| KingSpec MSH-128 128GB SSD             | 1         | 1.82%   |
+| Intenso SATA III SSD 120GB             | 1         | 1.82%   |
 | Hitachi HTS543232A7A384 320GB          | 1         | 1.82%   |
 | HGST HTS721010A9E630 1TB               | 1         | 1.82%   |
 | HGST HTS541010B7E610 1TB               | 1         | 1.82%   |
@@ -968,15 +968,16 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Kingston            | 3         | 3      | 21.43%  |
-| SanDisk             | 2         | 2      | 14.29%  |
-| Micron Technology   | 2         | 2      | 14.29%  |
-| Crucial             | 2         | 2      | 14.29%  |
-| WDC                 | 1         | 1      | 7.14%   |
-| Samsung Electronics | 1         | 1      | 7.14%   |
-| Intenso             | 1         | 1      | 7.14%   |
-| China               | 1         | 1      | 7.14%   |
-| A-DATA Technology   | 1         | 1      | 7.14%   |
+| Kingston            | 3         | 3      | 20%     |
+| SanDisk             | 2         | 2      | 13.33%  |
+| Micron Technology   | 2         | 2      | 13.33%  |
+| Crucial             | 2         | 2      | 13.33%  |
+| WDC                 | 1         | 1      | 6.67%   |
+| Samsung Electronics | 1         | 1      | 6.67%   |
+| KingSpec            | 1         | 1      | 6.67%   |
+| Intenso             | 1         | 1      | 6.67%   |
+| China               | 1         | 1      | 6.67%   |
+| A-DATA Technology   | 1         | 1      | 6.67%   |
 
 Drive Kind
 ----------
@@ -988,11 +989,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 25        | 27     | 49.02%  |
-| SSD     | 14        | 14     | 27.45%  |
-| NVMe    | 8         | 11     | 15.69%  |
-| MMC     | 2         | 2      | 3.92%   |
-| Unknown | 2         | 2      | 3.92%   |
+| HDD     | 25        | 27     | 50%     |
+| SSD     | 14        | 15     | 28%     |
+| NVMe    | 8         | 11     | 16%     |
+| MMC     | 2         | 2      | 4%      |
+| Unknown | 1         | 1      | 2%      |
 
 Drive Connector
 ---------------
@@ -1018,9 +1019,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 22        | 23     | 56.41%  |
-| 0.51-1.0   | 15        | 16     | 38.46%  |
-| 1.01-2.0   | 2         | 2      | 5.13%   |
+| 0.01-0.5   | 23        | 24     | 57.5%   |
+| 0.51-1.0   | 15        | 16     | 37.5%   |
+| 1.01-2.0   | 2         | 2      | 5%      |
 
 Space Total
 -----------
@@ -1151,10 +1152,10 @@ Storage controller vendors
 | Intel                            | 36        | 76.6%   |
 | Samsung Electronics              | 3         | 6.38%   |
 | Toshiba America Info Systems     | 1         | 2.13%   |
-| SK Hynix                         | 1         | 2.13%   |
+| SK hynix                         | 1         | 2.13%   |
 | Silicon Integrated Systems [SiS] | 1         | 2.13%   |
 | Seagate Technology               | 1         | 2.13%   |
-| Sandisk                          | 1         | 2.13%   |
+| SanDisk                          | 1         | 2.13%   |
 | Micron/Crucial Technology        | 1         | 2.13%   |
 | Micron Technology                | 1         | 2.13%   |
 | AMD                              | 1         | 2.13%   |
@@ -1180,11 +1181,11 @@ Storage controller models
 | Samsung NVMe SSD Controller 980                                                | 2         | 4.08%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 2         | 4.08%   |
 | Toshiba America Info Systems BG3 NVMe SSD Controller                           | 1         | 2.04%   |
-| SK Hynix PC401 NVMe Solid State Drive 256GB                                    | 1         | 2.04%   |
+| SK hynix PC401 NVMe Solid State Drive 256GB                                    | 1         | 2.04%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                    | 1         | 2.04%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1         | 2.04%   |
 | Seagate FireCuda 510 SSD                                                       | 1         | 2.04%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 2.04%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 2.04%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 2.04%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1         | 2.04%   |
 | Micron Non-Volatile memory controller                                          | 1         | 2.04%   |
@@ -1550,19 +1551,19 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch    | 2         | 4.08%   |
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                  | 1         | 2.04%   |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 2.04%   |
-| Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 2.04%   |
+| Samsung Electronics T22B300 SAM092D 1920x1080 480x270mm 21.7-inch        | 1         | 2.04%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 2.04%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
-| Samsung Electronics LCD Monitor SEC3157 1440x900 303x190mm 14.1-inch     | 1         | 2.04%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 2.04%   |
+| Samsung Electronics LCD Monitor SEC3157 1280x800 261x163mm 12.1-inch     | 1         | 2.04%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
-| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                  | 1         | 2.04%   |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                   | 1         | 2.04%   |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch             | 1         | 2.04%   |
 | LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch             | 1         | 2.04%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 2.04%   |
@@ -1683,13 +1684,12 @@ Area in inch²
 |----------------|-----------|---------|
 | 101-110        | 25        | 52.08%  |
 | 81-90          | 10        | 20.83%  |
-| 201-250        | 3         | 6.25%   |
+| 201-250        | 4         | 8.33%   |
 | 121-130        | 3         | 6.25%   |
 | 61-70          | 2         | 4.17%   |
 | 351-500        | 2         | 4.17%   |
 | 71-80          | 1         | 2.08%   |
 | 301-350        | 1         | 2.08%   |
-| 151-200        | 1         | 2.08%   |
 
 Pixel Density
 -------------
@@ -2009,8 +2009,8 @@ Controller models
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 6.06%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 6.06%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 2         | 6.06%   |
+| Intel Bluetooth Device                              | 2         | 6.06%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 6.06%   |
-| Intel AX201 Bluetooth                               | 2         | 6.06%   |
 | IMC Networks Bluetooth Radio                        | 2         | 6.06%   |
 | Toshiba Bluetooth Device                            | 1         | 3.03%   |
 | Realtek Bluetooth Radio                             | 1         | 3.03%   |
@@ -2096,7 +2096,7 @@ Memory module vendors
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
 | Samsung Electronics | 10        | 40%     |
-| SK Hynix            | 6         | 24%     |
+| SK hynix            | 6         | 24%     |
 | Micron Technology   | 4         | 16%     |
 | Kingston            | 2         | 8%      |
 | Teikon              | 1         | 4%      |
@@ -2114,28 +2114,28 @@ Memory module models
 | Model                                                      | Notebooks | Percent |
 |------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 2         | 8%      |
-| Teikon RAM TMT251S6CFR8C-PBHC 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK Hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
-| SK Hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1334MT/s  | 1         | 4%      |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
-| SK Hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
+| Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
+| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1334MT/s  | 1         | 4%      |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
+| SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
+| Samsung RAM M471A5244BB0-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s     | 1         | 4%      |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
+| Samsung RAM M471A1K43CB1-CRC 8192MB SODIMM DDR4 2667MT/s   | 1         | 4%      |
 | Ramaxel RAM RMSA3270MB86H9F2400 4GB SODIMM DDR4 2400MT/s   | 1         | 4%      |
 | Micron RAM Module 4GB SODIMM DDR3 1600MT/s                 | 1         | 4%      |
-| Micron RAM 8ATF1G64HZ-2G1B1 8192MB SODIMM DDR4 2400MT/s    | 1         | 4%      |
+| Micron RAM 8ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2400MT/s       | 1         | 4%      |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
 | Kingston RAM KHX2133C13S4/4G 4GB SODIMM DDR4 2133MT/s      | 1         | 4%      |
-| Kingston RAM KHX1600C9S3L/8G 8192MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
+| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Crucial RAM CT16G4SFRA32A.M16FRS 16GB SODIMM DDR4 3200MT/s | 1         | 4%      |
 
 Memory Kind
@@ -2260,44 +2260,44 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                          | Notebooks | Percent |
-|------------------------------------------------|-----------|---------|
-| Microdia Integrated_Webcam_HD                  | 2         | 5.41%   |
-| Suyin WebCam                                   | 1         | 2.7%    |
-| Suyin HP Truevision HD                         | 1         | 2.7%    |
-| Suyin Asus Integrated Webcam                   | 1         | 2.7%    |
-| Suyin 1.3M HD WebCam                           | 1         | 2.7%    |
-| Sunplus Laptop_Integrated_Webcam_HD            | 1         | 2.7%    |
-| Sunplus Integrated_Webcam_HD                   | 1         | 2.7%    |
-| Sunplus HD WebCam                              | 1         | 2.7%    |
-| Silicon Motion HP Webcam-101 Integrated Camera | 1         | 2.7%    |
-| Realtek USB2.0 VGA UVC WebCam                  | 1         | 2.7%    |
-| Realtek Laptop Camera                          | 1         | 2.7%    |
-| Realtek HP Truevision HD                       | 1         | 2.7%    |
-| Quanta Laptop_Integrated_Webcam_2HDM           | 1         | 2.7%    |
-| Quanta HP TrueVision HD Camera                 | 1         | 2.7%    |
-| Quanta HD Webcam                               | 1         | 2.7%    |
-| Microdia Sonix 1.3 MP Laptop Integrated Webcam | 1         | 2.7%    |
-| Microdia Laptop_Integrated_Webcam_0.3M         | 1         | 2.7%    |
-| Microdia Integrated Webcam                     | 1         | 2.7%    |
-| Importek HP Truevision HD Integrated Webcam    | 1         | 2.7%    |
-| IMC Networks USB2.0 VGA UVC WebCam             | 1         | 2.7%    |
-| IMC Networks USB2.0 UVC HD Webcam              | 1         | 2.7%    |
-| IMC Networks USB2.0 HD UVC WebCam              | 1         | 2.7%    |
-| Chicony USB 2.0 Camera                         | 1         | 2.7%    |
-| Chicony TOSHIBA Web Camera - HD                | 1         | 2.7%    |
-| Chicony Lenovo EasyCamera                      | 1         | 2.7%    |
-| Chicony Integrated Camera                      | 1         | 2.7%    |
-| Chicony HP Wide Vision HD Camera               | 1         | 2.7%    |
-| Chicony HP Webcam [2 MP Macro]                 | 1         | 2.7%    |
-| Chicony HP Webcam                              | 1         | 2.7%    |
-| Chicony HP HD Camera                           | 1         | 2.7%    |
-| Chicony HD WebCam                              | 1         | 2.7%    |
-| Chicony EasyCamera                             | 1         | 2.7%    |
-| Acer Integrated Camera                         | 1         | 2.7%    |
-| Acer HP TrueVision HD Webcam                   | 1         | 2.7%    |
-| Acer EasyCamera                                | 1         | 2.7%    |
-| Acer BisonCam, NB Pro                          | 1         | 2.7%    |
+| Model                                                                 | Notebooks | Percent |
+|-----------------------------------------------------------------------|-----------|---------|
+| Microdia Integrated_Webcam_HD                                         | 2         | 5.41%   |
+| Suyin WebCam                                                          | 1         | 2.7%    |
+| Suyin HP Truevision HD                                                | 1         | 2.7%    |
+| Suyin Asus Integrated Webcam                                          | 1         | 2.7%    |
+| Suyin 1.3M HD WebCam                                                  | 1         | 2.7%    |
+| Sunplus Laptop_Integrated_Webcam_HD                                   | 1         | 2.7%    |
+| Sunplus Integrated_Webcam_HD                                          | 1         | 2.7%    |
+| Sunplus HD WebCam                                                     | 1         | 2.7%    |
+| Silicon Motion HP Webcam-101 Integrated Camera                        | 1         | 2.7%    |
+| Realtek USB2.0 VGA UVC WebCam                                         | 1         | 2.7%    |
+| Realtek Laptop Camera                                                 | 1         | 2.7%    |
+| Realtek HP Truevision HD                                              | 1         | 2.7%    |
+| Quanta Laptop_Integrated_Webcam_2HDM                                  | 1         | 2.7%    |
+| Quanta HP TrueVision HD Camera                                        | 1         | 2.7%    |
+| Quanta HD Webcam                                                      | 1         | 2.7%    |
+| Microdia Sonix 1.3 MP Laptop Integrated Webcam                        | 1         | 2.7%    |
+| Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 2.7%    |
+| Microdia Integrated Webcam                                            | 1         | 2.7%    |
+| Importek HP Truevision HD Integrated Webcam                           | 1         | 2.7%    |
+| IMC Networks USB2.0 VGA UVC WebCam                                    | 1         | 2.7%    |
+| IMC Networks USB2.0 UVC HD Webcam                                     | 1         | 2.7%    |
+| IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 2.7%    |
+| Chicony USB 2.0 Camera                                                | 1         | 2.7%    |
+| Chicony TOSHIBA Web Camera - HD                                       | 1         | 2.7%    |
+| Chicony Lenovo EasyCamera                                             | 1         | 2.7%    |
+| Chicony Integrated Camera                                             | 1         | 2.7%    |
+| Chicony HP Wide Vision HD Camera                                      | 1         | 2.7%    |
+| Chicony HP Webcam [2 MP Macro]                                        | 1         | 2.7%    |
+| Chicony HP Webcam                                                     | 1         | 2.7%    |
+| Chicony HP HD Camera                                                  | 1         | 2.7%    |
+| Chicony HD WebCam                                                     | 1         | 2.7%    |
+| Chicony EasyCamera                                                    | 1         | 2.7%    |
+| Acer Integrated Camera                                                | 1         | 2.7%    |
+| Acer HP TrueVision HD Webcam                                          | 1         | 2.7%    |
+| Acer EasyCamera                                                       | 1         | 2.7%    |
+| Acer BisonCam, NB Pro                                                 | 1         | 2.7%    |
 
 Security
 --------

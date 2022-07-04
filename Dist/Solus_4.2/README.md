@@ -759,7 +759,7 @@ Hard drive vendors
 | A-DATA Technology   | 2         | 2      | 5.26%   |
 | Unknown             | 1         | 1      | 2.63%   |
 | Transcend           | 1         | 1      | 2.63%   |
-| SK Hynix            | 1         | 1      | 2.63%   |
+| SK hynix            | 1         | 1      | 2.63%   |
 | Patriot             | 1         | 1      | 2.63%   |
 | Intel               | 1         | 1      | 2.63%   |
 | HGST                | 1         | 1      | 2.63%   |
@@ -781,7 +781,7 @@ Hard drive models
 | Seagate ST500DM002-1BD142 500GB          | 2         | 4.44%   |
 | Seagate ST31000524AS 1TB                 | 2         | 4.44%   |
 | Samsung SSD 850 EVO 250GB                | 2         | 4.44%   |
-| Samsung NVMe SSD Drive 500GB             | 2         | 4.44%   |
+| Samsung SM963 2.5" NVMe PCIe SSD 500GB   | 2         | 4.44%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 2.22%   |
 | WDC WD40EZRZ-00GXCB0 4TB                 | 1         | 2.22%   |
 | WDC WD2500BEVT-22A23T0 250GB             | 1         | 2.22%   |
@@ -792,7 +792,7 @@ Hard drive models
 | Transcend TS240GSSD220S 240GB            | 1         | 2.22%   |
 | Toshiba MK7575GSX 752GB                  | 1         | 2.22%   |
 | Toshiba MK3275GSX 320GB                  | 1         | 2.22%   |
-| SK Hynix NVMe SSD Drive 128GB            | 1         | 2.22%   |
+| SK hynix NVMe SSD Drive 128GB            | 1         | 2.22%   |
 | Seagate ST9750420AS 752GB                | 1         | 2.22%   |
 | Seagate ST9320325AS 320GB                | 1         | 2.22%   |
 | Seagate ST2000DX002-2DV164 2TB           | 1         | 2.22%   |
@@ -802,7 +802,7 @@ Hard drive models
 | SanDisk SDSSDP064G 64GB                  | 1         | 2.22%   |
 | SanDisk SDSSDA240G 240GB                 | 1         | 2.22%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 2.22%   |
-| SanDisk Extreme SSD 500GB                | 1         | 2.22%   |
+| SanDisk Extreme SSD 1TB                  | 1         | 2.22%   |
 | Samsung SSD 970 EVO Plus 2TB             | 1         | 2.22%   |
 | Samsung SSD 970 EVO 500GB                | 1         | 2.22%   |
 | Samsung PSSD T7 500GB                    | 1         | 2.22%   |
@@ -813,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -898,10 +898,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 20        | 25     | 62.5%   |
-| 0.51-1.0   | 10        | 15     | 31.25%  |
-| 3.01-4.0   | 1         | 1      | 3.13%   |
-| 1.01-2.0   | 1         | 4      | 3.13%   |
+| 0.01-0.5   | 19        | 23     | 61.29%  |
+| 0.51-1.0   | 10        | 17     | 32.26%  |
+| 3.01-4.0   | 1         | 1      | 3.23%   |
+| 1.01-2.0   | 1         | 4      | 3.23%   |
 
 Space Total
 -----------
@@ -1029,7 +1029,7 @@ Storage controller vendors
 | Intel                       | 21        | 63.64%  |
 | Samsung Electronics         | 4         | 12.12%  |
 | AMD                         | 3         | 9.09%   |
-| SK Hynix                    | 1         | 3.03%   |
+| SK hynix                    | 1         | 3.03%   |
 | Marvell Technology Group    | 1         | 3.03%   |
 | Kingston Technology Company | 1         | 3.03%   |
 | ASMedia Technology          | 1         | 3.03%   |
@@ -1052,7 +1052,7 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 5.71%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 2         | 5.71%   |
 | AMD FCH SATA Controller [AHCI mode]                                            | 2         | 5.71%   |
-| SK Hynix BC501 NVMe Solid State Drive                                          | 1         | 2.86%   |
+| SK hynix BC501 NVMe Solid State Drive                                          | 1         | 2.86%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 2.86%   |
 | Samsung Electronics SATA controller                                            | 1         | 2.86%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo          | 1         | 2.86%   |
@@ -1410,10 +1410,10 @@ Monitor models
 |----------------------------------------------------------------------|-----------|---------|
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
-| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
@@ -1432,7 +1432,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1         | 3.45%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1828,7 +1828,7 @@ Controller models
 | Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
 | Realtek Bluetooth Radio                          | 1         | 6.67%   |
-| Qualcomm Atheros  Bluetooth Device               | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
@@ -1929,7 +1929,7 @@ Memory module models
 | Model                                                     | Computers | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 11.11%  |
-| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 11.11%  |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 11.11%  |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 11.11%  |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 11.11%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |

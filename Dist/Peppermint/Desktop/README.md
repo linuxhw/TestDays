@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 142
+Total: 143
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | ROG STRIX B450-I GAMING     | [fe963bacc6](https://linux-hardware.org/?probe=fe963bacc6) | Jun 14, 2022 |
 | ASUSTek       | ROG STRIX B450-I GAMING     | [e6a885c5df](https://linux-hardware.org/?probe=e6a885c5df) | Mar 26, 2022 |
 | ASUSTek       | ROG STRIX B450-I GAMING     | [d08bb2f15b](https://linux-hardware.org/?probe=d08bb2f15b) | Mar 25, 2022 |
 | ASRock        | N68-S3 FX                   | [f3e67de15e](https://linux-hardware.org/?probe=f3e67de15e) | Mar 20, 2022 |
@@ -341,61 +342,62 @@ Version of the Linux kernel
 
 | Version              | Desktops | Percent |
 |----------------------|----------|---------|
-| 5.0.0-37-generic     | 15       | 14.71%  |
-| 5.3.0-46-generic     | 4        | 3.92%   |
-| 5.0.0-36-generic     | 4        | 3.92%   |
-| 5.4.0-87-generic     | 3        | 2.94%   |
-| 5.4.0-66-generic     | 3        | 2.94%   |
-| 5.4.0-52-generic     | 3        | 2.94%   |
-| 5.4.0-42-generic     | 3        | 2.94%   |
-| 5.3.0-51-generic     | 3        | 2.94%   |
-| 5.3.0-40-generic     | 3        | 2.94%   |
-| 5.0.0-32-generic     | 3        | 2.94%   |
-| 4.18.0-25-generic    | 3        | 2.94%   |
-| 4.18.0-18-generic    | 3        | 2.94%   |
-| 5.4.0-67-generic     | 2        | 1.96%   |
-| 5.4.0-58-generic     | 2        | 1.96%   |
-| 5.4.0-54-generic     | 2        | 1.96%   |
-| 5.4.0-48-generic     | 2        | 1.96%   |
-| 5.3.0-59-generic     | 2        | 1.96%   |
-| 5.3.0-28-generic     | 2        | 1.96%   |
-| 5.0.0-29-generic     | 2        | 1.96%   |
-| 5.0.0-25-generic     | 2        | 1.96%   |
-| 4.15.0-43-generic    | 2        | 1.96%   |
-| 5.7.1-050701-generic | 1        | 0.98%   |
-| 5.6.7-050607-generic | 1        | 0.98%   |
-| 5.4.0-96-generic     | 1        | 0.98%   |
-| 5.4.0-91-generic     | 1        | 0.98%   |
-| 5.4.0-90-generic     | 1        | 0.98%   |
-| 5.4.0-89-generic     | 1        | 0.98%   |
-| 5.4.0-81-generic     | 1        | 0.98%   |
-| 5.4.0-80-generic     | 1        | 0.98%   |
-| 5.4.0-70-generic     | 1        | 0.98%   |
-| 5.4.0-65-generic     | 1        | 0.98%   |
-| 5.4.0-62-generic     | 1        | 0.98%   |
-| 5.4.0-60-generic     | 1        | 0.98%   |
-| 5.4.0-56-generic     | 1        | 0.98%   |
-| 5.4.0-49-generic     | 1        | 0.98%   |
-| 5.4.0-45-generic     | 1        | 0.98%   |
-| 5.4.0-105-generic    | 1        | 0.98%   |
-| 5.3.9-050309-generic | 1        | 0.98%   |
-| 5.3.6-050306-generic | 1        | 0.98%   |
-| 5.3.0-62-generic     | 1        | 0.98%   |
-| 5.3.0-53-generic     | 1        | 0.98%   |
-| 5.3.0-45-generic     | 1        | 0.98%   |
-| 5.10.0-11-amd64      | 1        | 0.98%   |
-| 5.0.0-23-generic     | 1        | 0.98%   |
-| 4.18.0-24-generic    | 1        | 0.98%   |
-| 4.15.0-91-generic    | 1        | 0.98%   |
-| 4.15.0-76-generic    | 1        | 0.98%   |
-| 4.15.0-70-generic    | 1        | 0.98%   |
-| 4.15.0-49-generic    | 1        | 0.98%   |
-| 4.15.0-47-generic    | 1        | 0.98%   |
-| 4.15.0-45-generic    | 1        | 0.98%   |
-| 4.15.0-162-generic   | 1        | 0.98%   |
-| 4.15.0-117-generic   | 1        | 0.98%   |
-| 4.15.0-112-generic   | 1        | 0.98%   |
-| 4.15.0-101-generic   | 1        | 0.98%   |
+| 5.0.0-37-generic     | 15       | 14.56%  |
+| 5.3.0-46-generic     | 4        | 3.88%   |
+| 5.0.0-36-generic     | 4        | 3.88%   |
+| 5.4.0-87-generic     | 3        | 2.91%   |
+| 5.4.0-66-generic     | 3        | 2.91%   |
+| 5.4.0-52-generic     | 3        | 2.91%   |
+| 5.4.0-42-generic     | 3        | 2.91%   |
+| 5.3.0-51-generic     | 3        | 2.91%   |
+| 5.3.0-40-generic     | 3        | 2.91%   |
+| 5.0.0-32-generic     | 3        | 2.91%   |
+| 4.18.0-25-generic    | 3        | 2.91%   |
+| 4.18.0-18-generic    | 3        | 2.91%   |
+| 5.4.0-67-generic     | 2        | 1.94%   |
+| 5.4.0-58-generic     | 2        | 1.94%   |
+| 5.4.0-54-generic     | 2        | 1.94%   |
+| 5.4.0-48-generic     | 2        | 1.94%   |
+| 5.3.0-59-generic     | 2        | 1.94%   |
+| 5.3.0-28-generic     | 2        | 1.94%   |
+| 5.0.0-29-generic     | 2        | 1.94%   |
+| 5.0.0-25-generic     | 2        | 1.94%   |
+| 4.15.0-43-generic    | 2        | 1.94%   |
+| 5.7.1-050701-generic | 1        | 0.97%   |
+| 5.6.7-050607-generic | 1        | 0.97%   |
+| 5.4.0-96-generic     | 1        | 0.97%   |
+| 5.4.0-91-generic     | 1        | 0.97%   |
+| 5.4.0-90-generic     | 1        | 0.97%   |
+| 5.4.0-89-generic     | 1        | 0.97%   |
+| 5.4.0-81-generic     | 1        | 0.97%   |
+| 5.4.0-80-generic     | 1        | 0.97%   |
+| 5.4.0-70-generic     | 1        | 0.97%   |
+| 5.4.0-65-generic     | 1        | 0.97%   |
+| 5.4.0-62-generic     | 1        | 0.97%   |
+| 5.4.0-60-generic     | 1        | 0.97%   |
+| 5.4.0-56-generic     | 1        | 0.97%   |
+| 5.4.0-49-generic     | 1        | 0.97%   |
+| 5.4.0-45-generic     | 1        | 0.97%   |
+| 5.4.0-113-generic    | 1        | 0.97%   |
+| 5.4.0-105-generic    | 1        | 0.97%   |
+| 5.3.9-050309-generic | 1        | 0.97%   |
+| 5.3.6-050306-generic | 1        | 0.97%   |
+| 5.3.0-62-generic     | 1        | 0.97%   |
+| 5.3.0-53-generic     | 1        | 0.97%   |
+| 5.3.0-45-generic     | 1        | 0.97%   |
+| 5.10.0-11-amd64      | 1        | 0.97%   |
+| 5.0.0-23-generic     | 1        | 0.97%   |
+| 4.18.0-24-generic    | 1        | 0.97%   |
+| 4.15.0-91-generic    | 1        | 0.97%   |
+| 4.15.0-76-generic    | 1        | 0.97%   |
+| 4.15.0-70-generic    | 1        | 0.97%   |
+| 4.15.0-49-generic    | 1        | 0.97%   |
+| 4.15.0-47-generic    | 1        | 0.97%   |
+| 4.15.0-45-generic    | 1        | 0.97%   |
+| 4.15.0-162-generic   | 1        | 0.97%   |
+| 4.15.0-117-generic   | 1        | 0.97%   |
+| 4.15.0-112-generic   | 1        | 0.97%   |
+| 4.15.0-101-generic   | 1        | 0.97%   |
 
 Kernel Family
 -------------
@@ -846,15 +848,15 @@ Total RAM memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 3.01-4.0   | 29       | 31.52%  |
-| 1.01-2.0   | 22       | 23.91%  |
-| 8.01-16.0  | 15       | 16.3%   |
-| 4.01-8.0   | 7        | 7.61%   |
-| 2.01-3.0   | 7        | 7.61%   |
-| 16.01-24.0 | 5        | 5.43%   |
-| 32.01-64.0 | 3        | 3.26%   |
-| 0.51-1.0   | 3        | 3.26%   |
-| 24.01-32.0 | 1        | 1.09%   |
+| 3.01-4.0   | 29       | 31.18%  |
+| 1.01-2.0   | 22       | 23.66%  |
+| 8.01-16.0  | 15       | 16.13%  |
+| 4.01-8.0   | 7        | 7.53%   |
+| 2.01-3.0   | 7        | 7.53%   |
+| 16.01-24.0 | 6        | 6.45%   |
+| 32.01-64.0 | 3        | 3.23%   |
+| 0.51-1.0   | 3        | 3.23%   |
+| 24.01-32.0 | 1        | 1.08%   |
 
 RAM Used
 --------
@@ -866,13 +868,13 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 0.51-1.0  | 41       | 41.41%  |
-| 1.01-2.0  | 37       | 37.37%  |
-| 2.01-3.0  | 6        | 6.06%   |
-| 4.01-8.0  | 5        | 5.05%   |
-| 0.01-0.5  | 5        | 5.05%   |
-| 3.01-4.0  | 4        | 4.04%   |
-| 8.01-16.0 | 1        | 1.01%   |
+| 0.51-1.0  | 41       | 41%     |
+| 1.01-2.0  | 37       | 37%     |
+| 2.01-3.0  | 6        | 6%      |
+| 4.01-8.0  | 5        | 5%      |
+| 0.01-0.5  | 5        | 5%      |
+| 3.01-4.0  | 4        | 4%      |
+| 8.01-16.0 | 2        | 2%      |
 
 Total Drives
 ------------
@@ -1069,11 +1071,11 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 34       | 51     | 27.64%  |
+| WDC                 | 34       | 52     | 27.64%  |
 | Seagate             | 24       | 29     | 19.51%  |
 | Samsung Electronics | 15       | 20     | 12.2%   |
 | Hitachi             | 15       | 22     | 12.2%   |
-| MAXTOR              | 9        | 11     | 7.32%   |
+| Maxtor              | 9        | 11     | 7.32%   |
 | Kingston            | 7        | 9      | 5.69%   |
 | SanDisk             | 3        | 3      | 2.44%   |
 | Toshiba             | 2        | 2      | 1.63%   |
@@ -1081,12 +1083,12 @@ Hard drive vendors
 | WD MediaMax         | 1        | 1      | 0.81%   |
 | Unknown             | 1        | 1      | 0.81%   |
 | PNY                 | 1        | 2      | 0.81%   |
-| Phison              | 1        | 1      | 0.81%   |
+| Phison              | 1        | 2      | 0.81%   |
 | OCZ                 | 1        | 1      | 0.81%   |
 | Intenso             | 1        | 1      | 0.81%   |
 | GAMER               | 1        | 1      | 0.81%   |
 | Fujitsu             | 1        | 1      | 0.81%   |
-| DOGFISH             | 1        | 1      | 0.81%   |
+| Dogfish             | 1        | 1      | 0.81%   |
 | Crucial             | 1        | 2      | 0.81%   |
 | China               | 1        | 1      | 0.81%   |
 | ASMT                | 1        | 1      | 0.81%   |
@@ -1110,7 +1112,7 @@ Hard drive models
 | Seagate ST1000DM003-9YN162 1TB      | 2        | 1.52%   |
 | SanDisk SDSSDA120G 120GB            | 2        | 1.52%   |
 | Samsung SSD 860 EVO 1TB             | 2        | 1.52%   |
-| MAXTOR STM3160215AS 160GB           | 2        | 1.52%   |
+| Maxtor STM3160215AS 160GB           | 2        | 1.52%   |
 | Kingston SA400S37240G 240GB SSD     | 2        | 1.52%   |
 | Hitachi HDS721050CLA362 500GB       | 2        | 1.52%   |
 | Hitachi HDP725050GLA360 500GB       | 2        | 1.52%   |
@@ -1172,11 +1174,11 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 33       | 50     | 35.11%  |
+| WDC                 | 33       | 51     | 35.11%  |
 | Seagate             | 24       | 29     | 25.53%  |
 | Hitachi             | 15       | 22     | 15.96%  |
 | Samsung Electronics | 9        | 12     | 9.57%   |
-| MAXTOR              | 9        | 11     | 9.57%   |
+| Maxtor              | 9        | 11     | 9.57%   |
 | Toshiba             | 2        | 2      | 2.13%   |
 | WD MediaMax         | 1        | 1      | 1.06%   |
 | Fujitsu             | 1        | 1      | 1.06%   |
@@ -1198,7 +1200,7 @@ Solid state drive vendors
 | WDC                 | 1        | 1      | 4.17%   |
 | PNY                 | 1        | 2      | 4.17%   |
 | OCZ                 | 1        | 1      | 4.17%   |
-| DOGFISH             | 1        | 1      | 4.17%   |
+| Dogfish             | 1        | 1      | 4.17%   |
 | Crucial             | 1        | 2      | 4.17%   |
 | China               | 1        | 1      | 4.17%   |
 | ASMT                | 1        | 1      | 4.17%   |
@@ -1213,9 +1215,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 77       | 128    | 72.64%  |
+| HDD     | 77       | 129    | 72.64%  |
 | SSD     | 24       | 30     | 22.64%  |
-| NVMe    | 2        | 2      | 1.89%   |
+| NVMe    | 2        | 3      | 1.89%   |
 | Unknown | 2        | 2      | 1.89%   |
 | MMC     | 1        | 1      | 0.94%   |
 
@@ -1229,9 +1231,9 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 88       | 158    | 94.62%  |
+| SATA | 88       | 159    | 94.62%  |
 | SAS  | 2        | 2      | 2.15%   |
-| NVMe | 2        | 2      | 2.15%   |
+| NVMe | 2        | 3      | 2.15%   |
 | MMC  | 1        | 1      | 1.08%   |
 
 Drive Size
@@ -1247,7 +1249,7 @@ Size of hard drive
 | 0.01-0.5   | 75       | 116    | 70.09%  |
 | 0.51-1.0   | 22       | 28     | 20.56%  |
 | 1.01-2.0   | 8        | 12     | 7.48%   |
-| 2.01-3.0   | 1        | 1      | 0.93%   |
+| 2.01-3.0   | 1        | 2      | 0.93%   |
 | 4.01-10.0  | 1        | 1      | 0.93%   |
 
 Space Total
@@ -1365,7 +1367,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 87       | 156    | 94.57%  |
+| Detected | 87       | 158    | 94.57%  |
 | Works    | 3        | 5      | 3.26%   |
 | Malfunc  | 2        | 2      | 2.17%   |
 
@@ -1934,20 +1936,20 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| ___ LCDTV14 ___0101 1920x1080                                           | 2        | 2.3%    |
+| ___ LCD TV ___0101 1360x768                                             | 2        | 2.3%    |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 2        | 2.3%    |
 | Dell 1905FP DEL400C 1280x1024 380x310mm 19.3-inch                       | 2        | 2.3%    |
 | BenQ FP731 BNQ7659 1280x1024 304x228mm 15.0-inch                        | 2        | 2.3%    |
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.3%    |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.15%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.15%   |
-| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                           | 1        | 1.15%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.15%   |
+| Vestel Elektronik 28W_LCD_TV VES3700 1920x540                           | 1        | 1.15%   |
+| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.15%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.15%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.15%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.15%   |
 | Sharp LCD SHP0FF0 1360x768                                              | 1        | 1.15%   |
-| Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch          | 1        | 1.15%   |
+| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                   | 1        | 1.15%   |
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 521x293mm 23.5-inch    | 1        | 1.15%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.15%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.15%   |
@@ -1992,7 +1994,7 @@ Monitor models
 | Dell P2213 DELF041 1680x1050 473x296mm 22.0-inch                        | 1        | 1.15%   |
 | Dell LCD Monitor SE2417HG 1920x1080                                     | 1        | 1.15%   |
 | Dell IN1910N DELA04C 1366x768 410x230mm 18.5-inch                       | 1        | 1.15%   |
-| Dell E228WFP DELD015 1680x1050 470x300mm 22.0-inch                      | 1        | 1.15%   |
+| Dell E228WFP DELD015 1680x1050 473x296mm 22.0-inch                      | 1        | 1.15%   |
 | Dell DEL 1908FPBLK DEL4047 1280x1024 376x301mm 19.0-inch                | 1        | 1.15%   |
 
 Monitor Resolution
@@ -2230,7 +2232,7 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.67%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                  | 1        | 0.67%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                   | 1        | 0.67%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                         | 1        | 0.67%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                           | 1        | 0.67%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                              | 1        | 0.67%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 1        | 0.67%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                        | 1        | 0.67%   |
@@ -2254,7 +2256,7 @@ Controller models
 | Nvidia MCP51 Ethernet Controller                                              | 1        | 0.67%   |
 | Nvidia CK804 Ethernet Controller                                              | 1        | 0.67%   |
 | NetGear WG111v3 54 Mbps Wireless [realtek RTL8187B]                           | 1        | 0.67%   |
-| Motorola PCS motorola edge 20 fusion                                          | 1        | 0.67%   |
+| Motorola PCS Moto G (5S) Plus                                                 | 1        | 0.67%   |
 | Marvell Group 88w8335 [Libertas] 802.11b/g Wireless                           | 1        | 0.67%   |
 | Intel Wi-Fi 6 AX200                                                           | 1        | 0.67%   |
 | Intel NM10/ICH7 Family LAN Controller                                         | 1        | 0.67%   |
@@ -2316,7 +2318,7 @@ Wireless models
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                       | 2        | 3.85%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                           | 1        | 1.92%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                            | 1        | 1.92%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                  | 1        | 1.92%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                    | 1        | 1.92%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                                       | 1        | 1.92%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                 | 1        | 1.92%   |
 | Realtek RTL8188EE Wireless Network Adapter                                             | 1        | 1.92%   |
@@ -2509,7 +2511,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 8        | 44.44%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 2        | 11.11%  |
 | ASUS Bluetooth Radio                                | 2        | 11.11%  |
-| Qualcomm Atheros  Bluetooth Device                  | 1        | 5.56%   |
+| Qualcomm Atheros AR9462 Bluetooth                   | 1        | 5.56%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1        | 5.56%   |
 | Primax Rocketfish RF-FLBTAD Bluetooth Adapter       | 1        | 5.56%   |
 | Kensington Bluetooth EDR Dongle                     | 1        | 5.56%   |
@@ -2597,7 +2599,7 @@ Sound card models
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.74%   |
 | Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                       | 1        | 0.74%   |
 | Intel 200 Series PCH HD Audio                                              | 1        | 0.74%   |
-| Generalplus Technology Usb Audio Device                                    | 1        | 0.74%   |
+| Generalplus Technology IMYB 7.1 Channel                                    | 1        | 0.74%   |
 | Creative Technology SoundBlaster MP3+                                      | 1        | 0.74%   |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.74%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                         | 1        | 0.74%   |
@@ -2629,7 +2631,7 @@ Memory module vendors
 | Micron Technology   | 4        | 23.53%  |
 | Unknown             | 3        | 17.65%  |
 | Samsung Electronics | 3        | 17.65%  |
-| SK Hynix            | 2        | 11.76%  |
+| SK hynix            | 2        | 11.76%  |
 | Nanya Technology    | 1        | 5.88%   |
 | Kingston            | 1        | 5.88%   |
 | G.Skill             | 1        | 5.88%   |
@@ -2652,12 +2654,12 @@ Memory module models
 | Unknown RAM Module 1GB DIMM DDR2                         | 1        | 5%      |
 | Unknown RAM Module 1024MB DIMM 800MT/s                   | 1        | 5%      |
 | Unknown RAM Module 1024MB DIMM 41632MT/s                 | 1        | 5%      |
-| SK Hynix RAM Module 2GB DIMM DDR3 1600MT/s               | 1        | 5%      |
-| SK Hynix RAM HMT125U6TFR8C-H9 2048MB DIMM DDR3 1333MT/s  | 1        | 5%      |
+| SK hynix RAM Module 2GB DIMM DDR3 1600MT/s               | 1        | 5%      |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5%      |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5%      |
 | Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s       | 1        | 5%      |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 5%      |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5%      |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 5%      |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 5%      |
 | Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2866MT/s     | 1        | 5%      |
@@ -2814,7 +2816,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Sunplus SPCA2281 Web Camera                                         | 1        | 11.11%  |
-| Samsung Galaxy A5 (MTP)                                             | 1        | 11.11%  |
+| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 11.11%  |
 | Logitech Webcam C270                                                | 1        | 11.11%  |
 | Logitech Webcam C210                                                | 1        | 11.11%  |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode)               | 1        | 11.11%  |

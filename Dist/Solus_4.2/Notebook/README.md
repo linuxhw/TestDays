@@ -657,7 +657,7 @@ Hard drive vendors
 | Micron Technology   | 2         | 3      | 11.11%  |
 | Transcend           | 1         | 1      | 5.56%   |
 | Toshiba             | 1         | 2      | 5.56%   |
-| SK Hynix            | 1         | 1      | 5.56%   |
+| SK hynix            | 1         | 1      | 5.56%   |
 | SanDisk             | 1         | 1      | 5.56%   |
 | Kingston            | 1         | 1      | 5.56%   |
 | Intel               | 1         | 1      | 5.56%   |
@@ -680,7 +680,7 @@ Hard drive models
 | WDC WD10JPVX-22JC3T0 1TB                 | 1         | 5.56%   |
 | Transcend TS240GSSD220S 240GB            | 1         | 5.56%   |
 | Toshiba MK7575GSX 752GB                  | 1         | 5.56%   |
-| SK Hynix NVMe SSD Drive 128GB            | 1         | 5.56%   |
+| SK hynix NVMe SSD Drive 128GB            | 1         | 5.56%   |
 | Seagate ST9750420AS 752GB                | 1         | 5.56%   |
 | Seagate ST9320325AS 320GB                | 1         | 5.56%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 5.56%   |
@@ -690,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -884,7 +884,7 @@ Storage controller vendors
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
 | Intel               | 12        | 80%     |
-| SK Hynix            | 1         | 6.67%   |
+| SK hynix            | 1         | 6.67%   |
 | Samsung Electronics | 1         | 6.67%   |
 | ADATA Technology    | 1         | 6.67%   |
 
@@ -901,7 +901,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 4         | 26.67%  |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 13.33%  |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 2         | 13.33%  |
-| SK Hynix BC501 NVMe Solid State Drive                                          | 1         | 6.67%   |
+| SK hynix BC501 NVMe Solid State Drive                                          | 1         | 6.67%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 6.67%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 1         | 6.67%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 1         | 6.67%   |
@@ -1180,9 +1180,9 @@ Monitor models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 6.67%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 6.67%   |
@@ -1515,7 +1515,7 @@ Controller models
 | Intel Bluetooth wireless interface               | 2         | 20%     |
 | Toshiba RT Bluetooth Radio                       | 1         | 10%     |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
-| Qualcomm Atheros  Bluetooth Device               | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
 | Intel AX200 Bluetooth                            | 1         | 10%     |
@@ -1590,7 +1590,7 @@ Memory module models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |

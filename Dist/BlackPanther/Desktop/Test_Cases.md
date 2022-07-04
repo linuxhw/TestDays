@@ -1,10 +1,23 @@
 BlackPanther - Test Cases (Desktops)
 ------------------------------------
 
-Total: 2698
+Total: 2711
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Fujitsu       | D2828-A2 S26361-D2828-A2    | [4889364145](https://linux-hardware.org/?probe=4889364145) | Jun 26, 2022 |
+| Dell          | 0TY915                      | [d6faa2c9f1](https://linux-hardware.org/?probe=d6faa2c9f1) | Jun 25, 2022 |
+| Gigabyte      | H410M S2 V2                 | [c37f67ba4b](https://linux-hardware.org/?probe=c37f67ba4b) | Jun 23, 2022 |
+| HP            | 339A                        | [4f244ada14](https://linux-hardware.org/?probe=4f244ada14) | Jun 19, 2022 |
+| Fujitsu       | D2828-A2 S26361-D2828-A2    | [3b5fb60639](https://linux-hardware.org/?probe=3b5fb60639) | Jun 19, 2022 |
+| Dell          | 0VD5HY A07                  | [6a66d72bc1](https://linux-hardware.org/?probe=6a66d72bc1) | Jun 14, 2022 |
+| Dell          | 0VD5HY A07                  | [5d7c3bee0c](https://linux-hardware.org/?probe=5d7c3bee0c) | Jun 14, 2022 |
+| Gigabyte      | F2A88XM-HD3                 | [f57b643831](https://linux-hardware.org/?probe=f57b643831) | Jun 08, 2022 |
+| Lenovo        | SDK0E50510 WIN              | [0c00fb9fe4](https://linux-hardware.org/?probe=0c00fb9fe4) | Jun 07, 2022 |
+| Lenovo        | SDK0E50510 WIN              | [4b8eab59e2](https://linux-hardware.org/?probe=4b8eab59e2) | Jun 07, 2022 |
+| ASRock        | G41MH/USB3                  | [8cb0243666](https://linux-hardware.org/?probe=8cb0243666) | Jun 02, 2022 |
+| ASUSTek       | M5A78L-M PLUS/USB3          | [a02283c272](https://linux-hardware.org/?probe=a02283c272) | Jun 01, 2022 |
+| ASUSTek       | M5A78L-M PLUS/USB3          | [2bb0b663d7](https://linux-hardware.org/?probe=2bb0b663d7) | Jun 01, 2022 |
 | Lenovo        | ThinkCentre A57 98517HG     | [254fda14c1](https://linux-hardware.org/?probe=254fda14c1) | May 30, 2022 |
 | Gigabyte      | B450M GAMING                | [2f4ff624ba](https://linux-hardware.org/?probe=2f4ff624ba) | May 29, 2022 |
 | Gigabyte      | B450M GAMING                | [726cb8d22e](https://linux-hardware.org/?probe=726cb8d22e) | May 29, 2022 |
@@ -2586,8 +2599,8 @@ Total: 2698
 | Gigabyte      | H61M-S1                     | [1b5b547c6b](https://linux-hardware.org/?probe=1b5b547c6b) | Jan 06, 2020 |
 | Fujitsu       | D3162-A1 S26361-D3162-A1    | [08234de33e](https://linux-hardware.org/?probe=08234de33e) | Jan 06, 2020 |
 | Dell          | 0WMJ54 A01                  | [925871b7de](https://linux-hardware.org/?probe=925871b7de) | Jan 06, 2020 |
-| ASRock        | G41M-VS3                    | [36a34aa61a](https://linux-hardware.org/?probe=36a34aa61a) | Jan 06, 2020 |
 | Dell          | 0WMJ54 A01                  | [8ac556b9bd](https://linux-hardware.org/?probe=8ac556b9bd) | Jan 06, 2020 |
+| ASRock        | G41M-VS3                    | [36a34aa61a](https://linux-hardware.org/?probe=36a34aa61a) | Jan 06, 2020 |
 | Gigabyte      | H61M-S1                     | [f9398ae13a](https://linux-hardware.org/?probe=f9398ae13a) | Jan 06, 2020 |
 | Dell          | 0WMJ54 A01                  | [05c10fb9fe](https://linux-hardware.org/?probe=05c10fb9fe) | Jan 06, 2020 |
 | Dell          | 0WMJ54 A01                  | [11845033c0](https://linux-hardware.org/?probe=11845033c0) | Jan 06, 2020 |

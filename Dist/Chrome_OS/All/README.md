@@ -950,7 +950,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.56%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.56%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.56%   |
-| TO Exter nal USB 3.0 320GB                   | 1         | 1.56%   |
+| TO Exter nal USB 3.0 256GB                   | 1         | 1.56%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.56%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.56%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.56%   |
@@ -969,7 +969,7 @@ Hard drive models
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.56%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.56%   |
 | Kingston SA2000M81000G 1TB                   | 1         | 1.56%   |
-| KingSpec NT-256 256GB SSD                    | 1         | 1.56%   |
+| KingSpec NT-256 256GB                        | 1         | 1.56%   |
 | KingDian S200 60GB SSD                       | 1         | 1.56%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.56%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.56%   |
@@ -1625,7 +1625,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 1.69%   |
@@ -1860,7 +1860,7 @@ Controller models
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                   | 3         | 3.13%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 3.13%   |
 | Intel WiFi Link 5100                                                    | 3         | 3.13%   |
-| TP-Link 802.11ac WLAN Adapter                                           | 2         | 2.08%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 2.08%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 2.08%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 2.08%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 2.08%   |
@@ -1936,7 +1936,7 @@ Wireless models
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 5.77%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 5.77%   |
 | Intel WiFi Link 5100                                                    | 3         | 5.77%   |
-| TP-Link 802.11ac WLAN Adapter                                           | 2         | 3.85%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 3.85%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 3.85%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 3.85%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 3.85%   |
@@ -2103,12 +2103,13 @@ Controller models
 | Intel Bluetooth wireless interface                  | 6         | 18.75%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 12.5%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 12.5%   |
-| Qualcomm Atheros  Bluetooth Device                  | 3         | 9.38%   |
+| Qualcomm Atheros  Bluetooth Device                  | 2         | 6.25%   |
 | IMC Networks Bluetooth Device                       | 2         | 6.25%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 6.25%   |
 | Toshiba Askey for                                   | 1         | 3.13%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 3.13%   |
 | Realtek Bluetooth Radio                             | 1         | 3.13%   |
+| Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.13%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.13%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.13%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.13%   |
@@ -2170,7 +2171,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                               | 1         | 1.56%   |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 1         | 1.56%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.56%   |
-| Generalplus Technology Usb Audio Device                                                           | 1         | 1.56%   |
+| Generalplus Technology IMYB 7.1 Channel                                                           | 1         | 1.56%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.56%   |
 | AMD Kaveri HDMI/DP Audio Controller                                                               | 1         | 1.56%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                                    | 1         | 1.56%   |
@@ -2202,11 +2203,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Computers | Percent |
-|-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
+| Model                                                   | Computers | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s          | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s   | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8192MB SODIMM DDR4 2667MT/s | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2285,10 +2286,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Computers | Percent |
-|----------------------------|-----------|---------|
-| Seiko Epson ET-2710 Series | 1         | 50%     |
-| HP LaserJet 1012           | 1         | 50%     |
+| Model                    | Computers | Percent |
+|--------------------------|-----------|---------|
+| Seiko Epson L3150 Series | 1         | 50%     |
+| HP LaserJet 1012         | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2352,7 +2353,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 17.65%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |
@@ -2362,8 +2363,8 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 2.94%   |
 | Sunplus HD WebCam                                       | 1         | 2.94%   |
 | Realtek WebCamera                                       | 1         | 2.94%   |
-| Realtek USB2.0-Camera                                   | 1         | 2.94%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.94%   |
+| Realtek USB Camera                                      | 1         | 2.94%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.94%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.94%   |
 | Microdia HP Webcam                                      | 1         | 2.94%   |
@@ -2448,8 +2449,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 34        | 57.63%  |
-| 1     | 22        | 37.29%  |
+| 0     | 36        | 61.02%  |
+| 1     | 20        | 33.9%   |
 | 2     | 3         | 5.08%   |
 
 Unsupported Device Types
@@ -2462,13 +2463,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 22.22%  |
-| Net/wireless             | 5         | 18.52%  |
-| Fingerprint reader       | 5         | 18.52%  |
-| Graphics card            | 3         | 11.11%  |
-| Chipcard                 | 3         | 11.11%  |
-| Storage                  | 2         | 7.41%   |
-| Storage/ide              | 1         | 3.7%    |
-| Modem                    | 1         | 3.7%    |
-| Communication controller | 1         | 3.7%    |
+| Multimedia controller    | 6         | 24%     |
+| Net/wireless             | 5         | 20%     |
+| Fingerprint reader       | 5         | 20%     |
+| Chipcard                 | 3         | 12%     |
+| Storage                  | 2         | 8%      |
+| Storage/ide              | 1         | 4%      |
+| Modem                    | 1         | 4%      |
+| Graphics card            | 1         | 4%      |
+| Communication controller | 1         | 4%      |
 

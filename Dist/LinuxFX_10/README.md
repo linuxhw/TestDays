@@ -947,7 +947,7 @@ Hard drive vendors
 | SanDisk             | 5         | 7      | 5.26%   |
 | Unknown             | 3         | 4      | 3.16%   |
 | A-DATA Technology   | 3         | 4      | 3.16%   |
-| MAXTOR              | 2         | 2      | 2.11%   |
+| Maxtor              | 2         | 2      | 2.11%   |
 | LITEONIT            | 2         | 2      | 2.11%   |
 | HGST                | 2         | 3      | 2.11%   |
 | Crucial             | 2         | 2      | 2.11%   |
@@ -960,7 +960,7 @@ Hard drive vendors
 | OCZ                 | 1         | 1      | 1.05%   |
 | Mushkin             | 1         | 1      | 1.05%   |
 | Hewlett-Packard     | 1         | 1      | 1.05%   |
-| GOODRAM             | 1         | 1      | 1.05%   |
+| Goodram             | 1         | 1      | 1.05%   |
 | China               | 1         | 1      | 1.05%   |
 | ASMT109x            | 1         | 1      | 1.05%   |
 
@@ -978,7 +978,7 @@ Hard drive models
 | Toshiba MQ01ABF050 500GB             | 2         | 1.94%   |
 | Seagate ST500LM012 HN-M500MBB 500GB  | 2         | 1.94%   |
 | Kingston SV300S37A120G 120GB SSD     | 2         | 1.94%   |
-| XPG GAMMIX S11 Pro 256GB             | 1         | 0.97%   |
+| XPG GAMMIX S11 Pro 1TB               | 1         | 0.97%   |
 | WDC WD5000LPVX-22V0TT0 500GB         | 1         | 0.97%   |
 | WDC WD5000LPVT-24G33T1 500GB         | 1         | 0.97%   |
 | WDC WD5000AAKX-001CA0 500GB          | 1         | 0.97%   |
@@ -1004,7 +1004,7 @@ Hard drive models
 | Toshiba MQ01ABD050 500GB             | 1         | 0.97%   |
 | Toshiba MK5059GSXP 500GB             | 1         | 0.97%   |
 | Toshiba MK2561GSYN 250GB             | 1         | 0.97%   |
-| TO Exter nal USB 3.0 320GB           | 1         | 0.97%   |
+| TO Exter nal USB 3.0 256GB           | 1         | 0.97%   |
 | Seagate ST9320325AS 320GB            | 1         | 0.97%   |
 | Seagate ST9160827AS 160GB            | 1         | 0.97%   |
 | Seagate ST9160821AS 160GB            | 1         | 0.97%   |
@@ -1023,13 +1023,13 @@ Hard drive models
 | Seagate ST2000DM001-1CH164 2TB       | 1         | 0.97%   |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 0.97%   |
 | Seagate ST1000DM003-1CH162 1TB       | 1         | 0.97%   |
-| Seagate Expansion Desk 10TB          | 1         | 0.97%   |
+| Seagate Expansion+ Desk 4TB          | 1         | 0.97%   |
 | SanDisk X400 2.5 7MM 256GB SSD       | 1         | 0.97%   |
 | SanDisk Ultra II 480GB SSD           | 1         | 0.97%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 0.97%   |
 | SanDisk SDSSDHII240G 240GB           | 1         | 0.97%   |
 | SanDisk SD9SN8W256G1002 256GB SSD    | 1         | 0.97%   |
-| Sandisk NVMe SSD Drive 500GB         | 1         | 0.97%   |
+| SanDisk NVMe SSD Drive 500GB         | 1         | 0.97%   |
 | Samsung SSD SM841 2.5 7mm 128GB      | 1         | 0.97%   |
 | Samsung SSD 850 EVO 500GB            | 1         | 0.97%   |
 | Samsung SSD 850 EVO 250GB            | 1         | 0.97%   |
@@ -1050,7 +1050,7 @@ Hard disk drive vendors
 | Toshiba             | 7         | 7      | 12.5%   |
 | Hitachi             | 7         | 8      | 12.5%   |
 | Samsung Electronics | 4         | 5      | 7.14%   |
-| MAXTOR              | 2         | 2      | 3.57%   |
+| Maxtor              | 2         | 2      | 3.57%   |
 | HGST                | 2         | 3      | 3.57%   |
 | ASMT109x            | 1         | 1      | 1.79%   |
 
@@ -1078,7 +1078,7 @@ Solid state drive vendors
 | OCZ                 | 1         | 1      | 3.13%   |
 | Mushkin             | 1         | 1      | 3.13%   |
 | Hewlett-Packard     | 1         | 1      | 3.13%   |
-| GOODRAM             | 1         | 1      | 3.13%   |
+| Goodram             | 1         | 1      | 3.13%   |
 | China               | 1         | 1      | 3.13%   |
 
 Drive Kind
@@ -1123,9 +1123,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 62        | 80     | 77.5%   |
 | 0.51-1.0   | 12        | 16     | 15%     |
+| 3.01-4.0   | 3         | 3      | 3.75%   |
 | 1.01-2.0   | 3         | 5      | 3.75%   |
-| 3.01-4.0   | 2         | 2      | 2.5%    |
-| 4.01-10.0  | 1         | 1      | 1.25%   |
 
 Space Total
 -----------
@@ -1265,7 +1264,7 @@ Storage controller vendors
 | Silicon Integrated Systems [SiS] | 2         | 2.63%   |
 | Nvidia                           | 2         | 2.63%   |
 | ADATA Technology                 | 2         | 2.63%   |
-| Sandisk                          | 1         | 1.32%   |
+| SanDisk                          | 1         | 1.32%   |
 | Phison Electronics               | 1         | 1.32%   |
 | LSI Logic / Symbios Logic        | 1         | 1.32%   |
 | Kingston Technology Company      | 1         | 1.32%   |
@@ -1308,7 +1307,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                          | 2         | 1.94%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 2         | 1.94%   |
 | ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                             | 2         | 1.94%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                          | 1         | 0.97%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                          | 1         | 0.97%   |
 | Phison E16 PCIe4 NVMe Controller                                                        | 1         | 0.97%   |
 | LSI Logic / Symbios Logic MegaRAID SAS 2108 [Liberator]                                 | 1         | 0.97%   |
 | Kingston Company Company Non-Volatile memory controller                                 | 1         | 0.97%   |
@@ -1780,24 +1779,24 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 2.99%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 2.99%   |
-| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                      | 2         | 2.99%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 340x190mm 15.3-inch          | 2         | 2.99%   |
+| Goldstar W2043 GSM4E9D 1600x900 450x250mm 20.3-inch                      | 2         | 2.99%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 2         | 2.99%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 2.99%   |
 | ViewSonic VX3211-2K VSCF634 2560x1440 698x392mm 31.5-inch                | 1         | 1.49%   |
 | Unknown LCD Monitor SHI LCD-TV 4640x1080                                 | 1         | 1.49%   |
 | Sony LCD Monitor AVSYSTEM                                                | 1         | 1.49%   |
-| Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch           | 1         | 1.49%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch        | 1         | 1.49%   |
+| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                    | 1         | 1.49%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch        | 1         | 1.49%   |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch     | 1         | 1.49%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch     | 1         | 1.49%   |
 | Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch       | 1         | 1.49%   |
 | Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch   | 1         | 1.49%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 1.49%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SEC3358 1280x800 330x210mm 15.4-inch     | 1         | 1.49%   |
 | Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 1.49%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 1.49%   |
-| Philips LCD Monitor PHLC0BF 1600x900 430x240mm 19.4-inch                 | 1         | 1.49%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                       | 1         | 1.49%   |
 | Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                       | 1         | 1.49%   |
 | NXP OptiPlex 9010 NXP1111 1920x1080 510x286mm 23.0-inch                  | 1         | 1.49%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 1.49%   |
@@ -2037,7 +2036,7 @@ Controller models
 | Intel Centrino Wireless-N 2230                                                        | 2         | 1.52%   |
 | Broadcom Limited BCM4401-B0 100Base-TX                                                | 2         | 1.52%   |
 | Broadcom BCM4311 802.11b/g WLAN                                                       | 2         | 1.52%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                 | 1         | 0.76%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1         | 0.76%   |
 | TP-Link Archer T4U ver.3                                                              | 1         | 0.76%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                         | 1         | 0.76%   |
 | Samsung Galaxy series, misc. (tethering mode)                                         | 1         | 0.76%   |
@@ -2051,7 +2050,7 @@ Controller models
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                              | 1         | 0.76%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                              | 1         | 0.76%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                             | 1         | 0.76%   |
-| Qualcomm M2012K11AG                                                                   | 1         | 0.76%   |
+| Qualcomm POCO F2 Pro                                                                  | 1         | 0.76%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                      | 1         | 0.76%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                                 | 1         | 0.76%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                              | 1         | 0.76%   |
@@ -2124,7 +2123,7 @@ Wireless models
 | Intel Wireless 7260                                                                   | 2         | 3.39%   |
 | Intel Centrino Wireless-N 2230                                                        | 2         | 3.39%   |
 | Broadcom BCM4311 802.11b/g WLAN                                                       | 2         | 3.39%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                 | 1         | 1.69%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1         | 1.69%   |
 | TP-Link Archer T4U ver.3                                                              | 1         | 1.69%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 1         | 1.69%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1         | 1.69%   |
@@ -2198,7 +2197,7 @@ Ethernet models
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.39%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.39%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.39%   |
-| Qualcomm M2012K11AG                                               | 1         | 1.39%   |
+| Qualcomm POCO F2 Pro                                              | 1         | 1.39%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.39%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.39%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 1.39%   |
@@ -2308,18 +2307,19 @@ Controller models
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 4         | 12.9%   |
-| Qualcomm Atheros  Bluetooth Device                          | 3         | 9.68%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 3         | 9.68%   |
 | Intel Bluetooth wireless interface                          | 3         | 9.68%   |
 | Realtek  Bluetooth 4.2 Adapter                              | 2         | 6.45%   |
+| Qualcomm Atheros AR9462 Bluetooth                           | 2         | 6.45%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 6.45%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 6.45%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                        | 2         | 6.45%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                | 1         | 3.23%   |
+| Qualcomm Atheros  Bluetooth Device                          | 1         | 3.23%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 3.23%   |
 | Qualcomm Atheros AR3011 Bluetooth                           | 1         | 3.23%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 3.23%   |
-| Intel AX201 Bluetooth                                       | 1         | 3.23%   |
+| Intel Bluetooth Device                                      | 1         | 3.23%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter       | 1         | 3.23%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 3.23%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 3.23%   |
@@ -2427,7 +2427,7 @@ Memory module vendors
 |---------------------|-----------|---------|
 | Corsair             | 3         | 21.43%  |
 | Unknown             | 2         | 14.29%  |
-| SK Hynix            | 2         | 14.29%  |
+| SK hynix            | 2         | 14.29%  |
 | Samsung Electronics | 2         | 14.29%  |
 | Kingston            | 2         | 14.29%  |
 | Smart               | 1         | 7.14%   |
@@ -2448,8 +2448,8 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 800MT/s                  | 1         | 6.67%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                  | 1         | 6.67%   |
 | Smart RAM SF464128CKHIWDFSEG 4GB SODIMM DDR4 2133MT/s   | 1         | 6.67%   |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 6.67%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 6.67%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 6.67%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 6.67%   |
 | Samsung RAM Module 8192MB DIMM DDR3 1333MT/s            | 1         | 6.67%   |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s    | 1         | 6.67%   |
 | Kingston RAM KHX2400C11D3/8GX 8192MB DIMM DDR3 2400MT/s | 1         | 6.67%   |

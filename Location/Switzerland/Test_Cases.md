@@ -1,10 +1,73 @@
 Linux in Switzerland - Test Cases
 ---------------------------------
 
-Total: 2365
+Total: 2428
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| HP            | Pavilion Aero Laptop 13-... | Notebook    | [9b8bb07ff0](https://linux-hardware.org/?probe=9b8bb07ff0) | Jul 01, 2022 |
+| Dell          | Latitude 7530               | Notebook    | [a66aca8921](https://linux-hardware.org/?probe=a66aca8921) | Jul 01, 2022 |
+| Dell          | 0HD5W2 A01                  | Desktop     | [d5419be6e7](https://linux-hardware.org/?probe=d5419be6e7) | Jun 30, 2022 |
+| Acer          | Aspire V3-772G              | Notebook    | [21cba60be3](https://linux-hardware.org/?probe=21cba60be3) | Jun 30, 2022 |
+| Acer          | Aspire V3-772G              | Notebook    | [0dcbb35983](https://linux-hardware.org/?probe=0dcbb35983) | Jun 30, 2022 |
+| Gigabyte      | C1037UN-EU                  | Desktop     | [a2729b2e3b](https://linux-hardware.org/?probe=a2729b2e3b) | Jun 30, 2022 |
+| Acer          | Aspire V3-772G              | Notebook    | [d8190f3da8](https://linux-hardware.org/?probe=d8190f3da8) | Jun 29, 2022 |
+| HP            | ENVY dv7                    | Notebook    | [9f64d5f095](https://linux-hardware.org/?probe=9f64d5f095) | Jun 29, 2022 |
+| Gigabyte      | X570 AORUS PRO              | Desktop     | [757741fe0d](https://linux-hardware.org/?probe=757741fe0d) | Jun 29, 2022 |
+| Lenovo        | ThinkPad X220 4291WSH       | Notebook    | [7406ba0eb2](https://linux-hardware.org/?probe=7406ba0eb2) | Jun 29, 2022 |
+| Dell          | Precision M6800             | Notebook    | [027cb621ef](https://linux-hardware.org/?probe=027cb621ef) | Jun 28, 2022 |
+| HP            | ENVY dv7                    | Notebook    | [00ce30e950](https://linux-hardware.org/?probe=00ce30e950) | Jun 28, 2022 |
+| MSI           | 2A9C                        | Desktop     | [c4d999a9a5](https://linux-hardware.org/?probe=c4d999a9a5) | Jun 26, 2022 |
+| Microsoft     | Surface Pro 3               | Tablet      | [800f6f5802](https://linux-hardware.org/?probe=800f6f5802) | Jun 26, 2022 |
+| Lenovo        | Yoga Slim 7 Pro 14ACH5 8... | Notebook    | [2103486702](https://linux-hardware.org/?probe=2103486702) | Jun 23, 2022 |
+| HP            | EliteBook 850 G8 Noteboo... | Notebook    | [7d5a943ab0](https://linux-hardware.org/?probe=7d5a943ab0) | Jun 23, 2022 |
+| HP            | EliteBook 8470p             | Notebook    | [2ba22aa099](https://linux-hardware.org/?probe=2ba22aa099) | Jun 22, 2022 |
+| HP            | EliteBook 8470p             | Notebook    | [eea8da46bd](https://linux-hardware.org/?probe=eea8da46bd) | Jun 22, 2022 |
+| Lenovo        | 30C0 SDK0J40705 WIN 3425... | Desktop     | [62aec95456](https://linux-hardware.org/?probe=62aec95456) | Jun 22, 2022 |
+| HUAWEI        | MACH-WX9                    | Notebook    | [c6f721f315](https://linux-hardware.org/?probe=c6f721f315) | Jun 21, 2022 |
+| Raspberry ... | Raspberry Pi 3 Model B+     | Soc         | [2911b2782c](https://linux-hardware.org/?probe=2911b2782c) | Jun 21, 2022 |
+| Lenovo        | ThinkStation S20 4105J6G    | Desktop     | [3182b17f83](https://linux-hardware.org/?probe=3182b17f83) | Jun 21, 2022 |
+| Intel         | NUC11PHBi7 M26151-403       | Mini pc     | [7c3f1cd4c1](https://linux-hardware.org/?probe=7c3f1cd4c1) | Jun 21, 2022 |
+| Apple         | MacBookPro15,2              | Notebook    | [c931d0e7bf](https://linux-hardware.org/?probe=c931d0e7bf) | Jun 20, 2022 |
+| Lenovo        | Yoga 3 Pro-1370 80HE        | Notebook    | [9c4b7a7742](https://linux-hardware.org/?probe=9c4b7a7742) | Jun 20, 2022 |
+| ASUSTek       | ZenBook UX391FA_UX391FA     | Notebook    | [faa0749731](https://linux-hardware.org/?probe=faa0749731) | Jun 20, 2022 |
+| ASUSTek       | ROG STRIX Z390-F GAMING     | Desktop     | [a4621aa4ec](https://linux-hardware.org/?probe=a4621aa4ec) | Jun 19, 2022 |
+| Lenovo        | IdeaPadFlex 5 16ALC7 82R... | Convertible | [5cde38b27f](https://linux-hardware.org/?probe=5cde38b27f) | Jun 19, 2022 |
+| Lenovo        | ThinkPad X1 Tablet Gen 3... | Tablet      | [6ec8ece12d](https://linux-hardware.org/?probe=6ec8ece12d) | Jun 19, 2022 |
+| Acer          | Aspire V3-772G              | Notebook    | [21f78f9cf4](https://linux-hardware.org/?probe=21f78f9cf4) | Jun 19, 2022 |
+| ASUSTek       | PRIME Z270-A                | Desktop     | [0f85d8c023](https://linux-hardware.org/?probe=0f85d8c023) | Jun 19, 2022 |
+| ASUSTek       | ROG ZENITH EXTREME          | Desktop     | [d84600d5b0](https://linux-hardware.org/?probe=d84600d5b0) | Jun 17, 2022 |
+| Schenker      | VISION 15 (SVS15E21)        | Notebook    | [8845a2219f](https://linux-hardware.org/?probe=8845a2219f) | Jun 17, 2022 |
+| Lenovo        | G70-70 80HW                 | Notebook    | [de123e03c3](https://linux-hardware.org/?probe=de123e03c3) | Jun 16, 2022 |
+| Lenovo        | G70-70 80HW                 | Notebook    | [31aa19ff98](https://linux-hardware.org/?probe=31aa19ff98) | Jun 16, 2022 |
+| ASUSTek       | ROG STRIX B550-I GAMING     | Desktop     | [7cebf6f4c1](https://linux-hardware.org/?probe=7cebf6f4c1) | Jun 16, 2022 |
+| Gigabyte      | B560M AORUS PRO AX          | Desktop     | [a46a8033f8](https://linux-hardware.org/?probe=a46a8033f8) | Jun 15, 2022 |
+| ASUSTek       | PRIME B360M-C               | Desktop     | [c250d3b2e0](https://linux-hardware.org/?probe=c250d3b2e0) | Jun 14, 2022 |
+| ASUSTek       | PRIME Z270-A                | Desktop     | [dd22c99aac](https://linux-hardware.org/?probe=dd22c99aac) | Jun 14, 2022 |
+| Dell          | 00V62H A00                  | Desktop     | [dc89caf09f](https://linux-hardware.org/?probe=dc89caf09f) | Jun 13, 2022 |
+| Clevo         | W150ER                      | Notebook    | [9121da24a8](https://linux-hardware.org/?probe=9121da24a8) | Jun 13, 2022 |
+| Acer          | Aspire X3950                | Desktop     | [81797815d2](https://linux-hardware.org/?probe=81797815d2) | Jun 13, 2022 |
+| TrekStor      | Surfbook A13                | Notebook    | [2c8d07851d](https://linux-hardware.org/?probe=2c8d07851d) | Jun 12, 2022 |
+| Microsoft     | Surface Book 3              | Tablet      | [26c417012f](https://linux-hardware.org/?probe=26c417012f) | Jun 12, 2022 |
+| HP            | 255 G8 Notebook PC          | Notebook    | [b31c452186](https://linux-hardware.org/?probe=b31c452186) | Jun 11, 2022 |
+| HP            | 3032h                       | Desktop     | [fee76c58db](https://linux-hardware.org/?probe=fee76c58db) | Jun 09, 2022 |
+| HP            | 8710                        | Mini pc     | [a4b6fd8f8a](https://linux-hardware.org/?probe=a4b6fd8f8a) | Jun 07, 2022 |
+| Dell          | XPS 13 9380                 | Notebook    | [6a14acf011](https://linux-hardware.org/?probe=6a14acf011) | Jun 07, 2022 |
+| Dell          | XPS 13 9380                 | Notebook    | [0fbc627b7e](https://linux-hardware.org/?probe=0fbc627b7e) | Jun 07, 2022 |
+| ASUSTek       | WS X299 PRO                 | Desktop     | [219d19f97e](https://linux-hardware.org/?probe=219d19f97e) | Jun 06, 2022 |
+| Lenovo        | ThinkPad X1 Extreme 2nd ... | Notebook    | [13e2575e63](https://linux-hardware.org/?probe=13e2575e63) | Jun 05, 2022 |
+| Dell          | 0T7D40 A01                  | Desktop     | [812b41fe55](https://linux-hardware.org/?probe=812b41fe55) | Jun 04, 2022 |
+| Shuttle       | DS10U                       | Desktop     | [f2d2634abd](https://linux-hardware.org/?probe=f2d2634abd) | Jun 04, 2022 |
+| Gigabyte      | Z590 VISION G               | Desktop     | [c91b17ed23](https://linux-hardware.org/?probe=c91b17ed23) | Jun 04, 2022 |
+| ASUSTek       | PRIME B360M-C               | Desktop     | [b57fa63f1a](https://linux-hardware.org/?probe=b57fa63f1a) | Jun 04, 2022 |
+| Lenovo        | ThinkPad T450 20BUS0HA0G    | Notebook    | [878cae499d](https://linux-hardware.org/?probe=878cae499d) | Jun 04, 2022 |
+| Lenovo        | ThinkPad T450 20BUS0HA0G    | Notebook    | [0c53f7240c](https://linux-hardware.org/?probe=0c53f7240c) | Jun 03, 2022 |
+| Gigabyte      | Z590 VISION G               | Desktop     | [a2a510d9dd](https://linux-hardware.org/?probe=a2a510d9dd) | Jun 03, 2022 |
+| Toshiba       | Satellite L850-1D5          | Notebook    | [c8a260ef80](https://linux-hardware.org/?probe=c8a260ef80) | Jun 03, 2022 |
+| ASRock        | X570 Phantom Gaming 4       | Desktop     | [d8134fd2fe](https://linux-hardware.org/?probe=d8134fd2fe) | Jun 02, 2022 |
+| Lenovo        | Yoga Duet 7 13ITL6 82MA     | Tablet      | [1fb17fc133](https://linux-hardware.org/?probe=1fb17fc133) | Jun 01, 2022 |
+| Lenovo        | Yoga Duet 7 13ITL6 82MA     | Tablet      | [c4e901c3a6](https://linux-hardware.org/?probe=c4e901c3a6) | Jun 01, 2022 |
+| HUAWEI        | MACH-WX9                    | Notebook    | [70ad46aa8e](https://linux-hardware.org/?probe=70ad46aa8e) | Jun 01, 2022 |
 | ASUSTek       | P5B                         | Desktop     | [12554af571](https://linux-hardware.org/?probe=12554af571) | May 31, 2022 |
 | ASUSTek       | P5B                         | Desktop     | [845c2f114b](https://linux-hardware.org/?probe=845c2f114b) | May 31, 2022 |
 | Acer          | Swift SF515-51T             | Notebook    | [d4283c0b8b](https://linux-hardware.org/?probe=d4283c0b8b) | May 31, 2022 |
@@ -124,9 +187,9 @@ Total: 2365
 | ASUSTek       | PRIME Z690-P WIFI D4        | Desktop     | [7e44cf1d2c](https://linux-hardware.org/?probe=7e44cf1d2c) | Apr 04, 2022 |
 | HP            | ProBook 450 G5              | Notebook    | [3aa8c7cbc6](https://linux-hardware.org/?probe=3aa8c7cbc6) | Apr 04, 2022 |
 | Acer          | Swift SF314-57              | Notebook    | [e43f33eef1](https://linux-hardware.org/?probe=e43f33eef1) | Apr 03, 2022 |
-| QUANMAX       | Platin SE                   | Notebook    | [5090da9cbf](https://linux-hardware.org/?probe=5090da9cbf) | Apr 03, 2022 |
+| Quanmax       | Platin SE                   | Notebook    | [5090da9cbf](https://linux-hardware.org/?probe=5090da9cbf) | Apr 03, 2022 |
 | Apple         | MacBookPro10,1              | Notebook    | [d1c62a1f93](https://linux-hardware.org/?probe=d1c62a1f93) | Apr 03, 2022 |
-| QUANMAX       | Platin SE                   | Notebook    | [2388fe9587](https://linux-hardware.org/?probe=2388fe9587) | Apr 03, 2022 |
+| Quanmax       | Platin SE                   | Notebook    | [2388fe9587](https://linux-hardware.org/?probe=2388fe9587) | Apr 03, 2022 |
 | Lenovo        | ThinkPad X201 Tablet 311... | Notebook    | [7f48dd5612](https://linux-hardware.org/?probe=7f48dd5612) | Apr 02, 2022 |
 | Gigabyte      | H410M S2H V3                | Desktop     | [0c9c9dd7e9](https://linux-hardware.org/?probe=0c9c9dd7e9) | Apr 02, 2022 |
 | Apple         | Mac-F4228EC8 DVT            | All in one  | [e7d599e001](https://linux-hardware.org/?probe=e7d599e001) | Apr 01, 2022 |
@@ -1800,14 +1863,14 @@ Total: 2365
 | Gigabyte      | MG50-G21-XX 01234567        | Server      | [23bc09dd20](https://linux-hardware.org/?probe=23bc09dd20) | Apr 24, 2020 |
 | Unknown       | Unknown                     | Desktop     | [5882c13b3b](https://linux-hardware.org/?probe=5882c13b3b) | Apr 24, 2020 |
 | Supermicro    | X8STi                       | Desktop     | [3602c430ec](https://linux-hardware.org/?probe=3602c430ec) | Apr 24, 2020 |
-| Supermicro    | X8DT6                       | Server      | [87018aa3b3](https://linux-hardware.org/?probe=87018aa3b3) | Apr 24, 2020 |
 | ASUSTek       | P9X79 WS                    | Desktop     | [cd6057df7b](https://linux-hardware.org/?probe=cd6057df7b) | Apr 24, 2020 |
+| Supermicro    | X8DT6                       | Server      | [87018aa3b3](https://linux-hardware.org/?probe=87018aa3b3) | Apr 24, 2020 |
 | Intel         | DP55WB AAE64798-207         | Desktop     | [83cff222b1](https://linux-hardware.org/?probe=83cff222b1) | Apr 24, 2020 |
 | Gigabyte      | H97-HD3                     | Desktop     | [d27a8c06d5](https://linux-hardware.org/?probe=d27a8c06d5) | Apr 24, 2020 |
 | Intel         | DP55WB AAE64798-207         | Desktop     | [801d710e79](https://linux-hardware.org/?probe=801d710e79) | Apr 24, 2020 |
-| Gigabyte      | H97-HD3                     | Desktop     | [9d0c57fcda](https://linux-hardware.org/?probe=9d0c57fcda) | Apr 24, 2020 |
 | Fujitsu       | D3517-A1 S26361-D3517-A1    | Desktop     | [fe75c04eda](https://linux-hardware.org/?probe=fe75c04eda) | Apr 24, 2020 |
 | Intel         | DP55WB AAE64798-207         | Desktop     | [5e26461d54](https://linux-hardware.org/?probe=5e26461d54) | Apr 24, 2020 |
+| Gigabyte      | H97-HD3                     | Desktop     | [9d0c57fcda](https://linux-hardware.org/?probe=9d0c57fcda) | Apr 24, 2020 |
 | Fujitsu       | D3617-A1 S26361-D3617-A1    | Desktop     | [9320fe9eed](https://linux-hardware.org/?probe=9320fe9eed) | Apr 24, 2020 |
 | Fujitsu       | D3417-A2 S26361-D3417-A2    | Desktop     | [19541f6f0c](https://linux-hardware.org/?probe=19541f6f0c) | Apr 24, 2020 |
 | ASUSTek       | M4A87TD/USB3                | Desktop     | [e73dadfea3](https://linux-hardware.org/?probe=e73dadfea3) | Apr 24, 2020 |
@@ -1817,8 +1880,8 @@ Total: 2365
 | Fujitsu       | D3417-A2 S26361-D3417-A2    | Desktop     | [16b7a6a8f3](https://linux-hardware.org/?probe=16b7a6a8f3) | Apr 24, 2020 |
 | Fujitsu       | D3417-A2 S26361-D3417-A2    | Desktop     | [129412be91](https://linux-hardware.org/?probe=129412be91) | Apr 24, 2020 |
 | Fujitsu       | D3348-A1 S26361-D3348-A1    | Desktop     | [b7bd40c12a](https://linux-hardware.org/?probe=b7bd40c12a) | Apr 24, 2020 |
-| Intel         | DH87MC AAG74242-403         | Desktop     | [9b4a769724](https://linux-hardware.org/?probe=9b4a769724) | Apr 24, 2020 |
 | Fujitsu       | D3617-A1 S26361-D3617-A1    | Desktop     | [0cf9c93ea0](https://linux-hardware.org/?probe=0cf9c93ea0) | Apr 24, 2020 |
+| Intel         | DH87MC AAG74242-403         | Desktop     | [9b4a769724](https://linux-hardware.org/?probe=9b4a769724) | Apr 24, 2020 |
 | ASUSTek       | PRIME H270M-PLUS            | Desktop     | [8f61b7c628](https://linux-hardware.org/?probe=8f61b7c628) | Apr 24, 2020 |
 | Fujitsu       | D3417-A2 S26361-D3417-A2    | Desktop     | [d9fb8b2a97](https://linux-hardware.org/?probe=d9fb8b2a97) | Apr 24, 2020 |
 | Intel         | S2600WFT H48104-860         | Server      | [d373af93cd](https://linux-hardware.org/?probe=d373af93cd) | Apr 24, 2020 |
@@ -1834,9 +1897,9 @@ Total: 2365
 | Fujitsu       | D3498-A1 S26361-D3498-A1    | Desktop     | [4150effa59](https://linux-hardware.org/?probe=4150effa59) | Apr 24, 2020 |
 | Intel         | DP55WB AAE64798-206         | Desktop     | [70bbb811be](https://linux-hardware.org/?probe=70bbb811be) | Apr 24, 2020 |
 | Intel         | DP67BA AAG10219-303         | Desktop     | [eeeca38b60](https://linux-hardware.org/?probe=eeeca38b60) | Apr 24, 2020 |
-| Intel         | DP67BA AAG10219-303         | Desktop     | [e048100091](https://linux-hardware.org/?probe=e048100091) | Apr 24, 2020 |
 | Intel         | W2600CR G21602-302          | Server      | [fbdcc4d1f5](https://linux-hardware.org/?probe=fbdcc4d1f5) | Apr 24, 2020 |
 | Fujitsu       | D3417-A2 S26361-D3417-A2    | Desktop     | [36fbd50814](https://linux-hardware.org/?probe=36fbd50814) | Apr 24, 2020 |
+| Intel         | DP67BA AAG10219-303         | Desktop     | [e048100091](https://linux-hardware.org/?probe=e048100091) | Apr 24, 2020 |
 | Intel         | DH77KC AAG39641-401         | Desktop     | [ff23a0f976](https://linux-hardware.org/?probe=ff23a0f976) | Apr 24, 2020 |
 | Fujitsu       | D3498-A1 S26361-D3498-A1    | Desktop     | [11364b1406](https://linux-hardware.org/?probe=11364b1406) | Apr 24, 2020 |
 | ASUSTek       | H87M-PLUS                   | Desktop     | [af795173b9](https://linux-hardware.org/?probe=af795173b9) | Apr 24, 2020 |
@@ -1873,8 +1936,8 @@ Total: 2365
 | Fujitsu       | D3417-A2 S26361-D3417-A2    | Desktop     | [1fe0a4107c](https://linux-hardware.org/?probe=1fe0a4107c) | Apr 24, 2020 |
 | ASUSTek       | P6T6 WS REVOLUTION          | Desktop     | [ad07dc757a](https://linux-hardware.org/?probe=ad07dc757a) | Apr 24, 2020 |
 | Intel         | DX79SI AAG28808-600         | Desktop     | [576596c77a](https://linux-hardware.org/?probe=576596c77a) | Apr 24, 2020 |
-| ASUSTek       | P9X79 WS                    | Desktop     | [c6f17810da](https://linux-hardware.org/?probe=c6f17810da) | Apr 24, 2020 |
 | Intel         | DX58SO2 AAG10925-207        | Desktop     | [6fcca24e48](https://linux-hardware.org/?probe=6fcca24e48) | Apr 24, 2020 |
+| ASUSTek       | P9X79 WS                    | Desktop     | [c6f17810da](https://linux-hardware.org/?probe=c6f17810da) | Apr 24, 2020 |
 | Supermicro    | X11QPH+                     | Server      | [e9a2314525](https://linux-hardware.org/?probe=e9a2314525) | Apr 24, 2020 |
 | ASUSTek       | X99-S                       | Desktop     | [c25305c678](https://linux-hardware.org/?probe=c25305c678) | Apr 24, 2020 |
 | Supermicro    | H8QG6                       | Server      | [b4d697228c](https://linux-hardware.org/?probe=b4d697228c) | Apr 24, 2020 |
@@ -1883,8 +1946,8 @@ Total: 2365
 | ASUSTek       | PRIME Z370-A II             | Desktop     | [c22d279967](https://linux-hardware.org/?probe=c22d279967) | Apr 24, 2020 |
 | Intel         | SVRBD-ROW_T G30981-503      | Server      | [7999eec59e](https://linux-hardware.org/?probe=7999eec59e) | Apr 24, 2020 |
 | Dell          | 0K240Y A01                  | Desktop     | [b5582d3b26](https://linux-hardware.org/?probe=b5582d3b26) | Apr 24, 2020 |
-| Intel         | SVRBD-ROW_T G30981-503      | Server      | [a6aca7c635](https://linux-hardware.org/?probe=a6aca7c635) | Apr 24, 2020 |
 | Supermicro    | X11QPH+                     | Server      | [106004b589](https://linux-hardware.org/?probe=106004b589) | Apr 24, 2020 |
+| Intel         | SVRBD-ROW_T G30981-503      | Server      | [a6aca7c635](https://linux-hardware.org/?probe=a6aca7c635) | Apr 24, 2020 |
 | Intel         | SVRBD-ROW_T G30981-503      | Server      | [aa750af5d2](https://linux-hardware.org/?probe=aa750af5d2) | Apr 24, 2020 |
 | Intel         | DH87MC AAG74242-401         | Desktop     | [1b3d55284f](https://linux-hardware.org/?probe=1b3d55284f) | Apr 24, 2020 |
 | ASUSTek       | WS C422 PRO_SE              | Desktop     | [a75c40f334](https://linux-hardware.org/?probe=a75c40f334) | Apr 24, 2020 |

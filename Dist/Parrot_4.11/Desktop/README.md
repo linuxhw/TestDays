@@ -585,8 +585,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 14       | 66.67%  |
-| Yes       | 7        | 33.33%  |
+| No        | 14       | 70%     |
+| Yes       | 6        | 30%     |
 
 Has Ethernet
 ------------
@@ -702,7 +702,7 @@ Hard drive vendors
 | Crucial             | 3        | 3      | 6.82%   |
 | Unknown             | 2        | 2      | 4.55%   |
 | Toshiba             | 2        | 2      | 4.55%   |
-| SK Hynix            | 2        | 2      | 4.55%   |
+| SK hynix            | 2        | 2      | 4.55%   |
 | SanDisk             | 2        | 2      | 4.55%   |
 | SPCC                | 1        | 1      | 2.27%   |
 | Phison              | 1        | 1      | 2.27%   |
@@ -723,8 +723,8 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Unknown SD/MMC/MS PRO 999GB           | 2        | 3.92%   |
-| Seagate Expansion 4TB                 | 2        | 3.92%   |
+| Unknown SD/MMC/MS PRO 128GB           | 2        | 3.92%   |
+| Seagate Expansion 1TB                 | 2        | 3.92%   |
 | WDC WDBNCE0010PNC 1TB SSD             | 1        | 1.96%   |
 | WDC WD5000AACS-00ZUB0 500GB           | 1        | 1.96%   |
 | WDC WD3200LPVX-60V0TT0 320GB          | 1        | 1.96%   |
@@ -733,8 +733,8 @@ Hard drive models
 | Toshiba MK2552GSX 250GB               | 1        | 1.96%   |
 | Toshiba DT01ACA100 1TB                | 1        | 1.96%   |
 | SPCC Solid State Disk 120GB           | 1        | 1.96%   |
-| SK Hynix PC601 NVMe 256GB             | 1        | 1.96%   |
-| SK Hynix NVMe SSD Drive 256GB         | 1        | 1.96%   |
+| SK hynix PC601 NVMe 256GB             | 1        | 1.96%   |
+| SK hynix NVMe SSD Drive 256GB         | 1        | 1.96%   |
 | Seagate ST98823AS 80GB                | 1        | 1.96%   |
 | Seagate ST9250410AS 250GB             | 1        | 1.96%   |
 | Seagate ST500NM0011 500GB             | 1        | 1.96%   |
@@ -761,7 +761,7 @@ Hard drive models
 | Phison NVMe SSD Drive 1TB             | 1        | 1.96%   |
 | LITEONIT LCS-128M6S 2.5 7mm 128GB SSD | 1        | 1.96%   |
 | Kingston SV300S37A 120G SSD           | 1        | 1.96%   |
-| Intenso SSD SATAIII 120GB             | 1        | 1.96%   |
+| Intenso SSD SATAIII 480GB             | 1        | 1.96%   |
 | Hitachi HUA722020ALA331 2TB           | 1        | 1.96%   |
 | Hitachi HTS547564A9E384 640GB         | 1        | 1.96%   |
 | Hitachi HTS545050B9A300 500GB         | 1        | 1.96%   |
@@ -850,10 +850,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 31     | 50%     |
-| 0.51-1.0   | 12       | 13     | 35.29%  |
-| 3.01-4.0   | 3        | 3      | 8.82%   |
-| 1.01-2.0   | 2        | 2      | 5.88%   |
+| 0.01-0.5   | 17       | 33     | 53.13%  |
+| 0.51-1.0   | 12       | 13     | 37.5%   |
+| 1.01-2.0   | 2        | 2      | 6.25%   |
+| 3.01-4.0   | 1        | 1      | 3.13%   |
 
 Space Total
 -----------
@@ -963,7 +963,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 120GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 480GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1007,7 +1007,7 @@ Storage controller vendors
 |---------------------|----------|---------|
 | Intel               | 13       | 48.15%  |
 | AMD                 | 7        | 25.93%  |
-| SK Hynix            | 2        | 7.41%   |
+| SK hynix            | 2        | 7.41%   |
 | Samsung Electronics | 2        | 7.41%   |
 | VIA Technologies    | 1        | 3.7%    |
 | Phison Electronics  | 1        | 3.7%    |
@@ -1032,8 +1032,8 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 2        | 6.06%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2        | 6.06%   |
 | VIA VT6415 PATA IDE Host Controller                                                     | 1        | 3.03%   |
-| SK Hynix Non-Volatile memory controller                                                 | 1        | 3.03%   |
-| SK Hynix BC511                                                                          | 1        | 3.03%   |
+| SK hynix Non-Volatile memory controller                                                 | 1        | 3.03%   |
+| SK hynix BC511                                                                          | 1        | 3.03%   |
 | Phison E16 PCIe4 NVMe Controller                                                        | 1        | 3.03%   |
 | JMicron JMB362 SATA Controller                                                          | 1        | 3.03%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                      | 1        | 3.03%   |
@@ -1381,8 +1381,8 @@ Monitor models
 | Dell S2419H DELD0D2 1920x1080 527x296mm 23.8-inch           | 1        | 4.35%   |
 | Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch           | 1        | 4.35%   |
 | Dell E2318H DELF092 1920x1080 509x286mm 23.0-inch           | 1        | 4.35%   |
-| Dell 1907FP DEL4015 1280x1024 380x300mm 19.1-inch           | 1        | 4.35%   |
-| BenQ GW2760 BNQ78C6 1920x1080 600x340mm 27.2-inch           | 1        | 4.35%   |
+| Dell 1907FP DEL4015 1280x1024 376x301mm 19.0-inch           | 1        | 4.35%   |
+| BenQ GW2760 BNQ78C6 1920x1080 598x336mm 27.0-inch           | 1        | 4.35%   |
 | AUS LCD Monitor VG259 1920x1080                             | 1        | 4.35%   |
 | AOC LCD Monitor 2217 1680x1050                              | 1        | 4.35%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch               | 1        | 4.35%   |
@@ -1821,7 +1821,7 @@ Memory module vendors
 | Kingston         | 2        | 18.18%  |
 | Crucial          | 2        | 18.18%  |
 | Corsair          | 2        | 18.18%  |
-| SK Hynix         | 1        | 9.09%   |
+| SK hynix         | 1        | 9.09%   |
 | S                | 1        | 9.09%   |
 | Nanya Technology | 1        | 9.09%   |
 
@@ -1838,11 +1838,11 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s                | 1        | 8.33%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 8.33%   |
 | Unknown RAM Module 4GB DIMM 1600MT/s                     | 1        | 8.33%   |
-| SK Hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s      | 1        | 8.33%   |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s      | 1        | 8.33%   |
 | S RAM Module 2GB DIMM DDR3 1600MT/s                      | 1        | 8.33%   |
 | Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s       | 1        | 8.33%   |
 | Kingston RAM ACR24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s      | 1        | 8.33%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 8.33%   |
+| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 8.33%   |
 | Crucial RAM CT102464BA1339.C16 8GB DIMM DDR3 1333MT/s    | 1        | 8.33%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8192MB DIMM DDR3 1600MT/s | 1        | 8.33%   |
 | Corsair RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s      | 1        | 8.33%   |

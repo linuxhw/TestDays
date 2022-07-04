@@ -1071,13 +1071,13 @@ Hard drive vendors
 | Verbatim            | 1        | 1      | 0.75%   |
 | Transcend           | 1        | 1      | 0.75%   |
 | Team                | 1        | 1      | 0.75%   |
-| SK Hynix            | 1        | 1      | 0.75%   |
+| SK hynix            | 1        | 1      | 0.75%   |
 | PNY CS90            | 1        | 1      | 0.75%   |
 | Phison              | 1        | 2      | 0.75%   |
 | HUAWEI              | 1        | 1      | 0.75%   |
 | FORESEE             | 1        | 1      | 0.75%   |
 | Corsair             | 1        | 1      | 0.75%   |
-| Asmedia             | 1        | 1      | 0.75%   |
+| ASMedia             | 1        | 1      | 0.75%   |
 
 Drive Model
 -----------
@@ -1103,7 +1103,7 @@ Hard drive models
 | Seagate ST32000644NS 2TB         | 2        | 1.29%   |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 1.29%   |
 | SanDisk SDSSDA120G 120GB         | 2        | 1.29%   |
-| SanDisk Extreme SSD 500GB        | 2        | 1.29%   |
+| SanDisk Extreme SSD 1TB          | 2        | 1.29%   |
 | Samsung SSD 860 EVO 500GB        | 2        | 1.29%   |
 | Samsung SSD 850 EVO 500GB        | 2        | 1.29%   |
 | PNY CS900 120GB SSD              | 2        | 1.29%   |
@@ -1148,7 +1148,7 @@ Hard drive models
 | WDC WD1002FAEX-00Z3A0 1TB        | 1        | 0.65%   |
 | WDC WD1001FAES-75W7A0 1TB        | 1        | 0.65%   |
 | Verbatim USB External SSD 256GB  | 1        | 0.65%   |
-| Unknown SD/MMC/MS PRO 999GB      | 1        | 0.65%   |
+| Unknown SD/MMC/MS PRO 128GB      | 1        | 0.65%   |
 
 HDD Vendor
 ----------
@@ -1167,7 +1167,7 @@ Hard disk drive vendors
 | Samsung Electronics | 4        | 6      | 5.48%   |
 | HGST                | 3        | 3      | 4.11%   |
 | Unknown             | 2        | 2      | 2.74%   |
-| Asmedia             | 1        | 1      | 1.37%   |
+| ASMedia             | 1        | 1      | 1.37%   |
 
 SSD Vendor
 ----------
@@ -1192,7 +1192,7 @@ Solid state drive vendors
 | Verbatim            | 1        | 1      | 1.89%   |
 | Transcend           | 1        | 1      | 1.89%   |
 | Team                | 1        | 1      | 1.89%   |
-| SK Hynix            | 1        | 1      | 1.89%   |
+| SK hynix            | 1        | 1      | 1.89%   |
 | PNY CS90            | 1        | 1      | 1.89%   |
 | FORESEE             | 1        | 1      | 1.89%   |
 | Corsair             | 1        | 1      | 1.89%   |
@@ -1236,11 +1236,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 46       | 97     | 43.81%  |
-| 0.51-1.0   | 30       | 71     | 28.57%  |
+| 0.01-0.5   | 46       | 96     | 43.81%  |
+| 0.51-1.0   | 31       | 80     | 29.52%  |
 | 1.01-2.0   | 14       | 22     | 13.33%  |
-| 3.01-4.0   | 6        | 15     | 5.71%   |
 | 2.01-3.0   | 6        | 30     | 5.71%   |
+| 3.01-4.0   | 5        | 7      | 4.76%   |
 | 4.01-10.0  | 2        | 5      | 1.9%    |
 | 10.01-20.0 | 1        | 1      | 0.95%   |
 
@@ -1298,7 +1298,7 @@ Drive models with a malfunction
 | WDC WD10EARS-00MVWB0 1TB              | 1        | 1      | 7.69%   |
 | WDC WD1002FAEX-00Z3A0 1TB             | 1        | 1      | 7.69%   |
 | WDC WD1001FAES-75W7A0 1TB             | 1        | 1      | 7.69%   |
-| SK Hynix HFS256G39TND-N210A 256GB SSD | 1        | 1      | 7.69%   |
+| SK hynix HFS256G39TND-N210A 256GB SSD | 1        | 1      | 7.69%   |
 | Seagate ST3500418AS 500GB             | 1        | 1      | 7.69%   |
 | Seagate ST3320820AS 320GB             | 1        | 1      | 7.69%   |
 | Seagate ST3250410AS 250GB             | 1        | 1      | 7.69%   |
@@ -1320,7 +1320,7 @@ Vendors of faulty drives
 | Seagate  | 5        | 5      | 41.67%  |
 | WDC      | 2        | 3      | 16.67%  |
 | Intel    | 2        | 2      | 16.67%  |
-| SK Hynix | 1        | 1      | 8.33%   |
+| SK hynix | 1        | 1      | 8.33%   |
 | OCZ      | 1        | 1      | 8.33%   |
 | HGST     | 1        | 1      | 8.33%   |
 
@@ -1396,7 +1396,7 @@ Storage controller vendors
 | AMD                         | 19       | 25%     |
 | Marvell Technology Group    | 7        | 9.21%   |
 | ASMedia Technology          | 5        | 6.58%   |
-| Sandisk                     | 3        | 3.95%   |
+| SanDisk                     | 3        | 3.95%   |
 | Phison Electronics          | 2        | 2.63%   |
 | Samsung Electronics         | 1        | 1.32%   |
 | Kingston Technology Company | 1        | 1.32%   |
@@ -1424,7 +1424,7 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                               | 4        | 4.04%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 4        | 4.04%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 4        | 4.04%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 3        | 3.03%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 3        | 3.03%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 3        | 3.03%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 3        | 3.03%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 3        | 3.03%   |
@@ -1866,7 +1866,7 @@ Monitor vendors
 | RTK                  | 1        | 1.54%   |
 | QBell                | 1        | 1.54%   |
 | PKB                  | 1        | 1.54%   |
-| ONKYO                | 1        | 1.54%   |
+| Onkyo                | 1        | 1.54%   |
 | Medion               | 1        | 1.54%   |
 | HannStar             | 1        | 1.54%   |
 | Eizo                 | 1        | 1.54%   |
@@ -1881,68 +1881,68 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                   | 4        | 5.41%   |
-| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                 | 2        | 2.7%    |
-| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch      | 2        | 2.7%    |
-| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch | 2        | 2.7%    |
-| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch         | 1        | 1.35%   |
-| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch           | 1        | 1.35%   |
-| ViewSonic LCD Monitor VP2468 Series 3520x1080                         | 1        | 1.35%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                 | 1        | 1.35%   |
-| Sony TV SNYF301 1920x1080                                             | 1        | 1.35%   |
-| Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                         | 1        | 1.35%   |
-| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                    | 1        | 1.35%   |
-| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch  | 1        | 1.35%   |
-| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch   | 1        | 1.35%   |
-| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch     | 1        | 1.35%   |
-| Samsung Electronics LCD Monitor SAM07C5 1920x1080 890x500mm 40.2-inch | 1        | 1.35%   |
-| Samsung Electronics LCD Monitor S24D330 3840x1080                     | 1        | 1.35%   |
-| Samsung Electronics LCD Monitor S24D330                               | 1        | 1.35%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.35%   |
-| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                | 1        | 1.35%   |
-| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch              | 1        | 1.35%   |
-| PKB LCD Monitor Viseo223DX 1920x1080                                  | 1        | 1.35%   |
-| Philips PHL 436M6VBP PHLC179 3840x2160 941x529mm 42.5-inch            | 1        | 1.35%   |
-| Philips LCD Monitor PHLC0BF 1600x900 430x240mm 19.4-inch              | 1        | 1.35%   |
-| Philips LCD Monitor FTV                                               | 1        | 1.35%   |
-| ONKYO LCD Monitor TX-SR608 5760x2160                                  | 1        | 1.35%   |
-| ONKYO LCD Monitor TX-SR608                                            | 1        | 1.35%   |
-| ONKYO LCD Monitor AV Receiver 5760x2160                               | 1        | 1.35%   |
-| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                 | 1        | 1.35%   |
-| LG Electronics LCD Monitor LG HDR 4K 5760x2160                        | 1        | 1.35%   |
-| LG Electronics LCD Monitor LG FULL HD 1920x1080                       | 1        | 1.35%   |
-| LG Electronics LCD Monitor 23MB35 1920x1080                           | 1        | 1.35%   |
-| Hewlett-Packard ZR2440w HWP2956 1920x1200 518x324mm 24.1-inch         | 1        | 1.35%   |
-| Hewlett-Packard w22 HWP26AE 1680x1050 470x300mm 22.0-inch             | 1        | 1.35%   |
-| Hewlett-Packard LP1965 HWP2693 1280x1024 380x300mm 19.1-inch          | 1        | 1.35%   |
-| HannStar HF225 HSP18BB 1920x1080 477x268mm 21.5-inch                  | 1        | 1.35%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 1.35%   |
-| Goldstar 22BK55 GSM5A30 1680x1050 480x300mm 22.3-inch                 | 1        | 1.35%   |
-| Eizo EV2436W ENC2384 1920x1200 519x324mm 24.1-inch                    | 1        | 1.35%   |
-| Dell S2309W DELA041 1920x1080 509x286mm 23.0-inch                     | 1        | 1.35%   |
-| Dell P2719H DEL4185 1920x1080 600x340mm 27.2-inch                     | 1        | 1.35%   |
-| Dell P2715Q DEL40BF 3840x2160 597x336mm 27.0-inch                     | 1        | 1.35%   |
-| Dell P2214H DELA097 1920x1080 477x268mm 21.5-inch                     | 1        | 1.35%   |
-| Dell LCD Monitor U2715H 2560x1440                                     | 1        | 1.35%   |
-| Dell LCD Monitor ST2420L                                              | 1        | 1.35%   |
-| Dell LCD Monitor SP2309W                                              | 1        | 1.35%   |
-| Dell LCD Monitor P190S 2560x1024                                      | 1        | 1.35%   |
-| Compal TERRA 2450W WOR2450 1920x1080 341x256mm 16.8-inch              | 1        | 1.35%   |
-| BenQ PD3200U BNQ8025 3840x2160 708x399mm 32.0-inch                    | 1        | 1.35%   |
-| BenQ LCD Monitor LCD 4480x1440                                        | 1        | 1.35%   |
-| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                     | 1        | 1.35%   |
-| BenQ G900 BNQ7804 1280x1024 376x301mm 19.0-inch                       | 1        | 1.35%   |
-| BenQ FP71G+ BNQ7688 1280x1024 338x270mm 17.0-inch                     | 1        | 1.35%   |
-| ASUSTek Computer VG278 AUS27AF 1920x1080 598x336mm 27.0-inch          | 1        | 1.35%   |
-| AOC LCD Monitor 2060W 3520x1080                                       | 1        | 1.35%   |
-| AOC LCD Monitor 2060W 3200x900                                        | 1        | 1.35%   |
-| AOC CT500G AOCE556 1024x768 280x210mm 13.8-inch                       | 1        | 1.35%   |
-| AOC 2250W AOC2250 1920x1080 477x268mm 21.5-inch                       | 1        | 1.35%   |
-| AOC 2240w AOC2240 1920x1080 480x270mm 21.7-inch                       | 1        | 1.35%   |
-| AOC 2060W3 AOC2060 1920x1080 435x239mm 19.5-inch                      | 1        | 1.35%   |
-| Ancor Communications VW246 ACI24F2 1920x1080 531x299mm 24.0-inch      | 1        | 1.35%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                    | 4        | 5.41%   |
+| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                  | 2        | 2.7%    |
+| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch       | 2        | 2.7%    |
+| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch  | 2        | 2.7%    |
+| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch          | 1        | 1.35%   |
+| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch            | 1        | 1.35%   |
+| ViewSonic LCD Monitor VP2468 Series 3520x1080                          | 1        | 1.35%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                  | 1        | 1.35%   |
+| Sony TV SNYF301 1920x1080                                              | 1        | 1.35%   |
+| Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                          | 1        | 1.35%   |
+| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                     | 1        | 1.35%   |
+| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch   | 1        | 1.35%   |
+| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch    | 1        | 1.35%   |
+| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1        | 1.35%   |
+| Samsung Electronics LCD Monitor SAM07C5 1920x1080 1020x570mm 46.0-inch | 1        | 1.35%   |
+| Samsung Electronics LCD Monitor S24D330 3840x1080                      | 1        | 1.35%   |
+| Samsung Electronics LCD Monitor S24D330                                | 1        | 1.35%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1        | 1.35%   |
+| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                 | 1        | 1.35%   |
+| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch               | 1        | 1.35%   |
+| PKB LCD Monitor Viseo223DX 1920x1080                                   | 1        | 1.35%   |
+| Philips PHL 436M6VBP PHLC179 3840x2160 941x529mm 42.5-inch             | 1        | 1.35%   |
+| Philips LCD Monitor FTV                                                | 1        | 1.35%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1        | 1.35%   |
+| Onkyo LCD Monitor TX-SR608 5760x2160                                   | 1        | 1.35%   |
+| Onkyo LCD Monitor TX-SR608                                             | 1        | 1.35%   |
+| Onkyo LCD Monitor AV Receiver 5760x2160                                | 1        | 1.35%   |
+| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                  | 1        | 1.35%   |
+| LG Electronics LCD Monitor LG HDR 4K 5760x2160                         | 1        | 1.35%   |
+| LG Electronics LCD Monitor LG FULL HD 1920x1080                        | 1        | 1.35%   |
+| LG Electronics LCD Monitor 23MB35 1920x1080                            | 1        | 1.35%   |
+| Hewlett-Packard ZR2440w HWP2956 1920x1200 518x324mm 24.1-inch          | 1        | 1.35%   |
+| Hewlett-Packard w22 HWP26AE 1680x1050 470x300mm 22.0-inch              | 1        | 1.35%   |
+| Hewlett-Packard LP1965 HWP2693 1280x1024 380x300mm 19.1-inch           | 1        | 1.35%   |
+| HannStar HF225 HSP18BB 1920x1080 477x268mm 21.5-inch                   | 1        | 1.35%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 1        | 1.35%   |
+| Goldstar 22BK55 GSM5A30 1680x1050 480x300mm 22.3-inch                  | 1        | 1.35%   |
+| Eizo EV2436W ENC2384 1920x1200 519x324mm 24.1-inch                     | 1        | 1.35%   |
+| Dell S2309W DELA041 1920x1080 509x286mm 23.0-inch                      | 1        | 1.35%   |
+| Dell P2719H DEL4185 1920x1080 598x336mm 27.0-inch                      | 1        | 1.35%   |
+| Dell P2715Q DEL40BF 3840x2160 597x336mm 27.0-inch                      | 1        | 1.35%   |
+| Dell P2214H DELA097 1920x1080 477x268mm 21.5-inch                      | 1        | 1.35%   |
+| Dell LCD Monitor U2715H 2560x1440                                      | 1        | 1.35%   |
+| Dell LCD Monitor ST2420L                                               | 1        | 1.35%   |
+| Dell LCD Monitor SP2309W                                               | 1        | 1.35%   |
+| Dell LCD Monitor P190S 2560x1024                                       | 1        | 1.35%   |
+| Compal TERRA 2450W WOR2450 1920x1080 341x256mm 16.8-inch               | 1        | 1.35%   |
+| BenQ PD3200U BNQ8025 3840x2160 708x399mm 32.0-inch                     | 1        | 1.35%   |
+| BenQ LCD Monitor LCD 4480x1440                                         | 1        | 1.35%   |
+| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                      | 1        | 1.35%   |
+| BenQ G900 BNQ7804 1280x1024 376x301mm 19.0-inch                        | 1        | 1.35%   |
+| BenQ FP71G+ BNQ7688 1280x1024 338x270mm 17.0-inch                      | 1        | 1.35%   |
+| ASUSTek Computer VG278 AUS27AF 1920x1080 598x336mm 27.0-inch           | 1        | 1.35%   |
+| AOC LCD Monitor 2060W 3520x1080                                        | 1        | 1.35%   |
+| AOC LCD Monitor 2060W 3200x900                                         | 1        | 1.35%   |
+| AOC CT500G AOCE556 1024x768 280x210mm 13.8-inch                        | 1        | 1.35%   |
+| AOC 2250W AOC2250 1920x1080 477x268mm 21.5-inch                        | 1        | 1.35%   |
+| AOC 2240w AOC2240 1920x1080 480x270mm 21.7-inch                        | 1        | 1.35%   |
+| AOC 2060W3 AOC2060 1920x1080 435x239mm 19.5-inch                       | 1        | 1.35%   |
+| Ancor Communications VW246 ACI24F2 1920x1080 531x299mm 24.0-inch       | 1        | 1.35%   |
 
 Monitor Resolution
 ------------------
@@ -2477,7 +2477,7 @@ Memory module vendors
 | Unknown (ABCD)      | 1        | 3.03%   |
 | Nanya Technology    | 1        | 3.03%   |
 | Micron Technology   | 1        | 3.03%   |
-| GOODRAM             | 1        | 3.03%   |
+| Goodram             | 1        | 3.03%   |
 | Crucial             | 1        | 3.03%   |
 
 Memory Model
@@ -2490,7 +2490,7 @@ Memory module models
 
 | Model                                                          | Desktops | Percent |
 |----------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX2400C15/16G 16384MB DIMM DDR4 3334MT/s         | 2        | 5.41%   |
+| Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 3334MT/s            | 2        | 5.41%   |
 | G.Skill RAM F3-12800CL9-4GBXM 4096MB DIMM DDR3 1600MT/s        | 2        | 5.41%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                           | 1        | 2.7%    |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 2.7%    |
@@ -2505,19 +2505,19 @@ Memory module models
 | Team RAM Elite-16 4GB DIMM DDR3 1600MT/s                       | 1        | 2.7%    |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 2.7%    |
 | Samsung RAM M391A2K43BB1-CTD 16384MB DIMM DDR4 3600MT/s        | 1        | 2.7%    |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s         | 1        | 2.7%    |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 2.7%    |
 | Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s             | 1        | 2.7%    |
 | Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s            | 1        | 2.7%    |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s              | 1        | 2.7%    |
-| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 2933MT/s           | 1        | 2.7%    |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s              | 1        | 2.7%    |
 | Kingston RAM KHX2133C11D3/8GX 8GB DIMM DDR3 2133MT/s           | 1        | 2.7%    |
 | Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s          | 1        | 2.7%    |
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s         | 1        | 2.7%    |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 1        | 2.7%    |
 | Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s          | 1        | 2.7%    |
 | Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2133MT/s           | 1        | 2.7%    |
 | Kingston RAM 9905624-054.A00G 8192MB SODIMM DDR4 2400MT/s      | 1        | 2.7%    |
 | Kingston RAM 9905403-439.A00LF 4GB DIMM DDR3 1600MT/s          | 1        | 2.7%    |
-| GOODRAM RAM GY1600D364L10/8G 8192MB DIMM DDR3 1600MT/s         | 1        | 2.7%    |
+| Goodram RAM GY1600D364L10/8G 8192MB DIMM DDR3 1600MT/s         | 1        | 2.7%    |
 | G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s          | 1        | 2.7%    |
 | G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s             | 1        | 2.7%    |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s            | 1        | 2.7%    |

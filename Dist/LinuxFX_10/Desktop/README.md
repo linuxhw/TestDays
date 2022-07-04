@@ -715,7 +715,7 @@ Hard drive vendors
 | Samsung Electronics | 3        | 4      | 7.14%   |
 | Hitachi             | 3        | 3      | 7.14%   |
 | Toshiba             | 2        | 2      | 4.76%   |
-| MAXTOR              | 2        | 2      | 4.76%   |
+| Maxtor              | 2        | 2      | 4.76%   |
 | Kingston            | 2        | 3      | 4.76%   |
 | XPG                 | 1        | 1      | 2.38%   |
 | TO Exter            | 1        | 1      | 2.38%   |
@@ -741,7 +741,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | WDC WD10EZEX-08WN4A0 1TB           | 2        | 4.08%   |
-| XPG GAMMIX S11 Pro 256GB           | 1        | 2.04%   |
+| XPG GAMMIX S11 Pro 1TB             | 1        | 2.04%   |
 | WDC WD5000AAKX-001CA0 500GB        | 1        | 2.04%   |
 | WDC WD5000AACS-00G8B1 500GB        | 1        | 2.04%   |
 | WDC WD400JD-55MSA1 40GB            | 1        | 2.04%   |
@@ -753,7 +753,7 @@ Hard drive models
 | WDC WD1003FZEX-00MK2A0 1TB         | 1        | 2.04%   |
 | Toshiba MQ01ACF050 500GB           | 1        | 2.04%   |
 | Toshiba MQ01ABD050 500GB           | 1        | 2.04%   |
-| TO Exter nal USB 3.0 320GB         | 1        | 2.04%   |
+| TO Exter nal USB 3.0 256GB         | 1        | 2.04%   |
 | Seagate ST500LX012-SSHD-8GB        | 1        | 2.04%   |
 | Seagate ST500DM002-1BD142 500GB    | 1        | 2.04%   |
 | Seagate ST3200826AS 200GB          | 1        | 2.04%   |
@@ -776,8 +776,8 @@ Hard drive models
 | Patriot Burst 120GB SSD            | 1        | 2.04%   |
 | OCZ ARC100 240GB SSD               | 1        | 2.04%   |
 | Mushkin MKNSSDSR250GB              | 1        | 2.04%   |
-| MAXTOR STM3160215AS 160GB          | 1        | 2.04%   |
-| MAXTOR 6Y120L0 122GB               | 1        | 2.04%   |
+| Maxtor STM3160215AS 160GB          | 1        | 2.04%   |
+| Maxtor 6Y120L0 122GB               | 1        | 2.04%   |
 | Kingston SV300S37A120G 120GB SSD   | 1        | 2.04%   |
 | Kingston SA400S37480G 480GB SSD    | 1        | 2.04%   |
 | Hitachi HUS724040ALE641 4TB        | 1        | 2.04%   |
@@ -804,7 +804,7 @@ Hard disk drive vendors
 | Samsung Electronics | 3        | 4      | 11.54%  |
 | Hitachi             | 3        | 3      | 11.54%  |
 | Toshiba             | 2        | 2      | 7.69%   |
-| MAXTOR              | 2        | 2      | 7.69%   |
+| Maxtor              | 2        | 2      | 7.69%   |
 | ASMT109x            | 1        | 1      | 3.85%   |
 
 SSD Vendor
@@ -1356,14 +1356,14 @@ Monitor models
 
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
-| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 2        | 9.09%   |
+| Goldstar W2043 GSM4E9D 1600x900 450x250mm 20.3-inch                    | 2        | 9.09%   |
 | ViewSonic VX3211-2K VSCF634 2560x1440 698x392mm 31.5-inch              | 1        | 4.55%   |
-| Sceptre Tech X325BV-FMQR SPT0CB8 1920x1080 700x390mm 31.5-inch         | 1        | 4.55%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch      | 1        | 4.55%   |
+| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                  | 1        | 4.55%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch      | 1        | 4.55%   |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch   | 1        | 4.55%   |
 | Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch     | 1        | 4.55%   |
 | Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch | 1        | 4.55%   |
-| Philips LCD Monitor PHLC0BF 1600x900 430x240mm 19.4-inch               | 1        | 4.55%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1        | 4.55%   |
 | Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                     | 1        | 4.55%   |
 | Iiyama PLX2481H IVM611D 1920x1080 521x293mm 23.5-inch                  | 1        | 4.55%   |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch           | 1        | 4.55%   |
@@ -1539,13 +1539,13 @@ Controller models
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                 | 2        | 5.26%   |
 | Realtek 802.11ac NIC                                                                  | 2        | 5.26%   |
 | Nvidia MCP61 Ethernet                                                                 | 2        | 5.26%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                 | 1        | 2.63%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1        | 2.63%   |
 | TP-Link Archer T4U ver.3                                                              | 1        | 2.63%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1        | 2.63%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1        | 2.63%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                 | 1        | 2.63%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1        | 2.63%   |
-| Qualcomm M2012K11AG                                                                   | 1        | 2.63%   |
+| Qualcomm POCO F2 Pro                                                                  | 1        | 2.63%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 1        | 2.63%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                         | 1        | 2.63%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1        | 2.63%   |
@@ -1584,7 +1584,7 @@ Wireless models
 | Model                                                                                 | Desktops | Percent |
 |---------------------------------------------------------------------------------------|----------|---------|
 | Realtek 802.11ac NIC                                                                  | 2        | 14.29%  |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                 | 1        | 7.14%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1        | 7.14%   |
 | TP-Link Archer T4U ver.3                                                              | 1        | 7.14%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1        | 7.14%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1        | 7.14%   |
@@ -1627,7 +1627,7 @@ Ethernet models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 16       | 66.67%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 8.33%   |
 | Nvidia MCP61 Ethernet                                             | 2        | 8.33%   |
-| Qualcomm M2012K11AG                                               | 1        | 4.17%   |
+| Qualcomm POCO F2 Pro                                              | 1        | 4.17%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 4.17%   |
 | Intel 82574L Gigabit Network Connection                           | 1        | 4.17%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 4.17%   |
@@ -1713,7 +1713,7 @@ Controller models
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 2        | 33.33%  |
-| Qualcomm Atheros  Bluetooth Device                    | 1        | 16.67%  |
+| Qualcomm Atheros AR9462 Bluetooth                     | 1        | 16.67%  |
 | Qualcomm Atheros AR3011 Bluetooth                     | 1        | 16.67%  |
 | Integrated System Solution KY-BT100 Bluetooth Adapter | 1        | 16.67%  |
 | Apple Built-in Bluetooth 2.0+EDR HCI                  | 1        | 16.67%  |
