@@ -971,8 +971,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 52       | 70.27%  |
-| Yes       | 22       | 29.73%  |
+| No        | 52       | 69.33%  |
+| Yes       | 23       | 30.67%  |
 
 Has Ethernet
 ------------
@@ -1885,12 +1885,12 @@ Monitor models
 | Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch           | 2        | 2.94%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 2        | 2.94%   |
 | Dell S2240L DELD054 1920x1080 476x267mm 21.5-inch                    | 2        | 2.94%   |
-| Dell E1916HV DELF06C 1366x768 409x230mm 18.5-inch                    | 2        | 2.94%   |
+| Dell E1916HV DELF06C 1366x768 410x230mm 18.5-inch                    | 2        | 2.94%   |
 | Dell D1918H DEL2005 1366x768 410x230mm 18.5-inch                     | 2        | 2.94%   |
 | ___ AAA ___1062 1440x900 410x260mm 19.1-inch                         | 1        | 1.47%   |
 | ViewSonic VX2276 Series VSC2F32 1920x1080 476x268mm 21.5-inch        | 1        | 1.47%   |
-| ViewSonic VX2263 Series VSC692F 1920x1080 476x268mm 21.5-inch        | 1        | 1.47%   |
 | ViewSonic VX1951m VSCD627 1600x900 410x260mm 19.1-inch               | 1        | 1.47%   |
+| ViewSonic LCD Monitor VSC692F 1920x1080 480x270mm 21.7-inch          | 1        | 1.47%   |
 | UTV MONITOR UTV0030 1920x1080 580x330mm 26.3-inch                    | 1        | 1.47%   |
 | Unknown AAA 1062 1440x900 341x256mm 16.8-inch                        | 1        | 1.47%   |
 | Sony TV SNYAB03 1920x1080                                            | 1        | 1.47%   |
@@ -1900,14 +1900,14 @@ Monitor models
 | Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch    | 1        | 1.47%   |
 | Samsung Electronics S22E390 SAM0C17 1920x1080 477x268mm 21.5-inch    | 1        | 1.47%   |
 | Samsung Electronics S19B150 SAM0980 1366x768 410x230mm 18.5-inch     | 1        | 1.47%   |
-| Samsung Electronics LF22T35 SAM707B 1920x1080 477x268mm 21.5-inch    | 1        | 1.47%   |
+| Samsung Electronics LF22T35 SAM707B 1920x1080 480x270mm 21.7-inch    | 1        | 1.47%   |
 | Samsung Electronics LCD Monitor SyncMaster                           | 1        | 1.47%   |
 | Samsung Electronics LCD Monitor S22R35x 1920x1080                    | 1        | 1.47%   |
 | QXS QUHMINEI185 QXS1850 1366x768 410x230mm 18.5-inch                 | 1        | 1.47%   |
-| Philips PHL 226E9Q PHLC17D 1920x1080 476x268mm 21.5-inch             | 1        | 1.47%   |
+| Philips PHL 226E9Q PHLC17D 1920x1080 477x268mm 21.5-inch             | 1        | 1.47%   |
 | Philips 224EL PHLC054 1920x1080 476x268mm 21.5-inch                  | 1        | 1.47%   |
 | Philips 196VL PHLC07F 1366x768 409x230mm 18.5-inch                   | 1        | 1.47%   |
-| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch               | 1        | 1.47%   |
+| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch              | 1        | 1.47%   |
 | Hewlett-Packard LV1561w HWP2837 1366x768 344x194mm 15.5-inch         | 1        | 1.47%   |
 | Hewlett-Packard E233 HPN345F 1920x1080 509x286mm 23.0-inch           | 1        | 1.47%   |
 | Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch           | 1        | 1.47%   |
@@ -2110,9 +2110,9 @@ Controller models
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                      | 2        | 1.79%   |
 | Realtek RTL8125 2.5GbE Controller                                          | 2        | 1.79%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                      | 2        | 1.79%   |
-| Qualcomm Redmi 9T                                                          | 2        | 1.79%   |
+| Qualcomm BENGAL-QRD _SN:C5464635                                           | 2        | 1.79%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                       | 1        | 0.89%   |
-| TP-Link Archer T4U ver.3                                                   | 1        | 0.89%   |
+| TP-Link 802.11ac NIC                                                       | 1        | 0.89%   |
 | Sundance Inc / IC Plus IP1000 Family Gigabit Ethernet                      | 1        | 0.89%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                     | 1        | 0.89%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                            | 1        | 0.89%   |
@@ -2166,7 +2166,7 @@ Wireless models
 | Realtek RTL8192CU 802.11n WLAN Adapter                                     | 2        | 6.67%   |
 | Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)                  | 2        | 6.67%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                      | 2        | 6.67%   |
-| TP-Link Archer T4U ver.3                                                   | 1        | 3.33%   |
+| TP-Link 802.11ac NIC                                                       | 1        | 3.33%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                     | 1        | 3.33%   |
 | Ralink RT5370 Wireless Adapter                                             | 1        | 3.33%   |
 | Ralink RT2501/RT2573 Wireless Adapter                                      | 1        | 3.33%   |
@@ -2210,7 +2210,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 3        | 3.66%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 2        | 2.44%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2        | 2.44%   |
-| Qualcomm Redmi 9T                                                 | 2        | 2.44%   |
+| Qualcomm BENGAL-QRD _SN:C5464635                                  | 2        | 2.44%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.22%   |
 | Sundance Inc / IC Plus IP1000 Family Gigabit Ethernet             | 1        | 1.22%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.22%   |
@@ -2343,7 +2343,7 @@ Sound card models
 | Intel 200 Series PCH HD Audio                                                     | 7        | 5.47%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                               | 7        | 5.47%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                  | 6        | 4.69%   |
-| Generalplus Technology IMYB 7.1 Channel                                           | 6        | 4.69%   |
+| Generalplus Technology USB Audio Device                                           | 6        | 4.69%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 5        | 3.91%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                          | 5        | 3.91%   |
 | AMD Starship/Matisse HD Audio Controller                                          | 5        | 3.91%   |
@@ -2431,23 +2431,23 @@ Memory module models
 | Transcend RAM TX2133KLN-8GK 4096MB DIMM DDR3 2000MT/s     | 1        | 2.78%   |
 | Transcend RAM JM1600KLN-4GK 2GB DIMM DDR3 1600MT/s        | 1        | 2.78%   |
 | Transcend RAM JM1600KLN-4G 4096MB DIMM DDR3 1600MT/s      | 1        | 2.78%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s       | 1        | 2.78%   |
-| Team RAM TEAMGROUP-UD4-2666 8192MB DIMM DDR4 2667MT/s     | 1        | 2.78%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s       | 1        | 2.78%   |
+| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2667MT/s        | 1        | 2.78%   |
 | Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                | 1        | 2.78%   |
 | SemsoTai RAM Module 4GB DIMM DDR4 2400MT/s                | 1        | 2.78%   |
 | SemsoTai RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 2.78%   |
 | SemsoTai RAM Module 4096MB DIMM DDR4 2400MT/s             | 1        | 2.78%   |
 | Ramos RAM EWB4GB681PAE-16IC 4096MB DIMM DDR3 1600MT/s     | 1        | 2.78%   |
 | Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s     | 1        | 2.78%   |
-| Ramaxel RAM RMR5030ME68F9F1600 4GB DIMM DDR3 1600MT/s     | 1        | 2.78%   |
+| Ramaxel RAM RMR5030ME68F9F1600 4096MB DIMM DDR3 1600MT/s  | 1        | 2.78%   |
 | Qumo RAM Module 8192MB DIMM DDR4 2400MT/s                 | 1        | 2.78%   |
-| Kingston RAM KHX2400C15D4/4G 4096MB DIMM DDR4 3151MT/s    | 1        | 2.78%   |
+| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 3151MT/s       | 1        | 2.78%   |
 | Kingston RAM CL16-18-18 D4-3200 8192MB DIMM DDR4 3200MT/s | 1        | 2.78%   |
 | Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s     | 1        | 2.78%   |
 | GeIL RAM CL11-11-11 D3-1600 4GB DIMM DDR3 1600MT/s        | 1        | 2.78%   |
 | G.Skill RAM F4-3200C16-4GTZB 4GB DIMM DDR4 2800MT/s       | 1        | 2.78%   |
 | G.Skill RAM F4-3200C16-16GTZR 16GB DIMM DDR4 3333MT/s     | 1        | 2.78%   |
-| G.Skill RAM F4-3000C15-16GVR 16GB DIMM DDR4 3000MT/s      | 1        | 2.78%   |
+| G.Skill RAM F4-3000C15-16GVR 16384MB DIMM DDR4 3000MT/s   | 1        | 2.78%   |
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s        | 1        | 2.78%   |
 | Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s      | 1        | 2.78%   |
 | Corsair RAM CM4X8GD3200C16K2E 8192MB DIMM DDR4 3200MT/s   | 1        | 2.78%   |
@@ -2599,7 +2599,7 @@ Camera device models
 | SiGma Micro WebCam SiGma Micro    | 1        | 11.11%  |
 | Realtek Integrated_Webcam_FHD     | 1        | 11.11%  |
 | ANYKA V380 FHD Camera             | 1        | 11.11%  |
-| Alcor Micro USB 2.0 Camera        | 1        | 11.11%  |
+| Alcor Micro USB 2.0 PC cam        | 1        | 11.11%  |
 
 Security
 --------
@@ -2645,8 +2645,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 62       | 81.58%  |
-| 1     | 13       | 17.11%  |
+| 0     | 61       | 80.26%  |
+| 1     | 14       | 18.42%  |
 | 3     | 1        | 1.32%   |
 
 Unsupported Device Types
@@ -2659,8 +2659,8 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 7        | 50%     |
-| Graphics card            | 5        | 35.71%  |
-| Communication controller | 1        | 7.14%   |
-| Camera                   | 1        | 7.14%   |
+| Net/wireless             | 7        | 46.67%  |
+| Graphics card            | 6        | 40%     |
+| Communication controller | 1        | 6.67%   |
+| Camera                   | 1        | 6.67%   |
 

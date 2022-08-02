@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 59
+Total: 60
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | Z97-P                    | [eeb9068dca](https://linux-hardware.org/?probe=eeb9068dca) | Jul 27, 2022 |
 | HP            | 0A54h                    | [0efed10555](https://linux-hardware.org/?probe=0efed10555) | Mar 29, 2022 |
 | ASUSTek       | H61M-K                   | [456ab60c06](https://linux-hardware.org/?probe=456ab60c06) | Feb 22, 2022 |
 | ASUSTek       | H81M-R                   | [95ccf112af](https://linux-hardware.org/?probe=95ccf112af) | Feb 14, 2022 |
@@ -232,30 +233,30 @@ Installed operating systems
 
 | Name                | Desktops | Percent |
 |---------------------|----------|---------|
-| Ubuntu 20.04        | 7        | 16.67%  |
-| Ubuntu 18.04        | 6        | 14.29%  |
-| OpenMandriva 4.3    | 3        | 7.14%   |
-| Linux Mint 19.1     | 3        | 7.14%   |
-| Xubuntu 20.04       | 2        | 4.76%   |
-| Linux Mint 20.1     | 2        | 4.76%   |
-| Debian 10           | 2        | 4.76%   |
-| Zorin 15            | 1        | 2.38%   |
-| Ubuntu Studio 20.04 | 1        | 2.38%   |
-| Ubuntu 21.10        | 1        | 2.38%   |
-| ROSA R10            | 1        | 2.38%   |
-| Pop!_OS 20.10       | 1        | 2.38%   |
-| Pop!_OS 20.04       | 1        | 2.38%   |
-| Manjaro 20.2        | 1        | 2.38%   |
-| Manjaro             | 1        | 2.38%   |
-| Lubuntu 18.04       | 1        | 2.38%   |
-| Linux Mint 19.3     | 1        | 2.38%   |
-| KDE neon 20.04      | 1        | 2.38%   |
-| KDE neon 18.04      | 1        | 2.38%   |
-| Fedora 33           | 1        | 2.38%   |
-| Fedora 32           | 1        | 2.38%   |
-| Endless 3.7.8       | 1        | 2.38%   |
-| Debian 9            | 1        | 2.38%   |
-| Debian 11           | 1        | 2.38%   |
+| Ubuntu 20.04        | 7        | 16.28%  |
+| Ubuntu 18.04        | 6        | 13.95%  |
+| OpenMandriva 4.3    | 4        | 9.3%    |
+| Linux Mint 19.1     | 3        | 6.98%   |
+| Xubuntu 20.04       | 2        | 4.65%   |
+| Linux Mint 20.1     | 2        | 4.65%   |
+| Debian 10           | 2        | 4.65%   |
+| Zorin 15            | 1        | 2.33%   |
+| Ubuntu Studio 20.04 | 1        | 2.33%   |
+| Ubuntu 21.10        | 1        | 2.33%   |
+| ROSA R10            | 1        | 2.33%   |
+| Pop!_OS 20.10       | 1        | 2.33%   |
+| Pop!_OS 20.04       | 1        | 2.33%   |
+| Manjaro 20.2        | 1        | 2.33%   |
+| Manjaro             | 1        | 2.33%   |
+| Lubuntu 18.04       | 1        | 2.33%   |
+| Linux Mint 19.3     | 1        | 2.33%   |
+| KDE neon 20.04      | 1        | 2.33%   |
+| KDE neon 18.04      | 1        | 2.33%   |
+| Fedora 33           | 1        | 2.33%   |
+| Fedora 32           | 1        | 2.33%   |
+| Endless 3.7.8       | 1        | 2.33%   |
+| Debian 9            | 1        | 2.33%   |
+| Debian 11           | 1        | 2.33%   |
 
 OS Family
 ---------
@@ -267,20 +268,20 @@ OS without a version
 
 | Name          | Desktops | Percent |
 |---------------|----------|---------|
-| Ubuntu        | 13       | 31.71%  |
-| Linux Mint    | 6        | 14.63%  |
-| Debian        | 4        | 9.76%   |
-| OpenMandriva  | 3        | 7.32%   |
-| Xubuntu       | 2        | 4.88%   |
-| Pop!_OS       | 2        | 4.88%   |
-| Manjaro       | 2        | 4.88%   |
-| KDE neon      | 2        | 4.88%   |
-| Fedora        | 2        | 4.88%   |
-| Zorin         | 1        | 2.44%   |
-| Ubuntu Studio | 1        | 2.44%   |
-| ROSA          | 1        | 2.44%   |
-| Lubuntu       | 1        | 2.44%   |
-| Endless       | 1        | 2.44%   |
+| Ubuntu        | 13       | 30.95%  |
+| Linux Mint    | 6        | 14.29%  |
+| OpenMandriva  | 4        | 9.52%   |
+| Debian        | 4        | 9.52%   |
+| Xubuntu       | 2        | 4.76%   |
+| Pop!_OS       | 2        | 4.76%   |
+| Manjaro       | 2        | 4.76%   |
+| KDE neon      | 2        | 4.76%   |
+| Fedora        | 2        | 4.76%   |
+| Zorin         | 1        | 2.38%   |
+| Ubuntu Studio | 1        | 2.38%   |
+| ROSA          | 1        | 2.38%   |
+| Lubuntu       | 1        | 2.38%   |
+| Endless       | 1        | 2.38%   |
 
 Kernel
 ------
@@ -292,44 +293,44 @@ Version of the Linux kernel
 
 | Version                         | Desktops | Percent |
 |---------------------------------|----------|---------|
-| 5.16.7-desktop-1omv4003         | 3        | 6.25%   |
-| 5.8.0-59-generic                | 2        | 4.17%   |
-| 5.4.0-52-generic                | 2        | 4.17%   |
-| 5.3.0-42-generic                | 2        | 4.17%   |
-| 4.19.0-13-amd64                 | 2        | 4.17%   |
-| 4.18.0-15-generic               | 2        | 4.17%   |
-| 4.15.0-94-generic               | 2        | 4.17%   |
-| 4.15.0-47-generic               | 2        | 4.17%   |
-| 4.15.0-20-generic               | 2        | 4.17%   |
-| 5.9.8-2-MANJARO                 | 1        | 2.08%   |
-| 5.8.11-200.fc32.x86_64          | 1        | 2.08%   |
-| 5.8.0-7630-generic              | 1        | 2.08%   |
-| 5.4.0-7634-generic              | 1        | 2.08%   |
-| 5.4.0-74-generic                | 1        | 2.08%   |
-| 5.4.0-73-generic                | 1        | 2.08%   |
-| 5.4.0-67-generic                | 1        | 2.08%   |
-| 5.4.0-66-generic                | 1        | 2.08%   |
-| 5.4.0-47-generic                | 1        | 2.08%   |
-| 5.4.0-42-generic                | 1        | 2.08%   |
-| 5.4.0-40-generic                | 1        | 2.08%   |
-| 5.4.0-39-generic                | 1        | 2.08%   |
-| 5.4.0-37-generic                | 1        | 2.08%   |
-| 5.4.0-31-generic                | 1        | 2.08%   |
-| 5.3.0-28-generic                | 1        | 2.08%   |
-| 5.13.0-23-generic               | 1        | 2.08%   |
-| 5.11.19-200.fc33.x86_64         | 1        | 2.08%   |
-| 5.11.0-44-lowlatency            | 1        | 2.08%   |
-| 5.11.0-38-generic               | 1        | 2.08%   |
-| 5.10.60-1-MANJARO               | 1        | 2.08%   |
-| 5.10.34-1-MANJARO               | 1        | 2.08%   |
-| 5.10.0-7-amd64                  | 1        | 2.08%   |
-| 5.0.0-32-generic                | 1        | 2.08%   |
-| 5.0.0-31-generic                | 1        | 2.08%   |
-| 4.9.60-nrj-desktop-1rosa-x86_64 | 1        | 2.08%   |
-| 4.9.0-11-amd64                  | 1        | 2.08%   |
-| 4.18.0-25-generic               | 1        | 2.08%   |
-| 4.15.0-73-generic               | 1        | 2.08%   |
-| 4.15.0-173-generic              | 1        | 2.08%   |
+| 5.16.7-desktop-1omv4003         | 4        | 8.16%   |
+| 5.8.0-59-generic                | 2        | 4.08%   |
+| 5.4.0-52-generic                | 2        | 4.08%   |
+| 5.3.0-42-generic                | 2        | 4.08%   |
+| 4.19.0-13-amd64                 | 2        | 4.08%   |
+| 4.18.0-15-generic               | 2        | 4.08%   |
+| 4.15.0-94-generic               | 2        | 4.08%   |
+| 4.15.0-47-generic               | 2        | 4.08%   |
+| 4.15.0-20-generic               | 2        | 4.08%   |
+| 5.9.8-2-MANJARO                 | 1        | 2.04%   |
+| 5.8.11-200.fc32.x86_64          | 1        | 2.04%   |
+| 5.8.0-7630-generic              | 1        | 2.04%   |
+| 5.4.0-7634-generic              | 1        | 2.04%   |
+| 5.4.0-74-generic                | 1        | 2.04%   |
+| 5.4.0-73-generic                | 1        | 2.04%   |
+| 5.4.0-67-generic                | 1        | 2.04%   |
+| 5.4.0-66-generic                | 1        | 2.04%   |
+| 5.4.0-47-generic                | 1        | 2.04%   |
+| 5.4.0-42-generic                | 1        | 2.04%   |
+| 5.4.0-40-generic                | 1        | 2.04%   |
+| 5.4.0-39-generic                | 1        | 2.04%   |
+| 5.4.0-37-generic                | 1        | 2.04%   |
+| 5.4.0-31-generic                | 1        | 2.04%   |
+| 5.3.0-28-generic                | 1        | 2.04%   |
+| 5.13.0-23-generic               | 1        | 2.04%   |
+| 5.11.19-200.fc33.x86_64         | 1        | 2.04%   |
+| 5.11.0-44-lowlatency            | 1        | 2.04%   |
+| 5.11.0-38-generic               | 1        | 2.04%   |
+| 5.10.60-1-MANJARO               | 1        | 2.04%   |
+| 5.10.34-1-MANJARO               | 1        | 2.04%   |
+| 5.10.0-7-amd64                  | 1        | 2.04%   |
+| 5.0.0-32-generic                | 1        | 2.04%   |
+| 5.0.0-31-generic                | 1        | 2.04%   |
+| 4.9.60-nrj-desktop-1rosa-x86_64 | 1        | 2.04%   |
+| 4.9.0-11-amd64                  | 1        | 2.04%   |
+| 4.18.0-25-generic               | 1        | 2.04%   |
+| 4.15.0-73-generic               | 1        | 2.04%   |
+| 4.15.0-173-generic              | 1        | 2.04%   |
 
 Kernel Family
 -------------
@@ -341,24 +342,24 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4.0   | 11       | 25%     |
-| 4.15.0  | 6        | 13.64%  |
-| 5.8.0   | 3        | 6.82%   |
-| 5.3.0   | 3        | 6.82%   |
-| 5.16.7  | 3        | 6.82%   |
-| 4.18.0  | 3        | 6.82%   |
-| 5.11.0  | 2        | 4.55%   |
-| 5.0.0   | 2        | 4.55%   |
-| 4.19.0  | 2        | 4.55%   |
-| 5.9.8   | 1        | 2.27%   |
-| 5.8.11  | 1        | 2.27%   |
-| 5.13.0  | 1        | 2.27%   |
-| 5.11.19 | 1        | 2.27%   |
-| 5.10.60 | 1        | 2.27%   |
-| 5.10.34 | 1        | 2.27%   |
-| 5.10.0  | 1        | 2.27%   |
-| 4.9.60  | 1        | 2.27%   |
-| 4.9.0   | 1        | 2.27%   |
+| 5.4.0   | 11       | 24.44%  |
+| 4.15.0  | 6        | 13.33%  |
+| 5.16.7  | 4        | 8.89%   |
+| 5.8.0   | 3        | 6.67%   |
+| 5.3.0   | 3        | 6.67%   |
+| 4.18.0  | 3        | 6.67%   |
+| 5.11.0  | 2        | 4.44%   |
+| 5.0.0   | 2        | 4.44%   |
+| 4.19.0  | 2        | 4.44%   |
+| 5.9.8   | 1        | 2.22%   |
+| 5.8.11  | 1        | 2.22%   |
+| 5.13.0  | 1        | 2.22%   |
+| 5.11.19 | 1        | 2.22%   |
+| 5.10.60 | 1        | 2.22%   |
+| 5.10.34 | 1        | 2.22%   |
+| 5.10.0  | 1        | 2.22%   |
+| 4.9.60  | 1        | 2.22%   |
+| 4.9.0   | 1        | 2.22%   |
 
 Kernel Major Ver.
 -----------------
@@ -370,19 +371,19 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4     | 11       | 25.58%  |
-| 4.15    | 6        | 13.95%  |
-| 5.8     | 4        | 9.3%    |
-| 5.3     | 3        | 6.98%   |
-| 5.16    | 3        | 6.98%   |
-| 5.11    | 3        | 6.98%   |
-| 4.18    | 3        | 6.98%   |
-| 5.10    | 2        | 4.65%   |
-| 5.0     | 2        | 4.65%   |
-| 4.9     | 2        | 4.65%   |
-| 4.19    | 2        | 4.65%   |
-| 5.9     | 1        | 2.33%   |
-| 5.13    | 1        | 2.33%   |
+| 5.4     | 11       | 25%     |
+| 4.15    | 6        | 13.64%  |
+| 5.8     | 4        | 9.09%   |
+| 5.16    | 4        | 9.09%   |
+| 5.3     | 3        | 6.82%   |
+| 5.11    | 3        | 6.82%   |
+| 4.18    | 3        | 6.82%   |
+| 5.10    | 2        | 4.55%   |
+| 5.0     | 2        | 4.55%   |
+| 4.9     | 2        | 4.55%   |
+| 4.19    | 2        | 4.55%   |
+| 5.9     | 1        | 2.27%   |
+| 5.13    | 1        | 2.27%   |
 
 Arch
 ----
@@ -407,15 +408,15 @@ Desktop Environment
 
 | Name       | Desktops | Percent |
 |------------|----------|---------|
-| GNOME      | 16       | 37.21%  |
-| Unknown    | 9        | 20.93%  |
-| XFCE       | 6        | 13.95%  |
-| X-Cinnamon | 3        | 6.98%   |
-| KDE5       | 3        | 6.98%   |
-| Unity      | 2        | 4.65%   |
-| KDE        | 2        | 4.65%   |
-| LXDE       | 1        | 2.33%   |
-| KDE4       | 1        | 2.33%   |
+| GNOME      | 16       | 36.36%  |
+| Unknown    | 9        | 20.45%  |
+| XFCE       | 6        | 13.64%  |
+| KDE5       | 4        | 9.09%   |
+| X-Cinnamon | 3        | 6.82%   |
+| Unity      | 2        | 4.55%   |
+| KDE        | 2        | 4.55%   |
+| LXDE       | 1        | 2.27%   |
+| KDE4       | 1        | 2.27%   |
 
 Display Server
 --------------
@@ -441,12 +442,12 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 27       | 67.5%   |
-| SDDM    | 4        | 10%     |
-| TDM     | 3        | 7.5%    |
-| LightDM | 3        | 7.5%    |
-| GDM     | 2        | 5%      |
-| KDM     | 1        | 2.5%    |
+| Unknown | 27       | 65.85%  |
+| SDDM    | 5        | 12.2%   |
+| TDM     | 3        | 7.32%   |
+| LightDM | 3        | 7.32%   |
+| GDM     | 2        | 4.88%   |
+| KDM     | 1        | 2.44%   |
 
 OS Lang
 -------
@@ -458,14 +459,14 @@ Language
 
 | Lang    | Desktops | Percent |
 |---------|----------|---------|
-| en_US   | 24       | 57.14%  |
-| Unknown | 9        | 21.43%  |
-| bs_BA   | 3        | 7.14%   |
-| hr_HR   | 2        | 4.76%   |
-| sr_RS   | 1        | 2.38%   |
-| it_IT   | 1        | 2.38%   |
-| en_CA   | 1        | 2.38%   |
-| en_AU   | 1        | 2.38%   |
+| en_US   | 25       | 58.14%  |
+| Unknown | 9        | 20.93%  |
+| bs_BA   | 3        | 6.98%   |
+| hr_HR   | 2        | 4.65%   |
+| sr_RS   | 1        | 2.33%   |
+| it_IT   | 1        | 2.33%   |
+| en_CA   | 1        | 2.33%   |
+| en_AU   | 1        | 2.33%   |
 
 Boot Mode
 ---------
@@ -477,8 +478,8 @@ EFI or BIOS
 
 | Mode | Desktops | Percent |
 |------|----------|---------|
-| BIOS | 32       | 80%     |
-| EFI  | 8        | 20%     |
+| BIOS | 32       | 78.05%  |
+| EFI  | 9        | 21.95%  |
 
 Filesystem
 ----------
@@ -490,11 +491,11 @@ Type of filesystem
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Ext4    | 30       | 75%     |
-| Overlay | 4        | 10%     |
-| Unknown | 4        | 10%     |
-| Ext2    | 1        | 2.5%    |
-| Btrfs   | 1        | 2.5%    |
+| Ext4    | 30       | 73.17%  |
+| Overlay | 5        | 12.2%   |
+| Unknown | 4        | 9.76%   |
+| Ext2    | 1        | 2.44%   |
+| Btrfs   | 1        | 2.44%   |
 
 Part. scheme
 ------------
@@ -506,9 +507,9 @@ Scheme of partitioning
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 29       | 72.5%   |
-| GPT     | 7        | 17.5%   |
-| MBR     | 4        | 10%     |
+| Unknown | 29       | 70.73%  |
+| GPT     | 8        | 19.51%  |
+| MBR     | 4        | 9.76%   |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -753,12 +754,12 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 24       | 57.14%  |
-| 2      | 13       | 30.95%  |
-| 3      | 2        | 4.76%   |
-| 5      | 1        | 2.38%   |
-| 4      | 1        | 2.38%   |
-| 0      | 1        | 2.38%   |
+| 1      | 24       | 55.81%  |
+| 2      | 13       | 30.23%  |
+| 3      | 3        | 6.98%   |
+| 5      | 1        | 2.33%   |
+| 4      | 1        | 2.33%   |
+| 0      | 1        | 2.33%   |
 
 Has CD-ROM
 ----------
@@ -770,8 +771,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 23       | 56.1%   |
-| No        | 18       | 43.9%   |
+| Yes       | 23       | 54.76%  |
+| No        | 19       | 45.24%  |
 
 Has Ethernet
 ------------
@@ -871,19 +872,19 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 15       | 24     | 26.79%  |
-| Seagate             | 12       | 16     | 21.43%  |
-| Kingston            | 8        | 10     | 14.29%  |
-| Hitachi             | 6        | 6      | 10.71%  |
-| Samsung Electronics | 5        | 6      | 8.93%   |
-| Toshiba             | 3        | 3      | 5.36%   |
-| Transcend           | 1        | 1      | 1.79%   |
-| ORGE                | 1        | 1      | 1.79%   |
-| Maxtor              | 1        | 1      | 1.79%   |
-| Intel               | 1        | 1      | 1.79%   |
-| Fujitsu             | 1        | 1      | 1.79%   |
-| China               | 1        | 3      | 1.79%   |
-| ASMT                | 1        | 1      | 1.79%   |
+| WDC                 | 15       | 25     | 26.32%  |
+| Seagate             | 12       | 16     | 21.05%  |
+| Kingston            | 9        | 11     | 15.79%  |
+| Hitachi             | 6        | 6      | 10.53%  |
+| Samsung Electronics | 5        | 7      | 8.77%   |
+| Toshiba             | 3        | 3      | 5.26%   |
+| Transcend           | 1        | 1      | 1.75%   |
+| ORGE                | 1        | 1      | 1.75%   |
+| Maxtor              | 1        | 1      | 1.75%   |
+| Intel               | 1        | 1      | 1.75%   |
+| Fujitsu             | 1        | 1      | 1.75%   |
+| China               | 1        | 3      | 1.75%   |
+| ASMT                | 1        | 1      | 1.75%   |
 
 Drive Model
 -----------
@@ -895,63 +896,63 @@ Hard drive models
 
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
-| Hitachi HDS721050CLA362 500GB    | 3        | 4.76%   |
-| Toshiba DT01ACA050 500GB         | 2        | 3.17%   |
-| Seagate ST3500413AS 500GB        | 2        | 3.17%   |
-| Seagate ST250LT021-1AF14C 250GB  | 2        | 3.17%   |
-| Kingston SA400S37120G 120GB SSD  | 2        | 3.17%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD | 1        | 1.59%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD | 1        | 1.59%   |
-| WDC WDS120G2G0B-00EPW0 120GB SSD | 1        | 1.59%   |
-| WDC WD800JD-75MSA3 80GB          | 1        | 1.59%   |
-| WDC WD800JD-60LSA5 80GB          | 1        | 1.59%   |
-| WDC WD800JD-00MSA1 80GB          | 1        | 1.59%   |
-| WDC WD7500BPVX-22JC3T0 752GB     | 1        | 1.59%   |
-| WDC WD7500AACS-00D6B0 752GB      | 1        | 1.59%   |
-| WDC WD5000LPVT-22G33T0 500GB     | 1        | 1.59%   |
-| WDC WD5000AZLX-60K2TA0 500GB     | 1        | 1.59%   |
-| WDC WD5000AAKX-00ERMA0 500GB     | 1        | 1.59%   |
-| WDC WD40EZRZ-75GXCB0 4TB         | 1        | 1.59%   |
-| WDC WD40EZAZ-00ZGHB0 4TB         | 1        | 1.59%   |
-| WDC WD3200SD-01KNB0 320GB        | 1        | 1.59%   |
-| WDC WD20EARX-00PASB0 2TB         | 1        | 1.59%   |
-| WDC WD2000JD-00HBB0 200GB        | 1        | 1.59%   |
-| WDC WD1600AAJS-00B4A0 160GB      | 1        | 1.59%   |
-| WDC WD15EARS-00S8B1 1TB          | 1        | 1.59%   |
-| WDC WD1002FAEX-00Z3A0 1TB        | 1        | 1.59%   |
-| Transcend TS120GSSD220S 120GB    | 1        | 1.59%   |
-| Toshiba DT01ACA100 1TB           | 1        | 1.59%   |
-| Seagate STM3500418AS 500GB       | 1        | 1.59%   |
-| Seagate ST980811AS 80GB          | 1        | 1.59%   |
-| Seagate ST8000AS0002-1NA17Z 8TB  | 1        | 1.59%   |
-| Seagate ST500DM002-1BD142 500GB  | 1        | 1.59%   |
-| Seagate ST3500630AS 500GB        | 1        | 1.59%   |
-| Seagate ST3250820AS 250GB        | 1        | 1.59%   |
-| Seagate ST3250318AS 250GB        | 1        | 1.59%   |
-| Seagate ST3250312AS 250GB        | 1        | 1.59%   |
-| Seagate ST3120813AS 120GB        | 1        | 1.59%   |
-| Seagate ST3000DM001-1CH166 3TB   | 1        | 1.59%   |
-| Samsung SSD 850 EVO 250GB        | 1        | 1.59%   |
-| Samsung SSD 850 EVO 120GB        | 1        | 1.59%   |
-| Samsung SSD 840 PRO Series 256GB | 1        | 1.59%   |
-| Samsung HD160JJ 160GB            | 1        | 1.59%   |
-| Samsung HD080HJ/ 80GB            | 1        | 1.59%   |
-| ORGE GZX202 500GB                | 1        | 1.59%   |
-| Maxtor STM380211AS 80GB          | 1        | 1.59%   |
-| Kingston SUV400S37240G 240GB SSD | 1        | 1.59%   |
-| Kingston SHFS37A120G 120GB SSD   | 1        | 1.59%   |
-| Kingston SH103S3120G 120GB SSD   | 1        | 1.59%   |
-| Kingston SA400S37480G 480GB SSD  | 1        | 1.59%   |
-| Kingston SA400S37240G 240GB SSD  | 1        | 1.59%   |
-| Kingston NVMe SSD Drive 500GB    | 1        | 1.59%   |
-| Kingston NVMe SSD Drive 480GB    | 1        | 1.59%   |
-| Intel SSDSC2BF240A5L 240GB       | 1        | 1.59%   |
-| Hitachi HDS728080PLAT20 82GB     | 1        | 1.59%   |
-| Hitachi HDS721616PLA380 160GB    | 1        | 1.59%   |
-| Hitachi HDS721032CLA362 320GB    | 1        | 1.59%   |
-| Fujitsu MHW2120BH 120GB          | 1        | 1.59%   |
-| China 240GB SSD                  | 1        | 1.59%   |
-| ASMT 2115 128GB                  | 1        | 1.59%   |
+| Hitachi HDS721050CLA362 500GB    | 3        | 4.69%   |
+| Toshiba DT01ACA050 500GB         | 2        | 3.13%   |
+| Seagate ST3500413AS 500GB        | 2        | 3.13%   |
+| Seagate ST250LT021-1AF14C 250GB  | 2        | 3.13%   |
+| Kingston SA400S37240G 240GB SSD  | 2        | 3.13%   |
+| Kingston SA400S37120G 120GB SSD  | 2        | 3.13%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD | 1        | 1.56%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD | 1        | 1.56%   |
+| WDC WDS120G2G0B-00EPW0 120GB SSD | 1        | 1.56%   |
+| WDC WD800JD-75MSA3 80GB          | 1        | 1.56%   |
+| WDC WD800JD-60LSA5 80GB          | 1        | 1.56%   |
+| WDC WD800JD-00MSA1 80GB          | 1        | 1.56%   |
+| WDC WD7500BPVX-22JC3T0 752GB     | 1        | 1.56%   |
+| WDC WD7500AACS-00D6B0 752GB      | 1        | 1.56%   |
+| WDC WD5000LPVT-22G33T0 500GB     | 1        | 1.56%   |
+| WDC WD5000AZLX-60K2TA0 500GB     | 1        | 1.56%   |
+| WDC WD5000AAKX-00ERMA0 500GB     | 1        | 1.56%   |
+| WDC WD40EZRZ-75GXCB0 4TB         | 1        | 1.56%   |
+| WDC WD40EZAZ-00ZGHB0 4TB         | 1        | 1.56%   |
+| WDC WD3200SD-01KNB0 320GB        | 1        | 1.56%   |
+| WDC WD20EARX-00PASB0 2TB         | 1        | 1.56%   |
+| WDC WD2000JD-00HBB0 200GB        | 1        | 1.56%   |
+| WDC WD1600AAJS-00B4A0 160GB      | 1        | 1.56%   |
+| WDC WD15EARS-00S8B1 1TB          | 1        | 1.56%   |
+| WDC WD1002FAEX-00Z3A0 1TB        | 1        | 1.56%   |
+| Transcend TS120GSSD220S 120GB    | 1        | 1.56%   |
+| Toshiba DT01ACA100 1TB           | 1        | 1.56%   |
+| Seagate STM3500418AS 500GB       | 1        | 1.56%   |
+| Seagate ST980811AS 80GB          | 1        | 1.56%   |
+| Seagate ST8000AS0002-1NA17Z 8TB  | 1        | 1.56%   |
+| Seagate ST500DM002-1BD142 500GB  | 1        | 1.56%   |
+| Seagate ST3500630AS 500GB        | 1        | 1.56%   |
+| Seagate ST3250820AS 250GB        | 1        | 1.56%   |
+| Seagate ST3250318AS 250GB        | 1        | 1.56%   |
+| Seagate ST3250312AS 250GB        | 1        | 1.56%   |
+| Seagate ST3120813AS 120GB        | 1        | 1.56%   |
+| Seagate ST3000DM001-1CH166 3TB   | 1        | 1.56%   |
+| Samsung SSD 850 EVO 250GB        | 1        | 1.56%   |
+| Samsung SSD 850 EVO 120GB        | 1        | 1.56%   |
+| Samsung SSD 840 PRO Series 256GB | 1        | 1.56%   |
+| Samsung HD160JJ/ 160GB           | 1        | 1.56%   |
+| Samsung HD080HJ/ 80GB            | 1        | 1.56%   |
+| ORGE GZX202 500GB                | 1        | 1.56%   |
+| Maxtor STM380211AS 80GB          | 1        | 1.56%   |
+| Kingston SUV400S37240G 240GB SSD | 1        | 1.56%   |
+| Kingston SHFS37A120G 120GB SSD   | 1        | 1.56%   |
+| Kingston SH103S3120G 120GB SSD   | 1        | 1.56%   |
+| Kingston SA400S37480G 480GB SSD  | 1        | 1.56%   |
+| Kingston NVMe SSD Drive 500GB    | 1        | 1.56%   |
+| Kingston NVMe SSD Drive 480GB    | 1        | 1.56%   |
+| Intel SSDSC2BF240A5L 240GB       | 1        | 1.56%   |
+| Hitachi HDS728080PLAT20 82GB     | 1        | 1.56%   |
+| Hitachi HDS721616PLA380 160GB    | 1        | 1.56%   |
+| Hitachi HDS721032CLA362 320GB    | 1        | 1.56%   |
+| Fujitsu MHW2120BH 120GB          | 1        | 1.56%   |
+| China 240GB SSD                  | 1        | 1.56%   |
+| ASMT 2115 1TB                    | 1        | 1.56%   |
 
 HDD Vendor
 ----------
@@ -963,7 +964,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 13       | 21     | 33.33%  |
+| WDC                 | 13       | 22     | 33.33%  |
 | Seagate             | 12       | 16     | 30.77%  |
 | Hitachi             | 6        | 6      | 15.38%  |
 | Toshiba             | 3        | 3      | 7.69%   |
@@ -982,12 +983,12 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 6        | 8      | 40%     |
-| WDC                 | 3        | 3      | 20%     |
-| Samsung Electronics | 3        | 4      | 20%     |
-| Transcend           | 1        | 1      | 6.67%   |
-| Intel               | 1        | 1      | 6.67%   |
-| China               | 1        | 3      | 6.67%   |
+| Kingston            | 7        | 9      | 43.75%  |
+| WDC                 | 3        | 3      | 18.75%  |
+| Samsung Electronics | 3        | 5      | 18.75%  |
+| Transcend           | 1        | 1      | 6.25%   |
+| Intel               | 1        | 1      | 6.25%   |
+| China               | 1        | 3      | 6.25%   |
 
 Drive Kind
 ----------
@@ -999,8 +1000,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 33       | 51     | 66%     |
-| SSD     | 14       | 20     | 28%     |
+| HDD     | 33       | 52     | 66%     |
+| SSD     | 14       | 22     | 28%     |
 | NVMe    | 2        | 2      | 4%      |
 | Unknown | 1        | 1      | 2%      |
 
@@ -1014,7 +1015,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 37       | 70     | 90.24%  |
+| SATA | 37       | 73     | 90.24%  |
 | SAS  | 2        | 2      | 4.88%   |
 | NVMe | 2        | 2      | 4.88%   |
 
@@ -1028,8 +1029,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 60     | 80%     |
-| 0.51-1.0   | 5        | 5      | 11.11%  |
+| 0.01-0.5   | 36       | 61     | 80%     |
+| 0.51-1.0   | 5        | 7      | 11.11%  |
 | 3.01-4.0   | 1        | 2      | 2.22%   |
 | 2.01-3.0   | 1        | 2      | 2.22%   |
 | 1.01-2.0   | 1        | 1      | 2.22%   |
@@ -1045,15 +1046,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 51-100         | 9        | 21.43%  |
-| 101-250        | 8        | 19.05%  |
-| 251-500        | 6        | 14.29%  |
-| 1-20           | 6        | 14.29%  |
-| 501-1000       | 4        | 9.52%   |
-| 21-50          | 3        | 7.14%   |
-| 1001-2000      | 3        | 7.14%   |
-| More than 3000 | 2        | 4.76%   |
-| Unknown        | 1        | 2.38%   |
+| 51-100         | 9        | 20.93%  |
+| 101-250        | 8        | 18.6%   |
+| 1-20           | 7        | 16.28%  |
+| 251-500        | 6        | 13.95%  |
+| 501-1000       | 4        | 9.3%    |
+| 21-50          | 3        | 6.98%   |
+| 1001-2000      | 3        | 6.98%   |
+| More than 3000 | 2        | 4.65%   |
+| Unknown        | 1        | 2.33%   |
 
 Space Used
 ----------
@@ -1065,14 +1066,14 @@ Amount of used disk space
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1-20      | 22       | 47.83%  |
-| 21-50     | 8        | 17.39%  |
-| 251-500   | 4        | 8.7%    |
-| 101-250   | 4        | 8.7%    |
-| 51-100    | 4        | 8.7%    |
-| 501-1000  | 2        | 4.35%   |
-| 2001-3000 | 1        | 2.17%   |
-| Unknown   | 1        | 2.17%   |
+| 1-20      | 23       | 48.94%  |
+| 21-50     | 8        | 17.02%  |
+| 251-500   | 4        | 8.51%   |
+| 101-250   | 4        | 8.51%   |
+| 51-100    | 4        | 8.51%   |
+| 501-1000  | 2        | 4.26%   |
+| 2001-3000 | 1        | 2.13%   |
+| Unknown   | 1        | 2.13%   |
 
 Malfunc. Drives
 ---------------
@@ -1154,9 +1155,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 31       | 56     | 75.61%  |
-| Works    | 6        | 12     | 14.63%  |
-| Malfunc  | 4        | 6      | 9.76%   |
+| Detected | 31       | 56     | 73.81%  |
+| Works    | 7        | 15     | 16.67%  |
+| Malfunc  | 4        | 6      | 9.52%   |
 
 Storage controller
 ------------------
@@ -1602,7 +1603,7 @@ Monitor models
 | IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 5.13%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 5.13%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.56%   |
-| Vestel Elektronik 28W_LCD_TV VES3700 1920x540                          | 1        | 2.56%   |
+| Vestel Elektronik 39FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch  | 1        | 2.56%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.56%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.56%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.56%   |
@@ -1791,8 +1792,8 @@ Controller vendors
 | Sony Ericsson Mobile Communications AB | 2        | 3.77%   |
 | Broadcom Limited                       | 2        | 3.77%   |
 | Broadcom                               | 2        | 3.77%   |
-| Realtek                                | 1        | 1.89%   |
 | Ralink                                 | 1        | 1.89%   |
+| Mercucys                               | 1        | 1.89%   |
 | Marvell Technology Group               | 1        | 1.89%   |
 | ICS Advent                             | 1        | 1.89%   |
 
@@ -1818,7 +1819,6 @@ Controller models
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                     | 1        | 1.85%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter               | 1        | 1.85%   |
 | Realtek 802.11ac NIC                                                | 1        | 1.85%   |
-| Realtek 802.11n NIC                                                 | 1        | 1.85%   |
 | Ralink RT2561/RT61 802.11g PCI                                      | 1        | 1.85%   |
 | Qualcomm Atheros Attansic L2 Fast Ethernet                          | 1        | 1.85%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 1        | 1.85%   |
@@ -1826,6 +1826,7 @@ Controller models
 | Nvidia MCP73 Ethernet                                               | 1        | 1.85%   |
 | Nvidia CK8S Ethernet Controller                                     | 1        | 1.85%   |
 | Nvidia CK804 Ethernet Controller                                    | 1        | 1.85%   |
+| Mercucys 802.11n NIC                                                | 1        | 1.85%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller             | 1        | 1.85%   |
 | Intel I211 Gigabit Network Connection                               | 1        | 1.85%   |
 | Intel Ethernet Connection (2) I218-V                                | 1        | 1.85%   |
@@ -1849,9 +1850,9 @@ Wireless vendors
 | Qualcomm Atheros Communications | 3        | 23.08%  |
 | TP-Link                         | 2        | 15.38%  |
 | Realtek Semiconductor           | 1        | 7.69%   |
-| Realtek                         | 1        | 7.69%   |
 | Ralink                          | 1        | 7.69%   |
 | Qualcomm Atheros                | 1        | 7.69%   |
+| Mercucys                        | 1        | 7.69%   |
 | Intel                           | 1        | 7.69%   |
 
 Wireless Model
@@ -1868,9 +1869,9 @@ Wireless models
 | Qualcomm Atheros AR9271 802.11n                                     | 3        | 23.08%  |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                        | 2        | 15.38%  |
 | Realtek 802.11ac NIC                                                | 1        | 7.69%   |
-| Realtek 802.11n NIC                                                 | 1        | 7.69%   |
 | Ralink RT2561/RT61 802.11g PCI                                      | 1        | 7.69%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1        | 7.69%   |
+| Mercucys 802.11n NIC                                                | 1        | 7.69%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                    | 1        | 7.69%   |
 
 Ethernet Vendor
@@ -2098,11 +2099,11 @@ Memory module vendors
 
 | Vendor            | Desktops | Percent |
 |-------------------|----------|---------|
-| Kingston          | 8        | 47.06%  |
-| Unknown           | 4        | 23.53%  |
-| SK hynix          | 3        | 17.65%  |
-| Micron Technology | 1        | 5.88%   |
-| Corsair           | 1        | 5.88%   |
+| Kingston          | 9        | 50%     |
+| Unknown           | 4        | 22.22%  |
+| SK hynix          | 3        | 16.67%  |
+| Micron Technology | 1        | 5.56%   |
+| Corsair           | 1        | 5.56%   |
 
 Memory Model
 ------------
@@ -2114,24 +2115,26 @@ Memory module models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s                     | 2        | 10%     |
-| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 10%     |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 5%      |
-| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                             | 1        | 5%      |
-| Unknown RAM Module 2048MB DIMM 1066MT/s                                 | 1        | 5%      |
-| Unknown RAM Module 1GB DIMM DDR2 800MT/s                                | 1        | 5%      |
-| Unknown RAM Module 1024MB DIMM DDR 800MT/s                              | 1        | 5%      |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                    | 1        | 5%      |
-| SK hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 1333MT/s                       | 1        | 5%      |
-| SK hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s                 | 1        | 5%      |
-| Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 5%      |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s                 | 1        | 5%      |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s                       | 1        | 5%      |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                     | 1        | 5%      |
-| Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 5%      |
-| Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 5%      |
-| Kingston RAM 393955353432392D3030372E4130304C4600 2GB DIMM DDR2 800MT/s | 1        | 5%      |
-| Corsair RAM CMK16GX4M2B2800C14 8GB DIMM DDR4 2800MT/s                   | 1        | 5%      |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s                  | 2        | 9.09%   |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 9.09%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 4.55%   |
+| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                             | 1        | 4.55%   |
+| Unknown RAM Module 2048MB DIMM 1066MT/s                                 | 1        | 4.55%   |
+| Unknown RAM Module 1GB DIMM DDR2 800MT/s                                | 1        | 4.55%   |
+| Unknown RAM Module 1024MB DIMM DDR 800MT/s                              | 1        | 4.55%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                    | 1        | 4.55%   |
+| SK hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 1333MT/s                       | 1        | 4.55%   |
+| SK hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s                 | 1        | 4.55%   |
+| Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 4.55%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s                    | 1        | 4.55%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s                       | 1        | 4.55%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                     | 1        | 4.55%   |
+| Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s                   | 1        | 4.55%   |
+| Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 4.55%   |
+| Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 4.55%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 4.55%   |
+| Kingston RAM 393955353432392D3030372E4130304C4600 2GB DIMM DDR2 800MT/s | 1        | 4.55%   |
+| Corsair RAM CMK16GX4M2B2800C14 8GB DIMM DDR4 2800MT/s                   | 1        | 4.55%   |
 
 Memory Kind
 -----------
@@ -2143,11 +2146,11 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR3    | 7        | 43.75%  |
-| DDR2    | 4        | 25%     |
-| DDR4    | 3        | 18.75%  |
-| DDR     | 1        | 6.25%   |
-| Unknown | 1        | 6.25%   |
+| DDR3    | 8        | 47.06%  |
+| DDR2    | 4        | 23.53%  |
+| DDR4    | 3        | 17.65%  |
+| DDR     | 1        | 5.88%   |
+| Unknown | 1        | 5.88%   |
 
 Memory Form Factor
 ------------------
@@ -2159,7 +2162,7 @@ Physical design of the memory module
 
 | Name | Desktops | Percent |
 |------|----------|---------|
-| DIMM | 15       | 100%    |
+| DIMM | 16       | 100%    |
 
 Memory Size
 -----------
@@ -2171,10 +2174,10 @@ Memory module size
 
 | Size | Desktops | Percent |
 |------|----------|---------|
-| 8192 | 7        | 38.89%  |
-| 2048 | 5        | 27.78%  |
-| 4096 | 3        | 16.67%  |
-| 1024 | 3        | 16.67%  |
+| 8192 | 7        | 36.84%  |
+| 2048 | 5        | 26.32%  |
+| 4096 | 4        | 21.05%  |
+| 1024 | 3        | 15.79%  |
 
 Memory Speed
 ------------
@@ -2186,17 +2189,17 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 800   | 4        | 22.22%  |
-| 1600  | 3        | 16.67%  |
-| 1867  | 2        | 11.11%  |
-| 1333  | 2        | 11.11%  |
-| 3533  | 1        | 5.56%   |
-| 2933  | 1        | 5.56%   |
-| 2800  | 1        | 5.56%   |
-| 1866  | 1        | 5.56%   |
-| 1800  | 1        | 5.56%   |
-| 1066  | 1        | 5.56%   |
-| 333   | 1        | 5.56%   |
+| 1600  | 4        | 20%     |
+| 800   | 4        | 20%     |
+| 1867  | 2        | 10%     |
+| 1866  | 2        | 10%     |
+| 1333  | 2        | 10%     |
+| 3600  | 1        | 5%      |
+| 2933  | 1        | 5%      |
+| 2800  | 1        | 5%      |
+| 1800  | 1        | 5%      |
+| 1066  | 1        | 5%      |
+| 333   | 1        | 5%      |
 
 Printers & scanners
 -------------------

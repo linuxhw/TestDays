@@ -611,10 +611,10 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 11       | 33.33%  |
+| 2019 | 10       | 30.3%   |
 | 2020 | 8        | 24.24%  |
 | 2018 | 5        | 15.15%  |
-| 2016 | 3        | 9.09%   |
+| 2016 | 4        | 12.12%  |
 | 2015 | 2        | 6.06%   |
 | 2014 | 2        | 6.06%   |
 | 2017 | 1        | 3.03%   |
@@ -866,68 +866,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Samsung SSD 970 EVO Plus 2TB           | 3        | 3.7%    |
-| Samsung SSD 860 EVO 1TB                | 3        | 3.7%    |
-| Seagate ST3000DM001-1ER166 3TB         | 2        | 2.47%   |
-| SanDisk SSD PLUS 240GB                 | 2        | 2.47%   |
-| Samsung SSD 980 PRO 1TB                | 2        | 2.47%   |
-| Samsung SSD 970 EVO Plus 1TB           | 2        | 2.47%   |
-| Samsung SSD 970 EVO 500GB              | 2        | 2.47%   |
-| Samsung SSD 970 EVO 1TB                | 2        | 2.47%   |
-| Samsung SSD 860 QVO 1TB                | 2        | 2.47%   |
-| Samsung SSD 860 EVO 500GB              | 2        | 2.47%   |
-| Samsung SSD 860 EVO 2TB                | 2        | 2.47%   |
-| Samsung NVMe SSD Drive 1TB             | 2        | 2.47%   |
-| Crucial CT1000MX500SSD1 1TB            | 2        | 2.47%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD       | 1        | 1.23%   |
-| WDC WD80EDAZ-11TA3A0 8TB               | 1        | 1.23%   |
-| WDC WD40EFRX-68N32N0 4TB               | 1        | 1.23%   |
-| WDC WD3200BPVT-22JJ5T0 320GB           | 1        | 1.23%   |
-| WDC WD10EZEX-21WN4A0 1TB               | 1        | 1.23%   |
-| WDC WD10EZEX-00RKKA0 1TB               | 1        | 1.23%   |
-| WDC WD10EZEX-00KUWA0 1TB               | 1        | 1.23%   |
-| Toshiba TR150 960GB SSD                | 1        | 1.23%   |
-| Toshiba HDWL120 2TB                    | 1        | 1.23%   |
-| Toshiba HDWE160 6TB                    | 1        | 1.23%   |
-| Toshiba HDWD130 3TB                    | 1        | 1.23%   |
-| Toshiba HDWD120 2TB                    | 1        | 1.23%   |
-| Seagate ST4000DM004-2CV104 4TB         | 1        | 1.23%   |
-| Seagate ST3000VX010-2H916L 3TB         | 1        | 1.23%   |
-| Seagate ST3000DM001-1CH166 3TB         | 1        | 1.23%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB     | 1        | 1.23%   |
-| Seagate ST1000DM003-1CH162 1TB         | 1        | 1.23%   |
-| Seagate Backup+ Hub BK 8TB             | 1        | 1.23%   |
-| SanDisk Ultra II 960GB SSD             | 1        | 1.23%   |
-| SanDisk SSD PLUS 240 GB                | 1        | 1.23%   |
-| SanDisk SSD PLUS 120 GB                | 1        | 1.23%   |
-| SanDisk SDSSDHII240G 240GB             | 1        | 1.23%   |
-| SanDisk SDSSDA240G 240GB               | 1        | 1.23%   |
-| SanDisk NVMe SSD Drive 1TB             | 1        | 1.23%   |
-| Samsung SSD 970 PRO 512GB              | 1        | 1.23%   |
-| Samsung SSD 970 EVO Plus 500GB         | 1        | 1.23%   |
-| Samsung SSD 960 EVO 1TB                | 1        | 1.23%   |
-| Samsung SSD 850 EVO 250GB              | 1        | 1.23%   |
-| Samsung SSD 850 EVO 120GB              | 1        | 1.23%   |
-| Samsung SSD 840 EVO 250GB              | 1        | 1.23%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 500GB | 1        | 1.23%   |
-| Samsung MZVLB256HBHQ-000L7 256GB       | 1        | 1.23%   |
-| Plextor PX-512M9PeY 512GB              | 1        | 1.23%   |
-| Phison Sabrent 1TB                     | 1        | 1.23%   |
-| Phison PCIe SSD 2TB                    | 1        | 1.23%   |
-| Lexar 1TB SSD                          | 1        | 1.23%   |
-| Kingston SVP200S37A60G 64GB SSD        | 1        | 1.23%   |
-| Kingston SUV400S37480G 480GB SSD       | 1        | 1.23%   |
-| Kingston SUV300S37A240G 240GB SSD      | 1        | 1.23%   |
-| Kingston SA400S37960G 960GB SSD        | 1        | 1.23%   |
-| Kingston SA2000M8500G 500GB            | 1        | 1.23%   |
-| Intel SSDSC2CT180A3 180GB              | 1        | 1.23%   |
-| Intel SSDSC2BW240A4 240GB              | 1        | 1.23%   |
-| Intel SSDSC2BW120A4 120GB              | 1        | 1.23%   |
-| Intel SSDSA2BW160G3H 160GB             | 1        | 1.23%   |
-| HGST HTS721010A9E630 1TB               | 1        | 1.23%   |
-| Crucial M4-CT128M4SSD2 128GB           | 1        | 1.23%   |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Samsung SSD 970 EVO Plus 2TB       | 3        | 3.7%    |
+| Samsung SSD 860 EVO 1TB            | 3        | 3.7%    |
+| Seagate ST3000DM001-1ER166 3TB     | 2        | 2.47%   |
+| SanDisk SSD PLUS 240GB             | 2        | 2.47%   |
+| Samsung SSD 980 PRO 1TB            | 2        | 2.47%   |
+| Samsung SSD 970 EVO Plus 1TB       | 2        | 2.47%   |
+| Samsung SSD 970 EVO 500GB          | 2        | 2.47%   |
+| Samsung SSD 970 EVO 1TB            | 2        | 2.47%   |
+| Samsung SSD 860 QVO 1TB            | 2        | 2.47%   |
+| Samsung SSD 860 EVO 500GB          | 2        | 2.47%   |
+| Samsung SSD 860 EVO 2TB            | 2        | 2.47%   |
+| Samsung NVMe SSD Drive 1TB         | 2        | 2.47%   |
+| Crucial CT1000MX500SSD1 1TB        | 2        | 2.47%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD   | 1        | 1.23%   |
+| WDC WD80EDAZ-11TA3A0 8TB           | 1        | 1.23%   |
+| WDC WD40EFRX-68N32N0 4TB           | 1        | 1.23%   |
+| WDC WD3200BPVT-22JJ5T0 320GB       | 1        | 1.23%   |
+| WDC WD10EZEX-21WN4A0 1TB           | 1        | 1.23%   |
+| WDC WD10EZEX-00RKKA0 1TB           | 1        | 1.23%   |
+| WDC WD10EZEX-00KUWA0 1TB           | 1        | 1.23%   |
+| Toshiba TR150 960GB SSD            | 1        | 1.23%   |
+| Toshiba HDWL120 2TB                | 1        | 1.23%   |
+| Toshiba HDWE160 6TB                | 1        | 1.23%   |
+| Toshiba HDWD130 3TB                | 1        | 1.23%   |
+| Toshiba HDWD120 2TB                | 1        | 1.23%   |
+| Seagate ST4000DM004-2CV104 4TB     | 1        | 1.23%   |
+| Seagate ST3000VX010-2H916L 3TB     | 1        | 1.23%   |
+| Seagate ST3000DM001-1CH166 3TB     | 1        | 1.23%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB | 1        | 1.23%   |
+| Seagate ST1000DM003-1CH162 1TB     | 1        | 1.23%   |
+| Seagate Backup+ Hub BK 4TB         | 1        | 1.23%   |
+| SanDisk Ultra II 960GB SSD         | 1        | 1.23%   |
+| SanDisk SSD PLUS 240 GB            | 1        | 1.23%   |
+| SanDisk SSD PLUS 120 GB            | 1        | 1.23%   |
+| SanDisk SDSSDHII240G 240GB         | 1        | 1.23%   |
+| SanDisk SDSSDA240G 240GB           | 1        | 1.23%   |
+| SanDisk NVMe SSD Drive 1TB         | 1        | 1.23%   |
+| Samsung SSD 970 PRO 512GB          | 1        | 1.23%   |
+| Samsung SSD 970 EVO Plus 500GB     | 1        | 1.23%   |
+| Samsung SSD 960 EVO 1TB            | 1        | 1.23%   |
+| Samsung SSD 850 EVO 250GB          | 1        | 1.23%   |
+| Samsung SSD 850 EVO 120GB          | 1        | 1.23%   |
+| Samsung SSD 840 EVO 250GB          | 1        | 1.23%   |
+| Samsung NVMe SSD Drive 500GB       | 1        | 1.23%   |
+| Samsung MZVLB256HBHQ-000L7 256GB   | 1        | 1.23%   |
+| Plextor PX-512M9PeY 512GB          | 1        | 1.23%   |
+| Phison Sabrent 1TB                 | 1        | 1.23%   |
+| Phison PCIe SSD 500GB              | 1        | 1.23%   |
+| Lexar 1TB SSD                      | 1        | 1.23%   |
+| Kingston SVP200S37A60G 64GB SSD    | 1        | 1.23%   |
+| Kingston SUV400S37480G 480GB SSD   | 1        | 1.23%   |
+| Kingston SUV300S37A240G 240GB SSD  | 1        | 1.23%   |
+| Kingston SA400S37960G 960GB SSD    | 1        | 1.23%   |
+| Kingston SA2000M8500G 500GB        | 1        | 1.23%   |
+| Intel SSDSC2CT180A3 180GB          | 1        | 1.23%   |
+| Intel SSDSC2BW240A4 240GB          | 1        | 1.23%   |
+| Intel SSDSC2BW120A4 120GB          | 1        | 1.23%   |
+| Intel SSDSA2BW160G3H 160GB         | 1        | 1.23%   |
+| HGST HTS721010A9E630 1TB           | 1        | 1.23%   |
+| Crucial M4-CT128M4SSD2 128GB       | 1        | 1.23%   |
 
 HDD Vendor
 ----------
@@ -1002,12 +1002,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 18       | 28     | 38.3%   |
-| 0.51-1.0   | 14       | 21     | 29.79%  |
+| 0.01-0.5   | 18       | 27     | 38.3%   |
+| 0.51-1.0   | 14       | 22     | 29.79%  |
 | 2.01-3.0   | 5        | 6      | 10.64%  |
 | 1.01-2.0   | 5        | 8      | 10.64%  |
-| 4.01-10.0  | 3        | 7      | 6.38%   |
-| 3.01-4.0   | 2        | 4      | 4.26%   |
+| 3.01-4.0   | 3        | 5      | 6.38%   |
+| 4.01-10.0  | 2        | 6      | 4.26%   |
 
 Space Total
 -----------
@@ -1057,7 +1057,7 @@ Drive models with a malfunction
 |-------------------------------------|----------|--------|---------|
 | Samsung Electronics SSD 970 EVO 1TB | 1        | 1      | 33.33%  |
 | Intel SSDSC2BW240A4 240GB           | 1        | 1      | 33.33%  |
-| ASMT 2115 128GB                     | 1        | 1      | 33.33%  |
+| ASMT 2115 1TB                       | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1522,7 +1522,7 @@ Monitor models
 | Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                 | 2        | 6.06%   |
 | Dell U2311H DELA060 1920x1080 509x286mm 23.0-inch                     | 2        | 6.06%   |
 | Acer CP3271K P ACR0716 3840x2160 597x336mm 27.0-inch                  | 2        | 6.06%   |
-| Vizio E400i-C2 VIZ1004 1920x1080 477x268mm 21.5-inch                  | 1        | 3.03%   |
+| Vizio E500i-A1 VIZ1004 1920x1080 1095x616mm 49.5-inch                 | 1        | 3.03%   |
 | Unknown (AAA) Monitor AAA0ABF 1920x1080 480x260mm 21.5-inch           | 1        | 3.03%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 3.03%   |
 | MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                      | 1        | 3.03%   |
@@ -1537,7 +1537,7 @@ Monitor models
 | Goldstar HDR 4K GSM7750 3840x2160 697x392mm 31.5-inch                 | 1        | 3.03%   |
 | Dell U2717D DEL40EB 2560x1440 597x336mm 27.0-inch                     | 1        | 3.03%   |
 | Dell U2715H DELD067 2560x1440 597x336mm 27.0-inch                     | 1        | 3.03%   |
-| Dell U2518D DEL413A 2560x1440 553x311mm 25.0-inch                     | 1        | 3.03%   |
+| Dell U2518D DEL413A 2560x1440 550x310mm 24.9-inch                     | 1        | 3.03%   |
 | Dell U2515H DELD070 2560x1440 553x311mm 25.0-inch                     | 1        | 3.03%   |
 | Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                      | 1        | 3.03%   |
 | Dell U2415 DELA0B9 1920x1200 518x324mm 24.1-inch                      | 1        | 3.03%   |
@@ -1902,7 +1902,7 @@ Controller models
 | Realtek Bluetooth Radio                                              | 1        | 6.67%   |
 | MediaTek Wireless_Device                                             | 1        | 6.67%   |
 | Intel Wireless-AC 3168 Bluetooth                                     | 1        | 6.67%   |
-| Intel Bluetooth Device                                               | 1        | 6.67%   |
+| Intel AX201 Bluetooth                                                | 1        | 6.67%   |
 | HTC (High Tech Computer) Vive Hub Bluetooth 4.1 (Broadcom BCM920703) | 1        | 6.67%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                                    | 1        | 6.67%   |
 | ASUS ASUS USB-BT500                                                  | 1        | 6.67%   |
@@ -1968,7 +1968,7 @@ Sound card models
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                 | 2        | 2.44%   |
 | Unknown USB Audio                                                   | 1        | 1.22%   |
 | Thomann SC450USB                                                    | 1        | 1.22%   |
-| Thesycon Systemsoftware & Consulting E30                            | 1        | 1.22%   |
+| Thesycon Systemsoftware & Consulting DX3 Pro                        | 1        | 1.22%   |
 | Sony DualShock 4 [CUH-ZCT2x]                                        | 1        | 1.22%   |
 | Sennheiser Communications Sennheiser SC630 for Lync                 | 1        | 1.22%   |
 | Sennheiser Communications Headset [PC 8]                            | 1        | 1.22%   |
@@ -1980,7 +1980,7 @@ Sound card models
 | Nvidia GM204 High Definition Audio Controller                       | 1        | 1.22%   |
 | Nvidia GM200 High Definition Audio                                  | 1        | 1.22%   |
 | Nvidia GK107 HDMI Audio Controller                                  | 1        | 1.22%   |
-| Nvidia Audio device                                                 | 1        | 1.22%   |
+| Nvidia GA106 High Definition Audio Controller                       | 1        | 1.22%   |
 | Kingston Technology HyperX 7.1 Audio                                | 1        | 1.22%   |
 | Intel Celeron/Pentium Silver Processor High Definition Audio        | 1        | 1.22%   |
 | GYROCOM C&C Fiio E10                                                | 1        | 1.22%   |
@@ -2032,14 +2032,14 @@ Memory module models
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s            | 2        | 4.76%   |
 | Corsair RAM CMK16GX4M1D3000C16 16GB DIMM DDR4 3000MT/s         | 2        | 4.76%   |
 | Unknown RAM Module 16384MB DIMM DDR4 2133MT/s                  | 1        | 2.38%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 2.38%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 1        | 2.38%   |
 | Strontium RAM SRT8G86U1-P9H 8GB DIMM DDR3 1600MT/s             | 1        | 2.38%   |
 | Samsung RAM Module 4096MB SODIMM DDR4 2133MT/s                 | 1        | 2.38%   |
 | Samsung RAM M393A4K40BB0-CPB 32GB RIMM DDR4 2133MT/s           | 1        | 2.38%   |
 | Micron RAM 4ATF1G64AZ-3G2E1 8GB DIMM DDR4 3200MT/s             | 1        | 2.38%   |
 | Micron RAM 36ASF4G72PZ-2G1A1 32GB RIMM DDR4 2133MT/s           | 1        | 2.38%   |
 | Micron RAM 16ATF2G64AZ-3G2J1 16GB DIMM DDR4 3200MT/s           | 1        | 2.38%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s        | 1        | 2.38%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s           | 1        | 2.38%   |
 | Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s         | 1        | 2.38%   |
 | Kingston RAM KHX2400C15D4/8G 8GB DIMM DDR4 2400MT/s            | 1        | 2.38%   |
 | Kingston RAM 9965745-021.A00G 32GB DIMM DDR4 2933MT/s          | 1        | 2.38%   |
@@ -2053,12 +2053,12 @@ Memory module models
 | Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s          | 1        | 2.38%   |
 | Crucial RAM BLS16G4D32AESE.M16FE 16GB DIMM DDR4 3733MT/s       | 1        | 2.38%   |
 | Crucial RAM BL16G32C16U4B.M16FE1 16GB DIMM DDR4 3200MT/s       | 1        | 2.38%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s          | 1        | 2.38%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s       | 1        | 2.38%   |
 | Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s          | 1        | 2.38%   |
 | Corsair RAM CMK64GX4M2D3600C18 32GB DIMM DDR4 3600MT/s         | 1        | 2.38%   |
 | Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s         | 1        | 2.38%   |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s         | 1        | 2.38%   |
-| Corsair RAM CMK16GX4M2D3600C18 8192MB DIMM DDR4 3600MT/s       | 1        | 2.38%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s          | 1        | 2.38%   |
 | Corsair RAM CMD64GX4M4A2666C15 16384MB DIMM DDR4 2133MT/s      | 1        | 2.38%   |
 
 Memory Kind
@@ -2115,14 +2115,13 @@ Memory module speed
 | Speed | Desktops | Percent |
 |-------|----------|---------|
 | 3200  | 12       | 30.77%  |
-| 3600  | 5        | 12.82%  |
+| 3600  | 6        | 15.38%  |
 | 2133  | 4        | 10.26%  |
 | 3000  | 3        | 7.69%   |
 | 1600  | 3        | 7.69%   |
 | 3334  | 2        | 5.13%   |
 | 2400  | 2        | 5.13%   |
 | 3733  | 1        | 2.56%   |
-| 3533  | 1        | 2.56%   |
 | 3466  | 1        | 2.56%   |
 | 3400  | 1        | 2.56%   |
 | 3266  | 1        | 2.56%   |
@@ -2199,7 +2198,7 @@ Camera device models
 
 | Model                        | Desktops | Percent |
 |------------------------------|----------|---------|
-| MacroSilicon MiraBox Capture | 2        | 22.22%  |
+| MacroSilicon USB3.0 HD VIDEO | 2        | 22.22%  |
 | Microdia Camera              | 1        | 11.11%  |
 | Logitech Webcam C930e        | 1        | 11.11%  |
 | Logitech Webcam C270         | 1        | 11.11%  |

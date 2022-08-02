@@ -659,29 +659,29 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Seagate ST500DM002-1BD142 500GB        | 2        | 8%      |
-| Seagate ST31000524AS 1TB               | 2        | 8%      |
-| Samsung SSD 850 EVO 250GB              | 2        | 8%      |
-| Samsung SM963 2.5" NVMe PCIe SSD 500GB | 2        | 8%      |
-| WDC WD40EZRZ-00GXCB0 4TB               | 1        | 4%      |
-| WDC WD10EZEX-08WN4A0 1TB               | 1        | 4%      |
-| Unknown R5M120G8 120GB SSD             | 1        | 4%      |
-| Toshiba MK3275GSX 320GB                | 1        | 4%      |
-| Seagate ST2000DX002-2DV164 2TB         | 1        | 4%      |
-| Seagate ST2000DX001-1NS164 2TB         | 1        | 4%      |
-| Seagate ST1000DM010-2EP102 1TB         | 1        | 4%      |
-| Seagate ST1000DM003-1CH162 1TB         | 1        | 4%      |
-| SanDisk SDSSDP064G 64GB                | 1        | 4%      |
-| SanDisk SDSSDA240G 240GB               | 1        | 4%      |
-| Samsung SSD 970 EVO 500GB              | 1        | 4%      |
-| Patriot Spark 256GB SSD                | 1        | 4%      |
-| Kingston NVMe SSD Drive 1TB            | 1        | 4%      |
-| HGST HTS721010A9E630 1TB               | 1        | 4%      |
-| Corsair Force LS SSD 64GB              | 1        | 4%      |
-| China SATA SSD 240GB                   | 1        | 4%      |
-| A-DATA SU650 120GB SSD                 | 1        | 4%      |
+| Model                           | Desktops | Percent |
+|---------------------------------|----------|---------|
+| Seagate ST500DM002-1BD142 500GB | 2        | 8%      |
+| Seagate ST31000524AS 1TB        | 2        | 8%      |
+| Samsung SSD 850 EVO 250GB       | 2        | 8%      |
+| Samsung NVMe SSD Drive 500GB    | 2        | 8%      |
+| WDC WD40EZRZ-00GXCB0 4TB        | 1        | 4%      |
+| WDC WD10EZEX-08WN4A0 1TB        | 1        | 4%      |
+| Unknown R5M120G8 120GB SSD      | 1        | 4%      |
+| Toshiba MK3275GSX 320GB         | 1        | 4%      |
+| Seagate ST2000DX002-2DV164 2TB  | 1        | 4%      |
+| Seagate ST2000DX001-1NS164 2TB  | 1        | 4%      |
+| Seagate ST1000DM010-2EP102 1TB  | 1        | 4%      |
+| Seagate ST1000DM003-1CH162 1TB  | 1        | 4%      |
+| SanDisk SDSSDP064G 64GB         | 1        | 4%      |
+| SanDisk SDSSDA240G 240GB        | 1        | 4%      |
+| Samsung SSD 970 EVO 500GB       | 1        | 4%      |
+| Patriot Spark 256GB SSD         | 1        | 4%      |
+| Kingston NVMe SSD Drive 1TB     | 1        | 4%      |
+| HGST HTS721010A9E630 1TB        | 1        | 4%      |
+| Corsair Force LS SSD 64GB       | 1        | 4%      |
+| China SATA SSD 240GB            | 1        | 4%      |
+| A-DATA SU650 120GB SSD          | 1        | 4%      |
 
 HDD Vendor
 ----------
@@ -1202,12 +1202,12 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                | 1        | 7.69%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch | 1        | 7.69%   |
 | LG Electronics LCD Monitor W1952 1440x900                        | 1        | 7.69%   |
-| JRY HDMI JRY1950 1366x768 410x220mm 18.3-inch                    | 1        | 7.69%   |
+| JRY HDMI JRY1950 1600x900 432x243mm 19.5-inch                    | 1        | 7.69%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch            | 1        | 7.69%   |
-| Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch      | 1        | 7.69%   |
+| Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
@@ -1228,7 +1228,7 @@ Monitor screen resolution
 | 3200x1080         | 1        | 7.69%   |
 | 2560x1440 (QHD)   | 1        | 7.69%   |
 | 1920x1200 (WUXGA) | 1        | 7.69%   |
-| 1366x768 (WXGA)   | 1        | 7.69%   |
+| 1600x900 (HD+)    | 1        | 7.69%   |
 | 1280x1024 (SXGA)  | 1        | 7.69%   |
 | Unknown           | 1        | 7.69%   |
 
@@ -1242,11 +1242,12 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 18      | 3        | 25%     |
 | Unknown | 3        | 25%     |
 | 24      | 2        | 16.67%  |
 | 21      | 2        | 16.67%  |
+| 18      | 2        | 16.67%  |
 | 25      | 1        | 8.33%   |
+| 19      | 1        | 8.33%   |
 | 17      | 1        | 8.33%   |
 
 Monitor Width
@@ -1290,11 +1291,10 @@ Area in inch²
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
 | 201-250        | 3        | 25%     |
+| 151-200        | 3        | 25%     |
 | Unknown        | 3        | 25%     |
 | 251-300        | 2        | 16.67%  |
-| 151-200        | 2        | 16.67%  |
 | 141-150        | 1        | 8.33%   |
-| 131-140        | 1        | 8.33%   |
 
 Pixel Density
 -------------
@@ -1523,12 +1523,12 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Realtek Bluetooth Radio                  | 1        | 25%     |
-| Intel Wireless-AC 9260 Bluetooth Adapter | 1        | 25%     |
-| Broadcom BCM20702A0 Bluetooth 4.0        | 1        | 25%     |
-| Apple Bluetooth USB Host Controller      | 1        | 25%     |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Realtek Bluetooth Radio             | 1        | 25%     |
+| Intel Bluetooth Device              | 1        | 25%     |
+| Broadcom BCM20702A0 Bluetooth 4.0   | 1        | 25%     |
+| Apple Bluetooth USB Host Controller | 1        | 25%     |
 
 Sound
 -----

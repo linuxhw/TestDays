@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 69
+Total: 70
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Intel Clie... | LAPKC71F                    | [3ae3afeece](https://linux-hardware.org/?probe=3ae3afeece) | Jul 13, 2022 |
 | Dell          | XPS 15 7590                 | [91780395d8](https://linux-hardware.org/?probe=91780395d8) | Dec 25, 2021 |
 | Google        | Grunt                       | [e6c7c07304](https://linux-hardware.org/?probe=e6c7c07304) | Nov 04, 2021 |
 | Google        | Akemi                       | [d59a7856ce](https://linux-hardware.org/?probe=d59a7856ce) | Sep 04, 2021 |
@@ -819,20 +820,20 @@ Hard drive vendors
 
 | Vendor                  | Notebooks | Drives | Percent |
 |-------------------------|-----------|--------|---------|
-| Unknown                 | 16        | 21     | 34.78%  |
-| Hitachi                 | 5         | 5      | 10.87%  |
-| WDC                     | 4         | 4      | 8.7%    |
-| Samsung Electronics     | 4         | 5      | 8.7%    |
-| Kingston                | 4         | 5      | 8.7%    |
-| Toshiba                 | 2         | 2      | 4.35%   |
-| Seagate                 | 2         | 2      | 4.35%   |
-| HGST                    | 2         | 3      | 4.35%   |
-| Fujitsu                 | 2         | 2      | 4.35%   |
-| Union Memory (Shenzhen) | 1         | 1      | 2.17%   |
-| TO Exter                | 1         | 1      | 2.17%   |
-| SanDisk                 | 1         | 1      | 2.17%   |
-| Netac                   | 1         | 2      | 2.17%   |
-| MyDigitalSSD            | 1         | 1      | 2.17%   |
+| Unknown                 | 16        | 21     | 34.04%  |
+| WDC                     | 5         | 6      | 10.64%  |
+| Hitachi                 | 5         | 5      | 10.64%  |
+| Samsung Electronics     | 4         | 5      | 8.51%   |
+| Kingston                | 4         | 5      | 8.51%   |
+| Toshiba                 | 2         | 2      | 4.26%   |
+| Seagate                 | 2         | 2      | 4.26%   |
+| HGST                    | 2         | 3      | 4.26%   |
+| Fujitsu                 | 2         | 2      | 4.26%   |
+| Union Memory (Shenzhen) | 1         | 1      | 2.13%   |
+| TO Exter                | 1         | 1      | 2.13%   |
+| SanDisk                 | 1         | 1      | 2.13%   |
+| Netac                   | 1         | 2      | 2.13%   |
+| MyDigitalSSD            | 1         | 1      | 2.13%   |
 
 Drive Model
 -----------
@@ -844,40 +845,42 @@ Hard drive models
 
 | Model                                        | Notebooks | Percent |
 |----------------------------------------------|-----------|---------|
-| Unknown MMC Card  32GB                       | 9         | 18.75%  |
-| Unknown MMC Card  64GB                       | 6         | 12.5%   |
-| Hitachi HTS725032A9A364 320GB                | 2         | 4.17%   |
-| WDC WD5000LPVX-22V0TT0 500GB                 | 1         | 2.08%   |
-| WDC WD3200BPVT-22JJ5T0 320GB                 | 1         | 2.08%   |
-| WDC WD2500BEVS-08VAT2 250GB                  | 1         | 2.08%   |
-| WDC WD1200BEVS-22UST0 120GB                  | 1         | 2.08%   |
-| Unknown MMC Card  8GB                        | 1         | 2.08%   |
-| Unknown MMC Card  4GB                        | 1         | 2.08%   |
-| Unknown MMC Card  118MB                      | 1         | 2.08%   |
-| Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 2.08%   |
-| Toshiba MQ01ABD032 320GB                     | 1         | 2.08%   |
-| Toshiba MK2555GSX 250GB                      | 1         | 2.08%   |
-| TO Exter nal USB 3.0 256GB                   | 1         | 2.08%   |
-| Seagate ST980811AS 80GB                      | 1         | 2.08%   |
-| Seagate ST9160821AS 160GB                    | 1         | 2.08%   |
-| SanDisk SSD U100 16GB                        | 1         | 2.08%   |
-| Samsung SSD PM800 2.5 128GB                  | 1         | 2.08%   |
-| Samsung SSD 850 EVO 250GB                    | 1         | 2.08%   |
-| Samsung SSD 850 EVO 120GB                    | 1         | 2.08%   |
-| Samsung MZNLN128HAHQ-000L2 128GB SSD         | 1         | 2.08%   |
-| Netac SSD 256GB                              | 1         | 2.08%   |
-| MyDigitalSSD SC2 M2 SSD 120GB                | 1         | 2.08%   |
-| Kingston SUV500120G 120GB SSD                | 1         | 2.08%   |
-| Kingston SH100S3120G 120GB SSD               | 1         | 2.08%   |
-| Kingston SA400S37120G 120GB SSD              | 1         | 2.08%   |
-| Kingston SA2000M81000G 1TB                   | 1         | 2.08%   |
-| Hitachi HTS725050A9A364 500GB                | 1         | 2.08%   |
-| Hitachi HTS545032B9A300 320GB                | 1         | 2.08%   |
-| Hitachi HTS545025B9A300 250GB                | 1         | 2.08%   |
-| HGST HTS545050A7E680 500GB                   | 1         | 2.08%   |
-| HGST HTS545050A7E660 500GB                   | 1         | 2.08%   |
-| Fujitsu MHZ2080BH G1 80GB                    | 1         | 2.08%   |
-| Fujitsu MHW2120BH 120GB                      | 1         | 2.08%   |
+| Unknown MMC Card  32GB                       | 9         | 18%     |
+| Unknown MMC Card  64GB                       | 6         | 12%     |
+| Hitachi HTS725032A9A364 320GB                | 2         | 4%      |
+| WDC WDS100T2B0C-00PXH0 1TB                   | 1         | 2%      |
+| WDC WD5000LPVX-22V0TT0 500GB                 | 1         | 2%      |
+| WDC WD3200BPVT-22JJ5T0 320GB                 | 1         | 2%      |
+| WDC WD2500BEVS-08VAT2 250GB                  | 1         | 2%      |
+| WDC WD1200BEVS-22UST0 120GB                  | 1         | 2%      |
+| WDC PC SN730 SDBPNTY-512G-1101 512GB         | 1         | 2%      |
+| Unknown MMC Card  8GB                        | 1         | 2%      |
+| Unknown MMC Card  4GB                        | 1         | 2%      |
+| Unknown MMC Card  118MB                      | 1         | 2%      |
+| Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 2%      |
+| Toshiba MQ01ABD032 320GB                     | 1         | 2%      |
+| Toshiba MK2555GSX 250GB                      | 1         | 2%      |
+| TO Exter nal USB 3.0 1TB                     | 1         | 2%      |
+| Seagate ST980811AS 80GB                      | 1         | 2%      |
+| Seagate ST9160821AS 160GB                    | 1         | 2%      |
+| SanDisk SSD U100 16GB                        | 1         | 2%      |
+| Samsung SSD PM800 2.5 128GB                  | 1         | 2%      |
+| Samsung SSD 850 EVO 250GB                    | 1         | 2%      |
+| Samsung SSD 850 EVO 120GB                    | 1         | 2%      |
+| Samsung MZNLN128HAHQ-000L2 128GB SSD         | 1         | 2%      |
+| Netac SSD 256GB                              | 1         | 2%      |
+| MyDigitalSSD SC2 M2 SSD 120GB                | 1         | 2%      |
+| Kingston SUV500120G 120GB SSD                | 1         | 2%      |
+| Kingston SH100S3120G 120GB SSD               | 1         | 2%      |
+| Kingston SA400S37120G 120GB SSD              | 1         | 2%      |
+| Kingston SA2000M81000G 1TB                   | 1         | 2%      |
+| Hitachi HTS725050A9A364 500GB                | 1         | 2%      |
+| Hitachi HTS545032B9A300 320GB                | 1         | 2%      |
+| Hitachi HTS545025B9A300 250GB                | 1         | 2%      |
+| HGST HTS545050A7E680 500GB                   | 1         | 2%      |
+| HGST HTS545050A7E660 500GB                   | 1         | 2%      |
+| Fujitsu MHZ2080BH G1 80GB                    | 1         | 2%      |
+| Fujitsu MHW2120BH 120GB                      | 1         | 2%      |
 
 HDD Vendor
 ----------
@@ -923,10 +926,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 17        | 18     | 36.96%  |
-| MMC  | 16        | 21     | 34.78%  |
-| SSD  | 11        | 14     | 23.91%  |
-| NVMe | 2         | 2      | 4.35%   |
+| HDD  | 17        | 18     | 36.17%  |
+| MMC  | 16        | 21     | 34.04%  |
+| SSD  | 11        | 14     | 23.4%   |
+| NVMe | 3         | 4      | 6.38%   |
 
 Drive Connector
 ---------------
@@ -938,10 +941,10 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 26        | 31     | 57.78%  |
-| MMC  | 16        | 21     | 35.56%  |
-| NVMe | 2         | 2      | 4.44%   |
-| SAS  | 1         | 1      | 2.22%   |
+| SATA | 26        | 31     | 56.52%  |
+| MMC  | 16        | 21     | 34.78%  |
+| NVMe | 3         | 4      | 6.52%   |
+| SAS  | 1         | 1      | 2.17%   |
 
 Drive Size
 ----------
@@ -953,7 +956,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 32     | 100%    |
+| 0.01-0.5   | 26        | 31     | 96.3%   |
+| 0.51-1.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1038,8 +1042,8 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 42        | 54     | 97.67%  |
-| Works    | 1         | 1      | 2.33%   |
+| Detected | 42        | 54     | 95.45%  |
+| Works    | 2         | 3      | 4.55%   |
 
 Storage controller
 ------------------
@@ -1433,9 +1437,9 @@ Monitor models
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.44%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.22%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.22%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.22%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.22%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch     | 1         | 2.22%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 2.22%   |
@@ -1913,7 +1917,7 @@ Sound card models
 | Intel Broadwell-U Audio Controller                                                                | 1         | 2.22%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1         | 2.22%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 1         | 2.22%   |
-| Generalplus Technology IMYB 7.1 Channel                                                           | 1         | 2.22%   |
+| Generalplus Technology USB Audio Device                                                           | 1         | 2.22%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 2.22%   |
 | AMD High Definition Audio Controller                                                              | 1         | 2.22%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1         | 2.22%   |
@@ -1943,11 +1947,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Notebooks | Percent |
-|---------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s          | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s   | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8192MB SODIMM DDR4 2667MT/s | 1         | 33.33%  |
+| Model                                                 | Notebooks | Percent |
+|-------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2070,7 +2074,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
+| Alcor Micro USB 2.0 PC cam                              | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |
@@ -2080,7 +2084,7 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 3.13%   |
 | Sunplus HD WebCam                                       | 1         | 3.13%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.13%   |
-| Realtek USB Camera                                      | 1         | 3.13%   |
+| Realtek HP Webcam-101                                   | 1         | 3.13%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.13%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.13%   |
 | Microdia HP Webcam                                      | 1         | 3.13%   |

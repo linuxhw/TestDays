@@ -1065,7 +1065,7 @@ Hard drive models
 | WDC WD30EFZX-68AWUN0 3TB            | 1        | 0.85%   |
 | WDC WD2500BEVT-22A23T0 250GB        | 1        | 0.85%   |
 | WDC WD2500AVJB-63WKA0 250GB         | 1        | 0.85%   |
-| WDC WD2500AAJS-75M0A0 249GB         | 1        | 0.85%   |
+| WDC WD2500AAJS-75M0A0 250GB         | 1        | 0.85%   |
 | WDC WD2500AAJS-00VTA0 250GB         | 1        | 0.85%   |
 | WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.85%   |
 | WDC WD20EURS-63S48Y0 2TB            | 1        | 0.85%   |
@@ -1127,16 +1127,17 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 6        | 8      | 27.27%  |
-| Samsung Electronics | 5        | 7      | 22.73%  |
-| SanDisk             | 3        | 3      | 13.64%  |
-| Intel               | 2        | 2      | 9.09%   |
-| WDC                 | 1        | 1      | 4.55%   |
-| PNY                 | 1        | 2      | 4.55%   |
-| OCZ                 | 1        | 1      | 4.55%   |
-| Crucial             | 1        | 2      | 4.55%   |
-| China               | 1        | 1      | 4.55%   |
-| ASMT                | 1        | 1      | 4.55%   |
+| Kingston            | 6        | 8      | 26.09%  |
+| Samsung Electronics | 5        | 7      | 21.74%  |
+| SanDisk             | 3        | 3      | 13.04%  |
+| Intel               | 2        | 2      | 8.7%    |
+| WDC                 | 1        | 1      | 4.35%   |
+| PNY                 | 1        | 2      | 4.35%   |
+| OCZ                 | 1        | 1      | 4.35%   |
+| GAMER               | 1        | 1      | 4.35%   |
+| Crucial             | 1        | 2      | 4.35%   |
+| China               | 1        | 1      | 4.35%   |
+| ASMT                | 1        | 1      | 4.35%   |
 
 Drive Kind
 ----------
@@ -1149,10 +1150,10 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 66       | 113    | 70.97%  |
-| SSD     | 22       | 28     | 23.66%  |
+| SSD     | 23       | 29     | 24.73%  |
 | NVMe    | 2        | 3      | 2.15%   |
-| Unknown | 2        | 2      | 2.15%   |
 | MMC     | 1        | 1      | 1.08%   |
+| Unknown | 1        | 1      | 1.08%   |
 
 Drive Connector
 ---------------
@@ -1179,11 +1180,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 68       | 107    | 72.34%  |
-| 0.51-1.0   | 19       | 24     | 20.21%  |
-| 1.01-2.0   | 5        | 7      | 5.32%   |
-| 2.01-3.0   | 1        | 2      | 1.06%   |
-| 4.01-10.0  | 1        | 1      | 1.06%   |
+| 0.01-0.5   | 69       | 108    | 72.63%  |
+| 0.51-1.0   | 19       | 24     | 20%     |
+| 1.01-2.0   | 5        | 7      | 5.26%   |
+| 2.01-3.0   | 1        | 2      | 1.05%   |
+| 4.01-10.0  | 1        | 1      | 1.05%   |
 
 Space Total
 -----------
@@ -1868,8 +1869,8 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 28W_LCD_TV VES3700 1920x540                           | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.28%   |
+| Vestel Elektronik 39FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch   | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                      | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
@@ -1884,7 +1885,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SyncMaster 2624x1200                    | 1        | 1.28%   |
 | Samsung Electronics LCD Monitor SMB1930NW 1440x900                      | 1        | 1.28%   |
 | Samsung Electronics LCD Monitor SAM0DF3 3840x2160 1872x1053mm 84.6-inch | 1        | 1.28%   |
-| Samsung Electronics LCD Monitor SAM0B32 1366x768 607x345mm 27.5-inch    | 1        | 1.28%   |
+| Samsung Electronics LCD Monitor SAM0B32 1366x768 610x350mm 27.7-inch    | 1        | 1.28%   |
 | Samsung Electronics LCD Monitor SAM0669 1920x1080                       | 1        | 1.28%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch       | 1        | 1.28%   |
 | Panasonic TH-42PD25U MEIA023 1920x540 920x518mm 41.6-inch               | 1        | 1.28%   |
@@ -1892,8 +1893,8 @@ Monitor models
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.28%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.28%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.28%   |
-| Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.28%   |
-| KTC Q3202S KTC3200 2560x1440 708x398mm 32.0-inch                        | 1        | 1.28%   |
+| Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.28%   |
+| KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                        | 1        | 1.28%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch              | 1        | 1.28%   |
 | Hewlett-Packard LCD Monitor 2711 1920x1080                              | 1        | 1.28%   |
@@ -1921,7 +1922,7 @@ Monitor models
 | CPT CL-151G CPT06FE 1024x768 300x230mm 14.9-inch                        | 1        | 1.28%   |
 | BenQ RL2460H BNQ7F34 1920x1080 530x300mm 24.0-inch                      | 1        | 1.28%   |
 | BenQ LCD Monitor GL2450H 1920x1080                                      | 1        | 1.28%   |
-| BenQ GL2450H BNQ78A7 1920x1080 531x298mm 24.0-inch                      | 1        | 1.28%   |
+| BenQ GL2450H BNQ78A7 1920x1080 530x300mm 24.0-inch                      | 1        | 1.28%   |
 | BenQ G610HDAL BNQ785B 1366x768 344x194mm 15.5-inch                      | 1        | 1.28%   |
 
 Monitor Resolution
@@ -2504,7 +2505,7 @@ Sound card models
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.83%   |
 | Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                       | 1        | 0.83%   |
 | Intel 200 Series PCH HD Audio                                              | 1        | 0.83%   |
-| Generalplus Technology IMYB 7.1 Channel                                    | 1        | 0.83%   |
+| Generalplus Technology USB Audio Device                                    | 1        | 0.83%   |
 | Creative Technology SoundBlaster MP3+                                      | 1        | 0.83%   |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.83%   |
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                 | 1        | 0.83%   |
@@ -2566,9 +2567,9 @@ Memory module models
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5.56%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s       | 1        | 5.56%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s         | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 5.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 5.56%   |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 5.56%   |
 | Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2866MT/s     | 1        | 5.56%   |
@@ -2721,7 +2722,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Sunplus SPCA2281 Web Camera                                         | 1        | 12.5%   |
-| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 12.5%   |
+| Samsung Galaxy A5 (MTP)                                             | 1        | 12.5%   |
 | Logitech Webcam C270                                                | 1        | 12.5%   |
 | Logitech Webcam C210                                                | 1        | 12.5%   |
 | GEO Semi Condor                                                     | 1        | 12.5%   |
@@ -2773,8 +2774,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 63       | 78.75%  |
-| 1     | 14       | 17.5%   |
+| 0     | 62       | 77.5%   |
+| 1     | 15       | 18.75%  |
 | 2     | 3        | 3.75%   |
 
 Unsupported Device Types
@@ -2787,11 +2788,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 7        | 36.84%  |
-| Communication controller | 5        | 26.32%  |
-| Graphics card            | 3        | 15.79%  |
-| Unassigned class         | 1        | 5.26%   |
-| Sound                    | 1        | 5.26%   |
-| Net/ethernet             | 1        | 5.26%   |
-| Camera                   | 1        | 5.26%   |
+| Net/wireless             | 7        | 35%     |
+| Communication controller | 5        | 25%     |
+| Graphics card            | 4        | 20%     |
+| Unassigned class         | 1        | 5%      |
+| Sound                    | 1        | 5%      |
+| Net/ethernet             | 1        | 5%      |
+| Camera                   | 1        | 5%      |
 

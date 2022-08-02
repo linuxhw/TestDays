@@ -709,11 +709,11 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 9.52%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 9.52%   |
-| Unknown SD/MMC/MS PRO 128GB          | 1         | 4.76%   |
+| Unknown SD/MMC/MS PRO 64GB           | 1         | 4.76%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.76%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.76%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.76%   |
-| Seagate Expansion+ Desk 4TB          | 1         | 4.76%   |
+| Seagate Expansion Desk 4TB           | 1         | 4.76%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 4.76%   |
 | SanDisk NVMe SSD Drive 512GB         | 1         | 4.76%   |
 | Samsung NVMe SSD Drive 1TB           | 1         | 4.76%   |
@@ -926,7 +926,7 @@ Storage controller models
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                    | 1         | 5.88%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                | 1         | 5.88%   |
 | Samsung Apple PCIe SSD                                                       | 1         | 5.88%   |
-| KIOXIA Non-Volatile memory controller                                        | 1         | 5.88%   |
+| KIOXIA NVMe SSD Controller BG4                                               | 1         | 5.88%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 1         | 5.88%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                | 1         | 5.88%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 1         | 5.88%   |
@@ -1219,15 +1219,15 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 6.67%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 6.67%   |
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |
 | LG Display LCD Monitor LGD04DA 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 6.67%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 6.67%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 6.67%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 6.67%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 6.67%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 6.67%   |

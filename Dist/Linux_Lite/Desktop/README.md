@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 56
+Total: 58
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek  | M51BC                       | [fd0a9ef1c8](https://linux-hardware.org/?probe=fd0a9ef1c8) | Jul 08, 2022 |
+| ASUSTek  | M51BC                       | [cc2f84d5d3](https://linux-hardware.org/?probe=cc2f84d5d3) | Jul 08, 2022 |
 | Lenovo   | 103D SDK0J40697 WIN 3305... | [03c6ee002e](https://linux-hardware.org/?probe=03c6ee002e) | Jun 07, 2022 |
 | Acer     | Aspire TC-895 V:1.0         | [19a5c1de8e](https://linux-hardware.org/?probe=19a5c1de8e) | May 29, 2022 |
 | Lenovo   | Remore CRB Win8 STD MM D... | [eb96be3541](https://linux-hardware.org/?probe=eb96be3541) | May 24, 2022 |
@@ -701,8 +703,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 18       | 51.43%  |
-| No        | 17       | 48.57%  |
+| No        | 18       | 51.43%  |
+| Yes       | 17       | 48.57%  |
 
 Has Ethernet
 ------------
@@ -831,24 +833,24 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 13       | 17     | 25.49%  |
-| Seagate             | 13       | 15     | 25.49%  |
-| Samsung Electronics | 5        | 5      | 9.8%    |
-| Toshiba             | 3        | 3      | 5.88%   |
-| Kingston            | 2        | 4      | 3.92%   |
-| Hitachi             | 2        | 2      | 3.92%   |
-| Crucial             | 2        | 2      | 3.92%   |
-| Unknown             | 1        | 1      | 1.96%   |
-| SanDisk             | 1        | 1      | 1.96%   |
-| PNY                 | 1        | 1      | 1.96%   |
-| Phison              | 1        | 1      | 1.96%   |
-| OCZ                 | 1        | 1      | 1.96%   |
-| Maxtor              | 1        | 1      | 1.96%   |
-| Mass                | 1        | 1      | 1.96%   |
-| HPE                 | 1        | 1      | 1.96%   |
-| Hewlett-Packard     | 1        | 1      | 1.96%   |
-| Goodram             | 1        | 1      | 1.96%   |
-| Gigabyte Technology | 1        | 1      | 1.96%   |
+| WDC                 | 13       | 17     | 25%     |
+| Seagate             | 13       | 15     | 25%     |
+| Samsung Electronics | 6        | 6      | 11.54%  |
+| Toshiba             | 3        | 3      | 5.77%   |
+| Kingston            | 2        | 4      | 3.85%   |
+| Hitachi             | 2        | 2      | 3.85%   |
+| Crucial             | 2        | 2      | 3.85%   |
+| Unknown             | 1        | 1      | 1.92%   |
+| SanDisk             | 1        | 1      | 1.92%   |
+| PNY                 | 1        | 1      | 1.92%   |
+| Phison              | 1        | 1      | 1.92%   |
+| OCZ                 | 1        | 1      | 1.92%   |
+| Maxtor              | 1        | 1      | 1.92%   |
+| Mass                | 1        | 1      | 1.92%   |
+| HPE                 | 1        | 1      | 1.92%   |
+| Hewlett-Packard     | 1        | 1      | 1.92%   |
+| Goodram             | 1        | 1      | 1.92%   |
+| Gigabyte Technology | 1        | 1      | 1.92%   |
 
 Drive Model
 -----------
@@ -858,61 +860,62 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| Seagate ST500DM002-1BD142 500GB      | 3        | 5.36%   |
-| WDC WD5000AAKX-001CA0 500GB          | 2        | 3.57%   |
-| WDC WDS250G2B0A 250GB SSD            | 1        | 1.79%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD     | 1        | 1.79%   |
-| WDC WD800JD-60LSA0 80GB              | 1        | 1.79%   |
-| WDC WD5000AAKX-003CA0 500GB          | 1        | 1.79%   |
-| WDC WD5000AAKS-60WWPA0 500GB         | 1        | 1.79%   |
-| WDC WD5000AACS-00G8B1 500GB          | 1        | 1.79%   |
-| WDC WD20PURX-64PFUY0 2TB             | 1        | 1.79%   |
-| WDC WD2005FBYZ-01YCBB2 2TB           | 1        | 1.79%   |
-| WDC WD10JPVX-75JC3T0 1TB             | 1        | 1.79%   |
-| WDC WD10EZEX-07WN4A0 1TB             | 1        | 1.79%   |
-| WDC WD10EADS-00L5B1 1TB              | 1        | 1.79%   |
-| WDC WD1003FBYX-01Y7B1 1TB            | 1        | 1.79%   |
-| WDC PC SN730 SDBQNTY-1T00-1014 1TB   | 1        | 1.79%   |
-| Unknown MMC Card  32GB               | 1        | 1.79%   |
-| Toshiba MK1059GSM 1TB                | 1        | 1.79%   |
-| Toshiba HDWD110 1TB                  | 1        | 1.79%   |
-| Toshiba DT01ACA100 1TB               | 1        | 1.79%   |
-| Seagate ST980811AS 80GB              | 1        | 1.79%   |
-| Seagate ST9500325AS 500GB            | 1        | 1.79%   |
-| Seagate ST500LM030-1RK17D 500GB      | 1        | 1.79%   |
-| Seagate ST500DM002-1BC142 500GB      | 1        | 1.79%   |
-| Seagate ST3750640NS 752GB            | 1        | 1.79%   |
-| Seagate ST3320620A 320GB             | 1        | 1.79%   |
-| Seagate ST320LM001 HN-M320MBB 320GB  | 1        | 1.79%   |
-| Seagate ST3120026A 120GB             | 1        | 1.79%   |
-| Seagate ST2000DL003-9VT166 2TB       | 1        | 1.79%   |
-| Seagate ST1000LM010-9YH146 1TB       | 1        | 1.79%   |
-| Seagate ST1000DM003-1CH162 1TB       | 1        | 1.79%   |
-| SanDisk SDSSDA240G 240GB             | 1        | 1.79%   |
-| Samsung SSD PM851 2.5 7mm 256GB      | 1        | 1.79%   |
-| Samsung SSD 860 EVO 500GB            | 1        | 1.79%   |
-| Samsung SSD 830 Series 128GB         | 1        | 1.79%   |
-| Samsung MZVKW512HMJP-000L7 512GB     | 1        | 1.79%   |
-| Samsung HM500JI 500GB                | 1        | 1.79%   |
-| PNY CS900 120GB SSD                  | 1        | 1.79%   |
-| Phison NVMe SSD Drive 2TB            | 1        | 1.79%   |
-| OCZ AGILITY3 64GB SSD                | 1        | 1.79%   |
-| Maxtor 6L250S0 250GB                 | 1        | 1.79%   |
-| Mass Mass Storage 8MB                | 1        | 1.79%   |
-| Kingston SV300S37A60G 64GB SSD       | 1        | 1.79%   |
-| Kingston SV300S37A120G 120GB SSD     | 1        | 1.79%   |
-| Kingston SUV400S37480G 480GB SSD     | 1        | 1.79%   |
-| Kingston SA400S37480G 480GB SSD      | 1        | 1.79%   |
-| HPE MB0500GCEHE 500GB                | 1        | 1.79%   |
-| Hitachi HDS722020ALA330 2TB          | 1        | 1.79%   |
-| Hitachi HDS721616PLA380 160GB        | 1        | 1.79%   |
-| HP SSD S700 500GB                    | 1        | 1.79%   |
-| Goodram IR-SSDPR-S25A-120 120GB      | 1        | 1.79%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD | 1        | 1.79%   |
-| Crucial CT256MX100SSD1 256GB         | 1        | 1.79%   |
-| Crucial CT1000MX500SSD1 1TB          | 1        | 1.79%   |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Seagate ST500DM002-1BD142 500GB     | 3        | 5.26%   |
+| WDC WD5000AAKX-001CA0 500GB         | 2        | 3.51%   |
+| WDC WDS250G2B0A 250GB SSD           | 1        | 1.75%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD    | 1        | 1.75%   |
+| WDC WD800JD-60LSA0 80GB             | 1        | 1.75%   |
+| WDC WD5000AAKX-003CA0 500GB         | 1        | 1.75%   |
+| WDC WD5000AAKS-60WWPA0 500GB        | 1        | 1.75%   |
+| WDC WD5000AACS-00G8B1 500GB         | 1        | 1.75%   |
+| WDC WD20PURX-64PFUY0 2TB            | 1        | 1.75%   |
+| WDC WD2005FBYZ-01YCBB2 2TB          | 1        | 1.75%   |
+| WDC WD10JPVX-75JC3T0 1TB            | 1        | 1.75%   |
+| WDC WD10EZEX-07WN4A0 1TB            | 1        | 1.75%   |
+| WDC WD10EADS-00L5B1 1TB             | 1        | 1.75%   |
+| WDC WD1003FBYX-01Y7B1 752GB         | 1        | 1.75%   |
+| WDC PC SN730 SDBQNTY-1T00-1014 1TB  | 1        | 1.75%   |
+| Unknown MMC Card  32GB              | 1        | 1.75%   |
+| Toshiba MK1059GSM 1TB               | 1        | 1.75%   |
+| Toshiba HDWD110 1TB                 | 1        | 1.75%   |
+| Toshiba DT01ACA100 1TB              | 1        | 1.75%   |
+| Seagate ST980811AS 80GB             | 1        | 1.75%   |
+| Seagate ST9500325AS 500GB           | 1        | 1.75%   |
+| Seagate ST500LM030-1RK17D 500GB     | 1        | 1.75%   |
+| Seagate ST500DM002-1BC142 500GB     | 1        | 1.75%   |
+| Seagate ST3750640NS 752GB           | 1        | 1.75%   |
+| Seagate ST3320620A 320GB            | 1        | 1.75%   |
+| Seagate ST320LM001 HN-M320MBB 320GB | 1        | 1.75%   |
+| Seagate ST3120026A 120GB            | 1        | 1.75%   |
+| Seagate ST2000DL003-9VT166 2TB      | 1        | 1.75%   |
+| Seagate ST1000LM010-9YH146 1TB      | 1        | 1.75%   |
+| Seagate ST1000DM003-1CH162 1TB      | 1        | 1.75%   |
+| SanDisk SDSSDA240G 240GB            | 1        | 1.75%   |
+| Samsung SSD PM851 2.5 7mm 256GB     | 1        | 1.75%   |
+| Samsung SSD 860 EVO 500GB           | 1        | 1.75%   |
+| Samsung SSD 860 EVO 250GB           | 1        | 1.75%   |
+| Samsung SSD 830 Series 128GB        | 1        | 1.75%   |
+| Samsung MZVKW512HMJP-000L7 512GB    | 1        | 1.75%   |
+| Samsung HM500JI 500GB               | 1        | 1.75%   |
+| PNY CS900 120GB SSD                 | 1        | 1.75%   |
+| Phison NVMe SSD Drive 2TB           | 1        | 1.75%   |
+| OCZ AGILITY3 64GB SSD               | 1        | 1.75%   |
+| Maxtor 6L250S0 250GB                | 1        | 1.75%   |
+| Mass Mass Storage 8MB               | 1        | 1.75%   |
+| Kingston SV300S37A60G 64GB SSD      | 1        | 1.75%   |
+| Kingston SV300S37A120G 120GB SSD    | 1        | 1.75%   |
+| Kingston SUV400S37480G 480GB SSD    | 1        | 1.75%   |
+| Kingston SA400S37480G 480GB SSD     | 1        | 1.75%   |
+| HPE MB0500GCEHE 500GB               | 1        | 1.75%   |
+| Hitachi HDS722020ALA330 2TB         | 1        | 1.75%   |
+| Hitachi HDS721616PLA380 160GB       | 1        | 1.75%   |
+| HP SSD S700 500GB                   | 1        | 1.75%   |
+| Goodram IR-SSDPR-S25A-120 120GB     | 1        | 1.75%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB    | 1        | 1.75%   |
+| Crucial CT256MX100SSD1 256GB        | 1        | 1.75%   |
+| Crucial CT1000MX500SSD1 1TB         | 1        | 1.75%   |
 
 HDD Vendor
 ----------
@@ -941,16 +944,16 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 3        | 3      | 20%     |
-| WDC                 | 2        | 3      | 13.33%  |
-| Kingston            | 2        | 4      | 13.33%  |
-| Crucial             | 2        | 2      | 13.33%  |
-| SanDisk             | 1        | 1      | 6.67%   |
-| PNY                 | 1        | 1      | 6.67%   |
-| OCZ                 | 1        | 1      | 6.67%   |
-| Hewlett-Packard     | 1        | 1      | 6.67%   |
-| Goodram             | 1        | 1      | 6.67%   |
-| Gigabyte Technology | 1        | 1      | 6.67%   |
+| Samsung Electronics | 4        | 4      | 25%     |
+| WDC                 | 2        | 3      | 12.5%   |
+| Kingston            | 2        | 4      | 12.5%   |
+| Crucial             | 2        | 2      | 12.5%   |
+| SanDisk             | 1        | 1      | 6.25%   |
+| PNY                 | 1        | 1      | 6.25%   |
+| OCZ                 | 1        | 1      | 6.25%   |
+| Hewlett-Packard     | 1        | 1      | 6.25%   |
+| Goodram             | 1        | 1      | 6.25%   |
+| Gigabyte Technology | 1        | 1      | 6.25%   |
 
 Drive Kind
 ----------
@@ -962,11 +965,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 26       | 34     | 56.52%  |
-| SSD     | 14       | 18     | 30.43%  |
-| NVMe    | 3        | 4      | 6.52%   |
-| Unknown | 2        | 2      | 4.35%   |
-| MMC     | 1        | 1      | 2.17%   |
+| HDD     | 26       | 34     | 55.32%  |
+| SSD     | 15       | 19     | 31.91%  |
+| NVMe    | 3        | 4      | 6.38%   |
+| Unknown | 2        | 2      | 4.26%   |
+| MMC     | 1        | 1      | 2.13%   |
 
 Drive Connector
 ---------------
@@ -978,10 +981,10 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 31       | 52     | 83.78%  |
-| NVMe | 3        | 4      | 8.11%   |
-| SAS  | 2        | 2      | 5.41%   |
-| MMC  | 1        | 1      | 2.7%    |
+| SATA | 32       | 53     | 84.21%  |
+| NVMe | 3        | 4      | 7.89%   |
+| SAS  | 2        | 2      | 5.26%   |
+| MMC  | 1        | 1      | 2.63%   |
 
 Drive Size
 ----------
@@ -993,9 +996,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 36     | 63.16%  |
-| 0.51-1.0   | 11       | 12     | 28.95%  |
-| 1.01-2.0   | 3        | 4      | 7.89%   |
+| 0.01-0.5   | 25       | 37     | 64.1%   |
+| 0.51-1.0   | 11       | 12     | 28.21%  |
+| 1.01-2.0   | 3        | 4      | 7.69%   |
 
 Space Total
 -----------
@@ -1121,9 +1124,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 17       | 27     | 47.22%  |
-| Detected | 12       | 23     | 33.33%  |
-| Malfunc  | 7        | 9      | 19.44%  |
+| Works    | 17       | 27     | 45.95%  |
+| Detected | 13       | 24     | 35.14%  |
+| Malfunc  | 7        | 9      | 18.92%  |
 
 Storage controller
 ------------------
@@ -2114,20 +2117,20 @@ Memory module models
 | SK hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s             | 1        | 2.7%    |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s                 | 1        | 2.7%    |
 | Samsung RAM M378B2873FH0-CH9 1024MB DIMM DDR3 1333MT/s              | 1        | 2.7%    |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s                 | 1        | 2.7%    |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s              | 1        | 2.7%    |
 | Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 1639MT/s                | 1        | 2.7%    |
 | Qumo RAM Module 4096MB DIMM DDR3 1333MT/s                           | 1        | 2.7%    |
 | Micron RAM Module 8GB DIMM DDR4 3200MT/s                            | 1        | 2.7%    |
-| Micron RAM 8HTF12864AY-800G1 1024MB DIMM DDR2 800MT/s               | 1        | 2.7%    |
+| Micron RAM 8HTF12864AY-800G1 1024MB DIMM DDR 800MT/s                | 1        | 2.7%    |
 | Micron RAM 16KTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s             | 1        | 2.7%    |
 | Micron RAM 16KTF1G64HZ-1G6E1 8192MB DIMM DDR3 1066MT/s              | 1        | 2.7%    |
 | Kingston RAM Module 1GB DIMM DDR2 667MT/s                           | 1        | 2.7%    |
 | Kingston RAM Module 1024MB DIMM DDR2 800MT/s                        | 1        | 2.7%    |
-| Kingston RAM KTW149-ELD 1024MB DIMM DDR3 1333MT/s                   | 1        | 2.7%    |
+| Kingston RAM KTW149-ELD 1GB DIMM 1333MT/s                           | 1        | 2.7%    |
 | Kingston RAM KHX2666C15D4/4G 4GB DIMM DDR4 3200MT/s                 | 1        | 2.7%    |
 | Kingston RAM 99U5474-020.A00LF 4096MB DIMM DDR3 1333MT/s            | 1        | 2.7%    |
 | Kingston RAM 9905458-009.A00LF 2GB DIMM DDR3 1333MT/s               | 1        | 2.7%    |
-| GeIL RAM CL16-20-20 D4-3200 16384MB DIMM DDR4 2133MT/s              | 1        | 2.7%    |
+| GeIL RAM CL16-20-20 D4-3200 8192MB DIMM DDR4 3200MT/s               | 1        | 2.7%    |
 | Corsair RAM CML8GX3M2A1600C9W 4GB DIMM DDR3 2133MT/s                | 1        | 2.7%    |
 | Avant RAM Module 1GB DIMM DDR2 667MT/s                              | 1        | 2.7%    |
 | 2C0C1121390963FE RAM 36HTF25672F667G1N8 2048MB FB-DIMM DDR2 667MT/s | 1        | 2.7%    |
@@ -2194,14 +2197,14 @@ Memory module speed
 |---------|----------|---------|
 | 1333    | 5        | 17.24%  |
 | Unknown | 5        | 17.24%  |
+| 3200    | 3        | 10.34%  |
 | 1600    | 3        | 10.34%  |
-| 3200    | 2        | 6.9%    |
-| 2133    | 2        | 6.9%    |
 | 800     | 2        | 6.9%    |
 | 667     | 2        | 6.9%    |
 | 49926   | 1        | 3.45%   |
 | 19791   | 1        | 3.45%   |
 | 3500    | 1        | 3.45%   |
+| 2133    | 1        | 3.45%   |
 | 1639    | 1        | 3.45%   |
 | 1066    | 1        | 3.45%   |
 | 1033    | 1        | 3.45%   |
@@ -2285,7 +2288,7 @@ Camera device models
 | Microsoft MicrosoftÂ LifeCam HD-6000 for Notebooks | 1        | 12.5%   |
 | Jieli USB PHY 2.0                                   | 1        | 12.5%   |
 | HP Webcam HD 2300                                   | 1        | 12.5%   |
-| Generalplus GENERAL WEBCAM                          | 1        | 12.5%   |
+| Generalplus WEB CAM                                 | 1        | 12.5%   |
 | Chicony HP Webcam                                   | 1        | 12.5%   |
 | Chicony HP High Definition 1MP Webcam               | 1        | 12.5%   |
 

@@ -799,7 +799,7 @@ Hard drive vendors
 | HGST                | 2         | 3      | 4.55%   |
 | A-DATA Technology   | 2         | 2      | 4.55%   |
 | SanDisk             | 1         | 1      | 2.27%   |
-| Goodram             | 1         | 1      | 2.27%   |
+| GOODRAM             | 1         | 1      | 2.27%   |
 | Crucial             | 1         | 1      | 2.27%   |
 
 Drive Model
@@ -850,7 +850,7 @@ Hard drive models
 | Hitachi HTS545050B9A300 500GB        | 1         | 2.27%   |
 | HGST HTS721010A9E630 1TB             | 1         | 2.27%   |
 | HGST HTS545025A7E380 250GB           | 1         | 2.27%   |
-| Goodram SSDPR-CX300-240 240GB        | 1         | 2.27%   |
+| GOODRAM SSDPR-CX300-240 240GB        | 1         | 2.27%   |
 | Crucial CT250MX500SSD1 250GB         | 1         | 2.27%   |
 | A-DATA SU750 256GB SSD               | 1         | 2.27%   |
 | A-DATA SU630 480GB SSD               | 1         | 2.27%   |
@@ -888,7 +888,7 @@ Solid state drive vendors
 | A-DATA Technology   | 2         | 2      | 14.29%  |
 | WDC                 | 1         | 2      | 7.14%   |
 | SanDisk             | 1         | 1      | 7.14%   |
-| Goodram             | 1         | 1      | 7.14%   |
+| GOODRAM             | 1         | 1      | 7.14%   |
 | Crucial             | 1         | 1      | 7.14%   |
 
 Drive Kind
@@ -1460,7 +1460,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 5.56%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SEC3358 1280x800 330x210mm 15.4-inch     | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.78%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 2.78%   |
@@ -1878,7 +1878,7 @@ Controller models
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 4.35%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 1         | 4.35%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 4.35%   |
-| Intel Bluetooth Device                                      | 1         | 4.35%   |
+| Intel AX201 Bluetooth                                       | 1         | 4.35%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 4.35%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 4.35%   |
 | Foxconn / Hon Hai BCM20702A0                                | 1         | 4.35%   |

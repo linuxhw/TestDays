@@ -1115,8 +1115,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 33       | 59     | 40.24%  |
-| 0.51-1.0   | 19       | 41     | 23.17%  |
+| 0.01-0.5   | 32       | 58     | 39.02%  |
+| 0.51-1.0   | 20       | 42     | 24.39%  |
 | 1.01-2.0   | 11       | 15     | 13.41%  |
 | 3.01-4.0   | 7        | 18     | 8.54%   |
 | 2.01-3.0   | 7        | 15     | 8.54%   |
@@ -1798,19 +1798,19 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                    | 1        | 1.89%   |
+| Xiaomi DPF90435 XMD009A 2224x1668 341x192mm 15.4-inch                 | 1        | 1.89%   |
 | Wacom Cintiq 22HDT WAC1037 1920x1080 476x268mm 21.5-inch              | 1        | 1.89%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                         | 1        | 1.89%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                         | 1        | 1.89%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.89%   |
-| Toshiba TV TSB0206 1920x1080                                          | 1        | 1.89%   |
+| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                    | 1        | 1.89%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch  | 1        | 1.89%   |
-| Samsung Electronics SyncMaster SAM0248 1280x1024 376x301mm 19.0-inch  | 1        | 1.89%   |
+| Samsung Electronics SyncMaster SAM0248 1280x1024 380x300mm 19.1-inch  | 1        | 1.89%   |
 | Samsung Electronics SyncMaster SAM01AD 1600x1200 408x306mm 20.1-inch  | 1        | 1.89%   |
 | Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch    | 1        | 1.89%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch    | 1        | 1.89%   |
 | Samsung Electronics SM2333T SAM0736 1920x1080 477x268mm 21.5-inch     | 1        | 1.89%   |
-| Samsung Electronics S24D390 SAM0B65 1920x1080 521x293mm 23.5-inch     | 1        | 1.89%   |
+| Samsung Electronics S24D390 SAM0B65 1920x1080 520x290mm 23.4-inch     | 1        | 1.89%   |
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 1.89%   |
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                   | 1        | 1.89%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch       | 1        | 1.89%   |
@@ -1821,12 +1821,12 @@ Monitor models
 | Iiyama PLE2207WS IVM5609 1680x1050 474x296mm 22.0-inch                | 1        | 1.89%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch         | 1        | 1.89%   |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch          | 1        | 1.89%   |
-| Hewlett-Packard 27w HPN3494 1920x1080 600x340mm 27.2-inch             | 1        | 1.89%   |
+| Hewlett-Packard 27w HPN3494 1920x1080 598x336mm 27.0-inch             | 1        | 1.89%   |
 | Hewlett-Packard 2309 HWP2823 1920x1080 510x287mm 23.0-inch            | 1        | 1.89%   |
 | Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                  | 1        | 1.89%   |
 | Goldstar W2242 GSM5677 1680x1050 474x296mm 22.0-inch                  | 1        | 1.89%   |
-| Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch                | 1        | 1.89%   |
-| Goldstar E1641 GSM8B3E 1366x768 350x200mm 15.9-inch                   | 1        | 1.89%   |
+| Goldstar LG FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch             | 1        | 1.89%   |
+| Goldstar E1641 GSM8B3E 1366x768 344x194mm 15.5-inch                   | 1        | 1.89%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                 | 1        | 1.89%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                 | 1        | 1.89%   |
 | Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch        | 1        | 1.89%   |
@@ -1834,15 +1834,15 @@ Monitor models
 | Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                      | 1        | 1.89%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 1.89%   |
 | Dell LCD Monitor U2312HM 1920x1080                                    | 1        | 1.89%   |
+| Dell LCD Monitor DELA026 1920x1200 520x330mm 24.2-inch                | 1        | 1.89%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                     | 1        | 1.89%   |
-| Dell DELL2407WFPHC DELA026 1920x1200 519x324mm 24.1-inch              | 1        | 1.89%   |
-| Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                     | 1        | 1.89%   |
+| Dell 1905FP DEL400D 1280x1024 380x310mm 19.3-inch                     | 1        | 1.89%   |
 | BenQ VZ2770H BNQ7B3C 1920x1080 598x336mm 27.0-inch                    | 1        | 1.89%   |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                     | 1        | 1.89%   |
 | BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                     | 1        | 1.89%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch               | 1        | 1.89%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch       | 1        | 1.89%   |
-| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 1.89%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 1.89%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch      | 1        | 1.89%   |
 | Ancor Communications ROG PG348Q ACI3433 3440x1440 800x340mm 34.2-inch | 1        | 1.89%   |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 1.89%   |
@@ -2264,8 +2264,8 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 11       | 64.71%  |
 | Intel Wireless-AC 3168 Bluetooth                    | 2        | 11.76%  |
 | Micro Star International Bluetooth Device           | 1        | 5.88%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 5.88%   |
 | Intel Bluetooth wireless interface                  | 1        | 5.88%   |
+| Intel Bluetooth Device                              | 1        | 5.88%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 5.88%   |
 
 Sound
@@ -2398,14 +2398,14 @@ Memory module models
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 3.13%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s         | 2        | 3.13%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s         | 2        | 3.13%   |
 | Unknown RAM Module 4GB DIMM DDR3 1066MT/s                   | 1        | 1.56%   |
 | Unknown RAM Module 4096MB DIMM DDR3 65535MT/s               | 1        | 1.56%   |
 | Unknown RAM Module 2048MB DIMM DDR 800MT/s                  | 1        | 1.56%   |
 | Unknown RAM Module 2048MB DIMM 667MT/s                      | 1        | 1.56%   |
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                  | 1        | 1.56%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                      | 1        | 1.56%   |
-| Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s        | 1        | 1.56%   |
+| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s           | 1        | 1.56%   |
 | Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.56%   |
 | SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.56%   |
@@ -2427,9 +2427,9 @@ Memory module models
 | Kingston RAM Module 2048MB FB-DIMM DDR2 667MT/s             | 1        | 1.56%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.56%   |
 | Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.56%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s     | 1        | 1.56%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.56%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 1        | 1.56%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s         | 1        | 1.56%   |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s      | 1        | 1.56%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s         | 1        | 1.56%   |
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 800MT/s      | 1        | 1.56%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
@@ -2447,13 +2447,13 @@ Memory module models
 | Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 1.56%   |
 | Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s       | 1        | 1.56%   |
 | Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s  | 1        | 1.56%   |
-| Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 800MT/s         | 1        | 1.56%   |
+| Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 1600MT/s        | 1        | 1.56%   |
 | Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s    | 1        | 1.56%   |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s          | 1        | 1.56%   |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s       | 1        | 1.56%   |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 1.56%   |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s      | 1        | 1.56%   |
-| Corsair RAM CMK16GX4M1A2666C16 16GB DIMM DDR4 2667MT/s      | 1        | 1.56%   |
+| Corsair RAM CMK16GX4M1A2666C16 16384MB DIMM DDR4 2667MT/s   | 1        | 1.56%   |
 | AMD RAM R534G1601S1SL 4GB DIMM DDR3 1600MT/s                | 1        | 1.56%   |
 | A-DATA RAM Module 4096MB DIMM DDR3 1333MT/s                 | 1        | 1.56%   |
 | A Force RAM 1GX72V160K 8192MB DIMM DDR3 1333MT/s            | 1        | 1.56%   |
@@ -2519,10 +2519,10 @@ Memory module speed
 |---------|----------|---------|
 | 1600    | 13       | 25%     |
 | 2400    | 5        | 9.62%   |
+| 3600    | 4        | 7.69%   |
 | 3200    | 4        | 7.69%   |
 | 1333    | 4        | 7.69%   |
 | 667     | 4        | 7.69%   |
-| 3600    | 3        | 5.77%   |
 | 2667    | 2        | 3.85%   |
 | 2666    | 2        | 3.85%   |
 | 2133    | 2        | 3.85%   |
@@ -2532,7 +2532,6 @@ Memory module speed
 | Unknown | 2        | 3.85%   |
 | 65535   | 1        | 1.92%   |
 | 3800    | 1        | 1.92%   |
-| 3533    | 1        | 1.92%   |
 | 2000    | 1        | 1.92%   |
 | 1066    | 1        | 1.92%   |
 

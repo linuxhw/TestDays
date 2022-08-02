@@ -650,7 +650,7 @@ Hard drive models
 | WDC WDS500G2B0B-00YS70 500GB SSD | 1        | 7.14%   |
 | WDC WD400BD-23JMC0 40GB          | 1        | 7.14%   |
 | WDC WD1600AAJS-00L7A0 160GB      | 1        | 7.14%   |
-| Unknown (CF) Card 8GB SSD        | 1        | 7.14%   |
+| Unknown (CF) Card 16GB SSD       | 1        | 7.14%   |
 | Seagate ST8000DM004-2CX188 8TB   | 1        | 7.14%   |
 | Seagate ST3160815AS 160GB        | 1        | 7.14%   |
 | Seagate ST3160812AS 160GB        | 1        | 7.14%   |
@@ -1144,7 +1144,7 @@ Monitor models
 | Samsung Electronics SMB1630N SAM0630 1366x768 340x190mm 15.3-inch       | 1        | 14.29%  |
 | Samsung Electronics S24B20/S24B30 SAM09ED 1920x1080 521x293mm 23.5-inch | 1        | 14.29%  |
 | Orion ORION ORN120A 1920x540                                            | 1        | 14.29%  |
-| Hewlett-Packard 2009 HWP2827 1600x900 442x249mm 20.0-inch               | 1        | 14.29%  |
+| Hewlett-Packard 2009 HWP2827 1600x900 443x250mm 20.0-inch               | 1        | 14.29%  |
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 14.29%  |
 
 Monitor Resolution
@@ -1503,7 +1503,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM SDRAM                 | 1        | 14.29%  |
 | Transcend RAM Module 1GB DIMM SDRAM 266MT/s          | 1        | 14.29%  |
 | Teikon RAM TMT41GU6AFR8C-PBHJ 8GB DIMM DDR3 1333MT/s | 1        | 14.29%  |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s  | 1        | 14.29%  |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s   | 1        | 14.29%  |
 
 Memory Kind
 -----------

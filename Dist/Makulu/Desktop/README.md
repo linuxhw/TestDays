@@ -815,13 +815,12 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor             | Desktops | Drives | Percent |
-|--------------------|----------|--------|---------|
-| Seagate            | 7        | 8      | 46.67%  |
-| WDC                | 4        | 6      | 26.67%  |
-| Hitachi            | 2        | 2      | 13.33%  |
-| Maxtor             | 1        | 1      | 6.67%   |
-| JMicron Technology | 1        | 1      | 6.67%   |
+| Vendor  | Desktops | Drives | Percent |
+|---------|----------|--------|---------|
+| Seagate | 7        | 8      | 50%     |
+| WDC     | 4        | 6      | 28.57%  |
+| Hitachi | 2        | 2      | 14.29%  |
+| Maxtor  | 1        | 1      | 7.14%   |
 
 SSD Vendor
 ----------
@@ -855,11 +854,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 13       | 16     | 41.94%  |
-| HDD     | 12       | 18     | 38.71%  |
-| NVMe    | 4        | 7      | 12.9%   |
-| MMC     | 1        | 1      | 3.23%   |
-| Unknown | 1        | 1      | 3.23%   |
+| SSD     | 13       | 16     | 40.63%  |
+| HDD     | 12       | 17     | 37.5%   |
+| NVMe    | 5        | 8      | 15.63%  |
+| MMC     | 1        | 1      | 3.13%   |
+| Unknown | 1        | 1      | 3.13%   |
 
 Drive Connector
 ---------------
@@ -886,9 +885,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 22     | 60.71%  |
-| 0.51-1.0   | 9        | 10     | 32.14%  |
-| 1.01-2.0   | 2        | 2      | 7.14%   |
+| 0.01-0.5   | 17       | 22     | 62.96%  |
+| 0.51-1.0   | 9        | 10     | 33.33%  |
+| 1.01-2.0   | 1        | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1400,11 +1399,11 @@ Monitor models
 | Hewlett-Packard LCD Monitor 2009                             | 1        | 4.35%   |
 | HannStar Hanns.G HH241 HSD2275 1920x1080 521x293mm 23.5-inch | 1        | 4.35%   |
 | Goldstar W2261 GSM56CE 1920x1080 477x268mm 21.5-inch         | 1        | 4.35%   |
-| Goldstar TV SSCR GSM8080 3840x2160 1600x900mm 72.3-inch      | 1        | 4.35%   |
+| Goldstar TV SSCR2 GSM8080 3840x2160                          | 1        | 4.35%   |
 | Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch          | 1        | 4.35%   |
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch        | 1        | 4.35%   |
 | Element WD32FBL1001 ELE6308 1920x1080 890x500mm 40.2-inch    | 1        | 4.35%   |
-| Dell P2314H DEL4098 1920x1080 510x290mm 23.1-inch            | 1        | 4.35%   |
+| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch            | 1        | 4.35%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch            | 1        | 4.35%   |
 | Dell LCD Monitor E228WFP                                     | 1        | 4.35%   |
 | BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch           | 1        | 4.35%   |
@@ -1759,7 +1758,7 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2        | 22.22%  |
 | Realtek Bluetooth Radio                             | 1        | 11.11%  |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 11.11%  |
+| Intel Bluetooth Device                              | 1        | 11.11%  |
 | Intel AX200 Bluetooth                               | 1        | 11.11%  |
 | Dell BT Mini-Receiver                               | 1        | 11.11%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1        | 11.11%  |
@@ -1852,11 +1851,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                | Desktops | Percent |
-|------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1        | 33.33%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1        | 33.33%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1        | 33.33%  |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1        | 33.33%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s     | 1        | 33.33%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 33.33%  |
 
 Memory Kind
 -----------

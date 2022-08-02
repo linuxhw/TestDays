@@ -1052,7 +1052,7 @@ Hard drive models
 | Samsung HD501LJ 500GB               | 1        | 1.05%   |
 | Samsung HD322HJ 320GB               | 1        | 1.05%   |
 | Samsung HD161HJ 160GB               | 1        | 1.05%   |
-| Samsung HD160JJ 160GB               | 1        | 1.05%   |
+| Samsung HD160JJ/ 160GB              | 1        | 1.05%   |
 | Samsung HD103SJ 1TB                 | 1        | 1.05%   |
 | PNY SSD2SC240G1CS1754D117-488 240GB | 1        | 1.05%   |
 | PNY CS900 240GB SSD                 | 1        | 1.05%   |
@@ -1785,7 +1785,7 @@ Monitor models
 | AOC 2080W AOC2080 1440x900 419x262mm 19.5-inch                       | 1        | 1.67%   |
 | AOC 2036 AOC2036 1600x900 443x249mm 20.0-inch                        | 1        | 1.67%   |
 | AOC 197S-1 AOCC944 1280x1024 376x301mm 19.0-inch                     | 1        | 1.67%   |
-| AOC 1950W AOC1950 1366x768 410x230mm 18.5-inch                       | 1        | 1.67%   |
+| AOC 1950w AOC1950 1366x768 410x230mm 18.5-inch                       | 1        | 1.67%   |
 | Acer V206HQL ACR032C 1600x900 432x240mm 19.5-inch                    | 1        | 1.67%   |
 | Acer EI242QR P ACR0958 1920x1080 530x300mm 24.0-inch                 | 1        | 1.67%   |
 
@@ -2279,11 +2279,11 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2                       | 1        | 3.33%   |
 | Unknown RAM Module 1GB DIMM DDR2                          | 1        | 3.33%   |
 | Unknown RAM Module 1024MB DIMM 1333MT/s                   | 1        | 3.33%   |
-| Samsung RAM M378B5173QH0-CK0 4096MB DIMM DDR3 1866MT/s    | 1        | 3.33%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1866MT/s       | 1        | 3.33%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 3.33%   |
 | PNY RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 3.33%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s               | 1        | 3.33%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3533MT/s   | 1        | 3.33%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s      | 1        | 3.33%   |
 | Kingston RAM KHX3000C16D4/16GX 16384MB DIMM DDR4 2400MT/s | 1        | 3.33%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 1        | 3.33%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s       | 1        | 3.33%   |
@@ -2299,7 +2299,7 @@ Memory module models
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s     | 1        | 3.33%   |
 | Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s    | 1        | 3.33%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 3.33%   |
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3000MT/s  | 1        | 3.33%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 3.33%   |
 | A-DATA RAM Module 8GB DIMM DDR3 1333MT/s                  | 1        | 3.33%   |
 
 Memory Kind
@@ -2360,10 +2360,9 @@ Memory module speed
 | 1333    | 8        | 32%     |
 | 1600    | 3        | 12%     |
 | Unknown | 3        | 12%     |
+| 3600    | 2        | 8%      |
 | 3466    | 2        | 8%      |
 | 3200    | 2        | 8%      |
-| 3600    | 1        | 4%      |
-| 3533    | 1        | 4%      |
 | 2933    | 1        | 4%      |
 | 2400    | 1        | 4%      |
 | 2133    | 1        | 4%      |
@@ -2446,23 +2445,23 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                      | Desktops | Percent |
-|--------------------------------------------|----------|---------|
-| Microdia Camera                            | 2        | 11.76%  |
-| Logitech Webcam C270                       | 2        | 11.76%  |
-| Pixart Imaging Webcam Genius iLook 300     | 1        | 5.88%   |
-| Pixart Imaging Multimedia audio controller | 1        | 5.88%   |
-| Microdia Webcam Vitade AF                  | 1        | 5.88%   |
-| KYE Systems (Mouse Systems) PC-LM1E Camera | 1        | 5.88%   |
-| KYE Systems (Mouse Systems) FaceCam 310    | 1        | 5.88%   |
-| Jieli USB PHY 2.0                          | 1        | 5.88%   |
-| IMC Networks XHC Camera                    | 1        | 5.88%   |
-| Genesys Logic USB2.0 UVC PC Camera         | 1        | 5.88%   |
-| Generalplus GENERAL WEBCAM                 | 1        | 5.88%   |
-| Generalplus 808 Camera                     | 1        | 5.88%   |
-| GEMBIRD USB2.0 PC CAMERA                   | 1        | 5.88%   |
-| Chicony HP High Definition 1MP Webcam      | 1        | 5.88%   |
-| Arkmicro USB2.0 PC CAMERA                  | 1        | 5.88%   |
+| Model                                            | Desktops | Percent |
+|--------------------------------------------------|----------|---------|
+| Microdia Camera                                  | 2        | 11.76%  |
+| Logitech Webcam C270                             | 2        | 11.76%  |
+| Pixart Imaging Webcam Genius iLook 300           | 1        | 5.88%   |
+| Pixart Imaging Multimedia audio controller       | 1        | 5.88%   |
+| Microdia Amcrest AWC2198 USB Webcam              | 1        | 5.88%   |
+| KYE Systems (Mouse Systems) FaceCam 310          | 1        | 5.88%   |
+| KYE Systems (Mouse Systems) AUKEY PC-LM1E Camera | 1        | 5.88%   |
+| Jieli USB PHY 2.0                                | 1        | 5.88%   |
+| IMC Networks Integrated Camera                   | 1        | 5.88%   |
+| Genesys Logic USB2.0 UVC PC Camera               | 1        | 5.88%   |
+| Generalplus WEB CAM                              | 1        | 5.88%   |
+| Generalplus 808 Camera                           | 1        | 5.88%   |
+| GEMBIRD USB2.0 PC CAMERA                         | 1        | 5.88%   |
+| Chicony HP High Definition 1MP Webcam            | 1        | 5.88%   |
+| Arkmicro USB2.0 PC CAMERA                        | 1        | 5.88%   |
 
 Security
 --------

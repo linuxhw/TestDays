@@ -1067,7 +1067,7 @@ Hard drive models
 | Toshiba HDWD110 1TB                  | 1         | 0.83%   |
 | Toshiba DT01ACA200 2TB               | 1         | 0.83%   |
 | Toshiba DT01ACA100 1TB               | 1         | 0.83%   |
-| TO Exter nal USB 3.0 256GB           | 1         | 0.83%   |
+| TO Exter nal USB 3.0 1TB             | 1         | 0.83%   |
 | Team T253X1480G 480GB SSD            | 1         | 0.83%   |
 | SK hynix SHGP31-1000GM-2 1TB         | 1         | 0.83%   |
 | Seagate ST980310AS 80GB              | 1         | 0.83%   |
@@ -1169,8 +1169,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 37        | 57     | 51.39%  |
-| 0.51-1.0   | 19        | 42     | 26.39%  |
+| 0.01-0.5   | 36        | 56     | 50%     |
+| 0.51-1.0   | 20        | 43     | 27.78%  |
 | 1.01-2.0   | 5         | 6      | 6.94%   |
 | 3.01-4.0   | 4         | 11     | 5.56%   |
 | 2.01-3.0   | 4         | 8      | 5.56%   |
@@ -1867,18 +1867,18 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch     | 2         | 3.23%   |
-| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 1         | 1.61%   |
+| Xiaomi DPF90435 XMD009A 2224x1668 341x192mm 15.4-inch                | 1         | 1.61%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1         | 1.61%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1         | 1.61%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1         | 1.61%   |
-| Toshiba TV TSB0206 1920x1080                                         | 1         | 1.61%   |
+| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                   | 1         | 1.61%   |
 | Sharp LCD Monitor SHP14C4 1920x1080 344x194mm 15.5-inch              | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1         | 1.61%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 1.61%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.61%   |
-| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch          | 1         | 1.61%   |
+| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch             | 1         | 1.61%   |
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1         | 1.61%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1         | 1.61%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 1.61%   |
@@ -1896,8 +1896,8 @@ Monitor models
 | Hewlett-Packard 2309 HWP2823 1920x1080 510x287mm 23.0-inch           | 1         | 1.61%   |
 | Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                 | 1         | 1.61%   |
 | Goldstar W2242 GSM5677 1680x1050 474x296mm 22.0-inch                 | 1         | 1.61%   |
-| Goldstar W2043 GSM4E9D 1600x900 450x250mm 20.3-inch                  | 1         | 1.61%   |
-| Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch               | 1         | 1.61%   |
+| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 1.61%   |
+| Goldstar LG FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch            | 1         | 1.61%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1         | 1.61%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1         | 1.61%   |
 | Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1         | 1.61%   |
@@ -1906,8 +1906,8 @@ Monitor models
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1         | 1.61%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1         | 1.61%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1         | 1.61%   |
-| Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                    | 1         | 1.61%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 1.61%   |
+| Dell 1905FP DEL400D 1280x1024 380x310mm 19.3-inch                    | 1         | 1.61%   |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 381x214mm 17.2-inch     | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch     | 1         | 1.61%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch      | 1         | 1.61%   |
@@ -2381,7 +2381,7 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 11        | 33.33%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7         | 21.21%  |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 3         | 9.09%   |
+| Intel Bluetooth Device                              | 3         | 9.09%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 9.09%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.06%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 3.03%   |
@@ -2389,7 +2389,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.03%   |
 | Micro Star International Bluetooth Device           | 1         | 3.03%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 3.03%   |
-| Intel Bluetooth Device                              | 1         | 3.03%   |
+| Intel AX201 Bluetooth                               | 1         | 3.03%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1         | 3.03%   |
 
 Sound
@@ -2524,18 +2524,18 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 1.49%   |
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                   | 1         | 1.49%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                       | 1         | 1.49%   |
-| Transcend RAM TS256MLQ72V6U 2048MB DIMM DDR2 667MT/s         | 1         | 1.49%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s          | 1         | 1.49%   |
-| Smart RAM SH5641G8FJ8NWRNSQG 8192MB SODIMM DDR3 1600MT/s     | 1         | 1.49%   |
+| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s            | 1         | 1.49%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s          | 1         | 1.49%   |
+| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 1.49%   |
 | SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 1.49%   |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.49%   |
-| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 975MT/s     | 1         | 1.49%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s         | 1         | 1.49%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s      | 1         | 1.49%   |
-| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.49%   |
+| SK hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.49%   |
 | SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s      | 1         | 1.49%   |
 | SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s         | 1         | 1.49%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 1.49%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 1.49%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2400MT/s    | 1         | 1.49%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s        | 1         | 1.49%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 1.49%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.49%   |
@@ -2543,7 +2543,7 @@ Memory module models
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.49%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.49%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 1         | 1.49%   |
-| Samsung RAM M471A2K43DB1-CTD 16384MB SODIMM DDR4 2667MT/s    | 1         | 1.49%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 1.49%   |
 | Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 1.49%   |
 | Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 1.49%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 1.49%   |
@@ -2554,7 +2554,7 @@ Memory module models
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s         | 1         | 1.49%   |
 | Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s        | 1         | 1.49%   |
 | Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 1.49%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s          | 1         | 1.49%   |
+| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s       | 1         | 1.49%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s        | 1         | 1.49%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s        | 1         | 1.49%   |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s        | 1         | 1.49%   |
@@ -2747,11 +2747,12 @@ Camera device models
 
 | Model                                                                      | Computers | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Realtek USB Camera                                                         | 2         | 7.41%   |
 | Chicony Integrated Camera                                                  | 2         | 7.41%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 3.7%    |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 3.7%    |
 | Silicon Motion Web Camera                                                  | 1         | 3.7%    |
+| Realtek USB Camera                                                         | 1         | 3.7%    |
+| Realtek HP Webcam-101                                                      | 1         | 3.7%    |
 | Quanta HP Webcam                                                           | 1         | 3.7%    |
 | Motorola PCS XT1033 [Moto G], PTP mode                                     | 1         | 3.7%    |
 | Logitech Webcam C300                                                       | 1         | 3.7%    |

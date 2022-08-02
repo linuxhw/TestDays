@@ -939,68 +939,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Samsung SM963 2.5" NVMe PCIe SSD 500GB | 5        | 3.65%   |
-| Kingston SA400S37240G 240GB SSD        | 4        | 2.92%   |
-| Samsung NVMe SSD Drive 1TB             | 3        | 2.19%   |
-| Kingston SA400S37480G 480GB SSD        | 3        | 2.19%   |
-| WDC WD5000AAKX-003CA0 500GB            | 2        | 1.46%   |
-| WDC WD10EZEX-60WN4A0 1TB               | 2        | 1.46%   |
-| WDC WD10EZEX-08WN4A0 1TB               | 2        | 1.46%   |
-| Seagate ST250DM000-1BD141 250GB        | 2        | 1.46%   |
-| SanDisk NVMe SSD Drive 500GB           | 2        | 1.46%   |
-| Samsung SSD 850 EVO 250GB              | 2        | 1.46%   |
-| Intel NVMe SSD Drive 512GB             | 2        | 1.46%   |
-| Crucial CT240BX500SSD1 240GB           | 2        | 1.46%   |
-| Crucial CT240BX200SSD1 240GB           | 2        | 1.46%   |
-| WDC WDS500G2B0A 500GB SSD              | 1        | 0.73%   |
-| WDC WD6401AALS-00J7B0 640GB            | 1        | 0.73%   |
-| WDC WD5000AAKX-60U6AA0 500GB           | 1        | 0.73%   |
-| WDC WD5000AAKX-603CA0 500GB            | 1        | 0.73%   |
-| WDC WD5000AAKX-00ERMA0 500GB           | 1        | 0.73%   |
-| WDC WD5000AAKX-001CA0 500GB            | 1        | 0.73%   |
-| WDC WD50 00LUCT-61C26Y0 500GB          | 1        | 0.73%   |
-| WDC WD40EZRZ-00GXCB0 4TB               | 1        | 0.73%   |
-| WDC WD40EZAZ-00SF3B0 4TB               | 1        | 0.73%   |
-| WDC WD3200AAJS-56B4A0 320GB            | 1        | 0.73%   |
-| WDC WD30EFRX-68EUZN0 3TB               | 1        | 0.73%   |
-| WDC WD2500AAKS-00B3A0 250GB            | 1        | 0.73%   |
-| WDC WD20EZRX-00D8PB0 2TB               | 1        | 0.73%   |
-| WDC WD20EARX-00PASB0 2TB               | 1        | 0.73%   |
-| WDC WD20EARS-00MVWB0 2TB               | 1        | 0.73%   |
-| WDC WD15EARX-00PASB0 1TB               | 1        | 0.73%   |
-| WDC WD10EZRX-00L4HB0 1TB               | 1        | 0.73%   |
-| WDC WD10EZRX-00A8LB0 1TB               | 1        | 0.73%   |
-| WDC WD10EZEX-75ZF5A0 1TB               | 1        | 0.73%   |
-| WDC WD10EZEX-22MFCA0 1TB               | 1        | 0.73%   |
-| WDC WD10EZEX-00RKKA0 1TB               | 1        | 0.73%   |
-| WDC WD10EZEX-00KUWA0 1TB               | 1        | 0.73%   |
-| WDC WD10EZEX-00BN5A0 1TB               | 1        | 0.73%   |
-| WDC WD10EURX-63UY4Y0 1TB               | 1        | 0.73%   |
-| WDC WD1003FZEX-00MK2A0 1TB             | 1        | 0.73%   |
-| WDC PC SN730 SDBQNTY-1T00-1014 1TB     | 1        | 0.73%   |
-| USB3.1 Disk 1TB                        | 1        | 0.73%   |
-| Unknown SD/MMC/MS PRO 128GB            | 1        | 0.73%   |
-| Toshiba MQ01ABD100 1TB                 | 1        | 0.73%   |
-| Toshiba DT01ACA100 1TB                 | 1        | 0.73%   |
-| Team L5 LITE SSD 120GB                 | 1        | 0.73%   |
-| SK hynix SH920 2.5 7MM 256GB SSD       | 1        | 0.73%   |
-| Seagate ST940210AS 40GB                | 1        | 0.73%   |
-| Seagate ST500DM002-1BC142 500GB        | 1        | 0.73%   |
-| Seagate ST380815AS 80GB                | 1        | 0.73%   |
-| Seagate ST3808110AS 80GB               | 1        | 0.73%   |
-| Seagate ST3500312CS 500GB              | 1        | 0.73%   |
-| Seagate ST3160815AS 160GB              | 1        | 0.73%   |
-| Seagate ST3160813AS 160GB              | 1        | 0.73%   |
-| Seagate ST3160023AS 160GB              | 1        | 0.73%   |
-| Seagate ST3000DM001-9YN166 3TB         | 1        | 0.73%   |
-| Seagate ST250DM001 HD253GJ 250GB       | 1        | 0.73%   |
-| Seagate ST2000NM0033 2TB               | 1        | 0.73%   |
-| Seagate ST2000DM008-2FR102 2TB         | 1        | 0.73%   |
-| Seagate ST2000DL003-9VT166 2TB         | 1        | 0.73%   |
-| Seagate ST1000NM0053-1C1173 1TB        | 1        | 0.73%   |
-| Seagate ST1000NM0011 1TB               | 1        | 0.73%   |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Samsung NVMe SSD Drive 500GB       | 5        | 3.65%   |
+| Kingston SA400S37240G 240GB SSD    | 4        | 2.92%   |
+| Samsung NVMe SSD Drive 1TB         | 3        | 2.19%   |
+| Kingston SA400S37480G 480GB SSD    | 3        | 2.19%   |
+| WDC WD5000AAKX-003CA0 500GB        | 2        | 1.46%   |
+| WDC WD10EZEX-60WN4A0 1TB           | 2        | 1.46%   |
+| WDC WD10EZEX-08WN4A0 1TB           | 2        | 1.46%   |
+| Seagate ST250DM000-1BD141 250GB    | 2        | 1.46%   |
+| SanDisk NVMe SSD Drive 500GB       | 2        | 1.46%   |
+| Samsung SSD 850 EVO 250GB          | 2        | 1.46%   |
+| Intel NVMe SSD Drive 512GB         | 2        | 1.46%   |
+| Crucial CT240BX500SSD1 240GB       | 2        | 1.46%   |
+| Crucial CT240BX200SSD1 240GB       | 2        | 1.46%   |
+| WDC WDS500G2B0A 500GB SSD          | 1        | 0.73%   |
+| WDC WD6401AALS-00J7B0 640GB        | 1        | 0.73%   |
+| WDC WD5000AAKX-60U6AA0 500GB       | 1        | 0.73%   |
+| WDC WD5000AAKX-603CA0 500GB        | 1        | 0.73%   |
+| WDC WD5000AAKX-00ERMA0 500GB       | 1        | 0.73%   |
+| WDC WD5000AAKX-001CA0 500GB        | 1        | 0.73%   |
+| WDC WD50 00LUCT-61C26Y0 500GB      | 1        | 0.73%   |
+| WDC WD40EZRZ-00GXCB0 4TB           | 1        | 0.73%   |
+| WDC WD40EZAZ-00SF3B0 4TB           | 1        | 0.73%   |
+| WDC WD3200AAJS-56B4A0 320GB        | 1        | 0.73%   |
+| WDC WD30EFRX-68EUZN0 3TB           | 1        | 0.73%   |
+| WDC WD2500AAKS-00B3A0 250GB        | 1        | 0.73%   |
+| WDC WD20EZRX-00D8PB0 2TB           | 1        | 0.73%   |
+| WDC WD20EARX-00PASB0 2TB           | 1        | 0.73%   |
+| WDC WD20EARS-00MVWB0 2TB           | 1        | 0.73%   |
+| WDC WD15EARX-00PASB0 1TB           | 1        | 0.73%   |
+| WDC WD10EZRX-00L4HB0 1TB           | 1        | 0.73%   |
+| WDC WD10EZRX-00A8LB0 1TB           | 1        | 0.73%   |
+| WDC WD10EZEX-75ZF5A0 1TB           | 1        | 0.73%   |
+| WDC WD10EZEX-22MFCA0 1TB           | 1        | 0.73%   |
+| WDC WD10EZEX-00RKKA0 1TB           | 1        | 0.73%   |
+| WDC WD10EZEX-00KUWA0 1TB           | 1        | 0.73%   |
+| WDC WD10EZEX-00BN5A0 1TB           | 1        | 0.73%   |
+| WDC WD10EURX-63UY4Y0 1TB           | 1        | 0.73%   |
+| WDC WD1003FZEX-00MK2A0 1TB         | 1        | 0.73%   |
+| WDC PC SN730 SDBQNTY-1T00-1014 1TB | 1        | 0.73%   |
+| USB3.1 Disk 1TB                    | 1        | 0.73%   |
+| Unknown SD/MMC/MS PRO 64GB         | 1        | 0.73%   |
+| Toshiba MQ01ABD100 1TB             | 1        | 0.73%   |
+| Toshiba DT01ACA100 1TB             | 1        | 0.73%   |
+| Team L5 LITE SSD 120GB             | 1        | 0.73%   |
+| SK hynix SH920 2.5 7MM 256GB SSD   | 1        | 0.73%   |
+| Seagate ST940210AS 40GB            | 1        | 0.73%   |
+| Seagate ST500DM002-1BC142 500GB    | 1        | 0.73%   |
+| Seagate ST380815AS 80GB            | 1        | 0.73%   |
+| Seagate ST3808110AS 80GB           | 1        | 0.73%   |
+| Seagate ST3500312CS 500GB          | 1        | 0.73%   |
+| Seagate ST3160815AS 160GB          | 1        | 0.73%   |
+| Seagate ST3160813AS 160GB          | 1        | 0.73%   |
+| Seagate ST3160023AS 160GB          | 1        | 0.73%   |
+| Seagate ST3000DM001-9YN166 3TB     | 1        | 0.73%   |
+| Seagate ST250DM001 HD253GJ 250GB   | 1        | 0.73%   |
+| Seagate ST2000NM0033 2TB           | 1        | 0.73%   |
+| Seagate ST2000DM008-2FR102 2TB     | 1        | 0.73%   |
+| Seagate ST2000DL003-9VT166 2TB     | 1        | 0.73%   |
+| Seagate ST1000NM0053-1C1173 1TB    | 1        | 0.73%   |
+| Seagate ST1000NM0011 1TB           | 1        | 0.73%   |
 
 HDD Vendor
 ----------
@@ -1140,16 +1140,16 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                             | Desktops | Drives | Percent |
-|-----------------------------------|----------|--------|---------|
-| WDC WD5000AAKX-00ERMA0 500GB      | 1        | 1      | 12.5%   |
-| WDC WD3200AAJS-56B4A0 320GB       | 1        | 1      | 12.5%   |
-| WDC WD10EZEX-00KUWA0 1TB          | 1        | 1      | 12.5%   |
-| WDC WD1003FZEX-00MK2A0 1TB        | 1        | 1      | 12.5%   |
-| Seagate ST3160813AS 160GB         | 1        | 1      | 12.5%   |
-| Samsung Electronics HD160JJ 160GB | 1        | 1      | 12.5%   |
-| Hitachi HTS542525K9SA00 250GB     | 1        | 1      | 12.5%   |
-| Crucial CT256M550SSD1 256GB       | 1        | 1      | 12.5%   |
+| Model                              | Desktops | Drives | Percent |
+|------------------------------------|----------|--------|---------|
+| WDC WD5000AAKX-00ERMA0 500GB       | 1        | 1      | 12.5%   |
+| WDC WD3200AAJS-56B4A0 320GB        | 1        | 1      | 12.5%   |
+| WDC WD10EZEX-00KUWA0 1TB           | 1        | 1      | 12.5%   |
+| WDC WD1003FZEX-00MK2A0 1TB         | 1        | 1      | 12.5%   |
+| Seagate ST3160813AS 160GB          | 1        | 1      | 12.5%   |
+| Samsung Electronics HD160JJ/ 160GB | 1        | 1      | 12.5%   |
+| Hitachi HTS542525K9SA00 250GB      | 1        | 1      | 12.5%   |
+| Crucial CT256M550SSD1 256GB        | 1        | 1      | 12.5%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1768,18 +1768,18 @@ Monitor models
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
 | AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                        | 2        | 2.5%    |
-| Vizio M260VA VIZ0067 1360x768 575x323mm 26.0-inch                      | 1        | 1.25%   |
-| ViewSonic VA2446 SERIES VSC732E 1920x1080 521x293mm 23.5-inch          | 1        | 1.25%   |
+| Vizio E320VT VIZ0067 1920x1080 700x390mm 31.5-inch                     | 1        | 1.25%   |
+| ViewSonic VA2446 Series VSC732E 1920x1080 521x293mm 23.5-inch          | 1        | 1.25%   |
 | ViewSonic VA2055 Series VSC3C31 1920x1080 435x239mm 19.5-inch          | 1        | 1.25%   |
 | TBD HDMI TBD3148 1600x900 344x193mm 15.5-inch                          | 1        | 1.25%   |
-| SKY TV Monitor SKY0001 1920x1080 885x498mm 40.0-inch                   | 1        | 1.25%   |
+| SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 1.25%   |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 1.25%   |
 | Samsung Electronics U28H75x SAM0E00 3840x2160 607x345mm 27.5-inch      | 1        | 1.25%   |
 | Samsung Electronics U28H75x SAM0DFF 3840x2160 608x345mm 27.5-inch      | 1        | 1.25%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch   | 1        | 1.25%   |
 | Samsung Electronics S27H85x SAM0E0E 2560x1440 597x336mm 27.0-inch      | 1        | 1.25%   |
 | Samsung Electronics S24D332 SAM0F5E 1920x1080 531x299mm 24.0-inch      | 1        | 1.25%   |
-| Samsung Electronics S24D300 SAM0B43 1920x1080 530x300mm 24.0-inch      | 1        | 1.25%   |
+| Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch      | 1        | 1.25%   |
 | Samsung Electronics S22C200 SAM09B6 1920x1080 477x268mm 21.5-inch      | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor SAM705B 1920x1080 1210x680mm 54.6-inch | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch  | 1        | 1.25%   |
@@ -1796,30 +1796,30 @@ Monitor models
 | Lenovo Group Limited LCD Monitor LEN D32q-20B 4480x1440                | 1        | 1.25%   |
 | HOP DVI HOP2700 1920x1080 597x336mm 27.0-inch                          | 1        | 1.25%   |
 | Hewlett-Packard P204v HPN3634 1600x900 432x240mm 19.5-inch             | 1        | 1.25%   |
-| Hewlett-Packard LP2475w HWP26F8 1920x1200 546x352mm 25.6-inch          | 1        | 1.25%   |
+| Hewlett-Packard LP2475w HWP26F8 1920x1200 540x350mm 25.3-inch          | 1        | 1.25%   |
 | Hewlett-Packard LE2002x HWP2964 1600x900 443x249mm 20.0-inch           | 1        | 1.25%   |
 | Hewlett-Packard LCD Monitor LA2306 4480x1440                           | 1        | 1.25%   |
 | Hewlett-Packard E243m HPN3466 1920x1080 527x296mm 23.8-inch            | 1        | 1.25%   |
-| Hewlett-Packard E232 HWP3279 1920x1080 510x290mm 23.1-inch             | 1        | 1.25%   |
+| Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch             | 1        | 1.25%   |
 | Hewlett-Packard Compaq WF1907 HWP26A4 1440x900 408x255mm 18.9-inch     | 1        | 1.25%   |
 | Hewlett-Packard 27fh HPN354B 1920x1080 598x336mm 27.0-inch             | 1        | 1.25%   |
 | Hewlett-Packard 27f HPN354C 1920x1080 598x336mm 27.0-inch              | 1        | 1.25%   |
 | Hewlett-Packard 24x HPN3635 1920x1080 527x297mm 23.8-inch              | 1        | 1.25%   |
 | Hewlett-Packard 2159 HWP282C 1920x1080 479x269mm 21.6-inch             | 1        | 1.25%   |
-| Grundig WXGA GRU4448 1600x1200                                         | 1        | 1.25%   |
-| Goldstar W2253 GSM56DC 1920x1080 480x270mm 21.7-inch                   | 1        | 1.25%   |
+| Grundig WUXGA GRU4448 1920x1080 1210x680mm 54.6-inch                   | 1        | 1.25%   |
+| Goldstar W2253 GSM56DC 1920x1080 510x290mm 23.1-inch                   | 1        | 1.25%   |
 | Goldstar W2043 GSM4E9E 1600x900 443x249mm 20.0-inch                    | 1        | 1.25%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                    | 1        | 1.25%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 1        | 1.25%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 1.25%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                    | 1        | 1.25%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 1        | 1.25%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                 | 1        | 1.25%   |
 | Goldstar 25UM58G GSM5B98 2560x1080 673x284mm 28.8-inch                 | 1        | 1.25%   |
 | Denver CS2900 LHC2900 2560x1080 681x287mm 29.1-inch                    | 1        | 1.25%   |
 | Dell U2417H DEL40E8 1920x1080 527x296mm 23.8-inch                      | 1        | 1.25%   |
-| Dell U2417H DEL40E7 1920x1080 527x296mm 23.8-inch                      | 1        | 1.25%   |
+| Dell U2417H DEL40E7 1920x1080 530x300mm 24.0-inch                      | 1        | 1.25%   |
 | Dell U2312HM DEL4073 1920x1080 510x290mm 23.1-inch                     | 1        | 1.25%   |
-| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                      | 1        | 1.25%   |
+| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                      | 1        | 1.25%   |
 | Dell P2317H DEL40F4 1920x1080 509x286mm 23.0-inch                      | 1        | 1.25%   |
 | Dell P2214H DELA098 1920x1080 477x268mm 21.5-inch                      | 1        | 1.25%   |
 | Dell 1707FPV DEL4021 1280x1024 338x270mm 17.0-inch                     | 1        | 1.25%   |
@@ -2001,10 +2001,10 @@ Controller vendors
 | Qualcomm Atheros         | 3        | 3.13%   |
 | Broadcom                 | 3        | 3.13%   |
 | Samsung Electronics      | 1        | 1.04%   |
-| Realtek                  | 1        | 1.04%   |
 | Ralink                   | 1        | 1.04%   |
 | Nvidia                   | 1        | 1.04%   |
 | NetGear                  | 1        | 1.04%   |
+| Mercucys                 | 1        | 1.04%   |
 | MediaTek                 | 1        | 1.04%   |
 | Marvell Technology Group | 1        | 1.04%   |
 | Edimax Technology        | 1        | 1.04%   |
@@ -2045,7 +2045,6 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 0.91%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 0.91%   |
 | Realtek RTL8187 Wireless Adapter                                  | 1        | 0.91%   |
-| Realtek 802.11n NIC                                               | 1        | 0.91%   |
 | Ralink RT2870/RT3070 Wireless Adapter                             | 1        | 0.91%   |
 | Ralink RT5592 PCIe Wireless Network Adapter                       | 1        | 0.91%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 0.91%   |
@@ -2053,7 +2052,8 @@ Controller models
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 0.91%   |
 | Nvidia MCP77 Ethernet                                             | 1        | 0.91%   |
 | NetGear WNA3100(v1) Wireless-N 300 [Broadcom BCM43231]            | 1        | 0.91%   |
-| MediaTek TECNO SPARK 3                                            | 1        | 0.91%   |
+| Mercucys 802.11n NIC                                              | 1        | 0.91%   |
+| MediaTek moto e(6) plus                                           | 1        | 0.91%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.91%   |
 | Intel Wireless-AC 9260                                            | 1        | 0.91%   |
 | Intel Wireless 7260                                               | 1        | 0.91%   |
@@ -2086,10 +2086,10 @@ Wireless vendors
 | TP-Link               | 7        | 19.44%  |
 | Ralink Technology     | 4        | 11.11%  |
 | Broadcom              | 2        | 5.56%   |
-| Realtek               | 1        | 2.78%   |
 | Ralink                | 1        | 2.78%   |
 | Qualcomm Atheros      | 1        | 2.78%   |
 | NetGear               | 1        | 2.78%   |
+| Mercucys              | 1        | 2.78%   |
 | Edimax Technology     | 1        | 2.78%   |
 | ASUSTek Computer      | 1        | 2.78%   |
 
@@ -2118,11 +2118,11 @@ Wireless models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                | 1        | 2.78%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1        | 2.78%   |
 | Realtek RTL8187 Wireless Adapter                               | 1        | 2.78%   |
-| Realtek 802.11n NIC                                            | 1        | 2.78%   |
 | Ralink RT2870/RT3070 Wireless Adapter                          | 1        | 2.78%   |
 | Ralink RT5592 PCIe Wireless Network Adapter                    | 1        | 2.78%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter               | 1        | 2.78%   |
 | NetGear WNA3100(v1) Wireless-N 300 [Broadcom BCM43231]         | 1        | 2.78%   |
+| Mercucys 802.11n NIC                                           | 1        | 2.78%   |
 | Intel Wireless-AC 9260                                         | 1        | 2.78%   |
 | Intel Wireless 7260                                            | 1        | 2.78%   |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                         | 1        | 2.78%   |
@@ -2176,7 +2176,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.35%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.35%   |
 | Nvidia MCP77 Ethernet                                             | 1        | 1.35%   |
-| MediaTek TECNO SPARK 3                                            | 1        | 1.35%   |
+| MediaTek moto e(6) plus                                           | 1        | 1.35%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.35%   |
 | Intel Ethernet Controller I225-V                                  | 1        | 1.35%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 1.35%   |
@@ -2274,12 +2274,12 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                      | 2        | 7.41%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2        | 7.41%   |
 | Intel AX200 Bluetooth                               | 2        | 7.41%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 3.7%    |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 3.7%    |
 | Intel Bluetooth wireless interface                  | 1        | 3.7%    |
 | Intel Bluetooth Device                              | 1        | 3.7%    |
 | Intel AX210 Bluetooth                               | 1        | 3.7%    |
-| Broadcom Bluetooth 3.0 Dongle                       | 1        | 3.7%    |
+| Intel AX201 Bluetooth                               | 1        | 3.7%    |
+| Broadcom Bluetooth 3.0 USB Dongle                   | 1        | 3.7%    |
 | Belkin Components Bluetooth Mini Dongle             | 1        | 3.7%    |
 | ASUS Bluetooth Radio                                | 1        | 3.7%    |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1        | 3.7%    |
@@ -2347,13 +2347,13 @@ Sound card models
 | Intel Tiger Lake-H HD Audio Controller                                            | 2        | 1.41%   |
 | Intel C600/X79 series chipset High Definition Audio Controller                    | 2        | 1.41%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 2        | 1.41%   |
-| Generalplus Technology IMYB 7.1 Channel                                           | 2        | 1.41%   |
+| Generalplus Technology USB Audio Device                                           | 2        | 1.41%   |
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                        | 2        | 1.41%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                        | 2        | 1.41%   |
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                            | 2        | 1.41%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                                  | 2        | 1.41%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2        | 1.41%   |
-| Thesycon Systemsoftware & Consulting E30                                          | 1        | 0.7%    |
+| Thesycon Systemsoftware & Consulting DX3 Pro                                      | 1        | 0.7%    |
 | Razer USA Kraken Tournament Edition                                               | 1        | 0.7%    |
 | Nvidia TU106 High Definition Audio Controller                                     | 1        | 0.7%    |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 0.7%    |
@@ -2379,11 +2379,11 @@ Sound card models
 | Focusrite-Novation Focusrite Scarlett 2i2 2nd Gen                                 | 1        | 0.7%    |
 | Creative Technology Sound BlasterX Kratos S5                                      | 1        | 0.7%    |
 | Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]         | 1        | 0.7%    |
-| C-Media Electronics SKP PODCAST-300U                                              | 1        | 0.7%    |
 | C-Media Electronics Multimedia Headset [Gigaware by Ignition L.P.]                | 1        | 0.7%    |
 | C-Media Electronics CM6631A Audio Processor                                       | 1        | 0.7%    |
 | C-Media Electronics CM102-A+/102S+ Audio Controller                               | 1        | 0.7%    |
 | C-Media Electronics Blue Snowball                                                 | 1        | 0.7%    |
+| C-Media Electronics BIRD UM1                                                      | 1        | 0.7%    |
 
 Memory
 ------
@@ -2416,28 +2416,28 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 1        | 5%      |
-| SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s   | 1        | 5%      |
-| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s           | 1        | 5%      |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s  | 1        | 5%      |
-| Samsung RAM M378A1K43CB2-CTD 8192MB DIMM DDR4 3200MT/s | 1        | 5%      |
-| Neo Forza RAM NMUD380D81-1600D 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Nanya RAM Module 4GB DIMM DDR3 1333MT/s                | 1        | 5%      |
-| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s    | 1        | 5%      |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s    | 1        | 5%      |
-| Kingston RAM 99U5471-052.A 8GB DIMM DDR3 1333MT/s      | 1        | 5%      |
-| Kingston RAM 99U5458-001.A00LF 2GB DIMM DDR3 1600MT/s  | 1        | 5%      |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Kingston RAM 9965516-069.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Kingston RAM 9965516-003.A00LF 8GB DIMM 1333MT/s       | 1        | 5%      |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s | 1        | 5%      |
-| G.Skill RAM F3-1866C11-8GRSL 8GB SODIMM DDR3 1867MT/s  | 1        | 5%      |
-| G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s   | 1        | 5%      |
-| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 2400MT/s  | 1        | 5%      |
-| Corsair RAM CMK4GX4M1A2400C14 4GB DIMM DDR4 3007MT/s   | 1        | 5%      |
-| Corsair RAM CMH32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s | 1        | 5%      |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s               | 1        | 5%      |
+| SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s      | 1        | 5%      |
+| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s              | 1        | 5%      |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1        | 5%      |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s       | 1        | 5%      |
+| Neo Forza RAM NMUD380D81-1600D 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| Nanya RAM Module 4GB DIMM DDR3 1333MT/s                   | 1        | 5%      |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s       | 1        | 5%      |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s       | 1        | 5%      |
+| Kingston RAM 99U5471-052.A 8GB DIMM DDR3 1333MT/s         | 1        | 5%      |
+| Kingston RAM 99U5458-001.A00LF 2GB DIMM DDR3 1600MT/s     | 1        | 5%      |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| Kingston RAM 9965516-069.A00LF 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| Kingston RAM 9965516-003.A00LF 8GB DIMM 1333MT/s          | 1        | 5%      |
+| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 1        | 5%      |
+| G.Skill RAM F3-1866C11-8GRSL 8GB SODIMM DDR3 1867MT/s     | 1        | 5%      |
+| G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s      | 1        | 5%      |
+| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 2400MT/s     | 1        | 5%      |
+| Corsair RAM CMK4GX4M1A2400C14 4GB DIMM DDR4 3007MT/s      | 1        | 5%      |
+| Corsair RAM CMH32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s    | 1        | 5%      |
 
 Memory Kind
 -----------
@@ -2575,26 +2575,26 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                           | Desktops | Percent |
-|---------------------------------|----------|---------|
-| Logitech Webcam C270            | 2        | 10.53%  |
-| Z-Star Sirius USB2.0 Camera     | 1        | 5.26%   |
-| Sunplus FHD Camera Microphone   | 1        | 5.26%   |
-| Sunplus Aukey-PC-LM1E Camera    | 1        | 5.26%   |
-| Microsoft Xbox NUI Camera       | 1        | 5.26%   |
-| Microsoft LifeCam HD-3000       | 1        | 5.26%   |
-| Microdia Webcam Vitade AF       | 1        | 5.26%   |
-| Microdia USB 2.0 Camera         | 1        | 5.26%   |
-| Microdia Integrated Camera      | 1        | 5.26%   |
-| Logitech Webcam C310            | 1        | 5.26%   |
-| Logitech Logi 4K Stream Edition | 1        | 5.26%   |
-| Logitech HD Webcam C615         | 1        | 5.26%   |
-| Logitech HD Pro Webcam C920     | 1        | 5.26%   |
-| Logitech C505 HD Webcam         | 1        | 5.26%   |
-| Logitech B525 HD Webcam         | 1        | 5.26%   |
-| Generalplus GENERAL WEBCAM      | 1        | 5.26%   |
-| Creative Live! Cam Sync 1080p   | 1        | 5.26%   |
-| Apple iPhone 5/5C/5S/6/SE       | 1        | 5.26%   |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Logitech Webcam C270                | 2        | 10.53%  |
+| Z-Star Sirius USB2.0 Camera         | 1        | 5.26%   |
+| Sunplus Integrated_Webcam_HD        | 1        | 5.26%   |
+| Sunplus Aukey-PC-LM1E Camera        | 1        | 5.26%   |
+| Microsoft Xbox NUI Camera           | 1        | 5.26%   |
+| Microsoft LifeCam HD-3000           | 1        | 5.26%   |
+| Microdia Integrated Camera          | 1        | 5.26%   |
+| Microdia HDP Webcam USB             | 1        | 5.26%   |
+| Microdia Amcrest AWC2198 USB Webcam | 1        | 5.26%   |
+| Logitech Webcam C310                | 1        | 5.26%   |
+| Logitech Logi 4K Stream Edition     | 1        | 5.26%   |
+| Logitech HD Webcam C615             | 1        | 5.26%   |
+| Logitech HD Pro Webcam C920         | 1        | 5.26%   |
+| Logitech C505 HD Webcam             | 1        | 5.26%   |
+| Logitech B525 HD Webcam             | 1        | 5.26%   |
+| Generalplus WEB CAM                 | 1        | 5.26%   |
+| Creative Live! Cam Sync 1080p       | 1        | 5.26%   |
+| Apple iPhone 5/5C/5S/6/SE           | 1        | 5.26%   |
 
 Security
 --------

@@ -888,7 +888,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.56%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.56%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.56%   |
-| Unknown SD/MMC/MS PRO 128GB                  | 1         | 1.56%   |
+| Unknown SD/MMC/MS PRO 64GB                   | 1         | 1.56%   |
 | Unknown MMC Card  128GB                      | 1         | 1.56%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.56%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.56%   |
@@ -905,7 +905,7 @@ Hard drive models
 | Seagate ST250DM000-1BD141 250GB              | 1         | 1.56%   |
 | Seagate ST1000LM035-1RK172 1TB               | 1         | 1.56%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 1.56%   |
-| Seagate Expansion+ Desk 4TB                  | 1         | 1.56%   |
+| Seagate Expansion Desk 4TB                   | 1         | 1.56%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1         | 1.56%   |
 | SanDisk SSD PLUS 480GB                       | 1         | 1.56%   |
 | SanDisk NVMe SSD Drive 512GB                 | 1         | 1.56%   |
@@ -945,15 +945,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 12        | 14     | 42.86%  |
-| WDC                 | 5         | 7      | 17.86%  |
-| Toshiba             | 3         | 3      | 10.71%  |
-| Hitachi             | 3         | 3      | 10.71%  |
-| Unknown             | 1         | 1      | 3.57%   |
-| Samsung Electronics | 1         | 1      | 3.57%   |
-| Maxtor              | 1         | 1      | 3.57%   |
-| JMicron Technology  | 1         | 1      | 3.57%   |
-| HGST                | 1         | 1      | 3.57%   |
+| Seagate             | 12        | 14     | 44.44%  |
+| WDC                 | 5         | 7      | 18.52%  |
+| Toshiba             | 3         | 3      | 11.11%  |
+| Hitachi             | 3         | 3      | 11.11%  |
+| Unknown             | 1         | 1      | 3.7%    |
+| Samsung Electronics | 1         | 1      | 3.7%    |
+| Maxtor              | 1         | 1      | 3.7%    |
+| HGST                | 1         | 1      | 3.7%    |
 
 SSD Vendor
 ----------
@@ -991,11 +990,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 24        | 32     | 46.15%  |
-| SSD     | 18        | 24     | 34.62%  |
-| NVMe    | 7         | 11     | 13.46%  |
-| Unknown | 2         | 2      | 3.85%   |
-| MMC     | 1         | 1      | 1.92%   |
+| HDD     | 24        | 31     | 45.28%  |
+| SSD     | 18        | 24     | 33.96%  |
+| NVMe    | 8         | 12     | 15.09%  |
+| Unknown | 2         | 2      | 3.77%   |
+| MMC     | 1         | 1      | 1.89%   |
 
 Drive Connector
 ---------------
@@ -1022,10 +1021,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 37     | 60%     |
-| 0.51-1.0   | 15        | 16     | 33.33%  |
-| 1.01-2.0   | 2         | 2      | 4.44%   |
-| 3.01-4.0   | 1         | 1      | 2.22%   |
+| 0.01-0.5   | 27        | 37     | 61.36%  |
+| 0.51-1.0   | 15        | 16     | 34.09%  |
+| 3.01-4.0   | 1         | 1      | 2.27%   |
+| 1.01-2.0   | 1         | 1      | 2.27%   |
 
 Space Total
 -----------
@@ -1195,7 +1194,7 @@ Storage controller models
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1         | 1.72%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 1         | 1.72%   |
 | Marvell Group 88SE6111/6121 SATA II / PATA Controller                          | 1         | 1.72%   |
-| KIOXIA Non-Volatile memory controller                                          | 1         | 1.72%   |
+| KIOXIA NVMe SSD Controller BG4                                                 | 1         | 1.72%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1         | 1.72%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 1.72%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 1         | 1.72%   |
@@ -1607,8 +1606,8 @@ Monitor models
 | Sony TV SNYDC01 1360x768                                                 | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SMS27A850T 2560x1440                     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 2.5%    |
 | Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch                       | 1         | 2.5%    |
 | LG Electronics LCD Monitor LG IPS FULLHD                                 | 1         | 2.5%    |
@@ -1621,17 +1620,17 @@ Monitor models
 | Hewlett-Packard LCD Monitor 2009                                         | 1         | 2.5%    |
 | HannStar Hanns.G HH241 HSD2275 1920x1080 521x293mm 23.5-inch             | 1         | 2.5%    |
 | Goldstar W2261 GSM56CE 1920x1080 477x268mm 21.5-inch                     | 1         | 2.5%    |
-| Goldstar TV SSCR GSM8080 3840x2160 1600x900mm 72.3-inch                  | 1         | 2.5%    |
+| Goldstar TV SSCR2 GSM8080 3840x2160                                      | 1         | 2.5%    |
 | Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch                      | 1         | 2.5%    |
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                    | 1         | 2.5%    |
 | Element WD32FBL1001 ELE6308 1920x1080 890x500mm 40.2-inch                | 1         | 2.5%    |
-| Dell P2314H DEL4098 1920x1080 510x290mm 23.1-inch                        | 1         | 2.5%    |
+| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                        | 1         | 2.5%    |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch                        | 1         | 2.5%    |
 | Dell LCD Monitor E228WFP                                                 | 1         | 2.5%    |
 | Dell Inspiron 7790 DEL93FF 1920x1080 510x287mm 23.0-inch                 | 1         | 2.5%    |
 | Dell 23" AIO DELB123 1920x1080 510x287mm 23.0-inch                       | 1         | 2.5%    |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 2.5%    |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 2.5%    |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 2.5%    |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 2.5%    |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 2.5%    |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 2.5%    |
@@ -2062,8 +2061,8 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 4.76%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 4.76%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 4.76%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 4.76%   |
 | Intel Bluetooth wireless interface                  | 1         | 4.76%   |
+| Intel Bluetooth Device                              | 1         | 4.76%   |
 | Intel AX200 Bluetooth                               | 1         | 4.76%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 4.76%   |
 | Dell BT Mini-Receiver                               | 1         | 4.76%   |
@@ -2172,11 +2171,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                | Computers | Percent |
-|------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1         | 33.33%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1         | 33.33%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1         | 33.33%  |
+| Model                                                   | Computers | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1         | 33.33%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s     | 1         | 33.33%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1         | 33.33%  |
 
 Memory Kind
 -----------

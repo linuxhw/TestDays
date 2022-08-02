@@ -629,15 +629,15 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Notebooks | Percent |
-|-------------------------------------|-----------|---------|
-| Unknown MMC Card  64GB              | 5         | 35.71%  |
-| Unknown DA4064  64GB                | 3         | 21.43%  |
-| Unknown MMC Card  128GB             | 2         | 14.29%  |
-| Unknown MMC Card  256GB             | 1         | 7.14%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD | 1         | 7.14%   |
-| Phison NVMe SSD Drive 256GB         | 1         | 7.14%   |
-| Intel NVMe SSD Drive 512GB          | 1         | 7.14%   |
+| Model                        | Notebooks | Percent |
+|------------------------------|-----------|---------|
+| Unknown MMC Card  64GB       | 5         | 35.71%  |
+| Unknown DA4064  64GB         | 3         | 21.43%  |
+| Unknown MMC Card  128GB      | 2         | 14.29%  |
+| Unknown MMC Card  256GB      | 1         | 7.14%   |
+| Toshiba NVMe SSD Drive 256GB | 1         | 7.14%   |
+| Phison NVMe SSD Drive 256GB  | 1         | 7.14%   |
+| Intel NVMe SSD Drive 512GB   | 1         | 7.14%   |
 
 HDD Vendor
 ----------
@@ -1078,7 +1078,7 @@ Controller models
 
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
-| TP-Link Archer T4U ver.3                 | 1         | 33.33%  |
+| TP-Link 802.11ac NIC                     | 1         | 33.33%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter | 1         | 33.33%  |
 | Netchip Linux-USB Ethernet/RNDIS Gadget  | 1         | 33.33%  |
 
@@ -1102,9 +1102,9 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                    | Notebooks | Percent |
-|--------------------------|-----------|---------|
-| TP-Link Archer T4U ver.3 | 1         | 100%    |
+| Model                | Notebooks | Percent |
+|----------------------|-----------|---------|
+| TP-Link 802.11ac NIC | 1         | 100%    |
 
 Ethernet Vendor
 ---------------
@@ -1314,9 +1314,9 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                  | Notebooks | Percent |
-|------------------------|-----------|---------|
-| Microdia HP Webcam-101 | 7         | 100%    |
+| Model                         | Notebooks | Percent |
+|-------------------------------|-----------|---------|
+| Microdia HP Integrated Webcam | 7         | 100%    |
 
 Security
 --------

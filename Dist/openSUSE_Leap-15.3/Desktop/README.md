@@ -753,8 +753,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 37       | 62.71%  |
-| No        | 22       | 37.29%  |
+| Yes       | 36       | 61.02%  |
+| No        | 23       | 38.98%  |
 
 Has Ethernet
 ------------
@@ -941,68 +941,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| WDC WDS500G1X0E-00AFY0 500GB        | 2        | 1.39%   |
-| WDC WD5000AAKX-07U6AA0 500GB        | 2        | 1.39%   |
-| WDC WD10EAVS-22D7B0 1TB             | 2        | 1.39%   |
-| Seagate ST3750528AS 752GB           | 2        | 1.39%   |
-| Seagate ST3500418AS 500GB           | 2        | 1.39%   |
-| Seagate ST3500413AS 500GB           | 2        | 1.39%   |
-| Seagate ST2000DM008-2FR102 2TB      | 2        | 1.39%   |
-| Seagate ST2000DM006-2DM164 2TB      | 2        | 1.39%   |
-| Seagate ST2000DM001-9YN164 2TB      | 2        | 1.39%   |
-| Seagate ST2000DM001-1ER164 2TB      | 2        | 1.39%   |
-| Seagate ST1000DM010-2EP102 1TB      | 2        | 1.39%   |
-| Samsung SSD 980 PRO 1TB             | 2        | 1.39%   |
-| Samsung SSD 870 QVO 1TB             | 2        | 1.39%   |
-| Samsung SSD 860 EVO 250GB           | 2        | 1.39%   |
-| Samsung SSD 850 EVO 500GB           | 2        | 1.39%   |
-| Samsung HD105SI 1TB                 | 2        | 1.39%   |
-| Samsung HD103SI 1TB                 | 2        | 1.39%   |
-| Kingston SV300S37A120G 120GB SSD    | 2        | 1.39%   |
-| Kingston SA400S37120G 120GB SSD     | 2        | 1.39%   |
-| Hitachi HDS5C3020ALA632 2TB         | 2        | 1.39%   |
-| WDC WDS500G2B0A 500GB SSD           | 1        | 0.69%   |
-| WDC WDS500G1B0B-00AS40 500GB SSD    | 1        | 0.69%   |
-| WDC WDS480G2G0A-00JH30 480GB SSD    | 1        | 0.69%   |
-| WDC WDS250G1B0C-00S6U0 250GB        | 1        | 0.69%   |
-| WDC WDS250G1B0A-00H9H0 250GB SSD    | 1        | 0.69%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD    | 1        | 0.69%   |
-| WDC WDS200T2B0A-00SM50 2TB SSD      | 1        | 0.69%   |
-| WDC WDS100T3X0C-00SJG0 1TB          | 1        | 0.69%   |
-| WDC WDS100T1X0E-00AFY0 1TB          | 1        | 0.69%   |
-| WDC WD7500AALX-009BA0 752GB         | 1        | 0.69%   |
-| WDC WD5000AAVS-00ZTB0 500GB         | 1        | 0.69%   |
-| WDC WD5000AAKX-08U6AA0 500GB        | 1        | 0.69%   |
-| WDC WD50 00LPCX-00VHAT0 500GB       | 1        | 0.69%   |
-| WDC WD40EZRZ-00GXCB0 4TB            | 1        | 0.69%   |
-| WDC WD40EZAZ-00SF3B0 4TB            | 1        | 0.69%   |
-| WDC WD3200AAKS-00B3A0 320GB         | 1        | 0.69%   |
-| WDC WD3200AAJS-56M0A0 320GB         | 1        | 0.69%   |
-| WDC WD2500BEVT-60ZCT1 250GB         | 1        | 0.69%   |
-| WDC WD2500AAJS-00VTA0 250GB         | 1        | 0.69%   |
-| WDC WD20EARX-00PASB0 2TB            | 1        | 0.69%   |
-| WDC WD2005FBYZ-01YCBB2 2TB          | 1        | 0.69%   |
-| WDC WD15EARS-00MVWB0 1TB            | 1        | 0.69%   |
-| WDC WD10PURX-64E5EY0 1TB            | 1        | 0.69%   |
-| WDC WD10EZEX-75WN4A0 1TB            | 1        | 0.69%   |
-| WDC WD10EZEX-75M2NA0 1TB            | 1        | 0.69%   |
-| WDC WD10EZEX-08WN4A0 1TB            | 1        | 0.69%   |
-| WDC WD10EZEX-00KUWA0 1TB            | 1        | 0.69%   |
-| WDC WD10EZEX-00BN5A0 1TB            | 1        | 0.69%   |
-| WDC WD10EACS-00D6B1 1TB             | 1        | 0.69%   |
-| WDC WD1003FZEX-00K3CA0 1TB          | 1        | 0.69%   |
-| WDC WD1001FALS-00E3A0 1TB           | 1        | 0.69%   |
-| Unknown SD/MMC/MS PRO 128GB         | 1        | 0.69%   |
-| Unknown 128GB SATA FLASH DRIVE      | 1        | 0.69%   |
-| Toshiba TR200 240GB SSD             | 1        | 0.69%   |
-| Toshiba TL100 240GB SSD             | 1        | 0.69%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD | 1        | 0.69%   |
-| Toshiba HDWD130 3TB                 | 1        | 0.69%   |
-| Toshiba HDWD110 1TB                 | 1        | 0.69%   |
-| Toshiba DT01ACA200 2TB              | 1        | 0.69%   |
-| TO Exter nal USB 3.0 256GB          | 1        | 0.69%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| WDC WDS500G1X0E-00AFY0 500GB     | 2        | 1.39%   |
+| WDC WD5000AAKX-07U6AA0 500GB     | 2        | 1.39%   |
+| WDC WD10EAVS-22D7B0 1TB          | 2        | 1.39%   |
+| Seagate ST3750528AS 752GB        | 2        | 1.39%   |
+| Seagate ST3500418AS 500GB        | 2        | 1.39%   |
+| Seagate ST3500413AS 500GB        | 2        | 1.39%   |
+| Seagate ST2000DM008-2FR102 2TB   | 2        | 1.39%   |
+| Seagate ST2000DM006-2DM164 2TB   | 2        | 1.39%   |
+| Seagate ST2000DM001-9YN164 2TB   | 2        | 1.39%   |
+| Seagate ST2000DM001-1ER164 2TB   | 2        | 1.39%   |
+| Seagate ST1000DM010-2EP102 1TB   | 2        | 1.39%   |
+| Samsung SSD 980 PRO 1TB          | 2        | 1.39%   |
+| Samsung SSD 870 QVO 1TB          | 2        | 1.39%   |
+| Samsung SSD 860 EVO 250GB        | 2        | 1.39%   |
+| Samsung SSD 850 EVO 500GB        | 2        | 1.39%   |
+| Samsung HD105SI 1TB              | 2        | 1.39%   |
+| Samsung HD103SI 1TB              | 2        | 1.39%   |
+| Kingston SV300S37A120G 120GB SSD | 2        | 1.39%   |
+| Kingston SA400S37120G 120GB SSD  | 2        | 1.39%   |
+| Hitachi HDS5C3020ALA632 2TB      | 2        | 1.39%   |
+| WDC WDS500G2B0A 500GB SSD        | 1        | 0.69%   |
+| WDC WDS500G1B0B-00AS40 500GB SSD | 1        | 0.69%   |
+| WDC WDS480G2G0A-00JH30 480GB SSD | 1        | 0.69%   |
+| WDC WDS250G1B0C-00S6U0 250GB     | 1        | 0.69%   |
+| WDC WDS250G1B0A-00H9H0 250GB SSD | 1        | 0.69%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD | 1        | 0.69%   |
+| WDC WDS200T2B0A-00SM50 2TB SSD   | 1        | 0.69%   |
+| WDC WDS100T3X0C-00SJG0 1TB       | 1        | 0.69%   |
+| WDC WDS100T1X0E-00AFY0 1TB       | 1        | 0.69%   |
+| WDC WD7500AALX-009BA0 752GB      | 1        | 0.69%   |
+| WDC WD5000AAVS-00ZTB0 500GB      | 1        | 0.69%   |
+| WDC WD5000AAKX-08U6AA0 500GB     | 1        | 0.69%   |
+| WDC WD50 00LPCX-00VHAT0 500GB    | 1        | 0.69%   |
+| WDC WD40EZRZ-00GXCB0 4TB         | 1        | 0.69%   |
+| WDC WD40EZAZ-00SF3B0 4TB         | 1        | 0.69%   |
+| WDC WD3200AAKS-00B3A0 320GB      | 1        | 0.69%   |
+| WDC WD3200AAJS-56M0A0 320GB      | 1        | 0.69%   |
+| WDC WD2500BEVT-60ZCT1 250GB      | 1        | 0.69%   |
+| WDC WD2500AAJS-00VTA0 250GB      | 1        | 0.69%   |
+| WDC WD20EARX-00PASB0 2TB         | 1        | 0.69%   |
+| WDC WD2005FBYZ-01YCBB2 2TB       | 1        | 0.69%   |
+| WDC WD15EARS-00MVWB0 1TB         | 1        | 0.69%   |
+| WDC WD10PURX-64E5EY0 1TB         | 1        | 0.69%   |
+| WDC WD10EZEX-75WN4A0 1TB         | 1        | 0.69%   |
+| WDC WD10EZEX-75M2NA0 1TB         | 1        | 0.69%   |
+| WDC WD10EZEX-08WN4A0 1TB         | 1        | 0.69%   |
+| WDC WD10EZEX-00KUWA0 1TB         | 1        | 0.69%   |
+| WDC WD10EZEX-00BN5A0 1TB         | 1        | 0.69%   |
+| WDC WD10EACS-00D6B1 1TB          | 1        | 0.69%   |
+| WDC WD1003FZEX-00K3CA0 1TB       | 1        | 0.69%   |
+| WDC WD1001FALS-00E3A0 1TB        | 1        | 0.69%   |
+| Unknown SD/MMC/MS PRO 64GB       | 1        | 0.69%   |
+| Unknown 128GB SATA FLASH DRIVE   | 1        | 0.69%   |
+| Toshiba TR200 240GB SSD          | 1        | 0.69%   |
+| Toshiba TL100 240GB SSD          | 1        | 0.69%   |
+| Toshiba NVMe SSD Drive 256GB     | 1        | 0.69%   |
+| Toshiba HDWD130 3TB              | 1        | 0.69%   |
+| Toshiba HDWD110 1TB              | 1        | 0.69%   |
+| Toshiba DT01ACA200 2TB           | 1        | 0.69%   |
+| TO Exter nal USB 3.0 1TB         | 1        | 0.69%   |
 
 HDD Vendor
 ----------
@@ -1014,16 +1014,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 26       | 40     | 38.81%  |
-| WDC                 | 22       | 36     | 32.84%  |
-| Samsung Electronics | 7        | 13     | 10.45%  |
-| Hitachi             | 4        | 6      | 5.97%   |
-| Toshiba             | 3        | 3      | 4.48%   |
-| Unknown             | 1        | 1      | 1.49%   |
-| JMicron Technology  | 1        | 1      | 1.49%   |
-| Inateck             | 1        | 1      | 1.49%   |
-| HGST                | 1        | 1      | 1.49%   |
-| Fujitsu             | 1        | 1      | 1.49%   |
+| Seagate             | 26       | 40     | 40%     |
+| WDC                 | 22       | 36     | 33.85%  |
+| Samsung Electronics | 7        | 13     | 10.77%  |
+| Hitachi             | 4        | 6      | 6.15%   |
+| Toshiba             | 3        | 3      | 4.62%   |
+| Unknown             | 1        | 1      | 1.54%   |
+| HGST                | 1        | 1      | 1.54%   |
+| Fujitsu             | 1        | 1      | 1.54%   |
 
 SSD Vendor
 ----------
@@ -1035,17 +1033,18 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 10       | 17     | 25.64%  |
-| Kingston            | 7        | 9      | 17.95%  |
-| WDC                 | 6        | 6      | 15.38%  |
-| A-DATA Technology   | 4        | 4      | 10.26%  |
-| SanDisk             | 3        | 4      | 7.69%   |
-| Toshiba             | 2        | 2      | 5.13%   |
-| Intel               | 2        | 2      | 5.13%   |
-| Crucial             | 2        | 2      | 5.13%   |
-| TO Exter            | 1        | 1      | 2.56%   |
-| Micron Technology   | 1        | 2      | 2.56%   |
-| Apacer              | 1        | 3      | 2.56%   |
+| Samsung Electronics | 10       | 17     | 25%     |
+| Kingston            | 7        | 9      | 17.5%   |
+| WDC                 | 6        | 6      | 15%     |
+| A-DATA Technology   | 4        | 4      | 10%     |
+| SanDisk             | 3        | 4      | 7.5%    |
+| Toshiba             | 2        | 2      | 5%      |
+| Intel               | 2        | 2      | 5%      |
+| Crucial             | 2        | 2      | 5%      |
+| TO Exter            | 1        | 1      | 2.5%    |
+| Micron Technology   | 1        | 2      | 2.5%    |
+| Inateck             | 1        | 1      | 2.5%    |
+| Apacer              | 1        | 3      | 2.5%    |
 
 Drive Kind
 ----------
@@ -1057,10 +1056,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 48       | 103    | 48.48%  |
-| SSD     | 33       | 52     | 33.33%  |
-| NVMe    | 17       | 25     | 17.17%  |
-| Unknown | 1        | 2      | 1.01%   |
+| HDD     | 48       | 101    | 48%     |
+| SSD     | 34       | 53     | 34%     |
+| NVMe    | 17       | 26     | 17%     |
+| Unknown | 1        | 2      | 1%      |
 
 Drive Connector
 ---------------
@@ -1086,13 +1085,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 65     | 39.13%  |
-| 0.51-1.0   | 31       | 52     | 33.7%   |
-| 1.01-2.0   | 16       | 22     | 17.39%  |
+| 0.01-0.5   | 37       | 65     | 40.22%  |
+| 0.51-1.0   | 32       | 53     | 34.78%  |
+| 1.01-2.0   | 15       | 21     | 16.3%   |
 | 3.01-4.0   | 3        | 8      | 3.26%   |
 | 2.01-3.0   | 2        | 2      | 2.17%   |
 | 10.01-20.0 | 2        | 3      | 2.17%   |
-| 4.01-10.0  | 2        | 3      | 2.17%   |
+| 4.01-10.0  | 1        | 2      | 1.09%   |
 
 Space Total
 -----------
@@ -1750,7 +1749,7 @@ Monitor models
 | ViewSonic VX3211-2K VSCF634 2560x1440 698x392mm 31.5-inch             | 2        | 2.86%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 2        | 2.86%   |
 | Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                | 2        | 2.86%   |
-| Vizio E60-E3 VIZ1018 3840x2160 1330x748mm 60.1-inch                   | 1        | 1.43%   |
+| Vizio M656-G4 VIZ1018 3840x2160 1650x928mm 74.5-inch                  | 1        | 1.43%   |
 | TCL LCD TV TCL0030 1920x1080 708x398mm 32.0-inch                      | 1        | 1.43%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 1.43%   |
 | Samsung Electronics SyncMaster SAM0524 1920x1080 480x270mm 21.7-inch  | 1        | 1.43%   |
@@ -1758,7 +1757,7 @@ Monitor models
 | Samsung Electronics SMS27A850T SAM0887 2560x1440 518x324mm 24.1-inch  | 1        | 1.43%   |
 | Samsung Electronics SA300/SA350 SAM0788 1366x768 410x230mm 18.5-inch  | 1        | 1.43%   |
 | Samsung Electronics S34J55x SAM0F72 3440x1440 797x333mm 34.0-inch     | 1        | 1.43%   |
-| Samsung Electronics S34J55x SAM0F70 3440x1440 797x333mm 34.0-inch     | 1        | 1.43%   |
+| Samsung Electronics S34J55x SAM0F70 3440x1440 800x330mm 34.1-inch     | 1        | 1.43%   |
 | Samsung Electronics S23B550 SAM0919 1920x1080 510x287mm 23.0-inch     | 1        | 1.43%   |
 | Philips PHL 258B6QU PHL08F5 2560x1440 553x311mm 25.0-inch             | 1        | 1.43%   |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 1        | 1.43%   |
@@ -1778,7 +1777,7 @@ Monitor models
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1        | 1.43%   |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                  | 1        | 1.43%   |
 | Goldstar M2380D GSM57BC 1920x1080 598x336mm 27.0-inch                 | 1        | 1.43%   |
-| Goldstar L1718S GSM443C 1280x1024 340x270mm 17.1-inch                 | 1        | 1.43%   |
+| Goldstar L1718S GSM443C 1280x1024 338x270mm 17.0-inch                 | 1        | 1.43%   |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                  | 1        | 1.43%   |
 | Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                  | 1        | 1.43%   |
 | Goldstar E2011 GSM4ED4 1600x900 443x249mm 20.0-inch                   | 1        | 1.43%   |
@@ -1792,7 +1791,7 @@ Monitor models
 | Dell S3422DWG DELD12D 3440x1440 797x334mm 34.0-inch                   | 1        | 1.43%   |
 | Dell S3422DWG DELD128 3440x1440 797x334mm 34.0-inch                   | 1        | 1.43%   |
 | Dell S2216H DELD07A 1920x1080 476x268mm 21.5-inch                     | 1        | 1.43%   |
-| Dell P2419H DELD0DA 1920x1080 530x300mm 24.0-inch                     | 1        | 1.43%   |
+| Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                     | 1        | 1.43%   |
 | Dell P2219H DELA114 1920x1080 476x267mm 21.5-inch                     | 1        | 1.43%   |
 | Dell E228WFP DELD014 1680x1050 473x296mm 22.0-inch                    | 1        | 1.43%   |
 | Dell 1703FP DEL3011 1280x1024 338x270mm 17.0-inch                     | 1        | 1.43%   |
@@ -2254,12 +2253,11 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 8        | 29.63%  |
 | Intel AX200 Bluetooth                                 | 4        | 14.81%  |
 | Realtek  Bluetooth 4.2 Adapter                        | 2        | 7.41%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter              | 2        | 7.41%   |
+| Qualcomm Atheros  Bluetooth Device                    | 2        | 7.41%   |
 | Intel Bluetooth wireless interface                    | 2        | 7.41%   |
-| Qualcomm Atheros  Bluetooth Device                    | 1        | 3.7%    |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0                | 1        | 3.7%    |
+| Intel Bluetooth Device                                | 2        | 7.41%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 1        | 3.7%    |
-| Intel Bluetooth Device                                | 1        | 3.7%    |
+| Intel AX201 Bluetooth                                 | 1        | 3.7%    |
 | Dell Broadcom BCM20702A0 Bluetooth                    | 1        | 3.7%    |
 | Broadcom BCM43142A0 Bluetooth Device                  | 1        | 3.7%    |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter | 1        | 3.7%    |
@@ -2277,17 +2275,17 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart/snd_vendor.svg)
 
 
-| Vendor                    | Desktops | Percent |
-|---------------------------|----------|---------|
-| AMD                       | 33       | 32.04%  |
-| Nvidia                    | 31       | 30.1%   |
-| Intel                     | 29       | 28.16%  |
-| Creative Labs             | 3        | 2.91%   |
-| C-Media Electronics       | 3        | 2.91%   |
-| Texas Instruments         | 1        | 0.97%   |
-| Sennheiser Communications | 1        | 0.97%   |
-| BEHRINGER International   | 1        | 0.97%   |
-| ASUSTek Computer          | 1        | 0.97%   |
+| Vendor                  | Desktops | Percent |
+|-------------------------|----------|---------|
+| AMD                     | 33       | 32.04%  |
+| Nvidia                  | 31       | 30.1%   |
+| Intel                   | 29       | 28.16%  |
+| Creative Labs           | 3        | 2.91%   |
+| C-Media Electronics     | 3        | 2.91%   |
+| Texas Instruments       | 1        | 0.97%   |
+| DSEA A/S                | 1        | 0.97%   |
+| BEHRINGER International | 1        | 0.97%   |
+| ASUSTek Computer        | 1        | 0.97%   |
 
 Sound Model
 -----------
@@ -2328,7 +2326,6 @@ Sound card models
 | AMD Kabini HDMI/DP Audio                                                   | 2        | 1.72%   |
 | AMD Family 17h/19h HD Audio Controller                                     | 2        | 1.72%   |
 | Texas Instruments PCM2900C Audio CODEC                                     | 1        | 0.86%   |
-| Sennheiser Communications Sennheiser 3D G4ME1                              | 1        | 0.86%   |
 | Nvidia TU116 High Definition Audio Controller                              | 1        | 0.86%   |
 | Nvidia TU106 High Definition Audio Controller                              | 1        | 0.86%   |
 | Nvidia MCP61 High Definition Audio                                         | 1        | 0.86%   |
@@ -2340,14 +2337,15 @@ Sound card models
 | Nvidia GK110 High Definition Audio Controller                              | 1        | 0.86%   |
 | Nvidia GK107 HDMI Audio Controller                                         | 1        | 0.86%   |
 | Nvidia GF119 HDMI Audio Controller                                         | 1        | 0.86%   |
+| Nvidia GA106 High Definition Audio Controller                              | 1        | 0.86%   |
 | Nvidia GA104 High Definition Audio Controller                              | 1        | 0.86%   |
-| Nvidia Audio device                                                        | 1        | 0.86%   |
 | Intel C600/X79 series chipset High Definition Audio Controller             | 1        | 0.86%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.86%   |
 | Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 0.86%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 0.86%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 0.86%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 0.86%   |
+| DSEA A/S Sennheiser 3D G4ME1                                               | 1        | 0.86%   |
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]              | 1        | 0.86%   |
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                 | 1        | 0.86%   |
 | Creative Labs CA0106/CA0111 [SB Live!/Audigy/X-Fi Series]                  | 1        | 0.86%   |
@@ -2422,8 +2420,8 @@ Memory module models
 | Kingston RAM 9905471-028.A00LF 4096MB DIMM DDR3 1333MT/s   | 1        | 2.27%   |
 | GeIL RAM CL11-11-11 D3-1600 4GB DIMM DDR3 1600MT/s         | 1        | 2.27%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s        | 1        | 2.27%   |
-| G.Skill RAM F4-3200C15-16GTZKY 16GB DIMM DDR4 3200MT/s     | 1        | 2.27%   |
-| G.Skill RAM F4-2666C19-16GIS 16GB DIMM DDR4 2667MT/s       | 1        | 2.27%   |
+| G.Skill RAM F4-3200C15-16GTZKY 16384MB DIMM DDR4 3200MT/s  | 1        | 2.27%   |
+| G.Skill RAM F4-2666C19-16GIS 16384MB DIMM DDR4 2667MT/s    | 1        | 2.27%   |
 | Elpida RAM EBE11UD8AJWA-6E-E 1GB DIMM DDR2 667MT/s         | 1        | 2.27%   |
 | Crucial RAM CT8G4DFS8266.M8FE 8GB DIMM DDR4 2667MT/s       | 1        | 2.27%   |
 | Crucial RAM CT16G4DFRA266.C16FE 16384MB DIMM DDR4 2667MT/s | 1        | 2.27%   |
@@ -2434,9 +2432,9 @@ Memory module models
 | Corsair RAM CMT64GX4M4E3200C16 16GB DIMM DDR4 3200MT/s     | 1        | 2.27%   |
 | Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1867MT/s        | 1        | 2.27%   |
 | Corsair RAM CMK32GX4M2Z3600C18 16GB DIMM DDR4 3800MT/s     | 1        | 2.27%   |
-| Corsair RAM CMK16GX4M1E3200C16 16384MB DIMM DDR4 3200MT/s  | 1        | 2.27%   |
+| Corsair RAM CMK16GX4M1E3200C16 16GB DIMM DDR4 3200MT/s     | 1        | 2.27%   |
 | AMD RAM R538G1601U2S-U 8192MB DIMM DDR3 1600MT/s           | 1        | 2.27%   |
-| AMD RAM R538G1601U2S 8GB DIMM DDR3 1600MT/s                | 1        | 2.27%   |
+| AMD RAM R538G1601U2S 8192MB DIMM DDR3 1600MT/s             | 1        | 2.27%   |
 
 Memory Kind
 -----------
@@ -2615,7 +2613,7 @@ Camera device models
 | Logitech Webcam C250          | 1        | 6.67%   |
 | Logitech HD Webcam C615       | 1        | 6.67%   |
 | HP Webcam 3100                | 1        | 6.67%   |
-| Generalplus GENERAL WEBCAM    | 1        | 6.67%   |
+| Generalplus WEB CAM           | 1        | 6.67%   |
 | Creative Live! Cam Sync 1080p | 1        | 6.67%   |
 | Chicony HP Webcam             | 1        | 6.67%   |
 

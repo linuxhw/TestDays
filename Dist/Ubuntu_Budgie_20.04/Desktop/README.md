@@ -982,68 +982,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Seagate ST500DM002-1BD142 500GB        | 3        | 1.96%   |
-| Samsung SSD 860 EVO 500GB              | 3        | 1.96%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 500GB | 3        | 1.96%   |
-| Kingston SA400S37240G 240GB SSD        | 3        | 1.96%   |
-| WDC WD5000AAKX-001CA0 500GB            | 2        | 1.31%   |
-| WDC WD5000AAKS-00UU3A0 500GB           | 2        | 1.31%   |
-| Seagate ST4000DM000-1F2168 4TB         | 2        | 1.31%   |
-| Seagate ST1000DM010-2EP102 1TB         | 2        | 1.31%   |
-| SanDisk SDSSDA240G 240GB               | 2        | 1.31%   |
-| SanDisk SDSSDA120G 120GB               | 2        | 1.31%   |
-| Samsung SSD 860 QVO 1TB                | 2        | 1.31%   |
-| Samsung NVMe SSD Drive 512GB           | 2        | 1.31%   |
-| Phison Sabrent Rocket 4.0 1TB          | 2        | 1.31%   |
-| Phison NVMe SSD Drive 240GB            | 2        | 1.31%   |
-| Kingston SV300S37A60G 64GB SSD         | 2        | 1.31%   |
-| Kingston SA400S37480G 480GB SSD        | 2        | 1.31%   |
-| XrayDisk 256GB                         | 1        | 0.65%   |
-| WDC WDS500G2B0B-00YS70 500GB SSD       | 1        | 0.65%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD       | 1        | 0.65%   |
-| WDC WDS200T2B0A 2TB SSD                | 1        | 0.65%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD       | 1        | 0.65%   |
-| WDC WD80EFAX-68LHPN0 8TB               | 1        | 0.65%   |
-| WDC WD7502AAEX-00Y9A0 752GB            | 1        | 0.65%   |
-| WDC WD7501AALS-00J7B1 752GB            | 1        | 0.65%   |
-| WDC WD7500BPVT-24HXZT3 752GB           | 1        | 0.65%   |
-| WDC WD6401AALS-00L3B2 640GB            | 1        | 0.65%   |
-| WDC WD6000HLHX-01JJPV0 600GB           | 1        | 0.65%   |
-| WDC WD5000AVCS-632DY1 500GB            | 1        | 0.65%   |
-| WDC WD5000AAKS-75V0A0 500GB            | 1        | 0.65%   |
-| WDC WD5000AAKS-00V1A0 500GB            | 1        | 0.65%   |
-| WDC WD40EZRZ-00GXCB0 4TB               | 1        | 0.65%   |
-| WDC WD40EZRZ-00G                       | 1        | 0.65%   |
-| WDC WD40EFRX-68N32N0 4TB               | 1        | 0.65%   |
-| WDC WD4003FZEX-00Z4SA0 4TB             | 1        | 0.65%   |
-| WDC WD2500AAJS-60M0A0 250GB            | 1        | 0.65%   |
-| WDC WD20EZRZ-00Z5HB0 2TB               | 1        | 0.65%   |
-| WDC WD20EZRX-00D8PB0 2TB               | 1        | 0.65%   |
-| WDC WD20EZAZ-00GGJB0 2TB               | 1        | 0.65%   |
-| WDC WD20EFRX-68EUZN0 2TB               | 1        | 0.65%   |
-| WDC WD2002FYPS-02W3B1 2TB              | 1        | 0.65%   |
-| WDC WD2000JD-00FYB0 200GB              | 1        | 0.65%   |
-| WDC WD10JPVX-60JC3T0 1TB               | 1        | 0.65%   |
-| WDC WD10EZEX-22BN5A0 1TB               | 1        | 0.65%   |
-| WDC WD10EARS-00Y5B1 1TB                | 1        | 0.65%   |
-| WDC WD1003FZEX-00K3CA0 1TB             | 1        | 0.65%   |
-| Unknown SD/MMC/MS PRO 128GB            | 1        | 0.65%   |
-| Unknown SD/MMC 16GB                    | 1        | 0.65%   |
-| Unknown M.S./M.S.Pro/HG 16GB           | 1        | 0.65%   |
-| Transcend TS256GSSD370 256GB           | 1        | 0.65%   |
-| Toshiba MQ01ABF050 500GB               | 1        | 0.65%   |
-| Toshiba MD04ACA400 4TB                 | 1        | 0.65%   |
-| Toshiba HDWE160 6TB                    | 1        | 0.65%   |
-| Toshiba DT02ABA400 4TB                 | 1        | 0.65%   |
-| Toshiba DT01ACA200 2TB                 | 1        | 0.65%   |
-| Toshiba DT01ACA100 1TB                 | 1        | 0.65%   |
-| Silicon Motion NVMe SSD Drive 512GB    | 1        | 0.65%   |
-| Seagate ST9500420AS 500GB              | 1        | 0.65%   |
-| Seagate ST9500325AS 500GB              | 1        | 0.65%   |
-| Seagate ST9160310AS 160GB              | 1        | 0.65%   |
-| Seagate ST750LX003-1AC154 752GB        | 1        | 0.65%   |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Seagate ST500DM002-1BD142 500GB     | 3        | 1.96%   |
+| Samsung SSD 860 EVO 500GB           | 3        | 1.96%   |
+| Samsung NVMe SSD Drive 500GB        | 3        | 1.96%   |
+| Kingston SA400S37240G 240GB SSD     | 3        | 1.96%   |
+| WDC WD5000AAKX-001CA0 500GB         | 2        | 1.31%   |
+| WDC WD5000AAKS-00UU3A0 500GB        | 2        | 1.31%   |
+| Seagate ST4000DM000-1F2168 4TB      | 2        | 1.31%   |
+| Seagate ST1000DM010-2EP102 1TB      | 2        | 1.31%   |
+| SanDisk SDSSDA240G 240GB            | 2        | 1.31%   |
+| SanDisk SDSSDA120G 120GB            | 2        | 1.31%   |
+| Samsung SSD 860 QVO 1TB             | 2        | 1.31%   |
+| Samsung NVMe SSD Drive 512GB        | 2        | 1.31%   |
+| Phison Sabrent Rocket 4.0 1TB       | 2        | 1.31%   |
+| Phison NVMe SSD Drive 240GB         | 2        | 1.31%   |
+| Kingston SV300S37A60G 64GB SSD      | 2        | 1.31%   |
+| Kingston SA400S37480G 480GB SSD     | 2        | 1.31%   |
+| XrayDisk 256GB                      | 1        | 0.65%   |
+| WDC WDS500G2B0B-00YS70 500GB SSD    | 1        | 0.65%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD    | 1        | 0.65%   |
+| WDC WDS200T2B0A 2TB SSD             | 1        | 0.65%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD    | 1        | 0.65%   |
+| WDC WD80EFAX-68LHPN0 8TB            | 1        | 0.65%   |
+| WDC WD7502AAEX-00Y9A0 752GB         | 1        | 0.65%   |
+| WDC WD7501AALS-00J7B1 752GB         | 1        | 0.65%   |
+| WDC WD7500BPVT-24HXZT3 752GB        | 1        | 0.65%   |
+| WDC WD6401AALS-00L3B2 640GB         | 1        | 0.65%   |
+| WDC WD6000HLHX-01JJPV0 600GB        | 1        | 0.65%   |
+| WDC WD5000AVCS-632DY1 500GB         | 1        | 0.65%   |
+| WDC WD5000AAKS-75V0A0 500GB         | 1        | 0.65%   |
+| WDC WD5000AAKS-00V1A0 500GB         | 1        | 0.65%   |
+| WDC WD40EZRZ-00GXCB0 4TB            | 1        | 0.65%   |
+| WDC WD40EZRZ-00G                    | 1        | 0.65%   |
+| WDC WD40EFRX-68N32N0 4TB            | 1        | 0.65%   |
+| WDC WD4003FZEX-00Z4SA0 4TB          | 1        | 0.65%   |
+| WDC WD2500AAJS-60M0A0 250GB         | 1        | 0.65%   |
+| WDC WD20EZRZ-00Z5HB0 2TB            | 1        | 0.65%   |
+| WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.65%   |
+| WDC WD20EZAZ-00GGJB0 2TB            | 1        | 0.65%   |
+| WDC WD20EFRX-68EUZN0 2TB            | 1        | 0.65%   |
+| WDC WD2002FYPS-02W3B1 2TB           | 1        | 0.65%   |
+| WDC WD2000JD-00FYB0 200GB           | 1        | 0.65%   |
+| WDC WD10JPVX-60JC3T0 1TB            | 1        | 0.65%   |
+| WDC WD10EZEX-22BN5A0 1TB            | 1        | 0.65%   |
+| WDC WD10EARS-00Y5B1 1TB             | 1        | 0.65%   |
+| WDC WD1003FZEX-00K3CA0 1TB          | 1        | 0.65%   |
+| Unknown SD/MMC/MS PRO 64GB          | 1        | 0.65%   |
+| Unknown SD/MMC 16GB                 | 1        | 0.65%   |
+| Unknown M.S./M.S.Pro/HG 16GB        | 1        | 0.65%   |
+| Transcend TS256GSSD370 256GB        | 1        | 0.65%   |
+| Toshiba MQ01ABF050 500GB            | 1        | 0.65%   |
+| Toshiba MD04ACA400 4TB              | 1        | 0.65%   |
+| Toshiba HDWE160 6TB                 | 1        | 0.65%   |
+| Toshiba DT02ABA400 4TB              | 1        | 0.65%   |
+| Toshiba DT01ACA200 2TB              | 1        | 0.65%   |
+| Toshiba DT01ACA100 1TB              | 1        | 0.65%   |
+| Silicon Motion NVMe SSD Drive 512GB | 1        | 0.65%   |
+| Seagate ST9500420AS 500GB           | 1        | 0.65%   |
+| Seagate ST9500325AS 500GB           | 1        | 0.65%   |
+| Seagate ST9160310AS 160GB           | 1        | 0.65%   |
+| Seagate ST750LX003-1AC154 752GB     | 1        | 0.65%   |
 
 HDD Vendor
 ----------
@@ -1063,7 +1063,7 @@ Hard disk drive vendors
 | Maxtor              | 2        | 5      | 3.57%   |
 | Unknown             | 1        | 1      | 1.79%   |
 | Samsung Electronics | 1        | 1      | 1.79%   |
-| JMicron Technology  | 1        | 1      | 1.79%   |
+| SABRENT             | 1        | 1      | 1.79%   |
 
 SSD Vendor
 ----------
@@ -1102,10 +1102,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 45       | 88     | 43.27%  |
-| SSD     | 35       | 67     | 33.65%  |
-| NVMe    | 20       | 28     | 19.23%  |
-| Unknown | 4        | 5      | 3.85%   |
+| HDD     | 45       | 88     | 43.69%  |
+| SSD     | 35       | 67     | 33.98%  |
+| NVMe    | 19       | 28     | 18.45%  |
+| Unknown | 4        | 5      | 3.88%   |
 
 Drive Connector
 ---------------
@@ -1132,8 +1132,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 44       | 89     | 51.16%  |
-| 0.51-1.0   | 21       | 30     | 24.42%  |
-| 1.01-2.0   | 12       | 22     | 13.95%  |
+| 0.51-1.0   | 22       | 31     | 25.58%  |
+| 1.01-2.0   | 11       | 21     | 12.79%  |
 | 3.01-4.0   | 6        | 10     | 6.98%   |
 | 4.01-10.0  | 3        | 4      | 3.49%   |
 
@@ -1377,11 +1377,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 49       | 55.68%  |
-| NVMe | 19       | 21.59%  |
-| IDE  | 13       | 14.77%  |
-| RAID | 6        | 6.82%   |
-| SAS  | 1        | 1.14%   |
+| SATA | 49       | 55.06%  |
+| NVMe | 19       | 21.35%  |
+| IDE  | 14       | 15.73%  |
+| RAID | 6        | 6.74%   |
+| SAS  | 1        | 1.12%   |
 
 Processor
 ---------
@@ -1781,12 +1781,12 @@ Monitor models
 | Unknown LCD Monitor SAMSUNG                                             | 1        | 1.33%   |
 | Unknown LCD Monitor GTW KX2153                                          | 1        | 1.33%   |
 | Unknown LCD Monitor EMA E202HL                                          | 1        | 1.33%   |
-| Sceptre Tech Sceptre B34 SPT0D52 2560x1080 797x334mm 34.0-inch          | 1        | 1.33%   |
+| Sceptre Tech Sceptre B34 SPT0D52 2560x1080 800x340mm 34.2-inch          | 1        | 1.33%   |
 | Samsung Electronics SyncMaster SAM05CD 1920x1080                        | 1        | 1.33%   |
 | Samsung Electronics SyncMaster SAM0587 1920x1200 518x324mm 24.1-inch    | 1        | 1.33%   |
 | Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch    | 1        | 1.33%   |
 | Samsung Electronics S34J55x SAM0F72 3440x1440 797x333mm 34.0-inch       | 1        | 1.33%   |
-| Samsung Electronics S27F350 SAM0D22 1920x1080 600x340mm 27.2-inch       | 1        | 1.33%   |
+| Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch       | 1        | 1.33%   |
 | Samsung Electronics S24C650 SAM09E9 1920x1080 521x293mm 23.5-inch       | 1        | 1.33%   |
 | Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch       | 1        | 1.33%   |
 | Samsung Electronics S24B300 SAM08B4 1920x1080 521x293mm 23.5-inch       | 1        | 1.33%   |
@@ -1800,7 +1800,7 @@ Monitor models
 | Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 1        | 1.33%   |
 | NEC Computers LCD2070NX NEC667B 1600x1200 410x310mm 20.2-inch           | 1        | 1.33%   |
 | NEC Computers LCD2070NX NEC667B 1600x1200 408x306mm 20.1-inch           | 1        | 1.33%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                        | 1        | 1.33%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                          | 1        | 1.33%   |
 | MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.33%   |
 | Medion MD41077EA MED078B 1280x1024 330x270mm 16.8-inch                  | 1        | 1.33%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                       | 1        | 1.33%   |
@@ -1832,7 +1832,7 @@ Monitor models
 | Dell 1708FP DEL4024 1280x1024 338x270mm 17.0-inch                       | 1        | 1.33%   |
 | Daewoo HDMI DWE1810 1366x768 340x190mm 15.3-inch                        | 1        | 1.33%   |
 | BenQ GL2760 BNQ78D5 1920x1080 598x336mm 27.0-inch                       | 1        | 1.33%   |
-| BenQ GL2450H BNQ78A7 1920x1080 531x298mm 24.0-inch                      | 1        | 1.33%   |
+| BenQ GL2450H BNQ78A7 1920x1080 530x300mm 24.0-inch                      | 1        | 1.33%   |
 | BenQ GL2230 BNQ7874 1920x1080 480x270mm 21.7-inch                       | 1        | 1.33%   |
 
 Monitor Resolution
@@ -2268,7 +2268,7 @@ Controller models
 |-------------------------------------------------------|----------|---------|
 | Intel AX200 Bluetooth                                 | 7        | 25%     |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 7        | 25%     |
-| Intel Wireless-AC 9260 Bluetooth Adapter              | 3        | 10.71%  |
+| Intel Bluetooth Device                                | 3        | 10.71%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 2        | 7.14%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 2        | 7.14%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 1        | 3.57%   |
@@ -2424,11 +2424,11 @@ Memory module models
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
 | Sesame RAM S939A2UGS-ITR 8192MB DIMM DDR3 1600MT/s       | 1        | 3.13%   |
 | Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s   | 1        | 3.13%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 3.13%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s   | 1        | 3.13%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 3.13%   |
 | Kingston RAM KHX2133C11D3/4GX 4GB DIMM DDR3 2134MT/s     | 1        | 3.13%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s      | 1        | 3.13%   |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1600MT/s        | 1        | 3.13%   |
+| Kingston RAM KHX1600C10D3/ 4GB DIMM DDR3 1600MT/s        | 1        | 3.13%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.13%   |
 | Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1333MT/s    | 1        | 3.13%   |
 | Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 3.13%   |
@@ -2436,13 +2436,13 @@ Memory module models
 | G.Skill RAM F4-3200C16-8GVK 8192MB DIMM DDR4 3200MT/s    | 1        | 3.13%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s      | 1        | 3.13%   |
 | G.Skill RAM F3-1600C11-4GNT 4GB DIMM DDR3 1600MT/s       | 1        | 3.13%   |
-| Crucial RAM CT4G4DFS824A.M8FB 4GB DIMM DDR4 2400MT/s     | 1        | 3.13%   |
+| Crucial RAM CT4G4DFS824A.M8FB 4096MB DIMM DDR4 2400MT/s  | 1        | 3.13%   |
 | Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s    | 1        | 3.13%   |
-| Crucial RAM BLT8G3D1608DT1TX0. 8GB DIMM DDR3 1600MT/s    | 1        | 3.13%   |
+| Crucial RAM BLT8G3D1608DT1TX0. 8192MB DIMM DDR3 1600MT/s | 1        | 3.13%   |
 | Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s    | 1        | 3.13%   |
-| Corsair RAM CMK16GX4M2D3600C18 8192MB DIMM DDR4 3600MT/s | 1        | 3.13%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s    | 1        | 3.13%   |
 | Corsair RAM CMD16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 3.13%   |
-| A-DATA RAM DDR4 3000 8192MB DIMM DDR4 3600MT/s           | 1        | 3.13%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s              | 1        | 3.13%   |
 
 Memory Kind
 -----------
@@ -2592,7 +2592,7 @@ Camera device models
 |--------------------------------------|----------|---------|
 | Logitech Webcam C270                 | 2        | 12.5%   |
 | Logitech Webcam B500                 | 2        | 12.5%   |
-| Sunplus Full HD webcam               | 1        | 6.25%   |
+| Sunplus HD 720P webcam               | 1        | 6.25%   |
 | Realtek Web Camera                   | 1        | 6.25%   |
 | OPPO Reno4 5G                        | 1        | 6.25%   |
 | Microsoft LifeCam HD-3000            | 1        | 6.25%   |
@@ -2649,8 +2649,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 59       | 93.65%  |
-| 1     | 4        | 6.35%   |
+| 0     | 58       | 92.06%  |
+| 1     | 5        | 7.94%   |
 
 Unsupported Device Types
 ------------------------
@@ -2662,7 +2662,7 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Net/wireless  | 1        | 33.33%  |
-| Graphics card | 1        | 33.33%  |
-| Camera        | 1        | 33.33%  |
+| Graphics card | 2        | 50%     |
+| Net/wireless  | 1        | 25%     |
+| Camera        | 1        | 25%     |
 

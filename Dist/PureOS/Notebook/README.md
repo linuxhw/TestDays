@@ -631,8 +631,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 20        | 71.43%  |
-| Yes       | 8         | 28.57%  |
+| No        | 21        | 75%     |
+| Yes       | 7         | 25%     |
 
 Has Ethernet
 ------------
@@ -832,12 +832,11 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor             | Notebooks | Drives | Percent |
-|--------------------|-----------|--------|---------|
-| HGST               | 3         | 3      | 42.86%  |
-| Seagate            | 2         | 2      | 28.57%  |
-| JMicron Technology | 1         | 1      | 14.29%  |
-| Hitachi            | 1         | 1      | 14.29%  |
+| Vendor  | Notebooks | Drives | Percent |
+|---------|-----------|--------|---------|
+| HGST    | 3         | 3      | 50%     |
+| Seagate | 2         | 2      | 33.33%  |
+| Hitachi | 1         | 1      | 16.67%  |
 
 SSD Vendor
 ----------
@@ -870,8 +869,8 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SSD  | 14        | 20     | 40%     |
-| NVMe | 12        | 14     | 34.29%  |
-| HDD  | 7         | 7      | 20%     |
+| NVMe | 13        | 15     | 37.14%  |
+| HDD  | 6         | 6      | 17.14%  |
 | MMC  | 2         | 2      | 5.71%   |
 
 Drive Connector
@@ -899,9 +898,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 12        | 18     | 60%     |
-| 0.51-1.0   | 5         | 5      | 25%     |
-| 1.01-2.0   | 3         | 4      | 15%     |
+| 0.01-0.5   | 12        | 18     | 63.16%  |
+| 0.51-1.0   | 5         | 5      | 26.32%  |
+| 1.01-2.0   | 2         | 3      | 10.53%  |
 
 Space Total
 -----------
@@ -1373,7 +1372,7 @@ Monitor models
 | LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch               | 1         | 2.86%   |
 | Lenovo LEN Y44w-10 LEN65EA 3840x1200 1052x329mm 43.4-inch                 | 1         | 2.86%   |
 | Iiyama PL2792H IVM664F 1920x1080 598x336mm 27.0-inch                      | 1         | 2.86%   |
-| Grundig WXGA GRU4448 1600x1200                                            | 1         | 2.86%   |
+| Grundig WUXGA GRU4448 1920x1080 1210x680mm 54.6-inch                      | 1         | 2.86%   |
 | Goldstar IPS231 GSM5817 1920x1080 510x290mm 23.1-inch                     | 1         | 2.86%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 2.86%   |
 | Chimei Innolux LCD Monitor CMN1415 1920x1080 309x173mm 13.9-inch          | 1         | 2.86%   |
@@ -1833,9 +1832,9 @@ Memory module models
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s     | 2         | 15.38%  |
 | Crucial RAM CT16G4SFD824A.M16FRS 16GB SODIMM DDR4 2400MT/s | 2         | 15.38%  |
 | Unknown RAM Module 16384MB 2133MT/s                        | 1         | 7.69%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 1066MT/s      | 1         | 7.69%   |
-| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 1066MT/s       | 1         | 7.69%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 7.69%   |
+| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s         | 1         | 7.69%   |
+| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s          | 1         | 7.69%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 7.69%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s     | 1         | 7.69%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 7.69%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 7.69%   |
@@ -1970,11 +1969,11 @@ Camera device models
 | Acer SunplusIT INC. Integrated Camera                                      | 2         | 8.7%    |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 4.35%   |
 | Sunplus Integrated Camera                                                  | 1         | 4.35%   |
-| Realtek USB2.0 camera                                                      | 1         | 4.35%   |
+| Realtek MTD camera                                                         | 1         | 4.35%   |
 | Realtek Integrated_Webcam_HD                                               | 1         | 4.35%   |
 | Realtek Integrated Webcam                                                  | 1         | 4.35%   |
 | Realtek HP Truevision HD                                                   | 1         | 4.35%   |
-| Microdia HP Webcam-101                                                     | 1         | 4.35%   |
+| Microdia HP Integrated Webcam                                              | 1         | 4.35%   |
 | Lite-On Integrated Camera                                                  | 1         | 4.35%   |
 | Chicony USB2.0 UVC WebCam                                                  | 1         | 4.35%   |
 | Chicony HD User Facing                                                     | 1         | 4.35%   |

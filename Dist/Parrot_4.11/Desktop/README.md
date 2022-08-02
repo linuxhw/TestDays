@@ -585,8 +585,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 14       | 70%     |
-| Yes       | 6        | 30%     |
+| No        | 14       | 66.67%  |
+| Yes       | 7        | 33.33%  |
 
 Has Ethernet
 ------------
@@ -723,7 +723,7 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Unknown SD/MMC/MS PRO 128GB           | 2        | 3.92%   |
+| Unknown SD/MMC/MS PRO 64GB            | 2        | 3.92%   |
 | Seagate Expansion 1TB                 | 2        | 3.92%   |
 | WDC WDBNCE0010PNC 1TB SSD             | 1        | 1.96%   |
 | WDC WD5000AACS-00ZUB0 500GB           | 1        | 1.96%   |
@@ -761,7 +761,7 @@ Hard drive models
 | Phison NVMe SSD Drive 1TB             | 1        | 1.96%   |
 | LITEONIT LCS-128M6S 2.5 7mm 128GB SSD | 1        | 1.96%   |
 | Kingston SV300S37A 120G SSD           | 1        | 1.96%   |
-| Intenso SSD SATAIII 480GB             | 1        | 1.96%   |
+| Intenso SSD SATAIII 512GB             | 1        | 1.96%   |
 | Hitachi HUA722020ALA331 2TB           | 1        | 1.96%   |
 | Hitachi HTS547564A9E384 640GB         | 1        | 1.96%   |
 | Hitachi HTS545050B9A300 500GB         | 1        | 1.96%   |
@@ -850,8 +850,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 33     | 53.13%  |
-| 0.51-1.0   | 12       | 13     | 37.5%   |
+| 0.01-0.5   | 17       | 32     | 53.13%  |
+| 0.51-1.0   | 12       | 14     | 37.5%   |
 | 1.01-2.0   | 2        | 2      | 6.25%   |
 | 3.01-4.0   | 1        | 1      | 3.13%   |
 
@@ -963,7 +963,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 480GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 512GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1057,10 +1057,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 15       | 57.69%  |
+| SATA | 14       | 53.85%  |
 | NVMe | 5        | 19.23%  |
 | IDE  | 4        | 15.38%  |
-| RAID | 2        | 7.69%   |
+| RAID | 3        | 11.54%  |
 
 Processor
 ---------
@@ -1379,7 +1379,7 @@ Monitor models
 | Goldstar 24GM79G GSM5B39 1920x1080 531x298mm 24.0-inch      | 1        | 4.35%   |
 | Dell SE2417HGX DELD0F7 1920x1080 521x293mm 23.5-inch        | 1        | 4.35%   |
 | Dell S2419H DELD0D2 1920x1080 527x296mm 23.8-inch           | 1        | 4.35%   |
-| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch           | 1        | 4.35%   |
+| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch           | 1        | 4.35%   |
 | Dell E2318H DELF092 1920x1080 509x286mm 23.0-inch           | 1        | 4.35%   |
 | Dell 1907FP DEL4015 1280x1024 376x301mm 19.0-inch           | 1        | 4.35%   |
 | BenQ GW2760 BNQ78C6 1920x1080 598x336mm 27.0-inch           | 1        | 4.35%   |
@@ -1559,7 +1559,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 1        | 2.7%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller            | 1        | 2.7%    |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller            | 1        | 2.7%    |
-| OnePlus (Shenzhen) EB2103                                            | 1        | 2.7%    |
+| OnePlus (Shenzhen) OnePlus                                           | 1        | 2.7%    |
 | Microsoft Xbox 360 Wireless Adapter                                  | 1        | 2.7%    |
 | Intel Wireless 7265                                                  | 1        | 2.7%    |
 | Intel Wireless 3160                                                  | 1        | 2.7%    |
@@ -1844,7 +1844,7 @@ Memory module models
 | Kingston RAM ACR24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s      | 1        | 8.33%   |
 | Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 8.33%   |
 | Crucial RAM CT102464BA1339.C16 8GB DIMM DDR3 1333MT/s    | 1        | 8.33%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8192MB DIMM DDR3 1600MT/s | 1        | 8.33%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 8.33%   |
 | Corsair RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s      | 1        | 8.33%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 8.33%   |
 

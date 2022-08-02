@@ -792,7 +792,7 @@ Hard drive models
 | WDC WD5000AAKS-402AA0 500GB          | 1        | 3.33%   |
 | WDC WD5000AACS-00ZUB0 500GB          | 1        | 3.33%   |
 | WDC WD3200AAJS-60M0A1 320GB          | 1        | 3.33%   |
-| WDC WD2500AAJS-75M0A0 249GB          | 1        | 3.33%   |
+| WDC WD2500AAJS-75M0A0 250GB          | 1        | 3.33%   |
 | WDC WD10PURZ-85U8XY0 1TB             | 1        | 3.33%   |
 | WDC WD10EZEX-00BN5A0 1TB             | 1        | 3.33%   |
 | WDC PC SN720 SDAQNTW-512G-1001 512GB | 1        | 3.33%   |
@@ -1703,7 +1703,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2        | 33.33%  |
 | Ralink RT3290 Bluetooth                             | 1        | 16.67%  |
 | Intel Bluetooth wireless interface                  | 1        | 16.67%  |
-| Intel Bluetooth Device                              | 1        | 16.67%  |
+| Intel AX201 Bluetooth                               | 1        | 16.67%  |
 | IMC Networks Bluetooth Radio                        | 1        | 16.67%  |
 
 Sound
@@ -1795,12 +1795,12 @@ Memory module models
 | Unknown RAM Module 4GB DIMM DDR3                       | 1        | 6.25%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                 | 1        | 6.25%   |
 | TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s       | 1        | 6.25%   |
-| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s    | 1        | 6.25%   |
+| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2400MT/s     | 1        | 6.25%   |
 | SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s          | 1        | 6.25%   |
 | SK hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4 2667MT/s  | 1        | 6.25%   |
 | Samsung RAM Module 4096MB DIMM DDR3 1333MT/s           | 1        | 6.25%   |
 | Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s    | 1        | 6.25%   |
-| Samsung RAM M378B5773DH0-CH9 2048MB DIMM DDR3 1333MT/s | 1        | 6.25%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 6.25%   |
 | Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s     | 1        | 6.25%   |
 | Micron RAM 8JTF25664AZ-1G4M1 2048MB DIMM DDR3 1333MT/s | 1        | 6.25%   |
 | Micron RAM 4ATF1G64HZ-3G2B2 8GB SODIMM DDR4 3200MT/s   | 1        | 6.25%   |
@@ -1988,9 +1988,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 19       | 79.17%  |
-| 1     | 4        | 16.67%  |
-| 2     | 1        | 4.17%   |
+| 0     | 17       | 70.83%  |
+| 1     | 5        | 20.83%  |
+| 2     | 2        | 8.33%   |
 
 Unsupported Device Types
 ------------------------
@@ -2002,8 +2002,8 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 2        | 40%     |
-| Net/wireless  | 1        | 20%     |
-| Net/ethernet  | 1        | 20%     |
-| Bluetooth     | 1        | 20%     |
+| Graphics card | 5        | 62.5%   |
+| Net/wireless  | 1        | 12.5%   |
+| Net/ethernet  | 1        | 12.5%   |
+| Bluetooth     | 1        | 12.5%   |
 

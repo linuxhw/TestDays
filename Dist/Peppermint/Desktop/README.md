@@ -1135,7 +1135,7 @@ Hard drive models
 | WDC WD30EFZX-68AWUN0 3TB            | 1        | 0.76%   |
 | WDC WD2500BEVT-22A23T0 250GB        | 1        | 0.76%   |
 | WDC WD2500AVJB-63WKA0 250GB         | 1        | 0.76%   |
-| WDC WD2500AAJS-75M0A0 249GB         | 1        | 0.76%   |
+| WDC WD2500AAJS-75M0A0 250GB         | 1        | 0.76%   |
 | WDC WD2500AAJS-00VTA0 250GB         | 1        | 0.76%   |
 | WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.76%   |
 | WDC WD20EURS-63S48Y0 2TB            | 1        | 0.76%   |
@@ -1193,17 +1193,18 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 7        | 9      | 29.17%  |
-| Samsung Electronics | 5        | 7      | 20.83%  |
-| SanDisk             | 3        | 3      | 12.5%   |
-| Intel               | 2        | 2      | 8.33%   |
-| WDC                 | 1        | 1      | 4.17%   |
-| PNY                 | 1        | 2      | 4.17%   |
-| OCZ                 | 1        | 1      | 4.17%   |
-| Dogfish             | 1        | 1      | 4.17%   |
-| Crucial             | 1        | 2      | 4.17%   |
-| China               | 1        | 1      | 4.17%   |
-| ASMT                | 1        | 1      | 4.17%   |
+| Kingston            | 7        | 9      | 28%     |
+| Samsung Electronics | 5        | 7      | 20%     |
+| SanDisk             | 3        | 3      | 12%     |
+| Intel               | 2        | 2      | 8%      |
+| WDC                 | 1        | 1      | 4%      |
+| PNY                 | 1        | 2      | 4%      |
+| OCZ                 | 1        | 1      | 4%      |
+| GAMER               | 1        | 1      | 4%      |
+| Dogfish             | 1        | 1      | 4%      |
+| Crucial             | 1        | 2      | 4%      |
+| China               | 1        | 1      | 4%      |
+| ASMT                | 1        | 1      | 4%      |
 
 Drive Kind
 ----------
@@ -1216,10 +1217,10 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 77       | 129    | 72.64%  |
-| SSD     | 24       | 30     | 22.64%  |
+| SSD     | 25       | 31     | 23.58%  |
 | NVMe    | 2        | 3      | 1.89%   |
-| Unknown | 2        | 2      | 1.89%   |
 | MMC     | 1        | 1      | 0.94%   |
+| Unknown | 1        | 1      | 0.94%   |
 
 Drive Connector
 ---------------
@@ -1246,9 +1247,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 75       | 116    | 70.09%  |
-| 0.51-1.0   | 22       | 28     | 20.56%  |
-| 1.01-2.0   | 8        | 12     | 7.48%   |
+| 0.01-0.5   | 76       | 117    | 70.37%  |
+| 0.51-1.0   | 22       | 28     | 20.37%  |
+| 1.01-2.0   | 8        | 12     | 7.41%   |
 | 2.01-3.0   | 1        | 2      | 0.93%   |
 | 4.01-10.0  | 1        | 1      | 0.93%   |
 
@@ -1943,8 +1944,8 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.3%    |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.15%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.15%   |
-| Vestel Elektronik 28W_LCD_TV VES3700 1920x540                           | 1        | 1.15%   |
-| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.15%   |
+| Vestel Elektronik 39FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch   | 1        | 1.15%   |
+| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                      | 1        | 1.15%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.15%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.15%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.15%   |
@@ -1959,7 +1960,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SyncMaster 2624x1200                    | 1        | 1.15%   |
 | Samsung Electronics LCD Monitor SMB1930NW 1440x900                      | 1        | 1.15%   |
 | Samsung Electronics LCD Monitor SAM0DF3 3840x2160 1872x1053mm 84.6-inch | 1        | 1.15%   |
-| Samsung Electronics LCD Monitor SAM0B32 1366x768 607x345mm 27.5-inch    | 1        | 1.15%   |
+| Samsung Electronics LCD Monitor SAM0B32 1366x768 610x350mm 27.7-inch    | 1        | 1.15%   |
 | Samsung Electronics LCD Monitor SAM0669 1920x1080                       | 1        | 1.15%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch       | 1        | 1.15%   |
 | Panasonic TH-42PD25U MEIA023 1920x540 920x518mm 41.6-inch               | 1        | 1.15%   |
@@ -1967,8 +1968,8 @@ Monitor models
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.15%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.15%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.15%   |
-| Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.15%   |
-| KTC Q3202S KTC3200 2560x1440 708x398mm 32.0-inch                        | 1        | 1.15%   |
+| Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.15%   |
+| KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                        | 1        | 1.15%   |
 | Hitachi 40E31 HTC0139 1920x1080 575x323mm 26.0-inch                     | 1        | 1.15%   |
 | Hewlett-Packard w2338h HWP281B 1920x1080 509x286mm 23.0-inch            | 1        | 1.15%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.15%   |
@@ -2256,7 +2257,7 @@ Controller models
 | Nvidia MCP51 Ethernet Controller                                              | 1        | 0.67%   |
 | Nvidia CK804 Ethernet Controller                                              | 1        | 0.67%   |
 | NetGear WG111v3 54 Mbps Wireless [realtek RTL8187B]                           | 1        | 0.67%   |
-| Motorola PCS Moto G (5S) Plus                                                 | 1        | 0.67%   |
+| Motorola PCS moto g pure                                                      | 1        | 0.67%   |
 | Marvell Group 88w8335 [Libertas] 802.11b/g Wireless                           | 1        | 0.67%   |
 | Intel Wi-Fi 6 AX200                                                           | 1        | 0.67%   |
 | Intel NM10/ICH7 Family LAN Controller                                         | 1        | 0.67%   |
@@ -2599,7 +2600,7 @@ Sound card models
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.74%   |
 | Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                       | 1        | 0.74%   |
 | Intel 200 Series PCH HD Audio                                              | 1        | 0.74%   |
-| Generalplus Technology IMYB 7.1 Channel                                    | 1        | 0.74%   |
+| Generalplus Technology USB Audio Device                                    | 1        | 0.74%   |
 | Creative Technology SoundBlaster MP3+                                      | 1        | 0.74%   |
 | Creative Labs EMU20k2 [Sound Blaster X-Fi Titanium Series]                 | 1        | 0.74%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                         | 1        | 0.74%   |
@@ -2658,8 +2659,8 @@ Memory module models
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5%      |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5%      |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s       | 1        | 5%      |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5%      |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s         | 1        | 5%      |
+| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 5%      |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s       | 1        | 5%      |
 | Kingston RAM 9905734-019.A00G 16384MB DIMM DDR4 2400MT/s | 1        | 5%      |
 | Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2866MT/s     | 1        | 5%      |
@@ -2816,7 +2817,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Sunplus SPCA2281 Web Camera                                         | 1        | 11.11%  |
-| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 11.11%  |
+| Samsung Galaxy A5 (MTP)                                             | 1        | 11.11%  |
 | Logitech Webcam C270                                                | 1        | 11.11%  |
 | Logitech Webcam C210                                                | 1        | 11.11%  |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode)               | 1        | 11.11%  |
@@ -2869,8 +2870,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 71       | 77.17%  |
-| 1     | 18       | 19.57%  |
+| 0     | 70       | 76.09%  |
+| 1     | 19       | 20.65%  |
 | 2     | 3        | 3.26%   |
 
 Unsupported Device Types
@@ -2883,11 +2884,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 8        | 34.78%  |
-| Communication controller | 7        | 30.43%  |
-| Graphics card            | 3        | 13.04%  |
-| Camera                   | 2        | 8.7%    |
-| Unassigned class         | 1        | 4.35%   |
-| Sound                    | 1        | 4.35%   |
-| Net/ethernet             | 1        | 4.35%   |
+| Net/wireless             | 8        | 33.33%  |
+| Communication controller | 7        | 29.17%  |
+| Graphics card            | 4        | 16.67%  |
+| Camera                   | 2        | 8.33%   |
+| Unassigned class         | 1        | 4.17%   |
+| Sound                    | 1        | 4.17%   |
+| Net/ethernet             | 1        | 4.17%   |
 

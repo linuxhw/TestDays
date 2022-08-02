@@ -693,7 +693,7 @@ Hard drive models
 | Seagate ST3160812AS 41N3268 LEN 160GB | 1        | 6.67%   |
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
-| KingSpec NT-256 256GB                 | 1        | 6.67%   |
+| KingSpec NT-256 256GB SSD             | 1        | 6.67%   |
 | KingDian S200 60GB SSD                | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
@@ -1201,7 +1201,7 @@ Monitor models
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                       | 1        | 7.69%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch               | 1        | 7.69%   |
 | Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                  | 1        | 7.69%   |
-| Goldstar E2260 GSM57DF 1680x1050 480x270mm 21.7-inch                 | 1        | 7.69%   |
+| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                 | 1        | 7.69%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch               | 1        | 7.69%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                  | 1        | 7.69%   |
 | Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                   | 1        | 7.69%   |

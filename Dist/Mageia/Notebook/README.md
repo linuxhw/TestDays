@@ -839,7 +839,7 @@ Hard drive models
 | SanDisk SD6SN1M-256G-1006 256GB SSD          | 1         | 3.03%   |
 | Samsung SSD 970 EVO Plus 1TB                 | 1         | 3.03%   |
 | Samsung SSD 870 QVO 1TB                      | 1         | 3.03%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 500GB       | 1         | 3.03%   |
+| Samsung NVMe SSD Drive 500GB                 | 1         | 3.03%   |
 | Samsung MZNLN256HMHQ-000H1 256GB SSD         | 1         | 3.03%   |
 | Phison E12S-1TB-PHISON-SSD-B27B              | 1         | 3.03%   |
 | LDLC F6+M.2 480 480GB SSD                    | 1         | 3.03%   |
@@ -1439,8 +1439,8 @@ Monitor models
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 3.45%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                   | 1         | 3.45%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 1         | 3.45%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch                   | 1         | 3.45%   |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 381x214mm 17.2-inch          | 1         | 3.45%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 1         | 3.45%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 3.45%   |
 | Chimei Innolux LCD Monitor CMN14D7 1920x1080 309x173mm 13.9-inch          | 1         | 3.45%   |
@@ -1457,7 +1457,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO8074 1280x800 331x207mm 15.4-inch             | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO429D 1920x1080 382x215mm 17.3-inch            | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO123D 1920x1080 309x173mm 13.9-inch            | 1         | 3.45%   |
-| Ancor Communications VE248 ACI2494 1920x1080 530x300mm 24.0-inch          | 1         | 3.45%   |
+| Ancor Communications VE248 ACI2494 1920x1080 531x299mm 24.0-inch          | 1         | 3.45%   |
 | Acer G247HL ACR03FA 1920x1080 531x299mm 24.0-inch                         | 1         | 3.45%   |
 
 Monitor Resolution
@@ -1811,8 +1811,8 @@ Controller models
 | IMC Networks Bluetooth Device                       | 2         | 10.53%  |
 | Realtek Bluetooth Radio                             | 1         | 5.26%   |
 | Lite-On Bluetooth Device                            | 1         | 5.26%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 5.26%   |
 | Intel Bluetooth Device                              | 1         | 5.26%   |
+| Intel AX201 Bluetooth                               | 1         | 5.26%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1         | 5.26%   |
 | Foxconn / Hon Hai BCM20702A0                        | 1         | 5.26%   |
 | Dell BCM20702A0 Bluetooth Module                    | 1         | 5.26%   |
@@ -1907,17 +1907,17 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2 975MT/s                 | 1         | 4%      |
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s         | 1         | 4%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                  | 1         | 4%      |
-| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s        | 1         | 4%      |
+| SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s        | 1         | 4%      |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s        | 1         | 4%      |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s        | 1         | 4%      |
+| SK hynix RAM HMA41GS6AFR8N-TF 8192MB SODIMM DDR4 2667MT/s     | 1         | 4%      |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                | 1         | 4%      |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 4%      |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 4%      |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s         | 1         | 4%      |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 4%      |
 | Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s         | 1         | 4%      |
-| Micron RAM 8KTS51264HDZ-1G6E1 4GB SODIMM DDR3 1600MT/s        | 1         | 4%      |
+| Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s         | 1         | 4%      |
 | Micron RAM 4ATF51264HZ-2G6E! 4096MB SODIMM DDR4 2400MT/s      | 1         | 4%      |
 | Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s        | 1         | 4%      |
@@ -2076,7 +2076,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 3.85%   |
 | Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 3.85%   |
-| Alcor Micro USB 2.0 Camera                                                 | 1         | 3.85%   |
+| Alcor Micro USB 2.0 PC cam                                                 | 1         | 3.85%   |
 | Acer BisonCam,NB Pro                                                       | 1         | 3.85%   |
 
 Security

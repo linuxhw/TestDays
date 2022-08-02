@@ -910,68 +910,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Samsung SSD 860 EVO 1TB                | 3        | 2.34%   |
-| WDC WD1003FZEX-00MK2A0 1TB             | 2        | 1.56%   |
-| WDC WD1002FAEX-00Z3A0 1TB              | 2        | 1.56%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD    | 2        | 1.56%   |
-| Toshiba DT01ACA200 2TB                 | 2        | 1.56%   |
-| Seagate ST500DM002-1BD142 500GB        | 2        | 1.56%   |
-| Seagate ST2000DM001-1ER164 2TB         | 2        | 1.56%   |
-| Seagate ST1000DM003-9YN162 1TB         | 2        | 1.56%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 500GB | 2        | 1.56%   |
-| Samsung NVMe SSD Drive 512GB           | 2        | 1.56%   |
-| Kingston SUV500120G 120GB SSD          | 2        | 1.56%   |
-| Corsair Force LE SSD 240GB             | 2        | 1.56%   |
-| XPG NVMe SSD Drive 1024GB              | 1        | 0.78%   |
-| Western Digital NVMe SSD Drive 960GB   | 1        | 0.78%   |
-| WDC WDS250G2B0B-00YS70 250GB SSD       | 1        | 0.78%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD       | 1        | 0.78%   |
-| WDC WDS240G1G0A-00SS50 240GB SSD       | 1        | 0.78%   |
-| WDC WDS100T2B0A-00SM50 1TB SSD         | 1        | 0.78%   |
-| WDC WD7500BPKT-00PK4T0 752GB           | 1        | 0.78%   |
-| WDC WD60 EFAX-68JH4N1 6TB              | 1        | 0.78%   |
-| WDC WD60 EFAX-68JH4N0 6TB              | 1        | 0.78%   |
-| WDC WD5003ABYZ-011FA0 500GB            | 1        | 0.78%   |
-| WDC WD5000AAKX-75U6AA0 500GB           | 1        | 0.78%   |
-| WDC WD50 00LPVX-00V0TT0 500GB          | 1        | 0.78%   |
-| WDC WD40PURZ-85TTDY0 4TB               | 1        | 0.78%   |
-| WDC WD40EZRZ-19GXCB0 4TB               | 1        | 0.78%   |
-| WDC WD40EFRX-68N32N0 4TB               | 1        | 0.78%   |
-| WDC WD4005FZBX-00K5WB0 4TB             | 1        | 0.78%   |
-| WDC WD2500BEKT-75F3T0 250GB            | 1        | 0.78%   |
-| WDC WD2500AAKX-083CA1 250GB            | 1        | 0.78%   |
-| WDC WD20PURZ-85GU6Y0 2TB               | 1        | 0.78%   |
-| WDC WD20EARS-22MVWB0 2TB               | 1        | 0.78%   |
-| WDC WD2005FBYZ-01YCBB3 2TB             | 1        | 0.78%   |
-| WDC WD2003FZEX-00SRLA0 2TB             | 1        | 0.78%   |
-| WDC WD10JPVX-22JC3T0 1TB               | 1        | 0.78%   |
-| WDC WD10EZEX-75WN4A0 1TB               | 1        | 0.78%   |
-| WDC WD10EZEX-22MFCA0 1TB               | 1        | 0.78%   |
-| WDC WD10EZEX-08WN4A0 1TB               | 1        | 0.78%   |
-| Unknown SD/MMC/MS PRO 128GB            | 1        | 0.78%   |
-| Toshiba HDWT140 4TB                    | 1        | 0.78%   |
-| Toshiba HDWQ140 4TB                    | 1        | 0.78%   |
-| Toshiba HDWD120 2TB                    | 1        | 0.78%   |
-| Toshiba DT01ACA300 3TB                 | 1        | 0.78%   |
-| Toshiba DT01ACA100 1TB                 | 1        | 0.78%   |
-| T-FORCE 1TB                            | 1        | 0.78%   |
-| SK hynix PC601 NVMe 512GB              | 1        | 0.78%   |
-| SK hynix HFS128G32TNF-N3A0A 128GB SSD  | 1        | 0.78%   |
-| Silicon Motion NVMe SSD Drive 256GB    | 1        | 0.78%   |
-| Seagate ST6000VN0033-2EE110 6TB        | 1        | 0.78%   |
-| Seagate ST500LX025-1U717D 500GB        | 1        | 0.78%   |
-| Seagate ST4000LM024-2AN17V 4TB         | 1        | 0.78%   |
-| Seagate ST3250310AS 250GB              | 1        | 0.78%   |
-| Seagate ST31000524AS 1TB               | 1        | 0.78%   |
-| Seagate ST2000DM001-9YN164 2TB         | 1        | 0.78%   |
-| Seagate ST1000VN002-2EY102 1TB         | 1        | 0.78%   |
-| Seagate ST1000LX015-1U7172 1TB         | 1        | 0.78%   |
-| Seagate ST1000LM049-2GH172 1TB         | 1        | 0.78%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB     | 1        | 0.78%   |
-| Seagate ST1000DM010-2EP102 1TB         | 1        | 0.78%   |
-| Seagate ST1000DM003-1SB102 1TB         | 1        | 0.78%   |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Samsung SSD 860 EVO 1TB               | 3        | 2.34%   |
+| WDC WD1003FZEX-00MK2A0 1TB            | 2        | 1.56%   |
+| WDC WD1002FAEX-00Z3A0 1TB             | 2        | 1.56%   |
+| Toshiba NVMe SSD Drive 256GB          | 2        | 1.56%   |
+| Toshiba DT01ACA200 2TB                | 2        | 1.56%   |
+| Seagate ST500DM002-1BD142 500GB       | 2        | 1.56%   |
+| Seagate ST2000DM001-1ER164 2TB        | 2        | 1.56%   |
+| Seagate ST1000DM003-9YN162 1TB        | 2        | 1.56%   |
+| Samsung NVMe SSD Drive 512GB          | 2        | 1.56%   |
+| Samsung NVMe SSD Drive 500GB          | 2        | 1.56%   |
+| Kingston SUV500120G 120GB SSD         | 2        | 1.56%   |
+| Corsair Force LE SSD 240GB            | 2        | 1.56%   |
+| XPG NVMe SSD Drive 1024GB             | 1        | 0.78%   |
+| Western Digital NVMe SSD Drive 960GB  | 1        | 0.78%   |
+| WDC WDS250G2B0B-00YS70 250GB SSD      | 1        | 0.78%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD      | 1        | 0.78%   |
+| WDC WDS240G1G0A-00SS50 240GB SSD      | 1        | 0.78%   |
+| WDC WDS100T2B0A-00SM50 1TB SSD        | 1        | 0.78%   |
+| WDC WD7500BPKT-00PK4T0 752GB          | 1        | 0.78%   |
+| WDC WD60 EFAX-68JH4N1 6TB             | 1        | 0.78%   |
+| WDC WD60 EFAX-68JH4N0 6TB             | 1        | 0.78%   |
+| WDC WD5003ABYZ-011FA0 500GB           | 1        | 0.78%   |
+| WDC WD5000AAKX-75U6AA0 500GB          | 1        | 0.78%   |
+| WDC WD50 00LPVX-00V0TT0 500GB         | 1        | 0.78%   |
+| WDC WD40PURZ-85TTDY0 4TB              | 1        | 0.78%   |
+| WDC WD40EZRZ-19GXCB0 4TB              | 1        | 0.78%   |
+| WDC WD40EFRX-68N32N0 4TB              | 1        | 0.78%   |
+| WDC WD4005FZBX-00K5WB0 4TB            | 1        | 0.78%   |
+| WDC WD2500BEKT-75F3T0 250GB           | 1        | 0.78%   |
+| WDC WD2500AAKX-083CA1 250GB           | 1        | 0.78%   |
+| WDC WD20PURZ-85GU6Y0 2TB              | 1        | 0.78%   |
+| WDC WD20EARS-22MVWB0 2TB              | 1        | 0.78%   |
+| WDC WD2005FBYZ-01YCBB3 2TB            | 1        | 0.78%   |
+| WDC WD2003FZEX-00SRLA0 2TB            | 1        | 0.78%   |
+| WDC WD10JPVX-22JC3T0 1TB              | 1        | 0.78%   |
+| WDC WD10EZEX-75WN4A0 1TB              | 1        | 0.78%   |
+| WDC WD10EZEX-22MFCA0 1TB              | 1        | 0.78%   |
+| WDC WD10EZEX-08WN4A0 1TB              | 1        | 0.78%   |
+| Unknown SD/MMC/MS PRO 64GB            | 1        | 0.78%   |
+| Toshiba HDWT140 4TB                   | 1        | 0.78%   |
+| Toshiba HDWQ140 4TB                   | 1        | 0.78%   |
+| Toshiba HDWD120 2TB                   | 1        | 0.78%   |
+| Toshiba DT01ACA300 3TB                | 1        | 0.78%   |
+| Toshiba DT01ACA100 1TB                | 1        | 0.78%   |
+| T-FORCE 1TB                           | 1        | 0.78%   |
+| SK hynix PC601 NVMe 512GB             | 1        | 0.78%   |
+| SK hynix HFS128G32TNF-N3A0A 128GB SSD | 1        | 0.78%   |
+| Silicon Motion NVMe SSD Drive 256GB   | 1        | 0.78%   |
+| Seagate ST6000VN0033-2EE110 6TB       | 1        | 0.78%   |
+| Seagate ST500LX025-1U717D 500GB       | 1        | 0.78%   |
+| Seagate ST4000LM024-2AN17V 4TB        | 1        | 0.78%   |
+| Seagate ST3250310AS 250GB             | 1        | 0.78%   |
+| Seagate ST31000524AS 1TB              | 1        | 0.78%   |
+| Seagate ST2000DM001-9YN164 2TB        | 1        | 0.78%   |
+| Seagate ST1000VN002-2EY102 1TB        | 1        | 0.78%   |
+| Seagate ST1000LX015-1U7172 1TB        | 1        | 0.78%   |
+| Seagate ST1000LM049-2GH172 1TB        | 1        | 0.78%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB    | 1        | 0.78%   |
+| Seagate ST1000DM010-2EP102 1TB        | 1        | 0.78%   |
+| Seagate ST1000DM003-1SB102 1TB        | 1        | 0.78%   |
 
 HDD Vendor
 ----------
@@ -1677,12 +1677,12 @@ Monitor models
 | Samsung Electronics SyncMaster SAM05FC 1920x1080                      | 1        | 1.49%   |
 | Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch   | 1        | 1.49%   |
 | Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch     | 1        | 1.49%   |
-| Samsung Electronics S22B300 SAM08A9 1600x900 443x249mm 20.0-inch      | 1        | 1.49%   |
+| Samsung Electronics S22B300 SAM08A9 1600x900 440x250mm 19.9-inch      | 1        | 1.49%   |
 | Samsung Electronics LCD Monitor SAM7106 1920x1080 530x300mm 24.0-inch | 1        | 1.49%   |
 | Samsung Electronics LCD Monitor SAM0200 1280x720                      | 1        | 1.49%   |
 | Samsung Electronics LCD Monitor S22B150                               | 1        | 1.49%   |
 | Samsung Electronics LCD Monitor C49HG9x 3840x1080                     | 1        | 1.49%   |
-| Samsung Electronics C32R50x SAM7000 1920x1080 700x390mm 31.5-inch     | 1        | 1.49%   |
+| Samsung Electronics C32R50x SAM7000 1920x1080 698x393mm 31.5-inch     | 1        | 1.49%   |
 | Samsung Electronics C32HG7x SAM0E14 2560x1440 697x392mm 31.5-inch     | 1        | 1.49%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.49%   |
 | Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch               | 1        | 1.49%   |
@@ -1699,7 +1699,7 @@ Monitor models
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.49%   |
 | Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch         | 1        | 1.49%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.49%   |
-| Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch            | 1        | 1.49%   |
+| Hewlett-Packard E233 HPN3460 1920x1080 510x290mm 23.1-inch            | 1        | 1.49%   |
 | Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.49%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.49%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1        | 1.49%   |
@@ -1707,7 +1707,7 @@ Monitor models
 | Goldstar 26LB75  GSM5673 1920x1080 700x390mm 31.5-inch                | 1        | 1.49%   |
 | Goldstar 24GM77 GSM5A90 1920x1080 531x298mm 24.0-inch                 | 1        | 1.49%   |
 | Goldstar 24GM77 GSM5A8F 1920x1080 531x298mm 24.0-inch                 | 1        | 1.49%   |
-| Gigabyte Technology G34WQC GBT3400 3440x1440 797x334mm 34.0-inch      | 1        | 1.49%   |
+| Gigabyte Technology G34WQC GBT3400 3440x1440 800x330mm 34.1-inch      | 1        | 1.49%   |
 | Gigabyte Technology G32QC GBT3200 2560x1440 697x392mm 31.5-inch       | 1        | 1.49%   |
 | Eizo LCD Monitor EV2416W                                              | 1        | 1.49%   |
 | Eizo CS2420 ENC2956 1920x1200 519x324mm 24.1-inch                     | 1        | 1.49%   |
@@ -1722,9 +1722,9 @@ Monitor models
 | Dell LCD Monitor P2719H 1920x1080                                     | 1        | 1.49%   |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                     | 1        | 1.49%   |
 | BenQ GL2250H BNQ78A1 1920x1080 477x268mm 21.5-inch                    | 1        | 1.49%   |
-| BenQ G2222HDL BNQ7859 1920x1080 477x268mm 21.5-inch                   | 1        | 1.49%   |
+| BenQ BenQG2222HDL BNQ7859 1920x1080 478x269mm 21.6-inch               | 1        | 1.49%   |
 | Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch      | 1        | 1.49%   |
-| Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch | 1        | 1.49%   |
+| Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch | 1        | 1.49%   |
 | Ancor Communications ASUS VH238 ACI23F9 1920x1080 510x290mm 23.1-inch | 1        | 1.49%   |
 | Acer P205H ACR00D1 1600x900 443x249mm 20.0-inch                       | 1        | 1.49%   |
 
@@ -2148,8 +2148,8 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 2        | 9.52%   |
 | ASUS BCM20702A0                                       | 2        | 9.52%   |
 | Micro Star International Bluetooth Device             | 1        | 4.76%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter              | 1        | 4.76%   |
 | Intel Bluetooth wireless interface                    | 1        | 4.76%   |
+| Intel Bluetooth Device                                | 1        | 4.76%   |
 | Intel AX200 Bluetooth                                 | 1        | 4.76%   |
 | IMC Networks BCM20702A0                               | 1        | 4.76%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 1        | 4.76%   |
@@ -2281,7 +2281,7 @@ Memory module models
 
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
-| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s        | 2        | 6.67%   |
+| Samsung RAM M378A2K43CB1-CTD 16384MB DIMM DDR4 2667MT/s     | 2        | 6.67%   |
 | Corsair RAM CMK64GX4M2D3600C18 32GB DIMM DDR4 3600MT/s      | 2        | 6.67%   |
 | Unknown (0x0205) RAM Module 8GB DIMM DDR3 1600MT/s          | 1        | 3.33%   |
 | Transcend RAM TS1GLK72V3H 8GB DIMM DDR3 1333MT/s            | 1        | 3.33%   |
@@ -2292,23 +2292,23 @@ Memory module models
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                   | 1        | 3.33%   |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                  | 1        | 3.33%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s         | 1        | 3.33%   |
-| Samsung RAM M378A1K43CB2-CTD 8192MB DIMM DDR4 3200MT/s      | 1        | 3.33%   |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s         | 1        | 3.33%   |
 | Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s            | 1        | 3.33%   |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                    | 1        | 3.33%   |
 | Micron RAM 36ASF4G72PZ-2G3B1 32GB DIMM DDR4 2400MT/s        | 1        | 3.33%   |
-| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s         | 1        | 3.33%   |
+| Micron RAM 16JTF1G64AZ-1G6E1 8192MB DIMM DDR3 1600MT/s      | 1        | 3.33%   |
 | Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s         | 1        | 3.33%   |
 | Kingston RAM KHX2666C13/16GX 16GB DIMM DDR4 3200MT/s        | 1        | 3.33%   |
 | Kingston RAM KHX2400C12D4/8GX 8GB DIMM DDR4 2400MT/s        | 1        | 3.33%   |
 | Kingston RAM 9905712-034.A00G 16GB SODIMM DDR4 2400MT/s     | 1        | 3.33%   |
 | Goodram RAM GR1600D364L11S/4G 4GB DIMM DDR3 1600MT/s        | 1        | 3.33%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s       | 1        | 3.33%   |
-| Crucial RAM CT4G4DFS824A.M8FG 4GB DIMM DDR4 2400MT/s        | 1        | 3.33%   |
+| Crucial RAM CT4G4DFS824A.M8FG 4096MB DIMM DDR4 2400MT/s     | 1        | 3.33%   |
 | Crucial RAM CT16G4DFD824A.C16FBD 16384MB DIMM DDR4 2933MT/s | 1        | 3.33%   |
 | Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 3.33%   |
 | Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s       | 1        | 3.33%   |
 | Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s       | 1        | 3.33%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 3.33%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s    | 1        | 3.33%   |
 
 Memory Kind
 -----------
@@ -2449,17 +2449,17 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Unknown FULL HD 1080P Webcam            | 3        | 25%     |
-| Generalplus GENERAL WEBCAM              | 2        | 16.67%  |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 8.33%   |
-| Ruision UVC Camera                      | 1        | 8.33%   |
-| Microsoft LifeCam HD-3000               | 1        | 8.33%   |
-| Logitech Webcam C270                    | 1        | 8.33%   |
-| Logitech HD Webcam C910                 | 1        | 8.33%   |
-| Jieli USB PHY 2.0                       | 1        | 8.33%   |
-| ARC International Camera                | 1        | 8.33%   |
+| Model                        | Desktops | Percent |
+|------------------------------|----------|---------|
+| Unknown FULL HD 1080P Webcam | 3        | 25%     |
+| Generalplus WEB CAM          | 2        | 16.67%  |
+| Samsung Galaxy A5 (MTP)      | 1        | 8.33%   |
+| Ruision UVC Camera           | 1        | 8.33%   |
+| Microsoft LifeCam HD-3000    | 1        | 8.33%   |
+| Logitech Webcam C270         | 1        | 8.33%   |
+| Logitech HD Webcam C910      | 1        | 8.33%   |
+| Jieli USB PHY 2.0            | 1        | 8.33%   |
+| ARC International Camera     | 1        | 8.33%   |
 
 Security
 --------

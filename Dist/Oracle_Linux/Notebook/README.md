@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 50
+Total: 51
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo   | Legion 5 15IMH05 82AU       | [3dddb3aac3](https://linux-hardware.org/?probe=3dddb3aac3) | Jul 20, 2022 |
 | Lenovo   | ThinkPad P70 20ESS04S00     | [fc29967bed](https://linux-hardware.org/?probe=fc29967bed) | Jun 17, 2022 |
 | HP       | Compaq 6730b                | [dd94c9145b](https://linux-hardware.org/?probe=dd94c9145b) | Jun 11, 2022 |
 | Lenovo   | ThinkPad T410 2518A37       | [04e81b8b3f](https://linux-hardware.org/?probe=04e81b8b3f) | Jun 04, 2022 |
@@ -223,16 +224,16 @@ Installed operating systems
 
 | Name             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Oracle Linux 8.5 | 11        | 31.43%  |
-| Oracle Linux 8.3 | 6         | 17.14%  |
-| Oracle Linux 8.4 | 5         | 14.29%  |
-| Oracle Linux 8.1 | 3         | 8.57%   |
-| Oracle Linux 7.9 | 3         | 8.57%   |
-| Oracle Linux 7.8 | 2         | 5.71%   |
-| Oracle Linux 7.7 | 2         | 5.71%   |
-| Oracle Linux 8.6 | 1         | 2.86%   |
-| Oracle Linux 8.2 | 1         | 2.86%   |
-| Oracle Linux 7.6 | 1         | 2.86%   |
+| Oracle Linux 8.5 | 11        | 30.56%  |
+| Oracle Linux 8.3 | 6         | 16.67%  |
+| Oracle Linux 8.4 | 5         | 13.89%  |
+| Oracle Linux 8.1 | 3         | 8.33%   |
+| Oracle Linux 7.9 | 3         | 8.33%   |
+| Oracle Linux 8.6 | 2         | 5.56%   |
+| Oracle Linux 7.8 | 2         | 5.56%   |
+| Oracle Linux 7.7 | 2         | 5.56%   |
+| Oracle Linux 8.2 | 1         | 2.78%   |
+| Oracle Linux 7.6 | 1         | 2.78%   |
 
 OS Family
 ---------
@@ -256,37 +257,38 @@ Version of the Linux kernel
 
 | Version                            | Notebooks | Percent |
 |------------------------------------|-----------|---------|
-| 5.4.17-2036.103.3.1.el8uek.x86_64  | 3         | 7.89%   |
-| 4.18.0-348.12.2.el8_5.x86_64       | 3         | 7.89%   |
-| 5.4.17-2136.304.4.3.el8uek.x86_64  | 2         | 5.26%   |
-| 5.4.17-2102.202.5.el8uek.x86_64    | 2         | 5.26%   |
-| 4.18.0-147.3.1.el8_1.x86_64        | 2         | 5.26%   |
-| 5.4.17-2136.308.9.el7uek.x86_64    | 1         | 2.63%   |
-| 5.4.17-2136.306.1.3.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2136.305.5.4.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2136.305.5.3.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2136.305.5.2.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2136.301.1.4.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2136.300.7.el8uek.x86_64    | 1         | 2.63%   |
-| 5.4.17-2102.205.7.3.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2102.204.4.4.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2102.204.4.2.el8uek.x86_64  | 1         | 2.63%   |
-| 5.4.17-2102.201.3.el8uek.x86_64    | 1         | 2.63%   |
-| 5.4.17-2102.200.13.el8uek.x86_64   | 1         | 2.63%   |
-| 5.4.17-2036.104.4.el8uek.x86_64    | 1         | 2.63%   |
-| 5.4.17-2011.0.7.el8uek.x86_64      | 1         | 2.63%   |
-| 5.15.2-1.el8.elrepo.x86_64         | 1         | 2.63%   |
-| 5.14.1-1.el8.elrepo.x86_64         | 1         | 2.63%   |
-| 5.11.1-1.el8.elrepo.x86_64         | 1         | 2.63%   |
-| 4.18.0-240.15.1.el8_3.x86_64       | 1         | 2.63%   |
-| 4.18.0-240.10.1.el8_3.x86_64       | 1         | 2.63%   |
-| 4.18.0-193.1.2.el8_2.x86_64        | 1         | 2.63%   |
-| 4.14.35-2047.510.4.1.el7uek.x86_64 | 1         | 2.63%   |
-| 4.14.35-1902.4.8.el7uek.x86_64     | 1         | 2.63%   |
-| 4.14.35-1902.300.11.el7uek.x86_64  | 1         | 2.63%   |
-| 4.14.35-1818.3.3.el7uek.x86_64     | 1         | 2.63%   |
-| 4.1.12-124.63.2.1.el7uek.x86_64    | 1         | 2.63%   |
-| 3.10.0-1127.10.1.el7.x86_64        | 1         | 2.63%   |
+| 5.4.17-2036.103.3.1.el8uek.x86_64  | 3         | 7.69%   |
+| 4.18.0-348.12.2.el8_5.x86_64       | 3         | 7.69%   |
+| 5.4.17-2136.304.4.3.el8uek.x86_64  | 2         | 5.13%   |
+| 5.4.17-2102.202.5.el8uek.x86_64    | 2         | 5.13%   |
+| 4.18.0-147.3.1.el8_1.x86_64        | 2         | 5.13%   |
+| 5.4.17-2136.309.4.el8uek.x86_64    | 1         | 2.56%   |
+| 5.4.17-2136.308.9.el7uek.x86_64    | 1         | 2.56%   |
+| 5.4.17-2136.306.1.3.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2136.305.5.4.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2136.305.5.3.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2136.305.5.2.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2136.301.1.4.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2136.300.7.el8uek.x86_64    | 1         | 2.56%   |
+| 5.4.17-2102.205.7.3.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2102.204.4.4.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2102.204.4.2.el8uek.x86_64  | 1         | 2.56%   |
+| 5.4.17-2102.201.3.el8uek.x86_64    | 1         | 2.56%   |
+| 5.4.17-2102.200.13.el8uek.x86_64   | 1         | 2.56%   |
+| 5.4.17-2036.104.4.el8uek.x86_64    | 1         | 2.56%   |
+| 5.4.17-2011.0.7.el8uek.x86_64      | 1         | 2.56%   |
+| 5.15.2-1.el8.elrepo.x86_64         | 1         | 2.56%   |
+| 5.14.1-1.el8.elrepo.x86_64         | 1         | 2.56%   |
+| 5.11.1-1.el8.elrepo.x86_64         | 1         | 2.56%   |
+| 4.18.0-240.15.1.el8_3.x86_64       | 1         | 2.56%   |
+| 4.18.0-240.10.1.el8_3.x86_64       | 1         | 2.56%   |
+| 4.18.0-193.1.2.el8_2.x86_64        | 1         | 2.56%   |
+| 4.14.35-2047.510.4.1.el7uek.x86_64 | 1         | 2.56%   |
+| 4.14.35-1902.4.8.el7uek.x86_64     | 1         | 2.56%   |
+| 4.14.35-1902.300.11.el7uek.x86_64  | 1         | 2.56%   |
+| 4.14.35-1818.3.3.el7uek.x86_64     | 1         | 2.56%   |
+| 4.1.12-124.63.2.1.el7uek.x86_64    | 1         | 2.56%   |
+| 3.10.0-1127.10.1.el7.x86_64        | 1         | 2.56%   |
 
 Kernel Family
 -------------
@@ -800,7 +802,7 @@ Hard drive vendors
 | Micron Technology       | 1         | 4      | 3.03%   |
 | Lite-On                 | 1         | 1      | 3.03%   |
 | Lenovo                  | 1         | 1      | 3.03%   |
-| Kingston                | 1         | 5      | 3.03%   |
+| Kingston                | 1         | 6      | 3.03%   |
 | Fujitsu                 | 1         | 1      | 3.03%   |
 | Crucial                 | 1         | 2      | 3.03%   |
 
@@ -818,7 +820,7 @@ Hard drive models
 | Samsung MZ7LN512HMJP-000L7 512GB SSD         | 2         | 5.88%   |
 | WDC WDS250G2B0A-00SM50 250GB SSD             | 1         | 2.94%   |
 | WDC WD10JPCX-24UE4T0 1TB                     | 1         | 2.94%   |
-| Unknown SD/MMC/MS PRO 128GB                  | 1         | 2.94%   |
+| Unknown SD/MMC/MS PRO 64GB                   | 1         | 2.94%   |
 | Unknown MMC Card  256GB                      | 1         | 2.94%   |
 | Union Memory (Shenzhen) NVMe SSD Drive 128GB | 1         | 2.94%   |
 | Seagate ST9750420AS 752GB                    | 1         | 2.94%   |
@@ -889,7 +891,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SSD  | 15        | 17     | 45.45%  |
-| NVMe | 10        | 21     | 30.3%   |
+| NVMe | 10        | 22     | 30.3%   |
 | HDD  | 7         | 10     | 21.21%  |
 | MMC  | 1         | 1      | 3.03%   |
 
@@ -904,7 +906,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 20        | 24     | 62.5%   |
-| NVMe | 10        | 21     | 31.25%  |
+| NVMe | 10        | 22     | 31.25%  |
 | SAS  | 1         | 3      | 3.13%   |
 | MMC  | 1         | 1      | 3.13%   |
 
@@ -1030,7 +1032,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 18        | 32     | 56.25%  |
+| Detected | 18        | 33     | 56.25%  |
 | Works    | 12        | 15     | 37.5%   |
 | Malfunc  | 2         | 2      | 6.25%   |
 
@@ -1346,11 +1348,11 @@ Combinations of graphics cards
 
 | Name           | Notebooks | Percent |
 |----------------|-----------|---------|
-| 1 x Intel      | 13        | 44.83%  |
-| Intel + Nvidia | 7         | 24.14%  |
-| 1 x AMD        | 4         | 13.79%  |
-| 1 x Nvidia     | 3         | 10.34%  |
-| Intel + AMD    | 2         | 6.9%    |
+| 1 x Intel      | 13        | 43.33%  |
+| Intel + Nvidia | 7         | 23.33%  |
+| 1 x Nvidia     | 4         | 13.33%  |
+| 1 x AMD        | 4         | 13.33%  |
+| Intel + AMD    | 2         | 6.67%   |
 
 GPU Driver
 ----------
@@ -1362,9 +1364,9 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 26        | 89.66%  |
-| Proprietary | 2         | 6.9%    |
-| Unknown     | 1         | 3.45%   |
+| Free        | 26        | 86.67%  |
+| Proprietary | 2         | 6.67%   |
+| Unknown     | 2         | 6.67%   |
 
 GPU Memory
 ----------
@@ -1443,14 +1445,14 @@ Monitor models
 | Dell P2719H DEL4184 1920x1080 598x336mm 27.0-inch                     | 1         | 2.27%   |
 | Dell P2414H DELA09C 1920x1080 527x297mm 23.8-inch                     | 1         | 2.27%   |
 | Dell E2009W DEL4240 1680x1050 433x271mm 20.1-inch                     | 1         | 2.27%   |
-| Chimei Innolux LCD Monitor CMN15E8 1920x1080 340x190mm 15.3-inch      | 1         | 2.27%   |
+| Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch      | 1         | 2.27%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch      | 1         | 2.27%   |
-| Chimei Innolux LCD Monitor CMN14E8 1920x1080 310x170mm 13.9-inch      | 1         | 2.27%   |
+| Chimei Innolux LCD Monitor CMN14E8 1920x1080 309x173mm 13.9-inch      | 1         | 2.27%   |
 | BOE LCD Monitor BOE08E8 1920x1080 344x194mm 15.5-inch                 | 1         | 2.27%   |
 | BOE LCD Monitor BOE074F 1920x1080 309x173mm 13.9-inch                 | 1         | 2.27%   |
 | BOE LCD Monitor BOE0630 1920x1080 344x194mm 15.5-inch                 | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO8074 1280x800 331x207mm 15.4-inch         | 1         | 2.27%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 1         | 2.27%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch         | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO212D 1920x1080 293x165mm 13.2-inch        | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO203D 1920x1080 309x174mm 14.0-inch        | 1         | 2.27%   |
@@ -1573,11 +1575,11 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 17        | 58.62%  |
-| 2     | 7         | 24.14%  |
-| 3     | 3         | 10.34%  |
-| 4     | 1         | 3.45%   |
-| 0     | 1         | 3.45%   |
+| 1     | 17        | 56.67%  |
+| 2     | 7         | 23.33%  |
+| 3     | 3         | 10%     |
+| 0     | 2         | 6.67%   |
+| 4     | 1         | 3.33%   |
 
 Network
 -------
@@ -1824,10 +1826,10 @@ Controller models
 |------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface             | 7         | 41.18%  |
 | Qualcomm Atheros  Bluetooth Device             | 2         | 11.76%  |
-| Intel Bluetooth Device                         | 2         | 11.76%  |
+| Intel AX201 Bluetooth                          | 2         | 11.76%  |
 | Realtek  Bluetooth 4.2 Adapter                 | 1         | 5.88%   |
 | Qualcomm Atheros AR9462 Bluetooth              | 1         | 5.88%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter       | 1         | 5.88%   |
+| Intel Bluetooth Device                         | 1         | 5.88%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 5.88%   |
 | Broadcom BCM43142A0 Bluetooth 4.0              | 1         | 5.88%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]     | 1         | 5.88%   |
@@ -1941,7 +1943,7 @@ Memory module models
 | Micron RAM 53E2G32D4NQ-046 4GB Row Of Chips LPDDR4 4267MT/s     | 1         | 6.67%   |
 | Micron RAM 16JTF1G64HZ-1G4D1 8GB SODIMM DDR3 1333MT/s           | 1         | 6.67%   |
 | Micron RAM 16ATF2G64HZ-2G1A1 16384MB SODIMM DDR4 2133MT/s       | 1         | 6.67%   |
-| Kingston RAM KX830D-ELC 4096MB SODIMM DDR3 1333MT/s             | 1         | 6.67%   |
+| Kingston RAM KX830D-ELC 4GB SODIMM DDR3 1333MT/s                | 1         | 6.67%   |
 | Kingston RAM KN2M64-ETB 8GB SODIMM DDR3 1600MT/s                | 1         | 6.67%   |
 | Corsair RAM CMSX32GX4M2A2666C18 16GB SODIMM DDR4 2667MT/s       | 1         | 6.67%   |
 | Avant RAM H6451U66G1600G 4096MB SODIMM DDR3 1600MT/s            | 1         | 6.67%   |
@@ -2088,7 +2090,7 @@ Camera device models
 | Suyin Asus Integrated Webcam            | 1         | 4.17%   |
 | Realtek Integrated_Webcam_HD            | 1         | 4.17%   |
 | Realtek EasyCamera                      | 1         | 4.17%   |
-| Microdia Webcam Vitade AF               | 1         | 4.17%   |
+| Microdia Amcrest AWC2198 USB Webcam     | 1         | 4.17%   |
 | Logitech Webcam C920-C                  | 1         | 4.17%   |
 | Logitech HD Webcam C615                 | 1         | 4.17%   |
 | Logitech BRIO Ultra HD Webcam           | 1         | 4.17%   |
@@ -2171,10 +2173,10 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 15        | 50%     |
-| 0     | 11        | 36.67%  |
-| 2     | 3         | 10%     |
-| 3     | 1         | 3.33%   |
+| 1     | 16        | 51.61%  |
+| 0     | 11        | 35.48%  |
+| 2     | 3         | 9.68%   |
+| 3     | 1         | 3.23%   |
 
 Unsupported Device Types
 ------------------------

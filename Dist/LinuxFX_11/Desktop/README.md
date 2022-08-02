@@ -855,7 +855,7 @@ Hard drive models
 |-------------------------------------|----------|---------|
 | Seagate ST1000DM010-2EP102 1TB      | 4        | 4.6%    |
 | Seagate ST1000DM003-1CH162 1TB      | 2        | 2.3%    |
-| Seagate Expansion+ Desk 4TB         | 2        | 2.3%    |
+| Seagate Expansion Desk 4TB          | 2        | 2.3%    |
 | SanDisk SDSSDX240GG25 240GB         | 2        | 2.3%    |
 | Samsung SSD 860 EVO 1TB             | 2        | 2.3%    |
 | Crucial CT1000MX500SSD1 1TB         | 2        | 2.3%    |
@@ -901,8 +901,8 @@ Hard drive models
 | Seagate ST2000DM001-1CH164 2TB      | 1        | 1.15%   |
 | Seagate ST2000DM 008-2FR102 2TB     | 1        | 1.15%   |
 | Seagate Expansion 1TB               | 1        | 1.15%   |
-| Seagate Backup+ Hub BK 8TB          | 1        | 1.15%   |
-| SATAFIRM S11 1024GB                 | 1        | 1.15%   |
+| Seagate Backup+ Hub BK 4TB          | 1        | 1.15%   |
+| SATAFIRM S11 240GB                  | 1        | 1.15%   |
 | SanDisk SDSSDA240G 240GB            | 1        | 1.15%   |
 | SanDisk SDSSDA120G 120GB            | 1        | 1.15%   |
 | SanDisk SD8SNAT128G1002 128GB SSD   | 1        | 1.15%   |
@@ -924,13 +924,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 20       | 27     | 52.63%  |
-| WDC                 | 12       | 17     | 31.58%  |
-| Samsung Electronics | 2        | 2      | 5.26%   |
-| Toshiba             | 1        | 1      | 2.63%   |
-| Maxtor              | 1        | 1      | 2.63%   |
-| Hitachi             | 1        | 1      | 2.63%   |
-| Apple               | 1        | 1      | 2.63%   |
+| Seagate             | 20       | 27     | 51.28%  |
+| WDC                 | 12       | 17     | 30.77%  |
+| Samsung Electronics | 2        | 2      | 5.13%   |
+| Toshiba             | 1        | 1      | 2.56%   |
+| SATAFIRM            | 1        | 1      | 2.56%   |
+| Maxtor              | 1        | 1      | 2.56%   |
+| Hitachi             | 1        | 1      | 2.56%   |
+| Apple               | 1        | 1      | 2.56%   |
 
 SSD Vendor
 ----------
@@ -942,19 +943,18 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 8        | 8      | 24.24%  |
-| SanDisk             | 6        | 6      | 18.18%  |
-| WDC                 | 4        | 4      | 12.12%  |
-| Crucial             | 3        | 3      | 9.09%   |
-| Transcend           | 2        | 2      | 6.06%   |
-| SPCC                | 2        | 2      | 6.06%   |
-| Kingston            | 2        | 2      | 6.06%   |
-| SATAFIRM            | 1        | 1      | 3.03%   |
-| PNY                 | 1        | 1      | 3.03%   |
-| OCZ                 | 1        | 1      | 3.03%   |
-| JMicron Technology  | 1        | 1      | 3.03%   |
-| Apacer              | 1        | 2      | 3.03%   |
-| A-DATA Technology   | 1        | 1      | 3.03%   |
+| Samsung Electronics | 8        | 8      | 25%     |
+| SanDisk             | 6        | 6      | 18.75%  |
+| WDC                 | 4        | 4      | 12.5%   |
+| Crucial             | 3        | 3      | 9.38%   |
+| Transcend           | 2        | 2      | 6.25%   |
+| SPCC                | 2        | 2      | 6.25%   |
+| Kingston            | 2        | 2      | 6.25%   |
+| PNY                 | 1        | 1      | 3.13%   |
+| OCZ                 | 1        | 1      | 3.13%   |
+| JMicron Technology  | 1        | 1      | 3.13%   |
+| Apacer              | 1        | 2      | 3.13%   |
+| A-DATA Technology   | 1        | 1      | 3.13%   |
 
 Drive Kind
 ----------
@@ -966,10 +966,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 30       | 50     | 47.62%  |
-| SSD     | 26       | 34     | 41.27%  |
-| NVMe    | 6        | 6      | 9.52%   |
-| Unknown | 1        | 1      | 1.59%   |
+| HDD     | 30       | 51     | 48.39%  |
+| SSD     | 25       | 33     | 40.32%  |
+| NVMe    | 6        | 6      | 9.68%   |
+| Unknown | 1        | 1      | 1.61%   |
 
 Drive Connector
 ---------------
@@ -995,12 +995,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 32       | 40     | 50%     |
-| 0.51-1.0   | 19       | 29     | 29.69%  |
-| 1.01-2.0   | 8        | 10     | 12.5%   |
-| 3.01-4.0   | 2        | 2      | 3.13%   |
-| 2.01-3.0   | 2        | 2      | 3.13%   |
-| 4.01-10.0  | 1        | 1      | 1.56%   |
+| 0.01-0.5   | 32       | 42     | 50.79%  |
+| 0.51-1.0   | 19       | 28     | 30.16%  |
+| 1.01-2.0   | 7        | 9      | 11.11%  |
+| 3.01-4.0   | 3        | 3      | 4.76%   |
+| 2.01-3.0   | 2        | 2      | 3.17%   |
 
 Space Total
 -----------
@@ -1601,7 +1600,7 @@ Monitor models
 | Goldstar M237WDP GSM5778 1920x1080 510x290mm 23.1-inch                | 1        | 2.17%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                   | 1        | 2.17%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.17%   |
-| Dell DELL2407WFPHC DELA026 1920x1200 519x324mm 24.1-inch              | 1        | 2.17%   |
+| Dell LCD Monitor DELA026 1920x1200 520x330mm 24.2-inch                | 1        | 2.17%   |
 | BenQ FP71V+ BNQ76A2 1280x1024 376x301mm 19.0-inch                     | 1        | 2.17%   |
 | AOC G2770 AOC2770 1920x1080 598x336mm 27.0-inch                       | 1        | 2.17%   |
 | AOC 519W AOC1519 1280x720 340x270mm 17.1-inch                         | 1        | 2.17%   |
@@ -1611,7 +1610,7 @@ Monitor models
 | Ancor Communications VE247 ACI2493 1920x1080 531x299mm 24.0-inch      | 1        | 2.17%   |
 | Ancor Communications MW221 ACI22B1 1680x1050 473x296mm 22.0-inch      | 1        | 2.17%   |
 | Ancor Communications LCD Monitor ASUS VS228 1920x1080                 | 1        | 2.17%   |
-| Ancor Communications ASUS VP247 ACI24C7 1920x1080 520x290mm 23.4-inch | 1        | 2.17%   |
+| Ancor Communications ASUS VP247 ACI24C7 1920x1080 521x293mm 23.5-inch | 1        | 2.17%   |
 | Ancor Communications ASUS VG278 ACI27E1 1920x1080 598x336mm 27.0-inch | 1        | 2.17%   |
 | Ancor Communications ASUS MX239 ACI23C2 1920x1080 528x310mm 24.1-inch | 1        | 2.17%   |
 | Acer X223W ACR000D 1680x1050 474x296mm 22.0-inch                      | 1        | 2.17%   |
@@ -1812,7 +1811,7 @@ Controller models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1        | 1.33%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                                 | 1        | 1.33%   |
 | Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn]                        | 1        | 1.33%   |
-| Motorola PCS moto g stylus                                                                    | 1        | 1.33%   |
+| Motorola PCS moto g(9) play                                                                   | 1        | 1.33%   |
 | Intel Wireless 8265 / 8275                                                                    | 1        | 1.33%   |
 | Intel Wireless 7265                                                                           | 1        | 1.33%   |
 | Intel I211 Gigabit Network Connection                                                         | 1        | 1.33%   |
@@ -1917,7 +1916,7 @@ Ethernet models
 | Intel 82579V Gigabit Network Connection                           | 2        | 4.08%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2.04%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2.04%   |
-| Motorola PCS moto g stylus                                        | 1        | 2.04%   |
+| Motorola PCS moto g(9) play                                       | 1        | 2.04%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 2.04%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 2.04%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1        | 2.04%   |
@@ -2253,11 +2252,11 @@ Camera device vendors
 | Microsoft                 | 2        | 15.38%  |
 | Logitech                  | 2        | 15.38%  |
 | Chicony Electronics       | 2        | 15.38%  |
+| YGTek                     | 1        | 7.69%   |
 | Silicon Motion            | 1        | 7.69%   |
 | SHENZHEN EMEET TECHNOLOGY | 1        | 7.69%   |
 | Jieli Technology          | 1        | 7.69%   |
 | Hewlett-Packard           | 1        | 7.69%   |
-| HD WEBCAM                 | 1        | 7.69%   |
 | Creative Technology       | 1        | 7.69%   |
 | 2M UVC CAMERA             | 1        | 7.69%   |
 
@@ -2271,6 +2270,7 @@ Camera device models
 
 | Model                                          | Desktops | Percent |
 |------------------------------------------------|----------|---------|
+| YGTek Webcam                                   | 1        | 7.69%   |
 | Silicon Motion SM731 Camera                    | 1        | 7.69%   |
 | SHENZHEN EMEET TECHNOLOGY HD Webcam eMeet C960 | 1        | 7.69%   |
 | Microsoft LifeCam VX-5000                      | 1        | 7.69%   |
@@ -2279,11 +2279,10 @@ Camera device models
 | Logitech C922 Pro Stream Webcam                | 1        | 7.69%   |
 | Jieli USB PHY 2.0                              | 1        | 7.69%   |
 | HP Webcam 3110                                 | 1        | 7.69%   |
-| HD WEBCAM Web Camera                           | 1        | 7.69%   |
 | Creative Live! Cam Sync HD [VF0770]            | 1        | 7.69%   |
 | Chicony CNF7042                                | 1        | 7.69%   |
 | Chicony 2.0M UVC Webcam / CNF7129              | 1        | 7.69%   |
-| 2M UVC CAMERA NexiGo N60 FHD Webcam            | 1        | 7.69%   |
+| 2M UVC CAMERA NexiGo N660 FHD Webcam           | 1        | 7.69%   |
 
 Security
 --------

@@ -891,9 +891,9 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-512G-1006 512GB | 1         | 2.04%   |
 | Unknown USDU1  32GB                  | 1         | 2.04%   |
 | Unknown SLD64G  64GB                 | 1         | 2.04%   |
-| Unknown SD/MMC/MS PRO 128GB          | 1         | 2.04%   |
+| Unknown SD/MMC/MS PRO 64GB           | 1         | 2.04%   |
 | Unknown 064G38  64GB                 | 1         | 2.04%   |
-| Unknown (CF) Card 8GB SSD            | 1         | 2.04%   |
+| Unknown (CF) Card 16GB SSD           | 1         | 2.04%   |
 | Toshiba MK8025GAS 80GB               | 1         | 2.04%   |
 | Toshiba MK6028GAL 64GB               | 1         | 2.04%   |
 | Silicon Motion NVME SSD 512GB        | 1         | 2.04%   |
@@ -1591,12 +1591,12 @@ Monitor models
 | Samsung Electronics LF24T450F SAM7095 1920x1080 527x296mm 23.8-inch     | 1         | 3.03%   |
 | Samsung Electronics LCD Monitor SEC3633 1280x800 331x207mm 15.4-inch    | 1         | 3.03%   |
 | Samsung Electronics LCD Monitor SEC315A 1366x768 344x194mm 15.5-inch    | 1         | 3.03%   |
-| Samsung Electronics LCD Monitor SEC3051 1600x900 398x232mm 18.1-inch    | 1         | 3.03%   |
+| Samsung Electronics LCD Monitor SEC3051 1366x768 344x194mm 15.5-inch    | 1         | 3.03%   |
 | Samsung Electronics LCD Monitor SAM069B 1920x1080 1020x570mm 46.0-inch  | 1         | 3.03%   |
 | Orion ORION ORN120A 1920x540                                            | 1         | 3.03%   |
 | LG Display LCD Monitor LGD0258 1600x900 345x194mm 15.6-inch             | 1         | 3.03%   |
 | Hewlett-Packard Z24i HWP3100 1920x1200 518x324mm 24.1-inch              | 1         | 3.03%   |
-| Hewlett-Packard 2009 HWP2827 1600x900 442x249mm 20.0-inch               | 1         | 3.03%   |
+| Hewlett-Packard 2009 HWP2827 1600x900 443x250mm 20.0-inch               | 1         | 3.03%   |
 | HannStar HSD121PHW1 HSD04B6 1366x768 270x150mm 12.2-inch                | 1         | 3.03%   |
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1         | 3.03%   |
 | Dell U2415 DELA0BC 1920x1200 518x324mm 24.1-inch                        | 1         | 3.03%   |
@@ -1605,7 +1605,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch         | 1         | 3.03%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 344x193mm 15.5-inch         | 1         | 3.03%   |
 | Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch         | 1         | 3.03%   |
-| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x194mm 15.5-inch         | 1         | 3.03%   |
+| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x193mm 15.5-inch         | 1         | 3.03%   |
 | BOE LCD Monitor BOE05B1 1366x768 309x173mm 13.9-inch                    | 1         | 3.03%   |
 | AU Optronics LCD Monitor AUO3791 1920x1080 344x194mm 15.5-inch          | 1         | 3.03%   |
 | AU Optronics LCD Monitor AUO315D 1920x1080 256x144mm 11.6-inch          | 1         | 3.03%   |
@@ -1815,7 +1815,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                            | 1         | 1.45%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                  | 1         | 1.45%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg]         | 1         | 1.45%   |
-| Motorola PCS moto g stylus                                                  | 1         | 1.45%   |
+| Motorola PCS moto g(9) play                                                 | 1         | 1.45%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                     | 1         | 1.45%   |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)                         | 1         | 1.45%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                      | 1         | 1.45%   |
@@ -1920,7 +1920,7 @@ Ethernet models
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 2.7%    |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 2.7%    |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 2.7%    |
-| Motorola PCS moto g stylus                                        | 1         | 2.7%    |
+| Motorola PCS moto g(9) play                                       | 1         | 2.7%    |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 2.7%    |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)               | 1         | 2.7%    |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 1         | 2.7%    |
@@ -2124,43 +2124,43 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                               | Computers | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2GB SODIMM DDR2                                  | 4         | 9.52%   |
-| Unknown RAM Module 1024MB DIMM DDR3 1333MT/s                        | 2         | 4.76%   |
-| Unknown (ABCD) RAM 123456789012345678 2048MB SODIMM LPDDR4 2400MT/s | 2         | 4.76%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s               | 2         | 4.76%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s               | 2         | 4.76%   |
-| Unknown RAM Module 512MB SODIMM SDRAM                               | 1         | 2.38%   |
-| Unknown RAM Module 512MB DIMM 400MT/s                               | 1         | 2.38%   |
-| Unknown RAM Module 512MB DIMM                                       | 1         | 2.38%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s                      | 1         | 2.38%   |
-| Unknown RAM Module 2GB SODIMM DDR                                   | 1         | 2.38%   |
-| Unknown RAM Module 256MB SODIMM SDRAM                               | 1         | 2.38%   |
-| Unknown RAM Module 2048MB SODIMM SDRAM                              | 1         | 2.38%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                       | 1         | 2.38%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                                | 1         | 2.38%   |
-| Unknown RAM Module 1GB SODIMM DRAM                                  | 1         | 2.38%   |
-| Unknown RAM Module 1GB SODIMM DDR 266MT/s                           | 1         | 2.38%   |
-| Unknown RAM Module 1GB DIMM DDR3 1333MT/s                           | 1         | 2.38%   |
-| Unknown RAM CL19-19-19 D4-2666 8GB SODIMM DDR4 2133MT/s             | 1         | 2.38%   |
-| Transcend RAM Module 1GB DIMM SDRAM 266MT/s                         | 1         | 2.38%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 1066MT/s               | 1         | 2.38%   |
-| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 1066MT/s                | 1         | 2.38%   |
-| Teikon RAM TMT41GU6AFR8C-PBHJ 8GB DIMM DDR3 1333MT/s                | 1         | 2.38%   |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s                 | 1         | 2.38%   |
-| SK hynix RAM Module 2048MB SODIMM DDR3 1600MT/s                     | 1         | 2.38%   |
-| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 800MT/s            | 1         | 2.38%   |
-| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.38%   |
-| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2400MT/s              | 1         | 2.38%   |
-| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s               | 1         | 2.38%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s               | 1         | 2.38%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s               | 1         | 2.38%   |
-| Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s              | 1         | 2.38%   |
-| Kingston RAM HP32D4S2S1ME-4 4GB SODIMM DDR4 3200MT/s                | 1         | 2.38%   |
-| Kingston RAM 99U5428-041.A01G 4GB SODIMM DDR3 1067MT/s              | 1         | 2.38%   |
-| Elpida RAM EBJ10UE8BDS0-AE-F 1GB SODIMM DDR3 1067MT/s               | 1         | 2.38%   |
-| A-DATA RAM AM1U16BC2P1-B1AH 2GB SODIMM DDR3 4199MT/s                | 1         | 2.38%   |
+| Model                                                            | Computers | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2GB SODIMM DDR2                               | 4         | 9.52%   |
+| Unknown RAM Module 1024MB DIMM DDR3 1333MT/s                     | 2         | 4.76%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 4.76%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 4.76%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 4.76%   |
+| Unknown RAM Module 512MB SODIMM SDRAM                            | 1         | 2.38%   |
+| Unknown RAM Module 512MB DIMM 400MT/s                            | 1         | 2.38%   |
+| Unknown RAM Module 512MB DIMM                                    | 1         | 2.38%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s                   | 1         | 2.38%   |
+| Unknown RAM Module 2GB SODIMM DDR                                | 1         | 2.38%   |
+| Unknown RAM Module 256MB SODIMM SDRAM                            | 1         | 2.38%   |
+| Unknown RAM Module 2048MB SODIMM SDRAM                           | 1         | 2.38%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                    | 1         | 2.38%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                             | 1         | 2.38%   |
+| Unknown RAM Module 1GB SODIMM DRAM                               | 1         | 2.38%   |
+| Unknown RAM Module 1GB SODIMM DDR 266MT/s                        | 1         | 2.38%   |
+| Unknown RAM Module 1GB DIMM DDR3 1333MT/s                        | 1         | 2.38%   |
+| Unknown RAM CL19-19-19 D4-2666 8GB SODIMM DDR4 2133MT/s          | 1         | 2.38%   |
+| Transcend RAM Module 1GB DIMM SDRAM 266MT/s                      | 1         | 2.38%   |
+| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s               | 1         | 2.38%   |
+| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s                | 1         | 2.38%   |
+| Teikon RAM TMT41GU6AFR8C-PBHJ 8GB DIMM DDR3 1333MT/s             | 1         | 2.38%   |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s               | 1         | 2.38%   |
+| SK hynix RAM Module 2048MB SODIMM DDR3 1600MT/s                  | 1         | 2.38%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s            | 1         | 2.38%   |
+| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2400MT/s           | 1         | 2.38%   |
+| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s            | 1         | 2.38%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.38%   |
+| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s         | 1         | 2.38%   |
+| Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s           | 1         | 2.38%   |
+| Kingston RAM HP32D4S2S1ME-4 4GB SODIMM DDR4 3200MT/s             | 1         | 2.38%   |
+| Kingston RAM 99U5428-041.A01G 4GB SODIMM DDR3 1067MT/s           | 1         | 2.38%   |
+| Elpida RAM EBJ10UE8BDS0-AE-F 1GB SODIMM DDR3 1067MT/s            | 1         | 2.38%   |
+| A-DATA RAM AM1U16BC2P1-B1AH 2GB SODIMM DDR3 4199MT/s             | 1         | 2.38%   |
 
 Memory Kind
 -----------
@@ -2318,8 +2318,8 @@ Camera device models
 | Silicon Motion 300k Pixel Camera                            | 1         | 5.88%   |
 | Ricoh Sony Visual Communication Camera                      | 1         | 5.88%   |
 | Realtek USB2.0 VGA UVC WebCam                               | 1         | 5.88%   |
-| Microdia Webcam Vitade AF                                   | 1         | 5.88%   |
 | Microdia Sonix USB 2.0 Camera                               | 1         | 5.88%   |
+| Microdia Amcrest AWC2198 USB Webcam                         | 1         | 5.88%   |
 | IMC Networks Integrated Camera                              | 1         | 5.88%   |
 | IMC Networks HP TrueVision HD Camera                        | 1         | 5.88%   |
 | Chicony USB2.0 UVC WebCam                                   | 1         | 5.88%   |
@@ -2328,7 +2328,7 @@ Camera device models
 | Chicony HP HD Webcam                                        | 1         | 5.88%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 1         | 5.88%   |
 | ALi M5603 Video Camera Controller                           | 1         | 5.88%   |
-| Alcor Micro USB 2.0 Camera                                  | 1         | 5.88%   |
+| Alcor Micro USB 2.0 PC cam                                  | 1         | 5.88%   |
 | Acer USB Camera                                             | 1         | 5.88%   |
 | Acer EasyCamera                                             | 1         | 5.88%   |
 

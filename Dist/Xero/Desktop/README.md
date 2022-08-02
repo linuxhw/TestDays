@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 35
+Total: 36
 
 | Vendor   | Model                    | Probe                                                      | Date         |
 |----------|--------------------------|------------------------------------------------------------|--------------|
+| ASUSTek  | TUF Gaming X570-PLUS     | [a0507fae02](https://linux-hardware.org/?probe=a0507fae02) | Jul 31, 2022 |
 | ASRock   | AB350 Pro4               | [7049f819f0](https://linux-hardware.org/?probe=7049f819f0) | Jun 30, 2022 |
 | HP       | 3396                     | [00782afa06](https://linux-hardware.org/?probe=00782afa06) | Jun 22, 2022 |
 | ASUSTek  | ROG STRIX B450-F GAMING  | [8109a04ffa](https://linux-hardware.org/?probe=8109a04ffa) | Jun 12, 2022 |
@@ -864,8 +865,8 @@ Hard drive models
 | Seagate ST1000DX001-SSHD-8GB           | 1        | 1.35%   |
 | Seagate ST1000DM003-1SB102 1TB         | 1        | 1.35%   |
 | Seagate ST10000NE0008-2JM101 10TB      | 1        | 1.35%   |
-| Seagate Expansion HDD 8TB              | 1        | 1.35%   |
-| Seagate Backup+ Hub BK 8TB             | 1        | 1.35%   |
+| Seagate Expansion HDD 5TB              | 1        | 1.35%   |
+| Seagate Backup+ Hub BK 4TB             | 1        | 1.35%   |
 | SanDisk SDSSDH31024G 1TB               | 1        | 1.35%   |
 | Samsung SSD 980 PRO 2TB                | 1        | 1.35%   |
 | Samsung SSD 980 PRO 1TB                | 1        | 1.35%   |
@@ -875,11 +876,11 @@ Hard drive models
 | Samsung SSD 850 EVO 250GB              | 1        | 1.35%   |
 | Samsung SSD 840 EVO 120GB              | 1        | 1.35%   |
 | Samsung SSD 830 Series 64GB            | 1        | 1.35%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 128GB | 1        | 1.35%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 128GB | 1        | 1.35%   |
 | Samsung MZNTY128HDHP-000L1 128GB SSD   | 1        | 1.35%   |
 | Samsung MZNLN128HAHQ-000H1 128GB SSD   | 1        | 1.35%   |
 | Samsung HD161HJ 160GB                  | 1        | 1.35%   |
-| Samsung HD160JJ 160GB                  | 1        | 1.35%   |
+| Samsung HD160JJ/ 160GB                 | 1        | 1.35%   |
 | PNY CS900 500GB SSD                    | 1        | 1.35%   |
 | Phison Sabrent Rocket 4.0 1TB          | 1        | 1.35%   |
 | Phison NVMe SSD Drive 240GB            | 1        | 1.35%   |
@@ -962,7 +963,8 @@ Size of hard drive
 | 0.01-0.5   | 17       | 29     | 41.46%  |
 | 0.51-1.0   | 14       | 20     | 34.15%  |
 | 1.01-2.0   | 5        | 8      | 12.2%   |
-| 4.01-10.0  | 4        | 5      | 9.76%   |
+| 4.01-10.0  | 3        | 4      | 7.32%   |
+| 3.01-4.0   | 1        | 1      | 2.44%   |
 | 2.01-3.0   | 1        | 1      | 2.44%   |
 
 Space Total
@@ -1483,7 +1485,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0524 1920x1080 480x270mm 21.7-inch   | 1        | 3.23%   |
 | Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch   | 1        | 3.23%   |
 | Samsung Electronics SMS24A350H SAM07D6 1920x1080 530x300mm 24.0-inch   | 1        | 3.23%   |
-| Samsung Electronics S34J55x SAM0F70 3440x1440 797x333mm 34.0-inch      | 1        | 3.23%   |
+| Samsung Electronics S34J55x SAM0F70 3440x1440 800x330mm 34.1-inch      | 1        | 3.23%   |
 | Samsung Electronics LCD Monitor SAM0B60 1920x1080 1210x680mm 54.6-inch | 1        | 3.23%   |
 | Samsung Electronics LCD Monitor SAM02EB 1920x540                       | 1        | 3.23%   |
 | Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 1        | 3.23%   |
@@ -1493,7 +1495,7 @@ Monitor models
 | Idek Iiyama LCD Monitor PL2760Q 2560x1440                              | 1        | 3.23%   |
 | Hitachi HISENSE HEC002F 3840x2160 1872x1053mm 84.6-inch                | 1        | 3.23%   |
 | Hewlett-Packard E240c HWP327C 1920x1080 510x290mm 23.1-inch            | 1        | 3.23%   |
-| Hewlett-Packard 27w HPN3494 1920x1080 600x340mm 27.2-inch              | 1        | 3.23%   |
+| Hewlett-Packard 27w HPN3494 1920x1080 598x336mm 27.0-inch              | 1        | 3.23%   |
 | Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch               | 1        | 3.23%   |
 | Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 3.23%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 1        | 3.23%   |
@@ -1502,7 +1504,7 @@ Monitor models
 | ASUSTek Computer VG279QM AUS278F 1920x1080 598x336mm 27.0-inch         | 1        | 3.23%   |
 | AOC Q2963 AOC2963 2560x1080 673x284mm 28.8-inch                        | 1        | 3.23%   |
 | AOC Q2963 AOC2963 2560x1080 670x280mm 28.6-inch                        | 1        | 3.23%   |
-| AOC 27V2G5 AOC2702 1920x1080 600x340mm 27.2-inch                       | 1        | 3.23%   |
+| AOC 27G2G4 AOC2702 1920x1080 600x340mm 27.2-inch                       | 1        | 3.23%   |
 | AOC 2460G5 AOC246A 1920x1080 530x300mm 24.0-inch                       | 1        | 3.23%   |
 | Ancor Communications VW246 ACI24F2 1920x1080 531x299mm 24.0-inch       | 1        | 3.23%   |
 | Ancor Communications ROG PG348Q ACI3433 3440x1440 800x340mm 34.2-inch  | 1        | 3.23%   |
@@ -1685,7 +1687,7 @@ Controller models
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                           | 1        | 2.13%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                  | 1        | 2.13%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                           | 1        | 2.13%   |
-| Qualcomm Redmi 9T                                                         | 1        | 2.13%   |
+| Qualcomm BENGAL-QRD _SN:C5464635                                          | 1        | 2.13%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                          | 1        | 2.13%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet            | 1        | 2.13%   |
 | NetGear Nighthawk A7000 802.11ac Wireless Adapter AC1900 [Realtek 8814AU] | 1        | 2.13%   |
@@ -1773,7 +1775,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-V                              | 4        | 13.33%  |
 | Realtek RTL8125 2.5GbE Controller                                 | 3        | 10%     |
 | Intel Ethernet Connection (7) I219-V                              | 2        | 6.67%   |
-| Qualcomm Redmi 9T                                                 | 1        | 3.33%   |
+| Qualcomm BENGAL-QRD _SN:C5464635                                  | 1        | 3.33%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 3.33%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 3.33%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 3.33%   |
@@ -1865,8 +1867,8 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 18.75%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 1        | 6.25%   |
 | Realtek Bluetooth Radio                             | 1        | 6.25%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 6.25%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.25%   |
+| Intel Bluetooth Device                              | 1        | 6.25%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 6.25%   |
 | Broadcom HP Portable Bumble Bee                     | 1        | 6.25%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 6.25%   |
@@ -1940,7 +1942,7 @@ Sound card models
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 1        | 1.56%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 1.56%   |
 | Hewlett-Packard E240C                                                      | 1        | 1.56%   |
-| Generalplus Technology IMYB 7.1 Channel                                    | 1        | 1.56%   |
+| Generalplus Technology USB Audio Device                                    | 1        | 1.56%   |
 | Corsair Slipstream Multi-Device Receiver                                   | 1        | 1.56%   |
 | Corsair CORSAIR HS60 PRO SURROUND                                          | 1        | 1.56%   |
 | C-Media Electronics USB Modi Device                                        | 1        | 1.56%   |
@@ -1997,8 +1999,8 @@ Memory module models
 | Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s         | 1        | 3.33%   |
 | Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3067MT/s        | 1        | 3.33%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 3.33%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s | 1        | 3.33%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 3.33%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1        | 3.33%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s   | 1        | 3.33%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1450MT/s      | 1        | 3.33%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s    | 1        | 3.33%   |
 | Samsung RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 3.33%   |
@@ -2009,7 +2011,7 @@ Memory module models
 | G.Skill RAM F4-3600C17-8GTZR 8GB DIMM DDR4 3600MT/s       | 1        | 3.33%   |
 | G.Skill RAM F4-3600C16-8GTZNC 8GB DIMM DDR4 3800MT/s      | 1        | 3.33%   |
 | G.Skill RAM F4-3600C16-16GTZRC 16GB DIMM DDR4 4400MT/s    | 1        | 3.33%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s    | 1        | 3.33%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 1        | 3.33%   |
 | G.Skill RAM F4-3200C16-8GTZKW 8192MB DIMM DDR4 3200MT/s   | 1        | 3.33%   |
 | G.Skill RAM F4-3200C16-8GTZKO 8GB DIMM DDR4 3200MT/s      | 1        | 3.33%   |
 | G.Skill RAM F4-2666C15-4GVR 4GB DIMM DDR4 2933MT/s        | 1        | 3.33%   |
@@ -2017,7 +2019,7 @@ Memory module models
 | Crucial RAM CT25664BD160B.C8FN 2GB DIMM DDR3 1333MT/s     | 1        | 3.33%   |
 | Corsair RAM CMK8GX4M2A2666C16 4GB DIMM DDR4 2747MT/s      | 1        | 3.33%   |
 | Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s    | 1        | 3.33%   |
-| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3200MT/s     | 1        | 3.33%   |
+| Corsair RAM CMK16GX4M2A2666C16 8192MB DIMM DDR4 3200MT/s  | 1        | 3.33%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s     | 1        | 3.33%   |
 
 Memory Kind
@@ -2151,7 +2153,7 @@ Camera device models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Logitech Webcam C600                                                 | 1        | 25%     |
-| Generalplus GENERAL WEBCAM                                           | 1        | 25%     |
+| Generalplus WEB CAM                                                  | 1        | 25%     |
 | Chicony HP High Definition 1MP Webcam                                | 1        | 25%     |
 | Cheng Uei Precision Industry (Foxlink) HP High Definition 1MP Webcam | 1        | 25%     |
 

@@ -781,7 +781,7 @@ Hard drive models
 | Seagate ST500DM002-1BD142 500GB          | 2         | 4.44%   |
 | Seagate ST31000524AS 1TB                 | 2         | 4.44%   |
 | Samsung SSD 850 EVO 250GB                | 2         | 4.44%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 500GB   | 2         | 4.44%   |
+| Samsung NVMe SSD Drive 500GB             | 2         | 4.44%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 2.22%   |
 | WDC WD40EZRZ-00GXCB0 4TB                 | 1         | 2.22%   |
 | WDC WD2500BEVT-22A23T0 250GB             | 1         | 2.22%   |
@@ -802,7 +802,7 @@ Hard drive models
 | SanDisk SDSSDP064G 64GB                  | 1         | 2.22%   |
 | SanDisk SDSSDA240G 240GB                 | 1         | 2.22%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 2.22%   |
-| SanDisk Extreme SSD 1TB                  | 1         | 2.22%   |
+| SanDisk Extreme SSD 500GB                | 1         | 2.22%   |
 | Samsung SSD 970 EVO Plus 2TB             | 1         | 2.22%   |
 | Samsung SSD 970 EVO 500GB                | 1         | 2.22%   |
 | Samsung PSSD T7 500GB                    | 1         | 2.22%   |
@@ -813,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -898,10 +898,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 23     | 61.29%  |
-| 0.51-1.0   | 10        | 17     | 32.26%  |
-| 3.01-4.0   | 1         | 1      | 3.23%   |
-| 1.01-2.0   | 1         | 4      | 3.23%   |
+| 0.01-0.5   | 20        | 25     | 62.5%   |
+| 0.51-1.0   | 10        | 15     | 31.25%  |
+| 3.01-4.0   | 1         | 1      | 3.13%   |
+| 1.01-2.0   | 1         | 4      | 3.13%   |
 
 Space Total
 -----------
@@ -1410,16 +1410,16 @@ Monitor models
 |----------------------------------------------------------------------|-----------|---------|
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
-| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch         | 1         | 3.45%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
-| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
+| LG Display LCD Monitor LGD044F 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
-| JRY HDMI JRY1950 1366x768 410x220mm 18.3-inch                        | 1         | 3.45%   |
+| JRY HDMI JRY1950 1600x900 432x243mm 19.5-inch                        | 1         | 3.45%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1         | 3.45%   |
-| Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch          | 1         | 3.45%   |
+| Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch          | 1         | 3.45%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 3.45%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1         | 3.45%   |
@@ -1432,7 +1432,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1449,9 +1449,9 @@ Monitor screen resolution
 | Resolution        | Computers | Percent |
 |-------------------|-----------|---------|
 | 1920x1080 (FHD)   | 10        | 35.71%  |
-| 1366x768 (WXGA)   | 7         | 25%     |
+| 1366x768 (WXGA)   | 6         | 21.43%  |
+| 1600x900 (HD+)    | 3         | 10.71%  |
 | 1440x900 (WXGA+)  | 3         | 10.71%  |
-| 1600x900 (HD+)    | 2         | 7.14%   |
 | 3840x2160 (4K)    | 1         | 3.57%   |
 | 3200x1080         | 1         | 3.57%   |
 | 2560x1440 (QHD)   | 1         | 3.57%   |
@@ -1470,14 +1470,15 @@ Diagonal size in inches
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
 | 15      | 9         | 32.14%  |
-| 18      | 4         | 14.29%  |
 | 24      | 3         | 10.71%  |
+| 18      | 3         | 10.71%  |
 | 17      | 3         | 10.71%  |
 | Unknown | 3         | 10.71%  |
 | 21      | 2         | 7.14%   |
 | 13      | 2         | 7.14%   |
 | 27      | 1         | 3.57%   |
 | 25      | 1         | 3.57%   |
+| 19      | 1         | 3.57%   |
 
 Monitor Width
 -------------
@@ -1522,14 +1523,13 @@ Area in inch²
 |----------------|-----------|---------|
 | 101-110        | 9         | 32.14%  |
 | 201-250        | 4         | 14.29%  |
+| 151-200        | 3         | 10.71%  |
 | Unknown        | 3         | 10.71%  |
 | 81-90          | 2         | 7.14%   |
 | 251-300        | 2         | 7.14%   |
-| 151-200        | 2         | 7.14%   |
 | 141-150        | 2         | 7.14%   |
 | 121-130        | 2         | 7.14%   |
 | 301-350        | 1         | 3.57%   |
-| 131-140        | 1         | 3.57%   |
 
 Pixel Density
 -------------
@@ -1616,7 +1616,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.89%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
-| OnePlus (Shenzhen) EB2103                                         | 1         | 1.89%   |
+| OnePlus (Shenzhen) OnePlus                                        | 1         | 1.89%   |
 | NetGear A6150                                                     | 1         | 1.89%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.89%   |
@@ -1820,20 +1820,19 @@ Controller models
 ![Bluetooth Model](./All/images/pie_chart/bt_model.svg)
 
 
-| Model                                            | Computers | Percent |
-|--------------------------------------------------|-----------|---------|
-| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
-| Intel Bluetooth wireless interface               | 2         | 13.33%  |
-| Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
-| Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
-| Realtek Bluetooth Radio                          | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
-| Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
-| Intel AX200 Bluetooth                            | 1         | 6.67%   |
-| Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
+| Model                                      | Computers | Percent |
+|--------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                     | 3         | 20%     |
+| Intel Bluetooth wireless interface         | 2         | 13.33%  |
+| Apple Bluetooth USB Host Controller        | 2         | 13.33%  |
+| Toshiba RT Bluetooth Radio                 | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 6.67%   |
+| Realtek Bluetooth Radio                    | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth          | 1         | 6.67%   |
+| Qualcomm Atheros AR3011 Bluetooth          | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 6.67%   |
+| Intel AX200 Bluetooth                      | 1         | 6.67%   |
+| Broadcom BCM20702A0 Bluetooth 4.0          | 1         | 6.67%   |
 
 Sound
 -----
