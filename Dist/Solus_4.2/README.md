@@ -813,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -1411,11 +1411,11 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
-| LG Display LCD Monitor LGD044F 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
+| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
 | JRY HDMI JRY1950 1600x900 432x243mm 19.5-inch                        | 1         | 3.45%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1         | 3.45%   |
@@ -1432,7 +1432,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1         | 3.45%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1820,19 +1820,20 @@ Controller models
 ![Bluetooth Model](./All/images/pie_chart/bt_model.svg)
 
 
-| Model                                      | Computers | Percent |
-|--------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                     | 3         | 20%     |
-| Intel Bluetooth wireless interface         | 2         | 13.33%  |
-| Apple Bluetooth USB Host Controller        | 2         | 13.33%  |
-| Toshiba RT Bluetooth Radio                 | 1         | 6.67%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 6.67%   |
-| Realtek Bluetooth Radio                    | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth          | 1         | 6.67%   |
-| Qualcomm Atheros AR3011 Bluetooth          | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 6.67%   |
-| Intel AX200 Bluetooth                      | 1         | 6.67%   |
-| Broadcom BCM20702A0 Bluetooth 4.0          | 1         | 6.67%   |
+| Model                                            | Computers | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
+| Intel Bluetooth wireless interface               | 2         | 13.33%  |
+| Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
+| Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
+| Realtek Bluetooth Radio                          | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
+| Intel AX200 Bluetooth                            | 1         | 6.67%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
 
 Sound
 -----
@@ -2129,7 +2130,7 @@ Chipcard module vendors
 |--------|-----------|---------|
 | Upek   | 1         | 33.33%  |
 | Lenovo | 1         | 33.33%  |
-| BIT4ID | 1         | 33.33%  |
+| Bit4id | 1         | 33.33%  |
 
 Chipcard Model
 --------------
@@ -2143,7 +2144,7 @@ Chipcard module models
 |------------------------------------------------------------|-----------|---------|
 | Upek TouchChip Fingerprint Coprocessor (WBF advanced mode) | 1         | 33.33%  |
 | Lenovo Integrated Smart Card Reader                        | 1         | 33.33%  |
-| BIT4ID miniLector EVO                                      | 1         | 33.33%  |
+| Bit4id miniLector EVO                                      | 1         | 33.33%  |
 
 Unsupported
 -----------

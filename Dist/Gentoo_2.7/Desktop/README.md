@@ -1268,8 +1268,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 192      | 68.82%  |
-| Yes       | 87       | 31.18%  |
+| No        | 190      | 68.1%   |
+| Yes       | 89       | 31.9%   |
 
 Has Ethernet
 ------------
@@ -1464,7 +1464,7 @@ Hard drive vendors
 | HGST                | 8        | 17     | 1.34%   |
 | Unknown             | 5        | 5      | 0.84%   |
 | OCZ                 | 5        | 5      | 0.84%   |
-| Goodram             | 5        | 10     | 0.84%   |
+| GOODRAM             | 5        | 10     | 0.84%   |
 | Plextor             | 4        | 4      | 0.67%   |
 | IBM                 | 4        | 5      | 0.67%   |
 | Mushkin             | 3        | 3      | 0.5%    |
@@ -1546,7 +1546,7 @@ Hard drive models
 | WDC WD20EZRZ-00Z5HB0 2TB         | 3        | 0.4%    |
 | WDC WD20EZRX-00D8PB0 2TB         | 3        | 0.4%    |
 | WDC WD1003FZEX-00K3CA0 1TB       | 3        | 0.4%    |
-| Unknown SD/MMC/MS PRO 64GB       | 3        | 0.4%    |
+| Unknown SD/MMC/MS PRO 128GB      | 3        | 0.4%    |
 | Toshiba DT01ACA300 3TB           | 3        | 0.4%    |
 | Seagate ST8000DM004-2CX188 8TB   | 3        | 0.4%    |
 | Seagate ST8000AS0002-1NA17Z 8TB  | 3        | 0.4%    |
@@ -1663,12 +1663,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 166      | 349    | 39.9%   |
-| 0.51-1.0   | 109      | 183    | 26.2%   |
-| 1.01-2.0   | 62       | 135    | 14.9%   |
-| 3.01-4.0   | 36       | 75     | 8.65%   |
-| 2.01-3.0   | 24       | 45     | 5.77%   |
-| 4.01-10.0  | 16       | 69     | 3.85%   |
+| 0.01-0.5   | 166      | 350    | 40.1%   |
+| 0.51-1.0   | 106      | 179    | 25.6%   |
+| 1.01-2.0   | 63       | 138    | 15.22%  |
+| 3.01-4.0   | 36       | 75     | 8.7%    |
+| 2.01-3.0   | 24       | 45     | 5.8%    |
+| 4.01-10.0  | 16       | 69     | 3.86%   |
 | 10.01-20.0 | 2        | 5      | 0.48%   |
 | 20.01-50.0 | 1        | 1      | 0.24%   |
 
@@ -2536,8 +2536,8 @@ Monitor models
 | Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                  | 4        | 1.17%   |
 | Iiyama PL2409HD IVM560C 1920x1080 521x293mm 23.5-inch                  | 4        | 1.17%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 4        | 1.17%   |
-| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch               | 4        | 1.17%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 4        | 1.17%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                 | 4        | 1.17%   |
 | Fujitsu Siemens P24W-6 IPS FUS07EA 1920x1200 518x324mm 24.1-inch       | 4        | 1.17%   |
 | Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                      | 4        | 1.17%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch               | 3        | 0.87%   |
@@ -2553,7 +2553,7 @@ Monitor models
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch     | 2        | 0.58%   |
 | Samsung Electronics C49HG9x SAM0E5E 3840x1080 1196x336mm 48.9-inch     | 2        | 0.58%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 2        | 0.58%   |
-| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                | 2        | 0.58%   |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                 | 2        | 0.58%   |
 | MSI MAG272QP MSI3CA8 2560x1440 597x336mm 27.0-inch                     | 2        | 0.58%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                   | 2        | 0.58%   |
 | Idek Iiyama LCD Monitor PLE2607WS                                      | 2        | 0.58%   |
@@ -2562,11 +2562,11 @@ Monitor models
 | Goldstar 27MB85Z GSM5A72 2560x1440 597x336mm 27.0-inch                 | 2        | 0.58%   |
 | Fujitsu Siemens P24W-5 ECO FUS06A7 1920x1200 518x324mm 24.1-inch       | 2        | 0.58%   |
 | Dell U2720Q DEL41B3 3840x2160 597x336mm 27.0-inch                      | 2        | 0.58%   |
-| BenQ GL2450 BNQ78A5 1920x1080 531x298mm 24.0-inch                      | 2        | 0.58%   |
+| BenQ GL2450 BNQ78A5 1920x1080 530x300mm 24.0-inch                      | 2        | 0.58%   |
 | BenQ E2200HD BNQ790C 1920x1080 477x268mm 21.5-inch                     | 2        | 0.58%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                      | 2        | 0.58%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                       | 2        | 0.58%   |
 | AOC 2473W1M AOC2473 1920x1080 527x296mm 23.8-inch                      | 2        | 0.58%   |
-| AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                        | 2        | 0.58%   |
+| AOC 2369 AOC2369 1920x1080 509x286mm 23.0-inch                         | 2        | 0.58%   |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch       | 2        | 0.58%   |
 | Ancor Communications ROG PG279Q ACI27EC 2560x1440 598x336mm 27.0-inch  | 2        | 0.58%   |
 | Ancor Communications ASUS PB287Q ACI28A3 3840x2160 621x341mm 27.9-inch | 2        | 0.58%   |
@@ -2584,14 +2584,14 @@ Monitor models
 | ViewSonic VG3448 VSC0D38 3440x1440 800x330mm 34.1-inch                 | 1        | 0.29%   |
 | ViewSonic VG2249 Series VSCF232 1920x1080 476x268mm 21.5-inch          | 1        | 0.29%   |
 | ViewSonic VA2710-FHD VSCA736 1920x1080 598x336mm 27.0-inch             | 1        | 0.29%   |
-| Vestel Elektronik 39FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch  | 1        | 0.29%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 0.29%   |
 | Unknown LCD Monitor XMI Mi Monitor 3440x1440                           | 1        | 0.29%   |
 | Unknown LCD Monitor Impression *22W1*                                  | 1        | 0.29%   |
 | Unknown LCD Monitor GBT G27Q 2560x1440                                 | 1        | 0.29%   |
 | Sunplus Monitor TV SPVFFFF 1920x1080 376x301mm 19.0-inch               | 1        | 0.29%   |
 | Sony LCD Monitor TV  *00 3840x2160                                     | 1        | 0.29%   |
 | Samsung Electronics U32R59x SAM0F96 3840x2160 697x392mm 31.5-inch      | 1        | 0.29%   |
-| Samsung Electronics U28D590 SAM0B80 3840x2160 607x345mm 27.5-inch      | 1        | 0.29%   |
+| Samsung Electronics U28D590 SAM0B80 3840x2160 610x350mm 27.7-inch      | 1        | 0.29%   |
 | Samsung Electronics SyncMaster SAM05C5 1920x1080                       | 1        | 0.29%   |
 
 Monitor Resolution
@@ -2843,7 +2843,7 @@ Controller models
 | Intel PRO/Wireless 2200BG [Calexico2] Network Connection                      | 3        | 0.68%   |
 | Intel I350 Gigabit Network Connection                                         | 3        | 0.68%   |
 | Intel 82567LM-3 Gigabit Network Connection                                    | 3        | 0.68%   |
-| TP-Link 802.11ac NIC                                                          | 2        | 0.45%   |
+| TP-Link Archer T3U [Realtek RTL8812BU]                                        | 2        | 0.45%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                       | 2        | 0.45%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                      | 2        | 0.45%   |
 | Realtek Killer E3000 2.5GbE Controller                                        | 2        | 0.45%   |
@@ -2915,7 +2915,7 @@ Wireless models
 | Intel Wireless 7260                                            | 3        | 2.7%    |
 | Intel Tiger Lake PCH CNVi WiFi                                 | 3        | 2.7%    |
 | Intel PRO/Wireless 2200BG [Calexico2] Network Connection       | 3        | 2.7%    |
-| TP-Link 802.11ac NIC                                           | 2        | 1.8%    |
+| TP-Link Archer T3U [Realtek RTL8812BU]                         | 2        | 1.8%    |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter        | 2        | 1.8%    |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter       | 2        | 1.8%    |
 | Qualcomm Atheros AR9271 802.11n                                | 2        | 1.8%    |
@@ -3012,7 +3012,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 1        | 0.31%   |
 | QLogic cLOM8214 1/10GbE Controller                                            | 1        | 0.31%   |
 | Nvidia MCP79 Ethernet                                                         | 1        | 0.31%   |
-| MediaTek moto e(6) plus                                                       | 1        | 0.31%   |
+| MediaTek moto e6s                                                             | 1        | 0.31%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                       | 1        | 0.31%   |
 | Intel Ethernet Controller X710 for 10GbE SFP+                                 | 1        | 0.31%   |
 | Intel Ethernet Connection I217-V                                              | 1        | 0.31%   |
@@ -3133,7 +3133,7 @@ Controller models
 | Intel AX201 Bluetooth                                                | 7        | 6.48%   |
 | Intel Wireless-AC 3168 Bluetooth                                     | 6        | 5.56%   |
 | Intel Bluetooth wireless interface                                   | 6        | 5.56%   |
-| Intel Bluetooth Device                                               | 5        | 4.63%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter                             | 5        | 4.63%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 4        | 3.7%    |
 | ASUS Broadcom BCM20702A0 Bluetooth                                   | 4        | 3.7%    |
 | Realtek Bluetooth Radio                                              | 3        | 2.78%   |
@@ -3257,7 +3257,6 @@ Sound card models
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]           | 4        | 0.67%   |
 | Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller                    | 3        | 0.5%    |
 | Nvidia High Definition Audio Controller                                           | 3        | 0.5%    |
-| Logitech USB Headset                                                              | 3        | 0.5%    |
 | Kingston Technology HyperX 7.1 Audio                                              | 3        | 0.5%    |
 | JMTek USB PnP Audio Device                                                        | 3        | 0.5%    |
 | Intel Tiger Lake-H HD Audio Controller                                            | 3        | 0.5%    |
@@ -3274,6 +3273,7 @@ Sound card models
 | AMD FCH Azalia Controller                                                         | 3        | 0.5%    |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 3        | 0.5%    |
 | SteelSeries ApS SteelSeries Arctis 7                                              | 2        | 0.34%   |
+| SAVITECH SA9023 audio controller                                                  | 2        | 0.34%   |
 
 Memory
 ------
@@ -3331,15 +3331,15 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM SDRAM                      | 3        | 0.98%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s       | 3        | 0.98%   |
 | Kingston RAM KHX2666C15D4/8G 8GB DIMM DDR4 3200MT/s       | 3        | 0.98%   |
-| Kingston RAM 9965745-002.A00G 16GB DIMM DDR4              | 3        | 0.98%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 3        | 0.98%   |
+| Kingston RAM 9965745-002.A00G 16GB DIMM DDR4 2667MT/s     | 3        | 0.98%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s    | 3        | 0.98%   |
 | G.Skill RAM F4-3200C16-16GTZ 16384MB DIMM DDR4 2933MT/s   | 3        | 0.98%   |
 | G.Skill RAM F4-3200C14-8GTZ 8GB DIMM DDR4 3733MT/s        | 3        | 0.98%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s       | 3        | 0.98%   |
 | Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 3000MT/s      | 3        | 0.98%   |
 | Crucial RAM CT4G4DFS8213.C8FAD11 4GB DIMM DDR4 2133MT/s   | 3        | 0.98%   |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s    | 3        | 0.98%   |
-| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3100MT/s    | 3        | 0.98%   |
+| Corsair RAM CMK32GX4M2A2666C16 16384MB DIMM DDR4 3100MT/s | 3        | 0.98%   |
 | Unknown RAM Module 4096MB DIMM                            | 2        | 0.66%   |
 | Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s     | 2        | 0.66%   |
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s        | 2        | 0.66%   |
@@ -3350,7 +3350,7 @@ Memory module models
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                 | 2        | 0.66%   |
 | Kingston RAM KHX2666C16D4/16GX 16GB DIMM DDR4 2667MT/s    | 2        | 0.66%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s     | 2        | 0.66%   |
-| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s  | 2        | 0.66%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 2        | 0.66%   |
 | Kingston RAM 9905625-066.A00G 16GB DIMM DDR4 2667MT/s     | 2        | 0.66%   |
 | GOODRAM RAM GR1600D364L11/2G 2GB DIMM DDR3 1333MT/s       | 2        | 0.66%   |
 | G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s     | 2        | 0.66%   |
@@ -3370,7 +3370,7 @@ Memory module models
 | Corsair RAM CMK32GX4M2A2400C16 16GB DIMM DDR4 2400MT/s    | 2        | 0.66%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 2        | 0.66%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 2        | 0.66%   |
-| Corsair RAM CMK16GX4M2A2666C16 8192MB DIMM DDR4 3200MT/s  | 2        | 0.66%   |
+| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3200MT/s     | 2        | 0.66%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s     | 2        | 0.66%   |
 | A-DATA RAM DDR4 3200 8GB DIMM DDR4 3400MT/s               | 2        | 0.66%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                      | 1        | 0.33%   |
@@ -3555,12 +3555,12 @@ Camera device vendors
 | ARC International             | 3        | 4.35%   |
 | Realtek Semiconductor         | 2        | 2.9%    |
 | MacroSilicon                  | 2        | 2.9%    |
+| webcam                        | 1        | 1.45%   |
 | Sunplus Innovation Technology | 1        | 1.45%   |
 | KYE Systems (Mouse Systems)   | 1        | 1.45%   |
 | Creative Technology           | 1        | 1.45%   |
 | AVerMedia Technologies        | 1        | 1.45%   |
 | A4Tech                        | 1        | 1.45%   |
-| 2M UVC CAMERA                 | 1        | 1.45%   |
 
 Camera Model
 ------------
@@ -3570,42 +3570,43 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                            | Desktops | Percent |
-|--------------------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920                      | 11       | 15.71%  |
-| Logitech Webcam C270                             | 9        | 12.86%  |
-| Logitech C922 Pro Stream Webcam                  | 4        | 5.71%   |
-| Z-Star Venus USB2.0 Camera                       | 3        | 4.29%   |
-| Samsung Galaxy A5 (MTP)                          | 3        | 4.29%   |
-| Logitech Webcam C310                             | 3        | 4.29%   |
-| ARC International Camera                         | 3        | 4.29%   |
-| Realtek FULL HD 1080P Webcam                     | 2        | 2.86%   |
-| MacroSilicon USB3.0 HD VIDEO                     | 2        | 2.86%   |
-| Logitech Webcam C925e                            | 2        | 2.86%   |
-| Logitech Webcam C200                             | 2        | 2.86%   |
-| Logitech HD Webcam C615                          | 2        | 2.86%   |
-| Logitech C920 PRO HD Webcam                      | 2        | 2.86%   |
-| Logitech B525 HD Webcam                          | 2        | 2.86%   |
-| Z-Star Vimicro USB Camera (Altair)               | 1        | 1.43%   |
-| Sunplus CA FLINT                                 | 1        | 1.43%   |
-| Microdia HDP Webcam USB                          | 1        | 1.43%   |
-| Microdia Defender G-Lens 2577 HD720p Camera      | 1        | 1.43%   |
-| Microdia Camera                                  | 1        | 1.43%   |
-| Microdia Amcrest AWC2198 USB Webcam              | 1        | 1.43%   |
-| Logitech Webcam Pro 9000                         | 1        | 1.43%   |
-| Logitech Webcam C930e                            | 1        | 1.43%   |
-| Logitech Webcam C300                             | 1        | 1.43%   |
-| Logitech Webcam C170                             | 1        | 1.43%   |
-| Logitech QuickCam Pro 9000                       | 1        | 1.43%   |
-| Logitech QuickCam Communicate MP/S5500           | 1        | 1.43%   |
-| Logitech HD Webcam C510                          | 1        | 1.43%   |
-| Logitech C505e HD Webcam                         | 1        | 1.43%   |
-| Logitech BRIO Ultra HD Webcam                    | 1        | 1.43%   |
-| KYE Systems (Mouse Systems) AUKEY PC-LM1E Camera | 1        | 1.43%   |
-| Creative VF0610 Live! Cam Socialize HD           | 1        | 1.43%   |
-| AVerMedia USB Device                             | 1        | 1.43%   |
-| A4Tech REDRAGON Live Camera                      | 1        | 1.43%   |
-| 2M UVC CAMERA NexiGo N660 FHD Webcam             | 1        | 1.43%   |
+| Model                                       | Desktops | Percent |
+|---------------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920                 | 11       | 15.71%  |
+| Logitech Webcam C270                        | 9        | 12.86%  |
+| Logitech C922 Pro Stream Webcam             | 4        | 5.71%   |
+| Z-Star Venus USB2.0 Camera                  | 3        | 4.29%   |
+| Samsung Galaxy series, misc. (MTP mode)     | 3        | 4.29%   |
+| Logitech Webcam C310                        | 3        | 4.29%   |
+| ARC International Camera                    | 3        | 4.29%   |
+| MacroSilicon USB Video                      | 2        | 2.86%   |
+| Logitech Webcam C925e                       | 2        | 2.86%   |
+| Logitech Webcam C200                        | 2        | 2.86%   |
+| Logitech HD Webcam C615                     | 2        | 2.86%   |
+| Logitech C920 PRO HD Webcam                 | 2        | 2.86%   |
+| Logitech B525 HD Webcam                     | 2        | 2.86%   |
+| Z-Star A4 TECH USB2.0 PC Camera E           | 1        | 1.43%   |
+| webcam webcam                               | 1        | 1.43%   |
+| Sunplus MiraBox Video Capture               | 1        | 1.43%   |
+| Realtek Streaming Webcam                    | 1        | 1.43%   |
+| Realtek FULL HD 1080P Webcam                | 1        | 1.43%   |
+| Microdia Webcam Vitade AF                   | 1        | 1.43%   |
+| Microdia USB 2.0 Camera                     | 1        | 1.43%   |
+| Microdia Defender G-Lens 2577 HD720p Camera | 1        | 1.43%   |
+| Microdia Camera                             | 1        | 1.43%   |
+| Logitech Webcam Pro 9000                    | 1        | 1.43%   |
+| Logitech Webcam C930e                       | 1        | 1.43%   |
+| Logitech Webcam C300                        | 1        | 1.43%   |
+| Logitech Webcam C170                        | 1        | 1.43%   |
+| Logitech QuickCam Pro 9000                  | 1        | 1.43%   |
+| Logitech QuickCam Communicate MP/S5500      | 1        | 1.43%   |
+| Logitech HD Webcam C510                     | 1        | 1.43%   |
+| Logitech C505e HD Webcam                    | 1        | 1.43%   |
+| Logitech BRIO Ultra HD Webcam               | 1        | 1.43%   |
+| KYE Systems (Mouse Systems) PC-LM1E Camera  | 1        | 1.43%   |
+| Creative VF0610 Live! Cam Socialize HD      | 1        | 1.43%   |
+| AVerMedia USB Device                        | 1        | 1.43%   |
+| A4Tech Full HD 720P PC Camera               | 1        | 1.43%   |
 
 Security
 --------

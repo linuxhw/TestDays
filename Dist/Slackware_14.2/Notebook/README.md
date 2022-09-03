@@ -1395,7 +1395,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 3.7%    |
-| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch             | 1         | 3.7%    |
+| Panasonic LCD Monitor MEI96A2 3840x2160 382x215mm 17.3-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD03D7 1366x768 310x174mm 14.0-inch          | 1         | 3.7%    |
@@ -1404,7 +1404,7 @@ Monitor models
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 3.7%    |
 | Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch              | 1         | 3.7%    |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 3.7%    |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 381x214mm 17.2-inch     | 1         | 3.7%    |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch     | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch      | 1         | 3.7%    |
@@ -1778,7 +1778,7 @@ Controller models
 | Intel Bluetooth wireless interface                  | 10        | 45.45%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 13.64%  |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 9.09%   |
-| Intel Bluetooth Device                              | 2         | 9.09%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 9.09%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 4.55%   |
 | Realtek Bluetooth Radio                             | 1         | 4.55%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.55%   |
@@ -1867,33 +1867,33 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Notebooks | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 7.69%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 3.85%   |
-| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 3.85%   |
-| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 3.85%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s         | 1         | 3.85%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.85%   |
-| SK hynix RAM HMT41GS6MFR8C-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 3.85%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 3.85%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2400MT/s    | 1         | 3.85%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 3.85%   |
-| Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 3.85%   |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 3.85%   |
-| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 3.85%   |
-| Elpida RAM EBJ81UG8BBU0-GN-F 8GB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
-| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
-| Corsair RAM CMSO4GX3M1C1600C11 4096MB SODIMM DDR3 1600MT/s   | 1         | 3.85%   |
+| Model                                                      | Notebooks | Percent |
+|------------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s     | 2         | 7.69%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                     | 1         | 3.85%   |
+| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
+| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 3.85%   |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s      | 1         | 3.85%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 3.85%   |
+| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 3.85%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s     | 1         | 3.85%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s      | 1         | 3.85%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s   | 1         | 3.85%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 3.85%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 3.85%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s     | 1         | 3.85%   |
+| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s  | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s      | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s      | 1         | 3.85%   |
+| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s      | 1         | 3.85%   |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s    | 1         | 3.85%   |
+| Elpida RAM EBJ81UG8BBU0-GN-F 8GB SODIMM DDR3 1600MT/s      | 1         | 3.85%   |
+| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s     | 1         | 3.85%   |
+| Corsair RAM CMSO4GX3M1C1600C11 4096MB SODIMM DDR3 1600MT/s | 1         | 3.85%   |
 
 Memory Kind
 -----------
@@ -2025,12 +2025,11 @@ Camera device models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
+| Realtek USB Camera                                                         | 2         | 8.7%    |
 | Chicony Integrated Camera                                                  | 2         | 8.7%    |
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 4.35%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 4.35%   |
 | Silicon Motion Web Camera                                                  | 1         | 4.35%   |
-| Realtek USB Camera                                                         | 1         | 4.35%   |
-| Realtek HP Webcam-101                                                      | 1         | 4.35%   |
 | Quanta HP Webcam                                                           | 1         | 4.35%   |
 | Motorola PCS XT1033 [Moto G], PTP mode                                     | 1         | 4.35%   |
 | Lite-On TOSHIBA Web Camera - FHD                                           | 1         | 4.35%   |

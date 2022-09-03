@@ -759,7 +759,7 @@ Hard drive models
 | Seagate ST9500325AS 500GB                   | 1         | 3.33%   |
 | Seagate ST9120822AS 120GB                   | 1         | 3.33%   |
 | Seagate ST1000LM035-1RK172 1TB              | 1         | 3.33%   |
-| Seagate Expansion 1TB                       | 1         | 3.33%   |
+| Seagate Expansion 500GB                     | 1         | 3.33%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB | 1         | 3.33%   |
 | SanDisk SSD PLUS 240GB                      | 1         | 3.33%   |
 | SanDisk SDSSDA480G 480GB                    | 1         | 3.33%   |
@@ -771,9 +771,9 @@ Hard drive models
 | Lexar 120GB SSD                             | 1         | 3.33%   |
 | Kingston SHFS37A120G 120GB SSD              | 1         | 3.33%   |
 | Kingston SA400S37240G 240GB SSD             | 1         | 3.33%   |
-| KingSpec P3-128 128GB SSD                   | 1         | 3.33%   |
+| KingSpec P3-128 128GB                       | 1         | 3.33%   |
 | Hitachi HTS545025B9A300 250GB               | 1         | 3.33%   |
-| addlink S10 120GB                           | 1         | 3.33%   |
+| addlink S10 960GB                           | 1         | 3.33%   |
 
 HDD Vendor
 ----------
@@ -849,8 +849,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 18        | 21     | 75%     |
-| 0.51-1.0   | 6         | 9      | 25%     |
+| 0.01-0.5   | 18        | 22     | 78.26%  |
+| 0.51-1.0   | 5         | 8      | 21.74%  |
 
 Space Total
 -----------
@@ -1687,23 +1687,23 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                          | Notebooks | Percent |
-|------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                        | 4         | 21.05%  |
-| Intel Bluetooth wireless interface             | 2         | 10.53%  |
-| Toshiba RT Bluetooth Radio                     | 1         | 5.26%   |
-| Toshiba Integrated Bluetooth HCI               | 1         | 5.26%   |
-| Realtek RTL8821A Bluetooth                     | 1         | 5.26%   |
-| Ralink RT3290 Bluetooth                        | 1         | 5.26%   |
-| Qualcomm Atheros  Bluetooth Device             | 1         | 5.26%   |
-| Lite-On Atheros AR3012 Bluetooth               | 1         | 5.26%   |
-| Intel Centrino Bluetooth Wireless Transceiver  | 1         | 5.26%   |
-| Intel Bluetooth Device                         | 1         | 5.26%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 5.26%   |
-| Intel AX201 Bluetooth                          | 1         | 5.26%   |
-| IMC Networks Bluetooth Device                  | 1         | 5.26%   |
-| Foxconn / Hon Hai BCM43142A0                   | 1         | 5.26%   |
-| Broadcom HP Portable Valentine                 | 1         | 5.26%   |
+| Model                                            | Notebooks | Percent |
+|--------------------------------------------------|-----------|---------|
+| Realtek Bluetooth Radio                          | 4         | 21.05%  |
+| Intel Bluetooth wireless interface               | 2         | 10.53%  |
+| Toshiba RT Bluetooth Radio                       | 1         | 5.26%   |
+| Toshiba Integrated Bluetooth HCI                 | 1         | 5.26%   |
+| Realtek RTL8821A Bluetooth                       | 1         | 5.26%   |
+| Ralink RT3290 Bluetooth                          | 1         | 5.26%   |
+| Qualcomm Atheros  Bluetooth Device               | 1         | 5.26%   |
+| Lite-On Atheros AR3012 Bluetooth                 | 1         | 5.26%   |
+| Intel Centrino Bluetooth Wireless Transceiver    | 1         | 5.26%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 1         | 5.26%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)   | 1         | 5.26%   |
+| Intel AX201 Bluetooth                            | 1         | 5.26%   |
+| IMC Networks Bluetooth Device                    | 1         | 5.26%   |
+| Foxconn / Hon Hai BCM43142A0                     | 1         | 5.26%   |
+| Broadcom HP Portable Valentine                   | 1         | 5.26%   |
 
 Sound
 -----

@@ -1238,8 +1238,8 @@ Monitor models
 | Samsung Electronics S27D391 SAM0B88 1920x1080 598x336mm 27.0-inch   | 1        | 7.69%   |
 | Samsung Electronics LCD Monitor S24C650                             | 1        | 7.69%   |
 | SAC LED MONITOR SAC952D 1920x1080 480x270mm 21.7-inch               | 1        | 7.69%   |
-| Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch          | 1        | 7.69%   |
-| Hewlett-Packard E273q HPN3474 2560x1440 597x336mm 27.0-inch         | 1        | 7.69%   |
+| Hewlett-Packard Z24i HWP309E 1920x1200 520x320mm 24.0-inch          | 1        | 7.69%   |
+| Hewlett-Packard E273q HPN3474 2560x1440 600x340mm 27.2-inch         | 1        | 7.69%   |
 | Goldstar E2240 GSM57A3 1920x1080 477x268mm 21.5-inch                | 1        | 7.69%   |
 | Eizo EV2460 ENC3129 1920x1080 528x297mm 23.9-inch                   | 1        | 7.69%   |
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                   | 1        | 7.69%   |
@@ -1750,9 +1750,9 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Microdia Amcrest AWC2198 USB Webcam | 1        | 100%    |
+| Model                     | Desktops | Percent |
+|---------------------------|----------|---------|
+| Microdia Webcam Vitade AF | 1        | 100%    |
 
 Security
 --------

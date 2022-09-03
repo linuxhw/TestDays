@@ -1207,7 +1207,7 @@ Monitor models
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                | 1        | 7.69%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
@@ -1523,12 +1523,12 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Realtek Bluetooth Radio             | 1        | 25%     |
-| Intel Bluetooth Device              | 1        | 25%     |
-| Broadcom BCM20702A0 Bluetooth 4.0   | 1        | 25%     |
-| Apple Bluetooth USB Host Controller | 1        | 25%     |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Realtek Bluetooth Radio                  | 1        | 25%     |
+| Intel Wireless-AC 9260 Bluetooth Adapter | 1        | 25%     |
+| Broadcom BCM20702A0 Bluetooth 4.0        | 1        | 25%     |
+| Apple Bluetooth USB Host Controller      | 1        | 25%     |
 
 Sound
 -----
@@ -1755,7 +1755,7 @@ Chipcard module vendors
 
 | Vendor | Desktops | Percent |
 |--------|----------|---------|
-| BIT4ID | 1        | 100%    |
+| Bit4id | 1        | 100%    |
 
 Chipcard Model
 --------------
@@ -1767,7 +1767,7 @@ Chipcard module models
 
 | Model                 | Desktops | Percent |
 |-----------------------|----------|---------|
-| BIT4ID miniLector EVO | 1        | 100%    |
+| Bit4id miniLector EVO | 1        | 100%    |
 
 Unsupported
 -----------

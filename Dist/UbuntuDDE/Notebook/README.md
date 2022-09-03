@@ -603,8 +603,8 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
+| 2014 | 7         | 16.28%  |
 | 2018 | 6         | 13.95%  |
-| 2014 | 6         | 13.95%  |
 | 2010 | 5         | 11.63%  |
 | 2011 | 4         | 9.3%    |
 | 2021 | 3         | 6.98%   |
@@ -613,9 +613,9 @@ Motherboard manufacture year
 | 2008 | 3         | 6.98%   |
 | 2017 | 2         | 4.65%   |
 | 2016 | 2         | 4.65%   |
-| 2015 | 2         | 4.65%   |
 | 2013 | 2         | 4.65%   |
 | 2019 | 1         | 2.33%   |
+| 2015 | 1         | 2.33%   |
 | 2009 | 1         | 2.33%   |
 
 Form Factor
@@ -900,12 +900,12 @@ Hard drive models
 | WDC WD10JPLX-00MBPT0 1TB               | 1         | 1.82%   |
 | Unknown SD16G  16GB                    | 1         | 1.82%   |
 | Unknown HAG4a2  16GB                   | 1         | 1.82%   |
-| Toshiba NVMe SSD Drive 256GB           | 1         | 1.82%   |
 | Toshiba MQ04ABF100 1TB                 | 1         | 1.82%   |
 | Toshiba MQ01ABD100 1TB                 | 1         | 1.82%   |
 | Toshiba MQ01ABD075 752GB               | 1         | 1.82%   |
 | Toshiba MK7559GSXP 752GB               | 1         | 1.82%   |
 | Toshiba MK5059GSXP 500GB               | 1         | 1.82%   |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD    | 1         | 1.82%   |
 | SK hynix PC401 NVMe 1TB                | 1         | 1.82%   |
 | SK hynix NVMe SSD Drive 1024GB         | 1         | 1.82%   |
 | Seagate ST9500325AS 500GB              | 1         | 1.82%   |
@@ -928,7 +928,7 @@ Hard drive models
 | Kingston SA400S37120G 120GB SSD        | 1         | 1.82%   |
 | Kingston RBU-SNS8100S3128GD1 128GB SSD | 1         | 1.82%   |
 | KingSpec MSH-128 128GB SSD             | 1         | 1.82%   |
-| Intenso SATA III SSD 120GB             | 1         | 1.82%   |
+| Intenso SATA III SSD 240GB             | 1         | 1.82%   |
 | Hitachi HTS543232A7A384 320GB          | 1         | 1.82%   |
 | HGST HTS721010A9E630 1TB               | 1         | 1.82%   |
 | HGST HTS541010B7E610 1TB               | 1         | 1.82%   |
@@ -1551,19 +1551,19 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch    | 2         | 4.08%   |
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                  | 1         | 2.04%   |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 2.04%   |
-| Samsung Electronics T22B300 SAM092D 1920x1080 480x270mm 21.7-inch        | 1         | 2.04%   |
+| Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 2.04%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch     | 1         | 2.04%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
-| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                  | 1         | 2.04%   |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                   | 1         | 2.04%   |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch             | 1         | 2.04%   |
 | LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch             | 1         | 2.04%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 2.04%   |
@@ -1595,7 +1595,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.04%   |
 | AU Optronics LCD Monitor AUO17ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.04%   |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch            | 1         | 2.04%   |
-| AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                          | 1         | 2.04%   |
+| AOC 2369 AOC2369 1920x1080 509x286mm 23.0-inch                           | 1         | 2.04%   |
 
 Monitor Resolution
 ------------------
@@ -2005,16 +2005,17 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 7         | 21.21%  |
-| Qualcomm Atheros  Bluetooth Device                  | 3         | 9.09%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 2         | 6.06%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 6.06%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 6.06%   |
-| Intel Bluetooth Device                              | 2         | 6.06%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 2         | 6.06%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 6.06%   |
 | Intel AX201 Bluetooth                               | 2         | 6.06%   |
 | IMC Networks Bluetooth Radio                        | 2         | 6.06%   |
 | Toshiba Bluetooth Device                            | 1         | 3.03%   |
 | Realtek Bluetooth Radio                             | 1         | 3.03%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 3.03%   |
+| Qualcomm Atheros  Bluetooth Device                  | 1         | 3.03%   |
 | Intel AX210 Bluetooth                               | 1         | 3.03%   |
 | IMC Networks Bluetooth USB Host Controller          | 1         | 3.03%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.03%   |
@@ -2114,7 +2115,7 @@ Memory module models
 |------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 2         | 8%      |
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s     | 1         | 4%      |
@@ -2123,10 +2124,10 @@ Memory module models
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Samsung RAM M471A5244BB0-CRC 4096MB SODIMM DDR4 2667MT/s   | 1         | 4%      |
-| Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
+| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
+| Samsung RAM M471A5244BB0-CPB 4096MB SODIMM DDR4 2400MT/s   | 1         | 4%      |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s     | 1         | 4%      |
-| Samsung RAM M471A1K43EB1-CWE 8192MB SODIMM DDR4 3200MT/s   | 1         | 4%      |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Ramaxel RAM RMSA3270MB86H9F2400 4GB SODIMM DDR4 2400MT/s   | 1         | 4%      |
 | Micron RAM Module 4GB SODIMM DDR3 1600MT/s                 | 1         | 4%      |
@@ -2294,7 +2295,7 @@ Camera device models
 | Chicony HD WebCam                                                     | 1         | 2.7%    |
 | Chicony EasyCamera                                                    | 1         | 2.7%    |
 | Acer Integrated Camera                                                | 1         | 2.7%    |
-| Acer HP TrueVision HD Webcam                                          | 1         | 2.7%    |
+| Acer HP TrueVision HD                                                 | 1         | 2.7%    |
 | Acer EasyCamera                                                       | 1         | 2.7%    |
 | Acer BisonCam, NB Pro                                                 | 1         | 2.7%    |
 

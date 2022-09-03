@@ -895,8 +895,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 29       | 51.79%  |
-| No        | 27       | 48.21%  |
+| Yes       | 30       | 52.63%  |
+| No        | 27       | 47.37%  |
 
 Has Ethernet
 ------------
@@ -1151,7 +1151,7 @@ Hard drive models
 | WDC WD1002FAEX-00Z3A0 1TB        | 1        | 0.64%   |
 | WDC WD1001FAES-75W7A0 1TB        | 1        | 0.64%   |
 | Verbatim USB External SSD 256GB  | 1        | 0.64%   |
-| Unknown SD/MMC/MS PRO 64GB       | 1        | 0.64%   |
+| Unknown SD/MMC/MS PRO 128GB      | 1        | 0.64%   |
 
 HDD Vendor
 ----------
@@ -1239,13 +1239,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 46       | 98     | 44.23%  |
-| 0.51-1.0   | 29       | 78     | 27.88%  |
-| 1.01-2.0   | 15       | 23     | 14.42%  |
-| 2.01-3.0   | 6        | 30     | 5.77%   |
-| 3.01-4.0   | 5        | 7      | 4.81%   |
-| 4.01-10.0  | 2        | 5      | 1.92%   |
-| 10.01-20.0 | 1        | 1      | 0.96%   |
+| 0.01-0.5   | 47       | 106    | 44.76%  |
+| 0.51-1.0   | 29       | 70     | 27.62%  |
+| 1.01-2.0   | 14       | 22     | 13.33%  |
+| 3.01-4.0   | 6        | 8      | 5.71%   |
+| 2.01-3.0   | 6        | 30     | 5.71%   |
+| 4.01-10.0  | 2        | 5      | 1.9%    |
+| 10.01-20.0 | 1        | 1      | 0.95%   |
 
 Space Total
 -----------
@@ -1898,12 +1898,12 @@ Monitor models
 | Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                          | 1        | 1.33%   |
 | Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                     | 1        | 1.33%   |
 | Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch   | 1        | 1.33%   |
-| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch    | 1        | 1.33%   |
+| Samsung Electronics SyncMaster SAM0471 1360x768 340x190mm 15.3-inch    | 1        | 1.33%   |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1        | 1.33%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 1020x570mm 46.0-inch | 1        | 1.33%   |
 | Samsung Electronics LCD Monitor S24D330 3840x1080                      | 1        | 1.33%   |
 | Samsung Electronics LCD Monitor S24D330                                | 1        | 1.33%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1        | 1.33%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch      | 1        | 1.33%   |
 | RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                 | 1        | 1.33%   |
 | QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch               | 1        | 1.33%   |
 | PKB LCD Monitor Viseo223DX 1920x1080                                   | 1        | 1.33%   |
@@ -2454,7 +2454,7 @@ Sound card models
 | Intel C600/X79 series chipset High Definition Audio Controller             | 1        | 0.9%    |
 | Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 0.9%    |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 1        | 0.9%    |
-| Corsair Corsair ST100 Headset Output                                      | 1        | 0.9%    |
+| Corsair ST100 Headset Output                                              | 1        | 0.9%    |
 | C-Media Electronics Audio Adapter                                          | 1        | 0.9%    |
 | BEHRINGER International UMC404HD 192k                                      | 1        | 0.9%    |
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                     | 1        | 0.9%    |
@@ -2498,44 +2498,44 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 3334MT/s            | 2        | 5.26%   |
-| G.Skill RAM F3-12800CL9-4GBXM 4096MB DIMM DDR3 1600MT/s        | 2        | 5.26%   |
-| Unknown RAM Module 8GB DIMM 1333MT/s                           | 1        | 2.63%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 2.63%   |
-| Unknown RAM Module 4GB DIMM 667MT/s                            | 1        | 2.63%   |
-| Unknown RAM Module 4096MB DIMM 667MT/s                         | 1        | 2.63%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 1        | 2.63%   |
-| Unknown RAM Module 2GB DIMM 667MT/s                            | 1        | 2.63%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                   | 1        | 2.63%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1        | 2.63%   |
-| Unknown RAM Module 2048MB DIMM 667MT/s                         | 1        | 2.63%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 1        | 2.63%   |
-| Team RAM Elite-16 4GB DIMM DDR3 1600MT/s                       | 1        | 2.63%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 2.63%   |
-| Samsung RAM M391A2K43BB1-CTD 16384MB DIMM DDR4 3600MT/s        | 1        | 2.63%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s         | 1        | 2.63%   |
-| Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s             | 1        | 2.63%   |
-| Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s            | 1        | 2.63%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s              | 1        | 2.63%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s              | 1        | 2.63%   |
-| Kingston RAM KHX2133C11D3/8GX 8GB DIMM DDR3 2133MT/s           | 1        | 2.63%   |
-| Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s          | 1        | 2.63%   |
-| Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s        | 1        | 2.63%   |
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s         | 1        | 2.63%   |
-| Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s          | 1        | 2.63%   |
-| Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2133MT/s           | 1        | 2.63%   |
-| Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s         | 1        | 2.63%   |
-| Kingston RAM 9905403-439.A00LF 4096MB DIMM 1600MT/s            | 1        | 2.63%   |
-| Goodram RAM GY1600D364L10/8G 8192MB DIMM DDR3 1600MT/s         | 1        | 2.63%   |
-| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s             | 1        | 2.63%   |
-| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s             | 1        | 2.63%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s            | 1        | 2.63%   |
-| G.Skill RAM F4-2133C15-8GNT 8GB DIMM DDR4 2133MT/s             | 1        | 2.63%   |
-| Crucial RAM CT51264BA1339.D16F 4GB DIMM DDR3 1333MT/s          | 1        | 2.63%   |
-| Corsair RAM CMZ32GX3M4A1600C9 8GB DIMM DDR3 1600MT/s           | 1        | 2.63%   |
-| Corsair RAM CMSO8GX4M1A2133C15 8GB SODIMM DDR4 2133MT/s        | 1        | 2.63%   |
+| Model                                                        | Desktops | Percent |
+|--------------------------------------------------------------|----------|---------|
+| Kingston RAM KHX2400C15/16G 16384MB DIMM DDR4 3334MT/s       | 2        | 5.26%   |
+| G.Skill RAM F3-12800CL9-4GBXM 4096MB DIMM DDR3 1600MT/s      | 2        | 5.26%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                         | 1        | 2.63%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 1        | 2.63%   |
+| Unknown RAM Module 4GB DIMM 667MT/s                          | 1        | 2.63%   |
+| Unknown RAM Module 4096MB DIMM 667MT/s                       | 1        | 2.63%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                      | 1        | 2.63%   |
+| Unknown RAM Module 2GB DIMM 667MT/s                          | 1        | 2.63%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                 | 1        | 2.63%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 1        | 2.63%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                       | 1        | 2.63%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB DIMM DDR3 2400MT/s | 1        | 2.63%   |
+| Team RAM Elite-16 4GB DIMM DDR3 1600MT/s                     | 1        | 2.63%   |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                   | 1        | 2.63%   |
+| Samsung RAM M391A2K43BB1-CTD 16384MB DIMM DDR4 3600MT/s      | 1        | 2.63%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s       | 1        | 2.63%   |
+| Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s           | 1        | 2.63%   |
+| Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s          | 1        | 2.63%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s            | 1        | 2.63%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s            | 1        | 2.63%   |
+| Kingston RAM KHX2133C11D3/8GX 8GB DIMM DDR3 2133MT/s         | 1        | 2.63%   |
+| Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s        | 1        | 2.63%   |
+| Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s          | 1        | 2.63%   |
+| Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s        | 1        | 2.63%   |
+| Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2133MT/s         | 1        | 2.63%   |
+| Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s       | 1        | 2.63%   |
+| Kingston RAM 9905403-439.A00LF 4096MB DIMM 1600MT/s          | 1        | 2.63%   |
+| Goodram RAM GY1600D364L10/8G 8192MB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
+| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s        | 1        | 2.63%   |
+| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s           | 1        | 2.63%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s          | 1        | 2.63%   |
+| G.Skill RAM F4-2133C15-8GNT 8GB DIMM DDR4 2133MT/s           | 1        | 2.63%   |
+| Crucial RAM CT51264BA1339.D16F 4GB DIMM DDR3 1333MT/s        | 1        | 2.63%   |
+| Corsair RAM CMZ32GX3M4A1600C9 8GB DIMM DDR3 1600MT/s         | 1        | 2.63%   |
+| Corsair RAM CMSO8GX4M1A2133C15 8GB SODIMM DDR4 2133MT/s      | 1        | 2.63%   |
 
 Memory Kind
 -----------
@@ -2761,9 +2761,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 49       | 85.96%  |
-| 1     | 7        | 12.28%  |
-| 2     | 1        | 1.75%   |
+| 0     | 49       | 84.48%  |
+| 1     | 8        | 13.79%  |
+| 2     | 1        | 1.72%   |
 
 Unsupported Device Types
 ------------------------
@@ -2775,10 +2775,10 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 3        | 37.5%   |
-| Unassigned class         | 1        | 12.5%   |
-| Sound                    | 1        | 12.5%   |
-| Multimedia controller    | 1        | 12.5%   |
-| Communication controller | 1        | 12.5%   |
-| Chipcard                 | 1        | 12.5%   |
+| Graphics card            | 4        | 44.44%  |
+| Unassigned class         | 1        | 11.11%  |
+| Sound                    | 1        | 11.11%  |
+| Multimedia controller    | 1        | 11.11%  |
+| Communication controller | 1        | 11.11%  |
+| Chipcard                 | 1        | 11.11%  |
 

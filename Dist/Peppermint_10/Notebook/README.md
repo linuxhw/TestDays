@@ -960,8 +960,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 88        | 60.27%  |
-| No        | 58        | 39.73%  |
+| Yes       | 87        | 59.59%  |
+| No        | 59        | 40.41%  |
 
 Has Ethernet
 ------------
@@ -1189,7 +1189,7 @@ Hard drive models
 | WDC WD3200BPVT-24JJ5T0 320GB               | 2         | 1.27%   |
 | WDC WD3200BPVT-22ZEST0 320GB               | 2         | 1.27%   |
 | WDC WD1200BEVS-22UST0 120GB                | 2         | 1.27%   |
-| Unknown SD/MMC/MS PRO 64GB                 | 2         | 1.27%   |
+| Unknown SD/MMC/MS PRO 128GB                | 2         | 1.27%   |
 | Unknown MMC Card  16GB                     | 2         | 1.27%   |
 | Toshiba MK5055GSX 500GB                    | 2         | 1.27%   |
 | Seagate ST750LM022 HN-M750MBB 752GB        | 2         | 1.27%   |
@@ -1333,9 +1333,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 115       | 139    | 85.82%  |
-| 0.51-1.0   | 17        | 18     | 12.69%  |
-| 1.01-2.0   | 2         | 2      | 1.49%   |
+| 0.01-0.5   | 115       | 140    | 86.47%  |
+| 0.51-1.0   | 16        | 17     | 12.03%  |
+| 1.01-2.0   | 2         | 2      | 1.5%    |
 
 Space Total
 -----------
@@ -1991,11 +1991,11 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                 | 6         | 4.05%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 6         | 4.05%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch     | 3         | 2.03%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 3         | 2.03%   |
 | Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 2         | 1.35%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch     | 2         | 1.35%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch     | 2         | 1.35%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 2         | 1.35%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch              | 2         | 1.35%   |
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 1.35%   |
@@ -2003,11 +2003,11 @@ Monitor models
 | AU Optronics LCD Monitor AUO71EC 1366x768 344x193mm 15.5-inch            | 2         | 1.35%   |
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 2         | 1.35%   |
 | AU Optronics LCD Monitor AUO11C2 1024x600 195x113mm 8.9-inch             | 2         | 1.35%   |
-| Vizio E320VT VIZ0067 1920x1080 700x390mm 31.5-inch                       | 1         | 0.68%   |
+| Vizio E321VL VIZ0067 1920x1080 698x393mm 31.5-inch                       | 1         | 0.68%   |
 | ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch                | 1         | 0.68%   |
 | Sony TV SNY9500 1920x540 560x420mm 27.6-inch                             | 1         | 0.68%   |
-| Sony LCD Monitor SNY06FA 1600x900 310x170mm 13.9-inch                    | 1         | 0.68%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                    | 1         | 0.68%   |
+| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                            | 1         | 0.68%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                    | 1         | 0.68%   |
 | Seiko/Epson LCD Monitor 1280x800                                         | 1         | 0.68%   |
 | Samsung Electronics SyncMaster SAM0019 1024x768 304x228mm 15.0-inch      | 1         | 0.68%   |
 | Samsung Electronics SMT27A300 SAM087A 1920x1080 598x336mm 27.0-inch      | 1         | 0.68%   |
@@ -2023,7 +2023,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3445 1280x800 331x207mm 15.4-inch     | 1         | 0.68%   |
 | Samsung Electronics LCD Monitor SEC334A 1366x768 344x194mm 15.5-inch     | 1         | 0.68%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 0.68%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 0.68%   |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 223x125mm 10.1-inch     | 1         | 0.68%   |
 | Samsung Electronics LCD Monitor SDC5451 1366x768 344x194mm 15.5-inch     | 1         | 0.68%   |
 | Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 0.68%   |
@@ -2032,7 +2032,7 @@ Monitor models
 | Quanta Display LCD Monitor QDS0033 1024x768 304x228mm 15.0-inch          | 1         | 0.68%   |
 | Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                  | 1         | 0.68%   |
 | Optoma WXGA OTM0550 1280x1024                                            | 1         | 0.68%   |
-| OEM 32W_LCD_TV OEM3700 1920x540                                          | 1         | 0.68%   |
+| OEM 32_LCD_TV OEM3700 1920x540                                           | 1         | 0.68%   |
 | LG Philips LP154WX4-TLC8 LPL0120 1280x800 331x207mm 15.4-inch            | 1         | 0.68%   |
 | LG Philips LCD Monitor LPLE600 1280x800 331x207mm 15.4-inch              | 1         | 0.68%   |
 | LG Philips LCD Monitor LPLE300 1280x800 331x207mm 15.4-inch              | 1         | 0.68%   |
@@ -2044,13 +2044,13 @@ Monitor models
 | LG Philips LCD Monitor LPL2388 1440x900 367x230mm 17.1-inch              | 1         | 0.68%   |
 | LG Philips LCD Monitor LPL1E01 1280x800 331x207mm 15.4-inch              | 1         | 0.68%   |
 | LG Philips LCD Monitor LPL0129 1280x800 304x190mm 14.1-inch              | 1         | 0.68%   |
-| LG Display LP140WH2-TLA1 LGD0201 1366x768 310x174mm 14.0-inch            | 1         | 0.68%   |
 | LG Display LCD Monitor LGD0418 2560x1440 310x174mm 14.0-inch             | 1         | 0.68%   |
 | LG Display LCD Monitor LGD0380 1600x900 294x166mm 13.3-inch              | 1         | 0.68%   |
 | LG Display LCD Monitor LGD037E 1920x1080 345x194mm 15.6-inch             | 1         | 0.68%   |
 | LG Display LCD Monitor LGD032C 1920x1080 344x194mm 15.5-inch             | 1         | 0.68%   |
 | LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch              | 1         | 0.68%   |
 | LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 1         | 0.68%   |
+| LG Display LCD Monitor LGD02DF 1600x900 310x174mm 14.0-inch              | 1         | 0.68%   |
 
 Monitor Resolution
 ------------------
@@ -2306,7 +2306,7 @@ Controller models
 | Broadcom Limited NetXtreme BCM5788 Gigabit Ethernet                     | 2         | 0.68%   |
 | Broadcom BCM43224 802.11a/b/g/n                                         | 2         | 0.68%   |
 | VIA VT6102/VT6103 [Rhine-II]                                            | 1         | 0.34%   |
-| Spreadtrum Unisoc Phone                                                 | 1         | 0.34%   |
+| Spreadtrum Note 6                                                       | 1         | 0.34%   |
 | Samsung Galaxy series, misc. (tethering mode)                           | 1         | 0.34%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                | 1         | 0.34%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 0.34%   |
@@ -2462,14 +2462,14 @@ Ethernet models
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 2         | 1.48%   |
 | Broadcom Limited NetXtreme BCM5788 Gigabit Ethernet               | 2         | 1.48%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1         | 0.74%   |
-| Spreadtrum Unisoc Phone                                           | 1         | 0.74%   |
+| Spreadtrum Note 6                                                 | 1         | 0.74%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 0.74%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 0.74%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1         | 0.74%   |
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                        | 1         | 0.74%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.74%   |
 | Nvidia MCP67 Ethernet                                             | 1         | 0.74%   |
-| MediaTek RMX3085                                                  | 1         | 0.74%   |
+| MediaTek Infinix HOT 9                                            | 1         | 0.74%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 0.74%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 0.74%   |
 | Marvell Group 88E8040T PCI-E Fast Ethernet Controller             | 1         | 0.74%   |
@@ -2592,13 +2592,13 @@ Controller models
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 5         | 6.58%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 4         | 5.26%   |
 | Foxconn International BCM43142A0 Bluetooth module   | 4         | 5.26%   |
-| Qualcomm Atheros  Bluetooth Device                  | 3         | 3.95%   |
-| Intel Bluetooth Device                              | 3         | 3.95%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 3         | 3.95%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 3.95%   |
 | Broadcom BCM2070 Bluetooth Device                   | 3         | 3.95%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 2         | 2.63%   |
 | Realtek Bluetooth Radio                             | 2         | 2.63%   |
 | Ralink RT3290 Bluetooth                             | 2         | 2.63%   |
+| Qualcomm Atheros  Bluetooth Device                  | 2         | 2.63%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 2         | 2.63%   |
 | Intel AX201 Bluetooth                               | 2         | 2.63%   |
 | Dell DW375 Bluetooth Module                         | 2         | 2.63%   |
@@ -2607,6 +2607,7 @@ Controller models
 | Toshiba Bluetooth Device                            | 1         | 1.32%   |
 | Toshiba Atheros AR3012 Bluetooth                    | 1         | 1.32%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 1.32%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 1.32%   |
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 1.32%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 1.32%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device        | 1         | 1.32%   |
@@ -2762,16 +2763,16 @@ Memory module models
 | SK hynix RAM HMT451S6DFR8A-PB 4GB SODIMM DDR3 1600MT/s                       | 1         | 2.38%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                       | 1         | 2.38%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                       | 1         | 2.38%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s                    | 1         | 2.38%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1333MT/s                    | 1         | 2.38%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s                       | 1         | 2.38%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s                       | 1         | 2.38%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s                       | 1         | 2.38%   |
 | Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s                          | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                        | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s                     | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 2.38%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 2.38%   |
-| Samsung RAM M471A5244CB0-CWE 4096MB Row Of Chips DDR4 3200MT/s               | 1         | 2.38%   |
+| Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s                  | 1         | 2.38%   |
 | Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s                        | 1         | 2.38%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.38%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s                   | 1         | 2.38%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                        | 1         | 2.38%   |
 | Kingston RAM KX830D-ELC 4GB SODIMM DDR3 1333MT/s                             | 1         | 2.38%   |
 | Kingston RAM ASU1333S9-4G-ECEWG 4GB SODIMM DDR3 1333MT/s                     | 1         | 2.38%   |
@@ -2780,7 +2781,7 @@ Memory module models
 | Elpida RAM EBJ21UE8BFU0-DJ-F 2GB SODIMM DDR3 1334MT/s                        | 1         | 2.38%   |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.38%   |
 | Crucial RAM CT102464BF1339.C16 8GB SODIMM DDR3 1333MT/s                      | 1         | 2.38%   |
-| Corsair RAM CMSX8GX3M1A1600C10 8GB SODIMM DDR3 1600MT/s                      | 1         | 2.38%   |
+| Corsair RAM CMSX8GX3M1A1600C10 8192MB SODIMM DDR3 1600MT/s                   | 1         | 2.38%   |
 | Corsair RAM CMSO4GX3M1A1333C9 4GB SODIMM DDR3 1334MT/s                       | 1         | 2.38%   |
 | Corsair RAM CM3X4GSD1066 4GB SODIMM 1067MT/s                                 | 1         | 2.38%   |
 | A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s                         | 1         | 2.38%   |
@@ -2981,7 +2982,7 @@ Camera device models
 | Silicon Motion WebCam SC-0311139N                                     | 1         | 0.87%   |
 | Silicon Motion HP Webcam                                              | 1         | 0.87%   |
 | Silicon Motion 300k Pixel Camera                                      | 1         | 0.87%   |
-| Samsung Galaxy A5 (MTP)                                               | 1         | 0.87%   |
+| Samsung Galaxy series, misc. (MTP mode)                               | 1         | 0.87%   |
 | Ricoh Integrated Webcam                                               | 1         | 0.87%   |
 | Realtek USB Camera                                                    | 1         | 0.87%   |
 | Realtek Integrated_Webcam_HD                                          | 1         | 0.87%   |

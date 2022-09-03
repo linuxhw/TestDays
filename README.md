@@ -161,6 +161,7 @@ Location-specific Reports
 * [ Kenya ](/Location/Kenya)
 * [ Latvia ](/Location/Latvia)
 * [ Lithuania ](/Location/Lithuania)
+* [ Luxembourg ](/Location/Luxembourg)
 * [ Malaysia ](/Location/Malaysia)
 * [ Mexico ](/Location/Mexico)
 * [ Moldova ](/Location/Moldova)

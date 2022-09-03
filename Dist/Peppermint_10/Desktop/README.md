@@ -719,12 +719,12 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2007 | 15       | 18.99%  |
+| 2007 | 14       | 17.72%  |
 | 2008 | 9        | 11.39%  |
 | 2013 | 8        | 10.13%  |
+| 2006 | 7        | 8.86%   |
 | 2011 | 6        | 7.59%   |
 | 2010 | 6        | 7.59%   |
-| 2006 | 6        | 7.59%   |
 | 2012 | 5        | 6.33%   |
 | 2009 | 5        | 6.33%   |
 | 2005 | 5        | 6.33%   |
@@ -1864,18 +1864,18 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Dell 1905FP DEL400C 1280x1024 380x310mm 19.3-inch                       | 2        | 2.56%   |
+| Dell 1905FP DEL400C 1280x1024 376x301mm 19.0-inch                       | 2        | 2.56%   |
 | BenQ FP731 BNQ7659 1280x1024 304x228mm 15.0-inch                        | 2        | 2.56%   |
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 39FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch   | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                      | 1        | 1.28%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
 | Sharp LCD SHP0FF0 1360x768                                              | 1        | 1.28%   |
-| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                   | 1        | 1.28%   |
+| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                  | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 521x293mm 23.5-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.28%   |
@@ -1894,12 +1894,12 @@ Monitor models
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.28%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.28%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.28%   |
-| KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                        | 1        | 1.28%   |
+| KTC 32'TV KTC3200 1600x900 698x392mm 31.5-inch                          | 1        | 1.28%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch              | 1        | 1.28%   |
 | Hewlett-Packard LCD Monitor 2711 1920x1080                              | 1        | 1.28%   |
 | Hewlett-Packard L1955 HWP262C 1280x1024 380x300mm 19.1-inch             | 1        | 1.28%   |
-| Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch              | 1        | 1.28%   |
+| Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch              | 1        | 1.28%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.28%   |
@@ -1910,19 +1910,19 @@ Monitor models
 | Goldstar 27GN7 GSM5B8E 1920x1080 600x303mm 26.5-inch                    | 1        | 1.28%   |
 | FUS LCD Monitor 383V FA                                                 | 1        | 1.28%   |
 | Fujitsu Siemens P19-1 FUS0452 1280x1024 376x301mm 19.0-inch             | 1        | 1.28%   |
-| Dell U2713HM DEL407D 1920x1200 600x340mm 27.2-inch                      | 1        | 1.28%   |
+| Dell U2713HM DEL407D 2048x1152 597x336mm 27.0-inch                      | 1        | 1.28%   |
 | Dell S1709W DELD018 1440x900 370x230mm 17.2-inch                        | 1        | 1.28%   |
-| Dell P2213 DELF041 1680x1050 473x296mm 22.0-inch                        | 1        | 1.28%   |
+| Dell P2213 DELF041 1680x1050 470x300mm 22.0-inch                        | 1        | 1.28%   |
 | Dell LCD Monitor SE2417HG 1920x1080                                     | 1        | 1.28%   |
 | Dell IN1910N DELA04C 1366x768 410x230mm 18.5-inch                       | 1        | 1.28%   |
 | Dell E228WFP DELD015 1680x1050 473x296mm 22.0-inch                      | 1        | 1.28%   |
 | Dell DEL 1908FPBLK DEL4047 1280x1024 376x301mm 19.0-inch                | 1        | 1.28%   |
-| Dell 1703FP DEL3010 1280x1024 338x270mm 17.0-inch                       | 1        | 1.28%   |
+| Dell 1703FP DEL3010 1280x1024 340x270mm 17.1-inch                       | 1        | 1.28%   |
 | CPT CL-151G CPT1790 1024x768 304x228mm 15.0-inch                        | 1        | 1.28%   |
 | CPT CL-151G CPT06FE 1024x768 300x230mm 14.9-inch                        | 1        | 1.28%   |
 | BenQ RL2460H BNQ7F34 1920x1080 530x300mm 24.0-inch                      | 1        | 1.28%   |
 | BenQ LCD Monitor GL2450H 1920x1080                                      | 1        | 1.28%   |
-| BenQ GL2450H BNQ78A7 1920x1080 530x300mm 24.0-inch                      | 1        | 1.28%   |
+| BenQ GL2450H BNQ78A7 1920x1080 531x298mm 24.0-inch                      | 1        | 1.28%   |
 | BenQ G610HDAL BNQ785B 1366x768 344x194mm 15.5-inch                      | 1        | 1.28%   |
 
 Monitor Resolution
@@ -2255,7 +2255,7 @@ Wireless models
 | Marvell Group 88w8335 [Libertas] 802.11b/g Wireless                                    | 1        | 2.08%   |
 | Intel Wi-Fi 6 AX200                                                                    | 1        | 2.08%   |
 | D-Link DWP-156                                                                         | 1        | 2.08%   |
-| D-Link 802.11n WLAN Adapter                                                            | 1        | 2.08%   |
+| D-Link DWA-171 AC600 DB Wireless Adapter(rev.A1) [Realtek RTL8811AU]                   | 1        | 2.08%   |
 | D-Link 802.11ac NIC                                                                    | 1        | 2.08%   |
 | Belkin Components F6D4050 N150 Enhanced Wireless Network Adapter v2000 [Ralink RT3070] | 1        | 2.08%   |
 | ASUS USB-N14 802.11b/g/n (2x2) Wireless Adapter [Ralink RT5372]                        | 1        | 2.08%   |
@@ -2565,7 +2565,7 @@ Memory module models
 | SK hynix RAM Module 2GB DIMM DDR3 1600MT/s               | 1        | 5.56%   |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s     | 1        | 5.56%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0-CH9 2048MB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s         | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 5.56%   |
@@ -2722,7 +2722,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Sunplus SPCA2281 Web Camera                                         | 1        | 12.5%   |
-| Samsung Galaxy A5 (MTP)                                             | 1        | 12.5%   |
+| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 12.5%   |
 | Logitech Webcam C270                                                | 1        | 12.5%   |
 | Logitech Webcam C210                                                | 1        | 12.5%   |
 | GEO Semi Condor                                                     | 1        | 12.5%   |

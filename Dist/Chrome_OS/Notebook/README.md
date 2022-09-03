@@ -860,7 +860,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 2%      |
 | Toshiba MQ01ABD032 320GB                     | 1         | 2%      |
 | Toshiba MK2555GSX 250GB                      | 1         | 2%      |
-| TO Exter nal USB 3.0 1TB                     | 1         | 2%      |
+| TO Exter nal USB 3.0 240GB                   | 1         | 2%      |
 | Seagate ST980811AS 80GB                      | 1         | 2%      |
 | Seagate ST9160821AS 160GB                    | 1         | 2%      |
 | SanDisk SSD U100 16GB                        | 1         | 2%      |
@@ -956,8 +956,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 26        | 31     | 96.3%   |
-| 0.51-1.0   | 1         | 1      | 3.7%    |
+| 0.01-0.5   | 27        | 32     | 100%    |
 
 Space Total
 -----------
@@ -1437,7 +1436,7 @@ Monitor models
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.44%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.22%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.22%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch     | 1         | 2.22%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.22%   |
@@ -1455,7 +1454,7 @@ Monitor models
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 2.22%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 2.22%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 2.22%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                    | 1         | 2.22%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                    | 1         | 2.22%   |
 | Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                        | 1         | 2.22%   |
 | Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch         | 1         | 2.22%   |
 | Chimei Innolux LCD Monitor CMN14E5 1920x1080 309x173mm 13.9-inch         | 1         | 2.22%   |
@@ -2074,7 +2073,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 PC cam                              | 6         | 18.75%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.75%  |
 | Lenovo UVC Camera                                       | 3         | 9.38%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.25%   |
 | Lite-On Integrated Camera                               | 2         | 6.25%   |
@@ -2084,7 +2083,7 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 3.13%   |
 | Sunplus HD WebCam                                       | 1         | 3.13%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.13%   |
-| Realtek HP Webcam-101                                   | 1         | 3.13%   |
+| Realtek USB Camera                                      | 1         | 3.13%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.13%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.13%   |
 | Microdia HP Webcam                                      | 1         | 3.13%   |

@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 107
+Total: 108
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Acer          | Extensa 5630                | [9ea053d8e8](https://linux-hardware.org/?probe=9ea053d8e8) | Aug 12, 2022 |
 | Acer          | Extensa 5630                | [32cab1f9fc](https://linux-hardware.org/?probe=32cab1f9fc) | Mar 14, 2022 |
 | HP            | ProBook 6460b               | [5f936a65be](https://linux-hardware.org/?probe=5f936a65be) | Feb 02, 2022 |
 | ASUSTek       | TUF Gaming FA706IU_TUF70... | [63d7055c5e](https://linux-hardware.org/?probe=63d7055c5e) | Dec 18, 2021 |
@@ -789,13 +790,13 @@ Used RAM memory
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1.01-2.0  | 37        | 42.05%  |
-| 2.01-3.0  | 19        | 21.59%  |
-| 0.51-1.0  | 14        | 15.91%  |
-| 3.01-4.0  | 9         | 10.23%  |
-| 4.01-8.0  | 6         | 6.82%   |
-| 8.01-16.0 | 2         | 2.27%   |
-| 0.01-0.5  | 1         | 1.14%   |
+| 1.01-2.0  | 38        | 42.7%   |
+| 2.01-3.0  | 19        | 21.35%  |
+| 0.51-1.0  | 14        | 15.73%  |
+| 3.01-4.0  | 9         | 10.11%  |
+| 4.01-8.0  | 6         | 6.74%   |
+| 8.01-16.0 | 2         | 2.25%   |
+| 0.01-0.5  | 1         | 1.12%   |
 
 Total Drives
 ------------
@@ -861,8 +862,8 @@ Has Bluetooth module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 63        | 75%     |
-| No        | 21        | 25%     |
+| Yes       | 64        | 75.29%  |
+| No        | 21        | 24.71%  |
 
 Location
 --------
@@ -1000,7 +1001,7 @@ Hard drive vendors
 | Kingston            | 8         | 8      | 7.62%   |
 | Crucial             | 8         | 9      | 7.62%   |
 | Unknown             | 7         | 10     | 6.67%   |
-| SanDisk             | 6         | 6      | 5.71%   |
+| SanDisk             | 6         | 7      | 5.71%   |
 | HGST                | 6         | 7      | 5.71%   |
 | Intel               | 4         | 5      | 3.81%   |
 | SK hynix            | 3         | 3      | 2.86%   |
@@ -1124,7 +1125,7 @@ Solid state drive vendors
 |---------------------|-----------|--------|---------|
 | Kingston            | 8         | 8      | 14.81%  |
 | Crucial             | 8         | 9      | 14.81%  |
-| SanDisk             | 6         | 6      | 11.11%  |
+| SanDisk             | 6         | 7      | 11.11%  |
 | Samsung Electronics | 4         | 5      | 7.41%   |
 | Intel               | 3         | 4      | 5.56%   |
 | WDC                 | 2         | 2      | 3.7%    |
@@ -1157,7 +1158,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 49        | 58     | 50%     |
+| SSD  | 49        | 59     | 50%     |
 | HDD  | 33        | 37     | 33.67%  |
 | MMC  | 8         | 11     | 8.16%   |
 | NVMe | 8         | 11     | 8.16%   |
@@ -1172,7 +1173,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 70        | 95     | 81.4%   |
+| SATA | 70        | 96     | 81.4%   |
 | NVMe | 8         | 11     | 9.3%    |
 | MMC  | 8         | 11     | 9.3%    |
 
@@ -1186,7 +1187,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 57        | 70     | 72.15%  |
+| 0.01-0.5   | 57        | 71     | 72.15%  |
 | 0.51-1.0   | 22        | 25     | 27.85%  |
 
 Space Total
@@ -1199,14 +1200,15 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 101-250    | 31        | 36.05%  |
-| 51-100     | 17        | 19.77%  |
-| 501-1000   | 13        | 15.12%  |
-| 251-500    | 7         | 8.14%   |
-| 21-50      | 7         | 8.14%   |
-| 1-20       | 5         | 5.81%   |
-| 1001-2000  | 4         | 4.65%   |
-| Unknown    | 2         | 2.33%   |
+| 101-250    | 31        | 35.63%  |
+| 51-100     | 17        | 19.54%  |
+| 501-1000   | 13        | 14.94%  |
+| 251-500    | 7         | 8.05%   |
+| 21-50      | 7         | 8.05%   |
+| 1-20       | 5         | 5.75%   |
+| 1001-2000  | 4         | 4.6%    |
+| Unknown    | 2         | 2.3%    |
+| 2001-3000  | 1         | 1.15%   |
 
 Space Used
 ----------
@@ -1218,14 +1220,14 @@ Amount of used disk space
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1-20      | 44        | 50.57%  |
-| 21-50     | 10        | 11.49%  |
-| 101-250   | 10        | 11.49%  |
-| 51-100    | 10        | 11.49%  |
-| 251-500   | 5         | 5.75%   |
-| 501-1000  | 5         | 5.75%   |
-| Unknown   | 2         | 2.3%    |
-| 1001-2000 | 1         | 1.15%   |
+| 1-20      | 44        | 50%     |
+| 21-50     | 10        | 11.36%  |
+| 101-250   | 10        | 11.36%  |
+| 51-100    | 10        | 11.36%  |
+| 501-1000  | 6         | 6.82%   |
+| 251-500   | 5         | 5.68%   |
+| Unknown   | 2         | 2.27%   |
+| 1001-2000 | 1         | 1.14%   |
 
 Malfunc. Drives
 ---------------
@@ -1330,7 +1332,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 65        | 88     | 73.03%  |
+| Works    | 65        | 89     | 73.03%  |
 | Malfunc  | 15        | 18     | 16.85%  |
 | Detected | 9         | 11     | 10.11%  |
 
@@ -1604,43 +1606,43 @@ Microcode number
 
 | Number     | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 11        | 12.94%  |
-| 0x306a9    | 8         | 9.41%   |
-| 0x206a7    | 7         | 8.24%   |
-| 0x406e3    | 6         | 7.06%   |
-| 0x20655    | 5         | 5.88%   |
-| 0x306c3    | 3         | 3.53%   |
-| 0x20652    | 3         | 3.53%   |
-| 0x906ea    | 2         | 2.35%   |
-| 0x806ec    | 2         | 2.35%   |
-| 0x806e9    | 2         | 2.35%   |
-| 0x6fd      | 2         | 2.35%   |
-| 0x406c4    | 2         | 2.35%   |
-| 0x40651    | 2         | 2.35%   |
-| 0x306d4    | 2         | 2.35%   |
-| 0x30678    | 2         | 2.35%   |
-| 0x30661    | 2         | 2.35%   |
-| 0x106ca    | 2         | 2.35%   |
-| 0x10676    | 2         | 2.35%   |
-| 0x03000027 | 2         | 2.35%   |
-| 0x906e9    | 1         | 1.18%   |
-| 0x806ea    | 1         | 1.18%   |
-| 0x806c1    | 1         | 1.18%   |
-| 0x706e5    | 1         | 1.18%   |
-| 0x706a1    | 1         | 1.18%   |
-| 0x6f2      | 1         | 1.18%   |
-| 0x506c9    | 1         | 1.18%   |
-| 0x406c3    | 1         | 1.18%   |
-| 0x106e5    | 1         | 1.18%   |
-| 0x106c2    | 1         | 1.18%   |
-| 0x1067a    | 1         | 1.18%   |
-| 0x08608103 | 1         | 1.18%   |
-| 0x08600104 | 1         | 1.18%   |
-| 0x0810100b | 1         | 1.18%   |
-| 0x07030105 | 1         | 1.18%   |
-| 0x0700010f | 1         | 1.18%   |
-| 0x06006705 | 1         | 1.18%   |
-| 0x05000119 | 1         | 1.18%   |
+| Unknown    | 12        | 13.95%  |
+| 0x306a9    | 8         | 9.3%    |
+| 0x206a7    | 7         | 8.14%   |
+| 0x406e3    | 6         | 6.98%   |
+| 0x20655    | 5         | 5.81%   |
+| 0x306c3    | 3         | 3.49%   |
+| 0x20652    | 3         | 3.49%   |
+| 0x906ea    | 2         | 2.33%   |
+| 0x806ec    | 2         | 2.33%   |
+| 0x806e9    | 2         | 2.33%   |
+| 0x6fd      | 2         | 2.33%   |
+| 0x406c4    | 2         | 2.33%   |
+| 0x40651    | 2         | 2.33%   |
+| 0x306d4    | 2         | 2.33%   |
+| 0x30678    | 2         | 2.33%   |
+| 0x30661    | 2         | 2.33%   |
+| 0x106ca    | 2         | 2.33%   |
+| 0x10676    | 2         | 2.33%   |
+| 0x03000027 | 2         | 2.33%   |
+| 0x906e9    | 1         | 1.16%   |
+| 0x806ea    | 1         | 1.16%   |
+| 0x806c1    | 1         | 1.16%   |
+| 0x706e5    | 1         | 1.16%   |
+| 0x706a1    | 1         | 1.16%   |
+| 0x6f2      | 1         | 1.16%   |
+| 0x506c9    | 1         | 1.16%   |
+| 0x406c3    | 1         | 1.16%   |
+| 0x106e5    | 1         | 1.16%   |
+| 0x106c2    | 1         | 1.16%   |
+| 0x1067a    | 1         | 1.16%   |
+| 0x08608103 | 1         | 1.16%   |
+| 0x08600104 | 1         | 1.16%   |
+| 0x0810100b | 1         | 1.16%   |
+| 0x07030105 | 1         | 1.16%   |
+| 0x0700010f | 1         | 1.16%   |
+| 0x06006705 | 1         | 1.16%   |
+| 0x05000119 | 1         | 1.16%   |
 
 CPU Microarch
 -------------
@@ -1867,14 +1869,14 @@ Monitor models
 | Samsung Electronics SyncMaster SAM00B6 1280x1024 376x301mm 19.0-inch      | 1         | 1.12%   |
 | Samsung Electronics SMB1630N SAM0630 1366x768 340x190mm 15.3-inch         | 1         | 1.12%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch         | 1         | 1.12%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch      | 1         | 1.12%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch      | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SEC504B 1600x900 382x215mm 17.3-inch      | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 344x194mm 15.5-inch      | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SEC4245 1280x800 331x207mm 15.4-inch      | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SEC3945 1280x800 331x207mm 15.4-inch      | 1         | 1.12%   |
-| Samsung Electronics LCD Monitor SEC3741 1366x768 309x174mm 14.0-inch      | 1         | 1.12%   |
+| Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch      | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch     | 1         | 1.12%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 309x174mm 14.0-inch     | 1         | 1.12%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch     | 1         | 1.12%   |
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch                   | 1         | 1.12%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch               | 1         | 1.12%   |
 | LG Philips LCD Monitor LPLA002 1440x900 367x230mm 17.1-inch               | 1         | 1.12%   |
@@ -1891,7 +1893,7 @@ Monitor models
 | LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch               | 1         | 1.12%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch              | 1         | 1.12%   |
 | LG Display LCD Monitor LGD027A 1600x900 382x215mm 17.3-inch               | 1         | 1.12%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch                   | 1         | 1.12%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                   | 1         | 1.12%   |
 | Lenovo LCD Monitor LEN40A0 1366x768 309x174mm 14.0-inch                   | 1         | 1.12%   |
 | Lenovo LCD Monitor LEN4074 1440x900 287x180mm 13.3-inch                   | 1         | 1.12%   |
 | Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch                   | 1         | 1.12%   |
@@ -1900,9 +1902,9 @@ Monitor models
 | InfoVision LCD Monitor IVO8C5F 1920x1080 309x174mm 14.0-inch              | 1         | 1.12%   |
 | InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch               | 1         | 1.12%   |
 | Hewlett-Packard 32 QHD HPN360C 2560x1440 710x400mm 32.1-inch              | 1         | 1.12%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                 | 1         | 1.12%   |
 | HannStar HSD101PFW4A HSD03ED 1024x600 223x125mm 10.1-inch                 | 1         | 1.12%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                  | 1         | 1.12%   |
-| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                          | 1         | 1.12%   |
+| Dell U2415 DELA0BA 1920x1200 520x320mm 24.0-inch                          | 1         | 1.12%   |
 | Dell 1908FP DEL4026 1280x1024 376x301mm 19.0-inch                         | 1         | 1.12%   |
 | CPT LCD Monitor CPT04C4 1024x600 222x130mm 10.1-inch                      | 1         | 1.12%   |
 | Chimei Innolux LCD Monitor CMN15FD 1366x768 344x193mm 15.5-inch           | 1         | 1.12%   |
@@ -1915,7 +1917,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1341 1366x768 293x165mm 13.2-inch           | 1         | 1.12%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1807 1920x1080 408x230mm 18.4-inch | 1         | 1.12%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1600 1920x1080 374x192mm 16.6-inch | 1         | 1.12%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1592 1366x768 344x193mm 15.5-inch  | 1         | 1.12%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1592 1366x768 350x190mm 15.7-inch  | 1         | 1.12%   |
 
 Monitor Resolution
 ------------------
@@ -2140,7 +2142,7 @@ Controller models
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)                       | 1         | 0.6%    |
 | Nvidia MCP67 Ethernet                                                                         | 1         | 0.6%    |
 | Nvidia MCP51 Ethernet Controller                                                              | 1         | 0.6%    |
-| MediaTek RMX3085                                                                              | 1         | 0.6%    |
+| MediaTek Infinix HOT 9                                                                        | 1         | 0.6%    |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB]                | 1         | 0.6%    |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                                       | 1         | 0.6%    |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                                        | 1         | 0.6%    |
@@ -2276,7 +2278,7 @@ Ethernet models
 | Qualcomm Atheros AR8132 Fast Ethernet                                          | 1         | 1.28%   |
 | Nvidia MCP67 Ethernet                                                          | 1         | 1.28%   |
 | Nvidia MCP51 Ethernet Controller                                               | 1         | 1.28%   |
-| MediaTek RMX3085                                                               | 1         | 1.28%   |
+| MediaTek Infinix HOT 9                                                         | 1         | 1.28%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 1.28%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                        | 1         | 1.28%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                         | 1         | 1.28%   |
@@ -2285,7 +2287,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                                          | 1         | 1.28%   |
 | Intel 82579V Gigabit Network Connection                                        | 1         | 1.28%   |
 | Intel 82567LM Gigabit Network Connection                                       | 1         | 1.28%   |
-| Huawei LYA-L09                                                                 | 1         | 1.28%   |
+| Huawei JNY-LX1                                                                 | 1         | 1.28%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                              | 1         | 1.28%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                               | 1         | 1.28%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express                        | 1         | 1.28%   |
@@ -2360,18 +2362,18 @@ Controller vendors
 
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
-| Intel                           | 27        | 40.91%  |
-| Broadcom                        | 9         | 13.64%  |
-| Realtek Semiconductor           | 6         | 9.09%   |
-| Qualcomm Atheros Communications | 5         | 7.58%   |
-| Cambridge Silicon Radio         | 4         | 6.06%   |
-| Lite-On Technology              | 3         | 4.55%   |
-| IMC Networks                    | 3         | 4.55%   |
-| Hewlett-Packard                 | 3         | 4.55%   |
-| Toshiba                         | 2         | 3.03%   |
-| Dell                            | 2         | 3.03%   |
-| Ralink                          | 1         | 1.52%   |
-| Foxconn / Hon Hai               | 1         | 1.52%   |
+| Intel                           | 27        | 40.3%   |
+| Broadcom                        | 9         | 13.43%  |
+| Realtek Semiconductor           | 7         | 10.45%  |
+| Qualcomm Atheros Communications | 5         | 7.46%   |
+| Cambridge Silicon Radio         | 4         | 5.97%   |
+| Lite-On Technology              | 3         | 4.48%   |
+| IMC Networks                    | 3         | 4.48%   |
+| Hewlett-Packard                 | 3         | 4.48%   |
+| Toshiba                         | 2         | 2.99%   |
+| Dell                            | 2         | 2.99%   |
+| Ralink                          | 1         | 1.49%   |
+| Foxconn / Hon Hai               | 1         | 1.49%   |
 
 Bluetooth Model
 ---------------
@@ -2383,37 +2385,37 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 16        | 24.24%  |
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 6.06%   |
-| Broadcom BCM2045B (BDC-2.1)                         | 4         | 6.06%   |
-| Realtek  Bluetooth 4.2 Adapter                      | 3         | 4.55%   |
-| Intel Centrino Bluetooth Wireless Transceiver       | 3         | 4.55%   |
-| Intel AX201 Bluetooth                               | 3         | 4.55%   |
-| HP Broadcom 2070 Bluetooth Combo                    | 3         | 4.55%   |
-| Realtek Bluetooth Radio                             | 2         | 3.03%   |
-| Qualcomm Atheros  Bluetooth Device                  | 2         | 3.03%   |
-| Qualcomm Atheros Bluetooth                          | 2         | 3.03%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 2         | 3.03%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 3.03%   |
-| IMC Networks Bluetooth Radio                        | 2         | 3.03%   |
-| Toshiba Integrated Bluetooth (Taiyo Yuden)          | 1         | 1.52%   |
-| Toshiba Bluetooth USB Host Controller               | 1         | 1.52%   |
-| Realtek RTL8723B Bluetooth                          | 1         | 1.52%   |
-| Ralink RT3290 Bluetooth                             | 1         | 1.52%   |
-| Qualcomm Atheros AR3011 Bluetooth                   | 1         | 1.52%   |
-| Lite-On Atheros AR3012 Bluetooth                    | 1         | 1.52%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.52%   |
-| Intel Bluetooth Device                              | 1         | 1.52%   |
-| Intel AX210 Bluetooth                               | 1         | 1.52%   |
-| IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 1.52%   |
-| Foxconn / Hon Hai Acer Bluetooth module             | 1         | 1.52%   |
-| Dell Wireless 360 Bluetooth                         | 1         | 1.52%   |
-| Dell DW375 Bluetooth Module                         | 1         | 1.52%   |
-| Broadcom HP Portable Bumble Bee                     | 1         | 1.52%   |
-| Broadcom Bluetooth 2.1 Device                       | 1         | 1.52%   |
-| Broadcom BCM43142A0 Bluetooth 4.0                   | 1         | 1.52%   |
-| Broadcom BCM2070 Bluetooth 2.1 + EDR                | 1         | 1.52%   |
-| Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 1         | 1.52%   |
+| Intel Bluetooth wireless interface                  | 16        | 23.88%  |
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 5.97%   |
+| Broadcom BCM2045B (BDC-2.1)                         | 4         | 5.97%   |
+| Realtek  Bluetooth 4.2 Adapter                      | 3         | 4.48%   |
+| Realtek Bluetooth Radio                             | 3         | 4.48%   |
+| Intel Centrino Bluetooth Wireless Transceiver       | 3         | 4.48%   |
+| Intel AX201 Bluetooth                               | 3         | 4.48%   |
+| HP Broadcom 2070 Bluetooth Combo                    | 3         | 4.48%   |
+| Qualcomm Atheros  Bluetooth Device                  | 2         | 2.99%   |
+| Qualcomm Atheros Bluetooth                          | 2         | 2.99%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 2         | 2.99%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 2.99%   |
+| IMC Networks Bluetooth Radio                        | 2         | 2.99%   |
+| Toshiba Integrated Bluetooth (Taiyo Yuden)          | 1         | 1.49%   |
+| Toshiba Bluetooth USB Host Controller               | 1         | 1.49%   |
+| Realtek RTL8723B Bluetooth                          | 1         | 1.49%   |
+| Ralink RT3290 Bluetooth                             | 1         | 1.49%   |
+| Qualcomm Atheros AR3011 Bluetooth                   | 1         | 1.49%   |
+| Lite-On Atheros AR3012 Bluetooth                    | 1         | 1.49%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 1.49%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.49%   |
+| Intel AX210 Bluetooth                               | 1         | 1.49%   |
+| IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 1.49%   |
+| Foxconn / Hon Hai Acer Bluetooth module             | 1         | 1.49%   |
+| Dell Wireless 360 Bluetooth                         | 1         | 1.49%   |
+| Dell DW375 Bluetooth Module                         | 1         | 1.49%   |
+| Broadcom HP Portable Bumble Bee                     | 1         | 1.49%   |
+| Broadcom Bluetooth 2.1 Device                       | 1         | 1.49%   |
+| Broadcom BCM43142A0 Bluetooth 4.0                   | 1         | 1.49%   |
+| Broadcom BCM2070 Bluetooth 2.1 + EDR                | 1         | 1.49%   |
+| Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 1         | 1.49%   |
 
 Sound
 -----
@@ -2536,15 +2538,16 @@ Memory module models
 
 | Model                                                                        | Notebooks | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                        | 3         | 2.65%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s                        | 3         | 2.65%   |
-| Samsung RAM M471A1K43DB1-CTD 8192MB SODIMM DDR4 2667MT/s                     | 3         | 2.65%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s                     | 3         | 2.65%   |
+| Samsung RAM M471B5273CH0-CH9 4096MB SODIMM DDR3 1334MT/s                     | 3         | 2.65%   |
+| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s                        | 3         | 2.65%   |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s                       | 3         | 2.65%   |
 | Unknown RAM Module 2048MB SODIMM DDR2                                        | 2         | 1.77%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                       | 2         | 1.77%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s                       | 2         | 1.77%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                       | 2         | 1.77%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8192MB SODIMM DDR4 2667MT/s                    | 2         | 1.77%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s                        | 2         | 1.77%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s                       | 2         | 1.77%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s                     | 2         | 1.77%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s                        | 2         | 1.77%   |
 | Samsung RAM M471B5273BH1-CF8 4GB SODIMM DDR3 1067MT/s                        | 2         | 1.77%   |
 | Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s                     | 2         | 1.77%   |
@@ -2563,39 +2566,38 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM DRAM                                        | 1         | 0.88%   |
 | Unknown RAM Module 1024MB Chip DDR 533MT/s                                   | 1         | 0.88%   |
 | Unknown (F301) RAM G2BT-4AFP00 16384MB SODIMM DDR4 2133MT/s                  | 1         | 0.88%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s             | 1         | 0.88%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s               | 1         | 0.88%   |
+| Unknown (ABCD) RAM 123456789012345678 2048MB SODIMM LPDDR4 2400MT/s          | 1         | 0.88%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB DIMM DDR3 2400MT/s                 | 1         | 0.88%   |
 | TRS STAR RAM Module 8GB SODIMM DDR3 1333MT/s                                 | 1         | 0.88%   |
-| Teikon RAM TMT451S6BFR8A-PBHJ 4GB SODIMM DDR3 1600MT/s                       | 1         | 0.88%   |
+| Teikon RAM TMT451S6BFR8A-PBHJ 4096MB SODIMM DDR3 1600MT/s                    | 1         | 0.88%   |
 | Team RAM TEAMGROUP-SD4-2400 16GB SODIMM DDR4 8400MT/s                        | 1         | 0.88%   |
 | Smart RAM SH564128FH8NZPHSCG 4GB SODIMM DDR3 1334MT/s                        | 1         | 0.88%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2400MT/s                             | 1         | 0.88%   |
 | SK hynix RAM HYMP112S64CP6-Y5 1024MB SODIMM DDR2 667MT/s                     | 1         | 0.88%   |
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s                       | 1         | 0.88%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s                    | 1         | 0.88%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                       | 1         | 0.88%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                       | 1         | 0.88%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s                       | 1         | 0.88%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s                       | 1         | 0.88%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                       | 1         | 0.88%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s                       | 1         | 0.88%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1333MT/s                    | 1         | 0.88%   |
 | SK hynix RAM HMT351S6BFR8C-G7 4GB SODIMM DDR3 1067MT/s                       | 1         | 0.88%   |
 | SK hynix RAM HMT351S6AFR8C-G7 4GB SODIMM DDR3 1067MT/s                       | 1         | 0.88%   |
-| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s                       | 1         | 0.88%   |
-| SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s                    | 1         | 0.88%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s                       | 1         | 0.88%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1334MT/s                       | 1         | 0.88%   |
 | SK hynix RAM 48594D503131325336344350362D53362020 1024MB SODIMM DDR2 667MT/s | 1         | 0.88%   |
-| SK hynix RAM 0000000000-00000 8GB SODIMM DDR4 2400MT/s                       | 1         | 0.88%   |
+| SK hynix RAM 0000000000-00000 4GB SODIMM DDR4 2400MT/s                       | 1         | 0.88%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s                        | 1         | 0.88%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s                        | 1         | 0.88%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 0.88%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 0.88%   |
-| Samsung RAM M471B2873FHS-CH9 1024MB SODIMM DDR3 1334MT/s                     | 1         | 0.88%   |
+| Samsung RAM M471B2873FHS-CH9 1GB SODIMM DDR3 1334MT/s                        | 1         | 0.88%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s                        | 1         | 0.88%   |
 | Samsung RAM M471A5644EB0-CPB 2GB SODIMM DDR4 2133MT/s                        | 1         | 0.88%   |
-| Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s                        | 1         | 0.88%   |
+| Samsung RAM M471A5244BB0-CPB 4096MB SODIMM DDR4 2400MT/s                     | 1         | 0.88%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s                       | 1         | 0.88%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s                        | 1         | 0.88%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s                        | 1         | 0.88%   |
 
 Memory Kind
 -----------
@@ -2642,11 +2644,11 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 44        | 45.83%  |
-| 2048  | 22        | 22.92%  |
-| 8192  | 19        | 19.79%  |
-| 16384 | 8         | 8.33%   |
-| 1024  | 3         | 3.13%   |
+| 4096  | 44        | 46.32%  |
+| 2048  | 21        | 22.11%  |
+| 8192  | 19        | 20%     |
+| 16384 | 8         | 8.42%   |
+| 1024  | 3         | 3.16%   |
 
 Memory Speed
 ------------
@@ -2764,10 +2766,10 @@ Camera device models
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                                   | 4         | 5.56%   |
+| Realtek Integrated_Webcam_HD                                | 3         | 4.17%   |
 | Syntek EasyCamera                                           | 2         | 2.78%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 2         | 2.78%   |
 | Realtek USB2.0 HD UVC WebCam                                | 2         | 2.78%   |
-| Realtek Integrated_Webcam_HD                                | 2         | 2.78%   |
 | Microdia Integrated Webcam                                  | 2         | 2.78%   |
 | Lite-On Integrated Camera                                   | 2         | 2.78%   |
 | Lenovo Integrated Webcam [R5U877]                           | 2         | 2.78%   |
@@ -2788,12 +2790,11 @@ Camera device models
 | Sunplus Dell Integrated Webcam                              | 1         | 1.39%   |
 | Sunplus ASUS USB2.0 Webcam                                  | 1         | 1.39%   |
 | Silicon Motion Silicon Motion Camera                        | 1         | 1.39%   |
-| Samsung Galaxy A5 (MTP)                                     | 1         | 1.39%   |
+| Samsung Galaxy series, misc. (MTP mode)                     | 1         | 1.39%   |
 | Ricoh USB2.0 Camera                                         | 1         | 1.39%   |
 | Realtek USB2.0 VGA UVC WebCam                               | 1         | 1.39%   |
 | Realtek Integrated Webcam                                   | 1         | 1.39%   |
 | Realtek HD Webcam - Realtek                                 | 1         | 1.39%   |
-| Realtek 2SF001                                              | 1         | 1.39%   |
 | Quanta HP Wide Vision HD Camera                             | 1         | 1.39%   |
 | Microdia USB 2.0 Camera                                     | 1         | 1.39%   |
 | Microdia Laptop_Integrated_Webcam_1.3M                      | 1         | 1.39%   |
@@ -2814,7 +2815,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD     | 1         | 1.39%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam         | 1         | 1.39%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera         | 1         | 1.39%   |
-| Alcor Micro USB 2.0 PC cam                                  | 1         | 1.39%   |
+| Alcor Micro USB 2.0 Camera                                  | 1         | 1.39%   |
 | Acer SunplusIT Integrated Camera                            | 1         | 1.39%   |
 | Acer SunplusIT INC. Integrated Camera                       | 1         | 1.39%   |
 | Acer Lenovo EasyCamera                                      | 1         | 1.39%   |

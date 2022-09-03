@@ -975,7 +975,7 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB                   | 1         | 1.35%   |
 | Seagate ST1000LM035-1RK172 1TB                    | 1         | 1.35%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                | 1         | 1.35%   |
-| Seagate Expansion 1TB                             | 1         | 1.35%   |
+| Seagate Expansion 500GB                           | 1         | 1.35%   |
 | SanDisk SD8SN8U-128G-1006 128GB SSD               | 1         | 1.35%   |
 | Samsung SSD SM871 2.5 7mm 512GB                   | 1         | 1.35%   |
 | Samsung SSD 860 EVO M.2 500GB                     | 1         | 1.35%   |
@@ -1087,9 +1087,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 52     | 70.69%  |
-| 0.51-1.0   | 15        | 15     | 25.86%  |
-| 1.01-2.0   | 2         | 2      | 3.45%   |
+| 0.01-0.5   | 41        | 53     | 71.93%  |
+| 0.51-1.0   | 14        | 14     | 24.56%  |
+| 1.01-2.0   | 2         | 2      | 3.51%   |
 
 Space Total
 -----------
@@ -1719,18 +1719,18 @@ Monitor models
 | LG Display LCD Monitor LGD02C5 1920x1080 382x215mm 17.3-inch          | 1         | 1.47%   |
 | LG Display LCD Monitor LGD0290 1366x768 293x165mm 13.2-inch           | 1         | 1.47%   |
 | Lenovo T24i-10 LEN61A6 1920x1080 527x296mm 23.8-inch                  | 1         | 1.47%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch               | 1         | 1.47%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch               | 1         | 1.47%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.47%   |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch               | 1         | 1.47%   |
 | Lenovo LCD Monitor LEN4000 1024x768 246x184mm 12.1-inch               | 1         | 1.47%   |
 | Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch            | 1         | 1.47%   |
 | Goldstar W2252 GSM567E 1680x1050 474x296mm 22.0-inch                  | 1         | 1.47%   |
 | Goldstar L192WS GSM4B32 1440x900 410x256mm 19.0-inch                  | 1         | 1.47%   |
-| Dell U2417H DEL40E7 1920x1080 530x300mm 24.0-inch                     | 1         | 1.47%   |
+| Dell U2417H DEL40E7 1920x1080 527x296mm 23.8-inch                     | 1         | 1.47%   |
 | Dell U2412M DELA079 1920x1200 518x324mm 24.1-inch                     | 1         | 1.47%   |
 | Dell P2016 DEL40D0 1440x900 419x262mm 19.5-inch                       | 1         | 1.47%   |
 | Dell P170S DEL4058 1280x1024 338x270mm 17.0-inch                      | 1         | 1.47%   |
-| Dell 1908FP DEL4025 1280x1024 376x301mm 19.0-inch                     | 1         | 1.47%   |
+| Dell 1908FP DEL4025 1280x1024 380x300mm 19.1-inch                     | 1         | 1.47%   |
 | Chimei Innolux LCD Monitor CMN15F4 1920x1080 344x193mm 15.5-inch      | 1         | 1.47%   |
 | Chimei Innolux LCD Monitor CMN15D6 1920x1080 344x193mm 15.5-inch      | 1         | 1.47%   |
 | Chimei Innolux LCD Monitor CMN15D3 1920x1080 344x193mm 15.5-inch      | 1         | 1.47%   |
@@ -1748,7 +1748,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO42EB 3840x2160 344x193mm 15.5-inch        | 1         | 1.47%   |
 | AU Optronics LCD Monitor AUO423D 1920x1080 309x173mm 13.9-inch        | 1         | 1.47%   |
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.47%   |
-| AU Optronics LCD Monitor AUO21EC 1366x768 344x193mm 15.5-inch         | 1         | 1.47%   |
+| AU Optronics LCD Monitor AUO21EC 1366x768 340x190mm 15.3-inch         | 1         | 1.47%   |
 | AU Optronics LCD Monitor AUO133D 1920x1080 309x173mm 13.9-inch        | 1         | 1.47%   |
 | AU Optronics LCD Monitor AUO119D 1920x1080 381x214mm 17.2-inch        | 1         | 1.47%   |
 | AU Optronics LCD Monitor AUO103C 1366x768 309x173mm 13.9-inch         | 1         | 1.47%   |
@@ -2120,7 +2120,7 @@ Ethernet models
 | Intel Ethernet Connection (3) I218-LM                             | 1         | 1.69%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.69%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.69%   |
-| Huawei LYA-L09                                                    | 1         | 1.69%   |
+| Huawei JNY-LX1                                                    | 1         | 1.69%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.69%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.69%   |
 
@@ -2213,17 +2213,18 @@ Controller models
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 8         | 18.6%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 4         | 9.3%    |
+| Qualcomm Atheros  Bluetooth Device                                                  | 3         | 6.98%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 4.65%   |
 | Realtek Bluetooth Radio                                                             | 2         | 4.65%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 4.65%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 4.65%   |
-| Intel Bluetooth Device                                                              | 2         | 4.65%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 2         | 4.65%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 2         | 4.65%   |
 | Intel AX201 Bluetooth                                                               | 2         | 4.65%   |
 | Intel AX200 Bluetooth                                                               | 2         | 4.65%   |
 | Dell DW375 Bluetooth Module                                                         | 2         | 4.65%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 2         | 4.65%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.33%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.33%   |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 2.33%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 2.33%   |
@@ -2336,58 +2337,58 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                           | Notebooks | Percent |
-|-----------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s        | 2         | 3.92%   |
-| Wilk RAM GR3200S464L22/16G 16384MB SODIMM DDR4 3200MT/s         | 1         | 1.96%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 1.96%   |
-| Unknown RAM Module 4096MB SODIMM DDR3                           | 1         | 1.96%   |
-| Unknown RAM Module 4096MB SODIMM DDR2 667MT/s                   | 1         | 1.96%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                   | 1         | 1.96%   |
-| Unknown RAM Module 1024MB SODIMM DRAM                           | 1         | 1.96%   |
-| Transcend RAM JM2666HSB-16G 16GB SODIMM DDR4 2667MT/s           | 1         | 1.96%   |
-| SK hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
-| SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 1         | 1.96%   |
-| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s          | 1         | 1.96%   |
-| SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s         | 1         | 1.96%   |
-| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s          | 1         | 1.96%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s          | 1         | 1.96%   |
-| Samsung RAM Module 4096MB SODIMM DDR4 2667MT/s                  | 1         | 1.96%   |
-| Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                   | 1         | 1.96%   |
-| Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                   | 1         | 1.96%   |
-| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s           | 1         | 1.96%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s           | 1         | 1.96%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
-| Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s           | 1         | 1.96%   |
-| Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s          | 1         | 1.96%   |
-| Samsung RAM M471A1K44BM0-CTD 8192MB SODIMM DDR4 2667MT/s        | 1         | 1.96%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s           | 1         | 1.96%   |
-| Samsung RAM K4E6E304EE-EGCE 4096MB SODIMM LPDDR3 1600MT/s       | 1         | 1.96%   |
-| Samsung RAM K4E6E304EB-EGCG 4096MB Row Of Chips LPDDR3 2133MT/s | 1         | 1.96%   |
-| Ramaxel RAM RMSA3260MB78HAF2400 8GB SODIMM DDR4 2400MT/s        | 1         | 1.96%   |
-| Micron RAM 8JSF25664HZ-1G4D1 2048MB SODIMM DDR3 1334MT/s        | 1         | 1.96%   |
-| Micron RAM 16JTF51264HZ-1G4M1 4096MB SODIMM DDR3 1334MT/s       | 1         | 1.96%   |
-| Micron RAM 16JTF51264HZ-1G4H1 4GB SODIMM DDR3 1333MT/s          | 1         | 1.96%   |
-| Kingston RAM MSI26D4S9D8ME-16 16GB SODIMM DDR4 2667MT/s         | 1         | 1.96%   |
-| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
-| Kingston RAM ACR16D3LS1NGG/4G 4GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
-| Kingston RAM 99U5469-041.A00LF 4GB SODIMM DDR3 1600MT/s         | 1         | 1.96%   |
-| Kingston RAM 99U5428-058.A00LF 8192MB SODIMM DDR3 1333MT/s      | 1         | 1.96%   |
-| Kingston RAM 9905744-066.A00G 32GB SODIMM DDR4 3200MT/s         | 1         | 1.96%   |
-| Kingston RAM 9905700-025.A00G 8192MB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
-| Elpida RAM EBJ20UF8BDU5-GN-F 2048MB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
-| Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s          | 1         | 1.96%   |
-| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s         | 1         | 1.96%   |
-| Crucial RAM CT25664BF160B.C8FK 2048MB SODIMM DDR3 1600MT/s      | 1         | 1.96%   |
-| Apacer RAM 78.A2G86.AF5 2048MB SODIMM DDR2 800MT/s              | 1         | 1.96%   |
-| A-DATA RAM Module 4096MB SODIMM DDR3 1333MT/s                   | 1         | 1.96%   |
-| A-DATA RAM AD73I1B1672EG 2GB SODIMM DDR3 1333MT/s               | 1         | 1.96%   |
+| Model                                                        | Notebooks | Percent |
+|--------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s     | 2         | 3.92%   |
+| Wilk RAM GR3200S464L22/16G 16384MB SODIMM DDR4 3200MT/s      | 1         | 1.96%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1067MT/s                  | 1         | 1.96%   |
+| Unknown RAM Module 4096MB SODIMM DDR3                        | 1         | 1.96%   |
+| Unknown RAM Module 4096MB SODIMM DDR2 667MT/s                | 1         | 1.96%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 1.96%   |
+| Unknown RAM Module 1024MB SODIMM DRAM                        | 1         | 1.96%   |
+| Transcend RAM JM2666HSB-16G 16GB SODIMM DDR4 2667MT/s        | 1         | 1.96%   |
+| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s      | 1         | 1.96%   |
+| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 1.96%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
+| Samsung RAM Module 4096MB SODIMM DDR4 2667MT/s               | 1         | 1.96%   |
+| Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 1.96%   |
+| Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                | 1         | 1.96%   |
+| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s        | 1         | 1.96%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 1         | 1.96%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
+| Samsung RAM M471A5244BB0-CPB 4096MB SODIMM DDR4 2400MT/s     | 1         | 1.96%   |
+| Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s       | 1         | 1.96%   |
+| Samsung RAM M471A1K44BM0-CTD 8192MB SODIMM DDR4 2667MT/s     | 1         | 1.96%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s        | 1         | 1.96%   |
+| Samsung RAM K4E6E304EE-EGCE 4096MB SODIMM LPDDR3 1600MT/s    | 1         | 1.96%   |
+| Samsung RAM K4E6E304EB-EGCG 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.96%   |
+| Ramaxel RAM RMSA3260MB78HAF2400 8GB SODIMM DDR4 2400MT/s     | 1         | 1.96%   |
+| Micron RAM 8JSF25664HZ-1G4D1 2GB SODIMM DDR3 1334MT/s        | 1         | 1.96%   |
+| Micron RAM 16JTF51264HZ-1G4M1 4096MB SODIMM DDR3 1334MT/s    | 1         | 1.96%   |
+| Micron RAM 16JTF51264HZ-1G4H1 4GB SODIMM DDR3 1333MT/s       | 1         | 1.96%   |
+| Kingston RAM MSI26D4S9D8ME-16 16GB SODIMM DDR4 2667MT/s      | 1         | 1.96%   |
+| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
+| Kingston RAM ACR16D3LS1NGG/4G 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
+| Kingston RAM 99U5469-041.A00LF 4GB SODIMM DDR3 1600MT/s      | 1         | 1.96%   |
+| Kingston RAM 99U5428-058.A00LF 8192MB SODIMM DDR3 1333MT/s   | 1         | 1.96%   |
+| Kingston RAM 9905744-066.A00G 32GB SODIMM DDR4 3200MT/s      | 1         | 1.96%   |
+| Kingston RAM 9905700-025.A00G 8GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
+| Elpida RAM EBJ20UF8BDU5-GN-F 2048MB SODIMM DDR3 1600MT/s     | 1         | 1.96%   |
+| Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
+| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s      | 1         | 1.96%   |
+| Crucial RAM CT25664BF160B.C8FK 2048MB SODIMM DDR3 1600MT/s   | 1         | 1.96%   |
+| Apacer RAM 78.A2G86.AF5 2048MB SODIMM DDR2 800MT/s           | 1         | 1.96%   |
+| A-DATA RAM Module 4096MB SODIMM DDR3 1333MT/s                | 1         | 1.96%   |
+| A-DATA RAM AD73I1B1672EG 2GB SODIMM DDR3 1333MT/s            | 1         | 1.96%   |
 
 Memory Kind
 -----------
@@ -2568,7 +2569,7 @@ Camera device models
 | Logitech C922 Pro Stream Webcam               | 1         | 2.17%   |
 | Lite-On HP HD Camera                          | 1         | 2.17%   |
 | IMC Networks USB2.0 HD UVC WebCam             | 1         | 2.17%   |
-| Generalplus 808 Camera                        | 1         | 2.17%   |
+| Generalplus 808 Camera #9 (web-cam mode)      | 1         | 2.17%   |
 | Chicony USB2.0 Camera                         | 1         | 2.17%   |
 | Chicony TOSHIBA Web Camera - HD               | 1         | 2.17%   |
 | Chicony Lenovo Integrated Camera (0.3MP)      | 1         | 2.17%   |

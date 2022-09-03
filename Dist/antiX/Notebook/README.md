@@ -1489,17 +1489,17 @@ Monitor models
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch | 1         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC3741 1366x768 309x174mm 14.0-inch | 1         | 4.35%   |
+| Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch | 1         | 4.35%   |
 | LG Philips LCD Monitor LPLA101 1440x900 367x230mm 17.1-inch          | 1         | 4.35%   |
 | LG Display LP101WH1-TLB5 LGD0248 1366x768 224x126mm 10.1-inch        | 1         | 4.35%   |
 | LG Display LCD Monitor LGD04B2 1920x1080 309x175mm 14.0-inch         | 1         | 4.35%   |
 | LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch         | 1         | 4.35%   |
-| LG Display LCD Monitor LGD045E 1366x768 309x174mm 14.0-inch          | 1         | 4.35%   |
+| LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch          | 1         | 4.35%   |
 | LG Display LCD Monitor LGD02C7 1366x768 293x165mm 13.2-inch          | 1         | 4.35%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch              | 1         | 4.35%   |
 | HJW HDMI TO USB HJW0001 1920x1080 708x398mm 32.0-inch                | 1         | 4.35%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch            | 1         | 4.35%   |
 | HannStar LCD Monitor HSD0325 1024x600 195x113mm 8.9-inch             | 1         | 4.35%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch             | 1         | 4.35%   |
 | CPT LCD Monitor CPT04C4 1024x600 222x130mm 10.1-inch                 | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch      | 1         | 4.35%   |
 | BOE LCD Monitor BOE06E2 1920x1080 309x173mm 13.9-inch                | 1         | 4.35%   |
@@ -2023,12 +2023,12 @@ Memory module models
 | Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s | 1         | 2.44%   |
 | SK hynix RAM Module 512MB SODIMM DDR2 533MT/s                  | 1         | 2.44%   |
 | SK hynix RAM Module 1GB SODIMM DDR3 1067MT/s                   | 1         | 2.44%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s           | 1         | 2.44%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s          | 1         | 2.44%   |
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 2.44%   |
-| SK hynix RAM HMT125S6BFR8C-G7 2048MB SODIMM DDR3 1067MT/s      | 1         | 2.44%   |
+| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s         | 1         | 2.44%   |
 | SK hynix RAM HMT112S6BFR6C-G7 1GB SODIMM 1067MT/s              | 1         | 2.44%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s         | 1         | 2.44%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 2.44%   |
+| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s       | 1         | 2.44%   |
 | Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s       | 1         | 2.44%   |
 | Micron RAM Module 512MB SODIMM DDR2 533MT/s                    | 1         | 2.44%   |
 | Micron RAM 8HTF12864HDY-800G1 1024MB SODIMM DDR2 800MT/s       | 1         | 2.44%   |

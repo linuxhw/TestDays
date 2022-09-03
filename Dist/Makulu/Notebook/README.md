@@ -705,27 +705,27 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Notebooks | Percent |
-|--------------------------------------|-----------|---------|
-| Toshiba MQ01ABD100 1TB               | 2         | 9.52%   |
-| Seagate ST500LT012-1DG142 500GB      | 2         | 9.52%   |
-| Unknown SD/MMC/MS PRO 64GB           | 1         | 4.76%   |
-| Transcend TS64GMSA230S 64GB SSD      | 1         | 4.76%   |
-| Toshiba MQ01ABF050M 500GB            | 1         | 4.76%   |
-| Seagate ST9320325AS 320GB            | 1         | 4.76%   |
-| Seagate Expansion Desk 4TB           | 1         | 4.76%   |
-| SanDisk SSD PLUS 1000GB              | 1         | 4.76%   |
-| SanDisk NVMe SSD Drive 512GB         | 1         | 4.76%   |
-| Samsung NVMe SSD Drive 1TB           | 1         | 4.76%   |
-| Samsung NVMe SSD Drive 1024GB        | 1         | 4.76%   |
-| Samsung MZ7TD128HAFV-000L1 128GB SSD | 1         | 4.76%   |
-| Samsung HM500JI 500GB                | 1         | 4.76%   |
-| LITEON L8H-256V2G-HP 256GB SSD       | 1         | 4.76%   |
-| KIOXIA NVMe SSD Drive 256GB          | 1         | 4.76%   |
-| JMicron Tech 250GB                   | 1         | 4.76%   |
-| Hitachi HTS545025B9A300 250GB        | 1         | 4.76%   |
-| HGST HTS721010A9E630 1TB             | 1         | 4.76%   |
-| Apple SSD SM0256F 256GB              | 1         | 4.76%   |
+| Model                                   | Notebooks | Percent |
+|-----------------------------------------|-----------|---------|
+| Toshiba MQ01ABD100 1TB                  | 2         | 9.52%   |
+| Seagate ST500LT012-1DG142 500GB         | 2         | 9.52%   |
+| Unknown SD/MMC/MS PRO 128GB             | 1         | 4.76%   |
+| Transcend TS64GMSA230S 64GB SSD         | 1         | 4.76%   |
+| Toshiba MQ01ABF050M 500GB               | 1         | 4.76%   |
+| Seagate ST9320325AS 320GB               | 1         | 4.76%   |
+| Seagate Expansion Desk 4TB              | 1         | 4.76%   |
+| SanDisk SSD PLUS 1000GB                 | 1         | 4.76%   |
+| SanDisk NVMe SSD Drive 512GB            | 1         | 4.76%   |
+| Samsung SM963 2.5" NVMe PCIe SSD 1024GB | 1         | 4.76%   |
+| Samsung NVMe SSD Drive 1TB              | 1         | 4.76%   |
+| Samsung MZ7TD128HAFV-000L1 128GB SSD    | 1         | 4.76%   |
+| Samsung HM500JI 500GB                   | 1         | 4.76%   |
+| LITEON L8H-256V2G-HP 256GB SSD          | 1         | 4.76%   |
+| KIOXIA NVMe SSD Drive 256GB             | 1         | 4.76%   |
+| JMicron Tech 250GB                      | 1         | 4.76%   |
+| Hitachi HTS545025B9A300 250GB           | 1         | 4.76%   |
+| HGST HTS721010A9E630 1TB                | 1         | 4.76%   |
+| Apple SSD SM0256F 256GB                 | 1         | 4.76%   |
 
 HDD Vendor
 ----------
@@ -1219,8 +1219,8 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 6.67%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 6.67%   |
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |
 | LG Display LCD Monitor LGD04DA 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |

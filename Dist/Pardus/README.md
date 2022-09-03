@@ -837,7 +837,7 @@ Hard drive models
 | WDC WD10JPVX-60JC3T0 1TB                    | 1         | 1.82%   |
 | WDC WD10JPCX-24UE4T0 1TB                    | 1         | 1.82%   |
 | WDC WD10EZEX-60WN4A0 1TB                    | 1         | 1.82%   |
-| Unknown SD/MMC/MS PRO 64GB                  | 1         | 1.82%   |
+| Unknown SD/MMC/MS PRO 128GB                 | 1         | 1.82%   |
 | Unknown MMC Card  64GB                      | 1         | 1.82%   |
 | Toshiba DT01ACA100 1TB                      | 1         | 1.82%   |
 | Team T253X1240G 240GB SSD                   | 1         | 1.82%   |
@@ -850,7 +850,7 @@ Hard drive models
 | Seagate ST3160318AS 160GB                   | 1         | 1.82%   |
 | Seagate ST2000DM008-2FR102 2TB              | 1         | 1.82%   |
 | Seagate ST1000LM035-1RK172 1TB              | 1         | 1.82%   |
-| Seagate Expansion 1TB                       | 1         | 1.82%   |
+| Seagate Expansion 500GB                     | 1         | 1.82%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB | 1         | 1.82%   |
 | SanDisk Ultra II 240GB SSD                  | 1         | 1.82%   |
 | SanDisk SSD PLUS 240GB                      | 1         | 1.82%   |
@@ -870,11 +870,11 @@ Hard drive models
 | Kingston SV300S37A120G 120GB SSD            | 1         | 1.82%   |
 | Kingston SHFS37A120G 120GB SSD              | 1         | 1.82%   |
 | Kingston SA400S37240G 240GB SSD             | 1         | 1.82%   |
-| KingSpec P3-128 128GB SSD                   | 1         | 1.82%   |
+| KingSpec P3-128 128GB                       | 1         | 1.82%   |
 | Hitachi HTS545025B9A300 250GB               | 1         | 1.82%   |
 | Corsair Force LS SSD 64GB                   | 1         | 1.82%   |
 | China SATA SSD 120GB                        | 1         | 1.82%   |
-| addlink S10 120GB                           | 1         | 1.82%   |
+| addlink S10 960GB                           | 1         | 1.82%   |
 
 HDD Vendor
 ----------
@@ -960,9 +960,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 29        | 38     | 69.05%  |
-| 0.51-1.0   | 12        | 16     | 28.57%  |
-| 1.01-2.0   | 1         | 2      | 2.38%   |
+| 0.01-0.5   | 29        | 39     | 70.73%  |
+| 0.51-1.0   | 11        | 15     | 26.83%  |
+| 1.01-2.0   | 1         | 2      | 2.44%   |
 
 Space Total
 -----------
@@ -1925,7 +1925,7 @@ Controller models
 | Ralink RT3290 Bluetooth                             | 1         | 4.17%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 4.17%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4.17%   |
-| Intel Bluetooth Device                              | 1         | 4.17%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 4.17%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 4.17%   |
 | Intel AX201 Bluetooth                               | 1         | 4.17%   |
 | Intel AX200 Bluetooth                               | 1         | 4.17%   |

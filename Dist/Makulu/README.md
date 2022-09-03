@@ -602,7 +602,7 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2013 | 7         | 17.5%   |
 | 2012 | 6         | 15%     |
-| 2020 | 5         | 12.5%   |
+| 2020 | 4         | 10%     |
 | 2018 | 4         | 10%     |
 | 2014 | 3         | 7.5%    |
 | 2010 | 3         | 7.5%    |
@@ -610,6 +610,7 @@ Motherboard manufacture year
 | 2019 | 2         | 5%      |
 | 2011 | 2         | 5%      |
 | 2008 | 2         | 5%      |
+| 2017 | 1         | 2.5%    |
 | 2016 | 1         | 2.5%    |
 | 2015 | 1         | 2.5%    |
 | 2007 | 1         | 2.5%    |
@@ -888,7 +889,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.56%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.56%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.56%   |
-| Unknown SD/MMC/MS PRO 64GB                   | 1         | 1.56%   |
+| Unknown SD/MMC/MS PRO 128GB                  | 1         | 1.56%   |
 | Unknown MMC Card  128GB                      | 1         | 1.56%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.56%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.56%   |
@@ -911,8 +912,8 @@ Hard drive models
 | SanDisk NVMe SSD Drive 512GB                 | 1         | 1.56%   |
 | Samsung SSD 870 QVO 2TB                      | 1         | 1.56%   |
 | Samsung SSD 860 EVO mSATA 500GB              | 1         | 1.56%   |
+| Samsung SM963 2.5" NVMe PCIe SSD 1024GB      | 1         | 1.56%   |
 | Samsung NVMe SSD Drive 250GB                 | 1         | 1.56%   |
-| Samsung NVMe SSD Drive 1024GB                | 1         | 1.56%   |
 | Samsung MZMPC064HBDR-000L1 64GB SSD          | 1         | 1.56%   |
 | Samsung MZ7TD128HAFV-000L1 128GB SSD         | 1         | 1.56%   |
 | Samsung HM500JI 500GB                        | 1         | 1.56%   |
@@ -924,15 +925,15 @@ Hard drive models
 | Leven JAJS600M512C 512GB SSD                 | 1         | 1.56%   |
 | KIOXIA NVMe SSD Drive 256GB                  | 1         | 1.56%   |
 | JMicron Tech 250GB                           | 1         | 1.56%   |
-| JMicron Generic 2TB                          | 1         | 1.56%   |
-| Intenso Portable SSD 128GB                   | 1         | 1.56%   |
+| JMicron Generic 160GB                        | 1         | 1.56%   |
+| Intenso Portable SSD 512GB                   | 1         | 1.56%   |
 | Hitachi HTS545025B9A300 250GB                | 1         | 1.56%   |
 | Hitachi HDS728080PLA380 82GB                 | 1         | 1.56%   |
 | Hitachi HDS721010CLA332 1TB                  | 1         | 1.56%   |
 | HGST HTS721010A9E630 1TB                     | 1         | 1.56%   |
 | Crucial CT240BX500SSD1 240GB                 | 1         | 1.56%   |
 | China SATA SSD 120GB                         | 1         | 1.56%   |
-| ASMT USB 3.0 Destop H 1TB SSD                | 1         | 1.56%   |
+| ASMT USB 3.0 Destop H 5TB                    | 1         | 1.56%   |
 | Apple SSD SM0256F 256GB                      | 1         | 1.56%   |
 
 HDD Vendor
@@ -945,14 +946,15 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 12        | 14     | 44.44%  |
-| WDC                 | 5         | 7      | 18.52%  |
-| Toshiba             | 3         | 3      | 11.11%  |
-| Hitachi             | 3         | 3      | 11.11%  |
-| Unknown             | 1         | 1      | 3.7%    |
-| Samsung Electronics | 1         | 1      | 3.7%    |
-| Maxtor              | 1         | 1      | 3.7%    |
-| HGST                | 1         | 1      | 3.7%    |
+| Seagate             | 12        | 14     | 42.86%  |
+| WDC                 | 5         | 7      | 17.86%  |
+| Toshiba             | 3         | 3      | 10.71%  |
+| Hitachi             | 3         | 3      | 10.71%  |
+| Unknown             | 1         | 1      | 3.57%   |
+| Samsung Electronics | 1         | 1      | 3.57%   |
+| Maxtor              | 1         | 1      | 3.57%   |
+| HGST                | 1         | 1      | 3.57%   |
+| ASMT                | 1         | 1      | 3.57%   |
 
 SSD Vendor
 ----------
@@ -974,10 +976,10 @@ Solid state drive vendors
 | LITEONIT            | 1         | 1      | 4.76%   |
 | LITEON              | 1         | 2      | 4.76%   |
 | Leven               | 1         | 1      | 4.76%   |
+| JMicron Technology  | 1         | 1      | 4.76%   |
 | Intenso             | 1         | 1      | 4.76%   |
 | Crucial             | 1         | 1      | 4.76%   |
 | China               | 1         | 1      | 4.76%   |
-| ASMT                | 1         | 1      | 4.76%   |
 | Apple               | 1         | 1      | 4.76%   |
 
 Drive Kind
@@ -990,11 +992,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 24        | 31     | 45.28%  |
-| SSD     | 18        | 24     | 33.96%  |
-| NVMe    | 8         | 12     | 15.09%  |
-| Unknown | 2         | 2      | 3.77%   |
-| MMC     | 1         | 1      | 1.89%   |
+| HDD     | 24        | 32     | 46.15%  |
+| SSD     | 18        | 24     | 34.62%  |
+| NVMe    | 7         | 11     | 13.46%  |
+| Unknown | 2         | 2      | 3.85%   |
+| MMC     | 1         | 1      | 1.92%   |
 
 Drive Connector
 ---------------
@@ -1021,10 +1023,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 37     | 61.36%  |
-| 0.51-1.0   | 15        | 16     | 34.09%  |
-| 3.01-4.0   | 1         | 1      | 2.27%   |
-| 1.01-2.0   | 1         | 1      | 2.27%   |
+| 0.01-0.5   | 26        | 37     | 60.47%  |
+| 0.51-1.0   | 14        | 16     | 32.56%  |
+| 3.01-4.0   | 1         | 1      | 2.33%   |
+| 1.01-2.0   | 1         | 1      | 2.33%   |
+| 4.01-10.0  | 1         | 1      | 2.33%   |
 
 Space Total
 -----------
@@ -1606,8 +1609,8 @@ Monitor models
 | Sony TV SNYDC01 1360x768                                                 | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SMS27A850T 2560x1440                     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 2.5%    |
 | Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch                       | 1         | 2.5%    |
 | LG Electronics LCD Monitor LG IPS FULLHD                                 | 1         | 2.5%    |
@@ -1624,11 +1627,11 @@ Monitor models
 | Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch                      | 1         | 2.5%    |
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                    | 1         | 2.5%    |
 | Element WD32FBL1001 ELE6308 1920x1080 890x500mm 40.2-inch                | 1         | 2.5%    |
-| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                        | 1         | 2.5%    |
+| Dell P2314H DEL4098 1920x1080 510x290mm 23.1-inch                        | 1         | 2.5%    |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch                        | 1         | 2.5%    |
 | Dell LCD Monitor E228WFP                                                 | 1         | 2.5%    |
+| Dell INSPIRON ONE DELB123 1920x1080 510x287mm 23.0-inch                  | 1         | 2.5%    |
 | Dell Inspiron 7790 DEL93FF 1920x1080 510x287mm 23.0-inch                 | 1         | 2.5%    |
-| Dell 23" AIO DELB123 1920x1080 510x287mm 23.0-inch                       | 1         | 2.5%    |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 2.5%    |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 2.5%    |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 2.5%    |
@@ -1638,7 +1641,7 @@ Monitor models
 | AUS LCD Monitor VA32AQ 2560x1440                                         | 1         | 2.5%    |
 | AU Optronics LCD Monitor AUO9274 1280x800 331x207mm 15.4-inch            | 1         | 2.5%    |
 | Apple Color LCD APP9CF0 1440x900 290x180mm 13.4-inch                     | 1         | 2.5%    |
-| AOC L19W931 AOC1993 1360x768 410x260mm 19.1-inch                         | 1         | 2.5%    |
+| AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch                         | 1         | 2.5%    |
 | AOC 2243W AOC2243 1920x1080 477x268mm 21.5-inch                          | 1         | 2.5%    |
 | Acer K243Y ACR08B7 1920x1080 527x296mm 23.8-inch                         | 1         | 2.5%    |
 | Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                       | 1         | 2.5%    |
@@ -2061,8 +2064,8 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 4.76%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 4.76%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 4.76%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 4.76%   |
 | Intel Bluetooth wireless interface                  | 1         | 4.76%   |
-| Intel Bluetooth Device                              | 1         | 4.76%   |
 | Intel AX200 Bluetooth                               | 1         | 4.76%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 4.76%   |
 | Dell BT Mini-Receiver                               | 1         | 4.76%   |
@@ -2171,11 +2174,11 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Computers | Percent |
-|---------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1         | 33.33%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s     | 1         | 33.33%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1         | 33.33%  |
+| Model                                                | Computers | Percent |
+|------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1         | 33.33%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1         | 33.33%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1         | 33.33%  |
 
 Memory Kind
 -----------

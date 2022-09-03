@@ -893,11 +893,11 @@ Hard drive models
 | Samsung HM250HI 250GB              | 1        | 1.72%   |
 | Samsung HD161HJ 160GB              | 1        | 1.72%   |
 | Samsung HD103SJ 1TB                | 1        | 1.72%   |
-| Samsung HD080HJ/ 80GB              | 1        | 1.72%   |
+| Samsung HD080HJ 80GB               | 1        | 1.72%   |
 | PNY CS900 1TB SSD                  | 1        | 1.72%   |
 | Plextor PX-128M5M 128GB SSD        | 1        | 1.72%   |
 | Maxtor STM3160215AS 160GB          | 1        | 1.72%   |
-| Leven JAJS600M256C 256GB SSD       | 1        | 1.72%   |
+| Leven JAJS600M256C 256GB           | 1        | 1.72%   |
 | Kingston SMS200S3120G 120GB SSD    | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD    | 1        | 1.72%   |
 | Kingston SA400S37120G 120GB SSD    | 1        | 1.72%   |
@@ -1559,10 +1559,10 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.63%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.63%   |
-| Vestel Elektronik 39FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch  | 1        | 2.63%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.63%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.63%   |
 | Toshiba TV TSB0200 1360x768 530x300mm 24.0-inch                        | 1        | 2.63%   |
-| SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.63%   |
+| SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                     | 1        | 2.63%   |
 | Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1        | 2.63%   |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 2.63%   |
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch      | 1        | 2.63%   |
@@ -1575,7 +1575,7 @@ Monitor models
 | HPN LCD Monitor HP 24o 1920x1080                                       | 1        | 2.63%   |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 480x270mm 21.7-inch          | 1        | 2.63%   |
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.63%   |
-| Hewlett-Packard LA2306 HWP294A 1920x1080 509x286mm 23.0-inch           | 1        | 2.63%   |
+| Hewlett-Packard LA2306 HWP294A 1920x1080 510x287mm 23.0-inch           | 1        | 2.63%   |
 | Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 2.63%   |
 | HannStar iH282 HSD20E6 1920x1200 593x371mm 27.5-inch                   | 1        | 2.63%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 2.63%   |
@@ -1583,7 +1583,7 @@ Monitor models
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.63%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.63%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.63%   |
-| Dell U2410 DELF016 1920x1200 520x320mm 24.0-inch                       | 1        | 2.63%   |
+| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 1        | 2.63%   |
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.63%   |
 | Dell LCD Monitor ST2220L                                               | 1        | 2.63%   |
 | BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                      | 1        | 2.63%   |
@@ -1593,7 +1593,7 @@ Monitor models
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                  | 1        | 2.63%   |
 | Ancor Communications LCD Monitor ASUS VS247                            | 1        | 2.63%   |
 | Ancor Communications ASUS PB287Q ACI28A3 3840x2160 621x341mm 27.9-inch | 1        | 2.63%   |
-| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                        | 1        | 2.63%   |
+| Acer X193W ACR000C 1440x900 410x260mm 19.1-inch                        | 1        | 2.63%   |
 | Acer LCD Monitor V227Q 1920x1080                                       | 1        | 2.63%   |
 
 Monitor Resolution
@@ -1748,11 +1748,12 @@ Controller vendors
 | Realtek Semiconductor            | 21       | 40.38%  |
 | Intel                            | 13       | 25%     |
 | Qualcomm Atheros                 | 6        | 11.54%  |
-| TP-Link                          | 3        | 5.77%   |
+| TP-Link                          | 2        | 3.85%   |
 | Qualcomm Atheros Communications  | 2        | 3.85%   |
 | Nvidia                           | 2        | 3.85%   |
 | T & A Mobile Phones              | 1        | 1.92%   |
 | Silicon Integrated Systems [SiS] | 1        | 1.92%   |
+| Realtek                          | 1        | 1.92%   |
 | Marvell Technology Group         | 1        | 1.92%   |
 | Linksys                          | 1        | 1.92%   |
 | Broadcom                         | 1        | 1.92%   |
@@ -1768,7 +1769,6 @@ Controller models
 | Model                                                                                         | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 18       | 31.58%  |
-| TP-Link 802.11ac NIC                                                                          | 2        | 3.51%   |
 | Qualcomm Atheros AR9271 802.11n                                                               | 2        | 3.51%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                                         | 2        | 3.51%   |
 | Nvidia MCP61 Ethernet                                                                         | 2        | 3.51%   |
@@ -1776,6 +1776,7 @@ Controller models
 | Intel I211 Gigabit Network Connection                                                         | 2        | 3.51%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 2        | 3.51%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]                               | 1        | 1.75%   |
+| TP-Link Archer T4U ver.3                                                                      | 1        | 1.75%   |
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                                                    | 1        | 1.75%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                                 | 1        | 1.75%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 1.75%   |
@@ -1784,6 +1785,7 @@ Controller models
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 1        | 1.75%   |
 | Realtek RTL8152 Fast Ethernet Adapter                                                         | 1        | 1.75%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.75%   |
+| Realtek 802.11ac NIC                                                                          | 1        | 1.75%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1        | 1.75%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                                     | 1        | 1.75%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1        | 1.75%   |
@@ -1814,8 +1816,9 @@ Wireless vendors
 | Realtek Semiconductor           | 5        | 26.32%  |
 | Intel                           | 5        | 26.32%  |
 | Qualcomm Atheros                | 3        | 15.79%  |
-| TP-Link                         | 2        | 10.53%  |
 | Qualcomm Atheros Communications | 2        | 10.53%  |
+| TP-Link                         | 1        | 5.26%   |
+| Realtek                         | 1        | 5.26%   |
 | Linksys                         | 1        | 5.26%   |
 | Broadcom                        | 1        | 5.26%   |
 
@@ -1829,14 +1832,15 @@ Wireless models
 
 | Model                                                                                         | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------|----------|---------|
-| TP-Link 802.11ac NIC                                                                          | 2        | 10.53%  |
 | Qualcomm Atheros AR9271 802.11n                                                               | 2        | 10.53%  |
 | Intel Wireless 3160                                                                           | 2        | 10.53%  |
+| TP-Link Archer T4U ver.3                                                                      | 1        | 5.26%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 5.26%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 5.26%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                                    | 1        | 5.26%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 1        | 5.26%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 5.26%   |
+| Realtek 802.11ac NIC                                                                          | 1        | 5.26%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1        | 5.26%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1        | 5.26%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                                    | 1        | 5.26%   |
@@ -2109,7 +2113,7 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                      | 1        | 5.88%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1024MB DIMM DDR2 800MT/s  | 1        | 5.88%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                           | 1        | 5.88%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR 49926MT/s                      | 1        | 5.88%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1        | 5.88%   |
 | Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                   | 1        | 5.88%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                                  | 1        | 5.88%   |
 | Kingston RAM 9905734-018.A00G 16384MB DIMM DDR4 2667MT/s                   | 1        | 5.88%   |
@@ -2258,13 +2262,13 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Huawei HiCamera                    | 2        | 33.33%  |
-| Z-Star Vimicro USB Camera (Altair) | 1        | 16.67%  |
-| Microdia Sonix USB 2.0 Camera      | 1        | 16.67%  |
-| Logitech HD Pro Webcam C920        | 1        | 16.67%  |
-| Cubeternet HDMI to U3 capture      | 1        | 16.67%  |
+| Model                             | Desktops | Percent |
+|-----------------------------------|----------|---------|
+| Huawei UVC Camera                 | 2        | 33.33%  |
+| Z-Star A4 TECH USB2.0 PC Camera E | 1        | 16.67%  |
+| Microdia Sonix USB 2.0 Camera     | 1        | 16.67%  |
+| Logitech HD Pro Webcam C920       | 1        | 16.67%  |
+| Cubeternet HDMI to U3 capture     | 1        | 16.67%  |
 
 Security
 --------

@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 58
+Total: 59
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
+| HP            | 1825                     | [bceae72004](https://linux-hardware.org/?probe=bceae72004) | Aug 15, 2022 |
 | MSI           | X99S MPOWER              | [a3c1523b6b](https://linux-hardware.org/?probe=a3c1523b6b) | Jul 27, 2022 |
 | Dell          | 054KM3 A01               | [407b210bfe](https://linux-hardware.org/?probe=407b210bfe) | Jul 05, 2022 |
 | HP            | 18E7                     | [2fd690b3b4](https://linux-hardware.org/?probe=2fd690b3b4) | Jun 22, 2022 |
@@ -260,39 +261,40 @@ Version of the Linux kernel
 
 | Version              | Desktops | Percent |
 |----------------------|----------|---------|
-| 5.10.0-9-amd64       | 6        | 12.77%  |
-| 4.19.0-14-amd64      | 4        | 8.51%   |
-| 4.19.0-16-amd64      | 3        | 6.38%   |
-| 5.10.0-8-amd64       | 2        | 4.26%   |
-| 5.10.0-6-amd64       | 2        | 4.26%   |
-| 4.19.0-9-amd64       | 2        | 4.26%   |
-| 4.19.0-13-amd64      | 2        | 4.26%   |
-| 5.9.0-1-amd64        | 1        | 2.13%   |
-| 5.8.0-3-amd64        | 1        | 2.13%   |
-| 5.7.0-1-amd64        | 1        | 2.13%   |
-| 5.7.0-0.bpo.2-amd64  | 1        | 2.13%   |
-| 5.18.14-devuan       | 1        | 2.13%   |
-| 5.18.0-1-amd64       | 1        | 2.13%   |
-| 5.16.0-1-amd64       | 1        | 2.13%   |
-| 5.15.0-2-amd64       | 1        | 2.13%   |
-| 5.15.0-0.bpo.2-amd64 | 1        | 2.13%   |
-| 5.14.0-kali2-amd64   | 1        | 2.13%   |
-| 5.10.0-5-amd64       | 1        | 2.13%   |
-| 5.10.0-2-amd64       | 1        | 2.13%   |
-| 5.10.0-15-amd64      | 1        | 2.13%   |
-| 5.10.0-11-amd64      | 1        | 2.13%   |
-| 5.10.0-10-amd64      | 1        | 2.13%   |
-| 4.9.0-15-amd64       | 1        | 2.13%   |
-| 4.9.0-14-686-pae     | 1        | 2.13%   |
-| 4.9.0-14-686         | 1        | 2.13%   |
-| 4.9.0-11-686-pae     | 1        | 2.13%   |
-| 4.19.112             | 1        | 2.13%   |
-| 4.19.0-20-amd64      | 1        | 2.13%   |
-| 4.19.0-12-amd64      | 1        | 2.13%   |
-| 4.19.0-10-amd64      | 1        | 2.13%   |
-| 4.19.0-1-amd64       | 1        | 2.13%   |
-| 4.19.0-0.bpo.6-amd64 | 1        | 2.13%   |
-| 4.18.0-0.bpo.1-amd64 | 1        | 2.13%   |
+| 5.10.0-9-amd64       | 6        | 12.5%   |
+| 4.19.0-14-amd64      | 4        | 8.33%   |
+| 4.19.0-16-amd64      | 3        | 6.25%   |
+| 5.10.0-8-amd64       | 2        | 4.17%   |
+| 5.10.0-6-amd64       | 2        | 4.17%   |
+| 4.19.0-9-amd64       | 2        | 4.17%   |
+| 4.19.0-13-amd64      | 2        | 4.17%   |
+| 5.9.0-1-amd64        | 1        | 2.08%   |
+| 5.8.0-3-amd64        | 1        | 2.08%   |
+| 5.7.0-1-amd64        | 1        | 2.08%   |
+| 5.7.0-0.bpo.2-amd64  | 1        | 2.08%   |
+| 5.18.14-devuan       | 1        | 2.08%   |
+| 5.18.0-1-amd64       | 1        | 2.08%   |
+| 5.16.0-1-amd64       | 1        | 2.08%   |
+| 5.15.0-2-amd64       | 1        | 2.08%   |
+| 5.15.0-0.bpo.2-amd64 | 1        | 2.08%   |
+| 5.14.0-kali2-amd64   | 1        | 2.08%   |
+| 5.10.0-5-amd64       | 1        | 2.08%   |
+| 5.10.0-2-amd64       | 1        | 2.08%   |
+| 5.10.0-16-amd64      | 1        | 2.08%   |
+| 5.10.0-15-amd64      | 1        | 2.08%   |
+| 5.10.0-11-amd64      | 1        | 2.08%   |
+| 5.10.0-10-amd64      | 1        | 2.08%   |
+| 4.9.0-15-amd64       | 1        | 2.08%   |
+| 4.9.0-14-686-pae     | 1        | 2.08%   |
+| 4.9.0-14-686         | 1        | 2.08%   |
+| 4.9.0-11-686-pae     | 1        | 2.08%   |
+| 4.19.112             | 1        | 2.08%   |
+| 4.19.0-20-amd64      | 1        | 2.08%   |
+| 4.19.0-12-amd64      | 1        | 2.08%   |
+| 4.19.0-10-amd64      | 1        | 2.08%   |
+| 4.19.0-1-amd64       | 1        | 2.08%   |
+| 4.19.0-0.bpo.6-amd64 | 1        | 2.08%   |
+| 4.18.0-0.bpo.1-amd64 | 1        | 2.08%   |
 
 Kernel Family
 -------------
@@ -718,13 +720,13 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1.01-2.0  | 15       | 33.33%  |
-| 4.01-8.0  | 8        | 17.78%  |
-| 2.01-3.0  | 8        | 17.78%  |
-| 0.51-1.0  | 7        | 15.56%  |
-| 3.01-4.0  | 4        | 8.89%   |
-| 8.01-16.0 | 2        | 4.44%   |
-| 0.01-0.5  | 1        | 2.22%   |
+| 1.01-2.0  | 15       | 32.61%  |
+| 4.01-8.0  | 8        | 17.39%  |
+| 2.01-3.0  | 8        | 17.39%  |
+| 0.51-1.0  | 7        | 15.22%  |
+| 3.01-4.0  | 4        | 8.7%    |
+| 8.01-16.0 | 2        | 4.35%   |
+| 0.01-0.5  | 2        | 4.35%   |
 
 Total Drives
 ------------
@@ -889,7 +891,7 @@ Hard drive vendors
 |---------------------|----------|--------|---------|
 | WDC                 | 19       | 36     | 24.68%  |
 | Seagate             | 17       | 25     | 22.08%  |
-| Kingston            | 9        | 11     | 11.69%  |
+| Kingston            | 9        | 12     | 11.69%  |
 | Toshiba             | 5        | 5      | 6.49%   |
 | Samsung Electronics | 4        | 5      | 5.19%   |
 | Crucial             | 4        | 6      | 5.19%   |
@@ -1010,7 +1012,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 6        | 7      | 23.08%  |
+| Kingston            | 6        | 8      | 23.08%  |
 | Samsung Electronics | 4        | 5      | 15.38%  |
 | WDC                 | 2        | 2      | 7.69%   |
 | Netac               | 2        | 2      | 7.69%   |
@@ -1034,7 +1036,7 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 34       | 69     | 52.31%  |
-| SSD     | 23       | 30     | 35.38%  |
+| SSD     | 23       | 31     | 35.38%  |
 | NVMe    | 7        | 9      | 10.77%  |
 | Unknown | 1        | 3      | 1.54%   |
 
@@ -1048,7 +1050,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 42       | 96     | 80.77%  |
+| SATA | 42       | 97     | 80.77%  |
 | NVMe | 7        | 9      | 13.46%  |
 | SAS  | 3        | 6      | 5.77%   |
 
@@ -1063,7 +1065,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 31       | 51     | 53.45%  |
-| 0.51-1.0   | 16       | 32     | 27.59%  |
+| 0.51-1.0   | 16       | 33     | 27.59%  |
 | 1.01-2.0   | 6        | 11     | 10.34%  |
 | 3.01-4.0   | 4        | 4      | 6.9%    |
 | 4.01-10.0  | 1        | 1      | 1.72%   |
@@ -1209,7 +1211,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 31       | 73     | 58.49%  |
+| Works    | 31       | 74     | 58.49%  |
 | Malfunc  | 12       | 14     | 22.64%  |
 | Detected | 10       | 24     | 18.87%  |
 
@@ -1692,13 +1694,13 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch   | 2        | 4%      |
 | Hewlett-Packard 22m HPN3575 1920x1080 476x268mm 21.5-inch              | 2        | 4%      |
-| ___ LCD TV ___9000 1360x768                                            | 1        | 2%      |
+| ___ LCDTV16 ___9000 1360x768                                           | 1        | 2%      |
 | ViewSonic VA2261 Series VSC0F30 1920x1080 477x268mm 21.5-inch          | 1        | 2%      |
 | Unknown LCD TV 9000 1360x768 1600x900mm 72.3-inch                      | 1        | 2%      |
 | Toshiba TV TSB0209 1920x1080 1594x900mm 72.1-inch                      | 1        | 2%      |
 | Samsung Electronics T24B301 SAM098E 1920x1080 521x293mm 23.5-inch      | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM0226 1440x900 410x257mm 19.1-inch    | 1        | 2%      |
-| Samsung Electronics SyncMaster SAM0029 1280x1024 312x234mm 15.4-inch   | 1        | 2%      |
+| Samsung Electronics SyncMaster SAM0029 2048x1536 312x234mm 15.4-inch   | 1        | 2%      |
 | Samsung Electronics S/T 77/76BDF STN0007 1280x1024 312x234mm 15.4-inch | 1        | 2%      |
 | Samsung Electronics LCD Monitor SyncMaster 1280x1024                   | 1        | 2%      |
 | Samsung Electronics LCD Monitor SyncMaster                             | 1        | 2%      |
@@ -1711,13 +1713,13 @@ Monitor models
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 1        | 2%      |
 | Philips 190B PHL086C 1280x1024 376x301mm 19.0-inch                     | 1        | 2%      |
 | Philips 17S PHL0877 1280x1024 337x270mm 17.0-inch                      | 1        | 2%      |
-| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                | 1        | 2%      |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                 | 1        | 2%      |
 | Lenovo LI2215sD LEN65CC 1920x1080 476x267mm 21.5-inch                  | 1        | 2%      |
 | Lenovo LCD Monitor LEN40A0 1366x768 309x174mm 14.0-inch                | 1        | 2%      |
 | Iiyama PLX2483H IVM6114 1920x1080 531x299mm 24.0-inch                  | 1        | 2%      |
 | Iiyama PLB2712HDS IVM6602 1920x1080 598x336mm 27.0-inch                | 1        | 2%      |
 | HJW HDMI TO USB HJW0001 1920x1080 700x390mm 31.5-inch                  | 1        | 2%      |
-| Hewlett-Packard LA2206 HWP2947 1920x1080 476x268mm 21.5-inch           | 1        | 2%      |
+| Hewlett-Packard LA2206 HWP2947 1920x1080 477x268mm 21.5-inch           | 1        | 2%      |
 | Hewlett-Packard L2245w HWP26FC 1680x1050 473x296mm 22.0-inch           | 1        | 2%      |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 2%      |
 | Hewlett-Packard Compaq S2321a HWP2915 1920x1080 509x286mm 23.0-inch    | 1        | 2%      |
@@ -1734,10 +1736,10 @@ Monitor models
 | CHI LCD Monitor VGA DISPLAY 1024x768                                   | 1        | 2%      |
 | AOC U2790B AOC2790 3840x2160 600x340mm 27.2-inch                       | 1        | 2%      |
 | AOC Q32G1WG4 AOC3201 2560x1440 697x393mm 31.5-inch                     | 1        | 2%      |
-| AOC 1950w AOC1950 1366x768 410x230mm 18.5-inch                         | 1        | 2%      |
+| AOC 1950W AOC1950 1366x768 410x230mm 18.5-inch                         | 1        | 2%      |
 | Ancor Communications ASUS VW190 ACI19E9 1366x768 410x230mm 18.5-inch   | 1        | 2%      |
 | Acer VG220Q ACR06D8 1920x1080 476x268mm 21.5-inch                      | 1        | 2%      |
-| Acer V206HQL ACR0334 1600x900 432x240mm 19.5-inch                      | 1        | 2%      |
+| Acer V206HQL ACR0334 1366x768 434x236mm 19.4-inch                      | 1        | 2%      |
 
 Monitor Resolution
 ------------------
@@ -1915,7 +1917,7 @@ Controller models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 20       | 35.71%  |
 | Intel Ethernet Connection I217-LM                                 | 3        | 5.36%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 5.36%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 1.79%   |
+| TP-Link TL-WN722N v2                                              | 1        | 1.79%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1        | 1.79%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.79%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 1.79%   |
@@ -1972,7 +1974,7 @@ Wireless models
 
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]               | 1        | 11.11%  |
+| TP-Link TL-WN722N v2                                       | 1        | 11.11%  |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 11.11%  |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter        | 1        | 11.11%  |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                 | 1        | 11.11%  |
@@ -2188,7 +2190,7 @@ Sound card models
 | Nvidia GA104 High Definition Audio Controller                              | 1        | 1.27%   |
 | M-Audio MIDISPORT 4x4 Anniv                                                | 1        | 1.27%   |
 | M-Audio M-Audio 1x1                                                        | 1        | 1.27%   |
-| Logitech USB Headset                                                       | 1        | 1.27%   |
+| Logitech H390 headset with microphone                                      | 1        | 1.27%   |
 | KORG nanoKONTROL studio controller                                         | 1        | 1.27%   |
 | Intel Haswell-ULT HD Audio Controller                                      | 1        | 1.27%   |
 | Intel Comet Lake PCH cAVS                                                  | 1        | 1.27%   |
@@ -2265,8 +2267,8 @@ Memory module models
 | SK hynix RAM HMT451U7BFR8A-PB 4GB DIMM 1600MT/s           | 1        | 1.82%   |
 | SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.82%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 1.82%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 1.82%   |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM 1600MT/s           | 1        | 1.82%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s   | 1        | 1.82%   |
 | SK hynix RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s      | 1        | 1.82%   |
 | Samsung RAM Module 2GB DIMM DDR3 1333MT/s                 | 1        | 1.82%   |
 | Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s    | 1        | 1.82%   |
@@ -2285,12 +2287,12 @@ Memory module models
 | Kingston RAM 99U5471-066.A00LF 8192MB DIMM DDR3 1600MT/s  | 1        | 1.82%   |
 | Kingston RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s    | 1        | 1.82%   |
 | Kingston RAM 9905625-066.A00G 16GB DIMM DDR4 2667MT/s     | 1        | 1.82%   |
-| Kingston RAM 9905471-084.A00LF 8192MB DIMM DDR3 1600MT/s  | 1        | 1.82%   |
+| Kingston RAM 9905471-084.A00LF 8GB DIMM DDR3 1600MT/s     | 1        | 1.82%   |
 | Goodram RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s        | 1        | 1.82%   |
 | G.Skill RAM F4-3200C16-8GTZB 8GB DIMM DDR4 3200MT/s       | 1        | 1.82%   |
 | G.Skill RAM F4-3200C16-16GIS 16GB DIMM DDR4 3600MT/s      | 1        | 1.82%   |
 | G.Skill RAM F4-2133C15-16GIS 16384MB DIMM DDR4 2133MT/s   | 1        | 1.82%   |
-| Crucial RAM CT51264BA160BJ.C8 4096MB DIMM DDR3 1600MT/s   | 1        | 1.82%   |
+| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 1.82%   |
 | Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s    | 1        | 1.82%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 1.82%   |
 | Corsair RAM CMD8GX3M2B2133C9 4096MB DIMM DDR3 1333MT/s    | 1        | 1.82%   |
@@ -2453,18 +2455,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                            | Desktops | Percent |
-|--------------------------------------------------|----------|---------|
-| Cubeternet GL-UPC822 UVC WebCam                  | 2        | 18.18%  |
-| Z-Star Vimicro USB Camera (Altair)               | 1        | 9.09%   |
-| Softkinetic DepthSense 325                       | 1        | 9.09%   |
-| Realtek USB CAMERA                               | 1        | 9.09%   |
-| Microsoft LifeCam Studio                         | 1        | 9.09%   |
-| Microdia Camera                                  | 1        | 9.09%   |
-| MacroSilicon USB3.0 HD VIDEO                     | 1        | 9.09%   |
-| Logitech Webcam C270                             | 1        | 9.09%   |
-| KYE Systems (Mouse Systems) AUKEY PC-LM1E Camera | 1        | 9.09%   |
-| GEMBIRD USB2.0 PC CAMERA                         | 1        | 9.09%   |
+| Model                                      | Desktops | Percent |
+|--------------------------------------------|----------|---------|
+| Cubeternet GL-UPC822 UVC WebCam            | 2        | 18.18%  |
+| Z-Star A4 TECH USB2.0 PC Camera E          | 1        | 9.09%   |
+| Softkinetic DepthSense 325                 | 1        | 9.09%   |
+| Realtek USB CAMERA                         | 1        | 9.09%   |
+| Microsoft LifeCam Studio                   | 1        | 9.09%   |
+| Microdia Camera                            | 1        | 9.09%   |
+| MacroSilicon USB Video                     | 1        | 9.09%   |
+| Logitech Webcam C270                       | 1        | 9.09%   |
+| KYE Systems (Mouse Systems) PC-LM1E Camera | 1        | 9.09%   |
+| GEMBIRD USB2.0 PC CAMERA                   | 1        | 9.09%   |
 
 Security
 --------

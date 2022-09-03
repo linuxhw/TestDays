@@ -718,8 +718,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 29       | 55.77%  |
-| Yes       | 23       | 44.23%  |
+| No        | 28       | 53.85%  |
+| Yes       | 24       | 46.15%  |
 
 Has Ethernet
 ------------
@@ -915,7 +915,7 @@ Hard drive models
 | Samsung SSD 860 EVO 1TB               | 3        | 2.34%   |
 | WDC WD1003FZEX-00MK2A0 1TB            | 2        | 1.56%   |
 | WDC WD1002FAEX-00Z3A0 1TB             | 2        | 1.56%   |
-| Toshiba NVMe SSD Drive 256GB          | 2        | 1.56%   |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD   | 2        | 1.56%   |
 | Toshiba DT01ACA200 2TB                | 2        | 1.56%   |
 | Seagate ST500DM002-1BD142 500GB       | 2        | 1.56%   |
 | Seagate ST2000DM001-1ER164 2TB        | 2        | 1.56%   |
@@ -950,7 +950,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB              | 1        | 0.78%   |
 | WDC WD10EZEX-22MFCA0 1TB              | 1        | 0.78%   |
 | WDC WD10EZEX-08WN4A0 1TB              | 1        | 0.78%   |
-| Unknown SD/MMC/MS PRO 64GB            | 1        | 0.78%   |
+| Unknown SD/MMC/MS PRO 128GB           | 1        | 0.78%   |
 | Toshiba HDWT140 4TB                   | 1        | 0.78%   |
 | Toshiba HDWQ140 4TB                   | 1        | 0.78%   |
 | Toshiba HDWD120 2TB                   | 1        | 0.78%   |
@@ -1057,12 +1057,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 35       | 72     | 42.68%  |
-| 0.51-1.0   | 25       | 40     | 30.49%  |
-| 1.01-2.0   | 13       | 16     | 15.85%  |
-| 3.01-4.0   | 6        | 11     | 7.32%   |
-| 4.01-10.0  | 2        | 5      | 2.44%   |
-| 2.01-3.0   | 1        | 1      | 1.22%   |
+| 0.01-0.5   | 35       | 72     | 42.17%  |
+| 0.51-1.0   | 25       | 39     | 30.12%  |
+| 1.01-2.0   | 14       | 17     | 16.87%  |
+| 3.01-4.0   | 6        | 11     | 7.23%   |
+| 4.01-10.0  | 2        | 5      | 2.41%   |
+| 2.01-3.0   | 1        | 1      | 1.2%    |
 
 Space Total
 -----------
@@ -1678,13 +1678,13 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch   | 1        | 1.49%   |
 | Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch     | 1        | 1.49%   |
 | Samsung Electronics S22B300 SAM08A9 1600x900 440x250mm 19.9-inch      | 1        | 1.49%   |
-| Samsung Electronics LCD Monitor SAM7106 1920x1080 530x300mm 24.0-inch | 1        | 1.49%   |
+| Samsung Electronics LCD Monitor SAM7106 1920x1080 600x340mm 27.2-inch | 1        | 1.49%   |
 | Samsung Electronics LCD Monitor SAM0200 1280x720                      | 1        | 1.49%   |
 | Samsung Electronics LCD Monitor S22B150                               | 1        | 1.49%   |
 | Samsung Electronics LCD Monitor C49HG9x 3840x1080                     | 1        | 1.49%   |
 | Samsung Electronics C32R50x SAM7000 1920x1080 698x393mm 31.5-inch     | 1        | 1.49%   |
 | Samsung Electronics C32HG7x SAM0E14 2560x1440 697x392mm 31.5-inch     | 1        | 1.49%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.49%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch     | 1        | 1.49%   |
 | Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch               | 1        | 1.49%   |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 1        | 1.49%   |
 | LG Electronics LCD Monitor W2486 1920x1080                            | 1        | 1.49%   |
@@ -1694,13 +1694,13 @@ Monitor models
 | Lenovo Group Limited LCD Monitor LEN P27u-10 9600x2160                | 1        | 1.49%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10 7680x2160                | 1        | 1.49%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10                          | 1        | 1.49%   |
-| Insignia HDMI BBY4000 1920x1080 1152x648mm 52.0-inch                  | 1        | 1.49%   |
+| Insignia NS-32D511NA15 BBY4000 1920x1080 591x355mm 27.1-inch          | 1        | 1.49%   |
 | Hewlett-Packard LE2002x HWP2963 1600x900 443x249mm 20.0-inch          | 1        | 1.49%   |
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.49%   |
 | Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch         | 1        | 1.49%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.49%   |
-| Hewlett-Packard E233 HPN3460 1920x1080 510x290mm 23.1-inch            | 1        | 1.49%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.49%   |
+| Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch            | 1        | 1.49%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 1.49%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.49%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1        | 1.49%   |
 | Goldstar ULTRAGEAR GSM5BB1 1920x1080 527x296mm 23.8-inch              | 1        | 1.49%   |
@@ -1713,7 +1713,7 @@ Monitor models
 | Eizo CS2420 ENC2956 1920x1200 519x324mm 24.1-inch                     | 1        | 1.49%   |
 | Dell UP2716D DEL40DD 2560x1440 597x336mm 27.0-inch                    | 1        | 1.49%   |
 | Dell U2515H DELD06E 2560x1440 553x311mm 25.0-inch                     | 1        | 1.49%   |
-| Dell U2312HM DEL4073 1920x1080 510x290mm 23.1-inch                    | 1        | 1.49%   |
+| Dell U2312HM DEL4073 1920x1080 510x287mm 23.0-inch                    | 1        | 1.49%   |
 | Dell S2719H DELD0CD 1920x1080 598x336mm 27.0-inch                     | 1        | 1.49%   |
 | Dell P2417H DELA0DB 1920x1080 530x300mm 24.0-inch                     | 1        | 1.49%   |
 | Dell P2312H DEL4077 1920x1080 510x287mm 23.0-inch                     | 1        | 1.49%   |
@@ -1724,7 +1724,7 @@ Monitor models
 | BenQ GL2250H BNQ78A1 1920x1080 477x268mm 21.5-inch                    | 1        | 1.49%   |
 | BenQ BenQG2222HDL BNQ7859 1920x1080 478x269mm 21.6-inch               | 1        | 1.49%   |
 | Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch      | 1        | 1.49%   |
-| Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch | 1        | 1.49%   |
+| Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch | 1        | 1.49%   |
 | Ancor Communications ASUS VH238 ACI23F9 1920x1080 510x290mm 23.1-inch | 1        | 1.49%   |
 | Acer P205H ACR00D1 1600x900 443x249mm 20.0-inch                       | 1        | 1.49%   |
 
@@ -1943,7 +1943,7 @@ Controller models
 | Intel 82575EB Gigabit Network Connection                                      | 1        | 1.02%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.02%   |
 | Huawei Modem/Networkcard                                                      | 1        | 1.02%   |
-| D-Link 802.11n WLAN Adapter                                                   | 1        | 1.02%   |
+| D-Link DWA-171 AC600 DB Wireless Adapter(rev.A1) [Realtek RTL8811AU]          | 1        | 1.02%   |
 | Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express               | 1        | 1.02%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 1        | 1.02%   |
 | ASIX AX88772A Fast Ethernet                                                   | 1        | 1.02%   |
@@ -1998,7 +1998,7 @@ Wireless models
 | Micro Star International MS-3871 802.11bgn Wireless Module [Ralink RT8070] | 1        | 3.85%   |
 | MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                         | 1        | 3.85%   |
 | Intel Wireless 7260                                                        | 1        | 3.85%   |
-| D-Link 802.11n WLAN Adapter                                                | 1        | 3.85%   |
+| D-Link DWA-171 AC600 DB Wireless Adapter(rev.A1) [Realtek RTL8811AU]       | 1        | 3.85%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                         | 1        | 3.85%   |
 
 Ethernet Vendor
@@ -2148,8 +2148,8 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 2        | 9.52%   |
 | ASUS BCM20702A0                                       | 2        | 9.52%   |
 | Micro Star International Bluetooth Device             | 1        | 4.76%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter              | 1        | 4.76%   |
 | Intel Bluetooth wireless interface                    | 1        | 4.76%   |
-| Intel Bluetooth Device                                | 1        | 4.76%   |
 | Intel AX200 Bluetooth                                 | 1        | 4.76%   |
 | IMC Networks BCM20702A0                               | 1        | 4.76%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 1        | 4.76%   |
@@ -2291,12 +2291,12 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2666MT/s                   | 1        | 3.33%   |
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                   | 1        | 3.33%   |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                  | 1        | 3.33%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s         | 1        | 3.33%   |
+| Samsung RAM M378B5673FH0-CH9 2048MB DIMM DDR3 1600MT/s      | 1        | 3.33%   |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s         | 1        | 3.33%   |
 | Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s            | 1        | 3.33%   |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                    | 1        | 3.33%   |
 | Micron RAM 36ASF4G72PZ-2G3B1 32GB DIMM DDR4 2400MT/s        | 1        | 3.33%   |
-| Micron RAM 16JTF1G64AZ-1G6E1 8192MB DIMM DDR3 1600MT/s      | 1        | 3.33%   |
+| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s         | 1        | 3.33%   |
 | Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s         | 1        | 3.33%   |
 | Kingston RAM KHX2666C13/16GX 16GB DIMM DDR4 3200MT/s        | 1        | 3.33%   |
 | Kingston RAM KHX2400C12D4/8GX 8GB DIMM DDR4 2400MT/s        | 1        | 3.33%   |
@@ -2308,7 +2308,7 @@ Memory module models
 | Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 3.33%   |
 | Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2400MT/s       | 1        | 3.33%   |
 | Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s       | 1        | 3.33%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s    | 1        | 3.33%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 3.33%   |
 
 Memory Kind
 -----------
@@ -2401,8 +2401,8 @@ Printer device models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | HP LaserJet Professional P 1102w | 1        | 25%     |
-| Canon LiDE 300                   | 1        | 25%     |
 | Canon E560 series                | 1        | 25%     |
+| Canon CanoScan LiDE 300          | 1        | 25%     |
 | Brother DCP-1610W                | 1        | 25%     |
 
 Scanner Vendor
@@ -2449,17 +2449,17 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                        | Desktops | Percent |
-|------------------------------|----------|---------|
-| Unknown FULL HD 1080P Webcam | 3        | 25%     |
-| Generalplus WEB CAM          | 2        | 16.67%  |
-| Samsung Galaxy A5 (MTP)      | 1        | 8.33%   |
-| Ruision UVC Camera           | 1        | 8.33%   |
-| Microsoft LifeCam HD-3000    | 1        | 8.33%   |
-| Logitech Webcam C270         | 1        | 8.33%   |
-| Logitech HD Webcam C910      | 1        | 8.33%   |
-| Jieli USB PHY 2.0            | 1        | 8.33%   |
-| ARC International Camera     | 1        | 8.33%   |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Unknown FULL HD 1080P Webcam            | 3        | 25%     |
+| Generalplus GENERAL WEBCAM              | 2        | 16.67%  |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 8.33%   |
+| Ruision UVC Camera                      | 1        | 8.33%   |
+| Microsoft LifeCam HD-3000               | 1        | 8.33%   |
+| Logitech Webcam C270                    | 1        | 8.33%   |
+| Logitech HD Webcam C910                 | 1        | 8.33%   |
+| Jieli USB PHY 2.0                       | 1        | 8.33%   |
+| ARC International Camera                | 1        | 8.33%   |
 
 Security
 --------

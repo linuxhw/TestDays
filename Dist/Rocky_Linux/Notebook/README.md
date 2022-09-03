@@ -604,8 +604,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 19        | 86.36%  |
-| Yes       | 3         | 13.64%  |
+| No        | 18        | 81.82%  |
+| Yes       | 4         | 18.18%  |
 
 Has Ethernet
 ------------
@@ -752,7 +752,7 @@ Hard drive models
 |----------------------------------------------|-----------|---------|
 | WDC WD10SPCX-24HWST1 1TB                     | 1         | 2.78%   |
 | WDC WD10JPVX-22JC3T0 1TB                     | 1         | 2.78%   |
-| Unknown SD/MMC/MS PRO 64GB                   | 1         | 2.78%   |
+| Unknown SD/MMC/MS PRO 128GB                  | 1         | 2.78%   |
 | Unknown MMC Card  64GB                       | 1         | 2.78%   |
 | Union Memory (Shenzhen) NVMe SSD Drive 128GB | 1         | 2.78%   |
 | UMIS RPFTJ128PDD2EWX 128GB                   | 1         | 2.78%   |
@@ -1342,7 +1342,7 @@ Monitor models
 | Philips PHL 271S7Q PHL090A 1920x1080 600x340mm 27.2-inch              | 1         | 2.7%    |
 | Philips 226V4 PHLC0B1 1920x1080 477x268mm 21.5-inch                   | 1         | 2.7%    |
 | PANDA LCD Monitor NCP004D 1920x1080 344x194mm 15.5-inch               | 1         | 2.7%    |
-| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch              | 1         | 2.7%    |
+| Panasonic LCD Monitor MEI96A2 3840x2160 382x215mm 17.3-inch           | 1         | 2.7%    |
 | LG Display LCD Monitor LGD04D5 1920x1080 344x194mm 15.5-inch          | 1         | 2.7%    |
 | LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch          | 1         | 2.7%    |
 | LG Display LCD Monitor LGD0406 1920x1080 309x175mm 14.0-inch          | 1         | 2.7%    |
@@ -1353,7 +1353,7 @@ Monitor models
 | Goldstar LG UltraFine GSM5B11                                         | 1         | 2.7%    |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch               | 1         | 2.7%    |
 | Goldstar 32ML600 GSM772D 1920x1080 480x270mm 21.7-inch                | 1         | 2.7%    |
-| Dell U3415W DELA0AA 3440x1440 800x330mm 34.1-inch                     | 1         | 2.7%    |
+| Dell U3415W DELA0AA 3440x1440 798x335mm 34.1-inch                     | 1         | 2.7%    |
 | Dell S2740L DELA08E 1920x1080 598x336mm 27.0-inch                     | 1         | 2.7%    |
 | Dell S2421HS DEL41F4 1920x1080 527x296mm 23.8-inch                    | 1         | 2.7%    |
 | Dell P2715Q DEL40BD 3840x2160 597x336mm 27.0-inch                     | 1         | 2.7%    |
@@ -1367,7 +1367,7 @@ Monitor models
 | BOE LCD Monitor BOE0900 1920x1080 344x194mm 15.5-inch                 | 1         | 2.7%    |
 | BOE LCD Monitor BOE0869 1920x1080 344x194mm 15.5-inch                 | 1         | 2.7%    |
 | AU Optronics LCD Monitor AUOB78D 1920x1080 344x193mm 15.5-inch        | 1         | 2.7%    |
-| AU Optronics LCD Monitor AUO25ED 1920x1080 344x193mm 15.5-inch        | 1         | 2.7%    |
+| AU Optronics LCD Monitor AUO25ED 1920x1080 340x190mm 15.3-inch        | 1         | 2.7%    |
 | AU Optronics LCD Monitor AUO203E 1600x900 309x174mm 14.0-inch         | 1         | 2.7%    |
 | AU Optronics LCD Monitor AUO203D 1920x1080 309x174mm 14.0-inch        | 1         | 2.7%    |
 | AU Optronics LCD Monitor AUO109D 1920x1080 381x214mm 17.2-inch        | 1         | 2.7%    |
@@ -1915,21 +1915,21 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor                | Notebooks | Percent |
-|-----------------------|-----------|---------|
-| Chicony Electronics   | 6         | 27.27%  |
-| Syntek                | 3         | 13.64%  |
-| Realtek Semiconductor | 2         | 9.09%   |
-| IMC Networks          | 2         | 9.09%   |
-| Quanta                | 1         | 4.55%   |
-| Microdia              | 1         | 4.55%   |
-| Logitech              | 1         | 4.55%   |
-| Lite-On Technology    | 1         | 4.55%   |
-| Lenovo                | 1         | 4.55%   |
-| Intel                 | 1         | 4.55%   |
-| DJJHNA29IE70D3        | 1         | 4.55%   |
-| Apple                 | 1         | 4.55%   |
-| Acer                  | 1         | 4.55%   |
+| Vendor                      | Notebooks | Percent |
+|-----------------------------|-----------|---------|
+| Chicony Electronics         | 6         | 27.27%  |
+| Syntek                      | 3         | 13.64%  |
+| Realtek Semiconductor       | 2         | 9.09%   |
+| IMC Networks                | 2         | 9.09%   |
+| Quanta                      | 1         | 4.55%   |
+| Microdia                    | 1         | 4.55%   |
+| Luxvisions Innotech Limited | 1         | 4.55%   |
+| Logitech                    | 1         | 4.55%   |
+| Lite-On Technology          | 1         | 4.55%   |
+| Lenovo                      | 1         | 4.55%   |
+| Intel                       | 1         | 4.55%   |
+| Apple                       | 1         | 4.55%   |
+| Acer                        | 1         | 4.55%   |
 
 Camera Model
 ------------
@@ -1939,26 +1939,26 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                  | Notebooks | Percent |
-|----------------------------------------|-----------|---------|
-| Chicony Integrated Camera              | 4         | 18.18%  |
-| Syntek Lenovo EasyCamera               | 2         | 9.09%   |
-| Syntek Integrated Camera               | 1         | 4.55%   |
-| Realtek Integrated_Webcam_HD           | 1         | 4.55%   |
-| Realtek EasyCamera                     | 1         | 4.55%   |
-| Quanta HP Webcam                       | 1         | 4.55%   |
-| Microdia Integrated_Webcam_HD          | 1         | 4.55%   |
-| Logitech BRIO Ultra HD Webcam          | 1         | 4.55%   |
-| Lite-On HP HD Webcam                   | 1         | 4.55%   |
-| Lenovo UVC Camera                      | 1         | 4.55%   |
-| Intel RealSense 3D Camera (Front F200) | 1         | 4.55%   |
-| IMC Networks USB2.0 HD UVC WebCam      | 1         | 4.55%   |
-| IMC Networks TOSHIBA Web Camera - HD   | 1         | 4.55%   |
-| DJJHNA29IE70D3 HP HD Camera            | 1         | 4.55%   |
-| Chicony HP HD Camera                   | 1         | 4.55%   |
-| Chicony HD WebCam                      | 1         | 4.55%   |
-| Apple iPhone 5/5C/5S/6/SE              | 1         | 4.55%   |
-| Acer Integrated Camera                 | 1         | 4.55%   |
+| Model                                    | Notebooks | Percent |
+|------------------------------------------|-----------|---------|
+| Chicony Integrated Camera                | 4         | 18.18%  |
+| Syntek Lenovo EasyCamera                 | 2         | 9.09%   |
+| Syntek Integrated Camera                 | 1         | 4.55%   |
+| Realtek Integrated_Webcam_HD             | 1         | 4.55%   |
+| Realtek EasyCamera                       | 1         | 4.55%   |
+| Quanta HP Webcam                         | 1         | 4.55%   |
+| Microdia Integrated_Webcam_HD            | 1         | 4.55%   |
+| Luxvisions Innotech Limited HP HD Camera | 1         | 4.55%   |
+| Logitech BRIO Ultra HD Webcam            | 1         | 4.55%   |
+| Lite-On HP HD Webcam                     | 1         | 4.55%   |
+| Lenovo UVC Camera                        | 1         | 4.55%   |
+| Intel RealSense 3D Camera (Front F200)   | 1         | 4.55%   |
+| IMC Networks USB2.0 HD UVC WebCam        | 1         | 4.55%   |
+| IMC Networks TOSHIBA Web Camera - HD     | 1         | 4.55%   |
+| Chicony HP HD Camera                     | 1         | 4.55%   |
+| Chicony HD WebCam                        | 1         | 4.55%   |
+| Apple iPhone 5/5C/5S/6/SE                | 1         | 4.55%   |
+| Acer Integrated Camera                   | 1         | 4.55%   |
 
 Security
 --------

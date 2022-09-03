@@ -958,8 +958,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 90       | 59.6%   |
-| Yes       | 61       | 40.4%   |
+| No        | 89       | 58.94%  |
+| Yes       | 62       | 41.06%  |
 
 Has Ethernet
 ------------
@@ -1242,7 +1242,7 @@ Hard drive models
 | Hitachi HDS721010CLA332 1TB          | 2        | 0.57%   |
 | HGST HTS721010A9E630 1TB             | 2        | 0.57%   |
 | XPG NVMe SSD Drive 1024GB            | 1        | 0.29%   |
-| XPG GAMMIX S11 Pro 256GB             | 1        | 0.29%   |
+| XPG GAMMIX S11 Pro 1TB               | 1        | 0.29%   |
 | WDC WDS240G2G0B-00EPW0 240GB SSD     | 1        | 0.29%   |
 | WDC WDS100T2B0A-00SM50 1TB SSD       | 1        | 0.29%   |
 | WDC WD7500BPVT-55HXZT3 752GB         | 1        | 0.29%   |
@@ -1348,13 +1348,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 96       | 182    | 43.05%  |
-| 0.51-1.0   | 62       | 108    | 27.8%   |
-| 1.01-2.0   | 36       | 83     | 16.14%  |
-| 3.01-4.0   | 11       | 36     | 4.93%   |
-| 4.01-10.0  | 10       | 27     | 4.48%   |
-| 2.01-3.0   | 5        | 31     | 2.24%   |
-| 10.01-20.0 | 3        | 22     | 1.35%   |
+| 0.01-0.5   | 96       | 183    | 42.67%  |
+| 0.51-1.0   | 62       | 104    | 27.56%  |
+| 1.01-2.0   | 37       | 86     | 16.44%  |
+| 3.01-4.0   | 11       | 34     | 4.89%   |
+| 4.01-10.0  | 11       | 29     | 4.89%   |
+| 2.01-3.0   | 5        | 31     | 2.22%   |
+| 10.01-20.0 | 3        | 22     | 1.33%   |
 
 Space Total
 -----------
@@ -2108,12 +2108,12 @@ Monitor models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 3        | 1.63%   |
-| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3        | 1.63%   |
+| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch                 | 3        | 1.63%   |
 | Xiaomi DPF90435 XMD009A 2224x1668 341x192mm 15.4-inch                   | 2        | 1.09%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch    | 2        | 1.09%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch     | 2        | 1.09%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch       | 2        | 1.09%   |
-| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                          | 2        | 1.09%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch       | 2        | 1.09%   |
+| MStar Demo MST0030 1920x540 708x398mm 32.0-inch                         | 2        | 1.09%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch            | 2        | 1.09%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                 | 2        | 1.09%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 2        | 1.09%   |
@@ -2150,7 +2150,7 @@ Monitor models
 | Samsung Electronics LCD Monitor T22C300 1920x1080                       | 1        | 0.54%   |
 | Samsung Electronics LCD Monitor SAM0D42 3840x2160 1872x1053mm 84.6-inch | 1        | 0.54%   |
 | Samsung Electronics LCD Monitor SAM0B7C 1920x1080 480x270mm 21.7-inch   | 1        | 0.54%   |
-| Samsung Electronics LCD Monitor SAM0B60 1920x1080 1210x680mm 54.6-inch  | 1        | 0.54%   |
+| Samsung Electronics LCD Monitor SAM0B60 1920x1080 887x500mm 40.1-inch   | 1        | 0.54%   |
 | Samsung Electronics LCD Monitor LU28R55 3840x2160                       | 1        | 0.54%   |
 | Samsung Electronics LCD Monitor C32JG5x 3640x1920                       | 1        | 0.54%   |
 | Samsung Electronics LCD Monitor C32F391                                 | 1        | 0.54%   |
@@ -2290,9 +2290,10 @@ Area in inch²
 | 251-300        | 12       | 7.79%   |
 | 351-500        | 10       | 6.49%   |
 | More than 1000 | 7        | 4.55%   |
-| 101-110        | 4        | 2.6%    |
+| 101-110        | 3        | 1.95%   |
 | 141-150        | 2        | 1.3%    |
 | 501-1000       | 2        | 1.3%    |
+| 111-120        | 1        | 0.65%   |
 
 Pixel Density
 -------------
@@ -2398,8 +2399,8 @@ Controller models
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications)                                          | 2        | 0.83%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                                                                      | 2        | 0.83%   |
 | Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]                                                      | 2        | 0.83%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                                           | 1        | 0.41%   |
-| TP-Link 802.11ac NIC                                                                                                   | 1        | 0.41%   |
+| TP-Link TL-WN722N v2                                                                                                   | 1        | 0.41%   |
+| TP-Link Archer T3U [Realtek RTL8812BU]                                                                                 | 1        | 0.41%   |
 | Spreadtrum Spreadtrum Phone                                                                                            | 1        | 0.41%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                                                        | 1        | 0.41%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                                                        | 1        | 0.41%   |
@@ -2466,8 +2467,8 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 2        | 3.64%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                              | 2        | 3.64%   |
 | Intel Wireless 8265 / 8275                                                                    | 2        | 3.64%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 1.82%   |
-| TP-Link 802.11ac NIC                                                                          | 1        | 1.82%   |
+| TP-Link TL-WN722N v2                                                                          | 1        | 1.82%   |
+| TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1        | 1.82%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                               | 1        | 1.82%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 1        | 1.82%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                                        | 1        | 1.82%   |
@@ -2667,7 +2668,7 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                    | 6        | 12.5%   |
 | Intel Bluetooth wireless interface                  | 5        | 10.42%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 4        | 8.33%   |
-| Intel Bluetooth Device                              | 3        | 6.25%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter            | 3        | 6.25%   |
 | Realtek Bluetooth Radio                             | 2        | 4.17%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 2.08%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 2.08%   |
@@ -2751,7 +2752,7 @@ Sound card models
 | Nvidia GM206 High Definition Audio Controller                                     | 2        | 0.75%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                     | 2        | 0.75%   |
 | Nvidia GF108 High Definition Audio Controller                                     | 2        | 0.75%   |
-| Logitech USB Headset                                                              | 2        | 0.75%   |
+| Logitech H390 headset with microphone                                             | 2        | 0.75%   |
 | Intel Comet Lake PCH-V cAVS                                                       | 2        | 0.75%   |
 | Intel Comet Lake PCH cAVS                                                         | 2        | 0.75%   |
 | Creative Technology Sound Blaster Play! 3                                         | 2        | 0.75%   |
@@ -2822,7 +2823,7 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                      | 2        | 2.38%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                   | 2        | 2.38%   |
 | Unknown RAM Module 2GB DIMM SDRAM                         | 2        | 2.38%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s  | 2        | 2.38%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 2        | 2.38%   |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s               | 1        | 1.19%   |
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1        | 1.19%   |
 | Unknown RAM Module 4GB DIMM DDR 1333MT/s                  | 1        | 1.19%   |
@@ -2833,7 +2834,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 1333MT/s                   | 1        | 1.19%   |
 | TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s       | 1        | 1.19%   |
 | Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s          | 1        | 1.19%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s        | 1        | 1.19%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s       | 1        | 1.19%   |
 | Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2400MT/s        | 1        | 1.19%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                | 1        | 1.19%   |
 | SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                | 1        | 1.19%   |
@@ -2842,7 +2843,7 @@ Memory module models
 | SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.19%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1        | 1.19%   |
 | SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 1.19%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s   | 1        | 1.19%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 1.19%   |
 | SK hynix RAM HMT151R7TFR4C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 1.19%   |
 | SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s      | 1        | 1.19%   |
 | SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s      | 1        | 1.19%   |
@@ -2852,7 +2853,7 @@ Memory module models
 | Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s      | 1        | 1.19%   |
 | Samsung RAM M391B5273DH0-CK0 4096MB DIMM DDR3 1600MT/s    | 1        | 1.19%   |
 | Samsung RAM M378A1K43BB1-CPB 8192MB DIMM DDR4 2733MT/s    | 1        | 1.19%   |
-| Samsung RAM M3 78T2953EZ3-CE6 1024MB DIMM DDR 667MT/s     | 1        | 1.19%   |
+| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s       | 1        | 1.19%   |
 | Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s     | 1        | 1.19%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s          | 1        | 1.19%   |
 | Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s        | 1        | 1.19%   |
@@ -2876,7 +2877,7 @@ Memory module models
 | G.Skill RAM F4-3200C16-8GTZB 8GB DIMM DDR4 3200MT/s       | 1        | 1.19%   |
 | G.Skill RAM F4-2666C19-8GVR 8GB DIMM DDR4 2666MT/s        | 1        | 1.19%   |
 | G.Skill RAM F4-2400C15-8GRR 8192MB DIMM DDR4 2400MT/s     | 1        | 1.19%   |
-| G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s      | 1        | 1.19%   |
+| G.Skill RAM F3-14900CL9-4GBSR 4096MB DIMM DDR3 1867MT/s   | 1        | 1.19%   |
 | Elpida RAM Module 2GB DIMM DDR3 1333MT/s                  | 1        | 1.19%   |
 
 Memory Kind
@@ -3053,7 +3054,7 @@ Camera device models
 | Microdia Camera                             | 2        | 9.52%   |
 | Logitech Webcam C270                        | 2        | 9.52%   |
 | Lenovo FHD Webcam Audio                     | 2        | 9.52%   |
-| Samsung Galaxy A5 (MTP)                     | 1        | 4.76%   |
+| Samsung Galaxy series, misc. (MTP mode)     | 1        | 4.76%   |
 | Realtek Laptop_Integrated_Webcam_FHD        | 1        | 4.76%   |
 | Logitech Webcam C930e                       | 1        | 4.76%   |
 | Logitech StreamCam                          | 1        | 4.76%   |
@@ -3119,8 +3120,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 119      | 76.77%  |
-| 1     | 30       | 19.35%  |
+| 0     | 120      | 77.42%  |
+| 1     | 29       | 18.71%  |
 | 2     | 6        | 3.87%   |
 
 Unsupported Device Types
@@ -3133,12 +3134,12 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 18       | 41.86%  |
-| Unassigned class         | 7        | 16.28%  |
-| Storage/ide              | 7        | 16.28%  |
-| Net/wireless             | 5        | 11.63%  |
-| Sound                    | 2        | 4.65%   |
-| Network                  | 2        | 4.65%   |
-| Net/ethernet             | 1        | 2.33%   |
-| Communication controller | 1        | 2.33%   |
+| Graphics card            | 17       | 40.48%  |
+| Unassigned class         | 7        | 16.67%  |
+| Storage/ide              | 7        | 16.67%  |
+| Net/wireless             | 5        | 11.9%   |
+| Sound                    | 2        | 4.76%   |
+| Network                  | 2        | 4.76%   |
+| Net/ethernet             | 1        | 2.38%   |
+| Communication controller | 1        | 2.38%   |
 

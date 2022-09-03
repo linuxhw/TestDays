@@ -656,8 +656,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 15       | 75%     |
-| Yes       | 5        | 25%     |
+| No        | 14       | 70%     |
+| Yes       | 6        | 30%     |
 
 Has Ethernet
 ------------
@@ -763,45 +763,45 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| WDC WDS240G2G0A-00JH30 240GB SSD   | 2        | 5%      |
-| Seagate ST500DM002-1BD142 500GB    | 2        | 5%      |
-| Samsung SSD 850 PRO 1TB            | 2        | 5%      |
-| WDC WDS120G2G0A-00JH30 120GB SSD   | 1        | 2.5%    |
-| WDC WD800BB-55JHC0 80GB            | 1        | 2.5%    |
-| WDC WD5000AAKS-65V0A0 500GB        | 1        | 2.5%    |
-| WDC WD40EFRX-68N32N0 4TB           | 1        | 2.5%    |
-| WDC WD2500AAJS-75M0A0 250GB        | 1        | 2.5%    |
-| WDC WD20EZRX-00D8PB0 2TB           | 1        | 2.5%    |
-| WDC WD1600AAJS-60B4A0 160GB        | 1        | 2.5%    |
-| WDC WD10EZEX-08M2NA0 1TB           | 1        | 2.5%    |
-| WDC WD1002FAEX-00Z3A0 1TB          | 1        | 2.5%    |
-| Transcend TS256GSSD370S 256GB      | 1        | 2.5%    |
-| Toshiba MK3275GSX 320GB            | 1        | 2.5%    |
-| Toshiba HDWE160 6TB                | 1        | 2.5%    |
-| Seagate ST500VT000-1DK142 500GB    | 1        | 2.5%    |
-| Seagate ST4000DM001-1FK17N 4TB     | 1        | 2.5%    |
-| Seagate ST31000528AS 1TB           | 1        | 2.5%    |
-| Seagate ST1000LM024 HN-M101MBB 1TB | 1        | 2.5%    |
-| Seagate ST1000DM010-2EP102 1TB     | 1        | 2.5%    |
-| Samsung SSD 980 1TB                | 1        | 2.5%    |
-| Samsung SSD 970 EVO Plus 500GB     | 1        | 2.5%    |
-| Samsung SSD 860 EVO 500GB          | 1        | 2.5%    |
-| Samsung SSD 850 EVO 250GB          | 1        | 2.5%    |
-| Samsung SSD 840 EVO 1TB            | 1        | 2.5%    |
-| Samsung SSD 840 EVO 120GB          | 1        | 2.5%    |
-| Samsung NVMe SSD Drive 1024GB      | 1        | 2.5%    |
-| Maxtor STM3160215AS 160GB          | 1        | 2.5%    |
-| Lexar 512GB SSD                    | 1        | 2.5%    |
-| Lexar 500GB SSD                    | 1        | 2.5%    |
-| Kingston SH103S3240G 240GB SSD     | 1        | 2.5%    |
-| Kingston SA400S37240G 240GB SSD    | 1        | 2.5%    |
-| Hitachi HDS5C3020ALA632 2TB        | 1        | 2.5%    |
-| HGST HTS725050A7E630 500GB         | 1        | 2.5%    |
-| Gigabyte GP-GSTFS31120GNTD 120GB   | 1        | 2.5%    |
-| Crucial CT500MX500SSD1 500GB       | 1        | 2.5%    |
-| Corsair Force GS 480GB SSD         | 1        | 2.5%    |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| WDC WDS240G2G0A-00JH30 240GB SSD        | 2        | 5%      |
+| Seagate ST500DM002-1BD142 500GB         | 2        | 5%      |
+| Samsung SSD 850 PRO 1TB                 | 2        | 5%      |
+| WDC WDS120G2G0A-00JH30 120GB SSD        | 1        | 2.5%    |
+| WDC WD800BB-55JHC0 80GB                 | 1        | 2.5%    |
+| WDC WD5000AAKS-65V0A0 500GB             | 1        | 2.5%    |
+| WDC WD40EFRX-68N32N0 4TB                | 1        | 2.5%    |
+| WDC WD2500AAJS-75M0A0 250GB             | 1        | 2.5%    |
+| WDC WD20EZRX-00D8PB0 2TB                | 1        | 2.5%    |
+| WDC WD1600AAJS-60B4A0 160GB             | 1        | 2.5%    |
+| WDC WD10EZEX-08M2NA0 1TB                | 1        | 2.5%    |
+| WDC WD1002FAEX-00Z3A0 1TB               | 1        | 2.5%    |
+| Transcend TS256GSSD370S 256GB           | 1        | 2.5%    |
+| Toshiba MK3275GSX 320GB                 | 1        | 2.5%    |
+| Toshiba HDWE160 6TB                     | 1        | 2.5%    |
+| Seagate ST500VT000-1DK142 500GB         | 1        | 2.5%    |
+| Seagate ST4000DM001-1FK17N 4TB          | 1        | 2.5%    |
+| Seagate ST31000528AS 1TB                | 1        | 2.5%    |
+| Seagate ST1000LM024 HN-M101MBB 1TB      | 1        | 2.5%    |
+| Seagate ST1000DM010-2EP102 1TB          | 1        | 2.5%    |
+| Samsung SSD 980 1TB                     | 1        | 2.5%    |
+| Samsung SSD 970 EVO Plus 500GB          | 1        | 2.5%    |
+| Samsung SSD 860 EVO 500GB               | 1        | 2.5%    |
+| Samsung SSD 850 EVO 250GB               | 1        | 2.5%    |
+| Samsung SSD 840 EVO 1TB                 | 1        | 2.5%    |
+| Samsung SSD 840 EVO 120GB               | 1        | 2.5%    |
+| Samsung SM963 2.5" NVMe PCIe SSD 1024GB | 1        | 2.5%    |
+| Maxtor STM3160215AS 160GB               | 1        | 2.5%    |
+| Lexar 512GB SSD                         | 1        | 2.5%    |
+| Lexar 500GB SSD                         | 1        | 2.5%    |
+| Kingston SH103S3240G 240GB SSD          | 1        | 2.5%    |
+| Kingston SA400S37240G 240GB SSD         | 1        | 2.5%    |
+| Hitachi HDS5C3020ALA632 2TB             | 1        | 2.5%    |
+| HGST HTS725050A7E630 500GB              | 1        | 2.5%    |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD    | 1        | 2.5%    |
+| Crucial CT500MX500SSD1 500GB            | 1        | 2.5%    |
+| Corsair Force GS 480GB SSD              | 1        | 2.5%    |
 
 HDD Vendor
 ----------
@@ -878,8 +878,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 17       | 25     | 58.62%  |
-| 0.51-1.0   | 8        | 9      | 27.59%  |
-| 1.01-2.0   | 2        | 2      | 6.9%    |
+| 0.51-1.0   | 7        | 8      | 24.14%  |
+| 1.01-2.0   | 3        | 3      | 10.34%  |
 | 3.01-4.0   | 1        | 5      | 3.45%   |
 | 4.01-10.0  | 1        | 1      | 3.45%   |
 
@@ -1351,9 +1351,9 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch    | 1        | 5.56%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1        | 5.56%   |
-| Panasonic TV MEIA296 1280x1024 698x392mm 31.5-inch                   | 1        | 5.56%   |
+| Samsung Electronics SMB1930N SAM0632 1360x768 410x230mm 18.5-inch    | 1        | 5.56%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch    | 1        | 5.56%   |
+| Panasonic TV MEIA296 3840x2160 698x392mm 31.5-inch                   | 1        | 5.56%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                    | 1        | 5.56%   |
 | Lenovo L24e-30 LEN66BC 1920x1080 527x296mm 23.8-inch                 | 1        | 5.56%   |
 | Hewlett-Packard LCD Monitor HWP4101 1920x1080 470x270mm 21.3-inch    | 1        | 5.56%   |
@@ -1366,7 +1366,7 @@ Monitor models
 | BenQ RL2455 BNQ7F1C 1920x1080 531x298mm 24.0-inch                    | 1        | 5.56%   |
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                    | 1        | 5.56%   |
 | BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                   | 1        | 5.56%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 5.56%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1        | 5.56%   |
 | Ancor Communications LCD Monitor ASUS PB287 3840x2160                | 1        | 5.56%   |
 | Ancor Communications ASUS VT207 ACI20F4 1600x900 458x256mm 20.7-inch | 1        | 5.56%   |
 
@@ -1811,7 +1811,7 @@ Memory module models
 | Kingston RAM KHX2666C16D4/16GX 16GB DIMM DDR4 2667MT/s   | 1        | 14.29%  |
 | Crucial RAM BLS8G4D30BESBK.8FD 8GB DIMM DDR4 3000MT/s    | 1        | 14.29%  |
 | Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 1600MT/s     | 1        | 14.29%  |
-| Corsair RAM CMK16GX4M2A2666C16 8192MB DIMM DDR4 3200MT/s | 1        | 14.29%  |
+| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3200MT/s    | 1        | 14.29%  |
 | Corsair RAM CMD32GX4M4A2800C16 8192MB DIMM DDR4 2133MT/s | 1        | 14.29%  |
 
 Memory Kind
@@ -1943,7 +1943,7 @@ Camera device models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Samsung Galaxy A5 (MTP)                               | 1        | 16.67%  |
+| Samsung Galaxy series, misc. (MTP mode)               | 1        | 16.67%  |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode) | 1        | 16.67%  |
 | KYE Systems (Mouse Systems) WideCam 1050              | 1        | 16.67%  |
 | Creative Live! Cam Socialize HD 1080 [VF0680]         | 1        | 16.67%  |

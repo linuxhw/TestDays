@@ -520,8 +520,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 4        | 80%     |
-| Yes       | 1        | 20%     |
+| No        | 3        | 60%     |
+| Yes       | 2        | 40%     |
 
 Has Ethernet
 ------------

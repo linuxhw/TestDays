@@ -526,13 +526,14 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2020 | 4        | 17.39%  |
 | 2013 | 4        | 17.39%  |
 | 2012 | 4        | 17.39%  |
+| 2020 | 3        | 13.04%  |
 | 2018 | 3        | 13.04%  |
 | 2014 | 2        | 8.7%    |
 | 2010 | 2        | 8.7%    |
 | 2009 | 2        | 8.7%    |
+| 2017 | 1        | 4.35%   |
 | 2008 | 1        | 4.35%   |
 | 2007 | 1        | 4.35%   |
 
@@ -800,12 +801,12 @@ Hard drive models
 | Maxtor 7L250S0 256GB                         | 1        | 2.5%    |
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.5%    |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.5%    |
-| JMicron Generic 2TB                          | 1        | 2.5%    |
+| JMicron Generic 160GB                        | 1        | 2.5%    |
 | Hitachi HDS728080PLA380 82GB                 | 1        | 2.5%    |
 | Hitachi HDS721010CLA332 1TB                  | 1        | 2.5%    |
 | Crucial CT240BX500SSD1 240GB                 | 1        | 2.5%    |
 | China SATA SSD 120GB                         | 1        | 2.5%    |
-| ASMT USB 3.0 Destop H 1TB SSD                | 1        | 2.5%    |
+| ASMT USB 3.0 Destop H 5TB                    | 1        | 2.5%    |
 
 HDD Vendor
 ----------
@@ -817,10 +818,11 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 7        | 8      | 50%     |
-| WDC     | 4        | 6      | 28.57%  |
-| Hitachi | 2        | 2      | 14.29%  |
-| Maxtor  | 1        | 1      | 7.14%   |
+| Seagate | 7        | 8      | 46.67%  |
+| WDC     | 4        | 6      | 26.67%  |
+| Hitachi | 2        | 2      | 13.33%  |
+| Maxtor  | 1        | 1      | 6.67%   |
+| ASMT    | 1        | 1      | 6.67%   |
 
 SSD Vendor
 ----------
@@ -840,9 +842,9 @@ Solid state drive vendors
 | Origin              | 1        | 1      | 6.67%   |
 | LITEONIT            | 1        | 1      | 6.67%   |
 | Leven               | 1        | 1      | 6.67%   |
+| JMicron Technology  | 1        | 1      | 6.67%   |
 | Crucial             | 1        | 1      | 6.67%   |
 | China               | 1        | 1      | 6.67%   |
-| ASMT                | 1        | 1      | 6.67%   |
 
 Drive Kind
 ----------
@@ -854,11 +856,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 13       | 16     | 40.63%  |
-| HDD     | 12       | 17     | 37.5%   |
-| NVMe    | 5        | 8      | 15.63%  |
-| MMC     | 1        | 1      | 3.13%   |
-| Unknown | 1        | 1      | 3.13%   |
+| SSD     | 13       | 16     | 41.94%  |
+| HDD     | 12       | 18     | 38.71%  |
+| NVMe    | 4        | 7      | 12.9%   |
+| MMC     | 1        | 1      | 3.23%   |
+| Unknown | 1        | 1      | 3.23%   |
 
 Drive Connector
 ---------------
@@ -885,9 +887,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 22     | 62.96%  |
-| 0.51-1.0   | 9        | 10     | 33.33%  |
+| 0.01-0.5   | 17       | 23     | 62.96%  |
+| 0.51-1.0   | 8        | 9      | 29.63%  |
 | 1.01-2.0   | 1        | 1      | 3.7%    |
+| 4.01-10.0  | 1        | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1403,12 +1406,12 @@ Monitor models
 | Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch          | 1        | 4.35%   |
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch        | 1        | 4.35%   |
 | Element WD32FBL1001 ELE6308 1920x1080 890x500mm 40.2-inch    | 1        | 4.35%   |
-| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch            | 1        | 4.35%   |
+| Dell P2314H DEL4098 1920x1080 510x290mm 23.1-inch            | 1        | 4.35%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch            | 1        | 4.35%   |
 | Dell LCD Monitor E228WFP                                     | 1        | 4.35%   |
 | BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch           | 1        | 4.35%   |
 | AUS LCD Monitor VA32AQ 2560x1440                             | 1        | 4.35%   |
-| AOC L19W931 AOC1993 1360x768 410x260mm 19.1-inch             | 1        | 4.35%   |
+| AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch             | 1        | 4.35%   |
 | AOC 2243W AOC2243 1920x1080 477x268mm 21.5-inch              | 1        | 4.35%   |
 | Acer K243Y ACR08B7 1920x1080 527x296mm 23.8-inch             | 1        | 4.35%   |
 | Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch           | 1        | 4.35%   |
@@ -1758,7 +1761,7 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2        | 22.22%  |
 | Realtek Bluetooth Radio                             | 1        | 11.11%  |
-| Intel Bluetooth Device                              | 1        | 11.11%  |
+| Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 11.11%  |
 | Intel AX200 Bluetooth                               | 1        | 11.11%  |
 | Dell BT Mini-Receiver                               | 1        | 11.11%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1        | 11.11%  |
@@ -1851,11 +1854,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1        | 33.33%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s     | 1        | 33.33%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 33.33%  |
+| Model                                                | Desktops | Percent |
+|------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1        | 33.33%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1        | 33.33%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1        | 33.33%  |
 
 Memory Kind
 -----------

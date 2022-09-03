@@ -1724,9 +1724,9 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| Micron RAM MT53E1G32D4NQ-046WTE 8GB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
+| Model                                                               | Notebooks | Percent |
+|---------------------------------------------------------------------|-----------|---------|
+| Micron RAM MT53E1G32D4NQ-046WTE 8192MB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
 
 Memory Kind
 -----------
@@ -1844,14 +1844,13 @@ Camera device models
 |--------------------------------------------------|-----------|---------|
 | Suyin HP Truevision HD                           | 3         | 13.04%  |
 | Realtek USB Camera                               | 2         | 8.7%    |
+| Microdia Integrated_Webcam_HD                    | 2         | 8.7%    |
 | Chicony Integrated Camera                        | 2         | 8.7%    |
 | Syntek Integrated Camera                         | 1         | 4.35%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 4.35%   |
-| Sunplus HD Webcam                                | 1         | 4.35%   |
+| Sunplus HD WebCam                                | 1         | 4.35%   |
 | Realtek Integrated Camera                        | 1         | 4.35%   |
 | Quanta HD Webcam                                 | 1         | 4.35%   |
-| Microdia Integrated_Webcam_HD                    | 1         | 4.35%   |
-| Microdia Integrated Webcam HD                    | 1         | 4.35%   |
 | Logitech Webcam C270                             | 1         | 4.35%   |
 | IMC Networks HP TrueVision HD Camera             | 1         | 4.35%   |
 | Chicony USB2.0 VGA UVC WebCam                    | 1         | 4.35%   |

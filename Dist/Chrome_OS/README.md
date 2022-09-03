@@ -953,7 +953,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.52%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.52%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.52%   |
-| TO Exter nal USB 3.0 1TB                     | 1         | 1.52%   |
+| TO Exter nal USB 3.0 240GB                   | 1         | 1.52%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.52%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.52%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.52%   |
@@ -973,7 +973,7 @@ Hard drive models
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.52%   |
 | Kingston SA2000M81000G 1TB                   | 1         | 1.52%   |
 | KingSpec NT-256 256GB SSD                    | 1         | 1.52%   |
-| KingDian S200 60GB SSD                       | 1         | 1.52%   |
+| KingDian S200 60GB                           | 1         | 1.52%   |
 | Intel SSDSC2BB300G4 304GB                    | 1         | 1.52%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 1.52%   |
 | Hitachi HTS545032B9A300 320GB                | 1         | 1.52%   |
@@ -1069,8 +1069,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 48     | 97.56%  |
-| 0.51-1.0   | 1         | 1      | 2.44%   |
+| 0.01-0.5   | 41        | 49     | 100%    |
 
 Space Total
 -----------
@@ -1627,7 +1626,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch     | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch     | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 1.69%   |
@@ -1650,7 +1649,7 @@ Monitor models
 | Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                      | 1         | 1.69%   |
 | Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                     | 1         | 1.69%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                   | 1         | 1.69%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                    | 1         | 1.69%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                    | 1         | 1.69%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                      | 1         | 1.69%   |
 | Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                        | 1         | 1.69%   |
 | Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                       | 1         | 1.69%   |
@@ -2357,7 +2356,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 PC cam                              | 6         | 17.65%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |
@@ -2368,7 +2367,7 @@ Camera device models
 | Sunplus HD WebCam                                       | 1         | 2.94%   |
 | Realtek WebCamera                                       | 1         | 2.94%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.94%   |
-| Realtek HP Webcam-101                                   | 1         | 2.94%   |
+| Realtek USB Camera                                      | 1         | 2.94%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.94%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.94%   |
 | Microdia HP Webcam                                      | 1         | 2.94%   |

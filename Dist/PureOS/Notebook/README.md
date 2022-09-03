@@ -809,7 +809,7 @@ Hard drive models
 | Plextor PX-1TM6Pro 1024GB SSD       | 1         | 2.63%   |
 | Phison PM8512GPTCB4B8TF-E13T4 512GB | 1         | 2.63%   |
 | Mushkin MKNSSDRE250GB-LT            | 1         | 2.63%   |
-| JMicron Generic 2TB                 | 1         | 2.63%   |
+| JMicron Generic 160GB               | 1         | 2.63%   |
 | Intel SSDSC2BF180A4H 180GB          | 1         | 2.63%   |
 | Hitachi HTS545050A7E380 500GB       | 1         | 2.63%   |
 | HGST HTS721010A9E630 1TB            | 1         | 2.63%   |
@@ -848,15 +848,16 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 6         | 8      | 37.5%   |
-| Crucial             | 2         | 4      | 12.5%   |
-| A-DATA Technology   | 2         | 2      | 12.5%   |
-| Transcend           | 1         | 1      | 6.25%   |
-| SanDisk             | 1         | 1      | 6.25%   |
-| Plextor             | 1         | 1      | 6.25%   |
-| Mushkin             | 1         | 1      | 6.25%   |
-| Intel               | 1         | 1      | 6.25%   |
-| BIWIN               | 1         | 1      | 6.25%   |
+| Samsung Electronics | 6         | 8      | 35.29%  |
+| Crucial             | 2         | 4      | 11.76%  |
+| A-DATA Technology   | 2         | 2      | 11.76%  |
+| Transcend           | 1         | 1      | 5.88%   |
+| SanDisk             | 1         | 1      | 5.88%   |
+| Plextor             | 1         | 1      | 5.88%   |
+| Mushkin             | 1         | 1      | 5.88%   |
+| JMicron Technology  | 1         | 1      | 5.88%   |
+| Intel               | 1         | 1      | 5.88%   |
+| BIWIN               | 1         | 1      | 5.88%   |
 
 Drive Kind
 ----------
@@ -868,10 +869,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 14        | 20     | 40%     |
-| NVMe | 13        | 15     | 37.14%  |
-| HDD  | 6         | 6      | 17.14%  |
-| MMC  | 2         | 2      | 5.71%   |
+| SSD  | 14        | 21     | 41.18%  |
+| NVMe | 12        | 14     | 35.29%  |
+| HDD  | 6         | 6      | 17.65%  |
+| MMC  | 2         | 2      | 5.88%   |
 
 Drive Connector
 ---------------
@@ -898,7 +899,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 12        | 18     | 63.16%  |
+| 0.01-0.5   | 12        | 19     | 63.16%  |
 | 0.51-1.0   | 5         | 5      | 26.32%  |
 | 1.01-2.0   | 2         | 3      | 10.53%  |
 
@@ -1363,7 +1364,7 @@ Monitor models
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch                 | 1         | 2.86%   |
 | Sharp LCD Monitor SHP148B 3840x2160 294x165mm 13.3-inch                   | 1         | 2.86%   |
 | Samsung Electronics LCD Monitor SEC3041 1366x768 353x198mm 15.9-inch      | 1         | 2.86%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch         | 1         | 2.86%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch         | 1         | 2.86%   |
 | LG Display LCD Monitor LGD0563 1920x1080 344x194mm 15.5-inch              | 1         | 2.86%   |
 | LG Display LCD Monitor LGD053B 1920x1080 294x165mm 13.3-inch              | 1         | 2.86%   |
 | LG Display LCD Monitor LGD04D4 3840x2160 344x194mm 15.5-inch              | 1         | 2.86%   |
@@ -1835,7 +1836,7 @@ Memory module models
 | Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s         | 1         | 7.69%   |
 | Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s          | 1         | 7.69%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 7.69%   |
-| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s     | 1         | 7.69%   |
+| SK hynix RAM HMA851S6JJR6N-VK 4096MB SODIMM DDR4 2667MT/s  | 1         | 7.69%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 7.69%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 7.69%   |
 | Crucial RAM CT4G4SFS8213.C8FBD1 4GB SODIMM DDR4 2133MT/s   | 1         | 7.69%   |
@@ -1969,7 +1970,7 @@ Camera device models
 | Acer SunplusIT INC. Integrated Camera                                      | 2         | 8.7%    |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 4.35%   |
 | Sunplus Integrated Camera                                                  | 1         | 4.35%   |
-| Realtek MTD camera                                                         | 1         | 4.35%   |
+| Realtek USB2.0 camera                                                      | 1         | 4.35%   |
 | Realtek Integrated_Webcam_HD                                               | 1         | 4.35%   |
 | Realtek Integrated Webcam                                                  | 1         | 4.35%   |
 | Realtek HP Truevision HD                                                   | 1         | 4.35%   |

@@ -736,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 50        | 75.76%  |
-| No        | 16        | 24.24%  |
+| Yes       | 51        | 77.27%  |
+| No        | 15        | 22.73%  |
 
 Has Ethernet
 ------------
@@ -990,7 +990,7 @@ Hard drive models
 | Micron_1 100_MTFDDAV256TB 256GB SSD | 1         | 1.25%   |
 | LITEON CV1-8B256 256GB SSD          | 1         | 1.25%   |
 | Lenovo NVMe SSD Drive 256GB         | 1         | 1.25%   |
-| JMicron Generic 2TB                 | 1         | 1.25%   |
+| JMicron Generic 160GB               | 1         | 1.25%   |
 | I/OMAGIC BLACK DIAMOND 256GB        | 1         | 1.25%   |
 | Hitachi HTS725032A9A364 320GB       | 1         | 1.25%   |
 | Hitachi HTS547575A9E384 752GB       | 1         | 1.25%   |
@@ -1025,21 +1025,22 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SanDisk             | 5         | 5      | 17.86%  |
-| WDC                 | 3         | 3      | 10.71%  |
-| Samsung Electronics | 3         | 4      | 10.71%  |
-| Crucial             | 3         | 4      | 10.71%  |
-| PNY                 | 2         | 2      | 7.14%   |
-| Patriot             | 2         | 2      | 7.14%   |
-| Kingston            | 2         | 2      | 7.14%   |
-| SPCC                | 1         | 1      | 3.57%   |
-| Micron_1            | 1         | 1      | 3.57%   |
-| LITEON              | 1         | 1      | 3.57%   |
-| HEORIADY            | 1         | 1      | 3.57%   |
-| Dogfish             | 1         | 1      | 3.57%   |
-| AMD                 | 1         | 1      | 3.57%   |
-| ALERTSEAL           | 1         | 1      | 3.57%   |
-| A-DATA Technology   | 1         | 1      | 3.57%   |
+| SanDisk             | 5         | 5      | 17.24%  |
+| WDC                 | 3         | 3      | 10.34%  |
+| Samsung Electronics | 3         | 4      | 10.34%  |
+| Crucial             | 3         | 4      | 10.34%  |
+| PNY                 | 2         | 2      | 6.9%    |
+| Patriot             | 2         | 2      | 6.9%    |
+| Kingston            | 2         | 2      | 6.9%    |
+| SPCC                | 1         | 1      | 3.45%   |
+| Micron_1            | 1         | 1      | 3.45%   |
+| LITEON              | 1         | 1      | 3.45%   |
+| JMicron Technology  | 1         | 1      | 3.45%   |
+| HEORIADY            | 1         | 1      | 3.45%   |
+| Dogfish             | 1         | 1      | 3.45%   |
+| AMD                 | 1         | 1      | 3.45%   |
+| ALERTSEAL           | 1         | 1      | 3.45%   |
+| A-DATA Technology   | 1         | 1      | 3.45%   |
 
 Drive Kind
 ----------
@@ -1052,9 +1053,9 @@ HDD or SSD
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
 | HDD     | 35        | 36     | 46.05%  |
-| SSD     | 27        | 30     | 35.53%  |
+| SSD     | 28        | 31     | 36.84%  |
 | MMC     | 6         | 10     | 7.89%   |
-| NVMe    | 5         | 7      | 6.58%   |
+| NVMe    | 4         | 6      | 5.26%   |
 | Unknown | 3         | 3      | 3.95%   |
 
 Drive Connector
@@ -1082,9 +1083,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 42        | 46     | 68.85%  |
-| 0.51-1.0   | 18        | 19     | 29.51%  |
-| 1.01-2.0   | 1         | 1      | 1.64%   |
+| 0.01-0.5   | 43        | 47     | 69.35%  |
+| 0.51-1.0   | 18        | 19     | 29.03%  |
+| 1.01-2.0   | 1         | 1      | 1.61%   |
 
 Space Total
 -----------
@@ -1657,7 +1658,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM03D3 1360x768 410x256mm 19.0-inch      | 2         | 3.13%   |
 | LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch              | 2         | 3.13%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch             | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch      | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch      | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch      | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch      | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch      | 1         | 1.56%   |
@@ -1675,7 +1676,7 @@ Monitor models
 | LG Display LCD Monitor LGD0525 1366x768 344x194mm 15.5-inch               | 1         | 1.56%   |
 | LG Display LCD Monitor LGD0430 1366x768 345x194mm 15.6-inch               | 1         | 1.56%   |
 | LG Display LCD Monitor LGD03DD 1366x768 344x194mm 15.5-inch               | 1         | 1.56%   |
-| LG Display LCD Monitor LGD03B3 1366x768 309x174mm 14.0-inch               | 1         | 1.56%   |
+| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch               | 1         | 1.56%   |
 | LG Display LCD Monitor LGD0386 1366x768 309x174mm 14.0-inch               | 1         | 1.56%   |
 | LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch               | 1         | 1.56%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch               | 1         | 1.56%   |
@@ -1687,7 +1688,7 @@ Monitor models
 | LG Display LCD Monitor LGD01CA 1600x900 382x215mm 17.3-inch               | 1         | 1.56%   |
 | LG Display LCD Monitor LGD01AF 1680x1050 331x207mm 15.4-inch              | 1         | 1.56%   |
 | LG Display LCD Monitor LGD018E 1920x1200 367x230mm 17.1-inch              | 1         | 1.56%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 344x194mm 15.5-inch                   | 1         | 1.56%   |
+| Lenovo LCD Monitor LEN40B0 1366x768 344x193mm 15.5-inch                   | 1         | 1.56%   |
 | Goldstar 32LG7000 GSM765E 1920x1080 700x390mm 31.5-inch                   | 1         | 1.56%   |
 | Dell E1709W DELD022 1440x900 370x230mm 17.2-inch                          | 1         | 1.56%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 382x214mm 17.2-inch           | 1         | 1.56%   |
@@ -1703,7 +1704,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO71EC 1366x768 344x193mm 15.5-inch             | 1         | 1.56%   |
 | AU Optronics LCD Monitor AUO23EC 1366x768 344x193mm 15.5-inch             | 1         | 1.56%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch             | 1         | 1.56%   |
-| AU Optronics LCD Monitor AUO21EC 1366x768 344x193mm 15.5-inch             | 1         | 1.56%   |
+| AU Optronics LCD Monitor AUO21EC 1366x768 340x190mm 15.3-inch             | 1         | 1.56%   |
 | AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch             | 1         | 1.56%   |
 | AU Optronics LCD Monitor AUO183C 1366x768 309x173mm 13.9-inch             | 1         | 1.56%   |
 | AU Optronics LCD Monitor AUO162C 1366x768 293x164mm 13.2-inch             | 1         | 1.56%   |
@@ -2165,7 +2166,7 @@ Controller models
 | Lite-On Atheros Bluetooth                           | 1         | 2.33%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.33%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 2.33%   |
-| Intel Bluetooth Device                              | 1         | 2.33%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 2.33%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 2.33%   |
 | Intel AX210 Bluetooth                               | 1         | 2.33%   |
 | IMC Networks Bluetooth Device                       | 1         | 2.33%   |
@@ -2279,15 +2280,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Notebooks | Percent |
-|------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s              | 1         | 14.29%  |
-| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s              | 1         | 14.29%  |
-| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s            | 1         | 14.29%  |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s      | 1         | 14.29%  |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 14.29%  |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s    | 1         | 14.29%  |
-| Kingston RAM 9905428-020.A00LF 4096MB SODIMM DDR3 1067MT/s | 1         | 14.29%  |
+| Model                                                    | Notebooks | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s            | 1         | 14.29%  |
+| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s            | 1         | 14.29%  |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s          | 1         | 14.29%  |
+| Samsung RAM M471B5273CH0-CH9 4096MB SODIMM DDR3 1334MT/s | 1         | 14.29%  |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1         | 14.29%  |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s  | 1         | 14.29%  |
+| Kingston RAM 9905428-020.A00LF 4GB SODIMM DDR3 1067MT/s  | 1         | 14.29%  |
 
 Memory Kind
 -----------
@@ -2424,6 +2425,7 @@ Camera device models
 | Chicony HD WebCam                                                     | 3         | 5.56%   |
 | Suyin Acer/HP Integrated Webcam [CN0314]                              | 2         | 3.7%    |
 | Sunplus HD WebCam                                                     | 2         | 3.7%    |
+| Realtek USB Camera                                                    | 2         | 3.7%    |
 | Quanta HP Webcam                                                      | 2         | 3.7%    |
 | Chicony CNF9055 Toshiba Webcam                                        | 2         | 3.7%    |
 | Apple Built-in iSight                                                 | 2         | 3.7%    |
@@ -2435,11 +2437,9 @@ Camera device models
 | Silicon Motion WebCam SCB-0385N                                       | 1         | 1.85%   |
 | Silicon Motion WebCam SC-0311139N                                     | 1         | 1.85%   |
 | Silicon Motion 300k Pixel Camera                                      | 1         | 1.85%   |
-| Samsung Galaxy A5 (MTP)                                               | 1         | 1.85%   |
+| Samsung Galaxy series, misc. (MTP mode)                               | 1         | 1.85%   |
 | Ricoh Laptop_Integrated_Webcam_3M                                     | 1         | 1.85%   |
 | Ricoh Integrated Webcam                                               | 1         | 1.85%   |
-| Realtek USB Camera                                                    | 1         | 1.85%   |
-| Realtek HP Webcam-101                                                 | 1         | 1.85%   |
 | Quanta Laptop_Integrated_Webcam_2HDM                                  | 1         | 1.85%   |
 | Primax HP Webcam-101                                                  | 1         | 1.85%   |
 | Primax HP HD Webcam [Fixed]                                           | 1         | 1.85%   |
@@ -2463,7 +2463,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD               | 1         | 1.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam                   | 1         | 1.85%   |
 | ALi Gateway Webcam                                                    | 1         | 1.85%   |
-| Alcor Micro USB 2.0 PC cam                                            | 1         | 1.85%   |
+| Alcor Micro USB 2.0 Camera                                            | 1         | 1.85%   |
 | Alcor Micro Acer Integrated Webcam                                    | 1         | 1.85%   |
 | Acer SunplusIT Integrated Camera                                      | 1         | 1.85%   |
 | Acer Crystal Eye webcam                                               | 1         | 1.85%   |

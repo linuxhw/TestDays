@@ -831,10 +831,10 @@ Hard drive models
 | Unknown MMC Card  32GB                  | 1         | 2%      |
 | Unknown AJNB4R  16GB                    | 1         | 2%      |
 | Toshiba THNSNJ256GVNU 256GB SSD         | 1         | 2%      |
-| Toshiba NVMe SSD Drive 256GB            | 1         | 2%      |
 | Toshiba NVMe SSD Drive 1024GB           | 1         | 2%      |
 | Toshiba MQ01ABD075 752GB                | 1         | 2%      |
 | Toshiba MK5055GSX 500GB                 | 1         | 2%      |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 2%      |
 | SK hynix PC401 HFS256GD9TNG-62A0A 256GB | 1         | 2%      |
 | SK hynix HFM512GDJTNG-8310A 512GB       | 1         | 2%      |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 2%      |
@@ -944,8 +944,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 24        | 28     | 72.73%  |
-| 0.51-1.0   | 8         | 9      | 24.24%  |
+| 0.01-0.5   | 25        | 29     | 75.76%  |
+| 0.51-1.0   | 7         | 8      | 21.21%  |
 | 1.01-2.0   | 1         | 1      | 3.03%   |
 
 Space Total
@@ -1481,9 +1481,9 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| ___ LCD TV ___9000 1360x768                                           | 1         | 2.08%   |
+| ___ LCDTV16 ___9000 1360x768                                          | 1         | 2.08%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 2.08%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 2.08%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 2.08%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 2.08%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 2.08%   |
@@ -1497,9 +1497,9 @@ Monitor models
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 2.08%   |
 | LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch           | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch               | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch               | 1         | 2.08%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1         | 2.08%   |
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 2.08%   |
+| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch            | 1         | 2.08%   |
 | Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 2.08%   |
 | GKK MONITOR GKK3034 1920x1080                                         | 1         | 2.08%   |
 | Chimei Innolux LCD Monitor CMN15D2 1920x1080 344x193mm 15.5-inch      | 1         | 2.08%   |
@@ -1519,7 +1519,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch         | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch        | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO41ED 1920x1080 344x193mm 15.5-inch        | 1         | 2.08%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch        | 1         | 2.08%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch        | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch         | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO233E 1600x900 309x174mm 14.0-inch         | 1         | 2.08%   |
@@ -1936,7 +1936,7 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 6.45%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 6.45%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 3.23%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 1         | 3.23%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 3.23%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 3.23%   |
 | Lite-On Bluetooth Device                                                            | 1         | 3.23%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 3.23%   |
@@ -2041,7 +2041,7 @@ Memory module models
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
 | SK hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 5.26%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 5.26%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
 | Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s  | 1         | 5.26%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
@@ -2050,7 +2050,7 @@ Memory module models
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
-| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s | 1         | 5.26%   |
+| Crucial RAM CT8G4SFS824A.C8FE 8GB SODIMM DDR4 2667MT/s    | 1         | 5.26%   |
 | A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s             | 1         | 5.26%   |
 | A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
 

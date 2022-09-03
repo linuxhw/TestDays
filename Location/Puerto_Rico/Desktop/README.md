@@ -1037,10 +1037,10 @@ Hard drive models
 | TDAS TerraMaster 1TB                 | 2        | 2.33%   |
 | Seagate ST320DM001 HD322GJ 320GB     | 2        | 2.33%   |
 | Seagate ST2000VM003-1CT164 2TB       | 2        | 2.33%   |
-| Seagate Expansion 1TB                | 2        | 2.33%   |
+| Seagate Expansion 500GB              | 2        | 2.33%   |
 | Samsung SSD 850 EVO 500GB            | 2        | 2.33%   |
 | Samsung NVMe SSD Drive 500GB         | 2        | 2.33%   |
-| SABRENT Disk 1TB                     | 2        | 2.33%   |
+| SABRENT Disk 480GB                   | 2        | 2.33%   |
 | Micron/Crucial NVMe SSD Drive 500GB  | 2        | 2.33%   |
 | China SATA SSD 512GB                 | 2        | 2.33%   |
 | WDC WD7500BPVX-60JC3T0 752GB         | 1        | 1.16%   |
@@ -1165,11 +1165,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 24       | 54     | 40%     |
-| 0.01-0.5   | 24       | 40     | 40%     |
-| 1.01-2.0   | 8        | 19     | 13.33%  |
-| 3.01-4.0   | 3        | 8      | 5%      |
-| 2.01-3.0   | 1        | 1      | 1.67%   |
+| 0.01-0.5   | 27       | 45     | 44.26%  |
+| 0.51-1.0   | 22       | 49     | 36.07%  |
+| 1.01-2.0   | 8        | 19     | 13.11%  |
+| 3.01-4.0   | 3        | 8      | 4.92%   |
+| 2.01-3.0   | 1        | 1      | 1.64%   |
 
 Space Total
 -----------
@@ -1774,12 +1774,12 @@ Monitor models
 | Sony TV SNY4502 1920x1080                                              | 1        | 1.61%   |
 | Seiki SE241TS SEK0CF0 1920x1080 520x290mm 23.4-inch                    | 1        | 1.61%   |
 | Sceptre Tech Sceptre X22HG SPT2204 1920x1080 474x296mm 22.0-inch       | 1        | 1.61%   |
+| Sceptre Tech Sceptre F27 SPT0ABF 1920x1080 409x230mm 18.5-inch         | 1        | 1.61%   |
 | Sceptre Tech Sceptre C27 SPT0AD7 1920x1080 598x336mm 27.0-inch         | 1        | 1.61%   |
-| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                 | 1        | 1.61%   |
 | Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch      | 1        | 1.61%   |
 | Samsung Electronics LCD Monitor SAM0F0B 3840x2160 1210x680mm 54.6-inch | 1        | 1.61%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch      | 1        | 1.61%   |
-| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1        | 1.61%   |
+| MStar Demo MST0030 1920x540 708x398mm 32.0-inch                        | 1        | 1.61%   |
 | Hewlett-Packard P17A HWP3142 1280x1024 338x270mm 17.0-inch             | 1        | 1.61%   |
 | Hewlett-Packard LE1901w HWP2842 1440x900 410x256mm 19.0-inch           | 1        | 1.61%   |
 | Hewlett-Packard L2105tm HWP2863 1920x1080 477x268mm 21.5-inch          | 1        | 1.61%   |
@@ -1790,7 +1790,7 @@ Monitor models
 | Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                     | 1        | 1.61%   |
 | Dell E2316H DELF06B 1920x1080 509x286mm 23.0-inch                      | 1        | 1.61%   |
 | Dell DELLSE2216HV DELF072 1920x1080 476x268mm 21.5-inch                | 1        | 1.61%   |
-| Dell 2009W DEL4041 1680x1050 433x270mm 20.1-inch                       | 1        | 1.61%   |
+| Dell 2009W DEL4041 1680x1050 433x271mm 20.1-inch                       | 1        | 1.61%   |
 | ASUSTek Computer VG279 AUS2782 1920x1080 598x336mm 27.0-inch           | 1        | 1.61%   |
 | AOC LM742 AOCC742 1280x1024 338x270mm 17.0-inch                        | 1        | 1.61%   |
 | AOC 2043 AOC2043 1600x900 443x249mm 20.0-inch                          | 1        | 1.61%   |
@@ -2346,11 +2346,11 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                   | 1        | 5%      |
 | Unknown RAM CL18-20-20 D4-3600 8192MB DIMM DDR4 3600MT/s | 1        | 5%      |
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 5%      |
-| Sesame RAM S939A2UGS-ITR 8192MB DIMM DDR3 1600MT/s       | 1        | 5%      |
+| Sesame RAM S939A2UGS-ITR 8GB DIMM DDR3 1600MT/s          | 1        | 5%      |
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s      | 1        | 5%      |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1866MT/s      | 1        | 5%      |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 5%      |
-| Samsung RAM M378B1G73QH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 5%      |
+| Samsung RAM M378B1G73QH0-CK0 8192MB DIMM DDR3 1600MT/s   | 1        | 5%      |
 | Samsung RAM M378B1G73BH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 5%      |
 | PNY RAM 4GBH1X04E9992 4096MB DIMM DDR3 1600MT/s          | 1        | 5%      |
 | Kingston RAM X2YH1K-MIE-NX 16GB DIMM DDR4 3200MT/s       | 1        | 5%      |
@@ -2494,7 +2494,7 @@ Camera device models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | Microdia Camera                 | 4        | 33.33%  |
-| Microdia HDP Webcam USB         | 1        | 8.33%   |
+| Microdia USB 2.0 Camera         | 1        | 8.33%   |
 | Logitech Webcam Pro 9000        | 1        | 8.33%   |
 | Logitech Webcam C310            | 1        | 8.33%   |
 | Logitech Webcam C270            | 1        | 8.33%   |
@@ -2547,8 +2547,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 38       | 66.67%  |
-| 1     | 15       | 26.32%  |
+| 0     | 39       | 68.42%  |
+| 1     | 14       | 24.56%  |
 | 2     | 4        | 7.02%   |
 
 Unsupported Device Types
@@ -2561,9 +2561,9 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 12       | 60%     |
-| Graphics card            | 5        | 25%     |
-| Net/ethernet             | 1        | 5%      |
-| Multimedia controller    | 1        | 5%      |
-| Communication controller | 1        | 5%      |
+| Net/wireless             | 12       | 63.16%  |
+| Graphics card            | 4        | 21.05%  |
+| Net/ethernet             | 1        | 5.26%   |
+| Multimedia controller    | 1        | 5.26%   |
+| Communication controller | 1        | 5.26%   |
 

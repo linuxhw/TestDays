@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 120
+Total: 121
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | G33M-S2                     | [5bd6c356cd](https://linux-hardware.org/?probe=5bd6c356cd) | Aug 03, 2022 |
 | Gigabyte      | Z87-HD3                     | [83936d3cf0](https://linux-hardware.org/?probe=83936d3cf0) | Jul 31, 2022 |
 | Gigabyte      | G33M-S2                     | [219dd022c6](https://linux-hardware.org/?probe=219dd022c6) | Jul 31, 2022 |
 | Gigabyte      | G33M-S2                     | [0a96778f7c](https://linux-hardware.org/?probe=0a96778f7c) | Jul 30, 2022 |
@@ -1078,15 +1079,15 @@ Hard drive vendors
 
 | Vendor                | Desktops | Drives | Percent |
 |-----------------------|----------|--------|---------|
-| WDC                   | 34       | 51     | 24.46%  |
-| Seagate               | 32       | 47     | 23.02%  |
-| Samsung Electronics   | 25       | 38     | 17.99%  |
+| WDC                   | 34       | 52     | 24.46%  |
+| Seagate               | 32       | 48     | 23.02%  |
+| Samsung Electronics   | 25       | 39     | 17.99%  |
 | Kingston              | 10       | 17     | 7.19%   |
 | Crucial               | 9        | 13     | 6.47%   |
 | Hitachi               | 6        | 8      | 4.32%   |
 | Toshiba               | 5        | 5      | 3.6%    |
 | Intel                 | 4        | 7      | 2.88%   |
-| GOODRAM               | 3        | 4      | 2.16%   |
+| GOODRAM               | 3        | 5      | 2.16%   |
 | OCZ                   | 2        | 3      | 1.44%   |
 | Unknown               | 1        | 1      | 0.72%   |
 | Realtek Semiconductor | 1        | 1      | 0.72%   |
@@ -1179,9 +1180,9 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 32       | 47     | 37.65%  |
-| WDC                 | 29       | 43     | 34.12%  |
-| Samsung Electronics | 11       | 14     | 12.94%  |
+| Seagate             | 32       | 48     | 37.65%  |
+| WDC                 | 29       | 44     | 34.12%  |
+| Samsung Electronics | 11       | 15     | 12.94%  |
 | Hitachi             | 6        | 8      | 7.06%   |
 | Toshiba             | 5        | 5      | 5.88%   |
 | Maxtor              | 1        | 1      | 1.18%   |
@@ -1202,7 +1203,7 @@ Solid state drive vendors
 | Crucial             | 9        | 13     | 19.57%  |
 | WDC                 | 4        | 5      | 8.7%    |
 | Intel               | 3        | 6      | 6.52%   |
-| GOODRAM             | 3        | 4      | 6.52%   |
+| GOODRAM             | 3        | 5      | 6.52%   |
 | OCZ                 | 2        | 3      | 4.35%   |
 | Patriot             | 1        | 1      | 2.17%   |
 | Mushkin             | 1        | 2      | 2.17%   |
@@ -1220,8 +1221,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 62       | 119    | 56.36%  |
-| SSD  | 36       | 69     | 32.73%  |
+| HDD  | 62       | 122    | 56.36%  |
+| SSD  | 36       | 70     | 32.73%  |
 | NVMe | 11       | 16     | 10%     |
 | MMC  | 1        | 1      | 0.91%   |
 
@@ -1235,7 +1236,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 72       | 186    | 83.72%  |
+| SATA | 72       | 190    | 83.72%  |
 | NVMe | 11       | 16     | 12.79%  |
 | SAS  | 2        | 2      | 2.33%   |
 | MMC  | 1        | 1      | 1.16%   |
@@ -1250,12 +1251,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 60       | 129    | 58.82%  |
-| 0.51-1.0   | 30       | 44     | 29.41%  |
-| 1.01-2.0   | 7        | 10     | 6.86%   |
-| 2.01-3.0   | 2        | 2      | 1.96%   |
-| 4.01-10.0  | 2        | 2      | 1.96%   |
-| 3.01-4.0   | 1        | 1      | 0.98%   |
+| 0.01-0.5   | 61       | 133    | 59.22%  |
+| 0.51-1.0   | 30       | 44     | 29.13%  |
+| 1.01-2.0   | 7        | 10     | 6.8%    |
+| 2.01-3.0   | 2        | 2      | 1.94%   |
+| 4.01-10.0  | 2        | 2      | 1.94%   |
+| 3.01-4.0   | 1        | 1      | 0.97%   |
 
 Space Total
 -----------
@@ -1309,10 +1310,10 @@ Drive models with a malfunction
 | Model                                 | Desktops | Drives | Percent |
 |---------------------------------------|----------|--------|---------|
 | WDC WD20EARX-00PASB0 2TB              | 2        | 3      | 6.9%    |
-| WDC WD2000JD-00HBB0 200GB             | 2        | 3      | 6.9%    |
-| Seagate ST1000DM003-1SB102 1TB        | 2        | 3      | 6.9%    |
+| WDC WD2000JD-00HBB0 200GB             | 2        | 4      | 6.9%    |
+| Seagate ST1000DM003-1SB102 1TB        | 2        | 4      | 6.9%    |
 | Samsung Electronics SP2504C 250GB     | 2        | 2      | 6.9%    |
-| Samsung Electronics HD501LJ 500GB     | 2        | 3      | 6.9%    |
+| Samsung Electronics HD501LJ 500GB     | 2        | 4      | 6.9%    |
 | WDC WDS500G3X0C-00SJG0 500GB          | 1        | 1      | 3.45%   |
 | WDC WD800JD-60MSA1 80GB               | 1        | 1      | 3.45%   |
 | WDC WD5002AALX-00J37A0 500GB          | 1        | 1      | 3.45%   |
@@ -1343,9 +1344,9 @@ Vendors of faulty drives
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 9        | 12     | 33.33%  |
-| Seagate             | 9        | 11     | 33.33%  |
-| Samsung Electronics | 5        | 6      | 18.52%  |
+| WDC                 | 9        | 13     | 33.33%  |
+| Seagate             | 9        | 12     | 33.33%  |
+| Samsung Electronics | 5        | 7      | 18.52%  |
 | Toshiba             | 1        | 1      | 3.7%    |
 | Kingston            | 1        | 1      | 3.7%    |
 | Hitachi             | 1        | 1      | 3.7%    |
@@ -1361,9 +1362,9 @@ Vendors of faulty HDD drives
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 9        | 11     | 39.13%  |
-| WDC                 | 8        | 11     | 34.78%  |
-| Samsung Electronics | 4        | 5      | 17.39%  |
+| Seagate             | 9        | 12     | 39.13%  |
+| WDC                 | 8        | 12     | 34.78%  |
+| Samsung Electronics | 4        | 6      | 17.39%  |
 | Toshiba             | 1        | 1      | 4.35%   |
 | Hitachi             | 1        | 1      | 4.35%   |
 
@@ -1377,7 +1378,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 16       | 29     | 80%     |
+| HDD  | 16       | 32     | 80%     |
 | NVMe | 2        | 2      | 10%     |
 | SSD  | 2        | 3      | 10%     |
 
@@ -1406,8 +1407,8 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Detected | 41       | 98     | 44.09%  |
-| Works    | 33       | 73     | 35.48%  |
-| Malfunc  | 19       | 34     | 20.43%  |
+| Works    | 33       | 74     | 35.48%  |
+| Malfunc  | 19       | 37     | 20.43%  |
 
 Storage controller
 ------------------
@@ -1939,7 +1940,7 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Goldstar L194WT GSM4B06 1440x900 408x255mm 18.9-inch                  | 3        | 3.7%    |
+| Goldstar L194WT GSM4B06 1440x900 410x260mm 19.1-inch                  | 3        | 3.7%    |
 | Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch              | 2        | 2.47%   |
 | LG Electronics LCD Monitor LG TV 1920x1080                            | 2        | 2.47%   |
 | BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                    | 2        | 2.47%   |
@@ -1947,7 +1948,7 @@ Monitor models
 | ViewSonic VA503 SERIES VSCEF1D 1024x768 304x228mm 15.0-inch           | 1        | 1.23%   |
 | Unknown LCD Monitor Sharp LL-S201A 1920x1080                          | 1        | 1.23%   |
 | Unknown LCD Monitor HYO DUAL-DVI 2560x1440                            | 1        | 1.23%   |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 470x300mm 22.0-inch  | 1        | 1.23%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch  | 1        | 1.23%   |
 | Samsung Electronics SyncMaster SAM036C 1920x1200 550x343mm 25.5-inch  | 1        | 1.23%   |
 | Samsung Electronics SyncMaster SAM02F6 1280x1024 338x270mm 17.0-inch  | 1        | 1.23%   |
 | Samsung Electronics SyncMaster SAM026E 1280x1024 376x301mm 19.0-inch  | 1        | 1.23%   |
@@ -1981,11 +1982,11 @@ Monitor models
 | Goldstar W2600 GSM5675 1920x1200 550x340mm 25.5-inch                  | 1        | 1.23%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch               | 1        | 1.23%   |
 | Goldstar M2252D GSM60AC 1920x1080 531x299mm 24.0-inch                 | 1        | 1.23%   |
+| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch            | 1        | 1.23%   |
 | Goldstar L222W GSM5664 1680x1050 474x296mm 22.0-inch                  | 1        | 1.23%   |
 | Goldstar L192WS GSM4B32 1440x900 410x256mm 19.0-inch                  | 1        | 1.23%   |
 | Goldstar L1753S GSM446F 1280x1024 338x270mm 17.0-inch                 | 1        | 1.23%   |
 | Goldstar IPS234 GSM58D8 1920x1080 510x290mm 23.1-inch                 | 1        | 1.23%   |
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1        | 1.23%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 1.23%   |
 | Goldstar DM2352 GSM58E6 1920x1080 509x286mm 23.0-inch                 | 1        | 1.23%   |
 | Goldstar 27EA63 GSM598A 1920x1080 600x340mm 27.2-inch                 | 1        | 1.23%   |
@@ -2516,7 +2517,7 @@ Sound card models
 | Nvidia GK106 HDMI Audio Controller                                         | 1        | 0.71%   |
 | Nvidia GF114 HDMI Audio Controller                                         | 1        | 0.71%   |
 | Nvidia GA104 High Definition Audio Controller                              | 1        | 0.71%   |
-| JMTek Widget C                                                             | 1        | 0.71%   |
+| JMTek Lioncast_LX60_USB_Headset                                            | 1        | 0.71%   |
 | Intel USB PnP Sound Device                                                 | 1        | 0.71%   |
 | Intel Celeron/Pentium Silver Processor High Definition Audio               | 1        | 0.71%   |
 | Intel C600/X79 series chipset High Definition Audio Controller             | 1        | 0.71%   |
@@ -2566,7 +2567,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM SDRAM                    | 2        | 3.28%   |
 | Unknown RAM Module 2048MB DIMM 667MT/s                  | 2        | 3.28%   |
 | Kingston RAM KHX3466C16D4/16GX 16GB DIMM DDR4 3466MT/s  | 2        | 3.28%   |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s     | 2        | 3.28%   |
+| Kingston RAM KHX1866C10D3/4G 4096MB DIMM DDR3 1867MT/s  | 2        | 3.28%   |
 | Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s | 2        | 3.28%   |
 | Unknown RAM Module 4096MB DIMM DDR3 667MT/s             | 1        | 1.64%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 1.64%   |
@@ -2583,7 +2584,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 533MT/s              | 1        | 1.64%   |
 | Unknown RAM Module 1024MB DIMM 800MT/s                  | 1        | 1.64%   |
 | SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR2 667MT/s   | 1        | 1.64%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 1.64%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s    | 1        | 1.64%   |
 | Samsung RAM M3 78T2863QZS-CE6 1GB DIMM SDRAM 1639MT/s   | 1        | 1.64%   |
 | Ramos RAM RMB2GE484CA5-13HC 2048MB DIMM 533MT/s         | 1        | 1.64%   |
 | Micron RAM 8JTF25664AZ-1G6M1 2GB DIMM DDR3 1600MT/s     | 1        | 1.64%   |
@@ -2593,7 +2594,7 @@ Memory module models
 | Kingston RAM KHX2133C11D3/4GX 4GB DIMM DDR3 2134MT/s    | 1        | 1.64%   |
 | Kingston RAM KHX1600C9D3/8GX 8192MB DIMM DDR3 2133MT/s  | 1        | 1.64%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s     | 1        | 1.64%   |
-| Kingston RAM KHX1600C10D3/8G 4096MB DIMM DDR3 1600MT/s  | 1        | 1.64%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s     | 1        | 1.64%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s     | 1        | 1.64%   |
 | Kingston RAM HX316C10F/4 4GB DIMM DDR3 1600MT/s         | 1        | 1.64%   |
 | Kingston RAM 99U5431-004.A00LF 1024MB DIMM DDR 533MT/s  | 1        | 1.64%   |
@@ -2609,7 +2610,7 @@ Memory module models
 | Crucial RAM CT8G4DFS8266.M8FE 8GB DIMM DDR4 2667MT/s    | 1        | 1.64%   |
 | Crucial RAM CT8G4DFS824A.C8FDD1 8GB DIMM DDR4 3200MT/s  | 1        | 1.64%   |
 | Crucial RAM CT51264BA160BJ.C8F 4GB DIMM DDR3 1600MT/s   | 1        | 1.64%   |
-| Crucial RAM CT51264BA160BJ.C8 4096MB DIMM DDR3 1600MT/s | 1        | 1.64%   |
+| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s    | 1        | 1.64%   |
 | Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s   | 1        | 1.64%   |
 | Crucial RAM BLS8G4D240FSBK.8FD 8GB DIMM DDR4 2448MT/s   | 1        | 1.64%   |
 | Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s | 1        | 1.64%   |
@@ -2789,7 +2790,7 @@ Camera device models
 | Logitech Webcam C170                        | 2        | 9.52%   |
 | Apple iPhone 5/5C/5S/6/SE                   | 2        | 9.52%   |
 | Z-Star Vega USB 2.0 Camera                  | 1        | 4.76%   |
-| Samsung Galaxy A5 (MTP)                     | 1        | 4.76%   |
+| Samsung Galaxy series, misc. (MTP mode)     | 1        | 4.76%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro        | 1        | 4.76%   |
 | Microdia Defender G-Lens 2577 HD720p Camera | 1        | 4.76%   |
 | Logitech Webcam C310                        | 1        | 4.76%   |

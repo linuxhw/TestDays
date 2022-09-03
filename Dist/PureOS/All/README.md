@@ -704,8 +704,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 31        | 75.61%  |
-| Yes       | 10        | 24.39%  |
+| No        | 30        | 73.17%  |
+| Yes       | 11        | 26.83%  |
 
 Has Ethernet
 ------------
@@ -877,7 +877,7 @@ Hard drive models
 |-------------------------------------|-----------|---------|
 | Seagate ST1000LM048-2E7172 1TB      | 2         | 3.57%   |
 | Samsung SSD 970 PRO 1TB             | 2         | 3.57%   |
-| Win Memory SWR256G-201II 256GB SSD  | 1         | 1.79%   |
+| Win Memory SWR256G-201II 256GB      | 1         | 1.79%   |
 | WDC WDS100T2B0C-00PXH0 1TB          | 1         | 1.79%   |
 | WDC WDBNCE2500PNC 250GB SSD         | 1         | 1.79%   |
 | WDC WD3200AAJS-40RYA0 320GB         | 1         | 1.79%   |
@@ -911,7 +911,7 @@ Hard drive models
 | Phison PM8512GPTCB4B8TF-E13T4 512GB | 1         | 1.79%   |
 | Patriot Burst Elite 120GB SSD       | 1         | 1.79%   |
 | Mushkin MKNSSDRE250GB-LT            | 1         | 1.79%   |
-| JMicron Generic 2TB                 | 1         | 1.79%   |
+| JMicron Generic 160GB               | 1         | 1.79%   |
 | Intel SSDSC2BF180A4H 180GB          | 1         | 1.79%   |
 | Hitachi HTS545050A7E380 500GB       | 1         | 1.79%   |
 | HGST HTS721010A9E630 1TB            | 1         | 1.79%   |
@@ -957,18 +957,19 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 6         | 8      | 30%     |
-| A-DATA Technology   | 3         | 4      | 15%     |
-| Crucial             | 2         | 4      | 10%     |
-| Win Memory          | 1         | 1      | 5%      |
-| WDC                 | 1         | 2      | 5%      |
-| Transcend           | 1         | 1      | 5%      |
-| SanDisk             | 1         | 1      | 5%      |
-| Plextor             | 1         | 1      | 5%      |
-| Patriot             | 1         | 1      | 5%      |
-| Mushkin             | 1         | 1      | 5%      |
-| Intel               | 1         | 1      | 5%      |
-| BIWIN               | 1         | 1      | 5%      |
+| Samsung Electronics | 6         | 8      | 28.57%  |
+| A-DATA Technology   | 3         | 4      | 14.29%  |
+| Crucial             | 2         | 4      | 9.52%   |
+| Win Memory          | 1         | 1      | 4.76%   |
+| WDC                 | 1         | 2      | 4.76%   |
+| Transcend           | 1         | 1      | 4.76%   |
+| SanDisk             | 1         | 1      | 4.76%   |
+| Plextor             | 1         | 1      | 4.76%   |
+| Patriot             | 1         | 1      | 4.76%   |
+| Mushkin             | 1         | 1      | 4.76%   |
+| JMicron Technology  | 1         | 1      | 4.76%   |
+| Intel               | 1         | 1      | 4.76%   |
+| BIWIN               | 1         | 1      | 4.76%   |
 
 Drive Kind
 ----------
@@ -980,10 +981,10 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 18        | 26     | 36.73%  |
-| NVMe | 14        | 16     | 28.57%  |
-| HDD  | 12        | 18     | 24.49%  |
-| MMC  | 5         | 9      | 10.2%   |
+| SSD  | 18        | 27     | 37.5%   |
+| NVMe | 13        | 15     | 27.08%  |
+| HDD  | 12        | 18     | 25%     |
+| MMC  | 5         | 9      | 10.42%  |
 
 Drive Connector
 ---------------
@@ -1010,7 +1011,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 18        | 30     | 62.07%  |
+| 0.01-0.5   | 18        | 31     | 62.07%  |
 | 0.51-1.0   | 9         | 11     | 31.03%  |
 | 1.01-2.0   | 2         | 3      | 6.9%    |
 
@@ -1536,7 +1537,7 @@ Monitor models
 | Sharp LCD Monitor SHP148B 3840x2160 294x165mm 13.3-inch                   | 1         | 2.27%   |
 | Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch       | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SEC3041 1366x768 353x198mm 15.9-inch      | 1         | 2.27%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch         | 1         | 2.27%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch         | 1         | 2.27%   |
 | RTK LG AIO FHD RTK2136 1920x1080 477x268mm 21.5-inch                      | 1         | 2.27%   |
 | LG Display LCD Monitor LGD0563 1920x1080 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD053B 1920x1080 294x165mm 13.3-inch              | 1         | 2.27%   |
@@ -1565,7 +1566,7 @@ Monitor models
 | Apple iMac APPA012 1920x1080 475x267mm 21.5-inch                          | 1         | 2.27%   |
 | Apple Color LCD APPA034 2880x1800 286x179mm 13.3-inch                     | 1         | 2.27%   |
 | Apple Color LCD APP9CCF 1920x1200 367x230mm 17.1-inch                     | 1         | 2.27%   |
-| Apple Color LCD APP9C6B 1680x1050 433x270mm 20.1-inch                     | 1         | 2.27%   |
+| Apple Color LCD APP9C6B 1680x1050 430x270mm 20.0-inch                     | 1         | 2.27%   |
 | AOC 2050 AOC2050 1600x900 443x249mm 20.0-inch                             | 1         | 2.27%   |
 | Acer H236HL ACR0318 1920x1080 509x286mm 23.0-inch                         | 1         | 2.27%   |
 
@@ -2071,7 +2072,7 @@ Memory module models
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 5.26%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 5.26%   |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s             | 1         | 5.26%   |
-| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 5.26%   |
+| SK hynix RAM HMA851S6JJR6N-VK 4096MB SODIMM DDR4 2667MT/s        | 1         | 5.26%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 5.26%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 5.26%   |
 | SK hynix RAM H9CCNNNBLTALAR-NTD 4GB Row Of Chips LPDDR3 1600MT/s | 1         | 5.26%   |
@@ -2213,7 +2214,7 @@ Camera device models
 | Suyin HP TrueVision Full HD                                                | 1         | 3.57%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 3.57%   |
 | Sunplus Integrated Camera                                                  | 1         | 3.57%   |
-| Realtek MTD camera                                                         | 1         | 3.57%   |
+| Realtek USB2.0 camera                                                      | 1         | 3.57%   |
 | Realtek Integrated_Webcam_HD                                               | 1         | 3.57%   |
 | Realtek Integrated Webcam                                                  | 1         | 3.57%   |
 | Realtek HP Truevision HD                                                   | 1         | 3.57%   |

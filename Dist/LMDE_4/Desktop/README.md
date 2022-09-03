@@ -823,21 +823,21 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2012 | 19       | 12.84%  |
 | 2009 | 15       | 10.14%  |
-| 2007 | 14       | 9.46%   |
-| 2014 | 12       | 8.11%   |
+| 2014 | 13       | 8.78%   |
+| 2007 | 13       | 8.78%   |
 | 2010 | 12       | 8.11%   |
 | 2019 | 11       | 7.43%   |
 | 2008 | 11       | 7.43%   |
 | 2011 | 10       | 6.76%   |
 | 2018 | 9        | 6.08%   |
 | 2013 | 6        | 4.05%   |
+| 2006 | 6        | 4.05%   |
 | 2017 | 5        | 3.38%   |
-| 2006 | 5        | 3.38%   |
 | 2020 | 4        | 2.7%    |
 | 2003 | 4        | 2.7%    |
-| 2016 | 3        | 2.03%   |
 | 2005 | 3        | 2.03%   |
 | 2021 | 2        | 1.35%   |
+| 2016 | 2        | 1.35%   |
 | 2015 | 2        | 1.35%   |
 | 2004 | 1        | 0.68%   |
 
@@ -1193,7 +1193,7 @@ Hard drive models
 | Seagate ST2000LX001-1RG174 2TB      | 2        | 0.71%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.71%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.71%   |
-| Seagate Expansion 1TB               | 2        | 0.71%   |
+| Seagate Expansion 500GB             | 2        | 0.71%   |
 | Samsung SSD 850 EVO 500GB           | 2        | 0.71%   |
 | Samsung SP0802N 80GB                | 2        | 0.71%   |
 | Samsung NVMe SSD Drive 2TB          | 2        | 0.71%   |
@@ -1325,12 +1325,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 121      | 230    | 62.05%  |
-| 0.51-1.0   | 48       | 68     | 24.62%  |
-| 1.01-2.0   | 18       | 26     | 9.23%   |
-| 3.01-4.0   | 4        | 8      | 2.05%   |
-| 2.01-3.0   | 2        | 2      | 1.03%   |
-| 4.01-10.0  | 2        | 2      | 1.03%   |
+| 0.01-0.5   | 121      | 234    | 62.69%  |
+| 0.51-1.0   | 46       | 64     | 23.83%  |
+| 1.01-2.0   | 18       | 26     | 9.33%   |
+| 3.01-4.0   | 4        | 8      | 2.07%   |
+| 2.01-3.0   | 2        | 2      | 1.04%   |
+| 4.01-10.0  | 2        | 2      | 1.04%   |
 
 Space Total
 -----------
@@ -2072,11 +2072,11 @@ Monitor models
 | Unknown LCD Monitor GBT G34WQC 3440x1440                                | 1        | 0.6%    |
 | Unknown HV-734TB ___1770 1280x1024 338x270mm 17.0-inch                  | 1        | 0.6%    |
 | Toshiba LCD Monitor TV 1920x1080                                        | 1        | 0.6%    |
-| Targa Visionary LCD19-4 TARA194 1280x1024 380x300mm 19.1-inch           | 1        | 0.6%    |
+| Targa Visionary LCD19-4 TARA194 1280x1024 376x301mm 19.0-inch           | 1        | 0.6%    |
 | Sony TV SNY4C03 1920x1080 1063x598mm 48.0-inch                          | 1        | 0.6%    |
 | Sony TV SNY1B02 1360x768 1600x900mm 72.3-inch                           | 1        | 0.6%    |
 | Sony LCD Monitor TV 3840x1080                                           | 1        | 0.6%    |
-| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                  | 1        | 0.6%    |
+| Sceptre Tech Sceptre F27 SPT0ABF 1920x1080 409x230mm 18.5-inch          | 1        | 0.6%    |
 | Sceptre Tech F24 SPT0961 1920x1080 480x260mm 21.5-inch                  | 1        | 0.6%    |
 | Samsung Electronics T27B300 SAM0933 1920x1080 600x340mm 27.2-inch       | 1        | 0.6%    |
 | Samsung Electronics T23B350 SAM093B 1920x1080 510x287mm 23.0-inch       | 1        | 0.6%    |
@@ -2091,14 +2091,14 @@ Monitor models
 | Samsung Electronics SMS22A200/460 SAM0831 1920x1080 477x268mm 21.5-inch | 1        | 0.6%    |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch      | 1        | 0.6%    |
 | Samsung Electronics SMB2230 SAM063E 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S24R35x SAM100E 1920x1080 527x296mm 23.8-inch       | 1        | 0.6%    |
+| Samsung Electronics S24R35x SAM100E 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24D360 SAM0B24 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch       | 1        | 0.6%    |
 | Samsung Electronics S22D390 SAM0B63 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S22B300 SAM08AC 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
+| Samsung Electronics S22B300 SAM08AC 1920x1080 480x270mm 21.7-inch       | 1        | 0.6%    |
 | Samsung Electronics S19F350 SAM0D46 1366x768 410x230mm 18.5-inch        | 1        | 0.6%    |
 | Samsung Electronics S16B110 SAM097E 1366x768 360x210mm 16.4-inch        | 1        | 0.6%    |
 | Samsung Electronics LCD Monitor SAM0F39 1920x1080 1210x680mm 54.6-inch  | 1        | 0.6%    |
@@ -2366,7 +2366,7 @@ Controller models
 | Intel 82567LM-3 Gigabit Network Connection                                                    | 2        | 0.86%   |
 | Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express                                       | 2        | 0.86%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 0.43%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 0.43%   |
+| TP-Link TL-WN722N v2                                                                          | 1        | 0.43%   |
 | TP-Link Archer T4U v2 [Realtek RTL8812AU]                                                     | 1        | 0.43%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1        | 0.43%   |
 | Sitecom Europe RTL8188S WLAN Adapter                                                          | 1        | 0.43%   |
@@ -2440,7 +2440,7 @@ Wireless models
 | Qualcomm Atheros AR9227 Wireless Network Adapter                                              | 2        | 3.08%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 2        | 3.08%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 1.54%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 1.54%   |
+| TP-Link TL-WN722N v2                                                                          | 1        | 1.54%   |
 | TP-Link Archer T4U v2 [Realtek RTL8812AU]                                                     | 1        | 1.54%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1        | 1.54%   |
 | Sitecom Europe RTL8188S WLAN Adapter                                                          | 1        | 1.54%   |
@@ -2553,7 +2553,7 @@ Ethernet models
 | Intel 82562V-2 10/100 Network Connection                          | 1        | 0.61%   |
 | Intel 82557/8/9/0/1 Ethernet Pro 100                              | 1        | 0.61%   |
 | Intel 82544EI Gigabit Ethernet Controller (Copper)                | 1        | 0.61%   |
-| Huawei LYA-L09                                                    | 1        | 0.61%   |
+| Huawei JNY-LX1                                                    | 1        | 0.61%   |
 | DisplayLink Plugable UD-3900                                      | 1        | 0.61%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 1        | 0.61%   |
 | Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express           | 1        | 0.61%   |
@@ -2800,32 +2800,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM 667MT/s                   | 1        | 4.17%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 4.17%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 4.17%   |
-| Unknown RAM Module 2GB DIMM DDR 1333MT/s                | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 667MT/s             | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 400MT/s             | 1        | 4.17%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                  | 1        | 4.17%   |
-| Unknown RAM Module 1024MB DIMM                          | 1        | 4.17%   |
-| Unknown RAM 4400 C19 Series 8GB DIMM DDR4 2133MT/s      | 1        | 4.17%   |
-| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s           | 1        | 4.17%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 1        | 4.17%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1        | 4.17%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s  | 1        | 4.17%   |
-| PLEXHD RAM Module 8192MB DIMM DDR3 1333MT/s             | 1        | 4.17%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s  | 1        | 4.17%   |
-| Kingston RAM KP223C-ELD 2048MB DIMM DDR3 1600MT/s       | 1        | 4.17%   |
-| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s  | 1        | 4.17%   |
-| Kingston RAM 9965589-033.D00G 8192MB DIMM DDR4 2400MT/s | 1        | 4.17%   |
-| G.Skill RAM F4-3200C16-16GTZSK 16GB DIMM DDR4 3200MT/s  | 1        | 4.17%   |
-| Exceleram RAM E30144A 4096MB DIMM DDR3 800MT/s          | 1        | 4.17%   |
-| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 1        | 4.17%   |
-| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2666MT/s  | 1        | 4.17%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s   | 1        | 4.17%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 512MB DIMM 667MT/s                    | 1        | 4.17%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 4.17%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                 | 1        | 4.17%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                 | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 400MT/s              | 1        | 4.17%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 4.17%   |
+| Unknown RAM Module 1024MB DIMM                           | 1        | 4.17%   |
+| Unknown RAM 4400 C19 Series 8GB DIMM DDR4 2133MT/s       | 1        | 4.17%   |
+| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 4.17%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 1        | 4.17%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1        | 4.17%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s   | 1        | 4.17%   |
+| PLEXHD RAM Module 8192MB DIMM DDR3 1333MT/s              | 1        | 4.17%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s   | 1        | 4.17%   |
+| Kingston RAM KP223C-ELD 2GB DIMM 1600MT/s                | 1        | 4.17%   |
+| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s   | 1        | 4.17%   |
+| Kingston RAM 9965589-033.D00G 8192MB DIMM DDR4 2400MT/s  | 1        | 4.17%   |
+| G.Skill RAM F4-3200C16-16GTZSK 16GB DIMM DDR4 3200MT/s   | 1        | 4.17%   |
+| Exceleram RAM E30144A 4096MB DIMM DDR3 800MT/s           | 1        | 4.17%   |
+| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s  | 1        | 4.17%   |
+| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2666MT/s   | 1        | 4.17%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 4.17%   |
 
 Memory Kind
 -----------
@@ -2888,7 +2888,7 @@ Memory module speed
 | 2400    | 2        | 9.09%   |
 | 1333    | 2        | 9.09%   |
 | 667     | 2        | 9.09%   |
-| 4000    | 1        | 4.55%   |
+| 4133    | 1        | 4.55%   |
 | 3800    | 1        | 4.55%   |
 | 3500    | 1        | 4.55%   |
 | 3200    | 1        | 4.55%   |
@@ -3007,13 +3007,13 @@ Camera device models
 | Service & Quality USB PC Camera                    | 1        | 5%      |
 | Nintendo USB Camera                                | 1        | 5%      |
 | Microsoft MicrosoftÂ LifeCam VX-5500              | 1        | 5%      |
-| Microdia Amcrest AWC2198 USB Webcam                | 1        | 5%      |
-| MacroSilicon USB3.0 HD VIDEO                       | 1        | 5%      |
+| Microdia Webcam Vitade AF                          | 1        | 5%      |
+| MacroSilicon USB Video                             | 1        | 5%      |
 | Logitech Webcam Pro 9000                           | 1        | 5%      |
 | Logitech Webcam C310                               | 1        | 5%      |
 | Logitech HD Pro Webcam C920                        | 1        | 5%      |
 | KYE Systems (Mouse Systems) Genius iSlim 2000AF V2 | 1        | 5%      |
-| Generalplus 808 Camera                             | 1        | 5%      |
+| Generalplus 808 Camera #9 (web-cam mode)           | 1        | 5%      |
 | Chicony HP High Definition 1MP Webcam              | 1        | 5%      |
 
 Security
@@ -3084,8 +3084,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 102      | 67.55%  |
-| 1     | 42       | 27.81%  |
+| 0     | 104      | 68.87%  |
+| 1     | 40       | 26.49%  |
 | 2     | 3        | 1.99%   |
 | 4     | 2        | 1.32%   |
 | 3     | 2        | 1.32%   |
@@ -3100,14 +3100,14 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 29       | 50.88%  |
-| Net/wireless             | 14       | 24.56%  |
-| Communication controller | 4        | 7.02%   |
-| Unassigned class         | 2        | 3.51%   |
-| Network                  | 2        | 3.51%   |
-| Net/ethernet             | 2        | 3.51%   |
-| Storage/ide              | 1        | 1.75%   |
-| Modem                    | 1        | 1.75%   |
-| Fingerprint reader       | 1        | 1.75%   |
-| Chipcard                 | 1        | 1.75%   |
+| Graphics card            | 27       | 49.09%  |
+| Net/wireless             | 14       | 25.45%  |
+| Communication controller | 4        | 7.27%   |
+| Unassigned class         | 2        | 3.64%   |
+| Network                  | 2        | 3.64%   |
+| Net/ethernet             | 2        | 3.64%   |
+| Storage/ide              | 1        | 1.82%   |
+| Modem                    | 1        | 1.82%   |
+| Fingerprint reader       | 1        | 1.82%   |
+| Chipcard                 | 1        | 1.82%   |
 

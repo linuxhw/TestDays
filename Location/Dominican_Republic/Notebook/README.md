@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 110
+Total: 111
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Acer          | Aspire A515-45              | [9e48793165](https://linux-hardware.org/?probe=9e48793165) | Aug 18, 2022 |
 | Acer          | Aspire A515-45              | [47dee227ba](https://linux-hardware.org/?probe=47dee227ba) | Jul 28, 2022 |
 | Dell          | Latitude E5440              | [c8e68471c1](https://linux-hardware.org/?probe=c8e68471c1) | Jul 16, 2022 |
 | Acer          | Aspire E5-571               | [9cd0caeff2](https://linux-hardware.org/?probe=9cd0caeff2) | Jul 14, 2022 |
@@ -367,66 +368,66 @@ Version of the Linux kernel
 
 | Version                  | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| 5.4.0-48-generic         | 4         | 4.88%   |
-| 5.4.0-42-generic         | 3         | 3.66%   |
-| 5.13.0-22-generic        | 3         | 3.66%   |
-| 5.4.0-77-generic         | 2         | 2.44%   |
-| 5.4.0-52-generic         | 2         | 2.44%   |
-| 5.4.0-33-generic         | 2         | 2.44%   |
-| 5.3.0-51-generic         | 2         | 2.44%   |
-| 5.9.12-xanmod1           | 1         | 1.22%   |
-| 5.9.11-arch2-1           | 1         | 1.22%   |
-| 5.9.1-arch1-1            | 1         | 1.22%   |
-| 5.8.8-arch1-1            | 1         | 1.22%   |
-| 5.8.15-301.fc33.x86_64   | 1         | 1.22%   |
-| 5.8.12_1                 | 1         | 1.22%   |
-| 5.8.0-38-generic         | 1         | 1.22%   |
-| 5.7.10-201.fc32.x86_64   | 1         | 1.22%   |
-| 5.6.19-158.current       | 1         | 1.22%   |
-| 5.4.60-2-MANJARO         | 1         | 1.22%   |
-| 5.4.15-200.fc31.x86_64   | 1         | 1.22%   |
-| 5.4.0-7642-generic       | 1         | 1.22%   |
-| 5.4.0-74-generic         | 1         | 1.22%   |
-| 5.4.0-72-generic         | 1         | 1.22%   |
-| 5.4.0-39-generic         | 1         | 1.22%   |
-| 5.4.0-29-generic         | 1         | 1.22%   |
-| 5.4.0-28-generic         | 1         | 1.22%   |
-| 5.4.0-26-generic         | 1         | 1.22%   |
-| 5.4.0-109-generic        | 1         | 1.22%   |
-| 5.4.0-105-generic        | 1         | 1.22%   |
-| 5.3.0-61-generic         | 1         | 1.22%   |
-| 5.3.0-46-generic         | 1         | 1.22%   |
-| 5.3.0-42-generic         | 1         | 1.22%   |
-| 5.3.0-28-generic         | 1         | 1.22%   |
-| 5.3.0-19-generic         | 1         | 1.22%   |
-| 5.18.13-200.fc36.x86_64  | 1         | 1.22%   |
-| 5.18.11-200.fc36.x86_64  | 1         | 1.22%   |
-| 5.17.4-1139.native       | 1         | 1.22%   |
-| 5.16.7-desktop-1omv4003  | 1         | 1.22%   |
-| 5.15.0-41-generic        | 1         | 1.22%   |
-| 5.13.13-1-MANJARO        | 1         | 1.22%   |
-| 5.13.0-7614-generic      | 1         | 1.22%   |
-| 5.13.0-44-generic        | 1         | 1.22%   |
-| 5.13.0-35-generic        | 1         | 1.22%   |
-| 5.13.0-28-generic        | 1         | 1.22%   |
-| 5.13.0-19-generic        | 1         | 1.22%   |
-| 5.12.9-051209-generic    | 1         | 1.22%   |
-| 5.12.14-300.fc34.x86_64  | 1         | 1.22%   |
-| 5.11.15-arch1-2          | 1         | 1.22%   |
-| 5.11.12-desktop-1omv4002 | 1         | 1.22%   |
-| 5.11.0-7614-generic      | 1         | 1.22%   |
-| 5.11.0-41-generic        | 1         | 1.22%   |
-| 5.11.0-40-generic        | 1         | 1.22%   |
-| 5.11.0-37-generic        | 1         | 1.22%   |
-| 5.11.0-31-generic        | 1         | 1.22%   |
-| 5.11.0-27-generic        | 1         | 1.22%   |
-| 5.11.0-25-generic        | 1         | 1.22%   |
-| 5.11.0-16-generic        | 1         | 1.22%   |
-| 5.10.19-1032.native      | 1         | 1.22%   |
-| 5.10.14-desktop-1omv4002 | 1         | 1.22%   |
-| 5.10.0-9-amd64           | 1         | 1.22%   |
-| 5.10.0-10-amd64          | 1         | 1.22%   |
-| 5.0.10-300.fc30.x86_64   | 1         | 1.22%   |
+| 5.4.0-48-generic         | 4         | 4.82%   |
+| 5.4.0-42-generic         | 3         | 3.61%   |
+| 5.13.0-22-generic        | 3         | 3.61%   |
+| 5.4.0-77-generic         | 2         | 2.41%   |
+| 5.4.0-52-generic         | 2         | 2.41%   |
+| 5.4.0-33-generic         | 2         | 2.41%   |
+| 5.3.0-51-generic         | 2         | 2.41%   |
+| 5.9.12-xanmod1           | 1         | 1.2%    |
+| 5.9.11-arch2-1           | 1         | 1.2%    |
+| 5.9.1-arch1-1            | 1         | 1.2%    |
+| 5.8.8-arch1-1            | 1         | 1.2%    |
+| 5.8.15-301.fc33.x86_64   | 1         | 1.2%    |
+| 5.8.12_1                 | 1         | 1.2%    |
+| 5.8.0-38-generic         | 1         | 1.2%    |
+| 5.7.10-201.fc32.x86_64   | 1         | 1.2%    |
+| 5.6.19-158.current       | 1         | 1.2%    |
+| 5.4.60-2-MANJARO         | 1         | 1.2%    |
+| 5.4.15-200.fc31.x86_64   | 1         | 1.2%    |
+| 5.4.0-7642-generic       | 1         | 1.2%    |
+| 5.4.0-74-generic         | 1         | 1.2%    |
+| 5.4.0-72-generic         | 1         | 1.2%    |
+| 5.4.0-39-generic         | 1         | 1.2%    |
+| 5.4.0-29-generic         | 1         | 1.2%    |
+| 5.4.0-28-generic         | 1         | 1.2%    |
+| 5.4.0-26-generic         | 1         | 1.2%    |
+| 5.4.0-109-generic        | 1         | 1.2%    |
+| 5.4.0-105-generic        | 1         | 1.2%    |
+| 5.3.0-61-generic         | 1         | 1.2%    |
+| 5.3.0-46-generic         | 1         | 1.2%    |
+| 5.3.0-42-generic         | 1         | 1.2%    |
+| 5.3.0-28-generic         | 1         | 1.2%    |
+| 5.3.0-19-generic         | 1         | 1.2%    |
+| 5.18.17-200.fc36.x86_64  | 1         | 1.2%    |
+| 5.18.13-200.fc36.x86_64  | 1         | 1.2%    |
+| 5.18.11-200.fc36.x86_64  | 1         | 1.2%    |
+| 5.17.4-1139.native       | 1         | 1.2%    |
+| 5.16.7-desktop-1omv4003  | 1         | 1.2%    |
+| 5.15.0-41-generic        | 1         | 1.2%    |
+| 5.13.13-1-MANJARO        | 1         | 1.2%    |
+| 5.13.0-7614-generic      | 1         | 1.2%    |
+| 5.13.0-44-generic        | 1         | 1.2%    |
+| 5.13.0-35-generic        | 1         | 1.2%    |
+| 5.13.0-28-generic        | 1         | 1.2%    |
+| 5.13.0-19-generic        | 1         | 1.2%    |
+| 5.12.9-051209-generic    | 1         | 1.2%    |
+| 5.12.14-300.fc34.x86_64  | 1         | 1.2%    |
+| 5.11.15-arch1-2          | 1         | 1.2%    |
+| 5.11.12-desktop-1omv4002 | 1         | 1.2%    |
+| 5.11.0-7614-generic      | 1         | 1.2%    |
+| 5.11.0-41-generic        | 1         | 1.2%    |
+| 5.11.0-40-generic        | 1         | 1.2%    |
+| 5.11.0-37-generic        | 1         | 1.2%    |
+| 5.11.0-31-generic        | 1         | 1.2%    |
+| 5.11.0-27-generic        | 1         | 1.2%    |
+| 5.11.0-25-generic        | 1         | 1.2%    |
+| 5.11.0-16-generic        | 1         | 1.2%    |
+| 5.10.19-1032.native      | 1         | 1.2%    |
+| 5.10.14-desktop-1omv4002 | 1         | 1.2%    |
+| 5.10.0-9-amd64           | 1         | 1.2%    |
+| 5.10.0-10-amd64          | 1         | 1.2%    |
 
 Kernel Family
 -------------
@@ -438,40 +439,41 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.4.0   | 21        | 28%     |
-| 5.13.0  | 8         | 10.67%  |
-| 5.3.0   | 6         | 8%      |
-| 5.11.0  | 6         | 8%      |
-| 5.0.0   | 3         | 4%      |
-| 5.10.0  | 2         | 2.67%   |
-| 4.19.0  | 2         | 2.67%   |
-| 5.9.12  | 1         | 1.33%   |
-| 5.9.11  | 1         | 1.33%   |
-| 5.9.1   | 1         | 1.33%   |
-| 5.8.8   | 1         | 1.33%   |
-| 5.8.15  | 1         | 1.33%   |
-| 5.8.12  | 1         | 1.33%   |
-| 5.8.0   | 1         | 1.33%   |
-| 5.7.10  | 1         | 1.33%   |
-| 5.6.19  | 1         | 1.33%   |
-| 5.4.60  | 1         | 1.33%   |
-| 5.4.15  | 1         | 1.33%   |
-| 5.18.13 | 1         | 1.33%   |
-| 5.18.11 | 1         | 1.33%   |
-| 5.17.4  | 1         | 1.33%   |
-| 5.16.7  | 1         | 1.33%   |
-| 5.15.0  | 1         | 1.33%   |
-| 5.13.13 | 1         | 1.33%   |
-| 5.12.9  | 1         | 1.33%   |
-| 5.12.14 | 1         | 1.33%   |
-| 5.11.15 | 1         | 1.33%   |
-| 5.11.12 | 1         | 1.33%   |
-| 5.10.19 | 1         | 1.33%   |
-| 5.10.14 | 1         | 1.33%   |
-| 5.0.10  | 1         | 1.33%   |
-| 4.19.8  | 1         | 1.33%   |
-| 4.18.0  | 1         | 1.33%   |
-| 4.15.0  | 1         | 1.33%   |
+| 5.4.0   | 21        | 27.63%  |
+| 5.13.0  | 8         | 10.53%  |
+| 5.3.0   | 6         | 7.89%   |
+| 5.11.0  | 6         | 7.89%   |
+| 5.0.0   | 3         | 3.95%   |
+| 5.10.0  | 2         | 2.63%   |
+| 4.19.0  | 2         | 2.63%   |
+| 5.9.12  | 1         | 1.32%   |
+| 5.9.11  | 1         | 1.32%   |
+| 5.9.1   | 1         | 1.32%   |
+| 5.8.8   | 1         | 1.32%   |
+| 5.8.15  | 1         | 1.32%   |
+| 5.8.12  | 1         | 1.32%   |
+| 5.8.0   | 1         | 1.32%   |
+| 5.7.10  | 1         | 1.32%   |
+| 5.6.19  | 1         | 1.32%   |
+| 5.4.60  | 1         | 1.32%   |
+| 5.4.15  | 1         | 1.32%   |
+| 5.18.17 | 1         | 1.32%   |
+| 5.18.13 | 1         | 1.32%   |
+| 5.18.11 | 1         | 1.32%   |
+| 5.17.4  | 1         | 1.32%   |
+| 5.16.7  | 1         | 1.32%   |
+| 5.15.0  | 1         | 1.32%   |
+| 5.13.13 | 1         | 1.32%   |
+| 5.12.9  | 1         | 1.32%   |
+| 5.12.14 | 1         | 1.32%   |
+| 5.11.15 | 1         | 1.32%   |
+| 5.11.12 | 1         | 1.32%   |
+| 5.10.19 | 1         | 1.32%   |
+| 5.10.14 | 1         | 1.32%   |
+| 5.0.10  | 1         | 1.32%   |
+| 4.19.8  | 1         | 1.32%   |
+| 4.18.0  | 1         | 1.32%   |
+| 4.15.0  | 1         | 1.32%   |
 
 Kernel Major Ver.
 -----------------
@@ -525,16 +527,17 @@ Desktop Environment
 
 | Name       | Notebooks | Percent |
 |------------|-----------|---------|
-| GNOME      | 34        | 47.89%  |
-| KDE5       | 8         | 11.27%  |
-| Unknown    | 7         | 9.86%   |
-| XFCE       | 6         | 8.45%   |
-| X-Cinnamon | 6         | 8.45%   |
-| Budgie     | 4         | 5.63%   |
-| KDE        | 3         | 4.23%   |
-| MATE       | 1         | 1.41%   |
-| LXQt       | 1         | 1.41%   |
-| DWM        | 1         | 1.41%   |
+| GNOME      | 34        | 47.22%  |
+| KDE5       | 8         | 11.11%  |
+| Unknown    | 7         | 9.72%   |
+| XFCE       | 6         | 8.33%   |
+| X-Cinnamon | 6         | 8.33%   |
+| Budgie     | 4         | 5.56%   |
+| KDE        | 3         | 4.17%   |
+| sway       | 1         | 1.39%   |
+| MATE       | 1         | 1.39%   |
+| LXQt       | 1         | 1.39%   |
+| DWM        | 1         | 1.39%   |
 
 Display Server
 --------------
@@ -546,9 +549,9 @@ X11 or Wayland
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| X11     | 61        | 85.92%  |
-| Wayland | 7         | 9.86%   |
-| Unknown | 3         | 4.23%   |
+| X11     | 61        | 84.72%  |
+| Wayland | 8         | 11.11%  |
+| Unknown | 3         | 4.17%   |
 
 Display Manager
 ---------------
@@ -899,11 +902,11 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 30        | 38.46%  |
-| 2.01-3.0 | 23        | 29.49%  |
-| 3.01-4.0 | 14        | 17.95%  |
-| 4.01-8.0 | 7         | 8.97%   |
-| 0.51-1.0 | 4         | 5.13%   |
+| 1.01-2.0 | 30        | 37.97%  |
+| 2.01-3.0 | 24        | 30.38%  |
+| 3.01-4.0 | 14        | 17.72%  |
+| 4.01-8.0 | 7         | 8.86%   |
+| 0.51-1.0 | 4         | 5.06%   |
 
 Total Drives
 ------------
@@ -1034,7 +1037,7 @@ Hard drive vendors
 | SanDisk                   | 8         | 11     | 9.64%   |
 | Hitachi                   | 7         | 8      | 8.43%   |
 | Unknown                   | 3         | 4      | 3.61%   |
-| SK hynix                  | 3         | 3      | 3.61%   |
+| SK hynix                  | 3         | 4      | 3.61%   |
 | Kingston                  | 3         | 3      | 3.61%   |
 | Transcend                 | 2         | 2      | 2.41%   |
 | FORESEE                   | 2         | 2      | 2.41%   |
@@ -1057,68 +1060,68 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Notebooks | Percent |
-|-------------------------------------|-----------|---------|
-| Unknown MMC Card  32GB              | 2         | 2.35%   |
-| Toshiba MQ01ACF050 500GB            | 2         | 2.35%   |
-| Toshiba MK3275GSX 320GB             | 2         | 2.35%   |
-| Seagate ST9250315AS 250GB           | 2         | 2.35%   |
-| Seagate ST500LM000-1EJ162 500GB     | 2         | 2.35%   |
-| Seagate ST1000LM049-2GH172 1TB      | 2         | 2.35%   |
-| SanDisk NVMe SSD Drive 256GB        | 2         | 2.35%   |
-| Samsung SSD 860 EVO 500GB           | 2         | 2.35%   |
-| FORESEE 128GB SSD                   | 2         | 2.35%   |
-| WDC WDS100T2G0A-00JH30 1TB SSD      | 1         | 1.18%   |
-| WDC WD5000LPLX-08ZNTT0 500GB        | 1         | 1.18%   |
-| WDC WD3200LPVX-75V0TT0 320GB        | 1         | 1.18%   |
-| WDC WD3200BEVT-75A23T0 320GB        | 1         | 1.18%   |
-| WDC WD2500BEVT-75A23T0 250GB        | 1         | 1.18%   |
-| WDC WD1600BEVT-75ZCT1 160GB         | 1         | 1.18%   |
-| WDC WD10SPZX-24Z10T0 1TB            | 1         | 1.18%   |
-| WDC WD10JPVX-60JC3T1 1TB            | 1         | 1.18%   |
-| WDC WD10JPCX-24UE4T0 1TB            | 1         | 1.18%   |
-| Unknown MMC Card  16GB              | 1         | 1.18%   |
-| Unknown MMC Card  128GB             | 1         | 1.18%   |
-| Transcend TS256GSSD340 256GB        | 1         | 1.18%   |
-| Transcend TS128GSSD370S 128GB       | 1         | 1.18%   |
-| Toshiba NVMe SSD Drive 1024GB       | 1         | 1.18%   |
-| Toshiba MQ01ABF050 500GB            | 1         | 1.18%   |
-| Toshiba MQ01ABD100 1TB              | 1         | 1.18%   |
-| Toshiba MK6475GSX 640GB             | 1         | 1.18%   |
-| Toshiba MK3276GSX 320GB             | 1         | 1.18%   |
-| Toshiba MK2556GSY 250GB             | 1         | 1.18%   |
-| SPCC Solid State Disk 512GB         | 1         | 1.18%   |
-| SK hynix NVMe SSD Drive 256GB       | 1         | 1.18%   |
-| SK hynix HCG8e  64GB                | 1         | 1.18%   |
-| SK hynix C2S3T/240G 240GB SSD       | 1         | 1.18%   |
-| Seagate ST9750420AS 752GB           | 1         | 1.18%   |
-| Seagate ST9500325AS 500GB           | 1         | 1.18%   |
-| Seagate ST9320325AS 320GB           | 1         | 1.18%   |
-| Seagate ST640LM000 HM641JI 640GB    | 1         | 1.18%   |
-| Seagate ST500LT012-1DG142 500GB     | 1         | 1.18%   |
-| Seagate ST500LM021-1KJ152 500GB     | 1         | 1.18%   |
-| Seagate ST320LT007-9ZV142 320GB     | 1         | 1.18%   |
-| Seagate ST2000LM007-1R8174 2TB      | 1         | 1.18%   |
-| Seagate ST1000LM035-1RK172 1TB      | 1         | 1.18%   |
-| Seagate Expansion 1TB               | 1         | 1.18%   |
-| Seagate BUP Slim BK 1TB             | 1         | 1.18%   |
-| Seagate BUP BK 4TB                  | 1         | 1.18%   |
-| SanDisk X110 2.5 7MM 256GB SSD      | 1         | 1.18%   |
-| SanDisk SDSSDXP240G 240GB           | 1         | 1.18%   |
-| SanDisk SDSSDX120GG25 120GB         | 1         | 1.18%   |
-| SanDisk SDSSDH3 512G                | 1         | 1.18%   |
-| SanDisk SDSSDA120G 120GB            | 1         | 1.18%   |
-| SanDisk SD8SN8U-128G-1006 128GB SSD | 1         | 1.18%   |
-| Samsung SSD 860 EVO 1TB             | 1         | 1.18%   |
-| Samsung SSD 850 EVO 500GB           | 1         | 1.18%   |
-| Samsung SSD 850 EVO 250GB           | 1         | 1.18%   |
-| Samsung NVMe SSD Drive 1024GB       | 1         | 1.18%   |
-| Samsung MZVLB512HBJQ-000L2 512GB    | 1         | 1.18%   |
-| Samsung MZVLB256HAHQ-000L2 256GB    | 1         | 1.18%   |
-| Samsung MZMTD128HAFV-000 128GB SSD  | 1         | 1.18%   |
-| PNY CS900 240GB SSD                 | 1         | 1.18%   |
-| OCZ VERTEX 256GB SSD                | 1         | 1.18%   |
-| Micron/Crucial NVMe SSD Drive 1TB   | 1         | 1.18%   |
+| Model                                   | Notebooks | Percent |
+|-----------------------------------------|-----------|---------|
+| Unknown MMC Card  32GB                  | 2         | 2.35%   |
+| Toshiba MQ01ACF050 500GB                | 2         | 2.35%   |
+| Toshiba MK3275GSX 320GB                 | 2         | 2.35%   |
+| Seagate ST9250315AS 250GB               | 2         | 2.35%   |
+| Seagate ST500LM000-1EJ162 500GB         | 2         | 2.35%   |
+| Seagate ST1000LM049-2GH172 1TB          | 2         | 2.35%   |
+| SanDisk NVMe SSD Drive 256GB            | 2         | 2.35%   |
+| Samsung SSD 860 EVO 500GB               | 2         | 2.35%   |
+| FORESEE 128GB SSD                       | 2         | 2.35%   |
+| WDC WDS100T2G0A-00JH30 1TB SSD          | 1         | 1.18%   |
+| WDC WD5000LPLX-08ZNTT0 500GB            | 1         | 1.18%   |
+| WDC WD3200LPVX-75V0TT0 320GB            | 1         | 1.18%   |
+| WDC WD3200BEVT-75A23T0 320GB            | 1         | 1.18%   |
+| WDC WD2500BEVT-75A23T0 250GB            | 1         | 1.18%   |
+| WDC WD1600BEVT-75ZCT1 160GB             | 1         | 1.18%   |
+| WDC WD10SPZX-24Z10T0 1TB                | 1         | 1.18%   |
+| WDC WD10JPVX-60JC3T1 1TB                | 1         | 1.18%   |
+| WDC WD10JPCX-24UE4T0 1TB                | 1         | 1.18%   |
+| Unknown MMC Card  16GB                  | 1         | 1.18%   |
+| Unknown MMC Card  128GB                 | 1         | 1.18%   |
+| Transcend TS256GSSD340 256GB            | 1         | 1.18%   |
+| Transcend TS128GSSD370S 128GB           | 1         | 1.18%   |
+| Toshiba NVMe SSD Drive 1024GB           | 1         | 1.18%   |
+| Toshiba MQ01ABF050 500GB                | 1         | 1.18%   |
+| Toshiba MQ01ABD100 1TB                  | 1         | 1.18%   |
+| Toshiba MK6475GSX 640GB                 | 1         | 1.18%   |
+| Toshiba MK3276GSX 320GB                 | 1         | 1.18%   |
+| Toshiba MK2556GSY 250GB                 | 1         | 1.18%   |
+| SPCC Solid State Disk 512GB             | 1         | 1.18%   |
+| SK hynix NVMe SSD Drive 256GB           | 1         | 1.18%   |
+| SK hynix HCG8e  64GB                    | 1         | 1.18%   |
+| SK hynix C2S3T/240G 240GB               | 1         | 1.18%   |
+| Seagate ST9750420AS 752GB               | 1         | 1.18%   |
+| Seagate ST9500325AS 500GB               | 1         | 1.18%   |
+| Seagate ST9320325AS 320GB               | 1         | 1.18%   |
+| Seagate ST640LM000 HM641JI 640GB        | 1         | 1.18%   |
+| Seagate ST500LT012-1DG142 500GB         | 1         | 1.18%   |
+| Seagate ST500LM021-1KJ152 500GB         | 1         | 1.18%   |
+| Seagate ST320LT007-9ZV142 320GB         | 1         | 1.18%   |
+| Seagate ST2000LM007-1R8174 2TB          | 1         | 1.18%   |
+| Seagate ST1000LM035-1RK172 1TB          | 1         | 1.18%   |
+| Seagate Expansion 500GB                 | 1         | 1.18%   |
+| Seagate BUP Slim BK 1TB                 | 1         | 1.18%   |
+| Seagate BUP BK 5TB                      | 1         | 1.18%   |
+| SanDisk X110 2.5 7MM 256GB SSD          | 1         | 1.18%   |
+| SanDisk SDSSDXP240G 240GB               | 1         | 1.18%   |
+| SanDisk SDSSDX120GG25 120GB             | 1         | 1.18%   |
+| SanDisk SDSSDH3 512G                    | 1         | 1.18%   |
+| SanDisk SDSSDA120G 120GB                | 1         | 1.18%   |
+| SanDisk SD8SN8U-128G-1006 128GB SSD     | 1         | 1.18%   |
+| Samsung SSD 860 EVO 1TB                 | 1         | 1.18%   |
+| Samsung SSD 850 EVO 500GB               | 1         | 1.18%   |
+| Samsung SSD 850 EVO 250GB               | 1         | 1.18%   |
+| Samsung SM963 2.5" NVMe PCIe SSD 1024GB | 1         | 1.18%   |
+| Samsung MZVLB512HBJQ-000L2 512GB        | 1         | 1.18%   |
+| Samsung MZVLB256HAHQ-000L2 256GB        | 1         | 1.18%   |
+| Samsung MZMTD128HAFV-000 128GB SSD      | 1         | 1.18%   |
+| PNY CS900 240GB SSD                     | 1         | 1.18%   |
+| OCZ VERTEX 256GB SSD                    | 1         | 1.18%   |
+| Micron/Crucial NVMe SSD Drive 1TB       | 1         | 1.18%   |
 
 HDD Vendor
 ----------
@@ -1170,7 +1173,7 @@ HDD or SSD
 |---------|-----------|--------|---------|
 | HDD     | 39        | 52     | 49.37%  |
 | SSD     | 24        | 31     | 30.38%  |
-| NVMe    | 10        | 10     | 12.66%  |
+| NVMe    | 10        | 11     | 12.66%  |
 | MMC     | 5         | 6      | 6.33%   |
 | Unknown | 1         | 1      | 1.27%   |
 
@@ -1185,7 +1188,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 59        | 80     | 76.62%  |
-| NVMe | 10        | 10     | 12.99%  |
+| NVMe | 10        | 11     | 12.99%  |
 | MMC  | 5         | 6      | 6.49%   |
 | SAS  | 3         | 4      | 3.9%    |
 
@@ -1199,10 +1202,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 44        | 59     | 69.84%  |
-| 0.51-1.0   | 17        | 21     | 26.98%  |
-| 3.01-4.0   | 1         | 2      | 1.59%   |
+| 0.01-0.5   | 45        | 60     | 71.43%  |
+| 0.51-1.0   | 16        | 20     | 25.4%   |
 | 1.01-2.0   | 1         | 1      | 1.59%   |
+| 4.01-10.0  | 1         | 2      | 1.59%   |
 
 Space Total
 -----------
@@ -1235,15 +1238,15 @@ Amount of used disk space
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1-20      | 32        | 40%     |
-| 21-50     | 19        | 23.75%  |
-| 101-250   | 9         | 11.25%  |
-| 51-100    | 9         | 11.25%  |
-| 251-500   | 3         | 3.75%   |
-| 501-1000  | 3         | 3.75%   |
-| 1001-2000 | 2         | 2.5%    |
-| Unknown   | 2         | 2.5%    |
-| 2001-3000 | 1         | 1.25%   |
+| 1-20      | 32        | 39.51%  |
+| 21-50     | 19        | 23.46%  |
+| 51-100    | 10        | 12.35%  |
+| 101-250   | 9         | 11.11%  |
+| 251-500   | 3         | 3.7%    |
+| 501-1000  | 3         | 3.7%    |
+| 1001-2000 | 2         | 2.47%   |
+| Unknown   | 2         | 2.47%   |
+| 2001-3000 | 1         | 1.23%   |
 
 Malfunc. Drives
 ---------------
@@ -1328,7 +1331,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 48        | 72     | 64.86%  |
+| Detected | 48        | 73     | 64.86%  |
 | Works    | 18        | 20     | 24.32%  |
 | Malfunc  | 8         | 8      | 10.81%  |
 
@@ -1823,14 +1826,14 @@ Monitor models
 | Westinghouse EUM24F1G1 WDT1E64 1920x1080 530x300mm 24.0-inch             | 1         | 1.23%   |
 | Vizio D32x-D1 VIZ1005 1920x1080 700x390mm 31.5-inch                      | 1         | 1.23%   |
 | Sony TV SNY1703 1360x768 1600x900mm 72.3-inch                            | 1         | 1.23%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch        | 1         | 1.23%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch        | 1         | 1.23%   |
 | Samsung Electronics LCD Monitor SEC3451 1366x768 344x194mm 15.5-inch     | 1         | 1.23%   |
-| Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch    | 1         | 1.23%   |
 | Samsung Electronics LCD Monitor SDC5544 1920x1080 344x194mm 15.5-inch    | 1         | 1.23%   |
 | Samsung Electronics LCD Monitor SDC4852 1366x768 344x194mm 15.5-inch     | 1         | 1.23%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 1.23%   |
 | Samsung Electronics LCD Monitor SDC354A 1366x768 344x194mm 15.5-inch     | 1         | 1.23%   |
 | Samsung Electronics LCD Monitor SAM0B32 1366x768 610x350mm 27.7-inch     | 1         | 1.23%   |
+| Samsung Electronics Color LCD SDCA029 2160x1440 252x168mm 11.9-inch      | 1         | 1.23%   |
 | Philips PHL 15"XGATV PHL4650 1024x768 304x228mm 15.0-inch                | 1         | 1.23%   |
 | PANDA LC116LF1L02 NCP000F 1920x1080 256x144mm 11.6-inch                  | 1         | 1.23%   |
 | LG Philips LCD Monitor LPL0201 1280x800 331x207mm 15.4-inch              | 1         | 1.23%   |
@@ -1850,7 +1853,7 @@ Monitor models
 | Hewlett-Packard 2009 HWP2827 1600x900 443x250mm 20.0-inch                | 1         | 1.23%   |
 | Dell P2212H DELA07E 1920x1080 531x299mm 24.0-inch                        | 1         | 1.23%   |
 | Dell P2210H DELD026 1920x1080 477x268mm 21.5-inch                        | 1         | 1.23%   |
-| Dell 1908FP DEL4025 1280x1024 376x301mm 19.0-inch                        | 1         | 1.23%   |
+| Dell 1908FP DEL4025 1280x1024 380x300mm 19.1-inch                        | 1         | 1.23%   |
 | Dell 1707FP DEL4013 1280x1024 338x270mm 17.0-inch                        | 1         | 1.23%   |
 | Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch         | 1         | 1.23%   |
 | Chimei Innolux LCD Monitor CMN15E3 1920x1080 344x193mm 15.5-inch         | 1         | 1.23%   |
@@ -2451,45 +2454,44 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 5.13%   |
-| Micron RAM 8ATF1G64HZ-2G6H1 8GB SODIMM DDR4 2667MT/s             | 2         | 5.13%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                      | 1         | 2.56%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 2.56%   |
-| SK hynix RAM Module 8GB SODIMM DDR3 1600MT/s                     | 1         | 2.56%   |
-| SK hynix RAM Module 2GB SODIMM DDR2 667MT/s                      | 1         | 2.56%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
-| SK hynix RAM HMT425S6CFR6A-PB 2048MB SODIMM DDR3 1600MT/s        | 1         | 2.56%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 2.56%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2400MT/s        | 1         | 2.56%   |
-| SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s          | 1         | 2.56%   |
-| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 1         | 2.56%   |
-| SK hynix RAM H9CCNNNBJTALAR-NUD 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 2.56%   |
-| Sesame RAM S939A2SGS-ITR 8192MB SODIMM DDR3 1600MT/s             | 1         | 2.56%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 1         | 2.56%   |
-| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s            | 1         | 2.56%   |
-| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.56%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 2.56%   |
-| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s         | 1         | 2.56%   |
-| Samsung RAM M471A2K43CB1-CRC 16384MB SODIMM DDR4 2667MT/s        | 1         | 2.56%   |
-| Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s           | 1         | 2.56%   |
-| Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s           | 1         | 2.56%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 2.56%   |
-| Ramaxel RAM RMT3010EC58E8F1333 2GB SODIMM DDR3 1600MT/s          | 1         | 2.56%   |
-| Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM DDR3 1067MT/s          | 1         | 2.56%   |
-| Nanya RAM NT4GC64B8HG0NS-DI 4GB SODIMM DDR3 1600MT/s             | 1         | 2.56%   |
-| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s            | 1         | 2.56%   |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s            | 1         | 2.56%   |
-| Micron RAM 16ATF2G64HZ-2G3H1 16GB SODIMM DDR4 2400MT/s           | 1         | 2.56%   |
-| Kingston RAM KN2M64-ETB 8GB SODIMM DDR3 1600MT/s                 | 1         | 2.56%   |
-| Kingston RAM ACR16D3LS1KFG/4G 4GB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
-| A-DATA RAM AD73I1B1674EU 2GB SODIMM DDR3 1334MT/s                | 1         | 2.56%   |
-| Unknown                                                          | 1         | 2.56%   |
+| Model                                                               | Notebooks | Percent |
+|---------------------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s              | 2         | 5.13%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s            | 2         | 5.13%   |
+| Micron RAM 8ATF1G64HZ-2G6H1 8GB SODIMM DDR4 2667MT/s                | 2         | 5.13%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                         | 1         | 2.56%   |
+| Unknown (ABCD) RAM 123456789012345678 2048MB SODIMM LPDDR4 2400MT/s | 1         | 2.56%   |
+| SK hynix RAM Module 8GB SODIMM DDR3 1600MT/s                        | 1         | 2.56%   |
+| SK hynix RAM Module 2GB SODIMM DDR2 667MT/s                         | 1         | 2.56%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.56%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
+| SK hynix RAM HMT425S6CFR6A-PB 2048MB SODIMM DDR3 1600MT/s           | 1         | 2.56%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s              | 1         | 2.56%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.56%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s              | 1         | 2.56%   |
+| SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s             | 1         | 2.56%   |
+| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s              | 1         | 2.56%   |
+| SK hynix RAM H9CCNNNBJTALAR-NUD 4GB Row Of Chips LPDDR3 1867MT/s    | 1         | 2.56%   |
+| Sesame RAM S939A2SGS-ITR 8GB SODIMM DDR3 1600MT/s                   | 1         | 2.56%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s               | 1         | 2.56%   |
+| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s               | 1         | 2.56%   |
+| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s               | 1         | 2.56%   |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s               | 1         | 2.56%   |
+| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s            | 1         | 2.56%   |
+| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s              | 1         | 2.56%   |
+| Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s              | 1         | 2.56%   |
+| Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s              | 1         | 2.56%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s               | 1         | 2.56%   |
+| Ramaxel RAM RMT3010EC58E8F1333 2GB SODIMM DDR3 1600MT/s             | 1         | 2.56%   |
+| Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM DDR3 1067MT/s             | 1         | 2.56%   |
+| Nanya RAM NT4GC64B8HG0NS-DI 4GB SODIMM DDR3 1600MT/s                | 1         | 2.56%   |
+| Micron RAM 8KTF51264HZ-1G6E1 4096MB SODIMM DDR3 1600MT/s            | 1         | 2.56%   |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s               | 1         | 2.56%   |
+| Micron RAM 16ATF2G64HZ-2G3H1 16GB SODIMM DDR4 2400MT/s              | 1         | 2.56%   |
+| Kingston RAM KN2M64-ETB 8GB SODIMM DDR3 1600MT/s                    | 1         | 2.56%   |
+| Kingston RAM ACR16D3LS1KFG/4G 4GB SODIMM DDR3 1600MT/s              | 1         | 2.56%   |
+| A-DATA RAM AD73I1B1674EU 2GB SODIMM DDR3 1334MT/s                   | 1         | 2.56%   |
+| Unknown                                                             | 1         | 2.56%   |
 
 Memory Kind
 -----------
@@ -2654,7 +2656,7 @@ Camera device models
 | Silicon Motion Real HD WebCam                                              | 1         | 1.64%   |
 | Ricoh Integrated Webcam                                                    | 1         | 1.64%   |
 | Ricoh HD Webcam                                                            | 1         | 1.64%   |
-| Realtek MTD camera                                                         | 1         | 1.64%   |
+| Realtek USB2.0 camera                                                      | 1         | 1.64%   |
 | Realtek Integrated Webcam HD                                               | 1         | 1.64%   |
 | Realtek Integrated Webcam                                                  | 1         | 1.64%   |
 | Realtek Integrated Camera                                                  | 1         | 1.64%   |
@@ -2681,7 +2683,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera             | 1         | 1.64%   |
 | Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 1.64%   |
 | Apple Built-in iSight                                                      | 1         | 1.64%   |
-| Alcor Micro USB 2.0 PC cam                                                 | 1         | 1.64%   |
+| Alcor Micro USB 2.0 Camera                                                 | 1         | 1.64%   |
 | Acer Lenovo EasyCamera                                                     | 1         | 1.64%   |
 
 Security

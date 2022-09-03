@@ -720,55 +720,55 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                             | Desktops | Percent |
-|-----------------------------------|----------|---------|
-| WDC WD1002FAEX-00Z3A0 1TB         | 2        | 4.08%   |
-| Seagate ST2000DM008-2FR102 2TB    | 2        | 4.08%   |
-| WDC WDS500G2B0A 500GB SSD         | 1        | 2.04%   |
-| WDC WDS500G1R0A-68A4W0 500GB SSD  | 1        | 2.04%   |
-| WDC WDS250G2B0A-00SM50 250GB SSD  | 1        | 2.04%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD  | 1        | 2.04%   |
-| WDC WDS1 20G2G0A-00JH30 120GB SSD | 1        | 2.04%   |
-| WDC WD800JD-00MSA1 80GB           | 1        | 2.04%   |
-| WDC WD5000AAKX-22ERMA0 500GB      | 1        | 2.04%   |
-| WDC WD3200AAJS-00L7A0 320GB       | 1        | 2.04%   |
-| WDC WD20EZRZ-00Z5HB0 2TB          | 1        | 2.04%   |
-| WDC WD10EADS-65M2B0 1TB           | 1        | 2.04%   |
-| Toshiba DT01ACA050 500GB          | 1        | 2.04%   |
-| SPCC Solid State Disk 512GB       | 1        | 2.04%   |
-| Seagate ST4000DM004-2CV104 4TB    | 1        | 2.04%   |
-| Seagate ST3750330NS 752GB         | 1        | 2.04%   |
-| Seagate ST3500830AS 500GB         | 1        | 2.04%   |
-| Seagate ST3320620AS 320GB         | 1        | 2.04%   |
-| Seagate ST31500341AS 1TB          | 1        | 2.04%   |
-| Seagate ST2000DX001-1CM164 2TB    | 1        | 2.04%   |
-| Seagate ST2000DM001-1CH164 2TB    | 1        | 2.04%   |
-| Seagate Backup+ Desk 3TB          | 1        | 2.04%   |
-| SanDisk SSD PLUS 1000GB           | 1        | 2.04%   |
-| SanDisk SSD G5 BICS4 500GB        | 1        | 2.04%   |
-| Samsung SSD 970 EVO Plus 500GB    | 1        | 2.04%   |
-| Samsung SSD 870 EVO 500GB         | 1        | 2.04%   |
-| Samsung SSD 860 QVO 1TB           | 1        | 2.04%   |
-| Samsung SSD 860 EVO M.2 250GB     | 1        | 2.04%   |
-| Samsung SSD 860 EVO 500GB         | 1        | 2.04%   |
-| Samsung SSD 860 EVO 250GB         | 1        | 2.04%   |
-| Samsung SSD 860 EVO 1TB           | 1        | 2.04%   |
-| Samsung SSD 850 EVO 250GB         | 1        | 2.04%   |
-| Samsung SSD 830 Series 128GB      | 1        | 2.04%   |
-| PNY CS900 480GB SSD               | 1        | 2.04%   |
-| Kingston SKC400S37128G 128GB SSD  | 1        | 2.04%   |
-| Kingston SH103S3120G 120GB SSD    | 1        | 2.04%   |
-| Kingston SA400S37120G 120GB SSD   | 1        | 2.04%   |
-| Kingston SA2000M81000G 1TB        | 1        | 2.04%   |
-| Intel SSDSCKHF240A4L 240GB        | 1        | 2.04%   |
-| Hitachi HUA723030ALA641 3TB       | 1        | 2.04%   |
-| Hitachi HDS728080PLA380 82GB      | 1        | 2.04%   |
-| GOODRAM IR-SSDPR-S25A-240 240GB   | 1        | 2.04%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB  | 1        | 2.04%   |
-| Crucial CT500BX100SSD1 500GB      | 1        | 2.04%   |
-| A-DATA SX8200PNP 512GB            | 1        | 2.04%   |
-| A-DATA SU800 256GB SSD            | 1        | 2.04%   |
-| A-DATA SU630 480GB SSD            | 1        | 2.04%   |
+| Model                                | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| WDC WD1002FAEX-00Z3A0 1TB            | 2        | 4.08%   |
+| Seagate ST2000DM008-2FR102 2TB       | 2        | 4.08%   |
+| WDC WDS500G2B0A 500GB SSD            | 1        | 2.04%   |
+| WDC WDS500G1R0A-68A4W0 500GB SSD     | 1        | 2.04%   |
+| WDC WDS250G2B0A-00SM50 250GB SSD     | 1        | 2.04%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD     | 1        | 2.04%   |
+| WDC WDS1 20G2G0A-00JH30 120GB SSD    | 1        | 2.04%   |
+| WDC WD800JD-00MSA1 80GB              | 1        | 2.04%   |
+| WDC WD5000AAKX-22ERMA0 500GB         | 1        | 2.04%   |
+| WDC WD3200AAJS-00L7A0 320GB          | 1        | 2.04%   |
+| WDC WD20EZRZ-00Z5HB0 2TB             | 1        | 2.04%   |
+| WDC WD10EADS-65M2B0 1TB              | 1        | 2.04%   |
+| Toshiba DT01ACA050 500GB             | 1        | 2.04%   |
+| SPCC Solid State Disk 512GB          | 1        | 2.04%   |
+| Seagate ST4000DM004-2CV104 4TB       | 1        | 2.04%   |
+| Seagate ST3750330NS 752GB            | 1        | 2.04%   |
+| Seagate ST3500830AS 500GB            | 1        | 2.04%   |
+| Seagate ST3320620AS 320GB            | 1        | 2.04%   |
+| Seagate ST31500341AS 1TB             | 1        | 2.04%   |
+| Seagate ST2000DX001-1CM164 2TB       | 1        | 2.04%   |
+| Seagate ST2000DM001-1CH164 2TB       | 1        | 2.04%   |
+| Seagate Backup+ Desk 5TB             | 1        | 2.04%   |
+| SanDisk SSD PLUS 1000GB              | 1        | 2.04%   |
+| SanDisk SSD G5 BICS4 500GB           | 1        | 2.04%   |
+| Samsung SSD 970 EVO Plus 500GB       | 1        | 2.04%   |
+| Samsung SSD 870 EVO 500GB            | 1        | 2.04%   |
+| Samsung SSD 860 QVO 1TB              | 1        | 2.04%   |
+| Samsung SSD 860 EVO M.2 250GB        | 1        | 2.04%   |
+| Samsung SSD 860 EVO 500GB            | 1        | 2.04%   |
+| Samsung SSD 860 EVO 250GB            | 1        | 2.04%   |
+| Samsung SSD 860 EVO 1TB              | 1        | 2.04%   |
+| Samsung SSD 850 EVO 250GB            | 1        | 2.04%   |
+| Samsung SSD 830 Series 128GB         | 1        | 2.04%   |
+| PNY CS900 480GB SSD                  | 1        | 2.04%   |
+| Kingston SKC400S37128G 128GB SSD     | 1        | 2.04%   |
+| Kingston SH103S3120G 120GB SSD       | 1        | 2.04%   |
+| Kingston SA400S37120G 120GB SSD      | 1        | 2.04%   |
+| Kingston SA2000M81000G 1TB           | 1        | 2.04%   |
+| Intel SSDSCKHF240A4L 240GB           | 1        | 2.04%   |
+| Hitachi HUA723030ALA641 3TB          | 1        | 2.04%   |
+| Hitachi HDS728080PLA380 82GB         | 1        | 2.04%   |
+| GOODRAM IR-SSDPR-S25A-240 240GB      | 1        | 2.04%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD | 1        | 2.04%   |
+| Crucial CT500BX100SSD1 500GB         | 1        | 2.04%   |
+| A-DATA SX8200PNP 512GB               | 1        | 2.04%   |
+| A-DATA SU800 256GB SSD               | 1        | 2.04%   |
+| A-DATA SU630 480GB SSD               | 1        | 2.04%   |
 
 HDD Vendor
 ----------
@@ -1349,18 +1349,18 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                 | 1        | 3.7%    |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch                | 1        | 3.7%    |
-| Vestel Elektronik 39FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch  | 1        | 3.7%    |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 3.7%    |
 | Sony TV SNY0801 1360x768                                               | 1        | 3.7%    |
 | Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch   | 1        | 3.7%    |
 | Samsung Electronics LCD Monitor SAM0D3B 3840x2160 1210x680mm 54.6-inch | 1        | 3.7%    |
-| Samsung Electronics C27JG5x SAM0F57 2560x1440 600x340mm 27.2-inch      | 1        | 3.7%    |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1        | 3.7%    |
+| Samsung Electronics C27JG5x SAM0F57 1680x1050 600x340mm 27.2-inch      | 1        | 3.7%    |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch      | 1        | 3.7%    |
 | RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                       | 1        | 3.7%    |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 1        | 3.7%    |
 | Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                 | 1        | 3.7%    |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                   | 1        | 3.7%    |
-| Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch             | 1        | 3.7%    |
-| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch             | 1        | 3.7%    |
+| Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch             | 1        | 3.7%    |
+| Hewlett-Packard 22f HPN3541 1920x1080 476x268mm 21.5-inch              | 1        | 3.7%    |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                   | 1        | 3.7%    |
 | Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                  | 1        | 3.7%    |
 | Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                 | 1        | 3.7%    |
@@ -1537,7 +1537,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 2        | 5.88%   |
 | U-Blox [u-blox 8]                                                                             | 1        | 2.94%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 2.94%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 2.94%   |
+| TP-Link TL-WN722N v2                                                                          | 1        | 2.94%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 2.94%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                                               | 1        | 2.94%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 2.94%   |
@@ -1584,7 +1584,7 @@ Wireless models
 | Model                                                                                         | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------|----------|---------|
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 9.09%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 9.09%   |
+| TP-Link TL-WN722N v2                                                                          | 1        | 9.09%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 9.09%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 9.09%   |
 | Ralink RT5372 Wireless Adapter                                                                | 1        | 9.09%   |
@@ -1770,7 +1770,7 @@ Sound card models
 | Nvidia GM204 High Definition Audio Controller                       | 1        | 2.33%   |
 | Nvidia GF119 HDMI Audio Controller                                  | 1        | 2.33%   |
 | Kingston Technology HyperX 7.1 Audio                                | 1        | 2.33%   |
-| JMTek Widget C                                                      | 1        | 2.33%   |
+| JMTek Lioncast_LX60_USB_Headset                                     | 1        | 2.33%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller    | 1        | 2.33%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller             | 1        | 2.33%   |
 | Intel Comet Lake PCH cAVS                                           | 1        | 2.33%   |
@@ -1822,7 +1822,7 @@ Memory module models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s              | 2        | 7.14%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 2        | 7.14%   |
 | Unknown RAM Module 8192MB DIMM DDR4 2133MT/s                         | 1        | 3.57%   |
 | Unknown RAM Module 512MB DIMM SDRAM                                  | 1        | 3.57%   |
 | Unknown RAM Module 2048MB DIMM DDR 667MT/s                           | 1        | 3.57%   |
@@ -1835,7 +1835,7 @@ Memory module models
 | PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s                 | 1        | 3.57%   |
 | Patriot Memory (PDP Systems) RAM PSD48G320081 8GB DIMM DDR4 3200MT/s | 1        | 3.57%   |
 | Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                   | 1        | 3.57%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s                 | 1        | 3.57%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s              | 1        | 3.57%   |
 | Kingston RAM KHX2133C13D4/8GX 8192MB DIMM DDR4 2133MT/s              | 1        | 3.57%   |
 | Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1600MT/s                | 1        | 3.57%   |
 | G.Skill RAM F4-3000C15-8GTZR 8GB DIMM DDR4 3000MT/s                  | 1        | 3.57%   |
@@ -1845,7 +1845,7 @@ Memory module models
 | Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s                | 1        | 3.57%   |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s                | 1        | 3.57%   |
 | Corsair RAM CMK8GX4M2A2133C13 4GB DIMM DDR4 2933MT/s                 | 1        | 3.57%   |
-| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3100MT/s               | 1        | 3.57%   |
+| Corsair RAM CMK32GX4M2A2666C16 16384MB DIMM DDR4 3100MT/s            | 1        | 3.57%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s                | 1        | 3.57%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s                | 1        | 3.57%   |
 | Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s                | 1        | 3.57%   |

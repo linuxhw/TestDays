@@ -789,8 +789,8 @@ Has WiFi module
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 54        | 83.08%  |
-| No        | 11        | 16.92%  |
+| Yes       | 53        | 81.54%  |
+| No        | 12        | 18.46%  |
 
 Has Bluetooth
 -------------
@@ -1001,13 +1001,13 @@ Hard drive models
 | Unknown AJNB4R  16GB                    | 1         | 0.84%   |
 | Unknown 00000  64GB                     | 1         | 0.84%   |
 | Toshiba THNSNJ256GVNU 256GB SSD         | 1         | 0.84%   |
-| Toshiba NVMe SSD Drive 256GB            | 1         | 0.84%   |
 | Toshiba NVMe SSD Drive 1024GB           | 1         | 0.84%   |
 | Toshiba MQ01ABD075 752GB                | 1         | 0.84%   |
 | Toshiba MQ01ABD050 500GB                | 1         | 0.84%   |
 | Toshiba MK5055GSX 500GB                 | 1         | 0.84%   |
 | Toshiba MK3276GSX 320GB                 | 1         | 0.84%   |
 | Toshiba MK1665GSX 160GB                 | 1         | 0.84%   |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD     | 1         | 0.84%   |
 | SK hynix HFM512GDJTNG-8310A 512GB       | 1         | 0.84%   |
 | Silicon Motion IM2P33F8BR1-512GB        | 1         | 0.84%   |
 | Seagate ST9500325AS 500GB               | 1         | 0.84%   |
@@ -1105,10 +1105,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 42        | 61     | 60.87%  |
-| 0.51-1.0   | 20        | 22     | 28.99%  |
+| 0.01-0.5   | 43        | 62     | 62.32%  |
+| 0.51-1.0   | 19        | 21     | 27.54%  |
 | 1.01-2.0   | 5         | 18     | 7.25%   |
-| 3.01-4.0   | 2         | 2      | 2.9%    |
+| 3.01-4.0   | 1         | 1      | 1.45%   |
+| 4.01-10.0  | 1         | 1      | 1.45%   |
 
 Space Total
 -----------
@@ -1760,11 +1761,11 @@ Monitor models
 
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 2         | 2.56%   |
-| ___ LCD TV ___9000 1360x768                                           | 1         | 1.28%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch     | 2         | 2.56%   |
+| ___ LCDTV16 ___9000 1360x768                                          | 1         | 1.28%   |
 | ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                | 1         | 1.28%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 1.28%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 1.28%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 1.28%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 1.28%   |
@@ -1787,15 +1788,15 @@ Monitor models
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 1.28%   |
 | LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 1.28%   |
 | LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch           | 1         | 1.28%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch               | 1         | 1.28%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch               | 1         | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch            | 1         | 1.28%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch              | 1         | 1.28%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1         | 1.28%   |
-| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch              | 1         | 1.28%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                  | 1         | 1.28%   |
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 1.28%   |
+| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch            | 1         | 1.28%   |
 | Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                | 1         | 1.28%   |
 | GKK MONITOR GKK3034 1920x1080                                         | 1         | 1.28%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                   | 1         | 1.28%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                      | 1         | 1.28%   |
@@ -1819,7 +1820,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO5E2D 1920x1080 293x165mm 13.2-inch        | 1         | 1.28%   |
 | AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch        | 1         | 1.28%   |
 | AU Optronics LCD Monitor AUO41ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.28%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch        | 1         | 1.28%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 1         | 1.28%   |
 
 Monitor Resolution
 ------------------
@@ -2279,11 +2280,11 @@ Controller models
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 4.44%   |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 2.22%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 2.22%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 1         | 2.22%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 2.22%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.22%   |
 | Lite-On Bluetooth Device                                                            | 1         | 2.22%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 2.22%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2.22%   |
-| Intel Bluetooth Device                                                              | 1         | 2.22%   |
 | Intel AX200 Bluetooth                                                               | 1         | 2.22%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 2.22%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 1         | 2.22%   |
@@ -2430,7 +2431,7 @@ Memory module models
 | SK hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
 | Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 2.78%   |
 | Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 2.78%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
 | Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
 | Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s  | 1         | 2.78%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
@@ -2443,7 +2444,7 @@ Memory module models
 | Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s        | 1         | 2.78%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
-| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
+| Crucial RAM CT8G4SFS824A.C8FE 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
 | Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s       | 1         | 2.78%   |
 | Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s    | 1         | 2.78%   |
 | Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s       | 1         | 2.78%   |
@@ -2621,7 +2622,7 @@ Camera device models
 | Suyin HP TrueVision FHD RGB-IR                               | 1         | 1.92%   |
 | Sunplus Laptop Integrated WebCam HD                          | 1         | 1.92%   |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 1.92%   |
-| Samsung Galaxy A5 (MTP)                                      | 1         | 1.92%   |
+| Samsung Galaxy series, misc. (MTP mode)                      | 1         | 1.92%   |
 | Realtek Integrated Webcam HD                                 | 1         | 1.92%   |
 | Realtek Integrated Camera                                    | 1         | 1.92%   |
 | Realtek HD WebCam                                            | 1         | 1.92%   |
