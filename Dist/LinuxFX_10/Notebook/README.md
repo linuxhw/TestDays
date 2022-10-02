@@ -810,50 +810,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Notebooks | Percent |
-|--------------------------------------|-----------|---------|
-| Toshiba MQ01ABF050 500GB             | 2         | 4.55%   |
-| Seagate ST500LM012 HN-M500MBB 500GB  | 2         | 4.55%   |
-| WDC WD5000LPVX-22V0TT0 500GB         | 1         | 2.27%   |
-| WDC WD5000LPVT-24G33T1 500GB         | 1         | 2.27%   |
-| WDC WD3200BPVT-22JJ5T0 320GB         | 1         | 2.27%   |
-| WDC WD3200BEVT-80A0RT0 320GB         | 1         | 2.27%   |
-| WDC WD1200BEVS-75UST0 120GB          | 1         | 2.27%   |
-| WDC WD10JPVX-60JC3T1 1TB             | 1         | 2.27%   |
-| WDC WD10JPVX-22JC3T0 1TB             | 1         | 2.27%   |
-| WDC PC SA530 SDASN8Y-256G-1006 256GB | 1         | 2.27%   |
-| Unknown NVMe SSD Drive 512GB         | 1         | 2.27%   |
-| Unknown MMC Card  8GB                | 1         | 2.27%   |
-| Toshiba MQ01ABF032 320GB             | 1         | 2.27%   |
-| Toshiba MK5059GSXP 500GB             | 1         | 2.27%   |
-| Toshiba MK2561GSYN 250GB             | 1         | 2.27%   |
-| Seagate ST9320325AS 320GB            | 1         | 2.27%   |
-| Seagate ST9160827AS 160GB            | 1         | 2.27%   |
-| Seagate ST9160821AS 160GB            | 1         | 2.27%   |
-| Seagate ST9160314AS 160GB            | 1         | 2.27%   |
-| Seagate ST500LT012-9WS142 500GB      | 1         | 2.27%   |
-| Seagate ST500LM021-1KJ152 500GB      | 1         | 2.27%   |
-| Seagate ST1000LM035-1RK172 1TB       | 1         | 2.27%   |
-| SanDisk SSD PLUS 1000GB              | 1         | 2.27%   |
-| Samsung SSD 850 EVO 250GB            | 1         | 2.27%   |
-| Samsung MZMPC032HBCD-000D1 32GB SSD  | 1         | 2.27%   |
-| Samsung HM321HI 320GB                | 1         | 2.27%   |
-| LITEONIT LMT-256M6M-HP 256GB SSD     | 1         | 2.27%   |
-| LITEONIT LGT-256M6G 256GB SSD        | 1         | 2.27%   |
-| Kingston SV300S37A120G 120GB SSD     | 1         | 2.27%   |
-| Kingston SUV400S37120G 120GB SSD     | 1         | 2.27%   |
-| Kingston SA400S37240G 240GB SSD      | 1         | 2.27%   |
-| Kingston SA400S37120G 120GB SSD      | 1         | 2.27%   |
-| Kingston NVMe SSD Drive 512GB        | 1         | 2.27%   |
-| Hitachi HTS722080K9A300 80GB         | 1         | 2.27%   |
-| Hitachi HTS722012K9A300 120GB        | 1         | 2.27%   |
-| Hitachi HTS545050B9A300 500GB        | 1         | 2.27%   |
-| HGST HTS721010A9E630 1TB             | 1         | 2.27%   |
-| HGST HTS545025A7E380 250GB           | 1         | 2.27%   |
-| GOODRAM SSDPR-CX300-240 240GB        | 1         | 2.27%   |
-| Crucial CT250MX500SSD1 250GB         | 1         | 2.27%   |
-| A-DATA SU750 256GB SSD               | 1         | 2.27%   |
-| A-DATA SU630 480GB SSD               | 1         | 2.27%   |
+| Model                                    | Notebooks | Percent |
+|------------------------------------------|-----------|---------|
+| Toshiba MQ01ABF050 500GB                 | 2         | 4.55%   |
+| Seagate ST500LM012 HN-M500MBB 500GB      | 2         | 4.55%   |
+| WDC WD5000LPVX-22V0TT0 500GB             | 1         | 2.27%   |
+| WDC WD5000LPVT-24G33T1 500GB             | 1         | 2.27%   |
+| WDC WD3200BPVT-22JJ5T0 320GB             | 1         | 2.27%   |
+| WDC WD3200BEVT-80A0RT0 320GB             | 1         | 2.27%   |
+| WDC WD1200BEVS-75UST0 120GB              | 1         | 2.27%   |
+| WDC WD10JPVX-60JC3T1 1TB                 | 1         | 2.27%   |
+| WDC WD10JPVX-22JC3T0 1TB                 | 1         | 2.27%   |
+| WDC PC SA530 SDASN8Y-256G-1006 256GB SSD | 1         | 2.27%   |
+| Unknown NVMe SSD Drive 512GB             | 1         | 2.27%   |
+| Unknown MMC Card  8GB                    | 1         | 2.27%   |
+| Toshiba MQ01ABF032 320GB                 | 1         | 2.27%   |
+| Toshiba MK5059GSXP 500GB                 | 1         | 2.27%   |
+| Toshiba MK2561GSYN 250GB                 | 1         | 2.27%   |
+| Seagate ST9320325AS 320GB                | 1         | 2.27%   |
+| Seagate ST9160827AS 160GB                | 1         | 2.27%   |
+| Seagate ST9160821AS 160GB                | 1         | 2.27%   |
+| Seagate ST9160314AS 160GB                | 1         | 2.27%   |
+| Seagate ST500LT012-9WS142 500GB          | 1         | 2.27%   |
+| Seagate ST500LM021-1KJ152 500GB          | 1         | 2.27%   |
+| Seagate ST1000LM035-1RK172 1TB           | 1         | 2.27%   |
+| SanDisk SSD PLUS 1000GB                  | 1         | 2.27%   |
+| Samsung SSD 850 EVO 250GB                | 1         | 2.27%   |
+| Samsung MZMPC032HBCD-000D1 32GB SSD      | 1         | 2.27%   |
+| Samsung HM321HI 320GB                    | 1         | 2.27%   |
+| LITEONIT LMT-256M6M-HP 256GB SSD         | 1         | 2.27%   |
+| LITEONIT LGT-256M6G 256GB SSD            | 1         | 2.27%   |
+| Kingston SV300S37A120G 120GB SSD         | 1         | 2.27%   |
+| Kingston SUV400S37120G 120GB SSD         | 1         | 2.27%   |
+| Kingston SA400S37240G 240GB SSD          | 1         | 2.27%   |
+| Kingston SA400S37120G 120GB SSD          | 1         | 2.27%   |
+| Kingston NVMe SSD Drive 512GB            | 1         | 2.27%   |
+| Hitachi HTS722080K9A300 80GB             | 1         | 2.27%   |
+| Hitachi HTS722012K9A300 120GB            | 1         | 2.27%   |
+| Hitachi HTS545050B9A300 500GB            | 1         | 2.27%   |
+| HGST HTS721010A9E630 1TB                 | 1         | 2.27%   |
+| HGST HTS545025A7E380 250GB               | 1         | 2.27%   |
+| GOODRAM SSDPR-CX300-240 240GB            | 1         | 2.27%   |
+| Crucial CT250MX500SSD1 250GB             | 1         | 2.27%   |
 
 HDD Vendor
 ----------
@@ -1456,7 +1454,7 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 5.56%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch          | 2         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 2         | 5.56%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 5.56%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.78%   |
@@ -1668,13 +1666,6 @@ Controller models
 | Ericsson Business Mobile Networks N5321 gw                              | 1         | 1.2%    |
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express                     | 1         | 1.2%    |
 | Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express                  | 1         | 1.2%    |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                         | 1         | 1.2%    |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 1.2%    |
-| Broadcom Limited BCM4321 802.11a/b/g/n                                  | 1         | 1.2%    |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 1.2%    |
-| Broadcom BCM4401-B0 100Base-TX                                          | 1         | 1.2%    |
-| Broadcom BCM43142 802.11b/g/n                                           | 1         | 1.2%    |
-| ASIX AX88179 Gigabit Ethernet                                           | 1         | 1.2%    |
 
 Wireless Vendor
 ---------------
@@ -2013,9 +2004,9 @@ Memory module size
 
 | Size | Notebooks | Percent |
 |------|-----------|---------|
-| 4096 | 3         | 50%     |
+| 8192 | 2         | 33.33%  |
+| 4096 | 2         | 33.33%  |
 | 2048 | 2         | 33.33%  |
-| 8192 | 1         | 16.67%  |
 
 Memory Speed
 ------------
@@ -2196,8 +2187,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 26        | 65%     |
-| 1     | 13        | 32.5%   |
+| 0     | 25        | 62.5%   |
+| 1     | 14        | 35%     |
 | 2     | 1         | 2.5%    |
 
 Unsupported Device Types
@@ -2210,10 +2201,10 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 5         | 33.33%  |
-| Net/wireless       | 4         | 26.67%  |
-| Fingerprint reader | 2         | 13.33%  |
-| Chipcard           | 2         | 13.33%  |
-| Storage            | 1         | 6.67%   |
-| Network            | 1         | 6.67%   |
+| Graphics card      | 6         | 37.5%   |
+| Net/wireless       | 4         | 25%     |
+| Fingerprint reader | 2         | 12.5%   |
+| Chipcard           | 2         | 12.5%   |
+| Storage            | 1         | 6.25%   |
+| Network            | 1         | 6.25%   |
 

@@ -822,7 +822,7 @@ Hard drive models
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
 | Samsung SSD 850 EVO 250GB            | 2         | 5.88%   |
-| KESU USB 3.1 128GB                   | 2         | 5.88%   |
+| KESU USB 3.1 256GB                   | 2         | 5.88%   |
 | WDC WD5000LPCX-60VHAT0 500GB         | 1         | 2.94%   |
 | WDC WD3200BEVT-22ZCT0 320GB          | 1         | 2.94%   |
 | WDC WD3200BEVT-22A23T0 320GB         | 1         | 2.94%   |
@@ -830,7 +830,7 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-512G-1006 512GB | 1         | 2.94%   |
 | Unknown USDU1  32GB                  | 1         | 2.94%   |
 | Unknown SLD64G  64GB                 | 1         | 2.94%   |
-| Unknown SD/MMC/MS PRO 128GB          | 1         | 2.94%   |
+| Unknown SD/MMC/MS PRO 2GB            | 1         | 2.94%   |
 | Unknown 064G38  64GB                 | 1         | 2.94%   |
 | Toshiba MK8025GAS 80GB               | 1         | 2.94%   |
 | Toshiba MK6028GAL 64GB               | 1         | 2.94%   |
@@ -1669,7 +1669,7 @@ Controller models
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                  | 1         | 1.69%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                  | 1         | 1.69%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                            | 1         | 1.69%   |
-| Motorola PCS Moto E (4) Plus                                                | 1         | 1.69%   |
+| Motorola PCS Moto G (5) Plus                                                | 1         | 1.69%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                     | 1         | 1.69%   |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)                         | 1         | 1.69%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                      | 1         | 1.69%   |
@@ -1766,7 +1766,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 3.57%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 3.57%   |
 | Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1         | 3.57%   |
-| Motorola PCS Moto E (4) Plus                                      | 1         | 3.57%   |
+| Motorola PCS Moto G (5) Plus                                      | 1         | 3.57%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)               | 1         | 3.57%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 1         | 3.57%   |
@@ -1958,36 +1958,36 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                               | Notebooks | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2GB SODIMM DDR2                                  | 4         | 11.76%  |
-| Unknown (ABCD) RAM 123456789012345678 2048MB SODIMM LPDDR4 2400MT/s | 2         | 5.88%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s            | 2         | 5.88%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s               | 2         | 5.88%   |
-| Unknown RAM Module 512MB SODIMM SDRAM                               | 1         | 2.94%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s                      | 1         | 2.94%   |
-| Unknown RAM Module 2GB SODIMM DDR                                   | 1         | 2.94%   |
-| Unknown RAM Module 256MB SODIMM SDRAM                               | 1         | 2.94%   |
-| Unknown RAM Module 2048MB SODIMM SDRAM                              | 1         | 2.94%   |
-| Unknown RAM Module 1GB SODIMM DRAM                                  | 1         | 2.94%   |
-| Unknown RAM Module 1GB SODIMM DDR 266MT/s                           | 1         | 2.94%   |
-| Unknown RAM Module 1GB DIMM DDR3 1333MT/s                           | 1         | 2.94%   |
-| Unknown RAM CL19-19-19 D4-2666 8GB SODIMM DDR4 2133MT/s             | 1         | 2.94%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s                  | 1         | 2.94%   |
-| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s                   | 1         | 2.94%   |
-| SK hynix RAM Module 2048MB SODIMM DDR3 1600MT/s                     | 1         | 2.94%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s               | 1         | 2.94%   |
-| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.94%   |
-| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2400MT/s              | 1         | 2.94%   |
-| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s               | 1         | 2.94%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s            | 1         | 2.94%   |
-| Samsung RAM M471A5244CB0-CTD 4096MB SODIMM DDR4 3266MT/s            | 1         | 2.94%   |
-| Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s              | 1         | 2.94%   |
-| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s               | 1         | 2.94%   |
-| Kingston RAM HP32D4S2S1ME-4 4GB SODIMM DDR4 3200MT/s                | 1         | 2.94%   |
-| Kingston RAM 99U5428-041.A01G 4GB SODIMM DDR3 1067MT/s              | 1         | 2.94%   |
-| Elpida RAM EBJ10UE8BDS0-AE-F 1GB SODIMM DDR3 1067MT/s               | 1         | 2.94%   |
-| A-DATA RAM AM1U16BC2P1-B1AH 2GB SODIMM DDR3 4199MT/s                | 1         | 2.94%   |
+| Model                                                            | Notebooks | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2GB SODIMM DDR2                               | 4         | 11.76%  |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 2         | 5.88%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.88%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 5.88%   |
+| Unknown RAM Module 512MB SODIMM SDRAM                            | 1         | 2.94%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s                   | 1         | 2.94%   |
+| Unknown RAM Module 2GB SODIMM DDR                                | 1         | 2.94%   |
+| Unknown RAM Module 256MB SODIMM SDRAM                            | 1         | 2.94%   |
+| Unknown RAM Module 2048MB SODIMM SDRAM                           | 1         | 2.94%   |
+| Unknown RAM Module 1GB SODIMM DRAM                               | 1         | 2.94%   |
+| Unknown RAM Module 1GB SODIMM DDR 266MT/s                        | 1         | 2.94%   |
+| Unknown RAM Module 1GB DIMM DDR3 1333MT/s                        | 1         | 2.94%   |
+| Unknown RAM CL19-19-19 D4-2666 8GB SODIMM DDR4 2133MT/s          | 1         | 2.94%   |
+| Toshiba RAM 8HTF12864HDY-800G1 1024MB SODIMM 1066MT/s            | 1         | 2.94%   |
+| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 1066MT/s             | 1         | 2.94%   |
+| SK hynix RAM Module 2048MB SODIMM DDR3 1600MT/s                  | 1         | 2.94%   |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 800MT/s         | 1         | 2.94%   |
+| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.94%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2400MT/s           | 1         | 2.94%   |
+| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s            | 1         | 2.94%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.94%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 2.94%   |
+| Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s           | 1         | 2.94%   |
+| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s            | 1         | 2.94%   |
+| Kingston RAM HP32D4S2S1ME-4 4096MB SODIMM DDR4 3200MT/s          | 1         | 2.94%   |
+| Kingston RAM 99U5428-041.A01G 4GB SODIMM DDR3 1067MT/s           | 1         | 2.94%   |
+| Elpida RAM EBJ10UE8BDS0-AE-F 1GB SODIMM DDR3 1067MT/s            | 1         | 2.94%   |
+| A-DATA RAM AM1U16BC2P1-B1AH 2GB SODIMM DDR3 4199MT/s             | 1         | 2.94%   |
 
 Memory Kind
 -----------
@@ -2143,8 +2143,8 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam (UVC)         | 1         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 1         | 5.56%   |
 | ALi M5603 Video Camera Controller                           | 1         | 5.56%   |
-| Alcor Micro USB 2.0 Camera                                  | 1         | 5.56%   |
-| Acer USB Camera                                             | 1         | 5.56%   |
+| Alcor Micro SHUNCCM2MP                                      | 1         | 5.56%   |
+| Acer HP Webcam-101                                          | 1         | 5.56%   |
 | Acer EasyCamera                                             | 1         | 5.56%   |
 
 Security

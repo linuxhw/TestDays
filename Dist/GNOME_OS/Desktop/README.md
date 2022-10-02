@@ -670,32 +670,32 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| WDC WD5000AAKX-003CA0 500GB             | 1        | 4.17%   |
-| WDC WD1600AAJS-22L7A0 160GB             | 1        | 4.17%   |
-| WDC WD10EALX-009BA0 1TB                 | 1        | 4.17%   |
-| Toshiba HDWD120 2TB                     | 1        | 4.17%   |
-| SK hynix HFS128G39TND-N210A 128GB SSD   | 1        | 4.17%   |
-| Seagate ST9500325AS 500GB               | 1        | 4.17%   |
-| Seagate ST8000DM004-2CX188 8TB          | 1        | 4.17%   |
-| Seagate ST4000DX001-1CE168 4TB          | 1        | 4.17%   |
-| Seagate ST3500312CS 500GB               | 1        | 4.17%   |
-| Seagate ST2000DM001-1ER164 2TB          | 1        | 4.17%   |
-| Seagate ST1000DM010-2EP102 1TB          | 1        | 4.17%   |
-| Seagate ST1000DM003-1SB102 1TB          | 1        | 4.17%   |
-| SanDisk NVMe SSD Drive 500GB            | 1        | 4.17%   |
-| Samsung SSD 860 QVO 1TB                 | 1        | 4.17%   |
-| Samsung SSD 840 EVO 250GB               | 1        | 4.17%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 1024GB | 1        | 4.17%   |
-| Samsung NVMe SSD Drive 512GB            | 1        | 4.17%   |
-| Samsung NVMe SSD Drive 256GB            | 1        | 4.17%   |
-| PNY CS900 240GB SSD                     | 1        | 4.17%   |
-| Kingston SV300S37A240G 240GB SSD        | 1        | 4.17%   |
-| Kingston SV300S37A120G 120GB SSD        | 1        | 4.17%   |
-| Kingston SA400S37120G 120GB SSD         | 1        | 4.17%   |
-| Kingston SA400M8240G 240GB SSD          | 1        | 4.17%   |
-| Apacer AS350 120GB SSD                  | 1        | 4.17%   |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| WDC WD5000AAKX-003CA0 500GB           | 1        | 4.17%   |
+| WDC WD1600AAJS-22L7A0 160GB           | 1        | 4.17%   |
+| WDC WD10EALX-009BA0 1TB               | 1        | 4.17%   |
+| Toshiba HDWD120 2TB                   | 1        | 4.17%   |
+| SK hynix HFS128G39TND-N210A 128GB SSD | 1        | 4.17%   |
+| Seagate ST9500325AS 500GB             | 1        | 4.17%   |
+| Seagate ST8000DM004-2CX188 8TB        | 1        | 4.17%   |
+| Seagate ST4000DX001-1CE168 4TB        | 1        | 4.17%   |
+| Seagate ST3500312CS 500GB             | 1        | 4.17%   |
+| Seagate ST2000DM001-1ER164 2TB        | 1        | 4.17%   |
+| Seagate ST1000DM010-2EP102 1TB        | 1        | 4.17%   |
+| Seagate ST1000DM003-1SB102 1TB        | 1        | 4.17%   |
+| SanDisk NVMe SSD Drive 500GB          | 1        | 4.17%   |
+| Samsung SSD 860 QVO 1TB               | 1        | 4.17%   |
+| Samsung SSD 840 EVO 250GB             | 1        | 4.17%   |
+| Samsung NVMe SSD Drive 512GB          | 1        | 4.17%   |
+| Samsung NVMe SSD Drive 256GB          | 1        | 4.17%   |
+| Samsung NVMe SSD Drive 1024GB         | 1        | 4.17%   |
+| PNY CS900 240GB SSD                   | 1        | 4.17%   |
+| Kingston SV300S37A240G 240GB SSD      | 1        | 4.17%   |
+| Kingston SV300S37A120G 120GB SSD      | 1        | 4.17%   |
+| Kingston SA400S37120G 120GB SSD       | 1        | 4.17%   |
+| Kingston SA400M8240G 240GB SSD        | 1        | 4.17%   |
+| Apacer AS350 120GB SSD                | 1        | 4.17%   |
 
 HDD Vendor
 ----------
@@ -1180,11 +1180,11 @@ Monitor models
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 7.69%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 7.69%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch   | 1        | 7.69%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch   | 1        | 7.69%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 7.69%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 7.69%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 7.69%   |
-| Goldstar LG ULTRAGEAR GSM5B73 1920x1080 530x300mm 24.0-inch         | 1        | 7.69%   |
-| AOC 1970W-1 AOC1970 1366x768 410x230mm 18.5-inch                    | 1        | 7.69%   |
+| Goldstar ULTRAGEAR GSM5B73 1920x1080 531x298mm 24.0-inch            | 1        | 7.69%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 7.69%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 7.69%   |
 
 Monitor Resolution
@@ -1328,7 +1328,7 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 5%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 5%      |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 5%      |
-| Motorola PCS moto g(9) play                                       | 1        | 5%      |
+| Motorola PCS moto g(7) optimo maxx(XT1955DL)                      | 1        | 5%      |
 | Intel Wireless-AC 9260                                            | 1        | 5%      |
 | Intel Wireless 8260                                               | 1        | 5%      |
 | Intel Wi-Fi 6 AX200                                               | 1        | 5%      |
@@ -1617,10 +1617,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor   | Desktops | Percent |
-|----------|----------|---------|
-| webcam   | 1        | 50%     |
-| Logitech | 1        | 50%     |
+| Vendor        | Desktops | Percent |
+|---------------|----------|---------|
+| Logitech      | 1        | 50%     |
+| 2M UVC CAMERA | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1630,10 +1630,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                       | Desktops | Percent |
-|-----------------------------|----------|---------|
-| webcam webcam               | 1        | 50%     |
-| Logitech HD Pro Webcam C920 | 1        | 50%     |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920         | 1        | 50%     |
+| 2M UVC CAMERA NexiGo N60 FHD Webcam | 1        | 50%     |
 
 Security
 --------

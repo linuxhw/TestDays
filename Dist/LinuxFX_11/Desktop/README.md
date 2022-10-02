@@ -499,13 +499,6 @@ Motherboard model
 | ASUS M5A78L-M PLUS/USB3        | 1        | 2.13%   |
 | ASUS H110-PLUS                 | 1        | 2.13%   |
 | ASUS CM6650                    | 1        | 2.13%   |
-| ASRock X370 Gaming X           | 1        | 2.13%   |
-| ASRock Q1900-ITX               | 1        | 2.13%   |
-| ASRock N68-S3 UCC              | 1        | 2.13%   |
-| ASRock A55M-HVS                | 1        | 2.13%   |
-| ASRock 980DE3/U3S3             | 1        | 2.13%   |
-| Acer Aspire X1930              | 1        | 2.13%   |
-| ABIT AW9D-MAX                  | 1        | 2.13%   |
 
 Model Family
 ------------
@@ -557,11 +550,6 @@ Motherboard model prefix
 | ASUS CM6650          | 1        | 2.13%   |
 | ASRock X370          | 1        | 2.13%   |
 | ASRock Q1900-ITX     | 1        | 2.13%   |
-| ASRock N68-S3        | 1        | 2.13%   |
-| ASRock A55M-HVS      | 1        | 2.13%   |
-| ASRock 980DE3        | 1        | 2.13%   |
-| Acer Aspire          | 1        | 2.13%   |
-| ABIT AW9D-MAX        | 1        | 2.13%   |
 
 MFG Year
 --------
@@ -687,8 +675,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 27       | 57.45%  |
-| No        | 20       | 42.55%  |
+| Yes       | 26       | 55.32%  |
+| No        | 21       | 44.68%  |
 
 Has Ethernet
 ------------
@@ -811,11 +799,6 @@ Geographic location (city)
 | Campinas             | 1        | 2.13%   |
 | Buenos Aires         | 1        | 2.13%   |
 | Brampton             | 1        | 2.13%   |
-| Bolshoy Kamen        | 1        | 2.13%   |
-| Battle Creek         | 1        | 2.13%   |
-| Amsterdam            | 1        | 2.13%   |
-| Amiens               | 1        | 2.13%   |
-| Almelo               | 1        | 2.13%   |
 
 Drives
 ------
@@ -861,68 +844,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Seagate ST1000DM010-2EP102 1TB      | 4        | 4.4%    |
-| Seagate ST1000DM003-1CH162 1TB      | 2        | 2.2%    |
-| Seagate Expansion Desk 4TB          | 2        | 2.2%    |
-| SanDisk SDSSDX240GG25 240GB         | 2        | 2.2%    |
-| Samsung SSD 860 EVO 1TB             | 2        | 2.2%    |
-| Samsung NVMe SSD Drive 500GB        | 2        | 2.2%    |
-| Crucial CT1000MX500SSD1 1TB         | 2        | 2.2%    |
-| WDC WDS500G2B0C-00PXH0 500GB        | 1        | 1.1%    |
-| WDC WDS500G2B0B-00YS70 500GB SSD    | 1        | 1.1%    |
-| WDC WDS500G2B0A-00SM50 500GB SSD    | 1        | 1.1%    |
-| WDC WDS240G2G0A-00JH30 240GB SSD    | 1        | 1.1%    |
-| WDC WDBNCE5000PNC 500GB SSD         | 1        | 1.1%    |
-| WDC WD6402AAEX-00Y9A0 640GB         | 1        | 1.1%    |
-| WDC WD6401AALS-00L3B2 640GB         | 1        | 1.1%    |
-| WDC WD5000AVVS-63M8B0 500GB         | 1        | 1.1%    |
-| WDC WD5000AAKS-75A7B2 500GB         | 1        | 1.1%    |
-| WDC WD40EZRZ-00GXCB0 4TB            | 1        | 1.1%    |
-| WDC WD3200AAKS-61L9A0 320GB         | 1        | 1.1%    |
-| WDC WD30EZRZ-00WN9B0 3TB            | 1        | 1.1%    |
-| WDC WD30EZRX-00MMMB0 3TB            | 1        | 1.1%    |
-| WDC WD20EADS-00R6B0 2TB             | 1        | 1.1%    |
-| WDC WD2002FAEX-007BA0 2TB           | 1        | 1.1%    |
-| WDC WD1600JB-32FUA0 160GB           | 1        | 1.1%    |
-| WDC WD10EZEX-08WN4A0 1TB            | 1        | 1.1%    |
-| WDC WD10EZEX-00RKKA0 1TB            | 1        | 1.1%    |
-| WDC WD10EADS-65M2BX 1TB             | 1        | 1.1%    |
-| WDC WD10EADS-22M2B0 1TB             | 1        | 1.1%    |
-| WDC WD10EADS-00L5B1 1TB             | 1        | 1.1%    |
-| WDC WD1001FALS-00J7B0 1TB           | 1        | 1.1%    |
-| Transcend TS32GMTS400 32GB SSD      | 1        | 1.1%    |
-| Transcend TS128GSSD360S 128GB       | 1        | 1.1%    |
-| Toshiba MQ01ABD050 500GB            | 1        | 1.1%    |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD | 1        | 1.1%    |
-| SPCC Solid State Disk 512GB         | 1        | 1.1%    |
-| SPCC Solid State Disk 128GB         | 1        | 1.1%    |
-| Seagate ST9160310AS 160GB           | 1        | 1.1%    |
-| Seagate ST500LT012-9WS142 500GB     | 1        | 1.1%    |
-| Seagate ST500DM009-2F110A 500GB     | 1        | 1.1%    |
-| Seagate ST500DM002-1BD142 500GB     | 1        | 1.1%    |
-| Seagate ST3750640NS 752GB           | 1        | 1.1%    |
-| Seagate ST3500414CS 500GB           | 1        | 1.1%    |
-| Seagate ST3160811AS 160GB           | 1        | 1.1%    |
-| Seagate ST31000528AS 1TB            | 1        | 1.1%    |
-| Seagate ST2000VM003-1ET164 2TB      | 1        | 1.1%    |
-| Seagate ST2000DX002-2DV164 2TB      | 1        | 1.1%    |
-| Seagate ST2000DM006-2DM164 2TB      | 1        | 1.1%    |
-| Seagate ST2000DM001-1ER164 2TB      | 1        | 1.1%    |
-| Seagate ST2000DM001-1CH164 2TB      | 1        | 1.1%    |
-| Seagate ST2000DM 008-2FR102 2TB     | 1        | 1.1%    |
-| Seagate Expansion 500GB             | 1        | 1.1%    |
-| Seagate Backup+ Hub BK 8TB          | 1        | 1.1%    |
-| SATAFIRM S11 240GB                  | 1        | 1.1%    |
-| SanDisk SDSSDA240G 240GB            | 1        | 1.1%    |
-| SanDisk SDSSDA120G 120GB            | 1        | 1.1%    |
-| SanDisk SD8SNAT128G1002 128GB SSD   | 1        | 1.1%    |
-| SanDisk SD8SBAT128G1122 128GB SSD   | 1        | 1.1%    |
-| SanDisk NVMe SSD Drive 256GB        | 1        | 1.1%    |
-| Samsung SSD 860 EVO 500GB           | 1        | 1.1%    |
-| Samsung SSD 850 EVO 500GB           | 1        | 1.1%    |
-| Samsung SSD 840 Series 120GB        | 1        | 1.1%    |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Seagate ST1000DM010-2EP102 1TB   | 4        | 4.4%    |
+| Seagate ST1000DM003-1CH162 1TB   | 2        | 2.2%    |
+| Seagate Expansion Desk 2TB       | 2        | 2.2%    |
+| SanDisk SDSSDX240GG25 240GB      | 2        | 2.2%    |
+| Samsung SSD 860 EVO 1TB          | 2        | 2.2%    |
+| Samsung NVMe SSD Drive 500GB     | 2        | 2.2%    |
+| Crucial CT1000MX500SSD1 1TB      | 2        | 2.2%    |
+| WDC WDS500G2B0C-00PXH0 500GB     | 1        | 1.1%    |
+| WDC WDS500G2B0B-00YS70 500GB SSD | 1        | 1.1%    |
+| WDC WDS500G2B0A-00SM50 500GB SSD | 1        | 1.1%    |
+| WDC WDS240G2G0A-00JH30 240GB SSD | 1        | 1.1%    |
+| WDC WDBNCE5000PNC 500GB SSD      | 1        | 1.1%    |
+| WDC WD6402AAEX-00Y9A0 640GB      | 1        | 1.1%    |
+| WDC WD6401AALS-00L3B2 640GB      | 1        | 1.1%    |
+| WDC WD5000AVVS-63M8B0 500GB      | 1        | 1.1%    |
+| WDC WD5000AAKS-75A7B2 500GB      | 1        | 1.1%    |
+| WDC WD40EZRZ-00GXCB0 4TB         | 1        | 1.1%    |
+| WDC WD3200AAKS-61L9A0 320GB      | 1        | 1.1%    |
+| WDC WD30EZRZ-00WN9B0 3TB         | 1        | 1.1%    |
+| WDC WD30EZRX-00MMMB0 3TB         | 1        | 1.1%    |
+| WDC WD20EADS-00R6B0 2TB          | 1        | 1.1%    |
+| WDC WD2002FAEX-007BA0 2TB        | 1        | 1.1%    |
+| WDC WD1600JB-32FUA0 160GB        | 1        | 1.1%    |
+| WDC WD10EZEX-08WN4A0 1TB         | 1        | 1.1%    |
+| WDC WD10EZEX-00RKKA0 1TB         | 1        | 1.1%    |
+| WDC WD10EADS-65M2BX 1TB          | 1        | 1.1%    |
+| WDC WD10EADS-22M2B0 1TB          | 1        | 1.1%    |
+| WDC WD10EADS-00L5B1 1TB          | 1        | 1.1%    |
+| WDC WD1001FALS-00J7B0 1TB        | 1        | 1.1%    |
+| Transcend TS32GMTS400 32GB SSD   | 1        | 1.1%    |
+| Transcend TS128GSSD360S 128GB    | 1        | 1.1%    |
+| Toshiba NVMe SSD Drive 128GB     | 1        | 1.1%    |
+| Toshiba MQ01ABD050 500GB         | 1        | 1.1%    |
+| SPCC Solid State Disk 512GB      | 1        | 1.1%    |
+| SPCC Solid State Disk 128GB      | 1        | 1.1%    |
+| Seagate ST9160310AS 160GB        | 1        | 1.1%    |
+| Seagate ST500LT012-9WS142 500GB  | 1        | 1.1%    |
+| Seagate ST500DM009-2F110A 500GB  | 1        | 1.1%    |
+| Seagate ST500DM002-1BD142 500GB  | 1        | 1.1%    |
+| Seagate ST3750640NS 752GB        | 1        | 1.1%    |
 
 HDD Vendor
 ----------
@@ -1006,12 +969,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 34       | 44     | 51.52%  |
-| 0.51-1.0   | 19       | 27     | 28.79%  |
-| 1.01-2.0   | 7        | 9      | 10.61%  |
-| 3.01-4.0   | 3        | 3      | 4.55%   |
-| 2.01-3.0   | 2        | 2      | 3.03%   |
-| 4.01-10.0  | 1        | 1      | 1.52%   |
+| 0.01-0.5   | 33       | 43     | 51.56%  |
+| 0.51-1.0   | 19       | 28     | 29.69%  |
+| 1.01-2.0   | 8        | 11     | 12.5%   |
+| 2.01-3.0   | 2        | 2      | 3.13%   |
+| 3.01-4.0   | 1        | 1      | 1.56%   |
+| 4.01-10.0  | 1        | 1      | 1.56%   |
 
 Space Total
 -----------
@@ -1184,14 +1147,6 @@ Storage controller models
 | Intel 82801H (ICH8 Family) 4 port SATA Controller [IDE mode]                            | 1        | 1.2%    |
 | Intel 5 Series/3400 Series Chipset PT IDER Controller                                   | 1        | 1.2%    |
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                           | 1        | 1.2%    |
-| Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                           | 1        | 1.2%    |
-| Integrated Express IT8212 Dual channel ATA RAID controller                              | 1        | 1.2%    |
-| AMD X370 Series Chipset SATA Controller                                                 | 1        | 1.2%    |
-| AMD FCH SATA Controller [IDE mode]                                                      | 1        | 1.2%    |
-| AMD FCH SATA Controller D                                                               | 1        | 1.2%    |
-| AMD FCH IDE Controller                                                                  | 1        | 1.2%    |
-| AMD 500 Series Chipset SATA Controller                                                  | 1        | 1.2%    |
-| AMD 400 Series Chipset SATA Controller                                                  | 1        | 1.2%    |
 
 Storage Kind
 ------------
@@ -1203,10 +1158,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 35       | 53.85%  |
+| SATA | 36       | 55.38%  |
 | IDE  | 19       | 29.23%  |
 | NVMe | 7        | 10.77%  |
-| RAID | 4        | 6.15%   |
+| RAID | 3        | 4.62%   |
 
 Processor
 ---------
@@ -1274,9 +1229,6 @@ Processor models
 | AMD FX-6300 Six-Core Processor              | 1        | 2.13%   |
 | AMD FX-6100 Six-Core Processor              | 1        | 2.13%   |
 | AMD FX-4100 Quad-Core Processor             | 1        | 2.13%   |
-| AMD Athlon II X2 220 Processor              | 1        | 2.13%   |
-| AMD A8-3850 APU with Radeon HD Graphics     | 1        | 2.13%   |
-| AMD A10-6800K APU with Radeon HD Graphics   | 1        | 2.13%   |
 
 CPU Model Family
 ----------------
@@ -1594,7 +1546,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM058A 1920x1080 531x298mm 24.0-inch  | 1        | 2.13%   |
 | Samsung Electronics SMT22A550 SAM07AE 1920x1080 477x268mm 21.5-inch   | 1        | 2.13%   |
 | Samsung Electronics S27R35A SAM7126 1920x1080 598x336mm 27.0-inch     | 1        | 2.13%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch     | 1        | 2.13%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 2.13%   |
 | Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch  | 1        | 2.13%   |
 | Samsung Electronics LCD Monitor S24B300 3840x1080                     | 1        | 2.13%   |
 | Philips PHL 241P4 PHL08D5 1920x1080 531x299mm 24.0-inch               | 1        | 2.13%   |
@@ -1608,12 +1560,12 @@ Monitor models
 | Hewlett-Packard v185e HWP2838 1366x768 410x230mm 18.5-inch            | 1        | 2.13%   |
 | Hewlett-Packard LCD Monitor w2338h                                    | 1        | 2.13%   |
 | Hewlett-Packard Compaq W185q HWP284F 1366x768 410x230mm 18.5-inch     | 1        | 2.13%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 2.13%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.13%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 1        | 2.13%   |
 | Goldstar RZ32LZ55 GSM7546 1360x768 930x523mm 42.0-inch                | 1        | 2.13%   |
-| Goldstar M237WDP GSM5778 1920x1080 510x290mm 23.1-inch                | 1        | 2.13%   |
+| Goldstar M237WDP GSM5778 1920x1080 598x336mm 27.0-inch                | 1        | 2.13%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                   | 1        | 2.13%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                 | 1        | 2.13%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.13%   |
 | Dell LCD Monitor DELA026 1920x1200 520x330mm 24.2-inch                | 1        | 2.13%   |
 | BenQ FP71V+ BNQ76A2 1280x1024 376x301mm 19.0-inch                     | 1        | 2.13%   |
 | AOC Q2770 AOC2770 2560x1440 597x336mm 27.0-inch                       | 1        | 2.13%   |
@@ -1624,14 +1576,7 @@ Monitor models
 | Ancor Communications VE247 ACI2493 1920x1080 531x299mm 24.0-inch      | 1        | 2.13%   |
 | Ancor Communications MW221 ACI22B1 1680x1050 473x296mm 22.0-inch      | 1        | 2.13%   |
 | Ancor Communications LCD Monitor ASUS VS228 1920x1080                 | 1        | 2.13%   |
-| Ancor Communications ASUS VP247 ACI24C7 1920x1080 521x293mm 23.5-inch | 1        | 2.13%   |
-| Ancor Communications ASUS VG278 ACI27E1 1920x1080 598x336mm 27.0-inch | 1        | 2.13%   |
-| Ancor Communications ASUS MX239 ACI23C2 1920x1080 528x310mm 24.1-inch | 1        | 2.13%   |
-| Acer X223W ACR000D 1680x1050 474x296mm 22.0-inch                      | 1        | 2.13%   |
-| Acer H6510BD ACR1535 1920x1080                                        | 1        | 2.13%   |
-| Acer CB282K ACR075F 3840x2160 621x341mm 27.9-inch                     | 1        | 2.13%   |
-| Acer B226HQL ACR0330 1920x1080 477x268mm 21.5-inch                    | 1        | 2.13%   |
-| Unknown                                                               | 1        | 2.13%   |
+| Ancor Communications ASUS VP247 ACI24C7 1920x1080 520x290mm 23.4-inch | 1        | 2.13%   |
 
 Monitor Resolution
 ------------------
@@ -1804,8 +1749,8 @@ Controller models
 |-----------------------------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 32       | 42.11%  |
 | Intel Wi-Fi 6 AX200                                                                           | 3        | 3.95%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 2        | 2.63%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                         | 2        | 2.63%   |
+| Realtek 802.11ac NIC                                                                          | 2        | 2.63%   |
 | Nvidia MCP61 Ethernet                                                                         | 2        | 2.63%   |
 | Intel 82579V Gigabit Network Connection                                                       | 2        | 2.63%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 1.32%   |
@@ -1826,7 +1771,7 @@ Controller models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1        | 1.32%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                                 | 1        | 1.32%   |
 | Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn]                        | 1        | 1.32%   |
-| Motorola PCS Moto E (4) Plus                                                                  | 1        | 1.32%   |
+| Motorola PCS Moto G (5) Plus                                                                  | 1        | 1.32%   |
 | Intel Wireless 8265 / 8275                                                                    | 1        | 1.32%   |
 | Intel Wireless 7265                                                                           | 1        | 1.32%   |
 | Intel I211 Gigabit Network Connection                                                         | 1        | 1.32%   |
@@ -1874,7 +1819,7 @@ Wireless models
 | Model                                                                                         | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------|----------|---------|
 | Intel Wi-Fi 6 AX200                                                                           | 3        | 11.54%  |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 2        | 7.69%   |
+| Realtek 802.11ac NIC                                                                          | 2        | 7.69%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 3.85%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                                    | 1        | 3.85%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 3.85%   |
@@ -1931,7 +1876,7 @@ Ethernet models
 | Intel 82579V Gigabit Network Connection                           | 2        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2%      |
-| Motorola PCS Moto E (4) Plus                                      | 1        | 2%      |
+| Motorola PCS Moto G (5) Plus                                      | 1        | 2%      |
 | Intel I211 Gigabit Network Connection                             | 1        | 2%      |
 | Intel Ethernet Connection I217-V                                  | 1        | 2%      |
 | Intel Ethernet Connection (2) I219-LM                             | 1        | 2%      |
@@ -2113,25 +2058,6 @@ Sound card models
 | Intel Sunrise Point-LP HD Audio                                            | 1        | 1.06%   |
 | Intel Cannon Lake PCH cAVS                                                 | 1        | 1.06%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 1.06%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 1.06%   |
-| Intel 82801H (ICH8 Family) HD Audio Controller                             | 1        | 1.06%   |
-| Intel 200 Series PCH HD Audio                                              | 1        | 1.06%   |
-| GN Netcom Jabra Link 380                                                   | 1        | 1.06%   |
-| GN Netcom Jabra Link 370                                                   | 1        | 1.06%   |
-| Focusrite-Novation Launchkey MK2 25                                        | 1        | 1.06%   |
-| Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                          | 1        | 1.06%   |
-| Creative Labs CA0106/CA0111 [SB Live!/Audigy/X-Fi Series]                  | 1        | 1.06%   |
-| C-Media Electronics CM106 Like Sound Device                                | 1        | 1.06%   |
-| C-Media Electronics Blue Snowball                                          | 1        | 1.06%   |
-| C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 1.06%   |
-| AOKEO LCS_USB_Audio                                                        | 1        | 1.06%   |
-| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                           | 1        | 1.06%   |
-| AMD RV610 HDMI Audio [Radeon HD 2350 PRO / 2400 PRO/XT / HD 3410]          | 1        | 1.06%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 1.06%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 1.06%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 1        | 1.06%   |
-| AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]        | 1        | 1.06%   |
-| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                 | 1        | 1.06%   |
 
 Memory
 ------
@@ -2268,13 +2194,13 @@ Camera device vendors
 | Logitech                  | 2        | 14.29%  |
 | Chicony Electronics       | 2        | 14.29%  |
 | YGTek                     | 1        | 7.14%   |
-| webcam                    | 1        | 7.14%   |
 | Silicon Motion            | 1        | 7.14%   |
 | SHENZHEN EMEET TECHNOLOGY | 1        | 7.14%   |
 | Ruision                   | 1        | 7.14%   |
 | Jieli Technology          | 1        | 7.14%   |
 | Hewlett-Packard           | 1        | 7.14%   |
 | Creative Technology       | 1        | 7.14%   |
+| 2M UVC CAMERA             | 1        | 7.14%   |
 
 Camera Model
 ------------
@@ -2287,7 +2213,6 @@ Camera device models
 | Model                                          | Desktops | Percent |
 |------------------------------------------------|----------|---------|
 | YGTek Webcam                                   | 1        | 7.14%   |
-| webcam webcam                                  | 1        | 7.14%   |
 | Silicon Motion SM731 Camera                    | 1        | 7.14%   |
 | SHENZHEN EMEET TECHNOLOGY HD Webcam eMeet C960 | 1        | 7.14%   |
 | Ruision UVC Camera                             | 1        | 7.14%   |
@@ -2300,6 +2225,7 @@ Camera device models
 | Creative Live! Cam Sync HD [VF0770]            | 1        | 7.14%   |
 | Chicony CNF7042                                | 1        | 7.14%   |
 | Chicony 2.0M UVC Webcam / CNF7129              | 1        | 7.14%   |
+| 2M UVC CAMERA NexiGo N60 FHD Webcam            | 1        | 7.14%   |
 
 Security
 --------

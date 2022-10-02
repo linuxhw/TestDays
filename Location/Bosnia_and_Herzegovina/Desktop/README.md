@@ -235,15 +235,16 @@ Installed operating systems
 | Name                | Desktops | Percent |
 |---------------------|----------|---------|
 | Ubuntu 20.04        | 7        | 16.28%  |
-| Ubuntu 18.04        | 6        | 13.95%  |
+| Ubuntu 18.04        | 5        | 11.63%  |
 | OpenMandriva 4.3    | 4        | 9.3%    |
 | Linux Mint 19.1     | 3        | 6.98%   |
 | Xubuntu 20.04       | 2        | 4.65%   |
 | Linux Mint 20.1     | 2        | 4.65%   |
 | Debian 10           | 2        | 4.65%   |
 | Zorin 15            | 1        | 2.33%   |
+| Ubuntu Unity 21.10  | 1        | 2.33%   |
+| Ubuntu Unity 18.04  | 1        | 2.33%   |
 | Ubuntu Studio 20.04 | 1        | 2.33%   |
-| Ubuntu 21.10        | 1        | 2.33%   |
 | ROSA R10            | 1        | 2.33%   |
 | Pop!_OS 20.10       | 1        | 2.33%   |
 | Pop!_OS 20.04       | 1        | 2.33%   |
@@ -269,11 +270,12 @@ OS without a version
 
 | Name          | Desktops | Percent |
 |---------------|----------|---------|
-| Ubuntu        | 13       | 30.95%  |
+| Ubuntu        | 11       | 26.19%  |
 | Linux Mint    | 6        | 14.29%  |
 | OpenMandriva  | 4        | 9.52%   |
 | Debian        | 4        | 9.52%   |
 | Xubuntu       | 2        | 4.76%   |
+| Ubuntu Unity  | 2        | 4.76%   |
 | Pop!_OS       | 2        | 4.76%   |
 | Manjaro       | 2        | 4.76%   |
 | KDE neon      | 2        | 4.76%   |
@@ -928,7 +930,7 @@ Hard drive models
 | WDC WD1002FAEX-00Z3A0 1TB        | 1        | 1.56%   |
 | Transcend TS120GSSD220S 120GB    | 1        | 1.56%   |
 | Toshiba DT01ACA100 1TB           | 1        | 1.56%   |
-| Seagate STM3500418AS 499GB       | 1        | 1.56%   |
+| Seagate STM3500418AS 500GB       | 1        | 1.56%   |
 | Seagate ST980811AS 80GB          | 1        | 1.56%   |
 | Seagate ST8000AS0002-1NA17Z 8TB  | 1        | 1.56%   |
 | Seagate ST500DM002-1BD142 500GB  | 1        | 1.56%   |
@@ -941,23 +943,6 @@ Hard drive models
 | Samsung SSD 850 EVO 250GB        | 1        | 1.56%   |
 | Samsung SSD 850 EVO 120GB        | 1        | 1.56%   |
 | Samsung SSD 840 PRO Series 256GB | 1        | 1.56%   |
-| Samsung HD160JJ 160GB            | 1        | 1.56%   |
-| Samsung HD080HJ 80GB             | 1        | 1.56%   |
-| ORGE GZX202 500GB                | 1        | 1.56%   |
-| Maxtor STM380211AS 80GB          | 1        | 1.56%   |
-| Kingston SUV400S37240G 240GB SSD | 1        | 1.56%   |
-| Kingston SHFS37A120G 120GB SSD   | 1        | 1.56%   |
-| Kingston SH103S3120G 120GB SSD   | 1        | 1.56%   |
-| Kingston SA400S37480G 480GB SSD  | 1        | 1.56%   |
-| Kingston NVMe SSD Drive 500GB    | 1        | 1.56%   |
-| Kingston NVMe SSD Drive 480GB    | 1        | 1.56%   |
-| Intel SSDSC2BF240A5L 240GB       | 1        | 1.56%   |
-| Hitachi HDS728080PLAT20 82GB     | 1        | 1.56%   |
-| Hitachi HDS721616PLA380 160GB    | 1        | 1.56%   |
-| Hitachi HDS721032CLA362 320GB    | 1        | 1.56%   |
-| Fujitsu MHW2120BH 120GB          | 1        | 1.56%   |
-| China 240GB SSD                  | 1        | 1.56%   |
-| ASMT 2115 256GB                  | 1        | 1.56%   |
 
 HDD Vendor
 ----------
@@ -969,14 +954,13 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 13       | 22     | 33.33%  |
-| Seagate             | 12       | 16     | 30.77%  |
-| Hitachi             | 6        | 6      | 15.38%  |
-| Toshiba             | 3        | 3      | 7.69%   |
-| Samsung Electronics | 2        | 2      | 5.13%   |
-| Maxtor              | 1        | 1      | 2.56%   |
-| Fujitsu             | 1        | 1      | 2.56%   |
-| ASMT                | 1        | 1      | 2.56%   |
+| WDC                 | 13       | 22     | 34.21%  |
+| Seagate             | 12       | 16     | 31.58%  |
+| Hitachi             | 6        | 6      | 15.79%  |
+| Toshiba             | 3        | 3      | 7.89%   |
+| Samsung Electronics | 2        | 2      | 5.26%   |
+| Maxtor              | 1        | 1      | 2.63%   |
+| Fujitsu             | 1        | 1      | 2.63%   |
 
 SSD Vendor
 ----------
@@ -988,12 +972,13 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 7        | 9      | 43.75%  |
-| WDC                 | 3        | 3      | 18.75%  |
-| Samsung Electronics | 3        | 5      | 18.75%  |
-| Transcend           | 1        | 2      | 6.25%   |
-| Intel               | 1        | 1      | 6.25%   |
-| China               | 1        | 3      | 6.25%   |
+| Kingston            | 7        | 9      | 41.18%  |
+| WDC                 | 3        | 3      | 17.65%  |
+| Samsung Electronics | 3        | 5      | 17.65%  |
+| Transcend           | 1        | 2      | 5.88%   |
+| Intel               | 1        | 1      | 5.88%   |
+| China               | 1        | 3      | 5.88%   |
+| ASMT                | 1        | 1      | 5.88%   |
 
 Drive Kind
 ----------
@@ -1005,8 +990,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 33       | 52     | 66%     |
-| SSD     | 14       | 23     | 28%     |
+| HDD     | 33       | 51     | 66%     |
+| SSD     | 14       | 24     | 28%     |
 | NVMe    | 2        | 2      | 4%      |
 | Unknown | 1        | 1      | 2%      |
 
@@ -1034,8 +1019,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 63     | 80%     |
-| 0.51-1.0   | 5        | 6      | 11.11%  |
+| 0.01-0.5   | 36       | 62     | 80%     |
+| 0.51-1.0   | 5        | 7      | 11.11%  |
 | 3.01-4.0   | 1        | 2      | 2.22%   |
 | 2.01-3.0   | 1        | 2      | 2.22%   |
 | 1.01-2.0   | 1        | 1      | 2.22%   |
@@ -1608,7 +1593,7 @@ Monitor models
 | IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 5.13%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 5.13%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.56%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.56%   |
+| Vestel Elektronik 24W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch     | 1        | 2.56%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.56%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.56%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.56%   |
@@ -1621,7 +1606,7 @@ Monitor models
 | Samsung Electronics S27D590 SAM0B49 1920x1080 598x336mm 27.0-inch      | 1        | 2.56%   |
 | Samsung Electronics S24D391 SAM0B87 1920x1080 521x293mm 23.5-inch      | 1        | 2.56%   |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1        | 2.56%   |
-| Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch      | 1        | 2.56%   |
+| Samsung Electronics S22B150 SAM08A3 1920x1080 480x270mm 21.7-inch      | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor SyncMaster 1680x1050                   | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch   | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor SAM0659 1920x1080                      | 1        | 2.56%   |
@@ -1629,10 +1614,10 @@ Monitor models
 | Philips LCD Monitor 170S 3200x1080                                     | 1        | 2.56%   |
 | Philips 192EL PHLC04E 1366x768 410x230mm 18.5-inch                     | 1        | 2.56%   |
 | Philips 170S PHL0856 1280x1024 338x270mm 17.0-inch                     | 1        | 2.56%   |
+| Goldstar LG HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch               | 1        | 2.56%   |
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                   | 1        | 2.56%   |
 | Goldstar IPS231 GSM5816 1920x1080 510x290mm 23.1-inch                  | 1        | 2.56%   |
 | Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 1        | 2.56%   |
-| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 2.56%   |
 | Fujitsu Siemens B22W-6 LED FUS07F3 1680x1050 474x296mm 22.0-inch       | 1        | 2.56%   |
 | Fujitsu Siemens A17-1 FUS0565 1280x1024 340x270mm 17.1-inch            | 1        | 2.56%   |
 | Dell S2409W DELA038 1920x1080 531x298mm 24.0-inch                      | 1        | 2.56%   |
@@ -1817,7 +1802,7 @@ Controller models
 | Qualcomm Atheros AR9271 802.11n                                     | 3        | 5.56%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)               | 3        | 5.56%   |
 | Intel 82567LM-3 Gigabit Network Connection                          | 3        | 5.56%   |
-| TP-Link TL-WN722N v2                                                | 2        | 3.7%    |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                        | 2        | 3.7%    |
 | Sony Ericsson Mobile AB D2005                                       | 2        | 3.7%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller           | 2        | 3.7%    |
 | Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express             | 2        | 3.7%    |
@@ -1872,7 +1857,7 @@ Wireless models
 |---------------------------------------------------------------------|----------|---------|
 | Ralink MT7601U Wireless Adapter                                     | 3        | 23.08%  |
 | Qualcomm Atheros AR9271 802.11n                                     | 3        | 23.08%  |
-| TP-Link TL-WN722N v2                                                | 2        | 15.38%  |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                        | 2        | 15.38%  |
 | Realtek 802.11ac NIC                                                | 1        | 7.69%   |
 | Ralink RT2561/RT61 802.11g PCI                                      | 1        | 7.69%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1        | 7.69%   |
@@ -2086,10 +2071,6 @@ Sound card models
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 1.52%   |
 | AMD Family 17h/19h HD Audio Controller                                     | 1        | 1.52%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 1        | 1.52%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                           | 1        | 1.52%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 1.52%   |
-| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                 | 1        | 1.52%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 1        | 1.52%   |
 
 Memory
 ------
@@ -2134,10 +2115,10 @@ Memory module models
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s                    | 1        | 4.55%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s                       | 1        | 4.55%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                     | 1        | 4.55%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM 1866MT/s                     | 1        | 4.55%   |
+| Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s                   | 1        | 4.55%   |
 | Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 4.55%   |
 | Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 4.55%   |
-| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 4.55%   |
+| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s                | 1        | 4.55%   |
 | Kingston RAM 393955353432392D3030372E4130304C4600 2GB DIMM DDR2 800MT/s | 1        | 4.55%   |
 | Corsair RAM CMK16GX4M2B2800C14 8GB DIMM DDR4 2800MT/s                   | 1        | 4.55%   |
 

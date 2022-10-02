@@ -554,20 +554,6 @@ Motherboard model
 | Dell XPS 15 7590                      | 1         | 1.72%   |
 | Dell Precision WorkStation T5500      | 1         | 1.72%   |
 | Dell OptiPlex 755                     | 1         | 1.72%   |
-| Dell OptiPlex 3040                    | 1         | 1.72%   |
-| Dell Latitude E6430                   | 1         | 1.72%   |
-| Dell Latitude E6400                   | 1         | 1.72%   |
-| Dell Latitude E5420                   | 1         | 1.72%   |
-| Dell Inspiron 3646                    | 1         | 1.72%   |
-| Chuwi UBook Pro                       | 1         | 1.72%   |
-| ASUS P5GD1                            | 1         | 1.72%   |
-| ASUS P5B-PLUS Series                  | 1         | 1.72%   |
-| ASUS E200HA                           | 1         | 1.72%   |
-| ASUS C8HM70-I/HDMI                    | 1         | 1.72%   |
-| Apple MacBookPro11,1                  | 1         | 1.72%   |
-| Acer Swift SF114-31                   | 1         | 1.72%   |
-| Acer Aspire ES1-411                   | 1         | 1.72%   |
-| Acer Aspire 3810T                     | 1         | 1.72%   |
 
 Model Family
 ------------
@@ -875,19 +861,6 @@ Geographic location (city)
 | Crispiano          | 1         | 1.72%   |
 | Concesio           | 1         | 1.72%   |
 | Cleveleys          | 1         | 1.72%   |
-| Chinon             | 1         | 1.72%   |
-| Cheonan            | 1         | 1.72%   |
-| Campinas           | 1         | 1.72%   |
-| Camillus           | 1         | 1.72%   |
-| Buenos Aires       | 1         | 1.72%   |
-| Bogor              | 1         | 1.72%   |
-| Bleiswijk          | 1         | 1.72%   |
-| Beuningen          | 1         | 1.72%   |
-| Barcelona          | 1         | 1.72%   |
-| Bandung            | 1         | 1.72%   |
-| Bad Hall           | 1         | 1.72%   |
-| Aschaffenburg      | 1         | 1.72%   |
-| Arlington          | 1         | 1.72%   |
 
 Drives
 ------
@@ -953,7 +926,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.52%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.52%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.52%   |
-| TO Exter nal USB 3.0 240GB                   | 1         | 1.52%   |
+| TO Exter nal USB 3.0 180GB                   | 1         | 1.52%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.52%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.52%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.52%   |
@@ -974,17 +947,6 @@ Hard drive models
 | Kingston SA2000M81000G 1TB                   | 1         | 1.52%   |
 | KingSpec NT-256 256GB SSD                    | 1         | 1.52%   |
 | KingDian S200 60GB                           | 1         | 1.52%   |
-| Intel SSDSC2BB300G4 304GB                    | 1         | 1.52%   |
-| Hitachi HTS725050A9A364 500GB                | 1         | 1.52%   |
-| Hitachi HTS545032B9A300 320GB                | 1         | 1.52%   |
-| Hitachi HTS545025B9A300 250GB                | 1         | 1.52%   |
-| HGST HTS545050A7E680 500GB                   | 1         | 1.52%   |
-| HGST HTS545050A7E660 500GB                   | 1         | 1.52%   |
-| Fujitsu MHZ2080BH G1 80GB                    | 1         | 1.52%   |
-| Fujitsu MHW2120BH 120GB                      | 1         | 1.52%   |
-| Crucial M4-CT128M4SSD2 128GB                 | 1         | 1.52%   |
-| Crucial CT256MX100SSD1 256GB                 | 1         | 1.52%   |
-| China MSATA 32GB SSD                         | 1         | 1.52%   |
 
 HDD Vendor
 ----------
@@ -1266,57 +1228,48 @@ Processor models
 ![CPU Model](./All/images/pie_chart/cpu_model.svg)
 
 
-| Model                                         | Computers | Percent |
-|-----------------------------------------------|-----------|---------|
-| Intel Celeron CPU N3450 @ 1.10GHz             | 4         | 6.9%    |
-| Intel Atom x5-Z8350 CPU @ 1.44GHz             | 3         | 5.17%   |
-| Intel Core 2 Duo CPU P8700 @ 2.53GHz          | 2         | 3.45%   |
-| Intel Core 2 Duo CPU P8400 @ 2.26GHz          | 2         | 3.45%   |
-| Intel Celeron CPU N3050 @ 1.60GHz             | 2         | 3.45%   |
-| Intel Atom x5-Z8300 CPU @ 1.44GHz             | 2         | 3.45%   |
-| Intel Xeon CPU X5687 @ 3.60GHz                | 1         | 1.72%   |
-| Intel Pentium Dual-Core CPU T4500 @ 2.30GHz   | 1         | 1.72%   |
-| Intel Pentium Dual-Core CPU T4300 @ 2.10GHz   | 1         | 1.72%   |
-| Intel Pentium Dual CPU E2200 @ 2.20GHz        | 1         | 1.72%   |
-| Intel Pentium CPU N3710 @ 1.60GHz             | 1         | 1.72%   |
-| Intel Pentium CPU N3540 @ 2.16GHz             | 1         | 1.72%   |
-| Intel Pentium CPU J2900 @ 2.41GHz             | 1         | 1.72%   |
-| Intel Pentium 4 CPU 3.00GHz                   | 1         | 1.72%   |
-| Intel Genuine CPU U4100 @ 1.30GHz             | 1         | 1.72%   |
-| Intel Genuine CPU 575 @ 2.00GHz               | 1         | 1.72%   |
-| Intel Core m3-8100Y CPU @ 1.10GHz             | 1         | 1.72%   |
-| Intel Core i7-9750H CPU @ 2.60GHz             | 1         | 1.72%   |
-| Intel Core i7-2630QM CPU @ 2.00GHz            | 1         | 1.72%   |
-| Intel Core i5-9300H CPU @ 2.40GHz             | 1         | 1.72%   |
-| Intel Core i5-7Y57 CPU @ 1.20GHz              | 1         | 1.72%   |
-| Intel Core i5-6500 CPU @ 3.20GHz              | 1         | 1.72%   |
-| Intel Core i5-4258U CPU @ 2.40GHz             | 1         | 1.72%   |
-| Intel Core i5-3340M CPU @ 2.70GHz             | 1         | 1.72%   |
-| Intel Core i5-2520M CPU @ 2.50GHz             | 1         | 1.72%   |
-| Intel Core i5-2410M CPU @ 2.30GHz             | 1         | 1.72%   |
-| Intel Core i3-8145U CPU @ 2.10GHz             | 1         | 1.72%   |
-| Intel Core i3-5005U CPU @ 2.00GHz             | 1         | 1.72%   |
-| Intel Core i3-3220 CPU @ 3.30GHz              | 1         | 1.72%   |
-| Intel Core i3-3110M CPU @ 2.40GHz             | 1         | 1.72%   |
-| Intel Core i3-2310M CPU @ 2.10GHz             | 1         | 1.72%   |
-| Intel Core 2 Quad CPU Q6600 @ 2.40GHz         | 1         | 1.72%   |
-| Intel Core 2 Duo CPU U9400 @ 1.40GHz          | 1         | 1.72%   |
-| Intel Core 2 Duo CPU T9400 @ 2.53GHz          | 1         | 1.72%   |
-| Intel Core 2 Duo CPU T7100 @ 1.80GHz          | 1         | 1.72%   |
-| Intel Core 2 Duo CPU T6400 @ 2.00GHz          | 1         | 1.72%   |
-| Intel Core 2 Duo CPU E8500 @ 3.16GHz          | 1         | 1.72%   |
-| Intel Core 2 Duo CPU E6850 @ 3.00GHz          | 1         | 1.72%   |
-| Intel Core 2 Duo CPU E4600 @ 2.40GHz          | 1         | 1.72%   |
-| Intel Celeron CPU N2820 @ 2.13GHz             | 1         | 1.72%   |
-| Intel Celeron CPU 847 @ 1.10GHz               | 1         | 1.72%   |
-| Intel Celeron CPU 1007U @ 1.50GHz             | 1         | 1.72%   |
-| Intel Celeron 2957U @ 1.40GHz                 | 1         | 1.72%   |
-| Intel Celeron 2955U @ 1.40GHz                 | 1         | 1.72%   |
-| Intel Atom CPU Z3735F @ 1.33GHz               | 1         | 1.72%   |
-| AMD E-450 APU with Radeon HD Graphics         | 1         | 1.72%   |
-| AMD Athlon II P340 Dual-Core Processor        | 1         | 1.72%   |
-| AMD A6-7400K Radeon R5, 6 Compute Cores 2C+4G | 1         | 1.72%   |
-| AMD A4-9120C RADEON R4, 5 COMPUTE CORES 2C+3G | 1         | 1.72%   |
+| Model                                       | Computers | Percent |
+|---------------------------------------------|-----------|---------|
+| Intel Celeron CPU N3450 @ 1.10GHz           | 4         | 6.9%    |
+| Intel Atom x5-Z8350 CPU @ 1.44GHz           | 3         | 5.17%   |
+| Intel Core 2 Duo CPU P8700 @ 2.53GHz        | 2         | 3.45%   |
+| Intel Core 2 Duo CPU P8400 @ 2.26GHz        | 2         | 3.45%   |
+| Intel Celeron CPU N3050 @ 1.60GHz           | 2         | 3.45%   |
+| Intel Atom x5-Z8300 CPU @ 1.44GHz           | 2         | 3.45%   |
+| Intel Xeon CPU X5687 @ 3.60GHz              | 1         | 1.72%   |
+| Intel Pentium Dual-Core CPU T4500 @ 2.30GHz | 1         | 1.72%   |
+| Intel Pentium Dual-Core CPU T4300 @ 2.10GHz | 1         | 1.72%   |
+| Intel Pentium Dual CPU E2200 @ 2.20GHz      | 1         | 1.72%   |
+| Intel Pentium CPU N3710 @ 1.60GHz           | 1         | 1.72%   |
+| Intel Pentium CPU N3540 @ 2.16GHz           | 1         | 1.72%   |
+| Intel Pentium CPU J2900 @ 2.41GHz           | 1         | 1.72%   |
+| Intel Pentium 4 CPU 3.00GHz                 | 1         | 1.72%   |
+| Intel Genuine CPU U4100 @ 1.30GHz           | 1         | 1.72%   |
+| Intel Genuine CPU 575 @ 2.00GHz             | 1         | 1.72%   |
+| Intel Core m3-8100Y CPU @ 1.10GHz           | 1         | 1.72%   |
+| Intel Core i7-9750H CPU @ 2.60GHz           | 1         | 1.72%   |
+| Intel Core i7-2630QM CPU @ 2.00GHz          | 1         | 1.72%   |
+| Intel Core i5-9300H CPU @ 2.40GHz           | 1         | 1.72%   |
+| Intel Core i5-7Y57 CPU @ 1.20GHz            | 1         | 1.72%   |
+| Intel Core i5-6500 CPU @ 3.20GHz            | 1         | 1.72%   |
+| Intel Core i5-4258U CPU @ 2.40GHz           | 1         | 1.72%   |
+| Intel Core i5-3340M CPU @ 2.70GHz           | 1         | 1.72%   |
+| Intel Core i5-2520M CPU @ 2.50GHz           | 1         | 1.72%   |
+| Intel Core i5-2410M CPU @ 2.30GHz           | 1         | 1.72%   |
+| Intel Core i3-8145U CPU @ 2.10GHz           | 1         | 1.72%   |
+| Intel Core i3-5005U CPU @ 2.00GHz           | 1         | 1.72%   |
+| Intel Core i3-3220 CPU @ 3.30GHz            | 1         | 1.72%   |
+| Intel Core i3-3110M CPU @ 2.40GHz           | 1         | 1.72%   |
+| Intel Core i3-2310M CPU @ 2.10GHz           | 1         | 1.72%   |
+| Intel Core 2 Quad CPU Q6600 @ 2.40GHz       | 1         | 1.72%   |
+| Intel Core 2 Duo CPU U9400 @ 1.40GHz        | 1         | 1.72%   |
+| Intel Core 2 Duo CPU T9400 @ 2.53GHz        | 1         | 1.72%   |
+| Intel Core 2 Duo CPU T7100 @ 1.80GHz        | 1         | 1.72%   |
+| Intel Core 2 Duo CPU T6400 @ 2.00GHz        | 1         | 1.72%   |
+| Intel Core 2 Duo CPU E8500 @ 3.16GHz        | 1         | 1.72%   |
+| Intel Core 2 Duo CPU E6850 @ 3.00GHz        | 1         | 1.72%   |
+| Intel Core 2 Duo CPU E4600 @ 2.40GHz        | 1         | 1.72%   |
+| Intel Celeron CPU N2820 @ 2.13GHz           | 1         | 1.72%   |
 
 CPU Model Family
 ----------------
@@ -1615,63 +1568,48 @@ Monitor models
 ![Monitor Model](./All/images/pie_chart/mon_model.svg)
 
 
-| Model                                                                    | Computers | Percent |
-|--------------------------------------------------------------------------|-----------|---------|
-| BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                    | 3         | 5.08%   |
-| Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 3.39%   |
-| BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 3.39%   |
-| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                         | 1         | 1.69%   |
-| Sony TV SNY9C01 1920x1080                                                | 1         | 1.69%   |
-| Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch                  | 1         | 1.69%   |
-| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 1.69%   |
-| Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch     | 1         | 1.69%   |
-| Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 1.69%   |
-| OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                           | 1         | 1.69%   |
-| Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch                   | 1         | 1.69%   |
-| LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch              | 1         | 1.69%   |
-| LG Philips LCD Monitor LPL2D01 1920x1200 331x207mm 15.4-inch             | 1         | 1.69%   |
-| LG Display LCD Monitor LGD0395 1366x768 344x194mm 15.5-inch              | 1         | 1.69%   |
-| LG Display LCD Monitor LGD033E 1366x768 309x174mm 14.0-inch              | 1         | 1.69%   |
-| LG Display LCD Monitor LGD01F7 1366x768 293x165mm 13.2-inch              | 1         | 1.69%   |
-| LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch                  | 1         | 1.69%   |
-| InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 1.69%   |
-| Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 1.69%   |
-| HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 1.69%   |
-| Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                      | 1         | 1.69%   |
-| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                     | 1         | 1.69%   |
-| Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                   | 1         | 1.69%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                    | 1         | 1.69%   |
-| Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                      | 1         | 1.69%   |
-| Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                        | 1         | 1.69%   |
-| Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                       | 1         | 1.69%   |
-| Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch         | 1         | 1.69%   |
-| Chimei Innolux LCD Monitor CMN14E5 1920x1080 309x173mm 13.9-inch         | 1         | 1.69%   |
-| Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch          | 1         | 1.69%   |
-| Chimei Innolux LCD Monitor CMN1476 1366x768 309x174mm 14.0-inch          | 1         | 1.69%   |
-| Chimei Innolux LCD Monitor CMN1131 1366x768 256x144mm 11.6-inch          | 1         | 1.69%   |
-| Chimei Innolux LCD Monitor CMN1126 1920x1080 256x144mm 11.6-inch         | 1         | 1.69%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch | 1         | 1.69%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A1 1366x768 344x193mm 15.5-inch | 1         | 1.69%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1464 1366x768 309x174mm 14.0-inch | 1         | 1.69%   |
-| BOE LCD Monitor BOE06DC 1920x1280 259x173mm 12.3-inch                    | 1         | 1.69%   |
-| BOE LCD Monitor BOE061D 1366x768 309x173mm 13.9-inch                     | 1         | 1.69%   |
-| BenQ GL2450H BNQ78A6 1920x1080 531x298mm 24.0-inch                       | 1         | 1.69%   |
-| AU Optronics LCD Monitor AUO6024 1280x800 286x178mm 13.3-inch            | 1         | 1.69%   |
-| AU Optronics LCD Monitor AUO323C 1366x768 309x173mm 13.9-inch            | 1         | 1.69%   |
-| AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 1.69%   |
-| AU Optronics LCD Monitor AUO225C 1366x768 256x144mm 11.6-inch            | 1         | 1.69%   |
-| Apple Color LCD APPA018 2560x1600 286x179mm 13.3-inch                    | 1         | 1.69%   |
-| Apple Cinema HD Display APP9220 2560x1600 641x401mm 29.8-inch            | 1         | 1.69%   |
-| Ancor Communications VS278 ACI27A1 1920x1080 598x336mm 27.0-inch         | 1         | 1.69%   |
+| Model                                                                 | Computers | Percent |
+|-----------------------------------------------------------------------|-----------|---------|
+| BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                 | 3         | 5.08%   |
+| Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch       | 2         | 3.39%   |
+| BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                  | 2         | 3.39%   |
+| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                      | 1         | 1.69%   |
+| Sony TV SNY9C01 1920x1080                                             | 1         | 1.69%   |
+| Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch               | 1         | 1.69%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.69%   |
+| Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.69%   |
+| Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch  | 1         | 1.69%   |
+| OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                        | 1         | 1.69%   |
+| Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch                | 1         | 1.69%   |
+| LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch           | 1         | 1.69%   |
+| LG Philips LCD Monitor LPL2D01 1920x1200 331x207mm 15.4-inch          | 1         | 1.69%   |
+| LG Display LCD Monitor LGD0395 1366x768 344x194mm 15.5-inch           | 1         | 1.69%   |
+| LG Display LCD Monitor LGD033E 1366x768 309x174mm 14.0-inch           | 1         | 1.69%   |
+| LG Display LCD Monitor LGD01F7 1366x768 293x165mm 13.2-inch           | 1         | 1.69%   |
+| LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch           | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch               | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch              | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch               | 1         | 1.69%   |
+| InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.69%   |
+| Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.69%   |
+| HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.69%   |
+| Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                   | 1         | 1.69%   |
+| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                  | 1         | 1.69%   |
+| Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                | 1         | 1.69%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1         | 1.69%   |
+| Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                   | 1         | 1.69%   |
+| Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                     | 1         | 1.69%   |
+| Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                    | 1         | 1.69%   |
+| Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch      | 1         | 1.69%   |
+| Chimei Innolux LCD Monitor CMN14E5 1920x1080 309x173mm 13.9-inch      | 1         | 1.69%   |
+| Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch       | 1         | 1.69%   |
+| Chimei Innolux LCD Monitor CMN1476 1366x768 309x174mm 14.0-inch       | 1         | 1.69%   |
 
 Monitor Resolution
 ------------------
@@ -1894,17 +1832,6 @@ Controller models
 | Intel Centrino Wireless-N 2230                                          | 1         | 1.04%   |
 | Intel 82567LM-3 Gigabit Network Connection                              | 1         | 1.04%   |
 | Intel 82567LF Gigabit Network Connection                                | 1         | 1.04%   |
-| Intel 82566DM-2 Gigabit Network Connection                              | 1         | 1.04%   |
-| Ericsson Business Mobile Networks F3507g Mobile Broadband Module        | 1         | 1.04%   |
-| Dell F3507g Mobile Broadband Module                                     | 1         | 1.04%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                        | 1         | 1.04%   |
-| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe                | 1         | 1.04%   |
-| Broadcom Limited NetLink BCM5787M Gigabit Ethernet PCI Express          | 1         | 1.04%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter              | 1         | 1.04%   |
-| Broadcom BCM43228 802.11a/b/g/n                                         | 1         | 1.04%   |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                  | 1         | 1.04%   |
-| Broadcom BCM43142 802.11b/g/n                                           | 1         | 1.04%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 1         | 1.04%   |
 
 Wireless Vendor
 ---------------
@@ -2174,7 +2101,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                               | 1         | 1.56%   |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 1         | 1.56%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.56%   |
-| Generalplus Technology USB Audio Device                                                           | 1         | 1.56%   |
+| Generalplus Technology Usb Audio Device                                                           | 1         | 1.56%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.56%   |
 | AMD Kaveri HDMI/DP Audio Controller                                                               | 1         | 1.56%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                                    | 1         | 1.56%   |
@@ -2289,10 +2216,10 @@ Printer device models
 ![Printer Model](./All/images/pie_chart/printer_model.svg)
 
 
-| Model                    | Computers | Percent |
-|--------------------------|-----------|---------|
-| Seiko Epson L3150 Series | 1         | 50%     |
-| HP LaserJet 1012         | 1         | 50%     |
+| Model                      | Computers | Percent |
+|----------------------------|-----------|---------|
+| Seiko Epson ET-2710 Series | 1         | 50%     |
+| HP LaserJet 1012           | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2356,7 +2283,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 17.65%  |
+| Alcor Micro SHUNCCM2MP                                  | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |

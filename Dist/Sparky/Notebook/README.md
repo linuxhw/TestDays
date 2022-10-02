@@ -682,8 +682,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 14        | 50%     |
-| No        | 14        | 50%     |
+| No        | 15        | 55.56%  |
+| Yes       | 12        | 44.44%  |
 
 Has Ethernet
 ------------
@@ -846,7 +846,7 @@ Hard drive models
 | Seagate ST1000LM035-1RK172 1TB           | 1         | 2.78%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB       | 1         | 2.78%   |
 | Seagate Backup+ Hub BK 8TB               | 1         | 2.78%   |
-| Seagate Backup+ Desk 5TB                 | 1         | 2.78%   |
+| Seagate Backup+ Desk 2TB                 | 1         | 2.78%   |
 | Samsung SSD 840 Series 120GB             | 1         | 2.78%   |
 | Samsung NVMe SSD Drive 256GB             | 1         | 2.78%   |
 | Samsung MZALQ512HALU-000L1 512GB         | 1         | 2.78%   |
@@ -863,7 +863,7 @@ Hard drive models
 | Fujitsu MHW2120BH 120GB                  | 1         | 2.78%   |
 | Crucial CT250MX500SSD1 250GB             | 1         | 2.78%   |
 | ASUS-JM S41 SSD 16GB                     | 1         | 2.78%   |
-| ASMedia ASMT1153e 1TB                    | 1         | 2.78%   |
+| ASMedia ASMT1153e 640GB                  | 1         | 2.78%   |
 | A-DATA SX8200NP 480GB                    | 1         | 2.78%   |
 
 HDD Vendor
@@ -1000,7 +1000,7 @@ Drive models with a malfunction
 | WDC WD3200BPVT-75ZEST0 320GB                        | 1         | 1      | 20%     |
 | Seagate ST9500325AS 500GB                           | 1         | 1      | 20%     |
 | Micron Technology MTFDDAK256MAY-1AH12ABHA 256GB SSD | 1         | 1      | 20%     |
-| ASMedia ASMT1153e 1TB                               | 1         | 1      | 20%     |
+| ASMedia ASMT1153e 640GB                             | 1         | 1      | 20%     |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1452,7 +1452,7 @@ Monitor models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics S24D330 SAM0D93 1920x1080 531x299mm 24.0-inch    | 1         | 3.7%    |
+| Samsung Electronics S24D330 SAM0D93 1920x1080 530x300mm 24.0-inch    | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC4F45 1280x800 331x207mm 15.4-inch | 1         | 3.7%    |
 | Samsung Electronics LCD Monitor SEC4141 1366x768 344x193mm 15.5-inch | 1         | 3.7%    |
 | LG Philips LCD Monitor LPLA002 1440x900 367x230mm 17.1-inch          | 1         | 3.7%    |
@@ -1462,9 +1462,9 @@ Monitor models
 | LG Display LCD Monitor LGD02E1 1600x900 382x215mm 17.3-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0266 1366x768 344x194mm 15.5-inch          | 1         | 3.7%    |
 | LG Display LCD Monitor LGD01C5 1366x768 293x165mm 13.2-inch          | 1         | 3.7%    |
-| Lenovo LCD Monitor LEN4033 1440x900 304x190mm 14.1-inch              | 1         | 3.7%    |
+| Lenovo LCD Monitor LEN4033 1440x900 303x190mm 14.1-inch              | 1         | 3.7%    |
 | Lenovo LCD Monitor LEN4022 1400x1050 286x214mm 14.1-inch             | 1         | 3.7%    |
-| Insignia NS28ED200NA14 BBY0032 1680x1050 640x384mm 29.4-inch         | 1         | 3.7%    |
+| Insignia NS19ED200NA14 BBY0032 1680x1050 640x384mm 29.4-inch         | 1         | 3.7%    |
 | Hitachi HDMI HEC0088 1920x540                                        | 1         | 3.7%    |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch            | 1         | 3.7%    |
 | CPT LCD Monitor CPT04CE 1024x600 222x130mm 10.1-inch                 | 1         | 3.7%    |
@@ -1475,7 +1475,7 @@ Monitor models
 | BOE LCD Monitor BOE0878 1920x1080 355x200mm 16.0-inch                | 1         | 3.7%    |
 | BOE LCD Monitor BOE085E 1920x1080 344x194mm 15.5-inch                | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO312C 1366x768 293x164mm 13.2-inch        | 1         | 3.7%    |
-| AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch       | 1         | 3.7%    |
+| AU Optronics LCD Monitor AUO219D 1920x1080 380x210mm 17.1-inch       | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO109D 1920x1080 381x214mm 17.2-inch       | 1         | 3.7%    |
 | Apple Color LCD APP9C5E 1280x800 286x178mm 13.3-inch                 | 1         | 3.7%    |
@@ -1939,7 +1939,7 @@ Memory module vendors
 | Micron Technology   | 3         | 14.29%  |
 | Nanya Technology    | 2         | 9.52%   |
 | Kingston            | 1         | 4.76%   |
-| Goodram             | 1         | 4.76%   |
+| GOODRAM             | 1         | 4.76%   |
 | G.Skill             | 1         | 4.76%   |
 | Corsair             | 1         | 4.76%   |
 
@@ -1959,11 +1959,11 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM 800MT/s                   | 1         | 4.35%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s               | 1         | 4.35%   |
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s    | 1         | 4.35%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4.35%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s  | 1         | 4.35%   |
 | Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 4.35%   |
-| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s   | 1         | 4.35%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s      | 1         | 4.35%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s      | 1         | 4.35%   |
-| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s      | 1         | 4.35%   |
+| Samsung RAM M471B5674QH0-YK0 2048MB SODIMM DDR3 1600MT/s   | 1         | 4.35%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4.35%   |
 | Samsung RAM M471B2873FHS-CH9 1GB SODIMM DDR3 1334MT/s      | 1         | 4.35%   |
 | Samsung RAM K4E8E324EB-EGCF 2GB LPDDR3 1867MT/s            | 1         | 4.35%   |
@@ -1973,7 +1973,7 @@ Memory module models
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s      | 1         | 4.35%   |
 | Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s  | 1         | 4.35%   |
 | Kingston RAM ACR128X64D3S1333C9 1GB SODIMM DDR3 1333MT/s   | 1         | 4.35%   |
-| Goodram RAM GR1600S3V64L11/8G 8GB SODIMM DDR3 1600MT/s     | 1         | 4.35%   |
+| GOODRAM RAM GR1600S3V64L11/8G 8GB SODIMM DDR3 1600MT/s     | 1         | 4.35%   |
 | G.Skill RAM F4-2400C16-16GRS 16GB SODIMM DDR4 2667MT/s     | 1         | 4.35%   |
 | Corsair RAM CMSA4GX3M1A1333C9 4GB SODIMM DDR3 1333MT/s     | 1         | 4.35%   |
 
@@ -2203,8 +2203,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 16        | 59.26%  |
-| 1     | 8         | 29.63%  |
+| 0     | 15        | 55.56%  |
+| 1     | 9         | 33.33%  |
 | 2     | 3         | 11.11%  |
 
 Unsupported Device Types
@@ -2217,9 +2217,9 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 6         | 42.86%  |
-| Net/wireless          | 3         | 21.43%  |
-| Multimedia controller | 2         | 14.29%  |
-| Graphics card         | 2         | 14.29%  |
-| Chipcard              | 1         | 7.14%   |
+| Fingerprint reader    | 6         | 40%     |
+| Net/wireless          | 3         | 20%     |
+| Graphics card         | 3         | 20%     |
+| Multimedia controller | 2         | 13.33%  |
+| Chipcard              | 1         | 6.67%   |
 

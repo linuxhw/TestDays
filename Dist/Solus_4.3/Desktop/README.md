@@ -630,8 +630,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 15       | 51.72%  |
-| Yes       | 14       | 48.28%  |
+| No        | 15       | 53.57%  |
+| Yes       | 13       | 46.43%  |
 
 Has Ethernet
 ------------
@@ -783,65 +783,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| Samsung SSD 850 EVO 250GB            | 3        | 4.48%   |
-| Samsung NVMe SSD Drive 500GB         | 3        | 4.48%   |
-| WDC WD10EZEX-08WN4A0 1TB             | 2        | 2.99%   |
-| WDC WD10EZEX-08M2NA0 1TB             | 2        | 2.99%   |
-| Toshiba DT01ACA050 500GB             | 2        | 2.99%   |
-| Kingston SA400S37480G 480GB SSD      | 2        | 2.99%   |
-| Kingston SA400S37240G 240GB SSD      | 2        | 2.99%   |
-| Crucial CT1000P1SSD8 1TB             | 2        | 2.99%   |
-| WDC WDS480G2G0B-00EPW0 480GB SSD     | 1        | 1.49%   |
-| WDC WD6400AAKS-75A7B2 640GB          | 1        | 1.49%   |
-| WDC WD5000AVDS-63U7B1 500GB          | 1        | 1.49%   |
-| WDC WD5000AVCS-632DY1 500GB          | 1        | 1.49%   |
-| WDC WD5000AAKX-003CA0 500GB          | 1        | 1.49%   |
-| WDC WD40EZRZ-00GXCB0 4TB             | 1        | 1.49%   |
-| WDC WD3200AAJS-00YZCA0 320GB         | 1        | 1.49%   |
-| WDC WD32 00AAJS-00L7A0 320GB         | 1        | 1.49%   |
-| WDC WD3000GLFS-01F8U0 304GB          | 1        | 1.49%   |
-| WDC WD2500HHTZ-04N21V1 250GB         | 1        | 1.49%   |
-| WDC WD2003FZEX-00Z4SA0 2TB           | 1        | 1.49%   |
-| WDC WD2003FZEX-00SRLA0 2TB           | 1        | 1.49%   |
-| WDC WD10EZRX-00L4HB0 1TB             | 1        | 1.49%   |
-| WDC WD10EADS-00P8B0 1TB              | 1        | 1.49%   |
-| WDC WD10EADS-00M2B0 1TB              | 1        | 1.49%   |
-| WDC WD1003FBYX-01Y7B0 1TB            | 1        | 1.49%   |
-| WDC WD My Passport 25F3 512GB        | 1        | 1.49%   |
-| Toshiba DT01ACA100 1TB               | 1        | 1.49%   |
-| SPCC Sol id State Disk 256GB SSD     | 1        | 1.49%   |
-| Seagate ST500DM002-1BD142 500GB      | 1        | 1.49%   |
-| Seagate ST4000DM004-2CV104 4TB       | 1        | 1.49%   |
-| Seagate ST3320418AS 320GB            | 1        | 1.49%   |
-| Seagate ST2000LM007-1R8174 2TB       | 1        | 1.49%   |
-| Seagate ST2000DM006-2DM164 2TB       | 1        | 1.49%   |
-| Seagate ST2000DM005-2CW102 2TB       | 1        | 1.49%   |
-| SanDisk SDSSDP064G 64GB              | 1        | 1.49%   |
-| SanDisk NVMe SSD Drive 250GB         | 1        | 1.49%   |
-| Samsung SSD 870 QVO 2TB              | 1        | 1.49%   |
-| Samsung SSD 860 EVO 500GB            | 1        | 1.49%   |
-| Samsung SSD 860 EVO 250GB            | 1        | 1.49%   |
-| Samsung SSD 860 EVO 1TB              | 1        | 1.49%   |
-| Samsung SSD 850 EVO 120GB            | 1        | 1.49%   |
-| Samsung SSD 840 PRO Series 256GB     | 1        | 1.49%   |
-| Samsung SSD 840 EVO 120GB            | 1        | 1.49%   |
-| Samsung MZ7LN128HCHP-000H1 128GB SSD | 1        | 1.49%   |
-| Samsung HD502HI 500GB                | 1        | 1.49%   |
-| PNY CS900 240GB SSD                  | 1        | 1.49%   |
-| PNY CS1311 120GB SSD                 | 1        | 1.49%   |
-| Phison NVMe SSD Drive 256GB          | 1        | 1.49%   |
-| Micron M600_MTFDDAK256MBFZ 256GB SSD | 1        | 1.49%   |
-| Kingston SHSS37A240G 240GB SSD       | 1        | 1.49%   |
-| Kingston NVMe SSD Drive 512GB        | 1        | 1.49%   |
-| Kingston NVMe SSD Drive 500GB        | 1        | 1.49%   |
-| Intenso External USB 3.0 2TB         | 1        | 1.49%   |
-| Hitachi HTS545032B9A300 320GB        | 1        | 1.49%   |
-| Hitachi HDS721616PLA380 160GB        | 1        | 1.49%   |
-| HFS512GD 9TNG-62A0A 8000 512GB       | 1        | 1.49%   |
-| Crucial CT1000MX500SSD1 1TB          | 1        | 1.49%   |
-| China SSD 128GB                      | 1        | 1.49%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Samsung SSD 850 EVO 250GB        | 3        | 4.48%   |
+| Samsung NVMe SSD Drive 500GB     | 3        | 4.48%   |
+| WDC WD10EZEX-08WN4A0 1TB         | 2        | 2.99%   |
+| WDC WD10EZEX-08M2NA0 1TB         | 2        | 2.99%   |
+| Toshiba DT01ACA050 500GB         | 2        | 2.99%   |
+| Kingston SA400S37480G 480GB SSD  | 2        | 2.99%   |
+| Kingston SA400S37240G 240GB SSD  | 2        | 2.99%   |
+| Crucial CT1000P1SSD8 1TB         | 2        | 2.99%   |
+| WDC WDS480G2G0B-00EPW0 480GB SSD | 1        | 1.49%   |
+| WDC WD6400AAKS-75A7B2 640GB      | 1        | 1.49%   |
+| WDC WD5000AVDS-63U7B1 500GB      | 1        | 1.49%   |
+| WDC WD5000AVCS-632DY1 500GB      | 1        | 1.49%   |
+| WDC WD5000AAKX-003CA0 500GB      | 1        | 1.49%   |
+| WDC WD40EZRZ-00GXCB0 4TB         | 1        | 1.49%   |
+| WDC WD3200AAJS-00YZCA0 320GB     | 1        | 1.49%   |
+| WDC WD32 00AAJS-00L7A0 320GB     | 1        | 1.49%   |
+| WDC WD3000GLFS-01F8U0 304GB      | 1        | 1.49%   |
+| WDC WD2500HHTZ-04N21V1 250GB     | 1        | 1.49%   |
+| WDC WD2003FZEX-00Z4SA0 2TB       | 1        | 1.49%   |
+| WDC WD2003FZEX-00SRLA0 2TB       | 1        | 1.49%   |
+| WDC WD10EZRX-00L4HB0 1TB         | 1        | 1.49%   |
+| WDC WD10EADS-00P8B0 1TB          | 1        | 1.49%   |
+| WDC WD10EADS-00M2B0 1TB          | 1        | 1.49%   |
+| WDC WD1003FBYX-01Y7B0 1TB        | 1        | 1.49%   |
+| WDC WD My Passport 25F3 512GB    | 1        | 1.49%   |
+| Toshiba DT01ACA100 1TB           | 1        | 1.49%   |
+| SPCC Sol id State Disk 256GB SSD | 1        | 1.49%   |
+| Seagate ST500DM002-1BD142 500GB  | 1        | 1.49%   |
+| Seagate ST4000DM004-2CV104 4TB   | 1        | 1.49%   |
+| Seagate ST3320418AS 320GB        | 1        | 1.49%   |
+| Seagate ST2000LM007-1R8174 2TB   | 1        | 1.49%   |
+| Seagate ST2000DM006-2DM164 2TB   | 1        | 1.49%   |
+| Seagate ST2000DM005-2CW102 2TB   | 1        | 1.49%   |
+| SanDisk SDSSDP064G 64GB          | 1        | 1.49%   |
+| SanDisk NVMe SSD Drive 250GB     | 1        | 1.49%   |
+| Samsung SSD 870 QVO 2TB          | 1        | 1.49%   |
+| Samsung SSD 860 EVO 500GB        | 1        | 1.49%   |
+| Samsung SSD 860 EVO 250GB        | 1        | 1.49%   |
+| Samsung SSD 860 EVO 1TB          | 1        | 1.49%   |
+| Samsung SSD 850 EVO 120GB        | 1        | 1.49%   |
 
 HDD Vendor
 ----------
@@ -1425,11 +1408,11 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 8.33%   |
+| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                      | 3        | 8.33%   |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1        | 2.78%   |
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1        | 2.78%   |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 2.78%   |
-| Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1        | 2.78%   |
+| Samsung Electronics S22B150 SAM08A3 1920x1080 480x270mm 21.7-inch    | 1        | 2.78%   |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1        | 2.78%   |
 | NEC Computers LCD Monitor LCD92VM 1280x1024                          | 1        | 2.78%   |
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 2.78%   |
@@ -1451,10 +1434,10 @@ Monitor models
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2.78%   |
 | ASUSTek Computer MG248 AUS24A3 1920x1080 531x299mm 24.0-inch         | 1        | 2.78%   |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2.78%   |
-| AOC G2460 AOC2460 1920x1080 531x299mm 24.0-inch                      | 1        | 2.78%   |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2.78%   |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2.78%   |
-| AOC 1970W-1 AOC1970 1366x768 410x230mm 18.5-inch                     | 1        | 2.78%   |
+| AOC 2460G5 AOC2460 1920x1080 531x299mm 24.0-inch                     | 1        | 2.78%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2.78%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 2.78%   |
 | Acer V236HL ACR0350 1920x1080 510x290mm 23.1-inch                    | 1        | 2.78%   |
 | Acer V193HQV ACR0133 1366x768 410x230mm 18.5-inch                    | 1        | 2.78%   |
@@ -1626,7 +1609,7 @@ Controller models
 |-----------------------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                       | 20       | 41.67%  |
 | Intel I211 Gigabit Network Connection                                                   | 3        | 6.25%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                      | 2        | 4.17%   |
+| Realtek 802.11ac NIC                                                                    | 2        | 4.17%   |
 | Intel Wi-Fi 6 AX200                                                                     | 2        | 4.17%   |
 | Intel Ethernet Controller I225-V                                                        | 2        | 4.17%   |
 | Intel Ethernet Connection I217-LM                                                       | 2        | 4.17%   |
@@ -1643,7 +1626,7 @@ Controller models
 | Intel Wireless-AC 9260                                                                  | 1        | 2.08%   |
 | Intel Wireless 3165                                                                     | 1        | 2.08%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 2.08%   |
-| Huawei JNY-LX1                                                                          | 1        | 2.08%   |
+| Huawei YAL-L21                                                                          | 1        | 2.08%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 2.08%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                      | 1        | 2.08%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 2.08%   |
@@ -1678,7 +1661,7 @@ Wireless models
 
 | Model                                                                                   | Desktops | Percent |
 |-----------------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL88x2bu [AC1200 Techkey]                                                      | 2        | 11.11%  |
+| Realtek 802.11ac NIC                                                                    | 2        | 11.11%  |
 | Intel Wi-Fi 6 AX200                                                                     | 2        | 11.11%  |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                         | 1        | 5.56%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                     | 1        | 5.56%   |
@@ -1727,7 +1710,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 2        | 6.67%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 3.33%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 3.33%   |
-| Huawei JNY-LX1                                                    | 1        | 3.33%   |
+| Huawei YAL-L21                                                    | 1        | 3.33%   |
 
 Net Controller Kind
 -------------------

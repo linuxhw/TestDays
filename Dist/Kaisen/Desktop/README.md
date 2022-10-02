@@ -547,8 +547,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 7        | 70%     |
-| No        | 3        | 30%     |
+| Yes       | 6        | 60%     |
+| No        | 4        | 40%     |
 
 Has Ethernet
 ------------
@@ -677,7 +677,7 @@ Hard drive models
 | Kingston SA400S37480G 480GB SSD      | 1        | 5.56%   |
 | Kingston RBUSC180DS37128GH 128GB SSD | 1        | 5.56%   |
 | China SATA SSD 256GB                 | 1        | 5.56%   |
-| ASMedia asm1153e 4TB                 | 1        | 5.56%   |
+| ASMedia ASM1153E 240GB SSD           | 1        | 5.56%   |
 | A-DATA XPG EX500 240GB SSD           | 1        | 5.56%   |
 | Unknown                              | 1        | 5.56%   |
 
@@ -691,9 +691,8 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| WDC     | 4        | 4      | 57.14%  |
-| Seagate | 2        | 2      | 28.57%  |
-| ASMedia | 1        | 1      | 14.29%  |
+| WDC     | 4        | 4      | 66.67%  |
+| Seagate | 2        | 2      | 33.33%  |
 
 SSD Vendor
 ----------
@@ -705,13 +704,14 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 2        | 2      | 20%     |
-| SanDisk             | 2        | 2      | 20%     |
-| Kingston            | 2        | 2      | 20%     |
-| Samsung Electronics | 1        | 1      | 10%     |
-| China               | 1        | 1      | 10%     |
-| A-DATA Technology   | 1        | 1      | 10%     |
-| Unknown             | 1        | 1      | 10%     |
+| WDC                 | 2        | 2      | 18.18%  |
+| SanDisk             | 2        | 2      | 18.18%  |
+| Kingston            | 2        | 2      | 18.18%  |
+| Samsung Electronics | 1        | 1      | 9.09%   |
+| China               | 1        | 1      | 9.09%   |
+| ASMedia             | 1        | 1      | 9.09%   |
+| A-DATA Technology   | 1        | 1      | 9.09%   |
+| Unknown             | 1        | 1      | 9.09%   |
 
 Drive Kind
 ----------
@@ -723,8 +723,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 8        | 10     | 61.54%  |
-| HDD  | 4        | 7      | 30.77%  |
+| SSD  | 8        | 11     | 61.54%  |
+| HDD  | 4        | 6      | 30.77%  |
 | NVMe | 1        | 1      | 7.69%   |
 
 Drive Connector
@@ -751,10 +751,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 7        | 10     | 50%     |
+| 0.01-0.5   | 8        | 11     | 57.14%  |
 | 0.51-1.0   | 3        | 3      | 21.43%  |
 | 1.01-2.0   | 2        | 2      | 14.29%  |
-| 3.01-4.0   | 1        | 1      | 7.14%   |
 | 2.01-3.0   | 1        | 1      | 7.14%   |
 
 Space Total
@@ -1546,22 +1545,22 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 1GB DIMM 400MT/s                     | 1        | 7.14%   |
-| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s            | 1        | 7.14%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 7.14%   |
-| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 7.14%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s  | 1        | 7.14%   |
-| Micron RAM 16JTF51264AZ-1G4M1 4096MB DIMM DDR3 1333MT/s | 1        | 7.14%   |
-| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s  | 1        | 7.14%   |
-| Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 7.14%   |
-| Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s    | 1        | 7.14%   |
-| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s      | 1        | 7.14%   |
-| Crucial RAM RM51264BA1339.16FR 4096MB DIMM 1333MT/s     | 1        | 7.14%   |
-| Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| A Force RAM 1GX64V160K 8GB DIMM DDR3 1600MT/s           | 1        | 7.14%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 1GB DIMM 400MT/s                    | 1        | 7.14%   |
+| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s           | 1        | 7.14%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s   | 1        | 7.14%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
+| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
+| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s   | 1        | 7.14%   |
+| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s | 1        | 7.14%   |
+| Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s  | 1        | 7.14%   |
+| Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s   | 1        | 7.14%   |
+| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s     | 1        | 7.14%   |
+| Crucial RAM RM51264BA1339.16FR 4096MB DIMM 1333MT/s    | 1        | 7.14%   |
+| Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s   | 1        | 7.14%   |
+| A Force RAM 1GX64V160K 8GB DIMM DDR3 1600MT/s          | 1        | 7.14%   |
 
 Memory Kind
 -----------

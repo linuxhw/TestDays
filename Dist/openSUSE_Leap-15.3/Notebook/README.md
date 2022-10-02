@@ -509,63 +509,48 @@ Motherboard model
 ![Model](./images/pie_chart/node_model.svg)
 
 
-| Name                                        | Notebooks | Percent |
-|---------------------------------------------|-----------|---------|
-| TUXEDO Pulse 15 Gen1                        | 2         | 3.57%   |
-| TUXEDO Aura 15 Gen1                         | 1         | 1.79%   |
-| Sony VPCSB15GB                              | 1         | 1.79%   |
-| Sony VGN-Z570AN                             | 1         | 1.79%   |
-| Semp Toshiba AS 1301                        | 1         | 1.79%   |
-| Samsung 600B4B/600B5B                       | 1         | 1.79%   |
-| MSI Modern 15 A4M                           | 1         | 1.79%   |
-| MSI GS60 6QE                                | 1         | 1.79%   |
-| MSI GP63 Leopard 8RD                        | 1         | 1.79%   |
-| MSI CX600                                   | 1         | 1.79%   |
-| Medion E6436 MD61150                        | 1         | 1.79%   |
-| Lenovo V330-15IKB 81AX                      | 1         | 1.79%   |
-| Lenovo ThinkPad X1 Carbon Gen 9 20XW00A7TH  | 1         | 1.79%   |
-| Lenovo ThinkPad X1 Carbon 4th 20FB002UMC    | 1         | 1.79%   |
-| Lenovo ThinkPad T61 8895W9U                 | 1         | 1.79%   |
-| Lenovo ThinkPad T490s 20NYS1XK00            | 1         | 1.79%   |
-| Lenovo ThinkPad T470 20HES1RB06             | 1         | 1.79%   |
-| Lenovo ThinkPad T460 20FMS75800             | 1         | 1.79%   |
-| Lenovo ThinkPad T450s 20BWA06J00            | 1         | 1.79%   |
-| Lenovo ThinkPad T450 20BUS0EW1F             | 1         | 1.79%   |
-| Lenovo ThinkPad T14 Gen 1 20UES47F00        | 1         | 1.79%   |
-| Lenovo ThinkPad L15 Gen 1 20U4S88000        | 1         | 1.79%   |
-| Lenovo ThinkPad E580 20KS001RGE             | 1         | 1.79%   |
-| Lenovo IdeaPad 330-15IKB 81DC               | 1         | 1.79%   |
-| Lenovo G500 20236                           | 1         | 1.79%   |
-| Lenovo G50-45 80E3                          | 1         | 1.79%   |
-| HUAWEI KLVL-WXX9                            | 1         | 1.79%   |
-| HP ZBook 17 G2                              | 1         | 1.79%   |
-| HP Stream Notebook PC 11                    | 1         | 1.79%   |
-| HP Pavilion dx6500                          | 1         | 1.79%   |
-| HP OMEN by Laptop 15-dc1xxx                 | 1         | 1.79%   |
-| HP Notebook                                 | 1         | 1.79%   |
-| HP Laptop 17-ca1xxx                         | 1         | 1.79%   |
-| HP Laptop 15s-eq0xxx                        | 1         | 1.79%   |
-| Fujitsu LIFEBOOK S762                       | 1         | 1.79%   |
-| Fujitsu LIFEBOOK E754                       | 1         | 1.79%   |
-| Dell XPS 15 9510                            | 1         | 1.79%   |
-| Dell System Inspiron N7110                  | 1         | 1.79%   |
-| Dell Precision M6700                        | 1         | 1.79%   |
-| Dell Latitude E7470                         | 1         | 1.79%   |
-| Dell Latitude 5480                          | 1         | 1.79%   |
-| Dell Inspiron N4030                         | 1         | 1.79%   |
-| Dell Inspiron 7460                          | 1         | 1.79%   |
-| Dell Inspiron 3521                          | 1         | 1.79%   |
-| Dell Inspiron 15 7000 Gaming                | 1         | 1.79%   |
-| ASUS ZenBook UX325SA_UM325SA                | 1         | 1.79%   |
-| ASUS VivoBook 12_ASUS Laptop E203MAS_E203MA | 1         | 1.79%   |
-| ASUS G771JW                                 | 1         | 1.79%   |
-| Acer Nitro AN515-54                         | 1         | 1.79%   |
-| Acer Nitro AN515-52                         | 1         | 1.79%   |
-| Acer Aspire VN7-792G                        | 1         | 1.79%   |
-| Acer Aspire E1-772G                         | 1         | 1.79%   |
-| Acer Aspire E1-571                          | 1         | 1.79%   |
-| Acer Aspire 5820TG                          | 1         | 1.79%   |
-| Acer Aspire 5560                            | 1         | 1.79%   |
+| Name                                       | Notebooks | Percent |
+|--------------------------------------------|-----------|---------|
+| TUXEDO Pulse 15 Gen1                       | 2         | 3.57%   |
+| TUXEDO Aura 15 Gen1                        | 1         | 1.79%   |
+| Sony VPCSB15GB                             | 1         | 1.79%   |
+| Sony VGN-Z570AN                            | 1         | 1.79%   |
+| Semp Toshiba AS 1301                       | 1         | 1.79%   |
+| Samsung 600B4B/600B5B                      | 1         | 1.79%   |
+| MSI Modern 15 A4M                          | 1         | 1.79%   |
+| MSI GS60 6QE                               | 1         | 1.79%   |
+| MSI GP63 Leopard 8RD                       | 1         | 1.79%   |
+| MSI CX600                                  | 1         | 1.79%   |
+| Medion E6436 MD61150                       | 1         | 1.79%   |
+| Lenovo V330-15IKB 81AX                     | 1         | 1.79%   |
+| Lenovo ThinkPad X1 Carbon Gen 9 20XW00A7TH | 1         | 1.79%   |
+| Lenovo ThinkPad X1 Carbon 4th 20FB002UMC   | 1         | 1.79%   |
+| Lenovo ThinkPad T61 8895W9U                | 1         | 1.79%   |
+| Lenovo ThinkPad T490s 20NYS1XK00           | 1         | 1.79%   |
+| Lenovo ThinkPad T470 20HES1RB06            | 1         | 1.79%   |
+| Lenovo ThinkPad T460 20FMS75800            | 1         | 1.79%   |
+| Lenovo ThinkPad T450s 20BWA06J00           | 1         | 1.79%   |
+| Lenovo ThinkPad T450 20BUS0EW1F            | 1         | 1.79%   |
+| Lenovo ThinkPad T14 Gen 1 20UES47F00       | 1         | 1.79%   |
+| Lenovo ThinkPad L15 Gen 1 20U4S88000       | 1         | 1.79%   |
+| Lenovo ThinkPad E580 20KS001RGE            | 1         | 1.79%   |
+| Lenovo IdeaPad 330-15IKB 81DC              | 1         | 1.79%   |
+| Lenovo G500 20236                          | 1         | 1.79%   |
+| Lenovo G50-45 80E3                         | 1         | 1.79%   |
+| HUAWEI KLVL-WXX9                           | 1         | 1.79%   |
+| HP ZBook 17 G2                             | 1         | 1.79%   |
+| HP Stream Notebook PC 11                   | 1         | 1.79%   |
+| HP Pavilion dx6500                         | 1         | 1.79%   |
+| HP OMEN by Laptop 15-dc1xxx                | 1         | 1.79%   |
+| HP Notebook                                | 1         | 1.79%   |
+| HP Laptop 17-ca1xxx                        | 1         | 1.79%   |
+| HP Laptop 15s-eq0xxx                       | 1         | 1.79%   |
+| Fujitsu LIFEBOOK S762                      | 1         | 1.79%   |
+| Fujitsu LIFEBOOK E754                      | 1         | 1.79%   |
+| Dell XPS 15 9510                           | 1         | 1.79%   |
+| Dell System Inspiron N7110                 | 1         | 1.79%   |
+| Dell Precision M6700                       | 1         | 1.79%   |
+| Dell Latitude E7470                        | 1         | 1.79%   |
 
 Model Family
 ------------
@@ -734,8 +719,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 33        | 58.93%  |
-| Yes       | 23        | 41.07%  |
+| No        | 34        | 60.71%  |
+| Yes       | 22        | 39.29%  |
 
 Has Ethernet
 ------------
@@ -864,19 +849,6 @@ Geographic location (city)
 | Dunkirk             | 1         | 1.69%   |
 | Dornhan             | 1         | 1.69%   |
 | Conroe              | 1         | 1.69%   |
-| Concarneau          | 1         | 1.69%   |
-| Cologne             | 1         | 1.69%   |
-| Chapecó            | 1         | 1.69%   |
-| Budapest            | 1         | 1.69%   |
-| Bucharest           | 1         | 1.69%   |
-| Bremen              | 1         | 1.69%   |
-| Bologna             | 1         | 1.69%   |
-| Bengaluru           | 1         | 1.69%   |
-| Bebedouro           | 1         | 1.69%   |
-| Atlanta             | 1         | 1.69%   |
-| Athens              | 1         | 1.69%   |
-| Antwerp             | 1         | 1.69%   |
-| Ahmedabad           | 1         | 1.69%   |
 
 Drives
 ------
@@ -919,68 +891,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                   | Notebooks | Percent |
-|-----------------------------------------|-----------|---------|
-| SK hynix HFS128G39TND-N210A 128GB SSD   | 2         | 2.67%   |
-| Silicon Motion NVMe SSD Drive 512GB     | 2         | 2.67%   |
-| Seagate ST1000LM035-1RK172 1TB          | 2         | 2.67%   |
-| Kingston NVMe SSD Drive 500GB           | 2         | 2.67%   |
-| HGST HTS721010A9E630 1TB                | 2         | 2.67%   |
-| WDC WDS480G2G0A-00JH30 480GB SSD        | 1         | 1.33%   |
-| WDC WD800BEVS-60RST0 80GB               | 1         | 1.33%   |
-| WDC WD5000LPVX-00V0TT0 500GB            | 1         | 1.33%   |
-| WDC WD5000LPLX-66ZNTT1 500GB            | 1         | 1.33%   |
-| WDC WD5000LPCX-60VHAT0 500GB            | 1         | 1.33%   |
-| WDC WD3200BEVT-22ZCT0 320GB             | 1         | 1.33%   |
-| WDC WD10SPZX-60Z10T0 1TB                | 1         | 1.33%   |
-| WDC WD10SPZX-24Z10 1TB                  | 1         | 1.33%   |
-| WDC WD10SPZX-17Z10T0 1TB                | 1         | 1.33%   |
-| WDC PC SN730 SDBPNTY-512G-1006 512GB    | 1         | 1.33%   |
-| Unknown USD00  256GB                    | 1         | 1.33%   |
-| Unknown SC16G  16GB                     | 1         | 1.33%   |
-| Unknown DA4064  64GB                    | 1         | 1.33%   |
-| Toshiba THNSNJ256G8NU 256GB SSD         | 1         | 1.33%   |
-| Toshiba MQ04ABF100 1TB                  | 1         | 1.33%   |
-| Toshiba MQ01ABD075 752GB                | 1         | 1.33%   |
-| Toshiba MK3261GSYD 320GB                | 1         | 1.33%   |
-| SK hynix HFM512GD3JX013N 512GB          | 1         | 1.33%   |
-| SK hynix HBG4e  32GB                    | 1         | 1.33%   |
-| Seagate ST9320325AS 320GB               | 1         | 1.33%   |
-| Seagate ST500LT012-9WS142 500GB         | 1         | 1.33%   |
-| Seagate ST500LM012 HN-M500MBB 500GB     | 1         | 1.33%   |
-| Seagate ST500LM000-SSHD-8GB             | 1         | 1.33%   |
-| Seagate ST2000LM003 HN-M201RAD 2TB      | 1         | 1.33%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB      | 1         | 1.33%   |
-| SanDisk SSD U100 128GB                  | 1         | 1.33%   |
-| SanDisk SSD PLUS 1000GB                 | 1         | 1.33%   |
-| SanDisk SDSSDH3 1T00 1TB                | 1         | 1.33%   |
-| SanDisk SD9SN8W256G 256GB SSD           | 1         | 1.33%   |
-| SanDisk SD8TB8U512G1001 512GB SSD       | 1         | 1.33%   |
-| SanDisk SD6SB1M128G1022I 128GB SSD      | 1         | 1.33%   |
-| Samsung SSD 970 EVO 1TB                 | 1         | 1.33%   |
-| Samsung SSD 860 EVO 1TB                 | 1         | 1.33%   |
-| Samsung SSD 850 EVO 250GB               | 1         | 1.33%   |
-| Samsung PM9A1 NVMe 1024GB               | 1         | 1.33%   |
-| Samsung NVMe SSD Drive 500GB            | 1         | 1.33%   |
-| Samsung NVMe SSD Drive 1TB              | 1         | 1.33%   |
-| Samsung MZVLW256HEHP-000L7 256GB        | 1         | 1.33%   |
-| Samsung MZVLB512HAJQ-000H1 512GB        | 1         | 1.33%   |
-| Samsung MZVL21T0HCLR-00BL7 1TB          | 1         | 1.33%   |
-| Samsung MZNLF128HCHP-00000 128GB SSD    | 1         | 1.33%   |
-| Samsung MZALQ256HAJD-000L1 256GB        | 1         | 1.33%   |
-| Samsung MZ7LN256HCHP-000L7 256GB SSD    | 1         | 1.33%   |
-| Plextor PX-512M5Pro 512GB SSD           | 1         | 1.33%   |
-| Phison 311CD0512GB                      | 1         | 1.33%   |
-| Micron NVMe SSD Drive 512GB             | 1         | 1.33%   |
-| Micron MTFDHBA512TDV 512GB              | 1         | 1.33%   |
-| LITEON CX1-JB256-HP 256GB SSD           | 1         | 1.33%   |
-| Kingston SNA-DC/U3 240GB SSD            | 1         | 1.33%   |
-| Kingston SM2280S3G2480G 480GB SSD       | 1         | 1.33%   |
-| Kingston SA400S37480G 480GB SSD         | 1         | 1.33%   |
-| Kingston SA400S37240G 240GB SSD         | 1         | 1.33%   |
-| Kingston SA2000M81000G 1TB              | 1         | 1.33%   |
-| Kingston RBU-SNS8350DES3128GP 128GB SSD | 1         | 1.33%   |
-| Kingston RBU-SC100S37128GD 128GB SSD    | 1         | 1.33%   |
+| Model                                 | Notebooks | Percent |
+|---------------------------------------|-----------|---------|
+| SK hynix HFS128G39TND-N210A 128GB SSD | 2         | 2.67%   |
+| Silicon Motion NVMe SSD Drive 512GB   | 2         | 2.67%   |
+| Seagate ST1000LM035-1RK172 1TB        | 2         | 2.67%   |
+| Kingston NVMe SSD Drive 500GB         | 2         | 2.67%   |
+| HGST HTS721010A9E630 1TB              | 2         | 2.67%   |
+| WDC WDS480G2G0A-00JH30 480GB SSD      | 1         | 1.33%   |
+| WDC WD800BEVS-60RST0 80GB             | 1         | 1.33%   |
+| WDC WD5000LPVX-00V0TT0 500GB          | 1         | 1.33%   |
+| WDC WD5000LPLX-66ZNTT1 500GB          | 1         | 1.33%   |
+| WDC WD5000LPCX-60VHAT0 500GB          | 1         | 1.33%   |
+| WDC WD3200BEVT-22ZCT0 320GB           | 1         | 1.33%   |
+| WDC WD10SPZX-60Z10T0 1TB              | 1         | 1.33%   |
+| WDC WD10SPZX-24Z10 1TB                | 1         | 1.33%   |
+| WDC WD10SPZX-17Z10T0 1TB              | 1         | 1.33%   |
+| WDC PC SN730 SDBPNTY-512G-1006 512GB  | 1         | 1.33%   |
+| Unknown USD00  256GB                  | 1         | 1.33%   |
+| Unknown SC16G  16GB                   | 1         | 1.33%   |
+| Unknown DA4064  64GB                  | 1         | 1.33%   |
+| Toshiba THNSNJ256G8NU 256GB SSD       | 1         | 1.33%   |
+| Toshiba MQ04ABF100 1TB                | 1         | 1.33%   |
+| Toshiba MQ01ABD075 752GB              | 1         | 1.33%   |
+| Toshiba MK3261GSYD 320GB              | 1         | 1.33%   |
+| SK hynix HFM512GD3JX013N 512GB        | 1         | 1.33%   |
+| SK hynix HBG4e  32GB                  | 1         | 1.33%   |
+| Seagate ST9320325AS 320GB             | 1         | 1.33%   |
+| Seagate ST500LT012-9WS142 500GB       | 1         | 1.33%   |
+| Seagate ST500LM012 HN-M500MBB 500GB   | 1         | 1.33%   |
+| Seagate ST500LM000-SSHD-8GB           | 1         | 1.33%   |
+| Seagate ST2000LM003 HN-M201RAD 2TB    | 1         | 1.33%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB    | 1         | 1.33%   |
+| SanDisk SSD U100 128GB                | 1         | 1.33%   |
+| SanDisk SSD PLUS 1000GB               | 1         | 1.33%   |
+| SanDisk SDSSDH3 1T00 1TB              | 1         | 1.33%   |
+| SanDisk SD9SN8W256G 256GB SSD         | 1         | 1.33%   |
+| SanDisk SD8TB8U512G1001 512GB SSD     | 1         | 1.33%   |
+| SanDisk SD6SB1M128G1022I 128GB SSD    | 1         | 1.33%   |
+| Samsung SSD 970 EVO 1TB               | 1         | 1.33%   |
+| Samsung SSD 860 EVO 1TB               | 1         | 1.33%   |
+| Samsung SSD 850 EVO 250GB             | 1         | 1.33%   |
+| Samsung PM9A1 NVMe 1024GB             | 1         | 1.33%   |
 
 HDD Vendor
 ----------
@@ -1297,57 +1249,48 @@ Processor models
 ![CPU Model](./images/pie_chart/cpu_model.svg)
 
 
-| Model                                         | Notebooks | Percent |
-|-----------------------------------------------|-----------|---------|
-| Intel Core i5-7200U CPU @ 2.50GHz             | 3         | 5.36%   |
-| AMD Ryzen 7 4800H with Radeon Graphics        | 3         | 5.36%   |
-| Intel Core i7-9750H CPU @ 2.60GHz             | 2         | 3.57%   |
-| Intel Core i7-8550U CPU @ 1.80GHz             | 2         | 3.57%   |
-| Intel Core i5-2450M CPU @ 2.50GHz             | 2         | 3.57%   |
-| Intel Pentium Dual-Core CPU T4300 @ 2.10GHz   | 1         | 1.79%   |
-| Intel Core i7-8750H CPU @ 2.20GHz             | 1         | 1.79%   |
-| Intel Core i7-7700HQ CPU @ 2.80GHz            | 1         | 1.79%   |
-| Intel Core i7-6700HQ CPU @ 2.60GHz            | 1         | 1.79%   |
-| Intel Core i7-6600U CPU @ 2.60GHz             | 1         | 1.79%   |
-| Intel Core i7-5600U CPU @ 2.60GHz             | 1         | 1.79%   |
-| Intel Core i7-4810MQ CPU @ 2.80GHz            | 1         | 1.79%   |
-| Intel Core i7-4720HQ CPU @ 2.60GHz            | 1         | 1.79%   |
-| Intel Core i7-3740QM CPU @ 2.70GHz            | 1         | 1.79%   |
-| Intel Core i5-8365U CPU @ 1.60GHz             | 1         | 1.79%   |
-| Intel Core i5-8300H CPU @ 2.30GHz             | 1         | 1.79%   |
-| Intel Core i5-7300U CPU @ 2.60GHz             | 1         | 1.79%   |
-| Intel Core i5-6300U CPU @ 2.40GHz             | 1         | 1.79%   |
-| Intel Core i5-6300HQ CPU @ 2.30GHz            | 1         | 1.79%   |
-| Intel Core i5-6200U CPU @ 2.30GHz             | 1         | 1.79%   |
-| Intel Core i5-5300U CPU @ 2.30GHz             | 1         | 1.79%   |
-| Intel Core i5-4300M CPU @ 2.60GHz             | 1         | 1.79%   |
-| Intel Core i5-4200M CPU @ 2.50GHz             | 1         | 1.79%   |
-| Intel Core i5-3317U CPU @ 1.70GHz             | 1         | 1.79%   |
-| Intel Core i5-3230M CPU @ 2.60GHz             | 1         | 1.79%   |
-| Intel Core i5-2520M CPU @ 2.50GHz             | 1         | 1.79%   |
-| Intel Core i5-2410M CPU @ 2.30GHz             | 1         | 1.79%   |
-| Intel Core i5-10210U CPU @ 1.60GHz            | 1         | 1.79%   |
-| Intel Core i5 CPU M 460 @ 2.53GHz             | 1         | 1.79%   |
-| Intel Core i3-7100U CPU @ 2.40GHz             | 1         | 1.79%   |
-| Intel Core i3-6100U CPU @ 2.30GHz             | 1         | 1.79%   |
-| Intel Core i3-3110M CPU @ 2.40GHz             | 1         | 1.79%   |
-| Intel Core i3 CPU M 380 @ 2.53GHz             | 1         | 1.79%   |
-| Intel Core 2 Duo CPU T7250 @ 2.00GHz          | 1         | 1.79%   |
-| Intel Core 2 Duo CPU T5250 @ 1.50GHz          | 1         | 1.79%   |
-| Intel Core 2 Duo CPU P8600 @ 2.40GHz          | 1         | 1.79%   |
-| Intel Celeron N4000 CPU @ 1.10GHz             | 1         | 1.79%   |
-| Intel Celeron CPU N2840 @ 2.16GHz             | 1         | 1.79%   |
-| Intel 11th Gen Core i7-11800H @ 2.30GHz       | 1         | 1.79%   |
-| Intel 11th Gen Core i7-1165G7 @ 2.80GHz       | 1         | 1.79%   |
-| AMD Ryzen 7 PRO 4750U with Radeon Graphics    | 1         | 1.79%   |
-| AMD Ryzen 7 5800U with Radeon Graphics        | 1         | 1.79%   |
-| AMD Ryzen 7 4700U with Radeon Graphics        | 1         | 1.79%   |
-| AMD Ryzen 5 4500U with Radeon Graphics        | 1         | 1.79%   |
-| AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx | 1         | 1.79%   |
-| AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx | 1         | 1.79%   |
-| AMD C-50 Processor                            | 1         | 1.79%   |
-| AMD A6-6310 APU with AMD Radeon R4 Graphics   | 1         | 1.79%   |
-| AMD A6-3420M APU with Radeon HD Graphics      | 1         | 1.79%   |
+| Model                                       | Notebooks | Percent |
+|---------------------------------------------|-----------|---------|
+| Intel Core i5-7200U CPU @ 2.50GHz           | 3         | 5.36%   |
+| AMD Ryzen 7 4800H with Radeon Graphics      | 3         | 5.36%   |
+| Intel Core i7-9750H CPU @ 2.60GHz           | 2         | 3.57%   |
+| Intel Core i7-8550U CPU @ 1.80GHz           | 2         | 3.57%   |
+| Intel Core i5-2450M CPU @ 2.50GHz           | 2         | 3.57%   |
+| Intel Pentium Dual-Core CPU T4300 @ 2.10GHz | 1         | 1.79%   |
+| Intel Core i7-8750H CPU @ 2.20GHz           | 1         | 1.79%   |
+| Intel Core i7-7700HQ CPU @ 2.80GHz          | 1         | 1.79%   |
+| Intel Core i7-6700HQ CPU @ 2.60GHz          | 1         | 1.79%   |
+| Intel Core i7-6600U CPU @ 2.60GHz           | 1         | 1.79%   |
+| Intel Core i7-5600U CPU @ 2.60GHz           | 1         | 1.79%   |
+| Intel Core i7-4810MQ CPU @ 2.80GHz          | 1         | 1.79%   |
+| Intel Core i7-4720HQ CPU @ 2.60GHz          | 1         | 1.79%   |
+| Intel Core i7-3740QM CPU @ 2.70GHz          | 1         | 1.79%   |
+| Intel Core i5-8365U CPU @ 1.60GHz           | 1         | 1.79%   |
+| Intel Core i5-8300H CPU @ 2.30GHz           | 1         | 1.79%   |
+| Intel Core i5-7300U CPU @ 2.60GHz           | 1         | 1.79%   |
+| Intel Core i5-6300U CPU @ 2.40GHz           | 1         | 1.79%   |
+| Intel Core i5-6300HQ CPU @ 2.30GHz          | 1         | 1.79%   |
+| Intel Core i5-6200U CPU @ 2.30GHz           | 1         | 1.79%   |
+| Intel Core i5-5300U CPU @ 2.30GHz           | 1         | 1.79%   |
+| Intel Core i5-4300M CPU @ 2.60GHz           | 1         | 1.79%   |
+| Intel Core i5-4200M CPU @ 2.50GHz           | 1         | 1.79%   |
+| Intel Core i5-3317U CPU @ 1.70GHz           | 1         | 1.79%   |
+| Intel Core i5-3230M CPU @ 2.60GHz           | 1         | 1.79%   |
+| Intel Core i5-2520M CPU @ 2.50GHz           | 1         | 1.79%   |
+| Intel Core i5-2410M CPU @ 2.30GHz           | 1         | 1.79%   |
+| Intel Core i5-10210U CPU @ 1.60GHz          | 1         | 1.79%   |
+| Intel Core i5 CPU M 460 @ 2.53GHz           | 1         | 1.79%   |
+| Intel Core i3-7100U CPU @ 2.40GHz           | 1         | 1.79%   |
+| Intel Core i3-6100U CPU @ 2.30GHz           | 1         | 1.79%   |
+| Intel Core i3-3110M CPU @ 2.40GHz           | 1         | 1.79%   |
+| Intel Core i3 CPU M 380 @ 2.53GHz           | 1         | 1.79%   |
+| Intel Core 2 Duo CPU T7250 @ 2.00GHz        | 1         | 1.79%   |
+| Intel Core 2 Duo CPU T5250 @ 1.50GHz        | 1         | 1.79%   |
+| Intel Core 2 Duo CPU P8600 @ 2.40GHz        | 1         | 1.79%   |
+| Intel Celeron N4000 CPU @ 1.10GHz           | 1         | 1.79%   |
+| Intel Celeron CPU N2840 @ 2.16GHz           | 1         | 1.79%   |
+| Intel 11th Gen Core i7-11800H @ 2.30GHz     | 1         | 1.79%   |
+| Intel 11th Gen Core i7-1165G7 @ 2.80GHz     | 1         | 1.79%   |
 
 CPU Model Family
 ----------------
@@ -1556,11 +1499,6 @@ Graphics card models
 | AMD Sun PRO [Radeon HD 8570A/8570M]                                                   | 1         | 1.28%   |
 | AMD Sumo [Radeon HD 6520G]                                                            | 1         | 1.28%   |
 | AMD Seymour [Radeon HD 6400M/7400M Series]                                            | 1         | 1.28%   |
-| AMD RV710/M92 [Mobility Radeon HD 4330/4350/4550]                                     | 1         | 1.28%   |
-| AMD Mullins [Radeon R4/R5 Graphics]                                                   | 1         | 1.28%   |
-| AMD Madison [Mobility Radeon HD 5650/5750 / 6530M/6550M]                              | 1         | 1.28%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                            | 1         | 1.28%   |
-| AMD Cezanne                                                                           | 1         | 1.28%   |
 
 GPU Combo
 ---------
@@ -1648,68 +1586,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Notebooks | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 2         | 2.99%   |
-| Hewlett-Packard LV1911 HWP3005 1366x768 410x230mm 18.5-inch           | 2         | 2.99%   |
-| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch               | 2         | 2.99%   |
-| BOE LCD Monitor BOE0900 1920x1080 344x194mm 15.5-inch                 | 2         | 2.99%   |
-| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                         | 1         | 1.49%   |
-| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch               | 1         | 1.49%   |
-| Sceptre Tech Sceptre E19 SPT07A8 1366x768 575x323mm 26.0-inch         | 1         | 1.49%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch     | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SEC3449 1366x768 309x174mm 14.0-inch  | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch  | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SDC424B 3840x2160 344x194mm 15.5-inch | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SDC324E 1600x900 309x174mm 14.0-inch  | 1         | 1.49%   |
-| Samsung Electronics LCD Monitor SAM7016 3840x2160 950x540mm 43.0-inch | 1         | 1.49%   |
-| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch               | 1         | 1.49%   |
-| LG Philips LCD Monitor LPLDB00 1280x800 331x207mm 15.4-inch           | 1         | 1.49%   |
-| LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD05D8 1920x1080 344x194mm 15.5-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD059E 1920x1080 382x215mm 17.3-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD0533 1920x1080 344x194mm 15.5-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD04A9 1920x1080 309x174mm 14.0-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD0490 1920x1080 309x174mm 14.0-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD046C 1920x1080 380x210mm 17.1-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch          | 1         | 1.49%   |
-| LG Display LCD Monitor LGD01DA 1366x768 294x166mm 13.3-inch           | 1         | 1.49%   |
-| Lenovo LEN P27q-10 LEN61A8 2560x1440 597x336mm 27.0-inch              | 1         | 1.49%   |
-| Lenovo LCD Monitor LEN4020 1024x768 287x215mm 14.1-inch               | 1         | 1.49%   |
-| InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch           | 1         | 1.49%   |
-| Iiyama PL2492H IVM612F 1920x1080 527x296mm 23.8-inch                  | 1         | 1.49%   |
-| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                | 1         | 1.49%   |
-| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch              | 1         | 1.49%   |
-| Dell U2410 DELF017 1920x1200 518x324mm 24.1-inch                      | 1         | 1.49%   |
-| CSO LCD Monitor CSO1404 1920x1200 302x189mm 14.0-inch                 | 1         | 1.49%   |
-| CPT LCD Monitor CPT17D8 1366x768 293x165mm 13.2-inch                  | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch      | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN15F6 1920x1080 344x193mm 15.5-inch      | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN15F4 1920x1080 344x193mm 15.5-inch      | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch       | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch       | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN15D5 1920x1080 344x193mm 15.5-inch      | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN15B7 1366x768 344x193mm 15.5-inch       | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN14F5 1920x1080 309x173mm 13.9-inch      | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch       | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch       | 1         | 1.49%   |
-| Chimei Innolux LCD Monitor CMN1136 1366x768 256x144mm 11.6-inch       | 1         | 1.49%   |
-| BOE LCD Monitor BOE0893 2160x1440 296x197mm 14.0-inch                 | 1         | 1.49%   |
-| BOE LCD Monitor BOE06FF 1920x1080 344x194mm 15.5-inch                 | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUODF87 1920x1080 344x193mm 15.5-inch        | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO40EC 1366x768 344x193mm 15.5-inch         | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO225C 1366x768 256x144mm 11.6-inch         | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch        | 1         | 1.49%   |
-| AU Optronics LCD Monitor AUO20EC 1366x768 344x193mm 15.5-inch         | 1         | 1.49%   |
+| Model                                                                   | Notebooks | Percent |
+|-------------------------------------------------------------------------|-----------|---------|
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch             | 2         | 2.99%   |
+| Hewlett-Packard LV1911 HWP3005 1366x768 410x230mm 18.5-inch             | 2         | 2.99%   |
+| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 2         | 2.99%   |
+| BOE LCD Monitor BOE0900 1920x1080 344x194mm 15.5-inch                   | 2         | 2.99%   |
+| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                           | 1         | 1.49%   |
+| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch                 | 1         | 1.49%   |
+| Sceptre Tech Sceptre E19 SPT07A8 1366x768 575x323mm 26.0-inch           | 1         | 1.49%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch       | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch    | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SEC3449 1366x768 309x174mm 14.0-inch    | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch    | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SDC424B 3840x2160 344x194mm 15.5-inch   | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SDC324E 1600x900 309x174mm 14.0-inch    | 1         | 1.49%   |
+| Samsung Electronics LCD Monitor SAM7016 3840x2160 1872x1053mm 84.6-inch | 1         | 1.49%   |
+| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 1         | 1.49%   |
+| LG Philips LCD Monitor LPLDB00 1280x800 331x207mm 15.4-inch             | 1         | 1.49%   |
+| LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD05D8 1920x1080 344x194mm 15.5-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD059E 1920x1080 382x215mm 17.3-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD0533 1920x1080 344x194mm 15.5-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD04A9 1920x1080 309x174mm 14.0-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD0490 1920x1080 309x174mm 14.0-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD046C 1920x1080 380x210mm 17.1-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch            | 1         | 1.49%   |
+| LG Display LCD Monitor LGD01DA 1366x768 294x166mm 13.3-inch             | 1         | 1.49%   |
+| Lenovo LEN P27q-10 LEN61A8 2560x1440 597x336mm 27.0-inch                | 1         | 1.49%   |
+| Lenovo LCD Monitor LEN4020 1024x768 285x214mm 14.0-inch                 | 1         | 1.49%   |
+| InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch             | 1         | 1.49%   |
+| Iiyama PL2492H IVM612F 1920x1080 527x296mm 23.8-inch                    | 1         | 1.49%   |
+| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                  | 1         | 1.49%   |
+| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch                | 1         | 1.49%   |
+| Dell U2410 DELF017 1920x1200 518x324mm 24.1-inch                        | 1         | 1.49%   |
+| CSO LCD Monitor CSO1404 1920x1200 302x189mm 14.0-inch                   | 1         | 1.49%   |
+| CPT LCD Monitor CPT17D8 1366x768 293x165mm 13.2-inch                    | 1         | 1.49%   |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch        | 1         | 1.49%   |
+| Chimei Innolux LCD Monitor CMN15F6 1920x1080 344x193mm 15.5-inch        | 1         | 1.49%   |
 
 Monitor Resolution
 ------------------
@@ -1905,7 +1823,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 1.79%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 1.79%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 0.89%   |
-| Sierra Wireless MC8305                                            | 1         | 0.89%   |
+| Sierra Wireless MC8305 Modem                                      | 1         | 0.89%   |
 | Samsung Kiera                                                     | 1         | 0.89%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                       | 1         | 0.89%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 0.89%   |
@@ -1923,26 +1841,6 @@ Controller models
 | Intel Tiger Lake PCH CNVi WiFi                                    | 1         | 0.89%   |
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection     | 1         | 0.89%   |
 | Intel PRO/Wireless 3945ABG [Golan] Network Connection             | 1         | 0.89%   |
-| Intel Gemini Lake PCH CNVi WiFi                                   | 1         | 0.89%   |
-| Intel Ethernet Connection I219-V                                  | 1         | 0.89%   |
-| Intel Ethernet Connection I217-V                                  | 1         | 0.89%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 0.89%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 0.89%   |
-| Intel Ethernet Connection (10) I219-V                             | 1         | 0.89%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 0.89%   |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                     | 1         | 0.89%   |
-| Intel Centrino Wireless-N 1000 [Condor Peak]                      | 1         | 0.89%   |
-| Intel Centrino Advanced-N 6230 [Rainbow Peak]                     | 1         | 0.89%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 1         | 0.89%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 1         | 0.89%   |
-| Intel 82579V Gigabit Network Connection                           | 1         | 0.89%   |
-| Intel 82567LM Gigabit Network Connection                          | 1         | 0.89%   |
-| Intel 82566MM Gigabit Network Connection                          | 1         | 0.89%   |
-| DisplayLink ThinkPad USB 3.0 Dock                                 | 1         | 0.89%   |
-| Dell DW5811e Snapdragonâ¢ X7 LTE                              | 1         | 0.89%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 0.89%   |
-| Broadcom Limited NetLink BCM57785 Gigabit Ethernet PCIe           | 1         | 0.89%   |
-| Broadcom Limited NetLink BCM57780 Gigabit Ethernet PCIe           | 1         | 0.89%   |
 
 Wireless Vendor
 ---------------
@@ -1986,7 +1884,7 @@ Wireless models
 | Intel Wireless 7260                                           | 2         | 3.45%   |
 | Intel Cannon Lake PCH CNVi WiFi                               | 2         | 3.45%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter           | 2         | 3.45%   |
-| Sierra Wireless MC8305                                        | 1         | 1.72%   |
+| Sierra Wireless MC8305 Modem                                  | 1         | 1.72%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                   | 1         | 1.72%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                     | 1         | 1.72%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter    | 1         | 1.72%   |
@@ -2289,7 +2187,7 @@ Memory module models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 4.55%   |
+| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s    | 2         | 4.55%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s       | 2         | 4.55%   |
 | Unknown RAM Module 4GB SODIMM DDR2 667MT/s                  | 1         | 2.27%   |
 | Unknown RAM Module 4096MB SODIMM DDR3                       | 1         | 2.27%   |
@@ -2297,18 +2195,18 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM 1067MT/s                   | 1         | 2.27%   |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                  | 1         | 2.27%   |
 | Unknown RAM Module 1024MB SODIMM 1067MT/s                   | 1         | 2.27%   |
-| Smart RAM SH564568FH8NWPHSFG 2048MB SODIMM DDR3 1333MT/s    | 1         | 2.27%   |
+| Smart RAM SH564568FH8NWPHSFG 2GB SODIMM DDR3 1333MT/s       | 1         | 2.27%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 2.27%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM SDRAM 2048MT/s     | 1         | 2.27%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s      | 1         | 2.27%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 2.27%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s      | 1         | 2.27%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s   | 1         | 2.27%   |
 | SK hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s     | 1         | 2.27%   |
-| SK hynix RAM HMA851S6JJR6N-VK 4096MB SODIMM DDR4 2667MT/s   | 1         | 2.27%   |
+| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s     | 1         | 2.27%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
-| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s      | 1         | 2.27%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.27%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4096MB SODIMM DDR4 2133MT/s   | 1         | 2.27%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
 | SK hynix RAM H9HCNNNCPMMLXR-NEE 8GB SODIMM LPDDR4 4266MT/s  | 1         | 2.27%   |
 | Samsung RAM M471B5673EH1-CH9 2GB SODIMM DDR3 1334MT/s       | 1         | 2.27%   |
@@ -2318,10 +2216,10 @@ Memory module models
 | Samsung RAM M471A2G43BB2-CWE 16GB SODIMM DDR4 3200MT/s      | 1         | 2.27%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s       | 1         | 2.27%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s | 1         | 2.27%   |
-| Samsung RAM K4F6E3S4HM-MGCJ 4096MB SODIMM LPDDR4 3733MT/s   | 1         | 2.27%   |
+| Samsung RAM K4F6E3S4HM-MGCJ 4GB SODIMM LPDDR4 3733MT/s      | 1         | 2.27%   |
 | Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s      | 1         | 2.27%   |
 | Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s        | 1         | 2.27%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s  | 1         | 2.27%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s     | 1         | 2.27%   |
 | Micron RAM 8ATF51264HZ-2G1B1 8GB SODIMM DDR4 2667MT/s       | 1         | 2.27%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s        | 1         | 2.27%   |
 | Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s | 1         | 2.27%   |
@@ -2329,8 +2227,6 @@ Memory module models
 | Kingston RAM ACR16D3LS1KFG/8G 8GB SODIMM DDR3 1600MT/s      | 1         | 2.27%   |
 | Goodram RAM IR2400S464L15S/8G 8192MB SODIMM DDR4 2133MT/s   | 1         | 2.27%   |
 | Crucial RAM BLS8G4S26BFSDK.8FD 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.27%   |
-| Corsair RAM CMSX8GX4M1A2400C16 8GB SODIMM DDR4 2400MT/s     | 1         | 2.27%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2133MT/s               | 1         | 2.27%   |
 
 Memory Kind
 -----------
@@ -2374,12 +2270,12 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 16        | 38.1%   |
-| 4096  | 13        | 30.95%  |
-| 2048  | 6         | 14.29%  |
-| 16384 | 4         | 9.52%   |
-| 1024  | 2         | 4.76%   |
-| 32768 | 1         | 2.38%   |
+| 8192  | 16        | 39.02%  |
+| 4096  | 12        | 29.27%  |
+| 2048  | 6         | 14.63%  |
+| 16384 | 4         | 9.76%   |
+| 1024  | 2         | 4.88%   |
+| 32768 | 1         | 2.44%   |
 
 Memory Speed
 ------------
@@ -2507,7 +2403,7 @@ Camera device models
 | Quanta HP TrueVision HD Camera                                           | 1         | 1.89%   |
 | Quanta HD Webcam                                                         | 1         | 1.89%   |
 | Quanta HD User Facing                                                    | 1         | 1.89%   |
-| Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M    | 1         | 1.89%   |
+| Microdia Laptop_Integrated_Webcam_0.3M                                   | 1         | 1.89%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera                      | 1         | 1.89%   |
 | Lite-On Integrated Camera                                                | 1         | 1.89%   |
 | IMC Networks USB2.0 VGA UVC WebCam                                       | 1         | 1.89%   |
@@ -2526,8 +2422,6 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HD Camera                         | 1         | 1.89%   |
 | ALi Gateway Webcam                                                       | 1         | 1.89%   |
 | Acer ThinkPad P50 Integrated Camera                                      | 1         | 1.89%   |
-| Acer Integrated Camera                                                   | 1         | 1.89%   |
-| Acer BisonCam,NB Pro                                                     | 1         | 1.89%   |
 
 Security
 --------

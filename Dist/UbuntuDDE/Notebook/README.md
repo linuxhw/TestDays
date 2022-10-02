@@ -549,9 +549,6 @@ Motherboard model
 | ASUS G550JK                             | 1         | 2.33%   |
 | Acer Predator PH317-52                  | 1         | 2.33%   |
 | Acer Aspire V5-471                      | 1         | 2.33%   |
-| Acer Aspire 5750                        | 1         | 2.33%   |
-| Acer Aspire 5733                        | 1         | 2.33%   |
-| Unknown                                 | 1         | 2.33%   |
 
 Model Family
 ------------
@@ -842,9 +839,6 @@ Geographic location (city)
 | Betim                       | 1         | 2.27%   |
 | Belo Horizonte              | 1         | 2.27%   |
 | Belgrade                    | 1         | 2.27%   |
-| Alpedrete                   | 1         | 2.27%   |
-| Ain Bessem                  | 1         | 2.27%   |
-| Ahmedabad                   | 1         | 2.27%   |
 
 Drives
 ------
@@ -900,12 +894,12 @@ Hard drive models
 | WDC WD10JPLX-00MBPT0 1TB               | 1         | 1.82%   |
 | Unknown SD16G  16GB                    | 1         | 1.82%   |
 | Unknown HAG4a2  16GB                   | 1         | 1.82%   |
+| Toshiba NVMe SSD Drive 256GB           | 1         | 1.82%   |
 | Toshiba MQ04ABF100 1TB                 | 1         | 1.82%   |
 | Toshiba MQ01ABD100 1TB                 | 1         | 1.82%   |
 | Toshiba MQ01ABD075 752GB               | 1         | 1.82%   |
 | Toshiba MK7559GSXP 752GB               | 1         | 1.82%   |
 | Toshiba MK5059GSXP 500GB               | 1         | 1.82%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD    | 1         | 1.82%   |
 | SK hynix PC401 NVMe 1TB                | 1         | 1.82%   |
 | SK hynix NVMe SSD Drive 1024GB         | 1         | 1.82%   |
 | Seagate ST9500325AS 500GB              | 1         | 1.82%   |
@@ -928,17 +922,6 @@ Hard drive models
 | Kingston SA400S37120G 120GB SSD        | 1         | 1.82%   |
 | Kingston RBU-SNS8100S3128GD1 128GB SSD | 1         | 1.82%   |
 | KingSpec MSH-128 128GB SSD             | 1         | 1.82%   |
-| Intenso SATA III SSD 240GB             | 1         | 1.82%   |
-| Hitachi HTS543232A7A384 320GB          | 1         | 1.82%   |
-| HGST HTS721010A9E630 1TB               | 1         | 1.82%   |
-| HGST HTS541010B7E610 1TB               | 1         | 1.82%   |
-| Fujitsu MHZ2320BH G2 320GB             | 1         | 1.82%   |
-| Fujitsu MHZ2160BJ G2 160GB             | 1         | 1.82%   |
-| Crucial CT500P2SSD8 500GB              | 1         | 1.82%   |
-| Crucial CT240BX500SSD1 240GB           | 1         | 1.82%   |
-| Crucial CT120BX500SSD1 120GB           | 1         | 1.82%   |
-| China SATA3 512GB SSD                  | 1         | 1.82%   |
-| A-DATA SU810NS38 SATA 256 GB SSD       | 1         | 1.82%   |
 
 HDD Vendor
 ----------
@@ -1553,7 +1536,7 @@ Monitor models
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 2.04%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 2.04%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 2.04%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 2.04%   |
@@ -1563,7 +1546,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
 | Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch     | 1         | 2.04%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                   | 1         | 2.04%   |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                   | 1         | 2.04%   |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch             | 1         | 2.04%   |
 | LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch             | 1         | 2.04%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 2.04%   |
@@ -1588,14 +1571,6 @@ Monitor models
 | BOE LCD Monitor BOE05F1 1366x768 309x173mm 13.9-inch                     | 1         | 2.04%   |
 | BOE LCD Monitor BOE05DF 1366x768 290x160mm 13.0-inch                     | 1         | 2.04%   |
 | AU Optronics LCD Monitor AUO80EC 1366x768 344x193mm 15.5-inch            | 1         | 2.04%   |
-| AU Optronics LCD Monitor AUO723C 1366x768 309x173mm 13.9-inch            | 1         | 2.04%   |
-| AU Optronics LCD Monitor AUO71EC 1366x768 344x193mm 15.5-inch            | 1         | 2.04%   |
-| AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch            | 1         | 2.04%   |
-| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.04%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.04%   |
-| AU Optronics LCD Monitor AUO17ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.04%   |
-| AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch            | 1         | 2.04%   |
-| AOC 2369 AOC2369 1920x1080 509x286mm 23.0-inch                           | 1         | 2.04%   |
 
 Monitor Resolution
 ------------------
@@ -1797,16 +1772,6 @@ Controller models
 | Intel Ethernet Connection (4) I219-V                                    | 1         | 1.22%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                         | 1         | 1.22%   |
 | Intel Comet Lake PCH CNVi WiFi                                          | 1         | 1.22%   |
-| Intel Centrino Wireless-N 1000 [Condor Peak]                            | 1         | 1.22%   |
-| Intel Cannon Lake PCH CNVi WiFi                                         | 1         | 1.22%   |
-| Intel 82577LM Gigabit Network Connection                                | 1         | 1.22%   |
-| Intel 82567LM Gigabit Network Connection                                | 1         | 1.22%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                         | 1         | 1.22%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                         | 1         | 1.22%   |
-| Broadcom Limited BCM4311 802.11a/b/g                                    | 1         | 1.22%   |
-| Broadcom BCM43228 802.11a/b/g/n                                         | 1         | 1.22%   |
-| Broadcom BCM43142 802.11b/g/n                                           | 1         | 1.22%   |
-| ASUS USB-AC56 802.11a/b/g/n/ac Wireless Adapter [Realtek RTL8812AU]     | 1         | 1.22%   |
 
 Wireless Vendor
 ---------------
@@ -2115,17 +2080,17 @@ Memory module models
 |------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 2         | 8%      |
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s     | 1         | 4%      |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s  | 1         | 4%      |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Samsung RAM M471A5244BB0-CPB 4096MB SODIMM DDR4 2400MT/s   | 1         | 4%      |
+| Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s     | 1         | 4%      |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
@@ -2260,44 +2225,44 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                                 | Notebooks | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| Microdia Integrated_Webcam_HD                                         | 2         | 5.41%   |
-| Suyin WebCam                                                          | 1         | 2.7%    |
-| Suyin HP Truevision HD                                                | 1         | 2.7%    |
-| Suyin Asus Integrated Webcam                                          | 1         | 2.7%    |
-| Suyin 1.3M HD WebCam                                                  | 1         | 2.7%    |
-| Sunplus Laptop_Integrated_Webcam_HD                                   | 1         | 2.7%    |
-| Sunplus Integrated_Webcam_HD                                          | 1         | 2.7%    |
-| Sunplus HD WebCam                                                     | 1         | 2.7%    |
-| Silicon Motion HP Webcam-101 Integrated Camera                        | 1         | 2.7%    |
-| Realtek USB2.0 VGA UVC WebCam                                         | 1         | 2.7%    |
-| Realtek Laptop Camera                                                 | 1         | 2.7%    |
-| Realtek HP Truevision HD                                              | 1         | 2.7%    |
-| Quanta Laptop_Integrated_Webcam_2HDM                                  | 1         | 2.7%    |
-| Quanta HP TrueVision HD Camera                                        | 1         | 2.7%    |
-| Quanta HD Webcam                                                      | 1         | 2.7%    |
-| Microdia Sonix 1.3 MP Laptop Integrated Webcam                        | 1         | 2.7%    |
-| Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 2.7%    |
-| Microdia Integrated Webcam                                            | 1         | 2.7%    |
-| Importek HP Truevision HD Integrated Webcam                           | 1         | 2.7%    |
-| IMC Networks USB2.0 VGA UVC WebCam                                    | 1         | 2.7%    |
-| IMC Networks USB2.0 UVC HD Webcam                                     | 1         | 2.7%    |
-| IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 2.7%    |
-| Chicony USB 2.0 Camera                                                | 1         | 2.7%    |
-| Chicony TOSHIBA Web Camera - HD                                       | 1         | 2.7%    |
-| Chicony Lenovo EasyCamera                                             | 1         | 2.7%    |
-| Chicony Integrated Camera                                             | 1         | 2.7%    |
-| Chicony HP Wide Vision HD Camera                                      | 1         | 2.7%    |
-| Chicony HP Webcam [2 MP Macro]                                        | 1         | 2.7%    |
-| Chicony HP Webcam                                                     | 1         | 2.7%    |
-| Chicony HP HD Camera                                                  | 1         | 2.7%    |
-| Chicony HD WebCam                                                     | 1         | 2.7%    |
-| Chicony EasyCamera                                                    | 1         | 2.7%    |
-| Acer Integrated Camera                                                | 1         | 2.7%    |
-| Acer HP TrueVision HD                                                 | 1         | 2.7%    |
-| Acer EasyCamera                                                       | 1         | 2.7%    |
-| Acer BisonCam, NB Pro                                                 | 1         | 2.7%    |
+| Model                                          | Notebooks | Percent |
+|------------------------------------------------|-----------|---------|
+| Microdia Integrated_Webcam_HD                  | 2         | 5.41%   |
+| Suyin WebCam                                   | 1         | 2.7%    |
+| Suyin HP Truevision HD                         | 1         | 2.7%    |
+| Suyin Asus Integrated Webcam                   | 1         | 2.7%    |
+| Suyin 1.3M HD WebCam                           | 1         | 2.7%    |
+| Sunplus Laptop_Integrated_Webcam_HD            | 1         | 2.7%    |
+| Sunplus Integrated_Webcam_HD                   | 1         | 2.7%    |
+| Sunplus HD WebCam                              | 1         | 2.7%    |
+| Silicon Motion HP Webcam-101 Integrated Camera | 1         | 2.7%    |
+| Realtek USB2.0 VGA UVC WebCam                  | 1         | 2.7%    |
+| Realtek Laptop Camera                          | 1         | 2.7%    |
+| Realtek HP Truevision HD                       | 1         | 2.7%    |
+| Quanta Laptop_Integrated_Webcam_2HDM           | 1         | 2.7%    |
+| Quanta HP TrueVision HD Camera                 | 1         | 2.7%    |
+| Quanta HD Webcam                               | 1         | 2.7%    |
+| Microdia Sonix 1.3 MP Laptop Integrated Webcam | 1         | 2.7%    |
+| Microdia Laptop_Integrated_Webcam_0.3M         | 1         | 2.7%    |
+| Microdia Integrated Webcam                     | 1         | 2.7%    |
+| Importek HP Truevision HD Integrated Webcam    | 1         | 2.7%    |
+| IMC Networks USB2.0 VGA UVC WebCam             | 1         | 2.7%    |
+| IMC Networks USB2.0 UVC HD Webcam              | 1         | 2.7%    |
+| IMC Networks USB2.0 HD UVC WebCam              | 1         | 2.7%    |
+| Chicony USB 2.0 Camera                         | 1         | 2.7%    |
+| Chicony TOSHIBA Web Camera - HD                | 1         | 2.7%    |
+| Chicony Lenovo EasyCamera                      | 1         | 2.7%    |
+| Chicony Integrated Camera                      | 1         | 2.7%    |
+| Chicony HP Wide Vision HD Camera               | 1         | 2.7%    |
+| Chicony HP Webcam [2 MP Macro]                 | 1         | 2.7%    |
+| Chicony HP Webcam                              | 1         | 2.7%    |
+| Chicony HP HD Camera                           | 1         | 2.7%    |
+| Chicony HD WebCam                              | 1         | 2.7%    |
+| Chicony EasyCamera                             | 1         | 2.7%    |
+| Acer Integrated Camera                         | 1         | 2.7%    |
+| Acer HP TrueVision HD Webcam                   | 1         | 2.7%    |
+| Acer EasyCamera                                | 1         | 2.7%    |
+| Acer BisonCam, NB Pro                          | 1         | 2.7%    |
 
 Security
 --------

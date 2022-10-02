@@ -796,18 +796,6 @@ Hard drive models
 | Samsung SSD 860 EVO 500GB           | 1        | 1.82%   |
 | Samsung SSD 860 EVO 250GB           | 1        | 1.82%   |
 | Samsung SSD 850 EVO 250GB           | 1        | 1.82%   |
-| Samsung SSD 840 Series 250GB        | 1        | 1.82%   |
-| Samsung SSD 840 EVO 120GB           | 1        | 1.82%   |
-| Samsung MZVLB1T0HBLR-000L2 1TB      | 1        | 1.82%   |
-| Samsung HM500JI 500GB               | 1        | 1.82%   |
-| Samsung HD161GJ 160GB               | 1        | 1.82%   |
-| PNY CS900 120GB SSD                 | 1        | 1.82%   |
-| Plextor PX-512M6Pro 512GB SSD       | 1        | 1.82%   |
-| Kingston SA400S37480G 480GB SSD     | 1        | 1.82%   |
-| Kingston SA400S37240G 240GB SSD     | 1        | 1.82%   |
-| China SATA SSD 256GB                | 1        | 1.82%   |
-| Apacer AS340 120GB SSD              | 1        | 1.82%   |
-| A-DATA SX7000NP 128GB               | 1        | 1.82%   |
 
 HDD Vendor
 ----------
@@ -1405,10 +1393,10 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch             | 1        | 3.57%   |
 | Unknown LCD Monitor SAMSUNG 3840x1080                                 | 1        | 3.57%   |
-| Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch                      | 1        | 3.57%   |
-| Toshiba TSB-TV TSB0205 1920x1080 708x398mm 32.0-inch                  | 1        | 3.57%   |
+| Toshiba TV TSB0205 1360x765                                           | 1        | 3.57%   |
+| Toshiba TV TSB0105 1920x540 708x398mm 32.0-inch                       | 1        | 3.57%   |
 | STD LED STD0001 2560x1440 330x220mm 15.6-inch                         | 1        | 3.57%   |
-| Samsung Electronics SyncMaster SAM027E 1680x1050 470x300mm 22.0-inch  | 1        | 3.57%   |
+| Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
 | Plain Tree Systems LCD Monitor PTS0899 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1        | 3.57%   |
@@ -1601,7 +1589,7 @@ Controller models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 16       | 26.67%  |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 5        | 8.33%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)             | 3        | 5%      |
-| TP-Link TL-WN722N v2                                                    | 2        | 3.33%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 2        | 3.33%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2        | 3.33%   |
 | Intel Ethernet Connection I217-LM                                       | 2        | 3.33%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 2        | 3.33%   |
@@ -1621,13 +1609,13 @@ Controller models
 | Microsoft Xbox360 Wireless N Networking Adapter [Atheros AR7010+AR9280] | 1        | 1.67%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 1.67%   |
 | Mercucys 802.11n NIC                                                    | 1        | 1.67%   |
-| MediaTek Infinix HOT 9                                                  | 1        | 1.67%   |
+| MediaTek TECNO POVA 2                                                   | 1        | 1.67%   |
 | Intel Wi-Fi 6 AX200                                                     | 1        | 1.67%   |
 | Intel I211 Gigabit Network Connection                                   | 1        | 1.67%   |
 | Intel Ethernet Connection I217-V                                        | 1        | 1.67%   |
 | Intel 82583V Gigabit Network Connection                                 | 1        | 1.67%   |
 | Intel 82579V Gigabit Network Connection                                 | 1        | 1.67%   |
-| ICS Advent USB 10/100 LAN                                               | 1        | 1.67%   |
+| ICS Advent 10/100M LAN                                                  | 1        | 1.67%   |
 | Gemtek WUBR-177G [Ralink RT2571W]                                       | 1        | 1.67%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]    | 1        | 1.67%   |
 | Broadcom Network controller                                             | 1        | 1.67%   |
@@ -1667,7 +1655,7 @@ Wireless models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 5        | 19.23%  |
-| TP-Link TL-WN722N v2                                                    | 2        | 7.69%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 2        | 7.69%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2        | 7.69%   |
 | TP-Link Archer T4U ver.3                                                | 1        | 3.85%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                 | 1        | 3.85%   |
@@ -1723,12 +1711,12 @@ Ethernet models
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.03%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.03%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 3.03%   |
-| MediaTek Infinix HOT 9                                            | 1        | 3.03%   |
+| MediaTek TECNO POVA 2                                             | 1        | 3.03%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 3.03%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 3.03%   |
 | Intel 82583V Gigabit Network Connection                           | 1        | 3.03%   |
 | Intel 82579V Gigabit Network Connection                           | 1        | 3.03%   |
-| ICS Advent USB 10/100 LAN                                         | 1        | 3.03%   |
+| ICS Advent 10/100M LAN                                            | 1        | 3.03%   |
 
 Net Controller Kind
 -------------------
@@ -1868,7 +1856,7 @@ Sound card models
 | Intel Cannon Point-LP High Definition Audio Controller                            | 1        | 2%      |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 1        | 2%      |
 | Intel 200 Series PCH HD Audio                                                     | 1        | 2%      |
-| Generalplus Technology USB Audio Device                                           | 1        | 2%      |
+| Generalplus Technology Usb Audio Device                                           | 1        | 2%      |
 | C-Media Electronics Audio Adapter                                                 | 1        | 2%      |
 | AMD Trinity HDMI Audio Controller                                                 | 1        | 2%      |
 | AMD SBx00 Azalia (Intel HDA)                                                      | 1        | 2%      |
@@ -1921,7 +1909,7 @@ Memory module models
 | Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s          | 1        | 5.56%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s          | 1        | 5.56%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 5.56%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s          | 1        | 5.56%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s          | 1        | 5.56%   |
 | Kingston RAM 9905678-005.A00G 8GB DIMM DDR4 2400MT/s         | 1        | 5.56%   |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s       | 1        | 5.56%   |
 | Crucial RAM CT16G4SFD8266.M16FJ 16384MB SODIMM DDR4 2667MT/s | 1        | 5.56%   |

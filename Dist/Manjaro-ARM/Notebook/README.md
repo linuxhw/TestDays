@@ -637,15 +637,15 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Notebooks | Percent |
-|-------------------------------------|-----------|---------|
-| Unknown MMC Card  64GB              | 6         | 40%     |
-| Unknown DA4064  64GB                | 3         | 20%     |
-| Unknown MMC Card  128GB             | 2         | 13.33%  |
-| Unknown MMC Card  256GB             | 1         | 6.67%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD | 1         | 6.67%   |
-| Phison NVMe SSD Drive 256GB         | 1         | 6.67%   |
-| Intel NVMe SSD Drive 512GB          | 1         | 6.67%   |
+| Model                        | Notebooks | Percent |
+|------------------------------|-----------|---------|
+| Unknown MMC Card  64GB       | 6         | 40%     |
+| Unknown DA4064  64GB         | 3         | 20%     |
+| Unknown MMC Card  128GB      | 2         | 13.33%  |
+| Unknown MMC Card  256GB      | 1         | 6.67%   |
+| Toshiba NVMe SSD Drive 256GB | 1         | 6.67%   |
+| Phison NVMe SSD Drive 256GB  | 1         | 6.67%   |
+| Intel NVMe SSD Drive 512GB   | 1         | 6.67%   |
 
 HDD Vendor
 ----------

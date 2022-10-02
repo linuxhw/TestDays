@@ -517,7 +517,6 @@ Motherboard model
 | ASRock X370 Gaming X         | 1        | 2.33%   |
 | ASRock H81M-ITX              | 1        | 2.33%   |
 | ASRock H110M-ITX             | 1        | 2.33%   |
-| Unknown                      | 1        | 2.33%   |
 
 Model Family
 ------------
@@ -850,68 +849,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Seagate ST500DM002-1BD142 500GB     | 3        | 3.41%   |
-| Seagate ST1000DM010-2EP102 1TB      | 3        | 3.41%   |
-| WDC WD30EZRX-00D8PB0 3TB            | 2        | 2.27%   |
-| WDC WD15EARX-00PASB0 1TB            | 2        | 2.27%   |
-| Toshiba MK5065GSX 500GB             | 2        | 2.27%   |
-| Seagate ST4000DM004-2CV104 4TB      | 2        | 2.27%   |
-| SanDisk SDSSDP128G 128GB            | 2        | 2.27%   |
-| Hitachi HTS543232A7A384 320GB       | 2        | 2.27%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD    | 1        | 1.14%   |
-| WDC WDS250G1B0A-00H9H0 250GB SSD    | 1        | 1.14%   |
-| WDC WD80EZAZ-11TDBA0 8TB            | 1        | 1.14%   |
-| WDC WD5003ABYX-01WERA1 500GB        | 1        | 1.14%   |
-| WDC WD5000AAKX-75U6AA0 500GB        | 1        | 1.14%   |
-| WDC WD2500JS-75NCB3 250GB           | 1        | 1.14%   |
-| WDC WD2500AAJS-00L7A0 250GB         | 1        | 1.14%   |
-| WDC WD20EZRX-00D8PB0 2TB            | 1        | 1.14%   |
-| WDC WD20EARX-00PASB0 2TB            | 1        | 1.14%   |
-| WDC WD1600AVVS-63L2B0 160GB         | 1        | 1.14%   |
-| WDC WD10JPVX-22JC3T0 1TB            | 1        | 1.14%   |
-| WDC WD10EZEX-75WN4A0 1TB            | 1        | 1.14%   |
-| WDC WD10EZEX-00BN5A0 1TB            | 1        | 1.14%   |
-| WDC WD10EARX-00N0YB0 1TB            | 1        | 1.14%   |
-| WDC WD1003FZEX-00MK2A0 1TB          | 1        | 1.14%   |
-| Toshiba MK6465GSX 640GB             | 1        | 1.14%   |
-| Toshiba MG06ACA10TE 10TB            | 1        | 1.14%   |
-| Toshiba DT01ACA300 3TB              | 1        | 1.14%   |
-| Toshiba DT01ACA100 1TB              | 1        | 1.14%   |
-| Seagate ST3500820AS 500GB           | 1        | 1.14%   |
-| Seagate ST3500418AS 500GB           | 1        | 1.14%   |
-| Seagate ST3500413AS 500GB           | 1        | 1.14%   |
-| Seagate ST3320413CS 320GB           | 1        | 1.14%   |
-| Seagate ST3320413AS 320GB           | 1        | 1.14%   |
-| Seagate ST33000651NS 3TB            | 1        | 1.14%   |
-| Seagate ST320LT007-9ZV142 320GB     | 1        | 1.14%   |
-| Seagate ST3160318AS 160GB           | 1        | 1.14%   |
-| Seagate ST2000DM001-9YN164 2TB      | 1        | 1.14%   |
-| Seagate ST2000DM001-1CH164 2TB      | 1        | 1.14%   |
-| Seagate ST1000NM0055-1V410C 1TB     | 1        | 1.14%   |
-| Seagate ST1000LM048-2E7172 1TB      | 1        | 1.14%   |
-| Seagate ST1000DM003-1SB10C 1TB      | 1        | 1.14%   |
-| Seagate ST1000DM003-1SB102 1TB      | 1        | 1.14%   |
-| Seagate ST1000DM003-1ER162 1TB      | 1        | 1.14%   |
-| SanDisk SSD PLUS 1000GB             | 1        | 1.14%   |
-| Samsung SSD 970 EVO Plus 1TB        | 1        | 1.14%   |
-| Samsung SSD 970 EVO 1TB             | 1        | 1.14%   |
-| Samsung SSD 860 EVO 500GB           | 1        | 1.14%   |
-| Samsung SSD 860 EVO 1TB             | 1        | 1.14%   |
-| Samsung SSD 850 EVO 120GB           | 1        | 1.14%   |
-| Samsung HD322GJ 320GB               | 1        | 1.14%   |
-| Mushkin MKNSSDPL500GB-D8            | 1        | 1.14%   |
-| Mushkin MKNSSDAT60GB-V 64GB         | 1        | 1.14%   |
-| Micron/Crucial NVMe SSD Drive 500GB | 1        | 1.14%   |
-| Kingston SKC600512G 512GB SSD       | 1        | 1.14%   |
-| Kingston SKC600256G 256GB SSD       | 1        | 1.14%   |
-| Kingston SKC2000M8250G 250GB        | 1        | 1.14%   |
-| Kingston SA400S37480G 480GB SSD     | 1        | 1.14%   |
-| Kingston SA400S37240G 240GB SSD     | 1        | 1.14%   |
-| KingFast SSD 256GB                  | 1        | 1.14%   |
-| Intel SSDSC2KW256G8 256GB           | 1        | 1.14%   |
-| Hitachi HUA723020ALA641 2TB         | 1        | 1.14%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Seagate ST500DM002-1BD142 500GB  | 3        | 3.41%   |
+| Seagate ST1000DM010-2EP102 1TB   | 3        | 3.41%   |
+| WDC WD30EZRX-00D8PB0 3TB         | 2        | 2.27%   |
+| WDC WD15EARX-00PASB0 1TB         | 2        | 2.27%   |
+| Toshiba MK5065GSX 500GB          | 2        | 2.27%   |
+| Seagate ST4000DM004-2CV104 4TB   | 2        | 2.27%   |
+| SanDisk SDSSDP128G 128GB         | 2        | 2.27%   |
+| Hitachi HTS543232A7A384 320GB    | 2        | 2.27%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD | 1        | 1.14%   |
+| WDC WDS250G1B0A-00H9H0 250GB SSD | 1        | 1.14%   |
+| WDC WD80EZAZ-11TDBA0 8TB         | 1        | 1.14%   |
+| WDC WD5003ABYX-01WERA1 500GB     | 1        | 1.14%   |
+| WDC WD5000AAKX-75U6AA0 500GB     | 1        | 1.14%   |
+| WDC WD2500JS-75NCB3 250GB        | 1        | 1.14%   |
+| WDC WD2500AAJS-00L7A0 250GB      | 1        | 1.14%   |
+| WDC WD20EZRX-00D8PB0 2TB         | 1        | 1.14%   |
+| WDC WD20EARX-00PASB0 2TB         | 1        | 1.14%   |
+| WDC WD1600AVVS-63L2B0 160GB      | 1        | 1.14%   |
+| WDC WD10JPVX-22JC3T0 1TB         | 1        | 1.14%   |
+| WDC WD10EZEX-75WN4A0 1TB         | 1        | 1.14%   |
+| WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.14%   |
+| WDC WD10EARX-00N0YB0 1TB         | 1        | 1.14%   |
+| WDC WD1003FZEX-00MK2A0 1TB       | 1        | 1.14%   |
+| Toshiba MK6465GSX 640GB          | 1        | 1.14%   |
+| Toshiba MG06ACA10TE 10TB         | 1        | 1.14%   |
+| Toshiba DT01ACA300 3TB           | 1        | 1.14%   |
+| Toshiba DT01ACA100 1TB           | 1        | 1.14%   |
+| Seagate ST3500820AS 500GB        | 1        | 1.14%   |
+| Seagate ST3500418AS 500GB        | 1        | 1.14%   |
+| Seagate ST3500413AS 500GB        | 1        | 1.14%   |
+| Seagate ST3320413CS 320GB        | 1        | 1.14%   |
+| Seagate ST3320413AS 320GB        | 1        | 1.14%   |
+| Seagate ST33000651NS 3TB         | 1        | 1.14%   |
+| Seagate ST320LT007-9ZV142 320GB  | 1        | 1.14%   |
+| Seagate ST3160318AS 160GB        | 1        | 1.14%   |
+| Seagate ST2000DM001-9YN164 2TB   | 1        | 1.14%   |
+| Seagate ST2000DM001-1CH164 2TB   | 1        | 1.14%   |
+| Seagate ST1000NM0055-1V410C 1TB  | 1        | 1.14%   |
+| Seagate ST1000LM048-2E7172 1TB   | 1        | 1.14%   |
+| Seagate ST1000DM003-1SB10C 1TB   | 1        | 1.14%   |
 
 HDD Vendor
 ----------
@@ -1226,12 +1205,6 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                           | 1        | 1.28%   |
 | Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                           | 1        | 1.28%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                                    | 1        | 1.28%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 1        | 1.28%   |
-| AMD X370 Series Chipset SATA Controller                                                 | 1        | 1.28%   |
-| AMD FCH SATA Controller [IDE mode]                                                      | 1        | 1.28%   |
-| AMD FCH SATA Controller D                                                               | 1        | 1.28%   |
-| AMD FCH IDE Controller                                                                  | 1        | 1.28%   |
-| AMD 300 Series Chipset SATA Controller                                                  | 1        | 1.28%   |
 
 Storage Kind
 ------------
@@ -1619,47 +1592,47 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch    | 4        | 9.3%    |
-| Goldstar 32 FHD GSM76FF 1920x1080 698x392mm 31.5-inch                   | 2        | 4.65%   |
-| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.33%   |
-| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.33%   |
-| ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch              | 1        | 2.33%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 2.33%   |
-| SANYO Casper SAN2213 1600x900 304x228mm 15.0-inch                       | 1        | 2.33%   |
-| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.33%   |
-| Samsung Electronics SMB1930N SAM0632 1360x768 410x230mm 18.5-inch       | 1        | 2.33%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch       | 1        | 2.33%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 2.33%   |
-| Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.33%   |
-| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.33%   |
-| MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                       | 1        | 2.33%   |
-| IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                         | 1        | 2.33%   |
-| HYO DUAL-DVI HYO049B 2560x1440 597x336mm 27.0-inch                      | 1        | 2.33%   |
-| Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                    | 1        | 2.33%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                    | 1        | 2.33%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch              | 1        | 2.33%   |
-| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 2.33%   |
-| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                        | 1        | 2.33%   |
-| Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                    | 1        | 2.33%   |
-| Eizo S1921 ENC1831 1280x1024 380x300mm 19.1-inch                        | 1        | 2.33%   |
-| DTV Philco DTV0B01 1600x1200 700x390mm 31.5-inch                        | 1        | 2.33%   |
-| Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                       | 1        | 2.33%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 1        | 2.33%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                   | 1        | 2.33%   |
-| Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                      | 1        | 2.33%   |
-| Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                        | 1        | 2.33%   |
-| Dell E1913 DELD051 1440x900 408x255mm 18.9-inch                         | 1        | 2.33%   |
-| BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                      | 1        | 2.33%   |
-| AOC 2060W3 AOC2060 1920x1080 440x240mm 19.7-inch                        | 1        | 2.33%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                          | 1        | 2.33%   |
-| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch        | 1        | 2.33%   |
-| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch   | 1        | 2.33%   |
-| Acer XF240H ACR0472 1920x1080 531x299mm 24.0-inch                       | 1        | 2.33%   |
-| Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                         | 1        | 2.33%   |
-| Acer HX1953L ACR038C 1600x900 432x239mm 19.4-inch                       | 1        | 2.33%   |
-| Acer H243HX ACR0074 1920x1080 531x298mm 24.0-inch                       | 1        | 2.33%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch  | 4        | 9.3%    |
+| Goldstar 32 FHD GSM76FF 1920x1080 698x392mm 31.5-inch                 | 2        | 4.65%   |
+| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                | 1        | 2.33%   |
+| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch         | 1        | 2.33%   |
+| ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch            | 1        | 2.33%   |
+| Vestel Elektronik 24W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 1        | 2.33%   |
+| SANYO Casper SAN2213 1600x900 304x228mm 15.0-inch                     | 1        | 2.33%   |
+| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch  | 1        | 2.33%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch     | 1        | 2.33%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 2.33%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1        | 2.33%   |
+| Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                    | 1        | 2.33%   |
+| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                    | 1        | 2.33%   |
+| MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                     | 1        | 2.33%   |
+| IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                       | 1        | 2.33%   |
+| HYO DUAL-DVI HYO049B 2560x1440 597x336mm 27.0-inch                    | 1        | 2.33%   |
+| Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                  | 1        | 2.33%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.33%   |
+| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1        | 2.33%   |
+| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch             | 1        | 2.33%   |
+| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                      | 1        | 2.33%   |
+| Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                  | 1        | 2.33%   |
+| Eizo S1921 ENC1831 1280x1024 380x300mm 19.1-inch                      | 1        | 2.33%   |
+| DTV Philco DTV0B01 1600x1200 700x390mm 31.5-inch                      | 1        | 2.33%   |
+| Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                     | 1        | 2.33%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.33%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.33%   |
+| Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                    | 1        | 2.33%   |
+| Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                      | 1        | 2.33%   |
+| Dell E1913 DELD051 1440x900 408x255mm 18.9-inch                       | 1        | 2.33%   |
+| BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                    | 1        | 2.33%   |
+| AOC 2060W3 AOC2060 1920x1080 440x240mm 19.7-inch                      | 1        | 2.33%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                        | 1        | 2.33%   |
+| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch      | 1        | 2.33%   |
+| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch | 1        | 2.33%   |
+| Acer XF240H ACR0472 1920x1080 531x299mm 24.0-inch                     | 1        | 2.33%   |
+| Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                       | 1        | 2.33%   |
+| Acer HX1953L ACR038C 1600x900 432x239mm 19.4-inch                     | 1        | 2.33%   |
+| Acer H243HX ACR0074 1920x1080 531x298mm 24.0-inch                     | 1        | 2.33%   |
 
 Monitor Resolution
 ------------------
@@ -2094,16 +2067,6 @@ Sound card models
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 1.19%   |
 | Intel 200 Series PCH HD Audio                                              | 1        | 1.19%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 1.19%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]              | 1        | 1.19%   |
-| Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                          | 1        | 1.19%   |
-| C-Media Electronics CMI8738/CMI8768 PCI Audio                              | 1        | 1.19%   |
-| C-Media Electronics Audio Adapter                                          | 1        | 1.19%   |
-| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                               | 1        | 1.19%   |
-| AMD Redwood HDMI Audio [Radeon HD 5000 Series]                             | 1        | 1.19%   |
-| AMD Navi 10 HDMI Audio                                                     | 1        | 1.19%   |
-| AMD Kabini HDMI/DP Audio                                                   | 1        | 1.19%   |
-| AMD Hawaii HDMI Audio [Radeon R9 290/290X / 390/390X]                      | 1        | 1.19%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                           | 1        | 1.19%   |
 
 Memory
 ------
@@ -2139,56 +2102,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4096MB DIMM 1600MT/s                   | 3        | 5.77%   |
-| Unknown RAM Module 1024MB DIMM DDR 333MT/s                | 2        | 3.85%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s     | 2        | 3.85%   |
-| Unknown RAM Module 512MB DIMM DDR 200MT/s                 | 1        | 1.92%   |
-| Unknown RAM Module 4GB DIMM SDRAM                         | 1        | 1.92%   |
-| Unknown RAM Module 4GB DIMM DDR2 800MT/s                  | 1        | 1.92%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s               | 1        | 1.92%   |
-| Unknown RAM Module 2048MB DIMM 800MT/s                    | 1        | 1.92%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                   | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM DDR 400MT/s                | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM DDR 200MT/s                | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                    | 1        | 1.92%   |
-| Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3                | 1        | 1.92%   |
-| Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4096MB DIMM DDR3 1600MT/s   | 1        | 1.92%   |
-| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
-| Samsung RAM M391B5273CH0-CH9 4096MB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 1639MT/s      | 1        | 1.92%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s       | 1        | 1.92%   |
-| RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s             | 1        | 1.92%   |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s        | 1        | 1.92%   |
-| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s        | 1        | 1.92%   |
-| OCZ RAM OCZ2N800SR2G 2048MB DIMM DDR 800MT/s              | 1        | 1.92%   |
-| Kingston RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 1.92%   |
-| Kingston RAM Module 4096MB DIMM DDR3 1333MT/s             | 1        | 1.92%   |
-| Kingston RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 1.92%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 1        | 1.92%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s       | 1        | 1.92%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s       | 1        | 1.92%   |
-| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
-| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2134MT/s    | 1        | 1.92%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
-| Kingston RAM 9965525-026.A00LF 8192MB DIMM DDR3 1333MT/s  | 1        | 1.92%   |
-| G.Skill RAM F4-2400C15-8GNT 8192MB DIMM DDR4 2666MT/s     | 1        | 1.92%   |
-| G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s         | 1        | 1.92%   |
-| G.Skill RAM F3-1333C9-4GSL 4GB SODIMM DDR3 1333MT/s       | 1        | 1.92%   |
-| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
-| Corsair RAM CMX8GX3M1A1333C9 8GB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
-| Corsair RAM CMW16GX4M1Z3600C18 16384MB DIMM DDR4 3000MT/s | 1        | 1.92%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 1.92%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s     | 1        | 1.92%   |
-| Corsair RAM CMK16GX4M2A2133C13 8GB DIMM DDR4 3000MT/s     | 1        | 1.92%   |
-| Corsair RAM CM4X8GD3200C16K4 8GB DIMM DDR4 2133MT/s       | 1        | 1.92%   |
-| Corsair RAM CM4X16GC3000C16K4D 16384MB DIMM DDR4 3000MT/s | 1        | 1.92%   |
-| Axiom RAM 51264Y133IHYN 4GB DIMM DDR3 1333MT/s            | 1        | 1.92%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4096MB DIMM 1600MT/s                  | 3        | 5.77%   |
+| Unknown RAM Module 1024MB DIMM DDR 333MT/s               | 2        | 3.85%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s    | 2        | 3.85%   |
+| Unknown RAM Module 512MB DIMM DDR 200MT/s                | 1        | 1.92%   |
+| Unknown RAM Module 4GB DIMM SDRAM                        | 1        | 1.92%   |
+| Unknown RAM Module 4GB DIMM DDR2 800MT/s                 | 1        | 1.92%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 1.92%   |
+| Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 1.92%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                  | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s              | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR 400MT/s               | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR 200MT/s               | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 1.92%   |
+| Smart RAM SH564128FH8N6TNSQG 4096MB DIMM DDR3 1600MT/s   | 1        | 1.92%   |
+| Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s   | 1        | 1.92%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
+| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
+| Samsung RAM M391B5273CH0-CH9 4096MB DIMM DDR3 1333MT/s   | 1        | 1.92%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s      | 1        | 1.92%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM          | 1        | 1.92%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 1.92%   |
+| RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s       | 1        | 1.92%   |
+| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s       | 1        | 1.92%   |
+| OCZ RAM OCZ2N800SR2G 2048MB DIMM DDR 800MT/s             | 1        | 1.92%   |
+| Kingston RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
+| Kingston RAM Module 4096MB DIMM DDR3 1333MT/s            | 1        | 1.92%   |
+| Kingston RAM Module 2048MB DIMM DDR2 667MT/s             | 1        | 1.92%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 1.92%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s      | 1        | 1.92%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
+| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s           | 1        | 1.92%   |
+| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2134MT/s   | 1        | 1.92%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3             | 1        | 1.92%   |
+| Kingston RAM 9965525-026.A00LF 8192MB DIMM DDR3 1333MT/s | 1        | 1.92%   |
+| G.Skill RAM F4-2400C15-8GNT 8192MB DIMM DDR4 2666MT/s    | 1        | 1.92%   |
+| G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s        | 1        | 1.92%   |
+| G.Skill RAM F3-1333C9-4GSL 4GB SODIMM DDR3 1333MT/s      | 1        | 1.92%   |
+| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
 
 Memory Kind
 -----------
@@ -2250,10 +2205,10 @@ Memory module speed
 |---------|----------|---------|
 | 1600    | 12       | 23.53%  |
 | 1333    | 9        | 17.65%  |
-| 3000    | 4        | 7.84%   |
 | 800     | 4        | 7.84%   |
+| 3466    | 3        | 5.88%   |
+| 3000    | 3        | 5.88%   |
 | 49926   | 2        | 3.92%   |
-| 3466    | 2        | 3.92%   |
 | 2400    | 2        | 3.92%   |
 | 2133    | 2        | 3.92%   |
 | 667     | 2        | 3.92%   |
@@ -2345,7 +2300,7 @@ Camera device models
 | Logitech Webcam Pro 9000                 | 1        | 12.5%   |
 | Logitech Webcam C270                     | 1        | 12.5%   |
 | Logitech B525 HD Webcam                  | 1        | 12.5%   |
-| Huawei UVC Camera                        | 1        | 12.5%   |
+| Huawei HiCamera                          | 1        | 12.5%   |
 | Generalplus 808 Camera #9 (web-cam mode) | 1        | 12.5%   |
 
 Security

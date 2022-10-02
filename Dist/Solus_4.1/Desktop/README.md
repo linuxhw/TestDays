@@ -749,20 +749,15 @@ Hard drive models
 | Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
 | Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
-| SanDisk SDSSDH31024G 1TB        | 1        | 1.72%   |
+| SanDisk SDSSDH31024G 1024GB     | 1        | 1.72%   |
 | SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
 | Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
 | Samsung SSD 840 EVO 120GB       | 1        | 1.72%   |
 | Samsung Portable SSD T5 500GB   | 1        | 1.72%   |
-| Samsung M3 Portable 1TB         | 1        | 1.72%   |
+| Samsung M3 Portable 500GB       | 1        | 1.72%   |
 | Samsung HD203WI 2TB             | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
-| Intel NVMe SSD Drive 256GB      | 1        | 1.72%   |
-| Hitachi HTS545032B9A300 320GB   | 1        | 1.72%   |
-| Crucial CT250BX100SSD1 250GB    | 1        | 1.72%   |
-| Crucial CT240BX500SSD1 240GB    | 1        | 1.72%   |
-| A-DATA ED600 160GB SSD          | 1        | 1.72%   |
 
 HDD Vendor
 ----------
@@ -836,11 +831,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 32     | 50%     |
-| 0.51-1.0   | 11       | 12     | 32.35%  |
-| 1.01-2.0   | 4        | 17     | 11.76%  |
-| 3.01-4.0   | 1        | 1      | 2.94%   |
-| 4.01-10.0  | 1        | 1      | 2.94%   |
+| 0.01-0.5   | 17       | 33     | 51.52%  |
+| 0.51-1.0   | 9        | 10     | 27.27%  |
+| 1.01-2.0   | 5        | 18     | 15.15%  |
+| 3.01-4.0   | 1        | 1      | 3.03%   |
+| 4.01-10.0  | 1        | 1      | 3.03%   |
 
 Space Total
 -----------
@@ -1330,13 +1325,13 @@ Monitor models
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch               | 1        | 4.17%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch               | 1        | 4.17%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                  | 1        | 4.17%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.17%   |
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1        | 4.17%   |
+| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                      | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1698,12 +1693,12 @@ Sound card models
 | Nvidia GP102 HDMI Audio Controller                                         | 1        | 2.22%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1        | 2.22%   |
 | Nvidia GK104 HDMI Audio Controller                                         | 1        | 2.22%   |
-| JMTek USB PnP Audio Device                                                 | 1        | 2.22%   |
+| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 2.22%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 2.22%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 2.22%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 2.22%   |
 | Creative Technology SB X-Fi Surround 5.1 Pro                               | 1        | 2.22%   |
-| C-Media Electronics USB Advanced Audio Device                              | 1        | 2.22%   |
+| C-Media Electronics Headshot Melody GEN 2                                  | 1        | 2.22%   |
 | Blue Microphones Yeti Nano                                                 | 1        | 2.22%   |
 | AMD Tahiti HDMI Audio [Radeon HD 7870 XT / 7950/7970]                      | 1        | 2.22%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 2.22%   |
@@ -1739,7 +1734,7 @@ Memory module models
 
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s  | 2        | 20%     |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s  | 2        | 20%     |
 | Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 10%     |
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 10%     |
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 10%     |
@@ -1876,15 +1871,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Microdia Camera                         | 2        | 25%     |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 12.5%   |
-| Microsoft Xbox NUI Camera               | 1        | 12.5%   |
-| Logitech Webcam C270                    | 1        | 12.5%   |
-| Logitech StreamCam                      | 1        | 12.5%   |
-| Logitech Logitech Webcam C160           | 1        | 12.5%   |
-| HP Webcam HD 2300                       | 1        | 12.5%   |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Microdia Camera               | 2        | 25%     |
+| Samsung Galaxy A5 (MTP)       | 1        | 12.5%   |
+| Microsoft Xbox NUI Camera     | 1        | 12.5%   |
+| Logitech Webcam C270          | 1        | 12.5%   |
+| Logitech StreamCam            | 1        | 12.5%   |
+| Logitech Logitech Webcam C160 | 1        | 12.5%   |
+| HP Webcam HD 2300             | 1        | 12.5%   |
 
 Security
 --------

@@ -301,8 +301,6 @@ Version of the Linux kernel
 | 5.10.17_1 | 1        | 2.08%   |
 | 4.19.67_1 | 1        | 2.08%   |
 | 4.19.66_1 | 1        | 2.08%   |
-| 4.19.34_1 | 1        | 2.08%   |
-| 4.19.31_1 | 1        | 2.08%   |
 
 Kernel Family
 -------------
@@ -354,8 +352,6 @@ Linux kernel without a distro release
 | 5.10.17 | 1        | 2.08%   |
 | 4.19.67 | 1        | 2.08%   |
 | 4.19.66 | 1        | 2.08%   |
-| 4.19.34 | 1        | 2.08%   |
-| 4.19.31 | 1        | 2.08%   |
 
 Kernel Major Ver.
 -----------------
@@ -679,7 +675,7 @@ Motherboard manufacture year
 | Unknown | 2        | 4.65%   |
 | 2022    | 1        | 2.33%   |
 | 2021    | 1        | 2.33%   |
-| 2006    | 1        | 2.33%   |
+| 2005    | 1        | 2.33%   |
 
 Form Factor
 -----------
@@ -991,26 +987,6 @@ Hard drive models
 | Seagate ST3500413AS 500GB        | 1        | 1.01%   |
 | Seagate ST3360320AS 360GB        | 1        | 1.01%   |
 | Seagate ST2000VX000-1CU164 2TB   | 1        | 1.01%   |
-| Seagate ST2000DM006-2DM164 2TB   | 1        | 1.01%   |
-| Seagate ST2000DM001-1CH164 2TB   | 1        | 1.01%   |
-| Seagate ST2000DL003-9VT166 2TB   | 1        | 1.01%   |
-| Seagate ST1000LM035-1RK172 1TB   | 1        | 1.01%   |
-| Seagate ST1000DM003-1CH162 1TB   | 1        | 1.01%   |
-| SanDisk Ultra II 960GB SSD       | 1        | 1.01%   |
-| SanDisk Ultra 3D NVMe 1TB        | 1        | 1.01%   |
-| Samsung SSD 980 PRO 250GB        | 1        | 1.01%   |
-| Samsung SSD 970 EVO Plus 500GB   | 1        | 1.01%   |
-| Samsung SSD 970 EVO 500GB        | 1        | 1.01%   |
-| Samsung SSD 970 EVO 1TB          | 1        | 1.01%   |
-| Samsung SSD 870 QVO 2TB          | 1        | 1.01%   |
-| Samsung SSD 870 EVO 500GB        | 1        | 1.01%   |
-| Samsung SSD 870 EVO 1TB          | 1        | 1.01%   |
-| Samsung SSD 860 EVO 4TB          | 1        | 1.01%   |
-| Samsung SSD 860 EVO 250GB        | 1        | 1.01%   |
-| Samsung SSD 850 EVO 500GB        | 1        | 1.01%   |
-| Samsung SSD 840 PRO Series 512GB | 1        | 1.01%   |
-| Samsung SSD 750 EVO 500GB        | 1        | 1.01%   |
-| Samsung NVMe SSD Drive 1TB       | 1        | 1.01%   |
 
 HDD Vendor
 ----------
@@ -1706,7 +1682,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch  | 1        | 1.85%   |
 | Samsung Electronics SA300/SA350 SAM07D2 1920x1080 477x268mm 21.5-inch | 1        | 1.85%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 1.85%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch     | 1        | 1.85%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 1.85%   |
 | Samsung Electronics LCD Monitor SyncMaster 1680x1050                  | 1        | 1.85%   |
 | Samsung Electronics LCD Monitor SAM050C 1920x1080 886x498mm 40.0-inch | 1        | 1.85%   |
 | Samsung Electronics LCD Monitor C49HG9x 7680x1080                     | 1        | 1.85%   |
@@ -1714,8 +1690,8 @@ Monitor models
 | Philips PHL 271V8 PHLC213 1920x1080 598x336mm 27.0-inch               | 1        | 1.85%   |
 | Philips LCD Monitor 227E4LH 1920x1080                                 | 1        | 1.85%   |
 | Philips 220CW PHLC024 1680x1050 474x296mm 22.0-inch                   | 1        | 1.85%   |
-| ONN ONA24HB19T01 ONN0101 1920x1080 517x323mm 24.0-inch                | 1        | 1.85%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1        | 1.85%   |
+| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                   | 1        | 1.85%   |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                | 1        | 1.85%   |
 | Lenovo LEN-22ICB-C LEN1201 1920x1080 476x268mm 21.5-inch              | 1        | 1.85%   |
 | Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                 | 1        | 1.85%   |
 | Iiyama PL2530H IVM6132 1920x1080 540x300mm 24.3-inch                  | 1        | 1.85%   |
@@ -1739,21 +1715,7 @@ Monitor models
 | Dell U2415 DELA0B8 1920x1200 518x324mm 24.1-inch                      | 1        | 1.85%   |
 | Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                     | 1        | 1.85%   |
 | Dell P2418HZ DELD0AF 1920x1080 530x300mm 24.0-inch                    | 1        | 1.85%   |
-| Dell P2219H DELA115 1920x1080 476x267mm 21.5-inch                     | 1        | 1.85%   |
-| Dell LCD Monitor U2515H                                               | 1        | 1.85%   |
-| Dell E177FP DELA023 1280x1024 338x270mm 17.0-inch                     | 1        | 1.85%   |
-| BenQ V2400Eco BNQ7D02 1920x1080 531x299mm 24.0-inch                   | 1        | 1.85%   |
-| BenQ RL2455 BNQ7F1C 1920x1080 531x298mm 24.0-inch                     | 1        | 1.85%   |
-| BenQ GW2470 BNQ78D9 1920x1080 527x296mm 23.8-inch                     | 1        | 1.85%   |
-| ASUSTek Computer VP249 AUS24AF 1920x1080 527x296mm 23.8-inch          | 1        | 1.85%   |
-| ASUSTek Computer VG275 AUS27AB 1920x1080 600x340mm 27.2-inch          | 1        | 1.85%   |
-| Ancor Communications VW222 ACI22A2 1680x1050 473x296mm 22.0-inch      | 1        | 1.85%   |
-| Ancor Communications LCD Monitor ASUS ML239 1920x1080                 | 1        | 1.85%   |
-| Acer X223W ACR000D 1680x1050 474x296mm 22.0-inch                      | 1        | 1.85%   |
-| Acer VG280K ACR0747 3840x2160 621x341mm 27.9-inch                     | 1        | 1.85%   |
-| Acer VG220Q ACR06D8 1920x1080 476x268mm 21.5-inch                     | 1        | 1.85%   |
-| Acer LCD Monitor S181HL 1366x768                                      | 1        | 1.85%   |
-| Acer KG251Q ACR0591 1920x1080 544x303mm 24.5-inch                     | 1        | 1.85%   |
+| Dell P2219H DELA115 1920x1080 480x270mm 21.7-inch                     | 1        | 1.85%   |
 
 Monitor Resolution
 ------------------
@@ -1908,7 +1870,7 @@ Controller vendors
 | Qualcomm Atheros Communications | 2        | 3.08%   |
 | Qualcomm Atheros                | 2        | 3.08%   |
 | Xiaomi                          | 1        | 1.54%   |
-| Realtek                         | 1        | 1.54%   |
+| Tenda                           | 1        | 1.54%   |
 | OnePlus Technology (Shenzhen)   | 1        | 1.54%   |
 | Nvidia                          | 1        | 1.54%   |
 | MediaTek                        | 1        | 1.54%   |
@@ -1935,17 +1897,17 @@ Controller models
 | Realtek RTL8153 Gigabit Ethernet Adapter                                | 2        | 3.03%   |
 | Qualcomm Atheros AR9271 802.11n                                         | 2        | 3.03%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                          | 1        | 1.52%   |
-| TP-Link TL-WN722N v2                                                    | 1        | 1.52%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 1        | 1.52%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                  | 1        | 1.52%   |
+| Tenda U12                                                               | 1        | 1.52%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                         | 1        | 1.52%   |
-| Realtek 802.11n NIC                                                     | 1        | 1.52%   |
 | Ralink RT5572 Wireless Adapter                                          | 1        | 1.52%   |
 | Ralink MT7601U Wireless Adapter                                         | 1        | 1.52%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                           | 1        | 1.52%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 1.52%   |
 | OnePlus (Shenzhen) OnePlus                                              | 1        | 1.52%   |
 | Nvidia MCP61 Ethernet                                                   | 1        | 1.52%   |
-| MediaTek moto e6s                                                       | 1        | 1.52%   |
+| MediaTek Nokia 5.1 Plus                                                 | 1        | 1.52%   |
 | Intel Tiger Lake PCH CNVi WiFi                                          | 1        | 1.52%   |
 | Intel Ethernet Connection I218-V                                        | 1        | 1.52%   |
 | Intel Cannon Lake PCH CNVi WiFi                                         | 1        | 1.52%   |
@@ -1971,8 +1933,8 @@ Wireless vendors
 | TP-Link                         | 2        | 14.29%  |
 | Ralink Technology               | 2        | 14.29%  |
 | Qualcomm Atheros Communications | 2        | 14.29%  |
+| Tenda                           | 1        | 7.14%   |
 | Realtek Semiconductor           | 1        | 7.14%   |
-| Realtek                         | 1        | 7.14%   |
 | Qualcomm Atheros                | 1        | 7.14%   |
 
 Wireless Model
@@ -1987,10 +1949,10 @@ Wireless models
 |-------------------------------------------------------------------------|----------|---------|
 | Intel Wi-Fi 6 AX200                                                     | 3        | 21.43%  |
 | Qualcomm Atheros AR9271 802.11n                                         | 2        | 14.29%  |
-| TP-Link TL-WN722N v2                                                    | 1        | 7.14%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 1        | 7.14%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                  | 1        | 7.14%   |
+| Tenda U12                                                               | 1        | 7.14%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                         | 1        | 7.14%   |
-| Realtek 802.11n NIC                                                     | 1        | 7.14%   |
 | Ralink RT5572 Wireless Adapter                                          | 1        | 7.14%   |
 | Ralink MT7601U Wireless Adapter                                         | 1        | 7.14%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 7.14%   |
@@ -2036,7 +1998,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 2%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2%      |
 | Nvidia MCP61 Ethernet                                             | 1        | 2%      |
-| MediaTek moto e6s                                                 | 1        | 2%      |
+| MediaTek Nokia 5.1 Plus                                           | 1        | 2%      |
 | Intel Ethernet Connection I218-V                                  | 1        | 2%      |
 | Intel 82567LM-3 Gigabit Network Connection                        | 1        | 2%      |
 | Broadcom NetXtreme BCM5780 Gigabit Ethernet                       | 1        | 2%      |
@@ -2176,8 +2138,8 @@ Sound card models
 | AMD Starship/Matisse HD Audio Controller                                   | 9        | 9.09%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 6        | 6.06%   |
 | Nvidia GP107GL High Definition Audio Controller                            | 5        | 5.05%   |
-| JMTek USB PnP Audio Device                                                 | 4        | 4.04%   |
 | AMD SBx00 Azalia (Intel HDA)                                               | 4        | 4.04%   |
+| JMTek USB PnP Audio Device                                                 | 3        | 3.03%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 3        | 3.03%   |
 | Intel 200 Series PCH HD Audio                                              | 3        | 3.03%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 3        | 3.03%   |
@@ -2203,36 +2165,16 @@ Sound card models
 | Nvidia GK110 High Definition Audio Controller                              | 1        | 1.01%   |
 | Nvidia GF108 High Definition Audio Controller                              | 1        | 1.01%   |
 | Nvidia GA102 High Definition Audio Controller                              | 1        | 1.01%   |
-| Logitech PRO X                                                             | 1        | 1.01%   |
+| Logitech Logitech G PRO X Gaming Headset                                   | 1        | 1.01%   |
 | Logitech G633 Gaming Headset                                               | 1        | 1.01%   |
 | Logitech G430 Surround Sound Gaming Headset                                | 1        | 1.01%   |
+| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 1.01%   |
 | Intel Tiger Lake-H HD Audio Controller                                     | 1        | 1.01%   |
 | Intel Haswell-ULT HD Audio Controller                                      | 1        | 1.01%   |
 | Intel Celeron/Pentium Silver Processor High Definition Audio               | 1        | 1.01%   |
 | Intel Alder Lake-S HD Audio Controller                                     | 1        | 1.01%   |
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 1        | 1.01%   |
 | Intel 82801G (ICH7 Family) AC'97 Audio Controller                          | 1        | 1.01%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 1        | 1.01%   |
-| Intel 8 Series HD Audio Controller                                         | 1        | 1.01%   |
-| Focusrite-Novation Scarlett 2i4                                            | 1        | 1.01%   |
-| Elgato Systems Elgato Wave:3                                               | 1        | 1.01%   |
-| Creative Technology Sound Blaster Tactic3D Fury                            | 1        | 1.01%   |
-| Corsair Corsair VOID PRO Surround USB Adapter                              | 1        | 1.01%   |
-| Cambridge Audio USB Audio 2.0                                              | 1        | 1.01%   |
-| C-Media Electronics USB Audio Device                                       | 1        | 1.01%   |
-| C-Media Electronics CMI8788 [Oxygen HD Audio]                              | 1        | 1.01%   |
-| C-Media Electronics CM106 Like Sound Device                                | 1        | 1.01%   |
-| C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 1.01%   |
-| C-Media Electronics Antlion USB adapter                                    | 1        | 1.01%   |
-| AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                 | 1        | 1.01%   |
-| AMD Tonga HDMI Audio [Radeon R9 285/380]                                   | 1        | 1.01%   |
-| AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                         | 1        | 1.01%   |
-| AMD Tahiti HDMI Audio [Radeon HD 7870 XT / 7950/7970]                      | 1        | 1.01%   |
-| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                               | 1        | 1.01%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1        | 1.01%   |
-| AMD Navi 10 HDMI Audio                                                     | 1        | 1.01%   |
-| AMD Juniper HDMI Audio [Radeon HD 5700 Series]                             | 1        | 1.01%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 1.01%   |
 
 Memory
 ------
@@ -2272,13 +2214,13 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR4 3200MT/s                  | 1        | 2.94%   |
 | Unknown RAM Module 4GB DIMM 1333MT/s                       | 1        | 2.94%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                    | 1        | 2.94%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3                | 1        | 2.94%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s       | 1        | 2.94%   |
 | Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.94%   |
 | Samsung RAM M378B2873EH1-CF8 1GB DIMM DDR3 1067MT/s        | 1        | 2.94%   |
 | Patriot RAM PSD48G24002 8192MB DIMM DDR4 2400MT/s          | 1        | 2.94%   |
 | Kingston RAM KHX3200C18D4/8G 8GB DIMM DDR4 3333MT/s        | 1        | 2.94%   |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s          | 1        | 2.94%   |
-| Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s    | 1        | 2.94%   |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s       | 1        | 2.94%   |
+| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s       | 1        | 2.94%   |
 | Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 2.94%   |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.94%   |
 | Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 2.94%   |
@@ -2295,12 +2237,12 @@ Memory module models
 | Crucial RAM CT16G4DFD824A.M16FD 16GB DIMM DDR4 2400MT/s    | 1        | 2.94%   |
 | Crucial RAM CT16G48C40U5.M8A1 16GB DIMM 4800MT/s           | 1        | 2.94%   |
 | Crucial RAM BL25664TN1608.16FF 2048MB DIMM DDR3 1333MT/s   | 1        | 2.94%   |
-| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1867MT/s        | 1        | 2.94%   |
+| Corsair RAM CML8GX3M2A1600C9 4096MB DIMM DDR3 1867MT/s     | 1        | 2.94%   |
 | Corsair RAM CMK8GX4M1D3000C16 8GB DIMM DDR4 3200MT/s       | 1        | 2.94%   |
-| Corsair RAM CMK8GX4M1A2666C16 8192MB DIMM DDR4 3000MT/s    | 1        | 2.94%   |
+| Corsair RAM CMK8GX4M1A2666C16 8GB DIMM DDR4 3000MT/s       | 1        | 2.94%   |
 | Avant RAM W641GU42J7240NC 8192MB DIMM DDR4 2400MT/s        | 1        | 2.94%   |
 | A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s                | 1        | 2.94%   |
-| A-DATA RAM DDR4 2666 2OZ 8GB DIMM DDR4 3200MT/s            | 1        | 2.94%   |
+| A-DATA RAM DDR4 2666 2OZ 8192MB DIMM DDR4 3200MT/s         | 1        | 2.94%   |
 
 Memory Kind
 -----------
@@ -2436,7 +2378,7 @@ Camera device models
 | Logitech Webcam C270                              | 3        | 21.43%  |
 | Realtek Streaming Webcam                          | 1        | 7.14%   |
 | Microsoft LifeCam HD-3000                         | 1        | 7.14%   |
-| Microdia USB 2.0 Camera                           | 1        | 7.14%   |
+| Microdia CameraA                                  | 1        | 7.14%   |
 | Microdia Camera                                   | 1        | 7.14%   |
 | MacroSilicon USB Video                            | 1        | 7.14%   |
 | MacroSilicon MS210x Video Grabber [EasierCAP]     | 1        | 7.14%   |

@@ -682,9 +682,9 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 2      | 16       | 43.24%  |
 | 1      | 16       | 43.24%  |
-| 3      | 5        | 13.51%  |
+| 2      | 15       | 40.54%  |
+| 3      | 6        | 16.22%  |
 
 Has CD-ROM
 ----------
@@ -696,8 +696,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 19       | 51.35%  |
-| No        | 18       | 48.65%  |
+| No        | 19       | 51.35%  |
+| Yes       | 18       | 48.65%  |
 
 Has Ethernet
 ------------
@@ -893,24 +893,12 @@ Hard drive models
 | Samsung HM250HI 250GB              | 1        | 1.72%   |
 | Samsung HD161HJ 160GB              | 1        | 1.72%   |
 | Samsung HD103SJ 1TB                | 1        | 1.72%   |
-| Samsung HD080HJ 80GB               | 1        | 1.72%   |
+| Samsung HD080HJ/ 80GB              | 1        | 1.72%   |
 | PNY CS900 1TB SSD                  | 1        | 1.72%   |
 | Plextor PX-128M5M 128GB SSD        | 1        | 1.72%   |
 | Maxtor STM3160215AS 160GB          | 1        | 1.72%   |
 | Leven JAJS600M256C 256GB           | 1        | 1.72%   |
 | Kingston SMS200S3120G 120GB SSD    | 1        | 1.72%   |
-| Kingston SA400S37240G 240GB SSD    | 1        | 1.72%   |
-| Kingston SA400S37120G 120GB SSD    | 1        | 1.72%   |
-| Kingston NVMe SSD Drive 500GB      | 1        | 1.72%   |
-| KingFast SSD 128GB                 | 1        | 1.72%   |
-| Hitachi HTS545025A7E380 250GB      | 1        | 1.72%   |
-| Hitachi HTS543232A7A384 320GB      | 1        | 1.72%   |
-| Hitachi HDS721010CLA332 1TB        | 1        | 1.72%   |
-| Hitachi HDP725016GLA380 160GB      | 1        | 1.72%   |
-| GOODRAM IR-SSDPR-S25A-240 240GB    | 1        | 1.72%   |
-| Crucial CT240BX500SSD1 240GB       | 1        | 1.72%   |
-| Crucial CT120M500SSD3 120GB        | 1        | 1.72%   |
-| Crucial CT1000BX100SSD1 1TB        | 1        | 1.72%   |
 
 HDD Vendor
 ----------
@@ -1559,7 +1547,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.63%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.63%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.63%   |
+| Vestel Elektronik 24W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch     | 1        | 2.63%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.63%   |
 | Toshiba TV TSB0200 1360x768 530x300mm 24.0-inch                        | 1        | 2.63%   |
 | SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                     | 1        | 2.63%   |
@@ -1571,15 +1559,15 @@ Monitor models
 | Philips 221V PHL0888 1920x1080 480x270mm 21.7-inch                     | 1        | 2.63%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 2.63%   |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch                | 1        | 2.63%   |
-| Insignia NS28ED200NA14 BBY0032 1680x1050 640x384mm 29.4-inch           | 1        | 2.63%   |
+| Insignia NS19ED200NA14 BBY0032 1680x1050 640x384mm 29.4-inch           | 1        | 2.63%   |
 | HPN LCD Monitor HP 24o 1920x1080                                       | 1        | 2.63%   |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 480x270mm 21.7-inch          | 1        | 2.63%   |
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.63%   |
 | Hewlett-Packard LA2306 HWP294A 1920x1080 510x287mm 23.0-inch           | 1        | 2.63%   |
-| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 2.63%   |
+| Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch             | 1        | 2.63%   |
 | HannStar iH282 HSD20E6 1920x1200 593x371mm 27.5-inch                   | 1        | 2.63%   |
-| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 2.63%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 2.63%   |
+| Goldstar LG ULTRAWIDE GSM76F9 2560x1080 800x340mm 34.2-inch            | 1        | 2.63%   |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.63%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.63%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.63%   |
@@ -1592,8 +1580,8 @@ Monitor models
 | Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch       | 1        | 2.63%   |
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                  | 1        | 2.63%   |
 | Ancor Communications LCD Monitor ASUS VS247                            | 1        | 2.63%   |
-| Ancor Communications ASUS PB287Q ACI28A3 3840x2160 621x341mm 27.9-inch | 1        | 2.63%   |
-| Acer X193W ACR000C 1440x900 410x260mm 19.1-inch                        | 1        | 2.63%   |
+| Ancor Communications ASUS PB287Q ACI28A3 3840x2160 620x340mm 27.8-inch | 1        | 2.63%   |
+| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                        | 1        | 2.63%   |
 | Acer LCD Monitor V227Q 1920x1080                                       | 1        | 2.63%   |
 
 Monitor Resolution
@@ -1748,12 +1736,11 @@ Controller vendors
 | Realtek Semiconductor            | 21       | 40.38%  |
 | Intel                            | 13       | 25%     |
 | Qualcomm Atheros                 | 6        | 11.54%  |
-| TP-Link                          | 2        | 3.85%   |
+| TP-Link                          | 3        | 5.77%   |
 | Qualcomm Atheros Communications  | 2        | 3.85%   |
 | Nvidia                           | 2        | 3.85%   |
 | T & A Mobile Phones              | 1        | 1.92%   |
 | Silicon Integrated Systems [SiS] | 1        | 1.92%   |
-| Realtek                          | 1        | 1.92%   |
 | Marvell Technology Group         | 1        | 1.92%   |
 | Linksys                          | 1        | 1.92%   |
 | Broadcom                         | 1        | 1.92%   |
@@ -1777,9 +1764,9 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 2        | 3.51%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]                               | 1        | 1.75%   |
 | TP-Link Archer T4U ver.3                                                                      | 1        | 1.75%   |
+| TP-Link 802.11ac NIC                                                                          | 1        | 1.75%   |
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                                                    | 1        | 1.75%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                                 | 1        | 1.75%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 1.75%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 1.75%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                                    | 1        | 1.75%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 1        | 1.75%   |
@@ -1816,9 +1803,8 @@ Wireless vendors
 | Realtek Semiconductor           | 5        | 26.32%  |
 | Intel                           | 5        | 26.32%  |
 | Qualcomm Atheros                | 3        | 15.79%  |
+| TP-Link                         | 2        | 10.53%  |
 | Qualcomm Atheros Communications | 2        | 10.53%  |
-| TP-Link                         | 1        | 5.26%   |
-| Realtek                         | 1        | 5.26%   |
 | Linksys                         | 1        | 5.26%   |
 | Broadcom                        | 1        | 5.26%   |
 
@@ -1835,7 +1821,7 @@ Wireless models
 | Qualcomm Atheros AR9271 802.11n                                                               | 2        | 10.53%  |
 | Intel Wireless 3160                                                                           | 2        | 10.53%  |
 | TP-Link Archer T4U ver.3                                                                      | 1        | 5.26%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 5.26%   |
+| TP-Link 802.11ac NIC                                                                          | 1        | 5.26%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 5.26%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                                    | 1        | 5.26%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 1        | 5.26%   |
@@ -2048,7 +2034,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                                                | 1        | 1.37%   |
 | M2Tech hiFaceDAC UAC2                                                                             | 1        | 1.37%   |
 | Logitech QuickCam Fusion                                                                          | 1        | 1.37%   |
-| Logitech PRO X                                                                                    | 1        | 1.37%   |
+| Logitech Logitech G PRO X Gaming Headset                                                          | 1        | 1.37%   |
 | Logitech Headset H390                                                                             | 1        | 1.37%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.37%   |
 | Intel CM238 HD Audio Controller                                                                   | 1        | 1.37%   |
@@ -2058,17 +2044,10 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 1        | 1.37%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 1        | 1.37%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1        | 1.37%   |
-| Generalplus Technology USB Audio Device                                                           | 1        | 1.37%   |
+| Generalplus Technology Usb Audio Device                                                           | 1        | 1.37%   |
 | C-Media Electronics USB Audio Device                                                              | 1        | 1.37%   |
-| C-Media Electronics USB Advanced Audio Device                                                     | 1        | 1.37%   |
+| C-Media Electronics Headshot Melody GEN 2                                                         | 1        | 1.37%   |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                                         | 1        | 1.37%   |
-| AMD Trinity HDMI Audio Controller                                                                 | 1        | 1.37%   |
-| AMD Starship/Matisse HD Audio Controller                                                          | 1        | 1.37%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 1        | 1.37%   |
-| AMD Kaveri HDMI/DP Audio Controller                                                               | 1        | 1.37%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 1        | 1.37%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1        | 1.37%   |
-| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                                        | 1        | 1.37%   |
 
 Memory
 ------
@@ -2113,14 +2092,14 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                      | 1        | 5.88%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1024MB DIMM DDR2 800MT/s  | 1        | 5.88%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                           | 1        | 5.88%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1        | 5.88%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 49926MT/s                     | 1        | 5.88%   |
 | Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                   | 1        | 5.88%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                                  | 1        | 5.88%   |
 | Kingston RAM 9905734-018.A00G 16384MB DIMM DDR4 2667MT/s                   | 1        | 5.88%   |
 | Kingston RAM 202020202020202020202020202020202020 2048MB DIMM DDR2 800MT/s | 1        | 5.88%   |
 | G.Skill RAM F3-19200C10-8GBZHD 8192MB DIMM DDR3 1333MT/s                   | 1        | 5.88%   |
 | Crucial RAM CT25664A 2GB DIMM DDR2 800MT/s                                 | 1        | 5.88%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s                      | 1        | 5.88%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s                      | 1        | 5.88%   |
 
 Memory Kind
 -----------
@@ -2215,7 +2194,7 @@ Printer device models
 
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
-| Seiko Epson ET-2720 Series       | 1        | 20%     |
+| Seiko Epson L3160 Series         | 1        | 20%     |
 | HP Officejet 6600                | 1        | 20%     |
 | HP LaserJet Professional P 1102w | 1        | 20%     |
 | Fuji Xerox DocuPrint M205 b      | 1        | 20%     |
@@ -2264,7 +2243,7 @@ Camera device models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Huawei UVC Camera                 | 2        | 33.33%  |
+| Huawei HiCamera                   | 2        | 33.33%  |
 | Z-Star A4 TECH USB2.0 PC Camera E | 1        | 16.67%  |
 | Microdia Sonix USB 2.0 Camera     | 1        | 16.67%  |
 | Logitech HD Pro Webcam C920       | 1        | 16.67%  |

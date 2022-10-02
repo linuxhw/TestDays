@@ -810,68 +810,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                         | Desktops | Percent |
-|-----------------------------------------------|----------|---------|
-| WDC WD1003FZEX-00MK2A0 1TB                    | 2        | 2.35%   |
-| Toshiba MQ01ABD100 1TB                        | 2        | 2.35%   |
-| Seagate ST500DM002-1BD142 500GB               | 2        | 2.35%   |
-| Seagate ST4000VN008-2DR166 4TB                | 2        | 2.35%   |
-| Seagate ST31000524AS 1TB                      | 2        | 2.35%   |
-| WDC WDS100T2B0C-00PXH0 1TB                    | 1        | 1.18%   |
-| WDC WD5000BPVT-2 500GB                        | 1        | 1.18%   |
-| WDC WD5000BPKX-60HPJT0 500GB                  | 1        | 1.18%   |
-| WDC WD5000AAKX-00ERMA0 500GB                  | 1        | 1.18%   |
-| WDC WD5000AAKS-00V0A0 500GB                   | 1        | 1.18%   |
-| WDC WD5000AAKS-00A7B2 500GB                   | 1        | 1.18%   |
-| WDC WD40EFRX-68WT0N0 4TB                      | 1        | 1.18%   |
-| WDC WD40EFRX-68N32N0 4TB                      | 1        | 1.18%   |
-| WDC WD30EZRX-00SPEB0 3TB                      | 1        | 1.18%   |
-| WDC WD30EZRX-00M                              | 1        | 1.18%   |
-| WDC WD30EFRX-68EUZN0 3TB                      | 1        | 1.18%   |
-| WDC WD30EFRX-68AX9N0 3TB                      | 1        | 1.18%   |
-| WDC WD2003FZEX-00Z4SA0 2TB                    | 1        | 1.18%   |
-| WDC WD2003FZEX-0 2TB                          | 1        | 1.18%   |
-| WDC WD1600AAJS-00PSA0 160GB                   | 1        | 1.18%   |
-| WDC WD120EDAZ-11F3RA0 12TB                    | 1        | 1.18%   |
-| WDC WD10EZRZ-00HTKB0 1TB                      | 1        | 1.18%   |
-| WDC WD10EZEX-22BN5A0 1TB                      | 1        | 1.18%   |
-| WDC WD10EZEX-00RKKA0 1TB                      | 1        | 1.18%   |
-| WDC WD10EZEX-00BN5A0 1TB                      | 1        | 1.18%   |
-| WDC WD10EURX-61C57Y0 1TB                      | 1        | 1.18%   |
-| WDC WD10EALS-00Z8A0 1TB                       | 1        | 1.18%   |
-| WDC WD100EMAZ-00WJTA0 10TB                    | 1        | 1.18%   |
-| WDC WD1003FZEX-00K3CA0 1TB                    | 1        | 1.18%   |
-| Toshiba MG07ACA12TE 12TB                      | 1        | 1.18%   |
-| Toshiba HDWD110 1TB                           | 1        | 1.18%   |
-| Toshiba DT01ACA200 2TB                        | 1        | 1.18%   |
-| Toshiba DT01ACA100 1TB                        | 1        | 1.18%   |
-| Team T253X1480G 480GB SSD                     | 1        | 1.18%   |
-| SK hynix SHGP31-1000GM-2 1TB                  | 1        | 1.18%   |
-| Seagate ST980310AS 80GB                       | 1        | 1.18%   |
-| Seagate ST4000DM004-2CV104 4TB                | 1        | 1.18%   |
-| Seagate ST380819AS 80GB                       | 1        | 1.18%   |
-| Seagate ST380011A 80GB                        | 1        | 1.18%   |
-| Seagate ST3500418AS 500GB                     | 1        | 1.18%   |
-| Seagate ST3500410AS 500GB                     | 1        | 1.18%   |
-| Seagate ST2000DM008-2FR102 2TB                | 1        | 1.18%   |
-| Seagate ST2000DM001-1CH164 2TB                | 1        | 1.18%   |
-| Seagate ST1000VM002-1SD102 1TB                | 1        | 1.18%   |
-| Seagate ST1000NM0011 1TB                      | 1        | 1.18%   |
-| Seagate ST1000NM0001 1TB                      | 1        | 1.18%   |
-| Seagate ST1000DM010-2EP102 1TB                | 1        | 1.18%   |
-| Seagate ST1000DM003-1ER162 1TB                | 1        | 1.18%   |
-| Seagate DKS2D-H3R0SS 3TB                      | 1        | 1.18%   |
-| SanDisk SDSA6MM-016G-1006 16GB SSD            | 1        | 1.18%   |
-| Samsung SSD PM851 mSATA 256GB                 | 1        | 1.18%   |
-| Samsung SSD 970 EVO Plus 1TB                  | 1        | 1.18%   |
-| Samsung SSD 970 EVO 250GB                     | 1        | 1.18%   |
-| Samsung SSD 960 EVO 500GB                     | 1        | 1.18%   |
-| Samsung SSD 860 EVO 1TB                       | 1        | 1.18%   |
-| Samsung SSD 850 PRO 512GB                     | 1        | 1.18%   |
-| Samsung SSD 850 PRO 256GB                     | 1        | 1.18%   |
-| Samsung SSD 850 EVO M.2 250GB                 | 1        | 1.18%   |
-| Samsung SSD 750 EVO 250GB                     | 1        | 1.18%   |
-| Samsung NVMe SSD Controller SM981/PM981 512GB | 1        | 1.18%   |
+| Model                           | Desktops | Percent |
+|---------------------------------|----------|---------|
+| WDC WD1003FZEX-00MK2A0 1TB      | 2        | 2.35%   |
+| Toshiba MQ01ABD100 1TB          | 2        | 2.35%   |
+| Seagate ST500DM002-1BD142 500GB | 2        | 2.35%   |
+| Seagate ST4000VN008-2DR166 4TB  | 2        | 2.35%   |
+| Seagate ST31000524AS 1TB        | 2        | 2.35%   |
+| WDC WDS100T2B0C-00PXH0 1TB      | 1        | 1.18%   |
+| WDC WD5000BPVT-2 500GB          | 1        | 1.18%   |
+| WDC WD5000BPKX-60HPJT0 500GB    | 1        | 1.18%   |
+| WDC WD5000AAKX-00ERMA0 500GB    | 1        | 1.18%   |
+| WDC WD5000AAKS-00V0A0 500GB     | 1        | 1.18%   |
+| WDC WD5000AAKS-00A7B2 500GB     | 1        | 1.18%   |
+| WDC WD40EFRX-68WT0N0 4TB        | 1        | 1.18%   |
+| WDC WD40EFRX-68N32N0 4TB        | 1        | 1.18%   |
+| WDC WD30EZRX-00SPEB0 3TB        | 1        | 1.18%   |
+| WDC WD30EZRX-00M                | 1        | 1.18%   |
+| WDC WD30EFRX-68EUZN0 3TB        | 1        | 1.18%   |
+| WDC WD30EFRX-68AX9N0 3TB        | 1        | 1.18%   |
+| WDC WD2003FZEX-00Z4SA0 2TB      | 1        | 1.18%   |
+| WDC WD2003FZEX-0 2TB            | 1        | 1.18%   |
+| WDC WD1600AAJS-00PSA0 160GB     | 1        | 1.18%   |
+| WDC WD120EDAZ-11F3RA0 12TB      | 1        | 1.18%   |
+| WDC WD10EZRZ-00HTKB0 1TB        | 1        | 1.18%   |
+| WDC WD10EZEX-22BN5A0 1TB        | 1        | 1.18%   |
+| WDC WD10EZEX-00RKKA0 1TB        | 1        | 1.18%   |
+| WDC WD10EZEX-00BN5A0 1TB        | 1        | 1.18%   |
+| WDC WD10EURX-61C57Y0 1TB        | 1        | 1.18%   |
+| WDC WD10EALS-00Z8A0 1TB         | 1        | 1.18%   |
+| WDC WD100EMAZ-00WJTA0 10TB      | 1        | 1.18%   |
+| WDC WD1003FZEX-00K3CA0 1TB      | 1        | 1.18%   |
+| Toshiba MG07ACA12TE 12TB        | 1        | 1.18%   |
+| Toshiba HDWD110 1TB             | 1        | 1.18%   |
+| Toshiba DT01ACA200 2TB          | 1        | 1.18%   |
+| Toshiba DT01ACA100 1TB          | 1        | 1.18%   |
+| Team T253X1480G 480GB SSD       | 1        | 1.18%   |
+| SK hynix SHGP31-1000GM-2 1TB    | 1        | 1.18%   |
+| Seagate ST980310AS 80GB         | 1        | 1.18%   |
+| Seagate ST4000DM004-2CV104 4TB  | 1        | 1.18%   |
+| Seagate ST380819AS 80GB         | 1        | 1.18%   |
+| Seagate ST380011A 80GB          | 1        | 1.18%   |
+| Seagate ST3500418AS 500GB       | 1        | 1.18%   |
 
 HDD Vendor
 ----------
@@ -1183,10 +1163,6 @@ Storage controller models
 | Broadcom / LSI SAS2308 PCI-Express Fusion-MPT SAS-2                              | 1        | 1.56%   |
 | Broadcom / LSI SAS2116 PCI-Express Fusion-MPT SAS-2 [Meteor]                     | 1        | 1.56%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                     | 1        | 1.56%   |
-| ASMedia 106x SATA/RAID Controller                                                | 1        | 1.56%   |
-| AMD X370 Series Chipset SATA Controller                                          | 1        | 1.56%   |
-| AMD 300 Series Chipset SATA Controller                                           | 1        | 1.56%   |
-| 3ware 9650SE SATA-II RAID PCIe                                                   | 1        | 1.56%   |
 
 Storage Kind
 ------------
@@ -1543,7 +1519,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Xiaomi DPF90435 XMD009A 2224x1668 341x192mm 15.4-inch                | 1        | 3.03%   |
+| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 1        | 3.03%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.03%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.03%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.03%   |
@@ -1560,7 +1536,7 @@ Monitor models
 | Hewlett-Packard 2309 HWP2823 1920x1080 510x287mm 23.0-inch           | 1        | 3.03%   |
 | Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                 | 1        | 3.03%   |
 | Goldstar W2242 GSM5677 1680x1050 474x296mm 22.0-inch                 | 1        | 3.03%   |
-| Goldstar LG FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch            | 1        | 3.03%   |
+| Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch               | 1        | 3.03%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1        | 3.03%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1        | 3.03%   |
 | Gigabyte Technology G27Q GBT2709 2560x1440 600x330mm 27.0-inch       | 1        | 3.03%   |
@@ -1568,7 +1544,7 @@ Monitor models
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 3.03%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1        | 3.03%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1        | 3.03%   |
-| Dell 1905FP DEL400D 1280x1024 380x310mm 19.3-inch                    | 1        | 3.03%   |
+| Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                    | 1        | 3.03%   |
 | BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 531x299mm 24.0-inch              | 1        | 3.03%   |
 | BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                    | 1        | 3.03%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch              | 1        | 3.03%   |
@@ -2061,9 +2037,9 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.5%    |
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.5%    |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s          | 1        | 2.5%    |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s         | 1        | 2.5%    |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s        | 1        | 2.5%    |
-| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1        | 2.5%    |
+| Team RAM TEAMGROUP-UD4-3600 32GB DIMM DDR4 3600MT/s        | 1        | 2.5%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s         | 1        | 2.5%    |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.5%    |
 | SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s    | 1        | 2.5%    |
 | SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.5%    |
 | SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.5%    |
@@ -2071,26 +2047,26 @@ Memory module models
 | Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.5%    |
 | Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s     | 1        | 2.5%    |
 | Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s        | 1        | 2.5%    |
-| Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s    | 1        | 2.5%    |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.5%    |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.5%    |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.5%    |
-| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
+| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM 1600MT/s           | 1        | 2.5%    |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
+| Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
 | Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.5%    |
 | Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s    | 1        | 2.5%    |
 | HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s               | 1        | 2.5%    |
 | Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s      | 1        | 2.5%    |
 | Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s    | 1        | 2.5%    |
-| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s    | 1        | 2.5%    |
+| Crucial RAM BLS8G4D240FSB.16FBD2 8192MB DIMM DDR4 2400MT/s | 1        | 2.5%    |
 | Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s | 1        | 2.5%    |
 | Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.5%    |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.5%    |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 1        | 2.5%    |
-| Corsair RAM CMK16GX4M1A2666C16 16GB DIMM DDR4 2667MT/s     | 1        | 2.5%    |
+| Corsair RAM CMK16GX4M1A2666C16 16384MB DIMM DDR4 2667MT/s  | 1        | 2.5%    |
 | AMD RAM R534G1601S1SL 4GB DIMM DDR3 1600MT/s               | 1        | 2.5%    |
 | A Force RAM 1GX72V160K 8192MB DIMM DDR3 1333MT/s           | 1        | 2.5%    |
 | A Force RAM 1GX72B160K 8192MB DIMM DDR3 1333MT/s           | 1        | 2.5%    |
@@ -2137,9 +2113,9 @@ Memory module size
 |-------|----------|---------|
 | 8192  | 15       | 42.86%  |
 | 4096  | 8        | 22.86%  |
-| 16384 | 4        | 11.43%  |
 | 2048  | 4        | 11.43%  |
-| 32768 | 2        | 5.71%   |
+| 32768 | 3        | 8.57%   |
+| 16384 | 3        | 8.57%   |
 | 1024  | 2        | 5.71%   |
 
 Memory Speed

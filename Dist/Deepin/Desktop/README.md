@@ -592,12 +592,6 @@ Motherboard model
 | ASUS P5G41T-M LX2/BR                     | 1        | 1.92%   |
 | ASUS M5A78L-M/USB3                       | 1        | 1.92%   |
 | ASUS H110I-PLUS                          | 1        | 1.92%   |
-| ASRock Z77 Extreme4                      | 1        | 1.92%   |
-| ASRock Z68 Extreme7 Gen3                 | 1        | 1.92%   |
-| ASRock N68-S3 FX                         | 1        | 1.92%   |
-| ASRock J5005-ITX                         | 1        | 1.92%   |
-| AMD X64                                  | 1        | 1.92%   |
-| Unknown                                  | 1        | 1.92%   |
 
 Model Family
 ------------
@@ -649,8 +643,6 @@ Motherboard model prefix
 | ASRock Z68                           | 1        | 1.92%   |
 | ASRock N68-S3                        | 1        | 1.92%   |
 | ASRock J5005-ITX                     | 1        | 1.92%   |
-| AMD X64                              | 1        | 1.92%   |
-| Unknown                              | 1        | 1.92%   |
 
 MFG Year
 --------
@@ -902,13 +894,6 @@ Geographic location (city)
 | Getxo                   | 1        | 1.85%   |
 | Elektrėnai             | 1        | 1.85%   |
 | Dhaka                   | 1        | 1.85%   |
-| Cypress Hills           | 1        | 1.85%   |
-| Contagem                | 1        | 1.85%   |
-| Brasília               | 1        | 1.85%   |
-| Brandsen                | 1        | 1.85%   |
-| Blackburn               | 1        | 1.85%   |
-| Bengaluru               | 1        | 1.85%   |
-| Auckland                | 1        | 1.85%   |
 
 Drives
 ------
@@ -989,7 +974,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB            | 1        | 0.95%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 0.95%   |
 | Vaseky V800/256G 256GB SSD          | 1        | 0.95%   |
-| Unknown SD/MMC/MS PRO 128GB         | 1        | 0.95%   |
+| Unknown SD/MMC/MS PRO 2GB           | 1        | 0.95%   |
 | Toshiba MQ01ABF050 500GB            | 1        | 0.95%   |
 | Toshiba MQ01ABD075 752GB            | 1        | 0.95%   |
 | Toshiba DT01ACA200 2TB              | 1        | 0.95%   |
@@ -1003,26 +988,6 @@ Hard drive models
 | Seagate ST500LM012 HN-M500MBB 500GB | 1        | 0.95%   |
 | Seagate ST500DM002-1BD142 500GB     | 1        | 0.95%   |
 | Seagate ST3750528AS 752GB           | 1        | 0.95%   |
-| Seagate ST3500418AS 500GB           | 1        | 0.95%   |
-| Seagate ST3250312AS 250GB           | 1        | 0.95%   |
-| Seagate ST31000524AS 1TB            | 1        | 0.95%   |
-| Seagate ST2000LM003 HN-M201RAD 2TB  | 1        | 0.95%   |
-| Seagate ST1500DL003-9VT16L 1TB      | 1        | 0.95%   |
-| Seagate ST1000DM003-9YN162 1TB      | 1        | 0.95%   |
-| Seagate ST1000DM003-1CH162 1TB      | 1        | 0.95%   |
-| Seagate ST1000DL002-9TT153 1TB      | 1        | 0.95%   |
-| SanDisk SSD PLUS 240GB              | 1        | 0.95%   |
-| SanDisk SSD PLUS 120GB              | 1        | 0.95%   |
-| SanDisk SDSSDHP128G 128GB           | 1        | 0.95%   |
-| SanDisk SDSSDH3 500G                | 1        | 0.95%   |
-| SanDisk SDSSDA240G 240GB            | 1        | 0.95%   |
-| SanDisk SDSSDA120G 120GB            | 1        | 0.95%   |
-| SanDisk SD7SB6S-256G-1006 256GB SSD | 1        | 0.95%   |
-| Samsung SSD 970 EVO Plus 250GB      | 1        | 0.95%   |
-| Samsung SSD 860 EVO 500GB           | 1        | 0.95%   |
-| Samsung SSD 850 PRO 256GB           | 1        | 0.95%   |
-| Samsung SSD 850 EVO 500GB           | 1        | 0.95%   |
-| Samsung SSD 850 EVO 120GB           | 1        | 0.95%   |
 
 HDD Vendor
 ----------
@@ -1054,21 +1019,20 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SanDisk             | 7        | 11     | 18.42%  |
-| Kingston            | 5        | 9      | 13.16%  |
-| Samsung Electronics | 4        | 5      | 10.53%  |
-| China               | 4        | 4      | 10.53%  |
-| WDC                 | 3        | 3      | 7.89%   |
-| Crucial             | 3        | 4      | 7.89%   |
-| A-DATA Technology   | 3        | 4      | 7.89%   |
-| SPCC                | 2        | 2      | 5.26%   |
-| Vaseky              | 1        | 1      | 2.63%   |
-| KingDian            | 1        | 1      | 2.63%   |
-| KINGBANK            | 1        | 1      | 2.63%   |
-| JMicron Technology  | 1        | 1      | 2.63%   |
-| Intenso             | 1        | 2      | 2.63%   |
-| Hewlett-Packard     | 1        | 1      | 2.63%   |
-| Apacer              | 1        | 3      | 2.63%   |
+| SanDisk             | 7        | 11     | 18.92%  |
+| Kingston            | 5        | 9      | 13.51%  |
+| Samsung Electronics | 4        | 5      | 10.81%  |
+| China               | 4        | 4      | 10.81%  |
+| WDC                 | 3        | 3      | 8.11%   |
+| Crucial             | 3        | 4      | 8.11%   |
+| A-DATA Technology   | 3        | 4      | 8.11%   |
+| SPCC                | 2        | 2      | 5.41%   |
+| Vaseky              | 1        | 1      | 2.7%    |
+| KingDian            | 1        | 1      | 2.7%    |
+| KINGBANK            | 1        | 1      | 2.7%    |
+| Intenso             | 1        | 2      | 2.7%    |
+| Hewlett-Packard     | 1        | 1      | 2.7%    |
+| Apacer              | 1        | 3      | 2.7%    |
 
 Drive Kind
 ----------
@@ -1080,10 +1044,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 36       | 59     | 46.15%  |
-| SSD     | 30       | 52     | 38.46%  |
-| NVMe    | 11       | 13     | 14.1%   |
-| Unknown | 1        | 2      | 1.28%   |
+| HDD     | 36       | 59     | 45.57%  |
+| SSD     | 30       | 51     | 37.97%  |
+| NVMe    | 12       | 14     | 15.19%  |
+| Unknown | 1        | 2      | 1.27%   |
 
 Drive Connector
 ---------------
@@ -1109,7 +1073,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 71     | 55.07%  |
+| 0.01-0.5   | 38       | 70     | 55.07%  |
 | 0.51-1.0   | 26       | 33     | 37.68%  |
 | 1.01-2.0   | 5        | 7      | 7.25%   |
 
@@ -1327,13 +1291,6 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                        | 1        | 1.16%   |
 | Intel 4 Series Chipset PT IDER Controller                                               | 1        | 1.16%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 1        | 1.16%   |
-| Beijing Starblaze STAR1200C NVMe SSD                                                    | 1        | 1.16%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 1        | 1.16%   |
-| AMD FCH SATA Controller D                                                               | 1        | 1.16%   |
-| AMD FCH IDE Controller                                                                  | 1        | 1.16%   |
-| AMD 500 Series Chipset SATA Controller                                                  | 1        | 1.16%   |
-| AMD 400 Series Chipset SATA Controller                                                  | 1        | 1.16%   |
-| AMD 300 Series Chipset SATA Controller                                                  | 1        | 1.16%   |
 
 Storage Kind
 ------------
@@ -1624,10 +1581,6 @@ Graphics card models
 | AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                              | 1        | 1.79%   |
 | AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                     | 1        | 1.79%   |
 | AMD Kryptos [Radeon RX 350]                                                 | 1        | 1.79%   |
-| AMD Kabini [Radeon HD 8400 / R3 Series]                                     | 1        | 1.79%   |
-| AMD Hawaii PRO [Radeon R9 290/390]                                          | 1        | 1.79%   |
-| AMD Caicos [Radeon HD 6450/7450/8450 / R5 230 OEM]                          | 1        | 1.79%   |
-| AMD Caicos PRO [Radeon HD 7450]                                             | 1        | 1.79%   |
 
 GPU Combo
 ---------
@@ -1723,67 +1676,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                    | 2        | 3.33%   |
-| ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch              | 1        | 1.67%   |
-| ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch              | 1        | 1.67%   |
-| Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 1.67%   |
-| Toshiba TV TSB0108 1920x1080 708x398mm 32.0-inch                        | 1        | 1.67%   |
-| TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                        | 1        | 1.67%   |
-| SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                         | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch    | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM0601 1600x900                         | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM05FF 1600x900 443x249mm 20.0-inch     | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM02B6 1920x1200 518x324mm 24.1-inch    | 1        | 1.67%   |
-| Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch     | 1        | 1.67%   |
-| Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch       | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SMS23A350H 1920x1080                    | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0E90 1366x768 609x347mm 27.6-inch    | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1020x570mm 46.0-inch  | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E390 1920x1080                       | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E360 1920x1080                       | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E310 3840x1080                       | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E310                                 | 1        | 1.67%   |
-| RTK FHD HDR RTKBC32 1920x1080 332x186mm 15.0-inch                       | 1        | 1.67%   |
-| Positivo FIT85X NON1801 1360x768 344x194mm 15.5-inch                    | 1        | 1.67%   |
-| Philips FTV PHL04C2 1920x1080 1440x810mm 65.0-inch                      | 1        | 1.67%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                      | 1        | 1.67%   |
-| MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                       | 1        | 1.67%   |
-| Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch                 | 1        | 1.67%   |
-| Lenovo E1922s Wide LEN60BD 1366x768 410x230mm 18.5-inch                 | 1        | 1.67%   |
-| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                    | 1        | 1.67%   |
-| Iiyama PL2792Q IVM662F 2560x1440 597x336mm 27.0-inch                    | 1        | 1.67%   |
-| Hisense LCD Monitor HDMI 1360x768                                       | 1        | 1.67%   |
-| Hewlett-Packard VH240a HPN3499 1920x1080 530x300mm 24.0-inch            | 1        | 1.67%   |
-| Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch        | 1        | 1.67%   |
-| Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch              | 1        | 1.67%   |
-| Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch              | 1        | 1.67%   |
-| Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch              | 1        | 1.67%   |
-| Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                   | 1        | 1.67%   |
-| Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                   | 1        | 1.67%   |
-| Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch               | 1        | 1.67%   |
-| Goldstar E2360 GSM57E4 1920x1080 510x290mm 23.1-inch                    | 1        | 1.67%   |
-| Goldstar 2D HD TV GSM59CA 1366x768 509x286mm 23.0-inch                  | 1        | 1.67%   |
-| Goldstar 22MP55 GSM5A26 1920x1080 477x268mm 21.5-inch                   | 1        | 1.67%   |
-| Gateway HD2201 GWY08AF 1680x1050 465x261mm 21.0-inch                    | 1        | 1.67%   |
-| DTV DTV DTV0030 1600x1200 708x398mm 32.0-inch                           | 1        | 1.67%   |
-| Dell P2314H DEL4099 1920x1080 509x286mm 23.0-inch                       | 1        | 1.67%   |
-| Dell P2314H DEL4098 1920x1080 510x290mm 23.1-inch                       | 1        | 1.67%   |
-| Dell LCD Monitor DELF112 1920x1080 530x300mm 24.0-inch                  | 1        | 1.67%   |
-| BOE LCD Monitor BOE0691 1920x1080 280x160mm 12.7-inch                   | 1        | 1.67%   |
-| BenQ XL2430T BNQ7F3D 1920x1080 531x298mm 24.0-inch                      | 1        | 1.67%   |
-| ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch            | 1        | 1.67%   |
-| AOC Q24P1W1 AOC2401 2560x1440 530x300mm 24.0-inch                       | 1        | 1.67%   |
-| AOC 2267W AOC2267 1920x1080 476x268mm 21.5-inch                         | 1        | 1.67%   |
-| Ancor Communications LCD Monitor ASUS VS247 3840x1080                   | 1        | 1.67%   |
-| Ancor Communications LCD Monitor ASUS VS247                             | 1        | 1.67%   |
-| Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch   | 1        | 1.67%   |
-| Ancor Communications ASUS VC239 ACI23C4 1920x1080 509x286mm 23.0-inch   | 1        | 1.67%   |
-| Ancor Communications ASUS MX239 ACI23C2 1920x1080 528x310mm 24.1-inch   | 1        | 1.67%   |
-| Acer P193W ACRADAA 1440x900 408x255mm 18.9-inch                         | 1        | 1.67%   |
-| Acer K272HUL ACR0524 2560x1440 598x336mm 27.0-inch                      | 1        | 1.67%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                  | 2        | 3.33%   |
+| ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch            | 1        | 1.67%   |
+| ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch            | 1        | 1.67%   |
+| Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.67%   |
+| Toshiba TV TSB0108 1920x1080 708x398mm 32.0-inch                      | 1        | 1.67%   |
+| TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                      | 1        | 1.67%   |
+| SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                       | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM0601 1600x900                       | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM05FF 1600x900 443x249mm 20.0-inch   | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM02B6 1920x1200 518x324mm 24.1-inch  | 1        | 1.67%   |
+| Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch   | 1        | 1.67%   |
+| Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch     | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SMS23A350H 1920x1080                  | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0E90 1366x768 609x347mm 27.6-inch  | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E390 1920x1080                     | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E360 1920x1080                     | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E310 3840x1080                     | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E310                               | 1        | 1.67%   |
+| RTK FHD HDR RTKBC32 1920x1080 332x186mm 15.0-inch                     | 1        | 1.67%   |
+| Positivo FIT85X NON1801 1360x768 344x194mm 15.5-inch                  | 1        | 1.67%   |
+| Philips FTV PHL04C2 1920x1080 1440x810mm 65.0-inch                    | 1        | 1.67%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                    | 1        | 1.67%   |
+| MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                     | 1        | 1.67%   |
+| Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch               | 1        | 1.67%   |
+| Lenovo E1922s  Wide LEN60BD 1366x768 410x230mm 18.5-inch              | 1        | 1.67%   |
+| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                  | 1        | 1.67%   |
+| Iiyama PL2792Q IVM662F 2560x1440 597x336mm 27.0-inch                  | 1        | 1.67%   |
+| Hisense LCD Monitor HDMI 1360x768                                     | 1        | 1.67%   |
+| Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch          | 1        | 1.67%   |
+| Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch      | 1        | 1.67%   |
+| Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch            | 1        | 1.67%   |
+| Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch            | 1        | 1.67%   |
+| Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch            | 1        | 1.67%   |
+| Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                 | 1        | 1.67%   |
+| Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                 | 1        | 1.67%   |
+| Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch             | 1        | 1.67%   |
+| Goldstar E2360 GSM57E4 1920x1080 510x290mm 23.1-inch                  | 1        | 1.67%   |
 
 Monitor Resolution
 ------------------
@@ -1990,8 +1924,8 @@ Controller models
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.3%    |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.3%    |
 | NetGear A6210                                                     | 1        | 1.3%    |
+| MediaTek Nokia 5.1 Plus                                           | 1        | 1.3%    |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 1.3%    |
-| MediaTek moto e6s                                                 | 1        | 1.3%    |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.3%    |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.3%    |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.3%    |
@@ -2006,7 +1940,6 @@ Controller models
 | IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]              | 1        | 1.3%    |
 | Broadcom NetLink BCM57788 Gigabit Ethernet PCIe                   | 1        | 1.3%    |
 | Aquantia AQC111 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 1        | 1.3%    |
-| Unknown                                                           | 1        | 1.3%    |
 
 Wireless Vendor
 ---------------
@@ -2096,7 +2029,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.69%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.69%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.69%   |
-| MediaTek moto e6s                                                 | 1        | 1.69%   |
+| MediaTek Nokia 5.1 Plus                                           | 1        | 1.69%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.69%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.69%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.69%   |
@@ -2193,16 +2126,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)      | 10       | 58.82%  |
-| Realtek Bluetooth Radio                                  | 1        | 5.88%   |
-| Qualcomm Atheros Bluetooth USB Host Controller           | 1        | 5.88%   |
-| MediaTek BT                                              | 1        | 5.88%   |
-| Intel Wireless-AC 3168 Bluetooth                         | 1        | 5.88%   |
-| Intel AX201 Bluetooth                                    | 1        | 5.88%   |
-| Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 5.88%   |
-| ASUS Broadcom BCM20702A0 Bluetooth                       | 1        | 5.88%   |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 10       | 58.82%  |
+| Realtek Bluetooth Radio                             | 1        | 5.88%   |
+| Qualcomm Atheros Bluetooth USB Host Controller      | 1        | 5.88%   |
+| MediaTek BT                                         | 1        | 5.88%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 5.88%   |
+| Intel AX201 Bluetooth                               | 1        | 5.88%   |
+| Dynex BCM20702A0                                    | 1        | 5.88%   |
+| ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 5.88%   |
 
 Sound
 -----
@@ -2277,17 +2210,6 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                                        | 1        | 1.04%   |
 | Intel 9 Series Chipset Family HD Audio Controller                                 | 1        | 1.04%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                                  | 1        | 1.04%   |
-| C-Media Electronics Multimedia Headset [Gigaware by Ignition L.P.]                | 1        | 1.04%   |
-| C-Media Electronics Audio Adapter (Unitek Y-247A)                                 | 1        | 1.04%   |
-| BEHRINGER International UMC202HD 192k                                             | 1        | 1.04%   |
-| AMD Wrestler HDMI Audio                                                           | 1        | 1.04%   |
-| AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                        | 1        | 1.04%   |
-| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                         | 1        | 1.04%   |
-| AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                                | 1        | 1.04%   |
-| AMD Navi 10 HDMI Audio                                                            | 1        | 1.04%   |
-| AMD Kabini HDMI/DP Audio                                                          | 1        | 1.04%   |
-| AMD Hawaii HDMI Audio [Radeon R9 290/290X / 390/390X]                             | 1        | 1.04%   |
-| AMD Audio device                                                                  | 1        | 1.04%   |
 
 Memory
 ------
@@ -2330,15 +2252,15 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                     | 1        | 3.57%   |
 | Unknown RAM Module 2GB DIMM SDRAM                          | 1        | 3.57%   |
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s         | 1        | 3.57%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s        | 1        | 3.57%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s     | 1        | 3.57%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s         | 1        | 3.57%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s        | 1        | 3.57%   |
 | Ramaxel RAM RMSA3230KE68H9F213 4096MB SODIMM DDR4 2133MT/s | 1        | 3.57%   |
 | Nanya RAM M2X4G64CB8HG5N-DG 4096MB DIMM DDR3 1867MT/s      | 1        | 3.57%   |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s             | 1        | 3.57%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 1        | 3.57%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s          | 1        | 3.57%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s        | 1        | 3.57%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s        | 1        | 3.57%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 3.57%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 3.57%   |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s   | 1        | 3.57%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 3.57%   |
@@ -2347,7 +2269,7 @@ Memory module models
 | G.Skill RAM F3-14900CL10-8GBXL 8GB DIMM DDR3 1867MT/s      | 1        | 3.57%   |
 | CSX RAM V01D3LF4GB26826813 4GB DIMM DDR3 1333MT/s          | 1        | 3.57%   |
 | Corsair RAM CMK8GX4M1A2400C16 8GB DIMM DDR4 2800MT/s       | 1        | 3.57%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s      | 1        | 3.57%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s      | 1        | 3.57%   |
 | Corsair RAM CMK16GX4M1B3000C15 16GB DIMM DDR4 3400MT/s     | 1        | 3.57%   |
 | Apacer RAM 76.C346G.C850C 8192MB SODIMM DDR3 1600MT/s      | 1        | 3.57%   |
 | A-DATA RAM DDR4 2400 2OZ 8GB DIMM DDR4 3000MT/s            | 1        | 3.57%   |
@@ -2479,10 +2401,10 @@ Camera device vendors
 | Vendor                 | Desktops | Percent |
 |------------------------|----------|---------|
 | Logitech               | 5        | 55.56%  |
-| webcam                 | 1        | 11.11%  |
 | Microdia               | 1        | 11.11%  |
 | Generalplus Technology | 1        | 11.11%  |
 | Arkmicro Technologies  | 1        | 11.11%  |
+| 2M UVC CAMERA          | 1        | 11.11%  |
 
 Camera Model
 ------------
@@ -2492,15 +2414,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| Logitech Webcam C270          | 3        | 33.33%  |
-| webcam webcam                 | 1        | 11.11%  |
-| Microdia Integrated_Webcam_HD | 1        | 11.11%  |
-| Logitech Webcam C200          | 1        | 11.11%  |
-| Logitech HD Pro Webcam C920   | 1        | 11.11%  |
-| Generalplus GENERAL WEBCAM    | 1        | 11.11%  |
-| Arkmicro USB2.0 PC CAMERA     | 1        | 11.11%  |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Logitech Webcam C270                | 3        | 33.33%  |
+| Microdia Integrated_Webcam_HD       | 1        | 11.11%  |
+| Logitech Webcam C200                | 1        | 11.11%  |
+| Logitech HD Pro Webcam C920         | 1        | 11.11%  |
+| Generalplus GENERAL WEBCAM          | 1        | 11.11%  |
+| Arkmicro USB2.0 PC CAMERA           | 1        | 11.11%  |
+| 2M UVC CAMERA NexiGo N60 FHD Webcam | 1        | 11.11%  |
 
 Security
 --------

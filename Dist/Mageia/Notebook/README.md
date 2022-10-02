@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 42
+Total: 43
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| Irbis    | NB264                       | [103ca2d20b](https://linux-hardware.org/?probe=103ca2d20b) | Sep 16, 2022 |
 | ASUSTek  | X751LN                      | [68cd0152fb](https://linux-hardware.org/?probe=68cd0152fb) | Aug 22, 2022 |
 | Schenker | VIA_14_SVI14E20             | [3adb69bbf5](https://linux-hardware.org/?probe=3adb69bbf5) | Jun 03, 2022 |
 | Notebook | NH5x_NH7x_HHx_HJx_HKx       | [e30e3da709](https://linux-hardware.org/?probe=e30e3da709) | May 18, 2022 |
@@ -1444,7 +1445,7 @@ Monitor models
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 3.45%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                   | 1         | 3.45%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch                   | 1         | 3.45%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 1         | 3.45%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 1         | 3.45%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 3.45%   |
@@ -1610,7 +1611,7 @@ Controller models
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 2         | 4.44%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 4.44%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 4.44%   |
-| Sierra Wireless MC8305                                            | 1         | 2.22%   |
+| Sierra Wireless MC8305 Modem                                      | 1         | 2.22%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 2.22%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 2.22%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 2.22%   |
@@ -1668,7 +1669,7 @@ Wireless models
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 2         | 7.69%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 2         | 7.69%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 7.69%   |
-| Sierra Wireless MC8305                                         | 1         | 3.85%   |
+| Sierra Wireless MC8305 Modem                                   | 1         | 3.85%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 3.85%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1         | 3.85%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter               | 1         | 3.85%   |
@@ -1889,14 +1890,15 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Samsung Electronics | 6         | 25%     |
-| SK hynix            | 5         | 20.83%  |
-| Kingston            | 4         | 16.67%  |
-| Micron Technology   | 3         | 12.5%   |
-| Unknown             | 2         | 8.33%   |
-| Corsair             | 2         | 8.33%   |
-| Smart               | 1         | 4.17%   |
-| Crucial             | 1         | 4.17%   |
+| Samsung Electronics | 6         | 24%     |
+| SK hynix            | 5         | 20%     |
+| Kingston            | 4         | 16%     |
+| Micron Technology   | 3         | 12%     |
+| Unknown             | 2         | 8%      |
+| Corsair             | 2         | 8%      |
+| Unknown (ABCD)      | 1         | 4%      |
+| Smart               | 1         | 4%      |
+| Crucial             | 1         | 4%      |
 
 Memory Model
 ------------
@@ -1906,33 +1908,34 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Notebooks | Percent |
-|------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 4GB SODIMM DDR4 2400MT/s                | 1         | 4%      |
-| Unknown RAM Module 2048MB SODIMM DDR2 975MT/s              | 1         | 4%      |
-| Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s               | 1         | 4%      |
-| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
-| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s     | 1         | 4%      |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
-| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s             | 1         | 4%      |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
-| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
-| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s      | 1         | 4%      |
-| Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
-| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
-| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s  | 1         | 4%      |
-| Kingston RAM KFYHV1-HYC 4096MB SODIMM DDR3 1600MT/s        | 1         | 4%      |
-| Kingston RAM KCRXJ6-MIE 16GB SODIMM DDR4 2667MT/s          | 1         | 4%      |
-| Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| Kingston RAM 9905428-102.A00G 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s | 1         | 4%      |
-| Corsair RAM CMSX16GX4M1A2666C18 16GB SODIMM DDR4 2667MT/s  | 1         | 4%      |
-| Corsair RAM CM4X8GF2666C18S2 8GB SODIMM DDR4 3000MT/s      | 1         | 4%      |
+| Model                                                            | Notebooks | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 4GB SODIMM DDR4 2400MT/s                      | 1         | 3.85%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 975MT/s                    | 1         | 3.85%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 3.85%   |
+| Smart RAM SH564128FH8NZQNSCG 4096MB SODIMM DDR3 1600MT/s         | 1         | 3.85%   |
+| SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                     | 1         | 3.85%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4096MB SODIMM DDR4 2133MT/s        | 1         | 3.85%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 3.85%   |
+| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 3.85%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
+| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
+| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s         | 1         | 3.85%   |
+| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 3.85%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s            | 1         | 3.85%   |
+| Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 3.85%   |
+| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s            | 1         | 3.85%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s        | 1         | 3.85%   |
+| Kingston RAM KFYHV1-HYC 4096MB SODIMM DDR3 1600MT/s              | 1         | 3.85%   |
+| Kingston RAM KCRXJ6-MIE 16GB SODIMM DDR4 2667MT/s                | 1         | 3.85%   |
+| Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
+| Kingston RAM 9905428-102.A00G 4GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
+| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
+| Corsair RAM CMSX16GX4M1A2666C18 16GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
+| Corsair RAM CM4X8GF2666C18S2 8GB SODIMM DDR4 3000MT/s            | 1         | 3.85%   |
 
 Memory Kind
 -----------
@@ -1942,11 +1945,12 @@ Memory module kinds
 ![Memory Kind](./images/pie_chart/memory_kind.svg)
 
 
-| Kind | Notebooks | Percent |
-|------|-----------|---------|
-| DDR4 | 10        | 52.63%  |
-| DDR3 | 8         | 42.11%  |
-| DDR2 | 1         | 5.26%   |
+| Kind   | Notebooks | Percent |
+|--------|-----------|---------|
+| DDR4   | 10        | 50%     |
+| DDR3   | 8         | 40%     |
+| LPDDR4 | 1         | 5%      |
+| DDR2   | 1         | 5%      |
 
 Memory Form Factor
 ------------------
@@ -1958,7 +1962,7 @@ Physical design of the memory module
 
 | Name   | Notebooks | Percent |
 |--------|-----------|---------|
-| SODIMM | 19        | 100%    |
+| SODIMM | 20        | 100%    |
 
 Memory Size
 -----------
@@ -1970,10 +1974,10 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 9         | 47.37%  |
-| 8192  | 6         | 31.58%  |
-| 16384 | 2         | 10.53%  |
-| 2048  | 2         | 10.53%  |
+| 4096  | 10        | 50%     |
+| 8192  | 6         | 30%     |
+| 16384 | 2         | 10%     |
+| 2048  | 2         | 10%     |
 
 Memory Speed
 ------------
@@ -1985,16 +1989,16 @@ Memory module speed
 
 | Speed | Notebooks | Percent |
 |-------|-----------|---------|
-| 1600  | 6         | 27.27%  |
-| 2667  | 4         | 18.18%  |
-| 2400  | 3         | 13.64%  |
-| 3200  | 2         | 9.09%   |
-| 2133  | 2         | 9.09%   |
-| 3000  | 1         | 4.55%   |
-| 1334  | 1         | 4.55%   |
-| 1066  | 1         | 4.55%   |
-| 975   | 1         | 4.55%   |
-| 667   | 1         | 4.55%   |
+| 1600  | 6         | 26.09%  |
+| 2667  | 4         | 17.39%  |
+| 2400  | 4         | 17.39%  |
+| 3200  | 2         | 8.7%    |
+| 2133  | 2         | 8.7%    |
+| 3000  | 1         | 4.35%   |
+| 1334  | 1         | 4.35%   |
+| 1066  | 1         | 4.35%   |
+| 975   | 1         | 4.35%   |
+| 667   | 1         | 4.35%   |
 
 Printers & scanners
 -------------------
@@ -2080,8 +2084,8 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 3.85%   |
-| Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 3.85%   |
-| Alcor Micro USB 2.0 Camera                                                 | 1         | 3.85%   |
+| Apple iPhone5/5C/5S/6                                                      | 1         | 3.85%   |
+| Alcor Micro SHUNCCM2MP                                                     | 1         | 3.85%   |
 | Acer BisonCam,NB Pro                                                       | 1         | 3.85%   |
 
 Security

@@ -1527,7 +1527,7 @@ Memory module models
 | Model                                                | Desktops | Percent |
 |------------------------------------------------------|----------|---------|
 | Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s | 1        | 25%     |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s    | 1        | 25%     |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s | 1        | 25%     |
 | G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s   | 1        | 25%     |
 | A-DATA RAM Module 8GB DIMM DDR4 2667MT/s             | 1        | 25%     |
 

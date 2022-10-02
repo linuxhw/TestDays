@@ -292,15 +292,6 @@ Version of the Linux kernel
 | 4.4.190-smp          | 1         | 1.52%   |
 | 4.4.189              | 1         | 1.52%   |
 | 4.4.14               | 1         | 1.52%   |
-| 4.20.11              | 1         | 1.52%   |
-| 4.19.98-Unraid       | 1         | 1.52%   |
-| 4.19.88-Unraid       | 1         | 1.52%   |
-| 4.19.79              | 1         | 1.52%   |
-| 4.19.76              | 1         | 1.52%   |
-| 4.19.206.a           | 1         | 1.52%   |
-| 4.19.107-Unraid      | 1         | 1.52%   |
-| 4.19.10              | 1         | 1.52%   |
-| 4.16.18              | 1         | 1.52%   |
 
 Kernel Family
 -------------
@@ -310,56 +301,48 @@ Linux kernel without a distro release
 ![Kernel Family](./All/images/pie_chart/os_kernel_family.svg)
 
 
-| Version  | Computers | Percent |
-|----------|-----------|---------|
-| 4.19.80  | 7         | 10.61%  |
-| 5.10.28  | 6         | 9.09%   |
-| 4.4.190  | 5         | 7.58%   |
-| 4.4.240  | 3         | 4.55%   |
-| 5.3.7    | 2         | 3.03%   |
-| 5.7.0    | 1         | 1.52%   |
-| 5.5.10   | 1         | 1.52%   |
-| 5.4.77   | 1         | 1.52%   |
-| 5.4.75   | 1         | 1.52%   |
-| 5.4.62   | 1         | 1.52%   |
-| 5.4.53   | 1         | 1.52%   |
-| 5.4.50   | 1         | 1.52%   |
-| 5.4.47   | 1         | 1.52%   |
-| 5.4.43   | 1         | 1.52%   |
-| 5.4.24   | 1         | 1.52%   |
-| 5.4.2    | 1         | 1.52%   |
-| 5.4.13   | 1         | 1.52%   |
-| 5.4.12   | 1         | 1.52%   |
-| 5.4.0    | 1         | 1.52%   |
-| 5.2.2    | 1         | 1.52%   |
-| 5.15.50  | 1         | 1.52%   |
-| 5.13.0   | 1         | 1.52%   |
-| 5.12.12  | 1         | 1.52%   |
-| 5.10.44  | 1         | 1.52%   |
-| 5.10.40  | 1         | 1.52%   |
-| 5.10.4   | 1         | 1.52%   |
-| 5.10.3   | 1         | 1.52%   |
-| 5.10.21  | 1         | 1.52%   |
-| 5.10.19  | 1         | 1.52%   |
-| 4.9.248  | 1         | 1.52%   |
-| 4.9.118  | 1         | 1.52%   |
-| 4.4.88   | 1         | 1.52%   |
-| 4.4.276  | 1         | 1.52%   |
-| 4.4.261  | 1         | 1.52%   |
-| 4.4.227  | 1         | 1.52%   |
-| 4.4.206  | 1         | 1.52%   |
-| 4.4.202  | 1         | 1.52%   |
-| 4.4.189  | 1         | 1.52%   |
-| 4.4.14   | 1         | 1.52%   |
-| 4.20.11  | 1         | 1.52%   |
-| 4.19.98  | 1         | 1.52%   |
-| 4.19.88  | 1         | 1.52%   |
-| 4.19.79  | 1         | 1.52%   |
-| 4.19.76  | 1         | 1.52%   |
-| 4.19.206 | 1         | 1.52%   |
-| 4.19.107 | 1         | 1.52%   |
-| 4.19.10  | 1         | 1.52%   |
-| 4.16.18  | 1         | 1.52%   |
+| Version | Computers | Percent |
+|---------|-----------|---------|
+| 4.19.80 | 7         | 10.61%  |
+| 5.10.28 | 6         | 9.09%   |
+| 4.4.190 | 5         | 7.58%   |
+| 4.4.240 | 3         | 4.55%   |
+| 5.3.7   | 2         | 3.03%   |
+| 5.7.0   | 1         | 1.52%   |
+| 5.5.10  | 1         | 1.52%   |
+| 5.4.77  | 1         | 1.52%   |
+| 5.4.75  | 1         | 1.52%   |
+| 5.4.62  | 1         | 1.52%   |
+| 5.4.53  | 1         | 1.52%   |
+| 5.4.50  | 1         | 1.52%   |
+| 5.4.47  | 1         | 1.52%   |
+| 5.4.43  | 1         | 1.52%   |
+| 5.4.24  | 1         | 1.52%   |
+| 5.4.2   | 1         | 1.52%   |
+| 5.4.13  | 1         | 1.52%   |
+| 5.4.12  | 1         | 1.52%   |
+| 5.4.0   | 1         | 1.52%   |
+| 5.2.2   | 1         | 1.52%   |
+| 5.15.50 | 1         | 1.52%   |
+| 5.13.0  | 1         | 1.52%   |
+| 5.12.12 | 1         | 1.52%   |
+| 5.10.44 | 1         | 1.52%   |
+| 5.10.40 | 1         | 1.52%   |
+| 5.10.4  | 1         | 1.52%   |
+| 5.10.3  | 1         | 1.52%   |
+| 5.10.21 | 1         | 1.52%   |
+| 5.10.19 | 1         | 1.52%   |
+| 4.9.248 | 1         | 1.52%   |
+| 4.9.118 | 1         | 1.52%   |
+| 4.4.88  | 1         | 1.52%   |
+| 4.4.276 | 1         | 1.52%   |
+| 4.4.261 | 1         | 1.52%   |
+| 4.4.227 | 1         | 1.52%   |
+| 4.4.206 | 1         | 1.52%   |
+| 4.4.202 | 1         | 1.52%   |
+| 4.4.189 | 1         | 1.52%   |
+| 4.4.14  | 1         | 1.52%   |
+| 4.20.11 | 1         | 1.52%   |
 
 Kernel Major Ver.
 -----------------
@@ -627,26 +610,6 @@ Motherboard model
 | Dell Precision WorkStation T3400         | 1         | 1.61%   |
 | Dell Precision T3600                     | 1         | 1.61%   |
 | Dell Precision M4600                     | 1         | 1.61%   |
-| Dell Latitude E7270                      | 1         | 1.61%   |
-| Dell Latitude E5500                      | 1         | 1.61%   |
-| ASUS VivoBook_ASUSLaptop X570ZD_K570ZD   | 1         | 1.61%   |
-| ASUS ROG STRIX X470-F GAMING             | 1         | 1.61%   |
-| ASUS Pro WS X570-ACE                     | 1         | 1.61%   |
-| ASUS PRIME X370-PRO                      | 1         | 1.61%   |
-| ASUS PRIME B450-PLUS                     | 1         | 1.61%   |
-| ASUS PRIME B350M-A                       | 1         | 1.61%   |
-| ASUS P5QLD PRO                           | 1         | 1.61%   |
-| ASUS P53E                                | 1         | 1.61%   |
-| ASUS M5A97 R2.0                          | 1         | 1.61%   |
-| ASUS A68HM-PLUS                          | 1         | 1.61%   |
-| ASUS 1000H                               | 1         | 1.61%   |
-| ASRock Z390M-ITX/ac                      | 1         | 1.61%   |
-| ASRock H87M Pro4                         | 1         | 1.61%   |
-| ASRock H310CM-HDV                        | 1         | 1.61%   |
-| AMI Aptio CRB                            | 1         | 1.61%   |
-| Acer Swift SF314-52                      | 1         | 1.61%   |
-| Acer Aspire E1-572                       | 1         | 1.61%   |
-| Unknown                                  | 1         | 1.61%   |
 
 Model Family
 ------------
@@ -698,15 +661,6 @@ Motherboard model prefix
 | ASUS P5QLD         | 1         | 1.61%   |
 | ASUS P53E          | 1         | 1.61%   |
 | ASUS M5A97         | 1         | 1.61%   |
-| ASUS A68HM-PLUS    | 1         | 1.61%   |
-| ASUS 1000H         | 1         | 1.61%   |
-| ASRock Z390M-ITX   | 1         | 1.61%   |
-| ASRock H87M        | 1         | 1.61%   |
-| ASRock H310CM-HDV  | 1         | 1.61%   |
-| AMI Aptio          | 1         | 1.61%   |
-| Acer Swift         | 1         | 1.61%   |
-| Acer Aspire        | 1         | 1.61%   |
-| Unknown            | 1         | 1.61%   |
 
 MFG Year
 --------
@@ -971,19 +925,6 @@ Geographic location (city)
 | Koblenz                | 1         | 1.56%   |
 | Jaipur                 | 1         | 1.56%   |
 | Hornsey                | 1         | 1.56%   |
-| Helsinki               | 1         | 1.56%   |
-| Hampstead              | 1         | 1.56%   |
-| Gothenburg             | 1         | 1.56%   |
-| Garfield               | 1         | 1.56%   |
-| Faridabad              | 1         | 1.56%   |
-| Düsseldorf            | 1         | 1.56%   |
-| Dallas                 | 1         | 1.56%   |
-| Canandaigua            | 1         | 1.56%   |
-| Camp Hill              | 1         | 1.56%   |
-| Brisbane               | 1         | 1.56%   |
-| Borken                 | 1         | 1.56%   |
-| Bengaluru              | 1         | 1.56%   |
-| Augsburg               | 1         | 1.56%   |
 
 Drives
 ------
@@ -1073,26 +1014,6 @@ Hard drive models
 | Unknown SC32G  32GB                  | 1         | 0.81%   |
 | Unknown 00000  32GB                  | 1         | 0.81%   |
 | Toshiba MK2565GSXN 250GB             | 1         | 0.81%   |
-| Toshiba MK1646GSX 160GB              | 1         | 0.81%   |
-| Toshiba MG07ACA12TE 12TB             | 1         | 0.81%   |
-| Toshiba HDWD110 1TB                  | 1         | 0.81%   |
-| Toshiba DT01ACA200 2TB               | 1         | 0.81%   |
-| Toshiba DT01ACA100 1TB               | 1         | 0.81%   |
-| TO Exter nal USB 3.0 240GB           | 1         | 0.81%   |
-| Team T253X1480G 480GB SSD            | 1         | 0.81%   |
-| SK hynix SHGP31-1000GM-2 1TB         | 1         | 0.81%   |
-| Seagate ST980310AS 80GB              | 1         | 0.81%   |
-| Seagate ST9160827AS 160GB            | 1         | 0.81%   |
-| Seagate ST9160412AS 160GB            | 1         | 0.81%   |
-| Seagate ST500VT000-1DK142 500GB      | 1         | 0.81%   |
-| Seagate ST4000DM004-2CV104 4TB       | 1         | 0.81%   |
-| Seagate ST380819AS 80GB              | 1         | 0.81%   |
-| Seagate ST380011A 80GB               | 1         | 0.81%   |
-| Seagate ST3500418AS 500GB            | 1         | 0.81%   |
-| Seagate ST3500410AS 500GB            | 1         | 0.81%   |
-| Seagate ST2000DM008-2FR102 2TB       | 1         | 0.81%   |
-| Seagate ST2000DM001-1CH164 2TB       | 1         | 0.81%   |
-| Seagate ST1000VM002-1SD102 1TB       | 1         | 0.81%   |
 
 HDD Vendor
 ----------
@@ -1418,26 +1339,6 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 1         | 1.03%   |
 | Intel C608 chipset Dual 4-Port SATA/SAS Storage Control Unit                     | 1         | 1.03%   |
 | Intel C600/X79 series chipset IDE-r Controller                                   | 1         | 1.03%   |
-| Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                       | 1         | 1.03%   |
-| Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                       | 1         | 1.03%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]             | 1         | 1.03%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                    | 1         | 1.03%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                        | 1         | 1.03%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                   | 1         | 1.03%   |
-| Intel 8 Series/C220 Series Chipset Family 4-port SATA Controller 1 [IDE mode]    | 1         | 1.03%   |
-| Intel 8 Series/C220 Series Chipset Family 2-port SATA Controller 2 [IDE mode]    | 1         | 1.03%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]     | 1         | 1.03%   |
-| Intel 6 Series/C200 Series Chipset Family IDE-r Controller                       | 1         | 1.03%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller    | 1         | 1.03%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 1         | 1.03%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                 | 1         | 1.03%   |
-| Broadcom / LSI SAS2308 PCI-Express Fusion-MPT SAS-2                              | 1         | 1.03%   |
-| Broadcom / LSI SAS2116 PCI-Express Fusion-MPT SAS-2 [Meteor]                     | 1         | 1.03%   |
-| Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                     | 1         | 1.03%   |
-| ASMedia 106x SATA/RAID Controller                                                | 1         | 1.03%   |
-| AMD X370 Series Chipset SATA Controller                                          | 1         | 1.03%   |
-| AMD 300 Series Chipset SATA Controller                                           | 1         | 1.03%   |
-| 3ware 9650SE SATA-II RAID PCIe                                                   | 1         | 1.03%   |
 
 Storage Kind
 ------------
@@ -1480,64 +1381,48 @@ Processor models
 ![CPU Model](./All/images/pie_chart/cpu_model.svg)
 
 
-| Model                                          | Computers | Percent |
-|------------------------------------------------|-----------|---------|
-| Intel Xeon CPU E5-2670 0 @ 2.60GHz             | 2         | 3.23%   |
-| Intel Core i7-4790K CPU @ 4.00GHz              | 2         | 3.23%   |
-| ARM Processor                                  | 2         | 3.23%   |
-| AMD Ryzen 5 3600 6-Core Processor              | 2         | 3.23%   |
-| AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  | 2         | 3.23%   |
-| AMD FX-8350 Eight-Core Processor               | 2         | 3.23%   |
-| Intel Xeon CPU X3450 @ 2.67GHz                 | 1         | 1.61%   |
-| Intel Xeon CPU E5-2620 0 @ 2.00GHz             | 1         | 1.61%   |
-| Intel Xeon CPU E5-1650 0 @ 3.20GHz             | 1         | 1.61%   |
-| Intel Xeon CPU E3-1246 v3 @ 3.50GHz            | 1         | 1.61%   |
-| Intel Pentium Gold G5420 CPU @ 3.80GHz         | 1         | 1.61%   |
-| Intel Pentium CPU P6100 @ 2.00GHz              | 1         | 1.61%   |
-| Intel Pentium CPU N3710 @ 1.60GHz              | 1         | 1.61%   |
-| Intel Pentium CPU G640 @ 2.80GHz               | 1         | 1.61%   |
-| Intel Pentium CPU G4560 @ 3.50GHz              | 1         | 1.61%   |
-| Intel Core i7-9700 CPU @ 3.00GHz               | 1         | 1.61%   |
-| Intel Core i7-7500U CPU @ 2.70GHz              | 1         | 1.61%   |
-| Intel Core i7-6820HQ CPU @ 2.70GHz             | 1         | 1.61%   |
-| Intel Core i7-4700MQ CPU @ 2.40GHz             | 1         | 1.61%   |
-| Intel Core i7-2860QM CPU @ 2.50GHz             | 1         | 1.61%   |
-| Intel Core i7-10710U CPU @ 1.10GHz             | 1         | 1.61%   |
-| Intel Core i7-10510U CPU @ 1.80GHz             | 1         | 1.61%   |
-| Intel Core i5-9400 CPU @ 2.90GHz               | 1         | 1.61%   |
-| Intel Core i5-8300H CPU @ 2.30GHz              | 1         | 1.61%   |
-| Intel Core i5-8250U CPU @ 1.60GHz              | 1         | 1.61%   |
-| Intel Core i5-7200U CPU @ 2.50GHz              | 1         | 1.61%   |
-| Intel Core i5-6300U CPU @ 2.40GHz              | 1         | 1.61%   |
-| Intel Core i5-5300U CPU @ 2.30GHz              | 1         | 1.61%   |
-| Intel Core i5-4690 CPU @ 3.50GHz               | 1         | 1.61%   |
-| Intel Core i5-4210U CPU @ 1.70GHz              | 1         | 1.61%   |
-| Intel Core i5-4200U CPU @ 1.60GHz              | 1         | 1.61%   |
-| Intel Core i5-3470 CPU @ 3.20GHz               | 1         | 1.61%   |
-| Intel Core i5-2430M CPU @ 2.40GHz              | 1         | 1.61%   |
-| Intel Core i5-10210U CPU @ 1.60GHz             | 1         | 1.61%   |
-| Intel Core i3-6100U CPU @ 2.30GHz              | 1         | 1.61%   |
-| Intel Core i3-6006U CPU @ 2.00GHz              | 1         | 1.61%   |
-| Intel Core i3-5005U CPU @ 2.00GHz              | 1         | 1.61%   |
-| Intel Core i3-4000M CPU @ 2.40GHz              | 1         | 1.61%   |
-| Intel Core 2 Quad CPU Q8400 @ 2.66GHz          | 1         | 1.61%   |
-| Intel Core 2 Quad CPU Q6700 @ 2.66GHz          | 1         | 1.61%   |
-| Intel Core 2 Duo CPU T7250 @ 2.00GHz           | 1         | 1.61%   |
-| Intel Core 2 Duo CPU E8400 @ 3.00GHz           | 1         | 1.61%   |
-| Intel Core 2 CPU P8400 @ 2.26GHz               | 1         | 1.61%   |
-| Intel Celeron N4000 CPU @ 1.10GHz              | 1         | 1.61%   |
-| Intel Celeron CPU N3160 @ 1.60GHz              | 1         | 1.61%   |
-| Intel Celeron CPU N3060 @ 1.60GHz              | 1         | 1.61%   |
-| Intel Atom CPU N270 @ 1.60GHz                  | 1         | 1.61%   |
-| AMD Ryzen Embedded R1505G with Radeon Vega Gfx | 1         | 1.61%   |
-| AMD Ryzen 9 3950X 16-Core Processor            | 1         | 1.61%   |
-| AMD Ryzen 9 3900X 12-Core Processor            | 1         | 1.61%   |
-| AMD Ryzen 7 3800X 8-Core Processor             | 1         | 1.61%   |
-| AMD Ryzen 7 1700X Eight-Core Processor         | 1         | 1.61%   |
-| AMD GX-415GA SOC with Radeon HD Graphics       | 1         | 1.61%   |
-| AMD Athlon 64 X2 Dual Core Processor 5200+     | 1         | 1.61%   |
-| AMD A4-7300 APU with Radeon HD Graphics        | 1         | 1.61%   |
-| AMD A10-5700 APU with Radeon HD Graphics       | 1         | 1.61%   |
+| Model                                         | Computers | Percent |
+|-----------------------------------------------|-----------|---------|
+| Intel Xeon CPU E5-2670 0 @ 2.60GHz            | 2         | 3.23%   |
+| Intel Core i7-4790K CPU @ 4.00GHz             | 2         | 3.23%   |
+| ARM Processor                                 | 2         | 3.23%   |
+| AMD Ryzen 5 3600 6-Core Processor             | 2         | 3.23%   |
+| AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx | 2         | 3.23%   |
+| AMD FX-8350 Eight-Core Processor              | 2         | 3.23%   |
+| Intel Xeon CPU X3450 @ 2.67GHz                | 1         | 1.61%   |
+| Intel Xeon CPU E5-2620 0 @ 2.00GHz            | 1         | 1.61%   |
+| Intel Xeon CPU E5-1650 0 @ 3.20GHz            | 1         | 1.61%   |
+| Intel Xeon CPU E3-1246 v3 @ 3.50GHz           | 1         | 1.61%   |
+| Intel Pentium Gold G5420 CPU @ 3.80GHz        | 1         | 1.61%   |
+| Intel Pentium CPU P6100 @ 2.00GHz             | 1         | 1.61%   |
+| Intel Pentium CPU N3710 @ 1.60GHz             | 1         | 1.61%   |
+| Intel Pentium CPU G640 @ 2.80GHz              | 1         | 1.61%   |
+| Intel Pentium CPU G4560 @ 3.50GHz             | 1         | 1.61%   |
+| Intel Core i7-9700 CPU @ 3.00GHz              | 1         | 1.61%   |
+| Intel Core i7-7500U CPU @ 2.70GHz             | 1         | 1.61%   |
+| Intel Core i7-6820HQ CPU @ 2.70GHz            | 1         | 1.61%   |
+| Intel Core i7-4700MQ CPU @ 2.40GHz            | 1         | 1.61%   |
+| Intel Core i7-2860QM CPU @ 2.50GHz            | 1         | 1.61%   |
+| Intel Core i7-10710U CPU @ 1.10GHz            | 1         | 1.61%   |
+| Intel Core i7-10510U CPU @ 1.80GHz            | 1         | 1.61%   |
+| Intel Core i5-9400 CPU @ 2.90GHz              | 1         | 1.61%   |
+| Intel Core i5-8300H CPU @ 2.30GHz             | 1         | 1.61%   |
+| Intel Core i5-8250U CPU @ 1.60GHz             | 1         | 1.61%   |
+| Intel Core i5-7200U CPU @ 2.50GHz             | 1         | 1.61%   |
+| Intel Core i5-6300U CPU @ 2.40GHz             | 1         | 1.61%   |
+| Intel Core i5-5300U CPU @ 2.30GHz             | 1         | 1.61%   |
+| Intel Core i5-4690 CPU @ 3.50GHz              | 1         | 1.61%   |
+| Intel Core i5-4210U CPU @ 1.70GHz             | 1         | 1.61%   |
+| Intel Core i5-4200U CPU @ 1.60GHz             | 1         | 1.61%   |
+| Intel Core i5-3470 CPU @ 3.20GHz              | 1         | 1.61%   |
+| Intel Core i5-2430M CPU @ 2.40GHz             | 1         | 1.61%   |
+| Intel Core i5-10210U CPU @ 1.60GHz            | 1         | 1.61%   |
+| Intel Core i3-6100U CPU @ 2.30GHz             | 1         | 1.61%   |
+| Intel Core i3-6006U CPU @ 2.00GHz             | 1         | 1.61%   |
+| Intel Core i3-5005U CPU @ 2.00GHz             | 1         | 1.61%   |
+| Intel Core i3-4000M CPU @ 2.40GHz             | 1         | 1.61%   |
+| Intel Core 2 Quad CPU Q8400 @ 2.66GHz         | 1         | 1.61%   |
+| Intel Core 2 Quad CPU Q6700 @ 2.66GHz         | 1         | 1.61%   |
 
 CPU Model Family
 ----------------
@@ -1770,16 +1655,6 @@ Graphics card models
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 1         | 1.52%   |
 | Intel 82G33/G31 Express Integrated Graphics Controller                                   | 1         | 1.52%   |
 | AMD Richland [Radeon HD 8470D]                                                           | 1         | 1.52%   |
-| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 1         | 1.52%   |
-| AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]                    | 1         | 1.52%   |
-| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                                           | 1         | 1.52%   |
-| AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                                  | 1         | 1.52%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                               | 1         | 1.52%   |
-| AMD Kabini [Radeon HD 8330E]                                                             | 1         | 1.52%   |
-| AMD Cypress XT [Radeon HD 5870]                                                          | 1         | 1.52%   |
-| AMD Cape Verde PRO [Radeon HD 7750/8740 / R7 250E]                                       | 1         | 1.52%   |
-| AMD Baffin [Radeon RX 550 640SP / RX 560/560X]                                           | 1         | 1.52%   |
-| AMD Baffin [Radeon RX 460/560D / Pro 450/455/460/555/555X/560/560X]                      | 1         | 1.52%   |
 
 GPU Combo
 ---------
@@ -1882,7 +1757,7 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch     | 2         | 3.17%   |
-| Xiaomi DPF90435 XMD009A 2224x1668 341x192mm 15.4-inch                | 1         | 1.59%   |
+| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 1         | 1.59%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1         | 1.59%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1         | 1.59%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1         | 1.59%   |
@@ -1891,9 +1766,9 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1         | 1.59%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 1.59%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.59%   |
-| Panasonic LCD Monitor MEI96A2 3840x2160 382x215mm 17.3-inch          | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC5541 1366x768 340x190mm 15.3-inch | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch | 1         | 1.59%   |
+| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch             | 1         | 1.59%   |
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1         | 1.59%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 1.59%   |
@@ -1903,7 +1778,7 @@ Monitor models
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1         | 1.59%   |
-| Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch              | 1         | 1.59%   |
+| Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch              | 1         | 1.59%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1         | 1.59%   |
 | Iiyama PLE2207WS IVM5609 1680x1050 465x291mm 21.6-inch               | 1         | 1.59%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1         | 1.59%   |
@@ -1912,7 +1787,7 @@ Monitor models
 | Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                 | 1         | 1.59%   |
 | Goldstar W2242 GSM5677 1680x1050 474x296mm 22.0-inch                 | 1         | 1.59%   |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 1.59%   |
-| Goldstar LG FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch            | 1         | 1.59%   |
+| Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch               | 1         | 1.59%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1         | 1.59%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1         | 1.59%   |
 | Gigabyte Technology G27Q GBT2709 2560x1440 600x330mm 27.0-inch       | 1         | 1.59%   |
@@ -1921,26 +1796,6 @@ Monitor models
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1         | 1.59%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1         | 1.59%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1         | 1.59%   |
-| Dell 1905FP DEL400D 1280x1024 380x310mm 19.3-inch                    | 1         | 1.59%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 1.59%   |
-| Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 1.59%   |
-| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch     | 1         | 1.59%   |
-| Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch      | 1         | 1.59%   |
-| Chimei Innolux LCD Monitor CMN1355 1366x768 293x165mm 13.2-inch      | 1         | 1.59%   |
-| BOE LCD Monitor BOE07C8 3840x2160 309x174mm 14.0-inch                | 1         | 1.59%   |
-| BOE LCD Monitor BOE0703 1920x1080 344x194mm 15.5-inch                | 1         | 1.59%   |
-| BOE LCD Monitor BOE0690 1920x1080 344x193mm 15.5-inch                | 1         | 1.59%   |
-| BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 531x299mm 24.0-inch              | 1         | 1.59%   |
-| BenQ GW2283 BNQ78E9 1920x1080 480x270mm 21.7-inch                    | 1         | 1.59%   |
-| BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                    | 1         | 1.59%   |
-| BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch              | 1         | 1.59%   |
-| AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch        | 1         | 1.59%   |
-| AU Optronics LCD Monitor AUO48EC 1366x768 344x193mm 15.5-inch        | 1         | 1.59%   |
-| AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch       | 1         | 1.59%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch        | 1         | 1.59%   |
-| ASUSTek Computer VZ229 AUS22CC 1920x1080 480x270mm 21.7-inch         | 1         | 1.59%   |
-| ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch      | 1         | 1.59%   |
-| Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch     | 1         | 1.59%   |
 
 Monitor Resolution
 ------------------
@@ -2168,25 +2023,6 @@ Controller models
 | Intel I350 Gigabit Network Connection                                                 | 1         | 0.91%   |
 | Intel Gemini Lake PCH CNVi WiFi                                                       | 1         | 0.91%   |
 | Intel Ethernet Connection I219-LM                                                     | 1         | 0.91%   |
-| Intel Ethernet Connection I218-V                                                      | 1         | 0.91%   |
-| Intel Ethernet Connection (7) I219-V                                                  | 1         | 0.91%   |
-| Intel Ethernet Connection (4) I219-V                                                  | 1         | 0.91%   |
-| Intel Ethernet Connection (3) I218-LM                                                 | 1         | 0.91%   |
-| Intel Ethernet Connection (10) I219-V                                                 | 1         | 0.91%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 1         | 0.91%   |
-| Intel Centrino Ultimate-N 6300                                                        | 1         | 0.91%   |
-| Intel Cannon Lake PCH CNVi WiFi                                                       | 1         | 0.91%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                                  | 1         | 0.91%   |
-| Intel 82579V Gigabit Network Connection                                               | 1         | 0.91%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications)         | 1         | 0.91%   |
-| Intel 82567LM Gigabit Network Connection                                              | 1         | 0.91%   |
-| Dell DW5811e Snapdragonâ¢ X7 LTE                                                  | 1         | 0.91%   |
-| Chelsio T320 10GbE Dual Port Adapter                                                  | 1         | 0.91%   |
-| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                                     | 1         | 0.91%   |
-| Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express                               | 1         | 0.91%   |
-| Broadcom Limited NetXtreme BCM5756ME Gigabit Ethernet PCI Express                     | 1         | 0.91%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter                                   | 1         | 0.91%   |
-| ASIX AX88772B                                                                         | 1         | 0.91%   |
 
 Wireless Vendor
 ---------------
@@ -2483,17 +2319,6 @@ Sound card models
 | Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 1         | 1.02%   |
 | Intel 200 Series PCH HD Audio                                                                     | 1         | 1.02%   |
 | EGO SYStems U24XL                                                                                 | 1         | 1.02%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1         | 1.02%   |
-| Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1         | 1.02%   |
-| Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1         | 1.02%   |
-| C-Media Electronics USB Audio Device                                                              | 1         | 1.02%   |
-| C-Media Electronics Audio Adapter (Unitek Y-247A)                                                 | 1         | 1.02%   |
-| AMD Trinity HDMI Audio Controller                                                                 | 1         | 1.02%   |
-| AMD SBx00 Azalia (Intel HDA)                                                                      | 1         | 1.02%   |
-| AMD Navi 10 HDMI Audio                                                                            | 1         | 1.02%   |
-| AMD Kabini HDMI/DP Audio                                                                          | 1         | 1.02%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 1         | 1.02%   |
-| AMD Cypress HDMI Audio [Radeon HD 5830/5850/5870 / 6850/6870 Rebrand]                             | 1         | 1.02%   |
 
 Memory
 ------
@@ -2533,68 +2358,48 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Computers | Percent |
-|------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 2         | 2.94%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s     | 2         | 2.94%   |
-| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s              | 1         | 1.47%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                       | 1         | 1.47%   |
-| Unknown RAM Module 2048MB DIMM DDR 800MT/s                 | 1         | 1.47%   |
-| Unknown RAM Module 2048MB DIMM 667MT/s                     | 1         | 1.47%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM                     | 1         | 1.47%   |
-| Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1         | 1.47%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                     | 1         | 1.47%   |
-| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s          | 1         | 1.47%   |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s         | 1         | 1.47%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s        | 1         | 1.47%   |
-| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 1.47%   |
-| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s            | 1         | 1.47%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s      | 1         | 1.47%   |
-| SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s    | 1         | 1.47%   |
-| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
-| SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1         | 1.47%   |
-| SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1         | 1.47%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 1.47%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s     | 1         | 1.47%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s      | 1         | 1.47%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s   | 1         | 1.47%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 1.47%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 1.47%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s     | 1         | 1.47%   |
-| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s        | 1         | 1.47%   |
-| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s  | 1         | 1.47%   |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s      | 1         | 1.47%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s      | 1         | 1.47%   |
-| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s     | 1         | 1.47%   |
-| Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s        | 1         | 1.47%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4096MB DIMM DDR3 1600MT/s    | 1         | 1.47%   |
-| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1         | 1.47%   |
-| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s      | 1         | 1.47%   |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s    | 1         | 1.47%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1         | 1.47%   |
-| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| Kingston RAM 99U5471-037.A00LF 8GB DIMM 1600MT/s           | 1         | 1.47%   |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1         | 1.47%   |
-| Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s    | 1         | 1.47%   |
-| HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s               | 1         | 1.47%   |
-| Elpida RAM EBJ81UG8BBU0-GN-F 8GB SODIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| Crucial RAM CT51264BF160B.M16F 4096MB DIMM DDR3 1600MT/s   | 1         | 1.47%   |
-| Crucial RAM CT4G4SFS824A.C8FE 4GB SODIMM DDR4 2400MT/s     | 1         | 1.47%   |
-| Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s      | 1         | 1.47%   |
-| Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s      | 1         | 1.47%   |
-| Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s    | 1         | 1.47%   |
-| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s    | 1         | 1.47%   |
-| Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s | 1         | 1.47%   |
-| Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s   | 1         | 1.47%   |
-| Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1         | 1.47%   |
-| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1         | 1.47%   |
-| Corsair RAM CMSO4GX3M1C1600C11 4096MB SODIMM DDR3 1600MT/s | 1         | 1.47%   |
-| Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1         | 1.47%   |
+| Model                                                        | Computers | Percent |
+|--------------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 2.94%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 2.94%   |
+| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s                | 1         | 1.47%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                         | 1         | 1.47%   |
+| Unknown RAM Module 2048MB DIMM DDR 800MT/s                   | 1         | 1.47%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                       | 1         | 1.47%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 1.47%   |
+| Unknown RAM Module 1024MB DIMM DDR 800MT/s                   | 1         | 1.47%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                       | 1         | 1.47%   |
+| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s            | 1         | 1.47%   |
+| Team RAM TEAMGROUP-UD4-3600 32GB DIMM DDR4 3600MT/s          | 1         | 1.47%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s           | 1         | 1.47%   |
+| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
+| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 1.47%   |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.47%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s        | 1         | 1.47%   |
+| SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s      | 1         | 1.47%   |
+| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.47%   |
+| SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s      | 1         | 1.47%   |
+| SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s         | 1         | 1.47%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 1.47%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 1.47%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s        | 1         | 1.47%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 1.47%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 1         | 1.47%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 1.47%   |
+| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 1.47%   |
+| Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 1.47%   |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 1.47%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 1.47%   |
+| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s       | 1         | 1.47%   |
+| Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s          | 1         | 1.47%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s         | 1         | 1.47%   |
+| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s         | 1         | 1.47%   |
+| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s        | 1         | 1.47%   |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 1.47%   |
 
 Memory Kind
 -----------
@@ -2639,12 +2444,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 23        | 38.33%  |
-| 4096  | 19        | 31.67%  |
-| 16384 | 7         | 11.67%  |
+| 8192  | 25        | 41.67%  |
+| 4096  | 17        | 28.33%  |
+| 16384 | 6         | 10%     |
 | 2048  | 6         | 10%     |
+| 32768 | 3         | 5%      |
 | 1024  | 3         | 5%      |
-| 32768 | 2         | 3.33%   |
 
 Memory Speed
 ------------
@@ -2872,8 +2677,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 35        | 54.69%  |
-| 1     | 12        | 18.75%  |
+| 0     | 34        | 53.13%  |
+| 1     | 13        | 20.31%  |
 | 2     | 9         | 14.06%  |
 | 3     | 5         | 7.81%   |
 | 4     | 3         | 4.69%   |
@@ -2888,18 +2693,18 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 11        | 21.57%  |
-| Sound                    | 7         | 13.73%  |
-| Fingerprint reader       | 6         | 11.76%  |
-| Chipcard                 | 6         | 11.76%  |
-| Communication controller | 5         | 9.8%    |
-| Net/wireless             | 4         | 7.84%   |
-| Card reader              | 4         | 7.84%   |
-| Bluetooth                | 2         | 3.92%   |
-| Unassigned class         | 1         | 1.96%   |
-| Storage/ata              | 1         | 1.96%   |
-| Storage                  | 1         | 1.96%   |
-| Net/ethernet             | 1         | 1.96%   |
-| Firewire controller      | 1         | 1.96%   |
-| Camera                   | 1         | 1.96%   |
+| Graphics card            | 12        | 23.08%  |
+| Sound                    | 7         | 13.46%  |
+| Fingerprint reader       | 6         | 11.54%  |
+| Chipcard                 | 6         | 11.54%  |
+| Communication controller | 5         | 9.62%   |
+| Net/wireless             | 4         | 7.69%   |
+| Card reader              | 4         | 7.69%   |
+| Bluetooth                | 2         | 3.85%   |
+| Unassigned class         | 1         | 1.92%   |
+| Storage/ata              | 1         | 1.92%   |
+| Storage                  | 1         | 1.92%   |
+| Net/ethernet             | 1         | 1.92%   |
+| Firewire controller      | 1         | 1.92%   |
+| Camera                   | 1         | 1.92%   |
 

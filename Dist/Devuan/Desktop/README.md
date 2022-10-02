@@ -572,9 +572,6 @@ Motherboard model
 | ASUS All Series                 | 1        | 2.33%   |
 | ASRock K8A780LM                 | 1        | 2.33%   |
 | ASRock H81M-ITX                 | 1        | 2.33%   |
-| ASRock G31M-VS2                 | 1        | 2.33%   |
-| ASRock B450M-HDV R4.0           | 1        | 2.33%   |
-| Acer Aspire M1610               | 1        | 2.33%   |
 
 Model Family
 ------------
@@ -919,68 +916,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Kingston SA400S37120G 120GB SSD     | 3        | 3.26%   |
-| Kingston SA2000M8250G 250GB         | 3        | 3.26%   |
-| WDC WD10EZEX-08WN4A0 1TB            | 2        | 2.17%   |
-| WDC WD10EARX-00N0YB0 1TB            | 2        | 2.17%   |
-| Seagate ST3500418AS 500GB           | 2        | 2.17%   |
-| Seagate ST2000DX002-2DV164 2TB      | 2        | 2.17%   |
-| Samsung SSD 860 EVO 250GB           | 2        | 2.17%   |
-| WDC WDS500G3X0C-00SJG0 500GB        | 1        | 1.09%   |
-| WDC WDS480G2G0A-00JH30 480GB SSD    | 1        | 1.09%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD    | 1        | 1.09%   |
-| WDC WD800BB-00JHC0 80GB             | 1        | 1.09%   |
-| WDC WD5001AALS-00L3B2 500GB         | 1        | 1.09%   |
-| WDC WD5001AALS-00E3A0 500GB         | 1        | 1.09%   |
-| WDC WD5000LPVX-00V0TT0 500GB        | 1        | 1.09%   |
-| WDC WD5000BPVT-24HXZT3 500GB        | 1        | 1.09%   |
-| WDC WD5000AZLX-75K2TA0 500GB        | 1        | 1.09%   |
-| WDC WD40EFRX-68WT0N0 4TB            | 1        | 1.09%   |
-| WDC WD40EDAZ-11SLVB0 4TB            | 1        | 1.09%   |
-| WDC WD20PURZ-85GU6Y0 2TB            | 1        | 1.09%   |
-| WDC WD20EZRX-00D8PB0 2TB            | 1        | 1.09%   |
-| WDC WD20EFRX-68EUZN0 2TB            | 1        | 1.09%   |
-| WDC WD1200JS-55NCB1 120GB           | 1        | 1.09%   |
-| WDC WD10SPZX-22Z10T1 1TB            | 1        | 1.09%   |
-| WDC WD10JFCX-68N6GN0 1TB            | 1        | 1.09%   |
-| WDC WD10EZRX-00D8PB0 1TB            | 1        | 1.09%   |
-| WDC WD10EZEX-75M2NA0 1TB            | 1        | 1.09%   |
-| WDC WD10EZEX-22MFCA0 1TB            | 1        | 1.09%   |
-| WDC WD10EZEX-22BN5A0 1TB            | 1        | 1.09%   |
-| WDC WD10EZEX-00BN5A0 1TB            | 1        | 1.09%   |
-| WDC WD10EZEX-00BBHA0 1TB            | 1        | 1.09%   |
-| WDC WD10EURX-63FH1Y0 1TB            | 1        | 1.09%   |
-| WD MediaMax WL500GSA3272 500GB      | 1        | 1.09%   |
-| Transcend TS128GSSD370S 128GB       | 1        | 1.09%   |
-| Toshiba MQ04ABF100 1TB              | 1        | 1.09%   |
-| Toshiba MQ02ABF100 1TB              | 1        | 1.09%   |
-| Toshiba KXG60ZNV512G NVMe 512GB     | 1        | 1.09%   |
-| Toshiba HDWD110 1TB                 | 1        | 1.09%   |
-| Toshiba DT01ACA100 1TB              | 1        | 1.09%   |
-| SK hynix SH920 mSATA 128GB SSD      | 1        | 1.09%   |
-| Seagate ST8000DM004-2CX188 8TB      | 1        | 1.09%   |
-| Seagate ST750LX003-1AC154 752GB     | 1        | 1.09%   |
-| Seagate ST500DM002-1BD142 500GB     | 1        | 1.09%   |
-| Seagate ST4000VN008-2DR166 4TB      | 1        | 1.09%   |
-| Seagate ST4000DM005-2DP166 4TB      | 1        | 1.09%   |
-| Seagate ST350063 0NS 500GB          | 1        | 1.09%   |
-| Seagate ST3500414CS 500GB           | 1        | 1.09%   |
-| Seagate ST340014A 40GB              | 1        | 1.09%   |
-| Seagate ST3300555SS 304GB           | 1        | 1.09%   |
-| Seagate ST320LM001 HN-M320MBB 320GB | 1        | 1.09%   |
-| Seagate ST3160815A 160GB            | 1        | 1.09%   |
-| Seagate ST3160813AS 160GB           | 1        | 1.09%   |
-| Seagate ST2000DM008-2FR102 2TB      | 1        | 1.09%   |
-| Seagate ST2000DM006-2DM164 2TB      | 1        | 1.09%   |
-| Seagate ST1000LM035-1RK172 1TB      | 1        | 1.09%   |
-| Seagate ST1000DM003-1SB102 1TB      | 1        | 1.09%   |
-| Seagate ST1000DM003-1CH162 1TB      | 1        | 1.09%   |
-| Seagate BUP Ultra Touch 2TB         | 1        | 1.09%   |
-| Samsung SSD 860 EVO 500G            | 1        | 1.09%   |
-| Samsung SSD 850 EVO 250GB           | 1        | 1.09%   |
-| Netac SSD 720GB                     | 1        | 1.09%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Kingston SA400S37120G 120GB SSD  | 3        | 3.26%   |
+| Kingston SA2000M8250G 250GB      | 3        | 3.26%   |
+| WDC WD10EZEX-08WN4A0 1TB         | 2        | 2.17%   |
+| WDC WD10EARX-00N0YB0 1TB         | 2        | 2.17%   |
+| Seagate ST3500418AS 500GB        | 2        | 2.17%   |
+| Seagate ST2000DX002-2DV164 2TB   | 2        | 2.17%   |
+| Samsung SSD 860 EVO 250GB        | 2        | 2.17%   |
+| WDC WDS500G3X0C-00SJG0 500GB     | 1        | 1.09%   |
+| WDC WDS480G2G0A-00JH30 480GB SSD | 1        | 1.09%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD | 1        | 1.09%   |
+| WDC WD800BB-00JHC0 80GB          | 1        | 1.09%   |
+| WDC WD5001AALS-00L3B2 500GB      | 1        | 1.09%   |
+| WDC WD5001AALS-00E3A0 500GB      | 1        | 1.09%   |
+| WDC WD5000LPVX-00V0TT0 500GB     | 1        | 1.09%   |
+| WDC WD5000BPVT-24HXZT3 500GB     | 1        | 1.09%   |
+| WDC WD5000AZLX-75K2TA0 500GB     | 1        | 1.09%   |
+| WDC WD40EFRX-68WT0N0 4TB         | 1        | 1.09%   |
+| WDC WD40EDAZ-11SLVB0 4TB         | 1        | 1.09%   |
+| WDC WD20PURZ-85GU6Y0 2TB         | 1        | 1.09%   |
+| WDC WD20EZRX-00D8PB0 2TB         | 1        | 1.09%   |
+| WDC WD20EFRX-68EUZN0 2TB         | 1        | 1.09%   |
+| WDC WD1200JS-55NCB1 120GB        | 1        | 1.09%   |
+| WDC WD10SPZX-22Z10T1 1TB         | 1        | 1.09%   |
+| WDC WD10JFCX-68N6GN0 1TB         | 1        | 1.09%   |
+| WDC WD10EZRX-00D8PB0 1TB         | 1        | 1.09%   |
+| WDC WD10EZEX-75M2NA0 1TB         | 1        | 1.09%   |
+| WDC WD10EZEX-22MFCA0 1TB         | 1        | 1.09%   |
+| WDC WD10EZEX-22BN5A0 1TB         | 1        | 1.09%   |
+| WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.09%   |
+| WDC WD10EZEX-00BBHA0 1TB         | 1        | 1.09%   |
+| WDC WD10EURX-63FH1Y0 1TB         | 1        | 1.09%   |
+| WD MediaMax WL500GSA3272 500GB   | 1        | 1.09%   |
+| Transcend TS128GSSD370S 128GB    | 1        | 1.09%   |
+| Toshiba MQ04ABF100 1TB           | 1        | 1.09%   |
+| Toshiba MQ02ABF100 1TB           | 1        | 1.09%   |
+| Toshiba KXG60ZNV512G NVMe 512GB  | 1        | 1.09%   |
+| Toshiba HDWD110 1TB              | 1        | 1.09%   |
+| Toshiba DT01ACA100 1TB           | 1        | 1.09%   |
+| SK hynix SH920 mSATA 128GB SSD   | 1        | 1.09%   |
+| Seagate ST8000DM004-2CX188 8TB   | 1        | 1.09%   |
 
 HDD Vendor
 ----------
@@ -1291,7 +1268,6 @@ Storage controller models
 | AMD FCH SATA Controller D                                                      | 1        | 1.43%   |
 | AMD FCH IDE Controller                                                         | 1        | 1.43%   |
 | AMD 300 Series Chipset SATA Controller                                         | 1        | 1.43%   |
-| Adaptec AIC-7870P/7881U [AHA-2940U/UW/D/S76]                                   | 1        | 1.43%   |
 
 Storage Kind
 ------------
@@ -1694,7 +1670,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch   | 2        | 4%      |
 | Hewlett-Packard 22m HPN3575 1920x1080 476x268mm 21.5-inch              | 2        | 4%      |
-| ___ LCDTV16 ___9000 1360x768                                           | 1        | 2%      |
+| ___ TV ___9000 1360x768                                                | 1        | 2%      |
 | ViewSonic VA2261 Series VSC0F30 1920x1080 477x268mm 21.5-inch          | 1        | 2%      |
 | Unknown LCD TV 9000 1360x768 1600x900mm 72.3-inch                      | 1        | 2%      |
 | Toshiba TV TSB0209 1920x1080 1594x900mm 72.1-inch                      | 1        | 2%      |
@@ -1704,7 +1680,7 @@ Monitor models
 | Samsung Electronics S/T 77/76BDF STN0007 1280x1024 312x234mm 15.4-inch | 1        | 2%      |
 | Samsung Electronics LCD Monitor SyncMaster 1280x1024                   | 1        | 2%      |
 | Samsung Electronics LCD Monitor SyncMaster                             | 1        | 2%      |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch  | 1        | 2%      |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 1020x570mm 46.0-inch | 1        | 2%      |
 | Samsung Electronics LCD Monitor SA300/350/360                          | 1        | 2%      |
 | Samsung Electronics LCD Monitor S24D340                                | 1        | 2%      |
 | Samsung Electronics LCD Monitor C27F390 5760x1080                      | 1        | 2%      |
@@ -1713,18 +1689,18 @@ Monitor models
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 1        | 2%      |
 | Philips 190B PHL086C 1280x1024 376x301mm 19.0-inch                     | 1        | 2%      |
 | Philips 17S PHL0877 1280x1024 337x270mm 17.0-inch                      | 1        | 2%      |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                 | 1        | 2%      |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                 | 1        | 2%      |
 | Lenovo LI2215sD LEN65CC 1920x1080 476x267mm 21.5-inch                  | 1        | 2%      |
 | Lenovo LCD Monitor LEN40A0 1366x768 309x174mm 14.0-inch                | 1        | 2%      |
 | Iiyama PLX2483H IVM6114 1920x1080 531x299mm 24.0-inch                  | 1        | 2%      |
 | Iiyama PLB2712HDS IVM6602 1920x1080 598x336mm 27.0-inch                | 1        | 2%      |
 | HJW HDMI TO USB HJW0001 1920x1080 700x390mm 31.5-inch                  | 1        | 2%      |
 | Hewlett-Packard LA2206 HWP2947 1920x1080 477x268mm 21.5-inch           | 1        | 2%      |
-| Hewlett-Packard L2245w HWP26FC 1680x1050 473x296mm 22.0-inch           | 1        | 2%      |
+| Hewlett-Packard L2245w HWP26FC 1680x1050 470x300mm 22.0-inch           | 1        | 2%      |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 2%      |
 | Hewlett-Packard Compaq S2321a HWP2915 1920x1080 509x286mm 23.0-inch    | 1        | 2%      |
 | Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch            | 1        | 2%      |
-| Goldstar W2243 GSM56FF 1920x1080 480x270mm 21.7-inch                   | 1        | 2%      |
+| Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                   | 1        | 2%      |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 2%      |
 | Goldstar L1730S GSM438D 1280x1024 338x270mm 17.0-inch                  | 1        | 2%      |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 1        | 2%      |
@@ -1732,14 +1708,6 @@ Monitor models
 | Eizo EV2456 ENC2798 1920x1200 520x330mm 24.2-inch                      | 1        | 2%      |
 | Dell P2719H DEL4184 1920x1080 598x336mm 27.0-inch                      | 1        | 2%      |
 | Dell LCD Monitor P1914S 1280x1024                                      | 1        | 2%      |
-| CVT LCD Monitor CVT4668 1440x900 360x290mm 18.2-inch                   | 1        | 2%      |
-| CHI LCD Monitor VGA DISPLAY 1024x768                                   | 1        | 2%      |
-| AOC U2790B AOC2790 3840x2160 600x340mm 27.2-inch                       | 1        | 2%      |
-| AOC Q32G1WG4 AOC3201 2560x1440 697x393mm 31.5-inch                     | 1        | 2%      |
-| AOC 1950W AOC1950 1366x768 410x230mm 18.5-inch                         | 1        | 2%      |
-| Ancor Communications ASUS VW190 ACI19E9 1366x768 410x230mm 18.5-inch   | 1        | 2%      |
-| Acer VG220Q ACR06D8 1920x1080 476x268mm 21.5-inch                      | 1        | 2%      |
-| Acer V206HQL ACR0334 1366x768 434x236mm 19.4-inch                      | 1        | 2%      |
 
 Monitor Resolution
 ------------------
@@ -1917,7 +1885,7 @@ Controller models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 20       | 35.71%  |
 | Intel Ethernet Connection I217-LM                                 | 3        | 5.36%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 5.36%   |
-| TP-Link TL-WN722N v2                                              | 1        | 1.79%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 1.79%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1        | 1.79%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.79%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 1.79%   |
@@ -1974,7 +1942,7 @@ Wireless models
 
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN722N v2                                       | 1        | 11.11%  |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]               | 1        | 11.11%  |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 11.11%  |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter        | 1        | 11.11%  |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                 | 1        | 11.11%  |
@@ -2202,13 +2170,6 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                         | 1        | 1.27%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 1.27%   |
 | Elite Silicon USB Audio Device                                             | 1        | 1.27%   |
-| DCMT Technology USB Condenser Microphone                                   | 1        | 1.27%   |
-| Cirrus Logic Crystal CS4281 PCI Audio                                      | 1        | 1.27%   |
-| ASUSTek Computer XONAR SOUND CARD                                          | 1        | 1.27%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 1.27%   |
-| AMD FCH Azalia Controller                                                  | 1        | 1.27%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 1.27%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 1.27%   |
 
 Memory
 ------
@@ -2231,7 +2192,7 @@ Memory module vendors
 | G.Skill             | 3        | 6.38%   |
 | Samsung Electronics | 2        | 4.26%   |
 | Nanya Technology    | 2        | 4.26%   |
-| Goodram             | 1        | 2.13%   |
+| GOODRAM             | 1        | 2.13%   |
 | Crucial             | 1        | 2.13%   |
 | Avant               | 1        | 2.13%   |
 | A-DATA Technology   | 1        | 2.13%   |
@@ -2271,34 +2232,21 @@ Memory module models
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM 1600MT/s           | 1        | 1.82%   |
 | SK hynix RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s      | 1        | 1.82%   |
 | Samsung RAM Module 2GB DIMM DDR3 1333MT/s                 | 1        | 1.82%   |
-| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s    | 1        | 1.82%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s       | 1        | 1.82%   |
 | Nanya RAM Module 2GB DIMM DDR3 1333MT/s                   | 1        | 1.82%   |
 | Nanya RAM M2X4G64CB8HG5N-DG 4096MB DIMM DDR3 1867MT/s     | 1        | 1.82%   |
 | Micron RAM Module 2GB DIMM DDR3 1333MT/s                  | 1        | 1.82%   |
 | Micron RAM DVM64453C DATARAM 8GB DIMM DDR3 1600MT/s       | 1        | 1.82%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4096MB DIMM DDR3 1600MT/s    | 1        | 1.82%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s       | 1        | 1.82%   |
 | Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s     | 1        | 1.82%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s    | 1        | 1.82%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.82%   |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s         | 1        | 1.82%   |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s      | 1        | 1.82%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s       | 1        | 1.82%   |
 | Kingston RAM 99U5704-001.A00G 4GB SODIMM DDR4 2400MT/s    | 1        | 1.82%   |
 | Kingston RAM 99U5702-094.A00G 8GB DIMM DDR4 2400MT/s      | 1        | 1.82%   |
 | Kingston RAM 99U5471-066.A00LF 8192MB DIMM DDR3 1600MT/s  | 1        | 1.82%   |
 | Kingston RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s    | 1        | 1.82%   |
-| Kingston RAM 9905625-066.A00G 16GB DIMM DDR4 2667MT/s     | 1        | 1.82%   |
-| Kingston RAM 9905471-084.A00LF 8GB DIMM DDR3 1600MT/s     | 1        | 1.82%   |
-| Goodram RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s        | 1        | 1.82%   |
-| G.Skill RAM F4-3200C16-8GTZB 8GB DIMM DDR4 3200MT/s       | 1        | 1.82%   |
-| G.Skill RAM F4-3200C16-16GIS 16GB DIMM DDR4 3600MT/s      | 1        | 1.82%   |
-| G.Skill RAM F4-2133C15-16GIS 16384MB DIMM DDR4 2133MT/s   | 1        | 1.82%   |
-| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s      | 1        | 1.82%   |
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s    | 1        | 1.82%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 1.82%   |
-| Corsair RAM CMD8GX3M2B2133C9 4096MB DIMM DDR3 1333MT/s    | 1        | 1.82%   |
-| Corsair RAM CM4X16GE2400C16K4 16GB DIMM DDR4 2400MT/s     | 1        | 1.82%   |
-| Avant RAM F6451U67F9333G 4096MB DIMM DDR3 1333MT/s        | 1        | 1.82%   |
-| A-DATA RAM DDR4 2666 2OZ 8192MB DIMM DDR4 2667MT/s        | 1        | 1.82%   |
 
 Memory Kind
 -----------

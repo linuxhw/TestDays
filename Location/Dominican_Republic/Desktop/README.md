@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 50
+Total: 51
 
 | Vendor   | Model                | Probe                                                      | Date         |
 |----------|----------------------|------------------------------------------------------------|--------------|
+| Dell     | 08NPPY A00           | [55cf772a79](https://linux-hardware.org/?probe=55cf772a79) | Sep 09, 2022 |
 | Gigabyte | A520I AC             | [0bf3f1a8a2](https://linux-hardware.org/?probe=0bf3f1a8a2) | Jul 31, 2022 |
 | Gigabyte | A520I AC             | [f0d27ae2f0](https://linux-hardware.org/?probe=f0d27ae2f0) | Jul 30, 2022 |
 | Dell     | 042P49 A02           | [2b09076619](https://linux-hardware.org/?probe=2b09076619) | Jul 30, 2022 |
@@ -274,47 +275,46 @@ Version of the Linux kernel
 
 | Version                         | Desktops | Percent |
 |---------------------------------|----------|---------|
-| 5.10.14-desktop-1omv4002        | 3        | 6.98%   |
-| 5.9.16-200.fc33.x86_64          | 1        | 2.33%   |
-| 5.8.5-arch1-1                   | 1        | 2.33%   |
-| 5.7.7-zen1-1-zen                | 1        | 2.33%   |
-| 5.7.7-arch1-1                   | 1        | 2.33%   |
-| 5.4.0-42-generic                | 1        | 2.33%   |
-| 5.4.0-37-generic                | 1        | 2.33%   |
-| 5.4.0-110-generic               | 1        | 2.33%   |
-| 5.4.0-107-generic               | 1        | 2.33%   |
-| 5.3.0-46-generic                | 1        | 2.33%   |
-| 5.3.0-42-generic                | 1        | 2.33%   |
-| 5.3.0-40-generic                | 1        | 2.33%   |
-| 5.18.12-desktop-3omv4090        | 1        | 2.33%   |
-| 5.18.10-76051810-generic        | 1        | 2.33%   |
-| 5.17.6-xanmod1                  | 1        | 2.33%   |
-| 5.16.7-desktop-1omv4003         | 1        | 2.33%   |
-| 5.15.21-1-MANJARO               | 1        | 2.33%   |
-| 5.14.13-200.fc34.x86_64         | 1        | 2.33%   |
-| 5.13.0-40-generic               | 1        | 2.33%   |
-| 5.13.0-27-generic               | 1        | 2.33%   |
-| 5.12.15-arch1-1                 | 1        | 2.33%   |
-| 5.12.12-300.fc34.x86_64         | 1        | 2.33%   |
-| 5.11.0-40-generic               | 1        | 2.33%   |
-| 5.11.0-25-generic               | 1        | 2.33%   |
-| 5.1.6-050106-generic            | 1        | 2.33%   |
-| 5.1.2-zen1-1-zen                | 1        | 2.33%   |
-| 5.0.0-32-generic                | 1        | 2.33%   |
-| 5.0.0-25-generic                | 1        | 2.33%   |
-| 4.9.87-nrj-desktop-2rosa-x86_64 | 1        | 2.33%   |
-| 4.9.60-nrj-desktop-1rosa-x86_64 | 1        | 2.33%   |
-| 4.18.16-desktop-1bP             | 1        | 2.33%   |
-| 4.18.15-1-default               | 1        | 2.33%   |
-| 4.18.0-305.19.1.el8_4.x86_64    | 1        | 2.33%   |
-| 4.15.0-99-generic               | 1        | 2.33%   |
-| 4.15.0-96-generic               | 1        | 2.33%   |
-| 4.15.0-91-generic               | 1        | 2.33%   |
-| 4.15.0-88-generic               | 1        | 2.33%   |
-| 4.15.0-118-generic              | 1        | 2.33%   |
-| 4.15.0-114-generic              | 1        | 2.33%   |
-| 4.15.0-112-generic              | 1        | 2.33%   |
-| 4.15.0-108-generic              | 1        | 2.33%   |
+| 5.10.14-desktop-1omv4002        | 3        | 6.82%   |
+| 5.9.16-200.fc33.x86_64          | 1        | 2.27%   |
+| 5.8.5-arch1-1                   | 1        | 2.27%   |
+| 5.7.7-zen1-1-zen                | 1        | 2.27%   |
+| 5.7.7-arch1-1                   | 1        | 2.27%   |
+| 5.4.0-42-generic                | 1        | 2.27%   |
+| 5.4.0-37-generic                | 1        | 2.27%   |
+| 5.4.0-125-generic               | 1        | 2.27%   |
+| 5.4.0-110-generic               | 1        | 2.27%   |
+| 5.4.0-107-generic               | 1        | 2.27%   |
+| 5.3.0-46-generic                | 1        | 2.27%   |
+| 5.3.0-42-generic                | 1        | 2.27%   |
+| 5.3.0-40-generic                | 1        | 2.27%   |
+| 5.18.12-desktop-3omv4090        | 1        | 2.27%   |
+| 5.18.10-76051810-generic        | 1        | 2.27%   |
+| 5.17.6-xanmod1                  | 1        | 2.27%   |
+| 5.16.7-desktop-1omv4003         | 1        | 2.27%   |
+| 5.15.21-1-MANJARO               | 1        | 2.27%   |
+| 5.14.13-200.fc34.x86_64         | 1        | 2.27%   |
+| 5.13.0-40-generic               | 1        | 2.27%   |
+| 5.13.0-27-generic               | 1        | 2.27%   |
+| 5.12.15-arch1-1                 | 1        | 2.27%   |
+| 5.12.12-300.fc34.x86_64         | 1        | 2.27%   |
+| 5.11.0-40-generic               | 1        | 2.27%   |
+| 5.11.0-25-generic               | 1        | 2.27%   |
+| 5.1.6-050106-generic            | 1        | 2.27%   |
+| 5.1.2-zen1-1-zen                | 1        | 2.27%   |
+| 5.0.0-32-generic                | 1        | 2.27%   |
+| 5.0.0-25-generic                | 1        | 2.27%   |
+| 4.9.87-nrj-desktop-2rosa-x86_64 | 1        | 2.27%   |
+| 4.9.60-nrj-desktop-1rosa-x86_64 | 1        | 2.27%   |
+| 4.18.16-desktop-1bP             | 1        | 2.27%   |
+| 4.18.15-1-default               | 1        | 2.27%   |
+| 4.18.0-305.19.1.el8_4.x86_64    | 1        | 2.27%   |
+| 4.15.0-99-generic               | 1        | 2.27%   |
+| 4.15.0-96-generic               | 1        | 2.27%   |
+| 4.15.0-91-generic               | 1        | 2.27%   |
+| 4.15.0-88-generic               | 1        | 2.27%   |
+| 4.15.0-118-generic              | 1        | 2.27%   |
+| 4.15.0-114-generic              | 1        | 2.27%   |
 
 Kernel Family
 -------------
@@ -850,7 +850,7 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 18       | 24     | 29.51%  |
+| Seagate             | 18       | 25     | 29.51%  |
 | WDC                 | 7        | 9      | 11.48%  |
 | Samsung Electronics | 7        | 10     | 11.48%  |
 | Kingston            | 7        | 8      | 11.48%  |
@@ -873,68 +873,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| Toshiba DT01ACA050 500GB             | 2        | 2.86%   |
-| Seagate ST380815AS 80GB              | 2        | 2.86%   |
-| Seagate ST3160815AS 160GB            | 2        | 2.86%   |
-| Kingston SV300S37A120G 120GB SSD     | 2        | 2.86%   |
-| Kingston SA400S37120G 120GB SSD      | 2        | 2.86%   |
-| Hitachi HTS545050A7E380 500GB        | 2        | 2.86%   |
-| WDC WD6400AAKS-22A7B2 640GB          | 1        | 1.43%   |
-| WDC WD5000AZLX-60K2TA0 500GB         | 1        | 1.43%   |
-| WDC WD5000AAKX-75U6AA0 500GB         | 1        | 1.43%   |
-| WDC WD40EZRZ-75GXCB0 4TB             | 1        | 1.43%   |
-| WDC WD2500AAKX-001CA0 250GB          | 1        | 1.43%   |
-| WDC WD2500AAJS-75M0A0 250GB          | 1        | 1.43%   |
-| WDC WD20EZRZ-00Z5HB0 2TB             | 1        | 1.43%   |
-| WDC WD10EZEX-75M2NA0 1TB             | 1        | 1.43%   |
-| WDC WD10EZEX-00RKKA0 1TB             | 1        | 1.43%   |
-| Unknown FK0032CAAZP 32GB             | 1        | 1.43%   |
-| Toshiba MQ01ACF050 500GB             | 1        | 1.43%   |
-| Toshiba MK3275GSX 320GB              | 1        | 1.43%   |
-| Toshiba MK2556GSY 250GB              | 1        | 1.43%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD  | 1        | 1.43%   |
-| Toshiba HDWE160 6TB                  | 1        | 1.43%   |
-| Seagate ST980412ASG 80GB             | 1        | 1.43%   |
-| Seagate ST9250410AS 250GB            | 1        | 1.43%   |
-| Seagate ST8000DM004-2CX188 8TB       | 1        | 1.43%   |
-| Seagate ST500LM000-1EJ162 500GB      | 1        | 1.43%   |
-| Seagate ST500DM002-1BD142 500GB      | 1        | 1.43%   |
-| Seagate ST3500418AS 500GB            | 1        | 1.43%   |
-| Seagate ST3320620AS 320GB            | 1        | 1.43%   |
-| Seagate ST3320418AS 320GB            | 1        | 1.43%   |
-| Seagate ST3250318AS 250GB            | 1        | 1.43%   |
-| Seagate ST3160215AS 160GB            | 1        | 1.43%   |
-| Seagate ST3160212SCE 160GB           | 1        | 1.43%   |
-| Seagate ST31000528AS 1TB             | 1        | 1.43%   |
-| Seagate ST2000DM008-2FR102 2TB       | 1        | 1.43%   |
-| Seagate ST2000DM001-1ER164 2TB       | 1        | 1.43%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB   | 1        | 1.43%   |
-| Seagate ST1000DM003-1SB102 1TB       | 1        | 1.43%   |
-| Seagate BUP Slim SL 1TB              | 1        | 1.43%   |
-| SanDisk SDSSDA240G 240GB             | 1        | 1.43%   |
-| SanDisk NVMe SSD Drive 500GB         | 1        | 1.43%   |
-| Samsung SSD 970 EVO 500GB            | 1        | 1.43%   |
-| Samsung SSD 960 EVO 250GB            | 1        | 1.43%   |
-| Samsung SSD 860 EVO 500GB            | 1        | 1.43%   |
-| Samsung SSD 850 EVO 250GB            | 1        | 1.43%   |
-| Samsung SSD 850 EVO 1TB              | 1        | 1.43%   |
-| Samsung MZ7TY256HDHP-000L7 256GB SSD | 1        | 1.43%   |
-| Samsung HD501LJ 500GB                | 1        | 1.43%   |
-| Samsung HD154UI 1TB                  | 1        | 1.43%   |
-| Phison PCIe SSD 256GB                | 1        | 1.43%   |
-| Patriot Burst 480GB SSD              | 1        | 1.43%   |
-| Maxtor STM3160215AS 160GB            | 1        | 1.43%   |
-| Kingston SV200S364G 64GB SSD         | 1        | 1.43%   |
-| Kingston SKC600256G 256GB SSD        | 1        | 1.43%   |
-| Kingston SA400S37480G 480GB SSD      | 1        | 1.43%   |
-| Intel SSDSC2BW180A3L 180GB           | 1        | 1.43%   |
-| Intel SSDSA2BW120G3H 120GB           | 1        | 1.43%   |
-| Hitachi HUA723020ALA640 2TB          | 1        | 1.43%   |
-| Hitachi HTS722020K9SA00 200GB        | 1        | 1.43%   |
-| Hitachi HTS547564A9E384 640GB        | 1        | 1.43%   |
-| Hitachi HDT721025SLA380 250GB        | 1        | 1.43%   |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Toshiba DT01ACA050 500GB           | 2        | 2.86%   |
+| Seagate ST380815AS 80GB            | 2        | 2.86%   |
+| Seagate ST3160815AS 160GB          | 2        | 2.86%   |
+| Kingston SV300S37A120G 120GB SSD   | 2        | 2.86%   |
+| Kingston SA400S37120G 120GB SSD    | 2        | 2.86%   |
+| Hitachi HTS545050A7E380 500GB      | 2        | 2.86%   |
+| WDC WD6400AAKS-22A7B2 640GB        | 1        | 1.43%   |
+| WDC WD5000AZLX-60K2TA0 500GB       | 1        | 1.43%   |
+| WDC WD5000AAKX-75U6AA0 500GB       | 1        | 1.43%   |
+| WDC WD40EZRZ-75GXCB0 4TB           | 1        | 1.43%   |
+| WDC WD2500AAKX-001CA0 250GB        | 1        | 1.43%   |
+| WDC WD2500AAJS-75M0A0 250GB        | 1        | 1.43%   |
+| WDC WD20EZRZ-00Z5HB0 2TB           | 1        | 1.43%   |
+| WDC WD10EZEX-75M2NA0 1TB           | 1        | 1.43%   |
+| WDC WD10EZEX-00RKKA0 1TB           | 1        | 1.43%   |
+| Unknown FK0032CAAZP 32GB           | 1        | 1.43%   |
+| Toshiba NVMe SSD Drive 256GB       | 1        | 1.43%   |
+| Toshiba MQ01ACF050 500GB           | 1        | 1.43%   |
+| Toshiba MK3275GSX 320GB            | 1        | 1.43%   |
+| Toshiba MK2556GSY 250GB            | 1        | 1.43%   |
+| Toshiba HDWE160 6TB                | 1        | 1.43%   |
+| Seagate ST980412ASG 80GB           | 1        | 1.43%   |
+| Seagate ST9250410AS 250GB          | 1        | 1.43%   |
+| Seagate ST8000DM004-2CX188 8TB     | 1        | 1.43%   |
+| Seagate ST500LM000-1EJ162 500GB    | 1        | 1.43%   |
+| Seagate ST500DM002-1BD142 500GB    | 1        | 1.43%   |
+| Seagate ST3500418AS 500GB          | 1        | 1.43%   |
+| Seagate ST3320620AS 320GB          | 1        | 1.43%   |
+| Seagate ST3320418AS 320GB          | 1        | 1.43%   |
+| Seagate ST3250318AS 250GB          | 1        | 1.43%   |
+| Seagate ST3160215AS 160GB          | 1        | 1.43%   |
+| Seagate ST3160212SCE 160GB         | 1        | 1.43%   |
+| Seagate ST31000528AS 1TB           | 1        | 1.43%   |
+| Seagate ST2000DM008-2FR102 2TB     | 1        | 1.43%   |
+| Seagate ST2000DM001-1ER164 2TB     | 1        | 1.43%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB | 1        | 1.43%   |
+| Seagate ST1000DM003-1SB102 1TB     | 1        | 1.43%   |
+| Seagate BUP Slim SL 1TB            | 1        | 1.43%   |
+| SanDisk SDSSDA240G 240GB           | 1        | 1.43%   |
+| SanDisk NVMe SSD Drive 500GB       | 1        | 1.43%   |
 
 HDD Vendor
 ----------
@@ -946,7 +926,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 18       | 24     | 46.15%  |
+| Seagate             | 18       | 25     | 46.15%  |
 | WDC                 | 7        | 9      | 17.95%  |
 | Hitachi             | 6        | 8      | 15.38%  |
 | Toshiba             | 5        | 7      | 12.82%  |
@@ -981,7 +961,7 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 29       | 53     | 58%     |
+| HDD     | 29       | 54     | 58%     |
 | SSD     | 15       | 19     | 30%     |
 | NVMe    | 5        | 6      | 10%     |
 | Unknown | 1        | 1      | 2%      |
@@ -996,7 +976,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 36       | 72     | 85.71%  |
+| SATA | 36       | 73     | 85.71%  |
 | NVMe | 5        | 6      | 11.9%   |
 | SAS  | 1        | 1      | 2.38%   |
 
@@ -1011,7 +991,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 32       | 53     | 65.31%  |
-| 0.51-1.0   | 10       | 12     | 20.41%  |
+| 0.51-1.0   | 10       | 13     | 20.41%  |
 | 1.01-2.0   | 4        | 4      | 8.16%   |
 | 4.01-10.0  | 2        | 2      | 4.08%   |
 | 3.01-4.0   | 1        | 1      | 2.04%   |
@@ -1159,7 +1139,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 22       | 44     | 48.89%  |
+| Detected | 22       | 45     | 48.89%  |
 | Works    | 14       | 22     | 31.11%  |
 | Malfunc  | 8        | 12     | 17.78%  |
 | Failed   | 1        | 1      | 2.22%   |
@@ -1403,25 +1383,25 @@ Microcode number
 
 | Number     | Desktops | Percent |
 |------------|----------|---------|
-| 0x306a9    | 4        | 10.81%  |
-| Unknown    | 4        | 10.81%  |
-| 0x306c3    | 3        | 8.11%   |
-| 0x206a7    | 3        | 8.11%   |
-| 0x1067a    | 3        | 8.11%   |
-| 0x0800820d | 3        | 8.11%   |
-| 0x06000852 | 3        | 8.11%   |
-| 0x6fb      | 2        | 5.41%   |
-| 0x506e3    | 2        | 5.41%   |
-| 0xf65      | 1        | 2.7%    |
-| 0xf49      | 1        | 2.7%    |
-| 0x906ea    | 1        | 2.7%    |
-| 0x906e9    | 1        | 2.7%    |
-| 0x106c2    | 1        | 2.7%    |
-| 0x10661    | 1        | 2.7%    |
-| 0x08108109 | 1        | 2.7%    |
-| 0x08101013 | 1        | 2.7%    |
-| 0x0600611a | 1        | 2.7%    |
-| 0x010000db | 1        | 2.7%    |
+| Unknown    | 5        | 13.16%  |
+| 0x306a9    | 4        | 10.53%  |
+| 0x306c3    | 3        | 7.89%   |
+| 0x206a7    | 3        | 7.89%   |
+| 0x1067a    | 3        | 7.89%   |
+| 0x0800820d | 3        | 7.89%   |
+| 0x06000852 | 3        | 7.89%   |
+| 0x6fb      | 2        | 5.26%   |
+| 0x506e3    | 2        | 5.26%   |
+| 0xf65      | 1        | 2.63%   |
+| 0xf49      | 1        | 2.63%   |
+| 0x906ea    | 1        | 2.63%   |
+| 0x906e9    | 1        | 2.63%   |
+| 0x106c2    | 1        | 2.63%   |
+| 0x10661    | 1        | 2.63%   |
+| 0x08108109 | 1        | 2.63%   |
+| 0x08101013 | 1        | 2.63%   |
+| 0x0600611a | 1        | 2.63%   |
+| 0x010000db | 1        | 2.63%   |
 
 CPU Microarch
 -------------
@@ -1605,10 +1585,10 @@ Monitor models
 | NEC Computers EA274WMi NEC695F 2560x1440 597x336mm 27.0-inch            | 1        | 3.23%   |
 | LG Electronics LCD Monitor W1943 1984x768                               | 1        | 3.23%   |
 | LG Electronics LCD Monitor LG TV                                        | 1        | 3.23%   |
-| KTC 32'TV KTC3200 1600x900 698x392mm 31.5-inch                          | 1        | 3.23%   |
+| KTC 32T72-H-AN KTC3200 1360x768 698x392mm 31.5-inch                     | 1        | 3.23%   |
 | Hewlett-Packard w1858 HWP281A 1366x768 413x234mm 18.7-inch              | 1        | 3.23%   |
 | Hewlett-Packard V244h HPN3358 1920x1080 531x299mm 24.0-inch             | 1        | 3.23%   |
-| Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch            | 1        | 3.23%   |
+| Hewlett-Packard LA2205 HWP2848 1680x1050 470x300mm 22.0-inch            | 1        | 3.23%   |
 | Hewlett-Packard L1730 HWP260E 1280x1024 338x270mm 17.0-inch             | 1        | 3.23%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 3.23%   |
 | Goldstar TV GSM75E3 1024x768 920x518mm 41.6-inch                        | 1        | 3.23%   |
@@ -1623,7 +1603,7 @@ Monitor models
 | AOC TFT1780 AOC1780 1280x1024 304x228mm 15.0-inch                       | 1        | 3.23%   |
 | AOC LCD Monitor 2243W 1920x1080                                         | 1        | 3.23%   |
 | Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch   | 1        | 3.23%   |
-| Acer X193W ACR000C 1440x900 410x260mm 19.1-inch                         | 1        | 3.23%   |
+| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                         | 1        | 3.23%   |
 | Acer V223W ACR0027 1680x1050 473x296mm 22.0-inch                        | 1        | 3.23%   |
 | Acer P225HQL ACR014E 1920x1080 476x268mm 21.5-inch                      | 1        | 3.23%   |
 
@@ -1800,7 +1780,7 @@ Controller models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 2        | 3.17%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 1.59%   |
 | Tul Corporation / PowerColor Network controller                   | 1        | 1.59%   |
-| TP-Link TL-WN722N v2                                              | 1        | 1.59%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 1.59%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.59%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 1        | 1.59%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1        | 1.59%   |
@@ -1861,7 +1841,7 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                | 4        | 17.39%  |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 3        | 13.04%  |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 2        | 8.7%    |
-| TP-Link TL-WN722N v2                                           | 1        | 4.35%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1        | 4.35%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter        | 1        | 4.35%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                | 1        | 4.35%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                     | 1        | 4.35%   |
@@ -2123,19 +2103,19 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 3.7%    |
 | Unknown RAM Module 2048MB DIMM SDRAM                     | 1        | 3.7%    |
 | SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 3.7%    |
-| SK hynix RAM HYMP512U64CP8-Y5 1GB DIMM DDR 667MT/s       | 1        | 3.7%    |
+| SK hynix RAM HYMP512U64CP8-Y5 1GB DIMM DDR2 667MT/s      | 1        | 3.7%    |
 | SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s     | 1        | 3.7%    |
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 3.7%    |
 | SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s  | 1        | 3.7%    |
 | SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s     | 1        | 3.7%    |
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s      | 1        | 3.7%    |
-| Samsung RAM M378B5673FH0-CF8 2GB DIMM DDR3 1067MT/s      | 1        | 3.7%    |
-| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s   | 1        | 3.7%    |
+| Samsung RAM M378B5673FH0-CF8 2048MB DIMM DDR3 1067MT/s   | 1        | 3.7%    |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s      | 1        | 3.7%    |
 | Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 3.7%    |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s    | 1        | 3.7%    |
 | Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s         | 1        | 3.7%    |
 | Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s          | 1        | 3.7%    |
-| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s      | 1        | 3.7%    |
+| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 49926MT/s   | 1        | 3.7%    |
 | Nanya RAM NT1GT64U88D0BY-3C 1024MB DIMM DDR2 667MT/s     | 1        | 3.7%    |
 | Kingston RAM HP497157-D88-ELFWG 2GB DIMM DDR3 1333MT/s   | 1        | 3.7%    |
 | Kingston RAM 9965745-028.A00G 16384MB DIMM DDR4 2666MT/s | 1        | 3.7%    |
@@ -2277,16 +2257,16 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Microsoft MicrosoftÂ LifeCam HD-5001   | 2        | 22.22%  |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 11.11%  |
-| OmniVision Monitor Webcam               | 1        | 11.11%  |
-| OmniVision Monitor Integrated Webcam    | 1        | 11.11%  |
-| Microsoft LifeCam VX-2000               | 1        | 11.11%  |
-| Logitech Webcam Pro 9000                | 1        | 11.11%  |
-| Jieli USB PHY 2.0                       | 1        | 11.11%  |
-| Apple iPhone 5/5C/5S/6/SE               | 1        | 11.11%  |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Microsoft MicrosoftÂ LifeCam HD-5001 | 2        | 22.22%  |
+| Samsung Galaxy A5 (MTP)               | 1        | 11.11%  |
+| OmniVision Monitor Webcam             | 1        | 11.11%  |
+| OmniVision Monitor Integrated Webcam  | 1        | 11.11%  |
+| Microsoft LifeCam VX-2000             | 1        | 11.11%  |
+| Logitech Webcam Pro 9000              | 1        | 11.11%  |
+| Jieli USB PHY 2.0                     | 1        | 11.11%  |
+| Apple iPhone5/5C/5S/6                 | 1        | 11.11%  |
 
 Security
 --------
