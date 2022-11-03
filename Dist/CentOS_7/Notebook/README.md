@@ -917,7 +917,7 @@ Hard drive models
 | Kingston SA400S37240G 240GB SSD                   | 3         | 4.05%   |
 | Toshiba TR200 240GB SSD                           | 2         | 2.7%    |
 | StoreJet Transcend 128GB SSD                      | 2         | 2.7%    |
-| Seagate BUP Slim 1TB                              | 2         | 2.7%    |
+| Seagate BUP Slim 2TB                              | 2         | 2.7%    |
 | WDC WD7500BPKX-00HPJT0 752GB                      | 1         | 1.35%   |
 | WDC WD5000BEVT-80A0RT0 500GB                      | 1         | 1.35%   |
 | WDC WD5000BEVT-22A0RT0 500GB                      | 1         | 1.35%   |
@@ -946,7 +946,7 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB                   | 1         | 1.35%   |
 | Seagate ST1000LM035-1RK172 1TB                    | 1         | 1.35%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                | 1         | 1.35%   |
-| Seagate Expansion 1TB                             | 1         | 1.35%   |
+| Seagate Expansion 2TB                             | 1         | 1.35%   |
 | SanDisk SD8SN8U-128G-1006 128GB SSD               | 1         | 1.35%   |
 | Samsung SSD SM871 2.5 7mm 512GB                   | 1         | 1.35%   |
 | Samsung SSD 860 EVO M.2 500GB                     | 1         | 1.35%   |
@@ -1039,7 +1039,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 43        | 54     | 74.14%  |
-| 0.51-1.0   | 15        | 15     | 25.86%  |
+| 0.51-1.0   | 12        | 12     | 20.69%  |
+| 1.01-2.0   | 3         | 3      | 5.17%   |
 
 Space Total
 -----------
@@ -1635,7 +1636,7 @@ Monitor models
 | Sharp LCD Monitor SHP144D 3840x2160 276x156mm 12.5-inch               | 1         | 1.47%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch | 1         | 1.47%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch     | 1         | 1.47%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch  | 1         | 1.47%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SEC4C42 1280x800 303x190mm 14.1-inch  | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch  | 1         | 1.47%   |
@@ -2015,7 +2016,7 @@ Ethernet models
 | Intel Ethernet Connection (3) I218-LM                             | 1         | 1.69%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.69%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.69%   |
-| Huawei YAL-L21                                                    | 1         | 1.69%   |
+| Huawei LYA-L09                                                    | 1         | 1.69%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.69%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.69%   |
 
@@ -2247,19 +2248,19 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
-| SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s    | 1         | 1.96%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s       | 1         | 1.96%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s      | 1         | 1.96%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 1.96%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 1.96%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
 | Samsung RAM Module 4096MB SODIMM DDR4 2667MT/s               | 1         | 1.96%   |
 | Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 1.96%   |
 | Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                | 1         | 1.96%   |
 | Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s     | 1         | 1.96%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 1.96%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
-| Samsung RAM M471B1G73QH0-YK0 8192MB SODIMM DDR3 1600MT/s     | 1         | 1.96%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s        | 1         | 1.96%   |
 | Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s       | 1         | 1.96%   |
 | Samsung RAM M471A1K44BM0-CTD 8192MB SODIMM DDR4 2667MT/s     | 1         | 1.96%   |
@@ -2272,7 +2273,7 @@ Memory module models
 | Micron RAM 16JTF51264HZ-1G4H1 4GB SODIMM DDR3 1333MT/s       | 1         | 1.96%   |
 | Kingston RAM MSI26D4S9D8ME-16 16GB SODIMM DDR4 2667MT/s      | 1         | 1.96%   |
 | Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
-| Kingston RAM ACR16D3LS1NGG/4G 4096MB SODIMM DDR3 1600MT/s    | 1         | 1.96%   |
+| Kingston RAM ACR16D3LS1NGG/4G 4GB SODIMM DDR3 1600MT/s       | 1         | 1.96%   |
 | Kingston RAM 99U5469-041.A00LF 4096MB SODIMM DDR3 1600MT/s   | 1         | 1.96%   |
 
 Memory Kind
@@ -2454,7 +2455,7 @@ Camera device models
 | Logitech C922 Pro Stream Webcam               | 1         | 2.17%   |
 | Lite-On HP HD Camera                          | 1         | 2.17%   |
 | IMC Networks USB2.0 HD UVC WebCam             | 1         | 2.17%   |
-| Generalplus 808 Camera #9 (web-cam mode)      | 1         | 2.17%   |
+| Generalplus 808 Camera                        | 1         | 2.17%   |
 | Chicony USB2.0 Camera                         | 1         | 2.17%   |
 | Chicony TOSHIBA Web Camera - HD               | 1         | 2.17%   |
 | Chicony Lenovo Integrated Camera (0.3MP)      | 1         | 2.17%   |
@@ -2463,7 +2464,7 @@ Camera device models
 | Chicony HP Truevision HD                      | 1         | 2.17%   |
 | Chicony HD WebCam                             | 1         | 2.17%   |
 | Cheng Uei Precision Industry (Foxlink) Webcam | 1         | 2.17%   |
-| Apple iPhone5/5C/5S/6                         | 1         | 2.17%   |
+| Apple iPhone 5/5C/5S/6/SE                     | 1         | 2.17%   |
 | Apple Built-in iSight                         | 1         | 2.17%   |
 | Alcor Micro Acer Integrated Webcam            | 1         | 2.17%   |
 | Acer SunplusIT INC. Integrated Camera         | 1         | 2.17%   |

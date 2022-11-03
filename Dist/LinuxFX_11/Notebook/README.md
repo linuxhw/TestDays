@@ -153,13 +153,12 @@ Contents
 Test Cases
 ----------
 
-Total: 98
+Total: 97
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
 | Lenovo        | ThinkPad T420 4180MY7       | [e6a930e933](https://linux-hardware.org/?probe=e6a930e933) | Sep 19, 2022 |
 | Dell          | Inspiron 5567               | [740ba48457](https://linux-hardware.org/?probe=740ba48457) | Jul 03, 2022 |
-| Lenovo        | ThinkPad T420 4180MY7       | [1e755c8031](https://linux-hardware.org/?probe=1e755c8031) | Jun 29, 2022 |
 | Lenovo        | ThinkPad T420 4180MY7       | [a57e4e84f8](https://linux-hardware.org/?probe=a57e4e84f8) | Jun 29, 2022 |
 | Toshiba       | Satellite A215              | [f609309a08](https://linux-hardware.org/?probe=f609309a08) | Jun 19, 2022 |
 | Acer          | Aspire E1-531               | [ab72c3ae3f](https://linux-hardware.org/?probe=ab72c3ae3f) | May 03, 2022 |
@@ -1573,15 +1572,15 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM03D3 1360x768 410x256mm 19.0-inch  | 2         | 3.13%   |
 | LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch          | 2         | 3.13%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch         | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch  | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch  | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch  | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC3645 1280x800 331x207mm 15.4-inch  | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC3254 1600x900 367x230mm 17.1-inch  | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SAM0FEF 3840x2160 950x540mm 43.0-inch | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch  | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch  | 1         | 1.56%   |
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.56%   |
 | LG Philips LCD Monitor LPL3B01 1280x800 331x207mm 15.4-inch           | 1         | 1.56%   |
 | LG Philips LCD Monitor LPL012B 1280x800 304x190mm 14.1-inch           | 1         | 1.56%   |
@@ -2122,7 +2121,7 @@ Sound card models
 | Intel NM10/ICH7 Family High Definition Audio Controller                           | 1         | 1%      |
 | Intel Celeron/Pentium Silver Processor High Definition Audio                      | 1         | 1%      |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 1         | 1%      |
-| GN Netcom enc060:Buttons Volume up/down/mute + phone [Jabra]                      | 1         | 1%      |
+| GN Netcom Jabra EVOLVE 30 II                                                      | 1         | 1%      |
 | AMD Wrestler HDMI Audio                                                           | 1         | 1%      |
 | AMD Trinity HDMI Audio Controller                                                 | 1         | 1%      |
 | AMD RV635 HDMI Audio [Radeon HD 3650/3730/3750]                                   | 1         | 1%      |
@@ -2296,48 +2295,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                                 | Notebooks | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| Chicony HD WebCam                                                     | 3         | 5.56%   |
-| Suyin Acer/HP Integrated Webcam [CN0314]                              | 2         | 3.7%    |
-| Sunplus HD WebCam                                                     | 2         | 3.7%    |
-| Realtek USB Camera                                                    | 2         | 3.7%    |
-| Quanta HP Webcam                                                      | 2         | 3.7%    |
-| Chicony CNF9055 Toshiba Webcam                                        | 2         | 3.7%    |
-| Apple Built-in iSight                                                 | 2         | 3.7%    |
-| Acer Lenovo EasyCamera                                                | 2         | 3.7%    |
-| Z-Star WebCam SC-03FFL11739P                                          | 1         | 1.85%   |
-| Syntek Lenovo EasyCamera                                              | 1         | 1.85%   |
-| Suyin UVC HD Webcam                                                   | 1         | 1.85%   |
-| Silicon Motion WebCam SCB-1100N                                       | 1         | 1.85%   |
-| Silicon Motion WebCam SCB-0385N                                       | 1         | 1.85%   |
-| Silicon Motion WebCam SC-0311139N                                     | 1         | 1.85%   |
-| Silicon Motion 300k Pixel Camera                                      | 1         | 1.85%   |
-| Samsung Galaxy A5 (MTP)                                               | 1         | 1.85%   |
-| Ricoh Laptop_Integrated_Webcam_3M                                     | 1         | 1.85%   |
-| Ricoh Integrated Webcam                                               | 1         | 1.85%   |
-| Quanta Laptop_Integrated_Webcam_2HDM                                  | 1         | 1.85%   |
-| Primax HP Webcam-101                                                  | 1         | 1.85%   |
-| Primax HP HD Webcam [Fixed]                                           | 1         | 1.85%   |
-| Microdia Lenovo EasyCamera                                            | 1         | 1.85%   |
-| Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 1.85%   |
-| Microdia Integrated_Webcam_HD                                         | 1         | 1.85%   |
-| Microdia Integrated Webcam                                            | 1         | 1.85%   |
-| Microdia Dell Integrated HD Webcam                                    | 1         | 1.85%   |
-| IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 1.85%   |
-| icSpring camera                                                       | 1         | 1.85%   |
-| Chicony USB 2.0 Camera                                                | 1         | 1.85%   |
-| Chicony integrated camera                                             | 1         | 1.85%   |
-| Chicony HP Webcam                                                     | 1         | 1.85%   |
-| Chicony HP TrueVision HD Camera                                       | 1         | 1.85%   |
-| Chicony HP HD Webcam                                                  | 1         | 1.85%   |
-| Chicony FJ Camera                                                     | 1         | 1.85%   |
-| Chicony 2.0M UVC Webcam / CNF7129                                     | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) Webcam                         | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP Webcam                      | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera        | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP Truevision HD               | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Webcam                   | 1         | 1.85%   |
+| Model                                                          | Notebooks | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Chicony HD WebCam                                              | 3         | 5.56%   |
+| Suyin Acer/HP Integrated Webcam [CN0314]                       | 2         | 3.7%    |
+| Sunplus HD WebCam                                              | 2         | 3.7%    |
+| Quanta HP Webcam                                               | 2         | 3.7%    |
+| Chicony CNF9055 Toshiba Webcam                                 | 2         | 3.7%    |
+| Apple Built-in iSight                                          | 2         | 3.7%    |
+| Acer Lenovo EasyCamera                                         | 2         | 3.7%    |
+| Z-Star WebCam SC-03FFL11739P                                   | 1         | 1.85%   |
+| Syntek Lenovo EasyCamera                                       | 1         | 1.85%   |
+| Suyin UVC HD Webcam                                            | 1         | 1.85%   |
+| Silicon Motion WebCam SCB-1100N                                | 1         | 1.85%   |
+| Silicon Motion WebCam SCB-0385N                                | 1         | 1.85%   |
+| Silicon Motion WebCam SC-0311139N                              | 1         | 1.85%   |
+| Silicon Motion 300k Pixel Camera                               | 1         | 1.85%   |
+| Samsung Galaxy series, misc. (MTP mode)                        | 1         | 1.85%   |
+| Ricoh Laptop_Integrated_Webcam_3M                              | 1         | 1.85%   |
+| Ricoh Integrated Webcam                                        | 1         | 1.85%   |
+| Realtek USB Camera                                             | 1         | 1.85%   |
+| Realtek 2SF022                                                 | 1         | 1.85%   |
+| Quanta Laptop_Integrated_Webcam_2HDM                           | 1         | 1.85%   |
+| Primax HP Webcam-101                                           | 1         | 1.85%   |
+| Primax HP HD Webcam [Fixed]                                    | 1         | 1.85%   |
+| Microdia Lenovo EasyCamera                                     | 1         | 1.85%   |
+| Microdia Laptop_Integrated_Webcam_0.3M                         | 1         | 1.85%   |
+| Microdia Integrated_Webcam_HD                                  | 1         | 1.85%   |
+| Microdia Integrated Webcam                                     | 1         | 1.85%   |
+| Microdia Dell Integrated HD Webcam                             | 1         | 1.85%   |
+| IMC Networks USB2.0 HD UVC WebCam                              | 1         | 1.85%   |
+| icSpring camera                                                | 1         | 1.85%   |
+| Chicony USB 2.0 Camera                                         | 1         | 1.85%   |
+| Chicony integrated camera                                      | 1         | 1.85%   |
+| Chicony HP Webcam                                              | 1         | 1.85%   |
+| Chicony HP TrueVision HD Camera                                | 1         | 1.85%   |
+| Chicony HP HD Webcam                                           | 1         | 1.85%   |
+| Chicony FJ Camera                                              | 1         | 1.85%   |
+| Chicony 2.0M UVC Webcam / CNF7129                              | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam                  | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP Webcam               | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP Truevision HD        | 1         | 1.85%   |
 
 Security
 --------

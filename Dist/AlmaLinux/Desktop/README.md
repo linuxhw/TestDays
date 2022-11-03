@@ -1102,12 +1102,12 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 14.29%  |
+| STD HDMI TV STD00C7 1680x1050 698x392mm 31.5-inch                    | 1        | 14.29%  |
 | Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch | 1        | 14.29%  |
 | Samsung Electronics S27H65x SAM0E1D 1920x1080 598x336mm 27.0-inch    | 1        | 14.29%  |
 | Philips 19B PHL0879 1280x1024 376x301mm 19.0-inch                    | 1        | 14.29%  |
 | Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                 | 1        | 14.29%  |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1        | 14.29%  |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 14.29%  |
 | Dell 1905FP DEL400C 1280x1024 376x301mm 19.0-inch                    | 1        | 14.29%  |
 
 Monitor Resolution

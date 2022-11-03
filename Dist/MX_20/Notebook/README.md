@@ -858,7 +858,7 @@ Hard drive models
 | Seagate ST2000LM003 HN-M201RAD 2TB   | 1         | 1.92%   |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 1.92%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 1         | 1.92%   |
-| Seagate BUP BK 5TB                   | 1         | 1.92%   |
+| Seagate BUP BK 4TB                   | 1         | 1.92%   |
 | SanDisk SSD PLUS 480G                | 1         | 1.92%   |
 | SanDisk SDSSDHII120G 120GB           | 1         | 1.92%   |
 | SanDisk SDSSDA120G 120GB             | 1         | 1.92%   |
@@ -959,8 +959,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 29        | 36     | 82.86%  |
 | 0.51-1.0   | 4         | 4      | 11.43%  |
+| 3.01-4.0   | 1         | 1      | 2.86%   |
 | 1.01-2.0   | 1         | 1      | 2.86%   |
-| 4.01-10.0  | 1         | 1      | 2.86%   |
 
 Space Total
 -----------
@@ -1536,10 +1536,10 @@ Monitor models
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch  | 2         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch      | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch      | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch      | 1         | 2.17%   |
 | Philips PHL BDM4350 PHL08FA 3840x2160 953x543mm 43.2-inch                 | 1         | 2.17%   |
-| PANDA LC116LF3L03 NCP000A 1920x1080 256x144mm 11.6-inch                   | 1         | 2.17%   |
+| PANDA LM116LF3L02 NCP000A 1920x1080 256x144mm 11.6-inch                   | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL1901 1680x1050 331x207mm 15.4-inch              | 1         | 2.17%   |
 | LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch             | 1         | 2.17%   |
 | LG Display LCD Monitor LGD062E 1920x1080 344x194mm 15.5-inch              | 1         | 2.17%   |
@@ -1563,7 +1563,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1491 1366x768 309x174mm 14.0-inch           | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1467 1366x768 309x174mm 14.0-inch  | 1         | 2.17%   |
-| BOE LCD Monitor BOE089D 1920x1080 294x165mm 13.3-inch                     | 1         | 2.17%   |
+| BOE LCD Monitor BOE089D 1280x800 261x163mm 12.1-inch                      | 1         | 2.17%   |
 | BOE LCD Monitor BOE084E 1920x1080 382x215mm 17.3-inch                     | 1         | 2.17%   |
 | BOE LCD Monitor BOE0802 1920x1080 344x193mm 15.5-inch                     | 1         | 2.17%   |
 | BOE LCD Monitor BOE0791 1920x1080 309x173mm 13.9-inch                     | 1         | 2.17%   |
@@ -1973,8 +1973,9 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 9         | 31.03%  |
-| Realtek Bluetooth Radio                             | 2         | 6.9%    |
 | Intel AX201 Bluetooth                               | 2         | 6.9%    |
+| Realtek RTL8821A Bluetooth                          | 1         | 3.45%   |
+| Realtek Bluetooth Radio                             | 1         | 3.45%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 3.45%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 3.45%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.45%   |
@@ -2099,13 +2100,13 @@ Memory module models
 | Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s          | 2         | 3.92%   |
 | Unknown RAM Module 2048MB SODIMM DDR2                            | 1         | 1.96%   |
 | Unknown RAM Module 1024MB SODIMM DDR2                            | 1         | 1.96%   |
-| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 1.96%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.96%   |
 | Transcend RAM JM1333KSN-4G 4096MB SODIMM DDR3 1334MT/s           | 1         | 1.96%   |
-| Teikon RAM TMT451S6BFR8A-PBHJ 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
+| Teikon RAM TMT451S6BFR8A-PBHJ 4GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
 | Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
 | SK hynix RAM Module 2048MB SODIMM DDR3 800MT/s                   | 1         | 1.96%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2667MT/s                 | 1         | 1.96%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.96%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1334MT/s           | 1         | 1.96%   |
@@ -2114,9 +2115,9 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTALAR-NUD 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 1.96%   |
 | SK hynix RAM H5AN8G6NCJR-XNC 4GB SODIMM DDR4 3200MT/s            | 1         | 1.96%   |
 | Samsung RAM Module 2048MB SODIMM DDR2 533MT/s                    | 1         | 1.96%   |
-| Samsung RAM M471B5674QH0-YK0 2048MB SODIMM DDR3 1600MT/s         | 1         | 1.96%   |
+| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5674EB0-YK0 2048MB SODIMM DDR3 1600MT/s         | 1         | 1.96%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s         | 1         | 1.96%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
@@ -2126,7 +2127,7 @@ Memory module models
 | Ramaxel RAM RMT3150ED58E8W1600 2GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
 | Ramaxel RAM RMSA3300ME78HBF-2666 16GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
 | Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 1.96%   |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s             | 1         | 1.96%   |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s          | 1         | 1.96%   |
 | Nanya RAM NT1GT64UH8D0FN-3C 1024MB SODIMM DDR2 667MT/s           | 1         | 1.96%   |
 | Micron RAM Module 4096MB SODIMM DDR4 2400MT/s                    | 1         | 1.96%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                    | 1         | 1.96%   |

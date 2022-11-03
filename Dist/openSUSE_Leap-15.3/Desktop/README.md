@@ -614,8 +614,8 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2018 | 9        | 14.29%  |
-| 2019 | 8        | 12.7%   |
+| 2018 | 10       | 15.87%  |
+| 2019 | 7        | 11.11%  |
 | 2014 | 7        | 11.11%  |
 | 2012 | 6        | 9.52%   |
 | 2021 | 5        | 7.94%   |
@@ -1032,10 +1032,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 68     | 40%     |
-| 0.51-1.0   | 33       | 56     | 34.74%  |
+| 0.01-0.5   | 38       | 67     | 40%     |
+| 0.51-1.0   | 34       | 58     | 35.79%  |
 | 1.01-2.0   | 15       | 21     | 15.79%  |
-| 3.01-4.0   | 4        | 9      | 4.21%   |
+| 3.01-4.0   | 3        | 8      | 3.16%   |
 | 2.01-3.0   | 2        | 2      | 2.11%   |
 | 10.01-20.0 | 2        | 3      | 2.11%   |
 | 4.01-10.0  | 1        | 2      | 1.05%   |
@@ -1658,21 +1658,21 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| ViewSonic VX3211-2K VSCF634 2560x1440 698x392mm 31.5-inch            | 2        | 2.6%    |
+| ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch            | 2        | 2.6%    |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 2.6%    |
 | Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch               | 2        | 2.6%    |
-| Vizio E60-E3 VIZ1018 3840x2160 1330x748mm 60.1-inch                  | 1        | 1.3%    |
+| Vizio E43u-D2 VIZ1018 3840x2160 953x543mm 43.2-inch                  | 1        | 1.3%    |
 | TCL LCD TV TCL0030 1920x1080 708x398mm 32.0-inch                     | 1        | 1.3%    |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch    | 1        | 1.3%    |
-| Samsung Electronics SyncMaster SAM0524 1920x1080 480x270mm 21.7-inch | 1        | 1.3%    |
+| Samsung Electronics SyncMaster SAM0524 1920x1080 477x268mm 21.5-inch | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM00A2 1024x768 304x228mm 15.0-inch  | 1        | 1.3%    |
 | Samsung Electronics SMS27A850T SAM0887 2560x1440 518x324mm 24.1-inch | 1        | 1.3%    |
 | Samsung Electronics SA300/SA350 SAM0788 1366x768 410x230mm 18.5-inch | 1        | 1.3%    |
 | Samsung Electronics S34J55x SAM0F72 1720x1440                        | 1        | 1.3%    |
 | Samsung Electronics S34J55x SAM0F70 3440x1440 797x333mm 34.0-inch    | 1        | 1.3%    |
-| Samsung Electronics S23B550 SAM0919 1920x1080 510x287mm 23.0-inch    | 1        | 1.3%    |
+| Samsung Electronics S23B550 SAM0919 1920x1080 510x290mm 23.1-inch    | 1        | 1.3%    |
 | Philips PHL 258B6QU PHL08F5 2560x1440 553x311mm 25.0-inch            | 1        | 1.3%    |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch              | 1        | 1.3%    |
+| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch              | 1        | 1.3%    |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1        | 1.3%    |
 | Philips 150S PHL0812 1024x768 307x230mm 15.1-inch                    | 1        | 1.3%    |
 | Philips 150S PHL0805 1024x768 307x230mm 15.1-inch                    | 1        | 1.3%    |
@@ -1683,13 +1683,13 @@ Monitor models
 | Lenovo LEN T27i-10 LEN61C6 1920x1080 598x336mm 27.0-inch             | 1        | 1.3%    |
 | Iiyama PL2592H IVM6135 1920x1080 544x303mm 24.5-inch                 | 1        | 1.3%    |
 | Hitachi X90W D-sub HIT6008 1440x900 410x257mm 19.1-inch              | 1        | 1.3%    |
-| Hewlett-Packard LA1951 HWP285A 1280x1024 380x300mm 19.1-inch         | 1        | 1.3%    |
-| Hewlett-Packard 27fw HPN354A 1920x1080 598x336mm 27.0-inch           | 1        | 1.3%    |
+| Hewlett-Packard LCD Monitor HWP285A 1920x1080 470x270mm 21.3-inch    | 1        | 1.3%    |
+| Hewlett-Packard 27f HPN354A 1920x1080 598x336mm 27.0-inch            | 1        | 1.3%    |
 | Hewlett-Packard 27es HWP3326 1920x1080 598x336mm 27.0-inch           | 1        | 1.3%    |
 | Hewlett-Packard 22m HPN3576 1920x1080 476x268mm 21.5-inch            | 1        | 1.3%    |
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                 | 1        | 1.3%    |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1        | 1.3%    |
-| Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                 | 1        | 1.3%    |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 1.3%    |
+| Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                 | 1        | 1.3%    |
 | Goldstar M2380D GSM57BC 1920x1080 598x336mm 27.0-inch                | 1        | 1.3%    |
 | Goldstar L1718S GSM443C 1280x1024 338x270mm 17.0-inch                | 1        | 1.3%    |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                 | 1        | 1.3%    |
@@ -2261,7 +2261,7 @@ Memory module models
 |------------------------------------------------------------|----------|---------|
 | Kingston RAM KHX3600C18D4/32GX 32GB DIMM DDR4 3600MT/s     | 2        | 4.08%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s     | 2        | 4.08%   |
-| G.Skill RAM F4-2400C15-8GNT 8192MB DIMM DDR4 2666MT/s      | 2        | 4.08%   |
+| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s         | 2        | 4.08%   |
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s                  | 1        | 2.04%   |
 | Unknown RAM Module 8192MB DIMM 1333MT/s                    | 1        | 2.04%   |
 | Unknown RAM Module 2048MB DIMM SDRAM 800MT/s               | 1        | 2.04%   |
@@ -2277,7 +2277,7 @@ Memory module models
 | Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s            | 1        | 2.04%   |
 | Patriot RAM PSD22G80026 2048MB DIMM DDR2 800MT/s           | 1        | 2.04%   |
 | Micron RAM 16JTF1G64AZ-1G6D1 8GB DIMM DDR3 1600MT/s        | 1        | 2.04%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s          | 1        | 2.04%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 2.04%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 2.04%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s        | 1        | 2.04%   |
 | Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s       | 1        | 2.04%   |
@@ -2287,14 +2287,14 @@ Memory module models
 | Kingston RAM 9905474-012.A00LF 2048MB DIMM DDR3 1333MT/s   | 1        | 2.04%   |
 | Kingston RAM 9905471-028.A00LF 4096MB DIMM DDR3 1333MT/s   | 1        | 2.04%   |
 | GeIL RAM CL11-11-11 D3-1600 8GB DIMM DDR3 1600MT/s         | 1        | 2.04%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s        | 1        | 2.04%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s        | 1        | 2.04%   |
 | G.Skill RAM F4-3200C15-16GTZKY 16384MB DIMM DDR4 3200MT/s  | 1        | 2.04%   |
 | G.Skill RAM F4-2666C19-16GIS 16384MB DIMM DDR4 2667MT/s    | 1        | 2.04%   |
-| G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1400MT/s       | 1        | 2.04%   |
+| G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1600MT/s       | 1        | 2.04%   |
 | Elpida RAM EBE11UD8AJWA-6E-E 1GB DIMM DDR2 667MT/s         | 1        | 2.04%   |
 | Crucial RAM CT8G4DFS8266.M8FE 8GB DIMM DDR4 2667MT/s       | 1        | 2.04%   |
 | Crucial RAM CT16G4DFRA266.C16FE 16384MB DIMM DDR4 2667MT/s | 1        | 2.04%   |
-| Crucial RAM CT102464BD160B.M16 8GB DIMM DDR3 1600MT/s      | 1        | 2.04%   |
+| Crucial RAM CT102464BD160B.M16 8192MB DIMM DDR3 1600MT/s   | 1        | 2.04%   |
 | Crucial RAM BLS16G4D32AESB.M16FE 16GB DIMM DDR4 3600MT/s   | 1        | 2.04%   |
 | Crucial RAM BL32G32C16U4R.M16FB1 32GB DIMM DDR4 3200MT/s   | 1        | 2.04%   |
 | Corsair RAM CMZ8GX3M2A1866C9 4GB DIMM DDR3 1867MT/s        | 1        | 2.04%   |
@@ -2355,7 +2355,7 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 7        | 15.91%  |
+| 1600  | 8        | 18.18%  |
 | 1333  | 6        | 13.64%  |
 | 3600  | 4        | 9.09%   |
 | 3200  | 4        | 9.09%   |
@@ -2366,12 +2366,11 @@ Memory module speed
 | 2133  | 2        | 4.55%   |
 | 1867  | 2        | 4.55%   |
 | 4199  | 1        | 2.27%   |
-| 3466  | 1        | 2.27%   |
+| 3866  | 1        | 2.27%   |
+| 3400  | 1        | 2.27%   |
 | 3007  | 1        | 2.27%   |
 | 2934  | 1        | 2.27%   |
-| 2933  | 1        | 2.27%   |
 | 2400  | 1        | 2.27%   |
-| 1400  | 1        | 2.27%   |
 | 667   | 1        | 2.27%   |
 
 Printers & scanners
@@ -2407,8 +2406,8 @@ Printer device models
 | Kyocera FS-1030D printer  | 1        | 12.5%   |
 | HP ENVY 4500 series       | 1        | 12.5%   |
 | HP DeskJet 6940 series    | 1        | 12.5%   |
-| Canon LiDE 300            | 1        | 12.5%   |
 | Canon G3020 series        | 1        | 12.5%   |
+| Canon CanoScan LiDE 300   | 1        | 12.5%   |
 | Brother Printer           | 1        | 12.5%   |
 | Brother HL-L3210CW series | 1        | 12.5%   |
 

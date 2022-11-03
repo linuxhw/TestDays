@@ -157,10 +157,12 @@ Contents
 Test Cases
 ----------
 
-Total: 52
+Total: 54
 
 | Vendor   | Model                       | Form-Factor | Probe                                                      | Date         |
 |----------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Lenovo   | IdeaPad 330-15AST 81D6      | Notebook    | [abbb3295c8](https://linux-hardware.org/?probe=abbb3295c8) | Oct 14, 2022 |
+| Lenovo   | IdeaPad 330-15AST 81D6      | Notebook    | [f19e981e03](https://linux-hardware.org/?probe=f19e981e03) | Oct 14, 2022 |
 | Apple    | Mac-8ED6AF5B48C039E1 Mac... | Mini pc     | [c2f80d89da](https://linux-hardware.org/?probe=c2f80d89da) | Sep 26, 2022 |
 | Apple    | Mac-8ED6AF5B48C039E1 Mac... | Mini pc     | [8d0067a198](https://linux-hardware.org/?probe=8d0067a198) | Sep 26, 2022 |
 | Dell     | Inspiron 3584               | Notebook    | [626c79c116](https://linux-hardware.org/?probe=626c79c116) | Sep 24, 2022 |
@@ -856,7 +858,7 @@ Hard drive models
 |-------------------------------------------|-----------|---------|
 | SK hynix NVMe SSD Drive 512GB             | 2         | 3.45%   |
 | Seagate ST9500325AS 500GB                 | 2         | 3.45%   |
-| Samsung NVMe SSD Drive 256GB              | 2         | 3.45%   |
+| Samsung SM963 2.5" NVMe PCIe SSD 256GB    | 2         | 3.45%   |
 | PNY CS900 240GB SSD                       | 2         | 3.45%   |
 | Kingston SA400S37120G 120GB SSD           | 2         | 3.45%   |
 | HGST HTS541010A9E680 1TB                  | 2         | 3.45%   |
@@ -873,7 +875,7 @@ Hard drive models
 | Toshiba MQ04ABF100 1TB                    | 1         | 1.72%   |
 | Toshiba MQ01ABD032 320GB                  | 1         | 1.72%   |
 | Toshiba HDWD120 2TB                       | 1         | 1.72%   |
-| SSSTC CVB-8D128-HP 128GB SSD              | 1         | 1.72%   |
+| SSSTC CVB-8D128-HP 128GB                  | 1         | 1.72%   |
 | SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 1.72%   |
 | SK hynix HFS128G39TND-N210A 128GB SSD     | 1         | 1.72%   |
 | Seagate ST8000DM004-2CX188 8TB            | 1         | 1.72%   |
@@ -1499,7 +1501,7 @@ Monitor models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch    | 2         | 4.55%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2         | 4.55%   |
 | Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                  | 1         | 2.27%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch  | 1         | 2.27%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1         | 2.27%   |
@@ -1507,7 +1509,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SDC3754 1600x900 382x215mm 17.3-inch | 1         | 2.27%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch    | 1         | 2.27%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1         | 2.27%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch    | 1         | 2.27%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD05EC 1920x1080 309x174mm 14.0-inch         | 1         | 2.27%   |
 | LG Display LCD Monitor LGD04B3 1920x1080 345x194mm 15.6-inch         | 1         | 2.27%   |
@@ -1538,7 +1540,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO223D 1920x1080 309x174mm 14.0-inch       | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO162C 1366x768 293x164mm 13.2-inch        | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch        | 1         | 2.27%   |
-| Apple iMac APPA032 4096x2304 475x267mm 21.5-inch                     | 1         | 2.27%   |
+| Apple iMac APPA032 3840x2160 475x267mm 21.5-inch                     | 1         | 2.27%   |
 
 Monitor Resolution
 ------------------
@@ -1724,7 +1726,7 @@ Controller models
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.32%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.32%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.32%   |
-| Motorola PCS moto g(7) optimo maxx(XT1955DL)                      | 1         | 1.32%   |
+| Motorola PCS Moto E LTE                                           | 1         | 1.32%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.32%   |
 | Intel Wireless 8260                                               | 1         | 1.32%   |
 | Intel Wireless 7265                                               | 1         | 1.32%   |
@@ -1737,7 +1739,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.32%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.32%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.32%   |
-| Google Pixel 6                                                    | 1         | 1.32%   |
+| Google Pixel 6 Pro                                                | 1         | 1.32%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 1.32%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.32%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 1.32%   |
@@ -1837,7 +1839,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 1         | 2.63%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2.63%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 2.63%   |
-| Google Pixel 6                                                    | 1         | 2.63%   |
+| Google Pixel 6 Pro                                                | 1         | 2.63%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 2.63%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 2.63%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 2.63%   |
@@ -1932,13 +1934,14 @@ Controller models
 
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                        | 4         | 12.9%   |
 | Qualcomm Atheros  Bluetooth Device             | 4         | 12.9%   |
 | Intel Bluetooth wireless interface             | 4         | 12.9%   |
+| Realtek Bluetooth Radio                        | 3         | 9.68%   |
 | Realtek  Bluetooth 4.2 Adapter                 | 2         | 6.45%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device   | 2         | 6.45%   |
 | Apple Bluetooth Host Controller                | 2         | 6.45%   |
 | Toshiba Bluetooth Device                       | 1         | 3.23%   |
+| Realtek RTL8821A Bluetooth                     | 1         | 3.23%   |
 | Qualcomm Atheros AR9462 Bluetooth              | 1         | 3.23%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth     | 1         | 3.23%   |
 | Lite-On Bluetooth Device                       | 1         | 3.23%   |
@@ -2011,7 +2014,7 @@ Sound card models
 | Intel Broadwell-U Audio Controller                                                                | 1         | 1.45%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 1         | 1.45%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.45%   |
-| Huawei Technologies USB-C HEADSET                                                                 | 1         | 1.45%   |
+| Huawei Technologies CM-Q3                                                                         | 1         | 1.45%   |
 | Guillemot Hercules DJ Console 4-Mx                                                                | 1         | 1.45%   |
 | C-Media Electronics CM102-A+/102S+ Audio Controller                                               | 1         | 1.45%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.45%   |
@@ -2165,7 +2168,6 @@ Camera device models
 | Suyin HP Truevision HD                           | 3         | 10%     |
 | Syntek Integrated Camera                         | 2         | 6.67%   |
 | Realtek USB Camera                               | 2         | 6.67%   |
-| Microdia Integrated_Webcam_HD                    | 2         | 6.67%   |
 | Chicony Integrated Camera                        | 2         | 6.67%   |
 | Apple FaceTime HD Camera (Built-in)              | 2         | 6.67%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 3.33%   |
@@ -2174,6 +2176,8 @@ Camera device models
 | Realtek Integrated_Webcam_HD                     | 1         | 3.33%   |
 | Realtek Integrated Camera                        | 1         | 3.33%   |
 | Quanta HD Webcam                                 | 1         | 3.33%   |
+| Microdia Integrated_Webcam_HD                    | 1         | 3.33%   |
+| Microdia Integrated Webcam HD                    | 1         | 3.33%   |
 | Logitech Webcam C270                             | 1         | 3.33%   |
 | Logitech HD Pro Webcam C920                      | 1         | 3.33%   |
 | IMC Networks HP TrueVision HD Camera             | 1         | 3.33%   |
@@ -2268,15 +2272,15 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 27        | 36%     |
-| Net/wireless             | 18        | 24%     |
-| Graphics card            | 6         | 8%      |
-| Card reader              | 5         | 6.67%   |
-| Bluetooth                | 5         | 6.67%   |
-| Net/ethernet             | 4         | 5.33%   |
-| Multimedia controller    | 4         | 5.33%   |
-| Firewire controller      | 2         | 2.67%   |
-| Fingerprint reader       | 2         | 2.67%   |
-| Storage/ide              | 1         | 1.33%   |
-| Chipcard                 | 1         | 1.33%   |
+| Communication controller | 27        | 35.53%  |
+| Net/wireless             | 19        | 25%     |
+| Graphics card            | 6         | 7.89%   |
+| Card reader              | 5         | 6.58%   |
+| Bluetooth                | 5         | 6.58%   |
+| Net/ethernet             | 4         | 5.26%   |
+| Multimedia controller    | 4         | 5.26%   |
+| Firewire controller      | 2         | 2.63%   |
+| Fingerprint reader       | 2         | 2.63%   |
+| Storage/ide              | 1         | 1.32%   |
+| Chipcard                 | 1         | 1.32%   |
 

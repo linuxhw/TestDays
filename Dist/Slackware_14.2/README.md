@@ -1100,8 +1100,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 58     | 51.35%  |
-| 0.51-1.0   | 19        | 42     | 25.68%  |
+| 0.01-0.5   | 37        | 57     | 50%     |
+| 0.51-1.0   | 20        | 43     | 27.03%  |
 | 1.01-2.0   | 6         | 9      | 8.11%   |
 | 3.01-4.0   | 4         | 11     | 5.41%   |
 | 2.01-3.0   | 4         | 8      | 5.41%   |
@@ -1761,15 +1761,15 @@ Monitor models
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1         | 1.59%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1         | 1.59%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1         | 1.59%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1         | 1.59%   |
+| Toshiba TV TSB0206 1920x1080                                         | 1         | 1.59%   |
 | Sharp LCD Monitor SHP14C4 1920x1080 344x194mm 15.5-inch              | 1         | 1.59%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1         | 1.59%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 1.59%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC5541 1366x768 340x190mm 15.3-inch | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch | 1         | 1.59%   |
-| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch             | 1         | 1.59%   |
-| ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.59%   |
+| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch         | 1         | 1.59%   |
+| ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1         | 1.59%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 1.59%   |
@@ -1777,8 +1777,8 @@ Monitor models
 | LG Display LCD Monitor LGD0353 1366x768 345x194mm 15.6-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 1.59%   |
-| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1         | 1.59%   |
-| Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch              | 1         | 1.59%   |
+| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1         | 1.59%   |
+| Lenovo LCD Monitor LEN4035 1280x800 304x190mm 14.1-inch              | 1         | 1.59%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1         | 1.59%   |
 | Iiyama PLE2207WS IVM5609 1680x1050 465x291mm 21.6-inch               | 1         | 1.59%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1         | 1.59%   |
@@ -1790,7 +1790,7 @@ Monitor models
 | Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch               | 1         | 1.59%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1         | 1.59%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1         | 1.59%   |
-| Gigabyte Technology G27Q GBT2709 2560x1440 600x330mm 27.0-inch       | 1         | 1.59%   |
+| Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1         | 1.59%   |
 | Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                     | 1         | 1.59%   |
 | DPC Qumi Q38 DPC81F2 1920x1200 708x398mm 32.0-inch                   | 1         | 1.59%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1         | 1.59%   |
@@ -2358,48 +2358,48 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Computers | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 2.94%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s       | 2         | 2.94%   |
-| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s                | 1         | 1.47%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                         | 1         | 1.47%   |
-| Unknown RAM Module 2048MB DIMM DDR 800MT/s                   | 1         | 1.47%   |
-| Unknown RAM Module 2048MB DIMM 667MT/s                       | 1         | 1.47%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM                       | 1         | 1.47%   |
-| Unknown RAM Module 1024MB DIMM DDR 800MT/s                   | 1         | 1.47%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                       | 1         | 1.47%   |
-| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s            | 1         | 1.47%   |
-| Team RAM TEAMGROUP-UD4-3600 32GB DIMM DDR4 3600MT/s          | 1         | 1.47%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s           | 1         | 1.47%   |
-| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
-| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s      | 1         | 1.47%   |
-| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.47%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s        | 1         | 1.47%   |
-| SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s      | 1         | 1.47%   |
-| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.47%   |
-| SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s      | 1         | 1.47%   |
-| SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s         | 1         | 1.47%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s       | 1         | 1.47%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 1.47%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s        | 1         | 1.47%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 1.47%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.47%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 1         | 1.47%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 1.47%   |
-| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 1.47%   |
-| Ramaxel RAM RMSA3260MH78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 1.47%   |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 1.47%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 1         | 1.47%   |
-| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s       | 1         | 1.47%   |
-| Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s          | 1         | 1.47%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s         | 1         | 1.47%   |
-| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s         | 1         | 1.47%   |
-| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s        | 1         | 1.47%   |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 1         | 1.47%   |
+| Model                                                     | Computers | Percent |
+|-----------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 2         | 2.94%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 2         | 2.94%   |
+| Unknown RAM Module 4096MB DIMM DDR3 65535MT/s             | 1         | 1.47%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                      | 1         | 1.47%   |
+| Unknown RAM Module 2048MB DIMM DDR 800MT/s                | 1         | 1.47%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                    | 1         | 1.47%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                    | 1         | 1.47%   |
+| Unknown RAM Module 1024MB DIMM DDR 800MT/s                | 1         | 1.47%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                    | 1         | 1.47%   |
+| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s         | 1         | 1.47%   |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s       | 1         | 1.47%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s        | 1         | 1.47%   |
+| Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
+| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s   | 1         | 1.47%   |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 1.47%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s     | 1         | 1.47%   |
+| SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s      | 1         | 1.47%   |
+| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 1.47%   |
+| SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s   | 1         | 1.47%   |
+| SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s      | 1         | 1.47%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s    | 1         | 1.47%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s    | 1         | 1.47%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s     | 1         | 1.47%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s     | 1         | 1.47%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s     | 1         | 1.47%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s    | 1         | 1.47%   |
+| Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s       | 1         | 1.47%   |
+| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s | 1         | 1.47%   |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s     | 1         | 1.47%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s     | 1         | 1.47%   |
+| Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s    | 1         | 1.47%   |
+| Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s       | 1         | 1.47%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s      | 1         | 1.47%   |
+| Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s      | 1         | 1.47%   |
+| Kingston RAM KHX2666C15S4/8G 8GB SODIMM DDR4 2667MT/s     | 1         | 1.47%   |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s   | 1         | 1.47%   |
 
 Memory Kind
 -----------
@@ -2465,15 +2465,16 @@ Memory module speed
 | 2667    | 10        | 16.67%  |
 | 2400    | 6         | 10%     |
 | 3600    | 3         | 5%      |
-| 3200    | 3         | 5%      |
 | 1333    | 3         | 5%      |
 | 667     | 3         | 5%      |
+| 3200    | 2         | 3.33%   |
 | 2666    | 2         | 3.33%   |
 | 2133    | 2         | 3.33%   |
 | 1867    | 2         | 3.33%   |
 | Unknown | 2         | 3.33%   |
 | 65535   | 1         | 1.67%   |
 | 4199    | 1         | 1.67%   |
+| 3800    | 1         | 1.67%   |
 | 2000    | 1         | 1.67%   |
 | 1866    | 1         | 1.67%   |
 | 1334    | 1         | 1.67%   |
@@ -2572,11 +2573,12 @@ Camera device models
 
 | Model                                                                      | Computers | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Realtek USB Camera                                                         | 2         | 7.41%   |
 | Chicony Integrated Camera                                                  | 2         | 7.41%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 3.7%    |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 3.7%    |
 | Silicon Motion Web Camera                                                  | 1         | 3.7%    |
+| Realtek USB Camera                                                         | 1         | 3.7%    |
+| Realtek 2SF022                                                             | 1         | 3.7%    |
 | Quanta HP Webcam                                                           | 1         | 3.7%    |
 | Motorola PCS XT1033 [Moto G], PTP mode                                     | 1         | 3.7%    |
 | Logitech Webcam C300                                                       | 1         | 3.7%    |
@@ -2677,8 +2679,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 34        | 53.13%  |
-| 1     | 13        | 20.31%  |
+| 0     | 35        | 54.69%  |
+| 1     | 12        | 18.75%  |
 | 2     | 9         | 14.06%  |
 | 3     | 5         | 7.81%   |
 | 4     | 3         | 4.69%   |
@@ -2693,18 +2695,18 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 12        | 23.08%  |
-| Sound                    | 7         | 13.46%  |
-| Fingerprint reader       | 6         | 11.54%  |
-| Chipcard                 | 6         | 11.54%  |
-| Communication controller | 5         | 9.62%   |
-| Net/wireless             | 4         | 7.69%   |
-| Card reader              | 4         | 7.69%   |
-| Bluetooth                | 2         | 3.85%   |
-| Unassigned class         | 1         | 1.92%   |
-| Storage/ata              | 1         | 1.92%   |
-| Storage                  | 1         | 1.92%   |
-| Net/ethernet             | 1         | 1.92%   |
-| Firewire controller      | 1         | 1.92%   |
-| Camera                   | 1         | 1.92%   |
+| Graphics card            | 11        | 21.57%  |
+| Sound                    | 7         | 13.73%  |
+| Fingerprint reader       | 6         | 11.76%  |
+| Chipcard                 | 6         | 11.76%  |
+| Communication controller | 5         | 9.8%    |
+| Net/wireless             | 4         | 7.84%   |
+| Card reader              | 4         | 7.84%   |
+| Bluetooth                | 2         | 3.92%   |
+| Unassigned class         | 1         | 1.96%   |
+| Storage/ata              | 1         | 1.96%   |
+| Storage                  | 1         | 1.96%   |
+| Net/ethernet             | 1         | 1.96%   |
+| Firewire controller      | 1         | 1.96%   |
+| Camera                   | 1         | 1.96%   |
 

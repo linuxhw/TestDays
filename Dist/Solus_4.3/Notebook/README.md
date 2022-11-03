@@ -787,7 +787,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 512GB           | 1         | 2.86%   |
 | Samsung NVMe SSD Drive 2TB             | 1         | 2.86%   |
 | Samsung MZVL22T0HBLB-00BL7 2TB         | 1         | 2.86%   |
-| SABRENT Disk 1TB                       | 1         | 2.86%   |
+| SABRENT Disk 500GB                     | 1         | 2.86%   |
 | PNY CS900 240GB SSD                    | 1         | 2.86%   |
 | Phison NVMe SSD Drive 512GB            | 1         | 2.86%   |
 | KIOXIA KXG60ZNV512G NVMe 512GB         | 1         | 2.86%   |
@@ -807,9 +807,10 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| WDC     | 4         | 4      | 50%     |
-| Seagate | 3         | 3      | 37.5%   |
-| Toshiba | 1         | 1      | 12.5%   |
+| WDC     | 4         | 4      | 44.44%  |
+| Seagate | 3         | 3      | 33.33%  |
+| Toshiba | 1         | 1      | 11.11%  |
+| SABRENT | 1         | 1      | 11.11%  |
 
 SSD Vendor
 ----------
@@ -836,11 +837,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 14        | 21     | 46.67%  |
-| HDD     | 8         | 8      | 26.67%  |
-| SSD     | 4         | 4      | 13.33%  |
-| MMC     | 3         | 3      | 10%     |
-| Unknown | 1         | 1      | 3.33%   |
+| NVMe    | 14        | 20     | 45.16%  |
+| HDD     | 9         | 9      | 29.03%  |
+| SSD     | 4         | 4      | 12.9%   |
+| MMC     | 3         | 3      | 9.68%   |
+| Unknown | 1         | 1      | 3.23%   |
 
 Drive Connector
 ---------------
@@ -867,7 +868,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 7         | 7      | 58.33%  |
+| 0.01-0.5   | 7         | 8      | 58.33%  |
 | 0.51-1.0   | 5         | 5      | 41.67%  |
 
 Space Total
@@ -1370,11 +1371,11 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch                | 1         | 3.13%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch     | 1         | 3.13%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 3.13%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 3.13%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 3.13%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch        | 1         | 3.13%   |
-| Samsung Electronics C27F591 SAM0D36 1920x1080 598x336mm 27.0-inch        | 1         | 3.13%   |
+| Samsung Electronics C27F591 SAM0D36 1920x1080 600x340mm 27.2-inch        | 1         | 3.13%   |
 | Philips 273PLPH PHL08A8 1920x1080 598x336mm 27.0-inch                    | 1         | 3.13%   |
 | PANDA LCD Monitor NCP0046 1920x1080 344x194mm 15.5-inch                  | 1         | 3.13%   |
 | LG Display LCD Monitor LGD06FB 1920x1080 309x174mm 14.0-inch             | 1         | 3.13%   |
@@ -1399,7 +1400,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch            | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO282B 3840x2160 293x165mm 13.2-inch           | 1         | 3.13%   |
 | Ancor Communications C624B ACI24A9 1920x1200 518x324mm 24.1-inch         | 1         | 3.13%   |
-| Ancor Communications ASUS VS229 ACI22D3 1920x1080 480x270mm 21.7-inch    | 1         | 3.13%   |
+| Ancor Communications ASUS VS229 ACI22D3 1920x1080 475x267mm 21.5-inch    | 1         | 3.13%   |
 | Acer K242HYL ACR064A 1920x1080 527x296mm 23.8-inch                       | 1         | 3.13%   |
 
 Monitor Resolution
@@ -1761,8 +1762,8 @@ Controller models
 | Intel AX200 Bluetooth                      | 3         | 13.64%  |
 | Qualcomm Atheros  Bluetooth Device         | 2         | 9.09%   |
 | Toshiba RT Bluetooth Radio                 | 1         | 4.55%   |
+| Realtek RTL8821A Bluetooth                 | 1         | 4.55%   |
 | Realtek  Bluetooth 4.2 Adapter             | 1         | 4.55%   |
-| Realtek Bluetooth Radio                    | 1         | 4.55%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0      | 1         | 4.55%   |
 | Lite-On Wireless_Device                    | 1         | 4.55%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 4.55%   |
@@ -1855,24 +1856,24 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 1GB SODIMM DDR                                | 1         | 6.25%   |
-| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s            | 1         | 6.25%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 6.25%   |
-| SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 6.25%   |
-| SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 6.25%   |
-| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 6.25%   |
-| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s            | 1         | 6.25%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 6.25%   |
-| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 6.25%   |
-| Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 6.25%   |
-| Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s           | 1         | 6.25%   |
-| Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2 667MT/s            | 1         | 6.25%   |
-| Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 1         | 6.25%   |
-| G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s           | 1         | 6.25%   |
-| Crucial RAM CT16G4SFD8213.C16FBD 16GB SODIMM DDR4 2133MT/s       | 1         | 6.25%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2133MT/s                    | 1         | 6.25%   |
+| Model                                                               | Notebooks | Percent |
+|---------------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 1GB SODIMM DDR                                   | 1         | 6.25%   |
+| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s               | 1         | 6.25%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s              | 1         | 6.25%   |
+| SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s      | 1         | 6.25%   |
+| SK hynix RAM H9CCNNNCLGALAR-NVD 8192MB Row Of Chips LPDDR3 2133MT/s | 1         | 6.25%   |
+| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                      | 1         | 6.25%   |
+| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s               | 1         | 6.25%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s               | 1         | 6.25%   |
+| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s              | 1         | 6.25%   |
+| Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s        | 1         | 6.25%   |
+| Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s              | 1         | 6.25%   |
+| Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2 667MT/s               | 1         | 6.25%   |
+| Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s               | 1         | 6.25%   |
+| G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s              | 1         | 6.25%   |
+| Crucial RAM CT16G4SFD8213.C16FBD 16GB SODIMM DDR4 2133MT/s          | 1         | 6.25%   |
+| A-DATA RAM Module 8192MB SODIMM DDR4 2133MT/s                       | 1         | 6.25%   |
 
 Memory Kind
 -----------
@@ -2016,7 +2017,7 @@ Camera device models
 | Realtek HD WebCam                                               | 1         | 4.35%   |
 | Quanta VGA WebCam                                               | 1         | 4.35%   |
 | Quanta USB2.0 HD UVC WebCam                                     | 1         | 4.35%   |
-| Microdia CameraA                                                | 1         | 4.35%   |
+| Microdia USB Live camera                                        | 1         | 4.35%   |
 | Logitech Webcam C270                                            | 1         | 4.35%   |
 | Importek TOSHIBA Web Camera - HD                                | 1         | 4.35%   |
 | IMC Networks USB2.0 VGA UVC WebCam                              | 1         | 4.35%   |

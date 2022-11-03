@@ -1506,7 +1506,7 @@ Monitor models
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch | 1         | 4.17%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch | 1         | 4.17%   |
-| Samsung Electronics LCD Monitor SEC3741 1366x768 309x174mm 14.0-inch | 1         | 4.17%   |
+| Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch | 1         | 4.17%   |
 | LG Philips LCD Monitor LPLA101 1440x900 367x230mm 17.1-inch          | 1         | 4.17%   |
 | LG Display LP101WH1-TLB5 LGD0248 1366x768 224x126mm 10.1-inch        | 1         | 4.17%   |
 | LG Display LCD Monitor LGD04B2 1920x1080 309x175mm 14.0-inch         | 1         | 4.17%   |
@@ -1525,7 +1525,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO8074 1280x800 331x207mm 15.4-inch        | 1         | 4.17%   |
 | AU Optronics LCD Monitor AUO4047 1440x900 303x189mm 14.1-inch        | 1         | 4.17%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 4.17%   |
-| AU Optronics LCD Monitor AUO219D 1920x1080 380x210mm 17.1-inch       | 1         | 4.17%   |
+| AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch       | 1         | 4.17%   |
 | AU Optronics LCD Monitor AUO11C2 1024x600 195x113mm 8.9-inch         | 1         | 4.17%   |
 | Apple LCD Monitor APP9CBE 1280x800 286x179mm 13.3-inch               | 1         | 4.17%   |
 
@@ -2039,15 +2039,15 @@ Memory module models
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 2.38%   |
 | SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s         | 1         | 2.38%   |
 | SK hynix RAM HMT112S6BFR6C-G7 1GB SODIMM 1067MT/s              | 1         | 2.38%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s      | 1         | 2.38%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s       | 1         | 2.38%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s         | 1         | 2.38%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 2.38%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 1         | 2.38%   |
 | Micron RAM Module 512MB SODIMM DDR2 533MT/s                    | 1         | 2.38%   |
 | Micron RAM 8HTF12864HDY-800G1 1024MB SODIMM DDR2 800MT/s       | 1         | 2.38%   |
 | Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s          | 1         | 2.38%   |
 | Kingston RAM MSI24D4S7D8MB-16 16GB SODIMM DDR4 2400MT/s        | 1         | 2.38%   |
 | Kingston RAM 9905428-095.D00LF 8192MB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
-| Crucial RAM CT51264BF160B.C16F 4096MB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
+| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
 | Avant RAM H641GU67F1600G 8GB SODIMM DDR3 1600MT/s              | 1         | 2.38%   |
 
@@ -2195,7 +2195,7 @@ Camera device models
 | Pixart Imaging GE 1.3 MP MiniCam Pro                    | 2         | 8.33%   |
 | Microdia Sonix USB 2.0 Camera                           | 2         | 8.33%   |
 | IMC Networks USB2.0 VGA UVC WebCam                      | 2         | 8.33%   |
-| Suyin USB2.0 UVC 1.3M WebCam                            | 1         | 4.17%   |
+| Suyin Lenovo EasyCamera                                 | 1         | 4.17%   |
 | Sunplus Integrated_Webcam_HD                            | 1         | 4.17%   |
 | Silicon Motion Lenovo EasyCamera                        | 1         | 4.17%   |
 | Microdia Integrated Webcam                              | 1         | 4.17%   |
@@ -2284,8 +2284,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 25        | 67.57%  |
-| 1     | 11        | 29.73%  |
+| 0     | 27        | 72.97%  |
+| 1     | 9         | 24.32%  |
 | 3     | 1         | 2.7%    |
 
 Unsupported Device Types
@@ -2298,7 +2298,7 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 7         | 53.85%  |
-| Fingerprint reader | 5         | 38.46%  |
-| Chipcard           | 1         | 7.69%   |
+| Graphics card      | 5         | 45.45%  |
+| Fingerprint reader | 5         | 45.45%  |
+| Chipcard           | 1         | 9.09%   |
 

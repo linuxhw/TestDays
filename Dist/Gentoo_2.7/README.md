@@ -1574,11 +1574,11 @@ Motherboard manufacture year
 | 2016    | 27        | 4.86%   |
 | 2015    | 27        | 4.86%   |
 | 2014    | 22        | 3.96%   |
-| 2012    | 22        | 3.96%   |
+| 2012    | 21        | 3.78%   |
 | 2013    | 19        | 3.42%   |
 | 2010    | 17        | 3.06%   |
 | 2008    | 13        | 2.34%   |
-| 2011    | 11        | 1.98%   |
+| 2011    | 12        | 2.16%   |
 | 2009    | 10        | 1.8%    |
 | Unknown | 9         | 1.62%   |
 | 2007    | 4         | 0.72%   |
@@ -1714,8 +1714,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 442       | 78.37%  |
-| Yes       | 122       | 21.63%  |
+| No        | 440       | 78.01%  |
+| Yes       | 124       | 21.99%  |
 
 Has Ethernet
 ------------
@@ -2081,9 +2081,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 254       | 479    | 43.64%  |
-| 0.51-1.0   | 167       | 258    | 28.69%  |
-| 1.01-2.0   | 75        | 165    | 12.89%  |
+| 0.01-0.5   | 253       | 479    | 43.47%  |
+| 0.51-1.0   | 166       | 257    | 28.52%  |
+| 1.01-2.0   | 77        | 166    | 13.23%  |
 | 3.01-4.0   | 38        | 80     | 6.53%   |
 | 2.01-3.0   | 27        | 58     | 4.64%   |
 | 4.01-10.0  | 18        | 76     | 3.09%   |
@@ -2892,16 +2892,16 @@ Monitor models
 
 | Model                                                                  | Computers | Percent |
 |------------------------------------------------------------------------|-----------|---------|
-| Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                  | 6         | 0.87%   |
+| Iiyama PL2473HD IVM6107 1920x1080 520x290mm 23.4-inch                  | 6         | 0.87%   |
 | Fujitsu Siemens P24W-6 IPS FUS07EA 1920x1200 518x324mm 24.1-inch       | 6         | 0.87%   |
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch         | 6         | 0.87%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch           | 5         | 0.73%   |
 | Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                      | 5         | 0.73%   |
 | Iiyama PL2409HD IVM560C 1920x1080 521x293mm 23.5-inch                  | 4         | 0.58%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 4         | 0.58%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 4         | 0.58%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 4         | 0.58%   |
-| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 4         | 0.58%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch                 | 4         | 0.58%   |
+| Goldstar LG HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch               | 4         | 0.58%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                 | 4         | 0.58%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 3         | 0.44%   |
 | LG Display LCD Monitor LGD0608 1920x1080 309x174mm 14.0-inch           | 3         | 0.44%   |
 | LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch           | 3         | 0.44%   |
@@ -2925,11 +2925,11 @@ Monitor models
 | Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 2         | 0.29%   |
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch     | 2         | 0.29%   |
 | Samsung Electronics C49HG9x SAM0E5E 3840x1080 1196x336mm 48.9-inch     | 2         | 0.29%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch      | 2         | 0.29%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 2         | 0.29%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 2         | 0.29%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 2         | 0.29%   |
-| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                 | 2         | 0.29%   |
-| MSI MAG272QR MSI3CA8 2560x1440 597x336mm 27.0-inch                     | 2         | 0.29%   |
+| MSI MAG274QRF-QD MSI3CA8 2560x1440 596x335mm 26.9-inch                 | 2         | 0.29%   |
+| MSI G241VC MSI1462 1920x1080 521x294mm 23.6-inch                       | 2         | 0.29%   |
 | LGD LCD Monitor 1920x1080                                              | 2         | 0.29%   |
 | LG Display LCD Monitor LGD0657 1920x1080 344x194mm 15.5-inch           | 2         | 0.29%   |
 
@@ -3584,6 +3584,7 @@ Sound card vendors
 | RODE Microphones                     | 3         | 0.34%   |
 | Dell                                 | 3         | 0.34%   |
 | ASUSTek Computer                     | 3         | 0.34%   |
+| Sennheiser Communications            | 2         | 0.23%   |
 | SAVITECH                             | 2         | 0.23%   |
 | No brand                             | 2         | 0.23%   |
 | GN Netcom                            | 2         | 0.23%   |
@@ -3593,7 +3594,6 @@ Sound card vendors
 | Tdlasunnic                           | 1         | 0.11%   |
 | Syntek                               | 1         | 0.11%   |
 | Solid State Logic                    | 1         | 0.11%   |
-| Sennheiser Communications            | 1         | 0.11%   |
 | Samson Technologies                  | 1         | 0.11%   |
 | QinHeng Electronics                  | 1         | 0.11%   |
 | Nektar                               | 1         | 0.11%   |
@@ -3680,7 +3680,7 @@ Memory module vendors
 | Patriot             | 6         | 1.01%   |
 | A-DATA Technology   | 6         | 1.01%   |
 | Nanya Technology    | 5         | 0.84%   |
-| Goodram             | 5         | 0.84%   |
+| GOODRAM             | 5         | 0.84%   |
 | Transcend           | 4         | 0.67%   |
 | Elpida              | 3         | 0.51%   |
 | Unknown (ABCD)      | 2         | 0.34%   |
@@ -3711,7 +3711,7 @@ Memory module models
 |-------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s       | 8         | 1.26%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s       | 7         | 1.1%    |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s   | 6         | 0.95%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s      | 6         | 0.95%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 6         | 0.95%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s        | 6         | 0.95%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 6         | 0.95%   |
@@ -3720,14 +3720,13 @@ Memory module models
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s      | 5         | 0.79%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s           | 5         | 0.79%   |
 | Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s      | 5         | 0.79%   |
-| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s      | 4         | 0.63%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s    | 4         | 0.63%   |
+| Samsung RAM M471A2G44AM0-CWE 16384MB SODIMM DDR4 3200MT/s   | 4         | 0.63%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s       | 4         | 0.63%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s       | 4         | 0.63%   |
 | Unknown RAM Module 512MB DIMM SDRAM                         | 3         | 0.47%   |
 | Unknown RAM Module 1GB SODIMM DDR                           | 3         | 0.47%   |
 | Unknown RAM Module 1024MB DIMM SDRAM                        | 3         | 0.47%   |
 | SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s             | 3         | 0.47%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s      | 3         | 0.47%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s      | 3         | 0.47%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s       | 3         | 0.47%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 3         | 0.47%   |
@@ -3749,6 +3748,7 @@ Memory module models
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s         | 3         | 0.47%   |
 | Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 3000MT/s        | 3         | 0.47%   |
 | Crucial RAM CT4G4DFS8213.C8FAD11 4GB DIMM DDR4 2133MT/s     | 3         | 0.47%   |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s      | 3         | 0.47%   |
 
 Memory Kind
 -----------
@@ -3819,9 +3819,9 @@ Memory module speed
 | 3200    | 103       | 18.07%  |
 | 2667    | 90        | 15.79%  |
 | 1600    | 68        | 11.93%  |
-| 2400    | 46        | 8.07%   |
+| 2400    | 47        | 8.25%   |
 | 3600    | 39        | 6.84%   |
-| 2133    | 30        | 5.26%   |
+| 2133    | 29        | 5.09%   |
 | 1333    | 21        | 3.68%   |
 | 3000    | 17        | 2.98%   |
 | 3733    | 14        | 2.46%   |
@@ -3830,12 +3830,13 @@ Memory module speed
 | 4267    | 11        | 1.93%   |
 | Unknown | 11        | 1.93%   |
 | 2933    | 10        | 1.75%   |
-| 3466    | 9         | 1.58%   |
 | 3400    | 9         | 1.58%   |
+| 3466    | 7         | 1.23%   |
 | 3266    | 7         | 1.23%   |
 | 2666    | 7         | 1.23%   |
 | 1867    | 7         | 1.23%   |
 | 1066    | 6         | 1.05%   |
+| 3866    | 4         | 0.7%    |
 | 3800    | 4         | 0.7%    |
 | 400     | 4         | 0.7%    |
 | 3333    | 3         | 0.53%   |
@@ -3843,7 +3844,6 @@ Memory module speed
 | 4800    | 2         | 0.35%   |
 | 4266    | 2         | 0.35%   |
 | 4000    | 2         | 0.35%   |
-| 3866    | 2         | 0.35%   |
 | 3066    | 2         | 0.35%   |
 | 2465    | 2         | 0.35%   |
 | 1866    | 2         | 0.35%   |
@@ -3989,7 +3989,7 @@ Camera device models
 | Chicony HD Webcam                                   | 7         | 2.28%   |
 | Chicony HP HD Camera                                | 6         | 1.95%   |
 | Syntek Integrated Camera                            | 5         | 1.63%   |
-| Samsung Galaxy A5 (MTP)                             | 5         | 1.63%   |
+| Samsung Galaxy series, misc. (MTP mode)             | 5         | 1.63%   |
 | Lite-On Integrated Camera                           | 5         | 1.63%   |
 | Z-Star Venus USB2.0 Camera                          | 4         | 1.3%    |
 | Sunplus Integrated_Webcam_HD                        | 4         | 1.3%    |
@@ -4068,7 +4068,7 @@ Fingerprint sensor models
 | Synaptics  WBDI                                            | 1         | 1.67%   |
 | Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 1.67%   |
 | Synaptics Metallica MOH Touch Fingerprint Reader           | 1         | 1.67%   |
-| LighTuning ES603 Swipe Fingerprint Sensor                  | 1         | 1.67%   |
+| LighTuning EgisTec_ES603                                   | 1         | 1.67%   |
 | Elan ELAN:ARM-M4                                           | 1         | 1.67%   |
 | AuthenTec AES2501 Fingerprint Sensor                       | 1         | 1.67%   |
 

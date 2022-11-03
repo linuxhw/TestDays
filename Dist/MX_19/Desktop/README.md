@@ -576,8 +576,8 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2011 | 7        | 16.28%  |
+| 2013 | 6        | 13.95%  |
 | 2018 | 5        | 11.63%  |
-| 2013 | 5        | 11.63%  |
 | 2008 | 4        | 9.3%    |
 | 2020 | 3        | 6.98%   |
 | 2017 | 3        | 6.98%   |
@@ -587,7 +587,6 @@ Motherboard manufacture year
 | 2015 | 2        | 4.65%   |
 | 2012 | 2        | 4.65%   |
 | 2009 | 2        | 4.65%   |
-| 2014 | 1        | 2.33%   |
 | 2007 | 1        | 2.33%   |
 | 2006 | 1        | 2.33%   |
 
@@ -1592,47 +1591,47 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch  | 4        | 9.3%    |
-| Goldstar 32 FHD GSM76FF 1920x1080 698x392mm 31.5-inch                 | 2        | 4.65%   |
-| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                | 1        | 2.33%   |
-| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch         | 1        | 2.33%   |
-| ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch            | 1        | 2.33%   |
-| Vestel Elektronik 24W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 1        | 2.33%   |
-| SANYO Casper SAN2213 1600x900 304x228mm 15.0-inch                     | 1        | 2.33%   |
-| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch  | 1        | 2.33%   |
-| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch     | 1        | 2.33%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 2.33%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1        | 2.33%   |
-| Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                    | 1        | 2.33%   |
-| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                    | 1        | 2.33%   |
-| MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                     | 1        | 2.33%   |
-| IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                       | 1        | 2.33%   |
-| HYO DUAL-DVI HYO049B 2560x1440 597x336mm 27.0-inch                    | 1        | 2.33%   |
-| Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                  | 1        | 2.33%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.33%   |
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1        | 2.33%   |
-| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch             | 1        | 2.33%   |
-| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                      | 1        | 2.33%   |
-| Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                  | 1        | 2.33%   |
-| Eizo S1921 ENC1831 1280x1024 380x300mm 19.1-inch                      | 1        | 2.33%   |
-| DTV Philco DTV0B01 1600x1200 700x390mm 31.5-inch                      | 1        | 2.33%   |
-| Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                     | 1        | 2.33%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.33%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.33%   |
-| Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                    | 1        | 2.33%   |
-| Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                      | 1        | 2.33%   |
-| Dell E1913 DELD051 1440x900 408x255mm 18.9-inch                       | 1        | 2.33%   |
-| BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                    | 1        | 2.33%   |
-| AOC 2060W3 AOC2060 1920x1080 440x240mm 19.7-inch                      | 1        | 2.33%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                        | 1        | 2.33%   |
-| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch      | 1        | 2.33%   |
-| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch | 1        | 2.33%   |
-| Acer XF240H ACR0472 1920x1080 531x299mm 24.0-inch                     | 1        | 2.33%   |
-| Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                       | 1        | 2.33%   |
-| Acer HX1953L ACR038C 1600x900 432x239mm 19.4-inch                     | 1        | 2.33%   |
-| Acer H243HX ACR0074 1920x1080 531x298mm 24.0-inch                     | 1        | 2.33%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch   | 4        | 9.3%    |
+| Goldstar 32 FHD GSM76FF 1920x1080 698x392mm 31.5-inch                  | 2        | 4.65%   |
+| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                 | 1        | 2.33%   |
+| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch          | 1        | 2.33%   |
+| ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch             | 1        | 2.33%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.33%   |
+| SANYO Casper SAN2213 1600x900 304x228mm 15.0-inch                      | 1        | 2.33%   |
+| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch   | 1        | 2.33%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch      | 1        | 2.33%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch      | 1        | 2.33%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 890x500mm 40.2-inch  | 1        | 2.33%   |
+| Philips FTV PHL04C3 3840x2160 1440x810mm 65.0-inch                     | 1        | 2.33%   |
+| Philips FTV PHL01EA 1920x1080 640x360mm 28.9-inch                      | 1        | 2.33%   |
+| MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                      | 1        | 2.33%   |
+| IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                        | 1        | 2.33%   |
+| HYO SyncMaster HYO049B 2560x1440 597x336mm 27.0-inch                   | 1        | 2.33%   |
+| Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                   | 1        | 2.33%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                   | 1        | 2.33%   |
+| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch              | 1        | 2.33%   |
+| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch              | 1        | 2.33%   |
+| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                       | 1        | 2.33%   |
+| Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                   | 1        | 2.33%   |
+| Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                       | 1        | 2.33%   |
+| DTV Philco DTV0B01 1600x1200 700x390mm 31.5-inch                       | 1        | 2.33%   |
+| Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                      | 1        | 2.33%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.33%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                  | 1        | 2.33%   |
+| Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                     | 1        | 2.33%   |
+| Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                       | 1        | 2.33%   |
+| Dell E1913 DELD051 1440x900 408x255mm 18.9-inch                        | 1        | 2.33%   |
+| BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                     | 1        | 2.33%   |
+| AOC 2060W3 AOC2060 1920x1080 440x240mm 19.7-inch                       | 1        | 2.33%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                         | 1        | 2.33%   |
+| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch       | 1        | 2.33%   |
+| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch  | 1        | 2.33%   |
+| Acer XF240H ACR0472 1920x1080 531x299mm 24.0-inch                      | 1        | 2.33%   |
+| Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                        | 1        | 2.33%   |
+| Acer HX1953L ACR038C 1600x900 432x239mm 19.4-inch                      | 1        | 2.33%   |
+| Acer H243H ACR0074 1920x1080 531x298mm 24.0-inch                       | 1        | 2.33%   |
 
 Monitor Resolution
 ------------------
@@ -2102,48 +2101,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4096MB DIMM 1600MT/s                  | 3        | 5.77%   |
-| Unknown RAM Module 1024MB DIMM DDR 333MT/s               | 2        | 3.85%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s    | 2        | 3.85%   |
-| Unknown RAM Module 512MB DIMM DDR 200MT/s                | 1        | 1.92%   |
-| Unknown RAM Module 4GB DIMM SDRAM                        | 1        | 1.92%   |
-| Unknown RAM Module 4GB DIMM DDR2 800MT/s                 | 1        | 1.92%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 1.92%   |
-| Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 1.92%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                  | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s              | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM DDR 400MT/s               | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM DDR 200MT/s               | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 1.92%   |
-| Smart RAM SH564128FH8N6TNSQG 4096MB DIMM DDR3 1600MT/s   | 1        | 1.92%   |
-| Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s   | 1        | 1.92%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
-| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
-| Samsung RAM M391B5273CH0-CH9 4096MB DIMM DDR3 1333MT/s   | 1        | 1.92%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s      | 1        | 1.92%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM          | 1        | 1.92%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 1.92%   |
-| RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s       | 1        | 1.92%   |
-| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s       | 1        | 1.92%   |
-| OCZ RAM OCZ2N800SR2G 2048MB DIMM DDR 800MT/s             | 1        | 1.92%   |
-| Kingston RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
-| Kingston RAM Module 4096MB DIMM DDR3 1333MT/s            | 1        | 1.92%   |
-| Kingston RAM Module 2048MB DIMM DDR2 667MT/s             | 1        | 1.92%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 1.92%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s      | 1        | 1.92%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
-| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s           | 1        | 1.92%   |
-| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2134MT/s   | 1        | 1.92%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3             | 1        | 1.92%   |
-| Kingston RAM 9965525-026.A00LF 8192MB DIMM DDR3 1333MT/s | 1        | 1.92%   |
-| G.Skill RAM F4-2400C15-8GNT 8192MB DIMM DDR4 2666MT/s    | 1        | 1.92%   |
-| G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s        | 1        | 1.92%   |
-| G.Skill RAM F3-1333C9-4GSL 4GB SODIMM DDR3 1333MT/s      | 1        | 1.92%   |
-| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4096MB DIMM 1600MT/s                 | 3        | 5.77%   |
+| Unknown RAM Module 1024MB DIMM DDR 333MT/s              | 2        | 3.85%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s   | 2        | 3.85%   |
+| Unknown RAM Module 512MB DIMM DDR 200MT/s               | 1        | 1.92%   |
+| Unknown RAM Module 4GB DIMM SDRAM                       | 1        | 1.92%   |
+| Unknown RAM Module 4GB DIMM DDR2 800MT/s                | 1        | 1.92%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 1.92%   |
+| Unknown RAM Module 2048MB DIMM 800MT/s                  | 1        | 1.92%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                 | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s             | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR 400MT/s              | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR 200MT/s              | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                  | 1        | 1.92%   |
+| Smart RAM SH564128FH8N6TNSQG 4096MB DIMM DDR3 1600MT/s  | 1        | 1.92%   |
+| Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s  | 1        | 1.92%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4096MB DIMM DDR3 1600MT/s | 1        | 1.92%   |
+| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
+| Samsung RAM M391B5273CH0-CH9 4096MB DIMM DDR3 1333MT/s  | 1        | 1.92%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s     | 1        | 1.92%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM         | 1        | 1.92%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s     | 1        | 1.92%   |
+| RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s           | 1        | 1.92%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s      | 1        | 1.92%   |
+| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s      | 1        | 1.92%   |
+| OCZ RAM OCZ2N800SR2G 2048MB DIMM DDR 800MT/s            | 1        | 1.92%   |
+| Kingston RAM Module 4096MB DIMM DDR3 1600MT/s           | 1        | 1.92%   |
+| Kingston RAM Module 4096MB DIMM DDR3 1333MT/s           | 1        | 1.92%   |
+| Kingston RAM Module 2048MB DIMM DDR2 667MT/s            | 1        | 1.92%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s       | 1        | 1.92%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s     | 1        | 1.92%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
+| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s          | 1        | 1.92%   |
+| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2134MT/s  | 1        | 1.92%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 1.92%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3            | 1        | 1.92%   |
+| Kingston RAM 9965525-026.A00LF 8GB DIMM DDR3 1333MT/s   | 1        | 1.92%   |
+| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s      | 1        | 1.92%   |
+| G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s       | 1        | 1.92%   |
+| G.Skill RAM F3-1333C9-4GSL 4GB SODIMM DDR3 1333MT/s     | 1        | 1.92%   |
+| Crucial RAM CT51264BA160BJ.C8 4GB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
 
 Memory Kind
 -----------
@@ -2293,15 +2292,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Logitech Webcam C200                     | 2        | 25%     |
-| Microsoft LifeCam HD-3000                | 1        | 12.5%   |
-| Logitech Webcam Pro 9000                 | 1        | 12.5%   |
-| Logitech Webcam C270                     | 1        | 12.5%   |
-| Logitech B525 HD Webcam                  | 1        | 12.5%   |
-| Huawei HiCamera                          | 1        | 12.5%   |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 12.5%   |
+| Model                     | Desktops | Percent |
+|---------------------------|----------|---------|
+| Logitech Webcam C200      | 2        | 25%     |
+| Microsoft LifeCam HD-3000 | 1        | 12.5%   |
+| Logitech Webcam Pro 9000  | 1        | 12.5%   |
+| Logitech Webcam C270      | 1        | 12.5%   |
+| Logitech B525 HD Webcam   | 1        | 12.5%   |
+| Huawei HiCamera           | 1        | 12.5%   |
+| Generalplus 808 Camera    | 1        | 12.5%   |
 
 Security
 --------
@@ -2347,9 +2346,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 41       | 95.35%  |
+| 0     | 42       | 97.67%  |
 | 3     | 1        | 2.33%   |
-| 1     | 1        | 2.33%   |
 
 Unsupported Device Types
 ------------------------
@@ -2361,8 +2359,7 @@ Types of unsupported devices
 
 | Type                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Net/wireless          | 1        | 25%     |
-| Multimedia controller | 1        | 25%     |
-| Graphics card         | 1        | 25%     |
-| Camera                | 1        | 25%     |
+| Net/wireless          | 1        | 33.33%  |
+| Multimedia controller | 1        | 33.33%  |
+| Camera                | 1        | 33.33%  |
 

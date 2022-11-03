@@ -974,7 +974,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB            | 1        | 0.95%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 0.95%   |
 | Vaseky V800/256G 256GB SSD          | 1        | 0.95%   |
-| Unknown SD/MMC/MS PRO 2GB           | 1        | 0.95%   |
+| Unknown SD/MMC/MS PRO 1TB           | 1        | 0.95%   |
 | Toshiba MQ01ABF050 500GB            | 1        | 0.95%   |
 | Toshiba MQ01ABD075 752GB            | 1        | 0.95%   |
 | Toshiba DT01ACA200 2TB              | 1        | 0.95%   |
@@ -1073,9 +1073,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 70     | 55.07%  |
-| 0.51-1.0   | 26       | 33     | 37.68%  |
-| 1.01-2.0   | 5        | 7      | 7.25%   |
+| 0.01-0.5   | 37       | 68     | 54.41%  |
+| 0.51-1.0   | 26       | 35     | 38.24%  |
+| 1.01-2.0   | 5        | 7      | 7.35%   |
 
 Space Total
 -----------
@@ -1682,7 +1682,7 @@ Monitor models
 | ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch            | 1        | 1.67%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch            | 1        | 1.67%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.67%   |
-| Toshiba TV TSB0108 1920x1080 708x398mm 32.0-inch                      | 1        | 1.67%   |
+| Toshiba TV TSB0108 1920x540 698x393mm 31.5-inch                       | 1        | 1.67%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                      | 1        | 1.67%   |
 | SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                       | 1        | 1.67%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.67%   |
@@ -1692,7 +1692,7 @@ Monitor models
 | Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch   | 1        | 1.67%   |
 | Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch     | 1        | 1.67%   |
 | Samsung Electronics LCD Monitor SMS23A350H 1920x1080                  | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 890x500mm 40.2-inch | 1        | 1.67%   |
 | Samsung Electronics LCD Monitor SAM0E90 1366x768 609x347mm 27.6-inch  | 1        | 1.67%   |
 | Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch | 1        | 1.67%   |
 | Samsung Electronics LCD Monitor S24E390 1920x1080                     | 1        | 1.67%   |
@@ -1705,14 +1705,14 @@ Monitor models
 | Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                    | 1        | 1.67%   |
 | MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                     | 1        | 1.67%   |
 | Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch               | 1        | 1.67%   |
-| Lenovo E1922s  Wide LEN60BD 1366x768 410x230mm 18.5-inch              | 1        | 1.67%   |
+| Lenovo E1922s Wide LEN60BD 1366x768 410x230mm 18.5-inch               | 1        | 1.67%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                  | 1        | 1.67%   |
 | Iiyama PL2792Q IVM662F 2560x1440 597x336mm 27.0-inch                  | 1        | 1.67%   |
 | Hisense LCD Monitor HDMI 1360x768                                     | 1        | 1.67%   |
 | Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch          | 1        | 1.67%   |
 | Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch      | 1        | 1.67%   |
 | Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch            | 1        | 1.67%   |
-| Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch            | 1        | 1.67%   |
+| Hewlett-Packard 2311x HWP293A 1920x1080 510x287mm 23.0-inch           | 1        | 1.67%   |
 | Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch            | 1        | 1.67%   |
 | Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                 | 1        | 1.67%   |
 | Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                 | 1        | 1.67%   |
@@ -1915,16 +1915,16 @@ Controller models
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.3%    |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 1.3%    |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 1.3%    |
-| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)         | 1        | 1.3%    |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 1.3%    |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 1.3%    |
+| Realtek 802.11n WLAN Adapter                                      | 1        | 1.3%    |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.3%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.3%    |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 1.3%    |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.3%    |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.3%    |
 | NetGear A6210                                                     | 1        | 1.3%    |
-| MediaTek Nokia 5.1 Plus                                           | 1        | 1.3%    |
+| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 1.3%    |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 1.3%    |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.3%    |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.3%    |
@@ -1976,9 +1976,9 @@ Wireless models
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 6.25%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter            | 1        | 6.25%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                     | 1        | 6.25%   |
-| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)  | 1        | 6.25%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 6.25%   |
 | Realtek RTL8188EE Wireless Network Adapter                 | 1        | 6.25%   |
+| Realtek 802.11n WLAN Adapter                               | 1        | 6.25%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter     | 1        | 6.25%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter           | 1        | 6.25%   |
 | NetGear A6210                                              | 1        | 6.25%   |
@@ -2029,7 +2029,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.69%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.69%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.69%   |
-| MediaTek Nokia 5.1 Plus                                           | 1        | 1.69%   |
+| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 1.69%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.69%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.69%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.69%   |
@@ -2126,16 +2126,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 10       | 58.82%  |
-| Realtek Bluetooth Radio                             | 1        | 5.88%   |
-| Qualcomm Atheros Bluetooth USB Host Controller      | 1        | 5.88%   |
-| MediaTek BT                                         | 1        | 5.88%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1        | 5.88%   |
-| Intel AX201 Bluetooth                               | 1        | 5.88%   |
-| Dynex BCM20702A0                                    | 1        | 5.88%   |
-| ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 5.88%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)      | 10       | 58.82%  |
+| Realtek Bluetooth Radio                                  | 1        | 5.88%   |
+| Qualcomm Atheros Bluetooth USB Host Controller           | 1        | 5.88%   |
+| MediaTek BT                                              | 1        | 5.88%   |
+| Intel Wireless-AC 3168 Bluetooth                         | 1        | 5.88%   |
+| Intel AX201 Bluetooth                                    | 1        | 5.88%   |
+| Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 5.88%   |
+| ASUS Broadcom BCM20702A0 Bluetooth                       | 1        | 5.88%   |
 
 Sound
 -----
@@ -2252,14 +2252,14 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                     | 1        | 3.57%   |
 | Unknown RAM Module 2GB DIMM SDRAM                          | 1        | 3.57%   |
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s         | 1        | 3.57%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s         | 1        | 3.57%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s        | 1        | 3.57%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 3.57%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s     | 1        | 3.57%   |
 | Ramaxel RAM RMSA3230KE68H9F213 4096MB SODIMM DDR4 2133MT/s | 1        | 3.57%   |
-| Nanya RAM M2X4G64CB8HG5N-DG 4096MB DIMM DDR3 1867MT/s      | 1        | 3.57%   |
+| Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s         | 1        | 3.57%   |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s             | 1        | 3.57%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 1        | 3.57%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2933MT/s          | 1        | 3.57%   |
-| Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s        | 1        | 3.57%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 3.57%   |
+| Kingston RAM KHX2133C14D4/8G 8GB DIMM 2667MT/s             | 1        | 3.57%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 3.57%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 3.57%   |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s   | 1        | 3.57%   |
@@ -2329,17 +2329,17 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 3200    | 3        | 11.54%  |
 | 1867    | 3        | 11.54%  |
 | 1600    | 3        | 11.54%  |
 | 3466    | 2        | 7.69%   |
+| 3400    | 2        | 7.69%   |
+| 3200    | 2        | 7.69%   |
 | 2667    | 2        | 7.69%   |
 | 2133    | 2        | 7.69%   |
 | 1333    | 2        | 7.69%   |
+| 3800    | 1        | 3.85%   |
 | 3500    | 1        | 3.85%   |
-| 3400    | 1        | 3.85%   |
 | 3000    | 1        | 3.85%   |
-| 2933    | 1        | 3.85%   |
 | 2800    | 1        | 3.85%   |
 | 2400    | 1        | 3.85%   |
 | 1067    | 1        | 3.85%   |

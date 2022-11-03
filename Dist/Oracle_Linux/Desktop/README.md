@@ -1271,9 +1271,9 @@ Monitor models
 | Samsung Electronics S27D391 SAM0B89 1920x1080 600x340mm 27.2-inch   | 1        | 6.67%   |
 | Samsung Electronics S27D391 SAM0B88 1920x1080 598x336mm 27.0-inch   | 1        | 6.67%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch   | 1        | 6.67%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch   | 1        | 6.67%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch   | 1        | 6.67%   |
 | Samsung Electronics LCD Monitor S24C650                             | 1        | 6.67%   |
-| SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch               | 1        | 6.67%   |
+| SAC LED MONITOR SAC952D 1920x1080 480x270mm 21.7-inch               | 1        | 6.67%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch          | 1        | 6.67%   |
 | Hewlett-Packard E273q HPN3474 2560x1440 600x340mm 27.2-inch         | 1        | 6.67%   |
 | Goldstar E2240 GSM57A3 1920x1080 477x268mm 21.5-inch                | 1        | 6.67%   |

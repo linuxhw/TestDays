@@ -787,7 +787,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB       | 1        | 1.75%   |
 | Seagate ST1000DM003-1ER162 1TB       | 1        | 1.75%   |
 | Seagate ST10000DM005-3AW101 10TB     | 1        | 1.75%   |
-| Seagate Expansion Desk 2TB           | 1        | 1.75%   |
+| Seagate Expansion Desk 8TB           | 1        | 1.75%   |
 | Samsung SSD 970 EVO Plus 500GB       | 1        | 1.75%   |
 | Samsung SSD 970 EVO Plus 1TB         | 1        | 1.75%   |
 | Samsung SSD 860 EVO 500GB            | 1        | 1.75%   |
@@ -873,12 +873,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 16       | 22     | 43.24%  |
-| 0.51-1.0   | 8        | 10     | 21.62%  |
-| 1.01-2.0   | 5        | 8      | 13.51%  |
-| 3.01-4.0   | 3        | 8      | 8.11%   |
-| 2.01-3.0   | 3        | 7      | 8.11%   |
-| 4.01-10.0  | 2        | 2      | 5.41%   |
+| 0.01-0.5   | 16       | 22     | 42.11%  |
+| 0.51-1.0   | 8        | 10     | 21.05%  |
+| 1.01-2.0   | 5        | 7      | 13.16%  |
+| 3.01-4.0   | 3        | 8      | 7.89%   |
+| 2.01-3.0   | 3        | 7      | 7.89%   |
+| 4.01-10.0  | 3        | 3      | 7.89%   |
 
 Space Total
 -----------
@@ -1436,7 +1436,7 @@ Monitor models
 | Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch | 1        | 4%      |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 4%      |
 | Ancor Communications ASUS MG28U ACI28A7 3840x2160 621x341mm 27.9-inch | 1        | 4%      |
-| Acer GN246HL ACR02F9 1920x1080 531x299mm 24.0-inch                    | 1        | 4%      |
+| Acer GN246HL ACR02F9 1920x1080 530x300mm 24.0-inch                    | 1        | 4%      |
 | Acer AL1714 ACRAD18 1280x1024 338x270mm 17.0-inch                     | 1        | 4%      |
 | Unknown                                                               | 1        | 4%      |
 
@@ -1911,7 +1911,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 6.9%    |
 | Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 3.45%   |
 | Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s         | 1        | 3.45%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s          | 1        | 3.45%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s          | 1        | 3.45%   |
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 3.45%   |
 | SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 3.45%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s     | 1        | 3.45%   |
@@ -1927,11 +1927,11 @@ Memory module models
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s         | 1        | 3.45%   |
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 975MT/s      | 1        | 3.45%   |
 | Kingston RAM 9905678-023.A00G 8GB DIMM DDR4 2187MT/s        | 1        | 3.45%   |
-| GLOWAY RAM TYA4U2666D19161C 16GB DIMM DDR4 2667MT/s         | 1        | 3.45%   |
-| G.Skill RAM F4-3200C16-16GTZSW 16384MB DIMM DDR4 3200MT/s   | 1        | 3.45%   |
+| GLOWAY RAM TYA4U2666D19161C 16384MB DIMM DDR4 2667MT/s      | 1        | 3.45%   |
+| G.Skill RAM F4-3200C16-16GTZSW 16GB DIMM DDR4 3200MT/s      | 1        | 3.45%   |
 | Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 3.45%   |
 | Crucial RAM BLS4G4D240FSB.8FBD 4096MB DIMM DDR4 2472MT/s    | 1        | 3.45%   |
-| Corsair RAM CMZ8GX3M1A1600C10 8192MB DIMM DDR3 1600MT/s     | 1        | 3.45%   |
+| Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 1600MT/s        | 1        | 3.45%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s       | 1        | 3.45%   |
 | AMD RAM R534G1601S1SL 4GB DIMM DDR3 1600MT/s                | 1        | 3.45%   |
 | A-DATA RAM Module 4096MB DIMM DDR3 1333MT/s                 | 1        | 3.45%   |
@@ -1995,13 +1995,13 @@ Memory module speed
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
 | 1600    | 4        | 16.67%  |
+| 3800    | 2        | 8.33%   |
 | 3600    | 2        | 8.33%   |
-| 3200    | 2        | 8.33%   |
 | 2400    | 2        | 8.33%   |
 | 1333    | 2        | 8.33%   |
 | Unknown | 2        | 8.33%   |
 | 65535   | 1        | 4.17%   |
-| 3800    | 1        | 4.17%   |
+| 3200    | 1        | 4.17%   |
 | 2933    | 1        | 4.17%   |
 | 2667    | 1        | 4.17%   |
 | 2472    | 1        | 4.17%   |
@@ -2042,7 +2042,7 @@ Printer device models
 | QinHeng CH340S               | 1        | 25%     |
 | HP OfficeJet Pro 9010 series | 1        | 25%     |
 | Dell 2330d Laser Printer     | 1        | 25%     |
-| Canon LiDE 300               | 1        | 25%     |
+| Canon CanoScan LiDE 300      | 1        | 25%     |
 
 Scanner Vendor
 --------------

@@ -153,14 +153,13 @@ Contents
 Test Cases
 ----------
 
-Total: 127
+Total: 126
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
 | ASUSTek       | ROG STRIX B450-I GAMING  | [a037b1ec8f](https://linux-hardware.org/?probe=a037b1ec8f) | Sep 24, 2022 |
 | ASUSTek       | ROG STRIX B450-I GAMING  | [0290975708](https://linux-hardware.org/?probe=0290975708) | Sep 24, 2022 |
 | ASUSTek       | ROG STRIX B450-I GAMING  | [fe963bacc6](https://linux-hardware.org/?probe=fe963bacc6) | Jun 14, 2022 |
-| ASUSTek       | ROG STRIX B450-I GAMING  | [e6a885c5df](https://linux-hardware.org/?probe=e6a885c5df) | Mar 26, 2022 |
 | ASUSTek       | ROG STRIX B450-I GAMING  | [d08bb2f15b](https://linux-hardware.org/?probe=d08bb2f15b) | Mar 25, 2022 |
 | ASUSTek       | M5A78L-M LE              | [a7209bb34a](https://linux-hardware.org/?probe=a7209bb34a) | Jan 22, 2022 |
 | ASUSTek       | M5A78L-M LE              | [5f7c38d0d5](https://linux-hardware.org/?probe=5f7c38d0d5) | Jan 22, 2022 |
@@ -797,8 +796,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 54       | 67.5%   |
-| No        | 26       | 32.5%   |
+| Yes       | 55       | 68.75%  |
+| No        | 25       | 31.25%  |
 
 Has Ethernet
 ------------
@@ -1312,11 +1311,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| IDE  | 50       | 53.76%  |
-| SATA | 34       | 36.56%  |
-| RAID | 6        | 6.45%   |
-| NVMe | 2        | 2.15%   |
-| SAS  | 1        | 1.08%   |
+| IDE  | 50       | 53.19%  |
+| SATA | 34       | 36.17%  |
+| RAID | 7        | 7.45%   |
+| NVMe | 2        | 2.13%   |
+| SAS  | 1        | 1.06%   |
 
 Processor
 ---------
@@ -1729,8 +1728,8 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 24W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch      | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.28%   |
+| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
@@ -1762,7 +1761,7 @@ Monitor models
 | Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch              | 1        | 1.28%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.28%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 1        | 1.28%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.28%   |
 
 Monitor Resolution
@@ -2522,7 +2521,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Sunplus SPCA2281 Web Camera                                         | 1        | 12.5%   |
-| Samsung Galaxy A5 (MTP)                                             | 1        | 12.5%   |
+| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 12.5%   |
 | Logitech Webcam C270                                                | 1        | 12.5%   |
 | Logitech Webcam C210                                                | 1        | 12.5%   |
 | GEO Semi Condor                                                     | 1        | 12.5%   |

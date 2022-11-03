@@ -1010,8 +1010,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 50       | 74     | 59.52%  |
-| 0.51-1.0   | 25       | 31     | 29.76%  |
+| 0.01-0.5   | 49       | 73     | 58.33%  |
+| 0.51-1.0   | 26       | 32     | 30.95%  |
 | 1.01-2.0   | 5        | 6      | 5.95%   |
 | 3.01-4.0   | 2        | 2      | 2.38%   |
 | 2.01-3.0   | 2        | 2      | 2.38%   |
@@ -1647,8 +1647,8 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                        | 2        | 2.5%    |
 | Vizio E320VT VIZ0067 1920x1080 698x392mm 31.5-inch                     | 1        | 1.25%   |
-| ViewSonic VA2446 SERIES VSC732E 1920x1080 521x293mm 23.5-inch          | 1        | 1.25%   |
 | ViewSonic VA2055 Series VSC3C31 1920x1080 435x239mm 19.5-inch          | 1        | 1.25%   |
+| ViewSonic LCD Monitor VSC732E 1920x1080 520x290mm 23.4-inch            | 1        | 1.25%   |
 | TBD HDMI TBD3148 1600x900 344x193mm 15.5-inch                          | 1        | 1.25%   |
 | SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                     | 1        | 1.25%   |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 1.25%   |
@@ -1665,8 +1665,8 @@ Monitor models
 | Samsung Electronics LCD Monitor S24F350                                | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor C24F390 1920x1080                      | 1        | 1.25%   |
 | Samsung Electronics C49J89x SAM0F21 3840x1080 1196x336mm 48.9-inch     | 1        | 1.25%   |
-| Samsung Electronics C49HG9x SAM0E5D 1920x1080 1196x336mm 48.9-inch     | 1        | 1.25%   |
-| Philips PHL 223V7 PHLC154 1920x1080 476x268mm 21.5-inch                | 1        | 1.25%   |
+| Samsung Electronics C49HG9x SAM0E5D 3840x1080 1196x336mm 48.9-inch     | 1        | 1.25%   |
+| Philips PHL 223V7 PHLC154 1920x1080 480x270mm 21.7-inch                | 1        | 1.25%   |
 | MSI Optix MAG27C MSI1462 1920x1080 590x350mm 27.0-inch                 | 1        | 1.25%   |
 | LG Electronics LCD Monitor LG IPS FULLHD                               | 1        | 1.25%   |
 | LG Electronics LCD Monitor 25UM58G 2560x1080                           | 1        | 1.25%   |
@@ -1684,7 +1684,7 @@ Monitor models
 | Hewlett-Packard 27f HPN354B 1920x1080 598x336mm 27.0-inch              | 1        | 1.25%   |
 | Hewlett-Packard 24x HPN3635 1920x1080 527x297mm 23.8-inch              | 1        | 1.25%   |
 | Hewlett-Packard 2159 HWP282C 1920x1080 479x269mm 21.6-inch             | 1        | 1.25%   |
-| Grundig TV GRU4448 1920x1080 1210x680mm 54.6-inch                      | 1        | 1.25%   |
+| Grundig WXGA GRU4448 1600x1200                                         | 1        | 1.25%   |
 
 Monitor Resolution
 ------------------
@@ -1897,12 +1897,12 @@ Controller models
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 0.91%   |
 | TP-Link 802.11ac WLAN Adapter                                     | 1        | 0.91%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 0.91%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 0.91%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1        | 0.91%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1        | 0.91%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 0.91%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 0.91%   |
 | Realtek RTL8187 Wireless Adapter                                  | 1        | 0.91%   |
-| Realtek 802.11ac NIC                                              | 1        | 0.91%   |
 | Ralink RT2870/RT3070 Wireless Adapter                             | 1        | 0.91%   |
 | Ralink RT5592 PCIe Wireless Network Adapter                       | 1        | 0.91%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 0.91%   |
@@ -1911,7 +1911,7 @@ Controller models
 | Nvidia MCP77 Ethernet                                             | 1        | 0.91%   |
 | NetGear WNA3100(v1) Wireless-N 300 [Broadcom BCM43231]            | 1        | 0.91%   |
 | Mercucys 802.11n NIC                                              | 1        | 0.91%   |
-| MediaTek Nokia 5.1 Plus                                           | 1        | 0.91%   |
+| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 0.91%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.91%   |
 | Intel Wireless-AC 9260                                            | 1        | 0.91%   |
 | Intel Wireless 7260                                               | 1        | 0.91%   |
@@ -1960,12 +1960,12 @@ Wireless models
 | TP-Link TL-WN822N Version 4 RTL8192EU                          | 1        | 2.78%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1        | 2.78%   |
 | TP-Link 802.11ac WLAN Adapter                                  | 1        | 2.78%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                             | 1        | 2.78%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1        | 2.78%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                     | 1        | 2.78%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                | 1        | 2.78%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1        | 2.78%   |
 | Realtek RTL8187 Wireless Adapter                               | 1        | 2.78%   |
-| Realtek 802.11ac NIC                                           | 1        | 2.78%   |
 | Ralink RT2870/RT3070 Wireless Adapter                          | 1        | 2.78%   |
 | Ralink RT5592 PCIe Wireless Network Adapter                    | 1        | 2.78%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter               | 1        | 2.78%   |
@@ -2024,7 +2024,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.35%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.35%   |
 | Nvidia MCP77 Ethernet                                             | 1        | 1.35%   |
-| MediaTek Nokia 5.1 Plus                                           | 1        | 1.35%   |
+| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 1.35%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.35%   |
 | Intel Ethernet Controller I225-V                                  | 1        | 1.35%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 1.35%   |
@@ -2195,13 +2195,13 @@ Sound card models
 | Intel Tiger Lake-H HD Audio Controller                                            | 2        | 1.41%   |
 | Intel C600/X79 series chipset High Definition Audio Controller                    | 2        | 1.41%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 2        | 1.41%   |
-| Generalplus Technology Usb Audio Device                                           | 2        | 1.41%   |
+| Generalplus Technology USB Audio Device                                           | 2        | 1.41%   |
 | Creative Labs CA0108/CA10300 [Sound Blaster Audigy Series]                        | 2        | 1.41%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                        | 2        | 1.41%   |
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                            | 2        | 1.41%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                                  | 2        | 1.41%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2        | 1.41%   |
-| Thesycon Systemsoftware & Consulting D50s                                         | 1        | 0.7%    |
+| Thesycon Systemsoftware & Consulting D10s                                         | 1        | 0.7%    |
 | Razer USA Kraken Tournament Edition                                               | 1        | 0.7%    |
 | Nvidia TU106 High Definition Audio Controller                                     | 1        | 0.7%    |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 0.7%    |
@@ -2250,7 +2250,7 @@ Memory module models
 | SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s   | 1        | 5%      |
 | Samsung RAM Module 8192MB DIMM DDR4 2666MT/s           | 1        | 5%      |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s  | 1        | 5%      |
-| Samsung RAM M378A1K43CB2-CTD 8192MB DIMM DDR4 3200MT/s | 1        | 5%      |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s    | 1        | 5%      |
 | Neo Forza RAM NMUD380D81-1600D 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
 | Nanya RAM Module 4GB DIMM DDR3 1333MT/s                | 1        | 5%      |
 | Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s | 1        | 5%      |
@@ -2259,11 +2259,11 @@ Memory module models
 | Kingston RAM 99U5458-001.A00LF 2GB DIMM DDR3 1600MT/s  | 1        | 5%      |
 | Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3           | 1        | 5%      |
 | Kingston RAM 9965516-069.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Kingston RAM 9965516-003.A00LF 8GB DIMM 1333MT/s       | 1        | 5%      |
+| Kingston RAM 9965516-003.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s | 1        | 5%      |
 | G.Skill RAM F3-1866C11-8GRSL 8GB SODIMM DDR3 1867MT/s  | 1        | 5%      |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s   | 1        | 5%      |
-| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 2400MT/s  | 1        | 5%      |
+| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 3000MT/s  | 1        | 5%      |
 | Corsair RAM CMK4GX4M1A2400C14 4GB DIMM DDR4 3007MT/s   | 1        | 5%      |
 | Corsair RAM CMH32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s | 1        | 5%      |
 
@@ -2407,22 +2407,22 @@ Camera device models
 |---------------------------------|----------|---------|
 | Logitech Webcam C270            | 2        | 10.53%  |
 | Z-Star Sirius USB2.0 Camera     | 1        | 5.26%   |
-| Sunplus HK 1080P K20Pro         | 1        | 5.26%   |
+| Sunplus FHD Camera Microphone   | 1        | 5.26%   |
 | Sunplus Aukey-PC-LM1E Camera    | 1        | 5.26%   |
 | Microsoft Xbox NUI Camera       | 1        | 5.26%   |
 | Microsoft LifeCam HD-3000       | 1        | 5.26%   |
 | Microdia Webcam Vitade AF       | 1        | 5.26%   |
+| Microdia USB Live camera        | 1        | 5.26%   |
 | Microdia Integrated Camera      | 1        | 5.26%   |
-| Microdia CameraA                | 1        | 5.26%   |
 | Logitech Webcam C310            | 1        | 5.26%   |
+| Logitech Logi 4K Stream Edition | 1        | 5.26%   |
 | Logitech HD Webcam C615         | 1        | 5.26%   |
 | Logitech HD Pro Webcam C920     | 1        | 5.26%   |
 | Logitech C505 HD Webcam         | 1        | 5.26%   |
-| Logitech BRIO 4K Stream Edition | 1        | 5.26%   |
 | Logitech B525 HD Webcam         | 1        | 5.26%   |
 | Generalplus GENERAL WEBCAM      | 1        | 5.26%   |
 | Creative Live! Cam Sync 1080p   | 1        | 5.26%   |
-| Apple iPhone5/5C/5S/6           | 1        | 5.26%   |
+| Apple iPhone 5/5C/5S/6/SE       | 1        | 5.26%   |
 
 Security
 --------

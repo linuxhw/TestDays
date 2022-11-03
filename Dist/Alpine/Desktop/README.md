@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 36
+Total: 38
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | 31900058 STD                | [d7cc344b2f](https://linux-hardware.org/?probe=d7cc344b2f) | Oct 31, 2022 |
+| Lenovo        | 31900058 STD                | [9f7158b883](https://linux-hardware.org/?probe=9f7158b883) | Oct 16, 2022 |
 | HP            | 1493                        | [60ebd1d8dd](https://linux-hardware.org/?probe=60ebd1d8dd) | Sep 29, 2022 |
 | Gateway       | SX2185                      | [8372be8fe3](https://linux-hardware.org/?probe=8372be8fe3) | Sep 29, 2022 |
 | ASRock        | H81M                        | [d59c4705a2](https://linux-hardware.org/?probe=d59c4705a2) | Aug 17, 2022 |
@@ -209,23 +211,23 @@ Installed operating systems
 
 | Name                        | Desktops | Percent |
 |-----------------------------|----------|---------|
-| Alpine 3.12.0               | 5        | 17.86%  |
-| Alpine 3.16.0               | 3        | 10.71%  |
-| Alpine 3.13.0_alpha20200626 | 3        | 10.71%  |
-| Alpine 3.17_alpha20220809   | 2        | 7.14%   |
-| Alpine 3.15.4               | 2        | 7.14%   |
-| Alpine 3.11.2               | 2        | 7.14%   |
-| Alpine 3.8.4                | 1        | 3.57%   |
-| Alpine 3.16.1               | 1        | 3.57%   |
-| Alpine 3.16.0_alpha20220328 | 1        | 3.57%   |
-| Alpine 3.15.6               | 1        | 3.57%   |
-| Alpine 3.15.0               | 1        | 3.57%   |
-| Alpine 3.14.2               | 1        | 3.57%   |
-| Alpine 3.13.6               | 1        | 3.57%   |
-| Alpine 3.13.2               | 1        | 3.57%   |
-| Alpine 3.13.1               | 1        | 3.57%   |
-| Alpine 3.13.0_alpha20201218 | 1        | 3.57%   |
-| Alpine 3.12.3               | 1        | 3.57%   |
+| Alpine 3.12.0               | 5        | 17.24%  |
+| Alpine 3.17_alpha20220809   | 3        | 10.34%  |
+| Alpine 3.16.0               | 3        | 10.34%  |
+| Alpine 3.13.0_alpha20200626 | 3        | 10.34%  |
+| Alpine 3.15.4               | 2        | 6.9%    |
+| Alpine 3.11.2               | 2        | 6.9%    |
+| Alpine 3.8.4                | 1        | 3.45%   |
+| Alpine 3.16.1               | 1        | 3.45%   |
+| Alpine 3.16.0_alpha20220328 | 1        | 3.45%   |
+| Alpine 3.15.6               | 1        | 3.45%   |
+| Alpine 3.15.0               | 1        | 3.45%   |
+| Alpine 3.14.2               | 1        | 3.45%   |
+| Alpine 3.13.6               | 1        | 3.45%   |
+| Alpine 3.13.2               | 1        | 3.45%   |
+| Alpine 3.13.1               | 1        | 3.45%   |
+| Alpine 3.13.0_alpha20201218 | 1        | 3.45%   |
+| Alpine 3.12.3               | 1        | 3.45%   |
 
 OS Family
 ---------
@@ -249,30 +251,30 @@ Version of the Linux kernel
 
 | Version           | Desktops | Percent |
 |-------------------|----------|---------|
-| 5.4.43-1-lts      | 5        | 17.86%  |
-| 5.8.0             | 1        | 3.57%   |
-| 5.4.84-0-lts      | 1        | 3.57%   |
-| 5.4.6-0-lts       | 1        | 3.57%   |
-| 5.4.58-0-lts      | 1        | 3.57%   |
-| 5.4.57-0-lts      | 1        | 3.57%   |
-| 5.18.0-0-asahi    | 1        | 3.57%   |
-| 5.17.9-0-edge     | 1        | 3.57%   |
-| 5.17.3-0-edge     | 1        | 3.57%   |
-| 5.15.70-0-lts     | 1        | 3.57%   |
-| 5.15.60-0-lts     | 1        | 3.57%   |
-| 5.15.57-0-lts     | 1        | 3.57%   |
-| 5.15.46-1-lts     | 1        | 3.57%   |
-| 5.15.40-0-lts     | 1        | 3.57%   |
-| 5.15.38-0-lts     | 1        | 3.57%   |
-| 5.15.32-0-lts     | 1        | 3.57%   |
-| 5.15.17-0-lts     | 1        | 3.57%   |
-| 5.10.81           | 1        | 3.57%   |
-| 5.10.61-0-lts     | 1        | 3.57%   |
-| 5.10.16-0-lts     | 1        | 3.57%   |
-| 5.10.12-0-lts     | 1        | 3.57%   |
-| 5.10.1-0-lts      | 1        | 3.57%   |
-| 4.14.89-0-vanilla | 1        | 3.57%   |
-| 3.10.105          | 1        | 3.57%   |
+| 5.4.43-1-lts      | 5        | 17.24%  |
+| 5.15.60-0-lts     | 2        | 6.9%    |
+| 5.8.0             | 1        | 3.45%   |
+| 5.4.84-0-lts      | 1        | 3.45%   |
+| 5.4.6-0-lts       | 1        | 3.45%   |
+| 5.4.58-0-lts      | 1        | 3.45%   |
+| 5.4.57-0-lts      | 1        | 3.45%   |
+| 5.18.0-0-asahi    | 1        | 3.45%   |
+| 5.17.9-0-edge     | 1        | 3.45%   |
+| 5.17.3-0-edge     | 1        | 3.45%   |
+| 5.15.70-0-lts     | 1        | 3.45%   |
+| 5.15.57-0-lts     | 1        | 3.45%   |
+| 5.15.46-1-lts     | 1        | 3.45%   |
+| 5.15.40-0-lts     | 1        | 3.45%   |
+| 5.15.38-0-lts     | 1        | 3.45%   |
+| 5.15.32-0-lts     | 1        | 3.45%   |
+| 5.15.17-0-lts     | 1        | 3.45%   |
+| 5.10.81           | 1        | 3.45%   |
+| 5.10.61-0-lts     | 1        | 3.45%   |
+| 5.10.16-0-lts     | 1        | 3.45%   |
+| 5.10.12-0-lts     | 1        | 3.45%   |
+| 5.10.1-0-lts      | 1        | 3.45%   |
+| 4.14.89-0-vanilla | 1        | 3.45%   |
+| 3.10.105          | 1        | 3.45%   |
 
 Kernel Family
 -------------
@@ -284,30 +286,30 @@ Linux kernel without a distro release
 
 | Version  | Desktops | Percent |
 |----------|----------|---------|
-| 5.4.43   | 5        | 17.86%  |
-| 5.8.0    | 1        | 3.57%   |
-| 5.4.84   | 1        | 3.57%   |
-| 5.4.6    | 1        | 3.57%   |
-| 5.4.58   | 1        | 3.57%   |
-| 5.4.57   | 1        | 3.57%   |
-| 5.18.0   | 1        | 3.57%   |
-| 5.17.9   | 1        | 3.57%   |
-| 5.17.3   | 1        | 3.57%   |
-| 5.15.70  | 1        | 3.57%   |
-| 5.15.60  | 1        | 3.57%   |
-| 5.15.57  | 1        | 3.57%   |
-| 5.15.46  | 1        | 3.57%   |
-| 5.15.40  | 1        | 3.57%   |
-| 5.15.38  | 1        | 3.57%   |
-| 5.15.32  | 1        | 3.57%   |
-| 5.15.17  | 1        | 3.57%   |
-| 5.10.81  | 1        | 3.57%   |
-| 5.10.61  | 1        | 3.57%   |
-| 5.10.16  | 1        | 3.57%   |
-| 5.10.12  | 1        | 3.57%   |
-| 5.10.1   | 1        | 3.57%   |
-| 4.14.89  | 1        | 3.57%   |
-| 3.10.105 | 1        | 3.57%   |
+| 5.4.43   | 5        | 17.24%  |
+| 5.15.60  | 2        | 6.9%    |
+| 5.8.0    | 1        | 3.45%   |
+| 5.4.84   | 1        | 3.45%   |
+| 5.4.6    | 1        | 3.45%   |
+| 5.4.58   | 1        | 3.45%   |
+| 5.4.57   | 1        | 3.45%   |
+| 5.18.0   | 1        | 3.45%   |
+| 5.17.9   | 1        | 3.45%   |
+| 5.17.3   | 1        | 3.45%   |
+| 5.15.70  | 1        | 3.45%   |
+| 5.15.57  | 1        | 3.45%   |
+| 5.15.46  | 1        | 3.45%   |
+| 5.15.40  | 1        | 3.45%   |
+| 5.15.38  | 1        | 3.45%   |
+| 5.15.32  | 1        | 3.45%   |
+| 5.15.17  | 1        | 3.45%   |
+| 5.10.81  | 1        | 3.45%   |
+| 5.10.61  | 1        | 3.45%   |
+| 5.10.16  | 1        | 3.45%   |
+| 5.10.12  | 1        | 3.45%   |
+| 5.10.1   | 1        | 3.45%   |
+| 4.14.89  | 1        | 3.45%   |
+| 3.10.105 | 1        | 3.45%   |
 
 Kernel Major Ver.
 -----------------
@@ -632,15 +634,15 @@ Total RAM memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 3.01-4.0   | 7        | 25%     |
-| 8.01-16.0  | 6        | 21.43%  |
-| 4.01-8.0   | 4        | 14.29%  |
-| 32.01-64.0 | 3        | 10.71%  |
-| 16.01-24.0 | 3        | 10.71%  |
-| 0.51-1.0   | 2        | 7.14%   |
-| 2.01-3.0   | 1        | 3.57%   |
-| 1.01-2.0   | 1        | 3.57%   |
-| 0.01-0.5   | 1        | 3.57%   |
+| 3.01-4.0   | 7        | 24.14%  |
+| 8.01-16.0  | 6        | 20.69%  |
+| 4.01-8.0   | 4        | 13.79%  |
+| 32.01-64.0 | 3        | 10.34%  |
+| 16.01-24.0 | 3        | 10.34%  |
+| 1.01-2.0   | 2        | 6.9%    |
+| 0.51-1.0   | 2        | 6.9%    |
+| 2.01-3.0   | 1        | 3.45%   |
+| 0.01-0.5   | 1        | 3.45%   |
 
 RAM Used
 --------
@@ -803,7 +805,7 @@ Hard drive vendors
 |---------------------|----------|--------|---------|
 | Seagate             | 8        | 14     | 20%     |
 | Samsung Electronics | 7        | 13     | 17.5%   |
-| WDC                 | 5        | 5      | 12.5%   |
+| WDC                 | 5        | 6      | 12.5%   |
 | Kingston            | 2        | 2      | 5%      |
 | Intel               | 2        | 3      | 5%      |
 | Hitachi             | 2        | 2      | 5%      |
@@ -830,46 +832,46 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Samsung SSD 960 EVO 500GB             | 2        | 4.55%   |
-| WDC WD800AAJS-00 80GB                 | 1        | 2.27%   |
-| WDC WD3200AAKX-0 320GB                | 1        | 2.27%   |
-| WDC WD20EZRZ-00Z 2TB                  | 1        | 2.27%   |
-| WDC WD10JPVX-75JC3T0 1TB              | 1        | 2.27%   |
-| WDC WD10EZEX-21M2NA0 1TB              | 1        | 2.27%   |
-| Unknown MMC Card  32GB                | 1        | 2.27%   |
-| Transcend SSD 1GB                     | 1        | 2.27%   |
-| Toshiba MK3252GS 320GB                | 1        | 2.27%   |
-| SK hynix SC300 M.2 2280 256 256GB SSD | 1        | 2.27%   |
-| Seagate ST980310AS 80GB               | 1        | 2.27%   |
-| Seagate ST4000VN008-2DR1 4TB          | 1        | 2.27%   |
-| Seagate ST4000NC000-1FR1 4TB          | 1        | 2.27%   |
-| Seagate ST380815AS 80GB               | 1        | 2.27%   |
-| Seagate ST3500418AS 500GB             | 1        | 2.27%   |
-| Seagate ST2000DL001-9VT1 2TB          | 1        | 2.27%   |
-| Seagate ST1000LM048-2E71 1TB          | 1        | 2.27%   |
-| Seagate ST1000DM010-2EP102 1TB        | 1        | 2.27%   |
-| SanDisk SDSA6MM 16GB SSD              | 1        | 2.27%   |
-| Samsung SSD 980 PRO 1TB               | 1        | 2.27%   |
-| Samsung SSD 980 500GB                 | 1        | 2.27%   |
-| Samsung SSD 970 EVO Plus 1TB          | 1        | 2.27%   |
-| Samsung SSD 970 EVO 250GB             | 1        | 2.27%   |
-| Samsung SSD 870 EVO 1TB               | 1        | 2.27%   |
-| Samsung SSD 850 EVO 500GB             | 1        | 2.27%   |
-| Samsung SSD 750 EVO 250GB             | 1        | 2.27%   |
-| Samsung SP0411N 40GB                  | 1        | 2.27%   |
-| LITEON CV3-CE128 128GB SSD            | 1        | 2.27%   |
-| Lexar 256GB SSD                       | 1        | 2.27%   |
-| Kingston SVP200S 120GB SSD            | 1        | 2.27%   |
-| Kingston SA400S3 240GB SSD            | 1        | 2.27%   |
-| Kingmax SSD 120G                      | 1        | 2.27%   |
-| Intel SSDSC2BW24 240GB                | 1        | 2.27%   |
-| Intel SSDSC2BW120A4 120GB             | 1        | 2.27%   |
-| Intel SSDSC2BB24 240GB                | 1        | 2.27%   |
-| Hitachi HTS54501 160GB                | 1        | 2.27%   |
-| Hitachi HDS72105 500GB                | 1        | 2.27%   |
-| HGST HTS541010B7 1TB                  | 1        | 2.27%   |
-| HGST HDN728080AL 8TB                  | 1        | 2.27%   |
-| Crucial CT120BX500SSD1 120GB          | 1        | 2.27%   |
+| Samsung SSD 960 EVO 500GB             | 2        | 4.44%   |
+| WDC WD800AAJS-00 80GB                 | 1        | 2.22%   |
+| WDC WD3200AAKX-0 320GB                | 1        | 2.22%   |
+| WDC WD20EZRZ-00Z 2TB                  | 1        | 2.22%   |
+| WDC WD1600BEVT-2 160GB                | 1        | 2.22%   |
+| WDC WD10JPVX-75JC3T0 1TB              | 1        | 2.22%   |
+| WDC WD10EZEX-21M2NA0 1TB              | 1        | 2.22%   |
+| Unknown MMC Card  32GB                | 1        | 2.22%   |
+| Transcend SSD 1GB                     | 1        | 2.22%   |
+| Toshiba MK3252GS 320GB                | 1        | 2.22%   |
+| SK hynix SC300 M.2 2280 256 256GB SSD | 1        | 2.22%   |
+| Seagate ST980310AS 80GB               | 1        | 2.22%   |
+| Seagate ST4000VN008-2DR1 4TB          | 1        | 2.22%   |
+| Seagate ST4000NC000-1FR1 4TB          | 1        | 2.22%   |
+| Seagate ST380815AS 80GB               | 1        | 2.22%   |
+| Seagate ST3500418AS 500GB             | 1        | 2.22%   |
+| Seagate ST2000DL001-9VT1 2TB          | 1        | 2.22%   |
+| Seagate ST1000LM048-2E71 1TB          | 1        | 2.22%   |
+| Seagate ST1000DM010-2EP102 1TB        | 1        | 2.22%   |
+| SanDisk SDSA6MM 16GB SSD              | 1        | 2.22%   |
+| Samsung SSD 980 PRO 1TB               | 1        | 2.22%   |
+| Samsung SSD 980 500GB                 | 1        | 2.22%   |
+| Samsung SSD 970 EVO Plus 1TB          | 1        | 2.22%   |
+| Samsung SSD 970 EVO 250GB             | 1        | 2.22%   |
+| Samsung SSD 870 EVO 1TB               | 1        | 2.22%   |
+| Samsung SSD 850 EVO 500GB             | 1        | 2.22%   |
+| Samsung SSD 750 EVO 250GB             | 1        | 2.22%   |
+| Samsung SP0411N 40GB                  | 1        | 2.22%   |
+| LITEON CV3-CE128 128GB SSD            | 1        | 2.22%   |
+| Lexar 256GB SSD                       | 1        | 2.22%   |
+| Kingston SVP200S 120GB SSD            | 1        | 2.22%   |
+| Kingston SA400S3 120GB SSD            | 1        | 2.22%   |
+| Kingmax SSD 120G                      | 1        | 2.22%   |
+| Intel SSDSC2BW24 240GB                | 1        | 2.22%   |
+| Intel SSDSC2BW120A4 120GB             | 1        | 2.22%   |
+| Intel SSDSC2BB24 240GB                | 1        | 2.22%   |
+| Hitachi HTS54501 160GB                | 1        | 2.22%   |
+| Hitachi HDS72105 500GB                | 1        | 2.22%   |
+| HGST HTS541010B7 1TB                  | 1        | 2.22%   |
+| HGST HDN728080AL 8TB                  | 1        | 2.22%   |
 
 HDD Vendor
 ----------
@@ -882,7 +884,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Seagate             | 8        | 14     | 42.11%  |
-| WDC                 | 5        | 5      | 26.32%  |
+| WDC                 | 5        | 6      | 26.32%  |
 | Hitachi             | 2        | 2      | 10.53%  |
 | HGST                | 2        | 2      | 10.53%  |
 | Toshiba             | 1        | 1      | 5.26%   |
@@ -920,7 +922,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 16       | 26     | 42.11%  |
+| HDD  | 16       | 27     | 42.11%  |
 | SSD  | 15       | 22     | 39.47%  |
 | NVMe | 6        | 9      | 15.79%  |
 | MMC  | 1        | 1      | 2.63%   |
@@ -935,7 +937,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 24       | 46     | 75%     |
+| SATA | 24       | 47     | 75%     |
 | NVMe | 6        | 9      | 18.75%  |
 | SAS  | 1        | 2      | 3.13%   |
 | MMC  | 1        | 1      | 3.13%   |
@@ -950,7 +952,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 22       | 31     | 73.33%  |
+| 0.01-0.5   | 22       | 32     | 73.33%  |
 | 0.51-1.0   | 4        | 7      | 13.33%  |
 | 3.01-4.0   | 2        | 6      | 6.67%   |
 | 1.01-2.0   | 1        | 3      | 3.33%   |
@@ -1077,7 +1079,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 23       | 48     | 74.19%  |
+| Works    | 23       | 49     | 74.19%  |
 | Malfunc  | 5        | 6      | 16.13%  |
 | Detected | 3        | 4      | 9.68%   |
 
@@ -1478,7 +1480,7 @@ Monitor models
 | Dell P2311H DEL4066 1920x1080 509x286mm 23.0-inch                     | 1        | 4.76%   |
 | Dell E172FP DELA00A 1280x1024 338x270mm 17.0-inch                     | 1        | 4.76%   |
 | BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                    | 1        | 4.76%   |
-| BenQ GW2280 BNQ78E8 1920x1080 480x270mm 21.7-inch                     | 1        | 4.76%   |
+| BenQ GW2280 BNQ78E8 1920x1080 476x268mm 21.5-inch                     | 1        | 4.76%   |
 | BenQ BL2405 BNQ8016 1920x1080 531x298mm 24.0-inch                     | 1        | 4.76%   |
 | AOC 718Swag-1 AOCC750 1440x900 367x230mm 17.1-inch                    | 1        | 4.76%   |
 | AOC 2476WM AOC2476 1920x1080 521x293mm 23.5-inch                      | 1        | 4.76%   |
@@ -1773,8 +1775,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 22       | 88%     |
-| WiFi     | 3        | 12%     |
+| Ethernet | 23       | 88.46%  |
+| WiFi     | 3        | 11.54%  |
 
 NICs
 ----
@@ -1786,11 +1788,11 @@ Total network controllers on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 17       | 62.96%  |
-| 2     | 7        | 25.93%  |
-| 5     | 1        | 3.7%    |
-| 4     | 1        | 3.7%    |
-| 3     | 1        | 3.7%    |
+| 1     | 17       | 60.71%  |
+| 2     | 7        | 25%     |
+| 3     | 2        | 7.14%   |
+| 5     | 1        | 3.57%   |
+| 4     | 1        | 3.57%   |
 
 IPv6
 ----
@@ -1875,7 +1877,7 @@ Sound card models
 | Intel 9 Series Chipset Family HD Audio Controller                          | 2        | 6.25%   |
 | AMD FCH Azalia Controller                                                  | 2        | 6.25%   |
 | VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                  | 1        | 3.13%   |
-| Thesycon Systemsoftware & Consulting D50s                                  | 1        | 3.13%   |
+| Thesycon Systemsoftware & Consulting D10s                                  | 1        | 3.13%   |
 | RODE Microphones RODE NT-USB Mini                                          | 1        | 3.13%   |
 | Nvidia MCP61 High Definition Audio                                         | 1        | 3.13%   |
 | Native Instruments Komplete Audio 2                                        | 1        | 3.13%   |
@@ -1902,19 +1904,19 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Crucial             | 6        | 16.67%  |
-| Unknown             | 5        | 13.89%  |
-| SK hynix            | 5        | 13.89%  |
-| Kingston            | 5        | 13.89%  |
-| Elpida              | 4        | 11.11%  |
-| Samsung Electronics | 3        | 8.33%   |
-| Micron Technology   | 2        | 5.56%   |
-| Qimonda             | 1        | 2.78%   |
-| Patriot             | 1        | 2.78%   |
-| Hewlett-Packard     | 1        | 2.78%   |
-| Corsair             | 1        | 2.78%   |
-| Cors                | 1        | 2.78%   |
-| A-DATA Technology   | 1        | 2.78%   |
+| Crucial             | 6        | 16.22%  |
+| Unknown             | 5        | 13.51%  |
+| SK hynix            | 5        | 13.51%  |
+| Kingston            | 5        | 13.51%  |
+| Samsung Electronics | 4        | 10.81%  |
+| Elpida              | 4        | 10.81%  |
+| Micron Technology   | 2        | 5.41%   |
+| Qimonda             | 1        | 2.7%    |
+| Patriot             | 1        | 2.7%    |
+| Hewlett-Packard     | 1        | 2.7%    |
+| Corsair             | 1        | 2.7%    |
+| Cors                | 1        | 2.7%    |
+| A-DATA Technology   | 1        | 2.7%    |
 
 Memory Model
 ------------
@@ -1926,44 +1928,45 @@ Memory module models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| Elpida RAM EBJ41UF8BDW0-GN-F 4GB DIMM DDR3 1600MT/s      | 2        | 5%      |
-| Crucial RAM BL16G36C16U4B.M16FE1 16GB DIMM DDR4 3600MT/s | 2        | 5%      |
-| Unknown RAM Module 512MB DIMM                            | 1        | 2.5%    |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 2.5%    |
-| Unknown RAM Module 2048MB DIMM DDR3 1600MT/s             | 1        | 2.5%    |
-| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 2.5%    |
-| Unknown RAM Module 128MB DIMM                            | 1        | 2.5%    |
-| Unknown RAM Module 1024MB DIMM SDRAM                     | 1        | 2.5%    |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.5%    |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.5%    |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 2.5%    |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 2.5%    |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s     | 1        | 2.5%    |
-| Samsung RAM Module 2GB DIMM DDR3 1333MT/s                | 1        | 2.5%    |
-| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s      | 1        | 2.5%    |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1866MT/s      | 1        | 2.5%    |
-| Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
-| Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s         | 1        | 2.5%    |
-| Patriot RAM PSD38G16002 8GB DIMM DDR3 1600MT/s           | 1        | 2.5%    |
-| Micron RAM 8KTF51264AZ-1G9P1 4GB DIMM DDR3 1866MT/s      | 1        | 2.5%    |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
-| Kingston RAM KHX1866C9D3/8GX 8GB DIMM DDR3 1866MT/s      | 1        | 2.5%    |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s      | 1        | 2.5%    |
-| Kingston RAM 99U5474-010.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.5%    |
-| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s    | 1        | 2.5%    |
-| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s    | 1        | 2.5%    |
-| Kingston RAM 9905595-005.A00LF 2GB DIMM DDR3 1600MT/s    | 1        | 2.5%    |
-| Kingston RAM 9905474-019.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.5%    |
-| HP RAM Module 4GB DIMM DDR3 1600MT/s                     | 1        | 2.5%    |
-| Elpida RAM Module 4GB DIMM DDR3 1600MT/s                 | 1        | 2.5%    |
-| Elpida RAM EBE10UE8ACWA-6E-E 1GB DIMM DDR2 667MT/s       | 1        | 2.5%    |
-| Crucial RAM CT51264BF160B.C16F 4096MB DIMM DDR3 1600MT/s | 1        | 2.5%    |
-| Crucial RAM CT25664BA160B.C16F 2GB DIMM DDR3 1600MT/s    | 1        | 2.5%    |
-| Crucial RAM CT102464BA160B.M16 8GB DIMM DDR3 1600MT/s    | 1        | 2.5%    |
-| Crucial RAM BLS8G4D240FSEK.8FBD 8GB DIMM DDR4 2400MT/s   | 1        | 2.5%    |
-| Corsair RAM Module 8192MB DIMM DDR3 1333MT/s             | 1        | 2.5%    |
-| Cors RAM CMX16GX3M2A1333C9 8192MB DIMM DDR3 1333MT/s     | 1        | 2.5%    |
-| A-DATA RAM DDR4 2400 2OZ 4GB DIMM DDR4 2400MT/s          | 1        | 2.5%    |
+| Elpida RAM EBJ41UF8BDW0-GN-F 4GB DIMM DDR3 1600MT/s      | 2        | 4.88%   |
+| Crucial RAM BL16G36C16U4B.M16FE1 16GB DIMM DDR4 3600MT/s | 2        | 4.88%   |
+| Unknown RAM Module 512MB DIMM                            | 1        | 2.44%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 2.44%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1600MT/s             | 1        | 2.44%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 2.44%   |
+| Unknown RAM Module 128MB DIMM                            | 1        | 2.44%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                     | 1        | 2.44%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.44%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.44%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 2.44%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 2.44%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s  | 1        | 2.44%   |
+| Samsung RAM Module 2GB DIMM DDR3 1333MT/s                | 1        | 2.44%   |
+| Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s      | 1        | 2.44%   |
+| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s      | 1        | 2.44%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.44%   |
+| Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.44%   |
+| Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s         | 1        | 2.44%   |
+| Patriot RAM PSD38G16002 8GB DIMM DDR3 1600MT/s           | 1        | 2.44%   |
+| Micron RAM 8KTF51264AZ-1G9P1 4GB DIMM DDR3 1866MT/s      | 1        | 2.44%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 2.44%   |
+| Kingston RAM KHX1866C9D3/8GX 8GB DIMM DDR3 1866MT/s      | 1        | 2.44%   |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s      | 1        | 2.44%   |
+| Kingston RAM 99U5474-010.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.44%   |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s    | 1        | 2.44%   |
+| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s    | 1        | 2.44%   |
+| Kingston RAM 9905595-005.A00LF 2GB DIMM DDR3 1600MT/s    | 1        | 2.44%   |
+| Kingston RAM 9905474-019.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.44%   |
+| HP RAM Module 4GB DIMM DDR3 1600MT/s                     | 1        | 2.44%   |
+| Elpida RAM Module 4GB DIMM DDR3 1600MT/s                 | 1        | 2.44%   |
+| Elpida RAM EBE10UE8ACWA-6E-E 1GB DIMM DDR2 667MT/s       | 1        | 2.44%   |
+| Crucial RAM CT51264BF160B.C16F 4096MB DIMM DDR3 1600MT/s | 1        | 2.44%   |
+| Crucial RAM CT25664BA160B.C16F 2GB DIMM DDR3 1600MT/s    | 1        | 2.44%   |
+| Crucial RAM CT102464BA160B.M16 8GB DIMM DDR3 1600MT/s    | 1        | 2.44%   |
+| Crucial RAM BLS8G4D240FSEK.8FBD 8GB DIMM DDR4 2400MT/s   | 1        | 2.44%   |
+| Corsair RAM Module 8192MB DIMM DDR3 1333MT/s             | 1        | 2.44%   |
+| Cors RAM CMX16GX3M2A1333C9 8192MB DIMM DDR3 1333MT/s     | 1        | 2.44%   |
+| A-DATA RAM DDR4 2400 2OZ 4GB DIMM DDR4 2400MT/s          | 1        | 2.44%   |
 
 Memory Kind
 -----------
@@ -1975,11 +1978,11 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR3    | 20       | 74.07%  |
-| DDR4    | 4        | 14.81%  |
-| SDRAM   | 1        | 3.7%    |
-| DDR2    | 1        | 3.7%    |
-| Unknown | 1        | 3.7%    |
+| DDR3    | 20       | 71.43%  |
+| DDR4    | 4        | 14.29%  |
+| SDRAM   | 2        | 7.14%   |
+| DDR2    | 1        | 3.57%   |
+| Unknown | 1        | 3.57%   |
 
 Memory Form Factor
 ------------------
@@ -2004,13 +2007,13 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 10       | 32.26%  |
-| 4096  | 9        | 29.03%  |
-| 2048  | 6        | 19.35%  |
-| 16384 | 2        | 6.45%   |
-| 1024  | 2        | 6.45%   |
-| 512   | 1        | 3.23%   |
-| 128   | 1        | 3.23%   |
+| 8192  | 10       | 31.25%  |
+| 4096  | 9        | 28.13%  |
+| 2048  | 7        | 21.88%  |
+| 16384 | 2        | 6.25%   |
+| 1024  | 2        | 6.25%   |
+| 512   | 1        | 3.13%   |
+| 128   | 1        | 3.13%   |
 
 Memory Speed
 ------------

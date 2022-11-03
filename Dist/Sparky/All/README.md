@@ -666,14 +666,14 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2009 | 8         | 17.02%  |
+| 2009 | 7         | 14.89%  |
 | 2014 | 6         | 12.77%  |
 | 2012 | 4         | 8.51%   |
+| 2008 | 4         | 8.51%   |
 | 2021 | 3         | 6.38%   |
 | 2020 | 3         | 6.38%   |
 | 2018 | 3         | 6.38%   |
 | 2010 | 3         | 6.38%   |
-| 2008 | 3         | 6.38%   |
 | 2019 | 2         | 4.26%   |
 | 2017 | 2         | 4.26%   |
 | 2016 | 2         | 4.26%   |
@@ -963,7 +963,7 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB         | 2         | 2.74%   |
 | Samsung HD161GJ 160GB                   | 2         | 2.74%   |
 | Hitachi HTS545025B9A300 250GB           | 2         | 2.74%   |
-| XPG GAMMIX S11 Pro 512GB                | 1         | 1.37%   |
+| XPG GAMMIX S11 Pro 1TB                  | 1         | 1.37%   |
 | WDC WD800JD-08MSA1 80GB                 | 1         | 1.37%   |
 | WDC WD5000BEVT-22ZAT0 500GB             | 1         | 1.37%   |
 | WDC WD5000AVVS-63ZWB0 500GB             | 1         | 1.37%   |
@@ -992,8 +992,8 @@ Hard drive models
 | Seagate ST1000LM035-1RK172 1TB          | 1         | 1.37%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB      | 1         | 1.37%   |
 | Seagate BarraCuda Q5 ZP500CV30001 500GB | 1         | 1.37%   |
-| Seagate Backup+ Hub BK 8TB              | 1         | 1.37%   |
-| Seagate Backup+ Desk 2TB                | 1         | 1.37%   |
+| Seagate Backup+ Hub BK 4TB              | 1         | 1.37%   |
+| Seagate Backup+ Desk 3TB                | 1         | 1.37%   |
 | SanDisk SSD PLUS 480GB                  | 1         | 1.37%   |
 | SanDisk NVMe SSD Drive 500GB            | 1         | 1.37%   |
 | Samsung SSD 850 EVO 500GB               | 1         | 1.37%   |
@@ -1085,8 +1085,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 37        | 59     | 78.72%  |
 | 0.51-1.0   | 8         | 15     | 17.02%  |
+| 3.01-4.0   | 1         | 3      | 2.13%   |
 | 1.01-2.0   | 1         | 1      | 2.13%   |
-| 4.01-10.0  | 1         | 3      | 2.13%   |
 
 Space Total
 -----------
@@ -1703,7 +1703,7 @@ Monitor models
 | Samsung Electronics S22C450 SAM09C5 1920x1080 477x268mm 21.5-inch    | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC4F45 1280x800 331x207mm 15.4-inch | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC4141 1366x768 344x193mm 15.5-inch | 1         | 2.08%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1         | 2.08%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch    | 1         | 2.08%   |
 | LG Philips LCD Monitor LPLA002 1440x900 367x230mm 17.1-inch          | 1         | 2.08%   |
 | LG Display LP156WH1-TLA3 LGD01C2 1366x768 344x194mm 15.5-inch        | 1         | 2.08%   |
 | LG Display LCD Monitor LGD059E 1920x1080 382x215mm 17.3-inch         | 1         | 2.08%   |
@@ -1712,7 +1712,7 @@ Monitor models
 | LG Display LCD Monitor LGD0266 1366x768 344x194mm 15.5-inch          | 1         | 2.08%   |
 | LG Display LCD Monitor LGD01C5 1366x768 293x165mm 13.2-inch          | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4033 1440x900 303x190mm 14.1-inch              | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN4022 1400x1050 286x214mm 14.1-inch             | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN4022 1400x1050 287x215mm 14.1-inch             | 1         | 2.08%   |
 | JCH F24 JCH1919 1920x1080 520x310mm 23.8-inch                        | 1         | 2.08%   |
 | Insignia NS19ED200NA14 BBY0032 1680x1050 640x384mm 29.4-inch         | 1         | 2.08%   |
 | Hitachi HDMI HEC0088 1920x540                                        | 1         | 2.08%   |
@@ -2302,18 +2302,18 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM SDRAM                       | 1         | 2.63%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s               | 1         | 2.63%   |
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s    | 1         | 2.63%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.63%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 2.63%   |
 | Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 2.63%   |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s      | 1         | 2.63%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s      | 1         | 2.63%   |
-| Samsung RAM M471B5674QH0-YK0 2048MB SODIMM DDR3 1600MT/s   | 1         | 2.63%   |
+| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s      | 1         | 2.63%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 2.63%   |
 | Samsung RAM M471B2873FHS-CH9 1GB SODIMM DDR3 1334MT/s      | 1         | 2.63%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 2.63%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 2.63%   |
 | Samsung RAM K4E8E324EB-EGCF 2GB LPDDR3 1867MT/s            | 1         | 2.63%   |
 | Nanya RAM NT4GC64B8HG0NS-DI 4GB SODIMM DDR3 1600MT/s       | 1         | 2.63%   |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s       | 1         | 2.63%   |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s    | 1         | 2.63%   |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s | 1         | 2.63%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s      | 1         | 2.63%   |
 | Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s  | 1         | 2.63%   |
@@ -2322,11 +2322,11 @@ Memory module models
 | Kingston RAM ACR128X64D3S1333C9 1GB SODIMM DDR3 1333MT/s   | 1         | 2.63%   |
 | Kingston RAM 99U5471-030.A00LF 8192MB DIMM DDR3 1333MT/s   | 1         | 2.63%   |
 | GOODRAM RAM GR1600S3V64L11/8G 8GB SODIMM DDR3 1600MT/s     | 1         | 2.63%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s      | 1         | 2.63%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s         | 1         | 2.63%   |
 | G.Skill RAM F4-2400C16-16GRS 16GB SODIMM DDR4 2667MT/s     | 1         | 2.63%   |
 | Elpida RAM EBJ81UG8BAS0-DJ-F 8GB SODIMM DDR3 1333MT/s      | 1         | 2.63%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s      | 1         | 2.63%   |
-| Corsair RAM CMZ4GX3M1A1600C9 4GB DIMM DDR3 1600MT/s        | 1         | 2.63%   |
+| Corsair RAM CMZ4GX3M1A1600C9 4096MB DIMM DDR3 1600MT/s     | 1         | 2.63%   |
 | Corsair RAM CMSA4GX3M1A1333C9 4GB SODIMM DDR3 1333MT/s     | 1         | 2.63%   |
 | Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s      | 1         | 2.63%   |
 | Avant RAM W641GU49J2320N6 8GB DIMM DDR4 2666MT/s           | 1         | 2.63%   |
@@ -2475,7 +2475,7 @@ Camera device models
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 1         | 4%      |
 | Sunplus Integrated Webcam                                   | 1         | 4%      |
 | Sunplus HP HD Webcam [Fixed]                                | 1         | 4%      |
-| Samsung Galaxy A5 (MTP)                                     | 1         | 4%      |
+| Samsung Galaxy series, misc. (MTP mode)                     | 1         | 4%      |
 | Microsoft LifeCam Cinema                                    | 1         | 4%      |
 | Microdia Sonix USB 2.0 Camera                               | 1         | 4%      |
 | Microdia Lenovo EasyCamera                                  | 1         | 4%      |

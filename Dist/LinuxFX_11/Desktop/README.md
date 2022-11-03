@@ -675,8 +675,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 26       | 55.32%  |
-| No        | 21       | 44.68%  |
+| Yes       | 25       | 53.19%  |
+| No        | 22       | 46.81%  |
 
 Has Ethernet
 ------------
@@ -848,7 +848,7 @@ Hard drive models
 |----------------------------------|----------|---------|
 | Seagate ST1000DM010-2EP102 1TB   | 4        | 4.4%    |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 2.2%    |
-| Seagate Expansion Desk 2TB       | 2        | 2.2%    |
+| Seagate Expansion Desk 8TB       | 2        | 2.2%    |
 | SanDisk SDSSDX240GG25 240GB      | 2        | 2.2%    |
 | Samsung SSD 860 EVO 1TB          | 2        | 2.2%    |
 | Samsung NVMe SSD Drive 500GB     | 2        | 2.2%    |
@@ -969,12 +969,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 33       | 43     | 51.56%  |
-| 0.51-1.0   | 19       | 28     | 29.69%  |
-| 1.01-2.0   | 8        | 11     | 12.5%   |
-| 2.01-3.0   | 2        | 2      | 3.13%   |
-| 3.01-4.0   | 1        | 1      | 1.56%   |
-| 4.01-10.0  | 1        | 1      | 1.56%   |
+| 0.01-0.5   | 33       | 43     | 50%     |
+| 0.51-1.0   | 19       | 27     | 28.79%  |
+| 1.01-2.0   | 8        | 10     | 12.12%  |
+| 3.01-4.0   | 2        | 2      | 3.03%   |
+| 2.01-3.0   | 2        | 2      | 3.03%   |
+| 4.01-10.0  | 2        | 2      | 3.03%   |
 
 Space Total
 -----------
@@ -1538,15 +1538,15 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | ___ AAA ___01FF 1366x768 700x390mm 31.5-inch                          | 1        | 2.13%   |
+| ViewSonic VX2452 Series VSCDE2E 1920x1080 521x293mm 23.5-inch         | 1        | 2.13%   |
 | ViewSonic VA2013wSERIES VSCF122 1600x900 443x249mm 20.0-inch          | 1        | 2.13%   |
-| ViewSonic LCD Monitor VSCDE2E 1920x1080 520x290mm 23.4-inch           | 1        | 2.13%   |
 | Tech Concepts LCD Monitor 43S431 3840x2160                            | 1        | 2.13%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 2.13%   |
 | Samsung Electronics T24C310 SAM0AEA 1920x1080 531x299mm 24.0-inch     | 1        | 2.13%   |
 | Samsung Electronics SyncMaster SAM058A 1920x1080 531x298mm 24.0-inch  | 1        | 2.13%   |
 | Samsung Electronics SMT22A550 SAM07AE 1920x1080 477x268mm 21.5-inch   | 1        | 2.13%   |
 | Samsung Electronics S27R35A SAM7126 1920x1080 598x336mm 27.0-inch     | 1        | 2.13%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 2.13%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch     | 1        | 2.13%   |
 | Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch  | 1        | 2.13%   |
 | Samsung Electronics LCD Monitor S24B300 3840x1080                     | 1        | 2.13%   |
 | Philips PHL 241P4 PHL08D5 1920x1080 531x299mm 24.0-inch               | 1        | 2.13%   |
@@ -1568,8 +1568,8 @@ Monitor models
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.13%   |
 | Dell LCD Monitor DELA026 1920x1200 520x330mm 24.2-inch                | 1        | 2.13%   |
 | BenQ FP71V+ BNQ76A2 1280x1024 376x301mm 19.0-inch                     | 1        | 2.13%   |
-| AOC Q2770 AOC2770 2560x1440 597x336mm 27.0-inch                       | 1        | 2.13%   |
 | AOC 519W AOC1519 1280x720 340x270mm 17.1-inch                         | 1        | 2.13%   |
+| AOC 2770 AOC2770 1920x1080 598x336mm 27.0-inch                        | 1        | 2.13%   |
 | AOC 2752 AOC2752 1920x1080 579x336mm 26.4-inch                        | 1        | 2.13%   |
 | AOC 2070W AOC2070 1600x900 434x236mm 19.4-inch                        | 1        | 2.13%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch      | 1        | 2.13%   |
@@ -1745,47 +1745,47 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 32       | 42.11%  |
-| Intel Wi-Fi 6 AX200                                                                           | 3        | 3.95%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                                         | 2        | 2.63%   |
-| Realtek 802.11ac NIC                                                                          | 2        | 2.63%   |
-| Nvidia MCP61 Ethernet                                                                         | 2        | 2.63%   |
-| Intel 82579V Gigabit Network Connection                                                       | 2        | 2.63%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 1.32%   |
-| TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                                    | 1        | 1.32%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 1.32%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 1.32%   |
-| Realtek RTL8188RU 802.11n WLAN Adapter                                                        | 1        | 1.32%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                         | 1        | 1.32%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 1        | 1.32%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.32%   |
-| Ralink MT7601U Wireless Adapter                                                               | 1        | 1.32%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.32%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.32%   |
-| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1        | 1.32%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1        | 1.32%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                                     | 1        | 1.32%   |
-| Qualcomm Atheros AR9271 802.11n                                                               | 1        | 1.32%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1        | 1.32%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                                 | 1        | 1.32%   |
-| Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn]                        | 1        | 1.32%   |
-| Motorola PCS Moto G (5) Plus                                                                  | 1        | 1.32%   |
-| Intel Wireless 8265 / 8275                                                                    | 1        | 1.32%   |
-| Intel Wireless 7265                                                                           | 1        | 1.32%   |
-| Intel I211 Gigabit Network Connection                                                         | 1        | 1.32%   |
-| Intel Ethernet Connection I217-V                                                              | 1        | 1.32%   |
-| Intel Ethernet Connection (2) I219-LM                                                         | 1        | 1.32%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 1        | 1.32%   |
-| Intel 82578DM Gigabit Network Connection                                                      | 1        | 1.32%   |
-| Intel 82578DC Gigabit Network Connection                                                      | 1        | 1.32%   |
-| Intel 82566DC Gigabit Network Connection                                                      | 1        | 1.32%   |
-| Huawei E353/E3131                                                                             | 1        | 1.32%   |
-| D-Link System DWA-126 802.11n Wireless Adapter [Atheros AR9271]                               | 1        | 1.32%   |
-| D-Link DWL-G132 [Atheros AR5523]                                                              | 1        | 1.32%   |
-| Broadcom Limited NetXtreme BCM5754 Gigabit Ethernet PCI Express                               | 1        | 1.32%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                                            | 1        | 1.32%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller      | 32       | 42.11%  |
+| Intel Wi-Fi 6 AX200                                                    | 3        | 3.95%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                     | 2        | 2.63%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2        | 2.63%   |
+| Nvidia MCP61 Ethernet                                                  | 2        | 2.63%   |
+| Intel 82579V Gigabit Network Connection                                | 2        | 2.63%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                    | 1        | 1.32%   |
+| TP-Link Archer T9UH v1 [Realtek RTL8814AU]                             | 1        | 1.32%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                        | 1        | 1.32%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                                 | 1        | 1.32%   |
+| Realtek RTL8188RU 802.11n WLAN Adapter                                 | 1        | 1.32%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                  | 1        | 1.32%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                                | 1        | 1.32%   |
+| Realtek 802.11ac WLAN Adapter                                          | 1        | 1.32%   |
+| Ralink MT7601U Wireless Adapter                                        | 1        | 1.32%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                              | 1        | 1.32%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1        | 1.32%   |
+| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                              | 1        | 1.32%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 1        | 1.32%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1        | 1.32%   |
+| Qualcomm Atheros AR9271 802.11n                                        | 1        | 1.32%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)         | 1        | 1.32%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 1.32%   |
+| Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn] | 1        | 1.32%   |
+| Motorola PCS moto g(6) plus                                            | 1        | 1.32%   |
+| Intel Wireless 8265 / 8275                                             | 1        | 1.32%   |
+| Intel Wireless 7265                                                    | 1        | 1.32%   |
+| Intel I211 Gigabit Network Connection                                  | 1        | 1.32%   |
+| Intel Ethernet Connection I217-V                                       | 1        | 1.32%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1        | 1.32%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 1.32%   |
+| Intel 82578DM Gigabit Network Connection                               | 1        | 1.32%   |
+| Intel 82578DC Gigabit Network Connection                               | 1        | 1.32%   |
+| Intel 82566DC Gigabit Network Connection                               | 1        | 1.32%   |
+| Huawei E353/E3131                                                      | 1        | 1.32%   |
+| D-Link System DWA-126 802.11n Wireless Adapter [Atheros AR9271]        | 1        | 1.32%   |
+| D-Link DWL-G132 [Atheros AR5523]                                       | 1        | 1.32%   |
+| Broadcom Limited NetXtreme BCM5754 Gigabit Ethernet PCI Express        | 1        | 1.32%   |
+| Broadcom BCM4352 802.11ac Wireless Network Adapter                     | 1        | 1.32%   |
 
 Wireless Vendor
 ---------------
@@ -1816,31 +1816,31 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| Intel Wi-Fi 6 AX200                                                                           | 3        | 11.54%  |
-| Realtek 802.11ac NIC                                                                          | 2        | 7.69%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 3.85%   |
-| TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                                    | 1        | 3.85%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 3.85%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 3.85%   |
-| Realtek RTL8188RU 802.11n WLAN Adapter                                                        | 1        | 3.85%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                         | 1        | 3.85%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 1        | 3.85%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 3.85%   |
-| Ralink MT7601U Wireless Adapter                                                               | 1        | 3.85%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 3.85%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 3.85%   |
-| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1        | 3.85%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1        | 3.85%   |
-| Qualcomm Atheros AR9271 802.11n                                                               | 1        | 3.85%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1        | 3.85%   |
-| Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn]                        | 1        | 3.85%   |
-| Intel Wireless 8265 / 8275                                                                    | 1        | 3.85%   |
-| Intel Wireless 7265                                                                           | 1        | 3.85%   |
-| D-Link System DWA-126 802.11n Wireless Adapter [Atheros AR9271]                               | 1        | 3.85%   |
-| D-Link DWL-G132 [Atheros AR5523]                                                              | 1        | 3.85%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                                            | 1        | 3.85%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Intel Wi-Fi 6 AX200                                                    | 3        | 11.54%  |
+| Realtek RTL88x2bu [AC1200 Techkey]                                     | 2        | 7.69%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                    | 1        | 3.85%   |
+| TP-Link Archer T9UH v1 [Realtek RTL8814AU]                             | 1        | 3.85%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                        | 1        | 3.85%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                                 | 1        | 3.85%   |
+| Realtek RTL8188RU 802.11n WLAN Adapter                                 | 1        | 3.85%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                  | 1        | 3.85%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                                | 1        | 3.85%   |
+| Realtek 802.11ac WLAN Adapter                                          | 1        | 3.85%   |
+| Ralink MT7601U Wireless Adapter                                        | 1        | 3.85%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                              | 1        | 3.85%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1        | 3.85%   |
+| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                              | 1        | 3.85%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 1        | 3.85%   |
+| Qualcomm Atheros AR9271 802.11n                                        | 1        | 3.85%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)         | 1        | 3.85%   |
+| Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn] | 1        | 3.85%   |
+| Intel Wireless 8265 / 8275                                             | 1        | 3.85%   |
+| Intel Wireless 7265                                                    | 1        | 3.85%   |
+| D-Link System DWA-126 802.11n Wireless Adapter [Atheros AR9271]        | 1        | 3.85%   |
+| D-Link DWL-G132 [Atheros AR5523]                                       | 1        | 3.85%   |
+| Broadcom BCM4352 802.11ac Wireless Network Adapter                     | 1        | 3.85%   |
 
 Ethernet Vendor
 ---------------
@@ -1876,7 +1876,7 @@ Ethernet models
 | Intel 82579V Gigabit Network Connection                           | 2        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2%      |
-| Motorola PCS Moto G (5) Plus                                      | 1        | 2%      |
+| Motorola PCS moto g(6) plus                                       | 1        | 2%      |
 | Intel I211 Gigabit Network Connection                             | 1        | 2%      |
 | Intel Ethernet Connection I217-V                                  | 1        | 2%      |
 | Intel Ethernet Connection (2) I219-LM                             | 1        | 2%      |
@@ -1990,23 +1990,23 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart/snd_vendor.svg)
 
 
-| Vendor                    | Desktops | Percent |
-|---------------------------|----------|---------|
-| Intel                     | 28       | 32.94%  |
-| Nvidia                    | 20       | 23.53%  |
-| AMD                       | 19       | 22.35%  |
-| C-Media Electronics       | 5        | 5.88%   |
-| GN Netcom                 | 2        | 2.35%   |
-| Creative Labs             | 2        | 2.35%   |
-| Texas Instruments         | 1        | 1.18%   |
-| Sennheiser Communications | 1        | 1.18%   |
-| ROCCAT                    | 1        | 1.18%   |
-| Microsoft                 | 1        | 1.18%   |
-| M-Audio                   | 1        | 1.18%   |
-| JMTek                     | 1        | 1.18%   |
-| iSoft Silicon             | 1        | 1.18%   |
-| Focusrite-Novation        | 1        | 1.18%   |
-| AOKEO                     | 1        | 1.18%   |
+| Vendor              | Desktops | Percent |
+|---------------------|----------|---------|
+| Intel               | 28       | 32.94%  |
+| Nvidia              | 20       | 23.53%  |
+| AMD                 | 19       | 22.35%  |
+| C-Media Electronics | 5        | 5.88%   |
+| GN Netcom           | 2        | 2.35%   |
+| Creative Labs       | 2        | 2.35%   |
+| Texas Instruments   | 1        | 1.18%   |
+| ROCCAT              | 1        | 1.18%   |
+| Microsoft           | 1        | 1.18%   |
+| M-Audio             | 1        | 1.18%   |
+| JMTek               | 1        | 1.18%   |
+| iSoft Silicon       | 1        | 1.18%   |
+| Focusrite-Novation  | 1        | 1.18%   |
+| DSEA A/S            | 1        | 1.18%   |
+| AOKEO               | 1        | 1.18%   |
 
 Sound Model
 -----------
@@ -2038,7 +2038,6 @@ Sound card models
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 2        | 2.13%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 2        | 2.13%   |
 | Texas Instruments PCM2903B Audio CODEC                                     | 1        | 1.06%   |
-| Sennheiser Communications PXC 550                                          | 1        | 1.06%   |
 | ROCCAT Juke                                                                | 1        | 1.06%   |
 | Nvidia TU104 HD Audio Controller                                           | 1        | 1.06%   |
 | Nvidia MCP61 High Definition Audio                                         | 1        | 1.06%   |
@@ -2058,6 +2057,7 @@ Sound card models
 | Intel Sunrise Point-LP HD Audio                                            | 1        | 1.06%   |
 | Intel Cannon Lake PCH cAVS                                                 | 1        | 1.06%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 1.06%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 1.06%   |
 
 Memory
 ------
@@ -2082,9 +2082,9 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Desktops | Percent |
-|-------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s | 1        | 100%    |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 1        | 100%    |
 
 Memory Kind
 -----------

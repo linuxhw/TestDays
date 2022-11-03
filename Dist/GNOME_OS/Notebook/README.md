@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 32
+Total: 34
 
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo  | IdeaPad 330-15AST 81D6      | [abbb3295c8](https://linux-hardware.org/?probe=abbb3295c8) | Oct 14, 2022 |
+| Lenovo  | IdeaPad 330-15AST 81D6      | [f19e981e03](https://linux-hardware.org/?probe=f19e981e03) | Oct 14, 2022 |
 | Dell    | Inspiron 3584               | [626c79c116](https://linux-hardware.org/?probe=626c79c116) | Sep 24, 2022 |
 | HP      | Pavilion 15                 | [56a10ce74c](https://linux-hardware.org/?probe=56a10ce74c) | Sep 21, 2022 |
 | ASUSTek | GL553VE                     | [4d93da1983](https://linux-hardware.org/?probe=4d93da1983) | Sep 20, 2022 |
@@ -775,7 +777,7 @@ Hard drive models
 | Transcend TS64GMTS400 64GB SSD            | 1         | 3.45%   |
 | Toshiba MQ04ABF100 1TB                    | 1         | 3.45%   |
 | Toshiba MQ01ABD032 320GB                  | 1         | 3.45%   |
-| SSSTC CVB-8D128-HP 128GB SSD              | 1         | 3.45%   |
+| SSSTC CVB-8D128-HP 128GB                  | 1         | 3.45%   |
 | SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 3.45%   |
 | SK hynix NVMe SSD Drive 512GB             | 1         | 3.45%   |
 | Seagate ST9500325AS 500GB                 | 1         | 3.45%   |
@@ -784,7 +786,7 @@ Hard drive models
 | SanDisk X300 MSATA 128GB SSD              | 1         | 3.45%   |
 | SanDisk SD8SN8U512G1002 512GB SSD         | 1         | 3.45%   |
 | Samsung SSD 860 EVO 500GB                 | 1         | 3.45%   |
-| Samsung NVMe SSD Drive 256GB              | 1         | 3.45%   |
+| Samsung SM963 2.5" NVMe PCIe SSD 256GB    | 1         | 3.45%   |
 | Micron 1100_MTFDDAV256TBN 256GB SSD       | 1         | 3.45%   |
 | Micron 1100_MTFDDAK256TBN 256GB SSD       | 1         | 3.45%   |
 | Kingston SHFS37A120G 120GB SSD            | 1         | 3.45%   |
@@ -1502,7 +1504,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2%      |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 2%      |
 | Intel Centrino Wireless-N 105                                     | 1         | 2%      |
-| Google Pixel 6                                                    | 1         | 2%      |
+| Google Pixel 6 Pro                                                | 1         | 2%      |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 2%      |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 2%      |
 | Broadcom Limited BCM4352 802.11ac Wireless Network Adapter        | 1         | 2%      |
@@ -1590,7 +1592,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 4.17%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 4.17%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 4.17%   |
-| Google Pixel 6                                                    | 1         | 4.17%   |
+| Google Pixel 6 Pro                                                | 1         | 4.17%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 4.17%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 4.17%   |
 
@@ -1680,11 +1682,12 @@ Controller models
 
 | Model                                        | Notebooks | Percent |
 |----------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                      | 4         | 18.18%  |
 | Qualcomm Atheros  Bluetooth Device           | 4         | 18.18%  |
+| Realtek Bluetooth Radio                      | 3         | 13.64%  |
 | Intel Bluetooth wireless interface           | 3         | 13.64%  |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device | 2         | 9.09%   |
 | Toshiba Bluetooth Device                     | 1         | 4.55%   |
+| Realtek RTL8821A Bluetooth                   | 1         | 4.55%   |
 | Realtek  Bluetooth 4.2 Adapter               | 1         | 4.55%   |
 | Qualcomm Atheros AR9462 Bluetooth            | 1         | 4.55%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth   | 1         | 4.55%   |
@@ -1738,7 +1741,7 @@ Sound card models
 | Intel CM238 HD Audio Controller                                                                   | 1         | 2.38%   |
 | Intel Cannon Point-LP High Definition Audio Controller                                            | 1         | 2.38%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 1         | 2.38%   |
-| Huawei Technologies USB-C HEADSET                                                                 | 1         | 2.38%   |
+| Huawei Technologies CM-Q3                                                                         | 1         | 2.38%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 2.38%   |
 | AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                                                | 1         | 2.38%   |
 | AMD Renoir Radeon High Definition Audio Controller                                                | 1         | 2.38%   |
@@ -1887,7 +1890,6 @@ Camera device models
 |--------------------------------------------------|-----------|---------|
 | Suyin HP Truevision HD                           | 3         | 11.54%  |
 | Realtek USB Camera                               | 2         | 7.69%   |
-| Microdia Integrated_Webcam_HD                    | 2         | 7.69%   |
 | Chicony Integrated Camera                        | 2         | 7.69%   |
 | Syntek Integrated Camera                         | 1         | 3.85%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 3.85%   |
@@ -1896,6 +1898,8 @@ Camera device models
 | Realtek Integrated_Webcam_HD                     | 1         | 3.85%   |
 | Realtek Integrated Camera                        | 1         | 3.85%   |
 | Quanta HD Webcam                                 | 1         | 3.85%   |
+| Microdia Integrated_Webcam_HD                    | 1         | 3.85%   |
+| Microdia Integrated Webcam HD                    | 1         | 3.85%   |
 | Logitech Webcam C270                             | 1         | 3.85%   |
 | IMC Networks HP TrueVision HD Camera             | 1         | 3.85%   |
 | Chicony USB2.0 VGA UVC WebCam                    | 1         | 3.85%   |
@@ -1987,14 +1991,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 16        | 30.19%  |
-| Net/wireless             | 13        | 24.53%  |
-| Graphics card            | 5         | 9.43%   |
-| Card reader              | 5         | 9.43%   |
-| Multimedia controller    | 4         | 7.55%   |
-| Bluetooth                | 4         | 7.55%   |
-| Net/ethernet             | 3         | 5.66%   |
-| Storage/ide              | 1         | 1.89%   |
-| Fingerprint reader       | 1         | 1.89%   |
-| Chipcard                 | 1         | 1.89%   |
+| Communication controller | 16        | 29.63%  |
+| Net/wireless             | 14        | 25.93%  |
+| Graphics card            | 5         | 9.26%   |
+| Card reader              | 5         | 9.26%   |
+| Multimedia controller    | 4         | 7.41%   |
+| Bluetooth                | 4         | 7.41%   |
+| Net/ethernet             | 3         | 5.56%   |
+| Storage/ide              | 1         | 1.85%   |
+| Fingerprint reader       | 1         | 1.85%   |
+| Chipcard                 | 1         | 1.85%   |
 

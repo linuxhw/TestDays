@@ -748,7 +748,7 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DM001-9YN164 2TB  | 1        | 1.72%   |
 | Seagate ST2000DL003-9VT166 2TB  | 1        | 1.72%   |
-| Seagate Backup+ Hub BK 8TB      | 1        | 1.72%   |
+| Seagate Backup+ Hub BK 4TB      | 1        | 1.72%   |
 | SanDisk SDSSDH31024G 1024GB     | 1        | 1.72%   |
 | SanDisk SDSSDA240G 240GB        | 1        | 1.72%   |
 | Samsung SSD 970 EVO Plus 500GB  | 1        | 1.72%   |
@@ -834,8 +834,7 @@ Size of hard drive
 | 0.01-0.5   | 17       | 33     | 51.52%  |
 | 0.51-1.0   | 9        | 10     | 27.27%  |
 | 1.01-2.0   | 5        | 18     | 15.15%  |
-| 3.01-4.0   | 1        | 1      | 3.03%   |
-| 4.01-10.0  | 1        | 1      | 3.03%   |
+| 3.01-4.0   | 2        | 2      | 6.06%   |
 
 Space Total
 -----------
@@ -1312,7 +1311,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch    | 2        | 8.33%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 8.33%   |
 | ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch               | 1        | 4.17%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1        | 4.17%   |
 | Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch   | 1        | 4.17%   |
@@ -1325,13 +1324,13 @@ Monitor models
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch               | 1        | 4.17%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch               | 1        | 4.17%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                  | 1        | 4.17%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.17%   |
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                      | 1        | 4.17%   |
+| AOC 24G1WG3 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1693,7 +1692,7 @@ Sound card models
 | Nvidia GP102 HDMI Audio Controller                                         | 1        | 2.22%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1        | 2.22%   |
 | Nvidia GK104 HDMI Audio Controller                                         | 1        | 2.22%   |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 2.22%   |
+| JMTek USB PnP Audio Device                                                 | 1        | 2.22%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 2.22%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 2.22%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 2.22%   |
@@ -1732,17 +1731,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s  | 2        | 20%     |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 10%     |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 10%     |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 10%     |
-| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
-| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s    | 2        | 20%     |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s             | 1        | 10%     |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s             | 1        | 10%     |
+| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s       | 1        | 10%     |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 10%     |
+| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 10%     |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s      | 1        | 10%     |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s   | 1        | 10%     |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 1        | 10%     |
 
 Memory Kind
 -----------
@@ -1871,15 +1870,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| Microdia Camera               | 2        | 25%     |
-| Samsung Galaxy A5 (MTP)       | 1        | 12.5%   |
-| Microsoft Xbox NUI Camera     | 1        | 12.5%   |
-| Logitech Webcam C270          | 1        | 12.5%   |
-| Logitech StreamCam            | 1        | 12.5%   |
-| Logitech Logitech Webcam C160 | 1        | 12.5%   |
-| HP Webcam HD 2300             | 1        | 12.5%   |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Microdia Camera                         | 2        | 25%     |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 12.5%   |
+| Microsoft Xbox NUI Camera               | 1        | 12.5%   |
+| Logitech Webcam C270                    | 1        | 12.5%   |
+| Logitech StreamCam                      | 1        | 12.5%   |
+| Logitech Logitech Webcam C160           | 1        | 12.5%   |
+| HP Webcam HD 2300                       | 1        | 12.5%   |
 
 Security
 --------

@@ -612,7 +612,7 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2018 | 12        | 18.46%  |
+| 2018 | 11        | 16.92%  |
 | 2019 | 8         | 12.31%  |
 | 2017 | 7         | 10.77%  |
 | 2016 | 7         | 10.77%  |
@@ -621,8 +621,8 @@ Motherboard manufacture year
 | 2020 | 4         | 6.15%   |
 | 2012 | 4         | 6.15%   |
 | 2010 | 4         | 6.15%   |
+| 2015 | 3         | 4.62%   |
 | 2009 | 3         | 4.62%   |
-| 2015 | 2         | 3.08%   |
 | 2008 | 2         | 3.08%   |
 | 2007 | 1         | 1.54%   |
 | 2006 | 1         | 1.54%   |
@@ -1036,8 +1036,7 @@ Size of hard drive
 | 0.01-0.5   | 42        | 62     | 61.76%  |
 | 0.51-1.0   | 18        | 20     | 26.47%  |
 | 1.01-2.0   | 6         | 19     | 8.82%   |
-| 3.01-4.0   | 1         | 1      | 1.47%   |
-| 4.01-10.0  | 1         | 1      | 1.47%   |
+| 3.01-4.0   | 2         | 2      | 2.94%   |
 
 Space Total
 -----------
@@ -1650,11 +1649,11 @@ Monitor models
 
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch     | 2         | 2.56%   |
-| ___ TV ___9000 1360x768                                               | 1         | 1.28%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 2         | 2.56%   |
+| ___ LCD TV ___9000 1360x768                                           | 1         | 1.28%   |
 | ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                | 1         | 1.28%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 1.28%   |
-| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 1.28%   |
+| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 1.28%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 1.28%   |
@@ -1662,7 +1661,7 @@ Monitor models
 | Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch    | 1         | 1.28%   |
 | Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch     | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC3641 1366x768 353x198mm 15.9-inch  | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch  | 1         | 1.28%   |
@@ -1680,12 +1679,12 @@ Monitor models
 | Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch            | 1         | 1.28%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch              | 1         | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1         | 1.28%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1         | 1.28%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                  | 1         | 1.28%   |
 | Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 1.28%   |
 | Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch                | 1         | 1.28%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                | 1         | 1.28%   |
 | GKK MONITOR GKK3034 1920x1080                                         | 1         | 1.28%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                   | 1         | 1.28%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                      | 1         | 1.28%   |
@@ -2213,7 +2212,7 @@ Sound card models
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1         | 0.9%    |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 1         | 0.9%    |
 | Nvidia GK104 HDMI Audio Controller                                         | 1         | 0.9%    |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1         | 0.9%    |
+| JMTek USB PnP Audio Device                                                 | 1         | 0.9%    |
 | Intel CM238 HD Audio Controller                                            | 1         | 0.9%    |
 | Intel Celeron/Pentium Silver Processor High Definition Audio               | 1         | 0.9%    |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1         | 0.9%    |
@@ -2284,7 +2283,7 @@ Memory module models
 | Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s    | 1         | 2.78%   |
 | Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s       | 1         | 2.78%   |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s    | 1         | 2.78%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1         | 2.78%   |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1         | 2.78%   |
 | A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s             | 1         | 2.78%   |
 | A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
 
@@ -2457,7 +2456,7 @@ Camera device models
 | Suyin HP TrueVision FHD RGB-IR                               | 1         | 1.92%   |
 | Sunplus Laptop Integrated WebCam HD                          | 1         | 1.92%   |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 1.92%   |
-| Samsung Galaxy A5 (MTP)                                      | 1         | 1.92%   |
+| Samsung Galaxy series, misc. (MTP mode)                      | 1         | 1.92%   |
 | Realtek Integrated Webcam HD                                 | 1         | 1.92%   |
 | Realtek Integrated Camera                                    | 1         | 1.92%   |
 | Realtek HD WebCam                                            | 1         | 1.92%   |

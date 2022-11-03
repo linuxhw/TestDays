@@ -774,7 +774,7 @@ Hard drive models
 | Seagate ST9500325AS 500GB                   | 1         | 3.13%   |
 | Seagate ST9120822AS 120GB                   | 1         | 3.13%   |
 | Seagate ST1000LM035-1RK172 1TB              | 1         | 3.13%   |
-| Seagate Expansion 1TB                       | 1         | 3.13%   |
+| Seagate Expansion 2TB                       | 1         | 3.13%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB | 1         | 3.13%   |
 | SanDisk SSD PLUS 240GB                      | 1         | 3.13%   |
 | SanDisk SDSSDA480G 480GB                    | 1         | 3.13%   |
@@ -787,7 +787,7 @@ Hard drive models
 | Lexar 120GB SSD                             | 1         | 3.13%   |
 | Kingston SHFS37A120G 120GB SSD              | 1         | 3.13%   |
 | Kingston SA400S37240G 240GB SSD             | 1         | 3.13%   |
-| KingSpec P3-128 128GB                       | 1         | 3.13%   |
+| KingSpec P3-128 128GB SSD                   | 1         | 3.13%   |
 | Hitachi HTS545025B9A300 250GB               | 1         | 3.13%   |
 | addlink S10 960GB                           | 1         | 3.13%   |
 | Unknown                                     | 1         | 3.13%   |
@@ -867,7 +867,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 18        | 21     | 75%     |
-| 0.51-1.0   | 6         | 9      | 25%     |
+| 0.51-1.0   | 5         | 8      | 20.83%  |
+| 1.01-2.0   | 1         | 1      | 4.17%   |
 
 Space Total
 -----------
@@ -1350,7 +1351,7 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch     | 1         | 3.85%   |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch     | 1         | 3.85%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 344x194mm 15.5-inch     | 1         | 3.85%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 3.85%   |
 | Samsung Electronics LCD Monitor SDC4951 1366x768 344x194mm 15.5-inch     | 1         | 3.85%   |
@@ -1375,7 +1376,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 1         | 3.85%   |
 | AU Optronics LCD Monitor AUO3791 1920x1080 344x194mm 15.5-inch           | 1         | 3.85%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 3.85%   |
-| AOC 2260W AOC2260 1920x1080 477x268mm 21.5-inch                          | 1         | 3.85%   |
+| AOC 2260WG5 AOC2260 1920x1080 477x268mm 21.5-inch                        | 1         | 3.85%   |
 
 Monitor Resolution
 ------------------
@@ -1727,10 +1728,11 @@ Controller models
 
 | Model                                            | Notebooks | Percent |
 |--------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                          | 5         | 23.81%  |
+| Realtek Bluetooth Radio                          | 4         | 19.05%  |
 | Intel Bluetooth wireless interface               | 3         | 14.29%  |
 | Toshiba RT Bluetooth Radio                       | 1         | 4.76%   |
 | Toshiba Integrated Bluetooth HCI                 | 1         | 4.76%   |
+| Realtek RTL8821A Bluetooth                       | 1         | 4.76%   |
 | Realtek Bluetooth Radio                          | 1         | 4.76%   |
 | Ralink RT3290 Bluetooth                          | 1         | 4.76%   |
 | Qualcomm Atheros  Bluetooth Device               | 1         | 4.76%   |
@@ -1830,13 +1832,13 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2                              | 1         | 9.09%   |
 | Unknown (0x4509) RAM GKE800SO102408-2666A 8GB SODIMM DDR4 2133MT/s | 1         | 9.09%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB Row Of Chips DDR4 3200MT/s       | 1         | 9.09%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s          | 1         | 9.09%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s             | 1         | 9.09%   |
 | Samsung RAM M471B5773CHS-CH9 2GB DIMM DDR3 1333MT/s                | 1         | 9.09%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s              | 1         | 9.09%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s              | 1         | 9.09%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s           | 1         | 9.09%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s              | 1         | 9.09%   |
 | Micron RAM 8KTF51264HDZ-1G6E1 4GB SODIMM DDR3 1600MT/s             | 1         | 9.09%   |
-| Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s            | 1         | 9.09%   |
+| Kingston RAM 99U5428-018.A00LF 8192MB SODIMM DDR3 1600MT/s         | 1         | 9.09%   |
 | Kingmax RAM FSFE85F-C8KL9 2GB DIMM DDR3 1333MT/s                   | 1         | 9.09%   |
 
 Memory Kind

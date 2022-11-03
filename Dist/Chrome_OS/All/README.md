@@ -730,8 +730,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 32        | 55.17%  |
-| Yes       | 26        | 44.83%  |
+| No        | 33        | 56.9%   |
+| Yes       | 25        | 43.1%   |
 
 Has Ethernet
 ------------
@@ -926,7 +926,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.52%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.52%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.52%   |
-| TO Exter nal USB 3.0 180GB                   | 1         | 1.52%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 1.52%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.52%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.52%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.52%   |
@@ -1031,7 +1031,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 49     | 100%    |
+| 0.01-0.5   | 40        | 48     | 97.56%  |
+| 0.51-1.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1579,7 +1580,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch  | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.69%   |
@@ -1595,7 +1596,7 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch           | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch               | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch              | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch               | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN4031 1280x800 286x179mm 13.3-inch               | 1         | 1.69%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.69%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.69%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.69%   |
@@ -2101,7 +2102,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                               | 1         | 1.56%   |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller                        | 1         | 1.56%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.56%   |
-| Generalplus Technology Usb Audio Device                                                           | 1         | 1.56%   |
+| Generalplus Technology USB Audio Device                                                           | 1         | 1.56%   |
 | AMD Wrestler HDMI Audio                                                                           | 1         | 1.56%   |
 | AMD Kaveri HDMI/DP Audio Controller                                                               | 1         | 1.56%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                                    | 1         | 1.56%   |
@@ -2283,7 +2284,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 17.65%  |
+| Alcor Micro USB 2.0 WebCamera                           | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |
@@ -2294,8 +2295,8 @@ Camera device models
 | Sunplus HD WebCam                                       | 1         | 2.94%   |
 | Realtek WebCamera                                       | 1         | 2.94%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.94%   |
-| Realtek USB Camera                                      | 1         | 2.94%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.94%   |
+| Realtek 2SF022                                          | 1         | 2.94%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.94%   |
 | Microdia HP Webcam                                      | 1         | 2.94%   |
 | Importek HP Webcam                                      | 1         | 2.94%   |

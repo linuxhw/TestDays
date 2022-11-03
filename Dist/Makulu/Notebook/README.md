@@ -579,8 +579,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 9         | 60%     |
-| No        | 6         | 40%     |
+| Yes       | 8         | 53.33%  |
+| No        | 7         | 46.67%  |
 
 Has Ethernet
 ------------
@@ -709,11 +709,11 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 9.52%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 9.52%   |
-| Unknown SD/MMC/MS PRO 2GB            | 1         | 4.76%   |
+| Unknown SD/MMC/MS PRO 1TB            | 1         | 4.76%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.76%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.76%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.76%   |
-| Seagate Expansion Desk 2TB           | 1         | 4.76%   |
+| Seagate Expansion Desk 8TB           | 1         | 4.76%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 4.76%   |
 | SanDisk NVMe SSD Drive 512GB         | 1         | 4.76%   |
 | Samsung NVMe SSD Drive 1TB           | 1         | 4.76%   |
@@ -799,9 +799,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 14     | 64.29%  |
-| 0.51-1.0   | 4         | 4      | 28.57%  |
-| 1.01-2.0   | 1         | 1      | 7.14%   |
+| 0.01-0.5   | 9         | 13     | 60%     |
+| 0.51-1.0   | 5         | 5      | 33.33%  |
+| 4.01-10.0  | 1         | 1      | 6.67%   |
 
 Space Total
 -----------
@@ -1220,14 +1220,14 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 6.67%   |
 | Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 6.67%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 6.67%   |
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |
 | LG Display LCD Monitor LGD04DA 1920x1080 344x194mm 15.5-inch             | 1         | 6.67%   |
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 6.67%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 6.67%   |
-| Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 6.67%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 6.67%   |
+| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 6.67%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 6.67%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 6.67%   |
@@ -1720,7 +1720,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 2         | 16.67%  |
 | Z-Star WebCam SCB-1900N                                 | 1         | 8.33%   |
 | Suyin UVC HD Webcam                                     | 1         | 8.33%   |
-| Suyin Laptop_Integrated_Webcam_HD                       | 1         | 8.33%   |
+| Suyin Integrated_Webcam_HD                              | 1         | 8.33%   |
 | Suyin HP Truevision HD                                  | 1         | 8.33%   |
 | Realtek Integrated Webcam HD                            | 1         | 8.33%   |
 | Microdia Dell Laptop Integrated Webcam HD               | 1         | 8.33%   |

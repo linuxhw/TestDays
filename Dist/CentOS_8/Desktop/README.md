@@ -1149,7 +1149,7 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB      | 2        | 0.57%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.57%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.57%   |
-| Seagate Expansion Desk 2TB          | 2        | 0.57%   |
+| Seagate Expansion Desk 8TB          | 2        | 0.57%   |
 | SanDisk NVMe SSD Drive 1TB          | 2        | 0.57%   |
 | Samsung SSD 970 EVO Plus 500GB      | 2        | 0.57%   |
 | Samsung SSD 850 EVO M.2 500GB       | 2        | 0.57%   |
@@ -1254,12 +1254,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 97       | 182    | 43.11%  |
-| 0.51-1.0   | 64       | 107    | 28.44%  |
-| 1.01-2.0   | 36       | 88     | 16%     |
+| 0.01-0.5   | 96       | 181    | 42.67%  |
+| 0.51-1.0   | 63       | 110    | 28%     |
+| 1.01-2.0   | 36       | 83     | 16%     |
 | 4.01-10.0  | 11       | 29     | 4.89%   |
-| 3.01-4.0   | 9        | 31     | 4%      |
-| 2.01-3.0   | 5        | 31     | 2.22%   |
+| 3.01-4.0   | 10       | 33     | 4.44%   |
+| 2.01-3.0   | 6        | 32     | 2.67%   |
 | 10.01-20.0 | 3        | 22     | 1.33%   |
 
 Space Total
@@ -1949,12 +1949,12 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 3        | 1.62%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 3        | 1.62%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3        | 1.62%   |
 | Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 2        | 1.08%   |
-| Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch | 2        | 1.08%   |
+| Samsung Electronics SyncMaster SAM0372 1680x1050 440x300mm 21.0-inch | 2        | 1.08%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2        | 1.08%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch    | 2        | 1.08%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 1.08%   |
 | MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                     | 2        | 1.08%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch         | 2        | 1.08%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch              | 2        | 1.08%   |
@@ -2257,40 +2257,40 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| Intel Wi-Fi 6 AX200                                                                           | 7        | 12.73%  |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 6        | 10.91%  |
-| Ralink RT5370 Wireless Adapter                                                                | 3        | 5.45%   |
-| Ralink MT7601U Wireless Adapter                                                               | 3        | 5.45%   |
-| Intel Wireless-AC 9260                                                                        | 3        | 5.45%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                                            | 3        | 5.45%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 2        | 3.64%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 2        | 3.64%   |
-| Qualcomm Atheros AR93xx Wireless Network Adapter                                              | 2        | 3.64%   |
-| Intel Wireless 8265 / 8275                                                                    | 2        | 3.64%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 1.82%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1        | 1.82%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                               | 1        | 1.82%   |
-| Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 1        | 1.82%   |
-| Realtek RTL8191SU 802.11n WLAN Adapter                                                        | 1        | 1.82%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 1        | 1.82%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.82%   |
-| Realtek 802.11ac NIC                                                                          | 1        | 1.82%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                                         | 1        | 1.82%   |
-| Ralink RT2770 Wireless Adapter                                                                | 1        | 1.82%   |
-| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                                             | 1        | 1.82%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.82%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                    | 1        | 1.82%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                                | 1        | 1.82%   |
-| Intel Wireless 7265                                                                           | 1        | 1.82%   |
-| Intel Wireless 7260                                                                           | 1        | 1.82%   |
-| Intel Wireless 3165                                                                           | 1        | 1.82%   |
-| Intel Wireless 3160                                                                           | 1        | 1.82%   |
-| Intel Centrino Advanced-N 6235                                                                | 1        | 1.82%   |
-| Intel Cannon Lake PCH CNVi WiFi                                                               | 1        | 1.82%   |
-| Broadcom BCM43228 802.11a/b/g/n                                                               | 1        | 1.82%   |
-| Broadcom BCM43142 802.11b/g/n                                                                 | 1        | 1.82%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Intel Wi-Fi 6 AX200                                            | 7        | 12.73%  |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 6        | 10.91%  |
+| Ralink RT5370 Wireless Adapter                                 | 3        | 5.45%   |
+| Ralink MT7601U Wireless Adapter                                | 3        | 5.45%   |
+| Intel Wireless-AC 9260                                         | 3        | 5.45%   |
+| Broadcom BCM4360 802.11ac Wireless Network Adapter             | 3        | 5.45%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                     | 2        | 3.64%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter               | 2        | 3.64%   |
+| Qualcomm Atheros AR93xx Wireless Network Adapter               | 2        | 3.64%   |
+| Intel Wireless 8265 / 8275                                     | 2        | 3.64%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1        | 1.82%   |
+| TP-Link Archer T3U [Realtek RTL8812BU]                         | 1        | 1.82%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1        | 1.82%   |
+| Realtek RTL8192CE PCIe Wireless Network Adapter                | 1        | 1.82%   |
+| Realtek RTL8191SU 802.11n WLAN Adapter                         | 1        | 1.82%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                        | 1        | 1.82%   |
+| Realtek 802.11ac WLAN Adapter                                  | 1        | 1.82%   |
+| Realtek 802.11ac NIC                                           | 1        | 1.82%   |
+| Ralink RT2870/RT3070 Wireless Adapter                          | 1        | 1.82%   |
+| Ralink RT2770 Wireless Adapter                                 | 1        | 1.82%   |
+| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter              | 1        | 1.82%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                      | 1        | 1.82%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1        | 1.82%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 1        | 1.82%   |
+| Intel Wireless 7265                                            | 1        | 1.82%   |
+| Intel Wireless 7260                                            | 1        | 1.82%   |
+| Intel Wireless 3165                                            | 1        | 1.82%   |
+| Intel Wireless 3160                                            | 1        | 1.82%   |
+| Intel Centrino Advanced-N 6235                                 | 1        | 1.82%   |
+| Intel Cannon Lake PCH CNVi WiFi                                | 1        | 1.82%   |
+| Broadcom BCM43228 802.11a/b/g/n                                | 1        | 1.82%   |
+| Broadcom BCM43142 802.11b/g/n                                  | 1        | 1.82%   |
 
 Ethernet Vendor
 ---------------
@@ -2589,48 +2589,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM 1600MT/s                      | 2        | 2.38%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                      | 2        | 2.38%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                   | 2        | 2.38%   |
-| Unknown RAM Module 2GB DIMM SDRAM                         | 2        | 2.38%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8192MB DIMM DDR3 1600MT/s  | 2        | 2.38%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s               | 1        | 1.19%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1        | 1.19%   |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                  | 1        | 1.19%   |
-| Unknown RAM Module 4096MB DIMM 400MT/s                    | 1        | 1.19%   |
-| Unknown RAM Module 2GB SODIMM DDR3 800MT/s                | 1        | 1.19%   |
-| Unknown RAM Module 2GB DIMM DDR 667MT/s                   | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM DDR2                       | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                   | 1        | 1.19%   |
-| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s       | 1        | 1.19%   |
-| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s          | 1        | 1.19%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s        | 1        | 1.19%   |
-| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2400MT/s        | 1        | 1.19%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                | 1        | 1.19%   |
-| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                | 1        | 1.19%   |
-| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s               | 1        | 1.19%   |
-| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR2 667MT/s     | 1        | 1.19%   |
-| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.19%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s | 1        | 1.19%   |
-| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 1.19%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 1.19%   |
-| SK hynix RAM HMT151R7TFR4C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 1.19%   |
-| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s      | 1        | 1.19%   |
-| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s      | 1        | 1.19%   |
-| SK hynix RAM HMA81GR7AFR8N-UH 8192MB DIMM DDR4 2400MT/s   | 1        | 1.19%   |
-| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                 | 1        | 1.19%   |
-| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s              | 1        | 1.19%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s      | 1        | 1.19%   |
-| Samsung RAM M391B5273DH0-CK0 4096MB DIMM DDR3 1600MT/s    | 1        | 1.19%   |
-| Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s       | 1        | 1.19%   |
-| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s       | 1        | 1.19%   |
-| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s     | 1        | 1.19%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s          | 1        | 1.19%   |
-| Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s        | 1        | 1.19%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s       | 1        | 1.19%   |
-| Micron RAM 4ATF51264AZ-2G6E1 4GB DIMM DDR4 2667MT/s       | 1        | 1.19%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM 1600MT/s                    | 2        | 2.38%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                    | 2        | 2.38%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                 | 2        | 2.38%   |
+| Unknown RAM Module 2GB DIMM SDRAM                       | 2        | 2.38%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s   | 2        | 2.38%   |
+| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s             | 1        | 1.19%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 1.19%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                | 1        | 1.19%   |
+| Unknown RAM Module 4096MB DIMM 400MT/s                  | 1        | 1.19%   |
+| Unknown RAM Module 2GB SODIMM DDR3 800MT/s              | 1        | 1.19%   |
+| Unknown RAM Module 2GB DIMM DDR 667MT/s                 | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM DDR2                     | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                 | 1        | 1.19%   |
+| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s     | 1        | 1.19%   |
+| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s        | 1        | 1.19%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s     | 1        | 1.19%   |
+| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s     | 1        | 1.19%   |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s              | 1        | 1.19%   |
+| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s              | 1        | 1.19%   |
+| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s             | 1        | 1.19%   |
+| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR2 667MT/s   | 1        | 1.19%   |
+| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.19%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 1.19%   |
+| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 1.19%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 1.19%   |
+| SK hynix RAM HMT151R7TFR4C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 1.19%   |
+| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s    | 1        | 1.19%   |
+| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s    | 1        | 1.19%   |
+| SK hynix RAM HMA81GR7AFR8N-UH 8192MB DIMM DDR4 2400MT/s | 1        | 1.19%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.19%   |
+| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s            | 1        | 1.19%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s    | 1        | 1.19%   |
+| Samsung RAM M391B5273DH0-CK0 4096MB DIMM DDR3 1600MT/s  | 1        | 1.19%   |
+| Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s     | 1        | 1.19%   |
+| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s     | 1        | 1.19%   |
+| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.19%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s        | 1        | 1.19%   |
+| Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.19%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 1.19%   |
+| Micron RAM 4ATF51264AZ-2G6E1 4GB DIMM DDR4 2667MT/s     | 1        | 1.19%   |
 
 Memory Kind
 -----------
@@ -2807,7 +2807,7 @@ Camera device models
 | Microdia Camera                             | 2        | 9.52%   |
 | Logitech Webcam C270                        | 2        | 9.52%   |
 | Lenovo FHD Webcam                           | 2        | 9.52%   |
-| Samsung Galaxy A5 (MTP)                     | 1        | 4.76%   |
+| Samsung Galaxy series, misc. (MTP mode)     | 1        | 4.76%   |
 | Realtek Laptop_Integrated_Webcam_FHD        | 1        | 4.76%   |
 | Logitech Webcam C930e                       | 1        | 4.76%   |
 | Logitech StreamCam                          | 1        | 4.76%   |

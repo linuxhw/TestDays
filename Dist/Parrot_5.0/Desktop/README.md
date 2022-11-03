@@ -608,8 +608,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 20       | 74.07%  |
-| Yes       | 7        | 25.93%  |
+| No        | 21       | 80.77%  |
+| Yes       | 5        | 19.23%  |
 
 Has Ethernet
 ------------
@@ -769,7 +769,7 @@ Hard drive models
 | WDC WD10EZEX-08M2NA0 1TB            | 1        | 1.82%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 1.82%   |
 | WDC WD10EADX-22TDHB0 1TB            | 1        | 1.82%   |
-| Unknown 256GB PCS 2.5" S            | 1        | 1.82%   |
+| Unknown 256GB PCS 2.5" S SSD        | 1        | 1.82%   |
 | Toshiba HDWD105 500GB               | 1        | 1.82%   |
 | Toshiba DT01ACA050 500GB            | 1        | 1.82%   |
 | SPCC Solid State Disk 240GB         | 1        | 1.82%   |
@@ -1398,7 +1398,7 @@ Monitor models
 | STD LED STD0001 2560x1440 330x220mm 15.6-inch                         | 1        | 3.57%   |
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
-| Plain Tree Systems LCD Monitor PTS0899 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
+| Plain Tree Systems Monitor PTS0899 1680x1050 474x296mm 22.0-inch      | 1        | 3.57%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1        | 3.57%   |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch           | 1        | 3.57%   |
 | Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch            | 1        | 3.57%   |
@@ -1416,7 +1416,7 @@ Monitor models
 | AOC 2470W AOC2470 1920x1080 520x290mm 23.4-inch                       | 1        | 3.57%   |
 | AOC 2270W AOC2270 1920x1080 477x268mm 21.5-inch                       | 1        | 3.57%   |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 3.57%   |
-| Acer X223W ACR0011 1680x1050 473x296mm 22.0-inch                      | 1        | 3.57%   |
+| Acer X223W c ACR0011 1680x1050 473x296mm 22.0-inch                    | 1        | 3.57%   |
 | Acer ET221Q ACR056B 1920x1080 477x268mm 21.5-inch                     | 1        | 3.57%   |
 | Acer CB272U ACR081D 2560x1440 597x336mm 27.0-inch                     | 1        | 3.57%   |
 
@@ -1593,7 +1593,7 @@ Controller models
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2        | 3.33%   |
 | Intel Ethernet Connection I217-LM                                       | 2        | 3.33%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 2        | 3.33%   |
-| vivo 1806                                                               | 1        | 1.67%   |
+| vivo 1808                                                               | 1        | 1.67%   |
 | TP-Link Archer T4U ver.3                                                | 1        | 1.67%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                 | 1        | 1.67%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                | 1        | 1.67%   |
@@ -1609,7 +1609,7 @@ Controller models
 | Microsoft Xbox360 Wireless N Networking Adapter [Atheros AR7010+AR9280] | 1        | 1.67%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 1.67%   |
 | Mercucys 802.11n NIC                                                    | 1        | 1.67%   |
-| MediaTek TECNO POVA 2                                                   | 1        | 1.67%   |
+| MediaTek moto e(7) power                                                | 1        | 1.67%   |
 | Intel Wi-Fi 6 AX200                                                     | 1        | 1.67%   |
 | Intel I211 Gigabit Network Connection                                   | 1        | 1.67%   |
 | Intel Ethernet Connection I217-V                                        | 1        | 1.67%   |
@@ -1707,11 +1707,11 @@ Ethernet models
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 3        | 9.09%   |
 | Intel Ethernet Connection I217-LM                                 | 2        | 6.06%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 6.06%   |
-| vivo 1806                                                         | 1        | 3.03%   |
+| vivo 1808                                                         | 1        | 3.03%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.03%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.03%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 3.03%   |
-| MediaTek TECNO POVA 2                                             | 1        | 3.03%   |
+| MediaTek moto e(7) power                                          | 1        | 3.03%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 3.03%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 3.03%   |
 | Intel 82583V Gigabit Network Connection                           | 1        | 3.03%   |
@@ -1856,7 +1856,7 @@ Sound card models
 | Intel Cannon Point-LP High Definition Audio Controller                            | 1        | 2%      |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 1        | 2%      |
 | Intel 200 Series PCH HD Audio                                                     | 1        | 2%      |
-| Generalplus Technology Usb Audio Device                                           | 1        | 2%      |
+| Generalplus Technology USB Audio Device                                           | 1        | 2%      |
 | C-Media Electronics Audio Adapter                                                 | 1        | 2%      |
 | AMD Trinity HDMI Audio Controller                                                 | 1        | 2%      |
 | AMD SBx00 Azalia (Intel HDA)                                                      | 1        | 2%      |
@@ -1896,26 +1896,26 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                    | 1        | 5.56%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 1        | 5.56%   |
-| Unknown RAM Module 4GB DIMM DDR3 1067MT/s                    | 1        | 5.56%   |
-| Unknown RAM Module 2GB DIMM SDRAM                            | 1        | 5.56%   |
-| Unknown RAM Module 2GB DIMM                                  | 1        | 5.56%   |
-| Unifosa RAM Module 2GB DIMM DDR3 1333MT/s                    | 1        | 5.56%   |
-| SK hynix RAM HYMP512U64CP8-Y5 1GB DIMM                       | 1        | 5.56%   |
-| Silicon Power RAM SP016GBLFU266B02 16GB DIMM DDR4 2667MT/s   | 1        | 5.56%   |
-| Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s          | 1        | 5.56%   |
-| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s          | 1        | 5.56%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 5.56%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s          | 1        | 5.56%   |
-| Kingston RAM 9905678-005.A00G 8GB DIMM DDR4 2400MT/s         | 1        | 5.56%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s       | 1        | 5.56%   |
-| Crucial RAM CT16G4SFD8266.M16FJ 16384MB SODIMM DDR4 2667MT/s | 1        | 5.56%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
-| Corsair RAM CM4X8GF2400Z16K4 8GB DIMM DDR4 2400MT/s          | 1        | 5.56%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                  | 1        | 5.56%   |
+| Model                                                      | Desktops | Percent |
+|------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                  | 1        | 5.56%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                  | 1        | 5.56%   |
+| Unknown RAM Module 4GB DIMM DDR3 1067MT/s                  | 1        | 5.56%   |
+| Unknown RAM Module 2GB DIMM SDRAM                          | 1        | 5.56%   |
+| Unknown RAM Module 2GB DIMM                                | 1        | 5.56%   |
+| Unifosa RAM Module 2GB DIMM DDR3 1333MT/s                  | 1        | 5.56%   |
+| SK hynix RAM HYMP512U64CP8-Y5 1GB DIMM                     | 1        | 5.56%   |
+| Silicon Power RAM SP016GBLFU266B02 16GB DIMM DDR4 2667MT/s | 1        | 5.56%   |
+| Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
+| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s        | 1        | 5.56%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 5.56%   |
+| Kingston RAM 9905678-005.A00G 8GB DIMM DDR4 2400MT/s       | 1        | 5.56%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s     | 1        | 5.56%   |
+| Crucial RAM CT16G4SFD8266.M16FJ 16GB SODIMM DDR4 2667MT/s  | 1        | 5.56%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
+| Corsair RAM CM4X8GF2400Z16K4 8GB DIMM DDR4 2400MT/s        | 1        | 5.56%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                | 1        | 5.56%   |
 
 Memory Kind
 -----------

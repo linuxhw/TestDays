@@ -547,8 +547,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 6        | 60%     |
-| No        | 4        | 40%     |
+| Yes       | 7        | 70%     |
+| No        | 3        | 30%     |
 
 Has Ethernet
 ------------
@@ -671,7 +671,7 @@ Hard drive models
 | Seagate ST500DM002-1BD142 500GB      | 1        | 5.56%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1        | 5.56%   |
 | SanDisk SD8SB8U-256G-1006 256GB SSD  | 1        | 5.56%   |
-| SanDisk Portable SSD 2TB             | 1        | 5.56%   |
+| SanDisk Portable SSD 1TB             | 1        | 5.56%   |
 | Samsung SSD 960 EVO 250GB            | 1        | 5.56%   |
 | Samsung SSD 860 QVO 1TB              | 1        | 5.56%   |
 | Kingston SA400S37480G 480GB SSD      | 1        | 5.56%   |
@@ -752,9 +752,9 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 8        | 11     | 57.14%  |
-| 0.51-1.0   | 3        | 3      | 21.43%  |
-| 1.01-2.0   | 2        | 2      | 14.29%  |
+| 0.51-1.0   | 4        | 4      | 28.57%  |
 | 2.01-3.0   | 1        | 1      | 7.14%   |
+| 1.01-2.0   | 1        | 1      | 7.14%   |
 
 Space Total
 -----------
@@ -1168,10 +1168,10 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Vizio M220MV VIZ0062 1920x1080 480x270mm 21.7-inch                   | 1        | 16.67%  |
+| Vizio M220MV VIZ0062 1920x1080 509x286mm 23.0-inch                   | 1        | 16.67%  |
 | Samsung Electronics SMB2330H SAM064A 1920x1080 509x286mm 23.0-inch   | 1        | 16.67%  |
-| Samsung Electronics LCD Monitor SAM0D4B 1366x768 609x347mm 27.6-inch | 1        | 16.67%  |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch              | 1        | 16.67%  |
+| Samsung Electronics LCD Monitor SAM0D4B 1360x768 609x347mm 27.6-inch | 1        | 16.67%  |
+| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch              | 1        | 16.67%  |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                    | 1        | 16.67%  |
 | Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                  | 1        | 16.67%  |
 

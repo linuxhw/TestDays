@@ -724,8 +724,8 @@ Desktop Environment
 | XFCE           | 18        | 7.06%   |
 | KDE            | 15        | 5.88%   |
 | MATE           | 9         | 3.53%   |
-| sway           | 5         | 1.96%   |
-| Xsession       | 4         | 1.57%   |
+| Sway           | 5         | 1.96%   |
+| XSession       | 4         | 1.57%   |
 | LXQt           | 4         | 1.57%   |
 | LXDE           | 4         | 1.57%   |
 | DWM            | 4         | 1.57%   |
@@ -1173,8 +1173,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 213       | 87.3%   |
-| Yes       | 31        | 12.7%   |
+| No        | 212       | 86.89%  |
+| Yes       | 32        | 13.11%  |
 
 Has Ethernet
 ------------
@@ -2221,11 +2221,11 @@ Monitor models
 | Samsung Electronics U28E570 SAM0D71 3840x2160 608x345mm 27.5-inch        | 2         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC3245 1366x768 344x194mm 15.5-inch     | 2         | 0.67%   |
 | Samsung Electronics LCD Monitor SAM0B7C 1920x1080 886x498mm 40.0-inch    | 2         | 0.67%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch        | 2         | 0.67%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch        | 2         | 0.67%   |
 | LGD LCD Monitor 1920x1080                                                | 2         | 0.67%   |
 | LG Display LCD Monitor LGD0657 1920x1080 344x194mm 15.5-inch             | 2         | 0.67%   |
 | LG Display LCD Monitor LGD062C 1920x1080 309x174mm 14.0-inch             | 2         | 0.67%   |
-| LG Display LCD Monitor LGD045D 1366x768 344x194mm 15.5-inch              | 2         | 0.67%   |
+| LG Display LCD Monitor LGD045D 1366x768 345x194mm 15.6-inch              | 2         | 0.67%   |
 | Gigabyte Technology G34WQC GBT3400 3440x1440 800x330mm 34.1-inch         | 2         | 0.67%   |
 | Fujitsu Siemens P24W-6 IPS FUS07EA 1920x1200 518x324mm 24.1-inch         | 2         | 0.67%   |
 | Dell U2715H DELD065 2560x1440 600x340mm 27.2-inch                        | 2         | 0.67%   |
@@ -2241,7 +2241,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO5A2D 1920x1080 293x165mm 13.2-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO408D 1920x1080 309x174mm 14.0-inch           | 2         | 0.67%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch           | 2         | 0.67%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO305C 1366x768 256x144mm 11.6-inch            | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch            | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO226D 1920x1080 276x155mm 12.5-inch           | 2         | 0.67%   |
@@ -2535,7 +2535,7 @@ Wireless vendors
 | Broadcom                        | 6         | 2.34%   |
 | Dell                            | 4         | 1.56%   |
 | Qualcomm                        | 3         | 1.17%   |
-| Fibocom                         | 3         | 1.17%   |
+| FIBOCOM                         | 3         | 1.17%   |
 | Ralink Technology               | 2         | 0.78%   |
 | Qualcomm Atheros Communications | 2         | 0.78%   |
 | MediaTek                        | 2         | 0.78%   |
@@ -2946,17 +2946,16 @@ Memory module models
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 6         | 2.04%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s         | 6         | 2.04%   |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 5         | 1.7%    |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 5         | 1.7%    |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 5         | 1.7%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s        | 5         | 1.7%    |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s       | 5         | 1.7%    |
-| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s       | 4         | 1.36%   |
+| Samsung RAM M471A2G44AM0-CWE 16384MB SODIMM DDR4 3200MT/s    | 4         | 1.36%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s        | 4         | 1.36%   |
 | Unknown RAM Module 1GB SODIMM DDR                            | 3         | 1.02%   |
 | SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s              | 3         | 1.02%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s     | 3         | 1.02%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 3         | 1.02%   |
@@ -2967,13 +2966,14 @@ Memory module models
 | Kingston RAM 9905744-066.A00G 32GB SODIMM DDR4 3200MT/s      | 3         | 1.02%   |
 | SK hynix RAM Module 4GB SODIMM DDR4 2400MT/s                 | 2         | 0.68%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s        | 2         | 0.68%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 2         | 0.68%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMAA4GS6AJR8N-XN 32GB SODIMM DDR4 3200MT/s      | 2         | 0.68%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s | 2         | 0.68%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s    | 2         | 0.68%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8192MB SODIMM DDR4 2667MT/s    | 2         | 0.68%   |
 | Samsung RAM Module 8GB SODIMM DDR4 3200MT/s                  | 2         | 0.68%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 3200MT/s               | 2         | 0.68%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.68%   |
@@ -3182,7 +3182,7 @@ Camera device models
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 3         | 1.36%   |
 | Logitech HD Pro Webcam C920                         | 3         | 1.36%   |
 | Sunplus HD WebCam                                   | 2         | 0.91%   |
-| Samsung Galaxy A5 (MTP)                             | 2         | 0.91%   |
+| Samsung Galaxy series, misc. (MTP mode)             | 2         | 0.91%   |
 | Realtek USB2.0 HD UVC WebCam                        | 2         | 0.91%   |
 | Realtek Integrated Webcam                           | 2         | 0.91%   |
 | Quanta VGA WebCam                                   | 2         | 0.91%   |
@@ -3254,7 +3254,7 @@ Fingerprint sensor models
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor     | 1         | 1.85%   |
 | Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 1.85%   |
 | Synaptics Metallica MOH Touch Fingerprint Reader           | 1         | 1.85%   |
-| LighTuning ES603 Swipe Fingerprint Sensor                  | 1         | 1.85%   |
+| LighTuning EgisTec_ES603                                   | 1         | 1.85%   |
 | Elan ELAN:ARM-M4                                           | 1         | 1.85%   |
 | AuthenTec AES2501 Fingerprint Sensor                       | 1         | 1.85%   |
 

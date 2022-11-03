@@ -155,7 +155,7 @@ Contents
 Test Cases
 ----------
 
-Total: 60
+Total: 59
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
@@ -179,7 +179,6 @@ Total: 60
 | Dell     | 0HY9JP A02                  | [bc850554b2](https://linux-hardware.org/?probe=bc850554b2) | Mar 16, 2022 |
 | Foxconn  | 2A8C                        | [80e5e3a26c](https://linux-hardware.org/?probe=80e5e3a26c) | Mar 15, 2022 |
 | ABIT     | IP35-E                      | [67d9f7e94e](https://linux-hardware.org/?probe=67d9f7e94e) | Feb 17, 2022 |
-| Acer     | Aspire TC-895 V:1.0         | [fb0408c4ea](https://linux-hardware.org/?probe=fb0408c4ea) | Feb 10, 2022 |
 | Pegatron | 2ACB                        | [b7987fdaa7](https://linux-hardware.org/?probe=b7987fdaa7) | Feb 10, 2022 |
 | Acer     | Aspire TC-895 V:1.0         | [4fe66f8af6](https://linux-hardware.org/?probe=4fe66f8af6) | Feb 09, 2022 |
 | EVGA     | X58 SLI FTW3 Tylersburg     | [9e4639427d](https://linux-hardware.org/?probe=9e4639427d) | Jan 03, 2022 |
@@ -601,16 +600,16 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2011 | 9        | 25%     |
+| 2008 | 7        | 19.44%  |
 | 2012 | 6        | 16.67%  |
-| 2008 | 6        | 16.67%  |
 | 2010 | 4        | 11.11%  |
 | 2007 | 3        | 8.33%   |
 | 2018 | 2        | 5.56%   |
-| 2009 | 2        | 5.56%   |
 | 2021 | 1        | 2.78%   |
 | 2020 | 1        | 2.78%   |
 | 2019 | 1        | 2.78%   |
 | 2016 | 1        | 2.78%   |
+| 2009 | 1        | 2.78%   |
 
 Form Factor
 -----------
@@ -709,8 +708,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 18       | 50%     |
-| No        | 18       | 50%     |
+| Yes       | 19       | 52.78%  |
+| No        | 17       | 47.22%  |
 
 Has Ethernet
 ------------
@@ -1560,7 +1559,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0424 1920x1200 518x324mm 24.1-inch  | 1        | 2.38%   |
 | Samsung Electronics SyncMaster SAM0193 1280x1024 376x301mm 19.0-inch  | 1        | 2.38%   |
 | Samsung Electronics S27C450 SAM09D8 1920x1080 598x336mm 27.0-inch     | 1        | 2.38%   |
-| Samsung Electronics S20B300 SAM08A8 1600x900 440x250mm 19.9-inch      | 1        | 2.38%   |
+| Samsung Electronics S20B300 SAM08A8 1600x900 443x249mm 20.0-inch      | 1        | 2.38%   |
 | Samsung Electronics S19C300 SAM0A13 1366x768 410x230mm 18.5-inch      | 1        | 2.38%   |
 | Samsung Electronics LU28R55 SAM1018 3840x2160 632x360mm 28.6-inch     | 1        | 2.38%   |
 | Samsung Electronics LCD Monitor SyncMaster 5280x1080                  | 1        | 2.38%   |
@@ -1573,11 +1572,11 @@ Monitor models
 | MSI G271 MSI3CB5 1920x1080 598x336mm 27.0-inch                        | 1        | 2.38%   |
 | Hitachi N91W DVI HIT6D0D 1440x900 410x260mm 19.1-inch                 | 1        | 2.38%   |
 | Hewlett-Packard w17e HWP26E0 1440x900 408x255mm 18.9-inch             | 1        | 2.38%   |
-| Hewlett-Packard vs17 HWP2647 1280x1024 337x270mm 17.0-inch            | 1        | 2.38%   |
+| Hewlett-Packard vs17 HWP2647 1280x1024 330x270mm 16.8-inch            | 1        | 2.38%   |
 | Hewlett-Packard TouchSmart HWP4212 1920x1080 509x286mm 23.0-inch      | 1        | 2.38%   |
 | Hewlett-Packard P201 HWP3056 1600x900 443x249mm 20.0-inch             | 1        | 2.38%   |
 | Hewlett-Packard LV2311 HWP3006 1920x1080 510x287mm 23.0-inch          | 1        | 2.38%   |
-| Hewlett-Packard LA1951 HWP285A 1280x1024 380x300mm 19.1-inch          | 1        | 2.38%   |
+| Hewlett-Packard LCD Monitor HWP285A 1920x1080 470x270mm 21.3-inch     | 1        | 2.38%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch           | 1        | 2.38%   |
 | Hewlett-Packard f1503 HWP2590 1024x768 304x228mm 15.0-inch            | 1        | 2.38%   |
 | Hewlett-Packard All-in-One HWP4211 1920x1080 509x286mm 23.0-inch      | 1        | 2.38%   |
@@ -1773,7 +1772,7 @@ Controller models
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                               | 1        | 1.69%   |
 | Realtek RTL8125 2.5GbE Controller                                                                      | 1        | 1.69%   |
 | Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                                              | 1        | 1.69%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz]          | 1        | 1.69%   |
+| Realtek 802.11ac WLAN Adapter                                                                          | 1        | 1.69%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                                                  | 1        | 1.69%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                                              | 1        | 1.69%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                             | 1        | 1.69%   |
@@ -1839,7 +1838,7 @@ Wireless models
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                                                | 1        | 5.26%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                               | 1        | 5.26%   |
 | Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                                              | 1        | 5.26%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz]          | 1        | 5.26%   |
+| Realtek 802.11ac WLAN Adapter                                                                          | 1        | 5.26%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                                                  | 1        | 5.26%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                                              | 1        | 5.26%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                             | 1        | 5.26%   |
@@ -2111,17 +2110,17 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR2                                 | 1        | 2.63%   |
 | Unknown RAM Module 1024MB DIMM DDR 133MT/s                          | 1        | 2.63%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s               | 1        | 2.63%   |
-| SK hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s             | 1        | 2.63%   |
+| SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s                | 1        | 2.63%   |
 | Samsung RAM Module 4GB DIMM DDR3 1067MT/s                           | 1        | 2.63%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s                 | 1        | 2.63%   |
-| Samsung RAM M378B2873FH0-CH9 1024MB DIMM DDR3 1333MT/s              | 1        | 2.63%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s                 | 1        | 2.63%   |
+| Samsung RAM M378B2873FH0-CH9 1GB DIMM DDR3 1333MT/s                 | 1        | 2.63%   |
+| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s              | 1        | 2.63%   |
 | Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM                     | 1        | 2.63%   |
 | Qumo RAM Module 4096MB DIMM DDR3 1333MT/s                           | 1        | 2.63%   |
 | Micron RAM Module 8GB DIMM DDR4 3200MT/s                            | 1        | 2.63%   |
 | Micron RAM 8HTF12864AY-800G1 1GB DIMM DDR2 800MT/s                  | 1        | 2.63%   |
 | Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s                | 1        | 2.63%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8192MB DIMM DDR3 1066MT/s              | 1        | 2.63%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB DIMM DDR3 1600MT/s                 | 1        | 2.63%   |
 | Kingston RAM Module 1GB DIMM DDR2 667MT/s                           | 1        | 2.63%   |
 | Kingston RAM Module 1024MB DIMM DDR2 800MT/s                        | 1        | 2.63%   |
 | Kingston RAM KTW149-ELD 1GB DIMM 1333MT/s                           | 1        | 2.63%   |
@@ -2193,8 +2192,8 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
+| 1600    | 5        | 16.67%  |
 | Unknown | 5        | 16.67%  |
-| 1600    | 4        | 13.33%  |
 | 1333    | 4        | 13.33%  |
 | 3200    | 3        | 10%     |
 | 800     | 2        | 6.67%   |
@@ -2205,7 +2204,6 @@ Memory module speed
 | 2133    | 1        | 3.33%   |
 | 1639    | 1        | 3.33%   |
 | 1067    | 1        | 3.33%   |
-| 1066    | 1        | 3.33%   |
 | 1033    | 1        | 3.33%   |
 | 400     | 1        | 3.33%   |
 | 133     | 1        | 3.33%   |

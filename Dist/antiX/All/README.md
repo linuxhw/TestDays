@@ -762,8 +762,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 32        | 58.18%  |
-| Yes       | 23        | 41.82%  |
+| No        | 33        | 60%     |
+| Yes       | 22        | 40%     |
 
 Has Ethernet
 ------------
@@ -954,7 +954,7 @@ Hard drive models
 | WDC WD1200BEVE-00A0HT0 120GB            | 1         | 1.47%   |
 | WDC WD10SPZX-80Z10T2 1TB                | 1         | 1.47%   |
 | Unknown SR64G  64GB                     | 1         | 1.47%   |
-| Unknown SD/MMC/MS PRO 2GB               | 1         | 1.47%   |
+| Unknown SD/MMC/MS PRO 1TB               | 1         | 1.47%   |
 | Unknown 2GB ATA Flash Disk              | 1         | 1.47%   |
 | Unknown (CF) Card 16GB SSD              | 1         | 1.47%   |
 | Transcend SSD 2GB                       | 1         | 1.47%   |
@@ -1064,9 +1064,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 52        | 61     | 88.14%  |
-| 0.51-1.0   | 6         | 6      | 10.17%  |
-| 1.01-2.0   | 1         | 1      | 1.69%   |
+| 0.01-0.5   | 51        | 60     | 87.93%  |
+| 0.51-1.0   | 6         | 7      | 10.34%  |
+| 1.01-2.0   | 1         | 1      | 1.72%   |
 
 Space Total
 -----------
@@ -1677,10 +1677,10 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch | 2         | 5.56%   |
-| Vizio E28h-C1 VIZ1002 1360x768 610x350mm 27.7-inch                   | 1         | 2.78%   |
+| Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                  | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SEC3741 1366x768 309x174mm 14.0-inch | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch | 1         | 2.78%   |
 | LG Philips LCD Monitor LPLA101 1440x900 367x230mm 17.1-inch          | 1         | 2.78%   |
 | LG Display LP101WH1-TLB5 LGD0248 1366x768 224x126mm 10.1-inch        | 1         | 2.78%   |
 | LG Display LCD Monitor LGD04B2 1920x1080 309x175mm 14.0-inch         | 1         | 2.78%   |
@@ -1689,11 +1689,11 @@ Monitor models
 | LG Display LCD Monitor LGD02C7 1366x768 293x165mm 13.2-inch          | 1         | 2.78%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch              | 1         | 2.78%   |
 | HJW HDMI TO USB HJW0001 1920x1080 708x398mm 32.0-inch                | 1         | 2.78%   |
-| Hewlett-Packard ALL-in-One HPN4018 1920x1080 527x297mm 23.8-inch     | 1         | 2.78%   |
+| Hewlett-Packard Contino HPN4018 1920x1080 527x296mm 23.8-inch        | 1         | 2.78%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch            | 1         | 2.78%   |
 | HannStar LCD Monitor HSD0325 1024x600 195x113mm 8.9-inch             | 1         | 2.78%   |
 | HannStar HSD100IFW4A HSD03EE 1024x600 220x129mm 10.0-inch            | 1         | 2.78%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1         | 2.78%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1         | 2.78%   |
 | Goldstar M2250D GSM57EF 1920x1080 477x268mm 21.5-inch                | 1         | 2.78%   |
 | Goldstar M198WA GSM4B36 1440x900 410x260mm 19.1-inch                 | 1         | 2.78%   |
 | Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                     | 1         | 2.78%   |
@@ -1704,7 +1704,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO8074 1280x800 331x207mm 15.4-inch        | 1         | 2.78%   |
 | AU Optronics LCD Monitor AUO4047 1440x900 303x189mm 14.1-inch        | 1         | 2.78%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO219D 1920x1080 380x210mm 17.1-inch       | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch       | 1         | 2.78%   |
 | AU Optronics LCD Monitor AUO11C2 1024x600 195x113mm 8.9-inch         | 1         | 2.78%   |
 | Arnos Instruments F-417 AIC7450 1280x1024 338x270mm 17.0-inch        | 1         | 2.78%   |
 | Apple LCD Monitor APP9CBE 1280x800 286x179mm 13.3-inch               | 1         | 2.78%   |
@@ -2268,48 +2268,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                           | Computers | Percent |
-|-----------------------------------------------------------------|-----------|---------|
-| Unknown                                                         | 5         | 7.94%   |
-| Unknown RAM Module 2GB DIMM SDRAM                               | 3         | 4.76%   |
-| Unknown RAM Module 1024MB SODIMM DDR                            | 3         | 4.76%   |
-| Unknown RAM Module 512MB SODIMM DDR                             | 2         | 3.17%   |
-| Unknown RAM Module 2GB SODIMM SDRAM                             | 2         | 3.17%   |
-| Unknown RAM Module 256MB SODIMM DRAM                            | 2         | 3.17%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s           | 2         | 3.17%   |
-| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s          | 2         | 3.17%   |
-| Unknown RAM Module 512MB SODIMM DRAM                            | 1         | 1.59%   |
-| Unknown RAM Module 512MB DIMM DDR 400MT/s                       | 1         | 1.59%   |
-| Unknown RAM Module 512MB DIMM DDR 333MT/s                       | 1         | 1.59%   |
-| Unknown RAM Module 512MB DIMM                                   | 1         | 1.59%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 1         | 1.59%   |
-| Unknown RAM Module 2GB SODIMM DDR                               | 1         | 1.59%   |
-| Unknown RAM Module 2GB DIMM DDR3 800MT/s                        | 1         | 1.59%   |
-| Unknown RAM Module 256MB DIMM SDRAM                             | 1         | 1.59%   |
-| Unknown RAM Module 2048MB SODIMM SDRAM                          | 1         | 1.59%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                   | 1         | 1.59%   |
-| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                      | 1         | 1.59%   |
-| Unknown RAM Module 1GB DIMM SDRAM                               | 1         | 1.59%   |
-| Unknown RAM Module 1GB DIMM DDR 333MT/s                         | 1         | 1.59%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                             | 1         | 1.59%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM                          | 1         | 1.59%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                            | 1         | 1.59%   |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                     | 1         | 1.59%   |
-| Unknown (ABCD) RAM 123456789012345678 2048MB DIMM DDR3 2133MT/s | 1         | 1.59%   |
-| Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s  | 1         | 1.59%   |
-| tigo RAM 1600Mhz-4G 4GB DIMM DDR3 1600MT/s                      | 1         | 1.59%   |
-| Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s              | 1         | 1.59%   |
-| SK hynix RAM Module 512MB SODIMM DDR2 533MT/s                   | 1         | 1.59%   |
-| SK hynix RAM Module 1GB SODIMM DDR3 1067MT/s                    | 1         | 1.59%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s           | 1         | 1.59%   |
-| SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 1.59%   |
-| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s          | 1         | 1.59%   |
-| SK hynix RAM HMT112S6BFR6C-G7 1GB SODIMM 1067MT/s               | 1         | 1.59%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s       | 1         | 1.59%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s        | 1         | 1.59%   |
-| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s                  | 1         | 1.59%   |
-| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s              | 1         | 1.59%   |
-| Micron RAM Module 512MB SODIMM DDR2 533MT/s                     | 1         | 1.59%   |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Unknown                                                        | 5         | 7.94%   |
+| Unknown RAM Module 2GB DIMM SDRAM                              | 3         | 4.76%   |
+| Unknown RAM Module 1024MB SODIMM DDR                           | 3         | 4.76%   |
+| Unknown RAM Module 512MB SODIMM DDR                            | 2         | 3.17%   |
+| Unknown RAM Module 2GB SODIMM SDRAM                            | 2         | 3.17%   |
+| Unknown RAM Module 256MB SODIMM DRAM                           | 2         | 3.17%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 2         | 3.17%   |
+| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s         | 2         | 3.17%   |
+| Unknown RAM Module 512MB SODIMM DRAM                           | 1         | 1.59%   |
+| Unknown RAM Module 512MB DIMM DDR 400MT/s                      | 1         | 1.59%   |
+| Unknown RAM Module 512MB DIMM DDR 333MT/s                      | 1         | 1.59%   |
+| Unknown RAM Module 512MB DIMM                                  | 1         | 1.59%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                     | 1         | 1.59%   |
+| Unknown RAM Module 2GB SODIMM DDR                              | 1         | 1.59%   |
+| Unknown RAM Module 2GB DIMM DDR3 800MT/s                       | 1         | 1.59%   |
+| Unknown RAM Module 256MB DIMM SDRAM                            | 1         | 1.59%   |
+| Unknown RAM Module 2048MB SODIMM SDRAM                         | 1         | 1.59%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                  | 1         | 1.59%   |
+| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                     | 1         | 1.59%   |
+| Unknown RAM Module 1GB DIMM SDRAM                              | 1         | 1.59%   |
+| Unknown RAM Module 1GB DIMM DDR 333MT/s                        | 1         | 1.59%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                            | 1         | 1.59%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                         | 1         | 1.59%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                           | 1         | 1.59%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                    | 1         | 1.59%   |
+| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s   | 1         | 1.59%   |
+| Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s | 1         | 1.59%   |
+| tigo RAM 1600Mhz-4G 4GB DIMM DDR3 1600MT/s                     | 1         | 1.59%   |
+| Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s             | 1         | 1.59%   |
+| SK hynix RAM Module 512MB SODIMM DDR2 533MT/s                  | 1         | 1.59%   |
+| SK hynix RAM Module 1GB SODIMM DDR3 1067MT/s                   | 1         | 1.59%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s          | 1         | 1.59%   |
+| SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 1.59%   |
+| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s         | 1         | 1.59%   |
+| SK hynix RAM HMT112S6BFR6C-G7 1GB SODIMM 1067MT/s              | 1         | 1.59%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s         | 1         | 1.59%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 1.59%   |
+| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s                 | 1         | 1.59%   |
+| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s             | 1         | 1.59%   |
+| Micron RAM Module 512MB SODIMM DDR2 533MT/s                    | 1         | 1.59%   |
 
 Memory Kind
 -----------
@@ -2461,7 +2461,7 @@ Camera device models
 | Pixart Imaging GE 1.3 MP MiniCam Pro                    | 2         | 8%      |
 | Microdia Sonix USB 2.0 Camera                           | 2         | 8%      |
 | IMC Networks USB2.0 VGA UVC WebCam                      | 2         | 8%      |
-| Suyin USB2.0 UVC 1.3M WebCam                            | 1         | 4%      |
+| Suyin Lenovo EasyCamera                                 | 1         | 4%      |
 | Sunplus Integrated_Webcam_HD                            | 1         | 4%      |
 | Silicon Motion Lenovo EasyCamera                        | 1         | 4%      |
 | Microdia Integrated Webcam                              | 1         | 4%      |
@@ -2551,8 +2551,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 39        | 70.91%  |
-| 1     | 11        | 20%     |
+| 0     | 41        | 74.55%  |
+| 1     | 9         | 16.36%  |
 | 3     | 3         | 5.45%   |
 | 2     | 2         | 3.64%   |
 
@@ -2566,11 +2566,11 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 11        | 47.83%  |
-| Fingerprint reader       | 5         | 21.74%  |
-| Communication controller | 3         | 13.04%  |
-| Sound                    | 1         | 4.35%   |
-| Net/ethernet             | 1         | 4.35%   |
-| Modem                    | 1         | 4.35%   |
-| Chipcard                 | 1         | 4.35%   |
+| Graphics card            | 9         | 42.86%  |
+| Fingerprint reader       | 5         | 23.81%  |
+| Communication controller | 3         | 14.29%  |
+| Sound                    | 1         | 4.76%   |
+| Net/ethernet             | 1         | 4.76%   |
+| Modem                    | 1         | 4.76%   |
+| Chipcard                 | 1         | 4.76%   |
 

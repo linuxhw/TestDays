@@ -748,8 +748,8 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2018 | 12        | 13.04%  |
 | 2016 | 12        | 13.04%  |
+| 2018 | 11        | 11.96%  |
 | 2019 | 9         | 9.78%   |
 | 2012 | 9         | 9.78%   |
 | 2017 | 8         | 8.7%    |
@@ -760,8 +760,8 @@ Motherboard manufacture year
 | 2011 | 5         | 5.43%   |
 | 2010 | 4         | 4.35%   |
 | 2008 | 4         | 4.35%   |
+| 2015 | 3         | 3.26%   |
 | 2009 | 3         | 3.26%   |
-| 2015 | 2         | 2.17%   |
 | 2007 | 1         | 1.09%   |
 
 Form Factor
@@ -1109,12 +1109,13 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| WDC     | 13        | 14     | 35.14%  |
-| Seagate | 11        | 13     | 29.73%  |
-| Toshiba | 9         | 12     | 24.32%  |
-| Hitachi | 2         | 2      | 5.41%   |
-| HGST    | 1         | 1      | 2.7%    |
-| AAPL    | 1         | 1      | 2.7%    |
+| WDC     | 13        | 14     | 34.21%  |
+| Seagate | 11        | 13     | 28.95%  |
+| Toshiba | 9         | 12     | 23.68%  |
+| Hitachi | 2         | 2      | 5.26%   |
+| SABRENT | 1         | 1      | 2.63%   |
+| HGST    | 1         | 1      | 2.63%   |
+| AAPL    | 1         | 1      | 2.63%   |
 
 SSD Vendor
 ----------
@@ -1151,11 +1152,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 36        | 43     | 33.03%  |
-| SSD     | 35        | 40     | 32.11%  |
-| NVMe    | 30        | 39     | 27.52%  |
-| MMC     | 6         | 6      | 5.5%    |
-| Unknown | 2         | 2      | 1.83%   |
+| HDD     | 37        | 44     | 33.64%  |
+| SSD     | 35        | 40     | 31.82%  |
+| NVMe    | 30        | 38     | 27.27%  |
+| MMC     | 6         | 6      | 5.45%   |
+| Unknown | 2         | 2      | 1.82%   |
 
 Drive Connector
 ---------------
@@ -1182,7 +1183,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 45        | 55     | 65.22%  |
+| 0.01-0.5   | 45        | 56     | 65.22%  |
 | 0.51-1.0   | 23        | 27     | 33.33%  |
 | 1.01-2.0   | 1         | 1      | 1.45%   |
 
@@ -1795,26 +1796,26 @@ Monitor models
 | AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch         | 2         | 1.8%    |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch         | 2         | 1.8%    |
 | AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.8%    |
-| ___ TV ___9000 1360x768                                               | 1         | 0.9%    |
+| ___ LCD TV ___9000 1360x768                                           | 1         | 0.9%    |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 0.9%    |
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch             | 1         | 0.9%    |
-| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 0.9%    |
+| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 0.9%    |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 0.9%    |
 | Sharp LCD Monitor SHP1476 3840x2160 346x194mm 15.6-inch               | 1         | 0.9%    |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 0.9%    |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 0.9%    |
 | Samsung Electronics SMS24A650 SAM082A 1920x1080 531x299mm 24.0-inch   | 1         | 0.9%    |
-| Samsung Electronics LCD Monitor SEC5541 1366x768 340x190mm 15.3-inch  | 1         | 0.9%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 353x198mm 15.9-inch  | 1         | 0.9%    |
+| Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch  | 1         | 0.9%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.9%    |
 | Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 0.9%    |
-| Samsung Electronics LCD Monitor SEC3641 1366x768 353x198mm 15.9-inch  | 1         | 0.9%    |
+| Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 0.9%    |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch  | 1         | 0.9%    |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 0.9%    |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch  | 1         | 0.9%    |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.9%    |
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 0.9%    |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch  | 1         | 0.9%    |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch     | 1         | 0.9%    |
-| Samsung Electronics C27F591 SAM0D36 1920x1080 598x336mm 27.0-inch     | 1         | 0.9%    |
+| Samsung Electronics C27F591 SAM0D36 1920x1080 600x340mm 27.2-inch     | 1         | 0.9%    |
 | Philips 273PLPH PHL08A8 1920x1080 598x336mm 27.0-inch                 | 1         | 0.9%    |
 | PANDA LCD Monitor NCP0046 1920x1080 344x194mm 15.5-inch               | 1         | 0.9%    |
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 0.9%    |
@@ -2176,7 +2177,7 @@ Ethernet models
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 1         | 1.27%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                       | 1         | 1.27%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1         | 1.27%   |
-| Qualcomm Redmi 5 Plus                                                          | 1         | 1.27%   |
+| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                                         | 1         | 1.27%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                      | 1         | 1.27%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 1         | 1.27%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                          | 1         | 1.27%   |
@@ -2309,7 +2310,7 @@ Controller models
 | IMC Networks Bluetooth Radio                                                        | 2         | 2.7%    |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 1.35%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 1         | 1.35%   |
-| Realtek Bluetooth Radio                                                             | 1         | 1.35%   |
+| Realtek RTL8821A Bluetooth                                                          | 1         | 1.35%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 1.35%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 1         | 1.35%   |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 1.35%   |
@@ -2435,48 +2436,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s                  | 2         | 3.92%   |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s             | 2         | 3.92%   |
-| Unknown RAM Module 4096MB SODIMM DDR3                            | 1         | 1.96%   |
-| Unknown RAM Module 1GB SODIMM DDR                                | 1         | 1.96%   |
-| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s            | 1         | 1.96%   |
-| SK hynix RAM Module 2048MB SODIMM DDR2 800MT/s                   | 1         | 1.96%   |
-| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 1.96%   |
-| SK hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s        | 1         | 1.96%   |
-| SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 1.96%   |
-| SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.96%   |
-| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 1.96%   |
-| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s                 | 1         | 1.96%   |
-| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
-| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s         | 1         | 1.96%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
-| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 1.96%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
-| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 1.96%   |
-| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s           | 1         | 1.96%   |
-| Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 1.96%   |
-| Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s           | 1         | 1.96%   |
-| Ramaxel RAM RMT3170EB68E9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
-| Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM DDR3 1067MT/s          | 1         | 1.96%   |
-| Nanya RAM NT4GC64B8HG0NS-DI 4GB SODIMM DDR3 1600MT/s             | 1         | 1.96%   |
-| Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2 667MT/s            | 1         | 1.96%   |
-| Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 1         | 1.96%   |
-| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s           | 1         | 1.96%   |
-| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
-| Kingston RAM 99U5663-003.A00G 16GB SODIMM DDR4 2400MT/s          | 1         | 1.96%   |
-| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
-| Kingston RAM 9905624-044.A00G 8192MB SODIMM DDR4 2400MT/s        | 1         | 1.96%   |
-| G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s           | 1         | 1.96%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                    | 1         | 1.96%   |
-| Elpida RAM EBJ81UG8BBU0-GN-F 8GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
+| Model                                                               | Notebooks | Percent |
+|---------------------------------------------------------------------|-----------|---------|
+| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s                     | 2         | 3.92%   |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s             | 2         | 3.92%   |
+| Unknown RAM Module 4096MB SODIMM DDR3                               | 1         | 1.96%   |
+| Unknown RAM Module 1GB SODIMM DDR                                   | 1         | 1.96%   |
+| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s               | 1         | 1.96%   |
+| SK hynix RAM Module 2048MB SODIMM DDR2 800MT/s                      | 1         | 1.96%   |
+| SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s              | 1         | 1.96%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s              | 1         | 1.96%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s              | 1         | 1.96%   |
+| SK hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s           | 1         | 1.96%   |
+| SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s      | 1         | 1.96%   |
+| SK hynix RAM H9CCNNNCLGALAR-NVD 8192MB Row Of Chips LPDDR3 2133MT/s | 1         | 1.96%   |
+| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                      | 1         | 1.96%   |
+| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s                    | 1         | 1.96%   |
+| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s               | 1         | 1.96%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s               | 1         | 1.96%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s               | 1         | 1.96%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s               | 1         | 1.96%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s               | 1         | 1.96%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s               | 1         | 1.96%   |
+| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s              | 1         | 1.96%   |
+| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s               | 1         | 1.96%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s               | 1         | 1.96%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s               | 1         | 1.96%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s              | 1         | 1.96%   |
+| Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s        | 1         | 1.96%   |
+| Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s              | 1         | 1.96%   |
+| Ramaxel RAM RMT3170EB68E9W1600 4GB SODIMM DDR3 1600MT/s             | 1         | 1.96%   |
+| Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM 1067MT/s                  | 1         | 1.96%   |
+| Nanya RAM NT4GC64B8HG0NS-DI 4GB SODIMM DDR3 1600MT/s                | 1         | 1.96%   |
+| Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2 667MT/s               | 1         | 1.96%   |
+| Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s               | 1         | 1.96%   |
+| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s              | 1         | 1.96%   |
+| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s               | 1         | 1.96%   |
+| Kingston RAM 99U5663-003.A00G 16GB SODIMM DDR4 2400MT/s             | 1         | 1.96%   |
+| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s             | 1         | 1.96%   |
+| Kingston RAM 9905624-044.A00G 8192MB SODIMM DDR4 2400MT/s           | 1         | 1.96%   |
+| G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s              | 1         | 1.96%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                       | 1         | 1.96%   |
+| Elpida RAM EBJ81UG8BBU0-GN-F 8GB SODIMM DDR3 1600MT/s               | 1         | 1.96%   |
 
 Memory Kind
 -----------
@@ -2633,48 +2634,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                                 | Notebooks | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| Chicony HD WebCam                                                     | 6         | 6.98%   |
-| Sunplus Integrated_Webcam_HD                                          | 3         | 3.49%   |
-| Realtek HD WebCam                                                     | 3         | 3.49%   |
-| Microdia Integrated_Webcam_HD                                         | 3         | 3.49%   |
-| IMC Networks USB2.0 HD UVC WebCam                                     | 3         | 3.49%   |
-| Chicony Integrated Camera                                             | 3         | 3.49%   |
-| Suyin HP TrueVision HD Integrated Webcam                              | 2         | 2.33%   |
-| Realtek Integrated Webcam_HD                                          | 2         | 2.33%   |
-| Quanta HD User Facing                                                 | 2         | 2.33%   |
-| IMC Networks USB2.0 VGA UVC WebCam                                    | 2         | 2.33%   |
-| IMC Networks Integrated Camera                                        | 2         | 2.33%   |
-| Cheng Uei Precision Industry (Foxlink) Webcam                         | 2         | 2.33%   |
-| Unknown ATIV VGA CAMERA                                               | 1         | 1.16%   |
-| Syntek USB2.0 Camera                                                  | 1         | 1.16%   |
-| Suyin 1.3M HD WebCam                                                  | 1         | 1.16%   |
-| Sunplus Laptop_Integrated_Webcam_HD                                   | 1         | 1.16%   |
-| Sunplus Laptop Integrated WebCam HD                                   | 1         | 1.16%   |
-| Silicon Motion WebCam SC-10HDD12636N                                  | 1         | 1.16%   |
-| Realtek Laptop Camera                                                 | 1         | 1.16%   |
-| Realtek Integrated Webcam HD                                          | 1         | 1.16%   |
-| Realtek Integrated Webcam                                             | 1         | 1.16%   |
-| Realtek Integrated Camera                                             | 1         | 1.16%   |
-| Realtek HP Truevision HD                                              | 1         | 1.16%   |
-| Quanta VGA WebCam                                                     | 1         | 1.16%   |
-| Quanta USB2.0 HD UVC WebCam                                           | 1         | 1.16%   |
-| Quanta HP Wide Vision HD Camera                                       | 1         | 1.16%   |
-| Quanta HP TrueVision HD Webcam                                        | 1         | 1.16%   |
-| Microdia Webcam                                                       | 1         | 1.16%   |
-| Microdia USB 2.0 Camera                                               | 1         | 1.16%   |
-| Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 1.16%   |
-| Microdia Integrated Webcam HD                                         | 1         | 1.16%   |
-| Microdia Dell Laptop Integrated Webcam HD                             | 1         | 1.16%   |
-| Microdia CameraA                                                      | 1         | 1.16%   |
-| Logitech Webcam C310                                                  | 1         | 1.16%   |
-| Logitech Webcam C270                                                  | 1         | 1.16%   |
-| Logitech HD Pro Webcam C920                                           | 1         | 1.16%   |
-| Lite-On Integrated Camera                                             | 1         | 1.16%   |
-| Lite-On HP HD Webcam                                                  | 1         | 1.16%   |
-| Lite-On HP HD Camera                                                  | 1         | 1.16%   |
-| Lenovo UVC Camera                                                     | 1         | 1.16%   |
+| Model                                         | Notebooks | Percent |
+|-----------------------------------------------|-----------|---------|
+| Chicony HD WebCam                             | 6         | 6.98%   |
+| Sunplus Integrated_Webcam_HD                  | 3         | 3.49%   |
+| Realtek HD WebCam                             | 3         | 3.49%   |
+| Microdia Integrated_Webcam_HD                 | 3         | 3.49%   |
+| IMC Networks USB2.0 HD UVC WebCam             | 3         | 3.49%   |
+| Chicony Integrated Camera                     | 3         | 3.49%   |
+| Suyin HP TrueVision HD Integrated Webcam      | 2         | 2.33%   |
+| Realtek Integrated Webcam_HD                  | 2         | 2.33%   |
+| Quanta HD User Facing                         | 2         | 2.33%   |
+| IMC Networks USB2.0 VGA UVC WebCam            | 2         | 2.33%   |
+| IMC Networks Integrated Camera                | 2         | 2.33%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam | 2         | 2.33%   |
+| Unknown ATIV VGA CAMERA                       | 1         | 1.16%   |
+| Syntek USB2.0 Camera                          | 1         | 1.16%   |
+| Suyin 1.3M HD WebCam                          | 1         | 1.16%   |
+| Sunplus Laptop_Integrated_Webcam_HD           | 1         | 1.16%   |
+| Sunplus Laptop Integrated WebCam HD           | 1         | 1.16%   |
+| Silicon Motion WebCam SC-10HDD12636N          | 1         | 1.16%   |
+| Realtek Laptop Camera                         | 1         | 1.16%   |
+| Realtek Integrated Webcam HD                  | 1         | 1.16%   |
+| Realtek Integrated Webcam                     | 1         | 1.16%   |
+| Realtek Integrated Camera                     | 1         | 1.16%   |
+| Realtek HP Truevision HD                      | 1         | 1.16%   |
+| Quanta VGA WebCam                             | 1         | 1.16%   |
+| Quanta USB2.0 HD UVC WebCam                   | 1         | 1.16%   |
+| Quanta HP Wide Vision HD Camera               | 1         | 1.16%   |
+| Quanta HP TrueVision HD Webcam                | 1         | 1.16%   |
+| Microdia Webcam                               | 1         | 1.16%   |
+| Microdia USB Live camera                      | 1         | 1.16%   |
+| Microdia USB 2.0 Camera                       | 1         | 1.16%   |
+| Microdia Laptop_Integrated_Webcam_0.3M        | 1         | 1.16%   |
+| Microdia Integrated Webcam HD                 | 1         | 1.16%   |
+| Microdia Dell Laptop Integrated Webcam HD     | 1         | 1.16%   |
+| Logitech Webcam C310                          | 1         | 1.16%   |
+| Logitech Webcam C270                          | 1         | 1.16%   |
+| Logitech HD Pro Webcam C920                   | 1         | 1.16%   |
+| Lite-On Integrated Camera                     | 1         | 1.16%   |
+| Lite-On HP HD Webcam                          | 1         | 1.16%   |
+| Lite-On HP HD Camera                          | 1         | 1.16%   |
+| Lenovo UVC Camera                             | 1         | 1.16%   |
 
 Security
 --------

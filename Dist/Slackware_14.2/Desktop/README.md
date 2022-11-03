@@ -1523,12 +1523,12 @@ Monitor models
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.03%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.03%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.03%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 3.03%   |
+| Toshiba TV TSB0206 1920x1080                                         | 1        | 3.03%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 3.03%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1        | 3.03%   |
-| ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1        | 3.03%   |
+| ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1        | 3.03%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1        | 3.03%   |
-| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1        | 3.03%   |
+| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1        | 3.03%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1        | 3.03%   |
 | Iiyama PLE2207WS IVM5609 1680x1050 465x291mm 21.6-inch               | 1        | 3.03%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1        | 3.03%   |
@@ -1539,7 +1539,7 @@ Monitor models
 | Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch               | 1        | 3.03%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1        | 3.03%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1        | 3.03%   |
-| Gigabyte Technology G27Q GBT2709 2560x1440 600x330mm 27.0-inch       | 1        | 3.03%   |
+| Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1        | 3.03%   |
 | Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                     | 1        | 3.03%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 3.03%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1        | 3.03%   |
@@ -2037,10 +2037,10 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.5%    |
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.5%    |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s          | 1        | 2.5%    |
-| Team RAM TEAMGROUP-UD4-3600 32GB DIMM DDR4 3600MT/s        | 1        | 2.5%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s         | 1        | 2.5%    |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s        | 1        | 2.5%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 2.5%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.5%    |
-| SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s    | 1        | 2.5%    |
+| SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.5%    |
 | SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.5%    |
 | SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.5%    |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.5%    |
@@ -2052,7 +2052,7 @@ Memory module models
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.5%    |
 | Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM 1600MT/s           | 1        | 2.5%    |
-| Kingston RAM 99U5471-012.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.5%    |
 | Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s    | 1        | 2.5%    |
 | HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s               | 1        | 2.5%    |
@@ -2133,10 +2133,11 @@ Memory module speed
 | 2400    | 3        | 8.57%   |
 | 1333    | 3        | 8.57%   |
 | 667     | 3        | 8.57%   |
-| 3200    | 2        | 5.71%   |
 | 2666    | 2        | 5.71%   |
 | 1867    | 2        | 5.71%   |
 | 65535   | 1        | 2.86%   |
+| 3800    | 1        | 2.86%   |
+| 3200    | 1        | 2.86%   |
 | 2667    | 1        | 2.86%   |
 | 2133    | 1        | 2.86%   |
 | 2000    | 1        | 2.86%   |

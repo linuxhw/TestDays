@@ -986,7 +986,7 @@ Hard drive models
 | WDC WD10EZEX-08M2NA0 1TB          | 1        | 0.75%   |
 | WDC WD10EURX-63UY4Y0 1TB          | 1        | 0.75%   |
 | WDC WD10EALX-009BA0 1TB           | 1        | 0.75%   |
-| Unknown SD/MMC/MS PRO 2GB         | 1        | 0.75%   |
+| Unknown SD/MMC/MS PRO 1TB         | 1        | 0.75%   |
 
 HDD Vendor
 ----------
@@ -1073,11 +1073,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 55       | 101    | 63.22%  |
-| 0.51-1.0   | 21       | 33     | 24.14%  |
-| 1.01-2.0   | 6        | 12     | 6.9%    |
-| 4.01-10.0  | 3        | 3      | 3.45%   |
-| 2.01-3.0   | 2        | 6      | 2.3%    |
+| 0.01-0.5   | 55       | 99     | 61.8%   |
+| 0.51-1.0   | 22       | 34     | 24.72%  |
+| 1.01-2.0   | 7        | 13     | 7.87%   |
+| 4.01-10.0  | 3        | 3      | 3.37%   |
+| 2.01-3.0   | 2        | 6      | 2.25%   |
 
 Space Total
 -----------
@@ -1686,48 +1686,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                    | 3        | 4.05%   |
-| ___ LCDTV16 ___0101 1920x1080                                           | 1        | 1.35%   |
-| Vizio E28h-C1 VIZ1002 1360x768 610x350mm 27.7-inch                      | 1        | 1.35%   |
-| ViewSonic VX2476 Series VSCD332 1920x1080 527x296mm 23.8-inch           | 1        | 1.35%   |
-| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 1.35%   |
-| ViewSonic VA1931 Series VSCAC25 1366x768 410x230mm 18.5-inch            | 1        | 1.35%   |
-| Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 1        | 1.35%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 1.35%   |
-| Samsung Electronics T27C370 SAM0ADE 1920x1080 598x336mm 27.0-inch       | 1        | 1.35%   |
-| Samsung Electronics SyncMaster SAM0595 2048x1152 510x287mm 23.0-inch    | 1        | 1.35%   |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 470x300mm 22.0-inch    | 1        | 1.35%   |
-| Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch     | 1        | 1.35%   |
-| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch     | 1        | 1.35%   |
-| Samsung Electronics SA300/SA350 SAM078B 1600x900 443x249mm 20.0-inch    | 1        | 1.35%   |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 1.35%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch   | 1        | 1.35%   |
-| Samsung Electronics LCD Monitor S24F350 1920x1080                       | 1        | 1.35%   |
-| SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch                   | 1        | 1.35%   |
-| Ruijiang HDMI RJT003A 1920x1080 800x480mm 36.7-inch                     | 1        | 1.35%   |
-| Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch                 | 1        | 1.35%   |
-| PDA P24FA2 PDA2380 1920x1080 409x230mm 18.5-inch                        | 1        | 1.35%   |
-| LG Electronics LCD Monitor W2252 3600x1080                              | 1        | 1.35%   |
-| LG Electronics LCD Monitor M227WAP 1920x1080                            | 1        | 1.35%   |
-| LG Electronics LCD Monitor LG ULTRAGEAR 2560x1440                       | 1        | 1.35%   |
-| KIV Kivi TV KIV0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.35%   |
-| Iiyama PL3270Q IVM7608 2560x1440 700x390mm 31.5-inch                    | 1        | 1.35%   |
-| Iiyama PL2773H IVM660A 1920x1080 598x336mm 27.0-inch                    | 1        | 1.35%   |
-| HPN LCD Monitor HP 27fh 1920x1080                                       | 1        | 1.35%   |
-| HKC LCD Monitor TV 1920x1080                                            | 1        | 1.35%   |
-| Hewlett-Packard 27es HWP3325 1920x1080 598x336mm 27.0-inch              | 1        | 1.35%   |
-| Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 1.35%   |
-| Haier AQUA TV HRE0030 1920x1080 708x398mm 32.0-inch                     | 1        | 1.35%   |
-| Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                   | 1        | 1.35%   |
-| Goldstar L1750SQ GSM43E8 1280x1024 338x270mm 17.0-inch                  | 1        | 1.35%   |
-| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 1.35%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 1        | 1.35%   |
-| Goldstar E2250 GSM578D 1920x1080 477x268mm 21.5-inch                    | 1        | 1.35%   |
-| Goldstar E2241 GSM5818 1920x1080 480x270mm 21.7-inch                    | 1        | 1.35%   |
-| Fujitsu Siemens P19-1 FUS0452 1280x1024 376x301mm 19.0-inch             | 1        | 1.35%   |
-| Dell U3415W DELA0A7 3440x1440 798x335mm 34.1-inch                       | 1        | 1.35%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                  | 3        | 4.05%   |
+| ___ LCD TV ___0101 1366x768                                           | 1        | 1.35%   |
+| Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                   | 1        | 1.35%   |
+| ViewSonic VX2476 Series VSCD332 1920x1080 527x296mm 23.8-inch         | 1        | 1.35%   |
+| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch         | 1        | 1.35%   |
+| ViewSonic VA1931 Series VSCAC25 1366x768 410x230mm 18.5-inch          | 1        | 1.35%   |
+| Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                   | 1        | 1.35%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                 | 1        | 1.35%   |
+| Samsung Electronics T27C370 SAM0ADE 1920x1080 598x336mm 27.0-inch     | 1        | 1.35%   |
+| Samsung Electronics SyncMaster SAM0595 2048x1152 510x287mm 23.0-inch  | 1        | 1.35%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch  | 1        | 1.35%   |
+| Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch   | 1        | 1.35%   |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch   | 1        | 1.35%   |
+| Samsung Electronics SA300/SA350 SAM078B 1600x900 443x249mm 20.0-inch  | 1        | 1.35%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch | 1        | 1.35%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 890x500mm 40.2-inch | 1        | 1.35%   |
+| Samsung Electronics LCD Monitor S24F350 1920x1080                     | 1        | 1.35%   |
+| SAC LED MONITOR SAC952D 1920x1080 480x270mm 21.7-inch                 | 1        | 1.35%   |
+| Ruijiang HDMI RJT003A 1920x1080 800x480mm 36.7-inch                   | 1        | 1.35%   |
+| Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch               | 1        | 1.35%   |
+| PDA P24FA2 PDA2380 1920x1080 409x230mm 18.5-inch                      | 1        | 1.35%   |
+| LG Electronics LCD Monitor W2252 3600x1080                            | 1        | 1.35%   |
+| LG Electronics LCD Monitor M227WAP 1920x1080                          | 1        | 1.35%   |
+| LG Electronics LCD Monitor LG ULTRAGEAR 2560x1440                     | 1        | 1.35%   |
+| KIV Kivi TV KIV0030 1920x1080 708x398mm 32.0-inch                     | 1        | 1.35%   |
+| Iiyama PL3270Q IVM7608 2560x1440 700x390mm 31.5-inch                  | 1        | 1.35%   |
+| Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                  | 1        | 1.35%   |
+| HPN LCD Monitor HP 27fh 1920x1080                                     | 1        | 1.35%   |
+| HKC LCD Monitor TV 1920x1080                                          | 1        | 1.35%   |
+| Hewlett-Packard 27es HWP3325 1920x1080 598x336mm 27.0-inch            | 1        | 1.35%   |
+| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch             | 1        | 1.35%   |
+| Haier AQUA TV HRE0030 1920x1080 708x398mm 32.0-inch                   | 1        | 1.35%   |
+| Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                 | 1        | 1.35%   |
+| Goldstar L1750SQ GSM43E8 1280x1024 338x270mm 17.0-inch                | 1        | 1.35%   |
+| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch             | 1        | 1.35%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 1.35%   |
+| Goldstar E2250 GSM578D 1920x1080 477x268mm 21.5-inch                  | 1        | 1.35%   |
+| Goldstar E2241 GSM5818 1920x1080 480x270mm 21.7-inch                  | 1        | 1.35%   |
+| Fujitsu Siemens P19-1 FUS0452 1280x1024 376x301mm 19.0-inch           | 1        | 1.35%   |
+| Dell U3415W DELA0A7 3440x1440 798x335mm 34.1-inch                     | 1        | 1.35%   |
 
 Monitor Resolution
 ------------------
@@ -2075,7 +2075,7 @@ Ethernet models
 | Intel 82566DC Gigabit Network Connection                          | 1        | 1.41%   |
 | Intel 82562V-2 10/100 Network Connection                          | 1        | 1.41%   |
 | Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)            | 1        | 1.41%   |
-| Huawei YAL-L21                                                    | 1        | 1.41%   |
+| Huawei LYA-L09                                                    | 1        | 1.41%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 1.41%   |
 
 Net Controller Kind
@@ -2223,15 +2223,15 @@ Sound card models
 | Nvidia GP107GL High Definition Audio Controller                            | 4        | 3.05%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 4        | 3.05%   |
 | Intel 200 Series PCH HD Audio                                              | 4        | 3.05%   |
+| JMTek USB PnP Audio Device                                                 | 3        | 2.29%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 3        | 2.29%   |
 | AMD Starship/Matisse HD Audio Controller                                   | 3        | 2.29%   |
 | AMD FCH Azalia Controller                                                  | 3        | 2.29%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 2        | 1.53%   |
-| JMTek USB PnP Audio Device                                                 | 2        | 1.53%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 2        | 1.53%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 1.53%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 1.53%   |
-| Generalplus Technology Usb Audio Device                                    | 2        | 1.53%   |
+| Generalplus Technology USB Audio Device                                    | 2        | 1.53%   |
 | AMD RS880 HDMI Audio [Radeon HD 4200 Series]                               | 2        | 1.53%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 2        | 1.53%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 2        | 1.53%   |
@@ -2250,7 +2250,7 @@ Sound card models
 | Nvidia GF116 High Definition Audio Controller                              | 1        | 0.76%   |
 | Nvidia GF110 High Definition Audio Controller                              | 1        | 0.76%   |
 | Nvidia GF108 High Definition Audio Controller                              | 1        | 0.76%   |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 0.76%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.76%   |
 
 Memory
 ------
@@ -2311,7 +2311,7 @@ Memory module models
 | Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s      | 1        | 3.03%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 3.03%   |
 | Kingston RAM HP497157-B88-ELDW 2048MB DIMM DDR3 1333MT/s | 1        | 3.03%   |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3             | 1        | 3.03%   |
+| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 3.03%   |
 | G.Skill RAM F3-12800CL9-4GBRL 4GB DIMM DDR3 1866MT/s     | 1        | 3.03%   |
 | Crucial RAM CT51264AA667.M16FC 4GB DIMM DDR2 667MT/s     | 1        | 3.03%   |
 | Crucial RAM CT12864BA1339A.C8F 1024MB DIMM DDR3 667MT/s  | 1        | 3.03%   |
@@ -2477,7 +2477,7 @@ Camera device models
 |-------------------------------------------------------|----------|---------|
 | Logitech HD Pro Webcam C920                           | 4        | 25%     |
 | Z-Star Venus USB2.0 Camera                            | 1        | 6.25%   |
-| Samsung Galaxy A5 (MTP)                               | 1        | 6.25%   |
+| Samsung Galaxy series, misc. (MTP mode)               | 1        | 6.25%   |
 | Microsoft LifeCam VX-2000                             | 1        | 6.25%   |
 | Microdia Sonix USB 2.0 Camera                         | 1        | 6.25%   |
 | Logitech Webcam C270                                  | 1        | 6.25%   |

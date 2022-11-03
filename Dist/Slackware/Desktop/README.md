@@ -404,7 +404,7 @@ Desktop Environment
 | Unknown | 23       | 41.07%  |
 | XFCE    | 16       | 28.57%  |
 | KDE5    | 13       | 23.21%  |
-| FVWM    | 2        | 3.57%   |
+| fvwm    | 2        | 3.57%   |
 | MATE    | 1        | 1.79%   |
 | KDE     | 1        | 1.79%   |
 
@@ -1096,13 +1096,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 62     | 40.91%  |
-| 0.51-1.0   | 22       | 45     | 25%     |
-| 1.01-2.0   | 12       | 19     | 13.64%  |
-| 2.01-3.0   | 7        | 15     | 7.95%   |
-| 3.01-4.0   | 6        | 17     | 6.82%   |
-| 4.01-10.0  | 3        | 3      | 3.41%   |
-| 10.01-20.0 | 2        | 5      | 2.27%   |
+| 0.01-0.5   | 36       | 62     | 40.45%  |
+| 0.51-1.0   | 22       | 45     | 24.72%  |
+| 1.01-2.0   | 12       | 18     | 13.48%  |
+| 2.01-3.0   | 7        | 15     | 7.87%   |
+| 3.01-4.0   | 6        | 17     | 6.74%   |
+| 4.01-10.0  | 4        | 4      | 4.49%   |
+| 10.01-20.0 | 2        | 5      | 2.25%   |
 
 Space Total
 -----------
@@ -1762,7 +1762,7 @@ Monitor models
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 1.69%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 1.69%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 1.69%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 1.69%   |
+| Toshiba TV TSB0206 1920x1080                                         | 1        | 1.69%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 1.69%   |
 | Samsung Electronics SyncMaster SAM0248 1280x1024 380x300mm 19.1-inch | 1        | 1.69%   |
 | Samsung Electronics SyncMaster SAM01AD 1600x1200 408x306mm 20.1-inch | 1        | 1.69%   |
@@ -1771,10 +1771,10 @@ Monitor models
 | Samsung Electronics SM2333T SAM0736 1920x1080 477x268mm 21.5-inch    | 1        | 1.69%   |
 | Samsung Electronics S24D390 SAM0B65 1920x1080 521x293mm 23.5-inch    | 1        | 1.69%   |
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch    | 1        | 1.69%   |
-| ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1        | 1.69%   |
+| ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1        | 1.69%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1        | 1.69%   |
 | Lenovo LEN L171p LEN24C9 1280x1024 338x270mm 17.0-inch               | 1        | 1.69%   |
-| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1        | 1.69%   |
+| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1        | 1.69%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1        | 1.69%   |
 | IOD LCD-GL211X IOD151D 1920x1080 458x258mm 20.7-inch                 | 1        | 1.69%   |
 | Iiyama PLE2207WS IVM5609 1680x1050 465x291mm 21.6-inch               | 1        | 1.69%   |
@@ -1790,7 +1790,7 @@ Monitor models
 | Goldstar E1641 GSM8B3E 1366x768 344x194mm 15.5-inch                  | 1        | 1.69%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1        | 1.69%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1        | 1.69%   |
-| Gigabyte Technology G27Q GBT2709 2560x1440 600x330mm 27.0-inch       | 1        | 1.69%   |
+| Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1        | 1.69%   |
 | GDH CHHWJT GDH0030 1440x900 1150x650mm 52.0-inch                     | 1        | 1.69%   |
 | Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                     | 1        | 1.69%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 1.69%   |
@@ -2339,7 +2339,8 @@ Memory module models
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 2.9%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s          | 2        | 2.9%    |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s         | 2        | 2.9%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s          | 2        | 2.9%    |
 | Unknown RAM Module 4GB DIMM DDR3 1066MT/s                   | 1        | 1.45%   |
 | Unknown RAM Module 4096MB DIMM DDR3 65535MT/s               | 1        | 1.45%   |
 | Unknown RAM Module 2048MB DIMM DDR 800MT/s                  | 1        | 1.45%   |
@@ -2348,12 +2349,10 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 667MT/s                      | 1        | 1.45%   |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s           | 1        | 1.45%   |
 | Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 1.45%   |
-| Team RAM TEAMGROUP-UD4-3600 32GB DIMM DDR4 3600MT/s         | 1        | 1.45%   |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s         | 1        | 1.45%   |
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.45%   |
 | SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.45%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1        | 1.45%   |
-| SK hynix RAM HMT41GU6BFR8A-PB 8192MB DIMM DDR3 2000MT/s     | 1        | 1.45%   |
+| SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s        | 1        | 1.45%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s     | 1        | 1.45%   |
 | SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s     | 1        | 1.45%   |
 | SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s        | 1        | 1.45%   |
@@ -2378,6 +2377,7 @@ Memory module models
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 975MT/s      | 1        | 1.45%   |
 | Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s    | 1        | 1.45%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM 1600MT/s            | 1        | 1.45%   |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.45%   |
 
 Memory Kind
 -----------
@@ -2442,8 +2442,9 @@ Memory module speed
 | 3600    | 6        | 10.34%  |
 | 2400    | 5        | 8.62%   |
 | 1333    | 5        | 8.62%   |
-| 3200    | 4        | 6.9%    |
 | 667     | 4        | 6.9%    |
+| 3800    | 3        | 5.17%   |
+| 3200    | 2        | 3.45%   |
 | 2667    | 2        | 3.45%   |
 | 2666    | 2        | 3.45%   |
 | 2133    | 2        | 3.45%   |
@@ -2451,7 +2452,6 @@ Memory module speed
 | 1866    | 2        | 3.45%   |
 | Unknown | 2        | 3.45%   |
 | 65535   | 1        | 1.72%   |
-| 3800    | 1        | 1.72%   |
 | 2933    | 1        | 1.72%   |
 | 2472    | 1        | 1.72%   |
 | 2187    | 1        | 1.72%   |
@@ -2494,7 +2494,7 @@ Printer device models
 | HP ENVY 4520 series          | 1        | 12.5%   |
 | HP ENVY 4500 series          | 1        | 12.5%   |
 | Dell 2330d Laser Printer     | 1        | 12.5%   |
-| Canon LiDE 300               | 1        | 12.5%   |
+| Canon CanoScan LiDE 300      | 1        | 12.5%   |
 | Brother Printer              | 1        | 12.5%   |
 | Brother HL-L2320D series     | 1        | 12.5%   |
 

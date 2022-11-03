@@ -1410,7 +1410,7 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
@@ -1431,7 +1431,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                      | 1         | 3.45%   |
+| AOC 24G1WG3 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1927,8 +1927,8 @@ Memory module models
 | Model                                                     | Computers | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 11.11%  |
-| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 11.11%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 11.11%  |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 11.11%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 11.11%  |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 11.11%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |
 | Kingston RAM 9905624-044.A00G 8192MB SODIMM DDR4 2400MT/s | 1         | 11.11%  |
@@ -2082,7 +2082,7 @@ Camera device models
 | Chicony Integrated Camera                 | 1         | 7.14%   |
 | Chicony HD WebCam                         | 1         | 7.14%   |
 | Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
-| Apple iPhone5/5C/5S/6                     | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE                 | 1         | 7.14%   |
 | Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security
@@ -2128,7 +2128,7 @@ Chipcard module vendors
 |--------|-----------|---------|
 | Upek   | 1         | 33.33%  |
 | Lenovo | 1         | 33.33%  |
-| Bit4id | 1         | 33.33%  |
+| BIT4ID | 1         | 33.33%  |
 
 Chipcard Model
 --------------
@@ -2142,7 +2142,7 @@ Chipcard module models
 |------------------------------------------------------------|-----------|---------|
 | Upek TouchChip Fingerprint Coprocessor (WBF advanced mode) | 1         | 33.33%  |
 | Lenovo Integrated Smart Card Reader                        | 1         | 33.33%  |
-| Bit4id miniLector EVO                                      | 1         | 33.33%  |
+| BIT4ID miniLector EVO                                      | 1         | 33.33%  |
 
 Unsupported
 -----------

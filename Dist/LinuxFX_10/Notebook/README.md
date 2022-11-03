@@ -810,48 +810,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                    | Notebooks | Percent |
-|------------------------------------------|-----------|---------|
-| Toshiba MQ01ABF050 500GB                 | 2         | 4.55%   |
-| Seagate ST500LM012 HN-M500MBB 500GB      | 2         | 4.55%   |
-| WDC WD5000LPVX-22V0TT0 500GB             | 1         | 2.27%   |
-| WDC WD5000LPVT-24G33T1 500GB             | 1         | 2.27%   |
-| WDC WD3200BPVT-22JJ5T0 320GB             | 1         | 2.27%   |
-| WDC WD3200BEVT-80A0RT0 320GB             | 1         | 2.27%   |
-| WDC WD1200BEVS-75UST0 120GB              | 1         | 2.27%   |
-| WDC WD10JPVX-60JC3T1 1TB                 | 1         | 2.27%   |
-| WDC WD10JPVX-22JC3T0 1TB                 | 1         | 2.27%   |
-| WDC PC SA530 SDASN8Y-256G-1006 256GB SSD | 1         | 2.27%   |
-| Unknown NVMe SSD Drive 512GB             | 1         | 2.27%   |
-| Unknown MMC Card  8GB                    | 1         | 2.27%   |
-| Toshiba MQ01ABF032 320GB                 | 1         | 2.27%   |
-| Toshiba MK5059GSXP 500GB                 | 1         | 2.27%   |
-| Toshiba MK2561GSYN 250GB                 | 1         | 2.27%   |
-| Seagate ST9320325AS 320GB                | 1         | 2.27%   |
-| Seagate ST9160827AS 160GB                | 1         | 2.27%   |
-| Seagate ST9160821AS 160GB                | 1         | 2.27%   |
-| Seagate ST9160314AS 160GB                | 1         | 2.27%   |
-| Seagate ST500LT012-9WS142 500GB          | 1         | 2.27%   |
-| Seagate ST500LM021-1KJ152 500GB          | 1         | 2.27%   |
-| Seagate ST1000LM035-1RK172 1TB           | 1         | 2.27%   |
-| SanDisk SSD PLUS 1000GB                  | 1         | 2.27%   |
-| Samsung SSD 850 EVO 250GB                | 1         | 2.27%   |
-| Samsung MZMPC032HBCD-000D1 32GB SSD      | 1         | 2.27%   |
-| Samsung HM321HI 320GB                    | 1         | 2.27%   |
-| LITEONIT LMT-256M6M-HP 256GB SSD         | 1         | 2.27%   |
-| LITEONIT LGT-256M6G 256GB SSD            | 1         | 2.27%   |
-| Kingston SV300S37A120G 120GB SSD         | 1         | 2.27%   |
-| Kingston SUV400S37120G 120GB SSD         | 1         | 2.27%   |
-| Kingston SA400S37240G 240GB SSD          | 1         | 2.27%   |
-| Kingston SA400S37120G 120GB SSD          | 1         | 2.27%   |
-| Kingston NVMe SSD Drive 512GB            | 1         | 2.27%   |
-| Hitachi HTS722080K9A300 80GB             | 1         | 2.27%   |
-| Hitachi HTS722012K9A300 120GB            | 1         | 2.27%   |
-| Hitachi HTS545050B9A300 500GB            | 1         | 2.27%   |
-| HGST HTS721010A9E630 1TB                 | 1         | 2.27%   |
-| HGST HTS545025A7E380 250GB               | 1         | 2.27%   |
-| GOODRAM SSDPR-CX300-240 240GB            | 1         | 2.27%   |
-| Crucial CT250MX500SSD1 250GB             | 1         | 2.27%   |
+| Model                                | Notebooks | Percent |
+|--------------------------------------|-----------|---------|
+| Toshiba MQ01ABF050 500GB             | 2         | 4.55%   |
+| Seagate ST500LM012 HN-M500MBB 500GB  | 2         | 4.55%   |
+| WDC WD5000LPVX-22V0TT0 500GB         | 1         | 2.27%   |
+| WDC WD5000LPVT-24G33T1 500GB         | 1         | 2.27%   |
+| WDC WD3200BPVT-22JJ5T0 320GB         | 1         | 2.27%   |
+| WDC WD3200BEVT-80A0RT0 320GB         | 1         | 2.27%   |
+| WDC WD1200BEVS-75UST0 120GB          | 1         | 2.27%   |
+| WDC WD10JPVX-60JC3T1 1TB             | 1         | 2.27%   |
+| WDC WD10JPVX-22JC3T0 1TB             | 1         | 2.27%   |
+| WDC PC SA530 SDASN8Y-256G-1006 256GB | 1         | 2.27%   |
+| Unknown NVMe SSD Drive 512GB         | 1         | 2.27%   |
+| Unknown MMC Card  8GB                | 1         | 2.27%   |
+| Toshiba MQ01ABF032 320GB             | 1         | 2.27%   |
+| Toshiba MK5059GSXP 500GB             | 1         | 2.27%   |
+| Toshiba MK2561GSYN 250GB             | 1         | 2.27%   |
+| Seagate ST9320325AS 320GB            | 1         | 2.27%   |
+| Seagate ST9160827AS 160GB            | 1         | 2.27%   |
+| Seagate ST9160821AS 160GB            | 1         | 2.27%   |
+| Seagate ST9160314AS 160GB            | 1         | 2.27%   |
+| Seagate ST500LT012-9WS142 500GB      | 1         | 2.27%   |
+| Seagate ST500LM021-1KJ152 500GB      | 1         | 2.27%   |
+| Seagate ST1000LM035-1RK172 1TB       | 1         | 2.27%   |
+| SanDisk SSD PLUS 1000GB              | 1         | 2.27%   |
+| Samsung SSD 850 EVO 250GB            | 1         | 2.27%   |
+| Samsung MZMPC032HBCD-000D1 32GB SSD  | 1         | 2.27%   |
+| Samsung HM321HI 320GB                | 1         | 2.27%   |
+| LITEONIT LMT-256M6M-HP 256GB SSD     | 1         | 2.27%   |
+| LITEONIT LGT-256M6G 256GB SSD        | 1         | 2.27%   |
+| Kingston SV300S37A120G 120GB SSD     | 1         | 2.27%   |
+| Kingston SUV400S37120G 120GB SSD     | 1         | 2.27%   |
+| Kingston SA400S37240G 240GB SSD      | 1         | 2.27%   |
+| Kingston SA400S37120G 120GB SSD      | 1         | 2.27%   |
+| Kingston NVMe SSD Drive 512GB        | 1         | 2.27%   |
+| Hitachi HTS722080K9A300 80GB         | 1         | 2.27%   |
+| Hitachi HTS722012K9A300 120GB        | 1         | 2.27%   |
+| Hitachi HTS545050B9A300 500GB        | 1         | 2.27%   |
+| HGST HTS721010A9E630 1TB             | 1         | 2.27%   |
+| HGST HTS545025A7E380 250GB           | 1         | 2.27%   |
+| GOODRAM SSDPR-CX300-240 240GB        | 1         | 2.27%   |
+| Crucial CT250MX500SSD1 250GB         | 1         | 2.27%   |
 
 HDD Vendor
 ----------
@@ -1454,7 +1454,7 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 5.56%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 2         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch          | 2         | 5.56%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 5.56%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.78%   |
@@ -1675,16 +1675,15 @@ Wireless vendors
 ![Wireless Vendor](./images/pie_chart/net_wireless_vendor.svg)
 
 
-| Vendor                            | Notebooks | Percent |
-|-----------------------------------|-----------|---------|
-| Qualcomm Atheros                  | 15        | 35.71%  |
-| Intel                             | 10        | 23.81%  |
-| Broadcom                          | 6         | 14.29%  |
-| Realtek Semiconductor             | 5         | 11.9%   |
-| Broadcom Limited                  | 3         | 7.14%   |
-| Ralink                            | 1         | 2.38%   |
-| NetGear                           | 1         | 2.38%   |
-| Ericsson Business Mobile Networks | 1         | 2.38%   |
+| Vendor                | Notebooks | Percent |
+|-----------------------|-----------|---------|
+| Qualcomm Atheros      | 15        | 36.59%  |
+| Intel                 | 10        | 24.39%  |
+| Broadcom              | 6         | 14.63%  |
+| Realtek Semiconductor | 5         | 12.2%   |
+| Broadcom Limited      | 3         | 7.32%   |
+| Ralink                | 1         | 2.44%   |
+| NetGear               | 1         | 2.44%   |
 
 Wireless Model
 --------------
@@ -1696,34 +1695,33 @@ Wireless models
 
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 5         | 11.9%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 9.52%   |
-| Broadcom BCM4312 802.11b/g LP-PHY                                       | 3         | 7.14%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 2         | 4.76%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 4.76%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 4.76%   |
-| Intel Centrino Wireless-N 2230                                          | 2         | 4.76%   |
-| Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 4.76%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 2.38%   |
-| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 2.38%   |
-| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2.38%   |
-| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 2.38%   |
-| Realtek 802.11ac NIC                                                    | 1         | 2.38%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 2.38%   |
-| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 2.38%   |
-| Intel Wireless 8260                                                     | 1         | 2.38%   |
-| Intel Wireless 7265                                                     | 1         | 2.38%   |
-| Intel Wireless 7260                                                     | 1         | 2.38%   |
-| Intel Wireless 3165                                                     | 1         | 2.38%   |
-| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 2.38%   |
-| Intel Centrino Ultimate-N 6300                                          | 1         | 2.38%   |
-| Intel Centrino Advanced-N 6235                                          | 1         | 2.38%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 2.38%   |
-| Ericsson Business Mobile Networks N5321 gw                              | 1         | 2.38%   |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 2.38%   |
-| Broadcom Limited BCM4321 802.11a/b/g/n                                  | 1         | 2.38%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 2.38%   |
-| Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.38%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 5         | 12.2%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 9.76%   |
+| Broadcom BCM4312 802.11b/g LP-PHY                                       | 3         | 7.32%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 2         | 4.88%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 4.88%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 4.88%   |
+| Intel Centrino Wireless-N 2230                                          | 2         | 4.88%   |
+| Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 4.88%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 2.44%   |
+| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 2.44%   |
+| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2.44%   |
+| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 2.44%   |
+| Realtek 802.11ac NIC                                                    | 1         | 2.44%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 2.44%   |
+| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 2.44%   |
+| Intel Wireless 8260                                                     | 1         | 2.44%   |
+| Intel Wireless 7265                                                     | 1         | 2.44%   |
+| Intel Wireless 7260                                                     | 1         | 2.44%   |
+| Intel Wireless 3165                                                     | 1         | 2.44%   |
+| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 2.44%   |
+| Intel Centrino Ultimate-N 6300                                          | 1         | 2.44%   |
+| Intel Centrino Advanced-N 6235                                          | 1         | 2.44%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 2.44%   |
+| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 2.44%   |
+| Broadcom Limited BCM4321 802.11a/b/g/n                                  | 1         | 2.44%   |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 2.44%   |
+| Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.44%   |
 
 Ethernet Vendor
 ---------------
@@ -1785,8 +1783,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 39        | 50%     |
-| Ethernet | 39        | 50%     |
+| WiFi     | 39        | 49.37%  |
+| Ethernet | 39        | 49.37%  |
+| Modem    | 1         | 1.27%   |
 
 Used Controller
 ---------------
@@ -1964,7 +1963,7 @@ Memory module models
 | Smart RAM SF464128CKHIWDFSEG 4GB SODIMM DDR4 2133MT/s   | 1         | 16.67%  |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 16.67%  |
-| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
+| Samsung RAM K4B8G1646B-MYK0 4096MB SODIMM DDR3 1600MT/s | 1         | 16.67%  |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s | 1         | 16.67%  |
 
 Memory Kind

@@ -774,7 +774,7 @@ Hard drive models
 |-----------------------------------------|----------|---------|
 | Seagate ST500LT012-1DG142 500GB         | 2        | 5.56%   |
 | Samsung HD161GJ 160GB                   | 2        | 5.56%   |
-| XPG GAMMIX S11 Pro 512GB                | 1        | 2.78%   |
+| XPG GAMMIX S11 Pro 1TB                  | 1        | 2.78%   |
 | WDC WD800JD-08MSA1 80GB                 | 1        | 2.78%   |
 | WDC WD5000AVVS-63ZWB0 500GB             | 1        | 2.78%   |
 | WDC WD5000AAKS-75V0A0 500GB             | 1        | 2.78%   |
@@ -1380,7 +1380,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0581 1920x1080 477x268mm 21.5-inch | 1        | 5%      |
 | Samsung Electronics SyncMaster SAM0116 1024x768 267x200mm 13.1-inch  | 1        | 5%      |
 | Samsung Electronics S22C450 SAM09C5 1920x1080 477x268mm 21.5-inch    | 1        | 5%      |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1        | 5%      |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch    | 1        | 5%      |
 | JCH F24 JCH1919 1920x1080 520x310mm 23.8-inch                        | 1        | 5%      |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1        | 5%      |
 | Goldstar TV GSM9CF6 1360x768 708x398mm 32.0-inch                     | 1        | 5%      |
@@ -1841,9 +1841,9 @@ Memory module models
 | Kingston RAM Module 16GB SODIMM DDR4 2133MT/s            | 1        | 7.14%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s      | 1        | 7.14%   |
 | Kingston RAM 99U5471-030.A00LF 8192MB DIMM DDR3 1333MT/s | 1        | 7.14%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s    | 1        | 7.14%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s       | 1        | 7.14%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| Corsair RAM CMZ4GX3M1A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 7.14%   |
+| Corsair RAM CMZ4GX3M1A1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 7.14%   |
 | Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s    | 1        | 7.14%   |
 | Avant RAM W641GU49J2320N6 8GB DIMM DDR4 2666MT/s         | 1        | 7.14%   |
 
@@ -1967,11 +1967,11 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                          | Desktops | Percent |
-|--------------------------------|----------|---------|
-| Samsung Galaxy A5 (MTP)        | 1        | 33.33%  |
-| Logitech Webcam C270           | 1        | 33.33%  |
-| Logitech QuickCam Notebook Pro | 1        | 33.33%  |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 33.33%  |
+| Logitech Webcam C270                    | 1        | 33.33%  |
+| Logitech QuickCam Notebook Pro          | 1        | 33.33%  |
 
 Security
 --------

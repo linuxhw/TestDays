@@ -642,7 +642,7 @@ Hard drive models
 | Seagate ST1000DM003-1ER162 1TB  | 1        | 11.11%  |
 | SanDisk NVMe SSD Drive 500GB    | 1        | 11.11%  |
 | Patriot Burst Elite 120GB SSD   | 1        | 11.11%  |
-| ASMT 2235 160GB                 | 1        | 11.11%  |
+| ASMT 2235 240GB SSD             | 1        | 11.11%  |
 
 HDD Vendor
 ----------
@@ -654,9 +654,8 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 3        | 7      | 60%     |
-| WDC     | 1        | 1      | 20%     |
-| ASMT    | 1        | 2      | 20%     |
+| Seagate | 3        | 7      | 75%     |
+| WDC     | 1        | 1      | 25%     |
 
 SSD Vendor
 ----------
@@ -668,8 +667,9 @@ Solid state drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| WDC     | 1        | 2      | 50%     |
-| Patriot | 1        | 1      | 50%     |
+| WDC     | 1        | 2      | 33.33%  |
+| Patriot | 1        | 1      | 33.33%  |
+| ASMT    | 1        | 2      | 33.33%  |
 
 Drive Kind
 ----------
@@ -681,8 +681,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 4        | 10     | 57.14%  |
-| SSD  | 2        | 3      | 28.57%  |
+| HDD  | 4        | 8      | 57.14%  |
+| SSD  | 2        | 5      | 28.57%  |
 | NVMe | 1        | 1      | 14.29%  |
 
 Drive Connector
