@@ -928,7 +928,7 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB        | 1        | 1.14%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB    | 1        | 1.14%   |
 | Seagate ST1000DM003-1CH162 1TB        | 1        | 1.14%   |
-| Seagate Backup+ Hub BK 4TB            | 1        | 1.14%   |
+| Seagate Backup+ Hub BK 8TB            | 1        | 1.14%   |
 | SanDisk Ultra II 960GB SSD            | 1        | 1.14%   |
 | SanDisk SSD PLUS 240 GB               | 1        | 1.14%   |
 | SanDisk SSD PLUS 120 GB               | 1        | 1.14%   |
@@ -946,10 +946,11 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 9        | 12     | 42.86%  |
-| WDC     | 6        | 11     | 28.57%  |
-| Toshiba | 5        | 9      | 23.81%  |
-| HGST    | 1        | 3      | 4.76%   |
+| Seagate | 9        | 12     | 40.91%  |
+| WDC     | 6        | 11     | 27.27%  |
+| Toshiba | 5        | 9      | 22.73%  |
+| HGST    | 1        | 3      | 4.55%   |
+| ASMT    | 1        | 1      | 4.55%   |
 
 SSD Vendor
 ----------
@@ -961,15 +962,14 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 11       | 21     | 33.33%  |
-| Crucial             | 6        | 7      | 18.18%  |
-| SanDisk             | 4        | 7      | 12.12%  |
-| Kingston            | 4        | 4      | 12.12%  |
-| Intel               | 4        | 6      | 12.12%  |
-| WDC                 | 1        | 2      | 3.03%   |
-| Toshiba             | 1        | 1      | 3.03%   |
-| China               | 1        | 1      | 3.03%   |
-| ASMT                | 1        | 1      | 3.03%   |
+| Samsung Electronics | 11       | 21     | 34.38%  |
+| Crucial             | 6        | 7      | 18.75%  |
+| SanDisk             | 4        | 7      | 12.5%   |
+| Kingston            | 4        | 4      | 12.5%   |
+| Intel               | 4        | 6      | 12.5%   |
+| WDC                 | 1        | 2      | 3.13%   |
+| Toshiba             | 1        | 1      | 3.13%   |
+| China               | 1        | 1      | 3.13%   |
 
 Drive Kind
 ----------
@@ -981,9 +981,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 27       | 50     | 42.86%  |
+| SSD  | 27       | 49     | 42.86%  |
 | NVMe | 20       | 34     | 31.75%  |
-| HDD  | 16       | 35     | 25.4%   |
+| HDD  | 16       | 36     | 25.4%   |
 
 Drive Connector
 ---------------
@@ -1009,12 +1009,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 28     | 37.25%  |
-| 0.51-1.0   | 15       | 28     | 29.41%  |
+| 0.01-0.5   | 19       | 29     | 37.25%  |
+| 0.51-1.0   | 15       | 27     | 29.41%  |
 | 1.01-2.0   | 6        | 9      | 11.76%  |
 | 2.01-3.0   | 5        | 7      | 9.8%    |
-| 3.01-4.0   | 3        | 5      | 5.88%   |
-| 4.01-10.0  | 3        | 8      | 5.88%   |
+| 4.01-10.0  | 4        | 9      | 7.84%   |
+| 3.01-4.0   | 2        | 4      | 3.92%   |
 
 Space Total
 -----------
@@ -1066,7 +1066,7 @@ Drive models with a malfunction
 | Samsung Electronics SSD 970 EVO 1TB | 1        | 1      | 25%     |
 | Samsung Electronics SSD 870 EVO 1TB | 1        | 1      | 25%     |
 | Intel SSDSC2BW240A4 240GB           | 1        | 1      | 25%     |
-| ASMT 2115 512GB                     | 1        | 1      | 25%     |
+| ASMT 2115 16GB                      | 1        | 1      | 25%     |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1087,7 +1087,12 @@ Malfunc. HDD Vendor
 
 Vendors of faulty HDD drives
 
-Zero info for selected period =(
+![Malfunc. HDD Vendor](./images/pie_chart/drive_malfunc_hdd_vendor.svg)
+
+
+| Vendor | Desktops | Drives | Percent |
+|--------|----------|--------|---------|
+| ASMT   | 1        | 1      | 100%    |
 
 Malfunc. Drive Kind
 -------------------
@@ -1099,8 +1104,9 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 3        | 3      | 75%     |
+| SSD  | 2        | 2      | 50%     |
 | NVMe | 1        | 1      | 25%     |
+| HDD  | 1        | 1      | 25%     |
 
 Failed Drives
 -------------
@@ -1449,9 +1455,9 @@ Graphics card models
 | Nvidia GK104 [GeForce GTX 660 Ti]                                | 1        | 2.5%    |
 | Nvidia GA106 [GeForce RTX 3060 Lite Hash Rate]                   | 1        | 2.5%    |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller | 1        | 2.5%    |
-| Intel UHD P630 Graphics                                          | 1        | 2.5%    |
 | Intel HD Graphics 630                                            | 1        | 2.5%    |
 | Intel GeminiLake [UHD Graphics 600]                              | 1        | 2.5%    |
+| Intel Comet Lake-S GT2 [UHD Graphics P630]                       | 1        | 2.5%    |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                        | 1        | 2.5%    |
 
 GPU Combo
@@ -1535,41 +1541,41 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Goldstar LG HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch              | 2        | 5.41%   |
-| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                      | 2        | 5.41%   |
-| Dell U2311H DELA060 1920x1080 509x286mm 23.0-inch                     | 2        | 5.41%   |
-| Acer CP3271K P ACR0716 3840x2160 597x336mm 27.0-inch                  | 2        | 5.41%   |
-| Vizio E500i-B1 VIZ1004 1920x1080 1095x616mm 49.5-inch                 | 1        | 2.7%    |
-| Unknown (AAA) Monitor AAA0ABF 1920x1080 480x260mm 21.5-inch           | 1        | 2.7%    |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch     | 1        | 2.7%    |
-| MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                      | 1        | 2.7%    |
-| Iiyama PLE2208HDS IVM560A 1920x1080 477x268mm 21.5-inch               | 1        | 2.7%    |
-| HVR HTC-VIVE HVRAA01 2160x1200                                        | 1        | 2.7%    |
-| Hewlett-Packard LA2405 HWP284B 1920x1200 518x324mm 24.1-inch          | 1        | 2.7%    |
-| Goldstar ULTRAWIDE GSM76FE 2560x1080 798x334mm 34.1-inch              | 1        | 2.7%    |
-| Goldstar ULTRAWIDE GSM59F2 2560x1080 798x334mm 34.1-inch              | 1        | 2.7%    |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1        | 2.7%    |
-| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch               | 1        | 2.7%    |
-| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch               | 1        | 2.7%    |
-| Goldstar HDR 4K GSM7750 3840x2160 697x392mm 31.5-inch                 | 1        | 2.7%    |
-| Dell U2717D DEL40EB 2560x1440 600x340mm 27.2-inch                     | 1        | 2.7%    |
-| Dell U2715H DELD067 2560x1440 600x340mm 27.2-inch                     | 1        | 2.7%    |
-| Dell U2518D DEL413A 2560x1440 553x311mm 25.0-inch                     | 1        | 2.7%    |
-| Dell U2515H DELD070 2560x1440 553x311mm 25.0-inch                     | 1        | 2.7%    |
-| Dell U2415 DELA0B9 1920x1200 518x324mm 24.1-inch                      | 1        | 2.7%    |
-| Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                     | 1        | 2.7%    |
-| Dell U2312HM DEL4072 1920x1080 510x290mm 23.1-inch                    | 1        | 2.7%    |
-| Dell P2415Q DELA0BE 3840x2160 527x296mm 23.8-inch                     | 1        | 2.7%    |
-| BenQ GL2450 BNQ78A5 1920x1080 531x298mm 24.0-inch                     | 1        | 2.7%    |
-| AOC 2450W AOC2450 1920x1080 521x293mm 23.5-inch                       | 1        | 2.7%    |
-| AOC 2280W AOC2280 1920x1080 477x268mm 21.5-inch                       | 1        | 2.7%    |
-| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch      | 1        | 2.7%    |
-| Ancor Communications ASUS VX239 ACI23E1 1920x1080 509x286mm 23.0-inch | 1        | 2.7%    |
-| Ancor Communications ASUS VC239 ACI23C4 1920x1080 509x286mm 23.0-inch | 1        | 2.7%    |
-| Acer G247HYL ACR0427 1920x1080 527x296mm 23.8-inch                    | 1        | 2.7%    |
-| Acer AL1717 ACRAD60 1280x1024 338x270mm 17.0-inch                     | 1        | 2.7%    |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                   | 2        | 5.41%   |
+| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                        | 2        | 5.41%   |
+| Dell U2311H DELA060 1920x1080 509x286mm 23.0-inch                       | 2        | 5.41%   |
+| Acer CP3271K P ACR0716 3840x2160 597x336mm 27.0-inch                    | 2        | 5.41%   |
+| Vizio E50-C1 VIZ1004 1920x1080 1095x616mm 49.5-inch                     | 1        | 2.7%    |
+| Unknown (AAA) Monitor AAA0ABF 1920x1080 480x260mm 21.5-inch             | 1        | 2.7%    |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch       | 1        | 2.7%    |
+| MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 2.7%    |
+| Iiyama PLE2208HDS IVM560A 1920x1080 477x268mm 21.5-inch                 | 1        | 2.7%    |
+| HVR HTC-VIVE HVRAA01 2160x1200                                          | 1        | 2.7%    |
+| Hewlett-Packard LA2405 HWP284B 1920x1200 518x324mm 24.1-inch            | 1        | 2.7%    |
+| Goldstar ULTRAWIDE GSM76FE 2560x1080 798x334mm 34.1-inch                | 1        | 2.7%    |
+| Goldstar ULTRAWIDE GSM59F2 2560x1080 798x334mm 34.1-inch                | 1        | 2.7%    |
+| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                 | 1        | 2.7%    |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch             | 1        | 2.7%    |
+| Goldstar LG HDR 4K GSM7750 3840x2160 700x400mm 31.7-inch                | 1        | 2.7%    |
+| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 1        | 2.7%    |
+| Dell U2717D DEL40EB 2560x1440 597x336mm 27.0-inch                       | 1        | 2.7%    |
+| Dell U2715H DELD067 2560x1440 597x336mm 27.0-inch                       | 1        | 2.7%    |
+| Dell U2518D DEL413A 2560x1440 553x311mm 25.0-inch                       | 1        | 2.7%    |
+| Dell U2515H DELD070 2560x1440 553x311mm 25.0-inch                       | 1        | 2.7%    |
+| Dell U2415 DELA0B9 1920x1200 518x324mm 24.1-inch                        | 1        | 2.7%    |
+| Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                       | 1        | 2.7%    |
+| Dell U2312HM DEL4072 1920x1080 510x287mm 23.0-inch                      | 1        | 2.7%    |
+| Dell P2415Q DELA0BE 3840x2160 527x296mm 23.8-inch                       | 1        | 2.7%    |
+| BenQ GL2450 BNQ78A5 1920x1080 531x298mm 24.0-inch                       | 1        | 2.7%    |
+| AOC 2450W AOC2450 1920x1080 521x293mm 23.5-inch                         | 1        | 2.7%    |
+| AOC 2280W AOC2280 1920x1080 477x268mm 21.5-inch                         | 1        | 2.7%    |
+| Ancor Communications VX239 ACI23E1 1920x1080 510x290mm 23.1-inch        | 1        | 2.7%    |
+| Ancor Communications VS248 ACI2498 1920x1080 530x300mm 24.0-inch        | 1        | 2.7%    |
+| Ancor Communications ASUS VC239HE ACI23C4 1920x1080 509x286mm 23.0-inch | 1        | 2.7%    |
+| Acer G247HYL ACR0427 1920x1080 527x296mm 23.8-inch                      | 1        | 2.7%    |
+| Acer AL1717 ACRAD60 1280x1024 338x270mm 17.0-inch                       | 1        | 2.7%    |
 
 Monitor Resolution
 ------------------
@@ -1739,7 +1745,7 @@ Controller models
 | Intel Ethernet Connection (7) I219-V                              | 2        | 3.51%   |
 | Intel Ethernet Connection (2) I219-V                              | 2        | 3.51%   |
 | Intel Ethernet Connection (2) I218-V                              | 2        | 3.51%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.75%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 1        | 1.75%   |
 | Texas Instruments CC2538 USB CDC                                  | 1        | 1.75%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 1.75%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.75%   |
@@ -1780,14 +1786,14 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                      | Desktops | Percent |
-|------------------------------------------------------------|----------|---------|
-| Intel Wi-Fi 6 AX200                                        | 6        | 54.55%  |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 9.09%   |
-| Microsoft Xbox 360 Wireless Adapter                        | 1        | 9.09%   |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                    | 1        | 9.09%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]           | 1        | 9.09%   |
-| Intel Comet Lake PCH CNVi WiFi                             | 1        | 9.09%   |
+| Model                                            | Desktops | Percent |
+|--------------------------------------------------|----------|---------|
+| Intel Wi-Fi 6 AX200                              | 6        | 54.55%  |
+| TP-Link 802.11ac WLAN Adapter                    | 1        | 9.09%   |
+| Microsoft Xbox 360 Wireless Adapter              | 1        | 9.09%   |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz          | 1        | 9.09%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak] | 1        | 9.09%   |
+| Intel Comet Lake PCH CNVi WiFi                   | 1        | 9.09%   |
 
 Ethernet Vendor
 ---------------
@@ -1990,7 +1996,7 @@ Sound card models
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                          | 2        | 2.27%   |
 | Unknown USB Audio                                                   | 1        | 1.14%   |
 | Thomann SC450USB                                                    | 1        | 1.14%   |
-| Thesycon Systemsoftware & Consulting D10s                           | 1        | 1.14%   |
+| Thesycon Systemsoftware & Consulting D90                            | 1        | 1.14%   |
 | Texas Instruments PCM2902C Audio CODEC                              | 1        | 1.14%   |
 | Sony DualShock 4 [CUH-ZCT2x]                                        | 1        | 1.14%   |
 | Sennheiser Communications Sennheiser SC630 for Lync                 | 1        | 1.14%   |
@@ -2047,20 +2053,20 @@ Memory module models
 |--------------------------------------------------------------|----------|---------|
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s       | 3        | 6.67%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s       | 2        | 4.44%   |
-| Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s       | 2        | 4.44%   |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s          | 2        | 4.44%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 3334MT/s          | 2        | 4.44%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s          | 2        | 4.44%   |
 | Corsair RAM CMK16GX4M1D3000C16 16GB DIMM DDR4 3000MT/s       | 2        | 4.44%   |
 | Unknown RAM Module 16384MB DIMM DDR4 2133MT/s                | 1        | 2.22%   |
-| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s | 1        | 2.22%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 2.22%   |
 | Strontium RAM SRT8G86U1-P9H 8GB DIMM DDR3 1600MT/s           | 1        | 2.22%   |
 | Samsung RAM Module 4096MB SODIMM DDR4 2133MT/s               | 1        | 2.22%   |
 | Samsung RAM M393A4K40BB0-CPB 32GB RIMM DDR4 2133MT/s         | 1        | 2.22%   |
 | Samsung RAM M391A1K43BB1-CRC 8GB DIMM DDR4 2400MT/s          | 1        | 2.22%   |
-| Micron RAM 4ATF1G64AZ-3G2E1 8192MB DIMM DDR4 3200MT/s        | 1        | 2.22%   |
+| Micron RAM 4ATF1G64AZ-3G2E1 8GB DIMM DDR4 3200MT/s           | 1        | 2.22%   |
 | Micron RAM 36ASF4G72PZ-2G1A1 32GB RIMM DDR4 2133MT/s         | 1        | 2.22%   |
-| Micron RAM 16ATF2G64AZ-3G2J1 16GB DIMM DDR4 3200MT/s         | 1        | 2.22%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s         | 1        | 2.22%   |
+| Micron RAM 16ATF2G64AZ-3G2J1 16384MB DIMM DDR4 3200MT/s      | 1        | 2.22%   |
+| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s      | 1        | 2.22%   |
 | Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s       | 1        | 2.22%   |
 | Kingston RAM KHX2400C15D4/8G 8GB DIMM DDR4 2400MT/s          | 1        | 2.22%   |
 | Kingston RAM 9965745-021.A00G 32GB DIMM DDR4 2933MT/s        | 1        | 2.22%   |
@@ -2077,7 +2083,7 @@ Memory module models
 | Crucial RAM BL16G32C16U4B.M16FE1 16GB DIMM DDR4 3200MT/s     | 1        | 2.22%   |
 | Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s        | 1        | 2.22%   |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s        | 1        | 2.22%   |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s        | 1        | 2.22%   |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3733MT/s        | 1        | 2.22%   |
 | Corsair RAM CMK64GX4M2D3600C18 32GB DIMM DDR4 3600MT/s       | 1        | 2.22%   |
 | Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s       | 1        | 2.22%   |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s       | 1        | 2.22%   |
@@ -2143,11 +2149,10 @@ Memory module speed
 | 2133  | 4        | 9.52%   |
 | 3000  | 3        | 7.14%   |
 | 1600  | 3        | 7.14%   |
+| 3733  | 2        | 4.76%   |
 | 3334  | 2        | 4.76%   |
 | 3866  | 1        | 2.38%   |
-| 3733  | 1        | 2.38%   |
 | 3400  | 1        | 2.38%   |
-| 3266  | 1        | 2.38%   |
 | 2933  | 1        | 2.38%   |
 | 2134  | 1        | 2.38%   |
 | 2132  | 1        | 2.38%   |

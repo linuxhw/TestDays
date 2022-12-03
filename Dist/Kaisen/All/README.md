@@ -874,7 +874,7 @@ Hard drive models
 | Kingston SNVS1000GB 1TB                   | 1         | 1.92%   |
 | Kingston SA400S37480G 480GB SSD           | 1         | 1.92%   |
 | Kingston RBUSC180DS37128GH 128GB SSD      | 1         | 1.92%   |
-| JMicron Generic 500GB                     | 1         | 1.92%   |
+| JMicron Generic 1TB                       | 1         | 1.92%   |
 
 HDD Vendor
 ----------
@@ -902,18 +902,19 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 6         | 6      | 27.27%  |
-| WDC                 | 3         | 3      | 13.64%  |
-| Kingston            | 3         | 3      | 13.64%  |
-| SanDisk             | 2         | 2      | 9.09%   |
-| LITEONIT            | 1         | 1      | 4.55%   |
-| LITEON              | 1         | 1      | 4.55%   |
-| Intel               | 1         | 1      | 4.55%   |
-| Crucial             | 1         | 1      | 4.55%   |
-| China               | 1         | 1      | 4.55%   |
-| ASMedia             | 1         | 1      | 4.55%   |
-| A-DATA Technology   | 1         | 1      | 4.55%   |
-| Unknown             | 1         | 1      | 4.55%   |
+| Samsung Electronics | 6         | 6      | 26.09%  |
+| WDC                 | 3         | 3      | 13.04%  |
+| Kingston            | 3         | 3      | 13.04%  |
+| SanDisk             | 2         | 2      | 8.7%    |
+| LITEONIT            | 1         | 1      | 4.35%   |
+| LITEON              | 1         | 1      | 4.35%   |
+| JMicron Technology  | 1         | 1      | 4.35%   |
+| Intel               | 1         | 1      | 4.35%   |
+| Crucial             | 1         | 1      | 4.35%   |
+| China               | 1         | 1      | 4.35%   |
+| ASMedia             | 1         | 1      | 4.35%   |
+| A-DATA Technology   | 1         | 1      | 4.35%   |
+| Unknown             | 1         | 1      | 4.35%   |
 
 Drive Kind
 ----------
@@ -925,9 +926,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 18        | 22     | 40.91%  |
+| SSD  | 19        | 23     | 43.18%  |
 | HDD  | 17        | 19     | 38.64%  |
-| NVMe | 9         | 11     | 20.45%  |
+| NVMe | 8         | 10     | 18.18%  |
 
 Drive Connector
 ---------------
@@ -953,10 +954,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 24        | 29     | 66.67%  |
-| 0.51-1.0   | 10        | 10     | 27.78%  |
-| 2.01-3.0   | 1         | 1      | 2.78%   |
-| 1.01-2.0   | 1         | 1      | 2.78%   |
+| 0.01-0.5   | 24        | 29     | 64.86%  |
+| 0.51-1.0   | 11        | 11     | 29.73%  |
+| 2.01-3.0   | 1         | 1      | 2.7%    |
+| 1.01-2.0   | 1         | 1      | 2.7%    |
 
 Space Total
 -----------
@@ -1529,19 +1530,19 @@ Monitor models
 
 | Model                                                                     | Computers | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD045E 1366x768 309x174mm 14.0-inch               | 2         | 5.56%   |
+| LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch               | 2         | 5.56%   |
 | Vizio M220MV VIZ0062 1920x1080 509x286mm 23.0-inch                        | 1         | 2.78%   |
 | Sharp LQ173M1JW08 SHP1544 1920x1080 382x215mm 17.3-inch                   | 1         | 2.78%   |
 | Samsung Electronics SMB2330H SAM064A 1920x1080 509x286mm 23.0-inch        | 1         | 2.78%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SDC4159 1920x1080 344x194mm 15.5-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SAM0D4B 1360x768 609x347mm 27.6-inch      | 1         | 2.78%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch                   | 1         | 2.78%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                   | 1         | 2.78%   |
 | PANDA LCD Monitor NCP005F 1920x1080 344x194mm 15.5-inch                   | 1         | 2.78%   |
 | LG Display LCD Monitor LGD40BA 1920x1080 344x194mm 15.5-inch              | 1         | 2.78%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 2.78%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch               | 1         | 2.78%   |
-| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch                  | 1         | 2.78%   |
+| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 1         | 2.78%   |
 | Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                      | 1         | 2.78%   |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                         | 1         | 2.78%   |
 | Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                       | 1         | 2.78%   |
@@ -1555,13 +1556,13 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO1100 1366x768 256x144mm 11.6-inch  | 1         | 2.78%   |
 | BOE LCD Monitor BOE09DC 1920x1080 344x194mm 15.5-inch                     | 1         | 2.78%   |
 | BOE LCD Monitor BOE05FE 1366x768 309x173mm 13.9-inch                      | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO63ED 1920x1080 340x190mm 15.3-inch            | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 2.78%   |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 2.78%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 2.78%   |
 | AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 2.78%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                    | 1         | 2.78%   |
 | Apple Color LCD APP9CBC 1920x1080 475x267mm 21.5-inch                     | 1         | 2.78%   |
-| Acer X223HQ ACR0098 1920x1080 470x270mm 21.3-inch                         | 1         | 2.78%   |
+| Acer X223HQ ACR0098 1920x1080 477x268mm 21.5-inch                         | 1         | 2.78%   |
 | Acer K202HQL ACR03E0 1366x768 434x236mm 19.4-inch                         | 1         | 2.78%   |
 | Acer B193W ACR001E 1440x900 408x255mm 18.9-inch                           | 1         | 2.78%   |
 
@@ -1723,14 +1724,13 @@ Controller models
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 4.41%   |
 | Intel Wireless 7265                                               | 3         | 4.41%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 3         | 4.41%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 2         | 2.94%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 2         | 2.94%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 2         | 2.94%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 2         | 2.94%   |
 | Intel Ethernet Connection (3) I218-LM                             | 2         | 2.94%   |
 | Intel Ethernet Connection (2) I219-LM                             | 2         | 2.94%   |
 | TP-Link Archer T4UH wireless Realtek 8812AU                       | 1         | 1.47%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1         | 1.47%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1         | 1.47%   |
 | Sierra Wireless EM7345 4G LTE                                     | 1         | 1.47%   |
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1         | 1.47%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1         | 1.47%   |
@@ -1758,6 +1758,7 @@ Controller models
 | Intel Ethernet Connection I218-LM                                 | 1         | 1.47%   |
 | Intel Ethernet Connection (3) I218-V                              | 1         | 1.47%   |
 | Intel Ethernet Connection (13) I219-LM                            | 1         | 1.47%   |
+| Intel Comet Lake PCH CNVi WiFi                                    | 1         | 1.47%   |
 
 Wireless Vendor
 ---------------
@@ -1789,12 +1790,11 @@ Wireless models
 |----------------------------------------------------------------|-----------|---------|
 | Intel Wireless 7265                                            | 3         | 9.38%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 3         | 9.38%   |
+| TP-Link 802.11ac WLAN Adapter                                  | 2         | 6.25%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 2         | 6.25%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 2         | 6.25%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter               | 2         | 6.25%   |
 | TP-Link Archer T4UH wireless Realtek 8812AU                    | 1         | 3.13%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 3.13%   |
-| TP-Link 802.11ac WLAN Adapter                                  | 1         | 3.13%   |
 | Sierra Wireless EM7345 4G LTE                                  | 1         | 3.13%   |
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                     | 1         | 3.13%   |
 | Realtek RTL8188EE Wireless Network Adapter                     | 1         | 3.13%   |
@@ -2081,19 +2081,19 @@ Memory module models
 | Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s      | 2         | 4.26%   |
 | Unknown RAM Module 1GB DIMM 400MT/s                          | 1         | 2.13%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s                 | 1         | 2.13%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s         | 1         | 2.13%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 2.13%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s         | 1         | 2.13%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.13%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 2.13%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 2.13%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.13%   |
 | SK hynix RAM HMAA2GS6CJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 2.13%   |
 | SK hynix RAM HMAA1GS6CMR6N-XN 8GB Row Of Chips DDR4 3200MT/s | 1         | 2.13%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 2.13%   |
-| Samsung RAM UBE3D4AA-MGCR 8GB Row Of Chips LPDDR4 4267MT/s   | 1         | 2.13%   |
+| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s   | 1         | 2.13%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 2.13%   |
 | Samsung RAM Module 2GB SODIMM DDR3 1067MT/s                  | 1         | 2.13%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 2.13%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 2.13%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s     | 1         | 2.13%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 2.13%   |
 | Samsung RAM M393B5270DH0-YH9 4GB DIMM DDR3 1333MT/s          | 1         | 2.13%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 2.13%   |
@@ -2115,7 +2115,7 @@ Memory module models
 | Crucial RAM CT102464BF160B.Y16 8GB SODIMM DDR3 1600MT/s      | 1         | 2.13%   |
 | Crucial RAM BLS16G4S26BFSD.16FD 16GB SODIMM DDR4 2667MT/s    | 1         | 2.13%   |
 | Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s         | 1         | 2.13%   |
-| Corsair RAM CMSX16GX4M1A2400C16 16GB SODIMM DDR4 2400MT/s    | 1         | 2.13%   |
+| Corsair RAM CMSX16GX4M1A2400C16 16384MB SODIMM DDR4 2400MT/s | 1         | 2.13%   |
 | Apacer RAM 78.A2GC8.CY00C 2GB SODIMM DDR3 800MT/s            | 1         | 2.13%   |
 
 Memory Kind
@@ -2173,7 +2173,7 @@ Memory module speed
 
 | Speed | Computers | Percent |
 |-------|-----------|---------|
-| 1600  | 16        | 44.44%  |
+| 1600  | 15        | 41.67%  |
 | 3200  | 4         | 11.11%  |
 | 1333  | 3         | 8.33%   |
 | 2667  | 2         | 5.56%   |
@@ -2183,6 +2183,7 @@ Memory module speed
 | 3600  | 1         | 2.78%   |
 | 2933  | 1         | 2.78%   |
 | 2400  | 1         | 2.78%   |
+| 1648  | 1         | 2.78%   |
 | 1334  | 1         | 2.78%   |
 | 1067  | 1         | 2.78%   |
 | 800   | 1         | 2.78%   |

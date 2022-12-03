@@ -720,8 +720,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 24        | 57.14%  |
-| No        | 18        | 42.86%  |
+| Yes       | 25        | 59.52%  |
+| No        | 17        | 40.48%  |
 
 Has Ethernet
 ------------
@@ -903,7 +903,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.43%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.43%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.43%   |
-| Unknown SD/MMC/MS PRO 1TB                    | 1         | 1.43%   |
+| Unknown SD/MMC/MS PRO 8GB                    | 1         | 1.43%   |
 | Unknown MMC Card  128GB                      | 1         | 1.43%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.43%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.43%   |
@@ -961,22 +961,23 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 4         | 5      | 17.39%  |
-| SanDisk             | 3         | 3      | 13.04%  |
-| Kingston            | 3         | 4      | 13.04%  |
-| WDC                 | 1         | 1      | 4.35%   |
-| Transcend           | 1         | 1      | 4.35%   |
-| Seagate             | 1         | 1      | 4.35%   |
-| Origin              | 1         | 1      | 4.35%   |
-| Micron Technology   | 1         | 1      | 4.35%   |
-| LITEONIT            | 1         | 1      | 4.35%   |
-| LITEON              | 1         | 2      | 4.35%   |
-| Leven               | 1         | 1      | 4.35%   |
-| Intenso             | 1         | 1      | 4.35%   |
-| Crucial             | 1         | 1      | 4.35%   |
-| China               | 1         | 1      | 4.35%   |
-| Apple               | 1         | 1      | 4.35%   |
-| A-DATA Technology   | 1         | 1      | 4.35%   |
+| Samsung Electronics | 4         | 5      | 16.67%  |
+| SanDisk             | 3         | 3      | 12.5%   |
+| Kingston            | 3         | 4      | 12.5%   |
+| WDC                 | 1         | 1      | 4.17%   |
+| Transcend           | 1         | 1      | 4.17%   |
+| Seagate             | 1         | 1      | 4.17%   |
+| Origin              | 1         | 1      | 4.17%   |
+| Micron Technology   | 1         | 1      | 4.17%   |
+| LITEONIT            | 1         | 1      | 4.17%   |
+| LITEON              | 1         | 2      | 4.17%   |
+| Leven               | 1         | 1      | 4.17%   |
+| JMicron Technology  | 1         | 1      | 4.17%   |
+| Intenso             | 1         | 1      | 4.17%   |
+| Crucial             | 1         | 1      | 4.17%   |
+| China               | 1         | 1      | 4.17%   |
+| Apple               | 1         | 1      | 4.17%   |
+| A-DATA Technology   | 1         | 1      | 4.17%   |
 
 Drive Kind
 ----------
@@ -989,8 +990,8 @@ HDD or SSD
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
 | HDD     | 26        | 35     | 45.61%  |
-| SSD     | 19        | 26     | 33.33%  |
-| NVMe    | 9         | 13     | 15.79%  |
+| SSD     | 20        | 27     | 35.09%  |
+| NVMe    | 8         | 12     | 14.04%  |
 | Unknown | 2         | 2      | 3.51%   |
 | MMC     | 1         | 1      | 1.75%   |
 
@@ -1019,7 +1020,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 29        | 41     | 61.7%   |
+| 0.01-0.5   | 29        | 42     | 61.7%   |
 | 0.51-1.0   | 16        | 18     | 34.04%  |
 | 1.01-2.0   | 1         | 1      | 2.13%   |
 | 4.01-10.0  | 1         | 1      | 2.13%   |
@@ -1186,7 +1187,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                               | 2         | 3.17%   |
 | AMD 400 Series Chipset SATA Controller                                         | 2         | 3.17%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1         | 1.59%   |
-| SK hynix SC300 512GB M.2 2280 SATA Solid State Drive                           | 1         | 1.59%   |
+| SK hynix PC400 NVMe SSD                                                        | 1         | 1.59%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 1.59%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 1         | 1.59%   |
 | SanDisk Non-Volatile memory controller                                         | 1         | 1.59%   |
@@ -1605,7 +1606,7 @@ Monitor models
 | Sony TV SNYDC01 1360x768                                                 | 1         | 2.38%   |
 | Samsung Electronics LCD Monitor SMS27A850T 2560x1440                     | 1         | 2.38%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 2.38%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 2.38%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 2.38%   |
 | Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 2.38%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 2.38%   |
 | Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch                       | 1         | 2.38%   |
@@ -1627,14 +1628,14 @@ Monitor models
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                        | 1         | 2.38%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch                        | 1         | 2.38%   |
 | Dell LCD Monitor E228WFP                                                 | 1         | 2.38%   |
-| Dell INSPIRON ONE DELB123 1920x1080 510x287mm 23.0-inch                  | 1         | 2.38%   |
 | Dell Inspiron 7790 DEL93FF 1920x1080 510x287mm 23.0-inch                 | 1         | 2.38%   |
-| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 2.38%   |
+| Dell 23" AIO DELB123 1920x1080 510x287mm 23.0-inch                       | 1         | 2.38%   |
+| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x194mm 15.5-inch          | 1         | 2.38%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 2.38%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 2.38%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 2.38%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 2.38%   |
-| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch                       | 1         | 2.38%   |
+| BenQ EW3270U BNQ7950 3840x2160 700x390mm 31.5-inch                       | 1         | 2.38%   |
 | AUS LCD Monitor VA32AQ 2560x1440                                         | 1         | 2.38%   |
 | AU Optronics LCD Monitor AUO9274 1280x800 331x207mm 15.4-inch            | 1         | 2.38%   |
 | ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch             | 1         | 2.38%   |

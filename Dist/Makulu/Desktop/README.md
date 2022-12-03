@@ -825,7 +825,7 @@ Hard drive models
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.17%   |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.17%   |
 | Kingston SV300S37A120G 120GB SSD             | 1        | 2.17%   |
-| JMicron Generic 500GB                        | 1        | 2.17%   |
+| JMicron Generic 1TB                          | 1        | 2.17%   |
 | Hitachi HDS728080PLA380 82GB                 | 1        | 2.17%   |
 | Hitachi HDS721010CLA332 1TB                  | 1        | 2.17%   |
 
@@ -856,18 +856,19 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 3        | 3      | 17.65%  |
-| Kingston            | 3        | 4      | 17.65%  |
-| SanDisk             | 2        | 2      | 11.76%  |
-| WDC                 | 1        | 1      | 5.88%   |
-| Seagate             | 1        | 1      | 5.88%   |
-| Origin              | 1        | 1      | 5.88%   |
-| Micron Technology   | 1        | 1      | 5.88%   |
-| LITEONIT            | 1        | 1      | 5.88%   |
-| Leven               | 1        | 1      | 5.88%   |
-| Crucial             | 1        | 1      | 5.88%   |
-| China               | 1        | 1      | 5.88%   |
-| A-DATA Technology   | 1        | 1      | 5.88%   |
+| Samsung Electronics | 3        | 3      | 16.67%  |
+| Kingston            | 3        | 4      | 16.67%  |
+| SanDisk             | 2        | 2      | 11.11%  |
+| WDC                 | 1        | 1      | 5.56%   |
+| Seagate             | 1        | 1      | 5.56%   |
+| Origin              | 1        | 1      | 5.56%   |
+| Micron Technology   | 1        | 1      | 5.56%   |
+| LITEONIT            | 1        | 1      | 5.56%   |
+| Leven               | 1        | 1      | 5.56%   |
+| JMicron Technology  | 1        | 1      | 5.56%   |
+| Crucial             | 1        | 1      | 5.56%   |
+| China               | 1        | 1      | 5.56%   |
+| A-DATA Technology   | 1        | 1      | 5.56%   |
 
 Drive Kind
 ----------
@@ -879,9 +880,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 14       | 18     | 38.89%  |
+| SSD     | 15       | 19     | 41.67%  |
 | HDD     | 14       | 21     | 38.89%  |
-| NVMe    | 6        | 9      | 16.67%  |
+| NVMe    | 5        | 8      | 13.89%  |
 | MMC     | 1        | 1      | 2.78%   |
 | Unknown | 1        | 1      | 2.78%   |
 
@@ -910,9 +911,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 27     | 65.52%  |
-| 0.51-1.0   | 9        | 11     | 31.03%  |
-| 1.01-2.0   | 1        | 1      | 3.45%   |
+| 0.01-0.5   | 19       | 27     | 63.33%  |
+| 0.51-1.0   | 10       | 12     | 33.33%  |
+| 1.01-2.0   | 1        | 1      | 3.33%   |
 
 Space Total
 -----------
@@ -1071,7 +1072,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                               | 2        | 4.55%   |
 | AMD 400 Series Chipset SATA Controller                                         | 2        | 4.55%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1        | 2.27%   |
-| SK hynix SC300 512GB M.2 2280 SATA Solid State Drive                           | 1        | 2.27%   |
+| SK hynix PC400 NVMe SSD                                                        | 1        | 2.27%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1        | 2.27%   |
 | SanDisk Non-Volatile memory controller                                         | 1        | 2.27%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1        | 2.27%   |
@@ -1438,7 +1439,7 @@ Monitor models
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch            | 1        | 4%      |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch            | 1        | 4%      |
 | Dell LCD Monitor E228WFP                                     | 1        | 4%      |
-| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch           | 1        | 4%      |
+| BenQ EW3270U BNQ7950 3840x2160 700x390mm 31.5-inch           | 1        | 4%      |
 | AUS LCD Monitor VA32AQ 2560x1440                             | 1        | 4%      |
 | ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch | 1        | 4%      |
 | AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch             | 1        | 4%      |

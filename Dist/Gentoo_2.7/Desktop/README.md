@@ -1051,14 +1051,14 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2019    | 51       | 18.82%  |
+| 2019    | 52       | 19.19%  |
 | 2018    | 42       | 15.5%   |
-| 2020    | 39       | 14.39%  |
+| 2020    | 38       | 14.02%  |
 | 2017    | 26       | 9.59%   |
 | 2015    | 15       | 5.54%   |
 | 2016    | 13       | 4.8%    |
-| 2013    | 13       | 4.8%    |
-| 2012    | 11       | 4.06%   |
+| 2013    | 12       | 4.43%   |
+| 2012    | 12       | 4.43%   |
 | 2010    | 10       | 3.69%   |
 | 2008    | 10       | 3.69%   |
 | 2011    | 8        | 2.95%   |
@@ -1188,8 +1188,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 191      | 68.46%  |
-| Yes       | 88       | 31.54%  |
+| No        | 192      | 68.82%  |
+| Yes       | 87       | 31.18%  |
 
 Has Ethernet
 ------------
@@ -1541,12 +1541,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 164      | 347    | 39.71%  |
-| 0.51-1.0   | 107      | 184    | 25.91%  |
-| 1.01-2.0   | 63       | 136    | 15.25%  |
-| 3.01-4.0   | 36       | 75     | 8.72%   |
-| 2.01-3.0   | 24       | 45     | 5.81%   |
-| 4.01-10.0  | 16       | 69     | 3.87%   |
+| 0.01-0.5   | 166      | 350    | 40%     |
+| 0.51-1.0   | 108      | 182    | 26.02%  |
+| 1.01-2.0   | 62       | 135    | 14.94%  |
+| 3.01-4.0   | 36       | 75     | 8.67%   |
+| 2.01-3.0   | 24       | 45     | 5.78%   |
+| 4.01-10.0  | 16       | 69     | 3.86%   |
 | 10.01-20.0 | 2        | 5      | 0.48%   |
 | 20.01-50.0 | 1        | 1      | 0.24%   |
 
@@ -1846,10 +1846,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 243      | 54.24%  |
-| NVMe | 146      | 32.59%  |
-| IDE  | 31       | 6.92%   |
-| RAID | 20       | 4.46%   |
+| SATA | 242      | 54.14%  |
+| NVMe | 146      | 32.66%  |
+| IDE  | 31       | 6.94%   |
+| RAID | 20       | 4.47%   |
 | SAS  | 4        | 0.89%   |
 | SCSI | 4        | 0.89%   |
 
@@ -2310,28 +2310,28 @@ Monitor models
 
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
-| Iiyama PL2473HD IVM6107 1920x1080 520x290mm 23.4-inch                  | 4        | 1.17%   |
-| Iiyama PL2409HD IVM560C 1920x1080 521x293mm 23.5-inch                  | 4        | 1.17%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 4        | 1.17%   |
+| Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                  | 4        | 1.17%   |
+| Iiyama PL2409HD IVM560C 1920x1080 520x290mm 23.4-inch                  | 4        | 1.17%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 4        | 1.17%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                 | 4        | 1.17%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 4        | 1.17%   |
+| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch            | 4        | 1.17%   |
 | Fujitsu Siemens P24W-6 IPS FUS07EA 1920x1200 518x324mm 24.1-inch       | 4        | 1.17%   |
 | Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                      | 4        | 1.17%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch               | 3        | 0.87%   |
-| Goldstar LG HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch               | 3        | 0.87%   |
+| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 3        | 0.87%   |
 | Envision Peripherals LCD2361 ENV2361 1920x1080 521x293mm 23.5-inch     | 3        | 0.87%   |
 | BenQ PD3200U BNQ8025 3840x2160 708x399mm 32.0-inch                     | 3        | 0.87%   |
 | BenQ LCD BNQ801E 3840x2160 596x335mm 26.9-inch                         | 3        | 0.87%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch      | 2        | 0.58%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch      | 2        | 0.58%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 2        | 0.58%   |
 | Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch      | 2        | 0.58%   |
 | Samsung Electronics LCD Monitor SAM0C39 1920x1080 885x498mm 40.0-inch  | 2        | 0.58%   |
 | Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 2        | 0.58%   |
-| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch     | 2        | 0.58%   |
+| Samsung Electronics C49RG9x SAM0F9C 2560x1440 1193x336mm 48.8-inch     | 2        | 0.58%   |
 | Samsung Electronics C49HG9x SAM0E5E 3840x1080 1196x336mm 48.9-inch     | 2        | 0.58%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 2        | 0.58%   |
-| MSI MAG274QRF-QD MSI3CA8 2560x1440 596x335mm 26.9-inch                 | 2        | 0.58%   |
-| MSI G241VC MSI1462 1920x1080 521x294mm 23.6-inch                       | 2        | 0.58%   |
+| MSI PRO 22X 10M MSI1462 1920x1080 595x336mm 26.9-inch                  | 2        | 0.58%   |
+| MSI MAG274QRF MSI3CA8 2560x1440 597x336mm 27.0-inch                    | 2        | 0.58%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                   | 2        | 0.58%   |
 | Idek Iiyama LCD Monitor PLE2607WS                                      | 2        | 0.58%   |
 | Hewlett-Packard LA1951 HWP285B 1280x1024 380x300mm 19.1-inch           | 2        | 0.58%   |
@@ -2341,14 +2341,14 @@ Monitor models
 | Dell U2720Q DEL41B3 3840x2160 597x336mm 27.0-inch                      | 2        | 0.58%   |
 | BenQ GL2450 BNQ78A5 1920x1080 531x298mm 24.0-inch                      | 2        | 0.58%   |
 | BenQ E2200HD BNQ790C 1920x1080 477x268mm 21.5-inch                     | 2        | 0.58%   |
-| AOC 24G1WG3 AOC2401 1920x1080 521x293mm 23.5-inch                      | 2        | 0.58%   |
+| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                        | 2        | 0.58%   |
 | AOC 2473W1M AOC2473 1920x1080 527x296mm 23.8-inch                      | 2        | 0.58%   |
 | AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                        | 2        | 0.58%   |
-| Ancor Communications VG248 ACI24A4 1920x1080 530x300mm 24.0-inch       | 2        | 0.58%   |
+| Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch       | 2        | 0.58%   |
 | Ancor Communications ROG PG279Q ACI27EC 2560x1440 598x336mm 27.0-inch  | 2        | 0.58%   |
 | Ancor Communications ASUS PB287Q ACI28A3 3840x2160 621x341mm 27.9-inch | 2        | 0.58%   |
 | Ancor Communications ASUS PB238 ACI23A2 1920x1080 509x286mm 23.0-inch  | 2        | 0.58%   |
-| Ancor Communications ASUS MX239 ACI23C2 1920x1080 528x310mm 24.1-inch  | 2        | 0.58%   |
+| Ancor Communications ASUS MX239 ACI23C2 1920x1080 530x310mm 24.2-inch  | 2        | 0.58%   |
 | Yamaha HTR-6064 YMH3169 1920x540                                       | 1        | 0.29%   |
 
 Monitor Resolution
@@ -2361,16 +2361,16 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 121      | 39.16%  |
-| 2560x1440 (QHD)    | 42       | 13.59%  |
-| 3840x2160 (4K)     | 39       | 12.62%  |
-| 1920x1200 (WUXGA)  | 20       | 6.47%   |
-| 3440x1440          | 17       | 5.5%    |
-| 1280x1024 (SXGA)   | 13       | 4.21%   |
-| 1680x1050 (WSXGA+) | 9        | 2.91%   |
-| 3840x1080          | 8        | 2.59%   |
-| Unknown            | 8        | 2.59%   |
-| 2560x1080          | 7        | 2.27%   |
+| 1920x1080 (FHD)    | 121      | 39.03%  |
+| 2560x1440 (QHD)    | 42       | 13.55%  |
+| 3840x2160 (4K)     | 39       | 12.58%  |
+| 1920x1200 (WUXGA)  | 20       | 6.45%   |
+| 3440x1440          | 17       | 5.48%   |
+| 1280x1024 (SXGA)   | 13       | 4.19%   |
+| 1680x1050 (WSXGA+) | 9        | 2.9%    |
+| 3840x1080          | 8        | 2.58%   |
+| Unknown            | 8        | 2.58%   |
+| 2560x1080          | 7        | 2.26%   |
 | 1600x900 (HD+)     | 6        | 1.94%   |
 | 1440x900 (WXGA+)   | 3        | 0.97%   |
 | 3840x1200          | 2        | 0.65%   |
@@ -2381,6 +2381,7 @@ Monitor screen resolution
 | 4880x1080          | 1        | 0.32%   |
 | 3926x1440          | 1        | 0.32%   |
 | 3600x1080          | 1        | 0.32%   |
+| 2560x1600          | 1        | 0.32%   |
 | 2160x1200          | 1        | 0.32%   |
 | 2048x1152          | 1        | 0.32%   |
 | 1920x540           | 1        | 0.32%   |
@@ -2659,12 +2660,12 @@ Wireless models
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter     | 2        | 1.8%    |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller         | 2        | 1.8%    |
 | TP-Link Archer T2U PLUS [RTL8821AU]                            | 1        | 0.9%    |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1        | 0.9%    |
+| TP-Link 802.11ac WLAN Adapter                                  | 1        | 0.9%    |
 | Texas Instruments ACX 100 22Mbps Wireless Interface            | 1        | 0.9%    |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1        | 0.9%    |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1        | 0.9%    |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                | 1        | 0.9%    |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter          | 1        | 0.9%    |
+| Realtek 802.11n                                                | 1        | 0.9%    |
 | Ralink MT7601U Wireless Adapter                                | 1        | 0.9%    |
 | Ralink RT3060 Wireless 802.11n 1T/1R                           | 1        | 0.9%    |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 1        | 0.9%    |
@@ -2749,7 +2750,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 1        | 0.31%   |
 | QLogic cLOM8214 1/10GbE Controller                                            | 1        | 0.31%   |
 | Nvidia MCP79 Ethernet                                                         | 1        | 0.31%   |
-| MediaTek TECNO Pouvoir 3 Air                                                  | 1        | 0.31%   |
+| MediaTek N152DL                                                               | 1        | 0.31%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                       | 1        | 0.31%   |
 | Intel Ethernet Controller X710 for 10GbE SFP+                                 | 1        | 0.31%   |
 | Intel Ethernet Connection I217-V                                              | 1        | 0.31%   |
@@ -2929,48 +2930,48 @@ Sound card models
 ![Sound Model](./images/pie_chart/snd_model.svg)
 
 
-| Model                                                                      | Desktops | Percent |
-|----------------------------------------------------------------------------|----------|---------|
-| AMD Starship/Matisse HD Audio Controller                                   | 72       | 12.1%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 42       | 7.06%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 40       | 6.72%   |
-| AMD Navi 10 HDMI Audio                                                     | 23       | 3.87%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 16       | 2.69%   |
-| AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                 | 14       | 2.35%   |
-| AMD SBx00 Azalia (Intel HDA)                                               | 13       | 2.18%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 10       | 1.68%   |
-| Intel 200 Series PCH HD Audio                                              | 10       | 1.68%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 9        | 1.51%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 9        | 1.51%   |
-| Nvidia GP104 High Definition Audio Controller                              | 8        | 1.34%   |
-| Nvidia GK208 HDMI/DP Audio Controller                                      | 8        | 1.34%   |
-| AMD Navi 21/23 HDMI/DP Audio Controller                                    | 8        | 1.34%   |
-| Nvidia TU116 High Definition Audio Controller                              | 7        | 1.18%   |
-| Nvidia TU104 HD Audio Controller                                           | 7        | 1.18%   |
-| Nvidia GM206 High Definition Audio Controller                              | 7        | 1.18%   |
-| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 7        | 1.18%   |
-| Intel Cannon Lake PCH cAVS                                                 | 7        | 1.18%   |
-| Nvidia GP106 High Definition Audio Controller                              | 6        | 1.01%   |
-| Nvidia GP102 HDMI Audio Controller                                         | 6        | 1.01%   |
-| Nvidia GM204 High Definition Audio Controller                              | 6        | 1.01%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 6        | 1.01%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 6        | 1.01%   |
-| Texas Instruments PCM2902 Audio Codec                                      | 5        | 0.84%   |
-| Nvidia TU106 High Definition Audio Controller                              | 5        | 0.84%   |
-| Nvidia GA102 High Definition Audio Controller                              | 5        | 0.84%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                    | 5        | 0.84%   |
-| Intel Comet Lake PCH cAVS                                                  | 5        | 0.84%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 5        | 0.84%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 5        | 0.84%   |
-| C-Media Electronics CMI8788 [Oxygen HD Audio]                              | 5        | 0.84%   |
-| C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 5        | 0.84%   |
-| Nvidia GP107GL High Definition Audio Controller                            | 4        | 0.67%   |
-| Nvidia GK106 HDMI Audio Controller                                         | 4        | 0.67%   |
-| Nvidia GA104 High Definition Audio Controller                              | 4        | 0.67%   |
-| Intel 9 Series Chipset Family HD Audio Controller                          | 4        | 0.67%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 4        | 0.67%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]              | 4        | 0.67%   |
-| Creative Labs EMU10k1 [Sound Blaster Live! Series]                         | 4        | 0.67%   |
+| Model                                                                                           | Desktops | Percent |
+|-------------------------------------------------------------------------------------------------|----------|---------|
+| AMD Starship/Matisse HD Audio Controller                                                        | 72       | 12.1%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                             | 42       | 7.06%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                      | 40       | 6.72%   |
+| AMD Navi 10 HDMI Audio                                                                          | 23       | 3.87%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 16       | 2.69%   |
+| AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 14       | 2.35%   |
+| AMD SBx00 Azalia (Intel HDA)                                                                    | 13       | 2.18%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                                                | 10       | 1.68%   |
+| Intel 200 Series PCH HD Audio                                                                   | 10       | 1.68%   |
+| AMD Family 17h/19h HD Audio Controller                                                          | 9        | 1.51%   |
+| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                    | 9        | 1.51%   |
+| Nvidia GP104 High Definition Audio Controller                                                   | 8        | 1.34%   |
+| Nvidia GK208 HDMI/DP Audio Controller                                                           | 8        | 1.34%   |
+| AMD Navi 21/23 HDMI/DP Audio Controller                                                         | 8        | 1.34%   |
+| Nvidia TU116 High Definition Audio Controller                                                   | 7        | 1.18%   |
+| Nvidia TU104 HD Audio Controller                                                                | 7        | 1.18%   |
+| Nvidia GM206 High Definition Audio Controller                                                   | 7        | 1.18%   |
+| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                                   | 7        | 1.18%   |
+| Intel Cannon Lake PCH cAVS                                                                      | 7        | 1.18%   |
+| Nvidia GP106 High Definition Audio Controller                                                   | 6        | 1.01%   |
+| Nvidia GP102 HDMI Audio Controller                                                              | 6        | 1.01%   |
+| Nvidia GM204 High Definition Audio Controller                                                   | 6        | 1.01%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                | 6        | 1.01%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                             | 6        | 1.01%   |
+| Texas Instruments PCM2902 Audio Codec                                                           | 5        | 0.84%   |
+| Nvidia TU106 High Definition Audio Controller                                                   | 5        | 0.84%   |
+| Nvidia GA102 High Definition Audio Controller                                                   | 5        | 0.84%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                         | 5        | 0.84%   |
+| Intel Comet Lake PCH cAVS                                                                       | 5        | 0.84%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 5        | 0.84%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                      | 5        | 0.84%   |
+| C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 5        | 0.84%   |
+| C-Media Electronics Audio Adapter (Unitek Y-247A)                                               | 5        | 0.84%   |
+| Nvidia GP107GL High Definition Audio Controller                                                 | 4        | 0.67%   |
+| Nvidia GK106 HDMI Audio Controller                                                              | 4        | 0.67%   |
+| Nvidia GA104 High Definition Audio Controller                                                   | 4        | 0.67%   |
+| Intel 9 Series Chipset Family HD Audio Controller                                               | 4        | 0.67%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 4        | 0.67%   |
+| Creative Labs EMU10k1 [Sound Blaster Live! Series]                                              | 4        | 0.67%   |
+| Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 4        | 0.67%   |
 
 Memory
 ------
@@ -3018,48 +3019,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s  | 6        | 1.97%   |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s    | 6        | 1.97%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s       | 5        | 1.64%   |
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s  | 5        | 1.64%   |
-| Unknown RAM Module 512MB DIMM SDRAM                     | 3        | 0.98%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                    | 3        | 0.98%   |
-| Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s  | 3        | 0.98%   |
-| Kingston RAM KHX2666C15D4/8G 8GB DIMM DDR4 3200MT/s     | 3        | 0.98%   |
-| Kingston RAM 9965745-002.A00G 16GB DIMM DDR4 3000MT/s   | 3        | 0.98%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s  | 3        | 0.98%   |
-| G.Skill RAM F4-3200C16-16GTZ 16GB DIMM DDR4 3200MT/s    | 3        | 0.98%   |
-| G.Skill RAM F4-3200C14-8GTZ 8GB DIMM DDR4 3733MT/s      | 3        | 0.98%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s     | 3        | 0.98%   |
-| Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 3000MT/s    | 3        | 0.98%   |
-| Crucial RAM CT4G4DFS8213.C8FAD11 4GB DIMM DDR4 2133MT/s | 3        | 0.98%   |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s  | 3        | 0.98%   |
-| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3100MT/s  | 3        | 0.98%   |
-| Unknown RAM Module 4096MB DIMM                          | 2        | 0.66%   |
-| Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s   | 2        | 0.66%   |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s     | 2        | 0.66%   |
-| SK hynix RAM HMA41GU6AFR8N-TF 8GB DIMM DDR4 2465MT/s    | 2        | 0.66%   |
-| Samsung RAM Module 4GB DIMM DDR3 1066MT/s               | 2        | 0.66%   |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s      | 2        | 0.66%   |
-| Nanya RAM M2F4G64CB88B7N-DI 4GB DIMM DDR3 1600MT/s      | 2        | 0.66%   |
-| Kingston RAM Module 2GB DIMM DDR2 800MT/s               | 2        | 0.66%   |
-| Kingston RAM KHX2666C16D4/16GX 16GB DIMM DDR4 2667MT/s  | 2        | 0.66%   |
-| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s   | 2        | 0.66%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s   | 2        | 0.66%   |
-| Kingston RAM 9905625-066.A00G 16GB DIMM DDR4 2667MT/s   | 2        | 0.66%   |
-| GOODRAM RAM GR1600D364L11/2G 2GB DIMM DDR3 1333MT/s     | 2        | 0.66%   |
-| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s   | 2        | 0.66%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s     | 2        | 0.66%   |
-| G.Skill RAM F4-3200C16-8GTZR 8GB DIMM DDR4 3200MT/s     | 2        | 0.66%   |
-| G.Skill RAM F4-3200C16-8GTZB 8GB DIMM DDR4 3200MT/s     | 2        | 0.66%   |
-| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s      | 2        | 0.66%   |
-| G.Skill RAM F4-3200C14-16GVK 16GB DIMM DDR4 3200MT/s    | 2        | 0.66%   |
-| G.Skill RAM F4-3000C16-16GISB 16GB DIMM DDR4 3000MT/s   | 2        | 0.66%   |
-| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s   | 2        | 0.66%   |
-| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s   | 2        | 0.66%   |
-| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 3000MT/s   | 2        | 0.66%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s    | 6        | 1.97%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s      | 6        | 1.97%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 5        | 1.64%   |
+| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s    | 5        | 1.64%   |
+| Unknown RAM Module 512MB DIMM SDRAM                       | 3        | 0.98%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                      | 3        | 0.98%   |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s       | 3        | 0.98%   |
+| Kingston RAM KHX2666C15D4/8G 8GB DIMM DDR4 3200MT/s       | 3        | 0.98%   |
+| Kingston RAM 9965745-002.A00G 16GB DIMM DDR4 3000MT/s     | 3        | 0.98%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 3        | 0.98%   |
+| G.Skill RAM F4-3200C16-16GTZ 16GB DIMM DDR4 3200MT/s      | 3        | 0.98%   |
+| G.Skill RAM F4-3200C14-8GTZ 8GB DIMM DDR4 3733MT/s        | 3        | 0.98%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s       | 3        | 0.98%   |
+| Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 3000MT/s      | 3        | 0.98%   |
+| Crucial RAM CT4G4DFS8213.C8FAD11 4GB DIMM DDR4 2133MT/s   | 3        | 0.98%   |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s    | 3        | 0.98%   |
+| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3100MT/s    | 3        | 0.98%   |
+| Unknown RAM Module 4096MB DIMM                            | 2        | 0.66%   |
+| Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s     | 2        | 0.66%   |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s       | 2        | 0.66%   |
+| SK hynix RAM HMA41GU6AFR8N-TF 8192MB DIMM DDR4 2465MT/s   | 2        | 0.66%   |
+| Samsung RAM Module 4GB DIMM DDR3 1066MT/s                 | 2        | 0.66%   |
+| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3200MT/s       | 2        | 0.66%   |
+| Nanya RAM M2F4G64CB88B7N-DI 4GB DIMM DDR3 1600MT/s        | 2        | 0.66%   |
+| Kingston RAM Module 2GB DIMM DDR2 800MT/s                 | 2        | 0.66%   |
+| Kingston RAM KHX2666C16D4/16GX 16GB DIMM DDR4 2667MT/s    | 2        | 0.66%   |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s     | 2        | 0.66%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s     | 2        | 0.66%   |
+| Kingston RAM 9905625-066.A00G 16GB DIMM DDR4 2667MT/s     | 2        | 0.66%   |
+| GOODRAM RAM GR1600D364L11/2G 2GB DIMM DDR3 1333MT/s       | 2        | 0.66%   |
+| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s     | 2        | 0.66%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s       | 2        | 0.66%   |
+| G.Skill RAM F4-3200C16-8GTZR 8GB DIMM DDR4 3200MT/s       | 2        | 0.66%   |
+| G.Skill RAM F4-3200C16-8GTZB 8GB DIMM DDR4 3200MT/s       | 2        | 0.66%   |
+| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s        | 2        | 0.66%   |
+| G.Skill RAM F4-3200C14-16GVK 16GB DIMM DDR4 3200MT/s      | 2        | 0.66%   |
+| G.Skill RAM F4-3000C16-16GISB 16GB DIMM DDR4 3000MT/s     | 2        | 0.66%   |
+| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s     | 2        | 0.66%   |
+| Crucial RAM CT102464BA160B.C16 8192MB DIMM DDR3 1600MT/s  | 2        | 0.66%   |
+| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 3000MT/s     | 2        | 0.66%   |
 
 Memory Kind
 -----------
@@ -3122,7 +3123,7 @@ Memory module speed
 |---------|----------|---------|
 | 3200    | 40       | 14.08%  |
 | 3600    | 39       | 13.73%  |
-| 1600    | 30       | 10.56%  |
+| 1600    | 29       | 10.21%  |
 | 2400    | 21       | 7.39%   |
 | 1333    | 18       | 6.34%   |
 | 3000    | 16       | 5.63%   |
@@ -3130,10 +3131,10 @@ Memory module speed
 | 3733    | 12       | 4.23%   |
 | 800     | 10       | 3.52%   |
 | 3400    | 9        | 3.17%   |
-| 2667    | 9        | 3.17%   |
+| 2933    | 8        | 2.82%   |
+| 2667    | 8        | 2.82%   |
 | 667     | 8        | 2.82%   |
 | 3466    | 7        | 2.46%   |
-| 2933    | 7        | 2.46%   |
 | Unknown | 6        | 2.11%   |
 | 2666    | 5        | 1.76%   |
 | 3866    | 4        | 1.41%   |
@@ -3144,13 +3145,13 @@ Memory module speed
 | 4000    | 2        | 0.7%    |
 | 3066    | 2        | 0.7%    |
 | 2465    | 2        | 0.7%    |
+| 1867    | 2        | 0.7%    |
 | 1866    | 2        | 0.7%    |
 | 400     | 2        | 0.7%    |
 | 3666    | 1        | 0.35%   |
 | 3467    | 1        | 0.35%   |
 | 2800    | 1        | 0.35%   |
 | 2134    | 1        | 0.35%   |
-| 1867    | 1        | 0.35%   |
 | 1800    | 1        | 0.35%   |
 
 Printers & scanners
@@ -3262,12 +3263,12 @@ Camera device models
 | Logitech HD Webcam C615                     | 2        | 2.86%   |
 | Logitech C920 PRO HD Webcam                 | 2        | 2.86%   |
 | Logitech B525 HD Webcam                     | 2        | 2.86%   |
-| Z-Star USB2.0 Camera                        | 1        | 1.43%   |
-| Sunplus ezcap U3 capture                    | 1        | 1.43%   |
-| Realtek Streaming Webcam                    | 1        | 1.43%   |
-| Realtek FULL HD 1080P Webcam                | 1        | 1.43%   |
+| Z-Star Vimicro USB Camera (Altair)          | 1        | 1.43%   |
+| Sunplus MYPIN HD Capture                    | 1        | 1.43%   |
+| Realtek USB Camera                          | 1        | 1.43%   |
+| Realtek HD webcam                           | 1        | 1.43%   |
 | Microdia Webcam Vitade AF                   | 1        | 1.43%   |
-| Microdia USB Live camera                    | 1        | 1.43%   |
+| Microdia Hy-HD-Camera                       | 1        | 1.43%   |
 | Microdia Defender G-Lens 2577 HD720p Camera | 1        | 1.43%   |
 | Microdia Camera                             | 1        | 1.43%   |
 | Logitech Webcam Pro 9000                    | 1        | 1.43%   |
@@ -3278,11 +3279,11 @@ Camera device models
 | Logitech QuickCam Communicate MP/S5500      | 1        | 1.43%   |
 | Logitech HD Webcam C510                     | 1        | 1.43%   |
 | Logitech C505e HD Webcam                    | 1        | 1.43%   |
-| Logitech BRIO Ultra HD Webcam               | 1        | 1.43%   |
+| Logitech BRIO                               | 1        | 1.43%   |
 | KYE Systems (Mouse Systems) PC-LM1E Camera  | 1        | 1.43%   |
 | Creative VF0610 Live! Cam Socialize HD      | 1        | 1.43%   |
 | AVerMedia USB Device                        | 1        | 1.43%   |
-| A4Tech Full HD 720P PC Camera               | 1        | 1.43%   |
+| A4Tech HD 720P PC Camera                    | 1        | 1.43%   |
 | 2M UVC CAMERA NexiGo N60 FHD Webcam         | 1        | 1.43%   |
 
 Security

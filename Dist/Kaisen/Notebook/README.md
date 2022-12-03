@@ -768,7 +768,7 @@ Hard drive models
 | KIOXIA KBG40ZNS512G NVMe 512GB            | 1         | 3.45%   |
 | Kingston SV300S37A240G 240GB SSD          | 1         | 3.45%   |
 | Kingston SNVS1000GB 1TB                   | 1         | 3.45%   |
-| JMicron Generic 500GB                     | 1         | 3.45%   |
+| JMicron Generic 1TB                       | 1         | 3.45%   |
 | Intel SSDSC2BX480G4 480GB                 | 1         | 3.45%   |
 | Hitachi HTS545050A7E380 500GB             | 1         | 3.45%   |
 | HGST HTS725050A7E630 500GB                | 1         | 3.45%   |
@@ -801,13 +801,14 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 4         | 4      | 40%     |
-| WDC                 | 1         | 1      | 10%     |
-| LITEONIT            | 1         | 1      | 10%     |
-| LITEON              | 1         | 1      | 10%     |
-| Kingston            | 1         | 1      | 10%     |
-| Intel               | 1         | 1      | 10%     |
-| Crucial             | 1         | 1      | 10%     |
+| Samsung Electronics | 4         | 4      | 36.36%  |
+| WDC                 | 1         | 1      | 9.09%   |
+| LITEONIT            | 1         | 1      | 9.09%   |
+| LITEON              | 1         | 1      | 9.09%   |
+| Kingston            | 1         | 1      | 9.09%   |
+| JMicron Technology  | 1         | 1      | 9.09%   |
+| Intel               | 1         | 1      | 9.09%   |
+| Crucial             | 1         | 1      | 9.09%   |
 
 Drive Kind
 ----------
@@ -820,8 +821,8 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | HDD  | 11        | 11     | 40.74%  |
-| SSD  | 9         | 10     | 33.33%  |
-| NVMe | 7         | 8      | 25.93%  |
+| SSD  | 10        | 11     | 37.04%  |
+| NVMe | 6         | 7      | 22.22%  |
 
 Drive Connector
 ---------------
@@ -847,8 +848,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 15        | 16     | 75%     |
-| 0.51-1.0   | 5         | 5      | 25%     |
+| 0.01-0.5   | 15        | 16     | 71.43%  |
+| 0.51-1.0   | 6         | 6      | 28.57%  |
 
 Space Total
 -----------
@@ -1357,14 +1358,14 @@ Monitor models
 
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD045E 1366x768 309x174mm 14.0-inch               | 2         | 7.41%   |
+| LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch               | 2         | 7.41%   |
 | Sharp LQ173M1JW08 SHP1544 1920x1080 382x215mm 17.3-inch                   | 1         | 3.7%    |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch     | 1         | 3.7%    |
 | PANDA LCD Monitor NCP005F 1920x1080 344x194mm 15.5-inch                   | 1         | 3.7%    |
 | LG Display LCD Monitor LGD40BA 1920x1080 344x194mm 15.5-inch              | 1         | 3.7%    |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch               | 1         | 3.7%    |
-| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch                  | 1         | 3.7%    |
+| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 1         | 3.7%    |
 | Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                      | 1         | 3.7%    |
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                           | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 3.7%    |
@@ -1376,7 +1377,7 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO1100 1366x768 256x144mm 11.6-inch  | 1         | 3.7%    |
 | BOE LCD Monitor BOE09DC 1920x1080 344x194mm 15.5-inch                     | 1         | 3.7%    |
 | BOE LCD Monitor BOE05FE 1366x768 309x173mm 13.9-inch                      | 1         | 3.7%    |
-| AU Optronics LCD Monitor AUO63ED 1920x1080 340x190mm 15.3-inch            | 1         | 3.7%    |
+| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.7%    |
@@ -1834,7 +1835,7 @@ Memory module models
 |--------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 2         | 6.67%   |
 | Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s      | 2         | 6.67%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 3.33%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
@@ -1843,7 +1844,7 @@ Memory module models
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 3.33%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 3.33%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 3.33%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.33%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s     | 1         | 3.33%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 3.33%   |
 | Ramaxel RAM RMSA3260MD78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 3.33%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 3.33%   |
@@ -1854,7 +1855,7 @@ Memory module models
 | Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s       | 1         | 3.33%   |
 | Crucial RAM CT102464BF160B.Y16 8GB SODIMM DDR3 1600MT/s      | 1         | 3.33%   |
 | Crucial RAM BLS16G4S26BFSD.16FD 16GB SODIMM DDR4 2667MT/s    | 1         | 3.33%   |
-| Corsair RAM CMSX16GX4M1A2400C16 16GB SODIMM DDR4 2400MT/s    | 1         | 3.33%   |
+| Corsair RAM CMSX16GX4M1A2400C16 16384MB SODIMM DDR4 2400MT/s | 1         | 3.33%   |
 | Apacer RAM 78.A2GC8.CY00C 2GB SODIMM DDR3 800MT/s            | 1         | 3.33%   |
 | Apacer RAM 78.A2GC8.9L00C 2GB SODIMM DDR3 800MT/s            | 1         | 3.33%   |
 | A-DATA RAM Module 8GB SODIMM DDR4 2133MT/s                   | 1         | 3.33%   |

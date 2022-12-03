@@ -1316,7 +1316,7 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                            | 2         | 2.06%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2         | 2.06%   |
 | AMD 400 Series Chipset SATA Controller                                           | 2         | 2.06%   |
-| SK hynix Gold P31 SSD                                                            | 1         | 1.03%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                   | 1         | 1.03%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1         | 1.03%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 1.03%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 1         | 1.03%   |
@@ -1757,7 +1757,7 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch     | 2         | 3.17%   |
-| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 1         | 1.59%   |
+| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 1         | 1.59%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1         | 1.59%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1         | 1.59%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1         | 1.59%   |
@@ -1768,19 +1768,19 @@ Monitor models
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.59%   |
-| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch         | 1         | 1.59%   |
+| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch          | 1         | 1.59%   |
 | ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1         | 1.59%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 1.59%   |
-| LG Display LCD Monitor LGD03D7 1366x768 310x174mm 14.0-inch          | 1         | 1.59%   |
+| LG Display LCD Monitor LGD03D7 1366x768 309x174mm 14.0-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0353 1366x768 345x194mm 15.6-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 1.59%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 1.59%   |
-| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1         | 1.59%   |
+| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN4035 1280x800 304x190mm 14.1-inch              | 1         | 1.59%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1         | 1.59%   |
-| Iiyama PLE2207WS IVM5609 1680x1050 465x291mm 21.6-inch               | 1         | 1.59%   |
+| Iiyama PLE2207WS IVM5609 1680x1050 474x296mm 22.0-inch               | 1         | 1.59%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1         | 1.59%   |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch         | 1         | 1.59%   |
 | Hewlett-Packard 2309 HWP2823 1920x1080 510x287mm 23.0-inch           | 1         | 1.59%   |
@@ -2371,22 +2371,22 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 667MT/s                    | 1         | 1.47%   |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s         | 1         | 1.47%   |
 | Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s       | 1         | 1.47%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s        | 1         | 1.47%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s       | 1         | 1.47%   |
 | Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
 | SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s   | 1         | 1.47%   |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 1.47%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s     | 1         | 1.47%   |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 800MT/s   | 1         | 1.47%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s      | 1         | 1.47%   |
 | SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 1.47%   |
 | SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s   | 1         | 1.47%   |
 | SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s      | 1         | 1.47%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s    | 1         | 1.47%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s    | 1         | 1.47%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s     | 1         | 1.47%   |
+| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s  | 1         | 1.47%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s     | 1         | 1.47%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 1.47%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 1.47%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s     | 1         | 1.47%   |
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s    | 1         | 1.47%   |
@@ -2462,7 +2462,7 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 17        | 28.33%  |
-| 2667    | 10        | 16.67%  |
+| 2667    | 9         | 15%     |
 | 2400    | 6         | 10%     |
 | 3600    | 3         | 5%      |
 | 1333    | 3         | 5%      |
@@ -2475,6 +2475,7 @@ Memory module speed
 | 65535   | 1         | 1.67%   |
 | 4199    | 1         | 1.67%   |
 | 3800    | 1         | 1.67%   |
+| 2800    | 1         | 1.67%   |
 | 2000    | 1         | 1.67%   |
 | 1866    | 1         | 1.67%   |
 | 1334    | 1         | 1.67%   |
@@ -2573,12 +2574,11 @@ Camera device models
 
 | Model                                                                      | Computers | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
+| Realtek USB Camera                                                         | 2         | 7.41%   |
 | Chicony Integrated Camera                                                  | 2         | 7.41%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 3.7%    |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 3.7%    |
 | Silicon Motion Web Camera                                                  | 1         | 3.7%    |
-| Realtek USB Camera                                                         | 1         | 3.7%    |
-| Realtek 2SF022                                                             | 1         | 3.7%    |
 | Quanta HP Webcam                                                           | 1         | 3.7%    |
 | Motorola PCS XT1033 [Moto G], PTP mode                                     | 1         | 3.7%    |
 | Logitech Webcam C300                                                       | 1         | 3.7%    |

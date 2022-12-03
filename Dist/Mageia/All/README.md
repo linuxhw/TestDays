@@ -806,13 +806,13 @@ Motherboard manufacture year
 | 2018 | 10        | 11.63%  |
 | 2017 | 7         | 8.14%   |
 | 2016 | 6         | 6.98%   |
+| 2008 | 6         | 6.98%   |
 | 2020 | 5         | 5.81%   |
 | 2019 | 5         | 5.81%   |
 | 2014 | 5         | 5.81%   |
-| 2009 | 5         | 5.81%   |
-| 2008 | 5         | 5.81%   |
 | 2015 | 4         | 4.65%   |
 | 2011 | 4         | 4.65%   |
+| 2009 | 4         | 4.65%   |
 | 2010 | 3         | 3.49%   |
 | 2021 | 2         | 2.33%   |
 | 2007 | 1         | 1.16%   |
@@ -1131,7 +1131,7 @@ Hard drive models
 | Samsung SSD 850 EVO 500GB        | 2         | 1.02%   |
 | Samsung NVMe SSD Drive 500GB     | 2         | 1.02%   |
 | PNY CS900 120GB SSD              | 2         | 1.02%   |
-| OCZ-VERTEX PLUS R2 64GB SSD      | 2         | 1.02%   |
+| OCZ-VERTEX PLUS R2 128GB SSD     | 2         | 1.02%   |
 | Kingston SV300S37A240G 240GB SSD | 2         | 1.02%   |
 | Kingston SH103S3120G 120GB SSD   | 2         | 1.02%   |
 | Kingston SA400S37120G 120GB SSD  | 2         | 1.02%   |
@@ -1243,13 +1243,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 62        | 114    | 48.06%  |
-| 0.51-1.0   | 38        | 89     | 29.46%  |
-| 1.01-2.0   | 15        | 30     | 11.63%  |
-| 2.01-3.0   | 6         | 30     | 4.65%   |
-| 3.01-4.0   | 5         | 7      | 3.88%   |
-| 4.01-10.0  | 2         | 5      | 1.55%   |
-| 10.01-20.0 | 1         | 1      | 0.78%   |
+| 0.01-0.5   | 62        | 115    | 48.82%  |
+| 0.51-1.0   | 37        | 96     | 29.13%  |
+| 1.01-2.0   | 14        | 22     | 11.02%  |
+| 2.01-3.0   | 6         | 30     | 4.72%   |
+| 3.01-4.0   | 5         | 7      | 3.94%   |
+| 4.01-10.0  | 2         | 5      | 1.57%   |
+| 10.01-20.0 | 1         | 1      | 0.79%   |
 
 Space Total
 -----------
@@ -1773,6 +1773,7 @@ Graphics card models
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 4         | 3.96%   |
 | Nvidia GP106 [GeForce GTX 1060 6GB]                                         | 3         | 2.97%   |
 | Intel Skylake GT2 [HD Graphics 520]                                         | 3         | 2.97%   |
+| Intel HD Graphics 620                                                       | 3         | 2.97%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 3         | 2.97%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller   | 3         | 2.97%   |
 | AMD RV620 LE [Radeon HD 3450]                                               | 3         | 2.97%   |
@@ -1783,7 +1784,6 @@ Graphics card models
 | Nvidia GK107 [GeForce GT 640]                                               | 2         | 1.98%   |
 | Nvidia GF119 [GeForce GT 610]                                               | 2         | 1.98%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 2         | 1.98%   |
-| Intel HD Graphics 620                                                       | 2         | 1.98%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 2         | 1.98%   |
 | Intel 82G33/G31 Express Integrated Graphics Controller                      | 2         | 1.98%   |
 | AMD Tahiti XT [Radeon HD 7970/8970 OEM / R9 280X]                           | 2         | 1.98%   |
@@ -1932,7 +1932,7 @@ Monitor models
 | Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch     | 1         | 0.92%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch     | 1         | 0.92%   |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1         | 0.92%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 344x194mm 15.5-inch   | 1         | 0.92%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch   | 1         | 0.92%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch  | 1         | 0.92%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 1020x570mm 46.0-inch | 1         | 0.92%   |
 | Samsung Electronics LCD Monitor S24D330 3840x1080                      | 1         | 0.92%   |
@@ -2577,7 +2577,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                     | 1         | 1.52%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 1.52%   |
 | Unknown RAM Module 2048MB DIMM 667MT/s                           | 1         | 1.52%   |
-| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s     | 1         | 1.52%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s     | 1         | 1.52%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.52%   |
 | Team RAM Elite-16 4GB DIMM DDR3 1600MT/s                         | 1         | 1.52%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                       | 1         | 1.52%   |
@@ -2586,16 +2586,16 @@ Memory module models
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s           | 1         | 1.52%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8192MB SODIMM DDR4 2667MT/s        | 1         | 1.52%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 1.52%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 1.52%   |
 | Samsung RAM Module 4GB Row Of Chips LPDDR3 1867MT/s              | 1         | 1.52%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 1         | 1.52%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
+| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s         | 1         | 1.52%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.52%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s            | 1         | 1.52%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s             | 1         | 1.52%   |
 | Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3600MT/s             | 1         | 1.52%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s           | 1         | 1.52%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s              | 1         | 1.52%   |
 | Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s               | 1         | 1.52%   |
 | Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.52%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
@@ -2645,8 +2645,8 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 24        | 42.86%  |
-| 4096  | 20        | 35.71%  |
+| 8192  | 25        | 44.64%  |
+| 4096  | 19        | 33.93%  |
 | 16384 | 6         | 10.71%  |
 | 2048  | 6         | 10.71%  |
 
@@ -2811,7 +2811,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 2.56%   |
 | Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 2.56%   |
 | Apple Built-in iSight                                                      | 1         | 2.56%   |
-| Alcor Micro USB 2.0 WebCamera                                              | 1         | 2.56%   |
+| Alcor Micro USB 2.0 Camera                                                 | 1         | 2.56%   |
 | Acer BisonCam,NB Pro                                                       | 1         | 2.56%   |
 
 Security
@@ -2890,10 +2890,10 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 64        | 71.91%  |
-| 1     | 20        | 22.47%  |
-| 2     | 4         | 4.49%   |
-| 3     | 1         | 1.12%   |
+| 0     | 64        | 71.11%  |
+| 1     | 21        | 23.33%  |
+| 2     | 4         | 4.44%   |
+| 3     | 1         | 1.11%   |
 
 Unsupported Device Types
 ------------------------
@@ -2905,13 +2905,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 9         | 33.33%  |
-| Fingerprint reader       | 6         | 22.22%  |
-| Chipcard                 | 4         | 14.81%  |
-| Multimedia controller    | 3         | 11.11%  |
-| Unassigned class         | 1         | 3.7%    |
-| Sound                    | 1         | 3.7%    |
-| Net/wireless             | 1         | 3.7%    |
-| Communication controller | 1         | 3.7%    |
-| Camera                   | 1         | 3.7%    |
+| Graphics card            | 10        | 35.71%  |
+| Fingerprint reader       | 6         | 21.43%  |
+| Chipcard                 | 4         | 14.29%  |
+| Multimedia controller    | 3         | 10.71%  |
+| Unassigned class         | 1         | 3.57%   |
+| Sound                    | 1         | 3.57%   |
+| Net/wireless             | 1         | 3.57%   |
+| Communication controller | 1         | 3.57%   |
+| Camera                   | 1         | 3.57%   |
 

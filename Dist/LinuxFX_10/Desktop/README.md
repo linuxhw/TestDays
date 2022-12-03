@@ -504,8 +504,8 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
+| 2014 | 4        | 15.38%  |
 | 2011 | 4        | 15.38%  |
-| 2014 | 3        | 11.54%  |
 | 2013 | 3        | 11.54%  |
 | 2010 | 3        | 11.54%  |
 | 2019 | 2        | 7.69%   |
@@ -513,7 +513,6 @@ Motherboard manufacture year
 | 2012 | 2        | 7.69%   |
 | 2009 | 2        | 7.69%   |
 | 2008 | 2        | 7.69%   |
-| 2016 | 1        | 3.85%   |
 | 2007 | 1        | 3.85%   |
 | 2006 | 1        | 3.85%   |
 
@@ -775,7 +774,7 @@ Hard drive models
 | WDC WD1003FZEX-00MK2A0 1TB        | 1        | 1.67%   |
 | Toshiba MQ01ACF050 500GB          | 1        | 1.67%   |
 | Toshiba MQ01ABD050 500GB          | 1        | 1.67%   |
-| TO Exter nal USB 3.0 1TB          | 1        | 1.67%   |
+| TO Exter nal USB 3.0 512GB        | 1        | 1.67%   |
 | Seagate ST8000AS0002-1NA17Z 8TB   | 1        | 1.67%   |
 | Seagate ST500LX012-SSHD-8GB       | 1        | 1.67%   |
 | Seagate ST500DM002-1BD142 500GB   | 1        | 1.67%   |
@@ -1387,33 +1386,33 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 2        | 7.69%   |
-| ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch              | 1        | 3.85%   |
-| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                 | 1        | 3.85%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch      | 1        | 3.85%   |
-| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch   | 1        | 3.85%   |
-| Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch     | 1        | 3.85%   |
-| Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch     | 1        | 3.85%   |
-| Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch | 1        | 3.85%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1        | 3.85%   |
-| Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                     | 1        | 3.85%   |
-| Panasonic TV MEIA296 3840x2160 698x392mm 31.5-inch                     | 1        | 3.85%   |
-| Iiyama PLX2481H IVM611D 1920x1080 520x290mm 23.4-inch                  | 1        | 3.85%   |
-| Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch           | 1        | 3.85%   |
-| Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                   | 1        | 3.85%   |
-| Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                    | 1        | 3.85%   |
-| Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                   | 1        | 3.85%   |
-| BenQ LCD Monitor GL951A 2880x900                                       | 1        | 3.85%   |
-| BenQ LCD Monitor GL951A                                                | 1        | 3.85%   |
-| BenQ GL951A BNQ7897 1440x900 408x255mm 18.9-inch                       | 1        | 3.85%   |
-| AOC 2790WG5 AOC2790 1920x1080 600x340mm 27.2-inch                      | 1        | 3.85%   |
-| Ancor Communications ASUS VC239 ACI23C4 1920x1080 509x286mm 23.0-inch  | 1        | 3.85%   |
-| Acer V226WL ACR0339 1680x1050 474x296mm 22.0-inch                      | 1        | 3.85%   |
-| Acer P225HQ ACR00EA 1920x1080 477x268mm 21.5-inch                      | 1        | 3.85%   |
-| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                     | 1        | 3.85%   |
-| Acer G185HV ACR019F 1366x768 410x230mm 18.5-inch                       | 1        | 3.85%   |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                     | 2        | 7.69%   |
+| ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch               | 1        | 3.85%   |
+| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                  | 1        | 3.85%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch       | 1        | 3.85%   |
+| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch    | 1        | 3.85%   |
+| Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch      | 1        | 3.85%   |
+| Samsung Electronics SMBX2331 SAM076F 1920x1080 510x290mm 23.1-inch      | 1        | 3.85%   |
+| Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch  | 1        | 3.85%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                      | 1        | 3.85%   |
+| Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                      | 1        | 3.85%   |
+| Panasonic TV MEIA296 3840x2160 698x392mm 31.5-inch                      | 1        | 3.85%   |
+| Iiyama PLX2481H IVM611D 1920x1080 520x290mm 23.4-inch                   | 1        | 3.85%   |
+| Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch            | 1        | 3.85%   |
+| Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                    | 1        | 3.85%   |
+| Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                     | 1        | 3.85%   |
+| Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                    | 1        | 3.85%   |
+| BenQ LCD Monitor GL951A 2880x900                                        | 1        | 3.85%   |
+| BenQ LCD Monitor GL951A                                                 | 1        | 3.85%   |
+| BenQ GL951A BNQ7897 1440x900 408x255mm 18.9-inch                        | 1        | 3.85%   |
+| AOC 2790WG5 AOC2790 1920x1080 600x340mm 27.2-inch                       | 1        | 3.85%   |
+| Ancor Communications ASUS VC239HE ACI23C4 1920x1080 509x286mm 23.0-inch | 1        | 3.85%   |
+| Acer V226WL ACR0339 1680x1050 474x296mm 22.0-inch                       | 1        | 3.85%   |
+| Acer P225HQ ACR00EA 1920x1080 477x268mm 21.5-inch                       | 1        | 3.85%   |
+| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                      | 1        | 3.85%   |
+| Acer G185HV ACR019F 1366x768 410x230mm 18.5-inch                        | 1        | 3.85%   |
 
 Monitor Resolution
 ------------------
@@ -1583,9 +1582,9 @@ Controller models
 | TP-Link Archer T4U ver.3                                                              | 1        | 2.44%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1        | 2.44%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1        | 2.44%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                 | 1        | 2.44%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1        | 2.44%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                                                | 1        | 2.44%   |
+| Realtek 802.11n                                                                       | 1        | 2.44%   |
+| Qualcomm OnePlus 6                                                                    | 1        | 2.44%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 1        | 2.44%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                             | 1        | 2.44%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                         | 1        | 2.44%   |
@@ -1630,8 +1629,8 @@ Wireless models
 | TP-Link Archer T4U ver.3                                                              | 1        | 7.14%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1        | 7.14%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1        | 7.14%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                 | 1        | 7.14%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1        | 7.14%   |
+| Realtek 802.11n                                                                       | 1        | 7.14%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 1        | 7.14%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1        | 7.14%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                            | 1        | 7.14%   |
@@ -1669,7 +1668,7 @@ Ethernet models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 17       | 62.96%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 7.41%   |
 | Nvidia MCP61 Ethernet                                             | 2        | 7.41%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                            | 1        | 3.7%    |
+| Qualcomm OnePlus 6                                                | 1        | 3.7%    |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 3.7%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 3.7%    |
 | Intel 82579V Gigabit Network Connection                           | 1        | 3.7%    |
@@ -1863,7 +1862,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 7.69%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 7.69%   |
 | Samsung RAM Module 8192MB DIMM DDR3 1333MT/s             | 1        | 7.69%   |
-| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s   | 1        | 7.69%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s      | 1        | 7.69%   |
 | Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s     | 1        | 7.69%   |
 | Kingston RAM 9905584-017.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 7.69%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s      | 1        | 7.69%   |
@@ -1871,7 +1870,7 @@ Memory module models
 | G.Skill RAM F3-1600C9-8GAR 8192MB DIMM DDR3 1600MT/s     | 1        | 7.69%   |
 | Elpida RAM Module 8192MB DIMM DDR3 1333MT/s              | 1        | 7.69%   |
 | Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 7.69%   |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1        | 7.69%   |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3733MT/s    | 1        | 7.69%   |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
 
 Memory Kind
@@ -1928,7 +1927,7 @@ Memory module speed
 | 1600  | 3        | 27.27%  |
 | 2400  | 2        | 18.18%  |
 | 3866  | 1        | 9.09%   |
-| 3266  | 1        | 9.09%   |
+| 3733  | 1        | 9.09%   |
 | 2000  | 1        | 9.09%   |
 | 1333  | 1        | 9.09%   |
 | 800   | 1        | 9.09%   |

@@ -1132,7 +1132,7 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                            | 2        | 3.13%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2        | 3.13%   |
 | AMD 400 Series Chipset SATA Controller                                           | 2        | 3.13%   |
-| SK hynix Gold P31 SSD                                                            | 1        | 1.56%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                   | 1        | 1.56%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 1.56%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                   | 1        | 1.56%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1        | 1.56%   |
@@ -1519,7 +1519,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 1        | 3.03%   |
+| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 1        | 3.03%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.03%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.03%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.03%   |
@@ -1528,9 +1528,9 @@ Monitor models
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1        | 3.03%   |
 | ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1        | 3.03%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1        | 3.03%   |
-| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1        | 3.03%   |
+| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1        | 3.03%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1        | 3.03%   |
-| Iiyama PLE2207WS IVM5609 1680x1050 465x291mm 21.6-inch               | 1        | 3.03%   |
+| Iiyama PLE2207WS IVM5609 1680x1050 474x296mm 22.0-inch               | 1        | 3.03%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1        | 3.03%   |
 | Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch         | 1        | 3.03%   |
 | Hewlett-Packard 2309 HWP2823 1920x1080 510x287mm 23.0-inch           | 1        | 3.03%   |
@@ -1546,7 +1546,7 @@ Monitor models
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1        | 3.03%   |
 | Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                    | 1        | 3.03%   |
 | BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 531x299mm 24.0-inch              | 1        | 3.03%   |
-| BenQ EW2420 BNQ7923 1920x1080 530x300mm 24.0-inch                    | 1        | 3.03%   |
+| BenQ EW2420 BNQ7923 1920x1080 531x299mm 24.0-inch                    | 1        | 3.03%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch              | 1        | 3.03%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch      | 1        | 3.03%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch     | 1        | 3.03%   |
@@ -1983,9 +1983,9 @@ Sound card models
 | Intel 200 Series PCH HD Audio                                                                     | 1        | 1.75%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1        | 1.75%   |
 | EGO SYStems U24XL                                                                                 | 1        | 1.75%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 1        | 1.75%   |
 | Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                                                 | 1        | 1.75%   |
 | Creative Labs EMU10k1 [Sound Blaster Live! Series]                                                | 1        | 1.75%   |
+| Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus]   | 1        | 1.75%   |
 | C-Media Electronics USB Audio Device                                                              | 1        | 1.75%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1        | 1.75%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1        | 1.75%   |
@@ -2038,7 +2038,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.5%    |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s          | 1        | 2.5%    |
 | Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s        | 1        | 2.5%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 2.5%    |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s        | 1        | 2.5%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.5%    |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.5%    |
 | SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.5%    |
@@ -2049,8 +2049,8 @@ Memory module models
 | Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s        | 1        | 2.5%    |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.5%    |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.5%    |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.5%    |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s     | 1        | 2.5%    |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM 1600MT/s           | 1        | 2.5%    |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.5%    |
@@ -2059,14 +2059,14 @@ Memory module models
 | Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s      | 1        | 2.5%    |
 | Crucial RAM BLT4G3D1608DT1TX0. 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s    | 1        | 2.5%    |
-| Crucial RAM BLS8G4D240FSB.16FBD2 8192MB DIMM DDR4 2400MT/s | 1        | 2.5%    |
+| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s    | 1        | 2.5%    |
 | Crucial RAM BLS16G4D26BFSC.16FD 16384MB DIMM DDR4 2666MT/s | 1        | 2.5%    |
 | Corsair RAM CMZ32GX3M4X1600C10 8192MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
 | Corsair RAM CMY32GX3M4A16 8192MB DIMM DDR3 667MT/s         | 1        | 2.5%    |
 | Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s      | 1        | 2.5%    |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 1        | 2.5%    |
-| Corsair RAM CMK16GX4M1A2666C16 16384MB DIMM DDR4 2667MT/s  | 1        | 2.5%    |
+| Corsair RAM CMK16GX4M1A2666C16 16GB DIMM DDR4 2800MT/s     | 1        | 2.5%    |
 | AMD RAM R534G1601S1SL 4GB DIMM DDR3 1600MT/s               | 1        | 2.5%    |
 | A Force RAM 1GX72V160K 8192MB DIMM DDR3 1333MT/s           | 1        | 2.5%    |
 | A Force RAM 1GX72B160K 8192MB DIMM DDR3 1333MT/s           | 1        | 2.5%    |
@@ -2138,7 +2138,7 @@ Memory module speed
 | 65535   | 1        | 2.86%   |
 | 3800    | 1        | 2.86%   |
 | 3200    | 1        | 2.86%   |
-| 2667    | 1        | 2.86%   |
+| 2800    | 1        | 2.86%   |
 | 2133    | 1        | 2.86%   |
 | 2000    | 1        | 2.86%   |
 | 1866    | 1        | 2.86%   |

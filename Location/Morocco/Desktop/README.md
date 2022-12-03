@@ -1066,11 +1066,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 43       | 66     | 72.88%  |
-| 0.51-1.0   | 11       | 20     | 18.64%  |
-| 1.01-2.0   | 3        | 3      | 5.08%   |
-| 3.01-4.0   | 1        | 1      | 1.69%   |
-| 2.01-3.0   | 1        | 2      | 1.69%   |
+| 0.01-0.5   | 44       | 68     | 73.33%  |
+| 0.51-1.0   | 11       | 18     | 18.33%  |
+| 1.01-2.0   | 3        | 3      | 5%      |
+| 3.01-4.0   | 1        | 1      | 1.67%   |
+| 2.01-3.0   | 1        | 2      | 1.67%   |
 
 Space Total
 -----------
@@ -1122,17 +1122,17 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                            | Desktops | Drives | Percent |
-|----------------------------------|----------|--------|---------|
-| Seagate ST500DM002-1BD142 500GB  | 3        | 3      | 25%     |
-| Hitachi HDS721680PLA380 82GB     | 2        | 2      | 16.67%  |
-| WDC WD2500AAJS-60Z0A0 250GB      | 1        | 1      | 8.33%   |
-| Seagate ST500LM021-1KJ152 500GB  | 1        | 1      | 8.33%   |
-| Seagate ST340016A 40GB           | 1        | 1      | 8.33%   |
-| Seagate ST3250312AS 250GB        | 1        | 1      | 8.33%   |
-| Samsung Electronics HD080HJ 80GB | 1        | 1      | 8.33%   |
-| HPE MM1000GBKAL 1TB              | 1        | 1      | 8.33%   |
-| Fujitsu MHX2300BT 304GB          | 1        | 1      | 8.33%   |
+| Model                             | Desktops | Drives | Percent |
+|-----------------------------------|----------|--------|---------|
+| Seagate ST500DM002-1BD142 500GB   | 3        | 3      | 25%     |
+| Hitachi HDS721680PLA380 82GB      | 2        | 2      | 16.67%  |
+| WDC WD2500AAJS-60Z0A0 250GB       | 1        | 1      | 8.33%   |
+| Seagate ST500LM021-1KJ152 500GB   | 1        | 1      | 8.33%   |
+| Seagate ST340016A 40GB            | 1        | 1      | 8.33%   |
+| Seagate ST3250312AS 250GB         | 1        | 1      | 8.33%   |
+| Samsung Electronics HD080HJ/ 80GB | 1        | 1      | 8.33%   |
+| HPE MM1000GBKAL 1TB               | 1        | 1      | 8.33%   |
+| Fujitsu MHX2300BT 304GB           | 1        | 1      | 8.33%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1671,16 +1671,16 @@ Monitor models
 | Dell E2414H DEL4090 1920x1080 531x299mm 24.0-inch                      | 3        | 6.25%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 440x300mm 21.0-inch   | 1        | 2.08%   |
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch   | 1        | 2.08%   |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch   | 1        | 2.08%   |
-| Samsung Electronics SyncMaster SAM0161 1280x1024 338x270mm 17.0-inch   | 1        | 2.08%   |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch   | 1        | 2.08%   |
+| Samsung Electronics SyncMaster SAM0161 1280x1024 340x270mm 17.1-inch   | 1        | 2.08%   |
 | Samsung Electronics SMBX2440 SAM068A 1920x1080 531x299mm 24.0-inch     | 1        | 2.08%   |
 | Samsung Electronics S24C350 SAM0A3A 1920x1080 531x299mm 24.0-inch      | 1        | 2.08%   |
 | Samsung Electronics S23B550 SAM0919 1920x1080 510x290mm 23.1-inch      | 1        | 2.08%   |
 | Samsung Electronics S22F350 SAM0D1B 1920x1080 477x268mm 21.5-inch      | 1        | 2.08%   |
 | Samsung Electronics LCD Monitor SAM0F39 1920x1080 1210x680mm 54.6-inch | 1        | 2.08%   |
-| Samsung Electronics LCD Monitor SAM0B7C 1920x1080 886x498mm 40.0-inch  | 1        | 2.08%   |
+| Samsung Electronics LCD Monitor SAM0B7C 1920x1080 890x500mm 40.2-inch  | 1        | 2.08%   |
 | Samsung Electronics LCD Monitor SAM0B2A 1280x720 949x543mm 43.0-inch   | 1        | 2.08%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch                | 1        | 2.08%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 1        | 2.08%   |
 | Philips 170S PHL081E 1280x1024 338x270mm 17.0-inch                     | 1        | 2.08%   |
 | MiTAC Mystery TV MTC9527 1920x1080 1150x650mm 52.0-inch                | 1        | 2.08%   |
 | Medion MD 20172 MED3628 1680x1050 474x296mm 22.0-inch                  | 1        | 2.08%   |
@@ -1704,7 +1704,7 @@ Monitor models
 | Dell LCD Monitor P2417H 1920x1080                                      | 1        | 2.08%   |
 | Dell E772p DEL7005 1152x864 300x225mm 14.8-inch                        | 1        | 2.08%   |
 | Dell E2014H DELD03B 1600x900 432x240mm 19.5-inch                       | 1        | 2.08%   |
-| Dell E198FP DELA028 1280x1024 376x301mm 19.0-inch                      | 1        | 2.08%   |
+| Dell E198FP DELA028 1280x1024 380x300mm 19.1-inch                      | 1        | 2.08%   |
 | Dell E177FP DELA023 1280x1024 338x270mm 17.0-inch                      | 1        | 2.08%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                      | 1        | 2.08%   |
 | Dell 1708FP DEL4024 1280x1024 338x270mm 17.0-inch                      | 1        | 2.08%   |
@@ -1748,10 +1748,10 @@ Diagonal size in inches
 | 22      | 3        | 6.25%   |
 | 20      | 3        | 6.25%   |
 | Unknown | 2        | 4.17%   |
+| 58      | 1        | 2.08%   |
 | 54      | 1        | 2.08%   |
 | 52      | 1        | 2.08%   |
 | 43      | 1        | 2.08%   |
-| 40      | 1        | 2.08%   |
 | 18      | 1        | 2.08%   |
 | 15      | 1        | 2.08%   |
 | 14      | 1        | 2.08%   |
@@ -1769,9 +1769,8 @@ Physical width
 | 501-600     | 17       | 36.17%  |
 | 401-500     | 15       | 31.91%  |
 | 301-350     | 6        | 12.77%  |
-| 1001-1500   | 2        | 4.26%   |
+| 1001-1500   | 3        | 6.38%   |
 | Unknown     | 2        | 4.26%   |
-| 801-900     | 1        | 2.13%   |
 | 601-700     | 1        | 2.13%   |
 | 351-400     | 1        | 2.13%   |
 | 201-300     | 1        | 2.13%   |
@@ -1807,11 +1806,11 @@ Area in inch²
 | 151-200        | 10       | 21.28%  |
 | 141-150        | 5        | 10.64%  |
 | 301-350        | 4        | 8.51%   |
-| More than 1000 | 2        | 4.26%   |
+| More than 1000 | 3        | 6.38%   |
 | 101-110        | 2        | 4.26%   |
-| 501-1000       | 2        | 4.26%   |
 | Unknown        | 2        | 4.26%   |
 | 251-300        | 1        | 2.13%   |
+| 501-1000       | 1        | 2.13%   |
 
 Pixel Density
 -------------
@@ -1823,9 +1822,9 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 34       | 72.34%  |
+| 51-100  | 33       | 70.21%  |
 | 101-120 | 5        | 10.64%  |
-| 1-50    | 3        | 6.38%   |
+| 1-50    | 4        | 8.51%   |
 | 161-240 | 2        | 4.26%   |
 | Unknown | 2        | 4.26%   |
 | 121-160 | 1        | 2.13%   |
@@ -1901,12 +1900,12 @@ Controller models
 | Realtek RTL88x2bu [AC1200 Techkey]                                             | 1        | 1.04%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter                            | 1        | 1.04%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                         | 1        | 1.04%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                          | 1        | 1.04%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                            | 1        | 1.04%   |
 | Realtek RTL8187 Wireless Adapter                                               | 1        | 1.04%   |
 | Realtek RTL8125 2.5GbE Controller                                              | 1        | 1.04%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 1        | 1.04%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1        | 1.04%   |
+| Realtek 802.11n                                                                | 1        | 1.04%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                          | 1        | 1.04%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter                         | 1        | 1.04%   |
 | Ralink RT5360 Wireless 802.11n 1T/1R                                           | 1        | 1.04%   |
@@ -1964,9 +1963,9 @@ Wireless models
 | Realtek RTL88x2bu [AC1200 Techkey]                                   | 1        | 2.78%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter                  | 1        | 2.78%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                               | 1        | 2.78%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                | 1        | 2.78%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                  | 1        | 2.78%   |
 | Realtek RTL8187 Wireless Adapter                                     | 1        | 2.78%   |
+| Realtek 802.11n                                                      | 1        | 2.78%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                | 1        | 2.78%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter               | 1        | 2.78%   |
 | Ralink RT5360 Wireless 802.11n 1T/1R                                 | 1        | 2.78%   |
@@ -2234,7 +2233,7 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s    | 4        | 7.14%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s    | 4        | 7.14%   |
 | Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s     | 3        | 5.36%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 3        | 5.36%   |
 | Unknown RAM Module 2GB DIMM                             | 1        | 1.79%   |
@@ -2244,11 +2243,11 @@ Memory module models
 | SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
 | SK hynix RAM HMT425U6AFR6C-PB 2GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
 | SK hynix RAM HMT41GU7MFR8A-H9 8GB DIMM DDR3 1333MT/s    | 1        | 1.79%   |
-| SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
+| SK hynix RAM HMT41GU6MFR8C-PB 8192MB DIMM DDR3 1600MT/s | 1        | 1.79%   |
 | SK hynix RAM HMT41GR7BFR4A-PB 8192MB DIMM DDR3 1600MT/s | 1        | 1.79%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s | 1        | 1.79%   |
 | SK hynix RAM HMT125U6BFR8C-G7 2GB DIMM DDR3 1067MT/s    | 1        | 1.79%   |
-| SK hynix RAM HMT112U6TFR8C-H9 1024MB DIMM DDR3 1333MT/s | 1        | 1.79%   |
+| SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s    | 1        | 1.79%   |
 | SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s    | 1        | 1.79%   |
 | Samsung RAM Module 8192MB DIMM DDR4 2133MT/s            | 1        | 1.79%   |
 | Samsung RAM Module 4GB DIMM DDR3 1333MT/s               | 1        | 1.79%   |
@@ -2257,8 +2256,8 @@ Memory module models
 | Samsung RAM M393A4K40BB1-CRC 32GB RIMM DDR4 2400MT/s    | 1        | 1.79%   |
 | Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s     | 1        | 1.79%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s          | 1        | 1.79%   |
+| Samsung RAM M378B5173QH0-CK0 4096MB DIMM DDR3 1600MT/s  | 1        | 1.79%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
 | Samsung RAM M378B2873FH0-CH9 1GB DIMM DDR3 1333MT/s     | 1        | 1.79%   |
 | Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM         | 1        | 1.79%   |
@@ -2336,25 +2335,26 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 14       | 33.33%  |
-| 1333    | 6        | 14.29%  |
-| 667     | 3        | 7.14%   |
-| 3600    | 2        | 4.76%   |
-| 2667    | 2        | 4.76%   |
-| 2400    | 2        | 4.76%   |
-| 3200    | 1        | 2.38%   |
-| 2666    | 1        | 2.38%   |
-| 2133    | 1        | 2.38%   |
-| 1867    | 1        | 2.38%   |
-| 1866    | 1        | 2.38%   |
-| 1639    | 1        | 2.38%   |
-| 1334    | 1        | 2.38%   |
-| 1067    | 1        | 2.38%   |
-| 800     | 1        | 2.38%   |
-| 400     | 1        | 2.38%   |
-| 333     | 1        | 2.38%   |
-| 266     | 1        | 2.38%   |
-| Unknown | 1        | 2.38%   |
+| 1600    | 13       | 28.89%  |
+| 1333    | 6        | 13.33%  |
+| 1648    | 4        | 8.89%   |
+| 667     | 3        | 6.67%   |
+| 3600    | 2        | 4.44%   |
+| 2667    | 2        | 4.44%   |
+| 2400    | 2        | 4.44%   |
+| 3200    | 1        | 2.22%   |
+| 2666    | 1        | 2.22%   |
+| 2133    | 1        | 2.22%   |
+| 1867    | 1        | 2.22%   |
+| 1866    | 1        | 2.22%   |
+| 1639    | 1        | 2.22%   |
+| 1334    | 1        | 2.22%   |
+| 1067    | 1        | 2.22%   |
+| 800     | 1        | 2.22%   |
+| 400     | 1        | 2.22%   |
+| 333     | 1        | 2.22%   |
+| 266     | 1        | 2.22%   |
+| Unknown | 1        | 2.22%   |
 
 Printers & scanners
 -------------------

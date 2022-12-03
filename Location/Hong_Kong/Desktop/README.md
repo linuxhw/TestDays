@@ -893,8 +893,8 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2019    | 15       | 11.9%   |
-| 2018    | 14       | 11.11%  |
+| 2018    | 15       | 11.9%   |
+| 2019    | 14       | 11.11%  |
 | 2020    | 13       | 10.32%  |
 | 2013    | 13       | 10.32%  |
 | 2016    | 11       | 8.73%   |
@@ -1191,7 +1191,7 @@ Hard drive models
 | Seagate ST3500413AS 500GB            | 3        | 1.18%   |
 | Seagate ST2000DM008-2FR102 2TB       | 3        | 1.18%   |
 | Kingston SA400S37480G 480GB SSD      | 3        | 1.18%   |
-| JMicron Generic 500GB                | 3        | 1.18%   |
+| JMicron Generic 1TB                  | 3        | 1.18%   |
 | Fujitsu F300 480GB                   | 3        | 1.18%   |
 | DOGGO DQ-60G SSD                     | 3        | 1.18%   |
 | Crucial CT500MX500SSD1 500GB         | 3        | 1.18%   |
@@ -1251,34 +1251,35 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| A-DATA Technology   | 11       | 17     | 13.92%  |
-| Samsung Electronics | 10       | 17     | 12.66%  |
-| Kingston            | 7        | 8      | 8.86%   |
-| WDC                 | 6        | 6      | 7.59%   |
-| Crucial             | 6        | 10     | 7.59%   |
-| SanDisk             | 5        | 5      | 6.33%   |
-| Transcend           | 4        | 4      | 5.06%   |
-| LITEON              | 3        | 3      | 3.8%    |
-| Fujitsu             | 3        | 8      | 3.8%    |
-| DOGGO               | 3        | 3      | 3.8%    |
-| Team                | 2        | 2      | 2.53%   |
-| SK hynix            | 2        | 6      | 2.53%   |
-| Netac               | 2        | 2      | 2.53%   |
-| ZHITAI              | 1        | 1      | 1.27%   |
-| tigo                | 1        | 1      | 1.27%   |
-| SPCC                | 1        | 1      | 1.27%   |
-| PNY                 | 1        | 1      | 1.27%   |
-| Plextor             | 1        | 1      | 1.27%   |
-| OCZ                 | 1        | 1      | 1.27%   |
-| Micron Technology   | 1        | 1      | 1.27%   |
-| Lexar               | 1        | 1      | 1.27%   |
-| Intel               | 1        | 3      | 1.27%   |
-| Hikvision           | 1        | 1      | 1.27%   |
-| Dogfish             | 1        | 1      | 1.27%   |
-| Corsair             | 1        | 1      | 1.27%   |
-| China               | 1        | 1      | 1.27%   |
-| Apacer              | 1        | 3      | 1.27%   |
-| Aoluska             | 1        | 1      | 1.27%   |
+| A-DATA Technology   | 11       | 17     | 13.41%  |
+| Samsung Electronics | 10       | 17     | 12.2%   |
+| Kingston            | 7        | 8      | 8.54%   |
+| WDC                 | 6        | 6      | 7.32%   |
+| Crucial             | 6        | 10     | 7.32%   |
+| SanDisk             | 5        | 5      | 6.1%    |
+| Transcend           | 4        | 4      | 4.88%   |
+| LITEON              | 3        | 3      | 3.66%   |
+| JMicron Technology  | 3        | 6      | 3.66%   |
+| Fujitsu             | 3        | 8      | 3.66%   |
+| DOGGO               | 3        | 3      | 3.66%   |
+| Team                | 2        | 2      | 2.44%   |
+| SK hynix            | 2        | 6      | 2.44%   |
+| Netac               | 2        | 2      | 2.44%   |
+| ZHITAI              | 1        | 1      | 1.22%   |
+| tigo                | 1        | 1      | 1.22%   |
+| SPCC                | 1        | 1      | 1.22%   |
+| PNY                 | 1        | 1      | 1.22%   |
+| Plextor             | 1        | 1      | 1.22%   |
+| OCZ                 | 1        | 1      | 1.22%   |
+| Micron Technology   | 1        | 1      | 1.22%   |
+| Lexar               | 1        | 1      | 1.22%   |
+| Intel               | 1        | 3      | 1.22%   |
+| Hikvision           | 1        | 1      | 1.22%   |
+| Dogfish             | 1        | 1      | 1.22%   |
+| Corsair             | 1        | 1      | 1.22%   |
+| China               | 1        | 1      | 1.22%   |
+| Apacer              | 1        | 3      | 1.22%   |
+| Aoluska             | 1        | 1      | 1.22%   |
 
 Drive Kind
 ----------
@@ -1291,8 +1292,8 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 77       | 146    | 39.69%  |
-| SSD     | 67       | 110    | 34.54%  |
-| NVMe    | 47       | 79     | 24.23%  |
+| SSD     | 68       | 116    | 35.05%  |
+| NVMe    | 46       | 73     | 23.71%  |
 | Unknown | 2        | 3      | 1.03%   |
 | MMC     | 1        | 1      | 0.52%   |
 
@@ -1321,12 +1322,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 76       | 130    | 50.67%  |
-| 0.51-1.0   | 40       | 60     | 26.67%  |
-| 1.01-2.0   | 14       | 18     | 9.33%   |
-| 2.01-3.0   | 9        | 14     | 6%      |
-| 3.01-4.0   | 7        | 28     | 4.67%   |
-| 4.01-10.0  | 4        | 6      | 2.67%   |
+| 0.01-0.5   | 78       | 132    | 50.65%  |
+| 0.51-1.0   | 43       | 65     | 27.92%  |
+| 1.01-2.0   | 13       | 17     | 8.44%   |
+| 2.01-3.0   | 9        | 14     | 5.84%   |
+| 3.01-4.0   | 7        | 28     | 4.55%   |
+| 4.01-10.0  | 4        | 6      | 2.6%    |
 
 Space Total
 -----------
@@ -1860,12 +1861,13 @@ Graphics card models
 | Nvidia GM107 [GeForce GTX 750]                                              | 4        | 2.86%   |
 | Intel HD Graphics 530                                                       | 4        | 2.86%   |
 | AMD Navi 23 [Radeon RX 6600/6600 XT/6600M]                                  | 4        | 2.86%   |
-| AMD Cezanne                                                                 | 4        | 2.86%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                | 4        | 2.86%   |
 | Nvidia GP108 [GeForce GT 1030]                                              | 3        | 2.14%   |
 | Nvidia GP107 [GeForce GTX 1050 Ti]                                          | 3        | 2.14%   |
 | Nvidia GM206 [GeForce GTX 960]                                              | 3        | 2.14%   |
 | Nvidia GK208B [GeForce GT 730]                                              | 3        | 2.14%   |
 | Nvidia GK208B [GeForce GT 710]                                              | 3        | 2.14%   |
+| Intel HD Graphics 610                                                       | 3        | 2.14%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 3        | 2.14%   |
 | Intel AlderLake-S GT1                                                       | 3        | 2.14%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 3        | 2.14%   |
@@ -1876,7 +1878,6 @@ Graphics card models
 | Nvidia GA104 [GeForce RTX 3070 Ti]                                          | 2        | 1.43%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 2        | 1.43%   |
 | Intel HD Graphics 620                                                       | 2        | 1.43%   |
-| Intel HD Graphics 610                                                       | 2        | 1.43%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller   | 2        | 1.43%   |
 | AMD RS780 [Radeon HD 3200]                                                  | 2        | 1.43%   |
 | AMD Kaveri [Radeon R7 Graphics]                                             | 2        | 1.43%   |
@@ -2017,7 +2018,7 @@ Monitor models
 | IPS C270SCA IPS2700 3840x2160 620x369mm 28.4-inch                     | 2        | 1.46%   |
 | HSO B2431M HSO2431 3840x2160 520x290mm 23.4-inch                      | 2        | 1.46%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch               | 2        | 1.46%   |
-| AOC 2790 AOC2790 1920x1080 598x336mm 27.0-inch                        | 2        | 1.46%   |
+| AOC 2790WG5 AOC2790 1920x1080 598x336mm 27.0-inch                     | 2        | 1.46%   |
 | Xiaomi Mi TV XMD004A 1920x1080 708x398mm 32.0-inch                    | 1        | 0.73%   |
 | Xiangye XE2400 XYE2380 3840x2160 520x310mm 23.8-inch                  | 1        | 0.73%   |
 | ViewSonic VX2260WM VSCFC21 1920x1080 477x268mm 21.5-inch              | 1        | 0.73%   |
@@ -2037,16 +2038,16 @@ Monitor models
 | Samsung Electronics S27D590 SAM0B49 1920x1080 598x336mm 27.0-inch     | 1        | 0.73%   |
 | Samsung Electronics S24E390 SAM0C1A 1920x1080 521x293mm 23.5-inch     | 1        | 0.73%   |
 | Samsung Electronics S22F350 SAM0D1B 1920x1080 477x268mm 21.5-inch     | 1        | 0.73%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch     | 1        | 0.73%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 0.73%   |
 | Samsung Electronics S22C650 SAM09DB 1920x1080 477x268mm 21.5-inch     | 1        | 0.73%   |
 | Samsung Electronics S22C300 SAM0A1F 1920x1080 477x268mm 21.5-inch     | 1        | 0.73%   |
-| Samsung Electronics LCD Monitor SAM0C3C 1360x768 609x347mm 27.6-inch  | 1        | 0.73%   |
-| Samsung Electronics LCD Monitor SAM0B7C 1920x1080 886x498mm 40.0-inch | 1        | 0.73%   |
+| Samsung Electronics LCD Monitor SAM0C3C 1366x768 609x347mm 27.6-inch  | 1        | 0.73%   |
+| Samsung Electronics LCD Monitor SAM0B7C 1920x1080 890x500mm 40.2-inch | 1        | 0.73%   |
 | Samsung Electronics LCD Monitor SAM03DD 1680x1050                     | 1        | 0.73%   |
 | Samsung Electronics LCD Monitor S27B550 1920x1080                     | 1        | 0.73%   |
 | Samsung Electronics LCD Monitor S24D300 3840x1080                     | 1        | 0.73%   |
 | Samsung Electronics LCD Monitor S22F350 1920x1080                     | 1        | 0.73%   |
-| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch    | 1        | 0.73%   |
+| Samsung Electronics C49RG9x SAM0F9C 2560x1440 1193x336mm 48.8-inch    | 1        | 0.73%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 0.73%   |
 | SAC HDMI SAC2400 2560x1440 527x296mm 23.8-inch                        | 1        | 0.73%   |
 
@@ -2060,7 +2061,7 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 52       | 41.94%  |
+| 1920x1080 (FHD)    | 51       | 41.13%  |
 | 3840x2160 (4K)     | 24       | 19.35%  |
 | 2560x1440 (QHD)    | 9        | 7.26%   |
 | 1440x900 (WXGA+)   | 7        | 5.65%   |
@@ -2070,12 +2071,12 @@ Monitor screen resolution
 | 3840x1080          | 3        | 2.42%   |
 | 1360x768           | 3        | 2.42%   |
 | 3440x1440          | 2        | 1.61%   |
+| 2560x1600          | 2        | 1.61%   |
 | 2560x1080          | 2        | 1.61%   |
 | 1280x1024 (SXGA)   | 2        | 1.61%   |
 | 1024x768 (XGA)     | 2        | 1.61%   |
 | 5120x1440          | 1        | 0.81%   |
 | 3200x1080          | 1        | 0.81%   |
-| 2560x1600          | 1        | 0.81%   |
 | 1920x1200 (WUXGA)  | 1        | 0.81%   |
 
 Monitor Diagonal
@@ -2102,9 +2103,9 @@ Diagonal size in inches
 | 15      | 3        | 2.34%   |
 | 84      | 1        | 0.78%   |
 | 65      | 1        | 0.78%   |
+| 58      | 1        | 0.78%   |
 | 48      | 1        | 0.78%   |
 | 46      | 1        | 0.78%   |
-| 40      | 1        | 0.78%   |
 | 26      | 1        | 0.78%   |
 | 25      | 1        | 0.78%   |
 | 17      | 1        | 0.78%   |
@@ -2125,9 +2126,8 @@ Physical width
 | 601-700     | 17       | 13.49%  |
 | Unknown     | 16       | 12.7%   |
 | 301-350     | 5        | 3.97%   |
+| 1001-1500   | 4        | 3.17%   |
 | 701-800     | 3        | 2.38%   |
-| 1001-1500   | 3        | 2.38%   |
-| 801-900     | 1        | 0.79%   |
 | 1501-2000   | 1        | 0.79%   |
 
 Aspect Ratio
@@ -2164,10 +2164,10 @@ Area in inch²
 | 351-500        | 14       | 11.2%   |
 | 151-200        | 10       | 8%      |
 | 141-150        | 5        | 4%      |
+| More than 1000 | 3        | 2.4%    |
 | 251-300        | 3        | 2.4%    |
 | 101-110        | 3        | 2.4%    |
-| 501-1000       | 3        | 2.4%    |
-| More than 1000 | 2        | 1.6%    |
+| 501-1000       | 2        | 1.6%    |
 | 131-140        | 1        | 0.8%    |
 
 Pixel Density
@@ -2180,13 +2180,13 @@ Pixels per inch
 
 | Density       | Desktops | Percent |
 |---------------|----------|---------|
-| 51-100        | 63       | 50.4%   |
-| 101-120       | 26       | 20.8%   |
-| Unknown       | 16       | 12.8%   |
-| 161-240       | 9        | 7.2%    |
-| 121-160       | 7        | 5.6%    |
-| 1-50          | 3        | 2.4%    |
-| More than 240 | 1        | 0.8%    |
+| 51-100        | 63       | 50%     |
+| 101-120       | 26       | 20.63%  |
+| Unknown       | 16       | 12.7%   |
+| 161-240       | 9        | 7.14%   |
+| 121-160       | 7        | 5.56%   |
+| 1-50          | 4        | 3.17%   |
+| More than 240 | 1        | 0.79%   |
 
 Multiple Monitors
 -----------------
@@ -2256,7 +2256,7 @@ Controller models
 | Intel 82579V Gigabit Network Connection                           | 3        | 1.42%   |
 | Intel 82574L Gigabit Network Connection                           | 3        | 1.42%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 2        | 0.94%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2        | 0.94%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 2        | 0.94%   |
 | Realtek USB 10/100/1G/2.5G LAN                                    | 2        | 0.94%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 2        | 0.94%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 2        | 0.94%   |
@@ -2278,7 +2278,7 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.47%   |
 | TP-Link RTL8812AU Archer T4U 802.11ac                             | 1        | 0.47%   |
 | TP-Link Archer T4U ver.3                                          | 1        | 0.47%   |
-| TP-Link 802.11n WLAN Adapter                                      | 1        | 0.47%   |
+| TP-Link 802.11n NIC                                               | 1        | 0.47%   |
 | SEGGER J-Link                                                     | 1        | 0.47%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 0.47%   |
 
@@ -2318,7 +2318,7 @@ Wireless models
 | Microsoft XBOX ACC                                                     | 3        | 4.11%   |
 | Intel Comet Lake PCH CNVi WiFi                                         | 3        | 4.11%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                           | 2        | 2.74%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]             | 2        | 2.74%   |
+| TP-Link 802.11ac WLAN Adapter                                          | 2        | 2.74%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter               | 2        | 2.74%   |
 | Realtek 802.11ac NIC                                                   | 2        | 2.74%   |
 | Ralink RT5370 Wireless Adapter                                         | 2        | 2.74%   |
@@ -2331,12 +2331,12 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                                        | 2        | 2.74%   |
 | TP-Link RTL8812AU Archer T4U 802.11ac                                  | 1        | 1.37%   |
 | TP-Link Archer T4U ver.3                                               | 1        | 1.37%   |
-| TP-Link 802.11n WLAN Adapter                                           | 1        | 1.37%   |
+| TP-Link 802.11n NIC                                                    | 1        | 1.37%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                     | 1        | 1.37%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter               | 1        | 1.37%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)              | 1        | 1.37%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 1        | 1.37%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                | 1        | 1.37%   |
-| Realtek 802.11n WLAN Adapter                                           | 1        | 1.37%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 1        | 1.37%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 1        | 1.37%   |
 | MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                     | 1        | 1.37%   |
@@ -2557,9 +2557,9 @@ Sound card vendors
 | XMOS                                 | 1        | 0.49%   |
 | Thesycon Systemsoftware & Consulting | 1        | 0.49%   |
 | Sony                                 | 1        | 0.49%   |
+| SAVITECH                             | 1        | 0.49%   |
 | Lynx                                 | 1        | 0.49%   |
 | Logitech                             | 1        | 0.49%   |
-| HiFimeDIY Audio                      | 1        | 0.49%   |
 | AudioQuest                           | 1        | 0.49%   |
 
 Sound Model
@@ -2654,48 +2654,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Desktops | Percent |
-|------------------------------------------------------------|----------|---------|
-| Kingston RAM KY7N41-MIE 8GB DIMM DDR4 2666MT/s             | 2        | 2.44%   |
-| Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s     | 2        | 2.44%   |
-| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s      | 2        | 2.44%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s      | 2        | 2.44%   |
-| Corsair RAM CM4X16GC3600C18K2D 16GB DIMM DDR4 3600MT/s     | 2        | 2.44%   |
-| A-DATA RAM Module 4GB DIMM DDR3 1333MT/s                   | 2        | 2.44%   |
-| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s               | 1        | 1.22%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                  | 1        | 1.22%   |
-| Unknown RAM Module 4096MB DIMM DDR2 800MT/s                | 1        | 1.22%   |
-| Unknown RAM Module 1024MB DIMM 800MT/s                     | 1        | 1.22%   |
-| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s          | 1        | 1.22%   |
-| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 3007MT/s         | 1        | 1.22%   |
-| Team RAM TEAMGROUP-UD3-1600 4GB DIMM DDR3 1600MT/s         | 1        | 1.22%   |
-| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                 | 1        | 1.22%   |
-| SK hynix RAM Module 2GB DIMM DDR3 1333MT/s                 | 1        | 1.22%   |
-| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s       | 1        | 1.22%   |
-| SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 1.22%   |
-| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s     | 1        | 1.22%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s      | 1        | 1.22%   |
-| Samsung RAM M471B1G73DH0-YK0 8GB SODIMM DDR3 1600MT/s      | 1        | 1.22%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1        | 1.22%   |
-| Samsung RAM M471A1G43EB1-CPB 8192MB SODIMM DDR4 2133MT/s   | 1        | 1.22%   |
-| Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s        | 1        | 1.22%   |
-| Samsung RAM M378B5773CH0-CK0 2GB DIMM DDR3 1600MT/s        | 1        | 1.22%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 1.22%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 1.22%   |
-| Ramaxel RAM RMR5040MM58F9F1600 4096MB DIMM DDR3 1600MT/s   | 1        | 1.22%   |
-| Ramaxel RAM RMR1870ED48E8F1333 2048MB DIMM DDR3 1333MT/s   | 1        | 1.22%   |
-| Nanya RAM NT2GC64B88G0NF-DI 2GB DIMM DDR3 1600MT/s         | 1        | 1.22%   |
-| Micron RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s      | 1        | 1.22%   |
-| Micron RAM 4ATF1G64AZ-3G2E1 8192MB DIMM DDR4 3200MT/s      | 1        | 1.22%   |
-| Micron RAM 16ATF4G64AZ-3G2F1 32GB DIMM DDR4 3200MT/s       | 1        | 1.22%   |
-| Kingston RAM KP223C-ELD 2GB DIMM DDR3 1600MT/s             | 1        | 1.22%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 1        | 1.22%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 1.22%   |
-| Kingston RAM HX426C16FB/8 8GB DIMM DDR4 2667MT/s           | 1        | 1.22%   |
-| Kingston RAM 99U5469-045.A00LF 4GB SODIMM DDR3 1600MT/s    | 1        | 1.22%   |
-| Kingston RAM 99U5469-041.A00LF 4096MB SODIMM DDR3 1600MT/s | 1        | 1.22%   |
-| Kingston RAM 99P5471-033.A00LF 8192MB DIMM DDR3 1600MT/s   | 1        | 1.22%   |
-| Kingston RAM 99P5471-017.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 1.22%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Kingston RAM KY7N41-MIE 8GB DIMM DDR4 2666MT/s           | 2        | 2.44%   |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s      | 2        | 2.44%   |
+| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s    | 2        | 2.44%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s    | 2        | 2.44%   |
+| Corsair RAM CM4X16GC3600C18K2D 16GB DIMM DDR4 3600MT/s   | 2        | 2.44%   |
+| A-DATA RAM Module 4GB DIMM DDR3 1333MT/s                 | 2        | 2.44%   |
+| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s             | 1        | 1.22%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                | 1        | 1.22%   |
+| Unknown RAM Module 4096MB DIMM DDR2 800MT/s              | 1        | 1.22%   |
+| Unknown RAM Module 1024MB DIMM 800MT/s                   | 1        | 1.22%   |
+| Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s        | 1        | 1.22%   |
+| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 3007MT/s       | 1        | 1.22%   |
+| Team RAM TEAMGROUP-UD3-1600 2GB DIMM DDR3 1600MT/s       | 1        | 1.22%   |
+| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s               | 1        | 1.22%   |
+| SK hynix RAM Module 2GB DIMM DDR3 1333MT/s               | 1        | 1.22%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 1.22%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s  | 1        | 1.22%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s   | 1        | 1.22%   |
+| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s | 1        | 1.22%   |
+| Samsung RAM M471B1G73DH0-YK0 8GB SODIMM DDR3 1600MT/s    | 1        | 1.22%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s    | 1        | 1.22%   |
+| Samsung RAM M471A1G43EB1-CPB 8GB SODIMM DDR4 2133MT/s    | 1        | 1.22%   |
+| Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s      | 1        | 1.22%   |
+| Samsung RAM M378B5773CH0-CK0 2GB DIMM DDR3 1600MT/s      | 1        | 1.22%   |
+| Samsung RAM M378B5173QH0-CK0 4096MB DIMM DDR3 1600MT/s   | 1        | 1.22%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 1.22%   |
+| Ramaxel RAM RMR5040MM58F9F1600 4096MB DIMM DDR3 1600MT/s | 1        | 1.22%   |
+| Ramaxel RAM RMR1870ED48E8F1333 2048MB DIMM DDR3 1333MT/s | 1        | 1.22%   |
+| Nanya RAM NT2GC64B88G0NF-DI 2GB DIMM DDR3 1600MT/s       | 1        | 1.22%   |
+| Micron RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s    | 1        | 1.22%   |
+| Micron RAM 4ATF1G64AZ-3G2E1 8GB DIMM DDR4 3200MT/s       | 1        | 1.22%   |
+| Micron RAM 16ATF4G64AZ-3G2F1 32GB DIMM DDR4 3200MT/s     | 1        | 1.22%   |
+| Kingston RAM KP223C-ELD 2GB DIMM DDR3 1600MT/s           | 1        | 1.22%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 1.22%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s      | 1        | 1.22%   |
+| Kingston RAM HX426C16FB/8 8GB DIMM DDR4 2667MT/s         | 1        | 1.22%   |
+| Kingston RAM 99U5469-045.A00LF 4GB SODIMM DDR3 1600MT/s  | 1        | 1.22%   |
+| Kingston RAM 99U5469-041.A00LF 4GB SODIMM DDR3 1600MT/s  | 1        | 1.22%   |
+| Kingston RAM 99P5471-033.A00LF 8192MB DIMM DDR3 1600MT/s | 1        | 1.22%   |
+| Kingston RAM 99P5471-017.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 1.22%   |
 
 Memory Kind
 -----------
@@ -2871,7 +2871,7 @@ Camera device models
 | Microdia USB 2.0 Camera                 | 1        | 5.88%   |
 | Microdia HP Integrated Webcam           | 1        | 5.88%   |
 | Logitech C920 PRO HD Webcam             | 1        | 5.88%   |
-| Logitech BRIO Ultra HD Webcam           | 1        | 5.88%   |
+| Logitech BRIO                           | 1        | 5.88%   |
 | Google Nexus/Pixel Device (MTP + debug) | 1        | 5.88%   |
 | Google Nexus 4/5 (PTP + debug)          | 1        | 5.88%   |
 | Essential Products PH-1                 | 1        | 5.88%   |

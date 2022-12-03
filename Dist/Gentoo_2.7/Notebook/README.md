@@ -724,8 +724,8 @@ Desktop Environment
 | XFCE           | 18        | 7.06%   |
 | KDE            | 15        | 5.88%   |
 | MATE           | 9         | 3.53%   |
-| Sway           | 5         | 1.96%   |
-| XSession       | 4         | 1.57%   |
+| sway           | 5         | 1.96%   |
+| Xsession       | 4         | 1.57%   |
 | LXQt           | 4         | 1.57%   |
 | LXDE           | 4         | 1.57%   |
 | DWM            | 4         | 1.57%   |
@@ -1173,8 +1173,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 212       | 86.89%  |
-| Yes       | 32        | 13.11%  |
+| No        | 213       | 87.3%   |
+| Yes       | 31        | 12.7%   |
 
 Has Ethernet
 ------------
@@ -1725,48 +1725,48 @@ Storage controller models
 ![Storage Model](./images/pie_chart/storage_model.svg)
 
 
-| Model                                                                            | Notebooks | Percent |
-|----------------------------------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 41        | 12.13%  |
-| AMD FCH SATA Controller [AHCI mode]                                              | 32        | 9.47%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 23        | 6.8%    |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 19        | 5.62%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                       | 13        | 3.85%   |
-| Samsung NVMe SSD Controller 980                                                  | 12        | 3.55%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                   | 11        | 3.25%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 10        | 2.96%   |
-| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 9         | 2.66%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 9         | 2.66%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 8         | 2.37%   |
-| Intel SSD 660P Series                                                            | 8         | 2.37%   |
-| Toshiba America Info Systems XG6 NVMe SSD Controller                             | 7         | 2.07%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 7         | 2.07%   |
-| Intel 400 Series Chipset Family SATA AHCI Controller                             | 7         | 2.07%   |
-| SK hynix Gold P31 SSD                                                            | 6         | 1.78%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 6         | 1.78%   |
-| Intel Volume Management Device NVMe RAID Controller                              | 6         | 1.78%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 5         | 1.48%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 5         | 1.48%   |
-| Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller | 4         | 1.18%   |
-| KIOXIA NVMe SSD Controller BG4                                                   | 4         | 1.18%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                           | 4         | 1.18%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                    | 4         | 1.18%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                 | 4         | 1.18%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 3         | 0.89%   |
-| Intel Celeron/Pentium Silver Processor SATA Controller                           | 3         | 0.89%   |
-| Toshiba America Info Systems XG4 NVMe SSD Controller                             | 2         | 0.59%   |
-| SK hynix PC401 NVMe Solid State Drive 256GB                                      | 2         | 0.59%   |
-| SK hynix Non-Volatile memory controller                                          | 2         | 0.59%   |
-| SK hynix BC501 NVMe Solid State Drive                                            | 2         | 0.59%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                  | 2         | 0.59%   |
-| Lite-On Non-Volatile memory controller                                           | 2         | 0.59%   |
-| Kingston Company Company Non-Volatile memory controller                          | 2         | 0.59%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                          | 2         | 0.59%   |
-| Intel Non-Volatile memory controller                                             | 2         | 0.59%   |
-| Intel Comet Lake SATA AHCI Controller                                            | 2         | 0.59%   |
-| Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 2         | 0.59%   |
-| Intel 82801FBM (ICH6M) SATA Controller                                           | 2         | 0.59%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 2         | 0.59%   |
+| Model                                                                          | Notebooks | Percent |
+|--------------------------------------------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 41        | 12.13%  |
+| AMD FCH SATA Controller [AHCI mode]                                            | 32        | 9.47%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 23        | 6.8%    |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 19        | 5.62%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 13        | 3.85%   |
+| Samsung NVMe SSD Controller 980                                                | 12        | 3.55%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 11        | 3.25%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 10        | 2.96%   |
+| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 9         | 2.66%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 9         | 2.66%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                 | 8         | 2.37%   |
+| Intel SSD 660P Series                                                          | 8         | 2.37%   |
+| Toshiba America Info Systems XG6 NVMe SSD Controller                           | 7         | 2.07%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 7         | 2.07%   |
+| Intel 400 Series Chipset Family SATA AHCI Controller                           | 7         | 2.07%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 6         | 1.78%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 6         | 1.78%   |
+| Intel Volume Management Device NVMe RAID Controller                            | 6         | 1.78%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 5         | 1.48%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 5         | 1.48%   |
+| Toshiba America Info Systems XG5 NVMe SSD Controller                           | 4         | 1.18%   |
+| KIOXIA NVMe SSD Controller BG4                                                 | 4         | 1.18%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 4         | 1.18%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                  | 4         | 1.18%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                               | 4         | 1.18%   |
+| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 3         | 0.89%   |
+| Intel Celeron/Pentium Silver Processor SATA Controller                         | 3         | 0.89%   |
+| Toshiba America Info Systems XG4 NVMe SSD Controller                           | 2         | 0.59%   |
+| SK hynix PC401 NVMe Solid State Drive 256GB                                    | 2         | 0.59%   |
+| SK hynix Non-Volatile memory controller                                        | 2         | 0.59%   |
+| SK hynix BC501 NVMe Solid State Drive                                          | 2         | 0.59%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 2         | 0.59%   |
+| Lite-On Non-Volatile memory controller                                         | 2         | 0.59%   |
+| Kingston Company Company Non-Volatile memory controller                        | 2         | 0.59%   |
+| Intel SSD Pro 7600p/760p/E 6100p Series                                        | 2         | 0.59%   |
+| Intel Non-Volatile memory controller                                           | 2         | 0.59%   |
+| Intel Comet Lake SATA AHCI Controller                                          | 2         | 0.59%   |
+| Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 2         | 0.59%   |
+| Intel 82801FBM (ICH6M) SATA Controller                                         | 2         | 0.59%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 0.59%   |
 
 Storage Kind
 ------------
@@ -2090,7 +2090,7 @@ Graphics card models
 | Nvidia GM107M [GeForce GTX 960M]                                                      | 3         | 0.91%   |
 | Nvidia GA106M [GeForce RTX 3060 Mobile / Max-Q]                                       | 3         | 0.91%   |
 | AMD Topaz XT [Radeon R7 M260/M265 / M340/M360 / M440/M445 / 530/535 / 620/625 Mobile] | 3         | 0.91%   |
-| AMD Cezanne                                                                           | 3         | 0.91%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                          | 3         | 0.91%   |
 | Nvidia TU117M [GeForce MX450]                                                         | 2         | 0.61%   |
 | Nvidia TU117GLM [Quadro T1000 Mobile]                                                 | 2         | 0.61%   |
 | Nvidia GP104BM [GeForce GTX 1080 Mobile]                                              | 2         | 0.61%   |
@@ -2220,15 +2220,15 @@ Monitor models
 | Sharp LCD Monitor SHP144A 3200x1800 294x165mm 13.3-inch                  | 2         | 0.67%   |
 | Samsung Electronics U28E570 SAM0D71 3840x2160 608x345mm 27.5-inch        | 2         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC3245 1366x768 344x194mm 15.5-inch     | 2         | 0.67%   |
-| Samsung Electronics LCD Monitor SAM0B7C 1920x1080 886x498mm 40.0-inch    | 2         | 0.67%   |
+| Samsung Electronics LCD Monitor SAM0B7C 1920x1080 890x500mm 40.2-inch    | 2         | 0.67%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch        | 2         | 0.67%   |
 | LGD LCD Monitor 1920x1080                                                | 2         | 0.67%   |
 | LG Display LCD Monitor LGD0657 1920x1080 344x194mm 15.5-inch             | 2         | 0.67%   |
 | LG Display LCD Monitor LGD062C 1920x1080 309x174mm 14.0-inch             | 2         | 0.67%   |
 | LG Display LCD Monitor LGD045D 1366x768 345x194mm 15.6-inch              | 2         | 0.67%   |
-| Gigabyte Technology G34WQC GBT3400 3440x1440 800x330mm 34.1-inch         | 2         | 0.67%   |
+| Gigabyte Technology G34WQC GBT3400 3440x1440 797x334mm 34.0-inch         | 2         | 0.67%   |
 | Fujitsu Siemens P24W-6 IPS FUS07EA 1920x1200 518x324mm 24.1-inch         | 2         | 0.67%   |
-| Dell U2715H DELD065 2560x1440 600x340mm 27.2-inch                        | 2         | 0.67%   |
+| Dell U2715H DELD065 2560x1440 597x336mm 27.0-inch                        | 2         | 0.67%   |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch         | 2         | 0.67%   |
 | Chimei Innolux LCD Monitor CMN15C4 1920x1080 344x193mm 15.5-inch         | 2         | 0.67%   |
 | Chimei Innolux LCD Monitor CMN150C 1920x1080 344x193mm 15.5-inch         | 2         | 0.67%   |
@@ -2238,7 +2238,7 @@ Monitor models
 | BOE LCD Monitor BOE0804 1920x1080 344x193mm 15.5-inch                    | 2         | 0.67%   |
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                        | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUOC48A 1920x1080 344x194mm 15.5-inch           | 2         | 0.67%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch           | 2         | 0.67%   |
+| AU Optronics LCD Monitor AUO61ED 1920x1080 344x193mm 15.5-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO5A2D 1920x1080 293x165mm 13.2-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO408D 1920x1080 309x174mm 14.0-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch           | 2         | 0.67%   |
@@ -2311,7 +2311,7 @@ Diagonal size in inches
 | Unknown | 5         | 1.7%    |
 | 21      | 3         | 1.02%   |
 | 16      | 3         | 1.02%   |
-| 40      | 2         | 0.68%   |
+| 58      | 2         | 0.68%   |
 | 19      | 2         | 0.68%   |
 | 18      | 2         | 0.68%   |
 | 142     | 1         | 0.34%   |
@@ -2342,10 +2342,10 @@ Physical width
 | 701-800        | 5         | 1.71%   |
 | 601-700        | 5         | 1.71%   |
 | Unknown        | 5         | 1.71%   |
-| 801-900        | 3         | 1.02%   |
+| 1001-1500      | 3         | 1.02%   |
 | More than 2000 | 1         | 0.34%   |
+| 801-900        | 1         | 0.34%   |
 | 101-200        | 1         | 0.34%   |
-| 1001-1500      | 1         | 0.34%   |
 
 Aspect Ratio
 ------------
@@ -2388,12 +2388,12 @@ Area in inch²
 | 351-500        | 7         | 2.37%   |
 | 251-300        | 7         | 2.37%   |
 | Unknown        | 5         | 1.69%   |
-| 501-1000       | 4         | 1.36%   |
+| More than 1000 | 3         | 1.02%   |
 | 151-200        | 3         | 1.02%   |
 | 111-120        | 3         | 1.02%   |
 | 91-100         | 3         | 1.02%   |
 | 141-150        | 2         | 0.68%   |
-| More than 1000 | 1         | 0.34%   |
+| 501-1000       | 2         | 0.68%   |
 | 1-40           | 1         | 0.34%   |
 | 131-140        | 1         | 0.34%   |
 
@@ -2408,12 +2408,12 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 121-160       | 147       | 50.52%  |
-| 51-100        | 46        | 15.81%  |
+| 51-100        | 44        | 15.12%  |
 | 161-240       | 36        | 12.37%  |
 | 101-120       | 35        | 12.03%  |
 | More than 240 | 21        | 7.22%   |
 | Unknown       | 5         | 1.72%   |
-| 1-50          | 1         | 0.34%   |
+| 1-50          | 3         | 1.03%   |
 
 Multiple Monitors
 -----------------
@@ -2535,7 +2535,7 @@ Wireless vendors
 | Broadcom                        | 6         | 2.34%   |
 | Dell                            | 4         | 1.56%   |
 | Qualcomm                        | 3         | 1.17%   |
-| FIBOCOM                         | 3         | 1.17%   |
+| Fibocom                         | 3         | 1.17%   |
 | Ralink Technology               | 2         | 0.78%   |
 | Qualcomm Atheros Communications | 2         | 0.78%   |
 | MediaTek                        | 2         | 0.78%   |
@@ -2591,7 +2591,7 @@ Wireless models
 | Intel PRO/Wireless 3945ABG [Golan] Network Connection                   | 2         | 0.78%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                         | 2         | 0.78%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                        | 2         | 0.78%   |
-| FIBOCOM L830-EB                                                         | 2         | 0.78%   |
+| Fibocom L830-EB-00 LTE WWAN Modem                                       | 2         | 0.78%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                     | 1         | 0.39%   |
 | Sierra Wireless EM7345 4G LTE                                           | 1         | 0.39%   |
 
@@ -2768,7 +2768,7 @@ Controller models
 | Intel AX200 Bluetooth                                                               | 37        | 16.67%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 27        | 12.16%  |
 | Intel AX201 Bluetooth                                                               | 24        | 10.81%  |
-| Realtek Bluetooth Radio                                                             | 12        | 5.41%   |
+| Realtek Bluetooth Radio                                                             | 13        | 5.86%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 7         | 3.15%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 5         | 2.25%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 5         | 2.25%   |
@@ -2790,7 +2790,6 @@ Controller models
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 2         | 0.9%    |
 | Toshiba RT Bluetooth Radio                                                          | 1         | 0.45%   |
 | Toshiba Integrated Bluetooth (Taiyo Yuden)                                          | 1         | 0.45%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 1         | 0.45%   |
 | Ralink CSR BS8510                                                                   | 1         | 0.45%   |
 | Qualcomm Atheros Bluetooth USB Host Controller                                      | 1         | 0.45%   |
 | Lite-On Bluetooth Radio                                                             | 1         | 0.45%   |
@@ -2804,6 +2803,7 @@ Controller models
 | Dell BCM20702A0 Bluetooth Module                                                    | 1         | 0.45%   |
 | Chicony Bluetooth (RTL8723BE)                                                       | 1         | 0.45%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 1         | 0.45%   |
+| Broadcom BCM2045B (BDC-2) [Bluetooth Controller]                                    | 1         | 0.45%   |
 
 Sound
 -----
@@ -2943,19 +2943,20 @@ Memory module models
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 8         | 2.72%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 6         | 2.04%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s     | 6         | 2.04%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s         | 6         | 2.04%   |
-| SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 5         | 1.7%    |
+| SK hynix RAM HMA82GS6AFR8N-UH 16384MB SODIMM DDR4 2667MT/s   | 5         | 1.7%    |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 5         | 1.7%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s        | 5         | 1.7%    |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s       | 5         | 1.7%    |
-| Samsung RAM M471A2G44AM0-CWE 16384MB SODIMM DDR4 3200MT/s    | 4         | 1.36%   |
+| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s       | 4         | 1.36%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s        | 4         | 1.36%   |
 | Unknown RAM Module 1GB SODIMM DDR                            | 3         | 1.02%   |
 | SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s              | 3         | 1.02%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 3         | 1.02%   |
+| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s     | 3         | 1.02%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 3         | 1.02%   |
@@ -2969,15 +2970,14 @@ Memory module models
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMAA4GS6AJR8N-XN 32GB SODIMM DDR4 3200MT/s      | 2         | 0.68%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s | 2         | 0.68%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8192MB SODIMM DDR4 2667MT/s    | 2         | 0.68%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | Samsung RAM Module 8GB SODIMM DDR4 3200MT/s                  | 2         | 0.68%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 3200MT/s               | 2         | 0.68%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.68%   |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s        | 2         | 0.68%   |
+| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s     | 2         | 0.68%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
@@ -3028,9 +3028,9 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 105       | 41.67%  |
+| 8192  | 106       | 42.06%  |
 | 16384 | 54        | 21.43%  |
-| 4096  | 52        | 20.63%  |
+| 4096  | 51        | 20.24%  |
 | 2048  | 17        | 6.75%   |
 | 32768 | 16        | 6.35%   |
 | 1024  | 6         | 2.38%   |
@@ -3254,7 +3254,7 @@ Fingerprint sensor models
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor     | 1         | 1.85%   |
 | Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 1.85%   |
 | Synaptics Metallica MOH Touch Fingerprint Reader           | 1         | 1.85%   |
-| LighTuning EgisTec_ES603                                   | 1         | 1.85%   |
+| LighTuning ES603 Swipe Fingerprint Sensor                  | 1         | 1.85%   |
 | Elan ELAN:ARM-M4                                           | 1         | 1.85%   |
 | AuthenTec AES2501 Fingerprint Sensor                       | 1         | 1.85%   |
 

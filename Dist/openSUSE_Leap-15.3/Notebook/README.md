@@ -723,8 +723,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 33        | 57.89%  |
-| Yes       | 24        | 42.11%  |
+| No        | 34        | 59.65%  |
+| Yes       | 23        | 40.35%  |
 
 Has Ethernet
 ------------
@@ -1199,7 +1199,7 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 2         | 2.9%    |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                  | 2         | 2.9%    |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                               | 2         | 2.9%    |
-| SK hynix Gold P31 SSD                                                          | 1         | 1.45%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 1         | 1.45%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                    | 1         | 1.45%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1         | 1.45%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 1.45%   |
@@ -1597,17 +1597,17 @@ Monitor models
 | Hewlett-Packard LV1911 HWP3005 1366x768 410x230mm 18.5-inch           | 2         | 2.94%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch               | 2         | 2.94%   |
 | BOE LCD Monitor BOE0900 1920x1080 344x194mm 15.5-inch                 | 2         | 2.94%   |
-| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                         | 1         | 1.47%   |
+| Sony Nvidia Defaul t Flat Panel SNY06FA 1600x900 360x200mm 16.2-inch  | 1         | 1.47%   |
 | Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch               | 1         | 1.47%   |
 | Sceptre Tech Sceptre E19 SPT07A8 1366x768 575x323mm 26.0-inch         | 1         | 1.47%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch     | 1         | 1.47%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 344x194mm 15.5-inch  | 1         | 1.47%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch     | 1         | 1.47%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch  | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SEC3449 1366x768 309x174mm 14.0-inch  | 1         | 1.47%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch  | 1         | 1.47%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch  | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SDC424B 3840x2160 344x194mm 15.5-inch | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SDC324E 1600x900 309x174mm 14.0-inch  | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SAM7016 3840x2160 950x540mm 43.0-inch | 1         | 1.47%   |
-| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch               | 1         | 1.47%   |
+| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch               | 1         | 1.47%   |
 | LG Philips LCD Monitor LPLDB00 1280x800 331x207mm 15.4-inch           | 1         | 1.47%   |
 | LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch         | 1         | 1.47%   |
 | LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch          | 1         | 1.47%   |
@@ -1625,10 +1625,10 @@ Monitor models
 | LG Display LCD Monitor LGD01DA 1366x768 294x166mm 13.3-inch           | 1         | 1.47%   |
 | Lenovo LEN P27q-10 LEN61A8 2560x1440 597x336mm 27.0-inch              | 1         | 1.47%   |
 | Lenovo LCD Monitor LEN4020 1024x768 285x214mm 14.0-inch               | 1         | 1.47%   |
-| InfoVision LCD Monitor IVO03F4 1920x1080 309x173mm 13.9-inch          | 1         | 1.47%   |
-| Iiyama PL2492H IVM612F 1920x1080 527x296mm 23.8-inch                  | 1         | 1.47%   |
-| Goldstar MONITOR GSM59C6 1920x1080 509x286mm 23.0-inch                | 1         | 1.47%   |
+| InfoVision LCD Monitor IVO03F4 1920x1080 344x193mm 15.5-inch          | 1         | 1.47%   |
+| Iiyama PL2492H IVM612F 1920x1080 530x300mm 24.0-inch                  | 1         | 1.47%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                | 1         | 1.47%   |
+| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch              | 1         | 1.47%   |
 | Dell U2410 DELF017 1920x1200 518x324mm 24.1-inch                      | 1         | 1.47%   |
 | CSO LCD Monitor CSO1404 1920x1200 302x189mm 14.0-inch                 | 1         | 1.47%   |
 | CPT LCD Monitor CPT17D8 1366x768 293x165mm 13.2-inch                  | 1         | 1.47%   |
@@ -2211,10 +2211,10 @@ Memory module models
 | SK hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s     | 1         | 2.27%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
-| SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s     | 1         | 2.27%   |
+| SK hynix RAM HMA82GS6AFR8N-UH 16384MB SODIMM DDR4 2667MT/s  | 1         | 2.27%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s      | 1         | 2.27%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.27%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s      | 1         | 2.27%   |
 | SK hynix RAM H9HCNNNCPMMLXR-NEE 8GB SODIMM LPDDR4 4266MT/s  | 1         | 2.27%   |
 | Samsung RAM M471B5673EH1-CH9 2GB SODIMM DDR3 1334MT/s       | 1         | 2.27%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 1         | 2.27%   |
@@ -2224,13 +2224,13 @@ Memory module models
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s       | 1         | 2.27%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s | 1         | 2.27%   |
 | Samsung RAM K4F6E3S4HM-MGCJ 4GB SODIMM LPDDR4 3733MT/s      | 1         | 2.27%   |
-| Samsung RAM K4E6E304EE-EGCF 4096MB SODIMM LPDDR3 1867MT/s   | 1         | 2.27%   |
-| Samsung RAM K4E6E304EE-EGCF 4096MB Chip LPDDR3 1867MT/s     | 1         | 2.27%   |
+| Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s      | 1         | 2.27%   |
+| Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s        | 1         | 2.27%   |
 | Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s     | 1         | 2.27%   |
 | Micron RAM 8ATF51264HZ-2G1B1 8GB SODIMM DDR4 2667MT/s       | 1         | 2.27%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s        | 1         | 2.27%   |
 | Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s | 1         | 2.27%   |
-| Kingston RAM MSI26D4S9S8ME-8 8192MB SODIMM DDR4 2667MT/s    | 1         | 2.27%   |
+| Kingston RAM MSI26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s       | 1         | 2.27%   |
 | Kingston RAM ACR16D3LS1KFG/8G 8GB SODIMM DDR3 1600MT/s      | 1         | 2.27%   |
 | Goodram RAM IR2400S464L15S/8G 8192MB SODIMM DDR4 2133MT/s   | 1         | 2.27%   |
 | Crucial RAM BLS8G4S26BFSDK.8FD 8192MB SODIMM DDR4 2667MT/s  | 1         | 2.27%   |

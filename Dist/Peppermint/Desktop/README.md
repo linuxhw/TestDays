@@ -1069,7 +1069,7 @@ Hard drive models
 | WDC WD2500JS-60NCB1 250GB           | 1        | 0.73%   |
 | WDC WD2500BEVT-22A23T0 250GB        | 1        | 0.73%   |
 | WDC WD2500AVJB-63WKA0 250GB         | 1        | 0.73%   |
-| WDC WD2500AAJS-75M0A0 250GB         | 1        | 0.73%   |
+| WDC WD2500AAJS-75M0A0 249GB         | 1        | 0.73%   |
 | WDC WD2500AAJS-00VTA0 250GB         | 1        | 0.73%   |
 | WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.73%   |
 | WDC WD20EURS-63S48Y0 2TB            | 1        | 0.73%   |
@@ -1791,14 +1791,14 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| ___ LCD TV ___0101 1366x768                                             | 2        | 2.22%   |
+| ___ LCDTV16 ___0101 1360x768                                            | 2        | 2.22%   |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 2        | 2.22%   |
 | Dell 1905FP DEL400C 1280x1024 376x301mm 19.0-inch                       | 2        | 2.22%   |
 | BenQ FP731 BNQ7659 1280x1024 304x228mm 15.0-inch                        | 2        | 2.22%   |
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.22%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.11%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.11%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.11%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.11%   |
 | Toshiba TV TSB0206 1920x1080                                            | 1        | 1.11%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.11%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.11%   |
@@ -1808,7 +1808,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 521x293mm 23.5-inch    | 1        | 1.11%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.11%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.11%   |
-| Samsung Electronics SME1920 SAM06B7 1366x768 410x230mm 18.5-inch        | 1        | 1.11%   |
+| Samsung Electronics SME1920 SAM06B7 1360x768 410x230mm 18.5-inch        | 1        | 1.11%   |
 | Samsung Electronics S22B370 SAM0898 1920x1080 477x268mm 21.5-inch       | 1        | 1.11%   |
 | Samsung Electronics S22B300 SAM08AB 1920x1080 477x268mm 21.5-inch       | 1        | 1.11%   |
 | Samsung Electronics LCD Monitor SyncMaster 2624x1200                    | 1        | 1.11%   |
@@ -1817,13 +1817,13 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0B32 1366x768 610x350mm 27.7-inch    | 1        | 1.11%   |
 | Samsung Electronics LCD Monitor SAM0669 1920x1080                       | 1        | 1.11%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch       | 1        | 1.11%   |
-| Samsung Electronics C27R50x SAM0F9E 1920x1080 598x336mm 27.0-inch       | 1        | 1.11%   |
+| Samsung Electronics C27R500 SAM0F9E 1920x1080 598x336mm 27.0-inch       | 1        | 1.11%   |
 | Panasonic TH-42PD25U MEIA023 1920x540 920x518mm 41.6-inch               | 1        | 1.11%   |
 | MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.11%   |
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.11%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.11%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.11%   |
-| Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.11%   |
+| Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.11%   |
 | KTC 32T72-H-AN KTC3200 1360x768 698x392mm 31.5-inch                     | 1        | 1.11%   |
 | Hitachi 40E31 HTC0139 1920x1080 575x323mm 26.0-inch                     | 1        | 1.11%   |
 | Hewlett-Packard w2338h HWP281B 1920x1080 509x286mm 23.0-inch            | 1        | 1.11%   |
@@ -2055,7 +2055,7 @@ Controller models
 | Gemtek WUBR-177G [Ralink RT2571W]                                 | 3        | 1.92%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 2        | 1.28%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 2        | 1.28%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 2        | 1.28%   |
+| Realtek 802.11n                                                   | 2        | 1.28%   |
 | Realtek 802.11ac NIC                                              | 2        | 1.28%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 2        | 1.28%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 2        | 1.28%   |
@@ -2126,7 +2126,7 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                                        | 3        | 5.56%   |
 | Gemtek WUBR-177G [Ralink RT2571W]                                                      | 3        | 5.56%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                        | 2        | 3.7%    |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                  | 2        | 3.7%    |
+| Realtek 802.11n                                                                        | 2        | 3.7%    |
 | Realtek 802.11ac NIC                                                                   | 2        | 3.7%    |
 | Qualcomm Atheros AR9271 802.11n                                                        | 2        | 3.7%    |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                       | 2        | 3.7%    |
@@ -2440,7 +2440,7 @@ Memory module models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 2        | 8.7%    |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s           | 2        | 8.7%    |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 2        | 8.7%    |
 | Unknown RAM Module 2GB DIMM DDR2                         | 1        | 4.35%   |
 | Unknown RAM Module 1GB DIMM DDR2 533MT/s                 | 1        | 4.35%   |

@@ -1717,7 +1717,7 @@ Monitor models
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                  | 4        | 6.06%   |
 | BenQ G2420HDBL BNQ785E 1920x1080 477x268mm 21.5-inch                 | 3        | 4.55%   |
 | LG Electronics LCD Monitor LG TV 1360x768                            | 2        | 3.03%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                 | 2        | 3.03%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                 | 2        | 3.03%   |
 | Goldstar L192WS GSM4B32 1440x900 410x256mm 19.0-inch                 | 2        | 3.03%   |
 | Goldstar HD GSM5ACD 1366x768 410x230mm 18.5-inch                     | 2        | 3.03%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                 | 2        | 3.03%   |
@@ -1736,10 +1736,10 @@ Monitor models
 | Hewlett-Packard w1858 HWP2835 1366x768 413x234mm 18.7-inch           | 1        | 1.52%   |
 | Hewlett-Packard V194 HWP3346 1366x768 410x230mm 18.5-inch            | 1        | 1.52%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 1.52%   |
+| Hewlett-Packard Omni/Pro HWP410E 1366x768 410x230mm 18.5-inch        | 1        | 1.52%   |
 | Hewlett-Packard LCD Monitor L1710 2646x1024                          | 1        | 1.52%   |
 | Hewlett-Packard E241i HWP3124 1920x1200 518x324mm 24.1-inch          | 1        | 1.52%   |
 | Hewlett-Packard E241i HWP3122 1920x1200 518x324mm 24.1-inch          | 1        | 1.52%   |
-| Hewlett-Packard Compaq CQ-1 HWP410E 1366x768 410x230mm 18.5-inch     | 1        | 1.52%   |
 | Goldstar T1910 GSM4BD8 1280x1024 376x301mm 19.0-inch                 | 1        | 1.52%   |
 | Goldstar M237WA GSM5724 1920x1080 509x286mm 23.0-inch                | 1        | 1.52%   |
 | Goldstar L177WSB GSM448D 1440x900 370x232mm 17.2-inch                | 1        | 1.52%   |
@@ -1917,48 +1917,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                                             | Desktops | Percent |
-|-----------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                 | 38       | 41.3%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                             | 5        | 5.43%   |
-| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                        | 3        | 3.26%   |
-| Realtek RTL8125 2.5GbE Controller                                                 | 2        | 2.17%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                             | 2        | 2.17%   |
-| Ralink RT5360 Wireless 802.11n 1T/1R                                              | 2        | 2.17%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                        | 2        | 2.17%   |
-| Intel 82579V Gigabit Network Connection                                           | 2        | 2.17%   |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                                   | 2        | 2.17%   |
-| VIA VT6102/VT6103 [Rhine-II]                                                      | 1        | 1.09%   |
-| TRENDnet TEW-648UBM 802.11n 150Mbps Micro Wireless N Adapter [Realtek RTL8188CUS] | 1        | 1.09%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                       | 1        | 1.09%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                        | 1        | 1.09%   |
-| TP-Link 802.11n WLAN Adapter                                                      | 1        | 1.09%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)                       | 1        | 1.09%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                | 1        | 1.09%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                          | 1        | 1.09%   |
-| Realtek RTL8192EE PCIe Wireless Network Adapter                                   | 1        | 1.09%   |
-| Realtek RTL8188EE Wireless Network Adapter                                        | 1        | 1.09%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                                   | 1        | 1.09%   |
-| Realtek 802.11ac WLAN Adapter                                                     | 1        | 1.09%   |
-| Realtek 802.11ac NIC                                                              | 1        | 1.09%   |
-| Ralink RT5572 Wireless Adapter                                                    | 1        | 1.09%   |
-| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                                 | 1        | 1.09%   |
-| Ralink MT7601U Wireless Adapter                                                   | 1        | 1.09%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                         | 1        | 1.09%   |
-| Qualcomm Atheros AR9271 802.11n                                                   | 1        | 1.09%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                                  | 1        | 1.09%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                    | 1        | 1.09%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                     | 1        | 1.09%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                                             | 1        | 1.09%   |
-| Intel Tiger Lake PCH CNVi WiFi                                                    | 1        | 1.09%   |
-| Intel I211 Gigabit Network Connection                                             | 1        | 1.09%   |
-| Intel Ethernet Connection I217-V                                                  | 1        | 1.09%   |
-| Intel Ethernet Connection I217-LM                                                 | 1        | 1.09%   |
-| Intel Ethernet Connection (7) I219-V                                              | 1        | 1.09%   |
-| Intel Ethernet Connection (11) I219-V                                             | 1        | 1.09%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                             | 1        | 1.09%   |
-| Intel 82578DC Gigabit Network Connection                                          | 1        | 1.09%   |
-| Intel 82566DC-2 Gigabit Network Connection                                        | 1        | 1.09%   |
+| Model                                                                                         | Desktops | Percent |
+|-----------------------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 38       | 41.3%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                                         | 5        | 5.43%   |
+| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                                    | 3        | 3.26%   |
+| Realtek RTL8125 2.5GbE Controller                                                             | 2        | 2.17%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                                         | 2        | 2.17%   |
+| Ralink RT5360 Wireless 802.11n 1T/1R                                                          | 2        | 2.17%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                                    | 2        | 2.17%   |
+| Intel 82579V Gigabit Network Connection                                                       | 2        | 2.17%   |
+| D-Link System DGE-528T Gigabit Ethernet Adapter                                               | 2        | 2.17%   |
+| VIA VT6102/VT6103 [Rhine-II]                                                                  | 1        | 1.09%   |
+| TRENDnet TEW-648UBM 802.11n 150Mbps Micro Wireless N Adapter [Realtek RTL8188CUS]             | 1        | 1.09%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 1.09%   |
+| TP-Link 802.11n NIC                                                                           | 1        | 1.09%   |
+| TP-Link 802.11ac WLAN Adapter                                                                 | 1        | 1.09%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)                                   | 1        | 1.09%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 1.09%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 1.09%   |
+| Realtek RTL8192EE PCIe Wireless Network Adapter                                               | 1        | 1.09%   |
+| Realtek RTL8188EE Wireless Network Adapter                                                    | 1        | 1.09%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                                               | 1        | 1.09%   |
+| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.09%   |
+| Realtek 802.11ac NIC                                                                          | 1        | 1.09%   |
+| Ralink RT5572 Wireless Adapter                                                                | 1        | 1.09%   |
+| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                                             | 1        | 1.09%   |
+| Ralink MT7601U Wireless Adapter                                                               | 1        | 1.09%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                                     | 1        | 1.09%   |
+| Qualcomm Atheros AR9271 802.11n                                                               | 1        | 1.09%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                                              | 1        | 1.09%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                                | 1        | 1.09%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                                 | 1        | 1.09%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                                         | 1        | 1.09%   |
+| Intel Tiger Lake PCH CNVi WiFi                                                                | 1        | 1.09%   |
+| Intel I211 Gigabit Network Connection                                                         | 1        | 1.09%   |
+| Intel Ethernet Connection I217-V                                                              | 1        | 1.09%   |
+| Intel Ethernet Connection I217-LM                                                             | 1        | 1.09%   |
+| Intel Ethernet Connection (7) I219-V                                                          | 1        | 1.09%   |
+| Intel Ethernet Connection (11) I219-V                                                         | 1        | 1.09%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 1        | 1.09%   |
+| Intel 82578DC Gigabit Network Connection                                                      | 1        | 1.09%   |
+| Intel 82566DC-2 Gigabit Network Connection                                                    | 1        | 1.09%   |
 
 Wireless Vendor
 ---------------
@@ -1987,28 +1987,28 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                             | Desktops | Percent |
-|-----------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                        | 3        | 12.5%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                             | 2        | 8.33%   |
-| Ralink RT5360 Wireless 802.11n 1T/1R                                              | 2        | 8.33%   |
-| TRENDnet TEW-648UBM 802.11n 150Mbps Micro Wireless N Adapter [Realtek RTL8188CUS] | 1        | 4.17%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                       | 1        | 4.17%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                        | 1        | 4.17%   |
-| TP-Link 802.11n WLAN Adapter                                                      | 1        | 4.17%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                | 1        | 4.17%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                          | 1        | 4.17%   |
-| Realtek RTL8192EE PCIe Wireless Network Adapter                                   | 1        | 4.17%   |
-| Realtek RTL8188EE Wireless Network Adapter                                        | 1        | 4.17%   |
-| Realtek 802.11ac WLAN Adapter                                                     | 1        | 4.17%   |
-| Realtek 802.11ac NIC                                                              | 1        | 4.17%   |
-| Ralink RT5572 Wireless Adapter                                                    | 1        | 4.17%   |
-| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                                 | 1        | 4.17%   |
-| Ralink MT7601U Wireless Adapter                                                   | 1        | 4.17%   |
-| Qualcomm Atheros AR9271 802.11n                                                   | 1        | 4.17%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                                  | 1        | 4.17%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                    | 1        | 4.17%   |
-| Intel Tiger Lake PCH CNVi WiFi                                                    | 1        | 4.17%   |
+| Model                                                                                         | Desktops | Percent |
+|-----------------------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                                    | 3        | 12.5%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                                         | 2        | 8.33%   |
+| Ralink RT5360 Wireless 802.11n 1T/1R                                                          | 2        | 8.33%   |
+| TRENDnet TEW-648UBM 802.11n 150Mbps Micro Wireless N Adapter [Realtek RTL8188CUS]             | 1        | 4.17%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 4.17%   |
+| TP-Link 802.11n NIC                                                                           | 1        | 4.17%   |
+| TP-Link 802.11ac WLAN Adapter                                                                 | 1        | 4.17%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 4.17%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 4.17%   |
+| Realtek RTL8192EE PCIe Wireless Network Adapter                                               | 1        | 4.17%   |
+| Realtek RTL8188EE Wireless Network Adapter                                                    | 1        | 4.17%   |
+| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 4.17%   |
+| Realtek 802.11ac NIC                                                                          | 1        | 4.17%   |
+| Ralink RT5572 Wireless Adapter                                                                | 1        | 4.17%   |
+| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                                             | 1        | 4.17%   |
+| Ralink MT7601U Wireless Adapter                                                               | 1        | 4.17%   |
+| Qualcomm Atheros AR9271 802.11n                                                               | 1        | 4.17%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                                              | 1        | 4.17%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                                | 1        | 4.17%   |
+| Intel Tiger Lake PCH CNVi WiFi                                                                | 1        | 4.17%   |
 
 Ethernet Vendor
 ---------------
@@ -2263,14 +2263,14 @@ Memory module models
 | Unknown RAM Module 1GB DIMM DDR2                          | 1        | 2.86%   |
 | Unknown RAM Module 1024MB DIMM 1333MT/s                   | 1        | 2.86%   |
 | Samsung RAM Module 4GB DIMM DDR4 3200MT/s                 | 1        | 2.86%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 2.86%   |
+| Samsung RAM M378B5173QH0-CK0 4096MB DIMM DDR3 1600MT/s    | 1        | 2.86%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 2.86%   |
 | PNY RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 2.86%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s               | 1        | 2.86%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s      | 1        | 2.86%   |
+| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s   | 1        | 2.86%   |
 | Kingston RAM KHX3000C16D4/16GX 16384MB DIMM DDR4 2400MT/s | 1        | 2.86%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s         | 1        | 2.86%   |
-| Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s    | 1        | 2.86%   |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s       | 1        | 2.86%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s         | 1        | 2.86%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s       | 1        | 2.86%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 2.86%   |
@@ -2284,7 +2284,7 @@ Memory module models
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s     | 1        | 2.86%   |
 | Corsair RAM CMV16GX4M1A2666C18 16GB DIMM DDR4 2667MT/s    | 1        | 2.86%   |
 | Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s    | 1        | 2.86%   |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1        | 2.86%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 2.86%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s     | 1        | 2.86%   |
 | Avant RAM W641GU49J9266N6 8GB DIMM DDR4 2666MT/s          | 1        | 2.86%   |
 | A-DATA RAM Module 8GB DIMM DDR3 1333MT/s                  | 1        | 2.86%   |

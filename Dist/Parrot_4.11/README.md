@@ -204,7 +204,7 @@ Total: 111
 | Dell          | Inspiron 7501               | Notebook    | [1d532e72c0](https://linux-hardware.org/?probe=1d532e72c0) | Oct 02, 2021 |
 | HP            | 250 G7 Notebook PC          | Notebook    | [b33c31b0cf](https://linux-hardware.org/?probe=b33c31b0cf) | Oct 02, 2021 |
 | Gigabyte      | A320M-S2H-CF                | Desktop     | [b733e7fac1](https://linux-hardware.org/?probe=b733e7fac1) | Sep 23, 2021 |
-| Dell          | Vostro 5470                 | Notebook    | [c57bcaa35d](https://linux-hardware.org/?probe=c57bcaa35d) | Sep 19, 2021 |
+| Radxa         | ROCK 5B                     | Soc         | [c57bcaa35d](https://linux-hardware.org/?probe=c57bcaa35d) | Sep 19, 2021 |
 | Lenovo        | B50-80 80EW                 | Notebook    | [493f8d65cb](https://linux-hardware.org/?probe=493f8d65cb) | Sep 18, 2021 |
 | Lenovo        | Y520-15IKBN 80WK            | Notebook    | [09b7566e74](https://linux-hardware.org/?probe=09b7566e74) | Sep 14, 2021 |
 | Acer          | TravelMate 5720             | Notebook    | [b08ac328d1](https://linux-hardware.org/?probe=b08ac328d1) | Sep 14, 2021 |
@@ -503,8 +503,8 @@ Motherboard manufacturer
 | Name                | Computers | Percent |
 |---------------------|-----------|---------|
 | Hewlett-Packard     | 18        | 20.22%  |
-| Dell                | 14        | 15.73%  |
 | ASUSTek Computer    | 14        | 15.73%  |
+| Dell                | 13        | 14.61%  |
 | Lenovo              | 9         | 10.11%  |
 | Acer                | 6         | 6.74%   |
 | MSI                 | 5         | 5.62%   |
@@ -519,6 +519,7 @@ Motherboard manufacturer
 | Toshiba             | 1         | 1.12%   |
 | Timi                | 1         | 1.12%   |
 | Sony                | 1         | 1.12%   |
+| Radxa               | 1         | 1.12%   |
 | Positivo            | 1         | 1.12%   |
 | Microsoft           | 1         | 1.12%   |
 | Intel               | 1         | 1.12%   |
@@ -548,6 +549,7 @@ Motherboard model
 | Sony SVP1321L1EBI                        | 1         | 1.12%   |
 | Samsung 350V5C/351V5C/3540VC/3440VC      | 1         | 1.12%   |
 | Samsung 300E4C/300E5C/300E7C             | 1         | 1.12%   |
+| Radxa ROCK 5B                            | 1         | 1.12%   |
 | Positivo Q232A                           | 1         | 1.12%   |
 | MSI MS-7529                              | 1         | 1.12%   |
 | MSI GT60 2OC/2OD                         | 1         | 1.12%   |
@@ -577,7 +579,6 @@ Motherboard model
 | HP ENVY x360 Convertible 15-es0xxx       | 1         | 1.12%   |
 | HP EliteBook 850 G6                      | 1         | 1.12%   |
 | HP EliteBook 8470p                       | 1         | 1.12%   |
-| HP EliteBook 840 G8 Notebook PC          | 1         | 1.12%   |
 
 Model Family
 ------------
@@ -607,6 +608,7 @@ Motherboard model prefix
 | Sony SVP1321L1EBI      | 1         | 1.12%   |
 | Samsung 350V5C         | 1         | 1.12%   |
 | Samsung 300E4C         | 1         | 1.12%   |
+| Radxa ROCK             | 1         | 1.12%   |
 | Positivo Q232A         | 1         | 1.12%   |
 | MSI MS-7529            | 1         | 1.12%   |
 | MSI GT60               | 1         | 1.12%   |
@@ -628,7 +630,6 @@ Motherboard model prefix
 | HP 250                 | 1         | 1.12%   |
 | GPU Company GWTN141-10 | 1         | 1.12%   |
 | Gigabyte H110M-H       | 1         | 1.12%   |
-| Gigabyte A320M-S2H     | 1         | 1.12%   |
 
 MFG Year
 --------
@@ -665,14 +666,15 @@ Physical design of the computer
 ![Form Factor](./All/images/pie_chart/node_formfactor.svg)
 
 
-| Name        | Computers | Percent |
-|-------------|-----------|---------|
-| Notebook    | 64        | 71.91%  |
-| Desktop     | 21        | 23.6%   |
-| Tablet      | 1         | 1.12%   |
-| Convertible | 1         | 1.12%   |
-| Mini pc     | 1         | 1.12%   |
-| All in one  | 1         | 1.12%   |
+| Name           | Computers | Percent |
+|----------------|-----------|---------|
+| Notebook       | 63        | 70.79%  |
+| Desktop        | 21        | 23.6%   |
+| System on chip | 1         | 1.12%   |
+| Tablet         | 1         | 1.12%   |
+| Convertible    | 1         | 1.12%   |
+| Mini pc        | 1         | 1.12%   |
+| All in one     | 1         | 1.12%   |
 
 Secure Boot
 -----------
@@ -951,7 +953,7 @@ Hard drive models
 
 | Model                                | Computers | Percent |
 |--------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 1TB            | 4         | 2.72%   |
+| Unknown SD/MMC/MS PRO 8GB            | 4         | 2.72%   |
 | Seagate ST2000LM003 HN-M201RAD 2TB   | 3         | 2.04%   |
 | SanDisk SSD PLUS 1000GB              | 3         | 2.04%   |
 | Samsung SSD 860 EVO 500GB            | 3         | 2.04%   |
@@ -959,7 +961,7 @@ Hard drive models
 | HGST HTS541010A9E680 1TB             | 3         | 2.04%   |
 | WDC WD5000LPCX-24C6HT0 500GB         | 2         | 1.36%   |
 | Toshiba DT01ACA100 1TB               | 2         | 1.36%   |
-| Seagate Expansion 2TB                | 2         | 1.36%   |
+| Seagate Expansion 1TB                | 2         | 1.36%   |
 | Crucial CT1000MX500SSD1 1TB          | 2         | 1.36%   |
 | WDC WDS100T2B0C-00PXH0 1TB           | 1         | 0.68%   |
 | WDC WDS100T2B0B-00YS70 1TB SSD       | 1         | 0.68%   |
@@ -1083,10 +1085,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 49        | 71     | 55.06%  |
-| 0.51-1.0   | 32        | 36     | 35.96%  |
-| 1.01-2.0   | 7         | 8      | 7.87%   |
-| 3.01-4.0   | 1         | 1      | 1.12%   |
+| 0.01-0.5   | 50        | 75     | 56.82%  |
+| 0.51-1.0   | 31        | 34     | 35.23%  |
+| 1.01-2.0   | 6         | 6      | 6.82%   |
+| 3.01-4.0   | 1         | 1      | 1.14%   |
 
 Space Total
 -----------
@@ -1211,7 +1213,7 @@ Failed drive models
 
 | Model                     | Computers | Drives | Percent |
 |---------------------------|-----------|--------|---------|
-| Intenso SSD SATAIII 240GB | 1         | 1      | 100%    |
+| Intenso SSD SATAIII 128GB | 1         | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1311,7 +1313,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 2         | 1.59%   |
 | VIA VT6415 PATA IDE Host Controller                                            | 1         | 0.79%   |
 | SK hynix Non-Volatile memory controller                                        | 1         | 0.79%   |
-| SK hynix Gold P31 SSD                                                          | 1         | 0.79%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 1         | 0.79%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 0.79%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.79%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1         | 0.79%   |
@@ -1738,7 +1740,7 @@ Monitor models
 | STA XR140EA1T STA0450 1366x768 310x174mm 14.0-inch                    | 1         | 0.97%   |
 | Sony SDM-HX73 SNY2870 1280x1024 338x270mm 17.0-inch                   | 1         | 0.97%   |
 | Sharp LCD Monitor SHP1447 1920x1080 294x165mm 13.3-inch               | 1         | 0.97%   |
-| Sceptre Tech Sceptre F24 SPT09AB 1920x1080 521x293mm 23.5-inch        | 1         | 0.97%   |
+| Sceptre Tech Sceptre F24 SPT09AB 1920x1080 530x290mm 23.8-inch        | 1         | 0.97%   |
 | Sceptre Tech Sceptre B30 SPT0BC2 2560x1080 690x291mm 29.5-inch        | 1         | 0.97%   |
 | Sceptre LCD Monitor P30 2560x1080                                     | 1         | 0.97%   |
 | Samsung Electronics SyncMaster SAM0589 1920x1080 521x293mm 23.5-inch  | 1         | 0.97%   |
@@ -1754,10 +1756,10 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0F3D 1360x768 522x293mm 23.6-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SAM03FE 1280x720                      | 1         | 0.97%   |
 | Samsung Electronics LC32G7xT SAM705A 2560x1440 698x393mm 31.5-inch    | 1         | 0.97%   |
-| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch    | 1         | 0.97%   |
+| Samsung Electronics C49RG9x SAM0F9C 2560x1440 1193x336mm 48.8-inch    | 1         | 0.97%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1         | 0.97%   |
 | Philips PHL 272E1 PHLC210 1920x1080 598x336mm 27.0-inch               | 1         | 0.97%   |
-| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch          | 1         | 0.97%   |
+| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch           | 1         | 0.97%   |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch           | 1         | 0.97%   |
 | LG Display LP156WH2-TLAA LGD0230 1366x768 344x194mm 15.5-inch         | 1         | 0.97%   |
 | LG Display LCD Monitor LGD0690 2560x1440 344x194mm 15.5-inch          | 1         | 0.97%   |
@@ -2006,10 +2008,10 @@ Controller models
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 1         | 0.58%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 0.58%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1         | 0.58%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1         | 0.58%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 1         | 0.58%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 0.58%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 0.58%   |
+| Realtek 802.11n                                                   | 1         | 0.58%   |
 | Ralink RT3060 Wireless 802.11n 1T/1R                              | 1         | 0.58%   |
 
 Wireless Vendor
@@ -2071,8 +2073,8 @@ Wireless models
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                  | 1         | 1.1%    |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                           | 1         | 1.1%    |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                   | 1         | 1.1%    |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                     | 1         | 1.1%    |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                | 1         | 1.1%    |
+| Realtek 802.11n                                                           | 1         | 1.1%    |
 | Ralink RT3060 Wireless 802.11n 1T/1R                                      | 1         | 1.1%    |
 | Ralink RT2500 Wireless 802.11bg                                           | 1         | 1.1%    |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)            | 1         | 1.1%    |
@@ -2147,7 +2149,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-V                              | 1         | 1.27%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.27%   |
 | Intel 82577LM Gigabit Network Connection                          | 1         | 1.27%   |
-| Huawei LYA-L09                                                    | 1         | 1.27%   |
+| Huawei SNE-LX1                                                    | 1         | 1.27%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.27%   |
 | Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 1.27%   |
 | Broadcom NetLink BCM5786 Gigabit Ethernet PCI Express             | 1         | 1.27%   |
@@ -2378,7 +2380,7 @@ Memory module models
 
 | Model                                                               | Computers | Percent |
 |---------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s               | 2         | 2.7%    |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s            | 2         | 2.7%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s               | 2         | 2.7%    |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                         | 1         | 1.35%   |
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s                           | 1         | 1.35%   |
@@ -2389,7 +2391,7 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR2 533MT/s                          | 1         | 1.35%   |
 | Unknown RAM Module 1024MB SODIMM DDR2 667MT/s                       | 1         | 1.35%   |
 | Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s                | 1         | 1.35%   |
-| Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s                | 1         | 1.35%   |
+| Team RAM TEAMGROUP-SD3-1600 4GB SODIMM DDR3 1600MT/s                | 1         | 1.35%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s                | 1         | 1.35%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                        | 1         | 1.35%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1066MT/s                        | 1         | 1.35%   |
@@ -2397,7 +2399,7 @@ Memory module models
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 1.35%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s              | 1         | 1.35%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 1.35%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s              | 1         | 1.35%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM 1334MT/s                   | 1         | 1.35%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s              | 1         | 1.35%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s              | 1         | 1.35%   |
 | SK hynix RAM H9HCNNNBKMALHR-NEE 4096MB Row Of Chips LPDDR4 4267MT/s | 1         | 1.35%   |
@@ -2406,14 +2408,14 @@ Memory module models
 | Samsung RAM Module 2GB SODIMM LPDDR4 2400MT/s                       | 1         | 1.35%   |
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                        | 1         | 1.35%   |
 | Samsung RAM M474A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s              | 1         | 1.35%   |
-| Samsung RAM M471B5773DH0-CK0 2048MB SODIMM DDR3 1600MT/s            | 1         | 1.35%   |
+| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s               | 1         | 1.35%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s               | 1         | 1.35%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s               | 1         | 1.35%   |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s               | 1         | 1.35%   |
+| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s            | 1         | 1.35%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s              | 1         | 1.35%   |
 | Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s              | 1         | 1.35%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s               | 1         | 1.35%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s               | 1         | 1.35%   |
+| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s            | 1         | 1.35%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s               | 1         | 1.35%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s               | 1         | 1.35%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s               | 1         | 1.35%   |
@@ -2659,7 +2661,7 @@ Fingerprint sensor models
 | Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 7.69%   |
 | Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint                 | 1         | 7.69%   |
 | Synaptics Prometheus MIS Touch Fingerprint Reader                          | 1         | 7.69%   |
-| LighTuning EgisTec_ES603                                                   | 1         | 7.69%   |
+| LighTuning ES603 Swipe Fingerprint Sensor                                  | 1         | 7.69%   |
 | Elan ELAN:Fingerprint                                                      | 1         | 7.69%   |
 | AuthenTec Fingerprint Sensor                                               | 1         | 7.69%   |
 | Unknown                                                                    | 1         | 7.69%   |

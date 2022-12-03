@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 62
+Total: 63
 
 | Vendor     | Model                 | Probe                                                      | Date         |
 |------------|-----------------------|------------------------------------------------------------|--------------|
+| MSI        | B350M MORTAR          | [f85255857d](https://linux-hardware.org/?probe=f85255857d) | Nov 17, 2022 |
 | MSI        | B350M MORTAR          | [9312be9510](https://linux-hardware.org/?probe=9312be9510) | Oct 23, 2022 |
 | ASUSTek    | PRIME B450M-A         | [f13203e3ce](https://linux-hardware.org/?probe=f13203e3ce) | Oct 14, 2022 |
 | MSI        | B350M MORTAR          | [4e56098080](https://linux-hardware.org/?probe=4e56098080) | Oct 04, 2022 |
@@ -261,40 +262,41 @@ Version of the Linux kernel
 
 | Version                    | Desktops | Percent |
 |----------------------------|----------|---------|
-| 5.3.0-46-generic           | 4        | 9.76%   |
-| 5.11.0-37-generic          | 3        | 7.32%   |
-| 5.8.0-53-generic           | 2        | 4.88%   |
-| 5.0.0-37-generic           | 2        | 4.88%   |
-| 5.8.0-55-generic           | 1        | 2.44%   |
-| 5.8.0-48-generic           | 1        | 2.44%   |
-| 5.8.0-44-generic           | 1        | 2.44%   |
-| 5.8.0-40-generic           | 1        | 2.44%   |
-| 5.8.0-36-generic           | 1        | 2.44%   |
-| 5.8.0-29-generic           | 1        | 2.44%   |
-| 5.4.66-xanmod1             | 1        | 2.44%   |
-| 5.4.0-77-generic           | 1        | 2.44%   |
-| 5.4.0-74-generic           | 1        | 2.44%   |
-| 5.4.0-72-generic           | 1        | 2.44%   |
-| 5.4.0-54-generic           | 1        | 2.44%   |
-| 5.4.0-52-generic           | 1        | 2.44%   |
-| 5.4.0-47-generic           | 1        | 2.44%   |
-| 5.4.0-37-generic           | 1        | 2.44%   |
-| 5.4.0-31-generic           | 1        | 2.44%   |
-| 5.3.0-59-generic           | 1        | 2.44%   |
-| 5.3.0-40-generic           | 1        | 2.44%   |
-| 5.3.0-28-generic           | 1        | 2.44%   |
-| 5.15.0-50-generic          | 1        | 2.44%   |
-| 5.15.0-48-generic          | 1        | 2.44%   |
-| 5.15.0-46-generic          | 1        | 2.44%   |
-| 5.15.0-33-generic          | 1        | 2.44%   |
-| 5.15.0-15.1-liquorix-amd64 | 1        | 2.44%   |
-| 5.13.0-52-generic          | 1        | 2.44%   |
-| 5.13.0-37-generic          | 1        | 2.44%   |
-| 5.11.0-27-generic          | 1        | 2.44%   |
-| 5.11.0-25-generic          | 1        | 2.44%   |
-| 4.15.0-48-generic          | 1        | 2.44%   |
-| 4.15.0-43-generic          | 1        | 2.44%   |
-| 4.15.0-42-generic          | 1        | 2.44%   |
+| 5.3.0-46-generic           | 4        | 9.52%   |
+| 5.11.0-37-generic          | 3        | 7.14%   |
+| 5.8.0-53-generic           | 2        | 4.76%   |
+| 5.0.0-37-generic           | 2        | 4.76%   |
+| 5.8.0-55-generic           | 1        | 2.38%   |
+| 5.8.0-48-generic           | 1        | 2.38%   |
+| 5.8.0-44-generic           | 1        | 2.38%   |
+| 5.8.0-40-generic           | 1        | 2.38%   |
+| 5.8.0-36-generic           | 1        | 2.38%   |
+| 5.8.0-29-generic           | 1        | 2.38%   |
+| 5.4.66-xanmod1             | 1        | 2.38%   |
+| 5.4.0-77-generic           | 1        | 2.38%   |
+| 5.4.0-74-generic           | 1        | 2.38%   |
+| 5.4.0-72-generic           | 1        | 2.38%   |
+| 5.4.0-54-generic           | 1        | 2.38%   |
+| 5.4.0-52-generic           | 1        | 2.38%   |
+| 5.4.0-47-generic           | 1        | 2.38%   |
+| 5.4.0-37-generic           | 1        | 2.38%   |
+| 5.4.0-31-generic           | 1        | 2.38%   |
+| 5.3.0-59-generic           | 1        | 2.38%   |
+| 5.3.0-40-generic           | 1        | 2.38%   |
+| 5.3.0-28-generic           | 1        | 2.38%   |
+| 5.15.0-53-generic          | 1        | 2.38%   |
+| 5.15.0-50-generic          | 1        | 2.38%   |
+| 5.15.0-48-generic          | 1        | 2.38%   |
+| 5.15.0-46-generic          | 1        | 2.38%   |
+| 5.15.0-33-generic          | 1        | 2.38%   |
+| 5.15.0-15.1-liquorix-amd64 | 1        | 2.38%   |
+| 5.13.0-52-generic          | 1        | 2.38%   |
+| 5.13.0-37-generic          | 1        | 2.38%   |
+| 5.11.0-27-generic          | 1        | 2.38%   |
+| 5.11.0-25-generic          | 1        | 2.38%   |
+| 4.15.0-48-generic          | 1        | 2.38%   |
+| 4.15.0-43-generic          | 1        | 2.38%   |
+| 4.15.0-42-generic          | 1        | 2.38%   |
 
 Kernel Family
 -------------
@@ -849,7 +851,7 @@ Hard drive vendors
 |---------------------------|----------|--------|---------|
 | WDC                       | 17       | 28     | 28.33%  |
 | Seagate                   | 13       | 19     | 21.67%  |
-| Samsung Electronics       | 7        | 10     | 11.67%  |
+| Samsung Electronics       | 7        | 11     | 11.67%  |
 | Hitachi                   | 5        | 6      | 8.33%   |
 | Toshiba                   | 4        | 5      | 6.67%   |
 | Kingston                  | 4        | 12     | 6.67%   |
@@ -901,7 +903,7 @@ Hard drive models
 | WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.47%   |
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.47%   |
 | Verbatim Vi550 S3 SSD 512GB      | 1        | 1.47%   |
-| Unknown SD/MMC/MS PRO 1TB        | 1        | 1.47%   |
+| Unknown SD/MMC/MS PRO 8GB        | 1        | 1.47%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.47%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.47%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.47%   |
@@ -964,7 +966,7 @@ HDD or SSD
 |------|----------|--------|---------|
 | HDD  | 31       | 57     | 58.49%  |
 | SSD  | 16       | 27     | 30.19%  |
-| NVMe | 6        | 7      | 11.32%  |
+| NVMe | 6        | 8      | 11.32%  |
 
 Drive Connector
 ---------------
@@ -977,7 +979,7 @@ SATA, SAS, NVMe, etc.
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | SATA | 35       | 83     | 83.33%  |
-| NVMe | 6        | 7      | 14.29%  |
+| NVMe | 6        | 8      | 14.29%  |
 | SAS  | 1        | 1      | 2.38%   |
 
 Drive Size
@@ -990,12 +992,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 22       | 36     | 43.14%  |
-| 0.51-1.0   | 18       | 32     | 35.29%  |
-| 1.01-2.0   | 5        | 6      | 9.8%    |
-| 3.01-4.0   | 3        | 7      | 5.88%   |
-| 2.01-3.0   | 2        | 2      | 3.92%   |
-| 4.01-10.0  | 1        | 1      | 1.96%   |
+| 0.01-0.5   | 23       | 37     | 44.23%  |
+| 0.51-1.0   | 18       | 31     | 34.62%  |
+| 1.01-2.0   | 5        | 6      | 9.62%   |
+| 3.01-4.0   | 3        | 7      | 5.77%   |
+| 2.01-3.0   | 2        | 2      | 3.85%   |
+| 4.01-10.0  | 1        | 1      | 1.92%   |
 
 Space Total
 -----------
@@ -1121,7 +1123,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 32       | 74     | 80%     |
+| Detected | 32       | 75     | 80%     |
 | Works    | 5        | 13     | 12.5%   |
 | Malfunc  | 2        | 3      | 5%      |
 | Failed   | 1        | 1      | 2.5%    |
@@ -1558,8 +1560,8 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vestel LCD Monitor 32W_LCD_TV 1920x1080                                | 1        | 2.56%   |
 | Unknown LCD Monitor SAMSUNG                                            | 1        | 2.56%   |
-| Sceptre Tech Sceptre F27 SPT0ABF 1920x1080 409x230mm 18.5-inch         | 1        | 2.56%   |
-| Samsung Electronics S27E510 SAM0C5F 1920x1080 600x340mm 27.2-inch      | 1        | 2.56%   |
+| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                 | 1        | 2.56%   |
+| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch      | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                      | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor U28E590                                | 1        | 2.56%   |
 | Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch   | 1        | 2.56%   |
@@ -1772,7 +1774,7 @@ Controller models
 |------------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller            | 22       | 41.51%  |
 | Intel Ethernet Connection (2) I219-V                                         | 4        | 7.55%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                   | 1        | 1.89%   |
+| TP-Link 802.11ac WLAN Adapter                                                | 1        | 1.89%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                     | 1        | 1.89%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                       | 1        | 1.89%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                   | 1        | 1.89%   |
@@ -1832,7 +1834,7 @@ Wireless models
 
 | Model                                                                        | Desktops | Percent |
 |------------------------------------------------------------------------------|----------|---------|
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                   | 1        | 5.88%   |
+| TP-Link 802.11ac WLAN Adapter                                                | 1        | 5.88%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                     | 1        | 5.88%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                       | 1        | 5.88%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                   | 1        | 5.88%   |
@@ -2010,48 +2012,48 @@ Sound card models
 ![Sound Model](./images/pie_chart/snd_model.svg)
 
 
-| Model                                                                      | Desktops | Percent |
-|----------------------------------------------------------------------------|----------|---------|
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 8        | 11.76%  |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 4        | 5.88%   |
-| Nvidia GK208 HDMI/DP Audio Controller                                      | 3        | 4.41%   |
-| Nvidia GF108 High Definition Audio Controller                              | 3        | 4.41%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 3        | 4.41%   |
-| Intel 200 Series PCH HD Audio                                              | 3        | 4.41%   |
-| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 2        | 2.94%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 2        | 2.94%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 2        | 2.94%   |
-| AMD FCH Azalia Controller                                                  | 2        | 2.94%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 2        | 2.94%   |
-| Texas Instruments PCM2902C Audio CODEC                                     | 1        | 1.47%   |
-| Razer USA Nommo Chroma                                                     | 1        | 1.47%   |
-| Nvidia TU116 High Definition Audio Controller                              | 1        | 1.47%   |
-| Nvidia MCP55 High Definition Audio                                         | 1        | 1.47%   |
-| Nvidia High Definition Audio Controller                                    | 1        | 1.47%   |
-| Nvidia GP107GL High Definition Audio Controller                            | 1        | 1.47%   |
-| Nvidia GP104 High Definition Audio Controller                              | 1        | 1.47%   |
-| Nvidia GM204 High Definition Audio Controller                              | 1        | 1.47%   |
-| Nvidia GK107 HDMI Audio Controller                                         | 1        | 1.47%   |
-| Microsoft LifeChat LX-3000 Headset                                         | 1        | 1.47%   |
-| Logitech Headset H390                                                      | 1        | 1.47%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1        | 1.47%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                    | 1        | 1.47%   |
-| Intel Comet Lake PCH-V cAVS                                                | 1        | 1.47%   |
-| Intel Cannon Lake PCH cAVS                                                 | 1        | 1.47%   |
-| Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 1.47%   |
-| Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 1        | 1.47%   |
-| Intel 82801G (ICH7 Family) AC'97 Audio Controller                          | 1        | 1.47%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 1.47%   |
-| Hewlett-Packard S101 Speaker Bar                                           | 1        | 1.47%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]              | 1        | 1.47%   |
-| C-Media Electronics CMI8788 [Oxygen HD Audio]                              | 1        | 1.47%   |
-| C-Media Electronics Audio Adapter                                          | 1        | 1.47%   |
-| C-Media Electronics Anua Mic CM 900                                        | 1        | 1.47%   |
-| AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                 | 1        | 1.47%   |
-| AMD Starship/Matisse HD Audio Controller                                   | 1        | 1.47%   |
-| AMD SBx00 Azalia (Intel HDA)                                               | 1        | 1.47%   |
-| AMD RV620 HDMI Audio [Radeon HD 3450/3470/3550/3570]                       | 1        | 1.47%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 1.47%   |
+| Model                                                                                           | Desktops | Percent |
+|-------------------------------------------------------------------------------------------------|----------|---------|
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                      | 8        | 11.76%  |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                             | 4        | 5.88%   |
+| Nvidia GK208 HDMI/DP Audio Controller                                                           | 3        | 4.41%   |
+| Nvidia GF108 High Definition Audio Controller                                                   | 3        | 4.41%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 3        | 4.41%   |
+| Intel 200 Series PCH HD Audio                                                                   | 3        | 4.41%   |
+| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                                   | 2        | 2.94%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                                                | 2        | 2.94%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 2        | 2.94%   |
+| AMD FCH Azalia Controller                                                                       | 2        | 2.94%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                      | 2        | 2.94%   |
+| Texas Instruments PCM2902C Audio CODEC                                                          | 1        | 1.47%   |
+| Razer USA Nommo Chroma                                                                          | 1        | 1.47%   |
+| Nvidia TU116 High Definition Audio Controller                                                   | 1        | 1.47%   |
+| Nvidia MCP55 High Definition Audio                                                              | 1        | 1.47%   |
+| Nvidia High Definition Audio Controller                                                         | 1        | 1.47%   |
+| Nvidia GP107GL High Definition Audio Controller                                                 | 1        | 1.47%   |
+| Nvidia GP104 High Definition Audio Controller                                                   | 1        | 1.47%   |
+| Nvidia GM204 High Definition Audio Controller                                                   | 1        | 1.47%   |
+| Nvidia GK107 HDMI Audio Controller                                                              | 1        | 1.47%   |
+| Microsoft LifeChat LX-3000 Headset                                                              | 1        | 1.47%   |
+| Logitech Headset H390                                                                           | 1        | 1.47%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                | 1        | 1.47%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                         | 1        | 1.47%   |
+| Intel Comet Lake PCH-V cAVS                                                                     | 1        | 1.47%   |
+| Intel Cannon Lake PCH cAVS                                                                      | 1        | 1.47%   |
+| Intel 9 Series Chipset Family HD Audio Controller                                               | 1        | 1.47%   |
+| Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                             | 1        | 1.47%   |
+| Intel 82801G (ICH7 Family) AC'97 Audio Controller                                               | 1        | 1.47%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.47%   |
+| Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.47%   |
+| Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.47%   |
+| C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.47%   |
+| C-Media Electronics Auna Mic CM900                                                              | 1        | 1.47%   |
+| C-Media Electronics Audio Adapter                                                               | 1        | 1.47%   |
+| AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.47%   |
+| AMD Starship/Matisse HD Audio Controller                                                        | 1        | 1.47%   |
+| AMD SBx00 Azalia (Intel HDA)                                                                    | 1        | 1.47%   |
+| AMD RV620 HDMI Audio [Radeon HD 3450/3470/3550/3570]                                            | 1        | 1.47%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                             | 1        | 1.47%   |
 
 Memory
 ------
@@ -2087,9 +2089,9 @@ Memory module models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Unknown RAM Module 4096MB DIMM DDR3 1400MT/s            | 1        | 9.09%   |
-| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s  | 1        | 9.09%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s     | 1        | 9.09%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 9.09%   |
-| Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR 2048MT/s       | 1        | 9.09%   |
+| Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s      | 1        | 9.09%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s     | 1        | 9.09%   |
 | HP RAM 7EH65AA# 16384MB DIMM DDR4 2666MT/s              | 1        | 9.09%   |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s    | 1        | 9.09%   |

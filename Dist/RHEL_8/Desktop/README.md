@@ -940,7 +940,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.76%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.76%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.76%   |
-| Unknown SD/MMC/MS PRO 1TB            | 1        | 0.76%   |
+| Unknown SD/MMC/MS PRO 8GB            | 1        | 0.76%   |
 | Toshiba HDWT140 4TB                  | 1        | 0.76%   |
 
 HDD Vendor
@@ -1027,9 +1027,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 34       | 71     | 40.96%  |
+| 0.01-0.5   | 35       | 72     | 42.17%  |
 | 0.51-1.0   | 26       | 41     | 31.33%  |
-| 1.01-2.0   | 14       | 17     | 16.87%  |
+| 1.01-2.0   | 13       | 16     | 15.66%  |
 | 3.01-4.0   | 6        | 11     | 7.23%   |
 | 4.01-10.0  | 2        | 5      | 2.41%   |
 | 2.01-3.0   | 1        | 1      | 1.2%    |
@@ -1209,7 +1209,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 3        | 3.06%   |
 | ASMedia ASM1062 Serial ATA Controller                                                   | 3        | 3.06%   |
 | AMD 300 Series Chipset SATA Controller                                                  | 3        | 3.06%   |
-| Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller        | 2        | 2.04%   |
+| Toshiba America Info Systems XG5 NVMe SSD Controller                                    | 2        | 2.04%   |
 | SK hynix Non-Volatile memory controller                                                 | 2        | 2.04%   |
 | Phison PS5013 E13 NVMe Controller                                                       | 2        | 2.04%   |
 | Phison E12 NVMe Controller                                                              | 2        | 2.04%   |
@@ -1625,11 +1625,11 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Lenovo TIO24Gen3 LEN10B4 1920x1080 527x296mm 23.8-inch                 | 2        | 2.9%    |
 | Lenovo LEN T2324pA LEN60C7 1920x1080 509x286mm 23.0-inch               | 2        | 2.9%    |
-| Lenovo LEN P27u-10 LEN61B0 3840x2160 600x340mm 27.2-inch               | 2        | 2.9%    |
+| Lenovo LEN P27u-10 LEN61B0 3840x2160 597x336mm 27.0-inch               | 2        | 2.9%    |
 | Iiyama PL4840 IVM1065 1920x1080 1054x593mm 47.6-inch                   | 2        | 2.9%    |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 2        | 2.9%    |
 | ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch          | 1        | 1.45%   |
-| ViewSonic LCD Monitor VSC5E32 1920x1080 480x270mm 21.7-inch            | 1        | 1.45%   |
+| ViewSonic VA2259 Series VSC5E32 1920x1080 476x268mm 21.5-inch          | 1        | 1.45%   |
 | Samsung Electronics SyncMaster SAM05FC 1920x1080                       | 1        | 1.45%   |
 | Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch    | 1        | 1.45%   |
 | Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch      | 1        | 1.45%   |
@@ -1639,12 +1639,12 @@ Monitor models
 | Samsung Electronics LCD Monitor S22B150                                | 1        | 1.45%   |
 | Samsung Electronics LCD Monitor C49HG9x 3840x1080                      | 1        | 1.45%   |
 | Samsung Electronics C32R50x SAM7000 1920x1080 698x393mm 31.5-inch      | 1        | 1.45%   |
-| Samsung Electronics C32HG7x SAM0E14 2560x1440 700x390mm 31.5-inch      | 1        | 1.45%   |
+| Samsung Electronics C32HG7x SAM0E14 2560x1440 697x392mm 31.5-inch      | 1        | 1.45%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch      | 1        | 1.45%   |
 | Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch                | 1        | 1.45%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch                | 1        | 1.45%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 1        | 1.45%   |
 | LG Electronics LCD Monitor W2486 1920x1080                             | 1        | 1.45%   |
-| Lenovo P27h-20 LEN61E9 2560x1440 600x340mm 27.2-inch                   | 1        | 1.45%   |
+| Lenovo P27h-20 LEN61E9 2560x1440 609x349mm 27.6-inch                   | 1        | 1.45%   |
 | Lenovo LEN L24q-30 LEN65FB 2560x1440 527x296mm 23.8-inch               | 1        | 1.45%   |
 | Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                   | 1        | 1.45%   |
 | Lenovo Group Limited LCD Monitor LEN T2324pA 3840x1080                 | 1        | 1.45%   |
@@ -1658,11 +1658,11 @@ Monitor models
 | Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch          | 1        | 1.45%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch             | 1        | 1.45%   |
 | Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch             | 1        | 1.45%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                   | 1        | 1.45%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                   | 1        | 1.45%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch               | 1        | 1.45%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 1        | 1.45%   |
 | Goldstar ULTRAGEAR GSM5BB1 1920x1080 527x296mm 23.8-inch               | 1        | 1.45%   |
-| Goldstar 26LB75  GSM5673 1920x1080 700x390mm 31.5-inch                 | 1        | 1.45%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 1        | 1.45%   |
+| Goldstar 26LB75 GSM5673 1920x1080 700x390mm 31.5-inch                  | 1        | 1.45%   |
 
 Monitor Resolution
 ------------------
@@ -2198,37 +2198,37 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                       | Desktops | Percent |
-|-------------------------------------------------------------|----------|---------|
-| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s        | 2        | 6.45%   |
-| Corsair RAM CMK64GX4M2D3600C18 32GB DIMM DDR4 3600MT/s      | 2        | 6.45%   |
-| Unknown (0x0205) RAM Module 8GB DIMM DDR3 1600MT/s          | 1        | 3.23%   |
-| Transcend RAM TS1GLK72V3H 8GB DIMM DDR3 1333MT/s            | 1        | 3.23%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4096MB DIMM DDR3 1333MT/s     | 1        | 3.23%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4096MB DIMM DDR3 1333MT/s     | 1        | 3.23%   |
-| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s        | 1        | 3.23%   |
-| Samsung RAM Module 8GB DIMM DDR4 2666MT/s                   | 1        | 3.23%   |
-| Samsung RAM Module 4GB DIMM DDR4 2133MT/s                   | 1        | 3.23%   |
-| Samsung RAM Module 16GB DIMM DDR4 2666MT/s                  | 1        | 3.23%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s         | 1        | 3.23%   |
-| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s         | 1        | 3.23%   |
-| Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s            | 1        | 3.23%   |
-| Micron RAM Module 4GB DIMM DDR4 2133MT/s                    | 1        | 3.23%   |
-| Micron RAM 36ASF4G72PZ-2G3B1 32GB DIMM DDR4 2400MT/s        | 1        | 3.23%   |
-| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s         | 1        | 3.23%   |
-| Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s         | 1        | 3.23%   |
-| Kingston RAM KHX2666C13/16GX 16GB DIMM DDR4 3200MT/s        | 1        | 3.23%   |
-| Kingston RAM KHX2400C12D4/8GX 8GB DIMM DDR4 2400MT/s        | 1        | 3.23%   |
-| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3200MT/s       | 1        | 3.23%   |
-| Kingston RAM 9905712-034.A00G 16GB SODIMM DDR4 2400MT/s     | 1        | 3.23%   |
-| GOODRAM RAM GR1600D364L11S/4G 4GB DIMM DDR3 1600MT/s        | 1        | 3.23%   |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s       | 1        | 3.23%   |
-| Crucial RAM CT4G4DFS824A.M8FG 4096MB DIMM DDR4 2400MT/s     | 1        | 3.23%   |
-| Crucial RAM CT16G4DFD824A.C16FBD 16384MB DIMM DDR4 2933MT/s | 1        | 3.23%   |
-| Crucial RAM BLS4G4D240FSB.8FBD2 4GB DIMM DDR4 2400MT/s      | 1        | 3.23%   |
-| Crucial RAM BLS4G4D240FSB.8FBD 4096MB DIMM DDR4 2472MT/s    | 1        | 3.23%   |
-| Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s       | 1        | 3.23%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s       | 1        | 3.23%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s      | 2        | 6.45%   |
+| Corsair RAM CMK64GX4M2D3600C18 32GB DIMM DDR4 3600MT/s    | 2        | 6.45%   |
+| Unknown (0x0205) RAM Module 8GB DIMM DDR3 1600MT/s        | 1        | 3.23%   |
+| Transcend RAM TS1GLK72V3H 8GB DIMM DDR3 1333MT/s          | 1        | 3.23%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4096MB DIMM DDR3 1333MT/s   | 1        | 3.23%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB DIMM DDR3 1333MT/s   | 1        | 3.23%   |
+| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s      | 1        | 3.23%   |
+| Samsung RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 3.23%   |
+| Samsung RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 3.23%   |
+| Samsung RAM Module 16GB DIMM DDR4 2666MT/s                | 1        | 3.23%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s            | 1        | 3.23%   |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s       | 1        | 3.23%   |
+| Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s          | 1        | 3.23%   |
+| Micron RAM Module 4GB DIMM DDR4 2133MT/s                  | 1        | 3.23%   |
+| Micron RAM 36ASF4G72PZ-2G3B1 32GB DIMM DDR4 2400MT/s      | 1        | 3.23%   |
+| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s       | 1        | 3.23%   |
+| Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s       | 1        | 3.23%   |
+| Kingston RAM KHX2666C13/16GX 16GB DIMM DDR4 3200MT/s      | 1        | 3.23%   |
+| Kingston RAM KHX2400C12D4/8GX 8GB DIMM DDR4 2400MT/s      | 1        | 3.23%   |
+| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3200MT/s     | 1        | 3.23%   |
+| Kingston RAM 9905712-034.A00G 16GB SODIMM DDR4 2400MT/s   | 1        | 3.23%   |
+| GOODRAM RAM GR1600D364L11S/4G 4GB DIMM DDR3 1600MT/s      | 1        | 3.23%   |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s     | 1        | 3.23%   |
+| Crucial RAM CT4G4DFS824A.M8FG 4GB DIMM DDR4 2400MT/s      | 1        | 3.23%   |
+| Crucial RAM CT16G4DFD824A.C16FBD 16GB DIMM DDR4 2933MT/s  | 1        | 3.23%   |
+| Crucial RAM BLS4G4D240FSB.8FBD2 4096MB DIMM DDR4 2400MT/s | 1        | 3.23%   |
+| Crucial RAM BLS4G4D240FSB.8FBD 4096MB DIMM DDR4 2472MT/s  | 1        | 3.23%   |
+| Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s     | 1        | 3.23%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 1        | 3.23%   |
 
 Memory Kind
 -----------

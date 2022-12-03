@@ -698,11 +698,11 @@ Motherboard manufacture year
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
 | 2011    | 17        | 11.89%  |
-| 2020    | 15        | 10.49%  |
 | 2015    | 15        | 10.49%  |
+| 2020    | 14        | 9.79%   |
 | 2021    | 13        | 9.09%   |
 | 2010    | 13        | 9.09%   |
-| 2017    | 11        | 7.69%   |
+| 2017    | 12        | 8.39%   |
 | 2012    | 11        | 7.69%   |
 | 2019    | 9         | 6.29%   |
 | 2018    | 9         | 6.29%   |
@@ -1322,7 +1322,7 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                     | 4         | 2.31%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                                  | 4         | 2.31%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                         | 4         | 2.31%   |
-| SK hynix Gold P31 SSD                                                                  | 3         | 1.73%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                         | 3         | 1.73%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                         | 3         | 1.73%   |
 | Samsung NVMe SSD Controller 980                                                        | 3         | 1.73%   |
 | Samsung Electronics SATA controller                                                    | 3         | 1.73%   |
@@ -1654,7 +1654,7 @@ Graphics card models
 | Nvidia GK107M [GeForce GT 650M Mac Edition]                                              | 2         | 1.12%   |
 | Nvidia GA107M [GeForce RTX 3050 Ti Mobile]                                               | 2         | 1.12%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 2         | 1.12%   |
-| Intel Tiger Lake UHD Graphics                                                            | 2         | 1.12%   |
+| Intel Tiger Lake-LP GT2 [UHD Graphics G4]                                                | 2         | 1.12%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 2         | 1.12%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 2         | 1.12%   |
 | Intel HD Graphics 6000                                                                   | 2         | 1.12%   |
@@ -1666,7 +1666,7 @@ Graphics card models
 | AMD Thames [Radeon HD 7500M/7600M Series]                                                | 2         | 1.12%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 2         | 1.12%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 2         | 1.12%   |
-| AMD Cezanne                                                                              | 2         | 1.12%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 2         | 1.12%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 1         | 0.56%   |
 | Nvidia TU117GLM [Quadro T1000 Mobile]                                                    | 1         | 0.56%   |
 | Nvidia MCP89 [GeForce 320M]                                                              | 1         | 0.56%   |
@@ -1798,7 +1798,7 @@ Monitor models
 | Sharp LCD Monitor SHP1420 1920x1080 294x165mm 13.3-inch                  | 1         | 0.65%   |
 | Seiko/Epson LCD Monitor 1920x1080                                        | 1         | 0.65%   |
 | Samsung Electronics S27D850 SAM0BC8 2560x1440 598x336mm 27.0-inch        | 1         | 0.65%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 480x270mm 21.7-inch        | 1         | 0.65%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch        | 1         | 0.65%   |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch        | 1         | 0.65%   |
 | Samsung Electronics LCD Monitor SEC5842 1366x768 309x174mm 14.0-inch     | 1         | 0.65%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 0.65%   |
@@ -1807,11 +1807,11 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3541 1366x768 309x174mm 14.0-inch     | 1         | 0.65%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 0.65%   |
 | Samsung Electronics LCD Monitor SEC3041 1366x768 353x198mm 15.9-inch     | 1         | 0.65%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch     | 1         | 0.65%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch     | 1         | 0.65%   |
 | Samsung Electronics LCD Monitor SDC4E42 1366x768 309x174mm 14.0-inch     | 1         | 0.65%   |
 | Samsung Electronics C27F591 SAM0D36 1920x1080 600x340mm 27.2-inch        | 1         | 0.65%   |
 | PANDA LCD Monitor NCP004D 1920x1080 344x194mm 15.5-inch                  | 1         | 0.65%   |
-| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch             | 1         | 0.65%   |
+| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch              | 1         | 0.65%   |
 
 Monitor Resolution
 ------------------
@@ -2033,6 +2033,7 @@ Controller models
 | Intel Centrino Wireless-N 2230                                    | 3         | 1.09%   |
 | Broadcom Limited BCM4360 802.11ac Wireless Network Adapter        | 3         | 1.09%   |
 | Broadcom BCM43142 802.11b/g/n                                     | 3         | 1.09%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 2         | 0.72%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 2         | 0.72%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 2         | 0.72%   |
 | Realtek RTL8723DE Wireless Network Adapter                        | 2         | 0.72%   |
@@ -2044,7 +2045,6 @@ Controller models
 | Intel Ethernet Connection I219-V                                  | 2         | 0.72%   |
 | Intel Ethernet Connection I219-LM                                 | 2         | 0.72%   |
 | Intel Ethernet Connection (4) I219-LM                             | 2         | 0.72%   |
-| Intel Ethernet Connection (3) I218-LM                             | 2         | 0.72%   |
 
 Wireless Vendor
 ---------------
@@ -2098,6 +2098,7 @@ Wireless models
 | Intel Centrino Wireless-N 2230                                 | 3         | 1.95%   |
 | Broadcom Limited BCM4360 802.11ac Wireless Network Adapter     | 3         | 1.95%   |
 | Broadcom BCM43142 802.11b/g/n                                  | 3         | 1.95%   |
+| TP-Link 802.11ac WLAN Adapter                                  | 2         | 1.3%    |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter       | 2         | 1.3%    |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 2         | 1.3%    |
 | Realtek RTL8723DE Wireless Network Adapter                     | 2         | 1.3%    |
@@ -2112,11 +2113,10 @@ Wireless models
 | Intel Centrino Advanced-N 6200                                 | 2         | 1.3%    |
 | Broadcom BCM43228 802.11a/b/g/n                                | 2         | 1.3%    |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 0.65%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 0.65%   |
-| TP-Link 802.11ac WLAN Adapter                                  | 1         | 0.65%   |
-| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A            | 1         | 0.65%   |
+| Sierra Wireless EM7455                                         | 1         | 0.65%   |
 | Sierra Wireless EM7305 Modem                                   | 1         | 0.65%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                        | 1         | 0.65%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                     | 1         | 0.65%   |
 
 Ethernet Vendor
 ---------------
@@ -2172,14 +2172,14 @@ Ethernet models
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 1         | 0.85%   |
 | Realtek RTL8152 Fast Ethernet Adapter                                          | 1         | 0.85%   |
 | Realtek Killer E3000 2.5GbE Controller                                         | 1         | 0.85%   |
-| Qualcomm Mobile Router                                                         | 1         | 0.85%   |
+| Qualcomm Redmi Note 8                                                          | 1         | 0.85%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                      | 1         | 0.85%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                      | 1         | 0.85%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                     | 1         | 0.85%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                          | 1         | 0.85%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                       | 1         | 0.85%   |
-| OPPO RMX2180                                                                   | 1         | 0.85%   |
-| MediaTek TECNO Pouvoir 3 Air                                                   | 1         | 0.85%   |
+| OPPO SDM665-IDP _SN:18689828                                                   | 1         | 0.85%   |
+| MediaTek N152DL                                                                | 1         | 0.85%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 0.85%   |
 | LSI ET-131x PCI-E Ethernet Controller                                          | 1         | 0.85%   |
 | Linksys Gigabit Ethernet Adapter                                               | 1         | 0.85%   |
@@ -2189,7 +2189,7 @@ Ethernet models
 | Intel Ethernet Connection (7) I219-LM                                          | 1         | 0.85%   |
 | Intel 82567LM Gigabit Network Connection                                       | 1         | 0.85%   |
 | Google Nexus/Pixel Device (tether)                                             | 1         | 0.85%   |
-| DisplayLink USB3.0 5K Graphic Docking                                          | 1         | 0.85%   |
+| DisplayLink USB-C Dual-4K Dock                                                 | 1         | 0.85%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                              | 1         | 0.85%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                                | 1         | 0.85%   |
 | Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                                | 1         | 0.85%   |
@@ -2291,7 +2291,7 @@ Controller models
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 22        | 18.03%  |
-| Realtek Bluetooth Radio                                                             | 10        | 8.2%    |
+| Realtek Bluetooth Radio                                                             | 11        | 9.02%   |
 | Intel AX201 Bluetooth                                                               | 10        | 8.2%    |
 | Intel AX200 Bluetooth                                                               | 9         | 7.38%   |
 | Apple Bluetooth Host Controller                                                     | 7         | 5.74%   |
@@ -2308,7 +2308,6 @@ Controller models
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 2         | 1.64%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 2         | 1.64%   |
 | Toshiba Bluetooth USB Host Controller                                               | 1         | 0.82%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 1         | 0.82%   |
 | Realtek Bluetooth Radio                                                             | 1         | 0.82%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 0.82%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 0.82%   |
@@ -2330,6 +2329,7 @@ Controller models
 | Dell Broadcom BCM20702A0 Bluetooth                                                  | 1         | 0.82%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 1         | 0.82%   |
 | Broadcom HP Portable Valentine                                                      | 1         | 0.82%   |
+| Broadcom BCM20702A0                                                                 | 1         | 0.82%   |
 
 Sound
 -----
@@ -2442,7 +2442,7 @@ Memory module models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 3         | 5.66%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s    | 3         | 5.66%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s      | 2         | 3.77%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 2         | 3.77%   |
 | Unknown RAM Module 4096MB Chip DDR4 2133MT/s                | 1         | 1.89%   |
@@ -2458,17 +2458,17 @@ Memory module models
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s      | 1         | 1.89%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s      | 1         | 1.89%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s              | 1         | 1.89%   |
-| Samsung RAM M471B5773DH0-CK0 2048MB SODIMM DDR3 1600MT/s    | 1         | 1.89%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s       | 1         | 1.89%   |
+| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s       | 1         | 1.89%   |
+| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s    | 1         | 1.89%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s       | 1         | 1.89%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s       | 1         | 1.89%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 1         | 1.89%   |
-| Samsung RAM M471B2873FHS-CF8 1GB SODIMM DDR3 1067MT/s       | 1         | 1.89%   |
+| Samsung RAM M471B2873FHS-CF8 1GB SODIMM 1067MT/s            | 1         | 1.89%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s      | 1         | 1.89%   |
 | Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s      | 1         | 1.89%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s | 1         | 1.89%   |
 | Samsung RAM M471A1G43DB0-CPB 8GB SODIMM DDR4 2400MT/s       | 1         | 1.89%   |
-| Samsung RAM M4 70T5663EH3-CF7 2048MB SODIMM DDR2 975MT/s    | 1         | 1.89%   |
+| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s       | 1         | 1.89%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s     | 1         | 1.89%   |
 | Ramaxel RAM RMSA3310NA86H9F-2666 4GB SODIMM DDR4 2667MT/s   | 1         | 1.89%   |
 | Qimonda RAM 64T256020EDL2.5C2 2GB SODIMM DDR2 2048MT/s      | 1         | 1.89%   |
@@ -2621,10 +2621,10 @@ Camera device vendors
 | Syntek                                 | 2         | 1.68%   |
 | Luxvisions Innotech Limited            | 2         | 1.68%   |
 | Lite-On Technology                     | 2         | 1.68%   |
+| USB Camera                             | 1         | 0.84%   |
 | Primax Electronics                     | 1         | 0.84%   |
 | Logitech                               | 1         | 0.84%   |
 | Importek                               | 1         | 0.84%   |
-| icSpring                               | 1         | 0.84%   |
 | 2M UVC CAMERA                          | 1         | 0.84%   |
 
 Camera Model
@@ -2635,48 +2635,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Notebooks | Percent |
-|------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                | 8         | 6.72%   |
-| Chicony HD WebCam                        | 4         | 3.36%   |
-| Apple FaceTime HD Camera                 | 4         | 3.36%   |
-| Realtek Integrated_Webcam_HD             | 3         | 2.52%   |
-| Realtek HD WebCam                        | 3         | 2.52%   |
-| Quanta HP TrueVision HD Camera           | 3         | 2.52%   |
-| Chicony HP Truevision HD                 | 3         | 2.52%   |
-| Chicony HP HD Webcam [Fixed]             | 3         | 2.52%   |
-| Acer Lenovo EasyCamera                   | 3         | 2.52%   |
-| Suyin Acer/HP Integrated Webcam [CN0314] | 2         | 1.68%   |
-| Suyin 1.3M HD WebCam                     | 2         | 1.68%   |
-| Sunplus Laptop_Integrated_Webcam_HD      | 2         | 1.68%   |
-| Realtek 2SF022                           | 2         | 1.68%   |
-| Microdia Laptop_Integrated_Webcam_HD     | 2         | 1.68%   |
-| Microdia Integrated Webcam HD            | 2         | 1.68%   |
-| Lite-On Integrated Camera                | 2         | 1.68%   |
-| Lenovo Integrated Webcam                 | 2         | 1.68%   |
-| IMC Networks USB2.0 HD UVC WebCam        | 2         | 1.68%   |
-| Chicony USB2.0 Camera                    | 2         | 1.68%   |
-| Chicony HP TrueVision HD Camera          | 2         | 1.68%   |
-| Chicony HP HD Webcam                     | 2         | 1.68%   |
-| Apple iPhone 5/5C/5S/6/SE                | 2         | 1.68%   |
-| Apple FaceTime HD Camera (Built-in)      | 2         | 1.68%   |
-| Syntek Integrated Camera                 | 1         | 0.84%   |
-| Syntek EasyCamera                        | 1         | 0.84%   |
-| Suyin HP TrueVision HD Integrated Webcam | 1         | 0.84%   |
-| Suyin Asus Integrated Webcam             | 1         | 0.84%   |
-| Sunplus Laptop_Integrated_Webcam_1.3M    | 1         | 0.84%   |
-| Sunplus Laptop Integrated WebCam HD      | 1         | 0.84%   |
-| Sunplus 1.3M HD WebCam                   | 1         | 0.84%   |
-| Realtek USB2.0 HD UVC WebCam             | 1         | 0.84%   |
-| Realtek Integrated Webcam                | 1         | 0.84%   |
-| Realtek Integrated Camera                | 1         | 0.84%   |
-| Quanta ov9734_techfront_camera           | 1         | 0.84%   |
-| Quanta HP Webcam                         | 1         | 0.84%   |
-| Quanta HP TrueVision HD Webcam           | 1         | 0.84%   |
-| Quanta HD User Facing                    | 1         | 0.84%   |
-| Quanta HD Camera                         | 1         | 0.84%   |
-| Primax Villem                            | 1         | 0.84%   |
-| Microdia Webcam Vitade AF                | 1         | 0.84%   |
+| Model                                               | Notebooks | Percent |
+|-----------------------------------------------------|-----------|---------|
+| Chicony Integrated Camera                           | 8         | 6.72%   |
+| Chicony HD WebCam                                   | 4         | 3.36%   |
+| Apple FaceTime HD Camera                            | 4         | 3.36%   |
+| Realtek Integrated_Webcam_HD                        | 3         | 2.52%   |
+| Realtek HD WebCam                                   | 3         | 2.52%   |
+| Quanta HP TrueVision HD Camera                      | 3         | 2.52%   |
+| Chicony HP Truevision HD                            | 3         | 2.52%   |
+| Chicony HP HD Webcam [Fixed]                        | 3         | 2.52%   |
+| Acer Lenovo EasyCamera                              | 3         | 2.52%   |
+| Suyin Acer/HP Integrated Webcam [CN0314]            | 2         | 1.68%   |
+| Suyin 1.3M HD WebCam                                | 2         | 1.68%   |
+| Sunplus Laptop_Integrated_Webcam_HD                 | 2         | 1.68%   |
+| Realtek USB Camera                                  | 2         | 1.68%   |
+| Microdia Laptop_Integrated_Webcam_HD                | 2         | 1.68%   |
+| Microdia Integrated Webcam HD                       | 2         | 1.68%   |
+| Lite-On Integrated Camera                           | 2         | 1.68%   |
+| Lenovo Integrated Webcam                            | 2         | 1.68%   |
+| IMC Networks USB2.0 HD UVC WebCam                   | 2         | 1.68%   |
+| Chicony USB2.0 Camera                               | 2         | 1.68%   |
+| Chicony HP TrueVision HD Camera                     | 2         | 1.68%   |
+| Chicony HP HD Webcam                                | 2         | 1.68%   |
+| Cheng Uei Precision Industry (Foxlink) HP HD Camera | 2         | 1.68%   |
+| Apple iPhone 5/5C/5S/6/SE                           | 2         | 1.68%   |
+| Apple FaceTime HD Camera (Built-in)                 | 2         | 1.68%   |
+| USB Camera USB Camera                               | 1         | 0.84%   |
+| Syntek Integrated Camera                            | 1         | 0.84%   |
+| Syntek EasyCamera                                   | 1         | 0.84%   |
+| Suyin HP TrueVision HD Integrated Webcam            | 1         | 0.84%   |
+| Suyin Asus Integrated Webcam                        | 1         | 0.84%   |
+| Sunplus Laptop_Integrated_Webcam_1.3M               | 1         | 0.84%   |
+| Sunplus Laptop Integrated WebCam HD                 | 1         | 0.84%   |
+| Sunplus 1.3M HD WebCam                              | 1         | 0.84%   |
+| Realtek USB2.0 HD UVC WebCam                        | 1         | 0.84%   |
+| Realtek Integrated Webcam                           | 1         | 0.84%   |
+| Realtek Integrated Camera                           | 1         | 0.84%   |
+| Quanta ov9734_techfront_camera                      | 1         | 0.84%   |
+| Quanta HP Webcam                                    | 1         | 0.84%   |
+| Quanta HP TrueVision HD Webcam                      | 1         | 0.84%   |
+| Quanta HD User Facing                               | 1         | 0.84%   |
+| Quanta HD Camera                                    | 1         | 0.84%   |
 
 Security
 --------

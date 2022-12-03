@@ -728,8 +728,8 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Unknown SD/MMC/MS PRO 1TB             | 2        | 3.85%   |
-| Seagate Expansion 2TB                 | 2        | 3.85%   |
+| Unknown SD/MMC/MS PRO 8GB             | 2        | 3.85%   |
+| Seagate Expansion 1TB                 | 2        | 3.85%   |
 | WDC WDBNCE0010PNC 1TB SSD             | 1        | 1.92%   |
 | WDC WD5000AACS-00ZUB0 500GB           | 1        | 1.92%   |
 | WDC WD3200LPVX-60V0TT0 320GB          | 1        | 1.92%   |
@@ -767,7 +767,7 @@ Hard drive models
 | LITEONIT LCS-128M6S 2.5 7mm 128GB SSD | 1        | 1.92%   |
 | Kingston SV300S37A 120G SSD           | 1        | 1.92%   |
 | Kingston SA400S37240G 240GB SSD       | 1        | 1.92%   |
-| Intenso SSD SATAIII 240GB             | 1        | 1.92%   |
+| Intenso SSD SATAIII 128GB             | 1        | 1.92%   |
 
 HDD Vendor
 ----------
@@ -846,10 +846,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 18       | 32     | 52.94%  |
-| 0.51-1.0   | 12       | 13     | 35.29%  |
-| 1.01-2.0   | 3        | 4      | 8.82%   |
-| 3.01-4.0   | 1        | 1      | 2.94%   |
+| 0.01-0.5   | 18       | 34     | 54.55%  |
+| 0.51-1.0   | 12       | 13     | 36.36%  |
+| 1.01-2.0   | 2        | 2      | 6.06%   |
+| 3.01-4.0   | 1        | 1      | 3.03%   |
 
 Space Total
 -----------
@@ -959,7 +959,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 240GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 128GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1560,7 +1560,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 1        | 2.63%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller            | 1        | 2.63%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller            | 1        | 2.63%   |
-| OnePlus (Shenzhen) OnePlus                                           | 1        | 2.63%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:514355CC                           | 1        | 2.63%   |
 | Microsoft Xbox 360 Wireless Adapter                                  | 1        | 2.63%   |
 | Intel Wireless 7265                                                  | 1        | 2.63%   |
 | Intel Wireless 3160                                                  | 1        | 2.63%   |
@@ -1835,21 +1835,21 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                | 1        | 7.69%   |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 7.69%   |
-| Unknown RAM Module 4GB DIMM 1600MT/s                     | 1        | 7.69%   |
-| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s      | 1        | 7.69%   |
-| S RAM Module 2GB DIMM DDR3 1600MT/s                      | 1        | 7.69%   |
-| Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s       | 1        | 7.69%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
-| Kingston RAM ACR24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s      | 1        | 7.69%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
-| Crucial RAM CT102464BA1339.C16 8GB DIMM DDR3 1333MT/s    | 1        | 7.69%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
-| Corsair RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s      | 1        | 7.69%   |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 1        | 7.69%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s              | 1        | 7.69%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 7.69%   |
+| Unknown RAM Module 4GB DIMM 1600MT/s                   | 1        | 7.69%   |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s    | 1        | 7.69%   |
+| S RAM Module 2GB DIMM DDR3 1600MT/s                    | 1        | 7.69%   |
+| Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s     | 1        | 7.69%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s | 1        | 7.69%   |
+| Kingston RAM ACR24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s    | 1        | 7.69%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
+| Crucial RAM CT102464BA1339.C16 8GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
+| Corsair RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s    | 1        | 7.69%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 7.69%   |
 
 Memory Kind
 -----------

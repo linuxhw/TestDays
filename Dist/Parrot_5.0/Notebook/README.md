@@ -745,8 +745,8 @@ Has Ethernet on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 66        | 80.49%  |
-| No        | 16        | 19.51%  |
+| Yes       | 67        | 81.71%  |
+| No        | 15        | 18.29%  |
 
 Has WiFi
 --------
@@ -947,7 +947,7 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-256G-1002 256GB  | 1         | 0.92%   |
 | WDC PC SN530 SDBPNPZ-1T00-1002 1TB    | 1         | 0.92%   |
 | Unknown SE32G  32GB                   | 1         | 0.92%   |
-| Unknown SD/MMC/MS PRO 1TB             | 1         | 0.92%   |
+| Unknown SD/MMC/MS PRO 8GB             | 1         | 0.92%   |
 | Unknown SD  128GB                     | 1         | 0.92%   |
 | Unknown ISOCOM  64GB                  | 1         | 0.92%   |
 | Toshiba MQ01ACF050 500GB              | 1         | 0.92%   |
@@ -964,7 +964,7 @@ Hard drive models
 | Seagate ST320LM001 HN-M320MBB 320GB   | 1         | 0.92%   |
 | Seagate ST2000LM003 HN-M201RAD 2TB    | 1         | 0.92%   |
 | Seagate ST1000LM035-1RK172 1TB        | 1         | 0.92%   |
-| Seagate BUP Slim BK 1TB               | 1         | 0.92%   |
+| Seagate BUP Slim BK 2TB               | 1         | 0.92%   |
 | SanDisk SDSSDH3 2T00 2TB              | 1         | 0.92%   |
 | SanDisk NVMe SSD Drive 256GB          | 1         | 0.92%   |
 
@@ -1059,9 +1059,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 39        | 45     | 62.9%   |
-| 0.51-1.0   | 21        | 24     | 33.87%  |
-| 1.01-2.0   | 2         | 2      | 3.23%   |
+| 0.01-0.5   | 40        | 48     | 64.52%  |
+| 0.51-1.0   | 19        | 20     | 30.65%  |
+| 1.01-2.0   | 3         | 3      | 4.84%   |
 
 Space Total
 -----------
@@ -1243,7 +1243,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Mobile SATA Controller (IDE mode, ports 4-5) | 2         | 1.82%   |
 | Intel 6 Series/C200 Series Chipset Family Mobile SATA Controller (IDE mode, ports 0-3) | 2         | 1.82%   |
 | Yangtze Memory Non-Volatile memory controller                                          | 1         | 0.91%   |
-| SK hynix Gold P31 SSD                                                                  | 1         | 0.91%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                         | 1         | 0.91%   |
 | SanDisk PC SN520 NVMe SSD                                                              | 1         | 0.91%   |
 | SanDisk Non-Volatile memory controller                                                 | 1         | 0.91%   |
 | Samsung NVMe SSD Controller SM951/PM951                                                | 1         | 0.91%   |
@@ -1274,9 +1274,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 45        | 45.92%  |
+| SATA | 44        | 44.9%   |
 | NVMe | 28        | 28.57%  |
-| RAID | 14        | 14.29%  |
+| RAID | 15        | 15.31%  |
 | IDE  | 11        | 11.22%  |
 
 Processor
@@ -1542,7 +1542,7 @@ Graphics card models
 | AMD Seymour [Radeon HD 6400M/7400M Series]                                | 2         | 1.8%    |
 | AMD Renoir                                                                | 2         | 1.8%    |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]      | 2         | 1.8%    |
-| AMD Cezanne                                                               | 2         | 1.8%    |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]              | 2         | 1.8%    |
 | Nvidia TU117M [GeForce GTX 1650 Ti Mobile]                                | 1         | 0.9%    |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 1         | 0.9%    |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                | 1         | 0.9%    |
@@ -1654,18 +1654,18 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO2E8D 1920x1080 344x194mm 15.5-inch           | 3         | 3.45%   |
 | Unknown (AAA) LCDTV AAA0042 1360x768 890x500mm 40.2-inch                 | 1         | 1.15%   |
-| Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch      | 1         | 1.15%   |
-| Samsung Electronics S27E510 SAM0C5F 1920x1080 600x340mm 27.2-inch        | 1         | 1.15%   |
+| Samsung Electronics SMT24A550 SAM07B5 1920x1080 530x300mm 24.0-inch      | 1         | 1.15%   |
+| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch        | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SEC4145 1366x768 310x170mm 13.9-inch     | 1         | 1.15%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 1.15%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 277x156mm 12.5-inch     | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SDC3652 1366x768 344x194mm 15.5-inch     | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch   | 1         | 1.15%   |
 | PANDA LCD Monitor NCP004B 1920x1080 344x194mm 15.5-inch                  | 1         | 1.15%   |
-| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                      | 1         | 1.15%   |
+| ONN 100002480 ONN0101 1920x1080 474x296mm 22.0-inch                      | 1         | 1.15%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch              | 1         | 1.15%   |
 | LG Display LCD Monitor LGD060F 1920x1080 309x174mm 14.0-inch             | 1         | 1.15%   |
-| LG Display LCD Monitor LGD0557 1920x1080 309x174mm 14.0-inch             | 1         | 1.15%   |
+| LG Display LCD Monitor LGD0557 1920x1080 310x170mm 13.9-inch             | 1         | 1.15%   |
 | LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 1         | 1.15%   |
 | LG Display LCD Monitor LGD045A 1366x768 293x165mm 13.2-inch              | 1         | 1.15%   |
 | LG Display LCD Monitor LGD0390 1600x900 382x215mm 17.3-inch              | 1         | 1.15%   |
@@ -1676,7 +1676,7 @@ Monitor models
 | LG Display LCD Monitor LGD0257 1440x900 304x190mm 14.1-inch              | 1         | 1.15%   |
 | LG Display LCD Monitor LGD01E9 1920x1080 345x194mm 15.6-inch             | 1         | 1.15%   |
 | Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch               | 1         | 1.15%   |
-| Lenovo D27-30 LEN66B8 1920x1080 600x340mm 27.2-inch                      | 1         | 1.15%   |
+| Lenovo D27-30 LEN66B8 1920x1080 597x336mm 27.0-inch                      | 1         | 1.15%   |
 | Kogan KAMN27F7TA KGN0270 1920x1080 600x330mm 27.0-inch                   | 1         | 1.15%   |
 | InfoVision LCD Monitor IVO8C78 1920x1080 309x174mm 14.0-inch             | 1         | 1.15%   |
 | Goldstar SIGNAGE GSM0002 3840x2160 1215x686mm 54.9-inch                  | 1         | 1.15%   |
@@ -1844,21 +1844,22 @@ Controller vendors
 
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
-| Realtek Semiconductor           | 45        | 32.61%  |
-| Intel                           | 45        | 32.61%  |
-| Qualcomm Atheros                | 15        | 10.87%  |
-| Broadcom                        | 8         | 5.8%    |
-| MediaTek                        | 5         | 3.62%   |
-| TP-Link                         | 3         | 2.17%   |
-| Samsung Electronics             | 2         | 1.45%   |
-| Nvidia                          | 2         | 1.45%   |
-| NetGear                         | 2         | 1.45%   |
-| Huawei Technologies             | 2         | 1.45%   |
-| ASUSTek Computer                | 2         | 1.45%   |
-| Apple                           | 2         | 1.45%   |
+| Realtek Semiconductor           | 45        | 32.37%  |
+| Intel                           | 45        | 32.37%  |
+| Qualcomm Atheros                | 15        | 10.79%  |
+| Broadcom                        | 8         | 5.76%   |
+| MediaTek                        | 5         | 3.6%    |
+| TP-Link                         | 3         | 2.16%   |
+| Samsung Electronics             | 2         | 1.44%   |
+| Nvidia                          | 2         | 1.44%   |
+| NetGear                         | 2         | 1.44%   |
+| Huawei Technologies             | 2         | 1.44%   |
+| ASUSTek Computer                | 2         | 1.44%   |
+| Apple                           | 2         | 1.44%   |
 | Ralink                          | 1         | 0.72%   |
 | Qualcomm Atheros Communications | 1         | 0.72%   |
 | Linksys                         | 1         | 0.72%   |
+| DisplayLink                     | 1         | 0.72%   |
 | Broadcom Limited                | 1         | 0.72%   |
 | ASIX Electronics                | 1         | 0.72%   |
 
@@ -1872,46 +1873,46 @@ Controller models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 21        | 12.5%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 10        | 5.95%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 5         | 2.98%   |
-| Intel Wireless 8265 / 8275                                        | 5         | 2.98%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 2.98%   |
-| Realtek 802.11ac NIC                                              | 4         | 2.38%   |
-| Intel Wireless 3165                                               | 4         | 2.38%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                 | 4         | 2.38%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 2.38%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 3         | 1.79%   |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 3         | 1.79%   |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                           | 3         | 1.79%   |
-| Intel Centrino Advanced-N 6235                                    | 3         | 1.79%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 2         | 1.19%   |
-| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 2         | 1.19%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 2         | 1.19%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 1.19%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 2         | 1.19%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 1.19%   |
-| NetGear A6210                                                     | 2         | 1.19%   |
-| Intel Wireless 3160                                               | 2         | 1.19%   |
-| Intel Wi-Fi 6 AX200                                               | 2         | 1.19%   |
-| Intel Ice Lake-LP PCH CNVi WiFi                                   | 2         | 1.19%   |
-| Intel Ethernet Connection (4) I219-LM                             | 2         | 1.19%   |
-| Intel Comet Lake PCH CNVi WiFi                                    | 2         | 1.19%   |
-| Intel Centrino Wireless-N 2200                                    | 2         | 1.19%   |
-| Intel Centrino Advanced-N 6200                                    | 2         | 1.19%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 2         | 1.19%   |
-| Intel 82577LM Gigabit Network Connection                          | 2         | 1.19%   |
-| Broadcom BCM43224 802.11a/b/g/n                                   | 2         | 1.19%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1         | 0.6%    |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1         | 0.6%    |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1         | 0.6%    |
-| Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 0.6%    |
-| Realtek RTL8723DE Wireless Network Adapter                        | 1         | 0.6%    |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1         | 0.6%    |
-| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1         | 0.6%    |
-| Realtek RTL8191SEvA Wireless LAN Controller                       | 1         | 0.6%    |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1         | 0.6%    |
-| Realtek RTL8188EE Wireless Network Adapter                        | 1         | 0.6%    |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 21        | 12.43%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 10        | 5.92%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 5         | 2.96%   |
+| Intel Wireless 8265 / 8275                                        | 5         | 2.96%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 2.96%   |
+| Realtek 802.11ac NIC                                              | 4         | 2.37%   |
+| Intel Wireless 3165                                               | 4         | 2.37%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                 | 4         | 2.37%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 2.37%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 3         | 1.78%   |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 3         | 1.78%   |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                           | 3         | 1.78%   |
+| Intel Centrino Advanced-N 6235                                    | 3         | 1.78%   |
+| Samsung Galaxy series, misc. (tethering mode)                     | 2         | 1.18%   |
+| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 2         | 1.18%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 2         | 1.18%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 1.18%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 2         | 1.18%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 1.18%   |
+| NetGear A6210                                                     | 2         | 1.18%   |
+| Intel Wireless 3160                                               | 2         | 1.18%   |
+| Intel Wi-Fi 6 AX200                                               | 2         | 1.18%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                   | 2         | 1.18%   |
+| Intel Ethernet Connection (4) I219-LM                             | 2         | 1.18%   |
+| Intel Comet Lake PCH CNVi WiFi                                    | 2         | 1.18%   |
+| Intel Centrino Wireless-N 2200                                    | 2         | 1.18%   |
+| Intel Centrino Advanced-N 6200                                    | 2         | 1.18%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 2         | 1.18%   |
+| Intel 82577LM Gigabit Network Connection                          | 2         | 1.18%   |
+| Broadcom BCM43224 802.11a/b/g/n                                   | 2         | 1.18%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1         | 0.59%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1         | 0.59%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 1         | 0.59%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 0.59%   |
+| Realtek RTL8723DE Wireless Network Adapter                        | 1         | 0.59%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1         | 0.59%   |
+| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1         | 0.59%   |
+| Realtek RTL8191SEvA Wireless LAN Controller                       | 1         | 0.59%   |
+| Realtek RTL8188EE Wireless Network Adapter                        | 1         | 0.59%   |
+| Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 0.59%   |
 
 Wireless Vendor
 ---------------
@@ -1970,14 +1971,14 @@ Wireless models
 | Broadcom BCM43224 802.11a/b/g/n                                         | 2         | 2.06%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.03%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 1         | 1.03%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 1         | 1.03%   |
+| TP-Link 802.11ac WLAN Adapter                                           | 1         | 1.03%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                      | 1         | 1.03%   |
 | Realtek RTL8723DE Wireless Network Adapter                              | 1         | 1.03%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 1         | 1.03%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1         | 1.03%   |
 | Realtek RTL8191SEvA Wireless LAN Controller                             | 1         | 1.03%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.03%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.03%   |
+| Realtek 802.11n                                                         | 1         | 1.03%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                               | 1         | 1.03%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter              | 1         | 1.03%   |
 | Qualcomm Atheros AR9271 802.11n                                         | 1         | 1.03%   |
@@ -1997,16 +1998,17 @@ Ethernet vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Realtek Semiconductor | 35        | 51.47%  |
-| Intel                 | 16        | 23.53%  |
-| Qualcomm Atheros      | 5         | 7.35%   |
-| Broadcom              | 3         | 4.41%   |
-| Samsung Electronics   | 2         | 2.94%   |
-| Nvidia                | 2         | 2.94%   |
-| Apple                 | 2         | 2.94%   |
-| MediaTek              | 1         | 1.47%   |
-| Huawei Technologies   | 1         | 1.47%   |
-| ASIX Electronics      | 1         | 1.47%   |
+| Realtek Semiconductor | 35        | 50.72%  |
+| Intel                 | 16        | 23.19%  |
+| Qualcomm Atheros      | 5         | 7.25%   |
+| Broadcom              | 3         | 4.35%   |
+| Samsung Electronics   | 2         | 2.9%    |
+| Nvidia                | 2         | 2.9%    |
+| Apple                 | 2         | 2.9%    |
+| MediaTek              | 1         | 1.45%   |
+| Huawei Technologies   | 1         | 1.45%   |
+| DisplayLink           | 1         | 1.45%   |
+| ASIX Electronics      | 1         | 1.45%   |
 
 Ethernet Model
 --------------
@@ -2018,38 +2020,39 @@ Ethernet models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 21        | 30%     |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 10        | 14.29%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 7.14%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 2         | 2.86%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 2.86%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 2.86%   |
-| Intel Ethernet Connection (4) I219-LM                             | 2         | 2.86%   |
-| Intel 82577LM Gigabit Network Connection                          | 2         | 2.86%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.43%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1         | 1.43%   |
-| Realtek Killer E3000 2.5GbE Controller                            | 1         | 1.43%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.43%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.43%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.43%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.43%   |
-| Nvidia MCP89 Ethernet                                             | 1         | 1.43%   |
-| Nvidia MCP79 Ethernet                                             | 1         | 1.43%   |
-| MediaTek TECNO Pouvoir 3 Air                                      | 1         | 1.43%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 1.43%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 1.43%   |
-| Intel Ethernet Connection (6) I219-V                              | 1         | 1.43%   |
-| Intel Ethernet Connection (5) I219-LM                             | 1         | 1.43%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 1.43%   |
-| Intel Ethernet Connection (3) I218-LM                             | 1         | 1.43%   |
-| Intel 82567LM Gigabit Network Connection                          | 1         | 1.43%   |
-| Huawei Ideos (tethering mode)                                     | 1         | 1.43%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 1.43%   |
-| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 1.43%   |
-| Broadcom BCM4401-B0 100Base-TX                                    | 1         | 1.43%   |
-| ASIX AX88772A Fast Ethernet                                       | 1         | 1.43%   |
-| Apple iPad 4/Mini1                                                | 1         | 1.43%   |
-| Apple iBridge                                                     | 1         | 1.43%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 21        | 29.58%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 10        | 14.08%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 7.04%   |
+| Samsung Galaxy series, misc. (tethering mode)                     | 2         | 2.82%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 2.82%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 2.82%   |
+| Intel Ethernet Connection (4) I219-LM                             | 2         | 2.82%   |
+| Intel 82577LM Gigabit Network Connection                          | 2         | 2.82%   |
+| Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.41%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 1         | 1.41%   |
+| Realtek Killer E3000 2.5GbE Controller                            | 1         | 1.41%   |
+| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.41%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.41%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.41%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.41%   |
+| Nvidia MCP89 Ethernet                                             | 1         | 1.41%   |
+| Nvidia MCP79 Ethernet                                             | 1         | 1.41%   |
+| MediaTek N152DL                                                   | 1         | 1.41%   |
+| Intel Ethernet Connection I219-LM                                 | 1         | 1.41%   |
+| Intel Ethernet Connection I217-LM                                 | 1         | 1.41%   |
+| Intel Ethernet Connection (6) I219-V                              | 1         | 1.41%   |
+| Intel Ethernet Connection (5) I219-LM                             | 1         | 1.41%   |
+| Intel Ethernet Connection (4) I219-V                              | 1         | 1.41%   |
+| Intel Ethernet Connection (3) I218-LM                             | 1         | 1.41%   |
+| Intel 82567LM Gigabit Network Connection                          | 1         | 1.41%   |
+| Huawei Ideos (tethering mode)                                     | 1         | 1.41%   |
+| DisplayLink USB3.0 UHD Dual Video Dock                            | 1         | 1.41%   |
+| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 1.41%   |
+| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 1.41%   |
+| Broadcom BCM4401-B0 100Base-TX                                    | 1         | 1.41%   |
+| ASIX AX88772A Fast Ethernet                                       | 1         | 1.41%   |
+| Apple iPad 4/Mini1                                                | 1         | 1.41%   |
+| Apple iBridge                                                     | 1         | 1.41%   |
 
 Net Controller Kind
 -------------------
@@ -2061,8 +2064,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 80        | 54.79%  |
-| Ethernet | 65        | 44.52%  |
+| WiFi     | 80        | 54.42%  |
+| Ethernet | 66        | 44.9%   |
 | Modem    | 1         | 0.68%   |
 
 Used Controller
@@ -2290,7 +2293,7 @@ Memory module models
 | SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 2         | 3.33%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 2         | 3.33%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 3.33%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 3.33%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 2         | 3.33%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 2         | 3.33%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s             | 2         | 3.33%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s            | 2         | 3.33%   |
@@ -2301,15 +2304,15 @@ Memory module models
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 1.67%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 1         | 1.67%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.67%   |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.67%   |
+| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s         | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s           | 1         | 1.67%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s           | 1         | 1.67%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.67%   |
-| Samsung RAM M4 70T5663EH3-CF7 2048MB SODIMM DDR2 975MT/s         | 1         | 1.67%   |
+| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s            | 1         | 1.67%   |
 | Samsung RAM M378B2873CZ0-CF7 1GB SODIMM DDR3 800MT/s             | 1         | 1.67%   |
-| Samsung RAM K4EBE304EB-EGCF 8192MB Row Of Chips LPDDR3 1867MT/s  | 1         | 1.67%   |
+| Samsung RAM K4EBE304EB-EGCF 8GB Row Of Chips LPDDR3 1867MT/s     | 1         | 1.67%   |
 | Saikano RAM Memory 4GB SODIMM DDR3 1333MT/s                      | 1         | 1.67%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.67%   |
 | Ramaxel RAM RMT3170EB68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.67%   |
@@ -2366,8 +2369,8 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 24        | 47.06%  |
-| 8192  | 12        | 23.53%  |
+| 4096  | 21        | 41.18%  |
+| 8192  | 15        | 29.41%  |
 | 16384 | 8         | 15.69%  |
 | 2048  | 4         | 7.84%   |
 | 1024  | 2         | 3.92%   |
@@ -2469,15 +2472,16 @@ Camera device vendors
 | Quanta                                 | 4         | 5.33%   |
 | Sunplus Innovation Technology          | 3         | 4%      |
 | Syntek                                 | 2         | 2.67%   |
-| Luxvisions Innotech Limited            | 2         | 2.67%   |
+| USB Camera                             | 1         | 1.33%   |
 | Suyin                                  | 1         | 1.33%   |
 | Silicon Motion                         | 1         | 1.33%   |
 | Ricoh                                  | 1         | 1.33%   |
 | Primax Electronics                     | 1         | 1.33%   |
+| Luxvisions Innotech Limited            | 1         | 1.33%   |
 | Lite-On Technology                     | 1         | 1.33%   |
 | Importek                               | 1         | 1.33%   |
-| icSpring                               | 1         | 1.33%   |
 | Goertek Electronics                    | 1         | 1.33%   |
+| DJKANA19IDX53W                         | 1         | 1.33%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.33%   |
 | Alcor Micro                            | 1         | 1.33%   |
 
@@ -2489,48 +2493,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                | Notebooks | Percent |
-|------------------------------------------------------|-----------|---------|
-| Chicony integrated camera                            | 3         | 4%      |
-| Chicony HP Truevision HD                             | 3         | 4%      |
-| Acer HD Webcam                                       | 3         | 4%      |
-| Sunplus Integrated_Webcam_HD                         | 2         | 2.67%   |
-| Quanta HP TrueVision HD Camera                       | 2         | 2.67%   |
-| IMC Networks USB2.0 VGA UVC WebCam                   | 2         | 2.67%   |
-| IMC Networks USB2.0 HD UVC WebCam                    | 2         | 2.67%   |
-| IMC Networks Integrated Camera                       | 2         | 2.67%   |
-| Chicony USB2.0 Camera                                | 2         | 2.67%   |
-| Chicony TOSHIBA Web Camera - HD                      | 2         | 2.67%   |
-| Chicony Integrated Camera [ThinkPad]                 | 2         | 2.67%   |
-| Chicony HD User Facing                               | 2         | 2.67%   |
-| Apple iPhone 5/5C/5S/6/SE                            | 2         | 2.67%   |
-| Apple Built-in iSight                                | 2         | 2.67%   |
-| Acer SunplusIT Integrated Camera                     | 2         | 2.67%   |
-| Syntek Lenovo EasyCamera                             | 1         | 1.33%   |
-| Syntek Integrated Camera                             | 1         | 1.33%   |
-| Suyin Acer CrystalEye Webcam                         | 1         | 1.33%   |
-| Sunplus FHD Camera Microphone                        | 1         | 1.33%   |
-| Silicon Motion WebCam SC-13HDL11939N                 | 1         | 1.33%   |
-| Ricoh HD Webcam                                      | 1         | 1.33%   |
-| Realtek Integrated_Webcam_HD                         | 1         | 1.33%   |
-| Realtek Integrated Webcam                            | 1         | 1.33%   |
-| Realtek Integrated Camera                            | 1         | 1.33%   |
-| Realtek HP Webcam                                    | 1         | 1.33%   |
-| Quanta VGA WebCam                                    | 1         | 1.33%   |
-| Quanta HD User Facing                                | 1         | 1.33%   |
-| Primax HP HD Webcam [Fixed]                          | 1         | 1.33%   |
-| Microdia Webcam Vitade AF                            | 1         | 1.33%   |
-| Microdia PC Microscope camera                        | 1         | 1.33%   |
-| Microdia Laptop_Integrated_Webcam_HD                 | 1         | 1.33%   |
-| Microdia Laptop_Integrated_Webcam_2M                 | 1         | 1.33%   |
-| Microdia Integrated_Webcam_HD                        | 1         | 1.33%   |
-| Microdia Integrated Webcam                           | 1         | 1.33%   |
-| Microdia HP Integrated Webcam                        | 1         | 1.33%   |
-| Luxvisions Innotech Limited HP Wide Vision HD Camera | 1         | 1.33%   |
-| Luxvisions Innotech Limited HP HD Camera             | 1         | 1.33%   |
-| Lite-On HP HD Camera                                 | 1         | 1.33%   |
-| Importek TOSHIBA Web Camera - HD                     | 1         | 1.33%   |
-| IMC Networks USB Camera                              | 1         | 1.33%   |
+| Model                                    | Notebooks | Percent |
+|------------------------------------------|-----------|---------|
+| Chicony integrated camera                | 3         | 4%      |
+| Chicony HP Truevision HD                 | 3         | 4%      |
+| Acer HD Webcam                           | 3         | 4%      |
+| Sunplus Integrated_Webcam_HD             | 2         | 2.67%   |
+| Quanta HP TrueVision HD Camera           | 2         | 2.67%   |
+| IMC Networks USB2.0 VGA UVC WebCam       | 2         | 2.67%   |
+| IMC Networks USB2.0 HD UVC WebCam        | 2         | 2.67%   |
+| IMC Networks Integrated Camera           | 2         | 2.67%   |
+| Chicony USB2.0 Camera                    | 2         | 2.67%   |
+| Chicony TOSHIBA Web Camera - HD          | 2         | 2.67%   |
+| Chicony Integrated Camera [ThinkPad]     | 2         | 2.67%   |
+| Chicony HD User Facing                   | 2         | 2.67%   |
+| Apple iPhone 5/5C/5S/6/SE                | 2         | 2.67%   |
+| Apple Built-in iSight                    | 2         | 2.67%   |
+| Acer SunplusIT Integrated Camera         | 2         | 2.67%   |
+| USB Camera USB Camera                    | 1         | 1.33%   |
+| Syntek Lenovo EasyCamera                 | 1         | 1.33%   |
+| Syntek Integrated Camera                 | 1         | 1.33%   |
+| Suyin Acer CrystalEye Webcam             | 1         | 1.33%   |
+| Sunplus FHD Camera Microphone            | 1         | 1.33%   |
+| Silicon Motion WebCam SC-13HDL11939N     | 1         | 1.33%   |
+| Ricoh HD Webcam                          | 1         | 1.33%   |
+| Realtek Integrated_Webcam_HD             | 1         | 1.33%   |
+| Realtek Integrated Webcam                | 1         | 1.33%   |
+| Realtek Integrated Camera                | 1         | 1.33%   |
+| Realtek HP Webcam                        | 1         | 1.33%   |
+| Quanta VGA WebCam                        | 1         | 1.33%   |
+| Quanta HD User Facing                    | 1         | 1.33%   |
+| Primax HP HD Webcam [Fixed]              | 1         | 1.33%   |
+| Microdia Webcam Vitade AF                | 1         | 1.33%   |
+| Microdia PC Microscope camera            | 1         | 1.33%   |
+| Microdia Laptop_Integrated_Webcam_HD     | 1         | 1.33%   |
+| Microdia Laptop_Integrated_Webcam_2M     | 1         | 1.33%   |
+| Microdia Integrated_Webcam_HD            | 1         | 1.33%   |
+| Microdia Integrated Webcam               | 1         | 1.33%   |
+| Microdia HP Integrated Webcam            | 1         | 1.33%   |
+| Luxvisions Innotech Limited HP HD Camera | 1         | 1.33%   |
+| Lite-On HP HD Camera                     | 1         | 1.33%   |
+| Importek TOSHIBA Web Camera - HD         | 1         | 1.33%   |
+| IMC Networks USB Camera                  | 1         | 1.33%   |
 
 Security
 --------

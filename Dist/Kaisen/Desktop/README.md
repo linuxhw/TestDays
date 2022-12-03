@@ -1171,7 +1171,7 @@ Monitor models
 | Vizio M220MV VIZ0062 1920x1080 509x286mm 23.0-inch                   | 1        | 16.67%  |
 | Samsung Electronics SMB2330H SAM064A 1920x1080 509x286mm 23.0-inch   | 1        | 16.67%  |
 | Samsung Electronics LCD Monitor SAM0D4B 1360x768 609x347mm 27.6-inch | 1        | 16.67%  |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch              | 1        | 16.67%  |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch              | 1        | 16.67%  |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                    | 1        | 16.67%  |
 | Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                  | 1        | 16.67%  |
 
@@ -1303,11 +1303,10 @@ Controller models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
+| TP-Link 802.11ac WLAN Adapter                                     | 2        | 11.11%  |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2        | 11.11%  |
 | Intel Ethernet Connection (2) I219-LM                             | 2        | 11.11%  |
 | TP-Link Archer T4UH wireless Realtek 8812AU                       | 1        | 5.56%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 5.56%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1        | 5.56%   |
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1        | 5.56%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 5.56%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 5.56%   |
@@ -1344,9 +1343,8 @@ Wireless models
 
 | Model                                                          | Desktops | Percent |
 |----------------------------------------------------------------|----------|---------|
+| TP-Link 802.11ac WLAN Adapter                                  | 2        | 40%     |
 | TP-Link Archer T4UH wireless Realtek 8812AU                    | 1        | 20%     |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1        | 20%     |
-| TP-Link 802.11ac WLAN Adapter                                  | 1        | 20%     |
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                     | 1        | 20%     |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 1        | 20%     |
 
@@ -1549,7 +1547,7 @@ Memory module models
 |--------------------------------------------------------|----------|---------|
 | Unknown RAM Module 1GB DIMM 400MT/s                    | 1        | 7.14%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s           | 1        | 7.14%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s   | 1        | 7.14%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s   | 1        | 7.14%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
 | Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
@@ -1614,12 +1612,13 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 4        | 36.36%  |
+| 1600  | 3        | 27.27%  |
 | 1333  | 2        | 18.18%  |
 | 3733  | 1        | 9.09%   |
 | 3600  | 1        | 9.09%   |
 | 2933  | 1        | 9.09%   |
 | 2133  | 1        | 9.09%   |
+| 1648  | 1        | 9.09%   |
 | 400   | 1        | 9.09%   |
 
 Printers & scanners

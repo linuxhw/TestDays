@@ -1511,7 +1511,7 @@ Monitor models
 | Dell E1910H DELD023 1366x768 410x230mm 18.5-inch                      | 2        | 5.26%   |
 | VIE LED MONITOR VIE2302 1920x1080 473x296mm 22.0-inch                 | 1        | 2.63%   |
 | Unknown LCD Monitor Hitachi Engineering Company Ltd HISENSE 3200x1080 | 1        | 2.63%   |
-| Unknown (XXX) Beyond TV XXX2851 1920x1080 1209x680mm 54.6-inch        | 1        | 2.63%   |
+| Unknown (XXX) Beyond TV XXX2851 3840x2160 1209x680mm 54.6-inch        | 1        | 2.63%   |
 | Sony TV SNYEF03 1600x900                                              | 1        | 2.63%   |
 | Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                         | 1        | 2.63%   |
 | Sony TV SNY0902 1360x768                                              | 1        | 2.63%   |
@@ -1519,7 +1519,7 @@ Monitor models
 | NEC Computers EA193Mi NEC6956 1280x1024 375x300mm 18.9-inch           | 1        | 2.63%   |
 | Lenovo LEN LI1931ewA LEN65A1 1366x768 409x230mm 18.5-inch             | 1        | 2.63%   |
 | Lenovo LEN E2054A LEN60DF 1440x900 420x260mm 19.4-inch                | 1        | 2.63%   |
-| Hitachi HISENSE HEC0030 3840x2160 1095x616mm 49.5-inch                | 1        | 2.63%   |
+| Hitachi HISENSE HEC0030 3840x2160 1872x1053mm 84.6-inch               | 1        | 2.63%   |
 | Hewlett-Packard Z27s HWP317F 3840x2160 596x335mm 26.9-inch            | 1        | 2.63%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch            | 1        | 2.63%   |
 | Hewlett-Packard P222va HWP322C 1920x1080 477x268mm 21.5-inch          | 1        | 2.63%   |
@@ -1716,19 +1716,19 @@ Controller models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8        | 13.79%  |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 7        | 12.07%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 8.62%   |
-| MediaTek TECNO Pouvoir 3 Air                                      | 4        | 6.9%    |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 3        | 5.17%   |
+| MediaTek N152DL                                                   | 4        | 6.9%    |
+| Realtek 802.11n                                                   | 3        | 5.17%   |
 | Intel I211 Gigabit Network Connection                             | 2        | 3.45%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 2        | 3.45%   |
 | Intel 82566DM-2 Gigabit Network Connection                        | 2        | 3.45%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.72%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 1.72%   |
 | Ralink RT2870/RT3070 Wireless Adapter                             | 1        | 1.72%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                            | 1        | 1.72%   |
+| Qualcomm OnePlus 6                                                | 1        | 1.72%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1        | 1.72%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                  | 1        | 1.72%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.72%   |
-| OPPO RMX2180                                                      | 1        | 1.72%   |
+| OPPO SDM665-IDP _SN:18689828                                      | 1        | 1.72%   |
 | Intel Wireless-AC 9260                                            | 1        | 1.72%   |
 | Intel Wireless 8265 / 8275                                        | 1        | 1.72%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 1.72%   |
@@ -1773,7 +1773,7 @@ Wireless models
 | Model                                                          | Desktops | Percent |
 |----------------------------------------------------------------|----------|---------|
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 7        | 43.75%  |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter          | 3        | 18.75%  |
+| Realtek 802.11n                                                | 3        | 18.75%  |
 | Ralink RT2870/RT3070 Wireless Adapter                          | 1        | 6.25%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 1        | 6.25%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter               | 1        | 6.25%   |
@@ -1813,15 +1813,15 @@ Ethernet models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8        | 19.51%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 12.2%   |
-| MediaTek TECNO Pouvoir 3 Air                                      | 4        | 9.76%   |
+| MediaTek N152DL                                                   | 4        | 9.76%   |
 | Intel I211 Gigabit Network Connection                             | 2        | 4.88%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 2        | 4.88%   |
 | Intel 82566DM-2 Gigabit Network Connection                        | 2        | 4.88%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 2.44%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 2.44%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                            | 1        | 2.44%   |
+| Qualcomm OnePlus 6                                                | 1        | 2.44%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 2.44%   |
-| OPPO RMX2180                                                      | 1        | 2.44%   |
+| OPPO SDM665-IDP _SN:18689828                                      | 1        | 2.44%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 2.44%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.44%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1        | 2.44%   |
@@ -2025,10 +2025,10 @@ Memory module models
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 5.26%   |
 | SK hynix RAM HMA81GU6CJR8N-VK 8192MB DIMM DDR4 2667MT/s | 1        | 5.26%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s  | 1        | 5.26%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s     | 1        | 5.26%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s          | 1        | 5.26%   |
 | Micron RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s    | 1        | 5.26%   |
 | Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s    | 1        | 5.26%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s     | 1        | 5.26%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s  | 1        | 5.26%   |
 | Kingston RAM HP497157-D88-ELFW 2GB DIMM DDR3 1333MT/s   | 1        | 5.26%   |
 | Kingston RAM 9905734-102.A00G 32GB DIMM DDR4 3200MT/s   | 1        | 5.26%   |
 | Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s   | 1        | 5.26%   |
@@ -2164,7 +2164,7 @@ Camera device models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| Realtek Streaming Webcam        | 2        | 50%     |
+| Realtek USB Camera              | 2        | 50%     |
 | MacroSilicon USB Video          | 1        | 25%     |
 | Cubeternet GL-UPC822 UVC WebCam | 1        | 25%     |
 

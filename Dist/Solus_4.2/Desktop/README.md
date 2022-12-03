@@ -1204,10 +1204,10 @@ Monitor models
 | LG Electronics LCD Monitor W1952 1440x900                        | 1        | 7.69%   |
 | JRY LCD Monitor JRY1950 1600x900 368x207mm 16.6-inch             | 1        | 7.69%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch            | 1        | 7.69%   |
-| Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch      | 1        | 7.69%   |
+| Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24G1WG3 AOC2401 1920x1080 521x293mm 23.5-inch                | 1        | 7.69%   |
+| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                  | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |

@@ -1010,7 +1010,7 @@ Hard drive models
 | Kingston RBU-SUS151S364GD 64GB SSD        | 1         | 1.72%   |
 | Kingston KC600 128GB SSD                  | 1         | 1.72%   |
 | KC600 SSD 128GB                           | 1         | 1.72%   |
-| JMicron Generic 500GB                     | 1         | 1.72%   |
+| JMicron Generic 1TB                       | 1         | 1.72%   |
 | Intenso SSD 128GB                         | 1         | 1.72%   |
 | Intel SSDPEKKA256G7 256GB                 | 1         | 1.72%   |
 | Intel HBRPEKNX0101AHO 16GB                | 1         | 1.72%   |
@@ -1046,21 +1046,22 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Kingston            | 5         | 6      | 23.81%  |
-| Samsung Electronics | 2         | 2      | 9.52%   |
-| Crucial             | 2         | 2      | 9.52%   |
-| WDC                 | 1         | 1      | 4.76%   |
-| SPCC                | 1         | 1      | 4.76%   |
-| SanDisk             | 1         | 1      | 4.76%   |
-| Micron Technology   | 1         | 1      | 4.76%   |
-| LITEON              | 1         | 1      | 4.76%   |
-| KC600               | 1         | 1      | 4.76%   |
-| Intenso             | 1         | 1      | 4.76%   |
-| Emtec               | 1         | 1      | 4.76%   |
-| Dell                | 1         | 2      | 4.76%   |
-| China               | 1         | 1      | 4.76%   |
-| AMD                 | 1         | 1      | 4.76%   |
-| A-DATA Technology   | 1         | 1      | 4.76%   |
+| Kingston            | 5         | 6      | 22.73%  |
+| Samsung Electronics | 2         | 2      | 9.09%   |
+| Crucial             | 2         | 2      | 9.09%   |
+| WDC                 | 1         | 1      | 4.55%   |
+| SPCC                | 1         | 1      | 4.55%   |
+| SanDisk             | 1         | 1      | 4.55%   |
+| Micron Technology   | 1         | 1      | 4.55%   |
+| LITEON              | 1         | 1      | 4.55%   |
+| KC600               | 1         | 1      | 4.55%   |
+| JMicron Technology  | 1         | 1      | 4.55%   |
+| Intenso             | 1         | 1      | 4.55%   |
+| Emtec               | 1         | 1      | 4.55%   |
+| Dell                | 1         | 2      | 4.55%   |
+| China               | 1         | 1      | 4.55%   |
+| AMD                 | 1         | 1      | 4.55%   |
+| A-DATA Technology   | 1         | 1      | 4.55%   |
 
 Drive Kind
 ----------
@@ -1072,10 +1073,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 21        | 32     | 40.38%  |
-| SSD  | 19        | 23     | 36.54%  |
-| NVMe | 9         | 15     | 17.31%  |
-| MMC  | 3         | 3      | 5.77%   |
+| HDD  | 21        | 32     | 41.18%  |
+| SSD  | 19        | 24     | 37.25%  |
+| NVMe | 8         | 14     | 15.69%  |
+| MMC  | 3         | 3      | 5.88%   |
 
 Drive Connector
 ---------------
@@ -1102,10 +1103,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 32        | 37     | 80%     |
-| 0.51-1.0   | 6         | 7      | 15%     |
-| 1.01-2.0   | 1         | 1      | 2.5%    |
-| 4.01-10.0  | 1         | 10     | 2.5%    |
+| 0.01-0.5   | 32        | 37     | 78.05%  |
+| 0.51-1.0   | 7         | 8      | 17.07%  |
+| 1.01-2.0   | 1         | 1      | 2.44%   |
+| 4.01-10.0  | 1         | 10     | 2.44%   |
 
 Space Total
 -----------
@@ -1268,39 +1269,39 @@ Storage controller models
 ![Storage Model](./images/pie_chart/storage_model.svg)
 
 
-| Model                                                                            | Notebooks | Percent |
-|----------------------------------------------------------------------------------|-----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                              | 6         | 11.32%  |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 3         | 5.66%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 3         | 5.66%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                           | 3         | 5.66%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2         | 3.77%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 2         | 3.77%   |
-| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 2         | 3.77%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 2         | 3.77%   |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]            | 2         | 3.77%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                    | 2         | 3.77%   |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) IDE Controller                         | 2         | 3.77%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                   | 2         | 3.77%   |
-| Intel 82371AB/EB/MB PIIX4 IDE                                                    | 2         | 3.77%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 2         | 3.77%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 2         | 3.77%   |
-| Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller | 1         | 1.89%   |
-| SK hynix Non-Volatile memory controller                                          | 1         | 1.89%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 1         | 1.89%   |
-| Marvell Group 88SE9235 PCIe 2.0 x2 4-port SATA 6 Gb/s Controller                 | 1         | 1.89%   |
-| Intel SSD 600P Series                                                            | 1         | 1.89%   |
-| Intel Non-Volatile memory controller                                             | 1         | 1.89%   |
-| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 1         | 1.89%   |
-| Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 1         | 1.89%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                    | 1         | 1.89%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                 | 1         | 1.89%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                        | 1         | 1.89%   |
-| Intel 82801DBM (ICH4-M) IDE Controller                                           | 1         | 1.89%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 1         | 1.89%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 1         | 1.89%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 1         | 1.89%   |
-| ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                      | 1         | 1.89%   |
+| Model                                                                        | Notebooks | Percent |
+|------------------------------------------------------------------------------|-----------|---------|
+| AMD FCH SATA Controller [AHCI mode]                                          | 6         | 11.32%  |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                | 3         | 5.66%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller     | 3         | 5.66%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                       | 3         | 5.66%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                           | 2         | 3.77%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 2         | 3.77%   |
+| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                           | 2         | 3.77%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                            | 2         | 3.77%   |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 2         | 3.77%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                | 2         | 3.77%   |
+| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) IDE Controller                     | 2         | 3.77%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                               | 2         | 3.77%   |
+| Intel 82371AB/EB/MB PIIX4 IDE                                                | 2         | 3.77%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 2         | 3.77%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller               | 2         | 3.77%   |
+| Toshiba America Info Systems XG5 NVMe SSD Controller                         | 1         | 1.89%   |
+| SK hynix Non-Volatile memory controller                                      | 1         | 1.89%   |
+| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                    | 1         | 1.89%   |
+| Marvell Group 88SE9235 PCIe 2.0 x2 4-port SATA 6 Gb/s Controller             | 1         | 1.89%   |
+| Intel SSD 600P Series                                                        | 1         | 1.89%   |
+| Intel Non-Volatile memory controller                                         | 1         | 1.89%   |
+| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                        | 1         | 1.89%   |
+| Intel Cannon Point-LP SATA Controller [AHCI Mode]                            | 1         | 1.89%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                | 1         | 1.89%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                             | 1         | 1.89%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                    | 1         | 1.89%   |
+| Intel 82801DBM (ICH4-M) IDE Controller                                       | 1         | 1.89%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                 | 1         | 1.89%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]             | 1         | 1.89%   |
+| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller               | 1         | 1.89%   |
+| ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                  | 1         | 1.89%   |
 
 Storage Kind
 ------------
@@ -1587,7 +1588,7 @@ Graphics card models
 | Intel HD Graphics 620                                                                    | 1         | 1.89%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 1         | 1.89%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 1         | 1.89%   |
-| Intel Coffee Lake UHD Graphics P630                                                      | 1         | 1.89%   |
+| Intel Coffee Lake-S GT2 [UHD Graphics P630]                                              | 1         | 1.89%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 1.89%   |
 | Intel 82852/855GM Integrated Graphics Device                                             | 1         | 1.89%   |
 | AMD Wani [Radeon R5/R6/R7 Graphics]                                                      | 1         | 1.89%   |
@@ -1693,11 +1694,11 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5A42 1366x768 309x174mm 14.0-inch     | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SEC5642 1280x768 305x183mm 14.0-inch     | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch    | 1         | 2.27%   |
-| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                      | 1         | 2.27%   |
+| ONN 100002480 ONN0101 1920x1080 474x296mm 22.0-inch                      | 1         | 2.27%   |
 | LG Philips LCD Monitor LPLE100 1280x800 331x207mm 15.4-inch              | 1         | 2.27%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 2.27%   |
 | LG Display LP116WH2-TLC1 LGD0232 1366x768 256x144mm 11.6-inch            | 1         | 2.27%   |
-| LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch              | 1         | 2.27%   |
+| LG Display LCD Monitor LGD045C 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD0456 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD042E 2560x1700 272x181mm 12.9-inch             | 1         | 2.27%   |
 | LG Display LCD Monitor LGD022C 1366x768 294x166mm 13.3-inch              | 1         | 2.27%   |
@@ -1705,10 +1706,10 @@ Monitor models
 | LG Display LCD Monitor LGD01F0 1280x800 261x163mm 12.1-inch              | 1         | 2.27%   |
 | Lenovo LCD Monitor LEN4067 1920x1200 367x230mm 17.1-inch                 | 1         | 2.27%   |
 | InfoVision LCD Monitor IVO0489 1366x768 256x144mm 11.6-inch              | 1         | 2.27%   |
-| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 1         | 2.27%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                 | 1         | 2.27%   |
 | Goldstar ULTRAWIDE GSM5A2A 2560x1080 677x290mm 29.0-inch                 | 1         | 2.27%   |
 | Envision LE24M1475/25 EPI1475 1360x768 708x398mm 32.0-inch               | 1         | 2.27%   |
-| DENON AVR DON004B 3840x2160 697x392mm 31.5-inch                          | 1         | 2.27%   |
+| DENON AVR DON004B 1920x1080 1330x750mm 60.1-inch                         | 1         | 2.27%   |
 | CSO LCD Monitor CSO1402 2880x1800 302x188mm 14.0-inch                    | 1         | 2.27%   |
 | CPT LCD Monitor CPT04E2 1024x600 222x130mm 10.1-inch                     | 1         | 2.27%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch         | 1         | 2.27%   |
@@ -1772,9 +1773,10 @@ Diagonal size in inches
 | 17     | 4         | 9.09%   |
 | 12     | 3         | 6.82%   |
 | 10     | 3         | 6.82%   |
-| 31     | 2         | 4.55%   |
 | 11     | 2         | 4.55%   |
+| 60     | 1         | 2.27%   |
 | 32     | 1         | 2.27%   |
+| 31     | 1         | 2.27%   |
 | 29     | 1         | 2.27%   |
 
 Monitor Width
@@ -1789,9 +1791,10 @@ Physical width
 |-------------|-----------|---------|
 | 301-350     | 27        | 61.36%  |
 | 201-300     | 10        | 22.73%  |
-| 601-700     | 3         | 6.82%   |
 | 351-400     | 3         | 6.82%   |
+| 601-700     | 2         | 4.55%   |
 | 701-800     | 1         | 2.27%   |
+| 1001-1500   | 1         | 2.27%   |
 
 Aspect Ratio
 ------------
@@ -1822,11 +1825,12 @@ Area in inch²
 | 101-110        | 14        | 31.82%  |
 | 81-90          | 12        | 27.27%  |
 | 71-80          | 3         | 6.82%   |
-| 351-500        | 3         | 6.82%   |
 | 41-50          | 3         | 6.82%   |
 | 61-70          | 2         | 4.55%   |
 | 51-60          | 2         | 4.55%   |
+| 351-500        | 2         | 4.55%   |
 | 121-130        | 2         | 4.55%   |
+| More than 1000 | 1         | 2.27%   |
 | 301-350        | 1         | 2.27%   |
 | 141-150        | 1         | 2.27%   |
 | 131-140        | 1         | 2.27%   |
@@ -1842,11 +1846,11 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 101-120       | 19        | 44.19%  |
-| 121-160       | 12        | 27.91%  |
+| 121-160       | 11        | 25.58%  |
 | 51-100        | 7         | 16.28%  |
 | More than 240 | 2         | 4.65%   |
+| 1-50          | 2         | 4.65%   |
 | 161-240       | 2         | 4.65%   |
-| 1-50          | 1         | 2.33%   |
 
 Multiple Monitors
 -----------------
@@ -1913,7 +1917,7 @@ Controller models
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                        | 1         | 1.12%   |
 | Realtek RTL8152 Fast Ethernet Adapter                                          | 1         | 1.12%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1         | 1.12%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                                         | 1         | 1.12%   |
+| Qualcomm OnePlus 6                                                             | 1         | 1.12%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                      | 1         | 1.12%   |
 | Qualcomm Atheros AR9271 802.11n                                                | 1         | 1.12%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                 | 1         | 1.12%   |
@@ -2030,7 +2034,7 @@ Ethernet models
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 4.88%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 2.44%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 2.44%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                            | 1         | 2.44%   |
+| Qualcomm OnePlus 6                                                | 1         | 2.44%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 2.44%   |
 | Marvell Group 88E8072 PCI-E Gigabit Ethernet Controller           | 1         | 2.44%   |
 | Marvell Group 88E8036 PCI-E Fast Ethernet Controller              | 1         | 2.44%   |
@@ -2252,7 +2256,7 @@ Memory module models
 | Unknown RAM Module 512MB SODIMM DDR                              | 3         | 7.14%   |
 | Unknown RAM Module 1GB SODIMM DDR                                | 2         | 4.76%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 4.76%   |
-| Samsung RAM M471B2873FHS-CH9 1GB SODIMM DDR3 1334MT/s            | 2         | 4.76%   |
+| Samsung RAM M471B2873FHS-CH9 1024MB SODIMM DDR3 1334MT/s         | 2         | 4.76%   |
 | Unknown RAM Module 8GB SODIMM DDR4 2133MT/s                      | 1         | 2.38%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.38%   |
 | Unknown RAM Module 2GB SODIMM SDRAM                              | 1         | 2.38%   |
@@ -2267,20 +2271,20 @@ Memory module models
 | SK hynix RAM HMAA1GS6CMR6N-XN 8GB Row Of Chips DDR4 3200MT/s     | 1         | 2.38%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s           | 1         | 2.38%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s           | 1         | 2.38%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 1         | 2.38%   |
+| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.38%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 2.38%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 2.38%   |
 | Samsung RAM M4 70T2953CZ3-CD5 1GB SODIMM DDR2 533MT/s            | 1         | 2.38%   |
 | Samsung RAM K4EBE304EB-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.38%   |
 | Samsung RAM K4E6E304EC-EGCG 4GB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.38%   |
-| Micron RAM 8KTF51264HZ-1G6N1 4096MB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
+| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s            | 1         | 2.38%   |
 | Micron RAM 8KTF51264HDZ-1G9P1 4096MB SODIMM DDR3 1400MT/s        | 1         | 2.38%   |
 | Micron RAM 8JTF5126 4HZ-1GD 1 4GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
 | Kingston RAM 9905417-074.A00G 4GB SODIMM DDR3 1333MT/s           | 1         | 2.38%   |
 | Elpida RAM EDFB232A1MA-GD-F 8192MB SODIMM LPDDR3 1600MT/s        | 1         | 2.38%   |
-| Elpida RAM EBJ41UF8BDU0-GN-F 4GB SODIMM DDR3 1600MT/s            | 1         | 2.38%   |
-| Elpida RAM EBJ21UE8BDS0-DJ-F 2GB SODIMM DDR3 1334MT/s            | 1         | 2.38%   |
+| Elpida RAM EBJ41UF8BDU0-GN-F 4096MB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
+| Elpida RAM EBJ21UE8BDS0-DJ-F 2048MB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Elpida RAM EBJ21UE8BBS0-AE-F 2GB SODIMM DDR3 1067MT/s            | 1         | 2.38%   |
 | Crucial RAM CT8G4SFD824A.C16FBD2 8GB SODIMM DDR4 2400MT/s        | 1         | 2.38%   |
 | Crucial RAM CT102464BF186D.M16 8GB SODIMM DDR3 1867MT/s          | 1         | 2.38%   |
@@ -2330,8 +2334,8 @@ Memory module size
 
 | Size | Notebooks | Percent |
 |------|-----------|---------|
-| 4096 | 15        | 37.5%   |
-| 8192 | 11        | 27.5%   |
+| 4096 | 14        | 35%     |
+| 8192 | 12        | 30%     |
 | 2048 | 6         | 15%     |
 | 1024 | 3         | 7.5%    |
 | 512  | 3         | 7.5%    |
@@ -2460,8 +2464,8 @@ Camera device models
 | Chicony CNF9055 Toshiba Webcam                      | 1         | 2.86%   |
 | Chicony CNF8243 Webcam                              | 1         | 2.86%   |
 | Chicony 2.0M UVC Webcam / CNF7129                   | 1         | 2.86%   |
-| Cheng Uei Precision Industry (Foxlink) Webcam       | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam    | 1         | 2.86%   |
+| Cheng Uei Precision Industry (Foxlink) HP HD Camera | 1         | 2.86%   |
 | Apple iPhone 5/5C/5S/6/SE                           | 1         | 2.86%   |
 | Acer BisonCam, NB Pro                               | 1         | 2.86%   |
 

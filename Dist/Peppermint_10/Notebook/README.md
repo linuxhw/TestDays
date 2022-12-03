@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 221
+Total: 222
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Samsung       | SR70S/SR71S                 | [2e1f6c73da](https://linux-hardware.org/?probe=2e1f6c73da) | Nov 22, 2022 |
 | Lenovo        | ThinkPad T60 1952CTO        | [f84f14587b](https://linux-hardware.org/?probe=f84f14587b) | Oct 17, 2022 |
 | HP            | EliteBook 840 G7 Noteboo... | [7177bb644a](https://linux-hardware.org/?probe=7177bb644a) | Jul 15, 2022 |
 | Acer          | Aspire R3-131T              | [36851c847b](https://linux-hardware.org/?probe=36851c847b) | Jul 08, 2022 |
@@ -1110,7 +1111,7 @@ Hard drive models
 | WDC WD3200BPVT-24JJ5T0 320GB        | 2         | 1.26%   |
 | WDC WD3200BPVT-22ZEST0 320GB        | 2         | 1.26%   |
 | WDC WD1200BEVS-22UST0 120GB         | 2         | 1.26%   |
-| Unknown SD/MMC/MS PRO 1TB           | 2         | 1.26%   |
+| Unknown SD/MMC/MS PRO 8GB           | 2         | 1.26%   |
 | Unknown MMC Card  16GB              | 2         | 1.26%   |
 | Toshiba MK5055GSX 500GB             | 2         | 1.26%   |
 | Seagate ST750LM022 HN-M750MBB 752GB | 2         | 1.26%   |
@@ -1234,9 +1235,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 115       | 138    | 84.56%  |
-| 0.51-1.0   | 18        | 19     | 13.24%  |
-| 1.01-2.0   | 3         | 3      | 2.21%   |
+| 0.01-0.5   | 116       | 140    | 85.93%  |
+| 0.51-1.0   | 18        | 19     | 13.33%  |
+| 1.01-2.0   | 1         | 1      | 0.74%   |
 
 Space Total
 -----------
@@ -1855,11 +1856,11 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 6         | 4.03%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                 | 6         | 4.03%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch     | 3         | 2.01%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 3         | 2.01%   |
-| Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 2         | 1.34%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch     | 2         | 1.34%   |
+| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 1.34%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch     | 2         | 1.34%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 2         | 1.34%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch              | 2         | 1.34%   |
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 1.34%   |
@@ -1870,8 +1871,8 @@ Monitor models
 | Vizio E320VT VIZ0067 1920x1080 698x392mm 31.5-inch                       | 1         | 0.67%   |
 | ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch                | 1         | 0.67%   |
 | Sony TV SNY9500 1920x540 560x420mm 27.6-inch                             | 1         | 0.67%   |
-| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                            | 1         | 0.67%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                    | 1         | 0.67%   |
+| Sony Nvidia Defaul t Flat Panel SNY06FA 1600x900 360x200mm 16.2-inch     | 1         | 0.67%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                    | 1         | 0.67%   |
 | Seiko/Epson LCD Monitor 1280x800                                         | 1         | 0.67%   |
 | Samsung Electronics SyncMaster SAM0019 1024x768 304x228mm 15.0-inch      | 1         | 0.67%   |
 | Samsung Electronics SMT27A300 SAM087A 1920x1080 598x336mm 27.0-inch      | 1         | 0.67%   |
@@ -1884,17 +1885,17 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3953 1366x768 256x144mm 11.6-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC364E 1024x600 223x125mm 10.1-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC364D 1600x900 382x214mm 17.2-inch     | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SEC3445 1280x800 331x207mm 15.4-inch     | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SEC3445 1280x800 330x210mm 15.4-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC334A 1366x768 344x194mm 15.5-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 223x125mm 10.1-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC5451 1366x768 344x194mm 15.5-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch    | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SAM0DF3 3840x2160 1872x1053mm 84.6-inch  | 1         | 0.67%   |
 | Quanta Display LCD Monitor QDS0033 1024x768 304x228mm 15.0-inch          | 1         | 0.67%   |
-| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch                  | 1         | 0.67%   |
+| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                  | 1         | 0.67%   |
 
 Monitor Resolution
 ------------------
@@ -2206,7 +2207,7 @@ Wireless models
 | Realtek RTL8723DE Wireless Network Adapter                              | 1         | 0.66%   |
 | Realtek RTL8723AE PCIe Wireless Network Adapter                         | 1         | 0.66%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 0.66%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 0.66%   |
+| Realtek 802.11n                                                         | 1         | 0.66%   |
 | Realtek 802.11ac NIC                                                    | 1         | 0.66%   |
 | Ralink MT7601U Wireless Adapter                                         | 1         | 0.66%   |
 
@@ -2267,14 +2268,14 @@ Ethernet models
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 2         | 1.47%   |
 | Broadcom Limited NetXtreme BCM5788 Gigabit Ethernet               | 2         | 1.47%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1         | 0.74%   |
-| Spreadtrum Spreadtrum Phone                                       | 1         | 0.74%   |
+| Spreadtrum Unisoc Phone                                           | 1         | 0.74%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 0.74%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 0.74%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1         | 0.74%   |
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                        | 1         | 0.74%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.74%   |
 | Nvidia MCP67 Ethernet                                             | 1         | 0.74%   |
-| MediaTek moto e(7) power                                          | 1         | 0.74%   |
+| MediaTek TECNO F1                                                 | 1         | 0.74%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 0.74%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 0.74%   |
 | Marvell Group 88E8040T PCI-E Fast Ethernet Controller             | 1         | 0.74%   |
@@ -2387,11 +2388,11 @@ Controller models
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 5         | 6.49%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 4         | 5.19%   |
 | Foxconn International BCM43142A0 Bluetooth module   | 4         | 5.19%   |
+| Realtek Bluetooth Radio                             | 3         | 3.9%    |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 3         | 3.9%    |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 3.9%    |
 | Broadcom BCM2070 Bluetooth Device                   | 3         | 3.9%    |
 | Realtek  Bluetooth 4.2 Adapter                      | 2         | 2.6%    |
-| Realtek Bluetooth Radio                             | 2         | 2.6%    |
 | Ralink RT3290 Bluetooth                             | 2         | 2.6%    |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 2.6%    |
 | Intel Centrino Bluetooth Wireless Transceiver       | 2         | 2.6%    |
@@ -2401,7 +2402,6 @@ Controller models
 | Toshiba Integrated Bluetooth HCI                    | 1         | 1.3%    |
 | Toshiba Bluetooth Device                            | 1         | 1.3%    |
 | Toshiba Atheros AR3012 Bluetooth                    | 1         | 1.3%    |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 1.3%    |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 1.3%    |
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 1.3%    |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 1.3%    |
@@ -2423,6 +2423,7 @@ Controller models
 | Broadcom BCM2070 Bluetooth 2.1 + EDR                | 1         | 1.3%    |
 | Broadcom BCM2045B (BDC-2) [Bluetooth Controller]    | 1         | 1.3%    |
 | Broadcom BCM2045 Bluetooth                          | 1         | 1.3%    |
+| ASUS Broadcom Bluetooth 2.1                         | 1         | 1.3%    |
 
 Sound
 -----
@@ -2560,17 +2561,17 @@ Memory module models
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s       | 1         | 2.33%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 1         | 2.33%   |
 | Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s | 1         | 2.33%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s       | 1         | 2.33%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s        | 1         | 2.33%   |
 | Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s     | 1         | 2.33%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s       | 1         | 2.33%   |
 | Kingston RAM KX830D-ELC 4GB SODIMM DDR3 1333MT/s            | 1         | 2.33%   |
 | Kingston RAM ASU1333S9-4G-ECEWG 4GB SODIMM DDR3 1333MT/s    | 1         | 2.33%   |
 | Kingston RAM 9905428-196.A00LF 8192MB SODIMM DDR3 1333MT/s  | 1         | 2.33%   |
 | Infineon RAM Module 256MB DIMM DDR2 533MT/s                 | 1         | 2.33%   |
-| Elpida RAM EBJ21UE8BFU0-DJ-F 2048MB SODIMM DDR3 1334MT/s    | 1         | 2.33%   |
+| Elpida RAM EBJ21UE8BFU0-DJ-F 2GB SODIMM DDR3 1334MT/s       | 1         | 2.33%   |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s     | 1         | 2.33%   |
 | Crucial RAM CT102464BF1339.C16 8GB SODIMM DDR3 1333MT/s     | 1         | 2.33%   |
-| Corsair RAM CMSX8GX3M1A1600C10 8192MB SODIMM DDR3 1600MT/s  | 1         | 2.33%   |
+| Corsair RAM CMSX8GX3M1A1600C10 8GB SODIMM DDR3 1600MT/s     | 1         | 2.33%   |
 | Corsair RAM CMSO4GX3M1A1333C9 4GB SODIMM DDR3 1334MT/s      | 1         | 2.33%   |
 | Corsair RAM CM3X4GSD1066 4GB SODIMM 1067MT/s                | 1         | 2.33%   |
 
@@ -2808,7 +2809,7 @@ Fingerprint sensor models
 | Validity Sensors VFS301 Fingerprint Reader             | 1         | 6.25%   |
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 1         | 6.25%   |
 | Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 6.25%   |
-| LighTuning EgisTec_ES603                               | 1         | 6.25%   |
+| LighTuning ES603 Swipe Fingerprint Sensor              | 1         | 6.25%   |
 | AuthenTec Fingerprint Sensor                           | 1         | 6.25%   |
 | AuthenTec AES2810                                      | 1         | 6.25%   |
 | AuthenTec AES2501 Fingerprint Sensor                   | 1         | 6.25%   |
@@ -2858,8 +2859,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 99        | 66.89%  |
-| 1     | 38        | 25.68%  |
-| 2     | 10        | 6.76%   |
+| 1     | 39        | 26.35%  |
+| 2     | 9         | 6.08%   |
 | 4     | 1         | 0.68%   |
 
 Unsupported Device Types
@@ -2872,18 +2873,18 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 15        | 24.59%  |
-| Graphics card            | 11        | 18.03%  |
-| Net/wireless             | 10        | 16.39%  |
-| Chipcard                 | 6         | 9.84%   |
-| Storage                  | 5         | 8.2%    |
-| Modem                    | 4         | 6.56%   |
-| Bluetooth                | 3         | 4.92%   |
-| Storage/raid             | 1         | 1.64%   |
-| Storage/ide              | 1         | 1.64%   |
-| Sound                    | 1         | 1.64%   |
-| Multimedia controller    | 1         | 1.64%   |
-| Flash memory             | 1         | 1.64%   |
-| Communication controller | 1         | 1.64%   |
-| Camera                   | 1         | 1.64%   |
+| Fingerprint reader       | 15        | 25%     |
+| Net/wireless             | 10        | 16.67%  |
+| Graphics card            | 10        | 16.67%  |
+| Chipcard                 | 6         | 10%     |
+| Storage                  | 5         | 8.33%   |
+| Modem                    | 4         | 6.67%   |
+| Bluetooth                | 3         | 5%      |
+| Storage/raid             | 1         | 1.67%   |
+| Storage/ide              | 1         | 1.67%   |
+| Sound                    | 1         | 1.67%   |
+| Multimedia controller    | 1         | 1.67%   |
+| Flash memory             | 1         | 1.67%   |
+| Communication controller | 1         | 1.67%   |
+| Camera                   | 1         | 1.67%   |
 

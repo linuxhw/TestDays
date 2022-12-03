@@ -987,7 +987,7 @@ Hard drive vendors
 | Toshiba                   | 8        | 11     | 10.13%  |
 | Samsung Electronics       | 6        | 14     | 7.59%   |
 | China                     | 4        | 6      | 5.06%   |
-| Sandisk                   | 3        | 3      | 3.8%    |
+| SanDisk                   | 3        | 3      | 3.8%    |
 | Micron/Crucial Technology | 3        | 4      | 3.8%    |
 | TDAS                      | 2        | 10     | 2.53%   |
 | Silicon Motion            | 2        | 2      | 2.53%   |
@@ -1022,7 +1022,7 @@ Hard drive models
 | TDAS TerraMaster 1TB                 | 2        | 2.22%   |
 | Seagate ST320DM001 HD322GJ 320GB     | 2        | 2.22%   |
 | Seagate ST2000VM003-1CT164 2TB       | 2        | 2.22%   |
-| Seagate Expansion 2TB                | 2        | 2.22%   |
+| Seagate Expansion 1TB                | 2        | 2.22%   |
 | Samsung SSD 850 EVO 500GB            | 2        | 2.22%   |
 | Samsung NVMe SSD Drive 500GB         | 2        | 2.22%   |
 | SABRENT Disk 500GB                   | 2        | 2.22%   |
@@ -1066,13 +1066,12 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 16       | 52     | 36.36%  |
-| Seagate             | 15       | 28     | 34.09%  |
-| Toshiba             | 7        | 10     | 15.91%  |
-| SABRENT             | 2        | 3      | 4.55%   |
-| Hitachi             | 2        | 2      | 4.55%   |
-| Samsung Electronics | 1        | 1      | 2.27%   |
-| MaxDigital          | 1        | 1      | 2.27%   |
+| WDC                 | 16       | 52     | 38.1%   |
+| Seagate             | 15       | 28     | 35.71%  |
+| Toshiba             | 7        | 10     | 16.67%  |
+| Hitachi             | 2        | 2      | 4.76%   |
+| Samsung Electronics | 1        | 1      | 2.38%   |
+| MaxDigital          | 1        | 1      | 2.38%   |
 
 SSD Vendor
 ----------
@@ -1102,10 +1101,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 38       | 97     | 52.05%  |
-| SSD     | 16       | 27     | 21.92%  |
-| NVMe    | 14       | 20     | 19.18%  |
-| Unknown | 5        | 19     | 6.85%   |
+| HDD     | 37       | 94     | 51.39%  |
+| SSD     | 16       | 27     | 22.22%  |
+| NVMe    | 14       | 23     | 19.44%  |
+| Unknown | 5        | 19     | 6.94%   |
 
 Drive Connector
 ---------------
@@ -1131,11 +1130,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 26       | 44     | 41.27%  |
-| 0.51-1.0   | 22       | 49     | 34.92%  |
-| 1.01-2.0   | 10       | 21     | 15.87%  |
-| 3.01-4.0   | 4        | 9      | 6.35%   |
-| 2.01-3.0   | 1        | 1      | 1.59%   |
+| 0.01-0.5   | 25       | 41     | 40.98%  |
+| 0.51-1.0   | 23       | 51     | 37.7%   |
+| 1.01-2.0   | 8        | 19     | 13.11%  |
+| 3.01-4.0   | 4        | 9      | 6.56%   |
+| 2.01-3.0   | 1        | 1      | 1.64%   |
 
 Space Total
 -----------
@@ -1595,7 +1594,7 @@ Graphics card models
 |-----------------------------------------------------------------------------|----------|---------|
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 5        | 8.2%    |
 | Intel 4 Series Chipset Integrated Graphics Controller                       | 4        | 6.56%   |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                        | 3        | 4.92%   |
+| Intel HD Graphics 610                                                       | 3        | 4.92%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                | 3        | 4.92%   |
 | Nvidia GP107 [GeForce GTX 1050]                                             | 2        | 3.28%   |
 | Nvidia GP106 [GeForce GTX 1060 6GB]                                         | 2        | 3.28%   |
@@ -1629,7 +1628,7 @@ Graphics card models
 | AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                     | 1        | 1.64%   |
 | AMD Kaveri [Radeon R7 Graphics]                                             | 1        | 1.64%   |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                     | 1        | 1.64%   |
-| AMD Cezanne                                                                 | 1        | 1.64%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                | 1        | 1.64%   |
 | AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                            | 1        | 1.64%   |
 | AMD Cedar GL [FirePro 2270]                                                 | 1        | 1.64%   |
 | AMD Caicos XTX [Radeon HD 8490 / R5 235X OEM]                               | 1        | 1.64%   |
@@ -1741,7 +1740,7 @@ Monitor models
 | Acer LCD Monitor G236HL 5760x1080                                      | 2        | 3.03%   |
 | Vizio M551d-A2R VIZ1006 1920x1080 1430x800mm 64.5-inch                 | 1        | 1.52%   |
 | Vizio M220MV VIZ0062 1920x1080 509x286mm 23.0-inch                     | 1        | 1.52%   |
-| Vizio D32x-D1 VIZ1005 1920x1080 698x392mm 31.5-inch                    | 1        | 1.52%   |
+| Vizio E241i-B1 VIZ1005 1920x1080 521x293mm 23.5-inch                   | 1        | 1.52%   |
 | ViewSonic VG930m-3 VSC991E 1280x1024 376x301mm 19.0-inch               | 1        | 1.52%   |
 | Unknown LCD Monitor Dell S2719DGF 2560x1440                            | 1        | 1.52%   |
 | UGD Artist 156 UGD1501 1920x1080 293x165mm 13.2-inch                   | 1        | 1.52%   |
@@ -1751,17 +1750,17 @@ Monitor models
 | Seiki SE241TS SEK0CF0 1920x1080 520x290mm 23.4-inch                    | 1        | 1.52%   |
 | Sceptre Tech Sceptre X22HG SPT2204 1920x1080 474x296mm 22.0-inch       | 1        | 1.52%   |
 | Sceptre Tech Sceptre F27 SPT0AD7 1920x1080 600x330mm 27.0-inch         | 1        | 1.52%   |
-| Sceptre Tech Sceptre F27 SPT0ABF 1920x1080 409x230mm 18.5-inch         | 1        | 1.52%   |
-| Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch      | 1        | 1.52%   |
+| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                 | 1        | 1.52%   |
+| Samsung Electronics S34J55x SAM0F71 3440x1440 800x330mm 34.1-inch      | 1        | 1.52%   |
 | Samsung Electronics LCD Monitor SAM0F0B 3840x2160 1210x680mm 54.6-inch | 1        | 1.52%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch      | 1        | 1.52%   |
 | MTK Microtek 815C MTK1021 1280x1024 359x287mm 18.1-inch                | 1        | 1.52%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.52%   |
+| MStar Demo MST0030 1920x1080 1150x650mm 52.0-inch                      | 1        | 1.52%   |
 | Hewlett-Packard P17A HWP3142 1280x1024 338x270mm 17.0-inch             | 1        | 1.52%   |
 | Hewlett-Packard LE1901w HWP2842 1440x900 410x256mm 19.0-inch           | 1        | 1.52%   |
 | Hewlett-Packard L2105tm HWP2863 1920x1080 477x268mm 21.5-inch          | 1        | 1.52%   |
 | Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch             | 1        | 1.52%   |
-| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch            | 1        | 1.52%   |
+| Hewlett-Packard 22cw HWP3183 1920x1080 476x268mm 21.5-inch             | 1        | 1.52%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 1.52%   |
 | Gateway LCD Monitor FHX2300 3840x1080                                  | 1        | 1.52%   |
 | eMachines E19T6W EMA0783 1440x900 410x260mm 19.1-inch                  | 1        | 1.52%   |
@@ -1959,9 +1958,9 @@ Controller models
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 3        | 3.06%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                           | 3        | 3.06%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 3        | 3.06%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 2        | 2.04%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 2        | 2.04%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 2.04%   |
+| Realtek 802.11n                                                   | 2        | 2.04%   |
 | Realtek 802.11ac NIC                                              | 2        | 2.04%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                        | 1        | 1.02%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 1.02%   |
@@ -2024,7 +2023,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]            | 4        | 9.76%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                          | 3        | 7.32%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                     | 3        | 7.32%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter       | 2        | 4.88%   |
+| Realtek 802.11n                                             | 2        | 4.88%   |
 | Realtek 802.11ac NIC                                        | 2        | 4.88%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                  | 1        | 2.44%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter    | 1        | 2.44%   |
@@ -2307,7 +2306,7 @@ Memory module models
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
 | Sesame RAM S939A2UGS-ITR 8GB DIMM DDR3 1600MT/s          | 1        | 4.76%   |
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s      | 1        | 4.76%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
+| Samsung RAM M378B5173QH0-CK0 4096MB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
 | Samsung RAM M378B1G73QH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
 | Samsung RAM M378B1G73BH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
@@ -2317,7 +2316,7 @@ Memory module models
 | G.Skill RAM F3-10666CL9-8GBSQ 8GB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
 | Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
 | Crucial RAM BL16G26C16U4W.16FD 16GB DIMM DDR4 2667MT/s   | 1        | 4.76%   |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 1        | 4.76%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 4.76%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s    | 1        | 4.76%   |
 
 Memory Kind
@@ -2455,7 +2454,7 @@ Camera device models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | Microdia Camera                 | 4        | 33.33%  |
-| Microdia USB Live camera        | 1        | 8.33%   |
+| Microdia Hy-HD-Camera           | 1        | 8.33%   |
 | Logitech Webcam Pro 9000        | 1        | 8.33%   |
 | Logitech Webcam C310            | 1        | 8.33%   |
 | Logitech Webcam C270            | 1        | 8.33%   |

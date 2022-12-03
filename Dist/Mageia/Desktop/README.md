@@ -744,12 +744,12 @@ Motherboard manufacture year
 | 2018 | 7        | 11.86%  |
 | 2012 | 7        | 11.86%  |
 | 2017 | 5        | 8.47%   |
-| 2009 | 5        | 8.47%   |
 | 2015 | 4        | 6.78%   |
 | 2014 | 4        | 6.78%   |
 | 2011 | 4        | 6.78%   |
+| 2009 | 4        | 6.78%   |
+| 2008 | 4        | 6.78%   |
 | 2019 | 3        | 5.08%   |
-| 2008 | 3        | 5.08%   |
 | 2020 | 2        | 3.39%   |
 | 2010 | 2        | 3.39%   |
 | 2021 | 1        | 1.69%   |
@@ -1053,7 +1053,7 @@ Hard drive models
 | Samsung SSD 860 EVO 500GB        | 2        | 1.25%   |
 | Samsung SSD 850 EVO 500GB        | 2        | 1.25%   |
 | PNY CS900 120GB SSD              | 2        | 1.25%   |
-| OCZ-VERTEX PLUS R2 64GB SSD      | 2        | 1.25%   |
+| OCZ-VERTEX PLUS R2 128GB SSD     | 2        | 1.25%   |
 | Kingston SV300S37A240G 240GB SSD | 2        | 1.25%   |
 | Kingston SH103S3120G 120GB SSD   | 2        | 1.25%   |
 | Kingston SA400S37120G 120GB SSD  | 2        | 1.25%   |
@@ -1162,13 +1162,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 49       | 100    | 44.95%  |
-| 0.51-1.0   | 31       | 75     | 28.44%  |
-| 1.01-2.0   | 15       | 30     | 13.76%  |
-| 2.01-3.0   | 6        | 30     | 5.5%    |
-| 3.01-4.0   | 5        | 7      | 4.59%   |
-| 4.01-10.0  | 2        | 5      | 1.83%   |
-| 10.01-20.0 | 1        | 1      | 0.92%   |
+| 0.01-0.5   | 49       | 101    | 45.79%  |
+| 0.51-1.0   | 30       | 82     | 28.04%  |
+| 1.01-2.0   | 14       | 22     | 13.08%  |
+| 2.01-3.0   | 6        | 30     | 5.61%   |
+| 3.01-4.0   | 5        | 7      | 4.67%   |
+| 4.01-10.0  | 2        | 5      | 1.87%   |
+| 10.01-20.0 | 1        | 1      | 0.93%   |
 
 Space Total
 -----------
@@ -2396,19 +2396,19 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                 | 1        | 2.56%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 1        | 2.56%   |
 | Unknown RAM Module 2048MB DIMM 667MT/s                       | 1        | 2.56%   |
-| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s | 1        | 2.56%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 2.56%   |
 | Team RAM Elite-16 4GB DIMM DDR3 1600MT/s                     | 1        | 2.56%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                   | 1        | 2.56%   |
 | Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3600MT/s         | 1        | 2.56%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s       | 1        | 2.56%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s          | 1        | 2.56%   |
 | Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s           | 1        | 2.56%   |
 | Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s          | 1        | 2.56%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s            | 1        | 2.56%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s            | 1        | 2.56%   |
 | Kingston RAM KHX2133C11D3/8GX 8192MB DIMM DDR3 2133MT/s      | 1        | 2.56%   |
 | Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s        | 1        | 2.56%   |
-| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s         | 1        | 2.56%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s          | 1        | 2.56%   |
+| Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s       | 1        | 2.56%   |
 | Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s        | 1        | 2.56%   |
 | Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2133MT/s         | 1        | 2.56%   |
 | Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s       | 1        | 2.56%   |
@@ -2648,9 +2648,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 51       | 85%     |
-| 1     | 8        | 13.33%  |
-| 2     | 1        | 1.67%   |
+| 0     | 51       | 83.61%  |
+| 1     | 9        | 14.75%  |
+| 2     | 1        | 1.64%   |
 
 Unsupported Device Types
 ------------------------
@@ -2662,11 +2662,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 3        | 33.33%  |
-| Unassigned class         | 1        | 11.11%  |
-| Sound                    | 1        | 11.11%  |
-| Net/wireless             | 1        | 11.11%  |
-| Multimedia controller    | 1        | 11.11%  |
-| Communication controller | 1        | 11.11%  |
-| Chipcard                 | 1        | 11.11%  |
+| Graphics card            | 4        | 40%     |
+| Unassigned class         | 1        | 10%     |
+| Sound                    | 1        | 10%     |
+| Net/wireless             | 1        | 10%     |
+| Multimedia controller    | 1        | 10%     |
+| Communication controller | 1        | 10%     |
+| Chipcard                 | 1        | 10%     |
 

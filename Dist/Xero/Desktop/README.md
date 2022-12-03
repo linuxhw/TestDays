@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 50
+Total: 51
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek  | ROG STRIX X570-F GAMING     | [f074ef2e7c](https://linux-hardware.org/?probe=f074ef2e7c) | Nov 15, 2022 |
 | ASUSTek  | ROG STRIX X570-F GAMING     | [711e95b72e](https://linux-hardware.org/?probe=711e95b72e) | Nov 02, 2022 |
 | ASUSTek  | ROG STRIX X570-F GAMING     | [ff0c19c661](https://linux-hardware.org/?probe=ff0c19c661) | Nov 02, 2022 |
 | Gigabyte | A320M-S2H-CF                | [bcf4fa1baf](https://linux-hardware.org/?probe=bcf4fa1baf) | Oct 18, 2022 |
@@ -727,8 +728,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 26       | 74.29%  |
-| Yes       | 9        | 25.71%  |
+| No        | 26       | 72.22%  |
+| Yes       | 10       | 27.78%  |
 
 Has Ethernet
 ------------
@@ -894,48 +895,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                                | Desktops | Percent |
-|------------------------------------------------------|----------|---------|
-| Kingston SA400S37240G 240GB SSD                      | 3        | 3.03%   |
-| Seagate ST1000DM010-2EP102 1TB                       | 2        | 2.02%   |
-| SanDisk NVMe SSD Drive 500GB                         | 2        | 2.02%   |
-| Samsung SSD 970 EVO 1TB                              | 2        | 2.02%   |
-| XPG GAMMIX S50 1TB                                   | 1        | 1.01%   |
-| WDC WDS512G1X0C-00ENX0 512GB                         | 1        | 1.01%   |
-| WDC WDS500G3XHC-00SJG0 500GB                         | 1        | 1.01%   |
-| WDC WDS500G3X0C-00SJG0 500GB                         | 1        | 1.01%   |
-| WDC WDS500G2B0B-00YS70 500GB SSD                     | 1        | 1.01%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD                     | 1        | 1.01%   |
-| WDC WD800JD-00MSA1 80GB                              | 1        | 1.01%   |
-| WDC WD7500BPKT-75PK4T0 752GB                         | 1        | 1.01%   |
-| WDC WD6400AAKS-22A7B2 640GB                          | 1        | 1.01%   |
-| WDC WD5000AAVS-00ZTB0 500GB                          | 1        | 1.01%   |
-| WDC WD5000AAKX-60U6AA0 500GB                         | 1        | 1.01%   |
-| WDC WD40EZRZ-22GXCB0 4TB                             | 1        | 1.01%   |
-| WDC WD2500BEVT-60ZCT1 250GB                          | 1        | 1.01%   |
-| WDC WD20EZRZ-60Z5HB0 2TB                             | 1        | 1.01%   |
-| WDC WD20EZBX-00AYRA0 2TB                             | 1        | 1.01%   |
-| WDC WD2003FZEX-00SRLA0 2TB                           | 1        | 1.01%   |
-| WDC WD15EADS-11R6B1 1TB                              | 1        | 1.01%   |
-| WDC WD10EZEX-60WN4A0 1TB                             | 1        | 1.01%   |
-| WDC WD10EZEX-22MFCA0 1TB                             | 1        | 1.01%   |
-| WDC WD10EZEX-00KUWA0 1TB                             | 1        | 1.01%   |
-| WDC WD10EAVS-00D7B1 1TB                              | 1        | 1.01%   |
-| WDC WD1002FAEX-00Z3A0 1TB                            | 1        | 1.01%   |
-| Unknown MMC Card  4GB                                | 1        | 1.01%   |
-| Unknown MMC Card  128GB                              | 1        | 1.01%   |
-| Transcend TS120GSSD220S 120GB                        | 1        | 1.01%   |
-| Toshiba MQ04ABF100 1TB                               | 1        | 1.01%   |
-| Toshiba MQ01ABD100 1TB                               | 1        | 1.01%   |
-| Toshiba MK4058GSX 400GB                              | 1        | 1.01%   |
-| Toshiba HDWR160 6TB                                  | 1        | 1.01%   |
-| Toshiba HDWE160 6TB                                  | 1        | 1.01%   |
-| Toshiba DT01ACA300 3TB                               | 1        | 1.01%   |
-| SK hynix HFM256GDJTNG-8310A 256GB                    | 1        | 1.01%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 1024GB | 1        | 1.01%   |
-| Seagate ST9500420AS 500GB                            | 1        | 1.01%   |
-| Seagate ST8000AS0002-1NA17Z 8TB                      | 1        | 1.01%   |
-| Seagate ST3500418AS 500GB                            | 1        | 1.01%   |
+| Model                                             | Desktops | Percent |
+|---------------------------------------------------|----------|---------|
+| Kingston SA400S37240G 240GB SSD                   | 3        | 3.03%   |
+| Seagate ST1000DM010-2EP102 1TB                    | 2        | 2.02%   |
+| SanDisk NVMe SSD Drive 500GB                      | 2        | 2.02%   |
+| Samsung SSD 970 EVO 1TB                           | 2        | 2.02%   |
+| XPG GAMMIX S50 1TB                                | 1        | 1.01%   |
+| WDC WDS512G1X0C-00ENX0 512GB                      | 1        | 1.01%   |
+| WDC WDS500G3XHC-00SJG0 500GB                      | 1        | 1.01%   |
+| WDC WDS500G3X0C-00SJG0 500GB                      | 1        | 1.01%   |
+| WDC WDS500G2B0B-00YS70 500GB SSD                  | 1        | 1.01%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD                  | 1        | 1.01%   |
+| WDC WD800JD-00MSA1 80GB                           | 1        | 1.01%   |
+| WDC WD7500BPKT-75PK4T0 752GB                      | 1        | 1.01%   |
+| WDC WD6400AAKS-22A7B2 640GB                       | 1        | 1.01%   |
+| WDC WD5000AAVS-00ZTB0 500GB                       | 1        | 1.01%   |
+| WDC WD5000AAKX-60U6AA0 500GB                      | 1        | 1.01%   |
+| WDC WD40EZRZ-22GXCB0 4TB                          | 1        | 1.01%   |
+| WDC WD2500BEVT-60ZCT1 250GB                       | 1        | 1.01%   |
+| WDC WD20EZRZ-60Z5HB0 2TB                          | 1        | 1.01%   |
+| WDC WD20EZBX-00AYRA0 2TB                          | 1        | 1.01%   |
+| WDC WD2003FZEX-00SRLA0 2TB                        | 1        | 1.01%   |
+| WDC WD15EADS-11R6B1 1TB                           | 1        | 1.01%   |
+| WDC WD10EZEX-60WN4A0 1TB                          | 1        | 1.01%   |
+| WDC WD10EZEX-22MFCA0 1TB                          | 1        | 1.01%   |
+| WDC WD10EZEX-00KUWA0 1TB                          | 1        | 1.01%   |
+| WDC WD10EAVS-00D7B1 1TB                           | 1        | 1.01%   |
+| WDC WD1002FAEX-00Z3A0 1TB                         | 1        | 1.01%   |
+| Unknown MMC Card  4GB                             | 1        | 1.01%   |
+| Unknown MMC Card  128GB                           | 1        | 1.01%   |
+| Transcend TS120GSSD220S 120GB                     | 1        | 1.01%   |
+| Toshiba MQ04ABF100 1TB                            | 1        | 1.01%   |
+| Toshiba MQ01ABD100 1TB                            | 1        | 1.01%   |
+| Toshiba MK4058GSX 400GB                           | 1        | 1.01%   |
+| Toshiba HDWR160 6TB                               | 1        | 1.01%   |
+| Toshiba HDWE160 6TB                               | 1        | 1.01%   |
+| Toshiba DT01ACA300 3TB                            | 1        | 1.01%   |
+| SK hynix HFM256GDJTNG-8310A 256GB                 | 1        | 1.01%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 1.01%   |
+| Seagate ST9500420AS 500GB                         | 1        | 1.01%   |
+| Seagate ST8000AS0002-1NA17Z 8TB                   | 1        | 1.01%   |
+| Seagate ST3500418AS 500GB                         | 1        | 1.01%   |
 
 HDD Vendor
 ----------
@@ -1018,8 +1019,8 @@ Size of hard drive
 | 0.01-0.5   | 22       | 37     | 39.29%  |
 | 0.51-1.0   | 19       | 28     | 33.93%  |
 | 1.01-2.0   | 8        | 11     | 14.29%  |
-| 4.01-10.0  | 4        | 7      | 7.14%   |
-| 3.01-4.0   | 2        | 2      | 3.57%   |
+| 4.01-10.0  | 5        | 8      | 8.93%   |
+| 3.01-4.0   | 1        | 1      | 1.79%   |
 | 2.01-3.0   | 1        | 1      | 1.79%   |
 
 Space Total
@@ -1229,7 +1230,7 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                          | 1        | 1.54%   |
 | AMD 500 Series Chipset SATA Controller                                         | 1        | 1.54%   |
 | AMD 300 Series Chipset SATA Controller                                         | 1        | 1.54%   |
-| ADATA Non-Volatile memory controller                                           | 1        | 1.54%   |
+| ADATA XPG GAMMIX S50 NVMe SSD                                                  | 1        | 1.54%   |
 
 Storage Kind
 ------------
@@ -1576,48 +1577,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics S34J55x SAM0F70 3440x1440 797x333mm 34.0-inch     | 2        | 4.76%   |
-| Samsung Electronics SyncMaster SAM0524 1920x1080 477x268mm 21.5-inch  | 1        | 2.38%   |
-| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch  | 1        | 2.38%   |
-| Samsung Electronics LCD Monitor SAM0B60 1920x1080 887x500mm 40.1-inch | 1        | 2.38%   |
-| Samsung Electronics LCD Monitor SAM07D6 1920x1080 530x300mm 24.0-inch | 1        | 2.38%   |
-| Samsung Electronics LCD Monitor SAM02EB 1920x540                      | 1        | 2.38%   |
-| Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch   | 1        | 2.38%   |
-| Samsung Electronics C27R50x SAM0F9E 1920x1080 598x336mm 27.0-inch     | 1        | 2.38%   |
-| MSI G24C6 MSI3BA0 1920x1080 521x293mm 23.5-inch                       | 1        | 2.38%   |
-| Kogan HDMI1 KGN3400 3440x1440 796x334mm 34.0-inch                     | 1        | 2.38%   |
-| KOC SXGA85_ANALOG KOC0482 1280x1024 365x292mm 18.4-inch               | 1        | 2.38%   |
-| JRY DP JRY2700 2560x1440 597x336mm 27.0-inch                          | 1        | 2.38%   |
-| Iiyama PL3466WQ IVM761A 3440x1440 797x334mm 34.0-inch                 | 1        | 2.38%   |
-| Iiyama PL2409HD IVM560C 1920x1080 521x293mm 23.5-inch                 | 1        | 2.38%   |
-| Idek Iiyama LCD Monitor PL2760Q 2560x1440                             | 1        | 2.38%   |
-| Hitachi HISENSE HEC002F 3840x2160 1872x1053mm 84.6-inch               | 1        | 2.38%   |
-| Hewlett-Packard E240c HWP327C 1920x1080 510x290mm 23.1-inch           | 1        | 2.38%   |
-| Hewlett-Packard 27w HPN3494 1920x1080 598x336mm 27.0-inch             | 1        | 2.38%   |
-| Goldstar LG ULTRAWIDE GSM76FA 2560x1080 800x340mm 34.2-inch           | 1        | 2.38%   |
-| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                 | 1        | 2.38%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 2.38%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                | 1        | 2.38%   |
-| Goldstar 22EN43 GSM59D8 1920x1080 480x270mm 21.7-inch                 | 1        | 2.38%   |
-| Gigabyte Technology M27Q GBT270D 2560x1440 596x335mm 26.9-inch        | 1        | 2.38%   |
-| FOX FBC TV FOX9C01 1366x768 698x393mm 31.5-inch                       | 1        | 2.38%   |
-| Dell U3219Q DELA124 3840x2160 697x392mm 31.5-inch                     | 1        | 2.38%   |
-| ASUSTek Computer VG279QM AUS278F 1920x1080 598x336mm 27.0-inch        | 1        | 2.38%   |
-| AOC Q2963 AOC2963 2560x1080 673x284mm 28.8-inch                       | 1        | 2.38%   |
-| AOC Q2963 AOC2963 2560x1080 670x280mm 28.6-inch                       | 1        | 2.38%   |
-| AOC 27B2 AOC2702 1920x1080 600x340mm 27.2-inch                        | 1        | 2.38%   |
-| AOC 2460G5 AOC246A 1920x1080 530x300mm 24.0-inch                      | 1        | 2.38%   |
-| Ancor Communications VW246 ACI24F2 1920x1080 531x299mm 24.0-inch      | 1        | 2.38%   |
-| Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch | 1        | 2.38%   |
-| Ancor Communications ROG PG279Q ACI27EC 2560x1440 598x336mm 27.0-inch | 1        | 2.38%   |
-| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch      | 1        | 2.38%   |
-| Ancor Communications ASUS VC239 ACI23C4 1920x1080 509x286mm 23.0-inch | 1        | 2.38%   |
-| Acer X233H ACR0093 1920x1080 510x287mm 23.0-inch                      | 1        | 2.38%   |
-| Acer SB220Q ACR06AB 1920x1080 476x268mm 21.5-inch                     | 1        | 2.38%   |
-| Acer S240HL ACR0289 1920x1080 531x299mm 24.0-inch                     | 1        | 2.38%   |
-| Acer GD245HQ ACR0126 1920x1080 520x290mm 23.4-inch                    | 1        | 2.38%   |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| Samsung Electronics S34J55x SAM0F70 3440x1440 797x333mm 34.0-inch       | 2        | 4.76%   |
+| Samsung Electronics SyncMaster SAM0524 1920x1080 477x268mm 21.5-inch    | 1        | 2.38%   |
+| Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.38%   |
+| Samsung Electronics LCD Monitor SAM0B60 1680x1050 887x500mm 40.1-inch   | 1        | 2.38%   |
+| Samsung Electronics LCD Monitor SAM07D6 1920x1080 530x300mm 24.0-inch   | 1        | 2.38%   |
+| Samsung Electronics LCD Monitor SAM02EB 1920x540                        | 1        | 2.38%   |
+| Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch     | 1        | 2.38%   |
+| Samsung Electronics C27R500 SAM0F9E 1920x1080 598x336mm 27.0-inch       | 1        | 2.38%   |
+| MSI G24C4 MSI3BA0 1920x1080 521x293mm 23.5-inch                         | 1        | 2.38%   |
+| Kogan HDMI1 KGN3400 3440x1440 796x334mm 34.0-inch                       | 1        | 2.38%   |
+| KOC SXGA85_ANALOG KOC0482 1280x1024 365x292mm 18.4-inch                 | 1        | 2.38%   |
+| JRY DP JRY2700 2560x1440 597x336mm 27.0-inch                            | 1        | 2.38%   |
+| Iiyama PL3466WQ IVM761A 3440x1440 797x334mm 34.0-inch                   | 1        | 2.38%   |
+| Iiyama PL2409HD IVM560C 1920x1080 520x290mm 23.4-inch                   | 1        | 2.38%   |
+| Idek Iiyama LCD Monitor PL2760Q 2560x1440                               | 1        | 2.38%   |
+| Hitachi HISENSE HEC002F 3840x2160 1872x1053mm 84.6-inch                 | 1        | 2.38%   |
+| Hewlett-Packard E240c HWP327C 1920x1080 510x290mm 23.1-inch             | 1        | 2.38%   |
+| Hewlett-Packard 27w HPN3494 1920x1080 598x336mm 27.0-inch               | 1        | 2.38%   |
+| Goldstar ULTRAWIDE GSM76FA 2560x1080 531x298mm 24.0-inch                | 1        | 2.38%   |
+| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch             | 1        | 2.38%   |
+| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                   | 1        | 2.38%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 1        | 2.38%   |
+| Goldstar 22EN43 GSM59D8 1920x1080 480x270mm 21.7-inch                   | 1        | 2.38%   |
+| Gigabyte Technology M27Q GBT270D 2560x1440 596x335mm 26.9-inch          | 1        | 2.38%   |
+| FOX FBC TV FOX9C01 1366x768 698x393mm 31.5-inch                         | 1        | 2.38%   |
+| Dell U3219Q DELA124 3840x2160 697x392mm 31.5-inch                       | 1        | 2.38%   |
+| ASUSTek Computer VG279QM AUS278F 1920x1080 598x336mm 27.0-inch          | 1        | 2.38%   |
+| AOC Q2963 AOC2963 2560x1080 670x280mm 28.6-inch                         | 1        | 2.38%   |
+| AOC 2963 AOC2963 2560x1080 673x284mm 28.8-inch                          | 1        | 2.38%   |
+| AOC 27B2 AOC2702 1920x1080 600x340mm 27.2-inch                          | 1        | 2.38%   |
+| AOC 2460G5 AOC246A 1920x1080 530x300mm 24.0-inch                        | 1        | 2.38%   |
+| Ancor Communications VW246 ACI24F2 1920x1080 531x299mm 24.0-inch        | 1        | 2.38%   |
+| Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch   | 1        | 2.38%   |
+| Ancor Communications ROG PG279Q ACI27EC 2560x1440 598x336mm 27.0-inch   | 1        | 2.38%   |
+| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch        | 1        | 2.38%   |
+| Ancor Communications ASUS VC239HE ACI23C4 1920x1080 509x286mm 23.0-inch | 1        | 2.38%   |
+| Acer X233H ACR0093 1920x1080 510x290mm 23.1-inch                        | 1        | 2.38%   |
+| Acer SB220Q ACR06AB 1920x1080 476x268mm 21.5-inch                       | 1        | 2.38%   |
+| Acer S240HL ACR0289 1920x1080 531x299mm 24.0-inch                       | 1        | 2.38%   |
+| Acer GD245HQ ACR0126 1920x1080 520x290mm 23.4-inch                      | 1        | 2.38%   |
 
 Monitor Resolution
 ------------------
@@ -1796,7 +1797,7 @@ Controller models
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                  | 1        | 1.67%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                           | 1        | 1.67%   |
 | Ralink RT2501/RT2573 Wireless Adapter                                     | 1        | 1.67%   |
-| Qualcomm Mobile Router                                                    | 1        | 1.67%   |
+| Qualcomm Redmi Note 8                                                     | 1        | 1.67%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                          | 1        | 1.67%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)            | 1        | 1.67%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet            | 1        | 1.67%   |
@@ -1891,7 +1892,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-V                              | 4        | 10.26%  |
 | Intel Ethernet Connection (7) I219-V                              | 2        | 5.13%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 5.13%   |
-| Qualcomm Mobile Router                                            | 1        | 2.56%   |
+| Qualcomm Redmi Note 8                                             | 1        | 2.56%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 2.56%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.56%   |
 | Intel Ethernet Connection (11) I219-V                             | 1        | 2.56%   |
@@ -2067,7 +2068,7 @@ Sound card models
 | Hewlett-Packard E240C                                                      | 1        | 1.22%   |
 | Generalplus Technology USB Audio Device                                    | 1        | 1.22%   |
 | Corsair VOID Wireless Gaming Dongle                                        | 1        | 1.22%   |
-| Corsair VIRTUOSO SE Wireless Gaming Headset                                | 1        | 1.22%   |
+| Corsair Slipstream Multi-Device Receiver                                   | 1        | 1.22%   |
 | Corsair HS60 PRO Surround USB Sound Adapter                                | 1        | 1.22%   |
 
 Memory
@@ -2104,44 +2105,44 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Kingston RAM KHX2133C14/16G 16GB DIMM DDR4 2176MT/s      | 2        | 5.26%   |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 2        | 5.26%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                | 1        | 2.63%   |
-| Unknown RAM Module 4GB DIMM DDR4 2133MT/s                | 1        | 2.63%   |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                 | 1        | 2.63%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                 | 1        | 2.63%   |
-| Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s        | 1        | 2.63%   |
-| Team RAM TEAMGROUP-UD4-3000 8192MB DIMM DDR4 3067MT/s    | 1        | 2.63%   |
-| Team RAM TEAMGROUP-UD3-1600 4GB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.63%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 1        | 2.63%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s  | 1        | 2.63%   |
-| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1450MT/s     | 1        | 2.63%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s   | 1        | 2.63%   |
-| Samsung RAM Module 8GB DIMM DDR4 2666MT/s                | 1        | 2.63%   |
-| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                | 1        | 2.63%   |
-| PNY RAM 8GBF1X08QFHH36-135-K 8GB DIMM DDR4 2933MT/s      | 1        | 2.63%   |
-| Micron RAM 16KTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
-| Kingston RAM KHX3466C19D4/16G 16GB DIMM DDR4 3467MT/s    | 1        | 2.63%   |
-| G.Skill RAM F4-3600C17-8GTZR 8GB DIMM DDR4 3600MT/s      | 1        | 2.63%   |
-| G.Skill RAM F4-3600C16-8GTZNC 8GB DIMM DDR4 3800MT/s     | 1        | 2.63%   |
-| G.Skill RAM F4-3600C16-16GTZRC 16GB DIMM DDR4 4400MT/s   | 1        | 2.63%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s   | 1        | 2.63%   |
-| G.Skill RAM F4-3200C16-8GTZKW 8GB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
-| G.Skill RAM F4-3200C16-8GTZKO 8GB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
-| G.Skill RAM F4-2666C15-4GVR 4GB DIMM DDR4 2933MT/s       | 1        | 2.63%   |
-| Crucial RAM CT4G4DFS824A.C8FHP 4096MB DIMM DDR4 2400MT/s | 1        | 2.63%   |
-| Crucial RAM CT25664BD160B.C8FN 2GB DIMM DDR3 1333MT/s    | 1        | 2.63%   |
-| Corsair RAM CMW32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s   | 1        | 2.63%   |
-| Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s   | 1        | 2.63%   |
-| Corsair RAM CMK8GX4M2A2666C16 4GB DIMM DDR4 2747MT/s     | 1        | 2.63%   |
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s   | 1        | 2.63%   |
-| Corsair RAM CMK16GX4M2D3000C16 8GB DIMM DDR4 3200MT/s    | 1        | 2.63%   |
-| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s    | 1        | 2.63%   |
-| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s    | 1        | 2.63%   |
-| A-DATA RAM DDR4 2666 8GB DIMM DDR4 2666MT/s              | 1        | 2.63%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Kingston RAM KHX2133C14/16G 16GB DIMM DDR4 2176MT/s       | 2        | 5.26%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 2        | 5.26%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1        | 2.63%   |
+| Unknown RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 2.63%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                  | 1        | 2.63%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                  | 1        | 2.63%   |
+| Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s         | 1        | 2.63%   |
+| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3200MT/s        | 1        | 2.63%   |
+| Team RAM TEAMGROUP-UD3-1600 2GB DIMM DDR3 1600MT/s        | 1        | 2.63%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1        | 2.63%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s   | 1        | 2.63%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1450MT/s      | 1        | 2.63%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s    | 1        | 2.63%   |
+| Samsung RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 2.63%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                 | 1        | 2.63%   |
+| PNY RAM 8GBF1X08QFHH36-135-K 8GB DIMM DDR4 2933MT/s       | 1        | 2.63%   |
+| Micron RAM 16KTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
+| Kingston RAM KHX3466C19D4/16G 16GB DIMM DDR4 3467MT/s     | 1        | 2.63%   |
+| G.Skill RAM F4-3600C17-8GTZR 8GB DIMM DDR4 3600MT/s       | 1        | 2.63%   |
+| G.Skill RAM F4-3600C16-8GTZNC 8GB DIMM DDR4 3800MT/s      | 1        | 2.63%   |
+| G.Skill RAM F4-3600C16-16GTZRC 16GB DIMM DDR4 4400MT/s    | 1        | 2.63%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 1        | 2.63%   |
+| G.Skill RAM F4-3200C16-8GTZKW 8GB DIMM DDR4 3200MT/s      | 1        | 2.63%   |
+| G.Skill RAM F4-3200C16-8GTZKO 8GB DIMM DDR4 3200MT/s      | 1        | 2.63%   |
+| G.Skill RAM F4-2666C15-4GVR 4GB DIMM DDR4 2933MT/s        | 1        | 2.63%   |
+| Crucial RAM CT4G4DFS824A.C8FHP 4096MB DIMM DDR4 2400MT/s  | 1        | 2.63%   |
+| Crucial RAM CT25664BD160B.C8FN 2GB DIMM DDR3 1333MT/s     | 1        | 2.63%   |
+| Corsair RAM CMW32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s    | 1        | 2.63%   |
+| Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s    | 1        | 2.63%   |
+| Corsair RAM CMK8GX4M2A2666C16 4GB DIMM DDR4 2747MT/s      | 1        | 2.63%   |
+| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s    | 1        | 2.63%   |
+| Corsair RAM CMK16GX4M2D3000C16 8GB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
+| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s     | 1        | 2.63%   |
+| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s     | 1        | 2.63%   |
+| A-DATA RAM DDR4 2666 8GB DIMM DDR4 2666MT/s               | 1        | 2.63%   |
 
 Memory Kind
 -----------
@@ -2196,7 +2197,7 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 3200  | 4        | 12.12%  |
+| 3200  | 5        | 15.15%  |
 | 3600  | 3        | 9.09%   |
 | 2933  | 3        | 9.09%   |
 | 1600  | 3        | 9.09%   |
@@ -2209,7 +2210,6 @@ Memory module speed
 | 4133  | 1        | 3.03%   |
 | 3800  | 1        | 3.03%   |
 | 3467  | 1        | 3.03%   |
-| 3067  | 1        | 3.03%   |
 | 2747  | 1        | 3.03%   |
 | 2400  | 1        | 3.03%   |
 | 2133  | 1        | 3.03%   |

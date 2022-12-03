@@ -730,8 +730,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 33        | 56.9%   |
-| Yes       | 25        | 43.1%   |
+| No        | 32        | 55.17%  |
+| Yes       | 26        | 44.83%  |
 
 Has Ethernet
 ------------
@@ -926,7 +926,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.52%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.52%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.52%   |
-| TO Exter nal USB 3.0 1TB                     | 1         | 1.52%   |
+| TO Exter nal USB 3.0 512GB                   | 1         | 1.52%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.52%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.52%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.52%   |
@@ -1580,7 +1580,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.69%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.69%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch  | 1         | 1.69%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch  | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.69%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.69%   |
@@ -1596,11 +1596,11 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch           | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch               | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch              | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN4031 1280x800 286x179mm 13.3-inch               | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch               | 1         | 1.69%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.69%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.69%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.69%   |
-| Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                   | 1         | 1.69%   |
+| Goldstar W1952 GSM4B77 1440x900 410x260mm 19.1-inch                   | 1         | 1.69%   |
 | Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                  | 1         | 1.69%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                | 1         | 1.69%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1         | 1.69%   |
@@ -1802,7 +1802,7 @@ Controller models
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                   | 3         | 3.13%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 3.13%   |
 | Intel WiFi Link 5100                                                    | 3         | 3.13%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 2.08%   |
+| TP-Link 802.11ac WLAN Adapter                                           | 2         | 2.08%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 2.08%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 2.08%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 2.08%   |
@@ -1816,9 +1816,9 @@ Controller models
 | TP-Link USB 10/100 LAN                                                  | 1         | 1.04%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.04%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 1.04%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.04%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.04%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 1.04%   |
+| Realtek 802.11n                                                         | 1         | 1.04%   |
 | Realtek 802.11ac NIC                                                    | 1         | 1.04%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 1.04%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                           | 1         | 1.04%   |
@@ -1867,7 +1867,7 @@ Wireless models
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 5.77%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 5.77%   |
 | Intel WiFi Link 5100                                                    | 3         | 5.77%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 2         | 3.85%   |
+| TP-Link 802.11ac WLAN Adapter                                           | 2         | 3.85%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 3.85%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                  | 2         | 3.85%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2         | 3.85%   |
@@ -1878,9 +1878,9 @@ Wireless models
 | Intel Centrino Ultimate-N 6300                                          | 2         | 3.85%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.92%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1         | 1.92%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.92%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.92%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                              | 1         | 1.92%   |
+| Realtek 802.11n                                                         | 1         | 1.92%   |
 | Realtek 802.11ac NIC                                                    | 1         | 1.92%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 1.92%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 1.92%   |
@@ -2134,11 +2134,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Computers | Percent |
-|-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
+| Model                                                    | Computers | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s           | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s     | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2217,10 +2217,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Computers | Percent |
-|----------------------------|-----------|---------|
-| Seiko Epson ET-2710 Series | 1         | 50%     |
-| HP LaserJet 1012           | 1         | 50%     |
+| Model                    | Computers | Percent |
+|--------------------------|-----------|---------|
+| Seiko Epson L3150 Series | 1         | 50%     |
+| HP LaserJet 1012         | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2284,7 +2284,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 WebCamera                           | 6         | 17.65%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 17.65%  |
 | Lenovo UVC Camera                                       | 3         | 8.82%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.88%   |
 | Lite-On Integrated Camera                               | 2         | 5.88%   |
@@ -2295,8 +2295,8 @@ Camera device models
 | Sunplus HD WebCam                                       | 1         | 2.94%   |
 | Realtek WebCamera                                       | 1         | 2.94%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.94%   |
+| Realtek USB Camera                                      | 1         | 2.94%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.94%   |
-| Realtek 2SF022                                          | 1         | 2.94%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.94%   |
 | Microdia HP Webcam                                      | 1         | 2.94%   |
 | Importek HP Webcam                                      | 1         | 2.94%   |

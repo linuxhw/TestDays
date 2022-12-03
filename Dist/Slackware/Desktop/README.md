@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 65
+Total: 66
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo     | 31900058 STD                | [1408b2dc5f](https://linux-hardware.org/?probe=1408b2dc5f) | Nov 18, 2022 |
 | HP         | 3031h                       | [b6849a29a2](https://linux-hardware.org/?probe=b6849a29a2) | Sep 24, 2022 |
 | HP         | 3031h                       | [40160588bb](https://linux-hardware.org/?probe=40160588bb) | Sep 20, 2022 |
 | MSI        | H110M PRO-VD                | [2299dc1786](https://linux-hardware.org/?probe=2299dc1786) | Sep 17, 2022 |
@@ -264,46 +265,46 @@ Version of the Linux kernel
 
 | Version              | Desktops | Percent |
 |----------------------|----------|---------|
-| 5.10.28-Unraid       | 5        | 8.77%   |
-| 5.15.19              | 4        | 7.02%   |
-| 4.19.80              | 4        | 7.02%   |
-| 4.4.190              | 3        | 5.26%   |
-| 5.15.30-Unraid       | 2        | 3.51%   |
-| 5.15.27              | 2        | 3.51%   |
-| 4.4.240              | 2        | 3.51%   |
-| 5.4.77               | 1        | 1.75%   |
-| 5.4.53-APRL          | 1        | 1.75%   |
-| 5.4.43               | 1        | 1.75%   |
-| 5.4.0-rc2-vto        | 1        | 1.75%   |
-| 5.17.2               | 1        | 1.75%   |
-| 5.17.0-custom        | 1        | 1.75%   |
-| 5.16.18              | 1        | 1.75%   |
-| 5.16.13              | 1        | 1.75%   |
-| 5.16.11              | 1        | 1.75%   |
-| 5.15.63              | 1        | 1.75%   |
-| 5.15.6               | 1        | 1.75%   |
-| 5.15.50-cwl          | 1        | 1.75%   |
-| 5.15.38              | 1        | 1.75%   |
-| 5.15.14              | 1        | 1.75%   |
-| 5.15.13              | 1        | 1.75%   |
-| 5.14.15-Unraid       | 1        | 1.75%   |
-| 5.14.15              | 1        | 1.75%   |
-| 5.14.12              | 1        | 1.75%   |
-| 5.14.11              | 1        | 1.75%   |
-| 5.13.9-jw            | 1        | 1.75%   |
-| 5.13.12              | 1        | 1.75%   |
-| 5.12.12              | 1        | 1.75%   |
-| 5.10.44-slack64-host | 1        | 1.75%   |
-| 5.10.40              | 1        | 1.75%   |
-| 5.10.3               | 1        | 1.75%   |
-| 4.9.248.a            | 1        | 1.75%   |
-| 4.9.118              | 1        | 1.75%   |
-| 4.4.261              | 1        | 1.75%   |
-| 4.4.189              | 1        | 1.75%   |
-| 4.4.14               | 1        | 1.75%   |
-| 4.20.11              | 1        | 1.75%   |
-| 4.19.98-Unraid       | 1        | 1.75%   |
-| 4.19.88-Unraid       | 1        | 1.75%   |
+| 5.10.28-Unraid       | 5        | 8.62%   |
+| 5.15.19              | 4        | 6.9%    |
+| 4.19.80              | 4        | 6.9%    |
+| 4.4.190              | 3        | 5.17%   |
+| 5.15.63              | 2        | 3.45%   |
+| 5.15.30-Unraid       | 2        | 3.45%   |
+| 5.15.27              | 2        | 3.45%   |
+| 4.4.240              | 2        | 3.45%   |
+| 5.4.77               | 1        | 1.72%   |
+| 5.4.53-APRL          | 1        | 1.72%   |
+| 5.4.43               | 1        | 1.72%   |
+| 5.4.0-rc2-vto        | 1        | 1.72%   |
+| 5.17.2               | 1        | 1.72%   |
+| 5.17.0-custom        | 1        | 1.72%   |
+| 5.16.18              | 1        | 1.72%   |
+| 5.16.13              | 1        | 1.72%   |
+| 5.16.11              | 1        | 1.72%   |
+| 5.15.6               | 1        | 1.72%   |
+| 5.15.50-cwl          | 1        | 1.72%   |
+| 5.15.38              | 1        | 1.72%   |
+| 5.15.14              | 1        | 1.72%   |
+| 5.15.13              | 1        | 1.72%   |
+| 5.14.15-Unraid       | 1        | 1.72%   |
+| 5.14.15              | 1        | 1.72%   |
+| 5.14.12              | 1        | 1.72%   |
+| 5.14.11              | 1        | 1.72%   |
+| 5.13.9-jw            | 1        | 1.72%   |
+| 5.13.12              | 1        | 1.72%   |
+| 5.12.12              | 1        | 1.72%   |
+| 5.10.44-slack64-host | 1        | 1.72%   |
+| 5.10.40              | 1        | 1.72%   |
+| 5.10.3               | 1        | 1.72%   |
+| 4.9.248.a            | 1        | 1.72%   |
+| 4.9.118              | 1        | 1.72%   |
+| 4.4.261              | 1        | 1.72%   |
+| 4.4.189              | 1        | 1.72%   |
+| 4.4.14               | 1        | 1.72%   |
+| 4.20.11              | 1        | 1.72%   |
+| 4.19.98-Unraid       | 1        | 1.72%   |
+| 4.19.88-Unraid       | 1        | 1.72%   |
 
 Kernel Family
 -------------
@@ -315,46 +316,46 @@ Linux kernel without a distro release
 
 | Version  | Desktops | Percent |
 |----------|----------|---------|
-| 5.10.28  | 5        | 8.77%   |
-| 5.15.19  | 4        | 7.02%   |
-| 4.19.80  | 4        | 7.02%   |
-| 4.4.190  | 3        | 5.26%   |
-| 5.15.30  | 2        | 3.51%   |
-| 5.15.27  | 2        | 3.51%   |
-| 5.14.15  | 2        | 3.51%   |
-| 4.4.240  | 2        | 3.51%   |
-| 5.4.77   | 1        | 1.75%   |
-| 5.4.53   | 1        | 1.75%   |
-| 5.4.43   | 1        | 1.75%   |
-| 5.4.0    | 1        | 1.75%   |
-| 5.17.2   | 1        | 1.75%   |
-| 5.17.0   | 1        | 1.75%   |
-| 5.16.18  | 1        | 1.75%   |
-| 5.16.13  | 1        | 1.75%   |
-| 5.16.11  | 1        | 1.75%   |
-| 5.15.63  | 1        | 1.75%   |
-| 5.15.6   | 1        | 1.75%   |
-| 5.15.50  | 1        | 1.75%   |
-| 5.15.38  | 1        | 1.75%   |
-| 5.15.14  | 1        | 1.75%   |
-| 5.15.13  | 1        | 1.75%   |
-| 5.14.12  | 1        | 1.75%   |
-| 5.14.11  | 1        | 1.75%   |
-| 5.13.9   | 1        | 1.75%   |
-| 5.13.12  | 1        | 1.75%   |
-| 5.12.12  | 1        | 1.75%   |
-| 5.10.44  | 1        | 1.75%   |
-| 5.10.40  | 1        | 1.75%   |
-| 5.10.3   | 1        | 1.75%   |
-| 4.9.248  | 1        | 1.75%   |
-| 4.9.118  | 1        | 1.75%   |
-| 4.4.261  | 1        | 1.75%   |
-| 4.4.189  | 1        | 1.75%   |
-| 4.4.14   | 1        | 1.75%   |
-| 4.20.11  | 1        | 1.75%   |
-| 4.19.98  | 1        | 1.75%   |
-| 4.19.88  | 1        | 1.75%   |
-| 4.19.107 | 1        | 1.75%   |
+| 5.10.28  | 5        | 8.62%   |
+| 5.15.19  | 4        | 6.9%    |
+| 4.19.80  | 4        | 6.9%    |
+| 4.4.190  | 3        | 5.17%   |
+| 5.15.63  | 2        | 3.45%   |
+| 5.15.30  | 2        | 3.45%   |
+| 5.15.27  | 2        | 3.45%   |
+| 5.14.15  | 2        | 3.45%   |
+| 4.4.240  | 2        | 3.45%   |
+| 5.4.77   | 1        | 1.72%   |
+| 5.4.53   | 1        | 1.72%   |
+| 5.4.43   | 1        | 1.72%   |
+| 5.4.0    | 1        | 1.72%   |
+| 5.17.2   | 1        | 1.72%   |
+| 5.17.0   | 1        | 1.72%   |
+| 5.16.18  | 1        | 1.72%   |
+| 5.16.13  | 1        | 1.72%   |
+| 5.16.11  | 1        | 1.72%   |
+| 5.15.6   | 1        | 1.72%   |
+| 5.15.50  | 1        | 1.72%   |
+| 5.15.38  | 1        | 1.72%   |
+| 5.15.14  | 1        | 1.72%   |
+| 5.15.13  | 1        | 1.72%   |
+| 5.14.12  | 1        | 1.72%   |
+| 5.14.11  | 1        | 1.72%   |
+| 5.13.9   | 1        | 1.72%   |
+| 5.13.12  | 1        | 1.72%   |
+| 5.12.12  | 1        | 1.72%   |
+| 5.10.44  | 1        | 1.72%   |
+| 5.10.40  | 1        | 1.72%   |
+| 5.10.3   | 1        | 1.72%   |
+| 4.9.248  | 1        | 1.72%   |
+| 4.9.118  | 1        | 1.72%   |
+| 4.4.261  | 1        | 1.72%   |
+| 4.4.189  | 1        | 1.72%   |
+| 4.4.14   | 1        | 1.72%   |
+| 4.20.11  | 1        | 1.72%   |
+| 4.19.98  | 1        | 1.72%   |
+| 4.19.88  | 1        | 1.72%   |
+| 4.19.107 | 1        | 1.72%   |
 
 Kernel Major Ver.
 -----------------
@@ -366,18 +367,18 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.15    | 14       | 24.56%  |
-| 5.10    | 8        | 14.04%  |
-| 4.4     | 8        | 14.04%  |
-| 4.19    | 8        | 14.04%  |
-| 5.4     | 4        | 7.02%   |
-| 5.14    | 4        | 7.02%   |
-| 5.16    | 3        | 5.26%   |
-| 5.17    | 2        | 3.51%   |
-| 5.13    | 2        | 3.51%   |
-| 4.9     | 2        | 3.51%   |
-| 5.12    | 1        | 1.75%   |
-| 4.20    | 1        | 1.75%   |
+| 5.15    | 15       | 25.86%  |
+| 5.10    | 8        | 13.79%  |
+| 4.4     | 8        | 13.79%  |
+| 4.19    | 8        | 13.79%  |
+| 5.4     | 4        | 6.9%    |
+| 5.14    | 4        | 6.9%    |
+| 5.16    | 3        | 5.17%   |
+| 5.17    | 2        | 3.45%   |
+| 5.13    | 2        | 3.45%   |
+| 4.9     | 2        | 3.45%   |
+| 5.12    | 1        | 1.72%   |
+| 4.20    | 1        | 1.72%   |
 
 Arch
 ----
@@ -404,7 +405,7 @@ Desktop Environment
 | Unknown | 23       | 41.07%  |
 | XFCE    | 16       | 28.57%  |
 | KDE5    | 13       | 23.21%  |
-| fvwm    | 2        | 3.57%   |
+| FVWM    | 2        | 3.57%   |
 | MATE    | 1        | 1.79%   |
 | KDE     | 1        | 1.79%   |
 
@@ -433,11 +434,11 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 22       | 39.29%  |
-| SDDM    | 17       | 30.36%  |
-| XDM     | 13       | 23.21%  |
-| SLiM    | 2        | 3.57%   |
-| LightDM | 2        | 3.57%   |
+| Unknown | 22       | 38.6%   |
+| SDDM    | 17       | 29.82%  |
+| XDM     | 14       | 24.56%  |
+| SLiM    | 2        | 3.51%   |
+| LightDM | 2        | 3.51%   |
 
 OS Lang
 -------
@@ -777,17 +778,17 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 3      | 13       | 23.21%  |
-| 1      | 13       | 23.21%  |
-| 2      | 8        | 14.29%  |
-| 4      | 7        | 12.5%   |
-| 5      | 5        | 8.93%   |
-| 6      | 4        | 7.14%   |
-| 0      | 2        | 3.57%   |
-| 13     | 1        | 1.79%   |
-| 9      | 1        | 1.79%   |
-| 8      | 1        | 1.79%   |
-| 7      | 1        | 1.79%   |
+| 1      | 14       | 24.56%  |
+| 3      | 13       | 22.81%  |
+| 2      | 8        | 14.04%  |
+| 4      | 7        | 12.28%  |
+| 5      | 5        | 8.77%   |
+| 6      | 4        | 7.02%   |
+| 0      | 2        | 3.51%   |
+| 13     | 1        | 1.75%   |
+| 9      | 1        | 1.75%   |
+| 8      | 1        | 1.75%   |
+| 7      | 1        | 1.75%   |
 
 Has CD-ROM
 ----------
@@ -799,8 +800,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 31       | 56.36%  |
-| No        | 24       | 43.64%  |
+| Yes       | 32       | 57.14%  |
+| No        | 24       | 42.86%  |
 
 Has Ethernet
 ------------
@@ -941,7 +942,7 @@ Hard drive vendors
 | Samsung Electronics | 15       | 26     | 13.89%  |
 | Toshiba             | 9        | 18     | 8.33%   |
 | Hitachi             | 8        | 11     | 7.41%   |
-| Kingston            | 5        | 7      | 4.63%   |
+| Kingston            | 5        | 8      | 4.63%   |
 | Crucial             | 3        | 3      | 2.78%   |
 | A-DATA Technology   | 3        | 3      | 2.78%   |
 | Intel               | 2        | 2      | 1.85%   |
@@ -1042,7 +1043,7 @@ Solid state drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 8        | 14     | 27.59%  |
-| Kingston            | 5        | 7      | 17.24%  |
+| Kingston            | 5        | 8      | 17.24%  |
 | Crucial             | 3        | 3      | 10.34%  |
 | China               | 2        | 3      | 6.9%    |
 | ZHITAI              | 1        | 1      | 3.45%   |
@@ -1068,7 +1069,7 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 44       | 126    | 51.16%  |
-| SSD     | 26       | 40     | 30.23%  |
+| SSD     | 26       | 41     | 30.23%  |
 | NVMe    | 15       | 18     | 17.44%  |
 | Unknown | 1        | 4      | 1.16%   |
 
@@ -1082,7 +1083,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 49       | 161    | 74.24%  |
+| SATA | 49       | 162    | 74.24%  |
 | NVMe | 15       | 18     | 22.73%  |
 | SAS  | 2        | 9      | 3.03%   |
 
@@ -1096,7 +1097,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 62     | 40.45%  |
+| 0.01-0.5   | 36       | 63     | 40.45%  |
 | 0.51-1.0   | 22       | 45     | 24.72%  |
 | 1.01-2.0   | 12       | 18     | 13.48%  |
 | 2.01-3.0   | 7        | 15     | 7.87%   |
@@ -1114,16 +1115,16 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 501-1000       | 12       | 21.43%  |
-| Unknown        | 10       | 17.86%  |
-| 101-250        | 8        | 14.29%  |
-| 2001-3000      | 6        | 10.71%  |
-| 1001-2000      | 6        | 10.71%  |
-| 251-500        | 5        | 8.93%   |
-| More than 3000 | 3        | 5.36%   |
-| 1-20           | 3        | 5.36%   |
-| 51-100         | 2        | 3.57%   |
-| 21-50          | 1        | 1.79%   |
+| 501-1000       | 12       | 21.05%  |
+| Unknown        | 10       | 17.54%  |
+| 101-250        | 9        | 15.79%  |
+| 2001-3000      | 6        | 10.53%  |
+| 1001-2000      | 6        | 10.53%  |
+| 251-500        | 5        | 8.77%   |
+| More than 3000 | 3        | 5.26%   |
+| 1-20           | 3        | 5.26%   |
+| 51-100         | 2        | 3.51%   |
+| 21-50          | 1        | 1.75%   |
 
 Space Used
 ----------
@@ -1135,15 +1136,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 101-250        | 14       | 25.45%  |
-| Unknown        | 10       | 18.18%  |
-| 501-1000       | 8        | 14.55%  |
-| 1-20           | 6        | 10.91%  |
-| 251-500        | 5        | 9.09%   |
-| 51-100         | 4        | 7.27%   |
-| More than 3000 | 3        | 5.45%   |
-| 1001-2000      | 3        | 5.45%   |
-| 21-50          | 2        | 3.64%   |
+| 101-250        | 14       | 25%     |
+| Unknown        | 10       | 17.86%  |
+| 501-1000       | 8        | 14.29%  |
+| 1-20           | 6        | 10.71%  |
+| 251-500        | 5        | 8.93%   |
+| 51-100         | 4        | 7.14%   |
+| More than 3000 | 3        | 5.36%   |
+| 21-50          | 3        | 5.36%   |
+| 1001-2000      | 3        | 5.36%   |
 
 Malfunc. Drives
 ---------------
@@ -1258,7 +1259,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 46       | 132    | 61.33%  |
+| Works    | 46       | 133    | 61.33%  |
 | Malfunc  | 24       | 40     | 32%     |
 | Detected | 5        | 16     | 6.67%   |
 
@@ -1323,7 +1324,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                              | 2        | 1.8%    |
 | Yangtze Memory Non-Volatile memory controller                                 | 1        | 0.9%    |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                          | 1        | 0.9%    |
-| SK hynix Gold P31 SSD                                                         | 1        | 0.9%    |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                | 1        | 0.9%    |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller              | 1        | 0.9%    |
 | SanDisk WD Blue SN550 NVMe SSD                                                | 1        | 0.9%    |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1        | 0.9%    |
@@ -1757,7 +1758,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 1        | 1.69%   |
+| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 1        | 1.69%   |
 | Wacom Cintiq 22HDT WAC1037 1920x1080 476x268mm 21.5-inch             | 1        | 1.69%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 1.69%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 1.69%   |
@@ -1774,10 +1775,10 @@ Monitor models
 | ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1        | 1.69%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1        | 1.69%   |
 | Lenovo LEN L171p LEN24C9 1280x1024 338x270mm 17.0-inch               | 1        | 1.69%   |
-| Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1        | 1.69%   |
+| Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1        | 1.69%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1        | 1.69%   |
 | IOD LCD-GL211X IOD151D 1920x1080 458x258mm 20.7-inch                 | 1        | 1.69%   |
-| Iiyama PLE2207WS IVM5609 1680x1050 465x291mm 21.6-inch               | 1        | 1.69%   |
+| Iiyama PLE2207WS IVM5609 1680x1050 474x296mm 22.0-inch               | 1        | 1.69%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1        | 1.69%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch           | 1        | 1.69%   |
 | Hewlett-Packard x23LED HWP2912 1920x1080 510x290mm 23.1-inch         | 1        | 1.69%   |
@@ -1996,12 +1997,12 @@ Controller models
 | VIA VT6105/VT6106S [Rhine-III]                                             | 1        | 1.11%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                | 1        | 1.11%   |
 | TP-Link RTL8812AU Archer T4U 802.11ac                                      | 1        | 1.11%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 1        | 1.11%   |
+| TP-Link 802.11ac WLAN Adapter                                              | 1        | 1.11%   |
 | Realtek USB 10/100/1G/2.5G LAN                                             | 1        | 1.11%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                    | 1        | 1.11%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                      | 1        | 1.11%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                  | 1        | 1.11%   |
-| Qualcomm Mobile Router                                                     | 1        | 1.11%   |
+| Qualcomm Redmi Note 8                                                      | 1        | 1.11%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                  | 1        | 1.11%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                           | 1        | 1.11%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)             | 1        | 1.11%   |
@@ -2054,7 +2055,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                           | 2        | 10%     |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                | 1        | 5%      |
 | TP-Link RTL8812AU Archer T4U 802.11ac                                      | 1        | 5%      |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 1        | 5%      |
+| TP-Link 802.11ac WLAN Adapter                                              | 1        | 5%      |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                    | 1        | 5%      |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                  | 1        | 5%      |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                           | 1        | 5%      |
@@ -2109,7 +2110,7 @@ Ethernet models
 | VIA VT6105/VT6106S [Rhine-III]                                                | 1        | 1.43%   |
 | Realtek USB 10/100/1G/2.5G LAN                                                | 1        | 1.43%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.43%   |
-| Qualcomm Mobile Router                                                        | 1        | 1.43%   |
+| Qualcomm Redmi Note 8                                                         | 1        | 1.43%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 1        | 1.43%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 1.43%   |
 | Nvidia MCP79 Ethernet                                                         | 1        | 1.43%   |
@@ -2262,7 +2263,7 @@ Sound card models
 | Nvidia GP106 High Definition Audio Controller                                                     | 3        | 2.97%   |
 | Nvidia GF108 High Definition Audio Controller                                                     | 3        | 2.97%   |
 | Intel 9 Series Chipset Family HD Audio Controller                                                 | 3        | 2.97%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                                     | 3        | 2.97%   |
+| Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus]   | 3        | 2.97%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 3        | 2.97%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 3        | 2.97%   |
 | Nvidia MCP61 High Definition Audio                                                                | 2        | 1.98%   |
@@ -2339,8 +2340,7 @@ Memory module models
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 2.9%    |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s         | 2        | 2.9%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s          | 2        | 2.9%    |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s         | 2        | 2.9%    |
 | Unknown RAM Module 4GB DIMM DDR3 1066MT/s                   | 1        | 1.45%   |
 | Unknown RAM Module 4096MB DIMM DDR3 65535MT/s               | 1        | 1.45%   |
 | Unknown RAM Module 2048MB DIMM DDR 800MT/s                  | 1        | 1.45%   |
@@ -2349,6 +2349,8 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 667MT/s                      | 1        | 1.45%   |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s           | 1        | 1.45%   |
 | Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 1.45%   |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3733MT/s          | 1        | 1.45%   |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s         | 1        | 1.45%   |
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.45%   |
 | SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.45%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1        | 1.45%   |
@@ -2363,21 +2365,20 @@ Memory module models
 | Samsung RAM M393A2G40DB0-CPB 16GB RIMM DDR4 2133MT/s        | 1        | 1.45%   |
 | Samsung RAM M393A1K43BB0-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.45%   |
 | Samsung RAM M393A1G43EB1-CRC 8GB DIMM DDR4 2400MT/s         | 1        | 1.45%   |
-| Samsung RAM M378B5173EB0-CK0 4096MB DIMM DDR3 1600MT/s      | 1        | 1.45%   |
+| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s         | 1        | 1.45%   |
 | Micron RAM 36KSF1G72PZ-1G4K1 8192MB DIMM DDR3 1333MT/s      | 1        | 1.45%   |
 | Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s         | 1        | 1.45%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s        | 1        | 1.45%   |
 | Kingston RAM Module 2048MB FB-DIMM DDR2 667MT/s             | 1        | 1.45%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.45%   |
 | Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.45%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.45%   |
+| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s     | 1        | 1.45%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 1        | 1.45%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s         | 1        | 1.45%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s      | 1        | 1.45%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s         | 1        | 1.45%   |
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 975MT/s      | 1        | 1.45%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s    | 1        | 1.45%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.45%   |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM 1600MT/s            | 1        | 1.45%   |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.45%   |
 
 Memory Kind
 -----------
@@ -2439,20 +2440,22 @@ Memory module speed
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
 | 1600    | 13       | 22.41%  |
-| 3600    | 6        | 10.34%  |
+| 3600    | 5        | 8.62%   |
 | 2400    | 5        | 8.62%   |
 | 1333    | 5        | 8.62%   |
 | 667     | 4        | 6.9%    |
 | 3800    | 3        | 5.17%   |
 | 3200    | 2        | 3.45%   |
-| 2667    | 2        | 3.45%   |
 | 2666    | 2        | 3.45%   |
 | 2133    | 2        | 3.45%   |
 | 1867    | 2        | 3.45%   |
 | 1866    | 2        | 3.45%   |
 | Unknown | 2        | 3.45%   |
 | 65535   | 1        | 1.72%   |
+| 3733    | 1        | 1.72%   |
 | 2933    | 1        | 1.72%   |
+| 2800    | 1        | 1.72%   |
+| 2667    | 1        | 1.72%   |
 | 2472    | 1        | 1.72%   |
 | 2187    | 1        | 1.72%   |
 | 2000    | 1        | 1.72%   |
@@ -2537,7 +2540,8 @@ Camera device vendors
 
 | Vendor   | Desktops | Percent |
 |----------|----------|---------|
-| Logitech | 9        | 100%    |
+| Logitech | 9        | 90%     |
+| Microdia | 1        | 10%     |
 
 Camera Model
 ------------
@@ -2549,14 +2553,15 @@ Camera device models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| Logitech Webcam C270            | 2        | 22.22%  |
-| Logitech Webcam C310            | 1        | 11.11%  |
-| Logitech Webcam C300            | 1        | 11.11%  |
-| Logitech Webcam C170            | 1        | 11.11%  |
-| Logitech QuickCam Pro 9000      | 1        | 11.11%  |
-| Logitech HD Webcam C525         | 1        | 11.11%  |
-| Logitech HD Pro Webcam C920     | 1        | 11.11%  |
-| Logitech C922 Pro Stream Webcam | 1        | 11.11%  |
+| Logitech Webcam C270            | 2        | 20%     |
+| Microdia Camera                 | 1        | 10%     |
+| Logitech Webcam C310            | 1        | 10%     |
+| Logitech Webcam C300            | 1        | 10%     |
+| Logitech Webcam C170            | 1        | 10%     |
+| Logitech QuickCam Pro 9000      | 1        | 10%     |
+| Logitech HD Webcam C525         | 1        | 10%     |
+| Logitech HD Pro Webcam C920     | 1        | 10%     |
+| Logitech C922 Pro Stream Webcam | 1        | 10%     |
 
 Security
 --------

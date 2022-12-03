@@ -722,7 +722,7 @@ Hard drive models
 | Samsung HD250HJ 250GB             | 1        | 4.55%   |
 | Samsung HD162GJ 160GB             | 1        | 4.55%   |
 | Samsung HD160JJ 160GB             | 1        | 4.55%   |
-| Samsung HD080HJ 80GB              | 1        | 4.55%   |
+| Samsung HD080HJ/ 80GB             | 1        | 4.55%   |
 | Maxtor Z1 SSD 240GB               | 1        | 4.55%   |
 | Hitachi HTS723232A7A364 320GB     | 1        | 4.55%   |
 | Crucial CT500MX500SSD1 500GB      | 1        | 4.55%   |
@@ -1255,8 +1255,8 @@ Monitor models
 |----------------------------------------------------------------------|----------|---------|
 | Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                  | 1        | 12.5%   |
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch | 1        | 12.5%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 12.5%   |
 | Goldstar M198WA GSM4B36 1440x900 410x260mm 19.1-inch                 | 1        | 12.5%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch          | 1        | 12.5%   |
 | Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                     | 1        | 12.5%   |
 | Acer VG220Q ACR06D8 1920x1080 476x268mm 21.5-inch                    | 1        | 12.5%   |
 | Acer V243H ACR00A3 1920x1080 531x298mm 24.0-inch                     | 1        | 12.5%   |

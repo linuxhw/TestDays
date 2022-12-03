@@ -1003,7 +1003,7 @@ Hard drive models
 | WDC WD30EFZX-68AWUN0 3TB         | 1        | 0.84%   |
 | WDC WD2500BEVT-22A23T0 250GB     | 1        | 0.84%   |
 | WDC WD2500AVJB-63WKA0 250GB      | 1        | 0.84%   |
-| WDC WD2500AAJS-75M0A0 250GB      | 1        | 0.84%   |
+| WDC WD2500AAJS-75M0A0 249GB      | 1        | 0.84%   |
 | WDC WD2500AAJS-00VTA0 250GB      | 1        | 0.84%   |
 | WDC WD20EZRX-00D8PB0 2TB         | 1        | 0.84%   |
 | WDC WD20EURS-63S48Y0 2TB         | 1        | 0.84%   |
@@ -1728,7 +1728,7 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.28%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.28%   |
 | Toshiba TV TSB0206 1920x1080                                            | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
@@ -1738,7 +1738,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 521x293mm 23.5-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.28%   |
-| Samsung Electronics SME1920 SAM06B7 1366x768 410x230mm 18.5-inch        | 1        | 1.28%   |
+| Samsung Electronics SME1920 SAM06B7 1360x768 410x230mm 18.5-inch        | 1        | 1.28%   |
 | Samsung Electronics S22B370 SAM0898 1920x1080 477x268mm 21.5-inch       | 1        | 1.28%   |
 | Samsung Electronics S22B300 SAM08AB 1920x1080 477x268mm 21.5-inch       | 1        | 1.28%   |
 | Samsung Electronics LCD Monitor SyncMaster 2624x1200                    | 1        | 1.28%   |
@@ -1752,7 +1752,7 @@ Monitor models
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.28%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.28%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.28%   |
-| Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.28%   |
+| Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.28%   |
 | KTC 32T72-H-AN KTC3200 1360x768 698x392mm 31.5-inch                     | 1        | 1.28%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch              | 1        | 1.28%   |
@@ -1761,7 +1761,7 @@ Monitor models
 | Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch              | 1        | 1.28%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 1        | 1.28%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch             | 1        | 1.28%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.28%   |
 
 Monitor Resolution
@@ -1981,8 +1981,8 @@ Controller models
 | Gemtek WUBR-177G [Ralink RT2571W]                                             | 3        | 2.29%   |
 | VIA VT6102/VT6103 [Rhine-II]                                                  | 2        | 1.53%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 2        | 1.53%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                         | 2        | 1.53%   |
 | Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                     | 2        | 1.53%   |
+| Realtek 802.11n                                                               | 2        | 1.53%   |
 | Realtek 802.11ac NIC                                                          | 2        | 1.53%   |
 | Qualcomm Atheros AR9271 802.11n                                               | 2        | 1.53%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                              | 2        | 1.53%   |
@@ -2051,8 +2051,8 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                                        | 3        | 6.25%   |
 | Gemtek WUBR-177G [Ralink RT2571W]                                                      | 3        | 6.25%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                        | 2        | 4.17%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                  | 2        | 4.17%   |
 | Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                              | 2        | 4.17%   |
+| Realtek 802.11n                                                                        | 2        | 4.17%   |
 | Realtek 802.11ac NIC                                                                   | 2        | 4.17%   |
 | Qualcomm Atheros AR9271 802.11n                                                        | 2        | 4.17%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                       | 2        | 4.17%   |
@@ -2364,7 +2364,7 @@ Memory module models
 | SK hynix RAM Module 2GB DIMM DDR3 1600MT/s               | 1        | 5.56%   |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s     | 1        | 5.56%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s           | 1        | 5.56%   |
 | Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s         | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 5.56%   |

@@ -960,13 +960,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 13       | 22     | 34.21%  |
-| Seagate             | 12       | 16     | 31.58%  |
-| Hitachi             | 6        | 6      | 15.79%  |
-| Toshiba             | 3        | 3      | 7.89%   |
-| Samsung Electronics | 2        | 2      | 5.26%   |
-| Maxtor              | 1        | 1      | 2.63%   |
-| Fujitsu             | 1        | 1      | 2.63%   |
+| WDC                 | 13       | 22     | 33.33%  |
+| Seagate             | 12       | 16     | 30.77%  |
+| Hitachi             | 6        | 6      | 15.38%  |
+| Toshiba             | 3        | 3      | 7.69%   |
+| Samsung Electronics | 2        | 2      | 5.13%   |
+| Maxtor              | 1        | 1      | 2.56%   |
+| Fujitsu             | 1        | 1      | 2.56%   |
+| ASMT                | 1        | 1      | 2.56%   |
 
 SSD Vendor
 ----------
@@ -978,13 +979,12 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 8        | 10     | 44.44%  |
-| WDC                 | 3        | 3      | 16.67%  |
-| Samsung Electronics | 3        | 5      | 16.67%  |
-| Transcend           | 1        | 2      | 5.56%   |
-| Intel               | 1        | 1      | 5.56%   |
-| China               | 1        | 3      | 5.56%   |
-| ASMT                | 1        | 1      | 5.56%   |
+| Kingston            | 8        | 10     | 47.06%  |
+| WDC                 | 3        | 3      | 17.65%  |
+| Samsung Electronics | 3        | 5      | 17.65%  |
+| Transcend           | 1        | 2      | 5.88%   |
+| Intel               | 1        | 1      | 5.88%   |
+| China               | 1        | 3      | 5.88%   |
 
 Drive Kind
 ----------
@@ -996,8 +996,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 33       | 51     | 64.71%  |
-| SSD     | 15       | 25     | 29.41%  |
+| HDD     | 33       | 52     | 64.71%  |
+| SSD     | 15       | 24     | 29.41%  |
 | NVMe    | 2        | 2      | 3.92%   |
 | Unknown | 1        | 1      | 1.96%   |
 
@@ -1025,8 +1025,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 37       | 63     | 80.43%  |
-| 0.51-1.0   | 5        | 7      | 10.87%  |
+| 0.01-0.5   | 37       | 64     | 80.43%  |
+| 0.51-1.0   | 5        | 6      | 10.87%  |
 | 3.01-4.0   | 1        | 2      | 2.17%   |
 | 2.01-3.0   | 1        | 2      | 2.17%   |
 | 1.01-2.0   | 1        | 1      | 2.17%   |
@@ -1602,7 +1602,7 @@ Monitor models
 | IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 4.88%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 4.88%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.44%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.44%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.44%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.44%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.44%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.44%   |
@@ -1624,15 +1624,15 @@ Monitor models
 | Philips 192EL PHLC04E 1366x768 410x230mm 18.5-inch                     | 1        | 2.44%   |
 | Philips 170S PHL0856 1280x1024 338x270mm 17.0-inch                     | 1        | 2.44%   |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 1        | 2.44%   |
-| Goldstar LG HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch               | 1        | 2.44%   |
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                   | 1        | 2.44%   |
 | Goldstar IPS231 GSM5816 1920x1080 510x290mm 23.1-inch                  | 1        | 2.44%   |
+| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 1        | 2.44%   |
 | Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 2.44%   |
 | Fujitsu Siemens B22W-6 LED FUS07F3 1680x1050 474x296mm 22.0-inch       | 1        | 2.44%   |
 | Fujitsu Siemens A17-1 FUS0565 1280x1024 340x270mm 17.1-inch            | 1        | 2.44%   |
 | Dell S2409W DELA038 1920x1080 531x298mm 24.0-inch                      | 1        | 2.44%   |
 | Dell 2208WFP DEL403C 1680x1050 473x296mm 22.0-inch                     | 1        | 2.44%   |
-| BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                     | 1        | 2.44%   |
+| BenQ ZOWIE XL LCD BNQ7F31 1920x1080 531x298mm 24.0-inch                | 1        | 2.44%   |
 | Belinea b.disp2.1_22W MAX08A0 1680x1050 474x297mm 22.0-inch            | 1        | 2.44%   |
 | ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch           | 1        | 2.44%   |
 | AOC LCD Monitor 24E1W1 1920x1080                                       | 1        | 2.44%   |
@@ -2113,7 +2113,7 @@ Memory module models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s                     | 2        | 9.09%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s                  | 2        | 9.09%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 9.09%   |
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 4.55%   |
 | Unknown RAM Module 2048MB DIMM DDR2 333MT/s                             | 1        | 4.55%   |
@@ -2124,13 +2124,13 @@ Memory module models
 | SK hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 1333MT/s                       | 1        | 4.55%   |
 | SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s                    | 1        | 4.55%   |
 | Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 4.55%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s                    | 1        | 4.55%   |
+| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s                 | 1        | 4.55%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s                       | 1        | 4.55%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                     | 1        | 4.55%   |
 | Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s                   | 1        | 4.55%   |
 | Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 4.55%   |
 | Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 4.55%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s                | 1        | 4.55%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 4.55%   |
 | Kingston RAM 393955353432392D3030372E4130304C4600 2GB DIMM DDR2 800MT/s | 1        | 4.55%   |
 | Corsair RAM CMK16GX4M2B2800C14 8GB DIMM DDR4 2800MT/s                   | 1        | 4.55%   |
 

@@ -632,8 +632,8 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
+| 2014    | 9         | 12.5%   |
 | 2011    | 9         | 12.5%   |
-| 2014    | 8         | 11.11%  |
 | 2013    | 8         | 11.11%  |
 | 2012    | 8         | 11.11%  |
 | 2009    | 6         | 8.33%   |
@@ -644,9 +644,9 @@ Motherboard manufacture year
 | 2006    | 4         | 5.56%   |
 | 2007    | 3         | 4.17%   |
 | 2017    | 2         | 2.78%   |
-| 2016    | 2         | 2.78%   |
 | 2015    | 2         | 2.78%   |
 | 2020    | 1         | 1.39%   |
+| 2016    | 1         | 1.39%   |
 | Unknown | 1         | 1.39%   |
 
 Form Factor
@@ -930,48 +930,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Computers | Percent |
-|--------------------------------------|-----------|---------|
-| WDC WD5000AAKX-001CA0 500GB          | 2         | 1.72%   |
-| WDC WD10EZEX-08WN4A0 1TB             | 2         | 1.72%   |
-| Toshiba MQ01ABF050 500GB             | 2         | 1.72%   |
-| Seagate ST500LM012 HN-M500MBB 500GB  | 2         | 1.72%   |
-| Kingston SV300S37A120G 120GB SSD     | 2         | 1.72%   |
-| ZOTAC ZTSSDPG3-480G-GE 480GB         | 1         | 0.86%   |
-| XPG GAMMIX S11 Pro 1TB               | 1         | 0.86%   |
-| WDC WD60EZRX-00MVLB1 6TB             | 1         | 0.86%   |
-| WDC WD5000LPVX-22V0TT0 500GB         | 1         | 0.86%   |
-| WDC WD5000LPVT-24G33T1 500GB         | 1         | 0.86%   |
-| WDC WD5000AACS-00G8B1 500GB          | 1         | 0.86%   |
-| WDC WD400JD-55MSA1 40GB              | 1         | 0.86%   |
-| WDC WD4001FAEX-00MJRA0 4TB           | 1         | 0.86%   |
-| WDC WD3200BPVT-22JJ5T0 320GB         | 1         | 0.86%   |
-| WDC WD3200BEVT-80A0RT0 320GB         | 1         | 0.86%   |
-| WDC WD2500BEVS-22UST0 250GB          | 1         | 0.86%   |
-| WDC WD20EZRZ-00Z5HB0 2TB             | 1         | 0.86%   |
-| WDC WD20EZRX-00D8PB0 2TB             | 1         | 0.86%   |
-| WDC WD20EARS-00MVWB0 2TB             | 1         | 0.86%   |
-| WDC WD1200BEVS-75UST0 120GB          | 1         | 0.86%   |
-| WDC WD10JPVX-60JC3T1 1TB             | 1         | 0.86%   |
-| WDC WD10JPVX-22JC3T0 1TB             | 1         | 0.86%   |
-| WDC WD10EAVS-00D7B1 1TB              | 1         | 0.86%   |
-| WDC WD10EARX-00N0YB0 1TB             | 1         | 0.86%   |
-| WDC WD1003FZEX-00MK2A0 1TB           | 1         | 0.86%   |
-| WDC PC SA530 SDASN8Y-256G-1006 256GB | 1         | 0.86%   |
-| Unknown NVMe SSD Drive 512GB         | 1         | 0.86%   |
-| Unknown MMC Card  8GB                | 1         | 0.86%   |
-| Unknown MMC Card  64GB               | 1         | 0.86%   |
-| Toshiba MQ01ACF050 500GB             | 1         | 0.86%   |
-| Toshiba MQ01ABF032 320GB             | 1         | 0.86%   |
-| Toshiba MQ01ABD050 500GB             | 1         | 0.86%   |
-| Toshiba MK5059GSXP 500GB             | 1         | 0.86%   |
-| Toshiba MK2561GSYN 250GB             | 1         | 0.86%   |
-| TO Exter nal USB 3.0 1TB             | 1         | 0.86%   |
-| Seagate ST9320325AS 320GB            | 1         | 0.86%   |
-| Seagate ST9160827AS 160GB            | 1         | 0.86%   |
-| Seagate ST9160821AS 160GB            | 1         | 0.86%   |
-| Seagate ST9160314AS 160GB            | 1         | 0.86%   |
-| Seagate ST8000AS0002-1NA17Z 8TB      | 1         | 0.86%   |
+| Model                                    | Computers | Percent |
+|------------------------------------------|-----------|---------|
+| WDC WD5000AAKX-001CA0 500GB              | 2         | 1.72%   |
+| WDC WD10EZEX-08WN4A0 1TB                 | 2         | 1.72%   |
+| Toshiba MQ01ABF050 500GB                 | 2         | 1.72%   |
+| Seagate ST500LM012 HN-M500MBB 500GB      | 2         | 1.72%   |
+| Kingston SV300S37A120G 120GB SSD         | 2         | 1.72%   |
+| ZOTAC ZTSSDPG3-480G-GE 480GB             | 1         | 0.86%   |
+| XPG GAMMIX S11 Pro 1TB                   | 1         | 0.86%   |
+| WDC WD60EZRX-00MVLB1 6TB                 | 1         | 0.86%   |
+| WDC WD5000LPVX-22V0TT0 500GB             | 1         | 0.86%   |
+| WDC WD5000LPVT-24G33T1 500GB             | 1         | 0.86%   |
+| WDC WD5000AACS-00G8B1 500GB              | 1         | 0.86%   |
+| WDC WD400JD-55MSA1 40GB                  | 1         | 0.86%   |
+| WDC WD4001FAEX-00MJRA0 4TB               | 1         | 0.86%   |
+| WDC WD3200BPVT-22JJ5T0 320GB             | 1         | 0.86%   |
+| WDC WD3200BEVT-80A0RT0 320GB             | 1         | 0.86%   |
+| WDC WD2500BEVS-22UST0 250GB              | 1         | 0.86%   |
+| WDC WD20EZRZ-00Z5HB0 2TB                 | 1         | 0.86%   |
+| WDC WD20EZRX-00D8PB0 2TB                 | 1         | 0.86%   |
+| WDC WD20EARS-00MVWB0 2TB                 | 1         | 0.86%   |
+| WDC WD1200BEVS-75UST0 120GB              | 1         | 0.86%   |
+| WDC WD10JPVX-60JC3T1 1TB                 | 1         | 0.86%   |
+| WDC WD10JPVX-22JC3T0 1TB                 | 1         | 0.86%   |
+| WDC WD10EAVS-00D7B1 1TB                  | 1         | 0.86%   |
+| WDC WD10EARX-00N0YB0 1TB                 | 1         | 0.86%   |
+| WDC WD1003FZEX-00MK2A0 1TB               | 1         | 0.86%   |
+| WDC PC SA530 SDASN8Y-256G-1006 256GB SSD | 1         | 0.86%   |
+| Unknown NVMe SSD Drive 512GB             | 1         | 0.86%   |
+| Unknown MMC Card  8GB                    | 1         | 0.86%   |
+| Unknown MMC Card  64GB                   | 1         | 0.86%   |
+| Toshiba MQ01ACF050 500GB                 | 1         | 0.86%   |
+| Toshiba MQ01ABF032 320GB                 | 1         | 0.86%   |
+| Toshiba MQ01ABD050 500GB                 | 1         | 0.86%   |
+| Toshiba MK5059GSXP 500GB                 | 1         | 0.86%   |
+| Toshiba MK2561GSYN 250GB                 | 1         | 0.86%   |
+| TO Exter nal USB 3.0 512GB               | 1         | 0.86%   |
+| Seagate ST9320325AS 320GB                | 1         | 0.86%   |
+| Seagate ST9160827AS 160GB                | 1         | 0.86%   |
+| Seagate ST9160821AS 160GB                | 1         | 0.86%   |
+| Seagate ST9160314AS 160GB                | 1         | 0.86%   |
+| Seagate ST8000AS0002-1NA17Z 8TB          | 1         | 0.86%   |
 
 HDD Vendor
 ----------
@@ -1693,17 +1693,17 @@ Monitor models
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch           | 2         | 2.82%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch            | 2         | 2.82%   |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 2         | 2.82%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch        | 2         | 2.82%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch        | 2         | 2.82%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch          | 2         | 2.82%   |
 | ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch              | 1         | 1.41%   |
 | Unknown LCD Monitor SHI LCD-TV 4640x1080                               | 1         | 1.41%   |
 | Sony LCD Monitor AVSYSTEM                                              | 1         | 1.41%   |
 | Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                 | 1         | 1.41%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch      | 1         | 1.41%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch      | 1         | 1.41%   |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch   | 1         | 1.41%   |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch   | 1         | 1.41%   |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch   | 1         | 1.41%   |
 | Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch     | 1         | 1.41%   |
-| Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch     | 1         | 1.41%   |
+| Samsung Electronics SMBX2331 SAM076F 1920x1080 510x290mm 23.1-inch     | 1         | 1.41%   |
 | Samsung Electronics S/T 77/76DFX STN0006 1280x1024 312x234mm 15.4-inch | 1         | 1.41%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch   | 1         | 1.41%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch   | 1         | 1.41%   |
@@ -1941,13 +1941,13 @@ Controller models
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1         | 0.74%   |
 | Realtek RTL8723DE Wireless Network Adapter                                            | 1         | 0.74%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1         | 0.74%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                 | 1         | 0.74%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1         | 0.74%   |
 | Realtek RTL8188EE Wireless Network Adapter                                            | 1         | 0.74%   |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                              | 1         | 0.74%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                              | 1         | 0.74%   |
+| Realtek 802.11n                                                                       | 1         | 0.74%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                             | 1         | 0.74%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                                                | 1         | 0.74%   |
+| Qualcomm OnePlus 6                                                                    | 1         | 0.74%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                             | 1         | 0.74%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                      | 1         | 0.74%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                                 | 1         | 0.74%   |
@@ -2005,10 +2005,10 @@ Wireless models
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1         | 1.69%   |
 | Realtek RTL8723DE Wireless Network Adapter                                            | 1         | 1.69%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1         | 1.69%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                 | 1         | 1.69%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1         | 1.69%   |
 | Realtek RTL8188EE Wireless Network Adapter                                            | 1         | 1.69%   |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                              | 1         | 1.69%   |
+| Realtek 802.11n                                                                       | 1         | 1.69%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                             | 1         | 1.69%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                      | 1         | 1.69%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1         | 1.69%   |
@@ -2073,7 +2073,7 @@ Ethernet models
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.32%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.32%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.32%   |
-| Qualcomm SDM845-BERYLLIUM _SN:CD5379A7                            | 1         | 1.32%   |
+| Qualcomm OnePlus 6                                                | 1         | 1.32%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.32%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.32%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.32%   |
@@ -2316,8 +2316,8 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1         | 5.26%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s   | 1         | 5.26%   |
 | Samsung RAM Module 8192MB DIMM DDR3 1333MT/s             | 1         | 5.26%   |
-| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s   | 1         | 5.26%   |
-| Samsung RAM K4B8G1646B-MYK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s      | 1         | 5.26%   |
+| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Kingston RAM KHX2400C11D3/8GX 8GB DIMM DDR3 2400MT/s     | 1         | 5.26%   |
 | Kingston RAM 9905584-017.A00LF 4096MB DIMM DDR3 1600MT/s | 1         | 5.26%   |
 | Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s  | 1         | 5.26%   |
@@ -2326,7 +2326,7 @@ Memory module models
 | G.Skill RAM F3-1600C9-8GAR 8192MB DIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Elpida RAM Module 8192MB DIMM DDR3 1333MT/s              | 1         | 5.26%   |
 | Corsair RAM CMY8GX3M2C1600C9 4096MB DIMM DDR3 1600MT/s   | 1         | 5.26%   |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3266MT/s    | 1         | 5.26%   |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3733MT/s    | 1         | 5.26%   |
 | Corsair RAM CML16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s    | 1         | 5.26%   |
 
 Memory Kind
@@ -2386,7 +2386,7 @@ Memory module speed
 | 1600    | 4         | 25%     |
 | 2400    | 2         | 12.5%   |
 | 3866    | 1         | 6.25%   |
-| 3266    | 1         | 6.25%   |
+| 3733    | 1         | 6.25%   |
 | 2667    | 1         | 6.25%   |
 | 2133    | 1         | 6.25%   |
 | 2000    | 1         | 6.25%   |

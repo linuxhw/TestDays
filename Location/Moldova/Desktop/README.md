@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 90
+Total: 91
 
 | Vendor   | Model               | Probe                                                      | Date         |
 |----------|---------------------|------------------------------------------------------------|--------------|
+| Biostar  | N68S3+              | [a37667f835](https://linux-hardware.org/?probe=a37667f835) | Nov 11, 2022 |
 | Biostar  | TB250-BTC PRO       | [09be95ac2c](https://linux-hardware.org/?probe=09be95ac2c) | Oct 10, 2022 |
 | ASUSTek  | P8H61-M LX2 R2.0    | [0f690e6e12](https://linux-hardware.org/?probe=0f690e6e12) | Oct 08, 2022 |
 | ASUSTek  | P8H61-M LX2 R2.0    | [e9bc8b1f10](https://linux-hardware.org/?probe=e9bc8b1f10) | Sep 26, 2022 |
@@ -263,31 +264,32 @@ Installed operating systems
 
 | Name             | Desktops | Percent |
 |------------------|----------|---------|
-| ROSA R10         | 12       | 17.14%  |
-| ROSA R11         | 8        | 11.43%  |
-| ROSA R8          | 7        | 10%     |
-| ROSA R8.1        | 6        | 8.57%   |
-| ROSA R11.1       | 6        | 8.57%   |
-| OpenMandriva 4.2 | 6        | 8.57%   |
-| Ubuntu 18.04     | 3        | 4.29%   |
-| Ubuntu 20.04     | 2        | 2.86%   |
-| ROSA 12.2        | 2        | 2.86%   |
-| Manjaro          | 2        | 2.86%   |
-| Arch Rolling     | 2        | 2.86%   |
-| Ubuntu 21.10     | 1        | 1.43%   |
-| Ubuntu 16.04     | 1        | 1.43%   |
-| ROSA R9          | 1        | 1.43%   |
-| Pop!_OS 21.10    | 1        | 1.43%   |
-| Pop!_OS 20.10    | 1        | 1.43%   |
-| Pop!_OS 20.04    | 1        | 1.43%   |
-| OpenMandriva 4.3 | 1        | 1.43%   |
-| Manjaro 21.3.0   | 1        | 1.43%   |
-| Linux Mint 20    | 1        | 1.43%   |
-| Linux Mint 19.3  | 1        | 1.43%   |
-| KDE neon 20.04   | 1        | 1.43%   |
-| Kali 2019.3      | 1        | 1.43%   |
-| Fedora 35        | 1        | 1.43%   |
-| Ctlos 1.4.0      | 1        | 1.43%   |
+| ROSA R10         | 12       | 16.9%   |
+| ROSA R11         | 8        | 11.27%  |
+| ROSA R8          | 7        | 9.86%   |
+| ROSA R8.1        | 6        | 8.45%   |
+| ROSA R11.1       | 6        | 8.45%   |
+| OpenMandriva 4.2 | 6        | 8.45%   |
+| Ubuntu 18.04     | 3        | 4.23%   |
+| Ubuntu 20.04     | 2        | 2.82%   |
+| ROSA 12.2        | 2        | 2.82%   |
+| Manjaro          | 2        | 2.82%   |
+| Arch Rolling     | 2        | 2.82%   |
+| Ubuntu 21.10     | 1        | 1.41%   |
+| Ubuntu 16.04     | 1        | 1.41%   |
+| ROSA R9          | 1        | 1.41%   |
+| ROSA 12.1        | 1        | 1.41%   |
+| Pop!_OS 21.10    | 1        | 1.41%   |
+| Pop!_OS 20.10    | 1        | 1.41%   |
+| Pop!_OS 20.04    | 1        | 1.41%   |
+| OpenMandriva 4.3 | 1        | 1.41%   |
+| Manjaro 21.3.0   | 1        | 1.41%   |
+| Linux Mint 20    | 1        | 1.41%   |
+| Linux Mint 19.3  | 1        | 1.41%   |
+| KDE neon 20.04   | 1        | 1.41%   |
+| Kali 2019.3      | 1        | 1.41%   |
+| Fedora 35        | 1        | 1.41%   |
+| Ctlos 1.4.0      | 1        | 1.41%   |
 
 OS Family
 ---------
@@ -321,46 +323,46 @@ Version of the Linux kernel
 
 | Version                            | Desktops | Percent |
 |------------------------------------|----------|---------|
-| 5.10.14-desktop-1omv4002           | 6        | 8.33%   |
-| 4.9.60-nrj-desktop-1rosa-x86_64    | 6        | 8.33%   |
-| 4.15.0-desktop-45.1rosa-x86_64     | 4        | 5.56%   |
-| 4.1.34-nrj-desktop-2rosa-x86_64    | 4        | 5.56%   |
-| 5.10.74-generic-2rosa2021.1-x86_64 | 2        | 2.78%   |
-| 4.9.20-nrj-desktop-1rosa-x86_64    | 2        | 2.78%   |
-| 4.9.155-nrj-desktop-1rosa-x86_64   | 2        | 2.78%   |
-| 4.15.0-desktop-68.5rosa-x86_64     | 2        | 2.78%   |
-| 4.15.0-desktop-47.2rosa-x86_64     | 2        | 2.78%   |
-| 4.1.34-nrj-desktop-2rosa-i586      | 2        | 2.78%   |
-| 5.9.3-050903-generic               | 1        | 1.39%   |
-| 5.8.0-7642-generic                 | 1        | 1.39%   |
-| 5.8.0-38-generic                   | 1        | 1.39%   |
-| 5.5.9-zen1-2-zen                   | 1        | 1.39%   |
-| 5.4.83-generic-2rosa-x86_64        | 1        | 1.39%   |
-| 5.4.32-generic-2rosa-x86_64        | 1        | 1.39%   |
-| 5.4.32-generic-2rosa-i586          | 1        | 1.39%   |
-| 5.4.0-90-generic                   | 1        | 1.39%   |
-| 5.4.0-7634-generic                 | 1        | 1.39%   |
-| 5.4.0-56-generic                   | 1        | 1.39%   |
-| 5.4.0-48-generic                   | 1        | 1.39%   |
-| 5.2.0-kali2-amd64                  | 1        | 1.39%   |
-| 5.17.9-arch1-1                     | 1        | 1.39%   |
-| 5.17.11-generic-2rosa2021.1-x86_64 | 1        | 1.39%   |
-| 5.16.9-200.fc35.x86_64             | 1        | 1.39%   |
-| 5.16.7-desktop-1omv4003            | 1        | 1.39%   |
-| 5.15.48-1-MANJARO                  | 1        | 1.39%   |
-| 5.15.11-76051511-generic           | 1        | 1.39%   |
-| 5.14.14-arch1-1                    | 1        | 1.39%   |
-| 5.13.0-52-generic                  | 1        | 1.39%   |
-| 5.13.0-39-generic                  | 1        | 1.39%   |
-| 5.10.53-1-MANJARO                  | 1        | 1.39%   |
-| 5.10.26-1-MANJARO                  | 1        | 1.39%   |
-| 4.9.9-nrj-desktop-1rosa-x86_64     | 1        | 1.39%   |
-| 4.9.9-nrj-desktop-1rosa-i586       | 1        | 1.39%   |
-| 4.9.87-nrj-desktop-2rosa-x86_64    | 1        | 1.39%   |
-| 4.9.76-nrj-desktop-1rosa-x86_64    | 1        | 1.39%   |
-| 4.9.76-nrj-desktop-1rosa-i586      | 1        | 1.39%   |
-| 4.9.60-nrj-desktop-1rosa-i586      | 1        | 1.39%   |
-| 4.9.124-nrj-desktop-1rosa-x86_64   | 1        | 1.39%   |
+| 5.10.14-desktop-1omv4002           | 6        | 8.22%   |
+| 4.9.60-nrj-desktop-1rosa-x86_64    | 6        | 8.22%   |
+| 4.15.0-desktop-45.1rosa-x86_64     | 4        | 5.48%   |
+| 4.1.34-nrj-desktop-2rosa-x86_64    | 4        | 5.48%   |
+| 5.10.74-generic-2rosa2021.1-x86_64 | 3        | 4.11%   |
+| 4.9.20-nrj-desktop-1rosa-x86_64    | 2        | 2.74%   |
+| 4.9.155-nrj-desktop-1rosa-x86_64   | 2        | 2.74%   |
+| 4.15.0-desktop-68.5rosa-x86_64     | 2        | 2.74%   |
+| 4.15.0-desktop-47.2rosa-x86_64     | 2        | 2.74%   |
+| 4.1.34-nrj-desktop-2rosa-i586      | 2        | 2.74%   |
+| 5.9.3-050903-generic               | 1        | 1.37%   |
+| 5.8.0-7642-generic                 | 1        | 1.37%   |
+| 5.8.0-38-generic                   | 1        | 1.37%   |
+| 5.5.9-zen1-2-zen                   | 1        | 1.37%   |
+| 5.4.83-generic-2rosa-x86_64        | 1        | 1.37%   |
+| 5.4.32-generic-2rosa-x86_64        | 1        | 1.37%   |
+| 5.4.32-generic-2rosa-i586          | 1        | 1.37%   |
+| 5.4.0-90-generic                   | 1        | 1.37%   |
+| 5.4.0-7634-generic                 | 1        | 1.37%   |
+| 5.4.0-56-generic                   | 1        | 1.37%   |
+| 5.4.0-48-generic                   | 1        | 1.37%   |
+| 5.2.0-kali2-amd64                  | 1        | 1.37%   |
+| 5.17.9-arch1-1                     | 1        | 1.37%   |
+| 5.17.11-generic-2rosa2021.1-x86_64 | 1        | 1.37%   |
+| 5.16.9-200.fc35.x86_64             | 1        | 1.37%   |
+| 5.16.7-desktop-1omv4003            | 1        | 1.37%   |
+| 5.15.48-1-MANJARO                  | 1        | 1.37%   |
+| 5.15.11-76051511-generic           | 1        | 1.37%   |
+| 5.14.14-arch1-1                    | 1        | 1.37%   |
+| 5.13.0-52-generic                  | 1        | 1.37%   |
+| 5.13.0-39-generic                  | 1        | 1.37%   |
+| 5.10.53-1-MANJARO                  | 1        | 1.37%   |
+| 5.10.26-1-MANJARO                  | 1        | 1.37%   |
+| 4.9.9-nrj-desktop-1rosa-x86_64     | 1        | 1.37%   |
+| 4.9.9-nrj-desktop-1rosa-i586       | 1        | 1.37%   |
+| 4.9.87-nrj-desktop-2rosa-x86_64    | 1        | 1.37%   |
+| 4.9.76-nrj-desktop-1rosa-x86_64    | 1        | 1.37%   |
+| 4.9.76-nrj-desktop-1rosa-i586      | 1        | 1.37%   |
+| 4.9.60-nrj-desktop-1rosa-i586      | 1        | 1.37%   |
+| 4.9.124-nrj-desktop-1rosa-x86_64   | 1        | 1.37%   |
 
 Kernel Family
 -------------
@@ -372,38 +374,38 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 4.15.0  | 11       | 15.49%  |
-| 4.9.60  | 7        | 9.86%   |
-| 5.10.14 | 6        | 8.45%   |
-| 4.1.34  | 6        | 8.45%   |
-| 5.4.0   | 4        | 5.63%   |
-| 5.8.0   | 2        | 2.82%   |
-| 5.4.32  | 2        | 2.82%   |
-| 5.13.0  | 2        | 2.82%   |
-| 5.10.74 | 2        | 2.82%   |
-| 4.9.9   | 2        | 2.82%   |
-| 4.9.76  | 2        | 2.82%   |
-| 4.9.20  | 2        | 2.82%   |
-| 4.9.155 | 2        | 2.82%   |
-| 4.9.124 | 2        | 2.82%   |
-| 4.1.38  | 2        | 2.82%   |
-| 5.9.3   | 1        | 1.41%   |
-| 5.5.9   | 1        | 1.41%   |
-| 5.4.83  | 1        | 1.41%   |
-| 5.2.0   | 1        | 1.41%   |
-| 5.17.9  | 1        | 1.41%   |
-| 5.17.11 | 1        | 1.41%   |
-| 5.16.9  | 1        | 1.41%   |
-| 5.16.7  | 1        | 1.41%   |
-| 5.15.48 | 1        | 1.41%   |
-| 5.15.11 | 1        | 1.41%   |
-| 5.14.14 | 1        | 1.41%   |
-| 5.10.53 | 1        | 1.41%   |
-| 5.10.26 | 1        | 1.41%   |
-| 4.9.87  | 1        | 1.41%   |
-| 4.18.0  | 1        | 1.41%   |
-| 4.10.0  | 1        | 1.41%   |
-| 4.1.25  | 1        | 1.41%   |
+| 4.15.0  | 11       | 15.28%  |
+| 4.9.60  | 7        | 9.72%   |
+| 5.10.14 | 6        | 8.33%   |
+| 4.1.34  | 6        | 8.33%   |
+| 5.4.0   | 4        | 5.56%   |
+| 5.10.74 | 3        | 4.17%   |
+| 5.8.0   | 2        | 2.78%   |
+| 5.4.32  | 2        | 2.78%   |
+| 5.13.0  | 2        | 2.78%   |
+| 4.9.9   | 2        | 2.78%   |
+| 4.9.76  | 2        | 2.78%   |
+| 4.9.20  | 2        | 2.78%   |
+| 4.9.155 | 2        | 2.78%   |
+| 4.9.124 | 2        | 2.78%   |
+| 4.1.38  | 2        | 2.78%   |
+| 5.9.3   | 1        | 1.39%   |
+| 5.5.9   | 1        | 1.39%   |
+| 5.4.83  | 1        | 1.39%   |
+| 5.2.0   | 1        | 1.39%   |
+| 5.17.9  | 1        | 1.39%   |
+| 5.17.11 | 1        | 1.39%   |
+| 5.16.9  | 1        | 1.39%   |
+| 5.16.7  | 1        | 1.39%   |
+| 5.15.48 | 1        | 1.39%   |
+| 5.15.11 | 1        | 1.39%   |
+| 5.14.14 | 1        | 1.39%   |
+| 5.10.53 | 1        | 1.39%   |
+| 5.10.26 | 1        | 1.39%   |
+| 4.9.87  | 1        | 1.39%   |
+| 4.18.0  | 1        | 1.39%   |
+| 4.10.0  | 1        | 1.39%   |
+| 4.1.25  | 1        | 1.39%   |
 
 Kernel Major Ver.
 -----------------
@@ -415,22 +417,22 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 4.9     | 17       | 24.29%  |
-| 4.15    | 11       | 15.71%  |
-| 5.10    | 10       | 14.29%  |
-| 4.1     | 9        | 12.86%  |
-| 5.4     | 7        | 10%     |
-| 5.8     | 2        | 2.86%   |
-| 5.17    | 2        | 2.86%   |
-| 5.16    | 2        | 2.86%   |
-| 5.15    | 2        | 2.86%   |
-| 5.13    | 2        | 2.86%   |
-| 5.9     | 1        | 1.43%   |
-| 5.5     | 1        | 1.43%   |
-| 5.2     | 1        | 1.43%   |
-| 5.14    | 1        | 1.43%   |
-| 4.18    | 1        | 1.43%   |
-| 4.10    | 1        | 1.43%   |
+| 4.9     | 17       | 23.94%  |
+| 5.10    | 11       | 15.49%  |
+| 4.15    | 11       | 15.49%  |
+| 4.1     | 9        | 12.68%  |
+| 5.4     | 7        | 9.86%   |
+| 5.8     | 2        | 2.82%   |
+| 5.17    | 2        | 2.82%   |
+| 5.16    | 2        | 2.82%   |
+| 5.15    | 2        | 2.82%   |
+| 5.13    | 2        | 2.82%   |
+| 5.9     | 1        | 1.41%   |
+| 5.5     | 1        | 1.41%   |
+| 5.2     | 1        | 1.41%   |
+| 5.14    | 1        | 1.41%   |
+| 4.18    | 1        | 1.41%   |
+| 4.10    | 1        | 1.41%   |
 
 Arch
 ----
@@ -455,18 +457,18 @@ Desktop Environment
 
 | Name            | Desktops | Percent |
 |-----------------|----------|---------|
-| KDE4            | 27       | 39.13%  |
-| KDE5            | 18       | 26.09%  |
-| GNOME           | 10       | 14.49%  |
-| XFCE            | 3        | 4.35%   |
-| X-Cinnamon      | 2        | 2.9%    |
-| LXQt            | 2        | 2.9%    |
-| KDE             | 2        | 2.9%    |
-| xinitrc         | 1        | 1.45%   |
-| sway            | 1        | 1.45%   |
-| MATE            | 1        | 1.45%   |
-| GNOME Flashback | 1        | 1.45%   |
-| Unknown         | 1        | 1.45%   |
+| KDE4            | 27       | 38.57%  |
+| KDE5            | 19       | 27.14%  |
+| GNOME           | 10       | 14.29%  |
+| XFCE            | 3        | 4.29%   |
+| X-Cinnamon      | 2        | 2.86%   |
+| LXQt            | 2        | 2.86%   |
+| KDE             | 2        | 2.86%   |
+| xinitrc         | 1        | 1.43%   |
+| sway            | 1        | 1.43%   |
+| MATE            | 1        | 1.43%   |
+| GNOME Flashback | 1        | 1.43%   |
+| Unknown         | 1        | 1.43%   |
 
 Display Server
 --------------
@@ -478,9 +480,9 @@ X11 or Wayland
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| X11     | 62       | 91.18%  |
-| Wayland | 5        | 7.35%   |
-| Unknown | 1        | 1.47%   |
+| X11     | 62       | 89.86%  |
+| Wayland | 6        | 8.7%    |
+| Unknown | 1        | 1.45%   |
 
 Display Manager
 ---------------
@@ -492,13 +494,13 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| KDM     | 27       | 39.13%  |
-| SDDM    | 22       | 31.88%  |
-| Unknown | 13       | 18.84%  |
-| GDM     | 3        | 4.35%   |
-| TDM     | 2        | 2.9%    |
-| LightDM | 1        | 1.45%   |
-| GDM3    | 1        | 1.45%   |
+| KDM     | 27       | 38.57%  |
+| SDDM    | 23       | 32.86%  |
+| Unknown | 13       | 18.57%  |
+| GDM     | 3        | 4.29%   |
+| TDM     | 2        | 2.86%   |
+| LightDM | 1        | 1.43%   |
+| GDM3    | 1        | 1.43%   |
 
 OS Lang
 -------
@@ -540,10 +542,11 @@ Type of filesystem
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Ext4    | 40       | 58.82%  |
-| Unknown | 21       | 30.88%  |
-| Overlay | 5        | 7.35%   |
-| Btrfs   | 2        | 2.94%   |
+| Ext4    | 40       | 57.97%  |
+| Unknown | 21       | 30.43%  |
+| Overlay | 5        | 7.25%   |
+| Btrfs   | 2        | 2.9%    |
+| Ext2    | 1        | 1.45%   |
 
 Part. scheme
 ------------
@@ -569,8 +572,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 56       | 81.16%  |
-| Yes       | 13       | 18.84%  |
+| No        | 56       | 80%     |
+| Yes       | 14       | 20%     |
 
 Dual Boot (Win)
 ---------------
@@ -582,8 +585,8 @@ Hosting Linux and Windows
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 45       | 65.22%  |
-| Yes       | 24       | 34.78%  |
+| No        | 45       | 64.29%  |
+| Yes       | 25       | 35.71%  |
 
 Board
 -----
@@ -939,7 +942,7 @@ Hard drive vendors
 | WDC                 | 19       | 20     | 16.67%  |
 | Toshiba             | 11       | 12     | 9.65%   |
 | Hitachi             | 6        | 8      | 5.26%   |
-| SPCC                | 5        | 6      | 4.39%   |
+| SPCC                | 5        | 7      | 4.39%   |
 | Transcend           | 4        | 4      | 3.51%   |
 | Kingston            | 4        | 4      | 3.51%   |
 | Maxtor              | 3        | 4      | 2.63%   |
@@ -1038,7 +1041,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SPCC                | 5        | 6      | 17.86%  |
+| SPCC                | 5        | 7      | 17.86%  |
 | Transcend           | 4        | 4      | 14.29%  |
 | Kingston            | 4        | 4      | 14.29%  |
 | Samsung Electronics | 3        | 3      | 10.71%  |
@@ -1064,7 +1067,7 @@ HDD or SSD
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | HDD  | 57       | 87     | 63.33%  |
-| SSD  | 26       | 31     | 28.89%  |
+| SSD  | 26       | 32     | 28.89%  |
 | NVMe | 7        | 10     | 7.78%   |
 
 Drive Connector
@@ -1077,7 +1080,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 64       | 118    | 90.14%  |
+| SATA | 64       | 119    | 90.14%  |
 | NVMe | 7        | 10     | 9.86%   |
 
 Drive Size
@@ -1090,7 +1093,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 57       | 89     | 71.25%  |
+| 0.01-0.5   | 57       | 90     | 71.25%  |
 | 0.51-1.0   | 13       | 19     | 16.25%  |
 | 1.01-2.0   | 6        | 6      | 7.5%    |
 | 3.01-4.0   | 3        | 3      | 3.75%   |
@@ -1127,15 +1130,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 38       | 54.29%  |
-| 21-50          | 10       | 14.29%  |
-| 51-100         | 8        | 11.43%  |
-| 101-250        | 4        | 5.71%   |
-| 251-500        | 3        | 4.29%   |
-| 501-1000       | 3        | 4.29%   |
-| 1001-2000      | 2        | 2.86%   |
-| More than 3000 | 1        | 1.43%   |
-| Unknown        | 1        | 1.43%   |
+| 1-20           | 38       | 53.52%  |
+| 21-50          | 11       | 15.49%  |
+| 51-100         | 8        | 11.27%  |
+| 101-250        | 4        | 5.63%   |
+| 251-500        | 3        | 4.23%   |
+| 501-1000       | 3        | 4.23%   |
+| 1001-2000      | 2        | 2.82%   |
+| More than 3000 | 1        | 1.41%   |
+| Unknown        | 1        | 1.41%   |
 
 Malfunc. Drives
 ---------------
@@ -1167,7 +1170,7 @@ Drive models with a malfunction
 | Seagate ST1000DL002-9TT153 1TB    | 1        | 1      | 3.23%   |
 | Samsung Electronics HD753LJ 752GB | 1        | 1      | 3.23%   |
 | Samsung Electronics HD103UJ 1TB   | 1        | 1      | 3.23%   |
-| Samsung Electronics HD080HJ 80GB  | 1        | 1      | 3.23%   |
+| Samsung Electronics HD080HJ/ 80GB | 1        | 1      | 3.23%   |
 | Maxtor STM380215AS 80GB           | 1        | 1      | 3.23%   |
 | Maxtor STM3160811AS 160GB         | 1        | 1      | 3.23%   |
 | Maxtor STM3160211AS 160GB         | 1        | 1      | 3.23%   |
@@ -1265,10 +1268,10 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 37       | 60     | 45.12%  |
-| Malfunc  | 26       | 34     | 31.71%  |
-| Detected | 16       | 30     | 19.51%  |
-| Failed   | 3        | 4      | 3.66%   |
+| Works    | 38       | 61     | 45.78%  |
+| Malfunc  | 26       | 34     | 31.33%  |
+| Detected | 16       | 30     | 19.28%  |
+| Failed   | 3        | 4      | 3.61%   |
 
 Storage controller
 ------------------
@@ -1756,10 +1759,10 @@ Monitor models
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0108 1280x1024 312x234mm 15.4-inch   | 2        | 2.9%    |
-| Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 2        | 2.9%    |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 2        | 2.9%    |
+| Hewlett-Packard E243 HPN3468 1920x1080 530x300mm 24.0-inch             | 2        | 2.9%    |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 2        | 2.9%    |
 | ViewSonic VA521-1 VSCF318 1024x768 304x228mm 15.0-inch                 | 1        | 1.45%   |
-| Toshiba TV TSB0108 1920x540 698x393mm 31.5-inch                        | 1        | 1.45%   |
+| Toshiba TV TSB0108 1360x768 580x320mm 26.1-inch                        | 1        | 1.45%   |
 | Samsung Electronics SyncMaster SAM03D1 1680x1050 433x271mm 20.1-inch   | 1        | 1.45%   |
 | Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch    | 1        | 1.45%   |
 | Samsung Electronics SyncMaster SAM036E 1280x1024 380x300mm 19.1-inch   | 1        | 1.45%   |
@@ -1777,9 +1780,9 @@ Monitor models
 | Samsung Electronics S/T 77E/76E STN0005 1280x1024 312x234mm 15.4-inch  | 1        | 1.45%   |
 | Samsung Electronics S/T 77/76BDF STN0007 1280x1024 312x234mm 15.4-inch | 1        | 1.45%   |
 | Plain Tree Systems XAP-192i PTS03D5 1280x1024 376x301mm 19.0-inch      | 1        | 1.45%   |
-| Philips PHL 275E2F PHLC23A 2560x1440 597x336mm 27.0-inch               | 1        | 1.45%   |
+| Philips PHL 275E2F PHLC23A 2560x1440 600x340mm 27.2-inch               | 1        | 1.45%   |
 | Philips PHL 246E7 PHLC107 1920x1080 521x293mm 23.5-inch                | 1        | 1.45%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch                | 1        | 1.45%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 1        | 1.45%   |
 | Philips PHL 240V5A PHLC10C 1920x1080 527x296mm 23.8-inch               | 1        | 1.45%   |
 | Philips PHL 240V5 PHLC10A 1920x1080 530x300mm 24.0-inch                | 1        | 1.45%   |
 | Philips PHL 234E5 PHLC0C7 1920x1080 509x286mm 23.0-inch                | 1        | 1.45%   |
@@ -1990,7 +1993,7 @@ Controller models
 | Nvidia MCP67 Ethernet                                                  | 1        | 1.14%   |
 | Nvidia MCP55 Ethernet                                                  | 1        | 1.14%   |
 | Mercucys 802.11n NIC                                                   | 1        | 1.14%   |
-| MediaTek TECNO Pouvoir 3 Air                                           | 1        | 1.14%   |
+| MediaTek N152DL                                                        | 1        | 1.14%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 1.14%   |
 | Intel NM10/ICH7 Family LAN Controller                                  | 1        | 1.14%   |
 | Intel Ethernet Connection I217-V                                       | 1        | 1.14%   |
@@ -2094,7 +2097,7 @@ Ethernet models
 | Nvidia MCP77 Ethernet                                             | 1        | 1.39%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 1.39%   |
 | Nvidia MCP55 Ethernet                                             | 1        | 1.39%   |
-| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 1.39%   |
+| MediaTek N152DL                                                   | 1        | 1.39%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.39%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.39%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 1.39%   |
@@ -2350,10 +2353,10 @@ Memory module models
 | SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s    | 1        | 1.33%   |
 | Silicon Power RAM DCLT2GN568S 2048MB DIMM DDR3 1600MT/s   | 1        | 1.33%   |
 | SGS/Thomson RAM GR800S264L5/2G 2048MB DIMM SDRAM 2048MT/s | 1        | 1.33%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s    | 1        | 1.33%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s       | 1        | 1.33%   |
 | Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s      | 1        | 1.33%   |
-| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s           | 1        | 1.33%   |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s        | 1        | 1.33%   |
+| Patriot RAM PSD34G160081 4096MB DIMM DDR3 1600MT/s        | 1        | 1.33%   |
+| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3200MT/s       | 1        | 1.33%   |
 | Nanya RAM M2F2G64CB88B7N-CG 2048MB DIMM 1333MT/s          | 1        | 1.33%   |
 | Micron RAM Module 4GB DIMM DDR3 1600MT/s                  | 1        | 1.33%   |
 

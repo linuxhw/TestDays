@@ -974,7 +974,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB            | 1        | 0.95%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 0.95%   |
 | Vaseky V800/256G 256GB SSD          | 1        | 0.95%   |
-| Unknown SD/MMC/MS PRO 1TB           | 1        | 0.95%   |
+| Unknown SD/MMC/MS PRO 8GB           | 1        | 0.95%   |
 | Toshiba MQ01ABF050 500GB            | 1        | 0.95%   |
 | Toshiba MQ01ABD075 752GB            | 1        | 0.95%   |
 | Toshiba DT01ACA200 2TB              | 1        | 0.95%   |
@@ -1019,20 +1019,21 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SanDisk             | 7        | 11     | 18.92%  |
-| Kingston            | 5        | 9      | 13.51%  |
-| Samsung Electronics | 4        | 5      | 10.81%  |
-| China               | 4        | 4      | 10.81%  |
-| WDC                 | 3        | 3      | 8.11%   |
-| Crucial             | 3        | 4      | 8.11%   |
-| A-DATA Technology   | 3        | 4      | 8.11%   |
-| SPCC                | 2        | 2      | 5.41%   |
-| Vaseky              | 1        | 1      | 2.7%    |
-| KingDian            | 1        | 1      | 2.7%    |
-| KINGBANK            | 1        | 1      | 2.7%    |
-| Intenso             | 1        | 2      | 2.7%    |
-| Hewlett-Packard     | 1        | 1      | 2.7%    |
-| Apacer              | 1        | 3      | 2.7%    |
+| SanDisk             | 7        | 11     | 18.42%  |
+| Kingston            | 5        | 9      | 13.16%  |
+| Samsung Electronics | 4        | 5      | 10.53%  |
+| China               | 4        | 4      | 10.53%  |
+| WDC                 | 3        | 3      | 7.89%   |
+| Crucial             | 3        | 4      | 7.89%   |
+| A-DATA Technology   | 3        | 4      | 7.89%   |
+| SPCC                | 2        | 2      | 5.26%   |
+| Vaseky              | 1        | 1      | 2.63%   |
+| KingDian            | 1        | 1      | 2.63%   |
+| KINGBANK            | 1        | 1      | 2.63%   |
+| JMicron Technology  | 1        | 1      | 2.63%   |
+| Intenso             | 1        | 2      | 2.63%   |
+| Hewlett-Packard     | 1        | 1      | 2.63%   |
+| Apacer              | 1        | 3      | 2.63%   |
 
 Drive Kind
 ----------
@@ -1044,10 +1045,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 36       | 59     | 45.57%  |
-| SSD     | 30       | 51     | 37.97%  |
-| NVMe    | 12       | 14     | 15.19%  |
-| Unknown | 1        | 2      | 1.27%   |
+| HDD     | 36       | 59     | 46.15%  |
+| SSD     | 30       | 52     | 38.46%  |
+| NVMe    | 11       | 13     | 14.1%   |
+| Unknown | 1        | 2      | 1.28%   |
 
 Drive Connector
 ---------------
@@ -1073,9 +1074,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 37       | 68     | 54.41%  |
-| 0.51-1.0   | 26       | 35     | 38.24%  |
-| 1.01-2.0   | 5        | 7      | 7.35%   |
+| 0.01-0.5   | 38       | 70     | 55.07%  |
+| 0.51-1.0   | 26       | 34     | 37.68%  |
+| 1.01-2.0   | 5        | 7      | 7.25%   |
 
 Space Total
 -----------
@@ -1676,48 +1677,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                  | 2        | 3.33%   |
-| ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch            | 1        | 1.67%   |
-| ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch            | 1        | 1.67%   |
-| Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.67%   |
-| Toshiba TV TSB0108 1920x540 698x393mm 31.5-inch                       | 1        | 1.67%   |
-| TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                      | 1        | 1.67%   |
-| SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                       | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM0601 1600x900                       | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM05FF 1600x900 443x249mm 20.0-inch   | 1        | 1.67%   |
-| Samsung Electronics SyncMaster SAM02B6 1920x1200 518x324mm 24.1-inch  | 1        | 1.67%   |
-| Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch   | 1        | 1.67%   |
-| Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch     | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SMS23A350H 1920x1080                  | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 890x500mm 40.2-inch | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0E90 1366x768 609x347mm 27.6-inch  | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E390 1920x1080                     | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E360 1920x1080                     | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E310 3840x1080                     | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor S24E310                               | 1        | 1.67%   |
-| RTK FHD HDR RTKBC32 1920x1080 332x186mm 15.0-inch                     | 1        | 1.67%   |
-| Positivo FIT85X NON1801 1360x768 344x194mm 15.5-inch                  | 1        | 1.67%   |
-| Philips FTV PHL04C2 1920x1080 1440x810mm 65.0-inch                    | 1        | 1.67%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                    | 1        | 1.67%   |
-| MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                     | 1        | 1.67%   |
-| Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch               | 1        | 1.67%   |
-| Lenovo E1922s Wide LEN60BD 1366x768 410x230mm 18.5-inch               | 1        | 1.67%   |
-| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                  | 1        | 1.67%   |
-| Iiyama PL2792Q IVM662F 2560x1440 597x336mm 27.0-inch                  | 1        | 1.67%   |
-| Hisense LCD Monitor HDMI 1360x768                                     | 1        | 1.67%   |
-| Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch          | 1        | 1.67%   |
-| Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch      | 1        | 1.67%   |
-| Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch            | 1        | 1.67%   |
-| Hewlett-Packard 2311x HWP293A 1920x1080 510x287mm 23.0-inch           | 1        | 1.67%   |
-| Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch            | 1        | 1.67%   |
-| Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                 | 1        | 1.67%   |
-| Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                 | 1        | 1.67%   |
-| Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch             | 1        | 1.67%   |
-| Goldstar E2360 GSM57E4 1920x1080 510x290mm 23.1-inch                  | 1        | 1.67%   |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                    | 2        | 3.33%   |
+| ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch              | 1        | 1.67%   |
+| ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch              | 1        | 1.67%   |
+| Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 1.67%   |
+| Toshiba TV TSB0108 1360x768 580x320mm 26.1-inch                         | 1        | 1.67%   |
+| TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                        | 1        | 1.67%   |
+| SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                         | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch    | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM0601 1600x900                         | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM05FF 1600x900 443x249mm 20.0-inch     | 1        | 1.67%   |
+| Samsung Electronics SyncMaster SAM02B6 1920x1200 518x324mm 24.1-inch    | 1        | 1.67%   |
+| Samsung Electronics SMT24A550 SAM07B5 1920x1080 530x300mm 24.0-inch     | 1        | 1.67%   |
+| Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch       | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SMS23A350H 1920x1080                    | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0E90 1366x768 700x390mm 31.5-inch    | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch   | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E390 1920x1080                       | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E360 1920x1080                       | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E310 3840x1080                       | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor S24E310                                 | 1        | 1.67%   |
+| RTK HDMI RTKBC32 2560x1600 347x215mm 16.1-inch                          | 1        | 1.67%   |
+| Positivo LCD Monitor NON1801 1360x768 410x230mm 18.5-inch               | 1        | 1.67%   |
+| Philips FTV PHL04C2 1920x1080 1440x810mm 65.0-inch                      | 1        | 1.67%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                      | 1        | 1.67%   |
+| MSI MAG271C MSI3FA6 1920x1080 598x336mm 27.0-inch                       | 1        | 1.67%   |
+| Lenovo LEN T2324C LEN60F2 1920x1080 510x287mm 23.0-inch                 | 1        | 1.67%   |
+| Lenovo E1922s Wide LEN60BD 1366x768 410x230mm 18.5-inch                 | 1        | 1.67%   |
+| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                    | 1        | 1.67%   |
+| Iiyama PL2792Q IVM662F 2560x1440 597x336mm 27.0-inch                    | 1        | 1.67%   |
+| Hisense LCD Monitor HDMI 1360x768                                       | 1        | 1.67%   |
+| Hewlett-Packard VH240a HPN3499 1920x1080 530x300mm 24.0-inch            | 1        | 1.67%   |
+| Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch        | 1        | 1.67%   |
+| Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch              | 1        | 1.67%   |
+| Hewlett-Packard 2311x HWP293A 1920x1080 510x287mm 23.0-inch             | 1        | 1.67%   |
+| Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch              | 1        | 1.67%   |
+| Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                   | 1        | 1.67%   |
+| Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                   | 1        | 1.67%   |
+| Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch               | 1        | 1.67%   |
+| Goldstar E2360 GSM57E4 1920x1080 510x290mm 23.1-inch                    | 1        | 1.67%   |
 
 Monitor Resolution
 ------------------
@@ -1729,20 +1730,21 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 29       | 51.79%  |
-| 2560x1440 (QHD)    | 5        | 8.93%   |
-| 1600x900 (HD+)     | 4        | 7.14%   |
-| 1366x768 (WXGA)    | 3        | 5.36%   |
-| 3840x2160 (4K)     | 2        | 3.57%   |
-| 3840x1080          | 2        | 3.57%   |
-| 1440x900 (WXGA+)   | 2        | 3.57%   |
-| 1360x768           | 2        | 3.57%   |
-| Unknown            | 2        | 3.57%   |
-| 2288x1287          | 1        | 1.79%   |
-| 1920x540           | 1        | 1.79%   |
-| 1920x1200 (WUXGA)  | 1        | 1.79%   |
-| 1680x1050 (WSXGA+) | 1        | 1.79%   |
-| 1280x1024 (SXGA)   | 1        | 1.79%   |
+| 1920x1080 (FHD)    | 29       | 50.88%  |
+| 2560x1440 (QHD)    | 5        | 8.77%   |
+| 1600x900 (HD+)     | 4        | 7.02%   |
+| 1366x768 (WXGA)    | 3        | 5.26%   |
+| 3840x2160 (4K)     | 2        | 3.51%   |
+| 3840x1080          | 2        | 3.51%   |
+| 1440x900 (WXGA+)   | 2        | 3.51%   |
+| 1360x768           | 2        | 3.51%   |
+| Unknown            | 2        | 3.51%   |
+| 2560x1600          | 1        | 1.75%   |
+| 2288x1287          | 1        | 1.75%   |
+| 1920x540           | 1        | 1.75%   |
+| 1920x1200 (WUXGA)  | 1        | 1.75%   |
+| 1680x1050 (WSXGA+) | 1        | 1.75%   |
+| 1280x1024 (SXGA)   | 1        | 1.75%   |
 
 Monitor Diagonal
 ----------------
@@ -1759,8 +1761,8 @@ Diagonal size in inches
 | Unknown | 7        | 12.28%  |
 | 27      | 5        | 8.77%   |
 | 21      | 4        | 7.02%   |
+| 18      | 4        | 7.02%   |
 | 20      | 3        | 5.26%   |
-| 18      | 3        | 5.26%   |
 | 84      | 2        | 3.51%   |
 | 19      | 2        | 3.51%   |
 | 142     | 1        | 1.75%   |
@@ -1770,7 +1772,6 @@ Diagonal size in inches
 | 31      | 1        | 1.75%   |
 | 25      | 1        | 1.75%   |
 | 22      | 1        | 1.75%   |
-| 15      | 1        | 1.75%   |
 | 12      | 1        | 1.75%   |
 
 Monitor Width
@@ -1784,13 +1785,12 @@ Physical width
 | Width in mm    | Desktops | Percent |
 |----------------|----------|---------|
 | 501-600        | 27       | 48.21%  |
-| 401-500        | 13       | 23.21%  |
+| 401-500        | 14       | 25%     |
 | Unknown        | 7        | 12.5%   |
 | 1501-2000      | 3        | 5.36%   |
 | More than 2000 | 1        | 1.79%   |
 | 701-800        | 1        | 1.79%   |
 | 601-700        | 1        | 1.79%   |
-| 301-350        | 1        | 1.79%   |
 | 201-300        | 1        | 1.79%   |
 | 1001-1500      | 1        | 1.79%   |
 
@@ -1825,10 +1825,9 @@ Area in inch²
 | More than 1000 | 5        | 8.77%   |
 | 301-350        | 5        | 8.77%   |
 | 251-300        | 3        | 5.26%   |
+| 141-150        | 3        | 5.26%   |
 | 351-500        | 2        | 3.51%   |
-| 141-150        | 2        | 3.51%   |
 | 61-70          | 1        | 1.75%   |
-| 101-110        | 1        | 1.75%   |
 
 Pixel Density
 -------------
@@ -1840,8 +1839,8 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 34       | 61.82%  |
-| 101-120 | 8        | 14.55%  |
+| 51-100  | 35       | 63.64%  |
+| 101-120 | 7        | 12.73%  |
 | Unknown | 7        | 12.73%  |
 | 1-50    | 4        | 7.27%   |
 | 161-240 | 1        | 1.82%   |
@@ -1911,20 +1910,20 @@ Controller models
 | Unknown Network controller                                        | 1        | 1.3%    |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 1.3%    |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 1.3%    |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.3%    |
+| TP-Link 802.11ac WLAN Adapter                                     | 1        | 1.3%    |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.3%    |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 1.3%    |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 1.3%    |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 1.3%    |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)         | 1        | 1.3%    |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 1.3%    |
-| Realtek 802.11n WLAN Adapter                                      | 1        | 1.3%    |
+| Realtek 802.11n                                                   | 1        | 1.3%    |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.3%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.3%    |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 1.3%    |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.3%    |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.3%    |
 | NetGear A6210                                                     | 1        | 1.3%    |
-| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 1.3%    |
+| MediaTek N152DL                                                   | 1        | 1.3%    |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 1.3%    |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.3%    |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.3%    |
@@ -1968,24 +1967,24 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                      | Desktops | Percent |
-|------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 6.25%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 1        | 6.25%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 6.25%   |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 6.25%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter            | 1        | 6.25%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                     | 1        | 6.25%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 6.25%   |
-| Realtek RTL8188EE Wireless Network Adapter                 | 1        | 6.25%   |
-| Realtek 802.11n WLAN Adapter                               | 1        | 6.25%   |
-| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter     | 1        | 6.25%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter           | 1        | 6.25%   |
-| NetGear A6210                                              | 1        | 6.25%   |
-| MediaTek MT7630e 802.11bgn Wireless Network Adapter        | 1        | 6.25%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]           | 1        | 6.25%   |
-| Intel Comet Lake PCH CNVi WiFi                             | 1        | 6.25%   |
-| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]       | 1        | 6.25%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]               | 1        | 6.25%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                       | 1        | 6.25%   |
+| TP-Link 802.11ac WLAN Adapter                             | 1        | 6.25%   |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter   | 1        | 6.25%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter           | 1        | 6.25%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                    | 1        | 6.25%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch) | 1        | 6.25%   |
+| Realtek RTL8188EE Wireless Network Adapter                | 1        | 6.25%   |
+| Realtek 802.11n                                           | 1        | 6.25%   |
+| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter    | 1        | 6.25%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter          | 1        | 6.25%   |
+| NetGear A6210                                             | 1        | 6.25%   |
+| MediaTek MT7630e 802.11bgn Wireless Network Adapter       | 1        | 6.25%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]          | 1        | 6.25%   |
+| Intel Comet Lake PCH CNVi WiFi                            | 1        | 6.25%   |
+| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]      | 1        | 6.25%   |
 
 Ethernet Vendor
 ---------------
@@ -2029,7 +2028,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.69%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.69%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.69%   |
-| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 1.69%   |
+| MediaTek N152DL                                                   | 1        | 1.69%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.69%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.69%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.69%   |
@@ -2252,16 +2251,16 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                     | 1        | 3.57%   |
 | Unknown RAM Module 2GB DIMM SDRAM                          | 1        | 3.57%   |
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s         | 1        | 3.57%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 3.57%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s     | 1        | 3.57%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s        | 1        | 3.57%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s        | 1        | 3.57%   |
 | Ramaxel RAM RMSA3230KE68H9F213 4096MB SODIMM DDR4 2133MT/s | 1        | 3.57%   |
 | Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s         | 1        | 3.57%   |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s             | 1        | 3.57%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 1        | 3.57%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 3.57%   |
-| Kingston RAM KHX2133C14D4/8G 8GB DIMM 2667MT/s             | 1        | 3.57%   |
+| Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s        | 1        | 3.57%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 3.57%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 3.57%   |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s     | 1        | 3.57%   |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s   | 1        | 3.57%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 3.57%   |
 | Kingston RAM 99U5403-034.A00LF 4GB DIMM 1333MT/s           | 1        | 3.57%   |

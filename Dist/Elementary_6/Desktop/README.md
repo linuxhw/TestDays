@@ -1010,8 +1010,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 49       | 73     | 58.33%  |
-| 0.51-1.0   | 26       | 32     | 30.95%  |
+| 0.01-0.5   | 50       | 74     | 59.52%  |
+| 0.51-1.0   | 25       | 31     | 29.76%  |
 | 1.01-2.0   | 5        | 6      | 5.95%   |
 | 3.01-4.0   | 2        | 2      | 2.38%   |
 | 2.01-3.0   | 2        | 2      | 2.38%   |
@@ -1886,6 +1886,7 @@ Controller models
 | Ralink MT7601U Wireless Adapter                                   | 3        | 2.73%   |
 | Intel 82574L Gigabit Network Connection                           | 3        | 2.73%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 2        | 1.82%   |
+| TP-Link 802.11ac WLAN Adapter                                     | 2        | 1.82%   |
 | TP-Link 802.11ac NIC                                              | 2        | 1.82%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 2        | 1.82%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 2        | 1.82%   |
@@ -1894,8 +1895,6 @@ Controller models
 | Intel Ethernet Connection (2) I219-V                              | 2        | 1.82%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                | 2        | 1.82%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                             | 1        | 0.91%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 0.91%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1        | 0.91%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 0.91%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 0.91%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1        | 0.91%   |
@@ -1911,13 +1910,14 @@ Controller models
 | Nvidia MCP77 Ethernet                                             | 1        | 0.91%   |
 | NetGear WNA3100(v1) Wireless-N 300 [Broadcom BCM43231]            | 1        | 0.91%   |
 | Mercucys 802.11n NIC                                              | 1        | 0.91%   |
-| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 0.91%   |
+| MediaTek N152DL                                                   | 1        | 0.91%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.91%   |
 | Intel Wireless-AC 9260                                            | 1        | 0.91%   |
 | Intel Wireless 7260                                               | 1        | 0.91%   |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 1        | 0.91%   |
 | Intel Tiger Lake PCH CNVi WiFi                                    | 1        | 0.91%   |
 | Intel Ethernet Controller I225-V                                  | 1        | 0.91%   |
+| Intel Ethernet Connection (7) I219-V                              | 1        | 0.91%   |
 
 Wireless Vendor
 ---------------
@@ -1953,13 +1953,12 @@ Wireless models
 |----------------------------------------------------------------|----------|---------|
 | Ralink MT7601U Wireless Adapter                                | 3        | 8.33%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 2        | 5.56%   |
+| TP-Link 802.11ac WLAN Adapter                                  | 2        | 5.56%   |
 | TP-Link 802.11ac NIC                                           | 2        | 5.56%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 2        | 5.56%   |
 | Intel Wi-Fi 6 AX200                                            | 2        | 5.56%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter             | 2        | 5.56%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                          | 1        | 2.78%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1        | 2.78%   |
-| TP-Link 802.11ac WLAN Adapter                                  | 1        | 2.78%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                             | 1        | 2.78%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1        | 2.78%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                     | 1        | 2.78%   |
@@ -2024,7 +2023,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.35%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.35%   |
 | Nvidia MCP77 Ethernet                                             | 1        | 1.35%   |
-| MediaTek TECNO Pouvoir 3 Air                                      | 1        | 1.35%   |
+| MediaTek N152DL                                                   | 1        | 1.35%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.35%   |
 | Intel Ethernet Controller I225-V                                  | 1        | 1.35%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 1.35%   |
@@ -2201,7 +2200,7 @@ Sound card models
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                            | 2        | 1.41%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                                  | 2        | 1.41%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2        | 1.41%   |
-| Thesycon Systemsoftware & Consulting D10s                                         | 1        | 0.7%    |
+| Thesycon Systemsoftware & Consulting D90                                          | 1        | 0.7%    |
 | Razer USA Kraken Tournament Edition                                               | 1        | 0.7%    |
 | Nvidia TU106 High Definition Audio Controller                                     | 1        | 0.7%    |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 0.7%    |
@@ -2244,28 +2243,28 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 1        | 5%      |
-| SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s   | 1        | 5%      |
-| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s           | 1        | 5%      |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s  | 1        | 5%      |
-| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s    | 1        | 5%      |
-| Neo Forza RAM NMUD380D81-1600D 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Nanya RAM Module 4GB DIMM DDR3 1333MT/s                | 1        | 5%      |
-| Kingston RAM KHX2666C16/16G 16384MB DIMM DDR4 3200MT/s | 1        | 5%      |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s    | 1        | 5%      |
-| Kingston RAM 99U5471-052.A 8GB DIMM DDR3 1333MT/s      | 1        | 5%      |
-| Kingston RAM 99U5458-001.A00LF 2GB DIMM DDR3 1600MT/s  | 1        | 5%      |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3           | 1        | 5%      |
-| Kingston RAM 9965516-069.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Kingston RAM 9965516-003.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s | 1        | 5%      |
-| G.Skill RAM F3-1866C11-8GRSL 8GB SODIMM DDR3 1867MT/s  | 1        | 5%      |
-| G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s   | 1        | 5%      |
-| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 3000MT/s  | 1        | 5%      |
-| Corsair RAM CMK4GX4M1A2400C14 4GB DIMM DDR4 3007MT/s   | 1        | 5%      |
-| Corsair RAM CMH32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s | 1        | 5%      |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s               | 1        | 5%      |
+| SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s      | 1        | 5%      |
+| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s              | 1        | 5%      |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1        | 5%      |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3200MT/s       | 1        | 5%      |
+| Neo Forza RAM NMUD380D81-1600D 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| Nanya RAM Module 4GB DIMM DDR3 1333MT/s                   | 1        | 5%      |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s       | 1        | 5%      |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s       | 1        | 5%      |
+| Kingston RAM 99U5471-052.A 8GB DIMM DDR3 1333MT/s         | 1        | 5%      |
+| Kingston RAM 99U5458-001.A00LF 2048MB DIMM DDR3 1600MT/s  | 1        | 5%      |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM 800MT/s           | 1        | 5%      |
+| Kingston RAM 9965516-069.A00LF 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| Kingston RAM 9965516-003.A00LF 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s | 1        | 5%      |
+| G.Skill RAM F3-1866C11-8GRSL 8GB SODIMM DDR3 1867MT/s     | 1        | 5%      |
+| G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s      | 1        | 5%      |
+| Crucial RAM BLS8G4D26BFSCK.8FD 8GB DIMM DDR4 3000MT/s     | 1        | 5%      |
+| Corsair RAM CMK4GX4M1A2400C14 4GB DIMM DDR4 3007MT/s      | 1        | 5%      |
+| Corsair RAM CMH32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s    | 1        | 5%      |
 
 Memory Kind
 -----------
@@ -2412,8 +2411,8 @@ Camera device models
 | Microsoft Xbox NUI Camera       | 1        | 5.26%   |
 | Microsoft LifeCam HD-3000       | 1        | 5.26%   |
 | Microdia Webcam Vitade AF       | 1        | 5.26%   |
-| Microdia USB Live camera        | 1        | 5.26%   |
 | Microdia Integrated Camera      | 1        | 5.26%   |
+| Microdia Hy-HD-Camera           | 1        | 5.26%   |
 | Logitech Webcam C310            | 1        | 5.26%   |
 | Logitech Logi 4K Stream Edition | 1        | 5.26%   |
 | Logitech HD Webcam C615         | 1        | 5.26%   |

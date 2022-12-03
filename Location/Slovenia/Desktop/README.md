@@ -1173,7 +1173,7 @@ Hard drive models
 | WDC WD1002FAEX-00Y9A0 1TB        | 2        | 0.77%   |
 | Toshiba DT01ACA050 500GB         | 2        | 0.77%   |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 0.77%   |
-| Seagate Portable 2TB             | 2        | 0.77%   |
+| Seagate Portable 5TB             | 2        | 0.77%   |
 | SanDisk SSD PLUS 1000GB          | 2        | 0.77%   |
 | SanDisk NVMe SSD Drive 500GB     | 2        | 0.77%   |
 | Samsung SSD 980 PRO 500GB        | 2        | 0.77%   |
@@ -1220,25 +1220,26 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 15       | 17     | 19.23%  |
-| Samsung Electronics | 14       | 25     | 17.95%  |
-| WDC                 | 11       | 13     | 14.1%   |
-| Crucial             | 11       | 15     | 14.1%   |
-| SanDisk             | 4        | 5      | 5.13%   |
-| Intel               | 4        | 5      | 5.13%   |
-| Corsair             | 3        | 4      | 3.85%   |
-| Patriot             | 2        | 3      | 2.56%   |
-| OCZ                 | 2        | 5      | 2.56%   |
-| China               | 2        | 2      | 2.56%   |
-| Apacer              | 2        | 3      | 2.56%   |
-| Transcend           | 1        | 2      | 1.28%   |
-| Toshiba             | 1        | 1      | 1.28%   |
-| LITEONIT            | 1        | 1      | 1.28%   |
-| KingDian            | 1        | 1      | 1.28%   |
-| Intenso             | 1        | 1      | 1.28%   |
-| Integral            | 1        | 1      | 1.28%   |
-| GOODRAM             | 1        | 1      | 1.28%   |
-| A-DATA Technology   | 1        | 1      | 1.28%   |
+| Kingston            | 15       | 17     | 18.99%  |
+| Samsung Electronics | 14       | 25     | 17.72%  |
+| WDC                 | 11       | 13     | 13.92%  |
+| Crucial             | 11       | 15     | 13.92%  |
+| SanDisk             | 4        | 5      | 5.06%   |
+| Intel               | 4        | 5      | 5.06%   |
+| Corsair             | 3        | 4      | 3.8%    |
+| Patriot             | 2        | 3      | 2.53%   |
+| OCZ                 | 2        | 5      | 2.53%   |
+| China               | 2        | 2      | 2.53%   |
+| Apacer              | 2        | 3      | 2.53%   |
+| Transcend           | 1        | 2      | 1.27%   |
+| Toshiba             | 1        | 1      | 1.27%   |
+| LITEONIT            | 1        | 1      | 1.27%   |
+| KingDian            | 1        | 1      | 1.27%   |
+| JMicron Technology  | 1        | 1      | 1.27%   |
+| Intenso             | 1        | 1      | 1.27%   |
+| Integral            | 1        | 1      | 1.27%   |
+| GOODRAM             | 1        | 1      | 1.27%   |
+| A-DATA Technology   | 1        | 1      | 1.27%   |
 
 Drive Kind
 ----------
@@ -1251,8 +1252,8 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 79       | 171    | 43.17%  |
-| SSD     | 63       | 106    | 34.43%  |
-| NVMe    | 36       | 55     | 19.67%  |
+| SSD     | 63       | 107    | 34.43%  |
+| NVMe    | 36       | 54     | 19.67%  |
 | Unknown | 5        | 8      | 2.73%   |
 
 Drive Connector
@@ -1279,12 +1280,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 79       | 143    | 49.69%  |
-| 0.51-1.0   | 46       | 82     | 28.93%  |
-| 1.01-2.0   | 17       | 23     | 10.69%  |
-| 3.01-4.0   | 9        | 16     | 5.66%   |
-| 4.01-10.0  | 4        | 8      | 2.52%   |
-| 2.01-3.0   | 3        | 4      | 1.89%   |
+| 0.01-0.5   | 79       | 143    | 49.38%  |
+| 0.51-1.0   | 46       | 83     | 28.75%  |
+| 1.01-2.0   | 17       | 22     | 10.63%  |
+| 3.01-4.0   | 8        | 15     | 5%      |
+| 4.01-10.0  | 5        | 9      | 3.13%   |
+| 2.01-3.0   | 4        | 5      | 2.5%    |
 | 10.01-20.0 | 1        | 1      | 0.63%   |
 
 Space Total
@@ -1948,20 +1949,20 @@ Monitor models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Philips LCD Monitor FTV 1920x1080                                       | 3        | 2.16%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 3        | 2.16%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch             | 3        | 2.16%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 3        | 2.16%   |
 | Samsung Electronics SyncMaster SAM026F 1280x1024 376x301mm 19.0-inch    | 2        | 1.44%   |
-| Philips FTV PHL01EA 1920x1080 640x360mm 28.9-inch                       | 2        | 1.44%   |
+| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 2        | 1.44%   |
 | Philips 226V4 PHLC0B1 1920x1080 477x268mm 21.5-inch                     | 2        | 1.44%   |
 | AOC LCD Monitor AG251FWG2 1920x1080                                     | 2        | 1.44%   |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                         | 2        | 1.44%   |
 | ViewSonic VX3211-4K VSCC336 3840x2160 698x393mm 31.5-inch               | 1        | 0.72%   |
 | ViewSonic VG2448 VSC3B35 1920x1080 527x296mm 23.8-inch                  | 1        | 0.72%   |
-| Vestel Elektronik 50UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 0.72%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 0.72%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 0.72%   |
 | Sony TV SNYAB03 1920x1080                                               | 1        | 0.72%   |
 | Sony TV *02 SNY9403 1920x1080 1218x685mm 55.0-inch                      | 1        | 0.72%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch       | 1        | 0.72%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch       | 1        | 0.72%   |
 | Samsung Electronics SyncMaster SAM05EC 1920x1080 597x336mm 27.0-inch    | 1        | 0.72%   |
 | Samsung Electronics SyncMaster SAM04DE 1920x1080 477x268mm 21.5-inch    | 1        | 0.72%   |
 | Samsung Electronics SyncMaster SAM04D3 1920x1080 531x298mm 24.0-inch    | 1        | 0.72%   |
@@ -2608,7 +2609,7 @@ Memory module models
 | Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s                      | 1        | 1.32%   |
 | Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s                           | 1        | 1.32%   |
 | Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3000MT/s                         | 1        | 1.32%   |
-| Team RAM TEAMGROUP-UD3-1600 4GB DIMM DDR3 1600MT/s                         | 1        | 1.32%   |
+| Team RAM TEAMGROUP-UD3-1600 2GB DIMM DDR3 1600MT/s                         | 1        | 1.32%   |
 | TakeMS RAM TMS4GB364F081139EM 4096MB DIMM DDR3 1333MT/s                    | 1        | 1.32%   |
 | TakeMS RAM TMS4GB364E081139PP 4GB DIMM DDR3 1333MT/s                       | 1        | 1.32%   |
 | TakeMS RAM TMS2GB264D081805EV 2048MB DIMM DDR2 800MT/s                     | 1        | 1.32%   |
@@ -2618,7 +2619,7 @@ Memory module models
 | SK hynix RAM HMA41GR7AFR4N-UH 8GB DIMM DDR4 2400MT/s                       | 1        | 1.32%   |
 | SK hynix RAM 48594D503131325536344350382D53362020 1024MB DIMM DDR2 800MT/s | 1        | 1.32%   |
 | Samsung RAM Module 4096MB DIMM DDR4 2400MT/s                               | 1        | 1.32%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s                     | 1        | 1.32%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s                      | 1        | 1.32%   |
 | Samsung RAM M393B1G70QH0-CMA 8GB DIMM 1867MT/s                             | 1        | 1.32%   |
 | Samsung RAM M393A1K43BB0-CRC 8GB DIMM DDR4 2400MT/s                        | 1        | 1.32%   |
 | Samsung RAM M391A2K43BB1-CRC 16GB DIMM DDR4 2866MT/s                       | 1        | 1.32%   |
@@ -2626,7 +2627,7 @@ Memory module models
 | Samsung RAM M378B5673FH0-CF8 2048MB DIMM DDR3 1067MT/s                     | 1        | 1.32%   |
 | Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM                            | 1        | 1.32%   |
 | Samsung RAM M3 78T5663QZ3-CE6 2048MB DIMM DDR2 667MT/s                     | 1        | 1.32%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 49926MT/s                     | 1        | 1.32%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1        | 1.32%   |
 | Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s                        | 1        | 1.32%   |
 | Micron RAM 18HTF12872AY-667B3 1024MB DIMM DDR2 667MT/s                     | 1        | 1.32%   |
 | Kingston RAM Module 1024MB DIMM DDR2 800MT/s                               | 1        | 1.32%   |
@@ -2634,7 +2635,7 @@ Memory module models
 | Kingston RAM KHX3200C18D4/8G 8GB DIMM DDR4 3333MT/s                        | 1        | 1.32%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s                     | 1        | 1.32%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s                          | 1        | 1.32%   |
-| Kingston RAM KHX2133C14D4/8G 8GB DIMM 2667MT/s                             | 1        | 1.32%   |
+| Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s                        | 1        | 1.32%   |
 | Kingston RAM KHX2133C11D3/8GX 8192MB DIMM DDR3 2133MT/s                    | 1        | 1.32%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s                        | 1        | 1.32%   |
 | Kingston RAM 9965639-002.A02G 8GB DIMM DDR4 2133MT/s                       | 1        | 1.32%   |
@@ -2705,10 +2706,10 @@ Memory module speed
 | 2667    | 5        | 7.14%   |
 | 800     | 4        | 5.71%   |
 | 667     | 4        | 5.71%   |
+| 3733    | 3        | 4.29%   |
 | 1867    | 3        | 4.29%   |
 | 1333    | 3        | 4.29%   |
 | 3800    | 2        | 2.86%   |
-| 3733    | 2        | 2.86%   |
 | 3000    | 2        | 2.86%   |
 | 2048    | 2        | 2.86%   |
 | 1800    | 2        | 2.86%   |
@@ -2716,7 +2717,6 @@ Memory module speed
 | 3866    | 1        | 1.43%   |
 | 3466    | 1        | 1.43%   |
 | 3333    | 1        | 1.43%   |
-| 3266    | 1        | 1.43%   |
 | 2866    | 1        | 1.43%   |
 | 2800    | 1        | 1.43%   |
 | 1639    | 1        | 1.43%   |
@@ -2830,7 +2830,7 @@ Camera device models
 | Logitech Webcam C210                          | 1        | 6.67%   |
 | Logitech Webcam C170                          | 1        | 6.67%   |
 | Logitech HD Pro Webcam C920                   | 1        | 6.67%   |
-| Logitech BRIO Ultra HD Webcam                 | 1        | 6.67%   |
+| Logitech BRIO                                 | 1        | 6.67%   |
 | Cubeternet GL-UPC822 UVC WebCam               | 1        | 6.67%   |
 | Chicony USB2.0 HD UVC WebCam                  | 1        | 6.67%   |
 

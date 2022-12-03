@@ -968,21 +968,22 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SanDisk             | 5         | 5      | 17.86%  |
-| WDC                 | 3         | 3      | 10.71%  |
-| Samsung Electronics | 3         | 4      | 10.71%  |
-| Crucial             | 3         | 4      | 10.71%  |
-| PNY                 | 2         | 2      | 7.14%   |
-| Patriot             | 2         | 2      | 7.14%   |
-| Kingston            | 2         | 2      | 7.14%   |
-| SPCC                | 1         | 2      | 3.57%   |
-| Micron_1            | 1         | 1      | 3.57%   |
-| LITEON              | 1         | 1      | 3.57%   |
-| HEORIADY            | 1         | 1      | 3.57%   |
-| Dogfish             | 1         | 1      | 3.57%   |
-| AMD                 | 1         | 1      | 3.57%   |
-| ALERTSEAL           | 1         | 1      | 3.57%   |
-| A-DATA Technology   | 1         | 1      | 3.57%   |
+| SanDisk             | 5         | 5      | 17.24%  |
+| WDC                 | 3         | 3      | 10.34%  |
+| Samsung Electronics | 3         | 4      | 10.34%  |
+| Crucial             | 3         | 4      | 10.34%  |
+| PNY                 | 2         | 2      | 6.9%    |
+| Patriot             | 2         | 2      | 6.9%    |
+| Kingston            | 2         | 2      | 6.9%    |
+| SPCC                | 1         | 2      | 3.45%   |
+| Micron_1            | 1         | 1      | 3.45%   |
+| LITEON              | 1         | 1      | 3.45%   |
+| JMicron Technology  | 1         | 1      | 3.45%   |
+| HEORIADY            | 1         | 1      | 3.45%   |
+| Dogfish             | 1         | 1      | 3.45%   |
+| AMD                 | 1         | 1      | 3.45%   |
+| ALERTSEAL           | 1         | 1      | 3.45%   |
+| A-DATA Technology   | 1         | 1      | 3.45%   |
 
 Drive Kind
 ----------
@@ -995,9 +996,9 @@ HDD or SSD
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
 | HDD     | 35        | 36     | 46.05%  |
-| SSD     | 27        | 31     | 35.53%  |
+| SSD     | 28        | 32     | 36.84%  |
 | MMC     | 6         | 10     | 7.89%   |
-| NVMe    | 5         | 7      | 6.58%   |
+| NVMe    | 4         | 6      | 5.26%   |
 | Unknown | 3         | 3      | 3.95%   |
 
 Drive Connector
@@ -1025,9 +1026,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 42        | 46     | 68.85%  |
-| 0.51-1.0   | 18        | 20     | 29.51%  |
-| 1.01-2.0   | 1         | 1      | 1.64%   |
+| 0.01-0.5   | 42        | 46     | 67.74%  |
+| 0.51-1.0   | 19        | 21     | 30.65%  |
+| 1.01-2.0   | 1         | 1      | 1.61%   |
 
 Space Total
 -----------
@@ -1165,7 +1166,7 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                           | 2         | 2.67%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                          | 2         | 2.67%   |
 | VIA VT6421 IDE/SATA Controller                                                         | 1         | 1.33%   |
-| SK hynix Gold P31 SSD                                                                  | 1         | 1.33%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                         | 1         | 1.33%   |
 | SK hynix BC511                                                                         | 1         | 1.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                          | 1         | 1.33%   |
 | Lenovo Non-Volatile memory controller                                                  | 1         | 1.33%   |
@@ -1565,48 +1566,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Notebooks | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics LCD Monitor SEC364A 1366x768 344x194mm 15.5-inch  | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SDC4852 1366x768 344x194mm 15.5-inch  | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SAM03D3 1360x768 410x256mm 19.0-inch  | 2         | 3.13%   |
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch          | 2         | 3.13%   |
-| AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch         | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SEC3645 1280x800 331x207mm 15.4-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SEC3254 1600x900 367x230mm 17.1-inch  | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SAM0FEF 3840x2160 950x540mm 43.0-inch | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch  | 1         | 1.56%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.56%   |
-| LG Philips LCD Monitor LPL3B01 1280x800 331x207mm 15.4-inch           | 1         | 1.56%   |
-| LG Philips LCD Monitor LPL012B 1280x800 304x190mm 14.1-inch           | 1         | 1.56%   |
-| LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch         | 1         | 1.56%   |
-| LG Display LCD Monitor LGD7001 1366x768 340x190mm 15.3-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD05F2 1920x1080 344x194mm 15.5-inch          | 1         | 1.56%   |
-| LG Display LCD Monitor LGD0525 1366x768 344x194mm 15.5-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD0430 1366x768 345x194mm 15.6-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD03DD 1366x768 344x194mm 15.5-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD0386 1366x768 309x174mm 14.0-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch          | 1         | 1.56%   |
-| LG Display LCD Monitor LGD02A6 1366x768 345x194mm 15.6-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch          | 1         | 1.56%   |
-| LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD01DD 1600x900 382x215mm 17.3-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD01CA 1600x900 382x215mm 17.3-inch           | 1         | 1.56%   |
-| LG Display LCD Monitor LGD01AF 1680x1050 331x207mm 15.4-inch          | 1         | 1.56%   |
-| LG Display LCD Monitor LGD018E 1920x1200 367x230mm 17.1-inch          | 1         | 1.56%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 344x194mm 15.5-inch               | 1         | 1.56%   |
-| Goldstar 32LG7000 GSM765E 1920x1080 700x390mm 31.5-inch               | 1         | 1.56%   |
-| Dell E1709W DELD022 1440x900 370x230mm 17.2-inch                      | 1         | 1.56%   |
-| Chimei Innolux LCD Monitor CMN1734 1600x900 382x214mm 17.2-inch       | 1         | 1.56%   |
-| Chimei Innolux LCD Monitor CMN15DC 1366x768 344x193mm 15.5-inch       | 1         | 1.56%   |
+| Model                                                                   | Notebooks | Percent |
+|-------------------------------------------------------------------------|-----------|---------|
+| Samsung Electronics LCD Monitor SEC364A 1366x768 344x194mm 15.5-inch    | 2         | 3.13%   |
+| Samsung Electronics LCD Monitor SDC4852 1366x768 344x194mm 15.5-inch    | 2         | 3.13%   |
+| Samsung Electronics LCD Monitor SAM03D3 1360x768 410x256mm 19.0-inch    | 2         | 3.13%   |
+| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch            | 2         | 3.13%   |
+| AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch           | 2         | 3.13%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC3645 1280x800 331x207mm 15.4-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC3254 1600x900 367x230mm 17.1-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SAM0FEF 3840x2160 1872x1053mm 84.6-inch | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch    | 1         | 1.56%   |
+| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch                 | 1         | 1.56%   |
+| LG Philips LCD Monitor LPL3B01 1280x800 331x207mm 15.4-inch             | 1         | 1.56%   |
+| LG Philips LCD Monitor LPL012B 1280x800 304x190mm 14.1-inch             | 1         | 1.56%   |
+| LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch           | 1         | 1.56%   |
+| LG Display LCD Monitor LGD7001 1366x768 340x190mm 15.3-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD05F2 1920x1080 344x194mm 15.5-inch            | 1         | 1.56%   |
+| LG Display LCD Monitor LGD0525 1366x768 344x194mm 15.5-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD0430 1366x768 345x194mm 15.6-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD03DD 1366x768 344x194mm 15.5-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD0386 1366x768 309x174mm 14.0-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch            | 1         | 1.56%   |
+| LG Display LCD Monitor LGD02A6 1366x768 345x194mm 15.6-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch            | 1         | 1.56%   |
+| LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD01DD 1600x900 382x215mm 17.3-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD01CA 1600x900 382x215mm 17.3-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD01AF 1680x1050 331x207mm 15.4-inch            | 1         | 1.56%   |
+| LG Display LCD Monitor LGD018E 1920x1200 367x230mm 17.1-inch            | 1         | 1.56%   |
+| Lenovo LCD Monitor LEN40B0 1366x768 345x194mm 15.6-inch                 | 1         | 1.56%   |
+| Goldstar 32LG7000 GSM765E 1920x1080 700x390mm 31.5-inch                 | 1         | 1.56%   |
+| Dell E1709W DELD022 1440x900 370x230mm 17.2-inch                        | 1         | 1.56%   |
+| Chimei Innolux LCD Monitor CMN1734 1600x900 382x214mm 17.2-inch         | 1         | 1.56%   |
+| Chimei Innolux LCD Monitor CMN15DC 1366x768 344x193mm 15.5-inch         | 1         | 1.56%   |
 
 Monitor Resolution
 ------------------
@@ -2121,7 +2122,7 @@ Sound card models
 | Intel NM10/ICH7 Family High Definition Audio Controller                           | 1         | 1%      |
 | Intel Celeron/Pentium Silver Processor High Definition Audio                      | 1         | 1%      |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 1         | 1%      |
-| GN Netcom Jabra EVOLVE 30 II                                                      | 1         | 1%      |
+| GN Netcom enc060:Buttons Volume up/down/mute + phone [Jabra]                      | 1         | 1%      |
 | AMD Wrestler HDMI Audio                                                           | 1         | 1%      |
 | AMD Trinity HDMI Audio Controller                                                 | 1         | 1%      |
 | AMD RV635 HDMI Audio [Radeon HD 3650/3730/3750]                                   | 1         | 1%      |
@@ -2155,15 +2156,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Notebooks | Percent |
-|---------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s           | 1         | 14.29%  |
-| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s           | 1         | 14.29%  |
-| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s         | 1         | 14.29%  |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s   | 1         | 14.29%  |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 14.29%  |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s | 1         | 14.29%  |
-| Kingston RAM 9905428-020.A00LF 4GB SODIMM DDR3 1067MT/s | 1         | 14.29%  |
+| Model                                                    | Notebooks | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s            | 1         | 14.29%  |
+| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s            | 1         | 14.29%  |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s          | 1         | 14.29%  |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s    | 1         | 14.29%  |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1         | 14.29%  |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s  | 1         | 14.29%  |
+| Kingston RAM 9905428-020.A00LF 4GB SODIMM DDR3 1067MT/s  | 1         | 14.29%  |
 
 Memory Kind
 -----------
@@ -2281,10 +2282,10 @@ Camera device vendors
 | Apple                                  | 2         | 3.7%    |
 | Alcor Micro                            | 2         | 3.7%    |
 | Z-Star Microelectronics                | 1         | 1.85%   |
+| USB Camera                             | 1         | 1.85%   |
 | Syntek                                 | 1         | 1.85%   |
 | Samsung Electronics                    | 1         | 1.85%   |
 | IMC Networks                           | 1         | 1.85%   |
-| icSpring                               | 1         | 1.85%   |
 | ALi                                    | 1         | 1.85%   |
 
 Camera Model
@@ -2295,48 +2296,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                          | Notebooks | Percent |
-|----------------------------------------------------------------|-----------|---------|
-| Chicony HD WebCam                                              | 3         | 5.56%   |
-| Suyin Acer/HP Integrated Webcam [CN0314]                       | 2         | 3.7%    |
-| Sunplus HD WebCam                                              | 2         | 3.7%    |
-| Quanta HP Webcam                                               | 2         | 3.7%    |
-| Chicony CNF9055 Toshiba Webcam                                 | 2         | 3.7%    |
-| Apple Built-in iSight                                          | 2         | 3.7%    |
-| Acer Lenovo EasyCamera                                         | 2         | 3.7%    |
-| Z-Star WebCam SC-03FFL11739P                                   | 1         | 1.85%   |
-| Syntek Lenovo EasyCamera                                       | 1         | 1.85%   |
-| Suyin UVC HD Webcam                                            | 1         | 1.85%   |
-| Silicon Motion WebCam SCB-1100N                                | 1         | 1.85%   |
-| Silicon Motion WebCam SCB-0385N                                | 1         | 1.85%   |
-| Silicon Motion WebCam SC-0311139N                              | 1         | 1.85%   |
-| Silicon Motion 300k Pixel Camera                               | 1         | 1.85%   |
-| Samsung Galaxy series, misc. (MTP mode)                        | 1         | 1.85%   |
-| Ricoh Laptop_Integrated_Webcam_3M                              | 1         | 1.85%   |
-| Ricoh Integrated Webcam                                        | 1         | 1.85%   |
-| Realtek USB Camera                                             | 1         | 1.85%   |
-| Realtek 2SF022                                                 | 1         | 1.85%   |
-| Quanta Laptop_Integrated_Webcam_2HDM                           | 1         | 1.85%   |
-| Primax HP Webcam-101                                           | 1         | 1.85%   |
-| Primax HP HD Webcam [Fixed]                                    | 1         | 1.85%   |
-| Microdia Lenovo EasyCamera                                     | 1         | 1.85%   |
-| Microdia Laptop_Integrated_Webcam_0.3M                         | 1         | 1.85%   |
-| Microdia Integrated_Webcam_HD                                  | 1         | 1.85%   |
-| Microdia Integrated Webcam                                     | 1         | 1.85%   |
-| Microdia Dell Integrated HD Webcam                             | 1         | 1.85%   |
-| IMC Networks USB2.0 HD UVC WebCam                              | 1         | 1.85%   |
-| icSpring camera                                                | 1         | 1.85%   |
-| Chicony USB 2.0 Camera                                         | 1         | 1.85%   |
-| Chicony integrated camera                                      | 1         | 1.85%   |
-| Chicony HP Webcam                                              | 1         | 1.85%   |
-| Chicony HP TrueVision HD Camera                                | 1         | 1.85%   |
-| Chicony HP HD Webcam                                           | 1         | 1.85%   |
-| Chicony FJ Camera                                              | 1         | 1.85%   |
-| Chicony 2.0M UVC Webcam / CNF7129                              | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) Webcam                  | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP Webcam               | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP Truevision HD        | 1         | 1.85%   |
+| Model                                                                 | Notebooks | Percent |
+|-----------------------------------------------------------------------|-----------|---------|
+| Chicony HD WebCam                                                     | 3         | 5.56%   |
+| Suyin Acer/HP Integrated Webcam [CN0314]                              | 2         | 3.7%    |
+| Sunplus HD WebCam                                                     | 2         | 3.7%    |
+| Realtek USB Camera                                                    | 2         | 3.7%    |
+| Quanta HP Webcam                                                      | 2         | 3.7%    |
+| Chicony CNF9055 Toshiba Webcam                                        | 2         | 3.7%    |
+| Apple Built-in iSight                                                 | 2         | 3.7%    |
+| Acer Lenovo EasyCamera                                                | 2         | 3.7%    |
+| Z-Star WebCam SC-03FFL11739P                                          | 1         | 1.85%   |
+| USB Camera USB Camera                                                 | 1         | 1.85%   |
+| Syntek Lenovo EasyCamera                                              | 1         | 1.85%   |
+| Suyin UVC HD Webcam                                                   | 1         | 1.85%   |
+| Silicon Motion WebCam SCB-1100N                                       | 1         | 1.85%   |
+| Silicon Motion WebCam SCB-0385N                                       | 1         | 1.85%   |
+| Silicon Motion WebCam SC-0311139N                                     | 1         | 1.85%   |
+| Silicon Motion 300k Pixel Camera                                      | 1         | 1.85%   |
+| Samsung Galaxy series, misc. (MTP mode)                               | 1         | 1.85%   |
+| Ricoh Laptop_Integrated_Webcam_3M                                     | 1         | 1.85%   |
+| Ricoh Integrated Webcam                                               | 1         | 1.85%   |
+| Quanta Laptop_Integrated_Webcam_2HDM                                  | 1         | 1.85%   |
+| Primax HP Webcam-101                                                  | 1         | 1.85%   |
+| Primax HP HD Webcam [Fixed]                                           | 1         | 1.85%   |
+| Microdia Lenovo EasyCamera                                            | 1         | 1.85%   |
+| Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 1.85%   |
+| Microdia Integrated_Webcam_HD                                         | 1         | 1.85%   |
+| Microdia Integrated Webcam                                            | 1         | 1.85%   |
+| Microdia Dell Integrated HD Webcam                                    | 1         | 1.85%   |
+| IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 1.85%   |
+| Chicony USB 2.0 Camera                                                | 1         | 1.85%   |
+| Chicony integrated camera                                             | 1         | 1.85%   |
+| Chicony HP Webcam                                                     | 1         | 1.85%   |
+| Chicony HP TrueVision HD Camera                                       | 1         | 1.85%   |
+| Chicony HP HD Webcam                                                  | 1         | 1.85%   |
+| Chicony FJ Camera                                                     | 1         | 1.85%   |
+| Chicony 2.0M UVC Webcam / CNF7129                                     | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam                         | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP Webcam                      | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera        | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP Truevision HD               | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP HD Webcam                   | 1         | 1.85%   |
 
 Security
 --------

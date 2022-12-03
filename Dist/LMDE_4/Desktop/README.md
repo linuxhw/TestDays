@@ -1130,7 +1130,7 @@ Hard drive models
 | Seagate ST2000LX001-1RG174 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-9YN164 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-1ER164 2TB         | 2        | 0.71%   |
-| Seagate Expansion 2TB                  | 2        | 0.71%   |
+| Seagate Expansion 1TB                  | 2        | 0.71%   |
 | Samsung SSD 850 EVO 500GB              | 2        | 0.71%   |
 | Samsung SP0802N 80GB                   | 2        | 0.71%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 256GB | 2        | 0.71%   |
@@ -1158,14 +1158,13 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 51       | 89     | 35.66%  |
-| Seagate             | 40       | 69     | 27.97%  |
-| Samsung Electronics | 22       | 30     | 15.38%  |
-| Hitachi             | 12       | 15     | 8.39%   |
-| Toshiba             | 9        | 11     | 6.29%   |
-| Maxtor              | 3        | 5      | 2.1%    |
+| WDC                 | 51       | 89     | 35.92%  |
+| Seagate             | 40       | 69     | 28.17%  |
+| Samsung Electronics | 22       | 30     | 15.49%  |
+| Hitachi             | 12       | 15     | 8.45%   |
+| Toshiba             | 9        | 11     | 6.34%   |
+| Maxtor              | 3        | 5      | 2.11%   |
 | Unknown             | 1        | 1      | 0.7%    |
-| SABRENT             | 1        | 1      | 0.7%    |
 | KESU                | 1        | 2      | 0.7%    |
 | HPE                 | 1        | 4      | 0.7%    |
 | Fujitsu             | 1        | 1      | 0.7%    |
@@ -1214,9 +1213,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 112      | 229    | 56.85%  |
-| SSD  | 70       | 108    | 35.53%  |
-| NVMe | 15       | 22     | 7.61%   |
+| HDD  | 112      | 228    | 56.57%  |
+| SSD  | 70       | 108    | 35.35%  |
+| NVMe | 16       | 23     | 8.08%   |
 
 Drive Connector
 ---------------
@@ -1242,12 +1241,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 121      | 231    | 61.73%  |
-| 0.51-1.0   | 47       | 66     | 23.98%  |
-| 1.01-2.0   | 20       | 28     | 10.2%   |
-| 3.01-4.0   | 4        | 8      | 2.04%   |
-| 2.01-3.0   | 2        | 2      | 1.02%   |
-| 4.01-10.0  | 2        | 2      | 1.02%   |
+| 0.01-0.5   | 121      | 231    | 62.69%  |
+| 0.51-1.0   | 46       | 67     | 23.83%  |
+| 1.01-2.0   | 18       | 26     | 9.33%   |
+| 3.01-4.0   | 4        | 8      | 2.07%   |
+| 2.01-3.0   | 2        | 2      | 1.04%   |
+| 4.01-10.0  | 2        | 2      | 1.04%   |
 
 Space Total
 -----------
@@ -1921,10 +1920,10 @@ Monitor models
 | Toshiba LCD Monitor TV 1920x1080                                        | 1        | 0.6%    |
 | Targa Visionary LCD19-4 TARA194 1280x1024 376x301mm 19.0-inch           | 1        | 0.6%    |
 | Sony TV SNY4C03 1920x1080 1063x598mm 48.0-inch                          | 1        | 0.6%    |
-| Sony TV SNY1B02 1360x768 1600x900mm 72.3-inch                           | 1        | 0.6%    |
+| Sony TV SNY1B02 1360x768                                                | 1        | 0.6%    |
 | Sony LCD Monitor TV 3840x1080                                           | 1        | 0.6%    |
-| Sceptre Tech Sceptre F27 SPT0ABF 1920x1080 409x230mm 18.5-inch          | 1        | 0.6%    |
 | Sceptre Tech F24 SPT0961 1920x1080 480x260mm 21.5-inch                  | 1        | 0.6%    |
+| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                  | 1        | 0.6%    |
 | Samsung Electronics T27B300 SAM0933 1920x1080 598x336mm 27.0-inch       | 1        | 0.6%    |
 | Samsung Electronics T23B350 SAM093B 1920x1080 510x287mm 23.0-inch       | 1        | 0.6%    |
 | Samsung Electronics SyncMaster SAM0497 1600x900 443x249mm 20.0-inch     | 1        | 0.6%    |
@@ -1937,7 +1936,7 @@ Monitor models
 | Samsung Electronics SMS22A200/460 SAM0831 1920x1080 477x268mm 21.5-inch | 1        | 0.6%    |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch      | 1        | 0.6%    |
 | Samsung Electronics SMB2230 SAM063E 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S24R35x SAM100E 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
+| Samsung Electronics S24R35x SAM100E 1920x1080 527x296mm 23.8-inch       | 1        | 0.6%    |
 | Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24D360 SAM0B24 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
@@ -2231,48 +2230,48 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 4        | 6.15%   |
-| Ralink MT7601U Wireless Adapter                                | 4        | 6.15%   |
-| Intel Wi-Fi 6 AX200                                            | 4        | 6.15%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 3        | 4.62%   |
-| Realtek RTL8192CE PCIe Wireless Network Adapter                | 2        | 3.08%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                        | 2        | 3.08%   |
-| Ralink RT5370 Wireless Adapter                                 | 2        | 3.08%   |
-| Ralink RT2870/RT3070 Wireless Adapter                          | 2        | 3.08%   |
-| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter              | 2        | 3.08%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter               | 2        | 3.08%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 2        | 3.08%   |
-| Qualcomm Atheros AR9227 Wireless Network Adapter               | 2        | 3.08%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 2        | 3.08%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                    | 1        | 1.54%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1        | 1.54%   |
-| TP-Link Archer T2U PLUS [RTL8821AU]                            | 1        | 1.54%   |
-| TP-Link 802.11n NIC                                            | 1        | 1.54%   |
-| Sitecom Europe RTL8188S WLAN Adapter                           | 1        | 1.54%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                | 1        | 1.54%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                         | 1        | 1.54%   |
-| Realtek RTL8191SU 802.11n WLAN Adapter                         | 1        | 1.54%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter          | 1        | 1.54%   |
-| Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller      | 1        | 1.54%   |
-| Realtek 802.11ac WLAN Adapter                                  | 1        | 1.54%   |
-| Ralink RT2501/RT2573 Wireless Adapter                          | 1        | 1.54%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                      | 1        | 1.54%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 1        | 1.54%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1        | 1.54%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter               | 1        | 1.54%   |
-| Microsoft Xbox 360 Wireless Adapter                            | 1        | 1.54%   |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                        | 1        | 1.54%   |
-| Intel Wireless 8265 / 8275                                     | 1        | 1.54%   |
-| Intel Wireless 7265                                            | 1        | 1.54%   |
-| Intel Comet Lake PCH CNVi WiFi                                 | 1        | 1.54%   |
-| Intel Centrino Wireless-N 2230                                 | 1        | 1.54%   |
-| Intel Centrino Wireless-N 105                                  | 1        | 1.54%   |
-| Edimax AC600 USB                                               | 1        | 1.54%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter     | 1        | 1.54%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter             | 1        | 1.54%   |
-| Broadcom BCM43225 802.11b/g/n                                  | 1        | 1.54%   |
+| Model                                                                                         | Desktops | Percent |
+|-----------------------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                           | 4        | 6.15%   |
+| Ralink MT7601U Wireless Adapter                                                               | 4        | 6.15%   |
+| Intel Wi-Fi 6 AX200                                                                           | 4        | 6.15%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 3        | 4.62%   |
+| Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 2        | 3.08%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 2        | 3.08%   |
+| Ralink RT5370 Wireless Adapter                                                                | 2        | 3.08%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                                         | 2        | 3.08%   |
+| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                                             | 2        | 3.08%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 2        | 3.08%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                                | 2        | 3.08%   |
+| Qualcomm Atheros AR9227 Wireless Network Adapter                                              | 2        | 3.08%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 2        | 3.08%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 1.54%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 1.54%   |
+| TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1        | 1.54%   |
+| TP-Link 802.11n NIC                                                                           | 1        | 1.54%   |
+| Sitecom Europe RTL8188S WLAN Adapter                                                          | 1        | 1.54%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 1.54%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 1.54%   |
+| Realtek RTL8191SU 802.11n WLAN Adapter                                                        | 1        | 1.54%   |
+| Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                                     | 1        | 1.54%   |
+| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.54%   |
+| Realtek 802.11n                                                                               | 1        | 1.54%   |
+| Ralink RT2501/RT2573 Wireless Adapter                                                         | 1        | 1.54%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.54%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1        | 1.54%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                    | 1        | 1.54%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                                              | 1        | 1.54%   |
+| Microsoft Xbox 360 Wireless Adapter                                                           | 1        | 1.54%   |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                                       | 1        | 1.54%   |
+| Intel Wireless 8265 / 8275                                                                    | 1        | 1.54%   |
+| Intel Wireless 7265                                                                           | 1        | 1.54%   |
+| Intel Comet Lake PCH CNVi WiFi                                                                | 1        | 1.54%   |
+| Intel Centrino Wireless-N 2230                                                                | 1        | 1.54%   |
+| Intel Centrino Wireless-N 105                                                                 | 1        | 1.54%   |
+| Edimax AC600 USB                                                                              | 1        | 1.54%   |
+| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                                    | 1        | 1.54%   |
+| Broadcom BCM4360 802.11ac Wireless Network Adapter                                            | 1        | 1.54%   |
+| Broadcom BCM43225 802.11b/g/n                                                                 | 1        | 1.54%   |
 
 Ethernet Vendor
 ---------------
@@ -2570,32 +2569,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM 667MT/s                   | 1        | 4.17%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 4.17%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 4.17%   |
-| Unknown RAM Module 2GB DIMM DDR 1333MT/s                | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 667MT/s             | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 400MT/s             | 1        | 4.17%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                  | 1        | 4.17%   |
-| Unknown RAM Module 1024MB DIMM                          | 1        | 4.17%   |
-| Unknown RAM 4400 C19 Series 8GB DIMM DDR4 2133MT/s      | 1        | 4.17%   |
-| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s           | 1        | 4.17%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 1        | 4.17%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1        | 4.17%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s  | 1        | 4.17%   |
-| PLEXHD RAM Module 8192MB DIMM DDR3 1333MT/s             | 1        | 4.17%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |
-| Kingston RAM KP223C-ELD 2GB DIMM DDR3 1600MT/s          | 1        | 4.17%   |
-| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s  | 1        | 4.17%   |
-| Kingston RAM 9965589-033.D00G 8192MB DIMM DDR4 2400MT/s | 1        | 4.17%   |
-| G.Skill RAM F4-3200C16-16GTZSK 16GB DIMM DDR4 3200MT/s  | 1        | 4.17%   |
-| Exceleram RAM E30144A 4096MB DIMM DDR3 800MT/s          | 1        | 4.17%   |
-| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 1        | 4.17%   |
-| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2666MT/s  | 1        | 4.17%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s   | 1        | 4.17%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 512MB DIMM 667MT/s                    | 1        | 4.17%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 4.17%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                 | 1        | 4.17%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                 | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 400MT/s              | 1        | 4.17%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 4.17%   |
+| Unknown RAM Module 1024MB DIMM                           | 1        | 4.17%   |
+| Unknown RAM 4400 C19 Series 8GB DIMM DDR4 2133MT/s       | 1        | 4.17%   |
+| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 4.17%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 1        | 4.17%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1        | 4.17%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 4.17%   |
+| PLEXHD RAM Module 8192MB DIMM DDR3 1333MT/s              | 1        | 4.17%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 4.17%   |
+| Kingston RAM KP223C-ELD 2GB DIMM DDR3 1600MT/s           | 1        | 4.17%   |
+| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s   | 1        | 4.17%   |
+| Kingston RAM 9965589-033.D00G 8192MB DIMM DDR4 2400MT/s  | 1        | 4.17%   |
+| G.Skill RAM F4-3200C16-16GTZSK 16GB DIMM DDR4 3200MT/s   | 1        | 4.17%   |
+| Exceleram RAM E30144A 4096MB DIMM DDR3 800MT/s           | 1        | 4.17%   |
+| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s  | 1        | 4.17%   |
+| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2666MT/s   | 1        | 4.17%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 4.17%   |
 
 Memory Kind
 -----------
@@ -2809,9 +2808,9 @@ Fingerprint sensor models
 ![Fingerprint Model](./images/pie_chart/fingerprint_model.svg)
 
 
-| Model                    | Desktops | Percent |
-|--------------------------|----------|---------|
-| LighTuning EgisTec_ES603 | 1        | 100%    |
+| Model                                     | Desktops | Percent |
+|-------------------------------------------|----------|---------|
+| LighTuning ES603 Swipe Fingerprint Sensor | 1        | 100%    |
 
 Chipcard Vendor
 ---------------
@@ -2856,9 +2855,9 @@ Total unsupported devices on board
 |-------|----------|---------|
 | 0     | 104      | 68.87%  |
 | 1     | 40       | 26.49%  |
-| 3     | 3        | 1.99%   |
 | 2     | 3        | 1.99%   |
-| 4     | 1        | 0.66%   |
+| 4     | 2        | 1.32%   |
+| 3     | 2        | 1.32%   |
 
 Unsupported Device Types
 ------------------------
@@ -2870,14 +2869,14 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 26       | 48.15%  |
-| Net/wireless             | 14       | 25.93%  |
-| Communication controller | 4        | 7.41%   |
-| Unassigned class         | 2        | 3.7%    |
-| Network                  | 2        | 3.7%    |
-| Net/ethernet             | 2        | 3.7%    |
-| Storage/ide              | 1        | 1.85%   |
-| Modem                    | 1        | 1.85%   |
-| Fingerprint reader       | 1        | 1.85%   |
-| Chipcard                 | 1        | 1.85%   |
+| Graphics card            | 27       | 49.09%  |
+| Net/wireless             | 14       | 25.45%  |
+| Communication controller | 4        | 7.27%   |
+| Unassigned class         | 2        | 3.64%   |
+| Network                  | 2        | 3.64%   |
+| Net/ethernet             | 2        | 3.64%   |
+| Storage/ide              | 1        | 1.82%   |
+| Modem                    | 1        | 1.82%   |
+| Fingerprint reader       | 1        | 1.82%   |
+| Chipcard                 | 1        | 1.82%   |
 

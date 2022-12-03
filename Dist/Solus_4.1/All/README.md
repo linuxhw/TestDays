@@ -1033,10 +1033,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 42        | 62     | 61.76%  |
-| 0.51-1.0   | 18        | 20     | 26.47%  |
-| 1.01-2.0   | 6         | 19     | 8.82%   |
-| 3.01-4.0   | 2         | 2      | 2.94%   |
+| 0.01-0.5   | 42        | 61     | 60.87%  |
+| 0.51-1.0   | 19        | 21     | 27.54%  |
+| 1.01-2.0   | 6         | 19     | 8.7%    |
+| 3.01-4.0   | 1         | 1      | 1.45%   |
+| 4.01-10.0  | 1         | 1      | 1.45%   |
 
 Space Total
 -----------
@@ -1202,48 +1203,48 @@ Storage controller models
 ![Storage Model](./images/pie_chart/storage_model.svg)
 
 
-| Model                                                                            | Computers | Percent |
-|----------------------------------------------------------------------------------|-----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                              | 8         | 8.7%    |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 6         | 6.52%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 5         | 5.43%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 5         | 5.43%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 4         | 4.35%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 3         | 3.26%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 3         | 3.26%   |
-| Intel SSD 660P Series                                                            | 3         | 3.26%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 3         | 3.26%   |
-| AMD 400 Series Chipset SATA Controller                                           | 3         | 3.26%   |
-| SK hynix PC401 NVMe Solid State Drive 256GB                                      | 2         | 2.17%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                          | 2         | 2.17%   |
-| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                | 2         | 2.17%   |
-| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 2         | 2.17%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                       | 2         | 2.17%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                        | 2         | 2.17%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                   | 2         | 2.17%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 2         | 2.17%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 2         | 2.17%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2         | 2.17%   |
-| AMD 500 Series Chipset SATA Controller                                           | 2         | 2.17%   |
-| Toshiba America Info Systems XG4 NVMe SSD Controller                             | 1         | 1.09%   |
-| Toshiba America Info Systems Toshiba America Info Non-Volatile memory controller | 1         | 1.09%   |
-| SK hynix BC501 NVMe Solid State Drive                                            | 1         | 1.09%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 1.09%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 1.09%   |
-| Samsung Electronics SATA controller                                              | 1         | 1.09%   |
-| Nvidia MCP79 AHCI Controller                                                     | 1         | 1.09%   |
-| Micron Non-Volatile memory controller                                            | 1         | 1.09%   |
-| Lenovo Non-Volatile memory controller                                            | 1         | 1.09%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                            | 1         | 1.09%   |
-| JMicron JMB363 SATA/IDE Controller                                               | 1         | 1.09%   |
-| Intel SATA Controller [RAID mode]                                                | 1         | 1.09%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 1.09%   |
-| Intel Non-Volatile memory controller                                             | 1         | 1.09%   |
-| Intel Celeron/Pentium Silver Processor SATA Controller                           | 1         | 1.09%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 1         | 1.09%   |
-| Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 1         | 1.09%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 1         | 1.09%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                           | 1         | 1.09%   |
+| Model                                                                          | Computers | Percent |
+|--------------------------------------------------------------------------------|-----------|---------|
+| AMD FCH SATA Controller [AHCI mode]                                            | 8         | 8.7%    |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 6         | 6.52%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 5         | 5.43%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 5         | 5.43%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 4         | 4.35%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 3.26%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 3         | 3.26%   |
+| Intel SSD 660P Series                                                          | 3         | 3.26%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 3         | 3.26%   |
+| AMD 400 Series Chipset SATA Controller                                         | 3         | 3.26%   |
+| SK hynix PC401 NVMe Solid State Drive 256GB                                    | 2         | 2.17%   |
+| Intel SSD Pro 7600p/760p/E 6100p Series                                        | 2         | 2.17%   |
+| Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 2         | 2.17%   |
+| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 2         | 2.17%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                     | 2         | 2.17%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                      | 2         | 2.17%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 2         | 2.17%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2         | 2.17%   |
+| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 2.17%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 2         | 2.17%   |
+| AMD 500 Series Chipset SATA Controller                                         | 2         | 2.17%   |
+| Toshiba America Info Systems XG5 NVMe SSD Controller                           | 1         | 1.09%   |
+| Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1         | 1.09%   |
+| SK hynix BC501 NVMe Solid State Drive                                          | 1         | 1.09%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 1.09%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 1.09%   |
+| Samsung Electronics SATA controller                                            | 1         | 1.09%   |
+| Nvidia MCP79 AHCI Controller                                                   | 1         | 1.09%   |
+| Micron Non-Volatile memory controller                                          | 1         | 1.09%   |
+| Lenovo Non-Volatile memory controller                                          | 1         | 1.09%   |
+| Kingston Company U-SNS8154P3 NVMe SSD                                          | 1         | 1.09%   |
+| JMicron JMB363 SATA/IDE Controller                                             | 1         | 1.09%   |
+| Intel SATA Controller [RAID mode]                                              | 1         | 1.09%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 1.09%   |
+| Intel Non-Volatile memory controller                                           | 1         | 1.09%   |
+| Intel Celeron/Pentium Silver Processor SATA Controller                         | 1         | 1.09%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller       | 1         | 1.09%   |
+| Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 1         | 1.09%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 1         | 1.09%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 1         | 1.09%   |
 
 Storage Kind
 ------------
@@ -1653,7 +1654,7 @@ Monitor models
 | ___ LCD TV ___9000 1360x768                                           | 1         | 1.28%   |
 | ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                | 1         | 1.28%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 1.28%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 1.28%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 1.28%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 1.28%   |
@@ -1666,7 +1667,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch  | 1         | 1.28%   |
 | Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch               | 1         | 1.28%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.28%   |
+| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 1.28%   |
 | MSI G27C4 MSI3CA9 1920x1080 598x336mm 27.0-inch                       | 1         | 1.28%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                     | 1         | 1.28%   |
 | LG Display LCD Monitor LGD05B4 1920x1080 294x165mm 13.3-inch          | 1         | 1.28%   |
@@ -1679,12 +1680,12 @@ Monitor models
 | Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch            | 1         | 1.28%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch              | 1         | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1         | 1.28%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                  | 1         | 1.28%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch           | 1         | 1.28%   |
+| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch           | 1         | 1.28%   |
 | Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 1.28%   |
 | Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                | 1         | 1.28%   |
 | GKK MONITOR GKK3034 1920x1080                                         | 1         | 1.28%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                   | 1         | 1.28%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                      | 1         | 1.28%   |
@@ -2250,42 +2251,42 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Computers | Percent |
-|-----------------------------------------------------------|-----------|---------|
-| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s           | 2         | 5.56%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s     | 2         | 5.56%   |
-| Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 2.78%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s            | 1         | 2.78%   |
-| Unknown RAM Module 4096MB SODIMM DDR3                     | 1         | 2.78%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s              | 1         | 2.78%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s            | 1         | 2.78%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1         | 2.78%   |
-| SK hynix RAM Module 2048MB SODIMM DDR2 800MT/s            | 1         | 2.78%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.78%   |
-| SK hynix RAM HMAA1GS6CMR6N-VK 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
-| Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s    | 1         | 2.78%   |
-| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s          | 1         | 2.78%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
-| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 1         | 2.78%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s    | 1         | 2.78%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 2.78%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
-| Kingston RAM HP24D4S7S8MBP-8 8GB SODIMM DDR4 2400MT/s     | 1         | 2.78%   |
-| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
-| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s        | 1         | 2.78%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
-| Crucial RAM CT8G4SFS824A.C8FE 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
-| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s       | 1         | 2.78%   |
-| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s    | 1         | 2.78%   |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s       | 1         | 2.78%   |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s    | 1         | 2.78%   |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1         | 2.78%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s             | 1         | 2.78%   |
-| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
+| Model                                                    | Computers | Percent |
+|----------------------------------------------------------|-----------|---------|
+| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s          | 2         | 5.56%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s    | 2         | 5.56%   |
+| Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s           | 1         | 2.78%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 2.78%   |
+| Unknown RAM Module 4096MB SODIMM DDR3                    | 1         | 2.78%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s             | 1         | 2.78%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s           | 1         | 2.78%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s             | 1         | 2.78%   |
+| SK hynix RAM Module 2048MB SODIMM DDR2 800MT/s           | 1         | 2.78%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
+| SK hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s   | 1         | 2.78%   |
+| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s         | 1         | 2.78%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s    | 1         | 2.78%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s    | 1         | 2.78%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s    | 1         | 2.78%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1867MT/s            | 1         | 2.78%   |
+| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| Kingston RAM HP24D4S7S8MBP-8 8GB SODIMM DDR4 2400MT/s    | 1         | 2.78%   |
+| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
+| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s       | 1         | 2.78%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s            | 1         | 2.78%   |
+| Crucial RAM CT8G4SFS824A.C8FE 8GB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1         | 2.78%   |
+| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s   | 1         | 2.78%   |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s      | 1         | 2.78%   |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s   | 1         | 2.78%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1         | 2.78%   |
+| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s            | 1         | 2.78%   |
+| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
 
 Memory Kind
 -----------
@@ -2561,8 +2562,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 47        | 72.31%  |
-| 1     | 14        | 21.54%  |
+| 0     | 46        | 70.77%  |
+| 1     | 15        | 23.08%  |
 | 2     | 4         | 6.15%   |
 
 Unsupported Device Types
@@ -2575,12 +2576,12 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 10        | 45.45%  |
-| Net/wireless          | 3         | 13.64%  |
-| Multimedia controller | 2         | 9.09%   |
-| Graphics card         | 2         | 9.09%   |
-| Camera                | 2         | 9.09%   |
-| Tv card               | 1         | 4.55%   |
-| Net/ethernet          | 1         | 4.55%   |
-| Chipcard              | 1         | 4.55%   |
+| Fingerprint reader    | 10        | 43.48%  |
+| Net/wireless          | 3         | 13.04%  |
+| Graphics card         | 3         | 13.04%  |
+| Multimedia controller | 2         | 8.7%    |
+| Camera                | 2         | 8.7%    |
+| Tv card               | 1         | 4.35%   |
+| Net/ethernet          | 1         | 4.35%   |
+| Chipcard              | 1         | 4.35%   |
 

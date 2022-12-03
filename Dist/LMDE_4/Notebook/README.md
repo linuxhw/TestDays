@@ -1067,8 +1067,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 136       | 60.44%  |
-| No        | 89        | 39.56%  |
+| Yes       | 136       | 60.18%  |
+| No        | 90        | 39.82%  |
 
 Has Ethernet
 ------------
@@ -1276,48 +1276,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                              | Notebooks | Percent |
-|------------------------------------|-----------|---------|
-| Samsung SSD 860 EVO 500GB          | 6         | 2.17%   |
-| Unknown MMC Card  7GB              | 4         | 1.44%   |
-| Seagate ST500LT012-1DG142 500GB    | 4         | 1.44%   |
-| Samsung SSD 860 EVO 1TB            | 4         | 1.44%   |
-| WDC WD3200BEVT-60ZCT1 320GB        | 3         | 1.08%   |
-| Unknown MMC Card  32GB             | 3         | 1.08%   |
-| Toshiba MQ01ABF050 500GB           | 3         | 1.08%   |
-| Toshiba MQ01ABD100 1TB             | 3         | 1.08%   |
-| Seagate ST9500325AS 500GB          | 3         | 1.08%   |
-| Kingston SA400S37240G 240GB SSD    | 3         | 1.08%   |
-| WDC WD7500BPVT-75HXZT3 752GB       | 2         | 0.72%   |
-| WDC WD5000LPVX-22V0TT0 500GB       | 2         | 0.72%   |
-| WDC WD2500BEVT-22ZCT0 250GB        | 2         | 0.72%   |
-| WDC WD1200BEVS-22UST0 120GB        | 2         | 0.72%   |
-| Unknown MMC Card  4GB              | 2         | 0.72%   |
-| Unknown MMC Card  16GB             | 2         | 0.72%   |
-| Toshiba MQ01ABD032 320GB           | 2         | 0.72%   |
-| Seagate ST9320423AS 320GB          | 2         | 0.72%   |
-| Seagate ST9250315AS 250GB          | 2         | 0.72%   |
-| Seagate ST9120821AS 120GB          | 2         | 0.72%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB | 2         | 0.72%   |
-| Seagate Expansion 2TB              | 2         | 0.72%   |
-| SanDisk NVMe SSD Drive 256GB       | 2         | 0.72%   |
-| Samsung SSD 860 EVO 250GB          | 2         | 0.72%   |
-| Samsung SSD 850 EVO 500GB          | 2         | 0.72%   |
-| KingDian S280 120GB                | 2         | 0.72%   |
-| Hitachi HTS725050A9A364 500GB      | 2         | 0.72%   |
-| Hitachi HTS545032B9A300 320GB      | 2         | 0.72%   |
-| Hitachi HTS543216L9A300 160GB      | 2         | 0.72%   |
-| HGST HTS721010A9E630 1TB           | 2         | 0.72%   |
-| HGST HTS545050A7E680 500GB         | 2         | 0.72%   |
-| HGST HTS545050A7E380 500GB         | 2         | 0.72%   |
-| HGST HTS541010A9E680 1TB           | 2         | 0.72%   |
-| GOODRAM SSDPR-CL100-120-G3 120GB   | 2         | 0.72%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB   | 2         | 0.72%   |
-| Fujitsu MHV2080BH 80GB             | 2         | 0.72%   |
-| China SATA SSD 120GB               | 2         | 0.72%   |
-| A-DATA ED600 1TB SSD               | 2         | 0.72%   |
-| WDC WDS240G2G0B 240GB SSD          | 1         | 0.36%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD   | 1         | 0.36%   |
+| Model                                | Notebooks | Percent |
+|--------------------------------------|-----------|---------|
+| Samsung SSD 860 EVO 500GB            | 6         | 2.17%   |
+| Unknown MMC Card  7GB                | 4         | 1.44%   |
+| Seagate ST500LT012-1DG142 500GB      | 4         | 1.44%   |
+| Samsung SSD 860 EVO 1TB              | 4         | 1.44%   |
+| WDC WD3200BEVT-60ZCT1 320GB          | 3         | 1.08%   |
+| Unknown MMC Card  32GB               | 3         | 1.08%   |
+| Toshiba MQ01ABF050 500GB             | 3         | 1.08%   |
+| Toshiba MQ01ABD100 1TB               | 3         | 1.08%   |
+| Seagate ST9500325AS 500GB            | 3         | 1.08%   |
+| Kingston SA400S37240G 240GB SSD      | 3         | 1.08%   |
+| WDC WD7500BPVT-75HXZT3 752GB         | 2         | 0.72%   |
+| WDC WD5000LPVX-22V0TT0 500GB         | 2         | 0.72%   |
+| WDC WD2500BEVT-22ZCT0 250GB          | 2         | 0.72%   |
+| WDC WD1200BEVS-22UST0 120GB          | 2         | 0.72%   |
+| Unknown MMC Card  4GB                | 2         | 0.72%   |
+| Unknown MMC Card  16GB               | 2         | 0.72%   |
+| Toshiba MQ01ABD032 320GB             | 2         | 0.72%   |
+| Seagate ST9320423AS 320GB            | 2         | 0.72%   |
+| Seagate ST9250315AS 250GB            | 2         | 0.72%   |
+| Seagate ST9120821AS 120GB            | 2         | 0.72%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB   | 2         | 0.72%   |
+| Seagate Expansion 1TB                | 2         | 0.72%   |
+| SanDisk NVMe SSD Drive 256GB         | 2         | 0.72%   |
+| Samsung SSD 860 EVO 250GB            | 2         | 0.72%   |
+| Samsung SSD 850 EVO 500GB            | 2         | 0.72%   |
+| KingDian S280 120GB                  | 2         | 0.72%   |
+| Hitachi HTS725050A9A364 500GB        | 2         | 0.72%   |
+| Hitachi HTS545032B9A300 320GB        | 2         | 0.72%   |
+| Hitachi HTS543216L9A300 160GB        | 2         | 0.72%   |
+| HGST HTS721010A9E630 1TB             | 2         | 0.72%   |
+| HGST HTS545050A7E680 500GB           | 2         | 0.72%   |
+| HGST HTS545050A7E380 500GB           | 2         | 0.72%   |
+| HGST HTS541010A9E680 1TB             | 2         | 0.72%   |
+| GOODRAM SSDPR-CL100-120-G3 120GB     | 2         | 0.72%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD | 2         | 0.72%   |
+| Fujitsu MHV2080BH 80GB               | 2         | 0.72%   |
+| China SATA SSD 120GB                 | 2         | 0.72%   |
+| A-DATA ED600 1TB SSD                 | 2         | 0.72%   |
+| WDC WDS240G2G0B 240GB SSD            | 1         | 0.36%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD     | 1         | 0.36%   |
 
 HDD Vendor
 ----------
@@ -1424,11 +1424,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 181       | 230    | 81.53%  |
-| 0.51-1.0   | 36        | 48     | 16.22%  |
-| 1.01-2.0   | 3         | 3      | 1.35%   |
-| 3.01-4.0   | 1         | 1      | 0.45%   |
-| 4.01-10.0  | 1         | 1      | 0.45%   |
+| 0.01-0.5   | 181       | 231    | 82.27%  |
+| 0.51-1.0   | 36        | 48     | 16.36%  |
+| 4.01-10.0  | 2         | 2      | 0.91%   |
+| 1.01-2.0   | 1         | 2      | 0.45%   |
 
 Space Total
 -----------
@@ -2088,11 +2087,11 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 2         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3345 1280x800 331x207mm 15.4-inch     | 2         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 2         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 0.94%   |
 | Quanta Display LCD Monitor QDS0025 1024x768 304x228mm 15.0-inch          | 2         | 0.94%   |
-| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 2         | 0.94%   |
 | HannStar HSD121PHW1 HSD04B6 1366x768 270x150mm 12.2-inch                 | 2         | 0.94%   |
 | HannStar HSD101PFW4A HSD03ED 1024x600 223x125mm 10.1-inch                | 2         | 0.94%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                 | 2         | 0.94%   |
 | CPT LCD Monitor CPT1415 1280x800 331x207mm 15.4-inch                     | 2         | 0.94%   |
 | Chimei Innolux LCD Monitor CMN1493 1366x768 309x173mm 13.9-inch          | 2         | 0.94%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1558 1366x768 344x193mm 15.5-inch | 2         | 0.94%   |
@@ -2100,7 +2099,7 @@ Monitor models
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                    | 2         | 0.94%   |
 | BOE LCD Monitor BOE06A4 1366x768 344x194mm 15.5-inch                     | 2         | 0.94%   |
 | BOE LCD Monitor BOE069C 1920x1080 344x193mm 15.5-inch                    | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch            | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO61D2 1024x600 220x130mm 10.1-inch            | 2         | 0.94%   |
 | AU Optronics LCD Monitor AUO303C 1366x768 309x173mm 13.9-inch            | 2         | 0.94%   |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch            | 2         | 0.94%   |
 | ViewSonic VX2457 VSCB931 1920x1080 521x293mm 23.5-inch                   | 1         | 0.47%   |
@@ -2118,7 +2117,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3659 1600x900 344x194mm 15.5-inch     | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3450 1400x1050 286x214mm 14.1-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC3445 1280x800 331x207mm 15.4-inch     | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC3445 1280x800 330x210mm 15.4-inch     | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 0.47%   |
 
 Monitor Resolution
@@ -2644,7 +2643,7 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 16        | 12.9%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 9         | 7.26%   |
-| Realtek Bluetooth Radio                                                             | 7         | 5.65%   |
+| Realtek Bluetooth Radio                                                             | 8         | 6.45%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 6         | 4.84%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]                                       | 5         | 4.03%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 4         | 3.23%   |
@@ -2672,7 +2671,6 @@ Controller models
 | Toshiba Integrated Bluetooth HCI                                                    | 1         | 0.81%   |
 | Toshiba Bluetooth Device                                                            | 1         | 0.81%   |
 | Taiyo Yuden Bluetooth Device(BC04-External)                                         | 1         | 0.81%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 1         | 0.81%   |
 | Realtek Bluetooth Radio                                                             | 1         | 0.81%   |
 | Ralink CSR BS8510                                                                   | 1         | 0.81%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 0.81%   |
@@ -2682,6 +2680,7 @@ Controller models
 | Intel AX200 Bluetooth                                                               | 1         | 0.81%   |
 | IMC Networks Broadcom Bluetooth 2.1                                                 | 1         | 0.81%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 0.81%   |
+| IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter                                   | 1         | 0.81%   |
 
 Sound
 -----
@@ -2802,7 +2801,7 @@ Memory module models
 | Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s     | 1         | 2.7%    |
 | SK hynix RAM Module 512MB SODIMM DDR 533MT/s              | 1         | 2.7%    |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s     | 1         | 2.7%    |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s     | 1         | 2.7%    |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 800MT/s   | 1         | 2.7%    |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
@@ -2816,12 +2815,12 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s    | 1         | 2.7%    |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s     | 1         | 2.7%    |
 | Ramaxel RAM RMSA3260MF68H9F-2666 4GB SODIMM DDR4 2400MT/s | 1         | 2.7%    |
 | Ramaxel RAM RMN1150EC48D7W-800 1024MB SODIMM DDR2 800MT/s | 1         | 2.7%    |
-| Nanya RAM NT2GC64B88G0NS-CG 2048MB SODIMM DDR3 1600MT/s   | 1         | 2.7%    |
+| Nanya RAM NT2GC64B88G0NS-CG 2GB SODIMM DDR3 1600MT/s      | 1         | 2.7%    |
 | Nanya RAM Module 1024MB SODIMM DDR 533MT/s                | 1         | 2.7%    |
-| Micron RAM 4ATS1G64HZ-2G6E1 8192MB SODIMM DDR4 2667MT/s   | 1         | 2.7%    |
+| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s      | 1         | 2.7%    |
 | Kingston RAM 9905711-016.A00G 4GB SODIMM DDR4 2667MT/s    | 1         | 2.7%    |
 | Kingston RAM 9905700-024.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 2.7%    |
 | Kingston RAM 9905624-059.A00G 8GB SODIMM DDR4 2667MT/s    | 1         | 2.7%    |
@@ -3132,9 +3131,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 145       | 64.44%  |
+| 0     | 144       | 64%     |
 | 1     | 56        | 24.89%  |
-| 2     | 17        | 7.56%   |
+| 2     | 18        | 8%      |
 | 3     | 6         | 2.67%   |
 | 6     | 1         | 0.44%   |
 
@@ -3148,15 +3147,15 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 32        | 30.19%  |
-| Fingerprint reader       | 25        | 23.58%  |
-| Net/wireless             | 17        | 16.04%  |
-| Chipcard                 | 12        | 11.32%  |
-| Storage                  | 6         | 5.66%   |
-| Multimedia controller    | 6         | 5.66%   |
-| Communication controller | 3         | 2.83%   |
-| Flash memory             | 2         | 1.89%   |
-| Network                  | 1         | 0.94%   |
-| Camera                   | 1         | 0.94%   |
-| Bluetooth                | 1         | 0.94%   |
+| Graphics card            | 34        | 31.48%  |
+| Fingerprint reader       | 25        | 23.15%  |
+| Net/wireless             | 17        | 15.74%  |
+| Chipcard                 | 12        | 11.11%  |
+| Storage                  | 6         | 5.56%   |
+| Multimedia controller    | 6         | 5.56%   |
+| Communication controller | 3         | 2.78%   |
+| Flash memory             | 2         | 1.85%   |
+| Network                  | 1         | 0.93%   |
+| Camera                   | 1         | 0.93%   |
+| Bluetooth                | 1         | 0.93%   |
 

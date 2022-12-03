@@ -1329,8 +1329,8 @@ Graphics card models
 | Model                                                                                    | Notebooks | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
 | Intel 3rd Gen Core processor Graphics Controller                                         | 4         | 11.76%  |
+| Intel HD Graphics 620                                                                    | 3         | 8.82%   |
 | Intel Skylake GT2 [HD Graphics 520]                                                      | 2         | 5.88%   |
-| Intel HD Graphics 620                                                                    | 2         | 5.88%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 2         | 5.88%   |
 | Nvidia TU106M [GeForce RTX 2060 Mobile]                                                  | 1         | 2.94%   |
 | Nvidia GP108M [GeForce MX150]                                                            | 1         | 2.94%   |
@@ -1342,7 +1342,6 @@ Graphics card models
 | Nvidia GA107M [GeForce RTX 3050 Ti Mobile]                                               | 1         | 2.94%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 1         | 2.94%   |
 | Intel TigerLake-H GT1 [UHD Graphics]                                                     | 1         | 2.94%   |
-| Intel Kaby Lake-U GT2f HD 620 Graphics Controller                                        | 1         | 2.94%   |
 | Intel HD Graphics 530                                                                    | 1         | 2.94%   |
 | Intel GeminiLake [UHD Graphics 605]                                                      | 1         | 2.94%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 1         | 2.94%   |
@@ -1439,7 +1438,7 @@ Monitor models
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                   | 1         | 3.45%   |
 | Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch        | 1         | 3.45%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 344x194mm 15.5-inch      | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch      | 1         | 3.45%   |
 | LG Display LCD Monitor LGD066A 1920x1080 344x194mm 15.5-inch              | 1         | 3.45%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch              | 1         | 3.45%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 3.45%   |
@@ -1918,13 +1917,13 @@ Memory module models
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 3.85%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s           | 1         | 3.85%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8192MB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 3.85%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 3.85%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 1         | 3.85%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 3.85%   |
+| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s         | 1         | 3.85%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 3.85%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s            | 1         | 3.85%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s             | 1         | 3.85%   |
 | Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 3.85%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s            | 1         | 3.85%   |
@@ -1974,8 +1973,8 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 10        | 50%     |
-| 8192  | 6         | 30%     |
+| 4096  | 9         | 45%     |
+| 8192  | 7         | 35%     |
 | 16384 | 2         | 10%     |
 | 2048  | 2         | 10%     |
 
@@ -2085,7 +2084,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 3.85%   |
 | Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 3.85%   |
-| Alcor Micro USB 2.0 WebCamera                                              | 1         | 3.85%   |
+| Alcor Micro USB 2.0 Camera                                                 | 1         | 3.85%   |
 | Acer BisonCam,NB Pro                                                       | 1         | 3.85%   |
 
 Security

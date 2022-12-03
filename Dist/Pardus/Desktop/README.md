@@ -1192,7 +1192,7 @@ Monitor models
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                | 1        | 6.67%   |
 | Dell P2717H DEL40F6 1920x1080 598x336mm 27.0-inch                   | 1        | 6.67%   |
 | Dell E2421HN DELF129 1920x1080 527x296mm 23.8-inch                  | 1        | 6.67%   |
-| Beko BK WUXGA BEK4448 1920x1080 1600x900mm 72.3-inch                | 1        | 6.67%   |
+| Beko BK WUXGA BEK4448 1920x1080                                     | 1        | 6.67%   |
 | AGO LCD Monitor AGO0001 1920x1080 256x192mm 12.6-inch               | 1        | 6.67%   |
 | Acer V226HQL ACR032D 1920x1080 477x268mm 21.5-inch                  | 1        | 6.67%   |
 | Acer G206HQL ACR0327 1600x900 432x239mm 19.4-inch                   | 1        | 6.67%   |

@@ -990,15 +990,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 21       | 35     | 34.43%  |
-| Seagate             | 21       | 36     | 34.43%  |
-| Toshiba             | 8        | 8      | 13.11%  |
-| Hitachi             | 3        | 3      | 4.92%   |
-| HGST                | 3        | 4      | 4.92%   |
-| Maxtor              | 2        | 5      | 3.28%   |
-| Unknown             | 1        | 1      | 1.64%   |
-| Samsung Electronics | 1        | 1      | 1.64%   |
-| SABRENT             | 1        | 1      | 1.64%   |
+| WDC                 | 21       | 35     | 35%     |
+| Seagate             | 21       | 36     | 35%     |
+| Toshiba             | 8        | 8      | 13.33%  |
+| Hitachi             | 3        | 3      | 5%      |
+| HGST                | 3        | 4      | 5%      |
+| Maxtor              | 2        | 5      | 3.33%   |
+| Unknown             | 1        | 1      | 1.67%   |
+| Samsung Electronics | 1        | 1      | 1.67%   |
 
 SSD Vendor
 ----------
@@ -1010,23 +1009,24 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 12       | 15     | 25%     |
-| Kingston            | 10       | 16     | 20.83%  |
-| SanDisk             | 7        | 10     | 14.58%  |
-| WDC                 | 4        | 4      | 8.33%   |
-| Crucial             | 2        | 3      | 4.17%   |
-| A-DATA Technology   | 2        | 2      | 4.17%   |
-| Transcend           | 1        | 1      | 2.08%   |
-| PNY                 | 1        | 1      | 2.08%   |
-| Plextor             | 1        | 1      | 2.08%   |
-| OCZ                 | 1        | 1      | 2.08%   |
-| Netac               | 1        | 1      | 2.08%   |
-| KingDian            | 1        | 1      | 2.08%   |
-| Intel               | 1        | 1      | 2.08%   |
-| China               | 1        | 1      | 2.08%   |
-| Axiom               | 1        | 1      | 2.08%   |
-| Apacer              | 1        | 1      | 2.08%   |
-| AMD                 | 1        | 8      | 2.08%   |
+| Samsung Electronics | 12       | 15     | 24.49%  |
+| Kingston            | 10       | 16     | 20.41%  |
+| SanDisk             | 7        | 10     | 14.29%  |
+| WDC                 | 4        | 4      | 8.16%   |
+| Crucial             | 2        | 3      | 4.08%   |
+| A-DATA Technology   | 2        | 2      | 4.08%   |
+| Transcend           | 1        | 1      | 2.04%   |
+| PNY                 | 1        | 1      | 2.04%   |
+| Plextor             | 1        | 1      | 2.04%   |
+| OCZ                 | 1        | 1      | 2.04%   |
+| Netac               | 1        | 1      | 2.04%   |
+| KingDian            | 1        | 1      | 2.04%   |
+| JMicron Technology  | 1        | 1      | 2.04%   |
+| Intel               | 1        | 1      | 2.04%   |
+| China               | 1        | 1      | 2.04%   |
+| Axiom               | 1        | 1      | 2.04%   |
+| Apacer              | 1        | 1      | 2.04%   |
+| AMD                 | 1        | 8      | 2.04%   |
 
 Drive Kind
 ----------
@@ -1038,10 +1038,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 48       | 94     | 44.86%  |
-| SSD     | 36       | 68     | 33.64%  |
-| NVMe    | 19       | 28     | 17.76%  |
-| Unknown | 4        | 5      | 3.74%   |
+| HDD     | 47       | 93     | 43.52%  |
+| SSD     | 37       | 69     | 34.26%  |
+| NVMe    | 20       | 28     | 18.52%  |
+| Unknown | 4        | 5      | 3.7%    |
 
 Drive Connector
 ---------------
@@ -1067,11 +1067,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 45       | 93     | 51.14%  |
-| 0.51-1.0   | 22       | 31     | 25%     |
-| 1.01-2.0   | 12       | 24     | 13.64%  |
-| 3.01-4.0   | 6        | 10     | 6.82%   |
-| 4.01-10.0  | 3        | 4      | 3.41%   |
+| 0.01-0.5   | 46       | 93     | 51.69%  |
+| 0.51-1.0   | 22       | 31     | 24.72%  |
+| 1.01-2.0   | 12       | 24     | 13.48%  |
+| 3.01-4.0   | 6        | 10     | 6.74%   |
+| 4.01-10.0  | 3        | 4      | 3.37%   |
 
 Space Total
 -----------
@@ -1693,22 +1693,22 @@ Monitor models
 | Samsung Electronics SyncMaster SAM05CD 1920x1080                       | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM0587 1920x1200 518x324mm 24.1-inch   | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch   | 1        | 1.3%    |
-| Samsung Electronics S34J55x SAM0F72 1720x1440                          | 1        | 1.3%    |
+| Samsung Electronics S34J55x SAM0F72 3440x1440 797x333mm 34.0-inch      | 1        | 1.3%    |
 | Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch      | 1        | 1.3%    |
 | Samsung Electronics S24C650 SAM09E9 1920x1080 521x293mm 23.5-inch      | 1        | 1.3%    |
 | Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch      | 1        | 1.3%    |
 | Samsung Electronics S24B300 SAM08B4 1920x1080 521x293mm 23.5-inch      | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 1020x570mm 46.0-inch | 1        | 1.3%    |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 480x270mm 21.7-inch  | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor SAM06CA 1920x1080 1110x620mm 50.1-inch | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor S24E310 3840x1080                      | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor S24E310                                | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor C32F391 1920x1080                      | 1        | 1.3%    |
 | Pioneer Electronic LCD Monitor PDP-42FXE10 2646x768                    | 1        | 1.3%    |
 | Pioneer Electronic LCD Monitor PDP-42FXE10 2390x768                    | 1        | 1.3%    |
-| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch                | 1        | 1.3%    |
+| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                | 1        | 1.3%    |
 | NEC Computers LCD2070NX NEC667B 1600x1200 410x310mm 20.2-inch          | 1        | 1.3%    |
 | NEC Computers LCD2070NX NEC667B 1600x1200 408x306mm 20.1-inch          | 1        | 1.3%    |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.3%    |
+| MStar Demo MST0030 1920x1080 1150x650mm 52.0-inch                      | 1        | 1.3%    |
 | MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                       | 1        | 1.3%    |
 | Medion MD41077EA MED078B 1280x1024 330x270mm 16.8-inch                 | 1        | 1.3%    |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 1.3%    |
@@ -1720,7 +1720,7 @@ Monitor models
 | Hewlett-Packard w185e HWP292E 1366x768 410x230mm 18.5-inch             | 1        | 1.3%    |
 | Hewlett-Packard LCD Monitor LP3065 2560x1600                           | 1        | 1.3%    |
 | Hewlett-Packard L1940T HWP2682 1280x1024 338x270mm 17.0-inch           | 1        | 1.3%    |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 1        | 1.3%    |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 1        | 1.3%    |
 
 Monitor Resolution
 ------------------
@@ -2299,20 +2299,20 @@ Memory module models
 | SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s  | 1        | 2.86%   |
 | Sesame RAM S939A2UGS-ITR 8GB DIMM DDR3 1600MT/s          | 1        | 2.86%   |
 | Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s   | 1        | 2.86%   |
-| Samsung RAM M378A1K43CB2-CRC 8192MB DIMM DDR4 3500MT/s   | 1        | 2.86%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 2.86%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 2.86%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s     | 1        | 2.86%   |
 | Kingston RAM KHX2133C11D3/4GX 4096MB DIMM DDR3 2134MT/s  | 1        | 2.86%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s      | 1        | 2.86%   |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1600MT/s        | 1        | 2.86%   |
+| Kingston RAM KHX1600C10D3/ 4GB DIMM DDR3 1600MT/s        | 1        | 2.86%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 2.86%   |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3             | 1        | 2.86%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM 800MT/s          | 1        | 2.86%   |
 | Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.86%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s      | 1        | 2.86%   |
-| G.Skill RAM F4-3200C16-8GVK 8192MB DIMM DDR4 3200MT/s    | 1        | 2.86%   |
+| G.Skill RAM F4-3200C16-8GVK 8GB DIMM DDR4 3200MT/s       | 1        | 2.86%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s      | 1        | 2.86%   |
 | G.Skill RAM F3-1600C11-4GNT 4GB DIMM DDR3 1600MT/s       | 1        | 2.86%   |
-| Crucial RAM CT4G4DFS824A.M8FB 4GB DIMM DDR4 2400MT/s     | 1        | 2.86%   |
+| Crucial RAM CT4G4DFS824A.M8FB 4096MB DIMM DDR4 2400MT/s  | 1        | 2.86%   |
 | Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s    | 1        | 2.86%   |
 | Crucial RAM BLT8G3D1608DT1TX0. 8GB DIMM DDR3 1600MT/s    | 1        | 2.86%   |
 | Crucial RAM BLS4G4D240FSB.8FBD 4096MB DIMM DDR4 2472MT/s | 1        | 2.86%   |
