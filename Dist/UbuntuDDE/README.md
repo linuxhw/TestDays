@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 119
+Total: 120
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Dell          | Latitude E6430              | Notebook    | [7fe3f11f56](https://linux-hardware.org/?probe=7fe3f11f56) | Dec 22, 2022 |
 | ASUSTek       | P8Z68-V LX                  | Desktop     | [7153762b68](https://linux-hardware.org/?probe=7153762b68) | Nov 23, 2022 |
 | Dell          | Latitude E6430              | Notebook    | [60832751d1](https://linux-hardware.org/?probe=60832751d1) | Nov 16, 2022 |
 | ASUSTek       | H81I-PLUS                   | Desktop     | [d5d3ad3491](https://linux-hardware.org/?probe=d5d3ad3491) | Oct 18, 2022 |
@@ -324,46 +325,46 @@ Version of the Linux kernel
 
 | Version             | Computers | Percent |
 |---------------------|-----------|---------|
-| 5.4.0-29-generic    | 18        | 19.78%  |
-| 5.4.0-42-generic    | 11        | 12.09%  |
-| 5.4.0-21-generic    | 6         | 6.59%   |
-| 5.4.0-37-generic    | 5         | 5.49%   |
-| 5.4.0-48-generic    | 4         | 4.4%    |
-| 5.8.0-33-generic    | 2         | 2.2%    |
-| 5.4.0-52-generic    | 2         | 2.2%    |
-| 5.4.0-39-generic    | 2         | 2.2%    |
-| 5.3.0-40-generic    | 2         | 2.2%    |
-| 5.15.0-53-generic   | 2         | 2.2%    |
-| 5.11.0-17-generic   | 2         | 2.2%    |
-| 5.8.0-53-generic    | 1         | 1.1%    |
-| 5.8.0-50-generic    | 1         | 1.1%    |
-| 5.8.0-48-generic    | 1         | 1.1%    |
-| 5.8.0-41-generic    | 1         | 1.1%    |
-| 5.8.0-23-generic    | 1         | 1.1%    |
-| 5.6.0-1008-oem      | 1         | 1.1%    |
-| 5.4.0-96-generic    | 1         | 1.1%    |
-| 5.4.0-94-generic    | 1         | 1.1%    |
-| 5.4.0-88-generic    | 1         | 1.1%    |
-| 5.4.0-84-generic    | 1         | 1.1%    |
-| 5.4.0-70-generic    | 1         | 1.1%    |
-| 5.4.0-53-generic    | 1         | 1.1%    |
-| 5.4.0-45-generic    | 1         | 1.1%    |
-| 5.4.0-40-lowlatency | 1         | 1.1%    |
-| 5.4.0-34-generic    | 1         | 1.1%    |
-| 5.4.0-33-generic    | 1         | 1.1%    |
-| 5.4.0-31-generic    | 1         | 1.1%    |
-| 5.4.0-26-generic    | 1         | 1.1%    |
-| 5.4.0-24-generic    | 1         | 1.1%    |
-| 5.15.0-50-generic   | 1         | 1.1%    |
-| 5.13.0-44-generic   | 1         | 1.1%    |
-| 5.13.0-39-generic   | 1         | 1.1%    |
-| 5.13.0-35-generic   | 1         | 1.1%    |
-| 5.13.0-30-generic   | 1         | 1.1%    |
-| 5.13.0-28-generic   | 1         | 1.1%    |
-| 5.13.0-23-generic   | 1         | 1.1%    |
-| 5.13.0-22-generic   | 1         | 1.1%    |
-| 5.13.0-21-generic   | 1         | 1.1%    |
-| 5.11.0-46-generic   | 1         | 1.1%    |
+| 5.4.0-29-generic    | 18        | 19.57%  |
+| 5.4.0-42-generic    | 11        | 11.96%  |
+| 5.4.0-21-generic    | 6         | 6.52%   |
+| 5.4.0-37-generic    | 5         | 5.43%   |
+| 5.4.0-48-generic    | 4         | 4.35%   |
+| 5.8.0-33-generic    | 2         | 2.17%   |
+| 5.4.0-52-generic    | 2         | 2.17%   |
+| 5.4.0-39-generic    | 2         | 2.17%   |
+| 5.3.0-40-generic    | 2         | 2.17%   |
+| 5.15.0-53-generic   | 2         | 2.17%   |
+| 5.11.0-17-generic   | 2         | 2.17%   |
+| 5.8.0-53-generic    | 1         | 1.09%   |
+| 5.8.0-50-generic    | 1         | 1.09%   |
+| 5.8.0-48-generic    | 1         | 1.09%   |
+| 5.8.0-41-generic    | 1         | 1.09%   |
+| 5.8.0-23-generic    | 1         | 1.09%   |
+| 5.6.0-1008-oem      | 1         | 1.09%   |
+| 5.4.0-96-generic    | 1         | 1.09%   |
+| 5.4.0-94-generic    | 1         | 1.09%   |
+| 5.4.0-88-generic    | 1         | 1.09%   |
+| 5.4.0-84-generic    | 1         | 1.09%   |
+| 5.4.0-70-generic    | 1         | 1.09%   |
+| 5.4.0-53-generic    | 1         | 1.09%   |
+| 5.4.0-45-generic    | 1         | 1.09%   |
+| 5.4.0-40-lowlatency | 1         | 1.09%   |
+| 5.4.0-34-generic    | 1         | 1.09%   |
+| 5.4.0-33-generic    | 1         | 1.09%   |
+| 5.4.0-31-generic    | 1         | 1.09%   |
+| 5.4.0-26-generic    | 1         | 1.09%   |
+| 5.4.0-24-generic    | 1         | 1.09%   |
+| 5.15.0-57-generic   | 1         | 1.09%   |
+| 5.15.0-50-generic   | 1         | 1.09%   |
+| 5.13.0-44-generic   | 1         | 1.09%   |
+| 5.13.0-39-generic   | 1         | 1.09%   |
+| 5.13.0-35-generic   | 1         | 1.09%   |
+| 5.13.0-30-generic   | 1         | 1.09%   |
+| 5.13.0-28-generic   | 1         | 1.09%   |
+| 5.13.0-23-generic   | 1         | 1.09%   |
+| 5.13.0-22-generic   | 1         | 1.09%   |
+| 5.13.0-21-generic   | 1         | 1.09%   |
 
 Kernel Family
 -------------
@@ -804,12 +805,12 @@ Used RAM memory
 
 | Used GB   | Computers | Percent |
 |-----------|-----------|---------|
-| 2.01-3.0  | 33        | 36.67%  |
-| 1.01-2.0  | 33        | 36.67%  |
-| 4.01-8.0  | 11        | 12.22%  |
-| 3.01-4.0  | 9         | 10%     |
-| 8.01-16.0 | 2         | 2.22%   |
-| 0.51-1.0  | 2         | 2.22%   |
+| 1.01-2.0  | 34        | 37.36%  |
+| 2.01-3.0  | 33        | 36.26%  |
+| 4.01-8.0  | 11        | 12.09%  |
+| 3.01-4.0  | 9         | 9.89%   |
+| 8.01-16.0 | 2         | 2.2%    |
+| 0.51-1.0  | 2         | 2.2%    |
 
 Total Drives
 ------------
@@ -989,7 +990,7 @@ Hard drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 24        | 25     | 19.83%  |
+| Seagate             | 24        | 26     | 19.83%  |
 | WDC                 | 17        | 22     | 14.05%  |
 | Samsung Electronics | 17        | 17     | 14.05%  |
 | Toshiba             | 15        | 15     | 12.4%   |
@@ -1059,7 +1060,7 @@ Hard drive models
 | WDC WD10SPZX-24Z10 1TB             | 1         | 0.79%   |
 | WDC WD10JPLX-00MBPT0 1TB           | 1         | 0.79%   |
 | WDC WD1003FZEX-00K3CA0 1TB         | 1         | 0.79%   |
-| Vaseky V800/128G 128GB SSD         | 1         | 0.79%   |
+| Vaseky V800/128G 128GB             | 1         | 0.79%   |
 | Unknown SD16G  16GB                | 1         | 0.79%   |
 | Unknown MMC Card  16GB             | 1         | 0.79%   |
 | Unknown HAG4a2  16GB               | 1         | 0.79%   |
@@ -1079,7 +1080,7 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 23        | 24     | 35.38%  |
+| Seagate             | 23        | 25     | 35.38%  |
 | WDC                 | 14        | 16     | 21.54%  |
 | Toshiba             | 13        | 13     | 20%     |
 | Samsung Electronics | 5         | 5      | 7.69%   |
@@ -1129,7 +1130,7 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 58        | 69     | 52.73%  |
+| HDD     | 58        | 70     | 52.73%  |
 | SSD     | 35        | 42     | 31.82%  |
 | NVMe    | 13        | 16     | 11.82%  |
 | MMC     | 3         | 3      | 2.73%   |
@@ -1145,7 +1146,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 76        | 111    | 81.72%  |
+| SATA | 76        | 112    | 81.72%  |
 | NVMe | 13        | 16     | 13.98%  |
 | MMC  | 3         | 3      | 3.23%   |
 | SAS  | 1         | 1      | 1.08%   |
@@ -1160,7 +1161,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 52        | 62     | 54.74%  |
+| 0.01-0.5   | 52        | 63     | 54.74%  |
 | 0.51-1.0   | 34        | 38     | 35.79%  |
 | 1.01-2.0   | 5         | 5      | 5.26%   |
 | 2.01-3.0   | 2         | 3      | 2.11%   |
@@ -1197,14 +1198,14 @@ Amount of used disk space
 
 | Used GB   | Computers | Percent |
 |-----------|-----------|---------|
-| 1-20      | 48        | 53.33%  |
-| 21-50     | 11        | 12.22%  |
-| 101-250   | 11        | 12.22%  |
-| 251-500   | 7         | 7.78%   |
-| 51-100    | 6         | 6.67%   |
-| 1001-2000 | 3         | 3.33%   |
-| 501-1000  | 2         | 2.22%   |
-| Unknown   | 2         | 2.22%   |
+| 1-20      | 48        | 52.75%  |
+| 101-250   | 12        | 13.19%  |
+| 21-50     | 11        | 12.09%  |
+| 251-500   | 7         | 7.69%   |
+| 51-100    | 6         | 6.59%   |
+| 1001-2000 | 3         | 3.3%    |
+| 501-1000  | 2         | 2.2%    |
+| Unknown   | 2         | 2.2%    |
 
 Malfunc. Drives
 ---------------
@@ -1282,7 +1283,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 65        | 95     | 69.89%  |
+| Detected | 65        | 96     | 69.89%  |
 | Works    | 25        | 33     | 26.88%  |
 | Malfunc  | 3         | 3      | 3.23%   |
 
@@ -1785,48 +1786,48 @@ Monitor models
 ![Monitor Model](./All/images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Computers | Percent |
-|------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 2         | 2.08%   |
-| Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch  | 2         | 2.08%   |
-| Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1         | 1.04%   |
-| ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1         | 1.04%   |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1         | 1.04%   |
-| Unknown LCD Monitor Sony 55R617 1920x1080                              | 1         | 1.04%   |
-| Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1         | 1.04%   |
-| SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                     | 1         | 1.04%   |
-| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                | 1         | 1.04%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch      | 1         | 1.04%   |
-| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch      | 1         | 1.04%   |
-| Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch      | 1         | 1.04%   |
-| Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch      | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SDC4142 3840x2160 294x165mm 13.3-inch  | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch   | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch   | 1         | 1.04%   |
-| Philips LCD Monitor 150C4 1024x768                                     | 1         | 1.04%   |
-| Philips 221V PHL0888 1920x1080 480x270mm 21.7-inch                     | 1         | 1.04%   |
-| MSI PRO 22X 10M MSI1462 1920x1080 595x336mm 26.9-inch                  | 1         | 1.04%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1         | 1.04%   |
-| LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch           | 1         | 1.04%   |
-| LG Display LCD Monitor LGD0582 3000x2000 275x183mm 13.0-inch           | 1         | 1.04%   |
-| LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch           | 1         | 1.04%   |
-| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch            | 1         | 1.04%   |
-| LG Display LCD Monitor LGD037C 1366x768 310x174mm 14.0-inch            | 1         | 1.04%   |
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch            | 1         | 1.04%   |
-| LG Display LCD Monitor LGD02AC 1366x768 344x194mm 15.5-inch            | 1         | 1.04%   |
-| LG Display LCD Monitor LGD024F 1280x800 260x160mm 12.0-inch            | 1         | 1.04%   |
-| Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch                | 1         | 1.04%   |
-| Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                | 1         | 1.04%   |
-| JDI LCD Monitor JDI422A 3000x2000 293x196mm 13.9-inch                  | 1         | 1.04%   |
+| Model                                                                 | Computers | Percent |
+|-----------------------------------------------------------------------|-----------|---------|
+| Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch     | 2         | 2.08%   |
+| Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 2         | 2.08%   |
+| Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1         | 1.04%   |
+| ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1         | 1.04%   |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch  | 1         | 1.04%   |
+| Unknown LCD Monitor Sony 55R617 1920x1080                             | 1         | 1.04%   |
+| Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1         | 1.04%   |
+| SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                    | 1         | 1.04%   |
+| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 1.04%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1         | 1.04%   |
+| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1         | 1.04%   |
+| Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch     | 1         | 1.04%   |
+| Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch     | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SDC4142 3840x2160 294x165mm 13.3-inch | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch  | 1         | 1.04%   |
+| Philips LCD Monitor 150C4 1024x768                                    | 1         | 1.04%   |
+| Philips 221V PHL0888 1920x1080 480x270mm 21.7-inch                    | 1         | 1.04%   |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1         | 1.04%   |
+| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                     | 1         | 1.04%   |
+| LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch          | 1         | 1.04%   |
+| LG Display LCD Monitor LGD0582 3000x2000 275x183mm 13.0-inch          | 1         | 1.04%   |
+| LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch          | 1         | 1.04%   |
+| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch           | 1         | 1.04%   |
+| LG Display LCD Monitor LGD037C 1366x768 310x174mm 14.0-inch           | 1         | 1.04%   |
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 1         | 1.04%   |
+| LG Display LCD Monitor LGD02AC 1366x768 344x194mm 15.5-inch           | 1         | 1.04%   |
+| LG Display LCD Monitor LGD024F 1280x800 260x160mm 12.0-inch           | 1         | 1.04%   |
+| Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch               | 1         | 1.04%   |
+| Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.04%   |
+| JDI LCD Monitor JDI422A 3000x2000 293x196mm 13.9-inch                 | 1         | 1.04%   |
 
 Monitor Resolution
 ------------------
@@ -2453,14 +2454,14 @@ Memory module models
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                      | 1         | 2.27%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM 1334MT/s                          | 1         | 2.27%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                     | 1         | 2.27%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s                        | 1         | 2.27%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
-| Samsung RAM M471A5244BB0-CRC 4096MB SODIMM DDR4 2667MT/s                   | 1         | 2.27%   |
+| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s                     | 1         | 2.27%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s                      | 1         | 2.27%   |
@@ -2472,7 +2473,7 @@ Memory module models
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                           | 1         | 2.27%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1         | 2.27%   |
 | Micron RAM Module 4GB SODIMM DDR3 1600MT/s                                 | 1         | 2.27%   |
-| Micron RAM 8JTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
+| Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                   | 1         | 2.27%   |
 | Micron RAM 8ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2400MT/s                       | 1         | 2.27%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s                     | 1         | 2.27%   |
@@ -2647,13 +2648,13 @@ Camera device models
 |------------------------------------------------|-----------|---------|
 | Microdia Integrated_Webcam_HD                  | 2         | 4.17%   |
 | Microdia Integrated Webcam                     | 2         | 4.17%   |
-| Huawei HiCamera                                | 2         | 4.17%   |
+| Huawei UVC Camera                              | 2         | 4.17%   |
 | Chicony Integrated Camera                      | 2         | 4.17%   |
 | Z-Star Vimicro USB Camera (Altair)             | 1         | 2.08%   |
 | Suyin WebCam                                   | 1         | 2.08%   |
 | Suyin HP Truevision HD                         | 1         | 2.08%   |
 | Suyin Asus Integrated Webcam                   | 1         | 2.08%   |
-| Suyin 1.3M HD WebCam                           | 1         | 2.08%   |
+| Suyin 1.3M Front                               | 1         | 2.08%   |
 | Sunplus Laptop_Integrated_Webcam_HD            | 1         | 2.08%   |
 | Sunplus Integrated_Webcam_HD                   | 1         | 2.08%   |
 | Sunplus HD WebCam                              | 1         | 2.08%   |
@@ -2760,8 +2761,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 68        | 76.4%   |
-| 1     | 19        | 21.35%  |
-| 2     | 2         | 2.25%   |
+| 1     | 18        | 20.22%  |
+| 2     | 3         | 3.37%   |
 
 Unsupported Device Types
 ------------------------
@@ -2773,10 +2774,10 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 8         | 40%     |
-| Fingerprint reader | 6         | 30%     |
-| Net/wireless       | 2         | 10%     |
-| Chipcard           | 2         | 10%     |
-| Net/ethernet       | 1         | 5%      |
-| Bluetooth          | 1         | 5%      |
+| Graphics card      | 9         | 42.86%  |
+| Fingerprint reader | 6         | 28.57%  |
+| Net/wireless       | 2         | 9.52%   |
+| Chipcard           | 2         | 9.52%   |
+| Net/ethernet       | 1         | 4.76%   |
+| Bluetooth          | 1         | 4.76%   |
 

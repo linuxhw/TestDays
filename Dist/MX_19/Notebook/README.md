@@ -797,8 +797,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 54        | 62.07%  |
-| Yes       | 33        | 37.93%  |
+| No        | 55        | 63.22%  |
+| Yes       | 32        | 36.78%  |
 
 Has Ethernet
 ------------
@@ -1002,7 +1002,7 @@ Hard drive models
 | HGST HTS721010A9E630 1TB            | 2         | 1.83%   |
 | HGST HTS541010A9E680 1TB            | 2         | 1.83%   |
 | Crucial CT250MX500SSD1 250GB        | 2         | 1.83%   |
-| ZTC SM201-256G                      | 1         | 0.92%   |
+| ZTC SM201-256G SSD                  | 1         | 0.92%   |
 | WDC WDS240G2G0A-00JH30 240GB SSD    | 1         | 0.92%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD    | 1         | 0.92%   |
 | WDC WD5000BPVT-60HXZT3 500GB        | 1         | 0.92%   |
@@ -1764,15 +1764,15 @@ Monitor models
 | Vizio E320VA VIZ0071 1360x768 697x392mm 31.5-inch                     | 1         | 1.08%   |
 | Samsung Electronics SyncMaster SAM00B6 1280x1024 376x301mm 19.0-inch  | 1         | 1.08%   |
 | Samsung Electronics SMB1630N SAM0630 1366x768 344x194mm 15.5-inch     | 1         | 1.08%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1         | 1.08%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch  | 1         | 1.08%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1         | 1.08%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC504B 1600x900 382x215mm 17.3-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 344x194mm 15.5-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC4245 1280x800 331x207mm 15.4-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC3945 1280x800 331x207mm 15.4-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch | 1         | 1.08%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 1.08%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 239x134mm 10.8-inch | 1         | 1.08%   |
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch               | 1         | 1.08%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch           | 1         | 1.08%   |
 | LG Philips LCD Monitor LPLA002 1440x900 367x230mm 17.1-inch           | 1         | 1.08%   |
@@ -1790,7 +1790,7 @@ Monitor models
 | LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch           | 1         | 1.08%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch          | 1         | 1.08%   |
 | LG Display LCD Monitor LGD027A 1600x900 382x215mm 17.3-inch           | 1         | 1.08%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.08%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch               | 1         | 1.08%   |
 | Lenovo LCD Monitor LEN40A0 1366x768 309x174mm 14.0-inch               | 1         | 1.08%   |
 | Lenovo LCD Monitor LEN4074 1440x900 287x180mm 13.3-inch               | 1         | 1.08%   |
 
@@ -2128,7 +2128,7 @@ Ethernet models
 | Qualcomm Atheros AR8132 Fast Ethernet                                          | 1         | 1.23%   |
 | Nvidia MCP67 Ethernet                                                          | 1         | 1.23%   |
 | Nvidia MCP51 Ethernet Controller                                               | 1         | 1.23%   |
-| MediaTek TECNO F1                                                              | 1         | 1.23%   |
+| MediaTek TECNO CAMON 18P                                                       | 1         | 1.23%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 1.23%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                        | 1         | 1.23%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                         | 1         | 1.23%   |
@@ -2138,7 +2138,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                                          | 1         | 1.23%   |
 | Intel 82579V Gigabit Network Connection                                        | 1         | 1.23%   |
 | Intel 82567LM Gigabit Network Connection                                       | 1         | 1.23%   |
-| Huawei SNE-LX1                                                                 | 1         | 1.23%   |
+| Huawei STK-L21                                                                 | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                              | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                               | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express                        | 1         | 1.23%   |
@@ -2382,7 +2382,7 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 3         | 2.56%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 3         | 2.56%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 3         | 2.56%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 3         | 2.56%   |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s           | 3         | 2.56%   |
@@ -2417,9 +2417,9 @@ Memory module models
 | Team RAM TEAMGROUP-SD4-2400 16GB SODIMM DDR4 8400MT/s            | 1         | 0.85%   |
 | Smart RAM SH564128FH8NZPHSCG 4096MB SODIMM DDR3 1334MT/s         | 1         | 0.85%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2400MT/s                 | 1         | 0.85%   |
-| SK hynix RAM HYMP112S64CP6-Y5 1024MB SODIMM DDR2 667MT/s         | 1         | 0.85%   |
+| SK hynix RAM HYMP112S64CP6-Y5 1GB SODIMM DDR2 667MT/s            | 1         | 0.85%   |
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 0.85%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 0.85%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 0.85%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.85%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.85%   |
 
@@ -2498,10 +2498,9 @@ Memory module speed
 | 4199    | 2         | 1.96%   |
 | 3266    | 2         | 1.96%   |
 | 2133    | 2         | 1.96%   |
+| 1867    | 2         | 1.96%   |
 | 8400    | 1         | 0.98%   |
 | 4267    | 1         | 0.98%   |
-| 1867    | 1         | 0.98%   |
-| 1777    | 1         | 0.98%   |
 | 666     | 1         | 0.98%   |
 | 533     | 1         | 0.98%   |
 
@@ -2592,10 +2591,11 @@ Camera device models
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Chicony integrated camera                                   | 5         | 6.67%   |
-| Realtek Integrated_Webcam_HD                                | 3         | 4%      |
+| Realtek Integrated_Webcam_HD                                | 4         | 5.33%   |
 | Syntek EasyCamera                                           | 2         | 2.67%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 2         | 2.67%   |
 | Realtek USB2.0 HD UVC WebCam                                | 2         | 2.67%   |
+| Microdia USB 2.0 Camera                                     | 2         | 2.67%   |
 | Microdia Integrated Webcam                                  | 2         | 2.67%   |
 | Lite-On Integrated Camera                                   | 2         | 2.67%   |
 | Lenovo Integrated Webcam [R5U877]                           | 2         | 2.67%   |
@@ -2612,25 +2612,24 @@ Camera device models
 | Suyin 1.3M HD WebCam                                        | 1         | 1.33%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                        | 1         | 1.33%   |
 | Sunplus Integrated_Webcam_HD                                | 1         | 1.33%   |
+| Sunplus Integrated Webcam                                   | 1         | 1.33%   |
 | Sunplus HD WebCam                                           | 1         | 1.33%   |
-| Sunplus Dell Integrated Webcam                              | 1         | 1.33%   |
 | Sunplus Asus Webcam                                         | 1         | 1.33%   |
 | Silicon Motion Silicon Motion Camera                        | 1         | 1.33%   |
-| Samsung Galaxy series, misc. (MTP mode)                     | 1         | 1.33%   |
+| Samsung Galaxy A5 (MTP)                                     | 1         | 1.33%   |
 | Ricoh USB2.0 Camera                                         | 1         | 1.33%   |
 | Realtek USB2.0 VGA UVC WebCam                               | 1         | 1.33%   |
-| Realtek Integrated Webcam HD                                | 1         | 1.33%   |
 | Realtek Integrated Webcam                                   | 1         | 1.33%   |
 | Realtek HD Webcam - Realtek                                 | 1         | 1.33%   |
 | Quanta USB2.0 HD UVC WebCam                                 | 1         | 1.33%   |
 | Quanta HP Wide Vision HD Camera                             | 1         | 1.33%   |
-| Microdia USB 2.0 Camera                                     | 1         | 1.33%   |
 | Microdia Laptop_Integrated_Webcam_1.3M                      | 1         | 1.33%   |
 | Microdia Integrated_Webcam_HD                               | 1         | 1.33%   |
-| Microdia HP Integrated Webcam                               | 1         | 1.33%   |
 | Lite-On HP Wide Vision FHD Camera                           | 1         | 1.33%   |
 | Lenovo UVC Camera                                           | 1         | 1.33%   |
 | Importek TOSHIBA Web Camera - HD                            | 1         | 1.33%   |
+| IMC Networks USB 2.0 UVC VGA WebCam                         | 1         | 1.33%   |
+| Cubeternet GL-UPC822 UVC WebCam                             | 1         | 1.33%   |
 
 Security
 --------
@@ -2719,8 +2718,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 51        | 57.95%  |
-| 1     | 30        | 34.09%  |
-| 2     | 7         | 7.95%   |
+| 1     | 29        | 32.95%  |
+| 2     | 8         | 9.09%   |
 
 Unsupported Device Types
 ------------------------
@@ -2732,12 +2731,12 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 15        | 34.09%  |
-| Fingerprint reader       | 15        | 34.09%  |
-| Chipcard                 | 6         | 13.64%  |
-| Storage                  | 3         | 6.82%   |
-| Net/wireless             | 2         | 4.55%   |
-| Multimedia controller    | 1         | 2.27%   |
-| Communication controller | 1         | 2.27%   |
-| Bluetooth                | 1         | 2.27%   |
+| Graphics card            | 16        | 35.56%  |
+| Fingerprint reader       | 15        | 33.33%  |
+| Chipcard                 | 6         | 13.33%  |
+| Storage                  | 3         | 6.67%   |
+| Net/wireless             | 2         | 4.44%   |
+| Multimedia controller    | 1         | 2.22%   |
+| Communication controller | 1         | 2.22%   |
+| Bluetooth                | 1         | 2.22%   |
 

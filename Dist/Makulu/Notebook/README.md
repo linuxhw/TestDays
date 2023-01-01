@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 23
+Total: 25
 
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell    | Latitude E64406342Q0286/    | [41b2b27a91](https://linux-hardware.org/?probe=41b2b27a91) | Dec 16, 2022 |
+| Dell    | Latitude E64406342Q0286/    | [e8b2c9218f](https://linux-hardware.org/?probe=e8b2c9218f) | Dec 15, 2022 |
 | Dell    | Inspiron 5565               | [a583bbdc35](https://linux-hardware.org/?probe=a583bbdc35) | May 19, 2022 |
 | Dell    | Latitude 3540               | [6fb057646a](https://linux-hardware.org/?probe=6fb057646a) | Feb 25, 2022 |
 | Samsung | R580                        | [b796f42cc3](https://linux-hardware.org/?probe=b796f42cc3) | Jan 31, 2022 |
@@ -579,8 +581,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 9         | 60%     |
-| No        | 6         | 40%     |
+| Yes       | 8         | 53.33%  |
+| No        | 7         | 46.67%  |
 
 Has Ethernet
 ------------
@@ -709,11 +711,11 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 9.52%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 9.52%   |
-| Unknown SD/MMC/MS PRO 8GB            | 1         | 4.76%   |
+| Unknown SD/MMC/MS PRO 64GB           | 1         | 4.76%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.76%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.76%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.76%   |
-| Seagate Expansion Desk 8TB           | 1         | 4.76%   |
+| Seagate Expansion Desk 5TB           | 1         | 4.76%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 4.76%   |
 | SanDisk NVMe SSD Drive 512GB         | 1         | 4.76%   |
 | Samsung NVMe SSD Drive 1TB           | 1         | 4.76%   |

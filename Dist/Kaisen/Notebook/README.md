@@ -761,14 +761,14 @@ Hard drive models
 | Samsung SSD 750 EVO 250GB                 | 1         | 3.45%   |
 | Samsung MZMPA024HMCD-000L1 24GB SSD       | 1         | 3.45%   |
 | Samsung MZ7LN256HCHP-000L7 256GB SSD      | 1         | 3.45%   |
-| Micron 2450_MTFDKBA1T0TFK 1024GB          | 1         | 3.45%   |
+| Micron 2450_MTFDKBA1T0TFK 1TB             | 1         | 3.45%   |
 | MARSHAL MAL2500SA-T54L 500GB              | 1         | 3.45%   |
 | LITEONIT LMT-64M6M mSATA 64GB SSD         | 1         | 3.45%   |
 | LITEON CV3-8D256-11 SATA 256GB SSD        | 1         | 3.45%   |
 | KIOXIA KBG40ZNS512G NVMe 512GB            | 1         | 3.45%   |
 | Kingston SV300S37A240G 240GB SSD          | 1         | 3.45%   |
 | Kingston SNVS1000GB 1TB                   | 1         | 3.45%   |
-| JMicron Generic 1TB                       | 1         | 3.45%   |
+| JMicron Generic 240GB SSD                 | 1         | 3.45%   |
 | Intel SSDSC2BX480G4 480GB                 | 1         | 3.45%   |
 | Hitachi HTS545050A7E380 500GB             | 1         | 3.45%   |
 | HGST HTS725050A7E630 500GB                | 1         | 3.45%   |
@@ -848,8 +848,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 15        | 16     | 71.43%  |
-| 0.51-1.0   | 6         | 6      | 28.57%  |
+| 0.01-0.5   | 15        | 17     | 75%     |
+| 0.51-1.0   | 5         | 5      | 25%     |
 
 Space Total
 -----------
@@ -1363,7 +1363,7 @@ Monitor models
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch     | 1         | 3.7%    |
 | PANDA LCD Monitor NCP005F 1920x1080 344x194mm 15.5-inch                   | 1         | 3.7%    |
 | LG Display LCD Monitor LGD40BA 1920x1080 344x194mm 15.5-inch              | 1         | 3.7%    |
-| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 3.7%    |
+| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch              | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch               | 1         | 3.7%    |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 1         | 3.7%    |
 | Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                      | 1         | 3.7%    |
@@ -1538,7 +1538,7 @@ Controller models
 | Sierra Wireless EM7345 4G LTE                                     | 1         | 2.17%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1         | 2.17%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1         | 2.17%   |
-| Realtek 802.11ac NIC                                              | 1         | 2.17%   |
+| Realtek 802.11ac+Bluetooth 5.0 Adapter                            | 1         | 2.17%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 2.17%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 2.17%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                     | 1         | 2.17%   |
@@ -1592,7 +1592,7 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter           | 2         | 8%      |
 | Sierra Wireless EM7345 4G LTE                              | 1         | 4%      |
 | Realtek RTL8188EE Wireless Network Adapter                 | 1         | 4%      |
-| Realtek 802.11ac NIC                                       | 1         | 4%      |
+| Realtek 802.11ac+Bluetooth 5.0 Adapter                     | 1         | 4%      |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter | 1         | 4%      |
 | Intel Wireless 8260                                        | 1         | 4%      |
 | Intel Wireless 7260                                        | 1         | 4%      |
@@ -1843,19 +1843,19 @@ Memory module models
 | SK hynix RAM HMAA1GS6CMR6N-XN 8GB Row Of Chips DDR4 3200MT/s | 1         | 3.33%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 3.33%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 3.33%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 3.33%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s     | 1         | 3.33%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 1         | 3.33%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.33%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 3.33%   |
 | Ramaxel RAM RMSA3260MD78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 3.33%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 3.33%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s        | 1         | 3.33%   |
 | Kingston RAM KF3200C20S4/8G 8GB SODIMM DDR4 3200MT/s         | 1         | 3.33%   |
-| Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
+| Kingston RAM ASU16D3LS1KBG/4G 4096MB SODIMM DDR3 1600MT/s    | 1         | 3.33%   |
 | Elpida RAM EBJ81UG8EFU0-GN-F 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.33%   |
 | Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s       | 1         | 3.33%   |
 | Crucial RAM CT102464BF160B.Y16 8GB SODIMM DDR3 1600MT/s      | 1         | 3.33%   |
 | Crucial RAM BLS16G4S26BFSD.16FD 16GB SODIMM DDR4 2667MT/s    | 1         | 3.33%   |
-| Corsair RAM CMSX16GX4M1A2400C16 16384MB SODIMM DDR4 2400MT/s | 1         | 3.33%   |
+| Corsair RAM CMSX16GX4M1A2400C16 16GB SODIMM DDR4 2400MT/s    | 1         | 3.33%   |
 | Apacer RAM 78.A2GC8.CY00C 2GB SODIMM DDR3 800MT/s            | 1         | 3.33%   |
 | Apacer RAM 78.A2GC8.9L00C 2GB SODIMM DDR3 800MT/s            | 1         | 3.33%   |
 | A-DATA RAM Module 8GB SODIMM DDR4 2133MT/s                   | 1         | 3.33%   |

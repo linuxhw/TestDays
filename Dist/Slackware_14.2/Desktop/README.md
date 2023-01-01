@@ -1523,7 +1523,7 @@ Monitor models
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.03%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.03%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.03%   |
-| Toshiba TV TSB0206 1920x1080                                         | 1        | 3.03%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 3.03%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 3.03%   |
 | Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1        | 3.03%   |
 | ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1        | 3.03%   |
@@ -1545,7 +1545,7 @@ Monitor models
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1        | 3.03%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1        | 3.03%   |
 | Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                    | 1        | 3.03%   |
-| BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 531x299mm 24.0-inch              | 1        | 3.03%   |
+| BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 530x300mm 24.0-inch              | 1        | 3.03%   |
 | BenQ EW2420 BNQ7923 1920x1080 531x299mm 24.0-inch                    | 1        | 3.03%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch              | 1        | 3.03%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch      | 1        | 3.03%   |
@@ -2041,7 +2041,7 @@ Memory module models
 | Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s        | 1        | 2.5%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.5%    |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.5%    |
-| SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 1333MT/s    | 1        | 2.5%    |
+| SK hynix RAM HMT351R7CFR8A-H9 4GB DIMM DDR3 1333MT/s       | 1        | 2.5%    |
 | SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s       | 1        | 2.5%    |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.5%    |
@@ -2051,9 +2051,9 @@ Memory module models
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.5%    |
 | Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s     | 1        | 2.5%    |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
-| Kingston RAM 99U5471-037.A00LF 8GB DIMM 1600MT/s           | 1        | 2.5%    |
+| Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
-| Kingston RAM 9965669-009.A00G 8192MB DIMM DDR4 2133MT/s    | 1        | 2.5%    |
+| Kingston RAM 9965669-009.A00G 8GB DIMM DDR4 2133MT/s       | 1        | 2.5%    |
 | Kingston RAM 9905663-031.A00G 16GB SODIMM DDR4 2400MT/s    | 1        | 2.5%    |
 | HPE RAM 879526-091 8192MB DIMM DDR4 2666MT/s               | 1        | 2.5%    |
 | Crucial RAM BLT4G3D1869DT1TX0. 4GB DIMM DDR3 1867MT/s      | 1        | 2.5%    |

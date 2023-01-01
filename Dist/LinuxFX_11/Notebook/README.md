@@ -1026,8 +1026,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 42        | 46     | 67.74%  |
-| 0.51-1.0   | 19        | 21     | 30.65%  |
+| 0.01-0.5   | 43        | 47     | 69.35%  |
+| 0.51-1.0   | 18        | 20     | 29.03%  |
 | 1.01-2.0   | 1         | 1      | 1.61%   |
 
 Space Total
@@ -1569,11 +1569,11 @@ Monitor models
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC364A 1366x768 344x194mm 15.5-inch    | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SDC4852 1366x768 344x194mm 15.5-inch    | 2         | 3.13%   |
+| Samsung Electronics LCD Monitor SDC4852 1366x768 340x190mm 15.3-inch    | 2         | 3.13%   |
 | Samsung Electronics LCD Monitor SAM03D3 1360x768 410x256mm 19.0-inch    | 2         | 3.13%   |
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch            | 2         | 3.13%   |
+| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch            | 2         | 3.13%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch           | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch    | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch    | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch    | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch    | 1         | 1.56%   |
@@ -1582,7 +1582,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3254 1600x900 367x230mm 17.1-inch    | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SAM0FEF 3840x2160 1872x1053mm 84.6-inch | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch    | 1         | 1.56%   |
-| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch                 | 1         | 1.56%   |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                 | 1         | 1.56%   |
 | LG Philips LCD Monitor LPL3B01 1280x800 331x207mm 15.4-inch             | 1         | 1.56%   |
 | LG Philips LCD Monitor LPL012B 1280x800 304x190mm 14.1-inch             | 1         | 1.56%   |
 | LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch           | 1         | 1.56%   |
@@ -1598,12 +1598,12 @@ Monitor models
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch            | 1         | 1.56%   |
 | LG Display LCD Monitor LGD02A6 1366x768 345x194mm 15.6-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch            | 1         | 1.56%   |
-| LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD0250 1366x768 350x190mm 15.7-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD01DD 1600x900 382x215mm 17.3-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD01CA 1600x900 382x215mm 17.3-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD01AF 1680x1050 331x207mm 15.4-inch            | 1         | 1.56%   |
 | LG Display LCD Monitor LGD018E 1920x1200 367x230mm 17.1-inch            | 1         | 1.56%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 345x194mm 15.6-inch                 | 1         | 1.56%   |
+| Lenovo LCD Monitor LEN40B0 1366x768 344x193mm 15.5-inch                 | 1         | 1.56%   |
 | Goldstar 32LG7000 GSM765E 1920x1080 700x390mm 31.5-inch                 | 1         | 1.56%   |
 | Dell E1709W DELD022 1440x900 370x230mm 17.2-inch                        | 1         | 1.56%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 382x214mm 17.2-inch         | 1         | 1.56%   |
@@ -2156,15 +2156,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Notebooks | Percent |
-|----------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s            | 1         | 14.29%  |
-| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s            | 1         | 14.29%  |
-| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s          | 1         | 14.29%  |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s    | 1         | 14.29%  |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1         | 14.29%  |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s  | 1         | 14.29%  |
-| Kingston RAM 9905428-020.A00LF 4GB SODIMM DDR3 1067MT/s  | 1         | 14.29%  |
+| Model                                                   | Notebooks | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s           | 1         | 14.29%  |
+| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s           | 1         | 14.29%  |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s         | 1         | 14.29%  |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s   | 1         | 14.29%  |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 14.29%  |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s | 1         | 14.29%  |
+| Kingston RAM 9905428-020.A00LF 4GB SODIMM DDR3 1067MT/s | 1         | 14.29%  |
 
 Memory Kind
 -----------
@@ -2314,7 +2314,7 @@ Camera device models
 | Silicon Motion WebCam SCB-0385N                                       | 1         | 1.85%   |
 | Silicon Motion WebCam SC-0311139N                                     | 1         | 1.85%   |
 | Silicon Motion 300k Pixel Camera                                      | 1         | 1.85%   |
-| Samsung Galaxy series, misc. (MTP mode)                               | 1         | 1.85%   |
+| Samsung Galaxy A5 (MTP)                                               | 1         | 1.85%   |
 | Ricoh Laptop_Integrated_Webcam_3M                                     | 1         | 1.85%   |
 | Ricoh Integrated Webcam                                               | 1         | 1.85%   |
 | Quanta Laptop_Integrated_Webcam_2HDM                                  | 1         | 1.85%   |

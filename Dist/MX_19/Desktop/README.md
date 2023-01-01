@@ -1604,36 +1604,36 @@ Monitor models
 | ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.27%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.27%   |
 | ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch              | 1        | 2.27%   |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 2.27%   |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch    | 1        | 2.27%   |
 | SANYO Casper SAN2213 1600x900 304x228mm 15.0-inch                       | 1        | 2.27%   |
 | Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.27%   |
 | Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 2.27%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 2.27%   |
-| Philips FTV PHL04C3 3840x2160 1440x810mm 65.0-inch                      | 1        | 2.27%   |
+| Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.27%   |
 | Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.27%   |
 | MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                       | 1        | 2.27%   |
 | IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                         | 1        | 2.27%   |
 | HYO SyncMaster HYO049B 2560x1440 597x336mm 27.0-inch                    | 1        | 2.27%   |
 | Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                    | 1        | 2.27%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                    | 1        | 2.27%   |
+| Goldstar W2243 GSM56FE 1920x1080 480x270mm 21.7-inch                    | 1        | 2.27%   |
+| Goldstar LG FULL HD GSM5BDE 1920x1080 480x270mm 21.7-inch               | 1        | 2.27%   |
 | Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch               | 1        | 2.27%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 2.27%   |
 | Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                        | 1        | 2.27%   |
-| Goldstar FULL HD GSM5BDE 1920x1080 480x270mm 21.7-inch                  | 1        | 2.27%   |
 | Goldstar E2411 GSM583B 1920x1080 477x268mm 21.5-inch                    | 1        | 2.27%   |
 | Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                        | 1        | 2.27%   |
 | DTV Philco DTV0B01 1600x1200 700x390mm 31.5-inch                        | 1        | 2.27%   |
-| Dell U4320Q DEL41D6 3840x2160 940x530mm 42.5-inch                       | 1        | 2.27%   |
+| Dell U4320Q DEL41D6 3840x2160 941x529mm 42.5-inch                       | 1        | 2.27%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 1        | 2.27%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                   | 1        | 2.27%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                   | 1        | 2.27%   |
 | Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                      | 1        | 2.27%   |
 | Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                        | 1        | 2.27%   |
 | Dell E1913 DELD051 1440x900 408x255mm 18.9-inch                         | 1        | 2.27%   |
-| BenQ GW2406Z BNQ78E1 1920x1080 527x296mm 23.8-inch                      | 1        | 2.27%   |
+| BenQ GW2406Z BNQ78E1 1920x1080 530x300mm 24.0-inch                      | 1        | 2.27%   |
 | AOC 2060W3 AOC2060 1920x1080 440x240mm 19.7-inch                        | 1        | 2.27%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                          | 1        | 2.27%   |
-| Ancor Communications VS248 ACI2498 1920x1080 530x300mm 24.0-inch        | 1        | 2.27%   |
+| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch        | 1        | 2.27%   |
 | Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch   | 1        | 2.27%   |
 | Acer XF240H ACR0472 1920x1080 531x299mm 24.0-inch                       | 1        | 2.27%   |
 | Acer X203H ACR009D 1600x900 443x249mm 20.0-inch                         | 1        | 2.27%   |
@@ -2129,7 +2129,7 @@ Memory module models
 | SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s   | 1        | 1.89%   |
 | Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM        | 1        | 1.89%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 667MT/s    | 1        | 1.89%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s    | 1        | 1.89%   |
 | RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s          | 1        | 1.89%   |
 | Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3200MT/s    | 1        | 1.89%   |
@@ -2143,7 +2143,7 @@ Memory module models
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s    | 1        | 1.89%   |
 | Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s | 1        | 1.89%   |
 | Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s         | 1        | 1.89%   |
-| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2134MT/s | 1        | 1.89%   |
+| Kingston RAM CL16-16-16 D4-2400 8GB DIMM DDR4 2400MT/s | 1        | 1.89%   |
 | Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 1.89%   |
 | Kingston RAM 99U5403-159.A01LF 8GB DIMM 800MT/s        | 1        | 1.89%   |
 | Kingston RAM 9965525-026.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 1.89%   |
@@ -2299,15 +2299,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                     | Desktops | Percent |
-|---------------------------|----------|---------|
-| Logitech Webcam C200      | 2        | 25%     |
-| Microsoft LifeCam HD-3000 | 1        | 12.5%   |
-| Logitech Webcam Pro 9000  | 1        | 12.5%   |
-| Logitech Webcam C270      | 1        | 12.5%   |
-| Logitech B525 HD Webcam   | 1        | 12.5%   |
-| Huawei HiCamera           | 1        | 12.5%   |
-| Generalplus 808 Camera    | 1        | 12.5%   |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Logitech Webcam C200                     | 2        | 25%     |
+| Microsoft LifeCam HD-3000                | 1        | 12.5%   |
+| Logitech Webcam Pro 9000                 | 1        | 12.5%   |
+| Logitech Webcam C270                     | 1        | 12.5%   |
+| Logitech B525 HD Webcam                  | 1        | 12.5%   |
+| Huawei UVC Camera                        | 1        | 12.5%   |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 12.5%   |
 
 Security
 --------
@@ -2353,8 +2353,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 43       | 97.73%  |
+| 0     | 42       | 95.45%  |
 | 3     | 1        | 2.27%   |
+| 1     | 1        | 2.27%   |
 
 Unsupported Device Types
 ------------------------
@@ -2366,7 +2367,8 @@ Types of unsupported devices
 
 | Type                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Net/wireless          | 1        | 33.33%  |
-| Multimedia controller | 1        | 33.33%  |
-| Camera                | 1        | 33.33%  |
+| Net/wireless          | 1        | 25%     |
+| Multimedia controller | 1        | 25%     |
+| Graphics card         | 1        | 25%     |
+| Camera                | 1        | 25%     |
 

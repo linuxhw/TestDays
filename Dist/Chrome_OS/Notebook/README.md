@@ -678,8 +678,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 26        | 60.47%  |
-| Yes       | 17        | 39.53%  |
+| No        | 27        | 62.79%  |
+| Yes       | 16        | 37.21%  |
 
 Has Ethernet
 ------------
@@ -1437,7 +1437,7 @@ Monitor models
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.44%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.22%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.22%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch     | 1         | 2.22%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.22%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.22%   |
@@ -1451,11 +1451,11 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 2.22%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 2.22%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 2.22%   |
-| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch                  | 1         | 2.22%   |
+| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch                  | 1         | 2.22%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 2.22%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 2.22%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 2.22%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                    | 1         | 2.22%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                    | 1         | 2.22%   |
 | Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                        | 1         | 2.22%   |
 | Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch         | 1         | 2.22%   |
 | Chimei Innolux LCD Monitor CMN14E5 1920x1080 309x173mm 13.9-inch         | 1         | 2.22%   |
@@ -1639,7 +1639,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 5.88%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 5.88%   |
 | Intel 82567LM Gigabit Network Connection                                | 4         | 5.88%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 4.41%   |
+| Realtek 802.11n WLAN Adapter                                            | 3         | 4.41%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 4.41%   |
 | Intel WiFi Link 5100                                                    | 3         | 4.41%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 2.94%   |
@@ -1702,7 +1702,7 @@ Wireless models
 |-------------------------------------------------------------------------|-----------|---------|
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 9.76%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 9.76%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 7.32%   |
+| Realtek 802.11n WLAN Adapter                                            | 3         | 7.32%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 7.32%   |
 | Intel WiFi Link 5100                                                    | 3         | 7.32%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 4.88%   |
@@ -1946,11 +1946,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Notebooks | Percent |
-|----------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s           | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s     | 1         | 33.33%  |
+| Model                                                 | Notebooks | Percent |
+|-------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2167,9 +2167,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 24        | 55.81%  |
-| 1     | 16        | 37.21%  |
-| 2     | 3         | 6.98%   |
+| 0     | 23        | 53.49%  |
+| 1     | 15        | 34.88%  |
+| 2     | 5         | 11.63%  |
 
 Unsupported Device Types
 ------------------------
@@ -2181,13 +2181,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 28.57%  |
-| Fingerprint reader       | 5         | 23.81%  |
-| Chipcard                 | 3         | 14.29%  |
-| Storage                  | 2         | 9.52%   |
-| Storage/ide              | 1         | 4.76%   |
-| Net/wireless             | 1         | 4.76%   |
-| Modem                    | 1         | 4.76%   |
-| Graphics card            | 1         | 4.76%   |
-| Communication controller | 1         | 4.76%   |
+| Multimedia controller    | 6         | 25%     |
+| Fingerprint reader       | 5         | 20.83%  |
+| Graphics card            | 4         | 16.67%  |
+| Chipcard                 | 3         | 12.5%   |
+| Storage                  | 2         | 8.33%   |
+| Storage/ide              | 1         | 4.17%   |
+| Net/wireless             | 1         | 4.17%   |
+| Modem                    | 1         | 4.17%   |
+| Communication controller | 1         | 4.17%   |
 

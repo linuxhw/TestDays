@@ -608,8 +608,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 20       | 74.07%  |
-| Yes       | 7        | 25.93%  |
+| No        | 21       | 80.77%  |
+| Yes       | 5        | 19.23%  |
 
 Has Ethernet
 ------------
@@ -1397,7 +1397,7 @@ Monitor models
 | Toshiba TSB-TV TSB0205 1920x1080 531x398mm 26.1-inch                  | 1        | 3.57%   |
 | STD LCD Monitor STD0001 1920x1080                                     | 1        | 3.57%   |
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1        | 3.57%   |
 | Plain Tree Systems Monitor PTS0899 1680x1050 474x296mm 22.0-inch      | 1        | 3.57%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1        | 3.57%   |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch           | 1        | 3.57%   |
@@ -1406,7 +1406,7 @@ Monitor models
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 1        | 3.57%   |
 | Goldstar L1742 GSM449B 1280x1024 338x270mm 17.0-inch                  | 1        | 3.57%   |
 | Goldstar L1730S GSM438D 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
-| Dell P2412H DELA07D 1920x1080 531x299mm 24.0-inch                     | 1        | 3.57%   |
+| Dell P2412H DELA07D 1920x1080 530x300mm 24.0-inch                     | 1        | 3.57%   |
 | Dell LCD Monitor P2417H                                               | 1        | 3.57%   |
 | BenQ GW2760 BNQ78C6 1920x1080 598x336mm 27.0-inch                     | 1        | 3.57%   |
 | BenQ BL2405 BNQ8016 1920x1080 531x298mm 24.0-inch                     | 1        | 3.57%   |
@@ -1416,7 +1416,7 @@ Monitor models
 | AOC 2470W AOC2470 1920x1080 520x290mm 23.4-inch                       | 1        | 3.57%   |
 | AOC 2270W AOC2270 1920x1080 477x268mm 21.5-inch                       | 1        | 3.57%   |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 3.57%   |
-| Acer X223W c ACR0011 1680x1050 473x296mm 22.0-inch                    | 1        | 3.57%   |
+| Acer X223W ACR0011 1680x1050 470x300mm 22.0-inch                      | 1        | 3.57%   |
 | Acer ET221Q ACR056B 1920x1080 477x268mm 21.5-inch                     | 1        | 3.57%   |
 | Acer CB272U ACR081D 2560x1440 597x336mm 27.0-inch                     | 1        | 3.57%   |
 
@@ -1587,7 +1587,7 @@ Controller models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 16       | 26.67%  |
-| Realtek 802.11n                                                         | 5        | 8.33%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 5        | 8.33%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)             | 3        | 5%      |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 2        | 3.33%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2        | 3.33%   |
@@ -1604,18 +1604,18 @@ Controller models
 | Ralink RT5372 Wireless Adapter                                          | 1        | 1.67%   |
 | Ralink MT7601U Wireless Adapter                                         | 1        | 1.67%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                        | 1        | 1.67%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:514355CC                              | 1        | 1.67%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:3BB6B401                              | 1        | 1.67%   |
 | Nvidia MCP61 Ethernet                                                   | 1        | 1.67%   |
 | Microsoft Xbox360 Wireless N Networking Adapter [Atheros AR7010+AR9280] | 1        | 1.67%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 1.67%   |
 | Mercucys 802.11n NIC                                                    | 1        | 1.67%   |
-| MediaTek TECNO F1                                                       | 1        | 1.67%   |
+| MediaTek TECNO CAMON 18P                                                | 1        | 1.67%   |
 | Intel Wi-Fi 6 AX200                                                     | 1        | 1.67%   |
 | Intel I211 Gigabit Network Connection                                   | 1        | 1.67%   |
 | Intel Ethernet Connection I217-V                                        | 1        | 1.67%   |
 | Intel 82583V Gigabit Network Connection                                 | 1        | 1.67%   |
 | Intel 82579V Gigabit Network Connection                                 | 1        | 1.67%   |
-| ICS Advent 10/100M LAN                                                  | 1        | 1.67%   |
+| ICS Advent USB 10/100 LAN                                               | 1        | 1.67%   |
 | Gemtek WUBR-177G [Ralink RT2571W]                                       | 1        | 1.67%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]    | 1        | 1.67%   |
 | Broadcom Network controller                                             | 1        | 1.67%   |
@@ -1654,7 +1654,7 @@ Wireless models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Realtek 802.11n                                                         | 5        | 19.23%  |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 5        | 19.23%  |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 2        | 7.69%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2        | 7.69%   |
 | TP-Link Archer T4U ver.3                                                | 1        | 3.85%   |
@@ -1711,12 +1711,12 @@ Ethernet models
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.03%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.03%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 3.03%   |
-| MediaTek TECNO F1                                                 | 1        | 3.03%   |
+| MediaTek TECNO CAMON 18P                                          | 1        | 3.03%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 3.03%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 3.03%   |
 | Intel 82583V Gigabit Network Connection                           | 1        | 3.03%   |
 | Intel 82579V Gigabit Network Connection                           | 1        | 3.03%   |
-| ICS Advent 10/100M LAN                                            | 1        | 3.03%   |
+| ICS Advent USB 10/100 LAN                                         | 1        | 3.03%   |
 
 Net Controller Kind
 -------------------
@@ -1911,11 +1911,11 @@ Memory module models
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 5.56%   |
 | Kingston RAM 9905678-005.A00G 8GB DIMM DDR4 2400MT/s       | 1        | 5.56%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16384MB DIMM DDR4 3600MT/s  | 1        | 5.56%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s     | 1        | 5.56%   |
 | Crucial RAM CT16G4SFD8266.M16FJ 16GB SODIMM DDR4 2667MT/s  | 1        | 5.56%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Corsair RAM CM4X8GF2400Z16K4 8GB DIMM DDR4 2400MT/s        | 1        | 5.56%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                | 1        | 5.56%   |
+| A-DATA RAM DDR4 3000 16384MB DIMM DDR4 3600MT/s            | 1        | 5.56%   |
 
 Memory Kind
 -----------

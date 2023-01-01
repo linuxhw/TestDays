@@ -1497,8 +1497,8 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch    | 3        | 8.82%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch    | 2        | 5.88%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch    | 3        | 8.82%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 2        | 5.88%   |
 | Hewlett-Packard x20LED HWP2910 1600x900 443x249mm 20.0-inch          | 2        | 5.88%   |
 | Hewlett-Packard P224 HPN361E 1920x1080 527x296mm 23.8-inch           | 2        | 5.88%   |
 | Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch | 1        | 2.94%   |
@@ -1515,7 +1515,7 @@ Monitor models
 | MSI MP271 MSI30A2 1920x1080 598x336mm 27.0-inch                      | 1        | 2.94%   |
 | MSI MP242 MSI30A1 1920x1080 527x296mm 23.8-inch                      | 1        | 2.94%   |
 | Medion MD30422PV MED86F6 1680x1050 474x296mm 22.0-inch               | 1        | 2.94%   |
-| Lenovo T24v-10 LEN61BC 1920x1080 527x296mm 23.8-inch                 | 1        | 2.94%   |
+| Lenovo T24v-10 LEN61BC 1920x1080 530x300mm 24.0-inch                 | 1        | 2.94%   |
 | Hewlett-Packard LE2001w HWP2841 1600x900 440x250mm 19.9-inch         | 1        | 2.94%   |
 | Hewlett-Packard LCD Monitor 2011 1600x900                            | 1        | 2.94%   |
 | Hewlett-Packard L1940T HWP2682 1280x1024 338x270mm 17.0-inch         | 1        | 2.94%   |
@@ -1525,7 +1525,7 @@ Monitor models
 | GDH PHILCO GDH0030 1920x540 708x398mm 32.0-inch                      | 1        | 2.94%   |
 | Dell S2721HGF DEL41E8 1920x1080 600x340mm 27.2-inch                  | 1        | 2.94%   |
 | BenQ T201W BNQ7719 1680x1050 433x271mm 20.1-inch                     | 1        | 2.94%   |
-| AU Optronics LCD Monitor AUO61D2 1024x600 220x130mm 10.1-inch        | 1        | 2.94%   |
+| AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch        | 1        | 2.94%   |
 
 Monitor Resolution
 ------------------
@@ -1689,10 +1689,10 @@ Controller models
 | Samsung Galaxy series, misc. (tethering mode)                          | 1        | 1.96%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 1        | 1.96%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter               | 1        | 1.96%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                  | 1        | 1.96%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 1        | 1.96%   |
 | Realtek RTL8125 2.5GbE Controller                                      | 1        | 1.96%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 1        | 1.96%   |
-| Realtek 802.11n                                                        | 1        | 1.96%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1        | 1.96%   |
 | Intel Wireless 7265                                                    | 1        | 1.96%   |
 | Intel Wireless 3165                                                    | 1        | 1.96%   |
@@ -1735,8 +1735,8 @@ Wireless models
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                              | 2        | 11.76%  |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 1        | 5.88%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter               | 1        | 5.88%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                  | 1        | 5.88%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 1        | 5.88%   |
-| Realtek 802.11n                                                        | 1        | 5.88%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1        | 5.88%   |
 | Intel Wireless 7265                                                    | 1        | 5.88%   |
 | Intel Wireless 3165                                                    | 1        | 5.88%   |
@@ -1970,7 +1970,7 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 4%      |
 | TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s             | 1        | 4%      |
 | Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s          | 1        | 4%      |
-| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2400MT/s           | 1        | 4%      |
+| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s           | 1        | 4%      |
 | SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                | 1        | 4%      |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s        | 1        | 4%      |
 | SK hynix RAM HMA82GU7CJR8N-VK 16384MB DIMM DDR4 2667MT/s     | 1        | 4%      |

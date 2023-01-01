@@ -724,8 +724,8 @@ Desktop Environment
 | XFCE           | 18        | 7.06%   |
 | KDE            | 15        | 5.88%   |
 | MATE           | 9         | 3.53%   |
-| sway           | 5         | 1.96%   |
-| Xsession       | 4         | 1.57%   |
+| Sway           | 5         | 1.96%   |
+| XSession       | 4         | 1.57%   |
 | LXQt           | 4         | 1.57%   |
 | LXDE           | 4         | 1.57%   |
 | DWM            | 4         | 1.57%   |
@@ -1053,9 +1053,9 @@ Motherboard manufacture year
 | 2018    | 28        | 11.52%  |
 | 2021    | 18        | 7.41%   |
 | 2017    | 17        | 7%      |
-| 2016    | 13        | 5.35%   |
 | 2014    | 13        | 5.35%   |
-| 2015    | 11        | 4.53%   |
+| 2016    | 12        | 4.94%   |
+| 2015    | 12        | 4.94%   |
 | 2012    | 9         | 3.7%    |
 | 2010    | 6         | 2.47%   |
 | 2013    | 4         | 1.65%   |
@@ -1517,7 +1517,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 79        | 114    | 54.48%  |
 | 0.51-1.0   | 56        | 65     | 38.62%  |
-| 1.01-2.0   | 10        | 16     | 6.9%    |
+| 1.01-2.0   | 9         | 15     | 6.21%   |
+| 3.01-4.0   | 1         | 1      | 0.69%   |
 
 Space Total
 -----------
@@ -2011,7 +2012,7 @@ Microarchitecture
 | CometLake        | 12        | 4.92%   |
 | Haswell          | 11        | 4.51%   |
 | Zen+             | 9         | 3.69%   |
-| Icelake          | 9         | 3.69%   |
+| IceLake          | 9         | 3.69%   |
 | IvyBridge        | 7         | 2.87%   |
 | Broadwell        | 6         | 2.46%   |
 | Zen 3            | 5         | 2.05%   |
@@ -2211,9 +2212,9 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 6         | 2.01%   |
-| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch             | 5         | 1.67%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch             | 5         | 1.67%   |
 | LG Display LCD Monitor LGD0608 1920x1080 309x174mm 14.0-inch             | 3         | 1%      |
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 3         | 1%      |
+| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 3         | 1%      |
 | Sharp LQ156M1JW25 SHP152C 1920x1080 344x194mm 15.5-inch                  | 2         | 0.67%   |
 | Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch                  | 2         | 0.67%   |
 | Sharp LCD Monitor SHP14FA 3840x2400 288x180mm 13.4-inch                  | 2         | 0.67%   |
@@ -2226,7 +2227,7 @@ Monitor models
 | LG Display LCD Monitor LGD0657 1920x1080 344x194mm 15.5-inch             | 2         | 0.67%   |
 | LG Display LCD Monitor LGD062C 1920x1080 309x174mm 14.0-inch             | 2         | 0.67%   |
 | LG Display LCD Monitor LGD045D 1366x768 345x194mm 15.6-inch              | 2         | 0.67%   |
-| Gigabyte Technology G34WQC GBT3400 3440x1440 797x334mm 34.0-inch         | 2         | 0.67%   |
+| Gigabyte Technology G34WQC GBT3400 3440x1440 800x330mm 34.1-inch         | 2         | 0.67%   |
 | Fujitsu Siemens P24W-6 IPS FUS07EA 1920x1200 518x324mm 24.1-inch         | 2         | 0.67%   |
 | Dell U2715H DELD065 2560x1440 597x336mm 27.0-inch                        | 2         | 0.67%   |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch         | 2         | 0.67%   |
@@ -2238,7 +2239,7 @@ Monitor models
 | BOE LCD Monitor BOE0804 1920x1080 344x193mm 15.5-inch                    | 2         | 0.67%   |
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                        | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUOC48A 1920x1080 344x194mm 15.5-inch           | 2         | 0.67%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x193mm 15.5-inch           | 2         | 0.67%   |
+| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO5A2D 1920x1080 293x165mm 13.2-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO408D 1920x1080 309x174mm 14.0-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch           | 2         | 0.67%   |
@@ -2378,8 +2379,8 @@ Area in inch²
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
 | 101-110        | 113       | 38.31%  |
-| 81-90          | 50        | 16.95%  |
-| 71-80          | 27        | 9.15%   |
+| 81-90          | 51        | 17.29%  |
+| 71-80          | 26        | 8.81%   |
 | 301-350        | 21        | 7.12%   |
 | 201-250        | 18        | 6.1%    |
 | 61-70          | 13        | 4.41%   |
@@ -2943,9 +2944,9 @@ Memory module models
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 8         | 2.72%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s     | 6         | 2.04%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 6         | 2.04%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s         | 6         | 2.04%   |
-| SK hynix RAM HMA82GS6AFR8N-UH 16384MB SODIMM DDR4 2667MT/s   | 5         | 1.7%    |
+| SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 5         | 1.7%    |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 5         | 1.7%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s        | 5         | 1.7%    |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s       | 5         | 1.7%    |
@@ -2956,7 +2957,7 @@ Memory module models
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s     | 3         | 1.02%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 3         | 1.02%   |
@@ -2977,7 +2978,7 @@ Memory module models
 | Samsung RAM Module 8GB SODIMM DDR4 3200MT/s                  | 2         | 0.68%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 3200MT/s               | 2         | 0.68%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.68%   |
-| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s     | 2         | 0.68%   |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s        | 2         | 0.68%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
@@ -3028,9 +3029,9 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 106       | 42.06%  |
+| 8192  | 107       | 42.46%  |
 | 16384 | 54        | 21.43%  |
-| 4096  | 51        | 20.24%  |
+| 4096  | 50        | 19.84%  |
 | 2048  | 17        | 6.75%   |
 | 32768 | 16        | 6.35%   |
 | 1024  | 6         | 2.38%   |
@@ -3167,12 +3168,12 @@ Camera device models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                           | 18        | 8.18%   |
+| Microdia Integrated_Webcam_HD                       | 17        | 7.73%   |
 | IMC Networks Integrated Camera                      | 16        | 7.27%   |
-| Microdia Integrated_Webcam_HD                       | 15        | 6.82%   |
-| Realtek Integrated_Webcam_HD                        | 10        | 4.55%   |
+| Realtek Integrated_Webcam_HD                        | 11        | 5%      |
+| Acer Integrated Camera                              | 8         | 3.64%   |
 | Chicony HD Webcam                                   | 7         | 3.18%   |
 | Chicony HP HD Camera                                | 6         | 2.73%   |
-| Acer Integrated Camera                              | 6         | 2.73%   |
 | Lite-On Integrated Camera                           | 5         | 2.27%   |
 | Sunplus Integrated_Webcam_HD                        | 4         | 1.82%   |
 | IMC Networks USB2.0 HD UVC WebCam                   | 4         | 1.82%   |
@@ -3182,12 +3183,11 @@ Camera device models
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 3         | 1.36%   |
 | Logitech HD Pro Webcam C920                         | 3         | 1.36%   |
 | Sunplus HD WebCam                                   | 2         | 0.91%   |
-| Samsung Galaxy series, misc. (MTP mode)             | 2         | 0.91%   |
+| Samsung Galaxy A5 (MTP)                             | 2         | 0.91%   |
 | Realtek USB2.0 HD UVC WebCam                        | 2         | 0.91%   |
 | Realtek Integrated Webcam                           | 2         | 0.91%   |
 | Quanta VGA WebCam                                   | 2         | 0.91%   |
 | Quanta HP Wide Vision HD Camera                     | 2         | 0.91%   |
-| Microdia Integrated Webcam HD                       | 2         | 0.91%   |
 | Luxvisions Innotech Limited HP HD Camera            | 2         | 0.91%   |
 | Lite-On TOSHIBA Web Camera - HD                     | 2         | 0.91%   |
 | Lite-On HP Wide Vision HD Camera                    | 2         | 0.91%   |
@@ -3200,12 +3200,13 @@ Camera device models
 | Chicony Integrated Camera (1280x720@30)             | 2         | 0.91%   |
 | Chicony HD User Facing                              | 2         | 0.91%   |
 | Chicony EasyCamera                                  | 2         | 0.91%   |
-| Acer ThinkPad Integrated Camera                     | 2         | 0.91%   |
 | Acer SunplusIT Integrated Camera                    | 2         | 0.91%   |
 | Z-Star Webcam                                       | 1         | 0.45%   |
 | Z-Star Venus USB2.0 Camera                          | 1         | 0.45%   |
 | Syntek Lenovo EasyCamera                            | 1         | 0.45%   |
 | Syntek HP Webcam-101                                | 1         | 0.45%   |
+| Syntek EasyCamera                                   | 1         | 0.45%   |
+| Sunplus SPCA2650 AV Camera                          | 1         | 0.45%   |
 
 Security
 --------

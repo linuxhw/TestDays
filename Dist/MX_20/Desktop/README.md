@@ -590,8 +590,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 12       | 52.17%  |
-| Yes       | 11       | 47.83%  |
+| No        | 12       | 54.55%  |
+| Yes       | 10       | 45.45%  |
 
 Has Ethernet
 ------------
@@ -753,7 +753,7 @@ Hard drive models
 | Seagate ST31500341AS 1TB          | 1        | 1.92%   |
 | Seagate ST2000DX001-1CM164 2TB    | 1        | 1.92%   |
 | Seagate ST2000DM001-1CH164 2TB    | 1        | 1.92%   |
-| Seagate Backup+ Desk 5TB          | 1        | 1.92%   |
+| Seagate Backup+ Desk 4TB          | 1        | 1.92%   |
 | SanDisk SSD PLUS 1000GB           | 1        | 1.92%   |
 | SanDisk SSD G5 BICS4 500GB        | 1        | 1.92%   |
 | Samsung SSD 970 EVO Plus 500GB    | 1        | 1.92%   |
@@ -1350,36 +1350,36 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                  | 1        | 3.57%   |
-| Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch                 | 1        | 3.57%   |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 3.57%   |
-| Sony TV SNY0801 1360x768                                                | 1        | 3.57%   |
-| Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch    | 1        | 3.57%   |
-| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 1872x1053mm 84.6-inch | 1        | 3.57%   |
-| Samsung Electronics C27JG5x SAM0F57 1680x1050 600x340mm 27.2-inch       | 1        | 3.57%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch       | 1        | 3.57%   |
-| RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                        | 1        | 3.57%   |
-| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                | 1        | 3.57%   |
-| Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                  | 1        | 3.57%   |
-| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                    | 1        | 3.57%   |
-| Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch              | 1        | 3.57%   |
-| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch              | 1        | 3.57%   |
-| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch                | 1        | 3.57%   |
-| Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                    | 1        | 3.57%   |
-| Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                   | 1        | 3.57%   |
-| Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                  | 1        | 3.57%   |
-| Goldstar E1940 GSM4BD6 1360x768 406x229mm 18.4-inch                     | 1        | 3.57%   |
-| Dell ST2220L DELA063 1920x1080 477x268mm 21.5-inch                      | 1        | 3.57%   |
-| Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                       | 1        | 3.57%   |
-| BenQ GL2760 BNQ78D5 1920x1080 598x336mm 27.0-inch                       | 1        | 3.57%   |
-| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch            | 1        | 3.57%   |
-| ASUSTek Computer VG279QL1A AUS2702 1920x1080 598x336mm 27.0-inch        | 1        | 3.57%   |
-| Acer X34 P ACR054F 3440x1440 800x340mm 34.2-inch                        | 1        | 3.57%   |
-| Acer R240HY ACR046F 1920x1080 527x296mm 23.8-inch                       | 1        | 3.57%   |
-| Acer P166HQL ACR0280 1366x768 344x194mm 15.5-inch                       | 1        | 3.57%   |
-| Acer G227HQL ACR03DE 1920x1080 476x267mm 21.5-inch                      | 1        | 3.57%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                | 1        | 3.57%   |
+| Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch               | 1        | 3.57%   |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch  | 1        | 3.57%   |
+| Sony TV SNY0801 1360x768                                              | 1        | 3.57%   |
+| Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
+| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 950x540mm 43.0-inch | 1        | 3.57%   |
+| Samsung Electronics C27JG5x SAM0F57 1680x1050 600x340mm 27.2-inch     | 1        | 3.57%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
+| RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                      | 1        | 3.57%   |
+| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch              | 1        | 3.57%   |
+| Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                | 1        | 3.57%   |
+| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                  | 1        | 3.57%   |
+| Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch            | 1        | 3.57%   |
+| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch            | 1        | 3.57%   |
+| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 1        | 3.57%   |
+| Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                  | 1        | 3.57%   |
+| Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
+| Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                | 1        | 3.57%   |
+| Goldstar E1940 GSM4BD6 1360x768 406x229mm 18.4-inch                   | 1        | 3.57%   |
+| Dell ST2220L DELA063 1920x1080 477x268mm 21.5-inch                    | 1        | 3.57%   |
+| Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1        | 3.57%   |
+| BenQ GL2760 BNQ78D5 1920x1080 598x336mm 27.0-inch                     | 1        | 3.57%   |
+| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch          | 1        | 3.57%   |
+| ASUSTek Computer VG279QL1A AUS2702 1920x1080 598x336mm 27.0-inch      | 1        | 3.57%   |
+| Acer X34 P ACR054F 3440x1440 800x340mm 34.2-inch                      | 1        | 3.57%   |
+| Acer S230HL ACR0280 1920x1080 509x286mm 23.0-inch                     | 1        | 3.57%   |
+| Acer R240HY ACR046F 1920x1080 527x296mm 23.8-inch                     | 1        | 3.57%   |
+| Acer G227HQL ACR03DE 1920x1080 476x267mm 21.5-inch                    | 1        | 3.57%   |
 
 Monitor Resolution
 ------------------
@@ -1778,7 +1778,7 @@ Sound card models
 | Nvidia GM204 High Definition Audio Controller                       | 1        | 2.27%   |
 | Nvidia GF119 HDMI Audio Controller                                  | 1        | 2.27%   |
 | Kingston Technology HyperX 7.1 Audio                                | 1        | 2.27%   |
-| JMTek Lioncast_LX60_USB_Headset                                     | 1        | 2.27%   |
+| JMTek HP-71                                                         | 1        | 2.27%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller    | 1        | 2.27%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller             | 1        | 2.27%   |
 | Intel Comet Lake PCH cAVS                                           | 1        | 2.27%   |
@@ -1841,7 +1841,7 @@ Memory module models
 | Samsung RAM M391B5273DH0-YK0 4GB DIMM DDR3 1600MT/s                  | 1        | 3.45%   |
 | PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s                 | 1        | 3.45%   |
 | Patriot Memory (PDP Systems) RAM PSD48G320081 8GB DIMM DDR4 3200MT/s | 1        | 3.45%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4096MB DIMM DDR3 1600MT/s                | 1        | 3.45%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                   | 1        | 3.45%   |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s                 | 1        | 3.45%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s                  | 1        | 3.45%   |
 | Kingston RAM KHX2133C13D4/8GX 8192MB DIMM DDR4 2133MT/s              | 1        | 3.45%   |

@@ -783,11 +783,11 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2012 | 19       | 12.84%  |
-| 2009 | 15       | 10.14%  |
+| 2009 | 16       | 10.81%  |
 | 2014 | 13       | 8.78%   |
 | 2007 | 13       | 8.78%   |
-| 2010 | 12       | 8.11%   |
 | 2019 | 11       | 7.43%   |
+| 2010 | 11       | 7.43%   |
 | 2008 | 11       | 7.43%   |
 | 2011 | 10       | 6.76%   |
 | 2018 | 9        | 6.08%   |
@@ -1130,7 +1130,7 @@ Hard drive models
 | Seagate ST2000LX001-1RG174 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-9YN164 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-1ER164 2TB         | 2        | 0.71%   |
-| Seagate Expansion 1TB                  | 2        | 0.71%   |
+| Seagate Expansion 4TB                  | 2        | 0.71%   |
 | Samsung SSD 850 EVO 500GB              | 2        | 0.71%   |
 | Samsung SP0802N 80GB                   | 2        | 0.71%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 256GB | 2        | 0.71%   |
@@ -1241,12 +1241,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 121      | 231    | 62.69%  |
-| 0.51-1.0   | 46       | 67     | 23.83%  |
-| 1.01-2.0   | 18       | 26     | 9.33%   |
-| 3.01-4.0   | 4        | 8      | 2.07%   |
-| 2.01-3.0   | 2        | 2      | 1.04%   |
-| 4.01-10.0  | 2        | 2      | 1.04%   |
+| 0.01-0.5   | 121      | 231    | 62.05%  |
+| 0.51-1.0   | 46       | 65     | 23.59%  |
+| 1.01-2.0   | 18       | 26     | 9.23%   |
+| 3.01-4.0   | 6        | 10     | 3.08%   |
+| 2.01-3.0   | 2        | 2      | 1.03%   |
+| 4.01-10.0  | 2        | 2      | 1.03%   |
 
 Space Total
 -----------
@@ -1933,19 +1933,19 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0217 1280x1024 376x301mm 19.0-inch    | 1        | 0.6%    |
 | Samsung Electronics SyncMaster SAM01BB 1280x1024 376x301mm 19.0-inch    | 1        | 0.6%    |
 | Samsung Electronics SyncMaster SAM006E 1280x1024 338x270mm 17.0-inch    | 1        | 0.6%    |
+| Samsung Electronics SMS24A350H SAM07D6 1920x1080 531x299mm 24.0-inch    | 1        | 0.6%    |
 | Samsung Electronics SMS22A200/460 SAM0831 1920x1080 477x268mm 21.5-inch | 1        | 0.6%    |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch      | 1        | 0.6%    |
 | Samsung Electronics SMB2230 SAM063E 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24R35x SAM100E 1920x1080 527x296mm 23.8-inch       | 1        | 0.6%    |
-| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
+| Samsung Electronics S24F350 SAM0D21 1920x1080 520x290mm 23.4-inch       | 1        | 0.6%    |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch       | 1        | 0.6%    |
 | Samsung Electronics S24D360 SAM0B24 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch       | 1        | 0.6%    |
 | Samsung Electronics S22D390 SAM0B63 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S22B300 SAM08AC 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S19F350 SAM0D46 1366x768 410x230mm 18.5-inch        | 1        | 0.6%    |
-| Samsung Electronics S16B110 SAM097E 1366x768 360x210mm 16.4-inch        | 1        | 0.6%    |
 
 Monitor Resolution
 ------------------
@@ -2253,9 +2253,9 @@ Wireless models
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 1.54%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 1.54%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                                        | 1        | 1.54%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                         | 1        | 1.54%   |
 | Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                                     | 1        | 1.54%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.54%   |
-| Realtek 802.11n                                                                               | 1        | 1.54%   |
 | Ralink RT2501/RT2573 Wireless Adapter                                                         | 1        | 1.54%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.54%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1        | 1.54%   |
@@ -2569,32 +2569,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM 667MT/s                    | 1        | 4.17%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 4.17%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                 | 1        | 4.17%   |
-| Unknown RAM Module 2GB DIMM DDR 1333MT/s                 | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 667MT/s              | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 400MT/s              | 1        | 4.17%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 4.17%   |
-| Unknown RAM Module 1024MB DIMM                           | 1        | 4.17%   |
-| Unknown RAM 4400 C19 Series 8GB DIMM DDR4 2133MT/s       | 1        | 4.17%   |
-| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 4.17%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 1        | 4.17%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1        | 4.17%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 4.17%   |
-| PLEXHD RAM Module 8192MB DIMM DDR3 1333MT/s              | 1        | 4.17%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 4.17%   |
-| Kingston RAM KP223C-ELD 2GB DIMM DDR3 1600MT/s           | 1        | 4.17%   |
-| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s   | 1        | 4.17%   |
-| Kingston RAM 9965589-033.D00G 8192MB DIMM DDR4 2400MT/s  | 1        | 4.17%   |
-| G.Skill RAM F4-3200C16-16GTZSK 16GB DIMM DDR4 3200MT/s   | 1        | 4.17%   |
-| Exceleram RAM E30144A 4096MB DIMM DDR3 800MT/s           | 1        | 4.17%   |
-| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s  | 1        | 4.17%   |
-| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2666MT/s   | 1        | 4.17%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 4.17%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 512MB DIMM 667MT/s                   | 1        | 4.17%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 4.17%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 4.17%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 667MT/s             | 1        | 4.17%   |
+| Unknown RAM Module 2048MB DIMM DDR2 400MT/s             | 1        | 4.17%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                  | 1        | 4.17%   |
+| Unknown RAM Module 1024MB DIMM                          | 1        | 4.17%   |
+| Unknown RAM 4400 C19 Series 8GB DIMM DDR4 2133MT/s      | 1        | 4.17%   |
+| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s           | 1        | 4.17%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 1        | 4.17%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1        | 4.17%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s     | 1        | 4.17%   |
+| PLEXHD RAM Module 8192MB DIMM DDR3 1333MT/s             | 1        | 4.17%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |
+| Kingston RAM KP223C-ELD 2GB DIMM DDR3 1600MT/s          | 1        | 4.17%   |
+| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s  | 1        | 4.17%   |
+| Kingston RAM 9965589-033.D00G 8192MB DIMM DDR4 2400MT/s | 1        | 4.17%   |
+| G.Skill RAM F4-3200C16-16GTZSK 16GB DIMM DDR4 3200MT/s  | 1        | 4.17%   |
+| Exceleram RAM E30144A 4096MB DIMM DDR3 800MT/s          | 1        | 4.17%   |
+| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 1        | 4.17%   |
+| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2666MT/s  | 1        | 4.17%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s   | 1        | 4.17%   |
 
 Memory Kind
 -----------
@@ -2657,7 +2657,7 @@ Memory module speed
 | 2400    | 2        | 9.09%   |
 | 1333    | 2        | 9.09%   |
 | 667     | 2        | 9.09%   |
-| 4133    | 1        | 4.55%   |
+| 4266    | 1        | 4.55%   |
 | 3800    | 1        | 4.55%   |
 | 3500    | 1        | 4.55%   |
 | 3200    | 1        | 4.55%   |
@@ -2782,7 +2782,7 @@ Camera device models
 | Logitech Webcam C310                               | 1        | 5%      |
 | Logitech HD Pro Webcam C920                        | 1        | 5%      |
 | KYE Systems (Mouse Systems) Genius iSlim 2000AF V2 | 1        | 5%      |
-| Generalplus 808 Camera                             | 1        | 5%      |
+| Generalplus 808 Camera #9 (web-cam mode)           | 1        | 5%      |
 | Chicony HP High Definition 1MP Webcam              | 1        | 5%      |
 
 Security

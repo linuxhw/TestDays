@@ -1205,7 +1205,7 @@ Monitor models
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch               | 1        | 7.69%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                  | 1        | 7.69%   |
 | Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                   | 1        | 7.69%   |
-| BenQ GL2450H BNQ78A6 1920x1080 530x300mm 24.0-inch                   | 1        | 7.69%   |
+| BenQ GL2450H BNQ78A6 1920x1080 531x298mm 24.0-inch                   | 1        | 7.69%   |
 | Apple Cinema HD Display APP9220 2560x1600 641x401mm 29.8-inch        | 1        | 7.69%   |
 | Ancor Communications VS278 ACI27A1 1920x1080 598x336mm 27.0-inch     | 1        | 7.69%   |
 
@@ -1362,10 +1362,10 @@ Controller models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8        | 29.63%  |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 3        | 11.11%  |
-| TP-Link 802.11ac WLAN Adapter                                     | 2        | 7.41%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2        | 7.41%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 2        | 7.41%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 3.7%    |
-| Realtek 802.11n                                                   | 1        | 3.7%    |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 3.7%    |
 | Realtek 802.11ac NIC                                              | 1        | 3.7%    |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1        | 3.7%    |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1        | 3.7%    |
@@ -1402,10 +1402,10 @@ Wireless models
 
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
-| TP-Link 802.11ac WLAN Adapter                              | 2        | 20%     |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 2        | 20%     |
 | Realtek RTL8192CU 802.11n WLAN Adapter                     | 2        | 20%     |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 10%     |
-| Realtek 802.11n                                            | 1        | 10%     |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 10%     |
 | Realtek 802.11ac NIC                                       | 1        | 10%     |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter | 1        | 10%     |
 | Qualcomm Atheros AR9462 Wireless Network Adapter           | 1        | 10%     |

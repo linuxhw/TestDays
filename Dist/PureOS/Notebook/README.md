@@ -843,7 +843,7 @@ Hard drive models
 | Plextor PX-1TM6Pro 1024GB SSD       | 1         | 2.33%   |
 | Phison PM8512GPTCB4B8TF-E13T4 512GB | 1         | 2.33%   |
 | Mushkin MKNSSDRE250GB-LT            | 1         | 2.33%   |
-| JMicron Generic 1TB                 | 1         | 2.33%   |
+| JMicron Generic 240GB SSD           | 1         | 2.33%   |
 | Intel SSDSC2BF180A4H 180GB          | 1         | 2.33%   |
 | Hitachi HTS545050A7E380 500GB       | 1         | 2.33%   |
 | HGST HTS721010A9E630 1TB            | 1         | 2.33%   |
@@ -936,9 +936,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 14        | 21     | 63.64%  |
-| 0.51-1.0   | 6         | 6      | 27.27%  |
-| 1.01-2.0   | 2         | 3      | 9.09%   |
+| 0.01-0.5   | 14        | 22     | 66.67%  |
+| 0.51-1.0   | 5         | 5      | 23.81%  |
+| 1.01-2.0   | 2         | 3      | 9.52%   |
 
 Space Total
 -----------
@@ -1425,7 +1425,7 @@ Monitor models
 | LG Display LCD Monitor LGD034D 1366x768 344x194mm 15.5-inch               | 1         | 2.56%   |
 | LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch               | 1         | 2.56%   |
 | Lenovo LEN Y44w-10 LEN65EA 3840x1200 1052x329mm 43.4-inch                 | 1         | 2.56%   |
-| Iiyama PL2792H IVM664F 1920x1080 600x340mm 27.2-inch                      | 1         | 2.56%   |
+| Iiyama PL2792H IVM664F 1920x1080 598x336mm 27.0-inch                      | 1         | 2.56%   |
 | Grundig WXGA GRU4448 1600x1200                                            | 1         | 2.56%   |
 | Goldstar IPS231 GSM5817 1920x1080 510x290mm 23.1-inch                     | 1         | 2.56%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 2.56%   |
@@ -1625,7 +1625,7 @@ Controller models
 | Realtek RTL8191SEvB Wireless LAN Controller                       | 1         | 1.67%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1         | 1.67%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.67%   |
-| OPPO SDM665-IDP _SN:18689828                                      | 1         | 1.67%   |
+| OPPO RMX3263                                                      | 1         | 1.67%   |
 | MediaTek WiFi                                                     | 1         | 1.67%   |
 | Intel Wireless 8265 / 8275                                        | 1         | 1.67%   |
 | Intel Ethernet Connection I218-V                                  | 1         | 1.67%   |
@@ -1716,7 +1716,7 @@ Ethernet models
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 7.69%   |
 | Intel Ethernet Connection I217-LM                                 | 2         | 7.69%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 2         | 7.69%   |
-| OPPO SDM665-IDP _SN:18689828                                      | 1         | 3.85%   |
+| OPPO RMX3263                                                      | 1         | 3.85%   |
 | Intel Ethernet Connection I218-V                                  | 1         | 3.85%   |
 | Intel Ethernet Connection (4) I219-V                              | 1         | 3.85%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1         | 3.85%   |
@@ -1907,8 +1907,8 @@ Memory module models
 | Crucial RAM CT16G4SFD824A.M16FRS 16GB SODIMM DDR4 2400MT/s | 2         | 13.33%  |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                | 1         | 6.67%   |
 | Unknown RAM Module 16384MB 2133MT/s                        | 1         | 6.67%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s         | 1         | 6.67%   |
-| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s          | 1         | 6.67%   |
+| Toshiba RAM 8HTF12864HDY-800G1 4GB SODIMM 1066MT/s         | 1         | 6.67%   |
+| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM DDR2 1066MT/s     | 1         | 6.67%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 6.67%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s     | 1         | 6.67%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 6.67%   |
@@ -2046,17 +2046,17 @@ Camera device models
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
 | Alcor Micro HD WebCam                                                      | 3         | 11.11%  |
-| Apple iPhone 5/5C/5S/6/SE                                                  | 2         | 7.41%   |
+| Apple iPhone5/5C/5S/6                                                      | 2         | 7.41%   |
 | Acer SunplusIT INC. Integrated Camera                                      | 2         | 7.41%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 3.7%    |
 | Sunplus Integrated Camera                                                  | 1         | 3.7%    |
 | Sunplus HD WebCam                                                          | 1         | 3.7%    |
 | Silicon Motion WebCam SC-13HDL12131N                                       | 1         | 3.7%    |
-| Realtek USB Camera                                                         | 1         | 3.7%    |
+| Realtek USB2.0 camera                                                      | 1         | 3.7%    |
 | Realtek Integrated_Webcam_HD                                               | 1         | 3.7%    |
 | Realtek Integrated Webcam                                                  | 1         | 3.7%    |
 | Realtek HP Truevision HD                                                   | 1         | 3.7%    |
-| Microdia HP Integrated Webcam                                              | 1         | 3.7%    |
+| Microdia USB 2.0 Camera                                                    | 1         | 3.7%    |
 | Lite-On Integrated Camera                                                  | 1         | 3.7%    |
 | IMC Networks Lenovo EasyCamera                                             | 1         | 3.7%    |
 | Chicony USB2.0 UVC WebCam                                                  | 1         | 3.7%    |
@@ -2142,9 +2142,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 14        | 41.18%  |
+| 1     | 15        | 44.12%  |
 | 0     | 14        | 41.18%  |
-| 2     | 4         | 11.76%  |
+| 2     | 3         | 8.82%   |
 | 4     | 1         | 2.94%   |
 | 3     | 1         | 2.94%   |
 
@@ -2158,11 +2158,11 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Net/wireless          | 7         | 24.14%  |
-| Fingerprint reader    | 6         | 20.69%  |
-| Bluetooth             | 6         | 20.69%  |
-| Graphics card         | 5         | 17.24%  |
-| Multimedia controller | 3         | 10.34%  |
-| Chipcard              | 1         | 3.45%   |
-| Camera                | 1         | 3.45%   |
+| Net/wireless          | 7         | 25%     |
+| Fingerprint reader    | 6         | 21.43%  |
+| Bluetooth             | 6         | 21.43%  |
+| Graphics card         | 4         | 14.29%  |
+| Multimedia controller | 3         | 10.71%  |
+| Chipcard              | 1         | 3.57%   |
+| Camera                | 1         | 3.57%   |
 

@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 61
+Total: 62
 
 | Vendor    | Model                       | Probe                                                      | Date         |
 |-----------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell      | Latitude E6430              | [7fe3f11f56](https://linux-hardware.org/?probe=7fe3f11f56) | Dec 22, 2022 |
 | Dell      | Latitude E6430              | [60832751d1](https://linux-hardware.org/?probe=60832751d1) | Nov 16, 2022 |
 | HP        | Notebook                    | [9c04c0776d](https://linux-hardware.org/?probe=9c04c0776d) | Mar 10, 2022 |
 | Dell      | Inspiron N4030              | [ac4c492fcf](https://linux-hardware.org/?probe=ac4c492fcf) | Mar 05, 2022 |
@@ -263,33 +264,34 @@ Version of the Linux kernel
 
 | Version           | Notebooks | Percent |
 |-------------------|-----------|---------|
-| 5.4.0-42-generic  | 7         | 15.56%  |
-| 5.4.0-29-generic  | 7         | 15.56%  |
-| 5.4.0-37-generic  | 4         | 8.89%   |
-| 5.4.0-48-generic  | 2         | 4.44%   |
-| 5.4.0-21-generic  | 2         | 4.44%   |
-| 5.11.0-17-generic | 2         | 4.44%   |
-| 5.8.0-33-generic  | 1         | 2.22%   |
-| 5.8.0-23-generic  | 1         | 2.22%   |
-| 5.6.0-1008-oem    | 1         | 2.22%   |
-| 5.4.0-96-generic  | 1         | 2.22%   |
-| 5.4.0-94-generic  | 1         | 2.22%   |
-| 5.4.0-88-generic  | 1         | 2.22%   |
-| 5.4.0-84-generic  | 1         | 2.22%   |
-| 5.4.0-70-generic  | 1         | 2.22%   |
-| 5.4.0-52-generic  | 1         | 2.22%   |
-| 5.4.0-39-generic  | 1         | 2.22%   |
-| 5.4.0-34-generic  | 1         | 2.22%   |
-| 5.4.0-33-generic  | 1         | 2.22%   |
-| 5.15.0-53-generic | 1         | 2.22%   |
-| 5.13.0-30-generic | 1         | 2.22%   |
-| 5.13.0-23-generic | 1         | 2.22%   |
-| 5.13.0-22-generic | 1         | 2.22%   |
-| 5.13.0-21-generic | 1         | 2.22%   |
-| 5.11.0-46-generic | 1         | 2.22%   |
-| 5.11.0-25-generic | 1         | 2.22%   |
-| 5.11.0-16-generic | 1         | 2.22%   |
-| 4.15.0-29-generic | 1         | 2.22%   |
+| 5.4.0-42-generic  | 7         | 15.22%  |
+| 5.4.0-29-generic  | 7         | 15.22%  |
+| 5.4.0-37-generic  | 4         | 8.7%    |
+| 5.4.0-48-generic  | 2         | 4.35%   |
+| 5.4.0-21-generic  | 2         | 4.35%   |
+| 5.11.0-17-generic | 2         | 4.35%   |
+| 5.8.0-33-generic  | 1         | 2.17%   |
+| 5.8.0-23-generic  | 1         | 2.17%   |
+| 5.6.0-1008-oem    | 1         | 2.17%   |
+| 5.4.0-96-generic  | 1         | 2.17%   |
+| 5.4.0-94-generic  | 1         | 2.17%   |
+| 5.4.0-88-generic  | 1         | 2.17%   |
+| 5.4.0-84-generic  | 1         | 2.17%   |
+| 5.4.0-70-generic  | 1         | 2.17%   |
+| 5.4.0-52-generic  | 1         | 2.17%   |
+| 5.4.0-39-generic  | 1         | 2.17%   |
+| 5.4.0-34-generic  | 1         | 2.17%   |
+| 5.4.0-33-generic  | 1         | 2.17%   |
+| 5.15.0-57-generic | 1         | 2.17%   |
+| 5.15.0-53-generic | 1         | 2.17%   |
+| 5.13.0-30-generic | 1         | 2.17%   |
+| 5.13.0-23-generic | 1         | 2.17%   |
+| 5.13.0-22-generic | 1         | 2.17%   |
+| 5.13.0-21-generic | 1         | 2.17%   |
+| 5.11.0-46-generic | 1         | 2.17%   |
+| 5.11.0-25-generic | 1         | 2.17%   |
+| 5.11.0-16-generic | 1         | 2.17%   |
+| 4.15.0-29-generic | 1         | 2.17%   |
 
 Kernel Family
 -------------
@@ -686,11 +688,11 @@ Used RAM memory
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 2.01-3.0  | 18        | 40%     |
-| 1.01-2.0  | 16        | 35.56%  |
-| 4.01-8.0  | 5         | 11.11%  |
-| 3.01-4.0  | 5         | 11.11%  |
-| 8.01-16.0 | 1         | 2.22%   |
+| 2.01-3.0  | 18        | 39.13%  |
+| 1.01-2.0  | 17        | 36.96%  |
+| 4.01-8.0  | 5         | 10.87%  |
+| 3.01-4.0  | 5         | 10.87%  |
+| 8.01-16.0 | 1         | 2.17%   |
 
 Total Drives
 ------------
@@ -858,7 +860,7 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 12        | 12     | 21.82%  |
+| Seagate             | 12        | 13     | 21.82%  |
 | Toshiba             | 8         | 8      | 14.55%  |
 | WDC                 | 6         | 6      | 10.91%  |
 | Samsung Electronics | 5         | 5      | 9.09%   |
@@ -938,7 +940,7 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 11        | 11     | 39.29%  |
+| Seagate             | 11        | 12     | 39.29%  |
 | Toshiba             | 7         | 7      | 25%     |
 | WDC                 | 4         | 4      | 14.29%  |
 | HGST                | 2         | 2      | 7.14%   |
@@ -977,7 +979,7 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 26        | 28     | 50.98%  |
+| HDD     | 26        | 29     | 50.98%  |
 | SSD     | 14        | 15     | 27.45%  |
 | NVMe    | 8         | 11     | 15.69%  |
 | MMC     | 2         | 2      | 3.92%   |
@@ -993,7 +995,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 35        | 44     | 77.78%  |
+| SATA | 35        | 45     | 77.78%  |
 | NVMe | 8         | 11     | 17.78%  |
 | MMC  | 2         | 2      | 4.44%   |
 
@@ -1007,7 +1009,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 24        | 25     | 58.54%  |
+| 0.01-0.5   | 24        | 26     | 58.54%  |
 | 0.51-1.0   | 15        | 16     | 36.59%  |
 | 1.01-2.0   | 2         | 2      | 4.88%   |
 
@@ -1040,13 +1042,13 @@ Amount of used disk space
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1-20      | 23        | 51.11%  |
-| 21-50     | 8         | 17.78%  |
-| 101-250   | 5         | 11.11%  |
-| 51-100    | 4         | 8.89%   |
-| 251-500   | 3         | 6.67%   |
-| 1001-2000 | 1         | 2.22%   |
-| Unknown   | 1         | 2.22%   |
+| 1-20      | 23        | 50%     |
+| 21-50     | 8         | 17.39%  |
+| 101-250   | 6         | 13.04%  |
+| 51-100    | 4         | 8.7%    |
+| 251-500   | 3         | 6.52%   |
+| 1001-2000 | 1         | 2.17%   |
+| Unknown   | 1         | 2.17%   |
 
 Malfunc. Drives
 ---------------
@@ -1120,7 +1122,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 31        | 38     | 67.39%  |
+| Detected | 31        | 39     | 67.39%  |
 | Works    | 14        | 18     | 30.43%  |
 | Malfunc  | 1         | 1      | 2.17%   |
 
@@ -1552,7 +1554,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch     | 1         | 2%      |
-| MSI PRO 22X 10M MSI1462 1920x1080 595x336mm 26.9-inch                    | 1         | 2%      |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                   | 1         | 2%      |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch             | 1         | 2%      |
 | LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch             | 1         | 2%      |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 2%      |
@@ -2092,14 +2094,14 @@ Memory module models
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM 1334MT/s          | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s     | 1         | 4%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Samsung RAM M471A5244BB0-CRC 4096MB SODIMM DDR4 2667MT/s   | 1         | 4%      |
+| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s     | 1         | 4%      |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
@@ -2242,7 +2244,7 @@ Camera device models
 | Suyin WebCam                                   | 1         | 2.63%   |
 | Suyin HP Truevision HD                         | 1         | 2.63%   |
 | Suyin Asus Integrated Webcam                   | 1         | 2.63%   |
-| Suyin 1.3M HD WebCam                           | 1         | 2.63%   |
+| Suyin 1.3M Front                               | 1         | 2.63%   |
 | Sunplus Laptop_Integrated_Webcam_HD            | 1         | 2.63%   |
 | Sunplus Integrated_Webcam_HD                   | 1         | 2.63%   |
 | Sunplus HD WebCam                              | 1         | 2.63%   |
@@ -2346,8 +2348,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 30        | 68.18%  |
-| 1     | 13        | 29.55%  |
-| 2     | 1         | 2.27%   |
+| 1     | 12        | 27.27%  |
+| 2     | 2         | 4.55%   |
 
 Unsupported Device Types
 ------------------------
@@ -2359,8 +2361,8 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 5         | 38.46%  |
-| Fingerprint reader | 5         | 38.46%  |
-| Chipcard           | 2         | 15.38%  |
-| Net/ethernet       | 1         | 7.69%   |
+| Graphics card      | 6         | 42.86%  |
+| Fingerprint reader | 5         | 35.71%  |
+| Chipcard           | 2         | 14.29%  |
+| Net/ethernet       | 1         | 7.14%   |
 

@@ -1332,10 +1332,10 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC3754 1600x900 382x215mm 17.3-inch | 1         | 3.57%   |
 | LG Display LCD Monitor LGD05EC 1920x1080 309x174mm 14.0-inch         | 1         | 3.57%   |
 | LG Display LCD Monitor LGD04B3 1920x1080 345x194mm 15.6-inch         | 1         | 3.57%   |
-| LG Display LCD Monitor LGD045C 1366x768 344x194mm 15.5-inch          | 1         | 3.57%   |
+| LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch          | 1         | 3.57%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch          | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch          | 1         | 3.57%   |
-| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch         | 1         | 3.57%   |
+| LG Display LCD Monitor LGD02DA 1920x1080 380x220mm 17.3-inch         | 1         | 3.57%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 3.57%   |
 | Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                    | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch      | 1         | 3.57%   |
@@ -1348,7 +1348,7 @@ Monitor models
 | BOE LCD Monitor BOE065F 1920x1080 344x194mm 15.5-inch                | 1         | 3.57%   |
 | BOE LCD Monitor BOE0615 1366x768 309x173mm 13.9-inch                 | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO683D 1920x1080 309x174mm 14.0-inch       | 1         | 3.57%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.57%   |
+| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch       | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO305D 1920x1080 256x144mm 11.6-inch       | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO233C 1366x768 309x173mm 13.9-inch        | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO223D 1920x1080 309x174mm 14.0-inch       | 1         | 3.57%   |
@@ -1506,9 +1506,9 @@ Controller models
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.92%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.92%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.92%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1         | 1.92%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1         | 1.92%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.92%   |
+| Realtek 802.11n WLAN Adapter                                      | 1         | 1.92%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 1.92%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.92%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.92%   |
@@ -1519,7 +1519,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 1.92%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.92%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.92%   |
-| Google Pixel 7                                                    | 1         | 1.92%   |
+| Google Pixel 6a                                                   | 1         | 1.92%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.92%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.92%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 1.92%   |
@@ -1562,8 +1562,8 @@ Wireless models
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter   | 1         | 3.7%    |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter   | 1         | 3.7%    |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter   | 1         | 3.7%    |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                 | 1         | 3.7%    |
 | Realtek RTL8188EE Wireless Network Adapter                 | 1         | 3.7%    |
+| Realtek 802.11n WLAN Adapter                               | 1         | 3.7%    |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter | 1         | 3.7%    |
 | Intel Wireless 7265                                        | 1         | 3.7%    |
 | Intel Wireless 3165                                        | 1         | 3.7%    |
@@ -1610,7 +1610,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 4%      |
 | Intel Ethernet Connection I217-LM                                 | 1         | 4%      |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 4%      |
-| Google Pixel 7                                                    | 1         | 4%      |
+| Google Pixel 6a                                                   | 1         | 4%      |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 4%      |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 4%      |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 4%      |

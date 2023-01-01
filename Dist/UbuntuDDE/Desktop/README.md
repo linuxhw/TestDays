@@ -890,7 +890,7 @@ Hard drive models
 | WDC WD2500AAKX-001CA0 250GB        | 1        | 1.61%   |
 | WDC WD2002FAEX-007BA0 2TB          | 1        | 1.61%   |
 | WDC WD1003FZEX-00K3CA0 1TB         | 1        | 1.61%   |
-| Vaseky V800/128G 128GB SSD         | 1        | 1.61%   |
+| Vaseky V800/128G 128GB             | 1        | 1.61%   |
 | Toshiba THNSFC128GBSJ SSD          | 1        | 1.61%   |
 | Toshiba MQ01ABD100 1TB             | 1        | 1.61%   |
 | Toshiba MK3275GSX 320GB            | 1        | 1.61%   |
@@ -1572,11 +1572,11 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.5%    |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.5%    |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.5%    |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch   | 1        | 2.5%    |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.5%    |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.5%    |
 | SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                     | 1        | 2.5%    |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch      | 1        | 2.5%    |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1        | 2.5%    |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 2.5%    |
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch      | 1        | 2.5%    |
 | Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch   | 1        | 2.5%    |
@@ -1584,27 +1584,27 @@ Monitor models
 | Philips 221V PHL0888 1920x1080 480x270mm 21.7-inch                     | 1        | 2.5%    |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 2.5%    |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch                | 1        | 2.5%    |
-| Insignia NS19ED200NA14 BBY0032 1680x1050 640x384mm 29.4-inch           | 1        | 2.5%    |
+| Insignia NS-19E320A13 BBY0032 1680x1050 640x384mm 29.4-inch            | 1        | 2.5%    |
 | HPN LCD Monitor HP 24o 1920x1080                                       | 1        | 2.5%    |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 480x270mm 21.7-inch          | 1        | 2.5%    |
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.5%    |
-| Hewlett-Packard LA2306 HWP294A 1920x1080 510x287mm 23.0-inch           | 1        | 2.5%    |
+| Hewlett-Packard LA2306 HWP294A 1920x1080 509x286mm 23.0-inch           | 1        | 2.5%    |
 | Hewlett-Packard L1740 HWP2649 1280x1024 338x270mm 17.0-inch            | 1        | 2.5%    |
 | Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 2.5%    |
-| HannStar iH282 HSD20E6 1920x1200 593x371mm 27.5-inch                   | 1        | 2.5%    |
+| HannStar iH282 HSD20E6 1920x1200 590x370mm 27.4-inch                   | 1        | 2.5%    |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 2.5%    |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 2.5%    |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.5%    |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.5%    |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.5%    |
-| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 1        | 2.5%    |
+| Dell U2410 DELF016 1920x1200 520x320mm 24.0-inch                       | 1        | 2.5%    |
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.5%    |
 | Dell LCD Monitor ST2220L                                               | 1        | 2.5%    |
 | Dell LCD Monitor DEL423A 2560x1440 600x340mm 27.2-inch                 | 1        | 2.5%    |
 | BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                      | 1        | 2.5%    |
 | BenQ EW2775ZH BNQ7944 1920x1080 598x336mm 27.0-inch                    | 1        | 2.5%    |
 | ASUSTek Computer VC279 AUS27C4 1920x1080 598x336mm 27.0-inch           | 1        | 2.5%    |
-| Ancor Communications VS248 ACI2498 1920x1080 530x300mm 24.0-inch       | 1        | 2.5%    |
+| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch       | 1        | 2.5%    |
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                  | 1        | 2.5%    |
 | Ancor Communications LCD Monitor ASUS VS247                            | 1        | 2.5%    |
 | Ancor Communications ASUS PB287Q ACI28A3 3840x2160 621x341mm 27.9-inch | 1        | 2.5%    |
@@ -2073,7 +2073,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                                                | 1        | 1.28%   |
 | M2Tech hiFaceDAC UAC2                                                                             | 1        | 1.28%   |
 | Logitech QuickCam Fusion                                                                          | 1        | 1.28%   |
-| Logitech Logitech G PRO X Gaming Headset                                                          | 1        | 1.28%   |
+| Logitech PRO X                                                                                    | 1        | 1.28%   |
 | Logitech Headset H390                                                                             | 1        | 1.28%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 1        | 1.28%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.28%   |
@@ -2130,7 +2130,7 @@ Memory module models
 | Samsung RAM 4D332037385432383633515A532D43463720 1024MB DIMM DDR2 800MT/s  | 1        | 5.56%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                           | 1        | 5.56%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1        | 5.56%   |
-| Micron RAM 8JTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s                      | 1        | 5.56%   |
+| Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                   | 1        | 5.56%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                                  | 1        | 5.56%   |
 | Kingston RAM 9905734-018.A00G 16384MB DIMM DDR4 2667MT/s                   | 1        | 5.56%   |
 | Kingston RAM 9905471-011.A00LF 4096MB DIMM DDR3 1600MT/s                   | 1        | 5.56%   |
@@ -2281,7 +2281,7 @@ Camera device models
 
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
-| Huawei HiCamera                    | 2        | 33.33%  |
+| Huawei UVC Camera                  | 2        | 33.33%  |
 | Z-Star Vimicro USB Camera (Altair) | 1        | 16.67%  |
 | Microdia Sonix USB 2.0 Camera      | 1        | 16.67%  |
 | Logitech HD Pro Webcam C920        | 1        | 16.67%  |

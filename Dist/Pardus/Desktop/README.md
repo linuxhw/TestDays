@@ -1188,7 +1188,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0599 1600x900 443x249mm 20.0-inch | 1        | 6.67%   |
 | SAC Casper SAC3219 1366x768 304x228mm 15.0-inch                     | 1        | 6.67%   |
 | Iiyama PLX2380H IVM5621 1920x1080 509x286mm 23.0-inch               | 1        | 6.67%   |
-| Goldstar L1753T GSM4476 1280x1024 340x270mm 17.1-inch               | 1        | 6.67%   |
+| Goldstar L1753T GSM4476 1280x1024 338x270mm 17.0-inch               | 1        | 6.67%   |
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                | 1        | 6.67%   |
 | Dell P2717H DEL40F6 1920x1080 598x336mm 27.0-inch                   | 1        | 6.67%   |
 | Dell E2421HN DELF129 1920x1080 527x296mm 23.8-inch                  | 1        | 6.67%   |
@@ -1561,12 +1561,12 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Kingston RAM KHX3000C15D4/8GX 8192MB DIMM DDR4 3400MT/s | 1        | 25%     |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s       | 1        | 25%     |
-| G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s      | 1        | 25%     |
-| A-DATA RAM Module 8GB DIMM DDR4 2667MT/s                | 1        | 25%     |
+| Model                                                | Desktops | Percent |
+|------------------------------------------------------|----------|---------|
+| Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s | 1        | 25%     |
+| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s    | 1        | 25%     |
+| G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s   | 1        | 25%     |
+| A-DATA RAM Module 8GB DIMM DDR4 2667MT/s             | 1        | 25%     |
 
 Memory Kind
 -----------

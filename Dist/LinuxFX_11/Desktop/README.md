@@ -675,8 +675,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 26       | 55.32%  |
-| No        | 21       | 44.68%  |
+| Yes       | 25       | 53.19%  |
+| No        | 22       | 46.81%  |
 
 Has Ethernet
 ------------
@@ -848,7 +848,7 @@ Hard drive models
 |----------------------------------|----------|---------|
 | Seagate ST1000DM010-2EP102 1TB   | 4        | 4.4%    |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 2.2%    |
-| Seagate Expansion Desk 8TB       | 2        | 2.2%    |
+| Seagate Expansion Desk 5TB       | 2        | 2.2%    |
 | SanDisk SDSSDX240GG25 240GB      | 2        | 2.2%    |
 | Samsung SSD 860 EVO 1TB          | 2        | 2.2%    |
 | Samsung NVMe SSD Drive 500GB     | 2        | 2.2%    |
@@ -969,12 +969,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 33       | 43     | 50.77%  |
-| 0.51-1.0   | 19       | 28     | 29.23%  |
-| 1.01-2.0   | 7        | 9      | 10.77%  |
-| 4.01-10.0  | 3        | 3      | 4.62%   |
-| 2.01-3.0   | 2        | 2      | 3.08%   |
-| 3.01-4.0   | 1        | 1      | 1.54%   |
+| 0.01-0.5   | 33       | 43     | 50%     |
+| 0.51-1.0   | 19       | 27     | 28.79%  |
+| 1.01-2.0   | 7        | 9      | 10.61%  |
+| 4.01-10.0  | 3        | 3      | 4.55%   |
+| 3.01-4.0   | 2        | 2      | 3.03%   |
+| 2.01-3.0   | 2        | 2      | 3.03%   |
 
 Space Total
 -----------
@@ -1158,10 +1158,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 36       | 55.38%  |
+| SATA | 35       | 53.85%  |
 | IDE  | 19       | 29.23%  |
 | NVMe | 7        | 10.77%  |
-| RAID | 3        | 4.62%   |
+| RAID | 4        | 6.15%   |
 
 Processor
 ---------
@@ -1541,7 +1541,7 @@ Monitor models
 | ViewSonic VX2452 Series VSCDE2E 1920x1080 521x293mm 23.5-inch         | 1        | 2.13%   |
 | ViewSonic VA2013wSERIES VSCF122 1600x900 443x249mm 20.0-inch          | 1        | 2.13%   |
 | Tech Concepts LCD Monitor 43S431 3840x2160                            | 1        | 2.13%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch     | 1        | 2.13%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 2.13%   |
 | Samsung Electronics T24C310 SAM0AEA 1920x1080 531x299mm 24.0-inch     | 1        | 2.13%   |
 | Samsung Electronics SyncMaster SAM058A 1920x1080 531x298mm 24.0-inch  | 1        | 2.13%   |
 | Samsung Electronics SMT22A550 SAM07AE 1920x1080 477x268mm 21.5-inch   | 1        | 2.13%   |
@@ -1560,20 +1560,20 @@ Monitor models
 | Hewlett-Packard v185e HWP2838 1366x768 410x230mm 18.5-inch            | 1        | 2.13%   |
 | Hewlett-Packard LCD Monitor w2338h                                    | 1        | 2.13%   |
 | Hewlett-Packard Compaq W185q HWP284F 1366x768 410x230mm 18.5-inch     | 1        | 2.13%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 2.13%   |
+| Goldstar W2243 GSM56FE 1920x1080 480x270mm 21.7-inch                  | 1        | 2.13%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 1        | 2.13%   |
 | Goldstar RZ32LZ55 GSM7546 1360x768 930x523mm 42.0-inch                | 1        | 2.13%   |
 | Goldstar M237WDP GSM5778 1920x1080 598x336mm 27.0-inch                | 1        | 2.13%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                   | 1        | 2.13%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.13%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                 | 1        | 2.13%   |
 | Dell LCD Monitor DELA026 1920x1200 520x330mm 24.2-inch                | 1        | 2.13%   |
-| BenQ FP71V+ BNQ76A2 1280x1024 376x301mm 19.0-inch                     | 1        | 2.13%   |
+| BenQ FP71V BNQ76A2 1280x1024 376x301mm 19.0-inch                      | 1        | 2.13%   |
+| AOC e2752Vq AOC2752 1920x1080 598x336mm 27.0-inch                     | 1        | 2.13%   |
 | AOC 519W AOC1519 1280x720 340x270mm 17.1-inch                         | 1        | 2.13%   |
-| AOC 2770G4 AOC2770 1920x1080 598x336mm 27.0-inch                      | 1        | 2.13%   |
-| AOC 2752 AOC2752 1920x1080 579x336mm 26.4-inch                        | 1        | 2.13%   |
+| AOC 2770M AOC2770 1920x1080 598x336mm 27.0-inch                       | 1        | 2.13%   |
 | AOC 2070W AOC2070 1600x900 434x236mm 19.4-inch                        | 1        | 2.13%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch      | 1        | 2.13%   |
-| Ancor Communications VE247 ACI2493 1920x1080 531x299mm 24.0-inch      | 1        | 2.13%   |
+| Ancor Communications VE247 ACI2493 1920x1080 530x300mm 24.0-inch      | 1        | 2.13%   |
 | Ancor Communications MW221 ACI22B1 1680x1050 473x296mm 22.0-inch      | 1        | 2.13%   |
 | Ancor Communications LCD Monitor ASUS VS228 1920x1080                 | 1        | 2.13%   |
 | Ancor Communications ASUS VP247 ACI24C7 1920x1080 521x293mm 23.5-inch | 1        | 2.13%   |
@@ -1758,9 +1758,9 @@ Controller models
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 1.32%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 1.32%   |
 | Realtek RTL8188RU 802.11n WLAN Adapter                                                        | 1        | 1.32%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                         | 1        | 1.32%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 1        | 1.32%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.32%   |
-| Realtek 802.11n                                                                               | 1        | 1.32%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1        | 1.32%   |
 | Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.32%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.32%   |
@@ -1771,7 +1771,7 @@ Controller models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1        | 1.32%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                                 | 1        | 1.32%   |
 | Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn]                        | 1        | 1.32%   |
-| Motorola PCS motorola one                                                                     | 1        | 1.32%   |
+| Motorola PCS moto g(9) play                                                                   | 1        | 1.32%   |
 | Intel Wireless 8265 / 8275                                                                    | 1        | 1.32%   |
 | Intel Wireless 7265                                                                           | 1        | 1.32%   |
 | Intel I211 Gigabit Network Connection                                                         | 1        | 1.32%   |
@@ -1825,9 +1825,9 @@ Wireless models
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 3.85%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 3.85%   |
 | Realtek RTL8188RU 802.11n WLAN Adapter                                                        | 1        | 3.85%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                         | 1        | 3.85%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 1        | 3.85%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 3.85%   |
-| Realtek 802.11n                                                                               | 1        | 3.85%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1        | 3.85%   |
 | Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 3.85%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 3.85%   |
@@ -1876,7 +1876,7 @@ Ethernet models
 | Intel 82579V Gigabit Network Connection                           | 2        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2%      |
-| Motorola PCS motorola one                                         | 1        | 2%      |
+| Motorola PCS moto g(9) play                                       | 1        | 2%      |
 | Intel I211 Gigabit Network Connection                             | 1        | 2%      |
 | Intel Ethernet Connection I217-V                                  | 1        | 2%      |
 | Intel Ethernet Connection (2) I219-LM                             | 1        | 2%      |
@@ -2199,8 +2199,8 @@ Camera device vendors
 | Ruision                   | 1        | 7.14%   |
 | Jieli Technology          | 1        | 7.14%   |
 | Hewlett-Packard           | 1        | 7.14%   |
+| HD 2MP WEBCAM             | 1        | 7.14%   |
 | Creative Technology       | 1        | 7.14%   |
-| 2M UVC CAMERA             | 1        | 7.14%   |
 
 Camera Model
 ------------
@@ -2222,10 +2222,10 @@ Camera device models
 | Logitech C922 Pro Stream Webcam                | 1        | 7.14%   |
 | Jieli USB PHY 2.0                              | 1        | 7.14%   |
 | HP Webcam 3110                                 | 1        | 7.14%   |
+| HD 2MP WEBCAM HD 2MP WEBCAM                    | 1        | 7.14%   |
 | Creative Live! Cam Sync HD [VF0770]            | 1        | 7.14%   |
 | Chicony CNF7042                                | 1        | 7.14%   |
 | Chicony 2.0M UVC Webcam / CNF7129              | 1        | 7.14%   |
-| 2M UVC CAMERA NexiGo N60 FHD Webcam            | 1        | 7.14%   |
 
 Security
 --------

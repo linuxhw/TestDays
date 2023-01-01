@@ -1589,10 +1589,10 @@ Monitor models
 | Samsung Electronics SyncMaster SAM04DF 1360x768 410x230mm 18.5-inch   | 1        | 2.7%    |
 | Samsung Electronics SMT27A950 SAM080F 1920x1080 598x336mm 27.0-inch   | 1        | 2.7%    |
 | Samsung Electronics SM2333T SAM0737 1920x1080 510x290mm 23.1-inch     | 1        | 2.7%    |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 2.7%    |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1        | 2.7%    |
 | Samsung Electronics LCD Monitor U28E590 3840x2160                     | 1        | 2.7%    |
-| Samsung Electronics LCD Monitor SAM07C0 1920x1080 700x390mm 31.5-inch | 1        | 2.7%    |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch     | 1        | 2.7%    |
+| Samsung Electronics LCD Monitor SAM07C0 1920x1080 890x500mm 40.2-inch | 1        | 2.7%    |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.7%    |
 | Philips PHL BDM3270 PHL08E7 2560x1440 708x398mm 32.0-inch             | 1        | 2.7%    |
 | Philips PHL 275C5 PHLC0E4 1920x1080 598x336mm 27.0-inch               | 1        | 2.7%    |
 | Philips PHL 246V5 PHLC0C5 1920x1080 531x299mm 24.0-inch               | 1        | 2.7%    |
@@ -1600,8 +1600,8 @@ Monitor models
 | MSI MPG27CQ MSI3FA3 2560x1440 600x340mm 27.2-inch                     | 1        | 2.7%    |
 | Medion Medion23.6 PC MEDB603 1920x1080 477x268mm 21.5-inch            | 1        | 2.7%    |
 | Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                 | 1        | 2.7%    |
-| Iiyama X2485 IVM610F 1920x1080 520x320mm 24.0-inch                    | 1        | 2.7%    |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1        | 2.7%    |
+| Iiyama X2485 IVM610F 1920x1200 518x324mm 24.1-inch                    | 1        | 2.7%    |
+| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch                 | 1        | 2.7%    |
 | Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                  | 1        | 2.7%    |
 | Hewlett-Packard S2331 HWP2907 1920x1080 509x286mm 23.0-inch           | 1        | 2.7%    |
 | Hewlett-Packard L1950 HWP26E8 1280x1024 380x300mm 19.1-inch           | 1        | 2.7%    |
@@ -1620,8 +1620,8 @@ Monitor models
 | BenQ PJ BNQ0203 1920x1080                                             | 1        | 2.7%    |
 | BenQ GL2250H BNQ78A0 1920x1080 477x268mm 21.5-inch                    | 1        | 2.7%    |
 | Belinea Belinea101540 MAX0604 1024x768 307x230mm 15.1-inch            | 1        | 2.7%    |
-| AOC Q27G2G4 AOC2702 2560x1440 597x336mm 27.0-inch                     | 1        | 2.7%    |
-| Ancor Communications SAMSUNG ACI27C4 1920x1080 598x336mm 27.0-inch    | 1        | 2.7%    |
+| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 2.7%    |
+| Ancor Communications VC279 ACI27C4 1920x1080 598x336mm 27.0-inch      | 1        | 2.7%    |
 
 Monitor Resolution
 ------------------
@@ -2119,7 +2119,7 @@ Memory module models
 | Corsair RAM CMW64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s        | 1        | 4.55%   |
 | Corsair RAM CMW16GX4M2A2666C16 8GB DIMM DDR4 2666MT/s         | 1        | 4.55%   |
 | Corsair RAM CMK16GX4M1B3000C15 16GB DIMM DDR4 3400MT/s        | 1        | 4.55%   |
-| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3400MT/s                   | 1        | 4.55%   |
+| A-DATA RAM DDR4 3200 16GB DIMM DDR4 3400MT/s                  | 1        | 4.55%   |
 
 Memory Kind
 -----------
@@ -2264,7 +2264,7 @@ Camera device models
 |-------------------------------|----------|---------|
 | Logitech B525 HD Webcam       | 2        | 40%     |
 | Logitech Webcam C270          | 1        | 20%     |
-| Huawei HiCamera               | 1        | 20%     |
+| Huawei UVC Camera             | 1        | 20%     |
 | Alcor Micro USB 2.0 PC Camera | 1        | 20%     |
 
 Security

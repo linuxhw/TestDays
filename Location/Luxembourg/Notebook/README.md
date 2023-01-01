@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 93
+Total: 94
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| HP            | EliteBook 850 G8 Noteboo... | [5b645cbd36](https://linux-hardware.org/?probe=5b645cbd36) | Dec 22, 2022 |
 | Dell          | Precision 7670              | [93f14c8b55](https://linux-hardware.org/?probe=93f14c8b55) | Nov 21, 2022 |
 | Dell          | Latitude 5520               | [91cab639f0](https://linux-hardware.org/?probe=91cab639f0) | Nov 17, 2022 |
 | Clevo         | W25xHPx                     | [04196b2306](https://linux-hardware.org/?probe=04196b2306) | Oct 13, 2022 |
@@ -266,46 +267,46 @@ Installed operating systems
 
 | Name                         | Notebooks | Percent |
 |------------------------------|-----------|---------|
-| Ubuntu 20.04                 | 12        | 16.44%  |
-| Ubuntu 18.04                 | 5         | 6.85%   |
-| Linux Mint 20.3              | 4         | 5.48%   |
-| Ubuntu 21.04                 | 3         | 4.11%   |
-| Pop!_OS 21.04                | 3         | 4.11%   |
-| openSUSE Tumbleweed-XXXXXXXX | 3         | 4.11%   |
-| OpenMandriva 4.2             | 3         | 4.11%   |
-| Xubuntu 20.04                | 2         | 2.74%   |
-| Ubuntu 20.10                 | 2         | 2.74%   |
-| OpenMandriva 4.90            | 2         | 2.74%   |
-| Xubuntu 18.04                | 1         | 1.37%   |
-| Ubuntu MATE 21.10            | 1         | 1.37%   |
-| Ubuntu MATE 20.04            | 1         | 1.37%   |
-| Ubuntu 22.04                 | 1         | 1.37%   |
-| Ubuntu 18.10                 | 1         | 1.37%   |
-| RHEL 8                       | 1         | 1.37%   |
-| Pop!_OS 22.04                | 1         | 1.37%   |
-| Pop!_OS 21.10                | 1         | 1.37%   |
-| Pop!_OS 20.10                | 1         | 1.37%   |
-| Pop!_OS 20.04                | 1         | 1.37%   |
-| Parrot 5.1                   | 1         | 1.37%   |
-| openSUSE Leap-15.1           | 1         | 1.37%   |
-| OpenMandriva 4.3             | 1         | 1.37%   |
-| Manjaro 21.2.6               | 1         | 1.37%   |
-| Manjaro 19.0.2               | 1         | 1.37%   |
-| Lubuntu 20.04                | 1         | 1.37%   |
-| LMDE 4                       | 1         | 1.37%   |
-| Linux Mint 20.2              | 1         | 1.37%   |
-| Linux Mint 19.2              | 1         | 1.37%   |
-| Kubuntu 18.04                | 1         | 1.37%   |
-| Garuda Linux Soaring         | 1         | 1.37%   |
-| Fedora 36                    | 1         | 1.37%   |
-| Fedora 32                    | 1         | 1.37%   |
-| Endless 3.9.3                | 1         | 1.37%   |
-| Endless 3.9.1                | 1         | 1.37%   |
-| Endless 3.9.0                | 1         | 1.37%   |
-| Endless 3.7.8                | 1         | 1.37%   |
-| Elementary 6.1               | 1         | 1.37%   |
-| Debian 11                    | 1         | 1.37%   |
-| Debian 10                    | 1         | 1.37%   |
+| Ubuntu 20.04                 | 12        | 16.22%  |
+| Ubuntu 18.04                 | 5         | 6.76%   |
+| Linux Mint 20.3              | 4         | 5.41%   |
+| Ubuntu 21.04                 | 3         | 4.05%   |
+| Pop!_OS 21.04                | 3         | 4.05%   |
+| openSUSE Tumbleweed-XXXXXXXX | 3         | 4.05%   |
+| OpenMandriva 4.2             | 3         | 4.05%   |
+| Xubuntu 20.04                | 2         | 2.7%    |
+| Ubuntu 22.04                 | 2         | 2.7%    |
+| Ubuntu 20.10                 | 2         | 2.7%    |
+| OpenMandriva 4.90            | 2         | 2.7%    |
+| Xubuntu 18.04                | 1         | 1.35%   |
+| Ubuntu MATE 21.10            | 1         | 1.35%   |
+| Ubuntu MATE 20.04            | 1         | 1.35%   |
+| Ubuntu 18.10                 | 1         | 1.35%   |
+| RHEL 8                       | 1         | 1.35%   |
+| Pop!_OS 22.04                | 1         | 1.35%   |
+| Pop!_OS 21.10                | 1         | 1.35%   |
+| Pop!_OS 20.10                | 1         | 1.35%   |
+| Pop!_OS 20.04                | 1         | 1.35%   |
+| Parrot 5.1                   | 1         | 1.35%   |
+| openSUSE Leap-15.1           | 1         | 1.35%   |
+| OpenMandriva 4.3             | 1         | 1.35%   |
+| Manjaro 21.2.6               | 1         | 1.35%   |
+| Manjaro 19.0.2               | 1         | 1.35%   |
+| Lubuntu 20.04                | 1         | 1.35%   |
+| LMDE 4                       | 1         | 1.35%   |
+| Linux Mint 20.2              | 1         | 1.35%   |
+| Linux Mint 19.2              | 1         | 1.35%   |
+| Kubuntu 18.04                | 1         | 1.35%   |
+| Garuda Linux Soaring         | 1         | 1.35%   |
+| Fedora 36                    | 1         | 1.35%   |
+| Fedora 32                    | 1         | 1.35%   |
+| Endless 3.9.3                | 1         | 1.35%   |
+| Endless 3.9.1                | 1         | 1.35%   |
+| Endless 3.9.0                | 1         | 1.35%   |
+| Endless 3.7.8                | 1         | 1.35%   |
+| Elementary 6.1               | 1         | 1.35%   |
+| Debian 11                    | 1         | 1.35%   |
+| Debian 10                    | 1         | 1.35%   |
 
 OS Family
 ---------
@@ -350,46 +351,46 @@ Version of the Linux kernel
 
 | Version                  | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| 5.11.0-27-generic        | 3         | 4.05%   |
-| 5.10.14-desktop-1omv4002 | 3         | 4.05%   |
-| 5.8.0-59-generic         | 2         | 2.7%    |
-| 5.4.0-96-generic         | 2         | 2.7%    |
-| 5.4.0-122-generic        | 2         | 2.7%    |
-| 5.18.12-desktop-3omv4090 | 2         | 2.7%    |
-| 5.11.0-34-generic        | 2         | 2.7%    |
-| 5.11.0-17-generic        | 2         | 2.7%    |
-| 5.0.0-23-generic         | 2         | 2.7%    |
-| 6.0.6-76060006-generic   | 1         | 1.35%   |
-| 5.8.11-050811-generic    | 1         | 1.35%   |
-| 5.8.0-63-generic         | 1         | 1.35%   |
-| 5.8.0-55-generic         | 1         | 1.35%   |
-| 5.8.0-43-generic         | 1         | 1.35%   |
-| 5.8.0-31-generic         | 1         | 1.35%   |
-| 5.8.0-20-generic         | 1         | 1.35%   |
-| 5.8.0-14-generic         | 1         | 1.35%   |
-| 5.7.6-201.fc32.x86_64    | 1         | 1.35%   |
-| 5.7.1-1-default          | 1         | 1.35%   |
-| 5.7.0-3-amd64            | 1         | 1.35%   |
-| 5.7.0-050700-generic     | 1         | 1.35%   |
-| 5.6.3-935.native         | 1         | 1.35%   |
-| 5.5.8-1-MANJARO          | 1         | 1.35%   |
-| 5.4.0-84-generic         | 1         | 1.35%   |
-| 5.4.0-73-generic         | 1         | 1.35%   |
-| 5.4.0-52-generic         | 1         | 1.35%   |
-| 5.4.0-47-generic         | 1         | 1.35%   |
-| 5.4.0-42-generic         | 1         | 1.35%   |
-| 5.4.0-37-generic         | 1         | 1.35%   |
-| 5.3.0-51-generic         | 1         | 1.35%   |
-| 5.3.0-46-generic         | 1         | 1.35%   |
-| 5.3.0-28-generic         | 1         | 1.35%   |
-| 5.18.5-200.fc36.x86_64   | 1         | 1.35%   |
-| 5.18.0-14parrot1-amd64   | 1         | 1.35%   |
-| 5.16.7-desktop-1omv4003  | 1         | 1.35%   |
-| 5.16.2-arch1-1           | 1         | 1.35%   |
-| 5.16.11-76051611-generic | 1         | 1.35%   |
-| 5.15.4-zen1-1-zen        | 1         | 1.35%   |
-| 5.15.32-1-MANJARO        | 1         | 1.35%   |
-| 5.15.0-47-generic        | 1         | 1.35%   |
+| 5.11.0-27-generic        | 3         | 4%      |
+| 5.10.14-desktop-1omv4002 | 3         | 4%      |
+| 5.8.0-59-generic         | 2         | 2.67%   |
+| 5.4.0-96-generic         | 2         | 2.67%   |
+| 5.4.0-122-generic        | 2         | 2.67%   |
+| 5.18.12-desktop-3omv4090 | 2         | 2.67%   |
+| 5.11.0-34-generic        | 2         | 2.67%   |
+| 5.11.0-17-generic        | 2         | 2.67%   |
+| 5.0.0-23-generic         | 2         | 2.67%   |
+| 6.0.6-76060006-generic   | 1         | 1.33%   |
+| 5.8.11-050811-generic    | 1         | 1.33%   |
+| 5.8.0-63-generic         | 1         | 1.33%   |
+| 5.8.0-55-generic         | 1         | 1.33%   |
+| 5.8.0-43-generic         | 1         | 1.33%   |
+| 5.8.0-31-generic         | 1         | 1.33%   |
+| 5.8.0-20-generic         | 1         | 1.33%   |
+| 5.8.0-14-generic         | 1         | 1.33%   |
+| 5.7.6-201.fc32.x86_64    | 1         | 1.33%   |
+| 5.7.1-1-default          | 1         | 1.33%   |
+| 5.7.0-3-amd64            | 1         | 1.33%   |
+| 5.7.0-050700-generic     | 1         | 1.33%   |
+| 5.6.3-935.native         | 1         | 1.33%   |
+| 5.5.8-1-MANJARO          | 1         | 1.33%   |
+| 5.4.0-84-generic         | 1         | 1.33%   |
+| 5.4.0-73-generic         | 1         | 1.33%   |
+| 5.4.0-52-generic         | 1         | 1.33%   |
+| 5.4.0-47-generic         | 1         | 1.33%   |
+| 5.4.0-42-generic         | 1         | 1.33%   |
+| 5.4.0-37-generic         | 1         | 1.33%   |
+| 5.3.0-51-generic         | 1         | 1.33%   |
+| 5.3.0-46-generic         | 1         | 1.33%   |
+| 5.3.0-28-generic         | 1         | 1.33%   |
+| 5.18.5-200.fc36.x86_64   | 1         | 1.33%   |
+| 5.18.0-14parrot1-amd64   | 1         | 1.33%   |
+| 5.16.7-desktop-1omv4003  | 1         | 1.33%   |
+| 5.16.2-arch1-1           | 1         | 1.33%   |
+| 5.16.11-76051611-generic | 1         | 1.33%   |
+| 5.15.4-zen1-1-zen        | 1         | 1.33%   |
+| 5.15.32-1-MANJARO        | 1         | 1.33%   |
+| 5.15.0-56-generic        | 1         | 1.33%   |
 
 Kernel Family
 -------------
@@ -401,38 +402,38 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.11.0  | 12        | 16.67%  |
-| 5.4.0   | 9         | 12.5%   |
-| 5.8.0   | 8         | 11.11%  |
-| 5.13.0  | 4         | 5.56%   |
-| 5.3.0   | 3         | 4.17%   |
-| 5.10.14 | 3         | 4.17%   |
-| 4.15.0  | 3         | 4.17%   |
-| 5.7.0   | 2         | 2.78%   |
-| 5.18.12 | 2         | 2.78%   |
-| 5.15.0  | 2         | 2.78%   |
-| 5.0.0   | 2         | 2.78%   |
-| 4.18.0  | 2         | 2.78%   |
-| 6.0.6   | 1         | 1.39%   |
-| 5.8.11  | 1         | 1.39%   |
-| 5.7.6   | 1         | 1.39%   |
-| 5.7.1   | 1         | 1.39%   |
-| 5.6.3   | 1         | 1.39%   |
-| 5.5.8   | 1         | 1.39%   |
-| 5.18.5  | 1         | 1.39%   |
-| 5.18.0  | 1         | 1.39%   |
-| 5.16.7  | 1         | 1.39%   |
-| 5.16.2  | 1         | 1.39%   |
-| 5.16.11 | 1         | 1.39%   |
-| 5.15.4  | 1         | 1.39%   |
-| 5.15.32 | 1         | 1.39%   |
-| 5.14.0  | 1         | 1.39%   |
-| 5.12.13 | 1         | 1.39%   |
-| 5.10.26 | 1         | 1.39%   |
-| 5.10.0  | 1         | 1.39%   |
-| 4.19.0  | 1         | 1.39%   |
-| 4.18.16 | 1         | 1.39%   |
-| 4.12.14 | 1         | 1.39%   |
+| 5.11.0  | 12        | 16.44%  |
+| 5.4.0   | 9         | 12.33%  |
+| 5.8.0   | 8         | 10.96%  |
+| 5.13.0  | 4         | 5.48%   |
+| 5.3.0   | 3         | 4.11%   |
+| 5.15.0  | 3         | 4.11%   |
+| 5.10.14 | 3         | 4.11%   |
+| 4.15.0  | 3         | 4.11%   |
+| 5.7.0   | 2         | 2.74%   |
+| 5.18.12 | 2         | 2.74%   |
+| 5.0.0   | 2         | 2.74%   |
+| 4.18.0  | 2         | 2.74%   |
+| 6.0.6   | 1         | 1.37%   |
+| 5.8.11  | 1         | 1.37%   |
+| 5.7.6   | 1         | 1.37%   |
+| 5.7.1   | 1         | 1.37%   |
+| 5.6.3   | 1         | 1.37%   |
+| 5.5.8   | 1         | 1.37%   |
+| 5.18.5  | 1         | 1.37%   |
+| 5.18.0  | 1         | 1.37%   |
+| 5.16.7  | 1         | 1.37%   |
+| 5.16.2  | 1         | 1.37%   |
+| 5.16.11 | 1         | 1.37%   |
+| 5.15.4  | 1         | 1.37%   |
+| 5.15.32 | 1         | 1.37%   |
+| 5.14.0  | 1         | 1.37%   |
+| 5.12.13 | 1         | 1.37%   |
+| 5.10.26 | 1         | 1.37%   |
+| 5.10.0  | 1         | 1.37%   |
+| 4.19.0  | 1         | 1.37%   |
+| 4.18.16 | 1         | 1.37%   |
+| 4.12.14 | 1         | 1.37%   |
 
 Kernel Major Ver.
 -----------------
@@ -444,26 +445,26 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.11    | 12        | 16.67%  |
-| 5.8     | 9         | 12.5%   |
-| 5.4     | 9         | 12.5%   |
-| 5.10    | 5         | 6.94%   |
-| 5.7     | 4         | 5.56%   |
-| 5.18    | 4         | 5.56%   |
-| 5.15    | 4         | 5.56%   |
-| 5.13    | 4         | 5.56%   |
-| 5.3     | 3         | 4.17%   |
-| 5.16    | 3         | 4.17%   |
-| 4.18    | 3         | 4.17%   |
-| 4.15    | 3         | 4.17%   |
-| 5.0     | 2         | 2.78%   |
-| 6.0     | 1         | 1.39%   |
-| 5.6     | 1         | 1.39%   |
-| 5.5     | 1         | 1.39%   |
-| 5.14    | 1         | 1.39%   |
-| 5.12    | 1         | 1.39%   |
-| 4.19    | 1         | 1.39%   |
-| 4.12    | 1         | 1.39%   |
+| 5.11    | 12        | 16.44%  |
+| 5.8     | 9         | 12.33%  |
+| 5.4     | 9         | 12.33%  |
+| 5.15    | 5         | 6.85%   |
+| 5.10    | 5         | 6.85%   |
+| 5.7     | 4         | 5.48%   |
+| 5.18    | 4         | 5.48%   |
+| 5.13    | 4         | 5.48%   |
+| 5.3     | 3         | 4.11%   |
+| 5.16    | 3         | 4.11%   |
+| 4.18    | 3         | 4.11%   |
+| 4.15    | 3         | 4.11%   |
+| 5.0     | 2         | 2.74%   |
+| 6.0     | 1         | 1.37%   |
+| 5.6     | 1         | 1.37%   |
+| 5.5     | 1         | 1.37%   |
+| 5.14    | 1         | 1.37%   |
+| 5.12    | 1         | 1.37%   |
+| 4.19    | 1         | 1.37%   |
+| 4.12    | 1         | 1.37%   |
 
 Arch
 ----
@@ -511,9 +512,9 @@ X11 or Wayland
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| X11     | 57        | 83.82%  |
-| Wayland | 7         | 10.29%  |
-| Unknown | 4         | 5.88%   |
+| X11     | 57        | 82.61%  |
+| Wayland | 8         | 11.59%  |
+| Unknown | 4         | 5.8%    |
 
 Display Manager
 ---------------
@@ -525,12 +526,12 @@ SDDM, LightDM, etc.
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 36        | 50%     |
-| GDM     | 13        | 18.06%  |
-| LightDM | 10        | 13.89%  |
-| SDDM    | 8         | 11.11%  |
-| TDM     | 3         | 4.17%   |
-| GDM3    | 2         | 2.78%   |
+| Unknown | 36        | 49.32%  |
+| GDM     | 13        | 17.81%  |
+| LightDM | 10        | 13.7%   |
+| SDDM    | 8         | 10.96%  |
+| TDM     | 3         | 4.11%   |
+| GDM3    | 3         | 4.11%   |
 
 OS Lang
 -------
@@ -856,15 +857,15 @@ Used RAM memory
 
 | Used GB    | Notebooks | Percent |
 |------------|-----------|---------|
-| 2.01-3.0   | 22        | 31.43%  |
-| 1.01-2.0   | 21        | 30%     |
-| 4.01-8.0   | 12        | 17.14%  |
-| 3.01-4.0   | 6         | 8.57%   |
-| 8.01-16.0  | 5         | 7.14%   |
-| 24.01-32.0 | 1         | 1.43%   |
-| 16.01-24.0 | 1         | 1.43%   |
-| 0.51-1.0   | 1         | 1.43%   |
-| 0.01-0.5   | 1         | 1.43%   |
+| 2.01-3.0   | 22        | 30.99%  |
+| 1.01-2.0   | 21        | 29.58%  |
+| 4.01-8.0   | 13        | 18.31%  |
+| 3.01-4.0   | 6         | 8.45%   |
+| 8.01-16.0  | 5         | 7.04%   |
+| 24.01-32.0 | 1         | 1.41%   |
+| 16.01-24.0 | 1         | 1.41%   |
+| 0.51-1.0   | 1         | 1.41%   |
+| 0.01-0.5   | 1         | 1.41%   |
 
 Total Drives
 ------------
@@ -996,7 +997,7 @@ Hard drive vendors
 
 | Vendor                  | Notebooks | Drives | Percent |
 |-------------------------|-----------|--------|---------|
-| Samsung Electronics     | 20        | 24     | 23.26%  |
+| Samsung Electronics     | 20        | 25     | 23.26%  |
 | Seagate                 | 11        | 11     | 12.79%  |
 | WDC                     | 9         | 10     | 10.47%  |
 | Toshiba                 | 9         | 10     | 10.47%  |
@@ -1028,7 +1029,7 @@ Hard drive models
 
 | Model                                        | Notebooks | Percent |
 |----------------------------------------------|-----------|---------|
-| Seagate Expansion 1TB                        | 3         | 3.33%   |
+| Seagate Expansion 4TB                        | 3         | 3.33%   |
 | WDC WD10JPVX-22JC3T0 1TB                     | 2         | 2.22%   |
 | Toshiba MQ01ABF050 500GB                     | 2         | 2.22%   |
 | SanDisk SD8SN8U128G1122 128GB SSD            | 2         | 2.22%   |
@@ -1124,7 +1125,7 @@ HDD or SSD
 |---------|-----------|--------|---------|
 | SSD     | 29        | 44     | 34.94%  |
 | HDD     | 27        | 29     | 32.53%  |
-| NVMe    | 25        | 26     | 30.12%  |
+| NVMe    | 25        | 27     | 30.12%  |
 | MMC     | 1         | 1      | 1.2%    |
 | Unknown | 1         | 1      | 1.2%    |
 
@@ -1139,7 +1140,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 46        | 67     | 58.97%  |
-| NVMe | 25        | 26     | 32.05%  |
+| NVMe | 25        | 27     | 32.05%  |
 | SAS  | 6         | 7      | 7.69%   |
 | MMC  | 1         | 1      | 1.28%   |
 
@@ -1153,9 +1154,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 34        | 45     | 59.65%  |
-| 0.51-1.0   | 21        | 26     | 36.84%  |
-| 1.01-2.0   | 2         | 2      | 3.51%   |
+| 0.01-0.5   | 35        | 46     | 59.32%  |
+| 0.51-1.0   | 20        | 23     | 33.9%   |
+| 3.01-4.0   | 3         | 3      | 5.08%   |
+| 1.01-2.0   | 1         | 1      | 1.69%   |
 
 Space Total
 -----------
@@ -1274,7 +1276,7 @@ Number of failed and malfunc. drives
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
 | Detected | 34        | 57     | 48.57%  |
-| Works    | 32        | 40     | 45.71%  |
+| Works    | 32        | 41     | 45.71%  |
 | Malfunc  | 4         | 4      | 5.71%   |
 
 Storage controller
@@ -1741,46 +1743,46 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 2         | 2.47%   |
-| Sharp LCD Monitor SHP13F8 3200x1800 346x194mm 15.6-inch               | 2         | 2.47%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch      | 2         | 2.47%   |
-| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 2         | 2.47%   |
-| AOC 2250W AOC2250 1920x1080 477x268mm 21.5-inch                       | 2         | 2.47%   |
-| Videoseven L27ADS IGM2700 1920x1080 598x336mm 27.0-inch               | 1         | 1.23%   |
-| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 1.23%   |
-| Sharp LCD Monitor SHP1476 3840x2160 346x194mm 15.6-inch               | 1         | 1.23%   |
-| Samsung Electronics S27D390 SAM0B67 1920x1080 598x336mm 27.0-inch     | 1         | 1.23%   |
-| Samsung Electronics LCD Monitor SEC444E 1600x900 310x174mm 14.0-inch  | 1         | 1.23%   |
-| Samsung Electronics LCD Monitor SDC5844 1920x1080 344x194mm 15.5-inch | 1         | 1.23%   |
-| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch  | 1         | 1.23%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 1.23%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 1.23%   |
-| Samsung Electronics LCD Monitor SDC4141 1366x768 344x194mm 15.5-inch  | 1         | 1.23%   |
-| Samsung Electronics C27R50x SAM0F9D 1920x1080 598x336mm 27.0-inch     | 1         | 1.23%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 1.23%   |
-| Philips PHL 346B1C PHL095C 3440x1440 797x334mm 34.0-inch              | 1         | 1.23%   |
-| PANDA LCD Monitor NCP002D 1920x1080 344x194mm 15.5-inch               | 1         | 1.23%   |
-| Medion 42FPDEUDA1 MED222E 1920x1080                                   | 1         | 1.23%   |
-| LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch         | 1         | 1.23%   |
-| LG Display LCD Monitor LGD064C 1920x1080 344x194mm 15.5-inch          | 1         | 1.23%   |
-| LG Display LCD Monitor LGD05EE 2560x1440 309x174mm 14.0-inch          | 1         | 1.23%   |
-| LG Display LCD Monitor LGD05CE 1920x1080 344x194mm 15.5-inch          | 1         | 1.23%   |
-| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 1.23%   |
-| LG Display LCD Monitor LGD046D 1920x1080 309x174mm 14.0-inch          | 1         | 1.23%   |
-| LG Display LCD Monitor LGD046B 1366x768 344x194mm 15.5-inch           | 1         | 1.23%   |
-| LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch          | 1         | 1.23%   |
-| LG Display LCD Monitor LGD03B8 1366x768 310x174mm 14.0-inch           | 1         | 1.23%   |
-| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch           | 1         | 1.23%   |
-| LG Display LCD Monitor LGD038C 1366x768 256x144mm 11.6-inch           | 1         | 1.23%   |
-| LG Display LCD Monitor LGD02EF 1366x768 310x174mm 14.0-inch           | 1         | 1.23%   |
-| LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch           | 1         | 1.23%   |
-| LG Display LCD Monitor LGD0258 1600x900 345x194mm 15.6-inch           | 1         | 1.23%   |
-| Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch              | 1         | 1.23%   |
-| Iiyama PL2492HN IVM6156 1920x1080 527x296mm 23.8-inch                 | 1         | 1.23%   |
-| Iiyama PL2209HD IVM560B 1920x1080 478x269mm 21.6-inch                 | 1         | 1.23%   |
-| Hewlett-Packard v220 HWP26FE 1680x1050 473x296mm 22.0-inch            | 1         | 1.23%   |
-| Hewlett-Packard P244 HPN3620 1920x1080 527x297mm 23.8-inch            | 1         | 1.23%   |
-| Hewlett-Packard f1723 HWP2609 1280x1024 338x270mm 17.0-inch           | 1         | 1.23%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 2         | 2.44%   |
+| Sharp LCD Monitor SHP13F8 3200x1800 346x194mm 15.6-inch               | 2         | 2.44%   |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch      | 2         | 2.44%   |
+| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 2         | 2.44%   |
+| AOC 2250W AOC2250 1920x1080 477x268mm 21.5-inch                       | 2         | 2.44%   |
+| Videoseven L27ADS IGM2700 1920x1080 598x336mm 27.0-inch               | 1         | 1.22%   |
+| Sony NvidiaDefault SNY05FA 1366x768 290x170mm 13.2-inch               | 1         | 1.22%   |
+| Sharp LCD Monitor SHP1476 3840x2160 346x194mm 15.6-inch               | 1         | 1.22%   |
+| Samsung Electronics S27D390 SAM0B67 1920x1080 598x336mm 27.0-inch     | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SEC444E 1600x900 310x174mm 14.0-inch  | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SDC5844 1920x1080 344x194mm 15.5-inch | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch  | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 239x134mm 10.8-inch | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SDC4141 3840x2160 344x194mm 15.5-inch | 1         | 1.22%   |
+| Samsung Electronics C27R50x SAM0F9D 1920x1080 600x340mm 27.2-inch     | 1         | 1.22%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 1.22%   |
+| Philips PHL 346B1C PHL095C 3440x1440 797x334mm 34.0-inch              | 1         | 1.22%   |
+| PANDA LCD Monitor NCP002D 1920x1080 344x194mm 15.5-inch               | 1         | 1.22%   |
+| Medion 42FPDEUDA1 MED222E 1920x1080                                   | 1         | 1.22%   |
+| LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch         | 1         | 1.22%   |
+| LG Display LCD Monitor LGD064C 1920x1080 344x194mm 15.5-inch          | 1         | 1.22%   |
+| LG Display LCD Monitor LGD05EE 2560x1440 309x174mm 14.0-inch          | 1         | 1.22%   |
+| LG Display LCD Monitor LGD05CE 1920x1080 344x194mm 15.5-inch          | 1         | 1.22%   |
+| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 1.22%   |
+| LG Display LCD Monitor LGD046D 1920x1080 309x174mm 14.0-inch          | 1         | 1.22%   |
+| LG Display LCD Monitor LGD046B 1366x768 344x194mm 15.5-inch           | 1         | 1.22%   |
+| LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch          | 1         | 1.22%   |
+| LG Display LCD Monitor LGD03B8 1366x768 310x174mm 14.0-inch           | 1         | 1.22%   |
+| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch           | 1         | 1.22%   |
+| LG Display LCD Monitor LGD038C 1366x768 256x144mm 11.6-inch           | 1         | 1.22%   |
+| LG Display LCD Monitor LGD02EF 1366x768 310x174mm 14.0-inch           | 1         | 1.22%   |
+| LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch           | 1         | 1.22%   |
+| LG Display LCD Monitor LGD0258 1600x900 345x194mm 15.6-inch           | 1         | 1.22%   |
+| Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch              | 1         | 1.22%   |
+| Iiyama PL2492HN IVM6156 1920x1080 527x296mm 23.8-inch                 | 1         | 1.22%   |
+| Iiyama PL2492H IVM612F 1920x1080 527x296mm 23.8-inch                  | 1         | 1.22%   |
+| Iiyama PL2209HD IVM560B 1920x1080 478x269mm 21.6-inch                 | 1         | 1.22%   |
+| Hewlett-Packard v220 HWP26FE 1680x1050 473x296mm 22.0-inch            | 1         | 1.22%   |
+| Hewlett-Packard P244 HPN3620 1920x1080 527x297mm 23.8-inch            | 1         | 1.22%   |
 
 Monitor Resolution
 ------------------
@@ -1819,21 +1821,22 @@ Diagonal size in inches
 
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
-| 15      | 28        | 35%     |
-| 14      | 11        | 13.75%  |
-| 17      | 10        | 12.5%   |
-| 13      | 10        | 12.5%   |
-| 27      | 5         | 6.25%   |
-| 21      | 4         | 5%      |
-| 16      | 3         | 3.75%   |
-| 23      | 2         | 2.5%    |
-| 59      | 1         | 1.25%   |
-| 34      | 1         | 1.25%   |
-| 33      | 1         | 1.25%   |
-| 22      | 1         | 1.25%   |
-| 18      | 1         | 1.25%   |
-| 11      | 1         | 1.25%   |
-| Unknown | 1         | 1.25%   |
+| 15      | 28        | 34.57%  |
+| 14      | 11        | 13.58%  |
+| 17      | 10        | 12.35%  |
+| 13      | 10        | 12.35%  |
+| 27      | 5         | 6.17%   |
+| 21      | 4         | 4.94%   |
+| 16      | 3         | 3.7%    |
+| 23      | 2         | 2.47%   |
+| 59      | 1         | 1.23%   |
+| 34      | 1         | 1.23%   |
+| 33      | 1         | 1.23%   |
+| 24      | 1         | 1.23%   |
+| 22      | 1         | 1.23%   |
+| 18      | 1         | 1.23%   |
+| 11      | 1         | 1.23%   |
+| Unknown | 1         | 1.23%   |
 
 Monitor Width
 -------------
@@ -1881,12 +1884,11 @@ Area in inch²
 |----------------|-----------|---------|
 | 101-110        | 28        | 35%     |
 | 81-90          | 16        | 20%     |
+| 201-250        | 7         | 8.75%   |
 | 121-130        | 7         | 8.75%   |
 | 71-80          | 5         | 6.25%   |
 | 301-350        | 5         | 6.25%   |
-| 201-250        | 5         | 6.25%   |
 | 351-500        | 2         | 2.5%    |
-| 151-200        | 2         | 2.5%    |
 | 141-150        | 2         | 2.5%    |
 | 131-140        | 2         | 2.5%    |
 | 111-120        | 2         | 2.5%    |
@@ -2263,15 +2265,16 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart/snd_vendor.svg)
 
 
-| Vendor   | Notebooks | Percent |
-|----------|-----------|---------|
-| Intel    | 59        | 72.84%  |
-| AMD      | 11        | 13.58%  |
-| Nvidia   | 7         | 8.64%   |
-| Logitech | 1         | 1.23%   |
-| Lenovo   | 1         | 1.23%   |
-| Bose     | 1         | 1.23%   |
-| Apple    | 1         | 1.23%   |
+| Vendor          | Notebooks | Percent |
+|-----------------|-----------|---------|
+| Intel           | 59        | 71.95%  |
+| AMD             | 11        | 13.41%  |
+| Nvidia          | 7         | 8.54%   |
+| Logitech        | 1         | 1.22%   |
+| Lenovo          | 1         | 1.22%   |
+| Hewlett-Packard | 1         | 1.22%   |
+| Bose            | 1         | 1.22%   |
+| Apple           | 1         | 1.22%   |
 
 Sound Model
 -----------
@@ -2281,48 +2284,48 @@ Sound card models
 ![Sound Model](./images/pie_chart/snd_model.svg)
 
 
-| Model                                                                             | Notebooks | Percent |
-|-----------------------------------------------------------------------------------|-----------|---------|
-| Intel Sunrise Point-LP HD Audio                                                   | 9         | 8.65%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                  | 8         | 7.69%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 8         | 7.69%   |
-| AMD Family 17h/19h HD Audio Controller                                            | 8         | 7.69%   |
-| AMD Renoir Radeon High Definition Audio Controller                                | 7         | 6.73%   |
-| Intel Cannon Point-LP High Definition Audio Controller                            | 6         | 5.77%   |
-| Intel Cannon Lake PCH cAVS                                                        | 5         | 4.81%   |
-| Intel Haswell-ULT HD Audio Controller                                             | 4         | 3.85%   |
-| Intel 8 Series HD Audio Controller                                                | 4         | 3.85%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 4         | 3.85%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller        | 4         | 3.85%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                          | 4         | 3.85%   |
-| Nvidia GF108 High Definition Audio Controller                                     | 2         | 1.92%   |
-| Intel Wildcat Point-LP High Definition Audio Controller                           | 2         | 1.92%   |
-| Intel Celeron/Pentium Silver Processor High Definition Audio                      | 2         | 1.92%   |
-| Intel Broadwell-U Audio Controller                                                | 2         | 1.92%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                    | 2         | 1.92%   |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller                    | 1         | 0.96%   |
-| Nvidia High Definition Audio Controller                                           | 1         | 0.96%   |
-| Nvidia GK104 HDMI Audio Controller                                                | 1         | 0.96%   |
-| Nvidia GA106 High Definition Audio Controller                                     | 1         | 0.96%   |
-| Nvidia Audio device                                                               | 1         | 0.96%   |
-| Logitech Headset H390                                                             | 1         | 0.96%   |
-| Lenovo ThinkPad Dock USB Audio                                                    | 1         | 0.96%   |
-| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller                   | 1         | 0.96%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                       | 1         | 0.96%   |
-| Intel Tiger Lake-H HD Audio Controller                                            | 1         | 0.96%   |
-| Intel Comet Lake PCH-LP cAVS                                                      | 1         | 0.96%   |
-| Intel Comet Lake PCH cAVS                                                         | 1         | 0.96%   |
-| Intel CM238 HD Audio Controller                                                   | 1         | 0.96%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                 | 1         | 0.96%   |
-| Intel Alder Lake-S HD Audio Controller                                            | 1         | 0.96%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 1         | 0.96%   |
-| Bose Revolve SoundLink                                                            | 1         | 0.96%   |
-| Apple Audio Device                                                                | 1         | 0.96%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                               | 1         | 0.96%   |
-| AMD High Definition Audio Controller                                              | 1         | 0.96%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                                  | 1         | 0.96%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                            | 1         | 0.96%   |
-| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1         | 0.96%   |
+| Model                                                                      | Notebooks | Percent |
+|----------------------------------------------------------------------------|-----------|---------|
+| Intel Sunrise Point-LP HD Audio                                            | 9         | 8.57%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 8         | 7.62%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 8         | 7.62%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 8         | 7.62%   |
+| AMD Renoir Radeon High Definition Audio Controller                         | 7         | 6.67%   |
+| Intel Cannon Point-LP High Definition Audio Controller                     | 6         | 5.71%   |
+| Intel Cannon Lake PCH cAVS                                                 | 5         | 4.76%   |
+| Intel Haswell-ULT HD Audio Controller                                      | 4         | 3.81%   |
+| Intel 8 Series HD Audio Controller                                         | 4         | 3.81%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 4         | 3.81%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 4         | 3.81%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 4         | 3.81%   |
+| Nvidia GF108 High Definition Audio Controller                              | 2         | 1.9%    |
+| Intel Wildcat Point-LP High Definition Audio Controller                    | 2         | 1.9%    |
+| Intel Celeron/Pentium Silver Processor High Definition Audio               | 2         | 1.9%    |
+| Intel Broadwell-U Audio Controller                                         | 2         | 1.9%    |
+| Intel 82801I (ICH9 Family) HD Audio Controller                             | 2         | 1.9%    |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 0.95%   |
+| Nvidia High Definition Audio Controller                                    | 1         | 0.95%   |
+| Nvidia GK104 HDMI Audio Controller                                         | 1         | 0.95%   |
+| Nvidia GA106 High Definition Audio Controller                              | 1         | 0.95%   |
+| Nvidia Audio device                                                        | 1         | 0.95%   |
+| Logitech Headset H390                                                      | 1         | 0.95%   |
+| Lenovo ThinkPad Dock USB Audio                                             | 1         | 0.95%   |
+| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller            | 1         | 0.95%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 1         | 0.95%   |
+| Intel Tiger Lake-H HD Audio Controller                                     | 1         | 0.95%   |
+| Intel Comet Lake PCH-LP cAVS                                               | 1         | 0.95%   |
+| Intel Comet Lake PCH cAVS                                                  | 1         | 0.95%   |
+| Intel CM238 HD Audio Controller                                            | 1         | 0.95%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1         | 0.95%   |
+| Intel Alder Lake-S HD Audio Controller                                     | 1         | 0.95%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1         | 0.95%   |
+| Hewlett-Packard USB Audio                                                  | 1         | 0.95%   |
+| Bose Revolve SoundLink                                                     | 1         | 0.95%   |
+| Apple Audio Device                                                         | 1         | 0.95%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 0.95%   |
+| AMD High Definition Audio Controller                                       | 1         | 0.95%   |
+| AMD Family 15h (Models 60h-6fh) Audio Controller                           | 1         | 0.95%   |
+| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1         | 0.95%   |
 
 Memory
 ------
@@ -2356,46 +2359,46 @@ Memory module models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 3         | 6.25%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s       | 2         | 4.17%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s          | 2         | 4.17%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s          | 2         | 4.17%   |
-| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s         | 2         | 4.17%   |
-| Unknown RAM Module 4GB SODIMM DDR3                             | 1         | 2.08%   |
-| Unknown RAM Module 2GB SODIMM DDR2                             | 1         | 2.08%   |
-| Unknown RAM Module 2048MB SODIMM DDR2                          | 1         | 2.08%   |
-| Unknown RAM Module 1024MB SODIMM DDR2                          | 1         | 2.08%   |
-| Timetec RAM SD3-1333 8GB SODIMM DDR3 1333MT/s                  | 1         | 2.08%   |
-| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s        | 1         | 2.08%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 2.08%   |
-| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 2.08%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s         | 1         | 2.08%   |
-| SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s        | 1         | 2.08%   |
-| SK hynix RAM HMA82GS6DJR8N-VK 16GB SODIMM DDR4 2667MT/s        | 1         | 2.08%   |
-| SK hynix RAM HMA81GS6MFR8N-UH 8GB SODIMM DDR4 2400MT/s         | 1         | 2.08%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s         | 1         | 2.08%   |
-| Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                    | 1         | 2.08%   |
-| Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                    | 1         | 2.08%   |
-| Samsung RAM Module 4GB SODIMM DDR3 1067MT/s                    | 1         | 2.08%   |
-| Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s                | 1         | 2.08%   |
-| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s          | 1         | 2.08%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 2.08%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 2.08%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s          | 1         | 2.08%   |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s         | 1         | 2.08%   |
-| Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s         | 1         | 2.08%   |
-| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 2.08%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 2.08%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s          | 1         | 2.08%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 2.08%   |
-| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 2.08%   |
-| Samsung RAM M471A1G44AB0-CTD 8GB Row Of Chips DDR4 2667MT/s    | 1         | 2.08%   |
-| Micron RAM MT52L512M32D2PF-09 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.08%   |
-| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s  | 1         | 2.08%   |
-| Micron RAM Module 8192MB SODIMM DDR4 2667MT/s                  | 1         | 2.08%   |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s           | 1         | 2.08%   |
-| Micron RAM 4ATF51264HZ-2G3B2 4GB SODIMM DDR4 2400MT/s          | 1         | 2.08%   |
-| Kingston RAM 9905624-033.A00G 8GB SODIMM DDR4 2400MT/s         | 1         | 2.08%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 3         | 6.12%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 4.08%   |
+| Samsung RAM M471B1G73QH0-YK0 8192MB SODIMM DDR3 1600MT/s       | 2         | 4.08%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s          | 2         | 4.08%   |
+| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s         | 2         | 4.08%   |
+| Unknown RAM Module 4GB SODIMM DDR3                             | 1         | 2.04%   |
+| Unknown RAM Module 2GB SODIMM DDR2                             | 1         | 2.04%   |
+| Unknown RAM Module 2048MB SODIMM DDR2                          | 1         | 2.04%   |
+| Unknown RAM Module 1024MB SODIMM DDR2                          | 1         | 2.04%   |
+| Timetec RAM SD3-1333 8192MB SODIMM DDR3 1333MT/s               | 1         | 2.04%   |
+| SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s        | 1         | 2.04%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 2.04%   |
+| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 2.04%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s         | 1         | 2.04%   |
+| SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s        | 1         | 2.04%   |
+| SK hynix RAM HMA82GS6DJR8N-VK 16GB SODIMM DDR4 2667MT/s        | 1         | 2.04%   |
+| SK hynix RAM HMA81GS6MFR8N-UH 8GB SODIMM DDR4 2400MT/s         | 1         | 2.04%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s         | 1         | 2.04%   |
+| Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                    | 1         | 2.04%   |
+| Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                    | 1         | 2.04%   |
+| Samsung RAM Module 4GB SODIMM DDR3 1067MT/s                    | 1         | 2.04%   |
+| Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                   | 1         | 2.04%   |
+| Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s                | 1         | 2.04%   |
+| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s          | 1         | 2.04%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 2.04%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 2.04%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s          | 1         | 2.04%   |
+| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s         | 1         | 2.04%   |
+| Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s         | 1         | 2.04%   |
+| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 2.04%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 2.04%   |
+| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s       | 1         | 2.04%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 2.04%   |
+| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 2.04%   |
+| Samsung RAM M471A1G44AB0-CTD 8GB Row Of Chips DDR4 2667MT/s    | 1         | 2.04%   |
+| Micron RAM MT52L512M32D2PF-09 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.04%   |
+| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s  | 1         | 2.04%   |
+| Micron RAM Module 8192MB SODIMM DDR4 2667MT/s                  | 1         | 2.04%   |
+| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s           | 1         | 2.04%   |
+| Micron RAM 4ATF51264HZ-2G3B2 4GB SODIMM DDR4 2400MT/s          | 1         | 2.04%   |
 
 Memory Kind
 -----------
@@ -2525,8 +2528,8 @@ Camera device vendors
 | Quanta                                 | 2         | 3.39%   |
 | Alcor Micro                            | 2         | 3.39%   |
 | Acer                                   | 2         | 3.39%   |
-| Luxvisions Innotech Limited            | 1         | 1.69%   |
 | Logitech                               | 1         | 1.69%   |
+| DJJHFA1BIF5595                         | 1         | 1.69%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.69%   |
 | Apple                                  | 1         | 1.69%   |
 | ALi                                    | 1         | 1.69%   |
@@ -2543,7 +2546,7 @@ Camera device models
 |-----------------------------------------------------|-----------|---------|
 | Microdia Integrated_Webcam_HD                       | 4         | 6.78%   |
 | IMC Networks USB2.0 HD UVC WebCam                   | 4         | 6.78%   |
-| Samsung Galaxy series, misc. (MTP mode)             | 3         | 5.08%   |
+| Samsung Galaxy A5 (MTP)                             | 3         | 5.08%   |
 | IMC Networks Integrated Camera                      | 3         | 5.08%   |
 | Chicony Integrated Camera                           | 3         | 5.08%   |
 | Realtek Integrated_Webcam_HD                        | 2         | 3.39%   |
@@ -2562,9 +2565,9 @@ Camera device models
 | Quanta HD User Facing                               | 1         | 1.69%   |
 | Microdia Webcam                                     | 1         | 1.69%   |
 | Microdia Integrated_Webcam_FHD                      | 1         | 1.69%   |
-| Luxvisions Innotech Limited HP HD Camera            | 1         | 1.69%   |
 | Logitech HD Pro Webcam C920                         | 1         | 1.69%   |
 | IMC Networks ov9734_azurewave_camera                | 1         | 1.69%   |
+| DJJHFA1BIF5595 HP HD Camera                         | 1         | 1.69%   |
 | Chicony USB2.0 VGA UVC WebCam                       | 1         | 1.69%   |
 | Chicony USB2.0 HD UVC WebCam                        | 1         | 1.69%   |
 | Chicony USB 2.0 Camera                              | 1         | 1.69%   |
@@ -2670,8 +2673,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 34        | 48.57%  |
-| 1     | 22        | 31.43%  |
+| 0     | 35        | 50%     |
+| 1     | 21        | 30%     |
 | 2     | 12        | 17.14%  |
 | 3     | 2         | 2.86%   |
 
@@ -2685,15 +2688,15 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 19        | 38%     |
-| Graphics card            | 11        | 22%     |
-| Chipcard                 | 5         | 10%     |
-| Multimedia controller    | 3         | 6%      |
-| Card reader              | 3         | 6%      |
-| Network                  | 2         | 4%      |
-| Net/wireless             | 2         | 4%      |
-| Communication controller | 2         | 4%      |
-| Sound                    | 1         | 2%      |
-| Camera                   | 1         | 2%      |
-| Bluetooth                | 1         | 2%      |
+| Fingerprint reader       | 19        | 38.78%  |
+| Graphics card            | 10        | 20.41%  |
+| Chipcard                 | 5         | 10.2%   |
+| Multimedia controller    | 3         | 6.12%   |
+| Card reader              | 3         | 6.12%   |
+| Network                  | 2         | 4.08%   |
+| Net/wireless             | 2         | 4.08%   |
+| Communication controller | 2         | 4.08%   |
+| Sound                    | 1         | 2.04%   |
+| Camera                   | 1         | 2.04%   |
+| Bluetooth                | 1         | 2.04%   |
 

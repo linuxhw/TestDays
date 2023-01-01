@@ -974,7 +974,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB            | 1        | 0.95%   |
 | WDC WD10EARS-00Y5B1 1TB             | 1        | 0.95%   |
 | Vaseky V800/256G 256GB SSD          | 1        | 0.95%   |
-| Unknown SD/MMC/MS PRO 8GB           | 1        | 0.95%   |
+| Unknown SD/MMC/MS PRO 64GB          | 1        | 0.95%   |
 | Toshiba MQ01ABF050 500GB            | 1        | 0.95%   |
 | Toshiba MQ01ABD075 752GB            | 1        | 0.95%   |
 | Toshiba DT01ACA200 2TB              | 1        | 0.95%   |
@@ -1074,9 +1074,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 70     | 55.07%  |
-| 0.51-1.0   | 26       | 34     | 37.68%  |
-| 1.01-2.0   | 5        | 7      | 7.25%   |
+| 0.01-0.5   | 38       | 71     | 55.07%  |
+| 0.51-1.0   | 25       | 32     | 36.23%  |
+| 1.01-2.0   | 6        | 8      | 8.7%    |
 
 Space Total
 -----------
@@ -1683,7 +1683,7 @@ Monitor models
 | ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch              | 1        | 1.67%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch              | 1        | 1.67%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 1.67%   |
-| Toshiba TV TSB0108 1360x768 580x320mm 26.1-inch                         | 1        | 1.67%   |
+| Toshiba TV TSB0108 1440x900 700x390mm 31.5-inch                         | 1        | 1.67%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                        | 1        | 1.67%   |
 | SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                         | 1        | 1.67%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch    | 1        | 1.67%   |
@@ -1712,8 +1712,8 @@ Monitor models
 | Hisense LCD Monitor HDMI 1360x768                                       | 1        | 1.67%   |
 | Hewlett-Packard VH240a HPN3499 1920x1080 530x300mm 24.0-inch            | 1        | 1.67%   |
 | Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch        | 1        | 1.67%   |
-| Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch              | 1        | 1.67%   |
-| Hewlett-Packard 2311x HWP293A 1920x1080 510x287mm 23.0-inch             | 1        | 1.67%   |
+| Hewlett-Packard 2511 HWP293E 1920x1080 550x310mm 24.9-inch              | 1        | 1.67%   |
+| Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch              | 1        | 1.67%   |
 | Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch              | 1        | 1.67%   |
 | Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                   | 1        | 1.67%   |
 | Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                   | 1        | 1.67%   |
@@ -1910,21 +1910,21 @@ Controller models
 | Unknown Network controller                                        | 1        | 1.3%    |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 1.3%    |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 1.3%    |
-| TP-Link 802.11ac WLAN Adapter                                     | 1        | 1.3%    |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.3%    |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.3%    |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 1.3%    |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 1.3%    |
 | Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)         | 1        | 1.3%    |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1        | 1.3%    |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 1.3%    |
-| Realtek 802.11n                                                   | 1        | 1.3%    |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.3%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.3%    |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 1.3%    |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.3%    |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.3%    |
 | NetGear A6210                                                     | 1        | 1.3%    |
-| MediaTek N152DL                                                   | 1        | 1.3%    |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 1.3%    |
+| MediaTek Infinix NOTE 11                                          | 1        | 1.3%    |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.3%    |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.3%    |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.3%    |
@@ -1967,24 +1967,24 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]               | 1        | 6.25%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                       | 1        | 6.25%   |
-| TP-Link 802.11ac WLAN Adapter                             | 1        | 6.25%   |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter   | 1        | 6.25%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter           | 1        | 6.25%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                    | 1        | 6.25%   |
-| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch) | 1        | 6.25%   |
-| Realtek RTL8188EE Wireless Network Adapter                | 1        | 6.25%   |
-| Realtek 802.11n                                           | 1        | 6.25%   |
-| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter    | 1        | 6.25%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter          | 1        | 6.25%   |
-| NetGear A6210                                             | 1        | 6.25%   |
-| MediaTek MT7630e 802.11bgn Wireless Network Adapter       | 1        | 6.25%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]          | 1        | 6.25%   |
-| Intel Comet Lake PCH CNVi WiFi                            | 1        | 6.25%   |
-| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]      | 1        | 6.25%   |
+| Model                                                      | Desktops | Percent |
+|------------------------------------------------------------|----------|---------|
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 6.25%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 1        | 6.25%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 6.25%   |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 6.25%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter            | 1        | 6.25%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                     | 1        | 6.25%   |
+| Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)  | 1        | 6.25%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 1        | 6.25%   |
+| Realtek RTL8188EE Wireless Network Adapter                 | 1        | 6.25%   |
+| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter     | 1        | 6.25%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter           | 1        | 6.25%   |
+| NetGear A6210                                              | 1        | 6.25%   |
+| MediaTek MT7630e 802.11bgn Wireless Network Adapter        | 1        | 6.25%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]           | 1        | 6.25%   |
+| Intel Comet Lake PCH CNVi WiFi                             | 1        | 6.25%   |
+| IMC Networks Mediao 802.11n WLAN [Realtek RTL8191SU]       | 1        | 6.25%   |
 
 Ethernet Vendor
 ---------------
@@ -2028,7 +2028,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.69%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.69%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.69%   |
-| MediaTek N152DL                                                   | 1        | 1.69%   |
+| MediaTek Infinix NOTE 11                                          | 1        | 1.69%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.69%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.69%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.69%   |
@@ -2257,7 +2257,7 @@ Memory module models
 | Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s         | 1        | 3.57%   |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s             | 1        | 3.57%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 1        | 3.57%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 3.57%   |
+| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s       | 1        | 3.57%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s        | 1        | 3.57%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 3.57%   |
 | Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s     | 1        | 3.57%   |
@@ -2401,9 +2401,9 @@ Camera device vendors
 |------------------------|----------|---------|
 | Logitech               | 5        | 55.56%  |
 | Microdia               | 1        | 11.11%  |
+| HD 2MP WEBCAM          | 1        | 11.11%  |
 | Generalplus Technology | 1        | 11.11%  |
 | Arkmicro Technologies  | 1        | 11.11%  |
-| 2M UVC CAMERA          | 1        | 11.11%  |
 
 Camera Model
 ------------
@@ -2413,15 +2413,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Logitech Webcam C270                | 3        | 33.33%  |
-| Microdia Integrated_Webcam_HD       | 1        | 11.11%  |
-| Logitech Webcam C200                | 1        | 11.11%  |
-| Logitech HD Pro Webcam C920         | 1        | 11.11%  |
-| Generalplus GENERAL WEBCAM          | 1        | 11.11%  |
-| Arkmicro USB2.0 PC CAMERA           | 1        | 11.11%  |
-| 2M UVC CAMERA NexiGo N60 FHD Webcam | 1        | 11.11%  |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Logitech Webcam C270          | 3        | 33.33%  |
+| Microdia Integrated_Webcam_HD | 1        | 11.11%  |
+| Logitech Webcam C200          | 1        | 11.11%  |
+| Logitech HD Pro Webcam C920   | 1        | 11.11%  |
+| HD 2MP WEBCAM HD 2MP WEBCAM   | 1        | 11.11%  |
+| Generalplus GENERAL WEBCAM    | 1        | 11.11%  |
+| Arkmicro USB2.0 PC CAMERA     | 1        | 11.11%  |
 
 Security
 --------

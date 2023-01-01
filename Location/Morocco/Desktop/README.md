@@ -950,7 +950,7 @@ Hard drive models
 | WDC WD800JD-00LSA0 80GB          | 2        | 2.41%   |
 | WDC WD5000AAKX-60U6AA0 500GB     | 2        | 2.41%   |
 | Intel SSDSC2BF180A4H 180GB       | 2        | 2.41%   |
-| Hitachi HDS721680PLA380 82GB     | 2        | 2.41%   |
+| Hitachi HDS721680PLA380 80GB     | 2        | 2.41%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD | 1        | 1.2%    |
 | WDC WD800JD-75MSA3 80GB          | 1        | 1.2%    |
 | WDC WD5000BEKT-75KA9T0 500GB     | 1        | 1.2%    |
@@ -1125,7 +1125,7 @@ Drive models with a malfunction
 | Model                             | Desktops | Drives | Percent |
 |-----------------------------------|----------|--------|---------|
 | Seagate ST500DM002-1BD142 500GB   | 3        | 3      | 25%     |
-| Hitachi HDS721680PLA380 82GB      | 2        | 2      | 16.67%  |
+| Hitachi HDS721680PLA380 80GB      | 2        | 2      | 16.67%  |
 | WDC WD2500AAJS-60Z0A0 250GB       | 1        | 1      | 8.33%   |
 | Seagate ST500LM021-1KJ152 500GB   | 1        | 1      | 8.33%   |
 | Seagate ST340016A 40GB            | 1        | 1      | 8.33%   |
@@ -1674,7 +1674,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch   | 1        | 2.08%   |
 | Samsung Electronics SyncMaster SAM0161 1280x1024 340x270mm 17.1-inch   | 1        | 2.08%   |
 | Samsung Electronics SMBX2440 SAM068A 1920x1080 531x299mm 24.0-inch     | 1        | 2.08%   |
-| Samsung Electronics S24C350 SAM0A3A 1920x1080 531x299mm 24.0-inch      | 1        | 2.08%   |
+| Samsung Electronics S24C350 SAM0A3A 1920x1080 530x300mm 24.0-inch      | 1        | 2.08%   |
 | Samsung Electronics S23B550 SAM0919 1920x1080 510x290mm 23.1-inch      | 1        | 2.08%   |
 | Samsung Electronics S22F350 SAM0D1B 1920x1080 477x268mm 21.5-inch      | 1        | 2.08%   |
 | Samsung Electronics LCD Monitor SAM0F39 1920x1080 1210x680mm 54.6-inch | 1        | 2.08%   |
@@ -1685,7 +1685,7 @@ Monitor models
 | MiTAC Mystery TV MTC9527 1920x1080 1150x650mm 52.0-inch                | 1        | 2.08%   |
 | Medion MD 20172 MED3628 1680x1050 474x296mm 22.0-inch                  | 1        | 2.08%   |
 | Lenovo T24i-10 LEN61A6 1920x1080 527x296mm 23.8-inch                   | 1        | 2.08%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                  | 1        | 2.08%   |
+| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch                  | 1        | 2.08%   |
 | Iiyama PLB2712HDS IVM6602 1920x1080 598x336mm 27.0-inch                | 1        | 2.08%   |
 | Hewlett-Packard ZR22w HWP2867 1920x1080 475x267mm 21.5-inch            | 1        | 2.08%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch            | 1        | 2.08%   |
@@ -1900,12 +1900,12 @@ Controller models
 | Realtek RTL88x2bu [AC1200 Techkey]                                             | 1        | 1.04%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter                            | 1        | 1.04%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                         | 1        | 1.04%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                          | 1        | 1.04%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                            | 1        | 1.04%   |
 | Realtek RTL8187 Wireless Adapter                                               | 1        | 1.04%   |
 | Realtek RTL8125 2.5GbE Controller                                              | 1        | 1.04%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 1        | 1.04%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1        | 1.04%   |
-| Realtek 802.11n                                                                | 1        | 1.04%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                          | 1        | 1.04%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter                         | 1        | 1.04%   |
 | Ralink RT5360 Wireless 802.11n 1T/1R                                           | 1        | 1.04%   |
@@ -1963,9 +1963,9 @@ Wireless models
 | Realtek RTL88x2bu [AC1200 Techkey]                                   | 1        | 2.78%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter                  | 1        | 2.78%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                               | 1        | 2.78%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                | 1        | 2.78%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                  | 1        | 2.78%   |
 | Realtek RTL8187 Wireless Adapter                                     | 1        | 2.78%   |
-| Realtek 802.11n                                                      | 1        | 2.78%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                | 1        | 2.78%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter               | 1        | 2.78%   |
 | Ralink RT5360 Wireless 802.11n 1T/1R                                 | 1        | 2.78%   |
@@ -2243,7 +2243,7 @@ Memory module models
 | SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
 | SK hynix RAM HMT425U6AFR6C-PB 2GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
 | SK hynix RAM HMT41GU7MFR8A-H9 8GB DIMM DDR3 1333MT/s    | 1        | 1.79%   |
-| SK hynix RAM HMT41GU6MFR8C-PB 8192MB DIMM DDR3 1600MT/s | 1        | 1.79%   |
+| SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
 | SK hynix RAM HMT41GR7BFR4A-PB 8192MB DIMM DDR3 1600MT/s | 1        | 1.79%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s | 1        | 1.79%   |
 | SK hynix RAM HMT125U6BFR8C-G7 2GB DIMM DDR3 1067MT/s    | 1        | 1.79%   |
@@ -2256,11 +2256,11 @@ Memory module models
 | Samsung RAM M393A4K40BB1-CRC 32GB RIMM DDR4 2400MT/s    | 1        | 1.79%   |
 | Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s     | 1        | 1.79%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s          | 1        | 1.79%   |
-| Samsung RAM M378B5173QH0-CK0 4096MB DIMM DDR3 1600MT/s  | 1        | 1.79%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
 | Samsung RAM M378B2873FH0-CH9 1GB DIMM DDR3 1333MT/s     | 1        | 1.79%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2048MB DIMM SDRAM         | 1        | 1.79%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 667MT/s     | 1        | 1.79%   |
 | Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s     | 1        | 1.79%   |
 | Samsung RAM M3 78T2863DZS-CE6 1024MB DIMM DDR2 667MT/s  | 1        | 1.79%   |
 | Samsung RAM M3 68L3223FTN-CB3 256MB DIMM DDR 333MT/s    | 1        | 1.79%   |
@@ -2270,7 +2270,7 @@ Memory module models
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s      | 1        | 1.79%   |
 | Micron RAM 4JTF25664AZ-1G6E1 2GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
 | Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
-| Kingston RAM KTC1G-UDIMM 1GB DIMM DDR2 1639MT/s         | 1        | 1.79%   |
+| Kingston RAM KTC1G-UDIMM 1024MB DIMM DDR 1639MT/s       | 1        | 1.79%   |
 | Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 1.79%   |
 | Kingston RAM 9905429-002.A00LF 1GB DIMM DDR2 667MT/s    | 1        | 1.79%   |
 

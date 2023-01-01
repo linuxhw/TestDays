@@ -157,10 +157,12 @@ Contents
 Test Cases
 ----------
 
-Total: 61
+Total: 63
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Dell          | Latitude E64406342Q0286/    | Notebook    | [41b2b27a91](https://linux-hardware.org/?probe=41b2b27a91) | Dec 16, 2022 |
+| Dell          | Latitude E64406342Q0286/    | Notebook    | [e8b2c9218f](https://linux-hardware.org/?probe=e8b2c9218f) | Dec 15, 2022 |
 | MSI           | 970A-G43                    | Desktop     | [cf36036d1d](https://linux-hardware.org/?probe=cf36036d1d) | Oct 18, 2022 |
 | MSI           | 970A-G43                    | Desktop     | [c9c2e07ada](https://linux-hardware.org/?probe=c9c2e07ada) | Oct 10, 2022 |
 | MSI           | 970A-G43                    | Desktop     | [0b6ff268e1](https://linux-hardware.org/?probe=0b6ff268e1) | Oct 10, 2022 |
@@ -720,8 +722,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 25        | 59.52%  |
-| No        | 17        | 40.48%  |
+| Yes       | 24        | 57.14%  |
+| No        | 18        | 42.86%  |
 
 Has Ethernet
 ------------
@@ -903,7 +905,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.43%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.43%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.43%   |
-| Unknown SD/MMC/MS PRO 8GB                    | 1         | 1.43%   |
+| Unknown SD/MMC/MS PRO 64GB                   | 1         | 1.43%   |
 | Unknown MMC Card  128GB                      | 1         | 1.43%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.43%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.43%   |
@@ -920,7 +922,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                     | 1         | 1.43%   |
 | Seagate ST250DM000-1BD141 250GB              | 1         | 1.43%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 1.43%   |
-| Seagate Expansion Desk 8TB                   | 1         | 1.43%   |
+| Seagate Expansion Desk 5TB                   | 1         | 1.43%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1         | 1.43%   |
 | SanDisk SSD PLUS 480GB                       | 1         | 1.43%   |
 | SanDisk NVMe SSD Drive 512GB                 | 1         | 1.43%   |
@@ -1020,10 +1022,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 29        | 42     | 61.7%   |
-| 0.51-1.0   | 16        | 18     | 34.04%  |
-| 1.01-2.0   | 1         | 1      | 2.13%   |
-| 4.01-10.0  | 1         | 1      | 2.13%   |
+| 0.01-0.5   | 28        | 42     | 62.22%  |
+| 0.51-1.0   | 15        | 18     | 33.33%  |
+| 1.01-2.0   | 1         | 1      | 2.22%   |
+| 4.01-10.0  | 1         | 1      | 2.22%   |
 
 Space Total
 -----------
@@ -1624,7 +1626,7 @@ Monitor models
 | Goldstar TV SSCR2 GSM8080 3840x2160                                      | 1         | 2.38%   |
 | Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch                      | 1         | 2.38%   |
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                    | 1         | 2.38%   |
-| Element WD32FBL1001 ELE6308 1920x1080 890x500mm 40.2-inch                | 1         | 2.38%   |
+| Element E2SW3918 E2SW3918 ELE6308 1366x768 1365x768mm 61.7-inch          | 1         | 2.38%   |
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                        | 1         | 2.38%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch                        | 1         | 2.38%   |
 | Dell LCD Monitor E228WFP                                                 | 1         | 2.38%   |
@@ -1635,7 +1637,7 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 2.38%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 2.38%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 2.38%   |
-| BenQ EW3270U BNQ7950 3840x2160 700x390mm 31.5-inch                       | 1         | 2.38%   |
+| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch                       | 1         | 2.38%   |
 | AUS LCD Monitor VA32AQ 2560x1440                                         | 1         | 2.38%   |
 | AU Optronics LCD Monitor AUO9274 1280x800 331x207mm 15.4-inch            | 1         | 2.38%   |
 | ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch             | 1         | 2.38%   |

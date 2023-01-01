@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 13
+Total: 14
 
 | Vendor        | Model               | Probe                                                      | Date         |
 |---------------|---------------------|------------------------------------------------------------|--------------|
+| Pine Micro... | Pine64 Pinebook Pro | [760fd1ae84](https://linux-hardware.org/?probe=760fd1ae84) | Dec 13, 2022 |
 | Pine Micro... | Pine64 Pinebook Pro | [ac4e15828b](https://linux-hardware.org/?probe=ac4e15828b) | Nov 02, 2021 |
 | Pine Micro... | Pine64 Pinebook Pro | [896bd98421](https://linux-hardware.org/?probe=896bd98421) | May 19, 2021 |
 | Pine Micro... | Pine64 Pinebook Pro | [947451c5ef](https://linux-hardware.org/?probe=947451c5ef) | Nov 14, 2020 |
@@ -186,10 +187,11 @@ Installed operating systems
 
 | Name              | Notebooks | Percent |
 |-------------------|-----------|---------|
-| Manjaro-ARM       | 7         | 70%     |
-| Manjaro-ARM 21.05 | 1         | 10%     |
-| Manjaro-ARM 20.10 | 1         | 10%     |
-| Manjaro-ARM 20.09 | 1         | 10%     |
+| Manjaro-ARM       | 7         | 63.64%  |
+| Manjaro-ARM 22.12 | 1         | 9.09%   |
+| Manjaro-ARM 21.05 | 1         | 9.09%   |
+| Manjaro-ARM 20.10 | 1         | 9.09%   |
+| Manjaro-ARM 20.09 | 1         | 9.09%   |
 
 OS Family
 ---------
@@ -201,7 +203,7 @@ OS without a version
 
 | Name        | Notebooks | Percent |
 |-------------|-----------|---------|
-| Manjaro-ARM | 10        | 100%    |
+| Manjaro-ARM | 11        | 100%    |
 
 Kernel
 ------
@@ -213,14 +215,15 @@ Version of the Linux kernel
 
 | Version              | Notebooks | Percent |
 |----------------------|-----------|---------|
-| 5.9.1-3-MANJARO-ARM  | 2         | 20%     |
-| 5.8.3-2-MANJARO-ARM  | 2         | 20%     |
-| 5.8.6-1-MANJARO-ARM  | 1         | 10%     |
-| 5.8.5-1-MANJARO-ARM  | 1         | 10%     |
-| 5.8.12-1-MANJARO-ARM | 1         | 10%     |
-| 5.7.19-1-MANJARO-ARM | 1         | 10%     |
-| 5.7.0-3-MANJARO-ARM  | 1         | 10%     |
-| 5.12.4-1-MANJARO-ARM | 1         | 10%     |
+| 5.9.1-3-MANJARO-ARM  | 2         | 18.18%  |
+| 5.8.3-2-MANJARO-ARM  | 2         | 18.18%  |
+| 6.0.12-1-MANJARO-ARM | 1         | 9.09%   |
+| 5.8.6-1-MANJARO-ARM  | 1         | 9.09%   |
+| 5.8.5-1-MANJARO-ARM  | 1         | 9.09%   |
+| 5.8.12-1-MANJARO-ARM | 1         | 9.09%   |
+| 5.7.19-1-MANJARO-ARM | 1         | 9.09%   |
+| 5.7.0-3-MANJARO-ARM  | 1         | 9.09%   |
+| 5.12.4-1-MANJARO-ARM | 1         | 9.09%   |
 
 Kernel Family
 -------------
@@ -232,14 +235,15 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.9.1   | 2         | 20%     |
-| 5.8.3   | 2         | 20%     |
-| 5.8.6   | 1         | 10%     |
-| 5.8.5   | 1         | 10%     |
-| 5.8.12  | 1         | 10%     |
-| 5.7.19  | 1         | 10%     |
-| 5.7.0   | 1         | 10%     |
-| 5.12.4  | 1         | 10%     |
+| 5.9.1   | 2         | 18.18%  |
+| 5.8.3   | 2         | 18.18%  |
+| 6.0.12  | 1         | 9.09%   |
+| 5.8.6   | 1         | 9.09%   |
+| 5.8.5   | 1         | 9.09%   |
+| 5.8.12  | 1         | 9.09%   |
+| 5.7.19  | 1         | 9.09%   |
+| 5.7.0   | 1         | 9.09%   |
+| 5.12.4  | 1         | 9.09%   |
 
 Kernel Major Ver.
 -----------------
@@ -251,10 +255,11 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.8     | 5         | 50%     |
-| 5.9     | 2         | 20%     |
-| 5.7     | 2         | 20%     |
-| 5.12    | 1         | 10%     |
+| 5.8     | 5         | 45.45%  |
+| 5.9     | 2         | 18.18%  |
+| 5.7     | 2         | 18.18%  |
+| 6.0     | 1         | 9.09%   |
+| 5.12    | 1         | 9.09%   |
 
 Arch
 ----
@@ -266,7 +271,7 @@ OS architecture (x86_64, i586, etc.)
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| aarch64 | 10        | 100%    |
+| aarch64 | 11        | 100%    |
 
 DE
 --
@@ -278,10 +283,10 @@ Desktop Environment
 
 | Name  | Notebooks | Percent |
 |-------|-----------|---------|
-| KDE   | 4         | 40%     |
-| XFCE  | 3         | 30%     |
-| GNOME | 2         | 20%     |
-| KDE5  | 1         | 10%     |
+| KDE   | 4         | 36.36%  |
+| XFCE  | 3         | 27.27%  |
+| KDE5  | 2         | 18.18%  |
+| GNOME | 2         | 18.18%  |
 
 Display Server
 --------------
@@ -293,8 +298,8 @@ X11 or Wayland
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| X11     | 9         | 90%     |
-| Wayland | 1         | 10%     |
+| X11     | 9         | 81.82%  |
+| Wayland | 2         | 18.18%  |
 
 Display Manager
 ---------------
@@ -306,10 +311,10 @@ SDDM, LightDM, etc.
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 7         | 70%     |
-| TDM     | 1         | 10%     |
-| SDDM    | 1         | 10%     |
-| GDM     | 1         | 10%     |
+| Unknown | 7         | 63.64%  |
+| SDDM    | 2         | 18.18%  |
+| TDM     | 1         | 9.09%   |
+| GDM     | 1         | 9.09%   |
 
 OS Lang
 -------
@@ -321,9 +326,9 @@ Language
 
 | Lang  | Notebooks | Percent |
 |-------|-----------|---------|
-| en_US | 8         | 80%     |
-| fr_FR | 1         | 10%     |
-| de_AT | 1         | 10%     |
+| en_US | 9         | 81.82%  |
+| fr_FR | 1         | 9.09%   |
+| de_AT | 1         | 9.09%   |
 
 Boot Mode
 ---------
@@ -335,7 +340,7 @@ EFI or BIOS
 
 | Mode | Notebooks | Percent |
 |------|-----------|---------|
-| EFI  | 10        | 100%    |
+| EFI  | 11        | 100%    |
 
 Filesystem
 ----------
@@ -347,8 +352,8 @@ Type of filesystem
 
 | Type | Notebooks | Percent |
 |------|-----------|---------|
-| Ext4 | 9         | 90%     |
-| F2fs | 1         | 10%     |
+| Ext4 | 10        | 90.91%  |
+| F2fs | 1         | 9.09%   |
 
 Part. scheme
 ------------
@@ -360,9 +365,9 @@ Scheme of partitioning
 
 | Type    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 7         | 70%     |
-| MBR     | 2         | 20%     |
-| GPT     | 1         | 10%     |
+| Unknown | 7         | 63.64%  |
+| MBR     | 2         | 18.18%  |
+| GPT     | 2         | 18.18%  |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -374,8 +379,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 9         | 90%     |
-| Yes       | 1         | 10%     |
+| No        | 10        | 90.91%  |
+| Yes       | 1         | 9.09%   |
 
 Dual Boot (Win)
 ---------------
@@ -387,7 +392,7 @@ Hosting Linux and Windows
 
 | Dual boot | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 10        | 100%    |
+| No        | 11        | 100%    |
 
 Board
 -----
@@ -402,7 +407,7 @@ Motherboard manufacturer
 
 | Name              | Notebooks | Percent |
 |-------------------|-----------|---------|
-| Pine Microsystems | 10        | 100%    |
+| Pine Microsystems | 11        | 100%    |
 
 Model
 -----
@@ -414,7 +419,7 @@ Motherboard model
 
 | Name                                  | Notebooks | Percent |
 |---------------------------------------|-----------|---------|
-| Pine Microsystems Pine64 Pinebook Pro | 10        | 100%    |
+| Pine Microsystems Pine64 Pinebook Pro | 11        | 100%    |
 
 Model Family
 ------------
@@ -426,7 +431,7 @@ Motherboard model prefix
 
 | Name                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Pine Microsystems Pine64 | 10        | 100%    |
+| Pine Microsystems Pine64 | 11        | 100%    |
 
 MFG Year
 --------
@@ -438,7 +443,7 @@ Motherboard manufacture year
 
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 10        | 100%    |
+| Unknown | 11        | 100%    |
 
 Form Factor
 -----------
@@ -450,7 +455,7 @@ Physical design of the computer
 
 | Name     | Notebooks | Percent |
 |----------|-----------|---------|
-| Notebook | 10        | 100%    |
+| Notebook | 11        | 100%    |
 
 Secure Boot
 -----------
@@ -462,7 +467,7 @@ Enabled or disabled
 
 | State    | Notebooks | Percent |
 |----------|-----------|---------|
-| Disabled | 10        | 100%    |
+| Disabled | 11        | 100%    |
 
 Coreboot
 --------
@@ -474,7 +479,7 @@ Have coreboot on board
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 10        | 100%    |
+| No   | 11        | 100%    |
 
 RAM Size
 --------
@@ -486,7 +491,7 @@ Total RAM memory
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 3.01-4.0   | 10        | 100%    |
+| 3.01-4.0   | 11        | 100%    |
 
 RAM Used
 --------
@@ -498,8 +503,8 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 6         | 60%     |
-| 2.01-3.0 | 4         | 40%     |
+| 1.01-2.0 | 7         | 63.64%  |
+| 2.01-3.0 | 4         | 36.36%  |
 
 Total Drives
 ------------
@@ -511,8 +516,8 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 6         | 60%     |
-| 2      | 4         | 40%     |
+| 1      | 7         | 63.64%  |
+| 2      | 4         | 36.36%  |
 
 Has CD-ROM
 ----------
@@ -524,7 +529,7 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 10        | 100%    |
+| No        | 11        | 100%    |
 
 Has Ethernet
 ------------
@@ -536,8 +541,8 @@ Has Ethernet on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 8         | 80%     |
-| Yes       | 2         | 20%     |
+| No        | 8         | 72.73%  |
+| Yes       | 3         | 27.27%  |
 
 Has WiFi
 --------
@@ -549,8 +554,8 @@ Has WiFi module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 9         | 90%     |
-| Yes       | 1         | 10%     |
+| No        | 10        | 90.91%  |
+| Yes       | 1         | 9.09%   |
 
 Has Bluetooth
 -------------
@@ -562,7 +567,7 @@ Has Bluetooth module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 10        | 100%    |
+| No        | 11        | 100%    |
 
 Location
 --------
@@ -577,10 +582,10 @@ Geographic location (country)
 
 | Country | Notebooks | Percent |
 |---------|-----------|---------|
-| USA     | 7         | 70%     |
-| Turkey  | 1         | 10%     |
-| France  | 1         | 10%     |
-| Cyprus  | 1         | 10%     |
+| USA     | 8         | 72.73%  |
+| Turkey  | 1         | 9.09%   |
+| France  | 1         | 9.09%   |
+| Cyprus  | 1         | 9.09%   |
 
 City
 ----
@@ -592,16 +597,17 @@ Geographic location (city)
 
 | City             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Wooster          | 1         | 10%     |
-| San Francisco    | 1         | 10%     |
-| Pinetop-Lakeside | 1         | 10%     |
-| Lusby            | 1         | 10%     |
-| Los Angeles      | 1         | 10%     |
-| Limassol         | 1         | 10%     |
-| Domont           | 1         | 10%     |
-| Denver           | 1         | 10%     |
-| Ames             | 1         | 10%     |
-| Adana            | 1         | 10%     |
+| Wooster          | 1         | 9.09%   |
+| San Francisco    | 1         | 9.09%   |
+| Pinetop-Lakeside | 1         | 9.09%   |
+| Lusby            | 1         | 9.09%   |
+| Los Angeles      | 1         | 9.09%   |
+| Limassol         | 1         | 9.09%   |
+| Flagstaff        | 1         | 9.09%   |
+| Domont           | 1         | 9.09%   |
+| Denver           | 1         | 9.09%   |
+| Ames             | 1         | 9.09%   |
+| Adana            | 1         | 9.09%   |
 
 Drives
 ------
@@ -616,10 +622,10 @@ Hard drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Unknown | 10        | 11     | 76.92%  |
-| Toshiba | 1         | 1      | 7.69%   |
-| Phison  | 1         | 1      | 7.69%   |
-| Intel   | 1         | 1      | 7.69%   |
+| Unknown | 11        | 12     | 78.57%  |
+| Toshiba | 1         | 1      | 7.14%   |
+| Phison  | 1         | 1      | 7.14%   |
+| Intel   | 1         | 1      | 7.14%   |
 
 Drive Model
 -----------
@@ -631,13 +637,13 @@ Hard drive models
 
 | Model                        | Notebooks | Percent |
 |------------------------------|-----------|---------|
-| Unknown MMC Card  64GB       | 5         | 35.71%  |
-| Unknown DA4064  64GB         | 3         | 21.43%  |
-| Unknown MMC Card  128GB      | 2         | 14.29%  |
-| Unknown MMC Card  256GB      | 1         | 7.14%   |
-| Toshiba NVMe SSD Drive 256GB | 1         | 7.14%   |
-| Phison NVMe SSD Drive 256GB  | 1         | 7.14%   |
-| Intel NVMe SSD Drive 512GB   | 1         | 7.14%   |
+| Unknown MMC Card  64GB       | 6         | 40%     |
+| Unknown DA4064  64GB         | 3         | 20%     |
+| Unknown MMC Card  128GB      | 2         | 13.33%  |
+| Unknown MMC Card  256GB      | 1         | 6.67%   |
+| Toshiba NVMe SSD Drive 256GB | 1         | 6.67%   |
+| Phison NVMe SSD Drive 256GB  | 1         | 6.67%   |
+| Intel NVMe SSD Drive 512GB   | 1         | 6.67%   |
 
 HDD Vendor
 ----------
@@ -663,8 +669,8 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| MMC  | 10        | 11     | 76.92%  |
-| NVMe | 3         | 3      | 23.08%  |
+| MMC  | 11        | 12     | 78.57%  |
+| NVMe | 3         | 3      | 21.43%  |
 
 Drive Connector
 ---------------
@@ -676,8 +682,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| MMC  | 10        | 11     | 76.92%  |
-| NVMe | 3         | 3      | 23.08%  |
+| MMC  | 11        | 12     | 78.57%  |
+| NVMe | 3         | 3      | 21.43%  |
 
 Drive Size
 ----------
@@ -696,9 +702,9 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 51-100     | 7         | 70%     |
-| 251-500    | 2         | 20%     |
-| 101-250    | 1         | 10%     |
+| 51-100     | 8         | 72.73%  |
+| 251-500    | 2         | 18.18%  |
+| 101-250    | 1         | 9.09%   |
 
 Space Used
 ----------
@@ -710,9 +716,9 @@ Amount of used disk space
 
 | Used GB | Notebooks | Percent |
 |---------|-----------|---------|
-| 21-50   | 5         | 50%     |
-| 1-20    | 3         | 30%     |
-| 51-100  | 2         | 20%     |
+| 21-50   | 5         | 45.45%  |
+| 1-20    | 4         | 36.36%  |
+| 51-100  | 2         | 18.18%  |
 
 Malfunc. Drives
 ---------------
@@ -766,8 +772,8 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 9         | 13     | 90%     |
-| Works    | 1         | 1      | 10%     |
+| Detected | 10        | 14     | 90.91%  |
+| Works    | 1         | 1      | 9.09%   |
 
 Storage controller
 ------------------
@@ -825,7 +831,7 @@ Processor vendors
 
 | Vendor | Notebooks | Percent |
 |--------|-----------|---------|
-| ARM    | 10        | 100%    |
+| ARM    | 11        | 100%    |
 
 CPU Model
 ---------
@@ -837,7 +843,7 @@ Processor models
 
 | Model         | Notebooks | Percent |
 |---------------|-----------|---------|
-| ARM Processor | 10        | 100%    |
+| ARM Processor | 11        | 100%    |
 
 CPU Model Family
 ----------------
@@ -849,7 +855,7 @@ Processor model prefix
 
 | Model | Notebooks | Percent |
 |-------|-----------|---------|
-| Other | 10        | 100%    |
+| Other | 11        | 100%    |
 
 CPU Cores
 ---------
@@ -861,8 +867,8 @@ Number of processor cores
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 6      | 9         | 90%     |
-| 2      | 1         | 10%     |
+| 6      | 9         | 81.82%  |
+| 2      | 2         | 18.18%  |
 
 CPU Sockets
 -----------
@@ -874,8 +880,8 @@ Number of sockets
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 2      | 9         | 90%     |
-| 1      | 1         | 10%     |
+| 2      | 9         | 81.82%  |
+| 1      | 2         | 18.18%  |
 
 CPU Threads
 -----------
@@ -887,7 +893,7 @@ Threads per core (Hyper-Threading)
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 10        | 100%    |
+| 1      | 11        | 100%    |
 
 CPU Op-Modes
 ------------
@@ -899,9 +905,9 @@ CPU Operation Modes (32-bit, 64-bit)
 
 | Op mode        | Notebooks | Percent |
 |----------------|-----------|---------|
-| Unknown        | 5         | 50%     |
-| 32-bit, 64-bit | 3         | 30%     |
-| 64-bit         | 2         | 20%     |
+| Unknown        | 5         | 45.45%  |
+| 32-bit, 64-bit | 4         | 36.36%  |
+| 64-bit         | 2         | 18.18%  |
 
 CPU Microcode
 -------------
@@ -913,7 +919,7 @@ Microcode number
 
 | Number  | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 10        | 100%    |
+| Unknown | 11        | 100%    |
 
 CPU Microarch
 -------------
@@ -925,7 +931,7 @@ Microarchitecture
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 10        | 100%    |
+| Unknown | 11        | 100%    |
 
 Graphics
 --------
@@ -954,7 +960,7 @@ Combinations of graphics cards
 
 | Name  | Notebooks | Percent |
 |-------|-----------|---------|
-| Other | 10        | 100%    |
+| Other | 11        | 100%    |
 
 GPU Driver
 ----------
@@ -966,7 +972,7 @@ Free vs proprietary
 
 | Driver  | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 10        | 100%    |
+| Unknown | 11        | 100%    |
 
 GPU Memory
 ----------
@@ -978,7 +984,7 @@ Total video memory
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 10        | 100%    |
+| Unknown    | 11        | 100%    |
 
 Monitor
 -------
@@ -1049,7 +1055,7 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 10        | 100%    |
+| 1     | 11        | 100%    |
 
 Network
 -------
@@ -1064,9 +1070,10 @@ Controller vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| TP-Link               | 1         | 33.33%  |
-| Realtek Semiconductor | 1         | 33.33%  |
-| Netchip Technology    | 1         | 33.33%  |
+| TP-Link               | 1         | 25%     |
+| Realtek Semiconductor | 1         | 25%     |
+| Netchip Technology    | 1         | 25%     |
+| ASIX Electronics      | 1         | 25%     |
 
 Net Controller Model
 --------------------
@@ -1078,9 +1085,10 @@ Controller models
 
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
-| TP-Link Archer T4U ver.3                 | 1         | 33.33%  |
-| Realtek RTL8153 Gigabit Ethernet Adapter | 1         | 33.33%  |
-| Netchip Linux-USB Ethernet/RNDIS Gadget  | 1         | 33.33%  |
+| TP-Link Archer T4U ver.3                 | 1         | 25%     |
+| Realtek RTL8153 Gigabit Ethernet Adapter | 1         | 25%     |
+| Netchip Linux-USB Ethernet/RNDIS Gadget  | 1         | 25%     |
+| ASIX AX88179 Gigabit Ethernet            | 1         | 25%     |
 
 Wireless Vendor
 ---------------
@@ -1116,8 +1124,9 @@ Ethernet vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Realtek Semiconductor | 1         | 50%     |
-| Netchip Technology    | 1         | 50%     |
+| Realtek Semiconductor | 1         | 33.33%  |
+| Netchip Technology    | 1         | 33.33%  |
+| ASIX Electronics      | 1         | 33.33%  |
 
 Ethernet Model
 --------------
@@ -1129,8 +1138,9 @@ Ethernet models
 
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
-| Realtek RTL8153 Gigabit Ethernet Adapter | 1         | 50%     |
-| Netchip Linux-USB Ethernet/RNDIS Gadget  | 1         | 50%     |
+| Realtek RTL8153 Gigabit Ethernet Adapter | 1         | 33.33%  |
+| Netchip Linux-USB Ethernet/RNDIS Gadget  | 1         | 33.33%  |
+| ASIX AX88179 Gigabit Ethernet            | 1         | 33.33%  |
 
 Net Controller Kind
 -------------------
@@ -1142,8 +1152,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| Ethernet | 2         | 66.67%  |
-| WiFi     | 1         | 33.33%  |
+| Ethernet | 3         | 75%     |
+| WiFi     | 1         | 25%     |
 
 Used Controller
 ---------------
@@ -1167,7 +1177,7 @@ Total network controllers on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 10        | 100%    |
+| 0     | 11        | 100%    |
 
 IPv6
 ----
@@ -1179,7 +1189,7 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 10        | 100%    |
+| No   | 11        | 100%    |
 
 Bluetooth
 ---------
@@ -1304,7 +1314,7 @@ Camera device vendors
 
 | Vendor   | Notebooks | Percent |
 |----------|-----------|---------|
-| Microdia | 7         | 100%    |
+| Microdia | 8         | 100%    |
 
 Camera Model
 ------------
@@ -1314,9 +1324,9 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Notebooks | Percent |
-|-------------------------------|-----------|---------|
-| Microdia HP Integrated Webcam | 7         | 100%    |
+| Model                   | Notebooks | Percent |
+|-------------------------|-----------|---------|
+| Microdia USB 2.0 Camera | 8         | 100%    |
 
 Security
 --------
@@ -1362,8 +1372,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 9         | 90%     |
-| 1     | 1         | 10%     |
+| 0     | 10        | 90.91%  |
+| 1     | 1         | 9.09%   |
 
 Unsupported Device Types
 ------------------------

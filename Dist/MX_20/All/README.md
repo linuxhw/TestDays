@@ -747,8 +747,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 43        | 57.33%  |
-| Yes       | 32        | 42.67%  |
+| No        | 43        | 58.11%  |
+| Yes       | 31        | 41.89%  |
 
 Has Ethernet
 ------------
@@ -1714,11 +1714,11 @@ Monitor models
 
 | Model                                                                    | Computers | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch        | 2         | 2.41%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch        | 2         | 2.41%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch | 2         | 2.41%   |
 | ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                   | 1         | 1.2%    |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch                  | 1         | 1.2%    |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch   | 1         | 1.2%    |
+| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch     | 1         | 1.2%    |
 | Sony TV SNY0801 1360x768                                                 | 1         | 1.2%    |
 | Sceptre Tech Sceptre E24 SPT099D 1920x1080 521x293mm 23.5-inch           | 1         | 1.2%    |
 | Samsung Electronics SyncMaster SAM04E6 1920x1080 477x268mm 21.5-inch     | 1         | 1.2%    |
@@ -1726,12 +1726,12 @@ Monitor models
 | Samsung Electronics SyncMaster SAM03C2 1680x1050 459x296mm 21.5-inch     | 1         | 1.2%    |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 1.2%    |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch     | 1         | 1.2%    |
-| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 1872x1053mm 84.6-inch  | 1         | 1.2%    |
+| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 950x540mm 43.0-inch    | 1         | 1.2%    |
 | Samsung Electronics C27JG5x SAM0F57 1680x1050 600x340mm 27.2-inch        | 1         | 1.2%    |
 | RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                         | 1         | 1.2%    |
 | Philips PHL BDM4350 PHL08FA 3840x2160 953x543mm 43.2-inch                | 1         | 1.2%    |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                 | 1         | 1.2%    |
-| PANDA LM116LF3L02 NCP000A 1920x1080 256x144mm 11.6-inch                  | 1         | 1.2%    |
+| PANDA LM116LF3L01 NCP000A 1920x1080 256x144mm 11.6-inch                  | 1         | 1.2%    |
 | LG Philips LCD Monitor LPL1901 1680x1050 331x207mm 15.4-inch             | 1         | 1.2%    |
 | LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch            | 1         | 1.2%    |
 | LG Display LCD Monitor LGD062E 1920x1080 344x194mm 15.5-inch             | 1         | 1.2%    |
@@ -1741,10 +1741,10 @@ Monitor models
 | LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch              | 1         | 1.2%    |
 | LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch             | 1         | 1.2%    |
 | LG Display LCD Monitor LGD03B8 1366x768 310x174mm 14.0-inch              | 1         | 1.2%    |
-| Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch                 | 1         | 1.2%    |
+| Lenovo LEN L27i-28 LEN65E0 1920x1080 600x340mm 27.2-inch                 | 1         | 1.2%    |
 | Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                   | 1         | 1.2%    |
 | Lenovo LCD Monitor LEN4043 1400x1050 305x228mm 15.0-inch                 | 1         | 1.2%    |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 1.2%    |
+| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch                  | 1         | 1.2%    |
 | InfoVision LCD Monitor IVO03FA 1366x768 223x125mm 10.1-inch              | 1         | 1.2%    |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                     | 1         | 1.2%    |
 | Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch               | 1         | 1.2%    |
@@ -2384,7 +2384,7 @@ Memory module models
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B5674EB0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s            | 1         | 1.1%    |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.1%    |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 1         | 1.1%    |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
@@ -2541,9 +2541,9 @@ Camera device vendors
 | Suyin                                  | 1         | 2.5%    |
 | Sunplus Technology                     | 1         | 2.5%    |
 | Microsoft                              | 1         | 2.5%    |
+| Luxvisions Innotech Limited            | 1         | 2.5%    |
 | Lenovo                                 | 1         | 2.5%    |
 | GEMBIRD                                | 1         | 2.5%    |
-| DJKANA19IDX53W                         | 1         | 2.5%    |
 | Apple                                  | 1         | 2.5%    |
 
 Camera Model
@@ -2557,7 +2557,6 @@ Camera device models
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                                   | 3         | 7.5%    |
-| Realtek USB Camera                                          | 2         | 5%      |
 | Quanta VGA WebCam                                           | 2         | 5%      |
 | Lite-On Integrated Camera                                   | 2         | 5%      |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 2         | 5%      |
@@ -2568,15 +2567,17 @@ Camera device models
 | Sunplus SPCA1527A/SPCA1528 SD card camera (webcam mode)     | 1         | 2.5%    |
 | Sunplus Laptop_Integrated_Webcam_HD                         | 1         | 2.5%    |
 | Sunplus Integrated_Webcam_HD                                | 1         | 2.5%    |
+| Realtek USB2.0 camera                                       | 1         | 2.5%    |
+| Realtek USB Camera                                          | 1         | 2.5%    |
 | Realtek Integrated_Webcam_HD                                | 1         | 2.5%    |
 | Realtek HD WebCam                                           | 1         | 2.5%    |
 | Quanta HP Wide Vision FHD Camera                            | 1         | 2.5%    |
 | Microsoft LifeCam HD-3000                                   | 1         | 2.5%    |
+| Luxvisions Innotech Limited HP Wide Vision HD Camera        | 1         | 2.5%    |
 | Lenovo Integrated Webcam                                    | 1         | 2.5%    |
 | IMC Networks USB2.0 VGA UVC WebCam                          | 1         | 2.5%    |
 | IMC Networks USB2.0 HD UVC WebCam                           | 1         | 2.5%    |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311]           | 1         | 2.5%    |
-| DJKANA19IDX53W HP Wide Vision HD Camera                     | 1         | 2.5%    |
 | Chicony Webcam                                              | 1         | 2.5%    |
 | Chicony USB 2.0 Camera                                      | 1         | 2.5%    |
 | Chicony Integrated Camera (1280x720@30)                     | 1         | 2.5%    |

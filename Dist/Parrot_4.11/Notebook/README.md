@@ -911,11 +911,11 @@ Hard drive models
 | Unknown SS16G  16GB                     | 1         | 1.16%   |
 | Unknown SS08G  8GB                      | 1         | 1.16%   |
 | Unknown SDU1  64GB                      | 1         | 1.16%   |
-| Unknown SD/MMC/MS PRO 8GB               | 1         | 1.16%   |
+| Unknown SD/MMC/MS PRO 64GB              | 1         | 1.16%   |
 | Unknown MMC Card  128GB                 | 1         | 1.16%   |
 | Toshiba THNSNH128G8NT 128GB SSD         | 1         | 1.16%   |
 | Toshiba THNSNF128GMCS 128GB SSD         | 1         | 1.16%   |
-| Toshiba Q300. 480GB SSD                 | 1         | 1.16%   |
+| Toshiba Q300 480GB SSD                  | 1         | 1.16%   |
 | Toshiba MQ01ABD075 752GB                | 1         | 1.16%   |
 | Toshiba MK7575GSX 752GB                 | 1         | 1.16%   |
 | Team TM8PS7512G 512GB SSD               | 1         | 1.16%   |
@@ -1438,7 +1438,7 @@ Microarchitecture
 | Haswell       | 6         | 9.52%   |
 | TigerLake     | 4         | 6.35%   |
 | Penryn        | 3         | 4.76%   |
-| IceLake       | 3         | 4.76%   |
+| Icelake       | 3         | 4.76%   |
 | CometLake     | 3         | 4.76%   |
 | Broadwell     | 3         | 4.76%   |
 | Zen 2         | 2         | 3.17%   |
@@ -1604,13 +1604,13 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch          | 2         | 2.74%   |
+| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch          | 2         | 2.74%   |
 | STA XR140EA1T STA0450 1366x768 310x174mm 14.0-inch                    | 1         | 1.37%   |
 | Sharp LCD Monitor SHP1447 1920x1080 294x165mm 13.3-inch               | 1         | 1.37%   |
 | Sceptre Tech Sceptre F24 SPT09AB 1920x1080 530x290mm 23.8-inch        | 1         | 1.37%   |
 | Sceptre Tech Sceptre B30 SPT0BC2 2560x1080 690x291mm 29.5-inch        | 1         | 1.37%   |
 | Samsung Electronics SyncMaster SAM0589 1920x1080 521x293mm 23.5-inch  | 1         | 1.37%   |
-| Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch | 1         | 1.37%   |
+| Samsung Electronics LCD Monitor SEC5448 1920x1080 353x198mm 15.9-inch | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch  | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 1.37%   |
@@ -1620,7 +1620,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC3652 1366x768 344x194mm 15.5-inch  | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SAM0F3D 1360x768 522x293mm 23.6-inch  | 1         | 1.37%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1         | 1.37%   |
-| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch           | 1         | 1.37%   |
+| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch           | 1         | 1.37%   |
 | LG Display LP156WH2-TLAA LGD0230 1366x768 344x194mm 15.5-inch         | 1         | 1.37%   |
 | LG Display LCD Monitor LGD0690 2560x1440 344x194mm 15.5-inch          | 1         | 1.37%   |
 | LG Display LCD Monitor LGD0683 1920x1080 344x194mm 15.5-inch          | 1         | 1.37%   |
@@ -1642,7 +1642,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15F4 1920x1080 344x193mm 15.5-inch      | 1         | 1.37%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch       | 1         | 1.37%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 344x193mm 15.5-inch       | 1         | 1.37%   |
-| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x194mm 15.5-inch       | 1         | 1.37%   |
+| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x193mm 15.5-inch       | 1         | 1.37%   |
 | Chimei Innolux LCD Monitor CMN15BA 1920x1080 344x194mm 15.5-inch      | 1         | 1.37%   |
 
 Monitor Resolution
@@ -1845,9 +1845,9 @@ Controller models
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 1         | 0.83%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter               | 1         | 0.83%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1         | 0.83%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1         | 0.83%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 1         | 0.83%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 0.83%   |
-| Realtek 802.11n                                                   | 1         | 0.83%   |
 | Ralink RT2870/RT3070 Wireless Adapter                             | 1         | 0.83%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 0.83%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 0.83%   |
@@ -1907,8 +1907,8 @@ Wireless models
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                  | 1         | 1.45%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter                       | 1         | 1.45%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                   | 1         | 1.45%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                     | 1         | 1.45%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                | 1         | 1.45%   |
-| Realtek 802.11n                                                           | 1         | 1.45%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                     | 1         | 1.45%   |
 | Qualcomm Atheros AR9271 802.11n                                           | 1         | 1.45%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)            | 1         | 1.45%   |
@@ -2193,48 +2193,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                               | Notebooks | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s            | 2         | 3.64%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s               | 2         | 3.64%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                         | 1         | 1.82%   |
-| Unknown RAM Module 2GB SODIMM DDR3                                  | 1         | 1.82%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                       | 1         | 1.82%   |
-| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                          | 1         | 1.82%   |
-| Unknown RAM Module 1024MB SODIMM DDR2 667MT/s                       | 1         | 1.82%   |
-| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s                | 1         | 1.82%   |
-| Team RAM TEAMGROUP-SD3-1600 4GB SODIMM DDR3 1600MT/s                | 1         | 1.82%   |
-| SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s                | 1         | 1.82%   |
-| SK hynix RAM Module 2GB SODIMM DDR3 1066MT/s                        | 1         | 1.82%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 1.82%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s              | 1         | 1.82%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 1.82%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM 1334MT/s                   | 1         | 1.82%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s              | 1         | 1.82%   |
-| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s              | 1         | 1.82%   |
-| SK hynix RAM H9HCNNNBKMALHR-NEE 4096MB Row Of Chips LPDDR4 4267MT/s | 1         | 1.82%   |
-| Samsung RAM Module 8GB SODIMM DDR4 2667MT/s                         | 1         | 1.82%   |
-| Samsung RAM Module 8GB SODIMM DDR4 2400MT/s                         | 1         | 1.82%   |
-| Samsung RAM Module 2GB SODIMM LPDDR4 2400MT/s                       | 1         | 1.82%   |
-| Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                        | 1         | 1.82%   |
-| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s               | 1         | 1.82%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s               | 1         | 1.82%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s               | 1         | 1.82%   |
-| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s            | 1         | 1.82%   |
-| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s              | 1         | 1.82%   |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s               | 1         | 1.82%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s            | 1         | 1.82%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s               | 1         | 1.82%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s               | 1         | 1.82%   |
-| Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s               | 1         | 1.82%   |
-| Ramaxel RAM RMT3170MN68F9F1600 4GB SODIMM DDR3 1600MT/s             | 1         | 1.82%   |
-| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s           | 1         | 1.82%   |
-| Micron RAM Module 4GB Row Of Chips LPDDR4 3200MT/s                  | 1         | 1.82%   |
-| Micron RAM 4ATF1G64HZ-3G2E2 8GB SODIMM DDR4 3200MT/s                | 1         | 1.82%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s                | 1         | 1.82%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s          | 1         | 1.82%   |
-| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s           | 1         | 1.82%   |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s             | 1         | 1.82%   |
+| Model                                                            | Notebooks | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 3.64%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 2         | 3.64%   |
+| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                      | 1         | 1.82%   |
+| Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 1.82%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                    | 1         | 1.82%   |
+| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                       | 1         | 1.82%   |
+| Unknown RAM Module 1024MB SODIMM DDR2 667MT/s                    | 1         | 1.82%   |
+| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s             | 1         | 1.82%   |
+| Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 1.82%   |
+| SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s             | 1         | 1.82%   |
+| SK hynix RAM Module 2GB SODIMM DDR3 1066MT/s                     | 1         | 1.82%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.82%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.82%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.82%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 1         | 1.82%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s           | 1         | 1.82%   |
+| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 1.82%   |
+| SK hynix RAM H9HCNNNBKMALHR-NEE 4GB Row Of Chips LPDDR4 4267MT/s | 1         | 1.82%   |
+| Samsung RAM Module 8GB SODIMM DDR4 2667MT/s                      | 1         | 1.82%   |
+| Samsung RAM Module 8GB SODIMM DDR4 2400MT/s                      | 1         | 1.82%   |
+| Samsung RAM Module 2GB SODIMM LPDDR4 2400MT/s                    | 1         | 1.82%   |
+| Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                     | 1         | 1.82%   |
+| Samsung RAM M471B5773DH0-CK0 2048MB SODIMM DDR3 1600MT/s         | 1         | 1.82%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 1         | 1.82%   |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.82%   |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.82%   |
+| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s           | 1         | 1.82%   |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.82%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.82%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.82%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.82%   |
+| Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s            | 1         | 1.82%   |
+| Ramaxel RAM RMT3170MN68F9F1600 4096MB SODIMM DDR3 1600MT/s       | 1         | 1.82%   |
+| Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 1.82%   |
+| Micron RAM Module 4GB Row Of Chips LPDDR4 3200MT/s               | 1         | 1.82%   |
+| Micron RAM 4ATF1G64HZ-3G2E2 8GB SODIMM DDR4 3200MT/s             | 1         | 1.82%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s             | 1         | 1.82%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s       | 1         | 1.82%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s        | 1         | 1.82%   |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s          | 1         | 1.82%   |
 
 Memory Kind
 -----------
@@ -2403,7 +2403,7 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                                               | 1         | 1.89%   |
 | Sunplus HD WebCam                                                          | 1         | 1.89%   |
 | Silicon Motion WebCam SC-03FFL11939N                                       | 1         | 1.89%   |
-| Samsung Galaxy series, misc. (MTP mode)                                    | 1         | 1.89%   |
+| Samsung Galaxy A5 (MTP)                                                    | 1         | 1.89%   |
 | Ricoh Pavilion Webcam                                                      | 1         | 1.89%   |
 | Ricoh Laptop_Integrated_Webcam_FHD                                         | 1         | 1.89%   |
 | Quanta HP HD Camera                                                        | 1         | 1.89%   |
@@ -2425,9 +2425,9 @@ Camera device models
 | Chicony HP HD Camera                                                       | 1         | 1.89%   |
 | Chicony HD User Facing                                                     | 1         | 1.89%   |
 | Chicony CNF8248                                                            | 1         | 1.89%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam                              | 1         | 1.89%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD integrated webcam | 1         | 1.89%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera             | 1         | 1.89%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 1.89%   |
 | Apple FaceTime HD Camera                                                   | 1         | 1.89%   |
 
 Security

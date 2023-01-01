@@ -838,7 +838,7 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 21       | 19.81%  |
-| 2009 | 11       | 10.38%  |
+| 2009 | 12       | 11.32%  |
 | 2013 | 10       | 9.43%   |
 | 2019 | 7        | 6.6%    |
 | 2017 | 7        | 6.6%    |
@@ -847,8 +847,8 @@ Motherboard manufacture year
 | 2015 | 6        | 5.66%   |
 | 2011 | 6        | 5.66%   |
 | 2021 | 5        | 4.72%   |
-| 2010 | 5        | 4.72%   |
 | 2020 | 4        | 3.77%   |
+| 2010 | 4        | 3.77%   |
 | 2006 | 4        | 3.77%   |
 | 2007 | 3        | 2.83%   |
 | 2008 | 2        | 1.89%   |
@@ -1143,7 +1143,7 @@ Hard drive models
 | A-DATA SP900 64GB SSD            | 2        | 0.93%   |
 | A-DATA SP550 120GB SSD           | 2        | 0.93%   |
 | XrayDisk SSD 512GB               | 1        | 0.46%   |
-| XPG GAMMIX S5 512GB              | 1        | 0.46%   |
+| XPG GAMMIX S5 256GB              | 1        | 0.46%   |
 | WDC WDS200T3X0C-00SJG0 2TB       | 1        | 0.46%   |
 | WDC WD800JD-60LSA5 80GB          | 1        | 0.46%   |
 | WDC WD7500BPKX-75HPJT0 752GB     | 1        | 0.46%   |
@@ -1241,11 +1241,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 87       | 167    | 61.7%   |
-| 0.51-1.0   | 37       | 46     | 26.24%  |
-| 1.01-2.0   | 10       | 12     | 7.09%   |
-| 3.01-4.0   | 4        | 5      | 2.84%   |
-| 2.01-3.0   | 2        | 3      | 1.42%   |
+| 0.01-0.5   | 86       | 166    | 61.43%  |
+| 0.51-1.0   | 37       | 47     | 26.43%  |
+| 1.01-2.0   | 10       | 12     | 7.14%   |
+| 3.01-4.0   | 4        | 5      | 2.86%   |
+| 2.01-3.0   | 2        | 3      | 1.43%   |
 | 4.01-10.0  | 1        | 1      | 0.71%   |
 
 Space Total
@@ -1916,16 +1916,16 @@ Monitor models
 | Samsung Electronics LCD Monitor C32HG7x 2560x1440                      | 2        | 1.53%   |
 | Lenovo LEN T2324pA LEN60C7 1920x1080 509x286mm 23.0-inch               | 2        | 1.53%   |
 | Dell U2419H DEL4148 1920x1080 527x296mm 23.8-inch                      | 2        | 1.53%   |
-| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                       | 2        | 1.53%   |
-| AOC 24V2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                     | 2        | 1.53%   |
+| Dell U2415 DELA0BA 1920x1200 520x320mm 24.0-inch                       | 2        | 1.53%   |
+| AOC 24G2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                     | 2        | 1.53%   |
 | AOC 2343 AOC2343 1920x1080 509x286mm 23.0-inch                         | 2        | 1.53%   |
 | ViewSonic VA721 VSC6E19 1280x1024 340x270mm 17.1-inch                  | 1        | 0.76%   |
 | Unknown (XXX) Beyond TV XXX2851 3840x2160 1209x680mm 54.6-inch         | 1        | 0.76%   |
 | Sony TV SNY2C02 1920x1080 708x398mm 32.0-inch                          | 1        | 0.76%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch      | 1        | 0.76%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch      | 1        | 0.76%   |
 | Samsung Electronics T24E390 SAM0C20 1920x1080 521x293mm 23.5-inch      | 1        | 0.76%   |
 | Samsung Electronics T19B300 SAM0926 1366x768 410x230mm 18.5-inch       | 1        | 0.76%   |
-| Samsung Electronics SyncMaster SAM036E 1280x1024 380x300mm 19.1-inch   | 1        | 0.76%   |
+| Samsung Electronics SyncMaster SAM036E 1280x1024 376x301mm 19.0-inch   | 1        | 0.76%   |
 | Samsung Electronics SyncMaster SAM0350 1440x900 428x255mm 19.6-inch    | 1        | 0.76%   |
 | Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch    | 1        | 0.76%   |
 | Samsung Electronics SyncMaster SAM01F9 1280x1024 376x301mm 19.0-inch   | 1        | 0.76%   |
@@ -1936,7 +1936,7 @@ Monitor models
 | Samsung Electronics SMBX2231 SAM076C 1920x1080 477x268mm 21.5-inch     | 1        | 0.76%   |
 | Samsung Electronics SMB2220N SAM06A2 1920x1080 480x270mm 21.7-inch     | 1        | 0.76%   |
 | Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch      | 1        | 0.76%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 1        | 0.76%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch      | 1        | 0.76%   |
 | Samsung Electronics S24E650 SAM0CC1 1920x1200 518x324mm 24.1-inch      | 1        | 0.76%   |
 | Samsung Electronics S24E450 SAM0C82 1920x1080 531x299mm 24.0-inch      | 1        | 0.76%   |
 | Samsung Electronics S24E450 SAM0C81 1920x1080 531x299mm 24.0-inch      | 1        | 0.76%   |
@@ -1951,7 +1951,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SyncMaster                             | 1        | 0.76%   |
 | Samsung Electronics LCD Monitor SAM7129 3840x2160 1020x570mm 46.0-inch | 1        | 0.76%   |
 | Samsung Electronics LCD Monitor SAM0921 1280x720 950x540mm 43.0-inch   | 1        | 0.76%   |
-| Samsung Electronics LCD Monitor SAM02A4 1280x720                       | 1        | 0.76%   |
+| Samsung Electronics LCD Monitor SAM02A4 1360x768                       | 1        | 0.76%   |
 
 Monitor Resolution
 ------------------
@@ -2061,9 +2061,9 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 37       | 31.36%  |
+| 201-250        | 38       | 32.2%   |
 | 301-350        | 19       | 16.1%   |
-| 151-200        | 19       | 16.1%   |
+| 151-200        | 18       | 15.25%  |
 | 141-150        | 13       | 11.02%  |
 | Unknown        | 12       | 10.17%  |
 | 251-300        | 6        | 5.08%   |
@@ -2167,7 +2167,7 @@ Controller models
 | Broadcom Limited NetXtreme BCM5755 Gigabit Ethernet PCI Express               | 2        | 1.35%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                           | 1        | 0.68%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                  | 1        | 0.68%   |
-| TP-Link 802.11ac WLAN Adapter                                                 | 1        | 0.68%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1        | 0.68%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 1        | 0.68%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                      | 1        | 0.68%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                               | 1        | 0.68%   |
@@ -2227,7 +2227,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 2        | 6.25%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                           | 1        | 3.13%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                  | 1        | 3.13%   |
-| TP-Link 802.11ac WLAN Adapter                                                 | 1        | 3.13%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1        | 3.13%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                      | 1        | 3.13%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                               | 1        | 3.13%   |
 | Ralink RT5370 Wireless Adapter                                                | 1        | 3.13%   |
@@ -2531,8 +2531,8 @@ Memory module models
 |---------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                    | 2        | 2.22%   |
 | Transcend RAM JM2666HLB-8G 8192MB DIMM DDR4 2667MT/s    | 2        | 2.22%   |
-| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s         | 2        | 2.22%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s | 2        | 2.22%   |
+| Patriot RAM PSD48G266681 8192MB DIMM DDR4 2934MT/s      | 2        | 2.22%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s    | 2        | 2.22%   |
 | G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s   | 2        | 2.22%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s     | 2        | 2.22%   |
 | Unknown RAM Module 8GB DIMM DDR3 1333MT/s               | 1        | 1.11%   |
@@ -2562,9 +2562,9 @@ Memory module models
 | Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.11%   |
 | Ramaxel RAM RML1520AG38D6F-667 512MB DIMM DDR2 667MT/s  | 1        | 1.11%   |
 | Patriot RAM PSD48G240081 8GB DIMM DDR4 2800MT/s         | 1        | 1.11%   |
-| Patriot RAM PSD34G160081 4096MB DIMM DDR3 1600MT/s      | 1        | 1.11%   |
+| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s         | 1        | 1.11%   |
 | Patriot RAM PSD34G13332 ...... 4GB DIMM DDR3 1600MT/s   | 1        | 1.11%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4096MB DIMM DDR3 1600MT/s   | 1        | 1.11%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s      | 1        | 1.11%   |
 | Nanya RAM M2Y51264TU88A4B-3C 512MB DIMM DDR2 667MT/s    | 1        | 1.11%   |
 | Kingston RAM termiter 9.A01LF 8192MB DIMM DDR3 1067MT/s | 1        | 1.11%   |
 | Kingston RAM MSI24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s     | 1        | 1.11%   |
@@ -2745,7 +2745,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Logitech Webcam C270                                                | 3        | 14.29%  |
-| Samsung Galaxy series, misc. (MTP mode)                             | 2        | 9.52%   |
+| Samsung Galaxy A5 (MTP)                                             | 2        | 9.52%   |
 | Logitech HD Webcam C615                                             | 2        | 9.52%   |
 | Z-Star Venus USB2.0 Camera                                          | 1        | 4.76%   |
 | Sunplus AUSDOM FHD Camera                                           | 1        | 4.76%   |
@@ -2758,7 +2758,7 @@ Camera device models
 | Logitech Webcam C925e                                               | 1        | 4.76%   |
 | Logitech Webcam C170                                                | 1        | 4.76%   |
 | Logitech HD Pro Webcam C920                                         | 1        | 4.76%   |
-| Huawei HiCamera                                                     | 1        | 4.76%   |
+| Huawei UVC Camera                                                   | 1        | 4.76%   |
 | Cubeternet EtronTech CMOS based eSP570 WebCam [Onyx Titanium TC101] | 1        | 4.76%   |
 | Arkmicro USB2.0 PC CAMERA                                           | 1        | 4.76%   |
 

@@ -1217,9 +1217,9 @@ Motherboard manufacture year
 | Year    | Computers | Percent |
 |---------|-----------|---------|
 | 2012    | 40        | 10.34%  |
-| 2009    | 37        | 9.56%   |
+| 2009    | 38        | 9.82%   |
 | 2011    | 33        | 8.53%   |
-| 2010    | 33        | 8.53%   |
+| 2010    | 32        | 8.27%   |
 | 2007    | 32        | 8.27%   |
 | 2018    | 29        | 7.49%   |
 | 2008    | 29        | 7.49%   |
@@ -1351,8 +1351,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 231       | 58.63%  |
-| No        | 163       | 41.37%  |
+| Yes       | 231       | 58.78%  |
+| No        | 162       | 41.22%  |
 
 Has Ethernet
 ------------
@@ -1571,7 +1571,7 @@ Hard drive models
 | Toshiba MQ01ABD100 1TB               | 4         | 0.68%   |
 | Toshiba DT01ACA100 1TB               | 4         | 0.68%   |
 | Seagate ST1000DM010-2EP102 1TB       | 4         | 0.68%   |
-| Seagate Expansion 1TB                | 4         | 0.68%   |
+| Seagate Expansion 4TB                | 4         | 0.68%   |
 | Samsung SSD 860 EVO 1TB              | 4         | 0.68%   |
 | Samsung SSD 850 EVO 500GB            | 4         | 0.68%   |
 | Samsung SSD 850 EVO 250GB            | 4         | 0.68%   |
@@ -1580,7 +1580,7 @@ Hard drive models
 | Crucial CT240BX500SSD1 240GB         | 4         | 0.68%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD     | 3         | 0.51%   |
 | WDC WD3200BEVT-60ZCT1 320GB          | 3         | 0.51%   |
-| Unknown SD/MMC/MS PRO 8GB            | 3         | 0.51%   |
+| Unknown SD/MMC/MS PRO 64GB           | 3         | 0.51%   |
 | Unknown MMC Card  128GB              | 3         | 0.51%   |
 | Toshiba MQ01ABF050 500GB             | 3         | 0.51%   |
 | Seagate ST9500325AS 500GB            | 3         | 0.51%   |
@@ -1718,11 +1718,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 309       | 470    | 72.37%  |
-| 0.51-1.0   | 86        | 120    | 20.14%  |
-| 1.01-2.0   | 20        | 30     | 4.68%   |
-| 3.01-4.0   | 5         | 10     | 1.17%   |
-| 4.01-10.0  | 5         | 8      | 1.17%   |
+| 0.01-0.5   | 309       | 470    | 71.86%  |
+| 0.51-1.0   | 85        | 117    | 19.77%  |
+| 1.01-2.0   | 20        | 29     | 4.65%   |
+| 3.01-4.0   | 9         | 14     | 2.09%   |
+| 4.01-10.0  | 5         | 8      | 1.16%   |
 | 2.01-3.0   | 2         | 2      | 0.47%   |
 
 Space Total
@@ -2427,14 +2427,14 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch           | 4         | 1.02%   |
 | LG Display LCD Monitor LGD0430 1366x768 345x194mm 15.6-inch              | 3         | 0.77%   |
-| LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 3         | 0.77%   |
+| LG Display LCD Monitor LGD02E9 1366x768 310x170mm 13.9-inch              | 3         | 0.77%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 344x193mm 15.5-inch          | 3         | 0.77%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch            | 3         | 0.77%   |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch      | 2         | 0.51%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.51%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 2         | 0.51%   |
 | Samsung Electronics LCD Monitor SEC3345 1280x800 331x207mm 15.4-inch     | 2         | 0.51%   |
-| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 0.51%   |
+| Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 2         | 0.51%   |
 | Quanta Display LCD Monitor QDS0025 1024x768 304x228mm 15.0-inch          | 2         | 0.51%   |
 | HannStar HSD121PHW1 HSD04B6 1366x768 270x150mm 12.2-inch                 | 2         | 0.51%   |
 | HannStar HSD101PFW4A HSD03ED 1024x600 223x125mm 10.1-inch                | 2         | 0.51%   |
@@ -2448,7 +2448,7 @@ Monitor models
 | BOE LCD Monitor BOE06F9 1920x1080 344x193mm 15.5-inch                    | 2         | 0.51%   |
 | BOE LCD Monitor BOE06A4 1366x768 344x194mm 15.5-inch                     | 2         | 0.51%   |
 | BOE LCD Monitor BOE069C 1920x1080 344x193mm 15.5-inch                    | 2         | 0.51%   |
-| AU Optronics LCD Monitor AUO61D2 1024x600 220x130mm 10.1-inch            | 2         | 0.51%   |
+| AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch            | 2         | 0.51%   |
 | AU Optronics LCD Monitor AUO303C 1366x768 309x173mm 13.9-inch            | 2         | 0.51%   |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch            | 2         | 0.51%   |
 | AOC 2036 AOC2036 1600x900 443x249mm 20.0-inch                            | 2         | 0.51%   |
@@ -2818,9 +2818,9 @@ Wireless models
 | Realtek RTL8723DE Wireless Network Adapter                              | 3         | 0.96%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 3         | 0.96%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 3         | 0.96%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 3         | 0.96%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 3         | 0.96%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                 | 3         | 0.96%   |
-| Realtek 802.11n                                                         | 3         | 0.96%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 3         | 0.96%   |
 | Intel Wireless 8260                                                     | 3         | 0.96%   |
 | Intel Wireless 7265                                                     | 3         | 0.96%   |
@@ -3200,30 +3200,30 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM                                   | 1         | 1.52%   |
 | Unknown RAM 4400 C19 Series 8GB DIMM DDR4 2133MT/s               | 1         | 1.52%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.52%   |
-| Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 975MT/s                | 1         | 1.52%   |
+| Transcend RAM JM800QSU-2G 2048MB SODIMM DDR2 975MT/s             | 1         | 1.52%   |
 | Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
 | Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
 | SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s                    | 1         | 1.52%   |
 | SK hynix RAM Module 512MB SODIMM DDR 533MT/s                     | 1         | 1.52%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s            | 1         | 1.52%   |
-| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 800MT/s          | 1         | 1.52%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s            | 1         | 1.52%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.52%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB DIMM DDR3 1333MT/s             | 1         | 1.52%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMP125S6EFR8C-S6 2GB SODIMM DDR2 800MT/s            | 1         | 1.52%   |
 | SK hynix RAM HMP112S6EFR6C-S6 1024MB SODIMM DDR 800MT/s          | 1         | 1.52%   |
-| SK hynix RAM HMA851S6DJR6N-VK 4096MB SODIMM DDR4 2667MT/s        | 1         | 1.52%   |
+| SK hynix RAM HMA851S6DJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 1.52%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 1         | 1.52%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
+| Samsung RAM M471B1G73QH0-YK0 8192MB SODIMM DDR3 1600MT/s         | 1         | 1.52%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.52%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s            | 1         | 1.52%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s           | 1         | 1.52%   |
 
 Memory Kind
 -----------
@@ -3294,7 +3294,7 @@ Memory module speed
 | 3266    | 2         | 3.39%   |
 | 975     | 2         | 3.39%   |
 | 533     | 2         | 3.39%   |
-| 4133    | 1         | 1.69%   |
+| 4266    | 1         | 1.69%   |
 | 3800    | 1         | 1.69%   |
 | 3500    | 1         | 1.69%   |
 | 3200    | 1         | 1.69%   |
@@ -3441,7 +3441,7 @@ Camera device models
 | Realtek USB2.0 VGA UVC WebCam                    | 3         | 1.52%   |
 | Chicony HD WebCam                                | 3         | 1.52%   |
 | Chicony 2.0M UVC Webcam / CNF7129                | 3         | 1.52%   |
-| Apple iPhone 5/5C/5S/6/SE                        | 3         | 1.52%   |
+| Apple iPhone5/5C/5S/6                            | 3         | 1.52%   |
 | Apple Built-in iSight                            | 3         | 1.52%   |
 | Acer USB Camera                                  | 3         | 1.52%   |
 | Acer Lenovo EasyCamera                           | 3         | 1.52%   |
@@ -3575,8 +3575,8 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 0     | 257       | 65.56%  |
 | 1     | 101       | 25.77%  |
-| 2     | 22        | 5.61%   |
-| 3     | 9         | 2.3%    |
+| 2     | 21        | 5.36%   |
+| 3     | 10        | 2.55%   |
 | 4     | 2         | 0.51%   |
 | 6     | 1         | 0.26%   |
 
@@ -3590,17 +3590,17 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 61        | 35.67%  |
-| Net/wireless             | 33        | 19.3%   |
-| Fingerprint reader       | 28        | 16.37%  |
-| Chipcard                 | 13        | 7.6%    |
-| Multimedia controller    | 9         | 5.26%   |
-| Communication controller | 8         | 4.68%   |
-| Storage                  | 6         | 3.51%   |
-| Network                  | 3         | 1.75%   |
-| Unassigned class         | 2         | 1.17%   |
-| Net/ethernet             | 2         | 1.17%   |
-| Flash memory             | 2         | 1.17%   |
+| Graphics card            | 62        | 36.05%  |
+| Net/wireless             | 33        | 19.19%  |
+| Fingerprint reader       | 28        | 16.28%  |
+| Chipcard                 | 13        | 7.56%   |
+| Multimedia controller    | 9         | 5.23%   |
+| Communication controller | 8         | 4.65%   |
+| Storage                  | 6         | 3.49%   |
+| Network                  | 3         | 1.74%   |
+| Unassigned class         | 2         | 1.16%   |
+| Net/ethernet             | 2         | 1.16%   |
+| Flash memory             | 2         | 1.16%   |
 | Storage/ide              | 1         | 0.58%   |
 | Modem                    | 1         | 0.58%   |
 | Camera                   | 1         | 0.58%   |

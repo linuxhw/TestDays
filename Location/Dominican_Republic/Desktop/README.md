@@ -655,14 +655,14 @@ Motherboard manufacture year
 | 2014 | 3        | 7.69%   |
 | 2013 | 3        | 7.69%   |
 | 2012 | 3        | 7.69%   |
-| 2019 | 2        | 5.13%   |
+| 2016 | 2        | 5.13%   |
 | 2010 | 2        | 5.13%   |
 | 2009 | 2        | 5.13%   |
 | 2008 | 2        | 5.13%   |
 | 2007 | 2        | 5.13%   |
 | 2021 | 1        | 2.56%   |
 | 2020 | 1        | 2.56%   |
-| 2016 | 1        | 2.56%   |
+| 2019 | 1        | 2.56%   |
 | 2006 | 1        | 2.56%   |
 
 Form Factor
@@ -1585,39 +1585,39 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Sony TV SNYDD02 1920x1080 708x398mm 32.0-inch                         | 2        | 6.06%   |
-| AOC 2269W AOC2269 1920x1080 477x268mm 21.5-inch                       | 2        | 6.06%   |
-| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                | 1        | 3.03%   |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch | 1        | 3.03%   |
-| Samsung Electronics LCD Monitor SAM0664 1360x768 410x256mm 19.0-inch  | 1        | 3.03%   |
-| NEC Computers EA274WMi NEC695F 2560x1440 597x336mm 27.0-inch          | 1        | 3.03%   |
-| LG Electronics LCD Monitor W1943 1984x768                             | 1        | 3.03%   |
-| LG Electronics LCD Monitor LG TV                                      | 1        | 3.03%   |
-| KTC 32T72-H-AN KTC3200 1360x768 698x392mm 31.5-inch                   | 1        | 3.03%   |
-| Hewlett-Packard w1858 HWP281A 1366x768 413x234mm 18.7-inch            | 1        | 3.03%   |
-| Hewlett-Packard V244h HPN3358 1920x1080 531x299mm 24.0-inch           | 1        | 3.03%   |
-| Hewlett-Packard LE2201w HWP2843 1680x1050 473x296mm 22.0-inch         | 1        | 3.03%   |
-| Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch          | 1        | 3.03%   |
-| Hewlett-Packard L1730 HWP260E 1280x1024 338x270mm 17.0-inch           | 1        | 3.03%   |
-| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                   | 1        | 3.03%   |
-| Goldstar TV GSM75E3 1024x768 920x518mm 41.6-inch                      | 1        | 3.03%   |
-| Dell SP2208WFP DEL403A 1680x1050 473x296mm 22.0-inch                  | 1        | 3.03%   |
-| Dell SE2717H/HX DELD0A0 1920x1080 598x336mm 27.0-inch                 | 1        | 3.03%   |
-| Dell P2017H DELD094 1600x900 434x236mm 19.4-inch                      | 1        | 3.03%   |
-| Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                      | 1        | 3.03%   |
-| Dell E177FP DELA023 1280x1024 338x270mm 17.0-inch                     | 1        | 3.03%   |
-| Dell DEL 1708FPBLK DEL4045 1280x1024 338x270mm 17.0-inch              | 1        | 3.03%   |
-| Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                       | 1        | 3.03%   |
-| Dell 1707FP DEL4012 1280x1024 338x270mm 17.0-inch                     | 1        | 3.03%   |
-| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                     | 1        | 3.03%   |
-| AOC LCD Monitor 2243W 1920x1080                                       | 1        | 3.03%   |
-| AOC 173P AOC1780 1280x1024 340x270mm 17.1-inch                        | 1        | 3.03%   |
-| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch | 1        | 3.03%   |
-| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                       | 1        | 3.03%   |
-| Acer V223W ACR0027 1680x1050 473x296mm 22.0-inch                      | 1        | 3.03%   |
-| Acer P225HQL ACR014E 1920x1080 476x268mm 21.5-inch                    | 1        | 3.03%   |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| Sony TV SNYDD02 1920x1080 708x398mm 32.0-inch                           | 2        | 6.06%   |
+| AOC 2269WM AOC2269 1920x1080 477x268mm 21.5-inch                        | 2        | 6.06%   |
+| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 3.03%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 3.03%   |
+| Samsung Electronics LCD Monitor SAM0664 1360x768 410x256mm 19.0-inch    | 1        | 3.03%   |
+| NEC Computers EA274WMi NEC695F 2560x1440 597x336mm 27.0-inch            | 1        | 3.03%   |
+| LG Electronics LCD Monitor W1943 1984x768                               | 1        | 3.03%   |
+| LG Electronics LCD Monitor LG TV                                        | 1        | 3.03%   |
+| KTC 32T72-H-AN KTC3200 1360x768 698x392mm 31.5-inch                     | 1        | 3.03%   |
+| Hewlett-Packard w1858 HWP281A 1366x768 413x234mm 18.7-inch              | 1        | 3.03%   |
+| Hewlett-Packard V244h HPN3358 1920x1080 531x299mm 24.0-inch             | 1        | 3.03%   |
+| Hewlett-Packard LE2201w HWP2843 1680x1050 473x296mm 22.0-inch           | 1        | 3.03%   |
+| Hewlett-Packard LA2205 HWP2848 1680x1050 470x300mm 22.0-inch            | 1        | 3.03%   |
+| Hewlett-Packard L1730 HWP260E 1280x1024 338x270mm 17.0-inch             | 1        | 3.03%   |
+| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 3.03%   |
+| Goldstar TV GSM75E3 1024x768 920x518mm 41.6-inch                        | 1        | 3.03%   |
+| Dell SP2208WFP DEL403A 1680x1050 473x296mm 22.0-inch                    | 1        | 3.03%   |
+| Dell SE2717H/HX DELD0A0 1920x1080 598x336mm 27.0-inch                   | 1        | 3.03%   |
+| Dell P2017H DELD094 1600x900 434x236mm 19.4-inch                        | 1        | 3.03%   |
+| Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                        | 1        | 3.03%   |
+| Dell E177FP DELA023 1280x1024 338x270mm 17.0-inch                       | 1        | 3.03%   |
+| Dell DEL 1708FPBLK DEL4045 1280x1024 338x270mm 17.0-inch                | 1        | 3.03%   |
+| Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                         | 1        | 3.03%   |
+| Dell 1707FP DEL4012 1280x1024 338x270mm 17.0-inch                       | 1        | 3.03%   |
+| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                       | 1        | 3.03%   |
+| AOC TFT1780 AOC1780 1280x1024 304x228mm 15.0-inch                       | 1        | 3.03%   |
+| AOC LCD Monitor 2243W 1920x1080                                         | 1        | 3.03%   |
+| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch   | 1        | 3.03%   |
+| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                         | 1        | 3.03%   |
+| Acer V223W ACR0027 1680x1050 473x296mm 22.0-inch                        | 1        | 3.03%   |
+| Acer P225HQL ACR014E 1920x1080 476x268mm 21.5-inch                      | 1        | 3.03%   |
 
 Monitor Resolution
 ------------------
@@ -1798,7 +1798,7 @@ Controller models
 | Realtek RTL8188CUS 802.11n WLAN Adapter                           | 1        | 1.54%   |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter          | 1        | 1.54%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.54%   |
-| Realtek 802.11ac NIC                                              | 1        | 1.54%   |
+| Realtek 802.11ac+Bluetooth 5.0 Adapter                            | 1        | 1.54%   |
 | Ralink RT5370 Wireless Adapter                                    | 1        | 1.54%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 1.54%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 1.54%   |
@@ -1858,7 +1858,7 @@ Wireless models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                | 1        | 4.35%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                        | 1        | 4.35%   |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter       | 1        | 4.35%   |
-| Realtek 802.11ac NIC                                           | 1        | 4.35%   |
+| Realtek 802.11ac+Bluetooth 5.0 Adapter                         | 1        | 4.35%   |
 | Ralink RT5370 Wireless Adapter                                 | 1        | 4.35%   |
 | Qualcomm Atheros AR9271 802.11n                                | 1        | 4.35%   |
 | Linksys AE1200 802.11bgn Wireless Adapter [Broadcom BCM43235]  | 1        | 4.35%   |
@@ -2124,11 +2124,11 @@ Memory module models
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s      | 1        | 3.45%   |
 | Samsung RAM M378B5673FH0-CF8 2048MB DIMM DDR3 1067MT/s   | 1        | 3.45%   |
 | Samsung RAM M378B5673EH1-CH9 2GB DIMM DDR3 1333MT/s      | 1        | 3.45%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s      | 1        | 3.45%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s   | 1        | 3.45%   |
 | Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 3.45%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s    | 1        | 3.45%   |
 | Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s         | 1        | 3.45%   |
-| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s          | 1        | 3.45%   |
+| Patriot RAM PSD48G266681 8192MB DIMM DDR4 2934MT/s       | 1        | 3.45%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s      | 1        | 3.45%   |
 | Nanya RAM NT1GT64U88D0BY-3C 1024MB DIMM DDR2 667MT/s     | 1        | 3.45%   |
 | Kingston RAM HP497157-D88-ELFWG 2GB DIMM DDR3 1333MT/s   | 1        | 3.45%   |
@@ -2272,16 +2272,16 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Microsoft MicrosoftÂ LifeCam HD-5001   | 2        | 22.22%  |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 11.11%  |
-| OmniVision Monitor Webcam               | 1        | 11.11%  |
-| OmniVision Monitor Integrated Webcam    | 1        | 11.11%  |
-| Microsoft LifeCam VX-2000               | 1        | 11.11%  |
-| Logitech Webcam Pro 9000                | 1        | 11.11%  |
-| Jieli USB PHY 2.0                       | 1        | 11.11%  |
-| Apple iPhone 5/5C/5S/6/SE               | 1        | 11.11%  |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Microsoft MicrosoftÂ LifeCam HD-5001 | 2        | 22.22%  |
+| Samsung Galaxy A5 (MTP)               | 1        | 11.11%  |
+| OmniVision Monitor Webcam             | 1        | 11.11%  |
+| OmniVision Monitor Integrated Webcam  | 1        | 11.11%  |
+| Microsoft LifeCam VX-2000             | 1        | 11.11%  |
+| Logitech Webcam Pro 9000              | 1        | 11.11%  |
+| Jieli USB PHY 2.0                     | 1        | 11.11%  |
+| Apple iPhone5/5C/5S/6                 | 1        | 11.11%  |
 
 Security
 --------

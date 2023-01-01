@@ -688,13 +688,13 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2021 | 19        | 16.24%  |
-| 2020 | 12        | 10.26%  |
+| 2020 | 11        | 9.4%    |
 | 2017 | 11        | 9.4%    |
 | 2013 | 11        | 9.4%    |
 | 2012 | 11        | 9.4%    |
 | 2011 | 10        | 8.55%   |
 | 2018 | 9         | 7.69%   |
-| 2019 | 7         | 5.98%   |
+| 2019 | 8         | 6.84%   |
 | 2016 | 7         | 5.98%   |
 | 2010 | 5         | 4.27%   |
 | 2015 | 4         | 3.42%   |
@@ -809,8 +809,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 85        | 72.03%  |
-| Yes       | 33        | 27.97%  |
+| No        | 86        | 73.5%   |
+| Yes       | 31        | 26.5%   |
 
 Has Ethernet
 ------------
@@ -1147,9 +1147,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 62        | 89     | 63.27%  |
-| 0.51-1.0   | 28        | 31     | 28.57%  |
-| 1.01-2.0   | 8         | 11     | 8.16%   |
+| 0.01-0.5   | 62        | 88     | 62.63%  |
+| 0.51-1.0   | 30        | 33     | 30.3%   |
+| 1.01-2.0   | 7         | 10     | 7.07%   |
 
 Space Total
 -----------
@@ -1809,7 +1809,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch    | 1         | 0.8%    |
 | Samsung Electronics SMT24A550 SAM07B5 1920x1080 530x300mm 24.0-inch     | 1         | 0.8%    |
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch       | 1         | 0.8%    |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1         | 0.8%    |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch       | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SEC4145 1366x768 310x170mm 13.9-inch    | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch   | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch    | 1         | 0.8%    |
@@ -1821,15 +1821,15 @@ Monitor models
 | Plain Tree Systems Monitor PTS0899 1680x1050 474x296mm 22.0-inch        | 1         | 0.8%    |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch                | 1         | 0.8%    |
 | PANDA LCD Monitor NCP004B 1920x1080 344x194mm 15.5-inch                 | 1         | 0.8%    |
-| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch             | 1         | 0.8%    |
-| ONN 100002480 ONN0101 1920x1080 474x296mm 22.0-inch                     | 1         | 0.8%    |
+| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch             | 1         | 0.8%    |
+| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                    | 1         | 0.8%    |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch             | 1         | 0.8%    |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch             | 1         | 0.8%    |
 | LG Display LCD Monitor LGD060F 1920x1080 309x174mm 14.0-inch            | 1         | 0.8%    |
 | LG Display LCD Monitor LGD05BC 3840x2160 309x174mm 14.0-inch            | 1         | 0.8%    |
 | LG Display LCD Monitor LGD0574 1920x1080 309x175mm 14.0-inch            | 1         | 0.8%    |
-| LG Display LCD Monitor LGD0557 1920x1080 310x170mm 13.9-inch            | 1         | 0.8%    |
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch            | 1         | 0.8%    |
+| LG Display LCD Monitor LGD0557 1920x1080 309x174mm 14.0-inch            | 1         | 0.8%    |
+| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch            | 1         | 0.8%    |
 | LG Display LCD Monitor LGD045A 1366x768 293x165mm 13.2-inch             | 1         | 0.8%    |
 | LG Display LCD Monitor LGD0390 1600x900 382x215mm 17.3-inch             | 1         | 0.8%    |
 | LG Display LCD Monitor LGD032E 1366x768 345x194mm 15.6-inch             | 1         | 0.8%    |
@@ -2051,7 +2051,7 @@ Controller models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 37        | 15.04%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 11        | 4.47%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 7         | 2.85%   |
-| Realtek 802.11n                                                   | 6         | 2.44%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 6         | 2.44%   |
 | Realtek 802.11ac NIC                                              | 5         | 2.03%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 5         | 2.03%   |
 | Intel Wireless 8265 / 8275                                        | 5         | 2.03%   |
@@ -2128,7 +2128,7 @@ Wireless models
 
 | Model                                                      | Computers | Percent |
 |------------------------------------------------------------|-----------|---------|
-| Realtek 802.11n                                            | 6         | 4.38%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter      | 6         | 4.38%   |
 | Realtek 802.11ac NIC                                       | 5         | 3.65%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter | 5         | 3.65%   |
 | Intel Wireless 8265 / 8275                                 | 5         | 3.65%   |
@@ -2162,7 +2162,7 @@ Wireless models
 | Broadcom BCM43224 802.11a/b/g/n                            | 2         | 1.46%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1         | 0.73%   |
 | TP-Link Archer T4U ver.3                                   | 1         | 0.73%   |
-| TP-Link 802.11ac WLAN Adapter                              | 1         | 0.73%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1         | 0.73%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                         | 1         | 0.73%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter   | 1         | 0.73%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter            | 1         | 0.73%   |
@@ -2224,8 +2224,8 @@ Ethernet models
 | Nvidia MCP89 Ethernet                                             | 1         | 0.93%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 0.93%   |
 | Nvidia MCP61 Ethernet                                             | 1         | 0.93%   |
-| MediaTek TECNO F1                                                 | 1         | 0.93%   |
-| MediaTek N152DL                                                   | 1         | 0.93%   |
+| MediaTek TECNO CAMON 18P                                          | 1         | 0.93%   |
+| MediaTek Infinix NOTE 11                                          | 1         | 0.93%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 0.93%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 0.93%   |
 | Intel Ethernet Connection I217-V                                  | 1         | 0.93%   |
@@ -2236,7 +2236,7 @@ Ethernet models
 | Intel 82583V Gigabit Network Connection                           | 1         | 0.93%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 0.93%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 0.93%   |
-| ICS Advent 10/100M LAN                                            | 1         | 0.93%   |
+| ICS Advent USB 10/100 LAN                                         | 1         | 0.93%   |
 | Huawei Ideos (tethering mode)                                     | 1         | 0.93%   |
 | DisplayLink USB3.0 UHD Dual Video Dock                            | 1         | 0.93%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 0.93%   |
@@ -2495,9 +2495,9 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 3         | 3.41%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 2.27%   |
 | SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 2         | 2.27%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 2         | 2.27%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 2.27%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 2         | 2.27%   |
+| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s         | 2         | 2.27%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 2         | 2.27%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.27%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 2         | 2.27%   |
 | Samsung RAM K4AAG165WA-BCWE 8GB SODIMM DDR4 3200MT/s             | 2         | 2.27%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s             | 2         | 2.27%   |
@@ -2517,11 +2517,11 @@ Memory module models
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 1.14%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 1         | 1.14%   |
 | Silicon Power RAM SP016GBLFU266B02 16GB DIMM DDR4 2667MT/s       | 1         | 1.14%   |
-| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s       | 1         | 1.14%   |
+| Samsung RAM UBE3D4AA-MGCR 2048MB Row Of Chips LPDDR4 4267MT/s    | 1         | 1.14%   |
 | Samsung RAM Module 4GB Row Of Chips LPDDR3 1867MT/s              | 1         | 1.14%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A5644EB0-CRC 2GB SODIMM DDR4 2400MT/s            | 1         | 1.14%   |
-| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s         | 1         | 1.14%   |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s           | 1         | 1.14%   |
@@ -2575,12 +2575,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 28        | 35.9%   |
-| 8192  | 24        | 30.77%  |
-| 16384 | 12        | 15.38%  |
-| 2048  | 10        | 12.82%  |
-| 1024  | 3         | 3.85%   |
-| 32768 | 1         | 1.28%   |
+| 4096  | 27        | 35.06%  |
+| 8192  | 24        | 31.17%  |
+| 16384 | 12        | 15.58%  |
+| 2048  | 10        | 12.99%  |
+| 1024  | 3         | 3.9%    |
+| 32768 | 1         | 1.3%    |
 
 Memory Speed
 ------------
@@ -2696,7 +2696,7 @@ Camera device vendors
 | Jieli Technology                       | 1         | 1.16%   |
 | Importek                               | 1         | 1.16%   |
 | Goertek Electronics                    | 1         | 1.16%   |
-| DJKANA19IDX53W                         | 1         | 1.16%   |
+| DJJHFA1BIF5595                         | 1         | 1.16%   |
 | Creative Technology                    | 1         | 1.16%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.16%   |
 | Alcor Micro                            | 1         | 1.16%   |
@@ -2723,7 +2723,7 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD      | 2         | 2.3%    |
 | Chicony Integrated Camera [ThinkPad] | 2         | 2.3%    |
 | Chicony HD User Facing               | 2         | 2.3%    |
-| Apple iPhone 5/5C/5S/6/SE            | 2         | 2.3%    |
+| Apple iPhone5/5C/5S/6                | 2         | 2.3%    |
 | Apple Built-in iSight                | 2         | 2.3%    |
 | Acer SunplusIT Integrated Camera     | 2         | 2.3%    |
 | USB Camera USB Camera                | 1         | 1.15%   |
@@ -2731,7 +2731,7 @@ Camera device models
 | Syntek Lenovo EasyCamera             | 1         | 1.15%   |
 | Syntek Integrated Camera             | 1         | 1.15%   |
 | Suyin Acer CrystalEye Webcam         | 1         | 1.15%   |
-| Sunplus FHD Camera Microphone        | 1         | 1.15%   |
+| Sunplus SPCA2650 AV Camera           | 1         | 1.15%   |
 | Silicon Motion WebCam SC-13HDL11939N | 1         | 1.15%   |
 | Ricoh HD Webcam                      | 1         | 1.15%   |
 | Realtek USB Camera                   | 1         | 1.15%   |
@@ -2747,10 +2747,10 @@ Camera device models
 | Microsoft LifeCam Rear               | 1         | 1.15%   |
 | Microsoft LifeCam Front              | 1         | 1.15%   |
 | Microdia Webcam Vitade AF            | 1         | 1.15%   |
+| Microdia USB 2.0 Camera              | 1         | 1.15%   |
 | Microdia PC Microscope camera        | 1         | 1.15%   |
 | Microdia Laptop_Integrated_Webcam_HD | 1         | 1.15%   |
 | Microdia Laptop_Integrated_Webcam_2M | 1         | 1.15%   |
-| Microdia Integrated_Webcam_HD        | 1         | 1.15%   |
 
 Security
 --------

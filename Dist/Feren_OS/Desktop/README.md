@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 63
+Total: 64
 
 | Vendor     | Model                 | Probe                                                      | Date         |
 |------------|-----------------------|------------------------------------------------------------|--------------|
+| Gigabyte   | MJPLNBB-00            | [a9e701a27a](https://linux-hardware.org/?probe=a9e701a27a) | Dec 23, 2022 |
 | MSI        | B350M MORTAR          | [f85255857d](https://linux-hardware.org/?probe=f85255857d) | Nov 17, 2022 |
 | MSI        | B350M MORTAR          | [9312be9510](https://linux-hardware.org/?probe=9312be9510) | Oct 23, 2022 |
 | ASUSTek    | PRIME B450M-A         | [f13203e3ce](https://linux-hardware.org/?probe=f13203e3ce) | Oct 14, 2022 |
@@ -903,7 +904,7 @@ Hard drive models
 | WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.47%   |
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.47%   |
 | Verbatim Vi550 S3 SSD 512GB      | 1        | 1.47%   |
-| Unknown SD/MMC/MS PRO 8GB        | 1        | 1.47%   |
+| Unknown SD/MMC/MS PRO 64GB       | 1        | 1.47%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.47%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.47%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.47%   |
@@ -1556,47 +1557,47 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| Vestel LCD Monitor 32W_LCD_TV 1920x1080                                | 1        | 2.56%   |
-| Unknown LCD Monitor SAMSUNG                                            | 1        | 2.56%   |
-| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                 | 1        | 2.56%   |
-| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch      | 1        | 2.56%   |
-| Samsung Electronics LCD Monitor U28E590 7680x2160                      | 1        | 2.56%   |
-| Samsung Electronics LCD Monitor U28E590                                | 1        | 2.56%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch   | 1        | 2.56%   |
-| Samsung Electronics LCD Monitor SAM07C5 1920x1080 1020x570mm 46.0-inch | 1        | 2.56%   |
-| Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch      | 1        | 2.56%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 1        | 2.56%   |
-| Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch      | 1        | 2.56%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch      | 1        | 2.56%   |
-| Ruijiang RJT HDMI RJT1200 1920x1200 320x180mm 14.5-inch                | 1        | 2.56%   |
-| Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch               | 1        | 2.56%   |
-| Onkyo TX-NR535 ONK0E51 2560x1440 597x336mm 27.0-inch                   | 1        | 2.56%   |
-| Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                  | 1        | 2.56%   |
-| LG Electronics LCD Monitor MP59HT 1920x1080                            | 1        | 2.56%   |
-| Lenovo LEN L171 LEN240B 1280x1024 337x270mm 17.0-inch                  | 1        | 2.56%   |
-| Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                   | 1        | 2.56%   |
-| Lenovo H61 LEN520B 1600x900 410x230mm 18.5-inch                        | 1        | 2.56%   |
-| Lenovo Group Limited LCD Monitor L24q-10 2560x1440                     | 1        | 2.56%   |
-| Insignia NS-24EM51A14 BBYBB24 1920x1080 531x299mm 24.0-inch            | 1        | 2.56%   |
-| Hewlett-Packard ZR22w HWP2867 1920x1080 475x267mm 21.5-inch            | 1        | 2.56%   |
-| Hewlett-Packard LCD Monitor ZR22w 3840x1080                            | 1        | 2.56%   |
-| Hewlett-Packard 2509 HWP283A 1920x1080 553x311mm 25.0-inch             | 1        | 2.56%   |
-| Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                   | 1        | 2.56%   |
-| Dell UP3017 DEL40FA 2560x1600 640x400mm 29.7-inch                      | 1        | 2.56%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.56%   |
-| Dell SP1908FP DEL4030 1280x1024 376x301mm 19.0-inch                    | 1        | 2.56%   |
-| Dell S2715H DEL40BB 1920x1080 598x336mm 27.0-inch                      | 1        | 2.56%   |
-| Chi Mei Optoelectronics LCD Monitor CMC 19AW 1440x900                  | 1        | 2.56%   |
-| BenQ BL3200 BNQ8017 2560x1440 710x400mm 32.1-inch                      | 1        | 2.56%   |
-| AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                         | 1        | 2.56%   |
-| AOC LCD Monitor 1943W 1366x768                                         | 1        | 2.56%   |
-| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch       | 1        | 2.56%   |
-| Acer VG270U ACR06C9 2560x1440 600x340mm 27.2-inch                      | 1        | 2.56%   |
-| Acer V273HL ACR02D0 1920x1080 598x336mm 27.0-inch                      | 1        | 2.56%   |
-| Acer S242HL ACR0216 1920x1080 531x299mm 24.0-inch                      | 1        | 2.56%   |
-| Acer LCD Monitor VG270U 2560x1440                                      | 1        | 2.56%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Vestel LCD Monitor 32W_LCD_TV 1920x1080                               | 1        | 2.56%   |
+| Unknown LCD Monitor SAMSUNG                                           | 1        | 2.56%   |
+| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                | 1        | 2.56%   |
+| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1        | 2.56%   |
+| Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1        | 2.56%   |
+| Samsung Electronics LCD Monitor U28E590                               | 1        | 2.56%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch  | 1        | 2.56%   |
+| Samsung Electronics LCD Monitor SAM07C5 1920x1080 890x500mm 40.2-inch | 1        | 2.56%   |
+| Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch     | 1        | 2.56%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 2.56%   |
+| Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch     | 1        | 2.56%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.56%   |
+| Ruijiang RJT HDMI RJT1200 1920x1200 320x180mm 14.5-inch               | 1        | 2.56%   |
+| Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch              | 1        | 2.56%   |
+| Onkyo TX-NR535 ONK0E51 2560x1440 597x336mm 27.0-inch                  | 1        | 2.56%   |
+| Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1        | 2.56%   |
+| LG Electronics LCD Monitor MP59HT 1920x1080                           | 1        | 2.56%   |
+| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.56%   |
+| Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                  | 1        | 2.56%   |
+| Lenovo H61 LEN520B 1600x900 410x230mm 18.5-inch                       | 1        | 2.56%   |
+| Lenovo Group Limited LCD Monitor L24q-10 2560x1440                    | 1        | 2.56%   |
+| Insignia NS-24EM51A14 BBYBB24 1920x1080 531x299mm 24.0-inch           | 1        | 2.56%   |
+| Hewlett-Packard ZR22w HWP2867 1920x1080 475x267mm 21.5-inch           | 1        | 2.56%   |
+| Hewlett-Packard LCD Monitor ZR22w 3840x1080                           | 1        | 2.56%   |
+| Hewlett-Packard 2509 HWP283A 1920x1080 553x311mm 25.0-inch            | 1        | 2.56%   |
+| Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.56%   |
+| Dell UP3017 DEL40FA 2560x1600 640x400mm 29.7-inch                     | 1        | 2.56%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.56%   |
+| Dell SP1908FP DEL4030 1280x1024 376x301mm 19.0-inch                   | 1        | 2.56%   |
+| Dell S2715H DEL40BB 1920x1080 598x336mm 27.0-inch                     | 1        | 2.56%   |
+| Chi Mei Optoelectronics LCD Monitor CMC 19AW 1440x900                 | 1        | 2.56%   |
+| BenQ BL3200 BNQ8017 2560x1440 710x400mm 32.1-inch                     | 1        | 2.56%   |
+| AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                        | 1        | 2.56%   |
+| AOC LCD Monitor 1943W 1366x768                                        | 1        | 2.56%   |
+| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch      | 1        | 2.56%   |
+| Acer VG270U ACR06C9 2560x1440 600x340mm 27.2-inch                     | 1        | 2.56%   |
+| Acer V273HL ACR02D0 1920x1080 598x336mm 27.0-inch                     | 1        | 2.56%   |
+| Acer S242HL ACR0216 1920x1080 531x299mm 24.0-inch                     | 1        | 2.56%   |
+| Acer LCD Monitor VG270U 2560x1440                                     | 1        | 2.56%   |
 
 Monitor Resolution
 ------------------
@@ -1774,7 +1775,7 @@ Controller models
 |------------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller            | 22       | 41.51%  |
 | Intel Ethernet Connection (2) I219-V                                         | 4        | 7.55%   |
-| TP-Link 802.11ac WLAN Adapter                                                | 1        | 1.89%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                   | 1        | 1.89%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                     | 1        | 1.89%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                       | 1        | 1.89%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                   | 1        | 1.89%   |
@@ -1834,7 +1835,7 @@ Wireless models
 
 | Model                                                                        | Desktops | Percent |
 |------------------------------------------------------------------------------|----------|---------|
-| TP-Link 802.11ac WLAN Adapter                                                | 1        | 5.88%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                   | 1        | 5.88%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                     | 1        | 5.88%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                                       | 1        | 5.88%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                   | 1        | 5.88%   |
@@ -2046,8 +2047,8 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.47%   |
 | Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.47%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.47%   |
+| C-Media Electronics USB PnP Audio Device                                                        | 1        | 1.47%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.47%   |
-| C-Media Electronics Auna Mic CM900                                                              | 1        | 1.47%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.47%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.47%   |
 | AMD Starship/Matisse HD Audio Controller                                                        | 1        | 1.47%   |
@@ -2250,18 +2251,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Z-Star Integrated Camera               | 1        | 10%     |
-| Novatek T2S Webcam                     | 1        | 10%     |
-| Microsoft LifeCam VX-5000              | 1        | 10%     |
-| Microsoft LifeCam VX-500 [1357]        | 1        | 10%     |
-| Logitech Webcam C270                   | 1        | 10%     |
-| Logitech QuickCam Communicate MP/S5500 | 1        | 10%     |
-| Huawei HiCamera                        | 1        | 10%     |
-| Generalplus 808 Camera                 | 1        | 10%     |
-| Cubeternet GL-UPC822 UVC WebCam        | 1        | 10%     |
-| ARC International Camera               | 1        | 10%     |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Z-Star Integrated Camera                 | 1        | 10%     |
+| Novatek J1455                            | 1        | 10%     |
+| Microsoft LifeCam VX-5000                | 1        | 10%     |
+| Microsoft LifeCam VX-500 [1357]          | 1        | 10%     |
+| Logitech Webcam C270                     | 1        | 10%     |
+| Logitech QuickCam Communicate MP/S5500   | 1        | 10%     |
+| Huawei UVC Camera                        | 1        | 10%     |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
+| Cubeternet GL-UPC822 UVC WebCam          | 1        | 10%     |
+| ARC International Camera                 | 1        | 10%     |
 
 Security
 --------
@@ -2319,8 +2320,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 30       | 81.08%  |
-| 1     | 6        | 16.22%  |
+| 0     | 31       | 83.78%  |
+| 1     | 5        | 13.51%  |
 | 2     | 1        | 2.7%    |
 
 Unsupported Device Types
@@ -2333,9 +2334,9 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 3        | 37.5%   |
-| Net/wireless  | 2        | 25%     |
-| Sound         | 1        | 12.5%   |
-| Chipcard      | 1        | 12.5%   |
-| Bluetooth     | 1        | 12.5%   |
+| Net/wireless  | 2        | 28.57%  |
+| Graphics card | 2        | 28.57%  |
+| Sound         | 1        | 14.29%  |
+| Chipcard      | 1        | 14.29%  |
+| Bluetooth     | 1        | 14.29%  |
 

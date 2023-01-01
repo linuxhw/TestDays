@@ -1067,8 +1067,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 136       | 60.18%  |
-| No        | 90        | 39.82%  |
+| Yes       | 136       | 60.44%  |
+| No        | 89        | 39.56%  |
 
 Has Ethernet
 ------------
@@ -1299,7 +1299,7 @@ Hard drive models
 | Seagate ST9250315AS 250GB            | 2         | 0.72%   |
 | Seagate ST9120821AS 120GB            | 2         | 0.72%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 2         | 0.72%   |
-| Seagate Expansion 1TB                | 2         | 0.72%   |
+| Seagate Expansion 4TB                | 2         | 0.72%   |
 | SanDisk NVMe SSD Drive 256GB         | 2         | 0.72%   |
 | Samsung SSD 860 EVO 250GB            | 2         | 0.72%   |
 | Samsung SSD 850 EVO 500GB            | 2         | 0.72%   |
@@ -1424,10 +1424,11 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 181       | 231    | 82.27%  |
-| 0.51-1.0   | 36        | 48     | 16.36%  |
-| 4.01-10.0  | 2         | 2      | 0.91%   |
-| 1.01-2.0   | 1         | 2      | 0.45%   |
+| 0.01-0.5   | 181       | 231    | 81.9%   |
+| 0.51-1.0   | 35        | 47     | 15.84%  |
+| 3.01-4.0   | 2         | 2      | 0.9%    |
+| 4.01-10.0  | 2         | 2      | 0.9%    |
+| 1.01-2.0   | 1         | 1      | 0.45%   |
 
 Space Total
 -----------
@@ -2081,13 +2082,13 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch           | 4         | 1.89%   |
 | LG Display LCD Monitor LGD0430 1366x768 345x194mm 15.6-inch              | 3         | 1.42%   |
-| LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 3         | 1.42%   |
+| LG Display LCD Monitor LGD02E9 1366x768 310x170mm 13.9-inch              | 3         | 1.42%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 344x193mm 15.5-inch          | 3         | 1.42%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch            | 3         | 1.42%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 2         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3345 1280x800 331x207mm 15.4-inch     | 2         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 2         | 0.94%   |
 | Quanta Display LCD Monitor QDS0025 1024x768 304x228mm 15.0-inch          | 2         | 0.94%   |
 | HannStar HSD121PHW1 HSD04B6 1366x768 270x150mm 12.2-inch                 | 2         | 0.94%   |
 | HannStar HSD101PFW4A HSD03ED 1024x600 223x125mm 10.1-inch                | 2         | 0.94%   |
@@ -2099,7 +2100,7 @@ Monitor models
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                    | 2         | 0.94%   |
 | BOE LCD Monitor BOE06A4 1366x768 344x194mm 15.5-inch                     | 2         | 0.94%   |
 | BOE LCD Monitor BOE069C 1920x1080 344x193mm 15.5-inch                    | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO61D2 1024x600 220x130mm 10.1-inch            | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch            | 2         | 0.94%   |
 | AU Optronics LCD Monitor AUO303C 1366x768 309x173mm 13.9-inch            | 2         | 0.94%   |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch            | 2         | 0.94%   |
 | ViewSonic VX2457 VSCB931 1920x1080 521x293mm 23.5-inch                   | 1         | 0.47%   |
@@ -2525,7 +2526,7 @@ Ethernet models
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                               | 2         | 0.9%    |
 | Broadcom BCM4401-B0 100Base-TX                                                 | 2         | 0.9%    |
 | Attansic AR8152 v2.0 Fast Ethernet                                             | 2         | 0.9%    |
-| ZTE WCDMA MSM ZTE                                                              | 1         | 0.45%   |
+| ZTE WCDMA MSM Spreadtrum Phone                                                 | 1         | 0.45%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                                 | 1         | 0.45%   |
 | VIA VT6102/VT6103 [Rhine-II]                                                   | 1         | 0.45%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 1         | 0.45%   |
@@ -2796,26 +2797,26 @@ Memory module models
 | Unknown RAM Module 8192MB SODIMM DDR3 1600MT/s            | 1         | 2.7%    |
 | Unknown RAM Module 2GB SODIMM DDR3                        | 1         | 2.7%    |
 | Unknown RAM Module 1024MB SODIMM DDR2 533MT/s             | 1         | 2.7%    |
-| Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 975MT/s         | 1         | 2.7%    |
+| Transcend RAM JM800QSU-2G 2048MB SODIMM DDR2 975MT/s      | 1         | 2.7%    |
 | Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s     | 1         | 2.7%    |
 | Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s     | 1         | 2.7%    |
 | SK hynix RAM Module 512MB SODIMM DDR 533MT/s              | 1         | 2.7%    |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s     | 1         | 2.7%    |
-| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 800MT/s   | 1         | 2.7%    |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s     | 1         | 2.7%    |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s | 1         | 2.7%    |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMP125S6EFR8C-S6 2GB SODIMM DDR2 800MT/s     | 1         | 2.7%    |
 | SK hynix RAM HMP112S6EFR6C-S6 1024MB SODIMM DDR 800MT/s   | 1         | 2.7%    |
-| SK hynix RAM HMA851S6DJR6N-VK 4096MB SODIMM DDR4 2667MT/s | 1         | 2.7%    |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.7%    |
+| SK hynix RAM HMA851S6DJR6N-VK 4GB SODIMM DDR4 2667MT/s    | 1         | 2.7%    |
+| Samsung RAM M471B1G73QH0-YK0 8192MB SODIMM DDR3 1600MT/s  | 1         | 2.7%    |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s     | 1         | 2.7%    |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s    | 1         | 2.7%    |
 | Ramaxel RAM RMSA3260MF68H9F-2666 4GB SODIMM DDR4 2400MT/s | 1         | 2.7%    |
 | Ramaxel RAM RMN1150EC48D7W-800 1024MB SODIMM DDR2 800MT/s | 1         | 2.7%    |
 | Nanya RAM NT2GC64B88G0NS-CG 2GB SODIMM DDR3 1600MT/s      | 1         | 2.7%    |
@@ -2824,7 +2825,7 @@ Memory module models
 | Kingston RAM 9905711-016.A00G 4GB SODIMM DDR4 2667MT/s    | 1         | 2.7%    |
 | Kingston RAM 9905700-024.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 2.7%    |
 | Kingston RAM 9905624-059.A00G 8GB SODIMM DDR4 2667MT/s    | 1         | 2.7%    |
-| Kingston RAM 9905428-155.A00LF 4GB SODIMM DDR3 1600MT/s   | 1         | 2.7%    |
+| Kingston RAM 9905428-155.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 2.7%    |
 | G.Skill RAM F3-10666CL9-8GBSQ 8GB SODIMM DDR3 1333MT/s    | 1         | 2.7%    |
 | A-DATA RAM AO1P26KC8T1-BXPS 8GB SODIMM DDR4 2667MT/s      | 1         | 2.7%    |
 
@@ -3006,7 +3007,7 @@ Camera device models
 | Chicony USB 2.0 Camera                           | 3         | 1.78%   |
 | Chicony HD WebCam                                | 3         | 1.78%   |
 | Chicony 2.0M UVC Webcam / CNF7129                | 3         | 1.78%   |
-| Apple iPhone 5/5C/5S/6/SE                        | 3         | 1.78%   |
+| Apple iPhone5/5C/5S/6                            | 3         | 1.78%   |
 | Acer USB Camera                                  | 3         | 1.78%   |
 | Acer Lenovo EasyCamera                           | 3         | 1.78%   |
 | Syntek Sonix USB 2.0 Camera                      | 2         | 1.18%   |
@@ -3033,9 +3034,9 @@ Camera device models
 | Chicony HD WebCam (Acer)                         | 2         | 1.18%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 2         | 1.18%   |
 | Apple Built-in iSight                            | 2         | 1.18%   |
+| Acer Integrated Camera                           | 2         | 1.18%   |
 | Acer HD Webcam                                   | 2         | 1.18%   |
 | Z-Star Namuga 1.3M Webcam                        | 1         | 0.59%   |
-| Z-Star Lenovo EasyCamera                         | 1         | 0.59%   |
 
 Security
 --------
@@ -3133,8 +3134,8 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 0     | 144       | 64%     |
 | 1     | 56        | 24.89%  |
-| 2     | 18        | 8%      |
-| 3     | 6         | 2.67%   |
+| 2     | 17        | 7.56%   |
+| 3     | 7         | 3.11%   |
 | 6     | 1         | 0.44%   |
 
 Unsupported Device Types
@@ -3147,15 +3148,15 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 34        | 31.48%  |
-| Fingerprint reader       | 25        | 23.15%  |
-| Net/wireless             | 17        | 15.74%  |
-| Chipcard                 | 12        | 11.11%  |
-| Storage                  | 6         | 5.56%   |
-| Multimedia controller    | 6         | 5.56%   |
-| Communication controller | 3         | 2.78%   |
-| Flash memory             | 2         | 1.85%   |
-| Network                  | 1         | 0.93%   |
-| Camera                   | 1         | 0.93%   |
-| Bluetooth                | 1         | 0.93%   |
+| Graphics card            | 35        | 32.11%  |
+| Fingerprint reader       | 25        | 22.94%  |
+| Net/wireless             | 17        | 15.6%   |
+| Chipcard                 | 12        | 11.01%  |
+| Storage                  | 6         | 5.5%    |
+| Multimedia controller    | 6         | 5.5%    |
+| Communication controller | 3         | 2.75%   |
+| Flash memory             | 2         | 1.83%   |
+| Network                  | 1         | 0.92%   |
+| Camera                   | 1         | 0.92%   |
+| Bluetooth                | 1         | 0.92%   |
 

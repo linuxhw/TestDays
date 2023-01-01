@@ -1454,7 +1454,7 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 5.56%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 2         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch          | 2         | 5.56%   |
 | AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 5.56%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.78%   |
@@ -1957,14 +1957,14 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Notebooks | Percent |
-|---------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2GB SODIMM SDRAM                     | 1         | 16.67%  |
-| Smart RAM SF464128CKHIWDFSEG 4GB SODIMM DDR4 2133MT/s   | 1         | 16.67%  |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 16.67%  |
-| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
-| Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s | 1         | 16.67%  |
+| Model                                                    | Notebooks | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2GB SODIMM SDRAM                      | 1         | 16.67%  |
+| Smart RAM SF464128CKHIWDFSEG 4GB SODIMM DDR4 2133MT/s    | 1         | 16.67%  |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1         | 16.67%  |
+| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s | 1         | 16.67%  |
+| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
+| Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s  | 1         | 16.67%  |
 
 Memory Kind
 -----------

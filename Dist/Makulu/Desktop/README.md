@@ -825,7 +825,7 @@ Hard drive models
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.17%   |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.17%   |
 | Kingston SV300S37A120G 120GB SSD             | 1        | 2.17%   |
-| JMicron Generic 1TB                          | 1        | 2.17%   |
+| JMicron Generic 240GB SSD                    | 1        | 2.17%   |
 | Hitachi HDS728080PLA380 82GB                 | 1        | 2.17%   |
 | Hitachi HDS721010CLA332 1TB                  | 1        | 2.17%   |
 
@@ -911,9 +911,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 27     | 63.33%  |
-| 0.51-1.0   | 10       | 12     | 33.33%  |
-| 1.01-2.0   | 1        | 1      | 3.33%   |
+| 0.01-0.5   | 19       | 28     | 65.52%  |
+| 0.51-1.0   | 9        | 11     | 31.03%  |
+| 1.01-2.0   | 1        | 1      | 3.45%   |
 
 Space Total
 -----------
@@ -1419,33 +1419,33 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Toshiba LCD Monitor TV 1920x1080                             | 1        | 4%      |
-| Sony TV SNYDC01 1360x768                                     | 1        | 4%      |
-| Samsung Electronics LCD Monitor SMS27A850T 2560x1440         | 1        | 4%      |
-| Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch           | 1        | 4%      |
-| LG Electronics LCD Monitor LG IPS FULLHD                     | 1        | 4%      |
-| LG Electronics LCD Monitor LG HDR 4K 7360x2160               | 1        | 4%      |
-| Hewlett-Packard LCD Monitor w1907 3120x1050                  | 1        | 4%      |
-| Hewlett-Packard LCD Monitor 2310 1920x1080                   | 1        | 4%      |
-| Hewlett-Packard LCD Monitor 2009                             | 1        | 4%      |
-| HannStar Hanns.G HH241 HSD2275 1920x1080 521x293mm 23.5-inch | 1        | 4%      |
-| Goldstar W2261 GSM56CE 1920x1080 477x268mm 21.5-inch         | 1        | 4%      |
-| Goldstar TV SSCR2 GSM8080 3840x2160                          | 1        | 4%      |
-| Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch          | 1        | 4%      |
-| Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch        | 1        | 4%      |
-| Element WD32FBL1001 ELE6308 1920x1080 890x500mm 40.2-inch    | 1        | 4%      |
-| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch            | 1        | 4%      |
-| Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch            | 1        | 4%      |
-| Dell LCD Monitor E228WFP                                     | 1        | 4%      |
-| BenQ EW3270U BNQ7950 3840x2160 700x390mm 31.5-inch           | 1        | 4%      |
-| AUS LCD Monitor VA32AQ 2560x1440                             | 1        | 4%      |
-| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch | 1        | 4%      |
-| AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch             | 1        | 4%      |
-| AOC 2243W AOC2243 1920x1080 477x268mm 21.5-inch              | 1        | 4%      |
-| Acer K243Y ACR08B7 1920x1080 527x296mm 23.8-inch             | 1        | 4%      |
-| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch           | 1        | 4%      |
+| Model                                                           | Desktops | Percent |
+|-----------------------------------------------------------------|----------|---------|
+| Toshiba LCD Monitor TV 1920x1080                                | 1        | 4%      |
+| Sony TV SNYDC01 1360x768                                        | 1        | 4%      |
+| Samsung Electronics LCD Monitor SMS27A850T 2560x1440            | 1        | 4%      |
+| Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch              | 1        | 4%      |
+| LG Electronics LCD Monitor LG IPS FULLHD                        | 1        | 4%      |
+| LG Electronics LCD Monitor LG HDR 4K 7360x2160                  | 1        | 4%      |
+| Hewlett-Packard LCD Monitor w1907 3120x1050                     | 1        | 4%      |
+| Hewlett-Packard LCD Monitor 2310 1920x1080                      | 1        | 4%      |
+| Hewlett-Packard LCD Monitor 2009                                | 1        | 4%      |
+| HannStar Hanns.G HH241 HSD2275 1920x1080 521x293mm 23.5-inch    | 1        | 4%      |
+| Goldstar W2261 GSM56CE 1920x1080 477x268mm 21.5-inch            | 1        | 4%      |
+| Goldstar TV SSCR2 GSM8080 3840x2160                             | 1        | 4%      |
+| Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch             | 1        | 4%      |
+| Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch           | 1        | 4%      |
+| Element E2SW3918 E2SW3918 ELE6308 1366x768 1365x768mm 61.7-inch | 1        | 4%      |
+| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch               | 1        | 4%      |
+| Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch               | 1        | 4%      |
+| Dell LCD Monitor E228WFP                                        | 1        | 4%      |
+| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch              | 1        | 4%      |
+| AUS LCD Monitor VA32AQ 2560x1440                                | 1        | 4%      |
+| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch    | 1        | 4%      |
+| AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch                | 1        | 4%      |
+| AOC 2243W AOC2243 1920x1080 477x268mm 21.5-inch                 | 1        | 4%      |
+| Acer K243Y ACR08B7 1920x1080 527x296mm 23.8-inch                | 1        | 4%      |
+| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch              | 1        | 4%      |
 
 Monitor Resolution
 ------------------

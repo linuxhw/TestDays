@@ -787,9 +787,9 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 21       | 13.73%  |
+| 2019 | 20       | 13.07%  |
 | 2012 | 19       | 12.42%  |
-| 2018 | 16       | 10.46%  |
+| 2018 | 17       | 11.11%  |
 | 2013 | 15       | 9.8%    |
 | 2017 | 12       | 7.84%   |
 | 2010 | 12       | 7.84%   |
@@ -1154,7 +1154,7 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB      | 2        | 0.56%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.56%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.56%   |
-| Seagate Expansion Desk 8TB          | 2        | 0.56%   |
+| Seagate Expansion Desk 5TB          | 2        | 0.56%   |
 | SanDisk NVMe SSD Drive 1TB          | 2        | 0.56%   |
 | Samsung SSD 970 EVO Plus 500GB      | 2        | 0.56%   |
 | Samsung SSD 850 EVO M.2 500GB       | 2        | 0.56%   |
@@ -1953,13 +1953,13 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 3        | 1.59%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3        | 1.59%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch          | 3        | 1.59%   |
 | Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 2        | 1.06%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 440x300mm 21.0-inch | 2        | 1.06%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2        | 1.06%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 1.06%   |
-| MStar Demo MST0030 1920x1080 1150x650mm 52.0-inch                    | 2        | 1.06%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                       | 2        | 1.06%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch         | 2        | 1.06%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch              | 2        | 1.06%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 1.06%   |
@@ -2110,17 +2110,17 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 53       | 33.54%  |
-| 301-350        | 30       | 18.99%  |
-| Unknown        | 23       | 14.56%  |
-| 151-200        | 15       | 9.49%   |
-| 251-300        | 12       | 7.59%   |
-| 351-500        | 10       | 6.33%   |
-| More than 1000 | 8        | 5.06%   |
-| 101-110        | 3        | 1.9%    |
+| 201-250        | 53       | 33.76%  |
+| 301-350        | 30       | 19.11%  |
+| Unknown        | 23       | 14.65%  |
+| 151-200        | 14       | 8.92%   |
+| 251-300        | 12       | 7.64%   |
+| 351-500        | 10       | 6.37%   |
+| More than 1000 | 8        | 5.1%    |
+| 101-110        | 3        | 1.91%   |
 | 141-150        | 2        | 1.27%   |
-| 111-120        | 1        | 0.63%   |
-| 501-1000       | 1        | 0.63%   |
+| 111-120        | 1        | 0.64%   |
+| 501-1000       | 1        | 0.64%   |
 
 Pixel Density
 -------------
@@ -2213,8 +2213,8 @@ Controller models
 | Intel Ethernet Connection (7) I219-LM                                         | 3        | 1.22%   |
 | Intel Ethernet Connection (2) I219-LM                                         | 3        | 1.22%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 3        | 1.22%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 2        | 0.81%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                      | 2        | 0.81%   |
+| Realtek 802.11n WLAN Adapter                                                  | 2        | 0.81%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 2        | 0.81%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 2        | 0.81%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                              | 2        | 0.81%   |
@@ -2270,7 +2270,7 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                                               | 3        | 5.45%   |
 | Intel Wireless-AC 9260                                                                        | 3        | 5.45%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                            | 3        | 5.45%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 2        | 3.64%   |
+| Realtek 802.11n WLAN Adapter                                                                  | 2        | 3.64%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 2        | 3.64%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                              | 2        | 3.64%   |
 | Intel Wireless 8265 / 8275                                                                    | 2        | 3.64%   |
@@ -2611,9 +2611,9 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2                     | 1        | 1.18%   |
 | Unknown RAM Module 2048MB DIMM 1333MT/s                 | 1        | 1.18%   |
 | TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s     | 1        | 1.18%   |
-| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s        | 1        | 1.18%   |
+| Transcend RAM JM800QLU-2G 2048MB DIMM DDR 2048MT/s      | 1        | 1.18%   |
 | Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s     | 1        | 1.18%   |
-| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2400MT/s      | 1        | 1.18%   |
+| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s      | 1        | 1.18%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s              | 1        | 1.18%   |
 | SK hynix RAM Module 8GB DIMM DDR4 2133MT/s              | 1        | 1.18%   |
 | SK hynix RAM Module 16GB DIMM DDR4 3200MT/s             | 1        | 1.18%   |
@@ -2633,7 +2633,7 @@ Memory module models
 | Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s     | 1        | 1.18%   |
 | Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s     | 1        | 1.18%   |
 | Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.18%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM 1333MT/s        | 1        | 1.18%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.18%   |
 | Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.18%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 1.18%   |
 | Micron RAM 4ATF51264AZ-2G6E1 4GB DIMM DDR4 2667MT/s     | 1        | 1.18%   |
@@ -2812,10 +2812,10 @@ Camera device models
 | Microdia Defender G-Lens 2577 HD720p Camera | 2        | 8.7%    |
 | Microdia Camera                             | 2        | 8.7%    |
 | Logitech Webcam C270                        | 2        | 8.7%    |
-| Lenovo FHD Webcam                           | 2        | 8.7%    |
-| Samsung Galaxy series, misc. (MTP mode)     | 1        | 4.35%   |
+| Lenovo FHD Webcam Audio                     | 2        | 8.7%    |
+| Samsung Galaxy A5 (MTP)                     | 1        | 4.35%   |
 | Realtek Laptop_Integrated_Webcam_FHD        | 1        | 4.35%   |
-| Microdia Hy-HD-Camera                       | 1        | 4.35%   |
+| Microdia USB 2.0 Camera                     | 1        | 4.35%   |
 | Logitech Webcam C930e                       | 1        | 4.35%   |
 | Logitech Webcam C210                        | 1        | 4.35%   |
 | Logitech StreamCam                          | 1        | 4.35%   |

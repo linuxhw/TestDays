@@ -987,7 +987,7 @@ Hard drive vendors
 | Toshiba                   | 8        | 11     | 10.13%  |
 | Samsung Electronics       | 6        | 14     | 7.59%   |
 | China                     | 4        | 6      | 5.06%   |
-| SanDisk                   | 3        | 3      | 3.8%    |
+| Sandisk                   | 3        | 3      | 3.8%    |
 | Micron/Crucial Technology | 3        | 4      | 3.8%    |
 | TDAS                      | 2        | 10     | 2.53%   |
 | Silicon Motion            | 2        | 2      | 2.53%   |
@@ -1022,10 +1022,10 @@ Hard drive models
 | TDAS TerraMaster 1TB                 | 2        | 2.22%   |
 | Seagate ST320DM001 HD322GJ 320GB     | 2        | 2.22%   |
 | Seagate ST2000VM003-1CT164 2TB       | 2        | 2.22%   |
-| Seagate Expansion 1TB                | 2        | 2.22%   |
+| Seagate Expansion 4TB                | 2        | 2.22%   |
 | Samsung SSD 850 EVO 500GB            | 2        | 2.22%   |
 | Samsung NVMe SSD Drive 500GB         | 2        | 2.22%   |
-| SABRENT Disk 500GB                   | 2        | 2.22%   |
+| SABRENT Disk 1TB                     | 2        | 2.22%   |
 | Micron/Crucial NVMe SSD Drive 500GB  | 2        | 2.22%   |
 | China SATA SSD 512GB                 | 2        | 2.22%   |
 | WDC WD7500BPVX-60JC3T0 752GB         | 1        | 1.11%   |
@@ -1130,11 +1130,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 25       | 41     | 40.98%  |
-| 0.51-1.0   | 23       | 51     | 37.7%   |
-| 1.01-2.0   | 8        | 19     | 13.11%  |
-| 3.01-4.0   | 4        | 9      | 6.56%   |
-| 2.01-3.0   | 1        | 1      | 1.64%   |
+| 0.01-0.5   | 25       | 41     | 40.32%  |
+| 0.51-1.0   | 22       | 49     | 35.48%  |
+| 1.01-2.0   | 8        | 19     | 12.9%   |
+| 3.01-4.0   | 6        | 11     | 9.68%   |
+| 2.01-3.0   | 1        | 1      | 1.61%   |
 
 Space Total
 -----------
@@ -1341,10 +1341,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 38       | 52.05%  |
-| NVMe | 14       | 19.18%  |
-| IDE  | 14       | 19.18%  |
-| RAID | 7        | 9.59%   |
+| SATA | 38       | 52.78%  |
+| NVMe | 14       | 19.44%  |
+| IDE  | 14       | 19.44%  |
+| RAID | 6        | 8.33%   |
 
 Processor
 ---------
@@ -1730,7 +1730,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 4        | 6.06%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                 | 3        | 4.55%   |
-| Element ELEFW328 ELE1366 1366x768 700x400mm 31.7-inch                  | 3        | 4.55%   |
+| Element ELEFW328B ELE1366 1366x768 700x400mm 31.7-inch                 | 3        | 4.55%   |
 | VIZ LCD Monitor M551d-A2R                                              | 2        | 3.03%   |
 | ViewSonic VA2448 SERIES VSC3828 1920x1080 521x293mm 23.5-inch          | 2        | 3.03%   |
 | Sony TV  *00 SNY4B04 3840x2160                                         | 2        | 3.03%   |
@@ -1749,17 +1749,17 @@ Monitor models
 | Sony TV SNY4502 1920x1080                                              | 1        | 1.52%   |
 | Seiki SE241TS SEK0CF0 1920x1080 520x290mm 23.4-inch                    | 1        | 1.52%   |
 | Sceptre Tech Sceptre X22HG SPT2204 1920x1080 474x296mm 22.0-inch       | 1        | 1.52%   |
-| Sceptre Tech Sceptre F27 SPT0AD7 1920x1080 600x330mm 27.0-inch         | 1        | 1.52%   |
+| Sceptre Tech Sceptre C27 SPT0AD7 1920x1080 598x336mm 27.0-inch         | 1        | 1.52%   |
 | Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                 | 1        | 1.52%   |
 | Samsung Electronics S34J55x SAM0F71 3440x1440 800x330mm 34.1-inch      | 1        | 1.52%   |
 | Samsung Electronics LCD Monitor SAM0F0B 3840x2160 1210x680mm 54.6-inch | 1        | 1.52%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch      | 1        | 1.52%   |
 | MTK Microtek 815C MTK1021 1280x1024 359x287mm 18.1-inch                | 1        | 1.52%   |
-| MStar Demo MST0030 1920x1080 1150x650mm 52.0-inch                      | 1        | 1.52%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1        | 1.52%   |
 | Hewlett-Packard P17A HWP3142 1280x1024 338x270mm 17.0-inch             | 1        | 1.52%   |
 | Hewlett-Packard LE1901w HWP2842 1440x900 410x256mm 19.0-inch           | 1        | 1.52%   |
 | Hewlett-Packard L2105tm HWP2863 1920x1080 477x268mm 21.5-inch          | 1        | 1.52%   |
-| Hewlett-Packard 2511 HWP293E 1920x1080 553x311mm 25.0-inch             | 1        | 1.52%   |
+| Hewlett-Packard 2511 HWP293E 1920x1080 550x310mm 24.9-inch             | 1        | 1.52%   |
 | Hewlett-Packard 22cw HWP3183 1920x1080 476x268mm 21.5-inch             | 1        | 1.52%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 1.52%   |
 | Gateway LCD Monitor FHX2300 3840x1080                                  | 1        | 1.52%   |
@@ -1958,15 +1958,14 @@ Controller models
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 3        | 3.06%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                           | 3        | 3.06%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 3        | 3.06%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 2        | 2.04%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 2        | 2.04%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 2.04%   |
-| Realtek 802.11n                                                   | 2        | 2.04%   |
 | Realtek 802.11ac NIC                                              | 2        | 2.04%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                        | 1        | 1.02%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 1.02%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1        | 1.02%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.02%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1        | 1.02%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 1.02%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 1.02%   |
 | Realtek RTL8188RU 802.11n WLAN Adapter                            | 1        | 1.02%   |
@@ -1974,6 +1973,7 @@ Controller models
 | Realtek RTL8187 Wireless Adapter                                  | 1        | 1.02%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 1.02%   |
 | Realtek Killer E3000 2.5GbE Controller                            | 1        | 1.02%   |
+| Realtek 802.11n WLAN Adapter                                      | 1        | 1.02%   |
 | Ralink RT2870 Wireless Adapter                                    | 1        | 1.02%   |
 | Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                 | 1        | 1.02%   |
 | Ralink MT7601U Wireless Adapter                                   | 1        | 1.02%   |
@@ -2023,17 +2023,17 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]            | 4        | 9.76%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                          | 3        | 7.32%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                     | 3        | 7.32%   |
-| Realtek 802.11n                                             | 2        | 4.88%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter       | 2        | 4.88%   |
 | Realtek 802.11ac NIC                                        | 2        | 4.88%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                  | 1        | 2.44%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter    | 1        | 2.44%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter     | 1        | 2.44%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                  | 1        | 2.44%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter             | 1        | 2.44%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                      | 1        | 2.44%   |
 | Realtek RTL8188RU 802.11n WLAN Adapter                      | 1        | 2.44%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                  | 1        | 2.44%   |
 | Realtek RTL8187 Wireless Adapter                            | 1        | 2.44%   |
+| Realtek 802.11n WLAN Adapter                                | 1        | 2.44%   |
 | Ralink RT2870 Wireless Adapter                              | 1        | 2.44%   |
 | Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter           | 1        | 2.44%   |
 | Ralink MT7601U Wireless Adapter                             | 1        | 2.44%   |
@@ -2306,7 +2306,7 @@ Memory module models
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
 | Sesame RAM S939A2UGS-ITR 8GB DIMM DDR3 1600MT/s          | 1        | 4.76%   |
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s      | 1        | 4.76%   |
-| Samsung RAM M378B5173QH0-CK0 4096MB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
 | Samsung RAM M378B1G73QH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
 | Samsung RAM M378B1G73BH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
@@ -2454,7 +2454,7 @@ Camera device models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | Microdia Camera                 | 4        | 33.33%  |
-| Microdia Hy-HD-Camera           | 1        | 8.33%   |
+| Microdia USB 2.0 Camera         | 1        | 8.33%   |
 | Logitech Webcam Pro 9000        | 1        | 8.33%   |
 | Logitech Webcam C310            | 1        | 8.33%   |
 | Logitech Webcam C270            | 1        | 8.33%   |

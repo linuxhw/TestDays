@@ -153,10 +153,12 @@ Contents
 Test Cases
 ----------
 
-Total: 29
+Total: 31
 
 | Vendor   | Model                    | Probe                                                      | Date         |
 |----------|--------------------------|------------------------------------------------------------|--------------|
+| Fujitsu  | D3348-B2 S26361-D3348-B2 | [4568e83912](https://linux-hardware.org/?probe=4568e83912) | Dec 03, 2022 |
+| Fujitsu  | D3348-B2 S26361-D3348-B2 | [2047a872cb](https://linux-hardware.org/?probe=2047a872cb) | Dec 03, 2022 |
 | Fujitsu  | D3348-B2 S26361-D3348-B2 | [eabfad66da](https://linux-hardware.org/?probe=eabfad66da) | Nov 22, 2022 |
 | Dell     | 0RW199                   | [2a2fa5baf8](https://linux-hardware.org/?probe=2a2fa5baf8) | Nov 20, 2022 |
 | MSI      | B550M PRO-VDH WIFI       | [afb716fb12](https://linux-hardware.org/?probe=afb716fb12) | Nov 18, 2022 |
@@ -200,19 +202,20 @@ Version of the Linux kernel
 
 | Version               | Desktops | Percent |
 |-----------------------|----------|---------|
-| 5.15.0-52-generic     | 4        | 16.67%  |
-| 5.15.0-46-generic     | 3        | 12.5%   |
-| 5.15.0-30-generic     | 3        | 12.5%   |
-| 5.15.0-43-generic     | 2        | 8.33%   |
-| 5.15.0-33-generic     | 2        | 8.33%   |
-| 5.15.0-27-generic     | 2        | 8.33%   |
-| 5.15.0-25-generic     | 2        | 8.33%   |
-| 5.17.2-051702-generic | 1        | 4.17%   |
-| 5.15.0-50-generic     | 1        | 4.17%   |
-| 5.15.0-48-generic     | 1        | 4.17%   |
-| 5.15.0-47-generic     | 1        | 4.17%   |
-| 5.15.0-41-generic     | 1        | 4.17%   |
-| 5.13.0-44-generic     | 1        | 4.17%   |
+| 5.15.0-52-generic     | 4        | 16%     |
+| 5.15.0-46-generic     | 3        | 12%     |
+| 5.15.0-30-generic     | 3        | 12%     |
+| 5.15.0-43-generic     | 2        | 8%      |
+| 5.15.0-33-generic     | 2        | 8%      |
+| 5.15.0-27-generic     | 2        | 8%      |
+| 5.15.0-25-generic     | 2        | 8%      |
+| 5.17.2-051702-generic | 1        | 4%      |
+| 5.15.0-56-generic     | 1        | 4%      |
+| 5.15.0-50-generic     | 1        | 4%      |
+| 5.15.0-48-generic     | 1        | 4%      |
+| 5.15.0-47-generic     | 1        | 4%      |
+| 5.15.0-41-generic     | 1        | 4%      |
+| 5.13.0-44-generic     | 1        | 4%      |
 
 Kernel Family
 -------------
@@ -556,11 +559,11 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1.01-2.0  | 10       | 41.67%  |
-| 2.01-3.0  | 8        | 33.33%  |
-| 4.01-8.0  | 3        | 12.5%   |
-| 3.01-4.0  | 2        | 8.33%   |
-| 8.01-16.0 | 1        | 4.17%   |
+| 1.01-2.0  | 10       | 40%     |
+| 2.01-3.0  | 8        | 32%     |
+| 4.01-8.0  | 4        | 16%     |
+| 3.01-4.0  | 2        | 8%      |
+| 8.01-16.0 | 1        | 4%      |
 
 Total Drives
 ------------
@@ -668,28 +671,29 @@ Geographic location (city)
 
 | City                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Milwaukee             | 2        | 8.7%    |
-| Zurich                | 1        | 4.35%   |
-| Walled Lake           | 1        | 4.35%   |
-| Trondheim             | 1        | 4.35%   |
-| Tocantins             | 1        | 4.35%   |
-| Seattle               | 1        | 4.35%   |
-| San Luis Potosí City | 1        | 4.35%   |
-| Rueil-Malmaison       | 1        | 4.35%   |
-| Pula                  | 1        | 4.35%   |
-| Pine Island           | 1        | 4.35%   |
-| New York              | 1        | 4.35%   |
-| Maribor               | 1        | 4.35%   |
-| Madrid                | 1        | 4.35%   |
-| Kirkcaldy             | 1        | 4.35%   |
-| Hamburg               | 1        | 4.35%   |
-| Ennepetal             | 1        | 4.35%   |
-| Delbrueck             | 1        | 4.35%   |
-| Colon                 | 1        | 4.35%   |
-| Caslano               | 1        | 4.35%   |
-| Camp Hill             | 1        | 4.35%   |
-| Bradenton             | 1        | 4.35%   |
-| Athens                | 1        | 4.35%   |
+| Milwaukee             | 2        | 8.33%   |
+| Zurich                | 1        | 4.17%   |
+| Walled Lake           | 1        | 4.17%   |
+| Trondheim             | 1        | 4.17%   |
+| Tocantins             | 1        | 4.17%   |
+| Tann                  | 1        | 4.17%   |
+| Seattle               | 1        | 4.17%   |
+| San Luis Potosí City | 1        | 4.17%   |
+| Rueil-Malmaison       | 1        | 4.17%   |
+| Pula                  | 1        | 4.17%   |
+| Pine Island           | 1        | 4.17%   |
+| New York              | 1        | 4.17%   |
+| Maribor               | 1        | 4.17%   |
+| Madrid                | 1        | 4.17%   |
+| Kirkcaldy             | 1        | 4.17%   |
+| Hamburg               | 1        | 4.17%   |
+| Ennepetal             | 1        | 4.17%   |
+| Delbrueck             | 1        | 4.17%   |
+| Colon                 | 1        | 4.17%   |
+| Caslano               | 1        | 4.17%   |
+| Camp Hill             | 1        | 4.17%   |
+| Bradenton             | 1        | 4.17%   |
+| Athens                | 1        | 4.17%   |
 
 Drives
 ------
@@ -706,7 +710,7 @@ Hard drive vendors
 |---------------------|----------|--------|---------|
 | Seagate             | 9        | 14     | 19.15%  |
 | SanDisk             | 5        | 6      | 10.64%  |
-| Samsung Electronics | 5        | 13     | 10.64%  |
+| Samsung Electronics | 5        | 20     | 10.64%  |
 | WDC                 | 4        | 5      | 8.51%   |
 | Toshiba             | 2        | 2      | 4.26%   |
 | OCZ                 | 2        | 2      | 4.26%   |
@@ -748,7 +752,7 @@ Hard drive models
 | WDC WD1600AAJS-60WAA0 160GB          | 1        | 1.75%   |
 | WDC WD10EARS-00Y5B1 1TB              | 1        | 1.75%   |
 | WDC WD10EADS-00M2B0 1TB              | 1        | 1.75%   |
-| Unknown SD/MMC/MS PRO 8GB            | 1        | 1.75%   |
+| Unknown SD/MMC/MS PRO 64GB           | 1        | 1.75%   |
 | Transcend TS128GMTE110S 128GB        | 1        | 1.75%   |
 | Toshiba HDWD240 4TB                  | 1        | 1.75%   |
 | Toshiba HDWD220 2TB                  | 1        | 1.75%   |
@@ -766,7 +770,7 @@ Hard drive models
 | Seagate ST1000LM014-1EJ164 1TB       | 1        | 1.75%   |
 | Seagate ST1000DM003-1SB10C 1TB       | 1        | 1.75%   |
 | Seagate NVMe SSD Drive 500GB         | 1        | 1.75%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB   | 1        | 1.75%   |
+| Sandisk WD Blue SN550 NVMe SSD 500GB | 1        | 1.75%   |
 | SanDisk NVMe SSD Drive 500GB         | 1        | 1.75%   |
 | SanDisk DF4032  32GB                 | 1        | 1.75%   |
 | Samsung SSD 850 PRO 256GB            | 1        | 1.75%   |
@@ -809,7 +813,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 3        | 9      | 17.65%  |
+| Samsung Electronics | 3        | 15     | 17.65%  |
 | SanDisk             | 2        | 2      | 11.76%  |
 | Crucial             | 2        | 2      | 11.76%  |
 | Zheino              | 1        | 1      | 5.88%   |
@@ -833,9 +837,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 14       | 24     | 36.84%  |
+| SSD  | 14       | 30     | 36.84%  |
 | HDD  | 14       | 26     | 36.84%  |
-| NVMe | 9        | 12     | 23.68%  |
+| NVMe | 9        | 13     | 23.68%  |
 | MMC  | 1        | 1      | 2.63%   |
 
 Drive Connector
@@ -848,8 +852,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 21       | 47     | 61.76%  |
-| NVMe | 9        | 12     | 26.47%  |
+| SATA | 21       | 53     | 61.76%  |
+| NVMe | 9        | 13     | 26.47%  |
 | SAS  | 3        | 3      | 8.82%   |
 | MMC  | 1        | 1      | 2.94%   |
 
@@ -863,10 +867,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 20       | 32     | 58.82%  |
-| 0.51-1.0   | 9        | 12     | 26.47%  |
-| 3.01-4.0   | 3        | 3      | 8.82%   |
-| 1.01-2.0   | 2        | 3      | 5.88%   |
+| 0.01-0.5   | 20       | 36     | 60.61%  |
+| 0.51-1.0   | 8        | 14     | 24.24%  |
+| 3.01-4.0   | 3        | 3      | 9.09%   |
+| 1.01-2.0   | 2        | 3      | 6.06%   |
 
 Space Total
 -----------
@@ -981,7 +985,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 18       | 46     | 66.67%  |
+| Detected | 18       | 53     | 66.67%  |
 | Works    | 7        | 15     | 25.93%  |
 | Malfunc  | 2        | 2      | 7.41%   |
 
@@ -1217,16 +1221,16 @@ Microcode number
 
 | Number     | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 14       | 58.33%  |
-| 0x306a9    | 2        | 8.33%   |
-| 0xa0671    | 1        | 4.17%   |
-| 0x406f1    | 1        | 4.17%   |
-| 0x406c4    | 1        | 4.17%   |
-| 0x10677    | 1        | 4.17%   |
-| 0x0a50000c | 1        | 4.17%   |
-| 0x08108109 | 1        | 4.17%   |
-| 0x08108102 | 1        | 4.17%   |
-| 0x06001119 | 1        | 4.17%   |
+| Unknown    | 14       | 56%     |
+| 0x406f1    | 2        | 8%      |
+| 0x306a9    | 2        | 8%      |
+| 0xa0671    | 1        | 4%      |
+| 0x406c4    | 1        | 4%      |
+| 0x10677    | 1        | 4%      |
+| 0x0a50000c | 1        | 4%      |
+| 0x08108109 | 1        | 4%      |
+| 0x08108102 | 1        | 4%      |
+| 0x06001119 | 1        | 4%      |
 
 CPU Microarch
 -------------
@@ -1400,7 +1404,7 @@ Monitor models
 | Philips PHL 233V5 PHLC0D0 1920x1080 509x286mm 23.0-inch               | 1        | 4.17%   |
 | Philips 273EL PHLC07C 1920x1080 598x336mm 27.0-inch                   | 1        | 4.17%   |
 | Panasonic PanasonicTV0 MEIA0D7 1920x540                               | 1        | 4.17%   |
-| Hewlett-Packard E243 HPN3468 1920x1080 530x300mm 24.0-inch            | 1        | 4.17%   |
+| Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch            | 1        | 4.17%   |
 | Hewlett-Packard E232 HWP327A 1920x1080 509x286mm 23.0-inch            | 1        | 4.17%   |
 | Hewlett-Packard 27w HPN3494 1920x1080 598x336mm 27.0-inch             | 1        | 4.17%   |
 | Fujitsu Siemens L24W-2 FUS077A 1920x1200 518x324mm 24.1-inch          | 1        | 4.17%   |
@@ -1823,15 +1827,15 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Kingston            | 4        | 28.57%  |
-| SK hynix            | 2        | 14.29%  |
-| Crucial             | 2        | 14.29%  |
-| Transcend           | 1        | 7.14%   |
-| Samsung Electronics | 1        | 7.14%   |
-| Micron Technology   | 1        | 7.14%   |
-| Elpida              | 1        | 7.14%   |
-| Corsair             | 1        | 7.14%   |
-| A-DATA Technology   | 1        | 7.14%   |
+| Kingston            | 4        | 26.67%  |
+| SK hynix            | 2        | 13.33%  |
+| Samsung Electronics | 2        | 13.33%  |
+| Crucial             | 2        | 13.33%  |
+| Transcend           | 1        | 6.67%   |
+| Micron Technology   | 1        | 6.67%   |
+| Elpida              | 1        | 6.67%   |
+| Corsair             | 1        | 6.67%   |
+| A-DATA Technology   | 1        | 6.67%   |
 
 Memory Model
 ------------
@@ -1843,20 +1847,21 @@ Memory module models
 
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
-| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s  | 2        | 13.33%  |
-| Transcend RAM TS256MLK64V3U 2GB DIMM DDR3 1066MT/s     | 1        | 6.67%   |
-| SK hynix RAM Module 2GB DIMM DDR3 1600MT/s             | 1        | 6.67%   |
-| SK hynix RAM HMA41GR7AFR4N-UH 8GB DIMM DDR4 2400MT/s   | 1        | 6.67%   |
-| Samsung RAM M393A1K43BB0-CRC 8GB DIMM DDR4 2400MT/s    | 1        | 6.67%   |
-| Micron RAM 16JTF51264AZ-1G4D1 4GB DIMM DDR3 1333MT/s   | 1        | 6.67%   |
-| Kingston RAM 9905584-032.A 4GB DIMM DDR3 1600MT/s      | 1        | 6.67%   |
-| Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s  | 1        | 6.67%   |
-| Elpida RAM EBJ20UF8BCF0-DJ-F 2048MB DIMM DDR3 1333MT/s | 1        | 6.67%   |
-| Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s | 1        | 6.67%   |
-| Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s  | 1        | 6.67%   |
-| Corsair RAM CMV8GX3M2A1333C9 4GB DIMM DDR3 1333MT/s    | 1        | 6.67%   |
-| Corsair RAM CMV4GX3M1A1333C9 4GB DIMM DDR3 1600MT/s    | 1        | 6.67%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s            | 1        | 6.67%   |
+| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s  | 2        | 12.5%   |
+| Transcend RAM TS256MLK64V3U 2GB DIMM DDR3 1066MT/s     | 1        | 6.25%   |
+| SK hynix RAM Module 2GB DIMM DDR3 1600MT/s             | 1        | 6.25%   |
+| SK hynix RAM HMA41GR7AFR4N-UH 8GB DIMM DDR4 2400MT/s   | 1        | 6.25%   |
+| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s   | 1        | 6.25%   |
+| Samsung RAM M393A1K43BB0-CRC 8GB DIMM DDR4 2400MT/s    | 1        | 6.25%   |
+| Micron RAM 16JTF51264AZ-1G4D1 4GB DIMM DDR3 1333MT/s   | 1        | 6.25%   |
+| Kingston RAM 9905584-032.A 4GB DIMM DDR3 1600MT/s      | 1        | 6.25%   |
+| Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s  | 1        | 6.25%   |
+| Elpida RAM EBJ20UF8BCF0-DJ-F 2048MB DIMM DDR3 1333MT/s | 1        | 6.25%   |
+| Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s | 1        | 6.25%   |
+| Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s  | 1        | 6.25%   |
+| Corsair RAM CMV8GX3M2A1333C9 4GB DIMM DDR3 1333MT/s    | 1        | 6.25%   |
+| Corsair RAM CMV4GX3M1A1333C9 4096MB DIMM DDR3 1600MT/s | 1        | 6.25%   |
+| A-DATA RAM DDR4 3000 16384MB DIMM DDR4 3600MT/s        | 1        | 6.25%   |
 
 Memory Kind
 -----------
@@ -1868,9 +1873,9 @@ Memory module kinds
 
 | Kind  | Desktops | Percent |
 |-------|----------|---------|
-| DDR4  | 5        | 50%     |
-| DDR3  | 4        | 40%     |
-| SDRAM | 1        | 10%     |
+| DDR4  | 6        | 54.55%  |
+| DDR3  | 4        | 36.36%  |
+| SDRAM | 1        | 9.09%   |
 
 Memory Form Factor
 ------------------
@@ -1882,8 +1887,8 @@ Physical design of the memory module
 
 | Name   | Desktops | Percent |
 |--------|----------|---------|
-| DIMM   | 8        | 88.89%  |
-| SODIMM | 1        | 11.11%  |
+| DIMM   | 9        | 90%     |
+| SODIMM | 1        | 10%     |
 
 Memory Size
 -----------
@@ -1895,10 +1900,11 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 16384 | 3        | 27.27%  |
-| 8192  | 3        | 27.27%  |
-| 4096  | 3        | 27.27%  |
-| 2048  | 2        | 18.18%  |
+| 16384 | 3        | 25%     |
+| 8192  | 3        | 25%     |
+| 4096  | 3        | 25%     |
+| 2048  | 2        | 16.67%  |
+| 32768 | 1        | 8.33%   |
 
 Memory Speed
 ------------
@@ -1910,13 +1916,13 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 4        | 33.33%  |
-| 3200  | 2        | 16.67%  |
-| 1333  | 2        | 16.67%  |
-| 3600  | 1        | 8.33%   |
-| 2667  | 1        | 8.33%   |
-| 2400  | 1        | 8.33%   |
-| 1066  | 1        | 8.33%   |
+| 1600  | 4        | 30.77%  |
+| 3200  | 2        | 15.38%  |
+| 2400  | 2        | 15.38%  |
+| 1333  | 2        | 15.38%  |
+| 3600  | 1        | 7.69%   |
+| 2667  | 1        | 7.69%   |
+| 1066  | 1        | 7.69%   |
 
 Printers & scanners
 -------------------
@@ -1974,11 +1980,11 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 33.33%  |
-| Microdia Camera                         | 1        | 33.33%  |
-| Logitech HD Pro Webcam C920             | 1        | 33.33%  |
+| Model                       | Desktops | Percent |
+|-----------------------------|----------|---------|
+| Samsung Galaxy A5 (MTP)     | 1        | 33.33%  |
+| Microdia Camera             | 1        | 33.33%  |
+| Logitech HD Pro Webcam C920 | 1        | 33.33%  |
 
 Security
 --------

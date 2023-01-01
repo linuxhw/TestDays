@@ -1331,7 +1331,7 @@ Monitor models
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                      | 1        | 4.17%   |
+| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1739,7 +1739,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 10%     |
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 10%     |
 | Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
-| Corsair RAM CMX8GX3M2B1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 10%     |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 10%     |
 | Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 10%     |
 | Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 10%     |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 10%     |
@@ -1871,15 +1871,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Microdia Camera                         | 2        | 25%     |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 12.5%   |
-| Microsoft Xbox NUI Camera               | 1        | 12.5%   |
-| Logitech Webcam C270                    | 1        | 12.5%   |
-| Logitech StreamCam                      | 1        | 12.5%   |
-| Logitech Logitech Webcam C160           | 1        | 12.5%   |
-| HP Webcam HD 2300                       | 1        | 12.5%   |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Microdia Camera               | 2        | 25%     |
+| Samsung Galaxy A5 (MTP)       | 1        | 12.5%   |
+| Microsoft Xbox NUI Camera     | 1        | 12.5%   |
+| Logitech Webcam C270          | 1        | 12.5%   |
+| Logitech StreamCam            | 1        | 12.5%   |
+| Logitech Logitech Webcam C160 | 1        | 12.5%   |
+| HP Webcam HD 2300             | 1        | 12.5%   |
 
 Security
 --------

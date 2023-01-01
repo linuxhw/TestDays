@@ -721,7 +721,7 @@ Hard drive models
 | Samsung SSD 850 EVO 120GB         | 1        | 4.55%   |
 | Samsung HD250HJ 250GB             | 1        | 4.55%   |
 | Samsung HD162GJ 160GB             | 1        | 4.55%   |
-| Samsung HD160JJ 160GB             | 1        | 4.55%   |
+| Samsung HD160JJ/ 160GB            | 1        | 4.55%   |
 | Samsung HD080HJ/ 80GB             | 1        | 4.55%   |
 | Maxtor Z1 SSD 240GB               | 1        | 4.55%   |
 | Hitachi HTS723232A7A364 320GB     | 1        | 4.55%   |
@@ -1255,8 +1255,8 @@ Monitor models
 |----------------------------------------------------------------------|----------|---------|
 | Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                  | 1        | 12.5%   |
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch | 1        | 12.5%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 12.5%   |
 | Goldstar M198WA GSM4B36 1440x900 410x260mm 19.1-inch                 | 1        | 12.5%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch          | 1        | 12.5%   |
 | Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                     | 1        | 12.5%   |
 | Acer VG220Q ACR06D8 1920x1080 476x268mm 21.5-inch                    | 1        | 12.5%   |
 | Acer V243H ACR00A3 1920x1080 531x298mm 24.0-inch                     | 1        | 12.5%   |
@@ -1647,24 +1647,24 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s | 2        | 11.76%  |
-| Unknown RAM Module 512MB DIMM DDR 400MT/s              | 1        | 5.88%   |
-| Unknown RAM Module 512MB DIMM DDR 333MT/s              | 1        | 5.88%   |
-| Unknown RAM Module 512MB DIMM                          | 1        | 5.88%   |
-| Unknown RAM Module 2GB DIMM SDRAM                      | 1        | 5.88%   |
-| Unknown RAM Module 2GB DIMM DDR3 800MT/s               | 1        | 5.88%   |
-| Unknown RAM Module 1GB DIMM SDRAM                      | 1        | 5.88%   |
-| Unknown RAM Module 1GB DIMM DDR 333MT/s                | 1        | 5.88%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 5.88%   |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s            | 1        | 5.88%   |
-| Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s     | 1        | 5.88%   |
-| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s         | 1        | 5.88%   |
-| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s     | 1        | 5.88%   |
-| Kllisre RAM DDR2 2G 2GB DIMM DDR2 800MT/s              | 1        | 5.88%   |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 5.88%   |
-| Kingston RAM 99U5402-060.A 2GB DIMM DDR3 1333MT/s      | 1        | 5.88%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Corsair RAM CMK32GX4M2E3200C16 16384MB DIMM DDR4 3200MT/s | 2        | 11.76%  |
+| Unknown RAM Module 512MB DIMM DDR 400MT/s                 | 1        | 5.88%   |
+| Unknown RAM Module 512MB DIMM DDR 333MT/s                 | 1        | 5.88%   |
+| Unknown RAM Module 512MB DIMM                             | 1        | 5.88%   |
+| Unknown RAM Module 2GB DIMM SDRAM                         | 1        | 5.88%   |
+| Unknown RAM Module 2GB DIMM DDR3 800MT/s                  | 1        | 5.88%   |
+| Unknown RAM Module 1GB DIMM SDRAM                         | 1        | 5.88%   |
+| Unknown RAM Module 1GB DIMM DDR 333MT/s                   | 1        | 5.88%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                       | 1        | 5.88%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s               | 1        | 5.88%   |
+| Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s        | 1        | 5.88%   |
+| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s            | 1        | 5.88%   |
+| Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s        | 1        | 5.88%   |
+| Kllisre RAM DDR2 2G 2GB DIMM DDR2 800MT/s                 | 1        | 5.88%   |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 5.88%   |
+| Kingston RAM 99U5402-060.A 2GB DIMM DDR3 1333MT/s         | 1        | 5.88%   |
 
 Memory Kind
 -----------

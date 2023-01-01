@@ -1162,11 +1162,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 49       | 101    | 45.79%  |
-| 0.51-1.0   | 30       | 82     | 28.04%  |
+| 0.01-0.5   | 48       | 100    | 44.86%  |
+| 0.51-1.0   | 30       | 75     | 28.04%  |
 | 1.01-2.0   | 14       | 22     | 13.08%  |
+| 3.01-4.0   | 6        | 15     | 5.61%   |
 | 2.01-3.0   | 6        | 30     | 5.61%   |
-| 3.01-4.0   | 5        | 7      | 4.67%   |
 | 4.01-10.0  | 2        | 5      | 1.87%   |
 | 10.01-20.0 | 1        | 1      | 0.93%   |
 
@@ -1798,48 +1798,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                    | 4        | 5.13%   |
-| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                  | 2        | 2.56%   |
-| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch       | 2        | 2.56%   |
-| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch  | 2        | 2.56%   |
-| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch          | 1        | 1.28%   |
-| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch            | 1        | 1.28%   |
-| ViewSonic LCD Monitor VP2468 Series 3520x1080                          | 1        | 1.28%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                  | 1        | 1.28%   |
-| Sony TV SNYF301 1920x1080                                              | 1        | 1.28%   |
-| Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                          | 1        | 1.28%   |
-| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
-| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch   | 1        | 1.28%   |
-| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch    | 1        | 1.28%   |
-| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1        | 1.28%   |
-| Samsung Electronics LCD Monitor SAM07C5 1920x1080 1020x570mm 46.0-inch | 1        | 1.28%   |
-| Samsung Electronics LCD Monitor S24D330 3840x1080                      | 1        | 1.28%   |
-| Samsung Electronics LCD Monitor S24D330                                | 1        | 1.28%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch      | 1        | 1.28%   |
-| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                 | 1        | 1.28%   |
-| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch               | 1        | 1.28%   |
-| PKB LCD Monitor Viseo223DX 1920x1080                                   | 1        | 1.28%   |
-| Philips PHL 436M6VBP PHLC179 3840x2160 941x529mm 42.5-inch             | 1        | 1.28%   |
-| Philips LCD Monitor FTV                                                | 1        | 1.28%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1        | 1.28%   |
-| Onkyo LCD Monitor TX-SR608 5760x2160                                   | 1        | 1.28%   |
-| Onkyo LCD Monitor TX-SR608                                             | 1        | 1.28%   |
-| Onkyo LCD Monitor AV Receiver 5760x2160                                | 1        | 1.28%   |
-| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                  | 1        | 1.28%   |
-| LG Electronics LCD Monitor LG HDR 4K 5760x2160                         | 1        | 1.28%   |
-| LG Electronics LCD Monitor LG FULL HD 1920x1080                        | 1        | 1.28%   |
-| LG Electronics LCD Monitor 23MB35 1920x1080                            | 1        | 1.28%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                  | 1        | 1.28%   |
-| Hewlett-Packard ZR2440w HWP2956 1920x1200 518x324mm 24.1-inch          | 1        | 1.28%   |
-| Hewlett-Packard w22 HWP26AE 1680x1050 470x300mm 22.0-inch              | 1        | 1.28%   |
-| Hewlett-Packard LP1965 HWP2693 1280x1024 380x300mm 19.1-inch           | 1        | 1.28%   |
-| HannStar HF225 HSP18BB 1920x1080 477x268mm 21.5-inch                   | 1        | 1.28%   |
-| Goldstar ULTRAWIDE GSM5A2A 2560x1080 677x290mm 29.0-inch               | 1        | 1.28%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 1        | 1.28%   |
-| Goldstar 22BK55 GSM5A30 1680x1050 480x300mm 22.3-inch                  | 1        | 1.28%   |
-| Eizo EV2436W ENC2384 1920x1200 519x324mm 24.1-inch                     | 1        | 1.28%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                   | 4        | 5.13%   |
+| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                 | 2        | 2.56%   |
+| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch      | 2        | 2.56%   |
+| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch | 2        | 2.56%   |
+| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch         | 1        | 1.28%   |
+| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch           | 1        | 1.28%   |
+| ViewSonic LCD Monitor VP2468 Series 3520x1080                         | 1        | 1.28%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                 | 1        | 1.28%   |
+| Sony TV SNYF301 1920x1080                                             | 1        | 1.28%   |
+| Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                         | 1        | 1.28%   |
+| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                    | 1        | 1.28%   |
+| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch  | 1        | 1.28%   |
+| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch   | 1        | 1.28%   |
+| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch     | 1        | 1.28%   |
+| Samsung Electronics LCD Monitor SAM07C5 1920x1080 890x500mm 40.2-inch | 1        | 1.28%   |
+| Samsung Electronics LCD Monitor S24D330 3840x1080                     | 1        | 1.28%   |
+| Samsung Electronics LCD Monitor S24D330                               | 1        | 1.28%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.28%   |
+| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                | 1        | 1.28%   |
+| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch              | 1        | 1.28%   |
+| PKB LCD Monitor Viseo223DX 1920x1080                                  | 1        | 1.28%   |
+| Philips PHL 436M6VBP PHLC179 3840x2160 941x529mm 42.5-inch            | 1        | 1.28%   |
+| Philips LCD Monitor FTV                                               | 1        | 1.28%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                    | 1        | 1.28%   |
+| Onkyo LCD Monitor TX-SR608 5760x2160                                  | 1        | 1.28%   |
+| Onkyo LCD Monitor TX-SR608                                            | 1        | 1.28%   |
+| Onkyo LCD Monitor AV Receiver 5760x2160                               | 1        | 1.28%   |
+| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                 | 1        | 1.28%   |
+| LG Electronics LCD Monitor LG HDR 4K 5760x2160                        | 1        | 1.28%   |
+| LG Electronics LCD Monitor LG FULL HD 1920x1080                       | 1        | 1.28%   |
+| LG Electronics LCD Monitor 23MB35 1920x1080                           | 1        | 1.28%   |
+| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch                 | 1        | 1.28%   |
+| Hewlett-Packard ZR2440w HWP2956 1920x1200 518x324mm 24.1-inch         | 1        | 1.28%   |
+| Hewlett-Packard w22 HWP26AE 1680x1050 470x300mm 22.0-inch             | 1        | 1.28%   |
+| Hewlett-Packard LP1965 HWP2693 1280x1024 380x300mm 19.1-inch          | 1        | 1.28%   |
+| HannStar HF225 HSP18BB 1920x1080 477x268mm 21.5-inch                  | 1        | 1.28%   |
+| Goldstar ULTRAWIDE GSM5A2A 2560x1080 677x290mm 29.0-inch              | 1        | 1.28%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 1.28%   |
+| Goldstar 22BK55 GSM5A30 1680x1050 480x300mm 22.3-inch                 | 1        | 1.28%   |
+| Eizo EV2436W ENC2384 1920x1200 519x324mm 24.1-inch                    | 1        | 1.28%   |
 
 Monitor Resolution
 ------------------
@@ -1950,10 +1950,10 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 14       | 21.88%  |
+| 201-250        | 15       | 23.44%  |
 | Unknown        | 13       | 20.31%  |
 | 301-350        | 10       | 15.63%  |
-| 151-200        | 10       | 15.63%  |
+| 151-200        | 9        | 14.06%  |
 | 141-150        | 5        | 7.81%   |
 | 251-300        | 4        | 6.25%   |
 | 501-1000       | 3        | 4.69%   |
@@ -2404,7 +2404,7 @@ Memory module models
 | Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s           | 1        | 2.56%   |
 | Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s          | 1        | 2.56%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s            | 1        | 2.56%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s            | 1        | 2.56%   |
+| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s         | 1        | 2.56%   |
 | Kingston RAM KHX2133C11D3/8GX 8192MB DIMM DDR3 2133MT/s      | 1        | 2.56%   |
 | Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s        | 1        | 2.56%   |
 | Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
@@ -2414,10 +2414,10 @@ Memory module models
 | Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s       | 1        | 2.56%   |
 | Kingston RAM 9905403-439.A00LF 4GB DIMM DDR3 1600MT/s        | 1        | 2.56%   |
 | Goodram RAM GY1600D364L10/8G 8192MB DIMM DDR3 1600MT/s       | 1        | 2.56%   |
-| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s           | 1        | 2.56%   |
+| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s        | 1        | 2.56%   |
 | G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s           | 1        | 2.56%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s          | 1        | 2.56%   |
-| G.Skill RAM F4-2133C15-8GNT 8GB DIMM DDR4 2133MT/s           | 1        | 2.56%   |
+| G.Skill RAM F4-2133C15-8GNT 8192MB DIMM DDR4 2133MT/s        | 1        | 2.56%   |
 | Crucial RAM CT51264BA1339.D16F 4GB DIMM DDR3 1333MT/s        | 1        | 2.56%   |
 | Corsair RAM CMZ32GX3M4A1600C9 8GB DIMM DDR3 1600MT/s         | 1        | 2.56%   |
 | Corsair RAM CMSO8GX4M1A2133C15 8GB SODIMM DDR4 2133MT/s      | 1        | 2.56%   |

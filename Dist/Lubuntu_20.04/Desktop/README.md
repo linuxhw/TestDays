@@ -896,8 +896,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 91       | 61.07%  |
-| No        | 58       | 38.93%  |
+| Yes       | 92       | 61.74%  |
+| No        | 57       | 38.26%  |
 
 Has Ethernet
 ------------
@@ -1237,12 +1237,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 109      | 168    | 61.93%  |
-| 0.51-1.0   | 47       | 86     | 26.7%   |
-| 1.01-2.0   | 11       | 15     | 6.25%   |
-| 3.01-4.0   | 4        | 12     | 2.27%   |
-| 2.01-3.0   | 4        | 4      | 2.27%   |
-| 4.01-10.0  | 1        | 1      | 0.57%   |
+| 0.01-0.5   | 110      | 169    | 62.15%  |
+| 0.51-1.0   | 47       | 85     | 26.55%  |
+| 1.01-2.0   | 11       | 15     | 6.21%   |
+| 3.01-4.0   | 4        | 12     | 2.26%   |
+| 2.01-3.0   | 4        | 4      | 2.26%   |
+| 4.01-10.0  | 1        | 1      | 0.56%   |
 
 Space Total
 -----------
@@ -1502,11 +1502,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 90       | 53.25%  |
-| IDE  | 61       | 36.09%  |
-| RAID | 9        | 5.33%   |
-| NVMe | 7        | 4.14%   |
-| SCSI | 2        | 1.18%   |
+| SATA | 90       | 53.57%  |
+| IDE  | 61       | 36.31%  |
+| RAID | 8        | 4.76%   |
+| NVMe | 7        | 4.17%   |
+| SCSI | 2        | 1.19%   |
 
 Processor
 ---------
@@ -1953,8 +1953,8 @@ Monitor models
 | Dell U2711 DELA057 2560x1440 597x336mm 27.0-inch                      | 2        | 1.35%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                     | 2        | 1.35%   |
 | Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch | 2        | 1.35%   |
-| ___ LCDTV16 ___0101 1360x768                                          | 1        | 0.68%   |
-| ___ LCD TV ___9000 1360x768                                           | 1        | 0.68%   |
+| ___ LCDTV16 ___9000 1360x768                                          | 1        | 0.68%   |
+| ___ LCDTV16 ___0101 1920x1080                                         | 1        | 0.68%   |
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch             | 1        | 0.68%   |
 | Vizio VL320M VIZ0050 1920x1080 698x393mm 31.5-inch                    | 1        | 0.68%   |
 | Vizio E421VO VIZ0090 1920x1080 930x530mm 42.1-inch                    | 1        | 0.68%   |
@@ -1970,7 +1970,7 @@ Monitor models
 | Sony SDM-S53 SNY2450 1024x768 304x228mm 15.0-inch                     | 1        | 0.68%   |
 | SHD 701Lite SHD02BD 1920x1080 110x62mm 5.0-inch                       | 1        | 0.68%   |
 | Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x291mm 29.5-inch        | 1        | 0.68%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch     | 1        | 0.68%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 0.68%   |
 | Samsung Electronics T24C300 SAM0A9B 1920x1080 530x300mm 24.0-inch     | 1        | 0.68%   |
 | Samsung Electronics SyncMaster SAM058C 1600x900 443x249mm 20.0-inch   | 1        | 0.68%   |
 | Samsung Electronics SyncMaster SAM052A 1920x1080 510x287mm 23.0-inch  | 1        | 0.68%   |
@@ -1981,7 +1981,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01D0 1600x1200 432x324mm 21.3-inch  | 1        | 0.68%   |
 | Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch  | 1        | 0.68%   |
 | Samsung Electronics SME1920N SAM06A3 1366x768 410x230mm 18.5-inch     | 1        | 0.68%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 0.68%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1        | 0.68%   |
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 0.68%   |
 | Samsung Electronics S22D300 SAM0B3B 1920x1080 477x268mm 21.5-inch     | 1        | 0.68%   |
 | Samsung Electronics LCD Monitor SyncMaster 1024x768                   | 1        | 0.68%   |
@@ -2236,7 +2236,7 @@ Controller models
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 0.45%   |
 | U-Blox GNSS receiver                                              | 1        | 0.45%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 0.45%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1        | 0.45%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 0.45%   |
 | Sitecom Europe WLA-2000 v1.001 WLAN [RTL8191SU]                   | 1        | 0.45%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 1        | 0.45%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 0.45%   |
@@ -2287,14 +2287,14 @@ Wireless models
 | Intel Wireless 7260                                            | 2        | 3.28%   |
 | ZyXEL ZyAIR G-202 802.11bg                                     | 1        | 1.64%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                    | 1        | 1.64%   |
-| TP-Link 802.11ac WLAN Adapter                                  | 1        | 1.64%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1        | 1.64%   |
 | Sitecom Europe WLA-2000 v1.001 WLAN [RTL8191SU]                | 1        | 1.64%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                | 1        | 1.64%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                         | 1        | 1.64%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                | 1        | 1.64%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter          | 1        | 1.64%   |
 | Realtek RTL8188EE Wireless Network Adapter                     | 1        | 1.64%   |
 | Realtek 802.11n NIC                                            | 1        | 1.64%   |
-| Realtek 802.11n                                                | 1        | 1.64%   |
 | Ralink RT5372 Wireless Adapter                                 | 1        | 1.64%   |
 | Ralink RT5370 Wireless Adapter                                 | 1        | 1.64%   |
 | Ralink RT2501/RT2573 Wireless Adapter                          | 1        | 1.64%   |
@@ -2491,8 +2491,8 @@ Controller models
 | Intel AX201 Bluetooth                               | 1        | 3.7%    |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1        | 3.7%    |
 | Broadcom Bluetooth Device                           | 1        | 3.7%    |
+| ASUS Bluetooth Device                               | 1        | 3.7%    |
 | ASUS BCM20702A0                                     | 1        | 3.7%    |
-| ASUS ASUS USB-BT500                                 | 1        | 3.7%    |
 
 Sound
 -----
@@ -2622,7 +2622,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 2        | 1.74%   |
 | Unknown RAM Module 2048MB DIMM 400MT/s                       | 2        | 1.74%   |
 | SK hynix RAM Module 2048MB DIMM DDR3 1066MT/s                | 2        | 1.74%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s          | 2        | 1.74%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s       | 2        | 1.74%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s           | 2        | 1.74%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1866MT/s                 | 1        | 0.87%   |
 | Unknown RAM Module 8192MB DIMM 667MT/s                       | 1        | 0.87%   |
@@ -2641,9 +2641,9 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR2                          | 1        | 0.87%   |
 | Unknown RAM Module 1024MB DIMM DDR 400MT/s                   | 1        | 0.87%   |
 | Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 0.87%   |
-| Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s            | 1        | 0.87%   |
+| Unifosa RAM GU512303EP0202 2048MB DIMM DDR3 1333MT/s         | 1        | 0.87%   |
 | Timetec RAM UD3-1600 8GB DIMM DDR3 1600MT/s                  | 1        | 0.87%   |
-| Timetec RAM SD3-1600 8192MB SODIMM DDR3                      | 1        | 0.87%   |
+| Timetec RAM SD3-1600 8GB SODIMM DDR3 1600MT/s                | 1        | 0.87%   |
 | Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2667MT/s           | 1        | 0.87%   |
 | SK hynix RAM Module 8192MB DIMM DDR4 2133MT/s                | 1        | 0.87%   |
 | SK hynix RAM HYMP525P72CP4-Y5 2048MB DIMM DDR2 667MT/s       | 1        | 0.87%   |
@@ -2657,7 +2657,7 @@ Memory module models
 | SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 3200MT/s         | 1        | 0.87%   |
 | SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s         | 1        | 0.87%   |
 | Samsung RAM Module 2GB DIMM DDR3 1066MT/s                    | 1        | 0.87%   |
-| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s        | 1        | 0.87%   |
+| Samsung RAM M471B5773DH0-CK0 2048MB SODIMM DDR3 1600MT/s     | 1        | 0.87%   |
 
 Memory Kind
 -----------
@@ -2837,7 +2837,7 @@ Camera device models
 | Z-Star Sirius USB2.0 Camera               | 1        | 5.56%   |
 | Sunplus Full HD webcam                    | 1        | 5.56%   |
 | SJ-180517-N 1080P Webcam                  | 1        | 5.56%   |
-| Samsung Galaxy series, misc. (MTP mode)   | 1        | 5.56%   |
+| Samsung Galaxy A5 (MTP)                   | 1        | 5.56%   |
 | Microsoft LifeCam HD-3000                 | 1        | 5.56%   |
 | Logitech QuickCam Zoom                    | 1        | 5.56%   |
 | Logitech HD Webcam C525                   | 1        | 5.56%   |
@@ -2893,8 +2893,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 122      | 83.56%  |
-| 1     | 21       | 14.38%  |
+| 0     | 123      | 84.25%  |
+| 1     | 20       | 13.7%   |
 | 2     | 3        | 2.05%   |
 
 Unsupported Device Types
@@ -2907,13 +2907,13 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 6        | 25%     |
-| Net/wireless             | 4        | 16.67%  |
-| Communication controller | 4        | 16.67%  |
-| Sound                    | 3        | 12.5%   |
-| Unassigned class         | 2        | 8.33%   |
-| Dvb card                 | 2        | 8.33%   |
-| Net/ethernet             | 1        | 4.17%   |
-| Multimedia controller    | 1        | 4.17%   |
-| Bluetooth                | 1        | 4.17%   |
+| Graphics card            | 5        | 21.74%  |
+| Net/wireless             | 4        | 17.39%  |
+| Communication controller | 4        | 17.39%  |
+| Sound                    | 3        | 13.04%  |
+| Unassigned class         | 2        | 8.7%    |
+| Dvb card                 | 2        | 8.7%    |
+| Net/ethernet             | 1        | 4.35%   |
+| Multimedia controller    | 1        | 4.35%   |
+| Bluetooth                | 1        | 4.35%   |
 

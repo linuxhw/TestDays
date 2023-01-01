@@ -1209,13 +1209,13 @@ Monitor models
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 6.67%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 6.67%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch   | 1        | 6.67%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch   | 1        | 6.67%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 6.67%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 6.67%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 6.67%   |
 | Goldstar ULTRAGEAR GSM5B73 1920x1080 531x298mm 24.0-inch            | 1        | 6.67%   |
 | Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 6.67%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 6.67%   |
-| Acer K222HQL ACR0512 1920x1080 476x268mm 21.5-inch                  | 1        | 6.67%   |
+| Acer K222HQL ACR0512 1920x1080 480x270mm 21.7-inch                  | 1        | 6.67%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 6.67%   |
 
 Monitor Resolution
@@ -1365,7 +1365,7 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 4%      |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 4%      |
-| Motorola PCS Moto E LTE                                           | 1        | 4%      |
+| Motorola PCS moto g play (2021)                                   | 1        | 4%      |
 | Intel Wireless-AC 9260                                            | 1        | 4%      |
 | Intel Wireless 8260                                               | 1        | 4%      |
 | Intel Wi-Fi 6 AX200                                               | 1        | 4%      |
@@ -1665,7 +1665,7 @@ Camera device vendors
 | Vendor        | Desktops | Percent |
 |---------------|----------|---------|
 | Logitech      | 1        | 50%     |
-| 2M UVC CAMERA | 1        | 50%     |
+| HD 2MP WEBCAM | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1675,10 +1675,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920         | 1        | 50%     |
-| 2M UVC CAMERA NexiGo N60 FHD Webcam | 1        | 50%     |
+| Model                       | Desktops | Percent |
+|-----------------------------|----------|---------|
+| Logitech HD Pro Webcam C920 | 1        | 50%     |
+| HD 2MP WEBCAM HD 2MP WEBCAM | 1        | 50%     |
 
 Security
 --------

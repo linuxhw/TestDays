@@ -618,11 +618,11 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2021 | 11        | 13.58%  |
-| 2020 | 11        | 13.58%  |
+| 2020 | 10        | 12.35%  |
 | 2012 | 9         | 11.11%  |
 | 2017 | 8         | 9.88%   |
 | 2011 | 8         | 9.88%   |
-| 2019 | 6         | 7.41%   |
+| 2019 | 7         | 8.64%   |
 | 2018 | 6         | 7.41%   |
 | 2016 | 5         | 6.17%   |
 | 2014 | 4         | 4.94%   |
@@ -947,7 +947,7 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-256G-1002 256GB  | 1         | 0.92%   |
 | WDC PC SN530 SDBPNPZ-1T00-1002 1TB    | 1         | 0.92%   |
 | Unknown SE32G  32GB                   | 1         | 0.92%   |
-| Unknown SD/MMC/MS PRO 8GB             | 1         | 0.92%   |
+| Unknown SD/MMC/MS PRO 64GB            | 1         | 0.92%   |
 | Unknown SD  128GB                     | 1         | 0.92%   |
 | Unknown ISOCOM  64GB                  | 1         | 0.92%   |
 | Toshiba MQ01ACF050 500GB              | 1         | 0.92%   |
@@ -964,7 +964,7 @@ Hard drive models
 | Seagate ST320LM001 HN-M320MBB 320GB   | 1         | 0.92%   |
 | Seagate ST2000LM003 HN-M201RAD 2TB    | 1         | 0.92%   |
 | Seagate ST1000LM035-1RK172 1TB        | 1         | 0.92%   |
-| Seagate BUP Slim BK 2TB               | 1         | 0.92%   |
+| Seagate BUP Slim BK 1TB               | 1         | 0.92%   |
 | SanDisk SDSSDH3 2T00 2TB              | 1         | 0.92%   |
 | SanDisk NVMe SSD Drive 256GB          | 1         | 0.92%   |
 
@@ -1059,9 +1059,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 48     | 64.52%  |
-| 0.51-1.0   | 19        | 20     | 30.65%  |
-| 1.01-2.0   | 3         | 3      | 4.84%   |
+| 0.01-0.5   | 40        | 47     | 63.49%  |
+| 0.51-1.0   | 21        | 22     | 33.33%  |
+| 1.01-2.0   | 2         | 2      | 3.17%   |
 
 Space Total
 -----------
@@ -1662,11 +1662,11 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC3652 1366x768 344x194mm 15.5-inch     | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch   | 1         | 1.15%   |
 | PANDA LCD Monitor NCP004B 1920x1080 344x194mm 15.5-inch                  | 1         | 1.15%   |
-| ONN 100002480 ONN0101 1920x1080 474x296mm 22.0-inch                      | 1         | 1.15%   |
+| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                     | 1         | 1.15%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch              | 1         | 1.15%   |
 | LG Display LCD Monitor LGD060F 1920x1080 309x174mm 14.0-inch             | 1         | 1.15%   |
-| LG Display LCD Monitor LGD0557 1920x1080 310x170mm 13.9-inch             | 1         | 1.15%   |
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 1         | 1.15%   |
+| LG Display LCD Monitor LGD0557 1920x1080 309x174mm 14.0-inch             | 1         | 1.15%   |
+| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 1.15%   |
 | LG Display LCD Monitor LGD045A 1366x768 293x165mm 13.2-inch              | 1         | 1.15%   |
 | LG Display LCD Monitor LGD0390 1600x900 382x215mm 17.3-inch              | 1         | 1.15%   |
 | LG Display LCD Monitor LGD032E 1366x768 345x194mm 15.6-inch              | 1         | 1.15%   |
@@ -1905,14 +1905,14 @@ Controller models
 | Broadcom BCM43224 802.11a/b/g/n                                   | 2         | 1.18%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1         | 0.59%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1         | 0.59%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1         | 0.59%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1         | 0.59%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 0.59%   |
 | Realtek RTL8723DE Wireless Network Adapter                        | 1         | 0.59%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1         | 0.59%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1         | 0.59%   |
 | Realtek RTL8191SEvA Wireless LAN Controller                       | 1         | 0.59%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 1         | 0.59%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1         | 0.59%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 0.59%   |
 
 Wireless Vendor
 ---------------
@@ -1971,14 +1971,14 @@ Wireless models
 | Broadcom BCM43224 802.11a/b/g/n                                         | 2         | 2.06%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                             | 1         | 1.03%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 1         | 1.03%   |
-| TP-Link 802.11ac WLAN Adapter                                           | 1         | 1.03%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 1         | 1.03%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                      | 1         | 1.03%   |
 | Realtek RTL8723DE Wireless Network Adapter                              | 1         | 1.03%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 1         | 1.03%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1         | 1.03%   |
 | Realtek RTL8191SEvA Wireless LAN Controller                             | 1         | 1.03%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 1.03%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.03%   |
-| Realtek 802.11n                                                         | 1         | 1.03%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                               | 1         | 1.03%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter              | 1         | 1.03%   |
 | Qualcomm Atheros AR9271 802.11n                                         | 1         | 1.03%   |
@@ -2037,7 +2037,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.41%   |
 | Nvidia MCP89 Ethernet                                             | 1         | 1.41%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 1.41%   |
-| MediaTek N152DL                                                   | 1         | 1.41%   |
+| MediaTek Infinix NOTE 11                                          | 1         | 1.41%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.41%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 1.41%   |
 | Intel Ethernet Connection (6) I219-V                              | 1         | 1.41%   |
@@ -2291,9 +2291,9 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 3         | 5%      |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 3.33%   |
 | SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 2         | 3.33%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 2         | 3.33%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 3.33%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 2         | 3.33%   |
+| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s         | 2         | 3.33%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 2         | 3.33%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 3.33%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 2         | 3.33%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s             | 2         | 3.33%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s            | 2         | 3.33%   |
@@ -2304,7 +2304,7 @@ Memory module models
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 1.67%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 1         | 1.67%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.67%   |
-| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s         | 1         | 1.67%   |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s           | 1         | 1.67%   |
@@ -2316,8 +2316,8 @@ Memory module models
 | Saikano RAM Memory 4GB SODIMM DDR3 1333MT/s                      | 1         | 1.67%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.67%   |
 | Ramaxel RAM RMT3170EB68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.67%   |
-| Ramaxel RAM RMSA3270ME86H9F-2666 4GB SODIMM DDR4 2667MT/s        | 1         | 1.67%   |
-| Micron RAM MTC8C1084S1SC48BA1 16GB SODIMM DDR5 4800MT/s          | 1         | 1.67%   |
+| Ramaxel RAM RMSA3270ME86H9F-2666 4096MB SODIMM DDR4 2667MT/s     | 1         | 1.67%   |
+| Micron RAM MTC8C1084S1SC48BA1 16GB SODIMM 4800MT/s               | 1         | 1.67%   |
 | Micron RAM Module 16GB SODIMM DDR4 3200MT/s                      | 1         | 1.67%   |
 | Micron RAM 8JSF25664HZ-1G4D1 2GB SODIMM DDR3 1334MT/s            | 1         | 1.67%   |
 | Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 1.67%   |
@@ -2327,7 +2327,7 @@ Memory module models
 | Micron RAM 16KTF1G64HZ-1G6P1 8GB SODIMM DDR3 1600MT/s            | 1         | 1.67%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s            | 1         | 1.67%   |
 | Kingston RAM KF3200C20S4/16GX 16GB SODIMM DDR4 3200MT/s          | 1         | 1.67%   |
-| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s             | 1         | 1.67%   |
+| Kingston RAM KF2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s          | 1         | 1.67%   |
 
 Memory Kind
 -----------
@@ -2481,7 +2481,7 @@ Camera device vendors
 | Lite-On Technology                     | 1         | 1.33%   |
 | Importek                               | 1         | 1.33%   |
 | Goertek Electronics                    | 1         | 1.33%   |
-| DJKANA19IDX53W                         | 1         | 1.33%   |
+| DJJHFA1BIF5595                         | 1         | 1.33%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.33%   |
 | Alcor Micro                            | 1         | 1.33%   |
 
@@ -2493,48 +2493,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Notebooks | Percent |
-|------------------------------------------|-----------|---------|
-| Chicony integrated camera                | 3         | 4%      |
-| Chicony HP Truevision HD                 | 3         | 4%      |
-| Acer HD Webcam                           | 3         | 4%      |
-| Sunplus Integrated_Webcam_HD             | 2         | 2.67%   |
-| Quanta HP TrueVision HD Camera           | 2         | 2.67%   |
-| IMC Networks USB2.0 VGA UVC WebCam       | 2         | 2.67%   |
-| IMC Networks USB2.0 HD UVC WebCam        | 2         | 2.67%   |
-| IMC Networks Integrated Camera           | 2         | 2.67%   |
-| Chicony USB2.0 Camera                    | 2         | 2.67%   |
-| Chicony TOSHIBA Web Camera - HD          | 2         | 2.67%   |
-| Chicony Integrated Camera [ThinkPad]     | 2         | 2.67%   |
-| Chicony HD User Facing                   | 2         | 2.67%   |
-| Apple iPhone 5/5C/5S/6/SE                | 2         | 2.67%   |
-| Apple Built-in iSight                    | 2         | 2.67%   |
-| Acer SunplusIT Integrated Camera         | 2         | 2.67%   |
-| USB Camera USB Camera                    | 1         | 1.33%   |
-| Syntek Lenovo EasyCamera                 | 1         | 1.33%   |
-| Syntek Integrated Camera                 | 1         | 1.33%   |
-| Suyin Acer CrystalEye Webcam             | 1         | 1.33%   |
-| Sunplus FHD Camera Microphone            | 1         | 1.33%   |
-| Silicon Motion WebCam SC-13HDL11939N     | 1         | 1.33%   |
-| Ricoh HD Webcam                          | 1         | 1.33%   |
-| Realtek Integrated_Webcam_HD             | 1         | 1.33%   |
-| Realtek Integrated Webcam                | 1         | 1.33%   |
-| Realtek Integrated Camera                | 1         | 1.33%   |
-| Realtek HP Webcam                        | 1         | 1.33%   |
-| Quanta VGA WebCam                        | 1         | 1.33%   |
-| Quanta HD User Facing                    | 1         | 1.33%   |
-| Primax HP HD Webcam [Fixed]              | 1         | 1.33%   |
-| Microdia Webcam Vitade AF                | 1         | 1.33%   |
-| Microdia PC Microscope camera            | 1         | 1.33%   |
-| Microdia Laptop_Integrated_Webcam_HD     | 1         | 1.33%   |
-| Microdia Laptop_Integrated_Webcam_2M     | 1         | 1.33%   |
-| Microdia Integrated_Webcam_HD            | 1         | 1.33%   |
-| Microdia Integrated Webcam               | 1         | 1.33%   |
-| Microdia HP Integrated Webcam            | 1         | 1.33%   |
-| Luxvisions Innotech Limited HP HD Camera | 1         | 1.33%   |
-| Lite-On HP HD Camera                     | 1         | 1.33%   |
-| Importek TOSHIBA Web Camera - HD         | 1         | 1.33%   |
-| IMC Networks USB Camera                  | 1         | 1.33%   |
+| Model                                                | Notebooks | Percent |
+|------------------------------------------------------|-----------|---------|
+| Chicony integrated camera                            | 3         | 4%      |
+| Chicony HP Truevision HD                             | 3         | 4%      |
+| Acer HD Webcam                                       | 3         | 4%      |
+| Sunplus Integrated_Webcam_HD                         | 2         | 2.67%   |
+| Quanta HP TrueVision HD Camera                       | 2         | 2.67%   |
+| IMC Networks USB2.0 VGA UVC WebCam                   | 2         | 2.67%   |
+| IMC Networks USB2.0 HD UVC WebCam                    | 2         | 2.67%   |
+| IMC Networks Integrated Camera                       | 2         | 2.67%   |
+| Chicony USB2.0 Camera                                | 2         | 2.67%   |
+| Chicony TOSHIBA Web Camera - HD                      | 2         | 2.67%   |
+| Chicony Integrated Camera [ThinkPad]                 | 2         | 2.67%   |
+| Chicony HD User Facing                               | 2         | 2.67%   |
+| Apple iPhone5/5C/5S/6                                | 2         | 2.67%   |
+| Apple Built-in iSight                                | 2         | 2.67%   |
+| Acer SunplusIT Integrated Camera                     | 2         | 2.67%   |
+| USB Camera USB Camera                                | 1         | 1.33%   |
+| Syntek Lenovo EasyCamera                             | 1         | 1.33%   |
+| Syntek Integrated Camera                             | 1         | 1.33%   |
+| Suyin Acer CrystalEye Webcam                         | 1         | 1.33%   |
+| Sunplus SPCA2650 AV Camera                           | 1         | 1.33%   |
+| Silicon Motion WebCam SC-13HDL11939N                 | 1         | 1.33%   |
+| Ricoh HD Webcam                                      | 1         | 1.33%   |
+| Realtek Integrated_Webcam_HD                         | 1         | 1.33%   |
+| Realtek Integrated Webcam                            | 1         | 1.33%   |
+| Realtek Integrated Camera                            | 1         | 1.33%   |
+| Realtek HP Webcam                                    | 1         | 1.33%   |
+| Quanta VGA WebCam                                    | 1         | 1.33%   |
+| Quanta HD User Facing                                | 1         | 1.33%   |
+| Primax HP HD Webcam [Fixed]                          | 1         | 1.33%   |
+| Microdia Webcam Vitade AF                            | 1         | 1.33%   |
+| Microdia USB 2.0 Camera                              | 1         | 1.33%   |
+| Microdia PC Microscope camera                        | 1         | 1.33%   |
+| Microdia Laptop_Integrated_Webcam_HD                 | 1         | 1.33%   |
+| Microdia Laptop_Integrated_Webcam_2M                 | 1         | 1.33%   |
+| Microdia Integrated_Webcam_HD                        | 1         | 1.33%   |
+| Microdia Integrated Webcam                           | 1         | 1.33%   |
+| Luxvisions Innotech Limited HP Wide Vision HD Camera | 1         | 1.33%   |
+| Lite-On HP HD Camera                                 | 1         | 1.33%   |
+| Importek TOSHIBA Web Camera - HD                     | 1         | 1.33%   |
+| IMC Networks USB Camera                              | 1         | 1.33%   |
 
 Security
 --------
