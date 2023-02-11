@@ -912,7 +912,7 @@ Hard drive models
 | Samsung HM250HI 250GB              | 1        | 1.61%   |
 | Samsung HD161HJ 160GB              | 1        | 1.61%   |
 | Samsung HD103SJ 1TB                | 1        | 1.61%   |
-| Samsung HD080HJ/ 80GB              | 1        | 1.61%   |
+| Samsung HD080HJ 80GB               | 1        | 1.61%   |
 | PNY CS900 1TB SSD                  | 1        | 1.61%   |
 | Plextor PX-128M5M 128GB SSD        | 1        | 1.61%   |
 | Maxtor STM3160215AS 160GB          | 1        | 1.61%   |
@@ -1572,11 +1572,11 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.5%    |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.5%    |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch   | 1        | 2.5%    |
+| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch  | 1        | 2.5%    |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.5%    |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.5%    |
 | SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                     | 1        | 2.5%    |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1        | 2.5%    |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch      | 1        | 2.5%    |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 2.5%    |
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch      | 1        | 2.5%    |
 | Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch   | 1        | 2.5%    |
@@ -1597,10 +1597,10 @@ Monitor models
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.5%    |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.5%    |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.5%    |
-| Dell U2410 DELF016 1920x1200 520x320mm 24.0-inch                       | 1        | 2.5%    |
+| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 1        | 2.5%    |
+| Dell S2722DGM DEL423A 2560x1440 597x336mm 27.0-inch                    | 1        | 2.5%    |
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.5%    |
 | Dell LCD Monitor ST2220L                                               | 1        | 2.5%    |
-| Dell LCD Monitor DEL423A 2560x1440 600x340mm 27.2-inch                 | 1        | 2.5%    |
 | BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                      | 1        | 2.5%    |
 | BenQ EW2775ZH BNQ7944 1920x1080 598x336mm 27.0-inch                    | 1        | 2.5%    |
 | ASUSTek Computer VC279 AUS27C4 1920x1080 598x336mm 27.0-inch           | 1        | 2.5%    |
@@ -2133,7 +2133,7 @@ Memory module models
 | Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                   | 1        | 5.56%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                                  | 1        | 5.56%   |
 | Kingston RAM 9905734-018.A00G 16384MB DIMM DDR4 2667MT/s                   | 1        | 5.56%   |
-| Kingston RAM 9905471-011.A00LF 4096MB DIMM DDR3 1600MT/s                   | 1        | 5.56%   |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s                      | 1        | 5.56%   |
 | Kingston RAM 202020202020202020202020202020202020 2048MB DIMM DDR2 800MT/s | 1        | 5.56%   |
 | G.Skill RAM F3-19200C10-8GBZHD 8192MB DIMM DDR3 1333MT/s                   | 1        | 5.56%   |
 | Crucial RAM CT25664A 2GB DIMM DDR2 800MT/s                                 | 1        | 5.56%   |

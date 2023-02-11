@@ -774,7 +774,6 @@ Geographic location (city)
 | Swindon               | 2         | 6.06%   |
 | Mesa                  | 2         | 6.06%   |
 | Drobeta-Turnu Severin | 2         | 6.06%   |
-| Tranas                | 1         | 3.03%   |
 | Tellico Plains        | 1         | 3.03%   |
 | Sosnowiec             | 1         | 3.03%   |
 | Singapore             | 1         | 3.03%   |
@@ -790,6 +789,7 @@ Geographic location (city)
 | Ljubljana             | 1         | 3.03%   |
 | Las Vegas             | 1         | 3.03%   |
 | Klaudyn               | 1         | 3.03%   |
+| Jönköping           | 1         | 3.03%   |
 | Indianapolis          | 1         | 3.03%   |
 | Gijón                | 1         | 3.03%   |
 | Fulham                | 1         | 3.03%   |
@@ -823,11 +823,12 @@ Hard drive vendors
 | KESU                | 2         | 2      | 5.56%   |
 | HGST                | 2         | 2      | 5.56%   |
 | China               | 2         | 2      | 5.56%   |
-| Unknown             | 2         | 2      | 5.56%   |
 | Silicon Motion      | 1         | 1      | 2.78%   |
 | Phison              | 1         | 1      | 2.78%   |
+| KingSpec            | 1         | 1      | 2.78%   |
 | Fujitsu             | 1         | 1      | 2.78%   |
 | A-DATA Technology   | 1         | 1      | 2.78%   |
+| Unknown             | 1         | 1      | 2.78%   |
 
 Drive Model
 -----------
@@ -841,7 +842,6 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Samsung SSD 850 EVO 250GB            | 2         | 5.56%   |
 | KESU USB 3.1 256GB                   | 2         | 5.56%   |
-| Unknown                              | 2         | 5.56%   |
 | WDC WD5000LPCX-60VHAT0 500GB         | 1         | 2.78%   |
 | WDC WD3200BEVT-22ZCT0 320GB          | 1         | 2.78%   |
 | WDC WD3200BEVT-22A23T0 320GB         | 1         | 2.78%   |
@@ -849,7 +849,7 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-512G-1006 512GB | 1         | 2.78%   |
 | Unknown USDU1  32GB                  | 1         | 2.78%   |
 | Unknown SLD64G  64GB                 | 1         | 2.78%   |
-| Unknown SD/MMC/MS PRO 64GB           | 1         | 2.78%   |
+| Unknown SD/MMC/MS PRO 2GB            | 1         | 2.78%   |
 | Unknown MMC Card  64GB               | 1         | 2.78%   |
 | Unknown 064G38  64GB                 | 1         | 2.78%   |
 | Toshiba MK8025GAS 80GB               | 1         | 2.78%   |
@@ -863,6 +863,7 @@ Hard drive models
 | Phison APS-SE20G-1T                  | 1         | 2.78%   |
 | Kingston SV300S37A60G 64GB SSD       | 1         | 2.78%   |
 | Kingston SA400S37240G 240GB SSD      | 1         | 2.78%   |
+| KingSpec KSD-PA25.6-064MS 64GB SSD   | 1         | 2.78%   |
 | Hitachi HTS545032B9A300 320GB        | 1         | 2.78%   |
 | Hitachi HTS543225L9SA00 250GB        | 1         | 2.78%   |
 | Hitachi DK23CA-20 20GB               | 1         | 2.78%   |
@@ -872,6 +873,7 @@ Hard drive models
 | China SSD128GBS800                   | 1         | 2.78%   |
 | China SATA SSD 240GB                 | 1         | 2.78%   |
 | A-DATA SU630 240GB SSD               | 1         | 2.78%   |
+| Unknown                              | 1         | 2.78%   |
 
 HDD Vendor
 ----------
@@ -905,8 +907,9 @@ Solid state drive vendors
 | Samsung Electronics | 2         | 2      | 18.18%  |
 | Kingston            | 2         | 2      | 18.18%  |
 | China               | 2         | 2      | 18.18%  |
-| Unknown             | 2         | 2      | 18.18%  |
+| KingSpec            | 1         | 1      | 9.09%   |
 | A-DATA Technology   | 1         | 1      | 9.09%   |
+| Unknown             | 1         | 1      | 9.09%   |
 
 Drive Kind
 ----------
@@ -1498,7 +1501,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3633 1280x800 331x207mm 15.4-inch   | 1         | 3.57%   |
 | Samsung Electronics LCD Monitor SEC315A 1366x768 344x194mm 15.5-inch   | 1         | 3.57%   |
 | Samsung Electronics LCD Monitor SEC3051 1600x900 390x230mm 17.8-inch   | 1         | 3.57%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch   | 1         | 3.57%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch   | 1         | 3.57%   |
 | Samsung Electronics LCD Monitor SAM069B 1920x1080 1020x570mm 46.0-inch | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0258 1600x900 345x194mm 15.6-inch            | 1         | 3.57%   |
 | Hewlett-Packard Z24i HWP3100 1920x1200 518x324mm 24.1-inch             | 1         | 3.57%   |
@@ -1509,14 +1512,14 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch        | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 344x193mm 15.5-inch        | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch        | 1         | 3.57%   |
-| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x193mm 15.5-inch        | 1         | 3.57%   |
+| Chimei Innolux LCD Monitor CMN15BE 1366x768 344x194mm 15.5-inch        | 1         | 3.57%   |
 | BOE LCD Monitor BOE05B1 1366x768 309x173mm 13.9-inch                   | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO3791 1920x1080 344x194mm 15.5-inch         | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO315D 1920x1080 256x144mm 11.6-inch         | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO315C 1366x768 256x144mm 11.6-inch          | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO226D 1920x1080 276x155mm 12.5-inch         | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO2174 1280x800 331x207mm 15.4-inch          | 1         | 3.57%   |
-| AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch          | 1         | 3.57%   |
+| AU Optronics LCD Monitor AUO139E 1600x900 380x210mm 17.1-inch          | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO12EC 1366x768 344x193mm 15.5-inch          | 1         | 3.57%   |
 
 Monitor Resolution
@@ -1690,15 +1693,15 @@ Controller models
 | Silicon Integrated Systems [SiS] AC'97 Modem Controller                     | 1         | 1.59%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter               | 1         | 1.59%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                    | 1         | 1.59%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                  | 1         | 1.59%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                                 | 1         | 1.59%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                         | 1         | 1.59%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                  | 1         | 1.59%   |
 | Realtek RTL-8110SC/8169SC Gigabit Ethernet                                  | 1         | 1.59%   |
-| Realtek 802.11n WLAN Adapter                                                | 1         | 1.59%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                  | 1         | 1.59%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                  | 1         | 1.59%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                            | 1         | 1.59%   |
-| Motorola PCS moto g(9) play                                                 | 1         | 1.59%   |
+| Motorola PCS motorola one 5G ace                                            | 1         | 1.59%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                     | 1         | 1.59%   |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)                         | 1         | 1.59%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                      | 1         | 1.59%   |
@@ -1747,10 +1750,10 @@ Wireless models
 | Intel Wi-Fi 6 AX200                                                         | 2         | 6.67%   |
 | Intel PRO/Wireless 3945ABG [Golan] Network Connection                       | 2         | 6.67%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                    | 1         | 3.33%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                  | 1         | 3.33%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                                 | 1         | 3.33%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                         | 1         | 3.33%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                  | 1         | 3.33%   |
-| Realtek 802.11n WLAN Adapter                                                | 1         | 3.33%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                  | 1         | 3.33%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                  | 1         | 3.33%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                            | 1         | 3.33%   |
@@ -1797,7 +1800,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 3.45%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 3.45%   |
 | Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1         | 3.45%   |
-| Motorola PCS moto g(9) play                                       | 1         | 3.45%   |
+| Motorola PCS motorola one 5G ace                                  | 1         | 3.45%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 3.45%   |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)               | 1         | 3.45%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 1         | 3.45%   |
@@ -1996,7 +1999,7 @@ Memory module models
 |------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM DDR2                               | 4         | 11.11%  |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 5.56%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 2         | 5.56%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.56%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 5.56%   |
 | Unknown RAM Module 512MB SODIMM SDRAM                            | 1         | 2.78%   |
 | Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s                   | 1         | 2.78%   |
@@ -2008,17 +2011,17 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR                                | 1         | 2.78%   |
 | Unknown RAM Module 1GB DIMM DDR3 1333MT/s                        | 1         | 2.78%   |
 | Unknown RAM CL19-19-19 D4-2666 8GB SODIMM DDR4 2133MT/s          | 1         | 2.78%   |
-| Toshiba RAM 8HTF12864HDY-800G1 4GB SODIMM 1066MT/s               | 1         | 2.78%   |
-| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM DDR2 1066MT/s           | 1         | 2.78%   |
+| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s               | 1         | 2.78%   |
+| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s                | 1         | 2.78%   |
 | SK hynix RAM Module 2048MB SODIMM DDR3 1600MT/s                  | 1         | 2.78%   |
-| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 800MT/s         | 1         | 2.78%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s            | 1         | 2.78%   |
 | SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.78%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2400MT/s           | 1         | 2.78%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s            | 1         | 2.78%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.78%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 2.78%   |
 | Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s           | 1         | 2.78%   |
-| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s            | 1         | 2.78%   |
+| Samsung RAM M4 70T5663EH3-CF7 2048MB SODIMM DDR2 975MT/s         | 1         | 2.78%   |
 | Micron RAM MT52L256M32D1PF-10 2GB LPDDR3 1867MT/s                | 1         | 2.78%   |
 | Kingston RAM HP32D4S2S1ME-4 4GB SODIMM DDR4 3200MT/s             | 1         | 2.78%   |
 | Kingston RAM 99U5428-041.A01G 4GB SODIMM DDR3 1067MT/s           | 1         | 2.78%   |
@@ -2184,7 +2187,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam (UVC)         | 1         | 5.26%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 1         | 5.26%   |
 | ALi M5603 Video Camera Controller                           | 1         | 5.26%   |
-| Alcor Micro USB 2.0 Camera                                  | 1         | 5.26%   |
+| Alcor Micro USB Camera                                      | 1         | 5.26%   |
 | Acer HP Webcam-101                                          | 1         | 5.26%   |
 | Acer EasyCamera                                             | 1         | 5.26%   |
 

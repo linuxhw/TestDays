@@ -809,8 +809,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 86        | 73.5%   |
-| Yes       | 31        | 26.5%   |
+| No        | 85        | 72.03%  |
+| Yes       | 33        | 27.97%  |
 
 Has Ethernet
 ------------
@@ -1147,8 +1147,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 62        | 88     | 62.63%  |
-| 0.51-1.0   | 30        | 33     | 30.3%   |
+| 0.01-0.5   | 61        | 86     | 61.62%  |
+| 0.51-1.0   | 31        | 35     | 31.31%  |
 | 1.01-2.0   | 7         | 10     | 7.07%   |
 
 Space Total
@@ -1391,9 +1391,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 66        | 46.48%  |
+| SATA | 67        | 47.18%  |
 | NVMe | 39        | 27.46%  |
-| RAID | 19        | 13.38%  |
+| RAID | 18        | 12.68%  |
 | IDE  | 18        | 12.68%  |
 
 Processor
@@ -1803,16 +1803,16 @@ Monitor models
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch               | 1         | 0.8%    |
 | Unknown LCD Monitor SAMSUNG 3840x1080                                   | 1         | 0.8%    |
 | Unknown (AAA) LCDTV AAA0042 1360x768 890x500mm 40.2-inch                | 1         | 0.8%    |
-| Toshiba TV TSB0105 1920x540 708x398mm 32.0-inch                         | 1         | 0.8%    |
+| Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch                        | 1         | 0.8%    |
 | Toshiba TSB-TV TSB0205 1920x1080 531x398mm 26.1-inch                    | 1         | 0.8%    |
 | STD LCD Monitor STD0001 1920x1080                                       | 1         | 0.8%    |
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch    | 1         | 0.8%    |
-| Samsung Electronics SMT24A550 SAM07B5 1920x1080 530x300mm 24.0-inch     | 1         | 0.8%    |
+| Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch     | 1         | 0.8%    |
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch       | 1         | 0.8%    |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch       | 1         | 0.8%    |
-| Samsung Electronics LCD Monitor SEC4145 1366x768 310x170mm 13.9-inch    | 1         | 0.8%    |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1         | 0.8%    |
+| Samsung Electronics LCD Monitor SEC4145 1366x768 309x174mm 14.0-inch    | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch   | 1         | 0.8%    |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch    | 1         | 0.8%    |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch    | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 277x156mm 12.5-inch    | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SDC4156 1920x1080 294x165mm 13.3-inch   | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SDC3652 1366x768 344x194mm 15.5-inch    | 1         | 0.8%    |
@@ -1821,8 +1821,8 @@ Monitor models
 | Plain Tree Systems Monitor PTS0899 1680x1050 474x296mm 22.0-inch        | 1         | 0.8%    |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch                | 1         | 0.8%    |
 | PANDA LCD Monitor NCP004B 1920x1080 344x194mm 15.5-inch                 | 1         | 0.8%    |
-| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch             | 1         | 0.8%    |
-| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                    | 1         | 0.8%    |
+| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch            | 1         | 0.8%    |
+| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                     | 1         | 0.8%    |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch             | 1         | 0.8%    |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch             | 1         | 0.8%    |
 | LG Display LCD Monitor LGD060F 1920x1080 309x174mm 14.0-inch            | 1         | 0.8%    |
@@ -2225,7 +2225,7 @@ Ethernet models
 | Nvidia MCP79 Ethernet                                             | 1         | 0.93%   |
 | Nvidia MCP61 Ethernet                                             | 1         | 0.93%   |
 | MediaTek TECNO CAMON 18P                                          | 1         | 0.93%   |
-| MediaTek Infinix NOTE 11                                          | 1         | 0.93%   |
+| MediaTek File-CD Gadget                                           | 1         | 0.93%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 0.93%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 0.93%   |
 | Intel Ethernet Connection I217-V                                  | 1         | 0.93%   |
@@ -2341,7 +2341,7 @@ Controller models
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 14        | 16.87%  |
-| Intel AX201 Bluetooth                                                               | 11        | 13.25%  |
+| Intel Bluetooth Device                                                              | 12        | 14.46%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 7         | 8.43%   |
 | Realtek Bluetooth Radio                                                             | 5         | 6.02%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 4         | 4.82%   |
@@ -2364,11 +2364,10 @@ Controller models
 | Marvell Bluetooth and Wireless LAN Composite Device                                 | 1         | 1.2%    |
 | Marvell Bluetooth and Wireless LAN Composite                                        | 1         | 1.2%    |
 | Lite-On Wireless_Device                                                             | 1         | 1.2%    |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 1         | 1.2%    |
+| Lite-On Bluetooth Device                                                            | 1         | 1.2%    |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 1.2%    |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 1.2%    |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 1.2%    |
-| Intel Bluetooth Device                                                              | 1         | 1.2%    |
 | IMC Networks Bluetooth Device                                                       | 1         | 1.2%    |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 1.2%    |
 | Foxconn / Hon Hai Broadcom BCM20702 Bluetooth                                       | 1         | 1.2%    |
@@ -2495,8 +2494,8 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 3         | 3.41%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 2.27%   |
 | SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 2         | 2.27%   |
-| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s         | 2         | 2.27%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 2         | 2.27%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 2         | 2.27%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 2.27%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.27%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 2         | 2.27%   |
 | Samsung RAM K4AAG165WA-BCWE 8GB SODIMM DDR4 3200MT/s             | 2         | 2.27%   |
@@ -2519,7 +2518,7 @@ Memory module models
 | Silicon Power RAM SP016GBLFU266B02 16GB DIMM DDR4 2667MT/s       | 1         | 1.14%   |
 | Samsung RAM UBE3D4AA-MGCR 2048MB Row Of Chips LPDDR4 4267MT/s    | 1         | 1.14%   |
 | Samsung RAM Module 4GB Row Of Chips LPDDR3 1867MT/s              | 1         | 1.14%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.14%   |
+| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s         | 1         | 1.14%   |
 | Samsung RAM M471A5644EB0-CRC 2GB SODIMM DDR4 2400MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 1.14%   |
@@ -2529,9 +2528,9 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
 | Samsung RAM M471A1K43BB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.14%   |
-| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s            | 1         | 1.14%   |
+| Samsung RAM M4 70T5663EH3-CF7 2048MB SODIMM DDR2 975MT/s         | 1         | 1.14%   |
 | Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s              | 1         | 1.14%   |
-| Samsung RAM M378B5273DH0-CK0 4096MB DIMM DDR3 2200MT/s           | 1         | 1.14%   |
+| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s              | 1         | 1.14%   |
 
 Memory Kind
 -----------
@@ -2683,20 +2682,19 @@ Camera device vendors
 | Quanta                                 | 5         | 5.81%   |
 | Sunplus Innovation Technology          | 3         | 3.49%   |
 | Syntek                                 | 2         | 2.33%   |
+| Luxvisions Innotech Limited            | 2         | 2.33%   |
 | Logitech                               | 2         | 2.33%   |
-| USB Camera                             | 1         | 1.16%   |
 | Teslong Camera                         | 1         | 1.16%   |
 | Suyin                                  | 1         | 1.16%   |
 | Silicon Motion                         | 1         | 1.16%   |
 | Ricoh                                  | 1         | 1.16%   |
 | Primax Electronics                     | 1         | 1.16%   |
 | Microsoft                              | 1         | 1.16%   |
-| Luxvisions Innotech Limited            | 1         | 1.16%   |
 | Lite-On Technology                     | 1         | 1.16%   |
 | Jieli Technology                       | 1         | 1.16%   |
 | Importek                               | 1         | 1.16%   |
+| icSpring                               | 1         | 1.16%   |
 | Goertek Electronics                    | 1         | 1.16%   |
-| DJJHFA1BIF5595                         | 1         | 1.16%   |
 | Creative Technology                    | 1         | 1.16%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.16%   |
 | Alcor Micro                            | 1         | 1.16%   |
@@ -2723,15 +2721,14 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD      | 2         | 2.3%    |
 | Chicony Integrated Camera [ThinkPad] | 2         | 2.3%    |
 | Chicony HD User Facing               | 2         | 2.3%    |
-| Apple iPhone5/5C/5S/6                | 2         | 2.3%    |
+| Apple iPhone 5/5C/5S/6/SE            | 2         | 2.3%    |
 | Apple Built-in iSight                | 2         | 2.3%    |
 | Acer SunplusIT Integrated Camera     | 2         | 2.3%    |
-| USB Camera USB Camera                | 1         | 1.15%   |
 | Teslong Camera                       | 1         | 1.15%   |
 | Syntek Lenovo EasyCamera             | 1         | 1.15%   |
 | Syntek Integrated Camera             | 1         | 1.15%   |
 | Suyin Acer CrystalEye Webcam         | 1         | 1.15%   |
-| Sunplus SPCA2650 AV Camera           | 1         | 1.15%   |
+| Sunplus FHD Camera Microphone        | 1         | 1.15%   |
 | Silicon Motion WebCam SC-13HDL11939N | 1         | 1.15%   |
 | Ricoh HD Webcam                      | 1         | 1.15%   |
 | Realtek USB Camera                   | 1         | 1.15%   |
@@ -2747,10 +2744,11 @@ Camera device models
 | Microsoft LifeCam Rear               | 1         | 1.15%   |
 | Microsoft LifeCam Front              | 1         | 1.15%   |
 | Microdia Webcam Vitade AF            | 1         | 1.15%   |
-| Microdia USB 2.0 Camera              | 1         | 1.15%   |
 | Microdia PC Microscope camera        | 1         | 1.15%   |
 | Microdia Laptop_Integrated_Webcam_HD | 1         | 1.15%   |
 | Microdia Laptop_Integrated_Webcam_2M | 1         | 1.15%   |
+| Microdia Integrated_Webcam_HD        | 1         | 1.15%   |
+| Microdia Integrated Webcam           | 1         | 1.15%   |
 
 Security
 --------

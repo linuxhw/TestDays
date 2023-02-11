@@ -721,8 +721,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 25        | 64.1%   |
-| Yes       | 14        | 35.9%   |
+| No        | 26        | 66.67%  |
+| Yes       | 13        | 33.33%  |
 
 Has Ethernet
 ------------
@@ -896,7 +896,7 @@ Hard drive models
 | Intel NVMe SSD Drive 512GB             | 2         | 3.7%    |
 | HGST HTS721010A9E630 1TB               | 2         | 3.7%    |
 | WDC WD2500BPVT-00JJ5T0 250GB           | 1         | 1.85%   |
-| Unknown SD/MMC/MS PRO 64GB             | 1         | 1.85%   |
+| Unknown SD/MMC/MS PRO 2GB              | 1         | 1.85%   |
 | Unknown SB128  128GB                   | 1         | 1.85%   |
 | Unknown SA04G  4GB                     | 1         | 1.85%   |
 | Unknown MMC Card  32GB                 | 1         | 1.85%   |
@@ -1597,7 +1597,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch            | 1         | 2.38%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                   | 1         | 2.38%   |
 | Apple Color LCD APP9CF0 1440x900 290x180mm 13.4-inch                     | 1         | 2.38%   |
-| Acer X223W ACR000D 1680x1050 470x300mm 22.0-inch                         | 1         | 2.38%   |
+| Acer X223W ACR000D 1680x1050 474x296mm 22.0-inch                         | 1         | 2.38%   |
 
 Monitor Resolution
 ------------------
@@ -1770,20 +1770,20 @@ Controller models
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 1.28%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.28%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.28%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 1         | 1.28%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 1         | 1.28%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                                                   | 1         | 1.28%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1         | 1.28%   |
 | Realtek Killer E3000 2.5GbE Controller                                                        | 1         | 1.28%   |
-| Realtek 802.11n WLAN Adapter                                                                  | 1         | 1.28%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 1.28%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1         | 1.28%   |
-| Qualcomm MegaFon M150-4                                                                       | 1         | 1.28%   |
+| Qualcomm FP3                                                                                  | 1         | 1.28%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 1.28%   |
 | Qualcomm Atheros QCA6164 802.11ac Wireless Network Adapter                                    | 1         | 1.28%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                                     | 1         | 1.28%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1         | 1.28%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                                      | 1         | 1.28%   |
-| Motorola PCS moto g(9) play                                                                   | 1         | 1.28%   |
+| Motorola PCS motorola one 5G ace                                                              | 1         | 1.28%   |
 | Intel Wireless 8265 / 8275                                                                    | 1         | 1.28%   |
 | Intel Wireless 8260                                                                           | 1         | 1.28%   |
 | Intel WiMAX Connection 2400m                                                                  | 1         | 1.28%   |
@@ -1837,10 +1837,10 @@ Wireless models
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 2.33%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 2.33%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 2.33%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 1         | 2.33%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 1         | 2.33%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                                                   | 1         | 2.33%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1         | 2.33%   |
-| Realtek 802.11n WLAN Adapter                                                                  | 1         | 2.33%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 2.33%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1         | 2.33%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 2.33%   |
@@ -1889,10 +1889,10 @@ Ethernet models
 | Intel Ethernet Connection I218-LM                                 | 2         | 5.71%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 5.71%   |
 | Realtek Killer E3000 2.5GbE Controller                            | 1         | 2.86%   |
-| Qualcomm MegaFon M150-4                                           | 1         | 2.86%   |
+| Qualcomm FP3                                                      | 1         | 2.86%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 2.86%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 2.86%   |
-| Motorola PCS moto g(9) play                                       | 1         | 2.86%   |
+| Motorola PCS motorola one 5G ace                                  | 1         | 2.86%   |
 | Intel WiMAX Connection 2400m                                      | 1         | 2.86%   |
 | Intel Ethernet controller                                         | 1         | 2.86%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 2.86%   |
@@ -1993,13 +1993,14 @@ Controller models
 | IMC Networks Wireless_Device                        | 3         | 10%     |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 10%     |
 | Realtek Bluetooth Radio                             | 2         | 6.67%   |
-| Realtek Bluetooth Radio                             | 2         | 6.67%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 3.33%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 3.33%   |
+| Realtek Bluetooth Radio                             | 1         | 3.33%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 3.33%   |
 | Lite-On Bluetooth Device                            | 1         | 3.33%   |
+| Intel Bluetooth Device                              | 1         | 3.33%   |
 | Intel AX210 Bluetooth                               | 1         | 3.33%   |
-| Intel AX201 Bluetooth                               | 1         | 3.33%   |
 | IMC Networks Bluetooth USB Host Controller          | 1         | 3.33%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.33%   |
 | Foxconn / Hon Hai BCM43142A0                        | 1         | 3.33%   |
@@ -2102,19 +2103,20 @@ Memory module models
 
 | Model                                                      | Notebooks | Percent |
 |------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 2         | 11.11%  |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s       | 2         | 11.11%  |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s       | 2         | 11.11%  |
 | Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 5.56%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 5.56%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 5.56%   |
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1867MT/s           | 1         | 5.56%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s      | 1         | 5.56%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 5.56%   |
 | Micron RAM 8JTF5126 4HZ1G6D 1 4GB SODIMM DDR3 1600MT/s     | 1         | 5.56%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s      | 1         | 5.56%   |
 | Kingston RAM MSI24D4S7D8MH-16 16384MB SODIMM DDR4 2400MT/s | 1         | 5.56%   |
-| Kingston RAM ASU16D3LS1KBG/4G 4096MB SODIMM DDR3 1600MT/s  | 1         | 5.56%   |
+| Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s     | 1         | 5.56%   |
 | Crucial RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.56%   |
-| Crucial RAM CT51264BF160BJ.C8F 4GB SODIMM DDR3             | 1         | 5.56%   |
+| Crucial RAM CT51264BF160BJ.C8F 4GB SODIMM DDR3 1600MT/s    | 1         | 5.56%   |
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s  | 1         | 5.56%   |
 | A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s       | 1         | 5.56%   |
 
@@ -2280,7 +2282,7 @@ Camera device models
 | Chicony FJ Camera                                   | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 1         | 2.86%   |
 | Apple FaceTime HD Camera                            | 1         | 2.86%   |
-| Alcor Micro USB 2.0 Camera                          | 1         | 2.86%   |
+| Alcor Micro USB Camera                              | 1         | 2.86%   |
 | Acer Integrated Camera                              | 1         | 2.86%   |
 | Acer HD Camera                                      | 1         | 2.86%   |
 

@@ -755,7 +755,7 @@ Hard drive models
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
 | Samsung SSD 840 EVO 120GB       | 1        | 1.72%   |
 | Samsung Portable SSD T5 500GB   | 1        | 1.72%   |
-| Samsung M3 Portable 1TB         | 1        | 1.72%   |
+| Samsung M3 Portable 2TB         | 1        | 1.72%   |
 | Samsung HD203WI 2TB             | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
 
@@ -831,11 +831,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 32     | 50%     |
-| 0.51-1.0   | 10       | 11     | 29.41%  |
-| 1.01-2.0   | 5        | 18     | 14.71%  |
-| 3.01-4.0   | 1        | 1      | 2.94%   |
-| 4.01-10.0  | 1        | 1      | 2.94%   |
+| 0.01-0.5   | 17       | 32     | 51.52%  |
+| 0.51-1.0   | 9        | 10     | 27.27%  |
+| 1.01-2.0   | 5        | 19     | 15.15%  |
+| 3.01-4.0   | 1        | 1      | 3.03%   |
+| 4.01-10.0  | 1        | 1      | 3.03%   |
 
 Space Total
 -----------
@@ -1324,14 +1324,14 @@ Monitor models
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 4.17%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
 | Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
-| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch          | 1        | 4.17%   |
 | Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch               | 1        | 4.17%   |
 | Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                  | 1        | 4.17%   |
 | Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.17%   |
 | Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
 | AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
 | AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1        | 4.17%   |
+| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                   | 1        | 4.17%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
 | Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
@@ -1366,15 +1366,16 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 27      | 5        | 23.81%  |
-| Unknown | 5        | 23.81%  |
-| 21      | 3        | 14.29%  |
-| 23      | 2        | 9.52%   |
-| 20      | 2        | 9.52%   |
-| 34      | 1        | 4.76%   |
-| 24      | 1        | 4.76%   |
-| 19      | 1        | 4.76%   |
-| 15      | 1        | 4.76%   |
+| Unknown | 5        | 22.73%  |
+| 27      | 4        | 18.18%  |
+| 21      | 3        | 13.64%  |
+| 40      | 2        | 9.09%   |
+| 23      | 2        | 9.09%   |
+| 20      | 2        | 9.09%   |
+| 34      | 1        | 4.55%   |
+| 24      | 1        | 4.55%   |
+| 19      | 1        | 4.55%   |
+| 15      | 1        | 4.55%   |
 
 Monitor Width
 -------------
@@ -1386,13 +1387,14 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 7        | 33.33%  |
-| 401-500     | 5        | 23.81%  |
-| Unknown     | 5        | 23.81%  |
-| 701-800     | 1        | 4.76%   |
-| 601-700     | 1        | 4.76%   |
-| 351-400     | 1        | 4.76%   |
-| 301-350     | 1        | 4.76%   |
+| 501-600     | 6        | 27.27%  |
+| 401-500     | 5        | 22.73%  |
+| Unknown     | 5        | 22.73%  |
+| 801-900     | 2        | 9.09%   |
+| 701-800     | 1        | 4.55%   |
+| 601-700     | 1        | 4.55%   |
+| 351-400     | 1        | 4.55%   |
+| 301-350     | 1        | 4.55%   |
 
 Aspect Ratio
 ------------
@@ -1421,13 +1423,14 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 301-350        | 5        | 23.81%  |
-| 201-250        | 5        | 23.81%  |
-| Unknown        | 5        | 23.81%  |
-| 151-200        | 3        | 14.29%  |
-| 351-500        | 1        | 4.76%   |
-| 251-300        | 1        | 4.76%   |
-| 111-120        | 1        | 4.76%   |
+| 201-250        | 5        | 22.73%  |
+| Unknown        | 5        | 22.73%  |
+| 301-350        | 4        | 18.18%  |
+| 151-200        | 3        | 13.64%  |
+| 501-1000       | 2        | 9.09%   |
+| 351-500        | 1        | 4.55%   |
+| 251-300        | 1        | 4.55%   |
+| 111-120        | 1        | 4.55%   |
 
 Pixel Density
 -------------
@@ -1693,7 +1696,7 @@ Sound card models
 | Nvidia GP102 HDMI Audio Controller                                         | 1        | 2.22%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1        | 2.22%   |
 | Nvidia GK104 HDMI Audio Controller                                         | 1        | 2.22%   |
-| JMTek USB PnP Audio Device                                                 | 1        | 2.22%   |
+| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 2.22%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 2.22%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 2.22%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 2.22%   |

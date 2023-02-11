@@ -155,10 +155,13 @@ Contents
 Test Cases
 ----------
 
-Total: 17
+Total: 20
 
 | Vendor   | Model                 | Probe                                                      | Date         |
 |----------|-----------------------|------------------------------------------------------------|--------------|
+| Lenovo   | 3132 NOK              | [787c98df69](https://linux-hardware.org/?probe=787c98df69) | Jan 20, 2023 |
+| ASUSTek  | P5G41C-M LX           | [0990a5e3e8](https://linux-hardware.org/?probe=0990a5e3e8) | Jan 05, 2023 |
+| ASUSTek  | P5G41C-M LX           | [78a3773180](https://linux-hardware.org/?probe=78a3773180) | Jan 05, 2023 |
 | ASUSTek  | H81M-PLUS             | [ffe63e6795](https://linux-hardware.org/?probe=ffe63e6795) | Oct 25, 2022 |
 | ASUSTek  | H81M-PLUS             | [b0700ec521](https://linux-hardware.org/?probe=b0700ec521) | Oct 24, 2022 |
 | ASUSTek  | P7H55-M LX            | [517cb3cb75](https://linux-hardware.org/?probe=517cb3cb75) | Oct 11, 2022 |
@@ -190,13 +193,14 @@ Installed operating systems
 
 | Name          | Desktops | Percent |
 |---------------|----------|---------|
-| Pardus 21.2   | 5        | 38.46%  |
-| Pardus 21.3   | 3        | 23.08%  |
-| Pardus 21.1   | 1        | 7.69%   |
-| Pardus 21.0   | 1        | 7.69%   |
-| Pardus 19.5   | 1        | 7.69%   |
-| Pardus 19.4-1 | 1        | 7.69%   |
-| Pardus 19.4   | 1        | 7.69%   |
+| Pardus 21.2   | 5        | 33.33%  |
+| Pardus 21.3   | 3        | 20%     |
+| Pardus 21.4   | 2        | 13.33%  |
+| Pardus 21.1   | 1        | 6.67%   |
+| Pardus 21.0   | 1        | 6.67%   |
+| Pardus 19.5   | 1        | 6.67%   |
+| Pardus 19.4-1 | 1        | 6.67%   |
+| Pardus 19.4   | 1        | 6.67%   |
 
 OS Family
 ---------
@@ -220,17 +224,18 @@ Version of the Linux kernel
 
 | Version             | Desktops | Percent |
 |---------------------|----------|---------|
-| 5.10.0-13-amd64     | 3        | 23.08%  |
-| 5.9.0-0.bpo.2-amd64 | 1        | 7.69%   |
-| 5.10.0-8-amd64      | 1        | 7.69%   |
-| 5.10.0-19-amd64     | 1        | 7.69%   |
-| 5.10.0-18-amd64     | 1        | 7.69%   |
-| 5.10.0-16-amd64     | 1        | 7.69%   |
-| 5.10.0-15-amd64     | 1        | 7.69%   |
-| 5.10.0-14-amd64     | 1        | 7.69%   |
-| 5.10.0-12-amd64     | 1        | 7.69%   |
-| 4.19.0-18-amd64     | 1        | 7.69%   |
-| 4.19.0-13-amd64     | 1        | 7.69%   |
+| 5.10.0-13-amd64     | 3        | 20%     |
+| 5.10.0-20-amd64     | 2        | 13.33%  |
+| 5.9.0-0.bpo.2-amd64 | 1        | 6.67%   |
+| 5.10.0-8-amd64      | 1        | 6.67%   |
+| 5.10.0-19-amd64     | 1        | 6.67%   |
+| 5.10.0-18-amd64     | 1        | 6.67%   |
+| 5.10.0-16-amd64     | 1        | 6.67%   |
+| 5.10.0-15-amd64     | 1        | 6.67%   |
+| 5.10.0-14-amd64     | 1        | 6.67%   |
+| 5.10.0-12-amd64     | 1        | 6.67%   |
+| 4.19.0-18-amd64     | 1        | 6.67%   |
+| 4.19.0-13-amd64     | 1        | 6.67%   |
 
 Kernel Family
 -------------
@@ -242,9 +247,9 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.10.0  | 10       | 76.92%  |
-| 4.19.0  | 2        | 15.38%  |
-| 5.9.0   | 1        | 7.69%   |
+| 5.10.0  | 11       | 78.57%  |
+| 4.19.0  | 2        | 14.29%  |
+| 5.9.0   | 1        | 7.14%   |
 
 Kernel Major Ver.
 -----------------
@@ -256,9 +261,9 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.10    | 10       | 76.92%  |
-| 4.19    | 2        | 15.38%  |
-| 5.9     | 1        | 7.69%   |
+| 5.10    | 11       | 78.57%  |
+| 4.19    | 2        | 14.29%  |
+| 5.9     | 1        | 7.14%   |
 
 Arch
 ----
@@ -282,9 +287,9 @@ Desktop Environment
 
 | Name  | Desktops | Percent |
 |-------|----------|---------|
-| XFCE  | 9        | 69.23%  |
-| GNOME | 3        | 23.08%  |
-| KDE5  | 1        | 7.69%   |
+| XFCE  | 10       | 71.43%  |
+| GNOME | 3        | 21.43%  |
+| KDE5  | 1        | 7.14%   |
 
 Display Server
 --------------
@@ -308,9 +313,10 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 10       | 76.92%  |
-| LightDM | 2        | 15.38%  |
-| SDDM    | 1        | 7.69%   |
+| Unknown | 10       | 71.43%  |
+| LightDM | 2        | 14.29%  |
+| SDDM    | 1        | 7.14%   |
+| GDM     | 1        | 7.14%   |
 
 OS Lang
 -------
@@ -322,8 +328,9 @@ Language
 
 | Lang  | Desktops | Percent |
 |-------|----------|---------|
-| tr_TR | 12       | 92.31%  |
-| fr_FR | 1        | 7.69%   |
+| tr_TR | 12       | 85.71%  |
+| fr_FR | 1        | 7.14%   |
+| en_US | 1        | 7.14%   |
 
 Boot Mode
 ---------
@@ -335,7 +342,8 @@ EFI or BIOS
 
 | Mode | Desktops | Percent |
 |------|----------|---------|
-| BIOS | 13       | 100%    |
+| BIOS | 13       | 92.86%  |
+| EFI  | 1        | 7.14%   |
 
 Filesystem
 ----------
@@ -359,8 +367,8 @@ Scheme of partitioning
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 12       | 92.31%  |
-| GPT     | 1        | 7.69%   |
+| Unknown | 12       | 85.71%  |
+| GPT     | 2        | 14.29%  |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -515,12 +523,12 @@ Total RAM memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 3.01-4.0   | 5        | 38.46%  |
-| 4.01-8.0   | 2        | 15.38%  |
-| 16.01-24.0 | 2        | 15.38%  |
-| 8.01-16.0  | 2        | 15.38%  |
-| 32.01-64.0 | 1        | 7.69%   |
-| 2.01-3.0   | 1        | 7.69%   |
+| 3.01-4.0   | 5        | 35.71%  |
+| 8.01-16.0  | 3        | 21.43%  |
+| 4.01-8.0   | 2        | 14.29%  |
+| 16.01-24.0 | 2        | 14.29%  |
+| 32.01-64.0 | 1        | 7.14%   |
+| 2.01-3.0   | 1        | 7.14%   |
 
 RAM Used
 --------
@@ -532,12 +540,12 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 1.01-2.0   | 6        | 42.86%  |
-| 2.01-3.0   | 3        | 21.43%  |
-| 3.01-4.0   | 2        | 14.29%  |
-| 4.01-8.0   | 1        | 7.14%   |
-| 24.01-32.0 | 1        | 7.14%   |
-| 8.01-16.0  | 1        | 7.14%   |
+| 1.01-2.0   | 6        | 40%     |
+| 3.01-4.0   | 3        | 20%     |
+| 2.01-3.0   | 3        | 20%     |
+| 4.01-8.0   | 1        | 6.67%   |
+| 24.01-32.0 | 1        | 6.67%   |
+| 8.01-16.0  | 1        | 6.67%   |
 
 Total Drives
 ------------
@@ -652,10 +660,10 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 5        | 5      | 22.73%  |
-| Samsung Electronics | 3        | 5      | 13.64%  |
+| WDC                 | 5        | 6      | 22.73%  |
+| Samsung Electronics | 3        | 8      | 13.64%  |
 | A-DATA Technology   | 3        | 3      | 13.64%  |
-| Seagate             | 2        | 3      | 9.09%   |
+| Seagate             | 2        | 5      | 9.09%   |
 | SanDisk             | 2        | 2      | 9.09%   |
 | KIOXIA-EXCERIA      | 2        | 2      | 9.09%   |
 | China               | 2        | 2      | 9.09%   |
@@ -673,25 +681,26 @@ Hard drive models
 
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
-| WDC WD6402AAEX-00Y9A0 640GB      | 3        | 13.04%  |
-| A-DATA SU650 120GB SSD           | 3        | 13.04%  |
-| WDC WD5000AAKX-00ERMA0 500GB     | 1        | 4.35%   |
-| WDC WD3200AAJB-00WGA0 320GB      | 1        | 4.35%   |
-| Team T253X1240G 240GB SSD        | 1        | 4.35%   |
-| Seagate ST3160318AS 160GB        | 1        | 4.35%   |
-| Seagate ST2000DM008-2FR102 2TB   | 1        | 4.35%   |
-| SanDisk Ultra II 240GB SSD       | 1        | 4.35%   |
-| SanDisk SSD PLUS 240GB           | 1        | 4.35%   |
-| Samsung NVMe SSD Drive 512GB     | 1        | 4.35%   |
-| Samsung HD501LJ 500GB            | 1        | 4.35%   |
-| Samsung HD160HJ 160GB            | 1        | 4.35%   |
-| Samsung HD103SJ 1TB              | 1        | 4.35%   |
-| KIOXIA-EXCERIA SATA SSD 480GB    | 1        | 4.35%   |
-| KIOXIA-EXCERIA SATA SSD 240GB    | 1        | 4.35%   |
-| Kingston SV300S37A120G 120GB SSD | 1        | 4.35%   |
-| Corsair Force LS SSD 64GB        | 1        | 4.35%   |
-| China SATA SSD 240GB             | 1        | 4.35%   |
-| China SATA SSD 120GB             | 1        | 4.35%   |
+| WDC WD6402AAEX-00Y9A0 640GB      | 3        | 12.5%   |
+| A-DATA SU650 120GB SSD           | 3        | 12.5%   |
+| WDC WD5000AAKX-00ERMA0 500GB     | 1        | 4.17%   |
+| WDC WD3200AAJB-00WGA0 320GB      | 1        | 4.17%   |
+| Team T253X1240G 240GB SSD        | 1        | 4.17%   |
+| Seagate ST3160318AS 160GB        | 1        | 4.17%   |
+| Seagate ST2000DM008-2FR102 2TB   | 1        | 4.17%   |
+| SanDisk Ultra II 240GB SSD       | 1        | 4.17%   |
+| SanDisk SSD PLUS 240GB           | 1        | 4.17%   |
+| Samsung NVMe SSD Drive 512GB     | 1        | 4.17%   |
+| Samsung MZALQ512HALU-000L1 512GB | 1        | 4.17%   |
+| Samsung HD501LJ 500GB            | 1        | 4.17%   |
+| Samsung HD160HJ 160GB            | 1        | 4.17%   |
+| Samsung HD103SJ 1TB              | 1        | 4.17%   |
+| KIOXIA-EXCERIA SATA SSD 480GB    | 1        | 4.17%   |
+| KIOXIA-EXCERIA SATA SSD 240GB    | 1        | 4.17%   |
+| Kingston SV300S37A120G 120GB SSD | 1        | 4.17%   |
+| Corsair Force LS SSD 64GB        | 1        | 4.17%   |
+| China SATA SSD 240GB             | 1        | 4.17%   |
+| China SATA SSD 120GB             | 1        | 4.17%   |
 
 HDD Vendor
 ----------
@@ -703,9 +712,9 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 5        | 5      | 55.56%  |
-| Seagate             | 2        | 3      | 22.22%  |
-| Samsung Electronics | 2        | 3      | 22.22%  |
+| WDC                 | 5        | 6      | 55.56%  |
+| Seagate             | 2        | 5      | 22.22%  |
+| Samsung Electronics | 2        | 5      | 22.22%  |
 
 SSD Vendor
 ----------
@@ -736,8 +745,8 @@ HDD or SSD
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | SSD  | 10       | 12     | 55.56%  |
-| HDD  | 7        | 11     | 38.89%  |
-| NVMe | 1        | 2      | 5.56%   |
+| HDD  | 7        | 16     | 38.89%  |
+| NVMe | 1        | 3      | 5.56%   |
 
 Drive Connector
 ---------------
@@ -749,8 +758,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 13       | 23     | 92.86%  |
-| NVMe | 1        | 2      | 7.14%   |
+| SATA | 13       | 28     | 92.86%  |
+| NVMe | 1        | 3      | 7.14%   |
 
 Drive Size
 ----------
@@ -762,9 +771,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 12       | 17     | 70.59%  |
-| 0.51-1.0   | 4        | 4      | 23.53%  |
-| 1.01-2.0   | 1        | 2      | 5.88%   |
+| 0.01-0.5   | 12       | 20     | 70.59%  |
+| 0.51-1.0   | 4        | 5      | 23.53%  |
+| 1.01-2.0   | 1        | 3      | 5.88%   |
 
 Space Total
 -----------
@@ -865,9 +874,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 12       | 22     | 85.71%  |
-| Malfunc  | 1        | 1      | 7.14%   |
-| Works    | 1        | 2      | 7.14%   |
+| Detected | 12       | 26     | 80%     |
+| Works    | 2        | 4      | 13.33%  |
+| Malfunc  | 1        | 1      | 6.67%   |
 
 Storage controller
 ------------------
@@ -1043,11 +1052,13 @@ Microcode number
 
 | Number  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 9        | 69.23%  |
-| 0x906eb | 1        | 7.69%   |
-| 0x906e9 | 1        | 7.69%   |
-| 0x306c3 | 1        | 7.69%   |
-| 0x20655 | 1        | 7.69%   |
+| Unknown | 9        | 60%     |
+| 0x906ed | 1        | 6.67%   |
+| 0x906eb | 1        | 6.67%   |
+| 0x906e9 | 1        | 6.67%   |
+| 0x306c3 | 1        | 6.67%   |
+| 0x20655 | 1        | 6.67%   |
+| 0x1067a | 1        | 6.67%   |
 
 CPU Microarch
 -------------
@@ -1146,10 +1157,10 @@ Total video memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 9        | 69.23%  |
-| 0.51-1.0   | 2        | 15.38%  |
-| 1.01-2.0   | 1        | 7.69%   |
-| 0.01-0.5   | 1        | 7.69%   |
+| Unknown    | 9        | 64.29%  |
+| 1.01-2.0   | 2        | 14.29%  |
+| 0.51-1.0   | 2        | 14.29%  |
+| 0.01-0.5   | 1        | 7.14%   |
 
 Monitor
 -------
@@ -1183,19 +1194,20 @@ Monitor models
 
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
-| Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                | 3        | 20%     |
-| Samsung Electronics U32J59x SAM0F34 3840x2160 697x392mm 31.5-inch   | 1        | 6.67%   |
-| Samsung Electronics SyncMaster SAM0599 1600x900 443x249mm 20.0-inch | 1        | 6.67%   |
-| SAC Casper SAC3219 1366x768 304x228mm 15.0-inch                     | 1        | 6.67%   |
-| Iiyama PLX2380H IVM5621 1920x1080 509x286mm 23.0-inch               | 1        | 6.67%   |
-| Goldstar L1753T GSM4476 1280x1024 338x270mm 17.0-inch               | 1        | 6.67%   |
-| Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                | 1        | 6.67%   |
-| Dell P2717H DEL40F6 1920x1080 598x336mm 27.0-inch                   | 1        | 6.67%   |
-| Dell E2421HN DELF129 1920x1080 527x296mm 23.8-inch                  | 1        | 6.67%   |
-| Beko BK WUXGA BEK4448 1920x1080                                     | 1        | 6.67%   |
-| AGO LCD Monitor AGO0001 1920x1080 256x192mm 12.6-inch               | 1        | 6.67%   |
-| Acer V226HQL ACR032D 1920x1080 477x268mm 21.5-inch                  | 1        | 6.67%   |
-| Acer G206HQL ACR0327 1600x900 432x239mm 19.4-inch                   | 1        | 6.67%   |
+| Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                | 3        | 18.75%  |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch   | 1        | 6.25%   |
+| Samsung Electronics U32J59x SAM0F34 3840x2160 697x392mm 31.5-inch   | 1        | 6.25%   |
+| Samsung Electronics SyncMaster SAM0599 1600x900 443x249mm 20.0-inch | 1        | 6.25%   |
+| SAC Casper SAC3219 1366x768 304x228mm 15.0-inch                     | 1        | 6.25%   |
+| Iiyama PLX2380H IVM5621 1920x1080 509x286mm 23.0-inch               | 1        | 6.25%   |
+| Goldstar L1753T GSM4476 1280x1024 338x270mm 17.0-inch               | 1        | 6.25%   |
+| Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                | 1        | 6.25%   |
+| Dell P2717H DEL40F6 1920x1080 598x336mm 27.0-inch                   | 1        | 6.25%   |
+| Dell E2421HN DELF129 1920x1080 527x296mm 23.8-inch                  | 1        | 6.25%   |
+| Beko TV BEK4448 1920x1080 1210x680mm 54.6-inch                      | 1        | 6.25%   |
+| AGO LCD Monitor AGO0001 1920x1080 256x192mm 12.6-inch               | 1        | 6.25%   |
+| Acer V226HQL ACR032D 1920x1080 477x268mm 21.5-inch                  | 1        | 6.25%   |
+| Acer G206HQL ACR0327 1600x900 432x239mm 19.4-inch                   | 1        | 6.25%   |
 
 Monitor Resolution
 ------------------
@@ -1547,11 +1559,12 @@ Memory module vendors
 ![Memory Vendor](./images/pie_chart/memory_vendor.svg)
 
 
-| Vendor            | Desktops | Percent |
-|-------------------|----------|---------|
-| Kingston          | 1        | 33.33%  |
-| G.Skill           | 1        | 33.33%  |
-| A-DATA Technology | 1        | 33.33%  |
+| Vendor              | Desktops | Percent |
+|---------------------|----------|---------|
+| Samsung Electronics | 1        | 25%     |
+| Kingston            | 1        | 25%     |
+| G.Skill             | 1        | 25%     |
+| A-DATA Technology   | 1        | 25%     |
 
 Memory Model
 ------------
@@ -1563,10 +1576,11 @@ Memory module models
 
 | Model                                                | Desktops | Percent |
 |------------------------------------------------------|----------|---------|
-| Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s | 1        | 25%     |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s    | 1        | 25%     |
-| G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s   | 1        | 25%     |
-| A-DATA RAM Module 8GB DIMM DDR4 2667MT/s             | 1        | 25%     |
+| Samsung RAM M378A2K43DB1-CTD 16GB DIMM DDR4 2667MT/s | 1        | 20%     |
+| Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s | 1        | 20%     |
+| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s    | 1        | 20%     |
+| G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s   | 1        | 20%     |
+| A-DATA RAM Module 8GB DIMM DDR4 2667MT/s             | 1        | 20%     |
 
 Memory Kind
 -----------
@@ -1578,7 +1592,7 @@ Memory module kinds
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| DDR4 | 3        | 100%    |
+| DDR4 | 4        | 100%    |
 
 Memory Form Factor
 ------------------
@@ -1590,7 +1604,7 @@ Physical design of the memory module
 
 | Name | Desktops | Percent |
 |------|----------|---------|
-| DIMM | 3        | 100%    |
+| DIMM | 4        | 100%    |
 
 Memory Size
 -----------
@@ -1600,10 +1614,11 @@ Memory module size
 ![Memory Size](./images/pie_chart/memory_size.svg)
 
 
-| Size | Desktops | Percent |
-|------|----------|---------|
-| 8192 | 2        | 66.67%  |
-| 4096 | 1        | 33.33%  |
+| Size  | Desktops | Percent |
+|-------|----------|---------|
+| 8192  | 2        | 50%     |
+| 16384 | 1        | 25%     |
+| 4096  | 1        | 25%     |
 
 Memory Speed
 ------------
@@ -1615,10 +1630,10 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 3400  | 1        | 25%     |
-| 2667  | 1        | 25%     |
-| 2400  | 1        | 25%     |
-| 2133  | 1        | 25%     |
+| 2667  | 2        | 40%     |
+| 3400  | 1        | 20%     |
+| 2400  | 1        | 20%     |
+| 2133  | 1        | 20%     |
 
 Printers & scanners
 -------------------
@@ -1677,9 +1692,10 @@ Camera device vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Microdia              | 1        | 33.33%  |
-| MacroSilicon          | 1        | 33.33%  |
-| Arkmicro Technologies | 1        | 33.33%  |
+| Microdia              | 1        | 25%     |
+| MacroSilicon          | 1        | 25%     |
+| Arkmicro Technologies | 1        | 25%     |
+| Alcor Micro           | 1        | 25%     |
 
 Camera Model
 ------------
@@ -1689,11 +1705,12 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                      | Desktops | Percent |
-|----------------------------|----------|---------|
-| Microdia Integrated Camera | 1        | 33.33%  |
-| MacroSilicon USB Video     | 1        | 33.33%  |
-| Arkmicro USB2.0 PC CAMERA  | 1        | 33.33%  |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Microdia Laptop_Integrated_Webcam_FHD | 1        | 25%     |
+| MacroSilicon USB Video                | 1        | 25%     |
+| Arkmicro USB2.0 PC CAMERA             | 1        | 25%     |
+| Alcor Micro USB 2.0 PC Camera         | 1        | 25%     |
 
 Security
 --------

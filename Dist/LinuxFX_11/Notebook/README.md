@@ -1569,7 +1569,7 @@ Monitor models
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC364A 1366x768 344x194mm 15.5-inch    | 2         | 3.13%   |
-| Samsung Electronics LCD Monitor SDC4852 1366x768 340x190mm 15.3-inch    | 2         | 3.13%   |
+| Samsung Electronics LCD Monitor SDC4852 3840x2160 340x190mm 15.3-inch   | 2         | 3.13%   |
 | Samsung Electronics LCD Monitor SAM03D3 1360x768 410x256mm 19.0-inch    | 2         | 3.13%   |
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch            | 2         | 3.13%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch           | 2         | 3.13%   |
@@ -1581,7 +1581,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3645 1280x800 331x207mm 15.4-inch    | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC3254 1600x900 367x230mm 17.1-inch    | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SAM0FEF 3840x2160 1872x1053mm 84.6-inch | 1         | 1.56%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch    | 1         | 1.56%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch    | 1         | 1.56%   |
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                 | 1         | 1.56%   |
 | LG Philips LCD Monitor LPL3B01 1280x800 331x207mm 15.4-inch             | 1         | 1.56%   |
 | LG Philips LCD Monitor LPL012B 1280x800 304x190mm 14.1-inch             | 1         | 1.56%   |
@@ -1598,12 +1598,12 @@ Monitor models
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch            | 1         | 1.56%   |
 | LG Display LCD Monitor LGD02A6 1366x768 345x194mm 15.6-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch            | 1         | 1.56%   |
-| LG Display LCD Monitor LGD0250 1366x768 350x190mm 15.7-inch             | 1         | 1.56%   |
+| LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD01DD 1600x900 382x215mm 17.3-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD01CA 1600x900 382x215mm 17.3-inch             | 1         | 1.56%   |
 | LG Display LCD Monitor LGD01AF 1680x1050 331x207mm 15.4-inch            | 1         | 1.56%   |
 | LG Display LCD Monitor LGD018E 1920x1200 367x230mm 17.1-inch            | 1         | 1.56%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 344x193mm 15.5-inch                 | 1         | 1.56%   |
+| Lenovo LCD Monitor LEN40B0 1366x768 344x194mm 15.5-inch                 | 1         | 1.56%   |
 | Goldstar 32LG7000 GSM765E 1920x1080 700x390mm 31.5-inch                 | 1         | 1.56%   |
 | Dell E1709W DELD022 1440x900 370x230mm 17.2-inch                        | 1         | 1.56%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 382x214mm 17.2-inch         | 1         | 1.56%   |
@@ -2156,15 +2156,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Notebooks | Percent |
-|---------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s           | 1         | 14.29%  |
-| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s           | 1         | 14.29%  |
-| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s         | 1         | 14.29%  |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s   | 1         | 14.29%  |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 14.29%  |
-| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s | 1         | 14.29%  |
-| Kingston RAM 9905428-020.A00LF 4GB SODIMM DDR3 1067MT/s | 1         | 14.29%  |
+| Model                                                      | Notebooks | Percent |
+|------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 533MT/s              | 1         | 14.29%  |
+| Unknown RAM Module 1024MB SODIMM DDR2 533MT/s              | 1         | 14.29%  |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1066MT/s            | 1         | 14.29%  |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s      | 1         | 14.29%  |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 14.29%  |
+| Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s    | 1         | 14.29%  |
+| Kingston RAM 9905428-020.A00LF 4096MB SODIMM DDR3 1067MT/s | 1         | 14.29%  |
 
 Memory Kind
 -----------
@@ -2282,10 +2282,10 @@ Camera device vendors
 | Apple                                  | 2         | 3.7%    |
 | Alcor Micro                            | 2         | 3.7%    |
 | Z-Star Microelectronics                | 1         | 1.85%   |
-| USB Camera                             | 1         | 1.85%   |
 | Syntek                                 | 1         | 1.85%   |
 | Samsung Electronics                    | 1         | 1.85%   |
 | IMC Networks                           | 1         | 1.85%   |
+| icSpring                               | 1         | 1.85%   |
 | ALi                                    | 1         | 1.85%   |
 
 Camera Model
@@ -2307,7 +2307,6 @@ Camera device models
 | Apple Built-in iSight                                                 | 2         | 3.7%    |
 | Acer Lenovo EasyCamera                                                | 2         | 3.7%    |
 | Z-Star WebCam SC-03FFL11739P                                          | 1         | 1.85%   |
-| USB Camera USB Camera                                                 | 1         | 1.85%   |
 | Syntek Lenovo EasyCamera                                              | 1         | 1.85%   |
 | Suyin UVC HD Webcam                                                   | 1         | 1.85%   |
 | Silicon Motion WebCam SCB-1100N                                       | 1         | 1.85%   |
@@ -2326,6 +2325,7 @@ Camera device models
 | Microdia Integrated Webcam                                            | 1         | 1.85%   |
 | Microdia Dell Integrated HD Webcam                                    | 1         | 1.85%   |
 | IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 1.85%   |
+| icSpring camera                                                       | 1         | 1.85%   |
 | Chicony USB 2.0 Camera                                                | 1         | 1.85%   |
 | Chicony integrated camera                                             | 1         | 1.85%   |
 | Chicony HP Webcam                                                     | 1         | 1.85%   |
@@ -2408,9 +2408,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 45        | 68.18%  |
-| 1     | 16        | 24.24%  |
-| 2     | 5         | 7.58%   |
+| 0     | 42        | 63.64%  |
+| 1     | 18        | 27.27%  |
+| 2     | 6         | 9.09%   |
 
 Unsupported Device Types
 ------------------------
@@ -2422,10 +2422,10 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Graphics card         | 8         | 33.33%  |
-| Fingerprint reader    | 6         | 25%     |
-| Chipcard              | 4         | 16.67%  |
-| Storage               | 3         | 12.5%   |
-| Multimedia controller | 2         | 8.33%   |
-| Net/wireless          | 1         | 4.17%   |
+| Graphics card         | 12        | 42.86%  |
+| Fingerprint reader    | 6         | 21.43%  |
+| Chipcard              | 4         | 14.29%  |
+| Storage               | 3         | 10.71%  |
+| Multimedia controller | 2         | 7.14%   |
+| Net/wireless          | 1         | 3.57%   |
 

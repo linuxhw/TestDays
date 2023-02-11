@@ -1063,16 +1063,16 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                              | Desktops | Drives | Percent |
-|------------------------------------|----------|--------|---------|
-| WDC WD5000AAKX-00ERMA0 500GB       | 1        | 1      | 12.5%   |
-| WDC WD3200AAJS-56B4A0 320GB        | 1        | 1      | 12.5%   |
-| WDC WD10EZEX-00KUWA0 1TB           | 1        | 1      | 12.5%   |
-| WDC WD1003FZEX-00MK2A0 1TB         | 1        | 1      | 12.5%   |
-| Seagate ST3160813AS 160GB          | 1        | 1      | 12.5%   |
-| Samsung Electronics HD160JJ/ 160GB | 1        | 1      | 12.5%   |
-| Hitachi HTS542525K9SA00 250GB      | 1        | 1      | 12.5%   |
-| Crucial CT256M550SSD1 256GB        | 1        | 1      | 12.5%   |
+| Model                             | Desktops | Drives | Percent |
+|-----------------------------------|----------|--------|---------|
+| WDC WD5000AAKX-00ERMA0 500GB      | 1        | 1      | 12.5%   |
+| WDC WD3200AAJS-56B4A0 320GB       | 1        | 1      | 12.5%   |
+| WDC WD10EZEX-00KUWA0 1TB          | 1        | 1      | 12.5%   |
+| WDC WD1003FZEX-00MK2A0 1TB        | 1        | 1      | 12.5%   |
+| Seagate ST3160813AS 160GB         | 1        | 1      | 12.5%   |
+| Samsung Electronics HD160JJ 160GB | 1        | 1      | 12.5%   |
+| Hitachi HTS542525K9SA00 250GB     | 1        | 1      | 12.5%   |
+| Crucial CT256M550SSD1 256GB       | 1        | 1      | 12.5%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1660,14 +1660,14 @@ Monitor models
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch      | 1        | 1.25%   |
 | Samsung Electronics S22C200 SAM09B6 1920x1080 477x268mm 21.5-inch      | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor SAM705B 1920x1080 1210x680mm 54.6-inch | 1        | 1.25%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch  | 1        | 1.25%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch  | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor S24F350 5760x1080                      | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor S24F350                                | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor C24F390 1920x1080                      | 1        | 1.25%   |
 | Samsung Electronics C49J89x SAM0F21 3840x1080 1196x336mm 48.9-inch     | 1        | 1.25%   |
 | Samsung Electronics C49HG9x SAM0E5D 3840x1080 1196x336mm 48.9-inch     | 1        | 1.25%   |
 | Philips PHL 223V7 PHLC154 1920x1080 480x270mm 21.7-inch                | 1        | 1.25%   |
-| MSI Optix MAG27C MSI1462 1920x1080 590x350mm 27.0-inch                 | 1        | 1.25%   |
+| MSI Optix G27C2 MSI1462 1920x1080 600x330mm 27.0-inch                  | 1        | 1.25%   |
 | LG Electronics LCD Monitor LG IPS FULLHD                               | 1        | 1.25%   |
 | LG Electronics LCD Monitor 25UM58G 2560x1080                           | 1        | 1.25%   |
 | Lenovo LEN LS1922wA LEN0A14 1366x768 410x230mm 18.5-inch               | 1        | 1.25%   |
@@ -1911,7 +1911,7 @@ Controller models
 | Nvidia MCP77 Ethernet                                             | 1        | 0.91%   |
 | NetGear WNA3100(v1) Wireless-N 300 [Broadcom BCM43231]            | 1        | 0.91%   |
 | Mercucys 802.11n NIC                                              | 1        | 0.91%   |
-| MediaTek Infinix NOTE 11                                          | 1        | 0.91%   |
+| MediaTek File-CD Gadget                                           | 1        | 0.91%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.91%   |
 | Intel Wireless-AC 9260                                            | 1        | 0.91%   |
 | Intel Wireless 7260                                               | 1        | 0.91%   |
@@ -2024,7 +2024,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.35%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.35%   |
 | Nvidia MCP77 Ethernet                                             | 1        | 1.35%   |
-| MediaTek Infinix NOTE 11                                          | 1        | 1.35%   |
+| MediaTek File-CD Gadget                                           | 1        | 1.35%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.35%   |
 | Intel Ethernet Controller I225-V                                  | 1        | 1.35%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 1.35%   |
@@ -2125,9 +2125,9 @@ Controller models
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 3.7%    |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 3.7%    |
 | Intel Bluetooth wireless interface                  | 1        | 3.7%    |
+| Intel Bluetooth Device                              | 1        | 3.7%    |
 | Intel AX210 Bluetooth                               | 1        | 3.7%    |
-| Intel AX201 Bluetooth                               | 1        | 3.7%    |
-| Broadcom Bluetooth 3.0 Dongle                       | 1        | 3.7%    |
+| Broadcom Bluetooth 3.0 USB Dongle                   | 1        | 3.7%    |
 | Belkin Components Bluetooth Mini Dongle             | 1        | 3.7%    |
 | ASUS Bluetooth Radio                                | 1        | 3.7%    |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1        | 3.7%    |
@@ -2201,7 +2201,7 @@ Sound card models
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                            | 2        | 1.41%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                                  | 2        | 1.41%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2        | 1.41%   |
-| Thesycon Systemsoftware & Consulting MX5                                          | 1        | 0.7%    |
+| Thesycon Systemsoftware & Consulting D30 Pro                                      | 1        | 0.7%    |
 | Razer USA Kraken Tournament Edition                                               | 1        | 0.7%    |
 | Nvidia TU106 High Definition Audio Controller                                     | 1        | 0.7%    |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 0.7%    |
@@ -2403,26 +2403,26 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                           | Desktops | Percent |
-|---------------------------------|----------|---------|
-| Logitech Webcam C270            | 2        | 10.53%  |
-| Z-Star Sirius USB2.0 Camera     | 1        | 5.26%   |
-| Sunplus SPCA2650 AV Camera      | 1        | 5.26%   |
-| Sunplus Aukey-PC-LM1E Camera    | 1        | 5.26%   |
-| Microsoft Xbox NUI Camera       | 1        | 5.26%   |
-| Microsoft LifeCam HD-3000       | 1        | 5.26%   |
-| Microdia Webcam Vitade AF       | 1        | 5.26%   |
-| Microdia USB 2.0 Camera         | 1        | 5.26%   |
-| Microdia Integrated Camera      | 1        | 5.26%   |
-| Logitech Webcam C310            | 1        | 5.26%   |
-| Logitech Logi 4K Stream Edition | 1        | 5.26%   |
-| Logitech HD Webcam C615         | 1        | 5.26%   |
-| Logitech HD Pro Webcam C920     | 1        | 5.26%   |
-| Logitech C505 HD Webcam         | 1        | 5.26%   |
-| Logitech B525 HD Webcam         | 1        | 5.26%   |
-| Generalplus GENERAL WEBCAM      | 1        | 5.26%   |
-| Creative Live! Cam Sync 1080p   | 1        | 5.26%   |
-| Apple iPhone5/5C/5S/6           | 1        | 5.26%   |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Logitech Webcam C270                  | 2        | 10.53%  |
+| Z-Star Sirius USB2.0 Camera           | 1        | 5.26%   |
+| Sunplus FHD Camera Microphone         | 1        | 5.26%   |
+| Sunplus Aukey-PC-LM1E Camera          | 1        | 5.26%   |
+| Microsoft Xbox NUI Camera             | 1        | 5.26%   |
+| Microsoft LifeCam HD-3000             | 1        | 5.26%   |
+| Microdia Webcam Vitade AF             | 1        | 5.26%   |
+| Microdia USB 2.0 Camera               | 1        | 5.26%   |
+| Microdia Laptop_Integrated_Webcam_FHD | 1        | 5.26%   |
+| Logitech Webcam C310                  | 1        | 5.26%   |
+| Logitech HD Webcam C615               | 1        | 5.26%   |
+| Logitech HD Pro Webcam C920           | 1        | 5.26%   |
+| Logitech C505 HD Webcam               | 1        | 5.26%   |
+| Logitech BRIO 4K Stream Edition       | 1        | 5.26%   |
+| Logitech B525 HD Webcam               | 1        | 5.26%   |
+| Generalplus GENERAL WEBCAM            | 1        | 5.26%   |
+| Creative Live! Cam Sync 1080p         | 1        | 5.26%   |
+| Apple iPhone 5/5C/5S/6/SE             | 1        | 5.26%   |
 
 Security
 --------

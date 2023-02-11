@@ -675,8 +675,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 25       | 53.19%  |
-| No        | 22       | 46.81%  |
+| Yes       | 26       | 55.32%  |
+| No        | 21       | 44.68%  |
 
 Has Ethernet
 ------------
@@ -848,7 +848,7 @@ Hard drive models
 |----------------------------------|----------|---------|
 | Seagate ST1000DM010-2EP102 1TB   | 4        | 4.4%    |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 2.2%    |
-| Seagate Expansion Desk 5TB       | 2        | 2.2%    |
+| Seagate Expansion Desk 6TB       | 2        | 2.2%    |
 | SanDisk SDSSDX240GG25 240GB      | 2        | 2.2%    |
 | Samsung SSD 860 EVO 1TB          | 2        | 2.2%    |
 | Samsung NVMe SSD Drive 500GB     | 2        | 2.2%    |
@@ -969,12 +969,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 33       | 43     | 50%     |
+| 0.01-0.5   | 34       | 44     | 51.52%  |
 | 0.51-1.0   | 19       | 27     | 28.79%  |
 | 1.01-2.0   | 7        | 9      | 10.61%  |
 | 4.01-10.0  | 3        | 3      | 4.55%   |
-| 3.01-4.0   | 2        | 2      | 3.03%   |
 | 2.01-3.0   | 2        | 2      | 3.03%   |
+| 3.01-4.0   | 1        | 1      | 1.52%   |
 
 Space Total
 -----------
@@ -1560,20 +1560,20 @@ Monitor models
 | Hewlett-Packard v185e HWP2838 1366x768 410x230mm 18.5-inch            | 1        | 2.13%   |
 | Hewlett-Packard LCD Monitor w2338h                                    | 1        | 2.13%   |
 | Hewlett-Packard Compaq W185q HWP284F 1366x768 410x230mm 18.5-inch     | 1        | 2.13%   |
-| Goldstar W2243 GSM56FE 1920x1080 480x270mm 21.7-inch                  | 1        | 2.13%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.13%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 1        | 2.13%   |
 | Goldstar RZ32LZ55 GSM7546 1360x768 930x523mm 42.0-inch                | 1        | 2.13%   |
 | Goldstar M237WDP GSM5778 1920x1080 598x336mm 27.0-inch                | 1        | 2.13%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                   | 1        | 2.13%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                 | 1        | 2.13%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.13%   |
 | Dell LCD Monitor DELA026 1920x1200 520x330mm 24.2-inch                | 1        | 2.13%   |
 | BenQ FP71V BNQ76A2 1280x1024 376x301mm 19.0-inch                      | 1        | 2.13%   |
-| AOC e2752Vq AOC2752 1920x1080 598x336mm 27.0-inch                     | 1        | 2.13%   |
 | AOC 519W AOC1519 1280x720 340x270mm 17.1-inch                         | 1        | 2.13%   |
 | AOC 2770M AOC2770 1920x1080 598x336mm 27.0-inch                       | 1        | 2.13%   |
+| AOC 2752 AOC2752 1920x1080 579x336mm 26.4-inch                        | 1        | 2.13%   |
 | AOC 2070W AOC2070 1600x900 434x236mm 19.4-inch                        | 1        | 2.13%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch      | 1        | 2.13%   |
-| Ancor Communications VE247 ACI2493 1920x1080 530x300mm 24.0-inch      | 1        | 2.13%   |
+| Ancor Communications VE247 ACI2493 1920x1080 531x299mm 24.0-inch      | 1        | 2.13%   |
 | Ancor Communications MW221 ACI22B1 1680x1050 473x296mm 22.0-inch      | 1        | 2.13%   |
 | Ancor Communications LCD Monitor ASUS VS228 1920x1080                 | 1        | 2.13%   |
 | Ancor Communications ASUS VP247 ACI24C7 1920x1080 521x293mm 23.5-inch | 1        | 2.13%   |
@@ -1771,7 +1771,7 @@ Controller models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1        | 1.32%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                                 | 1        | 1.32%   |
 | Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn]                        | 1        | 1.32%   |
-| Motorola PCS moto g(9) play                                                                   | 1        | 1.32%   |
+| Motorola PCS motorola one 5G ace                                                              | 1        | 1.32%   |
 | Intel Wireless 8265 / 8275                                                                    | 1        | 1.32%   |
 | Intel Wireless 7265                                                                           | 1        | 1.32%   |
 | Intel I211 Gigabit Network Connection                                                         | 1        | 1.32%   |
@@ -1876,7 +1876,7 @@ Ethernet models
 | Intel 82579V Gigabit Network Connection                           | 2        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2%      |
-| Motorola PCS moto g(9) play                                       | 1        | 2%      |
+| Motorola PCS motorola one 5G ace                                  | 1        | 2%      |
 | Intel I211 Gigabit Network Connection                             | 1        | 2%      |
 | Intel Ethernet Connection I217-V                                  | 1        | 2%      |
 | Intel Ethernet Connection (2) I219-LM                             | 1        | 2%      |
@@ -2158,10 +2158,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Desktops | Percent |
-|----------------------------|----------|---------|
-| Seiko Epson ET-2600 Series | 1        | 50%     |
-| Canon PIXMA MX920 Series   | 1        | 50%     |
+| Model                    | Desktops | Percent |
+|--------------------------|----------|---------|
+| Seiko Epson L396 Series  | 1        | 50%     |
+| Canon PIXMA MX920 Series | 1        | 50%     |
 
 Scanner Vendor
 --------------
@@ -2193,14 +2193,14 @@ Camera device vendors
 | Microsoft                 | 2        | 14.29%  |
 | Logitech                  | 2        | 14.29%  |
 | Chicony Electronics       | 2        | 14.29%  |
-| YGTek                     | 1        | 7.14%   |
 | Silicon Motion            | 1        | 7.14%   |
 | SHENZHEN EMEET TECHNOLOGY | 1        | 7.14%   |
 | Ruision                   | 1        | 7.14%   |
 | Jieli Technology          | 1        | 7.14%   |
 | Hewlett-Packard           | 1        | 7.14%   |
-| HD 2MP WEBCAM             | 1        | 7.14%   |
+| HD WEBCAM                 | 1        | 7.14%   |
 | Creative Technology       | 1        | 7.14%   |
+| 2M UVC CAMERA             | 1        | 7.14%   |
 
 Camera Model
 ------------
@@ -2212,7 +2212,6 @@ Camera device models
 
 | Model                                          | Desktops | Percent |
 |------------------------------------------------|----------|---------|
-| YGTek Webcam                                   | 1        | 7.14%   |
 | Silicon Motion SM731 Camera                    | 1        | 7.14%   |
 | SHENZHEN EMEET TECHNOLOGY HD Webcam eMeet C960 | 1        | 7.14%   |
 | Ruision UVC Camera                             | 1        | 7.14%   |
@@ -2222,10 +2221,11 @@ Camera device models
 | Logitech C922 Pro Stream Webcam                | 1        | 7.14%   |
 | Jieli USB PHY 2.0                              | 1        | 7.14%   |
 | HP Webcam 3110                                 | 1        | 7.14%   |
-| HD 2MP WEBCAM HD 2MP WEBCAM                    | 1        | 7.14%   |
+| HD WEBCAM Web Camera                           | 1        | 7.14%   |
 | Creative Live! Cam Sync HD [VF0770]            | 1        | 7.14%   |
 | Chicony CNF7042                                | 1        | 7.14%   |
 | Chicony 2.0M UVC Webcam / CNF7129              | 1        | 7.14%   |
+| 2M UVC CAMERA NexiGo N660 FHD Webcam           | 1        | 7.14%   |
 
 Security
 --------

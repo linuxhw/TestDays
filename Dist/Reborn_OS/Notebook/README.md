@@ -703,8 +703,8 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2019 | 9         | 14.06%  |
-| 2012 | 9         | 14.06%  |
-| 2011 | 8         | 12.5%   |
+| 2011 | 9         | 14.06%  |
+| 2012 | 8         | 12.5%   |
 | 2020 | 6         | 9.38%   |
 | 2018 | 6         | 9.38%   |
 | 2013 | 5         | 7.81%   |
@@ -1002,7 +1002,7 @@ Hard drive models
 | WDC WD10SPZX-22Z10T0 1TB           | 1         | 1.25%   |
 | WDC WD10JPVX-22JC3T0 1TB           | 1         | 1.25%   |
 | WDC WD10JPCX-24UE4T0 1TB           | 1         | 1.25%   |
-| Unknown SD/MMC/MS PRO 64GB         | 1         | 1.25%   |
+| Unknown SD/MMC/MS PRO 2GB          | 1         | 1.25%   |
 | Transcend TS1TSSD230S 1024GB       | 1         | 1.25%   |
 | Toshiba TR200 240GB SSD            | 1         | 1.25%   |
 | Toshiba NVMe SSD Drive 512GB       | 1         | 1.25%   |
@@ -1018,7 +1018,7 @@ Hard drive models
 | Seagate ST500LT012-9WS142 500GB    | 1         | 1.25%   |
 | Seagate ST1000LX015-1U7172 1TB     | 1         | 1.25%   |
 | Seagate ST1000LM035-1RK1 1TB       | 1         | 1.25%   |
-| Seagate Expansion 4TB              | 1         | 1.25%   |
+| Seagate Expansion 240GB            | 1         | 1.25%   |
 | SanDisk SSD PLUS 240 GB            | 1         | 1.25%   |
 | SanDisk SD9SN8W512G1002 512GB SSD  | 1         | 1.25%   |
 | SanDisk SD8SBBU480G1122 480GB SSD  | 1         | 1.25%   |
@@ -1105,9 +1105,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 36        | 39     | 62.07%  |
+| 0.01-0.5   | 37        | 40     | 63.79%  |
 | 0.51-1.0   | 20        | 23     | 34.48%  |
-| 3.01-4.0   | 1         | 1      | 1.72%   |
 | 1.01-2.0   | 1         | 1      | 1.72%   |
 
 Space Total
@@ -1653,19 +1652,19 @@ Monitor models
 | Samsung Electronics SyncMaster SAM037B 1680x1050 474x296mm 22.0-inch     | 1         | 1.37%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.37%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch    | 1         | 1.37%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 1         | 1.37%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch     | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SEC3551 1366x768 344x194mm 15.5-inch     | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch     | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SDC464C 1366x768 309x174mm 14.0-inch     | 1         | 1.37%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 410x230mm 18.5-inch    | 1         | 1.37%   |
-| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                           | 1         | 1.37%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch    | 1         | 1.37%   |
+| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                         | 1         | 1.37%   |
 | LG Display LCD Monitor LGD05FF 1920x1080 344x194mm 15.5-inch             | 1         | 1.37%   |
 | LG Display LCD Monitor LGD05F3 1920x1080 309x174mm 14.0-inch             | 1         | 1.37%   |
 | LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch             | 1         | 1.37%   |
 | LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch             | 1         | 1.37%   |
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 1.37%   |
-| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 1         | 1.37%   |
+| LG Display LCD Monitor LGD0469 1920x1080 380x210mm 17.1-inch             | 1         | 1.37%   |
 | LG Display LCD Monitor LGD02E9 1366x768 310x170mm 13.9-inch              | 1         | 1.37%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 1.37%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 1.37%   |
@@ -1865,7 +1864,7 @@ Controller models
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 1.56%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 0.78%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1         | 0.78%   |
-| Spreadtrum Nokia G21                                              | 1         | 0.78%   |
+| Spreadtrum Unisoc Phone                                           | 1         | 0.78%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 0.78%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 0.78%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 1         | 0.78%   |
@@ -1893,16 +1892,17 @@ Wireless vendors
 ![Wireless Vendor](./images/pie_chart/net_wireless_vendor.svg)
 
 
-| Vendor                | Notebooks | Percent |
-|-----------------------|-----------|---------|
-| Intel                 | 29        | 43.28%  |
-| Qualcomm Atheros      | 20        | 29.85%  |
-| Realtek Semiconductor | 9         | 13.43%  |
-| Broadcom              | 5         | 7.46%   |
-| TP-Link               | 1         | 1.49%   |
-| Ralink Technology     | 1         | 1.49%   |
-| Ralink                | 1         | 1.49%   |
-| Broadcom Limited      | 1         | 1.49%   |
+| Vendor                            | Notebooks | Percent |
+|-----------------------------------|-----------|---------|
+| Intel                             | 29        | 42.65%  |
+| Qualcomm Atheros                  | 20        | 29.41%  |
+| Realtek Semiconductor             | 9         | 13.24%  |
+| Broadcom                          | 5         | 7.35%   |
+| TP-Link                           | 1         | 1.47%   |
+| Ralink Technology                 | 1         | 1.47%   |
+| Ralink                            | 1         | 1.47%   |
+| Ericsson Business Mobile Networks | 1         | 1.47%   |
+| Broadcom Limited                  | 1         | 1.47%   |
 
 Wireless Model
 --------------
@@ -1914,41 +1914,42 @@ Wireless models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 6         | 8.82%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 5         | 7.35%   |
-| Intel Centrino Ultimate-N 6300                                 | 5         | 7.35%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 4         | 5.88%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 4         | 5.88%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter               | 4         | 5.88%   |
-| Intel Wi-Fi 6 AX200                                            | 3         | 4.41%   |
-| Intel Gemini Lake PCH CNVi WiFi                                | 3         | 4.41%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 3         | 4.41%   |
-| Broadcom BCM43142 802.11b/g/n                                  | 3         | 4.41%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                | 2         | 2.94%   |
-| Intel Wireless 8265 / 8275                                     | 2         | 2.94%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 2.94%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 1.47%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 1.47%   |
-| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter       | 1         | 1.47%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1         | 1.47%   |
-| Ralink MT7601U Wireless Adapter                                | 1         | 1.47%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                      | 1         | 1.47%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 1         | 1.47%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 1         | 1.47%   |
-| Intel Wireless-AC 9260                                         | 1         | 1.47%   |
-| Intel Wireless 7265                                            | 1         | 1.47%   |
-| Intel Wireless 7260                                            | 1         | 1.47%   |
-| Intel Tiger Lake PCH CNVi WiFi                                 | 1         | 1.47%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection        | 1         | 1.47%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                | 1         | 1.47%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                              | 1         | 1.47%   |
-| Intel Comet Lake PCH CNVi WiFi                                 | 1         | 1.47%   |
-| Intel Centrino Wireless-N 2230                                 | 1         | 1.47%   |
-| Intel Centrino Wireless-N 2200                                 | 1         | 1.47%   |
-| Intel Centrino Advanced-N 6200                                 | 1         | 1.47%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                       | 1         | 1.47%   |
-| Intel Cannon Lake PCH CNVi WiFi                                | 1         | 1.47%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                      | 1         | 1.47%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 6         | 8.7%    |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 5         | 7.25%   |
+| Intel Centrino Ultimate-N 6300                                 | 5         | 7.25%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 4         | 5.8%    |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 4         | 5.8%    |
+| Qualcomm Atheros AR9485 Wireless Network Adapter               | 4         | 5.8%    |
+| Intel Wi-Fi 6 AX200                                            | 3         | 4.35%   |
+| Intel Gemini Lake PCH CNVi WiFi                                | 3         | 4.35%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 3         | 4.35%   |
+| Broadcom BCM43142 802.11b/g/n                                  | 3         | 4.35%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                | 2         | 2.9%    |
+| Intel Wireless 8265 / 8275                                     | 2         | 2.9%    |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 2.9%    |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 1.45%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 1.45%   |
+| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter       | 1         | 1.45%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1         | 1.45%   |
+| Ralink MT7601U Wireless Adapter                                | 1         | 1.45%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                      | 1         | 1.45%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 1         | 1.45%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 1         | 1.45%   |
+| Intel Wireless-AC 9260                                         | 1         | 1.45%   |
+| Intel Wireless 7265                                            | 1         | 1.45%   |
+| Intel Wireless 7260                                            | 1         | 1.45%   |
+| Intel Tiger Lake PCH CNVi WiFi                                 | 1         | 1.45%   |
+| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection        | 1         | 1.45%   |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                | 1         | 1.45%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                              | 1         | 1.45%   |
+| Intel Comet Lake PCH CNVi WiFi                                 | 1         | 1.45%   |
+| Intel Centrino Wireless-N 2230                                 | 1         | 1.45%   |
+| Intel Centrino Wireless-N 2200                                 | 1         | 1.45%   |
+| Intel Centrino Advanced-N 6200                                 | 1         | 1.45%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                       | 1         | 1.45%   |
+| Intel Cannon Lake PCH CNVi WiFi                                | 1         | 1.45%   |
+| Ericsson Business Mobile Networks N5321 gw                     | 1         | 1.45%   |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                      | 1         | 1.45%   |
 
 Ethernet Vendor
 ---------------
@@ -1987,7 +1988,7 @@ Ethernet models
 | Huawei E353/E3131                                                 | 3         | 5.17%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 3.45%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 1.72%   |
-| Spreadtrum Nokia G21                                              | 1         | 1.72%   |
+| Spreadtrum Unisoc Phone                                           | 1         | 1.72%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 1.72%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.72%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.72%   |
@@ -2012,9 +2013,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 64        | 53.78%  |
-| Ethernet | 53        | 44.54%  |
-| Modem    | 2         | 1.68%   |
+| WiFi     | 64        | 54.24%  |
+| Ethernet | 53        | 44.92%  |
+| Modem    | 1         | 0.85%   |
 
 Used Controller
 ---------------
@@ -2093,7 +2094,7 @@ Controller models
 | Realtek Bluetooth Radio                           | 4         | 8.51%   |
 | Qualcomm Atheros  Bluetooth Device                | 4         | 8.51%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 4         | 8.51%   |
-| Intel AX201 Bluetooth                             | 3         | 6.38%   |
+| Intel Bluetooth Device                            | 3         | 6.38%   |
 | Intel AX200 Bluetooth                             | 3         | 6.38%   |
 | Lite-On Atheros AR3012 Bluetooth                  | 2         | 4.26%   |
 | HP Broadcom 2070 Bluetooth Combo                  | 2         | 4.26%   |
@@ -2102,8 +2103,8 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                    | 1         | 2.13%   |
 | Qualcomm Atheros Bluetooth USB Host Controller    | 1         | 2.13%   |
 | Qualcomm Atheros AR3011 Bluetooth                 | 1         | 2.13%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth        | 1         | 2.13%   |
 | Lite-On Qualcomm Atheros Bluetooth                | 1         | 2.13%   |
+| Lite-On Bluetooth Device                          | 1         | 2.13%   |
 | Lite-On BCM43142A0                                | 1         | 2.13%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter          | 1         | 2.13%   |
 | Intel Centrino Bluetooth Wireless Transceiver     | 1         | 2.13%   |
@@ -2219,14 +2220,14 @@ Memory module models
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM 800MT/s                       | 1         | 10%     |
-| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 10%     |
+| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s       | 1         | 10%     |
 | Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s       | 1         | 10%     |
-| SK hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s   | 1         | 10%     |
+| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 10%     |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 10%     |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s      | 1         | 10%     |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 1         | 10%     |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s       | 1         | 10%     |
-| Ramaxel RAM RMT1970ED48E8F1066 2GB SODIMM DDR3 1067MT/s     | 1         | 10%     |
+| Ramaxel RAM RMT1970ED48E8F1066 2048MB SODIMM DDR3 1067MT/s  | 1         | 10%     |
 | Micron RAM 4ATF11G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s | 1         | 10%     |
 
 Memory Kind

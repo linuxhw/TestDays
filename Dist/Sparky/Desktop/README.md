@@ -791,7 +791,7 @@ Hard drive models
 |-----------------------------------------|----------|---------|
 | Seagate ST500LT012-1DG142 500GB         | 2        | 5%      |
 | Samsung HD161GJ 160GB                   | 2        | 5%      |
-| XPG GAMMIX S11 Pro 512GB                | 1        | 2.5%    |
+| XPG GAMMIX S11 Pro 1TB                  | 1        | 2.5%    |
 | WDC WD800JD-08MSA1 80GB                 | 1        | 2.5%    |
 | WDC WD5000AVVS-63ZWB0 500GB             | 1        | 2.5%    |
 | WDC WD5000AAKS-75V0A0 500GB             | 1        | 2.5%    |
@@ -1091,10 +1091,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 13       | 54.17%  |
-| IDE  | 7        | 29.17%  |
-| NVMe | 3        | 12.5%   |
-| RAID | 1        | 4.17%   |
+| SATA | 13       | 52%     |
+| IDE  | 7        | 28%     |
+| NVMe | 3        | 12%     |
+| RAID | 2        | 8%      |
 
 Processor
 ---------
@@ -1420,7 +1420,7 @@ Monitor models
 | Dell LCD Monitor S2715H                                              | 1        | 4.76%   |
 | Dell IN1930 DELF03B 1366x768 410x230mm 18.5-inch                     | 1        | 4.76%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1        | 4.76%   |
-| BenQ FP202W BNQ76C2 1680x1050 376x301mm 19.0-inch                    | 1        | 4.76%   |
+| BenQ FP202W BNQ76C2 1680x1050 430x270mm 20.0-inch                    | 1        | 4.76%   |
 | BenQ E900HD BNQ7910 1366x768 410x230mm 18.5-inch                     | 1        | 4.76%   |
 | AOC LM729 AOCA784 1280x1024 340x270mm 17.1-inch                      | 1        | 4.76%   |
 | AOC 2450W AOC2450 1920x1080 521x293mm 23.5-inch                      | 1        | 4.76%   |
@@ -1877,7 +1877,7 @@ Memory module models
 | Kingston RAM Module 16GB SODIMM DDR4 2133MT/s            | 1        | 7.14%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s      | 1        | 7.14%   |
 | Kingston RAM 99U5471-030.A00LF 8192MB DIMM DDR3 1333MT/s | 1        | 7.14%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s    | 1        | 7.14%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s       | 1        | 7.14%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
 | Corsair RAM CMZ4GX3M1A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 7.14%   |
 | Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s    | 1        | 7.14%   |
@@ -2057,8 +2057,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 14       | 70%     |
-| 1     | 5        | 25%     |
+| 0     | 13       | 65%     |
+| 1     | 6        | 30%     |
 | 2     | 1        | 5%      |
 
 Unsupported Device Types
@@ -2071,7 +2071,7 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 4        | 57.14%  |
-| Net/wireless  | 2        | 28.57%  |
-| Camera        | 1        | 14.29%  |
+| Graphics card | 5        | 62.5%   |
+| Net/wireless  | 2        | 25%     |
+| Camera        | 1        | 12.5%   |
 

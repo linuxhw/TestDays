@@ -566,8 +566,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 7        | 58.33%  |
-| No        | 5        | 41.67%  |
+| Yes       | 8        | 66.67%  |
+| No        | 4        | 33.33%  |
 
 Has Ethernet
 ------------
@@ -694,7 +694,7 @@ Hard drive models
 | Seagate ST2000DM008-2UB102 2TB       | 1        | 4.55%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1        | 4.55%   |
 | SanDisk SD8SB8U-256G-1006 256GB SSD  | 1        | 4.55%   |
-| SanDisk Portable SSD 1TB             | 1        | 4.55%   |
+| SanDisk Portable SSD 2TB             | 1        | 4.55%   |
 | Samsung SSD 970 EVO Plus 500GB       | 1        | 4.55%   |
 | Samsung SSD 970 EVO Plus 1TB         | 1        | 4.55%   |
 | Samsung SSD 960 EVO 250GB            | 1        | 4.55%   |
@@ -777,8 +777,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 8        | 11     | 53.33%  |
-| 0.51-1.0   | 4        | 5      | 26.67%  |
-| 1.01-2.0   | 2        | 3      | 13.33%  |
+| 1.01-2.0   | 3        | 4      | 20%     |
+| 0.51-1.0   | 3        | 4      | 20%     |
 | 2.01-3.0   | 1        | 1      | 6.67%   |
 
 Space Total
@@ -1361,9 +1361,9 @@ Controller models
 | TP-Link Archer T4UH wireless Realtek 8812AU                       | 1        | 4.76%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 4.76%   |
 | TP-Link 802.11ac WLAN Adapter                                     | 1        | 4.76%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1        | 4.76%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 4.76%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 4.76%   |
-| Realtek 802.11n WLAN Adapter                                      | 1        | 4.76%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1        | 4.76%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1        | 4.76%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 4.76%   |
@@ -1401,7 +1401,7 @@ Wireless models
 | TP-Link Archer T4UH wireless Realtek 8812AU                    | 1        | 16.67%  |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1        | 16.67%  |
 | TP-Link 802.11ac WLAN Adapter                                  | 1        | 16.67%  |
-| Realtek 802.11n WLAN Adapter                                   | 1        | 16.67%  |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                     | 1        | 16.67%  |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 1        | 16.67%  |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 1        | 16.67%  |
 
@@ -1614,9 +1614,9 @@ Memory module models
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s | 1        | 6.25%   |
 | Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s  | 1        | 6.25%   |
 | Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s   | 1        | 6.25%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s  | 1        | 6.25%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s     | 1        | 6.25%   |
 | G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s     | 1        | 6.25%   |
-| Crucial RAM RM51264BA1339.16FR 4096MB DIMM 1333MT/s    | 1        | 6.25%   |
+| Crucial RAM RM51264BA1339.16FR 4GB DIMM DDR3 1333MT/s  | 1        | 6.25%   |
 | Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s   | 1        | 6.25%   |
 | A Force RAM 1GX64V160K 8GB DIMM DDR3 1600MT/s          | 1        | 6.25%   |
 

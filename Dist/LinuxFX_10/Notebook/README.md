@@ -1450,40 +1450,40 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                    | Notebooks | Percent |
-|--------------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 2         | 5.56%   |
-| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 2         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch          | 2         | 5.56%   |
-| AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch            | 2         | 5.56%   |
-| Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch     | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch     | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2.78%   |
-| LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch              | 1         | 2.78%   |
-| LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch              | 1         | 2.78%   |
-| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch              | 1         | 2.78%   |
-| LG Display LCD Monitor LGD02EB 1366x768 309x174mm 14.0-inch              | 1         | 2.78%   |
-| LG Display LCD Monitor LGD0251 1366x768 310x174mm 14.0-inch              | 1         | 2.78%   |
-| CPT LCD Monitor CPT13B1 1280x800 331x207mm 15.4-inch                     | 1         | 2.78%   |
-| Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 1         | 2.78%   |
-| Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch          | 1         | 2.78%   |
-| Chimei Innolux LCD Monitor CMN1521 1920x1080 344x193mm 15.5-inch         | 1         | 2.78%   |
-| Chimei Innolux LCD Monitor CMN1476 1366x768 309x174mm 14.0-inch          | 1         | 2.78%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1007 1024x600 222x125mm 10.0-inch | 1         | 2.78%   |
-| BOE LCD Monitor BOE06BA 1920x1080 344x193mm 15.5-inch                    | 1         | 2.78%   |
-| BOE LCD Monitor BOE06A5 1366x768 344x194mm 15.5-inch                     | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO8174 1280x800 331x207mm 15.4-inch            | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch            | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO253C 1366x768 309x173mm 13.9-inch            | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO23EC 1366x768 344x193mm 15.5-inch            | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO2374 1280x800 331x207mm 15.4-inch            | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO20EC 1366x768 344x193mm 15.5-inch            | 1         | 2.78%   |
-| AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch            | 1         | 2.78%   |
-| Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch    | 1         | 2.78%   |
+| Model                                                                   | Notebooks | Percent |
+|-------------------------------------------------------------------------|-----------|---------|
+| LG Display LCD Monitor LGD0469 1920x1080 380x210mm 17.1-inch            | 2         | 5.56%   |
+| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch             | 2         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch         | 2         | 5.56%   |
+| AU Optronics LCD Monitor AUO303E 1600x900 309x174mm 14.0-inch           | 2         | 5.56%   |
+| Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch    | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch    | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch    | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SDC4752 1366x768 344x194mm 15.5-inch    | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch    | 1         | 2.78%   |
+| LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch             | 1         | 2.78%   |
+| LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch             | 1         | 2.78%   |
+| LG Display LCD Monitor LGD03B3 1366x768 310x174mm 14.0-inch             | 1         | 2.78%   |
+| LG Display LCD Monitor LGD02EB 1366x768 309x174mm 14.0-inch             | 1         | 2.78%   |
+| LG Display LCD Monitor LGD0251 1366x768 310x174mm 14.0-inch             | 1         | 2.78%   |
+| CPT LCD Monitor CPT13B1 1280x800 331x207mm 15.4-inch                    | 1         | 2.78%   |
+| Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch         | 1         | 2.78%   |
+| Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch         | 1         | 2.78%   |
+| Chimei Innolux LCD Monitor CMN1521 1920x1080 344x193mm 15.5-inch        | 1         | 2.78%   |
+| Chimei Innolux LCD Monitor CMN1476 1366x768 309x174mm 14.0-inch         | 1         | 2.78%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1007 1024x600 220x120mm 9.9-inch | 1         | 2.78%   |
+| BOE LCD Monitor BOE06BA 1920x1080 344x193mm 15.5-inch                   | 1         | 2.78%   |
+| BOE LCD Monitor BOE06A5 1366x768 344x194mm 15.5-inch                    | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO8174 1280x800 331x207mm 15.4-inch           | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch          | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch           | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO253C 1366x768 309x173mm 13.9-inch           | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO23EC 1366x768 344x193mm 15.5-inch           | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO2374 1280x800 331x207mm 15.4-inch           | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch           | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO20EC 1366x768 344x193mm 15.5-inch           | 1         | 2.78%   |
+| AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch           | 1         | 2.78%   |
+| Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch   | 1         | 2.78%   |
 
 Monitor Resolution
 ------------------
@@ -1675,15 +1675,16 @@ Wireless vendors
 ![Wireless Vendor](./images/pie_chart/net_wireless_vendor.svg)
 
 
-| Vendor                | Notebooks | Percent |
-|-----------------------|-----------|---------|
-| Qualcomm Atheros      | 15        | 36.59%  |
-| Intel                 | 10        | 24.39%  |
-| Broadcom              | 6         | 14.63%  |
-| Realtek Semiconductor | 5         | 12.2%   |
-| Broadcom Limited      | 3         | 7.32%   |
-| Ralink                | 1         | 2.44%   |
-| NetGear               | 1         | 2.44%   |
+| Vendor                            | Notebooks | Percent |
+|-----------------------------------|-----------|---------|
+| Qualcomm Atheros                  | 15        | 35.71%  |
+| Intel                             | 10        | 23.81%  |
+| Broadcom                          | 6         | 14.29%  |
+| Realtek Semiconductor             | 5         | 11.9%   |
+| Broadcom Limited                  | 3         | 7.14%   |
+| Ralink                            | 1         | 2.38%   |
+| NetGear                           | 1         | 2.38%   |
+| Ericsson Business Mobile Networks | 1         | 2.38%   |
 
 Wireless Model
 --------------
@@ -1695,33 +1696,34 @@ Wireless models
 
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 5         | 12.2%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 9.76%   |
-| Broadcom BCM4312 802.11b/g LP-PHY                                       | 3         | 7.32%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 2         | 4.88%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 4.88%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 4.88%   |
-| Intel Centrino Wireless-N 2230                                          | 2         | 4.88%   |
-| Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 4.88%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 2.44%   |
-| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 2.44%   |
-| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2.44%   |
-| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 2.44%   |
-| Realtek 802.11ac NIC                                                    | 1         | 2.44%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 2.44%   |
-| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 2.44%   |
-| Intel Wireless 8260                                                     | 1         | 2.44%   |
-| Intel Wireless 7265                                                     | 1         | 2.44%   |
-| Intel Wireless 7260                                                     | 1         | 2.44%   |
-| Intel Wireless 3165                                                     | 1         | 2.44%   |
-| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 2.44%   |
-| Intel Centrino Ultimate-N 6300                                          | 1         | 2.44%   |
-| Intel Centrino Advanced-N 6235                                          | 1         | 2.44%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 2.44%   |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 2.44%   |
-| Broadcom Limited BCM4321 802.11a/b/g/n                                  | 1         | 2.44%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 2.44%   |
-| Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.44%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 5         | 11.9%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 4         | 9.52%   |
+| Broadcom BCM4312 802.11b/g LP-PHY                                       | 3         | 7.14%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 2         | 4.76%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 4.76%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 4.76%   |
+| Intel Centrino Wireless-N 2230                                          | 2         | 4.76%   |
+| Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 4.76%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 2.38%   |
+| Realtek RTL8723DE Wireless Network Adapter                              | 1         | 2.38%   |
+| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 2.38%   |
+| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                | 1         | 2.38%   |
+| Realtek 802.11ac NIC                                                    | 1         | 2.38%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 2.38%   |
+| NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                     | 1         | 2.38%   |
+| Intel Wireless 8260                                                     | 1         | 2.38%   |
+| Intel Wireless 7265                                                     | 1         | 2.38%   |
+| Intel Wireless 7260                                                     | 1         | 2.38%   |
+| Intel Wireless 3165                                                     | 1         | 2.38%   |
+| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 2.38%   |
+| Intel Centrino Ultimate-N 6300                                          | 1         | 2.38%   |
+| Intel Centrino Advanced-N 6235                                          | 1         | 2.38%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 2.38%   |
+| Ericsson Business Mobile Networks N5321 gw                              | 1         | 2.38%   |
+| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter              | 1         | 2.38%   |
+| Broadcom Limited BCM4321 802.11a/b/g/n                                  | 1         | 2.38%   |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                               | 1         | 2.38%   |
+| Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.38%   |
 
 Ethernet Vendor
 ---------------
@@ -1783,9 +1785,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 39        | 49.37%  |
-| Ethernet | 39        | 49.37%  |
-| Modem    | 1         | 1.27%   |
+| WiFi     | 39        | 50%     |
+| Ethernet | 39        | 50%     |
 
 Used Controller
 ---------------
@@ -1868,8 +1869,8 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                          | 1         | 4.35%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 4.35%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 1         | 4.35%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 4.35%   |
-| Intel AX201 Bluetooth                                       | 1         | 4.35%   |
+| Lite-On Bluetooth Device                                    | 1         | 4.35%   |
+| Intel Bluetooth Device                                      | 1         | 4.35%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 4.35%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 4.35%   |
 | Foxconn / Hon Hai BCM20702A0                                | 1         | 4.35%   |
@@ -1957,14 +1958,14 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Notebooks | Percent |
-|----------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2GB SODIMM SDRAM                      | 1         | 16.67%  |
-| Smart RAM SF464128CKHIWDFSEG 4GB SODIMM DDR4 2133MT/s    | 1         | 16.67%  |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1         | 16.67%  |
-| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s | 1         | 16.67%  |
-| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
-| Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s  | 1         | 16.67%  |
+| Model                                                   | Notebooks | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2GB SODIMM SDRAM                     | 1         | 16.67%  |
+| Smart RAM SF464128CKHIWDFSEG 4GB SODIMM DDR4 2133MT/s   | 1         | 16.67%  |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s  | 1         | 16.67%  |
+| Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
+| Kingston RAM 9905428-026.A00LF 2GB SODIMM DDR3 1066MT/s | 1         | 16.67%  |
 
 Memory Kind
 -----------
@@ -2186,8 +2187,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 25        | 62.5%   |
-| 1     | 14        | 35%     |
+| 0     | 24        | 60%     |
+| 1     | 15        | 37.5%   |
 | 2     | 1         | 2.5%    |
 
 Unsupported Device Types
@@ -2200,10 +2201,10 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 6         | 37.5%   |
-| Net/wireless       | 4         | 25%     |
-| Fingerprint reader | 2         | 12.5%   |
-| Chipcard           | 2         | 12.5%   |
-| Storage            | 1         | 6.25%   |
-| Network            | 1         | 6.25%   |
+| Graphics card      | 7         | 41.18%  |
+| Net/wireless       | 4         | 23.53%  |
+| Fingerprint reader | 2         | 11.76%  |
+| Chipcard           | 2         | 11.76%  |
+| Storage            | 1         | 5.88%   |
+| Network            | 1         | 5.88%   |
 

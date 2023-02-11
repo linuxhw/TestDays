@@ -1792,12 +1792,12 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 2         | 2.08%   |
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1         | 1.04%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1         | 1.04%   |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch  | 1         | 1.04%   |
+| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch | 1         | 1.04%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                             | 1         | 1.04%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1         | 1.04%   |
 | SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                    | 1         | 1.04%   |
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 1.04%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1         | 1.04%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch     | 1         | 1.04%   |
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1         | 1.04%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch     | 1         | 1.04%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch     | 1         | 1.04%   |
@@ -1805,8 +1805,8 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch  | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC3157 1280x800 261x163mm 12.1-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
@@ -2309,8 +2309,8 @@ Controller models
 | Intel Bluetooth wireless interface                  | 13        | 23.64%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7         | 12.73%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 3         | 5.45%   |
+| Intel Bluetooth Device                              | 3         | 5.45%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 5.45%   |
-| Intel AX201 Bluetooth                               | 3         | 5.45%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 3.64%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 3.64%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 3.64%   |
@@ -2454,9 +2454,9 @@ Memory module models
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                      | 1         | 2.27%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                     | 1         | 2.27%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1334MT/s                  | 1         | 2.27%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s                  | 1         | 2.27%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s                        | 1         | 2.27%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
@@ -2469,7 +2469,7 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM K4UBE3D4AA-MGCL 8GB Row Of Chips LPDDR4 4267MT/s               | 1         | 2.27%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1024MB DIMM DDR2 800MT/s  | 1         | 2.27%   |
-| Ramaxel RAM RMSA3270MB86H9F2400 4GB SODIMM DDR4 2400MT/s                   | 1         | 2.27%   |
+| Ramaxel RAM RMSA3270MB86H9F2400 4096MB SODIMM DDR4 2400MT/s                | 1         | 2.27%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                           | 1         | 2.27%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1         | 2.27%   |
 | Micron RAM Module 4GB SODIMM DDR3 1600MT/s                                 | 1         | 2.27%   |
@@ -2481,7 +2481,7 @@ Memory module models
 | Kingston RAM KHX2133C13S4/4G 4GB SODIMM DDR4 2133MT/s                      | 1         | 2.27%   |
 | Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
 | Kingston RAM 9905734-018.A00G 16384MB DIMM DDR4 2667MT/s                   | 1         | 2.27%   |
-| Kingston RAM 9905471-011.A00LF 4096MB DIMM DDR3 1600MT/s                   | 1         | 2.27%   |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s                      | 1         | 2.27%   |
 | Kingston RAM 202020202020202020202020202020202020 2048MB DIMM DDR2 800MT/s | 1         | 2.27%   |
 | G.Skill RAM F3-19200C10-8GBZHD 8192MB DIMM DDR3 1333MT/s                   | 1         | 2.27%   |
 
@@ -2654,7 +2654,7 @@ Camera device models
 | Suyin WebCam                                   | 1         | 2.08%   |
 | Suyin HP Truevision HD                         | 1         | 2.08%   |
 | Suyin Asus Integrated Webcam                   | 1         | 2.08%   |
-| Suyin 1.3M Front                               | 1         | 2.08%   |
+| Suyin 1.3M HD WebCam                           | 1         | 2.08%   |
 | Sunplus Laptop_Integrated_Webcam_HD            | 1         | 2.08%   |
 | Sunplus Integrated_Webcam_HD                   | 1         | 2.08%   |
 | Sunplus HD WebCam                              | 1         | 2.08%   |
@@ -2675,8 +2675,8 @@ Camera device models
 | IMC Networks USB2.0 UVC HD Webcam              | 1         | 2.08%   |
 | IMC Networks USB2.0 HD UVC WebCam              | 1         | 2.08%   |
 | Cubeternet HDMI to U3 capture                  | 1         | 2.08%   |
+| Chicony Web Camera - HD                        | 1         | 2.08%   |
 | Chicony USB 2.0 Camera                         | 1         | 2.08%   |
-| Chicony TOSHIBA Web Camera - HD                | 1         | 2.08%   |
 | Chicony Lenovo EasyCamera                      | 1         | 2.08%   |
 | Chicony HP Wide Vision HD Camera               | 1         | 2.08%   |
 | Chicony HP Webcam [2 MP Macro]                 | 1         | 2.08%   |
@@ -2761,8 +2761,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 68        | 76.4%   |
-| 1     | 18        | 20.22%  |
-| 2     | 3         | 3.37%   |
+| 1     | 19        | 21.35%  |
+| 2     | 2         | 2.25%   |
 
 Unsupported Device Types
 ------------------------
@@ -2774,10 +2774,10 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 9         | 42.86%  |
-| Fingerprint reader | 6         | 28.57%  |
-| Net/wireless       | 2         | 9.52%   |
-| Chipcard           | 2         | 9.52%   |
-| Net/ethernet       | 1         | 4.76%   |
-| Bluetooth          | 1         | 4.76%   |
+| Graphics card      | 8         | 40%     |
+| Fingerprint reader | 6         | 30%     |
+| Net/wireless       | 2         | 10%     |
+| Chipcard           | 2         | 10%     |
+| Net/ethernet       | 1         | 5%      |
+| Bluetooth          | 1         | 5%      |
 

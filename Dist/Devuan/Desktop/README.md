@@ -1700,7 +1700,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch   | 2        | 3.85%   |
 | Hewlett-Packard 22m HPN3575 1920x1080 476x268mm 21.5-inch              | 2        | 3.85%   |
-| ___ LCDTV16 ___9000 1360x768                                           | 1        | 1.92%   |
+| ___ LCD TV ___9000 1360x768                                            | 1        | 1.92%   |
 | ViewSonic VA2261 VSC0F30 1920x1080 477x268mm 21.5-inch                 | 1        | 1.92%   |
 | Unknown LCD TV 9000 1360x768 1600x900mm 72.3-inch                      | 1        | 1.92%   |
 | Toshiba TV TSB0209 1920x1080 1594x900mm 72.1-inch                      | 1        | 1.92%   |
@@ -1710,7 +1710,7 @@ Monitor models
 | Samsung Electronics S/T 77/76BDF STN0007 1280x1024 312x234mm 15.4-inch | 1        | 1.92%   |
 | Samsung Electronics LCD Monitor SyncMaster 1280x1024                   | 1        | 1.92%   |
 | Samsung Electronics LCD Monitor SyncMaster                             | 1        | 1.92%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 410x230mm 18.5-inch  | 1        | 1.92%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch  | 1        | 1.92%   |
 | Samsung Electronics LCD Monitor SA300/350/360                          | 1        | 1.92%   |
 | Samsung Electronics LCD Monitor S24D340                                | 1        | 1.92%   |
 | Samsung Electronics LCD Monitor C27F390 5760x1080                      | 1        | 1.92%   |
@@ -1727,16 +1727,16 @@ Monitor models
 | Iiyama PL2482H IVM610D 1920x1080 521x293mm 23.5-inch                   | 1        | 1.92%   |
 | HJW HDMI TO USB HJW0001 1920x1080 700x390mm 31.5-inch                  | 1        | 1.92%   |
 | Hewlett-Packard LA2206 HWP2947 1920x1080 477x268mm 21.5-inch           | 1        | 1.92%   |
-| Hewlett-Packard L2245w HWP26FC 1680x1050 470x300mm 22.0-inch           | 1        | 1.92%   |
+| Hewlett-Packard L2245w HWP26FC 1680x1050 473x296mm 22.0-inch           | 1        | 1.92%   |
 | Hewlett-Packard ENVY 34c HWP3204 3440x1440 800x330mm 34.1-inch         | 1        | 1.92%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 1.92%   |
 | Hewlett-Packard Compaq S2321a HWP2915 1920x1080 509x286mm 23.0-inch    | 1        | 1.92%   |
-| Hewlett-Packard 22cw HWP3183 1920x1080 476x268mm 21.5-inch             | 1        | 1.92%   |
+| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch            | 1        | 1.92%   |
 | Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                   | 1        | 1.92%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 1.92%   |
 | Goldstar L1730S GSM438D 1280x1024 338x270mm 17.0-inch                  | 1        | 1.92%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 1        | 1.92%   |
-| eMachines E19T6W EMA0783 1440x900 410x260mm 19.1-inch                  | 1        | 1.92%   |
+| eMachines E19T6W EMA0783 1440x900 410x257mm 19.1-inch                  | 1        | 1.92%   |
 | Eizo EV2456 ENC2798 1920x1200 520x330mm 24.2-inch                      | 1        | 1.92%   |
 
 Monitor Resolution
@@ -2135,7 +2135,7 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth   | 1        | 16.67%  |
 | Intel Bluetooth wireless interface | 1        | 16.67%  |
 | Intel AX200 Bluetooth              | 1        | 16.67%  |
-| ASUS Bluetooth Device              | 1        | 16.67%  |
+| ASUS ASUS USB-BT500                | 1        | 16.67%  |
 
 Sound
 -----
@@ -2272,16 +2272,16 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR                        | 1        | 1.72%   |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s        | 1        | 1.72%   |
 | Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s     | 1        | 1.72%   |
-| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2667MT/s        | 1        | 1.72%   |
+| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s        | 1        | 1.72%   |
 | SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                | 1        | 1.72%   |
 | SK hynix RAM HMT451U7BFR8A-PB 4GB DIMM 1600MT/s           | 1        | 1.72%   |
 | SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.72%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 1.72%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 1.72%   |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM 1600MT/s           | 1        | 1.72%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s   | 1        | 1.72%   |
-| SK hynix RAM HMA81GU6JJR8N-VK 8192MB DIMM DDR4 2666MT/s   | 1        | 1.72%   |
+| SK hynix RAM HMA81GU6JJR8N-VK 8192MB DIMM DDR4 2667MT/s   | 1        | 1.72%   |
 | Samsung RAM Module 2GB DIMM DDR3 1333MT/s                 | 1        | 1.72%   |
-| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s    | 1        | 1.72%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s       | 1        | 1.72%   |
 | Nanya RAM Module 2GB DIMM DDR3 1333MT/s                   | 1        | 1.72%   |
 | Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s        | 1        | 1.72%   |
 | Micron RAM Module 2GB DIMM DDR3 1333MT/s                  | 1        | 1.72%   |
@@ -2367,7 +2367,7 @@ Memory module speed
 | 667     | 2        | 4.35%   |
 | Unknown | 2        | 4.35%   |
 | 3400    | 1        | 2.17%   |
-| 2666    | 1        | 2.17%   |
+| 2933    | 1        | 2.17%   |
 | 1867    | 1        | 2.17%   |
 | 800     | 1        | 2.17%   |
 | 400     | 1        | 2.17%   |

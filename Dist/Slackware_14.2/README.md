@@ -1101,8 +1101,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 37        | 57     | 50%     |
-| 0.51-1.0   | 20        | 43     | 27.03%  |
+| 0.01-0.5   | 38        | 58     | 51.35%  |
+| 0.51-1.0   | 19        | 42     | 25.68%  |
 | 1.01-2.0   | 6         | 9      | 8.11%   |
 | 3.01-4.0   | 4         | 11     | 5.41%   |
 | 2.01-3.0   | 4         | 8      | 5.41%   |
@@ -1759,19 +1759,19 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch     | 2         | 3.13%   |
-| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 1         | 1.56%   |
+| Xiaomi Woieyeks-4K XMD009A 2880x1800 480x270mm 21.7-inch             | 1         | 1.56%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1         | 1.56%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1         | 1.56%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1         | 1.56%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1         | 1.56%   |
+| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                   | 1         | 1.56%   |
 | Sharp LCD Monitor SHP14C4 1920x1080 344x194mm 15.5-inch              | 1         | 1.56%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1         | 1.56%   |
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 1.56%   |
-| Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 1.56%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.56%   |
-| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch          | 1         | 1.56%   |
-| ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1         | 1.56%   |
+| Samsung Electronics B2430L SAM0644 1920x1080 521x293mm 23.5-inch     | 1         | 1.56%   |
+| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch         | 1         | 1.56%   |
+| ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1         | 1.56%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1         | 1.56%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 1.56%   |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 1.56%   |
@@ -1780,7 +1780,7 @@ Monitor models
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 1.56%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 1.56%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1         | 1.56%   |
-| Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch              | 1         | 1.56%   |
+| Lenovo LCD Monitor LEN4035 1280x800 304x190mm 14.1-inch              | 1         | 1.56%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1         | 1.56%   |
 | Iiyama PLE2207WS IVM5609 1680x1050 474x296mm 22.0-inch               | 1         | 1.56%   |
 | Hewlett-Packard ZR2740w HWP2957 2560x1440 597x336mm 27.0-inch        | 1         | 1.56%   |
@@ -1793,7 +1793,7 @@ Monitor models
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1         | 1.56%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1         | 1.56%   |
 | Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1         | 1.56%   |
-| Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                     | 1         | 1.56%   |
+| Eizo M1700 ENC1788 1280x1024 340x280mm 17.3-inch                     | 1         | 1.56%   |
 | DPC Qumi Q38 DPC81F2 1920x1200 708x398mm 32.0-inch                   | 1         | 1.56%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1         | 1.56%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1         | 1.56%   |
@@ -2248,7 +2248,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 2.94%   |
 | Micro Star International Bluetooth Device           | 1         | 2.94%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.94%   |
-| Intel AX201 Bluetooth                               | 1         | 2.94%   |
+| Intel Bluetooth Device                              | 1         | 2.94%   |
 | Intel AX200 Bluetooth                               | 1         | 2.94%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1         | 2.94%   |
 
@@ -2365,7 +2365,7 @@ Memory module models
 | Model                                                     | Computers | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 2         | 2.9%    |
-| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s  | 2         | 2.9%    |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 2         | 2.9%    |
 | Unknown RAM Module 4096MB DIMM DDR3 65535MT/s             | 1         | 1.45%   |
 | Unknown RAM Module 2048MB DIMM SDRAM                      | 1         | 1.45%   |
 | Unknown RAM Module 2048MB DIMM DDR 800MT/s                | 1         | 1.45%   |
@@ -2375,21 +2375,21 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                | 1         | 1.45%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                    | 1         | 1.45%   |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s         | 1         | 1.45%   |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s       | 1         | 1.45%   |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s        | 1         | 1.45%   |
 | Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s       | 1         | 1.45%   |
 | Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s     | 1         | 1.45%   |
 | SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s   | 1         | 1.45%   |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 1.45%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s     | 1         | 1.45%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s      | 1         | 1.45%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s      | 1         | 1.45%   |
 | SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 1.45%   |
 | SK hynix RAM HMT351R7CFR8A-H9 4GB DIMM DDR3 1333MT/s      | 1         | 1.45%   |
 | SK hynix RAM HMT31GR7EFR4A 8192MB DIMM DDR3 1600MT/s      | 1         | 1.45%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s    | 1         | 1.45%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s    | 1         | 1.45%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4             | 1         | 1.45%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s | 1         | 1.45%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s     | 1         | 1.45%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s  | 1         | 1.45%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.45%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s     | 1         | 1.45%   |
+| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 1.45%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.45%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 1.45%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 1.45%   |
@@ -2684,8 +2684,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 35        | 53.85%  |
-| 1     | 13        | 20%     |
+| 0     | 36        | 55.38%  |
+| 1     | 12        | 18.46%  |
 | 2     | 9         | 13.85%  |
 | 3     | 5         | 7.69%   |
 | 4     | 3         | 4.62%   |
@@ -2700,18 +2700,18 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 12        | 23.08%  |
-| Sound                    | 7         | 13.46%  |
-| Fingerprint reader       | 6         | 11.54%  |
-| Chipcard                 | 6         | 11.54%  |
-| Communication controller | 5         | 9.62%   |
-| Net/wireless             | 4         | 7.69%   |
-| Card reader              | 4         | 7.69%   |
-| Bluetooth                | 2         | 3.85%   |
-| Unassigned class         | 1         | 1.92%   |
-| Storage/ata              | 1         | 1.92%   |
-| Storage                  | 1         | 1.92%   |
-| Net/ethernet             | 1         | 1.92%   |
-| Firewire controller      | 1         | 1.92%   |
-| Camera                   | 1         | 1.92%   |
+| Graphics card            | 11        | 21.57%  |
+| Sound                    | 7         | 13.73%  |
+| Fingerprint reader       | 6         | 11.76%  |
+| Chipcard                 | 6         | 11.76%  |
+| Communication controller | 5         | 9.8%    |
+| Net/wireless             | 4         | 7.84%   |
+| Card reader              | 4         | 7.84%   |
+| Bluetooth                | 2         | 3.92%   |
+| Unassigned class         | 1         | 1.96%   |
+| Storage/ata              | 1         | 1.96%   |
+| Storage                  | 1         | 1.96%   |
+| Net/ethernet             | 1         | 1.96%   |
+| Firewire controller      | 1         | 1.96%   |
+| Camera                   | 1         | 1.96%   |
 

@@ -66,6 +66,7 @@ Distribution-specific Reports
 -----------------------------
 
 * [ All Linux distributions ](/All)
+* [ AlmaLinux ](/Dist/AlmaLinux)
 * [ Alpine ](/Dist/Alpine)
 * [ ALT Linux ](/Dist/ALT_Linux)
 * [ antiX ](/Dist/antiX)

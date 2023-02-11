@@ -1204,7 +1204,7 @@ Monitor models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch   | 2        | 13.33%  |
-| Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                 | 1        | 6.67%   |
+| Viotek GNV34DBE VTK3400 3440x1440 797x334mm 34.0-inch               | 1        | 6.67%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch | 1        | 6.67%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 6.67%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 6.67%   |
@@ -1245,7 +1245,7 @@ Diagonal size in inches
 | Inches | Desktops | Percent |
 |--------|----------|---------|
 | 21     | 4        | 28.57%  |
-| 27     | 2        | 14.29%  |
+| 40     | 2        | 14.29%  |
 | 24     | 2        | 14.29%  |
 | 72     | 1        | 7.14%   |
 | 34     | 1        | 7.14%   |
@@ -1265,7 +1265,8 @@ Physical width
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
 | 401-500     | 5        | 38.46%  |
-| 501-600     | 4        | 30.77%  |
+| 801-900     | 2        | 15.38%  |
+| 501-600     | 2        | 15.38%  |
 | 701-800     | 1        | 7.69%   |
 | 601-700     | 1        | 7.69%   |
 | 351-400     | 1        | 7.69%   |
@@ -1297,7 +1298,7 @@ Area in inch²
 |----------------|----------|---------|
 | 201-250        | 6        | 46.15%  |
 | 351-500        | 2        | 15.38%  |
-| 301-350        | 2        | 15.38%  |
+| 501-1000       | 2        | 15.38%  |
 | More than 1000 | 1        | 7.69%   |
 | 141-150        | 1        | 7.69%   |
 | 131-140        | 1        | 7.69%   |
@@ -1365,7 +1366,7 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 4%      |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 4%      |
-| Motorola PCS moto g play (2021)                                   | 1        | 4%      |
+| Motorola PCS moto g power (2021)                                  | 1        | 4%      |
 | Intel Wireless-AC 9260                                            | 1        | 4%      |
 | Intel Wireless 8260                                               | 1        | 4%      |
 | Intel Wi-Fi 6 AX200                                               | 1        | 4%      |
@@ -1665,7 +1666,7 @@ Camera device vendors
 | Vendor        | Desktops | Percent |
 |---------------|----------|---------|
 | Logitech      | 1        | 50%     |
-| HD 2MP WEBCAM | 1        | 50%     |
+| 2M UVC CAMERA | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1675,10 +1676,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                       | Desktops | Percent |
-|-----------------------------|----------|---------|
-| Logitech HD Pro Webcam C920 | 1        | 50%     |
-| HD 2MP WEBCAM HD 2MP WEBCAM | 1        | 50%     |
+| Model                                | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920          | 1        | 50%     |
+| 2M UVC CAMERA NexiGo N660 FHD Webcam | 1        | 50%     |
 
 Security
 --------

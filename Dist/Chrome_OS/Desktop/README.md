@@ -460,10 +460,10 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2008 | 3        | 21.43%  |
+| 2007 | 3        | 21.43%  |
 | 2014 | 2        | 14.29%  |
 | 2012 | 2        | 14.29%  |
-| 2007 | 2        | 14.29%  |
+| 2008 | 2        | 14.29%  |
 | 2019 | 1        | 7.14%   |
 | 2016 | 1        | 7.14%   |
 | 2015 | 1        | 7.14%   |
@@ -1196,11 +1196,11 @@ Monitor models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                     | 1        | 7.69%   |
-| Sony TV SNY9C01 1920x1080                                            | 1        | 7.69%   |
+| Sony TV SNY9C01 1360x768                                             | 1        | 7.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch | 1        | 7.69%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                       | 1        | 7.69%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch               | 1        | 7.69%   |
-| Goldstar W1952 GSM4B77 1440x900 410x260mm 19.1-inch                  | 1        | 7.69%   |
+| Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                  | 1        | 7.69%   |
 | Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                 | 1        | 7.69%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch               | 1        | 7.69%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                  | 1        | 7.69%   |
@@ -1646,10 +1646,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                    | Desktops | Percent |
-|--------------------------|----------|---------|
-| Seiko Epson L3150 Series | 1        | 50%     |
-| HP LaserJet 1012         | 1        | 50%     |
+| Model                      | Desktops | Percent |
+|----------------------------|----------|---------|
+| Seiko Epson ET-2710 Series | 1        | 50%     |
+| HP LaserJet 1012           | 1        | 50%     |
 
 Scanner Vendor
 --------------
@@ -1746,8 +1746,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 11       | 73.33%  |
-| 1     | 4        | 26.67%  |
+| 0     | 10       | 66.67%  |
+| 1     | 5        | 33.33%  |
 
 Unsupported Device Types
 ------------------------
@@ -1757,7 +1757,8 @@ Types of unsupported devices
 ![Unsupported Device Types](./images/pie_chart/device_unsupported_type.svg)
 
 
-| Type         | Desktops | Percent |
-|--------------|----------|---------|
-| Net/wireless | 4        | 100%    |
+| Type          | Desktops | Percent |
+|---------------|----------|---------|
+| Net/wireless  | 4        | 80%     |
+| Graphics card | 1        | 20%     |
 

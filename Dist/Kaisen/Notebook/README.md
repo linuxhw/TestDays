@@ -768,7 +768,7 @@ Hard drive models
 | KIOXIA KBG40ZNS512G NVMe 512GB            | 1         | 3.45%   |
 | Kingston SV300S37A240G 240GB SSD          | 1         | 3.45%   |
 | Kingston SNVS1000GB 1TB                   | 1         | 3.45%   |
-| JMicron Generic 240GB SSD                 | 1         | 3.45%   |
+| JMicron Generic 500GB                     | 1         | 3.45%   |
 | Intel SSDSC2BX480G4 480GB                 | 1         | 3.45%   |
 | Hitachi HTS545050A7E380 500GB             | 1         | 3.45%   |
 | HGST HTS725050A7E630 500GB                | 1         | 3.45%   |
@@ -1363,7 +1363,7 @@ Monitor models
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch     | 1         | 3.7%    |
 | PANDA LCD Monitor NCP005F 1920x1080 344x194mm 15.5-inch                   | 1         | 3.7%    |
 | LG Display LCD Monitor LGD40BA 1920x1080 344x194mm 15.5-inch              | 1         | 3.7%    |
-| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch              | 1         | 3.7%    |
+| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 3.7%    |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch               | 1         | 3.7%    |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 1         | 3.7%    |
 | Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                      | 1         | 3.7%    |
@@ -1380,9 +1380,9 @@ Monitor models
 | AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 3.7%    |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 3.7%    |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.7%    |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 1         | 3.7%    |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                    | 1         | 3.7%    |
-| Acer K202HQL ACR03E0 1366x768 434x236mm 19.4-inch                         | 1         | 3.7%    |
+| Acer K202HQL ACR03E0 1600x900 432x240mm 19.5-inch                         | 1         | 3.7%    |
 | Acer B193W ACR001E 1440x900 408x255mm 18.9-inch                           | 1         | 3.7%    |
 
 Monitor Resolution
@@ -1538,7 +1538,7 @@ Controller models
 | Sierra Wireless EM7345 4G LTE                                     | 1         | 2.17%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1         | 2.17%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1         | 2.17%   |
-| Realtek 802.11ac+Bluetooth 5.0 Adapter                            | 1         | 2.17%   |
+| Realtek 802.11ac NIC                                              | 1         | 2.17%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 2.17%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 2.17%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                     | 1         | 2.17%   |
@@ -1592,7 +1592,7 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter           | 2         | 8%      |
 | Sierra Wireless EM7345 4G LTE                              | 1         | 4%      |
 | Realtek RTL8188EE Wireless Network Adapter                 | 1         | 4%      |
-| Realtek 802.11ac+Bluetooth 5.0 Adapter                     | 1         | 4%      |
+| Realtek 802.11ac NIC                                       | 1         | 4%      |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter | 1         | 4%      |
 | Intel Wireless 8260                                        | 1         | 4%      |
 | Intel Wireless 7260                                        | 1         | 4%      |
@@ -1729,11 +1729,10 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 4         | 22.22%  |
 | Qualcomm Atheros  Bluetooth Device                  | 3         | 16.67%  |
+| Intel Bluetooth Device                              | 2         | 11.11%  |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 5.56%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 5.56%   |
-| Intel Bluetooth Device                              | 1         | 5.56%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 5.56%   |
-| Intel AX201 Bluetooth                               | 1         | 5.56%   |
 | Intel AX200 Bluetooth                               | 1         | 5.56%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 5.56%   |
 | Foxconn / Hon Hai Acer Module                       | 1         | 5.56%   |
@@ -1834,7 +1833,7 @@ Memory module models
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 2         | 6.67%   |
-| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s      | 2         | 6.67%   |
+| Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s   | 2         | 6.67%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
@@ -1843,15 +1842,15 @@ Memory module models
 | SK hynix RAM HMAA1GS6CMR6N-XN 8GB Row Of Chips DDR4 3200MT/s | 1         | 3.33%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 3.33%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 3.33%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 1         | 3.33%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 3.33%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.33%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 3.33%   |
 | Ramaxel RAM RMSA3260MD78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 3.33%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 3.33%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s        | 1         | 3.33%   |
 | Kingston RAM KF3200C20S4/8G 8GB SODIMM DDR4 3200MT/s         | 1         | 3.33%   |
-| Kingston RAM ASU16D3LS1KBG/4G 4096MB SODIMM DDR3 1600MT/s    | 1         | 3.33%   |
-| Elpida RAM EBJ81UG8EFU0-GN-F 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.33%   |
+| Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s       | 1         | 3.33%   |
+| Elpida RAM EBJ81UG8EFU0-GN-F 8GB SODIMM DDR3 1600MT/s        | 1         | 3.33%   |
 | Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s       | 1         | 3.33%   |
 | Crucial RAM CT102464BF160B.Y16 8GB SODIMM DDR3 1600MT/s      | 1         | 3.33%   |
 | Crucial RAM BLS16G4S26BFSD.16FD 16GB SODIMM DDR4 2667MT/s    | 1         | 3.33%   |

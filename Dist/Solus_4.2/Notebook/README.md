@@ -1181,8 +1181,8 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
-| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch         | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 293x165mm 13.2-inch | 1         | 6.67%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 6.67%   |
@@ -1193,7 +1193,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO173D 1920x1080 309x173mm 13.9-inch       | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO15ED 1920x1080 344x193mm 15.5-inch       | 1         | 6.67%   |
-| AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 6.67%   |
+| AU Optronics LCD Monitor AUO139E 1600x900 380x210mm 17.1-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
 
 Monitor Resolution
@@ -1340,7 +1340,7 @@ Controller models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:3BB6B401                        | 1         | 3.57%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:019B7071                        | 1         | 3.57%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
 | Intel Wireless 8260                                               | 1         | 3.57%   |
 | Intel Wireless 7260                                               | 1         | 3.57%   |
@@ -1514,10 +1514,10 @@ Controller models
 | Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
 | Intel Bluetooth wireless interface               | 2         | 20%     |
 | Toshiba RT Bluetooth Radio                       | 1         | 10%     |
-| Realtek Bluetooth Radio                          | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
 | Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
+| Lite-On Bluetooth Device                         | 1         | 10%     |
 | Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
@@ -1593,7 +1593,7 @@ Memory module models
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
-| Kingston RAM 9905624-044.A00G 8192MB SODIMM DDR4 2400MT/s | 1         | 16.67%  |
+| Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 16.67%  |
 | A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 16.67%  |
 
@@ -1795,8 +1795,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 7         | 53.85%  |
-| 1     | 4         | 30.77%  |
+| 0     | 6         | 46.15%  |
+| 1     | 5         | 38.46%  |
 | 2     | 2         | 15.38%  |
 
 Unsupported Device Types
@@ -1809,7 +1809,8 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 4         | 57.14%  |
-| Net/wireless       | 2         | 28.57%  |
-| Chipcard           | 1         | 14.29%  |
+| Fingerprint reader | 4         | 50%     |
+| Net/wireless       | 2         | 25%     |
+| Graphics card      | 1         | 12.5%   |
+| Chipcard           | 1         | 12.5%   |
 

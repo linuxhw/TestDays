@@ -688,8 +688,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 20        | 54.05%  |
-| Yes       | 17        | 45.95%  |
+| No        | 19        | 51.35%  |
+| Yes       | 18        | 48.65%  |
 
 Has Ethernet
 ------------
@@ -870,7 +870,7 @@ Hard drive models
 | Seagate ST2000DM008-2FR102 2TB            | 1         | 1.79%   |
 | Seagate ST1000LM049-2GH172 1TB            | 1         | 1.79%   |
 | SanDisk SD8SB8U-256G-1006 256GB SSD       | 1         | 1.79%   |
-| SanDisk Portable SSD 1TB                  | 1         | 1.79%   |
+| SanDisk Portable SSD 2TB                  | 1         | 1.79%   |
 | Samsung SSD 970 EVO Plus 500GB            | 1         | 1.79%   |
 | Samsung SSD 970 EVO Plus 2TB              | 1         | 1.79%   |
 | Samsung SSD 960 EVO 250GB                 | 1         | 1.79%   |
@@ -969,8 +969,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 24        | 30     | 64.86%  |
-| 0.51-1.0   | 10        | 11     | 27.03%  |
-| 1.01-2.0   | 2         | 3      | 5.41%   |
+| 0.51-1.0   | 9         | 10     | 24.32%  |
+| 1.01-2.0   | 3         | 4      | 8.11%   |
 | 2.01-3.0   | 1         | 1      | 2.7%    |
 
 Space Total
@@ -1568,7 +1568,7 @@ Monitor models
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                   | 1         | 2.63%   |
 | PANDA LCD Monitor NCP005F 1920x1080 344x194mm 15.5-inch                   | 1         | 2.63%   |
 | LG Display LCD Monitor LGD40BA 1920x1080 344x194mm 15.5-inch              | 1         | 2.63%   |
-| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch              | 1         | 2.63%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 2.63%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch               | 1         | 2.63%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 1         | 2.63%   |
 | Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                      | 1         | 2.63%   |
@@ -1589,11 +1589,11 @@ Monitor models
 | AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 2.63%   |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 2.63%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 2.63%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 2.63%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 1         | 2.63%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                    | 1         | 2.63%   |
 | Apple Color LCD APP9CBC 1920x1080 475x267mm 21.5-inch                     | 1         | 2.63%   |
 | Acer X223HQ ACR0098 1920x1080 477x268mm 21.5-inch                         | 1         | 2.63%   |
-| Acer K202HQL ACR03E0 1366x768 434x236mm 19.4-inch                         | 1         | 2.63%   |
+| Acer K202HQL ACR03E0 1600x900 432x240mm 19.5-inch                         | 1         | 2.63%   |
 | Acer B193W ACR001E 1440x900 408x255mm 18.9-inch                           | 1         | 2.63%   |
 
 Monitor Resolution
@@ -1768,12 +1768,12 @@ Controller models
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1         | 1.41%   |
 | TP-Link 802.11ac WLAN Adapter                                     | 1         | 1.41%   |
 | Sierra Wireless EM7345 4G LTE                                     | 1         | 1.41%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1         | 1.41%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1         | 1.41%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 1.41%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.41%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1         | 1.41%   |
-| Realtek 802.11n WLAN Adapter                                      | 1         | 1.41%   |
-| Realtek 802.11ac+Bluetooth 5.0 Adapter                            | 1         | 1.41%   |
+| Realtek 802.11ac NIC                                              | 1         | 1.41%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.41%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.41%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 1.41%   |
@@ -1832,9 +1832,9 @@ Wireless models
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 3.03%   |
 | TP-Link 802.11ac WLAN Adapter                                  | 1         | 3.03%   |
 | Sierra Wireless EM7345 4G LTE                                  | 1         | 3.03%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                     | 1         | 3.03%   |
 | Realtek RTL8188EE Wireless Network Adapter                     | 1         | 3.03%   |
-| Realtek 802.11n WLAN Adapter                                   | 1         | 3.03%   |
-| Realtek 802.11ac+Bluetooth 5.0 Adapter                         | 1         | 3.03%   |
+| Realtek 802.11ac NIC                                           | 1         | 3.03%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1         | 3.03%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 1         | 3.03%   |
 | Intel Wireless 8260                                            | 1         | 3.03%   |
@@ -1986,13 +1986,12 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 4         | 18.18%  |
 | Qualcomm Atheros  Bluetooth Device                  | 3         | 13.64%  |
+| Intel Bluetooth Device                              | 2         | 9.09%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 2         | 9.09%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 4.55%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 4.55%   |
-| Intel Bluetooth Device                              | 1         | 4.55%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 4.55%   |
 | Intel AX210 Bluetooth                               | 1         | 4.55%   |
-| Intel AX201 Bluetooth                               | 1         | 4.55%   |
 | Intel AX200 Bluetooth                               | 1         | 4.55%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 4.55%   |
 | Foxconn / Hon Hai Acer Module                       | 1         | 4.55%   |
@@ -2113,7 +2112,7 @@ Memory module models
 | Model                                                         | Computers | Percent |
 |---------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s         | 2         | 4.08%   |
-| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s       | 2         | 4.08%   |
+| Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s    | 2         | 4.08%   |
 | Unknown RAM Module 1GB DIMM 400MT/s                           | 1         | 2.04%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 2.04%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s         | 1         | 2.04%   |
@@ -2128,7 +2127,7 @@ Memory module models
 | Samsung RAM UBE3D4AA-MGCR 2048MB Row Of Chips LPDDR4 4267MT/s | 1         | 2.04%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                   | 1         | 2.04%   |
 | Samsung RAM Module 2GB SODIMM DDR3 1067MT/s                   | 1         | 2.04%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s      | 1         | 2.04%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.04%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.04%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.04%   |
 | Samsung RAM M393B5270DH0-YH9 4GB DIMM DDR3 1333MT/s           | 1         | 2.04%   |
@@ -2141,13 +2140,13 @@ Memory module models
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s          | 1         | 2.04%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s        | 1         | 2.04%   |
 | Kingston RAM KF3200C20S4/8G 8GB SODIMM DDR4 3200MT/s          | 1         | 2.04%   |
-| Kingston RAM ASU16D3LS1KBG/4G 4096MB SODIMM DDR3 1600MT/s     | 1         | 2.04%   |
+| Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s        | 1         | 2.04%   |
 | Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s         | 1         | 2.04%   |
 | Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s          | 1         | 2.04%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s         | 1         | 2.04%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s            | 1         | 2.04%   |
 | G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s            | 1         | 2.04%   |
-| Elpida RAM EBJ81UG8EFU0-GN-F 8192MB SODIMM DDR3 1600MT/s      | 1         | 2.04%   |
-| Crucial RAM RM51264BA1339.16FR 4096MB DIMM 1333MT/s           | 1         | 2.04%   |
+| Elpida RAM EBJ81UG8EFU0-GN-F 8GB SODIMM DDR3 1600MT/s         | 1         | 2.04%   |
+| Crucial RAM RM51264BA1339.16FR 4GB DIMM DDR3 1333MT/s         | 1         | 2.04%   |
 | Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s        | 1         | 2.04%   |
 | Crucial RAM CT102464BF160B.Y16 8GB SODIMM DDR3 1600MT/s       | 1         | 2.04%   |
 | Crucial RAM BLS16G4S26BFSD.16FD 16GB SODIMM DDR4 2667MT/s     | 1         | 2.04%   |

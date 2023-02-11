@@ -592,8 +592,8 @@ Motherboard manufacture year
 | 2019 | 7         | 15.91%  |
 | 2013 | 7         | 15.91%  |
 | 2017 | 6         | 13.64%  |
-| 2015 | 4         | 9.09%   |
-| 2012 | 4         | 9.09%   |
+| 2012 | 5         | 11.36%  |
+| 2015 | 3         | 6.82%   |
 | 2014 | 3         | 6.82%   |
 | 2018 | 2         | 4.55%   |
 | 2016 | 2         | 4.55%   |
@@ -1526,7 +1526,7 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2         | 4.26%   |
-| Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                  | 1         | 2.13%   |
+| Viotek GNV34DBE VTK3400 3440x1440 797x334mm 34.0-inch                | 1         | 2.13%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch  | 1         | 2.13%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1         | 2.13%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch    | 1         | 2.13%   |
@@ -1540,7 +1540,7 @@ Monitor models
 | LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch          | 1         | 2.13%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch          | 1         | 2.13%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch          | 1         | 2.13%   |
-| LG Display LCD Monitor LGD02DA 1920x1080 380x220mm 17.3-inch         | 1         | 2.13%   |
+| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch         | 1         | 2.13%   |
 | Insignia NS-19E320A13 BBY0032 1680x1050 640x384mm 29.4-inch          | 1         | 2.13%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 2.13%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                  | 1         | 2.13%   |
@@ -1602,13 +1602,14 @@ Diagonal size in inches
 | 17     | 5         | 10.87%  |
 | 14     | 5         | 10.87%  |
 | 13     | 5         | 10.87%  |
-| 27     | 3         | 6.52%   |
 | 24     | 3         | 6.52%   |
+| 40     | 2         | 4.35%   |
 | 11     | 2         | 4.35%   |
 | 72     | 1         | 2.17%   |
 | 48     | 1         | 2.17%   |
 | 34     | 1         | 2.17%   |
 | 31     | 1         | 2.17%   |
+| 27     | 1         | 2.17%   |
 | 23     | 1         | 2.17%   |
 | 18     | 1         | 2.17%   |
 
@@ -1623,10 +1624,11 @@ Physical width
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
 | 301-350     | 20        | 44.44%  |
-| 501-600     | 6         | 13.33%  |
 | 401-500     | 6         | 13.33%  |
 | 351-400     | 5         | 11.11%  |
+| 501-600     | 4         | 8.89%   |
 | 201-300     | 4         | 8.89%   |
+| 801-900     | 2         | 4.44%   |
 | 701-800     | 1         | 2.22%   |
 | 601-700     | 1         | 2.22%   |
 | 1501-2000   | 1         | 2.22%   |
@@ -1661,15 +1663,15 @@ Area in inch²
 | 81-90          | 9         | 20%     |
 | 201-250        | 7         | 15.56%  |
 | 121-130        | 4         | 8.89%   |
-| 301-350        | 3         | 6.67%   |
+| 501-1000       | 3         | 6.67%   |
 | 51-60          | 2         | 4.44%   |
 | 351-500        | 2         | 4.44%   |
 | More than 1000 | 1         | 2.22%   |
 | 71-80          | 1         | 2.22%   |
+| 301-350        | 1         | 2.22%   |
 | 151-200        | 1         | 2.22%   |
 | 141-150        | 1         | 2.22%   |
 | 131-140        | 1         | 2.22%   |
-| 501-1000       | 1         | 2.22%   |
 
 Pixel Density
 -------------
@@ -1749,16 +1751,16 @@ Controller models
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.2%    |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.2%    |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.2%    |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1         | 1.2%    |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1         | 1.2%    |
 | Realtek RTL8188EE Wireless Network Adapter                        | 1         | 1.2%    |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.2%    |
-| Realtek 802.11n WLAN Adapter                                      | 1         | 1.2%    |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 1.2%    |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.2%    |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.2%    |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.2%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.2%    |
-| Motorola PCS moto g play (2021)                                   | 1         | 1.2%    |
+| Motorola PCS moto g power (2021)                                  | 1         | 1.2%    |
 | Intel Wireless-AC 9260                                            | 1         | 1.2%    |
 | Intel Wireless 8260                                               | 1         | 1.2%    |
 | Intel Wireless 7265                                               | 1         | 1.2%    |
@@ -1772,7 +1774,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.2%    |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.2%    |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.2%    |
-| Google Pixel 6a                                                   | 1         | 1.2%    |
+| Google Pixel 6                                                    | 1         | 1.2%    |
 | Google Nexus/Pixel Device (tether)                                | 1         | 1.2%    |
 
 Wireless Vendor
@@ -1812,9 +1814,9 @@ Wireless models
 | Broadcom BCM43142 802.11b/g/n                              | 2         | 5%      |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter   | 1         | 2.5%    |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter   | 1         | 2.5%    |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                 | 1         | 2.5%    |
 | Realtek RTL8192EE PCIe Wireless Network Adapter            | 1         | 2.5%    |
 | Realtek RTL8188EE Wireless Network Adapter                 | 1         | 2.5%    |
-| Realtek 802.11n WLAN Adapter                               | 1         | 2.5%    |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter | 1         | 2.5%    |
 | Qualcomm Atheros AR9271 802.11n                            | 1         | 2.5%    |
 | Intel Wireless-AC 9260                                     | 1         | 2.5%    |
@@ -1872,7 +1874,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 1         | 2.38%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2.38%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 2.38%   |
-| Google Pixel 6a                                                   | 1         | 2.38%   |
+| Google Pixel 6                                                    | 1         | 2.38%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 2.38%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 2.38%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 2.38%   |
@@ -1972,15 +1974,14 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                 | 3         | 8.82%   |
 | Apple Bluetooth Host Controller                | 3         | 8.82%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device   | 2         | 5.88%   |
+| Lite-On Bluetooth Device                       | 2         | 5.88%   |
 | Toshiba Bluetooth Device                       | 1         | 2.94%   |
 | Realtek RTL8821A Bluetooth                     | 1         | 2.94%   |
 | Qualcomm Atheros AR9462 Bluetooth              | 1         | 2.94%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth     | 1         | 2.94%   |
-| Lite-On Bluetooth Device                       | 1         | 2.94%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter       | 1         | 2.94%   |
 | Intel Wireless-AC 3168 Bluetooth               | 1         | 2.94%   |
+| Intel Bluetooth Device                         | 1         | 2.94%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 2.94%   |
-| Intel AX201 Bluetooth                          | 1         | 2.94%   |
 | Intel AX200 Bluetooth                          | 1         | 2.94%   |
 | Dell Broadcom BCM20702A0 Bluetooth             | 1         | 2.94%   |
 | Broadcom BCM43142A0 Bluetooth Device           | 1         | 2.94%   |
@@ -2188,7 +2189,7 @@ Camera device vendors
 | Cheng Uei Precision Industry (Foxlink) | 2         | 6.67%   |
 | Quanta                                 | 1         | 3.33%   |
 | IMC Networks                           | 1         | 3.33%   |
-| HD 2MP WEBCAM                          | 1         | 3.33%   |
+| 2M UVC CAMERA                          | 1         | 3.33%   |
 
 Camera Model
 ------------
@@ -2216,7 +2217,6 @@ Camera device models
 | Logitech Webcam C270                             | 1         | 3.23%   |
 | Logitech HD Pro Webcam C920                      | 1         | 3.23%   |
 | IMC Networks HP TrueVision HD Camera             | 1         | 3.23%   |
-| HD 2MP WEBCAM HD 2MP WEBCAM                      | 1         | 3.23%   |
 | Chicony USB2.0 VGA UVC WebCam                    | 1         | 3.23%   |
 | Chicony TOSHIBA Web Camera - HD                  | 1         | 3.23%   |
 | Chicony HP HD Camera                             | 1         | 3.23%   |
@@ -2225,6 +2225,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam    | 1         | 3.23%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 1         | 3.23%   |
 | Apple FaceTime HD Camera                         | 1         | 3.23%   |
+| 2M UVC CAMERA NexiGo N660 FHD Webcam             | 1         | 3.23%   |
 
 Security
 --------

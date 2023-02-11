@@ -896,8 +896,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 92       | 61.74%  |
-| No        | 57       | 38.26%  |
+| Yes       | 91       | 61.07%  |
+| No        | 58       | 38.93%  |
 
 Has Ethernet
 ------------
@@ -1105,7 +1105,7 @@ Hard drive models
 | WDC WD7500BPVX-55JC3T3 752GB        | 2        | 0.78%   |
 | WDC WD40EFRX-68N32N0 4TB            | 2        | 0.78%   |
 | WDC WD2500AAKX-07U6AA1 250GB        | 2        | 0.78%   |
-| WDC WD2500AAJS-75M0A0 249GB         | 2        | 0.78%   |
+| WDC WD2500AAJS-75M0A0 250GB         | 2        | 0.78%   |
 | WDC WD10EZEX-00WN4A0 1TB            | 2        | 0.78%   |
 | WDC WD10EACS-00D6B0 1TB             | 2        | 0.78%   |
 | Unknown M52516  16GB                | 2        | 0.78%   |
@@ -1127,7 +1127,7 @@ Hard drive models
 | Samsung SSD 850 EVO 250GB           | 2        | 0.78%   |
 | Samsung HD161HJ 160GB               | 2        | 0.78%   |
 | Samsung HD103SI 1TB                 | 2        | 0.78%   |
-| Samsung HD080HJ/ 80GB               | 2        | 0.78%   |
+| Samsung HD080HJ 80GB                | 2        | 0.78%   |
 | Kingston SA400S37120G 120GB SSD     | 2        | 0.78%   |
 | Crucial CT1000BX500SSD1 1TB         | 2        | 0.78%   |
 | Corsair Force LS SSD 120GB          | 2        | 0.78%   |
@@ -1237,9 +1237,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 110      | 169    | 62.15%  |
-| 0.51-1.0   | 47       | 85     | 26.55%  |
-| 1.01-2.0   | 11       | 15     | 6.21%   |
+| 0.01-0.5   | 109      | 169    | 61.58%  |
+| 0.51-1.0   | 47       | 84     | 26.55%  |
+| 1.01-2.0   | 12       | 16     | 6.78%   |
 | 3.01-4.0   | 4        | 12     | 2.26%   |
 | 2.01-3.0   | 4        | 4      | 2.26%   |
 | 4.01-10.0  | 1        | 1      | 0.56%   |
@@ -1299,7 +1299,7 @@ Drive models with a malfunction
 | Seagate ST1000DM003-9YN162 1TB    | 2        | 2      | 6.9%    |
 | WDC WD5000AAKX-003CA0 500GB       | 1        | 1      | 3.45%   |
 | WDC WD400EB-00CPF0 40GB           | 1        | 1      | 3.45%   |
-| WDC WD2500AAJS-75M0A0 249GB       | 1        | 1      | 3.45%   |
+| WDC WD2500AAJS-75M0A0 250GB       | 1        | 1      | 3.45%   |
 | WDC WD1600AAJS-60B4A0 160GB       | 1        | 2      | 3.45%   |
 | WDC WD10EADS-65M2B0 1TB           | 1        | 1      | 3.45%   |
 | Seagate ST500DM002-1BD142 500GB   | 1        | 1      | 3.45%   |
@@ -1386,7 +1386,7 @@ Failed drive models
 | Model                             | Desktops | Drives | Percent |
 |-----------------------------------|----------|--------|---------|
 | Samsung Electronics SSD 850 250GB | 1        | 1      | 50%     |
-| Samsung Electronics HD080HJ/ 80GB | 1        | 1      | 50%     |
+| Samsung Electronics HD080HJ 80GB  | 1        | 1      | 50%     |
 
 Failed Drive Vendor
 -------------------
@@ -1502,11 +1502,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 90       | 53.57%  |
-| IDE  | 61       | 36.31%  |
-| RAID | 8        | 4.76%   |
-| NVMe | 7        | 4.17%   |
-| SCSI | 2        | 1.19%   |
+| SATA | 90       | 53.89%  |
+| IDE  | 59       | 35.33%  |
+| RAID | 9        | 5.39%   |
+| NVMe | 7        | 4.19%   |
+| SCSI | 2        | 1.2%    |
 
 Processor
 ---------
@@ -1953,10 +1953,10 @@ Monitor models
 | Dell U2711 DELA057 2560x1440 597x336mm 27.0-inch                      | 2        | 1.35%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                     | 2        | 1.35%   |
 | Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch | 2        | 1.35%   |
-| ___ LCDTV16 ___9000 1360x768                                          | 1        | 0.68%   |
-| ___ LCDTV16 ___0101 1920x1080                                         | 1        | 0.68%   |
+| ___ LCDTV16 ___0101 1360x768                                          | 1        | 0.68%   |
+| ___ LCD TV ___9000 1360x768                                           | 1        | 0.68%   |
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch             | 1        | 0.68%   |
-| Vizio VL320M VIZ0050 1920x1080 698x393mm 31.5-inch                    | 1        | 0.68%   |
+| Vizio VO420E VIZ0050 1920x1080 930x520mm 41.9-inch                    | 1        | 0.68%   |
 | Vizio E421VO VIZ0090 1920x1080 930x530mm 42.1-inch                    | 1        | 0.68%   |
 | Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                   | 1        | 0.68%   |
 | ViewSonic VX2035wm VSCAF1E 1680x1050 433x271mm 20.1-inch              | 1        | 0.68%   |
@@ -1971,7 +1971,7 @@ Monitor models
 | SHD 701Lite SHD02BD 1920x1080 110x62mm 5.0-inch                       | 1        | 0.68%   |
 | Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x291mm 29.5-inch        | 1        | 0.68%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 0.68%   |
-| Samsung Electronics T24C300 SAM0A9B 1920x1080 530x300mm 24.0-inch     | 1        | 0.68%   |
+| Samsung Electronics T24C300 SAM0A9B 1920x1080 531x299mm 24.0-inch     | 1        | 0.68%   |
 | Samsung Electronics SyncMaster SAM058C 1600x900 443x249mm 20.0-inch   | 1        | 0.68%   |
 | Samsung Electronics SyncMaster SAM052A 1920x1080 510x287mm 23.0-inch  | 1        | 0.68%   |
 | Samsung Electronics SyncMaster SAM03E1 1440x900 410x257mm 19.1-inch   | 1        | 0.68%   |
@@ -1981,7 +1981,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01D0 1600x1200 432x324mm 21.3-inch  | 1        | 0.68%   |
 | Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch  | 1        | 0.68%   |
 | Samsung Electronics SME1920N SAM06A3 1366x768 410x230mm 18.5-inch     | 1        | 0.68%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1        | 0.68%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 0.68%   |
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 0.68%   |
 | Samsung Electronics S22D300 SAM0B3B 1920x1080 477x268mm 21.5-inch     | 1        | 0.68%   |
 | Samsung Electronics LCD Monitor SyncMaster 1024x768                   | 1        | 0.68%   |
@@ -2027,8 +2027,8 @@ Diagonal size in inches
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
 | 17      | 18       | 12.5%   |
-| 27      | 13       | 9.03%   |
 | 19      | 13       | 9.03%   |
+| 27      | 12       | 8.33%   |
 | 23      | 12       | 8.33%   |
 | Unknown | 12       | 8.33%   |
 | 24      | 11       | 7.64%   |
@@ -2038,14 +2038,15 @@ Diagonal size in inches
 | 18      | 7        | 4.86%   |
 | 15      | 7        | 4.86%   |
 | 34      | 3        | 2.08%   |
-| 41      | 2        | 1.39%   |
+| 47      | 2        | 1.39%   |
 | 39      | 2        | 1.39%   |
 | 31      | 2        | 1.39%   |
 | 84      | 1        | 0.69%   |
 | 72      | 1        | 0.69%   |
 | 52      | 1        | 0.69%   |
 | 48      | 1        | 0.69%   |
-| 47      | 1        | 0.69%   |
+| 41      | 1        | 0.69%   |
+| 40      | 1        | 0.69%   |
 | 38      | 1        | 0.69%   |
 | 29      | 1        | 0.69%   |
 | 14      | 1        | 0.69%   |
@@ -2064,18 +2065,18 @@ Physical width
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
 | 401-500     | 42       | 29.58%  |
-| 501-600     | 35       | 24.65%  |
+| 501-600     | 34       | 23.94%  |
 | 301-350     | 24       | 16.9%   |
 | Unknown     | 12       | 8.45%   |
 | 351-400     | 9        | 6.34%   |
+| 801-900     | 4        | 2.82%   |
 | 601-700     | 4        | 2.82%   |
-| 801-900     | 3        | 2.11%   |
+| 1001-1500   | 4        | 2.82%   |
 | 701-800     | 3        | 2.11%   |
-| 1001-1500   | 3        | 2.11%   |
 | 1501-2000   | 2        | 1.41%   |
 | 101-200     | 2        | 1.41%   |
-| 901-1000    | 2        | 1.41%   |
 | 201-300     | 1        | 0.7%    |
+| 901-1000    | 1        | 0.7%    |
 
 Aspect Ratio
 ------------
@@ -2109,10 +2110,10 @@ Area in inch²
 | 201-250        | 40       | 28.17%  |
 | 151-200        | 25       | 17.61%  |
 | 141-150        | 22       | 15.49%  |
-| 301-350        | 14       | 9.86%   |
+| 301-350        | 13       | 9.15%   |
 | Unknown        | 12       | 8.45%   |
 | 101-110        | 7        | 4.93%   |
-| 501-1000       | 6        | 4.23%   |
+| 501-1000       | 7        | 4.93%   |
 | 351-500        | 5        | 3.52%   |
 | More than 1000 | 4        | 2.82%   |
 | 1-40           | 2        | 1.41%   |
@@ -2131,11 +2132,11 @@ Pixels per inch
 
 | Density       | Desktops | Percent |
 |---------------|----------|---------|
-| 51-100        | 95       | 69.34%  |
+| 51-100        | 94       | 68.61%  |
 | 101-120       | 16       | 11.68%  |
 | Unknown       | 12       | 8.76%   |
 | 121-160       | 7        | 5.11%   |
-| 1-50          | 4        | 2.92%   |
+| 1-50          | 5        | 3.65%   |
 | 161-240       | 2        | 1.46%   |
 | More than 240 | 1        | 0.73%   |
 
@@ -2487,12 +2488,12 @@ Controller models
 | Lite-On Bluetooth Device                            | 1        | 3.7%    |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 3.7%    |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 3.7%    |
+| Intel Bluetooth Device                              | 1        | 3.7%    |
 | Intel AX210 Bluetooth                               | 1        | 3.7%    |
-| Intel AX201 Bluetooth                               | 1        | 3.7%    |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1        | 3.7%    |
 | Broadcom Bluetooth Device                           | 1        | 3.7%    |
-| ASUS Bluetooth Device                               | 1        | 3.7%    |
 | ASUS BCM20702A0                                     | 1        | 3.7%    |
+| ASUS ASUS USB-BT500                                 | 1        | 3.7%    |
 
 Sound
 -----
@@ -2622,7 +2623,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 2        | 1.74%   |
 | Unknown RAM Module 2048MB DIMM 400MT/s                       | 2        | 1.74%   |
 | SK hynix RAM Module 2048MB DIMM DDR3 1066MT/s                | 2        | 1.74%   |
-| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s       | 2        | 1.74%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s          | 2        | 1.74%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s           | 2        | 1.74%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1866MT/s                 | 1        | 0.87%   |
 | Unknown RAM Module 8192MB DIMM 667MT/s                       | 1        | 0.87%   |
@@ -2641,10 +2642,10 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR2                          | 1        | 0.87%   |
 | Unknown RAM Module 1024MB DIMM DDR 400MT/s                   | 1        | 0.87%   |
 | Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 0.87%   |
-| Unifosa RAM GU512303EP0202 2048MB DIMM DDR3 1333MT/s         | 1        | 0.87%   |
+| Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s            | 1        | 0.87%   |
 | Timetec RAM UD3-1600 8GB DIMM DDR3 1600MT/s                  | 1        | 0.87%   |
 | Timetec RAM SD3-1600 8GB SODIMM DDR3 1600MT/s                | 1        | 0.87%   |
-| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2667MT/s           | 1        | 0.87%   |
+| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s           | 1        | 0.87%   |
 | SK hynix RAM Module 8192MB DIMM DDR4 2133MT/s                | 1        | 0.87%   |
 | SK hynix RAM HYMP525P72CP4-Y5 2048MB DIMM DDR2 667MT/s       | 1        | 0.87%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s        | 1        | 0.87%   |
@@ -2655,9 +2656,9 @@ Memory module models
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s         | 1        | 0.87%   |
 | SK hynix RAM HMT125S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s       | 1        | 0.87%   |
 | SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 3200MT/s         | 1        | 0.87%   |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s         | 1        | 0.87%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8192MB DIMM DDR4 2400MT/s      | 1        | 0.87%   |
 | Samsung RAM Module 2GB DIMM DDR3 1066MT/s                    | 1        | 0.87%   |
-| Samsung RAM M471B5773DH0-CK0 2048MB SODIMM DDR3 1600MT/s     | 1        | 0.87%   |
+| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s        | 1        | 0.87%   |
 
 Memory Kind
 -----------
@@ -2669,13 +2670,13 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR3    | 39       | 40.63%  |
-| DDR4    | 20       | 20.83%  |
-| DDR2    | 16       | 16.67%  |
-| SDRAM   | 10       | 10.42%  |
-| Unknown | 8        | 8.33%   |
-| DDR     | 2        | 2.08%   |
-| LPDDR4  | 1        | 1.04%   |
+| DDR3    | 39       | 40.21%  |
+| DDR4    | 20       | 20.62%  |
+| DDR2    | 15       | 15.46%  |
+| SDRAM   | 12       | 12.37%  |
+| Unknown | 8        | 8.25%   |
+| DDR     | 2        | 2.06%   |
+| LPDDR4  | 1        | 1.03%   |
 
 Memory Form Factor
 ------------------
@@ -2730,15 +2731,16 @@ Memory module speed
 | 3200    | 4        | 3.85%   |
 | 1866    | 4        | 3.85%   |
 | Unknown | 4        | 3.85%   |
-| 2667    | 3        | 2.88%   |
 | 2048    | 3        | 2.88%   |
 | 1867    | 3        | 2.88%   |
 | 3600    | 2        | 1.92%   |
 | 3000    | 2        | 1.92%   |
+| 2667    | 2        | 1.92%   |
 | 533     | 2        | 1.92%   |
 | 49926   | 1        | 0.96%   |
 | 3866    | 1        | 0.96%   |
 | 3066    | 1        | 0.96%   |
+| 2933    | 1        | 0.96%   |
 | 2733    | 1        | 0.96%   |
 | 1639    | 1        | 0.96%   |
 | 1334    | 1        | 0.96%   |
@@ -2812,8 +2814,8 @@ Camera device vendors
 | Generalplus Technology        | 2        | 11.11%  |
 | Chicony Electronics           | 2        | 11.11%  |
 | Z-Star Microelectronics       | 1        | 5.56%   |
+| SunplusIT                     | 1        | 5.56%   |
 | Sunplus Innovation Technology | 1        | 5.56%   |
-| SJ-180517-N                   | 1        | 5.56%   |
 | Samsung Electronics           | 1        | 5.56%   |
 | Microsoft                     | 1        | 5.56%   |
 | KYE Systems (Mouse Systems)   | 1        | 5.56%   |
@@ -2835,8 +2837,8 @@ Camera device models
 | Logitech Webcam C270                      | 2        | 11.11%  |
 | Generalplus GENERAL WEBCAM                | 2        | 11.11%  |
 | Z-Star Sirius USB2.0 Camera               | 1        | 5.56%   |
+| SunplusIT USB 2.0 Camera                  | 1        | 5.56%   |
 | Sunplus Full HD webcam                    | 1        | 5.56%   |
-| SJ-180517-N 1080P Webcam                  | 1        | 5.56%   |
 | Samsung Galaxy A5 (MTP)                   | 1        | 5.56%   |
 | Microsoft LifeCam HD-3000                 | 1        | 5.56%   |
 | Logitech QuickCam Zoom                    | 1        | 5.56%   |
@@ -2893,8 +2895,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 123      | 84.25%  |
-| 1     | 20       | 13.7%   |
+| 0     | 121      | 82.88%  |
+| 1     | 22       | 15.07%  |
 | 2     | 3        | 2.05%   |
 
 Unsupported Device Types
@@ -2907,13 +2909,13 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 5        | 21.74%  |
-| Net/wireless             | 4        | 17.39%  |
-| Communication controller | 4        | 17.39%  |
-| Sound                    | 3        | 13.04%  |
-| Unassigned class         | 2        | 8.7%    |
-| Dvb card                 | 2        | 8.7%    |
-| Net/ethernet             | 1        | 4.35%   |
-| Multimedia controller    | 1        | 4.35%   |
-| Bluetooth                | 1        | 4.35%   |
+| Graphics card            | 7        | 28%     |
+| Net/wireless             | 4        | 16%     |
+| Communication controller | 4        | 16%     |
+| Sound                    | 3        | 12%     |
+| Unassigned class         | 2        | 8%      |
+| Dvb card                 | 2        | 8%      |
+| Net/ethernet             | 1        | 4%      |
+| Multimedia controller    | 1        | 4%      |
+| Bluetooth                | 1        | 4%      |
 

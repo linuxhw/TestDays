@@ -1409,14 +1409,14 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0428 1680x1050 459x296mm 21.5-inch | 1         | 3.57%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch | 1         | 3.57%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 3.57%   |
-| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch          | 1         | 3.57%   |
+| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch         | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch         | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0508 1366x768 309x174mm 14.0-inch          | 1         | 3.57%   |
 | LG Display LCD Monitor LGD03D7 1366x768 309x174mm 14.0-inch          | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0353 1366x768 345x194mm 15.6-inch          | 1         | 3.57%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch          | 1         | 3.57%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch         | 1         | 3.57%   |
-| Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch              | 1         | 3.57%   |
+| Lenovo LCD Monitor LEN4035 1280x800 304x190mm 14.1-inch              | 1         | 3.57%   |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch     | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 344x193mm 15.5-inch      | 1         | 3.57%   |
@@ -1801,7 +1801,7 @@ Controller models
 | Toshiba Askey Bluetooth Module                      | 1         | 4.55%   |
 | Realtek Bluetooth Radio                             | 1         | 4.55%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4.55%   |
-| Intel AX201 Bluetooth                               | 1         | 4.55%   |
+| Intel Bluetooth Device                              | 1         | 4.55%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4.55%   |
 
 Sound
@@ -1889,20 +1889,20 @@ Memory module models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s  | 2         | 7.41%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 2         | 7.41%   |
 | Unknown RAM Module 1024MB SODIMM SDRAM                    | 1         | 3.7%    |
 | Unknown RAM Module 1024MB SODIMM DDR2 533MT/s             | 1         | 3.7%    |
 | Smart RAM SH5641G8FJ8NWRNSQG 8GB SODIMM DDR3 1600MT/s     | 1         | 3.7%    |
 | SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s   | 1         | 3.7%    |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 3.7%    |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s     | 1         | 3.7%    |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s      | 1         | 3.7%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 3.7%    |
 | SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 3.7%    |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s    | 1         | 3.7%    |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s    | 1         | 3.7%    |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4             | 1         | 3.7%    |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s | 1         | 3.7%    |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s     | 1         | 3.7%    |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s  | 1         | 3.7%    |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 3.7%    |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s     | 1         | 3.7%    |
+| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 3.7%    |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 3.7%    |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 3.7%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s     | 1         | 3.7%    |
@@ -2148,8 +2148,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 13        | 44.83%  |
-| 1     | 8         | 27.59%  |
+| 0     | 14        | 48.28%  |
+| 1     | 7         | 24.14%  |
 | 2     | 5         | 17.24%  |
 | 3     | 3         | 10.34%  |
 
@@ -2163,14 +2163,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 6         | 23.08%  |
-| Chipcard                 | 6         | 23.08%  |
-| Graphics card            | 5         | 19.23%  |
-| Card reader              | 3         | 11.54%  |
-| Storage                  | 1         | 3.85%   |
-| Net/wireless             | 1         | 3.85%   |
-| Net/ethernet             | 1         | 3.85%   |
-| Firewire controller      | 1         | 3.85%   |
-| Communication controller | 1         | 3.85%   |
-| Camera                   | 1         | 3.85%   |
+| Fingerprint reader       | 6         | 24%     |
+| Chipcard                 | 6         | 24%     |
+| Graphics card            | 4         | 16%     |
+| Card reader              | 3         | 12%     |
+| Storage                  | 1         | 4%      |
+| Net/wireless             | 1         | 4%      |
+| Net/ethernet             | 1         | 4%      |
+| Firewire controller      | 1         | 4%      |
+| Communication controller | 1         | 4%      |
+| Camera                   | 1         | 4%      |
 

@@ -1130,7 +1130,7 @@ Hard drive models
 | Seagate ST2000LX001-1RG174 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-9YN164 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-1ER164 2TB         | 2        | 0.71%   |
-| Seagate Expansion 4TB                  | 2        | 0.71%   |
+| Seagate Expansion 240GB                | 2        | 0.71%   |
 | Samsung SSD 850 EVO 500GB              | 2        | 0.71%   |
 | Samsung SP0802N 80GB                   | 2        | 0.71%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 256GB | 2        | 0.71%   |
@@ -1158,13 +1158,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 51       | 89     | 35.92%  |
-| Seagate             | 40       | 69     | 28.17%  |
-| Samsung Electronics | 22       | 30     | 15.49%  |
-| Hitachi             | 12       | 15     | 8.45%   |
-| Toshiba             | 9        | 11     | 6.34%   |
-| Maxtor              | 3        | 5      | 2.11%   |
+| WDC                 | 51       | 89     | 35.66%  |
+| Seagate             | 40       | 69     | 27.97%  |
+| Samsung Electronics | 22       | 30     | 15.38%  |
+| Hitachi             | 12       | 15     | 8.39%   |
+| Toshiba             | 9        | 11     | 6.29%   |
+| Maxtor              | 3        | 5      | 2.1%    |
 | Unknown             | 1        | 1      | 0.7%    |
+| SABRENT             | 1        | 1      | 0.7%    |
 | KESU                | 1        | 2      | 0.7%    |
 | HPE                 | 1        | 4      | 0.7%    |
 | Fujitsu             | 1        | 1      | 0.7%    |
@@ -1213,9 +1214,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 112      | 228    | 56.57%  |
-| SSD  | 70       | 108    | 35.35%  |
-| NVMe | 16       | 23     | 8.08%   |
+| HDD  | 112      | 229    | 56.85%  |
+| SSD  | 70       | 108    | 35.53%  |
+| NVMe | 15       | 22     | 7.61%   |
 
 Drive Connector
 ---------------
@@ -1241,12 +1242,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 121      | 231    | 62.05%  |
-| 0.51-1.0   | 46       | 65     | 23.59%  |
-| 1.01-2.0   | 18       | 26     | 9.23%   |
-| 3.01-4.0   | 6        | 10     | 3.08%   |
-| 2.01-3.0   | 2        | 2      | 1.03%   |
-| 4.01-10.0  | 2        | 2      | 1.03%   |
+| 0.01-0.5   | 121      | 230    | 61.73%  |
+| 0.51-1.0   | 47       | 66     | 23.98%  |
+| 1.01-2.0   | 19       | 28     | 9.69%   |
+| 3.01-4.0   | 5        | 9      | 2.55%   |
+| 2.01-3.0   | 2        | 2      | 1.02%   |
+| 4.01-10.0  | 2        | 2      | 1.02%   |
 
 Space Total
 -----------
@@ -1454,12 +1455,12 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 96       | 50.26%  |
-| IDE  | 68       | 35.6%   |
-| NVMe | 15       | 7.85%   |
-| RAID | 9        | 4.71%   |
+| SATA | 96       | 50.53%  |
+| IDE  | 68       | 35.79%  |
+| NVMe | 15       | 7.89%   |
+| RAID | 8        | 4.21%   |
 | SAS  | 2        | 1.05%   |
-| SCSI | 1        | 0.52%   |
+| SCSI | 1        | 0.53%   |
 
 Processor
 ---------
@@ -1938,8 +1939,8 @@ Monitor models
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch      | 1        | 0.6%    |
 | Samsung Electronics SMB2230 SAM063E 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24R35x SAM100E 1920x1080 527x296mm 23.8-inch       | 1        | 0.6%    |
-| Samsung Electronics S24F350 SAM0D21 1920x1080 520x290mm 23.4-inch       | 1        | 0.6%    |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch       | 1        | 0.6%    |
+| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24D360 SAM0B24 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch       | 1        | 0.6%    |
 | Samsung Electronics S22D390 SAM0B63 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
@@ -2193,8 +2194,8 @@ Controller models
 | Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 2        | 0.86%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 0.43%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 0.43%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                         | 1        | 0.43%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                               | 1        | 0.43%   |
-| TP-Link 802.11n NIC                                               | 1        | 0.43%   |
 
 Wireless Vendor
 ---------------
@@ -2247,8 +2248,8 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 2        | 3.08%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 1.54%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 1.54%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                                                     | 1        | 1.54%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1        | 1.54%   |
-| TP-Link 802.11n NIC                                                                           | 1        | 1.54%   |
 | Sitecom Europe RTL8188S WLAN Adapter                                                          | 1        | 1.54%   |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 1.54%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 1.54%   |
@@ -2449,7 +2450,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1        | 3.45%   |
 | MediaTek Wireless_Device                            | 1        | 3.45%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 3.45%   |
-| Intel AX201 Bluetooth                               | 1        | 3.45%   |
+| Intel Bluetooth Device                              | 1        | 3.45%   |
 | Broadcom HP Bluethunder                             | 1        | 3.45%   |
 | Broadcom BCM2045 Bluetooth                          | 1        | 3.45%   |
 | Apple Bluetooth USB Host Controller                 | 1        | 3.45%   |
@@ -2593,7 +2594,7 @@ Memory module models
 | G.Skill RAM F4-3200C16-16GTZSK 16GB DIMM DDR4 3200MT/s  | 1        | 4.17%   |
 | Exceleram RAM E30144A 4096MB DIMM DDR3 800MT/s          | 1        | 4.17%   |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 1        | 4.17%   |
-| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2666MT/s  | 1        | 4.17%   |
+| Crucial RAM BLT8G4D26BFT4K.C8FD 8GB DIMM DDR4 2667MT/s  | 1        | 4.17%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s   | 1        | 4.17%   |
 
 Memory Kind
@@ -2661,7 +2662,7 @@ Memory module speed
 | 3800    | 1        | 4.55%   |
 | 3500    | 1        | 4.55%   |
 | 3200    | 1        | 4.55%   |
-| 2666    | 1        | 4.55%   |
+| 2667    | 1        | 4.55%   |
 | 400     | 1        | 4.55%   |
 | Unknown | 1        | 4.55%   |
 
@@ -2853,9 +2854,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 104      | 68.87%  |
+| 0     | 103      | 68.21%  |
 | 1     | 40       | 26.49%  |
-| 2     | 3        | 1.99%   |
+| 2     | 4        | 2.65%   |
 | 4     | 2        | 1.32%   |
 | 3     | 2        | 1.32%   |
 
@@ -2869,14 +2870,14 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 27       | 49.09%  |
-| Net/wireless             | 14       | 25.45%  |
-| Communication controller | 4        | 7.27%   |
-| Unassigned class         | 2        | 3.64%   |
-| Network                  | 2        | 3.64%   |
-| Net/ethernet             | 2        | 3.64%   |
-| Storage/ide              | 1        | 1.82%   |
-| Modem                    | 1        | 1.82%   |
-| Fingerprint reader       | 1        | 1.82%   |
-| Chipcard                 | 1        | 1.82%   |
+| Graphics card            | 29       | 50.88%  |
+| Net/wireless             | 14       | 24.56%  |
+| Communication controller | 4        | 7.02%   |
+| Unassigned class         | 2        | 3.51%   |
+| Network                  | 2        | 3.51%   |
+| Net/ethernet             | 2        | 3.51%   |
+| Storage/ide              | 1        | 1.75%   |
+| Modem                    | 1        | 1.75%   |
+| Fingerprint reader       | 1        | 1.75%   |
+| Chipcard                 | 1        | 1.75%   |
 

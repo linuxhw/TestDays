@@ -1291,10 +1291,10 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0564 1360x768 410x230mm 18.5-inch | 1        | 6.25%   |
 | Samsung Electronics S27D391 SAM0B89 1920x1080 600x340mm 27.2-inch   | 1        | 6.25%   |
 | Samsung Electronics S27D391 SAM0B88 1920x1080 598x336mm 27.0-inch   | 1        | 6.25%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch   | 1        | 6.25%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch   | 1        | 6.25%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch   | 1        | 6.25%   |
 | Samsung Electronics LCD Monitor S24C650                             | 1        | 6.25%   |
-| SAC LED MONITOR SAC952D 1920x1080 480x270mm 21.7-inch               | 1        | 6.25%   |
+| SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch               | 1        | 6.25%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch          | 1        | 6.25%   |
 | Hewlett-Packard E273q HPN3474 2560x1440 597x336mm 27.0-inch         | 1        | 6.25%   |
 | Goldstar E2240 GSM57A3 1920x1080 480x270mm 21.7-inch                | 1        | 6.25%   |
@@ -1302,7 +1302,7 @@ Monitor models
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                   | 1        | 6.25%   |
 | Dell LCD Monitor U2415 3840x1200                                    | 1        | 6.25%   |
 | Dell IDRAC DEL0001 1280x1024                                        | 1        | 6.25%   |
-| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                   | 1        | 6.25%   |
+| BenQ GW2480 BNQ78E7 1920x1080 530x300mm 24.0-inch                   | 1        | 6.25%   |
 
 Monitor Resolution
 ------------------

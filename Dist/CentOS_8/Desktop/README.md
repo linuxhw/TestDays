@@ -1144,7 +1144,7 @@ Hard drive models
 | WDC WD40EZRZ-00GXCB0 4TB            | 2        | 0.56%   |
 | WDC WD40EFRX-68N32N0 4TB            | 2        | 0.56%   |
 | WDC WD3200BEVT-22ZCT0 320GB         | 2        | 0.56%   |
-| WDC WD2500AAJS-75M0A0 249GB         | 2        | 0.56%   |
+| WDC WD2500AAJS-75M0A0 250GB         | 2        | 0.56%   |
 | WDC WD20EZRX-00D8PB0 2TB            | 2        | 0.56%   |
 | WDC WD2003FZEX-00Z4SA0 2TB          | 2        | 0.56%   |
 | WDC WD2002FAEX-007BA0 2TB           | 2        | 0.56%   |
@@ -1154,7 +1154,7 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB      | 2        | 0.56%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.56%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.56%   |
-| Seagate Expansion Desk 5TB          | 2        | 0.56%   |
+| Seagate Expansion Desk 6TB          | 2        | 0.56%   |
 | SanDisk NVMe SSD Drive 1TB          | 2        | 0.56%   |
 | Samsung SSD 970 EVO Plus 500GB      | 2        | 0.56%   |
 | Samsung SSD 850 EVO M.2 500GB       | 2        | 0.56%   |
@@ -1258,8 +1258,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 98       | 188    | 43.36%  |
-| 0.51-1.0   | 63       | 109    | 27.88%  |
+| 0.01-0.5   | 98       | 187    | 43.36%  |
+| 0.51-1.0   | 63       | 110    | 27.88%  |
 | 1.01-2.0   | 36       | 83     | 15.93%  |
 | 4.01-10.0  | 12       | 32     | 5.31%   |
 | 3.01-4.0   | 9        | 31     | 3.98%   |
@@ -1522,12 +1522,12 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 108      | 51.67%  |
-| NVMe | 39       | 18.66%  |
-| IDE  | 30       | 14.35%  |
-| RAID | 27       | 12.92%  |
-| SAS  | 4        | 1.91%   |
-| SCSI | 1        | 0.48%   |
+| SATA | 111      | 52.36%  |
+| NVMe | 39       | 18.4%   |
+| IDE  | 30       | 14.15%  |
+| RAID | 27       | 12.74%  |
+| SAS  | 4        | 1.89%   |
+| SCSI | 1        | 0.47%   |
 
 Processor
 ---------
@@ -1953,13 +1953,13 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 3        | 1.59%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3        | 1.59%   |
-| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 2        | 1.06%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch          | 3        | 1.59%   |
+| Xiaomi Woieyeks-4K XMD009A 2880x1800 480x270mm 21.7-inch             | 2        | 1.06%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 440x300mm 21.0-inch | 2        | 1.06%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2        | 1.06%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 1.06%   |
-| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                       | 2        | 1.06%   |
+| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                     | 2        | 1.06%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch         | 2        | 1.06%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch              | 2        | 1.06%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 1.06%   |
@@ -2037,7 +2037,7 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 27      | 30       | 18.29%  |
+| 27      | 28       | 17.07%  |
 | 24      | 24       | 14.63%  |
 | 21      | 24       | 14.63%  |
 | Unknown | 23       | 14.02%  |
@@ -2046,6 +2046,7 @@ Diagonal size in inches
 | 34      | 4        | 2.44%   |
 | 22      | 4        | 2.44%   |
 | 15      | 4        | 2.44%   |
+| 40      | 3        | 1.83%   |
 | 31      | 3        | 1.83%   |
 | 19      | 3        | 1.83%   |
 | 65      | 2        | 1.22%   |
@@ -2056,7 +2057,6 @@ Diagonal size in inches
 | 58      | 1        | 0.61%   |
 | 54      | 1        | 0.61%   |
 | 49      | 1        | 0.61%   |
-| 40      | 1        | 0.61%   |
 | 29      | 1        | 0.61%   |
 | 18      | 1        | 0.61%   |
 | 17      | 1        | 0.61%   |
@@ -2071,15 +2071,15 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 65       | 42.76%  |
+| 501-600     | 63       | 41.45%  |
 | 401-500     | 35       | 23.03%  |
 | Unknown     | 23       | 15.13%  |
 | 601-700     | 7        | 4.61%   |
 | 1001-1500   | 7        | 4.61%   |
 | 701-800     | 6        | 3.95%   |
 | 301-350     | 5        | 3.29%   |
+| 801-900     | 3        | 1.97%   |
 | 351-400     | 2        | 1.32%   |
-| 801-900     | 1        | 0.66%   |
 | 1501-2000   | 1        | 0.66%   |
 
 Aspect Ratio
@@ -2111,16 +2111,16 @@ Area in inch²
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
 | 201-250        | 53       | 33.76%  |
-| 301-350        | 30       | 19.11%  |
+| 301-350        | 28       | 17.83%  |
 | Unknown        | 23       | 14.65%  |
 | 151-200        | 14       | 8.92%   |
 | 251-300        | 12       | 7.64%   |
 | 351-500        | 10       | 6.37%   |
 | More than 1000 | 8        | 5.1%    |
 | 101-110        | 3        | 1.91%   |
+| 501-1000       | 3        | 1.91%   |
 | 141-150        | 2        | 1.27%   |
 | 111-120        | 1        | 0.64%   |
-| 501-1000       | 1        | 0.64%   |
 
 Pixel Density
 -------------
@@ -2213,8 +2213,8 @@ Controller models
 | Intel Ethernet Connection (7) I219-LM                                         | 3        | 1.22%   |
 | Intel Ethernet Connection (2) I219-LM                                         | 3        | 1.22%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 3        | 1.22%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 2        | 0.81%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                      | 2        | 0.81%   |
-| Realtek 802.11n WLAN Adapter                                                  | 2        | 0.81%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 2        | 0.81%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 2        | 0.81%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                              | 2        | 0.81%   |
@@ -2270,7 +2270,7 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                                               | 3        | 5.45%   |
 | Intel Wireless-AC 9260                                                                        | 3        | 5.45%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                            | 3        | 5.45%   |
-| Realtek 802.11n WLAN Adapter                                                                  | 2        | 3.64%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 2        | 3.64%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 2        | 3.64%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                              | 2        | 3.64%   |
 | Intel Wireless 8265 / 8275                                                                    | 2        | 3.64%   |
@@ -2595,48 +2595,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM 1600MT/s                    | 2        | 2.35%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                    | 2        | 2.35%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                 | 2        | 2.35%   |
-| Unknown RAM Module 2GB DIMM SDRAM                       | 2        | 2.35%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s   | 2        | 2.35%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s             | 1        | 1.18%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 1.18%   |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                | 1        | 1.18%   |
-| Unknown RAM Module 4096MB DIMM 400MT/s                  | 1        | 1.18%   |
-| Unknown RAM Module 2GB SODIMM DDR3 800MT/s              | 1        | 1.18%   |
-| Unknown RAM Module 2GB DIMM DDR 667MT/s                 | 1        | 1.18%   |
-| Unknown RAM Module 2048MB DIMM DDR2                     | 1        | 1.18%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                 | 1        | 1.18%   |
-| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s     | 1        | 1.18%   |
-| Transcend RAM JM800QLU-2G 2048MB DIMM DDR 2048MT/s      | 1        | 1.18%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s     | 1        | 1.18%   |
-| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s      | 1        | 1.18%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s              | 1        | 1.18%   |
-| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s              | 1        | 1.18%   |
-| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s             | 1        | 1.18%   |
-| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR2 667MT/s   | 1        | 1.18%   |
-| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.18%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 1.18%   |
-| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 1.18%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 1.18%   |
-| SK hynix RAM HMT151R7TFR4C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 1.18%   |
-| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s    | 1        | 1.18%   |
-| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s    | 1        | 1.18%   |
-| SK hynix RAM HMA81GR7AFR8N-UH 8192MB DIMM DDR4 2400MT/s | 1        | 1.18%   |
-| Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.18%   |
-| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s            | 1        | 1.18%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s    | 1        | 1.18%   |
-| Samsung RAM M391B5273DH0-CK0 4096MB DIMM DDR3 1600MT/s  | 1        | 1.18%   |
-| Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s     | 1        | 1.18%   |
-| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s     | 1        | 1.18%   |
-| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.18%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.18%   |
-| Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.18%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 1.18%   |
-| Micron RAM 4ATF51264AZ-2G6E1 4GB DIMM DDR4 2667MT/s     | 1        | 1.18%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM 1600MT/s                      | 2        | 2.35%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                      | 2        | 2.35%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                   | 2        | 2.35%   |
+| Unknown RAM Module 2GB DIMM SDRAM                         | 2        | 2.35%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 2        | 2.35%   |
+| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s               | 1        | 1.18%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1        | 1.18%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                  | 1        | 1.18%   |
+| Unknown RAM Module 4096MB DIMM 400MT/s                    | 1        | 1.18%   |
+| Unknown RAM Module 2GB SODIMM DDR3 800MT/s                | 1        | 1.18%   |
+| Unknown RAM Module 2GB DIMM DDR 667MT/s                   | 1        | 1.18%   |
+| Unknown RAM Module 2048MB DIMM DDR2                       | 1        | 1.18%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                   | 1        | 1.18%   |
+| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s       | 1        | 1.18%   |
+| Transcend RAM JM800QLU-2G 2048MB DIMM DDR 2048MT/s        | 1        | 1.18%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s        | 1        | 1.18%   |
+| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s        | 1        | 1.18%   |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                | 1        | 1.18%   |
+| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                | 1        | 1.18%   |
+| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s               | 1        | 1.18%   |
+| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR 667MT/s      | 1        | 1.18%   |
+| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.18%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s | 1        | 1.18%   |
+| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 1.18%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 1.18%   |
+| SK hynix RAM HMT151R7TFR4C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 1.18%   |
+| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s      | 1        | 1.18%   |
+| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s      | 1        | 1.18%   |
+| SK hynix RAM HMA81GR7AFR8N-UH 8192MB DIMM DDR4 2400MT/s   | 1        | 1.18%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                 | 1        | 1.18%   |
+| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s              | 1        | 1.18%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s      | 1        | 1.18%   |
+| Samsung RAM M391B5273DH0-CK0 4096MB DIMM DDR3 1600MT/s    | 1        | 1.18%   |
+| Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s       | 1        | 1.18%   |
+| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s       | 1        | 1.18%   |
+| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s     | 1        | 1.18%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s        | 1        | 1.18%   |
+| Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s        | 1        | 1.18%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s       | 1        | 1.18%   |
+| Micron RAM 4ATF51264AZ-2G6E1 4GB DIMM DDR4 2667MT/s       | 1        | 1.18%   |
 
 Memory Kind
 -----------

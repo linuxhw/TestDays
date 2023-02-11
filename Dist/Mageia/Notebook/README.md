@@ -870,7 +870,7 @@ Hard drive models
 | Kingston SA400S37240G 240GB SSD              | 1         | 2.63%   |
 | Kingston SA2000M8500G 500GB                  | 1         | 2.63%   |
 | Kingston NVMe SSD Drive 1TB                  | 1         | 2.63%   |
-| JMicron Generic 240GB SSD                    | 1         | 2.63%   |
+| JMicron Generic 500GB                        | 1         | 2.63%   |
 | Intel SSDMCEAC120B3A 120GB                   | 1         | 2.63%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 2.63%   |
 | Hitachi HTS545050A7E380 500GB                | 1         | 2.63%   |
@@ -1459,7 +1459,7 @@ Monitor models
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                   | 1         | 3.23%   |
 | Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch        | 1         | 3.23%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 3.23%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch      | 1         | 3.23%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch      | 1         | 3.23%   |
 | LG Display LCD Monitor LGD066A 1920x1080 344x194mm 15.5-inch              | 1         | 3.23%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch              | 1         | 3.23%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 3.23%   |
@@ -1842,7 +1842,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 4.76%   |
 | Lite-On Bluetooth Device                            | 1         | 4.76%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 4.76%   |
-| Intel AX201 Bluetooth                               | 1         | 4.76%   |
+| Intel Bluetooth Device                              | 1         | 4.76%   |
 | Dell BCM20702A0 Bluetooth Module                    | 1         | 4.76%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4.76%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 1         | 4.76%   |
@@ -1939,7 +1939,7 @@ Memory module models
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                     | 1         | 3.85%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 3.85%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s           | 1         | 3.85%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 3.85%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 3.85%   |
@@ -1951,12 +1951,12 @@ Memory module models
 | Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 3.85%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s            | 1         | 3.85%   |
-| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s        | 1         | 3.85%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s           | 1         | 3.85%   |
 | Kingston RAM KFYHV1-HYC 4GB SODIMM DDR3 1600MT/s                 | 1         | 3.85%   |
 | Kingston RAM KCRXJ6-MIE 16GB SODIMM DDR4 2667MT/s                | 1         | 3.85%   |
 | Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
 | Kingston RAM 9905428-102.A00G 4GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
-| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
+| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4                | 1         | 3.85%   |
 | Corsair RAM CMSX16GX4M1A2666C18 16GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
 | Corsair RAM CM4X8GF2666C18S2 8GB SODIMM DDR4 3000MT/s            | 1         | 3.85%   |
 
@@ -2107,8 +2107,8 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 3.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 3.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 3.7%    |
-| Apple iPhone5/5C/5S/6                                                      | 1         | 3.7%    |
-| Alcor Micro USB 2.0 Camera                                                 | 1         | 3.7%    |
+| Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 3.7%    |
+| Alcor Micro USB Camera                                                     | 1         | 3.7%    |
 | Acer BisonCam,NB Pro                                                       | 1         | 3.7%    |
 
 Security

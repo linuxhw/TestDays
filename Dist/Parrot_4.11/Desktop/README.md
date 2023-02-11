@@ -736,8 +736,8 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Unknown SD/MMC/MS PRO 64GB            | 2        | 3.57%   |
-| Seagate Expansion 4TB                 | 2        | 3.57%   |
+| Unknown SD/MMC/MS PRO 2GB             | 2        | 3.57%   |
+| Seagate Expansion 240GB               | 2        | 3.57%   |
 | WDC WDBNCE0010PNC 1TB SSD             | 1        | 1.79%   |
 | WDC WD5000AADS-00S9B0 500GB           | 1        | 1.79%   |
 | WDC WD5000AACS-00ZUB0 500GB           | 1        | 1.79%   |
@@ -855,10 +855,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 37     | 52.78%  |
-| 0.51-1.0   | 12       | 12     | 33.33%  |
-| 3.01-4.0   | 3        | 3      | 8.33%   |
-| 1.01-2.0   | 2        | 2      | 5.56%   |
+| 0.01-0.5   | 19       | 38     | 55.88%  |
+| 0.51-1.0   | 12       | 13     | 35.29%  |
+| 1.01-2.0   | 2        | 2      | 5.88%   |
+| 3.01-4.0   | 1        | 1      | 2.94%   |
 
 Space Total
 -----------
@@ -974,7 +974,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 128GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 512GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1385,7 +1385,7 @@ Monitor models
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
 | Vizio E370VL VIZ0070 1920x1080 820x461mm 37.0-inch          | 1        | 4%      |
-| Toshiba TV TSB0105 1920x540 708x398mm 32.0-inch             | 1        | 4%      |
+| Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch            | 1        | 4%      |
 | Sony SDM-HX73 SNY2870 1280x1024 338x270mm 17.0-inch         | 1        | 4%      |
 | Sceptre LCD Monitor P30 2560x1080                           | 1        | 4%      |
 | Samsung Electronics LCD Monitor SAM03FE 1280x720            | 1        | 4%      |
@@ -1583,7 +1583,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 1        | 2.56%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller            | 1        | 2.56%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller            | 1        | 2.56%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:3BB6B401                           | 1        | 2.56%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:019B7071                           | 1        | 2.56%   |
 | Microsoft Xbox 360 Wireless Adapter                                  | 1        | 2.56%   |
 | Intel Wireless 7265                                                  | 1        | 2.56%   |
 | Intel Wireless 3160                                                  | 1        | 2.56%   |
@@ -1859,22 +1859,22 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s              | 1        | 7.14%   |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 7.14%   |
-| Unknown RAM Module 4GB DIMM 1600MT/s                   | 1        | 7.14%   |
-| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s    | 1        | 7.14%   |
-| S RAM Module 2GB DIMM DDR3 1600MT/s                    | 1        | 7.14%   |
-| Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s     | 1        | 7.14%   |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s | 1        | 7.14%   |
-| Kingston RAM ACR24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s    | 1        | 7.14%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 7.14%   |
-| Crucial RAM CT102464BA1339.C16 8GB DIMM DDR3 1333MT/s  | 1        | 7.14%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s  | 1        | 7.14%   |
-| Corsair RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s    | 1        | 7.14%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 7.14%   |
-| AMD RAM R9S416G3000U2S 16GB DIMM DDR4 3000MT/s         | 1        | 7.14%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s             | 1        | 7.14%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s             | 1        | 7.14%   |
+| Unknown RAM Module 4GB DIMM 1600MT/s                  | 1        | 7.14%   |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s   | 1        | 7.14%   |
+| S RAM Module 2GB DIMM DDR3 1600MT/s                   | 1        | 7.14%   |
+| Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3            | 1        | 7.14%   |
+| Kingston RAM ACR24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s   | 1        | 7.14%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 7.14%   |
+| Crucial RAM CT102464BA1339.C16 8GB DIMM DDR3 1333MT/s | 1        | 7.14%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s | 1        | 7.14%   |
+| Corsair RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2666MT/s   | 1        | 7.14%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s | 1        | 7.14%   |
+| AMD RAM R9S416G3000U2S 16GB DIMM DDR4 3000MT/s        | 1        | 7.14%   |
 
 Memory Kind
 -----------

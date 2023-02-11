@@ -826,10 +826,10 @@ Geographic location (city)
 | Neyagawa                  | 1         | 2.22%   |
 | Nairobi                   | 1         | 2.22%   |
 | Mittegrossefehn           | 1         | 2.22%   |
+| Milan                     | 1         | 2.22%   |
 | Mechanicsburg             | 1         | 2.22%   |
 | Karaganda                 | 1         | 2.22%   |
 | Jonesboro                 | 1         | 2.22%   |
-| Inveruno                  | 1         | 2.22%   |
 | Hobbs                     | 1         | 2.22%   |
 | Hagenbach                 | 1         | 2.22%   |
 | Greenville                | 1         | 2.22%   |
@@ -925,7 +925,7 @@ Hard drive models
 | Hitachi HTS545025B9A300 250GB           | 1         | 2.04%   |
 | Hitachi HTS543225A7A384 250GB           | 1         | 2.04%   |
 | Hitachi HTS542525K9SA00 250GB           | 1         | 2.04%   |
-| Hitachi HTS541612J9SA00 120GB           | 1         | 2.04%   |
+| Hitachi HTS541612J9SA00 119GB           | 1         | 2.04%   |
 
 HDD Vendor
 ----------
@@ -1053,20 +1053,19 @@ Drive models with a malfunction
 
 | Model                         | Notebooks | Drives | Percent |
 |-------------------------------|-----------|--------|---------|
-| WDC WD3200BEVT-60ZCT1 320GB   | 1         | 1      | 7.14%   |
-| WDC WD2500BEVT-22ZCT0 250GB   | 1         | 1      | 7.14%   |
-| Seagate ST9320325AS 320GB     | 1         | 1      | 7.14%   |
-| Seagate ST9160314AS 160GB     | 1         | 1      | 7.14%   |
-| Seagate ST9160310AS 160GB     | 1         | 1      | 7.14%   |
-| Hitachi HTS725050A7E630 500GB | 1         | 1      | 7.14%   |
-| Hitachi HTS723232A7A364 320GB | 1         | 1      | 7.14%   |
-| Hitachi HTS721060G9AT00 64GB  | 1         | 1      | 7.14%   |
-| Hitachi HTS548040M9AT00 40GB  | 1         | 1      | 7.14%   |
-| Hitachi HTS543225A7A384 250GB | 1         | 1      | 7.14%   |
-| Hitachi HTS542525K9SA00 250GB | 1         | 1      | 7.14%   |
-| Hitachi HTS541612J9SA00 120GB | 1         | 1      | 7.14%   |
-| Hitachi HTC426040G8CE00 40GB  | 1         | 1      | 7.14%   |
-| Hitachi DK23AA-60 6GB         | 1         | 1      | 7.14%   |
+| WDC WD3200BEVT-60ZCT1 320GB   | 1         | 1      | 7.69%   |
+| WDC WD2500BEVT-22ZCT0 250GB   | 1         | 1      | 7.69%   |
+| Seagate ST9320325AS 320GB     | 1         | 1      | 7.69%   |
+| Seagate ST9160314AS 160GB     | 1         | 1      | 7.69%   |
+| Seagate ST9160310AS 160GB     | 1         | 1      | 7.69%   |
+| Hitachi HTS725050A7E630 500GB | 1         | 1      | 7.69%   |
+| Hitachi HTS723232A7A364 320GB | 1         | 1      | 7.69%   |
+| Hitachi HTS721060G9AT00 64GB  | 1         | 1      | 7.69%   |
+| Hitachi HTS548040M9AT00 40GB  | 1         | 1      | 7.69%   |
+| Hitachi HTS543225A7A384 250GB | 1         | 1      | 7.69%   |
+| Hitachi HTS542525K9SA00 250GB | 1         | 1      | 7.69%   |
+| Hitachi HTS541612J9SA00 119GB | 1         | 1      | 7.69%   |
+| Hitachi HTC426040G8CE00 40GB  | 1         | 1      | 7.69%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1078,9 +1077,9 @@ Vendors of faulty drives
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Hitachi | 9         | 9      | 64.29%  |
-| Seagate | 3         | 3      | 21.43%  |
-| WDC     | 2         | 2      | 14.29%  |
+| Hitachi | 8         | 8      | 61.54%  |
+| Seagate | 3         | 3      | 23.08%  |
+| WDC     | 2         | 2      | 15.38%  |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1092,9 +1091,9 @@ Vendors of faulty HDD drives
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Hitachi | 9         | 9      | 64.29%  |
-| Seagate | 3         | 3      | 21.43%  |
-| WDC     | 2         | 2      | 14.29%  |
+| Hitachi | 8         | 8      | 61.54%  |
+| Seagate | 3         | 3      | 23.08%  |
+| WDC     | 2         | 2      | 15.38%  |
 
 Malfunc. Drive Kind
 -------------------
@@ -1106,7 +1105,7 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 14        | 14     | 100%    |
+| HDD  | 13        | 13     | 100%    |
 
 Failed Drives
 -------------
@@ -1132,8 +1131,8 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 27        | 31     | 58.7%   |
-| Malfunc  | 14        | 14     | 30.43%  |
+| Works    | 28        | 32     | 60.87%  |
+| Malfunc  | 13        | 13     | 28.26%  |
 | Detected | 5         | 5      | 10.87%  |
 
 Storage controller
@@ -1573,8 +1572,8 @@ Monitor models
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 3.33%   |
 | HJW HDMI TO USB HJW0001 1920x1080 708x398mm 32.0-inch                    | 1         | 3.33%   |
 | HannStar LCD Monitor HSD0325 1024x600 195x113mm 8.9-inch                 | 1         | 3.33%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                 | 1         | 3.33%   |
 | HannStar HSD100IFW4A HSD03EE 1024x600 220x129mm 10.0-inch                | 1         | 3.33%   |
+| HannStar HSD100IFW1 HSD03E9 1024x600 220x129mm 10.0-inch                 | 1         | 3.33%   |
 | CPT LCD Monitor CPT04C4 1024x600 222x130mm 10.1-inch                     | 1         | 3.33%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch          | 1         | 3.33%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1025 1024x600 222x125mm 10.0-inch | 1         | 3.33%   |
@@ -1761,8 +1760,8 @@ Controller models
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express                           | 2         | 2.22%   |
 | Broadcom BCM43224 802.11a/b/g/n                                               | 2         | 2.22%   |
 | Texas Instruments ACX 100 22Mbps Wireless Interface                           | 1         | 1.11%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 1         | 1.11%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 1         | 1.11%   |
-| Realtek 802.11n WLAN Adapter                                                  | 1         | 1.11%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                     | 1         | 1.11%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                    | 1         | 1.11%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                     | 1         | 1.11%   |
@@ -1823,7 +1822,7 @@ Wireless models
 | Intel Centrino Ultimate-N 6300                                                | 2         | 4.26%   |
 | Broadcom BCM43224 802.11a/b/g/n                                               | 2         | 4.26%   |
 | Texas Instruments ACX 100 22Mbps Wireless Interface                           | 1         | 2.13%   |
-| Realtek 802.11n WLAN Adapter                                                  | 1         | 2.13%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 1         | 2.13%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                     | 1         | 2.13%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                    | 1         | 2.13%   |
 | Qualcomm Atheros AR9271 802.11n                                               | 1         | 2.13%   |
@@ -2108,17 +2107,17 @@ Memory module models
 | Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s | 1         | 2%      |
 | SK hynix RAM Module 512MB SODIMM DDR2 533MT/s                  | 1         | 2%      |
 | SK hynix RAM Module 1GB SODIMM DDR3 1067MT/s                   | 1         | 2%      |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s          | 1         | 2%      |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s           | 1         | 2%      |
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 2%      |
 | SK hynix RAM HMT451S6MFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 2%      |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 2%      |
 | SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s         | 1         | 2%      |
 | SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s         | 1         | 2%      |
 | SK hynix RAM HMT112S6BFR6C-G7 1GB SODIMM 1067MT/s              | 1         | 2%      |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s         | 1         | 2%      |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s      | 1         | 2%      |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
 | Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 2%      |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s               | 1         | 2%      |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 1         | 2%      |
 | Micron RAM Module 512MB SODIMM DDR2 533MT/s                    | 1         | 2%      |
 | Micron RAM 8HTF12864HDY-800G1 1024MB SODIMM DDR2 800MT/s       | 1         | 2%      |
@@ -2367,8 +2366,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 32        | 72.73%  |
-| 1     | 11        | 25%     |
+| 0     | 31        | 70.45%  |
+| 1     | 12        | 27.27%  |
 | 2     | 1         | 2.27%   |
 
 Unsupported Device Types
@@ -2381,7 +2380,7 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 6         | 46.15%  |
-| Fingerprint reader | 6         | 46.15%  |
-| Chipcard           | 1         | 7.69%   |
+| Graphics card      | 7         | 50%     |
+| Fingerprint reader | 6         | 42.86%  |
+| Chipcard           | 1         | 7.14%   |
 

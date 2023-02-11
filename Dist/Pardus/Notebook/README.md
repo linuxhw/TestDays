@@ -814,7 +814,7 @@ Hard drive models
 | Seagate ST9500325AS 500GB                   | 1         | 2.56%   |
 | Seagate ST9120822AS 120GB                   | 1         | 2.56%   |
 | Seagate ST1000LM035-1RK172 1TB              | 1         | 2.56%   |
-| Seagate Expansion 4TB                       | 1         | 2.56%   |
+| Seagate Expansion 240GB                     | 1         | 2.56%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB | 1         | 2.56%   |
 | SanDisk SSD PLUS 240GB                      | 1         | 2.56%   |
 | SanDisk SDSSDA480G 480GB                    | 1         | 2.56%   |
@@ -914,9 +914,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 22        | 27     | 75.86%  |
-| 0.51-1.0   | 6         | 10     | 20.69%  |
-| 3.01-4.0   | 1         | 1      | 3.45%   |
+| 0.01-0.5   | 22        | 28     | 78.57%  |
+| 0.51-1.0   | 6         | 10     | 21.43%  |
 
 Space Total
 -----------
@@ -1433,7 +1432,7 @@ Monitor models
 | LG Display LCD Monitor LGD0384 1366x768 344x194mm 15.5-inch              | 1         | 3.23%   |
 | LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch              | 1         | 3.23%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch                 | 1         | 3.23%   |
-| Goldstar 2D HD TV GSM59CA 1366x768 509x286mm 23.0-inch                   | 1         | 3.23%   |
+| Goldstar 2D HD LG TV GSM59CA 1366x768 510x290mm 23.1-inch                | 1         | 3.23%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 1         | 3.23%   |
 | Chimei Innolux LCD Monitor CMN15C9 1366x768 344x193mm 15.5-inch          | 1         | 3.23%   |
 | Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch          | 1         | 3.23%   |
@@ -1631,7 +1630,7 @@ Controller models
 | Broadcom BCM43225 802.11b/g/n                                        | 1         | 1.54%   |
 | Broadcom BCM43142 802.11b/g/n                                        | 1         | 1.54%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                  | 1         | 1.54%   |
-| ASUS 802.11n NIC                                                     | 1         | 1.54%   |
+| ASUS Realtek 8188EUS [USB-N10 Nano]                                  | 1         | 1.54%   |
 | ASUS 802.11ac NIC                                                    | 1         | 1.54%   |
 
 Wireless Vendor
@@ -1687,7 +1686,7 @@ Wireless models
 | Broadcom BCM43225 802.11b/g/n                                  | 1         | 2.94%   |
 | Broadcom BCM43142 802.11b/g/n                                  | 1         | 2.94%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 1         | 2.94%   |
-| ASUS 802.11n NIC                                               | 1         | 2.94%   |
+| ASUS Realtek 8188EUS [USB-N10 Nano]                            | 1         | 2.94%   |
 | ASUS 802.11ac NIC                                              | 1         | 2.94%   |
 
 Ethernet Vendor
@@ -1825,12 +1824,12 @@ Controller models
 | Ralink RT3290 Bluetooth                             | 1         | 4%      |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 4%      |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 4%      |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 4%      |
+| Lite-On Bluetooth Device                            | 1         | 4%      |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 4%      |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4%      |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 4%      |
+| Intel Bluetooth Device                              | 1         | 4%      |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 4%      |
-| Intel AX201 Bluetooth                               | 1         | 4%      |
 | IMC Networks Bluetooth Device                       | 1         | 4%      |
 | Foxconn / Hon Hai BCM43142A0                        | 1         | 4%      |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4%      |

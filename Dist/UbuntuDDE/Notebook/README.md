@@ -1548,8 +1548,8 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 2%      |
-| Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch     | 1         | 2%      |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 2%      |
+| Samsung Electronics LCD Monitor SEC3157 1280x800 261x163mm 12.1-inch     | 1         | 2%      |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch     | 1         | 2%      |
@@ -1564,7 +1564,7 @@ Monitor models
 | LG Display LCD Monitor LGD024F 1280x800 260x160mm 12.0-inch              | 1         | 2%      |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 2%      |
 | JDI LCD Monitor JDI422A 3000x2000 293x196mm 13.9-inch                    | 1         | 2%      |
-| Goldstar M2380A GSM57EE 1920x1080 510x280mm 22.9-inch                    | 1         | 2%      |
+| Goldstar M2380A GSM57EE 1920x1080 509x286mm 23.0-inch                    | 1         | 2%      |
 | Eizo EV2450 ENC2532 1920x1080 528x297mm 23.9-inch                        | 1         | 2%      |
 | Eizo EV2450 ENC2531 1920x1080 528x297mm 23.9-inch                        | 1         | 2%      |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch         | 1         | 2%      |
@@ -1985,8 +1985,8 @@ Controller models
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 5.88%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 5.88%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 2         | 5.88%   |
+| Intel Bluetooth Device                              | 2         | 5.88%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 5.88%   |
-| Intel AX201 Bluetooth                               | 2         | 5.88%   |
 | IMC Networks Bluetooth Radio                        | 2         | 5.88%   |
 | Toshiba Bluetooth Device                            | 1         | 2.94%   |
 | Realtek Bluetooth Radio                             | 1         | 2.94%   |
@@ -2088,32 +2088,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Notebooks | Percent |
-|------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 2         | 8%      |
-| Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s     | 1         | 4%      |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
-| SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
-| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s     | 1         | 4%      |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Ramaxel RAM RMSA3270MB86H9F2400 4GB SODIMM DDR4 2400MT/s   | 1         | 4%      |
-| Micron RAM Module 4GB SODIMM DDR3 1600MT/s                 | 1         | 4%      |
-| Micron RAM 8ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2400MT/s       | 1         | 4%      |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
-| Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
-| Kingston RAM KHX2133C13S4/4G 4GB SODIMM DDR4 2133MT/s      | 1         | 4%      |
-| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| Crucial RAM CT16G4SFRA32A.M16FRS 16GB SODIMM DDR4 3200MT/s | 1         | 4%      |
+| Model                                                       | Notebooks | Percent |
+|-------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 8%      |
+| Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1334MT/s   | 1         | 4%      |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s   | 1         | 4%      |
+| SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s         | 1         | 4%      |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 1         | 4%      |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s       | 1         | 4%      |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
+| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
+| Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s       | 1         | 4%      |
+| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s       | 1         | 4%      |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
+| Ramaxel RAM RMSA3270MB86H9F2400 4096MB SODIMM DDR4 2400MT/s | 1         | 4%      |
+| Micron RAM Module 4GB SODIMM DDR3 1600MT/s                  | 1         | 4%      |
+| Micron RAM 8ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2400MT/s        | 1         | 4%      |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
+| Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
+| Kingston RAM KHX2133C13S4/4G 4GB SODIMM DDR4 2133MT/s       | 1         | 4%      |
+| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s       | 1         | 4%      |
+| Crucial RAM CT16G4SFRA32A.M16FRS 16GB SODIMM DDR4 3200MT/s  | 1         | 4%      |
 
 Memory Kind
 -----------
@@ -2244,7 +2244,7 @@ Camera device models
 | Suyin WebCam                                   | 1         | 2.63%   |
 | Suyin HP Truevision HD                         | 1         | 2.63%   |
 | Suyin Asus Integrated Webcam                   | 1         | 2.63%   |
-| Suyin 1.3M Front                               | 1         | 2.63%   |
+| Suyin 1.3M HD WebCam                           | 1         | 2.63%   |
 | Sunplus Laptop_Integrated_Webcam_HD            | 1         | 2.63%   |
 | Sunplus Integrated_Webcam_HD                   | 1         | 2.63%   |
 | Sunplus HD WebCam                              | 1         | 2.63%   |
@@ -2261,8 +2261,8 @@ Camera device models
 | IMC Networks USB2.0 VGA UVC WebCam             | 1         | 2.63%   |
 | IMC Networks USB2.0 UVC HD Webcam              | 1         | 2.63%   |
 | IMC Networks USB2.0 HD UVC WebCam              | 1         | 2.63%   |
+| Chicony Web Camera - HD                        | 1         | 2.63%   |
 | Chicony USB 2.0 Camera                         | 1         | 2.63%   |
-| Chicony TOSHIBA Web Camera - HD                | 1         | 2.63%   |
 | Chicony Lenovo EasyCamera                      | 1         | 2.63%   |
 | Chicony Integrated Camera                      | 1         | 2.63%   |
 | Chicony HP Wide Vision HD Camera               | 1         | 2.63%   |
@@ -2348,8 +2348,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 30        | 68.18%  |
-| 1     | 12        | 27.27%  |
-| 2     | 2         | 4.55%   |
+| 1     | 13        | 29.55%  |
+| 2     | 1         | 2.27%   |
 
 Unsupported Device Types
 ------------------------
@@ -2361,8 +2361,8 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 6         | 42.86%  |
-| Fingerprint reader | 5         | 35.71%  |
-| Chipcard           | 2         | 14.29%  |
-| Net/ethernet       | 1         | 7.14%   |
+| Graphics card      | 5         | 38.46%  |
+| Fingerprint reader | 5         | 38.46%  |
+| Chipcard           | 2         | 15.38%  |
+| Net/ethernet       | 1         | 7.69%   |
 

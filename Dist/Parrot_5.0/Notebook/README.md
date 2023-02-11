@@ -947,7 +947,7 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-256G-1002 256GB  | 1         | 0.92%   |
 | WDC PC SN530 SDBPNPZ-1T00-1002 1TB    | 1         | 0.92%   |
 | Unknown SE32G  32GB                   | 1         | 0.92%   |
-| Unknown SD/MMC/MS PRO 64GB            | 1         | 0.92%   |
+| Unknown SD/MMC/MS PRO 2GB             | 1         | 0.92%   |
 | Unknown SD  128GB                     | 1         | 0.92%   |
 | Unknown ISOCOM  64GB                  | 1         | 0.92%   |
 | Toshiba MQ01ACF050 500GB              | 1         | 0.92%   |
@@ -1059,8 +1059,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 47     | 63.49%  |
-| 0.51-1.0   | 21        | 22     | 33.33%  |
+| 0.01-0.5   | 39        | 45     | 61.9%   |
+| 0.51-1.0   | 22        | 24     | 34.92%  |
 | 1.01-2.0   | 2         | 2      | 3.17%   |
 
 Space Total
@@ -1274,9 +1274,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 44        | 44.9%   |
+| SATA | 45        | 45.92%  |
 | NVMe | 28        | 28.57%  |
-| RAID | 15        | 15.31%  |
+| RAID | 14        | 14.29%  |
 | IDE  | 11        | 11.22%  |
 
 Processor
@@ -1654,15 +1654,15 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO2E8D 1920x1080 344x194mm 15.5-inch           | 3         | 3.45%   |
 | Unknown (AAA) LCDTV AAA0042 1360x768 890x500mm 40.2-inch                 | 1         | 1.15%   |
-| Samsung Electronics SMT24A550 SAM07B5 1920x1080 530x300mm 24.0-inch      | 1         | 1.15%   |
+| Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch      | 1         | 1.15%   |
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch        | 1         | 1.15%   |
-| Samsung Electronics LCD Monitor SEC4145 1366x768 310x170mm 13.9-inch     | 1         | 1.15%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 1.15%   |
+| Samsung Electronics LCD Monitor SEC4145 1366x768 309x174mm 14.0-inch     | 1         | 1.15%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 277x156mm 12.5-inch     | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SDC3652 1366x768 344x194mm 15.5-inch     | 1         | 1.15%   |
 | Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch   | 1         | 1.15%   |
 | PANDA LCD Monitor NCP004B 1920x1080 344x194mm 15.5-inch                  | 1         | 1.15%   |
-| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                     | 1         | 1.15%   |
+| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                      | 1         | 1.15%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch              | 1         | 1.15%   |
 | LG Display LCD Monitor LGD060F 1920x1080 309x174mm 14.0-inch             | 1         | 1.15%   |
 | LG Display LCD Monitor LGD0557 1920x1080 309x174mm 14.0-inch             | 1         | 1.15%   |
@@ -2037,7 +2037,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.41%   |
 | Nvidia MCP89 Ethernet                                             | 1         | 1.41%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 1.41%   |
-| MediaTek Infinix NOTE 11                                          | 1         | 1.41%   |
+| MediaTek File-CD Gadget                                           | 1         | 1.41%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.41%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 1.41%   |
 | Intel Ethernet Connection (6) I219-V                              | 1         | 1.41%   |
@@ -2149,8 +2149,8 @@ Controller models
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 13        | 18.84%  |
+| Intel Bluetooth Device                                                              | 8         | 11.59%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 7         | 10.14%  |
-| Intel AX201 Bluetooth                                                               | 7         | 10.14%  |
 | Realtek Bluetooth Radio                                                             | 5         | 7.25%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 3         | 4.35%   |
 | MediaTek Wireless_Device                                                            | 3         | 4.35%   |
@@ -2167,10 +2167,9 @@ Controller models
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 1.45%   |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 1.45%   |
 | Lite-On Wireless_Device                                                             | 1         | 1.45%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 1         | 1.45%   |
+| Lite-On Bluetooth Device                                                            | 1         | 1.45%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 1.45%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 1.45%   |
-| Intel Bluetooth Device                                                              | 1         | 1.45%   |
 | Intel AX210 Bluetooth                                                               | 1         | 1.45%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 1.45%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 1.45%   |
@@ -2291,8 +2290,8 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 3         | 5%      |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 3.33%   |
 | SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 2         | 3.33%   |
-| SK hynix RAM HMA851S6AFR6N-UH 2GB SODIMM LPDDR4 2667MT/s         | 2         | 3.33%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 2         | 3.33%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 2         | 3.33%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 3.33%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 3.33%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 2         | 3.33%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s             | 2         | 3.33%   |
@@ -2303,21 +2302,21 @@ Memory module models
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 1         | 1.67%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 1.67%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 1         | 1.67%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.67%   |
+| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s         | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 1.67%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s           | 1         | 1.67%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s           | 1         | 1.67%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.67%   |
-| Samsung RAM M4 70T5663EH3-CF7 2GB SODIMM DDR2 975MT/s            | 1         | 1.67%   |
+| Samsung RAM M4 70T5663EH3-CF7 2048MB SODIMM DDR2 975MT/s         | 1         | 1.67%   |
 | Samsung RAM M378B2873CZ0-CF7 1GB SODIMM DDR3 800MT/s             | 1         | 1.67%   |
 | Samsung RAM K4EBE304EB-EGCF 8GB Row Of Chips LPDDR3 1867MT/s     | 1         | 1.67%   |
 | Saikano RAM Memory 4GB SODIMM DDR3 1333MT/s                      | 1         | 1.67%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.67%   |
 | Ramaxel RAM RMT3170EB68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.67%   |
-| Ramaxel RAM RMSA3270ME86H9F-2666 4096MB SODIMM DDR4 2667MT/s     | 1         | 1.67%   |
-| Micron RAM MTC8C1084S1SC48BA1 16GB SODIMM 4800MT/s               | 1         | 1.67%   |
+| Ramaxel RAM RMSA3270ME86H9F-2666 4GB SODIMM DDR4 2667MT/s        | 1         | 1.67%   |
+| Micron RAM MTC8C1084S1SC48BA1 16GB SODIMM DDR5 4800MT/s          | 1         | 1.67%   |
 | Micron RAM Module 16GB SODIMM DDR4 3200MT/s                      | 1         | 1.67%   |
 | Micron RAM 8JSF25664HZ-1G4D1 2GB SODIMM DDR3 1334MT/s            | 1         | 1.67%   |
 | Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 1.67%   |
@@ -2327,7 +2326,7 @@ Memory module models
 | Micron RAM 16KTF1G64HZ-1G6P1 8GB SODIMM DDR3 1600MT/s            | 1         | 1.67%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s            | 1         | 1.67%   |
 | Kingston RAM KF3200C20S4/16GX 16GB SODIMM DDR4 3200MT/s          | 1         | 1.67%   |
-| Kingston RAM KF2666C15S4/8G 8192MB SODIMM DDR4 2667MT/s          | 1         | 1.67%   |
+| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s             | 1         | 1.67%   |
 
 Memory Kind
 -----------
@@ -2472,16 +2471,15 @@ Camera device vendors
 | Quanta                                 | 4         | 5.33%   |
 | Sunplus Innovation Technology          | 3         | 4%      |
 | Syntek                                 | 2         | 2.67%   |
-| USB Camera                             | 1         | 1.33%   |
+| Luxvisions Innotech Limited            | 2         | 2.67%   |
 | Suyin                                  | 1         | 1.33%   |
 | Silicon Motion                         | 1         | 1.33%   |
 | Ricoh                                  | 1         | 1.33%   |
 | Primax Electronics                     | 1         | 1.33%   |
-| Luxvisions Innotech Limited            | 1         | 1.33%   |
 | Lite-On Technology                     | 1         | 1.33%   |
 | Importek                               | 1         | 1.33%   |
+| icSpring                               | 1         | 1.33%   |
 | Goertek Electronics                    | 1         | 1.33%   |
-| DJJHFA1BIF5595                         | 1         | 1.33%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.33%   |
 | Alcor Micro                            | 1         | 1.33%   |
 
@@ -2507,14 +2505,13 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD                      | 2         | 2.67%   |
 | Chicony Integrated Camera [ThinkPad]                 | 2         | 2.67%   |
 | Chicony HD User Facing                               | 2         | 2.67%   |
-| Apple iPhone5/5C/5S/6                                | 2         | 2.67%   |
+| Apple iPhone 5/5C/5S/6/SE                            | 2         | 2.67%   |
 | Apple Built-in iSight                                | 2         | 2.67%   |
 | Acer SunplusIT Integrated Camera                     | 2         | 2.67%   |
-| USB Camera USB Camera                                | 1         | 1.33%   |
 | Syntek Lenovo EasyCamera                             | 1         | 1.33%   |
 | Syntek Integrated Camera                             | 1         | 1.33%   |
 | Suyin Acer CrystalEye Webcam                         | 1         | 1.33%   |
-| Sunplus SPCA2650 AV Camera                           | 1         | 1.33%   |
+| Sunplus FHD Camera Microphone                        | 1         | 1.33%   |
 | Silicon Motion WebCam SC-13HDL11939N                 | 1         | 1.33%   |
 | Ricoh HD Webcam                                      | 1         | 1.33%   |
 | Realtek Integrated_Webcam_HD                         | 1         | 1.33%   |
@@ -2525,13 +2522,14 @@ Camera device models
 | Quanta HD User Facing                                | 1         | 1.33%   |
 | Primax HP HD Webcam [Fixed]                          | 1         | 1.33%   |
 | Microdia Webcam Vitade AF                            | 1         | 1.33%   |
-| Microdia USB 2.0 Camera                              | 1         | 1.33%   |
 | Microdia PC Microscope camera                        | 1         | 1.33%   |
 | Microdia Laptop_Integrated_Webcam_HD                 | 1         | 1.33%   |
 | Microdia Laptop_Integrated_Webcam_2M                 | 1         | 1.33%   |
 | Microdia Integrated_Webcam_HD                        | 1         | 1.33%   |
 | Microdia Integrated Webcam                           | 1         | 1.33%   |
+| Microdia HP Integrated Webcam                        | 1         | 1.33%   |
 | Luxvisions Innotech Limited HP Wide Vision HD Camera | 1         | 1.33%   |
+| Luxvisions Innotech Limited HP HD Camera             | 1         | 1.33%   |
 | Lite-On HP HD Camera                                 | 1         | 1.33%   |
 | Importek TOSHIBA Web Camera - HD                     | 1         | 1.33%   |
 | IMC Networks USB Camera                              | 1         | 1.33%   |

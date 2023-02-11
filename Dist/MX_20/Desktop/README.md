@@ -590,8 +590,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 12       | 54.55%  |
-| Yes       | 10       | 45.45%  |
+| No        | 12       | 52.17%  |
+| Yes       | 11       | 47.83%  |
 
 Has Ethernet
 ------------
@@ -753,9 +753,9 @@ Hard drive models
 | Seagate ST31500341AS 1TB          | 1        | 1.92%   |
 | Seagate ST2000DX001-1CM164 2TB    | 1        | 1.92%   |
 | Seagate ST2000DM001-1CH164 2TB    | 1        | 1.92%   |
-| Seagate Backup+ Desk 4TB          | 1        | 1.92%   |
+| Seagate Backup+ Desk 5TB          | 1        | 1.92%   |
 | SanDisk SSD PLUS 1000GB           | 1        | 1.92%   |
-| SanDisk SSD G5 BICS4 500GB        | 1        | 1.92%   |
+| SanDisk SSD G5 BICS4 1TB          | 1        | 1.92%   |
 | Samsung SSD 970 EVO Plus 500GB    | 1        | 1.92%   |
 | Samsung SSD 870 EVO 500GB         | 1        | 1.92%   |
 | Samsung SSD 860 QVO 1TB           | 1        | 1.92%   |
@@ -848,11 +848,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 18       | 31     | 51.43%  |
-| 0.51-1.0   | 9        | 13     | 25.71%  |
-| 1.01-2.0   | 5        | 6      | 14.29%  |
-| 3.01-4.0   | 2        | 3      | 5.71%   |
-| 2.01-3.0   | 1        | 2      | 2.86%   |
+| 0.01-0.5   | 18       | 30     | 50%     |
+| 0.51-1.0   | 10       | 14     | 27.78%  |
+| 1.01-2.0   | 5        | 6      | 13.89%  |
+| 3.01-4.0   | 2        | 3      | 5.56%   |
+| 2.01-3.0   | 1        | 2      | 2.78%   |
 
 Space Total
 -----------
@@ -1354,18 +1354,18 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                | 1        | 3.57%   |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch               | 1        | 3.57%   |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch  | 1        | 3.57%   |
+| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch | 1        | 3.57%   |
 | Sony TV SNY0801 1360x768                                              | 1        | 3.57%   |
 | Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
 | Samsung Electronics LCD Monitor SAM0D3B 3840x2160 950x540mm 43.0-inch | 1        | 3.57%   |
-| Samsung Electronics C27JG5x SAM0F57 1680x1050 600x340mm 27.2-inch     | 1        | 3.57%   |
+| Samsung Electronics C27JG5x SAM0F57 2560x1440 597x336mm 27.0-inch     | 1        | 3.57%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
 | RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                      | 1        | 3.57%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch              | 1        | 3.57%   |
 | Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                | 1        | 3.57%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                  | 1        | 3.57%   |
 | Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch            | 1        | 3.57%   |
-| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch            | 1        | 3.57%   |
+| Hewlett-Packard 22fw HPN3541 1920x1080 500x300mm 23.0-inch            | 1        | 3.57%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 1        | 3.57%   |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                  | 1        | 3.57%   |
 | Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
@@ -1778,7 +1778,7 @@ Sound card models
 | Nvidia GM204 High Definition Audio Controller                       | 1        | 2.27%   |
 | Nvidia GF119 HDMI Audio Controller                                  | 1        | 2.27%   |
 | Kingston Technology HyperX 7.1 Audio                                | 1        | 2.27%   |
-| JMTek HP-71                                                         | 1        | 2.27%   |
+| JMTek USB PnP Audio Device                                          | 1        | 2.27%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller    | 1        | 2.27%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller             | 1        | 2.27%   |
 | Intel Comet Lake PCH cAVS                                           | 1        | 2.27%   |
@@ -1829,7 +1829,7 @@ Memory module models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1800MT/s              | 2        | 6.9%    |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 2        | 6.9%    |
 | Unknown RAM Module 8192MB DIMM DDR4 2133MT/s                         | 1        | 3.45%   |
 | Unknown RAM Module 512MB DIMM SDRAM                                  | 1        | 3.45%   |
 | Unknown RAM Module 2048MB DIMM DDR 667MT/s                           | 1        | 3.45%   |

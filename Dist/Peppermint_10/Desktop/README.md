@@ -796,8 +796,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 55       | 68.75%  |
-| No        | 25       | 31.25%  |
+| Yes       | 54       | 67.5%   |
+| No        | 26       | 32.5%   |
 
 Has Ethernet
 ------------
@@ -1003,7 +1003,7 @@ Hard drive models
 | WDC WD30EFZX-68AWUN0 3TB         | 1        | 0.84%   |
 | WDC WD2500BEVT-22A23T0 250GB     | 1        | 0.84%   |
 | WDC WD2500AVJB-63WKA0 250GB      | 1        | 0.84%   |
-| WDC WD2500AAJS-75M0A0 249GB      | 1        | 0.84%   |
+| WDC WD2500AAJS-75M0A0 250GB      | 1        | 0.84%   |
 | WDC WD2500AAJS-00VTA0 250GB      | 1        | 0.84%   |
 | WDC WD20EZRX-00D8PB0 2TB         | 1        | 0.84%   |
 | WDC WD20EURS-63S48Y0 2TB         | 1        | 0.84%   |
@@ -1311,11 +1311,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| IDE  | 50       | 53.19%  |
-| SATA | 34       | 36.17%  |
-| RAID | 7        | 7.45%   |
-| NVMe | 2        | 2.13%   |
-| SAS  | 1        | 1.06%   |
+| IDE  | 49       | 52.69%  |
+| SATA | 34       | 36.56%  |
+| RAID | 7        | 7.53%   |
+| NVMe | 2        | 2.15%   |
+| SAS  | 1        | 1.08%   |
 
 Processor
 ---------
@@ -1728,14 +1728,14 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 40UHD_LCD_TV VES3700 3840x2160 890x500mm 40.2-inch    | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.28%   |
+| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch   | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                      | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
 | Sharp LCD SHP0FF0 1360x768                                              | 1        | 1.28%   |
 | Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                  | 1        | 1.28%   |
-| Samsung Electronics SyncMaster SAM05C8 1920x1080 521x293mm 23.5-inch    | 1        | 1.28%   |
+| Samsung Electronics SyncMaster SAM05C8 1920x1080 520x290mm 23.4-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.28%   |
 | Samsung Electronics SME1920 SAM06B7 1360x768 410x230mm 18.5-inch        | 1        | 1.28%   |
@@ -1761,7 +1761,7 @@ Monitor models
 | Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch              | 1        | 1.28%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 1        | 1.28%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch             | 1        | 1.28%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.28%   |
 
 Monitor Resolution
@@ -1804,28 +1804,27 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 13       | 17.11%  |
-| 19      | 9        | 11.84%  |
-| 17      | 7        | 9.21%   |
-| 27      | 5        | 6.58%   |
-| 18      | 5        | 6.58%   |
-| 15      | 5        | 6.58%   |
-| 22      | 4        | 5.26%   |
-| 21      | 4        | 5.26%   |
-| 31      | 3        | 3.95%   |
-| 24      | 3        | 3.95%   |
-| 23      | 3        | 3.95%   |
-| 20      | 3        | 3.95%   |
-| 84      | 2        | 2.63%   |
-| 34      | 2        | 2.63%   |
-| 74      | 1        | 1.32%   |
-| 41      | 1        | 1.32%   |
-| 40      | 1        | 1.32%   |
-| 32      | 1        | 1.32%   |
-| 26      | 1        | 1.32%   |
-| 16      | 1        | 1.32%   |
-| 14      | 1        | 1.32%   |
-| 8       | 1        | 1.32%   |
+| Unknown | 13       | 17.33%  |
+| 19      | 9        | 12%     |
+| 17      | 7        | 9.33%   |
+| 27      | 5        | 6.67%   |
+| 18      | 5        | 6.67%   |
+| 15      | 5        | 6.67%   |
+| 22      | 4        | 5.33%   |
+| 21      | 4        | 5.33%   |
+| 31      | 3        | 4%      |
+| 24      | 3        | 4%      |
+| 23      | 3        | 4%      |
+| 20      | 3        | 4%      |
+| 84      | 2        | 2.67%   |
+| 34      | 2        | 2.67%   |
+| 74      | 1        | 1.33%   |
+| 41      | 1        | 1.33%   |
+| 40      | 1        | 1.33%   |
+| 32      | 1        | 1.33%   |
+| 16      | 1        | 1.33%   |
+| 14      | 1        | 1.33%   |
+| 8       | 1        | 1.33%   |
 
 Monitor Width
 -------------
@@ -1837,18 +1836,18 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 401-500     | 18       | 24%     |
-| Unknown     | 13       | 17.33%  |
-| 501-600     | 11       | 14.67%  |
-| 301-350     | 11       | 14.67%  |
-| 351-400     | 9        | 12%     |
-| 701-800     | 3        | 4%      |
-| 601-700     | 3        | 4%      |
-| 1501-2000   | 3        | 4%      |
-| 801-900     | 1        | 1.33%   |
-| 201-300     | 1        | 1.33%   |
-| 101-200     | 1        | 1.33%   |
-| 901-1000    | 1        | 1.33%   |
+| 401-500     | 18       | 23.68%  |
+| Unknown     | 13       | 17.11%  |
+| 501-600     | 11       | 14.47%  |
+| 301-350     | 11       | 14.47%  |
+| 351-400     | 9        | 11.84%  |
+| 601-700     | 4        | 5.26%   |
+| 701-800     | 3        | 3.95%   |
+| 1501-2000   | 3        | 3.95%   |
+| 801-900     | 1        | 1.32%   |
+| 201-300     | 1        | 1.32%   |
+| 101-200     | 1        | 1.32%   |
+| 901-1000    | 1        | 1.32%   |
 
 Aspect Ratio
 ------------
@@ -1860,14 +1859,13 @@ Proportional relationship between the width and the height
 
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
-| 16/9    | 36       | 49.32%  |
-| Unknown | 10       | 13.7%   |
-| 5/4     | 9        | 12.33%  |
-| 16/10   | 8        | 10.96%  |
-| 4/3     | 4        | 5.48%   |
-| 6/5     | 3        | 4.11%   |
-| 21/9    | 2        | 2.74%   |
-| 1.98    | 1        | 1.37%   |
+| 16/9    | 36       | 50%     |
+| Unknown | 10       | 13.89%  |
+| 5/4     | 9        | 12.5%   |
+| 16/10   | 8        | 11.11%  |
+| 4/3     | 4        | 5.56%   |
+| 6/5     | 3        | 4.17%   |
+| 21/9    | 2        | 2.78%   |
 
 Monitor Area
 ------------
@@ -1879,19 +1877,19 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 151-200        | 16       | 21.33%  |
-| Unknown        | 13       | 17.33%  |
-| 201-250        | 10       | 13.33%  |
-| 141-150        | 10       | 13.33%  |
-| 351-500        | 6        | 8%      |
-| 301-350        | 5        | 6.67%   |
-| 101-110        | 5        | 6.67%   |
-| More than 1000 | 3        | 4%      |
-| 251-300        | 2        | 2.67%   |
-| 501-1000       | 2        | 2.67%   |
-| 1-40           | 1        | 1.33%   |
-| 131-140        | 1        | 1.33%   |
-| 121-130        | 1        | 1.33%   |
+| 151-200        | 16       | 21.62%  |
+| Unknown        | 13       | 17.57%  |
+| 201-250        | 10       | 13.51%  |
+| 141-150        | 10       | 13.51%  |
+| 351-500        | 6        | 8.11%   |
+| 301-350        | 5        | 6.76%   |
+| 101-110        | 5        | 6.76%   |
+| More than 1000 | 3        | 4.05%   |
+| 501-1000       | 2        | 2.7%    |
+| 1-40           | 1        | 1.35%   |
+| 251-300        | 1        | 1.35%   |
+| 131-140        | 1        | 1.35%   |
+| 121-130        | 1        | 1.35%   |
 
 Pixel Density
 -------------
@@ -2355,26 +2353,26 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2GB DIMM DDR2                       | 1        | 5.56%   |
-| Unknown RAM Module 1GB DIMM DDR2                       | 1        | 5.56%   |
-| Unknown RAM Module 1024MB DIMM 800MT/s                 | 1        | 5.56%   |
-| Unknown RAM Module 1024MB DIMM 41632MT/s               | 1        | 5.56%   |
-| SK hynix RAM Module 2GB DIMM DDR3 1600MT/s             | 1        | 5.56%   |
-| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
-| Samsung RAM Module 2048MB DIMM DDR3 1333MT/s           | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s    | 1        | 5.56%   |
-| Samsung RAM M378B2873FHS-CH9 1024MB DIMM DDR3 1333MT/s | 1        | 5.56%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s     | 1        | 5.56%   |
-| Micron RAM Module 2048MB DIMM DDR3 1333MT/s            | 1        | 5.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 1        | 5.56%   |
-| Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s     | 1        | 5.56%   |
-| Kingston RAM 9905734-019.A00G 16GB DIMM DDR4 2400MT/s  | 1        | 5.56%   |
-| Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2866MT/s   | 1        | 5.56%   |
-| G.Skill RAM F3-1866C10-8GAB 8GB DIMM DDR3 1867MT/s     | 1        | 5.56%   |
-| Crucial RAM BLS8G3D18ADS3 8GB DIMM DDR3 1866MT/s       | 1        | 5.56%   |
-| Unknown                                                | 1        | 5.56%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2GB DIMM DDR2                      | 1        | 5.56%   |
+| Unknown RAM Module 1GB DIMM DDR2                      | 1        | 5.56%   |
+| Unknown RAM Module 1024MB DIMM 800MT/s                | 1        | 5.56%   |
+| Unknown RAM Module 1024MB DIMM 41632MT/s              | 1        | 5.56%   |
+| SK hynix RAM Module 2GB DIMM DDR3 1600MT/s            | 1        | 5.56%   |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
+| Samsung RAM Module 2048MB DIMM DDR3 1333MT/s          | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| Samsung RAM M378B2873FHS-CH9 4GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
+| Micron RAM Module 2048MB DIMM DDR3 1333MT/s           | 1        | 5.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s    | 1        | 5.56%   |
+| Kingston RAM 9905734-019.A00G 16GB DIMM DDR4 2400MT/s | 1        | 5.56%   |
+| Kingston RAM 9905713-017.A00G 4GB DIMM DDR4 2866MT/s  | 1        | 5.56%   |
+| G.Skill RAM F3-1866C10-8GAB 8GB DIMM DDR3 1867MT/s    | 1        | 5.56%   |
+| Crucial RAM BLS8G3D18ADS3 8GB DIMM DDR3 1866MT/s      | 1        | 5.56%   |
+| Unknown                                               | 1        | 5.56%   |
 
 Memory Kind
 -----------
@@ -2415,10 +2413,10 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 1024  | 6        | 37.5%   |
 | 2048  | 5        | 31.25%  |
+| 1024  | 5        | 31.25%  |
+| 4096  | 3        | 18.75%  |
 | 8192  | 2        | 12.5%   |
-| 4096  | 2        | 12.5%   |
 | 16384 | 1        | 6.25%   |
 
 Memory Speed
@@ -2431,16 +2429,16 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 3        | 20%     |
-| 1333    | 3        | 20%     |
-| 800     | 2        | 13.33%  |
-| 41632   | 1        | 6.67%   |
-| 2866    | 1        | 6.67%   |
-| 2400    | 1        | 6.67%   |
-| 1867    | 1        | 6.67%   |
-| 1866    | 1        | 6.67%   |
-| 320     | 1        | 6.67%   |
-| Unknown | 1        | 6.67%   |
+| 1600    | 3        | 21.43%  |
+| 1333    | 2        | 14.29%  |
+| 800     | 2        | 14.29%  |
+| 41632   | 1        | 7.14%   |
+| 2866    | 1        | 7.14%   |
+| 2400    | 1        | 7.14%   |
+| 1867    | 1        | 7.14%   |
+| 1866    | 1        | 7.14%   |
+| 320     | 1        | 7.14%   |
+| Unknown | 1        | 7.14%   |
 
 Printers & scanners
 -------------------
@@ -2573,8 +2571,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 62       | 76.54%  |
-| 1     | 16       | 19.75%  |
+| 0     | 63       | 77.78%  |
+| 1     | 15       | 18.52%  |
 | 2     | 3        | 3.7%    |
 
 Unsupported Device Types
@@ -2587,11 +2585,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 7        | 33.33%  |
-| Graphics card            | 5        | 23.81%  |
-| Communication controller | 5        | 23.81%  |
-| Unassigned class         | 1        | 4.76%   |
-| Sound                    | 1        | 4.76%   |
-| Net/ethernet             | 1        | 4.76%   |
-| Camera                   | 1        | 4.76%   |
+| Net/wireless             | 7        | 35%     |
+| Communication controller | 5        | 25%     |
+| Graphics card            | 4        | 20%     |
+| Unassigned class         | 1        | 5%      |
+| Sound                    | 1        | 5%      |
+| Net/ethernet             | 1        | 5%      |
+| Camera                   | 1        | 5%      |
 

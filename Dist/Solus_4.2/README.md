@@ -1410,14 +1410,14 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 293x165mm 13.2-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
-| LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch         | 1         | 3.45%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
 | JRY LCD Monitor JRY1950 1600x900 368x207mm 16.6-inch                 | 1         | 3.45%   |
-| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch                | 1         | 3.45%   |
+| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1         | 3.45%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch          | 1         | 3.45%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 3.45%   |
@@ -1428,10 +1428,10 @@ Monitor models
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO173D 1920x1080 309x173mm 13.9-inch       | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO15ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.45%   |
-| AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
+| AU Optronics LCD Monitor AUO139E 1600x900 380x210mm 17.1-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1         | 3.45%   |
+| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                   | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1615,7 +1615,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.89%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:3BB6B401                        | 1         | 1.89%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:019B7071                        | 1         | 1.89%   |
 | NetGear A6150                                                     | 1         | 1.89%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.89%   |
@@ -1820,14 +1820,15 @@ Controller models
 
 | Model                                            | Computers | Percent |
 |--------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                          | 2         | 13.33%  |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
 | Intel Bluetooth wireless interface               | 2         | 13.33%  |
 | Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
 | Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
+| Realtek Bluetooth Radio                          | 1         | 6.67%   |
 | Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
+| Lite-On Bluetooth Device                         | 1         | 6.67%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
 | Intel AX200 Bluetooth                            | 1         | 6.67%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
@@ -1930,7 +1931,7 @@ Memory module models
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 11.11%  |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 11.11%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |
-| Kingston RAM 9905624-044.A00G 8192MB SODIMM DDR4 2400MT/s | 1         | 11.11%  |
+| Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 11.11%  |
 | G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s     | 1         | 11.11%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 11.11%  |
 | A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 11.11%  |
@@ -2081,7 +2082,7 @@ Camera device models
 | Chicony Integrated Camera                 | 1         | 7.14%   |
 | Chicony HD WebCam                         | 1         | 7.14%   |
 | Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
-| Apple iPhone5/5C/5S/6                     | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE                 | 1         | 7.14%   |
 | Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security
@@ -2156,8 +2157,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 17        | 65.38%  |
-| 1     | 6         | 23.08%  |
+| 0     | 16        | 61.54%  |
+| 1     | 7         | 26.92%  |
 | 2     | 3         | 11.54%  |
 
 Unsupported Device Types
@@ -2170,8 +2171,9 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Net/wireless       | 4         | 36.36%  |
-| Fingerprint reader | 4         | 36.36%  |
-| Chipcard           | 2         | 18.18%  |
-| Unassigned class   | 1         | 9.09%   |
+| Net/wireless       | 4         | 33.33%  |
+| Fingerprint reader | 4         | 33.33%  |
+| Chipcard           | 2         | 16.67%  |
+| Unassigned class   | 1         | 8.33%   |
+| Graphics card      | 1         | 8.33%   |
 

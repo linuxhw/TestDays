@@ -896,6 +896,7 @@ Geographic location (city)
 | Neyagawa                  | 1         | 1.59%   |
 | Nairobi                   | 1         | 1.59%   |
 | Mittegrossefehn           | 1         | 1.59%   |
+| Milan                     | 1         | 1.59%   |
 | Mechanicsburg             | 1         | 1.59%   |
 | Mason                     | 1         | 1.59%   |
 | Maidstone                 | 1         | 1.59%   |
@@ -903,7 +904,6 @@ Geographic location (city)
 | Karaganda                 | 1         | 1.59%   |
 | Kagoshima                 | 1         | 1.59%   |
 | Jonesboro                 | 1         | 1.59%   |
-| Inveruno                  | 1         | 1.59%   |
 | Houston                   | 1         | 1.59%   |
 | Hobbs                     | 1         | 1.59%   |
 | Heraklion                 | 1         | 1.59%   |
@@ -978,7 +978,7 @@ Hard drive models
 | WDC WD1200BEVE-00A0HT0 120GB            | 1         | 1.32%   |
 | WDC WD10SPZX-80Z10T2 1TB                | 1         | 1.32%   |
 | Unknown SR64G  64GB                     | 1         | 1.32%   |
-| Unknown SD/MMC/MS PRO 64GB              | 1         | 1.32%   |
+| Unknown SD/MMC/MS PRO 2GB               | 1         | 1.32%   |
 | Unknown HAG2e  16GB                     | 1         | 1.32%   |
 | Unknown 2GB ATA Flash Disk              | 1         | 1.32%   |
 | Unknown (CF) Card 16GB SSD              | 1         | 1.32%   |
@@ -1136,29 +1136,28 @@ Drive models with a malfunction
 
 | Model                           | Computers | Drives | Percent |
 |---------------------------------|-----------|--------|---------|
-| WDC WD8088AADS-00M2B0 809GB     | 1         | 1      | 4.35%   |
-| WDC WD800JB-00ETA0 80GB         | 1         | 1      | 4.35%   |
-| WDC WD800AAJS-75M0A0 80GB       | 1         | 1      | 4.35%   |
-| WDC WD3200BEVT-60ZCT1 320GB     | 1         | 1      | 4.35%   |
-| WDC WD2500BEVT-22ZCT0 250GB     | 1         | 1      | 4.35%   |
-| WDC WD205BA 21GB                | 1         | 1      | 4.35%   |
-| Seagate ST9320325AS 320GB       | 1         | 1      | 4.35%   |
-| Seagate ST9160314AS 160GB       | 1         | 1      | 4.35%   |
-| Seagate ST9160310AS 160GB       | 1         | 1      | 4.35%   |
-| Seagate ST500DM002-1BD142 500GB | 1         | 1      | 4.35%   |
-| Seagate ST3320620AS 320GB       | 1         | 1      | 4.35%   |
-| Seagate ST3320413CS 320GB       | 1         | 1      | 4.35%   |
-| SanDisk sandisk120 120GB SSD    | 1         | 1      | 4.35%   |
-| Hitachi HTS725050A7E630 500GB   | 1         | 1      | 4.35%   |
-| Hitachi HTS723232A7A364 320GB   | 1         | 1      | 4.35%   |
-| Hitachi HTS721060G9AT00 64GB    | 1         | 1      | 4.35%   |
-| Hitachi HTS548040M9AT00 40GB    | 1         | 1      | 4.35%   |
-| Hitachi HTS543225A7A384 250GB   | 1         | 1      | 4.35%   |
-| Hitachi HTS542525K9SA00 250GB   | 1         | 1      | 4.35%   |
-| Hitachi HTS541612J9SA00 120GB   | 1         | 1      | 4.35%   |
-| Hitachi HTC426040G8CE00 40GB    | 1         | 1      | 4.35%   |
-| Hitachi DK23AA-60 6GB           | 1         | 1      | 4.35%   |
-| China M.2 SSD 128GB             | 1         | 1      | 4.35%   |
+| WDC WD8088AADS-00M2B0 809GB     | 1         | 1      | 4.55%   |
+| WDC WD800JB-00ETA0 80GB         | 1         | 1      | 4.55%   |
+| WDC WD800AAJS-75M0A0 80GB       | 1         | 1      | 4.55%   |
+| WDC WD3200BEVT-60ZCT1 320GB     | 1         | 1      | 4.55%   |
+| WDC WD2500BEVT-22ZCT0 250GB     | 1         | 1      | 4.55%   |
+| WDC WD205BA 21GB                | 1         | 1      | 4.55%   |
+| Seagate ST9320325AS 320GB       | 1         | 1      | 4.55%   |
+| Seagate ST9160314AS 160GB       | 1         | 1      | 4.55%   |
+| Seagate ST9160310AS 160GB       | 1         | 1      | 4.55%   |
+| Seagate ST500DM002-1BD142 500GB | 1         | 1      | 4.55%   |
+| Seagate ST3320620AS 320GB       | 1         | 1      | 4.55%   |
+| Seagate ST3320413CS 320GB       | 1         | 1      | 4.55%   |
+| SanDisk sandisk120 120GB SSD    | 1         | 1      | 4.55%   |
+| Hitachi HTS725050A7E630 500GB   | 1         | 1      | 4.55%   |
+| Hitachi HTS723232A7A364 320GB   | 1         | 1      | 4.55%   |
+| Hitachi HTS721060G9AT00 64GB    | 1         | 1      | 4.55%   |
+| Hitachi HTS548040M9AT00 40GB    | 1         | 1      | 4.55%   |
+| Hitachi HTS543225A7A384 250GB   | 1         | 1      | 4.55%   |
+| Hitachi HTS542525K9SA00 250GB   | 1         | 1      | 4.55%   |
+| Hitachi HTS541612J9SA00 119GB   | 1         | 1      | 4.55%   |
+| Hitachi HTC426040G8CE00 40GB    | 1         | 1      | 4.55%   |
+| China M.2 SSD 128GB             | 1         | 1      | 4.55%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1170,11 +1169,11 @@ Vendors of faulty drives
 
 | Vendor  | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| Hitachi | 9         | 9      | 39.13%  |
-| WDC     | 6         | 6      | 26.09%  |
-| Seagate | 6         | 6      | 26.09%  |
-| SanDisk | 1         | 1      | 4.35%   |
-| China   | 1         | 1      | 4.35%   |
+| Hitachi | 8         | 8      | 36.36%  |
+| WDC     | 6         | 6      | 27.27%  |
+| Seagate | 6         | 6      | 27.27%  |
+| SanDisk | 1         | 1      | 4.55%   |
+| China   | 1         | 1      | 4.55%   |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1186,9 +1185,9 @@ Vendors of faulty HDD drives
 
 | Vendor  | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| Hitachi | 9         | 9      | 42.86%  |
-| WDC     | 6         | 6      | 28.57%  |
-| Seagate | 6         | 6      | 28.57%  |
+| Hitachi | 8         | 8      | 40%     |
+| WDC     | 6         | 6      | 30%     |
+| Seagate | 6         | 6      | 30%     |
 
 Malfunc. Drive Kind
 -------------------
@@ -1200,8 +1199,8 @@ Kinds of faulty drives
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 21        | 21     | 91.3%   |
-| SSD  | 2         | 2      | 8.7%    |
+| HDD  | 20        | 20     | 90.91%  |
+| SSD  | 2         | 2      | 9.09%   |
 
 Failed Drives
 -------------
@@ -1227,8 +1226,8 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 36        | 46     | 53.73%  |
-| Malfunc  | 23        | 23     | 34.33%  |
+| Works    | 37        | 47     | 55.22%  |
+| Malfunc  | 22        | 22     | 32.84%  |
 | Detected | 8         | 9      | 11.94%  |
 
 Storage controller
@@ -1717,13 +1716,13 @@ Monitor models
 | LG Display LCD Monitor LGD02C7 1366x768 293x165mm 13.2-inch              | 1         | 2.38%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 2.38%   |
 | HJW HDMI TO USB HJW0001 1920x1080 708x398mm 32.0-inch                    | 1         | 2.38%   |
-| Hewlett-Packard Contino HPN4018 1920x1080 527x296mm 23.8-inch            | 1         | 2.38%   |
+| Hewlett-Packard ALL-in-One HPN4018 1920x1080 527x296mm 23.8-inch         | 1         | 2.38%   |
 | HannStar LCD Monitor HSD0325 1024x600 195x113mm 8.9-inch                 | 1         | 2.38%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch                 | 1         | 2.38%   |
 | HannStar HSD100IFW4A HSD03EE 1024x600 220x129mm 10.0-inch                | 1         | 2.38%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                 | 1         | 2.38%   |
+| HannStar HSD100IFW1 HSD03E9 1024x600 220x129mm 10.0-inch                 | 1         | 2.38%   |
 | Goldstar M2250D GSM57EF 1920x1080 477x268mm 21.5-inch                    | 1         | 2.38%   |
 | Goldstar M198WA GSM4B36 1440x900 410x260mm 19.1-inch                     | 1         | 2.38%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch              | 1         | 2.38%   |
 | Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                         | 1         | 2.38%   |
 | CPT LCD Monitor CPT04C4 1024x600 222x130mm 10.1-inch                     | 1         | 2.38%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch          | 1         | 2.38%   |
@@ -1945,8 +1944,8 @@ Controller models
 | Broadcom BCM43224 802.11a/b/g/n                                               | 2         | 1.67%   |
 | Texas Instruments ACX 100 22Mbps Wireless Interface                           | 1         | 0.83%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                      | 1         | 0.83%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 1         | 0.83%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 1         | 0.83%   |
-| Realtek 802.11n WLAN Adapter                                                  | 1         | 0.83%   |
 | Ralink RT5370 Wireless Adapter                                                | 1         | 0.83%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                     | 1         | 0.83%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                    | 1         | 0.83%   |
@@ -2005,7 +2004,7 @@ Wireless models
 | Broadcom BCM43224 802.11a/b/g/n                                               | 2         | 3.57%   |
 | Texas Instruments ACX 100 22Mbps Wireless Interface                           | 1         | 1.79%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                      | 1         | 1.79%   |
-| Realtek 802.11n WLAN Adapter                                                  | 1         | 1.79%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 1         | 1.79%   |
 | Ralink RT5370 Wireless Adapter                                                | 1         | 1.79%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                     | 1         | 1.79%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                    | 1         | 1.79%   |
@@ -2180,7 +2179,7 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 3         | 14.29%  |
-| Intel AX201 Bluetooth                               | 2         | 9.52%   |
+| Intel Bluetooth Device                              | 2         | 9.52%   |
 | IMC Networks Bluetooth Device                       | 2         | 9.52%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 9.52%   |
 | Broadcom HP Portable SoftSailing                    | 2         | 9.52%   |
@@ -2315,7 +2314,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM SDRAM                            | 2         | 2.82%   |
 | Unknown RAM Module 256MB SODIMM DRAM                           | 2         | 2.82%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 2         | 2.82%   |
-| Corsair RAM CMK32GX4M2E3200C16 16384MB DIMM DDR4 3200MT/s      | 2         | 2.82%   |
+| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3200MT/s         | 2         | 2.82%   |
 | Unknown RAM Module 512MB SODIMM SDRAM                          | 1         | 1.41%   |
 | Unknown RAM Module 512MB SODIMM DRAM                           | 1         | 1.41%   |
 | Unknown RAM Module 512MB DIMM DDR 400MT/s                      | 1         | 1.41%   |
@@ -2342,7 +2341,7 @@ Memory module models
 | Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s             | 1         | 1.41%   |
 | SK hynix RAM Module 512MB SODIMM DDR2 533MT/s                  | 1         | 1.41%   |
 | SK hynix RAM Module 1GB SODIMM DDR3 1067MT/s                   | 1         | 1.41%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s          | 1         | 1.41%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s           | 1         | 1.41%   |
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 1.41%   |
 | SK hynix RAM HMT451S6MFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.41%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 1.41%   |
@@ -2594,8 +2593,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 46        | 74.19%  |
-| 1     | 11        | 17.74%  |
+| 0     | 45        | 72.58%  |
+| 1     | 12        | 19.35%  |
 | 2     | 3         | 4.84%   |
 | 3     | 2         | 3.23%   |
 
@@ -2609,11 +2608,11 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 10        | 43.48%  |
-| Fingerprint reader       | 6         | 26.09%  |
-| Communication controller | 3         | 13.04%  |
-| Sound                    | 1         | 4.35%   |
-| Net/ethernet             | 1         | 4.35%   |
-| Modem                    | 1         | 4.35%   |
-| Chipcard                 | 1         | 4.35%   |
+| Graphics card            | 11        | 45.83%  |
+| Fingerprint reader       | 6         | 25%     |
+| Communication controller | 3         | 12.5%   |
+| Sound                    | 1         | 4.17%   |
+| Net/ethernet             | 1         | 4.17%   |
+| Modem                    | 1         | 4.17%   |
+| Chipcard                 | 1         | 4.17%   |
 

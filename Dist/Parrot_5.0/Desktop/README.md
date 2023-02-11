@@ -608,8 +608,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 21       | 80.77%  |
-| Yes       | 5        | 19.23%  |
+| No        | 20       | 74.07%  |
+| Yes       | 7        | 25.93%  |
 
 Has Ethernet
 ------------
@@ -1393,11 +1393,11 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch             | 1        | 3.57%   |
 | Unknown LCD Monitor SAMSUNG 3840x1080                                 | 1        | 3.57%   |
-| Toshiba TV TSB0105 1920x540 708x398mm 32.0-inch                       | 1        | 3.57%   |
+| Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch                      | 1        | 3.57%   |
 | Toshiba TSB-TV TSB0205 1920x1080 531x398mm 26.1-inch                  | 1        | 3.57%   |
 | STD LCD Monitor STD0001 1920x1080                                     | 1        | 3.57%   |
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1        | 3.57%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
 | Plain Tree Systems Monitor PTS0899 1680x1050 474x296mm 22.0-inch      | 1        | 3.57%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1        | 3.57%   |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch           | 1        | 3.57%   |
@@ -1604,7 +1604,7 @@ Controller models
 | Ralink RT5372 Wireless Adapter                                          | 1        | 1.67%   |
 | Ralink MT7601U Wireless Adapter                                         | 1        | 1.67%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                        | 1        | 1.67%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:3BB6B401                              | 1        | 1.67%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:019B7071                              | 1        | 1.67%   |
 | Nvidia MCP61 Ethernet                                                   | 1        | 1.67%   |
 | Microsoft Xbox360 Wireless N Networking Adapter [Atheros AR7010+AR9280] | 1        | 1.67%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 1.67%   |
@@ -1907,15 +1907,15 @@ Memory module models
 | SK hynix RAM HYMP512U64CP8-Y5 1GB DIMM                     | 1        | 5.56%   |
 | Silicon Power RAM SP016GBLFU266B02 16GB DIMM DDR4 2667MT/s | 1        | 5.56%   |
 | Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
-| Samsung RAM M378B5273DH0-CK0 4096MB DIMM DDR3 2200MT/s     | 1        | 5.56%   |
+| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s        | 1        | 5.56%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 5.56%   |
+| Kingston RAM KHX1866C10D3/8G 8192MB DIMM DDR3 2133MT/s     | 1        | 5.56%   |
 | Kingston RAM 9905678-005.A00G 8GB DIMM DDR4 2400MT/s       | 1        | 5.56%   |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s     | 1        | 5.56%   |
 | Crucial RAM CT16G4SFD8266.M16FJ 16GB SODIMM DDR4 2667MT/s  | 1        | 5.56%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Corsair RAM CM4X8GF2400Z16K4 8GB DIMM DDR4 2400MT/s        | 1        | 5.56%   |
-| A-DATA RAM DDR4 3000 16384MB DIMM DDR4 3600MT/s            | 1        | 5.56%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                | 1        | 5.56%   |
 
 Memory Kind
 -----------

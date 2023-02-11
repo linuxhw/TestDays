@@ -1519,14 +1519,14 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 1        | 3.03%   |
+| Xiaomi Woieyeks-4K XMD009A 2880x1800 480x270mm 21.7-inch             | 1        | 3.03%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.03%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.03%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.03%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 3.03%   |
+| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                   | 1        | 3.03%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 3.03%   |
-| Samsung Electronics SMB2430L SAM0644 1920x1080 521x293mm 23.5-inch   | 1        | 3.03%   |
-| ONN ONA18HO015 ONN0101 1920x1080 470x290mm 21.7-inch                 | 1        | 3.03%   |
+| Samsung Electronics B2430L SAM0644 1920x1080 521x293mm 23.5-inch     | 1        | 3.03%   |
+| ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1        | 3.03%   |
 | NEC Computers LCD2490WUXi NEC66CE 1920x1200 518x324mm 24.1-inch      | 1        | 3.03%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch             | 1        | 3.03%   |
 | JVC FPDEUFT3 JVC21BE 1920x540                                        | 1        | 3.03%   |
@@ -1540,12 +1540,12 @@ Monitor models
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1        | 3.03%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1        | 3.03%   |
 | Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1        | 3.03%   |
-| Eizo M1700 ENC1788 1280x1024 338x271mm 17.1-inch                     | 1        | 3.03%   |
+| Eizo M1700 ENC1788 1280x1024 340x280mm 17.3-inch                     | 1        | 3.03%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 3.03%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1        | 3.03%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                    | 1        | 3.03%   |
 | Dell 1905FP DEL400D 1280x1024 376x301mm 19.0-inch                    | 1        | 3.03%   |
-| BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 530x300mm 24.0-inch              | 1        | 3.03%   |
+| BenQ ZOWIE RL LCD BNQ7F4F 1920x1080 531x299mm 24.0-inch              | 1        | 3.03%   |
 | BenQ EW2420 BNQ7923 1920x1080 531x299mm 24.0-inch                    | 1        | 3.03%   |
 | BenQ BenQG2222HDL BNQ785A 1920x1080 478x269mm 21.6-inch              | 1        | 3.03%   |
 | ASUSTek Computer VA24DQLB AUS2482 1920x1080 527x296mm 23.8-inch      | 1        | 3.03%   |
@@ -2037,7 +2037,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.5%    |
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.5%    |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s          | 1        | 2.5%    |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s        | 1        | 2.5%    |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s         | 1        | 2.5%    |
 | Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s        | 1        | 2.5%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.5%    |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.5%    |
@@ -2049,7 +2049,7 @@ Memory module models
 | Micron RAM 18JSF1G72PZ-1G9E1 8GB DIMM DDR3 1866MT/s        | 1        | 2.5%    |
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.5%    |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.5%    |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s     | 1        | 2.5%    |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3                 | 1        | 2.5%    |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |

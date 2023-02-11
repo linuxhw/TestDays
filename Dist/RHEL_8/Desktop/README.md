@@ -718,8 +718,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 29       | 53.7%   |
-| Yes       | 25       | 46.3%   |
+| No        | 30       | 55.56%  |
+| Yes       | 24       | 44.44%  |
 
 Has Ethernet
 ------------
@@ -942,7 +942,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.76%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.76%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.76%   |
-| Unknown SD/MMC/MS PRO 64GB           | 1        | 0.76%   |
+| Unknown SD/MMC/MS PRO 2GB            | 1        | 0.76%   |
 | Toshiba HDWT140 4TB                  | 1        | 0.76%   |
 
 HDD Vendor
@@ -1636,7 +1636,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch   | 1        | 1.45%   |
 | Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch     | 1        | 1.45%   |
 | Samsung Electronics S22B300 SAM08A9 1600x900 443x249mm 20.0-inch      | 1        | 1.45%   |
-| Samsung Electronics LCD Monitor SAM7106 1920x1080 600x340mm 27.2-inch | 1        | 1.45%   |
+| Samsung Electronics LCD Monitor SAM7106 1920x1080 530x300mm 24.0-inch | 1        | 1.45%   |
 | Samsung Electronics LCD Monitor SAM0200 1280x720                      | 1        | 1.45%   |
 | Samsung Electronics LCD Monitor S22B150                               | 1        | 1.45%   |
 | Samsung Electronics LCD Monitor C49HG9x 3840x1080                     | 1        | 1.45%   |
@@ -1653,17 +1653,17 @@ Monitor models
 | Lenovo Group Limited LCD Monitor LEN P27u-10 9600x2160                | 1        | 1.45%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10 7680x2160                | 1        | 1.45%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10                          | 1        | 1.45%   |
-| Insignia NS-32D511NA15 BBY4000 1920x1080 591x355mm 27.1-inch          | 1        | 1.45%   |
+| Insignia NS-40D420NA16 BBY4000 1920x1080 1210x680mm 54.6-inch         | 1        | 1.45%   |
 | Hewlett-Packard Z38c HPN3411 3840x1600 880x367mm 37.5-inch            | 1        | 1.45%   |
-| Hewlett-Packard LE2002x HWP2963 1600x900 443x249mm 20.0-inch          | 1        | 1.45%   |
+| Hewlett-Packard LE2002x HWP2963 1600x900 440x250mm 19.9-inch          | 1        | 1.45%   |
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.45%   |
 | Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch         | 1        | 1.45%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.45%   |
 | Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch            | 1        | 1.45%   |
-| Goldstar W2243 GSM56FE 1920x1080 480x270mm 21.7-inch                  | 1        | 1.45%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.45%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.45%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1        | 1.45%   |
 | Goldstar ULTRAGEAR GSM5BB1 1920x1080 527x296mm 23.8-inch              | 1        | 1.45%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch           | 1        | 1.45%   |
 | Goldstar 26LB75 GSM5673 1920x1080 700x390mm 31.5-inch                 | 1        | 1.45%   |
 
 Monitor Resolution
@@ -2217,7 +2217,7 @@ Memory module models
 | Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s          | 1        | 3.23%   |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                  | 1        | 3.23%   |
 | Micron RAM 36ASF4G72PZ-2G3B1 32GB DIMM DDR4 2400MT/s      | 1        | 3.23%   |
-| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s       | 1        | 3.23%   |
+| Micron RAM 16JTF1G64AZ-1G6E1 8192MB DIMM DDR3 1600MT/s    | 1        | 3.23%   |
 | Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s       | 1        | 3.23%   |
 | Kingston RAM KHX2666C13/16GX 16GB DIMM DDR4 3200MT/s      | 1        | 3.23%   |
 | Kingston RAM KHX2400C12D4/8GX 8GB DIMM DDR4 2400MT/s      | 1        | 3.23%   |
