@@ -747,8 +747,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 43        | 57.33%  |
-| Yes       | 32        | 42.67%  |
+| No        | 43        | 58.11%  |
+| Yes       | 31        | 41.89%  |
 
 Has Ethernet
 ------------
@@ -1070,8 +1070,9 @@ Size of hard drive
 | 0.01-0.5   | 52        | 72     | 67.53%  |
 | 0.51-1.0   | 15        | 19     | 19.48%  |
 | 1.01-2.0   | 6         | 7      | 7.79%   |
-| 3.01-4.0   | 3         | 4      | 3.9%    |
+| 3.01-4.0   | 2         | 3      | 2.6%    |
 | 2.01-3.0   | 1         | 2      | 1.3%    |
+| 4.01-10.0  | 1         | 1      | 1.3%    |
 
 Space Total
 -----------
@@ -1718,20 +1719,20 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch | 2         | 2.41%   |
 | ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                   | 1         | 1.2%    |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch                  | 1         | 1.2%    |
-| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch    | 1         | 1.2%    |
+| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                         | 1         | 1.2%    |
 | Sony TV SNY0801 1360x768                                                 | 1         | 1.2%    |
 | Sceptre Tech E24 SPT099D 1920x1080 521x293mm 23.5-inch                   | 1         | 1.2%    |
 | Samsung Electronics SyncMaster SAM04E6 1920x1080 477x268mm 21.5-inch     | 1         | 1.2%    |
 | Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch     | 1         | 1.2%    |
 | Samsung Electronics SyncMaster SAM03C2 1680x1050 459x296mm 21.5-inch     | 1         | 1.2%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 1.2%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch     | 1         | 1.2%    |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch     | 1         | 1.2%    |
 | Samsung Electronics LCD Monitor SAM0D3B 3840x2160 950x540mm 43.0-inch    | 1         | 1.2%    |
 | Samsung Electronics C27JG5x SAM0F57 2560x1440 597x336mm 27.0-inch        | 1         | 1.2%    |
 | RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                         | 1         | 1.2%    |
 | Philips PHL BDM4350 PHL08FA 3840x2160 953x543mm 43.2-inch                | 1         | 1.2%    |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                 | 1         | 1.2%    |
-| PANDA LM116LF3L02 NCP000A 1920x1080 256x144mm 11.6-inch                  | 1         | 1.2%    |
+| PANDA LC116LF3L03 NCP000A 1920x1080 256x144mm 11.6-inch                  | 1         | 1.2%    |
 | LG Philips LCD Monitor LPL1901 1680x1050 331x207mm 15.4-inch             | 1         | 1.2%    |
 | LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch            | 1         | 1.2%    |
 | LG Display LCD Monitor LGD062E 1920x1080 344x194mm 15.5-inch             | 1         | 1.2%    |
@@ -1744,13 +1745,13 @@ Monitor models
 | Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch                 | 1         | 1.2%    |
 | Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                   | 1         | 1.2%    |
 | Lenovo LCD Monitor LEN4043 1400x1050 305x228mm 15.0-inch                 | 1         | 1.2%    |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch                  | 1         | 1.2%    |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 1.2%    |
 | InfoVision LCD Monitor IVO03FA 1366x768 223x125mm 10.1-inch              | 1         | 1.2%    |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                     | 1         | 1.2%    |
-| Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch               | 1         | 1.2%    |
-| Hewlett-Packard 22fw HPN3541 1920x1080 500x300mm 23.0-inch               | 1         | 1.2%    |
+| Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch               | 1         | 1.2%    |
+| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch               | 1         | 1.2%    |
 | Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch                | 1         | 1.2%    |
-| HannStar HSD100IFW1 HSD03E9 1024x600 220x129mm 10.0-inch                 | 1         | 1.2%    |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 1         | 1.2%    |
 | HannStar HL161ABB HSD61C7 1366x768 344x193mm 15.5-inch                   | 1         | 1.2%    |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch                 | 1         | 1.2%    |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                     | 1         | 1.2%    |
@@ -2213,12 +2214,12 @@ Controller models
 | Realtek Bluetooth Radio                             | 2         | 4.88%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 4.88%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 4.88%   |
-| Intel Bluetooth Device                              | 2         | 4.88%   |
+| Intel AX201 Bluetooth                               | 2         | 4.88%   |
 | Intel AX200 Bluetooth                               | 2         | 4.88%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 4.88%   |
 | Realtek RTL8821A Bluetooth                          | 1         | 2.44%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 2.44%   |
-| Lite-On Bluetooth Device                            | 1         | 2.44%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.44%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.44%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.44%   |
 | IMC Networks Bluetooth Radio                        | 1         | 2.44%   |
@@ -2352,7 +2353,7 @@ Memory module models
 | Model                                                            | Computers | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 2.2%    |
-| SK hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s          | 2         | 2.2%    |
+| SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s             | 2         | 2.2%    |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s             | 2         | 2.2%    |
 | Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s       | 2         | 2.2%    |
 | Unknown RAM Module 8192MB DIMM DDR4 2133MT/s                     | 1         | 1.1%    |
@@ -2383,11 +2384,11 @@ Memory module models
 | Samsung RAM Module 2048MB SODIMM DDR2 533MT/s                    | 1         | 1.1%    |
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B5674EB0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s                 | 1         | 1.1%    |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.1%    |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.1%    |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s         | 1         | 1.1%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 1.1%    |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s           | 1         | 1.1%    |
 | Samsung RAM M471A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s           | 1         | 1.1%    |
@@ -2560,7 +2561,7 @@ Camera device models
 | Quanta VGA WebCam                                           | 2         | 5%      |
 | Lite-On Integrated Camera                                   | 2         | 5%      |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 2         | 5%      |
-| Acer Lenovo EasyCamera                                      | 2         | 5%      |
+| Acer Lenovo Integrated Webcam                               | 2         | 5%      |
 | Acer BisonCam, NB Pro                                       | 2         | 5%      |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 1         | 2.5%    |
 | Sunplus SPCA1527A/SPCA1528 SD card camera (webcam mode)     | 1         | 2.5%    |
@@ -2586,7 +2587,7 @@ Camera device models
 | Chicony HD WebCam                                           | 1         | 2.5%    |
 | Cheng Uei Precision Industry (Foxlink) Webcam               | 1         | 2.5%    |
 | Apple Built-in iSight                                       | 1         | 2.5%    |
-| Acer Lenovo Integrated Webcam                               | 1         | 2.5%    |
+| Acer Lenovo EasyCamera                                      | 1         | 2.5%    |
 | Acer Integrated Camera                                      | 1         | 2.5%    |
 | Acer EasyCamera                                             | 1         | 2.5%    |
 

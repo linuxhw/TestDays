@@ -1670,7 +1670,7 @@ Graphics card models
 | Nvidia GT215 [GeForce GT 320]                                                            | 1         | 0.91%   |
 | Nvidia GP107M [GeForce MX350]                                                            | 1         | 0.91%   |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 1         | 0.91%   |
-| Nvidia GM204M [GeForce GTX 970M]                                                         | 1         | 0.91%   |
+| Nvidia GM204M [GeForce GTX 960 OEM / 970M]                                               | 1         | 0.91%   |
 | Nvidia GM108M [GeForce 940MX]                                                            | 1         | 0.91%   |
 | Nvidia GM108M [GeForce 840M]                                                             | 1         | 0.91%   |
 | Nvidia GM107M [GeForce GTX 850M]                                                         | 1         | 0.91%   |
@@ -1792,21 +1792,21 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 2         | 2.08%   |
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1         | 1.04%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1         | 1.04%   |
-| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch | 1         | 1.04%   |
+| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                      | 1         | 1.04%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                             | 1         | 1.04%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1         | 1.04%   |
 | SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                    | 1         | 1.04%   |
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 1.04%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch     | 1         | 1.04%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1         | 1.04%   |
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1         | 1.04%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch     | 1         | 1.04%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch     | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC3157 1280x800 261x163mm 12.1-inch  | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
@@ -1815,7 +1815,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch  | 1         | 1.04%   |
 | Philips LCD Monitor 150C4 1024x768                                    | 1         | 1.04%   |
 | Philips 221V PHL0888 1920x1080 480x270mm 21.7-inch                    | 1         | 1.04%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1         | 1.04%   |
+| MSI MAG341CQ MSI1462 3440x1440 797x334mm 34.0-inch                    | 1         | 1.04%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                     | 1         | 1.04%   |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch          | 1         | 1.04%   |
 | LG Display LCD Monitor LGD0582 3000x2000 275x183mm 13.0-inch          | 1         | 1.04%   |
@@ -2039,6 +2039,7 @@ Controller models
 | Intel Wireless 3160                                                                           | 4         | 2.55%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 3         | 1.91%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                                                  | 3         | 1.91%   |
+| TP-Link 802.11ac NIC                                                                          | 2         | 1.27%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                                 | 2         | 1.27%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 2         | 1.27%   |
 | Realtek RTL8723DE Wireless Network Adapter                                                    | 2         | 1.27%   |
@@ -2058,8 +2059,6 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                                                | 1         | 0.64%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]                               | 1         | 0.64%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                                    | 1         | 0.64%   |
-| TP-Link Archer T4U ver.3                                                                      | 1         | 0.64%   |
-| TP-Link 802.11ac NIC                                                                          | 1         | 0.64%   |
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                                                    | 1         | 0.64%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1         | 0.64%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 0.64%   |
@@ -2071,6 +2070,7 @@ Controller models
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1         | 0.64%   |
 | Ralink RT5370 Wireless Adapter                                                                | 1         | 0.64%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                                         | 1         | 0.64%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 0.64%   |
 
 Wireless Vendor
 ---------------
@@ -2110,6 +2110,7 @@ Wireless models
 | Intel Wireless 3160                                                                           | 4         | 5.41%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 3         | 4.05%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                                                  | 3         | 4.05%   |
+| TP-Link 802.11ac NIC                                                                          | 2         | 2.7%    |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 2         | 2.7%    |
 | Realtek RTL8723DE Wireless Network Adapter                                                    | 2         | 2.7%    |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 2         | 2.7%    |
@@ -2122,8 +2123,6 @@ Wireless models
 | Intel Centrino Advanced-N 6200                                                                | 2         | 2.7%    |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                           | 2         | 2.7%    |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                                    | 1         | 1.35%   |
-| TP-Link Archer T4U ver.3                                                                      | 1         | 1.35%   |
-| TP-Link 802.11ac NIC                                                                          | 1         | 1.35%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1         | 1.35%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.35%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 1         | 1.35%   |
@@ -2145,6 +2144,7 @@ Wireless models
 | Intel Comet Lake PCH CNVi WiFi                                                                | 1         | 1.35%   |
 | Intel Centrino Wireless-N 1000 [Condor Peak]                                                  | 1         | 1.35%   |
 | Intel Centrino Advanced-N 6235                                                                | 1         | 1.35%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                                                      | 1         | 1.35%   |
 
 Ethernet Vendor
 ---------------
@@ -2309,8 +2309,8 @@ Controller models
 | Intel Bluetooth wireless interface                  | 13        | 23.64%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7         | 12.73%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 3         | 5.45%   |
-| Intel Bluetooth Device                              | 3         | 5.45%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 5.45%   |
+| Intel AX201 Bluetooth                               | 3         | 5.45%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 3.64%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 3.64%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 3.64%   |
@@ -2451,15 +2451,15 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                               | 1         | 2.27%   |
 | Unknown RAM Module 2048MB DIMM 800MT/s                                     | 1         | 2.27%   |
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                      | 1         | 2.27%   |
+| SK hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s                   | 1         | 2.27%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1334MT/s                  | 1         | 2.27%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s                  | 1         | 2.27%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                     | 1         | 2.27%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                     | 1         | 2.27%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s                        | 1         | 2.27%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s                   | 1         | 2.27%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s                      | 1         | 2.27%   |
@@ -2469,7 +2469,7 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM K4UBE3D4AA-MGCL 8GB Row Of Chips LPDDR4 4267MT/s               | 1         | 2.27%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1024MB DIMM DDR2 800MT/s  | 1         | 2.27%   |
-| Ramaxel RAM RMSA3270MB86H9F2400 4096MB SODIMM DDR4 2400MT/s                | 1         | 2.27%   |
+| Ramaxel RAM RMSA3270MB86H9F2400 4GB SODIMM DDR4 2400MT/s                   | 1         | 2.27%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                           | 1         | 2.27%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1         | 2.27%   |
 | Micron RAM Module 4GB SODIMM DDR3 1600MT/s                                 | 1         | 2.27%   |
@@ -2586,11 +2586,11 @@ Printer device models
 
 | Model                            | Computers | Percent |
 |----------------------------------|-----------|---------|
-| Seiko Epson L3160 Series         | 1         | 20%     |
+| Seiko Epson ET-2720 Series       | 1         | 20%     |
 | HP Officejet 6600                | 1         | 20%     |
 | HP LaserJet Professional P 1102w | 1         | 20%     |
 | Fuji Xerox DocuPrint M205 b      | 1         | 20%     |
-| Canon MF240 Series V4            | 1         | 20%     |
+| Canon MF240 Series UFRII LT      | 1         | 20%     |
 
 Scanner Vendor
 --------------
@@ -2648,7 +2648,7 @@ Camera device models
 |------------------------------------------------|-----------|---------|
 | Microdia Integrated_Webcam_HD                  | 2         | 4.17%   |
 | Microdia Integrated Webcam                     | 2         | 4.17%   |
-| Huawei UVC Camera                              | 2         | 4.17%   |
+| Huawei HD Webcam                               | 2         | 4.17%   |
 | Chicony Integrated Camera                      | 2         | 4.17%   |
 | Z-Star Vimicro USB Camera (Altair)             | 1         | 2.08%   |
 | Suyin WebCam                                   | 1         | 2.08%   |
@@ -2675,8 +2675,8 @@ Camera device models
 | IMC Networks USB2.0 UVC HD Webcam              | 1         | 2.08%   |
 | IMC Networks USB2.0 HD UVC WebCam              | 1         | 2.08%   |
 | Cubeternet HDMI to U3 capture                  | 1         | 2.08%   |
-| Chicony Web Camera - HD                        | 1         | 2.08%   |
 | Chicony USB 2.0 Camera                         | 1         | 2.08%   |
+| Chicony TOSHIBA Web Camera - HD                | 1         | 2.08%   |
 | Chicony Lenovo EasyCamera                      | 1         | 2.08%   |
 | Chicony HP Wide Vision HD Camera               | 1         | 2.08%   |
 | Chicony HP Webcam [2 MP Macro]                 | 1         | 2.08%   |

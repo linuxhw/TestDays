@@ -912,9 +912,9 @@ Hard drive models
 | WDC WD10EZEX-00WN4A0 1TB         | 1        | 1.41%   |
 | WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.41%   |
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.41%   |
-| WDC WD Blue SA510 2.5 500GB SSD  | 1        | 1.41%   |
-| Verbatim Vi550 S3 SSD 512GB      | 1        | 1.41%   |
-| Unknown SD/MMC/MS PRO 2GB        | 1        | 1.41%   |
+| WDC WD Blue SA510 2.5 500GB      | 1        | 1.41%   |
+| Verbatim Vi550 S3 SSD 256GB      | 1        | 1.41%   |
+| Unknown SD/MMC/MS PRO 16GB       | 1        | 1.41%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.41%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.41%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.41%   |
@@ -1002,8 +1002,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 39     | 45.28%  |
-| 0.51-1.0   | 18       | 31     | 33.96%  |
+| 0.01-0.5   | 24       | 40     | 45.28%  |
+| 0.51-1.0   | 18       | 30     | 33.96%  |
 | 1.01-2.0   | 5        | 6      | 9.43%   |
 | 3.01-4.0   | 3        | 7      | 5.66%   |
 | 2.01-3.0   | 2        | 2      | 3.77%   |
@@ -1220,10 +1220,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 28       | 56%     |
-| IDE  | 12       | 24%     |
-| NVMe | 9        | 18%     |
-| RAID | 1        | 2%      |
+| SATA | 27       | 55.1%   |
+| IDE  | 12       | 24.49%  |
+| NVMe | 9        | 18.37%  |
+| RAID | 1        | 2.04%   |
 
 Processor
 ---------
@@ -1608,10 +1608,10 @@ Monitor models
 | Dell SP1908FP DEL4030 1280x1024 376x301mm 19.0-inch                    | 1        | 2.5%    |
 | Dell S2715H DEL40BB 1920x1080 598x336mm 27.0-inch                      | 1        | 2.5%    |
 | Chi Mei Optoelectronics LCD Monitor CMC 19AW 1440x900                  | 1        | 2.5%    |
-| BenQ BL3200 BNQ8017 2560x1440 710x400mm 32.1-inch                      | 1        | 2.5%    |
+| BenQ BL3200 BNQ8017 2560x1440 708x398mm 32.0-inch                      | 1        | 2.5%    |
 | AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                         | 1        | 2.5%    |
 | AOC LCD Monitor 1943W 1366x768                                         | 1        | 2.5%    |
-| Ancor Communications MX279 ACI27C3 1920x1080 600x340mm 27.2-inch       | 1        | 2.5%    |
+| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch       | 1        | 2.5%    |
 | Acer VG270U ACR06C9 2560x1440 597x336mm 27.0-inch                      | 1        | 2.5%    |
 | Acer V273HL ACR02D0 1920x1080 598x336mm 27.0-inch                      | 1        | 2.5%    |
 | Acer S242HL ACR0216 1920x1080 531x299mm 24.0-inch                      | 1        | 2.5%    |
@@ -2075,7 +2075,7 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.45%   |
 | Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.45%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.45%   |
-| C-Media Electronics TONOR TC-777 Audio Device                                                   | 1        | 1.45%   |
+| C-Media Electronics USB PnP Audio Device                                                        | 1        | 1.45%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.45%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.45%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.45%   |
@@ -2120,15 +2120,15 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM DDR3 1400MT/s                      | 1        | 8.33%   |
 | SK hynix RAM HKNNNFBMAVAR-NEH 2048MB Row Of Chips LPDDR4 3200MT/s | 1        | 8.33%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s               | 1        | 8.33%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 8.33%   |
+| Samsung RAM M378B5173DB0-CK0 4096MB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s                | 1        | 8.33%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s               | 1        | 8.33%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s               | 1        | 8.33%   |
 | HP RAM 7EH65AA# 16384MB DIMM DDR4 2666MT/s                        | 1        | 8.33%   |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s              | 1        | 8.33%   |
 | G.Skill RAM F3-12800CL9-4GBSR 4096MB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
 | Crucial RAM CT8G4DFD8213.C16FBR2 8GB DIMM DDR4 2133MT/s           | 1        | 8.33%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s             | 1        | 8.33%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3000MT/s                       | 1        | 8.33%   |
+| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3000MT/s                      | 1        | 8.33%   |
 
 Memory Kind
 -----------
@@ -2283,18 +2283,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Z-Star Integrated Camera                 | 1        | 10%     |
-| Novatek J1455                            | 1        | 10%     |
-| Microsoft LifeCam VX-5000                | 1        | 10%     |
-| Microsoft LifeCam VX-500 [1357]          | 1        | 10%     |
-| Logitech Webcam C270                     | 1        | 10%     |
-| Logitech QuickCam Communicate MP/S5500   | 1        | 10%     |
-| Huawei UVC Camera                        | 1        | 10%     |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
-| Cubeternet GL-UPC822 UVC WebCam          | 1        | 10%     |
-| ARC International Camera                 | 1        | 10%     |
+| Model                                  | Desktops | Percent |
+|----------------------------------------|----------|---------|
+| Z-Star Integrated Camera               | 1        | 10%     |
+| Novatek J1455                          | 1        | 10%     |
+| Microsoft LifeCam VX-5000              | 1        | 10%     |
+| Microsoft LifeCam VX-500 [1357]        | 1        | 10%     |
+| Logitech Webcam C270                   | 1        | 10%     |
+| Logitech QuickCam Communicate MP/S5500 | 1        | 10%     |
+| Huawei HD Webcam                       | 1        | 10%     |
+| Generalplus 808 Camera                 | 1        | 10%     |
+| Cubeternet GL-UPC822 UVC WebCam        | 1        | 10%     |
+| ARC International Camera               | 1        | 10%     |
 
 Security
 --------
@@ -2353,8 +2353,8 @@ Total unsupported devices on board
 | Total | Desktops | Percent |
 |-------|----------|---------|
 | 0     | 31       | 81.58%  |
-| 1     | 6        | 15.79%  |
-| 2     | 1        | 2.63%   |
+| 1     | 5        | 13.16%  |
+| 2     | 2        | 5.26%   |
 
 Unsupported Device Types
 ------------------------
@@ -2366,9 +2366,9 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 3        | 37.5%   |
-| Net/wireless  | 2        | 25%     |
-| Sound         | 1        | 12.5%   |
-| Chipcard      | 1        | 12.5%   |
-| Bluetooth     | 1        | 12.5%   |
+| Graphics card | 4        | 44.44%  |
+| Net/wireless  | 2        | 22.22%  |
+| Sound         | 1        | 11.11%  |
+| Chipcard      | 1        | 11.11%  |
+| Bluetooth     | 1        | 11.11%  |
 

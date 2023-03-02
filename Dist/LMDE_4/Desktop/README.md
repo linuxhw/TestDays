@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 228
+Total: 229
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | X570 AORUS MASTER           | [2d26056501](https://linux-hardware.org/?probe=2d26056501) | Feb 13, 2023 |
 | ASRock        | G41M-S3                     | [2cdcaebd43](https://linux-hardware.org/?probe=2cdcaebd43) | Sep 10, 2022 |
 | ASUSTek       | P5B                         | [149ab02b84](https://linux-hardware.org/?probe=149ab02b84) | Jul 06, 2022 |
 | ASUSTek       | P5QL PRO                    | [9ea782b1d2](https://linux-hardware.org/?probe=9ea782b1d2) | May 08, 2022 |
@@ -869,11 +870,11 @@ Used RAM memory
 
 | Used GB  | Desktops | Percent |
 |----------|----------|---------|
-| 1.01-2.0 | 75       | 47.47%  |
-| 2.01-3.0 | 32       | 20.25%  |
-| 3.01-4.0 | 21       | 13.29%  |
-| 0.51-1.0 | 20       | 12.66%  |
-| 4.01-8.0 | 10       | 6.33%   |
+| 1.01-2.0 | 75       | 47.17%  |
+| 2.01-3.0 | 33       | 20.75%  |
+| 3.01-4.0 | 21       | 13.21%  |
+| 0.51-1.0 | 20       | 12.58%  |
+| 4.01-8.0 | 10       | 6.29%   |
 
 Total Drives
 ------------
@@ -885,12 +886,12 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 73       | 47.4%   |
-| 2      | 47       | 30.52%  |
-| 3      | 16       | 10.39%  |
-| 4      | 10       | 6.49%   |
-| 7      | 4        | 2.6%    |
-| 5      | 2        | 1.3%    |
+| 1      | 73       | 47.1%   |
+| 2      | 48       | 30.97%  |
+| 3      | 16       | 10.32%  |
+| 4      | 10       | 6.45%   |
+| 7      | 4        | 2.58%   |
+| 5      | 2        | 1.29%   |
 | 8      | 1        | 0.65%   |
 | 6      | 1        | 0.65%   |
 
@@ -1067,7 +1068,7 @@ Hard drive vendors
 | Seagate             | 40       | 69     | 16.6%   |
 | Samsung Electronics | 38       | 57     | 15.77%  |
 | Kingston            | 14       | 17     | 5.81%   |
-| Toshiba             | 12       | 18     | 4.98%   |
+| Toshiba             | 12       | 19     | 4.98%   |
 | Hitachi             | 12       | 15     | 4.98%   |
 | SanDisk             | 9        | 12     | 3.73%   |
 | Crucial             | 9        | 12     | 3.73%   |
@@ -1080,7 +1081,7 @@ Hard drive vendors
 | China               | 3        | 3      | 1.24%   |
 | TCSUNBOW            | 2        | 2      | 0.83%   |
 | Micron Technology   | 2        | 2      | 0.83%   |
-| CT500MX5            | 2        | 2      | 0.83%   |
+| CT500MX5            | 2        | 3      | 0.83%   |
 | Unknown             | 1        | 2      | 0.41%   |
 | Transcend           | 1        | 1      | 0.41%   |
 | Team                | 1        | 2      | 0.41%   |
@@ -1130,7 +1131,7 @@ Hard drive models
 | Seagate ST2000LX001-1RG174 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-9YN164 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-1ER164 2TB         | 2        | 0.71%   |
-| Seagate Expansion 240GB                | 2        | 0.71%   |
+| Seagate Expansion 1TB                  | 2        | 0.71%   |
 | Samsung SSD 850 EVO 500GB              | 2        | 0.71%   |
 | Samsung SP0802N 80GB                   | 2        | 0.71%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 256GB | 2        | 0.71%   |
@@ -1162,7 +1163,7 @@ Hard disk drive vendors
 | Seagate             | 40       | 69     | 27.97%  |
 | Samsung Electronics | 22       | 30     | 15.38%  |
 | Hitachi             | 12       | 15     | 8.39%   |
-| Toshiba             | 9        | 11     | 6.29%   |
+| Toshiba             | 9        | 12     | 6.29%   |
 | Maxtor              | 3        | 5      | 2.1%    |
 | Unknown             | 1        | 1      | 0.7%    |
 | SABRENT             | 1        | 1      | 0.7%    |
@@ -1194,7 +1195,7 @@ Solid state drive vendors
 | China               | 3        | 3      | 3.45%   |
 | TCSUNBOW            | 2        | 2      | 2.3%    |
 | Micron Technology   | 2        | 2      | 2.3%    |
-| CT500MX5            | 2        | 2      | 2.3%    |
+| CT500MX5            | 2        | 3      | 2.3%    |
 | Unknown             | 1        | 1      | 1.15%   |
 | Transcend           | 1        | 1      | 1.15%   |
 | Team                | 1        | 2      | 1.15%   |
@@ -1214,8 +1215,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 112      | 229    | 56.85%  |
-| SSD  | 70       | 108    | 35.53%  |
+| HDD  | 112      | 230    | 56.85%  |
+| SSD  | 70       | 109    | 35.53%  |
 | NVMe | 15       | 22     | 7.61%   |
 
 Drive Connector
@@ -1228,9 +1229,9 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 141      | 319    | 84.94%  |
+| SATA | 141      | 320    | 84.94%  |
 | NVMe | 15       | 22     | 9.04%   |
-| SAS  | 10       | 18     | 6.02%   |
+| SAS  | 10       | 19     | 6.02%   |
 
 Drive Size
 ----------
@@ -1242,12 +1243,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 121      | 230    | 61.73%  |
-| 0.51-1.0   | 47       | 66     | 23.98%  |
-| 1.01-2.0   | 19       | 28     | 9.69%   |
-| 3.01-4.0   | 5        | 9      | 2.55%   |
-| 2.01-3.0   | 2        | 2      | 1.02%   |
-| 4.01-10.0  | 2        | 2      | 1.02%   |
+| 0.01-0.5   | 121      | 231    | 62.37%  |
+| 0.51-1.0   | 46       | 69     | 23.71%  |
+| 1.01-2.0   | 19       | 27     | 9.79%   |
+| 3.01-4.0   | 4        | 8      | 2.06%   |
+| 2.01-3.0   | 2        | 2      | 1.03%   |
+| 4.01-10.0  | 2        | 2      | 1.03%   |
 
 Space Total
 -----------
@@ -1361,7 +1362,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 134      | 316    | 86.45%  |
+| Detected | 134      | 318    | 86.45%  |
 | Works    | 19       | 41     | 12.26%  |
 | Malfunc  | 2        | 2      | 1.29%   |
 
@@ -2450,7 +2451,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1        | 3.45%   |
 | MediaTek Wireless_Device                            | 1        | 3.45%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 3.45%   |
-| Intel Bluetooth Device                              | 1        | 3.45%   |
+| Intel AX201 Bluetooth                               | 1        | 3.45%   |
 | Broadcom HP Bluethunder                             | 1        | 3.45%   |
 | Broadcom BCM2045 Bluetooth                          | 1        | 3.45%   |
 | Apple Bluetooth USB Host Controller                 | 1        | 3.45%   |
@@ -2468,25 +2469,26 @@ Sound card vendors
 
 | Vendor                           | Desktops | Percent |
 |----------------------------------|----------|---------|
-| Intel                            | 90       | 39.3%   |
-| Nvidia                           | 57       | 24.89%  |
-| AMD                              | 42       | 18.34%  |
-| C-Media Electronics              | 9        | 3.93%   |
-| VIA Technologies                 | 8        | 3.49%   |
-| Creative Labs                    | 4        | 1.75%   |
-| GN Netcom                        | 3        | 1.31%   |
-| Generalplus Technology           | 3        | 1.31%   |
+| Intel                            | 90       | 39.13%  |
+| Nvidia                           | 57       | 24.78%  |
+| AMD                              | 42       | 18.26%  |
+| C-Media Electronics              | 9        | 3.91%   |
+| VIA Technologies                 | 8        | 3.48%   |
+| Creative Labs                    | 4        | 1.74%   |
+| GN Netcom                        | 3        | 1.3%    |
+| Generalplus Technology           | 3        | 1.3%    |
 | Silicon Integrated Systems [SiS] | 2        | 0.87%   |
 | Logitech                         | 2        | 0.87%   |
-| Yamaha                           | 1        | 0.44%   |
-| Xilinx                           | 1        | 0.44%   |
-| Tenx Technology                  | 1        | 0.44%   |
-| M-Audio                          | 1        | 0.44%   |
-| JMTek                            | 1        | 0.44%   |
-| GYROCOM C&C                      | 1        | 0.44%   |
-| Focusrite-Novation               | 1        | 0.44%   |
-| Evolution Electronics            | 1        | 0.44%   |
-| Creative Technology              | 1        | 0.44%   |
+| Yamaha                           | 1        | 0.43%   |
+| Xilinx                           | 1        | 0.43%   |
+| Tenx Technology                  | 1        | 0.43%   |
+| Plantronics                      | 1        | 0.43%   |
+| M-Audio                          | 1        | 0.43%   |
+| JMTek                            | 1        | 0.43%   |
+| GYROCOM C&C                      | 1        | 0.43%   |
+| Focusrite-Novation               | 1        | 0.43%   |
+| Evolution Electronics            | 1        | 0.43%   |
+| Creative Technology              | 1        | 0.43%   |
 
 Sound Model
 -----------
@@ -2498,37 +2500,37 @@ Sound card models
 
 | Model                                                                       | Desktops | Percent |
 |-----------------------------------------------------------------------------|----------|---------|
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller  | 17       | 6.67%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                     | 14       | 5.49%   |
-| AMD SBx00 Azalia (Intel HDA)                                                | 11       | 4.31%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                            | 8        | 3.14%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller         | 8        | 3.14%   |
-| Nvidia MCP61 High Definition Audio                                          | 7        | 2.75%   |
-| Nvidia GM206 High Definition Audio Controller                               | 7        | 2.75%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                              | 7        | 2.75%   |
-| Nvidia High Definition Audio Controller                                     | 6        | 2.35%   |
-| Nvidia GP107GL High Definition Audio Controller                             | 6        | 2.35%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller            | 6        | 2.35%   |
-| Intel Cannon Lake PCH cAVS                                                  | 6        | 2.35%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller         | 6        | 2.35%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                         | 6        | 2.35%   |
-| AMD Family 17h/19h HD Audio Controller                                      | 6        | 2.35%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                  | 6        | 2.35%   |
-| Nvidia GK208 HDMI/DP Audio Controller                                       | 5        | 1.96%   |
-| C-Media Electronics CMI8788 [Oxygen HD Audio]                               | 5        | 1.96%   |
-| AMD Starship/Matisse HD Audio Controller                                    | 5        | 1.96%   |
-| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                   | 4        | 1.57%   |
-| Intel 9 Series Chipset Family HD Audio Controller                           | 4        | 1.57%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                         | 4        | 1.57%   |
-| Nvidia TU106 High Definition Audio Controller                               | 3        | 1.18%   |
-| Nvidia GP106 High Definition Audio Controller                               | 3        | 1.18%   |
-| Nvidia GK104 HDMI Audio Controller                                          | 3        | 1.18%   |
-| Nvidia GF108 High Definition Audio Controller                               | 3        | 1.18%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                    | 3        | 1.18%   |
-| Generalplus Technology USB Audio Device                                     | 3        | 1.18%   |
-| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                            | 3        | 1.18%   |
-| AMD FCH Azalia Controller                                                   | 3        | 1.18%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                      | 3        | 1.18%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller  | 17       | 6.64%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                     | 14       | 5.47%   |
+| AMD SBx00 Azalia (Intel HDA)                                                | 11       | 4.3%    |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                            | 8        | 3.13%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller         | 8        | 3.13%   |
+| Nvidia MCP61 High Definition Audio                                          | 7        | 2.73%   |
+| Nvidia GM206 High Definition Audio Controller                               | 7        | 2.73%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                              | 7        | 2.73%   |
+| Nvidia High Definition Audio Controller                                     | 6        | 2.34%   |
+| Nvidia GP107GL High Definition Audio Controller                             | 6        | 2.34%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller            | 6        | 2.34%   |
+| Intel Cannon Lake PCH cAVS                                                  | 6        | 2.34%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller         | 6        | 2.34%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                         | 6        | 2.34%   |
+| AMD Family 17h/19h HD Audio Controller                                      | 6        | 2.34%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                  | 6        | 2.34%   |
+| Nvidia GK208 HDMI/DP Audio Controller                                       | 5        | 1.95%   |
+| C-Media Electronics CMI8788 [Oxygen HD Audio]                               | 5        | 1.95%   |
+| AMD Starship/Matisse HD Audio Controller                                    | 5        | 1.95%   |
+| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                   | 4        | 1.56%   |
+| Intel 9 Series Chipset Family HD Audio Controller                           | 4        | 1.56%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                         | 4        | 1.56%   |
+| Nvidia TU106 High Definition Audio Controller                               | 3        | 1.17%   |
+| Nvidia GP106 High Definition Audio Controller                               | 3        | 1.17%   |
+| Nvidia GK104 HDMI Audio Controller                                          | 3        | 1.17%   |
+| Nvidia GF108 High Definition Audio Controller                               | 3        | 1.17%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                    | 3        | 1.17%   |
+| Generalplus Technology USB Audio Device                                     | 3        | 1.17%   |
+| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                            | 3        | 1.17%   |
+| AMD FCH Azalia Controller                                                   | 3        | 1.17%   |
+| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                      | 3        | 1.17%   |
 | VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller | 2        | 0.78%   |
 | Silicon Integrated Systems [SiS] SiS7012 AC'97 Sound Controller             | 2        | 0.78%   |
 | Nvidia nForce2 AC97 Audio Controler (MCP)                                   | 2        | 0.78%   |
@@ -2783,7 +2785,7 @@ Camera device models
 | Logitech Webcam C310                               | 1        | 5%      |
 | Logitech HD Pro Webcam C920                        | 1        | 5%      |
 | KYE Systems (Mouse Systems) Genius iSlim 2000AF V2 | 1        | 5%      |
-| Generalplus 808 Camera #9 (web-cam mode)           | 1        | 5%      |
+| Generalplus 808 Camera                             | 1        | 5%      |
 | Chicony HP High Definition 1MP Webcam              | 1        | 5%      |
 
 Security
@@ -2854,9 +2856,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 103      | 68.21%  |
+| 0     | 104      | 68.87%  |
 | 1     | 40       | 26.49%  |
-| 2     | 4        | 2.65%   |
+| 2     | 3        | 1.99%   |
 | 4     | 2        | 1.32%   |
 | 3     | 2        | 1.32%   |
 
@@ -2870,14 +2872,14 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 29       | 50.88%  |
-| Net/wireless             | 14       | 24.56%  |
-| Communication controller | 4        | 7.02%   |
-| Unassigned class         | 2        | 3.51%   |
-| Network                  | 2        | 3.51%   |
-| Net/ethernet             | 2        | 3.51%   |
-| Storage/ide              | 1        | 1.75%   |
-| Modem                    | 1        | 1.75%   |
-| Fingerprint reader       | 1        | 1.75%   |
-| Chipcard                 | 1        | 1.75%   |
+| Graphics card            | 27       | 49.09%  |
+| Net/wireless             | 14       | 25.45%  |
+| Communication controller | 4        | 7.27%   |
+| Unassigned class         | 2        | 3.64%   |
+| Network                  | 2        | 3.64%   |
+| Net/ethernet             | 2        | 3.64%   |
+| Storage/ide              | 1        | 1.82%   |
+| Modem                    | 1        | 1.82%   |
+| Fingerprint reader       | 1        | 1.82%   |
+| Chipcard                 | 1        | 1.82%   |
 

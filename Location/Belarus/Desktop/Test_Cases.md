@@ -1,10 +1,15 @@
 Linux in Belarus - Test Cases (Desktops)
 ----------------------------------------
 
-Total: 508
+Total: 513
 
 | Vendor        | Model                   | Probe                                                      | Date         |
 |---------------|-------------------------|------------------------------------------------------------|--------------|
+| ASRock        | H61M-DGS R2.0           | [630c0e41b1](https://linux-hardware.org/?probe=630c0e41b1) | Feb 25, 2023 |
+| Partner       | S1-J1900                | [0dd4327553](https://linux-hardware.org/?probe=0dd4327553) | Feb 19, 2023 |
+| ASUSTek       | P5GD1 PRO               | [043021ca86](https://linux-hardware.org/?probe=043021ca86) | Feb 15, 2023 |
+| Intel         | SKYBAY                  | [7f8e95e496](https://linux-hardware.org/?probe=7f8e95e496) | Feb 02, 2023 |
+| Intel         | SKYBAY                  | [a75cb78ad9](https://linux-hardware.org/?probe=a75cb78ad9) | Feb 02, 2023 |
 | MSI           | MAG B550 TOMAHAWK       | [142f5fcb2d](https://linux-hardware.org/?probe=142f5fcb2d) | Feb 01, 2023 |
 | ASUSTek       | Z170M-E D3              | [2b466d1b19](https://linux-hardware.org/?probe=2b466d1b19) | Jan 29, 2023 |
 | Gigabyte      | Z170-D3H-CF             | [04d36be1ec](https://linux-hardware.org/?probe=04d36be1ec) | Jan 20, 2023 |

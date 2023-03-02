@@ -964,7 +964,7 @@ Hard drive models
 
 | Model                                | Computers | Percent |
 |--------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 2GB            | 4         | 2.6%    |
+| Unknown SD/MMC/MS PRO 16GB           | 4         | 2.6%    |
 | Seagate ST2000LM003 HN-M201RAD 2TB   | 3         | 1.95%   |
 | SanDisk SSD PLUS 1000GB              | 3         | 1.95%   |
 | Samsung SSD 860 EVO 500GB            | 3         | 1.95%   |
@@ -973,7 +973,7 @@ Hard drive models
 | WDC WD5000LPCX-24C6HT0 500GB         | 2         | 1.3%    |
 | WDC WD10SPZX-08Z10 1TB               | 2         | 1.3%    |
 | Toshiba DT01ACA100 1TB               | 2         | 1.3%    |
-| Seagate Expansion 240GB              | 2         | 1.3%    |
+| Seagate Expansion 1TB                | 2         | 1.3%    |
 | Crucial CT1000P1SSD8 1TB             | 2         | 1.3%    |
 | Crucial CT1000MX500SSD1 1TB          | 2         | 1.3%    |
 | WDC WDS100T2B0C-00PXH0 1TB           | 1         | 0.65%   |
@@ -1097,10 +1097,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 52        | 80     | 57.14%  |
-| 0.51-1.0   | 32        | 35     | 35.16%  |
-| 1.01-2.0   | 6         | 6      | 6.59%   |
-| 3.01-4.0   | 1         | 1      | 1.1%    |
+| 0.01-0.5   | 52        | 79     | 56.52%  |
+| 0.51-1.0   | 33        | 36     | 35.87%  |
+| 1.01-2.0   | 6         | 6      | 6.52%   |
+| 3.01-4.0   | 1         | 1      | 1.09%   |
 
 Space Total
 -----------
@@ -1229,7 +1229,7 @@ Failed drive models
 
 | Model                     | Computers | Drives | Percent |
 |---------------------------|-----------|--------|---------|
-| Intenso SSD SATAIII 512GB | 1         | 1      | 100%    |
+| Intenso SSD SATAIII 256GB | 1         | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1752,17 +1752,17 @@ Monitor models
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch          | 2         | 1.87%   |
-| Vizio E370VL VIZ0070 1920x1080 820x461mm 37.0-inch                    | 1         | 0.93%   |
+| Vizio E421VO VIZ0070 1920x1080 930x523mm 42.0-inch                    | 1         | 0.93%   |
 | Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch                      | 1         | 0.93%   |
 | STA XR140EA1T STA0450 1366x768 310x174mm 14.0-inch                    | 1         | 0.93%   |
 | Sony SDM-HX73 SNY2870 1280x1024 338x270mm 17.0-inch                   | 1         | 0.93%   |
 | Sharp LCD Monitor SHP14AD 3840x2160 294x165mm 13.3-inch               | 1         | 0.93%   |
-| Sharp LCD Monitor SHP1447 1920x1080 290x170mm 13.2-inch               | 1         | 0.93%   |
-| Sceptre Tech Sceptre F24 SPT09AB 1920x1080 530x290mm 23.8-inch        | 1         | 0.93%   |
+| Sharp LCD Monitor SHP1447 1920x1080 294x165mm 13.3-inch               | 1         | 0.93%   |
+| Sceptre Tech Sceptre F24 SPT09AB 1920x1080 521x293mm 23.5-inch        | 1         | 0.93%   |
 | Sceptre Tech Sceptre B30 SPT0BC2 2560x1080 690x291mm 29.5-inch        | 1         | 0.93%   |
 | Sceptre LCD Monitor P30 2560x1080                                     | 1         | 0.93%   |
 | Samsung Electronics SyncMaster SAM0589 1920x1080 521x293mm 23.5-inch  | 1         | 0.93%   |
-| Samsung Electronics LCD Monitor SEC5448 1920x1080 353x198mm 15.9-inch | 1         | 0.93%   |
+| Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch | 1         | 0.93%   |
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 0.93%   |
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch  | 1         | 0.93%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 0.93%   |
@@ -2167,7 +2167,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-V                              | 1         | 1.23%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.23%   |
 | Intel 82577LM Gigabit Network Connection                          | 1         | 1.23%   |
-| Huawei ELS-NX9                                                    | 1         | 1.23%   |
+| Huawei MLA-L11                                                    | 1         | 1.23%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.23%   |
 | Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 1.23%   |
 | Broadcom NetLink BCM5786 Gigabit Ethernet PCI Express             | 1         | 1.23%   |
@@ -2264,7 +2264,7 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 12        | 19.05%  |
-| Intel Bluetooth Device                              | 9         | 14.29%  |
+| Intel AX201 Bluetooth                               | 9         | 14.29%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 8         | 12.7%   |
 | Qualcomm Atheros  Bluetooth Device                  | 4         | 6.35%   |
 | Realtek Bluetooth Radio                             | 3         | 4.76%   |
@@ -2417,11 +2417,11 @@ Memory module models
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 1.27%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1066MT/s                     | 1         | 1.27%   |
 | SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s              | 1         | 1.27%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.27%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.27%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.27%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.27%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1334MT/s        | 1         | 1.27%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s           | 1         | 1.27%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 1         | 1.27%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM 1600MT/s                | 1         | 1.27%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 1.27%   |
 | SK hynix RAM H9HCNNNBKMALHR-NEE 4GB Row Of Chips LPDDR4 4267MT/s | 1         | 1.27%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.27%   |
@@ -2433,10 +2433,10 @@ Memory module models
 | Samsung RAM M474A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 1         | 1.27%   |
 | Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.27%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.27%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.27%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s         | 1         | 1.27%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.27%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 1         | 1.27%   |
-| Samsung RAM M471A2K43CB1-CTD 16384MB SODIMM DDR4 8400MT/s        | 1         | 1.27%   |
+| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s           | 1         | 1.27%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.27%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.27%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.27%   |
@@ -2500,20 +2500,20 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 20        | 28.17%  |
+| 1600    | 21        | 29.58%  |
 | 2667    | 15        | 21.13%  |
 | 3200    | 9         | 12.68%  |
 | 2400    | 4         | 5.63%   |
 | 1334    | 4         | 5.63%   |
 | 2133    | 3         | 4.23%   |
 | 3266    | 2         | 2.82%   |
-| 1333    | 2         | 2.82%   |
 | 8400    | 1         | 1.41%   |
 | 4267    | 1         | 1.41%   |
 | 3600    | 1         | 1.41%   |
 | 3000    | 1         | 1.41%   |
 | 2666    | 1         | 1.41%   |
 | 1867    | 1         | 1.41%   |
+| 1333    | 1         | 1.41%   |
 | 1067    | 1         | 1.41%   |
 | 1066    | 1         | 1.41%   |
 | 800     | 1         | 1.41%   |
@@ -2584,13 +2584,14 @@ Camera device vendors
 | Ricoh                                  | 2         | 3.28%   |
 | Realtek Semiconductor                  | 2         | 3.28%   |
 | Quanta                                 | 2         | 3.28%   |
-| Luxvisions Innotech Limited            | 2         | 3.28%   |
 | Syntek                                 | 1         | 1.64%   |
 | Suyin                                  | 1         | 1.64%   |
 | Silicon Motion                         | 1         | 1.64%   |
 | Samsung Electronics                    | 1         | 1.64%   |
 | Microsoft                              | 1         | 1.64%   |
+| Luxvisions Innotech Limited            | 1         | 1.64%   |
 | Logitech                               | 1         | 1.64%   |
+| DLEQNA19IFK6G2                         | 1         | 1.64%   |
 | Creative Technology                    | 1         | 1.64%   |
 | Apple                                  | 1         | 1.64%   |
 | Alcor Micro                            | 1         | 1.64%   |
@@ -2610,7 +2611,6 @@ Camera device models
 | Realtek Integrated_Webcam_HD                        | 2         | 3.23%   |
 | Microdia PC Microscope camera                       | 2         | 3.23%   |
 | Microdia Integrated_Webcam_HD                       | 2         | 3.23%   |
-| Luxvisions Innotech Limited HP TrueVision HD Camera | 2         | 3.23%   |
 | IMC Networks Integrated Camera                      | 2         | 3.23%   |
 | Chicony Integrated Camera                           | 2         | 3.23%   |
 | Chicony HD Webcam                                   | 2         | 3.23%   |
@@ -2632,9 +2632,11 @@ Camera device models
 | Microdia WebCam SC-13HDL12639P                      | 1         | 1.61%   |
 | Microdia Laptop_Integrated_Webcam_HD                | 1         | 1.61%   |
 | Microdia Integrated Webcam HD                       | 1         | 1.61%   |
+| Luxvisions Innotech Limited HP TrueVision HD Camera | 1         | 1.61%   |
 | Logitech HD Webcam C615                             | 1         | 1.61%   |
 | IMC Networks USB2.0 HD UVC WebCam                   | 1         | 1.61%   |
 | IMC Networks Integrated Webcam                      | 1         | 1.61%   |
+| DLEQNA19IFK6G2 HP TrueVision HD Camera              | 1         | 1.61%   |
 | Creative Live! Cam Sync HD [VF0770]                 | 1         | 1.61%   |
 | Chicony XiaoMi USB 2.0 Webcam                       | 1         | 1.61%   |
 | Chicony UVC 1.00 device HD UVC WebCam               | 1         | 1.61%   |
@@ -2644,7 +2646,6 @@ Camera device models
 | Chicony HP TrueVision HD                            | 1         | 1.61%   |
 | Chicony HP HD Webcam [Fixed]                        | 1         | 1.61%   |
 | Chicony HP HD Camera                                | 1         | 1.61%   |
-| Chicony HD User Facing                              | 1         | 1.61%   |
 
 Security
 --------

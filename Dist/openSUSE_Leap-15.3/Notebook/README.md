@@ -153,10 +153,12 @@ Contents
 Test Cases
 ----------
 
-Total: 90
+Total: 92
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | G771JW                      | [e5b5f4792c](https://linux-hardware.org/?probe=e5b5f4792c) | Feb 19, 2023 |
+| ASUSTek       | G771JW                      | [c73a9b9ee2](https://linux-hardware.org/?probe=c73a9b9ee2) | Feb 19, 2023 |
 | HP            | ZBook 15 G6                 | [57a9a5fbf8](https://linux-hardware.org/?probe=57a9a5fbf8) | Dec 07, 2022 |
 | Gateway       | NV54 Series                 | [88b57ed4e4](https://linux-hardware.org/?probe=88b57ed4e4) | Oct 09, 2022 |
 | Lenovo        | ThinkPad T450 20BUS0EW1F    | [88ad38d9f7](https://linux-hardware.org/?probe=88ad38d9f7) | Aug 17, 2022 |
@@ -261,35 +263,36 @@ Version of the Linux kernel
 
 | Version                             | Notebooks | Percent |
 |-------------------------------------|-----------|---------|
-| 5.3.18-59.27-default                | 8         | 12.9%   |
-| 5.3.18-59.37-default                | 5         | 8.06%   |
-| 5.3.18-59.19-default                | 5         | 8.06%   |
-| 5.3.18-59.16-default                | 5         | 8.06%   |
-| 5.3.18-57-default                   | 5         | 8.06%   |
-| 5.3.18-150300.59.49-default         | 5         | 8.06%   |
-| 5.3.18-59.5-default                 | 2         | 3.23%   |
-| 5.3.18-59.34-default                | 2         | 3.23%   |
-| 5.3.18-59.24-default                | 2         | 3.23%   |
-| 5.3.18-59.10-default                | 2         | 3.23%   |
-| 5.3.18-150300.59.63-default         | 2         | 3.23%   |
-| 5.3.18-150300.59.54-default         | 2         | 3.23%   |
-| 5.3.18-59.34-preempt                | 1         | 1.61%   |
-| 5.3.18-59.19-preempt                | 1         | 1.61%   |
-| 5.3.18-59.13-default                | 1         | 1.61%   |
-| 5.3.18-57-preempt                   | 1         | 1.61%   |
-| 5.3.18-56-default                   | 1         | 1.61%   |
-| 5.3.18-52-default                   | 1         | 1.61%   |
-| 5.3.18-46-default                   | 1         | 1.61%   |
-| 5.3.18-150300.59.93-default         | 1         | 1.61%   |
-| 5.3.18-150300.59.87-default         | 1         | 1.61%   |
-| 5.3.18-150300.59.68-default         | 1         | 1.61%   |
-| 5.3.18-150300.59.60-default         | 1         | 1.61%   |
-| 5.3.18-150300.59.43-default         | 1         | 1.61%   |
-| 5.3.18-150300.59.101-default        | 1         | 1.61%   |
-| 5.17.2-1-default                    | 1         | 1.61%   |
-| 5.16.0-rc2-lp153.2.g696d453-default | 1         | 1.61%   |
-| 5.15.11-lp153.3.g730a488-default    | 1         | 1.61%   |
-| 4.12.14-197.105-vanilla             | 1         | 1.61%   |
+| 5.3.18-59.27-default                | 8         | 12.7%   |
+| 5.3.18-59.37-default                | 5         | 7.94%   |
+| 5.3.18-59.19-default                | 5         | 7.94%   |
+| 5.3.18-59.16-default                | 5         | 7.94%   |
+| 5.3.18-57-default                   | 5         | 7.94%   |
+| 5.3.18-150300.59.49-default         | 5         | 7.94%   |
+| 5.3.18-59.5-default                 | 2         | 3.17%   |
+| 5.3.18-59.34-default                | 2         | 3.17%   |
+| 5.3.18-59.24-default                | 2         | 3.17%   |
+| 5.3.18-59.10-default                | 2         | 3.17%   |
+| 5.3.18-150300.59.63-default         | 2         | 3.17%   |
+| 5.3.18-150300.59.54-default         | 2         | 3.17%   |
+| 5.3.18-59.34-preempt                | 1         | 1.59%   |
+| 5.3.18-59.19-preempt                | 1         | 1.59%   |
+| 5.3.18-59.13-default                | 1         | 1.59%   |
+| 5.3.18-57-preempt                   | 1         | 1.59%   |
+| 5.3.18-56-default                   | 1         | 1.59%   |
+| 5.3.18-52-default                   | 1         | 1.59%   |
+| 5.3.18-46-default                   | 1         | 1.59%   |
+| 5.3.18-150300.59.93-default         | 1         | 1.59%   |
+| 5.3.18-150300.59.87-default         | 1         | 1.59%   |
+| 5.3.18-150300.59.68-default         | 1         | 1.59%   |
+| 5.3.18-150300.59.60-default         | 1         | 1.59%   |
+| 5.3.18-150300.59.43-default         | 1         | 1.59%   |
+| 5.3.18-150300.59.106-default        | 1         | 1.59%   |
+| 5.3.18-150300.59.101-default        | 1         | 1.59%   |
+| 5.17.2-1-default                    | 1         | 1.59%   |
+| 5.16.0-rc2-lp153.2.g696d453-default | 1         | 1.59%   |
+| 5.15.11-lp153.3.g730a488-default    | 1         | 1.59%   |
+| 4.12.14-197.105-vanilla             | 1         | 1.59%   |
 
 Kernel Family
 -------------
@@ -695,12 +698,12 @@ Used RAM memory
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 2.01-3.0  | 21        | 36.21%  |
-| 1.01-2.0  | 17        | 29.31%  |
-| 4.01-8.0  | 13        | 22.41%  |
-| 3.01-4.0  | 5         | 8.62%   |
-| 8.01-16.0 | 1         | 1.72%   |
-| 0.51-1.0  | 1         | 1.72%   |
+| 2.01-3.0  | 22        | 37.29%  |
+| 1.01-2.0  | 17        | 28.81%  |
+| 4.01-8.0  | 13        | 22.03%  |
+| 3.01-4.0  | 5         | 8.47%   |
+| 8.01-16.0 | 1         | 1.69%   |
+| 0.51-1.0  | 1         | 1.69%   |
 
 Total Drives
 ------------
@@ -816,46 +819,46 @@ Geographic location (city)
 
 | City                | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Sao Paulo           | 3         | 4.92%   |
-| Managua             | 2         | 3.28%   |
-| Lehrte              | 2         | 3.28%   |
-| Halle               | 2         | 3.28%   |
-| Berlin              | 2         | 3.28%   |
-| Weilheim            | 1         | 1.64%   |
-| Vienna              | 1         | 1.64%   |
-| Vaennaes            | 1         | 1.64%   |
-| Udine               | 1         | 1.64%   |
-| The Hague           | 1         | 1.64%   |
-| Teresina            | 1         | 1.64%   |
-| Sofia               | 1         | 1.64%   |
-| Seclin              | 1         | 1.64%   |
-| Saalfeld            | 1         | 1.64%   |
-| Rockville           | 1         | 1.64%   |
-| Prague              | 1         | 1.64%   |
-| Phuket              | 1         | 1.64%   |
-| Petrozavodsk        | 1         | 1.64%   |
-| Peine               | 1         | 1.64%   |
-| Paris               | 1         | 1.64%   |
-| Palm Bay            | 1         | 1.64%   |
-| Moscow              | 1         | 1.64%   |
-| Montreal            | 1         | 1.64%   |
-| Monterrey           | 1         | 1.64%   |
-| Moelan-sur-Mer      | 1         | 1.64%   |
-| León               | 1         | 1.64%   |
-| Leiria              | 1         | 1.64%   |
-| Kostelec nad Orlici | 1         | 1.64%   |
-| Khartoum            | 1         | 1.64%   |
-| Kesztolc            | 1         | 1.64%   |
-| Islington           | 1         | 1.64%   |
-| Irun                | 1         | 1.64%   |
-| Ilsfeld             | 1         | 1.64%   |
-| Houilles            | 1         | 1.64%   |
-| Heraklion           | 1         | 1.64%   |
-| Guangzhou           | 1         | 1.64%   |
-| Gevelsberg          | 1         | 1.64%   |
-| Garden Grove        | 1         | 1.64%   |
-| Frankfurt am Main   | 1         | 1.64%   |
-| Dunkirk             | 1         | 1.64%   |
+| Sao Paulo           | 3         | 4.84%   |
+| Managua             | 2         | 3.23%   |
+| Lehrte              | 2         | 3.23%   |
+| Halle               | 2         | 3.23%   |
+| Berlin              | 2         | 3.23%   |
+| Weilheim            | 1         | 1.61%   |
+| Vienna              | 1         | 1.61%   |
+| Vaennaes            | 1         | 1.61%   |
+| Udine               | 1         | 1.61%   |
+| The Hague           | 1         | 1.61%   |
+| Teresina            | 1         | 1.61%   |
+| Sofia               | 1         | 1.61%   |
+| Seclin              | 1         | 1.61%   |
+| Saalfeld            | 1         | 1.61%   |
+| Rockville           | 1         | 1.61%   |
+| Prague              | 1         | 1.61%   |
+| Phuket              | 1         | 1.61%   |
+| Petrozavodsk        | 1         | 1.61%   |
+| Peine               | 1         | 1.61%   |
+| Paris               | 1         | 1.61%   |
+| Palm Bay            | 1         | 1.61%   |
+| Moscow              | 1         | 1.61%   |
+| Montreal            | 1         | 1.61%   |
+| Monterrey           | 1         | 1.61%   |
+| Moelan-sur-Mer      | 1         | 1.61%   |
+| León               | 1         | 1.61%   |
+| Leiria              | 1         | 1.61%   |
+| Kostelec nad Orlici | 1         | 1.61%   |
+| Khartoum            | 1         | 1.61%   |
+| Kesztolc            | 1         | 1.61%   |
+| Islington           | 1         | 1.61%   |
+| Irun                | 1         | 1.61%   |
+| Ilsfeld             | 1         | 1.61%   |
+| Houilles            | 1         | 1.61%   |
+| Heraklion           | 1         | 1.61%   |
+| Guangzhou           | 1         | 1.61%   |
+| Gevelsberg          | 1         | 1.61%   |
+| Garden Grove        | 1         | 1.61%   |
+| Frankfurt am Main   | 1         | 1.61%   |
+| Ennepetal           | 1         | 1.61%   |
 
 Drives
 ------
@@ -872,14 +875,14 @@ Hard drive vendors
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 13        | 15     | 16.88%  |
 | WDC                 | 10        | 10     | 12.99%  |
-| Kingston            | 10        | 11     | 12.99%  |
+| Kingston            | 10        | 12     | 12.99%  |
 | Seagate             | 8         | 11     | 10.39%  |
 | SanDisk             | 6         | 6      | 7.79%   |
 | Toshiba             | 4         | 5      | 5.19%   |
 | SK hynix            | 4         | 4      | 5.19%   |
 | Hitachi             | 4         | 5      | 5.19%   |
 | Unknown             | 3         | 3      | 3.9%    |
-| HGST                | 3         | 4      | 3.9%    |
+| HGST                | 3         | 5      | 3.9%    |
 | Silicon Motion      | 2         | 2      | 2.6%    |
 | Micron Technology   | 2         | 2      | 2.6%    |
 | Crucial             | 2         | 2      | 2.6%    |
@@ -955,7 +958,7 @@ Hard disk drive vendors
 | Seagate | 8         | 11     | 29.63%  |
 | Hitachi | 4         | 5      | 14.81%  |
 | Toshiba | 3         | 4      | 11.11%  |
-| HGST    | 3         | 4      | 11.11%  |
+| HGST    | 3         | 5      | 11.11%  |
 | Fujitsu | 1         | 1      | 3.7%    |
 
 SSD Vendor
@@ -969,7 +972,7 @@ Solid state drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | SanDisk             | 6         | 6      | 24%     |
-| Kingston            | 6         | 7      | 24%     |
+| Kingston            | 6         | 8      | 24%     |
 | Samsung Electronics | 4         | 4      | 16%     |
 | SK hynix            | 2         | 2      | 8%      |
 | WDC                 | 1         | 1      | 4%      |
@@ -990,8 +993,8 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 25        | 33     | 33.78%  |
-| SSD  | 24        | 27     | 32.43%  |
+| HDD  | 25        | 34     | 33.78%  |
+| SSD  | 24        | 28     | 32.43%  |
 | NVMe | 21        | 23     | 28.38%  |
 | MMC  | 4         | 4      | 5.41%   |
 
@@ -1005,7 +1008,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 40        | 59     | 60.61%  |
+| SATA | 40        | 61     | 60.61%  |
 | NVMe | 21        | 23     | 31.82%  |
 | MMC  | 4         | 4      | 6.06%   |
 | SAS  | 1         | 1      | 1.52%   |
@@ -1020,8 +1023,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 30        | 37     | 61.22%  |
-| 0.51-1.0   | 18        | 22     | 36.73%  |
+| 0.01-0.5   | 30        | 38     | 61.22%  |
+| 0.51-1.0   | 18        | 23     | 36.73%  |
 | 1.01-2.0   | 1         | 1      | 2.04%   |
 
 Space Total
@@ -1034,14 +1037,14 @@ Amount of disk space available on the file system
 
 | Size in GB     | Notebooks | Percent |
 |----------------|-----------|---------|
-| 1001-2000      | 15        | 25.86%  |
-| More than 3000 | 12        | 20.69%  |
-| 2001-3000      | 10        | 17.24%  |
-| 501-1000       | 9         | 15.52%  |
-| 251-500        | 6         | 10.34%  |
-| 51-100         | 4         | 6.9%    |
-| 101-250        | 1         | 1.72%   |
-| Unknown        | 1         | 1.72%   |
+| 1001-2000      | 15        | 25.42%  |
+| More than 3000 | 12        | 20.34%  |
+| 2001-3000      | 11        | 18.64%  |
+| 501-1000       | 9         | 15.25%  |
+| 251-500        | 6         | 10.17%  |
+| 51-100         | 4         | 6.78%   |
+| 101-250        | 1         | 1.69%   |
+| Unknown        | 1         | 1.69%   |
 
 Space Used
 ----------
@@ -1053,16 +1056,16 @@ Amount of used disk space
 
 | Used GB        | Notebooks | Percent |
 |----------------|-----------|---------|
-| 101-250        | 13        | 20.63%  |
-| 251-500        | 11        | 17.46%  |
-| 51-100         | 11        | 17.46%  |
-| 501-1000       | 8         | 12.7%   |
-| 1001-2000      | 6         | 9.52%   |
-| 21-50          | 4         | 6.35%   |
-| 2001-3000      | 4         | 6.35%   |
-| 1-20           | 4         | 6.35%   |
-| More than 3000 | 1         | 1.59%   |
-| Unknown        | 1         | 1.59%   |
+| 101-250        | 13        | 20.31%  |
+| 251-500        | 11        | 17.19%  |
+| 51-100         | 11        | 17.19%  |
+| 501-1000       | 9         | 14.06%  |
+| 1001-2000      | 6         | 9.38%   |
+| 21-50          | 4         | 6.25%   |
+| 2001-3000      | 4         | 6.25%   |
+| 1-20           | 4         | 6.25%   |
+| More than 3000 | 1         | 1.56%   |
+| Unknown        | 1         | 1.56%   |
 
 Malfunc. Drives
 ---------------
@@ -1146,7 +1149,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 31        | 49     | 48.44%  |
+| Detected | 31        | 51     | 48.44%  |
 | Works    | 28        | 33     | 43.75%  |
 | Malfunc  | 5         | 5      | 7.81%   |
 
@@ -1490,7 +1493,7 @@ Graphics card models
 | Nvidia TU117GLM [Quadro T1000 Mobile]                                                 | 1         | 1.23%   |
 | Nvidia GP107M [GeForce GTX 1050 3 GB Max-Q]                                           | 1         | 1.23%   |
 | Nvidia GM204M [GeForce GTX 980M]                                                      | 1         | 1.23%   |
-| Nvidia GM204M [GeForce GTX 970M]                                                      | 1         | 1.23%   |
+| Nvidia GM204M [GeForce GTX 960 OEM / 970M]                                            | 1         | 1.23%   |
 | Nvidia GM108M [GeForce 940MX]                                                         | 1         | 1.23%   |
 | Nvidia GM107M [GeForce GTX 960M]                                                      | 1         | 1.23%   |
 | Nvidia GM107M [GeForce GTX 950M]                                                      | 1         | 1.23%   |
@@ -1570,24 +1573,24 @@ Monitor vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| LG Display          | 16        | 23.53%  |
-| Chimei Innolux      | 13        | 19.12%  |
-| AU Optronics        | 11        | 16.18%  |
-| Samsung Electronics | 6         | 8.82%   |
-| Goldstar            | 4         | 5.88%   |
-| BOE                 | 4         | 5.88%   |
-| Lenovo              | 2         | 2.94%   |
-| Hewlett-Packard     | 2         | 2.94%   |
-| Sony                | 1         | 1.47%   |
-| Sharp               | 1         | 1.47%   |
-| Sceptre Tech        | 1         | 1.47%   |
-| Philips             | 1         | 1.47%   |
-| LG Philips          | 1         | 1.47%   |
-| InfoVision          | 1         | 1.47%   |
-| Iiyama              | 1         | 1.47%   |
-| Dell                | 1         | 1.47%   |
-| CSO                 | 1         | 1.47%   |
-| CPT                 | 1         | 1.47%   |
+| LG Display          | 16        | 23.19%  |
+| Chimei Innolux      | 13        | 18.84%  |
+| AU Optronics        | 11        | 15.94%  |
+| Samsung Electronics | 6         | 8.7%    |
+| Goldstar            | 4         | 5.8%    |
+| BOE                 | 4         | 5.8%    |
+| Philips             | 2         | 2.9%    |
+| Lenovo              | 2         | 2.9%    |
+| Hewlett-Packard     | 2         | 2.9%    |
+| Sony                | 1         | 1.45%   |
+| Sharp               | 1         | 1.45%   |
+| Sceptre Tech        | 1         | 1.45%   |
+| LG Philips          | 1         | 1.45%   |
+| InfoVision          | 1         | 1.45%   |
+| Iiyama              | 1         | 1.45%   |
+| Dell                | 1         | 1.45%   |
+| CSO                 | 1         | 1.45%   |
+| CPT                 | 1         | 1.45%   |
 
 Monitor Model
 -------------
@@ -1599,46 +1602,46 @@ Monitor models
 
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch             | 2         | 2.9%    |
-| Hewlett-Packard LV1911 HWP3005 1366x768 410x230mm 18.5-inch             | 2         | 2.9%    |
-| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 2         | 2.9%    |
-| BOE LCD Monitor BOE0900 1920x1080 344x194mm 15.5-inch                   | 2         | 2.9%    |
-| Sony Nvidia Defaul t Flat Panel SNY06FA 1600x900 360x200mm 16.2-inch    | 1         | 1.45%   |
-| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch                 | 1         | 1.45%   |
-| Sceptre Tech Sceptre E19 SPT07A8 1366x768 575x323mm 26.0-inch           | 1         | 1.45%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch       | 1         | 1.45%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch    | 1         | 1.45%   |
-| Samsung Electronics LCD Monitor SEC3449 1366x768 309x174mm 14.0-inch    | 1         | 1.45%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch    | 1         | 1.45%   |
-| Samsung Electronics LCD Monitor SDC424B 3840x2160 344x194mm 15.5-inch   | 1         | 1.45%   |
-| Samsung Electronics LCD Monitor SDC324E 1600x900 309x174mm 14.0-inch    | 1         | 1.45%   |
-| Samsung Electronics LCD Monitor SAM7016 3840x2160 1872x1053mm 84.6-inch | 1         | 1.45%   |
-| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 1         | 1.45%   |
-| LG Philips LCD Monitor LPLDB00 1280x800 331x207mm 15.4-inch             | 1         | 1.45%   |
-| LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch           | 1         | 1.45%   |
-| LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD05D8 1920x1080 344x194mm 15.5-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD059E 1920x1080 382x215mm 17.3-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD0533 1920x1080 344x194mm 15.5-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD04A9 1920x1080 309x174mm 14.0-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD0490 1920x1080 309x174mm 14.0-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD046C 1920x1080 382x215mm 17.3-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch            | 1         | 1.45%   |
-| LG Display LCD Monitor LGD01DA 1366x768 294x166mm 13.3-inch             | 1         | 1.45%   |
-| Lenovo LEN P27q-10 LEN61A8 2560x1440 597x336mm 27.0-inch                | 1         | 1.45%   |
-| Lenovo LCD Monitor LEN4020 1024x768 286x214mm 14.1-inch                 | 1         | 1.45%   |
-| InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch             | 1         | 1.45%   |
-| Iiyama PL2492H IVM612F 1920x1080 527x296mm 23.8-inch                    | 1         | 1.45%   |
-| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                  | 1         | 1.45%   |
-| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch                | 1         | 1.45%   |
-| Dell U2410 DELF017 1920x1200 518x324mm 24.1-inch                        | 1         | 1.45%   |
-| CSO LCD Monitor CSO1404 1920x1200 302x189mm 14.0-inch                   | 1         | 1.45%   |
-| CPT LCD Monitor CPT17D8 1366x768 293x165mm 13.2-inch                    | 1         | 1.45%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch        | 1         | 1.45%   |
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch             | 2         | 2.86%   |
+| Hewlett-Packard LV1911 HWP3005 1366x768 410x230mm 18.5-inch             | 2         | 2.86%   |
+| Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                 | 2         | 2.86%   |
+| BOE LCD Monitor BOE0900 1920x1080 344x194mm 15.5-inch                   | 2         | 2.86%   |
+| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                           | 1         | 1.43%   |
+| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch                 | 1         | 1.43%   |
+| Sceptre Tech Sceptre E19 SPT07A8 1366x768 575x323mm 26.0-inch           | 1         | 1.43%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch       | 1         | 1.43%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch    | 1         | 1.43%   |
+| Samsung Electronics LCD Monitor SEC3449 1366x768 309x174mm 14.0-inch    | 1         | 1.43%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch    | 1         | 1.43%   |
+| Samsung Electronics LCD Monitor SDC424B 3840x2160 344x194mm 15.5-inch   | 1         | 1.43%   |
+| Samsung Electronics LCD Monitor SDC324E 1600x900 309x174mm 14.0-inch    | 1         | 1.43%   |
+| Samsung Electronics LCD Monitor SAM7016 3840x2160 1872x1053mm 84.6-inch | 1         | 1.43%   |
+| Philips PHL 271V8 PHLC213 1920x1080 598x336mm 27.0-inch                 | 1         | 1.43%   |
+| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 1         | 1.43%   |
+| LG Philips LCD Monitor LPLDB00 1280x800 331x207mm 15.4-inch             | 1         | 1.43%   |
+| LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch           | 1         | 1.43%   |
+| LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD05D8 1920x1080 344x194mm 15.5-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD059E 1920x1080 382x215mm 17.3-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD0533 1920x1080 344x194mm 15.5-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD04A9 1920x1080 309x174mm 14.0-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD0490 1920x1080 309x174mm 14.0-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD046C 1920x1080 382x215mm 17.3-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch            | 1         | 1.43%   |
+| LG Display LCD Monitor LGD01DA 1366x768 294x166mm 13.3-inch             | 1         | 1.43%   |
+| Lenovo LEN P27q-10 LEN61A8 2560x1440 597x336mm 27.0-inch                | 1         | 1.43%   |
+| Lenovo LCD Monitor LEN4020 1024x768 286x214mm 14.1-inch                 | 1         | 1.43%   |
+| InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch             | 1         | 1.43%   |
+| Iiyama PL2492H IVM612F 1920x1080 527x296mm 23.8-inch                    | 1         | 1.43%   |
+| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                  | 1         | 1.43%   |
+| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch                | 1         | 1.43%   |
+| Dell U2410 DELF017 1920x1200 518x324mm 24.1-inch                        | 1         | 1.43%   |
+| CSO LCD Monitor CSO1404 1920x1200 302x189mm 14.0-inch                   | 1         | 1.43%   |
+| CPT LCD Monitor CPT17D8 1366x768 293x165mm 13.2-inch                    | 1         | 1.43%   |
 
 Monitor Resolution
 ------------------
@@ -1672,19 +1675,19 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 15     | 29        | 42.03%  |
-| 14     | 11        | 15.94%  |
-| 17     | 8         | 11.59%  |
-| 13     | 6         | 8.7%    |
-| 34     | 2         | 2.9%    |
-| 27     | 2         | 2.9%    |
-| 26     | 2         | 2.9%    |
-| 24     | 2         | 2.9%    |
-| 18     | 2         | 2.9%    |
-| 11     | 2         | 2.9%    |
-| 84     | 1         | 1.45%   |
-| 23     | 1         | 1.45%   |
-| 21     | 1         | 1.45%   |
+| 15     | 29        | 41.43%  |
+| 14     | 11        | 15.71%  |
+| 17     | 8         | 11.43%  |
+| 13     | 6         | 8.57%   |
+| 27     | 3         | 4.29%   |
+| 34     | 2         | 2.86%   |
+| 26     | 2         | 2.86%   |
+| 24     | 2         | 2.86%   |
+| 18     | 2         | 2.86%   |
+| 11     | 2         | 2.86%   |
+| 84     | 1         | 1.43%   |
+| 23     | 1         | 1.43%   |
+| 21     | 1         | 1.43%   |
 
 Monitor Width
 -------------
@@ -1696,14 +1699,14 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 41        | 59.42%  |
-| 351-400     | 9         | 13.04%  |
-| 501-600     | 6         | 8.7%    |
-| 201-300     | 6         | 8.7%    |
-| 401-500     | 3         | 4.35%   |
-| 701-800     | 2         | 2.9%    |
-| 601-700     | 1         | 1.45%   |
-| 1501-2000   | 1         | 1.45%   |
+| 301-350     | 41        | 58.57%  |
+| 351-400     | 9         | 12.86%  |
+| 501-600     | 7         | 10%     |
+| 201-300     | 6         | 8.57%   |
+| 401-500     | 3         | 4.29%   |
+| 701-800     | 2         | 2.86%   |
+| 601-700     | 1         | 1.43%   |
+| 1501-2000   | 1         | 1.43%   |
 
 Aspect Ratio
 ------------
@@ -1731,18 +1734,18 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 101-110        | 29        | 42.03%  |
-| 81-90          | 14        | 20.29%  |
-| 121-130        | 8         | 11.59%  |
-| 201-250        | 4         | 5.8%    |
-| 301-350        | 3         | 4.35%   |
-| 71-80          | 2         | 2.9%    |
-| 51-60          | 2         | 2.9%    |
-| 351-500        | 2         | 2.9%    |
-| 141-150        | 2         | 2.9%    |
-| More than 1000 | 1         | 1.45%   |
-| 251-300        | 1         | 1.45%   |
-| 91-100         | 1         | 1.45%   |
+| 101-110        | 29        | 41.43%  |
+| 81-90          | 14        | 20%     |
+| 121-130        | 8         | 11.43%  |
+| 301-350        | 4         | 5.71%   |
+| 201-250        | 4         | 5.71%   |
+| 71-80          | 2         | 2.86%   |
+| 51-60          | 2         | 2.86%   |
+| 351-500        | 2         | 2.86%   |
+| 141-150        | 2         | 2.86%   |
+| More than 1000 | 1         | 1.43%   |
+| 251-300        | 1         | 1.43%   |
+| 91-100         | 1         | 1.43%   |
 
 Pixel Density
 -------------
@@ -1754,11 +1757,11 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 121-160       | 32        | 47.06%  |
-| 101-120       | 19        | 27.94%  |
-| 51-100        | 13        | 19.12%  |
-| More than 240 | 2         | 2.94%   |
-| 161-240       | 2         | 2.94%   |
+| 121-160       | 32        | 46.38%  |
+| 101-120       | 19        | 27.54%  |
+| 51-100        | 14        | 20.29%  |
+| More than 240 | 2         | 2.9%    |
+| 161-240       | 2         | 2.9%    |
 
 Multiple Monitors
 -----------------
@@ -1770,9 +1773,9 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 45        | 77.59%  |
-| 2     | 12        | 20.69%  |
-| 0     | 1         | 1.72%   |
+| 1     | 45        | 76.27%  |
+| 2     | 13        | 22.03%  |
+| 0     | 1         | 1.69%   |
 
 Network
 -------
@@ -2075,10 +2078,10 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 6.82%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 4.55%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 2         | 4.55%   |
-| Intel Bluetooth Device                                                              | 2         | 4.55%   |
+| Intel AX201 Bluetooth                                                               | 2         | 4.55%   |
 | IMC Networks Bluetooth Device                                                       | 2         | 4.55%   |
 | Realtek RTL8723B Bluetooth                                                          | 1         | 2.27%   |
-| Realtek Bluetooth Radio                                                             | 1         | 2.27%   |
+| Realtek 802.11ac WLAN Adapter                                                       | 1         | 2.27%   |
 | Qualcomm Atheros Bluetooth USB Host Controller                                      | 1         | 2.27%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 2.27%   |
 | Lite-On Bluetooth Device                                                            | 1         | 2.27%   |
@@ -2202,7 +2205,7 @@ Memory module models
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 4.44%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s       | 2         | 4.44%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s    | 2         | 4.44%   |
 | Unknown RAM Module 4GB SODIMM DDR2 667MT/s                  | 1         | 2.22%   |
 | Unknown RAM Module 4096MB SODIMM DDR3                       | 1         | 2.22%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                  | 1         | 2.22%   |
@@ -2212,7 +2215,7 @@ Memory module models
 | Smart RAM SH564568FH8NWPHSFG 2GB SODIMM DDR3 1333MT/s       | 1         | 2.22%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 2.22%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2667MT/s            | 1         | 2.22%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM SDRAM              | 1         | 2.22%   |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 975MT/s    | 1         | 2.22%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s      | 1         | 2.22%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 2.22%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s      | 1         | 2.22%   |
@@ -2224,7 +2227,7 @@ Memory module models
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s      | 1         | 2.22%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s      | 1         | 2.22%   |
 | SK hynix RAM H9HCNNNCPMMLXR-NEE 8GB SODIMM LPDDR4 4266MT/s  | 1         | 2.22%   |
-| Samsung RAM M471B5673EH1-CH9 2GB SODIMM DDR3 1334MT/s       | 1         | 2.22%   |
+| Samsung RAM M471B5673EH1-CH9 2048MB SODIMM DDR3 1334MT/s    | 1         | 2.22%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 1         | 2.22%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s      | 1         | 2.22%   |
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s      | 1         | 2.22%   |
@@ -2234,10 +2237,10 @@ Memory module models
 | Samsung RAM K4F6E3S4HM-MGCJ 2GB SODIMM LPDDR4 3733MT/s      | 1         | 2.22%   |
 | Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s      | 1         | 2.22%   |
 | Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s        | 1         | 2.22%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s  | 1         | 2.22%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s     | 1         | 2.22%   |
 | Micron RAM 8ATF51264HZ-2G1B1 8GB SODIMM DDR4 2667MT/s       | 1         | 2.22%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s        | 1         | 2.22%   |
-| Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s | 1         | 2.22%   |
+| Micron RAM 53E1G32D2NP-046 8GB Row Of Chips LPDDR4 4267MT/s | 1         | 2.22%   |
 | Kingston RAM MSI26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s       | 1         | 2.22%   |
 | Kingston RAM ACR16D3LS1KFG/8G 8GB SODIMM DDR3 1600MT/s      | 1         | 2.22%   |
 | Goodram RAM IR2400S464L15S/8G 8192MB SODIMM DDR4 2133MT/s   | 1         | 2.22%   |
@@ -2523,8 +2526,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 32        | 54.24%  |
-| 1     | 21        | 35.59%  |
+| 0     | 33        | 55.93%  |
+| 1     | 20        | 33.9%   |
 | 2     | 6         | 10.17%  |
 
 Unsupported Device Types
@@ -2537,12 +2540,12 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 13        | 38.24%  |
-| Chipcard              | 8         | 23.53%  |
-| Graphics card         | 5         | 14.71%  |
-| Multimedia controller | 3         | 8.82%   |
-| Net/wireless          | 2         | 5.88%   |
-| Net/ethernet          | 1         | 2.94%   |
-| Camera                | 1         | 2.94%   |
-| Bluetooth             | 1         | 2.94%   |
+| Fingerprint reader    | 13        | 39.39%  |
+| Chipcard              | 8         | 24.24%  |
+| Graphics card         | 4         | 12.12%  |
+| Multimedia controller | 3         | 9.09%   |
+| Net/wireless          | 2         | 6.06%   |
+| Net/ethernet          | 1         | 3.03%   |
+| Camera                | 1         | 3.03%   |
+| Bluetooth             | 1         | 3.03%   |
 

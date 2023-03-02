@@ -1524,7 +1524,7 @@ Monitor models
 | MSI MP271 MSI30A2 1920x1080 598x336mm 27.0-inch                      | 1        | 2.86%   |
 | MSI MP242 MSI30A1 1920x1080 527x296mm 23.8-inch                      | 1        | 2.86%   |
 | Medion MD30422PV MED86F6 1680x1050 474x296mm 22.0-inch               | 1        | 2.86%   |
-| Lenovo T24v-10 LEN61BC 1920x1080 530x300mm 24.0-inch                 | 1        | 2.86%   |
+| Lenovo T24v-10 LEN61BC 1920x1080 527x296mm 23.8-inch                 | 1        | 2.86%   |
 | Hewlett-Packard LE2001w HWP2841 1600x900 440x250mm 19.9-inch         | 1        | 2.86%   |
 | Hewlett-Packard LCD Monitor 2011 1600x900                            | 1        | 2.86%   |
 | Hewlett-Packard L1940T HWP2682 1280x1024 338x270mm 17.0-inch         | 1        | 2.86%   |
@@ -1534,7 +1534,7 @@ Monitor models
 | GDH Digital TV GDH0030 1920x540                                      | 1        | 2.86%   |
 | Dell S2721HGF DEL41E8 1920x1080 600x340mm 27.2-inch                  | 1        | 2.86%   |
 | BenQ T201W BNQ7719 1680x1050 433x271mm 20.1-inch                     | 1        | 2.86%   |
-| AU Optronics LCD Monitor AUO61D2 1024x600 220x130mm 10.1-inch        | 1        | 2.86%   |
+| AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch        | 1        | 2.86%   |
 
 Monitor Resolution
 ------------------
@@ -1867,7 +1867,7 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Intel Bluetooth Device                              | 3        | 33.33%  |
+| Intel AX201 Bluetooth                               | 3        | 33.33%  |
 | Intel Bluetooth wireless interface                  | 2        | 22.22%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2        | 22.22%  |
 | Ralink RT3290 Bluetooth                             | 1        | 11.11%  |
@@ -1973,33 +1973,33 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 1        | 4%      |
-| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                    | 1        | 4%      |
-| Unknown RAM Module 4GB DIMM DDR3                             | 1        | 4%      |
-| Unknown RAM Module 1024MB DIMM 667MT/s                       | 1        | 4%      |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 4%      |
-| TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s             | 1        | 4%      |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s          | 1        | 4%      |
-| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s           | 1        | 4%      |
-| SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                | 1        | 4%      |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s        | 1        | 4%      |
-| SK hynix RAM HMA82GU7CJR8N-VK 16384MB DIMM DDR4 2667MT/s     | 1        | 4%      |
-| Samsung RAM Module 4096MB DIMM DDR3 1333MT/s                 | 1        | 4%      |
-| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s        | 1        | 4%      |
-| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s          | 1        | 4%      |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 4%      |
-| PNY RAM 8GBF1X08LIII43-12-K 8GB DIMM DDR4 2667MT/s           | 1        | 4%      |
-| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s           | 1        | 4%      |
-| Micron RAM ITC 4GB DIMM DDR3 1648MT/s                        | 1        | 4%      |
-| Micron RAM 8JTF25664AZ-1G4M1 2GB DIMM DDR3 1333MT/s          | 1        | 4%      |
-| Micron RAM 4ATF1G64HZ-3G2B2 8GB SODIMM DDR4 3200MT/s         | 1        | 4%      |
-| Melco RAM Module 2GB DIMM DDR2 667MT/s                       | 1        | 4%      |
-| GOODRAM RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s           | 1        | 4%      |
-| Elpida RAM HMT451S6AFR8C-H9 4GB DIMM DDR3                    | 1        | 4%      |
-| Crucial RAM BL16G32C16U4B.16FE 16GB DIMM DDR4 3200MT/s       | 1        | 4%      |
-| Unknown                                                      | 1        | 4%      |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 4%      |
+| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                      | 1        | 4%      |
+| Unknown RAM Module 4GB DIMM DDR3                               | 1        | 4%      |
+| Unknown RAM Module 1024MB DIMM 667MT/s                         | 1        | 4%      |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 4%      |
+| TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s               | 1        | 4%      |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s             | 1        | 4%      |
+| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s             | 1        | 4%      |
+| SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 4%      |
+| SK hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s       | 1        | 4%      |
+| SK hynix RAM HMA82GU7CJR8N-VK 16384MB DIMM DDR4 2667MT/s       | 1        | 4%      |
+| Samsung RAM Module 4096MB DIMM DDR3 1333MT/s                   | 1        | 4%      |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1        | 4%      |
+| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s            | 1        | 4%      |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 4%      |
+| PNY RAM 8GBF1X08LIII43-12-K 8GB DIMM DDR4 2667MT/s             | 1        | 4%      |
+| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s             | 1        | 4%      |
+| Micron RAM ITC 2GB DIMM DDR3 1648MT/s                          | 1        | 4%      |
+| Micron RAM 8JTF25664AZ-1G4M1 2GB DIMM DDR3 1333MT/s            | 1        | 4%      |
+| Micron RAM 4ATF1G64HZ-3G2B2 8GB SODIMM DDR4 3200MT/s           | 1        | 4%      |
+| Melco RAM Module 2GB DIMM DDR2 667MT/s                         | 1        | 4%      |
+| GOODRAM RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s             | 1        | 4%      |
+| Elpida RAM HMT451S6AFR8C-H9 4GB DIMM DDR3                      | 1        | 4%      |
+| Crucial RAM BL16G32C16U4B.16FE 16GB DIMM DDR4 3200MT/s         | 1        | 4%      |
+| Unknown                                                        | 1        | 4%      |
 
 Memory Kind
 -----------
@@ -2188,9 +2188,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 30       | 85.71%  |
-| 1     | 4        | 11.43%  |
-| 2     | 1        | 2.86%   |
+| 0     | 28       | 80%     |
+| 1     | 5        | 14.29%  |
+| 2     | 2        | 5.71%   |
 
 Unsupported Device Types
 ------------------------
@@ -2202,8 +2202,8 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 2        | 40%     |
-| Net/wireless  | 1        | 20%     |
-| Net/ethernet  | 1        | 20%     |
-| Bluetooth     | 1        | 20%     |
+| Graphics card | 5        | 62.5%   |
+| Net/wireless  | 1        | 12.5%   |
+| Net/ethernet  | 1        | 12.5%   |
+| Bluetooth     | 1        | 12.5%   |
 

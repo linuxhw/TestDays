@@ -590,8 +590,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 12       | 52.17%  |
-| Yes       | 11       | 47.83%  |
+| No        | 12       | 54.55%  |
+| Yes       | 10       | 45.45%  |
 
 Has Ethernet
 ------------
@@ -753,7 +753,7 @@ Hard drive models
 | Seagate ST31500341AS 1TB          | 1        | 1.92%   |
 | Seagate ST2000DX001-1CM164 2TB    | 1        | 1.92%   |
 | Seagate ST2000DM001-1CH164 2TB    | 1        | 1.92%   |
-| Seagate Backup+ Desk 5TB          | 1        | 1.92%   |
+| Seagate Backup+ Desk 8TB          | 1        | 1.92%   |
 | SanDisk SSD PLUS 1000GB           | 1        | 1.92%   |
 | SanDisk SSD G5 BICS4 1TB          | 1        | 1.92%   |
 | Samsung SSD 970 EVO Plus 500GB    | 1        | 1.92%   |
@@ -1354,7 +1354,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                | 1        | 3.57%   |
 | Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch               | 1        | 3.57%   |
-| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch | 1        | 3.57%   |
+| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                      | 1        | 3.57%   |
 | Sony TV SNY0801 1360x768                                              | 1        | 3.57%   |
 | Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
 | Samsung Electronics LCD Monitor SAM0D3B 3840x2160 950x540mm 43.0-inch | 1        | 3.57%   |
@@ -1364,8 +1364,8 @@ Monitor models
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch              | 1        | 3.57%   |
 | Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                | 1        | 3.57%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                  | 1        | 3.57%   |
-| Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch            | 1        | 3.57%   |
-| Hewlett-Packard 22fw HPN3541 1920x1080 500x300mm 23.0-inch            | 1        | 3.57%   |
+| Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch            | 1        | 3.57%   |
+| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch            | 1        | 3.57%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 1        | 3.57%   |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                  | 1        | 3.57%   |
 | Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
@@ -1837,7 +1837,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR                                   | 1        | 3.45%   |
 | SK hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s              | 1        | 3.45%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 1        | 3.45%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                | 1        | 3.45%   |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s             | 1        | 3.45%   |
 | Samsung RAM M391B5273DH0-YK0 4GB DIMM DDR3 1600MT/s                  | 1        | 3.45%   |
 | PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s                 | 1        | 3.45%   |
 | Patriot Memory (PDP Systems) RAM PSD48G320081 8GB DIMM DDR4 3200MT/s | 1        | 3.45%   |

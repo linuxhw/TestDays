@@ -1036,7 +1036,7 @@ Hard drive models
 
 | Model                                        | Notebooks | Percent |
 |----------------------------------------------|-----------|---------|
-| Seagate Expansion 240GB                      | 3         | 3.19%   |
+| Seagate Expansion 1TB                        | 3         | 3.19%   |
 | WDC WD10JPVX-22JC3T0 1TB                     | 2         | 2.13%   |
 | Toshiba MQ01ABF050 500GB                     | 2         | 2.13%   |
 | SanDisk SD8SN8U128G1122 128GB SSD            | 2         | 2.13%   |
@@ -1161,8 +1161,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 36        | 49     | 62.07%  |
-| 0.51-1.0   | 21        | 24     | 36.21%  |
+| 0.01-0.5   | 35        | 46     | 60.34%  |
+| 0.51-1.0   | 22        | 27     | 37.93%  |
 | 1.01-2.0   | 1         | 1      | 1.72%   |
 
 Space Total
@@ -1343,7 +1343,7 @@ Storage controller models
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 2.35%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 2         | 2.35%   |
 | Union Memory (Shenzhen) Non-Volatile memory controller                         | 1         | 1.18%   |
-| SK hynix Non-Volatile memory controller                                        | 1         | 1.18%   |
+| SK hynix Platinum P41 NVMe Solid State Drive 2TB                               | 1         | 1.18%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 1.18%   |
 | Samsung NVMe SSD Controller 980                                                | 1         | 1.18%   |
 | Marvell Group 88SS9183 PCIe SSD Controller                                     | 1         | 1.18%   |
@@ -1759,19 +1759,19 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 2         | 2.38%   |
 | AOC 2250W AOC2250 1920x1080 477x268mm 21.5-inch                       | 2         | 2.38%   |
 | Videoseven L27ADS IGM2700 1920x1080 598x336mm 27.0-inch               | 1         | 1.19%   |
-| Sony Nvidia Defaul t Flat Panel SNY05FA 1366x768 309x174mm 14.0-inch  | 1         | 1.19%   |
+| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 1.19%   |
 | Sharp LCD Monitor SHP1476 3840x2160 346x194mm 15.6-inch               | 1         | 1.19%   |
 | Samsung Electronics S27D390 SAM0B67 1920x1080 598x336mm 27.0-inch     | 1         | 1.19%   |
 | Samsung Electronics LCD Monitor SEC444E 1600x900 310x174mm 14.0-inch  | 1         | 1.19%   |
 | Samsung Electronics LCD Monitor SDC5844 1920x1080 344x194mm 15.5-inch | 1         | 1.19%   |
 | Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch  | 1         | 1.19%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 410x230mm 18.5-inch | 1         | 1.19%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 1.19%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 1.19%   |
 | Samsung Electronics LCD Monitor SDC4171 2880x1800 302x189mm 14.0-inch | 1         | 1.19%   |
-| Samsung Electronics LCD Monitor SDC4141 1366x768 344x194mm 15.5-inch  | 1         | 1.19%   |
-| Samsung Electronics C27R50x SAM0F9D 1920x1080 598x336mm 27.0-inch     | 1         | 1.19%   |
+| Samsung Electronics LCD Monitor SDC4141 3840x2160 344x194mm 15.5-inch | 1         | 1.19%   |
+| Samsung Electronics C27R500 SAM0F9D 1920x1080 598x336mm 27.0-inch     | 1         | 1.19%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 1.19%   |
-| Philips PHL 346B1C PHL095C 3440x1440 800x330mm 34.1-inch              | 1         | 1.19%   |
+| Philips PHL 346B1C PHL095C 3440x1440 797x334mm 34.0-inch              | 1         | 1.19%   |
 | PANDA LCD Monitor NCP002D 1920x1080 344x194mm 15.5-inch               | 1         | 1.19%   |
 | Medion 42FPDEUDA1 MED222E 1920x1080                                   | 1         | 1.19%   |
 | LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch         | 1         | 1.19%   |
@@ -2246,18 +2246,20 @@ Controller models
 | Intel Bluetooth wireless interface                                                  | 15        | 25.42%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 8         | 13.56%  |
 | Intel AX200 Bluetooth                                                               | 7         | 11.86%  |
-| Intel Bluetooth Device                                                              | 5         | 8.47%   |
-| Realtek Bluetooth Radio                                                             | 2         | 3.39%   |
+| Intel AX201 Bluetooth                                                               | 4         | 6.78%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 2         | 3.39%   |
 | HP Broadcom 2070 Bluetooth Combo                                                    | 2         | 3.39%   |
 | Toshiba Bluetooth Device                                                            | 1         | 1.69%   |
 | Realtek Bluetooth Radio                                                             | 1         | 1.69%   |
+| Realtek Bluetooth Radio                                                             | 1         | 1.69%   |
+| Realtek 802.11ac WLAN Adapter                                                       | 1         | 1.69%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 1         | 1.69%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 1.69%   |
 | Micro Star International Motorola Bluetooth 2.1+EDR Device                          | 1         | 1.69%   |
 | Lite-On Bluetooth Device                                                            | 1         | 1.69%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 1.69%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 1.69%   |
+| Intel Bluetooth Device                                                              | 1         | 1.69%   |
 | Intel AX210 Bluetooth                                                               | 1         | 1.69%   |
 | IMC Networks Wireless_Device                                                        | 1         | 1.69%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 1.69%   |
@@ -2377,7 +2379,7 @@ Memory module models
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 3         | 5.88%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 3.92%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s          | 2         | 3.92%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s          | 2         | 3.92%   |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s       | 2         | 3.92%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s         | 2         | 3.92%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s          | 2         | 3.92%   |
 | Unknown RAM Module 4GB SODIMM DDR3                             | 1         | 1.96%   |
@@ -2386,7 +2388,7 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM DDR2                          | 1         | 1.96%   |
 | Timetec RAM SD3-1333 8192MB SODIMM DDR3 1333MT/s               | 1         | 1.96%   |
 | SK hynix RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s        | 1         | 1.96%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.96%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.96%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 1.96%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2400MT/s      | 1         | 1.96%   |
 | SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s        | 1         | 1.96%   |
@@ -2399,7 +2401,7 @@ Memory module models
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                   | 1         | 1.96%   |
 | Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s                | 1         | 1.96%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s          | 1         | 1.96%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s               | 1         | 1.96%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 1.96%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s          | 1         | 1.96%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s         | 1         | 1.96%   |

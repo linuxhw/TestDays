@@ -1181,7 +1181,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 293x165mm 13.2-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1193,7 +1193,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO173D 1920x1080 309x173mm 13.9-inch       | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO15ED 1920x1080 344x193mm 15.5-inch       | 1         | 6.67%   |
-| AU Optronics LCD Monitor AUO139E 1600x900 380x210mm 17.1-inch        | 1         | 6.67%   |
+| AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
 
 Monitor Resolution
@@ -1517,7 +1517,7 @@ Controller models
 | Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
 | Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
-| Lite-On Bluetooth Device                         | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
 | Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound

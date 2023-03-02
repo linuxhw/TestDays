@@ -1193,10 +1193,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 47        | 58     | 64.38%  |
-| 0.51-1.0   | 23        | 27     | 31.51%  |
-| 1.01-2.0   | 2         | 2      | 2.74%   |
-| 3.01-4.0   | 1         | 1      | 1.37%   |
+| 0.01-0.5   | 47        | 59     | 65.28%  |
+| 0.51-1.0   | 23        | 27     | 31.94%  |
+| 1.01-2.0   | 2         | 2      | 2.78%   |
 
 Space Total
 -----------
@@ -1414,9 +1413,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 75        | 66.96%  |
+| SATA | 74        | 66.07%  |
 | NVMe | 31        | 27.68%  |
-| RAID | 3         | 2.68%   |
+| RAID | 4         | 3.57%   |
 | IDE  | 3         | 2.68%   |
 
 Processor
@@ -1811,37 +1810,37 @@ Monitor models
 | AU Optronics LCD Monitor AUO70EC 1366x768 344x193mm 15.5-inch         | 2         | 1.74%   |
 | AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 2         | 1.74%   |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch         | 2         | 1.74%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 2         | 1.74%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.74%   |
 | ___ LCD TV ___9000 1360x768                                           | 1         | 0.87%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 0.87%   |
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch             | 1         | 0.87%   |
-| Sony Nvidia Defaul t Flat Panel SNY05FA 1366x768 309x174mm 14.0-inch  | 1         | 0.87%   |
+| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 0.87%   |
 | Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 0.87%   |
 | Sharp LCD Monitor SHP1476 3840x2160 346x194mm 15.6-inch               | 1         | 0.87%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 0.87%   |
 | Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 0.87%   |
 | Samsung Electronics SMS24A650 SAM082A 1920x1080 531x299mm 24.0-inch   | 1         | 0.87%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch  | 1         | 0.87%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.87%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch  | 1         | 0.87%   |
 | Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 0.87%   |
 | Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 0.87%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch  | 1         | 0.87%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 0.87%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 293x165mm 13.2-inch  | 1         | 0.87%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.87%   |
 | Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 0.87%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch  | 1         | 0.87%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch     | 1         | 0.87%   |
 | Samsung Electronics C27F591 SAM0D36 1920x1080 600x340mm 27.2-inch     | 1         | 0.87%   |
 | Philips 273PLPH PHL08A8 1920x1080 598x336mm 27.0-inch                 | 1         | 0.87%   |
 | PANDA LCD Monitor NCP0046 1920x1080 344x194mm 15.5-inch               | 1         | 0.87%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 0.87%   |
+| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 0.87%   |
 | LG Display LCD Monitor LGD06FB 1920x1080 309x174mm 14.0-inch          | 1         | 0.87%   |
 | LG Display LCD Monitor LGD05FE 1920x1080 344x194mm 15.5-inch          | 1         | 0.87%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch          | 1         | 0.87%   |
 | LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch          | 1         | 0.87%   |
 | LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch          | 1         | 0.87%   |
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 0.87%   |
-| LG Display LCD Monitor LGD0469 1920x1080 380x210mm 17.1-inch          | 1         | 0.87%   |
+| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 0.87%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch           | 1         | 0.87%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch          | 1         | 0.87%   |
 | LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 0.87%   |
@@ -2064,7 +2063,7 @@ Controller models
 | Broadcom BCM43142 802.11b/g/n                                     | 2         | 1.08%   |
 | Broadcom BCM4311 802.11b/g WLAN                                   | 2         | 1.08%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 0.54%   |
-| T & A Mobile Phones A509DL                                        | 1         | 0.54%   |
+| T & A Mobile Phones Alcatel JOY TAB 2                             | 1         | 0.54%   |
 | Sierra Wireless EM7305                                            | 1         | 0.54%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 0.54%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 0.54%   |
@@ -2195,12 +2194,12 @@ Ethernet models
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 1         | 1.22%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                       | 1         | 1.22%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1         | 1.22%   |
+| Qualcomm Redmi Note 7                                                          | 1         | 1.22%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                      | 1         | 1.22%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 1         | 1.22%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                          | 1         | 1.22%   |
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                                     | 1         | 1.22%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                       | 1         | 1.22%   |
-| Qualcomm Android                                                               | 1         | 1.22%   |
 | Nvidia MCP79 Ethernet                                                          | 1         | 1.22%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 1.22%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller                        | 1         | 1.22%   |
@@ -2316,11 +2315,11 @@ Controller models
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 22        | 28.21%  |
-| Lite-On Bluetooth Device                                                            | 6         | 7.69%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 5         | 6.41%   |
 | Intel AX200 Bluetooth                                                               | 5         | 6.41%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 3         | 3.85%   |
-| Intel Bluetooth Device                                                              | 3         | 3.85%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 3.85%   |
+| Intel AX201 Bluetooth                                                               | 3         | 3.85%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 2.56%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 2         | 2.56%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 2         | 2.56%   |
@@ -2336,6 +2335,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 1.28%   |
 | MediaTek Wireless_Device                                                            | 1         | 1.28%   |
 | Lite-On Wireless_Device                                                             | 1         | 1.28%   |
+| Lite-On Bluetooth Device                                                            | 1         | 1.28%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 1.28%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 1.28%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 1.28%   |
@@ -2483,7 +2483,7 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.85%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.85%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.85%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM SDRAM 2048MT/s          | 1         | 1.85%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s           | 1         | 1.85%   |
 | Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 1.85%   |
 | Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s           | 1         | 1.85%   |
 | Ramaxel RAM RMT3170EB68E9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.85%   |
@@ -2495,7 +2495,7 @@ Memory module models
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s           | 1         | 1.85%   |
 | Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s            | 1         | 1.85%   |
 | Kingston RAM 99U5663-003.A00G 16GB SODIMM DDR4 2400MT/s          | 1         | 1.85%   |
-| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s          | 1         | 1.85%   |
+| Kingston RAM 99U5428-063.A00LF 8192MB SODIMM DDR3 1600MT/s       | 1         | 1.85%   |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s           | 1         | 1.85%   |
 | G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s           | 1         | 1.85%   |
 
@@ -2666,10 +2666,9 @@ Camera device models
 | Suyin HP TrueVision HD Integrated Webcam                              | 2         | 2.25%   |
 | Realtek Integrated Webcam_HD                                          | 2         | 2.25%   |
 | Quanta HD User Facing                                                 | 2         | 2.25%   |
-| Microdia USB 2.0 Camera                                               | 2         | 2.25%   |
 | IMC Networks USB2.0 VGA UVC WebCam                                    | 2         | 2.25%   |
 | IMC Networks Integrated Camera                                        | 2         | 2.25%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera                   | 2         | 2.25%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam                         | 2         | 2.25%   |
 | Z-Star Webcam                                                         | 1         | 1.12%   |
 | Unknown ATIV VGA CAMERA                                               | 1         | 1.12%   |
 | Syntek USB2.0 Camera                                                  | 1         | 1.12%   |
@@ -2689,14 +2688,15 @@ Camera device models
 | Quanta HP Wide Vision HD Camera                                       | 1         | 1.12%   |
 | Quanta HP TrueVision HD Webcam                                        | 1         | 1.12%   |
 | Microdia Webcam                                                       | 1         | 1.12%   |
+| Microdia USB 2.0 Camera                                               | 1         | 1.12%   |
 | Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 1.12%   |
 | Microdia Integrated Webcam HD                                         | 1         | 1.12%   |
 | Microdia Dell Laptop Integrated Webcam HD                             | 1         | 1.12%   |
+| Microdia CameraA                                                      | 1         | 1.12%   |
 | Logitech Webcam C310                                                  | 1         | 1.12%   |
 | Logitech Webcam C270                                                  | 1         | 1.12%   |
 | Logitech HD Pro Webcam C920                                           | 1         | 1.12%   |
 | Lite-On Integrated Camera                                             | 1         | 1.12%   |
-| Lite-On HP HD Webcam                                                  | 1         | 1.12%   |
 
 Security
 --------
@@ -2793,8 +2793,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 58        | 60.42%  |
-| 1     | 28        | 29.17%  |
-| 2     | 10        | 10.42%  |
+| 1     | 27        | 28.13%  |
+| 2     | 11        | 11.46%  |
 
 Unsupported Device Types
 ------------------------
@@ -2806,14 +2806,14 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 22        | 44%     |
-| Net/wireless          | 8         | 16%     |
-| Chipcard              | 7         | 14%     |
-| Multimedia controller | 4         | 8%      |
-| Graphics card         | 4         | 8%      |
-| Unassigned class      | 1         | 2%      |
-| Storage               | 1         | 2%      |
-| Net/ethernet          | 1         | 2%      |
-| Camera                | 1         | 2%      |
-| Bluetooth             | 1         | 2%      |
+| Fingerprint reader    | 22        | 43.14%  |
+| Net/wireless          | 8         | 15.69%  |
+| Chipcard              | 7         | 13.73%  |
+| Graphics card         | 5         | 9.8%    |
+| Multimedia controller | 4         | 7.84%   |
+| Unassigned class      | 1         | 1.96%   |
+| Storage               | 1         | 1.96%   |
+| Net/ethernet          | 1         | 1.96%   |
+| Camera                | 1         | 1.96%   |
+| Bluetooth             | 1         | 1.96%   |
 

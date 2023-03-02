@@ -1195,7 +1195,7 @@ Monitor models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Goldstar W2242 GSM5678 1680x1050 474x296mm 22.0-inch                | 3        | 18.75%  |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch   | 1        | 6.25%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch   | 1        | 6.25%   |
 | Samsung Electronics U32J59x SAM0F34 3840x2160 697x392mm 31.5-inch   | 1        | 6.25%   |
 | Samsung Electronics SyncMaster SAM0599 1600x900 443x249mm 20.0-inch | 1        | 6.25%   |
 | SAC Casper SAC3219 1366x768 304x228mm 15.0-inch                     | 1        | 6.25%   |
@@ -1705,12 +1705,12 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| Microdia Laptop_Integrated_Webcam_FHD | 1        | 25%     |
-| MacroSilicon USB Video                | 1        | 25%     |
-| Arkmicro USB2.0 PC CAMERA             | 1        | 25%     |
-| Alcor Micro USB 2.0 PC Camera         | 1        | 25%     |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Microdia Integrated Camera    | 1        | 25%     |
+| MacroSilicon USB Video        | 1        | 25%     |
+| Arkmicro USB2.0 PC CAMERA     | 1        | 25%     |
+| Alcor Micro USB 2.0 PC Camera | 1        | 25%     |
 
 Security
 --------

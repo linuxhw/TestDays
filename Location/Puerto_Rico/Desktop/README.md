@@ -1027,10 +1027,10 @@ Hard drive models
 | TDAS TerraMaster 1TB                 | 2        | 2.17%   |
 | Seagate ST320DM001 HD322GJ 320GB     | 2        | 2.17%   |
 | Seagate ST2000VM003-1CT164 2TB       | 2        | 2.17%   |
-| Seagate Expansion 240GB              | 2        | 2.17%   |
+| Seagate Expansion 1TB                | 2        | 2.17%   |
 | Samsung SSD 850 EVO 500GB            | 2        | 2.17%   |
 | Samsung NVMe SSD Drive 500GB         | 2        | 2.17%   |
-| SABRENT Disk 4TB                     | 2        | 2.17%   |
+| SABRENT Disk 256GB                   | 2        | 2.17%   |
 | Micron/Crucial NVMe SSD Drive 500GB  | 2        | 2.17%   |
 | China SATA SSD 512GB                 | 2        | 2.17%   |
 | WDC WD7500BPVX-60JC3T0 752GB         | 1        | 1.09%   |
@@ -1136,11 +1136,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 44     | 43.08%  |
-| 0.51-1.0   | 22       | 49     | 33.85%  |
-| 1.01-2.0   | 8        | 19     | 12.31%  |
-| 3.01-4.0   | 6        | 12     | 9.23%   |
-| 2.01-3.0   | 1        | 1      | 1.54%   |
+| 0.01-0.5   | 27       | 45     | 42.86%  |
+| 0.51-1.0   | 23       | 51     | 36.51%  |
+| 1.01-2.0   | 8        | 19     | 12.7%   |
+| 3.01-4.0   | 4        | 9      | 6.35%   |
+| 2.01-3.0   | 1        | 1      | 1.59%   |
 
 Space Total
 -----------
@@ -1734,48 +1734,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 4        | 5.97%   |
-| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                 | 3        | 4.48%   |
-| Element ELEFW328B ELE1366 1366x768 700x400mm 31.7-inch                 | 3        | 4.48%   |
-| VIZ LCD Monitor M551d-A2R                                              | 2        | 2.99%   |
-| ViewSonic VA2448 SERIES VSC3828 1920x1080 521x293mm 23.5-inch          | 2        | 2.99%   |
-| Sony TV  *00 SNY4B04 3840x2160                                         | 2        | 2.99%   |
-| Samsung Electronics C32F391 SAM0D35 1920x1080 698x393mm 31.5-inch      | 2        | 2.99%   |
-| Gateway LCD Monitor FHX2300                                            | 2        | 2.99%   |
-| Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                  | 2        | 2.99%   |
-| Acer LCD Monitor G236HL 5760x1080                                      | 2        | 2.99%   |
-| Vizio M220MV VIZ0062 1920x1080 509x286mm 23.0-inch                     | 1        | 1.49%   |
-| Vizio E600i-B3 VIZ1006 1920x1080 1329x748mm 60.0-inch                  | 1        | 1.49%   |
-| Vizio E241i-A1 VIZ1005 1920x1080 521x293mm 23.5-inch                   | 1        | 1.49%   |
-| ViewSonic VG930m-3 VSC991E 1280x1024 376x301mm 19.0-inch               | 1        | 1.49%   |
-| Unknown LCD Monitor Dell S2719DGF 2560x1440                            | 1        | 1.49%   |
-| UGD Artist 156 UGD1501 1920x1080 293x165mm 13.2-inch                   | 1        | 1.49%   |
-| Tech Concepts LCD Monitor 43S431 3840x2160                             | 1        | 1.49%   |
-| Tech Concepts LCD Monitor 43S423 1920x1080                             | 1        | 1.49%   |
-| Sony TV SNY4502 1920x1080                                              | 1        | 1.49%   |
-| Seiki SE241TS SEK0CF0 1920x1080 520x290mm 23.4-inch                    | 1        | 1.49%   |
-| Sceptre Tech Sceptre X22HG SPT2204 1920x1080 474x296mm 22.0-inch       | 1        | 1.49%   |
-| Sceptre Tech Sceptre F22 SPT08E3 1920x1080 475x267mm 21.5-inch         | 1        | 1.49%   |
-| Sceptre Tech Sceptre C27 SPT0AD7 1920x1080 598x336mm 27.0-inch         | 1        | 1.49%   |
-| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                 | 1        | 1.49%   |
-| Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch      | 1        | 1.49%   |
-| Samsung Electronics LCD Monitor SAM0F0B 3840x2160 1210x680mm 54.6-inch | 1        | 1.49%   |
-| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch      | 1        | 1.49%   |
-| MTK Microtek 815C MTK1021 1280x1024 359x287mm 18.1-inch                | 1        | 1.49%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.49%   |
-| Hewlett-Packard P17A HWP3142 1280x1024 338x270mm 17.0-inch             | 1        | 1.49%   |
-| Hewlett-Packard LE1901w HWP2842 1440x900 410x256mm 19.0-inch           | 1        | 1.49%   |
-| Hewlett-Packard L2105tm HWP2863 1920x1080 477x268mm 21.5-inch          | 1        | 1.49%   |
-| Hewlett-Packard 2511 HWP293E 1920x1080 550x310mm 24.9-inch             | 1        | 1.49%   |
-| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch            | 1        | 1.49%   |
-| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 1.49%   |
-| Gateway LCD Monitor FHX2300 3840x1080                                  | 1        | 1.49%   |
-| eMachines E19T6W EMA0783 1440x900 410x257mm 19.1-inch                  | 1        | 1.49%   |
-| Dell SE2419H DELF109 1920x1080 527x296mm 23.8-inch                     | 1        | 1.49%   |
-| Dell E2316H DELF06B 1920x1080 509x286mm 23.0-inch                      | 1        | 1.49%   |
-| Dell E197FP DELA024 1280x1024 380x305mm 19.2-inch                      | 1        | 1.49%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 4        | 5.97%   |
+| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                | 3        | 4.48%   |
+| Element ELEFW328 ELE1366 1366x768 700x400mm 31.7-inch                 | 3        | 4.48%   |
+| VIZ LCD Monitor M551d-A2R                                             | 2        | 2.99%   |
+| ViewSonic VA2448 SERIES VSC3828 1920x1080 521x293mm 23.5-inch         | 2        | 2.99%   |
+| Sony TV  *00 SNY4B04 3840x2160                                        | 2        | 2.99%   |
+| Samsung Electronics C32F391 SAM0D35 1920x1080 698x393mm 31.5-inch     | 2        | 2.99%   |
+| Gateway LCD Monitor FHX2300                                           | 2        | 2.99%   |
+| Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                 | 2        | 2.99%   |
+| Acer LCD Monitor G236HL 5760x1080                                     | 2        | 2.99%   |
+| Vizio M220MV VIZ0062 1920x1080 509x286mm 23.0-inch                    | 1        | 1.49%   |
+| Vizio E600i-B3 VIZ1006 1920x1080 1329x748mm 60.0-inch                 | 1        | 1.49%   |
+| Vizio E241i-A1 VIZ1005 1920x1080 521x293mm 23.5-inch                  | 1        | 1.49%   |
+| ViewSonic VG930m-3 VSC991E 1280x1024 376x301mm 19.0-inch              | 1        | 1.49%   |
+| Unknown LCD Monitor Dell S2719DGF 2560x1440                           | 1        | 1.49%   |
+| UGD Artist 156 UGD1501 1920x1080 293x165mm 13.2-inch                  | 1        | 1.49%   |
+| Tech Concepts LCD Monitor 43S431 3840x2160                            | 1        | 1.49%   |
+| Tech Concepts LCD Monitor 43S423 1920x1080                            | 1        | 1.49%   |
+| Sony TV SNY4502 1920x1080                                             | 1        | 1.49%   |
+| Seiki SE241TS SEK0CF0 1920x1080 520x290mm 23.4-inch                   | 1        | 1.49%   |
+| Sceptre Tech Sceptre X22HG SPT2204 1920x1080 474x296mm 22.0-inch      | 1        | 1.49%   |
+| Sceptre Tech Sceptre F22 SPT08E3 1920x1080 475x267mm 21.5-inch        | 1        | 1.49%   |
+| Sceptre Tech Sceptre C27 SPT0AD7 1920x1080 598x336mm 27.0-inch        | 1        | 1.49%   |
+| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                | 1        | 1.49%   |
+| Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1        | 1.49%   |
+| Samsung Electronics LCD Monitor SAM0F0B 1920x1080 708x398mm 32.0-inch | 1        | 1.49%   |
+| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch     | 1        | 1.49%   |
+| MTK Microtek 815C MTK1021 1280x1024 359x287mm 18.1-inch               | 1        | 1.49%   |
+| MStar Demo MST0030 1920x540 708x398mm 32.0-inch                       | 1        | 1.49%   |
+| Hewlett-Packard P17A HWP3142 1280x1024 338x270mm 17.0-inch            | 1        | 1.49%   |
+| Hewlett-Packard LE1901w HWP2842 1440x900 410x256mm 19.0-inch          | 1        | 1.49%   |
+| Hewlett-Packard L2105tm HWP2863 1920x1080 477x268mm 21.5-inch         | 1        | 1.49%   |
+| Hewlett-Packard 2511 HWP293E 1920x1080 550x310mm 24.9-inch            | 1        | 1.49%   |
+| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch           | 1        | 1.49%   |
+| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 1        | 1.49%   |
+| Gateway LCD Monitor FHX2300 3840x1080                                 | 1        | 1.49%   |
+| eMachines E19T6W EMA0783 1440x900 410x257mm 19.1-inch                 | 1        | 1.49%   |
+| Dell SE2419HX DELF109 1920x1080 527x296mm 23.8-inch                   | 1        | 1.49%   |
+| Dell E2316H DELF06B 1920x1080 509x286mm 23.0-inch                     | 1        | 1.49%   |
+| Dell E197FP DELA024 1280x1024 380x305mm 19.2-inch                     | 1        | 1.49%   |
 
 Monitor Resolution
 ------------------
@@ -2194,7 +2194,7 @@ Controller models
 | Intel AX200 Bluetooth                                    | 4        | 14.29%  |
 | Realtek Bluetooth Radio                                  | 2        | 7.14%   |
 | Intel Bluetooth wireless interface                       | 2        | 7.14%   |
-| Intel Bluetooth Device                                   | 2        | 7.14%   |
+| Intel AX201 Bluetooth                                    | 2        | 7.14%   |
 | Broadcom Bluetooth Device                                | 2        | 7.14%   |
 | Qualcomm Atheros  Bluetooth Device                       | 1        | 3.57%   |
 | Lite-On Bluetooth Device                                 | 1        | 3.57%   |
@@ -2315,16 +2315,16 @@ Memory module models
 | SK hynix RAM Module 8GB DIMM DDR4 3200MT/s               | 1        | 4.55%   |
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 4.55%   |
 | Sesame RAM S939A2UGS-ITR 8GB DIMM DDR3 1600MT/s          | 1        | 4.55%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s      | 1        | 4.55%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM 1867MT/s           | 1        | 4.55%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 4.55%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 4.55%   |
+| Samsung RAM M378B5173DB0-CK0 4096MB DIMM DDR3 1600MT/s   | 1        | 4.55%   |
 | Samsung RAM M378B1G73QH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 4.55%   |
 | Samsung RAM M378B1G73BH0-CK0 8GB DIMM DDR3 1600MT/s      | 1        | 4.55%   |
 | PNY RAM 4GBH1X04E9992 4096MB DIMM DDR3 1600MT/s          | 1        | 4.55%   |
 | Kingston RAM X2YH1K-MIE-NX 16GB DIMM DDR4 3200MT/s       | 1        | 4.55%   |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s       | 1        | 4.55%   |
+| G.Skill RAM F4-2400C15-8GVR . 8GB DIMM DDR4 3200MT/s     | 1        | 4.55%   |
 | G.Skill RAM F3-10666CL9-8GBSQ 8GB DIMM DDR3 1333MT/s     | 1        | 4.55%   |
-| Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s    | 1        | 4.55%   |
+| Crucial RAM CT51264BD160B.C16F 4GB DIMM 1600MT/s         | 1        | 4.55%   |
 | Crucial RAM BL16G26C16U4W.16FD 16GB DIMM DDR4 2667MT/s   | 1        | 4.55%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 4.55%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s    | 1        | 4.55%   |
@@ -2464,7 +2464,7 @@ Camera device models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | Microdia Camera                 | 4        | 33.33%  |
-| Microdia USB 2.0 Camera         | 1        | 8.33%   |
+| Microdia CameraA                | 1        | 8.33%   |
 | Logitech Webcam Pro 9000        | 1        | 8.33%   |
 | Logitech Webcam C310            | 1        | 8.33%   |
 | Logitech Webcam C270            | 1        | 8.33%   |

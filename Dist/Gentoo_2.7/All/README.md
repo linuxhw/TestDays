@@ -1714,8 +1714,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 442       | 78.37%  |
-| Yes       | 122       | 21.63%  |
+| No        | 440       | 78.01%  |
+| Yes       | 124       | 21.99%  |
 
 Has Ethernet
 ------------
@@ -2081,13 +2081,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 255       | 479    | 43.59%  |
-| 0.51-1.0   | 169       | 259    | 28.89%  |
-| 1.01-2.0   | 74        | 162    | 12.65%  |
-| 3.01-4.0   | 38        | 80     | 6.5%    |
-| 2.01-3.0   | 27        | 58     | 4.62%   |
-| 4.01-10.0  | 18        | 76     | 3.08%   |
-| 10.01-20.0 | 3         | 7      | 0.51%   |
+| 0.01-0.5   | 254       | 479    | 43.64%  |
+| 0.51-1.0   | 167       | 258    | 28.69%  |
+| 1.01-2.0   | 74        | 163    | 12.71%  |
+| 3.01-4.0   | 38        | 80     | 6.53%   |
+| 2.01-3.0   | 27        | 58     | 4.64%   |
+| 4.01-10.0  | 18        | 76     | 3.09%   |
+| 10.01-20.0 | 3         | 7      | 0.52%   |
 | 20.01-50.0 | 1         | 1      | 0.17%   |
 
 Space Total
@@ -2404,10 +2404,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 410       | 49.88%  |
-| NVMe | 315       | 38.32%  |
-| IDE  | 43        | 5.23%   |
-| RAID | 42        | 5.11%   |
+| SATA | 410       | 49.82%  |
+| NVMe | 315       | 38.27%  |
+| IDE  | 44        | 5.35%   |
+| RAID | 42        | 5.1%    |
 | SAS  | 8         | 0.97%   |
 | SCSI | 4         | 0.49%   |
 
@@ -2898,10 +2898,10 @@ Monitor models
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch           | 5         | 0.73%   |
 | Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                      | 5         | 0.73%   |
 | Iiyama PL2409HD IVM560C 1920x1080 521x293mm 23.5-inch                  | 4         | 0.58%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 4         | 0.58%   |
+| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch               | 4         | 0.58%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 4         | 0.58%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 4         | 0.58%   |
 | Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 4         | 0.58%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                 | 4         | 0.58%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 3         | 0.44%   |
 | LG Display LCD Monitor LGD0608 1920x1080 309x174mm 14.0-inch           | 3         | 0.44%   |
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch           | 3         | 0.44%   |
@@ -2922,14 +2922,14 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0D74 1920x1080 1210x680mm 54.6-inch | 2         | 0.29%   |
 | Samsung Electronics LCD Monitor SAM0C39 1920x1080 885x498mm 40.0-inch  | 2         | 0.29%   |
 | Samsung Electronics LCD Monitor SAM0B7C 1920x1080 886x498mm 40.0-inch  | 2         | 0.29%   |
-| Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 2         | 0.29%   |
+| Samsung Electronics LC49G95T SAM7053 2560x1440 1193x336mm 48.8-inch    | 2         | 0.29%   |
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch     | 2         | 0.29%   |
 | Samsung Electronics C49HG9x SAM0E5E 3840x1080 1196x336mm 48.9-inch     | 2         | 0.29%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 2         | 0.29%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 2         | 0.29%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 2         | 0.29%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                 | 2         | 0.29%   |
-| MSI G273Q MSI3CA8 2560x1440 597x336mm 27.0-inch                        | 2         | 0.29%   |
+| MSI MAG341CQ MSI1462 3440x1440 797x334mm 34.0-inch                     | 2         | 0.29%   |
+| MSI MAG274QRF MSI3CA8 2560x1440 597x336mm 27.0-inch                    | 2         | 0.29%   |
 | LGD LCD Monitor 1920x1080                                              | 2         | 0.29%   |
 | LG Display LCD Monitor LGD0657 1920x1080 344x194mm 15.5-inch           | 2         | 0.29%   |
 
@@ -3166,7 +3166,7 @@ Controller vendors
 | Ralink Technology                 | 3         | 0.37%   |
 | Qualcomm                          | 3         | 0.37%   |
 | Nvidia                            | 3         | 0.37%   |
-| Fibocom                           | 3         | 0.37%   |
+| FIBOCOM                           | 3         | 0.37%   |
 | D-Link System                     | 3         | 0.37%   |
 | Broadcom Limited                  | 3         | 0.37%   |
 | Xiaomi                            | 2         | 0.25%   |
@@ -3511,26 +3511,27 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel AX200 Bluetooth                               | 74        | 21.08%  |
 | Intel Bluetooth wireless interface                  | 49        | 13.96%  |
-| Intel Bluetooth Device                              | 39        | 11.11%  |
+| Intel AX201 Bluetooth                               | 38        | 10.83%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 35        | 9.97%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 28        | 7.98%   |
 | Realtek Bluetooth Radio                             | 17        | 4.84%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 9         | 2.56%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 9         | 2.56%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 8         | 2.28%   |
-| Lite-On Bluetooth Device                            | 6         | 1.71%   |
 | Qualcomm Atheros  Bluetooth Device                  | 5         | 1.42%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 5         | 1.42%   |
+| Lite-On Bluetooth Device                            | 4         | 1.14%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 4         | 1.14%   |
 | Intel AX210 Bluetooth                               | 4         | 1.14%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 4         | 1.14%   |
 | Realtek RTL8723B Bluetooth                          | 3         | 0.85%   |
-| Realtek Bluetooth Radio                             | 3         | 0.85%   |
+| Realtek 802.11ac WLAN Adapter                       | 3         | 0.85%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 3         | 0.85%   |
 | Apple Bluetooth USB Host Controller                 | 3         | 0.85%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 2         | 0.57%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 2         | 0.57%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 0.57%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 2         | 0.57%   |
 | IMC Networks Wireless_Device                        | 2         | 0.57%   |
 | IMC Networks Bluetooth Radio                        | 2         | 0.57%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 0.57%   |
@@ -3548,7 +3549,6 @@ Controller models
 | Lite-On Bluetooth Radio                             | 1         | 0.28%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 0.28%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 0.28%   |
-| IMC Networks Bluetooth Device                       | 1         | 0.28%   |
 
 Sound
 -----
@@ -3585,7 +3585,6 @@ Sound card vendors
 | RODE Microphones                     | 3         | 0.34%   |
 | Dell                                 | 3         | 0.34%   |
 | ASUSTek Computer                     | 3         | 0.34%   |
-| Sennheiser Communications            | 2         | 0.23%   |
 | SAVITECH                             | 2         | 0.23%   |
 | No brand                             | 2         | 0.23%   |
 | GN Netcom                            | 2         | 0.23%   |
@@ -3595,6 +3594,7 @@ Sound card vendors
 | Tdlasunnic                           | 1         | 0.11%   |
 | Syntek                               | 1         | 0.11%   |
 | Solid State Logic                    | 1         | 0.11%   |
+| Sennheiser Communications            | 1         | 0.11%   |
 | Samson Technologies                  | 1         | 0.11%   |
 | QinHeng Electronics                  | 1         | 0.11%   |
 | Nektar                               | 1         | 0.11%   |
@@ -3681,7 +3681,7 @@ Memory module vendors
 | Patriot             | 6         | 1.01%   |
 | A-DATA Technology   | 6         | 1.01%   |
 | Nanya Technology    | 5         | 0.84%   |
-| GOODRAM             | 5         | 0.84%   |
+| Goodram             | 5         | 0.84%   |
 | Transcend           | 4         | 0.67%   |
 | Elpida              | 3         | 0.51%   |
 | Unknown (ABCD)      | 2         | 0.34%   |
@@ -3712,7 +3712,7 @@ Memory module models
 |-------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s       | 8         | 1.26%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s       | 7         | 1.1%    |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s   | 6         | 0.95%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s      | 6         | 0.95%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 6         | 0.95%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s        | 6         | 0.95%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 6         | 0.95%   |
@@ -3728,16 +3728,15 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR                           | 3         | 0.47%   |
 | Unknown RAM Module 1024MB DIMM SDRAM                        | 3         | 0.47%   |
 | SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s             | 3         | 0.47%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s      | 3         | 0.47%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s      | 3         | 0.47%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s       | 3         | 0.47%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s       | 3         | 0.47%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s       | 3         | 0.47%   |
-| Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s       | 3         | 0.47%   |
+| Samsung RAM M471A1K43BB0-CPB 8192MB SODIMM DDR4 2133MT/s    | 3         | 0.47%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s | 3         | 0.47%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s       | 3         | 0.47%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s        | 3         | 0.47%   |
-| Micron RAM 53E1G32D2NP-046 2GB Row Of Chips LPDDR4 4267MT/s | 3         | 0.47%   |
+| Micron RAM 53E1G32D2NP-046 8GB Row Of Chips LPDDR4 4267MT/s | 3         | 0.47%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s       | 3         | 0.47%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s      | 3         | 0.47%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s         | 3         | 0.47%   |
@@ -3750,6 +3749,7 @@ Memory module models
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s         | 3         | 0.47%   |
 | Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 3000MT/s        | 3         | 0.47%   |
 | Crucial RAM CT4G4DFS8213.C8FAD11 4GB DIMM DDR4 2133MT/s     | 3         | 0.47%   |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s      | 3         | 0.47%   |
 
 Memory Kind
 -----------
@@ -3821,7 +3821,7 @@ Memory module speed
 | 2667    | 90        | 15.79%  |
 | 1600    | 67        | 11.75%  |
 | 2400    | 46        | 8.07%   |
-| 3600    | 39        | 6.84%   |
+| 3600    | 38        | 6.67%   |
 | 2133    | 29        | 5.09%   |
 | 1333    | 21        | 3.68%   |
 | 3000    | 17        | 2.98%   |
@@ -3837,8 +3837,8 @@ Memory module speed
 | 3466    | 7         | 1.23%   |
 | 2666    | 7         | 1.23%   |
 | 1066    | 6         | 1.05%   |
+| 3800    | 5         | 0.88%   |
 | 3866    | 4         | 0.7%    |
-| 3800    | 4         | 0.7%    |
 | 400     | 4         | 0.7%    |
 | 3333    | 3         | 0.53%   |
 | 3100    | 3         | 0.53%   |
@@ -4004,10 +4004,9 @@ Camera device models
 | ARC International Camera                            | 3         | 0.98%   |
 | Sunplus HD WebCam                                   | 2         | 0.65%   |
 | Realtek USB2.0 HD UVC WebCam                        | 2         | 0.65%   |
-| Realtek USB Camera                                  | 2         | 0.65%   |
 | Realtek Integrated Webcam                           | 2         | 0.65%   |
+| Realtek FULL HD 1080P Webcam                        | 2         | 0.65%   |
 | Quanta VGA WebCam                                   | 2         | 0.65%   |
-| Microdia USB 2.0 Camera                             | 2         | 0.65%   |
 | Microdia Integrated Webcam HD                       | 2         | 0.65%   |
 | MacroSilicon USB Video                              | 2         | 0.65%   |
 | Luxvisions Innotech Limited HP HD Camera            | 2         | 0.65%   |
@@ -4020,6 +4019,7 @@ Camera device models
 | Lite-On HP Wide Vision HD Camera                    | 2         | 0.65%   |
 | IMC Networks USB2.0 VGA UVC WebCam                  | 2         | 0.65%   |
 | IMC Networks USB Camera                             | 2         | 0.65%   |
+| IMC Networks ov9734_azurewave_camera                | 2         | 0.65%   |
 
 Security
 --------

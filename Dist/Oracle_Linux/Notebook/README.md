@@ -879,7 +879,7 @@ Hard drive models
 | WDC WDS250G2B0A-00SM50 250GB SSD             | 1         | 2.22%   |
 | WDC WD10SPZX-60Z10T1 1TB                     | 1         | 2.22%   |
 | WDC WD10JPCX-24UE4T0 1TB                     | 1         | 2.22%   |
-| Unknown SD/MMC/MS PRO 2GB                    | 1         | 2.22%   |
+| Unknown SD/MMC/MS PRO 16GB                   | 1         | 2.22%   |
 | Unknown MMC64G  64GB                         | 1         | 2.22%   |
 | Unknown MMC Card  256GB                      | 1         | 2.22%   |
 | Union Memory (Shenzhen) NVMe SSD Drive 128GB | 1         | 2.22%   |
@@ -1940,7 +1940,7 @@ Controller models
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface             | 10        | 40%     |
-| Intel Bluetooth Device                         | 3         | 12%     |
+| Intel AX201 Bluetooth                          | 3         | 12%     |
 | Qualcomm Atheros  Bluetooth Device             | 2         | 8%      |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2         | 8%      |
 | Realtek  Bluetooth 4.2 Adapter                 | 1         | 4%      |
@@ -2057,13 +2057,13 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 2         | 8.7%    |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 2         | 8.7%    |
 | Unknown RAM Module 8GB SODIMM DDR4 2400MT/s                  | 1         | 4.35%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 4.35%   |
 | SK hynix RAM HMAA1GS6CMR8N-VK 8GB Row Of Chips DDR4 2667MT/s | 1         | 4.35%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s | 1         | 4.35%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 1         | 4.35%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 1         | 4.35%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 4.35%   |
 | SK hynix RAM H9HCNNNBKUMLXR-NEE 2GB LPDDR4 2400MT/s          | 1         | 4.35%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 4.35%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s       | 1         | 4.35%   |

@@ -675,8 +675,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 26       | 55.32%  |
-| No        | 21       | 44.68%  |
+| Yes       | 25       | 53.19%  |
+| No        | 22       | 46.81%  |
 
 Has Ethernet
 ------------
@@ -848,7 +848,7 @@ Hard drive models
 |----------------------------------|----------|---------|
 | Seagate ST1000DM010-2EP102 1TB   | 4        | 4.4%    |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 2.2%    |
-| Seagate Expansion Desk 6TB       | 2        | 2.2%    |
+| Seagate Expansion Desk 5TB       | 2        | 2.2%    |
 | SanDisk SDSSDX240GG25 240GB      | 2        | 2.2%    |
 | Samsung SSD 860 EVO 1TB          | 2        | 2.2%    |
 | Samsung NVMe SSD Drive 500GB     | 2        | 2.2%    |
@@ -969,12 +969,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 34       | 44     | 51.52%  |
-| 0.51-1.0   | 19       | 27     | 28.79%  |
-| 1.01-2.0   | 7        | 9      | 10.61%  |
-| 4.01-10.0  | 3        | 3      | 4.55%   |
-| 2.01-3.0   | 2        | 2      | 3.03%   |
-| 3.01-4.0   | 1        | 1      | 1.52%   |
+| 0.01-0.5   | 33       | 43     | 50.77%  |
+| 0.51-1.0   | 19       | 28     | 29.23%  |
+| 1.01-2.0   | 7        | 9      | 10.77%  |
+| 4.01-10.0  | 3        | 3      | 4.62%   |
+| 2.01-3.0   | 2        | 2      | 3.08%   |
+| 3.01-4.0   | 1        | 1      | 1.54%   |
 
 Space Total
 -----------
@@ -1554,22 +1554,22 @@ Monitor models
 | Philips 196VL PHLC07F 1366x768 409x230mm 18.5-inch                    | 1        | 2.13%   |
 | Onkyo AV Receiver ONK1050 1920x1080                                   | 1        | 2.13%   |
 | Microstep LCD Monitor MSI MAG341CQ 3440x1440                          | 1        | 2.13%   |
-| Insignia NS28D310NA15 BBY0028 1680x1050 640x384mm 29.4-inch           | 1        | 2.13%   |
+| Insignia NS32D311NA15 BBY0028 1360x768 700x390mm 31.5-inch            | 1        | 2.13%   |
 | Idek Iiyama LCD Monitor PL2473HD 1920x1080                            | 1        | 2.13%   |
 | HKC LCD Monitor HKC2400 1920x1080 597x336mm 27.0-inch                 | 1        | 2.13%   |
 | Hewlett-Packard v185e HWP2838 1366x768 410x230mm 18.5-inch            | 1        | 2.13%   |
 | Hewlett-Packard LCD Monitor w2338h                                    | 1        | 2.13%   |
 | Hewlett-Packard Compaq W185q HWP284F 1366x768 410x230mm 18.5-inch     | 1        | 2.13%   |
 | Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.13%   |
-| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 1        | 2.13%   |
+| Goldstar Ultra HD GSM5B08 3780x2160 600x340mm 27.2-inch               | 1        | 2.13%   |
 | Goldstar RZ32LZ55 GSM7546 1360x768 930x523mm 42.0-inch                | 1        | 2.13%   |
 | Goldstar M237WDP GSM5778 1920x1080 598x336mm 27.0-inch                | 1        | 2.13%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                   | 1        | 2.13%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1        | 2.13%   |
-| Dell LCD Monitor DELA026 1920x1200 520x330mm 24.2-inch                | 1        | 2.13%   |
+| Dell DELL2407WFPHC DELA026 1920x1200 519x324mm 24.1-inch              | 1        | 2.13%   |
 | BenQ FP71V BNQ76A2 1280x1024 376x301mm 19.0-inch                      | 1        | 2.13%   |
 | AOC 519W AOC1519 1280x720 340x270mm 17.1-inch                         | 1        | 2.13%   |
-| AOC 2770M AOC2770 1920x1080 598x336mm 27.0-inch                       | 1        | 2.13%   |
+| AOC 2770G4 AOC2770 1920x1080 598x336mm 27.0-inch                      | 1        | 2.13%   |
 | AOC 2752 AOC2752 1920x1080 579x336mm 26.4-inch                        | 1        | 2.13%   |
 | AOC 2070W AOC2070 1600x900 434x236mm 19.4-inch                        | 1        | 2.13%   |
 | Ancor Communications VG248 ACI24E1 1920x1080 531x299mm 24.0-inch      | 1        | 2.13%   |
@@ -1771,7 +1771,7 @@ Controller models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1        | 1.32%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                                 | 1        | 1.32%   |
 | Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn]                        | 1        | 1.32%   |
-| Motorola PCS motorola one 5G ace                                                              | 1        | 1.32%   |
+| Motorola PCS moto g(8) plus                                                                   | 1        | 1.32%   |
 | Intel Wireless 8265 / 8275                                                                    | 1        | 1.32%   |
 | Intel Wireless 7265                                                                           | 1        | 1.32%   |
 | Intel I211 Gigabit Network Connection                                                         | 1        | 1.32%   |
@@ -1876,7 +1876,7 @@ Ethernet models
 | Intel 82579V Gigabit Network Connection                           | 2        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2%      |
-| Motorola PCS motorola one 5G ace                                  | 1        | 2%      |
+| Motorola PCS moto g(8) plus                                       | 1        | 2%      |
 | Intel I211 Gigabit Network Connection                             | 1        | 2%      |
 | Intel Ethernet Connection I217-V                                  | 1        | 2%      |
 | Intel Ethernet Connection (2) I219-LM                             | 1        | 2%      |

@@ -1215,7 +1215,7 @@ Monitor models
 | Goldstar ULTRAGEAR GSM5B73 1920x1080 531x298mm 24.0-inch            | 1        | 6.67%   |
 | Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 6.67%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 6.67%   |
-| Acer K222HQL ACR0512 1920x1080 480x270mm 21.7-inch                  | 1        | 6.67%   |
+| Acer K222HQL ACR0512 1920x1080 476x268mm 21.5-inch                  | 1        | 6.67%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 6.67%   |
 
 Monitor Resolution
@@ -1366,7 +1366,7 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 4%      |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 4%      |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 4%      |
-| Motorola PCS moto g power (2021)                                  | 1        | 4%      |
+| Motorola PCS moto g stylus 5G (2022)                              | 1        | 4%      |
 | Intel Wireless-AC 9260                                            | 1        | 4%      |
 | Intel Wireless 8260                                               | 1        | 4%      |
 | Intel Wi-Fi 6 AX200                                               | 1        | 4%      |

@@ -608,8 +608,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 20       | 74.07%  |
-| Yes       | 7        | 25.93%  |
+| No        | 21       | 80.77%  |
+| Yes       | 5        | 19.23%  |
 
 Has Ethernet
 ------------
@@ -789,7 +789,7 @@ Hard drive models
 | Seagate ST2000LM003 HN-M201RAD 2TB  | 1        | 1.82%   |
 | Seagate ST2000DM001-1ER164 2TB      | 1        | 1.82%   |
 | Seagate ST1000DM003-1SB10C 1TB      | 1        | 1.82%   |
-| Seagate BUP Slim SL 1TB             | 1        | 1.82%   |
+| Seagate BUP Slim SL 2TB             | 1        | 1.82%   |
 | SanDisk SD6SF1M128G1022I 128GB SSD  | 1        | 1.82%   |
 | SanDisk NVMe SSD Drive 250GB        | 1        | 1.82%   |
 | Samsung SSD 970 EVO Plus 1TB        | 1        | 1.82%   |
@@ -872,8 +872,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 20       | 39     | 60.61%  |
-| 0.51-1.0   | 8        | 10     | 24.24%  |
-| 1.01-2.0   | 5        | 8      | 15.15%  |
+| 0.51-1.0   | 7        | 9      | 21.21%  |
+| 1.01-2.0   | 6        | 9      | 18.18%  |
 
 Space Total
 -----------
@@ -1393,17 +1393,17 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch             | 1        | 3.57%   |
 | Unknown LCD Monitor SAMSUNG 3840x1080                                 | 1        | 3.57%   |
+| Toshiba TV TSB0205 1360x765 886x498mm 40.0-inch                       | 1        | 3.57%   |
 | Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch                      | 1        | 3.57%   |
-| Toshiba TSB-TV TSB0205 1920x1080 531x398mm 26.1-inch                  | 1        | 3.57%   |
 | STD LCD Monitor STD0001 1920x1080                                     | 1        | 3.57%   |
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
 | Plain Tree Systems Monitor PTS0899 1680x1050 474x296mm 22.0-inch      | 1        | 3.57%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1        | 3.57%   |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch           | 1        | 3.57%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch            | 1        | 3.57%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch            | 1        | 3.57%   |
 | Lenovo L200pwD LEN1156 1680x1050 430x270mm 20.0-inch                  | 1        | 3.57%   |
-| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 1        | 3.57%   |
+| Goldstar Ultra HD GSM5B08 3780x2160 600x340mm 27.2-inch               | 1        | 3.57%   |
 | Goldstar L1742 GSM449B 1280x1024 338x270mm 17.0-inch                  | 1        | 3.57%   |
 | Goldstar L1730S GSM438D 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
 | Dell P2412H DELA07D 1920x1080 530x300mm 24.0-inch                     | 1        | 3.57%   |
@@ -1594,7 +1594,7 @@ Controller models
 | Intel Ethernet Connection I217-LM                                       | 2        | 3.33%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 2        | 3.33%   |
 | vivo 1806                                                               | 1        | 1.67%   |
-| TP-Link Archer T4U ver.3                                                | 1        | 1.67%   |
+| TP-Link 802.11ac NIC                                                    | 1        | 1.67%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                 | 1        | 1.67%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                | 1        | 1.67%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1        | 1.67%   |
@@ -1609,13 +1609,13 @@ Controller models
 | Microsoft Xbox360 Wireless N Networking Adapter [Atheros AR7010+AR9280] | 1        | 1.67%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 1.67%   |
 | Mercucys 802.11n NIC                                                    | 1        | 1.67%   |
-| MediaTek TECNO CAMON 18P                                                | 1        | 1.67%   |
+| MediaTek Armor 8 Pro                                                    | 1        | 1.67%   |
 | Intel Wi-Fi 6 AX200                                                     | 1        | 1.67%   |
 | Intel I211 Gigabit Network Connection                                   | 1        | 1.67%   |
 | Intel Ethernet Connection I217-V                                        | 1        | 1.67%   |
 | Intel 82583V Gigabit Network Connection                                 | 1        | 1.67%   |
 | Intel 82579V Gigabit Network Connection                                 | 1        | 1.67%   |
-| ICS Advent USB 10/100 LAN                                               | 1        | 1.67%   |
+| ICS Advent 10/100M LAN                                                  | 1        | 1.67%   |
 | Gemtek WUBR-177G [Ralink RT2571W]                                       | 1        | 1.67%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]    | 1        | 1.67%   |
 | Broadcom Network controller                                             | 1        | 1.67%   |
@@ -1657,7 +1657,7 @@ Wireless models
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 5        | 19.23%  |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 2        | 7.69%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                        | 2        | 7.69%   |
-| TP-Link Archer T4U ver.3                                                | 1        | 3.85%   |
+| TP-Link 802.11ac NIC                                                    | 1        | 3.85%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                 | 1        | 3.85%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                | 1        | 3.85%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1        | 3.85%   |
@@ -1711,12 +1711,12 @@ Ethernet models
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.03%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.03%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 3.03%   |
-| MediaTek TECNO CAMON 18P                                          | 1        | 3.03%   |
+| MediaTek Armor 8 Pro                                              | 1        | 3.03%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 3.03%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 3.03%   |
 | Intel 82583V Gigabit Network Connection                           | 1        | 3.03%   |
 | Intel 82579V Gigabit Network Connection                           | 1        | 3.03%   |
-| ICS Advent USB 10/100 LAN                                         | 1        | 3.03%   |
+| ICS Advent 10/100M LAN                                            | 1        | 3.03%   |
 
 Net Controller Kind
 -------------------
@@ -1908,8 +1908,8 @@ Memory module models
 | Silicon Power RAM SP016GBLFU266B02 16GB DIMM DDR4 2667MT/s | 1        | 5.56%   |
 | Samsung RAM M378B5773DH0-CK0 2GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s        | 1        | 5.56%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 5.56%   |
-| Kingston RAM KHX1866C10D3/8G 8192MB DIMM DDR3 2133MT/s     | 1        | 5.56%   |
+| Samsung RAM M378B5173DB0-CK0 4096MB DIMM DDR3 1600MT/s     | 1        | 5.56%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 5.56%   |
 | Kingston RAM 9905678-005.A00G 8GB DIMM DDR4 2400MT/s       | 1        | 5.56%   |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s     | 1        | 5.56%   |
 | Crucial RAM CT16G4SFD8266.M16FJ 16GB SODIMM DDR4 2667MT/s  | 1        | 5.56%   |

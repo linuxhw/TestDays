@@ -831,7 +831,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 1TB                   | 1        | 2.08%   |
 | Samsung MZVLB256HAHQ-000L7 256GB             | 1        | 2.08%   |
 | Samsung MZMPC064HBDR-000L1 64GB SSD          | 1        | 2.08%   |
-| Origin Inception TLC830 SSD 256GB            | 1        | 2.08%   |
+| Origin Inception TLC830 SSD 120GB            | 1        | 2.08%   |
 | ORICO CN300-250G                             | 1        | 2.08%   |
 | Micron/Crucial NVMe SSD Drive 500GB          | 1        | 2.08%   |
 | Micron Crucial X6 SSD 500GB                  | 1        | 2.08%   |
@@ -839,7 +839,7 @@ Hard drive models
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.08%   |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.08%   |
 | Kingston SV300S37A120G 120GB SSD             | 1        | 2.08%   |
-| JMicron Generic 500GB                        | 1        | 2.08%   |
+| JMicron Generic 200GB                        | 1        | 2.08%   |
 | Hitachi HDS728080PLA380 82GB                 | 1        | 2.08%   |
 
 HDD Vendor
@@ -850,14 +850,15 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| Seagate | 8        | 10     | 47.06%  |
-| WDC     | 4        | 6      | 23.53%  |
-| Hitachi | 2        | 2      | 11.76%  |
-| Toshiba | 1        | 1      | 5.88%   |
-| Maxtor  | 1        | 1      | 5.88%   |
-| ASMT    | 1        | 1      | 5.88%   |
+| Vendor             | Desktops | Drives | Percent |
+|--------------------|----------|--------|---------|
+| Seagate            | 8        | 10     | 44.44%  |
+| WDC                | 4        | 6      | 22.22%  |
+| Hitachi            | 2        | 2      | 11.11%  |
+| Toshiba            | 1        | 1      | 5.56%   |
+| Maxtor             | 1        | 1      | 5.56%   |
+| JMicron Technology | 1        | 1      | 5.56%   |
+| ASMT               | 1        | 1      | 5.56%   |
 
 SSD Vendor
 ----------
@@ -869,19 +870,18 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 3        | 3      | 16.67%  |
-| Kingston            | 3        | 4      | 16.67%  |
-| SanDisk             | 2        | 2      | 11.11%  |
-| WDC                 | 1        | 1      | 5.56%   |
-| Seagate             | 1        | 1      | 5.56%   |
-| Origin              | 1        | 1      | 5.56%   |
-| Micron Technology   | 1        | 1      | 5.56%   |
-| LITEONIT            | 1        | 1      | 5.56%   |
-| Leven               | 1        | 1      | 5.56%   |
-| JMicron Technology  | 1        | 1      | 5.56%   |
-| Crucial             | 1        | 1      | 5.56%   |
-| China               | 1        | 1      | 5.56%   |
-| A-DATA Technology   | 1        | 1      | 5.56%   |
+| Samsung Electronics | 3        | 3      | 17.65%  |
+| Kingston            | 3        | 4      | 17.65%  |
+| SanDisk             | 2        | 2      | 11.76%  |
+| WDC                 | 1        | 1      | 5.88%   |
+| Seagate             | 1        | 1      | 5.88%   |
+| Origin              | 1        | 1      | 5.88%   |
+| Micron Technology   | 1        | 1      | 5.88%   |
+| LITEONIT            | 1        | 1      | 5.88%   |
+| Leven               | 1        | 1      | 5.88%   |
+| Crucial             | 1        | 1      | 5.88%   |
+| China               | 1        | 1      | 5.88%   |
+| A-DATA Technology   | 1        | 1      | 5.88%   |
 
 Drive Kind
 ----------
@@ -893,11 +893,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 15       | 19     | 39.47%  |
-| HDD     | 14       | 21     | 36.84%  |
-| NVMe    | 5        | 8      | 13.16%  |
-| MMC     | 2        | 2      | 5.26%   |
-| Unknown | 2        | 2      | 5.26%   |
+| SSD     | 14       | 18     | 37.84%  |
+| HDD     | 14       | 22     | 37.84%  |
+| NVMe    | 5        | 8      | 13.51%  |
+| MMC     | 2        | 2      | 5.41%   |
+| Unknown | 2        | 2      | 5.41%   |
 
 Drive Connector
 ---------------
@@ -2042,12 +2042,12 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| Sonix USB 2.0 Camera                  | 1        | 25%     |
-| Microsoft LifeCam VX-2000             | 1        | 25%     |
-| Microdia Laptop_Integrated_Webcam_FHD | 1        | 25%     |
-| Logitech Webcam B500                  | 1        | 25%     |
+| Model                      | Desktops | Percent |
+|----------------------------|----------|---------|
+| Sonix USB 2.0 Camera       | 1        | 25%     |
+| Microsoft LifeCam VX-2000  | 1        | 25%     |
+| Microdia Integrated Camera | 1        | 25%     |
+| Logitech Webcam B500       | 1        | 25%     |
 
 Security
 --------

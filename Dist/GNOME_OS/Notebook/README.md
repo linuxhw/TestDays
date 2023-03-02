@@ -1348,7 +1348,7 @@ Monitor models
 | BOE LCD Monitor BOE065F 1920x1080 344x194mm 15.5-inch                | 1         | 3.57%   |
 | BOE LCD Monitor BOE0615 1366x768 309x173mm 13.9-inch                 | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO683D 1920x1080 309x174mm 14.0-inch       | 1         | 3.57%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch       | 1         | 3.57%   |
+| AU Optronics LCD Monitor AUO61ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO305D 1920x1080 256x144mm 11.6-inch       | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO233C 1366x768 309x173mm 13.9-inch        | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO223D 1920x1080 309x174mm 14.0-inch       | 1         | 3.57%   |
@@ -1519,7 +1519,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 1.92%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.92%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.92%   |
-| Google Pixel 6                                                    | 1         | 1.92%   |
+| Google Pixel 6a                                                   | 1         | 1.92%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.92%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.92%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 1.92%   |
@@ -1610,7 +1610,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 4%      |
 | Intel Ethernet Connection I217-LM                                 | 1         | 4%      |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 4%      |
-| Google Pixel 6                                                    | 1         | 4%      |
+| Google Pixel 6a                                                   | 1         | 4%      |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 4%      |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 4%      |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 4%      |
@@ -1705,12 +1705,13 @@ Controller models
 | Realtek Bluetooth Radio                      | 3         | 13.04%  |
 | Intel Bluetooth wireless interface           | 3         | 13.04%  |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device | 2         | 8.7%    |
-| Lite-On Bluetooth Device                     | 2         | 8.7%    |
 | Apple Bluetooth Host Controller              | 2         | 8.7%    |
 | Toshiba Bluetooth Device                     | 1         | 4.35%   |
 | Realtek RTL8821A Bluetooth                   | 1         | 4.35%   |
 | Realtek  Bluetooth 4.2 Adapter               | 1         | 4.35%   |
 | Qualcomm Atheros AR9462 Bluetooth            | 1         | 4.35%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth   | 1         | 4.35%   |
+| Lite-On Bluetooth Device                     | 1         | 4.35%   |
 | Intel AX200 Bluetooth                        | 1         | 4.35%   |
 | Dell Broadcom BCM20702A0 Bluetooth           | 1         | 4.35%   |
 | Broadcom BCM43142A0 Bluetooth Device         | 1         | 4.35%   |

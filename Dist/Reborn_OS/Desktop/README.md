@@ -834,8 +834,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 32       | 50%     |
-| No        | 32       | 50%     |
+| No        | 35       | 54.69%  |
+| Yes       | 29       | 45.31%  |
 
 Has Ethernet
 ------------
@@ -983,7 +983,7 @@ Hard drive vendors
 | Phison              | 6        | 7      | 4.96%   |
 | Hitachi             | 6        | 6      | 4.96%   |
 | Crucial             | 5        | 6      | 4.13%   |
-| SanDisk             | 4        | 5      | 3.31%   |
+| Sandisk             | 4        | 5      | 3.31%   |
 | Kingston            | 4        | 4      | 3.31%   |
 | ZOTAC               | 2        | 2      | 1.65%   |
 | Unknown             | 2        | 2      | 1.65%   |
@@ -1024,7 +1024,7 @@ Hard drive models
 | Seagate ST3500312CS 500GB        | 2        | 1.47%   |
 | Seagate ST2000DM006-2DM164 2TB   | 2        | 1.47%   |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 1.47%   |
-| Seagate Expansion Desk 6TB       | 2        | 1.47%   |
+| Seagate Expansion Desk 5TB       | 2        | 1.47%   |
 | Samsung SSD 850 EVO 500GB        | 2        | 1.47%   |
 | PNY CS900 120GB SSD              | 2        | 1.47%   |
 | Phison NVMe SSD Drive 960GB      | 2        | 1.47%   |
@@ -1067,15 +1067,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 25       | 32     | 42.37%  |
-| Seagate             | 17       | 23     | 28.81%  |
-| Hitachi             | 6        | 6      | 10.17%  |
-| Toshiba             | 5        | 5      | 8.47%   |
-| Samsung Electronics | 2        | 2      | 3.39%   |
-| Unknown             | 1        | 1      | 1.69%   |
-| JMicron Technology  | 1        | 1      | 1.69%   |
-| HGST                | 1        | 1      | 1.69%   |
-| ASMT                | 1        | 1      | 1.69%   |
+| WDC                 | 25       | 32     | 43.1%   |
+| Seagate             | 17       | 23     | 29.31%  |
+| Hitachi             | 6        | 6      | 10.34%  |
+| Toshiba             | 5        | 5      | 8.62%   |
+| Samsung Electronics | 2        | 2      | 3.45%   |
+| Unknown             | 1        | 1      | 1.72%   |
+| JMicron Technology  | 1        | 1      | 1.72%   |
+| HGST                | 1        | 1      | 1.72%   |
 
 SSD Vendor
 ----------
@@ -1087,23 +1086,24 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 13     | 34.21%  |
-| Kingston            | 4        | 4      | 10.53%  |
-| Crucial             | 4        | 5      | 10.53%  |
-| ZOTAC               | 2        | 2      | 5.26%   |
-| SanDisk             | 2        | 3      | 5.26%   |
-| PNY                 | 2        | 2      | 5.26%   |
-| WDC                 | 1        | 1      | 2.63%   |
-| Toshiba             | 1        | 1      | 2.63%   |
-| Patriot             | 1        | 1      | 2.63%   |
-| OCZ                 | 1        | 2      | 2.63%   |
-| KingSpec            | 1        | 1      | 2.63%   |
-| Hewlett-Packard     | 1        | 2      | 2.63%   |
-| Gigabyte Technology | 1        | 2      | 2.63%   |
-| Emtec               | 1        | 1      | 2.63%   |
-| Drevo               | 1        | 1      | 2.63%   |
-| AMD                 | 1        | 1      | 2.63%   |
-| A-DATA Technology   | 1        | 1      | 2.63%   |
+| Samsung Electronics | 13       | 13     | 33.33%  |
+| Kingston            | 4        | 4      | 10.26%  |
+| Crucial             | 4        | 5      | 10.26%  |
+| ZOTAC               | 2        | 2      | 5.13%   |
+| SanDisk             | 2        | 3      | 5.13%   |
+| PNY                 | 2        | 2      | 5.13%   |
+| WDC                 | 1        | 1      | 2.56%   |
+| Toshiba             | 1        | 1      | 2.56%   |
+| Patriot             | 1        | 1      | 2.56%   |
+| OCZ                 | 1        | 2      | 2.56%   |
+| KingSpec            | 1        | 1      | 2.56%   |
+| Hewlett-Packard     | 1        | 2      | 2.56%   |
+| Gigabyte Technology | 1        | 2      | 2.56%   |
+| Emtec               | 1        | 1      | 2.56%   |
+| Drevo               | 1        | 1      | 2.56%   |
+| ASMT                | 1        | 1      | 2.56%   |
+| AMD                 | 1        | 1      | 2.56%   |
+| A-DATA Technology   | 1        | 1      | 2.56%   |
 
 Drive Kind
 ----------
@@ -1115,10 +1115,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 42       | 72     | 44.21%  |
-| SSD     | 30       | 43     | 31.58%  |
-| NVMe    | 21       | 30     | 22.11%  |
-| Unknown | 2        | 2      | 2.11%   |
+| HDD     | 41       | 71     | 43.62%  |
+| SSD     | 30       | 44     | 31.91%  |
+| NVMe    | 21       | 30     | 22.34%  |
+| Unknown | 2        | 2      | 2.13%   |
 
 Drive Connector
 ---------------
@@ -1144,12 +1144,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 41       | 62     | 48.81%  |
-| 0.51-1.0   | 30       | 36     | 35.71%  |
-| 1.01-2.0   | 6        | 8      | 7.14%   |
-| 2.01-3.0   | 3        | 4      | 3.57%   |
-| 4.01-10.0  | 3        | 4      | 3.57%   |
-| 3.01-4.0   | 1        | 1      | 1.19%   |
+| 0.01-0.5   | 41       | 63     | 49.4%   |
+| 0.51-1.0   | 29       | 35     | 34.94%  |
+| 1.01-2.0   | 6        | 8      | 7.23%   |
+| 2.01-3.0   | 3        | 4      | 3.61%   |
+| 4.01-10.0  | 3        | 4      | 3.61%   |
+| 3.01-4.0   | 1        | 1      | 1.2%    |
 
 Space Total
 -----------
@@ -1727,48 +1727,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch   | 2        | 2.6%    |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                  | 2        | 2.6%    |
-| Vizio E400i-C2 VIZ1004 1920x1080 477x268mm 21.5-inch                    | 1        | 1.3%    |
-| Vestel LCD Monitor 32W_LCD_TV                                           | 1        | 1.3%    |
-| Unknown LCD Monitor DAC Moniter 5760x1080                               | 1        | 1.3%    |
-| Sony TV SNYF301 1920x1080                                               | 1        | 1.3%    |
-| Sceptre Tech Sceptre M25 SPT0A05 1920x1080 597x336mm 27.0-inch          | 1        | 1.3%    |
-| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch    | 1        | 1.3%    |
-| Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch     | 1        | 1.3%    |
-| Samsung Electronics SMB1930N SAM0632 1360x768 410x230mm 18.5-inch       | 1        | 1.3%    |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 1.3%    |
-| Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch       | 1        | 1.3%    |
-| Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch       | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1872x1053mm 84.6-inch | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor SAM094E 1920x1080 700x390mm 31.5-inch   | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor SAM07BA 1920x1080 820x460mm 37.0-inch   | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor S24D300 1920x1080                       | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor S22D300 1920x1080                       | 1        | 1.3%    |
-| Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch       | 1        | 1.3%    |
-| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch                | 1        | 1.3%    |
-| Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch                 | 1        | 1.3%    |
-| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                | 1        | 1.3%    |
-| Philips LCD Monitor PHL 276E8V 7680x2160                                | 1        | 1.3%    |
-| Philips LCD Monitor PHL 276E8V                                          | 1        | 1.3%    |
-| ONN onn. TV ONN007D 3840x2160 800x450mm 36.1-inch                       | 1        | 1.3%    |
-| MSI Optix G27C2 MSI1462 1920x1080 600x330mm 27.0-inch                   | 1        | 1.3%    |
-| MSI MPG341CQR MSI3DA0 3440x1440 797x334mm 34.0-inch                     | 1        | 1.3%    |
-| Microstep LCD Monitor Optix MAG24C 3840x1200                            | 1        | 1.3%    |
-| Medion Medion23.6 PC MEDB603 1920x1080 477x268mm 21.5-inch              | 1        | 1.3%    |
-| Iiyama PL2493H IVM6148 1920x1080 527x296mm 23.8-inch                    | 1        | 1.3%    |
-| Hitachi HISENSE HEC002F 3840x2160 1872x1053mm 84.6-inch                 | 1        | 1.3%    |
-| Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch            | 1        | 1.3%    |
-| Hewlett-Packard w2228h HWP2810 1680x1050 473x296mm 22.0-inch            | 1        | 1.3%    |
-| Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch             | 1        | 1.3%    |
-| Hewlett-Packard vs19x HWP2658 1280x1024 376x301mm 19.0-inch             | 1        | 1.3%    |
-| Hewlett-Packard LCD Monitor x23LED 1920x1080                            | 1        | 1.3%    |
-| Hewlett-Packard LA1905 HWP2845 1440x900 408x255mm 18.9-inch             | 1        | 1.3%    |
-| Hewlett-Packard Compaq S1922 HWP290B 1366x768 413x234mm 18.7-inch       | 1        | 1.3%    |
-| Hewlett-Packard 27ea HPN3395 1920x1080 527x296mm 23.8-inch              | 1        | 1.3%    |
-| Hewlett-Packard 2159 HWP282A 1920x1080 479x269mm 21.6-inch              | 1        | 1.3%    |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch | 2        | 2.6%    |
+| MSI MAG341CQ MSI1462 3440x1440 797x334mm 34.0-inch                    | 2        | 2.6%    |
+| Vizio D43-D2 VIZ1004 1920x1080 477x268mm 21.5-inch                    | 1        | 1.3%    |
+| Vestel LCD Monitor 32W_LCD_TV                                         | 1        | 1.3%    |
+| Unknown LCD Monitor DAC Moniter 5760x1080                             | 1        | 1.3%    |
+| Sony TV SNYF301 1920x1080                                             | 1        | 1.3%    |
+| Sceptre Tech Sceptre M25 SPT0A05 1920x1080 597x336mm 27.0-inch        | 1        | 1.3%    |
+| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch  | 1        | 1.3%    |
+| Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch   | 1        | 1.3%    |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch     | 1        | 1.3%    |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 1.3%    |
+| Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 1.3%    |
+| Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch     | 1        | 1.3%    |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 890x500mm 40.2-inch | 1        | 1.3%    |
+| Samsung Electronics LCD Monitor SAM094E 1920x1080 700x390mm 31.5-inch | 1        | 1.3%    |
+| Samsung Electronics LCD Monitor SAM07BA 1920x1080                     | 1        | 1.3%    |
+| Samsung Electronics LCD Monitor S24D300 1920x1080                     | 1        | 1.3%    |
+| Samsung Electronics LCD Monitor S22D300 1920x1080                     | 1        | 1.3%    |
+| Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch     | 1        | 1.3%    |
+| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch              | 1        | 1.3%    |
+| Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch               | 1        | 1.3%    |
+| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch              | 1        | 1.3%    |
+| Philips LCD Monitor PHL 276E8V 7680x2160                              | 1        | 1.3%    |
+| Philips LCD Monitor PHL 276E8V                                        | 1        | 1.3%    |
+| ONN onn. TV ONN007D 3840x2160 800x450mm 36.1-inch                     | 1        | 1.3%    |
+| MSI Optix G27C2 MSI1462 1920x1080 600x330mm 27.0-inch                 | 1        | 1.3%    |
+| MSI MPG341CQR MSI3DA0 3440x1440 797x334mm 34.0-inch                   | 1        | 1.3%    |
+| Microstep LCD Monitor Optix MAG24C 3840x1200                          | 1        | 1.3%    |
+| Medion Medion23.6 PC MEDB603 1920x1080 477x268mm 21.5-inch            | 1        | 1.3%    |
+| Iiyama PL2493H IVM6148 1920x1080 527x296mm 23.8-inch                  | 1        | 1.3%    |
+| Hitachi HISENSE HEC002F 3840x2160 1095x616mm 49.5-inch                | 1        | 1.3%    |
+| Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch          | 1        | 1.3%    |
+| Hewlett-Packard w2228h HWP2810 1680x1050 473x296mm 22.0-inch          | 1        | 1.3%    |
+| Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch           | 1        | 1.3%    |
+| Hewlett-Packard vs19x HWP2658 1280x1024 376x301mm 19.0-inch           | 1        | 1.3%    |
+| Hewlett-Packard LCD Monitor x23LED 1920x1080                          | 1        | 1.3%    |
+| Hewlett-Packard LA1905 HWP2845 1440x900 408x255mm 18.9-inch           | 1        | 1.3%    |
+| Hewlett-Packard Compaq S1922 HWP290B 1366x768 413x234mm 18.7-inch     | 1        | 1.3%    |
+| Hewlett-Packard 27ea HPN3395 1920x1080 527x296mm 23.8-inch            | 1        | 1.3%    |
+| Hewlett-Packard 2159 HWP282A 1920x1080 479x269mm 21.6-inch            | 1        | 1.3%    |
 
 Monitor Resolution
 ------------------
@@ -2275,10 +2275,10 @@ Sound card models
 | Nvidia GP102 HDMI Audio Controller                                         | 1        | 0.76%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1        | 0.76%   |
 | Nvidia GK106 HDMI Audio Controller                                         | 1        | 0.76%   |
-| Nvidia Audio device                                                        | 1        | 0.76%   |
+| Nvidia AD102 High Definition Audio Controller                              | 1        | 0.76%   |
 | Logitech PRO X Wireless Gaming Headset                                     | 1        | 0.76%   |
 | Logitech H600 [Wireless Headset]                                           | 1        | 0.76%   |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 0.76%   |
+| JMTek USB PnP Audio Device                                                 | 1        | 0.76%   |
 
 Memory
 ------
@@ -2427,13 +2427,13 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                     | Desktops | Percent |
-|---------------------------|----------|---------|
-| Seiko Epson L120 Series   | 1        | 20%     |
-| HP LaserJet 1300          | 1        | 20%     |
-| HP DeskJet 3830 series    | 1        | 20%     |
-| HP DeskJet 2600 series    | 1        | 20%     |
-| Canon PIXMA MG2500 Series | 1        | 20%     |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Seiko Epson L120 Series            | 1        | 20%     |
+| HP LaserJet 1300                   | 1        | 20%     |
+| HP DeskJet 3830 series             | 1        | 20%     |
+| HP DeskJet 2620 All-in-One Printer | 1        | 20%     |
+| Canon PIXMA MG2500 Series          | 1        | 20%     |
 
 Scanner Vendor
 --------------
@@ -2479,17 +2479,17 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920              | 2        | 20%     |
-| Samsung Galaxy A5 (MTP)                  | 1        | 10%     |
-| Microdia USB 2.0 Camera                  | 1        | 10%     |
-| Logitech C922 Pro Stream Webcam          | 1        | 10%     |
-| KYE Systems (Mouse Systems) Slim 1322AF  | 1        | 10%     |
-| IMC Networks XHC Camera                  | 1        | 10%     |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
-| GEMBIRD USB2.0 PC CAMERA                 | 1        | 10%     |
-| Alcor Micro USB 2.0 PC Camera            | 1        | 10%     |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920             | 2        | 20%     |
+| Samsung Galaxy A5 (MTP)                 | 1        | 10%     |
+| Microdia USB 2.0 Camera                 | 1        | 10%     |
+| Logitech C922 Pro Stream Webcam         | 1        | 10%     |
+| KYE Systems (Mouse Systems) Slim 1322AF | 1        | 10%     |
+| IMC Networks XHC Camera                 | 1        | 10%     |
+| Generalplus 808 Camera                  | 1        | 10%     |
+| GEMBIRD USB2.0 PC CAMERA                | 1        | 10%     |
+| Alcor Micro USB 2.0 PC Camera           | 1        | 10%     |
 
 Security
 --------

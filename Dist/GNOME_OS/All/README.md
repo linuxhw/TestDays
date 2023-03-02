@@ -1541,7 +1541,7 @@ Monitor models
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch          | 1         | 2.13%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch          | 1         | 2.13%   |
 | LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch         | 1         | 2.13%   |
-| Insignia NS-19E320A13 BBY0032 1680x1050 640x384mm 29.4-inch          | 1         | 2.13%   |
+| Insignia NS24ED200NA14 BBY0032 1360x768 640x384mm 29.4-inch          | 1         | 2.13%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 2.13%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                  | 1         | 2.13%   |
 | Goldstar ULTRAGEAR GSM5B73 1920x1080 531x298mm 24.0-inch             | 1         | 2.13%   |
@@ -1559,7 +1559,7 @@ Monitor models
 | BOE LCD Monitor BOE0615 1366x768 309x173mm 13.9-inch                 | 1         | 2.13%   |
 | BenQ LCD BNQ8024 2560x1440 597x336mm 27.0-inch                       | 1         | 2.13%   |
 | AU Optronics LCD Monitor AUO683D 1920x1080 309x174mm 14.0-inch       | 1         | 2.13%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch       | 1         | 2.13%   |
+| AU Optronics LCD Monitor AUO61ED 1920x1080 344x193mm 15.5-inch       | 1         | 2.13%   |
 | AU Optronics LCD Monitor AUO305D 1920x1080 256x144mm 11.6-inch       | 1         | 2.13%   |
 | AU Optronics LCD Monitor AUO233C 1366x768 309x173mm 13.9-inch        | 1         | 2.13%   |
 | AU Optronics LCD Monitor AUO223D 1920x1080 309x174mm 14.0-inch       | 1         | 2.13%   |
@@ -1760,7 +1760,7 @@ Controller models
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.2%    |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.2%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.2%    |
-| Motorola PCS moto g power (2021)                                  | 1         | 1.2%    |
+| Motorola PCS moto g stylus 5G (2022)                              | 1         | 1.2%    |
 | Intel Wireless-AC 9260                                            | 1         | 1.2%    |
 | Intel Wireless 8260                                               | 1         | 1.2%    |
 | Intel Wireless 7265                                               | 1         | 1.2%    |
@@ -1774,7 +1774,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.2%    |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.2%    |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.2%    |
-| Google Pixel 6                                                    | 1         | 1.2%    |
+| Google Pixel 6a                                                   | 1         | 1.2%    |
 | Google Nexus/Pixel Device (tether)                                | 1         | 1.2%    |
 
 Wireless Vendor
@@ -1874,7 +1874,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 1         | 2.38%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2.38%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 2.38%   |
-| Google Pixel 6                                                    | 1         | 2.38%   |
+| Google Pixel 6a                                                   | 1         | 2.38%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 2.38%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 2.38%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 2.38%   |
@@ -1974,14 +1974,15 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                 | 3         | 8.82%   |
 | Apple Bluetooth Host Controller                | 3         | 8.82%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device   | 2         | 5.88%   |
-| Lite-On Bluetooth Device                       | 2         | 5.88%   |
 | Toshiba Bluetooth Device                       | 1         | 2.94%   |
 | Realtek RTL8821A Bluetooth                     | 1         | 2.94%   |
 | Qualcomm Atheros AR9462 Bluetooth              | 1         | 2.94%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth     | 1         | 2.94%   |
+| Lite-On Bluetooth Device                       | 1         | 2.94%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter       | 1         | 2.94%   |
 | Intel Wireless-AC 3168 Bluetooth               | 1         | 2.94%   |
-| Intel Bluetooth Device                         | 1         | 2.94%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 2.94%   |
+| Intel AX201 Bluetooth                          | 1         | 2.94%   |
 | Intel AX200 Bluetooth                          | 1         | 2.94%   |
 | Dell Broadcom BCM20702A0 Bluetooth             | 1         | 2.94%   |
 | Broadcom BCM43142A0 Bluetooth Device           | 1         | 2.94%   |

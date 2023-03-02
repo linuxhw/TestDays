@@ -796,8 +796,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 54       | 67.5%   |
-| No        | 26       | 32.5%   |
+| Yes       | 55       | 68.75%  |
+| No        | 25       | 31.25%  |
 
 Has Ethernet
 ------------
@@ -1311,11 +1311,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| IDE  | 49       | 52.69%  |
-| SATA | 34       | 36.56%  |
-| RAID | 7        | 7.53%   |
-| NVMe | 2        | 2.15%   |
-| SAS  | 1        | 1.08%   |
+| IDE  | 50       | 53.19%  |
+| SATA | 34       | 36.17%  |
+| RAID | 7        | 7.45%   |
+| NVMe | 2        | 2.13%   |
+| SAS  | 1        | 1.06%   |
 
 Processor
 ---------
@@ -1728,13 +1728,13 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch   | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                      | 1        | 1.28%   |
+| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                        | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
 | Sharp LCD SHP0FF0 1360x768                                              | 1        | 1.28%   |
-| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                  | 1        | 1.28%   |
+| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                   | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 520x290mm 23.4-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.28%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.28%   |
@@ -1748,7 +1748,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0669 1920x1080                       | 1        | 1.28%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch       | 1        | 1.28%   |
 | Panasonic TH-42PD25U MEIA023 1920x540 920x518mm 41.6-inch               | 1        | 1.28%   |
-| MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.28%   |
+| MPI MPI7002 MPI7002 1280x1024 255x255mm 14.2-inch                       | 1        | 1.28%   |
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.28%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.28%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.28%   |
@@ -1758,10 +1758,10 @@ Monitor models
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch              | 1        | 1.28%   |
 | Hewlett-Packard LCD Monitor 2711 1920x1080                              | 1        | 1.28%   |
 | Hewlett-Packard L1955 HWP262C 1280x1024 380x300mm 19.1-inch             | 1        | 1.28%   |
-| Hewlett-Packard L1506 HWP265B 1024x768 304x228mm 15.0-inch              | 1        | 1.28%   |
+| Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch              | 1        | 1.28%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch             | 1        | 1.28%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 1        | 1.28%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.28%   |
 
 Monitor Resolution
@@ -1818,13 +1818,12 @@ Diagonal size in inches
 | 20      | 3        | 4%      |
 | 84      | 2        | 2.67%   |
 | 34      | 2        | 2.67%   |
+| 14      | 2        | 2.67%   |
 | 74      | 1        | 1.33%   |
 | 41      | 1        | 1.33%   |
 | 40      | 1        | 1.33%   |
 | 32      | 1        | 1.33%   |
 | 16      | 1        | 1.33%   |
-| 14      | 1        | 1.33%   |
-| 8       | 1        | 1.33%   |
 
 Monitor Width
 -------------
@@ -1844,9 +1843,8 @@ Physical width
 | 601-700     | 4        | 5.26%   |
 | 701-800     | 3        | 3.95%   |
 | 1501-2000   | 3        | 3.95%   |
+| 201-300     | 2        | 2.63%   |
 | 801-900     | 1        | 1.32%   |
-| 201-300     | 1        | 1.32%   |
-| 101-200     | 1        | 1.32%   |
 | 901-1000    | 1        | 1.32%   |
 
 Aspect Ratio
@@ -1863,9 +1861,10 @@ Proportional relationship between the width and the height
 | Unknown | 10       | 13.89%  |
 | 5/4     | 9        | 12.5%   |
 | 16/10   | 8        | 11.11%  |
-| 4/3     | 4        | 5.56%   |
 | 6/5     | 3        | 4.17%   |
+| 4/3     | 3        | 4.17%   |
 | 21/9    | 2        | 2.78%   |
+| 1.00    | 1        | 1.39%   |
 
 Monitor Area
 ------------
@@ -1882,11 +1881,10 @@ Area in inch²
 | 201-250        | 10       | 13.51%  |
 | 141-150        | 10       | 13.51%  |
 | 351-500        | 6        | 8.11%   |
+| 101-110        | 6        | 8.11%   |
 | 301-350        | 5        | 6.76%   |
-| 101-110        | 5        | 6.76%   |
 | More than 1000 | 3        | 4.05%   |
 | 501-1000       | 2        | 2.7%    |
-| 1-40           | 1        | 1.35%   |
 | 251-300        | 1        | 1.35%   |
 | 131-140        | 1        | 1.35%   |
 | 121-130        | 1        | 1.35%   |
@@ -1901,11 +1899,10 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 47       | 65.28%  |
-| Unknown | 13       | 18.06%  |
-| 101-120 | 8        | 11.11%  |
-| 1-50    | 3        | 4.17%   |
-| 161-240 | 1        | 1.39%   |
+| 51-100  | 47       | 66.2%   |
+| Unknown | 13       | 18.31%  |
+| 101-120 | 8        | 11.27%  |
+| 1-50    | 3        | 4.23%   |
 
 Multiple Monitors
 -----------------
@@ -2362,8 +2359,8 @@ Memory module models
 | SK hynix RAM Module 2GB DIMM DDR3 1600MT/s            | 1        | 5.56%   |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s          | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
-| Samsung RAM M378B2873FHS-CH9 4GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s        | 1        | 5.56%   |
+| Samsung RAM M378B2873FHS-CH9 1GB DIMM 1600MT/s        | 1        | 5.56%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s           | 1        | 5.56%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |

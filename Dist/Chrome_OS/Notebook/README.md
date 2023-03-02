@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 71
+Total: 72
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Google        | Gnawty                      | [e2b489f0a7](https://linux-hardware.org/?probe=e2b489f0a7) | Feb 01, 2023 |
 | Google        | Gnawty                      | [4188917829](https://linux-hardware.org/?probe=4188917829) | Jan 31, 2023 |
 | Intel Clie... | LAPKC71F                    | [3ae3afeece](https://linux-hardware.org/?probe=3ae3afeece) | Jul 13, 2022 |
 | Dell          | XPS 15 7590                 | [91780395d8](https://linux-hardware.org/?probe=91780395d8) | Dec 25, 2021 |
@@ -685,8 +686,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 27        | 61.36%  |
-| Yes       | 17        | 38.64%  |
+| No        | 28        | 63.64%  |
+| Yes       | 16        | 36.36%  |
 
 Has Ethernet
 ------------
@@ -828,7 +829,7 @@ Hard drive vendors
 
 | Vendor                  | Notebooks | Drives | Percent |
 |-------------------------|-----------|--------|---------|
-| Unknown                 | 17        | 22     | 35.42%  |
+| Unknown                 | 17        | 23     | 35.42%  |
 | WDC                     | 5         | 6      | 10.42%  |
 | Hitachi                 | 5         | 5      | 10.42%  |
 | Samsung Electronics     | 4         | 5      | 8.33%   |
@@ -869,7 +870,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 500GB                   | 1         | 1.96%   |
+| TO Exter nal USB 3.0 240GB                   | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -935,7 +936,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| MMC  | 17        | 22     | 35.42%  |
+| MMC  | 17        | 23     | 35.42%  |
 | HDD  | 17        | 18     | 35.42%  |
 | SSD  | 11        | 14     | 22.92%  |
 | NVMe | 3         | 4      | 6.25%   |
@@ -951,7 +952,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 26        | 31     | 55.32%  |
-| MMC  | 17        | 22     | 36.17%  |
+| MMC  | 17        | 23     | 36.17%  |
 | NVMe | 3         | 4      | 6.38%   |
 | SAS  | 1         | 1      | 2.13%   |
 
@@ -1050,7 +1051,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 43        | 55     | 95.56%  |
+| Detected | 43        | 56     | 95.56%  |
 | Works    | 2         | 3      | 4.44%   |
 
 Storage controller
@@ -1447,7 +1448,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.17%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC3651 1366x768 340x190mm 15.3-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 2.17%   |
@@ -1460,7 +1461,7 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 2.17%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 2.17%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 2.17%   |
-| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch                  | 1         | 2.17%   |
+| Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch                  | 1         | 2.17%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 2.17%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 2.17%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 2.17%   |
@@ -1870,7 +1871,7 @@ Controller models
 | Realtek RTL8723B Bluetooth                          | 1         | 3.85%   |
 | Realtek Bluetooth Radio                             | 1         | 3.85%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.85%   |
-| Lite-On Bluetooth Device                            | 1         | 3.85%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.85%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.85%   |
 | Intel AX200 Bluetooth                               | 1         | 3.85%   |
 | IMC Networks Bluetooth Device                       | 1         | 3.85%   |
@@ -2092,8 +2093,8 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 3.03%   |
 | Sunplus HD WebCam                                       | 1         | 3.03%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.03%   |
-| Realtek USB Camera                                      | 1         | 3.03%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.03%   |
+| Realtek 2SF022                                          | 1         | 3.03%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.03%   |
 | Microdia HP Webcam                                      | 1         | 3.03%   |
 | Importek HP Webcam                                      | 1         | 3.03%   |

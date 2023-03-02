@@ -1,5 +1,5 @@
-Linux Community Hardware Test Coverage
---------------------------------------
+Linux Community Hardware Test Days
+----------------------------------
 
 A project to collect tested hardware configurations for upcoming and released versions of Linux distributions.
 
@@ -7,7 +7,7 @@ Anyone can contribute to this project by the [hw-probe](https://github.com/linux
 
     sudo -E hw-probe -all -upload
 
-This report is for real hardware. Report for virtual hardware: [TestCoverage_VE](https://github.com/linuxhw/TestCoverage_VE)
+This report is for real hardware. Report for virtual hardware: [TestDays_VE](https://github.com/linuxhw/TestDays_VE)
 
 Contents
 --------

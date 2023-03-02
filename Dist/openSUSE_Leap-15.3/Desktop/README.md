@@ -973,15 +973,16 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 28       | 42     | 38.36%  |
-| WDC                 | 26       | 42     | 35.62%  |
-| Samsung Electronics | 7        | 14     | 9.59%   |
-| Toshiba             | 4        | 4      | 5.48%   |
-| Hitachi             | 4        | 6      | 5.48%   |
-| Unknown             | 1        | 1      | 1.37%   |
-| HGST HTS            | 1        | 1      | 1.37%   |
-| HGST                | 1        | 1      | 1.37%   |
-| Fujitsu             | 1        | 1      | 1.37%   |
+| Seagate             | 28       | 42     | 37.84%  |
+| WDC                 | 26       | 42     | 35.14%  |
+| Samsung Electronics | 7        | 14     | 9.46%   |
+| Toshiba             | 4        | 4      | 5.41%   |
+| Hitachi             | 4        | 6      | 5.41%   |
+| Unknown             | 1        | 1      | 1.35%   |
+| JMicron Technology  | 1        | 1      | 1.35%   |
+| HGST HTS            | 1        | 1      | 1.35%   |
+| HGST                | 1        | 1      | 1.35%   |
+| Fujitsu             | 1        | 1      | 1.35%   |
 
 SSD Vendor
 ----------
@@ -993,19 +994,18 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 21     | 26%     |
-| WDC                 | 8        | 9      | 16%     |
-| Kingston            | 8        | 10     | 16%     |
-| SanDisk             | 5        | 6      | 10%     |
-| A-DATA Technology   | 4        | 4      | 8%      |
-| Crucial             | 3        | 4      | 6%      |
-| Toshiba             | 2        | 2      | 4%      |
-| Intel               | 2        | 2      | 4%      |
-| TO Exter            | 1        | 1      | 2%      |
-| Micron Technology   | 1        | 2      | 2%      |
-| JMicron Technology  | 1        | 1      | 2%      |
-| Inateck             | 1        | 1      | 2%      |
-| Apacer              | 1        | 3      | 2%      |
+| Samsung Electronics | 13       | 21     | 26.53%  |
+| WDC                 | 8        | 9      | 16.33%  |
+| Kingston            | 8        | 10     | 16.33%  |
+| SanDisk             | 5        | 6      | 10.2%   |
+| A-DATA Technology   | 4        | 4      | 8.16%   |
+| Crucial             | 3        | 4      | 6.12%   |
+| Toshiba             | 2        | 2      | 4.08%   |
+| Intel               | 2        | 2      | 4.08%   |
+| TO Exter            | 1        | 1      | 2.04%   |
+| Micron Technology   | 1        | 2      | 2.04%   |
+| Inateck             | 1        | 1      | 2.04%   |
+| Apacer              | 1        | 3      | 2.04%   |
 
 Drive Kind
 ----------
@@ -1017,8 +1017,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 54       | 112    | 46.96%  |
-| SSD     | 41       | 66     | 35.65%  |
+| HDD     | 54       | 113    | 46.96%  |
+| SSD     | 41       | 65     | 35.65%  |
 | NVMe    | 19       | 29     | 16.52%  |
 | Unknown | 1        | 1      | 0.87%   |
 
@@ -1706,16 +1706,16 @@ Monitor models
 | Lenovo LEN T27i-10 LEN61C6 1920x1080 598x336mm 27.0-inch             | 1        | 1.2%    |
 | Iiyama PL2592H IVM6135 1920x1080 544x303mm 24.5-inch                 | 1        | 1.2%    |
 | Hitachi X90W D-sub HIT6008 1440x900 410x257mm 19.1-inch              | 1        | 1.2%    |
-| Hewlett-Packard LA1951 HWP285A 1280x1024 380x300mm 19.1-inch         | 1        | 1.2%    |
+| Hewlett-Packard LCD Monitor HWP285A 1920x1080 470x270mm 21.3-inch    | 1        | 1.2%    |
 | Hewlett-Packard 27fh HPN354A 1920x1080 598x336mm 27.0-inch           | 1        | 1.2%    |
-| Hewlett-Packard 27es HWP3326 1920x1080 598x336mm 27.0-inch           | 1        | 1.2%    |
+| Hewlett-Packard 27er HWP3326 1920x1080 598x336mm 27.0-inch           | 1        | 1.2%    |
 | Hewlett-Packard 22m HPN3576 1920x1080 476x268mm 21.5-inch            | 1        | 1.2%    |
 | Hewlett-Packard 2229h HWP2854 1680x1050 473x296mm 22.0-inch          | 1        | 1.2%    |
 | Goldstar W2443 GSM571C 1920x1080 510x290mm 23.1-inch                 | 1        | 1.2%    |
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                 | 1        | 1.2%    |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 1.2%    |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                 | 1        | 1.2%    |
 | Goldstar M2380D GSM57BC 1920x1080 598x336mm 27.0-inch                | 1        | 1.2%    |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch          | 1        | 1.2%    |
 | Goldstar L1718S GSM443C 1280x1024 338x270mm 17.0-inch                | 1        | 1.2%    |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                 | 1        | 1.2%    |
 | Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                 | 1        | 1.2%    |
@@ -2166,7 +2166,7 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                        | 2        | 6.9%    |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 2        | 6.9%    |
 | Intel Bluetooth wireless interface                    | 2        | 6.9%    |
-| Intel Bluetooth Device                                | 2        | 6.9%    |
+| Intel AX201 Bluetooth                                 | 2        | 6.9%    |
 | Qualcomm Atheros  Bluetooth Device                    | 1        | 3.45%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                | 1        | 3.45%   |
 | MediaTek Wireless_Device                              | 1        | 3.45%   |
@@ -2299,29 +2299,29 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 1333MT/s                    | 1        | 1.89%   |
 | Unknown RAM 992124 (997124) 8GB DIMM DDR3 1600MT/s         | 1        | 1.89%   |
 | Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 3007MT/s         | 1        | 1.89%   |
-| Samsung RAM M471B5673FH0-CH9 2048MB DIMM SDRAM 4199MT/s    | 1        | 1.89%   |
+| Samsung RAM M471B5673FH0-CH9 2GB DIMM DDR3 4199MT/s        | 1        | 1.89%   |
 | Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s       | 1        | 1.89%   |
 | Samsung RAM M393A1G40DB0-CPB 8GB DIMM DDR4 2133MT/s        | 1        | 1.89%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s        | 1        | 1.89%   |
+| Samsung RAM M378B1G73EB0-YK0 8192MB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
 | Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 3466MT/s       | 1        | 1.89%   |
 | Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s        | 1        | 1.89%   |
 | Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s            | 1        | 1.89%   |
 | Patriot RAM PSD22G80026 2GB DIMM DDR2 800MT/s              | 1        | 1.89%   |
 | Micron RAM 16JTF1G64AZ-1G6D1 8GB DIMM DDR3 1600MT/s        | 1        | 1.89%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 1.89%   |
-| Kingston RAM KHX1866C10D3/8G 8192MB DIMM DDR3 2133MT/s     | 1        | 1.89%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 2400MT/s        | 1        | 1.89%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 1.89%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s        | 1        | 1.89%   |
 | Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 1.89%   |
-| Kingston RAM 99U5471-040.A00LF 8GB DIMM DDR3 1333MT/s      | 1        | 1.89%   |
+| Kingston RAM 99U5471-040.A00LF 8GB DIMM DDR3               | 1        | 1.89%   |
 | Kingston RAM 9965698-001.A00G 16GB DIMM DDR4 2667MT/s      | 1        | 1.89%   |
 | Kingston RAM 9905474-012.A00LF 2048MB DIMM DDR3 1333MT/s   | 1        | 1.89%   |
 | Kingston RAM 9905471-028.A00LF 4096MB DIMM DDR3 1333MT/s   | 1        | 1.89%   |
 | GeIL RAM CL11-11-11 D3-1600 8GB DIMM DDR3 1600MT/s         | 1        | 1.89%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s        | 1        | 1.89%   |
 | G.Skill RAM F4-3200C15-16GTZKY 16384MB DIMM DDR4 3200MT/s  | 1        | 1.89%   |
-| G.Skill RAM F4-2666C19-16GIS 16384MB DIMM DDR4 2667MT/s    | 1        | 1.89%   |
-| G.Skill RAM F3-1600C11-4GNS 4096MB DIMM DDR3 1600MT/s      | 1        | 1.89%   |
+| G.Skill RAM F4-2666C19-16GIS 16GB DIMM DDR4                | 1        | 1.89%   |
+| G.Skill RAM F3-1600C11-4GNS 4GB DIMM DDR3 1600MT/s         | 1        | 1.89%   |
 | G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1600MT/s       | 1        | 1.89%   |
 | Elpida RAM EBE11UD8AJWA-6E-E 1GB DIMM DDR2 667MT/s         | 1        | 1.89%   |
 | Crucial RAM CT8G4DFS8266.M8FE 8GB DIMM DDR4 2667MT/s       | 1        | 1.89%   |
@@ -2504,23 +2504,23 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| Logitech Webcam C270          | 3        | 15.79%  |
-| Logitech HD Pro Webcam C920   | 2        | 10.53%  |
-| Logitech B525 HD Webcam       | 2        | 10.53%  |
-| Z-Star Venus USB2.0 Camera    | 1        | 5.26%   |
-| Microsoft LifeCam VX-700      | 1        | 5.26%   |
-| Microdia Webcam Vitade AF     | 1        | 5.26%   |
-| Logitech Webcam C250          | 1        | 5.26%   |
-| Logitech QuickCam Pro 4000    | 1        | 5.26%   |
-| Logitech HD Webcam C615       | 1        | 5.26%   |
-| HP Webcam 3100                | 1        | 5.26%   |
-| Genesys Logic HD camera       | 1        | 5.26%   |
-| Generalplus GENERAL WEBCAM    | 1        | 5.26%   |
-| Cubeternet USB2.0 Camera      | 1        | 5.26%   |
-| Creative Live! Cam Sync 1080p | 1        | 5.26%   |
-| Chicony HP Webcam             | 1        | 5.26%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Logitech Webcam C270             | 3        | 15.79%  |
+| Logitech HD Pro Webcam C920      | 2        | 10.53%  |
+| Logitech B525 HD Webcam          | 2        | 10.53%  |
+| Z-Star Venus USB2.0 Camera       | 1        | 5.26%   |
+| Microsoft LifeCam VX-700         | 1        | 5.26%   |
+| Microdia Webcam Vitade AF        | 1        | 5.26%   |
+| Logitech Webcam C250             | 1        | 5.26%   |
+| Logitech QuickCam Pro 4000       | 1        | 5.26%   |
+| Logitech HD Webcam C615          | 1        | 5.26%   |
+| HP Webcam 3100                   | 1        | 5.26%   |
+| Genesys Logic Digital Microscope | 1        | 5.26%   |
+| Generalplus GENERAL WEBCAM       | 1        | 5.26%   |
+| Cubeternet USB2.0 Camera         | 1        | 5.26%   |
+| Creative Live! Cam Sync 1080p    | 1        | 5.26%   |
+| Chicony HP Webcam                | 1        | 5.26%   |
 
 Security
 --------

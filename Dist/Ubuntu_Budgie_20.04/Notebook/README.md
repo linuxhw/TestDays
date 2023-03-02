@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 232
+Total: 233
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| TUXEDO        | Pulse 15 Gen1               | [12f305c12f](https://linux-hardware.org/?probe=12f305c12f) | Feb 17, 2023 |
 | TUXEDO        | Polaris (CML/Gen2)          | [a14e00ab97](https://linux-hardware.org/?probe=a14e00ab97) | Dec 29, 2022 |
 | TUXEDO        | Polaris (CML/Gen2)          | [00e25b3232](https://linux-hardware.org/?probe=00e25b3232) | Dec 29, 2022 |
 | Unknown       | Unknown                     | [a6efa9c8ab](https://linux-hardware.org/?probe=a6efa9c8ab) | Dec 12, 2022 |
@@ -403,25 +404,25 @@ Version of the Linux kernel
 
 | Version                    | Notebooks | Percent |
 |----------------------------|-----------|---------|
-| 5.4.0-42-generic           | 17        | 9.19%   |
-| 5.4.0-40-generic           | 9         | 4.86%   |
-| 5.4.0-37-generic           | 6         | 3.24%   |
-| 5.4.0-29-generic           | 6         | 3.24%   |
-| 5.4.0-52-generic           | 5         | 2.7%    |
-| 5.4.0-48-generic           | 5         | 2.7%    |
-| 5.4.0-33-generic           | 5         | 2.7%    |
-| 5.8.0-53-generic           | 4         | 2.16%   |
-| 5.4.0-58-generic           | 4         | 2.16%   |
-| 5.4.0-31-generic           | 4         | 2.16%   |
-| 5.13.0-30-generic          | 4         | 2.16%   |
-| 5.8.0-48-generic           | 3         | 1.62%   |
-| 5.4.0-91-generic           | 3         | 1.62%   |
-| 5.4.0-73-generic           | 3         | 1.62%   |
-| 5.4.0-28-generic           | 3         | 1.62%   |
-| 5.13.0-39-generic          | 3         | 1.62%   |
-| 5.13.0-28-generic          | 3         | 1.62%   |
-| 5.11.0-41-generic          | 3         | 1.62%   |
-| 5.11.0-27-generic          | 3         | 1.62%   |
+| 5.4.0-42-generic           | 17        | 9.14%   |
+| 5.4.0-40-generic           | 9         | 4.84%   |
+| 5.4.0-37-generic           | 6         | 3.23%   |
+| 5.4.0-29-generic           | 6         | 3.23%   |
+| 5.4.0-52-generic           | 5         | 2.69%   |
+| 5.4.0-48-generic           | 5         | 2.69%   |
+| 5.4.0-33-generic           | 5         | 2.69%   |
+| 5.8.0-53-generic           | 4         | 2.15%   |
+| 5.4.0-58-generic           | 4         | 2.15%   |
+| 5.4.0-31-generic           | 4         | 2.15%   |
+| 5.13.0-30-generic          | 4         | 2.15%   |
+| 5.8.0-48-generic           | 3         | 1.61%   |
+| 5.4.0-91-generic           | 3         | 1.61%   |
+| 5.4.0-73-generic           | 3         | 1.61%   |
+| 5.4.0-28-generic           | 3         | 1.61%   |
+| 5.13.0-39-generic          | 3         | 1.61%   |
+| 5.13.0-28-generic          | 3         | 1.61%   |
+| 5.11.0-41-generic          | 3         | 1.61%   |
+| 5.11.0-27-generic          | 3         | 1.61%   |
 | 5.8.0-49-generic           | 2         | 1.08%   |
 | 5.8.0-45-generic           | 2         | 1.08%   |
 | 5.8.0-44-generic           | 2         | 1.08%   |
@@ -454,13 +455,13 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.4.0   | 99        | 57.89%  |
-| 5.8.0   | 19        | 11.11%  |
-| 5.13.0  | 19        | 11.11%  |
-| 5.11.0  | 13        | 7.6%    |
-| 5.15.0  | 7         | 4.09%   |
-| 5.6.0   | 3         | 1.75%   |
-| 5.3.0   | 2         | 1.17%   |
+| 5.4.0   | 99        | 57.56%  |
+| 5.8.0   | 19        | 11.05%  |
+| 5.13.0  | 19        | 11.05%  |
+| 5.11.0  | 13        | 7.56%   |
+| 5.15.0  | 8         | 4.65%   |
+| 5.6.0   | 3         | 1.74%   |
+| 5.3.0   | 2         | 1.16%   |
 | 5.9.0   | 1         | 0.58%   |
 | 5.8.11  | 1         | 0.58%   |
 | 5.6.7   | 1         | 0.58%   |
@@ -481,14 +482,14 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.4     | 99        | 57.89%  |
-| 5.8     | 20        | 11.7%   |
-| 5.13    | 19        | 11.11%  |
-| 5.11    | 13        | 7.6%    |
-| 5.15    | 8         | 4.68%   |
-| 5.6     | 4         | 2.34%   |
-| 5.3     | 2         | 1.17%   |
-| 5.10    | 2         | 1.17%   |
+| 5.4     | 99        | 57.56%  |
+| 5.8     | 20        | 11.63%  |
+| 5.13    | 19        | 11.05%  |
+| 5.11    | 13        | 7.56%   |
+| 5.15    | 9         | 5.23%   |
+| 5.6     | 4         | 2.33%   |
+| 5.3     | 2         | 1.16%   |
+| 5.10    | 2         | 1.16%   |
 | 5.9     | 1         | 0.58%   |
 | 5.5     | 1         | 0.58%   |
 | 5.16    | 1         | 0.58%   |
@@ -892,12 +893,12 @@ Used RAM memory
 
 | Used GB    | Notebooks | Percent |
 |------------|-----------|---------|
-| 2.01-3.0   | 49        | 27.84%  |
-| 1.01-2.0   | 44        | 25%     |
-| 4.01-8.0   | 38        | 21.59%  |
-| 3.01-4.0   | 35        | 19.89%  |
-| 8.01-16.0  | 9         | 5.11%   |
-| 16.01-24.0 | 1         | 0.57%   |
+| 2.01-3.0   | 49        | 27.68%  |
+| 1.01-2.0   | 44        | 24.86%  |
+| 4.01-8.0   | 39        | 22.03%  |
+| 3.01-4.0   | 35        | 19.77%  |
+| 8.01-16.0  | 9         | 5.08%   |
+| 16.01-24.0 | 1         | 0.56%   |
 
 Total Drives
 ------------
@@ -1028,46 +1029,46 @@ Geographic location (city)
 
 | City           | Notebooks | Percent |
 |----------------|-----------|---------|
-| Sao Paulo      | 4         | 2.35%   |
-| Ravensburg     | 4         | 2.35%   |
-| Tehran         | 3         | 1.76%   |
-| Munich         | 3         | 1.76%   |
-| Moscow         | 3         | 1.76%   |
-| Budapest       | 3         | 1.76%   |
-| Wolfsburg      | 2         | 1.18%   |
-| Stuttgart      | 2         | 1.18%   |
-| Paris          | 2         | 1.18%   |
-| Montreal       | 2         | 1.18%   |
-| Lisbon         | 2         | 1.18%   |
-| Kyiv           | 2         | 1.18%   |
-| Istanbul       | 2         | 1.18%   |
-| Hamburg        | 2         | 1.18%   |
-| Cologne        | 2         | 1.18%   |
-| Brasília      | 2         | 1.18%   |
-| Berlin         | 2         | 1.18%   |
-| Belo Horizonte | 2         | 1.18%   |
-| Zurich         | 1         | 0.59%   |
-| Zagreb         | 1         | 0.59%   |
-| Yuma           | 1         | 0.59%   |
-| Woking         | 1         | 0.59%   |
-| Waterloo       | 1         | 0.59%   |
-| Warsaw         | 1         | 0.59%   |
-| Waiblingen     | 1         | 0.59%   |
-| Vista Serrana  | 1         | 0.59%   |
-| Vienna         | 1         | 0.59%   |
-| Vernier        | 1         | 0.59%   |
-| Vendelso       | 1         | 0.59%   |
-| Vantaa         | 1         | 0.59%   |
-| Vancouver      | 1         | 0.59%   |
-| Valros         | 1         | 0.59%   |
-| Usingen        | 1         | 0.59%   |
-| Udine          | 1         | 0.59%   |
-| Tuscola        | 1         | 0.59%   |
-| Turku          | 1         | 0.59%   |
-| Trzin          | 1         | 0.59%   |
-| Totana         | 1         | 0.59%   |
-| Tooele         | 1         | 0.59%   |
-| Tokyo          | 1         | 0.59%   |
+| Sao Paulo      | 4         | 2.34%   |
+| Ravensburg     | 4         | 2.34%   |
+| Tehran         | 3         | 1.75%   |
+| Munich         | 3         | 1.75%   |
+| Moscow         | 3         | 1.75%   |
+| Budapest       | 3         | 1.75%   |
+| Wolfsburg      | 2         | 1.17%   |
+| Stuttgart      | 2         | 1.17%   |
+| Paris          | 2         | 1.17%   |
+| Montreal       | 2         | 1.17%   |
+| Lisbon         | 2         | 1.17%   |
+| Kyiv           | 2         | 1.17%   |
+| Istanbul       | 2         | 1.17%   |
+| Hamburg        | 2         | 1.17%   |
+| Cologne        | 2         | 1.17%   |
+| Brasília      | 2         | 1.17%   |
+| Berlin         | 2         | 1.17%   |
+| Belo Horizonte | 2         | 1.17%   |
+| Zurich         | 1         | 0.58%   |
+| Zagreb         | 1         | 0.58%   |
+| Yuma           | 1         | 0.58%   |
+| Woking         | 1         | 0.58%   |
+| Waterloo       | 1         | 0.58%   |
+| Warsaw         | 1         | 0.58%   |
+| Waiblingen     | 1         | 0.58%   |
+| Vista Serrana  | 1         | 0.58%   |
+| Vienna         | 1         | 0.58%   |
+| Vernier        | 1         | 0.58%   |
+| Vendelso       | 1         | 0.58%   |
+| Vantaa         | 1         | 0.58%   |
+| Vancouver      | 1         | 0.58%   |
+| Valros         | 1         | 0.58%   |
+| Usingen        | 1         | 0.58%   |
+| Udine          | 1         | 0.58%   |
+| Tuscola        | 1         | 0.58%   |
+| Turku          | 1         | 0.58%   |
+| Trzin          | 1         | 0.58%   |
+| Totana         | 1         | 0.58%   |
+| Tooele         | 1         | 0.58%   |
+| Tokyo          | 1         | 0.58%   |
 
 Drives
 ------
@@ -1082,7 +1083,7 @@ Hard drive vendors
 
 | Vendor                    | Notebooks | Drives  | Percent |
 |---------------------------|-----------|---------|---------|
-| Samsung Electronics       | 57        | 72      | 27.27%  |
+| Samsung Electronics       | 57        | 73      | 27.27%  |
 | Seagate                   | 24        | 25      | 11.48%  |
 | Toshiba                   | 21        | 25      | 10.05%  |
 | WDC                       | 16        | 18      | 7.66%   |
@@ -1223,7 +1224,7 @@ HDD or SSD
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
 | SSD     | 69        | 83     | 34.5%   |
-| NVMe    | 64        | 81     | 32%     |
+| NVMe    | 64        | 82     | 32%     |
 | HDD     | 55        | 66     | 27.5%   |
 | MMC     | 7         | 8      | 3.5%    |
 | Unknown | 5         | 4      | 2.5%    |
@@ -1239,7 +1240,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 107       | 145    | 57.22%  |
-| NVMe | 64        | 81     | 34.22%  |
+| NVMe | 64        | 82     | 34.22%  |
 | SAS  | 9         | 8      | 4.81%   |
 | MMC  | 7         | 8      | 3.74%   |
 
@@ -1253,9 +1254,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 77        | 94     | 64.71%  |
-| 0.51-1.0   | 39        | 51     | 32.77%  |
-| 1.01-2.0   | 3         | 4      | 2.52%   |
+| 0.01-0.5   | 77        | 94     | 64.17%  |
+| 0.51-1.0   | 39        | 50     | 32.5%   |
+| 1.01-2.0   | 4         | 5      | 3.33%   |
 
 Space Total
 -----------
@@ -1389,7 +1390,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 84        | 117    | 46.67%  |
+| Detected | 84        | 118    | 46.67%  |
 | Works    | 82        | 110    | 45.56%  |
 | Malfunc  | 14        | 15     | 7.78%   |
 
@@ -1710,7 +1711,7 @@ Microarchitecture
 | Broadwell        | 5         | 2.99%   |
 | Westmere         | 4         | 2.4%    |
 | Silvermont       | 4         | 2.4%    |
-| Icelake          | 4         | 2.4%    |
+| IceLake          | 4         | 2.4%    |
 | Zen+             | 2         | 1.2%    |
 | Zen 3            | 2         | 1.2%    |
 | Jaguar           | 2         | 1.2%    |
@@ -1897,48 +1898,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Notebooks | Percent |
-|-------------------------------------------------------------------------|-----------|---------|
-| Chimei Innolux LCD Monitor CMN14D2 1920x1080 310x170mm 13.9-inch        | 4         | 1.88%   |
-| Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch        | 3         | 1.41%   |
-| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch        | 3         | 1.41%   |
-| BOE LCD Monitor BOE0974 2560x1440 344x194mm 15.5-inch                   | 3         | 1.41%   |
-| AU Optronics LCD Monitor AUO623D 1920x1080 309x174mm 14.0-inch          | 3         | 1.41%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch          | 3         | 1.41%   |
-| Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch                 | 2         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch    | 2         | 0.94%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                 | 2         | 0.94%   |
-| LGD LCD Monitor 1920x1080                                               | 2         | 0.94%   |
-| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch            | 2         | 0.94%   |
-| LG Display LCD Monitor LGD02D8 1366x768 277x156mm 12.5-inch             | 2         | 0.94%   |
-| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                        | 2         | 0.94%   |
-| Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch        | 2         | 0.94%   |
-| Chimei Innolux LCD Monitor CMN1490 1366x768 309x173mm 13.9-inch         | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch          | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch           | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO13ED 1920x1080 344x193mm 15.5-inch          | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO105C 1366x768 256x144mm 11.6-inch           | 2         | 0.94%   |
-| UPD LCD801 UPD4843 1920x1080 708x398mm 32.0-inch                        | 1         | 0.47%   |
-| Unknown LCD Monitor Sony Nvidia Default Flat Panel 1366x768             | 1         | 0.47%   |
-| Sharp LQ133Z1JW26 SHP1493 3200x1800 294x165mm 13.3-inch                 | 1         | 0.47%   |
-| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch                 | 1         | 0.47%   |
-| Sharp LCD Monitor SHP14AE 1920x1080 294x165mm 13.3-inch                 | 1         | 0.47%   |
-| Sharp LCD Monitor SHP1445 3840x2160 346x194mm 15.6-inch                 | 1         | 0.47%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch       | 1         | 0.47%   |
-| Samsung Electronics SyncMaster SAM060D 1920x1080 531x299mm 24.0-inch    | 1         | 0.47%   |
-| Samsung Electronics SyncMaster SAM041D 1920x1200 459x296mm 21.5-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC5A42 1366x768 309x174mm 14.0-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC324C 1600x900 310x174mm 14.0-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC315A 1366x768 344x194mm 15.5-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch   | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SDC3150 1920x1080 344x194mm 15.5-inch   | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1872x1053mm 84.6-inch | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SAM0C3C 1366x768 609x347mm 27.6-inch    | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch  | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SAM090B 1920x1080 1020x570mm 46.0-inch  | 1         | 0.47%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Chimei Innolux LCD Monitor CMN14D2 1920x1080 309x173mm 13.9-inch       | 4         | 1.88%   |
+| Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch       | 3         | 1.41%   |
+| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch       | 3         | 1.41%   |
+| BOE LCD Monitor BOE0974 2560x1440 344x194mm 15.5-inch                  | 3         | 1.41%   |
+| AU Optronics LCD Monitor AUO623D 1920x1080 309x174mm 14.0-inch         | 3         | 1.41%   |
+| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch         | 3         | 1.41%   |
+| Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch                | 2         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch   | 2         | 0.94%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 2         | 0.94%   |
+| LGD LCD Monitor 1920x1080                                              | 2         | 0.94%   |
+| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch           | 2         | 0.94%   |
+| LG Display LCD Monitor LGD02D8 1366x768 277x156mm 12.5-inch            | 2         | 0.94%   |
+| Dell U2415 DELA0BA 1920x1080 518x324mm 24.1-inch                       | 2         | 0.94%   |
+| Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch       | 2         | 0.94%   |
+| Chimei Innolux LCD Monitor CMN1490 1366x768 309x173mm 13.9-inch        | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch         | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch          | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO13ED 1920x1080 344x193mm 15.5-inch         | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO105C 1366x768 256x144mm 11.6-inch          | 2         | 0.94%   |
+| UPD LCD801 UPD4843 1920x1080 708x398mm 32.0-inch                       | 1         | 0.47%   |
+| Unknown LCD Monitor Sony Nvidia Default Flat Panel 1366x768            | 1         | 0.47%   |
+| Sharp LQ133Z1JW26 SHP1493 3200x1800 294x165mm 13.3-inch                | 1         | 0.47%   |
+| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch                | 1         | 0.47%   |
+| Sharp LCD Monitor SHP14AE 1920x1080 294x165mm 13.3-inch                | 1         | 0.47%   |
+| Sharp LCD Monitor SHP1445 3840x2160 346x194mm 15.6-inch                | 1         | 0.47%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1         | 0.47%   |
+| Samsung Electronics SyncMaster SAM060D 1920x1080                       | 1         | 0.47%   |
+| Samsung Electronics SyncMaster SAM041D 1920x1200 459x296mm 21.5-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC5A42 1366x768 309x174mm 14.0-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC324C 1600x900 310x174mm 14.0-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC315A 1366x768 344x194mm 15.5-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch  | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SDC3150 1920x1080 344x194mm 15.5-inch  | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 890x500mm 40.2-inch  | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SAM0C3C 1366x768 609x347mm 27.6-inch   | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SAM090B 1920x1080 700x390mm 31.5-inch  | 1         | 0.47%   |
 
 Monitor Resolution
 ------------------
@@ -2318,7 +2319,7 @@ Ethernet models
 | Intel Ethernet Connection (3) I218-LM                             | 1         | 0.64%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 0.64%   |
 | HP lt4120 Snapdragon X5 LTE                                       | 1         | 0.64%   |
-| DisplayLink USB3.0 5K Graphic Docking                             | 1         | 0.64%   |
+| DisplayLink USB-C Triple-4K Dock                                  | 1         | 0.64%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 0.64%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 0.64%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 0.64%   |
@@ -2326,7 +2327,7 @@ Ethernet models
 | Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 0.64%   |
 | Broadcom Limited NetLink BCM5784M Gigabit Ethernet PCIe           | 1         | 0.64%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 0.64%   |
-| Apple iBridge                                                     | 1         | 0.64%   |
+| Apple T2 Controller                                               | 1         | 0.64%   |
 
 Net Controller Kind
 -------------------
@@ -2421,18 +2422,19 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 26        | 18.06%  |
 | Intel AX200 Bluetooth                                                               | 23        | 15.97%  |
-| Intel Bluetooth Device                                                              | 12        | 8.33%   |
+| Intel AX201 Bluetooth                                                               | 11        | 7.64%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 8         | 5.56%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 7         | 4.86%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 5         | 3.47%   |
-| Lite-On Bluetooth Device                                                            | 5         | 3.47%   |
 | Realtek Bluetooth Radio                                                             | 4         | 2.78%   |
 | Dell DW375 Bluetooth Module                                                         | 4         | 2.78%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 3         | 2.08%   |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 3         | 2.08%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 3         | 2.08%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 3         | 2.08%   |
 | Ralink RT3290 Bluetooth                                                             | 2         | 1.39%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 2         | 1.39%   |
+| Lite-On Bluetooth Device                                                            | 2         | 1.39%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 2         | 1.39%   |
 | HP Broadcom 2070 Bluetooth Combo                                                    | 2         | 1.39%   |
 | Apple Bluetooth Host Controller                                                     | 2         | 1.39%   |
@@ -2440,7 +2442,7 @@ Controller models
 | Toshiba Integrated Bluetooth HCI                                                    | 1         | 0.69%   |
 | Realtek RTL8821A Bluetooth                                                          | 1         | 0.69%   |
 | Realtek RTL8723B Bluetooth                                                          | 1         | 0.69%   |
-| Realtek Bluetooth Radio                                                             | 1         | 0.69%   |
+| Realtek 802.11ac WLAN Adapter                                                       | 1         | 0.69%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 0.69%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 1         | 0.69%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device                                        | 1         | 0.69%   |
@@ -2448,6 +2450,7 @@ Controller models
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 0.69%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 0.69%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 0.69%   |
+| Intel Bluetooth Device                                                              | 1         | 0.69%   |
 | IMC Networks Wireless_Device                                                        | 1         | 0.69%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter                                   | 1         | 0.69%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology                         | 1         | 0.69%   |
@@ -2457,8 +2460,6 @@ Controller models
 | Foxconn / Hon Hai Acer Bluetooth module                                             | 1         | 0.69%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 1         | 0.69%   |
 | Broadcom HP Portable SoftSailing                                                    | 1         | 0.69%   |
-| Broadcom BRCM2070 BT 2.1 + HS USB Module                                            | 1         | 0.69%   |
-| Broadcom BCM43142A0 Bluetooth 4.0                                                   | 1         | 0.69%   |
 
 Sound
 -----
@@ -2586,17 +2587,18 @@ Memory module models
 |--------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s       | 6         | 4.41%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s       | 6         | 4.41%   |
-| Samsung RAM M471A2K43CB1-CTD 16384MB SODIMM DDR4 8400MT/s    | 3         | 2.21%   |
+| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s       | 3         | 2.21%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 3         | 2.21%   |
 | Unknown RAM Module 4096MB SODIMM DDR2 667MT/s                | 2         | 1.47%   |
-| SK hynix RAM HMT351S6CFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 2         | 1.47%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.47%   |
+| SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.47%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s       | 2         | 1.47%   |
 | SK hynix RAM HMA82GS6CJR8N-VK 16GB SODIMM DDR4 2667MT/s      | 2         | 1.47%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 2         | 1.47%   |
-| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s        | 2         | 1.47%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 2         | 1.47%   |
+| Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s     | 2         | 1.47%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 1.47%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s       | 2         | 1.47%   |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 2         | 1.47%   |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 2         | 1.47%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 2         | 1.47%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s        | 2         | 1.47%   |
 | Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s       | 2         | 1.47%   |
@@ -2609,21 +2611,20 @@ Memory module models
 | Teikon RAM TMT451S6BFR8A-PBAJ 4GB SODIMM DDR3 1333MT/s       | 1         | 0.74%   |
 | Smart RAM SMS4TDC3C0K0446SCG 4GB SODIMM DDR4 2667MT/s        | 1         | 0.74%   |
 | Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s        | 1         | 0.74%   |
-| Smart RAM SF4641G8CK8IEHLSBG 8192MB SODIMM DDR4 2667MT/s     | 1         | 0.74%   |
+| Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s        | 1         | 0.74%   |
 | Smart Brazil RAM SMS4TDC3C0K0446SCG 4GB SODIMM DDR4 2667MT/s | 1         | 0.74%   |
 | SK hynix RAM Module 4096MB SODIMM LPDDR3 1867MT/s            | 1         | 0.74%   |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 0.74%   |
 | SK hynix RAM Module 2048MB SODIMM DDR2 667MT/s               | 1         | 0.74%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2133MT/s             | 1         | 0.74%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.74%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 0.74%   |
 | SK hynix RAM HMT451S6AFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.74%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.74%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 0.74%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.74%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.74%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1334MT/s       | 1         | 0.74%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s       | 1         | 0.74%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM 1600MT/s            | 1         | 0.74%   |
+| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1333MT/s       | 1         | 0.74%   |
 
 Memory Kind
 -----------
@@ -2684,22 +2685,22 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 2667    | 29        | 23.77%  |
-| 1600    | 29        | 23.77%  |
-| 3200    | 18        | 14.75%  |
-| 2133    | 7         | 5.74%   |
-| 1334    | 7         | 5.74%   |
-| 1333    | 7         | 5.74%   |
-| 2400    | 6         | 4.92%   |
-| 1067    | 4         | 3.28%   |
-| 8400    | 3         | 2.46%   |
-| 4199    | 3         | 2.46%   |
-| 667     | 3         | 2.46%   |
-| 4267    | 2         | 1.64%   |
-| 3733    | 1         | 0.82%   |
-| 3266    | 1         | 0.82%   |
-| 1867    | 1         | 0.82%   |
-| Unknown | 1         | 0.82%   |
+| 2667    | 30        | 24.39%  |
+| 1600    | 30        | 24.39%  |
+| 3200    | 18        | 14.63%  |
+| 2133    | 7         | 5.69%   |
+| 1334    | 7         | 5.69%   |
+| 2400    | 6         | 4.88%   |
+| 1333    | 6         | 4.88%   |
+| 1067    | 4         | 3.25%   |
+| 8400    | 3         | 2.44%   |
+| 4199    | 3         | 2.44%   |
+| 667     | 3         | 2.44%   |
+| 4267    | 2         | 1.63%   |
+| 3733    | 1         | 0.81%   |
+| 3266    | 1         | 0.81%   |
+| 1867    | 1         | 0.81%   |
+| Unknown | 1         | 0.81%   |
 
 Printers & scanners
 -------------------
@@ -2829,7 +2830,7 @@ Camera device models
 | Syntek EasyCamera                                                          | 1         | 0.65%   |
 | Suyin Laptop_Integrated_Webcam_2M                                          | 1         | 0.65%   |
 | Suyin HD WebCam                                                            | 1         | 0.65%   |
-| Suyin HD Video WebCam                                                      | 1         | 0.65%   |
+| Suyin Acer HD Crystal Eye webcam                                           | 1         | 0.65%   |
 | Sunplus Laptop_Integrated_Webcam_HD                                        | 1         | 0.65%   |
 | Sunplus Laptop Integrated WebCam HD                                        | 1         | 0.65%   |
 | Sunplus HD WebCam                                                          | 1         | 0.65%   |

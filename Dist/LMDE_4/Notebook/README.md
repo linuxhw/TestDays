@@ -1067,8 +1067,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 136       | 60.18%  |
-| No        | 90        | 39.82%  |
+| Yes       | 138       | 60.79%  |
+| No        | 89        | 39.21%  |
 
 Has Ethernet
 ------------
@@ -1299,7 +1299,7 @@ Hard drive models
 | Seagate ST9250315AS 250GB            | 2         | 0.72%   |
 | Seagate ST9120821AS 120GB            | 2         | 0.72%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 2         | 0.72%   |
-| Seagate Expansion 240GB              | 2         | 0.72%   |
+| Seagate Expansion 1TB                | 2         | 0.72%   |
 | SanDisk NVMe SSD Drive 256GB         | 2         | 0.72%   |
 | Samsung SSD 860 EVO 250GB            | 2         | 0.72%   |
 | Samsung SSD 850 EVO 500GB            | 2         | 0.72%   |
@@ -1424,10 +1424,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 181       | 234    | 82.65%  |
-| 0.51-1.0   | 35        | 48     | 15.98%  |
-| 4.01-10.0  | 2         | 2      | 0.91%   |
-| 1.01-2.0   | 1         | 1      | 0.46%   |
+| 0.01-0.5   | 181       | 232    | 81.9%   |
+| 0.51-1.0   | 37        | 50     | 16.74%  |
+| 4.01-10.0  | 2         | 2      | 0.9%    |
+| 1.01-2.0   | 1         | 1      | 0.45%   |
 
 Space Total
 -----------
@@ -1960,7 +1960,7 @@ Graphics card models
 | Intel HD Graphics 5500                                                                     | 3         | 1.08%   |
 | Intel HD Graphics 530                                                                      | 3         | 1.08%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller   | 3         | 1.08%   |
-| AMD RV710/M92 [Mobility Radeon HD 4530/4570/545v]                                          | 3         | 1.08%   |
+| AMD RV710/M92 [Mobility Radeon HD 4530/4570/5145/530v/540v/545v]                           | 3         | 1.08%   |
 | Silicon Integrated Systems [SiS] 661/741/760 PCI/AGP or 662/761Gx PCIE VGA Display Adapter | 2         | 0.72%   |
 | Nvidia GT218M [NVS 3100M]                                                                  | 2         | 0.72%   |
 | Nvidia GM108M [GeForce 940MX]                                                              | 2         | 0.72%   |
@@ -2079,19 +2079,19 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch           | 4         | 1.89%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch           | 4         | 1.89%   |
 | LG Display LCD Monitor LGD0430 1366x768 345x194mm 15.6-inch              | 3         | 1.42%   |
-| LG Display LCD Monitor LGD02E9 1366x768 310x170mm 13.9-inch              | 3         | 1.42%   |
+| LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 3         | 1.42%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 344x193mm 15.5-inch          | 3         | 1.42%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch            | 3         | 1.42%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch     | 2         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 2         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3345 1280x800 331x207mm 15.4-inch     | 2         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 2         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 0.94%   |
 | Quanta Display LCD Monitor QDS0025 1024x768 304x228mm 15.0-inch          | 2         | 0.94%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 2         | 0.94%   |
 | HannStar HSD121PHW1 HSD04B6 1366x768 270x150mm 12.2-inch                 | 2         | 0.94%   |
 | HannStar HSD101PFW4A HSD03ED 1024x600 223x125mm 10.1-inch                | 2         | 0.94%   |
-| HannStar HSD100IFW1 HSD03E9 1024x600 220x129mm 10.0-inch                 | 2         | 0.94%   |
 | CPT LCD Monitor CPT1415 1280x800 331x207mm 15.4-inch                     | 2         | 0.94%   |
 | Chimei Innolux LCD Monitor CMN1493 1366x768 309x173mm 13.9-inch          | 2         | 0.94%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1558 1366x768 344x193mm 15.5-inch | 2         | 0.94%   |
@@ -2099,9 +2099,9 @@ Monitor models
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                    | 2         | 0.94%   |
 | BOE LCD Monitor BOE06A4 1366x768 344x194mm 15.5-inch                     | 2         | 0.94%   |
 | BOE LCD Monitor BOE069C 1920x1080 344x193mm 15.5-inch                    | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO61D2 1024x600 220x130mm 10.1-inch            | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch            | 2         | 0.94%   |
 | AU Optronics LCD Monitor AUO303C 1366x768 309x173mm 13.9-inch            | 2         | 0.94%   |
-| AU Optronics LCD Monitor AUO139E 1600x900 380x210mm 17.1-inch            | 2         | 0.94%   |
+| AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch            | 2         | 0.94%   |
 | ViewSonic VX2457 VSCB931 1920x1080 521x293mm 23.5-inch                   | 1         | 0.47%   |
 | Unknown LCD Monitor XXX AAA                                              | 1         | 0.47%   |
 | Sony TV SNYA301 1920x1080                                                | 1         | 0.47%   |
@@ -2115,7 +2115,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4442 1280x800 303x190mm 14.1-inch     | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch     | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3659 1600x900 344x194mm 15.5-inch     | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC3651 1366x768 340x190mm 15.3-inch     | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3450 1400x1050 286x214mm 14.1-inch    | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3445 1280x800 330x210mm 15.4-inch     | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 0.47%   |
@@ -2656,7 +2656,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 3         | 2.42%   |
 | Broadcom BCM2070 Bluetooth 2.1 + EDR                                                | 3         | 2.42%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 1.61%   |
-| Lite-On Bluetooth Device                                                            | 2         | 1.61%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 1.61%   |
 | Lite-On Atheros Bluetooth                                                           | 2         | 1.61%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 1.61%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 2         | 1.61%   |
@@ -2801,22 +2801,22 @@ Memory module models
 | Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s     | 1         | 2.7%    |
 | Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s     | 1         | 2.7%    |
 | SK hynix RAM Module 512MB SODIMM DDR 533MT/s              | 1         | 2.7%    |
-| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s     | 1         | 2.7%    |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 800MT/s      | 1         | 2.7%    |
+| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s      | 1         | 2.7%    |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s     | 1         | 2.7%    |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s    | 1         | 2.7%    |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s    | 1         | 2.7%    |
-| SK hynix RAM HMP125S6EFR8C-S6 2GB SODIMM DDR 800MT/s      | 1         | 2.7%    |
+| SK hynix RAM HMP125S6EFR8C-S6 2048MB SODIMM DDR 800MT/s   | 1         | 2.7%    |
 | SK hynix RAM HMP112S6EFR6C-S6 1024MB SODIMM DDR 800MT/s   | 1         | 2.7%    |
 | SK hynix RAM HMA851S6DJR6N-VK 4GB SODIMM DDR4 2667MT/s    | 1         | 2.7%    |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s     | 1         | 2.7%    |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.7%    |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM SDRAM 2048MT/s   | 1         | 2.7%    |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s    | 1         | 2.7%    |
 | Ramaxel RAM RMSA3260MF68H9F-2666 4GB SODIMM DDR4 2400MT/s | 1         | 2.7%    |
 | Ramaxel RAM RMN1150EC48D7W-800 1024MB SODIMM DDR2 800MT/s | 1         | 2.7%    |
 | Nanya RAM NT2GC64B88G0NS-CG 2GB SODIMM DDR3 1600MT/s      | 1         | 2.7%    |
@@ -2999,6 +2999,7 @@ Camera device models
 |--------------------------------------------------|-----------|---------|
 | Quanta HP Webcam                                 | 6         | 3.55%   |
 | Chicony Integrated Camera                        | 5         | 2.96%   |
+| Acer HD Webcam                                   | 4         | 2.37%   |
 | Suyin HP TrueVision HD                           | 3         | 1.78%   |
 | Suyin Acer/HP Integrated Webcam [CN0314]         | 3         | 1.78%   |
 | Sunplus Laptop_Integrated_Webcam_HD              | 3         | 1.78%   |
@@ -3008,7 +3009,6 @@ Camera device models
 | Chicony HD WebCam                                | 3         | 1.78%   |
 | Chicony 2.0M UVC Webcam / CNF7129                | 3         | 1.78%   |
 | Apple iPhone 5/5C/5S/6/SE                        | 3         | 1.78%   |
-| Acer USB Camera                                  | 3         | 1.78%   |
 | Acer Lenovo EasyCamera                           | 3         | 1.78%   |
 | Syntek Sonix USB 2.0 Camera                      | 2         | 1.18%   |
 | Suyin 1.3M HD WebCam                             | 2         | 1.18%   |
@@ -3029,11 +3029,11 @@ Camera device models
 | IMC Networks USB 2.0 UVC VGA WebCam              | 2         | 1.18%   |
 | IMC Networks Integrated Camera                   | 2         | 1.18%   |
 | IMC Networks EasyCamera                          | 2         | 1.18%   |
+| Chicony TOSHIBA Web Camera - HD                  | 2         | 1.18%   |
 | Chicony HP Truevision HD camera                  | 2         | 1.18%   |
 | Chicony HD WebCam (Acer)                         | 2         | 1.18%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 2         | 1.18%   |
 | Apple Built-in iSight                            | 2         | 1.18%   |
-| Acer HD Webcam                                   | 2         | 1.18%   |
 | Z-Star Namuga 1.3M Webcam                        | 1         | 0.59%   |
 | Z-Star Lenovo EasyCamera                         | 1         | 0.59%   |
 | Syntek Integrated Webcam                         | 1         | 0.59%   |

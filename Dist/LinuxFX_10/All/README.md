@@ -934,48 +934,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                    | Computers | Percent |
-|------------------------------------------|-----------|---------|
-| WDC WD5000AAKX-001CA0 500GB              | 2         | 1.69%   |
-| WDC WD10EZEX-08WN4A0 1TB                 | 2         | 1.69%   |
-| Toshiba MQ01ABF050 500GB                 | 2         | 1.69%   |
-| Seagate ST500LM012 HN-M500MBB 500GB      | 2         | 1.69%   |
-| Kingston SV300S37A120G 120GB SSD         | 2         | 1.69%   |
-| ZOTAC ZTSSDPG3-480G-GE 480GB             | 1         | 0.85%   |
-| XPG GAMMIX S11 Pro 1TB                   | 1         | 0.85%   |
-| WDC WD60EZRX-00MVLB1 6TB                 | 1         | 0.85%   |
-| WDC WD5000LPVX-22V0TT0 500GB             | 1         | 0.85%   |
-| WDC WD5000LPVT-24G33T1 500GB             | 1         | 0.85%   |
-| WDC WD5000AACS-00G8B1 500GB              | 1         | 0.85%   |
-| WDC WD400JD-55MSA1 40GB                  | 1         | 0.85%   |
-| WDC WD4001FAEX-00MJRA0 4TB               | 1         | 0.85%   |
-| WDC WD3200BPVT-22JJ5T0 320GB             | 1         | 0.85%   |
-| WDC WD3200BEVT-80A0RT0 320GB             | 1         | 0.85%   |
-| WDC WD2500BEVS-22UST0 250GB              | 1         | 0.85%   |
-| WDC WD20EZRZ-00Z5HB0 2TB                 | 1         | 0.85%   |
-| WDC WD20EZRX-00D8PB0 2TB                 | 1         | 0.85%   |
-| WDC WD20EARS-00MVWB0 2TB                 | 1         | 0.85%   |
-| WDC WD1200BEVS-75UST0 120GB              | 1         | 0.85%   |
-| WDC WD10JPVX-60JC3T1 1TB                 | 1         | 0.85%   |
-| WDC WD10JPVX-22JC3T0 1TB                 | 1         | 0.85%   |
-| WDC WD10EAVS-00D7B1 1TB                  | 1         | 0.85%   |
-| WDC WD10EARX-00N0YB0 1TB                 | 1         | 0.85%   |
-| WDC WD1003FZEX-00MK2A0 1TB               | 1         | 0.85%   |
-| WDC PC SA530 SDASN8Y-256G-1006 256GB SSD | 1         | 0.85%   |
-| Unknown NVMe SSD Drive 512GB             | 1         | 0.85%   |
-| Unknown MMC Card  8GB                    | 1         | 0.85%   |
-| Unknown MMC Card  64GB                   | 1         | 0.85%   |
-| Toshiba MQ01ACF050 500GB                 | 1         | 0.85%   |
-| Toshiba MQ01ABF032 320GB                 | 1         | 0.85%   |
-| Toshiba MQ01ABD050 500GB                 | 1         | 0.85%   |
-| Toshiba MK5059GSXP 500GB                 | 1         | 0.85%   |
-| Toshiba MK2561GSYN 250GB                 | 1         | 0.85%   |
-| Toshiba DT01ACA050 500GB                 | 1         | 0.85%   |
-| TO Exter nal USB 3.0 500GB               | 1         | 0.85%   |
-| Seagate ST9320325AS 320GB                | 1         | 0.85%   |
-| Seagate ST9160827AS 160GB                | 1         | 0.85%   |
-| Seagate ST9160821AS 160GB                | 1         | 0.85%   |
-| Seagate ST9160314AS 160GB                | 1         | 0.85%   |
+| Model                                | Computers | Percent |
+|--------------------------------------|-----------|---------|
+| WDC WD5000AAKX-001CA0 500GB          | 2         | 1.69%   |
+| WDC WD10EZEX-08WN4A0 1TB             | 2         | 1.69%   |
+| Toshiba MQ01ABF050 500GB             | 2         | 1.69%   |
+| Seagate ST500LM012 HN-M500MBB 500GB  | 2         | 1.69%   |
+| Kingston SV300S37A120G 120GB SSD     | 2         | 1.69%   |
+| ZOTAC ZTSSDPG3-480G-GE 480GB         | 1         | 0.85%   |
+| XPG GAMMIX S11 Pro 512GB             | 1         | 0.85%   |
+| WDC WD60EZRX-00MVLB1 6TB             | 1         | 0.85%   |
+| WDC WD5000LPVX-22V0TT0 500GB         | 1         | 0.85%   |
+| WDC WD5000LPVT-24G33T1 500GB         | 1         | 0.85%   |
+| WDC WD5000AACS-00G8B1 500GB          | 1         | 0.85%   |
+| WDC WD400JD-55MSA1 40GB              | 1         | 0.85%   |
+| WDC WD4001FAEX-00MJRA0 4TB           | 1         | 0.85%   |
+| WDC WD3200BPVT-22JJ5T0 320GB         | 1         | 0.85%   |
+| WDC WD3200BEVT-80A0RT0 320GB         | 1         | 0.85%   |
+| WDC WD2500BEVS-22UST0 250GB          | 1         | 0.85%   |
+| WDC WD20EZRZ-00Z5HB0 2TB             | 1         | 0.85%   |
+| WDC WD20EZRX-00D8PB0 2TB             | 1         | 0.85%   |
+| WDC WD20EARS-00MVWB0 2TB             | 1         | 0.85%   |
+| WDC WD1200BEVS-75UST0 120GB          | 1         | 0.85%   |
+| WDC WD10JPVX-60JC3T1 1TB             | 1         | 0.85%   |
+| WDC WD10JPVX-22JC3T0 1TB             | 1         | 0.85%   |
+| WDC WD10EAVS-00D7B1 1TB              | 1         | 0.85%   |
+| WDC WD10EARX-00N0YB0 1TB             | 1         | 0.85%   |
+| WDC WD1003FZEX-00MK2A0 1TB           | 1         | 0.85%   |
+| WDC PC SA530 SDASN8Y-256G-1006 256GB | 1         | 0.85%   |
+| Unknown NVMe SSD Drive 512GB         | 1         | 0.85%   |
+| Unknown MMC Card  8GB                | 1         | 0.85%   |
+| Unknown MMC Card  64GB               | 1         | 0.85%   |
+| Toshiba MQ01ACF050 500GB             | 1         | 0.85%   |
+| Toshiba MQ01ABF032 320GB             | 1         | 0.85%   |
+| Toshiba MQ01ABD050 500GB             | 1         | 0.85%   |
+| Toshiba MK5059GSXP 500GB             | 1         | 0.85%   |
+| Toshiba MK2561GSYN 250GB             | 1         | 0.85%   |
+| Toshiba DT01ACA050 500GB             | 1         | 0.85%   |
+| TO Exter nal USB 3.0 240GB           | 1         | 0.85%   |
+| Seagate ST9320325AS 320GB            | 1         | 0.85%   |
+| Seagate ST9160827AS 160GB            | 1         | 0.85%   |
+| Seagate ST9160821AS 160GB            | 1         | 0.85%   |
+| Seagate ST9160314AS 160GB            | 1         | 0.85%   |
 
 HDD Vendor
 ----------
@@ -1695,7 +1695,7 @@ Monitor models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD0469 1920x1080 380x210mm 17.1-inch         | 2         | 2.82%   |
+| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch         | 2         | 2.82%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch          | 2         | 2.82%   |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 2         | 2.82%   |
 | Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch      | 2         | 2.82%   |
@@ -1703,13 +1703,13 @@ Monitor models
 | ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch            | 1         | 1.41%   |
 | Unknown LCD Monitor SHI LCD-TV 4640x1080                             | 1         | 1.41%   |
 | Sony LCD Monitor AVSYSTEM                                            | 1         | 1.41%   |
-| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch               | 1         | 1.41%   |
+| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                | 1         | 1.41%   |
 | Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch    | 1         | 1.41%   |
 | Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch | 1         | 1.41%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1         | 1.41%   |
 | Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch   | 1         | 1.41%   |
-| Samsung Electronics SMBX2331 SAM076F 1920x1080 510x290mm 23.1-inch   | 1         | 1.41%   |
-| Samsung Electronics SAMTRON STN0006 1280x1024 312x234mm 15.4-inch    | 1         | 1.41%   |
+| Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch   | 1         | 1.41%   |
+| Samsung Electronics SAMTRON STN0006 1024x768 312x234mm 15.4-inch     | 1         | 1.41%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch | 1         | 1.41%   |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch | 1         | 1.41%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch | 1         | 1.41%   |
@@ -1717,7 +1717,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch | 1         | 1.41%   |
 | Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                   | 1         | 1.41%   |
 | Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                   | 1         | 1.41%   |
-| Panasonic TV MEIA296 1920x1080 1280x720mm 57.8-inch                  | 1         | 1.41%   |
+| Panasonic TV MEIA296 3840x2160 1872x1053mm 84.6-inch                 | 1         | 1.41%   |
 | NXP OptiPlex 9010 NXP1111 1920x1080 510x286mm 23.0-inch              | 1         | 1.41%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch          | 1         | 1.41%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch          | 1         | 1.41%   |
@@ -1939,7 +1939,7 @@ Controller models
 | Broadcom Limited BCM4401-B0 100Base-TX                                                | 2         | 1.46%   |
 | Broadcom BCM4311 802.11b/g WLAN                                                       | 2         | 1.46%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1         | 0.73%   |
-| TP-Link Archer T4U ver.3                                                              | 1         | 0.73%   |
+| TP-Link 802.11ac NIC                                                                  | 1         | 0.73%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                         | 1         | 0.73%   |
 | Samsung Galaxy series, misc. (tethering mode)                                         | 1         | 0.73%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 1         | 0.73%   |
@@ -1952,13 +1952,13 @@ Controller models
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter                              | 1         | 0.73%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                              | 1         | 0.73%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                             | 1         | 0.73%   |
+| Qualcomm Redmi Note 7                                                                 | 1         | 0.73%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                             | 1         | 0.73%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                      | 1         | 0.73%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                                 | 1         | 0.73%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                              | 1         | 0.73%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1         | 0.73%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                            | 1         | 0.73%   |
-| Qualcomm Android                                                                      | 1         | 0.73%   |
 | NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                                   | 1         | 0.73%   |
 
 Wireless Vendor
@@ -2006,7 +2006,7 @@ Wireless models
 | Intel Centrino Wireless-N 2230                                                        | 2         | 3.33%   |
 | Broadcom BCM4311 802.11b/g WLAN                                                       | 2         | 3.33%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1         | 1.67%   |
-| TP-Link Archer T4U ver.3                                                              | 1         | 1.67%   |
+| TP-Link 802.11ac NIC                                                                  | 1         | 1.67%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 1         | 1.67%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1         | 1.67%   |
 | Realtek RTL8723DE Wireless Network Adapter                                            | 1         | 1.67%   |
@@ -2079,10 +2079,10 @@ Ethernet models
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.3%    |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.3%    |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.3%    |
+| Qualcomm Redmi Note 7                                             | 1         | 1.3%    |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.3%    |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.3%    |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.3%    |
-| Qualcomm Android                                                  | 1         | 1.3%    |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 1.3%    |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 1.3%    |
 | Intel Ethernet Connection I218-LM                                 | 1         | 1.3%    |
@@ -2199,8 +2199,8 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                          | 1         | 3.13%   |
 | Qualcomm Atheros Bluetooth USB Host Controller              | 1         | 3.13%   |
 | Qualcomm Atheros AR3011 Bluetooth                           | 1         | 3.13%   |
-| Lite-On Bluetooth Device                                    | 1         | 3.13%   |
-| Intel Bluetooth Device                                      | 1         | 3.13%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 3.13%   |
+| Intel AX201 Bluetooth                                       | 1         | 3.13%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter       | 1         | 3.13%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 3.13%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 3.13%   |
@@ -2586,8 +2586,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 51        | 68%     |
-| 1     | 23        | 30.67%  |
+| 0     | 52        | 69.33%  |
+| 1     | 22        | 29.33%  |
 | 2     | 1         | 1.33%   |
 
 Unsupported Device Types
@@ -2600,10 +2600,10 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 11        | 42.31%  |
-| Net/wireless       | 9         | 34.62%  |
-| Fingerprint reader | 2         | 7.69%   |
-| Chipcard           | 2         | 7.69%   |
-| Storage            | 1         | 3.85%   |
-| Network            | 1         | 3.85%   |
+| Graphics card      | 10        | 40%     |
+| Net/wireless       | 9         | 36%     |
+| Fingerprint reader | 2         | 8%      |
+| Chipcard           | 2         | 8%      |
+| Storage            | 1         | 4%      |
+| Network            | 1         | 4%      |
 

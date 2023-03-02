@@ -719,35 +719,35 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                            | Desktops | Percent |
-|----------------------------------|----------|---------|
-| Seagate ST2000DM008-2FR102 2TB   | 2        | 6.9%    |
-| Kingston SA400S37240G 240GB SSD  | 2        | 6.9%    |
-| WDC WDS500G2B0A-00SM50 500GB SSD | 1        | 3.45%   |
-| WDC WD10EZEX-60M2NA0 1TB         | 1        | 3.45%   |
-| Toshiba NVMe SSD Drive 512GB     | 1        | 3.45%   |
-| Toshiba MG04ACA200E 2TB          | 1        | 3.45%   |
-| SK hynix PC801 NVMe 512GB        | 1        | 3.45%   |
-| Seagate ST8000VN004-2M2101 8TB   | 1        | 3.45%   |
-| Seagate ST3750528AS 752GB        | 1        | 3.45%   |
-| Seagate ST3500414CS 500GB        | 1        | 3.45%   |
-| Seagate ST2000NX0253 2TB         | 1        | 3.45%   |
-| Seagate ST2000DM001-1ER164 2TB   | 1        | 3.45%   |
-| Seagate ST1000NX0423 1TB         | 1        | 3.45%   |
-| Seagate ST1000LM010-9YH146 1TB   | 1        | 3.45%   |
-| SanDisk SSD PLUS 2000GB          | 1        | 3.45%   |
-| SanDisk SDSSDH32000G 2TB         | 1        | 3.45%   |
-| Samsung SSD PM830 2.5 7mm 256GB  | 1        | 3.45%   |
-| Samsung SSD 960 EVO 250GB        | 1        | 3.45%   |
-| Samsung SSD 860 EVO 250GB        | 1        | 3.45%   |
-| Samsung SSD 850 EVO 2TB          | 1        | 3.45%   |
-| Samsung HD502IJ 500GB            | 1        | 3.45%   |
-| Phison NVMe SSD Drive 1TB        | 1        | 3.45%   |
-| Phison E12 NVMe Controller 1TB   | 1        | 3.45%   |
-| Kingston SUV400S37240G 240GB SSD | 1        | 3.45%   |
-| HP SSD S700 120GB                | 1        | 3.45%   |
-| Crucial CT500MX500SSD1 500GB     | 1        | 3.45%   |
-| Crucial CT2050MX300SSD1 2TB      | 1        | 3.45%   |
+| Model                             | Desktops | Percent |
+|-----------------------------------|----------|---------|
+| Seagate ST2000DM008-2FR102 2TB    | 2        | 6.9%    |
+| Kingston SA400S37240G 240GB SSD   | 2        | 6.9%    |
+| WDC WDS500G2B0A-00SM50 500GB SSD  | 1        | 3.45%   |
+| WDC WD10EZEX-60M2NA0 1TB          | 1        | 3.45%   |
+| Toshiba NVMe SSD Drive 512GB      | 1        | 3.45%   |
+| Toshiba MG04ACA200E 2TB           | 1        | 3.45%   |
+| SK hynix PC801 NVMe 512GB         | 1        | 3.45%   |
+| Seagate ST8000VN004-2M2101 8TB    | 1        | 3.45%   |
+| Seagate ST3750528AS 752GB         | 1        | 3.45%   |
+| Seagate ST3500414CS 500GB         | 1        | 3.45%   |
+| Seagate ST2000NX0253 2TB          | 1        | 3.45%   |
+| Seagate ST2000DM001-1ER164 2TB    | 1        | 3.45%   |
+| Seagate ST1000NX0423 1TB          | 1        | 3.45%   |
+| Seagate ST1000LM010-9YH146 1TB    | 1        | 3.45%   |
+| SanDisk SSD PLUS 2000GB           | 1        | 3.45%   |
+| SanDisk SDSSDH32000G 2TB          | 1        | 3.45%   |
+| Samsung SSD PM830 2.5 7mm 256GB   | 1        | 3.45%   |
+| Samsung SSD 960 EVO 250GB         | 1        | 3.45%   |
+| Samsung SSD 860 EVO 250GB         | 1        | 3.45%   |
+| Samsung SSD 850 EVO 2TB           | 1        | 3.45%   |
+| Samsung HD502IJ 500GB             | 1        | 3.45%   |
+| Phison NVMe SSD Drive 1TB         | 1        | 3.45%   |
+| Phison E12 NVMe Controller 1024GB | 1        | 3.45%   |
+| Kingston SUV400S37240G 240GB SSD  | 1        | 3.45%   |
+| HP SSD S700 120GB                 | 1        | 3.45%   |
+| Crucial CT500MX500SSD1 500GB      | 1        | 3.45%   |
+| Crucial CT2050MX300SSD1 2TB       | 1        | 3.45%   |
 
 HDD Vendor
 ----------
@@ -967,7 +967,7 @@ Storage controller models
 | Intel 500 Series Chipset Family SATA AHCI Controller                                    | 2        | 6.9%    |
 | VIA VT6415 PATA IDE Host Controller                                                     | 1        | 3.45%   |
 | Toshiba America Info Systems XG5 NVMe SSD Controller                                    | 1        | 3.45%   |
-| SK hynix Non-Volatile memory controller                                                 | 1        | 3.45%   |
+| SK hynix Platinum P41 NVMe Solid State Drive 2TB                                        | 1        | 3.45%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 3.45%   |
 | Intel SATA Controller [RAID mode]                                                       | 1        | 3.45%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 3.45%   |
@@ -1289,7 +1289,7 @@ Monitor models
 |---------------------------------------------------------------------|----------|---------|
 | Viotek SUW49C VTK4900 3840x1080 1196x336mm 48.9-inch                | 1        | 6.25%   |
 | Samsung Electronics SyncMaster SAM0564 1360x768 410x230mm 18.5-inch | 1        | 6.25%   |
-| Samsung Electronics S27D391 SAM0B89 1920x1080 600x340mm 27.2-inch   | 1        | 6.25%   |
+| Samsung Electronics S27D391 SAM0B89 1920x1080 598x336mm 27.0-inch   | 1        | 6.25%   |
 | Samsung Electronics S27D391 SAM0B88 1920x1080 598x336mm 27.0-inch   | 1        | 6.25%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch   | 1        | 6.25%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch   | 1        | 6.25%   |
@@ -1297,12 +1297,12 @@ Monitor models
 | SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch               | 1        | 6.25%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch          | 1        | 6.25%   |
 | Hewlett-Packard E273q HPN3474 2560x1440 597x336mm 27.0-inch         | 1        | 6.25%   |
-| Goldstar E2240 GSM57A3 1920x1080 480x270mm 21.7-inch                | 1        | 6.25%   |
+| Goldstar E2240 GSM57A3 1920x1080 477x268mm 21.5-inch                | 1        | 6.25%   |
 | Eizo EV2460 ENC3129 1920x1080 528x297mm 23.9-inch                   | 1        | 6.25%   |
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                   | 1        | 6.25%   |
 | Dell LCD Monitor U2415 3840x1200                                    | 1        | 6.25%   |
 | Dell IDRAC DEL0001 1280x1024                                        | 1        | 6.25%   |
-| BenQ GW2480 BNQ78E7 1920x1080 530x300mm 24.0-inch                   | 1        | 6.25%   |
+| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                   | 1        | 6.25%   |
 
 Monitor Resolution
 ------------------
@@ -1707,7 +1707,7 @@ Memory module models
 | Micron RAM 4ATF1G64AZ-3G2F1 8GB DIMM DDR4 3200MT/s        | 1        | 11.11%  |
 | Micron RAM 18ASF2G72PDZ-2G3B1 16GB DIMM DDR4 2400MT/s     | 1        | 11.11%  |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s            | 1        | 11.11%  |
-| Kingston RAM 9905471-006.A00LF 4096MB DIMM DDR3 1333MT/s  | 1        | 11.11%  |
+| Kingston RAM 9905471-006.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 11.11%  |
 | Kingston RAM 9905403-892.A00LF 8GB DIMM DDR3 1333MT/s     | 1        | 11.11%  |
 | Crucial RAM BLE8G4D34AEEAK.K8FB 8192MB DIMM DDR4 3466MT/s | 1        | 11.11%  |
 

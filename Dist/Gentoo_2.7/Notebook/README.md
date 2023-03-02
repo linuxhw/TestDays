@@ -724,8 +724,8 @@ Desktop Environment
 | XFCE           | 18        | 7.06%   |
 | KDE            | 15        | 5.88%   |
 | MATE           | 9         | 3.53%   |
-| Sway           | 5         | 1.96%   |
-| XSession       | 4         | 1.57%   |
+| sway           | 5         | 1.96%   |
+| Xsession       | 4         | 1.57%   |
 | LXQt           | 4         | 1.57%   |
 | LXDE           | 4         | 1.57%   |
 | DWM            | 4         | 1.57%   |
@@ -1173,8 +1173,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 213       | 87.3%   |
-| Yes       | 31        | 12.7%   |
+| No        | 212       | 86.89%  |
+| Yes       | 32        | 13.11%  |
 
 Has Ethernet
 ------------
@@ -1515,8 +1515,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 80        | 115    | 55.17%  |
-| 0.51-1.0   | 56        | 65     | 38.62%  |
+| 0.01-0.5   | 79        | 114    | 54.48%  |
+| 0.51-1.0   | 57        | 66     | 39.31%  |
 | 1.01-2.0   | 9         | 15     | 6.21%   |
 
 Space Total
@@ -2236,9 +2236,9 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch | 2         | 0.67%   |
 | BOE LCD Monitor BOE0898 1920x1080 294x165mm 13.3-inch                    | 2         | 0.67%   |
 | BOE LCD Monitor BOE0804 1920x1080 344x193mm 15.5-inch                    | 2         | 0.67%   |
-| BenQ GW2480 BNQ78E7 1920x1080 530x300mm 24.0-inch                        | 2         | 0.67%   |
+| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                        | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUOC48A 1920x1080 344x194mm 15.5-inch           | 2         | 0.67%   |
-| AU Optronics LCD Monitor AUO61ED 1920x1080 344x194mm 15.5-inch           | 2         | 0.67%   |
+| AU Optronics LCD Monitor AUO61ED 1920x1080 344x193mm 15.5-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO5A2D 1920x1080 293x165mm 13.2-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO408D 1920x1080 309x174mm 14.0-inch           | 2         | 0.67%   |
 | AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch           | 2         | 0.67%   |
@@ -2536,7 +2536,7 @@ Wireless vendors
 | Broadcom                        | 6         | 2.34%   |
 | Dell                            | 4         | 1.56%   |
 | Qualcomm                        | 3         | 1.17%   |
-| Fibocom                         | 3         | 1.17%   |
+| FIBOCOM                         | 3         | 1.17%   |
 | Ralink Technology               | 2         | 0.78%   |
 | Qualcomm Atheros Communications | 2         | 0.78%   |
 | MediaTek                        | 2         | 0.78%   |
@@ -2768,21 +2768,22 @@ Controller models
 | Intel Bluetooth wireless interface                                                  | 41        | 18.47%  |
 | Intel AX200 Bluetooth                                                               | 37        | 16.67%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 27        | 12.16%  |
-| Intel Bluetooth Device                                                              | 25        | 11.26%  |
+| Intel AX201 Bluetooth                                                               | 24        | 10.81%  |
 | Realtek Bluetooth Radio                                                             | 12        | 5.41%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 7         | 3.15%   |
-| Lite-On Bluetooth Device                                                            | 6         | 2.7%    |
 | Qualcomm Atheros  Bluetooth Device                                                  | 5         | 2.25%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 5         | 2.25%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 5         | 2.25%   |
+| Lite-On Bluetooth Device                                                            | 4         | 1.8%    |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 4         | 1.8%    |
 | Realtek RTL8723B Bluetooth                                                          | 3         | 1.35%   |
-| Realtek Bluetooth Radio                                                             | 3         | 1.35%   |
+| Realtek 802.11ac WLAN Adapter                                                       | 3         | 1.35%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 3         | 1.35%   |
 | Intel AX210 Bluetooth                                                               | 3         | 1.35%   |
 | Foxconn / Hon Hai Bluetooth Device                                                  | 3         | 1.35%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 0.9%    |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 2         | 0.9%    |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 2         | 0.9%    |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 2         | 0.9%    |
 | IMC Networks Wireless_Device                                                        | 2         | 0.9%    |
 | IMC Networks Bluetooth Radio                                                        | 2         | 0.9%    |
@@ -2796,6 +2797,7 @@ Controller models
 | Lite-On Bluetooth Radio                                                             | 1         | 0.45%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 0.45%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 0.45%   |
+| Intel Bluetooth Device                                                              | 1         | 0.45%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 0.45%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 0.45%   |
 | Dell Wireless 350 Bluetooth                                                         | 1         | 0.45%   |
@@ -2803,8 +2805,6 @@ Controller models
 | Dell BCM20702A0 Bluetooth Module                                                    | 1         | 0.45%   |
 | Chicony Bluetooth (RTL8723BE)                                                       | 1         | 0.45%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 1         | 0.45%   |
-| Broadcom BCM2045B (BDC-2) [Bluetooth Controller]                                    | 1         | 0.45%   |
-| ASUS BT-183 Bluetooth 2.0+EDR adapter                                               | 1         | 0.45%   |
 
 Sound
 -----
@@ -2947,19 +2947,18 @@ Memory module models
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 6         | 2.04%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s         | 6         | 2.04%   |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 5         | 1.7%    |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s    | 5         | 1.7%    |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 5         | 1.7%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s        | 5         | 1.7%    |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s       | 5         | 1.7%    |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s       | 4         | 1.36%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s        | 4         | 1.36%   |
 | Unknown RAM Module 1GB SODIMM DDR                            | 3         | 1.02%   |
 | SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s              | 3         | 1.02%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 3         | 1.02%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 3         | 1.02%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
-| Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s        | 3         | 1.02%   |
+| Samsung RAM M471A1K43BB0-CPB 8192MB SODIMM DDR4 2133MT/s     | 3         | 1.02%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 3         | 1.02%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s        | 3         | 1.02%   |
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s         | 3         | 1.02%   |
@@ -2968,9 +2967,11 @@ Memory module models
 | Kingston RAM 9905744-066.A00G 32GB SODIMM DDR4 3200MT/s      | 3         | 1.02%   |
 | SK hynix RAM Module 4GB SODIMM DDR4 2400MT/s                 | 2         | 0.68%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s        | 2         | 0.68%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 2         | 0.68%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMAA4GS6AJR8N-XN 32GB SODIMM DDR4 3200MT/s      | 2         | 0.68%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8192MB SODIMM DDR4 3200MT/s    | 2         | 0.68%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s | 2         | 0.68%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
@@ -2982,7 +2983,6 @@ Memory module models
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s       | 2         | 0.68%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s        | 2         | 0.68%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s        | 2         | 0.68%   |
 
 Memory Kind
 -----------

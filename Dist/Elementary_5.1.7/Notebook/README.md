@@ -1144,14 +1144,15 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Toshiba             | 20        | 24     | 31.75%  |
-| Seagate             | 13        | 15     | 20.63%  |
-| Hitachi             | 10        | 11     | 15.87%  |
-| WDC                 | 8         | 10     | 12.7%   |
-| HGST                | 7         | 8      | 11.11%  |
-| Fujitsu             | 3         | 3      | 4.76%   |
-| Samsung Electronics | 1         | 3      | 1.59%   |
-| Apple               | 1         | 1      | 1.59%   |
+| Toshiba             | 20        | 24     | 31.25%  |
+| Seagate             | 13        | 15     | 20.31%  |
+| Hitachi             | 10        | 11     | 15.63%  |
+| WDC                 | 8         | 10     | 12.5%   |
+| HGST                | 7         | 8      | 10.94%  |
+| Fujitsu             | 3         | 3      | 4.69%   |
+| Samsung Electronics | 1         | 3      | 1.56%   |
+| JMicron Technology  | 1         | 1      | 1.56%   |
+| Apple               | 1         | 1      | 1.56%   |
 
 SSD Vendor
 ----------
@@ -1163,29 +1164,28 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SanDisk             | 13        | 15     | 17.33%  |
-| Kingston            | 13        | 14     | 17.33%  |
-| Crucial             | 10        | 12     | 13.33%  |
-| Samsung Electronics | 9         | 10     | 12%     |
-| WDC                 | 5         | 5      | 6.67%   |
-| Intel               | 5         | 5      | 6.67%   |
-| Toshiba             | 2         | 2      | 2.67%   |
-| Apple               | 2         | 2      | 2.67%   |
-| A-DATA Technology   | 2         | 2      | 2.67%   |
-| V-GeN               | 1         | 1      | 1.33%   |
-| TO Exter            | 1         | 1      | 1.33%   |
-| Star                | 1         | 1      | 1.33%   |
-| SPCC                | 1         | 1      | 1.33%   |
-| SK hynix            | 1         | 1      | 1.33%   |
-| PNY                 | 1         | 1      | 1.33%   |
-| Patriot             | 1         | 1      | 1.33%   |
-| NGFF                | 1         | 1      | 1.33%   |
-| Micron Technology   | 1         | 2      | 1.33%   |
-| LITEON              | 1         | 1      | 1.33%   |
-| JMicron Technology  | 1         | 1      | 1.33%   |
-| Intenso             | 1         | 1      | 1.33%   |
-| Hewlett-Packard     | 1         | 1      | 1.33%   |
-| Gigabyte Technology | 1         | 1      | 1.33%   |
+| SanDisk             | 13        | 15     | 17.57%  |
+| Kingston            | 13        | 14     | 17.57%  |
+| Crucial             | 10        | 12     | 13.51%  |
+| Samsung Electronics | 9         | 10     | 12.16%  |
+| WDC                 | 5         | 5      | 6.76%   |
+| Intel               | 5         | 5      | 6.76%   |
+| Toshiba             | 2         | 2      | 2.7%    |
+| Apple               | 2         | 2      | 2.7%    |
+| A-DATA Technology   | 2         | 2      | 2.7%    |
+| V-GeN               | 1         | 1      | 1.35%   |
+| TO Exter            | 1         | 1      | 1.35%   |
+| Star                | 1         | 1      | 1.35%   |
+| SPCC                | 1         | 1      | 1.35%   |
+| SK hynix            | 1         | 1      | 1.35%   |
+| PNY                 | 1         | 1      | 1.35%   |
+| Patriot             | 1         | 1      | 1.35%   |
+| NGFF                | 1         | 1      | 1.35%   |
+| Micron Technology   | 1         | 2      | 1.35%   |
+| LITEON              | 1         | 1      | 1.35%   |
+| Intenso             | 1         | 1      | 1.35%   |
+| Hewlett-Packard     | 1         | 1      | 1.35%   |
+| Gigabyte Technology | 1         | 1      | 1.35%   |
 
 Drive Kind
 ----------
@@ -1197,8 +1197,8 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| SSD     | 69        | 82     | 40.12%  |
-| HDD     | 61        | 75     | 35.47%  |
+| SSD     | 69        | 81     | 40.12%  |
+| HDD     | 61        | 76     | 35.47%  |
 | NVMe    | 29        | 36     | 16.86%  |
 | MMC     | 12        | 14     | 6.98%   |
 | Unknown | 1         | 1      | 0.58%   |
@@ -1228,9 +1228,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 92        | 115    | 71.32%  |
-| 0.51-1.0   | 34        | 39     | 26.36%  |
-| 1.01-2.0   | 3         | 3      | 2.33%   |
+| 0.01-0.5   | 92        | 114    | 71.88%  |
+| 0.51-1.0   | 32        | 39     | 25%     |
+| 1.01-2.0   | 4         | 4      | 3.13%   |
 
 Space Total
 -----------
@@ -1844,7 +1844,7 @@ Monitor models
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                        | 2         | 1.26%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 2         | 1.26%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1018 1024x600 222x125mm 10.0-inch | 2         | 1.26%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch           | 2         | 1.26%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch           | 2         | 1.26%   |
 | AU Optronics LCD Monitor AUO105C 1366x768 256x144mm 11.6-inch            | 2         | 1.26%   |
 | Apple Color LCD APP9CC7 1280x800 286x179mm 13.3-inch                     | 2         | 1.26%   |
 | ___ LCDTV16 ___0101 1360x768                                             | 1         | 0.63%   |
@@ -1861,10 +1861,10 @@ Monitor models
 | Samsung Electronics SyncMaster SAM056A 1680x1050 459x296mm 21.5-inch     | 1         | 0.63%   |
 | Samsung Electronics SyncMaster SAM0560 1440x900 408x255mm 18.9-inch      | 1         | 0.63%   |
 | Samsung Electronics LS32R75 SAM0F92 3840x2160 697x392mm 31.5-inch        | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SEC5448 1920x1080 353x198mm 15.9-inch    | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch    | 1         | 0.63%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 0.63%   |
 | Samsung Electronics LCD Monitor SEC3849 1366x768 309x174mm 14.0-inch     | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SEC3155 1366x768 293x165mm 13.2-inch     | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch    | 1         | 0.63%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch     | 1         | 0.63%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 0.63%   |
 | Samsung Electronics LCD Monitor SEC314F 1600x900 382x215mm 17.3-inch     | 1         | 0.63%   |
@@ -1876,7 +1876,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch    | 1         | 0.63%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch        | 1         | 0.63%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch        | 1         | 0.63%   |
-| PANDA LM116LF3L02 NCP000A 1920x1080 256x144mm 11.6-inch                  | 1         | 0.63%   |
+| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch                  | 1         | 0.63%   |
 
 Monitor Resolution
 ------------------
@@ -2246,7 +2246,7 @@ Ethernet models
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 0.79%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 0.79%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 0.79%   |
-| Qualcomm FP3                                                      | 1         | 0.79%   |
+| Qualcomm Redmi 9T                                                 | 1         | 0.79%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 0.79%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 0.79%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 0.79%   |
@@ -2366,16 +2366,16 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 21        | 17.36%  |
 | Apple Bluetooth Host Controller                                                     | 8         | 6.61%   |
-| Intel Bluetooth Device                                                              | 7         | 5.79%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 7         | 5.79%   |
+| Intel AX201 Bluetooth                                                               | 7         | 5.79%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 6         | 4.96%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 6         | 4.96%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 5         | 4.13%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 4         | 3.31%   |
 | Realtek Bluetooth Radio                                                             | 4         | 3.31%   |
-| Lite-On Bluetooth Device                                                            | 4         | 3.31%   |
 | Intel AX200 Bluetooth                                                               | 4         | 3.31%   |
 | Apple Bluetooth HCI                                                                 | 4         | 3.31%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 3         | 2.48%   |
 | HP Broadcom 2070 Bluetooth Combo                                                    | 3         | 2.48%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 2         | 1.65%   |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 2         | 1.65%   |
@@ -2388,13 +2388,14 @@ Controller models
 | Toshiba Askey Bluetooth Module                                                      | 1         | 0.83%   |
 | Taiyo Yuden Bluetooth Device (V2.0+EDR)                                             | 1         | 0.83%   |
 | Realtek RTL8723B Bluetooth                                                          | 1         | 0.83%   |
-| Realtek Bluetooth Radio                                                             | 1         | 0.83%   |
+| Realtek 802.11ac WLAN Adapter                                                       | 1         | 0.83%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 0.83%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 0.83%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 1         | 0.83%   |
 | Qcom Broadcom Bluetooth USB                                                         | 1         | 0.83%   |
 | Logitech BT Mini-Receiver (HCI mode)                                                | 1         | 0.83%   |
 | Lite-On Qualcomm Atheros Bluetooth                                                  | 1         | 0.83%   |
+| Lite-On Bluetooth Device                                                            | 1         | 0.83%   |
 | Lite-On Atheros Bluetooth                                                           | 1         | 0.83%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 0.83%   |
 | IMC Networks Bluetooth Radio                                                        | 1         | 0.83%   |
@@ -2403,7 +2404,6 @@ Controller models
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 0.83%   |
 | Dell Wireless 370 Bluetooth Mini-card                                               | 1         | 0.83%   |
 | Broadcom HP Portable SoftSailing                                                    | 1         | 0.83%   |
-| Broadcom BCM43142A0 Bluetooth 4.0                                                   | 1         | 0.83%   |
 
 Sound
 -----
@@ -2521,7 +2521,7 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 4         | 4.17%   |
+| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s         | 4         | 4.17%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 2         | 2.08%   |
 | Samsung RAM Module 16384MB SODIMM DDR4 2667MT/s                  | 2         | 2.08%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 2.08%   |
@@ -2539,8 +2539,8 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                       | 1         | 1.04%   |
 | Unknown RAM Module 16GB Row Of Chips LPDDR4 3733MT/s             | 1         | 1.04%   |
 | Unknown RAM Module 1024MB SODIMM DDR3 667MT/s                    | 1         | 1.04%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s     | 1         | 1.04%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.04%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 1         | 1.04%   |
 | Transcend RAM Module 2048MB SODIMM DDR2 667MT/s                  | 1         | 1.04%   |
 | Timetec RAM SD4-2666 16GB SODIMM DDR4 2667MT/s                   | 1         | 1.04%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 1.04%   |
@@ -2549,17 +2549,17 @@ Memory module models
 | SK hynix RAM Module 4096MB DIMM DDR3 1066MT/s                    | 1         | 1.04%   |
 | SK hynix RAM Module 2GB SODIMM DDR2 667MT/s                      | 1         | 1.04%   |
 | SK hynix RAM Module 1024MB SODIMM DDR2 800MT/s                   | 1         | 1.04%   |
-| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s            | 1         | 1.04%   |
+| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 1.04%   |
 | SK hynix RAM HMT451S6MFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.04%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.04%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.04%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.04%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.04%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 1         | 1.04%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 1.04%   |
-| SK hynix RAM HMP125S6EFR8C-S6 2GB SODIMM DDR 800MT/s             | 1         | 1.04%   |
+| SK hynix RAM HMP125S6EFR8C-S6 2048MB SODIMM DDR 800MT/s          | 1         | 1.04%   |
 | SK hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 1.04%   |
-| SK hynix RAM HMA851S6CJR6N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 1.04%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s        | 1         | 1.04%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 1.04%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 1.04%   |
 | Samsung RAM Module 2GB SODIMM LPDDR3 1867MT/s                    | 1         | 1.04%   |
 
 Memory Kind
@@ -2857,8 +2857,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 99        | 66%     |
-| 1     | 39        | 26%     |
+| 0     | 101       | 67.33%  |
+| 1     | 37        | 24.67%  |
 | 2     | 8         | 5.33%   |
 | 3     | 4         | 2.67%   |
 
@@ -2872,12 +2872,12 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 24        | 36.36%  |
-| Graphics card      | 14        | 21.21%  |
-| Chipcard           | 13        | 19.7%   |
-| Net/wireless       | 8         | 12.12%  |
-| Camera             | 3         | 4.55%   |
-| Storage            | 2         | 3.03%   |
-| Net/ethernet       | 1         | 1.52%   |
-| Bluetooth          | 1         | 1.52%   |
+| Fingerprint reader | 24        | 37.5%   |
+| Chipcard           | 13        | 20.31%  |
+| Graphics card      | 12        | 18.75%  |
+| Net/wireless       | 8         | 12.5%   |
+| Camera             | 3         | 4.69%   |
+| Storage            | 2         | 3.13%   |
+| Net/ethernet       | 1         | 1.56%   |
+| Bluetooth          | 1         | 1.56%   |
 

@@ -1188,8 +1188,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 192      | 68.82%  |
-| Yes       | 87       | 31.18%  |
+| No        | 191      | 68.46%  |
+| Yes       | 88       | 31.54%  |
 
 Has Ethernet
 ------------
@@ -1541,13 +1541,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 165      | 346    | 39.66%  |
-| 0.51-1.0   | 110      | 186    | 26.44%  |
-| 1.01-2.0   | 61       | 133    | 14.66%  |
-| 3.01-4.0   | 36       | 75     | 8.65%   |
-| 2.01-3.0   | 24       | 45     | 5.77%   |
-| 4.01-10.0  | 16       | 69     | 3.85%   |
-| 10.01-20.0 | 3        | 7      | 0.72%   |
+| 0.01-0.5   | 165      | 347    | 39.95%  |
+| 0.51-1.0   | 107      | 184    | 25.91%  |
+| 1.01-2.0   | 61       | 134    | 14.77%  |
+| 3.01-4.0   | 36       | 75     | 8.72%   |
+| 2.01-3.0   | 24       | 45     | 5.81%   |
+| 4.01-10.0  | 16       | 69     | 3.87%   |
+| 10.01-20.0 | 3        | 7      | 0.73%   |
 | 20.01-50.0 | 1        | 1      | 0.24%   |
 
 Space Total
@@ -1846,10 +1846,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 243      | 54.36%  |
-| NVMe | 146      | 32.66%  |
-| IDE  | 30       | 6.71%   |
-| RAID | 20       | 4.47%   |
+| SATA | 243      | 54.24%  |
+| NVMe | 146      | 32.59%  |
+| IDE  | 31       | 6.92%   |
+| RAID | 20       | 4.46%   |
 | SAS  | 4        | 0.89%   |
 | SCSI | 4        | 0.89%   |
 
@@ -2312,9 +2312,9 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                  | 4        | 1.17%   |
 | Iiyama PL2409HD IVM560C 1920x1080 521x293mm 23.5-inch                  | 4        | 1.17%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 4        | 1.17%   |
+| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch               | 4        | 1.17%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 4        | 1.17%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 4        | 1.17%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 597x336mm 27.0-inch                 | 4        | 1.17%   |
 | Fujitsu Siemens P24W-6 IPS FUS07EA 1920x1200 518x324mm 24.1-inch       | 4        | 1.17%   |
 | Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                      | 4        | 1.17%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch               | 3        | 0.87%   |
@@ -2326,12 +2326,12 @@ Monitor models
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 2        | 0.58%   |
 | Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch      | 2        | 0.58%   |
 | Samsung Electronics LCD Monitor SAM0C39 1920x1080 885x498mm 40.0-inch  | 2        | 0.58%   |
-| Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 2        | 0.58%   |
+| Samsung Electronics LC49G95T SAM7053 2560x1440 1193x336mm 48.8-inch    | 2        | 0.58%   |
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch     | 2        | 0.58%   |
 | Samsung Electronics C49HG9x SAM0E5E 3840x1080 1196x336mm 48.9-inch     | 2        | 0.58%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 2        | 0.58%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                 | 2        | 0.58%   |
-| MSI G273Q MSI3CA8 2560x1440 597x336mm 27.0-inch                        | 2        | 0.58%   |
+| MSI MAG341CQ MSI1462 3440x1440 797x334mm 34.0-inch                     | 2        | 0.58%   |
+| MSI MAG274QRF MSI3CA8 2560x1440 597x336mm 27.0-inch                    | 2        | 0.58%   |
 | Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                   | 2        | 0.58%   |
 | Idek Iiyama LCD Monitor PLE2607WS                                      | 2        | 0.58%   |
 | Hewlett-Packard LA1951 HWP285B 1280x1024 380x300mm 19.1-inch           | 2        | 0.58%   |
@@ -2340,8 +2340,8 @@ Monitor models
 | Fujitsu Siemens P24W-5 ECO FUS06A7 1920x1200 518x324mm 24.1-inch       | 2        | 0.58%   |
 | Dell U2720Q DEL41B3 3840x2160 597x336mm 27.0-inch                      | 2        | 0.58%   |
 | BenQ GL2450 BNQ78A5 1920x1080 531x298mm 24.0-inch                      | 2        | 0.58%   |
-| BenQ E2200HD BNQ790C 1920x1080 470x260mm 21.1-inch                     | 2        | 0.58%   |
-| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                     | 2        | 0.58%   |
+| BenQ E2200HD BNQ790C 1920x1080 477x268mm 21.5-inch                     | 2        | 0.58%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                      | 2        | 0.58%   |
 | AOC 2473W1M AOC2473 1920x1080 527x296mm 23.8-inch                      | 2        | 0.58%   |
 | AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                        | 2        | 0.58%   |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch       | 2        | 0.58%   |
@@ -2750,7 +2750,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 1        | 0.31%   |
 | QLogic cLOM8214 1/10GbE Controller                                            | 1        | 0.31%   |
 | Nvidia MCP79 Ethernet                                                         | 1        | 0.31%   |
-| MediaTek File-CD Gadget                                                       | 1        | 0.31%   |
+| MediaTek moto e(6) plus                                                       | 1        | 0.31%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                       | 1        | 0.31%   |
 | Intel Ethernet Controller X710 for 10GbE SFP+                                 | 1        | 0.31%   |
 | Intel Ethernet Connection I217-V                                              | 1        | 0.31%   |
@@ -2849,7 +2849,7 @@ Controller models
 |----------------------------------------------------------------------|----------|---------|
 | Intel AX200 Bluetooth                                                | 37       | 34.26%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                  | 22       | 20.37%  |
-| Intel Bluetooth Device                                               | 7        | 6.48%   |
+| Intel AX201 Bluetooth                                                | 7        | 6.48%   |
 | Intel Wireless-AC 3168 Bluetooth                                     | 6        | 5.56%   |
 | Intel Bluetooth wireless interface                                   | 6        | 5.56%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                             | 5        | 4.63%   |
@@ -2896,7 +2896,6 @@ Sound card vendors
 | BEHRINGER International              | 4        | 0.84%   |
 | ASUSTek Computer                     | 3        | 0.63%   |
 | SteelSeries ApS                      | 2        | 0.42%   |
-| Sennheiser Communications            | 2        | 0.42%   |
 | SAVITECH                             | 2        | 0.42%   |
 | RODE Microphones                     | 2        | 0.42%   |
 | GYROCOM C&C                          | 2        | 0.42%   |
@@ -2905,6 +2904,7 @@ Sound card vendors
 | Thesycon Systemsoftware & Consulting | 1        | 0.21%   |
 | Syntek                               | 1        | 0.21%   |
 | Solid State Logic                    | 1        | 0.21%   |
+| Sennheiser Communications            | 1        | 0.21%   |
 | Samson Technologies                  | 1        | 0.21%   |
 | Realtek Semiconductor                | 1        | 0.21%   |
 | QinHeng Electronics                  | 1        | 0.21%   |
@@ -2917,10 +2917,10 @@ Sound card vendors
 | FiiO Electronics Technology          | 1        | 0.21%   |
 | Ensoniq                              | 1        | 0.21%   |
 | Elgato Systems                       | 1        | 0.21%   |
+| DSEA A/S                             | 1        | 0.21%   |
 | Dell                                 | 1        | 0.21%   |
 | Cirrus Logic                         | 1        | 0.21%   |
 | Blue Microphones                     | 1        | 0.21%   |
-| Aureal Semiconductor                 | 1        | 0.21%   |
 
 Sound Model
 -----------
@@ -3043,7 +3043,7 @@ Memory module models
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s        | 2        | 0.66%   |
 | SK hynix RAM HMA41GU6AFR8N-TF 8GB DIMM DDR4 2465MT/s      | 2        | 0.66%   |
 | Samsung RAM Module 4GB DIMM DDR3 1066MT/s                 | 2        | 0.66%   |
-| Patriot RAM 3200 C16 Series 32GB DIMM DDR4 3266MT/s       | 2        | 0.66%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s        | 2        | 0.66%   |
 | Nanya RAM M2F4G64CB88B7N-DI 4GB DIMM DDR3 1600MT/s        | 2        | 0.66%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                 | 2        | 0.66%   |
 | Kingston RAM KHX2666C16D4/16GX 16384MB DIMM DDR4 2667MT/s | 2        | 0.66%   |
@@ -3121,7 +3121,7 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 3600    | 39       | 13.73%  |
+| 3600    | 38       | 13.38%  |
 | 3200    | 38       | 13.38%  |
 | 1600    | 29       | 10.21%  |
 | 2400    | 20       | 7.04%   |
@@ -3136,9 +3136,9 @@ Memory module speed
 | 667     | 8        | 2.82%   |
 | 3466    | 7        | 2.46%   |
 | Unknown | 6        | 2.11%   |
+| 3800    | 5        | 1.76%   |
 | 2666    | 5        | 1.76%   |
 | 3866    | 4        | 1.41%   |
-| 3800    | 4        | 1.41%   |
 | 1066    | 4        | 1.41%   |
 | 3333    | 3        | 1.06%   |
 | 3100    | 3        | 1.06%   |
@@ -3258,6 +3258,7 @@ Camera device models
 | Samsung Galaxy A5 (MTP)                     | 3        | 4.29%   |
 | Logitech Webcam C310                        | 3        | 4.29%   |
 | ARC International Camera                    | 3        | 4.29%   |
+| Realtek FULL HD 1080P Webcam                | 2        | 2.86%   |
 | MacroSilicon USB Video                      | 2        | 2.86%   |
 | Logitech Webcam C925e                       | 2        | 2.86%   |
 | Logitech Webcam C200                        | 2        | 2.86%   |
@@ -3265,12 +3266,10 @@ Camera device models
 | Logitech C920 PRO HD Webcam                 | 2        | 2.86%   |
 | Logitech B525 HD Webcam                     | 2        | 2.86%   |
 | Z-Star Vimicro USB Camera (Altair)          | 1        | 1.43%   |
-| Sunplus MYPIN HD Capture                    | 1        | 1.43%   |
-| Realtek USB Camera                          | 1        | 1.43%   |
-| Realtek Full HD webcam                      | 1        | 1.43%   |
+| Sunplus UHD Capture                         | 1        | 1.43%   |
 | Microdia Webcam Vitade AF                   | 1        | 1.43%   |
-| Microdia USB 2.0 Camera                     | 1        | 1.43%   |
 | Microdia Defender G-Lens 2577 HD720p Camera | 1        | 1.43%   |
+| Microdia CameraA                            | 1        | 1.43%   |
 | Microdia Camera                             | 1        | 1.43%   |
 | Logitech Webcam Pro 9000                    | 1        | 1.43%   |
 | Logitech Webcam C930e                       | 1        | 1.43%   |

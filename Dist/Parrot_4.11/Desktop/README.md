@@ -736,8 +736,8 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Unknown SD/MMC/MS PRO 2GB             | 2        | 3.57%   |
-| Seagate Expansion 240GB               | 2        | 3.57%   |
+| Unknown SD/MMC/MS PRO 16GB            | 2        | 3.57%   |
+| Seagate Expansion 1TB                 | 2        | 3.57%   |
 | WDC WDBNCE0010PNC 1TB SSD             | 1        | 1.79%   |
 | WDC WD5000AADS-00S9B0 500GB           | 1        | 1.79%   |
 | WDC WD5000AACS-00ZUB0 500GB           | 1        | 1.79%   |
@@ -855,10 +855,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 38     | 55.88%  |
-| 0.51-1.0   | 12       | 13     | 35.29%  |
-| 1.01-2.0   | 2        | 2      | 5.88%   |
-| 3.01-4.0   | 1        | 1      | 2.94%   |
+| 0.01-0.5   | 19       | 37     | 54.29%  |
+| 0.51-1.0   | 13       | 14     | 37.14%  |
+| 1.01-2.0   | 2        | 2      | 5.71%   |
+| 3.01-4.0   | 1        | 1      | 2.86%   |
 
 Space Total
 -----------
@@ -974,7 +974,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 512GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 256GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1384,7 +1384,7 @@ Monitor models
 
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
-| Vizio E370VL VIZ0070 1920x1080 820x461mm 37.0-inch          | 1        | 4%      |
+| Vizio E421VO VIZ0070 1920x1080 930x523mm 42.0-inch          | 1        | 4%      |
 | Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch            | 1        | 4%      |
 | Sony SDM-HX73 SNY2870 1280x1024 338x270mm 17.0-inch         | 1        | 4%      |
 | Sceptre LCD Monitor P30 2560x1080                           | 1        | 4%      |
@@ -1867,7 +1867,7 @@ Memory module models
 | SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s   | 1        | 7.14%   |
 | S RAM Module 2GB DIMM DDR3 1600MT/s                   | 1        | 7.14%   |
 | Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3            | 1        | 7.14%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s   | 1        | 7.14%   |
 | Kingston RAM ACR24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s   | 1        | 7.14%   |
 | Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 7.14%   |
 | Crucial RAM CT102464BA1339.C16 8GB DIMM DDR3 1333MT/s | 1        | 7.14%   |

@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 52
+Total: 53
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell          | 0J1C3P A00                  | [b3d00219b0](https://linux-hardware.org/?probe=b3d00219b0) | Feb 07, 2023 |
 | ASRock        | X470 Master SLI/ac          | [d8f1121a19](https://linux-hardware.org/?probe=d8f1121a19) | Jan 19, 2023 |
 | Lenovo        | SHARKBAY 0B98401 WIN        | [68a73ee517](https://linux-hardware.org/?probe=68a73ee517) | Jan 19, 2023 |
 | ASRock        | X470 Master SLI/ac          | [6b6a4929de](https://linux-hardware.org/?probe=6b6a4929de) | Jan 16, 2023 |
@@ -193,7 +194,7 @@ Total: 52
 | HP            | 21B4 A01                    | [98accc83e4](https://linux-hardware.org/?probe=98accc83e4) | Nov 11, 2021 |
 | Dell          | 0T10XW A00                  | [585636f7fe](https://linux-hardware.org/?probe=585636f7fe) | Sep 08, 2021 |
 | Shuttle       | FS81                        | [9a98a31681](https://linux-hardware.org/?probe=9a98a31681) | Sep 06, 2021 |
-| Gigabyte      | Z690 GAMING X DDR4          | [3199a22608](https://linux-hardware.org/?probe=3199a22608) | Jul 15, 2021 |
+| Dell          | 0J1C3P A00                  | [3199a22608](https://linux-hardware.org/?probe=3199a22608) | Jul 15, 2021 |
 | Dell          | 0VRWRC A00                  | [37a6ad6e02](https://linux-hardware.org/?probe=37a6ad6e02) | Apr 09, 2021 |
 | ASUSTek       | P8H67-V                     | [89edd8b343](https://linux-hardware.org/?probe=89edd8b343) | Mar 17, 2021 |
 | HP            | ProLiant MicroServer Gen... | [af637820c2](https://linux-hardware.org/?probe=af637820c2) | Feb 12, 2021 |
@@ -204,7 +205,7 @@ Total: 52
 | VIA Techno... | KM266APro-835               | [25ec3d44ff](https://linux-hardware.org/?probe=25ec3d44ff) | Aug 16, 2020 |
 | Gigabyte      | Z490I AORUS ULTRA           | [58dce1215c](https://linux-hardware.org/?probe=58dce1215c) | Aug 13, 2020 |
 | ASUSTek       | PRIME H370M-PLUS            | [0c50242cc5](https://linux-hardware.org/?probe=0c50242cc5) | Aug 09, 2020 |
-| Gigabyte      | Z690 GAMING X DDR4          | [d05c262e67](https://linux-hardware.org/?probe=d05c262e67) | Aug 06, 2020 |
+| Dell          | 0J1C3P A00                  | [d05c262e67](https://linux-hardware.org/?probe=d05c262e67) | Aug 06, 2020 |
 | ASRock        | J3455M                      | [05f9d5c3b4](https://linux-hardware.org/?probe=05f9d5c3b4) | Aug 06, 2020 |
 | eMachines     | EL1352G                     | [4513d2931f](https://linux-hardware.org/?probe=4513d2931f) | Jul 03, 2020 |
 | eMachines     | EL1352G                     | [4b26717c89](https://linux-hardware.org/?probe=4b26717c89) | Jul 03, 2020 |
@@ -523,9 +524,9 @@ Motherboard manufacturer
 
 | Name                | Desktops | Percent |
 |---------------------|----------|---------|
-| Dell                | 6        | 17.14%  |
-| Gigabyte Technology | 5        | 14.29%  |
+| Dell                | 7        | 20%     |
 | ASUSTek Computer    | 5        | 14.29%  |
+| Gigabyte Technology | 4        | 11.43%  |
 | ASRock              | 4        | 11.43%  |
 | Lenovo              | 2        | 5.71%   |
 | Intel               | 2        | 5.71%   |
@@ -549,6 +550,7 @@ Motherboard model
 | Name                               | Desktops | Percent |
 |------------------------------------|----------|---------|
 | Gigabyte Z490I AORUS ULTRA         | 2        | 5.71%   |
+| Dell Precision 3660                | 2        | 5.71%   |
 | ASUS All Series                    | 2        | 5.71%   |
 | Unknown                            | 2        | 5.71%   |
 | VIA KM266APro-835                  | 1        | 2.86%   |
@@ -560,14 +562,12 @@ Motherboard model
 | Intel DH61BF AAG81311-101          | 1        | 2.86%   |
 | HP ProLiant MicroServer Gen8       | 1        | 2.86%   |
 | HP Compaq 4000 Pro SFF PC          | 1        | 2.86%   |
-| Gigabyte Z690 GAMING X DDR4        | 1        | 2.86%   |
 | Gigabyte X570S AERO G              | 1        | 2.86%   |
 | Gigabyte B550 AORUS ELITE V2       | 1        | 2.86%   |
 | Gateway SX2185                     | 1        | 2.86%   |
 | Fujitsu PRIMERGY TX100 S2          | 1        | 2.86%   |
 | Fujitsu FujitsuTP7000              | 1        | 2.86%   |
 | eMachines EL1352G                  | 1        | 2.86%   |
-| Dell Precision 3660                | 1        | 2.86%   |
 | Dell OptiPlex 755                  | 1        | 2.86%   |
 | Dell OptiPlex 5000                 | 1        | 2.86%   |
 | Dell OptiPlex 3020M                | 1        | 2.86%   |
@@ -593,6 +593,7 @@ Motherboard model prefix
 |-----------------------|----------|---------|
 | Dell OptiPlex         | 4        | 11.43%  |
 | Gigabyte Z490I        | 2        | 5.71%   |
+| Dell Precision        | 2        | 5.71%   |
 | ASUS All              | 2        | 5.71%   |
 | Unknown               | 2        | 5.71%   |
 | VIA KM266APro-835     | 1        | 2.86%   |
@@ -604,14 +605,12 @@ Motherboard model prefix
 | Intel DH61BF          | 1        | 2.86%   |
 | HP ProLiant           | 1        | 2.86%   |
 | HP Compaq             | 1        | 2.86%   |
-| Gigabyte Z690         | 1        | 2.86%   |
 | Gigabyte X570S        | 1        | 2.86%   |
 | Gigabyte B550         | 1        | 2.86%   |
 | Gateway SX2185        | 1        | 2.86%   |
 | Fujitsu PRIMERGY      | 1        | 2.86%   |
 | Fujitsu FujitsuTP7000 | 1        | 2.86%   |
 | eMachines EL1352G     | 1        | 2.86%   |
-| Dell Precision        | 1        | 2.86%   |
 | Dell Inspiron         | 1        | 2.86%   |
 | ASUS TS10             | 1        | 2.86%   |
 | ASUS PRIME            | 1        | 2.86%   |
@@ -632,9 +631,9 @@ Motherboard manufacture year
 | Year    | Desktops | Percent |
 |---------|----------|---------|
 | 2014    | 8        | 22.86%  |
-| 2020    | 4        | 11.43%  |
+| 2012    | 5        | 14.29%  |
 | 2013    | 4        | 11.43%  |
-| 2012    | 4        | 11.43%  |
+| 2020    | 3        | 8.57%   |
 | 2018    | 3        | 8.57%   |
 | 2010    | 3        | 8.57%   |
 | 2022    | 1        | 2.86%   |
@@ -1609,9 +1608,9 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01E1 1280x1024 376x301mm 19.0-inch  | 1        | 3.7%    |
 | Samsung Electronics LCD Monitor SAM0B60 1920x1080 887x500mm 40.1-inch | 1        | 3.7%    |
 | Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch  | 1        | 3.7%    |
-| Mi Monitor XMI2701 2560x1440 597x335mm 27.0-inch                      | 1        | 3.7%    |
+| Mi Monitor XMI2701 2560x1440 597x336mm 27.0-inch                      | 1        | 3.7%    |
 | KVM LCD Monitor17 KVM4308 1280x1024 338x270mm 17.0-inch               | 1        | 3.7%    |
-| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 1        | 3.7%    |
+| Goldstar Ultra HD GSM5B08 3780x2160 600x340mm 27.2-inch               | 1        | 3.7%    |
 | Goldstar HDR 4K GSM774F 3840x2160 697x392mm 31.5-inch                 | 1        | 3.7%    |
 | Elo Touch ET1717L ELO1717 1280x1024 338x270mm 17.0-inch               | 1        | 3.7%    |
 | Dell U2518D DEL413A 2560x1440 550x310mm 24.9-inch                     | 1        | 3.7%    |
@@ -1619,7 +1618,7 @@ Monitor models
 | Dell P2311H DEL4066 1920x1080 509x286mm 23.0-inch                     | 1        | 3.7%    |
 | Dell E172FP DELA00A 1280x1024 338x270mm 17.0-inch                     | 1        | 3.7%    |
 | CTC KD02909-8770A CTC0770 1024x768 304x228mm 15.0-inch                | 1        | 3.7%    |
-| BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                    | 1        | 3.7%    |
+| BenQ ZOWIE XL LCD BNQ7F31 1920x1080 531x298mm 24.0-inch               | 1        | 3.7%    |
 | BenQ GW2280 BNQ78E8 1920x1080 476x268mm 21.5-inch                     | 1        | 3.7%    |
 | BenQ BL2405 BNQ8016 1920x1080 531x298mm 24.0-inch                     | 1        | 3.7%    |
 | AOC 718Swag-1 AOCC750 1440x900 367x230mm 17.1-inch                    | 1        | 3.7%    |
@@ -1800,14 +1799,14 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                        | 1        | 1.79%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                  | 1        | 1.79%   |
 | VIA VT6102/VT6103 [Rhine-II]                                          | 1        | 1.79%   |
-| T & A Mobile Phones A509DL                                            | 1        | 1.79%   |
+| T & A Mobile Phones Alcatel JOY TAB 2                                 | 1        | 1.79%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                    | 1        | 1.79%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                   | 1        | 1.79%   |
 | Realtek RTL8188EE Wireless Network Adapter                            | 1        | 1.79%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                              | 1        | 1.79%   |
 | Realtek RTL8125 2.5GbE Controller                                     | 1        | 1.79%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                 | 1        | 1.79%   |
-| Qualcomm FP3                                                          | 1        | 1.79%   |
+| Qualcomm Redmi 9T                                                     | 1        | 1.79%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter            | 1        | 1.79%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                             | 1        | 1.79%   |
 | Qualcomm Atheros AR9271 802.11n                                       | 1        | 1.79%   |
@@ -1909,7 +1908,7 @@ Ethernet models
 | Realtek RTL8153 Gigabit Ethernet Adapter                              | 1        | 2.38%   |
 | Realtek RTL8125 2.5GbE Controller                                     | 1        | 2.38%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                 | 1        | 2.38%   |
-| Qualcomm FP3                                                          | 1        | 2.38%   |
+| Qualcomm Redmi 9T                                                     | 1        | 2.38%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                             | 1        | 2.38%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                         | 1        | 2.38%   |
 | Nvidia MCP61 Ethernet                                                 | 1        | 2.38%   |
@@ -2009,7 +2008,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 37.5%   |
-| Intel Bluetooth Device                              | 2        | 25%     |
+| Intel AX201 Bluetooth                               | 2        | 25%     |
 | MediaTek Wireless_Device                            | 1        | 12.5%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 12.5%   |
 | IMC Networks Bluetooth Device                       | 1        | 12.5%   |
@@ -2058,16 +2057,16 @@ Sound card models
 | AMD Starship/Matisse HD Audio Controller                                   | 2        | 4.17%   |
 | AMD FCH Azalia Controller                                                  | 2        | 4.17%   |
 | VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                  | 1        | 2.08%   |
-| Thesycon Systemsoftware & Consulting D30 Pro                               | 1        | 2.08%   |
+| Thesycon Systemsoftware & Consulting D10 Balanced                          | 1        | 2.08%   |
 | Texas Instruments PCM2902 Audio Codec                                      | 1        | 2.08%   |
 | RODE Microphones RODE NT-USB Mini                                          | 1        | 2.08%   |
 | Nvidia MCP61 High Definition Audio                                         | 1        | 2.08%   |
 | Nvidia GM204 High Definition Audio Controller                              | 1        | 2.08%   |
 | Native Instruments Komplete Audio 2                                        | 1        | 2.08%   |
 | Intel USB PnP Sound Device                                                 | 1        | 2.08%   |
+| Intel DG2 Audio Controller                                                 | 1        | 2.08%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1        | 2.08%   |
 | Intel Cannon Lake PCH cAVS                                                 | 1        | 2.08%   |
-| Intel Audio device                                                         | 1        | 2.08%   |
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 1        | 2.08%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 2.08%   |
 | Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller          | 1        | 2.08%   |
@@ -2122,8 +2121,8 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 2.22%   |
 | Unknown RAM Module 128MB DIMM                            | 1        | 2.22%   |
 | Unknown RAM Module 1024MB DIMM SDRAM                     | 1        | 2.22%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s      | 1        | 2.22%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.22%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s       | 1        | 2.22%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s  | 1        | 2.22%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.22%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 2.22%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 2.22%   |
@@ -2145,7 +2144,7 @@ Memory module models
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s    | 1        | 2.22%   |
 | Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s    | 1        | 2.22%   |
 | Kingston RAM 9905595-005.A00LF 2GB DIMM DDR3 1600MT/s    | 1        | 2.22%   |
-| Kingston RAM 9905474-019.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.22%   |
+| Kingston RAM 9905474-019.A00LF 2048MB DIMM DDR3 1333MT/s | 1        | 2.22%   |
 | HP RAM Module 4GB DIMM DDR3 1600MT/s                     | 1        | 2.22%   |
 | Elpida RAM Module 4GB DIMM DDR3 1600MT/s                 | 1        | 2.22%   |
 | Elpida RAM EBE10UE8ACWA-6E-E 1GB DIMM DDR2 667MT/s       | 1        | 2.22%   |
@@ -2329,8 +2328,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 24       | 66.67%  |
-| 1     | 7        | 19.44%  |
+| 0     | 26       | 72.22%  |
+| 1     | 5        | 13.89%  |
 | 3     | 2        | 5.56%   |
 | 2     | 2        | 5.56%   |
 | 5     | 1        | 2.78%   |
@@ -2345,11 +2344,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 8        | 42.11%  |
-| Net/wireless             | 4        | 21.05%  |
-| Communication controller | 3        | 15.79%  |
-| Unassigned class         | 1        | 5.26%   |
-| Sound                    | 1        | 5.26%   |
-| Network                  | 1        | 5.26%   |
-| Net/ethernet             | 1        | 5.26%   |
+| Graphics card            | 6        | 35.29%  |
+| Net/wireless             | 4        | 23.53%  |
+| Communication controller | 3        | 17.65%  |
+| Unassigned class         | 1        | 5.88%   |
+| Sound                    | 1        | 5.88%   |
+| Network                  | 1        | 5.88%   |
+| Net/ethernet             | 1        | 5.88%   |
 

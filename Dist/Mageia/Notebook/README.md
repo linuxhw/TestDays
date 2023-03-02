@@ -864,13 +864,13 @@ Hard drive models
 | Samsung NVMe SSD Drive 500GB                 | 1         | 2.63%   |
 | Samsung MZNLN256HMHQ-000H1 256GB SSD         | 1         | 2.63%   |
 | Phison E12S-1TB-PHISON-SSD-B27B              | 1         | 2.63%   |
-| LDLC F6+M.2 480 480GB SSD                    | 1         | 2.63%   |
+| LDLC F6+M.2 480 480GB                        | 1         | 2.63%   |
 | Kingston SNVS1000G 1TB                       | 1         | 2.63%   |
 | Kingston SA400S37480G 480GB SSD              | 1         | 2.63%   |
 | Kingston SA400S37240G 240GB SSD              | 1         | 2.63%   |
 | Kingston SA2000M8500G 500GB                  | 1         | 2.63%   |
 | Kingston NVMe SSD Drive 1TB                  | 1         | 2.63%   |
-| JMicron Generic 500GB                        | 1         | 2.63%   |
+| JMicron Generic 200GB                        | 1         | 2.63%   |
 | Intel SSDMCEAC120B3A 120GB                   | 1         | 2.63%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 2.63%   |
 | Hitachi HTS545050A7E380 500GB                | 1         | 2.63%   |
@@ -885,13 +885,14 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Notebooks | Drives | Percent |
-|---------|-----------|--------|---------|
-| Toshiba | 3         | 4      | 30%     |
-| Seagate | 3         | 3      | 30%     |
-| Hitachi | 2         | 2      | 20%     |
-| WDC     | 1         | 3      | 10%     |
-| HGST    | 1         | 5      | 10%     |
+| Vendor             | Notebooks | Drives | Percent |
+|--------------------|-----------|--------|---------|
+| Toshiba            | 3         | 4      | 27.27%  |
+| Seagate            | 3         | 3      | 27.27%  |
+| Hitachi            | 2         | 2      | 18.18%  |
+| WDC                | 1         | 3      | 9.09%   |
+| JMicron Technology | 1         | 1      | 9.09%   |
+| HGST               | 1         | 5      | 9.09%   |
 
 SSD Vendor
 ----------
@@ -903,15 +904,14 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 3         | 3      | 23.08%  |
-| Kingston            | 2         | 2      | 15.38%  |
-| Crucial             | 2         | 2      | 15.38%  |
-| WDC                 | 1         | 1      | 7.69%   |
-| SanDisk             | 1         | 1      | 7.69%   |
-| LDLC                | 1         | 1      | 7.69%   |
-| JMicron Technology  | 1         | 1      | 7.69%   |
-| Intel               | 1         | 1      | 7.69%   |
-| China               | 1         | 1      | 7.69%   |
+| Samsung Electronics | 3         | 3      | 25%     |
+| Kingston            | 2         | 2      | 16.67%  |
+| Crucial             | 2         | 2      | 16.67%  |
+| WDC                 | 1         | 1      | 8.33%   |
+| SanDisk             | 1         | 1      | 8.33%   |
+| LDLC                | 1         | 1      | 8.33%   |
+| Intel               | 1         | 1      | 8.33%   |
+| China               | 1         | 1      | 8.33%   |
 
 Drive Kind
 ----------
@@ -923,10 +923,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 12        | 13     | 34.29%  |
-| HDD  | 10        | 17     | 28.57%  |
-| NVMe | 9         | 12     | 25.71%  |
-| MMC  | 4         | 4      | 11.43%  |
+| SSD  | 12        | 12     | 33.33%  |
+| HDD  | 11        | 18     | 30.56%  |
+| NVMe | 9         | 12     | 25%     |
+| MMC  | 4         | 4      | 11.11%  |
 
 Drive Connector
 ---------------
@@ -1459,14 +1459,14 @@ Monitor models
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                   | 1         | 3.23%   |
 | Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch        | 1         | 3.23%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 3.23%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch      | 1         | 3.23%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch      | 1         | 3.23%   |
 | LG Display LCD Monitor LGD066A 1920x1080 344x194mm 15.5-inch              | 1         | 3.23%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch              | 1         | 3.23%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 3.23%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 3.23%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 3.23%   |
 | LG Display LCD Monitor LGD0215 1920x1080 345x194mm 15.6-inch              | 1         | 3.23%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch                   | 1         | 3.23%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                   | 1         | 3.23%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 1         | 3.23%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 1         | 3.23%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 3.23%   |
@@ -1842,7 +1842,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 4.76%   |
 | Lite-On Bluetooth Device                            | 1         | 4.76%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 4.76%   |
-| Intel Bluetooth Device                              | 1         | 4.76%   |
+| Intel AX201 Bluetooth                               | 1         | 4.76%   |
 | Dell BCM20702A0 Bluetooth Module                    | 1         | 4.76%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4.76%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 1         | 4.76%   |
@@ -1939,7 +1939,7 @@ Memory module models
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                     | 1         | 3.85%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8192MB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 3.85%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s           | 1         | 3.85%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 3.85%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 3.85%   |
@@ -1947,7 +1947,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 3.85%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 3.85%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s             | 1         | 3.85%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s         | 1         | 3.85%   |
 | Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.85%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 3.85%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s            | 1         | 3.85%   |
@@ -1956,7 +1956,7 @@ Memory module models
 | Kingston RAM KCRXJ6-MIE 16GB SODIMM DDR4 2667MT/s                | 1         | 3.85%   |
 | Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
 | Kingston RAM 9905428-102.A00G 4GB SODIMM DDR3 1600MT/s           | 1         | 3.85%   |
-| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4                | 1         | 3.85%   |
+| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s       | 1         | 3.85%   |
 | Corsair RAM CMSX16GX4M1A2666C18 16GB SODIMM DDR4 2667MT/s        | 1         | 3.85%   |
 | Corsair RAM CM4X8GF2666C18S2 8GB SODIMM DDR4 3000MT/s            | 1         | 3.85%   |
 

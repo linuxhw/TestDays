@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 112
+Total: 113
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte   | EP45-UD3P                   | [da7b0aca1f](https://linux-hardware.org/?probe=da7b0aca1f) | Feb 03, 2023 |
 | MSI        | B350 TOMAHAWK ARCTIC        | [10f14c4cbd](https://linux-hardware.org/?probe=10f14c4cbd) | Jan 23, 2023 |
 | ASRock     | X300M-STX                   | [13ce0469f3](https://linux-hardware.org/?probe=13ce0469f3) | Jan 23, 2023 |
 | ASRock     | X300M-STX                   | [55db2decf3](https://linux-hardware.org/?probe=55db2decf3) | Jan 07, 2023 |
@@ -312,46 +313,46 @@ Version of the Linux kernel
 
 | Version             | Desktops | Percent |
 |---------------------|----------|---------|
-| 6.0.11-225.current  | 6        | 7.5%    |
-| 5.6.19-158.current  | 6        | 7.5%    |
-| 5.15.32-213.current | 5        | 6.25%   |
-| 5.14.21-210.current | 4        | 5%      |
-| 5.14.16-205.current | 4        | 5%      |
-| 5.6.19-159.current  | 3        | 3.75%   |
-| 5.4.12-144.current  | 3        | 3.75%   |
-| 5.13.12-193.current | 3        | 3.75%   |
-| 5.11.12-177.current | 3        | 3.75%   |
-| 5.6.13-153.current  | 2        | 2.5%    |
-| 5.5.7-150.current   | 2        | 2.5%    |
-| 5.15.50-216.current | 2        | 2.5%    |
-| 5.15.43-215.current | 2        | 2.5%    |
-| 5.15.30-212.current | 2        | 2.5%    |
-| 5.14.14-202.current | 2        | 2.5%    |
-| 5.13.6-190.current  | 2        | 2.5%    |
-| 5.13.1-187.current  | 2        | 2.5%    |
-| 5.11.16-178.current | 2        | 2.5%    |
-| 5.10.7-168.current  | 2        | 2.5%    |
-| 5.10.5-167.current  | 2        | 2.5%    |
-| 5.10.15-172.current | 2        | 2.5%    |
-| 6.1.5-229.current   | 1        | 1.25%   |
-| 5.6.4-152.current   | 1        | 1.25%   |
-| 5.6.18-156.current  | 1        | 1.25%   |
-| 5.5.11-151.current  | 1        | 1.25%   |
-| 5.4.1-137.current   | 1        | 1.25%   |
-| 5.3.8-133.current   | 1        | 1.25%   |
-| 5.15.77-219.current | 1        | 1.25%   |
-| 5.15.68-218.current | 1        | 1.25%   |
-| 5.15.37-214.current | 1        | 1.25%   |
-| 5.15.26-211.current | 1        | 1.25%   |
-| 5.13.8-191.current  | 1        | 1.25%   |
-| 5.12.13-185.current | 1        | 1.25%   |
-| 5.11.22-180.current | 1        | 1.25%   |
-| 5.11.21-179.current | 1        | 1.25%   |
-| 5.10.9-169.current  | 1        | 1.25%   |
-| 5.0.5-113.current   | 1        | 1.25%   |
-| 4.9.168-129.lts     | 1        | 1.25%   |
-| 4.20.16-112.current | 1        | 1.25%   |
-| 4.14.189-161.lts    | 1        | 1.25%   |
+| 6.0.11-225.current  | 6        | 7.41%   |
+| 5.6.19-158.current  | 6        | 7.41%   |
+| 5.15.32-213.current | 5        | 6.17%   |
+| 5.14.21-210.current | 4        | 4.94%   |
+| 5.14.16-205.current | 4        | 4.94%   |
+| 5.6.19-159.current  | 3        | 3.7%    |
+| 5.4.12-144.current  | 3        | 3.7%    |
+| 5.13.12-193.current | 3        | 3.7%    |
+| 5.11.12-177.current | 3        | 3.7%    |
+| 6.1.5-229.current   | 2        | 2.47%   |
+| 5.6.13-153.current  | 2        | 2.47%   |
+| 5.5.7-150.current   | 2        | 2.47%   |
+| 5.15.50-216.current | 2        | 2.47%   |
+| 5.15.43-215.current | 2        | 2.47%   |
+| 5.15.30-212.current | 2        | 2.47%   |
+| 5.14.14-202.current | 2        | 2.47%   |
+| 5.13.6-190.current  | 2        | 2.47%   |
+| 5.13.1-187.current  | 2        | 2.47%   |
+| 5.11.16-178.current | 2        | 2.47%   |
+| 5.10.7-168.current  | 2        | 2.47%   |
+| 5.10.5-167.current  | 2        | 2.47%   |
+| 5.10.15-172.current | 2        | 2.47%   |
+| 5.6.4-152.current   | 1        | 1.23%   |
+| 5.6.18-156.current  | 1        | 1.23%   |
+| 5.5.11-151.current  | 1        | 1.23%   |
+| 5.4.1-137.current   | 1        | 1.23%   |
+| 5.3.8-133.current   | 1        | 1.23%   |
+| 5.15.77-219.current | 1        | 1.23%   |
+| 5.15.68-218.current | 1        | 1.23%   |
+| 5.15.37-214.current | 1        | 1.23%   |
+| 5.15.26-211.current | 1        | 1.23%   |
+| 5.13.8-191.current  | 1        | 1.23%   |
+| 5.12.13-185.current | 1        | 1.23%   |
+| 5.11.22-180.current | 1        | 1.23%   |
+| 5.11.21-179.current | 1        | 1.23%   |
+| 5.10.9-169.current  | 1        | 1.23%   |
+| 5.0.5-113.current   | 1        | 1.23%   |
+| 4.9.168-129.lts     | 1        | 1.23%   |
+| 4.20.16-112.current | 1        | 1.23%   |
+| 4.14.189-161.lts    | 1        | 1.23%   |
 
 Kernel Family
 -------------
@@ -363,45 +364,45 @@ Linux kernel without a distro release
 
 | Version  | Desktops | Percent |
 |----------|----------|---------|
-| 5.6.19   | 9        | 11.25%  |
-| 6.0.11   | 6        | 7.5%    |
-| 5.15.32  | 5        | 6.25%   |
-| 5.14.21  | 4        | 5%      |
-| 5.14.16  | 4        | 5%      |
-| 5.4.12   | 3        | 3.75%   |
-| 5.13.12  | 3        | 3.75%   |
-| 5.11.12  | 3        | 3.75%   |
-| 5.6.13   | 2        | 2.5%    |
-| 5.5.7    | 2        | 2.5%    |
-| 5.15.50  | 2        | 2.5%    |
-| 5.15.43  | 2        | 2.5%    |
-| 5.15.30  | 2        | 2.5%    |
-| 5.14.14  | 2        | 2.5%    |
-| 5.13.6   | 2        | 2.5%    |
-| 5.13.1   | 2        | 2.5%    |
-| 5.11.16  | 2        | 2.5%    |
-| 5.10.7   | 2        | 2.5%    |
-| 5.10.5   | 2        | 2.5%    |
-| 5.10.15  | 2        | 2.5%    |
-| 6.1.5    | 1        | 1.25%   |
-| 5.6.4    | 1        | 1.25%   |
-| 5.6.18   | 1        | 1.25%   |
-| 5.5.11   | 1        | 1.25%   |
-| 5.4.1    | 1        | 1.25%   |
-| 5.3.8    | 1        | 1.25%   |
-| 5.15.77  | 1        | 1.25%   |
-| 5.15.68  | 1        | 1.25%   |
-| 5.15.37  | 1        | 1.25%   |
-| 5.15.26  | 1        | 1.25%   |
-| 5.13.8   | 1        | 1.25%   |
-| 5.12.13  | 1        | 1.25%   |
-| 5.11.22  | 1        | 1.25%   |
-| 5.11.21  | 1        | 1.25%   |
-| 5.10.9   | 1        | 1.25%   |
-| 5.0.5    | 1        | 1.25%   |
-| 4.9.168  | 1        | 1.25%   |
-| 4.20.16  | 1        | 1.25%   |
-| 4.14.189 | 1        | 1.25%   |
+| 5.6.19   | 9        | 11.11%  |
+| 6.0.11   | 6        | 7.41%   |
+| 5.15.32  | 5        | 6.17%   |
+| 5.14.21  | 4        | 4.94%   |
+| 5.14.16  | 4        | 4.94%   |
+| 5.4.12   | 3        | 3.7%    |
+| 5.13.12  | 3        | 3.7%    |
+| 5.11.12  | 3        | 3.7%    |
+| 6.1.5    | 2        | 2.47%   |
+| 5.6.13   | 2        | 2.47%   |
+| 5.5.7    | 2        | 2.47%   |
+| 5.15.50  | 2        | 2.47%   |
+| 5.15.43  | 2        | 2.47%   |
+| 5.15.30  | 2        | 2.47%   |
+| 5.14.14  | 2        | 2.47%   |
+| 5.13.6   | 2        | 2.47%   |
+| 5.13.1   | 2        | 2.47%   |
+| 5.11.16  | 2        | 2.47%   |
+| 5.10.7   | 2        | 2.47%   |
+| 5.10.5   | 2        | 2.47%   |
+| 5.10.15  | 2        | 2.47%   |
+| 5.6.4    | 1        | 1.23%   |
+| 5.6.18   | 1        | 1.23%   |
+| 5.5.11   | 1        | 1.23%   |
+| 5.4.1    | 1        | 1.23%   |
+| 5.3.8    | 1        | 1.23%   |
+| 5.15.77  | 1        | 1.23%   |
+| 5.15.68  | 1        | 1.23%   |
+| 5.15.37  | 1        | 1.23%   |
+| 5.15.26  | 1        | 1.23%   |
+| 5.13.8   | 1        | 1.23%   |
+| 5.12.13  | 1        | 1.23%   |
+| 5.11.22  | 1        | 1.23%   |
+| 5.11.21  | 1        | 1.23%   |
+| 5.10.9   | 1        | 1.23%   |
+| 5.0.5    | 1        | 1.23%   |
+| 4.9.168  | 1        | 1.23%   |
+| 4.20.16  | 1        | 1.23%   |
+| 4.14.189 | 1        | 1.23%   |
 
 Kernel Major Ver.
 -----------------
@@ -413,22 +414,22 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.15    | 14       | 17.95%  |
-| 5.6     | 12       | 15.38%  |
-| 5.14    | 10       | 12.82%  |
-| 5.13    | 8        | 10.26%  |
-| 5.11    | 7        | 8.97%   |
-| 5.10    | 7        | 8.97%   |
-| 6.0     | 6        | 7.69%   |
-| 5.4     | 4        | 5.13%   |
-| 5.5     | 3        | 3.85%   |
-| 6.1     | 1        | 1.28%   |
-| 5.3     | 1        | 1.28%   |
-| 5.12    | 1        | 1.28%   |
-| 5.0     | 1        | 1.28%   |
-| 4.9     | 1        | 1.28%   |
-| 4.20    | 1        | 1.28%   |
-| 4.14    | 1        | 1.28%   |
+| 5.15    | 14       | 17.72%  |
+| 5.6     | 12       | 15.19%  |
+| 5.14    | 10       | 12.66%  |
+| 5.13    | 8        | 10.13%  |
+| 5.11    | 7        | 8.86%   |
+| 5.10    | 7        | 8.86%   |
+| 6.0     | 6        | 7.59%   |
+| 5.4     | 4        | 5.06%   |
+| 5.5     | 3        | 3.8%    |
+| 6.1     | 2        | 2.53%   |
+| 5.3     | 1        | 1.27%   |
+| 5.12    | 1        | 1.27%   |
+| 5.0     | 1        | 1.27%   |
+| 4.9     | 1        | 1.27%   |
+| 4.20    | 1        | 1.27%   |
+| 4.14    | 1        | 1.27%   |
 
 Arch
 ----
@@ -556,9 +557,9 @@ Scheme of partitioning
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 55       | 77.46%  |
-| MBR     | 8        | 11.27%  |
-| GPT     | 8        | 11.27%  |
+| Unknown | 56       | 77.78%  |
+| MBR     | 8        | 11.11%  |
+| GPT     | 8        | 11.11%  |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -842,8 +843,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 40       | 56.34%  |
-| Yes       | 31       | 43.66%  |
+| No        | 40       | 57.14%  |
+| Yes       | 30       | 42.86%  |
 
 Has Ethernet
 ------------
@@ -991,7 +992,7 @@ Hard drive vendors
 | Vendor                      | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
 | WDC                         | 30       | 49     | 20.83%  |
-| Samsung Electronics         | 26       | 56     | 18.06%  |
+| Samsung Electronics         | 26       | 57     | 18.06%  |
 | Seagate                     | 22       | 42     | 15.28%  |
 | Kingston                    | 11       | 15     | 7.64%   |
 | Crucial                     | 8        | 8      | 5.56%   |
@@ -1098,7 +1099,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 22       | 35     | 37.29%  |
+| Samsung Electronics | 22       | 36     | 37.29%  |
 | Kingston            | 8        | 11     | 13.56%  |
 | Crucial             | 6        | 6      | 10.17%  |
 | SanDisk             | 5        | 6      | 8.47%   |
@@ -1125,7 +1126,7 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 53       | 108    | 42.4%   |
-| SSD     | 47       | 76     | 37.6%   |
+| SSD     | 47       | 77     | 37.6%   |
 | NVMe    | 21       | 33     | 16.8%   |
 | Unknown | 4        | 6      | 3.2%    |
 
@@ -1139,7 +1140,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 63       | 178    | 69.23%  |
+| SATA | 63       | 179    | 69.23%  |
 | NVMe | 21       | 33     | 23.08%  |
 | SAS  | 7        | 12     | 7.69%   |
 
@@ -1153,12 +1154,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 55       | 104    | 53.4%   |
-| 0.51-1.0   | 24       | 35     | 23.3%   |
-| 1.01-2.0   | 17       | 35     | 16.5%   |
-| 3.01-4.0   | 3        | 5      | 2.91%   |
-| 4.01-10.0  | 3        | 4      | 2.91%   |
-| 10.01-20.0 | 1        | 1      | 0.97%   |
+| 0.01-0.5   | 55       | 105    | 52.88%  |
+| 0.51-1.0   | 26       | 37     | 25%     |
+| 1.01-2.0   | 16       | 33     | 15.38%  |
+| 3.01-4.0   | 4        | 7      | 3.85%   |
+| 4.01-10.0  | 2        | 2      | 1.92%   |
+| 10.01-20.0 | 1        | 1      | 0.96%   |
 
 Space Total
 -----------
@@ -1282,9 +1283,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 56       | 175    | 70%     |
-| Works    | 18       | 41     | 22.5%   |
-| Malfunc  | 6        | 7      | 7.5%    |
+| Detected | 57       | 176    | 70.37%  |
+| Works    | 18       | 41     | 22.22%  |
+| Malfunc  | 6        | 7      | 7.41%   |
 
 Storage controller
 ------------------
@@ -1373,10 +1374,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 55       | 56.7%   |
-| NVMe | 22       | 22.68%  |
-| IDE  | 18       | 18.56%  |
-| RAID | 2        | 2.06%   |
+| SATA | 54       | 56.25%  |
+| NVMe | 22       | 22.92%  |
+| IDE  | 18       | 18.75%  |
+| RAID | 2        | 2.08%   |
 
 Processor
 ---------
@@ -1769,7 +1770,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                   | 3        | 3.53%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 3        | 3.53%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 2.35%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 2.35%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 2        | 2.35%   |
@@ -1793,13 +1794,13 @@ Monitor models
 | Philips 223E PHLC049 1920x1080 476x268mm 21.5-inch                   | 1        | 1.18%   |
 | NEC Computers LCD Monitor LCD92VM 1280x1024                          | 1        | 1.18%   |
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 1.18%   |
-| MSI G27C4 MSI3CA9 1920x1080 598x336mm 27.0-inch                      | 1        | 1.18%   |
+| MSI G27C5 MSI3CA9 1920x1080 598x336mm 27.0-inch                      | 1        | 1.18%   |
 | Microstep LCD Monitor MSI G241                                       | 1        | 1.18%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1        | 1.18%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                    | 1        | 1.18%   |
 | LG Electronics LCD Monitor LG HDR WFHD 2560x1080                     | 1        | 1.18%   |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 1.18%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch           | 1        | 1.18%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch           | 1        | 1.18%   |
 | JRY LCD Monitor JRY1950 1600x900 368x207mm 16.6-inch                 | 1        | 1.18%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1        | 1.18%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch          | 1        | 1.18%   |
@@ -1808,7 +1809,7 @@ Monitor models
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 1.18%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 1.18%   |
 | Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 1.18%   |
-| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1        | 1.18%   |
+| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch             | 1        | 1.18%   |
 
 Monitor Resolution
 ------------------
@@ -2148,7 +2149,7 @@ Ethernet models
 | Intel 82583V Gigabit Network Connection                           | 1        | 1.28%   |
 | Intel 82579V Gigabit Network Connection                           | 1        | 1.28%   |
 | Intel 82578DC Gigabit Network Connection                          | 1        | 1.28%   |
-| Huawei ELS-NX9                                                    | 1        | 1.28%   |
+| Huawei MLA-L11                                                    | 1        | 1.28%   |
 | Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1        | 1.28%   |
 | Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 1        | 1.28%   |
 
@@ -2368,32 +2369,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s  | 2        | 8%      |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 4%      |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 4%      |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 4%      |
-| Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 4%      |
-| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 4%      |
-| Transcend RAM JM1333KLN-4G 4GB DIMM 1600MT/s           | 1        | 4%      |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 4%      |
-| Kingston RAM KHX1866C9D3/4GX 4GB DIMM 1867MT/s         | 1        | 4%      |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s    | 1        | 4%      |
-| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 4%      |
-| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s  | 1        | 4%      |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 4%      |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 4%      |
-| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 4%      |
-| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 4%      |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3733MT/s  | 1        | 4%      |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 4%      |
-| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s  | 1        | 4%      |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 4%      |
-| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 4%      |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s    | 2        | 8%      |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 4%      |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s             | 1        | 4%      |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s             | 1        | 4%      |
+| Unknown RAM Module 1GB DIMM 667MT/s                      | 1        | 4%      |
+| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s       | 1        | 4%      |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s        | 1        | 4%      |
+| Samsung RAM M378B1G73EB0-YK0 8192MB DIMM DDR3 1600MT/s   | 1        | 4%      |
+| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s      | 1        | 4%      |
+| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s      | 1        | 4%      |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s      | 1        | 4%      |
+| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 4%      |
+| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s    | 1        | 4%      |
+| G.Skill RAM F4-2400C15-8GVR . 8GB DIMM DDR4 3200MT/s     | 1        | 4%      |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
+| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s   | 1        | 4%      |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s      | 1        | 4%      |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3733MT/s    | 1        | 4%      |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s   | 1        | 4%      |
+| Corsair RAM CMK16GX4M2Z3200C16 8192MB DIMM DDR4 3200MT/s | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 4%      |
+| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s              | 1        | 4%      |
 
 Memory Kind
 -----------

@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 96
+Total: 97
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Google        | Gnawty                      | Notebook    | [e2b489f0a7](https://linux-hardware.org/?probe=e2b489f0a7) | Feb 01, 2023 |
 | Google        | Gnawty                      | Notebook    | [4188917829](https://linux-hardware.org/?probe=4188917829) | Jan 31, 2023 |
 | Intel Clie... | LAPKC71F                    | Notebook    | [3ae3afeece](https://linux-hardware.org/?probe=3ae3afeece) | Jul 13, 2022 |
 | Dell          | XPS 15 7590                 | Notebook    | [91780395d8](https://linux-hardware.org/?probe=91780395d8) | Dec 25, 2021 |
@@ -735,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 33        | 55.93%  |
-| Yes       | 26        | 44.07%  |
+| No        | 34        | 57.63%  |
+| Yes       | 25        | 42.37%  |
 
 Has Ethernet
 ------------
@@ -880,7 +881,7 @@ Hard drive vendors
 
 | Vendor                  | Computers | Drives | Percent |
 |-------------------------|-----------|--------|---------|
-| Unknown                 | 18        | 23     | 28.13%  |
+| Unknown                 | 18        | 24     | 28.13%  |
 | WDC                     | 7         | 8      | 10.94%  |
 | Seagate                 | 6         | 7      | 9.38%   |
 | Samsung Electronics     | 5         | 6      | 7.81%   |
@@ -932,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 500GB                   | 1         | 1.49%   |
+| TO Exter nal USB 3.0 240GB                   | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1008,7 +1009,7 @@ HDD or SSD
 |------|-----------|--------|---------|
 | HDD  | 23        | 25     | 35.94%  |
 | SSD  | 20        | 24     | 31.25%  |
-| MMC  | 18        | 23     | 28.13%  |
+| MMC  | 18        | 24     | 28.13%  |
 | NVMe | 3         | 4      | 4.69%   |
 
 Drive Connector
@@ -1022,7 +1023,7 @@ SATA, SAS, NVMe, etc.
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 40        | 48     | 64.52%  |
-| MMC  | 18        | 23     | 29.03%  |
+| MMC  | 18        | 24     | 29.03%  |
 | NVMe | 3         | 4      | 4.84%   |
 | SAS  | 1         | 1      | 1.61%   |
 
@@ -1121,7 +1122,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 58        | 73     | 96.67%  |
+| Detected | 58        | 74     | 96.67%  |
 | Works    | 2         | 3      | 3.33%   |
 
 Storage controller
@@ -1578,14 +1579,14 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch       | 3         | 5%      |
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                 | 3         | 5%      |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                  | 2         | 3.33%   |
-| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                      | 1         | 1.67%   |
+| Toshiba TV TSB0106 1920x540 708x398mm 32.0-inch                       | 1         | 1.67%   |
 | Sony TV SNY9C01 1360x768                                              | 1         | 1.67%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch               | 1         | 1.67%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC3651 1366x768 340x190mm 15.3-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 1.67%   |
@@ -1600,7 +1601,7 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch           | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch               | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch              | 1         | 1.67%   |
-| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch               | 1         | 1.67%   |
+| Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch               | 1         | 1.67%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.67%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.67%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.67%   |
@@ -2046,7 +2047,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 1         | 3.03%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.03%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.03%   |
-| Lite-On Bluetooth Device                            | 1         | 3.03%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.03%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.03%   |
 | Intel AX200 Bluetooth                               | 1         | 3.03%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.03%   |
@@ -2299,8 +2300,8 @@ Camera device models
 | Sunplus HD WebCam                                       | 1         | 2.86%   |
 | Realtek WebCamera                                       | 1         | 2.86%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.86%   |
-| Realtek USB Camera                                      | 1         | 2.86%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.86%   |
+| Realtek 2SF022                                          | 1         | 2.86%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.86%   |
 | Microdia HP Webcam                                      | 1         | 2.86%   |
 | Importek HP Webcam                                      | 1         | 2.86%   |
@@ -2385,8 +2386,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 34        | 56.67%  |
-| 1     | 22        | 36.67%  |
+| 0     | 35        | 58.33%  |
+| 1     | 21        | 35%     |
 | 2     | 4         | 6.67%   |
 
 Unsupported Device Types
@@ -2399,13 +2400,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 20.69%  |
-| Net/wireless             | 5         | 17.24%  |
-| Graphics card            | 5         | 17.24%  |
-| Fingerprint reader       | 5         | 17.24%  |
-| Chipcard                 | 3         | 10.34%  |
-| Storage                  | 2         | 6.9%    |
-| Storage/ide              | 1         | 3.45%   |
-| Modem                    | 1         | 3.45%   |
-| Communication controller | 1         | 3.45%   |
+| Multimedia controller    | 6         | 21.43%  |
+| Net/wireless             | 5         | 17.86%  |
+| Fingerprint reader       | 5         | 17.86%  |
+| Graphics card            | 4         | 14.29%  |
+| Chipcard                 | 3         | 10.71%  |
+| Storage                  | 2         | 7.14%   |
+| Storage/ide              | 1         | 3.57%   |
+| Modem                    | 1         | 3.57%   |
+| Communication controller | 1         | 3.57%   |
 

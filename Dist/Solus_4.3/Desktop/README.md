@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 57
+Total: 58
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte   | EP45-UD3P                   | [da7b0aca1f](https://linux-hardware.org/?probe=da7b0aca1f) | Feb 03, 2023 |
 | MSI        | B350 TOMAHAWK ARCTIC        | [10f14c4cbd](https://linux-hardware.org/?probe=10f14c4cbd) | Jan 23, 2023 |
 | ASRock     | X300M-STX                   | [13ce0469f3](https://linux-hardware.org/?probe=13ce0469f3) | Jan 23, 2023 |
 | ASRock     | X300M-STX                   | [55db2decf3](https://linux-hardware.org/?probe=55db2decf3) | Jan 07, 2023 |
@@ -228,23 +229,23 @@ Version of the Linux kernel
 
 | Version             | Desktops | Percent |
 |---------------------|----------|---------|
-| 6.0.11-225.current  | 6        | 15%     |
-| 5.15.32-213.current | 5        | 12.5%   |
-| 5.14.21-210.current | 4        | 10%     |
-| 5.14.16-205.current | 4        | 10%     |
-| 5.13.12-193.current | 3        | 7.5%    |
-| 5.15.50-216.current | 2        | 5%      |
-| 5.15.43-215.current | 2        | 5%      |
-| 5.15.30-212.current | 2        | 5%      |
-| 5.14.14-202.current | 2        | 5%      |
-| 5.13.6-190.current  | 2        | 5%      |
-| 5.13.1-187.current  | 2        | 5%      |
-| 6.1.5-229.current   | 1        | 2.5%    |
-| 5.15.77-219.current | 1        | 2.5%    |
-| 5.15.68-218.current | 1        | 2.5%    |
-| 5.15.37-214.current | 1        | 2.5%    |
-| 5.15.26-211.current | 1        | 2.5%    |
-| 5.13.8-191.current  | 1        | 2.5%    |
+| 6.0.11-225.current  | 6        | 14.63%  |
+| 5.15.32-213.current | 5        | 12.2%   |
+| 5.14.21-210.current | 4        | 9.76%   |
+| 5.14.16-205.current | 4        | 9.76%   |
+| 5.13.12-193.current | 3        | 7.32%   |
+| 6.1.5-229.current   | 2        | 4.88%   |
+| 5.15.50-216.current | 2        | 4.88%   |
+| 5.15.43-215.current | 2        | 4.88%   |
+| 5.15.30-212.current | 2        | 4.88%   |
+| 5.14.14-202.current | 2        | 4.88%   |
+| 5.13.6-190.current  | 2        | 4.88%   |
+| 5.13.1-187.current  | 2        | 4.88%   |
+| 5.15.77-219.current | 1        | 2.44%   |
+| 5.15.68-218.current | 1        | 2.44%   |
+| 5.15.37-214.current | 1        | 2.44%   |
+| 5.15.26-211.current | 1        | 2.44%   |
+| 5.13.8-191.current  | 1        | 2.44%   |
 
 Kernel Family
 -------------
@@ -256,23 +257,23 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 6.0.11  | 6        | 15%     |
-| 5.15.32 | 5        | 12.5%   |
-| 5.14.21 | 4        | 10%     |
-| 5.14.16 | 4        | 10%     |
-| 5.13.12 | 3        | 7.5%    |
-| 5.15.50 | 2        | 5%      |
-| 5.15.43 | 2        | 5%      |
-| 5.15.30 | 2        | 5%      |
-| 5.14.14 | 2        | 5%      |
-| 5.13.6  | 2        | 5%      |
-| 5.13.1  | 2        | 5%      |
-| 6.1.5   | 1        | 2.5%    |
-| 5.15.77 | 1        | 2.5%    |
-| 5.15.68 | 1        | 2.5%    |
-| 5.15.37 | 1        | 2.5%    |
-| 5.15.26 | 1        | 2.5%    |
-| 5.13.8  | 1        | 2.5%    |
+| 6.0.11  | 6        | 14.63%  |
+| 5.15.32 | 5        | 12.2%   |
+| 5.14.21 | 4        | 9.76%   |
+| 5.14.16 | 4        | 9.76%   |
+| 5.13.12 | 3        | 7.32%   |
+| 6.1.5   | 2        | 4.88%   |
+| 5.15.50 | 2        | 4.88%   |
+| 5.15.43 | 2        | 4.88%   |
+| 5.15.30 | 2        | 4.88%   |
+| 5.14.14 | 2        | 4.88%   |
+| 5.13.6  | 2        | 4.88%   |
+| 5.13.1  | 2        | 4.88%   |
+| 5.15.77 | 1        | 2.44%   |
+| 5.15.68 | 1        | 2.44%   |
+| 5.15.37 | 1        | 2.44%   |
+| 5.15.26 | 1        | 2.44%   |
+| 5.13.8  | 1        | 2.44%   |
 
 Kernel Major Ver.
 -----------------
@@ -284,11 +285,11 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.15    | 14       | 35.9%   |
-| 5.14    | 10       | 25.64%  |
-| 5.13    | 8        | 20.51%  |
-| 6.0     | 6        | 15.38%  |
-| 6.1     | 1        | 2.56%   |
+| 5.15    | 14       | 35%     |
+| 5.14    | 10       | 25%     |
+| 5.13    | 8        | 20%     |
+| 6.0     | 6        | 15%     |
+| 6.1     | 2        | 5%      |
 
 Arch
 ----
@@ -409,9 +410,9 @@ Scheme of partitioning
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 27       | 72.97%  |
-| MBR     | 7        | 18.92%  |
-| GPT     | 3        | 8.11%   |
+| Unknown | 28       | 73.68%  |
+| MBR     | 7        | 18.42%  |
+| GPT     | 3        | 7.89%   |
 
 Dual Boot with Linux/BSD
 ------------------------
@@ -680,8 +681,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 21       | 53.85%  |
-| Yes       | 18       | 46.15%  |
+| No        | 21       | 55.26%  |
+| Yes       | 17       | 44.74%  |
 
 Has Ethernet
 ------------
@@ -821,7 +822,7 @@ Hard drive vendors
 | Vendor                      | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
 | WDC                         | 21       | 30     | 25.93%  |
-| Samsung Electronics         | 14       | 21     | 17.28%  |
+| Samsung Electronics         | 14       | 22     | 17.28%  |
 | Seagate                     | 8        | 9      | 9.88%   |
 | Kingston                    | 8        | 11     | 9.88%   |
 | Crucial                     | 6        | 6      | 7.41%   |
@@ -888,7 +889,7 @@ Hard drive models
 | WDC WD10EADS-00M2B0 1TB                           | 1        | 1.09%   |
 | WDC WD1003FBYX-01Y7B0 1TB                         | 1        | 1.09%   |
 | WDC WD My Passport 25F3 512GB                     | 1        | 1.09%   |
-| Unknown SD/MMC/MS PRO 2GB                         | 1        | 1.09%   |
+| Unknown SD/MMC/MS PRO 16GB                        | 1        | 1.09%   |
 | Toshiba DT01ACA100 1TB                            | 1        | 1.09%   |
 | SPCC Sol id State Disk 128GB SSD                  | 1        | 1.09%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 1.09%   |
@@ -924,7 +925,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 12       | 16     | 36.36%  |
+| Samsung Electronics | 12       | 17     | 36.36%  |
 | Kingston            | 6        | 9      | 18.18%  |
 | Crucial             | 4        | 4      | 12.12%  |
 | SanDisk             | 2        | 2      | 6.06%   |
@@ -948,7 +949,7 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 29       | 47     | 44.62%  |
-| SSD     | 23       | 40     | 35.38%  |
+| SSD     | 23       | 41     | 35.38%  |
 | NVMe    | 11       | 13     | 16.92%  |
 | Unknown | 2        | 2      | 3.08%   |
 
@@ -962,7 +963,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 35       | 82     | 70%     |
+| SATA | 35       | 83     | 70%     |
 | NVMe | 11       | 13     | 22%     |
 | SAS  | 4        | 7      | 8%      |
 
@@ -976,12 +977,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 54     | 51.85%  |
+| 0.01-0.5   | 28       | 55     | 51.85%  |
 | 0.51-1.0   | 14       | 19     | 25.93%  |
 | 1.01-2.0   | 7        | 8      | 12.96%  |
-| 3.01-4.0   | 3        | 3      | 5.56%   |
+| 3.01-4.0   | 4        | 5      | 7.41%   |
 | 10.01-20.0 | 1        | 1      | 1.85%   |
-| 4.01-10.0  | 1        | 2      | 1.85%   |
 
 Space Total
 -----------
@@ -1096,9 +1096,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 29       | 78     | 69.05%  |
-| Works    | 11       | 22     | 26.19%  |
-| Malfunc  | 2        | 2      | 4.76%   |
+| Detected | 30       | 79     | 69.77%  |
+| Works    | 11       | 22     | 25.58%  |
+| Malfunc  | 2        | 2      | 4.65%   |
 
 Storage controller
 ------------------
@@ -1172,9 +1172,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 31       | 59.62%  |
-| IDE  | 11       | 21.15%  |
-| NVMe | 10       | 19.23%  |
+| SATA | 30       | 58.82%  |
+| IDE  | 11       | 21.57%  |
+| NVMe | 10       | 19.61%  |
 
 Processor
 ---------
@@ -1429,7 +1429,7 @@ Graphics card models
 | AMD Tonga PRO [Radeon R9 285/380]                                           | 1        | 2.33%   |
 | AMD Richland [Radeon HD 8670D]                                              | 1        | 2.33%   |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]       | 1        | 2.33%   |
-| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M]                        | 1        | 2.33%   |
+| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]               | 1        | 2.33%   |
 | AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 1        | 2.33%   |
 | AMD Curacao XT / Trinidad XT [Radeon R7 370 / R9 270X/370X]                 | 1        | 2.33%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                | 1        | 2.33%   |
@@ -1523,7 +1523,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                   | 3        | 6.38%   |
+| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 3        | 6.38%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 4.26%   |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1        | 2.13%   |
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1        | 2.13%   |
@@ -1539,11 +1539,11 @@ Monitor models
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 2.13%   |
 | Microstep LCD Monitor MSI G241                                       | 1        | 2.13%   |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 2.13%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch           | 1        | 2.13%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch           | 1        | 2.13%   |
 | Hewlett-Packard 24y HPN3504 1920x1080 528x297mm 23.9-inch            | 1        | 2.13%   |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 2.13%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 2.13%   |
-| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1        | 2.13%   |
+| Goldstar Ultra HD GSM5B08 3780x2160 600x340mm 27.2-inch              | 1        | 2.13%   |
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                 | 1        | 2.13%   |
 | Goldstar E2050 GSM4EAE 1600x900 443x249mm 20.0-inch                  | 1        | 2.13%   |
 | Goldstar 19EN33 GSM4C18 1366x768 410x230mm 18.5-inch                 | 1        | 2.13%   |
@@ -1559,7 +1559,7 @@ Monitor models
 | AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2.13%   |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2.13%   |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2.13%   |
-| AOC 2460 AOC2460 1920x1080 531x299mm 24.0-inch                       | 1        | 2.13%   |
+| AOC 2460G5 AOC2460 1920x1080 531x299mm 24.0-inch                     | 1        | 2.13%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2.13%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 2.13%   |
 | Ancor Communications LCD Monitor ASUS VH238 1920x1080                | 1        | 2.13%   |
@@ -1760,7 +1760,7 @@ Controller models
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 1.52%   |
 | Intel PRO/100 VE Network Connection                                                     | 1        | 1.52%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 1.52%   |
-| Huawei ELS-NX9                                                                          | 1        | 1.52%   |
+| Huawei MLA-L11                                                                          | 1        | 1.52%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 1.52%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                      | 1        | 1.52%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 1.52%   |
@@ -1854,7 +1854,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 2.5%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2.5%    |
 | Intel PRO/100 VE Network Connection                               | 1        | 2.5%    |
-| Huawei ELS-NX9                                                    | 1        | 2.5%    |
+| Huawei MLA-L11                                                    | 1        | 2.5%    |
 
 Net Controller Kind
 -------------------
@@ -2056,21 +2056,21 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 7.69%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 7.69%   |
-| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 7.69%   |
-| Transcend RAM JM1333KLN-4G 4GB DIMM 1600MT/s           | 1        | 7.69%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
-| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
-| Kingston RAM KHX1866C9D3/4GX 4GB DIMM 1867MT/s         | 1        | 7.69%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s    | 1        | 7.69%   |
-| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
-| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 7.69%   |
-| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s  | 1        | 7.69%   |
-| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 7.69%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 7.69%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                      | 1        | 7.69%   |
+| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s       | 1        | 7.69%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s        | 1        | 7.69%   |
+| Samsung RAM M378B1G73EB0-YK0 8192MB DIMM DDR3 1600MT/s   | 1        | 7.69%   |
+| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s      | 1        | 7.69%   |
+| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s      | 1        | 7.69%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s      | 1        | 7.69%   |
+| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 7.69%   |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
+| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s   | 1        | 7.69%   |
+| Corsair RAM CMK16GX4M2Z3200C16 8192MB DIMM DDR4 3200MT/s | 1        | 7.69%   |
+| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s              | 1        | 7.69%   |
 
 Memory Kind
 -----------

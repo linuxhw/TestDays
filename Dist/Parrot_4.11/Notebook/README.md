@@ -921,7 +921,7 @@ Hard drive models
 | Unknown SS16G  16GB                     | 1         | 1.12%   |
 | Unknown SS08G  8GB                      | 1         | 1.12%   |
 | Unknown SDU1  64GB                      | 1         | 1.12%   |
-| Unknown SD/MMC/MS PRO 2GB               | 1         | 1.12%   |
+| Unknown SD/MMC/MS PRO 16GB              | 1         | 1.12%   |
 | Unknown MMC Card  128GB                 | 1         | 1.12%   |
 | Toshiba THNSNH128G8NT 128GB SSD         | 1         | 1.12%   |
 | Toshiba THNSNF128GMCS 128GB SSD         | 1         | 1.12%   |
@@ -1449,7 +1449,7 @@ Microarchitecture
 | TigerLake     | 4         | 6.06%   |
 | Broadwell     | 4         | 6.06%   |
 | Penryn        | 3         | 4.55%   |
-| Icelake       | 3         | 4.55%   |
+| IceLake       | 3         | 4.55%   |
 | CometLake     | 3         | 4.55%   |
 | Zen 2         | 2         | 3.03%   |
 | Westmere      | 2         | 3.03%   |
@@ -1617,11 +1617,11 @@ Monitor models
 | LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch          | 2         | 2.63%   |
 | STA XR140EA1T STA0450 1366x768 310x174mm 14.0-inch                    | 1         | 1.32%   |
 | Sharp LCD Monitor SHP14AD 3840x2160 294x165mm 13.3-inch               | 1         | 1.32%   |
-| Sharp LCD Monitor SHP1447 1920x1080 290x170mm 13.2-inch               | 1         | 1.32%   |
-| Sceptre Tech Sceptre F24 SPT09AB 1920x1080 530x290mm 23.8-inch        | 1         | 1.32%   |
+| Sharp LCD Monitor SHP1447 1920x1080 294x165mm 13.3-inch               | 1         | 1.32%   |
+| Sceptre Tech Sceptre F24 SPT09AB 1920x1080 521x293mm 23.5-inch        | 1         | 1.32%   |
 | Sceptre Tech Sceptre B30 SPT0BC2 2560x1080 690x291mm 29.5-inch        | 1         | 1.32%   |
 | Samsung Electronics SyncMaster SAM0589 1920x1080 521x293mm 23.5-inch  | 1         | 1.32%   |
-| Samsung Electronics LCD Monitor SEC5448 1920x1080 353x198mm 15.9-inch | 1         | 1.32%   |
+| Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch  | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 1.32%   |
@@ -2079,7 +2079,7 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 9         | 18%     |
-| Intel Bluetooth Device                              | 8         | 16%     |
+| Intel AX201 Bluetooth                               | 8         | 16%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 7         | 14%     |
 | Qualcomm Atheros  Bluetooth Device                  | 3         | 6%      |
 | Realtek Bluetooth Radio                             | 2         | 4%      |
@@ -2219,11 +2219,11 @@ Memory module models
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 1.69%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s             | 1         | 1.69%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1066MT/s                     | 1         | 1.69%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.69%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.69%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.69%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.69%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4096MB SODIMM DDR3 1334MT/s        | 1         | 1.69%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s           | 1         | 1.69%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 1         | 1.69%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM 1600MT/s                | 1         | 1.69%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 1.69%   |
 | SK hynix RAM H9HCNNNBKMALHR-NEE 4GB Row Of Chips LPDDR4 4267MT/s | 1         | 1.69%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.69%   |
@@ -2234,14 +2234,14 @@ Memory module models
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                     | 1         | 1.69%   |
 | Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.69%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.69%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.69%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.69%   |
-| Samsung RAM M471A2K43CB1-CTD 16384MB SODIMM DDR4 8400MT/s        | 1         | 1.69%   |
+| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s           | 1         | 1.69%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.69%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.69%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.69%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.69%   |
-| Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s            | 1         | 1.69%   |
+| Samsung RAM M471A1K43BB0-CPB 8192MB SODIMM DDR4 2133MT/s         | 1         | 1.69%   |
 | Ramaxel RAM RMT3170MN68F9F1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.69%   |
 | Ramaxel RAM RMSA3260MH78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 1.69%   |
 | Micron RAM Module 4GB Row Of Chips LPDDR4 3200MT/s               | 1         | 1.69%   |
@@ -2305,7 +2305,7 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 13        | 24.53%  |
+| 1600    | 14        | 26.42%  |
 | 2667    | 12        | 22.64%  |
 | 3200    | 8         | 15.09%  |
 | 1334    | 4         | 7.55%   |
@@ -2314,7 +2314,6 @@ Memory module speed
 | 3266    | 2         | 3.77%   |
 | 8400    | 1         | 1.89%   |
 | 4267    | 1         | 1.89%   |
-| 1333    | 1         | 1.89%   |
 | 1067    | 1         | 1.89%   |
 | 1066    | 1         | 1.89%   |
 | 667     | 1         | 1.89%   |
@@ -2383,12 +2382,13 @@ Camera device vendors
 | Cheng Uei Precision Industry (Foxlink) | 3         | 5.45%   |
 | Ricoh                                  | 2         | 3.64%   |
 | Realtek Semiconductor                  | 2         | 3.64%   |
-| Luxvisions Innotech Limited            | 2         | 3.64%   |
 | Syntek                                 | 1         | 1.82%   |
 | Suyin                                  | 1         | 1.82%   |
 | Silicon Motion                         | 1         | 1.82%   |
 | Samsung Electronics                    | 1         | 1.82%   |
 | Quanta                                 | 1         | 1.82%   |
+| Luxvisions Innotech Limited            | 1         | 1.82%   |
+| DLEQNA19IFK6G2                         | 1         | 1.82%   |
 | Apple                                  | 1         | 1.82%   |
 | Alcor Micro                            | 1         | 1.82%   |
 
@@ -2406,7 +2406,6 @@ Camera device models
 | Acer HD Webcam                                                             | 3         | 5.45%   |
 | Realtek Integrated_Webcam_HD                                               | 2         | 3.64%   |
 | Microdia Integrated_Webcam_HD                                              | 2         | 3.64%   |
-| Luxvisions Innotech Limited HP TrueVision HD Camera                        | 2         | 3.64%   |
 | IMC Networks Integrated Camera                                             | 2         | 3.64%   |
 | Chicony Integrated Camera                                                  | 2         | 3.64%   |
 | Chicony HD Webcam                                                          | 2         | 3.64%   |
@@ -2426,8 +2425,10 @@ Camera device models
 | Microdia PC Microscope camera                                              | 1         | 1.82%   |
 | Microdia Laptop_Integrated_Webcam_HD                                       | 1         | 1.82%   |
 | Microdia Integrated Webcam HD                                              | 1         | 1.82%   |
+| Luxvisions Innotech Limited HP TrueVision HD Camera                        | 1         | 1.82%   |
 | IMC Networks USB2.0 HD UVC WebCam                                          | 1         | 1.82%   |
 | IMC Networks Integrated Webcam                                             | 1         | 1.82%   |
+| DLEQNA19IFK6G2 HP TrueVision HD Camera                                     | 1         | 1.82%   |
 | Chicony XiaoMi USB 2.0 Webcam                                              | 1         | 1.82%   |
 | Chicony UVC 1.00 device HD UVC WebCam                                      | 1         | 1.82%   |
 | Chicony USB2.0 Camera                                                      | 1         | 1.82%   |
@@ -2438,10 +2439,9 @@ Camera device models
 | Chicony HP HD Camera                                                       | 1         | 1.82%   |
 | Chicony HD User Facing                                                     | 1         | 1.82%   |
 | Chicony CNF8248                                                            | 1         | 1.82%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam                              | 1         | 1.82%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD integrated webcam | 1         | 1.82%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera             | 1         | 1.82%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 1.82%   |
-| Apple FaceTime HD Camera                                                   | 1         | 1.82%   |
 
 Security
 --------

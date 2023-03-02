@@ -861,8 +861,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 64       | 66.67%  |
-| No        | 32       | 33.33%  |
+| Yes       | 65       | 67.71%  |
+| No        | 31       | 32.29%  |
 
 Has Ethernet
 ------------
@@ -1383,11 +1383,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| IDE  | 58       | 52.73%  |
-| SATA | 41       | 37.27%  |
-| RAID | 8        | 7.27%   |
-| NVMe | 2        | 1.82%   |
-| SAS  | 1        | 0.91%   |
+| IDE  | 59       | 53.15%  |
+| SATA | 41       | 36.94%  |
+| RAID | 8        | 7.21%   |
+| NVMe | 2        | 1.8%    |
+| SAS  | 1        | 0.9%    |
 
 Processor
 ---------
@@ -1809,13 +1809,13 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.15%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.08%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.08%   |
-| Vestel Elektronik 50FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch   | 1        | 1.08%   |
-| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                      | 1        | 1.08%   |
+| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                        | 1        | 1.08%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.08%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.08%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.08%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.08%   |
 | Sharp LCD SHP0FF0 1360x768                                              | 1        | 1.08%   |
-| Sceptre Tech H32 SPT0CB8 1920x1080 575x323mm 26.0-inch                  | 1        | 1.08%   |
+| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                   | 1        | 1.08%   |
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 520x290mm 23.4-inch    | 1        | 1.08%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.08%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.08%   |
@@ -1830,7 +1830,7 @@ Monitor models
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch       | 1        | 1.08%   |
 | Samsung Electronics C27R50x SAM0F9E 1920x1080 598x336mm 27.0-inch       | 1        | 1.08%   |
 | Panasonic TH-42PD25U MEIA023 1920x540 920x518mm 41.6-inch               | 1        | 1.08%   |
-| MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.08%   |
+| MPI MPI7002 MPI7002 1280x1024 255x255mm 14.2-inch                       | 1        | 1.08%   |
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.08%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.08%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.08%   |
@@ -1899,14 +1899,13 @@ Diagonal size in inches
 | 84      | 2        | 2.22%   |
 | 72      | 2        | 2.22%   |
 | 34      | 2        | 2.22%   |
+| 14      | 2        | 2.22%   |
 | 74      | 1        | 1.11%   |
 | 41      | 1        | 1.11%   |
 | 40      | 1        | 1.11%   |
 | 32      | 1        | 1.11%   |
 | 26      | 1        | 1.11%   |
 | 16      | 1        | 1.11%   |
-| 14      | 1        | 1.11%   |
-| 8       | 1        | 1.11%   |
 
 Monitor Width
 -------------
@@ -1926,9 +1925,8 @@ Physical width
 | 1501-2000   | 5        | 5.56%   |
 | 601-700     | 4        | 4.44%   |
 | 701-800     | 3        | 3.33%   |
+| 201-300     | 2        | 2.22%   |
 | 801-900     | 1        | 1.11%   |
-| 201-300     | 1        | 1.11%   |
-| 101-200     | 1        | 1.11%   |
 | 901-1000    | 1        | 1.11%   |
 
 Aspect Ratio
@@ -1945,9 +1943,10 @@ Proportional relationship between the width and the height
 | 5/4     | 10       | 11.76%  |
 | 16/10   | 10       | 11.76%  |
 | Unknown | 10       | 11.76%  |
-| 4/3     | 5        | 5.88%   |
 | 6/5     | 4        | 4.71%   |
+| 4/3     | 4        | 4.71%   |
 | 21/9    | 2        | 2.35%   |
+| 1.00    | 1        | 1.18%   |
 
 Monitor Area
 ------------
@@ -1964,12 +1963,11 @@ Area in inch²
 | Unknown        | 13       | 14.61%  |
 | 141-150        | 12       | 13.48%  |
 | 301-350        | 7        | 7.87%   |
+| 101-110        | 7        | 7.87%   |
 | 351-500        | 6        | 6.74%   |
-| 101-110        | 6        | 6.74%   |
 | More than 1000 | 5        | 5.62%   |
 | 251-300        | 3        | 3.37%   |
 | 501-1000       | 2        | 2.25%   |
-| 1-40           | 1        | 1.12%   |
 | 131-140        | 1        | 1.12%   |
 | 121-130        | 1        | 1.12%   |
 
@@ -1983,11 +1981,10 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 55       | 65.48%  |
-| Unknown | 13       | 15.48%  |
-| 101-120 | 10       | 11.9%   |
-| 1-50    | 5        | 5.95%   |
-| 161-240 | 1        | 1.19%   |
+| 51-100  | 55       | 66.27%  |
+| Unknown | 13       | 15.66%  |
+| 101-120 | 10       | 12.05%  |
+| 1-50    | 5        | 6.02%   |
 
 Multiple Monitors
 -----------------
@@ -2450,7 +2447,7 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s     | 2        | 8.33%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s          | 2        | 8.33%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s             | 2        | 8.33%   |
 | Unknown RAM Module 4GB DIMM 1066MT/s                    | 1        | 4.17%   |
 | Unknown RAM Module 2GB DIMM DDR2                        | 1        | 4.17%   |
@@ -2461,7 +2458,7 @@ Memory module models
 | SK hynix RAM Module 2GB DIMM DDR3 1600MT/s              | 1        | 4.17%   |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.17%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s            | 1        | 4.17%   |
-| Samsung RAM M378B2873FHS-CH9 4GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |
+| Samsung RAM M378B2873FHS-CH9 1GB DIMM 1600MT/s          | 1        | 4.17%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 4.17%   |
 | Nanya RAM NT1GT64UH8D0FN-AD 1GB DIMM DDR2 2048MT/s      | 1        | 4.17%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |

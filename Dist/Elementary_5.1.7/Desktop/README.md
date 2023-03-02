@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 100
+Total: 101
 
 | Vendor    | Model                       | Probe                                                      | Date         |
 |-----------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte  | GA-880GMA-UD2H              | [c1936488f5](https://linux-hardware.org/?probe=c1936488f5) | Feb 20, 2023 |
 | ASUSTek   | Z87-A                       | [755bed02ff](https://linux-hardware.org/?probe=755bed02ff) | Jan 25, 2023 |
 | ASUSTek   | Z87-A                       | [6ccfafe0d6](https://linux-hardware.org/?probe=6ccfafe0d6) | Jan 24, 2023 |
 | Lenovo    | ThinkCentre M71e 3129C3G    | [cb9f99f1cf](https://linux-hardware.org/?probe=cb9f99f1cf) | Dec 23, 2022 |
@@ -271,46 +272,46 @@ Version of the Linux kernel
 
 | Version                | Desktops | Percent |
 |------------------------|----------|---------|
-| 5.4.0-48-generic       | 8        | 9.88%   |
-| 5.4.0-65-generic       | 6        | 7.41%   |
-| 5.4.0-58-generic       | 5        | 6.17%   |
-| 5.4.0-54-generic       | 5        | 6.17%   |
-| 5.4.0-42-generic       | 5        | 6.17%   |
-| 5.4.0-47-generic       | 3        | 3.7%    |
-| 5.4.0-90-generic       | 2        | 2.47%   |
-| 5.4.0-80-generic       | 2        | 2.47%   |
-| 5.4.0-71-generic       | 2        | 2.47%   |
-| 5.4.0-70-generic       | 2        | 2.47%   |
-| 5.4.0-60-generic       | 2        | 2.47%   |
-| 5.4.0-56-generic       | 2        | 2.47%   |
-| 5.4.0-53-generic       | 2        | 2.47%   |
-| 5.4.0-52-generic       | 2        | 2.47%   |
-| 5.4.0-124-generic      | 2        | 2.47%   |
-| 4.15.0-161-generic     | 2        | 2.47%   |
-| 4.15.0-128-generic     | 2        | 2.47%   |
-| 4.15.0-112-generic     | 2        | 2.47%   |
-| 5.4.0-99-generic       | 1        | 1.23%   |
-| 5.4.0-94-generic       | 1        | 1.23%   |
-| 5.4.0-91-generic       | 1        | 1.23%   |
-| 5.4.0-84-generic       | 1        | 1.23%   |
-| 5.4.0-77-generic       | 1        | 1.23%   |
-| 5.4.0-74-generic       | 1        | 1.23%   |
-| 5.4.0-73-generic       | 1        | 1.23%   |
-| 5.4.0-67-generic       | 1        | 1.23%   |
-| 5.4.0-66-generic       | 1        | 1.23%   |
-| 5.4.0-62-generic       | 1        | 1.23%   |
-| 5.4.0-49-generic       | 1        | 1.23%   |
-| 5.4.0-45-generic       | 1        | 1.23%   |
-| 5.4.0-137-generic      | 1        | 1.23%   |
-| 5.4.0-135-generic      | 1        | 1.23%   |
-| 5.4.0-113-generic      | 1        | 1.23%   |
-| 5.4.0-109-generic      | 1        | 1.23%   |
-| 5.4.0-107-generic      | 1        | 1.23%   |
-| 5.4.0-100-generic      | 1        | 1.23%   |
-| 5.17.0-051700-generic  | 1        | 1.23%   |
-| 5.15.12-051512-generic | 1        | 1.23%   |
-| 4.18.0-25-generic      | 1        | 1.23%   |
-| 4.15.0-162-generic     | 1        | 1.23%   |
+| 5.4.0-48-generic       | 8        | 9.76%   |
+| 5.4.0-65-generic       | 6        | 7.32%   |
+| 5.4.0-58-generic       | 5        | 6.1%    |
+| 5.4.0-54-generic       | 5        | 6.1%    |
+| 5.4.0-42-generic       | 5        | 6.1%    |
+| 5.4.0-47-generic       | 3        | 3.66%   |
+| 5.4.0-90-generic       | 2        | 2.44%   |
+| 5.4.0-80-generic       | 2        | 2.44%   |
+| 5.4.0-71-generic       | 2        | 2.44%   |
+| 5.4.0-70-generic       | 2        | 2.44%   |
+| 5.4.0-60-generic       | 2        | 2.44%   |
+| 5.4.0-56-generic       | 2        | 2.44%   |
+| 5.4.0-53-generic       | 2        | 2.44%   |
+| 5.4.0-52-generic       | 2        | 2.44%   |
+| 5.4.0-124-generic      | 2        | 2.44%   |
+| 4.15.0-161-generic     | 2        | 2.44%   |
+| 4.15.0-128-generic     | 2        | 2.44%   |
+| 4.15.0-112-generic     | 2        | 2.44%   |
+| 5.4.0-99-generic       | 1        | 1.22%   |
+| 5.4.0-94-generic       | 1        | 1.22%   |
+| 5.4.0-91-generic       | 1        | 1.22%   |
+| 5.4.0-84-generic       | 1        | 1.22%   |
+| 5.4.0-77-generic       | 1        | 1.22%   |
+| 5.4.0-74-generic       | 1        | 1.22%   |
+| 5.4.0-73-generic       | 1        | 1.22%   |
+| 5.4.0-67-generic       | 1        | 1.22%   |
+| 5.4.0-66-generic       | 1        | 1.22%   |
+| 5.4.0-62-generic       | 1        | 1.22%   |
+| 5.4.0-49-generic       | 1        | 1.22%   |
+| 5.4.0-45-generic       | 1        | 1.22%   |
+| 5.4.0-139-generic      | 1        | 1.22%   |
+| 5.4.0-137-generic      | 1        | 1.22%   |
+| 5.4.0-135-generic      | 1        | 1.22%   |
+| 5.4.0-113-generic      | 1        | 1.22%   |
+| 5.4.0-109-generic      | 1        | 1.22%   |
+| 5.4.0-107-generic      | 1        | 1.22%   |
+| 5.4.0-100-generic      | 1        | 1.22%   |
+| 5.17.0-051700-generic  | 1        | 1.22%   |
+| 5.15.12-051512-generic | 1        | 1.22%   |
+| 4.18.0-25-generic      | 1        | 1.22%   |
 
 Kernel Family
 -------------
@@ -726,12 +727,12 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1.01-2.0  | 29       | 37.18%  |
-| 2.01-3.0  | 18       | 23.08%  |
-| 4.01-8.0  | 16       | 20.51%  |
-| 3.01-4.0  | 13       | 16.67%  |
-| 8.01-16.0 | 1        | 1.28%   |
-| 0.51-1.0  | 1        | 1.28%   |
+| 1.01-2.0  | 30       | 37.97%  |
+| 2.01-3.0  | 18       | 22.78%  |
+| 4.01-8.0  | 16       | 20.25%  |
+| 3.01-4.0  | 13       | 16.46%  |
+| 8.01-16.0 | 1        | 1.27%   |
+| 0.51-1.0  | 1        | 1.27%   |
 
 Total Drives
 ------------
@@ -743,14 +744,14 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 32       | 44.44%  |
-| 2      | 22       | 30.56%  |
-| 3      | 6        | 8.33%   |
-| 4      | 4        | 5.56%   |
-| 5      | 3        | 4.17%   |
-| 7      | 2        | 2.78%   |
-| 6      | 2        | 2.78%   |
-| 0      | 1        | 1.39%   |
+| 1      | 33       | 45.21%  |
+| 2      | 22       | 30.14%  |
+| 3      | 6        | 8.22%   |
+| 4      | 4        | 5.48%   |
+| 5      | 3        | 4.11%   |
+| 7      | 2        | 2.74%   |
+| 6      | 2        | 2.74%   |
+| 0      | 1        | 1.37%   |
 
 Has CD-ROM
 ----------
@@ -933,7 +934,7 @@ Hard drive vendors
 | OCZ                 | 2        | 3      | 1.69%   |
 | A-DATA Technology   | 2        | 3      | 1.69%   |
 | WDC WDS             | 1        | 1      | 0.85%   |
-| Transcend           | 1        | 1      | 0.85%   |
+| Transcend           | 1        | 2      | 0.85%   |
 | PNY                 | 1        | 1      | 0.85%   |
 | Patriot             | 1        | 1      | 0.85%   |
 | OWC                 | 1        | 1      | 0.85%   |
@@ -993,7 +994,7 @@ Hard drive models
 | WDC WD10EZEX-08M2NA0 1TB          | 1        | 0.72%   |
 | WDC WD10EURX-63UY4Y0 1TB          | 1        | 0.72%   |
 | WDC WD10EALX-009BA0 1TB           | 1        | 0.72%   |
-| Unknown SD/MMC/MS PRO 2GB         | 1        | 0.72%   |
+| Unknown SD/MMC/MS PRO 16GB        | 1        | 0.72%   |
 
 HDD Vendor
 ----------
@@ -1031,7 +1032,7 @@ Solid state drive vendors
 | OCZ                 | 2        | 3      | 3.51%   |
 | A-DATA Technology   | 2        | 3      | 3.51%   |
 | WDC WDS             | 1        | 1      | 1.75%   |
-| Transcend           | 1        | 1      | 1.75%   |
+| Transcend           | 1        | 2      | 1.75%   |
 | PNY                 | 1        | 1      | 1.75%   |
 | Patriot             | 1        | 1      | 1.75%   |
 | OWC                 | 1        | 1      | 1.75%   |
@@ -1052,7 +1053,7 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 46       | 88     | 47.92%  |
-| SSD     | 42       | 72     | 43.75%  |
+| SSD     | 42       | 73     | 43.75%  |
 | NVMe    | 7        | 13     | 7.29%   |
 | Unknown | 1        | 1      | 1.04%   |
 
@@ -1066,7 +1067,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 67       | 156    | 84.81%  |
+| SATA | 67       | 157    | 84.81%  |
 | NVMe | 7        | 13     | 8.86%   |
 | SAS  | 5        | 5      | 6.33%   |
 
@@ -1080,11 +1081,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 57       | 106    | 64.04%  |
-| 0.51-1.0   | 20       | 32     | 22.47%  |
-| 1.01-2.0   | 6        | 12     | 6.74%   |
-| 2.01-3.0   | 3        | 7      | 3.37%   |
-| 4.01-10.0  | 3        | 3      | 3.37%   |
+| 0.01-0.5   | 57       | 106    | 63.33%  |
+| 0.51-1.0   | 21       | 33     | 23.33%  |
+| 1.01-2.0   | 7        | 13     | 7.78%   |
+| 2.01-3.0   | 3        | 7      | 3.33%   |
+| 4.01-10.0  | 2        | 2      | 2.22%   |
 
 Space Total
 -----------
@@ -1115,15 +1116,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 17       | 22.67%  |
-| 51-100         | 15       | 20%     |
-| 21-50          | 14       | 18.67%  |
-| 101-250        | 11       | 14.67%  |
-| 501-1000       | 7        | 9.33%   |
-| 251-500        | 4        | 5.33%   |
-| More than 3000 | 3        | 4%      |
-| 1001-2000      | 3        | 4%      |
-| 2001-3000      | 1        | 1.33%   |
+| 1-20           | 17       | 22.37%  |
+| 51-100         | 15       | 19.74%  |
+| 21-50          | 14       | 18.42%  |
+| 101-250        | 12       | 15.79%  |
+| 501-1000       | 7        | 9.21%   |
+| 251-500        | 4        | 5.26%   |
+| More than 3000 | 3        | 3.95%   |
+| 1001-2000      | 3        | 3.95%   |
+| 2001-3000      | 1        | 1.32%   |
 
 Malfunc. Drives
 ---------------
@@ -1212,7 +1213,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 59       | 143    | 76.62%  |
+| Detected | 59       | 144    | 76.62%  |
 | Works    | 10       | 23     | 12.99%  |
 | Malfunc  | 8        | 8      | 10.39%  |
 
@@ -1660,31 +1661,32 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Dell                 | 11       | 15.07%  |
-| Samsung Electronics  | 9        | 12.33%  |
-| Goldstar             | 9        | 12.33%  |
-| Acer                 | 6        | 8.22%   |
-| AOC                  | 5        | 6.85%   |
-| Ancor Communications | 5        | 6.85%   |
-| ViewSonic            | 3        | 4.11%   |
-| LG Electronics       | 3        | 4.11%   |
-| Hewlett-Packard      | 3        | 4.11%   |
-| Unknown              | 2        | 2.74%   |
-| BenQ                 | 2        | 2.74%   |
-| Apple                | 2        | 2.74%   |
-| ___                  | 1        | 1.37%   |
-| Vizio                | 1        | 1.37%   |
-| Vestel               | 1        | 1.37%   |
-| SAC                  | 1        | 1.37%   |
-| Ruijiang             | 1        | 1.37%   |
-| Philips              | 1        | 1.37%   |
-| PDA                  | 1        | 1.37%   |
-| KIV                  | 1        | 1.37%   |
-| Iiyama               | 1        | 1.37%   |
-| HPN                  | 1        | 1.37%   |
-| HKC                  | 1        | 1.37%   |
-| Haier                | 1        | 1.37%   |
-| Fujitsu Siemens      | 1        | 1.37%   |
+| Dell                 | 11       | 14.86%  |
+| Samsung Electronics  | 9        | 12.16%  |
+| Goldstar             | 9        | 12.16%  |
+| Acer                 | 6        | 8.11%   |
+| AOC                  | 5        | 6.76%   |
+| Ancor Communications | 5        | 6.76%   |
+| ViewSonic            | 3        | 4.05%   |
+| LG Electronics       | 3        | 4.05%   |
+| Hewlett-Packard      | 3        | 4.05%   |
+| Unknown              | 2        | 2.7%    |
+| BenQ                 | 2        | 2.7%    |
+| Apple                | 2        | 2.7%    |
+| ___                  | 1        | 1.35%   |
+| Vizio                | 1        | 1.35%   |
+| Vestel               | 1        | 1.35%   |
+| SAC                  | 1        | 1.35%   |
+| Ruijiang             | 1        | 1.35%   |
+| Philips              | 1        | 1.35%   |
+| PDA                  | 1        | 1.35%   |
+| PANDA                | 1        | 1.35%   |
+| KIV                  | 1        | 1.35%   |
+| Iiyama               | 1        | 1.35%   |
+| HPN                  | 1        | 1.35%   |
+| HKC                  | 1        | 1.35%   |
+| Haier                | 1        | 1.35%   |
+| Fujitsu Siemens      | 1        | 1.35%   |
 
 Monitor Model
 -------------
@@ -1696,46 +1698,46 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                    | 3        | 3.9%    |
-| ___ LCDTV16 ___0101 1360x768                                            | 1        | 1.3%    |
-| Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                     | 1        | 1.3%    |
-| ViewSonic VX2476 Series VSCD332 1920x1080 527x296mm 23.8-inch           | 1        | 1.3%    |
-| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 1.3%    |
-| ViewSonic VA1931 Series VSCAC25 1366x768 410x230mm 18.5-inch            | 1        | 1.3%    |
-| Vestel LCD Monitor 43UHD_LCD_TV 3840x2160                               | 1        | 1.3%    |
-| Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 1        | 1.3%    |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 1.3%    |
-| Samsung Electronics T27C370 SAM0ADE 1920x1080 598x336mm 27.0-inch       | 1        | 1.3%    |
-| Samsung Electronics SyncMaster SAM0595 2048x1152 510x287mm 23.0-inch    | 1        | 1.3%    |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch    | 1        | 1.3%    |
-| Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch     | 1        | 1.3%    |
-| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch     | 1        | 1.3%    |
-| Samsung Electronics SA300/SA350 SAM078B 1600x900 443x249mm 20.0-inch    | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor S24F350 1920x1080                       | 1        | 1.3%    |
-| SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch                   | 1        | 1.3%    |
-| Ruijiang HDMI RJT003A 1920x1080 1280x720mm 57.8-inch                    | 1        | 1.3%    |
-| Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch                 | 1        | 1.3%    |
-| PDA P24FA2 PDA2380 1920x1080 409x230mm 18.5-inch                        | 1        | 1.3%    |
-| LG Electronics LCD Monitor W2252 3600x1080                              | 1        | 1.3%    |
-| LG Electronics LCD Monitor M227WAP 1920x1080                            | 1        | 1.3%    |
-| LG Electronics LCD Monitor LG ULTRAGEAR 2560x1440                       | 1        | 1.3%    |
-| KIV Kivi TV KIV0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.3%    |
-| Iiyama PL3270Q IVM7608 2560x1440 700x390mm 31.5-inch                    | 1        | 1.3%    |
-| Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                    | 1        | 1.3%    |
-| HPN LCD Monitor HP 27fh 1920x1080                                       | 1        | 1.3%    |
-| HKC LCD Monitor TV 1920x1080                                            | 1        | 1.3%    |
-| Hewlett-Packard 27xw HWP3197 1920x1080 598x336mm 27.0-inch              | 1        | 1.3%    |
-| Hewlett-Packard 27es HWP3325 1920x1080 598x336mm 27.0-inch              | 1        | 1.3%    |
-| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch               | 1        | 1.3%    |
-| Haier SMART TV HRE0030 3840x2160 708x398mm 32.0-inch                    | 1        | 1.3%    |
-| Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                   | 1        | 1.3%    |
-| Goldstar L1750SQ GSM43E8 1280x1024 338x270mm 17.0-inch                  | 1        | 1.3%    |
-| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 1.3%    |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 1        | 1.3%    |
-| Goldstar E2250 GSM578D 1920x1080 480x270mm 21.7-inch                    | 1        | 1.3%    |
-| Goldstar E2241 GSM5818 1920x1080 477x268mm 21.5-inch                    | 1        | 1.3%    |
+| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                    | 3        | 3.85%   |
+| ___ LCDTV16 ___0101 1360x768                                            | 1        | 1.28%   |
+| Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                     | 1        | 1.28%   |
+| ViewSonic VX2476 Series VSCD332 1920x1080 527x296mm 23.8-inch           | 1        | 1.28%   |
+| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 1.28%   |
+| ViewSonic VA1931 Series VSCAC25 1366x768 410x230mm 18.5-inch            | 1        | 1.28%   |
+| Vestel LCD Monitor 43UHD_LCD_TV 3840x2160                               | 1        | 1.28%   |
+| Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 1        | 1.28%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 1.28%   |
+| Samsung Electronics T27C370 SAM0ADE 1920x1080 598x336mm 27.0-inch       | 1        | 1.28%   |
+| Samsung Electronics SyncMaster SAM0595 2048x1152 510x287mm 23.0-inch    | 1        | 1.28%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch    | 1        | 1.28%   |
+| Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch     | 1        | 1.28%   |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch     | 1        | 1.28%   |
+| Samsung Electronics SA300/SA350 SAM078B 1600x900 443x249mm 20.0-inch    | 1        | 1.28%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 1.28%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 1.28%   |
+| Samsung Electronics LCD Monitor S24F350 1920x1080                       | 1        | 1.28%   |
+| SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch                   | 1        | 1.28%   |
+| Ruijiang HDMI RJT003A 1920x1080 1280x720mm 57.8-inch                    | 1        | 1.28%   |
+| Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch                 | 1        | 1.28%   |
+| PDA P24FA2 PDA2380 1920x1080 409x230mm 18.5-inch                        | 1        | 1.28%   |
+| PANDA P24FA2 PDA2380 1920x1080 409x230mm 18.5-inch                      | 1        | 1.28%   |
+| LG Electronics LCD Monitor W2252 3600x1080                              | 1        | 1.28%   |
+| LG Electronics LCD Monitor M227WAP 1920x1080                            | 1        | 1.28%   |
+| LG Electronics LCD Monitor LG ULTRAGEAR 2560x1440                       | 1        | 1.28%   |
+| KIV Kivi TV KIV0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.28%   |
+| Iiyama PL3270Q IVM7608 2560x1440 700x390mm 31.5-inch                    | 1        | 1.28%   |
+| Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                    | 1        | 1.28%   |
+| HPN LCD Monitor HP 27fh 1920x1080                                       | 1        | 1.28%   |
+| HKC LCD Monitor TV 1920x1080                                            | 1        | 1.28%   |
+| Hewlett-Packard 27xw HWP3197 1920x1080 598x336mm 27.0-inch              | 1        | 1.28%   |
+| Hewlett-Packard 27es HWP3325 1920x1080 598x336mm 27.0-inch              | 1        | 1.28%   |
+| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch               | 1        | 1.28%   |
+| Haier SMART TV HRE0030 3840x2160 708x398mm 32.0-inch                    | 1        | 1.28%   |
+| Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                   | 1        | 1.28%   |
+| Goldstar L1750SQ GSM43E8 1280x1024 338x270mm 17.0-inch                  | 1        | 1.28%   |
+| Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 1.28%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 1        | 1.28%   |
+| Goldstar E2250 GSM578D 1920x1080 477x268mm 21.5-inch                    | 1        | 1.28%   |
 
 Monitor Resolution
 ------------------
@@ -2085,7 +2087,7 @@ Ethernet models
 | Intel 82566DC Gigabit Network Connection                          | 1        | 1.35%   |
 | Intel 82562V-2 10/100 Network Connection                          | 1        | 1.35%   |
 | Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)            | 1        | 1.35%   |
-| Huawei ELS-NX9                                                    | 1        | 1.35%   |
+| Huawei MLA-L11                                                    | 1        | 1.35%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 1.35%   |
 
 Net Controller Kind
@@ -2233,12 +2235,12 @@ Sound card models
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 5        | 3.65%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 4        | 2.92%   |
 | Intel 200 Series PCH HD Audio                                              | 4        | 2.92%   |
+| JMTek USB PnP Audio Device                                                 | 3        | 2.19%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 3        | 2.19%   |
 | AMD Starship/Matisse HD Audio Controller                                   | 3        | 2.19%   |
 | AMD FCH Azalia Controller                                                  | 3        | 2.19%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 3        | 2.19%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 2        | 1.46%   |
-| JMTek USB PnP Audio Device                                                 | 2        | 1.46%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 2        | 1.46%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 1.46%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 1.46%   |
@@ -2260,7 +2262,7 @@ Sound card models
 | Nvidia GF116 High Definition Audio Controller                              | 1        | 0.73%   |
 | Nvidia GF110 High Definition Audio Controller                              | 1        | 0.73%   |
 | Nvidia GF108 High Definition Audio Controller                              | 1        | 0.73%   |
-| JMTek USB PnP Audio Device(EEPROM)                                         | 1        | 0.73%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1        | 0.73%   |
 
 Memory
 ------
@@ -2306,7 +2308,7 @@ Memory module models
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s     | 1        | 2.94%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s     | 1        | 2.94%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s    | 1        | 2.94%   |
-| Samsung RAM M378A5244CB0-CTD 4GB DIMM DDR4 3334MT/s      | 1        | 2.94%   |
+| Samsung RAM M378A5244CB0-CTD 4096MB DIMM DDR4 3334MT/s   | 1        | 2.94%   |
 | Ramaxel RAM RMR1870ED48E8F1333 2048MB DIMM DDR3 1333MT/s | 1        | 2.94%   |
 | Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s          | 1        | 2.94%   |
 | Patriot RAM PSD22G8002 2GB DIMM DDR2 800MT/s             | 1        | 2.94%   |
@@ -2319,7 +2321,7 @@ Memory module models
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 2.94%   |
 | Kingston RAM KHX1866C9D3/8GX 8GB DIMM DDR3 1866MT/s      | 1        | 2.94%   |
 | Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s      | 1        | 2.94%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3               | 1        | 2.94%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 2.94%   |
 | Kingston RAM HP497157-B88-ELDW 2048MB DIMM DDR3 1333MT/s | 1        | 2.94%   |
 | Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 2.94%   |
 | G.Skill RAM F3-1600C9-8GXM 8GB DIMM DDR3 1867MT/s        | 1        | 2.94%   |

@@ -858,7 +858,7 @@ Hard drive models
 | Seagate ST2000LM003 HN-M201RAD 2TB   | 1         | 1.92%   |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 1.92%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 1         | 1.92%   |
-| Seagate BUP BK 4TB                   | 1         | 1.92%   |
+| Seagate BUP BK 5TB                   | 1         | 1.92%   |
 | SanDisk SSD PLUS 480G                | 1         | 1.92%   |
 | SanDisk SDSSDHII120G 120GB           | 1         | 1.92%   |
 | SanDisk SDSSDA120G 120GB             | 1         | 1.92%   |
@@ -959,8 +959,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 29        | 36     | 82.86%  |
 | 0.51-1.0   | 4         | 4      | 11.43%  |
-| 3.01-4.0   | 1         | 1      | 2.86%   |
 | 1.01-2.0   | 1         | 1      | 2.86%   |
+| 4.01-10.0  | 1         | 1      | 2.86%   |
 
 Space Total
 -----------
@@ -1536,10 +1536,10 @@ Monitor models
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch  | 2         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch      | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch      | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch      | 1         | 2.17%   |
 | Philips PHL BDM4350 PHL08FA 3840x2160 953x543mm 43.2-inch                 | 1         | 2.17%   |
-| PANDA LM116LF3L02 NCP000A 1920x1080 256x144mm 11.6-inch                   | 1         | 2.17%   |
+| PANDA LC116LF3L03 NCP000A 1920x1080 256x144mm 11.6-inch                   | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL1901 1680x1050 331x207mm 15.4-inch              | 1         | 2.17%   |
 | LG Display LP156WH2-TLE1 LGDCF01 1366x768 344x194mm 15.5-inch             | 1         | 2.17%   |
 | LG Display LCD Monitor LGD062E 1920x1080 344x194mm 15.5-inch              | 1         | 2.17%   |
@@ -1551,14 +1551,14 @@ Monitor models
 | LG Display LCD Monitor LGD03B8 1366x768 310x174mm 14.0-inch               | 1         | 2.17%   |
 | Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch                  | 1         | 2.17%   |
 | Lenovo LCD Monitor LEN4043 1400x1050 305x228mm 15.0-inch                  | 1         | 2.17%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch                   | 1         | 2.17%   |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                   | 1         | 2.17%   |
 | InfoVision LCD Monitor IVO03FA 1366x768 223x125mm 10.1-inch               | 1         | 2.17%   |
-| HannStar HSD100IFW1 HSD03E9 1024x600 220x129mm 10.0-inch                  | 1         | 2.17%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                 | 1         | 2.17%   |
 | HannStar HL161ABB HSD61C7 1366x768 344x193mm 15.5-inch                    | 1         | 2.17%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                   | 1         | 2.17%   |
 | Dell S2409W DELA039 1920x1080 531x298mm 24.0-inch                         | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch           | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch           | 1         | 2.17%   |
+| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x194mm 15.5-inch           | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN14A7 1920x1080 308x173mm 13.9-inch          | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN1491 1366x768 309x174mm 14.0-inch           | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.17%   |
@@ -1973,12 +1973,12 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 9         | 31.03%  |
-| Intel Bluetooth Device                              | 2         | 6.9%    |
+| Intel AX201 Bluetooth                               | 2         | 6.9%    |
 | Realtek RTL8821A Bluetooth                          | 1         | 3.45%   |
 | Realtek Bluetooth Radio                             | 1         | 3.45%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 3.45%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 3.45%   |
-| Lite-On Bluetooth Device                            | 1         | 3.45%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.45%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 3.45%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 3.45%   |
 | Intel AX200 Bluetooth                               | 1         | 3.45%   |
@@ -2096,7 +2096,7 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s          | 2         | 3.92%   |
+| SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s             | 2         | 3.92%   |
 | Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s       | 2         | 3.92%   |
 | Unknown RAM Module 2048MB SODIMM DDR2                            | 1         | 1.96%   |
 | Unknown RAM Module 1024MB SODIMM DDR2                            | 1         | 1.96%   |
@@ -2117,7 +2117,7 @@ Memory module models
 | Samsung RAM Module 2048MB SODIMM DDR2 533MT/s                    | 1         | 1.96%   |
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5674EB0-YK0 2GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s                 | 1         | 1.96%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.96%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
@@ -2126,13 +2126,13 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
 | Ramaxel RAM RMT3150ED58E8W1600 2GB SODIMM DDR3 1600MT/s          | 1         | 1.96%   |
 | Ramaxel RAM RMSA3300ME78HBF-2666 16GB SODIMM DDR4 2667MT/s       | 1         | 1.96%   |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8192MB SODIMM DDR4 2667MT/s     | 1         | 1.96%   |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 1.96%   |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s             | 1         | 1.96%   |
 | Nanya RAM NT1GT64UH8D0FN-3C 1024MB SODIMM DDR2 667MT/s           | 1         | 1.96%   |
 | Micron RAM Module 4096MB SODIMM DDR4 2400MT/s                    | 1         | 1.96%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                    | 1         | 1.96%   |
 | Micron RAM Module 1024MB SODIMM DDR3 1067MT/s                    | 1         | 1.96%   |
-| Micron RAM 8ATF1G64HZ-2G3E1 8192MB SODIMM DDR4 2400MT/s          | 1         | 1.96%   |
+| Micron RAM 8ATF1G64HZ-2G3E1 8GB SODIMM DDR4 2400MT/s             | 1         | 1.96%   |
 | Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
 | Kingston RAM KNWMX1-ETB 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.96%   |
@@ -2279,7 +2279,7 @@ Camera device models
 | Quanta VGA WebCam                                           | 2         | 6.06%   |
 | Lite-On Integrated Camera                                   | 2         | 6.06%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 2         | 6.06%   |
-| Acer Lenovo EasyCamera                                      | 2         | 6.06%   |
+| Acer Lenovo Integrated Webcam                               | 2         | 6.06%   |
 | Acer BisonCam, NB Pro                                       | 2         | 6.06%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 1         | 3.03%   |
 | Sunplus Laptop_Integrated_Webcam_HD                         | 1         | 3.03%   |
@@ -2298,7 +2298,7 @@ Camera device models
 | Chicony HP Full-HD Camera                                   | 1         | 3.03%   |
 | Cheng Uei Precision Industry (Foxlink) Webcam               | 1         | 3.03%   |
 | Apple Built-in iSight                                       | 1         | 3.03%   |
-| Acer Lenovo Integrated Webcam                               | 1         | 3.03%   |
+| Acer Lenovo EasyCamera                                      | 1         | 3.03%   |
 | Acer Integrated Camera                                      | 1         | 3.03%   |
 | Acer EasyCamera                                             | 1         | 3.03%   |
 

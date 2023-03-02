@@ -821,7 +821,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 2TB             | 1         | 2.5%    |
 | Samsung MZVL22T0HBLB-00BL7 2TB         | 1         | 2.5%    |
 | Samsung MZALQ512HBLU-00BL2 512GB       | 1         | 2.5%    |
-| SABRENT Disk 4TB                       | 1         | 2.5%    |
+| SABRENT Disk 256GB                     | 1         | 2.5%    |
 | PNY CS900 240GB SSD                    | 1         | 2.5%    |
 | Phison NVMe SSD Drive 512GB            | 1         | 2.5%    |
 | KIOXIA KXG60ZNV512G NVMe 512GB         | 1         | 2.5%    |
@@ -905,10 +905,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 10     | 56.25%  |
-| 0.51-1.0   | 5         | 5      | 31.25%  |
-| 3.01-4.0   | 1         | 1      | 6.25%   |
-| 1.01-2.0   | 1         | 1      | 6.25%   |
+| 0.01-0.5   | 9         | 11     | 60%     |
+| 0.51-1.0   | 5         | 5      | 33.33%  |
+| 1.01-2.0   | 1         | 1      | 6.67%   |
 
 Space Total
 -----------
@@ -1428,7 +1427,7 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch                | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.78%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch        | 1         | 2.78%   |
@@ -1622,7 +1621,7 @@ Controller models
 | Intel Wi-Fi 6 AX201                                               | 2         | 3.85%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 3.85%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 1.92%   |
-| T & A Mobile Phones A509DL                                        | 1         | 1.92%   |
+| T & A Mobile Phones Alcatel JOY TAB 2                             | 1         | 1.92%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 1.92%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.92%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.92%   |
@@ -1824,24 +1823,24 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                 | Notebooks | Percent |
-|---------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface    | 4         | 15.38%  |
-| Intel AX200 Bluetooth                 | 4         | 15.38%  |
-| Intel Bluetooth Device                | 3         | 11.54%  |
-| Qualcomm Atheros  Bluetooth Device    | 2         | 7.69%   |
-| Intel AX210 Bluetooth                 | 2         | 7.69%   |
-| Toshiba RT Bluetooth Radio            | 1         | 3.85%   |
-| Realtek RTL8821A Bluetooth            | 1         | 3.85%   |
-| Realtek  Bluetooth 4.2 Adapter        | 1         | 3.85%   |
-| Qualcomm Atheros AR3012 Bluetooth 4.0 | 1         | 3.85%   |
-| MediaTek Wireless_Device              | 1         | 3.85%   |
-| Lite-On Wireless_Device               | 1         | 3.85%   |
-| Lite-On Bluetooth Device              | 1         | 3.85%   |
-| IMC Networks Bluetooth Radio          | 1         | 3.85%   |
-| Foxconn / Hon Hai Bluetooth Device    | 1         | 3.85%   |
-| Dell DW375 Bluetooth Module           | 1         | 3.85%   |
-| Broadcom Bluetooth 2.1 Device         | 1         | 3.85%   |
+| Model                                      | Notebooks | Percent |
+|--------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface         | 4         | 15.38%  |
+| Intel AX200 Bluetooth                      | 4         | 15.38%  |
+| Intel AX201 Bluetooth                      | 3         | 11.54%  |
+| Qualcomm Atheros  Bluetooth Device         | 2         | 7.69%   |
+| Intel AX210 Bluetooth                      | 2         | 7.69%   |
+| Toshiba RT Bluetooth Radio                 | 1         | 3.85%   |
+| Realtek RTL8821A Bluetooth                 | 1         | 3.85%   |
+| Realtek  Bluetooth 4.2 Adapter             | 1         | 3.85%   |
+| Qualcomm Atheros AR3012 Bluetooth 4.0      | 1         | 3.85%   |
+| MediaTek Wireless_Device                   | 1         | 3.85%   |
+| Lite-On Wireless_Device                    | 1         | 3.85%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 3.85%   |
+| IMC Networks Bluetooth Radio               | 1         | 3.85%   |
+| Foxconn / Hon Hai Bluetooth Device         | 1         | 3.85%   |
+| Dell DW375 Bluetooth Module                | 1         | 3.85%   |
+| Broadcom Bluetooth 2.1 Device              | 1         | 3.85%   |
 
 Sound
 -----
@@ -2099,15 +2098,15 @@ Camera device models
 | Realtek HD WebCam                                               | 1         | 3.85%   |
 | Quanta VGA WebCam                                               | 1         | 3.85%   |
 | Quanta USB2.0 HD UVC WebCam                                     | 1         | 3.85%   |
-| Microdia USB 2.0 Camera                                         | 1         | 3.85%   |
+| Microdia CameraA                                                | 1         | 3.85%   |
 | Logitech Webcam C270                                            | 1         | 3.85%   |
 | Importek TOSHIBA Web Camera - HD                                | 1         | 3.85%   |
 | IMC Networks USB2.0 VGA UVC WebCam                              | 1         | 3.85%   |
 | IMC Networks Integrated Camera                                  | 1         | 3.85%   |
 | Chicony Sony Visual Communication Camera                        | 1         | 3.85%   |
 | Chicony EasyCamera                                              | 1         | 3.85%   |
+| Cheng Uei Precision Industry (Foxlink) Webcam                   | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 3.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Camera             | 1         | 3.85%   |
 | Acer Lenovo EasyCamera                                          | 1         | 3.85%   |
 
 Security
@@ -2187,8 +2186,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 19        | 63.33%  |
-| 1     | 6         | 20%     |
-| 2     | 5         | 16.67%  |
+| 2     | 6         | 20%     |
+| 1     | 5         | 16.67%  |
 
 Unsupported Device Types
 ------------------------
@@ -2200,10 +2199,11 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 5         | 27.78%  |
-| Net/wireless          | 4         | 22.22%  |
-| Chipcard              | 4         | 22.22%  |
-| Multimedia controller | 3         | 16.67%  |
-| Unassigned class      | 1         | 5.56%   |
-| Storage               | 1         | 5.56%   |
+| Fingerprint reader    | 5         | 26.32%  |
+| Net/wireless          | 4         | 21.05%  |
+| Chipcard              | 4         | 21.05%  |
+| Multimedia controller | 3         | 15.79%  |
+| Unassigned class      | 1         | 5.26%   |
+| Storage               | 1         | 5.26%   |
+| Graphics card         | 1         | 5.26%   |
 
