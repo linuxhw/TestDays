@@ -879,13 +879,13 @@ Hard drive models
 | WDC WDS250G2B0A-00SM50 250GB SSD             | 1         | 2.22%   |
 | WDC WD10SPZX-60Z10T1 1TB                     | 1         | 2.22%   |
 | WDC WD10JPCX-24UE4T0 1TB                     | 1         | 2.22%   |
-| Unknown SD/MMC/MS PRO 16GB                   | 1         | 2.22%   |
+| Unknown SD/MMC/MS PRO 64GB                   | 1         | 2.22%   |
 | Unknown MMC64G  64GB                         | 1         | 2.22%   |
 | Unknown MMC Card  256GB                      | 1         | 2.22%   |
 | Union Memory (Shenzhen) NVMe SSD Drive 128GB | 1         | 2.22%   |
 | Seagate ST9750420AS 752GB                    | 1         | 2.22%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 2.22%   |
-| Seagate BUP Slim BK 1TB                      | 1         | 2.22%   |
+| Seagate BUP Slim BK 2TB                      | 1         | 2.22%   |
 | SanDisk SDSSDH3512G 512GB                    | 1         | 2.22%   |
 | SanDisk SD7SN3Q256G1002 256GB SSD            | 1         | 2.22%   |
 | SanDisk SD6SB1M-256G-1006 256GB SSD          | 1         | 2.22%   |
@@ -986,8 +986,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 14        | 21     | 56%     |
+| 0.51-1.0   | 13        | 20     | 52%     |
 | 0.01-0.5   | 11        | 14     | 44%     |
+| 1.01-2.0   | 1         | 1      | 4%      |
 
 Space Total
 -----------
@@ -1142,7 +1143,7 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                              | 4         | 10.26%  |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 3         | 7.69%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                   | 3         | 7.69%   |
-| Micron Non-Volatile memory controller                                            | 2         | 5.13%   |
+| Micron NVMe Storage Controller                                                   | 2         | 5.13%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 2         | 5.13%   |
 | Union Memory (Shenzhen) Non-Volatile memory controller                           | 1         | 2.56%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                  | 1         | 2.56%   |
@@ -2057,7 +2058,7 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 2         | 8.7%    |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 2         | 8.7%    |
 | Unknown RAM Module 8GB SODIMM DDR4 2400MT/s                  | 1         | 4.35%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 4.35%   |
 | SK hynix RAM HMAA1GS6CMR8N-VK 8GB Row Of Chips DDR4 2667MT/s | 1         | 4.35%   |
@@ -2218,7 +2219,7 @@ Camera device models
 
 | Model                                                           | Notebooks | Percent |
 |-----------------------------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                                       | 5         | 16.13%  |
+| Chicony Integrated Camera                                       | 6         | 19.35%  |
 | Realtek Integrated_Webcam_HD                                    | 2         | 6.45%   |
 | Lite-On Integrated Camera                                       | 2         | 6.45%   |
 | IMC Networks VGA UVC WebCam                                     | 2         | 6.45%   |
@@ -2236,7 +2237,6 @@ Camera device models
 | Logitech BRIO Ultra HD Webcam                                   | 1         | 3.23%   |
 | Lite-On HP HD Camera                                            | 1         | 3.23%   |
 | Chicony TOSHIBA Web Camera - HD                                 | 1         | 3.23%   |
-| Chicony ThinkPad T490 Webcam                                    | 1         | 3.23%   |
 | Chicony Integrated IR Camera                                    | 1         | 3.23%   |
 | Cheng Uei Precision Industry (Foxlink) HP True Vision HD Camera | 1         | 3.23%   |
 | Acer SunplusIT Integrated Camera                                | 1         | 3.23%   |
@@ -2275,7 +2275,7 @@ Fingerprint sensor models
 | Synaptics Prometheus MIS Touch Fingerprint Reader                          | 2         | 13.33%  |
 | Validity Sensors VFS7500 Touch Fingerprint Sensor                          | 1         | 6.67%   |
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                     | 1         | 6.67%   |
-| Unknown                                                                    | 1         | 6.67%   |
+| Synaptics WBDI                                                             | 1         | 6.67%   |
 
 Chipcard Vendor
 ---------------
@@ -2317,8 +2317,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 19        | 48.72%  |
-| 0     | 15        | 38.46%  |
+| 1     | 20        | 51.28%  |
+| 0     | 14        | 35.9%   |
 | 2     | 4         | 10.26%  |
 | 3     | 1         | 2.56%   |
 
@@ -2332,11 +2332,11 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 15        | 53.57%  |
-| Chipcard           | 5         | 17.86%  |
-| Storage            | 2         | 7.14%   |
-| Net/wireless       | 2         | 7.14%   |
-| Graphics card      | 2         | 7.14%   |
-| Card reader        | 1         | 3.57%   |
-| Bluetooth          | 1         | 3.57%   |
+| Fingerprint reader | 15        | 51.72%  |
+| Chipcard           | 5         | 17.24%  |
+| Graphics card      | 3         | 10.34%  |
+| Storage            | 2         | 6.9%    |
+| Net/wireless       | 2         | 6.9%    |
+| Card reader        | 1         | 3.45%   |
+| Bluetooth          | 1         | 3.45%   |
 

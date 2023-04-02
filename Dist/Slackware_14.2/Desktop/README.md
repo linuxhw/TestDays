@@ -1137,7 +1137,7 @@ Storage controller models
 | SanDisk WD Blue SN550 NVMe SSD                                                   | 1        | 1.56%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1        | 1.56%   |
 | Samsung Apple PCIe SSD                                                           | 1        | 1.56%   |
-| Realtek Realtek Non-Volatile memory controller                                   | 1        | 1.56%   |
+| Realtek NVMe Controller                                                          | 1        | 1.56%   |
 | Nvidia MCP61 SATA Controller                                                     | 1        | 1.56%   |
 | Nvidia MCP61 IDE                                                                 | 1        | 1.56%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                     | 1        | 1.56%   |
@@ -1519,11 +1519,11 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Xiaomi Woieyeks-4K XMD009A 2880x1800 480x270mm 21.7-inch             | 1        | 3.03%   |
+| Xiaomi Mi TV XMD009A 2224x1668 341x192mm 15.4-inch                   | 1        | 3.03%   |
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 3.03%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 3.03%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 3.03%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 3.03%   |
+| Toshiba TV TSB0206 1920x1080                                         | 1        | 3.03%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 3.03%   |
 | Samsung Electronics B2430L SAM0644 1920x1080 521x293mm 23.5-inch     | 1        | 3.03%   |
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                  | 1        | 3.03%   |
@@ -1539,7 +1539,7 @@ Monitor models
 | Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch               | 1        | 3.03%   |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                | 1        | 3.03%   |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                | 1        | 3.03%   |
-| Gigabyte Technology G27Q GBT2709 2560x1440 598x336mm 27.0-inch       | 1        | 3.03%   |
+| Gigabyte Technology G27Q GBT2709 2560x1440 597x336mm 27.0-inch       | 1        | 3.03%   |
 | Eizo M1700 ENC1788 1280x1024 340x280mm 17.3-inch                     | 1        | 3.03%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 3.03%   |
 | Dell LCD Monitor U2312HM 1920x1080                                   | 1        | 3.03%   |
@@ -2037,7 +2037,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                 | 1        | 2.5%    |
 | Unknown RAM Module 1024MB DIMM 667MT/s                     | 1        | 2.5%    |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s          | 1        | 2.5%    |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s         | 1        | 2.5%    |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s        | 1        | 2.5%    |
 | Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 2.5%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.5%    |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s       | 1        | 2.5%    |
@@ -2050,7 +2050,7 @@ Memory module models
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s       | 1        | 2.5%    |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s       | 1        | 2.5%    |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.5%    |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s   | 1        | 2.5%    |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 99U5471-037.A00LF 8GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 2.5%    |
 | Kingston RAM 9965669-009.A00G 8GB DIMM DDR4 2133MT/s       | 1        | 2.5%    |

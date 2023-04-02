@@ -580,10 +580,10 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 9        | 13.43%  |
+| 2019 | 8        | 11.94%  |
+| 2017 | 8        | 11.94%  |
 | 2010 | 8        | 11.94%  |
 | 2020 | 7        | 10.45%  |
-| 2017 | 7        | 10.45%  |
 | 2018 | 6        | 8.96%   |
 | 2013 | 6        | 8.96%   |
 | 2012 | 6        | 8.96%   |
@@ -1224,7 +1224,7 @@ Storage controller models
 | Phison E16 PCIe4 NVMe Controller                                                        | 1        | 0.79%   |
 | Nvidia MCP78S [GeForce 8200] AHCI Controller                                            | 1        | 0.79%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                         | 1        | 0.79%   |
-| Micron Non-Volatile memory controller                                                   | 1        | 0.79%   |
+| Micron NVMe Storage Controller                                                          | 1        | 0.79%   |
 | Marvell Group 88SE91A3 SATA-600 Controller                                              | 1        | 0.79%   |
 
 Storage Kind
@@ -1650,7 +1650,7 @@ Monitor models
 | ViewSonic VA2446 SERIES VSC732E 1920x1080 521x293mm 23.5-inch          | 1        | 1.25%   |
 | ViewSonic VA2055 Series VSC3C31 1920x1080 435x239mm 19.5-inch          | 1        | 1.25%   |
 | TBD HDMI TBD3148 1600x900 344x193mm 15.5-inch                          | 1        | 1.25%   |
-| SKY SKYWORTH SKY0001 1920x1080 885x498mm 40.0-inch                     | 1        | 1.25%   |
+| SKY LCDTV SKY0001 1920x540 708x398mm 32.0-inch                         | 1        | 1.25%   |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 1.25%   |
 | Samsung Electronics U28H75x SAM0E00 3840x2160 607x345mm 27.5-inch      | 1        | 1.25%   |
 | Samsung Electronics U28H75x SAM0DFF 3840x2160 608x345mm 27.5-inch      | 1        | 1.25%   |
@@ -1680,11 +1680,11 @@ Monitor models
 | Hewlett-Packard E243m HPN3466 1920x1080 527x296mm 23.8-inch            | 1        | 1.25%   |
 | Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch             | 1        | 1.25%   |
 | Hewlett-Packard Compaq WF1907 HWP26A4 1440x900 408x255mm 18.9-inch     | 1        | 1.25%   |
-| Hewlett-Packard 27fh HPN354B 1920x1080 598x336mm 27.0-inch             | 1        | 1.25%   |
 | Hewlett-Packard 27f HPN354C 1920x1080 598x336mm 27.0-inch              | 1        | 1.25%   |
+| Hewlett-Packard 27f HPN354B 1920x1080 598x336mm 27.0-inch              | 1        | 1.25%   |
 | Hewlett-Packard 24x HPN3635 1920x1080 527x297mm 23.8-inch              | 1        | 1.25%   |
 | Hewlett-Packard 2159 HWP282C 1920x1080 479x269mm 21.6-inch             | 1        | 1.25%   |
-| Grundig TV GRU4448 1920x1080                                           | 1        | 1.25%   |
+| Grundig WUXGA GRU4448 1920x1080                                        | 1        | 1.25%   |
 
 Monitor Resolution
 ------------------
@@ -1911,7 +1911,7 @@ Controller models
 | Nvidia MCP77 Ethernet                                             | 1        | 0.91%   |
 | NetGear WNA3100(v1) Wireless-N 300 [Broadcom BCM43231]            | 1        | 0.91%   |
 | Mercucys 802.11n NIC                                              | 1        | 0.91%   |
-| MediaTek moto e(6) plus                                           | 1        | 0.91%   |
+| MediaTek U318AA                                                   | 1        | 0.91%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.91%   |
 | Intel Wireless-AC 9260                                            | 1        | 0.91%   |
 | Intel Wireless 7260                                               | 1        | 0.91%   |
@@ -2024,7 +2024,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.35%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.35%   |
 | Nvidia MCP77 Ethernet                                             | 1        | 1.35%   |
-| MediaTek moto e(6) plus                                           | 1        | 1.35%   |
+| MediaTek U318AA                                                   | 1        | 1.35%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.35%   |
 | Intel Ethernet Controller I225-V                                  | 1        | 1.35%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 1.35%   |
@@ -2131,7 +2131,7 @@ Controller models
 | Belkin Components Bluetooth Mini Dongle             | 1        | 3.7%    |
 | ASUS Bluetooth Radio                                | 1        | 3.7%    |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1        | 3.7%    |
-| Apple Bluetooth USB Host Controller                 | 1        | 3.7%    |
+| Apple Bluetooth Host Controller                     | 1        | 3.7%    |
 
 Sound
 -----
@@ -2201,7 +2201,7 @@ Sound card models
 | AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                            | 2        | 1.41%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                                  | 2        | 1.41%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2        | 1.41%   |
-| Thesycon Systemsoftware & Consulting D10 Balanced                                 | 1        | 0.7%    |
+| Thesycon Systemsoftware & Consulting DX3 Pro+                                     | 1        | 0.7%    |
 | Razer USA Kraken Tournament Edition                                               | 1        | 0.7%    |
 | Nvidia TU106 High Definition Audio Controller                                     | 1        | 0.7%    |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 0.7%    |
@@ -2249,12 +2249,12 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 5%      |
 | SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Samsung RAM Module 8192MB DIMM DDR4 2666MT/s             | 1        | 5%      |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s | 1        | 5%      |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s    | 1        | 5%      |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3266MT/s      | 1        | 5%      |
 | Neo Forza RAM NMUD380D81-1600D 8GB DIMM DDR3 1333MT/s    | 1        | 5%      |
 | Nanya RAM Module 4GB DIMM DDR3 1333MT/s                  | 1        | 5%      |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s      | 1        | 5%      |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s      | 1        | 5%      |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1600MT/s      | 1        | 5%      |
 | Kingston RAM 99U5471-052.A 8GB DIMM DDR3 1333MT/s        | 1        | 5%      |
 | Kingston RAM 99U5458-001.A00LF 2048MB DIMM DDR3 1600MT/s | 1        | 5%      |
 | Kingston RAM 99U5403-159.A01LF 8GB DIMM 800MT/s          | 1        | 5%      |
@@ -2408,13 +2408,13 @@ Camera device models
 |---------------------------------|----------|---------|
 | Logitech Webcam C270            | 2        | 10.53%  |
 | Z-Star Sirius USB2.0 Camera     | 1        | 5.26%   |
-| Sunplus FHD Camera Microphone   | 1        | 5.26%   |
+| Sunplus WEMISS CM-A1            | 1        | 5.26%   |
 | Sunplus Aukey-PC-LM1E Camera    | 1        | 5.26%   |
 | Microsoft Xbox NUI Camera       | 1        | 5.26%   |
 | Microsoft LifeCam HD-3000       | 1        | 5.26%   |
 | Microdia Webcam Vitade AF       | 1        | 5.26%   |
+| Microdia USB 2.0 Camera         | 1        | 5.26%   |
 | Microdia Integrated Camera      | 1        | 5.26%   |
-| Microdia CameraA                | 1        | 5.26%   |
 | Logitech Webcam C310            | 1        | 5.26%   |
 | Logitech HD Webcam C615         | 1        | 5.26%   |
 | Logitech HD Pro Webcam C920     | 1        | 5.26%   |
@@ -2423,7 +2423,7 @@ Camera device models
 | Logitech B525 HD Webcam         | 1        | 5.26%   |
 | Generalplus GENERAL WEBCAM      | 1        | 5.26%   |
 | Creative Live! Cam Sync 1080p   | 1        | 5.26%   |
-| Apple iPhone 5/5C/5S/6/SE       | 1        | 5.26%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X | 1        | 5.26%   |
 
 Security
 --------

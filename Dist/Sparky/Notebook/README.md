@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 43
+Total: 44
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Apple         | MacBook1,1                  | [002929e495](https://linux-hardware.org/?probe=002929e495) | Mar 26, 2023 |
 | MSI           | Alpha 15 A3DDK              | [c4ef9294ef](https://linux-hardware.org/?probe=c4ef9294ef) | Feb 23, 2023 |
 | MSI           | Alpha 15 A3DDK              | [219483f968](https://linux-hardware.org/?probe=219483f968) | Feb 23, 2023 |
 | Positivo      | CHT14B                      | [49eff89b98](https://linux-hardware.org/?probe=49eff89b98) | Feb 16, 2023 |
@@ -216,17 +217,17 @@ Installed operating systems
 
 | Name        | Notebooks | Percent |
 |-------------|-----------|---------|
-| Sparky 6    | 8         | 22.86%  |
-| Sparky 7    | 6         | 17.14%  |
-| Sparky 6.5  | 4         | 11.43%  |
-| Sparky 6.1  | 4         | 11.43%  |
-| Sparky 5.14 | 3         | 8.57%   |
-| Sparky 6.0  | 2         | 5.71%   |
-| Sparky 5.13 | 2         | 5.71%   |
-| Sparky 5.12 | 2         | 5.71%   |
-| Sparky 5.10 | 2         | 5.71%   |
-| Sparky 6.6  | 1         | 2.86%   |
-| Sparky 6.3  | 1         | 2.86%   |
+| Sparky 6    | 8         | 22.22%  |
+| Sparky 7    | 6         | 16.67%  |
+| Sparky 6.5  | 4         | 11.11%  |
+| Sparky 6.1  | 4         | 11.11%  |
+| Sparky 5.14 | 3         | 8.33%   |
+| Sparky 6.6  | 2         | 5.56%   |
+| Sparky 6.0  | 2         | 5.56%   |
+| Sparky 5.13 | 2         | 5.56%   |
+| Sparky 5.12 | 2         | 5.56%   |
+| Sparky 5.10 | 2         | 5.56%   |
+| Sparky 6.3  | 1         | 2.78%   |
 
 OS Family
 ---------
@@ -250,34 +251,35 @@ Version of the Linux kernel
 
 | Version             | Notebooks | Percent |
 |---------------------|-----------|---------|
-| 5.10.0-11-686       | 3         | 8.11%   |
-| 5.17.0-1-amd64      | 2         | 5.41%   |
-| 5.10.0-9-amd64      | 2         | 5.41%   |
-| 5.10.0-8-amd64      | 2         | 5.41%   |
-| 5.10.0-21-amd64     | 2         | 5.41%   |
-| 4.19.0-8-amd64      | 2         | 5.41%   |
-| 4.19.0-13-686       | 2         | 5.41%   |
-| 4.19.0-12-amd64     | 2         | 5.41%   |
-| 6.2.0-sparky-amd64  | 1         | 2.7%    |
-| 5.9.0-4-amd64       | 1         | 2.7%    |
-| 5.8.13-sparky-amd64 | 1         | 2.7%    |
-| 5.8.0-2-amd64       | 1         | 2.7%    |
-| 5.5.0-2-amd64       | 1         | 2.7%    |
-| 5.4.7-sparky-amd64  | 1         | 2.7%    |
-| 5.2.0-2-amd64       | 1         | 2.7%    |
-| 5.18.0-4-amd64      | 1         | 2.7%    |
-| 5.18.0-2-amd64      | 1         | 2.7%    |
-| 5.16.0-5-amd64      | 1         | 2.7%    |
-| 5.15.0-3-amd64      | 1         | 2.7%    |
-| 5.14.0-4-amd64      | 1         | 2.7%    |
-| 5.10.4-sparky-amd64 | 1         | 2.7%    |
-| 5.10.0-6-amd64      | 1         | 2.7%    |
-| 5.10.0-3-amd64      | 1         | 2.7%    |
-| 5.10.0-20-amd64     | 1         | 2.7%    |
-| 5.10.0-19-amd64     | 1         | 2.7%    |
-| 5.10.0-14-amd64     | 1         | 2.7%    |
-| 4.19.0-14-686       | 1         | 2.7%    |
-| 4.19.0-10-686       | 1         | 2.7%    |
+| 5.10.0-11-686       | 3         | 7.89%   |
+| 5.17.0-1-amd64      | 2         | 5.26%   |
+| 5.10.0-9-amd64      | 2         | 5.26%   |
+| 5.10.0-8-amd64      | 2         | 5.26%   |
+| 5.10.0-21-amd64     | 2         | 5.26%   |
+| 4.19.0-8-amd64      | 2         | 5.26%   |
+| 4.19.0-13-686       | 2         | 5.26%   |
+| 4.19.0-12-amd64     | 2         | 5.26%   |
+| 6.2.0-sparky-amd64  | 1         | 2.63%   |
+| 5.9.0-4-amd64       | 1         | 2.63%   |
+| 5.8.13-sparky-amd64 | 1         | 2.63%   |
+| 5.8.0-2-amd64       | 1         | 2.63%   |
+| 5.5.0-2-amd64       | 1         | 2.63%   |
+| 5.4.7-sparky-amd64  | 1         | 2.63%   |
+| 5.2.0-2-amd64       | 1         | 2.63%   |
+| 5.18.0-4-amd64      | 1         | 2.63%   |
+| 5.18.0-2-amd64      | 1         | 2.63%   |
+| 5.16.0-5-amd64      | 1         | 2.63%   |
+| 5.15.0-3-amd64      | 1         | 2.63%   |
+| 5.14.0-4-amd64      | 1         | 2.63%   |
+| 5.10.4-sparky-amd64 | 1         | 2.63%   |
+| 5.10.0-6-amd64      | 1         | 2.63%   |
+| 5.10.0-3-amd64      | 1         | 2.63%   |
+| 5.10.0-21-686       | 1         | 2.63%   |
+| 5.10.0-20-amd64     | 1         | 2.63%   |
+| 5.10.0-19-amd64     | 1         | 2.63%   |
+| 5.10.0-14-amd64     | 1         | 2.63%   |
+| 4.19.0-14-686       | 1         | 2.63%   |
+| 4.19.0-10-686       | 1         | 2.63%   |
 
 Kernel Family
 -------------
@@ -353,7 +355,7 @@ Desktop Environment
 | Name          | Notebooks | Percent |
 |---------------|-----------|---------|
 | XFCE          | 9         | 27.27%  |
-| LXQt          | 8         | 24.24%  |
+| lxqt          | 8         | 24.24%  |
 | Unknown       | 7         | 21.21%  |
 | KDE5          | 3         | 9.09%   |
 | openbox       | 2         | 6.06%   |
@@ -847,7 +849,7 @@ Hard drive vendors
 | WDC                 | 5         | 7      | 12.2%   |
 | Unknown             | 5         | 5      | 12.2%   |
 | Samsung Electronics | 5         | 5      | 12.2%   |
-| Hitachi             | 4         | 6      | 9.76%   |
+| Hitachi             | 4         | 7      | 9.76%   |
 | Intel               | 2         | 2      | 4.88%   |
 | GOODRAM             | 2         | 4      | 4.88%   |
 | SPCC                | 1         | 2      | 2.44%   |
@@ -890,7 +892,7 @@ Hard drive models
 | Seagate ST1000LM048-2E7172 1TB           | 1         | 2.33%   |
 | Seagate ST1000LM035-1RK172 1TB           | 1         | 2.33%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB       | 1         | 2.33%   |
-| Seagate Backup+ Desk 8TB                 | 1         | 2.33%   |
+| Seagate Backup+ Desk 5TB                 | 1         | 2.33%   |
 | Samsung SSD 840 Series 120GB             | 1         | 2.33%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 256GB   | 1         | 2.33%   |
 | Samsung MZVLB512HAJQ-00000 512GB         | 1         | 2.33%   |
@@ -909,7 +911,7 @@ Hard drive models
 | Fujitsu MHW2120BH 120GB                  | 1         | 2.33%   |
 | Crucial CT250MX500SSD1 250GB             | 1         | 2.33%   |
 | ASUS-JM S41 SSD 16GB                     | 1         | 2.33%   |
-| ASMedia ASMT1153e 1TB                    | 1         | 2.33%   |
+| ASMedia ASMT1153E 3TB                    | 1         | 2.33%   |
 | A-DATA SX8200NP 480GB                    | 1         | 2.33%   |
 
 HDD Vendor
@@ -924,7 +926,7 @@ Hard disk drive vendors
 |---------|-----------|--------|---------|
 | Seagate | 8         | 12     | 44.44%  |
 | WDC     | 4         | 6      | 22.22%  |
-| Hitachi | 4         | 6      | 22.22%  |
+| Hitachi | 4         | 7      | 22.22%  |
 | Fujitsu | 1         | 2      | 5.56%   |
 | ASMedia | 1         | 1      | 5.56%   |
 
@@ -958,7 +960,7 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 17        | 27     | 43.59%  |
+| HDD     | 17        | 28     | 43.59%  |
 | SSD     | 10        | 15     | 25.64%  |
 | NVMe    | 6         | 6      | 15.38%  |
 | MMC     | 5         | 5      | 12.82%  |
@@ -974,7 +976,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 23        | 37     | 62.16%  |
+| SATA | 23        | 38     | 62.16%  |
 | NVMe | 6         | 6      | 16.22%  |
 | MMC  | 5         | 5      | 13.51%  |
 | SAS  | 3         | 6      | 8.11%   |
@@ -989,9 +991,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 31     | 73.08%  |
-| 0.51-1.0   | 5         | 7      | 19.23%  |
-| 4.01-10.0  | 2         | 4      | 7.69%   |
+| 0.01-0.5   | 19        | 32     | 70.37%  |
+| 0.51-1.0   | 5         | 6      | 18.52%  |
+| 4.01-10.0  | 2         | 4      | 7.41%   |
+| 2.01-3.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1047,7 +1050,7 @@ Drive models with a malfunction
 | Seagate ST9500325AS 500GB                           | 1         | 1      | 16.67%  |
 | Micron Technology MTFDDAK256MAY-1AH12ABHA 256GB SSD | 1         | 1      | 16.67%  |
 | Intel SSDSC2CW060A3 64GB                            | 1         | 1      | 16.67%  |
-| ASMedia ASMT1153e 1TB                               | 1         | 1      | 16.67%  |
+| ASMedia ASMT1153E 3TB                               | 1         | 1      | 16.67%  |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1117,7 +1120,7 @@ Number of failed and malfunc. drives
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
 | Works    | 16        | 26     | 44.44%  |
-| Detected | 14        | 22     | 38.89%  |
+| Detected | 14        | 23     | 38.89%  |
 | Malfunc  | 6         | 6      | 16.67%  |
 
 Storage controller
@@ -1526,7 +1529,7 @@ Monitor models
 | LG Display LCD Monitor LGD01C5 1366x768 293x165mm 13.2-inch          | 1         | 3.13%   |
 | Lenovo LCD Monitor LEN4033 1440x900 303x190mm 14.1-inch              | 1         | 3.13%   |
 | Lenovo LCD Monitor LEN4022 1400x1050 286x214mm 14.1-inch             | 1         | 3.13%   |
-| Insignia NS24ED200NA14 BBY0032 1360x768 640x384mm 29.4-inch          | 1         | 3.13%   |
+| Insignia DX-32L100A13 BBY0032 1360x768 544x326mm 25.0-inch           | 1         | 3.13%   |
 | Hitachi HDMI HEC0088 1920x540                                        | 1         | 3.13%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch            | 1         | 3.13%   |
 | CPT LCD Monitor CPT04CE 1024x600 222x130mm 10.1-inch                 | 1         | 3.13%   |
@@ -1933,7 +1936,7 @@ Controller models
 | Taiyo Yuden Bluetooth Device (V2.0+EDR)             | 1         | 4.76%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 4.76%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 4.76%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 4.76%   |
+| Realtek Bluetooth Radio                             | 1         | 4.76%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 4.76%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4.76%   |
 | Intel AX201 Bluetooth                               | 1         | 4.76%   |
@@ -2222,7 +2225,7 @@ Camera device models
 | Chicony 2.0M UVC Webcam / CNF7129                           | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera         | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HD Camera            | 1         | 3.85%   |
-| Alcor Micro USB Camera                                      | 1         | 3.85%   |
+| Alcor Micro USB 2.0 Camera                                  | 1         | 3.85%   |
 | Acer Lenovo EasyCamera                                      | 1         | 3.85%   |
 | Acer HP Webcam                                              | 1         | 3.85%   |
 | Acer HD Webcam                                              | 1         | 3.85%   |
@@ -2300,8 +2303,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 19        | 59.38%  |
-| 1     | 10        | 31.25%  |
+| 0     | 18        | 56.25%  |
+| 1     | 11        | 34.38%  |
 | 2     | 3         | 9.38%   |
 
 Unsupported Device Types
@@ -2314,9 +2317,9 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 7         | 38.89%  |
-| Net/wireless          | 4         | 22.22%  |
-| Multimedia controller | 4         | 22.22%  |
-| Graphics card         | 2         | 11.11%  |
-| Chipcard              | 1         | 5.56%   |
+| Fingerprint reader    | 7         | 36.84%  |
+| Net/wireless          | 4         | 21.05%  |
+| Multimedia controller | 4         | 21.05%  |
+| Graphics card         | 3         | 15.79%  |
+| Chipcard              | 1         | 5.26%   |
 

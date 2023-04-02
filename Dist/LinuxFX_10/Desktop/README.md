@@ -769,7 +769,7 @@ Hard drive models
 | WDC WD5000AAKX-001CA0 500GB       | 2        | 3.23%   |
 | WDC WD10EZEX-08WN4A0 1TB          | 2        | 3.23%   |
 | ZOTAC ZTSSDPG3-480G-GE 480GB      | 1        | 1.61%   |
-| XPG GAMMIX S11 Pro 512GB          | 1        | 1.61%   |
+| XPG GAMMIX S11 Pro 256GB          | 1        | 1.61%   |
 | WDC WD60EZRX-00MVLB1 6TB          | 1        | 1.61%   |
 | WDC WD5000AACS-00G8B1 500GB       | 1        | 1.61%   |
 | WDC WD400JD-55MSA1 40GB           | 1        | 1.61%   |
@@ -783,7 +783,7 @@ Hard drive models
 | Toshiba MQ01ACF050 500GB          | 1        | 1.61%   |
 | Toshiba MQ01ABD050 500GB          | 1        | 1.61%   |
 | Toshiba DT01ACA050 500GB          | 1        | 1.61%   |
-| TO Exter nal USB 3.0 240GB        | 1        | 1.61%   |
+| TO Exter nal USB 3.0 1TB          | 1        | 1.61%   |
 | Seagate ST8000AS0002-1NA17Z 8TB   | 1        | 1.61%   |
 | Seagate ST500LX012-SSHD-8GB       | 1        | 1.61%   |
 | Seagate ST500DM002-1BD142 500GB   | 1        | 1.61%   |
@@ -887,8 +887,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 26       | 42     | 63.41%  |
-| 0.51-1.0   | 8        | 11     | 19.51%  |
+| 0.01-0.5   | 25       | 41     | 60.98%  |
+| 0.51-1.0   | 9        | 12     | 21.95%  |
 | 1.01-2.0   | 3        | 4      | 7.32%   |
 | 3.01-4.0   | 2        | 2      | 4.88%   |
 | 10.01-20.0 | 1        | 2      | 2.44%   |
@@ -1374,20 +1374,19 @@ Monitor vendors
 ![Monitor Vendor](./images/pie_chart/mon_vendor.svg)
 
 
-| Vendor               | Desktops | Percent |
-|----------------------|----------|---------|
-| Samsung Electronics  | 5        | 20.83%  |
-| Goldstar             | 5        | 20.83%  |
-| Acer                 | 4        | 16.67%  |
-| Philips              | 2        | 8.33%   |
-| ViewSonic            | 1        | 4.17%   |
-| Sceptre Tech         | 1        | 4.17%   |
-| Panasonic            | 1        | 4.17%   |
-| Iiyama               | 1        | 4.17%   |
-| Hewlett-Packard      | 1        | 4.17%   |
-| BenQ                 | 1        | 4.17%   |
-| AOC                  | 1        | 4.17%   |
-| Ancor Communications | 1        | 4.17%   |
+| Vendor              | Desktops | Percent |
+|---------------------|----------|---------|
+| Samsung Electronics | 5        | 21.74%  |
+| Goldstar            | 5        | 21.74%  |
+| Acer                | 4        | 17.39%  |
+| Philips             | 2        | 8.7%    |
+| ViewSonic           | 1        | 4.35%   |
+| Sceptre Tech        | 1        | 4.35%   |
+| Panasonic           | 1        | 4.35%   |
+| Iiyama              | 1        | 4.35%   |
+| Hewlett-Packard     | 1        | 4.35%   |
+| BenQ                | 1        | 4.35%   |
+| AOC                 | 1        | 4.35%   |
 
 Monitor Model
 -------------
@@ -1397,33 +1396,32 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                   | 2        | 7.69%   |
-| ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch             | 1        | 3.85%   |
-| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                 | 1        | 3.85%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch     | 1        | 3.85%   |
-| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch  | 1        | 3.85%   |
-| Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch    | 1        | 3.85%   |
-| Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch    | 1        | 3.85%   |
-| Samsung Electronics SAMTRON STN0006 1024x768 312x234mm 15.4-inch      | 1        | 3.85%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                    | 1        | 3.85%   |
-| Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                    | 1        | 3.85%   |
-| Panasonic TV MEIA296 3840x2160 1872x1053mm 84.6-inch                  | 1        | 3.85%   |
-| Iiyama PLX2481H IVM611D 1920x1080 521x293mm 23.5-inch                 | 1        | 3.85%   |
-| Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch          | 1        | 3.85%   |
-| Goldstar W2243 GSM56FF 1920x1080 477x268mm 21.5-inch                  | 1        | 3.85%   |
-| Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                   | 1        | 3.85%   |
-| Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                  | 1        | 3.85%   |
-| BenQ LCD Monitor GL951A 2880x900                                      | 1        | 3.85%   |
-| BenQ LCD Monitor GL951A                                               | 1        | 3.85%   |
-| BenQ GL951A BNQ7897 1440x900 408x255mm 18.9-inch                      | 1        | 3.85%   |
-| AOC 2790WG5 AOC2790 1920x1080 600x340mm 27.2-inch                     | 1        | 3.85%   |
-| Ancor Communications ASUS VC239 ACI23C4 1920x1080 509x286mm 23.0-inch | 1        | 3.85%   |
-| Acer V226WL ACR0339 1680x1050 474x296mm 22.0-inch                     | 1        | 3.85%   |
-| Acer P225HQ ACR00EA 1920x1080 477x268mm 21.5-inch                     | 1        | 3.85%   |
-| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                    | 1        | 3.85%   |
-| Acer G185HV ACR019F 1366x768 410x230mm 18.5-inch                      | 1        | 3.85%   |
+| Model                                                                | Desktops | Percent |
+|----------------------------------------------------------------------|----------|---------|
+| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                  | 2        | 8%      |
+| ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch            | 1        | 4%      |
+| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                | 1        | 4%      |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch    | 1        | 4%      |
+| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch | 1        | 4%      |
+| Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch   | 1        | 4%      |
+| Samsung Electronics SMBX2331 SAM076F 1920x1080 509x286mm 23.0-inch   | 1        | 4%      |
+| Samsung Electronics SAMTRON STN0006 1024x768 312x234mm 15.4-inch     | 1        | 4%      |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                   | 1        | 4%      |
+| Philips 170B PHL081D 1280x1024 338x270mm 17.0-inch                   | 1        | 4%      |
+| Panasonic TV MEIA296 3840x2160 698x392mm 31.5-inch                   | 1        | 4%      |
+| Iiyama PLX2481H IVM611D 1920x1080 521x293mm 23.5-inch                | 1        | 4%      |
+| Hewlett-Packard LE1851w HWP2840 1366x768 413x234mm 18.7-inch         | 1        | 4%      |
+| Goldstar W2243 GSM56FF 1920x1080 477x269mm 21.6-inch                 | 1        | 4%      |
+| Goldstar W1953 GSM4BA6 1360x768 406x229mm 18.4-inch                  | 1        | 4%      |
+| Goldstar E2441 GSM581F 1920x1080 531x299mm 24.0-inch                 | 1        | 4%      |
+| BenQ LCD Monitor GL951A 2880x900                                     | 1        | 4%      |
+| BenQ LCD Monitor GL951A                                              | 1        | 4%      |
+| BenQ GL951A BNQ7897 1440x900 408x255mm 18.9-inch                     | 1        | 4%      |
+| AOC 2790WG5 AOC2790 1920x1080 600x340mm 27.2-inch                    | 1        | 4%      |
+| Acer V226WL ACR0339 1680x1050 474x296mm 22.0-inch                    | 1        | 4%      |
+| Acer P225HQ ACR00EA 1920x1080 477x268mm 21.5-inch                    | 1        | 4%      |
+| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch                   | 1        | 4%      |
+| Acer G185HV ACR019F 1366x768 410x230mm 18.5-inch                     | 1        | 4%      |
 
 Monitor Resolution
 ------------------
@@ -1435,17 +1433,17 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 9        | 36%     |
-| 1600x900 (HD+)     | 3        | 12%     |
-| 1366x768 (WXGA)    | 3        | 12%     |
-| 3840x2160 (4K)     | 2        | 8%      |
-| 1280x1024 (SXGA)   | 2        | 8%      |
-| 2880x900           | 1        | 4%      |
-| 2560x1440 (QHD)    | 1        | 4%      |
-| 1680x1050 (WSXGA+) | 1        | 4%      |
-| 1440x900 (WXGA+)   | 1        | 4%      |
-| 1360x768           | 1        | 4%      |
-| Unknown            | 1        | 4%      |
+| 1920x1080 (FHD)    | 8        | 33.33%  |
+| 1600x900 (HD+)     | 3        | 12.5%   |
+| 1366x768 (WXGA)    | 3        | 12.5%   |
+| 3840x2160 (4K)     | 2        | 8.33%   |
+| 1280x1024 (SXGA)   | 2        | 8.33%   |
+| 2880x900           | 1        | 4.17%   |
+| 2560x1440 (QHD)    | 1        | 4.17%   |
+| 1680x1050 (WSXGA+) | 1        | 4.17%   |
+| 1440x900 (WXGA+)   | 1        | 4.17%   |
+| 1360x768           | 1        | 4.17%   |
+| Unknown            | 1        | 4.17%   |
 
 Monitor Diagonal
 ----------------
@@ -1457,19 +1455,19 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 23      | 4        | 16%     |
-| 18      | 4        | 16%     |
-| 21      | 3        | 12%     |
-| 31      | 2        | 8%      |
-| 27      | 2        | 8%      |
-| 20      | 2        | 8%      |
-| 19      | 2        | 8%      |
-| 84      | 1        | 4%      |
-| 24      | 1        | 4%      |
-| 22      | 1        | 4%      |
-| 17      | 1        | 4%      |
-| 15      | 1        | 4%      |
-| Unknown | 1        | 4%      |
+| 18      | 4        | 16.67%  |
+| 23      | 3        | 12.5%   |
+| 21      | 3        | 12.5%   |
+| 31      | 2        | 8.33%   |
+| 27      | 2        | 8.33%   |
+| 20      | 2        | 8.33%   |
+| 19      | 2        | 8.33%   |
+| 84      | 1        | 4.17%   |
+| 24      | 1        | 4.17%   |
+| 22      | 1        | 4.17%   |
+| 17      | 1        | 4.17%   |
+| 15      | 1        | 4.17%   |
+| Unknown | 1        | 4.17%   |
 
 Monitor Width
 -------------
@@ -1481,12 +1479,12 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 401-500     | 12       | 48%     |
-| 501-600     | 6        | 24%     |
-| 601-700     | 3        | 12%     |
-| 301-350     | 2        | 8%      |
-| 1501-2000   | 1        | 4%      |
-| Unknown     | 1        | 4%      |
+| 401-500     | 12       | 50%     |
+| 501-600     | 5        | 20.83%  |
+| 601-700     | 3        | 12.5%   |
+| 301-350     | 2        | 8.33%   |
+| 1501-2000   | 1        | 4.17%   |
+| Unknown     | 1        | 4.17%   |
 
 Aspect Ratio
 ------------
@@ -1498,11 +1496,11 @@ Proportional relationship between the width and the height
 
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
-| 16/9    | 19       | 79.17%  |
-| 16/10   | 2        | 8.33%   |
-| 5/4     | 1        | 4.17%   |
-| 4/3     | 1        | 4.17%   |
-| Unknown | 1        | 4.17%   |
+| 16/9    | 18       | 78.26%  |
+| 16/10   | 2        | 8.7%    |
+| 5/4     | 1        | 4.35%   |
+| 4/3     | 1        | 4.35%   |
+| Unknown | 1        | 4.35%   |
 
 Monitor Area
 ------------
@@ -1514,14 +1512,14 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 9        | 36%     |
-| 141-150        | 5        | 20%     |
-| 151-200        | 4        | 16%     |
-| 351-500        | 2        | 8%      |
-| 301-350        | 2        | 8%      |
-| More than 1000 | 1        | 4%      |
-| 111-120        | 1        | 4%      |
-| Unknown        | 1        | 4%      |
+| 201-250        | 8        | 33.33%  |
+| 141-150        | 5        | 20.83%  |
+| 151-200        | 4        | 16.67%  |
+| 351-500        | 2        | 8.33%   |
+| 301-350        | 2        | 8.33%   |
+| More than 1000 | 1        | 4.17%   |
+| 111-120        | 1        | 4.17%   |
+| Unknown        | 1        | 4.17%   |
 
 Pixel Density
 -------------
@@ -1533,10 +1531,10 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 18       | 72%     |
-| 101-120 | 5        | 20%     |
-| 121-160 | 1        | 4%      |
-| Unknown | 1        | 4%      |
+| 51-100  | 17       | 70.83%  |
+| 101-120 | 5        | 20.83%  |
+| 121-160 | 1        | 4.17%   |
+| Unknown | 1        | 4.17%   |
 
 Multiple Monitors
 -----------------
@@ -1590,12 +1588,12 @@ Controller models
 | Realtek 802.11ac NIC                                                                  | 2        | 4.76%   |
 | Nvidia MCP61 Ethernet                                                                 | 2        | 4.76%   |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1        | 2.38%   |
-| TP-Link 802.11ac NIC                                                                  | 1        | 2.38%   |
+| TP-Link Archer T4U ver.3                                                              | 1        | 2.38%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1        | 2.38%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1        | 2.38%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                 | 1        | 2.38%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1        | 2.38%   |
-| Qualcomm Redmi Note 7                                                                 | 1        | 2.38%   |
+| Qualcomm QM215-QRD _SN:E72764DE                                                       | 1        | 2.38%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                            | 1        | 2.38%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                             | 1        | 2.38%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                         | 1        | 2.38%   |
@@ -1637,7 +1635,7 @@ Wireless models
 |---------------------------------------------------------------------------------------|----------|---------|
 | Realtek 802.11ac NIC                                                                  | 2        | 14.29%  |
 | TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                   | 1        | 7.14%   |
-| TP-Link 802.11ac NIC                                                                  | 1        | 7.14%   |
+| TP-Link Archer T4U ver.3                                                              | 1        | 7.14%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                               | 1        | 7.14%   |
 | Realtek RTL8190 802.11n PCI Wireless Network Adapter                                  | 1        | 7.14%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                 | 1        | 7.14%   |
@@ -1679,7 +1677,7 @@ Ethernet models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 18       | 64.29%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 7.14%   |
 | Nvidia MCP61 Ethernet                                             | 2        | 7.14%   |
-| Qualcomm Redmi Note 7                                             | 1        | 3.57%   |
+| Qualcomm QM215-QRD _SN:E72764DE                                   | 1        | 3.57%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 3.57%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 3.57%   |
 | Intel 82579V Gigabit Network Connection                           | 1        | 3.57%   |

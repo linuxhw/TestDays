@@ -948,7 +948,7 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-256G-1002 256GB  | 1         | 0.91%   |
 | WDC PC SN530 SDBPNPZ-1T00-1002 1TB    | 1         | 0.91%   |
 | Unknown SE32G  32GB                   | 1         | 0.91%   |
-| Unknown SD/MMC/MS PRO 16GB            | 1         | 0.91%   |
+| Unknown SD/MMC/MS PRO 64GB            | 1         | 0.91%   |
 | Unknown SD  128GB                     | 1         | 0.91%   |
 | Unknown ISOCOM  64GB                  | 1         | 0.91%   |
 | Toshiba MQ01ACF050 500GB              | 1         | 0.91%   |
@@ -965,7 +965,7 @@ Hard drive models
 | Seagate ST320LM001 HN-M320MBB 320GB   | 1         | 0.91%   |
 | Seagate ST2000LM003 HN-M201RAD 2TB    | 1         | 0.91%   |
 | Seagate ST1000LM035-1RK172 1TB        | 1         | 0.91%   |
-| Seagate BUP Slim BK 1TB               | 1         | 0.91%   |
+| Seagate BUP Slim BK 2TB               | 1         | 0.91%   |
 | SanDisk SDSSDH3 2T00 2TB              | 1         | 0.91%   |
 | SanDisk NVMe SSD Drive 256GB          | 1         | 0.91%   |
 
@@ -1060,8 +1060,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 48     | 64.06%  |
-| 0.51-1.0   | 20        | 21     | 31.25%  |
+| 0.01-0.5   | 40        | 46     | 62.5%   |
+| 0.51-1.0   | 21        | 23     | 32.81%  |
 | 1.01-2.0   | 3         | 3      | 4.69%   |
 
 Space Total
@@ -1241,7 +1241,7 @@ Storage controller models
 | Intel Celeron/Pentium Silver Processor SATA Controller                                 | 3         | 2.7%    |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                         | 2         | 1.8%    |
 | Samsung NVMe SSD Controller 980                                                        | 2         | 1.8%    |
-| Micron Non-Volatile memory controller                                                  | 2         | 1.8%    |
+| Micron NVMe Storage Controller                                                         | 2         | 1.8%    |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                          | 2         | 1.8%    |
 | Intel Comet Lake SATA AHCI Controller                                                  | 2         | 1.8%    |
 | Intel 6 Series/C200 Series Chipset Family Mobile SATA Controller (IDE mode, ports 4-5) | 2         | 1.8%    |
@@ -1249,7 +1249,7 @@ Storage controller models
 | Yangtze Memory Non-Volatile memory controller                                          | 1         | 0.9%    |
 | SK hynix Gold P31/PC711 NVMe Solid State Drive                                         | 1         | 0.9%    |
 | SanDisk PC SN520 NVMe SSD                                                              | 1         | 0.9%    |
-| SanDisk Non-Volatile memory controller                                                 | 1         | 0.9%    |
+| SanDisk NVMe Controller                                                                | 1         | 0.9%    |
 | Samsung NVMe SSD Controller SM951/PM951                                                | 1         | 0.9%    |
 | Phison E12 NVMe Controller                                                             | 1         | 0.9%    |
 | Nvidia MCP89 SATA Controller (AHCI mode)                                               | 1         | 0.9%    |
@@ -1259,7 +1259,7 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                     | 1         | 0.9%    |
 | Intel SSD 660P Series                                                                  | 1         | 0.9%    |
 | Intel SSD 600P Series                                                                  | 1         | 0.9%    |
-| Intel Non-Volatile memory controller                                                   | 1         | 0.9%    |
+| Intel NVMe Controller                                                                  | 1         | 0.9%    |
 | Intel Mobile 4 Series Chipset PT IDER Controller                                       | 1         | 0.9%    |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                                  | 1         | 0.9%    |
 | Intel Comet Lake PCH-LP SATA RAID Premium Controller                                   | 1         | 0.9%    |
@@ -1278,9 +1278,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 46        | 46.46%  |
+| SATA | 45        | 45.45%  |
 | NVMe | 28        | 28.28%  |
-| RAID | 14        | 14.14%  |
+| RAID | 15        | 15.15%  |
 | IDE  | 11        | 11.11%  |
 
 Processor
@@ -1680,7 +1680,7 @@ Monitor models
 | LG Display LCD Monitor LGD0292 1366x768 309x174mm 14.0-inch            | 1         | 1.14%   |
 | LG Display LCD Monitor LGD0257 1440x900 304x190mm 14.1-inch            | 1         | 1.14%   |
 | LG Display LCD Monitor LGD01E9 1920x1080 345x194mm 15.6-inch           | 1         | 1.14%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch             | 1         | 1.14%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch             | 1         | 1.14%   |
 | Lenovo D27-30 LEN66B8 1920x1080 597x336mm 27.0-inch                    | 1         | 1.14%   |
 | Kogan KAMN27QF7TA KGN0270 2560x1440 698x393mm 31.5-inch                | 1         | 1.14%   |
 | InfoVision LCD Monitor IVO8C78 1920x1080 309x174mm 14.0-inch           | 1         | 1.14%   |
@@ -2043,7 +2043,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.39%   |
 | Nvidia MCP89 Ethernet                                             | 1         | 1.39%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 1.39%   |
-| MediaTek moto e(6) plus                                           | 1         | 1.39%   |
+| MediaTek U318AA                                                   | 1         | 1.39%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.39%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 1.39%   |
 | Intel Ethernet Connection (6) I219-V                              | 1         | 1.39%   |
@@ -2057,8 +2057,8 @@ Ethernet models
 | Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 1.39%   |
 | Broadcom BCM4401-B0 100Base-TX                                    | 1         | 1.39%   |
 | ASIX AX88772A Fast Ethernet                                       | 1         | 1.39%   |
-| Apple T2 Controller                                               | 1         | 1.39%   |
 | Apple iPad 4/Mini1                                                | 1         | 1.39%   |
+| Apple iBridge                                                     | 1         | 1.39%   |
 
 Net Controller Kind
 -------------------
@@ -2166,7 +2166,7 @@ Controller models
 | Toshiba Bluetooth USB Host Controller                                               | 1         | 1.43%   |
 | Toshiba BCM43142A0                                                                  | 1         | 1.43%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 1.43%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 1         | 1.43%   |
+| Realtek Bluetooth Radio                                                             | 1         | 1.43%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 1.43%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 1.43%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 1         | 1.43%   |
@@ -2326,7 +2326,7 @@ Memory module models
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.64%   |
 | Ramaxel RAM RMT3170EB68F9W1600 4GB SODIMM DDR3 1600MT/s          | 1         | 1.64%   |
 | Ramaxel RAM RMSA3270ME86H9F-2666 4GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
-| Micron RAM MTC8C1084S1SC48BA1 16GB SODIMM DDR5 4800MT/s          | 1         | 1.64%   |
+| Micron RAM MTC8C1084S1SC48BA1 16GB SODIMM 4800MT/s               | 1         | 1.64%   |
 | Micron RAM Module 16GB SODIMM DDR4 3200MT/s                      | 1         | 1.64%   |
 | Micron RAM 8JSF25664HZ-1G4D1 2GB SODIMM DDR3 1334MT/s            | 1         | 1.64%   |
 | Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 1.64%   |
@@ -2481,13 +2481,13 @@ Camera device vendors
 | Sunplus Innovation Technology          | 3         | 3.95%   |
 | Syntek                                 | 2         | 2.63%   |
 | Luxvisions Innotech Limited            | 2         | 2.63%   |
+| USB Camera                             | 1         | 1.32%   |
 | Suyin                                  | 1         | 1.32%   |
 | Silicon Motion                         | 1         | 1.32%   |
 | Ricoh                                  | 1         | 1.32%   |
 | Primax Electronics                     | 1         | 1.32%   |
 | Lite-On Technology                     | 1         | 1.32%   |
 | Importek                               | 1         | 1.32%   |
-| icSpring                               | 1         | 1.32%   |
 | Goertek Electronics                    | 1         | 1.32%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.32%   |
 | Alcor Micro                            | 1         | 1.32%   |
@@ -2514,13 +2514,14 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD                      | 2         | 2.63%   |
 | Chicony Integrated Camera [ThinkPad]                 | 2         | 2.63%   |
 | Chicony HD User Facing                               | 2         | 2.63%   |
-| Apple iPhone 5/5C/5S/6/SE                            | 2         | 2.63%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X                      | 2         | 2.63%   |
 | Apple Built-in iSight                                | 2         | 2.63%   |
 | Acer SunplusIT Integrated Camera                     | 2         | 2.63%   |
+| USB Camera USB Camera                                | 1         | 1.32%   |
 | Syntek Lenovo EasyCamera                             | 1         | 1.32%   |
 | Syntek Integrated Camera                             | 1         | 1.32%   |
 | Suyin Acer CrystalEye Webcam                         | 1         | 1.32%   |
-| Sunplus FHD Camera Microphone                        | 1         | 1.32%   |
+| Sunplus WEMISS CM-A1                                 | 1         | 1.32%   |
 | Silicon Motion WebCam SC-13HDL11939N                 | 1         | 1.32%   |
 | Ricoh HD Webcam                                      | 1         | 1.32%   |
 | Realtek Integrated_Webcam_HD                         | 1         | 1.32%   |
@@ -2541,7 +2542,6 @@ Camera device models
 | Luxvisions Innotech Limited HP HD Camera             | 1         | 1.32%   |
 | Lite-On HP HD Camera                                 | 1         | 1.32%   |
 | Importek TOSHIBA Web Camera - HD                     | 1         | 1.32%   |
-| IMC Networks USB Camera                              | 1         | 1.32%   |
 
 Security
 --------
@@ -2631,8 +2631,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 44        | 53.66%  |
-| 1     | 32        | 39.02%  |
+| 0     | 43        | 52.44%  |
+| 1     | 33        | 40.24%  |
 | 2     | 5         | 6.1%    |
 | 3     | 1         | 1.22%   |
 
@@ -2646,12 +2646,12 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 17        | 40.48%  |
-| Net/wireless          | 9         | 21.43%  |
-| Chipcard              | 6         | 14.29%  |
-| Graphics card         | 5         | 11.9%   |
-| Multimedia controller | 2         | 4.76%   |
-| Storage               | 1         | 2.38%   |
-| Network               | 1         | 2.38%   |
-| Bluetooth             | 1         | 2.38%   |
+| Fingerprint reader    | 17        | 39.53%  |
+| Net/wireless          | 9         | 20.93%  |
+| Graphics card         | 6         | 13.95%  |
+| Chipcard              | 6         | 13.95%  |
+| Multimedia controller | 2         | 4.65%   |
+| Storage               | 1         | 2.33%   |
+| Network               | 1         | 2.33%   |
+| Bluetooth             | 1         | 2.33%   |
 

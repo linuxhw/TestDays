@@ -1178,7 +1178,7 @@ Storage controller models
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 2%      |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 2%      |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1         | 2%      |
-| Micron Non-Volatile memory controller                                          | 1         | 2%      |
+| Micron NVMe Storage Controller                                                 | 1         | 2%      |
 | Intel Atom Processor E3800 Series SATA AHCI Controller                         | 1         | 2%      |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                  | 1         | 2%      |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                               | 1         | 2%      |
@@ -1544,7 +1544,7 @@ Monitor models
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 2%      |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 2%      |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 2%      |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch     | 1         | 2%      |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 2%      |
@@ -1554,7 +1554,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch     | 1         | 2%      |
 | Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch     | 1         | 2%      |
-| MSI MAG341CQ MSI1462 3440x1440 797x334mm 34.0-inch                       | 1         | 2%      |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                   | 1         | 2%      |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch             | 1         | 2%      |
 | LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch             | 1         | 2%      |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 2%      |
@@ -2099,7 +2099,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
@@ -2221,13 +2221,14 @@ Camera device vendors
 | Chicony Electronics           | 10        | 26.32%  |
 | Microdia                      | 6         | 15.79%  |
 | Suyin                         | 4         | 10.53%  |
-| Acer                          | 4         | 10.53%  |
 | Sunplus Innovation Technology | 3         | 7.89%   |
 | Realtek Semiconductor         | 3         | 7.89%   |
 | Quanta                        | 3         | 7.89%   |
 | IMC Networks                  | 3         | 7.89%   |
+| Acer                          | 3         | 7.89%   |
 | Silicon Motion                | 1         | 2.63%   |
 | Importek                      | 1         | 2.63%   |
+| Bison Electronics             | 1         | 2.63%   |
 
 Camera Model
 ------------
@@ -2271,7 +2272,7 @@ Camera device models
 | Chicony HP HD Camera                           | 1         | 2.63%   |
 | Chicony HD WebCam                              | 1         | 2.63%   |
 | Chicony EasyCamera                             | 1         | 2.63%   |
-| Acer Integrated Camera                         | 1         | 2.63%   |
+| Bison Integrated Camera                        | 1         | 2.63%   |
 | Acer HP TrueVision HD Webcam                   | 1         | 2.63%   |
 | Acer EasyCamera                                | 1         | 2.63%   |
 | Acer BisonCam, NB Pro                          | 1         | 2.63%   |
@@ -2348,8 +2349,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 30        | 68.18%  |
-| 1     | 13        | 29.55%  |
-| 2     | 1         | 2.27%   |
+| 1     | 12        | 27.27%  |
+| 2     | 2         | 4.55%   |
 
 Unsupported Device Types
 ------------------------
@@ -2361,8 +2362,8 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 5         | 38.46%  |
-| Fingerprint reader | 5         | 38.46%  |
-| Chipcard           | 2         | 15.38%  |
-| Net/ethernet       | 1         | 7.69%   |
+| Graphics card      | 6         | 42.86%  |
+| Fingerprint reader | 5         | 35.71%  |
+| Chipcard           | 2         | 14.29%  |
+| Net/ethernet       | 1         | 7.14%   |
 

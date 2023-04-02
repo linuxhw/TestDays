@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 29
+Total: 30
 
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
+| Fujitsu | STYLISTIC Q665              | [438b08fb3d](https://linux-hardware.org/?probe=438b08fb3d) | Mar 06, 2023 |
 | HUAWEI  | MateBook X                  | [cae415dee6](https://linux-hardware.org/?probe=cae415dee6) | Feb 20, 2023 |
 | HUAWEI  | MateBook X                  | [6fed527c1b](https://linux-hardware.org/?probe=6fed527c1b) | Feb 20, 2023 |
 | Fujitsu | STYLISTIC Q665              | [268703bd9e](https://linux-hardware.org/?probe=268703bd9e) | Feb 13, 2023 |
@@ -202,12 +203,13 @@ Installed operating systems
 
 | Name                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Makulu 2020              | 10        | 55.56%  |
-| Makulu Build: 2021.12.15 | 4         | 22.22%  |
-| Makulu Buildvar          | 1         | 5.56%   |
-| Makulu Build: 2022.01.06 | 1         | 5.56%   |
-| Makulu Bld-2022.12.04    | 1         | 5.56%   |
-| Makulu Bld-2022.11.03    | 1         | 5.56%   |
+| Makulu 2020              | 10        | 52.63%  |
+| Makulu Build: 2021.12.15 | 4         | 21.05%  |
+| Makulu Buildvar          | 1         | 5.26%   |
+| Makulu Build: 2022.01.06 | 1         | 5.26%   |
+| Makulu Bld-2022.12.04    | 1         | 5.26%   |
+| Makulu Bld-2022.11.03    | 1         | 5.26%   |
+| Makulu 68                | 1         | 5.26%   |
 
 OS Family
 ---------
@@ -231,19 +233,20 @@ Version of the Linux kernel
 
 | Version                | Notebooks | Percent |
 |------------------------|-----------|---------|
-| 5.11.0-41-generic      | 3         | 16.67%  |
-| 5.15.0-53-generic      | 2         | 11.11%  |
-| 5.11.0-43-generic      | 2         | 11.11%  |
-| 5.10.0-8-amd64         | 2         | 11.11%  |
-| 6.1.6-060106-generic   | 1         | 5.56%   |
-| 5.8.0-50-generic       | 1         | 5.56%   |
-| 5.8.0-49-generic       | 1         | 5.56%   |
-| 5.8.0-44-generic       | 1         | 5.56%   |
-| 5.8.0-38-generic       | 1         | 5.56%   |
-| 5.4.0-48-generic       | 1         | 5.56%   |
-| 5.4.0-42-generic       | 1         | 5.56%   |
-| 5.15.10-051510-generic | 1         | 5.56%   |
-| 5.11.0-36-generic      | 1         | 5.56%   |
+| 5.11.0-41-generic      | 3         | 15.79%  |
+| 5.15.0-53-generic      | 2         | 10.53%  |
+| 5.11.0-43-generic      | 2         | 10.53%  |
+| 5.10.0-8-amd64         | 2         | 10.53%  |
+| 6.1.6-060106-generic   | 1         | 5.26%   |
+| 6.1.11-060111-generic  | 1         | 5.26%   |
+| 5.8.0-50-generic       | 1         | 5.26%   |
+| 5.8.0-49-generic       | 1         | 5.26%   |
+| 5.8.0-44-generic       | 1         | 5.26%   |
+| 5.8.0-38-generic       | 1         | 5.26%   |
+| 5.4.0-48-generic       | 1         | 5.26%   |
+| 5.4.0-42-generic       | 1         | 5.26%   |
+| 5.15.10-051510-generic | 1         | 5.26%   |
+| 5.11.0-36-generic      | 1         | 5.26%   |
 
 Kernel Family
 -------------
@@ -255,13 +258,14 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.11.0  | 6         | 33.33%  |
-| 5.8.0   | 4         | 22.22%  |
-| 5.4.0   | 2         | 11.11%  |
-| 5.15.0  | 2         | 11.11%  |
-| 5.10.0  | 2         | 11.11%  |
-| 6.1.6   | 1         | 5.56%   |
-| 5.15.10 | 1         | 5.56%   |
+| 5.11.0  | 6         | 31.58%  |
+| 5.8.0   | 4         | 21.05%  |
+| 5.4.0   | 2         | 10.53%  |
+| 5.15.0  | 2         | 10.53%  |
+| 5.10.0  | 2         | 10.53%  |
+| 6.1.6   | 1         | 5.26%   |
+| 6.1.11  | 1         | 5.26%   |
+| 5.15.10 | 1         | 5.26%   |
 
 Kernel Major Ver.
 -----------------
@@ -573,10 +577,10 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 8         | 42.11%  |
-| 2.01-3.0 | 7         | 36.84%  |
-| 4.01-8.0 | 2         | 10.53%  |
-| 3.01-4.0 | 2         | 10.53%  |
+| 1.01-2.0 | 8         | 40%     |
+| 2.01-3.0 | 7         | 35%     |
+| 3.01-4.0 | 3         | 15%     |
+| 4.01-8.0 | 2         | 10%     |
 
 Total Drives
 ------------
@@ -602,8 +606,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 9         | 50%     |
-| No        | 9         | 50%     |
+| Yes       | 10        | 55.56%  |
+| No        | 8         | 44.44%  |
 
 Has Ethernet
 ------------
@@ -676,26 +680,27 @@ Geographic location (city)
 
 | City           | Notebooks | Percent |
 |----------------|-----------|---------|
-| Steinfeld      | 1         | 5%      |
-| Saint John     | 1         | 5%      |
-| Oschersleben   | 1         | 5%      |
-| Northborough   | 1         | 5%      |
-| New York       | 1         | 5%      |
-| Munich         | 1         | 5%      |
-| Millers Creek  | 1         | 5%      |
-| Melbourne      | 1         | 5%      |
-| Manchester     | 1         | 5%      |
-| Lodz           | 1         | 5%      |
-| Kampala        | 1         | 5%      |
-| Jamestown      | 1         | 5%      |
-| Imperia        | 1         | 5%      |
-| Hillegom       | 1         | 5%      |
-| Freisbach      | 1         | 5%      |
-| Etobicoke      | 1         | 5%      |
-| Dallas         | 1         | 5%      |
-| Brunswick West | 1         | 5%      |
-| Brugherio      | 1         | 5%      |
-| Ballygowan     | 1         | 5%      |
+| Steinfeld      | 1         | 4.76%   |
+| Saint John     | 1         | 4.76%   |
+| Oschersleben   | 1         | 4.76%   |
+| Northborough   | 1         | 4.76%   |
+| New York       | 1         | 4.76%   |
+| Munich         | 1         | 4.76%   |
+| Millers Creek  | 1         | 4.76%   |
+| Melbourne      | 1         | 4.76%   |
+| Manchester     | 1         | 4.76%   |
+| Lodz           | 1         | 4.76%   |
+| Kampala        | 1         | 4.76%   |
+| Jamestown      | 1         | 4.76%   |
+| Imperia        | 1         | 4.76%   |
+| Hillegom       | 1         | 4.76%   |
+| Freisbach      | 1         | 4.76%   |
+| Etobicoke      | 1         | 4.76%   |
+| Dover          | 1         | 4.76%   |
+| Dallas         | 1         | 4.76%   |
+| Brunswick West | 1         | 4.76%   |
+| Brugherio      | 1         | 4.76%   |
+| Ballygowan     | 1         | 4.76%   |
 
 Drives
 ------
@@ -711,7 +716,7 @@ Hard drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Seagate             | 4         | 5      | 17.39%  |
-| Samsung Electronics | 4         | 6      | 17.39%  |
+| Samsung Electronics | 4         | 7      | 17.39%  |
 | Toshiba             | 3         | 3      | 13.04%  |
 | SanDisk             | 3         | 3      | 13.04%  |
 | Unknown             | 1         | 1      | 4.35%   |
@@ -736,11 +741,11 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 8.33%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 8.33%   |
-| Unknown SD/MMC/MS PRO 16GB           | 1         | 4.17%   |
+| Unknown SD/MMC/MS PRO 64GB           | 1         | 4.17%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.17%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.17%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.17%   |
-| Seagate Expansion Desk 5TB           | 1         | 4.17%   |
+| Seagate Expansion Desk 8TB           | 1         | 4.17%   |
 | SanDisk SSD U110 128GB               | 1         | 4.17%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 4.17%   |
 | SanDisk NVMe SSD Drive 512GB         | 1         | 4.17%   |
@@ -785,7 +790,7 @@ Solid state drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | SanDisk             | 2         | 2      | 28.57%  |
-| Samsung Electronics | 2         | 3      | 28.57%  |
+| Samsung Electronics | 2         | 4      | 28.57%  |
 | Transcend           | 1         | 1      | 14.29%  |
 | LITEON              | 1         | 2      | 14.29%  |
 | Apple               | 1         | 1      | 14.29%  |
@@ -801,7 +806,7 @@ HDD or SSD
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
 | HDD     | 10        | 12     | 47.62%  |
-| SSD     | 6         | 9      | 28.57%  |
+| SSD     | 6         | 10     | 28.57%  |
 | NVMe    | 4         | 5      | 19.05%  |
 | Unknown | 1         | 1      | 4.76%   |
 
@@ -815,7 +820,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 15        | 19     | 71.43%  |
+| SATA | 15        | 20     | 71.43%  |
 | NVMe | 4         | 5      | 19.05%  |
 | SAS  | 2         | 3      | 9.52%   |
 
@@ -829,7 +834,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 11        | 16     | 68.75%  |
+| 0.01-0.5   | 11        | 17     | 68.75%  |
 | 0.51-1.0   | 4         | 4      | 25%     |
 | 4.01-10.0  | 1         | 1      | 6.25%   |
 
@@ -920,7 +925,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 18        | 27     | 100%    |
+| Detected | 18        | 28     | 100%    |
 
 Storage controller
 ------------------
@@ -1214,9 +1219,10 @@ Free vs proprietary
 ![GPU Driver](./images/pie_chart/gpu_driver.svg)
 
 
-| Driver | Notebooks | Percent |
-|--------|-----------|---------|
-| Free   | 18        | 100%    |
+| Driver  | Notebooks | Percent |
+|---------|-----------|---------|
+| Free    | 18        | 94.74%  |
+| Unknown | 1         | 5.26%   |
 
 GPU Memory
 ----------
@@ -1276,7 +1282,7 @@ Monitor models
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 5.56%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 5.56%   |
 | Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 5.56%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 5.56%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 5.56%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 5.56%   |
@@ -1388,7 +1394,8 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 18        | 100%    |
+| 1     | 18        | 94.74%  |
+| 0     | 1         | 5.26%   |
 
 Network
 -------
@@ -1586,8 +1593,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 12        | 66.67%  |
-| Yes  | 6         | 33.33%  |
+| No   | 13        | 68.42%  |
+| Yes  | 6         | 31.58%  |
 
 Bluetooth
 ---------
@@ -1792,7 +1799,7 @@ Camera device models
 | Suyin UVC HD Webcam                                     | 1         | 6.25%   |
 | Suyin Laptop_Integrated_Webcam_HD                       | 1         | 6.25%   |
 | Suyin HP Truevision HD                                  | 1         | 6.25%   |
-| Realtek Integrated Webcam HD                            | 1         | 6.25%   |
+| Realtek Integrated_Webcam_HD                            | 1         | 6.25%   |
 | Realtek FJ Camera                                       | 1         | 6.25%   |
 | Microdia Laptop_Integrated_Webcam_HD                    | 1         | 6.25%   |
 | Microdia Dell Laptop Integrated Webcam HD               | 1         | 6.25%   |
@@ -1867,9 +1874,10 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 15        | 83.33%  |
-| 1     | 2         | 11.11%  |
-| 2     | 1         | 5.56%   |
+| 0     | 15        | 78.95%  |
+| 1     | 2         | 10.53%  |
+| 3     | 1         | 5.26%   |
+| 2     | 1         | 5.26%   |
 
 Unsupported Device Types
 ------------------------
@@ -1881,7 +1889,8 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 2         | 50%     |
-| Multimedia controller | 1         | 25%     |
-| Chipcard              | 1         | 25%     |
+| Fingerprint reader    | 2         | 40%     |
+| Multimedia controller | 1         | 20%     |
+| Graphics card         | 1         | 20%     |
+| Chipcard              | 1         | 20%     |
 

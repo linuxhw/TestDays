@@ -962,7 +962,7 @@ Hard drive models
 | Seagate ST1000LM035-1RK172 1TB             | 1        | 1.11%   |
 | Seagate ST1000DM003-9YN162 1TB             | 1        | 1.11%   |
 | Seagate ST1000DM003-1CH162 1TB             | 1        | 1.11%   |
-| Seagate M3 Portable 4TB                    | 1        | 1.11%   |
+| Seagate M3 Portable 2TB                    | 1        | 1.11%   |
 | Seagate FireCuda 520 SSD ZP2000GM30002 2TB | 1        | 1.11%   |
 
 HDD Vendor
@@ -1047,13 +1047,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 25       | 46     | 48.08%  |
-| 0.51-1.0   | 15       | 24     | 28.85%  |
-| 3.01-4.0   | 4        | 4      | 7.69%   |
-| 1.01-2.0   | 4        | 7      | 7.69%   |
-| 2.01-3.0   | 2        | 3      | 3.85%   |
-| 10.01-20.0 | 1        | 1      | 1.92%   |
-| 4.01-10.0  | 1        | 1      | 1.92%   |
+| 0.01-0.5   | 25       | 46     | 47.17%  |
+| 0.51-1.0   | 15       | 24     | 28.3%   |
+| 1.01-2.0   | 5        | 7      | 9.43%   |
+| 3.01-4.0   | 4        | 4      | 7.55%   |
+| 2.01-3.0   | 2        | 3      | 3.77%   |
+| 10.01-20.0 | 1        | 1      | 1.89%   |
+| 4.01-10.0  | 1        | 1      | 1.89%   |
 
 Space Total
 -----------
@@ -1585,21 +1585,21 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Samsung Electronics  | 9        | 20.93%  |
-| Dell                 | 6        | 13.95%  |
-| Iiyama               | 4        | 9.3%    |
-| Goldstar             | 4        | 9.3%    |
-| Philips              | 3        | 6.98%   |
-| Hewlett-Packard      | 3        | 6.98%   |
-| BenQ                 | 3        | 6.98%   |
-| Medion               | 2        | 4.65%   |
-| AOC                  | 2        | 4.65%   |
-| Ancor Communications | 2        | 4.65%   |
-| PAR                  | 1        | 2.33%   |
-| MSI                  | 1        | 2.33%   |
-| Fujitsu Siemens      | 1        | 2.33%   |
-| Belinea              | 1        | 2.33%   |
-| Acer                 | 1        | 2.33%   |
+| Samsung Electronics  | 8        | 19.05%  |
+| Dell                 | 6        | 14.29%  |
+| Iiyama               | 4        | 9.52%   |
+| Goldstar             | 4        | 9.52%   |
+| Philips              | 3        | 7.14%   |
+| Hewlett-Packard      | 3        | 7.14%   |
+| BenQ                 | 3        | 7.14%   |
+| Medion               | 2        | 4.76%   |
+| AOC                  | 2        | 4.76%   |
+| Ancor Communications | 2        | 4.76%   |
+| PAR                  | 1        | 2.38%   |
+| MSI                  | 1        | 2.38%   |
+| Fujitsu Siemens      | 1        | 2.38%   |
+| Belinea              | 1        | 2.38%   |
+| Acer                 | 1        | 2.38%   |
 
 Monitor Model
 -------------
@@ -1611,46 +1611,46 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch  | 1        | 2.33%   |
-| Samsung Electronics SyncMaster SAM04DF 1360x768 410x230mm 18.5-inch   | 1        | 2.33%   |
-| Samsung Electronics SMT27A950 SAM080F 1920x1080 598x336mm 27.0-inch   | 1        | 2.33%   |
-| Samsung Electronics SM2333T SAM0737 1920x1080 510x290mm 23.1-inch     | 1        | 2.33%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 2.33%   |
-| Samsung Electronics LCD Monitor U28E590 3840x2160                     | 1        | 2.33%   |
-| Samsung Electronics LCD Monitor SAM0B60 1920x1080 887x500mm 40.1-inch | 1        | 2.33%   |
-| Samsung Electronics LCD Monitor SAM07C0 1920x1080 890x500mm 40.2-inch | 1        | 2.33%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.33%   |
-| Philips PHL BDM3270 PHL08E7 2560x1440 708x398mm 32.0-inch             | 1        | 2.33%   |
-| Philips PHL 275C5 PHLC0E4 1920x1080 598x336mm 27.0-inch               | 1        | 2.33%   |
-| Philips PHL 246V5 PHLC0C5 1920x1080 531x299mm 24.0-inch               | 1        | 2.33%   |
-| PAR LED1920X1080 PAR9C63 1920x1080 710x400mm 32.1-inch                | 1        | 2.33%   |
-| MSI MPG27CQ MSI3FA3 2560x1440 600x340mm 27.2-inch                     | 1        | 2.33%   |
-| Medion Medion23.6 PC MEDB603 1920x1080 477x268mm 21.5-inch            | 1        | 2.33%   |
-| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                 | 1        | 2.33%   |
-| Iiyama X2485 IVM610F 1920x1200 518x324mm 24.1-inch                    | 1        | 2.33%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1        | 2.33%   |
-| Iiyama PL2796HS IVM6669 1920x1080 598x336mm 27.0-inch                 | 1        | 2.33%   |
-| Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                  | 1        | 2.33%   |
-| Hewlett-Packard S2331 HWP2907 1920x1080 509x286mm 23.0-inch           | 1        | 2.33%   |
-| Hewlett-Packard L1950 HWP26E8 1280x1024 380x300mm 19.1-inch           | 1        | 2.33%   |
-| Hewlett-Packard 24y HPN3506 1920x1080 528x297mm 23.9-inch             | 1        | 2.33%   |
-| Goldstar TV SSCR2 GSMC0C8 3840x2160                                   | 1        | 2.33%   |
-| Goldstar TV GSMC0A0 3840x2160                                         | 1        | 2.33%   |
-| Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                  | 1        | 2.33%   |
-| Goldstar 24EA53 GSM59AC 1920x1080 510x290mm 23.1-inch                 | 1        | 2.33%   |
-| Fujitsu Siemens B23T-6 LED FUS07FB 1920x1080 509x286mm 23.0-inch      | 1        | 2.33%   |
-| Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                     | 1        | 2.33%   |
-| Dell U2415 DELA0B8 1920x1080 518x324mm 24.1-inch                      | 1        | 2.33%   |
-| Dell U2211H DEL405E 1920x1080 480x270mm 21.7-inch                     | 1        | 2.33%   |
-| Dell S3220DGF DELD0F4 2560x1440 697x392mm 31.5-inch                   | 1        | 2.33%   |
-| Dell P2417H DELA0DC 1920x1080 527x296mm 23.8-inch                     | 1        | 2.33%   |
-| Dell LCD Monitor P2715Q 3840x2160                                     | 1        | 2.33%   |
-| BenQ PJ BNQ0203 1920x1080                                             | 1        | 2.33%   |
-| BenQ GL2780 BNQ78EC 1920x1080 598x336mm 27.0-inch                     | 1        | 2.33%   |
-| BenQ GL2250H BNQ78A0 1920x1080 477x268mm 21.5-inch                    | 1        | 2.33%   |
-| Belinea Belinea101540 MAX0604 1024x768 307x230mm 15.1-inch            | 1        | 2.33%   |
-| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 2.33%   |
-| AOC 2460G5 AOC0001 1920x1080 531x299mm 24.0-inch                      | 1        | 2.33%   |
+| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch  | 1        | 2.38%   |
+| Samsung Electronics SyncMaster SAM04DF 1360x768 410x230mm 18.5-inch   | 1        | 2.38%   |
+| Samsung Electronics SMT27A950 SAM080F 1920x1080 598x336mm 27.0-inch   | 1        | 2.38%   |
+| Samsung Electronics SM2333T SAM0737 1920x1080 510x290mm 23.1-inch     | 1        | 2.38%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 2.38%   |
+| Samsung Electronics LCD Monitor U28E590 3840x2160                     | 1        | 2.38%   |
+| Samsung Electronics LCD Monitor SAM07C0 1920x1080 890x500mm 40.2-inch | 1        | 2.38%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.38%   |
+| Philips PHL BDM3270 PHL08E7 2560x1440 708x398mm 32.0-inch             | 1        | 2.38%   |
+| Philips PHL 275C5 PHLC0E4 1920x1080 598x336mm 27.0-inch               | 1        | 2.38%   |
+| Philips PHL 246V5 PHLC0C5 1920x1080 531x299mm 24.0-inch               | 1        | 2.38%   |
+| PAR LED1920X1080 PAR9C63 1920x1080 710x400mm 32.1-inch                | 1        | 2.38%   |
+| MSI MPG27CQ MSI3FA3 2560x1440 600x340mm 27.2-inch                     | 1        | 2.38%   |
+| Medion Medion23.6 PC MEDB603 1920x1080 477x268mm 21.5-inch            | 1        | 2.38%   |
+| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                 | 1        | 2.38%   |
+| Iiyama X2485 IVM610F 1920x1200 518x324mm 24.1-inch                    | 1        | 2.38%   |
+| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1        | 2.38%   |
+| Iiyama PL2796HS IVM6669 1920x1080 598x336mm 27.0-inch                 | 1        | 2.38%   |
+| Iiyama PL2773H IVM660A 1920x1080 598x336mm 27.0-inch                  | 1        | 2.38%   |
+| Hewlett-Packard S2331 HWP2907 1920x1080 509x286mm 23.0-inch           | 1        | 2.38%   |
+| Hewlett-Packard L1950 HWP26E8 1280x1024 380x300mm 19.1-inch           | 1        | 2.38%   |
+| Hewlett-Packard 24y HPN3506 1920x1080 528x297mm 23.9-inch             | 1        | 2.38%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                   | 1        | 2.38%   |
+| Goldstar TV GSMC0A0 3840x2160                                         | 1        | 2.38%   |
+| Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                  | 1        | 2.38%   |
+| Goldstar 24EA53 GSM59AC 1920x1080 510x290mm 23.1-inch                 | 1        | 2.38%   |
+| Fujitsu Siemens B23T-6 LED FUS07FB 1920x1080 509x286mm 23.0-inch      | 1        | 2.38%   |
+| Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                     | 1        | 2.38%   |
+| Dell U2415 DELA0B8 1920x1080 518x324mm 24.1-inch                      | 1        | 2.38%   |
+| Dell U2211H DEL405E 1920x1080 480x270mm 21.7-inch                     | 1        | 2.38%   |
+| Dell S3220DGF DELD0F4 2560x1440 697x392mm 31.5-inch                   | 1        | 2.38%   |
+| Dell P2417H DELA0DC 1920x1080 527x296mm 23.8-inch                     | 1        | 2.38%   |
+| Dell LCD Monitor P2715Q 3840x2160                                     | 1        | 2.38%   |
+| BenQ PJ BNQ0203 1920x1080                                             | 1        | 2.38%   |
+| BenQ GL2780 BNQ78EC 1920x1080 598x336mm 27.0-inch                     | 1        | 2.38%   |
+| BenQ GL2250H BNQ78A0 1920x1080 477x268mm 21.5-inch                    | 1        | 2.38%   |
+| Belinea Belinea101540 MAX0604 1024x768 307x230mm 15.1-inch            | 1        | 2.38%   |
+| AOC G2460 AOC0001 1920x1080 531x299mm 24.0-inch                       | 1        | 2.38%   |
+| AOC 27B2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 2.38%   |
+| Ancor Communications VC279 ACI27C4 1920x1080 598x336mm 27.0-inch      | 1        | 2.38%   |
 
 Monitor Resolution
 ------------------
@@ -1683,21 +1683,20 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 27      | 10       | 23.81%  |
-| 24      | 7        | 16.67%  |
-| 23      | 6        | 14.29%  |
-| Unknown | 4        | 9.52%   |
-| 21      | 3        | 7.14%   |
-| 72      | 2        | 4.76%   |
-| 32      | 2        | 4.76%   |
-| 54      | 1        | 2.38%   |
-| 46      | 1        | 2.38%   |
-| 31      | 1        | 2.38%   |
-| 25      | 1        | 2.38%   |
-| 22      | 1        | 2.38%   |
-| 19      | 1        | 2.38%   |
-| 18      | 1        | 2.38%   |
-| 15      | 1        | 2.38%   |
+| 27      | 10       | 24.39%  |
+| 24      | 7        | 17.07%  |
+| 23      | 6        | 14.63%  |
+| Unknown | 4        | 9.76%   |
+| 21      | 3        | 7.32%   |
+| 72      | 2        | 4.88%   |
+| 32      | 2        | 4.88%   |
+| 46      | 1        | 2.44%   |
+| 31      | 1        | 2.44%   |
+| 25      | 1        | 2.44%   |
+| 22      | 1        | 2.44%   |
+| 19      | 1        | 2.44%   |
+| 18      | 1        | 2.44%   |
+| 15      | 1        | 2.44%   |
 
 Monitor Width
 -------------
@@ -1709,15 +1708,15 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 21       | 52.5%   |
-| 401-500     | 5        | 12.5%   |
-| Unknown     | 4        | 10%     |
-| 701-800     | 2        | 5%      |
-| 601-700     | 2        | 5%      |
-| 1501-2000   | 2        | 5%      |
-| 1001-1500   | 2        | 5%      |
-| 351-400     | 1        | 2.5%    |
-| 301-350     | 1        | 2.5%    |
+| 501-600     | 21       | 53.85%  |
+| 401-500     | 5        | 12.82%  |
+| Unknown     | 4        | 10.26%  |
+| 701-800     | 2        | 5.13%   |
+| 601-700     | 2        | 5.13%   |
+| 1501-2000   | 2        | 5.13%   |
+| 351-400     | 1        | 2.56%   |
+| 301-350     | 1        | 2.56%   |
+| 1001-1500   | 1        | 2.56%   |
 
 Aspect Ratio
 ------------
@@ -1745,16 +1744,16 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 15       | 35.71%  |
-| 301-350        | 10       | 23.81%  |
-| Unknown        | 4        | 9.52%   |
-| More than 1000 | 3        | 7.14%   |
-| 351-500        | 3        | 7.14%   |
-| 251-300        | 3        | 7.14%   |
-| 151-200        | 1        | 2.38%   |
-| 141-150        | 1        | 2.38%   |
-| 101-110        | 1        | 2.38%   |
-| 501-1000       | 1        | 2.38%   |
+| 201-250        | 15       | 36.59%  |
+| 301-350        | 10       | 24.39%  |
+| Unknown        | 4        | 9.76%   |
+| 351-500        | 3        | 7.32%   |
+| 251-300        | 3        | 7.32%   |
+| More than 1000 | 2        | 4.88%   |
+| 151-200        | 1        | 2.44%   |
+| 141-150        | 1        | 2.44%   |
+| 101-110        | 1        | 2.44%   |
+| 501-1000       | 1        | 2.44%   |
 
 Pixel Density
 -------------
@@ -1766,10 +1765,10 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 28       | 71.79%  |
-| 101-120 | 5        | 12.82%  |
-| Unknown | 4        | 10.26%  |
-| 1-50    | 2        | 5.13%   |
+| 51-100  | 28       | 73.68%  |
+| 101-120 | 5        | 13.16%  |
+| Unknown | 4        | 10.53%  |
+| 1-50    | 1        | 2.63%   |
 
 Multiple Monitors
 -----------------
@@ -2143,7 +2142,7 @@ Memory module models
 | Kingston RAM 9905734-082.A00G 16GB DIMM DDR4 3200MT/s         | 1        | 4.17%   |
 | Kingston RAM 9905625-074.A00G 16384MB DIMM DDR4 2400MT/s      | 1        | 4.17%   |
 | G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s          | 1        | 4.17%   |
-| G.Skill RAM F4-3200C16-16GIS 16384MB DIMM DDR4 3600MT/s       | 1        | 4.17%   |
+| G.Skill RAM F4-3200C16-16GIS 16GB DIMM DDR4 3600MT/s          | 1        | 4.17%   |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s           | 1        | 4.17%   |
 | Dane-Elec RAM Module 1GB DIMM DDR2 667MT/s                    | 1        | 4.17%   |
 | Crucial RAM CT8G4DFS8266.C8FE 8GB DIMM DDR4 2667MT/s          | 1        | 4.17%   |
@@ -2283,8 +2282,8 @@ Camera device vendors
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
 | Logitech            | 4        | 57.14%  |
+| YGTek               | 1        | 14.29%  |
 | Huawei Technologies | 1        | 14.29%  |
-| HD WEBCAM           | 1        | 14.29%  |
 | Alcor Micro         | 1        | 14.29%  |
 
 Camera Model
@@ -2298,10 +2297,10 @@ Camera device models
 | Model                         | Desktops | Percent |
 |-------------------------------|----------|---------|
 | Logitech B525 HD Webcam       | 2        | 28.57%  |
+| YGTek Webcam                  | 1        | 14.29%  |
 | Logitech Webcam C270          | 1        | 14.29%  |
 | Logitech HD Webcam C910       | 1        | 14.29%  |
-| Huawei HD Webcam              | 1        | 14.29%  |
-| HD WEBCAM Web Camera          | 1        | 14.29%  |
+| Huawei UVC Camera             | 1        | 14.29%  |
 | Alcor Micro USB 2.0 PC Camera | 1        | 14.29%  |
 
 Security

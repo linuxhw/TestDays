@@ -697,8 +697,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 23        | 56.1%   |
-| Yes       | 18        | 43.9%   |
+| No        | 24        | 58.54%  |
+| Yes       | 17        | 41.46%  |
 
 Has Ethernet
 ------------
@@ -915,14 +915,13 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 9         | 10     | 34.62%  |
-| WDC                 | 8         | 8      | 30.77%  |
-| HGST                | 3         | 3      | 11.54%  |
-| Toshiba             | 2         | 2      | 7.69%   |
-| Samsung Electronics | 1         | 1      | 3.85%   |
-| MARSHAL             | 1         | 1      | 3.85%   |
-| JMicron Technology  | 1         | 1      | 3.85%   |
-| Hitachi             | 1         | 1      | 3.85%   |
+| Seagate             | 9         | 10     | 36%     |
+| WDC                 | 8         | 8      | 32%     |
+| HGST                | 3         | 3      | 12%     |
+| Toshiba             | 2         | 2      | 8%      |
+| Samsung Electronics | 1         | 1      | 4%      |
+| MARSHAL             | 1         | 1      | 4%      |
+| Hitachi             | 1         | 1      | 4%      |
 
 SSD Vendor
 ----------
@@ -934,19 +933,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 7         | 7      | 26.92%  |
-| WDC                 | 3         | 3      | 11.54%  |
-| SanDisk             | 3         | 3      | 11.54%  |
-| Kingston            | 3         | 3      | 11.54%  |
-| A-DATA Technology   | 2         | 2      | 7.69%   |
-| TCSUNBOW            | 1         | 1      | 3.85%   |
-| LITEONIT            | 1         | 1      | 3.85%   |
-| LITEON              | 1         | 1      | 3.85%   |
-| Intel               | 1         | 1      | 3.85%   |
-| Crucial             | 1         | 1      | 3.85%   |
-| China               | 1         | 1      | 3.85%   |
-| ASMedia             | 1         | 1      | 3.85%   |
-| Unknown             | 1         | 1      | 3.85%   |
+| Samsung Electronics | 7         | 7      | 25.93%  |
+| WDC                 | 3         | 3      | 11.11%  |
+| SanDisk             | 3         | 3      | 11.11%  |
+| Kingston            | 3         | 3      | 11.11%  |
+| A-DATA Technology   | 2         | 2      | 7.41%   |
+| TCSUNBOW            | 1         | 1      | 3.7%    |
+| LITEONIT            | 1         | 1      | 3.7%    |
+| LITEON              | 1         | 1      | 3.7%    |
+| JMicron Technology  | 1         | 1      | 3.7%    |
+| Intel               | 1         | 1      | 3.7%    |
+| Crucial             | 1         | 1      | 3.7%    |
+| China               | 1         | 1      | 3.7%    |
+| ASMedia             | 1         | 1      | 3.7%    |
+| Unknown             | 1         | 1      | 3.7%    |
 
 Drive Kind
 ----------
@@ -958,9 +958,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 22        | 27     | 41.51%  |
-| SSD  | 21        | 26     | 39.62%  |
-| NVMe | 10        | 13     | 18.87%  |
+| SSD  | 22        | 27     | 40.74%  |
+| HDD  | 22        | 26     | 40.74%  |
+| NVMe | 10        | 13     | 18.52%  |
 
 Drive Connector
 ---------------
@@ -1186,10 +1186,10 @@ Storage controller models
 | Nvidia MCP79 AHCI Controller                                                   | 1         | 1.89%   |
 | Nvidia MCP61 SATA Controller                                                   | 1         | 1.89%   |
 | Nvidia MCP61 IDE                                                               | 1         | 1.89%   |
-| Micron Non-Volatile memory controller                                          | 1         | 1.89%   |
+| Micron NVMe Storage Controller                                                 | 1         | 1.89%   |
 | MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                   | 1         | 1.89%   |
 | KIOXIA NVMe SSD Controller BG4                                                 | 1         | 1.89%   |
-| Kingston Company Company Non-Volatile memory controller                        | 1         | 1.89%   |
+| Kingston Company NVMe Controller                                               | 1         | 1.89%   |
 | Intel SATA Controller [RAID mode]                                              | 1         | 1.89%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 1         | 1.89%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 1         | 1.89%   |
@@ -1606,9 +1606,9 @@ Monitor models
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 2.33%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch               | 1         | 2.33%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 1         | 2.33%   |
-| Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                      | 1         | 2.33%   |
+| Iiyama PL2773H IVM660A 1920x1080 598x336mm 27.0-inch                      | 1         | 2.33%   |
 | Hewlett-Packard V221 HWP3111 1920x1080 477x268mm 21.5-inch                | 1         | 2.33%   |
-| Grundig TV GRU4448 1920x1080                                              | 1         | 2.33%   |
+| Grundig WUXGA GRU4448 1920x1080                                           | 1         | 2.33%   |
 | Goldstar E1960 GSM4BE5 1360x768 406x229mm 18.4-inch                       | 1         | 2.33%   |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                         | 1         | 2.33%   |
 | Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                       | 1         | 2.33%   |
@@ -1616,21 +1616,21 @@ Monitor models
 | Dell P2417H DELA0DB 1920x1080 527x296mm 23.8-inch                         | 1         | 2.33%   |
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                           | 1         | 2.33%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 2.33%   |
-| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x194mm 15.5-inch           | 1         | 2.33%   |
+| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch           | 1         | 2.33%   |
 | Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch           | 1         | 2.33%   |
-| Chimei Innolux LCD Monitor CMN1495 1366x768 309x174mm 14.0-inch           | 1         | 2.33%   |
+| Chimei Innolux LCD Monitor CMN1495 1366x768 309x173mm 13.9-inch           | 1         | 2.33%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.33%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1100 1366x768 256x144mm 11.6-inch  | 1         | 2.33%   |
 | BOE LCD Monitor BOE09DC 1920x1080 344x194mm 15.5-inch                     | 1         | 2.33%   |
-| BOE LCD Monitor BOE06B3 1920x1080                                         | 1         | 2.33%   |
+| BOE LCD Monitor BOE06B3 1366x768 309x173mm 13.9-inch                      | 1         | 2.33%   |
 | BOE LCD Monitor BOE05FE 1366x768 309x173mm 13.9-inch                      | 1         | 2.33%   |
 | AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 2.33%   |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 2.33%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 2.33%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 2.33%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 1         | 2.33%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                    | 1         | 2.33%   |
 | Apple Color LCD APP9CBC 1920x1080 475x267mm 21.5-inch                     | 1         | 2.33%   |
-| Acer X223HQ ACR0098 1920x1080 477x268mm 21.5-inch                         | 1         | 2.33%   |
+| Acer X213H ACR0098 1920x1080 477x268mm 21.5-inch                          | 1         | 2.33%   |
 | Acer K202HQL ACR03E0 1600x900 432x240mm 19.5-inch                         | 1         | 2.33%   |
 
 Monitor Resolution
@@ -2159,17 +2159,17 @@ Memory module models
 | Model                                                        | Computers | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 2         | 3.7%    |
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 2         | 3.7%    |
-| Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s   | 2         | 3.7%    |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 2         | 3.7%    |
+| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s      | 2         | 3.7%    |
 | Unknown RAM Module 1GB DIMM 400MT/s                          | 1         | 1.85%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s                 | 1         | 1.85%   |
-| SK hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s     | 1         | 1.85%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s        | 1         | 1.85%   |
 | SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s         | 1         | 1.85%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.85%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.85%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.85%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.85%   |
-| SK hynix RAM HMAA2GS6CJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 1.85%   |
+| SK hynix RAM HMAA2GS6CJR8N-XN 16384MB SODIMM DDR4 3200MT/s   | 1         | 1.85%   |
 | SK hynix RAM HMAA1GS6CMR6N-XN 8GB Row Of Chips DDR4 3200MT/s | 1         | 1.85%   |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 1         | 1.85%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 1.85%   |
@@ -2179,11 +2179,11 @@ Memory module models
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 1.85%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.85%   |
 | Samsung RAM M471B5173BH0-YK0 4GB Chip DDR3 1600MT/s          | 1         | 1.85%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 1         | 1.85%   |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.85%   |
 | Samsung RAM M393B5270DH0-YH9 4GB DIMM 1333MT/s               | 1         | 1.85%   |
-| Samsung RAM M378B5173DB0-CK0 4096MB DIMM DDR3 1600MT/s       | 1         | 1.85%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 1.85%   |
 | Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 1.85%   |
-| Samsung RAM 456789ABCDEFGHIJKL 4GB SODIMM DDR3 1600MT/s      | 1         | 1.85%   |
+| Samsung RAM 456789ABCDEFGHIJKL 8GB SODIMM DDR3 1600MT/s      | 1         | 1.85%   |
 | Ramaxel RAM RMSA3260MD78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 1.85%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 1.85%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s          | 1         | 1.85%   |
@@ -2330,15 +2330,16 @@ Camera device vendors
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 6         | 24%     |
-| Acer                                   | 4         | 16%     |
 | Sunplus Innovation Technology          | 2         | 8%      |
 | Realtek Semiconductor                  | 2         | 8%      |
 | Microdia                               | 2         | 8%      |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 8%      |
+| Bison Electronics                      | 2         | 8%      |
 | Apple                                  | 2         | 8%      |
-| Unknown                                | 1         | 4%      |
+| Acer                                   | 2         | 8%      |
 | Suyin                                  | 1         | 4%      |
 | Silicon Motion                         | 1         | 4%      |
+| Shenzhen Kingcome Optoelectronic       | 1         | 4%      |
 | Lite-On Technology                     | 1         | 4%      |
 | IMC Networks                           | 1         | 4%      |
 
@@ -2352,14 +2353,14 @@ Camera device models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Acer Integrated Camera                              | 3         | 12%     |
 | Chicony Integrated Camera                           | 2         | 8%      |
 | Chicony HP HD Webcam                                | 2         | 8%      |
-| Unknown 720p HD Camera                              | 1         | 4%      |
+| Bison Integrated Camera                             | 2         | 8%      |
 | Suyin Acer/Lenovo Webcam [CN0316]                   | 1         | 4%      |
 | Sunplus Integrated Webcam                           | 1         | 4%      |
 | Sunplus Asus Webcam                                 | 1         | 4%      |
 | Silicon Motion ATIV VGA Camera                      | 1         | 4%      |
+| Shenzhen Kingcome Optoelectronic 720p HD Camera     | 1         | 4%      |
 | Realtek Integrated_Webcam_HD                        | 1         | 4%      |
 | Realtek Integrated Camera                           | 1         | 4%      |
 | Microdia Laptop_Integrated_Webcam_HD                | 1         | 4%      |
@@ -2372,6 +2373,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 1         | 4%      |
 | Apple FaceTime HD Camera                            | 1         | 4%      |
 | Apple Built-in iSight                               | 1         | 4%      |
+| Acer Integrated Camera                              | 1         | 4%      |
 | Acer HD Webcam                                      | 1         | 4%      |
 
 Security

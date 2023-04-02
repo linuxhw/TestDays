@@ -1195,7 +1195,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Toshiba TV TSB0106 1920x540 708x398mm 32.0-inch                      | 1        | 7.69%   |
+| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                     | 1        | 7.69%   |
 | Sony TV SNY9C01 1360x768                                             | 1        | 7.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch | 1        | 7.69%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                       | 1        | 7.69%   |

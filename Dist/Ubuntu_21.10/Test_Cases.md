@@ -1,10 +1,13 @@
 Ubuntu 21.10 - Test Cases
 -------------------------
 
-Total: 2865
+Total: 2868
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | M4A79T Deluxe               | Desktop     | [9828b40ec9](https://linux-hardware.org/?probe=9828b40ec9) | Mar 30, 2023 |
+| Lenovo        | ThinkPad X220 4290W1B       | Notebook    | [129bfe8c92](https://linux-hardware.org/?probe=129bfe8c92) | Mar 09, 2023 |
+| ASRock        | X300M-STX                   | Desktop     | [061edbf583](https://linux-hardware.org/?probe=061edbf583) | Mar 01, 2023 |
 | ASRock        | X300M-STX                   | Desktop     | [97a1558878](https://linux-hardware.org/?probe=97a1558878) | Feb 25, 2023 |
 | Gigabyte      | GA-78LMT-USB3 SEx           | Desktop     | [f319fe6763](https://linux-hardware.org/?probe=f319fe6763) | Feb 04, 2023 |
 | HP            | EliteBook 850 G8 Noteboo... | Notebook    | [001a819e3d](https://linux-hardware.org/?probe=001a819e3d) | Feb 03, 2023 |

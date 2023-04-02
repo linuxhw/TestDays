@@ -736,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 34        | 57.63%  |
-| Yes       | 25        | 42.37%  |
+| No        | 33        | 55.93%  |
+| Yes       | 26        | 44.07%  |
 
 Has Ethernet
 ------------
@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 240GB                   | 1         | 1.49%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1037,7 +1037,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 49     | 100%    |
+| 0.01-0.5   | 40        | 48     | 97.56%  |
+| 0.51-1.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1579,7 +1580,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch       | 3         | 5%      |
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                 | 3         | 5%      |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                  | 2         | 3.33%   |
-| Toshiba TV TSB0106 1920x540 708x398mm 32.0-inch                       | 1         | 1.67%   |
+| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                      | 1         | 1.67%   |
 | Sony TV SNY9C01 1360x768                                              | 1         | 1.67%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch               | 1         | 1.67%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
@@ -2289,7 +2290,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB Camera                                  | 6         | 17.14%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 17.14%  |
 | Lenovo UVC Camera                                       | 3         | 8.57%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.71%   |
 | Lite-On Integrated Camera                               | 2         | 5.71%   |
@@ -2299,9 +2300,9 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 2.86%   |
 | Sunplus HD WebCam                                       | 1         | 2.86%   |
 | Realtek WebCamera                                       | 1         | 2.86%   |
+| Realtek USB2.0-Camera                                   | 1         | 2.86%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.86%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.86%   |
-| Realtek 2SF022                                          | 1         | 2.86%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.86%   |
 | Microdia HP Webcam                                      | 1         | 2.86%   |
 | Importek HP Webcam                                      | 1         | 2.86%   |
@@ -2386,9 +2387,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 35        | 58.33%  |
+| 0     | 33        | 55%     |
 | 1     | 21        | 35%     |
-| 2     | 4         | 6.67%   |
+| 2     | 6         | 10%     |
 
 Unsupported Device Types
 ------------------------
@@ -2400,13 +2401,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 21.43%  |
-| Net/wireless             | 5         | 17.86%  |
-| Fingerprint reader       | 5         | 17.86%  |
-| Graphics card            | 4         | 14.29%  |
-| Chipcard                 | 3         | 10.71%  |
-| Storage                  | 2         | 7.14%   |
-| Storage/ide              | 1         | 3.57%   |
-| Modem                    | 1         | 3.57%   |
-| Communication controller | 1         | 3.57%   |
+| Graphics card            | 8         | 25%     |
+| Multimedia controller    | 6         | 18.75%  |
+| Net/wireless             | 5         | 15.63%  |
+| Fingerprint reader       | 5         | 15.63%  |
+| Chipcard                 | 3         | 9.38%   |
+| Storage                  | 2         | 6.25%   |
+| Storage/ide              | 1         | 3.13%   |
+| Modem                    | 1         | 3.13%   |
+| Communication controller | 1         | 3.13%   |
 

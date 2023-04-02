@@ -675,7 +675,7 @@ Hard drive models
 | Patriot Burst Elite 120GB SSD   | 1        | 7.14%   |
 | Intenso SSD 128GB               | 1        | 7.14%   |
 | Intenso SSD 120GB               | 1        | 7.14%   |
-| ASMT 2235 1TB                   | 1        | 7.14%   |
+| ASMT 2235 500GB                 | 1        | 7.14%   |
 
 HDD Vendor
 ----------
@@ -687,8 +687,9 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 3        | 7      | 75%     |
-| WDC     | 1        | 1      | 25%     |
+| Seagate | 3        | 7      | 60%     |
+| WDC     | 1        | 1      | 20%     |
+| ASMT    | 1        | 2      | 20%     |
 
 SSD Vendor
 ----------
@@ -700,11 +701,10 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 2        | 3      | 33.33%  |
-| WDC                 | 1        | 2      | 16.67%  |
-| Patriot             | 1        | 1      | 16.67%  |
-| Intenso             | 1        | 2      | 16.67%  |
-| ASMT                | 1        | 2      | 16.67%  |
+| Samsung Electronics | 2        | 3      | 40%     |
+| WDC                 | 1        | 2      | 20%     |
+| Patriot             | 1        | 1      | 20%     |
+| Intenso             | 1        | 2      | 20%     |
 
 Drive Kind
 ----------
@@ -716,8 +716,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 5        | 10     | 50%     |
-| HDD  | 4        | 8      | 40%     |
+| SSD  | 5        | 8      | 50%     |
+| HDD  | 4        | 10     | 40%     |
 | NVMe | 1        | 1      | 10%     |
 
 Drive Connector
@@ -744,8 +744,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 7        | 12     | 77.78%  |
-| 0.51-1.0   | 2        | 6      | 22.22%  |
+| 0.01-0.5   | 7        | 14     | 77.78%  |
+| 0.51-1.0   | 2        | 4      | 22.22%  |
 
 Space Total
 -----------
@@ -881,7 +881,7 @@ Storage controller models
 |--------------------------------------------------------------------------------|----------|---------|
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2        | 16.67%  |
 | AMD FCH SATA Controller [AHCI mode]                                            | 2        | 16.67%  |
-| SanDisk WD Blue SN570 NVMe SSD                                                 | 1        | 8.33%   |
+| SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 1        | 8.33%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 1        | 8.33%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 8.33%   |
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                           | 1        | 8.33%   |
@@ -1675,8 +1675,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 7        | 77.78%  |
-| 1     | 2        | 22.22%  |
+| 0     | 6        | 66.67%  |
+| 1     | 3        | 33.33%  |
 
 Unsupported Device Types
 ------------------------
@@ -1686,8 +1686,9 @@ Types of unsupported devices
 ![Unsupported Device Types](./images/pie_chart/device_unsupported_type.svg)
 
 
-| Type         | Desktops | Percent |
-|--------------|----------|---------|
-| Net/wireless | 1        | 50%     |
-| Bluetooth    | 1        | 50%     |
+| Type          | Desktops | Percent |
+|---------------|----------|---------|
+| Net/wireless  | 1        | 33.33%  |
+| Graphics card | 1        | 33.33%  |
+| Bluetooth     | 1        | 33.33%  |
 

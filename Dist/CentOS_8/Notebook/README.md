@@ -1066,7 +1066,7 @@ Hard drive models
 | WDC WD10JPCX-24UE4T0 1TB                | 1         | 0.63%   |
 | WDC PC SN520 SDAPMUW-512G-1101 512GB    | 1         | 0.63%   |
 | Unknown SD02G  2GB                      | 1         | 0.63%   |
-| Unknown SD/MMC/MS PRO 16GB              | 1         | 0.63%   |
+| Unknown SD/MMC/MS PRO 64GB              | 1         | 0.63%   |
 | Unknown MMC Card  976MB                 | 1         | 0.63%   |
 | Unknown MMC Card  4GB                   | 1         | 0.63%   |
 | Unknown MMC Card  33GB                  | 1         | 0.63%   |
@@ -1165,8 +1165,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 70        | 90     | 65.42%  |
-| 0.51-1.0   | 31        | 39     | 28.97%  |
-| 1.01-2.0   | 5         | 5      | 4.67%   |
+| 0.51-1.0   | 32        | 40     | 29.91%  |
+| 1.01-2.0   | 4         | 4      | 3.74%   |
 | 3.01-4.0   | 1         | 1      | 0.93%   |
 
 Space Total
@@ -1366,7 +1366,7 @@ Storage controller models
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 2         | 1.36%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 2         | 1.36%   |
 | Samsung NVMe SSD Controller 980                                                | 2         | 1.36%   |
-| Micron Non-Volatile memory controller                                          | 2         | 1.36%   |
+| Micron NVMe Storage Controller                                                 | 2         | 1.36%   |
 | KIOXIA NVMe SSD Controller BG4                                                 | 2         | 1.36%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 2         | 1.36%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                  | 2         | 1.36%   |
@@ -1380,7 +1380,7 @@ Storage controller models
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.68%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 0.68%   |
 | SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.68%   |
-| SanDisk Non-Volatile memory controller                                         | 1         | 0.68%   |
+| SanDisk NVMe Controller                                                        | 1         | 0.68%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.68%   |
 | Samsung Electronics SATA controller                                            | 1         | 0.68%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1         | 0.68%   |
@@ -1741,28 +1741,28 @@ Monitor vendors
 
 | Vendor                  | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| AU Optronics            | 29        | 20.71%  |
-| Chimei Innolux          | 23        | 16.43%  |
-| LG Display              | 19        | 13.57%  |
-| Samsung Electronics     | 17        | 12.14%  |
-| BOE                     | 17        | 12.14%  |
-| Dell                    | 7         | 5%      |
-| Panasonic               | 4         | 2.86%   |
-| Sharp                   | 3         | 2.14%   |
-| Lenovo                  | 3         | 2.14%   |
-| Acer                    | 3         | 2.14%   |
-| PANDA                   | 2         | 1.43%   |
-| Hewlett-Packard         | 2         | 1.43%   |
-| Goldstar                | 2         | 1.43%   |
-| Vizio                   | 1         | 0.71%   |
-| Philips                 | 1         | 0.71%   |
-| Onkyo                   | 1         | 0.71%   |
-| MSI                     | 1         | 0.71%   |
-| InfoVision              | 1         | 0.71%   |
-| Gateway                 | 1         | 0.71%   |
-| Chi Mei Optoelectronics | 1         | 0.71%   |
-| Apple                   | 1         | 0.71%   |
-| AOC                     | 1         | 0.71%   |
+| AU Optronics            | 28        | 20.14%  |
+| Chimei Innolux          | 23        | 16.55%  |
+| LG Display              | 19        | 13.67%  |
+| Samsung Electronics     | 17        | 12.23%  |
+| BOE                     | 17        | 12.23%  |
+| Dell                    | 7         | 5.04%   |
+| Panasonic               | 4         | 2.88%   |
+| Sharp                   | 3         | 2.16%   |
+| Lenovo                  | 3         | 2.16%   |
+| Acer                    | 3         | 2.16%   |
+| PANDA                   | 2         | 1.44%   |
+| Hewlett-Packard         | 2         | 1.44%   |
+| Goldstar                | 2         | 1.44%   |
+| Vizio                   | 1         | 0.72%   |
+| Philips                 | 1         | 0.72%   |
+| Onkyo                   | 1         | 0.72%   |
+| MSI                     | 1         | 0.72%   |
+| InfoVision              | 1         | 0.72%   |
+| Gateway                 | 1         | 0.72%   |
+| Chi Mei Optoelectronics | 1         | 0.72%   |
+| Apple                   | 1         | 0.72%   |
+| AOC                     | 1         | 0.72%   |
 
 Monitor Model
 -------------
@@ -1774,46 +1774,46 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch          | 3         | 2.11%   |
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 2         | 1.41%   |
-| LG Display LCD Monitor LGD021D 1600x900 382x215mm 17.3-inch           | 2         | 1.41%   |
-| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch      | 2         | 1.41%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.41%   |
-| AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch         | 2         | 1.41%   |
-| AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch         | 2         | 1.41%   |
-| Vizio E421VO VIZ0070 1920x1080 930x523mm 42.0-inch                    | 1         | 0.7%    |
-| Sharp LCD Monitor SHP14B9 3840x2160 344x194mm 15.5-inch               | 1         | 0.7%    |
-| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 0.7%    |
-| Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 0.7%    |
-| Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch  | 1         | 0.7%    |
-| Samsung Electronics SMBX2450 SAM0721 1920x1080 530x300mm 24.0-inch    | 1         | 0.7%    |
-| Samsung Electronics S22B420 SAM0979 1680x1050 473x291mm 21.9-inch     | 1         | 0.7%    |
-| Samsung Electronics LU28R55 SAM1017 3840x2160 632x360mm 28.6-inch     | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC5341 1366x768 344x193mm 15.5-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC3848 1920x1200 367x230mm 17.1-inch | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC3646 1680x1050 330x210mm 15.4-inch | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC324C 1600x900 310x174mm 14.0-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC3245 1366x768 344x194mm 15.5-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC3147 1600x900 332x187mm 15.0-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SDC834E 1920x1080 309x174mm 14.0-inch | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SDC364D 1920x1080 309x174mm 14.0-inch | 1         | 0.7%    |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 0.7%    |
-| Philips PHL 278E9Q PHLC17F 1920x1080 598x336mm 27.0-inch              | 1         | 0.7%    |
-| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 0.7%    |
-| PANDA LCD Monitor NCP002A 1920x1080 344x194mm 15.5-inch               | 1         | 0.7%    |
-| Panasonic TV MEIC122 1280x720 697x392mm 31.5-inch                     | 1         | 0.7%    |
-| Onkyo AV Receiver ONK1151 1920x1080                                   | 1         | 0.7%    |
-| MSI MAG341CQ MSI1462 3440x1440 797x334mm 34.0-inch                    | 1         | 0.7%    |
-| LG Display LCD Monitor LGD065A 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
-| LG Display LCD Monitor LGD061C 1920x1080 294x165mm 13.3-inch          | 1         | 0.7%    |
-| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
-| LG Display LCD Monitor LGD05D5 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
-| LG Display LCD Monitor LGD05D1 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
+| Panasonic VVX16T029D00 MEI96A2 2880x1620 344x193mm 15.5-inch          | 3         | 2.13%   |
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 2         | 1.42%   |
+| LG Display LCD Monitor LGD021D 1600x900 382x215mm 17.3-inch           | 2         | 1.42%   |
+| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch      | 2         | 1.42%   |
+| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.42%   |
+| AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch         | 2         | 1.42%   |
+| AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch         | 2         | 1.42%   |
+| Vizio M220VA VIZ0070 1920x1080 476x268mm 21.5-inch                    | 1         | 0.71%   |
+| Sharp LCD Monitor SHP14B9 3840x2160 344x194mm 15.5-inch               | 1         | 0.71%   |
+| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 0.71%   |
+| Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 0.71%   |
+| Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch  | 1         | 0.71%   |
+| Samsung Electronics SMBX2450 SAM0721 1920x1080 531x299mm 24.0-inch    | 1         | 0.71%   |
+| Samsung Electronics S22B420 SAM0979 1680x1050 473x291mm 21.9-inch     | 1         | 0.71%   |
+| Samsung Electronics LU28R55 SAM1017 3840x2160 632x360mm 28.6-inch     | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC5341 1366x768 344x193mm 15.5-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC3848 1920x1200 367x230mm 17.1-inch | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC3646 1680x1050 330x210mm 15.4-inch | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC324C 1600x900 310x174mm 14.0-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC3245 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC3147 1600x900 332x187mm 15.0-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SDC834E 1920x1080 309x174mm 14.0-inch | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SDC364D 1920x1080 309x174mm 14.0-inch | 1         | 0.71%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 0.71%   |
+| Philips PHL 278E9Q PHLC17F 1920x1080 598x336mm 27.0-inch              | 1         | 0.71%   |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 0.71%   |
+| PANDA LCD Monitor NCP002A 1920x1080 344x194mm 15.5-inch               | 1         | 0.71%   |
+| Panasonic TV MEIC122 1280x720 697x392mm 31.5-inch                     | 1         | 0.71%   |
+| Onkyo AV Receiver ONK1151 1920x1080                                   | 1         | 0.71%   |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1         | 0.71%   |
+| LG Display LCD Monitor LGD065A 1920x1080 344x194mm 15.5-inch          | 1         | 0.71%   |
+| LG Display LCD Monitor LGD061C 1920x1080 294x165mm 13.3-inch          | 1         | 0.71%   |
+| LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch          | 1         | 0.71%   |
+| LG Display LCD Monitor LGD05D5 1920x1080 344x194mm 15.5-inch          | 1         | 0.71%   |
+| LG Display LCD Monitor LGD05D1 1920x1080 344x194mm 15.5-inch          | 1         | 0.71%   |
 
 Monitor Resolution
 ------------------
@@ -1825,16 +1825,16 @@ Monitor screen resolution
 
 | Resolution         | Notebooks | Percent |
 |--------------------|-----------|---------|
-| 1920x1080 (FHD)    | 63        | 47.73%  |
-| 1366x768 (WXGA)    | 36        | 27.27%  |
-| 1600x900 (HD+)     | 11        | 8.33%   |
-| 3840x2160 (4K)     | 6         | 4.55%   |
-| 1680x1050 (WSXGA+) | 4         | 3.03%   |
-| 2560x1600          | 2         | 1.52%   |
-| 2560x1440 (QHD)    | 2         | 1.52%   |
-| 1920x1200 (WUXGA)  | 2         | 1.52%   |
-| 1280x800 (WXGA)    | 2         | 1.52%   |
-| 1280x1024 (SXGA)   | 2         | 1.52%   |
+| 1920x1080 (FHD)    | 62        | 47.33%  |
+| 1366x768 (WXGA)    | 36        | 27.48%  |
+| 1600x900 (HD+)     | 11        | 8.4%    |
+| 3840x2160 (4K)     | 6         | 4.58%   |
+| 1680x1050 (WSXGA+) | 4         | 3.05%   |
+| 2560x1600          | 2         | 1.53%   |
+| 2560x1440 (QHD)    | 2         | 1.53%   |
+| 1920x1200 (WUXGA)  | 2         | 1.53%   |
+| 1280x800 (WXGA)    | 2         | 1.53%   |
+| 1280x1024 (SXGA)   | 2         | 1.53%   |
 | 3440x1440          | 1         | 0.76%   |
 | 1280x720 (HD)      | 1         | 0.76%   |
 
@@ -1848,17 +1848,17 @@ Diagonal size in inches
 
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
-| 15      | 60        | 42.55%  |
-| 14      | 17        | 12.06%  |
-| 13      | 17        | 12.06%  |
-| 17      | 13        | 9.22%   |
-| 24      | 6         | 4.26%   |
-| 23      | 5         | 3.55%   |
-| 12      | 5         | 3.55%   |
-| 21      | 4         | 2.84%   |
-| 27      | 2         | 1.42%   |
-| 11      | 2         | 1.42%   |
-| Unknown | 2         | 1.42%   |
+| 15      | 59        | 42.14%  |
+| 14      | 17        | 12.14%  |
+| 13      | 17        | 12.14%  |
+| 17      | 13        | 9.29%   |
+| 24      | 6         | 4.29%   |
+| 23      | 5         | 3.57%   |
+| 12      | 5         | 3.57%   |
+| 21      | 4         | 2.86%   |
+| 27      | 2         | 1.43%   |
+| 11      | 2         | 1.43%   |
+| Unknown | 2         | 1.43%   |
 | 42      | 1         | 0.71%   |
 | 40      | 1         | 0.71%   |
 | 34      | 1         | 0.71%   |
@@ -1878,14 +1878,14 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 88        | 63.31%  |
-| 351-400     | 14        | 10.07%  |
-| 501-600     | 11        | 7.91%   |
-| 201-300     | 10        | 7.19%   |
-| 401-500     | 6         | 4.32%   |
-| 601-700     | 4         | 2.88%   |
-| 701-800     | 2         | 1.44%   |
-| Unknown     | 2         | 1.44%   |
+| 301-350     | 87        | 63.04%  |
+| 351-400     | 14        | 10.14%  |
+| 501-600     | 11        | 7.97%   |
+| 201-300     | 10        | 7.25%   |
+| 401-500     | 6         | 4.35%   |
+| 601-700     | 4         | 2.9%    |
+| 701-800     | 2         | 1.45%   |
+| Unknown     | 2         | 1.45%   |
 | 801-900     | 1         | 0.72%   |
 | 901-1000    | 1         | 0.72%   |
 
@@ -1899,12 +1899,12 @@ Proportional relationship between the width and the height
 
 | Ratio   | Notebooks | Percent |
 |---------|-----------|---------|
-| 16/9    | 109       | 89.34%  |
-| 16/10   | 8         | 6.56%   |
-| 5/4     | 2         | 1.64%   |
-| 3/2     | 1         | 0.82%   |
-| 21/9    | 1         | 0.82%   |
-| Unknown | 1         | 0.82%   |
+| 16/9    | 108       | 89.26%  |
+| 16/10   | 8         | 6.61%   |
+| 5/4     | 2         | 1.65%   |
+| 3/2     | 1         | 0.83%   |
+| 21/9    | 1         | 0.83%   |
+| Unknown | 1         | 0.83%   |
 
 Monitor Area
 ------------
@@ -1916,22 +1916,22 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 101-110        | 59        | 41.55%  |
-| 81-90          | 32        | 22.54%  |
-| 201-250        | 13        | 9.15%   |
-| 121-130        | 10        | 7.04%   |
-| 61-70          | 5         | 3.52%   |
-| 351-500        | 5         | 3.52%   |
-| 71-80          | 2         | 1.41%   |
-| 51-60          | 2         | 1.41%   |
-| 301-350        | 2         | 1.41%   |
-| 251-300        | 2         | 1.41%   |
-| 151-200        | 2         | 1.41%   |
-| 141-150        | 2         | 1.41%   |
-| 501-1000       | 2         | 1.41%   |
-| Unknown        | 2         | 1.41%   |
-| 131-140        | 1         | 0.7%    |
-| 91-100         | 1         | 0.7%    |
+| 101-110        | 58        | 41.13%  |
+| 81-90          | 32        | 22.7%   |
+| 201-250        | 13        | 9.22%   |
+| 121-130        | 10        | 7.09%   |
+| 61-70          | 5         | 3.55%   |
+| 351-500        | 5         | 3.55%   |
+| 71-80          | 2         | 1.42%   |
+| 51-60          | 2         | 1.42%   |
+| 301-350        | 2         | 1.42%   |
+| 251-300        | 2         | 1.42%   |
+| 151-200        | 2         | 1.42%   |
+| 141-150        | 2         | 1.42%   |
+| 501-1000       | 2         | 1.42%   |
+| Unknown        | 2         | 1.42%   |
+| 131-140        | 1         | 0.71%   |
+| 91-100         | 1         | 0.71%   |
 
 Pixel Density
 -------------
@@ -1943,13 +1943,13 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 121-160       | 66        | 48.18%  |
-| 101-120       | 37        | 27.01%  |
-| 51-100        | 23        | 16.79%  |
-| More than 240 | 4         | 2.92%   |
-| 161-240       | 4         | 2.92%   |
-| Unknown       | 2         | 1.46%   |
-| 1-50          | 1         | 0.73%   |
+| 121-160       | 65        | 47.79%  |
+| 101-120       | 37        | 27.21%  |
+| 51-100        | 23        | 16.91%  |
+| More than 240 | 4         | 2.94%   |
+| 161-240       | 4         | 2.94%   |
+| Unknown       | 2         | 1.47%   |
+| 1-50          | 1         | 0.74%   |
 
 Multiple Monitors
 -----------------
@@ -2413,7 +2413,7 @@ Memory module models
 
 | Model                                                         | Notebooks | Percent |
 |---------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s      | 2         | 3.23%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s         | 2         | 3.23%   |
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s        | 2         | 3.23%   |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                   | 1         | 1.61%   |
 | Unknown RAM Module 4GB SODIMM DDR2 667MT/s                    | 1         | 1.61%   |
@@ -2569,7 +2569,7 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 34        | 31.78%  |
 | Microdia                               | 14        | 13.08%  |
-| Acer                                   | 12        | 11.21%  |
+| Acer                                   | 11        | 10.28%  |
 | Realtek Semiconductor                  | 7         | 6.54%   |
 | Lite-On Technology                     | 7         | 6.54%   |
 | IMC Networks                           | 7         | 6.54%   |
@@ -2584,6 +2584,7 @@ Camera device vendors
 | Samsung Electronics                    | 1         | 0.93%   |
 | Logitech                               | 1         | 0.93%   |
 | Intel                                  | 1         | 0.93%   |
+| Bison Electronics                      | 1         | 0.93%   |
 | Alcor Micro                            | 1         | 0.93%   |
 
 Camera Model
@@ -2608,12 +2609,12 @@ Camera device models
 | Chicony HP HD Camera                    | 3         | 2.8%    |
 | Chicony HD WebCam                       | 3         | 2.8%    |
 | Acer Lenovo EasyCamera                  | 3         | 2.8%    |
-| Acer Integrated Camera                  | 3         | 2.8%    |
 | Sunplus Integrated_Webcam_HD            | 2         | 1.87%   |
 | Quanta HP TrueVision HD Camera          | 2         | 1.87%   |
 | Microdia Laptop_Integrated_Webcam_2M    | 2         | 1.87%   |
 | Chicony HP Webcam [2 MP Macro]          | 2         | 1.87%   |
 | Chicony HP HD Webcam                    | 2         | 1.87%   |
+| Acer Integrated Camera                  | 2         | 1.87%   |
 | Syntek USB2.0 UVC PC Camera             | 1         | 0.93%   |
 | Syntek Lenovo EasyCamera                | 1         | 0.93%   |
 | Suyin Sony Visual Communication Camera  | 1         | 0.93%   |
@@ -2678,11 +2679,11 @@ Fingerprint sensor models
 | Shenzhen Goodix  FingerPrint Device                    | 2         | 5.88%   |
 | Elan ELAN:Fingerprint                                  | 2         | 5.88%   |
 | Validity Sensors Synaptics WBDI                        | 1         | 2.94%   |
+| Synaptics UWP WBDI Device                              | 1         | 2.94%   |
 | Synaptics  WBDI                                        | 1         | 2.94%   |
 | Synaptics Prometheus MIS Touch Fingerprint Reader      | 1         | 2.94%   |
 | Shenzhen Goodix Fingerprint Reader                     | 1         | 2.94%   |
 | AuthenTec AES1660 Fingerprint Sensor                   | 1         | 2.94%   |
-| Unknown                                                | 1         | 2.94%   |
 
 Chipcard Vendor
 ---------------
@@ -2730,8 +2731,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 60        | 50.42%  |
-| 1     | 52        | 43.7%   |
+| 0     | 59        | 49.58%  |
+| 1     | 53        | 44.54%  |
 | 2     | 5         | 4.2%    |
 | 6     | 1         | 0.84%   |
 | 3     | 1         | 0.84%   |
@@ -2746,15 +2747,15 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 34        | 49.28%  |
-| Graphics card            | 12        | 17.39%  |
-| Net/wireless             | 6         | 8.7%    |
-| Chipcard                 | 6         | 8.7%    |
-| Multimedia controller    | 4         | 5.8%    |
-| Bluetooth                | 2         | 2.9%    |
-| Storage                  | 1         | 1.45%   |
-| Sound                    | 1         | 1.45%   |
-| Net/ethernet             | 1         | 1.45%   |
-| Communication controller | 1         | 1.45%   |
-| Camera                   | 1         | 1.45%   |
+| Fingerprint reader       | 34        | 48.57%  |
+| Graphics card            | 13        | 18.57%  |
+| Net/wireless             | 6         | 8.57%   |
+| Chipcard                 | 6         | 8.57%   |
+| Multimedia controller    | 4         | 5.71%   |
+| Bluetooth                | 2         | 2.86%   |
+| Storage                  | 1         | 1.43%   |
+| Sound                    | 1         | 1.43%   |
+| Net/ethernet             | 1         | 1.43%   |
+| Communication controller | 1         | 1.43%   |
+| Camera                   | 1         | 1.43%   |
 

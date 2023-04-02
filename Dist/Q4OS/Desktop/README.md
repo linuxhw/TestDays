@@ -739,7 +739,7 @@ Hard drive models
 | SanDisk SDSSDA120G 120GB          | 1        | 4.17%   |
 | Samsung SSD 860 EVO 250GB         | 1        | 4.17%   |
 | Samsung HD081GJ 80GB              | 1        | 4.17%   |
-| Maxtor 6Y080L0 81GB               | 1        | 4.17%   |
+| Maxtor 6Y080L0 82GB               | 1        | 4.17%   |
 | Kingston OM8P0S3512F-00 512GB SSD | 1        | 4.17%   |
 | Crucial CT500P2SSD8 500GB         | 1        | 4.17%   |
 | Crucial CT120BX500SSD1 120GB      | 1        | 4.17%   |
@@ -871,7 +871,7 @@ Drive models with a malfunction
 | WDC WD400BD-23JMC0 40GB     | 1        | 1      | 25%     |
 | WDC WD1600AAJS-75M0A0 160GB | 1        | 1      | 25%     |
 | Seagate ST3320820SCE 320GB  | 1        | 1      | 25%     |
-| Maxtor 6Y080L0 81GB         | 1        | 1      | 25%     |
+| Maxtor 6Y080L0 82GB         | 1        | 1      | 25%     |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1299,7 +1299,7 @@ Monitor models
 | Hewlett-Packard 2009 HWP2827 1600x900 443x250mm 20.0-inch               | 1        | 7.14%   |
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 7.14%   |
 | Dell 1704FPV DEL3015 1280x1024 338x270mm 17.0-inch                      | 1        | 7.14%   |
-| AOC 2460G5 AOC246A 1920x1080 531x299mm 24.0-inch                        | 1        | 7.14%   |
+| AOC G2460 AOC246A 1920x1080 531x299mm 24.0-inch                         | 1        | 7.14%   |
 | Acer K222HQL ACR03E1 1920x1080 477x268mm 21.5-inch                      | 1        | 7.14%   |
 
 Monitor Resolution
@@ -1703,7 +1703,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM SDRAM                     | 1        | 6.25%   |
 | Transcend RAM Module 1GB DIMM SDRAM 266MT/s              | 1        | 6.25%   |
 | Teikon RAM TMT41GU6AFR8C-PBHJ 8GB DIMM DDR3 1333MT/s     | 1        | 6.25%   |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s       | 1        | 6.25%   |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s      | 1        | 6.25%   |
 | SK hynix RAM HMT351U6CFR8C-H9 4096MB DIMM DDR3 1600MT/s  | 1        | 6.25%   |
 | SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s   | 1        | 6.25%   |
 | S RAM Module 2GB DIMM DDR3 1333MT/s                      | 1        | 6.25%   |

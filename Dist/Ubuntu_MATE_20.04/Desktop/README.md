@@ -1060,8 +1060,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 155      | 59.39%  |
-| No        | 106      | 40.61%  |
+| Yes       | 156      | 59.77%  |
+| No        | 105      | 40.23%  |
 
 Has Ethernet
 ------------
@@ -1305,7 +1305,7 @@ Hard drive models
 | WDC WD20EARX-00PASB0 2TB         | 2        | 0.43%   |
 | WDC WD10EZEX-08M2NA0 1TB         | 2        | 0.43%   |
 | WDC WD10EARX-00N0YB0 1TB         | 2        | 0.43%   |
-| Unknown SD/MMC/MS PRO 16GB       | 2        | 0.43%   |
+| Unknown SD/MMC/MS PRO 64GB       | 2        | 0.43%   |
 | Toshiba HDWD110 1TB              | 2        | 0.43%   |
 | Seagate ST3500413AS 500GB        | 2        | 0.43%   |
 
@@ -1319,16 +1319,15 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 92       | 142    | 37.7%   |
-| WDC                 | 91       | 127    | 37.3%   |
-| Samsung Electronics | 21       | 23     | 8.61%   |
-| Toshiba             | 15       | 28     | 6.15%   |
-| Hitachi             | 14       | 17     | 5.74%   |
+| Seagate             | 92       | 142    | 37.86%  |
+| WDC                 | 91       | 127    | 37.45%  |
+| Samsung Electronics | 21       | 23     | 8.64%   |
+| Toshiba             | 15       | 28     | 6.17%   |
+| Hitachi             | 14       | 17     | 5.76%   |
 | HGST                | 3        | 5      | 1.23%   |
 | Unknown             | 2        | 2      | 0.82%   |
 | Maxtor              | 2        | 5      | 0.82%   |
 | USB3.0              | 1        | 1      | 0.41%   |
-| JMicron Technology  | 1        | 2      | 0.41%   |
 | ASMT109x            | 1        | 2      | 0.41%   |
 | ASMT                | 1        | 2      | 0.41%   |
 
@@ -1342,17 +1341,17 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 26       | 43     | 20.63%  |
-| Kingston            | 25       | 29     | 19.84%  |
-| SanDisk             | 15       | 17     | 11.9%   |
-| WDC                 | 12       | 20     | 9.52%   |
-| Crucial             | 11       | 15     | 8.73%   |
-| Intel               | 6        | 8      | 4.76%   |
-| A-DATA Technology   | 6        | 6      | 4.76%   |
-| PNY                 | 3        | 4      | 2.38%   |
-| Patriot             | 2        | 4      | 1.59%   |
-| Intenso             | 2        | 2      | 1.59%   |
-| Apacer              | 2        | 2      | 1.59%   |
+| Samsung Electronics | 26       | 43     | 20.47%  |
+| Kingston            | 25       | 29     | 19.69%  |
+| SanDisk             | 15       | 17     | 11.81%  |
+| WDC                 | 12       | 20     | 9.45%   |
+| Crucial             | 11       | 15     | 8.66%   |
+| Intel               | 6        | 8      | 4.72%   |
+| A-DATA Technology   | 6        | 6      | 4.72%   |
+| PNY                 | 3        | 4      | 2.36%   |
+| Patriot             | 2        | 4      | 1.57%   |
+| Intenso             | 2        | 2      | 1.57%   |
+| Apacer              | 2        | 2      | 1.57%   |
 | Transcend           | 1        | 1      | 0.79%   |
 | TO Exter            | 1        | 1      | 0.79%   |
 | SMI                 | 1        | 1      | 0.79%   |
@@ -1364,6 +1363,7 @@ Solid state drive vendors
 | Lexar               | 1        | 1      | 0.79%   |
 | Leven               | 1        | 1      | 0.79%   |
 | LDLC                | 1        | 1      | 0.79%   |
+| JMicron Technology  | 1        | 2      | 0.79%   |
 | Emtec               | 1        | 1      | 0.79%   |
 | China               | 1        | 1      | 0.79%   |
 | AMD                 | 1        | 1      | 0.79%   |
@@ -1380,8 +1380,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 198      | 356    | 56.41%  |
-| SSD     | 109      | 168    | 31.05%  |
+| HDD     | 198      | 354    | 56.41%  |
+| SSD     | 109      | 170    | 31.05%  |
 | NVMe    | 40       | 62     | 11.4%   |
 | Unknown | 3        | 3      | 0.85%   |
 | MMC     | 1        | 1      | 0.28%   |
@@ -1411,12 +1411,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 195      | 301    | 57.52%  |
-| 0.51-1.0   | 73       | 110    | 21.53%  |
-| 1.01-2.0   | 41       | 55     | 12.09%  |
-| 3.01-4.0   | 13       | 20     | 3.83%   |
-| 4.01-10.0  | 10       | 25     | 2.95%   |
-| 2.01-3.0   | 6        | 12     | 1.77%   |
+| 0.01-0.5   | 194      | 299    | 57.06%  |
+| 0.51-1.0   | 73       | 110    | 21.47%  |
+| 1.01-2.0   | 43       | 57     | 12.65%  |
+| 3.01-4.0   | 13       | 20     | 3.82%   |
+| 4.01-10.0  | 10       | 25     | 2.94%   |
+| 2.01-3.0   | 6        | 12     | 1.76%   |
 | 10.01-20.0 | 1        | 1      | 0.29%   |
 
 Space Total
@@ -1507,7 +1507,7 @@ Drive models with a malfunction
 | SanDisk SSD PLUS 480GB                | 1        | 1      | 1.79%   |
 | Samsung Electronics SSD 870 EVO 500GB | 1        | 1      | 1.79%   |
 | Samsung Electronics SP2504C 250GB     | 1        | 1      | 1.79%   |
-| Samsung Electronics M3 Portable 1TB   | 1        | 1      | 1.79%   |
+| Samsung Electronics M3 Portable 2TB   | 1        | 1      | 1.79%   |
 | Maxtor 6Y160M0 160GB                  | 1        | 1      | 1.79%   |
 | Kingston SHPM2280P2H 240G SSD         | 1        | 1      | 1.79%   |
 | Intel SSDSA2M080G2GC 80GB             | 1        | 1      | 1.79%   |
@@ -2095,46 +2095,46 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Dell                 | 68       | 24.64%  |
-| Samsung Electronics  | 44       | 15.94%  |
-| Goldstar             | 25       | 9.06%   |
-| Philips              | 18       | 6.52%   |
-| Hewlett-Packard      | 16       | 5.8%    |
-| BenQ                 | 14       | 5.07%   |
-| Ancor Communications | 12       | 4.35%   |
-| AOC                  | 10       | 3.62%   |
-| Acer                 | 10       | 3.62%   |
-| ViewSonic            | 8        | 2.9%    |
-| Unknown              | 7        | 2.54%   |
-| Iiyama               | 4        | 1.45%   |
-| Lenovo               | 3        | 1.09%   |
-| HannStar             | 3        | 1.09%   |
-| Vestel Elektronik    | 2        | 0.72%   |
-| Toshiba              | 2        | 0.72%   |
-| NEC Computers        | 2        | 0.72%   |
-| LG Electronics       | 2        | 0.72%   |
-| Gateway              | 2        | 0.72%   |
-| Belinea              | 2        | 0.72%   |
-| Vizio                | 1        | 0.36%   |
-| VIZ                  | 1        | 0.36%   |
-| Targa                | 1        | 0.36%   |
-| STD                  | 1        | 0.36%   |
-| Sony                 | 1        | 0.36%   |
-| Seiki                | 1        | 0.36%   |
-| Sceptre Tech         | 1        | 0.36%   |
-| Sceptre              | 1        | 0.36%   |
-| RTK                  | 1        | 0.36%   |
-| ROW                  | 1        | 0.36%   |
-| Panasonic            | 1        | 0.36%   |
-| Packard Bell         | 1        | 0.36%   |
-| Medion               | 1        | 0.36%   |
-| Insignia             | 1        | 0.36%   |
-| Hitachi              | 1        | 0.36%   |
-| Fujitsu Siemens      | 1        | 0.36%   |
-| Element              | 1        | 0.36%   |
-| Eizo                 | 1        | 0.36%   |
-| DENON                | 1        | 0.36%   |
-| Daewoo               | 1        | 0.36%   |
+| Dell                 | 67       | 24.54%  |
+| Samsung Electronics  | 43       | 15.75%  |
+| Goldstar             | 24       | 8.79%   |
+| Philips              | 18       | 6.59%   |
+| Hewlett-Packard      | 16       | 5.86%   |
+| BenQ                 | 14       | 5.13%   |
+| Ancor Communications | 12       | 4.4%    |
+| AOC                  | 10       | 3.66%   |
+| Acer                 | 10       | 3.66%   |
+| ViewSonic            | 8        | 2.93%   |
+| Unknown              | 7        | 2.56%   |
+| Iiyama               | 4        | 1.47%   |
+| Lenovo               | 3        | 1.1%    |
+| HannStar             | 3        | 1.1%    |
+| Vestel Elektronik    | 2        | 0.73%   |
+| Toshiba              | 2        | 0.73%   |
+| NEC Computers        | 2        | 0.73%   |
+| LG Electronics       | 2        | 0.73%   |
+| Gateway              | 2        | 0.73%   |
+| Belinea              | 2        | 0.73%   |
+| Vizio                | 1        | 0.37%   |
+| VIZ                  | 1        | 0.37%   |
+| Targa                | 1        | 0.37%   |
+| STD                  | 1        | 0.37%   |
+| Sony                 | 1        | 0.37%   |
+| Seiki                | 1        | 0.37%   |
+| Sceptre Tech         | 1        | 0.37%   |
+| Sceptre              | 1        | 0.37%   |
+| RTK                  | 1        | 0.37%   |
+| ROW                  | 1        | 0.37%   |
+| Panasonic            | 1        | 0.37%   |
+| Packard Bell         | 1        | 0.37%   |
+| Medion               | 1        | 0.37%   |
+| Insignia             | 1        | 0.37%   |
+| Hitachi              | 1        | 0.37%   |
+| Fujitsu Siemens      | 1        | 0.37%   |
+| Element              | 1        | 0.37%   |
+| Eizo                 | 1        | 0.37%   |
+| DENON                | 1        | 0.37%   |
+| Daewoo               | 1        | 0.37%   |
 
 Monitor Model
 -------------
@@ -2144,48 +2144,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                | Desktops | Percent |
-|----------------------------------------------------------------------|----------|---------|
-| Dell 1708FP DEL4023 1280x1024 338x270mm 17.0-inch                    | 31       | 10.47%  |
-| BenQ G610HDA BNQ7819 1366x768 344x194mm 15.5-inch                    | 5        | 1.69%   |
-| ViewSonic VA703-4SERIES VSC6A1E 1280x1024 338x270mm 17.0-inch        | 4        | 1.35%   |
-| Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                     | 3        | 1.01%   |
-| Dell 1708FP DEL4024 1280x1024 338x270mm 17.0-inch                    | 3        | 1.01%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                     | 2        | 0.68%   |
-| Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 2        | 0.68%   |
-| Samsung Electronics LCD Monitor SAM03BC 1920x1080                    | 2        | 0.68%   |
-| Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch    | 2        | 0.68%   |
-| Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch              | 2        | 0.68%   |
-| Iiyama PL2740HS IVM6662 1920x1080 600x340mm 27.2-inch                | 2        | 0.68%   |
-| Hewlett-Packard L1908w HWP26F0 1440x900 410x256mm 19.0-inch          | 2        | 0.68%   |
-| Goldstar W2253 GSM56DB 1920x1080 474x296mm 22.0-inch                 | 2        | 0.68%   |
-| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                  | 2        | 0.68%   |
-| Goldstar E2340 GSM57A6 1920x1080 510x290mm 23.1-inch                 | 2        | 0.68%   |
-| Goldstar 23LC1R GSM5617 1360x768 930x523mm 42.0-inch                 | 2        | 0.68%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 2        | 0.68%   |
-| Dell P2414H DELA09B 1920x1080 527x297mm 23.8-inch                    | 2        | 0.68%   |
-| Dell E1709W DELD022 1440x900 370x230mm 17.2-inch                     | 2        | 0.68%   |
-| AOC Q3279WG5B AOC3279 2560x1440 725x428mm 33.1-inch                  | 2        | 0.68%   |
-| Vizio VA26LHDTV10T VIZ0035 1920x1080 640x360mm 28.9-inch             | 1        | 0.34%   |
-| VIZ LCD Monitor E322VL 1920x1080                                     | 1        | 0.34%   |
-| ViewSonic VX2439wm VSC3D24 1920x1080 520x290mm 23.4-inch             | 1        | 0.34%   |
-| ViewSonic VX1935wm VSC2A1E 1440x900 408x255mm 18.9-inch              | 1        | 0.34%   |
-| ViewSonic VE902m VSC491B 1280x1024 376x301mm 19.0-inch               | 1        | 0.34%   |
-| ViewSonic VE710s VSCF518 1280x1024 338x270mm 17.0-inch               | 1        | 0.34%   |
-| Unknown LCD Monitor Sony SDM-X82 1280x1024                           | 1        | 0.34%   |
-| Unknown LCD Monitor SAMSUNG 3840x2160                                | 1        | 0.34%   |
-| Unknown LCD Monitor SAMSUNG 1360x768                                 | 1        | 0.34%   |
-| Unknown LCD Monitor PHILIPS FTV 1360x768                             | 1        | 0.34%   |
-| Unknown LCD Monitor FormacTFT2010 1600x1200                          | 1        | 0.34%   |
-| Unknown LCD Monitor ELE E4SW5017RKU                                  | 1        | 0.34%   |
-| Unknown LCD Monitor CHHWJT 1920x1080                                 | 1        | 0.34%   |
-| Toshiba TV TSB2017 3840x2160                                         | 1        | 0.34%   |
-| Toshiba 43FHD_LCD_TV TSB3700 1920x1080 1360x768mm 61.5-inch          | 1        | 0.34%   |
-| Targa LCD Monitor LCDTV16                                            | 1        | 0.34%   |
-| STD LCD Monitor STD0001 1920x1080                                    | 1        | 0.34%   |
-| Sony TV SNYEE01 1920x1080                                            | 1        | 0.34%   |
-| Seiki SE19HY10 SEK1920 1366x768 410x230mm 18.5-inch                  | 1        | 0.34%   |
-| Sceptre Tech Sceptre X24WG SPT2401 1920x1200 518x324mm 24.1-inch     | 1        | 0.34%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Dell 1708FP DEL4023 1280x1024 338x270mm 17.0-inch                      | 31       | 10.65%  |
+| BenQ G610HDA BNQ7819 1366x768 344x194mm 15.5-inch                      | 5        | 1.72%   |
+| ViewSonic VA703-4SERIES VSC6A1E 1280x1024 338x270mm 17.0-inch          | 4        | 1.37%   |
+| Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                       | 3        | 1.03%   |
+| Dell 1708FP DEL4024 1280x1024 338x270mm 17.0-inch                      | 3        | 1.03%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 2        | 0.69%   |
+| Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch   | 2        | 0.69%   |
+| Samsung Electronics LCD Monitor SAM03BC 1920x1080                      | 2        | 0.69%   |
+| Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch      | 2        | 0.69%   |
+| Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch                | 2        | 0.69%   |
+| Iiyama PL2740HS IVM6662 1920x1080 598x336mm 27.0-inch                  | 2        | 0.69%   |
+| Hewlett-Packard L1908w HWP26F0 1440x900 410x256mm 19.0-inch            | 2        | 0.69%   |
+| Goldstar W2253 GSM56DB 1920x1080 474x296mm 22.0-inch                   | 2        | 0.69%   |
+| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                    | 2        | 0.69%   |
+| Goldstar E2340 GSM57A6 1920x1080 510x290mm 23.1-inch                   | 2        | 0.69%   |
+| Goldstar 23LC1R GSM5617 1360x768 930x523mm 42.0-inch                   | 2        | 0.69%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 2        | 0.69%   |
+| Dell P2414H DELA09B 1920x1080 527x297mm 23.8-inch                      | 2        | 0.69%   |
+| Dell E1709W DELD022 1440x900 370x230mm 17.2-inch                       | 2        | 0.69%   |
+| AOC Q3279WG5B AOC3279 2560x1440 725x428mm 33.1-inch                    | 2        | 0.69%   |
+| Vizio VA26LHDTV10T VIZ0035 1920x1080 640x360mm 28.9-inch               | 1        | 0.34%   |
+| VIZ LCD Monitor E322VL 1920x1080                                       | 1        | 0.34%   |
+| ViewSonic VX2439wm VSC3D24 1920x1080 520x290mm 23.4-inch               | 1        | 0.34%   |
+| ViewSonic VX1935wm VSC2A1E 1440x900 408x255mm 18.9-inch                | 1        | 0.34%   |
+| ViewSonic VE902m VSC491B 1280x1024 376x301mm 19.0-inch                 | 1        | 0.34%   |
+| ViewSonic VE710s VSCF518 1280x1024 338x270mm 17.0-inch                 | 1        | 0.34%   |
+| Unknown LCD Monitor Sony SDM-X82 1280x1024                             | 1        | 0.34%   |
+| Unknown LCD Monitor SAMSUNG 3840x2160                                  | 1        | 0.34%   |
+| Unknown LCD Monitor SAMSUNG 1360x768                                   | 1        | 0.34%   |
+| Unknown LCD Monitor PHILIPS FTV 1360x768                               | 1        | 0.34%   |
+| Unknown LCD Monitor FormacTFT2010 1600x1200                            | 1        | 0.34%   |
+| Unknown LCD Monitor ELE E4SW5017RKU                                    | 1        | 0.34%   |
+| Unknown LCD Monitor CHHWJT 1920x1080                                   | 1        | 0.34%   |
+| Toshiba TV TSB2017 3840x2160                                           | 1        | 0.34%   |
+| Toshiba 50UHD_LCD_TV TSB3700 3840x2160 1872x1053mm 84.6-inch           | 1        | 0.34%   |
+| Targa LCD Monitor LCDTV16                                              | 1        | 0.34%   |
+| STD LED STD0001 1920x1080 480x260mm 21.5-inch                          | 1        | 0.34%   |
+| Sony TV SNYEE01 1920x1080                                              | 1        | 0.34%   |
+| Seiki SE19HY10 SEK1920 1366x768 410x230mm 18.5-inch                    | 1        | 0.34%   |
+| Sceptre Tech Sceptre X24WG SPT2401 1920x1200 518x324mm 24.1-inch       | 1        | 0.34%   |
 
 Monitor Resolution
 ------------------
@@ -2197,29 +2197,29 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 92       | 33.58%  |
-| 1280x1024 (SXGA)   | 59       | 21.53%  |
-| 3840x2160 (4K)     | 21       | 7.66%   |
-| 1366x768 (WXGA)    | 19       | 6.93%   |
-| 1440x900 (WXGA+)   | 14       | 5.11%   |
-| 2560x1440 (QHD)    | 12       | 4.38%   |
-| 1360x768           | 12       | 4.38%   |
-| 1920x1200 (WUXGA)  | 10       | 3.65%   |
-| 1680x1050 (WSXGA+) | 10       | 3.65%   |
-| Unknown            | 7        | 2.55%   |
-| 3440x1440          | 3        | 1.09%   |
-| 1600x1200          | 3        | 1.09%   |
-| 1600x900 (HD+)     | 2        | 0.73%   |
-| 6400x1080          | 1        | 0.36%   |
-| 5040x1050          | 1        | 0.36%   |
-| 4240x1440          | 1        | 0.36%   |
-| 3840x1200          | 1        | 0.36%   |
-| 3840x1080          | 1        | 0.36%   |
-| 3000x1920          | 1        | 0.36%   |
-| 2640x1024          | 1        | 0.36%   |
-| 1280x720 (HD)      | 1        | 0.36%   |
-| 1152x864           | 1        | 0.36%   |
-| 1024x768 (XGA)     | 1        | 0.36%   |
+| 1920x1080 (FHD)    | 92       | 33.95%  |
+| 1280x1024 (SXGA)   | 59       | 21.77%  |
+| 3840x2160 (4K)     | 19       | 7.01%   |
+| 1366x768 (WXGA)    | 19       | 7.01%   |
+| 1440x900 (WXGA+)   | 13       | 4.8%    |
+| 2560x1440 (QHD)    | 12       | 4.43%   |
+| 1360x768           | 12       | 4.43%   |
+| 1920x1200 (WUXGA)  | 10       | 3.69%   |
+| 1680x1050 (WSXGA+) | 10       | 3.69%   |
+| Unknown            | 7        | 2.58%   |
+| 3440x1440          | 3        | 1.11%   |
+| 1600x1200          | 3        | 1.11%   |
+| 1600x900 (HD+)     | 2        | 0.74%   |
+| 6400x1080          | 1        | 0.37%   |
+| 5040x1050          | 1        | 0.37%   |
+| 4240x1440          | 1        | 0.37%   |
+| 3840x1200          | 1        | 0.37%   |
+| 3840x1080          | 1        | 0.37%   |
+| 3000x1920          | 1        | 0.37%   |
+| 2640x1024          | 1        | 0.37%   |
+| 1280x720 (HD)      | 1        | 0.37%   |
+| 1152x864           | 1        | 0.37%   |
+| 1024x768 (XGA)     | 1        | 0.37%   |
 
 Monitor Diagonal
 ----------------
@@ -2231,28 +2231,28 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 17      | 52       | 18.71%  |
-| 24      | 31       | 11.15%  |
-| Unknown | 30       | 10.79%  |
-| 23      | 25       | 8.99%   |
-| 21      | 24       | 8.63%   |
-| 27      | 22       | 7.91%   |
-| 18      | 19       | 6.83%   |
-| 19      | 14       | 5.04%   |
-| 22      | 11       | 3.96%   |
-| 15      | 11       | 3.96%   |
-| 31      | 9        | 3.24%   |
-| 84      | 6        | 2.16%   |
-| 72      | 5        | 1.8%    |
-| 40      | 3        | 1.08%   |
-| 25      | 3        | 1.08%   |
-| 20      | 3        | 1.08%   |
-| 42      | 2        | 0.72%   |
-| 34      | 2        | 0.72%   |
-| 33      | 2        | 0.72%   |
-| 32      | 2        | 0.72%   |
+| 17      | 52       | 18.98%  |
+| 24      | 31       | 11.31%  |
+| Unknown | 30       | 10.95%  |
+| 23      | 25       | 9.12%   |
+| 21      | 24       | 8.76%   |
+| 27      | 19       | 6.93%   |
+| 18      | 19       | 6.93%   |
+| 19      | 13       | 4.74%   |
+| 22      | 11       | 4.01%   |
+| 15      | 11       | 4.01%   |
+| 31      | 8        | 2.92%   |
+| 84      | 6        | 2.19%   |
+| 72      | 5        | 1.82%   |
+| 40      | 3        | 1.09%   |
+| 25      | 3        | 1.09%   |
+| 20      | 3        | 1.09%   |
+| 42      | 2        | 0.73%   |
+| 36      | 2        | 0.73%   |
+| 34      | 2        | 0.73%   |
+| 33      | 2        | 0.73%   |
+| 32      | 2        | 0.73%   |
 | 46      | 1        | 0.36%   |
-| 36      | 1        | 0.36%   |
 
 Monitor Width
 -------------
@@ -2264,16 +2264,16 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 73       | 27.04%  |
-| 401-500     | 61       | 22.59%  |
-| 301-350     | 60       | 22.22%  |
-| Unknown     | 30       | 11.11%  |
-| 601-700     | 12       | 4.44%   |
-| 1501-2000   | 11       | 4.07%   |
-| 351-400     | 10       | 3.7%    |
-| 701-800     | 7        | 2.59%   |
-| 801-900     | 3        | 1.11%   |
-| 901-1000    | 2        | 0.74%   |
+| 501-600     | 72       | 26.97%  |
+| 401-500     | 60       | 22.47%  |
+| 301-350     | 60       | 22.47%  |
+| Unknown     | 30       | 11.24%  |
+| 1501-2000   | 11       | 4.12%   |
+| 601-700     | 10       | 3.75%   |
+| 351-400     | 10       | 3.75%   |
+| 701-800     | 8        | 3%      |
+| 801-900     | 3        | 1.12%   |
+| 901-1000    | 2        | 0.75%   |
 | 1001-1500   | 1        | 0.37%   |
 
 Aspect Ratio
@@ -2286,14 +2286,14 @@ Proportional relationship between the width and the height
 
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
-| 16/9    | 133      | 50.76%  |
-| 5/4     | 51       | 19.47%  |
-| 16/10   | 37       | 14.12%  |
-| Unknown | 27       | 10.31%  |
-| 4/3     | 6        | 2.29%   |
-| 6/5     | 4        | 1.53%   |
-| 3/2     | 2        | 0.76%   |
-| 21/9    | 2        | 0.76%   |
+| 16/9    | 130      | 50.39%  |
+| 5/4     | 51       | 19.77%  |
+| 16/10   | 36       | 13.95%  |
+| Unknown | 27       | 10.47%  |
+| 4/3     | 6        | 2.33%   |
+| 6/5     | 4        | 1.55%   |
+| 3/2     | 2        | 0.78%   |
+| 21/9    | 2        | 0.78%   |
 
 Monitor Area
 ------------
@@ -2305,18 +2305,18 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 68       | 24.91%  |
-| 141-150        | 65       | 23.81%  |
-| Unknown        | 30       | 10.99%  |
-| 151-200        | 26       | 9.52%   |
-| 301-350        | 22       | 8.06%   |
-| 251-300        | 16       | 5.86%   |
-| 351-500        | 14       | 5.13%   |
-| More than 1000 | 11       | 4.03%   |
-| 101-110        | 8        | 2.93%   |
-| 501-1000       | 7        | 2.56%   |
-| 131-140        | 3        | 1.1%    |
-| 111-120        | 3        | 1.1%    |
+| 201-250        | 68       | 25.28%  |
+| 141-150        | 65       | 24.16%  |
+| Unknown        | 30       | 11.15%  |
+| 151-200        | 25       | 9.29%   |
+| 301-350        | 19       | 7.06%   |
+| 251-300        | 16       | 5.95%   |
+| 351-500        | 13       | 4.83%   |
+| More than 1000 | 11       | 4.09%   |
+| 101-110        | 8        | 2.97%   |
+| 501-1000       | 8        | 2.97%   |
+| 131-140        | 3        | 1.12%   |
+| 111-120        | 3        | 1.12%   |
 
 Pixel Density
 -------------
@@ -2328,12 +2328,12 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 172      | 65.65%  |
-| 101-120 | 39       | 14.89%  |
-| Unknown | 30       | 11.45%  |
-| 1-50    | 10       | 3.82%   |
-| 121-160 | 7        | 2.67%   |
-| 161-240 | 4        | 1.53%   |
+| 51-100  | 171      | 66.02%  |
+| 101-120 | 39       | 15.06%  |
+| Unknown | 30       | 11.58%  |
+| 1-50    | 10       | 3.86%   |
+| 121-160 | 6        | 2.32%   |
+| 161-240 | 3        | 1.16%   |
 
 Multiple Monitors
 -----------------
@@ -2726,10 +2726,10 @@ Sound card vendors
 | Razer USA                            | 2        | 0.51%   |
 | Kingston Technology                  | 2        | 0.51%   |
 | JMTek                                | 2        | 0.51%   |
-| Jieli Technology                     | 2        | 0.51%   |
 | Generalplus Technology               | 2        | 0.51%   |
 | Creative Labs                        | 2        | 0.51%   |
 | Corsair                              | 2        | 0.51%   |
+| BR36                                 | 2        | 0.51%   |
 | XMOS                                 | 1        | 0.25%   |
 | Thesycon Systemsoftware & Consulting | 1        | 0.25%   |
 | Realtek Semiconductor                | 1        | 0.25%   |
@@ -2850,7 +2850,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR 533MT/s                | 4        | 1.81%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                   | 3        | 1.36%   |
 | Unknown RAM Module 2048MB DIMM 1333MT/s                   | 3        | 1.36%   |
-| SK hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s  | 3        | 1.36%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s     | 3        | 1.36%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s              | 3        | 1.36%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s       | 3        | 1.36%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s     | 3        | 1.36%   |
@@ -2864,9 +2864,9 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 533MT/s                | 2        | 0.9%    |
 | Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s        | 2        | 0.9%    |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s       | 2        | 0.9%    |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s  | 2        | 0.9%    |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s     | 2        | 0.9%    |
 | Kingston RAM 2G-UDIMM 2GB DIMM DDR2 800MT/s               | 2        | 0.9%    |
-| G.Skill RAM F4-3200C16-16GIS 16384MB DIMM DDR4 3600MT/s   | 2        | 0.9%    |
+| G.Skill RAM F4-3200C16-16GIS 16GB DIMM DDR4 3600MT/s      | 2        | 0.9%    |
 | Elpida RAM EBJ41EF8BCFA-DJ-F 4GB DIMM DDR3 1333MT/s       | 2        | 0.9%    |
 | Corsair RAM CMK8GX4M1D3000C16 8GB DIMM DDR4 3200MT/s      | 2        | 0.9%    |
 | Corsair RAM CM4X16GD3000C16K4D 16384MB DIMM DDR4 3000MT/s | 2        | 0.9%    |
@@ -3104,14 +3104,13 @@ Camera device models
 | Model                                        | Desktops | Percent |
 |----------------------------------------------|----------|---------|
 | Logitech Webcam C270                         | 6        | 19.35%  |
-| Apple iPhone 5/5C/5S/6/SE                    | 2        | 6.45%   |
+| Microdia USB 2.0 Camera                      | 2        | 6.45%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X              | 2        | 6.45%   |
 | Z-Star Venus USB2.0 Camera                   | 1        | 3.23%   |
-| Sunplus FHD Camera Microphone                | 1        | 3.23%   |
+| Sunplus WEMISS CM-A1                         | 1        | 3.23%   |
 | Microsoft LifeCam VX-2000                    | 1        | 3.23%   |
 | Microsoft LifeCam HD-3000                    | 1        | 3.23%   |
-| Microdia USB 2.0 Camera                      | 1        | 3.23%   |
 | Microdia Integrated Camera                   | 1        | 3.23%   |
-| Microdia CameraA                             | 1        | 3.23%   |
 | Logitech Webcam C930e                        | 1        | 3.23%   |
 | Logitech Webcam C170                         | 1        | 3.23%   |
 | Logitech QuickCam Pro for Notebooks          | 1        | 3.23%   |
@@ -3127,7 +3126,7 @@ Camera device models
 | Chicony Gateway Webcam                       | 1        | 3.23%   |
 | Aveo UVC camera (Bresser microscope)         | 1        | 3.23%   |
 | ARC International Camera                     | 1        | 3.23%   |
-| Alcor Micro USB Camera                       | 1        | 3.23%   |
+| Alcor Micro USB 2.0 Camera                   | 1        | 3.23%   |
 
 Security
 --------
@@ -3183,8 +3182,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 233      | 89.96%  |
-| 1     | 21       | 8.11%   |
+| 0     | 234      | 90.35%  |
+| 1     | 20       | 7.72%   |
 | 2     | 5        | 1.93%   |
 
 Unsupported Device Types
@@ -3197,13 +3196,13 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 8        | 27.59%  |
-| Communication controller | 6        | 20.69%  |
-| Net/wireless             | 4        | 13.79%  |
-| Unassigned class         | 3        | 10.34%  |
-| Network                  | 3        | 10.34%  |
-| Multimedia controller    | 2        | 6.9%    |
-| Tv card                  | 1        | 3.45%   |
-| Storage/ata              | 1        | 3.45%   |
-| Sound                    | 1        | 3.45%   |
+| Graphics card            | 7        | 25%     |
+| Communication controller | 6        | 21.43%  |
+| Net/wireless             | 4        | 14.29%  |
+| Unassigned class         | 3        | 10.71%  |
+| Network                  | 3        | 10.71%  |
+| Multimedia controller    | 2        | 7.14%   |
+| Tv card                  | 1        | 3.57%   |
+| Storage/ata              | 1        | 3.57%   |
+| Sound                    | 1        | 3.57%   |
 

@@ -1066,8 +1066,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 145       | 62.5%   |
-| No        | 87        | 37.5%   |
+| Yes       | 144       | 62.07%  |
+| No        | 88        | 37.93%  |
 
 Has Ethernet
 ------------
@@ -1290,7 +1290,7 @@ Hard drive models
 | WDC WD3200BPVT-24JJ5T0 320GB        | 2         | 0.71%   |
 | WDC WD3200BPVT-22ZEST0 320GB        | 2         | 0.71%   |
 | WDC WD1200BEVS-22UST0 120GB         | 2         | 0.71%   |
-| Unknown SD/MMC/MS PRO 16GB          | 2         | 0.71%   |
+| Unknown SD/MMC/MS PRO 64GB          | 2         | 0.71%   |
 | Unknown MMC Card  64GB              | 2         | 0.71%   |
 | Toshiba MK5055GSX 500GB             | 2         | 0.71%   |
 | Seagate ST9160314AS 160GB           | 2         | 0.71%   |
@@ -1413,8 +1413,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 189       | 253    | 80.77%  |
-| 0.51-1.0   | 36        | 42     | 15.38%  |
-| 1.01-2.0   | 7         | 9      | 2.99%   |
+| 0.51-1.0   | 35        | 41     | 14.96%  |
+| 1.01-2.0   | 8         | 10     | 3.42%   |
 | 2.01-3.0   | 1         | 3      | 0.43%   |
 | 4.01-10.0  | 1         | 1      | 0.43%   |
 
@@ -2089,7 +2089,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 3         | 1.29%   |
 | BOE LCD Monitor BOE0705 1366x768 309x173mm 13.9-inch                     | 3         | 1.29%   |
 | Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 0.86%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.86%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch     | 2         | 0.86%   |
 | Samsung Electronics LCD Monitor SAM0DF3 3840x2160 1872x1053mm 84.6-inch  | 2         | 0.86%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 2         | 0.86%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch              | 2         | 0.86%   |
@@ -2105,13 +2105,13 @@ Monitor models
 | VIZ LCD Monitor D50-D1 1920x1080                                         | 1         | 0.43%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                 | 1         | 0.43%   |
 | ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch                | 1         | 0.43%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                         | 1         | 0.43%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                         | 1         | 0.43%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch   | 1         | 0.43%   |
+| Toshiba TV TSB0206 1920x1080                                             | 1         | 0.43%   |
 | Sony TV SNY9500 1920x540 560x420mm 27.6-inch                             | 1         | 0.43%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                      | 1         | 0.43%   |
-| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                            | 1         | 0.43%   |
+| Sony Nvidia Defaul t Flat Panel SNY06FA 1600x900 360x200mm 16.2-inch     | 1         | 0.43%   |
 | Sony LCD Monitor TV                                                      | 1         | 0.43%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                    | 1         | 0.43%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                    | 1         | 0.43%   |
 | Sharp LCD SHP1047 1920x1080                                              | 1         | 0.43%   |
 | Sharp LCD SHP0FF0 1360x768                                               | 1         | 0.43%   |
 | Seiko/Epson LCD Monitor 1280x800                                         | 1         | 0.43%   |
@@ -2558,7 +2558,7 @@ Ethernet models
 | Broadcom BCM4401-B0 100Base-TX                                    | 2         | 0.9%    |
 | 3Com 3c905B 100BaseTX [Cyclone]                                   | 2         | 0.9%    |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 0.45%   |
-| Spreadtrum Unisoc Phone                                           | 1         | 0.45%   |
+| Spreadtrum Nokia G21                                              | 1         | 0.45%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 0.45%   |
 | Qualcomm Atheros Attansic L2 Fast Ethernet                        | 1         | 0.45%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1         | 0.45%   |
@@ -2848,9 +2848,9 @@ Memory module models
 | SK hynix RAM HMT451S6DFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 1.64%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 1.64%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 1.64%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 1.64%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s   | 1         | 1.64%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s      | 1         | 1.64%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM 1600MT/s           | 1         | 1.64%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s      | 1         | 1.64%   |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s        | 1         | 1.64%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s                | 1         | 1.64%   |
 | Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2858,11 +2858,11 @@ Memory module models
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s       | 1         | 1.64%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 1         | 1.64%   |
 | Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s | 1         | 1.64%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s    | 1         | 1.64%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s              | 1         | 1.64%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s        | 1         | 1.64%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M378B2873FHS-CH9 1GB DIMM 1600MT/s              | 1         | 1.64%   |
 | Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s     | 1         | 1.64%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s          | 1         | 1.64%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s       | 1         | 1.64%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s                 | 1         | 1.64%   |
 
 Memory Kind
@@ -3017,9 +3017,9 @@ Camera device vendors
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 34        | 26.98%  |
-| Acer                                   | 12        | 9.52%   |
 | Suyin                                  | 10        | 7.94%   |
 | IMC Networks                           | 10        | 7.94%   |
+| Acer                                   | 10        | 7.94%   |
 | Realtek Semiconductor                  | 9         | 7.14%   |
 | Cheng Uei Precision Industry (Foxlink) | 7         | 5.56%   |
 | Z-Star Microelectronics                | 6         | 4.76%   |
@@ -3032,6 +3032,7 @@ Camera device vendors
 | Samsung Electronics                    | 2         | 1.59%   |
 | Logitech                               | 2         | 1.59%   |
 | Cubeternet                             | 2         | 1.59%   |
+| Bison Electronics                      | 2         | 1.59%   |
 | Lite-On Technology                     | 1         | 0.79%   |
 | GEO Semi                               | 1         | 0.79%   |
 | DigiTech                               | 1         | 0.79%   |
@@ -3071,13 +3072,12 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD                             | 2         | 1.59%   |
 | Chicony Lenovo EasyCamera                                   | 2         | 1.59%   |
 | Chicony 2.0M UVC Webcam / CNF7129                           | 2         | 1.59%   |
-| Acer Integrated Camera                                      | 2         | 1.59%   |
 | Z-Star Vega USB 2.0 Camera                                  | 1         | 0.79%   |
 | Z-Star Sirius USB2.0 Camera                                 | 1         | 0.79%   |
 | Syntek USB Camera Device                                    | 1         | 0.79%   |
 | Syntek Lenovo EasyCamera                                    | 1         | 0.79%   |
 | Syntek Integrated Webcam                                    | 1         | 0.79%   |
-| Suyin Webcam-101                                            | 1         | 0.79%   |
+| Suyin HP Webcam 101                                         | 1         | 0.79%   |
 | Suyin HP Webcam                                             | 1         | 0.79%   |
 | Suyin HP Truevision HD                                      | 1         | 0.79%   |
 | Suyin HD Video WebCam                                       | 1         | 0.79%   |
@@ -3090,6 +3090,7 @@ Camera device models
 | Sunplus HP HD Webcam [Fixed]                                | 1         | 0.79%   |
 | Sunplus Asus Webcam                                         | 1         | 0.79%   |
 | Silicon Motion WebCam SC-0311139N                           | 1         | 0.79%   |
+| Silicon Motion HP Webcam                                    | 1         | 0.79%   |
 
 Security
 --------
@@ -3179,9 +3180,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 162       | 69.23%  |
-| 1     | 57        | 24.36%  |
-| 2     | 14        | 5.98%   |
+| 0     | 156       | 66.67%  |
+| 1     | 64        | 27.35%  |
+| 2     | 13        | 5.56%   |
 | 4     | 1         | 0.43%   |
 
 Unsupported Device Types
@@ -3194,20 +3195,20 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Net/wireless             | 18        | 20.69%  |
-| Graphics card            | 18        | 20.69%  |
-| Fingerprint reader       | 15        | 17.24%  |
-| Chipcard                 | 7         | 8.05%   |
-| Communication controller | 6         | 6.9%    |
-| Storage                  | 5         | 5.75%   |
-| Modem                    | 4         | 4.6%    |
-| Bluetooth                | 3         | 3.45%   |
-| Sound                    | 2         | 2.3%    |
-| Multimedia controller    | 2         | 2.3%    |
-| Camera                   | 2         | 2.3%    |
-| Unassigned class         | 1         | 1.15%   |
-| Storage/raid             | 1         | 1.15%   |
-| Storage/ide              | 1         | 1.15%   |
-| Net/ethernet             | 1         | 1.15%   |
-| Flash memory             | 1         | 1.15%   |
+| Graphics card            | 23        | 25%     |
+| Net/wireless             | 18        | 19.57%  |
+| Fingerprint reader       | 15        | 16.3%   |
+| Chipcard                 | 7         | 7.61%   |
+| Communication controller | 6         | 6.52%   |
+| Storage                  | 5         | 5.43%   |
+| Modem                    | 4         | 4.35%   |
+| Bluetooth                | 3         | 3.26%   |
+| Sound                    | 2         | 2.17%   |
+| Multimedia controller    | 2         | 2.17%   |
+| Camera                   | 2         | 2.17%   |
+| Unassigned class         | 1         | 1.09%   |
+| Storage/raid             | 1         | 1.09%   |
+| Storage/ide              | 1         | 1.09%   |
+| Net/ethernet             | 1         | 1.09%   |
+| Flash memory             | 1         | 1.09%   |
 

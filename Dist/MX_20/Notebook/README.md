@@ -858,7 +858,7 @@ Hard drive models
 | Seagate ST2000LM003 HN-M201RAD 2TB   | 1         | 1.92%   |
 | Seagate ST1000LM035-1RK172 1TB       | 1         | 1.92%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 1         | 1.92%   |
-| Seagate BUP BK 5TB                   | 1         | 1.92%   |
+| Seagate BUP BK 4TB                   | 1         | 1.92%   |
 | SanDisk SSD PLUS 480G                | 1         | 1.92%   |
 | SanDisk SDSSDHII120G 120GB           | 1         | 1.92%   |
 | SanDisk SDSSDA120G 120GB             | 1         | 1.92%   |
@@ -959,8 +959,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 29        | 36     | 82.86%  |
 | 0.51-1.0   | 4         | 4      | 11.43%  |
+| 3.01-4.0   | 1         | 1      | 2.86%   |
 | 1.01-2.0   | 1         | 1      | 2.86%   |
-| 4.01-10.0  | 1         | 1      | 2.86%   |
 
 Space Total
 -----------
@@ -1536,7 +1536,7 @@ Monitor models
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch  | 2         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch      | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch      | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch      | 1         | 2.17%   |
 | Philips PHL BDM4350 PHL08FA 3840x2160 953x543mm 43.2-inch                 | 1         | 2.17%   |
 | PANDA LC116LF3L03 NCP000A 1920x1080 256x144mm 11.6-inch                   | 1         | 2.17%   |
@@ -1558,12 +1558,12 @@ Monitor models
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch                   | 1         | 2.17%   |
 | Dell S2409W DELA039 1920x1080 531x298mm 24.0-inch                         | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch           | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x194mm 15.5-inch           | 1         | 2.17%   |
+| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch           | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN14A7 1920x1080 308x173mm 13.9-inch          | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN1491 1366x768 309x174mm 14.0-inch           | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1467 1366x768 309x174mm 14.0-inch  | 1         | 2.17%   |
-| BOE LCD Monitor BOE089D 1920x1080 294x165mm 13.3-inch                     | 1         | 2.17%   |
+| BOE LCD Monitor BOE089D 1280x800 261x163mm 12.1-inch                      | 1         | 2.17%   |
 | BOE LCD Monitor BOE084E 1920x1080 382x215mm 17.3-inch                     | 1         | 2.17%   |
 | BOE LCD Monitor BOE0802 1920x1080 344x193mm 15.5-inch                     | 1         | 2.17%   |
 | BOE LCD Monitor BOE0791 1920x1080 309x173mm 13.9-inch                     | 1         | 2.17%   |
@@ -2097,7 +2097,7 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s             | 2         | 3.92%   |
-| Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s       | 2         | 3.92%   |
+| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s          | 2         | 3.92%   |
 | Unknown RAM Module 2048MB SODIMM DDR2                            | 1         | 1.96%   |
 | Unknown RAM Module 1024MB SODIMM DDR2                            | 1         | 1.96%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.96%   |
@@ -2135,7 +2135,7 @@ Memory module models
 | Micron RAM 8ATF1G64HZ-2G3E1 8GB SODIMM DDR4 2400MT/s             | 1         | 1.96%   |
 | Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s            | 1         | 1.96%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
-| Kingston RAM KNWMX1-ETB 4096MB SODIMM DDR3 1600MT/s              | 1         | 1.96%   |
+| Kingston RAM KNWMX1-ETB 4GB SODIMM DDR3 1600MT/s                 | 1         | 1.96%   |
 
 Memory Kind
 -----------
@@ -2259,10 +2259,10 @@ Camera device vendors
 | Quanta                                 | 2         | 6.06%   |
 | Lite-On Technology                     | 2         | 6.06%   |
 | IMC Networks                           | 2         | 6.06%   |
+| USB Camera                             | 1         | 3.03%   |
 | Suyin                                  | 1         | 3.03%   |
 | Luxvisions Innotech Limited            | 1         | 3.03%   |
 | Lenovo                                 | 1         | 3.03%   |
-| icSpring                               | 1         | 3.03%   |
 | Apple                                  | 1         | 3.03%   |
 
 Camera Model
@@ -2281,6 +2281,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 2         | 6.06%   |
 | Acer Lenovo Integrated Webcam                               | 2         | 6.06%   |
 | Acer BisonCam, NB Pro                                       | 2         | 6.06%   |
+| USB Camera USB Camera                                       | 1         | 3.03%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 1         | 3.03%   |
 | Sunplus Laptop_Integrated_Webcam_HD                         | 1         | 3.03%   |
 | Sunplus Integrated_Webcam_HD                                | 1         | 3.03%   |
@@ -2290,7 +2291,6 @@ Camera device models
 | Lenovo Integrated Webcam                                    | 1         | 3.03%   |
 | IMC Networks USB2.0 VGA UVC WebCam                          | 1         | 3.03%   |
 | IMC Networks USB2.0 HD UVC WebCam                           | 1         | 3.03%   |
-| icSpring camera                                             | 1         | 3.03%   |
 | Chicony Webcam                                              | 1         | 3.03%   |
 | Chicony USB 2.0 Camera                                      | 1         | 3.03%   |
 | Chicony Integrated Camera (1280x720@30)                     | 1         | 3.03%   |
@@ -2335,12 +2335,12 @@ Fingerprint sensor models
 | Validity Sensors Synaptics WBDI                            | 2         | 20%     |
 | Validity Sensors VFS 5011 fingerprint sensor               | 1         | 10%     |
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor     | 1         | 10%     |
+| Synaptics UWP WBDI                                         | 1         | 10%     |
 | Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 10%     |
 | Synaptics Metallica MOH Touch Fingerprint Reader           | 1         | 10%     |
 | STMicroelectronics Fingerprint Reader                      | 1         | 10%     |
 | Shenzhen Goodix Fingerprint Reader                         | 1         | 10%     |
 | AuthenTec AES2501 Fingerprint Sensor                       | 1         | 10%     |
-| Unknown                                                    | 1         | 10%     |
 
 Chipcard Vendor
 ---------------

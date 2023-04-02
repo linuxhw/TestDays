@@ -755,7 +755,7 @@ Hard drive models
 | Samsung SSD 970 EVO 500GB       | 1        | 1.72%   |
 | Samsung SSD 840 EVO 120GB       | 1        | 1.72%   |
 | Samsung Portable SSD T5 500GB   | 1        | 1.72%   |
-| Samsung M3 Portable 1TB         | 1        | 1.72%   |
+| Samsung M3 Portable 2TB         | 1        | 1.72%   |
 | Samsung HD203WI 2TB             | 1        | 1.72%   |
 | Kingston SA400S37240G 240GB SSD | 1        | 1.72%   |
 
@@ -831,11 +831,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 17       | 32     | 50%     |
-| 0.51-1.0   | 11       | 12     | 32.35%  |
-| 1.01-2.0   | 4        | 17     | 11.76%  |
-| 3.01-4.0   | 1        | 1      | 2.94%   |
-| 4.01-10.0  | 1        | 1      | 2.94%   |
+| 0.01-0.5   | 17       | 32     | 51.52%  |
+| 0.51-1.0   | 10       | 11     | 30.3%   |
+| 1.01-2.0   | 4        | 18     | 12.12%  |
+| 3.01-4.0   | 1        | 1      | 3.03%   |
+| 4.01-10.0  | 1        | 1      | 3.03%   |
 
 Space Total
 -----------
@@ -1291,16 +1291,16 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Samsung Electronics  | 6        | 25%     |
-| Goldstar             | 4        | 16.67%  |
-| Dell                 | 3        | 12.5%   |
-| AOC                  | 3        | 12.5%   |
-| Ancor Communications | 3        | 12.5%   |
-| ViewSonic            | 1        | 4.17%   |
-| Philips              | 1        | 4.17%   |
-| MSI                  | 1        | 4.17%   |
-| LG Electronics       | 1        | 4.17%   |
-| Hewlett-Packard      | 1        | 4.17%   |
+| Samsung Electronics  | 6        | 26.09%  |
+| Goldstar             | 3        | 13.04%  |
+| Dell                 | 3        | 13.04%  |
+| AOC                  | 3        | 13.04%  |
+| Ancor Communications | 3        | 13.04%  |
+| ViewSonic            | 1        | 4.35%   |
+| Philips              | 1        | 4.35%   |
+| MSI                  | 1        | 4.35%   |
+| LG Electronics       | 1        | 4.35%   |
+| Hewlett-Packard      | 1        | 4.35%   |
 
 Monitor Model
 -------------
@@ -1312,29 +1312,28 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 8.33%   |
-| ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch               | 1        | 4.17%   |
-| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1        | 4.17%   |
-| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch   | 1        | 4.17%   |
-| Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch    | 1        | 4.17%   |
-| Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch | 1        | 4.17%   |
-| Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch              | 1        | 4.17%   |
-| MSI G27C5 MSI3CA9 1920x1080 598x336mm 27.0-inch                      | 1        | 4.17%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                    | 1        | 4.17%   |
-| Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 4.17%   |
-| Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.17%   |
-| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch             | 1        | 4.17%   |
-| Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.17%   |
-| Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.17%   |
-| Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                  | 1        | 4.17%   |
-| Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.17%   |
-| Dell LCD Monitor U2412M                                              | 1        | 4.17%   |
-| AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.17%   |
-| AOC LCD Monitor 24B2W1                                               | 1        | 4.17%   |
-| AOC 24G1WG4 AOC2401 1920x1080 521x293mm 23.5-inch                    | 1        | 4.17%   |
-| Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.17%   |
-| Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.17%   |
-| Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.17%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 8.7%    |
+| ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch               | 1        | 4.35%   |
+| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1        | 4.35%   |
+| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch   | 1        | 4.35%   |
+| Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch    | 1        | 4.35%   |
+| Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch | 1        | 4.35%   |
+| Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch              | 1        | 4.35%   |
+| MSI G27C4 MSI3CA9 1920x1080 598x336mm 27.0-inch                      | 1        | 4.35%   |
+| LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                    | 1        | 4.35%   |
+| Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 4.35%   |
+| Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch             | 1        | 4.35%   |
+| Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                 | 1        | 4.35%   |
+| Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                 | 1        | 4.35%   |
+| Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                  | 1        | 4.35%   |
+| Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                     | 1        | 4.35%   |
+| Dell LCD Monitor U2412M                                              | 1        | 4.35%   |
+| AOC LCD Monitor 2757 1920x1080                                       | 1        | 4.35%   |
+| AOC LCD Monitor 24B2W1                                               | 1        | 4.35%   |
+| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1        | 4.35%   |
+| Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 4.35%   |
+| Ancor Communications LCD Monitor ROG PG278Q 4480x1440                | 1        | 4.35%   |
+| Ancor Communications LCD Monitor MG248 1920x1080                     | 1        | 4.35%   |
 
 Monitor Resolution
 ------------------
@@ -1346,15 +1345,15 @@ Monitor screen resolution
 
 | Resolution       | Desktops | Percent |
 |------------------|----------|---------|
-| 1920x1080 (FHD)  | 10       | 45.45%  |
-| 2560x1440 (QHD)  | 3        | 13.64%  |
-| 1600x900 (HD+)   | 2        | 9.09%   |
-| Unknown          | 2        | 9.09%   |
-| 4480x1440        | 1        | 4.55%   |
-| 3440x1440        | 1        | 4.55%   |
-| 1366x768 (WXGA)  | 1        | 4.55%   |
-| 1280x1024 (SXGA) | 1        | 4.55%   |
-| 1152x864         | 1        | 4.55%   |
+| 1920x1080 (FHD)  | 10       | 47.62%  |
+| 2560x1440 (QHD)  | 2        | 9.52%   |
+| 1600x900 (HD+)   | 2        | 9.52%   |
+| Unknown          | 2        | 9.52%   |
+| 4480x1440        | 1        | 4.76%   |
+| 3440x1440        | 1        | 4.76%   |
+| 1366x768 (WXGA)  | 1        | 4.76%   |
+| 1280x1024 (SXGA) | 1        | 4.76%   |
+| 1152x864         | 1        | 4.76%   |
 
 Monitor Diagonal
 ----------------
@@ -1366,16 +1365,16 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 5        | 22.73%  |
-| 27      | 4        | 18.18%  |
-| 21      | 3        | 13.64%  |
-| 40      | 2        | 9.09%   |
-| 23      | 2        | 9.09%   |
-| 20      | 2        | 9.09%   |
-| 34      | 1        | 4.55%   |
-| 24      | 1        | 4.55%   |
-| 19      | 1        | 4.55%   |
-| 15      | 1        | 4.55%   |
+| Unknown | 5        | 23.81%  |
+| 27      | 3        | 14.29%  |
+| 21      | 3        | 14.29%  |
+| 40      | 2        | 9.52%   |
+| 23      | 2        | 9.52%   |
+| 20      | 2        | 9.52%   |
+| 34      | 1        | 4.76%   |
+| 24      | 1        | 4.76%   |
+| 19      | 1        | 4.76%   |
+| 15      | 1        | 4.76%   |
 
 Monitor Width
 -------------
@@ -1387,14 +1386,14 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 6        | 27.27%  |
-| 401-500     | 5        | 22.73%  |
-| Unknown     | 5        | 22.73%  |
-| 801-900     | 2        | 9.09%   |
-| 701-800     | 1        | 4.55%   |
-| 601-700     | 1        | 4.55%   |
-| 351-400     | 1        | 4.55%   |
-| 301-350     | 1        | 4.55%   |
+| 501-600     | 5        | 23.81%  |
+| 401-500     | 5        | 23.81%  |
+| Unknown     | 5        | 23.81%  |
+| 801-900     | 2        | 9.52%   |
+| 701-800     | 1        | 4.76%   |
+| 601-700     | 1        | 4.76%   |
+| 351-400     | 1        | 4.76%   |
+| 301-350     | 1        | 4.76%   |
 
 Aspect Ratio
 ------------
@@ -1406,12 +1405,12 @@ Proportional relationship between the width and the height
 
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
-| 16/9    | 11       | 55%     |
-| Unknown | 5        | 25%     |
-| 6/5     | 1        | 5%      |
-| 4/3     | 1        | 5%      |
-| 21/9    | 1        | 5%      |
-| 16/10   | 1        | 5%      |
+| 16/9    | 10       | 52.63%  |
+| Unknown | 5        | 26.32%  |
+| 6/5     | 1        | 5.26%   |
+| 4/3     | 1        | 5.26%   |
+| 21/9    | 1        | 5.26%   |
+| 16/10   | 1        | 5.26%   |
 
 Monitor Area
 ------------
@@ -1423,14 +1422,14 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 5        | 22.73%  |
-| Unknown        | 5        | 22.73%  |
-| 301-350        | 4        | 18.18%  |
-| 151-200        | 3        | 13.64%  |
-| 501-1000       | 2        | 9.09%   |
-| 351-500        | 1        | 4.55%   |
-| 251-300        | 1        | 4.55%   |
-| 111-120        | 1        | 4.55%   |
+| 201-250        | 5        | 23.81%  |
+| Unknown        | 5        | 23.81%  |
+| 301-350        | 3        | 14.29%  |
+| 151-200        | 3        | 14.29%  |
+| 501-1000       | 2        | 9.52%   |
+| 351-500        | 1        | 4.76%   |
+| 251-300        | 1        | 4.76%   |
+| 111-120        | 1        | 4.76%   |
 
 Pixel Density
 -------------
@@ -1442,9 +1441,9 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 11       | 50%     |
-| 101-120 | 6        | 27.27%  |
-| Unknown | 5        | 22.73%  |
+| 51-100  | 11       | 52.38%  |
+| 101-120 | 5        | 23.81%  |
+| Unknown | 5        | 23.81%  |
 
 Multiple Monitors
 -----------------
@@ -1701,7 +1700,7 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 2.22%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 2.22%   |
 | Creative Technology SB X-Fi Surround 5.1 Pro                               | 1        | 2.22%   |
-| C-Media Electronics Headshot Melody GEN 2                                  | 1        | 2.22%   |
+| C-Media Electronics H710                                                   | 1        | 2.22%   |
 | Blue Microphones Yeti Nano                                                 | 1        | 2.22%   |
 | AMD Tahiti HDMI Audio [Radeon HD 7870 XT / 7950/7970]                      | 1        | 2.22%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 2.22%   |

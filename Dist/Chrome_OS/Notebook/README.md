@@ -686,8 +686,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 28        | 63.64%  |
-| Yes       | 16        | 36.36%  |
+| No        | 27        | 61.36%  |
+| Yes       | 17        | 38.64%  |
 
 Has Ethernet
 ------------
@@ -870,7 +870,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 240GB                   | 1         | 1.96%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -966,7 +966,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 32     | 100%    |
+| 0.01-0.5   | 26        | 31     | 96.3%   |
+| 0.51-1.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -2083,7 +2084,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB Camera                                  | 6         | 18.18%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.18%  |
 | Lenovo UVC Camera                                       | 3         | 9.09%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.06%   |
 | Lite-On Integrated Camera                               | 2         | 6.06%   |
@@ -2092,9 +2093,9 @@ Camera device models
 | Suyin HP Truevision HD                                  | 1         | 3.03%   |
 | Suyin HD Video WebCam                                   | 1         | 3.03%   |
 | Sunplus HD WebCam                                       | 1         | 3.03%   |
+| Realtek USB2.0-Camera                                   | 1         | 3.03%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.03%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.03%   |
-| Realtek 2SF022                                          | 1         | 3.03%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.03%   |
 | Microdia HP Webcam                                      | 1         | 3.03%   |
 | Importek HP Webcam                                      | 1         | 3.03%   |
@@ -2178,9 +2179,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 23        | 52.27%  |
+| 0     | 21        | 47.73%  |
 | 1     | 17        | 38.64%  |
-| 2     | 4         | 9.09%   |
+| 2     | 6         | 13.64%  |
 
 Unsupported Device Types
 ------------------------
@@ -2192,13 +2193,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 25%     |
-| Fingerprint reader       | 5         | 20.83%  |
-| Graphics card            | 4         | 16.67%  |
-| Chipcard                 | 3         | 12.5%   |
-| Storage                  | 2         | 8.33%   |
-| Storage/ide              | 1         | 4.17%   |
-| Net/wireless             | 1         | 4.17%   |
-| Modem                    | 1         | 4.17%   |
-| Communication controller | 1         | 4.17%   |
+| Graphics card            | 8         | 28.57%  |
+| Multimedia controller    | 6         | 21.43%  |
+| Fingerprint reader       | 5         | 17.86%  |
+| Chipcard                 | 3         | 10.71%  |
+| Storage                  | 2         | 7.14%   |
+| Storage/ide              | 1         | 3.57%   |
+| Net/wireless             | 1         | 3.57%   |
+| Modem                    | 1         | 3.57%   |
+| Communication controller | 1         | 3.57%   |
 

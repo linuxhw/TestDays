@@ -973,16 +973,15 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 28       | 42     | 37.84%  |
-| WDC                 | 26       | 42     | 35.14%  |
-| Samsung Electronics | 7        | 14     | 9.46%   |
-| Toshiba             | 4        | 4      | 5.41%   |
-| Hitachi             | 4        | 6      | 5.41%   |
-| Unknown             | 1        | 1      | 1.35%   |
-| JMicron Technology  | 1        | 1      | 1.35%   |
-| HGST HTS            | 1        | 1      | 1.35%   |
-| HGST                | 1        | 1      | 1.35%   |
-| Fujitsu             | 1        | 1      | 1.35%   |
+| Seagate             | 28       | 42     | 38.36%  |
+| WDC                 | 26       | 42     | 35.62%  |
+| Samsung Electronics | 7        | 14     | 9.59%   |
+| Toshiba             | 4        | 4      | 5.48%   |
+| Hitachi             | 4        | 6      | 5.48%   |
+| Unknown             | 1        | 1      | 1.37%   |
+| HGST HTS            | 1        | 1      | 1.37%   |
+| HGST                | 1        | 1      | 1.37%   |
+| Fujitsu             | 1        | 1      | 1.37%   |
 
 SSD Vendor
 ----------
@@ -994,18 +993,19 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 21     | 26.53%  |
-| WDC                 | 8        | 9      | 16.33%  |
-| Kingston            | 8        | 10     | 16.33%  |
-| SanDisk             | 5        | 6      | 10.2%   |
-| A-DATA Technology   | 4        | 4      | 8.16%   |
-| Crucial             | 3        | 4      | 6.12%   |
-| Toshiba             | 2        | 2      | 4.08%   |
-| Intel               | 2        | 2      | 4.08%   |
-| TO Exter            | 1        | 1      | 2.04%   |
-| Micron Technology   | 1        | 2      | 2.04%   |
-| Inateck             | 1        | 1      | 2.04%   |
-| Apacer              | 1        | 3      | 2.04%   |
+| Samsung Electronics | 13       | 21     | 26%     |
+| WDC                 | 8        | 9      | 16%     |
+| Kingston            | 8        | 10     | 16%     |
+| SanDisk             | 5        | 6      | 10%     |
+| A-DATA Technology   | 4        | 4      | 8%      |
+| Crucial             | 3        | 4      | 6%      |
+| Toshiba             | 2        | 2      | 4%      |
+| Intel               | 2        | 2      | 4%      |
+| TO Exter            | 1        | 1      | 2%      |
+| Micron Technology   | 1        | 2      | 2%      |
+| JMicron Technology  | 1        | 1      | 2%      |
+| Inateck             | 1        | 1      | 2%      |
+| Apacer              | 1        | 3      | 2%      |
 
 Drive Kind
 ----------
@@ -1017,8 +1017,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 54       | 113    | 46.96%  |
-| SSD     | 41       | 65     | 35.65%  |
+| HDD     | 54       | 112    | 46.96%  |
+| SSD     | 41       | 66     | 35.65%  |
 | NVMe    | 19       | 29     | 16.52%  |
 | Unknown | 1        | 1      | 0.87%   |
 
@@ -1046,13 +1046,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 42       | 76     | 39.62%  |
-| 0.51-1.0   | 36       | 61     | 33.96%  |
-| 1.01-2.0   | 18       | 24     | 16.98%  |
-| 3.01-4.0   | 4        | 9      | 3.77%   |
-| 2.01-3.0   | 3        | 3      | 2.83%   |
-| 10.01-20.0 | 2        | 3      | 1.89%   |
-| 4.01-10.0  | 1        | 2      | 0.94%   |
+| 0.01-0.5   | 42       | 75     | 39.25%  |
+| 0.51-1.0   | 37       | 62     | 34.58%  |
+| 1.01-2.0   | 18       | 24     | 16.82%  |
+| 3.01-4.0   | 4        | 9      | 3.74%   |
+| 2.01-3.0   | 3        | 3      | 2.8%    |
+| 10.01-20.0 | 2        | 3      | 1.87%   |
+| 4.01-10.0  | 1        | 2      | 0.93%   |
 
 Space Total
 -----------
@@ -1261,7 +1261,7 @@ Storage controller models
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                           | 1        | 0.78%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1        | 0.78%   |
 | Micron/Crucial P1 NVMe PCIe SSD                                                | 1        | 0.78%   |
-| Micron/Crucial Non-Volatile memory controller                                  | 1        | 0.78%   |
+| Micron/Crucial NVMe Storage Controller                                         | 1        | 0.78%   |
 | Marvell Group 88SE912x SATA 6Gb/s Controller [IDE mode]                        | 1        | 0.78%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo          | 1        | 0.78%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller                        | 1        | 0.78%   |
@@ -1682,11 +1682,11 @@ Monitor models
 | ViewSonic VX3211-2K VSCF634 2560x1440 700x390mm 31.5-inch            | 2        | 2.41%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 2.41%   |
 | Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch               | 2        | 2.41%   |
-| Vizio E43-E2 VIZ1018 3840x2160 1209x680mm 54.6-inch                  | 1        | 1.2%    |
+| Vizio E55u-D2 VIZ1018 3840x2160 1209x680mm 54.6-inch                 | 1        | 1.2%    |
 | TCL LCD TV TCL0030 1920x1080 708x398mm 32.0-inch                     | 1        | 1.2%    |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch    | 1        | 1.2%    |
 | Samsung Electronics T27B300 SAM0933 1920x1080 598x336mm 27.0-inch    | 1        | 1.2%    |
-| Samsung Electronics SyncMaster SAM0524 1920x1080 480x270mm 21.7-inch | 1        | 1.2%    |
+| Samsung Electronics SyncMaster SAM0524 1920x1080 477x268mm 21.5-inch | 1        | 1.2%    |
 | Samsung Electronics SyncMaster SAM027F 1680x1050 474x296mm 22.0-inch | 1        | 1.2%    |
 | Samsung Electronics SyncMaster SAM00A2 1024x768 304x228mm 15.0-inch  | 1        | 1.2%    |
 | Samsung Electronics SMS27A850T SAM0887 2560x1440 518x324mm 24.1-inch | 1        | 1.2%    |
@@ -1707,13 +1707,13 @@ Monitor models
 | Iiyama PL2592H IVM6135 1920x1080 544x303mm 24.5-inch                 | 1        | 1.2%    |
 | Hitachi X90W D-sub HIT6008 1440x900 410x257mm 19.1-inch              | 1        | 1.2%    |
 | Hewlett-Packard LCD Monitor HWP285A 1920x1080 470x270mm 21.3-inch    | 1        | 1.2%    |
-| Hewlett-Packard 27fh HPN354A 1920x1080 598x336mm 27.0-inch           | 1        | 1.2%    |
+| Hewlett-Packard 27fw HPN354A 1920x1080 598x336mm 27.0-inch           | 1        | 1.2%    |
 | Hewlett-Packard 27er HWP3326 1920x1080 598x336mm 27.0-inch           | 1        | 1.2%    |
 | Hewlett-Packard 22m HPN3576 1920x1080 476x268mm 21.5-inch            | 1        | 1.2%    |
 | Hewlett-Packard 2229h HWP2854 1680x1050 473x296mm 22.0-inch          | 1        | 1.2%    |
 | Goldstar W2443 GSM571C 1920x1080 510x290mm 23.1-inch                 | 1        | 1.2%    |
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                 | 1        | 1.2%    |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 1.2%    |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1        | 1.2%    |
 | Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                 | 1        | 1.2%    |
 | Goldstar M2380D GSM57BC 1920x1080 598x336mm 27.0-inch                | 1        | 1.2%    |
 | Goldstar L1718S GSM443C 1280x1024 338x270mm 17.0-inch                | 1        | 1.2%    |
@@ -2006,7 +2006,7 @@ Wireless models
 | Intel Tiger Lake PCH CNVi WiFi                                             | 1        | 2.78%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                           | 1        | 2.78%   |
 | Intel Comet Lake PCH CNVi WiFi                                             | 1        | 2.78%   |
-| Edimax AC1200 MU-MIMO USB2.0 Adapter                                       | 1        | 2.78%   |
+| Edimax EW-7822ULC 802.11ac Wireless Adapter [Realtek RTL8812AU]            | 1        | 2.78%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W] | 1        | 2.78%   |
 | Broadcom Limited BCM4352 802.11ac Wireless Network Adapter                 | 1        | 2.78%   |
 | Broadcom BCM43142 802.11b/g/n                                              | 1        | 2.78%   |
@@ -2188,18 +2188,18 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart/snd_vendor.svg)
 
 
-| Vendor                    | Desktops | Percent |
-|---------------------------|----------|---------|
-| AMD                       | 37       | 30.58%  |
-| Intel                     | 36       | 29.75%  |
-| Nvidia                    | 35       | 28.93%  |
-| C-Media Electronics       | 5        | 4.13%   |
-| Creative Labs             | 3        | 2.48%   |
-| Texas Instruments         | 1        | 0.83%   |
-| Sennheiser Communications | 1        | 0.83%   |
-| M2Tech                    | 1        | 0.83%   |
-| BEHRINGER International   | 1        | 0.83%   |
-| ASUSTek Computer          | 1        | 0.83%   |
+| Vendor                  | Desktops | Percent |
+|-------------------------|----------|---------|
+| AMD                     | 37       | 30.58%  |
+| Intel                   | 36       | 29.75%  |
+| Nvidia                  | 35       | 28.93%  |
+| C-Media Electronics     | 5        | 4.13%   |
+| Creative Labs           | 3        | 2.48%   |
+| Texas Instruments       | 1        | 0.83%   |
+| M2Tech                  | 1        | 0.83%   |
+| DSEA A/S                | 1        | 0.83%   |
+| BEHRINGER International | 1        | 0.83%   |
+| ASUSTek Computer        | 1        | 0.83%   |
 
 Sound Model
 -----------
@@ -2234,8 +2234,8 @@ Sound card models
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 2        | 1.47%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 2        | 1.47%   |
 | Nvidia GF108 High Definition Audio Controller                              | 2        | 1.47%   |
+| Intel Smart Sound Technology (SST) Audio Controller                        | 2        | 1.47%   |
 | Intel C610/X99 series chipset HD Audio Controller                          | 2        | 1.47%   |
-| Intel Audio device                                                         | 2        | 1.47%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 2        | 1.47%   |
 | C-Media Electronics CMI8738/CMI8768 PCI Audio                              | 2        | 1.47%   |
 | C-Media Electronics CM108 Audio Controller                                 | 2        | 1.47%   |
@@ -2245,12 +2245,12 @@ Sound card models
 | AMD Family 17h/19h HD Audio Controller                                     | 2        | 1.47%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 2        | 1.47%   |
 | Texas Instruments PCM2900C Audio CODEC                                     | 1        | 0.74%   |
-| Sennheiser Communications Sennheiser 3D G4ME1                              | 1        | 0.74%   |
 | Nvidia TU116 High Definition Audio Controller                              | 1        | 0.74%   |
 | Nvidia TU106 High Definition Audio Controller                              | 1        | 0.74%   |
 | Nvidia MCP61 High Definition Audio                                         | 1        | 0.74%   |
 | Nvidia GT216 HDMI Audio Controller                                         | 1        | 0.74%   |
 | Nvidia GP104 High Definition Audio Controller                              | 1        | 0.74%   |
+| Nvidia GP102 HDMI Audio Controller                                         | 1        | 0.74%   |
 
 Memory
 ------
@@ -2302,7 +2302,7 @@ Memory module models
 | Samsung RAM M471B5673FH0-CH9 2GB DIMM DDR3 4199MT/s        | 1        | 1.89%   |
 | Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s       | 1        | 1.89%   |
 | Samsung RAM M393A1G40DB0-CPB 8GB DIMM DDR4 2133MT/s        | 1        | 1.89%   |
-| Samsung RAM M378B1G73EB0-YK0 8192MB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s        | 1        | 1.89%   |
 | Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 3466MT/s       | 1        | 1.89%   |
 | Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s        | 1        | 1.89%   |
 | Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s            | 1        | 1.89%   |
@@ -2311,16 +2311,16 @@ Memory module models
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 1.89%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 1.89%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s        | 1        | 1.89%   |
-| Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
+| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s       | 1        | 1.89%   |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s      | 1        | 1.89%   |
 | Kingston RAM 99U5471-040.A00LF 8GB DIMM DDR3               | 1        | 1.89%   |
 | Kingston RAM 9965698-001.A00G 16GB DIMM DDR4 2667MT/s      | 1        | 1.89%   |
-| Kingston RAM 9905474-012.A00LF 2048MB DIMM DDR3 1333MT/s   | 1        | 1.89%   |
+| Kingston RAM 9905474-012.A00LF 2GB DIMM DDR3 1333MT/s      | 1        | 1.89%   |
 | Kingston RAM 9905471-028.A00LF 4096MB DIMM DDR3 1333MT/s   | 1        | 1.89%   |
 | GeIL RAM CL11-11-11 D3-1600 8GB DIMM DDR3 1600MT/s         | 1        | 1.89%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s        | 1        | 1.89%   |
 | G.Skill RAM F4-3200C15-16GTZKY 16384MB DIMM DDR4 3200MT/s  | 1        | 1.89%   |
-| G.Skill RAM F4-2666C19-16GIS 16GB DIMM DDR4                | 1        | 1.89%   |
+| G.Skill RAM F4-2666C19-16GIS 16GB DIMM DDR4 2667MT/s       | 1        | 1.89%   |
 | G.Skill RAM F3-1600C11-4GNS 4GB DIMM DDR3 1600MT/s         | 1        | 1.89%   |
 | G.Skill RAM F3-10666CL9-4GBNT 4GB DIMM DDR3 1600MT/s       | 1        | 1.89%   |
 | Elpida RAM EBE11UD8AJWA-6E-E 1GB DIMM DDR2 667MT/s         | 1        | 1.89%   |

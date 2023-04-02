@@ -696,9 +696,9 @@ Motherboard manufacture year
 | 2011 | 10        | 8.47%   |
 | 2018 | 9         | 7.63%   |
 | 2019 | 8         | 6.78%   |
-| 2016 | 7         | 5.93%   |
+| 2016 | 6         | 5.08%   |
+| 2015 | 5         | 4.24%   |
 | 2010 | 5         | 4.24%   |
-| 2015 | 4         | 3.39%   |
 | 2014 | 4         | 3.39%   |
 | 2009 | 2         | 1.69%   |
 | 2007 | 2         | 1.69%   |
@@ -810,8 +810,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 87        | 73.73%  |
-| Yes       | 31        | 26.27%  |
+| No        | 86        | 72.27%  |
+| Yes       | 33        | 27.73%  |
 
 Has Ethernet
 ------------
@@ -1148,9 +1148,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 63        | 89     | 63%     |
-| 0.51-1.0   | 28        | 31     | 28%     |
-| 1.01-2.0   | 9         | 12     | 9%      |
+| 0.01-0.5   | 62        | 87     | 62%     |
+| 0.51-1.0   | 30        | 34     | 30%     |
+| 1.01-2.0   | 8         | 11     | 8%      |
 
 Space Total
 -----------
@@ -1355,7 +1355,7 @@ Storage controller models
 | Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                         | 5         | 3.05%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller            | 5         | 3.05%   |
 | Samsung NVMe SSD Controller 980                                                         | 4         | 2.44%   |
-| Intel Non-Volatile memory controller                                                    | 4         | 2.44%   |
+| Intel NVMe Controller                                                                   | 4         | 2.44%   |
 | Kingston Company Company Non-Volatile memory controller                                 | 3         | 1.83%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                                  | 3         | 1.83%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 3         | 1.83%   |
@@ -1363,7 +1363,7 @@ Storage controller models
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 2         | 1.22%   |
 | Samsung NVMe SSD Controller SM951/PM951                                                 | 2         | 1.22%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 2         | 1.22%   |
-| Micron Non-Volatile memory controller                                                   | 2         | 1.22%   |
+| Micron NVMe Storage Controller                                                          | 2         | 1.22%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 2         | 1.22%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 2         | 1.22%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                           | 2         | 1.22%   |
@@ -1376,7 +1376,7 @@ Storage controller models
 | SK hynix Gold P31/PC711 NVMe Solid State Drive                                          | 1         | 0.61%   |
 | Silicon Motion Non-Volatile memory controller                                           | 1         | 0.61%   |
 | SanDisk PC SN520 NVMe SSD                                                               | 1         | 0.61%   |
-| SanDisk Non-Volatile memory controller                                                  | 1         | 0.61%   |
+| SanDisk NVMe Controller                                                                 | 1         | 0.61%   |
 | Phison E12 NVMe Controller                                                              | 1         | 0.61%   |
 | Nvidia MCP89 SATA Controller (AHCI mode)                                                | 1         | 0.61%   |
 | Nvidia MCP89 SATA Controller                                                            | 1         | 0.61%   |
@@ -1394,9 +1394,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 68        | 47.55%  |
+| SATA | 67        | 46.85%  |
 | NVMe | 39        | 27.27%  |
-| RAID | 18        | 12.59%  |
+| RAID | 19        | 13.29%  |
 | IDE  | 18        | 12.59%  |
 
 Processor
@@ -1802,13 +1802,13 @@ Monitor models
 |-------------------------------------------------------------------------|-----------|---------|
 | InfoVision LCD Monitor IVO8584 1920x1080 294x165mm 13.3-inch            | 3         | 2.38%   |
 | AU Optronics LCD Monitor AUO2E8D 1920x1080 344x194mm 15.5-inch          | 3         | 2.38%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch              | 2         | 1.59%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch              | 2         | 1.59%   |
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch               | 1         | 0.79%   |
 | Unknown LCD Monitor SAMSUNG 3840x1080                                   | 1         | 0.79%   |
 | Unknown (AAA) LCDTV AAA0042 1360x768 890x500mm 40.2-inch                | 1         | 0.79%   |
 | Toshiba TV TSB0205 1360x765 886x498mm 40.0-inch                         | 1         | 0.79%   |
 | Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch                        | 1         | 0.79%   |
-| STD LCD Monitor STD0001 1920x1080                                       | 1         | 0.79%   |
+| STD LED STD0001 1920x1080 480x260mm 21.5-inch                           | 1         | 0.79%   |
 | Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch    | 1         | 0.79%   |
 | Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch     | 1         | 0.79%   |
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch       | 1         | 0.79%   |
@@ -1824,7 +1824,7 @@ Monitor models
 | Plain Tree Systems Monitor PTS0899 1680x1050 474x296mm 22.0-inch        | 1         | 0.79%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch                | 1         | 0.79%   |
 | PANDA LCD Monitor NCP004B 1920x1080 344x194mm 15.5-inch                 | 1         | 0.79%   |
-| Panasonic VVX14P048M00 MEI96A2 3000x2000 285x190mm 13.5-inch            | 1         | 0.79%   |
+| Panasonic VVX16T029D00 MEI96A2 2880x1620 344x193mm 15.5-inch            | 1         | 0.79%   |
 | ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                     | 1         | 0.79%   |
 | NEC Computers EA243WM NEC6864 1920x1200 519x324mm 24.1-inch             | 1         | 0.79%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch             | 1         | 0.79%   |
@@ -2165,8 +2165,8 @@ Wireless models
 | Intel Cannon Point-LP CNVi [Wireless-AC]                   | 2         | 1.45%   |
 | Broadcom BCM43224 802.11a/b/g/n                            | 2         | 1.45%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1         | 0.72%   |
+| TP-Link Archer T4U ver.3                                   | 1         | 0.72%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1         | 0.72%   |
-| TP-Link 802.11ac NIC                                       | 1         | 0.72%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                         | 1         | 0.72%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter   | 1         | 0.72%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter            | 1         | 0.72%   |
@@ -2228,8 +2228,8 @@ Ethernet models
 | Nvidia MCP89 Ethernet                                             | 1         | 0.93%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 0.93%   |
 | Nvidia MCP61 Ethernet                                             | 1         | 0.93%   |
-| MediaTek moto e(6) plus                                           | 1         | 0.93%   |
-| MediaTek Armor 8 Pro                                              | 1         | 0.93%   |
+| MediaTek U318AA                                                   | 1         | 0.93%   |
+| MediaTek KINGKONG_MINI                                            | 1         | 0.93%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 0.93%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 0.93%   |
 | Intel Ethernet Connection I217-V                                  | 1         | 0.93%   |
@@ -2240,7 +2240,7 @@ Ethernet models
 | Intel 82583V Gigabit Network Connection                           | 1         | 0.93%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 0.93%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 0.93%   |
-| ICS Advent 10/100M LAN                                            | 1         | 0.93%   |
+| ICS Advent USB 10/100 LAN                                         | 1         | 0.93%   |
 | Huawei Ideos (tethering mode)                                     | 1         | 0.93%   |
 | DisplayLink USB3.0 UHD Dual Video Dock                            | 1         | 0.93%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 0.93%   |
@@ -2359,7 +2359,7 @@ Controller models
 | Toshiba Bluetooth USB Host Controller                                               | 1         | 1.19%   |
 | Toshiba BCM43142A0                                                                  | 1         | 1.19%   |
 | Toshiba Atheros AR3012 Bluetooth                                                    | 1         | 1.19%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 1         | 1.19%   |
+| Realtek Bluetooth Radio                                                             | 1         | 1.19%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 1.19%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 1.19%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 1         | 1.19%   |
@@ -2691,6 +2691,7 @@ Camera device vendors
 | Syntek                                 | 2         | 2.3%    |
 | Luxvisions Innotech Limited            | 2         | 2.3%    |
 | Logitech                               | 2         | 2.3%    |
+| USB Camera                             | 1         | 1.15%   |
 | Teslong Camera                         | 1         | 1.15%   |
 | Suyin                                  | 1         | 1.15%   |
 | Silicon Motion                         | 1         | 1.15%   |
@@ -2700,7 +2701,6 @@ Camera device vendors
 | Lite-On Technology                     | 1         | 1.15%   |
 | Jieli Technology                       | 1         | 1.15%   |
 | Importek                               | 1         | 1.15%   |
-| icSpring                               | 1         | 1.15%   |
 | Goertek Electronics                    | 1         | 1.15%   |
 | Creative Technology                    | 1         | 1.15%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.15%   |
@@ -2728,14 +2728,15 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD      | 2         | 2.27%   |
 | Chicony Integrated Camera [ThinkPad] | 2         | 2.27%   |
 | Chicony HD User Facing               | 2         | 2.27%   |
-| Apple iPhone 5/5C/5S/6/SE            | 2         | 2.27%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X      | 2         | 2.27%   |
 | Apple Built-in iSight                | 2         | 2.27%   |
 | Acer SunplusIT Integrated Camera     | 2         | 2.27%   |
+| USB Camera USB Camera                | 1         | 1.14%   |
 | Teslong Camera                       | 1         | 1.14%   |
 | Syntek Lenovo EasyCamera             | 1         | 1.14%   |
 | Syntek Integrated Camera             | 1         | 1.14%   |
 | Suyin Acer CrystalEye Webcam         | 1         | 1.14%   |
-| Sunplus FHD Camera Microphone        | 1         | 1.14%   |
+| Sunplus WEMISS CM-A1                 | 1         | 1.14%   |
 | Silicon Motion WebCam SC-13HDL11939N | 1         | 1.14%   |
 | Ricoh HD Webcam                      | 1         | 1.14%   |
 | Realtek USB Camera                   | 1         | 1.14%   |
@@ -2755,7 +2756,6 @@ Camera device models
 | Microdia Laptop_Integrated_Webcam_HD | 1         | 1.14%   |
 | Microdia Laptop_Integrated_Webcam_2M | 1         | 1.14%   |
 | Microdia Integrated_Webcam_HD        | 1         | 1.14%   |
-| Microdia Integrated Webcam           | 1         | 1.14%   |
 
 Security
 --------
@@ -2787,7 +2787,7 @@ Fingerprint sensor models
 
 | Model                                                     | Computers | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| Unknown                                                   | 3         | 14.29%  |
+| Synaptics UWP WBDI                                        | 3         | 14.29%  |
 | Validity Sensors VFS495 Fingerprint Reader                | 2         | 9.52%   |
 | Synaptics  WBDI                                           | 2         | 9.52%   |
 | Synaptics  FS7604 Touch Fingerprint Sensor with PurePrint | 2         | 9.52%   |
@@ -2848,8 +2848,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 66        | 55%     |
-| 1     | 45        | 37.5%   |
+| 0     | 65        | 54.17%  |
+| 1     | 46        | 38.33%  |
 | 2     | 8         | 6.67%   |
 | 3     | 1         | 0.83%   |
 
@@ -2863,13 +2863,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 21        | 36.21%  |
-| Net/wireless             | 15        | 25.86%  |
-| Graphics card            | 8         | 13.79%  |
-| Chipcard                 | 6         | 10.34%  |
-| Multimedia controller    | 4         | 6.9%    |
-| Storage                  | 1         | 1.72%   |
-| Network                  | 1         | 1.72%   |
-| Communication controller | 1         | 1.72%   |
-| Bluetooth                | 1         | 1.72%   |
+| Fingerprint reader       | 21        | 35.59%  |
+| Net/wireless             | 15        | 25.42%  |
+| Graphics card            | 9         | 15.25%  |
+| Chipcard                 | 6         | 10.17%  |
+| Multimedia controller    | 4         | 6.78%   |
+| Storage                  | 1         | 1.69%   |
+| Network                  | 1         | 1.69%   |
+| Communication controller | 1         | 1.69%   |
+| Bluetooth                | 1         | 1.69%   |
 

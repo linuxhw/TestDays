@@ -573,8 +573,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 8        | 57.14%  |
-| No        | 6        | 42.86%  |
+| Yes       | 7        | 50%     |
+| No        | 7        | 50%     |
 
 Has Ethernet
 ------------
@@ -1250,7 +1250,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0D4B 1366x768 609x347mm 27.6-inch | 1        | 10%     |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch              | 1        | 10%     |
 | Hewlett-Packard V221 HWP3111 1920x1080 477x268mm 21.5-inch           | 1        | 10%     |
-| Grundig TV GRU4448 1920x1080                                         | 1        | 10%     |
+| Grundig WUXGA GRU4448 1920x1080                                      | 1        | 10%     |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                    | 1        | 10%     |
 | Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                  | 1        | 10%     |
 | Dell P2418HT DEL4113 1920x1080 527x296mm 23.8-inch                   | 1        | 10%     |
@@ -1646,26 +1646,26 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 1GB DIMM 400MT/s                      | 1        | 5.56%   |
-| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s             | 1        | 5.56%   |
-| SK hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s | 1        | 5.56%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s     | 1        | 5.56%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 5.56%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s   | 1        | 5.56%   |
-| Samsung RAM M378B5173DB0-CK0 4096MB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
-| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
-| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s     | 1        | 5.56%   |
-| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s   | 1        | 5.56%   |
-| Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
-| Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s     | 1        | 5.56%   |
-| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s       | 1        | 5.56%   |
-| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s       | 1        | 5.56%   |
-| Crucial RAM RM51264BA1339.16FR 4GB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
-| Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s     | 1        | 5.56%   |
-| A Force RAM 1GX64V160K 8GB DIMM DDR3 1600MT/s            | 1        | 5.56%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 1GB DIMM 400MT/s                    | 1        | 5.56%   |
+| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s           | 1        | 5.56%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s  | 1        | 5.56%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s   | 1        | 5.56%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s | 1        | 5.56%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 1        | 5.56%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 5.56%   |
+| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 5.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 1        | 5.56%   |
+| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
+| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s | 1        | 5.56%   |
+| Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
+| Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s   | 1        | 5.56%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s     | 1        | 5.56%   |
+| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s     | 1        | 5.56%   |
+| Crucial RAM RM51264BA1339.16FR 4GB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
+| Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
+| A Force RAM 1GX64V160K 8GB DIMM DDR3 1600MT/s          | 1        | 5.56%   |
 
 Memory Kind
 -----------

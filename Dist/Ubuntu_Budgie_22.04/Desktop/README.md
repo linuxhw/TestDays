@@ -738,7 +738,7 @@ Hard drive vendors
 | Seagate             | 11       | 17     | 20.75%  |
 | Samsung Electronics | 6        | 25     | 11.32%  |
 | WDC                 | 5        | 6      | 9.43%   |
-| Sandisk             | 5        | 6      | 9.43%   |
+| SanDisk             | 5        | 6      | 9.43%   |
 | Toshiba             | 3        | 3      | 5.66%   |
 | OCZ                 | 2        | 2      | 3.77%   |
 | Micron Technology   | 2        | 2      | 3.77%   |
@@ -768,48 +768,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Seagate ST1000LM048-2E7172 1TB     | 2        | 3.08%   |
-| SanDisk SDSSDA120G 120GB           | 2        | 3.08%   |
-| Samsung SSD 870 EVO 250GB          | 2        | 3.08%   |
-| Samsung SSD 850 PRO 256GB          | 2        | 3.08%   |
-| Zheino CHN-25SATAC3-120 120GB      | 1        | 1.54%   |
-| WDC WD5000LPVX-22V0TT0 500GB       | 1        | 1.54%   |
-| WDC WD40PURZ-85TTDY0 4TB           | 1        | 1.54%   |
-| WDC WD3200LPVX-22V0TT0 320GB       | 1        | 1.54%   |
-| WDC WD1600AAJS-60WAA0 160GB        | 1        | 1.54%   |
-| WDC WD10EARS-00Y5B1 1TB            | 1        | 1.54%   |
-| WDC WD10EADS-00M2B0 1TB            | 1        | 1.54%   |
-| Unknown SD/MMC/MS PRO 16GB         | 1        | 1.54%   |
-| Transcend TS128GMTE110S 128GB      | 1        | 1.54%   |
-| Toshiba MD04ACA400 4TB             | 1        | 1.54%   |
-| Toshiba HDWD240 4TB                | 1        | 1.54%   |
-| Toshiba HDWD220 2TB                | 1        | 1.54%   |
-| SPCC Solid State Disk 256GB        | 1        | 1.54%   |
-| SK hynix SC210 2.5 7MM 128GB SSD   | 1        | 1.54%   |
-| Seagate ST9500325AS 500GB          | 1        | 1.54%   |
-| Seagate ST8000VN0022-2EL112 8TB    | 1        | 1.54%   |
-| Seagate ST500LT012-1DG142 500GB    | 1        | 1.54%   |
-| Seagate ST380815AS 80GB            | 1        | 1.54%   |
-| Seagate ST3500418AS 500GB          | 1        | 1.54%   |
-| Seagate ST3500412AS 500GB          | 1        | 1.54%   |
-| Seagate ST3160815AS 160GB          | 1        | 1.54%   |
-| Seagate ST2000DM008-2FR102 2TB     | 1        | 1.54%   |
-| Seagate ST2000DM001-1ER164 2TB     | 1        | 1.54%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB | 1        | 1.54%   |
-| Seagate ST1000LM014-1EJ164 1TB     | 1        | 1.54%   |
-| Seagate ST1000DM010-2EP102 1TB     | 1        | 1.54%   |
-| Seagate ST1000DM003-1SB10C 1TB     | 1        | 1.54%   |
-| Seagate NVMe SSD Drive 500GB       | 1        | 1.54%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB | 1        | 1.54%   |
-| SanDisk NVMe SSD Drive 500GB       | 1        | 1.54%   |
-| SanDisk DF4032  32GB               | 1        | 1.54%   |
-| Samsung SSD 960 PRO 512GB          | 1        | 1.54%   |
-| Samsung SSD 850 EVO 500GB          | 1        | 1.54%   |
-| Samsung SSD 850 EVO 1TB            | 1        | 1.54%   |
-| Samsung SSD 840 EVO 250GB          | 1        | 1.54%   |
-| Samsung SSD 840 EVO 1TB            | 1        | 1.54%   |
+| Model                                | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| Seagate ST1000LM048-2E7172 1TB       | 2        | 3.08%   |
+| SanDisk SDSSDA120G 120GB             | 2        | 3.08%   |
+| Samsung SSD 870 EVO 250GB            | 2        | 3.08%   |
+| Samsung SSD 850 PRO 256GB            | 2        | 3.08%   |
+| Zheino CHN-25SATAC3-120 120GB        | 1        | 1.54%   |
+| WDC WD5000LPVX-22V0TT0 500GB         | 1        | 1.54%   |
+| WDC WD40PURZ-85TTDY0 4TB             | 1        | 1.54%   |
+| WDC WD3200LPVX-22V0TT0 320GB         | 1        | 1.54%   |
+| WDC WD1600AAJS-60WAA0 160GB          | 1        | 1.54%   |
+| WDC WD10EARS-00Y5B1 1TB              | 1        | 1.54%   |
+| WDC WD10EADS-00M2B0 1TB              | 1        | 1.54%   |
+| Unknown SD/MMC/MS PRO 64GB           | 1        | 1.54%   |
+| Transcend TS128GMTE110S 128GB        | 1        | 1.54%   |
+| Toshiba MD04ACA400 4TB               | 1        | 1.54%   |
+| Toshiba HDWD240 4TB                  | 1        | 1.54%   |
+| Toshiba HDWD220 2TB                  | 1        | 1.54%   |
+| SPCC Solid State Disk 256GB          | 1        | 1.54%   |
+| SK hynix SC210 2.5 7MM 128GB SSD     | 1        | 1.54%   |
+| Seagate ST9500325AS 500GB            | 1        | 1.54%   |
+| Seagate ST8000VN0022-2EL112 8TB      | 1        | 1.54%   |
+| Seagate ST500LT012-1DG142 500GB      | 1        | 1.54%   |
+| Seagate ST380815AS 80GB              | 1        | 1.54%   |
+| Seagate ST3500418AS 500GB            | 1        | 1.54%   |
+| Seagate ST3500412AS 500GB            | 1        | 1.54%   |
+| Seagate ST3160815AS 160GB            | 1        | 1.54%   |
+| Seagate ST2000DM008-2FR102 2TB       | 1        | 1.54%   |
+| Seagate ST2000DM001-1ER164 2TB       | 1        | 1.54%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB   | 1        | 1.54%   |
+| Seagate ST1000LM014-1EJ164 1TB       | 1        | 1.54%   |
+| Seagate ST1000DM010-2EP102 1TB       | 1        | 1.54%   |
+| Seagate ST1000DM003-1SB10C 1TB       | 1        | 1.54%   |
+| Seagate NVMe SSD Drive 500GB         | 1        | 1.54%   |
+| Sandisk WD Blue SN550 NVMe SSD 256GB | 1        | 1.54%   |
+| SanDisk NVMe SSD Drive 500GB         | 1        | 1.54%   |
+| SanDisk DF4032  32GB                 | 1        | 1.54%   |
+| Samsung SSD 960 PRO 512GB            | 1        | 1.54%   |
+| Samsung SSD 850 EVO 500GB            | 1        | 1.54%   |
+| Samsung SSD 850 EVO 1TB              | 1        | 1.54%   |
+| Samsung SSD 840 EVO 250GB            | 1        | 1.54%   |
+| Samsung SSD 840 EVO 1TB              | 1        | 1.54%   |
 
 HDD Vendor
 ----------
@@ -821,15 +821,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 11       | 16     | 44%     |
-| WDC                 | 5        | 6      | 20%     |
-| Toshiba             | 3        | 3      | 12%     |
-| Unknown             | 1        | 1      | 4%      |
-| Samsung Electronics | 1        | 2      | 4%      |
-| Maxtor              | 1        | 1      | 4%      |
-| JMicron Technology  | 1        | 1      | 4%      |
-| HGST                | 1        | 1      | 4%      |
-| ASMT109x            | 1        | 1      | 4%      |
+| Seagate             | 11       | 16     | 45.83%  |
+| WDC                 | 5        | 6      | 20.83%  |
+| Toshiba             | 3        | 3      | 12.5%   |
+| Unknown             | 1        | 1      | 4.17%   |
+| Samsung Electronics | 1        | 2      | 4.17%   |
+| Maxtor              | 1        | 1      | 4.17%   |
+| HGST                | 1        | 1      | 4.17%   |
+| ASMT109x            | 1        | 1      | 4.17%   |
 
 SSD Vendor
 ----------
@@ -841,19 +840,20 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 4        | 19     | 22.22%  |
-| SanDisk             | 2        | 2      | 11.11%  |
-| Crucial             | 2        | 2      | 11.11%  |
-| Zheino              | 1        | 1      | 5.56%   |
-| SPCC                | 1        | 1      | 5.56%   |
-| SK hynix            | 1        | 1      | 5.56%   |
-| PNY                 | 1        | 1      | 5.56%   |
-| OCZ                 | 1        | 1      | 5.56%   |
-| Mushkin             | 1        | 1      | 5.56%   |
-| Micron Technology   | 1        | 1      | 5.56%   |
-| Kingston            | 1        | 2      | 5.56%   |
-| China               | 1        | 1      | 5.56%   |
-| A-DATA Technology   | 1        | 1      | 5.56%   |
+| Samsung Electronics | 4        | 19     | 21.05%  |
+| SanDisk             | 2        | 2      | 10.53%  |
+| Crucial             | 2        | 2      | 10.53%  |
+| Zheino              | 1        | 1      | 5.26%   |
+| SPCC                | 1        | 1      | 5.26%   |
+| SK hynix            | 1        | 1      | 5.26%   |
+| PNY                 | 1        | 1      | 5.26%   |
+| OCZ                 | 1        | 1      | 5.26%   |
+| Mushkin             | 1        | 1      | 5.26%   |
+| Micron Technology   | 1        | 1      | 5.26%   |
+| Kingston            | 1        | 2      | 5.26%   |
+| JMicron Technology  | 1        | 1      | 5.26%   |
+| China               | 1        | 1      | 5.26%   |
+| A-DATA Technology   | 1        | 1      | 5.26%   |
 
 Drive Kind
 ----------
@@ -865,8 +865,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 17       | 32     | 38.64%  |
-| SSD  | 16       | 34     | 36.36%  |
+| HDD  | 17       | 31     | 38.64%  |
+| SSD  | 16       | 35     | 36.36%  |
 | NVMe | 10       | 14     | 22.73%  |
 | MMC  | 1        | 1      | 2.27%   |
 
@@ -1067,13 +1067,13 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                         | 2        | 3.85%   |
 | Transcend Non-Volatile memory controller                                       | 1        | 1.92%   |
 | Seagate Non-Volatile memory controller                                         | 1        | 1.92%   |
-| SanDisk WD Blue SN570 NVMe SSD                                                 | 1        | 1.92%   |
+| SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 1        | 1.92%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1        | 1.92%   |
 | Samsung NVMe SSD Controller 172X                                               | 1        | 1.92%   |
 | Phison PS5013 E13 NVMe Controller                                              | 1        | 1.92%   |
 | OCZ Group RD400/400A SSD                                                       | 1        | 1.92%   |
 | Nvidia MCP61 SATA Controller                                                   | 1        | 1.92%   |
-| Micron Non-Volatile memory controller                                          | 1        | 1.92%   |
+| Micron NVMe Storage Controller                                                 | 1        | 1.92%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 1        | 1.92%   |
 | Kingston Company A2000 NVMe SSD                                                | 1        | 1.92%   |
 | JMicron JMB363 SATA/IDE Controller                                             | 1        | 1.92%   |
@@ -1937,13 +1937,13 @@ Memory module models
 | Micron RAM 16JTF51264AZ-1G4D1 4GB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
 | Kingston RAM 9905584-032.A 4GB DIMM DDR3 1600MT/s      | 1        | 5.56%   |
 | Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
-| Elpida RAM EBJ20UF8BCF0-DJ-F 2GB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
+| Elpida RAM EBJ20UF8BCF0-DJ-F 2048MB DIMM DDR3 1333MT/s | 1        | 5.56%   |
 | Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s | 1        | 5.56%   |
 | Crucial RAM CT8G4DFD8213.C16FAD 8GB DIMM DDR4 2133MT/s | 1        | 5.56%   |
-| Crucial RAM CT51264BD160B.C16F 4GB DIMM 1600MT/s       | 1        | 5.56%   |
+| Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s  | 1        | 5.56%   |
 | Corsair RAM CMV8GX3M2A1333C9 4GB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
 | Corsair RAM CMV4GX3M1A1333C9 4GB DIMM DDR3 1600MT/s    | 1        | 5.56%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s            | 1        | 5.56%   |
+| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3600MT/s           | 1        | 5.56%   |
 
 Memory Kind
 -----------

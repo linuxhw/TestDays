@@ -1312,10 +1312,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 40       | 63.49%  |
-| NVMe | 15       | 23.81%  |
-| IDE  | 7        | 11.11%  |
-| RAID | 1        | 1.59%   |
+| SATA | 40       | 62.5%   |
+| NVMe | 15       | 23.44%  |
+| IDE  | 8        | 12.5%   |
+| RAID | 1        | 1.56%   |
 
 Processor
 ---------
@@ -1663,24 +1663,24 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Dell                 | 9        | 18%     |
-| Samsung Electronics  | 6        | 12%     |
-| Hewlett-Packard      | 6        | 12%     |
-| Acer                 | 5        | 10%     |
-| Philips              | 3        | 6%      |
-| Goldstar             | 3        | 6%      |
-| BenQ                 | 3        | 6%      |
-| Iiyama               | 2        | 4%      |
-| Fujitsu Siemens      | 2        | 4%      |
-| ASUSTek Computer     | 2        | 4%      |
-| Ancor Communications | 2        | 4%      |
-| Unknown              | 1        | 2%      |
-| Sceptre Tech         | 1        | 2%      |
-| Sceptre              | 1        | 2%      |
-| ONN                  | 1        | 2%      |
-| MSI                  | 1        | 2%      |
-| Lenovo               | 1        | 2%      |
-| FUN                  | 1        | 2%      |
+| Dell                 | 8        | 16.33%  |
+| Samsung Electronics  | 6        | 12.24%  |
+| Hewlett-Packard      | 6        | 12.24%  |
+| Acer                 | 5        | 10.2%   |
+| Philips              | 3        | 6.12%   |
+| Goldstar             | 3        | 6.12%   |
+| BenQ                 | 3        | 6.12%   |
+| Iiyama               | 2        | 4.08%   |
+| Fujitsu Siemens      | 2        | 4.08%   |
+| ASUSTek Computer     | 2        | 4.08%   |
+| Ancor Communications | 2        | 4.08%   |
+| Unknown              | 1        | 2.04%   |
+| Sceptre Tech         | 1        | 2.04%   |
+| Sceptre              | 1        | 2.04%   |
+| ONN                  | 1        | 2.04%   |
+| MSI                  | 1        | 2.04%   |
+| Lenovo               | 1        | 2.04%   |
+| FUN                  | 1        | 2.04%   |
 
 Monitor Model
 -------------
@@ -1692,46 +1692,46 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Unknown LCD Monitor ENV LCD2460 1920x1080                             | 1        | 1.82%   |
-| Sceptre Tech E24 SPT099D 1920x1080 521x293mm 23.5-inch                | 1        | 1.82%   |
-| Sceptre LCD Monitor E24 1920x1080                                     | 1        | 1.82%   |
-| Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch  | 1        | 1.82%   |
-| Samsung Electronics SA300/SA350 SAM07D2 1920x1080 477x268mm 21.5-inch | 1        | 1.82%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 1.82%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 1.82%   |
-| Samsung Electronics LCD Monitor SyncMaster 1680x1050                  | 1        | 1.82%   |
-| Samsung Electronics LCD Monitor SAM050C 1920x1080 886x498mm 40.0-inch | 1        | 1.82%   |
-| Samsung Electronics LCD Monitor C49HG9x 7680x1080                     | 1        | 1.82%   |
-| Samsung Electronics LCD Monitor C49HG9x                               | 1        | 1.82%   |
-| Philips PHL 271V8 PHLC213 1920x1080 598x336mm 27.0-inch               | 1        | 1.82%   |
-| Philips LCD Monitor 227E4LH 1920x1080                                 | 1        | 1.82%   |
-| Philips 220CW PHLC024 1680x1050 474x296mm 22.0-inch                   | 1        | 1.82%   |
-| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                   | 1        | 1.82%   |
-| MSI MAG341CQ MSI1462 3440x1440 797x334mm 34.0-inch                    | 1        | 1.82%   |
-| Lenovo LEN-510I-C LEN1201 1920x1080 476x268mm 21.5-inch               | 1        | 1.82%   |
-| Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                 | 1        | 1.82%   |
-| Iiyama PL2530H IVM6132 1920x1080 544x303mm 24.5-inch                  | 1        | 1.82%   |
-| Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                 | 1        | 1.82%   |
-| Hewlett-Packard Z24i G2 HPN3481 1920x1200 518x324mm 24.1-inch         | 1        | 1.82%   |
-| Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch           | 1        | 1.82%   |
-| Hewlett-Packard LCD Monitor Compaq W185q 1366x768                     | 1        | 1.82%   |
-| Hewlett-Packard E221c HWP3094 1920x1080 497x292mm 22.7-inch           | 1        | 1.82%   |
-| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch           | 1        | 1.82%   |
-| Hewlett-Packard 21kd HWP3329 1920x1080 458x258mm 20.7-inch            | 1        | 1.82%   |
-| Goldstar LG 32 FHD GSM7701 1920x1080 600x340mm 27.2-inch              | 1        | 1.82%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 1.82%   |
-| Goldstar 23MB35 GSM5A3E 1920x1080 510x290mm 23.1-inch                 | 1        | 1.82%   |
-| FUN HDMI Monitor FUN9D31 3840x2160 480x270mm 21.7-inch                | 1        | 1.82%   |
-| Fujitsu Siemens SL27T-1 LED FUS07E4 1920x1080 598x336mm 27.0-inch     | 1        | 1.82%   |
-| Fujitsu Siemens E19-06SA FUS0742 1280x1024 376x301mm 19.0-inch        | 1        | 1.82%   |
-| Dell U3818DW DELA0F4 3840x1600 880x367mm 37.5-inch                    | 1        | 1.82%   |
-| Dell U2913WM DEL4089 2560x1080 673x284mm 28.8-inch                    | 1        | 1.82%   |
-| Dell U2715H DELD065 2560x1440 597x336mm 27.0-inch                     | 1        | 1.82%   |
-| Dell U2713H DELA092 2560x1440 597x336mm 27.0-inch                     | 1        | 1.82%   |
-| Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                     | 1        | 1.82%   |
-| Dell U2415 DELA0B8 1920x1080 518x324mm 24.1-inch                      | 1        | 1.82%   |
-| Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                     | 1        | 1.82%   |
-| Dell P2418HZ DELD0AF 1920x1080 530x300mm 24.0-inch                    | 1        | 1.82%   |
+| Unknown LCD Monitor ENV LCD2460 1920x1080                             | 1        | 1.85%   |
+| Sceptre Tech E24 SPT099D 1920x1080 409x230mm 18.5-inch                | 1        | 1.85%   |
+| Sceptre LCD Monitor E24 1920x1080                                     | 1        | 1.85%   |
+| Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch  | 1        | 1.85%   |
+| Samsung Electronics SA300/SA350 SAM07D2 1920x1080 477x268mm 21.5-inch | 1        | 1.85%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 1.85%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 1.85%   |
+| Samsung Electronics LCD Monitor SyncMaster 1680x1050                  | 1        | 1.85%   |
+| Samsung Electronics LCD Monitor SAM050C 1920x1080 886x498mm 40.0-inch | 1        | 1.85%   |
+| Samsung Electronics LCD Monitor C49HG9x 7680x1080                     | 1        | 1.85%   |
+| Samsung Electronics LCD Monitor C49HG9x                               | 1        | 1.85%   |
+| Philips PHL 271V8 PHLC213 1920x1080 598x336mm 27.0-inch               | 1        | 1.85%   |
+| Philips LCD Monitor 227E4LH 1920x1080                                 | 1        | 1.85%   |
+| Philips 220CW PHLC024 1680x1050 474x296mm 22.0-inch                   | 1        | 1.85%   |
+| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                   | 1        | 1.85%   |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1        | 1.85%   |
+| Lenovo LEN-510I-C LEN1201 1920x1080 476x268mm 21.5-inch               | 1        | 1.85%   |
+| Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                 | 1        | 1.85%   |
+| Iiyama PL2530H IVM6132 1920x1080 544x303mm 24.5-inch                  | 1        | 1.85%   |
+| Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                 | 1        | 1.85%   |
+| Hewlett-Packard Z24i G2 HPN3481 1920x1200 518x324mm 24.1-inch         | 1        | 1.85%   |
+| Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch           | 1        | 1.85%   |
+| Hewlett-Packard LCD Monitor Compaq W185q 1366x768                     | 1        | 1.85%   |
+| Hewlett-Packard E221c HWP3094 1920x1080 497x292mm 22.7-inch           | 1        | 1.85%   |
+| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch           | 1        | 1.85%   |
+| Hewlett-Packard 21kd HWP3329 1920x1080 458x258mm 20.7-inch            | 1        | 1.85%   |
+| Goldstar LG 32 FHD GSM7701 1920x1080 600x340mm 27.2-inch              | 1        | 1.85%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 1.85%   |
+| Goldstar 23MB35 GSM5A3E 1920x1080 510x290mm 23.1-inch                 | 1        | 1.85%   |
+| FUN HDMI Monitor FUN9D31 3840x2160 480x270mm 21.7-inch                | 1        | 1.85%   |
+| Fujitsu Siemens SL27T-1 LED FUS07E4 1920x1080 598x336mm 27.0-inch     | 1        | 1.85%   |
+| Fujitsu Siemens E19-06SA FUS0742 1280x1024 376x301mm 19.0-inch        | 1        | 1.85%   |
+| Dell U3818DW DELA0F4 3840x1600 880x367mm 37.5-inch                    | 1        | 1.85%   |
+| Dell U2913WM DEL4089 2560x1080 673x284mm 28.8-inch                    | 1        | 1.85%   |
+| Dell U2715H DELD065 2560x1440 597x336mm 27.0-inch                     | 1        | 1.85%   |
+| Dell U2713H DELA092 2560x1440 597x336mm 27.0-inch                     | 1        | 1.85%   |
+| Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                     | 1        | 1.85%   |
+| Dell U2415 DELA0B8 1920x1080 518x324mm 24.1-inch                      | 1        | 1.85%   |
+| Dell P2418HZ DELD0AF 1920x1080 530x300mm 24.0-inch                    | 1        | 1.85%   |
+| Dell P2219H DELA115 1920x1080 476x267mm 21.5-inch                     | 1        | 1.85%   |
 
 Monitor Resolution
 ------------------
@@ -1743,18 +1743,18 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 25       | 51.02%  |
-| 1680x1050 (WSXGA+) | 4        | 8.16%   |
-| 3840x2160 (4K)     | 3        | 6.12%   |
-| 2560x1440 (QHD)    | 3        | 6.12%   |
-| 1920x1200 (WUXGA)  | 3        | 6.12%   |
-| 3440x1440          | 2        | 4.08%   |
-| 1366x768 (WXGA)    | 2        | 4.08%   |
-| 1280x1024 (SXGA)   | 2        | 4.08%   |
-| Unknown            | 2        | 4.08%   |
-| 7680x1080          | 1        | 2.04%   |
-| 3840x1600          | 1        | 2.04%   |
-| 2560x1080          | 1        | 2.04%   |
+| 1920x1080 (FHD)    | 25       | 52.08%  |
+| 1680x1050 (WSXGA+) | 4        | 8.33%   |
+| 3840x2160 (4K)     | 3        | 6.25%   |
+| 2560x1440 (QHD)    | 3        | 6.25%   |
+| 3440x1440          | 2        | 4.17%   |
+| 1920x1200 (WUXGA)  | 2        | 4.17%   |
+| 1366x768 (WXGA)    | 2        | 4.17%   |
+| 1280x1024 (SXGA)   | 2        | 4.17%   |
+| Unknown            | 2        | 4.17%   |
+| 7680x1080          | 1        | 2.08%   |
+| 3840x1600          | 1        | 2.08%   |
+| 2560x1080          | 1        | 2.08%   |
 
 Monitor Diagonal
 ----------------
@@ -1766,21 +1766,21 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 24      | 13       | 25%     |
-| Unknown | 9        | 17.31%  |
-| 27      | 6        | 11.54%  |
-| 21      | 6        | 11.54%  |
-| 23      | 4        | 7.69%   |
-| 22      | 4        | 7.69%   |
-| 34      | 2        | 3.85%   |
-| 40      | 1        | 1.92%   |
-| 37      | 1        | 1.92%   |
-| 31      | 1        | 1.92%   |
-| 28      | 1        | 1.92%   |
-| 25      | 1        | 1.92%   |
-| 20      | 1        | 1.92%   |
-| 19      | 1        | 1.92%   |
-| 17      | 1        | 1.92%   |
+| 24      | 12       | 23.53%  |
+| Unknown | 9        | 17.65%  |
+| 27      | 6        | 11.76%  |
+| 21      | 6        | 11.76%  |
+| 23      | 4        | 7.84%   |
+| 22      | 4        | 7.84%   |
+| 34      | 2        | 3.92%   |
+| 40      | 1        | 1.96%   |
+| 37      | 1        | 1.96%   |
+| 31      | 1        | 1.96%   |
+| 28      | 1        | 1.96%   |
+| 25      | 1        | 1.96%   |
+| 20      | 1        | 1.96%   |
+| 19      | 1        | 1.96%   |
+| 17      | 1        | 1.96%   |
 
 Monitor Width
 -------------
@@ -1792,14 +1792,14 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 22       | 43.14%  |
-| 401-500     | 11       | 21.57%  |
-| Unknown     | 9        | 17.65%  |
-| 601-700     | 3        | 5.88%   |
-| 801-900     | 2        | 3.92%   |
-| 701-800     | 2        | 3.92%   |
-| 351-400     | 1        | 1.96%   |
-| 301-350     | 1        | 1.96%   |
+| 501-600     | 21       | 42%     |
+| 401-500     | 11       | 22%     |
+| Unknown     | 9        | 18%     |
+| 601-700     | 3        | 6%      |
+| 801-900     | 2        | 4%      |
+| 701-800     | 2        | 4%      |
+| 351-400     | 1        | 2%      |
+| 301-350     | 1        | 2%      |
 
 Aspect Ratio
 ------------
@@ -1811,11 +1811,11 @@ Proportional relationship between the width and the height
 
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
-| 16/9    | 27       | 55.1%   |
-| Unknown | 9        | 18.37%  |
-| 16/10   | 7        | 14.29%  |
-| 21/9    | 4        | 8.16%   |
-| 5/4     | 2        | 4.08%   |
+| 16/9    | 27       | 56.25%  |
+| Unknown | 9        | 18.75%  |
+| 16/10   | 6        | 12.5%   |
+| 21/9    | 4        | 8.33%   |
+| 5/4     | 2        | 4.17%   |
 
 Monitor Area
 ------------
@@ -1827,14 +1827,14 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 19       | 38%     |
-| Unknown        | 9        | 18%     |
-| 251-300        | 8        | 16%     |
-| 301-350        | 6        | 12%     |
-| 351-500        | 3        | 6%      |
-| 151-200        | 2        | 4%      |
-| 501-1000       | 2        | 4%      |
-| 141-150        | 1        | 2%      |
+| 201-250        | 19       | 38.78%  |
+| Unknown        | 9        | 18.37%  |
+| 251-300        | 7        | 14.29%  |
+| 301-350        | 6        | 12.24%  |
+| 351-500        | 3        | 6.12%   |
+| 151-200        | 2        | 4.08%   |
+| 501-1000       | 2        | 4.08%   |
+| 141-150        | 1        | 2.04%   |
 
 Pixel Density
 -------------
@@ -1846,11 +1846,11 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 29       | 55.77%  |
-| 101-120 | 12       | 23.08%  |
-| Unknown | 9        | 17.31%  |
-| 161-240 | 1        | 1.92%   |
-| 121-160 | 1        | 1.92%   |
+| 51-100  | 28       | 54.9%   |
+| 101-120 | 12       | 23.53%  |
+| Unknown | 9        | 17.65%  |
+| 161-240 | 1        | 1.96%   |
+| 121-160 | 1        | 1.96%   |
 
 Multiple Monitors
 -----------------
@@ -1925,9 +1925,9 @@ Controller models
 | Ralink MT7601U Wireless Adapter                                         | 1        | 1.41%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                           | 1        | 1.41%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 1.41%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:019B7071                              | 1        | 1.41%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:D902E15D                              | 1        | 1.41%   |
 | Nvidia MCP61 Ethernet                                                   | 1        | 1.41%   |
-| MediaTek moto e(6) plus                                                 | 1        | 1.41%   |
+| MediaTek U318AA                                                         | 1        | 1.41%   |
 | Intel Wireless 7265                                                     | 1        | 1.41%   |
 | Intel Tiger Lake PCH CNVi WiFi                                          | 1        | 1.41%   |
 | Intel Ethernet Connection I218-V                                        | 1        | 1.41%   |
@@ -2024,7 +2024,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.92%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.92%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.92%   |
-| MediaTek moto e(6) plus                                           | 1        | 1.92%   |
+| MediaTek U318AA                                                   | 1        | 1.92%   |
 | Intel Ethernet Connection I218-V                                  | 1        | 1.92%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 1        | 1.92%   |
 | Broadcom NetXtreme BCM5780 Gigabit Ethernet                       | 1        | 1.92%   |
@@ -2142,7 +2142,6 @@ Sound card vendors
 | JMTek               | 4        | 4.6%    |
 | Logitech            | 3        | 3.45%   |
 | VIA Technologies    | 1        | 1.15%   |
-| Unknown             | 1        | 1.15%   |
 | SteelSeries ApS     | 1        | 1.15%   |
 | SAVITECH            | 1        | 1.15%   |
 | Fry's Electronics   | 1        | 1.15%   |
@@ -2151,6 +2150,7 @@ Sound card vendors
 | Creative Technology | 1        | 1.15%   |
 | Corsair             | 1        | 1.15%   |
 | Cambridge Audio     | 1        | 1.15%   |
+| ASRock              | 1        | 1.15%   |
 
 Sound Model
 -----------
@@ -2181,7 +2181,6 @@ Sound card models
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 2        | 1.92%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 2        | 1.92%   |
 | VIA Technologies ICE1712 [Envy24] PCI Multi-Channel I/O Controller         | 1        | 0.96%   |
-| Unknown USB Audio                                                          | 1        | 0.96%   |
 | SteelSeries ApS SteelSeries Arctis 7                                       | 1        | 0.96%   |
 | SAVITECH SA9023 audio controller                                           | 1        | 0.96%   |
 | Nvidia TU104 HD Audio Controller                                           | 1        | 0.96%   |
@@ -2202,6 +2201,7 @@ Sound card models
 | Intel Alder Lake-S HD Audio Controller                                     | 1        | 0.96%   |
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 1        | 0.96%   |
 | Intel 82801G (ICH7 Family) AC'97 Audio Controller                          | 1        | 0.96%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 1        | 0.96%   |
 
 Memory
 ------
@@ -2241,13 +2241,13 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR4 3200MT/s                | 1        | 2.94%   |
 | Unknown RAM Module 4GB DIMM 1333MT/s                     | 1        | 2.94%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 2.94%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s  | 1        | 2.94%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.94%   |
 | Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.94%   |
 | Samsung RAM M378B2873EH1-CF8 1GB DIMM DDR3 1067MT/s      | 1        | 2.94%   |
-| Patriot RAM PSD48G24002 8192MB DIMM DDR4 2400MT/s        | 1        | 2.94%   |
+| Patriot RAM PSD48G24002 8GB DIMM DDR4 2400MT/s           | 1        | 2.94%   |
 | Kingston RAM KHX3200C18D4/8G 8GB DIMM DDR4 3333MT/s      | 1        | 2.94%   |
 | Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s        | 1        | 2.94%   |
-| Kingston RAM KHX1600C10D3/8GX 8192MB DIMM DDR3 1600MT/s  | 1        | 2.94%   |
+| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s     | 1        | 2.94%   |
 | Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s      | 1        | 2.94%   |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.94%   |
 | Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 2.94%   |
@@ -2261,15 +2261,15 @@ Memory module models
 | Crucial RAM CT8G4DFS824A.M8FE 8GB DIMM DDR4 2933MT/s     | 1        | 2.94%   |
 | Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 3000MT/s     | 1        | 2.94%   |
 | Crucial RAM CT16G4DFD824A.M16FJ 16GB DIMM DDR4 2400MT/s  | 1        | 2.94%   |
-| Crucial RAM CT16G4DFD824A.M16FD 16GB DIMM DDR4 2400MT/s  | 1        | 2.94%   |
+| Crucial RAM CT16G4DFD824A.M16FD 16GB DIMM DDR4 3200MT/s  | 1        | 2.94%   |
 | Crucial RAM CT16G48C40U5.M8A1 16GB DIMM DDR5 4800MT/s    | 1        | 2.94%   |
 | Crucial RAM BL25664TN1608.16FF 2048MB DIMM DDR3 1333MT/s | 1        | 2.94%   |
-| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1867MT/s      | 1        | 2.94%   |
+| Corsair RAM CML8GX3M2A1600C9 4096MB DIMM DDR3 1867MT/s   | 1        | 2.94%   |
 | Corsair RAM CMK8GX4M1D3000C16 8GB DIMM DDR4 3200MT/s     | 1        | 2.94%   |
 | Corsair RAM CMK8GX4M1A2666C16 8GB DIMM DDR4 3000MT/s     | 1        | 2.94%   |
-| Avant RAM W641GU42J7240NC 8192MB DIMM DDR4 2400MT/s      | 1        | 2.94%   |
+| Avant RAM W641GU42J7240NC 8GB DIMM DDR4 2400MT/s         | 1        | 2.94%   |
 | A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s              | 1        | 2.94%   |
-| A-DATA RAM DDR4 2666 2OZ 8GB DIMM DDR4 3200MT/s          | 1        | 2.94%   |
+| A-DATA RAM DDR4 2666 2OZ 16GB DIMM DDR4 3200MT/s         | 1        | 2.94%   |
 
 Memory Kind
 -----------
@@ -2325,20 +2325,20 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 2400  | 6        | 18.18%  |
-| 1333  | 5        | 15.15%  |
-| 3600  | 4        | 12.12%  |
-| 3200  | 4        | 12.12%  |
-| 1600  | 4        | 12.12%  |
-| 3000  | 2        | 6.06%   |
-| 4800  | 1        | 3.03%   |
-| 3866  | 1        | 3.03%   |
-| 3333  | 1        | 3.03%   |
-| 2933  | 1        | 3.03%   |
-| 2800  | 1        | 3.03%   |
-| 2666  | 1        | 3.03%   |
-| 1867  | 1        | 3.03%   |
-| 1067  | 1        | 3.03%   |
+| 2400  | 6        | 17.65%  |
+| 3200  | 5        | 14.71%  |
+| 1333  | 5        | 14.71%  |
+| 3600  | 4        | 11.76%  |
+| 1600  | 4        | 11.76%  |
+| 3000  | 2        | 5.88%   |
+| 4800  | 1        | 2.94%   |
+| 3866  | 1        | 2.94%   |
+| 3333  | 1        | 2.94%   |
+| 2933  | 1        | 2.94%   |
+| 2800  | 1        | 2.94%   |
+| 2666  | 1        | 2.94%   |
+| 1867  | 1        | 2.94%   |
+| 1067  | 1        | 2.94%   |
 
 Printers & scanners
 -------------------
@@ -2405,7 +2405,7 @@ Camera device models
 | Logitech Webcam C270                              | 3        | 21.43%  |
 | Realtek FULL HD 1080P Webcam                      | 1        | 7.14%   |
 | Microsoft LifeCam HD-3000                         | 1        | 7.14%   |
-| Microdia CameraA                                  | 1        | 7.14%   |
+| Microdia USB 2.0 Camera                           | 1        | 7.14%   |
 | Microdia Camera                                   | 1        | 7.14%   |
 | MacroSilicon USB Video                            | 1        | 7.14%   |
 | MacroSilicon MS210x Video Grabber [EasierCAP]     | 1        | 7.14%   |

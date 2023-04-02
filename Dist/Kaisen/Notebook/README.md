@@ -786,7 +786,7 @@ Hard drive models
 | KIOXIA KBG40ZNS512G NVMe 512GB            | 1         | 3.03%   |
 | Kingston SV300S37A240G 240GB SSD          | 1         | 3.03%   |
 | Kingston SNVS1000GB 1TB                   | 1         | 3.03%   |
-| JMicron Generic 200GB                     | 1         | 3.03%   |
+| JMicron Generic 500GB                     | 1         | 3.03%   |
 | Intel SSDSC2BX480G4 480GB                 | 1         | 3.03%   |
 | Hitachi HTS545050A7E380 500GB             | 1         | 3.03%   |
 | HGST HTS725050A7E630 500GB                | 1         | 3.03%   |
@@ -801,15 +801,14 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor             | Notebooks | Drives | Percent |
-|--------------------|-----------|--------|---------|
-| Seagate            | 4         | 4      | 30.77%  |
-| HGST               | 3         | 3      | 23.08%  |
-| WDC                | 2         | 2      | 15.38%  |
-| Toshiba            | 1         | 1      | 7.69%   |
-| MARSHAL            | 1         | 1      | 7.69%   |
-| JMicron Technology | 1         | 1      | 7.69%   |
-| Hitachi            | 1         | 1      | 7.69%   |
+| Vendor  | Notebooks | Drives | Percent |
+|---------|-----------|--------|---------|
+| Seagate | 4         | 4      | 33.33%  |
+| HGST    | 3         | 3      | 25%     |
+| WDC     | 2         | 2      | 16.67%  |
+| Toshiba | 1         | 1      | 8.33%   |
+| MARSHAL | 1         | 1      | 8.33%   |
+| Hitachi | 1         | 1      | 8.33%   |
 
 SSD Vendor
 ----------
@@ -821,15 +820,16 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 4         | 4      | 33.33%  |
-| WDC                 | 1         | 1      | 8.33%   |
-| TCSUNBOW            | 1         | 1      | 8.33%   |
-| SanDisk             | 1         | 1      | 8.33%   |
-| LITEONIT            | 1         | 1      | 8.33%   |
-| LITEON              | 1         | 1      | 8.33%   |
-| Kingston            | 1         | 1      | 8.33%   |
-| Intel               | 1         | 1      | 8.33%   |
-| Crucial             | 1         | 1      | 8.33%   |
+| Samsung Electronics | 4         | 4      | 30.77%  |
+| WDC                 | 1         | 1      | 7.69%   |
+| TCSUNBOW            | 1         | 1      | 7.69%   |
+| SanDisk             | 1         | 1      | 7.69%   |
+| LITEONIT            | 1         | 1      | 7.69%   |
+| LITEON              | 1         | 1      | 7.69%   |
+| Kingston            | 1         | 1      | 7.69%   |
+| JMicron Technology  | 1         | 1      | 7.69%   |
+| Intel               | 1         | 1      | 7.69%   |
+| Crucial             | 1         | 1      | 7.69%   |
 
 Drive Kind
 ----------
@@ -841,9 +841,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 12        | 13     | 40%     |
-| SSD  | 11        | 12     | 36.67%  |
-| NVMe | 7         | 8      | 23.33%  |
+| SSD  | 12        | 13     | 38.71%  |
+| HDD  | 12        | 12     | 38.71%  |
+| NVMe | 7         | 8      | 22.58%  |
 
 Drive Connector
 ---------------
@@ -1050,10 +1050,10 @@ Storage controller models
 | SK hynix BC511                                                               | 1         | 3.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                | 1         | 3.33%   |
 | Phison NVMe Storage Controller                                               | 1         | 3.33%   |
-| Micron Non-Volatile memory controller                                        | 1         | 3.33%   |
+| Micron NVMe Storage Controller                                               | 1         | 3.33%   |
 | MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                 | 1         | 3.33%   |
 | KIOXIA NVMe SSD Controller BG4                                               | 1         | 3.33%   |
-| Kingston Company Company Non-Volatile memory controller                      | 1         | 3.33%   |
+| Kingston Company NVMe Controller                                             | 1         | 3.33%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                        | 1         | 3.33%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                            | 1         | 3.33%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                               | 1         | 3.33%   |
@@ -1396,22 +1396,22 @@ Monitor models
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 3.33%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch               | 1         | 3.33%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch                  | 1         | 3.33%   |
-| Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                      | 1         | 3.33%   |
+| Iiyama PL2773H IVM660A 1920x1080 598x336mm 27.0-inch                      | 1         | 3.33%   |
 | Goldstar E1960 GSM4BE5 1360x768 406x229mm 18.4-inch                       | 1         | 3.33%   |
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                           | 1         | 3.33%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 3.33%   |
-| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x194mm 15.5-inch           | 1         | 3.33%   |
+| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch           | 1         | 3.33%   |
 | Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch           | 1         | 3.33%   |
-| Chimei Innolux LCD Monitor CMN1495 1366x768 309x174mm 14.0-inch           | 1         | 3.33%   |
+| Chimei Innolux LCD Monitor CMN1495 1366x768 309x173mm 13.9-inch           | 1         | 3.33%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 3.33%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1100 1366x768 256x144mm 11.6-inch  | 1         | 3.33%   |
 | BOE LCD Monitor BOE09DC 1920x1080 344x194mm 15.5-inch                     | 1         | 3.33%   |
-| BOE LCD Monitor BOE06B3 1920x1080                                         | 1         | 3.33%   |
+| BOE LCD Monitor BOE06B3 1366x768 309x173mm 13.9-inch                      | 1         | 3.33%   |
 | BOE LCD Monitor BOE05FE 1366x768 309x173mm 13.9-inch                      | 1         | 3.33%   |
 | AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.33%   |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 3.33%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 3.33%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.33%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 1         | 3.33%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                    | 1         | 3.33%   |
 | Acer K202HQL ACR03E0 1600x900 432x240mm 19.5-inch                         | 1         | 3.33%   |
 | Acer B193W ACR001E 1440x900 408x255mm 18.9-inch                           | 1         | 3.33%   |
@@ -1876,13 +1876,13 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 2         | 6.06%   |
-| Crucial RAM CT102464BF160B.C16 8192MB SODIMM DDR3 1600MT/s   | 2         | 6.06%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 2         | 6.06%   |
+| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s      | 2         | 6.06%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.03%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.03%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.03%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 3.03%   |
-| SK hynix RAM HMAA2GS6CJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 3.03%   |
+| SK hynix RAM HMAA2GS6CJR8N-XN 16384MB SODIMM DDR4 3200MT/s   | 1         | 3.03%   |
 | SK hynix RAM HMAA1GS6CMR6N-XN 8GB Row Of Chips DDR4 3200MT/s | 1         | 3.03%   |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 1         | 3.03%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 3.03%   |
@@ -1890,8 +1890,8 @@ Memory module models
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 3.03%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.03%   |
 | Samsung RAM M471B5173BH0-YK0 4GB Chip DDR3 1600MT/s          | 1         | 3.03%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 1         | 3.03%   |
-| Samsung RAM 456789ABCDEFGHIJKL 4GB SODIMM DDR3 1600MT/s      | 1         | 3.03%   |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 3.03%   |
+| Samsung RAM 456789ABCDEFGHIJKL 8GB SODIMM DDR3 1600MT/s      | 1         | 3.03%   |
 | Ramaxel RAM RMSA3260MD78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 3.03%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 3.03%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s        | 1         | 3.03%   |
@@ -2023,11 +2023,12 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 6         | 26.09%  |
-| Acer                                   | 4         | 17.39%  |
 | Sunplus Innovation Technology          | 2         | 8.7%    |
 | Realtek Semiconductor                  | 2         | 8.7%    |
 | Microdia                               | 2         | 8.7%    |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 8.7%    |
+| Bison Electronics                      | 2         | 8.7%    |
+| Acer                                   | 2         | 8.7%    |
 | Suyin                                  | 1         | 4.35%   |
 | Silicon Motion                         | 1         | 4.35%   |
 | Lite-On Technology                     | 1         | 4.35%   |
@@ -2044,9 +2045,9 @@ Camera device models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Acer Integrated Camera                              | 3         | 13.04%  |
 | Chicony Integrated Camera                           | 2         | 8.7%    |
 | Chicony HP HD Webcam                                | 2         | 8.7%    |
+| Bison Integrated Camera                             | 2         | 8.7%    |
 | Suyin Acer/Lenovo Webcam [CN0316]                   | 1         | 4.35%   |
 | Sunplus Integrated Webcam                           | 1         | 4.35%   |
 | Sunplus Asus Webcam                                 | 1         | 4.35%   |
@@ -2062,6 +2063,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam       | 1         | 4.35%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 1         | 4.35%   |
 | Apple FaceTime HD Camera                            | 1         | 4.35%   |
+| Acer Integrated Camera                              | 1         | 4.35%   |
 | Acer HD Webcam                                      | 1         | 4.35%   |
 
 Security

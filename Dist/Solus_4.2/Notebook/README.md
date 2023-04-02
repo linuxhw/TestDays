@@ -1181,7 +1181,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1340,7 +1340,7 @@ Controller models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:019B7071                        | 1         | 3.57%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:D902E15D                        | 1         | 3.57%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
 | Intel Wireless 8260                                               | 1         | 3.57%   |
 | Intel Wireless 7260                                               | 1         | 3.57%   |

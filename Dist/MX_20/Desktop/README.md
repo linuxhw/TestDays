@@ -590,8 +590,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 12       | 54.55%  |
-| Yes       | 10       | 45.45%  |
+| No        | 12       | 52.17%  |
+| Yes       | 11       | 47.83%  |
 
 Has Ethernet
 ------------
@@ -753,7 +753,7 @@ Hard drive models
 | Seagate ST31500341AS 1TB          | 1        | 1.92%   |
 | Seagate ST2000DX001-1CM164 2TB    | 1        | 1.92%   |
 | Seagate ST2000DM001-1CH164 2TB    | 1        | 1.92%   |
-| Seagate Backup+ Desk 8TB          | 1        | 1.92%   |
+| Seagate Backup+ Desk 5TB          | 1        | 1.92%   |
 | SanDisk SSD PLUS 1000GB           | 1        | 1.92%   |
 | SanDisk SSD G5 BICS4 1TB          | 1        | 1.92%   |
 | Samsung SSD 970 EVO Plus 500GB    | 1        | 1.92%   |
@@ -1350,36 +1350,36 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                | 1        | 3.57%   |
-| Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch               | 1        | 3.57%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                      | 1        | 3.57%   |
-| Sony TV SNY0801 1360x768                                              | 1        | 3.57%   |
-| Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch  | 1        | 3.57%   |
-| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 950x540mm 43.0-inch | 1        | 3.57%   |
-| Samsung Electronics C27JG5x SAM0F57 2560x1440 597x336mm 27.0-inch     | 1        | 3.57%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 3.57%   |
-| RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                      | 1        | 3.57%   |
-| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch              | 1        | 3.57%   |
-| Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                | 1        | 3.57%   |
-| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                  | 1        | 3.57%   |
-| Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch            | 1        | 3.57%   |
-| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch            | 1        | 3.57%   |
-| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 1        | 3.57%   |
-| Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                  | 1        | 3.57%   |
-| Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
-| Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                | 1        | 3.57%   |
-| Goldstar E1940 GSM4BD6 1360x768 406x229mm 18.4-inch                   | 1        | 3.57%   |
-| Dell ST2220L DELA063 1920x1080 477x268mm 21.5-inch                    | 1        | 3.57%   |
-| Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1        | 3.57%   |
-| BenQ GL2760 BNQ78D5 1920x1080 598x336mm 27.0-inch                     | 1        | 3.57%   |
-| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch          | 1        | 3.57%   |
-| ASUSTek Computer VG279QL1A AUS2702 1920x1080 598x336mm 27.0-inch      | 1        | 3.57%   |
-| Acer X34 P ACR054F 3440x1440 800x340mm 34.2-inch                      | 1        | 3.57%   |
-| Acer S230HL ACR0280 1920x1080 509x286mm 23.0-inch                     | 1        | 3.57%   |
-| Acer R240HY ACR046F 1920x1080 527x296mm 23.8-inch                     | 1        | 3.57%   |
-| Acer G227HQL ACR03DE 1920x1080 476x267mm 21.5-inch                    | 1        | 3.57%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| ViewSonic XG2705 VSC0E39 1920x1080 598x336mm 27.0-inch                 | 1        | 3.57%   |
+| Videoseven D19W12C IGM19C1 1440x900 408x255mm 18.9-inch                | 1        | 3.57%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 3.57%   |
+| Sony TV SNY0801 1360x768                                               | 1        | 3.57%   |
+| Samsung Electronics SyncMaster SAM0420 1680x1050 474x296mm 22.0-inch   | 1        | 3.57%   |
+| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 1020x570mm 46.0-inch | 1        | 3.57%   |
+| Samsung Electronics C27JG5x SAM0F57 2560x1440 597x336mm 27.0-inch      | 1        | 3.57%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1        | 3.57%   |
+| RIS photo19 RIS0839 1366x768 410x230mm 18.5-inch                       | 1        | 3.57%   |
+| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 1        | 3.57%   |
+| Lenovo LEN L192p LEN24CB 1280x1024 376x301mm 19.0-inch                 | 1        | 3.57%   |
+| Iiyama PL2792Q IVM6630 2560x1440 597x336mm 27.0-inch                   | 1        | 3.57%   |
+| Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch             | 1        | 3.57%   |
+| Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch             | 1        | 3.57%   |
+| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 3.57%   |
+| Goldstar MP59G GSM5B35 1920x1080 480x270mm 21.7-inch                   | 1        | 3.57%   |
+| Goldstar L1715S GSM436F 1280x1024 338x270mm 17.0-inch                  | 1        | 3.57%   |
+| Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                 | 1        | 3.57%   |
+| Goldstar E1940 GSM4BD6 1360x768 406x229mm 18.4-inch                    | 1        | 3.57%   |
+| Dell ST2220L DELA063 1920x1080 477x268mm 21.5-inch                     | 1        | 3.57%   |
+| Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                      | 1        | 3.57%   |
+| BenQ GL2760 BNQ78D5 1920x1080 598x336mm 27.0-inch                      | 1        | 3.57%   |
+| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch           | 1        | 3.57%   |
+| ASUSTek Computer VG279QL1A AUS2702 1920x1080 598x336mm 27.0-inch       | 1        | 3.57%   |
+| Acer X34 P ACR054F 3440x1440 798x335mm 34.1-inch                       | 1        | 3.57%   |
+| Acer S230HL ACR0280 1920x1080 509x286mm 23.0-inch                      | 1        | 3.57%   |
+| Acer R240HY ACR046F 1920x1080 527x296mm 23.8-inch                      | 1        | 3.57%   |
+| Acer G227HQL ACR03DE 1920x1080 476x267mm 21.5-inch                     | 1        | 3.57%   |
 
 Monitor Resolution
 ------------------
@@ -1535,33 +1535,33 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 6        | 16.22%  |
-| Realtek RTL8125 2.5GbE Controller                                                             | 2        | 5.41%   |
-| Intel I211 Gigabit Network Connection                                                         | 2        | 5.41%   |
-| Intel Ethernet Connection I217-LM                                                             | 2        | 5.41%   |
-| Intel Ethernet Connection (7) I219-V                                                          | 2        | 5.41%   |
-| Intel Ethernet Connection (11) I219-V                                                         | 2        | 5.41%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 2        | 5.41%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 2        | 5.41%   |
-| U-Blox [u-blox 8]                                                                             | 1        | 2.7%    |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 2.7%    |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 2.7%    |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 2.7%    |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                                               | 1        | 2.7%    |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 2.7%    |
-| Ralink RT5372 Wireless Adapter                                                                | 1        | 2.7%    |
-| Ralink MT7601U Wireless Adapter                                                               | 1        | 2.7%    |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 1        | 2.7%    |
-| NetGear A6210                                                                                 | 1        | 2.7%    |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                                       | 1        | 2.7%    |
-| Intel Wireless 8260                                                                           | 1        | 2.7%    |
-| Intel Wi-Fi 6 AX200                                                                           | 1        | 2.7%    |
-| Intel Ethernet Connection (2) I219-V                                                          | 1        | 2.7%    |
-| Intel Ethernet Connection (2) I218-V                                                          | 1        | 2.7%    |
-| Intel Ethernet Connection (14) I219-V                                                         | 1        | 2.7%    |
-| Intel 82562EZ 10/100 Ethernet Controller                                                      | 1        | 2.7%    |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6        | 16.22%  |
+| Realtek RTL8125 2.5GbE Controller                                 | 2        | 5.41%   |
+| Intel I211 Gigabit Network Connection                             | 2        | 5.41%   |
+| Intel Ethernet Connection I217-LM                                 | 2        | 5.41%   |
+| Intel Ethernet Connection (7) I219-V                              | 2        | 5.41%   |
+| Intel Ethernet Connection (11) I219-V                             | 2        | 5.41%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 2        | 5.41%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 5.41%   |
+| U-Blox [u-blox 8]                                                 | 1        | 2.7%    |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 2.7%    |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 2.7%    |
+| Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 2.7%    |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 2.7%    |
+| Realtek 802.11ac WLAN Adapter                                     | 1        | 2.7%    |
+| Ralink RT5372 Wireless Adapter                                    | 1        | 2.7%    |
+| Ralink MT7601U Wireless Adapter                                   | 1        | 2.7%    |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 2.7%    |
+| NetGear A6210                                                     | 1        | 2.7%    |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 2.7%    |
+| Intel Wireless 8260                                               | 1        | 2.7%    |
+| Intel Wi-Fi 6 AX200                                               | 1        | 2.7%    |
+| Intel Ethernet Connection (2) I219-V                              | 1        | 2.7%    |
+| Intel Ethernet Connection (2) I218-V                              | 1        | 2.7%    |
+| Intel Ethernet Connection (14) I219-V                             | 1        | 2.7%    |
+| Intel 82562EZ 10/100 Ethernet Controller                          | 1        | 2.7%    |
 
 Wireless Vendor
 ---------------
@@ -1588,19 +1588,19 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 2        | 16.67%  |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 8.33%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 8.33%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 8.33%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 8.33%   |
-| Ralink RT5372 Wireless Adapter                                                                | 1        | 8.33%   |
-| Ralink MT7601U Wireless Adapter                                                               | 1        | 8.33%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 1        | 8.33%   |
-| NetGear A6210                                                                                 | 1        | 8.33%   |
-| Intel Wireless 8260                                                                           | 1        | 8.33%   |
-| Intel Wi-Fi 6 AX200                                                                           | 1        | 8.33%   |
+| Model                                            | Desktops | Percent |
+|--------------------------------------------------|----------|---------|
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak] | 2        | 16.67%  |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]              | 1        | 8.33%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]     | 1        | 8.33%   |
+| Realtek RTL88x2bu [AC1200 Techkey]               | 1        | 8.33%   |
+| Realtek 802.11ac WLAN Adapter                    | 1        | 8.33%   |
+| Ralink RT5372 Wireless Adapter                   | 1        | 8.33%   |
+| Ralink MT7601U Wireless Adapter                  | 1        | 8.33%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter | 1        | 8.33%   |
+| NetGear A6210                                    | 1        | 8.33%   |
+| Intel Wireless 8260                              | 1        | 8.33%   |
+| Intel Wi-Fi 6 AX200                              | 1        | 8.33%   |
 
 Ethernet Vendor
 ---------------
@@ -1837,7 +1837,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR                                   | 1        | 3.45%   |
 | SK hynix RAM HMT351U7EFR8C-PB 4096MB DIMM DDR3 1600MT/s              | 1        | 3.45%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                 | 1        | 3.45%   |
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s             | 1        | 3.45%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                | 1        | 3.45%   |
 | Samsung RAM M391B5273DH0-YK0 4GB DIMM DDR3 1600MT/s                  | 1        | 3.45%   |
 | PNY RAM 16GF2X08QFHH36-135-K 16GB DIMM DDR4 3200MT/s                 | 1        | 3.45%   |
 | Patriot Memory (PDP Systems) RAM PSD48G320081 8GB DIMM DDR4 3200MT/s | 1        | 3.45%   |
@@ -1845,7 +1845,7 @@ Memory module models
 | Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s                 | 1        | 3.45%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s                  | 1        | 3.45%   |
 | Kingston RAM KHX2133C13D4/8GX 8192MB DIMM DDR4 2133MT/s              | 1        | 3.45%   |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s                | 1        | 3.45%   |
+| Kingston RAM 99U5474-028.A00LF 4096MB DIMM DDR3 1333MT/s             | 1        | 3.45%   |
 | G.Skill RAM F4-3000C15-8GTZR 8GB DIMM DDR4 3000MT/s                  | 1        | 3.45%   |
 | G.Skill RAM F3-2400C10-8G 8192MB DIMM DDR3 1333MT/s                  | 1        | 3.45%   |
 | Crucial RAM CT8G4DFS824A.M8FE 8GB DIMM DDR4 2933MT/s                 | 1        | 3.45%   |

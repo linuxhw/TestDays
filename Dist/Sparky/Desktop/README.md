@@ -801,7 +801,7 @@ Hard drive models
 |-----------------------------------------|----------|---------|
 | Seagate ST500LT012-1DG142 500GB         | 2        | 4.88%   |
 | Samsung HD161GJ 160GB                   | 2        | 4.88%   |
-| XPG GAMMIX S11 Pro 512GB                | 1        | 2.44%   |
+| XPG GAMMIX S11 Pro 256GB                | 1        | 2.44%   |
 | WDC WD800JD-08MSA1 80GB                 | 1        | 2.44%   |
 | WDC WD5000AVVS-63ZWB0 500GB             | 1        | 2.44%   |
 | WDC WD5000AAKS-75V0A0 500GB             | 1        | 2.44%   |
@@ -1071,7 +1071,7 @@ Storage controller models
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1        | 3.03%   |
 | VIA VT8237A SATA 2-Port Controller                                            | 1        | 3.03%   |
 | Seagate Non-Volatile memory controller                                        | 1        | 3.03%   |
-| SanDisk WD Blue SN570 NVMe SSD                                                | 1        | 3.03%   |
+| SanDisk WD Blue SN570 NVMe SSD 1TB                                            | 1        | 3.03%   |
 | Samsung NVMe SSD Controller SM951/PM951                                       | 1        | 3.03%   |
 | Nvidia MCP61 SATA Controller                                                  | 1        | 3.03%   |
 | Nvidia MCP61 IDE                                                              | 1        | 3.03%   |
@@ -1420,7 +1420,7 @@ Monitor models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 4.55%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                     | 1        | 4.55%   |
+| Toshiba TV TSB0206 1920x1080                                         | 1        | 4.55%   |
 | Samsung Electronics SyncMaster SAM0581 1920x1080 477x268mm 21.5-inch | 1        | 4.55%   |
 | Samsung Electronics SyncMaster SAM0116 1024x768 267x200mm 13.1-inch  | 1        | 4.55%   |
 | Samsung Electronics S24D330 SAM0D92 1920x1080 531x299mm 24.0-inch    | 1        | 4.55%   |
@@ -1886,21 +1886,21 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 800MT/s                   | 2        | 14.29%  |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 7.14%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                     | 1        | 7.14%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s | 1        | 7.14%   |
-| Samsung RAM M471B1G73DB0-YK0 8192MB SODIMM DDR3 1600MT/s | 1        | 7.14%   |
-| Kingston RAM Module 16GB SODIMM DDR4 2133MT/s            | 1        | 7.14%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s      | 1        | 7.14%   |
-| Kingston RAM 99U5471-030.A00LF 8192MB DIMM DDR3 1333MT/s | 1        | 7.14%   |
-| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s       | 1        | 7.14%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| Corsair RAM CMZ4GX3M1A1600C9 4096MB DIMM DDR3 1600MT/s   | 1        | 7.14%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4             | 1        | 7.14%   |
-| Avant RAM W641GU49J2320N6 8GB DIMM DDR4 2666MT/s         | 1        | 7.14%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 800MT/s                 | 2        | 14.29%  |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 1        | 7.14%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                   | 1        | 7.14%   |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s  | 1        | 7.14%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s  | 1        | 7.14%   |
+| Kingston RAM Module 16GB SODIMM DDR4 2133MT/s          | 1        | 7.14%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
+| Kingston RAM 99U5471-030.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 7.14%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s     | 1        | 7.14%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s  | 1        | 7.14%   |
+| Corsair RAM CMZ4GX3M1A1600C9 4096MB DIMM DDR3 1600MT/s | 1        | 7.14%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4           | 1        | 7.14%   |
+| Avant RAM W641GU49J2320N6 8GB DIMM DDR4 2666MT/s       | 1        | 7.14%   |
 
 Memory Kind
 -----------

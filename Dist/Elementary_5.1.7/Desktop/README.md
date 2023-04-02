@@ -994,7 +994,7 @@ Hard drive models
 | WDC WD10EZEX-08M2NA0 1TB          | 1        | 0.72%   |
 | WDC WD10EURX-63UY4Y0 1TB          | 1        | 0.72%   |
 | WDC WD10EALX-009BA0 1TB           | 1        | 0.72%   |
-| Unknown SD/MMC/MS PRO 16GB        | 1        | 0.72%   |
+| Unknown SD/MMC/MS PRO 64GB        | 1        | 0.72%   |
 
 HDD Vendor
 ----------
@@ -1082,10 +1082,10 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 57       | 106    | 63.33%  |
-| 0.51-1.0   | 21       | 33     | 23.33%  |
+| 0.51-1.0   | 20       | 32     | 22.22%  |
 | 1.01-2.0   | 7        | 13     | 7.78%   |
 | 2.01-3.0   | 3        | 7      | 3.33%   |
-| 4.01-10.0  | 2        | 2      | 2.22%   |
+| 4.01-10.0  | 3        | 3      | 3.33%   |
 
 Space Total
 -----------
@@ -1725,13 +1725,13 @@ Monitor models
 | LG Electronics LCD Monitor M227WAP 1920x1080                            | 1        | 1.28%   |
 | LG Electronics LCD Monitor LG ULTRAGEAR 2560x1440                       | 1        | 1.28%   |
 | KIV Kivi TV KIV0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.28%   |
-| Iiyama PL3270Q IVM7608 2560x1440 700x390mm 31.5-inch                    | 1        | 1.28%   |
-| Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                    | 1        | 1.28%   |
+| Iiyama PL3270Q IVM7608 2560x1440 698x393mm 31.5-inch                    | 1        | 1.28%   |
+| Iiyama PL2773H IVM660A 1920x1080 598x336mm 27.0-inch                    | 1        | 1.28%   |
 | HPN LCD Monitor HP 27fh 1920x1080                                       | 1        | 1.28%   |
 | HKC LCD Monitor TV 1920x1080                                            | 1        | 1.28%   |
 | Hewlett-Packard 27xw HWP3197 1920x1080 598x336mm 27.0-inch              | 1        | 1.28%   |
-| Hewlett-Packard 27es HWP3325 1920x1080 598x336mm 27.0-inch              | 1        | 1.28%   |
-| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch               | 1        | 1.28%   |
+| Hewlett-Packard 27er HWP3325 1920x1080 598x336mm 27.0-inch              | 1        | 1.28%   |
+| Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 1.28%   |
 | Haier SMART TV HRE0030 3840x2160 708x398mm 32.0-inch                    | 1        | 1.28%   |
 | Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                   | 1        | 1.28%   |
 | Goldstar L1750SQ GSM43E8 1280x1024 338x270mm 17.0-inch                  | 1        | 1.28%   |
@@ -2087,7 +2087,7 @@ Ethernet models
 | Intel 82566DC Gigabit Network Connection                          | 1        | 1.35%   |
 | Intel 82562V-2 10/100 Network Connection                          | 1        | 1.35%   |
 | Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)            | 1        | 1.35%   |
-| Huawei MLA-L11                                                    | 1        | 1.35%   |
+| Huawei ANA-NX9                                                    | 1        | 1.35%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 1.35%   |
 
 Net Controller Kind
@@ -2320,10 +2320,10 @@ Memory module models
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s   | 1        | 2.94%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 2.94%   |
 | Kingston RAM KHX1866C9D3/8GX 8GB DIMM DDR3 1866MT/s      | 1        | 2.94%   |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s      | 1        | 2.94%   |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1600MT/s      | 1        | 2.94%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 2.94%   |
 | Kingston RAM HP497157-B88-ELDW 2048MB DIMM DDR3 1333MT/s | 1        | 2.94%   |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 2.94%   |
+| Kingston RAM 99U5474-028.A00LF 4096MB DIMM DDR3 1333MT/s | 1        | 2.94%   |
 | G.Skill RAM F3-1600C9-8GXM 8GB DIMM DDR3 1867MT/s        | 1        | 2.94%   |
 | G.Skill RAM F3-12800CL9-4GBRL 4GB DIMM DDR3 1866MT/s     | 1        | 2.94%   |
 | Crucial RAM CT51264AA667.M16FC 4GB DIMM DDR2 667MT/s     | 1        | 2.94%   |
@@ -2495,7 +2495,7 @@ Camera device models
 | Microdia Sonix USB 2.0 Camera                         | 1        | 6.25%   |
 | Logitech Webcam C270                                  | 1        | 6.25%   |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode) | 1        | 6.25%   |
-| KYE Systems (Mouse Systems) PC-LM1E Camera            | 1        | 6.25%   |
+| KYE Systems (Mouse Systems) PC-W3 Camera              | 1        | 6.25%   |
 | Generalplus GENERAL WEBCAM                            | 1        | 6.25%   |
 | Cubeternet GL-UPC822 UVC WebCam                       | 1        | 6.25%   |
 | Chicony USB2.0 UVC VGA                                | 1        | 6.25%   |

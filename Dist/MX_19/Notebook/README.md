@@ -1753,26 +1753,26 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch  | 2         | 2.15%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 2         | 2.15%   |
 | Chimei Innolux LCD Monitor CMN15D5 1920x1080 344x193mm 15.5-inch      | 2         | 2.15%   |
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch      | 2         | 2.15%   |
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch       | 2         | 2.15%   |
 | AU Optronics LCD Monitor AUO23EC 1366x768 344x193mm 15.5-inch         | 2         | 2.15%   |
 | AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch         | 2         | 2.15%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch         | 2         | 2.15%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch         | 2         | 2.15%   |
 | AU Optronics LCD Monitor AUO01EE 1600x900 344x193mm 15.5-inch         | 2         | 2.15%   |
 | Vizio E320VA VIZ0071 1360x768 697x392mm 31.5-inch                     | 1         | 1.08%   |
 | Samsung Electronics SyncMaster SAM00B6 1280x1024 376x301mm 19.0-inch  | 1         | 1.08%   |
 | Samsung Electronics SMB1630N SAM0630 1366x768 344x194mm 15.5-inch     | 1         | 1.08%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1         | 1.08%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch  | 1         | 1.08%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC504B 1600x900 382x215mm 17.3-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 344x194mm 15.5-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC4245 1280x800 331x207mm 15.4-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC3945 1280x800 331x207mm 15.4-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch  | 1         | 1.08%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch | 1         | 1.08%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 1.08%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 309x174mm 14.0-inch | 1         | 1.08%   |
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch               | 1         | 1.08%   |
 | LG Philips LCD Monitor LPLA900 1280x800 331x207mm 15.4-inch           | 1         | 1.08%   |
 | LG Philips LCD Monitor LPLA002 1440x900 367x230mm 17.1-inch           | 1         | 1.08%   |
@@ -1966,48 +1966,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                                                         | Notebooks | Percent |
-|-----------------------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 24        | 13.95%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                                         | 9         | 5.23%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 8         | 4.65%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                                  | 6         | 3.49%   |
-| Intel Wireless 7260                                                                           | 5         | 2.91%   |
-| Intel 82577LM Gigabit Network Connection                                                      | 5         | 2.91%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 4         | 2.33%   |
-| Intel Wireless 7265                                                                           | 4         | 2.33%   |
-| Intel Centrino Advanced-N 6200                                                                | 4         | 2.33%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 4         | 2.33%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 3         | 1.74%   |
-| Intel Wireless 8265 / 8275                                                                    | 3         | 1.74%   |
-| Intel Wireless 8260                                                                           | 3         | 1.74%   |
-| Intel Wireless 3165                                                                           | 3         | 1.74%   |
-| Intel Ethernet Connection I217-LM                                                             | 3         | 1.74%   |
-| Intel Centrino Wireless-N 2230                                                                | 3         | 1.74%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 2         | 1.16%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                           | 2         | 1.16%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 2         | 1.16%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                    | 2         | 1.16%   |
-| Qualcomm Atheros QCA8172 Fast Ethernet                                                        | 2         | 1.16%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                                                      | 2         | 1.16%   |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                                 | 2         | 1.16%   |
-| Intel Ethernet Connection I219-V                                                              | 2         | 1.16%   |
-| Intel Ethernet Connection (3) I218-LM                                                         | 2         | 1.16%   |
-| Intel Centrino Ultimate-N 6300                                                                | 2         | 1.16%   |
-| Intel Cannon Lake PCH CNVi WiFi                                                               | 2         | 1.16%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter                                           | 2         | 1.16%   |
-| Attansic AR8152 v2.0 Fast Ethernet                                                            | 2         | 1.16%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1         | 0.58%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 0.58%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                               | 1         | 0.58%   |
-| Realtek RTL8188EE Wireless Network Adapter                                                    | 1         | 0.58%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                                                      | 1         | 0.58%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1         | 0.58%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                                         | 1         | 0.58%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 0.58%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 0.58%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 0.58%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                                     | 1         | 0.58%   |
+| Model                                                             | Notebooks | Percent |
+|-------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 24        | 13.95%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 9         | 5.23%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 8         | 4.65%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 6         | 3.49%   |
+| Intel Wireless 7260                                               | 5         | 2.91%   |
+| Intel 82577LM Gigabit Network Connection                          | 5         | 2.91%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 4         | 2.33%   |
+| Intel Wireless 7265                                               | 4         | 2.33%   |
+| Intel Centrino Advanced-N 6200                                    | 4         | 2.33%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 4         | 2.33%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 3         | 1.74%   |
+| Intel Wireless 8265 / 8275                                        | 3         | 1.74%   |
+| Intel Wireless 8260                                               | 3         | 1.74%   |
+| Intel Wireless 3165                                               | 3         | 1.74%   |
+| Intel Ethernet Connection I217-LM                                 | 3         | 1.74%   |
+| Intel Centrino Wireless-N 2230                                    | 3         | 1.74%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 2         | 1.16%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 2         | 1.16%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 2         | 1.16%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 2         | 1.16%   |
+| Qualcomm Atheros QCA8172 Fast Ethernet                            | 2         | 1.16%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 1.16%   |
+| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection     | 2         | 1.16%   |
+| Intel Ethernet Connection I219-V                                  | 2         | 1.16%   |
+| Intel Ethernet Connection (3) I218-LM                             | 2         | 1.16%   |
+| Intel Centrino Ultimate-N 6300                                    | 2         | 1.16%   |
+| Intel Cannon Lake PCH CNVi WiFi                                   | 2         | 1.16%   |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 1.16%   |
+| Attansic AR8152 v2.0 Fast Ethernet                                | 2         | 1.16%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 0.58%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 0.58%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 0.58%   |
+| Realtek RTL8188EE Wireless Network Adapter                        | 1         | 0.58%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 0.58%   |
+| Realtek 802.11ac WLAN Adapter                                     | 1         | 0.58%   |
+| Ralink RT2870/RT3070 Wireless Adapter                             | 1         | 0.58%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                         | 1         | 0.58%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                         | 1         | 0.58%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 0.58%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 0.58%   |
 
 Wireless Vendor
 ---------------
@@ -2034,48 +2034,48 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                                         | Notebooks | Percent |
-|-----------------------------------------------------------------------------------------------|-----------|---------|
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 8         | 8.89%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                                  | 6         | 6.67%   |
-| Intel Wireless 7260                                                                           | 5         | 5.56%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 4         | 4.44%   |
-| Intel Wireless 7265                                                                           | 4         | 4.44%   |
-| Intel Centrino Advanced-N 6200                                                                | 4         | 4.44%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 3         | 3.33%   |
-| Intel Wireless 8265 / 8275                                                                    | 3         | 3.33%   |
-| Intel Wireless 8260                                                                           | 3         | 3.33%   |
-| Intel Wireless 3165                                                                           | 3         | 3.33%   |
-| Intel Centrino Wireless-N 2230                                                                | 3         | 3.33%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 2         | 2.22%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                           | 2         | 2.22%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 2         | 2.22%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                    | 2         | 2.22%   |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                                 | 2         | 2.22%   |
-| Intel Centrino Ultimate-N 6300                                                                | 2         | 2.22%   |
-| Intel Cannon Lake PCH CNVi WiFi                                                               | 2         | 2.22%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter                                           | 2         | 2.22%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1         | 1.11%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.11%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                               | 1         | 1.11%   |
-| Realtek RTL8188EE Wireless Network Adapter                                                    | 1         | 1.11%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1         | 1.11%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                                         | 1         | 1.11%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 1.11%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 1.11%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 1.11%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                                | 1         | 1.11%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                                | 1         | 1.11%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)                       | 1         | 1.11%   |
-| Intel Wireless-AC 9260                                                                        | 1         | 1.11%   |
-| Intel WiFi Link 5100                                                                          | 1         | 1.11%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                                        | 1         | 1.11%   |
-| Intel Wi-Fi 6 AX201                                                                           | 1         | 1.11%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                                       | 1         | 1.11%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection                                         | 1         | 1.11%   |
-| Intel Ice Lake-LP PCH CNVi WiFi                                                               | 1         | 1.11%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 1         | 1.11%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                               | 1         | 1.11%   |
+| Model                                                                   | Notebooks | Percent |
+|-------------------------------------------------------------------------|-----------|---------|
+| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 8         | 8.89%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 6         | 6.67%   |
+| Intel Wireless 7260                                                     | 5         | 5.56%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 4         | 4.44%   |
+| Intel Wireless 7265                                                     | 4         | 4.44%   |
+| Intel Centrino Advanced-N 6200                                          | 4         | 4.44%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 3         | 3.33%   |
+| Intel Wireless 8265 / 8275                                              | 3         | 3.33%   |
+| Intel Wireless 8260                                                     | 3         | 3.33%   |
+| Intel Wireless 3165                                                     | 3         | 3.33%   |
+| Intel Centrino Wireless-N 2230                                          | 3         | 3.33%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 2.22%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                     | 2         | 2.22%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 2         | 2.22%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 2         | 2.22%   |
+| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection           | 2         | 2.22%   |
+| Intel Centrino Ultimate-N 6300                                          | 2         | 2.22%   |
+| Intel Cannon Lake PCH CNVi WiFi                                         | 2         | 2.22%   |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 2         | 2.22%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                      | 1         | 1.11%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                | 1         | 1.11%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                         | 1         | 1.11%   |
+| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 1.11%   |
+| Realtek 802.11ac WLAN Adapter                                           | 1         | 1.11%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                   | 1         | 1.11%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                               | 1         | 1.11%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                               | 1         | 1.11%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter              | 1         | 1.11%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)          | 1         | 1.11%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)          | 1         | 1.11%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 1.11%   |
+| Intel Wireless-AC 9260                                                  | 1         | 1.11%   |
+| Intel WiFi Link 5100                                                    | 1         | 1.11%   |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                  | 1         | 1.11%   |
+| Intel Wi-Fi 6 AX201                                                     | 1         | 1.11%   |
+| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 1         | 1.11%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection                   | 1         | 1.11%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                         | 1         | 1.11%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                        | 1         | 1.11%   |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                         | 1         | 1.11%   |
 
 Ethernet Vendor
 ---------------
@@ -2128,7 +2128,7 @@ Ethernet models
 | Qualcomm Atheros AR8132 Fast Ethernet                                          | 1         | 1.23%   |
 | Nvidia MCP67 Ethernet                                                          | 1         | 1.23%   |
 | Nvidia MCP51 Ethernet Controller                                               | 1         | 1.23%   |
-| MediaTek Armor 8 Pro                                                           | 1         | 1.23%   |
+| MediaTek KINGKONG_MINI                                                         | 1         | 1.23%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 1.23%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                        | 1         | 1.23%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                         | 1         | 1.23%   |
@@ -2138,7 +2138,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                                          | 1         | 1.23%   |
 | Intel 82579V Gigabit Network Connection                                        | 1         | 1.23%   |
 | Intel 82567LM Gigabit Network Connection                                       | 1         | 1.23%   |
-| Huawei MLA-L11                                                                 | 1         | 1.23%   |
+| Huawei ANA-NX9                                                                 | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                              | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                               | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express                        | 1         | 1.23%   |
@@ -2411,11 +2411,11 @@ Memory module models
 | Unknown RAM Module 1024MB Chip DDR 533MT/s                       | 1         | 0.85%   |
 | Unknown (F301) RAM G2BT-4AFP00 16384MB SODIMM DDR4 2133MT/s      | 1         | 0.85%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 0.85%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 1         | 0.85%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB DIMM DDR3 2400MT/s     | 1         | 0.85%   |
 | TRS STAR RAM Module 8GB SODIMM DDR3 1333MT/s                     | 1         | 0.85%   |
 | Teikon RAM TMT451S6BFR8A-PBHJ 4GB SODIMM DDR3 1600MT/s           | 1         | 0.85%   |
-| Team RAM TEAMGROUP-SD4-2400 8GB SODIMM DDR4 8400MT/s             | 1         | 0.85%   |
-| Smart RAM SH564128FH8NZPHSCG 4096MB SODIMM DDR3 1334MT/s         | 1         | 0.85%   |
+| Team RAM TEAMGROUP-SD4-2400 16GB SODIMM DDR4 8400MT/s            | 1         | 0.85%   |
+| Smart RAM SH564128FH8NZPHSCG 4GB SODIMM DDR3 1334MT/s            | 1         | 0.85%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2400MT/s                 | 1         | 0.85%   |
 | SK hynix RAM HYMP112S64CP6-Y5 1GB SODIMM DDR 667MT/s             | 1         | 0.85%   |
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 0.85%   |
@@ -2594,7 +2594,6 @@ Camera device models
 | Realtek Integrated_Webcam_HD                                | 3         | 4%      |
 | Syntek EasyCamera                                           | 2         | 2.67%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 2         | 2.67%   |
-| Realtek USB2.0 HD UVC WebCam                                | 2         | 2.67%   |
 | Microdia Integrated Webcam                                  | 2         | 2.67%   |
 | Lite-On Integrated Camera                                   | 2         | 2.67%   |
 | Lenovo Integrated Webcam [R5U877]                           | 2         | 2.67%   |
@@ -2618,6 +2617,8 @@ Camera device models
 | Samsung Galaxy A5 (MTP)                                     | 1         | 1.33%   |
 | Ricoh USB2.0 Camera                                         | 1         | 1.33%   |
 | Realtek USB2.0 VGA UVC WebCam                               | 1         | 1.33%   |
+| Realtek USB2.0 HD UVC WebCam                                | 1         | 1.33%   |
+| Realtek Laptop_Integrated_Webcam_HD                         | 1         | 1.33%   |
 | Realtek Integrated Webcam HD                                | 1         | 1.33%   |
 | Realtek Integrated Webcam                                   | 1         | 1.33%   |
 | Realtek HD Webcam - Realtek                                 | 1         | 1.33%   |
@@ -2629,7 +2630,6 @@ Camera device models
 | Microdia HP Integrated Webcam                               | 1         | 1.33%   |
 | Lite-On HP Wide Vision FHD Camera                           | 1         | 1.33%   |
 | Lenovo UVC Camera                                           | 1         | 1.33%   |
-| Importek TOSHIBA Web Camera - HD                            | 1         | 1.33%   |
 
 Security
 --------
@@ -2718,8 +2718,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 51        | 57.95%  |
-| 1     | 30        | 34.09%  |
-| 2     | 7         | 7.95%   |
+| 1     | 29        | 32.95%  |
+| 2     | 8         | 9.09%   |
 
 Unsupported Device Types
 ------------------------
@@ -2731,12 +2731,12 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 15        | 34.09%  |
-| Fingerprint reader       | 15        | 34.09%  |
-| Chipcard                 | 6         | 13.64%  |
-| Storage                  | 3         | 6.82%   |
-| Net/wireless             | 2         | 4.55%   |
-| Multimedia controller    | 1         | 2.27%   |
-| Communication controller | 1         | 2.27%   |
-| Bluetooth                | 1         | 2.27%   |
+| Graphics card            | 16        | 35.56%  |
+| Fingerprint reader       | 15        | 33.33%  |
+| Chipcard                 | 6         | 13.33%  |
+| Storage                  | 3         | 6.67%   |
+| Net/wireless             | 2         | 4.44%   |
+| Multimedia controller    | 1         | 2.22%   |
+| Communication controller | 1         | 2.22%   |
+| Bluetooth                | 1         | 2.22%   |
 

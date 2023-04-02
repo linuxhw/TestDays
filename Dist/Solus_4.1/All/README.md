@@ -1033,11 +1033,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 42        | 61     | 60.87%  |
-| 0.51-1.0   | 20        | 22     | 28.99%  |
-| 1.01-2.0   | 5         | 18     | 7.25%   |
-| 3.01-4.0   | 1         | 1      | 1.45%   |
-| 4.01-10.0  | 1         | 1      | 1.45%   |
+| 0.01-0.5   | 42        | 61     | 61.76%  |
+| 0.51-1.0   | 19        | 21     | 27.94%  |
+| 1.01-2.0   | 5         | 19     | 7.35%   |
+| 3.01-4.0   | 1         | 1      | 1.47%   |
+| 4.01-10.0  | 1         | 1      | 1.47%   |
 
 Space Total
 -----------
@@ -1233,13 +1233,13 @@ Storage controller models
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 1.09%   |
 | Samsung Electronics SATA controller                                            | 1         | 1.09%   |
 | Nvidia MCP79 AHCI Controller                                                   | 1         | 1.09%   |
-| Micron Non-Volatile memory controller                                          | 1         | 1.09%   |
+| Micron NVMe Storage Controller                                                 | 1         | 1.09%   |
 | Lenovo Non-Volatile memory controller                                          | 1         | 1.09%   |
 | Kingston Company U-SNS8154P3 NVMe SSD                                          | 1         | 1.09%   |
 | JMicron JMB363 SATA/IDE Controller                                             | 1         | 1.09%   |
 | Intel SATA Controller [RAID mode]                                              | 1         | 1.09%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 1.09%   |
-| Intel Non-Volatile memory controller                                           | 1         | 1.09%   |
+| Intel NVMe Controller                                                          | 1         | 1.09%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1         | 1.09%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller       | 1         | 1.09%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 1         | 1.09%   |
@@ -1615,30 +1615,30 @@ Monitor vendors
 
 | Vendor               | Computers | Percent |
 |----------------------|-----------|---------|
-| AU Optronics         | 12        | 15.38%  |
-| Samsung Electronics  | 11        | 14.1%   |
-| BOE                  | 8         | 10.26%  |
-| LG Display           | 7         | 8.97%   |
-| Goldstar             | 7         | 8.97%   |
-| AOC                  | 5         | 6.41%   |
-| Chimei Innolux       | 4         | 5.13%   |
-| Dell                 | 3         | 3.85%   |
-| Apple                | 3         | 3.85%   |
-| Ancor Communications | 3         | 3.85%   |
-| Sharp                | 2         | 2.56%   |
-| ___                  | 1         | 1.28%   |
-| ViewSonic            | 1         | 1.28%   |
-| Unknown              | 1         | 1.28%   |
-| Sony                 | 1         | 1.28%   |
-| Philips              | 1         | 1.28%   |
-| PANDA                | 1         | 1.28%   |
-| MSI                  | 1         | 1.28%   |
-| LG Electronics       | 1         | 1.28%   |
-| Lenovo               | 1         | 1.28%   |
-| Hewlett-Packard      | 1         | 1.28%   |
-| GKK                  | 1         | 1.28%   |
-| BenQ                 | 1         | 1.28%   |
-| ASUSTek Computer     | 1         | 1.28%   |
+| AU Optronics         | 12        | 15.58%  |
+| Samsung Electronics  | 11        | 14.29%  |
+| BOE                  | 8         | 10.39%  |
+| LG Display           | 7         | 9.09%   |
+| Goldstar             | 6         | 7.79%   |
+| AOC                  | 5         | 6.49%   |
+| Chimei Innolux       | 4         | 5.19%   |
+| Dell                 | 3         | 3.9%    |
+| Apple                | 3         | 3.9%    |
+| Ancor Communications | 3         | 3.9%    |
+| Sharp                | 2         | 2.6%    |
+| ___                  | 1         | 1.3%    |
+| ViewSonic            | 1         | 1.3%    |
+| Unknown              | 1         | 1.3%    |
+| Sony                 | 1         | 1.3%    |
+| Philips              | 1         | 1.3%    |
+| PANDA                | 1         | 1.3%    |
+| MSI                  | 1         | 1.3%    |
+| LG Electronics       | 1         | 1.3%    |
+| Lenovo               | 1         | 1.3%    |
+| Hewlett-Packard      | 1         | 1.3%    |
+| GKK                  | 1         | 1.3%    |
+| BenQ                 | 1         | 1.3%    |
+| ASUSTek Computer     | 1         | 1.3%    |
 
 Monitor Model
 -------------
@@ -1650,46 +1650,46 @@ Monitor models
 
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 2         | 2.56%   |
-| ___ LCD TV ___9000 1360x768                                           | 1         | 1.28%   |
-| ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                | 1         | 1.28%   |
-| Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 1.28%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                 | 1         | 1.28%   |
-| Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
-| Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 1.28%   |
-| Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 1.28%   |
-| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch    | 1         | 1.28%   |
-| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch    | 1         | 1.28%   |
-| Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch     | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC3641 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch  | 1         | 1.28%   |
-| Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch               | 1         | 1.28%   |
-| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 1.28%   |
-| MSI G27C5 MSI3CA9 1920x1080 598x336mm 27.0-inch                       | 1         | 1.28%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                     | 1         | 1.28%   |
-| LG Display LCD Monitor LGD05B4 1920x1080 294x165mm 13.3-inch          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0597 1920x1080 294x165mm 13.3-inch          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 1.28%   |
-| LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 1.28%   |
-| LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch           | 1         | 1.28%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 1.28%   |
-| Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch            | 1         | 1.28%   |
-| Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch              | 1         | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1         | 1.28%   |
-| Goldstar ULTRAGEAR GSM5B7F 2560x1440 597x336mm 27.0-inch              | 1         | 1.28%   |
-| Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                  | 1         | 1.28%   |
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 1.28%   |
-| Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
-| Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                  | 1         | 1.28%   |
-| GKK MONITOR GKK3034 1920x1080                                         | 1         | 1.28%   |
-| Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                   | 1         | 1.28%   |
-| Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                      | 1         | 1.28%   |
-| Dell LCD Monitor U2412M                                               | 1         | 1.28%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 2         | 2.6%    |
+| ___ LCD TV ___9000 1360x768                                           | 1         | 1.3%    |
+| ViewSonic VP191b VSC0E11 1280x1024 376x301mm 19.0-inch                | 1         | 1.3%    |
+| Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                    | 1         | 1.3%    |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 1.3%    |
+| Sharp LQ133M1JW08 SHP1425 1920x1080 294x165mm 13.3-inch               | 1         | 1.3%    |
+| Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 1.3%    |
+| Samsung Electronics SyncMaster SAM0375 1680x1050 494x320mm 23.2-inch  | 1         | 1.3%    |
+| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch    | 1         | 1.3%    |
+| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch    | 1         | 1.3%    |
+| Samsung Electronics S23B300 SAM08AF 1920x1080 510x287mm 23.0-inch     | 1         | 1.3%    |
+| Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch  | 1         | 1.3%    |
+| Samsung Electronics LCD Monitor SEC3641 1366x768 353x198mm 15.9-inch  | 1         | 1.3%    |
+| Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.3%    |
+| Samsung Electronics LCD Monitor SDC4250 1920x1080 276x156mm 12.5-inch | 1         | 1.3%    |
+| Samsung Electronics LCD Monitor SAM0B54 1366x768 609x347mm 27.6-inch  | 1         | 1.3%    |
+| Philips PHL 276E6 PHLC0FA 1920x1080 598x336mm 27.0-inch               | 1         | 1.3%    |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.3%    |
+| MSI G27C4 MSI3CA9 1920x1080 598x336mm 27.0-inch                       | 1         | 1.3%    |
+| LG Electronics LCD Monitor LG ULTRAWIDE 3440x1440                     | 1         | 1.3%    |
+| LG Display LCD Monitor LGD05B4 1920x1080 294x165mm 13.3-inch          | 1         | 1.3%    |
+| LG Display LCD Monitor LGD0597 1920x1080 294x165mm 13.3-inch          | 1         | 1.3%    |
+| LG Display LCD Monitor LGD0570 1920x1080 344x194mm 15.5-inch          | 1         | 1.3%    |
+| LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch          | 1         | 1.3%    |
+| LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch          | 1         | 1.3%    |
+| LG Display LCD Monitor LGD0404 1366x768 277x156mm 12.5-inch           | 1         | 1.3%    |
+| LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch           | 1         | 1.3%    |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 1.3%    |
+| Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch            | 1         | 1.3%    |
+| Goldstar ULTRAWIDE GSM76E4 3440x1440 800x335mm 34.1-inch              | 1         | 1.3%    |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1         | 1.3%    |
+| Goldstar T730SH GSM43CB 1280x960 310x230mm 15.2-inch                  | 1         | 1.3%    |
+| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1         | 1.3%    |
+| Goldstar E2241 GSM581A 1920x1080 477x268mm 21.5-inch                  | 1         | 1.3%    |
+| Goldstar E2241 GSM5819 1920x1080 477x268mm 21.5-inch                  | 1         | 1.3%    |
+| GKK MONITOR GKK3034 1920x1080                                         | 1         | 1.3%    |
+| Dell S2719DGF DELD0E6 2560x1440 597x336mm 27.0-inch                   | 1         | 1.3%    |
+| Dell S2009W DELA044 1600x900 443x249mm 20.0-inch                      | 1         | 1.3%    |
+| Dell LCD Monitor U2412M                                               | 1         | 1.3%    |
+| Chimei Innolux LCD Monitor CMN15D2 1920x1080 344x193mm 15.5-inch      | 1         | 1.3%    |
 
 Monitor Resolution
 ------------------
@@ -1701,22 +1701,22 @@ Monitor screen resolution
 
 | Resolution         | Computers | Percent |
 |--------------------|-----------|---------|
-| 1920x1080 (FHD)    | 34        | 47.89%  |
-| 1366x768 (WXGA)    | 13        | 18.31%  |
-| 2560x1440 (QHD)    | 4         | 5.63%   |
-| 1600x900 (HD+)     | 4         | 5.63%   |
-| 3840x2160 (4K)     | 2         | 2.82%   |
-| 1440x900 (WXGA+)   | 2         | 2.82%   |
-| 1280x800 (WXGA)    | 2         | 2.82%   |
-| Unknown            | 2         | 2.82%   |
-| 4480x1440          | 1         | 1.41%   |
-| 3440x1440          | 1         | 1.41%   |
-| 2560x1600          | 1         | 1.41%   |
-| 2560x1080          | 1         | 1.41%   |
-| 1680x1050 (WSXGA+) | 1         | 1.41%   |
-| 1360x768           | 1         | 1.41%   |
-| 1280x1024 (SXGA)   | 1         | 1.41%   |
-| 1152x864           | 1         | 1.41%   |
+| 1920x1080 (FHD)    | 34        | 48.57%  |
+| 1366x768 (WXGA)    | 13        | 18.57%  |
+| 1600x900 (HD+)     | 4         | 5.71%   |
+| 2560x1440 (QHD)    | 3         | 4.29%   |
+| 3840x2160 (4K)     | 2         | 2.86%   |
+| 1440x900 (WXGA+)   | 2         | 2.86%   |
+| 1280x800 (WXGA)    | 2         | 2.86%   |
+| Unknown            | 2         | 2.86%   |
+| 4480x1440          | 1         | 1.43%   |
+| 3440x1440          | 1         | 1.43%   |
+| 2560x1600          | 1         | 1.43%   |
+| 2560x1080          | 1         | 1.43%   |
+| 1680x1050 (WSXGA+) | 1         | 1.43%   |
+| 1360x768           | 1         | 1.43%   |
+| 1280x1024 (SXGA)   | 1         | 1.43%   |
+| 1152x864           | 1         | 1.43%   |
 
 Monitor Diagonal
 ----------------
@@ -1728,21 +1728,21 @@ Diagonal size in inches
 
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
-| 15      | 20        | 26.32%  |
-| 13      | 12        | 15.79%  |
-| 14      | 8         | 10.53%  |
-| 27      | 6         | 7.89%   |
-| Unknown | 6         | 7.89%   |
-| 21      | 5         | 6.58%   |
-| 23      | 4         | 5.26%   |
-| 40      | 3         | 3.95%   |
-| 34      | 2         | 2.63%   |
-| 24      | 2         | 2.63%   |
-| 20      | 2         | 2.63%   |
-| 17      | 2         | 2.63%   |
-| 12      | 2         | 2.63%   |
-| 72      | 1         | 1.32%   |
-| 19      | 1         | 1.32%   |
+| 15      | 20        | 26.67%  |
+| 13      | 12        | 16%     |
+| 14      | 8         | 10.67%  |
+| Unknown | 6         | 8%      |
+| 27      | 5         | 6.67%   |
+| 21      | 5         | 6.67%   |
+| 23      | 4         | 5.33%   |
+| 40      | 3         | 4%      |
+| 34      | 2         | 2.67%   |
+| 24      | 2         | 2.67%   |
+| 20      | 2         | 2.67%   |
+| 17      | 2         | 2.67%   |
+| 12      | 2         | 2.67%   |
+| 72      | 1         | 1.33%   |
+| 19      | 1         | 1.33%   |
 
 Monitor Width
 -------------
@@ -1754,16 +1754,16 @@ Physical width
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
-| 301-350     | 30        | 40%     |
-| 501-600     | 10        | 13.33%  |
-| 201-300     | 10        | 13.33%  |
-| 401-500     | 8         | 10.67%  |
-| Unknown     | 6         | 8%      |
-| 351-400     | 4         | 5.33%   |
-| 801-900     | 3         | 4%      |
-| 701-800     | 2         | 2.67%   |
-| 601-700     | 1         | 1.33%   |
-| 1501-2000   | 1         | 1.33%   |
+| 301-350     | 30        | 40.54%  |
+| 201-300     | 10        | 13.51%  |
+| 501-600     | 9         | 12.16%  |
+| 401-500     | 8         | 10.81%  |
+| Unknown     | 6         | 8.11%   |
+| 351-400     | 4         | 5.41%   |
+| 801-900     | 3         | 4.05%   |
+| 701-800     | 2         | 2.7%    |
+| 601-700     | 1         | 1.35%   |
+| 1501-2000   | 1         | 1.35%   |
 
 Aspect Ratio
 ------------
@@ -1775,13 +1775,13 @@ Proportional relationship between the width and the height
 
 | Ratio   | Computers | Percent |
 |---------|-----------|---------|
-| 16/9    | 50        | 76.92%  |
-| 16/10   | 5         | 7.69%   |
-| Unknown | 5         | 7.69%   |
-| 21/9    | 2         | 3.08%   |
-| 6/5     | 1         | 1.54%   |
-| 4/3     | 1         | 1.54%   |
-| 3/2     | 1         | 1.54%   |
+| 16/9    | 49        | 76.56%  |
+| 16/10   | 5         | 7.81%   |
+| Unknown | 5         | 7.81%   |
+| 21/9    | 2         | 3.13%   |
+| 6/5     | 1         | 1.56%   |
+| 4/3     | 1         | 1.56%   |
+| 3/2     | 1         | 1.56%   |
 
 Monitor Area
 ------------
@@ -1793,21 +1793,21 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 101-110        | 18        | 23.68%  |
-| 81-90          | 13        | 17.11%  |
-| 201-250        | 10        | 13.16%  |
-| 71-80          | 7         | 9.21%   |
-| 301-350        | 6         | 7.89%   |
-| Unknown        | 6         | 7.89%   |
-| 151-200        | 3         | 3.95%   |
-| 501-1000       | 3         | 3.95%   |
-| 61-70          | 2         | 2.63%   |
-| 351-500        | 2         | 2.63%   |
-| 121-130        | 2         | 2.63%   |
-| More than 1000 | 1         | 1.32%   |
-| 251-300        | 1         | 1.32%   |
-| 111-120        | 1         | 1.32%   |
-| 91-100         | 1         | 1.32%   |
+| 101-110        | 18        | 24%     |
+| 81-90          | 13        | 17.33%  |
+| 201-250        | 10        | 13.33%  |
+| 71-80          | 7         | 9.33%   |
+| Unknown        | 6         | 8%      |
+| 301-350        | 5         | 6.67%   |
+| 151-200        | 3         | 4%      |
+| 501-1000       | 3         | 4%      |
+| 61-70          | 2         | 2.67%   |
+| 351-500        | 2         | 2.67%   |
+| 121-130        | 2         | 2.67%   |
+| More than 1000 | 1         | 1.33%   |
+| 251-300        | 1         | 1.33%   |
+| 111-120        | 1         | 1.33%   |
+| 91-100         | 1         | 1.33%   |
 
 Pixel Density
 -------------
@@ -1819,13 +1819,13 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 121-160       | 19        | 25.68%  |
-| 51-100        | 19        | 25.68%  |
-| 101-120       | 18        | 24.32%  |
-| 161-240       | 10        | 13.51%  |
-| Unknown       | 6         | 8.11%   |
-| More than 240 | 1         | 1.35%   |
-| 1-50          | 1         | 1.35%   |
+| 121-160       | 19        | 26.03%  |
+| 51-100        | 19        | 26.03%  |
+| 101-120       | 17        | 23.29%  |
+| 161-240       | 10        | 13.7%   |
+| Unknown       | 6         | 8.22%   |
+| More than 240 | 1         | 1.37%   |
+| 1-50          | 1         | 1.37%   |
 
 Multiple Monitors
 -----------------
@@ -2251,42 +2251,42 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Computers | Percent |
-|------------------------------------------------------------|-----------|---------|
-| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s            | 2         | 5.56%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s      | 2         | 5.56%   |
-| Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s             | 1         | 2.78%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
-| Unknown RAM Module 4096MB SODIMM DDR3                      | 1         | 2.78%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s               | 1         | 2.78%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s             | 1         | 2.78%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s               | 1         | 2.78%   |
-| SK hynix RAM Module 2048MB SODIMM DDR2 800MT/s             | 1         | 2.78%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
-| SK hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
-| Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.78%   |
-| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s           | 1         | 2.78%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
-| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s      | 1         | 2.78%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s     | 1         | 2.78%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1867MT/s              | 1         | 2.78%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Kingston RAM HP24D4S7S8MBP-8 8GB SODIMM DDR4 2400MT/s      | 1         | 2.78%   |
-| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| Kingston RAM 99U5428-063.A00LF 8192MB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
-| G.Skill RAM F4-2400C15-8GVR . 8GB DIMM DDR4 3200MT/s       | 1         | 2.78%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
-| Crucial RAM CT8G4SFS824A.C8FE 8GB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
-| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s        | 1         | 2.78%   |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s        | 1         | 2.78%   |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s        | 1         | 2.78%   |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s     | 1         | 2.78%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s      | 1         | 2.78%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s              | 1         | 2.78%   |
-| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
+| Model                                                   | Computers | Percent |
+|---------------------------------------------------------|-----------|---------|
+| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s         | 2         | 5.56%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s   | 2         | 5.56%   |
+| Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s          | 1         | 2.78%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s          | 1         | 2.78%   |
+| Unknown RAM Module 4096MB SODIMM DDR3                   | 1         | 2.78%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s            | 1         | 2.78%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s          | 1         | 2.78%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s            | 1         | 2.78%   |
+| SK hynix RAM Module 2048MB SODIMM DDR2 800MT/s          | 1         | 2.78%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1         | 2.78%   |
+| SK hynix RAM HMAA1GS6CMR6N-VK 8GB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
+| Samsung RAM Module 8192MB Row Of Chips LPDDR3 2133MT/s  | 1         | 2.78%   |
+| Samsung RAM Module 4096MB SODIMM LPDDR3 1600MT/s        | 1         | 2.78%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
+| Samsung RAM M471B1G73BH0-YK0 8GB SODIMM DDR3 1600MT/s   | 1         | 2.78%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s   | 1         | 2.78%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s  | 1         | 2.78%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1867MT/s           | 1         | 2.78%   |
+| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Kingston RAM HP24D4S7S8MBP-8 8GB SODIMM DDR4 2400MT/s   | 1         | 2.78%   |
+| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s   | 1         | 2.78%   |
+| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 1600MT/s | 1         | 2.78%   |
+| G.Skill RAM F4-2400C15-8GVR . 8GB DIMM DDR4 3200MT/s    | 1         | 2.78%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 2.78%   |
+| Crucial RAM CT8G4SFS824A.C8FE 8GB SODIMM DDR4 2667MT/s  | 1         | 2.78%   |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s     | 1         | 2.78%   |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s  | 1         | 2.78%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s   | 1         | 2.78%   |
+| A-DATA RAM Module 8192MB SODIMM DDR4 2400MT/s           | 1         | 2.78%   |
+| A-DATA RAM AM1P26KC8T1-BBSS 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
 
 Memory Kind
 -----------
@@ -2562,8 +2562,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 46        | 70.77%  |
-| 1     | 15        | 23.08%  |
+| 0     | 47        | 72.31%  |
+| 1     | 14        | 21.54%  |
 | 2     | 4         | 6.15%   |
 
 Unsupported Device Types
@@ -2576,12 +2576,12 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 10        | 43.48%  |
-| Net/wireless          | 3         | 13.04%  |
-| Graphics card         | 3         | 13.04%  |
-| Multimedia controller | 2         | 8.7%    |
-| Camera                | 2         | 8.7%    |
-| Tv card               | 1         | 4.35%   |
-| Net/ethernet          | 1         | 4.35%   |
-| Chipcard              | 1         | 4.35%   |
+| Fingerprint reader    | 10        | 45.45%  |
+| Net/wireless          | 3         | 13.64%  |
+| Multimedia controller | 2         | 9.09%   |
+| Graphics card         | 2         | 9.09%   |
+| Camera                | 2         | 9.09%   |
+| Tv card               | 1         | 4.55%   |
+| Net/ethernet          | 1         | 4.55%   |
+| Chipcard              | 1         | 4.55%   |
 

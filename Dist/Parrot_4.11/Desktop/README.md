@@ -736,8 +736,8 @@ Hard drive models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Unknown SD/MMC/MS PRO 16GB            | 2        | 3.57%   |
-| Seagate Expansion 1TB                 | 2        | 3.57%   |
+| Unknown SD/MMC/MS PRO 64GB            | 2        | 3.57%   |
+| Seagate Expansion+ 2TB                | 2        | 3.57%   |
 | WDC WDBNCE0010PNC 1TB SSD             | 1        | 1.79%   |
 | WDC WD5000AADS-00S9B0 500GB           | 1        | 1.79%   |
 | WDC WD5000AACS-00ZUB0 500GB           | 1        | 1.79%   |
@@ -855,9 +855,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 37     | 54.29%  |
-| 0.51-1.0   | 13       | 14     | 37.14%  |
-| 1.01-2.0   | 2        | 2      | 5.71%   |
+| 0.01-0.5   | 19       | 36     | 54.29%  |
+| 0.51-1.0   | 12       | 13     | 34.29%  |
+| 1.01-2.0   | 3        | 4      | 8.57%   |
 | 3.01-4.0   | 1        | 1      | 2.86%   |
 
 Space Total
@@ -974,7 +974,7 @@ Failed drive models
 
 | Model                     | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| Intenso SSD SATAIII 256GB | 1        | 1      | 100%    |
+| Intenso SSD SATAIII 512GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1384,7 +1384,7 @@ Monitor models
 
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
-| Vizio E421VO VIZ0070 1920x1080 930x523mm 42.0-inch          | 1        | 4%      |
+| Vizio M220VA VIZ0070 1920x1080 476x268mm 21.5-inch          | 1        | 4%      |
 | Toshiba TV TSB0105 1920x1080 708x398mm 32.0-inch            | 1        | 4%      |
 | Sony SDM-HX73 SNY2870 1280x1024 338x270mm 17.0-inch         | 1        | 4%      |
 | Sceptre LCD Monitor P30 2560x1080                           | 1        | 4%      |
@@ -1583,7 +1583,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 1        | 2.56%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller            | 1        | 2.56%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller            | 1        | 2.56%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:019B7071                           | 1        | 2.56%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:D902E15D                           | 1        | 2.56%   |
 | Microsoft Xbox 360 Wireless Adapter                                  | 1        | 2.56%   |
 | Intel Wireless 7265                                                  | 1        | 2.56%   |
 | Intel Wireless 3160                                                  | 1        | 2.56%   |

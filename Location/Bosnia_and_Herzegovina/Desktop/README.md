@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 67
+Total: 68
 
 | Vendor        | Model                    | Probe                                                      | Date         |
 |---------------|--------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | H61M-S2PV                | [76f456d63a](https://linux-hardware.org/?probe=76f456d63a) | Mar 10, 2023 |
 | Gigabyte      | H61M-S2PV                | [319d6a8bc3](https://linux-hardware.org/?probe=319d6a8bc3) | Mar 01, 2023 |
 | Gigabyte      | H61M-S2PV                | [ce63d81075](https://linux-hardware.org/?probe=ce63d81075) | Mar 01, 2023 |
 | Gigabyte      | B85M-D2V                 | [03dd6fafbb](https://linux-hardware.org/?probe=03dd6fafbb) | Jan 09, 2023 |
@@ -252,7 +253,7 @@ Installed operating systems
 | Ubuntu Unity 21.10  | 1        | 2.08%   |
 | Ubuntu Unity 18.04  | 1        | 2.08%   |
 | Ubuntu Studio 20.04 | 1        | 2.08%   |
-| Ubuntu 22.10        | 1        | 2.08%   |
+| Ubuntu 22.04        | 1        | 2.08%   |
 | ROSA R10            | 1        | 2.08%   |
 | Pop!_OS 20.10       | 1        | 2.08%   |
 | Pop!_OS 20.04       | 1        | 2.08%   |
@@ -332,7 +333,7 @@ Version of the Linux kernel
 | 5.4.0-37-generic                | 1        | 1.82%   |
 | 5.4.0-31-generic                | 1        | 1.82%   |
 | 5.3.0-28-generic                | 1        | 1.82%   |
-| 5.19.0-31-generic               | 1        | 1.82%   |
+| 5.19.0-35-generic               | 1        | 1.82%   |
 | 5.15.0-50-generic               | 1        | 1.82%   |
 | 5.14.18-100.fc33.x86_64         | 1        | 1.82%   |
 | 5.13.0-23-generic               | 1        | 1.82%   |
@@ -503,8 +504,8 @@ EFI or BIOS
 
 | Mode | Desktops | Percent |
 |------|----------|---------|
-| BIOS | 34       | 73.91%  |
-| EFI  | 12       | 26.09%  |
+| BIOS | 33       | 71.74%  |
+| EFI  | 13       | 28.26%  |
 
 Filesystem
 ----------
@@ -696,13 +697,13 @@ Motherboard manufacture year
 | 2011 | 4        | 8.89%   |
 | 2007 | 4        | 8.89%   |
 | 2018 | 3        | 6.67%   |
+| 2015 | 3        | 6.67%   |
 | 2013 | 3        | 6.67%   |
 | 2019 | 2        | 4.44%   |
-| 2016 | 2        | 4.44%   |
-| 2015 | 2        | 4.44%   |
 | 2006 | 2        | 4.44%   |
 | 2005 | 2        | 4.44%   |
 | 2017 | 1        | 2.22%   |
+| 2016 | 1        | 2.22%   |
 | 2010 | 1        | 2.22%   |
 
 Form Factor
@@ -984,13 +985,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 16       | 25     | 37.21%  |
-| Seagate             | 13       | 17     | 30.23%  |
-| Hitachi             | 6        | 6      | 13.95%  |
-| Toshiba             | 3        | 3      | 6.98%   |
-| Samsung Electronics | 3        | 3      | 6.98%   |
-| Maxtor              | 1        | 1      | 2.33%   |
-| Fujitsu             | 1        | 1      | 2.33%   |
+| WDC                 | 16       | 25     | 36.36%  |
+| Seagate             | 13       | 17     | 29.55%  |
+| Hitachi             | 6        | 6      | 13.64%  |
+| Toshiba             | 3        | 3      | 6.82%   |
+| Samsung Electronics | 3        | 3      | 6.82%   |
+| Maxtor              | 1        | 1      | 2.27%   |
+| Fujitsu             | 1        | 1      | 2.27%   |
+| ASMT                | 1        | 1      | 2.27%   |
 
 SSD Vendor
 ----------
@@ -1002,13 +1004,12 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 9        | 11     | 42.86%  |
-| WDC                 | 3        | 3      | 14.29%  |
-| Samsung Electronics | 3        | 5      | 14.29%  |
-| China               | 3        | 5      | 14.29%  |
-| Transcend           | 1        | 2      | 4.76%   |
-| Intel               | 1        | 1      | 4.76%   |
-| ASMT                | 1        | 1      | 4.76%   |
+| Kingston            | 9        | 11     | 45%     |
+| WDC                 | 3        | 3      | 15%     |
+| Samsung Electronics | 3        | 5      | 15%     |
+| China               | 3        | 5      | 15%     |
+| Transcend           | 1        | 2      | 5%      |
+| Intel               | 1        | 1      | 5%      |
 
 Drive Kind
 ----------
@@ -1020,8 +1021,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 37       | 56     | 63.79%  |
-| SSD     | 18       | 28     | 31.03%  |
+| HDD     | 37       | 57     | 63.79%  |
+| SSD     | 18       | 27     | 31.03%  |
 | NVMe    | 2        | 2      | 3.45%   |
 | Unknown | 1        | 1      | 1.72%   |
 
@@ -1068,9 +1069,9 @@ Amount of disk space available on the file system
 |----------------|----------|---------|
 | 51-100         | 10       | 20.83%  |
 | 101-250        | 9        | 18.75%  |
+| 251-500        | 7        | 14.58%  |
 | 1-20           | 7        | 14.58%  |
-| 251-500        | 6        | 12.5%   |
-| 501-1000       | 6        | 12.5%   |
+| 501-1000       | 5        | 10.42%  |
 | 21-50          | 4        | 8.33%   |
 | 1001-2000      | 3        | 6.25%   |
 | More than 3000 | 2        | 4.17%   |
@@ -1087,10 +1088,10 @@ Amount of used disk space
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
 | 1-20      | 25       | 48.08%  |
-| 21-50     | 8        | 15.38%  |
-| 101-250   | 5        | 9.62%   |
+| 21-50     | 9        | 17.31%  |
 | 51-100    | 5        | 9.62%   |
 | 251-500   | 4        | 7.69%   |
+| 101-250   | 4        | 7.69%   |
 | 501-1000  | 3        | 5.77%   |
 | 2001-3000 | 1        | 1.92%   |
 | Unknown   | 1        | 1.92%   |
@@ -1103,13 +1104,16 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                            | Desktops | Drives | Percent |
-|----------------------------------|----------|--------|---------|
-| WDC WDS240G2G0A-00JH30 240GB SSD | 1        | 1      | 20%     |
-| Seagate ST3120813AS 120GB        | 1        | 1      | 20%     |
-| Seagate ST3000DM001-1CH166 3TB   | 1        | 2      | 20%     |
-| Seagate ST250LT021-1AF14C 250GB  | 1        | 1      | 20%     |
-| Hitachi HDS721050CLA362 500GB    | 1        | 1      | 20%     |
+| Model                             | Desktops | Drives | Percent |
+|-----------------------------------|----------|--------|---------|
+| WDC WDS240G2G0A-00JH30 240GB SSD  | 1        | 1      | 12.5%   |
+| WDC WD5000AVDS-73U7B1 500GB       | 1        | 1      | 12.5%   |
+| Seagate ST3120813AS 120GB         | 1        | 1      | 12.5%   |
+| Seagate ST3000DM001-1CH166 3TB    | 1        | 2      | 12.5%   |
+| Seagate ST250LT021-1AF14C 250GB   | 1        | 1      | 12.5%   |
+| Samsung Electronics HD322HJ 320GB | 1        | 1      | 12.5%   |
+| Hitachi HDS721050CLA362 500GB     | 1        | 1      | 12.5%   |
+| China SATA SSD 240GB              | 1        | 1      | 12.5%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1119,11 +1123,13 @@ Vendors of faulty drives
 ![Malfunc. Drive Vendor](./images/pie_chart/drive_malfunc_vendor.svg)
 
 
-| Vendor  | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| Seagate | 3        | 4      | 60%     |
-| WDC     | 1        | 1      | 20%     |
-| Hitachi | 1        | 1      | 20%     |
+| Vendor              | Desktops | Drives | Percent |
+|---------------------|----------|--------|---------|
+| Seagate             | 3        | 4      | 37.5%   |
+| WDC                 | 2        | 2      | 25%     |
+| Samsung Electronics | 1        | 1      | 12.5%   |
+| Hitachi             | 1        | 1      | 12.5%   |
+| China               | 1        | 1      | 12.5%   |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1133,10 +1139,12 @@ Vendors of faulty HDD drives
 ![Malfunc. HDD Vendor](./images/pie_chart/drive_malfunc_hdd_vendor.svg)
 
 
-| Vendor  | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| Seagate | 3        | 4      | 75%     |
-| Hitachi | 1        | 1      | 25%     |
+| Vendor              | Desktops | Drives | Percent |
+|---------------------|----------|--------|---------|
+| Seagate             | 3        | 4      | 50%     |
+| WDC                 | 1        | 1      | 16.67%  |
+| Samsung Electronics | 1        | 1      | 16.67%  |
+| Hitachi             | 1        | 1      | 16.67%  |
 
 Malfunc. Drive Kind
 -------------------
@@ -1148,8 +1156,8 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 3        | 5      | 75%     |
-| SSD  | 1        | 1      | 25%     |
+| HDD  | 4        | 7      | 66.67%  |
+| SSD  | 2        | 2      | 33.33%  |
 
 Failed Drives
 -------------
@@ -1175,9 +1183,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 35       | 64     | 74.47%  |
+| Detected | 34       | 61     | 72.34%  |
 | Works    | 8        | 17     | 17.02%  |
-| Malfunc  | 4        | 6      | 8.51%   |
+| Malfunc  | 5        | 9      | 10.64%  |
 
 Storage controller
 ------------------
@@ -1584,10 +1592,10 @@ Total video memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 21       | 45.65%  |
+| Unknown    | 20       | 43.48%  |
 | 1.01-2.0   | 9        | 19.57%  |
+| 0.51-1.0   | 7        | 15.22%  |
 | 0.01-0.5   | 7        | 15.22%  |
-| 0.51-1.0   | 6        | 13.04%  |
 | 7.01-8.0   | 1        | 2.17%   |
 | 5.01-6.0   | 1        | 2.17%   |
 | 3.01-4.0   | 1        | 2.17%   |
@@ -1605,22 +1613,22 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Samsung Electronics  | 11       | 25.58%  |
-| Goldstar             | 6        | 13.95%  |
-| AOC                  | 4        | 9.3%    |
-| Philips              | 3        | 6.98%   |
-| Unknown              | 2        | 4.65%   |
-| Sony                 | 2        | 4.65%   |
-| IBM                  | 2        | 4.65%   |
-| Fujitsu Siemens      | 2        | 4.65%   |
-| Dell                 | 2        | 4.65%   |
-| BenQ                 | 2        | 4.65%   |
-| Ancor Communications | 2        | 4.65%   |
-| ViewSonic            | 1        | 2.33%   |
-| Vestel Elektronik    | 1        | 2.33%   |
-| CTV                  | 1        | 2.33%   |
-| Belinea              | 1        | 2.33%   |
-| ASUSTek Computer     | 1        | 2.33%   |
+| Samsung Electronics  | 11       | 26.19%  |
+| Goldstar             | 5        | 11.9%   |
+| AOC                  | 4        | 9.52%   |
+| Philips              | 3        | 7.14%   |
+| Unknown              | 2        | 4.76%   |
+| Sony                 | 2        | 4.76%   |
+| IBM                  | 2        | 4.76%   |
+| Fujitsu Siemens      | 2        | 4.76%   |
+| Dell                 | 2        | 4.76%   |
+| BenQ                 | 2        | 4.76%   |
+| Ancor Communications | 2        | 4.76%   |
+| ViewSonic            | 1        | 2.38%   |
+| Vestel Elektronik    | 1        | 2.38%   |
+| CTV                  | 1        | 2.38%   |
+| Belinea              | 1        | 2.38%   |
+| ASUSTek Computer     | 1        | 2.38%   |
 
 Monitor Model
 -------------
@@ -1632,46 +1640,46 @@ Monitor models
 
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
-| IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 4.44%   |
-| AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 4.44%   |
-| ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.22%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                       | 1        | 2.22%   |
-| Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.22%   |
-| Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.22%   |
-| Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.22%   |
-| Sony TV  *00 SNY4904 3840x2160                                         | 1        | 2.22%   |
-| Samsung Electronics SyncMaster SAM0564 1360x768 410x230mm 18.5-inch    | 1        | 2.22%   |
-| Samsung Electronics SyncMaster SAM03E2 1680x1050 433x271mm 20.1-inch   | 1        | 2.22%   |
-| Samsung Electronics SyncMaster SAM01F9 1280x1024 376x301mm 19.0-inch   | 1        | 2.22%   |
-| Samsung Electronics SyncMaster SAM0169 1280x1024 376x301mm 19.0-inch   | 1        | 2.22%   |
-| Samsung Electronics SAMTRON 50X/V STN0011 1024x768 304x228mm 15.0-inch | 1        | 2.22%   |
-| Samsung Electronics S27D590 SAM0B49 1920x1080 598x336mm 27.0-inch      | 1        | 2.22%   |
-| Samsung Electronics S24D391 SAM0B87 1920x1080 521x293mm 23.5-inch      | 1        | 2.22%   |
-| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1        | 2.22%   |
-| Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch      | 1        | 2.22%   |
-| Samsung Electronics LCD Monitor SyncMaster 1680x1050                   | 1        | 2.22%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch   | 1        | 2.22%   |
-| Samsung Electronics LCD Monitor SAM0659 1920x1080                      | 1        | 2.22%   |
-| Philips LCD Monitor FTV                                                | 1        | 2.22%   |
-| Philips LCD Monitor 170S 3200x1080                                     | 1        | 2.22%   |
-| Philips 192EL PHLC04E 1366x768 410x230mm 18.5-inch                     | 1        | 2.22%   |
-| Philips 170S PHL0856 1280x1024 338x270mm 17.0-inch                     | 1        | 2.22%   |
-| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 1        | 2.22%   |
-| Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                   | 1        | 2.22%   |
-| Goldstar IPS231 GSM5816 1920x1080 510x290mm 23.1-inch                  | 1        | 2.22%   |
-| Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                  | 1        | 2.22%   |
-| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 2.22%   |
-| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                 | 1        | 2.22%   |
-| Fujitsu Siemens B22W-6 LED FUS07F3 1680x1050 474x296mm 22.0-inch       | 1        | 2.22%   |
-| Fujitsu Siemens A17-1 FUS0565 1280x1024 340x270mm 17.1-inch            | 1        | 2.22%   |
-| Dell S2409W DELA038 1920x1080 531x298mm 24.0-inch                      | 1        | 2.22%   |
-| Dell 2208WFP DEL403C 1680x1050 473x296mm 22.0-inch                     | 1        | 2.22%   |
-| CTV CTV CTV0B01 1366x768 698x393mm 31.5-inch                           | 1        | 2.22%   |
-| BenQ ZOWIE XL LCD BNQ7F31 1920x1080 531x298mm 24.0-inch                | 1        | 2.22%   |
-| BenQ GW2780 BNQ78E6 1920x1080 598x336mm 27.0-inch                      | 1        | 2.22%   |
-| Belinea b.disp2.1_22W MAX08A0 1680x1050 474x297mm 22.0-inch            | 1        | 2.22%   |
-| ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch           | 1        | 2.22%   |
-| AOC LCD Monitor 24E1W1 1920x1080                                       | 1        | 2.22%   |
+| IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 4.55%   |
+| AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 4.55%   |
+| ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.27%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.27%   |
+| Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.27%   |
+| Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.27%   |
+| Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.27%   |
+| Sony TV *00 SNY4904 3840x2160                                          | 1        | 2.27%   |
+| Samsung Electronics SyncMaster SAM0564 1360x768 410x230mm 18.5-inch    | 1        | 2.27%   |
+| Samsung Electronics SyncMaster SAM03E2 1680x1050 433x271mm 20.1-inch   | 1        | 2.27%   |
+| Samsung Electronics SyncMaster SAM01F9 1280x1024 376x301mm 19.0-inch   | 1        | 2.27%   |
+| Samsung Electronics SyncMaster SAM0169 1280x1024 376x301mm 19.0-inch   | 1        | 2.27%   |
+| Samsung Electronics SAMTRON 50X/V STN0011 1024x768 304x228mm 15.0-inch | 1        | 2.27%   |
+| Samsung Electronics S27D590 SAM0B49 1920x1080 598x336mm 27.0-inch      | 1        | 2.27%   |
+| Samsung Electronics S24D391 SAM0B87 1920x1080 521x293mm 23.5-inch      | 1        | 2.27%   |
+| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1        | 2.27%   |
+| Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch      | 1        | 2.27%   |
+| Samsung Electronics LCD Monitor SyncMaster 1680x1050                   | 1        | 2.27%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch   | 1        | 2.27%   |
+| Samsung Electronics LCD Monitor SAM0659 1920x1080                      | 1        | 2.27%   |
+| Philips LCD Monitor FTV                                                | 1        | 2.27%   |
+| Philips LCD Monitor 170S 3200x1080                                     | 1        | 2.27%   |
+| Philips 192EL PHLC04E 1366x768 410x230mm 18.5-inch                     | 1        | 2.27%   |
+| Philips 170S PHL0856 1280x1024 338x270mm 17.0-inch                     | 1        | 2.27%   |
+| Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                    | 1        | 2.27%   |
+| Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                   | 1        | 2.27%   |
+| Goldstar IPS231 GSM5816 1920x1080 510x290mm 23.1-inch                  | 1        | 2.27%   |
+| Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 2.27%   |
+| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                 | 1        | 2.27%   |
+| Fujitsu Siemens B22W-6 LED FUS07F3 1680x1050 474x296mm 22.0-inch       | 1        | 2.27%   |
+| Fujitsu Siemens A17-1 FUS0565 1280x1024 340x270mm 17.1-inch            | 1        | 2.27%   |
+| Dell S2409W DELA038 1920x1080 531x298mm 24.0-inch                      | 1        | 2.27%   |
+| Dell 2208WFP DEL403C 1680x1050 473x296mm 22.0-inch                     | 1        | 2.27%   |
+| CTV CTV CTV0B01 1366x768 698x393mm 31.5-inch                           | 1        | 2.27%   |
+| BenQ ZOWIE XL LCD BNQ7F31 1920x1080 531x298mm 24.0-inch                | 1        | 2.27%   |
+| BenQ GW2780 BNQ78E6 1920x1080 598x336mm 27.0-inch                      | 1        | 2.27%   |
+| Belinea b.disp2.1_22W MAX08A0 1680x1050 474x297mm 22.0-inch            | 1        | 2.27%   |
+| ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch           | 1        | 2.27%   |
+| AOC LCD Monitor 24E1W1 1920x1080                                       | 1        | 2.27%   |
+| AOC LCD Monitor 2262w 1920x1080                                        | 1        | 2.27%   |
 
 Monitor Resolution
 ------------------
@@ -1683,17 +1691,17 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 16       | 37.21%  |
-| 1280x1024 (SXGA)   | 8        | 18.6%   |
-| 1680x1050 (WSXGA+) | 6        | 13.95%  |
-| 3840x2160 (4K)     | 4        | 9.3%    |
-| 1440x900 (WXGA+)   | 2        | 4.65%   |
-| 1366x768 (WXGA)    | 2        | 4.65%   |
-| 3200x1080          | 1        | 2.33%   |
-| 1600x900 (HD+)     | 1        | 2.33%   |
-| 1360x768           | 1        | 2.33%   |
-| 1024x768 (XGA)     | 1        | 2.33%   |
-| Unknown            | 1        | 2.33%   |
+| 1920x1080 (FHD)    | 16       | 38.1%   |
+| 1280x1024 (SXGA)   | 8        | 19.05%  |
+| 1680x1050 (WSXGA+) | 6        | 14.29%  |
+| 3840x2160 (4K)     | 3        | 7.14%   |
+| 1440x900 (WXGA+)   | 2        | 4.76%   |
+| 1366x768 (WXGA)    | 2        | 4.76%   |
+| 3200x1080          | 1        | 2.38%   |
+| 1600x900 (HD+)     | 1        | 2.38%   |
+| 1360x768           | 1        | 2.38%   |
+| 1024x768 (XGA)     | 1        | 2.38%   |
+| Unknown            | 1        | 2.38%   |
 
 Monitor Diagonal
 ----------------
@@ -1705,20 +1713,20 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 7        | 15.91%  |
-| 27      | 4        | 9.09%   |
-| 23      | 4        | 9.09%   |
-| 21      | 4        | 9.09%   |
-| 19      | 4        | 9.09%   |
-| 24      | 3        | 6.82%   |
-| 22      | 3        | 6.82%   |
-| 17      | 3        | 6.82%   |
-| 15      | 3        | 6.82%   |
-| 72      | 2        | 4.55%   |
-| 31      | 2        | 4.55%   |
-| 20      | 2        | 4.55%   |
-| 18      | 2        | 4.55%   |
-| 84      | 1        | 2.27%   |
+| Unknown | 7        | 16.28%  |
+| 23      | 4        | 9.3%    |
+| 21      | 4        | 9.3%    |
+| 19      | 4        | 9.3%    |
+| 27      | 3        | 6.98%   |
+| 24      | 3        | 6.98%   |
+| 22      | 3        | 6.98%   |
+| 17      | 3        | 6.98%   |
+| 15      | 3        | 6.98%   |
+| 72      | 2        | 4.65%   |
+| 31      | 2        | 4.65%   |
+| 20      | 2        | 4.65%   |
+| 18      | 2        | 4.65%   |
+| 84      | 1        | 2.33%   |
 
 Monitor Width
 -------------
@@ -1730,13 +1738,13 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 401-500     | 13       | 30.95%  |
-| 501-600     | 9        | 21.43%  |
-| Unknown     | 7        | 16.67%  |
-| 301-350     | 6        | 14.29%  |
-| 1501-2000   | 3        | 7.14%   |
-| 601-700     | 2        | 4.76%   |
-| 351-400     | 2        | 4.76%   |
+| 401-500     | 13       | 31.71%  |
+| 501-600     | 8        | 19.51%  |
+| Unknown     | 7        | 17.07%  |
+| 301-350     | 6        | 14.63%  |
+| 1501-2000   | 3        | 7.32%   |
+| 601-700     | 2        | 4.88%   |
+| 351-400     | 2        | 4.88%   |
 
 Aspect Ratio
 ------------
@@ -1765,15 +1773,15 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 12       | 28.57%  |
-| Unknown        | 7        | 16.67%  |
-| 151-200        | 6        | 14.29%  |
-| 141-150        | 5        | 11.9%   |
-| 301-350        | 4        | 9.52%   |
-| More than 1000 | 3        | 7.14%   |
-| 351-500        | 2        | 4.76%   |
-| 111-120        | 2        | 4.76%   |
-| 101-110        | 1        | 2.38%   |
+| 201-250        | 12       | 29.27%  |
+| Unknown        | 7        | 17.07%  |
+| 151-200        | 6        | 14.63%  |
+| 141-150        | 5        | 12.2%   |
+| More than 1000 | 3        | 7.32%   |
+| 301-350        | 3        | 7.32%   |
+| 351-500        | 2        | 4.88%   |
+| 111-120        | 2        | 4.88%   |
+| 101-110        | 1        | 2.44%   |
 
 Pixel Density
 -------------
@@ -1785,11 +1793,11 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 23       | 57.5%   |
-| Unknown | 7        | 17.5%   |
-| 101-120 | 6        | 15%     |
-| 1-50    | 2        | 5%      |
-| 161-240 | 2        | 5%      |
+| 51-100  | 23       | 58.97%  |
+| Unknown | 7        | 17.95%  |
+| 101-120 | 6        | 15.38%  |
+| 1-50    | 2        | 5.13%   |
+| 161-240 | 1        | 2.56%   |
 
 Multiple Monitors
 -----------------
@@ -2153,7 +2161,7 @@ Memory module models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s                     | 2        | 7.69%   |
-| Kingston RAM 99U5584-005.A00LF 4096MB DIMM DDR3 1600MT/s                | 2        | 7.69%   |
+| Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                   | 2        | 7.69%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 7.69%   |
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 3.85%   |
 | Unknown RAM Module 2048MB DIMM DDR2 333MT/s                             | 1        | 3.85%   |
@@ -2161,7 +2169,7 @@ Memory module models
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                                | 1        | 3.85%   |
 | Unknown RAM Module 1024MB DIMM DDR 800MT/s                              | 1        | 3.85%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                    | 1        | 3.85%   |
-| SK hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 1333MT/s                       | 1        | 3.85%   |
+| SK hynix RAM HMT351U6CFR8C 4096MB DIMM DDR3 1333MT/s                    | 1        | 3.85%   |
 | SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s                    | 1        | 3.85%   |
 | Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 3.85%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s                    | 1        | 3.85%   |

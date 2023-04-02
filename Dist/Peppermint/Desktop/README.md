@@ -861,8 +861,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 65       | 67.71%  |
-| No        | 31       | 32.29%  |
+| Yes       | 64       | 66.67%  |
+| No        | 32       | 33.33%  |
 
 Has Ethernet
 ------------
@@ -1169,9 +1169,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 81       | 122    | 70.43%  |
+| 0.01-0.5   | 82       | 123    | 71.3%   |
 | 0.51-1.0   | 22       | 28     | 19.13%  |
-| 1.01-2.0   | 10       | 14     | 8.7%    |
+| 1.01-2.0   | 9        | 13     | 7.83%   |
 | 2.01-3.0   | 1        | 3      | 0.87%   |
 | 4.01-10.0  | 1        | 1      | 0.87%   |
 
@@ -1809,8 +1809,8 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.15%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.08%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.08%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                        | 1        | 1.08%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.08%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.08%   |
+| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.08%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.08%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.08%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.08%   |
@@ -1836,7 +1836,7 @@ Monitor models
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.08%   |
 | Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                   | 1        | 1.08%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.08%   |
-| KTC 32T72-H-AN KTC3200 1360x768 698x392mm 31.5-inch                     | 1        | 1.08%   |
+| KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                        | 1        | 1.08%   |
 | Hitachi 40E31 HTC0139 1920x1080 575x323mm 26.0-inch                     | 1        | 1.08%   |
 | Hewlett-Packard w2338h HWP281B 1920x1080 509x286mm 23.0-inch            | 1        | 1.08%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.08%   |
@@ -2447,7 +2447,7 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s          | 2        | 8.33%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s     | 2        | 8.33%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s             | 2        | 8.33%   |
 | Unknown RAM Module 4GB DIMM 1066MT/s                    | 1        | 4.17%   |
 | Unknown RAM Module 2GB DIMM DDR2                        | 1        | 4.17%   |
@@ -2459,7 +2459,7 @@ Memory module models
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.17%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s            | 1        | 4.17%   |
 | Samsung RAM M378B2873FHS-CH9 1GB DIMM 1600MT/s          | 1        | 4.17%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 4.17%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s   | 1        | 4.17%   |
 | Nanya RAM NT1GT64UH8D0FN-AD 1GB DIMM DDR2 2048MT/s      | 1        | 4.17%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s      | 1        | 4.17%   |
@@ -2676,8 +2676,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 75       | 76.53%  |
-| 1     | 20       | 20.41%  |
+| 0     | 74       | 75.51%  |
+| 1     | 21       | 21.43%  |
 | 2     | 3        | 3.06%   |
 
 Unsupported Device Types
@@ -2690,11 +2690,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 8        | 30.77%  |
-| Communication controller | 8        | 30.77%  |
-| Graphics card            | 5        | 19.23%  |
-| Camera                   | 2        | 7.69%   |
-| Unassigned class         | 1        | 3.85%   |
-| Sound                    | 1        | 3.85%   |
-| Net/ethernet             | 1        | 3.85%   |
+| Net/wireless             | 8        | 29.63%  |
+| Communication controller | 8        | 29.63%  |
+| Graphics card            | 6        | 22.22%  |
+| Camera                   | 2        | 7.41%   |
+| Unassigned class         | 1        | 3.7%    |
+| Sound                    | 1        | 3.7%    |
+| Net/ethernet             | 1        | 3.7%    |
 

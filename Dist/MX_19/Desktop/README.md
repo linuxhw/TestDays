@@ -1620,19 +1620,19 @@ Monitor models
 | ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.17%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 2.17%   |
 | ViewSonic VS2210-FHD VSC1939 1920x1080 476x268mm 21.5-inch              | 1        | 2.17%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                        | 1        | 2.17%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 2.17%   |
 | SANYO Casper SAN2213 1600x900 304x228mm 15.0-inch                       | 1        | 2.17%   |
 | Samsung Electronics SyncMaster SAM02FE 1680x1050 433x271mm 20.1-inch    | 1        | 2.17%   |
 | Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 2.17%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 2.17%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 1872x1053mm 84.6-inch | 1        | 2.17%   |
-| Philips FTV PHL04C3 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.17%   |
-| Philips FTV PHL01EA 1920x1080 640x360mm 28.9-inch                       | 1        | 2.17%   |
+| Philips FTV PHL04C3 3840x2160 1440x810mm 65.0-inch                      | 1        | 2.17%   |
+| Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                      | 1        | 2.17%   |
 | MSI MAG271C MSI3FA6 1920x1080 600x340mm 27.2-inch                       | 1        | 2.17%   |
 | IBM L191p IBM24CB 1280x1024 380x300mm 19.1-inch                         | 1        | 2.17%   |
 | HYO SyncMaster HYO049B 2560x1440 597x336mm 27.0-inch                    | 1        | 2.17%   |
 | Goldstar W2361 GSM56FA 1920x1080 510x290mm 23.1-inch                    | 1        | 2.17%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                    | 1        | 2.17%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                    | 1        | 2.17%   |
 | Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch               | 1        | 2.17%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch               | 1        | 2.17%   |
 | Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                        | 1        | 2.17%   |
@@ -2126,48 +2126,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4096MB DIMM 1600MT/s                  | 3        | 5.36%   |
-| Unknown RAM Module 1024MB DIMM DDR 333MT/s               | 2        | 3.57%   |
-| SK hynix RAM HYMP125U64CP8-S6 2048MB DIMM DDR2 49926MT/s | 2        | 3.57%   |
-| Unknown RAM Module 512MB DIMM DDR 200MT/s                | 1        | 1.79%   |
-| Unknown RAM Module 4GB DIMM SDRAM                        | 1        | 1.79%   |
-| Unknown RAM Module 4GB DIMM DDR2 800MT/s                 | 1        | 1.79%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s               | 1        | 1.79%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 1.79%   |
-| Unknown RAM Module 2048MB DIMM 800MT/s                   | 1        | 1.79%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                  | 1        | 1.79%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s              | 1        | 1.79%   |
-| Unknown RAM Module 1024MB DIMM DDR 400MT/s               | 1        | 1.79%   |
-| Unknown RAM Module 1024MB DIMM DDR 200MT/s               | 1        | 1.79%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                   | 1        | 1.79%   |
-| Smart RAM SH564128FH8N6TNSQG 4096MB DIMM DDR3 1600MT/s   | 1        | 1.79%   |
-| Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s   | 1        | 1.79%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
-| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s     | 1        | 1.79%   |
-| Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s      | 1        | 1.79%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s      | 1        | 1.79%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 1.79%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 1.79%   |
-| RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s            | 1        | 1.79%   |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s       | 1        | 1.79%   |
-| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s       | 1        | 1.79%   |
-| OCZ RAM OCZ2N800SR2G 2048MB DIMM DDR 800MT/s             | 1        | 1.79%   |
-| Kingston RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 1.79%   |
-| Kingston RAM Module 4096MB DIMM DDR3 1333MT/s            | 1        | 1.79%   |
-| Kingston RAM Module 2048MB DIMM DDR2 667MT/s             | 1        | 1.79%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 1.79%   |
-| Kingston RAM KHX1600C9D3/8GX 8GB DIMM DDR3 2133MT/s      | 1        | 1.79%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s      | 1        | 1.79%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 1        | 1.79%   |
-| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s           | 1        | 1.79%   |
-| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2400MT/s   | 1        | 1.79%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM 800MT/s          | 1        | 1.79%   |
-| Kingston RAM 9965525-026.A00LF 8GB DIMM DDR3 1333MT/s    | 1        | 1.79%   |
-| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s       | 1        | 1.79%   |
-| G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s        | 1        | 1.79%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4096MB DIMM 1600MT/s                | 3        | 5.36%   |
+| Unknown RAM Module 1024MB DIMM DDR 333MT/s             | 2        | 3.57%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s  | 2        | 3.57%   |
+| Unknown RAM Module 512MB DIMM DDR 200MT/s              | 1        | 1.79%   |
+| Unknown RAM Module 4GB DIMM SDRAM                      | 1        | 1.79%   |
+| Unknown RAM Module 4GB DIMM DDR2 800MT/s               | 1        | 1.79%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s             | 1        | 1.79%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 1        | 1.79%   |
+| Unknown RAM Module 2048MB DIMM 800MT/s                 | 1        | 1.79%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                | 1        | 1.79%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s            | 1        | 1.79%   |
+| Unknown RAM Module 1024MB DIMM DDR 400MT/s             | 1        | 1.79%   |
+| Unknown RAM Module 1024MB DIMM DDR 200MT/s             | 1        | 1.79%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                 | 1        | 1.79%   |
+| Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
+| Smart RAM SH564128FH8N0QHSCG 4096MB DIMM DDR3 1333MT/s | 1        | 1.79%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s   | 1        | 1.79%   |
+| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s   | 1        | 1.79%   |
+| Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1333MT/s    | 1        | 1.79%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 1.79%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM SDRAM           | 1        | 1.79%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s    | 1        | 1.79%   |
+| RZX RAM D3D10M1600B-8G 8GB DIMM DDR3 1600MT/s          | 1        | 1.79%   |
+| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3266MT/s    | 1        | 1.79%   |
+| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s     | 1        | 1.79%   |
+| OCZ RAM OCZ2N800SR2G 2048MB DIMM DDR 800MT/s           | 1        | 1.79%   |
+| Kingston RAM Module 4096MB DIMM DDR3 1600MT/s          | 1        | 1.79%   |
+| Kingston RAM Module 4096MB DIMM DDR3 1333MT/s          | 1        | 1.79%   |
+| Kingston RAM Module 2048MB DIMM DDR2 667MT/s           | 1        | 1.79%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s      | 1        | 1.79%   |
+| Kingston RAM KHX1600C9D3/8GX 8192MB DIMM DDR3 2133MT/s | 1        | 1.79%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s    | 1        | 1.79%   |
+| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s         | 1        | 1.79%   |
+| Kingston RAM CL16-16-16 D4-2400 4GB DIMM DDR4 2400MT/s | 1        | 1.79%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 1.79%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM 800MT/s        | 1        | 1.79%   |
+| Kingston RAM 9965525-026.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 1.79%   |
+| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s     | 1        | 1.79%   |
+| G.Skill RAM F3-2133C9-8GTX 8GB DIMM DDR3 2133MT/s      | 1        | 1.79%   |
 
 Memory Kind
 -----------
@@ -2318,15 +2318,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                     | Desktops | Percent |
-|---------------------------|----------|---------|
-| Logitech Webcam C200      | 2        | 25%     |
-| Microsoft LifeCam HD-3000 | 1        | 12.5%   |
-| Logitech Webcam Pro 9000  | 1        | 12.5%   |
-| Logitech Webcam C270      | 1        | 12.5%   |
-| Logitech B525 HD Webcam   | 1        | 12.5%   |
-| Huawei HD Webcam          | 1        | 12.5%   |
-| Generalplus 808 Camera    | 1        | 12.5%   |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Logitech Webcam C200                     | 2        | 25%     |
+| Microsoft LifeCam HD-3000                | 1        | 12.5%   |
+| Logitech Webcam Pro 9000                 | 1        | 12.5%   |
+| Logitech Webcam C270                     | 1        | 12.5%   |
+| Logitech B525 HD Webcam                  | 1        | 12.5%   |
+| Huawei UVC Camera                        | 1        | 12.5%   |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 12.5%   |
 
 Security
 --------

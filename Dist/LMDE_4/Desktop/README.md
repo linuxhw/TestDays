@@ -1131,7 +1131,7 @@ Hard drive models
 | Seagate ST2000LX001-1RG174 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-9YN164 2TB         | 2        | 0.71%   |
 | Seagate ST2000DM001-1ER164 2TB         | 2        | 0.71%   |
-| Seagate Expansion 1TB                  | 2        | 0.71%   |
+| Seagate Expansion+ 2TB                 | 2        | 0.71%   |
 | Samsung SSD 850 EVO 500GB              | 2        | 0.71%   |
 | Samsung SP0802N 80GB                   | 2        | 0.71%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 256GB | 2        | 0.71%   |
@@ -1243,12 +1243,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 121      | 231    | 62.37%  |
-| 0.51-1.0   | 46       | 69     | 23.71%  |
-| 1.01-2.0   | 19       | 27     | 9.79%   |
-| 3.01-4.0   | 4        | 8      | 2.06%   |
-| 2.01-3.0   | 2        | 2      | 1.03%   |
-| 4.01-10.0  | 2        | 2      | 1.03%   |
+| 0.01-0.5   | 121      | 232    | 61.73%  |
+| 0.51-1.0   | 47       | 67     | 23.98%  |
+| 1.01-2.0   | 20       | 28     | 10.2%   |
+| 3.01-4.0   | 4        | 8      | 2.04%   |
+| 2.01-3.0   | 2        | 2      | 1.02%   |
+| 4.01-10.0  | 2        | 2      | 1.02%   |
 
 Space Total
 -----------
@@ -1457,9 +1457,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 | Kind | Desktops | Percent |
 |------|----------|---------|
 | SATA | 96       | 50.53%  |
-| IDE  | 68       | 35.79%  |
+| IDE  | 67       | 35.26%  |
 | NVMe | 15       | 7.89%   |
-| RAID | 8        | 4.21%   |
+| RAID | 9        | 4.74%   |
 | SAS  | 2        | 1.05%   |
 | SCSI | 1        | 0.53%   |
 
@@ -1857,24 +1857,24 @@ Monitor vendors
 
 | Vendor                  | Desktops | Percent |
 |-------------------------|----------|---------|
-| Samsung Electronics     | 29       | 17.9%   |
-| Dell                    | 16       | 9.88%   |
-| Goldstar                | 15       | 9.26%   |
-| Acer                    | 15       | 9.26%   |
-| AOC                     | 9        | 5.56%   |
-| Ancor Communications    | 9        | 5.56%   |
-| Unknown                 | 6        | 3.7%    |
-| Philips                 | 6        | 3.7%    |
-| Hewlett-Packard         | 6        | 3.7%    |
-| BenQ                    | 6        | 3.7%    |
-| Lenovo                  | 4        | 2.47%   |
-| Fujitsu Siemens         | 4        | 2.47%   |
-| Sony                    | 3        | 1.85%   |
-| Iiyama                  | 3        | 1.85%   |
-| Sceptre Tech            | 2        | 1.23%   |
-| NEC Computers           | 2        | 1.23%   |
-| LG Electronics          | 2        | 1.23%   |
-| eMachines               | 2        | 1.23%   |
+| Samsung Electronics     | 29       | 18.01%  |
+| Dell                    | 16       | 9.94%   |
+| Goldstar                | 15       | 9.32%   |
+| Acer                    | 15       | 9.32%   |
+| AOC                     | 9        | 5.59%   |
+| Ancor Communications    | 8        | 4.97%   |
+| Unknown                 | 6        | 3.73%   |
+| Philips                 | 6        | 3.73%   |
+| Hewlett-Packard         | 6        | 3.73%   |
+| BenQ                    | 6        | 3.73%   |
+| Lenovo                  | 4        | 2.48%   |
+| Fujitsu Siemens         | 4        | 2.48%   |
+| Sony                    | 3        | 1.86%   |
+| Iiyama                  | 3        | 1.86%   |
+| Sceptre Tech            | 2        | 1.24%   |
+| NEC Computers           | 2        | 1.24%   |
+| LG Electronics          | 2        | 1.24%   |
+| eMachines               | 2        | 1.24%   |
 | ___                     | 1        | 0.62%   |
 | Vestel                  | 1        | 0.62%   |
 | Toshiba                 | 1        | 0.62%   |
@@ -1908,46 +1908,46 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch     | 2        | 1.2%    |
-| Dell 1707FP DEL4012 1280x1024 338x270mm 17.0-inch                       | 2        | 1.2%    |
-| AOC 2036 AOC2036 1600x900 443x249mm 20.0-inch                           | 2        | 1.2%    |
-| ___ LCD Monitor ___A995 1600x1200 360x270mm 17.7-inch                   | 1        | 0.6%    |
-| Vestel LCD Monitor 58UHD_LCD_TV 3840x2160                               | 1        | 0.6%    |
-| Unknown Monitor A995 1280x1024 360x270mm 17.7-inch                      | 1        | 0.6%    |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 0.6%    |
-| Unknown LCD Monitor SAMSUNG                                             | 1        | 0.6%    |
-| Unknown LCD Monitor Mitsubishi NXM76LCD 1280x1024                       | 1        | 0.6%    |
-| Unknown LCD Monitor GBT G34WQC 3440x1440                                | 1        | 0.6%    |
-| Unknown HV-734TB ___1770 1280x1024 338x270mm 17.0-inch                  | 1        | 0.6%    |
-| Toshiba LCD Monitor TV 1920x1080                                        | 1        | 0.6%    |
-| Targa Visionary LCD19-4 TARA194 1280x1024 376x301mm 19.0-inch           | 1        | 0.6%    |
-| Sony TV SNY4C03 1920x1080 1063x598mm 48.0-inch                          | 1        | 0.6%    |
-| Sony TV SNY1B02 1360x768                                                | 1        | 0.6%    |
-| Sony LCD Monitor TV 3840x1080                                           | 1        | 0.6%    |
-| Sceptre Tech F24 SPT0961 1920x1080 480x260mm 21.5-inch                  | 1        | 0.6%    |
-| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                  | 1        | 0.6%    |
-| Samsung Electronics T27B300 SAM0933 1920x1080 598x336mm 27.0-inch       | 1        | 0.6%    |
-| Samsung Electronics T23B350 SAM093B 1920x1080 510x287mm 23.0-inch       | 1        | 0.6%    |
-| Samsung Electronics SyncMaster SAM0497 1600x900 443x249mm 20.0-inch     | 1        | 0.6%    |
-| Samsung Electronics SyncMaster SAM03D7 1680x1050 459x296mm 21.5-inch    | 1        | 0.6%    |
-| Samsung Electronics SyncMaster SAM034F 1440x900 428x255mm 19.6-inch     | 1        | 0.6%    |
-| Samsung Electronics SyncMaster SAM0303 1680x1050 494x320mm 23.2-inch    | 1        | 0.6%    |
-| Samsung Electronics SyncMaster SAM0217 1280x1024 376x301mm 19.0-inch    | 1        | 0.6%    |
-| Samsung Electronics SyncMaster SAM01BB 1280x1024 376x301mm 19.0-inch    | 1        | 0.6%    |
-| Samsung Electronics SyncMaster SAM006E 1280x1024 338x270mm 17.0-inch    | 1        | 0.6%    |
-| Samsung Electronics SMS24A350H SAM07D6 1920x1080 531x299mm 24.0-inch    | 1        | 0.6%    |
-| Samsung Electronics SMS22A200/460 SAM0831 1920x1080 477x268mm 21.5-inch | 1        | 0.6%    |
-| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch      | 1        | 0.6%    |
-| Samsung Electronics SMB2230 SAM063E 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S24R35x SAM100E 1920x1080 527x296mm 23.8-inch       | 1        | 0.6%    |
-| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S24D360 SAM0B24 1920x1080 521x293mm 23.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch       | 1        | 0.6%    |
-| Samsung Electronics S22D390 SAM0B63 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S22B300 SAM08AC 1920x1080 477x268mm 21.5-inch       | 1        | 0.6%    |
-| Samsung Electronics S19F350 SAM0D46 1366x768 410x230mm 18.5-inch        | 1        | 0.6%    |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch     | 2        | 1.21%   |
+| Dell 1707FP DEL4012 1280x1024 338x270mm 17.0-inch                       | 2        | 1.21%   |
+| AOC 2036 AOC2036 1600x900 443x249mm 20.0-inch                           | 2        | 1.21%   |
+| ___ LCD Monitor ___A995 1600x1200 360x270mm 17.7-inch                   | 1        | 0.61%   |
+| Vestel LCD Monitor 58UHD_LCD_TV 3840x2160                               | 1        | 0.61%   |
+| Unknown Monitor A995 1280x1024 360x270mm 17.7-inch                      | 1        | 0.61%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 0.61%   |
+| Unknown LCD Monitor SAMSUNG                                             | 1        | 0.61%   |
+| Unknown LCD Monitor Mitsubishi NXM76LCD 1280x1024                       | 1        | 0.61%   |
+| Unknown LCD Monitor GBT G34WQC 3440x1440                                | 1        | 0.61%   |
+| Unknown HV-734TB ___1770 1280x1024 338x270mm 17.0-inch                  | 1        | 0.61%   |
+| Toshiba LCD Monitor TV 1920x1080                                        | 1        | 0.61%   |
+| Targa Visionary LCD19-4 TARA194 1280x1024 376x301mm 19.0-inch           | 1        | 0.61%   |
+| Sony TV SNY4C03 1920x1080 1063x598mm 48.0-inch                          | 1        | 0.61%   |
+| Sony TV SNY1B02 1360x768                                                | 1        | 0.61%   |
+| Sony LCD Monitor TV 3840x1080                                           | 1        | 0.61%   |
+| Sceptre Tech F24 SPT0961 1920x1080 480x260mm 21.5-inch                  | 1        | 0.61%   |
+| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                  | 1        | 0.61%   |
+| Samsung Electronics T27B300 SAM0933 1920x1080 598x336mm 27.0-inch       | 1        | 0.61%   |
+| Samsung Electronics T23B350 SAM093B 1920x1080 510x287mm 23.0-inch       | 1        | 0.61%   |
+| Samsung Electronics SyncMaster SAM0497 1600x900 443x249mm 20.0-inch     | 1        | 0.61%   |
+| Samsung Electronics SyncMaster SAM03D7 1680x1050 459x296mm 21.5-inch    | 1        | 0.61%   |
+| Samsung Electronics SyncMaster SAM034F 1440x900 428x255mm 19.6-inch     | 1        | 0.61%   |
+| Samsung Electronics SyncMaster SAM0303 1680x1050 494x320mm 23.2-inch    | 1        | 0.61%   |
+| Samsung Electronics SyncMaster SAM0217 1280x1024 376x301mm 19.0-inch    | 1        | 0.61%   |
+| Samsung Electronics SyncMaster SAM01BB 1280x1024 376x301mm 19.0-inch    | 1        | 0.61%   |
+| Samsung Electronics SyncMaster SAM006E 1280x1024 338x270mm 17.0-inch    | 1        | 0.61%   |
+| Samsung Electronics SMS24A350H SAM07D6 1920x1080 531x299mm 24.0-inch    | 1        | 0.61%   |
+| Samsung Electronics SMS22A200/460 SAM0831 1920x1080 477x268mm 21.5-inch | 1        | 0.61%   |
+| Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch      | 1        | 0.61%   |
+| Samsung Electronics SMB2230 SAM063E 1920x1080 477x268mm 21.5-inch       | 1        | 0.61%   |
+| Samsung Electronics S24R35x SAM100E 1920x1080 527x296mm 23.8-inch       | 1        | 0.61%   |
+| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch       | 1        | 0.61%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 0.61%   |
+| Samsung Electronics S24D360 SAM0B24 1920x1080 521x293mm 23.5-inch       | 1        | 0.61%   |
+| Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch       | 1        | 0.61%   |
+| Samsung Electronics S22D390 SAM0B63 1920x1080 477x268mm 21.5-inch       | 1        | 0.61%   |
+| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch       | 1        | 0.61%   |
+| Samsung Electronics S22B300 SAM08AC 1920x1080 477x268mm 21.5-inch       | 1        | 0.61%   |
+| Samsung Electronics S19F350 SAM0D46 1366x768 410x230mm 18.5-inch        | 1        | 0.61%   |
 
 Monitor Resolution
 ------------------
@@ -1959,18 +1959,18 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 68       | 44.16%  |
-| 1280x1024 (SXGA)   | 30       | 19.48%  |
-| 1680x1050 (WSXGA+) | 9        | 5.84%   |
-| 1440x900 (WXGA+)   | 9        | 5.84%   |
-| 1366x768 (WXGA)    | 7        | 4.55%   |
-| 1920x1200 (WUXGA)  | 5        | 3.25%   |
-| 3840x2160 (4K)     | 4        | 2.6%    |
-| 1600x900 (HD+)     | 4        | 2.6%    |
-| 1360x768           | 4        | 2.6%    |
-| 1024x768 (XGA)     | 4        | 2.6%    |
-| Unknown            | 3        | 1.95%   |
-| 3440x1440          | 2        | 1.3%    |
+| 1920x1080 (FHD)    | 67       | 43.79%  |
+| 1280x1024 (SXGA)   | 30       | 19.61%  |
+| 1680x1050 (WSXGA+) | 9        | 5.88%   |
+| 1440x900 (WXGA+)   | 9        | 5.88%   |
+| 1366x768 (WXGA)    | 7        | 4.58%   |
+| 1920x1200 (WUXGA)  | 5        | 3.27%   |
+| 3840x2160 (4K)     | 4        | 2.61%   |
+| 1600x900 (HD+)     | 4        | 2.61%   |
+| 1360x768           | 4        | 2.61%   |
+| 1024x768 (XGA)     | 4        | 2.61%   |
+| Unknown            | 3        | 1.96%   |
+| 3440x1440          | 2        | 1.31%   |
 | 7680x2160          | 1        | 0.65%   |
 | 4240x1440          | 1        | 0.65%   |
 | 3840x1080          | 1        | 0.65%   |
@@ -1987,29 +1987,29 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 23       | 14.56%  |
-| 21      | 20       | 12.66%  |
-| 19      | 16       | 10.13%  |
-| 17      | 16       | 10.13%  |
-| 24      | 14       | 8.86%   |
-| 23      | 14       | 8.86%   |
-| 18      | 12       | 7.59%   |
-| 27      | 11       | 6.96%   |
-| 15      | 7        | 4.43%   |
-| 22      | 6        | 3.8%    |
-| 20      | 5        | 3.16%   |
-| 31      | 3        | 1.9%    |
-| 72      | 1        | 0.63%   |
-| 54      | 1        | 0.63%   |
-| 52      | 1        | 0.63%   |
-| 48      | 1        | 0.63%   |
-| 33      | 1        | 0.63%   |
-| 32      | 1        | 0.63%   |
-| 26      | 1        | 0.63%   |
-| 16      | 1        | 0.63%   |
-| 14      | 1        | 0.63%   |
-| 13      | 1        | 0.63%   |
-| 12      | 1        | 0.63%   |
+| Unknown | 23       | 14.74%  |
+| 21      | 20       | 12.82%  |
+| 19      | 16       | 10.26%  |
+| 17      | 16       | 10.26%  |
+| 24      | 13       | 8.33%   |
+| 23      | 13       | 8.33%   |
+| 18      | 12       | 7.69%   |
+| 27      | 11       | 7.05%   |
+| 15      | 7        | 4.49%   |
+| 22      | 6        | 3.85%   |
+| 20      | 5        | 3.21%   |
+| 31      | 3        | 1.92%   |
+| 72      | 1        | 0.64%   |
+| 54      | 1        | 0.64%   |
+| 52      | 1        | 0.64%   |
+| 48      | 1        | 0.64%   |
+| 33      | 1        | 0.64%   |
+| 32      | 1        | 0.64%   |
+| 26      | 1        | 0.64%   |
+| 16      | 1        | 0.64%   |
+| 14      | 1        | 0.64%   |
+| 13      | 1        | 0.64%   |
+| 12      | 1        | 0.64%   |
 
 Monitor Width
 -------------
@@ -2021,15 +2021,15 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 401-500     | 48       | 30.97%  |
-| 501-600     | 35       | 22.58%  |
-| 301-350     | 23       | 14.84%  |
-| Unknown     | 23       | 14.84%  |
-| 351-400     | 14       | 9.03%   |
-| 601-700     | 4        | 2.58%   |
-| 1001-1500   | 3        | 1.94%   |
-| 701-800     | 2        | 1.29%   |
-| 201-300     | 2        | 1.29%   |
+| 401-500     | 48       | 31.17%  |
+| 501-600     | 34       | 22.08%  |
+| 301-350     | 23       | 14.94%  |
+| Unknown     | 23       | 14.94%  |
+| 351-400     | 14       | 9.09%   |
+| 601-700     | 4        | 2.6%    |
+| 1001-1500   | 3        | 1.95%   |
+| 701-800     | 2        | 1.3%    |
+| 201-300     | 2        | 1.3%    |
 | 1501-2000   | 1        | 0.65%   |
 
 Aspect Ratio
@@ -2042,11 +2042,11 @@ Proportional relationship between the width and the height
 
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
-| 16/9    | 72       | 47.37%  |
-| 5/4     | 26       | 17.11%  |
-| Unknown | 22       | 14.47%  |
-| 16/10   | 21       | 13.82%  |
-| 4/3     | 9        | 5.92%   |
+| 16/9    | 71       | 47.02%  |
+| 5/4     | 26       | 17.22%  |
+| Unknown | 22       | 14.57%  |
+| 16/10   | 21       | 13.91%  |
+| 4/3     | 9        | 5.96%   |
 | 3/2     | 1        | 0.66%   |
 | 21/9    | 1        | 0.66%   |
 
@@ -2060,19 +2060,19 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 42       | 26.75%  |
-| 151-200        | 31       | 19.75%  |
-| 141-150        | 23       | 14.65%  |
-| Unknown        | 23       | 14.65%  |
-| 301-350        | 12       | 7.64%   |
-| 101-110        | 7        | 4.46%   |
-| 251-300        | 6        | 3.82%   |
-| 351-500        | 5        | 3.18%   |
-| More than 1000 | 3        | 1.91%   |
-| 111-120        | 2        | 1.27%   |
-| 81-90          | 1        | 0.64%   |
-| 71-80          | 1        | 0.64%   |
-| 501-1000       | 1        | 0.64%   |
+| 201-250        | 41       | 26.45%  |
+| 151-200        | 31       | 20%     |
+| 141-150        | 23       | 14.84%  |
+| Unknown        | 23       | 14.84%  |
+| 301-350        | 12       | 7.74%   |
+| 101-110        | 7        | 4.52%   |
+| 351-500        | 5        | 3.23%   |
+| 251-300        | 5        | 3.23%   |
+| More than 1000 | 3        | 1.94%   |
+| 111-120        | 2        | 1.29%   |
+| 81-90          | 1        | 0.65%   |
+| 71-80          | 1        | 0.65%   |
+| 501-1000       | 1        | 0.65%   |
 
 Pixel Density
 -------------
@@ -2084,11 +2084,11 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 94       | 63.51%  |
-| 101-120 | 23       | 15.54%  |
-| Unknown | 23       | 15.54%  |
-| 1-50    | 4        | 2.7%    |
-| 121-160 | 3        | 2.03%   |
+| 51-100  | 93       | 63.27%  |
+| 101-120 | 23       | 15.65%  |
+| Unknown | 23       | 15.65%  |
+| 1-50    | 4        | 2.72%   |
+| 121-160 | 3        | 2.04%   |
 | 161-240 | 1        | 0.68%   |
 
 Multiple Monitors
@@ -2232,48 +2232,48 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                                         | Desktops | Percent |
-|-----------------------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                           | 4        | 6.15%   |
-| Ralink MT7601U Wireless Adapter                                                               | 4        | 6.15%   |
-| Intel Wi-Fi 6 AX200                                                                           | 4        | 6.15%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 3        | 4.62%   |
-| Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 2        | 3.08%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 2        | 3.08%   |
-| Ralink RT5370 Wireless Adapter                                                                | 2        | 3.08%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                                         | 2        | 3.08%   |
-| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter                                             | 2        | 3.08%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 2        | 3.08%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                                | 2        | 3.08%   |
-| Qualcomm Atheros AR9227 Wireless Network Adapter                                              | 2        | 3.08%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 2        | 3.08%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 1.54%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                                  | 1        | 1.54%   |
-| TP-Link Archer T4U v2 [Realtek RTL8812AU]                                                     | 1        | 1.54%   |
-| TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1        | 1.54%   |
-| Sitecom Europe RTL8188S WLAN Adapter                                                          | 1        | 1.54%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 1.54%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                                                        | 1        | 1.54%   |
-| Realtek RTL8191SU 802.11n WLAN Adapter                                                        | 1        | 1.54%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                                         | 1        | 1.54%   |
-| Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller                                     | 1        | 1.54%   |
-| Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 1.54%   |
-| Ralink RT2501/RT2573 Wireless Adapter                                                         | 1        | 1.54%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                                                     | 1        | 1.54%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1        | 1.54%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                    | 1        | 1.54%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                                              | 1        | 1.54%   |
-| Microsoft Xbox 360 Wireless Adapter                                                           | 1        | 1.54%   |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                                       | 1        | 1.54%   |
-| Intel Wireless 8265 / 8275                                                                    | 1        | 1.54%   |
-| Intel Wireless 7265                                                                           | 1        | 1.54%   |
-| Intel Comet Lake PCH CNVi WiFi                                                                | 1        | 1.54%   |
-| Intel Centrino Wireless-N 2230                                                                | 1        | 1.54%   |
-| Intel Centrino Wireless-N 105                                                                 | 1        | 1.54%   |
-| Edimax AC600 USB                                                                              | 1        | 1.54%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                                    | 1        | 1.54%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                                            | 1        | 1.54%   |
-| Broadcom BCM43225 802.11b/g/n                                                                 | 1        | 1.54%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 4        | 6.15%   |
+| Ralink MT7601U Wireless Adapter                                | 4        | 6.15%   |
+| Intel Wi-Fi 6 AX200                                            | 4        | 6.15%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 3        | 4.62%   |
+| Realtek RTL8192CE PCIe Wireless Network Adapter                | 2        | 3.08%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                        | 2        | 3.08%   |
+| Ralink RT5370 Wireless Adapter                                 | 2        | 3.08%   |
+| Ralink RT2870/RT3070 Wireless Adapter                          | 2        | 3.08%   |
+| Ralink MT7610U ("Archer T2U" 2.4G+5G WLAN Adapter              | 2        | 3.08%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter               | 2        | 3.08%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 2        | 3.08%   |
+| Qualcomm Atheros AR9227 Wireless Network Adapter               | 2        | 3.08%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 2        | 3.08%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                    | 1        | 1.54%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1        | 1.54%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                      | 1        | 1.54%   |
+| TP-Link Archer T2U PLUS [RTL8821AU]                            | 1        | 1.54%   |
+| Sitecom Europe RTL8188S WLAN Adapter                           | 1        | 1.54%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                | 1        | 1.54%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                         | 1        | 1.54%   |
+| Realtek RTL8191SU 802.11n WLAN Adapter                         | 1        | 1.54%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter          | 1        | 1.54%   |
+| Realtek RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller      | 1        | 1.54%   |
+| Realtek 802.11ac WLAN Adapter                                  | 1        | 1.54%   |
+| Ralink RT2501/RT2573 Wireless Adapter                          | 1        | 1.54%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                      | 1        | 1.54%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 1        | 1.54%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1        | 1.54%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter               | 1        | 1.54%   |
+| Microsoft Xbox 360 Wireless Adapter                            | 1        | 1.54%   |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                        | 1        | 1.54%   |
+| Intel Wireless 8265 / 8275                                     | 1        | 1.54%   |
+| Intel Wireless 7265                                            | 1        | 1.54%   |
+| Intel Comet Lake PCH CNVi WiFi                                 | 1        | 1.54%   |
+| Intel Centrino Wireless-N 2230                                 | 1        | 1.54%   |
+| Intel Centrino Wireless-N 105                                  | 1        | 1.54%   |
+| Edimax AC600 USB                                               | 1        | 1.54%   |
+| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter     | 1        | 1.54%   |
+| Broadcom BCM4360 802.11ac Wireless Network Adapter             | 1        | 1.54%   |
+| Broadcom BCM43225 802.11b/g/n                                  | 1        | 1.54%   |
 
 Ethernet Vendor
 ---------------
@@ -2785,7 +2785,7 @@ Camera device models
 | Logitech Webcam C310                               | 1        | 5%      |
 | Logitech HD Pro Webcam C920                        | 1        | 5%      |
 | KYE Systems (Mouse Systems) Genius iSlim 2000AF V2 | 1        | 5%      |
-| Generalplus 808 Camera                             | 1        | 5%      |
+| Generalplus 808 Camera #9 (web-cam mode)           | 1        | 5%      |
 | Chicony HP High Definition 1MP Webcam              | 1        | 5%      |
 
 Security

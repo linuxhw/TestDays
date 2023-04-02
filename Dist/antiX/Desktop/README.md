@@ -995,9 +995,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| IDE  | 10       | 55.56%  |
-| SATA | 7        | 38.89%  |
-| RAID | 1        | 5.56%   |
+| IDE  | 10       | 58.82%  |
+| SATA | 6        | 35.29%  |
+| RAID | 1        | 5.88%   |
 
 Processor
 ---------
@@ -1280,7 +1280,7 @@ Monitor models
 |----------------------------------------------------------------------|----------|---------|
 | Vizio E280i-B1 VIZ1002 1360x768 607x345mm 27.5-inch                  | 1        | 12.5%   |
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch | 1        | 12.5%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 12.5%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1        | 12.5%   |
 | Goldstar M198WA GSM4B36 1440x900 410x260mm 19.1-inch                 | 1        | 12.5%   |
 | Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                     | 1        | 12.5%   |
 | Acer VG220Q ACR06D8 1920x1080 476x268mm 21.5-inch                    | 1        | 12.5%   |
@@ -1691,7 +1691,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR2 667MT/s            | 1        | 5.56%   |
 | Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s     | 1        | 5.56%   |
 | SK hynix RAM HMT325S6EFR8A-PB 2GB SODIMM DDR3 1600MT/s | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0 2GB DIMM DDR3 667MT/s         | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0 2GB DIMM DDR3 1333MT/s        | 1        | 5.56%   |
 | Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s     | 1        | 5.56%   |
 | Kllisre RAM DDR2 2G 2GB DIMM DDR2 800MT/s              | 1        | 5.56%   |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 5.56%   |
@@ -1753,14 +1753,14 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 3        | 20%     |
-| 667     | 3        | 20%     |
-| 3534    | 2        | 13.33%  |
-| 800     | 2        | 13.33%  |
-| Unknown | 2        | 13.33%  |
-| 1333    | 1        | 6.67%   |
-| 400     | 1        | 6.67%   |
-| 333     | 1        | 6.67%   |
+| 1600    | 3        | 21.43%  |
+| 3534    | 2        | 14.29%  |
+| 800     | 2        | 14.29%  |
+| 667     | 2        | 14.29%  |
+| Unknown | 2        | 14.29%  |
+| 1333    | 1        | 7.14%   |
+| 400     | 1        | 7.14%   |
+| 333     | 1        | 7.14%   |
 
 Printers & scanners
 -------------------

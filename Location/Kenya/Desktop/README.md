@@ -758,8 +758,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 19       | 51.35%  |
-| Yes       | 18       | 48.65%  |
+| Yes       | 19       | 51.35%  |
+| No        | 18       | 48.65%  |
 
 Has Ethernet
 ------------
@@ -873,7 +873,7 @@ Hard drive models
 | WDC WD3200AAJS-56M0A0 320GB        | 3        | 4.11%   |
 | Seagate ST500DM002-1BD142 500GB    | 3        | 4.11%   |
 | Toshiba DT01ACA100 1TB             | 2        | 2.74%   |
-| Team T253X2001T 1TB SSD            | 2        | 2.74%   |
+| Team T253X2001T 1024GB SSD         | 2        | 2.74%   |
 | SPCC Solid State Disk 256GB        | 2        | 2.74%   |
 | SPCC M.2 PCIe SSD 512GB            | 2        | 2.74%   |
 | Seagate ST500VT000-1BS142 500GB    | 2        | 2.74%   |
@@ -990,8 +990,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 31       | 50     | 63.27%  |
-| 0.51-1.0   | 9        | 13     | 18.37%  |
-| 1.01-2.0   | 5        | 6      | 10.2%   |
+| 0.51-1.0   | 9        | 11     | 18.37%  |
+| 1.01-2.0   | 5        | 8      | 10.2%   |
 | 4.01-10.0  | 2        | 3      | 4.08%   |
 | 3.01-4.0   | 1        | 1      | 2.04%   |
 | 2.01-3.0   | 1        | 1      | 2.04%   |
@@ -1556,17 +1556,17 @@ Monitor models
 | Dell E1910H DELD023 1366x768 410x230mm 18.5-inch                      | 2        | 4.65%   |
 | VIE LED MONITOR VIE2302 1920x1080 473x296mm 22.0-inch                 | 1        | 2.33%   |
 | Unknown LCD Monitor Hitachi Engineering Company Ltd HISENSE 3200x1080 | 1        | 2.33%   |
-| Unknown (XXX) Beyond TV XXX2851 3840x2160 1210x680mm 54.6-inch        | 1        | 2.33%   |
+| Unknown (XXX) Beyond TV XXX2851 1920x1080 1209x680mm 54.6-inch        | 1        | 2.33%   |
 | Sony TV SNYEF03 1600x900                                              | 1        | 2.33%   |
 | Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                         | 1        | 2.33%   |
 | Sony TV SNY6F02 1360x768                                              | 1        | 2.33%   |
 | Sony TV SNY0902 1360x768                                              | 1        | 2.33%   |
 | Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch  | 1        | 2.33%   |
-| S2-Tek TV STK531A 1920x1080 930x530mm 42.1-inch                       | 1        | 2.33%   |
+| S2-Tek LED TV STK531A 1360x768 930x530mm 42.1-inch                    | 1        | 2.33%   |
 | NEC Computers EA193Mi NEC6956 1280x1024 375x300mm 18.9-inch           | 1        | 2.33%   |
 | Lenovo LEN LI1931ewA LEN65A1 1366x768 409x230mm 18.5-inch             | 1        | 2.33%   |
 | Lenovo LEN E2054A LEN60DF 1440x900 419x262mm 19.5-inch                | 1        | 2.33%   |
-| Hitachi HISENSE HEC0030 1920x1080 580x330mm 26.3-inch                 | 1        | 2.33%   |
+| Hitachi HISENSE HEC0030 3840x2160 1872x1053mm 84.6-inch               | 1        | 2.33%   |
 | Hewlett-Packard Z27s HWP317F 3840x2160 596x335mm 26.9-inch            | 1        | 2.33%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch            | 1        | 2.33%   |
 | Hewlett-Packard P222va HWP322C 1920x1080 477x268mm 21.5-inch          | 1        | 2.33%   |
@@ -1752,7 +1752,7 @@ Controller vendors
 | Samsung Electronics   | 2        | 3.45%   |
 | Ralink Technology     | 1        | 1.72%   |
 | Qualcomm              | 1        | 1.72%   |
-| OPPO                  | 1        | 1.72%   |
+| OPPO Electronics      | 1        | 1.72%   |
 | Huawei Technologies   | 1        | 1.72%   |
 
 Net Controller Model
@@ -1769,7 +1769,7 @@ Controller models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 7        | 10.45%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 7.46%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 4        | 5.97%   |
-| MediaTek moto e(6) plus                                           | 4        | 5.97%   |
+| MediaTek U318AA                                                   | 4        | 5.97%   |
 | Intel I211 Gigabit Network Connection                             | 3        | 4.48%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2        | 2.99%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 2.99%   |
@@ -1779,11 +1779,11 @@ Controller models
 | Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 2.99%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 1.49%   |
 | Ralink RT2870/RT3070 Wireless Adapter                             | 1        | 1.49%   |
-| Qualcomm Redmi Note 7                                             | 1        | 1.49%   |
+| Qualcomm QM215-QRD _SN:E72764DE                                   | 1        | 1.49%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1        | 1.49%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                  | 1        | 1.49%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.49%   |
-| OPPO CPH1923                                                      | 1        | 1.49%   |
+| OPPO RMX3263                                                      | 1        | 1.49%   |
 | Intel Wireless-AC 9260                                            | 1        | 1.49%   |
 | Intel Wireless 8265 / 8275                                        | 1        | 1.49%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.49%   |
@@ -1855,7 +1855,7 @@ Ethernet vendors
 | Samsung Electronics   | 2        | 4.26%   |
 | Qualcomm Atheros      | 1        | 2.13%   |
 | Qualcomm              | 1        | 2.13%   |
-| OPPO                  | 1        | 2.13%   |
+| OPPO Electronics      | 1        | 2.13%   |
 
 Ethernet Model
 --------------
@@ -1869,7 +1869,7 @@ Ethernet models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8        | 16.67%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 10.42%  |
-| MediaTek moto e(6) plus                                           | 4        | 8.33%   |
+| MediaTek U318AA                                                   | 4        | 8.33%   |
 | Intel I211 Gigabit Network Connection                             | 3        | 6.25%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2        | 4.17%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 4.17%   |
@@ -1877,9 +1877,9 @@ Ethernet models
 | Intel 82566DM-2 Gigabit Network Connection                        | 2        | 4.17%   |
 | Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 4.17%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 2.08%   |
-| Qualcomm Redmi Note 7                                             | 1        | 2.08%   |
+| Qualcomm QM215-QRD _SN:E72764DE                                   | 1        | 2.08%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 2.08%   |
-| OPPO CPH1923                                                      | 1        | 2.08%   |
+| OPPO RMX3263                                                      | 1        | 2.08%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 2.08%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.08%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1        | 2.08%   |
@@ -2092,13 +2092,13 @@ Memory module models
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s   | 1        | 5%      |
 | SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2667MT/s   | 1        | 5%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s | 1        | 5%      |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s         | 1        | 5%      |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s    | 1        | 5%      |
 | Micron RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s   | 1        | 5%      |
 | Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s   | 1        | 5%      |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s    | 1        | 5%      |
 | Kingston RAM HP497157-D88-ELFW 2GB DIMM DDR3 1333MT/s  | 1        | 5%      |
 | Kingston RAM 9905734-102.A00G 32GB DIMM DDR4 3200MT/s  | 1        | 5%      |
-| Crucial RAM CT51264BD160B.C16F 4GB DIMM 1600MT/s       | 1        | 5%      |
+| Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s  | 1        | 5%      |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 5%      |
 | Crucial RAM CB16GU2400.C16J 16384MB DIMM DDR4 2400MT/s | 1        | 5%      |
 
@@ -2282,8 +2282,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 34       | 91.89%  |
-| 1     | 3        | 8.11%   |
+| 0     | 33       | 89.19%  |
+| 1     | 4        | 10.81%  |
 
 Unsupported Device Types
 ------------------------
@@ -2295,7 +2295,7 @@ Types of unsupported devices
 
 | Type             | Desktops | Percent |
 |------------------|----------|---------|
-| Unassigned class | 1        | 33.33%  |
-| Net/wireless     | 1        | 33.33%  |
-| Graphics card    | 1        | 33.33%  |
+| Graphics card    | 2        | 50%     |
+| Unassigned class | 1        | 25%     |
+| Net/wireless     | 1        | 25%     |
 

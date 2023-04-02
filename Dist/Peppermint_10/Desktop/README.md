@@ -796,8 +796,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 55       | 68.75%  |
-| No        | 25       | 31.25%  |
+| Yes       | 54       | 67.5%   |
+| No        | 26       | 32.5%   |
 
 Has Ethernet
 ------------
@@ -1728,8 +1728,8 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.56%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.28%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.28%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                        | 1        | 1.28%   |
-| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.28%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.28%   |
+| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.28%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.28%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.28%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.28%   |
@@ -1753,7 +1753,7 @@ Monitor models
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.28%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.28%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.28%   |
-| KTC 32T72-H-AN KTC3200 1360x768 698x392mm 31.5-inch                     | 1        | 1.28%   |
+| KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                        | 1        | 1.28%   |
 | Hewlett-Packard W2072a HWP3000 1600x900 443x249mm 20.0-inch             | 1        | 1.28%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch              | 1        | 1.28%   |
 | Hewlett-Packard LCD Monitor 2711 1920x1080                              | 1        | 1.28%   |
@@ -1761,7 +1761,7 @@ Monitor models
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch              | 1        | 1.28%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 1.28%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                     | 1        | 1.28%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 1        | 1.28%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 1        | 1.28%   |
 | Goldstar L196WTQ GSM4B4F 1440x900 408x255mm 18.9-inch                   | 1        | 1.28%   |
 
 Monitor Resolution
@@ -2359,9 +2359,9 @@ Memory module models
 | SK hynix RAM Module 2GB DIMM DDR3 1600MT/s            | 1        | 5.56%   |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s  | 1        | 5.56%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s          | 1        | 5.56%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s        | 1        | 5.56%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
 | Samsung RAM M378B2873FHS-CH9 1GB DIMM 1600MT/s        | 1        | 5.56%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s    | 1        | 5.56%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s | 1        | 5.56%   |
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s           | 1        | 5.56%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s   | 1        | 5.56%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s    | 1        | 5.56%   |
@@ -2568,8 +2568,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 63       | 77.78%  |
-| 1     | 15       | 18.52%  |
+| 0     | 62       | 76.54%  |
+| 1     | 16       | 19.75%  |
 | 2     | 3        | 3.7%    |
 
 Unsupported Device Types
@@ -2582,11 +2582,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 7        | 35%     |
-| Communication controller | 5        | 25%     |
-| Graphics card            | 4        | 20%     |
-| Unassigned class         | 1        | 5%      |
-| Sound                    | 1        | 5%      |
-| Net/ethernet             | 1        | 5%      |
-| Camera                   | 1        | 5%      |
+| Net/wireless             | 7        | 33.33%  |
+| Graphics card            | 5        | 23.81%  |
+| Communication controller | 5        | 23.81%  |
+| Unassigned class         | 1        | 4.76%   |
+| Sound                    | 1        | 4.76%   |
+| Net/ethernet             | 1        | 4.76%   |
+| Camera                   | 1        | 4.76%   |
 

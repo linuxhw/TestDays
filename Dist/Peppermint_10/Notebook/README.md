@@ -1077,7 +1077,7 @@ Hard drive vendors
 | PNY                 | 2         | 2      | 1.27%   |
 | Micron Technology   | 2         | 2      | 1.27%   |
 | Integral            | 2         | 2      | 1.27%   |
-| Goodram             | 2         | 2      | 1.27%   |
+| GOODRAM             | 2         | 2      | 1.27%   |
 | Zheino              | 1         | 1      | 0.63%   |
 | TCSUNBOW            | 1         | 1      | 0.63%   |
 | SK hynix            | 1         | 1      | 0.63%   |
@@ -1113,7 +1113,7 @@ Hard drive models
 | WDC WD3200BPVT-24JJ5T0 320GB        | 2         | 1.25%   |
 | WDC WD3200BPVT-22ZEST0 320GB        | 2         | 1.25%   |
 | WDC WD1200BEVS-22UST0 120GB         | 2         | 1.25%   |
-| Unknown SD/MMC/MS PRO 16GB          | 2         | 1.25%   |
+| Unknown SD/MMC/MS PRO 64GB          | 2         | 1.25%   |
 | Unknown MMC Card  16GB              | 2         | 1.25%   |
 | Toshiba MK5055GSX 500GB             | 2         | 1.25%   |
 | Seagate ST750LM022 HN-M750MBB 752GB | 2         | 1.25%   |
@@ -1238,8 +1238,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 117       | 142    | 86.03%  |
-| 0.51-1.0   | 17        | 18     | 12.5%   |
-| 1.01-2.0   | 2         | 2      | 1.47%   |
+| 0.51-1.0   | 16        | 17     | 11.76%  |
+| 1.01-2.0   | 3         | 3      | 2.21%   |
 
 Space Total
 -----------
@@ -1417,7 +1417,7 @@ Storage controller models
 | Nvidia MCP89 SATA Controller (AHCI mode)                                     | 1         | 0.61%   |
 | Nvidia MCP67 IDE Controller                                                  | 1         | 0.61%   |
 | Nvidia MCP67 AHCI Controller                                                 | 1         | 0.61%   |
-| Micron Non-Volatile memory controller                                        | 1         | 0.61%   |
+| Micron NVMe Storage Controller                                               | 1         | 0.61%   |
 | Intel Volume Management Device NVMe RAID Controller                          | 1         | 0.61%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                            | 1         | 0.61%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                             | 1         | 0.61%   |
@@ -1862,7 +1862,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch     | 3         | 2%      |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 3         | 2%      |
 | Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 1.33%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch     | 2         | 1.33%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch     | 2         | 1.33%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 2         | 1.33%   |
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch              | 2         | 1.33%   |
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 2         | 1.33%   |
@@ -1873,13 +1873,13 @@ Monitor models
 | Vizio E320VT VIZ0067 1920x1080 698x392mm 31.5-inch                       | 1         | 0.67%   |
 | ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch                | 1         | 0.67%   |
 | Sony TV SNY9500 1920x540 560x420mm 27.6-inch                             | 1         | 0.67%   |
-| Sony LCD SNY06FA 1600x900 291x164mm 13.2-inch                            | 1         | 0.67%   |
-| Sony LCD Monitor SNY05FA 1366x768 310x170mm 13.9-inch                    | 1         | 0.67%   |
+| Sony Nvidia Defaul t Flat Panel SNY06FA 1600x900 360x200mm 16.2-inch     | 1         | 0.67%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                    | 1         | 0.67%   |
 | Seiko/Epson LCD Monitor 1280x800                                         | 1         | 0.67%   |
 | Samsung Electronics SyncMaster SAM0019 1024x768 304x228mm 15.0-inch      | 1         | 0.67%   |
 | Samsung Electronics SMT27A300 SAM087A 1920x1080 598x336mm 27.0-inch      | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch    | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch     | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC4745 1280x800 331x207mm 15.4-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC4545 1280x800 331x207mm 15.4-inch     | 1         | 0.67%   |
@@ -2271,14 +2271,14 @@ Ethernet models
 | Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 2         | 1.46%   |
 | Broadcom Limited NetXtreme BCM5788 Gigabit Ethernet               | 2         | 1.46%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1         | 0.73%   |
-| Spreadtrum Unisoc Phone                                           | 1         | 0.73%   |
+| Spreadtrum Nokia G21                                              | 1         | 0.73%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1         | 0.73%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 0.73%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1         | 0.73%   |
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                        | 1         | 0.73%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.73%   |
 | Nvidia MCP67 Ethernet                                             | 1         | 0.73%   |
-| MediaTek Armor 8 Pro                                              | 1         | 0.73%   |
+| MediaTek KINGKONG_MINI                                            | 1         | 0.73%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 0.73%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 0.73%   |
 | Marvell Group 88E8040T PCI-E Fast Ethernet Controller             | 1         | 0.73%   |
@@ -2555,15 +2555,15 @@ Memory module models
 | SK hynix RAM HMT451S6DFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 2.33%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 2.33%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 2.33%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 2.33%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s   | 1         | 2.33%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s      | 1         | 2.33%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM 1600MT/s           | 1         | 2.33%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s      | 1         | 2.33%   |
 | Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s         | 1         | 2.33%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s       | 1         | 2.33%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s       | 1         | 2.33%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 1         | 2.33%   |
 | Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s | 1         | 2.33%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s    | 1         | 2.33%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s        | 1         | 2.33%   |
 | Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s     | 1         | 2.33%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s       | 1         | 2.33%   |
 | Kingston RAM KX830D-ELC 4GB SODIMM DDR3 1333MT/s            | 1         | 2.33%   |
@@ -2707,8 +2707,8 @@ Camera device vendors
 | Suyin                                  | 10        | 8.7%    |
 | IMC Networks                           | 10        | 8.7%    |
 | Realtek Semiconductor                  | 9         | 7.83%   |
-| Acer                                   | 9         | 7.83%   |
 | Cheng Uei Precision Industry (Foxlink) | 7         | 6.09%   |
+| Acer                                   | 7         | 6.09%   |
 | Z-Star Microelectronics                | 6         | 5.22%   |
 | Microdia                               | 6         | 5.22%   |
 | Ricoh                                  | 5         | 4.35%   |
@@ -2716,6 +2716,7 @@ Camera device vendors
 | Syntek                                 | 3         | 2.61%   |
 | Silicon Motion                         | 3         | 2.61%   |
 | Importek                               | 3         | 2.61%   |
+| Bison Electronics                      | 2         | 1.74%   |
 | Samsung Electronics                    | 1         | 0.87%   |
 | Lite-On Technology                     | 1         | 0.87%   |
 | DigiTech                               | 1         | 0.87%   |
@@ -2752,13 +2753,12 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD                             | 2         | 1.74%   |
 | Chicony Lenovo EasyCamera                                   | 2         | 1.74%   |
 | Chicony 2.0M UVC Webcam / CNF7129                           | 2         | 1.74%   |
-| Acer Integrated Camera                                      | 2         | 1.74%   |
 | Z-Star Vega USB 2.0 Camera                                  | 1         | 0.87%   |
 | Z-Star Sirius USB2.0 Camera                                 | 1         | 0.87%   |
 | Syntek USB Camera Device                                    | 1         | 0.87%   |
 | Syntek Lenovo EasyCamera                                    | 1         | 0.87%   |
 | Syntek Integrated Webcam                                    | 1         | 0.87%   |
-| Suyin Webcam-101                                            | 1         | 0.87%   |
+| Suyin HP Webcam 101                                         | 1         | 0.87%   |
 | Suyin HP Webcam                                             | 1         | 0.87%   |
 | Suyin HP Truevision HD                                      | 1         | 0.87%   |
 | Suyin HD Video WebCam                                       | 1         | 0.87%   |
@@ -2773,6 +2773,7 @@ Camera device models
 | Silicon Motion HP Webcam                                    | 1         | 0.87%   |
 | Silicon Motion 300k Pixel Camera                            | 1         | 0.87%   |
 | Samsung Galaxy A5 (MTP)                                     | 1         | 0.87%   |
+| Ricoh Integrated Webcam                                     | 1         | 0.87%   |
 
 Security
 --------
@@ -2862,9 +2863,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 97        | 65.1%   |
-| 1     | 40        | 26.85%  |
-| 2     | 11        | 7.38%   |
+| 0     | 92        | 61.74%  |
+| 1     | 46        | 30.87%  |
+| 2     | 10        | 6.71%   |
 | 4     | 1         | 0.67%   |
 
 Unsupported Device Types
@@ -2877,18 +2878,18 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 15        | 23.08%  |
-| Graphics card            | 14        | 21.54%  |
-| Net/wireless             | 10        | 15.38%  |
-| Chipcard                 | 7         | 10.77%  |
-| Storage                  | 5         | 7.69%   |
-| Modem                    | 4         | 6.15%   |
-| Bluetooth                | 3         | 4.62%   |
-| Storage/raid             | 1         | 1.54%   |
-| Storage/ide              | 1         | 1.54%   |
-| Sound                    | 1         | 1.54%   |
-| Multimedia controller    | 1         | 1.54%   |
-| Flash memory             | 1         | 1.54%   |
-| Communication controller | 1         | 1.54%   |
-| Camera                   | 1         | 1.54%   |
+| Graphics card            | 18        | 26.09%  |
+| Fingerprint reader       | 15        | 21.74%  |
+| Net/wireless             | 10        | 14.49%  |
+| Chipcard                 | 7         | 10.14%  |
+| Storage                  | 5         | 7.25%   |
+| Modem                    | 4         | 5.8%    |
+| Bluetooth                | 3         | 4.35%   |
+| Storage/raid             | 1         | 1.45%   |
+| Storage/ide              | 1         | 1.45%   |
+| Sound                    | 1         | 1.45%   |
+| Multimedia controller    | 1         | 1.45%   |
+| Flash memory             | 1         | 1.45%   |
+| Communication controller | 1         | 1.45%   |
+| Camera                   | 1         | 1.45%   |
 
