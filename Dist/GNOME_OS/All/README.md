@@ -889,8 +889,8 @@ Hard drive models
 | SK hynix NVMe SSD Drive 512GB             | 2         | 2.99%   |
 | Seagate ST9500325AS 500GB                 | 2         | 2.99%   |
 | Seagate ST500LM012 HN-M500MBB 500GB       | 2         | 2.99%   |
-| Seagate ST1000LM035-1RK172 1TB            | 2         | 2.99%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB    | 2         | 2.99%   |
+| Seagate ST1000LM035-1RK172 970GB          | 2         | 2.99%   |
+| Samsung NVMe SSD Drive 256GB              | 2         | 2.99%   |
 | PNY CS900 240GB SSD                       | 2         | 2.99%   |
 | Kingston SA400S37120G 120GB SSD           | 2         | 2.99%   |
 | HGST HTS541010A9E680 1TB                  | 2         | 2.99%   |
@@ -1554,7 +1554,7 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2         | 4%      |
-| Viotek GNV34DBE VTK3400 3440x1440 797x334mm 34.0-inch                | 1         | 2%      |
+| Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                  | 1         | 2%      |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch  | 1         | 2%      |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1         | 2%      |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch    | 1         | 2%      |
@@ -1797,7 +1797,7 @@ Controller models
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.1%    |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.1%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.1%    |
-| Motorola PCS moto g(7) optimo maxx(XT1955DL)                      | 1         | 1.1%    |
+| Motorola PCS motorola one 5G ace                                  | 1         | 1.1%    |
 | Intel Wireless-AC 9260                                            | 1         | 1.1%    |
 | Intel Wireless 8260                                               | 1         | 1.1%    |
 | Intel Wireless 7265                                               | 1         | 1.1%    |
@@ -2232,9 +2232,9 @@ Camera device vendors
 | Microdia                               | 2         | 6.06%   |
 | Logitech                               | 2         | 6.06%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 6.06%   |
-| webcam                                 | 1         | 3.03%   |
 | Quanta                                 | 1         | 3.03%   |
 | IMC Networks                           | 1         | 3.03%   |
+| 2M UVC CAMERA                          | 1         | 3.03%   |
 
 Camera Model
 ------------
@@ -2252,9 +2252,8 @@ Camera device models
 | Chicony Integrated Camera                        | 2         | 5.88%   |
 | Apple FaceTime HD Camera (Built-in)              | 2         | 5.88%   |
 | Apple Built-in iSight                            | 2         | 5.88%   |
-| webcam webcam                                    | 1         | 2.94%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 2.94%   |
-| Sunplus HD WebCam                                | 1         | 2.94%   |
+| Sunplus HD Webcam                                | 1         | 2.94%   |
 | Realtek USB2.0 HD UVC WebCam                     | 1         | 2.94%   |
 | Realtek Integrated_Webcam_HD                     | 1         | 2.94%   |
 | Realtek Integrated Camera                        | 1         | 2.94%   |
@@ -2273,6 +2272,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam    | 1         | 2.94%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 1         | 2.94%   |
 | Apple FaceTime HD Camera                         | 1         | 2.94%   |
+| 2M UVC CAMERA NexiGo N60 FHD Webcam              | 1         | 2.94%   |
 
 Security
 --------

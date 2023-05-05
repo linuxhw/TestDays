@@ -736,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 33        | 55.93%  |
-| Yes       | 26        | 44.07%  |
+| No        | 32        | 54.24%  |
+| Yes       | 27        | 45.76%  |
 
 Has Ethernet
 ------------
@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 1TB                     | 1         | 1.49%   |
+| TO Exter nal USB 3.0 320GB                   | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1037,8 +1037,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 48     | 97.56%  |
-| 0.51-1.0   | 1         | 1      | 2.44%   |
+| 0.01-0.5   | 41        | 49     | 100%    |
 
 Space Total
 -----------
@@ -1586,7 +1585,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
@@ -2223,10 +2222,10 @@ Printer device models
 ![Printer Model](./All/images/pie_chart/printer_model.svg)
 
 
-| Model                      | Computers | Percent |
-|----------------------------|-----------|---------|
-| Seiko Epson ET-2710 Series | 1         | 50%     |
-| HP LaserJet 1012           | 1         | 50%     |
+| Model                    | Computers | Percent |
+|--------------------------|-----------|---------|
+| Seiko Epson L3150 Series | 1         | 50%     |
+| HP LaserJet 1012         | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2290,7 +2289,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 17.14%  |
+| Alcor Micro SHUNCCM2MP                                  | 6         | 17.14%  |
 | Lenovo UVC Camera                                       | 3         | 8.57%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.71%   |
 | Lite-On Integrated Camera                               | 2         | 5.71%   |
@@ -2300,9 +2299,9 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 2.86%   |
 | Sunplus HD WebCam                                       | 1         | 2.86%   |
 | Realtek WebCamera                                       | 1         | 2.86%   |
-| Realtek USB2.0-Camera                                   | 1         | 2.86%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.86%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.86%   |
+| Realtek 2SF022                                          | 1         | 2.86%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.86%   |
 | Microdia HP Webcam                                      | 1         | 2.86%   |
 | Importek HP Webcam                                      | 1         | 2.86%   |
@@ -2387,9 +2386,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 33        | 55%     |
-| 1     | 21        | 35%     |
-| 2     | 6         | 10%     |
+| 0     | 35        | 58.33%  |
+| 1     | 22        | 36.67%  |
+| 2     | 3         | 5%      |
 
 Unsupported Device Types
 ------------------------
@@ -2401,13 +2400,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 8         | 25%     |
-| Multimedia controller    | 6         | 18.75%  |
-| Net/wireless             | 5         | 15.63%  |
-| Fingerprint reader       | 5         | 15.63%  |
-| Chipcard                 | 3         | 9.38%   |
-| Storage                  | 2         | 6.25%   |
-| Storage/ide              | 1         | 3.13%   |
-| Modem                    | 1         | 3.13%   |
-| Communication controller | 1         | 3.13%   |
+| Multimedia controller    | 6         | 22.22%  |
+| Net/wireless             | 5         | 18.52%  |
+| Fingerprint reader       | 5         | 18.52%  |
+| Graphics card            | 3         | 11.11%  |
+| Chipcard                 | 3         | 11.11%  |
+| Storage                  | 2         | 7.41%   |
+| Storage/ide              | 1         | 3.7%    |
+| Modem                    | 1         | 3.7%    |
+| Communication controller | 1         | 3.7%    |
 

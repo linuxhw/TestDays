@@ -993,8 +993,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 59       | 60.82%  |
-| Yes       | 38       | 39.18%  |
+| No        | 59       | 60.2%   |
+| Yes       | 39       | 39.8%   |
 
 Has Ethernet
 ------------
@@ -1173,15 +1173,16 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| WDC     | 48       | 81     | 49.48%  |
-| Seagate | 30       | 49     | 30.93%  |
-| Toshiba | 11       | 13     | 11.34%  |
-| Hitachi | 4        | 5      | 4.12%   |
-| HGST    | 2        | 5      | 2.06%   |
-| Unknown | 1        | 3      | 1.03%   |
-| Maxtor  | 1        | 1      | 1.03%   |
+| Vendor             | Desktops | Drives | Percent |
+|--------------------|----------|--------|---------|
+| WDC                | 48       | 81     | 48.98%  |
+| Seagate            | 30       | 49     | 30.61%  |
+| Toshiba            | 11       | 13     | 11.22%  |
+| Hitachi            | 4        | 5      | 4.08%   |
+| HGST               | 2        | 5      | 2.04%   |
+| Unknown            | 1        | 3      | 1.02%   |
+| Maxtor             | 1        | 1      | 1.02%   |
+| JMicron Technology | 1        | 1      | 1.02%   |
 
 SSD Vendor
 ----------
@@ -1193,20 +1194,19 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 24       | 45     | 38.1%   |
-| Samsung Electronics | 9        | 17     | 14.29%  |
-| Crucial             | 8        | 10     | 12.7%   |
-| WDC                 | 4        | 7      | 6.35%   |
-| SanDisk             | 4        | 4      | 6.35%   |
-| Team                | 3        | 3      | 4.76%   |
-| Lexar               | 3        | 3      | 4.76%   |
-| Unknown             | 2        | 2      | 3.17%   |
-| SPCC Sol            | 1        | 1      | 1.59%   |
-| SPCC                | 1        | 2      | 1.59%   |
-| PNY                 | 1        | 1      | 1.59%   |
-| JMicron Technology  | 1        | 1      | 1.59%   |
-| Hoodisk             | 1        | 1      | 1.59%   |
-| China               | 1        | 1      | 1.59%   |
+| Kingston            | 24       | 45     | 38.71%  |
+| Samsung Electronics | 9        | 17     | 14.52%  |
+| Crucial             | 8        | 10     | 12.9%   |
+| WDC                 | 4        | 7      | 6.45%   |
+| SanDisk             | 4        | 4      | 6.45%   |
+| Team                | 3        | 3      | 4.84%   |
+| Lexar               | 3        | 3      | 4.84%   |
+| Unknown             | 2        | 2      | 3.23%   |
+| SPCC Sol            | 1        | 1      | 1.61%   |
+| SPCC                | 1        | 2      | 1.61%   |
+| PNY                 | 1        | 1      | 1.61%   |
+| Hoodisk             | 1        | 1      | 1.61%   |
+| China               | 1        | 1      | 1.61%   |
 
 Drive Kind
 ----------
@@ -1218,11 +1218,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 73       | 157    | 46.79%  |
-| SSD     | 54       | 98     | 34.62%  |
-| NVMe    | 25       | 37     | 16.03%  |
-| Unknown | 3        | 4      | 1.92%   |
-| MMC     | 1        | 2      | 0.64%   |
+| HDD     | 73       | 158    | 47.1%   |
+| SSD     | 53       | 97     | 34.19%  |
+| NVMe    | 25       | 37     | 16.13%  |
+| Unknown | 3        | 4      | 1.94%   |
+| MMC     | 1        | 2      | 0.65%   |
 
 Drive Connector
 ---------------
@@ -1249,12 +1249,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 58       | 128    | 43.61%  |
-| 0.51-1.0   | 45       | 82     | 33.83%  |
-| 1.01-2.0   | 17       | 27     | 12.78%  |
-| 3.01-4.0   | 9        | 11     | 6.77%   |
-| 2.01-3.0   | 3        | 4      | 2.26%   |
-| 4.01-10.0  | 1        | 3      | 0.75%   |
+| 0.01-0.5   | 58       | 128    | 43.94%  |
+| 0.51-1.0   | 44       | 81     | 33.33%  |
+| 1.01-2.0   | 17       | 28     | 12.88%  |
+| 3.01-4.0   | 9        | 11     | 6.82%   |
+| 2.01-3.0   | 3        | 4      | 2.27%   |
+| 4.01-10.0  | 1        | 3      | 0.76%   |
 
 Space Total
 -----------
@@ -1887,7 +1887,7 @@ Monitor models
 | BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch                      | 3        | 2.78%   |
 | Samsung Electronics S19C150 SAM0AE6 1366x768 410x230mm 18.5-inch        | 2        | 1.85%   |
 | Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 2        | 1.85%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch   | 2        | 1.85%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch   | 2        | 1.85%   |
 | Lenovo LEN G34w-10 LEN66A1 3440x1440 797x334mm 34.0-inch                | 2        | 1.85%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                   | 2        | 1.85%   |
 | Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                       | 2        | 1.85%   |
@@ -1918,7 +1918,7 @@ Monitor models
 | Samsung Electronics S22D300 SAM0B3C 1920x1080 477x268mm 21.5-inch       | 1        | 0.93%   |
 | Samsung Electronics LCD Monitor SMBX2450 3840x1080                      | 1        | 0.93%   |
 | Samsung Electronics LCD Monitor SMBX2450                                | 1        | 0.93%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 950x540mm 43.0-inch   | 1        | 0.93%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1872x1053mm 84.6-inch | 1        | 0.93%   |
 | Samsung Electronics LCD Monitor SAM0A7C 1366x768 698x393mm 31.5-inch    | 1        | 0.93%   |
 | Samsung Electronics LC24RG50 SAM0F90 1920x1080 532x304mm 24.1-inch      | 1        | 0.93%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch       | 1        | 0.93%   |
@@ -2266,42 +2266,41 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 36       | 32.43%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 8        | 7.21%   |
-| Intel Ethernet Connection (2) I219-V                              | 7        | 6.31%   |
-| Intel I211 Gigabit Network Connection                             | 6        | 5.41%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 5        | 4.5%    |
-| Realtek RTL8125 2.5GbE Controller                                 | 5        | 4.5%    |
-| Intel Ethernet Connection (7) I219-V                              | 5        | 4.5%    |
-| Intel Ethernet Connection I217-LM                                 | 4        | 3.6%    |
-| Intel Ethernet Controller I225-V                                  | 3        | 2.7%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 1.8%    |
-| Intel Ethernet Connection I217-V                                  | 2        | 1.8%    |
-| Intel Ethernet Connection (2) I218-V                              | 2        | 1.8%    |
-| Intel 82583V Gigabit Network Connection                           | 2        | 1.8%    |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 2        | 1.8%    |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.9%    |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 0.9%    |
-| T & A Mobile Phones A509DL                                        | 1        | 0.9%    |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 0.9%    |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.9%    |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 0.9%    |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.9%    |
-| Intel Ethernet Connection (7) I219-LM                             | 1        | 0.9%    |
-| Intel Ethernet Connection (5) I219-V                              | 1        | 0.9%    |
-| Intel Ethernet Connection (5) I219-LM                             | 1        | 0.9%    |
-| Intel Ethernet Connection (2) I219-LM                             | 1        | 0.9%    |
-| Intel Ethernet Connection (2) I218-LM                             | 1        | 0.9%    |
-| Intel Ethernet Connection (14) I219-V                             | 1        | 0.9%    |
-| Intel Ethernet Connection (12) I219-V                             | 1        | 0.9%    |
-| Intel 82578DC Gigabit Network Connection                          | 1        | 0.9%    |
-| Intel 82567V-2 Gigabit Network Connection                         | 1        | 0.9%    |
-| Intel 82567LM-3 Gigabit Network Connection                        | 1        | 0.9%    |
-| Huawei ANA-NX9                                                    | 1        | 0.9%    |
-| DisplayLink Dell D3100 Docking Station                            | 1        | 0.9%    |
-| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 0.9%    |
-| Broadcom NetLink BCM57781 Gigabit Ethernet PCIe                   | 1        | 0.9%    |
-| Apple iPad 4/Mini1                                                | 1        | 0.9%    |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 36       | 32.73%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 8        | 7.27%   |
+| Intel Ethernet Connection (2) I219-V                              | 7        | 6.36%   |
+| Intel I211 Gigabit Network Connection                             | 6        | 5.45%   |
+| Samsung Galaxy series, misc. (tethering mode)                     | 5        | 4.55%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 5        | 4.55%   |
+| Intel Ethernet Connection (7) I219-V                              | 5        | 4.55%   |
+| Intel Ethernet Connection I217-LM                                 | 4        | 3.64%   |
+| Intel Ethernet Controller I225-V                                  | 3        | 2.73%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 1.82%   |
+| Intel Ethernet Connection I217-V                                  | 2        | 1.82%   |
+| Intel Ethernet Connection (2) I218-V                              | 2        | 1.82%   |
+| Intel 82583V Gigabit Network Connection                           | 2        | 1.82%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 2        | 1.82%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.91%   |
+| VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 0.91%   |
+| T & A Mobile Phones A509DL                                        | 1        | 0.91%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.91%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 0.91%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.91%   |
+| Intel Ethernet Connection (7) I219-LM                             | 1        | 0.91%   |
+| Intel Ethernet Connection (5) I219-V                              | 1        | 0.91%   |
+| Intel Ethernet Connection (5) I219-LM                             | 1        | 0.91%   |
+| Intel Ethernet Connection (2) I219-LM                             | 1        | 0.91%   |
+| Intel Ethernet Connection (2) I218-LM                             | 1        | 0.91%   |
+| Intel Ethernet Connection (14) I219-V                             | 1        | 0.91%   |
+| Intel Ethernet Connection (12) I219-V                             | 1        | 0.91%   |
+| Intel 82578DC Gigabit Network Connection                          | 1        | 0.91%   |
+| Intel 82567V-2 Gigabit Network Connection                         | 1        | 0.91%   |
+| Intel 82567LM-3 Gigabit Network Connection                        | 1        | 0.91%   |
+| Huawei ATU-L21                                                    | 1        | 0.91%   |
+| DisplayLink Dell D3100 Docking Station                            | 1        | 0.91%   |
+| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 0.91%   |
+| Broadcom NetLink BCM57781 Gigabit Ethernet PCIe                   | 1        | 0.91%   |
+| Apple iPad 4/Mini1                                                | 1        | 0.91%   |
 
 Net Controller Kind
 -------------------
@@ -2313,8 +2312,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 95       | 62.91%  |
-| WiFi     | 56       | 37.09%  |
+| Ethernet | 95       | 62.5%   |
+| WiFi     | 56       | 36.84%  |
+| Modem    | 1        | 0.66%   |
 
 Used Controller
 ---------------
@@ -2522,7 +2522,7 @@ Memory module models
 | Model                                                            | Desktops | Percent |
 |------------------------------------------------------------------|----------|---------|
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s              | 3        | 5.08%   |
-| Team RAM TEAMGROUP-UD3-1600 8GB DIMM DDR3 1600MT/s               | 2        | 3.39%   |
+| Team RAM TEAMGROUP-UD3-1600 4GB DIMM DDR3 1600MT/s               | 2        | 3.39%   |
 | SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s             | 2        | 3.39%   |
 | Micron RAM Module 4GB DIMM DDR3 1333MT/s                         | 2        | 3.39%   |
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s                        | 1        | 1.69%   |
@@ -2531,7 +2531,7 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                     | 1        | 1.69%   |
 | Unknown RAM Module 2GB DIMM 800MT/s                              | 1        | 1.69%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                           | 1        | 1.69%   |
-| Unknown (ABCD) RAM 123456789012345678 1GB DIMM DDR3 2400MT/s     | 1        | 1.69%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 1        | 1.69%   |
 | SK hynix RAM HMT425U6AFR6C-PB 2GB DIMM DDR3 1600MT/s             | 1        | 1.69%   |
 | SK hynix RAM HMA851U6DJR6N-XN 4096MB DIMM DDR4 3200MT/s          | 1        | 1.69%   |
 | SK hynix RAM HMA451R7MFR8N-TF 4GB DIMM DDR4 2133MT/s             | 1        | 1.69%   |
@@ -2543,10 +2543,10 @@ Memory module models
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s              | 1        | 1.69%   |
 | Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 3466MT/s             | 1        | 1.69%   |
 | Samsung RAM M378A2G43AB3-CWE 16GB DIMM DDR4 3200MT/s             | 1        | 1.69%   |
-| Micron RAM ITC 2GB DIMM DDR3 1648MT/s                            | 1        | 1.69%   |
+| Micron RAM ITC 1024MB DIMM DDR2 1648MT/s                         | 1        | 1.69%   |
 | Micron RAM 9JSF51272PZ-1G9E2 4GB DIMM DDR3 1866MT/s              | 1        | 1.69%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s              | 1        | 1.69%   |
-| Micron RAM 8JTF25664AZ-1G4D1 2GB DIMM DDR3 1333MT/s              | 1        | 1.69%   |
+| Micron RAM 8JTF25664AZ-1G4D1 2GB DIMM 1333MT/s                   | 1        | 1.69%   |
 | Micron RAM 36JSF1G72PZ-1G6K1 8GB DIMM DDR3 1333MT/s              | 1        | 1.69%   |
 | Lexar Co Limited RAM LD4AS008G-H3200GST 8GB SODIMM DDR4 3200MT/s | 1        | 1.69%   |
 | Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2933MT/s             | 1        | 1.69%   |
@@ -2726,16 +2726,16 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| ARC International Camera             | 2        | 20%     |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X      | 2        | 20%     |
-| Sunplus Feeltek Full HD Webcam 1080P | 1        | 10%     |
-| Samsung Galaxy A5 (MTP)              | 1        | 10%     |
-| Microsoft MicrosoftÂ LifeCam Cinema | 1        | 10%     |
-| Microsoft LifeCam HD-5000            | 1        | 10%     |
-| Microsoft LifeCam Cinema             | 1        | 10%     |
-| Arkmicro USB2.0 PC CAMERA            | 1        | 10%     |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| ARC International Camera                | 2        | 20%     |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X         | 2        | 20%     |
+| Sunplus Feeltek Full HD Webcam 1080P    | 1        | 10%     |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 10%     |
+| Microsoft MicrosoftÂ LifeCam Cinema    | 1        | 10%     |
+| Microsoft LifeCam HD-5000               | 1        | 10%     |
+| Microsoft LifeCam Cinema                | 1        | 10%     |
+| Arkmicro USB2.0 PC CAMERA               | 1        | 10%     |
 
 Security
 --------
@@ -2781,8 +2781,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 79       | 79.8%   |
-| 1     | 18       | 18.18%  |
+| 0     | 78       | 78.79%  |
+| 1     | 19       | 19.19%  |
 | 2     | 2        | 2.02%   |
 
 Unsupported Device Types
@@ -2795,10 +2795,10 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 11       | 52.38%  |
-| Graphics card            | 4        | 19.05%  |
-| Unassigned class         | 2        | 9.52%   |
-| Communication controller | 2        | 9.52%   |
-| Storage/raid             | 1        | 4.76%   |
-| Camera                   | 1        | 4.76%   |
+| Net/wireless             | 11       | 50%     |
+| Graphics card            | 5        | 22.73%  |
+| Unassigned class         | 2        | 9.09%   |
+| Communication controller | 2        | 9.09%   |
+| Storage/raid             | 1        | 4.55%   |
+| Camera                   | 1        | 4.55%   |
 

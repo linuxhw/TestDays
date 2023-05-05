@@ -753,7 +753,7 @@ Hard drive models
 | Samsung SSD 850 EVO 2TB          | 1        | 3.23%   |
 | Samsung HD502IJ 500GB            | 1        | 3.23%   |
 | Phison NVMe SSD Drive 1TB        | 1        | 3.23%   |
-| Phison E12 NVMe Controller 256GB | 1        | 3.23%   |
+| Phison E12 NVMe Controller 512GB | 1        | 3.23%   |
 | Kingston SUV400S37240G 240GB SSD | 1        | 3.23%   |
 | HP SSD S700 120GB                | 1        | 3.23%   |
 | Crucial CT500MX500SSD1 500GB     | 1        | 3.23%   |
@@ -1719,7 +1719,7 @@ Memory module models
 | Micron RAM 4ATF1G64AZ-3G2F1 8GB DIMM DDR4 3200MT/s        | 1        | 11.11%  |
 | Micron RAM 18ASF2G72PDZ-2G3B1 16GB DIMM DDR4 2400MT/s     | 1        | 11.11%  |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s            | 1        | 11.11%  |
-| Kingston RAM 9905471-006.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 11.11%  |
+| Kingston RAM 9905471-006.A00LF 4GB DIMM DDR3              | 1        | 11.11%  |
 | Kingston RAM 9905403-892.A00LF 8GB DIMM DDR3 1333MT/s     | 1        | 11.11%  |
 | Crucial RAM BLE8G4D34AEEAK.K8FB 8192MB DIMM DDR4 3466MT/s | 1        | 11.11%  |
 

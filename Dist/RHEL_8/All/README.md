@@ -985,8 +985,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 142       | 77.17%  |
-| Yes       | 42        | 22.83%  |
+| No        | 143       | 77.72%  |
+| Yes       | 41        | 22.28%  |
 
 Has Ethernet
 ------------
@@ -998,8 +998,8 @@ Has Ethernet on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 166       | 90.71%  |
-| No        | 17        | 9.29%   |
+| Yes       | 165       | 90.16%  |
+| No        | 18        | 9.84%   |
 
 Has WiFi
 --------
@@ -1194,48 +1194,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Computers | Percent |
-|----------------------------------------|-----------|---------|
-| SK hynix NVMe SSD Drive 512GB          | 10        | 3.18%   |
-| Samsung NVMe SSD Drive 512GB           | 7         | 2.23%   |
-| Toshiba NVMe SSD Drive 256GB           | 6         | 1.91%   |
-| SanDisk NVMe SSD Drive 256GB           | 6         | 1.91%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB | 6         | 1.91%   |
-| Samsung SSD 860 EVO 1TB                | 5         | 1.59%   |
-| Samsung NVMe SSD Drive 1024GB          | 5         | 1.59%   |
-| Samsung NVMe SSD Drive 500GB           | 4         | 1.27%   |
-| Toshiba NVMe SSD Drive 512GB           | 3         | 0.96%   |
-| Micron NVMe SSD Drive 256GB            | 3         | 0.96%   |
-| HGST HTS721010A9E630 1TB               | 3         | 0.96%   |
-| Crucial CT240BX500SSD1 240GB           | 3         | 0.96%   |
-| WDC WD1003FZEX-00MK2A0 1TB             | 2         | 0.64%   |
-| WDC WD1002FAEX-00Z3A0 1TB              | 2         | 0.64%   |
-| Unknown NVMe SSD Drive 256GB           | 2         | 0.64%   |
-| Toshiba KXG6AZNV256G 256GB             | 2         | 0.64%   |
-| Toshiba DT01ACA200 2TB                 | 2         | 0.64%   |
-| Seagate ST500DM002-1BD142 500GB        | 2         | 0.64%   |
-| Seagate ST2000DM001-1ER164 2TB         | 2         | 0.64%   |
-| Seagate ST1000LM049-2GH172 1TB         | 2         | 0.64%   |
-| Seagate ST1000DM003-9YN162 1TB         | 2         | 0.64%   |
-| Seagate Expansion+ 2TB                 | 2         | 0.64%   |
-| Samsung SSD 860 EVO 500GB              | 2         | 0.64%   |
-| Samsung SSD 850 EVO 500GB              | 2         | 0.64%   |
-| Samsung Portable SSD T5 500GB          | 2         | 0.64%   |
-| Samsung NVMe SSD Drive 2TB             | 2         | 0.64%   |
-| Samsung NVMe SSD Drive 1TB             | 2         | 0.64%   |
-| Samsung MZVL21T0HCLR-00BL7 1TB         | 2         | 0.64%   |
-| Kingston SUV500120G 120GB SSD          | 2         | 0.64%   |
-| Kingston SA400S37480G 480GB SSD        | 2         | 0.64%   |
-| Kingston SA400S37240G 240GB SSD        | 2         | 0.64%   |
-| Intel SSDPEL1K100GA 100GB              | 2         | 0.64%   |
-| Intel NVMe SSD Drive 512GB             | 2         | 0.64%   |
-| Intel NVMe SSD Drive 2TB               | 2         | 0.64%   |
-| HP SSD EX950 512GB                     | 2         | 0.64%   |
-| Gigabyte GP-GSM2NE3100TNTD 1TB         | 2         | 0.64%   |
-| Crucial CT480BX500SSD1 480GB           | 2         | 0.64%   |
-| Crucial CT1000MX500SSD1 1TB            | 2         | 0.64%   |
-| Corsair Force LE SSD 240GB             | 2         | 0.64%   |
-| XPG NVMe SSD Drive 1024GB              | 1         | 0.32%   |
+| Model                           | Computers | Percent |
+|---------------------------------|-----------|---------|
+| SK hynix NVMe SSD Drive 512GB   | 10        | 3.18%   |
+| Samsung NVMe SSD Drive 512GB    | 7         | 2.23%   |
+| Toshiba NVMe SSD Drive 256GB    | 6         | 1.91%   |
+| SanDisk NVMe SSD Drive 256GB    | 6         | 1.91%   |
+| Samsung NVMe SSD Drive 256GB    | 6         | 1.91%   |
+| Samsung SSD 860 EVO 1TB         | 5         | 1.59%   |
+| Samsung NVMe SSD Drive 1024GB   | 5         | 1.59%   |
+| Samsung NVMe SSD Drive 500GB    | 4         | 1.27%   |
+| Toshiba NVMe SSD Drive 512GB    | 3         | 0.96%   |
+| Micron NVMe SSD Drive 256GB     | 3         | 0.96%   |
+| HGST HTS721010A9E630 1TB        | 3         | 0.96%   |
+| Crucial CT240BX500SSD1 240GB    | 3         | 0.96%   |
+| WDC WD1003FZEX-00MK2A0 1TB      | 2         | 0.64%   |
+| WDC WD1002FAEX-00Z3A0 1TB       | 2         | 0.64%   |
+| Unknown NVMe SSD Drive 256GB    | 2         | 0.64%   |
+| Toshiba KXG6AZNV256G 256GB      | 2         | 0.64%   |
+| Toshiba DT01ACA200 2TB          | 2         | 0.64%   |
+| Seagate ST500DM002-1BD142 500GB | 2         | 0.64%   |
+| Seagate ST2000DM001-1ER164 2TB  | 2         | 0.64%   |
+| Seagate ST1000LM049-2GH172 1TB  | 2         | 0.64%   |
+| Seagate ST1000DM003-9YN162 1TB  | 2         | 0.64%   |
+| Seagate Expansion 4TB           | 2         | 0.64%   |
+| Samsung SSD 860 EVO 500GB       | 2         | 0.64%   |
+| Samsung SSD 850 EVO 500GB       | 2         | 0.64%   |
+| Samsung Portable SSD T5 500GB   | 2         | 0.64%   |
+| Samsung NVMe SSD Drive 2TB      | 2         | 0.64%   |
+| Samsung NVMe SSD Drive 1TB      | 2         | 0.64%   |
+| Samsung MZVL21T0HCLR-00BL7 1TB  | 2         | 0.64%   |
+| Kingston SUV500120G 120GB SSD   | 2         | 0.64%   |
+| Kingston SA400S37480G 480GB SSD | 2         | 0.64%   |
+| Kingston SA400S37240G 240GB SSD | 2         | 0.64%   |
+| Intel SSDPEL1K100GA 100GB       | 2         | 0.64%   |
+| Intel NVMe SSD Drive 512GB      | 2         | 0.64%   |
+| Intel NVMe SSD Drive 2TB        | 2         | 0.64%   |
+| HP SSD EX950 512GB              | 2         | 0.64%   |
+| Gigabyte GP-GSM2NE3100TNTD 1TB  | 2         | 0.64%   |
+| Crucial CT480BX500SSD1 480GB    | 2         | 0.64%   |
+| Crucial CT1000MX500SSD1 1TB     | 2         | 0.64%   |
+| Corsair Force LE SSD 240GB      | 2         | 0.64%   |
+| XPG NVMe SSD Drive 1024GB       | 1         | 0.32%   |
 
 HDD Vendor
 ----------
@@ -1328,13 +1328,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 69        | 113    | 46%     |
-| 0.51-1.0   | 46        | 69     | 30.67%  |
-| 1.01-2.0   | 20        | 27     | 13.33%  |
-| 3.01-4.0   | 9         | 19     | 6%      |
-| 4.01-10.0  | 4         | 9      | 2.67%   |
-| 2.01-3.0   | 1         | 1      | 0.67%   |
-| 10.01-20.0 | 1         | 1      | 0.67%   |
+| 0.01-0.5   | 69        | 113    | 45.39%  |
+| 0.51-1.0   | 46        | 69     | 30.26%  |
+| 1.01-2.0   | 20        | 25     | 13.16%  |
+| 3.01-4.0   | 11        | 21     | 7.24%   |
+| 4.01-10.0  | 3         | 6      | 1.97%   |
+| 10.01-20.0 | 2         | 4      | 1.32%   |
+| 2.01-3.0   | 1         | 1      | 0.66%   |
 
 Space Total
 -----------
@@ -1993,7 +1993,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch  | 7         | 2.76%   |
 | Lenovo LEN P27u-10 LEN61B0 3840x2160 597x336mm 27.0-inch          | 5         | 1.97%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch          | 5         | 1.97%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch    | 5         | 1.97%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch    | 5         | 1.97%   |
 | LG Display LCD Monitor LGD0676 1920x1080 309x174mm 14.0-inch      | 3         | 1.18%   |
 | Lenovo TIO24Gen3 LEN10B4 1920x1080 527x296mm 23.8-inch            | 3         | 1.18%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch      | 3         | 1.18%   |
@@ -2002,7 +2002,7 @@ Monitor models
 | Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                 | 3         | 1.18%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch  | 3         | 1.18%   |
 | BOE LCD Monitor BOE086E 1920x1080 344x194mm 15.5-inch             | 3         | 1.18%   |
-| AU Optronics LCD Monitor AUO323D 1920x1080 309x174mm 14.0-inch    | 3         | 1.18%   |
+| AU Optronics LCD Monitor AUO323D 1920x1080 309x173mm 13.9-inch    | 3         | 1.18%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch | 2         | 0.79%   |
 | Philips PHL 272E1 PHLC210 1920x1080 598x336mm 27.0-inch           | 2         | 0.79%   |
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch           | 2         | 0.79%   |
@@ -2019,7 +2019,7 @@ Monitor models
 | BOE LCD Monitor BOE07C9 1920x1080 309x173mm 13.9-inch             | 2         | 0.79%   |
 | AU Optronics LCD Monitor AUO562D 1920x1080 293x165mm 13.2-inch    | 2         | 0.79%   |
 | AU Optronics LCD Monitor AUO313E 1600x900 309x174mm 14.0-inch     | 2         | 0.79%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch    | 2         | 0.79%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch    | 2         | 0.79%   |
 | ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch     | 1         | 0.39%   |
 | ViewSonic VA2259 Series VSC5E32 1920x1080 476x268mm 21.5-inch     | 1         | 0.39%   |
 | Sun Monitor SUN059A 1920x1200 518x324mm 24.1-inch                 | 1         | 0.39%   |
@@ -2342,7 +2342,7 @@ Wireless models
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                 | 2         | 1.31%   |
 | Intel Wireless 7260                                                        | 2         | 1.31%   |
 | Intel Wireless 3165                                                        | 2         | 1.31%   |
-| Sierra Wireless EM7565 QualcommÂ Snapdragonâ¢ X16 LTE-A               | 1         | 0.65%   |
+| Sierra Wireless EM7421                                                     | 1         | 0.65%   |
 | Sierra Wireless AirPrime MC7455 3G/4G LTE Modem                            | 1         | 0.65%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                   | 1         | 0.65%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                            | 1         | 0.65%   |
@@ -2372,16 +2372,15 @@ Ethernet vendors
 
 | Vendor                   | Computers | Percent |
 |--------------------------|-----------|---------|
-| Intel                    | 111       | 54.95%  |
-| Realtek Semiconductor    | 51        | 25.25%  |
-| Lenovo                   | 19        | 9.41%   |
-| Broadcom Limited         | 4         | 1.98%   |
-| ASIX Electronics         | 4         | 1.98%   |
-| Qualcomm Atheros         | 2         | 0.99%   |
-| Marvell Technology Group | 2         | 0.99%   |
-| Broadcom                 | 2         | 0.99%   |
+| Intel                    | 111       | 55.22%  |
+| Realtek Semiconductor    | 51        | 25.37%  |
+| Lenovo                   | 19        | 9.45%   |
+| Broadcom Limited         | 4         | 1.99%   |
+| ASIX Electronics         | 4         | 1.99%   |
+| Qualcomm Atheros         | 2         | 1%      |
+| Marvell Technology Group | 2         | 1%      |
+| Broadcom                 | 2         | 1%      |
 | Xiaomi                   | 1         | 0.5%    |
-| Samsung Electronics      | 1         | 0.5%    |
 | ICS Advent               | 1         | 0.5%    |
 | IBM                      | 1         | 0.5%    |
 | Huawei Technologies      | 1         | 0.5%    |
@@ -2398,46 +2397,46 @@ Ethernet models
 
 | Model                                                                          | Computers | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 39        | 17.97%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 16        | 7.37%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                                       | 10        | 4.61%   |
-| Intel Ethernet Connection (7) I219-LM                                          | 10        | 4.61%   |
-| Intel Ethernet Connection (6) I219-LM                                          | 10        | 4.61%   |
-| Intel Ethernet Connection (4) I219-LM                                          | 10        | 4.61%   |
-| Lenovo ThinkPad TBT 3 Dock                                                     | 9         | 4.15%   |
-| Intel Ethernet Connection (10) I219-LM                                         | 8         | 3.69%   |
-| Intel I211 Gigabit Network Connection                                          | 6         | 2.76%   |
-| Intel Ethernet Connection (2) I219-LM                                          | 5         | 2.3%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 4         | 1.84%   |
-| Intel Ethernet Connection (2) I219-V                                           | 4         | 1.84%   |
-| Intel Ethernet Connection (10) I219-V                                          | 4         | 1.84%   |
-| Lenovo USB-C to LAN                                                            | 3         | 1.38%   |
-| Lenovo ThinkPad Lan                                                            | 3         | 1.38%   |
-| Intel I350 Gigabit Network Connection                                          | 3         | 1.38%   |
-| Intel Ethernet Connection I217-LM                                              | 3         | 1.38%   |
-| Intel Ethernet Connection (6) I219-V                                           | 3         | 1.38%   |
-| Intel Ethernet Connection (3) I218-LM                                          | 3         | 1.38%   |
-| Intel Ethernet Connection (2) I218-V                                           | 3         | 1.38%   |
-| Intel 82574L Gigabit Network Connection                                        | 3         | 1.38%   |
-| ASIX AX88179 Gigabit Ethernet                                                  | 3         | 1.38%   |
-| Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 2         | 0.92%   |
-| Lenovo ThinkPad TBT3 LAN                                                       | 2         | 0.92%   |
-| Intel I210 Gigabit Network Connection                                          | 2         | 0.92%   |
-| Intel Ethernet Virtual Function 700 Series                                     | 2         | 0.92%   |
-| Intel Ethernet Connection I219-LM                                              | 2         | 0.92%   |
-| Intel Ethernet Connection I217-V                                               | 2         | 0.92%   |
-| Intel Ethernet Connection (7) I219-V                                           | 2         | 0.92%   |
-| Intel Ethernet Connection (4) I219-V                                           | 2         | 0.92%   |
-| Intel Ethernet Connection (2) I218-LM                                          | 2         | 0.92%   |
-| Intel Ethernet Connection (13) I219-LM                                         | 2         | 0.92%   |
-| Intel Ethernet Connection (11) I219-LM                                         | 2         | 0.92%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 39        | 18.06%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 16        | 7.41%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                                       | 10        | 4.63%   |
+| Intel Ethernet Connection (7) I219-LM                                          | 10        | 4.63%   |
+| Intel Ethernet Connection (6) I219-LM                                          | 10        | 4.63%   |
+| Intel Ethernet Connection (4) I219-LM                                          | 10        | 4.63%   |
+| Lenovo ThinkPad TBT 3 Dock                                                     | 9         | 4.17%   |
+| Intel Ethernet Connection (10) I219-LM                                         | 8         | 3.7%    |
+| Intel I211 Gigabit Network Connection                                          | 6         | 2.78%   |
+| Intel Ethernet Connection (2) I219-LM                                          | 5         | 2.31%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 4         | 1.85%   |
+| Intel Ethernet Connection (2) I219-V                                           | 4         | 1.85%   |
+| Intel Ethernet Connection (10) I219-V                                          | 4         | 1.85%   |
+| Lenovo USB-C to LAN                                                            | 3         | 1.39%   |
+| Lenovo ThinkPad Lan                                                            | 3         | 1.39%   |
+| Intel I350 Gigabit Network Connection                                          | 3         | 1.39%   |
+| Intel Ethernet Connection I217-LM                                              | 3         | 1.39%   |
+| Intel Ethernet Connection (6) I219-V                                           | 3         | 1.39%   |
+| Intel Ethernet Connection (3) I218-LM                                          | 3         | 1.39%   |
+| Intel Ethernet Connection (2) I218-V                                           | 3         | 1.39%   |
+| Intel 82574L Gigabit Network Connection                                        | 3         | 1.39%   |
+| ASIX AX88179 Gigabit Ethernet                                                  | 3         | 1.39%   |
+| Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 2         | 0.93%   |
+| Lenovo ThinkPad TBT3 LAN                                                       | 2         | 0.93%   |
+| Intel I210 Gigabit Network Connection                                          | 2         | 0.93%   |
+| Intel Ethernet Virtual Function 700 Series                                     | 2         | 0.93%   |
+| Intel Ethernet Connection I219-LM                                              | 2         | 0.93%   |
+| Intel Ethernet Connection I217-V                                               | 2         | 0.93%   |
+| Intel Ethernet Connection (7) I219-V                                           | 2         | 0.93%   |
+| Intel Ethernet Connection (4) I219-V                                           | 2         | 0.93%   |
+| Intel Ethernet Connection (2) I218-LM                                          | 2         | 0.93%   |
+| Intel Ethernet Connection (13) I219-LM                                         | 2         | 0.93%   |
+| Intel Ethernet Connection (11) I219-LM                                         | 2         | 0.93%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                           | 1         | 0.46%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)                    | 1         | 0.46%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                                | 1         | 0.46%   |
 | Realtek RTL8125 2.5GbE Controller                                              | 1         | 0.46%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 1         | 0.46%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                  | 1         | 0.46%   |
 | Lenovo USB-C Dock Ethernet                                                     | 1         | 0.46%   |
+| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                               | 1         | 0.46%   |
 
 Net Controller Kind
 -------------------
@@ -2449,9 +2448,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 166       | 52.04%  |
+| Ethernet | 165       | 51.72%  |
 | WiFi     | 148       | 46.39%  |
-| Modem    | 5         | 1.57%   |
+| Modem    | 6         | 1.88%   |
 
 Used Controller
 ---------------
@@ -2464,7 +2463,8 @@ Currently used network controller
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
 | WiFi     | 99        | 50%     |
-| Ethernet | 99        | 50%     |
+| Ethernet | 98        | 49.49%  |
+| Modem    | 1         | 0.51%   |
 
 NICs
 ----
@@ -2717,7 +2717,7 @@ Memory module models
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.08%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s       | 1         | 1.08%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4096MB DIMM DDR3 1333MT/s         | 1         | 1.08%   |
-| SK hynix RAM HMAB2GS6AMR6N-XN 16384MB SODIMM DDR4 3200MT/s      | 1         | 1.08%   |
+| SK hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 1.08%   |
 | SK hynix RAM HMAA8GR7CJR4N-XN 64GB DIMM DDR4 3200MT/s           | 1         | 1.08%   |
 | SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s          | 1         | 1.08%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s          | 1         | 1.08%   |
@@ -2776,12 +2776,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 26        | 34.21%  |
-| 16384 | 21        | 27.63%  |
-| 4096  | 17        | 22.37%  |
-| 32768 | 10        | 13.16%  |
-| 65536 | 1         | 1.32%   |
-| 2048  | 1         | 1.32%   |
+| 8192  | 27        | 35.06%  |
+| 16384 | 21        | 27.27%  |
+| 4096  | 17        | 22.08%  |
+| 32768 | 10        | 12.99%  |
+| 65536 | 1         | 1.3%    |
+| 2048  | 1         | 1.3%    |
 
 Memory Speed
 ------------
@@ -2800,7 +2800,8 @@ Memory module speed
 | 2133  | 6         | 7.79%   |
 | 1333  | 6         | 7.79%   |
 | 3600  | 3         | 3.9%    |
-| 3266  | 3         | 3.9%    |
+| 3266  | 2         | 2.6%    |
+| 3933  | 1         | 1.3%    |
 | 2933  | 1         | 1.3%    |
 | 2666  | 1         | 1.3%    |
 | 2472  | 1         | 1.3%    |
@@ -2831,14 +2832,14 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                            | Computers | Percent |
-|----------------------------------|-----------|---------|
-| HP LaserJet Professional P 1102w | 1         | 16.67%  |
-| HP ENVY 4500 series              | 1         | 16.67%  |
-| HP DeskJet 2600 series           | 1         | 16.67%  |
-| Canon E560 series                | 1         | 16.67%  |
-| Canon CanoScan LiDE 300          | 1         | 16.67%  |
-| Brother DCP-1610W                | 1         | 16.67%  |
+| Model                              | Computers | Percent |
+|------------------------------------|-----------|---------|
+| HP LaserJet Professional P 1102w   | 1         | 16.67%  |
+| HP ENVY 4500 series                | 1         | 16.67%  |
+| HP DeskJet 2620 All-in-One Printer | 1         | 16.67%  |
+| Canon LiDE 300                     | 1         | 16.67%  |
+| Canon E560 series                  | 1         | 16.67%  |
+| Brother DCP-1610W                  | 1         | 16.67%  |
 
 Scanner Vendor
 --------------
@@ -2867,31 +2868,31 @@ Camera device vendors
 
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
-| Chicony Electronics                    | 40        | 29.41%  |
-| IMC Networks                           | 19        | 13.97%  |
-| Acer                                   | 12        | 8.82%   |
-| Realtek Semiconductor                  | 10        | 7.35%   |
-| Logitech                               | 9         | 6.62%   |
-| Microdia                               | 7         | 5.15%   |
-| Sunplus Innovation Technology          | 6         | 4.41%   |
-| Hopewin Electronic Material            | 4         | 2.94%   |
-| Suyin                                  | 3         | 2.21%   |
-| Samsung Electronics                    | 3         | 2.21%   |
-| Lite-On Technology                     | 3         | 2.21%   |
-| Bison Electronics                      | 3         | 2.21%   |
-| Ruision                                | 2         | 1.47%   |
-| Microsoft                              | 2         | 1.47%   |
-| Generalplus Technology                 | 2         | 1.47%   |
-| Cheng Uei Precision Industry (Foxlink) | 2         | 1.47%   |
-| Syntek                                 | 1         | 0.74%   |
-| Remo Tech                              | 1         | 0.74%   |
-| Quanta                                 | 1         | 0.74%   |
-| Luxvisions Innotech Limited            | 1         | 0.74%   |
-| Lenovo                                 | 1         | 0.74%   |
-| KYE Systems (Mouse Systems)            | 1         | 0.74%   |
-| Jieli Technology                       | 1         | 0.74%   |
-| Creative Technology                    | 1         | 0.74%   |
-| ARC International                      | 1         | 0.74%   |
+| Chicony Electronics                    | 40        | 28.99%  |
+| IMC Networks                           | 19        | 13.77%  |
+| Realtek Semiconductor                  | 10        | 7.25%   |
+| Acer                                   | 10        | 7.25%   |
+| Logitech                               | 9         | 6.52%   |
+| Microdia                               | 7         | 5.07%   |
+| Bison Electronics                      | 7         | 5.07%   |
+| Sunplus Innovation Technology          | 6         | 4.35%   |
+| Hopewin Electronic Material            | 4         | 2.9%    |
+| Suyin                                  | 3         | 2.17%   |
+| Samsung Electronics                    | 3         | 2.17%   |
+| Lite-On Technology                     | 3         | 2.17%   |
+| Ruision                                | 2         | 1.45%   |
+| Microsoft                              | 2         | 1.45%   |
+| Generalplus Technology                 | 2         | 1.45%   |
+| Cheng Uei Precision Industry (Foxlink) | 2         | 1.45%   |
+| Syntek                                 | 1         | 0.72%   |
+| Remo Tech                              | 1         | 0.72%   |
+| Quanta                                 | 1         | 0.72%   |
+| Luxvisions Innotech Limited            | 1         | 0.72%   |
+| Lenovo                                 | 1         | 0.72%   |
+| KYE Systems (Mouse Systems)            | 1         | 0.72%   |
+| Jieli Technology                       | 1         | 0.72%   |
+| Creative Technology                    | 1         | 0.72%   |
+| ARC International                      | 1         | 0.72%   |
 
 Camera Model
 ------------
@@ -2903,25 +2904,26 @@ Camera device models
 
 | Model                                             | Computers | Percent |
 |---------------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                         | 24        | 17.27%  |
+| Chicony Integrated Camera                         | 21        | 15.11%  |
 | IMC Networks Integrated Camera                    | 17        | 12.23%  |
 | Realtek Integrated_Webcam_HD                      | 7         | 5.04%   |
-| Acer SunplusIT Integrated Camera                  | 5         | 3.6%    |
-| Acer Integrated Camera                            | 5         | 3.6%    |
+| Acer Integrated Camera                            | 6         | 4.32%   |
+| Bison SunplusIT Integrated Camera                 | 5         | 3.6%    |
 | Logitech HD Pro Webcam C920                       | 4         | 2.88%   |
 | Hopewin Electronic Material FULL HD 1080P Webcam  | 4         | 2.88%   |
 | Chicony Integrated Camera (1280x720@30)           | 4         | 2.88%   |
 | Sunplus Integrated_Webcam_HD                      | 3         | 2.16%   |
-| Samsung Galaxy A5 (MTP)                           | 3         | 2.16%   |
+| Samsung Galaxy series, misc. (MTP mode)           | 3         | 2.16%   |
 | Lite-On Integrated Camera                         | 3         | 2.16%   |
+| Chicony ThinkPad T490 Webcam                      | 3         | 2.16%   |
 | Chicony HP HD Camera                              | 3         | 2.16%   |
-| Bison Integrated Camera                           | 3         | 2.16%   |
 | Ruision UVC Camera                                | 2         | 1.44%   |
 | Microdia Webcam                                   | 2         | 1.44%   |
 | Microdia Integrated Webcam                        | 2         | 1.44%   |
 | IMC Networks USB2.0 HD UVC WebCam                 | 2         | 1.44%   |
 | Generalplus GENERAL WEBCAM                        | 2         | 1.44%   |
 | Chicony Integrated Camera [ThinkPad]              | 2         | 1.44%   |
+| Bison Integrated Camera                           | 2         | 1.44%   |
 | Acer Integrated IR Camera                         | 2         | 1.44%   |
 | Syntek Lenovo EasyCamera                          | 1         | 0.72%   |
 | Suyin RGBIR Camera                                | 1         | 0.72%   |
@@ -2933,7 +2935,7 @@ Camera device models
 | Remo Tech OBSBOT Tiny 4K                          | 1         | 0.72%   |
 | Realtek USB2.0 VGA UVC WebCam                     | 1         | 0.72%   |
 | Realtek USB Camera                                | 1         | 0.72%   |
-| Realtek NexiGo N960E FHD Webcam                   | 1         | 0.72%   |
+| Realtek FULL HD WEB CAM                           | 1         | 0.72%   |
 | Quanta HP HD Camera                               | 1         | 0.72%   |
 | Microsoft LifeCam HD-3000                         | 1         | 0.72%   |
 | Microsoft LifeCam Cinema                          | 1         | 0.72%   |
@@ -2942,7 +2944,6 @@ Camera device models
 | Microdia Integrated_Webcam_HD                     | 1         | 0.72%   |
 | Luxvisions Innotech Limited Integrated RGB Camera | 1         | 0.72%   |
 | Logitech Webcam C925e                             | 1         | 0.72%   |
-| Logitech Webcam C310                              | 1         | 0.72%   |
 
 Security
 --------

@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 46
+Total: 47
 
 | Vendor    | Model                       | Probe                                                      | Date         |
 |-----------|-----------------------------|------------------------------------------------------------|--------------|
+| Apple     | MacBookAir7,2               | [941aa94750](https://linux-hardware.org/?probe=941aa94750) | Apr 13, 2023 |
 | Valve     | Jupiter                     | [e9844f7162](https://linux-hardware.org/?probe=e9844f7162) | Mar 13, 2023 |
 | HP        | ENVY Laptop 17-cr0xxx       | [fde666c0ea](https://linux-hardware.org/?probe=fde666c0ea) | Feb 17, 2023 |
 | HP        | ENVY Laptop 17-cr0xxx       | [5ce5272a93](https://linux-hardware.org/?probe=5ce5272a93) | Feb 17, 2023 |
@@ -844,13 +845,13 @@ Hard drive models
 | WDC WDS100T2B0B-00YS70 1TB SSD                         | 1         | 2.04%   |
 | WDC WDS100T2B0A-00SM50 1TB SSD                         | 1         | 2.04%   |
 | WDC WD10JPVT-08A1YT2 1TB                               | 1         | 2.04%   |
-| WDC WD Green 2.5 240GB SSD                             | 1         | 2.04%   |
+| WDC WD Green 2.5 240GB                                 | 1         | 2.04%   |
 | WDC PC SN530 SDBPNPZ-1T00-1002 1TB                     | 1         | 2.04%   |
 | Unknown MMC Card  512GB                                | 1         | 2.04%   |
 | Toshiba MQ04ABF100 1TB                                 | 1         | 2.04%   |
 | Toshiba MQ01ACF032 320GB                               | 1         | 2.04%   |
 | Toshiba MQ01ABF050 500GB                               | 1         | 2.04%   |
-| SK hynix HFM001TD3JX013N 1TB                           | 1         | 2.04%   |
+| SK hynix HFM001TD3JX013N 1024GB                        | 1         | 2.04%   |
 | SK hynix BC511 HFM512GDJTNI-82A0A 512GB                | 1         | 2.04%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller 1024GB | 1         | 2.04%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                     | 1         | 2.04%   |
@@ -864,15 +865,15 @@ Hard drive models
 | Samsung SSD 970 EVO 2TB                                | 1         | 2.04%   |
 | Samsung SSD 870 EVO 1TB                                | 1         | 2.04%   |
 | Samsung SSD 860 EVO mSATA 500GB                        | 1         | 2.04%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB                 | 1         | 2.04%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 256GB    | 1         | 2.04%   |
+| Samsung NVMe SSD Drive 256GB                           | 1         | 2.04%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 500GB    | 1         | 2.04%   |
 | Samsung MZVLQ512HALU-000H1 512GB                       | 1         | 2.04%   |
 | Samsung MZVLQ1T0HBLB-00BH1 1TB                         | 1         | 2.04%   |
 | Samsung MZVL21T0HCLR-00B00 1TB                         | 1         | 2.04%   |
 | Samsung MZVKW512HMJP-000H1 512GB                       | 1         | 2.04%   |
 | Samsung MZ7LN256HCHP-000L7 256GB SSD                   | 1         | 2.04%   |
 | Plextor PX-128M6S 128GB SSD                            | 1         | 2.04%   |
-| Micron MTFDKBA1T0TFH-1BC1AABHA 1TB                     | 1         | 2.04%   |
+| Micron MTFDKBA1T0TFH-1BC1AABHA 1024GB                  | 1         | 2.04%   |
 | Micron 2210_MTFDHBA512QFD 512GB                        | 1         | 2.04%   |
 | KIOXIA KBG40ZNS256G NVMe 256GB                         | 1         | 2.04%   |
 | Kingston SUV400S37240G 240GB SSD                       | 1         | 2.04%   |
@@ -1502,7 +1503,7 @@ Monitor models
 | LG Display LCD Monitor LGD032C 1920x1080 344x194mm 15.5-inch          | 1         | 2.44%   |
 | LG Display LCD Monitor LGD028A 1366x768 344x194mm 15.5-inch           | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0258 1600x900 345x194mm 15.6-inch           | 1         | 2.44%   |
-| Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch               | 1         | 2.44%   |
+| Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch               | 1         | 2.44%   |
 | Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch               | 1         | 2.44%   |
 | Hewlett-Packard P223 HPN3392 1920x1080 477x268mm 21.5-inch            | 1         | 2.44%   |
 | Hewlett-Packard 27m HPN3579 1920x1080 598x336mm 27.0-inch             | 1         | 2.44%   |
@@ -1524,10 +1525,10 @@ Monitor models
 | AU Optronics LCD Monitor AUO978F 1920x1080 382x215mm 17.3-inch        | 1         | 2.44%   |
 | AU Optronics LCD Monitor AUO439D 1920x1080 382x215mm 17.3-inch        | 1         | 2.44%   |
 | AU Optronics LCD Monitor AUO315C 1366x768 256x144mm 11.6-inch         | 1         | 2.44%   |
-| AU Optronics LCD Monitor AUO309B 3840x2160 380x210mm 17.1-inch        | 1         | 2.44%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 1         | 2.44%   |
+| AU Optronics LCD Monitor AUO309B 3840x2160 381x214mm 17.2-inch        | 1         | 2.44%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 1         | 2.44%   |
 | AU Optronics LCD Monitor AUO123E 1600x900 309x174mm 14.0-inch         | 1         | 2.44%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch         | 1         | 2.44%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch         | 1         | 2.44%   |
 
 Monitor Resolution
 ------------------
@@ -2018,7 +2019,7 @@ Memory module models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s     | 2         | 5.13%   |
+| SK hynix RAM H9JCNNNCP3MLYR-N6E 4GB Row Of Chips LPDDR5 6400MT/s     | 2         | 5.13%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s                | 2         | 5.13%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s               | 1         | 2.56%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s               | 1         | 2.56%   |
@@ -2096,10 +2097,10 @@ Memory module size
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
 | 8192  | 17        | 45.95%  |
-| 4096  | 12        | 32.43%  |
+| 4096  | 14        | 37.84%  |
 | 16384 | 4         | 10.81%  |
-| 2048  | 3         | 8.11%   |
 | 32768 | 1         | 2.7%    |
+| 2048  | 1         | 2.7%    |
 
 Memory Speed
 ------------
@@ -2169,18 +2170,18 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 10        | 28.57%  |
-| Acer                                   | 6         | 17.14%  |
+| Bison Electronics                      | 5         | 14.29%  |
 | Microdia                               | 4         | 11.43%  |
 | Realtek Semiconductor                  | 3         | 8.57%   |
 | Sonix Technology                       | 2         | 5.71%   |
 | Quanta                                 | 2         | 5.71%   |
 | Luxvisions Innotech Limited            | 2         | 5.71%   |
+| Acer                                   | 2         | 5.71%   |
 | Syntek                                 | 1         | 2.86%   |
 | Samsung Electronics                    | 1         | 2.86%   |
 | Logitech                               | 1         | 2.86%   |
 | Lenovo                                 | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 2.86%   |
-| Bison Electronics                      | 1         | 2.86%   |
 
 Camera Model
 ------------
@@ -2192,12 +2193,12 @@ Camera device models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Acer HD Webcam                                                 | 3         | 8.57%   |
+| Bison HD Webcam                                                | 3         | 8.57%   |
 | Sonix USB2.0 FHD UVC WebCam                                    | 2         | 5.71%   |
 | Chicony Integrated Camera                                      | 2         | 5.71%   |
-| Acer BisonCam,NB Pro                                           | 2         | 5.71%   |
+| Bison BisonCam,NB Pro                                          | 2         | 5.71%   |
 | Syntek USB2.0 Camera                                           | 1         | 2.86%   |
-| Samsung Galaxy A5 (MTP)                                        | 1         | 2.86%   |
+| Samsung Galaxy series, misc. (MTP mode)                        | 1         | 2.86%   |
 | Realtek Laptop Camera                                          | 1         | 2.86%   |
 | Realtek Integrated Camera                                      | 1         | 2.86%   |
 | Realtek EasyCamera                                             | 1         | 2.86%   |
@@ -2220,7 +2221,7 @@ Camera device models
 | Chicony HD User Facing                                         | 1         | 2.86%   |
 | Chicony FJ Camera                                              | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 2.86%   |
-| Bison ThinkPad Integrated Camera                               | 1         | 2.86%   |
+| Acer ThinkPad Integrated Camera                                | 1         | 2.86%   |
 | Acer Integrated Camera                                         | 1         | 2.86%   |
 
 Security
@@ -2300,7 +2301,8 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 0     | 23        | 58.97%  |
 | 1     | 12        | 30.77%  |
-| 2     | 4         | 10.26%  |
+| 2     | 3         | 7.69%   |
+| 3     | 1         | 2.56%   |
 
 Unsupported Device Types
 ------------------------
@@ -2312,10 +2314,10 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 10        | 50%     |
-| Graphics card         | 3         | 15%     |
-| Net/wireless          | 2         | 10%     |
-| Multimedia controller | 2         | 10%     |
-| Chipcard              | 2         | 10%     |
-| Bluetooth             | 1         | 5%      |
+| Fingerprint reader    | 10        | 45.45%  |
+| Graphics card         | 4         | 18.18%  |
+| Multimedia controller | 3         | 13.64%  |
+| Net/wireless          | 2         | 9.09%   |
+| Chipcard              | 2         | 9.09%   |
+| Bluetooth             | 1         | 4.55%   |
 

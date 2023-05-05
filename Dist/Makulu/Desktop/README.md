@@ -820,7 +820,7 @@ Hard drive models
 | Seagate ST3320620AS 320GB                    | 1        | 2.08%   |
 | Seagate ST31000524AS 1TB                     | 1        | 2.08%   |
 | Seagate ST250DM000-1BD141 250GB              | 1        | 2.08%   |
-| Seagate ST1000LM035-1RK172 1TB               | 1        | 2.08%   |
+| Seagate ST1000LM035-1RK172 970GB             | 1        | 2.08%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1        | 2.08%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1        | 2.08%   |
 | SanDisk SSD PLUS 480GB                       | 1        | 2.08%   |
@@ -839,7 +839,7 @@ Hard drive models
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.08%   |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.08%   |
 | Kingston SV300S37A120G 120GB SSD             | 1        | 2.08%   |
-| JMicron Generic 500GB                        | 1        | 2.08%   |
+| JMicron Generic 1TB                          | 1        | 2.08%   |
 | Hitachi HDS728080PLA380 82GB                 | 1        | 2.08%   |
 
 HDD Vendor
@@ -850,14 +850,14 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| Seagate | 8        | 10     | 47.06%  |
-| WDC     | 4        | 6      | 23.53%  |
-| Hitachi | 2        | 2      | 11.76%  |
-| Toshiba | 1        | 1      | 5.88%   |
-| Maxtor  | 1        | 1      | 5.88%   |
-| ASMT    | 1        | 1      | 5.88%   |
+| Vendor             | Desktops | Drives | Percent |
+|--------------------|----------|--------|---------|
+| Seagate            | 8        | 10     | 47.06%  |
+| WDC                | 4        | 6      | 23.53%  |
+| Hitachi            | 2        | 2      | 11.76%  |
+| Toshiba            | 1        | 1      | 5.88%   |
+| Maxtor             | 1        | 1      | 5.88%   |
+| JMicron Technology | 1        | 1      | 5.88%   |
 
 SSD Vendor
 ----------
@@ -878,9 +878,9 @@ Solid state drive vendors
 | Micron Technology   | 1        | 1      | 5.56%   |
 | LITEONIT            | 1        | 1      | 5.56%   |
 | Leven               | 1        | 1      | 5.56%   |
-| JMicron Technology  | 1        | 1      | 5.56%   |
 | Crucial             | 1        | 1      | 5.56%   |
 | China               | 1        | 1      | 5.56%   |
+| ASMT                | 1        | 1      | 5.56%   |
 | A-DATA Technology   | 1        | 1      | 5.56%   |
 
 Drive Kind
@@ -1915,8 +1915,8 @@ Memory module models
 | Model                                                | Desktops | Percent |
 |------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM 1066MT/s              | 1        | 25%     |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s  | 1        | 25%     |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1        | 25%     |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s   | 1        | 25%     |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM 1333MT/s       | 1        | 25%     |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1        | 25%     |
 
 Memory Kind

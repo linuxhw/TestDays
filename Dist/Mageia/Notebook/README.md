@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 48
+Total: 49
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell     | Latitude 7370               | [a254d0d7f1](https://linux-hardware.org/?probe=a254d0d7f1) | Apr 02, 2023 |
 | Dell     | Latitude 7370               | [b8a0b25983](https://linux-hardware.org/?probe=b8a0b25983) | Mar 30, 2023 |
 | HP       | ProBook 5330m               | [2ec50367d4](https://linux-hardware.org/?probe=2ec50367d4) | Mar 11, 2023 |
 | HP       | Unknown                     | [702ed67add](https://linux-hardware.org/?probe=702ed67add) | Dec 17, 2022 |
@@ -425,8 +426,8 @@ EFI or BIOS
 
 | Mode | Notebooks | Percent |
 |------|-----------|---------|
-| EFI  | 20        | 62.5%   |
-| BIOS | 12        | 37.5%   |
+| EFI  | 21        | 63.64%  |
+| BIOS | 12        | 36.36%  |
 
 Filesystem
 ----------
@@ -836,7 +837,7 @@ Hard drive vendors
 | SanDisk                 | 1         | 1      | 2.7%    |
 | Phison                  | 1         | 1      | 2.7%    |
 | LDLC                    | 1         | 1      | 2.7%    |
-| KingFast                | 1         | 1      | 2.7%    |
+| KingFast                | 1         | 2      | 2.7%    |
 | JMicron Technology      | 1         | 1      | 2.7%    |
 | Intel                   | 1         | 1      | 2.7%    |
 | HGST                    | 1         | 5      | 2.7%    |
@@ -884,7 +885,7 @@ Hard drive models
 | Kingston SA2000M8500G 500GB                  | 1         | 2.5%    |
 | Kingston NVMe SSD Drive 1TB                  | 1         | 2.5%    |
 | KingFast SSD 256GB                           | 1         | 2.5%    |
-| JMicron Generic 500GB                        | 1         | 2.5%    |
+| JMicron Generic 1TB                          | 1         | 2.5%    |
 | Intel SSDMCEAC120B3A 120GB                   | 1         | 2.5%    |
 | Hitachi HTS725050A9A364 500GB                | 1         | 2.5%    |
 | Hitachi HTS725050A7E630 500GB                | 1         | 2.5%    |
@@ -900,13 +901,14 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Notebooks | Drives | Percent |
-|---------|-----------|--------|---------|
-| Toshiba | 3         | 4      | 27.27%  |
-| Seagate | 3         | 3      | 27.27%  |
-| Hitachi | 3         | 3      | 27.27%  |
-| WDC     | 1         | 3      | 9.09%   |
-| HGST    | 1         | 5      | 9.09%   |
+| Vendor             | Notebooks | Drives | Percent |
+|--------------------|-----------|--------|---------|
+| Toshiba            | 3         | 4      | 25%     |
+| Seagate            | 3         | 3      | 25%     |
+| Hitachi            | 3         | 3      | 25%     |
+| WDC                | 1         | 3      | 8.33%   |
+| JMicron Technology | 1         | 1      | 8.33%   |
+| HGST               | 1         | 5      | 8.33%   |
 
 SSD Vendor
 ----------
@@ -918,16 +920,15 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 3         | 3      | 21.43%  |
-| Kingston            | 2         | 2      | 14.29%  |
-| Crucial             | 2         | 2      | 14.29%  |
-| WDC                 | 1         | 1      | 7.14%   |
-| SanDisk             | 1         | 1      | 7.14%   |
-| LDLC                | 1         | 1      | 7.14%   |
-| KingFast            | 1         | 1      | 7.14%   |
-| JMicron Technology  | 1         | 1      | 7.14%   |
-| Intel               | 1         | 1      | 7.14%   |
-| China               | 1         | 1      | 7.14%   |
+| Samsung Electronics | 3         | 3      | 23.08%  |
+| Kingston            | 2         | 2      | 15.38%  |
+| Crucial             | 2         | 2      | 15.38%  |
+| WDC                 | 1         | 1      | 7.69%   |
+| SanDisk             | 1         | 1      | 7.69%   |
+| LDLC                | 1         | 1      | 7.69%   |
+| KingFast            | 1         | 2      | 7.69%   |
+| Intel               | 1         | 1      | 7.69%   |
+| China               | 1         | 1      | 7.69%   |
 
 Drive Kind
 ----------
@@ -939,10 +940,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 13        | 14     | 35.14%  |
-| HDD  | 11        | 18     | 29.73%  |
-| NVMe | 9         | 12     | 24.32%  |
-| MMC  | 4         | 4      | 10.81%  |
+| SSD  | 13        | 14     | 34.21%  |
+| HDD  | 12        | 19     | 31.58%  |
+| NVMe | 9         | 12     | 23.68%  |
+| MMC  | 4         | 4      | 10.53%  |
 
 Drive Connector
 ---------------
@@ -954,7 +955,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 22        | 31     | 61.11%  |
+| SATA | 22        | 32     | 61.11%  |
 | NVMe | 9         | 12     | 25%     |
 | MMC  | 4         | 4      | 11.11%  |
 | SAS  | 1         | 1      | 2.78%   |
@@ -969,8 +970,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 17        | 19     | 73.91%  |
-| 0.51-1.0   | 6         | 13     | 26.09%  |
+| 0.01-0.5   | 17        | 19     | 70.83%  |
+| 0.51-1.0   | 7         | 14     | 29.17%  |
 
 Space Total
 -----------
@@ -998,12 +999,12 @@ Amount of used disk space
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 21-50     | 8         | 25.81%  |
-| 101-250   | 8         | 25.81%  |
-| 1-20      | 7         | 22.58%  |
-| 51-100    | 6         | 19.35%  |
-| 1001-2000 | 1         | 3.23%   |
-| 501-1000  | 1         | 3.23%   |
+| 21-50     | 8         | 25%     |
+| 101-250   | 8         | 25%     |
+| 1-20      | 7         | 21.88%  |
+| 51-100    | 7         | 21.88%  |
+| 1001-2000 | 1         | 3.13%   |
+| 501-1000  | 1         | 3.13%   |
 
 Malfunc. Drives
 ---------------
@@ -1083,7 +1084,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 19        | 21     | 55.88%  |
+| Works    | 19        | 22     | 55.88%  |
 | Detected | 12        | 24     | 35.29%  |
 | Malfunc  | 3         | 3      | 8.82%   |
 
@@ -1481,15 +1482,15 @@ Monitor models
 | Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch        | 1         | 3.03%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 3.03%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch      | 1         | 3.03%   |
-| Samsung Electronics LCD Monitor SEC3155 1366x768 293x165mm 13.2-inch      | 1         | 3.03%   |
+| Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch     | 1         | 3.03%   |
 | LG Display LCD Monitor LGD066A 1920x1080 344x194mm 15.5-inch              | 1         | 3.03%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch              | 1         | 3.03%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch               | 1         | 3.03%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 3.03%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 3.03%   |
 | LG Display LCD Monitor LGD0215 1920x1080 345x194mm 15.6-inch              | 1         | 3.03%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                   | 1         | 3.03%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 1         | 3.03%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch                   | 1         | 3.03%   |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 381x214mm 17.2-inch          | 1         | 3.03%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 1         | 3.03%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 3.03%   |
 | Chimei Innolux LCD Monitor CMN14D7 1920x1080 309x173mm 13.9-inch          | 1         | 3.03%   |
@@ -1967,11 +1968,11 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM LPDDR3 1600MT/s                    | 1         | 3.45%   |
 | Unknown RAM Module 4GB SODIMM DDR4 2400MT/s                      | 1         | 3.45%   |
 | Unknown RAM Module 2048MB SODIMM DDR2 975MT/s                    | 1         | 3.45%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 3.45%   |
+| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 1         | 3.45%   |
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s            | 1         | 3.45%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                     | 1         | 3.45%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 3.45%   |
-| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 3.45%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s        | 1         | 3.45%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 3.45%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s           | 1         | 3.45%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 3.45%   |
@@ -1981,7 +1982,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 3.45%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 3.45%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 3.45%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s             | 1         | 3.45%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s            | 1         | 3.45%   |
 | Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.45%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 3.45%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s            | 1         | 3.45%   |
@@ -2110,9 +2111,9 @@ Camera device vendors
 | Suyin                                  | 1         | 3.57%   |
 | Sunplus Innovation Technology          | 1         | 3.57%   |
 | Primax Electronics                     | 1         | 3.57%   |
+| Bison Electronics                      | 1         | 3.57%   |
 | Apple                                  | 1         | 3.57%   |
 | Alcor Micro                            | 1         | 3.57%   |
-| Acer                                   | 1         | 3.57%   |
 
 Camera Model
 ------------
@@ -2143,9 +2144,9 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 3.45%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 3.45%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 3.45%   |
+| Bison BisonCam,NB Pro                                                      | 1         | 3.45%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X                                            | 1         | 3.45%   |
-| Alcor Micro USB 2.0 Camera                                                 | 1         | 3.45%   |
-| Acer BisonCam,NB Pro                                                       | 1         | 3.45%   |
+| Alcor Micro SHUNCCM2MP                                                     | 1         | 3.45%   |
 
 Security
 --------
@@ -2223,10 +2224,10 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 14        | 45.16%  |
-| 0     | 12        | 38.71%  |
-| 2     | 3         | 9.68%   |
-| 3     | 2         | 6.45%   |
+| 1     | 15        | 46.88%  |
+| 0     | 12        | 37.5%   |
+| 2     | 3         | 9.38%   |
+| 3     | 2         | 6.25%   |
 
 Unsupported Device Types
 ------------------------

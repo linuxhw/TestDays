@@ -710,17 +710,17 @@ Hard drive models
 | Seagate ST4000DX001-1CE168 4TB          | 1        | 3.57%   |
 | Seagate ST3500312CS 500GB               | 1        | 3.57%   |
 | Seagate ST2000DM001-1ER164 2TB          | 1        | 3.57%   |
-| Seagate ST1000LM035-1RK172 1TB          | 1        | 3.57%   |
+| Seagate ST1000LM035-1RK172 970GB        | 1        | 3.57%   |
 | Seagate ST1000DM010-2EP102 1TB          | 1        | 3.57%   |
 | Seagate ST1000DM003-1SB102 1TB          | 1        | 3.57%   |
 | SanDisk NVMe SSD Drive 500GB            | 1        | 3.57%   |
 | Samsung SSD 860 QVO 1TB                 | 1        | 3.57%   |
 | Samsung SSD 840 EVO 250GB               | 1        | 3.57%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB  | 1        | 3.57%   |
 | Samsung NVMe SSD Drive 512GB            | 1        | 3.57%   |
+| Samsung NVMe SSD Drive 256GB            | 1        | 3.57%   |
 | Samsung NVMe SSD Drive 1024GB           | 1        | 3.57%   |
 | PNY CS900 240GB SSD                     | 1        | 3.57%   |
-| Phison PS5013 E13 NVMe Controller 256GB | 1        | 3.57%   |
+| Phison PS5013 E13 NVMe Controller 500GB | 1        | 3.57%   |
 | Kingston SV300S37A240G 240GB SSD        | 1        | 3.57%   |
 | Kingston SV300S37A120G 120GB SSD        | 1        | 3.57%   |
 | Kingston SA400S37120G 120GB SSD         | 1        | 3.57%   |
@@ -1224,7 +1224,7 @@ Monitor models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch   | 2        | 12.5%   |
-| Viotek GNV34DBE VTK3400 3440x1440 797x334mm 34.0-inch               | 1        | 6.25%   |
+| Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                 | 1        | 6.25%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch | 1        | 6.25%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 6.25%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 6.25%   |
@@ -1235,8 +1235,8 @@ Monitor models
 | Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 6.25%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 6.25%   |
 | AOC G2490W1G4 AOC2490 1920x1080 527x296mm 23.8-inch                 | 1        | 6.25%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 6.25%   |
-| Acer K222HQL ACR0512 1920x1080 476x268mm 21.5-inch                  | 1        | 6.25%   |
+| AOC 1970W-1 AOC1970 1366x768 410x230mm 18.5-inch                    | 1        | 6.25%   |
+| Acer K222HQL ACR0512 1920x1080 477x268mm 21.5-inch                  | 1        | 6.25%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 6.25%   |
 
 Monitor Resolution
@@ -1387,7 +1387,7 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 3.85%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 3.85%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 3.85%   |
-| Motorola PCS moto g(7) optimo maxx(XT1955DL)                      | 1        | 3.85%   |
+| Motorola PCS motorola one 5G ace                                  | 1        | 3.85%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.85%   |
 | Intel Wireless 8260                                               | 1        | 3.85%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 3.85%   |
@@ -1688,10 +1688,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor   | Desktops | Percent |
-|----------|----------|---------|
-| webcam   | 1        | 50%     |
-| Logitech | 1        | 50%     |
+| Vendor        | Desktops | Percent |
+|---------------|----------|---------|
+| Logitech      | 1        | 50%     |
+| 2M UVC CAMERA | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1701,10 +1701,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                       | Desktops | Percent |
-|-----------------------------|----------|---------|
-| webcam webcam               | 1        | 50%     |
-| Logitech HD Pro Webcam C920 | 1        | 50%     |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920         | 1        | 50%     |
+| 2M UVC CAMERA NexiGo N60 FHD Webcam | 1        | 50%     |
 
 Security
 --------

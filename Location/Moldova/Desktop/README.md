@@ -1796,7 +1796,7 @@ Monitor models
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 2        | 2.6%    |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 2        | 2.6%    |
 | ViewSonic VA521-1 VSCF318 1024x768 304x228mm 15.0-inch                 | 1        | 1.3%    |
-| Toshiba TV TSB0108 1920x540                                            | 1        | 1.3%    |
+| Toshiba TV TSB0108 1360x768 576x324mm 26.0-inch                        | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM03D1 1680x1050 433x271mm 20.1-inch   | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch    | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM036E 1280x1024 376x301mm 19.0-inch   | 1        | 1.3%    |
@@ -2039,7 +2039,7 @@ Controller models
 | Nvidia MCP67 Ethernet                                                  | 1        | 1.03%   |
 | Nvidia MCP55 Ethernet                                                  | 1        | 1.03%   |
 | Mercucys 802.11n NIC                                                   | 1        | 1.03%   |
-| MediaTek U318AA                                                        | 1        | 1.03%   |
+| MediaTek PRESIDENT_GOLD_10                                             | 1        | 1.03%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 1.03%   |
 | Intel NM10/ICH7 Family LAN Controller                                  | 1        | 1.03%   |
 | Intel Ethernet Connection I217-V                                       | 1        | 1.03%   |
@@ -2143,7 +2143,7 @@ Ethernet models
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 1.28%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 1.28%   |
 | Nvidia MCP55 Ethernet                                             | 1        | 1.28%   |
-| MediaTek U318AA                                                   | 1        | 1.28%   |
+| MediaTek PRESIDENT_GOLD_10                                        | 1        | 1.28%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.28%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.28%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 1.28%   |
@@ -2366,48 +2366,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                  | 3        | 3.61%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                      | 3        | 3.61%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                      | 2        | 2.41%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                      | 2        | 2.41%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                 | 2        | 2.41%   |
-| Unknown RAM Module 2048MB DIMM 800MT/s                       | 2        | 2.41%   |
-| Unknown RAM Module 1024MB DIMM DDR2 333MT/s                  | 2        | 2.41%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s          | 2        | 2.41%   |
-| Unknown RAM Module 8192MB DIMM 1333MT/s                      | 1        | 1.2%    |
-| Unknown RAM Module 512MB DIMM SDRAM                          | 1        | 1.2%    |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 1        | 1.2%    |
-| Unknown RAM Module 4GB DIMM 667MT/s                          | 1        | 1.2%    |
-| Unknown RAM Module 4GB DIMM 1333MT/s                         | 1        | 1.2%    |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                 | 1        | 1.2%    |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                     | 1        | 1.2%    |
-| Unknown RAM Module 2GB DIMM 667MT/s                          | 1        | 1.2%    |
-| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                 | 1        | 1.2%    |
-| Unknown RAM Module 2048MB DIMM SDRAM                         | 1        | 1.2%    |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 1        | 1.2%    |
-| Unknown RAM Module 2048MB DIMM DDR 667MT/s                   | 1        | 1.2%    |
-| Unknown RAM Module 2048MB DIMM DDR 1333MT/s                  | 1        | 1.2%    |
-| Unknown RAM Module 2048MB DIMM                               | 1        | 1.2%    |
-| Unknown RAM Module 1024MB DIMM SDRAM                         | 1        | 1.2%    |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                  | 1        | 1.2%    |
-| Unknown RAM Module 1024MB DIMM DDR2 400MT/s                  | 1        | 1.2%    |
-| Unknown RAM Module 1024MB DIMM DDR 667MT/s                   | 1        | 1.2%    |
-| Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s    | 1        | 1.2%    |
-| Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s         | 1        | 1.2%    |
-| Unknown (ABCD) RAM 123456789012345678 1GB DIMM DDR3 2400MT/s | 1        | 1.2%    |
-| Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s            | 1        | 1.2%    |
-| Team RAM Elite-1333 4GB DIMM 1333MT/s                        | 1        | 1.2%    |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s          | 1        | 1.2%    |
-| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s          | 1        | 1.2%    |
-| SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s       | 1        | 1.2%    |
-| Silicon Power RAM DCLT2GN568S 2048MB DIMM DDR3 1600MT/s      | 1        | 1.2%    |
-| SGS/Thomson RAM GR800S264L5/2G 2048MB DIMM SDRAM 2048MT/s    | 1        | 1.2%    |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s          | 1        | 1.2%    |
-| Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s         | 1        | 1.2%    |
-| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s              | 1        | 1.2%    |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3266MT/s          | 1        | 1.2%    |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                    | 3        | 3.61%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 3        | 3.61%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 2.41%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 2        | 2.41%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                   | 2        | 2.41%   |
+| Unknown RAM Module 2048MB DIMM 800MT/s                         | 2        | 2.41%   |
+| Unknown RAM Module 1024MB DIMM DDR2 333MT/s                    | 2        | 2.41%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s            | 2        | 2.41%   |
+| Unknown RAM Module 8192MB DIMM 1333MT/s                        | 1        | 1.2%    |
+| Unknown RAM Module 512MB DIMM SDRAM                            | 1        | 1.2%    |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 1.2%    |
+| Unknown RAM Module 4GB DIMM 667MT/s                            | 1        | 1.2%    |
+| Unknown RAM Module 4GB DIMM 1333MT/s                           | 1        | 1.2%    |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                   | 1        | 1.2%    |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                       | 1        | 1.2%    |
+| Unknown RAM Module 2GB DIMM 667MT/s                            | 1        | 1.2%    |
+| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                   | 1        | 1.2%    |
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 1        | 1.2%    |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1        | 1.2%    |
+| Unknown RAM Module 2048MB DIMM DDR 667MT/s                     | 1        | 1.2%    |
+| Unknown RAM Module 2048MB DIMM DDR 1333MT/s                    | 1        | 1.2%    |
+| Unknown RAM Module 2048MB DIMM                                 | 1        | 1.2%    |
+| Unknown RAM Module 1024MB DIMM SDRAM                           | 1        | 1.2%    |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                    | 1        | 1.2%    |
+| Unknown RAM Module 1024MB DIMM DDR2 400MT/s                    | 1        | 1.2%    |
+| Unknown RAM Module 1024MB DIMM DDR 667MT/s                     | 1        | 1.2%    |
+| Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s      | 1        | 1.2%    |
+| Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s           | 1        | 1.2%    |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.2%    |
+| Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s              | 1        | 1.2%    |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 1.2%    |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s            | 1        | 1.2%    |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s            | 1        | 1.2%    |
+| SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s         | 1        | 1.2%    |
+| Silicon Power RAM DCLT2GN568S 2048MB DIMM DDR3 1600MT/s        | 1        | 1.2%    |
+| SGS/Thomson RAM GR800S264L5/2G 2048MB DIMM SDRAM 2048MT/s      | 1        | 1.2%    |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 1.2%    |
+| Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s           | 1        | 1.2%    |
+| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s                | 1        | 1.2%    |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s             | 1        | 1.2%    |
 
 Memory Kind
 -----------
@@ -2646,8 +2646,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 68       | 87.18%  |
-| 1     | 10       | 12.82%  |
+| 0     | 69       | 88.46%  |
+| 1     | 9        | 11.54%  |
 
 Unsupported Device Types
 ------------------------
@@ -2659,7 +2659,7 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 8        | 80%     |
-| Net/wireless  | 1        | 10%     |
-| Camera        | 1        | 10%     |
+| Graphics card | 7        | 77.78%  |
+| Net/wireless  | 1        | 11.11%  |
+| Camera        | 1        | 11.11%  |
 

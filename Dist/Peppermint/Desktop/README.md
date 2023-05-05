@@ -1169,9 +1169,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 82       | 123    | 71.3%   |
+| 0.01-0.5   | 81       | 122    | 70.43%  |
 | 0.51-1.0   | 22       | 28     | 19.13%  |
-| 1.01-2.0   | 9        | 13     | 7.83%   |
+| 1.01-2.0   | 10       | 14     | 8.7%    |
 | 2.01-3.0   | 1        | 3      | 0.87%   |
 | 4.01-10.0  | 1        | 1      | 0.87%   |
 
@@ -1810,7 +1810,7 @@ Monitor models
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.08%   |
 | ViewSonic VG2230wm VSCA21E 1680x1050 474x296mm 22.0-inch                | 1        | 1.08%   |
 | Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.08%   |
-| Toshiba TV TSB0206 1920x1080                                            | 1        | 1.08%   |
+| Toshiba TV TSB0206 1920x1080 886x498mm 40.0-inch                        | 1        | 1.08%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.08%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.08%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.08%   |
@@ -1819,7 +1819,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 520x290mm 23.4-inch    | 1        | 1.08%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.08%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.08%   |
-| Samsung Electronics SME1920 SAM06B7 1360x768 410x230mm 18.5-inch        | 1        | 1.08%   |
+| Samsung Electronics SME1920 SAM06B7 1366x768 410x230mm 18.5-inch        | 1        | 1.08%   |
 | Samsung Electronics S22B370 SAM0898 1920x1080 477x268mm 21.5-inch       | 1        | 1.08%   |
 | Samsung Electronics S22B300 SAM08AB 1920x1080 477x268mm 21.5-inch       | 1        | 1.08%   |
 | Samsung Electronics LCD Monitor SyncMaster 2624x1200                    | 1        | 1.08%   |
@@ -2176,18 +2176,17 @@ Ethernet vendors
 
 | Vendor                   | Desktops | Percent |
 |--------------------------|----------|---------|
-| Realtek Semiconductor    | 40       | 39.6%   |
-| Intel                    | 24       | 23.76%  |
-| Nvidia                   | 13       | 12.87%  |
-| Broadcom                 | 9        | 8.91%   |
-| Qualcomm Atheros         | 4        | 3.96%   |
-| VIA Technologies         | 2        | 1.98%   |
-| Marvell Technology Group | 2        | 1.98%   |
-| Broadcom Limited         | 2        | 1.98%   |
-| 3Com                     | 2        | 1.98%   |
-| Xiaomi                   | 1        | 0.99%   |
-| Samsung Electronics      | 1        | 0.99%   |
-| ADMtek                   | 1        | 0.99%   |
+| Realtek Semiconductor    | 40       | 40%     |
+| Intel                    | 24       | 24%     |
+| Nvidia                   | 13       | 13%     |
+| Broadcom                 | 9        | 9%      |
+| Qualcomm Atheros         | 4        | 4%      |
+| VIA Technologies         | 2        | 2%      |
+| Marvell Technology Group | 2        | 2%      |
+| Broadcom Limited         | 2        | 2%      |
+| 3Com                     | 2        | 2%      |
+| Xiaomi                   | 1        | 1%      |
+| ADMtek                   | 1        | 1%      |
 
 Ethernet Model
 --------------
@@ -2199,46 +2198,46 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 25       | 24.51%  |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 8        | 7.84%   |
-| Nvidia MCP61 Ethernet                                             | 7        | 6.86%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 5        | 4.9%    |
-| Intel 82567LM-3 Gigabit Network Connection                        | 4        | 3.92%   |
-| Intel NM10/ICH7 Family LAN Controller                             | 3        | 2.94%   |
-| Intel 82566DM Gigabit Network Connection                          | 3        | 2.94%   |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 2        | 1.96%   |
-| Nvidia MCP79 Ethernet                                             | 2        | 1.96%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 2        | 1.96%   |
-| Intel 82579V Gigabit Network Connection                           | 2        | 1.96%   |
-| Broadcom NetXtreme II BCM5709 Gigabit Ethernet                    | 2        | 1.96%   |
-| Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 1.96%   |
-| 3Com 3c905B 100BaseTX [Cyclone]                                   | 2        | 1.96%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.98%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 0.98%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 0.98%   |
-| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1        | 0.98%   |
-| Qualcomm Atheros Attansic L2 Fast Ethernet                        | 1        | 0.98%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.98%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 0.98%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 0.98%   |
-| Nvidia MCP77 Ethernet                                             | 1        | 0.98%   |
-| Nvidia MCP73 Ethernet                                             | 1        | 0.98%   |
-| Nvidia MCP51 Ethernet Controller                                  | 1        | 0.98%   |
-| Nvidia CK804 Ethernet Controller                                  | 1        | 0.98%   |
-| Intel I211 Gigabit Network Connection                             | 1        | 0.98%   |
-| Intel I210 Gigabit Network Connection                             | 1        | 0.98%   |
-| Intel Ethernet Connection I217-V                                  | 1        | 0.98%   |
-| Intel Ethernet Connection I217-LM                                 | 1        | 0.98%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 0.98%   |
-| Intel Ethernet Connection (2) I218-V                              | 1        | 0.98%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 0.98%   |
-| Intel 82578DM Gigabit Network Connection                          | 1        | 0.98%   |
-| Intel 82578DC Gigabit Network Connection                          | 1        | 0.98%   |
-| Intel 82567LM-2 Gigabit Network Connection                        | 1        | 0.98%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 1        | 0.98%   |
-| Intel 82566DC-2 Gigabit Network Connection                        | 1        | 0.98%   |
-| Intel 82562V-2 10/100 Network Connection                          | 1        | 0.98%   |
-| Broadcom NetXtreme BCM5762 Gigabit Ethernet PCIe                  | 1        | 0.98%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 25       | 24.75%  |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 8        | 7.92%   |
+| Nvidia MCP61 Ethernet                                             | 7        | 6.93%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 5        | 4.95%   |
+| Intel 82567LM-3 Gigabit Network Connection                        | 4        | 3.96%   |
+| Intel NM10/ICH7 Family LAN Controller                             | 3        | 2.97%   |
+| Intel 82566DM Gigabit Network Connection                          | 3        | 2.97%   |
+| VIA VT6102/VT6103 [Rhine-II]                                      | 2        | 1.98%   |
+| Nvidia MCP79 Ethernet                                             | 2        | 1.98%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 2        | 1.98%   |
+| Intel 82579V Gigabit Network Connection                           | 2        | 1.98%   |
+| Broadcom NetXtreme II BCM5709 Gigabit Ethernet                    | 2        | 1.98%   |
+| Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 1.98%   |
+| 3Com 3c905B 100BaseTX [Cyclone]                                   | 2        | 1.98%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.99%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 0.99%   |
+| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1        | 0.99%   |
+| Qualcomm Atheros Attansic L2 Fast Ethernet                        | 1        | 0.99%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.99%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 0.99%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 0.99%   |
+| Nvidia MCP77 Ethernet                                             | 1        | 0.99%   |
+| Nvidia MCP73 Ethernet                                             | 1        | 0.99%   |
+| Nvidia MCP51 Ethernet Controller                                  | 1        | 0.99%   |
+| Nvidia CK804 Ethernet Controller                                  | 1        | 0.99%   |
+| Intel I211 Gigabit Network Connection                             | 1        | 0.99%   |
+| Intel I210 Gigabit Network Connection                             | 1        | 0.99%   |
+| Intel Ethernet Connection I217-V                                  | 1        | 0.99%   |
+| Intel Ethernet Connection I217-LM                                 | 1        | 0.99%   |
+| Intel Ethernet Connection (2) I219-V                              | 1        | 0.99%   |
+| Intel Ethernet Connection (2) I218-V                              | 1        | 0.99%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 0.99%   |
+| Intel 82578DM Gigabit Network Connection                          | 1        | 0.99%   |
+| Intel 82578DC Gigabit Network Connection                          | 1        | 0.99%   |
+| Intel 82567LM-2 Gigabit Network Connection                        | 1        | 0.99%   |
+| Intel 82566DM-2 Gigabit Network Connection                        | 1        | 0.99%   |
+| Intel 82566DC-2 Gigabit Network Connection                        | 1        | 0.99%   |
+| Intel 82562V-2 10/100 Network Connection                          | 1        | 0.99%   |
+| Broadcom NetXtreme BCM5762 Gigabit Ethernet PCIe                  | 1        | 0.99%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 1        | 0.99%   |
 
 Net Controller Kind
 -------------------
@@ -2250,9 +2249,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 92       | 64.34%  |
-| WiFi     | 50       | 34.97%  |
-| Unknown  | 1        | 0.7%    |
+| Ethernet | 92       | 63.89%  |
+| WiFi     | 50       | 34.72%  |
+| Modem    | 1        | 0.69%   |
+| Unknown  | 1        | 0.69%   |
 
 Used Controller
 ---------------
@@ -2459,7 +2459,7 @@ Memory module models
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.17%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s            | 1        | 4.17%   |
 | Samsung RAM M378B2873FHS-CH9 1GB DIMM 1600MT/s          | 1        | 4.17%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s   | 1        | 4.17%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 4.17%   |
 | Nanya RAM NT1GT64UH8D0FN-AD 1GB DIMM DDR2 2048MT/s      | 1        | 4.17%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s      | 1        | 4.17%   |
@@ -2623,7 +2623,7 @@ Camera device models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Sunplus SPCA2281 Web Camera                                         | 1        | 11.11%  |
-| Samsung Galaxy A5 (MTP)                                             | 1        | 11.11%  |
+| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 11.11%  |
 | Logitech Webcam C270                                                | 1        | 11.11%  |
 | Logitech Webcam C210                                                | 1        | 11.11%  |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode)               | 1        | 11.11%  |
@@ -2676,8 +2676,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 74       | 75.51%  |
-| 1     | 21       | 21.43%  |
+| 0     | 73       | 74.49%  |
+| 1     | 22       | 22.45%  |
 | 2     | 3        | 3.06%   |
 
 Unsupported Device Types
@@ -2690,11 +2690,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 8        | 29.63%  |
-| Communication controller | 8        | 29.63%  |
-| Graphics card            | 6        | 22.22%  |
-| Camera                   | 2        | 7.41%   |
-| Unassigned class         | 1        | 3.7%    |
-| Sound                    | 1        | 3.7%    |
-| Net/ethernet             | 1        | 3.7%    |
+| Net/wireless             | 8        | 28.57%  |
+| Communication controller | 8        | 28.57%  |
+| Graphics card            | 7        | 25%     |
+| Camera                   | 2        | 7.14%   |
+| Unassigned class         | 1        | 3.57%   |
+| Sound                    | 1        | 3.57%   |
+| Net/ethernet             | 1        | 3.57%   |
 

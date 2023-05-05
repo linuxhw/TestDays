@@ -332,7 +332,7 @@ Desktop Environment
 | Name     | Notebooks | Percent |
 |----------|-----------|---------|
 | KDE5     | 18        | 48.65%  |
-| Trinity  | 17        | 45.95%  |
+| trinity  | 17        | 45.95%  |
 | KDE      | 1         | 2.7%    |
 | Cinnamon | 1         | 2.7%    |
 
@@ -871,7 +871,7 @@ Hard drive models
 | WDC PC SN530 SDBPNPZ-512G-1006 512GB | 1         | 2.5%    |
 | Unknown USDU1  32GB                  | 1         | 2.5%    |
 | Unknown SLD64G  64GB                 | 1         | 2.5%    |
-| Unknown SD/MMC/MS PRO 64GB           | 1         | 2.5%    |
+| Unknown SD/MMC/MS PRO 249GB          | 1         | 2.5%    |
 | Unknown MMC Card  64GB               | 1         | 2.5%    |
 | Unknown HAG2e  16GB                  | 1         | 2.5%    |
 | Unknown 064G38  64GB                 | 1         | 2.5%    |
@@ -1748,7 +1748,7 @@ Controller models
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                  | 1         | 1.43%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                  | 1         | 1.43%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                            | 1         | 1.43%   |
-| Motorola PCS moto g pure                                                    | 1         | 1.43%   |
+| Motorola PCS motorola razr 2022                                             | 1         | 1.43%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                     | 1         | 1.43%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                     | 1         | 1.43%   |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)                         | 1         | 1.43%   |
@@ -1852,7 +1852,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 3.23%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 3.23%   |
 | Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1         | 3.23%   |
-| Motorola PCS moto g pure                                          | 1         | 3.23%   |
+| Motorola PCS motorola razr 2022                                   | 1         | 3.23%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 3.23%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 3.23%   |
 | LG LM-X420xxx/G2 Android Phone (USB tethering mode)               | 1         | 3.23%   |
@@ -2055,7 +2055,7 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM DDR2                               | 5         | 11.9%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 4.76%   |
+| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 2         | 4.76%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 4.76%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 4.76%   |
 | Unknown RAM Module 512MB SODIMM SDRAM                            | 1         | 2.38%   |
@@ -2069,10 +2069,10 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR                                | 1         | 2.38%   |
 | Unknown RAM Module 1GB DIMM DDR3 1333MT/s                        | 1         | 2.38%   |
 | Unknown RAM CL19-19-19 D4-2666 8GB SODIMM DDR4 2133MT/s          | 1         | 2.38%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s               | 1         | 2.38%   |
-| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s                | 1         | 2.38%   |
+| Toshiba RAM 8HTF12864HDY-800G1 4GB SODIMM 1066MT/s               | 1         | 2.38%   |
+| Toshiba RAM 64T128020EDL2.5C2 1GB SODIMM 1066MT/s                | 1         | 2.38%   |
 | SK hynix RAM Module 2048MB SODIMM DDR3 1600MT/s                  | 1         | 2.38%   |
-| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR2 800MT/s         | 1         | 2.38%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s            | 1         | 2.38%   |
 | SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
 | SK hynix RAM HMA851S6DJR6N-XN 4GB Row Of Chips DDR4 3200MT/s     | 1         | 2.38%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2400MT/s           | 1         | 2.38%   |
@@ -2216,15 +2216,16 @@ Camera device vendors
 | IMC Networks                           | 3         | 13.64%  |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 13.64%  |
 | Microdia                               | 2         | 9.09%   |
-| Acer                                   | 2         | 9.09%   |
 | Suyin                                  | 1         | 4.55%   |
 | Silicon Motion                         | 1         | 4.55%   |
 | Ricoh                                  | 1         | 4.55%   |
 | Realtek Semiconductor                  | 1         | 4.55%   |
 | Quanta                                 | 1         | 4.55%   |
 | Luxvisions Innotech Limited            | 1         | 4.55%   |
+| Bison Electronics                      | 1         | 4.55%   |
 | ALi                                    | 1         | 4.55%   |
 | Alcor Micro                            | 1         | 4.55%   |
+| Acer                                   | 1         | 4.55%   |
 
 Camera Model
 ------------
@@ -2240,7 +2241,7 @@ Camera device models
 | Silicon Motion 300k Pixel Camera                            | 1         | 4.55%   |
 | Ricoh Sony Visual Communication Camera                      | 1         | 4.55%   |
 | Realtek USB2.0 VGA UVC WebCam                               | 1         | 4.55%   |
-| Quanta Lenovo EasyCamera                                    | 1         | 4.55%   |
+| Quanta Chromebook HD Camera                                 | 1         | 4.55%   |
 | Microdia Webcam Vitade AF                                   | 1         | 4.55%   |
 | Microdia Sonix USB 2.0 Camera                               | 1         | 4.55%   |
 | Luxvisions Innotech Limited Integrated Camera               | 1         | 4.55%   |
@@ -2254,10 +2255,10 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam (UVC)         | 1         | 4.55%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD     | 1         | 4.55%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam         | 1         | 4.55%   |
+| Bison EasyCamera                                            | 1         | 4.55%   |
 | ALi M5603 Video Camera Controller                           | 1         | 4.55%   |
-| Alcor Micro USB 2.0 Camera                                  | 1         | 4.55%   |
+| Alcor Micro SHUNCCM2MP                                      | 1         | 4.55%   |
 | Acer HP Webcam-101                                          | 1         | 4.55%   |
-| Acer EasyCamera                                             | 1         | 4.55%   |
 
 Security
 --------

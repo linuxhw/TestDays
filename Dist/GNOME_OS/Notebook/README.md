@@ -800,11 +800,11 @@ Hard drive models
 | SK hynix NVMe SSD Drive 512GB             | 1         | 3.23%   |
 | Seagate ST9500325AS 500GB                 | 1         | 3.23%   |
 | Seagate ST500LM012 HN-M500MBB 500GB       | 1         | 3.23%   |
-| Seagate ST1000LM035-1RK172 1TB            | 1         | 3.23%   |
+| Seagate ST1000LM035-1RK172 970GB          | 1         | 3.23%   |
 | SanDisk X300 MSATA 128GB SSD              | 1         | 3.23%   |
 | SanDisk SD8SN8U512G1002 512GB SSD         | 1         | 3.23%   |
 | Samsung SSD 860 EVO 500GB                 | 1         | 3.23%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB    | 1         | 3.23%   |
+| Samsung NVMe SSD Drive 256GB              | 1         | 3.23%   |
 | Patriot Burst Elite 120GB SSD             | 1         | 3.23%   |
 | Micron 1100_MTFDDAV256TBN 256GB SSD       | 1         | 3.23%   |
 | Micron 1100_MTFDDAK256TBN 256GB SSD       | 1         | 3.23%   |
@@ -1929,7 +1929,7 @@ Camera device models
 | Chicony Integrated Camera                        | 2         | 7.14%   |
 | Syntek Integrated Camera                         | 1         | 3.57%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 3.57%   |
-| Sunplus HD WebCam                                | 1         | 3.57%   |
+| Sunplus HD Webcam                                | 1         | 3.57%   |
 | Realtek USB2.0 HD UVC WebCam                     | 1         | 3.57%   |
 | Realtek Integrated_Webcam_HD                     | 1         | 3.57%   |
 | Realtek Integrated Camera                        | 1         | 3.57%   |

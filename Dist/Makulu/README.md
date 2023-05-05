@@ -928,7 +928,7 @@ Hard drive models
 | Unknown MMC Card  128GB                      | 2         | 2.67%   |
 | Toshiba MQ01ABD100 1TB                       | 2         | 2.67%   |
 | Seagate ST500LT012-1DG142 500GB              | 2         | 2.67%   |
-| Seagate ST1000LM035-1RK172 1TB               | 2         | 2.67%   |
+| Seagate ST1000LM035-1RK172 970GB             | 2         | 2.67%   |
 | SanDisk SSD PLUS 1000GB                      | 2         | 2.67%   |
 | SanDisk NVMe SSD Drive 500GB                 | 2         | 2.67%   |
 | Samsung NVMe SSD Drive 1TB                   | 2         | 2.67%   |
@@ -939,7 +939,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.33%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.33%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.33%   |
-| Unknown SD/MMC/MS PRO 64GB                   | 1         | 1.33%   |
+| Unknown SD/MMC/MS PRO 249GB                  | 1         | 1.33%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.33%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.33%   |
 | Toshiba MQ01ABF050M 500GB                    | 1         | 1.33%   |
@@ -983,8 +983,8 @@ Hard disk drive vendors
 | Unknown             | 1         | 1      | 3.33%   |
 | Samsung Electronics | 1         | 1      | 3.33%   |
 | Maxtor              | 1         | 1      | 3.33%   |
+| JMicron Technology  | 1         | 1      | 3.33%   |
 | HGST                | 1         | 1      | 3.33%   |
-| ASMT                | 1         | 1      | 3.33%   |
 
 SSD Vendor
 ----------
@@ -1007,10 +1007,10 @@ Solid state drive vendors
 | LITEONIT            | 1         | 1      | 3.85%   |
 | LITEON              | 1         | 2      | 3.85%   |
 | Leven               | 1         | 1      | 3.85%   |
-| JMicron Technology  | 1         | 1      | 3.85%   |
 | Intenso             | 1         | 1      | 3.85%   |
 | Crucial             | 1         | 1      | 3.85%   |
 | China               | 1         | 1      | 3.85%   |
+| ASMT                | 1         | 1      | 3.85%   |
 | Apple               | 1         | 1      | 3.85%   |
 | A-DATA Technology   | 1         | 1      | 3.85%   |
 
@@ -1055,9 +1055,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 30        | 44     | 61.22%  |
+| 0.01-0.5   | 31        | 45     | 63.27%  |
 | 0.51-1.0   | 16        | 18     | 32.65%  |
-| 1.01-2.0   | 2         | 2      | 4.08%   |
+| 1.01-2.0   | 1         | 1      | 2.04%   |
 | 4.01-10.0  | 1         | 1      | 2.04%   |
 
 Space Total
@@ -1680,11 +1680,11 @@ Monitor models
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                        | 1         | 2.17%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch                        | 1         | 2.17%   |
 | Dell LCD Monitor E228WFP                                                 | 1         | 2.17%   |
+| Dell INSPIRON ONE DELB123 1920x1080 510x287mm 23.0-inch                  | 1         | 2.17%   |
 | Dell Inspiron 7790 DEL93FF 1920x1080 510x287mm 23.0-inch                 | 1         | 2.17%   |
-| Dell 23" AIO DELB123 1920x1080 510x287mm 23.0-inch                       | 1         | 2.17%   |
 | Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 2.17%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 2.17%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 2.17%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 2.17%   |
@@ -2232,8 +2232,8 @@ Memory module models
 | Model                                                | Computers | Percent |
 |------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2048MB DIMM 1066MT/s              | 1         | 25%     |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s  | 1         | 25%     |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1         | 25%     |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s   | 1         | 25%     |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM 1333MT/s       | 1         | 25%     |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1         | 25%     |
 
 Memory Kind
@@ -2374,11 +2374,11 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 2         | 9.09%   |
 | Z-Star WebCam SCB-1900N                                 | 1         | 4.55%   |
 | Suyin UVC HD Webcam                                     | 1         | 4.55%   |
-| Suyin Laptop_Integrated_Webcam_HD                       | 1         | 4.55%   |
+| Suyin Integrated_Webcam_HD                              | 1         | 4.55%   |
 | Suyin HP Truevision HD                                  | 1         | 4.55%   |
 | Sonix USB 2.0 Camera                                    | 1         | 4.55%   |
-| Realtek Integrated_Webcam_HD                            | 1         | 4.55%   |
 | Realtek Integrated_Webcam_FHD                           | 1         | 4.55%   |
+| Realtek Integrated Webcam HD                            | 1         | 4.55%   |
 | Realtek FJ Camera                                       | 1         | 4.55%   |
 | Microsoft LifeCam VX-2000                               | 1         | 4.55%   |
 | Microdia Laptop_Integrated_Webcam_HD                    | 1         | 4.55%   |

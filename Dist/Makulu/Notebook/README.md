@@ -741,7 +741,7 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 8.33%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 8.33%   |
-| Unknown SD/MMC/MS PRO 64GB           | 1         | 4.17%   |
+| Unknown SD/MMC/MS PRO 249GB          | 1         | 4.17%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.17%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.17%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.17%   |
@@ -1283,7 +1283,7 @@ Monitor models
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 5.56%   |
 | Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 5.56%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 5.56%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 5.56%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 5.56%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 5.56%   |
@@ -1797,9 +1797,9 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 2         | 12.5%   |
 | Z-Star WebCam SCB-1900N                                 | 1         | 6.25%   |
 | Suyin UVC HD Webcam                                     | 1         | 6.25%   |
-| Suyin Laptop_Integrated_Webcam_HD                       | 1         | 6.25%   |
+| Suyin Integrated_Webcam_HD                              | 1         | 6.25%   |
 | Suyin HP Truevision HD                                  | 1         | 6.25%   |
-| Realtek Integrated_Webcam_HD                            | 1         | 6.25%   |
+| Realtek Integrated Webcam HD                            | 1         | 6.25%   |
 | Realtek FJ Camera                                       | 1         | 6.25%   |
 | Microdia Laptop_Integrated_Webcam_HD                    | 1         | 6.25%   |
 | Microdia Dell Laptop Integrated Webcam HD               | 1         | 6.25%   |

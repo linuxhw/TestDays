@@ -998,48 +998,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                 | Notebooks | Percent |
-|---------------------------------------|-----------|---------|
-| Unknown MMC Card  64GB                | 3         | 3.53%   |
-| Intel NVMe SSD Drive 512GB            | 3         | 3.53%   |
-| HGST HTS725050A7E630 500GB            | 3         | 3.53%   |
-| WDC WD10JPVT-08A1YT2 1TB              | 2         | 2.35%   |
-| SK hynix NVMe SSD Drive 256GB         | 2         | 2.35%   |
-| Seagate ST9500325AS 500GB             | 2         | 2.35%   |
-| Seagate ST500LT012-1DG142 500GB       | 2         | 2.35%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB    | 2         | 2.35%   |
-| Kingston SA400S37480G 480GB SSD       | 2         | 2.35%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD      | 1         | 1.18%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD      | 1         | 1.18%   |
-| WDC WD7500LPCX-60HWST0 752GB          | 1         | 1.18%   |
-| WDC WD5000LPVX-22V0TT0 500GB          | 1         | 1.18%   |
-| WDC WD5000LPCX-00VHAT0 500GB          | 1         | 1.18%   |
-| WDC WD3200BEVT-22ZCT0 320GB           | 1         | 1.18%   |
-| WDC WD10SPZX-22Z10T0 1TB              | 1         | 1.18%   |
-| WDC WD10JPVX-22JC3T0 1TB              | 1         | 1.18%   |
-| WDC WD10JPCX-24UE4T0 1TB              | 1         | 1.18%   |
-| Unknown SD/MMC/MS PRO 64GB            | 1         | 1.18%   |
-| Transcend TS1TSSD230S 1TB             | 1         | 1.18%   |
-| Toshiba XG6 NVMe SSD Controller 512GB | 1         | 1.18%   |
-| Toshiba TR200 240GB SSD               | 1         | 1.18%   |
-| Toshiba NVMe SSD Drive 512GB          | 1         | 1.18%   |
-| Toshiba MQ01ABD100M 1TB               | 1         | 1.18%   |
-| Toshiba MQ01ABD075 752GB              | 1         | 1.18%   |
-| Toshiba MK5065GSXN 500GB              | 1         | 1.18%   |
-| Toshiba MK3265GSX 320GB               | 1         | 1.18%   |
-| Toshiba KBG30ZMS256G NVMe 256GB       | 1         | 1.18%   |
-| SPCC Solid State Disk 256GB           | 1         | 1.18%   |
-| SK hynix PC711 NVMe 1TB               | 1         | 1.18%   |
-| Seagate ST9500420AS 500GB             | 1         | 1.18%   |
-| Seagate ST9320423AS 320GB             | 1         | 1.18%   |
-| Seagate ST500LT012-9WS142 500GB       | 1         | 1.18%   |
-| Seagate ST1000LX015-1U7172 1TB        | 1         | 1.18%   |
-| Seagate ST1000LM035-1RK1 1TB          | 1         | 1.18%   |
-| Seagate Expansion+ 2TB                | 1         | 1.18%   |
-| SanDisk SSD PLUS 240 GB               | 1         | 1.18%   |
-| SanDisk SD9SN8W512G1002 512GB SSD     | 1         | 1.18%   |
-| SanDisk SD8SBBU480G1122 480GB SSD     | 1         | 1.18%   |
-| Samsung SSD 860 PRO 512GB             | 1         | 1.18%   |
+| Model                                  | Notebooks | Percent |
+|----------------------------------------|-----------|---------|
+| Unknown MMC Card  64GB                 | 3         | 3.53%   |
+| Intel NVMe SSD Drive 512GB             | 3         | 3.53%   |
+| HGST HTS725050A7E630 500GB             | 3         | 3.53%   |
+| WDC WD10JPVT-08A1YT2 1TB               | 2         | 2.35%   |
+| SK hynix NVMe SSD Drive 256GB          | 2         | 2.35%   |
+| Seagate ST9500325AS 500GB              | 2         | 2.35%   |
+| Seagate ST500LT012-1DG142 500GB        | 2         | 2.35%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB     | 2         | 2.35%   |
+| Kingston SA400S37480G 480GB SSD        | 2         | 2.35%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD       | 1         | 1.18%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD       | 1         | 1.18%   |
+| WDC WD7500LPCX-60HWST0 752GB           | 1         | 1.18%   |
+| WDC WD5000LPVX-22V0TT0 500GB           | 1         | 1.18%   |
+| WDC WD5000LPCX-00VHAT0 500GB           | 1         | 1.18%   |
+| WDC WD3200BEVT-22ZCT0 320GB            | 1         | 1.18%   |
+| WDC WD10SPZX-22Z10T0 1TB               | 1         | 1.18%   |
+| WDC WD10JPVX-22JC3T0 1TB               | 1         | 1.18%   |
+| WDC WD10JPCX-24UE4T0 1TB               | 1         | 1.18%   |
+| Unknown SD/MMC/MS PRO 249GB            | 1         | 1.18%   |
+| Transcend TS1TSSD230S 1TB              | 1         | 1.18%   |
+| Toshiba XG6 NVMe SSD Controller 1024GB | 1         | 1.18%   |
+| Toshiba TR200 240GB SSD                | 1         | 1.18%   |
+| Toshiba NVMe SSD Drive 512GB           | 1         | 1.18%   |
+| Toshiba MQ01ABD100M 1TB                | 1         | 1.18%   |
+| Toshiba MQ01ABD075 752GB               | 1         | 1.18%   |
+| Toshiba MK5065GSXN 500GB               | 1         | 1.18%   |
+| Toshiba MK3265GSX 320GB                | 1         | 1.18%   |
+| Toshiba KBG30ZMS256G NVMe 256GB        | 1         | 1.18%   |
+| SPCC Solid State Disk 256GB            | 1         | 1.18%   |
+| SK hynix PC711 NVMe 1TB                | 1         | 1.18%   |
+| Seagate ST9500420AS 500GB              | 1         | 1.18%   |
+| Seagate ST9320423AS 320GB              | 1         | 1.18%   |
+| Seagate ST500LT012-9WS142 500GB        | 1         | 1.18%   |
+| Seagate ST1000LX015-1U7172 1TB         | 1         | 1.18%   |
+| Seagate ST1000LM035-1RK1 1TB           | 1         | 1.18%   |
+| Seagate Expansion 4TB                  | 1         | 1.18%   |
+| SanDisk SSD PLUS 240 GB                | 1         | 1.18%   |
+| SanDisk SD9SN8W512G1002 512GB SSD      | 1         | 1.18%   |
+| SanDisk SD8SBBU480G1122 480GB SSD      | 1         | 1.18%   |
+| Samsung SSD 860 PRO 512GB              | 1         | 1.18%   |
 
 HDD Vendor
 ----------
@@ -1123,7 +1123,7 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 38        | 41     | 63.33%  |
 | 0.51-1.0   | 21        | 24     | 35%     |
-| 1.01-2.0   | 1         | 1      | 1.67%   |
+| 3.01-4.0   | 1         | 1      | 1.67%   |
 
 Space Total
 -----------
@@ -1678,19 +1678,19 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch     | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SDC464C 1366x768 309x174mm 14.0-inch     | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SDC4150 3456x2160 336x210mm 15.6-inch    | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch    | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch    | 1         | 1.28%   |
 | MStar Demo MST0030 1366x768 708x398mm 32.0-inch                          | 1         | 1.28%   |
 | LG Display LCD Monitor LGD05FF 1920x1080 344x194mm 15.5-inch             | 1         | 1.28%   |
 | LG Display LCD Monitor LGD05F3 1920x1080 309x174mm 14.0-inch             | 1         | 1.28%   |
 | LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch             | 1         | 1.28%   |
 | LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch             | 1         | 1.28%   |
-| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 1.28%   |
+| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 1         | 1.28%   |
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 1         | 1.28%   |
 | LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 1         | 1.28%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 1.28%   |
 | LG Display LCD Monitor LGD027A 1600x900 382x215mm 17.3-inch              | 1         | 1.28%   |
 | LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch             | 1         | 1.28%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 1.28%   |
+| Lenovo LCD Monitor LEN4036 1440x900 304x190mm 14.1-inch                  | 1         | 1.28%   |
 | InfoVision LCD Monitor IVO0579 1366x768 310x170mm 13.9-inch              | 1         | 1.28%   |
 | Hewlett-Packard LA2205 HWP2847 1680x1050 473x296mm 22.0-inch             | 1         | 1.28%   |
 | Goldstar 27EA63 GSM598B 1920x1080 600x340mm 27.2-inch                    | 1         | 1.28%   |
@@ -1980,15 +1980,14 @@ Ethernet vendors
 
 | Vendor                    | Notebooks | Percent |
 |---------------------------|-----------|---------|
-| Realtek Semiconductor     | 34        | 55.74%  |
-| Intel                     | 13        | 21.31%  |
-| Qualcomm Atheros          | 5         | 8.2%    |
-| Huawei Technologies       | 3         | 4.92%   |
-| Broadcom                  | 2         | 3.28%   |
-| Xiaomi                    | 1         | 1.64%   |
-| Spreadtrum Communications | 1         | 1.64%   |
-| Samsung Electronics       | 1         | 1.64%   |
-| DisplayLink               | 1         | 1.64%   |
+| Realtek Semiconductor     | 34        | 56.67%  |
+| Intel                     | 13        | 21.67%  |
+| Qualcomm Atheros          | 5         | 8.33%   |
+| Huawei Technologies       | 3         | 5%      |
+| Broadcom                  | 2         | 3.33%   |
+| Xiaomi                    | 1         | 1.67%   |
+| Spreadtrum Communications | 1         | 1.67%   |
+| DisplayLink               | 1         | 1.67%   |
 
 Ethernet Model
 --------------
@@ -2000,27 +1999,26 @@ Ethernet models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 24        | 38.71%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 8         | 12.9%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 6         | 9.68%   |
-| Intel 82577LM Gigabit Network Connection                          | 3         | 4.84%   |
-| Huawei E353/E3131                                                 | 3         | 4.84%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 3.23%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 3.23%   |
-| Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 1.61%   |
-| Spreadtrum Nokia G21                                              | 1         | 1.61%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 1.61%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.61%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.61%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 1.61%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.61%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 1.61%   |
-| Intel Ethernet Connection (6) I219-V                              | 1         | 1.61%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.61%   |
-| Intel 82577LC Gigabit Network Connection                          | 1         | 1.61%   |
-| DisplayLink Dell Universal Dock D6000                             | 1         | 1.61%   |
-| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.61%   |
-| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1         | 1.61%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 24        | 39.34%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 8         | 13.11%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 6         | 9.84%   |
+| Intel 82577LM Gigabit Network Connection                          | 3         | 4.92%   |
+| Huawei E353/E3131                                                 | 3         | 4.92%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 3.28%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 3.28%   |
+| Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 1.64%   |
+| Spreadtrum Nokia G21                                              | 1         | 1.64%   |
+| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.64%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.64%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 1.64%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.64%   |
+| Intel Ethernet Connection I217-LM                                 | 1         | 1.64%   |
+| Intel Ethernet Connection (6) I219-V                              | 1         | 1.64%   |
+| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.64%   |
+| Intel 82577LC Gigabit Network Connection                          | 1         | 1.64%   |
+| DisplayLink Dell Universal Dock D6000                             | 1         | 1.64%   |
+| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.64%   |
+| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1         | 1.64%   |
 
 Net Controller Kind
 -------------------
@@ -2032,9 +2030,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 69        | 53.91%  |
-| Ethernet | 57        | 44.53%  |
-| Modem    | 2         | 1.56%   |
+| WiFi     | 69        | 53.49%  |
+| Ethernet | 57        | 44.19%  |
+| Modem    | 3         | 2.33%   |
 
 Used Controller
 ---------------
@@ -2408,8 +2406,8 @@ Camera device models
 | Suyin Lenovo EasyCamera                                 | 1         | 1.52%   |
 | Suyin Acer/HP Integrated Webcam [CN0314]                | 1         | 1.52%   |
 | Sunplus USB 2.0 Camera                                  | 1         | 1.52%   |
-| Sunplus HD WebCam                                       | 1         | 1.52%   |
-| Samsung Galaxy A5 (MTP)                                 | 1         | 1.52%   |
+| Sunplus HD Webcam                                       | 1         | 1.52%   |
+| Samsung Galaxy series, misc. (MTP mode)                 | 1         | 1.52%   |
 | Ricoh HD Webcam                                         | 1         | 1.52%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 1.52%   |
 | Realtek USB Camera                                      | 1         | 1.52%   |

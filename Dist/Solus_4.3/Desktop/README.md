@@ -895,9 +895,9 @@ Hard drive models
 | WDC WD10EADS-00M2B0 1TB                           | 1        | 1.04%   |
 | WDC WD1003FBYX-01Y7B0 1TB                         | 1        | 1.04%   |
 | WDC WD My Passport 25F3 512GB                     | 1        | 1.04%   |
-| Unknown SD/MMC/MS PRO 64GB                        | 1        | 1.04%   |
+| Unknown SD/MMC/MS PRO 249GB                       | 1        | 1.04%   |
 | Toshiba DT01ACA100 1TB                            | 1        | 1.04%   |
-| SPCC Sol id State Disk 1TB SSD                    | 1        | 1.04%   |
+| SPCC Sol id State Disk 256GB SSD                  | 1        | 1.04%   |
 | SK hynix HFS512GD9TNG-L2A0A 512GB                 | 1        | 1.04%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 1.04%   |
 
@@ -982,12 +982,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 54     | 49.12%  |
-| 0.51-1.0   | 16       | 22     | 28.07%  |
-| 1.01-2.0   | 7        | 8      | 12.28%  |
-| 3.01-4.0   | 4        | 5      | 7.02%   |
-| 2.01-3.0   | 1        | 2      | 1.75%   |
-| 10.01-20.0 | 1        | 1      | 1.75%   |
+| 0.01-0.5   | 28       | 55     | 50%     |
+| 0.51-1.0   | 15       | 21     | 26.79%  |
+| 1.01-2.0   | 8        | 10     | 14.29%  |
+| 3.01-4.0   | 4        | 5      | 7.14%   |
+| 10.01-20.0 | 1        | 1      | 1.79%   |
 
 Space Total
 -----------
@@ -1533,7 +1532,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 3        | 6.12%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 6.12%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 4.08%   |
 | Unknown                                                              | 2        | 4.08%   |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1        | 2.04%   |
@@ -1550,7 +1549,7 @@ Monitor models
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 2.04%   |
 | Microstep LCD Monitor MSI G241                                       | 1        | 2.04%   |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 2.04%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch           | 1        | 2.04%   |
+| Lenovo LCD Monitor LEN1144 1920x1080 518x324mm 24.1-inch             | 1        | 2.04%   |
 | Hewlett-Packard 24yh HPN3504 1920x1080 528x297mm 23.9-inch           | 1        | 2.04%   |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 2.04%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 2.04%   |
@@ -1567,11 +1566,11 @@ Monitor models
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2.04%   |
 | ASUSTek Computer MG248 AUS24A3 1920x1080 531x299mm 24.0-inch         | 1        | 2.04%   |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2.04%   |
-| AOC 27B2G5 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2.04%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2.04%   |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2.04%   |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2.04%   |
 | AOC 2460G5 AOC2460 1920x1080 531x299mm 24.0-inch                     | 1        | 2.04%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2.04%   |
+| AOC 1970W-1 AOC1970 1366x768 410x230mm 18.5-inch                     | 1        | 2.04%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1        | 2.04%   |
 
 Monitor Resolution
@@ -1772,7 +1771,7 @@ Controller models
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 1.47%   |
 | Intel PRO/100 VE Network Connection                                                     | 1        | 1.47%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 1.47%   |
-| Huawei ANA-NX9                                                                          | 1        | 1.47%   |
+| Huawei ATU-L21                                                                          | 1        | 1.47%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 1.47%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                      | 1        | 1.47%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 1.47%   |
@@ -1867,7 +1866,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 2.44%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2.44%   |
 | Intel PRO/100 VE Network Connection                               | 1        | 2.44%   |
-| Huawei ANA-NX9                                                    | 1        | 2.44%   |
+| Huawei ATU-L21                                                    | 1        | 2.44%   |
 
 Net Controller Kind
 -------------------
@@ -2076,7 +2075,7 @@ Memory module models
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 7.69%   |
 | Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
-| Patriot RAM 2133 CL11 Series 8GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
+| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 7.69%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s    | 1        | 7.69%   |
 | Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
@@ -2198,14 +2197,14 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor          | Desktops | Percent |
-|-----------------|----------|---------|
-| Logitech        | 4        | 44.44%  |
-| MacroSilicon    | 1        | 11.11%  |
-| LG Electronics  | 1        | 11.11%  |
-| Hewlett-Packard | 1        | 11.11%  |
-| Acer            | 1        | 11.11%  |
-| A4Tech          | 1        | 11.11%  |
+| Vendor            | Desktops | Percent |
+|-------------------|----------|---------|
+| Logitech          | 4        | 44.44%  |
+| MacroSilicon      | 1        | 11.11%  |
+| LG Electronics    | 1        | 11.11%  |
+| Hewlett-Packard   | 1        | 11.11%  |
+| Bison Electronics | 1        | 11.11%  |
+| A4Tech            | 1        | 11.11%  |
 
 Camera Model
 ------------
@@ -2224,7 +2223,7 @@ Camera device models
 | Logitech C920 PRO HD Webcam          | 1        | 11.11%  |
 | LG Optimus (Various Models) MTP Mode | 1        | 11.11%  |
 | HP Webcam HD 2300                    | 1        | 11.11%  |
-| Acer LENOVO LBG 720P CAM             | 1        | 11.11%  |
+| Bison LENOVO LBG 720P CAM            | 1        | 11.11%  |
 | A4Tech FHD 1080P PC Camera           | 1        | 11.11%  |
 
 Security

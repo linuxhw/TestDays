@@ -1410,7 +1410,7 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
@@ -1431,7 +1431,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1         | 3.45%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1615,7 +1615,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.89%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:D902E15D                        | 1         | 1.89%   |
+| OnePlus (Shenzhen) OnePlus                                        | 1         | 1.89%   |
 | NetGear A6150                                                     | 1         | 1.89%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.89%   |
@@ -2128,7 +2128,7 @@ Chipcard module vendors
 |--------|-----------|---------|
 | Upek   | 1         | 33.33%  |
 | Lenovo | 1         | 33.33%  |
-| BIT4ID | 1         | 33.33%  |
+| Bit4id | 1         | 33.33%  |
 
 Chipcard Model
 --------------
@@ -2142,7 +2142,7 @@ Chipcard module models
 |------------------------------------------------------------|-----------|---------|
 | Upek TouchChip Fingerprint Coprocessor (WBF advanced mode) | 1         | 33.33%  |
 | Lenovo Integrated Smart Card Reader                        | 1         | 33.33%  |
-| BIT4ID miniLector EVO                                      | 1         | 33.33%  |
+| Bit4id miniLector EVO                                      | 1         | 33.33%  |
 
 Unsupported
 -----------
@@ -2157,8 +2157,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 16        | 61.54%  |
-| 1     | 7         | 26.92%  |
+| 0     | 17        | 65.38%  |
+| 1     | 6         | 23.08%  |
 | 2     | 3         | 11.54%  |
 
 Unsupported Device Types
@@ -2171,9 +2171,8 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Net/wireless       | 4         | 33.33%  |
-| Fingerprint reader | 4         | 33.33%  |
-| Chipcard           | 2         | 16.67%  |
-| Unassigned class   | 1         | 8.33%   |
-| Graphics card      | 1         | 8.33%   |
+| Net/wireless       | 4         | 36.36%  |
+| Fingerprint reader | 4         | 36.36%  |
+| Chipcard           | 2         | 18.18%  |
+| Unassigned class   | 1         | 9.09%   |
 

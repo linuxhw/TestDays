@@ -355,7 +355,7 @@ Desktop Environment
 | Name          | Notebooks | Percent |
 |---------------|-----------|---------|
 | XFCE          | 9         | 27.27%  |
-| lxqt          | 8         | 24.24%  |
+| LXQt          | 8         | 24.24%  |
 | Unknown       | 7         | 21.21%  |
 | KDE5          | 3         | 9.09%   |
 | openbox       | 2         | 6.06%   |
@@ -874,7 +874,7 @@ Hard drive models
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
 | Unknown MMC Card  32GB                   | 2         | 4.65%   |
-| Seagate Backup+ Hub BK 8TB               | 2         | 4.65%   |
+| Seagate Backup+ Hub BK 12TB              | 2         | 4.65%   |
 | Hitachi HTS545025B9A300 250GB            | 2         | 4.65%   |
 | WDC WD7500BPVX-22JC3T0 752GB             | 1         | 2.33%   |
 | WDC WD5000BEVT-22ZAT0 500GB              | 1         | 2.33%   |
@@ -890,11 +890,11 @@ Hard drive models
 | Seagate ST9250320AS 250GB                | 1         | 2.33%   |
 | Seagate ST9160310AS 160GB                | 1         | 2.33%   |
 | Seagate ST1000LM048-2E7172 1TB           | 1         | 2.33%   |
-| Seagate ST1000LM035-1RK172 1TB           | 1         | 2.33%   |
+| Seagate ST1000LM035-1RK172 970GB         | 1         | 2.33%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB       | 1         | 2.33%   |
 | Seagate Backup+ Desk 5TB                 | 1         | 2.33%   |
 | Samsung SSD 840 Series 120GB             | 1         | 2.33%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 256GB   | 1         | 2.33%   |
+| Samsung NVMe SSD Drive 256GB             | 1         | 2.33%   |
 | Samsung MZVLB512HAJQ-00000 512GB         | 1         | 2.33%   |
 | Samsung MZALQ512HALU-000L1 512GB         | 1         | 2.33%   |
 | Samsung MZ7TD128HAFV-000L1 128GB SSD     | 1         | 2.33%   |
@@ -993,7 +993,7 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 19        | 32     | 70.37%  |
 | 0.51-1.0   | 5         | 6      | 18.52%  |
-| 4.01-10.0  | 2         | 4      | 7.41%   |
+| 10.01-20.0 | 2         | 4      | 7.41%   |
 | 2.01-3.0   | 1         | 1      | 3.7%    |
 
 Space Total
@@ -1515,7 +1515,7 @@ Monitor models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics S24D330 SAM0D93 1920x1080 530x300mm 24.0-inch    | 1         | 3.13%   |
+| Samsung Electronics S24D330 SAM0D93 1920x1080 531x299mm 24.0-inch    | 1         | 3.13%   |
 | Samsung Electronics LCD Monitor SEC4F45 1280x800 331x207mm 15.4-inch | 1         | 3.13%   |
 | Samsung Electronics LCD Monitor SEC4141 1366x768 344x193mm 15.5-inch | 1         | 3.13%   |
 | Medion MD 20310 MED3645 1920x1080 521x293mm 23.5-inch                | 1         | 3.13%   |
@@ -1541,7 +1541,7 @@ Monitor models
 | BOE LCD Monitor BOE085E 1920x1080 344x194mm 15.5-inch                | 1         | 3.13%   |
 | BOE LCD Monitor BOE0697 1366x768 309x173mm 13.9-inch                 | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUOD0ED 1920x1080 344x193mm 15.5-inch       | 1         | 3.13%   |
-| AU Optronics LCD Monitor AUO312C 1366x768 293x164mm 13.2-inch        | 1         | 3.13%   |
+| AU Optronics LCD Monitor AUO312C 1366x768 293x165mm 13.2-inch        | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch       | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO132C 1366x768 293x164mm 13.2-inch        | 1         | 3.13%   |
@@ -1936,7 +1936,7 @@ Controller models
 | Taiyo Yuden Bluetooth Device (V2.0+EDR)             | 1         | 4.76%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 4.76%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 4.76%   |
-| Realtek Bluetooth Radio                             | 1         | 4.76%   |
+| Realtek 802.11ac WLAN Adapter                       | 1         | 4.76%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 4.76%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4.76%   |
 | Intel AX201 Bluetooth                               | 1         | 4.76%   |
@@ -2062,7 +2062,7 @@ Memory module models
 | Nanya RAM NT4GC64B8HG0NS-DI 4GB SODIMM DDR3 1600MT/s       | 1         | 3.45%   |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s       | 1         | 3.45%   |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s | 1         | 3.45%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s      | 1         | 3.45%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8192MB SODIMM DDR3 1600MT/s   | 1         | 3.45%   |
 | Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s     | 1         | 3.45%   |
 | Kingston RAM Module 4GB SODIMM DDR3 800MT/s                | 1         | 3.45%   |
 | Kingston RAM ACR16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s     | 1         | 3.45%   |
@@ -2187,11 +2187,12 @@ Camera device vendors
 | Chicony Electronics                    | 9         | 34.62%  |
 | Microdia                               | 4         | 15.38%  |
 | Suyin                                  | 3         | 11.54%  |
-| Acer                                   | 3         | 11.54%  |
 | Sunplus Innovation Technology          | 2         | 7.69%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 7.69%   |
+| Acer                                   | 2         | 7.69%   |
 | Z-Star Microelectronics                | 1         | 3.85%   |
 | Microsoft                              | 1         | 3.85%   |
+| Bison Electronics                      | 1         | 3.85%   |
 | Alcor Micro                            | 1         | 3.85%   |
 
 Camera Model
@@ -2225,10 +2226,10 @@ Camera device models
 | Chicony 2.0M UVC Webcam / CNF7129                           | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera         | 1         | 3.85%   |
 | Cheng Uei Precision Industry (Foxlink) HD Camera            | 1         | 3.85%   |
-| Alcor Micro USB 2.0 Camera                                  | 1         | 3.85%   |
+| Bison HD Webcam                                             | 1         | 3.85%   |
+| Alcor Micro SHUNCCM2MP                                      | 1         | 3.85%   |
 | Acer Lenovo EasyCamera                                      | 1         | 3.85%   |
 | Acer HP Webcam                                              | 1         | 3.85%   |
-| Acer HD Webcam                                              | 1         | 3.85%   |
 
 Security
 --------
@@ -2303,8 +2304,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 18        | 56.25%  |
-| 1     | 11        | 34.38%  |
+| 0     | 17        | 53.13%  |
+| 1     | 12        | 37.5%   |
 | 2     | 3         | 9.38%   |
 
 Unsupported Device Types
@@ -2317,9 +2318,9 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 7         | 36.84%  |
-| Net/wireless          | 4         | 21.05%  |
-| Multimedia controller | 4         | 21.05%  |
-| Graphics card         | 3         | 15.79%  |
-| Chipcard              | 1         | 5.26%   |
+| Fingerprint reader    | 7         | 35%     |
+| Net/wireless          | 4         | 20%     |
+| Multimedia controller | 4         | 20%     |
+| Graphics card         | 4         | 20%     |
+| Chipcard              | 1         | 5%      |
 

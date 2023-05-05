@@ -1693,7 +1693,7 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Unknown LCD Monitor ENV LCD2460 1920x1080                             | 1        | 1.85%   |
-| Sceptre Tech E24 SPT099D 1920x1080 409x230mm 18.5-inch                | 1        | 1.85%   |
+| Sceptre Tech E248W-19203S SPT099D 1920x1080 443x249mm 20.0-inch       | 1        | 1.85%   |
 | Sceptre LCD Monitor E24 1920x1080                                     | 1        | 1.85%   |
 | Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch  | 1        | 1.85%   |
 | Samsung Electronics SA300/SA350 SAM07D2 1920x1080 477x268mm 21.5-inch | 1        | 1.85%   |
@@ -1706,9 +1706,9 @@ Monitor models
 | Philips PHL 271V8 PHLC213 1920x1080 598x336mm 27.0-inch               | 1        | 1.85%   |
 | Philips LCD Monitor 227E4LH 1920x1080                                 | 1        | 1.85%   |
 | Philips 220CW PHLC024 1680x1050 474x296mm 22.0-inch                   | 1        | 1.85%   |
-| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                   | 1        | 1.85%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1        | 1.85%   |
-| Lenovo LEN-510I-C LEN1201 1920x1080 476x268mm 21.5-inch               | 1        | 1.85%   |
+| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                  | 1        | 1.85%   |
+| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                    | 1        | 1.85%   |
+| Lenovo LEN-24ICB-B LEN1201 1920x1080 527x296mm 23.8-inch              | 1        | 1.85%   |
 | Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                 | 1        | 1.85%   |
 | Iiyama PL2530H IVM6132 1920x1080 544x303mm 24.5-inch                  | 1        | 1.85%   |
 | Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                 | 1        | 1.85%   |
@@ -1925,9 +1925,9 @@ Controller models
 | Ralink MT7601U Wireless Adapter                                         | 1        | 1.41%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                           | 1        | 1.41%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 1.41%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:D902E15D                              | 1        | 1.41%   |
+| OnePlus (Shenzhen) OnePlus                                              | 1        | 1.41%   |
 | Nvidia MCP61 Ethernet                                                   | 1        | 1.41%   |
-| MediaTek U318AA                                                         | 1        | 1.41%   |
+| MediaTek PRESIDENT_GOLD_10                                              | 1        | 1.41%   |
 | Intel Wireless 7265                                                     | 1        | 1.41%   |
 | Intel Tiger Lake PCH CNVi WiFi                                          | 1        | 1.41%   |
 | Intel Ethernet Connection I218-V                                        | 1        | 1.41%   |
@@ -2024,7 +2024,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.92%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.92%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.92%   |
-| MediaTek U318AA                                                   | 1        | 1.92%   |
+| MediaTek PRESIDENT_GOLD_10                                        | 1        | 1.92%   |
 | Intel Ethernet Connection I218-V                                  | 1        | 1.92%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 1        | 1.92%   |
 | Broadcom NetXtreme BCM5780 Gigabit Ethernet                       | 1        | 1.92%   |
@@ -2241,7 +2241,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR4 3200MT/s                | 1        | 2.94%   |
 | Unknown RAM Module 4GB DIMM 1333MT/s                     | 1        | 2.94%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 2.94%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 2.94%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s  | 1        | 2.94%   |
 | Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.94%   |
 | Samsung RAM M378B2873EH1-CF8 1GB DIMM DDR3 1067MT/s      | 1        | 2.94%   |
 | Patriot RAM PSD48G24002 8GB DIMM DDR4 2400MT/s           | 1        | 2.94%   |
@@ -2251,10 +2251,10 @@ Memory module models
 | Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s      | 1        | 2.94%   |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.94%   |
 | Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 2.94%   |
-| Kingston RAM 9905701-017.A00G 16384MB DIMM DDR4 2666MT/s | 1        | 2.94%   |
+| Kingston RAM 9905701-017.A00G 16GB DIMM DDR4 2667MT/s    | 1        | 2.94%   |
 | G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s    | 1        | 2.94%   |
 | G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s     | 1        | 2.94%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s      | 1        | 2.94%   |
+| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s   | 1        | 2.94%   |
 | G.Skill RAM F4-2800C17-8GIS 8192MB DIMM DDR4 2800MT/s    | 1        | 2.94%   |
 | G.Skill RAM F4-2666C18-4GRS 4GB SODIMM DDR4 2400MT/s     | 1        | 2.94%   |
 | G.Skill RAM F3-10666CL7-2GBRH 2048MB DIMM DDR3 1333MT/s  | 1        | 2.94%   |
@@ -2336,7 +2336,7 @@ Memory module speed
 | 3333  | 1        | 2.94%   |
 | 2933  | 1        | 2.94%   |
 | 2800  | 1        | 2.94%   |
-| 2666  | 1        | 2.94%   |
+| 2667  | 1        | 2.94%   |
 | 1867  | 1        | 2.94%   |
 | 1067  | 1        | 2.94%   |
 
@@ -2400,20 +2400,20 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                             | Desktops | Percent |
-|---------------------------------------------------|----------|---------|
-| Logitech Webcam C270                              | 3        | 21.43%  |
-| Realtek FULL HD 1080P Webcam                      | 1        | 7.14%   |
-| Microsoft LifeCam HD-3000                         | 1        | 7.14%   |
-| Microdia USB 2.0 Camera                           | 1        | 7.14%   |
-| Microdia Camera                                   | 1        | 7.14%   |
-| MacroSilicon USB Video                            | 1        | 7.14%   |
-| MacroSilicon MS210x Video Grabber [EasierCAP]     | 1        | 7.14%   |
-| Logitech Webcam C930e                             | 1        | 7.14%   |
-| Logitech HD Webcam C615                           | 1        | 7.14%   |
-| Logitech C922 Pro Stream Webcam                   | 1        | 7.14%   |
-| GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311] | 1        | 7.14%   |
-| Chicony HP 720p HD Monitor Webcam                 | 1        | 7.14%   |
+| Model                                         | Desktops | Percent |
+|-----------------------------------------------|----------|---------|
+| Logitech Webcam C270                          | 3        | 21.43%  |
+| Realtek FULL HD 1080P Webcam                  | 1        | 7.14%   |
+| Microsoft LifeCam HD-3000                     | 1        | 7.14%   |
+| Microdia USB 2.0 Camera                       | 1        | 7.14%   |
+| Microdia Camera                               | 1        | 7.14%   |
+| MacroSilicon USB Video                        | 1        | 7.14%   |
+| MacroSilicon MS210x Video Grabber [EasierCAP] | 1        | 7.14%   |
+| Logitech Webcam C930e                         | 1        | 7.14%   |
+| Logitech HD Webcam C615                       | 1        | 7.14%   |
+| Logitech C922 Pro Stream Webcam               | 1        | 7.14%   |
+| GEMBIRD USB2.0 PC CAMERA                      | 1        | 7.14%   |
+| Chicony HP 720p HD Monitor Webcam             | 1        | 7.14%   |
 
 Security
 --------

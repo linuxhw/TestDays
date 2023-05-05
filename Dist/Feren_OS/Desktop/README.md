@@ -919,9 +919,9 @@ Hard drive models
 | WDC WD10EZEX-00WN4A0 1TB         | 1        | 1.39%   |
 | WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.39%   |
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.39%   |
-| WDC WD Blue SA510 2.5 500GB SSD  | 1        | 1.39%   |
+| WDC WD Blue SA510 2.5 500GB      | 1        | 1.39%   |
 | Verbatim Vi550 S3 SSD 128GB      | 1        | 1.39%   |
-| Unknown SD/MMC/MS PRO 64GB       | 1        | 1.39%   |
+| Unknown SD/MMC/MS PRO 249GB      | 1        | 1.39%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.39%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.39%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.39%   |
@@ -1592,7 +1592,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Vestel LCD Monitor 32W_LCD_TV 1920x1080                               | 1        | 2.44%   |
 | Unknown LCD Monitor SAMSUNG                                           | 1        | 2.44%   |
-| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                | 1        | 2.44%   |
+| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                | 1        | 2.44%   |
 | Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1        | 2.44%   |
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1        | 2.44%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1        | 2.44%   |
@@ -1603,7 +1603,7 @@ Monitor models
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 2.44%   |
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch     | 1        | 2.44%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.44%   |
-| Ruijiang RJT HDMI RJT1200 1920x1200 320x180mm 14.5-inch               | 1        | 2.44%   |
+| Ruijiang RJT HDMI RJT1200 1920x1080 320x180mm 14.5-inch               | 1        | 2.44%   |
 | Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch              | 1        | 2.44%   |
 | Onkyo TX-NR535 ONK0E51 2560x1440 597x336mm 27.0-inch                  | 1        | 2.44%   |
 | Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1        | 2.44%   |
@@ -2091,8 +2091,8 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.43%   |
 | Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.43%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.43%   |
-| C-Media Electronics USB PnP Audio Device                                                        | 1        | 1.43%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.43%   |
+| C-Media Electronics BIRD UM1                                                                    | 1        | 1.43%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.43%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.43%   |
 | AMD Starship/Matisse HD Audio Controller                                                        | 1        | 1.43%   |
@@ -2299,18 +2299,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Z-Star Integrated Camera                 | 1        | 10%     |
-| Novatek DEMO1                            | 1        | 10%     |
-| Microsoft LifeCam VX-5000                | 1        | 10%     |
-| Microsoft LifeCam VX-500 [1357]          | 1        | 10%     |
-| Logitech Webcam C270                     | 1        | 10%     |
-| Logitech QuickCam Communicate MP/S5500   | 1        | 10%     |
-| Huawei UVC Camera                        | 1        | 10%     |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
-| Cubeternet GL-UPC822 UVC WebCam          | 1        | 10%     |
-| ARC International Camera                 | 1        | 10%     |
+| Model                                  | Desktops | Percent |
+|----------------------------------------|----------|---------|
+| Z-Star Integrated Camera               | 1        | 10%     |
+| Novatek DEMO1                          | 1        | 10%     |
+| Microsoft LifeCam VX-5000              | 1        | 10%     |
+| Microsoft LifeCam VX-500 [1357]        | 1        | 10%     |
+| Logitech Webcam C270                   | 1        | 10%     |
+| Logitech QuickCam Communicate MP/S5500 | 1        | 10%     |
+| Huawei HiCamera                        | 1        | 10%     |
+| Generalplus 808 Camera                 | 1        | 10%     |
+| Cubeternet GL-UPC822 UVC WebCam        | 1        | 10%     |
+| ARC International Camera               | 1        | 10%     |
 
 Security
 --------
@@ -2340,7 +2340,7 @@ Chipcard module vendors
 | Vendor            | Desktops | Percent |
 |-------------------|----------|---------|
 | Mako Technologies | 1        | 50%     |
-| BIT4ID            | 1        | 50%     |
+| Bit4id            | 1        | 50%     |
 
 Chipcard Model
 --------------
@@ -2353,7 +2353,7 @@ Chipcard module models
 | Model                         | Desktops | Percent |
 |-------------------------------|----------|---------|
 | Mako Technologies SZZCS-ZCS80 | 1        | 50%     |
-| BIT4ID miniLector EVO         | 1        | 50%     |
+| Bit4id miniLector EVO         | 1        | 50%     |
 
 Unsupported
 -----------
@@ -2368,8 +2368,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 33       | 84.62%  |
-| 1     | 5        | 12.82%  |
+| 0     | 34       | 87.18%  |
+| 1     | 4        | 10.26%  |
 | 2     | 1        | 2.56%   |
 
 Unsupported Device Types
@@ -2382,9 +2382,9 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Net/wireless  | 2        | 28.57%  |
-| Graphics card | 2        | 28.57%  |
-| Sound         | 1        | 14.29%  |
-| Chipcard      | 1        | 14.29%  |
-| Bluetooth     | 1        | 14.29%  |
+| Net/wireless  | 2        | 33.33%  |
+| Sound         | 1        | 16.67%  |
+| Graphics card | 1        | 16.67%  |
+| Chipcard      | 1        | 16.67%  |
+| Bluetooth     | 1        | 16.67%  |
 

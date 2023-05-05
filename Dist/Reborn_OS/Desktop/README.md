@@ -1071,15 +1071,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 25       | 32     | 41.67%  |
-| Seagate             | 18       | 24     | 30%     |
-| Hitachi             | 6        | 6      | 10%     |
-| Toshiba             | 5        | 5      | 8.33%   |
-| Samsung Electronics | 2        | 2      | 3.33%   |
-| Unknown             | 1        | 1      | 1.67%   |
-| JMicron Technology  | 1        | 1      | 1.67%   |
-| HGST                | 1        | 1      | 1.67%   |
-| ASMT                | 1        | 1      | 1.67%   |
+| WDC                 | 25       | 32     | 42.37%  |
+| Seagate             | 18       | 24     | 30.51%  |
+| Hitachi             | 6        | 6      | 10.17%  |
+| Toshiba             | 5        | 5      | 8.47%   |
+| Samsung Electronics | 2        | 2      | 3.39%   |
+| Unknown             | 1        | 1      | 1.69%   |
+| JMicron Technology  | 1        | 1      | 1.69%   |
+| HGST                | 1        | 1      | 1.69%   |
 
 SSD Vendor
 ----------
@@ -1091,23 +1090,24 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 13     | 34.21%  |
-| Kingston            | 4        | 4      | 10.53%  |
-| Crucial             | 4        | 5      | 10.53%  |
-| ZOTAC               | 2        | 2      | 5.26%   |
-| SanDisk             | 2        | 3      | 5.26%   |
-| PNY                 | 2        | 2      | 5.26%   |
-| WDC                 | 1        | 1      | 2.63%   |
-| Toshiba             | 1        | 1      | 2.63%   |
-| Patriot             | 1        | 1      | 2.63%   |
-| OCZ                 | 1        | 2      | 2.63%   |
-| KingSpec            | 1        | 1      | 2.63%   |
-| Hewlett-Packard     | 1        | 2      | 2.63%   |
-| Gigabyte Technology | 1        | 2      | 2.63%   |
-| Emtec               | 1        | 1      | 2.63%   |
-| Drevo               | 1        | 1      | 2.63%   |
-| AMD                 | 1        | 1      | 2.63%   |
-| A-DATA Technology   | 1        | 1      | 2.63%   |
+| Samsung Electronics | 13       | 13     | 33.33%  |
+| Kingston            | 4        | 4      | 10.26%  |
+| Crucial             | 4        | 5      | 10.26%  |
+| ZOTAC               | 2        | 2      | 5.13%   |
+| SanDisk             | 2        | 3      | 5.13%   |
+| PNY                 | 2        | 2      | 5.13%   |
+| WDC                 | 1        | 1      | 2.56%   |
+| Toshiba             | 1        | 1      | 2.56%   |
+| Patriot             | 1        | 1      | 2.56%   |
+| OCZ                 | 1        | 2      | 2.56%   |
+| KingSpec            | 1        | 1      | 2.56%   |
+| Hewlett-Packard     | 1        | 2      | 2.56%   |
+| Gigabyte Technology | 1        | 2      | 2.56%   |
+| Emtec               | 1        | 1      | 2.56%   |
+| Drevo               | 1        | 1      | 2.56%   |
+| ASMT                | 1        | 1      | 2.56%   |
+| AMD                 | 1        | 1      | 2.56%   |
+| A-DATA Technology   | 1        | 1      | 2.56%   |
 
 Drive Kind
 ----------
@@ -1119,10 +1119,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 43       | 73     | 44.79%  |
-| SSD     | 30       | 43     | 31.25%  |
-| NVMe    | 21       | 30     | 21.88%  |
-| Unknown | 2        | 2      | 2.08%   |
+| HDD     | 42       | 72     | 44.21%  |
+| SSD     | 30       | 44     | 31.58%  |
+| NVMe    | 21       | 30     | 22.11%  |
+| Unknown | 2        | 2      | 2.11%   |
 
 Drive Connector
 ---------------
@@ -1148,12 +1148,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 41       | 63     | 48.81%  |
-| 0.51-1.0   | 29       | 35     | 34.52%  |
-| 1.01-2.0   | 6        | 8      | 7.14%   |
-| 2.01-3.0   | 4        | 5      | 4.76%   |
-| 4.01-10.0  | 3        | 4      | 3.57%   |
-| 3.01-4.0   | 1        | 1      | 1.19%   |
+| 0.01-0.5   | 41       | 62     | 48.24%  |
+| 0.51-1.0   | 29       | 35     | 34.12%  |
+| 1.01-2.0   | 7        | 9      | 8.24%   |
+| 2.01-3.0   | 4        | 5      | 4.71%   |
+| 4.01-10.0  | 3        | 4      | 3.53%   |
+| 3.01-4.0   | 1        | 1      | 1.18%   |
 
 Space Total
 -----------
@@ -1734,7 +1734,7 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch | 2        | 2.6%    |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 2        | 2.6%    |
+| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                    | 2        | 2.6%    |
 | Vizio D43-D2 VIZ1004 1920x1080 477x268mm 21.5-inch                    | 1        | 1.3%    |
 | Vestel LCD Monitor 32W_LCD_TV                                         | 1        | 1.3%    |
 | Unknown LCD Monitor DAC Moniter 5760x1080                             | 1        | 1.3%    |
@@ -1747,7 +1747,7 @@ Monitor models
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 1.3%    |
 | Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch     | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor SAM0DF7 3840x2160 890x500mm 40.2-inch | 1        | 1.3%    |
-| Samsung Electronics LCD Monitor SAM094E 1920x1080 890x500mm 40.2-inch | 1        | 1.3%    |
+| Samsung Electronics LCD Monitor SAM094E 1920x1080 700x390mm 31.5-inch | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor SAM07BA 1920x1080                     | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor SAM0297 1360x768 885x498mm 40.0-inch  | 1        | 1.3%    |
 | Samsung Electronics LCD Monitor S24D300 1920x1080                     | 1        | 1.3%    |
@@ -1991,7 +1991,7 @@ Controller models
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 0.99%   |
 | Nvidia MCP61 Ethernet                                                   | 1        | 0.99%   |
 | NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter    | 1        | 0.99%   |
-| Microsoft XBOX ACC                                                      | 1        | 0.99%   |
+| Microsoft Xbox Wireless Adapter for Windows                             | 1        | 0.99%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 0.99%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                 | 1        | 0.99%   |
 | Intel Wireless 8265 / 8275                                              | 1        | 0.99%   |
@@ -2049,7 +2049,7 @@ Wireless models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                        | 1        | 2.86%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)          | 1        | 2.86%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 2.86%   |
-| Microsoft XBOX ACC                                                      | 1        | 2.86%   |
+| Microsoft Xbox Wireless Adapter for Windows                             | 1        | 2.86%   |
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 2.86%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                 | 1        | 2.86%   |
 | Intel Wireless 8265 / 8275                                              | 1        | 2.86%   |
@@ -2331,14 +2331,14 @@ Memory module models
 | Kingston RAM Module 8GB DIMM DDR4 2667MT/s                  | 1        | 5%      |
 | Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s           | 1        | 5%      |
 | Kingston RAM HX426C16FB2/8 8GB DIMM DDR4 2667MT/s           | 1        | 5%      |
-| Kingston RAM 99P5471-002.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 5%      |
+| Kingston RAM 99P5471-002.A00LF 2GB DIMM DDR3 1600MT/s       | 1        | 5%      |
 | Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s       | 1        | 5%      |
 | Kingston RAM 99P5471-001.A00LF 2GB DIMM DDR3 1333MT/s       | 1        | 5%      |
 | Kingston RAM 9905584-023.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 5%      |
 | G.Skill RAM F4-3600C16-8GVKC 8GB DIMM DDR4 3600MT/s         | 1        | 5%      |
 | Crucial RAM BLT4G3D1869DT 4096MB DIMM DDR3 1333MT/s         | 1        | 5%      |
 | Crucial RAM BL16G36C16U4W.M16FE1 16384MB DIMM DDR4 3733MT/s | 1        | 5%      |
-| Corsair RAM CMT32GX5M2X6200C36 16GB DIMM DDR5 4800MT/s      | 1        | 5%      |
+| Corsair RAM CMT32GX5M2X6200C36 16GB DIMM DDR5 6400MT/s      | 1        | 5%      |
 | Corsair RAM CMK64GX4M2D3000C16 32GB DIMM DDR4 3000MT/s      | 1        | 5%      |
 
 Memory Kind
@@ -2400,7 +2400,7 @@ Memory module speed
 | 1600  | 3        | 17.65%  |
 | 2400  | 2        | 11.76%  |
 | 1333  | 2        | 11.76%  |
-| 4800  | 1        | 5.88%   |
+| 6400  | 1        | 5.88%   |
 | 3733  | 1        | 5.88%   |
 | 3600  | 1        | 5.88%   |
 | 3500  | 1        | 5.88%   |
@@ -2433,13 +2433,13 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                     | Desktops | Percent |
-|---------------------------|----------|---------|
-| Seiko Epson L120 Series   | 1        | 20%     |
-| HP LaserJet 1300          | 1        | 20%     |
-| HP DeskJet 3830 series    | 1        | 20%     |
-| HP DeskJet 2600 series    | 1        | 20%     |
-| Canon PIXMA MG2500 Series | 1        | 20%     |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Seiko Epson L120 Series            | 1        | 20%     |
+| HP LaserJet 1300                   | 1        | 20%     |
+| HP DeskJet 3830 series             | 1        | 20%     |
+| HP DeskJet 2620 All-in-One Printer | 1        | 20%     |
+| Canon PIXMA MG2500 Series          | 1        | 20%     |
 
 Scanner Vendor
 --------------
@@ -2485,17 +2485,17 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920              | 2        | 20%     |
-| Samsung Galaxy A5 (MTP)                  | 1        | 10%     |
-| Microdia USB 2.0 Camera                  | 1        | 10%     |
-| Logitech C922 Pro Stream Webcam          | 1        | 10%     |
-| KYE Systems (Mouse Systems) Slim 1322AF  | 1        | 10%     |
-| IMC Networks XHC Camera                  | 1        | 10%     |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
-| GEMBIRD USB2.0 PC CAMERA                 | 1        | 10%     |
-| Alcor Micro USB 2.0 PC Camera            | 1        | 10%     |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920             | 2        | 20%     |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 10%     |
+| Microdia USB 2.0 Camera                 | 1        | 10%     |
+| Logitech C922 Pro Stream Webcam         | 1        | 10%     |
+| KYE Systems (Mouse Systems) Slim 1322AF | 1        | 10%     |
+| IMC Networks XHC Camera                 | 1        | 10%     |
+| Generalplus 808 Camera                  | 1        | 10%     |
+| GEMBIRD USB2.0 PC CAMERA                | 1        | 10%     |
+| Alcor Micro USB 2.0 PC Camera           | 1        | 10%     |
 
 Security
 --------

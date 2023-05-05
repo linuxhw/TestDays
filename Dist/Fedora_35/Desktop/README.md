@@ -1869,16 +1869,16 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 172      | 308    | 41.05%  |
-| WDC                 | 154      | 296    | 36.75%  |
-| Toshiba             | 40       | 51     | 9.55%   |
-| Hitachi             | 22       | 31     | 5.25%   |
-| Samsung Electronics | 12       | 16     | 2.86%   |
-| HGST                | 6        | 12     | 1.43%   |
-| Maxtor              | 5        | 5      | 1.19%   |
-| SABRENT             | 3        | 3      | 0.72%   |
+| Seagate             | 172      | 308    | 41.25%  |
+| WDC                 | 154      | 296    | 36.93%  |
+| Toshiba             | 40       | 51     | 9.59%   |
+| Hitachi             | 22       | 31     | 5.28%   |
+| Samsung Electronics | 12       | 16     | 2.88%   |
+| HGST                | 6        | 12     | 1.44%   |
+| Maxtor              | 5        | 5      | 1.2%    |
 | USB 3.0             | 1        | 2      | 0.24%   |
 | MaxDigital          | 1        | 1      | 0.24%   |
+| JMicron Technology  | 1        | 1      | 0.24%   |
 | Hewlett-Packard     | 1        | 1      | 0.24%   |
 | Fujitsu             | 1        | 1      | 0.24%   |
 | ASMT                | 1        | 1      | 0.24%   |
@@ -1893,17 +1893,17 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 121      | 194    | 28.47%  |
-| Kingston            | 60       | 73     | 14.12%  |
-| Crucial             | 56       | 76     | 13.18%  |
-| WDC                 | 36       | 45     | 8.47%   |
-| SanDisk             | 29       | 34     | 6.82%   |
-| A-DATA Technology   | 20       | 25     | 4.71%   |
+| Samsung Electronics | 121      | 194    | 28.54%  |
+| Kingston            | 60       | 73     | 14.15%  |
+| Crucial             | 56       | 76     | 13.21%  |
+| WDC                 | 36       | 45     | 8.49%   |
+| SanDisk             | 29       | 34     | 6.84%   |
+| A-DATA Technology   | 20       | 25     | 4.72%   |
 | Intel               | 11       | 15     | 2.59%   |
-| SPCC                | 10       | 14     | 2.35%   |
+| SPCC                | 10       | 14     | 2.36%   |
 | Toshiba             | 7        | 9      | 1.65%   |
 | Patriot             | 7        | 9      | 1.65%   |
-| PNY                 | 6        | 7      | 1.41%   |
+| PNY                 | 6        | 7      | 1.42%   |
 | OCZ                 | 4        | 4      | 0.94%   |
 | GOODRAM             | 4        | 4      | 0.94%   |
 | Corsair             | 4        | 6      | 0.94%   |
@@ -1944,10 +1944,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 342      | 580    | 36.66%  |
-| HDD     | 341      | 728    | 36.55%  |
-| NVMe    | 228      | 373    | 24.44%  |
-| Unknown | 17       | 24     | 1.82%   |
+| SSD     | 342      | 579    | 36.73%  |
+| HDD     | 339      | 726    | 36.41%  |
+| NVMe    | 228      | 376    | 24.49%  |
+| Unknown | 17       | 24     | 1.83%   |
 | MMC     | 5        | 6      | 0.54%   |
 
 Drive Connector
@@ -1975,13 +1975,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 346      | 590    | 44.42%  |
-| 0.51-1.0   | 230      | 367    | 29.53%  |
-| 1.01-2.0   | 94       | 138    | 12.07%  |
-| 3.01-4.0   | 52       | 81     | 6.68%   |
-| 2.01-3.0   | 26       | 65     | 3.34%   |
-| 4.01-10.0  | 24       | 54     | 3.08%   |
-| 10.01-20.0 | 7        | 13     | 0.9%    |
+| 0.01-0.5   | 342      | 585    | 44.24%  |
+| 0.51-1.0   | 228      | 368    | 29.5%   |
+| 1.01-2.0   | 92       | 135    | 11.9%   |
+| 3.01-4.0   | 55       | 85     | 7.12%   |
+| 2.01-3.0   | 26       | 65     | 3.36%   |
+| 4.01-10.0  | 23       | 53     | 2.98%   |
+| 10.01-20.0 | 7        | 14     | 0.91%   |
 
 Space Total
 -----------
@@ -2749,10 +2749,10 @@ Monitor models
 | Dell P2415Q DELA0BE 3840x2160 527x296mm 23.8-inch                      | 3        | 0.47%   |
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                      | 3        | 0.47%   |
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                      | 3        | 0.47%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                        | 3        | 0.47%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                       | 3        | 0.47%   |
 | Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch  | 3        | 0.47%   |
 | Acer XF270HU ACR0549 2560x1440 597x336mm 27.0-inch                     | 3        | 0.47%   |
-| Vizio E241i-A1 VIZ1005 1920x1080 521x293mm 23.5-inch                   | 2        | 0.31%   |
+| Vizio E241i-B1 VIZ1005 1920x1080 521x293mm 23.5-inch                   | 2        | 0.31%   |
 | ViewSonic XG2401 SERIES VSCBB31 1920x1080 531x299mm 24.0-inch          | 2        | 0.31%   |
 | Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 2        | 0.31%   |
 | Samsung Electronics U28D590 SAM0B80 3840x2160 607x345mm 27.5-inch      | 2        | 0.31%   |
@@ -2772,7 +2772,7 @@ Monitor models
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 2        | 0.31%   |
 | Philips PHL 223V7 PHLC154 1920x1080 480x270mm 21.7-inch                | 2        | 0.31%   |
 | Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                     | 2        | 0.31%   |
-| ONN 100002487 ONN0101 1920x1080 517x323mm 24.0-inch                    | 2        | 0.31%   |
+| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                   | 2        | 0.31%   |
 
 Monitor Resolution
 ------------------
@@ -3126,7 +3126,7 @@ Wireless models
 | Realtek 802.11ac NIC                                           | 3        | 1.05%   |
 | Ralink RT5372 Wireless Adapter                                 | 3        | 1.05%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 3        | 1.05%   |
-| Microsoft XBOX ACC                                             | 3        | 1.05%   |
+| Microsoft Xbox Wireless Adapter for Windows                    | 3        | 1.05%   |
 | Intel Wireless 7260                                            | 3        | 1.05%   |
 | Intel Tiger Lake PCH CNVi WiFi                                 | 3        | 1.05%   |
 | Wilocity Wil6200 802.11ad Wireless Network Adapter             | 2        | 0.7%    |
@@ -3339,9 +3339,9 @@ Controller models
 | ASUS Bluetooth Radio                                  | 6        | 2.33%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 4        | 1.56%   |
 | TP-Link UB500 Adapter                                 | 3        | 1.17%   |
+| Qualcomm Atheros  Bluetooth Device                    | 3        | 1.17%   |
 | ASUS ASUS USB-BT500                                   | 3        | 1.17%   |
 | Realtek  Bluetooth 4.2 Adapter                        | 2        | 0.78%   |
-| Qualcomm Atheros  Bluetooth Device                    | 2        | 0.78%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 2        | 0.78%   |
 | Intel Centrino Bluetooth Wireless Transceiver         | 2        | 0.78%   |
 | Intel Bluetooth Device                                | 2        | 0.78%   |
@@ -3350,7 +3350,6 @@ Controller models
 | ASUS BCM20702A0                                       | 2        | 0.78%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                  | 2        | 0.78%   |
 | Apple Bluetooth Host Controller                       | 2        | 0.78%   |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0                | 1        | 0.39%   |
 | Qualcomm Atheros Bluetooth USB Host Controller        | 1        | 0.39%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                 | 1        | 0.39%   |
 | Lite-On Bluetooth Device                              | 1        | 0.39%   |
@@ -3378,48 +3377,48 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart/snd_vendor.svg)
 
 
-| Vendor                  | Desktops | Percent |
-|-------------------------|----------|---------|
-| AMD                     | 291      | 28.56%  |
-| Intel                   | 272      | 26.69%  |
-| Nvidia                  | 220      | 21.59%  |
-| C-Media Electronics     | 28       | 2.75%   |
-| Logitech                | 16       | 1.57%   |
-| Creative Labs           | 14       | 1.37%   |
-| SteelSeries ApS         | 11       | 1.08%   |
-| JMTek                   | 10       | 0.98%   |
-| Texas Instruments       | 9        | 0.88%   |
-| Focusrite-Novation      | 9        | 0.88%   |
-| Corsair                 | 9        | 0.88%   |
-| Plantronics             | 8        | 0.79%   |
-| Kingston Technology     | 8        | 0.79%   |
-| Razer USA               | 7        | 0.69%   |
-| GN Netcom               | 6        | 0.59%   |
-| Blue Microphones        | 5        | 0.49%   |
-| Tenx Technology         | 4        | 0.39%   |
-| Sony                    | 4        | 0.39%   |
-| Realtek Semiconductor   | 4        | 0.39%   |
-| Generalplus Technology  | 4        | 0.39%   |
-| Creative Technology     | 4        | 0.39%   |
-| ASUSTek Computer        | 4        | 0.39%   |
-| SAVITECH                | 3        | 0.29%   |
-| Samson Technologies     | 3        | 0.29%   |
-| RODE Microphones        | 3        | 0.29%   |
-| Giga-Byte Technology    | 3        | 0.29%   |
-| DSEA A/S                | 3        | 0.29%   |
-| Apogee Electronics      | 3        | 0.29%   |
-| Yamaha                  | 2        | 0.2%    |
-| GYROCOM C&C             | 2        | 0.2%    |
-| Drop                    | 2        | 0.2%    |
-| Cambridge Silicon Radio | 2        | 0.2%    |
-| Audio-Technica          | 2        | 0.2%    |
-| Apple                   | 2        | 0.2%    |
-| XMOS                    | 1        | 0.1%    |
-| VIA Technologies        | 1        | 0.1%    |
-| Valve Software          | 1        | 0.1%    |
-| Unknown (ABC)           | 1        | 0.1%    |
-| Unknown                 | 1        | 0.1%    |
-| ULi Electronics         | 1        | 0.1%    |
+| Vendor                               | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| AMD                                  | 291      | 28.56%  |
+| Intel                                | 272      | 26.69%  |
+| Nvidia                               | 220      | 21.59%  |
+| C-Media Electronics                  | 28       | 2.75%   |
+| Logitech                             | 16       | 1.57%   |
+| Creative Labs                        | 14       | 1.37%   |
+| SteelSeries ApS                      | 11       | 1.08%   |
+| JMTek                                | 10       | 0.98%   |
+| Texas Instruments                    | 9        | 0.88%   |
+| Focusrite-Novation                   | 9        | 0.88%   |
+| Corsair                              | 9        | 0.88%   |
+| Plantronics                          | 8        | 0.79%   |
+| Kingston Technology                  | 8        | 0.79%   |
+| Razer USA                            | 7        | 0.69%   |
+| GN Netcom                            | 6        | 0.59%   |
+| Blue Microphones                     | 5        | 0.49%   |
+| Tenx Technology                      | 4        | 0.39%   |
+| Sony                                 | 4        | 0.39%   |
+| Realtek Semiconductor                | 4        | 0.39%   |
+| Generalplus Technology               | 4        | 0.39%   |
+| Creative Technology                  | 4        | 0.39%   |
+| ASUSTek Computer                     | 4        | 0.39%   |
+| SAVITECH                             | 3        | 0.29%   |
+| Samson Technologies                  | 3        | 0.29%   |
+| RODE Microphones                     | 3        | 0.29%   |
+| Giga-Byte Technology                 | 3        | 0.29%   |
+| DSEA A/S                             | 3        | 0.29%   |
+| Apogee Electronics                   | 3        | 0.29%   |
+| Yamaha                               | 2        | 0.2%    |
+| GYROCOM C&C                          | 2        | 0.2%    |
+| Drop                                 | 2        | 0.2%    |
+| Cambridge Silicon Radio              | 2        | 0.2%    |
+| Audio-Technica                       | 2        | 0.2%    |
+| Apple                                | 2        | 0.2%    |
+| XMOS                                 | 1        | 0.1%    |
+| VIA Technologies                     | 1        | 0.1%    |
+| Valve Software                       | 1        | 0.1%    |
+| Unknown                              | 1        | 0.1%    |
+| ULi Electronics                      | 1        | 0.1%    |
+| Thesycon Systemsoftware & Consulting | 1        | 0.1%    |
 
 Sound Model
 -----------
@@ -3522,15 +3521,15 @@ Memory module models
 
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3200MT/s      | 7        | 2.14%   |
+| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3200MT/s   | 7        | 2.14%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                  | 5        | 1.53%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s       | 5        | 1.53%   |
 | Corsair RAM CMK32GX4M2D3600C18 16GB DIMM DDR4 3800MT/s     | 5        | 1.53%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s        | 4        | 1.22%   |
+| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s     | 4        | 1.22%   |
 | Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s     | 4        | 1.22%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s      | 4        | 1.22%   |
 | Unknown                                                    | 4        | 1.22%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s       | 3        | 0.92%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s    | 3        | 0.92%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 3        | 0.92%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s        | 3        | 0.92%   |
 | Kingston RAM KF3600C16D4/16GX 16GB DIMM DDR4 3600MT/s      | 3        | 0.92%   |
@@ -3606,12 +3605,12 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 116      | 40.42%  |
-| 16384 | 68       | 23.69%  |
-| 4096  | 54       | 18.82%  |
-| 2048  | 28       | 9.76%   |
-| 32768 | 18       | 6.27%   |
-| 1024  | 3        | 1.05%   |
+| 8192  | 117      | 40.63%  |
+| 16384 | 68       | 23.61%  |
+| 4096  | 54       | 18.75%  |
+| 2048  | 28       | 9.72%   |
+| 32768 | 18       | 6.25%   |
+| 1024  | 3        | 1.04%   |
 
 Memory Speed
 ------------
@@ -3645,7 +3644,6 @@ Memory module speed
 | 1067    | 3        | 1.02%   |
 | 4800    | 2        | 0.68%   |
 | 3500    | 2        | 0.68%   |
-| 3266    | 2        | 0.68%   |
 | 2666    | 2        | 0.68%   |
 | 1866    | 2        | 0.68%   |
 | 667     | 2        | 0.68%   |
@@ -3654,7 +3652,9 @@ Memory module speed
 | 5200    | 1        | 0.34%   |
 | 4040    | 1        | 0.34%   |
 | 4000    | 1        | 0.34%   |
+| 3933    | 1        | 0.34%   |
 | 3534    | 1        | 0.34%   |
+| 3266    | 1        | 0.34%   |
 | 2802    | 1        | 0.34%   |
 | 2187    | 1        | 0.34%   |
 | 1648    | 1        | 0.34%   |
@@ -3812,13 +3812,13 @@ Camera device models
 | Microdia Webcam Vitade AF                     | 4        | 2.94%   |
 | Logitech StreamCam                            | 4        | 2.94%   |
 | Logitech C922 Pro Stream Webcam               | 4        | 2.94%   |
-| Generalplus GENERAL WEBCAM                    | 4        | 2.94%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X               | 4        | 2.94%   |
 | Logitech Webcam Pro 9000                      | 3        | 2.21%   |
 | Logitech HD Webcam C615                       | 3        | 2.21%   |
 | Logitech C920 PRO HD Webcam                   | 3        | 2.21%   |
 | Jieli USB PHY 2.0                             | 3        | 2.21%   |
-| Samsung Galaxy A5 (MTP)                       | 2        | 1.47%   |
+| Generalplus GENERAL WEBCAM                    | 3        | 2.21%   |
+| Samsung Galaxy series, misc. (MTP mode)       | 2        | 1.47%   |
 | Microsoft LifeCam Cinema                      | 2        | 1.47%   |
 | Microdia USB 2.0 Camera                       | 2        | 1.47%   |
 | Logitech Webcam C310                          | 2        | 1.47%   |
@@ -3887,7 +3887,7 @@ Chipcard module models
 
 | Model                                          | Desktops | Percent |
 |------------------------------------------------|----------|---------|
-| Yubico.com Yubikey 4/5 U2F+CCID                | 2        | 40%     |
+| Yubico.com Yubikey 4 U2F+CCID                  | 2        | 40%     |
 | Yubico.com Yubikey 4/5 CCID                    | 1        | 20%     |
 | VASCO Data Security International DIGIPASS 870 | 1        | 20%     |
 | Clay Logic Nitrokey Pro                        | 1        | 20%     |
@@ -3905,8 +3905,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 475      | 87%     |
-| 1     | 60       | 10.99%  |
+| 0     | 476      | 87.18%  |
+| 1     | 59       | 10.81%  |
 | 2     | 7        | 1.28%   |
 | 3     | 3        | 0.55%   |
 | 5     | 1        | 0.18%   |
@@ -3921,15 +3921,15 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 24       | 32%     |
-| Net/wireless             | 19       | 25.33%  |
-| Unassigned class         | 9        | 12%     |
-| Communication controller | 7        | 9.33%   |
-| Camera                   | 5        | 6.67%   |
-| Sound                    | 4        | 5.33%   |
-| Modem                    | 3        | 4%      |
-| Storage/raid             | 1        | 1.33%   |
-| Storage/ata              | 1        | 1.33%   |
-| Firewire controller      | 1        | 1.33%   |
-| Bluetooth                | 1        | 1.33%   |
+| Graphics card            | 23       | 31.08%  |
+| Net/wireless             | 19       | 25.68%  |
+| Unassigned class         | 9        | 12.16%  |
+| Communication controller | 7        | 9.46%   |
+| Camera                   | 5        | 6.76%   |
+| Sound                    | 4        | 5.41%   |
+| Modem                    | 3        | 4.05%   |
+| Storage/raid             | 1        | 1.35%   |
+| Storage/ata              | 1        | 1.35%   |
+| Firewire controller      | 1        | 1.35%   |
+| Bluetooth                | 1        | 1.35%   |
 

@@ -947,7 +947,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.74%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.74%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.74%   |
-| Unknown SD/MMC/MS PRO 64GB           | 1        | 0.74%   |
+| Unknown SD/MMC/MS PRO 249GB          | 1        | 0.74%   |
 
 HDD Vendor
 ----------
@@ -1033,12 +1033,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 74     | 42.35%  |
-| 0.51-1.0   | 27       | 43     | 31.76%  |
-| 1.01-2.0   | 13       | 16     | 15.29%  |
-| 3.01-4.0   | 6        | 11     | 7.06%   |
-| 4.01-10.0  | 2        | 5      | 2.35%   |
-| 2.01-3.0   | 1        | 1      | 1.18%   |
+| 0.01-0.5   | 36       | 74     | 41.86%  |
+| 0.51-1.0   | 27       | 42     | 31.4%   |
+| 1.01-2.0   | 14       | 17     | 16.28%  |
+| 3.01-4.0   | 6        | 11     | 6.98%   |
+| 4.01-10.0  | 2        | 5      | 2.33%   |
+| 2.01-3.0   | 1        | 1      | 1.16%   |
 
 Space Total
 -----------
@@ -1642,7 +1642,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch   | 1        | 1.43%   |
 | Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch     | 1        | 1.43%   |
 | Samsung Electronics S22B300 SAM08A9 1600x900 443x249mm 20.0-inch      | 1        | 1.43%   |
-| Samsung Electronics LCD Monitor SAM7106 1920x1080 600x340mm 27.2-inch | 1        | 1.43%   |
+| Samsung Electronics LCD Monitor SAM7106 1920x1080 530x300mm 24.0-inch | 1        | 1.43%   |
 | Samsung Electronics LCD Monitor SAM0200 1280x720                      | 1        | 1.43%   |
 | Samsung Electronics LCD Monitor S22B150                               | 1        | 1.43%   |
 | Samsung Electronics LCD Monitor C49HG9x 3840x1080                     | 1        | 1.43%   |
@@ -1666,8 +1666,8 @@ Monitor models
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.43%   |
 | Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch         | 1        | 1.43%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.43%   |
-| Hewlett-Packard E233 HPN3460 1920x1080 510x290mm 23.1-inch            | 1        | 1.43%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 1.43%   |
+| Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch            | 1        | 1.43%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.43%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.43%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1        | 1.43%   |
 | Goldstar ULTRAGEAR GSM5BB1 1920x1080 527x296mm 23.8-inch              | 1        | 1.43%   |
@@ -2228,9 +2228,9 @@ Memory module models
 | Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s       | 1        | 3.13%   |
 | Kingston RAM KHX2666C13/16GX 16GB DIMM DDR4 3200MT/s      | 1        | 3.13%   |
 | Kingston RAM KHX2400C12D4/8GX 8GB DIMM DDR4 2400MT/s      | 1        | 3.13%   |
-| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3266MT/s     | 1        | 3.13%   |
+| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s     | 1        | 3.13%   |
 | Kingston RAM 9905712-034.A00G 16GB SODIMM DDR4 2400MT/s   | 1        | 3.13%   |
-| GOODRAM RAM GR1600D364L11S/4G 4GB DIMM DDR3 1600MT/s      | 1        | 3.13%   |
+| GOODRAM RAM GR1600D364L11S/4G 8GB DIMM DDR3 1600MT/s      | 1        | 3.13%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
 | Crucial RAM CT4G4DFS824A.M8FG 4GB DIMM DDR4 2400MT/s      | 1        | 3.13%   |
 | Crucial RAM CT16G4DFD824A.C16FBD 16GB DIMM DDR4 2933MT/s  | 1        | 3.13%   |
@@ -2277,11 +2277,11 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 9        | 34.62%  |
-| 4096  | 7        | 26.92%  |
-| 16384 | 5        | 19.23%  |
-| 32768 | 4        | 15.38%  |
-| 2048  | 1        | 3.85%   |
+| 8192  | 10       | 37.04%  |
+| 4096  | 7        | 25.93%  |
+| 16384 | 5        | 18.52%  |
+| 32768 | 4        | 14.81%  |
+| 2048  | 1        | 3.7%    |
 
 Memory Speed
 ------------
@@ -2296,11 +2296,12 @@ Memory module speed
 | 1600  | 6        | 22.22%  |
 | 2400  | 5        | 18.52%  |
 | 3600  | 3        | 11.11%  |
-| 3266  | 2        | 7.41%   |
 | 3200  | 2        | 7.41%   |
 | 2667  | 2        | 7.41%   |
 | 2133  | 2        | 7.41%   |
 | 1333  | 2        | 7.41%   |
+| 3933  | 1        | 3.7%    |
+| 3266  | 1        | 3.7%    |
 | 2933  | 1        | 3.7%    |
 | 2666  | 1        | 3.7%    |
 | 2472  | 1        | 3.7%    |
@@ -2333,8 +2334,8 @@ Printer device models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | HP LaserJet Professional P 1102w | 1        | 25%     |
+| Canon LiDE 300                   | 1        | 25%     |
 | Canon E560 series                | 1        | 25%     |
-| Canon CanoScan LiDE 300          | 1        | 25%     |
 | Brother DCP-1610W                | 1        | 25%     |
 
 Scanner Vendor
@@ -2385,7 +2386,7 @@ Camera device models
 |--------------------------------------------------|----------|---------|
 | Hopewin Electronic Material FULL HD 1080P Webcam | 3        | 25%     |
 | Generalplus GENERAL WEBCAM                       | 2        | 16.67%  |
-| Samsung Galaxy A5 (MTP)                          | 1        | 8.33%   |
+| Samsung Galaxy series, misc. (MTP mode)          | 1        | 8.33%   |
 | Ruision UVC Camera                               | 1        | 8.33%   |
 | Microsoft LifeCam HD-3000                        | 1        | 8.33%   |
 | Logitech Webcam C270                             | 1        | 8.33%   |

@@ -949,7 +949,7 @@ Hard drive models
 |-------------------------------------------------------|-----------|---------|
 | Kingston SA400S37240G 240GB SSD                       | 3         | 3.53%   |
 | Toshiba TR200 240GB SSD                               | 2         | 2.35%   |
-| StoreJet Transcend 256GB SSD                          | 2         | 2.35%   |
+| StoreJet Transcend 1024GB                             | 2         | 2.35%   |
 | Seagate BUP Slim 2TB                                  | 2         | 2.35%   |
 | WDC WD7500BPKX-00HPJT0 752GB                          | 1         | 1.18%   |
 | WDC WD5000BEVT-80A0RT0 500GB                          | 1         | 1.18%   |
@@ -980,11 +980,11 @@ Hard drive models
 | Seagate ST750LM022 HN-M750MBB 752GB                   | 1         | 1.18%   |
 | Seagate ST500LT012-1DG142 500GB                       | 1         | 1.18%   |
 | Seagate ST1000LM048-2E7172 1TB                        | 1         | 1.18%   |
-| Seagate ST1000LM035-1RK172 1TB                        | 1         | 1.18%   |
+| Seagate ST1000LM035-1RK172 970GB                      | 1         | 1.18%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                    | 1         | 1.18%   |
-| Seagate Expansion+ 2TB                                | 1         | 1.18%   |
+| Seagate Expansion 4TB                                 | 1         | 1.18%   |
 | Sandisk WDC PC SN730 SDB 512GB                        | 1         | 1.18%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 256GB | 1         | 1.18%   |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 500GB | 1         | 1.18%   |
 | SanDisk SD9SN8W256G1009 256GB SSD                     | 1         | 1.18%   |
 | SanDisk SD8SN8U-128G-1006 128GB SSD                   | 1         | 1.18%   |
 
@@ -1072,9 +1072,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 48        | 59     | 75%     |
+| 0.01-0.5   | 46        | 57     | 71.88%  |
 | 0.51-1.0   | 13        | 13     | 20.31%  |
-| 1.01-2.0   | 3         | 3      | 4.69%   |
+| 1.01-2.0   | 4         | 4      | 6.25%   |
+| 3.01-4.0   | 1         | 1      | 1.56%   |
 
 Space Total
 -----------
@@ -1130,7 +1131,7 @@ Drive models with a malfunction
 | Toshiba MK8032GSX 80GB                              | 1         | 1      | 5.56%   |
 | Smartbuy SSD 120GB                                  | 1         | 1      | 5.56%   |
 | SK hynix SC210 mSATA 256GB SSD                      | 1         | 1      | 5.56%   |
-| Seagate ST1000LM035-1RK172 1TB                      | 1         | 1      | 5.56%   |
+| Seagate ST1000LM035-1RK172 970GB                    | 1         | 1      | 5.56%   |
 | SanDisk SD9SN8W256G1009 256GB SSD                   | 1         | 1      | 5.56%   |
 | Micron Technology MTFDDAK256MAY-1AH1ZABHA 256GB SSD | 1         | 1      | 5.56%   |
 | Micron Technology 1100 SATA 256GB SSD               | 1         | 1      | 5.56%   |
@@ -1686,7 +1687,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC4C42 1280x800 303x190mm 14.1-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch  | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC3155 1366x768 293x165mm 13.2-inch  | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SDC414D 3456x2160 336x210mm 15.6-inch | 1         | 1.28%   |
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch               | 1         | 1.28%   |
@@ -1709,10 +1710,10 @@ Monitor models
 | LG Display LCD Monitor LGD0290 1366x768 293x165mm 13.2-inch           | 1         | 1.28%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch           | 1         | 1.28%   |
 | Lenovo T24i-10 LEN61A6 1920x1080 527x296mm 23.8-inch                  | 1         | 1.28%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch               | 1         | 1.28%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.28%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.28%   |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch               | 1         | 1.28%   |
-| Lenovo LCD Monitor LEN4000 1024x768 246x185mm 12.1-inch               | 1         | 1.28%   |
+| Lenovo LCD Monitor LEN4000 1024x768 246x184mm 12.1-inch               | 1         | 1.28%   |
 | Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch            | 1         | 1.28%   |
 | Goldstar W2252 GSM567E 1680x1050 474x296mm 22.0-inch                  | 1         | 1.28%   |
 | Goldstar L192WS GSM4B32 1440x900 410x256mm 19.0-inch                  | 1         | 1.28%   |
@@ -2071,7 +2072,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.49%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 1.49%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.49%   |
-| Huawei ANA-NX9                                                    | 1         | 1.49%   |
+| Huawei ATU-L21                                                    | 1         | 1.49%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.49%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.49%   |
 
@@ -2165,12 +2166,11 @@ Controller models
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 10        | 20%     |
-| Qualcomm Atheros  Bluetooth Device                                                  | 3         | 6%      |
+| Qualcomm Atheros  Bluetooth Device                                                  | 5         | 10%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 6%      |
 | Intel AX200 Bluetooth                                                               | 3         | 6%      |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 4%      |
 | Realtek Bluetooth Radio                                                             | 2         | 4%      |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 2         | 4%      |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 4%      |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 4%      |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 2         | 4%      |
@@ -2312,7 +2312,7 @@ Memory module models
 | SK hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 1.61%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
-| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s    | 1         | 1.61%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMCG78MEBSA095N 16GB SODIMM DDR5 4800MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s       | 1         | 1.61%   |
@@ -2321,13 +2321,13 @@ Memory module models
 | Samsung RAM Module 4096MB SODIMM DDR4 2667MT/s               | 1         | 1.61%   |
 | Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 1.61%   |
 | Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                | 1         | 1.61%   |
-| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s        | 1         | 1.61%   |
+| Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s     | 1         | 1.61%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s        | 1         | 1.61%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s        | 1         | 1.61%   |
 | Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s       | 1         | 1.61%   |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s       | 1         | 1.61%   |
-| Samsung RAM M471A1K44BM0-CTD 8192MB SODIMM DDR4 2667MT/s     | 1         | 1.61%   |
+| Samsung RAM M471A1K44BM0-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 1.61%   |
 | Samsung RAM K4E6E304EE-EGCE 4096MB SODIMM LPDDR3 1600MT/s    | 1         | 1.61%   |
 | Samsung RAM K4E6E304EB-EGCG 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.61%   |
 | Ramaxel RAM RMSA3260MB78HAF2400 8GB SODIMM DDR4 2400MT/s     | 1         | 1.61%   |
@@ -2470,10 +2470,10 @@ Camera device vendors
 | Realtek Semiconductor                  | 4         | 7.41%   |
 | Quanta                                 | 4         | 7.41%   |
 | Suyin                                  | 3         | 5.56%   |
-| Acer                                   | 3         | 5.56%   |
 | Ricoh                                  | 2         | 3.7%    |
 | Logitech                               | 2         | 3.7%    |
 | Lite-On Technology                     | 2         | 3.7%    |
+| Bison Electronics                      | 2         | 3.7%    |
 | Apple                                  | 2         | 3.7%    |
 | Syntek                                 | 1         | 1.85%   |
 | Silicon Motion                         | 1         | 1.85%   |
@@ -2482,6 +2482,7 @@ Camera device vendors
 | Generalplus Technology                 | 1         | 1.85%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.85%   |
 | Alcor Micro                            | 1         | 1.85%   |
+| Acer                                   | 1         | 1.85%   |
 
 Camera Model
 ------------
@@ -2503,13 +2504,13 @@ Camera device models
 | Sunplus Integrated Webcam                     | 1         | 1.85%   |
 | Sunplus 1.3M HD WebCam                        | 1         | 1.85%   |
 | Silicon Motion WebCam SC-10HDD12636N          | 1         | 1.85%   |
-| Samsung Galaxy A5 (MTP)                       | 1         | 1.85%   |
+| Samsung Galaxy series, misc. (MTP mode)       | 1         | 1.85%   |
 | Ricoh Laptop_Integrated_Webcam_FHD            | 1         | 1.85%   |
 | Ricoh HD Webcam                               | 1         | 1.85%   |
 | Realtek USB2.0 VGA UVC WebCam                 | 1         | 1.85%   |
 | Realtek USB2.0 HD UVC WebCam                  | 1         | 1.85%   |
 | Realtek Lenovo EasyCamera                     | 1         | 1.85%   |
-| Realtek Integrated_Webcam_HD                  | 1         | 1.85%   |
+| Realtek Integrated Webcam HD                  | 1         | 1.85%   |
 | Quanta USB HD Webcam                          | 1         | 1.85%   |
 | Quanta Laptop_Integrated_Webcam_2HDM          | 1         | 1.85%   |
 | Quanta HP Webcam                              | 1         | 1.85%   |
@@ -2523,7 +2524,7 @@ Camera device models
 | Lite-On HP HD Camera                          | 1         | 1.85%   |
 | IMC Networks USB2.0 HD UVC WebCam             | 1         | 1.85%   |
 | IMC Networks HD Camera                        | 1         | 1.85%   |
-| Generalplus 808 Camera #9 (web-cam mode)      | 1         | 1.85%   |
+| Generalplus 808 Camera                        | 1         | 1.85%   |
 | Chicony USB2.0 Camera                         | 1         | 1.85%   |
 | Chicony TOSHIBA Web Camera - HD               | 1         | 1.85%   |
 | Chicony Lenovo Integrated Camera (0.3MP)      | 1         | 1.85%   |
