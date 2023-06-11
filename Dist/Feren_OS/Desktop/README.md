@@ -818,6 +818,7 @@ Geographic location (city)
 | Wrexham        | 1        | 2.44%   |
 | Winterthur     | 1        | 2.44%   |
 | Tegucigalpa    | 1        | 2.44%   |
+| Sterling       | 1        | 2.44%   |
 | Stavanger      | 1        | 2.44%   |
 | Sligo          | 1        | 2.44%   |
 | Seattle        | 1        | 2.44%   |
@@ -851,7 +852,6 @@ Geographic location (city)
 | Baltimore      | 1        | 2.44%   |
 | Bakersfield    | 1        | 2.44%   |
 | Amman          | 1        | 2.44%   |
-| Akron          | 1        | 2.44%   |
 
 Drives
 ------
@@ -921,7 +921,7 @@ Hard drive models
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.39%   |
 | WDC WD Blue SA510 2.5 500GB      | 1        | 1.39%   |
 | Verbatim Vi550 S3 SSD 128GB      | 1        | 1.39%   |
-| Unknown SD/MMC/MS PRO 249GB      | 1        | 1.39%   |
+| Unknown SD/MMC/MS PRO 64GB       | 1        | 1.39%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.39%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.39%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.39%   |
@@ -1605,10 +1605,10 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.44%   |
 | Ruijiang RJT HDMI RJT1200 1920x1080 320x180mm 14.5-inch               | 1        | 2.44%   |
 | Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch              | 1        | 2.44%   |
-| Onkyo TX-NR535 ONK0E51 2560x1440 597x336mm 27.0-inch                  | 1        | 2.44%   |
+| Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                  | 1        | 2.44%   |
 | Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1        | 2.44%   |
 | LG Electronics LCD Monitor MP59HT 1920x1080                           | 1        | 2.44%   |
-| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.44%   |
+| Lenovo LEN L171 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.44%   |
 | Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                  | 1        | 2.44%   |
 | Lenovo H61 LEN520B 1600x900 410x230mm 18.5-inch                       | 1        | 2.44%   |
 | Lenovo Group Limited LCD Monitor L24q-10 2560x1440                    | 1        | 2.44%   |
@@ -2089,10 +2089,10 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                             | 1        | 1.43%   |
 | Intel 82801G (ICH7 Family) AC'97 Audio Controller                                               | 1        | 1.43%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.43%   |
-| Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.43%   |
+| Hewlett-Packard Speaker Bar                                                                     | 1        | 1.43%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.43%   |
+| C-Media Electronics TONOR TC30 Audio Device                                                     | 1        | 1.43%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.43%   |
-| C-Media Electronics BIRD UM1                                                                    | 1        | 1.43%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.43%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.43%   |
 | AMD Starship/Matisse HD Audio Controller                                                        | 1        | 1.43%   |
@@ -2144,7 +2144,7 @@ Memory module models
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
 | Crucial RAM CT8G4DFD8213.C16FBR2 8GB DIMM DDR4 2133MT/s        | 1        | 8.33%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1        | 8.33%   |
-| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3000MT/s                   | 1        | 8.33%   |
+| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3600MT/s                   | 1        | 8.33%   |
 
 Memory Kind
 -----------
@@ -2200,9 +2200,9 @@ Memory module speed
 | Speed | Desktops | Percent |
 |-------|----------|---------|
 | 1600  | 2        | 16.67%  |
+| 3600  | 1        | 8.33%   |
 | 3400  | 1        | 8.33%   |
 | 3200  | 1        | 8.33%   |
-| 3000  | 1        | 8.33%   |
 | 2666  | 1        | 8.33%   |
 | 2400  | 1        | 8.33%   |
 | 2133  | 1        | 8.33%   |
@@ -2299,18 +2299,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Z-Star Integrated Camera               | 1        | 10%     |
-| Novatek DEMO1                          | 1        | 10%     |
-| Microsoft LifeCam VX-5000              | 1        | 10%     |
-| Microsoft LifeCam VX-500 [1357]        | 1        | 10%     |
-| Logitech Webcam C270                   | 1        | 10%     |
-| Logitech QuickCam Communicate MP/S5500 | 1        | 10%     |
-| Huawei HiCamera                        | 1        | 10%     |
-| Generalplus 808 Camera                 | 1        | 10%     |
-| Cubeternet GL-UPC822 UVC WebCam        | 1        | 10%     |
-| ARC International Camera               | 1        | 10%     |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Z-Star Integrated Camera                 | 1        | 10%     |
+| Novatek DEMO1                            | 1        | 10%     |
+| Microsoft LifeCam VX-5000                | 1        | 10%     |
+| Microsoft LifeCam VX-500 [1357]          | 1        | 10%     |
+| Logitech Webcam C270                     | 1        | 10%     |
+| Logitech QuickCam Communicate MP/S5500   | 1        | 10%     |
+| Huawei UVC Camera                        | 1        | 10%     |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
+| Cubeternet GL-UPC822 UVC WebCam          | 1        | 10%     |
+| ARC International Camera                 | 1        | 10%     |
 
 Security
 --------
@@ -2340,7 +2340,7 @@ Chipcard module vendors
 | Vendor            | Desktops | Percent |
 |-------------------|----------|---------|
 | Mako Technologies | 1        | 50%     |
-| Bit4id            | 1        | 50%     |
+| BIT4ID            | 1        | 50%     |
 
 Chipcard Model
 --------------
@@ -2353,7 +2353,7 @@ Chipcard module models
 | Model                         | Desktops | Percent |
 |-------------------------------|----------|---------|
 | Mako Technologies SZZCS-ZCS80 | 1        | 50%     |
-| Bit4id miniLector EVO         | 1        | 50%     |
+| BIT4ID miniLector EVO         | 1        | 50%     |
 
 Unsupported
 -----------
@@ -2368,9 +2368,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 34       | 87.18%  |
-| 1     | 4        | 10.26%  |
-| 2     | 1        | 2.56%   |
+| 0     | 31       | 79.49%  |
+| 1     | 6        | 15.38%  |
+| 2     | 2        | 5.13%   |
 
 Unsupported Device Types
 ------------------------
@@ -2382,9 +2382,9 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Net/wireless  | 2        | 33.33%  |
-| Sound         | 1        | 16.67%  |
-| Graphics card | 1        | 16.67%  |
-| Chipcard      | 1        | 16.67%  |
-| Bluetooth     | 1        | 16.67%  |
+| Graphics card | 5        | 50%     |
+| Net/wireless  | 2        | 20%     |
+| Sound         | 1        | 10%     |
+| Chipcard      | 1        | 10%     |
+| Bluetooth     | 1        | 10%     |
 

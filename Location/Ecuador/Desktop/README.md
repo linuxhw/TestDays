@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 111
+Total: 112
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASRock        | Z690M-ITX/ax                | [1f232288d7](https://linux-hardware.org/?probe=1f232288d7) | May 07, 2023 |
 | ASRock        | Z690M-ITX/ax                | [76674fb178](https://linux-hardware.org/?probe=76674fb178) | Apr 26, 2023 |
 | Gigabyte      | H97-Gaming 3                | [d7d0bcde76](https://linux-hardware.org/?probe=d7d0bcde76) | Apr 15, 2023 |
 | Biostar       | H81MHV3L                    | [8638a242be](https://linux-hardware.org/?probe=8638a242be) | Apr 10, 2023 |
@@ -366,46 +367,46 @@ Version of the Linux kernel
 
 | Version                      | Desktops | Percent |
 |------------------------------|----------|---------|
-| 5.16.7-desktop-1omv4003      | 4        | 4.82%   |
-| 5.10.14-desktop-1omv4002     | 3        | 3.61%   |
-| 5.8.0-50-generic             | 2        | 2.41%   |
-| 5.4.0-73-generic             | 2        | 2.41%   |
-| 5.4.0-54-generic             | 2        | 2.41%   |
-| 5.4.0-29-generic             | 2        | 2.41%   |
-| 5.15.0-56-generic            | 2        | 2.41%   |
-| 4.15.0-20-generic            | 2        | 2.41%   |
-| 6.2.6-desktop-1omv2390       | 1        | 1.2%    |
-| 6.2.1-desktop-1omv2390       | 1        | 1.2%    |
-| 6.0.7-301.fc37.x86_64        | 1        | 1.2%    |
-| 5.8.0-63-generic             | 1        | 1.2%    |
-| 5.8.0-41-generic             | 1        | 1.2%    |
-| 5.8.0-40-generic             | 1        | 1.2%    |
-| 5.7.0-0.bpo.2-amd64          | 1        | 1.2%    |
-| 5.4.0-91-generic             | 1        | 1.2%    |
-| 5.4.0-81-generic             | 1        | 1.2%    |
-| 5.4.0-7634-generic           | 1        | 1.2%    |
-| 5.4.0-45-generic             | 1        | 1.2%    |
-| 5.4.0-42-generic             | 1        | 1.2%    |
-| 5.4.0-37-generic             | 1        | 1.2%    |
-| 5.4.0-126-generic            | 1        | 1.2%    |
-| 5.3.18-lp152.87-default      | 1        | 1.2%    |
-| 5.3.0-46-generic             | 1        | 1.2%    |
-| 5.19.9-201.fsync.fc36.x86_64 | 1        | 1.2%    |
-| 5.19.0-35-generic            | 1        | 1.2%    |
-| 5.18.5-200.fc36.x86_64       | 1        | 1.2%    |
-| 5.17.9-602.inttf.fc36.x86_64 | 1        | 1.2%    |
-| 5.17.5-76051705-generic      | 1        | 1.2%    |
-| 5.17.4-200.fc35.x86_64       | 1        | 1.2%    |
-| 5.17.0-kali3-amd64           | 1        | 1.2%    |
-| 5.16.7-1122.native           | 1        | 1.2%    |
-| 5.16.0-arch1-1               | 1        | 1.2%    |
-| 5.15.60-1-MANJARO            | 1        | 1.2%    |
-| 5.15.28-1-MANJARO            | 1        | 1.2%    |
-| 5.15.0-70-generic            | 1        | 1.2%    |
-| 5.15.0-69-generic            | 1        | 1.2%    |
-| 5.15.0-50-generic            | 1        | 1.2%    |
-| 5.15.0-47-generic            | 1        | 1.2%    |
-| 5.15.0-46-lowlatency         | 1        | 1.2%    |
+| 5.16.7-desktop-1omv4003      | 4        | 4.76%   |
+| 5.10.14-desktop-1omv4002     | 3        | 3.57%   |
+| 5.8.0-50-generic             | 2        | 2.38%   |
+| 5.4.0-73-generic             | 2        | 2.38%   |
+| 5.4.0-54-generic             | 2        | 2.38%   |
+| 5.4.0-29-generic             | 2        | 2.38%   |
+| 5.15.0-56-generic            | 2        | 2.38%   |
+| 4.15.0-20-generic            | 2        | 2.38%   |
+| 6.2.6-desktop-1omv2390       | 1        | 1.19%   |
+| 6.2.1-desktop-1omv2390       | 1        | 1.19%   |
+| 6.0.7-301.fc37.x86_64        | 1        | 1.19%   |
+| 5.8.0-63-generic             | 1        | 1.19%   |
+| 5.8.0-41-generic             | 1        | 1.19%   |
+| 5.8.0-40-generic             | 1        | 1.19%   |
+| 5.7.0-0.bpo.2-amd64          | 1        | 1.19%   |
+| 5.4.0-91-generic             | 1        | 1.19%   |
+| 5.4.0-81-generic             | 1        | 1.19%   |
+| 5.4.0-7634-generic           | 1        | 1.19%   |
+| 5.4.0-45-generic             | 1        | 1.19%   |
+| 5.4.0-42-generic             | 1        | 1.19%   |
+| 5.4.0-37-generic             | 1        | 1.19%   |
+| 5.4.0-126-generic            | 1        | 1.19%   |
+| 5.3.18-lp152.87-default      | 1        | 1.19%   |
+| 5.3.0-46-generic             | 1        | 1.19%   |
+| 5.19.9-201.fsync.fc36.x86_64 | 1        | 1.19%   |
+| 5.19.0-35-generic            | 1        | 1.19%   |
+| 5.18.5-200.fc36.x86_64       | 1        | 1.19%   |
+| 5.17.9-602.inttf.fc36.x86_64 | 1        | 1.19%   |
+| 5.17.5-76051705-generic      | 1        | 1.19%   |
+| 5.17.4-200.fc35.x86_64       | 1        | 1.19%   |
+| 5.17.0-kali3-amd64           | 1        | 1.19%   |
+| 5.16.7-1122.native           | 1        | 1.19%   |
+| 5.16.0-arch1-1               | 1        | 1.19%   |
+| 5.15.60-1-MANJARO            | 1        | 1.19%   |
+| 5.15.28-1-MANJARO            | 1        | 1.19%   |
+| 5.15.0-71-generic            | 1        | 1.19%   |
+| 5.15.0-70-generic            | 1        | 1.19%   |
+| 5.15.0-69-generic            | 1        | 1.19%   |
+| 5.15.0-50-generic            | 1        | 1.19%   |
+| 5.15.0-47-generic            | 1        | 1.19%   |
 
 Kernel Family
 -------------
@@ -860,13 +861,13 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1.01-2.0  | 28       | 33.33%  |
-| 2.01-3.0  | 24       | 28.57%  |
-| 3.01-4.0  | 13       | 15.48%  |
-| 4.01-8.0  | 12       | 14.29%  |
-| 0.51-1.0  | 3        | 3.57%   |
-| 8.01-16.0 | 2        | 2.38%   |
-| 0.01-0.5  | 2        | 2.38%   |
+| 1.01-2.0  | 28       | 32.94%  |
+| 2.01-3.0  | 24       | 28.24%  |
+| 4.01-8.0  | 13       | 15.29%  |
+| 3.01-4.0  | 13       | 15.29%  |
+| 0.51-1.0  | 3        | 3.53%   |
+| 8.01-16.0 | 2        | 2.35%   |
+| 0.01-0.5  | 2        | 2.35%   |
 
 Total Drives
 ------------
@@ -878,11 +879,11 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 41       | 56.16%  |
-| 2      | 18       | 24.66%  |
-| 3      | 12       | 16.44%  |
-| 5      | 1        | 1.37%   |
-| 4      | 1        | 1.37%   |
+| 1      | 41       | 55.41%  |
+| 2      | 18       | 24.32%  |
+| 3      | 12       | 16.22%  |
+| 5      | 2        | 2.7%    |
+| 4      | 1        | 1.35%   |
 
 Has CD-ROM
 ----------
@@ -989,10 +990,10 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 27       | 46     | 25.47%  |
+| WDC                 | 27       | 47     | 25.47%  |
 | Seagate             | 21       | 31     | 19.81%  |
 | Toshiba             | 12       | 16     | 11.32%  |
-| Kingston            | 12       | 23     | 11.32%  |
+| Kingston            | 12       | 27     | 11.32%  |
 | Samsung Electronics | 11       | 13     | 10.38%  |
 | Hitachi             | 6        | 6      | 5.66%   |
 | Hewlett-Packard     | 3        | 3      | 2.83%   |
@@ -1017,20 +1018,20 @@ Hard drive models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Kingston SA400S37240G 240GB SSD   | 7        | 5.83%   |
-| Seagate ST500DM002-1BD142 500GB   | 6        | 5%      |
-| Toshiba DT01ACA100 1TB            | 5        | 4.17%   |
-| WDC WD20EZRZ-00Z5HB0 2TB          | 4        | 3.33%   |
-| Toshiba DT01ACA200 2TB            | 3        | 2.5%    |
-| Seagate ST1000DM010-2EP102 1TB    | 3        | 2.5%    |
-| Samsung HD502HJ 500GB             | 3        | 2.5%    |
-| Kingston SV300S37A60G 64GB SSD    | 3        | 2.5%    |
-| WDC WDS480G2G0A-00JH30 480GB SSD  | 2        | 1.67%   |
-| WDC WD40EFAX-68JH4N1 4TB          | 2        | 1.67%   |
-| Toshiba MK7559GSXP 752GB          | 2        | 1.67%   |
-| Kingston SNVS500G 500GB           | 2        | 1.67%   |
-| Hitachi HDS721050CLA660 500GB     | 2        | 1.67%   |
-| HP SSD S700 500GB                 | 2        | 1.67%   |
+| Kingston SA400S37240G 240GB SSD   | 7        | 5.79%   |
+| Seagate ST500DM002-1BD142 500GB   | 6        | 4.96%   |
+| Toshiba DT01ACA100 1TB            | 5        | 4.13%   |
+| WDC WD20EZRZ-00Z5HB0 2TB          | 4        | 3.31%   |
+| Toshiba DT01ACA200 2TB            | 3        | 2.48%   |
+| Seagate ST1000DM010-2EP102 1TB    | 3        | 2.48%   |
+| Samsung HD502HJ 500GB             | 3        | 2.48%   |
+| Kingston SV300S37A60G 64GB SSD    | 3        | 2.48%   |
+| WDC WDS480G2G0A-00JH30 480GB SSD  | 2        | 1.65%   |
+| WDC WD40EFAX-68JH4N1 4TB          | 2        | 1.65%   |
+| Toshiba MK7559GSXP 752GB          | 2        | 1.65%   |
+| Kingston SNVS500G 500GB           | 2        | 1.65%   |
+| Hitachi HDS721050CLA660 500GB     | 2        | 1.65%   |
+| HP SSD S700 500GB                 | 2        | 1.65%   |
 | WDC WDS240G2G0B-00EPW0 240GB SSD  | 1        | 0.83%   |
 | WDC WDS240G2G0A-00JH30 240GB SSD  | 1        | 0.83%   |
 | WDC WDS100T2B0A-00SM50 1TB SSD    | 1        | 0.83%   |
@@ -1068,7 +1069,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 23       | 39     | 31.08%  |
+| WDC                 | 23       | 40     | 31.08%  |
 | Seagate             | 21       | 31     | 28.38%  |
 | Toshiba             | 11       | 15     | 14.86%  |
 | Samsung Electronics | 10       | 12     | 13.51%  |
@@ -1087,7 +1088,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 12       | 19     | 38.71%  |
+| Kingston            | 12       | 21     | 38.71%  |
 | WDC                 | 6        | 7      | 19.35%  |
 | Hewlett-Packard     | 3        | 3      | 9.68%   |
 | SPCC                | 2        | 2      | 6.45%   |
@@ -1108,9 +1109,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 59       | 106    | 64.13%  |
-| SSD     | 28       | 39     | 30.43%  |
-| NVMe    | 4        | 7      | 4.35%   |
+| HDD     | 59       | 107    | 64.13%  |
+| SSD     | 28       | 41     | 30.43%  |
+| NVMe    | 4        | 9      | 4.35%   |
 | Unknown | 1        | 1      | 1.09%   |
 
 Drive Connector
@@ -1123,8 +1124,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 70       | 146    | 94.59%  |
-| NVMe | 4        | 7      | 5.41%   |
+| SATA | 70       | 149    | 94.59%  |
+| NVMe | 4        | 9      | 5.41%   |
 
 Drive Size
 ----------
@@ -1136,10 +1137,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 51       | 83     | 54.84%  |
+| 0.01-0.5   | 51       | 85     | 54.84%  |
 | 0.51-1.0   | 28       | 41     | 30.11%  |
 | 1.01-2.0   | 11       | 17     | 11.83%  |
-| 3.01-4.0   | 2        | 3      | 2.15%   |
+| 3.01-4.0   | 2        | 4      | 2.15%   |
 | 2.01-3.0   | 1        | 1      | 1.08%   |
 
 Space Total
@@ -1152,15 +1153,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 251-500        | 21       | 27.27%  |
-| 101-250        | 14       | 18.18%  |
-| 501-1000       | 12       | 15.58%  |
-| 1001-2000      | 11       | 14.29%  |
-| 1-20           | 9        | 11.69%  |
-| More than 3000 | 5        | 6.49%   |
-| 51-100         | 2        | 2.6%    |
-| Unknown        | 2        | 2.6%    |
-| 21-50          | 1        | 1.3%    |
+| 251-500        | 21       | 26.92%  |
+| 101-250        | 14       | 17.95%  |
+| 501-1000       | 13       | 16.67%  |
+| 1001-2000      | 11       | 14.1%   |
+| 1-20           | 9        | 11.54%  |
+| More than 3000 | 5        | 6.41%   |
+| 51-100         | 2        | 2.56%   |
+| Unknown        | 2        | 2.56%   |
+| 21-50          | 1        | 1.28%   |
 
 Space Used
 ----------
@@ -1172,15 +1173,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 28       | 35%     |
-| 21-50          | 15       | 18.75%  |
-| 251-500        | 11       | 13.75%  |
-| 101-250        | 6        | 7.5%    |
-| 51-100         | 6        | 7.5%    |
-| 1001-2000      | 5        | 6.25%   |
-| 501-1000       | 5        | 6.25%   |
-| More than 3000 | 2        | 2.5%    |
-| Unknown        | 2        | 2.5%    |
+| 1-20           | 28       | 34.57%  |
+| 21-50          | 15       | 18.52%  |
+| 251-500        | 11       | 13.58%  |
+| 51-100         | 7        | 8.64%   |
+| 101-250        | 6        | 7.41%   |
+| 1001-2000      | 5        | 6.17%   |
+| 501-1000       | 5        | 6.17%   |
+| More than 3000 | 2        | 2.47%   |
+| Unknown        | 2        | 2.47%   |
 
 Malfunc. Drives
 ---------------
@@ -1280,7 +1281,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 48       | 111    | 62.34%  |
+| Detected | 48       | 116    | 62.34%  |
 | Works    | 18       | 24     | 23.38%  |
 | Malfunc  | 11       | 18     | 14.29%  |
 
@@ -1318,46 +1319,46 @@ Storage controller models
 
 | Model                                                                                   | Desktops | Percent |
 |-----------------------------------------------------------------------------------------|----------|---------|
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 10       | 9.26%   |
-| AMD FCH SATA Controller [AHCI mode]                                                     | 8        | 7.41%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 6        | 5.56%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 6        | 5.56%   |
-| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 5        | 4.63%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 5        | 4.63%   |
-| Intel SATA Controller [RAID mode]                                                       | 4        | 3.7%    |
-| Intel 82801G (ICH7 Family) IDE Controller                                               | 4        | 3.7%    |
-| AMD FCH SATA Controller D                                                               | 4        | 3.7%    |
-| AMD 400 Series Chipset SATA Controller                                                  | 4        | 3.7%    |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 3        | 2.78%   |
-| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 3        | 2.78%   |
-| AMD 500 Series Chipset SATA Controller                                                  | 3        | 2.78%   |
-| Kingston Company NVMe Controller                                                        | 2        | 1.85%   |
-| JMicron JMB363 SATA/IDE Controller                                                      | 2        | 1.85%   |
-| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 2        | 1.85%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 2        | 1.85%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                           | 2        | 1.85%   |
-| Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                           | 2        | 1.85%   |
-| Intel 400 Series Chipset Family SATA AHCI Controller                                    | 2        | 1.85%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 2        | 1.85%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 2        | 1.85%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2        | 1.85%   |
-| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                             | 1        | 0.93%   |
-| VIA VT6421 IDE/SATA Controller                                                          | 1        | 0.93%   |
-| VIA Serial ATA Controller                                                               | 1        | 0.93%   |
-| Samsung NVMe SSD Controller 980                                                         | 1        | 0.93%   |
-| Nvidia MCP61 SATA Controller                                                            | 1        | 0.93%   |
-| Marvell Group 88SE91A3 SATA-600 Controller                                              | 1        | 0.93%   |
-| Marvell Group 88SE914D SATA-600 Controller                                              | 1        | 0.93%   |
-| Marvell Group 88SE6145 SATA II PCI-E controller                                         | 1        | 0.93%   |
-| Marvell Group 88SE6101/6102 single-port PATA133 interface                               | 1        | 0.93%   |
-| Intel Volume Management Device NVMe RAID Controller                                     | 1        | 0.93%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 0.93%   |
-| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                      | 1        | 0.93%   |
-| Intel Comet Lake SATA AHCI Controller                                                   | 1        | 0.93%   |
-| Intel Celeron/Pentium Silver Processor SATA Controller                                  | 1        | 0.93%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                              | 1        | 0.93%   |
-| Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                                      | 1        | 0.93%   |
-| Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                              | 1        | 0.93%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 10       | 9.17%   |
+| AMD FCH SATA Controller [AHCI mode]                                                     | 8        | 7.34%   |
+| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 6        | 5.5%    |
+| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 6        | 5.5%    |
+| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 5        | 4.59%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 5        | 4.59%   |
+| Intel SATA Controller [RAID mode]                                                       | 4        | 3.67%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                               | 4        | 3.67%   |
+| AMD FCH SATA Controller D                                                               | 4        | 3.67%   |
+| AMD 400 Series Chipset SATA Controller                                                  | 4        | 3.67%   |
+| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 3        | 2.75%   |
+| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 3        | 2.75%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 3        | 2.75%   |
+| Kingston Company NVMe Controller                                                        | 2        | 1.83%   |
+| JMicron JMB363 SATA/IDE Controller                                                      | 2        | 1.83%   |
+| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 2        | 1.83%   |
+| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 2        | 1.83%   |
+| Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                           | 2        | 1.83%   |
+| Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                           | 2        | 1.83%   |
+| Intel 400 Series Chipset Family SATA AHCI Controller                                    | 2        | 1.83%   |
+| ASMedia ASM1062 Serial ATA Controller                                                   | 2        | 1.83%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 2        | 1.83%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2        | 1.83%   |
+| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                             | 1        | 0.92%   |
+| VIA VT6421 IDE/SATA Controller                                                          | 1        | 0.92%   |
+| VIA Serial ATA Controller                                                               | 1        | 0.92%   |
+| Samsung NVMe SSD Controller 980                                                         | 1        | 0.92%   |
+| Nvidia MCP61 SATA Controller                                                            | 1        | 0.92%   |
+| Marvell Group 88SE91A3 SATA-600 Controller                                              | 1        | 0.92%   |
+| Marvell Group 88SE914D SATA-600 Controller                                              | 1        | 0.92%   |
+| Marvell Group 88SE6145 SATA II PCI-E controller                                         | 1        | 0.92%   |
+| Marvell Group 88SE6101/6102 single-port PATA133 interface                               | 1        | 0.92%   |
+| Kingston Company Company Non-Volatile memory controller                                 | 1        | 0.92%   |
+| Intel Volume Management Device NVMe RAID Controller                                     | 1        | 0.92%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 0.92%   |
+| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                      | 1        | 0.92%   |
+| Intel Comet Lake SATA AHCI Controller                                                   | 1        | 0.92%   |
+| Intel Celeron/Pentium Silver Processor SATA Controller                                  | 1        | 0.92%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                              | 1        | 0.92%   |
+| Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                                      | 1        | 0.92%   |
 
 Storage Kind
 ------------
@@ -1756,7 +1757,7 @@ Monitor models
 | Goldstar L192WS GSM4B32 1440x900 410x256mm 19.0-inch                 | 3        | 4.11%   |
 | BenQ G2420HDBL BNQ785E 1920x1080 477x268mm 21.5-inch                 | 3        | 4.11%   |
 | LG Electronics LCD Monitor LG TV 1360x768                            | 2        | 2.74%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                 | 2        | 2.74%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                 | 2        | 2.74%   |
 | Goldstar HD GSM5ACD 1366x768 410x230mm 18.5-inch                     | 2        | 2.74%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                  | 2        | 2.74%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                 | 2        | 2.74%   |
@@ -1771,7 +1772,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SMB1930N 1366x768                    | 1        | 1.37%   |
 | Samsung Electronics LCD Monitor SA300/SA350 1366x768                 | 1        | 1.37%   |
 | NEC Computers LCD1850E NEC65D1 1280x1024 359x287mm 18.1-inch         | 1        | 1.37%   |
-| MStar Demo MST0030 1366x768 708x398mm 32.0-inch                      | 1        | 1.37%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.37%   |
 | LG Electronics LCD Monitor W2043 3520x1080                           | 1        | 1.37%   |
 | LG Electronics LCD Monitor 2D HD LG TV                               | 1        | 1.37%   |
 | LG Electronics LCD Monitor 23MP55                                    | 1        | 1.37%   |
@@ -1779,10 +1780,10 @@ Monitor models
 | Hewlett-Packard w1858 HWP2835 1366x768 413x234mm 18.7-inch           | 1        | 1.37%   |
 | Hewlett-Packard V194 HWP3346 1366x768 410x230mm 18.5-inch            | 1        | 1.37%   |
 | Hewlett-Packard S2031 HWP2903 1600x900 443x249mm 20.0-inch           | 1        | 1.37%   |
+| Hewlett-Packard Omni/Pro HWP410E 1366x768 410x230mm 18.5-inch        | 1        | 1.37%   |
 | Hewlett-Packard LCD Monitor L1710 2646x1024                          | 1        | 1.37%   |
 | Hewlett-Packard E241i HWP3124 1920x1200 518x324mm 24.1-inch          | 1        | 1.37%   |
 | Hewlett-Packard E241i HWP3122 1920x1200 518x324mm 24.1-inch          | 1        | 1.37%   |
-| Hewlett-Packard All in One HWP410E 1366x768 410x230mm 18.5-inch      | 1        | 1.37%   |
 | Goldstar T1910 GSM4BD8 1280x1024 376x301mm 19.0-inch                 | 1        | 1.37%   |
 | Goldstar M237WA GSM5724 1920x1080 509x286mm 23.0-inch                | 1        | 1.37%   |
 | Goldstar L177WSB GSM448D 1440x900 370x232mm 17.2-inch                | 1        | 1.37%   |
@@ -2164,8 +2165,8 @@ IPv6 vs IPv4
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 62       | 84.93%  |
-| Yes  | 11       | 15.07%  |
+| No   | 63       | 85.14%  |
+| Yes  | 11       | 14.86%  |
 
 Bluetooth
 ---------
@@ -2307,47 +2308,47 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM 1333MT/s                     | 1        | 2.56%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 2.56%   |
-| Unknown RAM Module 2GB DIMM SDRAM                        | 1        | 2.56%   |
-| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                | 1        | 2.56%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                 | 1        | 2.56%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s           | 1        | 2.56%   |
-| Unknown RAM Module 2048MB DIMM DDR2                      | 1        | 2.56%   |
-| Unknown RAM Module 1GB DIMM DDR2                         | 1        | 2.56%   |
-| Unknown RAM Module 1024MB DIMM 1333MT/s                  | 1        | 2.56%   |
-| Samsung RAM Module 4GB DIMM DDR4 3200MT/s                | 1        | 2.56%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
-| PNY RAM Module 4096MB DIMM DDR3 1333MT/s                 | 1        | 2.56%   |
-| Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 2.56%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 2.56%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 1        | 2.56%   |
-| Kingston RAM KHX3000C16D4/16GX 16GB DIMM DDR4 3000MT/s   | 1        | 2.56%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 2.56%   |
-| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s      | 1        | 2.56%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s        | 1        | 2.56%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s      | 1        | 2.56%   |
-| Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
-| Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.56%   |
-| Kingston RAM 99U5474-010.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
-| Kingston RAM 99U5471-038.A00LF 8GB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
-| Kingston RAM 99U5471-030.A00LF 8GB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
-| Kingston RAM 9905584-015.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.56%   |
-| Kingston RAM 9905471-017.A00LF 4GB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
-| Kingston RAM 9905402-171.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.56%   |
-| HP RAM 7EH55AA# 8GB DIMM DDR4 2666MT/s                   | 1        | 2.56%   |
-| Gold Key RAM NMUD440D82-3200D 4GB DIMM DDR4 3200MT/s     | 1        | 2.56%   |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s    | 1        | 2.56%   |
-| Corsair RAM CMV16GX4M1A2666C18 16GB DIMM DDR4 2667MT/s   | 1        | 2.56%   |
-| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3534MT/s   | 1        | 2.56%   |
-| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 2.56%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 2.56%   |
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3200MT/s | 1        | 2.56%   |
-| Avant RAM W641GU49J9266N6 8GB DIMM DDR4 2666MT/s         | 1        | 2.56%   |
-| A-DATA RAM Module 8GB DIMM DDR3 1333MT/s                 | 1        | 2.56%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM 1333MT/s                   | 1        | 2.56%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                | 1        | 2.56%   |
+| Unknown RAM Module 2GB DIMM SDRAM                      | 1        | 2.56%   |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s              | 1        | 2.56%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s               | 1        | 2.56%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s         | 1        | 2.56%   |
+| Unknown RAM Module 2048MB DIMM DDR2                    | 1        | 2.56%   |
+| Unknown RAM Module 1GB DIMM DDR2                       | 1        | 2.56%   |
+| Unknown RAM Module 1024MB DIMM 1333MT/s                | 1        | 2.56%   |
+| Samsung RAM Module 4GB DIMM DDR4 3200MT/s              | 1        | 2.56%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 2.56%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 2.56%   |
+| PNY RAM Module 4096MB DIMM DDR3 1333MT/s               | 1        | 2.56%   |
+| Micron RAM Module 2048MB DIMM DDR3 1333MT/s            | 1        | 2.56%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 1        | 2.56%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s   | 1        | 2.56%   |
+| Kingston RAM KHX3000C16D4/16GX 16GB DIMM DDR4 3000MT/s | 1        | 2.56%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s      | 1        | 2.56%   |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s    | 1        | 2.56%   |
+| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s   | 1        | 2.56%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s    | 1        | 2.56%   |
+| Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s  | 1        | 2.56%   |
+| Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 2.56%   |
+| Kingston RAM 99U5474-010.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 2.56%   |
+| Kingston RAM 99U5471-038.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 2.56%   |
+| Kingston RAM 99U5471-030.A00LF 8GB DIMM DDR3 1333MT/s  | 1        | 2.56%   |
+| Kingston RAM 9905584-015.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 2.56%   |
+| Kingston RAM 9905471-017.A00LF 4GB DIMM DDR3 1333MT/s  | 1        | 2.56%   |
+| Kingston RAM 9905402-171.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 2.56%   |
+| HP RAM 7EH55AA# 8GB DIMM DDR4 2666MT/s                 | 1        | 2.56%   |
+| Gold Key RAM NMUD440D82-3200D 4GB DIMM DDR4 3200MT/s   | 1        | 2.56%   |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 2.56%   |
+| Corsair RAM CMV16GX4M1A2666C18 16GB DIMM DDR4 2667MT/s | 1        | 2.56%   |
+| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3534MT/s | 1        | 2.56%   |
+| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s  | 1        | 2.56%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 2.56%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s  | 1        | 2.56%   |
+| Avant RAM W641GU49J9266N6 8GB DIMM DDR4 2666MT/s       | 1        | 2.56%   |
+| A-DATA RAM Module 8GB DIMM DDR3 1333MT/s               | 1        | 2.56%   |
 
 Memory Kind
 -----------
@@ -2409,8 +2410,9 @@ Memory module speed
 | 3200    | 3        | 9.09%   |
 | Unknown | 3        | 9.09%   |
 | 3600    | 2        | 6.06%   |
-| 3466    | 2        | 6.06%   |
 | 3534    | 1        | 3.03%   |
+| 3533    | 1        | 3.03%   |
+| 3466    | 1        | 3.03%   |
 | 3400    | 1        | 3.03%   |
 | 3000    | 1        | 3.03%   |
 | 2667    | 1        | 3.03%   |
@@ -2505,13 +2507,13 @@ Camera device models
 | Pixart Imaging Multimedia audio controller | 1        | 5.26%   |
 | Microdia Webcam Vitade AF                  | 1        | 5.26%   |
 | KYE Systems (Mouse Systems) WideCam 1050   | 1        | 5.26%   |
-| KYE Systems (Mouse Systems) PC-LM1E Camera | 1        | 5.26%   |
+| KYE Systems (Mouse Systems) PC-W3 Camera   | 1        | 5.26%   |
 | KYE Systems (Mouse Systems) FaceCam 310    | 1        | 5.26%   |
 | Jieli USB PHY 2.0                          | 1        | 5.26%   |
 | IMC Networks XHC Camera                    | 1        | 5.26%   |
 | Genesys Logic USB2.0 UVC PC Camera         | 1        | 5.26%   |
 | Generalplus GENERAL WEBCAM                 | 1        | 5.26%   |
-| Generalplus 808 Camera                     | 1        | 5.26%   |
+| Generalplus 808 Camera #9 (web-cam mode)   | 1        | 5.26%   |
 | GEMBIRD USB2.0 PC CAMERA                   | 1        | 5.26%   |
 | Chicony HP High Definition 1MP Webcam      | 1        | 5.26%   |
 | Arkmicro USB2.0 PC CAMERA                  | 1        | 5.26%   |

@@ -1646,10 +1646,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                    | Desktops | Percent |
-|--------------------------|----------|---------|
-| Seiko Epson L3150 Series | 1        | 50%     |
-| HP LaserJet 1012         | 1        | 50%     |
+| Model                      | Desktops | Percent |
+|----------------------------|----------|---------|
+| Seiko Epson ET-2710 Series | 1        | 50%     |
+| HP LaserJet 1012           | 1        | 50%     |
 
 Scanner Vendor
 --------------

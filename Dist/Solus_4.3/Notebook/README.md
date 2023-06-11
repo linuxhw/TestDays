@@ -810,7 +810,7 @@ Hard drive models
 | WDC WD10SPZX-24Z10T0 1TB                         | 1         | 2.38%   |
 | WDC WD10SPZX-24Z10 1TB                           | 1         | 2.38%   |
 | WDC WD10JPCX-24UE4T0 1TB                         | 1         | 2.38%   |
-| Unknown USB DISK 3.2 250GB                       | 1         | 2.38%   |
+| Unknown USB DISK 3.2 2TB                         | 1         | 2.38%   |
 | Unknown MMC Card  64GB                           | 1         | 2.38%   |
 | Unknown MMC Card  128GB                          | 1         | 2.38%   |
 | Toshiba MQ01ABF050 500GB                         | 1         | 2.38%   |
@@ -821,10 +821,10 @@ Hard drive models
 | Silicon Motion NVMe SSD Drive 512GB              | 1         | 2.38%   |
 | Seagate ST9320325AS 320GB                        | 1         | 2.38%   |
 | Seagate ST1000LM049-2GH172 1TB                   | 1         | 2.38%   |
-| Seagate ST1000LM035-1RK172 970GB                 | 1         | 2.38%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 512GB | 1         | 2.38%   |
+| Seagate ST1000LM035-1RK172 1TB                   | 1         | 2.38%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 256GB | 1         | 2.38%   |
 | SanDisk SDSSDH32000G 2TB                         | 1         | 2.38%   |
-| Sandisk PC SN520 NVMe SSD 512GB                  | 1         | 2.38%   |
+| Sandisk PC SN520 NVMe SSD 256GB                  | 1         | 2.38%   |
 | SanDisk NVMe SSD Drive 1TB                       | 1         | 2.38%   |
 | SanDisk Extreme Pro 1TB                          | 1         | 2.38%   |
 | SanDisk DF4032  32GB                             | 1         | 2.38%   |
@@ -833,7 +833,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 2TB                       | 1         | 2.38%   |
 | Samsung MZVL22T0HBLB-00BL7 2TB                   | 1         | 2.38%   |
 | Samsung MZALQ512HBLU-00BL2 512GB                 | 1         | 2.38%   |
-| SABRENT Disk 1TB                                 | 1         | 2.38%   |
+| SABRENT Disk 14TB                                | 1         | 2.38%   |
 | PNY CS900 240GB SSD                              | 1         | 2.38%   |
 | Phison NVMe SSD Drive 512GB                      | 1         | 2.38%   |
 | KIOXIA KXG60ZNV512G NVMe 512GB                   | 1         | 2.38%   |
@@ -868,12 +868,13 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SK hynix            | 1         | 1      | 16.67%  |
-| SanDisk             | 1         | 1      | 16.67%  |
-| Samsung Electronics | 1         | 1      | 16.67%  |
-| PNY                 | 1         | 1      | 16.67%  |
-| Kingston            | 1         | 1      | 16.67%  |
-| Advantech           | 1         | 1      | 16.67%  |
+| SK hynix            | 1         | 1      | 14.29%  |
+| SanDisk             | 1         | 1      | 14.29%  |
+| Samsung Electronics | 1         | 1      | 14.29%  |
+| SABRENT             | 1         | 1      | 14.29%  |
+| PNY                 | 1         | 1      | 14.29%  |
+| Kingston            | 1         | 1      | 14.29%  |
+| Advantech           | 1         | 1      | 14.29%  |
 
 Drive Kind
 ----------
@@ -885,9 +886,9 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 18        | 25     | 48.65%  |
+| NVMe    | 18        | 24     | 48.65%  |
 | HDD     | 9         | 10     | 24.32%  |
-| SSD     | 6         | 6      | 16.22%  |
+| SSD     | 6         | 7      | 16.22%  |
 | MMC     | 3         | 3      | 8.11%   |
 | Unknown | 1         | 1      | 2.7%    |
 
@@ -916,9 +917,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 10     | 60%     |
-| 0.51-1.0   | 5         | 5      | 33.33%  |
-| 1.01-2.0   | 1         | 1      | 6.67%   |
+| 0.01-0.5   | 9         | 10     | 56.25%  |
+| 0.51-1.0   | 5         | 5      | 31.25%  |
+| 10.01-20.0 | 1         | 1      | 6.25%   |
+| 1.01-2.0   | 1         | 1      | 6.25%   |
 
 Space Total
 -----------
@@ -1445,11 +1447,11 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch                | 1         | 2.56%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.56%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch     | 1         | 2.56%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.56%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.56%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch        | 1         | 2.56%   |
-| Samsung Electronics C27F591 SAM0D36 1920x1080 598x336mm 27.0-inch        | 1         | 2.56%   |
+| Samsung Electronics C27F591 SAM0D36 1920x1080 600x340mm 27.2-inch        | 1         | 2.56%   |
 | Philips 273PLPH PHL08A8 1920x1080 598x336mm 27.0-inch                    | 1         | 2.56%   |
 | PANDA LCD Monitor NCP0046 1920x1080 344x194mm 15.5-inch                  | 1         | 2.56%   |
 | LG Display LCD Monitor LGD06FB 1920x1080 309x174mm 14.0-inch             | 1         | 2.56%   |
@@ -1477,7 +1479,7 @@ Monitor models
 | AU Optronics LCD Monitor AUOE48D 1920x1080 344x194mm 15.5-inch           | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO81EC 1366x768 344x193mm 15.5-inch            | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO5B2D 1920x1080 293x162mm 13.2-inch           | 1         | 2.56%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch           | 1         | 2.56%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch           | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch            | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO282B 3840x2160 293x165mm 13.2-inch           | 1         | 2.56%   |
 | Ancor Communications C624B ACI24A9 1920x1200 518x324mm 24.1-inch         | 1         | 2.56%   |
@@ -1961,9 +1963,9 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 1GB SODIMM DDR                                | 1         | 4.76%   |
-| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s            | 1         | 4.76%   |
+| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s            | 1         | 4.76%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 4.76%   |
-| SK hynix RAM HCNNNBKMMLXR-NEE 1GB Row Of Chips LPDDR4 4267MT/s   | 1         | 4.76%   |
+| SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 4.76%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 4.76%   |
 | Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s            | 1         | 4.76%   |
@@ -2106,7 +2108,7 @@ Camera device vendors
 | Microsoft                              | 1         | 3.45%   |
 | Logitech                               | 1         | 3.45%   |
 | Importek                               | 1         | 3.45%   |
-| Acer                                   | 1         | 3.45%   |
+| Bison Electronics                      | 1         | 3.45%   |
 
 Camera Model
 ------------
@@ -2133,7 +2135,7 @@ Camera device models
 | Quanta VGA WebCam                                               | 1         | 3.45%   |
 | Quanta USB2.0 HD UVC WebCam                                     | 1         | 3.45%   |
 | Microsoft LifeCam Studio                                        | 1         | 3.45%   |
-| Microdia USB 2.0 Camera                                         | 1         | 3.45%   |
+| Microdia CameraA                                                | 1         | 3.45%   |
 | Logitech Webcam C270                                            | 1         | 3.45%   |
 | Importek TOSHIBA Web Camera - HD                                | 1         | 3.45%   |
 | IMC Networks USB2.0 VGA UVC WebCam                              | 1         | 3.45%   |
@@ -2142,7 +2144,7 @@ Camera device models
 | Chicony EasyCamera                                              | 1         | 3.45%   |
 | Cheng Uei Precision Industry (Foxlink) Webcam                   | 1         | 3.45%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 3.45%   |
-| Acer Lenovo EasyCamera                                          | 1         | 3.45%   |
+| Bison Lenovo EasyCamera                                         | 1         | 3.45%   |
 
 Security
 --------
@@ -2220,9 +2222,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 20        | 62.5%   |
+| 0     | 19        | 59.38%  |
+| 1     | 7         | 21.88%  |
 | 2     | 6         | 18.75%  |
-| 1     | 6         | 18.75%  |
 
 Unsupported Device Types
 ------------------------
@@ -2234,10 +2236,11 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 6         | 30%     |
-| Chipcard              | 5         | 25%     |
-| Net/wireless          | 4         | 20%     |
-| Multimedia controller | 3         | 15%     |
-| Unassigned class      | 1         | 5%      |
-| Storage               | 1         | 5%      |
+| Fingerprint reader    | 6         | 28.57%  |
+| Chipcard              | 5         | 23.81%  |
+| Net/wireless          | 4         | 19.05%  |
+| Multimedia controller | 3         | 14.29%  |
+| Unassigned class      | 1         | 4.76%   |
+| Storage               | 1         | 4.76%   |
+| Graphics card         | 1         | 4.76%   |
 

@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 49
+Total: 50
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | ThinkPad T480 20L6S2S800    | [7ffc12366e](https://linux-hardware.org/?probe=7ffc12366e) | May 03, 2023 |
 | Lenovo        | ThinkPad T480 20L6S2S800    | [8ab4a35e8c](https://linux-hardware.org/?probe=8ab4a35e8c) | Apr 26, 2023 |
 | HP            | ProBook 4540s               | [854f17fcac](https://linux-hardware.org/?probe=854f17fcac) | Apr 23, 2023 |
 | Clevo         | W251EFQ/W270EFQ             | [8152bff1b3](https://linux-hardware.org/?probe=8152bff1b3) | Apr 13, 2023 |
@@ -654,11 +655,11 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 17        | 44.74%  |
-| 2.01-3.0 | 12        | 31.58%  |
-| 3.01-4.0 | 6         | 15.79%  |
-| 4.01-8.0 | 2         | 5.26%   |
-| 0.51-1.0 | 1         | 2.63%   |
+| 1.01-2.0 | 18        | 46.15%  |
+| 2.01-3.0 | 12        | 30.77%  |
+| 3.01-4.0 | 6         | 15.38%  |
+| 4.01-8.0 | 2         | 5.13%   |
+| 0.51-1.0 | 1         | 2.56%   |
 
 Total Drives
 ------------
@@ -801,7 +802,7 @@ Hard drive vendors
 | Silicon Motion              | 1         | 1      | 2.22%   |
 | Phison                      | 1         | 1      | 2.22%   |
 | Micron Technology           | 1         | 2      | 2.22%   |
-| MAXIO Technology (Hangzhou) | 1         | 1      | 2.22%   |
+| MAXIO Technology (Hangzhou) | 1         | 2      | 2.22%   |
 | Lexar                       | 1         | 1      | 2.22%   |
 | KingSpec                    | 1         | 1      | 2.22%   |
 | Intenso                     | 1         | 2      | 2.22%   |
@@ -837,8 +838,8 @@ Hard drive models
 | Seagate ST9120822AS 120GB                        | 1         | 2.17%   |
 | Seagate ST750LM022 HN-M750MBB 752GB              | 1         | 2.17%   |
 | Seagate ST500LM000-1EJ162 500GB                  | 1         | 2.17%   |
-| Seagate ST1000LM035-1RK172 970GB                 | 1         | 2.17%   |
-| Seagate Expansion 4TB                            | 1         | 2.17%   |
+| Seagate ST1000LM035-1RK172 1TB                   | 1         | 2.17%   |
+| Seagate Expansion 1TB                            | 1         | 2.17%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB      | 1         | 2.17%   |
 | SanDisk SSD U110 16GB                            | 1         | 2.17%   |
 | SanDisk SSD PLUS 240GB                           | 1         | 2.17%   |
@@ -852,11 +853,11 @@ Hard drive models
 | Samsung HM250HI 250GB                            | 1         | 2.17%   |
 | Phison 311CD0512GB                               | 1         | 2.17%   |
 | Micron 1300_MTFDDAK512TDL 512GB SSD              | 1         | 2.17%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 1TB | 1         | 2.17%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 2TB | 1         | 2.17%   |
 | Lexar 120GB SSD                                  | 1         | 2.17%   |
 | Kingston SHFS37A120G 120GB SSD                   | 1         | 2.17%   |
 | Kingston SA400S37240G 240GB SSD                  | 1         | 2.17%   |
-| KingSpec P3-128 128GB                            | 1         | 2.17%   |
+| KingSpec P3-128 128GB SSD                        | 1         | 2.17%   |
 | Intenso SSD 128GB                                | 1         | 2.17%   |
 
 HDD Vendor
@@ -910,7 +911,7 @@ HDD or SSD
 |---------|-----------|--------|---------|
 | HDD     | 20        | 23     | 48.78%  |
 | SSD     | 15        | 21     | 36.59%  |
-| NVMe    | 4         | 5      | 9.76%   |
+| NVMe    | 4         | 6      | 9.76%   |
 | Unknown | 2         | 2      | 4.88%   |
 
 Drive Connector
@@ -924,7 +925,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 32        | 45     | 86.49%  |
-| NVMe | 4         | 5      | 10.81%  |
+| NVMe | 4         | 6      | 10.81%  |
 | SAS  | 1         | 1      | 2.7%    |
 
 Drive Size
@@ -938,8 +939,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 25        | 31     | 73.53%  |
-| 0.51-1.0   | 8         | 12     | 23.53%  |
-| 3.01-4.0   | 1         | 1      | 2.94%   |
+| 0.51-1.0   | 9         | 13     | 26.47%  |
 
 Space Total
 -----------
@@ -1058,7 +1058,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 23        | 33     | 62.16%  |
+| Detected | 23        | 34     | 62.16%  |
 | Works    | 11        | 15     | 29.73%  |
 | Malfunc  | 2         | 2      | 5.41%   |
 | Failed   | 1         | 1      | 2.7%    |
@@ -1883,13 +1883,13 @@ Controller models
 | Toshiba Integrated Bluetooth HCI                    | 1         | 3.33%   |
 | Realtek RTL8821A Bluetooth                          | 1         | 3.33%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 3.33%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 3.33%   |
+| Realtek Bluetooth Radio                             | 1         | 3.33%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 3.33%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.33%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.33%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 3.33%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 3.33%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 3.33%   |
+| Intel Bluetooth Device                              | 1         | 3.33%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 3.33%   |
 | Intel AX201 Bluetooth                               | 1         | 3.33%   |
 | IMC Networks Bluetooth Device                       | 1         | 3.33%   |
@@ -1987,9 +1987,9 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2                              | 1         | 6.67%   |
 | Unknown (0x4509) RAM GKE800SO102408-2666A 8GB SODIMM DDR4 2133MT/s | 1         | 6.67%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s             | 1         | 6.67%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB Row Of Chips DDR4 3200MT/s       | 1         | 6.67%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8192MB Row Of Chips DDR4 3200MT/s    | 1         | 6.67%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s             | 1         | 6.67%   |
-| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s              | 1         | 6.67%   |
+| Samsung RAM M471B5773DH0-CK0 2048MB SODIMM DDR3 1600MT/s           | 1         | 6.67%   |
 | Samsung RAM M471B5773CHS-CH9 2GB DIMM DDR3 1333MT/s                | 1         | 6.67%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s              | 1         | 6.67%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s              | 1         | 6.67%   |
@@ -2037,11 +2037,12 @@ Memory module size
 ![Memory Size](./images/pie_chart/memory_size.svg)
 
 
-| Size | Notebooks | Percent |
-|------|-----------|---------|
-| 8192 | 7         | 50%     |
-| 4096 | 4         | 28.57%  |
-| 2048 | 3         | 21.43%  |
+| Size  | Notebooks | Percent |
+|-------|-----------|---------|
+| 8192  | 7         | 50%     |
+| 4096  | 3         | 21.43%  |
+| 2048  | 3         | 21.43%  |
+| 16384 | 1         | 7.14%   |
 
 Memory Speed
 ------------

@@ -583,7 +583,7 @@ Geographic location (city)
 
 | City             | Desktops | Percent |
 |------------------|----------|---------|
-| Langgons         | 6        | 50%     |
+| Petersberg       | 6        | 50%     |
 | Yorktown Heights | 1        | 8.33%   |
 | Vienna           | 1        | 8.33%   |
 | Rensselaer       | 1        | 8.33%   |
@@ -1139,7 +1139,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Dell LCD Monitor DEL0001 1280x1024                                    | 6        | 66.67%  |
 | Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1        | 11.11%  |
-| Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1        | 11.11%  |
+| Goldstar LG HDR WFHD GSM7715 2560x1080 800x340mm 34.2-inch            | 1        | 11.11%  |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1        | 11.11%  |
 
 Monitor Resolution
@@ -1485,17 +1485,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| SK hynix RAM HMA82GR7MFR8N-UH 16384MB DIMM DDR4 2400MT/s | 2        | 16.67%  |
-| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s    | 2        | 16.67%  |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s     | 2        | 16.67%  |
-| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s             | 1        | 8.33%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s     | 1        | 8.33%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 8.33%   |
-| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s      | 1        | 8.33%   |
-| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s      | 1        | 8.33%   |
-| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s    | 1        | 8.33%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s | 2        | 16.67%  |
+| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s | 2        | 16.67%  |
+| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s  | 2        | 16.67%  |
+| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s          | 1        | 8.33%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s  | 1        | 8.33%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s   | 1        | 8.33%   |
+| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s   | 1        | 8.33%   |
+| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s   | 1        | 8.33%   |
+| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s | 1        | 8.33%   |
 
 Memory Kind
 -----------
@@ -1650,10 +1650,10 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 2     | 6        | 50%     |
+| 2     | 7        | 58.33%  |
 | 0     | 3        | 25%     |
-| 1     | 2        | 16.67%  |
 | 3     | 1        | 8.33%   |
+| 1     | 1        | 8.33%   |
 
 Unsupported Device Types
 ------------------------

@@ -1618,7 +1618,7 @@ Monitor models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Sony TV SNYDD02 1920x1080 708x398mm 32.0-inch                           | 2        | 5.56%   |
-| AOC 2269WM AOC2269 1920x1080 477x268mm 21.5-inch                        | 2        | 5.56%   |
+| AOC 2269W AOC2269 1920x1080 477x268mm 21.5-inch                         | 2        | 5.56%   |
 | ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.78%   |
 | Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 2.78%   |
 | Samsung Electronics LCD Monitor SAM0664 1360x768 410x256mm 19.0-inch    | 1        | 2.78%   |
@@ -1629,7 +1629,7 @@ Monitor models
 | KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                        | 1        | 2.78%   |
 | Hewlett-Packard w1858 HWP281A 1366x768 413x234mm 18.7-inch              | 1        | 2.78%   |
 | Hewlett-Packard V244h HPN3358 1920x1080 531x299mm 24.0-inch             | 1        | 2.78%   |
-| Hewlett-Packard LE2201w HWP2843 1680x1050 470x300mm 22.0-inch           | 1        | 2.78%   |
+| Hewlett-Packard LE2201w HWP2843 1680x1050 473x296mm 22.0-inch           | 1        | 2.78%   |
 | Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch            | 1        | 2.78%   |
 | Hewlett-Packard L1730 HWP260E 1280x1024 338x270mm 17.0-inch             | 1        | 2.78%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 2.78%   |
@@ -1644,7 +1644,7 @@ Monitor models
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                         | 1        | 2.78%   |
 | Dell 1707FP DEL4012 1280x1024 338x270mm 17.0-inch                       | 1        | 2.78%   |
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                       | 1        | 2.78%   |
-| AOC TFT1780 AOC1780 1280x1024 304x228mm 15.0-inch                       | 1        | 2.78%   |
+| AOC TFT1780 AOC1780 1280x1024 376x301mm 19.0-inch                       | 1        | 2.78%   |
 | AOC LCD Monitor 2243W 1920x1080                                         | 1        | 2.78%   |
 | AOC 2060W3 AOC2060 1920x1080 435x239mm 19.5-inch                        | 1        | 2.78%   |
 | Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch   | 1        | 2.78%   |
@@ -1685,11 +1685,11 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 19      | 5        | 14.29%  |
-| 17      | 5        | 14.29%  |
+| 19      | 6        | 17.14%  |
 | 27      | 4        | 11.43%  |
 | 22      | 4        | 11.43%  |
 | 21      | 4        | 11.43%  |
+| 17      | 4        | 11.43%  |
 | 18      | 3        | 8.57%   |
 | Unknown | 3        | 8.57%   |
 | 50      | 2        | 5.71%   |
@@ -1710,10 +1710,11 @@ Physical width
 |-------------|----------|---------|
 | 401-500     | 15       | 44.12%  |
 | 501-600     | 6        | 17.65%  |
-| 301-350     | 5        | 14.71%  |
+| 301-350     | 4        | 11.76%  |
 | Unknown     | 3        | 8.82%   |
 | 1001-1500   | 2        | 5.88%   |
 | 701-800     | 1        | 2.94%   |
+| 351-400     | 1        | 2.94%   |
 | 1501-2000   | 1        | 2.94%   |
 | 901-1000    | 1        | 2.94%   |
 
@@ -1742,8 +1743,8 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 151-200        | 9        | 25.71%  |
-| 141-150        | 8        | 22.86%  |
+| 151-200        | 10       | 28.57%  |
+| 141-150        | 7        | 20%     |
 | 201-250        | 6        | 17.14%  |
 | 301-350        | 4        | 11.43%  |
 | More than 1000 | 3        | 8.57%   |
@@ -1827,12 +1828,12 @@ Controller models
 | Tul Corporation / PowerColor Network controller                   | 1        | 1.41%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 1.41%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.41%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 1        | 1.41%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1        | 1.41%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 1.41%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                           | 1        | 1.41%   |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter          | 1        | 1.41%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.41%   |
+| Realtek 802.11ac WLAN Adapter                                     | 1        | 1.41%   |
 | Realtek 802.11ac NIC                                              | 1        | 1.41%   |
 | Ralink RT5370 Wireless Adapter                                    | 1        | 1.41%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.41%   |
@@ -1889,11 +1890,11 @@ Wireless models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 2        | 8%      |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1        | 4%      |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter        | 1        | 4%      |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                | 1        | 4%      |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                     | 1        | 4%      |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                | 1        | 4%      |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                        | 1        | 4%      |
 | Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter       | 1        | 4%      |
+| Realtek 802.11ac WLAN Adapter                                  | 1        | 4%      |
 | Realtek 802.11ac NIC                                           | 1        | 4%      |
 | Ralink RT5370 Wireless Adapter                                 | 1        | 4%      |
 | Qualcomm Atheros AR9271 802.11n                                | 1        | 4%      |
@@ -2153,41 +2154,42 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s     | 2        | 5.88%   |
-| V-Color RAM TL48G32S8KGRGB16 8GB DIMM DDR4 3200MT/s      | 1        | 2.94%   |
-| Unknown RAM Module 8GB DIMM DDR4 2133MT/s                | 1        | 2.94%   |
-| Unknown RAM Module 8192MB DIMM 1333MT/s                  | 1        | 2.94%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 2.94%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                     | 1        | 2.94%   |
-| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 2.94%   |
-| SK hynix RAM HYMP512U64CP8-Y5 1GB DIMM DDR 1331MT/s      | 1        | 2.94%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s     | 1        | 2.94%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s  | 1        | 2.94%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 1        | 2.94%   |
-| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s     | 1        | 2.94%   |
-| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s      | 1        | 2.94%   |
-| Samsung RAM M378B5673FH0-CF8 2GB DIMM DDR3 1067MT/s      | 1        | 2.94%   |
-| Samsung RAM M378B5673EH1-CH9 2GB DIMM DDR3 1333MT/s      | 1        | 2.94%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s      | 1        | 2.94%   |
-| Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.94%   |
-| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s    | 1        | 2.94%   |
-| Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s         | 1        | 2.94%   |
-| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s          | 1        | 2.94%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 49926MT/s   | 1        | 2.94%   |
-| Nanya RAM NT1GT64U88D0BY-3C 1GB DIMM DDR2 667MT/s        | 1        | 2.94%   |
-| Micron RAM 8KTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s    | 1        | 2.94%   |
-| Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s      | 1        | 2.94%   |
-| Kingston RAM HP497157-D88-ELFWG 2GB DIMM DDR3 1333MT/s   | 1        | 2.94%   |
-| Kingston RAM 9965745-028.A00G 16GB DIMM DDR4 2666MT/s    | 1        | 2.94%   |
-| G.Skill RAM F4-2666C15-4GVR 4GB DIMM DDR4 2933MT/s       | 1        | 2.94%   |
-| Elpida RAM SyncMAX 512MB DIMM DDR 533MT/s                | 1        | 2.94%   |
-| Crucial RAM CT51264BA160B.C16F 4096MB DIMM DDR3 1600MT/s | 1        | 2.94%   |
-| Corsair RAM CMY16GX3M2A1600C9 8GB DIMM DDR3 2133MT/s     | 1        | 2.94%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s    | 1        | 2.94%   |
-| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s    | 1        | 2.94%   |
-| Avant RAM F6428U52E6800F 1024MB DIMM DDR 533MT/s         | 1        | 2.94%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| V-Color RAM TL48G32S8KGRGB16 8GB DIMM DDR4 3200MT/s     | 1        | 2.94%   |
+| Unknown RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 2.94%   |
+| Unknown RAM Module 8192MB DIMM 1333MT/s                 | 1        | 2.94%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                 | 1        | 2.94%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                    | 1        | 2.94%   |
+| SK hynix RAM Module 8192MB DIMM DDR4 2400MT/s           | 1        | 2.94%   |
+| SK hynix RAM HYMP512U64CP8-Y5 1GB DIMM DDR2 1331MT/s    | 1        | 2.94%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4096MB DIMM DDR3 1648MT/s | 1        | 2.94%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 2.94%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1        | 2.94%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 2.94%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4096MB DIMM DDR3 1333MT/s | 1        | 2.94%   |
+| SK hynix RAM HMT325U6CFR8C-PB 2048MB DIMM DDR3 1600MT/s | 1        | 2.94%   |
+| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s     | 1        | 2.94%   |
+| Samsung RAM M378B5673FH0-CF8 2GB DIMM DDR3 1067MT/s     | 1        | 2.94%   |
+| Samsung RAM M378B5673EH1-CH9 2GB DIMM DDR3 1333MT/s     | 1        | 2.94%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s     | 1        | 2.94%   |
+| Samsung RAM M378B5173EB0-YK0 4096MB DIMM DDR3 1600MT/s  | 1        | 2.94%   |
+| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 1        | 2.94%   |
+| Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s        | 1        | 2.94%   |
+| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s         | 1        | 2.94%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s     | 1        | 2.94%   |
+| Nanya RAM NT1GT64U88D0BY-3C 1GB DIMM DDR2 667MT/s       | 1        | 2.94%   |
+| Micron RAM 8KTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s   | 1        | 2.94%   |
+| Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s     | 1        | 2.94%   |
+| Kingston RAM HP497157-D88-ELFWG 2GB DIMM DDR3 1333MT/s  | 1        | 2.94%   |
+| Kingston RAM 9965745-028.A00G 16GB DIMM DDR4 2666MT/s   | 1        | 2.94%   |
+| G.Skill RAM F4-2666C15-4GVR 4GB DIMM DDR4 2933MT/s      | 1        | 2.94%   |
+| Elpida RAM SyncMAX 512MB DIMM DDR 533MT/s               | 1        | 2.94%   |
+| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s   | 1        | 2.94%   |
+| Corsair RAM CMY16GX3M2A1600C9 8192MB DIMM DDR3 2133MT/s | 1        | 2.94%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s   | 1        | 2.94%   |
+| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s   | 1        | 2.94%   |
+| Avant RAM F6428U52E6800F 1024MB DIMM DDR 533MT/s        | 1        | 2.94%   |
 
 Memory Kind
 -----------

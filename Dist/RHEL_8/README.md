@@ -859,13 +859,13 @@ Motherboard manufacture year
 | 2020 | 35        | 19.23%  |
 | 2019 | 32        | 17.58%  |
 | 2018 | 26        | 14.29%  |
-| 2015 | 15        | 8.24%   |
+| 2015 | 16        | 8.79%   |
+| 2012 | 14        | 7.69%   |
 | 2017 | 13        | 7.14%   |
-| 2012 | 13        | 7.14%   |
 | 2021 | 11        | 6.04%   |
-| 2016 | 11        | 6.04%   |
-| 2013 | 8         | 4.4%    |
+| 2016 | 10        | 5.49%   |
 | 2011 | 8         | 4.4%    |
+| 2013 | 7         | 3.85%   |
 | 2014 | 5         | 2.75%   |
 | 2010 | 3         | 1.65%   |
 | 2022 | 1         | 0.55%   |
@@ -1096,14 +1096,13 @@ Geographic location (city)
 | San Jose          | 3         | 1.54%   |
 | Munich            | 3         | 1.54%   |
 | Mexico City       | 3         | 1.54%   |
-| Chennai           | 3         | 1.54%   |
-| Toronto           | 2         | 1.03%   |
 | Montreal          | 2         | 1.03%   |
 | Milan             | 2         | 1.03%   |
 | Kyiv              | 2         | 1.03%   |
 | Didcot            | 2         | 1.03%   |
 | Des Moines        | 2         | 1.03%   |
 | Chicago           | 2         | 1.03%   |
+| Chennai           | 2         | 1.03%   |
 | Berlin            | 2         | 1.03%   |
 | Bengaluru         | 2         | 1.03%   |
 | Zaragoza          | 1         | 0.51%   |
@@ -1112,9 +1111,11 @@ Geographic location (city)
 | Wiesbaden         | 1         | 0.51%   |
 | Webster           | 1         | 0.51%   |
 | Wayne             | 1         | 0.51%   |
+| Wagholi           | 1         | 0.51%   |
 | Vardenis          | 1         | 0.51%   |
 | Vaglio            | 1         | 0.51%   |
 | Udaipur           | 1         | 0.51%   |
+| Toronto           | 1         | 0.51%   |
 | Tiruchi           | 1         | 0.51%   |
 | Temuco            | 1         | 0.51%   |
 | Temara            | 1         | 0.51%   |
@@ -1125,12 +1126,11 @@ Geographic location (city)
 | Suffolk           | 1         | 0.51%   |
 | Stuttgart         | 1         | 0.51%   |
 | Streatham         | 1         | 0.51%   |
+| Stellenbosch      | 1         | 0.51%   |
 | Steamboat Springs | 1         | 0.51%   |
 | Spokane           | 1         | 0.51%   |
 | Sofia             | 1         | 0.51%   |
 | Singapore         | 1         | 0.51%   |
-| Šilalė          | 1         | 0.51%   |
-| Šiauliai         | 1         | 0.51%   |
 
 Drives
 ------
@@ -1217,7 +1217,7 @@ Hard drive models
 | Seagate ST2000DM001-1ER164 2TB  | 2         | 0.64%   |
 | Seagate ST1000LM049-2GH172 1TB  | 2         | 0.64%   |
 | Seagate ST1000DM003-9YN162 1TB  | 2         | 0.64%   |
-| Seagate Expansion 4TB           | 2         | 0.64%   |
+| Seagate Expansion 1TB           | 2         | 0.64%   |
 | Samsung SSD 860 EVO 500GB       | 2         | 0.64%   |
 | Samsung SSD 850 EVO 500GB       | 2         | 0.64%   |
 | Samsung Portable SSD T5 500GB   | 2         | 0.64%   |
@@ -1328,13 +1328,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 69        | 113    | 45.39%  |
-| 0.51-1.0   | 46        | 69     | 30.26%  |
-| 1.01-2.0   | 20        | 25     | 13.16%  |
-| 3.01-4.0   | 11        | 21     | 7.24%   |
-| 4.01-10.0  | 3         | 6      | 1.97%   |
-| 10.01-20.0 | 2         | 4      | 1.32%   |
+| 0.01-0.5   | 69        | 113    | 45.7%   |
+| 0.51-1.0   | 47        | 71     | 31.13%  |
+| 1.01-2.0   | 20        | 25     | 13.25%  |
+| 3.01-4.0   | 9         | 19     | 5.96%   |
+| 4.01-10.0  | 4         | 9      | 2.65%   |
 | 2.01-3.0   | 1         | 1      | 0.66%   |
+| 10.01-20.0 | 1         | 1      | 0.66%   |
 
 Space Total
 -----------
@@ -1565,9 +1565,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 |------|-----------|---------|
 | NVMe | 105       | 45.26%  |
 | SATA | 104       | 44.83%  |
-| RAID | 16        | 6.9%    |
+| RAID | 15        | 6.47%   |
+| SAS  | 4         | 1.72%   |
 | IDE  | 4         | 1.72%   |
-| SAS  | 3         | 1.29%   |
 
 Processor
 ---------
@@ -1991,18 +1991,18 @@ Monitor models
 | Model                                                             | Computers | Percent |
 |-------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch  | 7         | 2.76%   |
-| Lenovo LEN P27u-10 LEN61B0 3840x2160 597x336mm 27.0-inch          | 5         | 1.97%   |
+| Lenovo LEN P27u-10 LEN61B0 3840x2160 600x340mm 27.2-inch          | 5         | 1.97%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch          | 5         | 1.97%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch    | 5         | 1.97%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch    | 5         | 1.97%   |
 | LG Display LCD Monitor LGD0676 1920x1080 309x174mm 14.0-inch      | 3         | 1.18%   |
 | Lenovo TIO24Gen3 LEN10B4 1920x1080 527x296mm 23.8-inch            | 3         | 1.18%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch      | 3         | 1.18%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch          | 3         | 1.18%   |
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                 | 3         | 1.18%   |
-| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                 | 3         | 1.18%   |
+| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                 | 3         | 1.18%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch  | 3         | 1.18%   |
 | BOE LCD Monitor BOE086E 1920x1080 344x194mm 15.5-inch             | 3         | 1.18%   |
-| AU Optronics LCD Monitor AUO323D 1920x1080 309x173mm 13.9-inch    | 3         | 1.18%   |
+| AU Optronics LCD Monitor AUO323D 1920x1080 309x174mm 14.0-inch    | 3         | 1.18%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch | 2         | 0.79%   |
 | Philips PHL 272E1 PHLC210 1920x1080 598x336mm 27.0-inch           | 2         | 0.79%   |
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch           | 2         | 0.79%   |
@@ -2012,14 +2012,14 @@ Monitor models
 | Lenovo LEN T2324pA LEN60C7 1920x1080 509x286mm 23.0-inch          | 2         | 0.79%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch          | 2         | 0.79%   |
 | Iiyama PL4840 IVM1065 1920x1080 1054x593mm 47.6-inch              | 2         | 0.79%   |
-| Hewlett-Packard 27yh HPN351C 1920x1080 598x336mm 27.0-inch        | 2         | 0.79%   |
+| Hewlett-Packard 27yh HPN351C 1920x1080 600x340mm 27.2-inch        | 2         | 0.79%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch            | 2         | 0.79%   |
 | Chimei Innolux LCD Monitor CMN14F5 1920x1080 309x173mm 13.9-inch  | 2         | 0.79%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch   | 2         | 0.79%   |
 | BOE LCD Monitor BOE07C9 1920x1080 309x173mm 13.9-inch             | 2         | 0.79%   |
 | AU Optronics LCD Monitor AUO562D 1920x1080 293x165mm 13.2-inch    | 2         | 0.79%   |
 | AU Optronics LCD Monitor AUO313E 1600x900 309x174mm 14.0-inch     | 2         | 0.79%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch    | 2         | 0.79%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch    | 2         | 0.79%   |
 | ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch     | 1         | 0.39%   |
 | ViewSonic VA2259 Series VSC5E32 1920x1080 476x268mm 21.5-inch     | 1         | 0.39%   |
 | Sun Monitor SUN059A 1920x1200 518x324mm 24.1-inch                 | 1         | 0.39%   |
@@ -2029,7 +2029,7 @@ Monitor models
 | Sharp LCD Monitor SHP143B 3840x2160 346x194mm 15.6-inch           | 1         | 0.39%   |
 | Sharp LCD Monitor SHP1430 3840x2160 350x190mm 15.7-inch           | 1         | 0.39%   |
 | Sceptre Tech Sceptre L24 SPT098C 1920x1080 530x300mm 24.0-inch    | 1         | 0.39%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch | 1         | 0.39%   |
+| Samsung Electronics U28E590 SAM0C4D 1680x1050 610x350mm 27.7-inch | 1         | 0.39%   |
 
 Monitor Resolution
 ------------------
@@ -2074,13 +2074,13 @@ Diagonal size in inches
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
 | 15      | 46        | 19.66%  |
-| 14      | 34        | 14.53%  |
-| 24      | 26        | 11.11%  |
+| 14      | 33        | 14.1%   |
+| 24      | 27        | 11.54%  |
 | 27      | 24        | 10.26%  |
 | 13      | 19        | 8.12%   |
-| 23      | 18        | 7.69%   |
+| 23      | 17        | 7.26%   |
 | Unknown | 14        | 5.98%   |
-| 21      | 10        | 4.27%   |
+| 21      | 11        | 4.7%    |
 | 34      | 7         | 2.99%   |
 | 31      | 6         | 2.56%   |
 | 12      | 5         | 2.14%   |
@@ -2109,9 +2109,9 @@ Physical width
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
-| 301-350     | 94        | 41.41%  |
+| 301-350     | 93        | 40.97%  |
 | 501-600     | 58        | 25.55%  |
-| 401-500     | 18        | 7.93%   |
+| 401-500     | 19        | 8.37%   |
 | Unknown     | 14        | 6.17%   |
 | 601-700     | 11        | 4.85%   |
 | 201-300     | 11        | 4.85%   |
@@ -2147,21 +2147,21 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 81-90          | 47        | 20.35%  |
-| 101-110        | 46        | 19.91%  |
+| 81-90          | 46        | 19.91%  |
 | 201-250        | 45        | 19.48%  |
+| 101-110        | 45        | 19.48%  |
 | 301-350        | 24        | 10.39%  |
 | 351-500        | 15        | 6.49%   |
 | Unknown        | 14        | 6.06%   |
 | 251-300        | 10        | 4.33%   |
+| 151-200        | 7         | 3.03%   |
 | 71-80          | 6         | 2.6%    |
-| 151-200        | 6         | 2.6%    |
 | 501-1000       | 6         | 2.6%    |
 | 61-70          | 5         | 2.16%   |
 | 121-130        | 3         | 1.3%    |
 | More than 1000 | 2         | 0.87%   |
+| 111-120        | 2         | 0.87%   |
 | 141-150        | 1         | 0.43%   |
-| 111-120        | 1         | 0.43%   |
 
 Pixel Density
 -------------
@@ -2173,9 +2173,9 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 121-160       | 86        | 38.22%  |
+| 121-160       | 85        | 37.78%  |
 | 51-100        | 68        | 30.22%  |
-| 101-120       | 36        | 16%     |
+| 101-120       | 37        | 16.44%  |
 | Unknown       | 14        | 6.22%   |
 | 161-240       | 13        | 5.78%   |
 | More than 240 | 4         | 1.78%   |
@@ -2550,9 +2550,9 @@ Controller models
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 0.81%   |
 | Micro Star International Bluetooth Device                                           | 1         | 0.81%   |
 | MediaTek Wireless_Device                                                            | 1         | 0.81%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 0.81%   |
+| Intel Bluetooth Device                                                              | 1         | 0.81%   |
 | IMC Networks BCM20702A0                                                             | 1         | 0.81%   |
-| Foxconn / Hon Hai Wireless_Device                                                   | 1         | 0.81%   |
+| Foxconn / Hon Hai MediaTek Bluetooth Adapter                                        | 1         | 0.81%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 0.81%   |
 | Foxconn / Hon Hai BT                                                                | 1         | 0.81%   |
 | Dell DW375 Bluetooth Module                                                         | 1         | 0.81%   |
@@ -2587,17 +2587,18 @@ Sound card vendors
 | Generalplus Technology    | 3         | 1.02%   |
 | Creative Technology       | 3         | 1.02%   |
 | Creative Labs             | 3         | 1.02%   |
-| Sennheiser Communications | 2         | 0.68%   |
 | Realtek Semiconductor     | 2         | 0.68%   |
 | Logitech                  | 2         | 0.68%   |
 | C-Media Electronics       | 2         | 0.68%   |
 | Tenx Technology           | 1         | 0.34%   |
 | SteelSeries ApS           | 1         | 0.34%   |
+| Sennheiser Communications | 1         | 0.34%   |
 | RODE Microphones          | 1         | 0.34%   |
 | Google                    | 1         | 0.34%   |
 | Giga-Byte Technology      | 1         | 0.34%   |
 | Focusrite-Novation        | 1         | 0.34%   |
 | Dynex                     | 1         | 0.34%   |
+| DSEA A/S                  | 1         | 0.34%   |
 | Dell                      | 1         | 0.34%   |
 | Corsair                   | 1         | 0.34%   |
 | Blue Microphones          | 1         | 0.34%   |
@@ -2832,14 +2833,14 @@ Printer device models
 ![Printer Model](./All/images/pie_chart/printer_model.svg)
 
 
-| Model                              | Computers | Percent |
-|------------------------------------|-----------|---------|
-| HP LaserJet Professional P 1102w   | 1         | 16.67%  |
-| HP ENVY 4500 series                | 1         | 16.67%  |
-| HP DeskJet 2620 All-in-One Printer | 1         | 16.67%  |
-| Canon LiDE 300                     | 1         | 16.67%  |
-| Canon E560 series                  | 1         | 16.67%  |
-| Brother DCP-1610W                  | 1         | 16.67%  |
+| Model                            | Computers | Percent |
+|----------------------------------|-----------|---------|
+| HP LaserJet Professional P 1102w | 1         | 16.67%  |
+| HP ENVY 4500 series              | 1         | 16.67%  |
+| HP DeskJet 2600 series           | 1         | 16.67%  |
+| Canon LiDE 300                   | 1         | 16.67%  |
+| Canon E560 series                | 1         | 16.67%  |
+| Brother DCP-1610W                | 1         | 16.67%  |
 
 Scanner Vendor
 --------------
@@ -2871,10 +2872,10 @@ Camera device vendors
 | Chicony Electronics                    | 40        | 28.99%  |
 | IMC Networks                           | 19        | 13.77%  |
 | Realtek Semiconductor                  | 10        | 7.25%   |
-| Acer                                   | 10        | 7.25%   |
 | Logitech                               | 9         | 6.52%   |
+| Bison Electronics                      | 9         | 6.52%   |
+| Acer                                   | 8         | 5.8%    |
 | Microdia                               | 7         | 5.07%   |
-| Bison Electronics                      | 7         | 5.07%   |
 | Sunplus Innovation Technology          | 6         | 4.35%   |
 | Hopewin Electronic Material            | 4         | 2.9%    |
 | Suyin                                  | 3         | 2.17%   |
@@ -2907,8 +2908,8 @@ Camera device models
 | Chicony Integrated Camera                         | 21        | 15.11%  |
 | IMC Networks Integrated Camera                    | 17        | 12.23%  |
 | Realtek Integrated_Webcam_HD                      | 7         | 5.04%   |
-| Acer Integrated Camera                            | 6         | 4.32%   |
 | Bison SunplusIT Integrated Camera                 | 5         | 3.6%    |
+| Acer Integrated Camera                            | 5         | 3.6%    |
 | Logitech HD Pro Webcam C920                       | 4         | 2.88%   |
 | Hopewin Electronic Material FULL HD 1080P Webcam  | 4         | 2.88%   |
 | Chicony Integrated Camera (1280x720@30)           | 4         | 2.88%   |
@@ -2917,13 +2918,13 @@ Camera device models
 | Lite-On Integrated Camera                         | 3         | 2.16%   |
 | Chicony ThinkPad T490 Webcam                      | 3         | 2.16%   |
 | Chicony HP HD Camera                              | 3         | 2.16%   |
+| Bison Integrated Camera                           | 3         | 2.16%   |
 | Ruision UVC Camera                                | 2         | 1.44%   |
 | Microdia Webcam                                   | 2         | 1.44%   |
 | Microdia Integrated Webcam                        | 2         | 1.44%   |
 | IMC Networks USB2.0 HD UVC WebCam                 | 2         | 1.44%   |
 | Generalplus GENERAL WEBCAM                        | 2         | 1.44%   |
 | Chicony Integrated Camera [ThinkPad]              | 2         | 1.44%   |
-| Bison Integrated Camera                           | 2         | 1.44%   |
 | Acer Integrated IR Camera                         | 2         | 1.44%   |
 | Syntek Lenovo EasyCamera                          | 1         | 0.72%   |
 | Suyin RGBIR Camera                                | 1         | 0.72%   |

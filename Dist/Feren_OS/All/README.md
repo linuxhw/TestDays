@@ -737,14 +737,14 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2017 | 13        | 14.61%  |
+| 2017 | 12        | 13.48%  |
 | 2011 | 10        | 11.24%  |
 | 2013 | 9         | 10.11%  |
 | 2012 | 9         | 10.11%  |
 | 2019 | 7         | 7.87%   |
+| 2016 | 7         | 7.87%   |
 | 2014 | 7         | 7.87%   |
 | 2018 | 6         | 6.74%   |
-| 2016 | 6         | 6.74%   |
 | 2021 | 5         | 5.62%   |
 | 2009 | 5         | 5.62%   |
 | 2020 | 4         | 4.49%   |
@@ -973,6 +973,7 @@ Geographic location (city)
 | Tegucigalpa    | 1         | 1.05%   |
 | Surat          | 1         | 1.05%   |
 | Stuttgart      | 1         | 1.05%   |
+| Sterling       | 1         | 1.05%   |
 | Stavanger      | 1         | 1.05%   |
 | Sligo          | 1         | 1.05%   |
 | Seattle        | 1         | 1.05%   |
@@ -997,7 +998,6 @@ Geographic location (city)
 | Lineville      | 1         | 1.05%   |
 | Lima           | 1         | 1.05%   |
 | Lancefield     | 1         | 1.05%   |
-| Lafayette      | 1         | 1.05%   |
 
 Drives
 ------
@@ -1048,7 +1048,7 @@ Hard drive models
 
 | Model                              | Computers | Percent |
 |------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 249GB        | 3         | 2.04%   |
+| Unknown SD/MMC/MS PRO 64GB         | 3         | 2.04%   |
 | Unknown MMC Card  32GB             | 2         | 1.36%   |
 | Seagate ST500LT012-9WS142 500GB    | 2         | 1.36%   |
 | Seagate ST4000LM016-1N2170 4TB     | 2         | 1.36%   |
@@ -1851,7 +1851,7 @@ Monitor models
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor U28E590                               | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor SDC4161 1920x1080 344x194mm 15.5-inch | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch  | 1         | 1.05%   |
@@ -1865,7 +1865,7 @@ Monitor models
 | Philips 220EW PHL0861 1680x1050 434x270mm 20.1-inch                   | 1         | 1.05%   |
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.05%   |
 | Panasonic TV MEIC301 1920x1080 698x392mm 31.5-inch                    | 1         | 1.05%   |
-| Onkyo TX-NR535 ONK0E51 2560x1440 597x336mm 27.0-inch                  | 1         | 1.05%   |
+| Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                  | 1         | 1.05%   |
 | Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1         | 1.05%   |
 | LG Electronics LCD Monitor MP59HT 1920x1080                           | 1         | 1.05%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch          | 1         | 1.05%   |
@@ -1878,7 +1878,7 @@ Monitor models
 | LG Display LCD Monitor LGD02F1 1366x768 344x194mm 15.5-inch           | 1         | 1.05%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 1         | 1.05%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch           | 1         | 1.05%   |
-| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1         | 1.05%   |
+| Lenovo LEN L171 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1         | 1.05%   |
 
 Monitor Resolution
 ------------------
@@ -2142,13 +2142,13 @@ Wireless vendors
 | Intel                           | 22        | 30.56%  |
 | Realtek Semiconductor           | 14        | 19.44%  |
 | Qualcomm Atheros                | 9         | 12.5%   |
-| TP-Link                         | 4         | 5.56%   |
 | Ralink                          | 4         | 5.56%   |
 | Broadcom                        | 4         | 5.56%   |
+| TP-Link                         | 3         | 4.17%   |
 | Ralink Technology               | 3         | 4.17%   |
 | MediaTek                        | 3         | 4.17%   |
+| Sierra Wireless                 | 2         | 2.78%   |
 | Linksys                         | 2         | 2.78%   |
-| Sierra Wireless                 | 1         | 1.39%   |
 | Qualcomm Atheros Communications | 1         | 1.39%   |
 | NetGear                         | 1         | 1.39%   |
 | Marvell Technology Group        | 1         | 1.39%   |
@@ -2177,7 +2177,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 2         | 2.78%   |
 | Broadcom BCM43142 802.11b/g/n                                                                 | 2         | 2.78%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1         | 1.39%   |
-| TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1         | 1.39%   |
+| Sierra Wireless EM7345 4G LTE                                                                 | 1         | 1.39%   |
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 1.39%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.39%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.39%   |
@@ -2222,7 +2222,7 @@ Ethernet vendors
 | Broadcom              | 8         | 9.52%   |
 | Qualcomm Atheros      | 4         | 4.76%   |
 | Nvidia                | 2         | 2.38%   |
-| Sierra Wireless       | 1         | 1.19%   |
+| TP-Link               | 1         | 1.19%   |
 | Research In Motion    | 1         | 1.19%   |
 | Qualcomm              | 1         | 1.19%   |
 | Motorola PCS          | 1         | 1.19%   |
@@ -2247,15 +2247,15 @@ Ethernet models
 | Intel Ethernet Connection I218-LM                                 | 2         | 2.35%   |
 | Intel 82579V Gigabit Network Connection                           | 2         | 2.35%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 2.35%   |
-| Sierra Wireless EM7345 4G LTE                                     | 1         | 1.18%   |
+| TP-Link Archer T2U PLUS [RTL8821AU]                               | 1         | 1.18%   |
 | Research In Motion BlackBerry                                     | 1         | 1.18%   |
 | Realtek Killer E3000 2.5GbE Controller                            | 1         | 1.18%   |
-| Qualcomm Nokia XR20                                               | 1         | 1.18%   |
+| Qualcomm Fairphone 4 5G                                           | 1         | 1.18%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.18%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.18%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 1.18%   |
 | Nvidia MCP55 Ethernet                                             | 1         | 1.18%   |
-| Motorola PCS motorola razr 2022                                   | 1         | 1.18%   |
+| Motorola PCS moto g(40) fusion                                    | 1         | 1.18%   |
 | Microsoft RTL8153 GigE [Surface Ethernet Adapter]                 | 1         | 1.18%   |
 | Intel WiMAX Connection 2400m                                      | 1         | 1.18%   |
 | Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 1.18%   |
@@ -2373,14 +2373,13 @@ Controller models
 | Intel AX200 Bluetooth                               | 3         | 6.12%   |
 | IMC Networks Wireless_Device                        | 3         | 6.12%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 2         | 4.08%   |
+| Realtek Bluetooth Radio                             | 2         | 4.08%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 4.08%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 2         | 4.08%   |
 | Apple Bluetooth Host Controller                     | 2         | 4.08%   |
 | Realtek Bluetooth Radio                             | 1         | 2.04%   |
-| Realtek Bluetooth Radio                             | 1         | 2.04%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 2.04%   |
 | Ralink RT3290 Bluetooth                             | 1         | 2.04%   |
-| Qualcomm Atheros  Bluetooth Device                  | 1         | 2.04%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 2.04%   |
 | Marvell Bluetooth and Wireless LAN Composite Device | 1         | 2.04%   |
 | Lite-On Bluetooth Device                            | 1         | 2.04%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 2.04%   |
@@ -2520,10 +2519,10 @@ Memory module models
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s             | 1         | 3.13%   |
 | Micron RAM Module 2048MB Row Of Chips DDR3 1600MT/s            | 1         | 3.13%   |
 | Micron RAM 8JTF5126 4HZ1G6D 1 4GB SODIMM DDR3 1600MT/s         | 1         | 3.13%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8192MB SODIMM DDR3 1600MT/s       | 1         | 3.13%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s          | 1         | 3.13%   |
 | Kingston RAM MSI24D4S7D8MH-16 16384MB SODIMM DDR4 2400MT/s     | 1         | 3.13%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
-| Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s         | 1         | 3.13%   |
+| Kingston RAM ASU16D3LS1KBG/4G 4096MB SODIMM DDR3 1600MT/s      | 1         | 3.13%   |
 | HP RAM 7EH65AA# 16384MB DIMM DDR4 2666MT/s                     | 1         | 3.13%   |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s           | 1         | 3.13%   |
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1         | 3.13%   |
@@ -2532,7 +2531,7 @@ Memory module models
 | Crucial RAM CT51264BF160BJ.C8F 4GB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s      | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1         | 3.13%   |
-| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3000MT/s                   | 1         | 3.13%   |
+| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3600MT/s                   | 1         | 3.13%   |
 | A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
 
 Memory Kind
@@ -2594,8 +2593,8 @@ Memory module speed
 | 3200  | 4         | 14.81%  |
 | 2400  | 3         | 11.11%  |
 | 1867  | 2         | 7.41%   |
+| 3600  | 1         | 3.7%    |
 | 3400  | 1         | 3.7%    |
-| 3000  | 1         | 3.7%    |
 | 2667  | 1         | 3.7%    |
 | 2666  | 1         | 3.7%    |
 | 2133  | 1         | 3.7%    |
@@ -2632,7 +2631,7 @@ Printer device models
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
 | Star Micronics TUP592 (STR_T-001) | 1         | 14.29%  |
-| HP Laser 107w                     | 1         | 14.29%  |
+| HP Laser 107a                     | 1         | 14.29%  |
 | HP ENVY 5000 series               | 1         | 14.29%  |
 | Canon PIXMA MX490 Series          | 1         | 14.29%  |
 | Canon G3000 series                | 1         | 14.29%  |
@@ -2679,13 +2678,12 @@ Camera device vendors
 | Chicony Electronics                    | 10        | 18.52%  |
 | IMC Networks                           | 8         | 14.81%  |
 | Realtek Semiconductor                  | 4         | 7.41%   |
+| Bison Electronics                      | 4         | 7.41%   |
 | Apple                                  | 4         | 7.41%   |
 | Sunplus Innovation Technology          | 3         | 5.56%   |
 | Logitech                               | 3         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 5.56%   |
-| Bison Electronics                      | 3         | 5.56%   |
 | Microsoft                              | 2         | 3.7%    |
-| Acer                                   | 2         | 3.7%    |
 | Z-Star Microelectronics                | 1         | 1.85%   |
 | Samsung Electronics                    | 1         | 1.85%   |
 | Pixart Imaging                         | 1         | 1.85%   |
@@ -2698,6 +2696,7 @@ Camera device vendors
 | Cubeternet                             | 1         | 1.85%   |
 | ARC International                      | 1         | 1.85%   |
 | Alcor Micro                            | 1         | 1.85%   |
+| Acer                                   | 1         | 1.85%   |
 
 Camera Model
 ------------
@@ -2707,48 +2706,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                                      | Computers | Percent |
-|----------------------------------------------------------------------------|-----------|---------|
-| IMC Networks USB2.0 HD UVC WebCam                                          | 4         | 7.41%   |
-| IMC Networks USB2.0 VGA UVC WebCam                                         | 2         | 3.7%    |
-| Chicony Integrated Camera                                                  | 2         | 3.7%    |
-| Bison Lenovo EasyCamera                                                    | 2         | 3.7%    |
-| Apple Built-in iSight                                                      | 2         | 3.7%    |
-| Z-Star Integrated Camera                                                   | 1         | 1.85%   |
-| Sunplus Integrated_Webcam_HD                                               | 1         | 1.85%   |
-| Sunplus HP HD Webcam [Fixed]                                               | 1         | 1.85%   |
-| Sunplus Asus Webcam                                                        | 1         | 1.85%   |
-| Samsung Galaxy series, misc. (MTP mode)                                    | 1         | 1.85%   |
-| Realtek USB Camera                                                         | 1         | 1.85%   |
-| Realtek Integrated_Webcam_HD                                               | 1         | 1.85%   |
-| Realtek HP Wide Vision HD Camera                                           | 1         | 1.85%   |
-| Realtek HD WebCam                                                          | 1         | 1.85%   |
-| Pixart Imaging GE 1.3 MP MiniCam Pro                                       | 1         | 1.85%   |
-| Novatek DEMO1                                                              | 1         | 1.85%   |
-| Microsoft LifeCam VX-5000                                                  | 1         | 1.85%   |
-| Microsoft LifeCam VX-500 [1357]                                            | 1         | 1.85%   |
-| Microdia Integrated Webcam                                                 | 1         | 1.85%   |
-| Logitech Webcam C270                                                       | 1         | 1.85%   |
-| Logitech Webcam C250                                                       | 1         | 1.85%   |
-| Logitech QuickCam Communicate MP/S5500                                     | 1         | 1.85%   |
-| Lite-On Integrated Camera                                                  | 1         | 1.85%   |
-| IMC Networks USB2.0 UVC HD Webcam                                          | 1         | 1.85%   |
-| IMC Networks ov9734_azurewave_camera                                       | 1         | 1.85%   |
-| Huawei HiCamera                                                            | 1         | 1.85%   |
-| Generalplus 808 Camera                                                     | 1         | 1.85%   |
-| GEMBIRD USB2.0 PC CAMERA                                                   | 1         | 1.85%   |
-| Cubeternet GL-UPC822 UVC WebCam                                            | 1         | 1.85%   |
-| Chicony WebCam                                                             | 1         | 1.85%   |
-| Chicony USB2.0 HD UVC WebCam                                               | 1         | 1.85%   |
-| Chicony USB 2.0 Camera                                                     | 1         | 1.85%   |
-| Chicony Sony Visual Communication Camera                                   | 1         | 1.85%   |
-| Chicony Integrated Camera (1280x720@30)                                    | 1         | 1.85%   |
-| Chicony HP Wide Vision HD Camera                                           | 1         | 1.85%   |
-| Chicony HD WebCam                                                          | 1         | 1.85%   |
-| Chicony FJ Camera                                                          | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP Truevision HD                    | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Webcam                        | 1         | 1.85%   |
+| Model                                                           | Computers | Percent |
+|-----------------------------------------------------------------|-----------|---------|
+| IMC Networks USB2.0 HD UVC WebCam                               | 4         | 7.41%   |
+| Bison Lenovo EasyCamera                                         | 3         | 5.56%   |
+| IMC Networks USB2.0 VGA UVC WebCam                              | 2         | 3.7%    |
+| Chicony Integrated Camera                                       | 2         | 3.7%    |
+| Apple Built-in iSight                                           | 2         | 3.7%    |
+| Z-Star Integrated Camera                                        | 1         | 1.85%   |
+| Sunplus Integrated_Webcam_HD                                    | 1         | 1.85%   |
+| Sunplus HP HD Webcam [Fixed]                                    | 1         | 1.85%   |
+| Sunplus Asus Webcam                                             | 1         | 1.85%   |
+| Samsung Galaxy series, misc. (MTP mode)                         | 1         | 1.85%   |
+| Realtek USB Camera                                              | 1         | 1.85%   |
+| Realtek Integrated_Webcam_HD                                    | 1         | 1.85%   |
+| Realtek HP Wide Vision HD Camera                                | 1         | 1.85%   |
+| Realtek HD WebCam                                               | 1         | 1.85%   |
+| Pixart Imaging GE 1.3 MP MiniCam Pro                            | 1         | 1.85%   |
+| Novatek DEMO1                                                   | 1         | 1.85%   |
+| Microsoft LifeCam VX-5000                                       | 1         | 1.85%   |
+| Microsoft LifeCam VX-500 [1357]                                 | 1         | 1.85%   |
+| Microdia Integrated Webcam                                      | 1         | 1.85%   |
+| Logitech Webcam C270                                            | 1         | 1.85%   |
+| Logitech Webcam C250                                            | 1         | 1.85%   |
+| Logitech QuickCam Communicate MP/S5500                          | 1         | 1.85%   |
+| Lite-On Integrated Camera                                       | 1         | 1.85%   |
+| IMC Networks USB2.0 UVC HD Webcam                               | 1         | 1.85%   |
+| IMC Networks ov9734_azurewave_camera                            | 1         | 1.85%   |
+| Huawei UVC Camera                                               | 1         | 1.85%   |
+| Generalplus 808 Camera #9 (web-cam mode)                        | 1         | 1.85%   |
+| GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311]               | 1         | 1.85%   |
+| Cubeternet GL-UPC822 UVC WebCam                                 | 1         | 1.85%   |
+| Chicony WebCam                                                  | 1         | 1.85%   |
+| Chicony USB2.0 HD UVC WebCam                                    | 1         | 1.85%   |
+| Chicony USB 2.0 Camera                                          | 1         | 1.85%   |
+| Chicony Sony Visual Communication Camera                        | 1         | 1.85%   |
+| Chicony Integrated Camera (1280x720@30)                         | 1         | 1.85%   |
+| Chicony HP Wide Vision HD Camera                                | 1         | 1.85%   |
+| Chicony HD WebCam                                               | 1         | 1.85%   |
+| Chicony FJ Camera                                               | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP Truevision HD         | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) HP HD Webcam             | 1         | 1.85%   |
 
 Security
 --------
@@ -2797,7 +2796,7 @@ Chipcard module vendors
 | OmniKey           | 1         | 25%     |
 | Mako Technologies | 1         | 25%     |
 | Broadcom          | 1         | 25%     |
-| Bit4id            | 1         | 25%     |
+| BIT4ID            | 1         | 25%     |
 
 Chipcard Model
 --------------
@@ -2812,7 +2811,7 @@ Chipcard module models
 | OmniKey CardMan 4321          | 1         | 25%     |
 | Mako Technologies SZZCS-ZCS80 | 1         | 25%     |
 | Broadcom 5880                 | 1         | 25%     |
-| Bit4id miniLector EVO         | 1         | 25%     |
+| BIT4ID miniLector EVO         | 1         | 25%     |
 
 Unsupported
 -----------
@@ -2827,9 +2826,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 69        | 75%     |
-| 1     | 20        | 21.74%  |
-| 2     | 3         | 3.26%   |
+| 0     | 67        | 72.83%  |
+| 1     | 21        | 22.83%  |
+| 2     | 4         | 4.35%   |
 
 Unsupported Device Types
 ------------------------
@@ -2841,12 +2840,12 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Graphics card         | 6         | 24%     |
-| Fingerprint reader    | 6         | 24%     |
-| Net/wireless          | 5         | 20%     |
-| Chipcard              | 3         | 12%     |
-| Multimedia controller | 2         | 8%      |
-| Sound                 | 1         | 4%      |
-| Net/ethernet          | 1         | 4%      |
-| Bluetooth             | 1         | 4%      |
+| Graphics card         | 9         | 32.14%  |
+| Fingerprint reader    | 6         | 21.43%  |
+| Net/wireless          | 5         | 17.86%  |
+| Chipcard              | 3         | 10.71%  |
+| Multimedia controller | 2         | 7.14%   |
+| Sound                 | 1         | 3.57%   |
+| Net/ethernet          | 1         | 3.57%   |
+| Bluetooth             | 1         | 3.57%   |
 

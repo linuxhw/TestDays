@@ -1615,7 +1615,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.89%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
-| OnePlus (Shenzhen) OnePlus                                        | 1         | 1.89%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:5A38C392                        | 1         | 1.89%   |
 | NetGear A6150                                                     | 1         | 1.89%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.89%   |
@@ -1818,20 +1818,20 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                            | Computers | Percent |
-|--------------------------------------------------|-----------|---------|
-| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
-| Intel Bluetooth wireless interface               | 2         | 13.33%  |
-| Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
-| Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
-| Realtek Bluetooth Radio                          | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
-| Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
-| Intel AX200 Bluetooth                            | 1         | 6.67%   |
-| Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
+| Model                                      | Computers | Percent |
+|--------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface         | 2         | 13.33%  |
+| Intel Bluetooth Device                     | 2         | 13.33%  |
+| Apple Bluetooth USB Host Controller        | 2         | 13.33%  |
+| Toshiba RT Bluetooth Radio                 | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 6.67%   |
+| Realtek Bluetooth Radio                    | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth          | 1         | 6.67%   |
+| Qualcomm Atheros AR3011 Bluetooth          | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 6.67%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter   | 1         | 6.67%   |
+| Intel AX200 Bluetooth                      | 1         | 6.67%   |
+| Broadcom BCM20702A0 Bluetooth 4.0          | 1         | 6.67%   |
 
 Sound
 -----
@@ -2128,7 +2128,7 @@ Chipcard module vendors
 |--------|-----------|---------|
 | Upek   | 1         | 33.33%  |
 | Lenovo | 1         | 33.33%  |
-| Bit4id | 1         | 33.33%  |
+| BIT4ID | 1         | 33.33%  |
 
 Chipcard Model
 --------------
@@ -2142,7 +2142,7 @@ Chipcard module models
 |------------------------------------------------------------|-----------|---------|
 | Upek TouchChip Fingerprint Coprocessor (WBF advanced mode) | 1         | 33.33%  |
 | Lenovo Integrated Smart Card Reader                        | 1         | 33.33%  |
-| Bit4id miniLector EVO                                      | 1         | 33.33%  |
+| BIT4ID miniLector EVO                                      | 1         | 33.33%  |
 
 Unsupported
 -----------

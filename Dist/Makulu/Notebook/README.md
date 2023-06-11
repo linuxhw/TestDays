@@ -606,8 +606,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 10        | 55.56%  |
-| No        | 8         | 44.44%  |
+| Yes       | 9         | 50%     |
+| No        | 9         | 50%     |
 
 Has Ethernet
 ------------
@@ -741,11 +741,11 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 8.33%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 8.33%   |
-| Unknown SD/MMC/MS PRO 249GB          | 1         | 4.17%   |
+| Unknown SD/MMC/MS PRO 64GB           | 1         | 4.17%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.17%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.17%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.17%   |
-| Seagate Expansion Desk 8TB           | 1         | 4.17%   |
+| Seagate Expansion Desk 4TB           | 1         | 4.17%   |
 | SanDisk SSD U110 128GB               | 1         | 4.17%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 4.17%   |
 | SanDisk NVMe SSD Drive 512GB         | 1         | 4.17%   |
@@ -836,7 +836,7 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 11        | 17     | 68.75%  |
 | 0.51-1.0   | 4         | 4      | 25%     |
-| 4.01-10.0  | 1         | 1      | 6.25%   |
+| 3.01-4.0   | 1         | 1      | 6.25%   |
 
 Space Total
 -----------
@@ -1273,8 +1273,8 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | Sharp LQ116M1JW02 SHP1440 1920x1080 256x144mm 11.6-inch                  | 1         | 5.56%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 5.56%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 5.56%   |
-| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 5.56%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 5.56%   |
+| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 5.56%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 5.56%   |
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 5.56%   |
 | LG Display LCD Monitor LGD04DA 1920x1080 344x194mm 15.5-inch             | 1         | 5.56%   |

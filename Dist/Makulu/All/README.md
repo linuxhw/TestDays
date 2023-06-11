@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 73
+Total: 74
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Hampoo        | I1D6_C109S_Hi10Pro          | Tablet      | [55046e008f](https://linux-hardware.org/?probe=55046e008f) | May 11, 2023 |
 | Fujitsu       | STYLISTIC Q665              | Notebook    | [438b08fb3d](https://linux-hardware.org/?probe=438b08fb3d) | Mar 06, 2023 |
 | HUAWEI        | MateBook X                  | Notebook    | [cae415dee6](https://linux-hardware.org/?probe=cae415dee6) | Feb 20, 2023 |
 | HUAWEI        | MateBook X                  | Notebook    | [6fed527c1b](https://linux-hardware.org/?probe=6fed527c1b) | Feb 20, 2023 |
@@ -752,8 +753,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 26        | 55.32%  |
-| No        | 21        | 44.68%  |
+| Yes       | 25        | 53.19%  |
+| No        | 22        | 46.81%  |
 
 Has Ethernet
 ------------
@@ -928,7 +929,7 @@ Hard drive models
 | Unknown MMC Card  128GB                      | 2         | 2.67%   |
 | Toshiba MQ01ABD100 1TB                       | 2         | 2.67%   |
 | Seagate ST500LT012-1DG142 500GB              | 2         | 2.67%   |
-| Seagate ST1000LM035-1RK172 970GB             | 2         | 2.67%   |
+| Seagate ST1000LM035-1RK172 1TB               | 2         | 2.67%   |
 | SanDisk SSD PLUS 1000GB                      | 2         | 2.67%   |
 | SanDisk NVMe SSD Drive 500GB                 | 2         | 2.67%   |
 | Samsung NVMe SSD Drive 1TB                   | 2         | 2.67%   |
@@ -939,7 +940,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.33%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.33%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.33%   |
-| Unknown SD/MMC/MS PRO 249GB                  | 1         | 1.33%   |
+| Unknown SD/MMC/MS PRO 64GB                   | 1         | 1.33%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.33%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.33%   |
 | Toshiba MQ01ABF050M 500GB                    | 1         | 1.33%   |
@@ -955,7 +956,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                     | 1         | 1.33%   |
 | Seagate ST250DM000-1BD141 250GB              | 1         | 1.33%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 1.33%   |
-| Seagate Expansion Desk 8TB                   | 1         | 1.33%   |
+| Seagate Expansion Desk 4TB                   | 1         | 1.33%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1         | 1.33%   |
 | SanDisk SSD U110 128GB                       | 1         | 1.33%   |
 | SanDisk SSD PLUS 480GB                       | 1         | 1.33%   |
@@ -976,15 +977,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 13        | 16     | 43.33%  |
-| WDC                 | 5         | 7      | 16.67%  |
-| Toshiba             | 4         | 4      | 13.33%  |
-| Hitachi             | 3         | 3      | 10%     |
-| Unknown             | 1         | 1      | 3.33%   |
-| Samsung Electronics | 1         | 1      | 3.33%   |
-| Maxtor              | 1         | 1      | 3.33%   |
-| JMicron Technology  | 1         | 1      | 3.33%   |
-| HGST                | 1         | 1      | 3.33%   |
+| Seagate             | 13        | 16     | 44.83%  |
+| WDC                 | 5         | 7      | 17.24%  |
+| Toshiba             | 4         | 4      | 13.79%  |
+| Hitachi             | 3         | 3      | 10.34%  |
+| Unknown             | 1         | 1      | 3.45%   |
+| Samsung Electronics | 1         | 1      | 3.45%   |
+| Maxtor              | 1         | 1      | 3.45%   |
+| HGST                | 1         | 1      | 3.45%   |
 
 SSD Vendor
 ----------
@@ -996,23 +996,24 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 5         | 7      | 19.23%  |
-| SanDisk             | 4         | 4      | 15.38%  |
-| Kingston            | 3         | 4      | 11.54%  |
-| WDC                 | 1         | 1      | 3.85%   |
-| Transcend           | 1         | 1      | 3.85%   |
-| Seagate             | 1         | 1      | 3.85%   |
-| Origin              | 1         | 1      | 3.85%   |
-| Micron Technology   | 1         | 1      | 3.85%   |
-| LITEONIT            | 1         | 1      | 3.85%   |
-| LITEON              | 1         | 2      | 3.85%   |
-| Leven               | 1         | 1      | 3.85%   |
-| Intenso             | 1         | 1      | 3.85%   |
-| Crucial             | 1         | 1      | 3.85%   |
-| China               | 1         | 1      | 3.85%   |
-| ASMT                | 1         | 1      | 3.85%   |
-| Apple               | 1         | 1      | 3.85%   |
-| A-DATA Technology   | 1         | 1      | 3.85%   |
+| Samsung Electronics | 5         | 7      | 18.52%  |
+| SanDisk             | 4         | 4      | 14.81%  |
+| Kingston            | 3         | 4      | 11.11%  |
+| WDC                 | 1         | 1      | 3.7%    |
+| Transcend           | 1         | 1      | 3.7%    |
+| Seagate             | 1         | 1      | 3.7%    |
+| Origin              | 1         | 1      | 3.7%    |
+| Micron Technology   | 1         | 1      | 3.7%    |
+| LITEONIT            | 1         | 1      | 3.7%    |
+| LITEON              | 1         | 2      | 3.7%    |
+| Leven               | 1         | 1      | 3.7%    |
+| JMicron Technology  | 1         | 1      | 3.7%    |
+| Intenso             | 1         | 1      | 3.7%    |
+| Crucial             | 1         | 1      | 3.7%    |
+| China               | 1         | 1      | 3.7%    |
+| ASMT                | 1         | 1      | 3.7%    |
+| Apple               | 1         | 1      | 3.7%    |
+| A-DATA Technology   | 1         | 1      | 3.7%    |
 
 Drive Kind
 ----------
@@ -1024,11 +1025,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 26        | 35     | 41.94%  |
-| SSD     | 22        | 30     | 35.48%  |
-| NVMe    | 9         | 13     | 14.52%  |
-| Unknown | 3         | 3      | 4.84%   |
-| MMC     | 2         | 2      | 3.23%   |
+| HDD     | 26        | 34     | 41.27%  |
+| SSD     | 23        | 31     | 36.51%  |
+| NVMe    | 9         | 13     | 14.29%  |
+| Unknown | 3         | 3      | 4.76%   |
+| MMC     | 2         | 2      | 3.17%   |
 
 Drive Connector
 ---------------
@@ -1055,10 +1056,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 31        | 45     | 63.27%  |
-| 0.51-1.0   | 16        | 18     | 32.65%  |
-| 1.01-2.0   | 1         | 1      | 2.04%   |
-| 4.01-10.0  | 1         | 1      | 2.04%   |
+| 0.01-0.5   | 31        | 46     | 64.58%  |
+| 0.51-1.0   | 15        | 17     | 31.25%  |
+| 3.01-4.0   | 1         | 1      | 2.08%   |
+| 1.01-2.0   | 1         | 1      | 2.08%   |
 
 Space Total
 -----------
@@ -1656,8 +1657,8 @@ Monitor models
 | Sharp LQ116M1JW02 SHP1440 1920x1080 256x144mm 11.6-inch                  | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SMS27A850T 2560x1440                     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 2.17%   |
 | Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch                       | 1         | 2.17%   |
 | LG Electronics LCD Monitor LG IPS FULLHD                                 | 1         | 2.17%   |
@@ -2472,10 +2473,10 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 2         | 28.57%  |
-| Network               | 1         | 14.29%  |
-| Net/wireless          | 1         | 14.29%  |
-| Multimedia controller | 1         | 14.29%  |
-| Graphics card         | 1         | 14.29%  |
-| Chipcard              | 1         | 14.29%  |
+| Multimedia controller | 2         | 25%     |
+| Fingerprint reader    | 2         | 25%     |
+| Network               | 1         | 12.5%   |
+| Net/wireless          | 1         | 12.5%   |
+| Graphics card         | 1         | 12.5%   |
+| Chipcard              | 1         | 12.5%   |
 

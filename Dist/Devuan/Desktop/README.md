@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 72
+Total: 73
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | 3138 SDK0J40697 WIN 3305... | [36022cb1ac](https://linux-hardware.org/?probe=36022cb1ac) | May 11, 2023 |
 | MSI           | B450M PRO-VDH PLUS          | [5e6b796278](https://linux-hardware.org/?probe=5e6b796278) | Apr 24, 2023 |
 | HP            | 212A                        | [178f3b9c05](https://linux-hardware.org/?probe=178f3b9c05) | Apr 17, 2023 |
 | Lenovo        | 3138 SDK0J40697 WIN 3305... | [491da3c2c2](https://linux-hardware.org/?probe=491da3c2c2) | Apr 10, 2023 |
@@ -274,46 +275,46 @@ Version of the Linux kernel
 
 | Version               | Desktops | Percent |
 |-----------------------|----------|---------|
-| 5.10.0-9-amd64        | 6        | 9.84%   |
-| 5.10.0-21-amd64       | 4        | 6.56%   |
-| 4.19.0-14-amd64       | 4        | 6.56%   |
-| 4.19.0-16-amd64       | 3        | 4.92%   |
-| 5.10.0-8-amd64        | 2        | 3.28%   |
-| 5.10.0-6-amd64        | 2        | 3.28%   |
-| 5.10.0-19-amd64       | 2        | 3.28%   |
-| 4.19.0-9-amd64        | 2        | 3.28%   |
-| 4.19.0-13-amd64       | 2        | 3.28%   |
-| 6.2.12                | 1        | 1.64%   |
-| 6.1.7                 | 1        | 1.64%   |
-| 6.1.0-6-amd64         | 1        | 1.64%   |
-| 6.1.0-0.deb11.5-amd64 | 1        | 1.64%   |
-| 6.0.0-5-amd64         | 1        | 1.64%   |
-| 5.9.0-1-amd64         | 1        | 1.64%   |
-| 5.8.0-3-amd64         | 1        | 1.64%   |
-| 5.7.0-1-amd64         | 1        | 1.64%   |
-| 5.7.0-0.bpo.2-amd64   | 1        | 1.64%   |
-| 5.18.14-devuan        | 1        | 1.64%   |
-| 5.18.11-gnu           | 1        | 1.64%   |
-| 5.18.0-1-amd64        | 1        | 1.64%   |
-| 5.16.0-1-amd64        | 1        | 1.64%   |
-| 5.15.0-2-amd64        | 1        | 1.64%   |
-| 5.15.0-0.bpo.2-amd64  | 1        | 1.64%   |
-| 5.14.0-kali2-amd64    | 1        | 1.64%   |
-| 5.10.0-5-amd64        | 1        | 1.64%   |
-| 5.10.0-2-amd64        | 1        | 1.64%   |
-| 5.10.0-18-amd64       | 1        | 1.64%   |
-| 5.10.0-16-amd64       | 1        | 1.64%   |
-| 5.10.0-15-amd64       | 1        | 1.64%   |
-| 5.10.0-11-amd64       | 1        | 1.64%   |
-| 5.10.0-10-amd64       | 1        | 1.64%   |
-| 4.9.0-15-amd64        | 1        | 1.64%   |
-| 4.9.0-14-686-pae      | 1        | 1.64%   |
-| 4.9.0-14-686          | 1        | 1.64%   |
-| 4.9.0-11-686-pae      | 1        | 1.64%   |
-| 4.19.112              | 1        | 1.64%   |
-| 4.19.0-20-amd64       | 1        | 1.64%   |
-| 4.19.0-12-amd64       | 1        | 1.64%   |
-| 4.19.0-10-amd64       | 1        | 1.64%   |
+| 5.10.0-9-amd64        | 6        | 9.68%   |
+| 5.10.0-21-amd64       | 4        | 6.45%   |
+| 4.19.0-14-amd64       | 4        | 6.45%   |
+| 4.19.0-16-amd64       | 3        | 4.84%   |
+| 5.10.0-8-amd64        | 2        | 3.23%   |
+| 5.10.0-6-amd64        | 2        | 3.23%   |
+| 5.10.0-19-amd64       | 2        | 3.23%   |
+| 4.19.0-9-amd64        | 2        | 3.23%   |
+| 4.19.0-13-amd64       | 2        | 3.23%   |
+| 6.2.12                | 1        | 1.61%   |
+| 6.1.7                 | 1        | 1.61%   |
+| 6.1.0-6-amd64         | 1        | 1.61%   |
+| 6.1.0-0.deb11.5-amd64 | 1        | 1.61%   |
+| 6.0.0-5-amd64         | 1        | 1.61%   |
+| 5.9.0-1-amd64         | 1        | 1.61%   |
+| 5.8.0-3-amd64         | 1        | 1.61%   |
+| 5.7.0-1-amd64         | 1        | 1.61%   |
+| 5.7.0-0.bpo.2-amd64   | 1        | 1.61%   |
+| 5.18.14-devuan        | 1        | 1.61%   |
+| 5.18.11-gnu           | 1        | 1.61%   |
+| 5.18.0-1-amd64        | 1        | 1.61%   |
+| 5.16.0-1-amd64        | 1        | 1.61%   |
+| 5.15.0-2-amd64        | 1        | 1.61%   |
+| 5.15.0-0.bpo.2-amd64  | 1        | 1.61%   |
+| 5.14.0-kali2-amd64    | 1        | 1.61%   |
+| 5.10.0-5-amd64        | 1        | 1.61%   |
+| 5.10.0-22-amd64       | 1        | 1.61%   |
+| 5.10.0-2-amd64        | 1        | 1.61%   |
+| 5.10.0-18-amd64       | 1        | 1.61%   |
+| 5.10.0-16-amd64       | 1        | 1.61%   |
+| 5.10.0-15-amd64       | 1        | 1.61%   |
+| 5.10.0-11-amd64       | 1        | 1.61%   |
+| 5.10.0-10-amd64       | 1        | 1.61%   |
+| 4.9.0-15-amd64        | 1        | 1.61%   |
+| 4.9.0-14-686-pae      | 1        | 1.61%   |
+| 4.9.0-14-686          | 1        | 1.61%   |
+| 4.9.0-11-686-pae      | 1        | 1.61%   |
+| 4.19.112              | 1        | 1.61%   |
+| 4.19.0-20-amd64       | 1        | 1.61%   |
+| 4.19.0-12-amd64       | 1        | 1.61%   |
 
 Kernel Family
 -------------
@@ -878,48 +879,48 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City           | Desktops | Percent |
-|----------------|----------|---------|
-| Bratislava     | 3        | 5.45%   |
-| Bagnolet       | 3        | 5.45%   |
-| Volzhskiy      | 2        | 3.64%   |
-| Sydney         | 2        | 3.64%   |
-| Auckland       | 2        | 3.64%   |
-| Xiamen         | 1        | 1.82%   |
-| Wroclaw        | 1        | 1.82%   |
-| Waterford      | 1        | 1.82%   |
-| Vladikavkaz    | 1        | 1.82%   |
-| Vise           | 1        | 1.82%   |
-| Toronto        | 1        | 1.82%   |
-| Tel Aviv       | 1        | 1.82%   |
-| Tbilisi        | 1        | 1.82%   |
-| Sofia          | 1        | 1.82%   |
-| Seongbuk-gu    | 1        | 1.82%   |
-| Sao Paulo      | 1        | 1.82%   |
-| Saint-Herblain | 1        | 1.82%   |
-| Rio de Janeiro | 1        | 1.82%   |
-| Renkum         | 1        | 1.82%   |
-| Radzionkow     | 1        | 1.82%   |
-| Port Richey    | 1        | 1.82%   |
-| Poperinge      | 1        | 1.82%   |
-| Paris          | 1        | 1.82%   |
-| Oleksandriya   | 1        | 1.82%   |
-| Okehampton     | 1        | 1.82%   |
-| Norman         | 1        | 1.82%   |
-| Nérac         | 1        | 1.82%   |
-| Modane         | 1        | 1.82%   |
-| Miedziana Gora | 1        | 1.82%   |
-| Miami          | 1        | 1.82%   |
-| Madrid         | 1        | 1.82%   |
-| Los Angeles    | 1        | 1.82%   |
-| Loosdrecht     | 1        | 1.82%   |
-| Leeds          | 1        | 1.82%   |
-| Lahr           | 1        | 1.82%   |
-| Kushchyovskaya | 1        | 1.82%   |
-| Kirov          | 1        | 1.82%   |
-| Karlsruhe      | 1        | 1.82%   |
-| Holt           | 1        | 1.82%   |
-| Hollywood      | 1        | 1.82%   |
+| City            | Desktops | Percent |
+|-----------------|----------|---------|
+| Bratislava      | 3        | 5.45%   |
+| Bagnolet        | 3        | 5.45%   |
+| Volzhskiy       | 2        | 3.64%   |
+| Sydney          | 2        | 3.64%   |
+| Auckland        | 2        | 3.64%   |
+| Xiamen          | 1        | 1.82%   |
+| Wroclaw         | 1        | 1.82%   |
+| Waterford       | 1        | 1.82%   |
+| Vladikavkaz     | 1        | 1.82%   |
+| Vise            | 1        | 1.82%   |
+| Toronto         | 1        | 1.82%   |
+| Tel Aviv        | 1        | 1.82%   |
+| Tbilisi         | 1        | 1.82%   |
+| Sofia           | 1        | 1.82%   |
+| Seongbuk-gu     | 1        | 1.82%   |
+| Sao Paulo       | 1        | 1.82%   |
+| Saint-Herblain  | 1        | 1.82%   |
+| Rio de Janeiro  | 1        | 1.82%   |
+| Renkum          | 1        | 1.82%   |
+| Radzionkow      | 1        | 1.82%   |
+| Port Richey     | 1        | 1.82%   |
+| Poperinge       | 1        | 1.82%   |
+| Paris           | 1        | 1.82%   |
+| Oleksandriya    | 1        | 1.82%   |
+| Okehampton      | 1        | 1.82%   |
+| Novopokrovskoye | 1        | 1.82%   |
+| Norman          | 1        | 1.82%   |
+| Nérac          | 1        | 1.82%   |
+| Miedziana Gora  | 1        | 1.82%   |
+| Miami           | 1        | 1.82%   |
+| Madrid          | 1        | 1.82%   |
+| Loosdrecht      | 1        | 1.82%   |
+| Leeds           | 1        | 1.82%   |
+| Lahr            | 1        | 1.82%   |
+| L'Albenc        | 1        | 1.82%   |
+| Kirov           | 1        | 1.82%   |
+| Karlsruhe       | 1        | 1.82%   |
+| Holt            | 1        | 1.82%   |
+| Hollywood       | 1        | 1.82%   |
+| Great Bend      | 1        | 1.82%   |
 
 Drives
 ------
@@ -937,9 +938,9 @@ Hard drive vendors
 | WDC                 | 24       | 43     | 23.53%  |
 | Seagate             | 19       | 29     | 18.63%  |
 | Kingston            | 10       | 13     | 9.8%    |
-| Samsung Electronics | 8        | 14     | 7.84%   |
+| Samsung Electronics | 8        | 15     | 7.84%   |
 | Toshiba             | 7        | 7      | 6.86%   |
-| SanDisk             | 4        | 4      | 3.92%   |
+| Sandisk             | 4        | 4      | 3.92%   |
 | Crucial             | 4        | 6      | 3.92%   |
 | Netac               | 2        | 2      | 1.96%   |
 | Micron Technology   | 2        | 2      | 1.96%   |
@@ -1076,7 +1077,7 @@ HDD or SSD
 |---------|----------|--------|---------|
 | HDD     | 40       | 83     | 45.45%  |
 | SSD     | 31       | 42     | 35.23%  |
-| NVMe    | 14       | 17     | 15.91%  |
+| NVMe    | 14       | 18     | 15.91%  |
 | Unknown | 2        | 4      | 2.27%   |
 | MMC     | 1        | 1      | 1.14%   |
 
@@ -1091,7 +1092,7 @@ SATA, SAS, NVMe, etc.
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | SATA | 51       | 122    | 72.86%  |
-| NVMe | 14       | 17     | 20%     |
+| NVMe | 14       | 18     | 20%     |
 | SAS  | 4        | 7      | 5.71%   |
 | MMC  | 1        | 1      | 1.43%   |
 
@@ -1259,7 +1260,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 41       | 102    | 59.42%  |
+| Works    | 41       | 103    | 59.42%  |
 | Detected | 14       | 28     | 20.29%  |
 | Malfunc  | 14       | 17     | 20.29%  |
 
@@ -1278,7 +1279,7 @@ Storage controller vendors
 |----------------------------------|----------|---------|
 | Intel                            | 39       | 49.37%  |
 | AMD                              | 15       | 18.99%  |
-| SanDisk                          | 4        | 5.06%   |
+| Sandisk                          | 4        | 5.06%   |
 | Samsung Electronics              | 4        | 5.06%   |
 | Kingston Technology Company      | 4        | 5.06%   |
 | Toshiba America Info Systems     | 2        | 2.53%   |
@@ -1758,8 +1759,8 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch   | 2        | 3.23%   |
 | Hewlett-Packard 22m HPN3575 1920x1080 476x268mm 21.5-inch              | 2        | 3.23%   |
-| ___ LCD TV ___9000 1360x768                                            | 1        | 1.61%   |
-| ViewSonic VA2261 Series VSC0F30 1920x1080 477x268mm 21.5-inch          | 1        | 1.61%   |
+| ___ LCDTV16 ___9000 1360x768                                           | 1        | 1.61%   |
+| ViewSonic VA2261 VSC0F30 1920x1080 477x268mm 21.5-inch                 | 1        | 1.61%   |
 | Unknown LCD TV 9000 1360x768 1600x900mm 72.3-inch                      | 1        | 1.61%   |
 | Unknown LCD Monitor hp L1702 1280x1024                                 | 1        | 1.61%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch              | 1        | 1.61%   |
@@ -1781,7 +1782,7 @@ Monitor models
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 1        | 1.61%   |
 | Philips 190B PHL086C 1280x1024 376x301mm 19.0-inch                     | 1        | 1.61%   |
 | Philips 17S PHL0877 1280x1024 337x270mm 17.0-inch                      | 1        | 1.61%   |
-| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                     | 1        | 1.61%   |
+| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                 | 1        | 1.61%   |
 | Lenovo LI2215sD LEN65CC 1920x1080 476x267mm 21.5-inch                  | 1        | 1.61%   |
 | Lenovo LCD Monitor LEN40A0 1366x768 309x174mm 14.0-inch                | 1        | 1.61%   |
 | Lenovo L24e-30 LEN66BC 1920x1080 527x296mm 23.8-inch                   | 1        | 1.61%   |
@@ -1794,7 +1795,7 @@ Monitor models
 | Hewlett-Packard ENVY 34c HWP3204 3440x1440 800x330mm 34.1-inch         | 1        | 1.61%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 1.61%   |
 | Hewlett-Packard Compaq S2321a HWP2915 1920x1080 509x286mm 23.0-inch    | 1        | 1.61%   |
-| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch            | 1        | 1.61%   |
+| Hewlett-Packard 22cwa HWP3183 1920x1080 480x270mm 21.7-inch            | 1        | 1.61%   |
 | Goldstar W2243 GSM56FF 1920x1080 477x269mm 21.6-inch                   | 1        | 1.61%   |
 
 Monitor Resolution
@@ -1901,8 +1902,8 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 18       | 33.33%  |
-| 151-200        | 9        | 16.67%  |
+| 201-250        | 21       | 38.89%  |
+| 151-200        | 6        | 11.11%  |
 | Unknown        | 6        | 11.11%  |
 | More than 1000 | 4        | 7.41%   |
 | 351-500        | 4        | 7.41%   |
@@ -1937,8 +1938,8 @@ Total monitors connected
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 43       | 78.18%  |
-| 2     | 6        | 10.91%  |
+| 1     | 42       | 76.36%  |
+| 2     | 7        | 12.73%  |
 | 3     | 3        | 5.45%   |
 | 0     | 3        | 5.45%   |
 
@@ -2351,7 +2352,7 @@ Memory module models
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s             | 1        | 1.43%   |
 | Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s          | 1        | 1.43%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.43%   |
-| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2933MT/s            | 1        | 1.43%   |
+| Team RAM TEAMGROUP-UD4-2666 16384MB DIMM DDR4 2933MT/s         | 1        | 1.43%   |
 | SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                     | 1        | 1.43%   |
 | SK hynix RAM HMT451U7BFR8A-PB 4GB DIMM 1600MT/s                | 1        | 1.43%   |
 | SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 1.43%   |
@@ -2533,21 +2534,21 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                      | Desktops | Percent |
-|--------------------------------------------|----------|---------|
-| Cubeternet GL-UPC822 UVC WebCam            | 2        | 14.29%  |
-| Z-Star Vimicro USB Camera (Altair)         | 1        | 7.14%   |
-| Softkinetic DepthSense 325                 | 1        | 7.14%   |
-| Realtek HD 720P Webcam                     | 1        | 7.14%   |
-| Microsoft LifeCam Studio                   | 1        | 7.14%   |
-| Microdia Camera                            | 1        | 7.14%   |
-| MacroSilicon USB Video                     | 1        | 7.14%   |
-| Logitech Webcam C270                       | 1        | 7.14%   |
-| Logitech C920 PRO HD Webcam                | 1        | 7.14%   |
-| Logitech BRIO Ultra HD Webcam              | 1        | 7.14%   |
-| KYE Systems (Mouse Systems) PC-LM1E Camera | 1        | 7.14%   |
-| Hauppauge HD PVR Pro 60                    | 1        | 7.14%   |
-| GEMBIRD USB2.0 PC CAMERA                   | 1        | 7.14%   |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Cubeternet GL-UPC822 UVC WebCam          | 2        | 14.29%  |
+| Z-Star A4 TECH USB2.0 PC Camera E        | 1        | 7.14%   |
+| Softkinetic DepthSense 325               | 1        | 7.14%   |
+| Realtek HD 720P Webcam                   | 1        | 7.14%   |
+| Microsoft LifeCam Studio                 | 1        | 7.14%   |
+| Microdia Camera                          | 1        | 7.14%   |
+| MacroSilicon usb video                   | 1        | 7.14%   |
+| Logitech Webcam C270                     | 1        | 7.14%   |
+| Logitech HD Pro Webcam C920              | 1        | 7.14%   |
+| Logitech BRIO Ultra HD Webcam            | 1        | 7.14%   |
+| KYE Systems (Mouse Systems) PC-W3 Camera | 1        | 7.14%   |
+| Hauppauge HD PVR Pro 60                  | 1        | 7.14%   |
+| GEMBIRD USB2.0 PC CAMERA                 | 1        | 7.14%   |
 
 Security
 --------

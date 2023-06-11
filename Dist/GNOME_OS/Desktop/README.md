@@ -661,8 +661,8 @@ Geographic location (city)
 | Ottawa                | 1        | 7.14%   |
 | Novoyavorovske        | 1        | 7.14%   |
 | Kolkata               | 1        | 7.14%   |
+| Foz do Iguaçu        | 1        | 7.14%   |
 | Columbia              | 1        | 7.14%   |
-| Carapicuiba           | 1        | 7.14%   |
 
 Drives
 ------
@@ -710,7 +710,7 @@ Hard drive models
 | Seagate ST4000DX001-1CE168 4TB          | 1        | 3.57%   |
 | Seagate ST3500312CS 500GB               | 1        | 3.57%   |
 | Seagate ST2000DM001-1ER164 2TB          | 1        | 3.57%   |
-| Seagate ST1000LM035-1RK172 970GB        | 1        | 3.57%   |
+| Seagate ST1000LM035-1RK172 1TB          | 1        | 3.57%   |
 | Seagate ST1000DM010-2EP102 1TB          | 1        | 3.57%   |
 | Seagate ST1000DM003-1SB102 1TB          | 1        | 3.57%   |
 | SanDisk NVMe SSD Drive 500GB            | 1        | 3.57%   |
@@ -720,7 +720,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 256GB            | 1        | 3.57%   |
 | Samsung NVMe SSD Drive 1024GB           | 1        | 3.57%   |
 | PNY CS900 240GB SSD                     | 1        | 3.57%   |
-| Phison PS5013 E13 NVMe Controller 500GB | 1        | 3.57%   |
+| Phison PS5013 E13 NVMe Controller 512GB | 1        | 3.57%   |
 | Kingston SV300S37A240G 240GB SSD        | 1        | 3.57%   |
 | Kingston SV300S37A120G 120GB SSD        | 1        | 3.57%   |
 | Kingston SA400S37120G 120GB SSD         | 1        | 3.57%   |
@@ -1232,11 +1232,11 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 6.25%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 6.25%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 6.25%   |
-| Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 6.25%   |
+| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                              | 1        | 6.25%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 6.25%   |
 | AOC G2490W1G4 AOC2490 1920x1080 527x296mm 23.8-inch                 | 1        | 6.25%   |
-| AOC 1970W-1 AOC1970 1366x768 410x230mm 18.5-inch                    | 1        | 6.25%   |
-| Acer K222HQL ACR0512 1920x1080 477x268mm 21.5-inch                  | 1        | 6.25%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 6.25%   |
+| Acer k222HQL ACR0512 1920x1080 480x270mm 21.7-inch                  | 1        | 6.25%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 6.25%   |
 
 Monitor Resolution
@@ -1387,7 +1387,7 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 3.85%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 3.85%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 3.85%   |
-| Motorola PCS motorola one 5G ace                                  | 1        | 3.85%   |
+| Motorola PCS Moto E (4) Plus                                      | 1        | 3.85%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.85%   |
 | Intel Wireless 8260                                               | 1        | 3.85%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 3.85%   |
@@ -1688,10 +1688,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor        | Desktops | Percent |
-|---------------|----------|---------|
-| Logitech      | 1        | 50%     |
-| 2M UVC CAMERA | 1        | 50%     |
+| Vendor   | Desktops | Percent |
+|----------|----------|---------|
+| webcam   | 1        | 50%     |
+| Logitech | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1701,10 +1701,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920         | 1        | 50%     |
-| 2M UVC CAMERA NexiGo N60 FHD Webcam | 1        | 50%     |
+| Model                       | Desktops | Percent |
+|-----------------------------|----------|---------|
+| webcam webcam               | 1        | 50%     |
+| Logitech HD Pro Webcam C920 | 1        | 50%     |
 
 Security
 --------

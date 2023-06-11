@@ -800,7 +800,7 @@ Hard drive models
 | SK hynix NVMe SSD Drive 512GB             | 1         | 3.23%   |
 | Seagate ST9500325AS 500GB                 | 1         | 3.23%   |
 | Seagate ST500LM012 HN-M500MBB 500GB       | 1         | 3.23%   |
-| Seagate ST1000LM035-1RK172 970GB          | 1         | 3.23%   |
+| Seagate ST1000LM035-1RK172 1TB            | 1         | 3.23%   |
 | SanDisk X300 MSATA 128GB SSD              | 1         | 3.23%   |
 | SanDisk SD8SN8U512G1002 512GB SSD         | 1         | 3.23%   |
 | Samsung SSD 860 EVO 500GB                 | 1         | 3.23%   |
@@ -1364,7 +1364,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO223D 1920x1080 309x174mm 14.0-inch       | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO162C 1366x768 293x164mm 13.2-inch        | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch        | 1         | 3.57%   |
-| Apple Color LCD APPA00E 2880x1800 331x207mm 15.4-inch                | 1         | 3.57%   |
+| Apple Color LCD APPA00E 2880x1800 330x210mm 15.4-inch                | 1         | 3.57%   |
 | Apple Color LCD APP9CC7 1280x800 286x179mm 13.3-inch                 | 1         | 3.57%   |
 
 Monitor Resolution
@@ -1531,7 +1531,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 1.85%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.85%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.85%   |
-| Google Pixel 7                                                    | 1         | 1.85%   |
+| Google Pixel 6a                                                   | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
@@ -1624,7 +1624,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.85%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 3.85%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 3.85%   |
-| Google Pixel 7                                                    | 1         | 3.85%   |
+| Google Pixel 6a                                                   | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 3.85%   |
@@ -1808,7 +1808,7 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Micron RAM MT53E1G32D4NQ-046WTE 8GB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
+| Micron RAM MT53E1G32D4NQ-046WTE 4GB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
 
 Memory Kind
 -----------
@@ -1929,7 +1929,7 @@ Camera device models
 | Chicony Integrated Camera                        | 2         | 7.14%   |
 | Syntek Integrated Camera                         | 1         | 3.57%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 3.57%   |
-| Sunplus HD Webcam                                | 1         | 3.57%   |
+| Sunplus HD WebCam                                | 1         | 3.57%   |
 | Realtek USB2.0 HD UVC WebCam                     | 1         | 3.57%   |
 | Realtek Integrated_Webcam_HD                     | 1         | 3.57%   |
 | Realtek Integrated Camera                        | 1         | 3.57%   |

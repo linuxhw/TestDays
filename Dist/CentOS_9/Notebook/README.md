@@ -659,26 +659,27 @@ Geographic location (city)
 
 | City           | Notebooks | Percent |
 |----------------|-----------|---------|
-| Beijing        | 2         | 9.52%   |
-| Tashkent       | 1         | 4.76%   |
-| Soest          | 1         | 4.76%   |
-| Schemmerhofen  | 1         | 4.76%   |
-| Ruda Śląska  | 1         | 4.76%   |
-| Ribeirao Preto | 1         | 4.76%   |
-| Quitman        | 1         | 4.76%   |
-| Puente Alto    | 1         | 4.76%   |
-| Mumbai         | 1         | 4.76%   |
-| L'Isle-Adam    | 1         | 4.76%   |
-| Kramatorsk     | 1         | 4.76%   |
-| Helsinki       | 1         | 4.76%   |
-| Bristow        | 1         | 4.76%   |
-| Bogotá        | 1         | 4.76%   |
-| Birmensdorf    | 1         | 4.76%   |
-| Battle Creek   | 1         | 4.76%   |
-| Barrie         | 1         | 4.76%   |
-| Almaty         | 1         | 4.76%   |
-| Airdrie        | 1         | 4.76%   |
-| Adelfia        | 1         | 4.76%   |
+| Beijing        | 2         | 9.09%   |
+| Tashkent       | 1         | 4.55%   |
+| Soest          | 1         | 4.55%   |
+| Schemmerhofen  | 1         | 4.55%   |
+| Ruda Śląska  | 1         | 4.55%   |
+| Ribeirao Preto | 1         | 4.55%   |
+| Quitman        | 1         | 4.55%   |
+| Puente Alto    | 1         | 4.55%   |
+| Persan         | 1         | 4.55%   |
+| Mumbai         | 1         | 4.55%   |
+| L'Isle-Adam    | 1         | 4.55%   |
+| Kramatorsk     | 1         | 4.55%   |
+| Helsinki       | 1         | 4.55%   |
+| Bristow        | 1         | 4.55%   |
+| Bogotá        | 1         | 4.55%   |
+| Birmensdorf    | 1         | 4.55%   |
+| Battle Creek   | 1         | 4.55%   |
+| Barrie         | 1         | 4.55%   |
+| Almaty         | 1         | 4.55%   |
+| Airdrie        | 1         | 4.55%   |
+| Adelfia        | 1         | 4.55%   |
 
 Drives
 ------
@@ -715,34 +716,34 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                              | Notebooks | Percent |
-|----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB  | 2         | 6.9%    |
-| Samsung MZNLH512HALU-00000 512GB SSD               | 2         | 6.9%    |
-| Micron 2450_MTFDKBA512TFK 512GB                    | 2         | 6.9%    |
-| WDC WD6400BEVT-22A0RT0 640GB                       | 1         | 3.45%   |
-| WDC WD5000LPLX-60ZNTT1 500GB                       | 1         | 3.45%   |
-| Unknown MMC Card  7GB                              | 1         | 3.45%   |
-| Toshiba MQ04ABF100 1TB                             | 1         | 3.45%   |
-| SK hynix NVMe SSD Drive 256GB                      | 1         | 3.45%   |
-| SK hynix BC501 NVMe 256GB                          | 1         | 3.45%   |
-| Seagate ST500LT012-9WS142 500GB                    | 1         | 3.45%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                 | 1         | 3.45%   |
-| Samsung PSSD T7 1TB                                | 1         | 3.45%   |
-| Samsung NVMe SSD Drive 1TB                         | 1         | 3.45%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB | 1         | 3.45%   |
-| Samsung MZALQ512HALU-000L2 512GB                   | 1         | 3.45%   |
-| LITEON IT LST-32S9G-HP 32GB SSD                    | 1         | 3.45%   |
-| Kingston SH103S3240G 240GB SSD                     | 1         | 3.45%   |
-| Kingston SA400S37240G 240GB SSD                    | 1         | 3.45%   |
-| Kingston RBU-SC100S37128GD 128GB SSD               | 1         | 3.45%   |
-| Intel SSDSCKKF256H6L 256GB                         | 1         | 3.45%   |
-| Intel SSDPEKNW512G8L 512GB                         | 1         | 3.45%   |
-| Hjwdz MS2160 8MB                                   | 1         | 3.45%   |
-| HGST HTS725032A7E630 320GB                         | 1         | 3.45%   |
-| HGST HTS721010A9E630 1TB                           | 1         | 3.45%   |
-| HGST HTS541010A9E680 1TB                           | 1         | 3.45%   |
-| HP SSD S700 500GB                                  | 1         | 3.45%   |
+| Model                                               | Notebooks | Percent |
+|-----------------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 2         | 6.9%    |
+| Samsung MZNLH512HALU-00000 512GB SSD                | 2         | 6.9%    |
+| Micron 2450_MTFDKBA512TFK 512GB                     | 2         | 6.9%    |
+| WDC WD6400BEVT-22A0RT0 640GB                        | 1         | 3.45%   |
+| WDC WD5000LPLX-60ZNTT1 500GB                        | 1         | 3.45%   |
+| Unknown MMC Card  7GB                               | 1         | 3.45%   |
+| Toshiba MQ04ABF100 1TB                              | 1         | 3.45%   |
+| SK hynix NVMe SSD Drive 256GB                       | 1         | 3.45%   |
+| SK hynix BC501 NVMe 256GB                           | 1         | 3.45%   |
+| Seagate ST500LT012-9WS142 500GB                     | 1         | 3.45%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 3.45%   |
+| Samsung PSSD T7 1TB                                 | 1         | 3.45%   |
+| Samsung NVMe SSD Drive 1TB                          | 1         | 3.45%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 1         | 3.45%   |
+| Samsung MZALQ512HALU-000L2 512GB                    | 1         | 3.45%   |
+| LITEON IT LST-32S9G-HP 32GB SSD                     | 1         | 3.45%   |
+| Kingston SH103S3240G 240GB SSD                      | 1         | 3.45%   |
+| Kingston SA400S37240G 240GB SSD                     | 1         | 3.45%   |
+| Kingston RBU-SC100S37128GD 128GB SSD                | 1         | 3.45%   |
+| Intel SSDSCKKF256H6L 256GB                          | 1         | 3.45%   |
+| Intel SSDPEKNW512G8L 512GB                          | 1         | 3.45%   |
+| Hjwdz MS2160 8MB                                    | 1         | 3.45%   |
+| HGST HTS725032A7E630 320GB                          | 1         | 3.45%   |
+| HGST HTS721010A9E630 1TB                            | 1         | 3.45%   |
+| HGST HTS541010A9E680 1TB                            | 1         | 3.45%   |
+| HP SSD S700 500GB                                   | 1         | 3.45%   |
 
 HDD Vendor
 ----------
@@ -1291,7 +1292,7 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | TMX TL156MDMP11-0 TMX1560 3200x2000 336x210mm 15.6-inch               | 1         | 4.17%   |
 | SKY 22X1-M225F SKY2150 1920x1080 476x268mm 21.5-inch                  | 1         | 4.17%   |
-| Samsung Electronics SMT22A350 SAM07A7 1920x1080 477x268mm 21.5-inch   | 1         | 4.17%   |
+| Samsung Electronics SMT23A350 SAM07A7 1920x1080 510x287mm 23.0-inch   | 1         | 4.17%   |
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 1         | 4.17%   |
 | PANDA LCD Monitor NCP0052 1920x1080 309x174mm 14.0-inch               | 1         | 4.17%   |
 | LG Display LCD Monitor LGD0657 1920x1080 344x194mm 15.5-inch          | 1         | 4.17%   |
@@ -1303,13 +1304,13 @@ Monitor models
 | Hewlett-Packard L185x HWP298C 1366x768 410x230mm 18.5-inch            | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1608 1920x1080 355x199mm 16.0-inch      | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch      | 1         | 4.17%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch       | 1         | 4.17%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch       | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1515 1920x1080 344x193mm 15.5-inch      | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN14A3 1600x900 309x174mm 14.0-inch       | 1         | 4.17%   |
 | CHD 24VCF CHD0240 1920x1080 368x207mm 16.6-inch                       | 1         | 4.17%   |
 | BOE LCD Monitor BOE0697 1366x768 309x173mm 13.9-inch                  | 1         | 4.17%   |
 | AU Optronics LCD Monitor AUO5A3D 1920x1080 309x174mm 14.0-inch        | 1         | 4.17%   |
-| AU Optronics LCD Monitor AUO323D 1920x1080 309x173mm 13.9-inch        | 1         | 4.17%   |
+| AU Optronics LCD Monitor AUO323D 1920x1080 309x174mm 14.0-inch        | 1         | 4.17%   |
 | AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch         | 1         | 4.17%   |
 | AU Optronics LCD Monitor AUO0BA2 2560x1440 309x174mm 14.0-inch        | 1         | 4.17%   |
 | Acer KA272 A ACR079A 1920x1080 598x336mm 27.0-inch                    | 1         | 4.17%   |
@@ -1860,12 +1861,12 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 5         | 27.78%  |
 | IMC Networks                           | 3         | 16.67%  |
+| Acer                                   | 3         | 16.67%  |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 11.11%  |
-| Bison Electronics                      | 2         | 11.11%  |
-| Acer                                   | 2         | 11.11%  |
 | Syntek                                 | 1         | 5.56%   |
 | Realtek Semiconductor                  | 1         | 5.56%   |
 | Luxvisions Innotech Limited            | 1         | 5.56%   |
+| Bison Electronics                      | 1         | 5.56%   |
 | Apple                                  | 1         | 5.56%   |
 
 Camera Model
@@ -1878,6 +1879,7 @@ Camera device models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
+| Acer Integrated Camera                              | 2         | 11.11%  |
 | Syntek Integrated Camera                            | 1         | 5.56%   |
 | Realtek Lenovo EasyCamera                           | 1         | 5.56%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 1         | 5.56%   |
@@ -1891,11 +1893,9 @@ Camera device models
 | Chicony Acer CrystalEye Webcam                      | 1         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 1         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera | 1         | 5.56%   |
-| Bison Integrated Camera                             | 1         | 5.56%   |
-| Bison HD Webcam                                     | 1         | 5.56%   |
+| Bison Lenovo Integrated Webcam                      | 1         | 5.56%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X                     | 1         | 5.56%   |
-| Acer Lenovo Integrated Webcam                       | 1         | 5.56%   |
-| Acer Integrated Camera                              | 1         | 5.56%   |
+| Acer HD Webcam                                      | 1         | 5.56%   |
 
 Security
 --------

@@ -816,7 +816,6 @@ Geographic location (city)
 | Sao Luís             | 1         | 2.08%   |
 | Sao Bernardo do Campo | 1         | 2.08%   |
 | San Salvador          | 1         | 2.08%   |
-| Rome                  | 1         | 2.08%   |
 | Rio de Janeiro        | 1         | 2.08%   |
 | Riga                  | 1         | 2.08%   |
 | Prague                | 1         | 2.08%   |
@@ -838,9 +837,10 @@ Geographic location (city)
 | Juazeiro do Norte     | 1         | 2.08%   |
 | Hyderabad             | 1         | 2.08%   |
 | Gig Harbor            | 1         | 2.08%   |
+| Foz do Iguaçu        | 1         | 2.08%   |
 | Del Valle             | 1         | 2.08%   |
 | Columbia              | 1         | 2.08%   |
-| Castelnau-le-Lez      | 1         | 2.08%   |
+| Cervaro               | 1         | 2.08%   |
 
 Drives
 ------
@@ -889,7 +889,7 @@ Hard drive models
 | SK hynix NVMe SSD Drive 512GB             | 2         | 2.99%   |
 | Seagate ST9500325AS 500GB                 | 2         | 2.99%   |
 | Seagate ST500LM012 HN-M500MBB 500GB       | 2         | 2.99%   |
-| Seagate ST1000LM035-1RK172 970GB          | 2         | 2.99%   |
+| Seagate ST1000LM035-1RK172 1TB            | 2         | 2.99%   |
 | Samsung NVMe SSD Drive 256GB              | 2         | 2.99%   |
 | PNY CS900 240GB SSD                       | 2         | 2.99%   |
 | Kingston SA400S37120G 120GB SSD           | 2         | 2.99%   |
@@ -1569,10 +1569,10 @@ Monitor models
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch          | 1         | 2%      |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch          | 1         | 2%      |
 | LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch         | 1         | 2%      |
-| Insignia DX-32L100A13 BBY0032 1360x768 544x326mm 25.0-inch           | 1         | 2%      |
+| Insignia NS-32D20SNA14 BBY0032 1360x768 544x326mm 25.0-inch          | 1         | 2%      |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 2%      |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                  | 1         | 2%      |
-| Goldstar TV SSCR2 GSMC0C8 3840x2160                                  | 1         | 2%      |
+| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                               | 1         | 2%      |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch              | 1         | 2%      |
 | Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                    | 1         | 2%      |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch      | 1         | 2%      |
@@ -1797,7 +1797,7 @@ Controller models
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.1%    |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.1%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.1%    |
-| Motorola PCS motorola one 5G ace                                  | 1         | 1.1%    |
+| Motorola PCS Moto E (4) Plus                                      | 1         | 1.1%    |
 | Intel Wireless-AC 9260                                            | 1         | 1.1%    |
 | Intel Wireless 8260                                               | 1         | 1.1%    |
 | Intel Wireless 7265                                               | 1         | 1.1%    |
@@ -1915,7 +1915,7 @@ Ethernet models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2.13%   |
 | Intel Ethernet Connection (17) I219-V                             | 1         | 2.13%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 2.13%   |
-| Google Pixel 7                                                    | 1         | 2.13%   |
+| Google Pixel 6a                                                   | 1         | 2.13%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 2.13%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 2.13%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 2.13%   |
@@ -2129,7 +2129,7 @@ Memory module models
 
 | Model                                                            | Computers | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Micron RAM MT53E1G32D4NQ-046WTE 8GB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
+| Micron RAM MT53E1G32D4NQ-046WTE 4GB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
 
 Memory Kind
 -----------
@@ -2232,9 +2232,9 @@ Camera device vendors
 | Microdia                               | 2         | 6.06%   |
 | Logitech                               | 2         | 6.06%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 6.06%   |
+| webcam                                 | 1         | 3.03%   |
 | Quanta                                 | 1         | 3.03%   |
 | IMC Networks                           | 1         | 3.03%   |
-| 2M UVC CAMERA                          | 1         | 3.03%   |
 
 Camera Model
 ------------
@@ -2252,8 +2252,9 @@ Camera device models
 | Chicony Integrated Camera                        | 2         | 5.88%   |
 | Apple FaceTime HD Camera (Built-in)              | 2         | 5.88%   |
 | Apple Built-in iSight                            | 2         | 5.88%   |
+| webcam webcam                                    | 1         | 2.94%   |
 | Sunplus Integrated_Webcam_HD                     | 1         | 2.94%   |
-| Sunplus HD Webcam                                | 1         | 2.94%   |
+| Sunplus HD WebCam                                | 1         | 2.94%   |
 | Realtek USB2.0 HD UVC WebCam                     | 1         | 2.94%   |
 | Realtek Integrated_Webcam_HD                     | 1         | 2.94%   |
 | Realtek Integrated Camera                        | 1         | 2.94%   |
@@ -2272,7 +2273,6 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam    | 1         | 2.94%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 1         | 2.94%   |
 | Apple FaceTime HD Camera                         | 1         | 2.94%   |
-| 2M UVC CAMERA NexiGo N60 FHD Webcam              | 1         | 2.94%   |
 
 Security
 --------

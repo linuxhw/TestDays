@@ -1340,7 +1340,7 @@ Controller models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
-| OnePlus (Shenzhen) OnePlus                                        | 1         | 3.57%   |
+| OnePlus (Shenzhen) SM8150-MTP _SN:5A38C392                        | 1         | 3.57%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
 | Intel Wireless 8260                                               | 1         | 3.57%   |
 | Intel Wireless 7260                                               | 1         | 3.57%   |
@@ -1509,16 +1509,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                            | Notebooks | Percent |
-|--------------------------------------------------|-----------|---------|
-| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
-| Intel Bluetooth wireless interface               | 2         | 20%     |
-| Toshiba RT Bluetooth Radio                       | 1         | 10%     |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
-| Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
-| Intel AX200 Bluetooth                            | 1         | 10%     |
+| Model                                      | Notebooks | Percent |
+|--------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface         | 2         | 20%     |
+| Intel Bluetooth Device                     | 2         | 20%     |
+| Toshiba RT Bluetooth Radio                 | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth          | 1         | 10%     |
+| Qualcomm Atheros AR3011 Bluetooth          | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 10%     |
+| Intel AX200 Bluetooth                      | 1         | 10%     |
 
 Sound
 -----

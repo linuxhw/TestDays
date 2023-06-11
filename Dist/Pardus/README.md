@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 80
+Total: 81
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Lenovo        | ThinkPad T480 20L6S2S800    | Notebook    | [7ffc12366e](https://linux-hardware.org/?probe=7ffc12366e) | May 03, 2023 |
 | Lenovo        | IdeaPadFlex 5 14ITL05 82... | Convertible | [c68576fce8](https://linux-hardware.org/?probe=c68576fce8) | Apr 30, 2023 |
 | Lenovo        | ThinkPad T480 20L6S2S800    | Notebook    | [8ab4a35e8c](https://linux-hardware.org/?probe=8ab4a35e8c) | Apr 26, 2023 |
 | HP            | ProBook 4540s               | Notebook    | [854f17fcac](https://linux-hardware.org/?probe=854f17fcac) | Apr 23, 2023 |
@@ -719,13 +720,13 @@ Used RAM memory
 
 | Used GB    | Computers | Percent |
 |------------|-----------|---------|
-| 1.01-2.0   | 26        | 41.94%  |
-| 2.01-3.0   | 19        | 30.65%  |
-| 3.01-4.0   | 11        | 17.74%  |
-| 4.01-8.0   | 3         | 4.84%   |
-| 24.01-32.0 | 1         | 1.61%   |
-| 8.01-16.0  | 1         | 1.61%   |
-| 0.51-1.0   | 1         | 1.61%   |
+| 1.01-2.0   | 27        | 42.86%  |
+| 2.01-3.0   | 19        | 30.16%  |
+| 3.01-4.0   | 11        | 17.46%  |
+| 4.01-8.0   | 3         | 4.76%   |
+| 24.01-32.0 | 1         | 1.59%   |
+| 8.01-16.0  | 1         | 1.59%   |
+| 0.51-1.0   | 1         | 1.59%   |
 
 Total Drives
 ------------
@@ -825,11 +826,11 @@ Geographic location (city)
 
 | City                 | Computers | Percent |
 |----------------------|-----------|---------|
-| Istanbul             | 19        | 31.67%  |
+| Istanbul             | 16        | 26.67%  |
+| Ankara               | 7         | 11.67%  |
 | Bursa                | 6         | 10%     |
-| Ankara               | 6         | 10%     |
+| Aydin                | 5         | 8.33%   |
 | Izmir                | 4         | 6.67%   |
-| Aydin                | 4         | 6.67%   |
 | Konya                | 3         | 5%      |
 | Çanakkale           | 2         | 3.33%   |
 | Yaman                | 1         | 1.67%   |
@@ -837,6 +838,7 @@ Geographic location (city)
 | Serik                | 1         | 1.67%   |
 | Sao Gabriel          | 1         | 1.67%   |
 | Samsun               | 1         | 1.67%   |
+| Niğde               | 1         | 1.67%   |
 | Malatya              | 1         | 1.67%   |
 | London               | 1         | 1.67%   |
 | Landskrona           | 1         | 1.67%   |
@@ -865,7 +867,7 @@ Hard drive vendors
 | WDC                         | 14        | 18     | 18.42%  |
 | Seagate                     | 10        | 13     | 13.16%  |
 | Samsung Electronics         | 9         | 14     | 11.84%  |
-| Sandisk                     | 8         | 8      | 10.53%  |
+| SanDisk                     | 8         | 8      | 10.53%  |
 | Toshiba                     | 3         | 4      | 3.95%   |
 | Kingston                    | 3         | 4      | 3.95%   |
 | A-DATA Technology           | 3         | 3      | 3.95%   |
@@ -880,7 +882,7 @@ Hard drive vendors
 | Silicon Motion              | 1         | 1      | 1.32%   |
 | Phison                      | 1         | 1      | 1.32%   |
 | Micron Technology           | 1         | 2      | 1.32%   |
-| MAXIO Technology (Hangzhou) | 1         | 1      | 1.32%   |
+| MAXIO Technology (Hangzhou) | 1         | 2      | 1.32%   |
 | Lexar                       | 1         | 1      | 1.32%   |
 | KIOXIA                      | 1         | 1      | 1.32%   |
 | KingSpec                    | 1         | 1      | 1.32%   |
@@ -915,7 +917,7 @@ Hard drive models
 | WDC WD10JPVX-60JC3T0 1TB                     | 1         | 1.27%   |
 | WDC WD10JPCX-24UE4T0 1TB                     | 1         | 1.27%   |
 | WDC WD10EZEX-60WN4A0 1TB                     | 1         | 1.27%   |
-| Unknown SD/MMC/MS PRO 249GB                  | 1         | 1.27%   |
+| Unknown SD/MMC/MS PRO 64GB                   | 1         | 1.27%   |
 | Unknown MMC Card  64GB                       | 1         | 1.27%   |
 | Toshiba MQ01ABD075 752GB                     | 1         | 1.27%   |
 | Toshiba MK6475GSX 640GB                      | 1         | 1.27%   |
@@ -932,8 +934,8 @@ Hard drive models
 | Seagate ST500DM002-1BD142 500GB              | 1         | 1.27%   |
 | Seagate ST3160318AS 160GB                    | 1         | 1.27%   |
 | Seagate ST2000DM008-2FR102 2TB               | 1         | 1.27%   |
-| Seagate ST1000LM035-1RK172 970GB             | 1         | 1.27%   |
-| Seagate Expansion 4TB                        | 1         | 1.27%   |
+| Seagate ST1000LM035-1RK172 1TB               | 1         | 1.27%   |
+| Seagate Expansion 1TB                        | 1         | 1.27%   |
 | Seagate BarraCuda Q1 SSD ZA480CV10001 480GB  | 1         | 1.27%   |
 | Sandisk WDC PC SN530 SDBPMPZ-256G-1101 256GB | 1         | 1.27%   |
 | SanDisk Ultra II 240GB SSD                   | 1         | 1.27%   |
@@ -999,7 +1001,7 @@ HDD or SSD
 |---------|-----------|--------|---------|
 | HDD     | 30        | 45     | 44.78%  |
 | SSD     | 27        | 35     | 40.3%   |
-| NVMe    | 7         | 10     | 10.45%  |
+| NVMe    | 7         | 11     | 10.45%  |
 | Unknown | 2         | 2      | 2.99%   |
 | MMC     | 1         | 1      | 1.49%   |
 
@@ -1014,7 +1016,7 @@ SATA, SAS, NVMe, etc.
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 50        | 79     | 83.33%  |
-| NVMe | 7         | 10     | 11.67%  |
+| NVMe | 7         | 11     | 11.67%  |
 | SAS  | 2         | 3      | 3.33%   |
 | MMC  | 1         | 1      | 1.67%   |
 
@@ -1029,8 +1031,7 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 41        | 56     | 71.93%  |
-| 0.51-1.0   | 14        | 20     | 24.56%  |
-| 3.01-4.0   | 1         | 1      | 1.75%   |
+| 0.51-1.0   | 15        | 21     | 26.32%  |
 | 1.01-2.0   | 1         | 3      | 1.75%   |
 
 Space Total
@@ -1156,7 +1157,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 39        | 66     | 65%     |
+| Detected | 39        | 67     | 65%     |
 | Works    | 16        | 22     | 26.67%  |
 | Malfunc  | 4         | 4      | 6.67%   |
 | Failed   | 1         | 1      | 1.67%   |
@@ -1637,7 +1638,7 @@ Monitor models
 | LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch              | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch                 | 1         | 1.69%   |
 | Iiyama PLX2380H IVM5621 1920x1080 509x286mm 23.0-inch                    | 1         | 1.69%   |
-| HKC Monitor HKC2160 1920x1080 304x228mm 15.0-inch                        | 1         | 1.69%   |
+| HKC '' HKC2160 1920x1080 360x270mm 17.7-inch                             | 1         | 1.69%   |
 | Hewlett-Packard HPQ 800 AIO HWP1080 1920x1080 510x287mm 23.0-inch        | 1         | 1.69%   |
 | Hewlett-Packard ALL-in-One HPN4018 1920x1080 527x297mm 23.8-inch         | 1         | 1.69%   |
 | Goldstar L1753T GSM4476 1280x1024 338x270mm 17.0-inch                    | 1         | 1.69%   |
@@ -2066,12 +2067,12 @@ Controller models
 | Realtek RTL8821A Bluetooth                          | 1         | 2.78%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 2.78%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 2.78%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 2.78%   |
+| Realtek Bluetooth Radio                             | 1         | 2.78%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 2.78%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.78%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.78%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 2.78%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 2.78%   |
+| Intel Bluetooth Device                              | 1         | 2.78%   |
 | Intel AX201 Bluetooth                               | 1         | 2.78%   |
 | Intel AX200 Bluetooth                               | 1         | 2.78%   |
 | IMC Networks Bluetooth Radio                        | 1         | 2.78%   |
@@ -2188,9 +2189,9 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2                              | 1         | 4%      |
 | Unknown (0x4509) RAM GKE800SO102408-2666A 8GB SODIMM DDR4 2133MT/s | 1         | 4%      |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s             | 1         | 4%      |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB Row Of Chips DDR4 3200MT/s       | 1         | 4%      |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8192MB Row Of Chips DDR4 3200MT/s    | 1         | 4%      |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s             | 1         | 4%      |
-| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s              | 1         | 4%      |
+| Samsung RAM M471B5773DH0-CK0 2048MB SODIMM DDR3 1600MT/s           | 1         | 4%      |
 | Samsung RAM M471B5773CHS-CH9 2GB DIMM DDR3 1333MT/s                | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s              | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s              | 1         | 4%      |
@@ -2249,9 +2250,9 @@ Memory module size
 | Size  | Computers | Percent |
 |-------|-----------|---------|
 | 8192  | 12        | 54.55%  |
-| 4096  | 6         | 27.27%  |
+| 4096  | 5         | 22.73%  |
 | 2048  | 3         | 13.64%  |
-| 16384 | 1         | 4.55%   |
+| 16384 | 2         | 9.09%   |
 
 Memory Speed
 ------------
@@ -2373,7 +2374,7 @@ Camera device models
 | Microdia Laptop_Integrated_Webcam_HD                | 1         | 2.56%   |
 | Microdia Integrated_Webcam_HD                       | 1         | 2.56%   |
 | Microdia Integrated Camera                          | 1         | 2.56%   |
-| MacroSilicon USB Video                              | 1         | 2.56%   |
+| MacroSilicon usb video                              | 1         | 2.56%   |
 | Luxvisions Innotech Limited Integrated Camera       | 1         | 2.56%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 1         | 2.56%   |
 | Lite-On TOSHIBA Web Camera - HD                     | 1         | 2.56%   |

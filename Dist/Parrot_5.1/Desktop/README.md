@@ -603,20 +603,20 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City           | Desktops | Percent |
-|----------------|----------|---------|
-| Tokyo          | 2        | 15.38%  |
-| Zacatecas City | 1        | 7.69%   |
-| Valencia       | 1        | 7.69%   |
-| Spring         | 1        | 7.69%   |
-| Sofia          | 1        | 7.69%   |
-| Pensacola      | 1        | 7.69%   |
-| Ordu           | 1        | 7.69%   |
-| Makati City    | 1        | 7.69%   |
-| Kingston       | 1        | 7.69%   |
-| Eugene         | 1        | 7.69%   |
-| Denver         | 1        | 7.69%   |
-| Chennai        | 1        | 7.69%   |
+| City               | Desktops | Percent |
+|--------------------|----------|---------|
+| Tokyo              | 2        | 15.38%  |
+| Valencia           | 1        | 7.69%   |
+| Spring             | 1        | 7.69%   |
+| Sofia              | 1        | 7.69%   |
+| Pensacola          | 1        | 7.69%   |
+| Ordu               | 1        | 7.69%   |
+| Makati City        | 1        | 7.69%   |
+| Kingston           | 1        | 7.69%   |
+| Guadalupe Trujillo | 1        | 7.69%   |
+| Eugene             | 1        | 7.69%   |
+| Denver             | 1        | 7.69%   |
+| Chennai            | 1        | 7.69%   |
 
 Drives
 ------
@@ -1210,7 +1210,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM02B7 1280x720                       | 1        | 6.67%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch      | 1        | 6.67%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch            | 1        | 6.67%   |
-| MStar Demo MST0030 1366x768 708x398mm 32.0-inch                        | 1        | 6.67%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1        | 6.67%   |
 | Insignia TV BBY0030 3840x2160 708x398mm 32.0-inch                      | 1        | 6.67%   |
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch          | 1        | 6.67%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 6.67%   |
@@ -1381,8 +1381,8 @@ Controller models
 | TP-Link Archer T4U ver.3                                           | 1        | 3.33%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)        | 1        | 3.33%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter           | 1        | 3.33%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                    | 1        | 3.33%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter              | 1        | 3.33%   |
+| Realtek 802.11ac WLAN Adapter                                      | 1        | 3.33%   |
 | Ralink RT5370 Wireless Adapter                                     | 1        | 3.33%   |
 | Ralink RT2070 Wireless Adapter                                     | 1        | 3.33%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                   | 1        | 3.33%   |
@@ -1433,8 +1433,8 @@ Wireless models
 |--------------------------------------------------------------------|----------|---------|
 | TP-Link Archer T4U ver.3                                           | 1        | 8.33%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter           | 1        | 8.33%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                    | 1        | 8.33%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter              | 1        | 8.33%   |
+| Realtek 802.11ac WLAN Adapter                                      | 1        | 8.33%   |
 | Ralink RT5370 Wireless Adapter                                     | 1        | 8.33%   |
 | Ralink RT2070 Wireless Adapter                                     | 1        | 8.33%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                   | 1        | 8.33%   |
@@ -1672,8 +1672,8 @@ Memory module models
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s     | 1        | 7.14%   |
 | Kingston RAM KHYXPX-HYJ 8GB SODIMM DDR4 2667MT/s         | 1        | 7.14%   |
 | G.Skill RAM F3-12800CL10-8GBXL 8GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| Corsair RAM CML8GX3M2A1600C9 4096MB DIMM DDR3 1867MT/s   | 1        | 7.14%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1800MT/s    | 1        | 7.14%   |
+| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1867MT/s      | 1        | 7.14%   |
 | Corsair RAM CMD16GX4M2B3000C15 8192MB DIMM DDR4 3100MT/s | 1        | 7.14%   |
 
 Memory Kind
@@ -1728,13 +1728,13 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 3        | 23.08%  |
 | 3200  | 2        | 15.38%  |
+| 1800  | 2        | 15.38%  |
+| 1600  | 2        | 15.38%  |
 | 3100  | 1        | 7.69%   |
 | 3000  | 1        | 7.69%   |
 | 2667  | 1        | 7.69%   |
 | 1867  | 1        | 7.69%   |
-| 1800  | 1        | 7.69%   |
 | 1333  | 1        | 7.69%   |
 | 1066  | 1        | 7.69%   |
 | 800   | 1        | 7.69%   |

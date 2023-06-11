@@ -1199,10 +1199,10 @@ Geographic location (city)
 
 | City                   | Notebooks | Percent |
 |------------------------|-----------|---------|
-| Paris                  | 6         | 2.17%   |
+| Paris                  | 6         | 2.16%   |
+| Rome                   | 4         | 1.44%   |
 | Milan                  | 4         | 1.44%   |
 | Salvador               | 3         | 1.08%   |
-| Rome                   | 3         | 1.08%   |
 | Mexico City            | 3         | 1.08%   |
 | Derry                  | 3         | 1.08%   |
 | Yekaterinburg          | 2         | 0.72%   |
@@ -1309,7 +1309,7 @@ Hard drive models
 | Kingston SA400S37240G 240GB SSD      | 6         | 1.83%   |
 | Seagate ST500LT012-1DG142 500GB      | 5         | 1.52%   |
 | Seagate ST500LM012 HN-M500MBB 500GB  | 5         | 1.52%   |
-| Seagate ST1000LM035-1RK172 970GB     | 4         | 1.22%   |
+| Seagate ST1000LM035-1RK172 1TB       | 4         | 1.22%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB   | 4         | 1.22%   |
 | WDC WD10SPZX-24Z10T0 1TB             | 3         | 0.91%   |
 | WDC PC SN520 SDAPNUW-256G-1006 256GB | 3         | 0.91%   |
@@ -1446,12 +1446,11 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 180       | 220    | 76.6%   |
-| 0.51-1.0   | 43        | 49     | 18.3%   |
-| 1.01-2.0   | 7         | 9      | 2.98%   |
-| 3.01-4.0   | 3         | 4      | 1.28%   |
-| 10.01-20.0 | 1         | 1      | 0.43%   |
-| 4.01-10.0  | 1         | 1      | 0.43%   |
+| 0.01-0.5   | 180       | 220    | 77.25%  |
+| 0.51-1.0   | 43        | 50     | 18.45%  |
+| 1.01-2.0   | 7         | 9      | 3%      |
+| 3.01-4.0   | 2         | 3      | 0.86%   |
+| 4.01-10.0  | 1         | 2      | 0.43%   |
 
 Space Total
 -----------
@@ -2164,8 +2163,8 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 5         | 1.78%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 3         | 1.07%   |
-| Samsung Electronics LCD Monitor SDC4852 1366x768 344x194mm 15.5-inch     | 3         | 1.07%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch     | 3         | 1.07%   |
+| Samsung Electronics LCD Monitor SDC4852 1920x1080 344x194mm 15.5-inch    | 3         | 1.07%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 3         | 1.07%   |
 | Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch                  | 3         | 1.07%   |
 | InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch              | 3         | 1.07%   |
@@ -2386,13 +2385,13 @@ Controller vendors
 | ASIX Electronics                  | 3         | 0.7%    |
 | Samsung Electronics               | 2         | 0.47%   |
 | Nvidia                            | 2         | 0.47%   |
-| FIBOCOM                           | 2         | 0.47%   |
+| Fibocom                           | 2         | 0.47%   |
 | Ericsson Business Mobile Networks | 2         | 0.47%   |
 | Dell                              | 2         | 0.47%   |
 | Attansic Technology               | 2         | 0.47%   |
 | Xiaomi                            | 1         | 0.23%   |
-| Tenda                             | 1         | 0.23%   |
 | Seeed                             | 1         | 0.23%   |
+| Realtek                           | 1         | 0.23%   |
 | NetGear                           | 1         | 0.23%   |
 | MediaTek                          | 1         | 0.23%   |
 | Hewlett-Packard                   | 1         | 0.23%   |
@@ -2466,8 +2465,8 @@ Wireless vendors
 | Broadcom Limited      | 4         | 1.51%   |
 | TP-Link               | 3         | 1.13%   |
 | Ralink                | 3         | 1.13%   |
-| FIBOCOM               | 2         | 0.75%   |
-| Tenda                 | 1         | 0.38%   |
+| Fibocom               | 2         | 0.75%   |
+| Realtek               | 1         | 0.38%   |
 | NetGear               | 1         | 0.38%   |
 | Dell                  | 1         | 0.38%   |
 
@@ -2591,7 +2590,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 1         | 0.42%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                                  | 1         | 0.42%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                       | 1         | 0.42%   |
-| MediaTek PRESIDENT_GOLD_10                                                     | 1         | 0.42%   |
+| MediaTek TECNO SPARK 9T                                                        | 1         | 0.42%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 0.42%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                        | 1         | 0.42%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                        | 1         | 0.42%   |
@@ -2705,7 +2704,7 @@ Controller models
 | Broadcom BCM2045B (BDC-2.1)                                                         | 4         | 2.34%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 3         | 1.75%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 3         | 1.75%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 3         | 1.75%   |
+| Intel Bluetooth Device                                                              | 3         | 1.75%   |
 | Apple Bluetooth Host Controller                                                     | 3         | 1.75%   |
 | Realtek RTL8821A Bluetooth                                                          | 2         | 1.17%   |
 | Realtek RTL8723B Bluetooth                                                          | 2         | 1.17%   |
@@ -2862,7 +2861,7 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 5         | 2.21%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 5         | 2.21%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 5         | 2.21%   |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s             | 5         | 2.21%   |
 | Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                    | 4         | 1.77%   |
@@ -2889,7 +2888,7 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 0.88%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s            | 2         | 0.88%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s           | 2         | 0.88%   |
-| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR 2048MT/s            | 2         | 0.88%   |
+| Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s           | 2         | 0.88%   |
 | Nanya RAM NT4GC64B8HB0NS-CG 4GB SODIMM DDR3 1334MT/s             | 2         | 0.88%   |
 | Micron RAM Module 8192MB SODIMM DDR4 2667MT/s                    | 2         | 0.88%   |
 | Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s            | 2         | 0.88%   |
@@ -3061,13 +3060,13 @@ Camera device vendors
 | Realtek Semiconductor                  | 18        | 8.04%   |
 | IMC Networks                           | 17        | 7.59%   |
 | Microdia                               | 15        | 6.7%    |
-| Bison Electronics                      | 10        | 4.46%   |
+| Bison Electronics                      | 11        | 4.91%   |
 | Alcor Micro                            | 10        | 4.46%   |
 | Quanta                                 | 9         | 4.02%   |
-| Acer                                   | 9         | 4.02%   |
 | Suyin                                  | 8         | 3.57%   |
 | Sunplus Innovation Technology          | 8         | 3.57%   |
 | Cheng Uei Precision Industry (Foxlink) | 8         | 3.57%   |
+| Acer                                   | 8         | 3.57%   |
 | Silicon Motion                         | 6         | 2.68%   |
 | Lite-On Technology                     | 5         | 2.23%   |
 | Apple                                  | 5         | 2.23%   |
@@ -3101,12 +3100,11 @@ Camera device models
 | Model                                                | Notebooks | Percent |
 |------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                            | 9         | 4%      |
+| Realtek Integrated_Webcam_HD                         | 6         | 2.67%   |
 | Chicony TOSHIBA Web Camera - HD                      | 6         | 2.67%   |
-| Realtek Integrated_Webcam_HD                         | 5         | 2.22%   |
-| Alcor Micro SHUNCCM2MP                               | 5         | 2.22%   |
+| Alcor Micro USB 2.0 Camera                           | 6         | 2.67%   |
 | IMC Networks USB2.0 VGA UVC WebCam                   | 4         | 1.78%   |
 | Chicony HP HD Camera                                 | 4         | 1.78%   |
-| Acer Lenovo EasyCamera                               | 4         | 1.78%   |
 | Realtek Integrated Webcam                            | 3         | 1.33%   |
 | Quanta HP HD Camera                                  | 3         | 1.33%   |
 | Lite-On HP HD Camera                                 | 3         | 1.33%   |
@@ -3116,13 +3114,14 @@ Camera device models
 | Chicony HD WebCam                                    | 3         | 1.33%   |
 | Chicony EasyCamera                                   | 3         | 1.33%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101 | 3         | 1.33%   |
-| Bison HD Webcam                                      | 3         | 1.33%   |
+| Bison VGA WebCam                                     | 3         | 1.33%   |
+| Bison Lenovo EasyCamera                              | 3         | 1.33%   |
 | Apple FaceTime HD Camera                             | 3         | 1.33%   |
 | Alcor Micro Asus Integrated Webcam                   | 3         | 1.33%   |
-| Acer VGA WebCam                                      | 3         | 1.33%   |
+| Acer HD WebCam                                       | 3         | 1.33%   |
 | Sunplus Laptop Integrated Webcam HD                  | 2         | 0.89%   |
 | Sunplus Integrated_Webcam_HD                         | 2         | 0.89%   |
-| Sunplus HD Webcam                                    | 2         | 0.89%   |
+| Sunplus HD WebCam                                    | 2         | 0.89%   |
 | Samsung Galaxy series, misc. (MTP mode)              | 2         | 0.89%   |
 | Realtek Lenovo EasyCamera                            | 2         | 0.89%   |
 | Realtek 2SF022                                       | 2         | 0.89%   |
@@ -3239,8 +3238,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 208       | 77.04%  |
-| 1     | 50        | 18.52%  |
+| 0     | 211       | 78.15%  |
+| 1     | 47        | 17.41%  |
 | 2     | 11        | 4.07%   |
 | 3     | 1         | 0.37%   |
 
@@ -3254,14 +3253,14 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 30        | 41.1%   |
-| Graphics card         | 15        | 20.55%  |
-| Chipcard              | 10        | 13.7%   |
-| Net/wireless          | 9         | 12.33%  |
-| Camera                | 3         | 4.11%   |
-| Storage               | 2         | 2.74%   |
-| Net/ethernet          | 1         | 1.37%   |
-| Multimedia controller | 1         | 1.37%   |
-| Flash memory          | 1         | 1.37%   |
-| Bluetooth             | 1         | 1.37%   |
+| Fingerprint reader    | 30        | 42.86%  |
+| Graphics card         | 12        | 17.14%  |
+| Chipcard              | 10        | 14.29%  |
+| Net/wireless          | 9         | 12.86%  |
+| Camera                | 3         | 4.29%   |
+| Storage               | 2         | 2.86%   |
+| Net/ethernet          | 1         | 1.43%   |
+| Multimedia controller | 1         | 1.43%   |
+| Flash memory          | 1         | 1.43%   |
+| Bluetooth             | 1         | 1.43%   |
 

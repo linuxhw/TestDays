@@ -660,13 +660,14 @@ Geographic location (city)
 
 | City      | Desktops | Percent |
 |-----------|----------|---------|
-| Istanbul  | 6        | 35.29%  |
 | Bursa     | 4        | 23.53%  |
-| Aydin     | 3        | 17.65%  |
+| Aydin     | 4        | 23.53%  |
+| Istanbul  | 3        | 17.65%  |
+| Ankara    | 2        | 11.76%  |
 | Yaman     | 1        | 5.88%   |
 | Soleymieu | 1        | 5.88%   |
+| Niğde    | 1        | 5.88%   |
 | Konya     | 1        | 5.88%   |
-| Ankara    | 1        | 5.88%   |
 
 Drives
 ------
@@ -1261,7 +1262,7 @@ Monitor models
 | Samsung Electronics S27H65x SAM0E1E 1920x1080 598x336mm 27.0-inch     | 1        | 5%      |
 | SAC Casper SAC3219 1366x768 304x228mm 15.0-inch                       | 1        | 5%      |
 | Iiyama PLX2380H IVM5621 1920x1080 509x286mm 23.0-inch                 | 1        | 5%      |
-| HKC Monitor HKC2160 1920x1080 304x228mm 15.0-inch                     | 1        | 5%      |
+| HKC '' HKC2160 1920x1080 360x270mm 17.7-inch                          | 1        | 5%      |
 | Hewlett-Packard HPQ 800 AIO HWP1080 1920x1080 510x287mm 23.0-inch     | 1        | 5%      |
 | Goldstar L1753T GSM4476 1280x1024 338x270mm 17.0-inch                 | 1        | 5%      |
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 5%      |
@@ -1795,7 +1796,7 @@ Camera device models
 |-----------------------------------------|----------|---------|
 | Realtek HP 2.0MP High Definition Webcam | 1        | 20%     |
 | Microdia Integrated Camera              | 1        | 20%     |
-| MacroSilicon USB Video                  | 1        | 20%     |
+| MacroSilicon usb video                  | 1        | 20%     |
 | Arkmicro USB2.0 PC CAMERA               | 1        | 20%     |
 | Alcor Micro USB 2.0 PC Camera           | 1        | 20%     |
 

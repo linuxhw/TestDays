@@ -688,7 +688,7 @@ Hard drive models
 | Patriot Burst Elite 120GB SSD   | 1        | 6.67%   |
 | Intenso SSD 128GB               | 1        | 6.67%   |
 | Intenso SSD 120GB               | 1        | 6.67%   |
-| ASMT 2235 1TB                   | 1        | 6.67%   |
+| ASMT 2235 128GB                 | 1        | 6.67%   |
 
 HDD Vendor
 ----------
@@ -758,8 +758,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 8        | 13     | 80%     |
-| 0.51-1.0   | 2        | 6      | 20%     |
+| 0.01-0.5   | 8        | 15     | 80%     |
+| 0.51-1.0   | 2        | 4      | 20%     |
 
 Space Total
 -----------
@@ -1542,14 +1542,14 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                | 1        | 16.67%  |
-| Toshiba RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s    | 1        | 16.67%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1600MT/s  | 1        | 16.67%  |
-| SK hynix RAM HMP125U6EFR8C-S6 2GB DIMM DDR2 800MT/s      | 1        | 16.67%  |
-| Micron RAM 16HTF25664AZ-800H1 2GB DIMM DDR2 800MT/s      | 1        | 16.67%  |
-| Kingston RAM 9905471-011.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 16.67%  |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s               | 1        | 16.67%  |
+| Toshiba RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s   | 1        | 16.67%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1600MT/s | 1        | 16.67%  |
+| SK hynix RAM HMP125U6EFR8C-S6 2GB DIMM DDR2 800MT/s     | 1        | 16.67%  |
+| Micron RAM 16HTF25664AZ-800H1 2GB DIMM DDR2 800MT/s     | 1        | 16.67%  |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 16.67%  |
 
 Memory Kind
 -----------
@@ -1629,9 +1629,9 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                       | Desktops | Percent |
-|-----------------------------|----------|---------|
-| Brother DCP-L3550CDW series | 1        | 100%    |
+| Model                | Desktops | Percent |
+|----------------------|----------|---------|
+| Brother DCP-L3550CDW | 1        | 100%    |
 
 Scanner Vendor
 --------------
@@ -1718,8 +1718,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 7        | 70%     |
-| 1     | 2        | 20%     |
+| 0     | 6        | 60%     |
+| 1     | 3        | 30%     |
 | 2     | 1        | 10%     |
 
 Unsupported Device Types
@@ -1730,8 +1730,9 @@ Types of unsupported devices
 ![Unsupported Device Types](./images/pie_chart/device_unsupported_type.svg)
 
 
-| Type         | Desktops | Percent |
-|--------------|----------|---------|
-| Net/wireless | 2        | 66.67%  |
-| Bluetooth    | 1        | 33.33%  |
+| Type          | Desktops | Percent |
+|---------------|----------|---------|
+| Net/wireless  | 2        | 50%     |
+| Graphics card | 1        | 25%     |
+| Bluetooth     | 1        | 25%     |
 

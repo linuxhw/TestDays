@@ -606,10 +606,10 @@ Geographic location (city)
 | San Francisco    | 1         | 8.33%   |
 | Pinetop-Lakeside | 1         | 8.33%   |
 | Pasadena         | 1         | 8.33%   |
+| Ontario          | 1         | 8.33%   |
 | Lusby            | 1         | 8.33%   |
 | Los Angeles      | 1         | 8.33%   |
 | Limassol         | 1         | 8.33%   |
-| La Farge         | 1         | 8.33%   |
 | Flagstaff        | 1         | 8.33%   |
 | Domont           | 1         | 8.33%   |
 | Denver           | 1         | 8.33%   |

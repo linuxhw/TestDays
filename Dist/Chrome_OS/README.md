@@ -736,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 32        | 54.24%  |
-| Yes       | 27        | 45.76%  |
+| No        | 33        | 55.93%  |
+| Yes       | 26        | 44.07%  |
 
 Has Ethernet
 ------------
@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 320GB                   | 1         | 1.49%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1037,7 +1037,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 49     | 100%    |
+| 0.01-0.5   | 40        | 48     | 97.56%  |
+| 0.51-1.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1590,7 +1591,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768                      | 1         | 1.67%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                        | 1         | 1.67%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch                | 1         | 1.67%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch           | 1         | 1.67%   |
@@ -2178,11 +2179,11 @@ Memory module size
 ![Memory Size](./All/images/pie_chart/memory_size.svg)
 
 
-| Size | Computers | Percent |
-|------|-----------|---------|
-| 8192 | 1         | 33.33%  |
-| 4096 | 1         | 33.33%  |
-| 2048 | 1         | 33.33%  |
+| Size  | Computers | Percent |
+|-------|-----------|---------|
+| 16384 | 1         | 33.33%  |
+| 8192  | 1         | 33.33%  |
+| 2048  | 1         | 33.33%  |
 
 Memory Speed
 ------------
@@ -2222,10 +2223,10 @@ Printer device models
 ![Printer Model](./All/images/pie_chart/printer_model.svg)
 
 
-| Model                    | Computers | Percent |
-|--------------------------|-----------|---------|
-| Seiko Epson L3150 Series | 1         | 50%     |
-| HP LaserJet 1012         | 1         | 50%     |
+| Model                      | Computers | Percent |
+|----------------------------|-----------|---------|
+| Seiko Epson ET-2710 Series | 1         | 50%     |
+| HP LaserJet 1012           | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2273,11 +2274,12 @@ Camera device vendors
 | Microdia                               | 2         | 5.71%   |
 | Lite-On Technology                     | 2         | 5.71%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.71%   |
-| Acer                                   | 2         | 5.71%   |
 | Sunplus Innovation Technology          | 1         | 2.86%   |
 | Importek                               | 1         | 2.86%   |
 | IMC Networks                           | 1         | 2.86%   |
+| Bison Electronics                      | 1         | 2.86%   |
 | ARC International                      | 1         | 2.86%   |
+| Acer                                   | 1         | 2.86%   |
 
 Camera Model
 ------------
@@ -2289,7 +2291,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 17.14%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 17.14%  |
 | Lenovo UVC Camera                                       | 3         | 8.57%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.71%   |
 | Lite-On Integrated Camera                               | 2         | 5.71%   |
@@ -2312,8 +2314,8 @@ Camera device models
 | Chicony HD WebCam                                       | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101    | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 2.86%   |
+| Bison VGA WebCam                                        | 1         | 2.86%   |
 | ARC International Camera                                | 1         | 2.86%   |
-| Acer VGA WebCam                                         | 1         | 2.86%   |
 | Acer EasyCamera                                         | 1         | 2.86%   |
 
 Security

@@ -844,8 +844,8 @@ Has Ethernet on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 78        | 87.64%  |
-| Yes       | 11        | 12.36%  |
+| No        | 78        | 86.67%  |
+| Yes       | 12        | 13.33%  |
 
 Has WiFi
 --------
@@ -857,8 +857,8 @@ Has WiFi module
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 57        | 62.64%  |
-| Yes       | 34        | 37.36%  |
+| No        | 57        | 63.33%  |
+| Yes       | 33        | 36.67%  |
 
 Has Bluetooth
 -------------
@@ -921,46 +921,46 @@ Geographic location (city)
 
 | City                   | Computers | Percent |
 |------------------------|-----------|---------|
-| Greoux-les-Bains       | 5         | 5.32%   |
-| Paris                  | 2         | 2.13%   |
-| London                 | 2         | 2.13%   |
-| Denver                 | 2         | 2.13%   |
-| Berlin                 | 2         | 2.13%   |
-| Adelaide               | 2         | 2.13%   |
-| Yaroslavl              | 1         | 1.06%   |
-| Wooster                | 1         | 1.06%   |
-| Woodville              | 1         | 1.06%   |
-| Weinheim               | 1         | 1.06%   |
-| Viseu                  | 1         | 1.06%   |
-| Virginia Beach         | 1         | 1.06%   |
-| Vallauris              | 1         | 1.06%   |
-| Union City             | 1         | 1.06%   |
-| Toronto                | 1         | 1.06%   |
-| Thun                   | 1         | 1.06%   |
-| Sydney                 | 1         | 1.06%   |
-| Strasbourg             | 1         | 1.06%   |
-| Springboro             | 1         | 1.06%   |
-| San Mateo              | 1         | 1.06%   |
-| San Germano Vercellese | 1         | 1.06%   |
-| San Francisco          | 1         | 1.06%   |
-| San Diego              | 1         | 1.06%   |
-| Rotterdam              | 1         | 1.06%   |
-| Redding                | 1         | 1.06%   |
-| Potomac                | 1         | 1.06%   |
-| Portland               | 1         | 1.06%   |
-| Pinetop-Lakeside       | 1         | 1.06%   |
-| Perth                  | 1         | 1.06%   |
-| Perm                   | 1         | 1.06%   |
-| Pasadena               | 1         | 1.06%   |
-| Pabianice              | 1         | 1.06%   |
-| Nottingham             | 1         | 1.06%   |
-| North Battleford       | 1         | 1.06%   |
-| North Adams            | 1         | 1.06%   |
-| New Delhi              | 1         | 1.06%   |
-| Naxxar                 | 1         | 1.06%   |
-| Moscow                 | 1         | 1.06%   |
-| Montreal               | 1         | 1.06%   |
-| Melbourne              | 1         | 1.06%   |
+| Greoux-les-Bains       | 5         | 5.26%   |
+| Paris                  | 2         | 2.11%   |
+| London                 | 2         | 2.11%   |
+| Denver                 | 2         | 2.11%   |
+| Berlin                 | 2         | 2.11%   |
+| Adelaide               | 2         | 2.11%   |
+| Yaroslavl              | 1         | 1.05%   |
+| Wooster                | 1         | 1.05%   |
+| Woodville              | 1         | 1.05%   |
+| Weinheim               | 1         | 1.05%   |
+| Viseu                  | 1         | 1.05%   |
+| Virginia Beach         | 1         | 1.05%   |
+| Vallauris              | 1         | 1.05%   |
+| Union City             | 1         | 1.05%   |
+| Toronto                | 1         | 1.05%   |
+| Thun                   | 1         | 1.05%   |
+| Sydney                 | 1         | 1.05%   |
+| Strasbourg             | 1         | 1.05%   |
+| Springboro             | 1         | 1.05%   |
+| San Pawl il-Bahar      | 1         | 1.05%   |
+| San Mateo              | 1         | 1.05%   |
+| San Germano Vercellese | 1         | 1.05%   |
+| San Francisco          | 1         | 1.05%   |
+| San Diego              | 1         | 1.05%   |
+| Rotterdam              | 1         | 1.05%   |
+| Redding                | 1         | 1.05%   |
+| Potomac                | 1         | 1.05%   |
+| Portland               | 1         | 1.05%   |
+| Pinetop-Lakeside       | 1         | 1.05%   |
+| Perth                  | 1         | 1.05%   |
+| Perm                   | 1         | 1.05%   |
+| Pasadena               | 1         | 1.05%   |
+| Pabianice              | 1         | 1.05%   |
+| Ontario                | 1         | 1.05%   |
+| Nottingham             | 1         | 1.05%   |
+| North Battleford       | 1         | 1.05%   |
+| North Adams            | 1         | 1.05%   |
+| New Delhi              | 1         | 1.05%   |
+| Naxxar                 | 1         | 1.05%   |
+| Moscow                 | 1         | 1.05%   |
 
 Drives
 ------
@@ -1007,11 +1007,11 @@ Hard drive models
 | Unknown SE32G  32GB            | 5         | 4.27%   |
 | Unknown DA4064  64GB           | 4         | 3.42%   |
 | Unknown MMC Card  256GB        | 3         | 2.56%   |
-| ASMT 2115 2TB                  | 3         | 2.56%   |
+| ASMT 2115 160GB                | 3         | 2.56%   |
 | Unknown MMC Card  16GB         | 2         | 1.71%   |
-| Seagate Expansion 4TB          | 2         | 1.71%   |
+| Seagate Expansion 1TB          | 2         | 1.71%   |
 | Argon Forty 1024GB             | 2         | 1.71%   |
-| USB3.0 Disk 64GB               | 1         | 0.85%   |
+| USB3.0 Disk 500GB              | 1         | 0.85%   |
 | Unknown SN64G  64GB            | 1         | 0.85%   |
 | Unknown SN128  128GB           | 1         | 0.85%   |
 | Unknown SL64G  64GB            | 1         | 0.85%   |
@@ -1022,7 +1022,7 @@ Hard drive models
 | Toshiba NVMe SSD Drive 256GB   | 1         | 0.85%   |
 | Toshiba HDWD240 4TB            | 1         | 0.85%   |
 | SK hynix HBG4e  32GB           | 1         | 0.85%   |
-| Seagate Expansion Desk 8TB     | 1         | 0.85%   |
+| Seagate Expansion Desk 4TB     | 1         | 0.85%   |
 | SanDisk SSD PLUS 240GB         | 1         | 0.85%   |
 | SanDisk SL32G  32GB            | 1         | 0.85%   |
 | SanDisk Portable SSD 1TB       | 1         | 0.85%   |
@@ -1107,11 +1107,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 1.01-2.0   | 5         | 6      | 31.25%  |
-| 0.01-0.5   | 4         | 9      | 25%     |
-| 3.01-4.0   | 3         | 5      | 18.75%  |
-| 0.51-1.0   | 3         | 3      | 18.75%  |
-| 4.01-10.0  | 1         | 1      | 6.25%   |
+| 0.01-0.5   | 7         | 12     | 46.67%  |
+| 0.51-1.0   | 5         | 7      | 33.33%  |
+| 1.01-2.0   | 2         | 3      | 13.33%  |
+| 3.01-4.0   | 1         | 2      | 6.67%   |
 
 Space Total
 -----------
@@ -1467,48 +1466,48 @@ Monitor models
 ![Monitor Model](./All/images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Computers | Percent |
-|-------------------------------------------------------------------------|-----------|---------|
-| Iiyama PL4071UH IVM000A 3840x2160 880x490mm 39.7-inch                   | 3         | 6.38%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch       | 2         | 4.26%   |
-| Ancor Communications ASUS VH242 ACI24FA 1920x1080 521x293mm 23.5-inch   | 2         | 4.26%   |
-| ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch           | 1         | 2.13%   |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1         | 2.13%   |
-| Unknown (XXX) HDMI     XXX0029 1920x1080 1150x650mm 52.0-inch           | 1         | 2.13%   |
-| Unknown (ADA) MPI4008 ADA0004 480x800 150x100mm 7.1-inch                | 1         | 2.13%   |
-| Sceptre Tech Sceptre J20 SPT080D 1600x900 435x237mm 19.5-inch           | 1         | 2.13%   |
-| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch       | 1         | 2.13%   |
-| Samsung Electronics SyncMaster SAM02FD 1680x1050 430x270mm 20.0-inch    | 1         | 2.13%   |
-| Samsung Electronics SyncMaster SAM01D4 1440x900 408x225mm 18.3-inch     | 1         | 2.13%   |
-| Samsung Electronics S27D390 SAM0B67 1920x1080 598x336mm 27.0-inch       | 1         | 2.13%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1         | 2.13%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch   | 1         | 2.13%   |
-| Samsung Electronics LCD Monitor SAM0E35 1920x1080 1210x680mm 54.6-inch  | 1         | 2.13%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1872x1053mm 84.6-inch | 1         | 2.13%   |
-| Samsung Electronics LCD Monitor SAM0C39 1920x1080 885x498mm 40.0-inch   | 1         | 2.13%   |
-| Samsung Electronics LCD Monitor SAM04FD 1280x720                        | 1         | 2.13%   |
-| Philips PHL 252B9 PHL092C 1920x1080 535x339mm 24.9-inch                 | 1         | 2.13%   |
-| Philips PHL 221V8 PHLC211 1920x1080 477x268mm 21.5-inch                 | 1         | 2.13%   |
-| ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                     | 1         | 2.13%   |
-| InfoVision LCD Monitor IVO0536 1920x1080 294x165mm 13.3-inch            | 1         | 2.13%   |
-| HJW HDMI TO USB HJW0001 1920x1080 700x390mm 31.5-inch                   | 1         | 2.13%   |
-| Hewlett-Packard LP2475w HWP26F8 1920x1200 546x352mm 25.6-inch           | 1         | 2.13%   |
-| Hewlett-Packard f1523 HWP2607 1024x768 304x228mm 15.0-inch              | 1         | 2.13%   |
-| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch             | 1         | 2.13%   |
-| Grundig WUXGA GRU4448 1920x540                                          | 1         | 2.13%   |
-| Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                   | 1         | 2.13%   |
-| GKK MONITOR GKK3034 1920x1080                                           | 1         | 2.13%   |
-| Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                        | 1         | 2.13%   |
-| DMT CHHWJT* DMT0030 1440x900 710x400mm 32.1-inch                        | 1         | 2.13%   |
-| Dell SE2416H DELD082 1920x1080 527x296mm 23.8-inch                      | 1         | 2.13%   |
-| Dell P2815Q DELF05C 3840x2160 621x341mm 27.9-inch                       | 1         | 2.13%   |
-| Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                       | 1         | 2.13%   |
-| Dell P2418D DELD0C2 2560x1440 526x296mm 23.8-inch                       | 1         | 2.13%   |
-| Dell 1704FPT DEL4004 1280x1024 338x270mm 17.0-inch                      | 1         | 2.13%   |
-| BenQ GW2780 BNQ78E6 1920x1080 598x336mm 27.0-inch                       | 1         | 2.13%   |
-| BenQ GW2283 BNQ78E9 1920x1080 476x268mm 21.5-inch                       | 1         | 2.13%   |
-| ASUSTek Computer VZ249 AUS24CC 1920x1080 527x296mm 23.8-inch            | 1         | 2.13%   |
-| ASUSTek Computer VG289 AUS28BA 3840x2160 621x341mm 27.9-inch            | 1         | 2.13%   |
+| Model                                                                 | Computers | Percent |
+|-----------------------------------------------------------------------|-----------|---------|
+| Iiyama PL4071UH IVM000A 3840x2160 880x490mm 39.7-inch                 | 3         | 6.38%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 2         | 4.26%   |
+| Ancor Communications ASUS VH242 ACI24FA 1920x1080 521x293mm 23.5-inch | 2         | 4.26%   |
+| ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch         | 1         | 2.13%   |
+| Vestel Elektronik 43UHD_LCD_TV VES3700 3840x2160 950x540mm 43.0-inch  | 1         | 2.13%   |
+| Unknown (XXX) HDMI     XXX0029 1920x1080 1150x650mm 52.0-inch         | 1         | 2.13%   |
+| Unknown (ADA) MPI4008 ADA0004 480x800 150x100mm 7.1-inch              | 1         | 2.13%   |
+| Sceptre Tech Sceptre E20 SPT080D 1600x900 410x280mm 19.5-inch         | 1         | 2.13%   |
+| Samsung Electronics U28E590 SAM0C4C 3840x2160 610x350mm 27.7-inch     | 1         | 2.13%   |
+| Samsung Electronics SyncMaster SAM02FD 1680x1050 430x270mm 20.0-inch  | 1         | 2.13%   |
+| Samsung Electronics SyncMaster SAM01D4 1440x900 408x225mm 18.3-inch   | 1         | 2.13%   |
+| Samsung Electronics S27D390 SAM0B67 1920x1080 598x336mm 27.0-inch     | 1         | 2.13%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SAM0E35 1920x1080 700x390mm 31.5-inch | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SAM0C39 1920x1080 885x498mm 40.0-inch | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SAM04FD 1280x720                      | 1         | 2.13%   |
+| Philips PHL 252B9 PHL092C 1920x1080 535x339mm 24.9-inch               | 1         | 2.13%   |
+| Philips PHL 221V8 PHLC211 1920x1080 477x268mm 21.5-inch               | 1         | 2.13%   |
+| ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                   | 1         | 2.13%   |
+| InfoVision LCD Monitor IVO0536 1920x1080 294x165mm 13.3-inch          | 1         | 2.13%   |
+| HJW HDMI TO USB HJW0001 1920x1080 700x390mm 31.5-inch                 | 1         | 2.13%   |
+| Hewlett-Packard LP2475w HWP26F8 1920x1200 546x352mm 25.6-inch         | 1         | 2.13%   |
+| Hewlett-Packard f1523 HWP2607 1024x768 304x228mm 15.0-inch            | 1         | 2.13%   |
+| Hewlett-Packard 22cwa HWP3183 1920x1080 480x270mm 21.7-inch           | 1         | 2.13%   |
+| Grundig WUXGA GRU4448 1920x1080                                       | 1         | 2.13%   |
+| Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                 | 1         | 2.13%   |
+| GKK MONITOR GKK3034 1920x1080                                         | 1         | 2.13%   |
+| Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                      | 1         | 2.13%   |
+| DMT CHHWJT* DMT0030 1440x900 710x400mm 32.1-inch                      | 1         | 2.13%   |
+| Dell SE2416H DELD082 1920x1080 527x296mm 23.8-inch                    | 1         | 2.13%   |
+| Dell P2815Q DELF05C 3840x2160 621x341mm 27.9-inch                     | 1         | 2.13%   |
+| Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                     | 1         | 2.13%   |
+| Dell P2418D DELD0C2 2560x1440 526x296mm 23.8-inch                     | 1         | 2.13%   |
+| Dell 1704FPT DEL4004 1280x1024 338x270mm 17.0-inch                    | 1         | 2.13%   |
+| BenQ GW2780 BNQ78E6 1920x1080 600x340mm 27.2-inch                     | 1         | 2.13%   |
+| BenQ GW2283 BNQ78E9 1920x1080 476x268mm 21.5-inch                     | 1         | 2.13%   |
+| ASUSTek Computer VZ249 AUS24CC 1920x1080 527x296mm 23.8-inch          | 1         | 2.13%   |
+| ASUSTek Computer VG289 AUS28BA 3840x2160 621x341mm 27.9-inch          | 1         | 2.13%   |
 
 Monitor Resolution
 ------------------
@@ -1689,7 +1688,7 @@ Controller models
 
 | Model                                                                                | Computers | Percent |
 |--------------------------------------------------------------------------------------|-----------|---------|
-| ICS Advent 10/100M LAN                                                               | 4         | 18.18%  |
+| ICS Advent USB 10/100 LAN                                                            | 4         | 18.18%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                             | 2         | 9.09%   |
 | ASIX AX88179 Gigabit Ethernet                                                        | 2         | 9.09%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                                | 1         | 4.55%   |
@@ -1717,11 +1716,11 @@ Wireless vendors
 
 | Vendor                          | Computers | Percent |
 |---------------------------------|-----------|---------|
-| TP-Link                         | 4         | 40%     |
-| Realtek Semiconductor           | 3         | 30%     |
-| Qualcomm Atheros Communications | 1         | 10%     |
-| Intel                           | 1         | 10%     |
-| D-Link                          | 1         | 10%     |
+| TP-Link                         | 3         | 33.33%  |
+| Realtek Semiconductor           | 3         | 33.33%  |
+| Qualcomm Atheros Communications | 1         | 11.11%  |
+| Intel                           | 1         | 11.11%  |
+| D-Link                          | 1         | 11.11%  |
 
 Wireless Model
 --------------
@@ -1733,16 +1732,15 @@ Wireless models
 
 | Model                                                                                | Computers | Percent |
 |--------------------------------------------------------------------------------------|-----------|---------|
-| TP-Link TL-WN822N Version 4 RTL8192EU                                                | 1         | 10%     |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                         | 1         | 10%     |
-| TP-Link Archer T4U ver.3                                                             | 1         | 10%     |
-| TP-Link Archer T2U PLUS [RTL8821AU]                                                  | 1         | 10%     |
-| Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter                                  | 1         | 10%     |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                              | 1         | 10%     |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                  | 1         | 10%     |
-| Qualcomm Atheros TP-Link TL-WN821N v3 / TL-WN822N v2 802.11n [Atheros AR7010+AR9287] | 1         | 10%     |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                               | 1         | 10%     |
-| D-Link 802.11ac NIC                                                                  | 1         | 10%     |
+| TP-Link TL-WN822N Version 4 RTL8192EU                                                | 1         | 11.11%  |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                         | 1         | 11.11%  |
+| TP-Link Archer T4U ver.3                                                             | 1         | 11.11%  |
+| Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter                                  | 1         | 11.11%  |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                              | 1         | 11.11%  |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                  | 1         | 11.11%  |
+| Qualcomm Atheros TP-Link TL-WN821N v3 / TL-WN822N v2 802.11n [Atheros AR7010+AR9287] | 1         | 11.11%  |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                               | 1         | 11.11%  |
+| D-Link 802.11ac NIC                                                                  | 1         | 11.11%  |
 
 Ethernet Vendor
 ---------------
@@ -1754,10 +1752,11 @@ Ethernet vendors
 
 | Vendor                | Computers | Percent |
 |-----------------------|-----------|---------|
-| ICS Advent            | 4         | 40%     |
-| Realtek Semiconductor | 3         | 30%     |
-| ASIX Electronics      | 2         | 20%     |
-| Netchip Technology    | 1         | 10%     |
+| ICS Advent            | 4         | 36.36%  |
+| Realtek Semiconductor | 3         | 27.27%  |
+| ASIX Electronics      | 2         | 18.18%  |
+| TP-Link               | 1         | 9.09%   |
+| Netchip Technology    | 1         | 9.09%   |
 
 Ethernet Model
 --------------
@@ -1769,11 +1768,12 @@ Ethernet models
 
 | Model                                    | Computers | Percent |
 |------------------------------------------|-----------|---------|
-| ICS Advent 10/100M LAN                   | 4         | 40%     |
-| Realtek RTL8153 Gigabit Ethernet Adapter | 2         | 20%     |
-| ASIX AX88179 Gigabit Ethernet            | 2         | 20%     |
-| Realtek RTL8152 Fast Ethernet Adapter    | 1         | 10%     |
-| Netchip Linux-USB Ethernet/RNDIS Gadget  | 1         | 10%     |
+| ICS Advent USB 10/100 LAN                | 4         | 36.36%  |
+| Realtek RTL8153 Gigabit Ethernet Adapter | 2         | 18.18%  |
+| ASIX AX88179 Gigabit Ethernet            | 2         | 18.18%  |
+| TP-Link Archer T2U PLUS [RTL8821AU]      | 1         | 9.09%   |
+| Realtek RTL8152 Fast Ethernet Adapter    | 1         | 9.09%   |
+| Netchip Linux-USB Ethernet/RNDIS Gadget  | 1         | 9.09%   |
 
 Net Controller Kind
 -------------------
@@ -1785,8 +1785,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 10        | 52.63%  |
-| WiFi     | 7         | 36.84%  |
+| Ethernet | 11        | 57.89%  |
+| WiFi     | 6         | 31.58%  |
 | Modem    | 2         | 10.53%  |
 
 Used Controller
@@ -2009,7 +2009,7 @@ Camera device models
 |-------------------------------------------------------|-----------|---------|
 | Microdia HP Integrated Webcam                         | 11        | 73.33%  |
 | OnePlus (Shenzhen) SM8150-MTP _SN:A05FE1A2            | 1         | 6.67%   |
-| MacroSilicon USB Video                                | 1         | 6.67%   |
+| MacroSilicon usb video                                | 1         | 6.67%   |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode) | 1         | 6.67%   |
 | Bison Integrated Camera                               | 1         | 6.67%   |
 

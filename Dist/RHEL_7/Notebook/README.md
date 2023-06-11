@@ -1122,7 +1122,7 @@ Monitor models
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 7.69%   |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 7.69%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 7.69%   |
-| ITE DP2VGA V152 ITE6512 1366x768 600x340mm 27.2-inch                  | 1         | 7.69%   |
+| ITE DP2VGA V168 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 7.69%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 7.69%   |
 | Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
@@ -1280,7 +1280,7 @@ Controller models
 | Realtek RTL8153 Gigabit Ethernet Adapter                           | 1         | 4.35%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 1         | 4.35%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                   | 1         | 4.35%   |
-| OPPO KALAMA-MTP_CID:0437_SN:AEEEF597                               | 1         | 4.35%   |
+| OPPO SM8350-MTP _SN:1518BD09                                       | 1         | 4.35%   |
 | Intel Wi-Fi 6 AX200                                                | 1         | 4.35%   |
 | Intel Ethernet Connection (7) I219-LM                              | 1         | 4.35%   |
 | Intel Ethernet Connection (6) I219-LM                              | 1         | 4.35%   |
@@ -1354,7 +1354,7 @@ Ethernet models
 | Intel Ethernet Connection (6) I219-V                              | 2         | 18.18%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 9.09%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
-| OPPO KALAMA-MTP_CID:0437_SN:AEEEF597                              | 1         | 9.09%   |
+| OPPO SM8350-MTP _SN:1518BD09                                      | 1         | 9.09%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (6) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (5) I219-LM                             | 1         | 9.09%   |

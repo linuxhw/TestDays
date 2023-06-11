@@ -820,7 +820,7 @@ Hard drive models
 | Seagate ST3320620AS 320GB                    | 1        | 2.08%   |
 | Seagate ST31000524AS 1TB                     | 1        | 2.08%   |
 | Seagate ST250DM000-1BD141 250GB              | 1        | 2.08%   |
-| Seagate ST1000LM035-1RK172 970GB             | 1        | 2.08%   |
+| Seagate ST1000LM035-1RK172 1TB               | 1        | 2.08%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1        | 2.08%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1        | 2.08%   |
 | SanDisk SSD PLUS 480GB                       | 1        | 2.08%   |
@@ -839,7 +839,7 @@ Hard drive models
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.08%   |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.08%   |
 | Kingston SV300S37A120G 120GB SSD             | 1        | 2.08%   |
-| JMicron Generic 1TB                          | 1        | 2.08%   |
+| JMicron Generic 320GB                        | 1        | 2.08%   |
 | Hitachi HDS728080PLA380 82GB                 | 1        | 2.08%   |
 
 HDD Vendor
@@ -850,14 +850,13 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor             | Desktops | Drives | Percent |
-|--------------------|----------|--------|---------|
-| Seagate            | 8        | 10     | 47.06%  |
-| WDC                | 4        | 6      | 23.53%  |
-| Hitachi            | 2        | 2      | 11.76%  |
-| Toshiba            | 1        | 1      | 5.88%   |
-| Maxtor             | 1        | 1      | 5.88%   |
-| JMicron Technology | 1        | 1      | 5.88%   |
+| Vendor  | Desktops | Drives | Percent |
+|---------|----------|--------|---------|
+| Seagate | 8        | 10     | 50%     |
+| WDC     | 4        | 6      | 25%     |
+| Hitachi | 2        | 2      | 12.5%   |
+| Toshiba | 1        | 1      | 6.25%   |
+| Maxtor  | 1        | 1      | 6.25%   |
 
 SSD Vendor
 ----------
@@ -869,19 +868,20 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 3        | 3      | 16.67%  |
-| Kingston            | 3        | 4      | 16.67%  |
-| SanDisk             | 2        | 2      | 11.11%  |
-| WDC                 | 1        | 1      | 5.56%   |
-| Seagate             | 1        | 1      | 5.56%   |
-| Origin              | 1        | 1      | 5.56%   |
-| Micron Technology   | 1        | 1      | 5.56%   |
-| LITEONIT            | 1        | 1      | 5.56%   |
-| Leven               | 1        | 1      | 5.56%   |
-| Crucial             | 1        | 1      | 5.56%   |
-| China               | 1        | 1      | 5.56%   |
-| ASMT                | 1        | 1      | 5.56%   |
-| A-DATA Technology   | 1        | 1      | 5.56%   |
+| Samsung Electronics | 3        | 3      | 15.79%  |
+| Kingston            | 3        | 4      | 15.79%  |
+| SanDisk             | 2        | 2      | 10.53%  |
+| WDC                 | 1        | 1      | 5.26%   |
+| Seagate             | 1        | 1      | 5.26%   |
+| Origin              | 1        | 1      | 5.26%   |
+| Micron Technology   | 1        | 1      | 5.26%   |
+| LITEONIT            | 1        | 1      | 5.26%   |
+| Leven               | 1        | 1      | 5.26%   |
+| JMicron Technology  | 1        | 1      | 5.26%   |
+| Crucial             | 1        | 1      | 5.26%   |
+| China               | 1        | 1      | 5.26%   |
+| ASMT                | 1        | 1      | 5.26%   |
+| A-DATA Technology   | 1        | 1      | 5.26%   |
 
 Drive Kind
 ----------
@@ -893,11 +893,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 15       | 19     | 39.47%  |
-| HDD     | 14       | 21     | 36.84%  |
-| NVMe    | 5        | 8      | 13.16%  |
-| MMC     | 2        | 2      | 5.26%   |
-| Unknown | 2        | 2      | 5.26%   |
+| SSD     | 16       | 20     | 41.03%  |
+| HDD     | 14       | 20     | 35.9%   |
+| NVMe    | 5        | 8      | 12.82%  |
+| MMC     | 2        | 2      | 5.13%   |
+| Unknown | 2        | 2      | 5.13%   |
 
 Drive Connector
 ---------------
@@ -924,9 +924,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 27     | 63.33%  |
-| 0.51-1.0   | 10       | 12     | 33.33%  |
-| 1.01-2.0   | 1        | 1      | 3.33%   |
+| 0.01-0.5   | 19       | 28     | 65.52%  |
+| 0.51-1.0   | 9        | 11     | 31.03%  |
+| 1.01-2.0   | 1        | 1      | 3.45%   |
 
 Space Total
 -----------

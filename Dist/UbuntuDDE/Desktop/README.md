@@ -912,7 +912,7 @@ Hard drive models
 | Samsung HM250HI 250GB              | 1        | 1.61%   |
 | Samsung HD161HJ 160GB              | 1        | 1.61%   |
 | Samsung HD103SJ 1TB                | 1        | 1.61%   |
-| Samsung HD080HJ 80GB               | 1        | 1.61%   |
+| Samsung HD080HJ/ 80GB              | 1        | 1.61%   |
 | PNY CS900 1TB SSD                  | 1        | 1.61%   |
 | Plextor PX-128M5M 128GB SSD        | 1        | 1.61%   |
 | Maxtor STM3160215AS 160GB          | 1        | 1.61%   |
@@ -1572,19 +1572,19 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.5%    |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.5%    |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.5%    |
+| Vestel Elektronik 43UHD_LCD_TV VES3700 3840x2160 950x540mm 43.0-inch   | 1        | 2.5%    |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.5%    |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.5%    |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.5%    |
 | Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1        | 2.5%    |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 1        | 2.5%    |
-| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch      | 1        | 2.5%    |
+| Samsung Electronics U28E590 SAM0C4C 3840x2160 610x350mm 27.7-inch      | 1        | 2.5%    |
 | Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch   | 1        | 2.5%    |
 | Philips LCD Monitor 150C4 1024x768                                     | 1        | 2.5%    |
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                     | 1        | 2.5%    |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 2.5%    |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch                | 1        | 2.5%    |
-| Insignia DX-32L100A13 BBY0032 1360x768 544x326mm 25.0-inch             | 1        | 2.5%    |
+| Insignia NS-32D20SNA14 BBY0032 1360x768 544x326mm 25.0-inch            | 1        | 2.5%    |
 | HPN LCD Monitor HP 24o 1920x1080                                       | 1        | 2.5%    |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 475x267mm 21.5-inch          | 1        | 2.5%    |
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.5%    |
@@ -1592,18 +1592,18 @@ Monitor models
 | Hewlett-Packard L1740 HWP2649 1280x1024 338x270mm 17.0-inch            | 1        | 2.5%    |
 | Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch             | 1        | 2.5%    |
 | HannStar iH282 HSD20E6 1920x1200 590x370mm 27.4-inch                   | 1        | 2.5%    |
-| Goldstar ULTRAWIDE GSM76F9 2560x1080 798x334mm 34.1-inch               | 1        | 2.5%    |
+| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 2.5%    |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 2.5%    |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.5%    |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.5%    |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.5%    |
 | Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 1        | 2.5%    |
-| Dell S2722DGM DEL423A 2560x1440 597x336mm 27.0-inch                    | 1        | 2.5%    |
+| Dell S2722DGM DEL423A 2560x1440 600x340mm 27.2-inch                    | 1        | 2.5%    |
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.5%    |
 | Dell LCD Monitor ST2220L                                               | 1        | 2.5%    |
 | BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                      | 1        | 2.5%    |
 | BenQ EW2775ZH BNQ7944 1920x1080 598x336mm 27.0-inch                    | 1        | 2.5%    |
-| ASUSTek Computer VC279 AUS27C4 1920x1080 598x336mm 27.0-inch           | 1        | 2.5%    |
+| ASUSTek Computer VC279 AUS27C4 1920x1080 600x340mm 27.2-inch           | 1        | 2.5%    |
 | Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch       | 1        | 2.5%    |
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                  | 1        | 2.5%    |
 | Ancor Communications LCD Monitor ASUS VS247                            | 1        | 2.5%    |
@@ -2084,7 +2084,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 1        | 1.28%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1        | 1.28%   |
 | Generalplus Technology USB Audio Device                                                           | 1        | 1.28%   |
-| C-Media Electronics YOWU-SELKIRK-3G                                                               | 1        | 1.28%   |
+| C-Media Electronics USB Audio Device                                                              | 1        | 1.28%   |
 
 Memory
 ------
@@ -2129,15 +2129,15 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                      | 1        | 5.56%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1024MB DIMM DDR2 800MT/s  | 1        | 5.56%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                           | 1        | 5.56%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 49926MT/s                     | 1        | 5.56%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                        | 1        | 5.56%   |
 | Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                   | 1        | 5.56%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                                  | 1        | 5.56%   |
 | Kingston RAM 9905734-018.A00G 16384MB DIMM DDR4 2667MT/s                   | 1        | 5.56%   |
-| Kingston RAM 9905471-011.A00LF 4096MB DIMM DDR3 1600MT/s                   | 1        | 5.56%   |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s                      | 1        | 5.56%   |
 | Kingston RAM 202020202020202020202020202020202020 2048MB DIMM DDR2 800MT/s | 1        | 5.56%   |
 | G.Skill RAM F3-19200C10-8GBZHD 8GB DIMM DDR3 1333MT/s                      | 1        | 5.56%   |
 | Crucial RAM CT25664A 2GB DIMM DDR2 800MT/s                                 | 1        | 5.56%   |
-| Corsair RAM CMK16GX4M2B3000C15 8192MB DIMM DDR4 3200MT/s                   | 1        | 5.56%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s                      | 1        | 5.56%   |
 
 Memory Kind
 -----------
@@ -2200,7 +2200,7 @@ Memory module speed
 | 1600  | 2        | 14.29%  |
 | 1333  | 2        | 14.29%  |
 | 49926 | 1        | 7.14%   |
-| 3466  | 1        | 7.14%   |
+| 3533  | 1        | 7.14%   |
 | 3200  | 1        | 7.14%   |
 | 956   | 1        | 7.14%   |
 
@@ -2279,13 +2279,13 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Huawei HiCamera                    | 2        | 33.33%  |
-| Z-Star Vimicro USB Camera (Altair) | 1        | 16.67%  |
-| Microdia Sonix USB 2.0 Camera      | 1        | 16.67%  |
-| Logitech HD Pro Webcam C920        | 1        | 16.67%  |
-| Cubeternet HDMI to U3 capture      | 1        | 16.67%  |
+| Model                             | Desktops | Percent |
+|-----------------------------------|----------|---------|
+| Huawei UVC Camera                 | 2        | 33.33%  |
+| Z-Star A4 TECH USB2.0 PC Camera E | 1        | 16.67%  |
+| Microdia Sonix USB 2.0 Camera     | 1        | 16.67%  |
+| Logitech HD Pro Webcam C920       | 1        | 16.67%  |
+| Cubeternet HDMI to U3 capture     | 1        | 16.67%  |
 
 Security
 --------

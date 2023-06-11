@@ -577,16 +577,16 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City                   | Desktops | Percent |
-|------------------------|----------|---------|
-| Rancho Santa Margarita | 1        | 12.5%   |
-| Lochow                 | 1        | 12.5%   |
-| Fernandina Beach       | 1        | 12.5%   |
-| Eugene                 | 1        | 12.5%   |
-| Constantine            | 1        | 12.5%   |
-| Chandigarh             | 1        | 12.5%   |
-| Brisbane               | 1        | 12.5%   |
-| Anchorage              | 1        | 12.5%   |
+| City             | Desktops | Percent |
+|------------------|----------|---------|
+| Skikda           | 1        | 12.5%   |
+| Lochow           | 1        | 12.5%   |
+| Lake Forest      | 1        | 12.5%   |
+| Fernandina Beach | 1        | 12.5%   |
+| Eugene           | 1        | 12.5%   |
+| Chandigarh       | 1        | 12.5%   |
+| Brisbane         | 1        | 12.5%   |
+| Anchorage        | 1        | 12.5%   |
 
 Drives
 ------
@@ -604,7 +604,7 @@ Hard drive vendors
 | Seagate             | 3        | 4      | 27.27%  |
 | WDC                 | 2        | 2      | 18.18%  |
 | SK hynix            | 1        | 1      | 9.09%   |
-| Sandisk             | 1        | 2      | 9.09%   |
+| SanDisk             | 1        | 2      | 9.09%   |
 | Samsung Electronics | 1        | 1      | 9.09%   |
 | Hitachi             | 1        | 1      | 9.09%   |
 | HGST                | 1        | 1      | 9.09%   |
@@ -621,11 +621,11 @@ Hard drive models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | WDC WDS500G2B0B-00YS70 500GB SSD | 2        | 15.38%  |
-| SK hynix BC511 512GB             | 1        | 7.69%   |
+| SK hynix BC511 256GB             | 1        | 7.69%   |
 | Seagate ST380215AS 80GB          | 1        | 7.69%   |
 | Seagate ST3802110A 80GB          | 1        | 7.69%   |
 | Seagate ST2000DM008-2FR102 2TB   | 1        | 7.69%   |
-| Seagate Backup+ Hub BK 12TB      | 1        | 7.69%   |
+| Seagate Backup+ Hub BK 6TB       | 1        | 7.69%   |
 | Sandisk WD_BLACK SN770 500GB     | 1        | 7.69%   |
 | SanDisk NVMe SSD Drive 500GB     | 1        | 7.69%   |
 | Samsung SSD 980 1TB              | 1        | 7.69%   |
@@ -700,7 +700,7 @@ Size of hard drive
 |------------|----------|--------|---------|
 | 0.01-0.5   | 5        | 6      | 62.5%   |
 | 1.01-2.0   | 2        | 2      | 25%     |
-| 10.01-20.0 | 1        | 1      | 12.5%   |
+| 4.01-10.0  | 1        | 1      | 12.5%   |
 
 Space Total
 -----------
@@ -1128,8 +1128,8 @@ Monitor models
 | Hewlett-Packard TouchSmart HWP4212 1920x1080 509x286mm 23.0-inch   | 1        | 11.11%  |
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch      | 1        | 11.11%  |
 | Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                  | 1        | 11.11%  |
-| Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch   | 1        | 11.11%  |
-| Ancor Communications VE228 ACI22FA 1920x1080 477x268mm 21.5-inch   | 1        | 11.11%  |
+| Ancor Communications VG248 ACI24A4 1920x1080 530x300mm 24.0-inch   | 1        | 11.11%  |
+| Ancor Communications VE228 ACI22FA 1920x1080 531x299mm 24.0-inch   | 1        | 11.11%  |
 | Acer H193HQV ACR01B8 1366x768 410x230mm 18.5-inch                  | 1        | 11.11%  |
 | Acer G246HL ACR02FF 1920x1080 531x299mm 24.0-inch                  | 1        | 11.11%  |
 
@@ -1498,7 +1498,7 @@ Memory module models
 |----------------------------------------------------------|----------|---------|
 | Ramos RAM EMB2GB481CL4-13HA 2GB DIMM 1227MT/s            | 1        | 16.67%  |
 | PNY RAM 8GBF1X08QFHH38-135-K 8GB DIMM DDR4 3600MT/s      | 1        | 16.67%  |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s       | 1        | 16.67%  |
+| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3266MT/s      | 1        | 16.67%  |
 | Crucial RAM RM25664BA1339.8FR 2GB DIMM DDR3 1333MT/s     | 1        | 16.67%  |
 | Crucial RAM BLS16G4D32AESC.M16FE 16GB DIMM DDR4 3200MT/s | 1        | 16.67%  |
 | Unknown                                                  | 1        | 16.67%  |

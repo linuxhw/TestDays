@@ -155,10 +155,27 @@ Contents
 Test Cases
 ----------
 
-Total: 62
+Total: 79
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASRockRack    | X470D4U2-2T                 | [8e10de95af](https://linux-hardware.org/?probe=8e10de95af) | Jun 10, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [9c282e76a6](https://linux-hardware.org/?probe=9c282e76a6) | Jun 06, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [4592ff63f3](https://linux-hardware.org/?probe=4592ff63f3) | Jun 05, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [9a28272d6e](https://linux-hardware.org/?probe=9a28272d6e) | Jun 01, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [cffbd92b9f](https://linux-hardware.org/?probe=cffbd92b9f) | May 31, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [399cce0d30](https://linux-hardware.org/?probe=399cce0d30) | May 30, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [531455206b](https://linux-hardware.org/?probe=531455206b) | May 29, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [12a444a75a](https://linux-hardware.org/?probe=12a444a75a) | May 23, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [0f9deafb62](https://linux-hardware.org/?probe=0f9deafb62) | May 22, 2023 |
+| Dell          | 0FDY5C A00                  | [3d9b02954b](https://linux-hardware.org/?probe=3d9b02954b) | May 16, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [465488c540](https://linux-hardware.org/?probe=465488c540) | May 15, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [413d3b7b92](https://linux-hardware.org/?probe=413d3b7b92) | May 14, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [2a69d13961](https://linux-hardware.org/?probe=2a69d13961) | May 13, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [208afe074a](https://linux-hardware.org/?probe=208afe074a) | May 12, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [64bd100bb5](https://linux-hardware.org/?probe=64bd100bb5) | May 09, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [28a1f44a1e](https://linux-hardware.org/?probe=28a1f44a1e) | May 08, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [2849b9a200](https://linux-hardware.org/?probe=2849b9a200) | May 02, 2023 |
 | ASRockRack    | X470D4U2-2T                 | [34e7df2c84](https://linux-hardware.org/?probe=34e7df2c84) | May 01, 2023 |
 | ASRockRack    | X470D4U2-2T                 | [f46e9f6ba7](https://linux-hardware.org/?probe=f46e9f6ba7) | Apr 30, 2023 |
 | ASRockRack    | X470D4U2-2T                 | [9fdfb825c7](https://linux-hardware.org/?probe=9fdfb825c7) | Apr 27, 2023 |
@@ -235,13 +252,15 @@ Installed operating systems
 
 | Name          | Desktops | Percent |
 |---------------|----------|---------|
-| AlmaLinux 9.1 | 8        | 40%     |
-| AlmaLinux 8.7 | 5        | 25%     |
-| AlmaLinux 9.0 | 3        | 15%     |
-| AlmaLinux 8.6 | 1        | 5%      |
-| AlmaLinux 8.5 | 1        | 5%      |
-| AlmaLinux 8.4 | 1        | 5%      |
-| AlmaLinux 8.3 | 1        | 5%      |
+| AlmaLinux 9.1 | 8        | 36.36%  |
+| AlmaLinux 8.7 | 5        | 22.73%  |
+| AlmaLinux 9.0 | 3        | 13.64%  |
+| AlmaLinux 9.2 | 1        | 4.55%   |
+| AlmaLinux 8.8 | 1        | 4.55%   |
+| AlmaLinux 8.6 | 1        | 4.55%   |
+| AlmaLinux 8.5 | 1        | 4.55%   |
+| AlmaLinux 8.4 | 1        | 4.55%   |
+| AlmaLinux 8.3 | 1        | 4.55%   |
 
 OS Family
 ---------
@@ -265,20 +284,22 @@ Version of the Linux kernel
 
 | Version                      | Desktops | Percent |
 |------------------------------|----------|---------|
-| 4.18.0-425.3.1.el8.x86_64    | 4        | 18.18%  |
-| 5.14.0-162.6.1.el9_1.x86_64  | 3        | 13.64%  |
-| 5.14.0-70.30.1.el9_0.x86_64  | 2        | 9.09%   |
-| 5.14.0-162.12.1.el9_1.x86_64 | 2        | 9.09%   |
-| 4.18.0-425.19.2.el8_7.x86_64 | 2        | 9.09%   |
-| 6.1.24-1kx.el9.x86_64        | 1        | 4.55%   |
-| 5.14.0-70.22.1.el9_0.x86_64  | 1        | 4.55%   |
-| 5.14.0-162.22.2.el9_1.x86_64 | 1        | 4.55%   |
-| 5.14.0-162.18.1.el9_1.x86_64 | 1        | 4.55%   |
-| 4.18.0-425.13.1.el8_7.x86_64 | 1        | 4.55%   |
-| 4.18.0-372.9.1.el8.x86_64    | 1        | 4.55%   |
-| 4.18.0-348.12.2.el8_5.x86_64 | 1        | 4.55%   |
-| 4.18.0-305.el8.x86_64        | 1        | 4.55%   |
-| 4.18.0-240.15.1.el8_3.x86_64 | 1        | 4.55%   |
+| 4.18.0-425.3.1.el8.x86_64    | 4        | 17.39%  |
+| 5.14.0-162.6.1.el9_1.x86_64  | 3        | 13.04%  |
+| 5.14.0-70.30.1.el9_0.x86_64  | 2        | 8.7%    |
+| 5.14.0-162.12.1.el9_1.x86_64 | 2        | 8.7%    |
+| 6.1.24-1kx.el9.x86_64        | 1        | 4.35%   |
+| 5.14.0-70.22.1.el9_0.x86_64  | 1        | 4.35%   |
+| 5.14.0-284.11.1.el9_2.x86_64 | 1        | 4.35%   |
+| 5.14.0-162.22.2.el9_1.x86_64 | 1        | 4.35%   |
+| 5.14.0-162.18.1.el9_1.x86_64 | 1        | 4.35%   |
+| 4.18.0-477.10.1.el8_8.x86_64 | 1        | 4.35%   |
+| 4.18.0-425.19.2.el8_7.x86_64 | 1        | 4.35%   |
+| 4.18.0-425.13.1.el8_7.x86_64 | 1        | 4.35%   |
+| 4.18.0-372.9.1.el8.x86_64    | 1        | 4.35%   |
+| 4.18.0-348.12.2.el8_5.x86_64 | 1        | 4.35%   |
+| 4.18.0-305.el8.x86_64        | 1        | 4.35%   |
+| 4.18.0-240.15.1.el8_3.x86_64 | 1        | 4.35%   |
 
 Kernel Family
 -------------
@@ -290,9 +311,9 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.14.0  | 10       | 50%     |
-| 4.18.0  | 9        | 45%     |
-| 6.1.24  | 1        | 5%      |
+| 5.14.0  | 11       | 52.38%  |
+| 4.18.0  | 9        | 42.86%  |
+| 6.1.24  | 1        | 4.76%   |
 
 Kernel Major Ver.
 -----------------
@@ -304,9 +325,9 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.14    | 10       | 50%     |
-| 4.18    | 9        | 45%     |
-| 6.1     | 1        | 5%      |
+| 5.14    | 11       | 52.38%  |
+| 4.18    | 9        | 42.86%  |
+| 6.1     | 1        | 4.76%   |
 
 Arch
 ----
@@ -345,10 +366,10 @@ X11 or Wayland
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| X11     | 8        | 40%     |
-| Wayland | 8        | 40%     |
-| Tty     | 2        | 10%     |
-| Unknown | 2        | 10%     |
+| Wayland | 9        | 42.86%  |
+| X11     | 8        | 38.1%   |
+| Tty     | 2        | 9.52%   |
+| Unknown | 2        | 9.52%   |
 
 Display Manager
 ---------------
@@ -548,13 +569,13 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2020 | 4        | 20%     |
 | 2012 | 4        | 20%     |
-| 2019 | 2        | 10%     |
+| 2015 | 2        | 10%     |
 | 2013 | 2        | 10%     |
 | 2022 | 1        | 5%      |
 | 2021 | 1        | 5%      |
+| 2019 | 1        | 5%      |
 | 2018 | 1        | 5%      |
 | 2017 | 1        | 5%      |
-| 2015 | 1        | 5%      |
 | 2014 | 1        | 5%      |
 | 2011 | 1        | 5%      |
 | 2009 | 1        | 5%      |
@@ -771,15 +792,15 @@ Hard drive vendors
 
 | Vendor                      | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
-| Seagate                     | 8        | 13     | 22.22%  |
+| Seagate                     | 8        | 14     | 22.22%  |
 | WDC                         | 6        | 8      | 16.67%  |
 | Samsung Electronics         | 6        | 10     | 16.67%  |
-| Kingston                    | 3        | 4      | 8.33%   |
+| Kingston                    | 3        | 5      | 8.33%   |
 | Toshiba                     | 2        | 3      | 5.56%   |
 | Crucial                     | 2        | 4      | 5.56%   |
 | Team                        | 1        | 1      | 2.78%   |
 | SK hynix                    | 1        | 1      | 2.78%   |
-| Silicon Motion              | 1        | 10     | 2.78%   |
+| Silicon Motion              | 1        | 12     | 2.78%   |
 | QEMU                        | 1        | 1      | 2.78%   |
 | Netac                       | 1        | 1      | 2.78%   |
 | LITEON                      | 1        | 1      | 2.78%   |
@@ -820,7 +841,7 @@ Hard drive models
 | Seagate ST1000DM003-9YN162 1TB                    | 1        | 2.17%   |
 | Seagate ST1000DM003-1CH162 1TB                    | 1        | 2.17%   |
 | Seagate ST10000NM0478-2H7100 10TB                 | 1        | 2.17%   |
-| Seagate Expansion 4TB                             | 1        | 2.17%   |
+| Seagate Expansion 1TB                             | 1        | 2.17%   |
 | Samsung SSD 980 1TB                               | 1        | 2.17%   |
 | Samsung SSD 870 EVO 1TB                           | 1        | 2.17%   |
 | Samsung SSD 860 EVO M.2 1TB                       | 1        | 2.17%   |
@@ -848,7 +869,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 8        | 13     | 47.06%  |
+| Seagate             | 8        | 14     | 47.06%  |
 | WDC                 | 5        | 5      | 29.41%  |
 | Toshiba             | 2        | 3      | 11.76%  |
 | Samsung Electronics | 1        | 1      | 5.88%   |
@@ -886,8 +907,8 @@ HDD or SSD
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | SSD  | 13       | 17     | 38.24%  |
-| HDD  | 13       | 23     | 38.24%  |
-| NVMe | 8        | 20     | 23.53%  |
+| HDD  | 13       | 24     | 38.24%  |
+| NVMe | 8        | 23     | 23.53%  |
 
 Drive Connector
 ---------------
@@ -899,8 +920,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 19       | 38     | 65.52%  |
-| NVMe | 8        | 20     | 27.59%  |
+| SATA | 19       | 39     | 65.52%  |
+| NVMe | 8        | 23     | 27.59%  |
 | SAS  | 2        | 2      | 6.9%    |
 
 Drive Size
@@ -913,9 +934,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 12       | 18     | 38.71%  |
+| 0.51-1.0   | 13       | 20     | 41.94%  |
 | 0.01-0.5   | 10       | 11     | 32.26%  |
-| 3.01-4.0   | 4        | 4      | 12.9%   |
+| 3.01-4.0   | 3        | 3      | 9.68%   |
 | 1.01-2.0   | 2        | 3      | 6.45%   |
 | 4.01-10.0  | 2        | 3      | 6.45%   |
 | 2.01-3.0   | 1        | 1      | 3.23%   |
@@ -971,7 +992,7 @@ Drive models with a malfunction
 |-----------------------------------|----------|--------|---------|
 | WDC WD20EARS-00J2GB0 2TB          | 1        | 1      | 25%     |
 | SK hynix SH920 2.5 7MM 256GB SSD  | 1        | 1      | 25%     |
-| Seagate ST1000DM010-2EP102 1TB    | 1        | 1      | 25%     |
+| Seagate ST1000DM010-2EP102 1TB    | 1        | 2      | 25%     |
 | Samsung Electronics HD642JJ 640GB | 1        | 1      | 25%     |
 
 Malfunc. Drive Vendor
@@ -986,7 +1007,7 @@ Vendors of faulty drives
 |---------------------|----------|--------|---------|
 | WDC                 | 1        | 1      | 25%     |
 | SK hynix            | 1        | 1      | 25%     |
-| Seagate             | 1        | 1      | 25%     |
+| Seagate             | 1        | 2      | 25%     |
 | Samsung Electronics | 1        | 1      | 25%     |
 
 Malfunc. HDD Vendor
@@ -1000,7 +1021,7 @@ Vendors of faulty HDD drives
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 1        | 1      | 33.33%  |
-| Seagate             | 1        | 1      | 33.33%  |
+| Seagate             | 1        | 2      | 33.33%  |
 | Samsung Electronics | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Kind
@@ -1013,7 +1034,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 3        | 3      | 75%     |
+| HDD  | 3        | 4      | 75%     |
 | SSD  | 1        | 1      | 25%     |
 
 Failed Drives
@@ -1040,9 +1061,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 12       | 36     | 46.15%  |
+| Works    | 12       | 39     | 46.15%  |
 | Detected | 10       | 20     | 38.46%  |
-| Malfunc  | 4        | 4      | 15.38%  |
+| Malfunc  | 4        | 5      | 15.38%  |
 
 Storage controller
 ------------------
@@ -1407,19 +1428,19 @@ Monitor vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Samsung Electronics | 2        | 13.33%  |
-| Goldstar            | 2        | 13.33%  |
-| ViewSonic           | 1        | 6.67%   |
-| TopView             | 1        | 6.67%   |
-| STD                 | 1        | 6.67%   |
-| Philips             | 1        | 6.67%   |
-| Medion              | 1        | 6.67%   |
-| Lenovo              | 1        | 6.67%   |
-| Eizo                | 1        | 6.67%   |
-| Dell                | 1        | 6.67%   |
-| BenQ                | 1        | 6.67%   |
-| AOC                 | 1        | 6.67%   |
-| Acer                | 1        | 6.67%   |
+| ViewSonic           | 2        | 12.5%   |
+| Samsung Electronics | 2        | 12.5%   |
+| Goldstar            | 2        | 12.5%   |
+| TopView             | 1        | 6.25%   |
+| STD                 | 1        | 6.25%   |
+| Philips             | 1        | 6.25%   |
+| Medion              | 1        | 6.25%   |
+| Lenovo              | 1        | 6.25%   |
+| Eizo                | 1        | 6.25%   |
+| Dell                | 1        | 6.25%   |
+| BenQ                | 1        | 6.25%   |
+| AOC                 | 1        | 6.25%   |
+| Acer                | 1        | 6.25%   |
 
 Monitor Model
 -------------
@@ -1431,22 +1452,23 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| ViewSonic VX2233wm-1 VSC1D22 1920x1080 477x268mm 21.5-inch           | 1        | 6.25%   |
-| TopView HD TV TOPC37E 1920x1080 700x390mm 31.5-inch                  | 1        | 6.25%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 6.25%   |
-| Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch | 1        | 6.25%   |
-| Samsung Electronics S27H65x SAM0E1D 1920x1080 598x336mm 27.0-inch    | 1        | 6.25%   |
-| Samsung Electronics F27G3xTF SAM710D 1920x1080 600x330mm 27.0-inch   | 1        | 6.25%   |
-| Philips 19B PHL0879 1280x1024 376x301mm 19.0-inch                    | 1        | 6.25%   |
-| Medion MD7212AS MED4971 1280x1024 359x287mm 18.1-inch                | 1        | 6.25%   |
-| Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                 | 1        | 6.25%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1        | 6.25%   |
-| Goldstar 22EA53 GSM59A6 1920x1080 477x268mm 21.5-inch                | 1        | 6.25%   |
-| Eizo EV2336W ENC2390 1920x1080 510x287mm 23.0-inch                   | 1        | 6.25%   |
-| Dell 1905FP DEL400C 1280x1024 376x301mm 19.0-inch                    | 1        | 6.25%   |
-| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                    | 1        | 6.25%   |
-| AOC 2330V AOC2330 1920x1080 476x268mm 21.5-inch                      | 1        | 6.25%   |
-| Acer K222HQL ACR03E1 1920x1080 477x268mm 21.5-inch                   | 1        | 6.25%   |
+| ViewSonic VX2233wm-1 VSC1D22 1920x1080 477x268mm 21.5-inch           | 1        | 5.88%   |
+| ViewSonic VA2232 Series VSC8224 1680x1050 470x300mm 22.0-inch        | 1        | 5.88%   |
+| TopView HD TV TOPC37E 1920x1080 700x390mm 31.5-inch                  | 1        | 5.88%   |
+| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 5.88%   |
+| Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch | 1        | 5.88%   |
+| Samsung Electronics S27H65x SAM0E1D 1920x1080 598x336mm 27.0-inch    | 1        | 5.88%   |
+| Samsung Electronics F27G3xTF SAM710D 1920x1080 600x330mm 27.0-inch   | 1        | 5.88%   |
+| Philips 19B PHL0879 1280x1024 376x301mm 19.0-inch                    | 1        | 5.88%   |
+| Medion MD7212AS MED4971 1280x1024 359x287mm 18.1-inch                | 1        | 5.88%   |
+| Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                 | 1        | 5.88%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1        | 5.88%   |
+| Goldstar 22EA53 GSM59A6 1920x1080 477x268mm 21.5-inch                | 1        | 5.88%   |
+| Eizo EV2336W ENC2390 1920x1080 510x287mm 23.0-inch                   | 1        | 5.88%   |
+| Dell 1905FP DEL400C 1280x1024 376x301mm 19.0-inch                    | 1        | 5.88%   |
+| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                    | 1        | 5.88%   |
+| AOC 2330V AOC2330 1920x1080 476x268mm 21.5-inch                      | 1        | 5.88%   |
+| Acer K222HQL ACR03E1 1920x1080 477x268mm 21.5-inch                   | 1        | 5.88%   |
 
 Monitor Resolution
 ------------------
@@ -1456,13 +1478,14 @@ Monitor screen resolution
 ![Monitor Resolution](./images/pie_chart/mon_resolution.svg)
 
 
-| Resolution       | Desktops | Percent |
-|------------------|----------|---------|
-| 1920x1080 (FHD)  | 10       | 62.5%   |
-| 1280x1024 (SXGA) | 3        | 18.75%  |
-| 2560x1440 (QHD)  | 1        | 6.25%   |
-| 2560x1080        | 1        | 6.25%   |
-| 1400x1050        | 1        | 6.25%   |
+| Resolution         | Desktops | Percent |
+|--------------------|----------|---------|
+| 1920x1080 (FHD)    | 10       | 58.82%  |
+| 1280x1024 (SXGA)   | 3        | 17.65%  |
+| 2560x1440 (QHD)    | 1        | 5.88%   |
+| 2560x1080          | 1        | 5.88%   |
+| 1680x1050 (WSXGA+) | 1        | 5.88%   |
+| 1400x1050          | 1        | 5.88%   |
 
 Monitor Diagonal
 ----------------
@@ -1474,15 +1497,16 @@ Diagonal size in inches
 
 | Inches | Desktops | Percent |
 |--------|----------|---------|
-| 21     | 4        | 25%     |
-| 31     | 2        | 12.5%   |
-| 27     | 2        | 12.5%   |
-| 24     | 2        | 12.5%   |
-| 19     | 2        | 12.5%   |
-| 34     | 1        | 6.25%   |
-| 23     | 1        | 6.25%   |
-| 20     | 1        | 6.25%   |
-| 18     | 1        | 6.25%   |
+| 21     | 4        | 23.53%  |
+| 31     | 2        | 11.76%  |
+| 27     | 2        | 11.76%  |
+| 24     | 2        | 11.76%  |
+| 19     | 2        | 11.76%  |
+| 34     | 1        | 5.88%   |
+| 23     | 1        | 5.88%   |
+| 22     | 1        | 5.88%   |
+| 20     | 1        | 5.88%   |
+| 18     | 1        | 5.88%   |
 
 Monitor Width
 -------------
@@ -1494,11 +1518,11 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 5        | 31.25%  |
-| 401-500     | 5        | 31.25%  |
-| 351-400     | 3        | 18.75%  |
-| 601-700     | 2        | 12.5%   |
-| 701-800     | 1        | 6.25%   |
+| 401-500     | 6        | 35.29%  |
+| 501-600     | 5        | 29.41%  |
+| 351-400     | 3        | 17.65%  |
+| 601-700     | 2        | 11.76%  |
+| 701-800     | 1        | 5.88%   |
 
 Aspect Ratio
 ------------
@@ -1510,11 +1534,12 @@ Proportional relationship between the width and the height
 
 | Ratio | Desktops | Percent |
 |-------|----------|---------|
-| 16/9  | 11       | 68.75%  |
-| 5/4   | 2        | 12.5%   |
-| 6/5   | 1        | 6.25%   |
-| 4/3   | 1        | 6.25%   |
-| 21/9  | 1        | 6.25%   |
+| 16/9  | 11       | 64.71%  |
+| 5/4   | 2        | 11.76%  |
+| 6/5   | 1        | 5.88%   |
+| 4/3   | 1        | 5.88%   |
+| 21/9  | 1        | 5.88%   |
+| 16/10 | 1        | 5.88%   |
 
 Monitor Area
 ------------
@@ -1526,10 +1551,10 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 151-200        | 7        | 43.75%  |
-| 201-250        | 4        | 25%     |
-| 351-500        | 3        | 18.75%  |
-| 301-350        | 2        | 12.5%   |
+| 151-200        | 7        | 41.18%  |
+| 201-250        | 5        | 29.41%  |
+| 351-500        | 3        | 17.65%  |
+| 301-350        | 2        | 11.76%  |
 
 Pixel Density
 -------------
@@ -1541,9 +1566,9 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 9        | 64.29%  |
-| 101-120 | 4        | 28.57%  |
-| 121-160 | 1        | 7.14%   |
+| 51-100  | 10       | 66.67%  |
+| 101-120 | 4        | 26.67%  |
+| 121-160 | 1        | 6.67%   |
 
 Multiple Monitors
 -----------------
@@ -1886,7 +1911,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM 1600MT/s                    | 1        | 6.67%   |
 | SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s    | 1        | 6.67%   |
 | Samsung RAM Module 16GB DIMM DDR4 2667MT/s              | 1        | 6.67%   |
-| Samsung RAM M378A5244CB0-CRC 4GB DIMM DDR4 3066MT/s     | 1        | 6.67%   |
+| Samsung RAM M378A5244CB0-CRC 4096MB DIMM DDR4 3066MT/s  | 1        | 6.67%   |
 | Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 3466MT/s    | 1        | 6.67%   |
 | QEMU RAM Module 8GB DIMM RAM                            | 1        | 6.67%   |
 | Micron RAM 9ASF2G72AZ-3G2B1 16GB DIMM DDR4 3200MT/s     | 1        | 6.67%   |
@@ -2019,7 +2044,7 @@ Camera device models
 
 | Model                               | Desktops | Percent |
 |-------------------------------------|----------|---------|
-| Microdia USB 2.0 Camera             | 1        | 33.33%  |
+| Microdia CameraA                    | 1        | 33.33%  |
 | Logitech Webcam B500                | 1        | 33.33%  |
 | Creative Live! Cam Chat HD [VF0700] | 1        | 33.33%  |
 

@@ -767,8 +767,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 19       | 50%     |
-| No        | 19       | 50%     |
+| No        | 20       | 52.63%  |
+| Yes       | 18       | 47.37%  |
 
 Has Ethernet
 ------------
@@ -1579,11 +1579,11 @@ Monitor models
 | Sony TV SNY6F02 1360x768                                              | 1        | 2.33%   |
 | Sony TV SNY0902 1360x768                                              | 1        | 2.33%   |
 | Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch  | 1        | 2.33%   |
-| S2-Tek LED TV STK531A 1360x768 930x530mm 42.1-inch                    | 1        | 2.33%   |
+| S2-Tek TV STK531A 1920x1080 930x530mm 42.1-inch                       | 1        | 2.33%   |
 | NEC Computers EA193Mi NEC6956 1280x1024 375x300mm 18.9-inch           | 1        | 2.33%   |
 | Lenovo LEN LI1931ewA LEN65A1 1366x768 409x230mm 18.5-inch             | 1        | 2.33%   |
 | Lenovo LEN E2054A LEN60DF 1440x900 419x262mm 19.5-inch                | 1        | 2.33%   |
-| Hitachi HISENSE HEC0030 3840x2160 1872x1053mm 84.6-inch               | 1        | 2.33%   |
+| Hitachi HISENSE HEC0030 1920x1080 580x330mm 26.3-inch                 | 1        | 2.33%   |
 | Hewlett-Packard Z27s HWP317F 3840x2160 596x335mm 26.9-inch            | 1        | 2.33%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch            | 1        | 2.33%   |
 | Hewlett-Packard P222va HWP322C 1920x1080 477x268mm 21.5-inch          | 1        | 2.33%   |
@@ -1597,7 +1597,7 @@ Monitor models
 | Hewlett-Packard L1506 HWP265B 1024x768 300x220mm 14.6-inch            | 1        | 2.33%   |
 | Hewlett-Packard E222 HWP3262 1920x1080 476x268mm 21.5-inch            | 1        | 2.33%   |
 | Hewlett-Packard 2310 HWP288F 1920x1080 510x287mm 23.0-inch            | 1        | 2.33%   |
-| Dell U2415 DELA0BA 1920x1080 518x324mm 24.1-inch                      | 1        | 2.33%   |
+| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                      | 1        | 2.33%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.33%   |
 | Dell P2314T DEL40A0 1920x1080 509x286mm 23.0-inch                     | 1        | 2.33%   |
 | Dell P1914S DELF04B 1280x1024 376x301mm 19.0-inch                     | 1        | 2.33%   |
@@ -1706,15 +1706,15 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 151-200        | 10       | 26.32%  |
-| 201-250        | 7        | 18.42%  |
-| 141-150        | 6        | 15.79%  |
-| More than 1000 | 5        | 13.16%  |
-| 251-300        | 3        | 7.89%   |
-| 301-350        | 2        | 5.26%   |
-| 501-1000       | 2        | 5.26%   |
-| Unknown        | 2        | 5.26%   |
-| 101-110        | 1        | 2.63%   |
+| 151-200        | 9        | 24.32%  |
+| 201-250        | 7        | 18.92%  |
+| 141-150        | 6        | 16.22%  |
+| More than 1000 | 5        | 13.51%  |
+| 251-300        | 3        | 8.11%   |
+| 301-350        | 2        | 5.41%   |
+| 501-1000       | 2        | 5.41%   |
+| Unknown        | 2        | 5.41%   |
+| 101-110        | 1        | 2.7%    |
 
 Pixel Density
 -------------
@@ -1786,7 +1786,7 @@ Controller models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 7        | 10.29%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 7.35%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 4        | 5.88%   |
-| MediaTek PRESIDENT_GOLD_10                                        | 4        | 5.88%   |
+| MediaTek TECNO SPARK 9T                                           | 4        | 5.88%   |
 | Intel I211 Gigabit Network Connection                             | 3        | 4.41%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2        | 2.94%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 2.94%   |
@@ -1796,11 +1796,11 @@ Controller models
 | Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 2.94%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 1.47%   |
 | Ralink RT2870/RT3070 Wireless Adapter                             | 1        | 1.47%   |
-| Qualcomm SM7250-PICASSO _SN:6897A937                              | 1        | 1.47%   |
+| Qualcomm Redmi Note 9 Pro                                         | 1        | 1.47%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1        | 1.47%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                  | 1        | 1.47%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.47%   |
-| OPPO KALAMA-MTP_CID:0437_SN:AEEEF597                              | 1        | 1.47%   |
+| OPPO SM8350-MTP _SN:1518BD09                                      | 1        | 1.47%   |
 | Intel Wireless-AC 9260                                            | 1        | 1.47%   |
 | Intel Wireless 8265 / 8275                                        | 1        | 1.47%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.47%   |
@@ -1886,7 +1886,7 @@ Ethernet models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 9        | 18.37%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 10.2%   |
-| MediaTek PRESIDENT_GOLD_10                                        | 4        | 8.16%   |
+| MediaTek TECNO SPARK 9T                                           | 4        | 8.16%   |
 | Intel I211 Gigabit Network Connection                             | 3        | 6.12%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2        | 4.08%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 4.08%   |
@@ -1894,9 +1894,9 @@ Ethernet models
 | Intel 82566DM-2 Gigabit Network Connection                        | 2        | 4.08%   |
 | Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 4.08%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 2.04%   |
-| Qualcomm SM7250-PICASSO _SN:6897A937                              | 1        | 2.04%   |
+| Qualcomm Redmi Note 9 Pro                                         | 1        | 2.04%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 2.04%   |
-| OPPO KALAMA-MTP_CID:0437_SN:AEEEF597                              | 1        | 2.04%   |
+| OPPO SM8350-MTP _SN:1518BD09                                      | 1        | 2.04%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 2.04%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.04%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1        | 2.04%   |
@@ -2100,28 +2100,28 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s   | 2        | 9.52%   |
-| TwinMOS RAM 9DECBNZB-TATP 4GB DIMM DDR3 1333MT/s       | 1        | 4.76%   |
-| TwinMOS RAM 9DECBMZB-TATP 2048MB DIMM DDR3 1333MT/s    | 1        | 4.76%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s     | 1        | 4.76%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
-| SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
-| SK hynix RAM HMT125U7BFR8C-H9 2GB DIMM DDR3 1333MT/s   | 1        | 4.76%   |
-| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s   | 1        | 4.76%   |
-| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2667MT/s   | 1        | 4.76%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s | 1        | 4.76%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
-| Micron RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
-| Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
-| Kingston RAM HP497157-D88-ELFW 2GB DIMM DDR3 1333MT/s  | 1        | 4.76%   |
-| Kingston RAM 99P5663-013.A00G 8GB SODIMM DDR4 2667MT/s | 1        | 4.76%   |
-| Kingston RAM 9905734-102.A00G 32GB DIMM DDR4 3200MT/s  | 1        | 4.76%   |
-| Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s  | 1        | 4.76%   |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 4.76%   |
-| Crucial RAM CB16GU2400.C16J 16384MB DIMM DDR4 2400MT/s | 1        | 4.76%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s | 2        | 9.52%   |
+| TwinMOS RAM 9DECBNZB-TATP 4GB DIMM DDR3 1333MT/s        | 1        | 4.76%   |
+| TwinMOS RAM 9DECBMZB-TATP 2048MB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s     | 1        | 4.76%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
+| SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
+| SK hynix RAM HMT125U7BFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.76%   |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.76%   |
+| SK hynix RAM HMA81GU6CJR8N-VK 8192MB DIMM DDR4 2667MT/s | 1        | 4.76%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s  | 1        | 4.76%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s          | 1        | 4.76%   |
+| Micron RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
+| Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s     | 1        | 4.76%   |
+| Kingston RAM HP497157-D88-ELFW 2GB DIMM DDR3 1333MT/s   | 1        | 4.76%   |
+| Kingston RAM 99P5663-013.A00G 8GB SODIMM DDR4 2667MT/s  | 1        | 4.76%   |
+| Kingston RAM 9905734-102.A00G 32GB DIMM DDR4 3200MT/s   | 1        | 4.76%   |
+| Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
+| Crucial RAM CB16GU2400.C16J 16384MB DIMM DDR4 2400MT/s  | 1        | 4.76%   |
 
 Memory Kind
 -----------
@@ -2255,7 +2255,7 @@ Camera device models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | Realtek FULL HD 1080P Webcam    | 2        | 40%     |
-| MacroSilicon USB Video          | 1        | 20%     |
+| MacroSilicon usb video          | 1        | 20%     |
 | Logitech Webcam C270            | 1        | 20%     |
 | Cubeternet GL-UPC822 UVC WebCam | 1        | 20%     |
 

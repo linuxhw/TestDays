@@ -811,24 +811,24 @@ Geographic location (city)
 ![City](./images/pie_chart/node_city.svg)
 
 
-| City        | Desktops | Percent |
-|-------------|----------|---------|
-| Tunis       | 16       | 41.03%  |
-| Aryanah     | 5        | 12.82%  |
-| Sousse      | 3        | 7.69%   |
-| Bizerte     | 2        | 5.13%   |
-| Ben Arous   | 2        | 5.13%   |
-| Sidi Abbes  | 1        | 2.56%   |
-| Ras Ettabia | 1        | 2.56%   |
-| Nabeul      | 1        | 2.56%   |
-| Monastir    | 1        | 2.56%   |
-| Mateur      | 1        | 2.56%   |
-| Mahdia      | 1        | 2.56%   |
-| Hammamet    | 1        | 2.56%   |
-| Carthage    | 1        | 2.56%   |
-| Beja        | 1        | 2.56%   |
-| As Sanad    | 1        | 2.56%   |
-| Akouda      | 1        | 2.56%   |
+| City       | Desktops | Percent |
+|------------|----------|---------|
+| Tunis      | 17       | 43.59%  |
+| Aryanah    | 5        | 12.82%  |
+| Sousse     | 2        | 5.13%   |
+| Bizerte    | 2        | 5.13%   |
+| Ben Arous  | 2        | 5.13%   |
+| Sidi Abbes | 1        | 2.56%   |
+| Sfax       | 1        | 2.56%   |
+| Nabeul     | 1        | 2.56%   |
+| Monastir   | 1        | 2.56%   |
+| Mateur     | 1        | 2.56%   |
+| Mahdia     | 1        | 2.56%   |
+| Hammamet   | 1        | 2.56%   |
+| Carthage   | 1        | 2.56%   |
+| Beja       | 1        | 2.56%   |
+| As Sanad   | 1        | 2.56%   |
+| Akouda     | 1        | 2.56%   |
 
 Drives
 ------
@@ -855,7 +855,7 @@ Hard drive vendors
 | HS-SSD-E100         | 1        | 1      | 2.17%   |
 | Hitachi             | 1        | 1      | 2.17%   |
 | HGST                | 1        | 1      | 2.17%   |
-| EMTEC               | 1        | 3      | 2.17%   |
+| Emtec               | 1        | 3      | 2.17%   |
 | China               | 1        | 1      | 2.17%   |
 | addlink             | 1        | 1      | 2.17%   |
 
@@ -944,7 +944,7 @@ Solid state drive vendors
 | PNY                 | 1        | 1      | 8.33%   |
 | KVST                | 1        | 1      | 8.33%   |
 | HS-SSD-E100         | 1        | 1      | 8.33%   |
-| EMTEC               | 1        | 3      | 8.33%   |
+| Emtec               | 1        | 3      | 8.33%   |
 | China               | 1        | 1      | 8.33%   |
 | addlink             | 1        | 1      | 8.33%   |
 
@@ -1044,7 +1044,7 @@ Drive models with a malfunction
 | Seagate ST1000DM010-2EP102 1TB | 1        | 1      | 14.29%  |
 | Hitachi HTS547575A9E384 752GB  | 1        | 1      | 14.29%  |
 | HGST HTS545050A7E380 500GB     | 1        | 1      | 14.29%  |
-| EMTEC X250 512GB SSD           | 1        | 2      | 14.29%  |
+| Emtec X250 512GB               | 1        | 2      | 14.29%  |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1060,7 +1060,7 @@ Vendors of faulty drives
 | WDC     | 1        | 1      | 14.29%  |
 | Hitachi | 1        | 1      | 14.29%  |
 | HGST    | 1        | 1      | 14.29%  |
-| EMTEC   | 1        | 2      | 14.29%  |
+| Emtec   | 1        | 2      | 14.29%  |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1539,7 +1539,7 @@ Monitor models
 | Samsung Electronics S20D300 SAM0BDB 1366x768 432x240mm 19.5-inch     | 1        | 2.7%    |
 | Samsung Electronics S19D300 SAM0B34 1366x768 410x230mm 18.5-inch     | 1        | 2.7%    |
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch    | 1        | 2.7%    |
-| S2-Tek LED TV STK531A 1360x768 930x530mm 42.1-inch                   | 1        | 2.7%    |
+| S2-Tek TV STK531A 1920x1080 930x530mm 42.1-inch                      | 1        | 2.7%    |
 | PKB LCD Monitor VIS220WS 1680x1050                                   | 1        | 2.7%    |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1        | 2.7%    |
 | Packard Bell PKB VIS220WS PKB5064 1680x1050 460x290mm 21.4-inch      | 1        | 2.7%    |
@@ -1550,11 +1550,11 @@ Monitor models
 | HPN LCD Monitor HP Z23n G2                                           | 1        | 2.7%    |
 | Hewlett-Packard LE2001w HWP2841 1600x900 440x250mm 19.9-inch         | 1        | 2.7%    |
 | Hewlett-Packard LCD Monitor 2011 1600x900                            | 1        | 2.7%    |
-| Hewlett-Packard L1940T HWP2682 1280x1024 338x270mm 17.0-inch         | 1        | 2.7%    |
+| Hewlett-Packard L1940T HWP2682 1280x1024 376x301mm 19.0-inch         | 1        | 2.7%    |
 | Hewlett-Packard E24i G4 HPN368F 1920x1200 518x324mm 24.1-inch        | 1        | 2.7%    |
 | Hewlett-Packard 2011 HWP2935 1600x900 443x249mm 20.0-inch            | 1        | 2.7%    |
 | Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch            | 1        | 2.7%    |
-| GDH PHILCO GDH0030 1920x540 708x398mm 32.0-inch                      | 1        | 2.7%    |
+| GDH Digital TV GDH0030 1920x540                                      | 1        | 2.7%    |
 | Dell S2721HGF DEL41E8 1920x1080 600x340mm 27.2-inch                  | 1        | 2.7%    |
 | BenQ T201W BNQ7719 1680x1050 433x271mm 20.1-inch                     | 1        | 2.7%    |
 | AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch        | 1        | 2.7%    |
@@ -2010,12 +2010,12 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 3.7%    |
 | TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s               | 1        | 3.7%    |
 | TwinMOS RAM 9D7TBNZB-TATP 4096MB DIMM DDR3 1066MT/s            | 1        | 3.7%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s             | 1        | 3.7%    |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s            | 1        | 3.7%    |
 | Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2400MT/s             | 1        | 3.7%    |
 | SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 3.7%    |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 3.7%    |
-| SK hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4                   | 1        | 3.7%    |
-| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2667MT/s           | 1        | 3.7%    |
+| SK hynix RAM HMA82GU7CJR8N-VK 16384MB DIMM DDR4 2667MT/s       | 1        | 3.7%    |
+| SK hynix RAM HMA81GU6CJR8N-VK 8192MB DIMM DDR4 2667MT/s        | 1        | 3.7%    |
 | Samsung RAM Module 4096MB DIMM DDR3 1333MT/s                   | 1        | 3.7%    |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1        | 3.7%    |
 | Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s            | 1        | 3.7%    |
@@ -2023,7 +2023,7 @@ Memory module models
 | PNY RAM 8GBF1X08LIII43-12-K 8GB DIMM DDR4 2667MT/s             | 1        | 3.7%    |
 | Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s             | 1        | 3.7%    |
 | Micron RAM ITC 1024MB DIMM DDR2 1648MT/s                       | 1        | 3.7%    |
-| Micron RAM 8JTF25664AZ-1G4M1 2GB DIMM DDR3 1333MT/s            | 1        | 3.7%    |
+| Micron RAM 8JTF25664AZ-1G4M1 2048MB DIMM DDR3 1333MT/s         | 1        | 3.7%    |
 | Micron RAM 4ATF1G64HZ-3G2B2 8GB SODIMM DDR4 3200MT/s           | 1        | 3.7%    |
 | Melco RAM Module 2GB DIMM DDR2 667MT/s                         | 1        | 3.7%    |
 | GOODRAM RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s             | 1        | 3.7%    |
@@ -2218,9 +2218,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 32       | 86.49%  |
-| 1     | 4        | 10.81%  |
-| 2     | 1        | 2.7%    |
+| 0     | 30       | 81.08%  |
+| 1     | 5        | 13.51%  |
+| 2     | 2        | 5.41%   |
 
 Unsupported Device Types
 ------------------------
@@ -2232,8 +2232,8 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 2        | 40%     |
-| Net/wireless  | 1        | 20%     |
-| Net/ethernet  | 1        | 20%     |
-| Bluetooth     | 1        | 20%     |
+| Graphics card | 5        | 62.5%   |
+| Net/wireless  | 1        | 12.5%   |
+| Net/ethernet  | 1        | 12.5%   |
+| Bluetooth     | 1        | 12.5%   |
 

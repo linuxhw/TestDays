@@ -686,8 +686,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 26        | 59.09%  |
-| Yes       | 18        | 40.91%  |
+| No        | 27        | 61.36%  |
+| Yes       | 17        | 38.64%  |
 
 Has Ethernet
 ------------
@@ -870,7 +870,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 320GB                   | 1         | 1.96%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -966,7 +966,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 32     | 100%    |
+| 0.01-0.5   | 26        | 31     | 96.3%   |
+| 0.51-1.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1452,7 +1453,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768                         | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch              | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL2D01 1920x1200 331x207mm 15.4-inch             | 1         | 2.17%   |
 | LG Display LCD Monitor LGD0395 1366x768 344x194mm 15.5-inch              | 1         | 2.17%   |
@@ -1995,11 +1996,11 @@ Memory module size
 ![Memory Size](./images/pie_chart/memory_size.svg)
 
 
-| Size | Notebooks | Percent |
-|------|-----------|---------|
-| 8192 | 1         | 33.33%  |
-| 4096 | 1         | 33.33%  |
-| 2048 | 1         | 33.33%  |
+| Size  | Notebooks | Percent |
+|-------|-----------|---------|
+| 16384 | 1         | 33.33%  |
+| 8192  | 1         | 33.33%  |
+| 2048  | 1         | 33.33%  |
 
 Memory Speed
 ------------
@@ -2068,10 +2069,11 @@ Camera device vendors
 | Microdia                               | 2         | 6.06%   |
 | Lite-On Technology                     | 2         | 6.06%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 6.06%   |
-| Acer                                   | 2         | 6.06%   |
 | Sunplus Innovation Technology          | 1         | 3.03%   |
 | Importek                               | 1         | 3.03%   |
 | IMC Networks                           | 1         | 3.03%   |
+| Bison Electronics                      | 1         | 3.03%   |
+| Acer                                   | 1         | 3.03%   |
 
 Camera Model
 ------------
@@ -2083,7 +2085,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro SHUNCCM2MP                                  | 6         | 18.18%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.18%  |
 | Lenovo UVC Camera                                       | 3         | 9.09%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.06%   |
 | Lite-On Integrated Camera                               | 2         | 6.06%   |
@@ -2105,7 +2107,7 @@ Camera device models
 | Chicony HD WebCam                                       | 1         | 3.03%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101    | 1         | 3.03%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 3.03%   |
-| Acer VGA WebCam                                         | 1         | 3.03%   |
+| Bison VGA WebCam                                        | 1         | 3.03%   |
 | Acer EasyCamera                                         | 1         | 3.03%   |
 
 Security

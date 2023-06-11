@@ -1755,7 +1755,7 @@ Chipcard module vendors
 
 | Vendor | Desktops | Percent |
 |--------|----------|---------|
-| Bit4id | 1        | 100%    |
+| BIT4ID | 1        | 100%    |
 
 Chipcard Model
 --------------
@@ -1767,7 +1767,7 @@ Chipcard module models
 
 | Model                 | Desktops | Percent |
 |-----------------------|----------|---------|
-| Bit4id miniLector EVO | 1        | 100%    |
+| BIT4ID miniLector EVO | 1        | 100%    |
 
 Unsupported
 -----------

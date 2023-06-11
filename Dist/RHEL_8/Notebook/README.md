@@ -708,14 +708,14 @@ Motherboard manufacture year
 | 2018 | 16        | 14.16%  |
 | 2021 | 8         | 7.08%   |
 | 2017 | 7         | 6.19%   |
+| 2015 | 7         | 6.19%   |
 | 2011 | 7         | 6.19%   |
-| 2016 | 6         | 5.31%   |
-| 2015 | 6         | 5.31%   |
-| 2012 | 5         | 4.42%   |
+| 2012 | 6         | 5.31%   |
+| 2016 | 5         | 4.42%   |
 | 2010 | 3         | 2.65%   |
 | 2014 | 2         | 1.77%   |
-| 2013 | 2         | 1.77%   |
 | 2022 | 1         | 0.88%   |
+| 2013 | 1         | 0.88%   |
 
 Form Factor
 -----------
@@ -926,10 +926,11 @@ Geographic location (city)
 | Prague                   | 4         | 3.28%   |
 | Munich                   | 3         | 2.46%   |
 | Mexico City              | 3         | 2.46%   |
-| Chennai                  | 3         | 2.46%   |
+| Chennai                  | 2         | 1.64%   |
 | Zaragoza                 | 1         | 0.82%   |
 | Webster                  | 1         | 0.82%   |
 | Wayne                    | 1         | 0.82%   |
+| Wagholi                  | 1         | 0.82%   |
 | Vardenis                 | 1         | 0.82%   |
 | Udaipur                  | 1         | 0.82%   |
 | Turku                    | 1         | 0.82%   |
@@ -940,6 +941,7 @@ Geographic location (city)
 | Syracuse                 | 1         | 0.82%   |
 | Stuttgart                | 1         | 0.82%   |
 | Streatham                | 1         | 0.82%   |
+| Stellenbosch             | 1         | 0.82%   |
 | Steamboat Springs        | 1         | 0.82%   |
 | Sofia                    | 1         | 0.82%   |
 | Singapore                | 1         | 0.82%   |
@@ -961,8 +963,6 @@ Geographic location (city)
 | Port Elizabeth           | 1         | 0.82%   |
 | Pickerington             | 1         | 0.82%   |
 | Paraiso do Tocantins     | 1         | 0.82%   |
-| Paragould                | 1         | 0.82%   |
-| Oyama                    | 1         | 0.82%   |
 
 Drives
 ------
@@ -1023,7 +1023,7 @@ Hard drive models
 | Micron NVMe SSD Drive 256GB          | 3         | 1.91%   |
 | Unknown NVMe SSD Drive 256GB         | 2         | 1.27%   |
 | Toshiba KXG6AZNV256G 256GB           | 2         | 1.27%   |
-| Seagate Expansion 4TB                | 2         | 1.27%   |
+| Seagate Expansion 1TB                | 2         | 1.27%   |
 | Samsung SSD 860 EVO 1TB              | 2         | 1.27%   |
 | Samsung Portable SSD T5 500GB        | 2         | 1.27%   |
 | Samsung NVMe SSD Drive 500GB         | 2         | 1.27%   |
@@ -1135,11 +1135,10 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 28        | 34     | 49.12%  |
-| 0.51-1.0   | 18        | 26     | 31.58%  |
-| 1.01-2.0   | 5         | 5      | 8.77%   |
-| 3.01-4.0   | 4         | 4      | 7.02%   |
-| 10.01-20.0 | 1         | 3      | 1.75%   |
-| 4.01-10.0  | 1         | 1      | 1.75%   |
+| 0.51-1.0   | 19        | 27     | 33.33%  |
+| 1.01-2.0   | 6         | 6      | 10.53%  |
+| 3.01-4.0   | 2         | 2      | 3.51%   |
+| 4.01-10.0  | 2         | 4      | 3.51%   |
 
 Space Total
 -----------
@@ -1720,27 +1719,27 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch      | 7         | 4.22%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch              | 5         | 3.01%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch        | 5         | 3.01%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 5         | 3.01%   |
 | LG Display LCD Monitor LGD0676 1920x1080 309x174mm 14.0-inch          | 3         | 1.81%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 3         | 1.81%   |
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                     | 3         | 1.81%   |
-| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                     | 3         | 1.81%   |
+| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                     | 3         | 1.81%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 3         | 1.81%   |
 | BOE LCD Monitor BOE086E 1920x1080 344x194mm 15.5-inch                 | 3         | 1.81%   |
-| AU Optronics LCD Monitor AUO323D 1920x1080 309x173mm 13.9-inch        | 3         | 1.81%   |
+| AU Optronics LCD Monitor AUO323D 1920x1080 309x174mm 14.0-inch        | 3         | 1.81%   |
 | Philips PHL 272E1 PHLC210 1920x1080 598x336mm 27.0-inch               | 2         | 1.2%    |
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch               | 2         | 1.2%    |
 | LGD LCD Monitor 1920x1080                                             | 2         | 1.2%    |
 | LG Display LCD Monitor LGD0306 1600x900 310x174mm 14.0-inch           | 2         | 1.2%    |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch              | 2         | 1.2%    |
-| Hewlett-Packard 27yh HPN351C 1920x1080 598x336mm 27.0-inch            | 2         | 1.2%    |
+| Hewlett-Packard 27yh HPN351C 1920x1080 600x340mm 27.2-inch            | 2         | 1.2%    |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 2         | 1.2%    |
 | Chimei Innolux LCD Monitor CMN14F5 1920x1080 309x173mm 13.9-inch      | 2         | 1.2%    |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch       | 2         | 1.2%    |
 | BOE LCD Monitor BOE07C9 1920x1080 309x173mm 13.9-inch                 | 2         | 1.2%    |
 | AU Optronics LCD Monitor AUO562D 1920x1080 293x165mm 13.2-inch        | 2         | 1.2%    |
 | AU Optronics LCD Monitor AUO313E 1600x900 309x174mm 14.0-inch         | 2         | 1.2%    |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.2%    |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 2         | 1.2%    |
 | Sun Monitor SUN059A 1920x1200 518x324mm 24.1-inch                     | 1         | 0.6%    |
 | Sharp LCD Monitor SHP14D1 1920x1200 336x210mm 15.6-inch               | 1         | 0.6%    |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 0.6%    |
@@ -1748,8 +1747,8 @@ Monitor models
 | Sharp LCD Monitor SHP143B 3840x2160 346x194mm 15.6-inch               | 1         | 0.6%    |
 | Sharp LCD Monitor SHP1430 3840x2160 350x190mm 15.7-inch               | 1         | 0.6%    |
 | Sceptre Tech Sceptre L24 SPT098C 1920x1080 530x300mm 24.0-inch        | 1         | 0.6%    |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1         | 0.6%    |
-| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1         | 0.6%    |
+| Samsung Electronics U28E590 SAM0C4D 1680x1050 610x350mm 27.7-inch     | 1         | 0.6%    |
+| Samsung Electronics U28E590 SAM0C4C 3840x2160 610x350mm 27.7-inch     | 1         | 0.6%    |
 | Samsung Electronics U28E570 SAM0D6F 3840x2160 607x345mm 27.5-inch     | 1         | 0.6%    |
 | Samsung Electronics SyncMaster SAM0587 1920x1200 518x324mm 24.1-inch  | 1         | 0.6%    |
 | Samsung Electronics SMBX2431 SAM0771 1920x1080 531x299mm 24.0-inch    | 1         | 0.6%    |
@@ -1797,14 +1796,14 @@ Diagonal size in inches
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
 | 15      | 45        | 28.48%  |
-| 14      | 33        | 20.89%  |
+| 14      | 32        | 20.25%  |
+| 24      | 17        | 10.76%  |
 | 13      | 17        | 10.76%  |
-| 24      | 16        | 10.13%  |
 | 27      | 11        | 6.96%   |
-| 23      | 8         | 5.06%   |
+| 23      | 7         | 4.43%   |
 | 34      | 5         | 3.16%   |
 | 12      | 5         | 3.16%   |
-| 21      | 3         | 1.9%    |
+| 21      | 4         | 2.53%   |
 | 17      | 3         | 1.9%    |
 | Unknown | 3         | 1.9%    |
 | 31      | 2         | 1.27%   |
@@ -1825,10 +1824,10 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 92        | 59.35%  |
+| 301-350     | 91        | 58.71%  |
 | 501-600     | 29        | 18.71%  |
 | 201-300     | 9         | 5.81%   |
-| 401-500     | 7         | 4.52%   |
+| 401-500     | 8         | 5.16%   |
 | 701-800     | 6         | 3.87%   |
 | 601-700     | 5         | 3.23%   |
 | 351-400     | 3         | 1.94%   |
@@ -1862,8 +1861,8 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 81-90          | 46        | 29.49%  |
-| 101-110        | 45        | 28.85%  |
+| 81-90          | 45        | 28.85%  |
+| 101-110        | 44        | 28.21%  |
 | 201-250        | 22        | 14.1%   |
 | 301-350        | 11        | 7.05%   |
 | 351-500        | 7         | 4.49%   |
@@ -1872,9 +1871,9 @@ Area in inch²
 | 71-80          | 4         | 2.56%   |
 | 121-130        | 3         | 1.92%   |
 | Unknown        | 3         | 1.92%   |
-| 151-200        | 1         | 0.64%   |
+| 151-200        | 2         | 1.28%   |
+| 111-120        | 2         | 1.28%   |
 | 141-150        | 1         | 0.64%   |
-| 111-120        | 1         | 0.64%   |
 | 501-1000       | 1         | 0.64%   |
 
 Pixel Density
@@ -1887,9 +1886,9 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 121-160       | 81        | 53.64%  |
+| 121-160       | 80        | 52.98%  |
 | 51-100        | 35        | 23.18%  |
-| 101-120       | 23        | 15.23%  |
+| 101-120       | 24        | 15.89%  |
 | 161-240       | 5         | 3.31%   |
 | More than 240 | 4         | 2.65%   |
 | Unknown       | 3         | 1.99%   |
@@ -2122,7 +2121,7 @@ Ethernet models
 | Intel 82577LM Gigabit Network Connection                                       | 1         | 0.83%   |
 | ICS Advent DM9601 Fast Ethernet Adapter                                        | 1         | 0.83%   |
 | Huawei E353/E3131                                                              | 1         | 0.83%   |
-| DisplayLink Plugable UGA-3000                                                  | 1         | 0.83%   |
+| DisplayLink Plugable UGA-4KHDMI                                                | 1         | 0.83%   |
 | Broadcom Limited NetXtreme BCM5761e Gigabit Ethernet PCIe                      | 1         | 0.83%   |
 
 Net Controller Kind
@@ -2225,8 +2224,8 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                                                  | 1         | 1.09%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 1.09%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 1.09%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 1.09%   |
-| Foxconn / Hon Hai Wireless_Device                                                   | 1         | 1.09%   |
+| Intel Bluetooth Device                                                              | 1         | 1.09%   |
+| Foxconn / Hon Hai MediaTek Bluetooth Adapter                                        | 1         | 1.09%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 1.09%   |
 | Foxconn / Hon Hai BT                                                                | 1         | 1.09%   |
 | Dell DW375 Bluetooth Module                                                         | 1         | 1.09%   |
@@ -2246,26 +2245,26 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart/snd_vendor.svg)
 
 
-| Vendor                    | Notebooks | Percent |
-|---------------------------|-----------|---------|
-| Intel                     | 106       | 60.92%  |
-| Nvidia                    | 19        | 10.92%  |
-| Lenovo                    | 14        | 8.05%   |
-| AMD                       | 10        | 5.75%   |
-| GN Netcom                 | 5         | 2.87%   |
-| Plantronics               | 3         | 1.72%   |
-| Texas Instruments         | 2         | 1.15%   |
-| Realtek Semiconductor     | 2         | 1.15%   |
-| JMTek                     | 2         | 1.15%   |
-| Generalplus Technology    | 2         | 1.15%   |
-| C-Media Electronics       | 2         | 1.15%   |
-| Sennheiser Communications | 1         | 0.57%   |
-| Logitech                  | 1         | 0.57%   |
-| Google                    | 1         | 0.57%   |
-| Focusrite-Novation        | 1         | 0.57%   |
-| Dell                      | 1         | 0.57%   |
-| Corsair                   | 1         | 0.57%   |
-| Blue Microphones          | 1         | 0.57%   |
+| Vendor                 | Notebooks | Percent |
+|------------------------|-----------|---------|
+| Intel                  | 106       | 60.92%  |
+| Nvidia                 | 19        | 10.92%  |
+| Lenovo                 | 14        | 8.05%   |
+| AMD                    | 10        | 5.75%   |
+| GN Netcom              | 5         | 2.87%   |
+| Plantronics            | 3         | 1.72%   |
+| Texas Instruments      | 2         | 1.15%   |
+| Realtek Semiconductor  | 2         | 1.15%   |
+| JMTek                  | 2         | 1.15%   |
+| Generalplus Technology | 2         | 1.15%   |
+| C-Media Electronics    | 2         | 1.15%   |
+| Logitech               | 1         | 0.57%   |
+| Google                 | 1         | 0.57%   |
+| Focusrite-Novation     | 1         | 0.57%   |
+| DSEA A/S               | 1         | 0.57%   |
+| Dell                   | 1         | 0.57%   |
+| Corsair                | 1         | 0.57%   |
+| Blue Microphones       | 1         | 0.57%   |
 
 Sound Model
 -----------
@@ -2308,7 +2307,6 @@ Sound card models
 | Intel CM238 HD Audio Controller                                                   | 2         | 1.09%   |
 | Intel 8 Series HD Audio Controller                                                | 2         | 1.09%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2         | 1.09%   |
-| Sennheiser Communications Headset [PC 8]                                          | 1         | 0.54%   |
 | Nvidia GK107 HDMI Audio Controller                                                | 1         | 0.54%   |
 | Nvidia GA104 High Definition Audio Controller                                     | 1         | 0.54%   |
 | Logitech H555 Headset                                                             | 1         | 0.54%   |
@@ -2317,6 +2315,7 @@ Sound card models
 | Lenovo Thinkcentre TIO24Gen3 for USB-audio                                        | 1         | 0.54%   |
 | JMTek USB PnP Audio Device                                                        | 1         | 0.54%   |
 | JMTek iTalk-02                                                                    | 1         | 0.54%   |
+| Google Pixel earbuds                                                              | 1         | 0.54%   |
 
 Memory
 ------
@@ -2512,10 +2511,10 @@ Camera device vendors
 | Chicony Electronics                    | 38        | 31.15%  |
 | IMC Networks                           | 18        | 14.75%  |
 | Realtek Semiconductor                  | 10        | 8.2%    |
-| Acer                                   | 9         | 7.38%   |
+| Bison Electronics                      | 9         | 7.38%   |
 | Microdia                               | 7         | 5.74%   |
 | Logitech                               | 7         | 5.74%   |
-| Bison Electronics                      | 7         | 5.74%   |
+| Acer                                   | 7         | 5.74%   |
 | Sunplus Innovation Technology          | 6         | 4.92%   |
 | Suyin                                  | 3         | 2.46%   |
 | Lite-On Technology                     | 3         | 2.46%   |
@@ -2545,20 +2544,20 @@ Camera device models
 | Chicony Integrated Camera                         | 20        | 16.26%  |
 | IMC Networks Integrated Camera                    | 16        | 13.01%  |
 | Realtek Integrated_Webcam_HD                      | 7         | 5.69%   |
-| Acer Integrated Camera                            | 6         | 4.88%   |
 | Bison SunplusIT Integrated Camera                 | 5         | 4.07%   |
+| Acer Integrated Camera                            | 5         | 4.07%   |
 | Logitech HD Pro Webcam C920                       | 4         | 3.25%   |
 | Chicony Integrated Camera (1280x720@30)           | 4         | 3.25%   |
 | Sunplus Integrated_Webcam_HD                      | 3         | 2.44%   |
 | Lite-On Integrated Camera                         | 3         | 2.44%   |
 | Chicony ThinkPad T490 Webcam                      | 3         | 2.44%   |
 | Chicony HP HD Camera                              | 3         | 2.44%   |
+| Bison Integrated Camera                           | 3         | 2.44%   |
 | Samsung Galaxy series, misc. (MTP mode)           | 2         | 1.63%   |
 | Microdia Webcam                                   | 2         | 1.63%   |
 | Microdia Integrated Webcam                        | 2         | 1.63%   |
 | IMC Networks USB2.0 HD UVC WebCam                 | 2         | 1.63%   |
 | Chicony Integrated Camera [ThinkPad]              | 2         | 1.63%   |
-| Bison Integrated Camera                           | 2         | 1.63%   |
 | Acer Integrated IR Camera                         | 2         | 1.63%   |
 | Syntek Lenovo EasyCamera                          | 1         | 0.81%   |
 | Suyin RGBIR Camera                                | 1         | 0.81%   |

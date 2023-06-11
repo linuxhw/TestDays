@@ -980,7 +980,6 @@ Geographic location (city)
 | San Isidro            | 1        | 1.25%   |
 | Saint-Michel-sur-Orge | 1        | 1.25%   |
 | Saint-Etienne         | 1        | 1.25%   |
-| Saint-Aubin-en-Bray   | 1        | 1.25%   |
 | Roehampton            | 1        | 1.25%   |
 | Rio de Janeiro        | 1        | 1.25%   |
 | Regina                | 1        | 1.25%   |
@@ -997,6 +996,7 @@ Geographic location (city)
 | Nairobi               | 1        | 1.25%   |
 | Munich                | 1        | 1.25%   |
 | Mannheim              | 1        | 1.25%   |
+| Luxembourg            | 1        | 1.25%   |
 
 Drives
 ------
@@ -1179,13 +1179,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 50       | 109    | 43.48%  |
-| 0.51-1.0   | 32       | 79     | 27.83%  |
-| 1.01-2.0   | 16       | 25     | 13.91%  |
-| 3.01-4.0   | 7        | 16     | 6.09%   |
-| 2.01-3.0   | 6        | 30     | 5.22%   |
-| 4.01-10.0  | 3        | 6      | 2.61%   |
-| 10.01-20.0 | 1        | 1      | 0.87%   |
+| 0.01-0.5   | 51       | 110    | 44.74%  |
+| 0.51-1.0   | 32       | 87     | 28.07%  |
+| 1.01-2.0   | 15       | 24     | 13.16%  |
+| 3.01-4.0   | 6        | 8      | 5.26%   |
+| 2.01-3.0   | 6        | 30     | 5.26%   |
+| 4.01-10.0  | 3        | 6      | 2.63%   |
+| 10.01-20.0 | 1        | 1      | 0.88%   |
 
 Space Total
 -----------
@@ -1855,7 +1855,7 @@ Monitor models
 | LG Electronics LCD Monitor LG HDR 4K 5760x2160                        | 1        | 1.18%   |
 | LG Electronics LCD Monitor LG FULL HD 1920x1080                       | 1        | 1.18%   |
 | LG Electronics LCD Monitor 23MB35 1920x1080                           | 1        | 1.18%   |
-| Insignia DX-32L100A13 BBY0032 1360x768 544x326mm 25.0-inch            | 1        | 1.18%   |
+| Insignia NS-32D20SNA14 BBY0032 1360x768 544x326mm 25.0-inch           | 1        | 1.18%   |
 | Iiyama PLX2483H IVM6114 1920x1080 531x299mm 24.0-inch                 | 1        | 1.18%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1        | 1.18%   |
 | Idek Iiyama LCD Monitor PLE2283H 1920x1080                            | 1        | 1.18%   |
@@ -2016,8 +2016,7 @@ Total monitors connected
 | Total | Desktops | Percent |
 |-------|----------|---------|
 | 1     | 46       | 71.88%  |
-| 2     | 17       | 26.56%  |
-| 3     | 1        | 1.56%   |
+| 2     | 18       | 28.13%  |
 
 Network
 -------
@@ -2064,7 +2063,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 2.94%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter               | 2        | 1.96%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 2        | 1.96%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 2        | 1.96%   |
+| Realtek 802.11ac WLAN Adapter                                     | 2        | 1.96%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter        | 2        | 1.96%   |
 | Intel Wireless 7265                                               | 2        | 1.96%   |
 | Intel Ethernet Connection (2) I219-V                              | 2        | 1.96%   |
@@ -2128,7 +2127,7 @@ Wireless models
 | Intel Wireless 3165                                        | 3        | 9.68%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter        | 2        | 6.45%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 2        | 6.45%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter            | 2        | 6.45%   |
+| Realtek 802.11ac WLAN Adapter                              | 2        | 6.45%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter | 2        | 6.45%   |
 | Intel Wireless 7265                                        | 2        | 6.45%   |
 | Wilocity Wil6200 802.11ad Wireless Network Adapter         | 1        | 3.23%   |
@@ -2437,12 +2436,12 @@ Memory module models
 | Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s            | 1        | 2.33%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s           | 1        | 2.33%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s              | 1        | 2.33%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s              | 1        | 2.33%   |
-| Kingston RAM KHX2133C11D3/8GX 8192MB DIMM DDR3 2133MT/s        | 1        | 2.33%   |
-| Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s          | 1        | 2.33%   |
+| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s           | 1        | 2.33%   |
+| Kingston RAM KHX2133C11D3/8GX 8GB DIMM DDR3 2133MT/s           | 1        | 2.33%   |
+| Kingston RAM KHX1600C9D3/8G 8GB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
 | Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s           | 1        | 2.33%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 1        | 2.33%   |
-| Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s          | 1        | 2.33%   |
+| Kingston RAM 99U5584-009.A00LF 4096MB DIMM DDR3 1600MT/s       | 1        | 2.33%   |
 | Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2400MT/s           | 1        | 2.33%   |
 | Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s         | 1        | 2.33%   |
 | Kingston RAM 9905403-439.A00LF 4GB DIMM DDR3 1600MT/s          | 1        | 2.33%   |
@@ -2495,8 +2494,8 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 20       | 52.63%  |
-| 4096  | 9        | 23.68%  |
+| 8192  | 21       | 55.26%  |
+| 4096  | 8        | 21.05%  |
 | 2048  | 5        | 13.16%  |
 | 16384 | 4        | 10.53%  |
 
@@ -2620,7 +2619,7 @@ Camera device models
 | Microdia Camera                    | 2        | 15.38%  |
 | WaveRider USB 2.0 Camera           | 1        | 7.69%   |
 | Sunplus IT AUKEY PC-LM1 USB Camera | 1        | 7.69%   |
-| Sunplus Canyon CNS-CWC5 Webcam     | 1        | 7.69%   |
+| Sunplus Full HD webcam             | 1        | 7.69%   |
 | Microsoft LifeCam VX-800           | 1        | 7.69%   |
 | Microsoft LifeCam HD-3000          | 1        | 7.69%   |
 | Microdia Sonix USB 2.0 Camera      | 1        | 7.69%   |
