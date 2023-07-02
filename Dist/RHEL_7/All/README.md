@@ -1447,9 +1447,9 @@ Monitor models
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4.35%   |
 | ITE DP2VGA V168 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 4.35%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 4.35%   |
-| Goldstar LG HDR WFHD GSM7715 2560x1080 800x340mm 34.2-inch            | 1         | 4.35%   |
+| Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1         | 4.35%   |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1         | 4.35%   |
-| Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 4.35%   |
+| Dell P2217H DELA0D9 1920x1080 480x270mm 21.7-inch                     | 1         | 4.35%   |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 1         | 4.35%   |
 | BOE Technology Group LCD Monitor 1920x1080                            | 1         | 4.35%   |
@@ -1641,7 +1641,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                   | 1         | 1.33%   |
 | QLogic cLOM8214 1/10GbE Controller                                 | 1         | 1.33%   |
 | Prolific USB-Serial Controller                                     | 1         | 1.33%   |
-| OPPO SM8350-MTP _SN:1518BD09                                       | 1         | 1.33%   |
+| OPPO CPH2411                                                       | 1         | 1.33%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                            | 1         | 1.33%   |
 | Intel Wi-Fi 6 AX200                                                | 1         | 1.33%   |
 | Intel Ethernet Controller I225-LM                                  | 1         | 1.33%   |
@@ -1742,7 +1742,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                            | 2         | 3.39%   |
 | Dell iDRAC Virtual NIC                                            | 2         | 3.39%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.69%   |
-| OPPO SM8350-MTP _SN:1518BD09                                      | 1         | 1.69%   |
+| OPPO CPH2411                                                      | 1         | 1.69%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.69%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.69%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.69%   |
@@ -2081,7 +2081,7 @@ Camera device vendors
 | IMC Networks                           | 2         | 18.18%  |
 | Realtek Semiconductor                  | 1         | 9.09%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 9.09%   |
-| Acer                                   | 1         | 9.09%   |
+| Bison Electronics                      | 1         | 9.09%   |
 
 Camera Model
 ------------
@@ -2101,7 +2101,7 @@ Camera device models
 | Chicony Integrated Camera (1280x720@30)               | 1         | 8.33%   |
 | Chicony HP HD Camera                                  | 1         | 8.33%   |
 | Cheng Uei Precision Industry (Foxlink) Full HD Camera | 1         | 8.33%   |
-| Acer Lenovo Integrated Webcam                         | 1         | 8.33%   |
+| Bison Lenovo Integrated Webcam                        | 1         | 8.33%   |
 
 Security
 --------

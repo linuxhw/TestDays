@@ -674,7 +674,7 @@ Hard drive models
 
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
-| WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 5.56%   |
+| WDC WDS120G2G0A-00JH30 128GB SSD         | 1         | 5.56%   |
 | WDC WD2500BEVT-22A23T0 250GB             | 1         | 5.56%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 5.56%   |
 | WDC WD10JPVX-22JC3T0 1TB                 | 1         | 5.56%   |
@@ -1181,13 +1181,13 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 6.67%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 6.67%   |
-| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 6.67%   |
+| BenQ GL2460 BNQ78CE 1920x1080 530x300mm 24.0-inch                    | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
@@ -1509,16 +1509,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                      | Notebooks | Percent |
-|--------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface         | 2         | 20%     |
-| Intel Bluetooth Device                     | 2         | 20%     |
-| Toshiba RT Bluetooth Radio                 | 1         | 10%     |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth          | 1         | 10%     |
-| Qualcomm Atheros AR3011 Bluetooth          | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 10%     |
-| Intel AX200 Bluetooth                      | 1         | 10%     |
+| Model                                            | Notebooks | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
+| Intel Bluetooth wireless interface               | 2         | 20%     |
+| Toshiba RT Bluetooth Radio                       | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
+| Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
 -----

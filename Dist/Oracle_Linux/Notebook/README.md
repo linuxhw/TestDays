@@ -617,14 +617,14 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2019 | 6         | 14.63%  |
 | 2020 | 5         | 12.2%   |
+| 2014 | 5         | 12.2%   |
 | 2018 | 4         | 9.76%   |
 | 2017 | 4         | 9.76%   |
 | 2016 | 4         | 9.76%   |
-| 2015 | 4         | 9.76%   |
-| 2014 | 3         | 7.32%   |
 | 2011 | 3         | 7.32%   |
 | 2022 | 2         | 4.88%   |
 | 2021 | 2         | 4.88%   |
+| 2015 | 2         | 4.88%   |
 | 2013 | 2         | 4.88%   |
 | 2012 | 1         | 2.44%   |
 | 2008 | 1         | 2.44%   |
@@ -899,7 +899,7 @@ Hard drive models
 | WDC WDS250G2B0A-00SM50 250GB SSD             | 1         | 2%      |
 | WDC WD10SPZX-60Z10T1 1TB                     | 1         | 2%      |
 | WDC WD10JPCX-24UE4T0 1TB                     | 1         | 2%      |
-| Unknown SD/MMC/MS PRO 64GB                   | 1         | 2%      |
+| Unknown SD/MMC/MS PRO 250GB                  | 1         | 2%      |
 | Unknown MMC64G  64GB                         | 1         | 2%      |
 | Unknown MMC Card  256GB                      | 1         | 2%      |
 | Unknown MMC Card  1TB                        | 1         | 2%      |
@@ -907,7 +907,7 @@ Hard drive models
 | Toshiba THNSNJ512GCSU 512GB SSD              | 1         | 2%      |
 | Seagate ST9750420AS 752GB                    | 1         | 2%      |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 2%      |
-| Seagate BUP Slim BK 2TB                      | 1         | 2%      |
+| Seagate BUP Slim BK 1TB                      | 1         | 2%      |
 | SanDisk SDSSDH3512G 512GB                    | 1         | 2%      |
 | SanDisk SD7SN3Q256G1002 256GB SSD            | 1         | 2%      |
 | SanDisk SD6SB1M-256G-1006 256GB SSD          | 1         | 2%      |
@@ -1007,9 +1007,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 14        | 21     | 53.85%  |
+| 0.51-1.0   | 15        | 22     | 57.69%  |
 | 0.01-0.5   | 11        | 14     | 42.31%  |
-| 1.01-2.0   | 1         | 1      | 3.85%   |
 
 Space Total
 -----------
@@ -1166,13 +1165,14 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 3         | 6.82%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                   | 3         | 6.82%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 3         | 6.82%   |
-| Micron NVMe Storage Controller                                                   | 2         | 4.55%   |
 | Union Memory (Shenzhen) Non-Volatile memory controller                           | 1         | 2.27%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                  | 1         | 2.27%   |
-| Sandisk Non-Volatile memory controller                                           | 1         | 2.27%   |
+| Sandisk PC SN740 NVMe SSD                                                        | 1         | 2.27%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 2.27%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 1         | 2.27%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 1         | 2.27%   |
+| Micron NVMe Storage Controller                                                   | 1         | 2.27%   |
+| Micron 2200S NVMe SSD                                                            | 1         | 2.27%   |
 | Lite-On Non-Volatile memory controller                                           | 1         | 2.27%   |
 | Lenovo Non-Volatile memory controller                                            | 1         | 2.27%   |
 | KIOXIA NVMe SSD Controller BG4                                                   | 1         | 2.27%   |
@@ -1560,7 +1560,7 @@ Monitor models
 | Samsung Electronics SAMTRON STN0022 1280x1024 376x301mm 19.0-inch     | 1         | 1.59%   |
 | Samsung Electronics S27H65x SAM0E1D 1920x1080 598x336mm 27.0-inch     | 1         | 1.59%   |
 | Samsung Electronics S24E650 SAM0CB8 1920x1080 521x293mm 23.5-inch     | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SDC5344 1920x1080 340x190mm 15.3-inch | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SDC5344 1920x1080 344x194mm 15.5-inch | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SDC3256 1920x1080 382x215mm 17.3-inch | 1         | 1.59%   |
 | Samsung Electronics C32HG7x SAM0E14 2560x1440 697x392mm 31.5-inch     | 1         | 1.59%   |
 | LG Display LCD Monitor LGD0628 1920x1080 309x174mm 14.0-inch          | 1         | 1.59%   |
@@ -2100,7 +2100,7 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 3.7%    |
 | SK hynix RAM HMAA1GS6CMR8N-VK 8GB Row Of Chips DDR4 2667MT/s | 1         | 3.7%    |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s | 1         | 3.7%    |
-| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 1         | 3.7%    |
+| SK hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s    | 1         | 3.7%    |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 1         | 3.7%    |
 | SK hynix RAM H9HCNNNBKUMLXR-NEE 2GB LPDDR4 2400MT/s          | 1         | 3.7%    |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.7%    |
@@ -2112,7 +2112,7 @@ Memory module models
 | Micron RAM 53E2G32D4NQ-046 4GB Row Of Chips LPDDR4 4267MT/s  | 1         | 3.7%    |
 | Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s         | 1         | 3.7%    |
 | Micron RAM 16JTF1G64HZ-1G4D1 8GB SODIMM DDR3 1333MT/s        | 1         | 3.7%    |
-| Micron RAM 16ATF2G64HZ-2G1A1 16384MB SODIMM DDR4 2133MT/s    | 1         | 3.7%    |
+| Micron RAM 16ATF2G64HZ-2G1A1 16GB SODIMM DDR4 2133MT/s       | 1         | 3.7%    |
 | Kingston RAM KX830D-ELC 4GB SODIMM DDR3 1333MT/s             | 1         | 3.7%    |
 | Kingston RAM KN2M64-ETB 8GB SODIMM DDR3 1600MT/s             | 1         | 3.7%    |
 | Corsair RAM CMSX32GX4M2A2666C18 16GB SODIMM DDR4 2667MT/s    | 1         | 3.7%    |

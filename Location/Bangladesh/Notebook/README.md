@@ -969,8 +969,8 @@ Motherboard manufacture year
 | 2018 | 20        | 10.93%  |
 | 2019 | 18        | 9.84%   |
 | 2021 | 15        | 8.2%    |
-| 2015 | 15        | 8.2%    |
-| 2014 | 13        | 7.1%    |
+| 2015 | 14        | 7.65%   |
+| 2014 | 14        | 7.65%   |
 | 2012 | 12        | 6.56%   |
 | 2020 | 11        | 6.01%   |
 | 2013 | 9         | 4.92%   |
@@ -1250,7 +1250,7 @@ Hard drive models
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 6         | 2.49%   |
 | WDC WD10JPVX-60JC3T0 1TB                            | 5         | 2.07%   |
 | Seagate ST500LT012-1DG142 500GB                     | 5         | 2.07%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD                    | 4         | 1.66%   |
+| WDC WDS120G2G0A-00JH30 128GB SSD                    | 4         | 1.66%   |
 | WDC WD10SPZX-60Z10T0 1TB                            | 4         | 1.66%   |
 | Toshiba MQ01ABD100 1TB                              | 4         | 1.66%   |
 | HGST HTS541010A9E680 1TB                            | 4         | 1.66%   |
@@ -1259,7 +1259,7 @@ Hard drive models
 | Seagate ST500LT012-9WS142 500GB                     | 3         | 1.24%   |
 | Seagate ST1000LM049-2GH172 1TB                      | 3         | 1.24%   |
 | SanDisk NVMe SSD Drive 512GB                        | 3         | 1.24%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 3         | 1.24%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3         | 1.24%   |
 | Intel SSD 660P Series 512GB                         | 3         | 1.24%   |
 | Intel NVMe SSD Drive 512GB                          | 3         | 1.24%   |
 | HGST HTS545050A7E680 500GB                          | 3         | 1.24%   |
@@ -1272,7 +1272,7 @@ Hard drive models
 | Transcend TS240GMTS820S 240GB SSD                   | 2         | 0.83%   |
 | Toshiba THNSNK128GVN8 128GB SSD                     | 2         | 0.83%   |
 | Toshiba MQ01ACF050 500GB                            | 2         | 0.83%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 1TB   | 2         | 0.83%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 2         | 0.83%   |
 | Seagate ST9500325AS 500GB                           | 2         | 0.83%   |
 | Samsung SSD 860 EVO 500GB                           | 2         | 0.83%   |
 | Ramsta SSD R800 120GB                               | 2         | 0.83%   |
@@ -1378,8 +1378,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 90        | 117    | 51.72%  |
-| 0.51-1.0   | 82        | 106    | 47.13%  |
-| 1.01-2.0   | 2         | 3      | 1.15%   |
+| 0.51-1.0   | 81        | 105    | 46.55%  |
+| 1.01-2.0   | 3         | 4      | 1.72%   |
 
 Space Total
 -----------
@@ -1429,29 +1429,29 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                                             | Notebooks | Drives | Percent |
-|---------------------------------------------------|-----------|--------|---------|
-| Toshiba MQ01ABD100 1TB                            | 2         | 4      | 8.33%   |
-| HGST HTS545050A7E680 500GB                        | 2         | 2      | 8.33%   |
-| HGST HTS541010A9E680 1TB                          | 2         | 2      | 8.33%   |
-| WDC WD5000LPCX-22VHAT0 500GB                      | 1         | 1      | 4.17%   |
-| WDC WD5000BPVT-22HXZT3 500GB                      | 1         | 1      | 4.17%   |
-| WDC WD10SPZX-24Z10T0 1TB                          | 1         | 1      | 4.17%   |
-| WDC WD10JPVX-60JC3T0 1TB                          | 1         | 2      | 4.17%   |
-| Toshiba MQ01ABD050 500GB                          | 1         | 1      | 4.17%   |
-| SK hynix HFS256G3AMNB-2200A 256GB SSD             | 1         | 1      | 4.17%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1         | 1      | 4.17%   |
-| Seagate ST9500325AS 500GB                         | 1         | 1      | 4.17%   |
-| Seagate ST500LT012-9WS142 500GB                   | 1         | 1      | 4.17%   |
-| Seagate ST500LT012-1DG142 500GB                   | 1         | 1      | 4.17%   |
-| Seagate ST320LT012-9WS14C 320GB                   | 1         | 1      | 4.17%   |
-| Seagate ST2000LM003 HN-M201RAD 2TB                | 1         | 1      | 4.17%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                | 1         | 1      | 4.17%   |
-| Micron Technology 1100_MTFDDAV256TBN 256GB SSD    | 1         | 1      | 4.17%   |
-| Intel SSDSCKKW240H6 240GB                         | 1         | 1      | 4.17%   |
-| Hitachi HTS545025B9A300 250GB                     | 1         | 1      | 4.17%   |
-| HGST HTS545050A7E380 500GB                        | 1         | 1      | 4.17%   |
-| Hewlett-Packard SSD S600 240GB                    | 1         | 1      | 4.17%   |
+| Model                                               | Notebooks | Drives | Percent |
+|-----------------------------------------------------|-----------|--------|---------|
+| Toshiba MQ01ABD100 1TB                              | 2         | 4      | 8.33%   |
+| HGST HTS545050A7E680 500GB                          | 2         | 2      | 8.33%   |
+| HGST HTS541010A9E680 1TB                            | 2         | 2      | 8.33%   |
+| WDC WD5000LPCX-22VHAT0 500GB                        | 1         | 1      | 4.17%   |
+| WDC WD5000BPVT-22HXZT3 500GB                        | 1         | 1      | 4.17%   |
+| WDC WD10SPZX-24Z10T0 1TB                            | 1         | 1      | 4.17%   |
+| WDC WD10JPVX-60JC3T0 1TB                            | 1         | 2      | 4.17%   |
+| Toshiba MQ01ABD050 500GB                            | 1         | 1      | 4.17%   |
+| SK hynix HFS256G3AMNB-2200A 256GB SSD               | 1         | 1      | 4.17%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 1         | 1      | 4.17%   |
+| Seagate ST9500325AS 500GB                           | 1         | 1      | 4.17%   |
+| Seagate ST500LT012-9WS142 500GB                     | 1         | 1      | 4.17%   |
+| Seagate ST500LT012-1DG142 500GB                     | 1         | 1      | 4.17%   |
+| Seagate ST320LT012-9WS14C 320GB                     | 1         | 1      | 4.17%   |
+| Seagate ST2000LM003 HN-M201RAD 2TB                  | 1         | 1      | 4.17%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 1      | 4.17%   |
+| Micron Technology 1100_MTFDDAV256TBN 256GB SSD      | 1         | 1      | 4.17%   |
+| Intel SSDSCKKW240H6 240GB                           | 1         | 1      | 4.17%   |
+| Hitachi HTS545025B9A300 250GB                       | 1         | 1      | 4.17%   |
+| HGST HTS545050A7E380 500GB                          | 1         | 1      | 4.17%   |
+| Hewlett-Packard SSD S600 240GB                      | 1         | 1      | 4.17%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1599,14 +1599,14 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 2         | 0.89%   |
 | Toshiba America Info Systems XG5 NVMe SSD Controller                             | 1         | 0.45%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                             | 1         | 0.45%   |
-| Solid State Storage Non-Volatile memory controller                               | 1         | 0.45%   |
-| SK hynix Non-Volatile memory controller                                          | 1         | 0.45%   |
-| SK hynix BC511                                                                   | 1         | 0.45%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                   | 1         | 0.45%   |
+| SK hynix PC611 NVMe Solid State Drive                                            | 1         | 0.45%   |
+| SK hynix BC511 NVMe SSD                                                          | 1         | 0.45%   |
 | Silicon Motion Non-Volatile memory controller                                    | 1         | 0.45%   |
 | Shenzhen Longsys Non-Volatile memory controller                                  | 1         | 0.45%   |
 | Shenzhen Longsys Electronics Non-Volatile memory controller                      | 1         | 0.45%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                  | 1         | 0.45%   |
-| SanDisk NVMe Controller                                                          | 1         | 0.45%   |
+| SanDisk PC SN530 NVMe SSD                                                        | 1         | 0.45%   |
 | SanDisk Non-Volatile memory controller                                           | 1         | 0.45%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 0.45%   |
 | Samsung NVMe SSD Controller PM9B1                                                | 1         | 0.45%   |
@@ -2020,7 +2020,7 @@ Monitor models
 | LG Display LCD Monitor LGD0573 1920x1080 344x194mm 15.5-inch             | 2         | 0.99%   |
 | LG Display LCD Monitor LGD0504 1366x768 344x194mm 15.5-inch              | 2         | 0.99%   |
 | LG Display LCD Monitor LGD04C0 1366x768 309x174mm 14.0-inch              | 2         | 0.99%   |
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 2         | 0.99%   |
+| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch             | 2         | 0.99%   |
 | LG Display LCD Monitor LGD0466 1366x768 309x174mm 14.0-inch              | 2         | 0.99%   |
 | LG Display LCD Monitor LGD02F8 1366x768 309x174mm 14.0-inch              | 2         | 0.99%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                   | 2         | 0.99%   |
@@ -2034,7 +2034,7 @@ Monitor models
 | BOE LCD Monitor BOE06A4 1366x768 344x194mm 15.5-inch                     | 2         | 0.99%   |
 | BOE LCD Monitor BOE0698 1366x768 309x173mm 13.9-inch                     | 2         | 0.99%   |
 | BOE LCD Monitor BOE0672 1366x768 344x194mm 15.5-inch                     | 2         | 0.99%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch           | 2         | 0.99%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch           | 2         | 0.99%   |
 | AU Optronics LCD Monitor AUO305C 1366x768 256x144mm 11.6-inch            | 2         | 0.99%   |
 | AU Optronics LCD Monitor AUO2E8D 1920x1080 344x194mm 15.5-inch           | 2         | 0.99%   |
 | AU Optronics LCD Monitor AUO123D 1920x1080 309x173mm 13.9-inch           | 2         | 0.99%   |
@@ -2046,7 +2046,7 @@ Monitor models
 | Samsung Electronics S22B300 SAM08AC 1920x1080 477x268mm 21.5-inch        | 1         | 0.5%    |
 | Samsung Electronics S19F350 SAM0D46 1366x768 410x230mm 18.5-inch         | 1         | 0.5%    |
 | Samsung Electronics S19C300 SAM0A12 1366x768 410x230mm 18.5-inch         | 1         | 0.5%    |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch     | 1         | 0.5%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch     | 1         | 0.5%    |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 0.5%    |
 | Samsung Electronics LCD Monitor SEC3050 1366x768 309x174mm 14.0-inch     | 1         | 0.5%    |
 
@@ -2385,7 +2385,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 0.7%    |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 0.7%    |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.7%    |
-| OPPO SM8350-MTP _SN:1518BD09                                      | 1         | 0.7%    |
+| OPPO CPH2411                                                      | 1         | 0.7%    |
 | Intel Ethernet Connection (6) I219-LM                             | 1         | 0.7%    |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 0.7%    |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 0.7%    |
@@ -2509,7 +2509,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 0.64%   |
 | MediaTek Wireless_Device                            | 1         | 0.64%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 0.64%   |
-| Intel Bluetooth Device                              | 1         | 0.64%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 0.64%   |
 | IMC Networks Wireless_Device                        | 1         | 0.64%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 0.64%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 0.64%   |
@@ -2631,48 +2631,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Notebooks | Percent |
-|-----------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s    | 6         | 4.41%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s     | 5         | 3.68%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 4         | 2.94%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 3         | 2.21%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s    | 3         | 2.21%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s     | 3         | 2.21%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 2         | 1.47%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s    | 2         | 1.47%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8192MB SODIMM DDR4 3200MT/s | 2         | 1.47%   |
-| SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s    | 2         | 1.47%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s     | 2         | 1.47%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 2         | 1.47%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 2         | 1.47%   |
-| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s     | 2         | 1.47%   |
-| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s    | 2         | 1.47%   |
-| Samsung RAM M471A1K44BM0-CRC 8GB SODIMM DDR4 2400MT/s     | 2         | 1.47%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 2         | 1.47%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s      | 2         | 1.47%   |
-| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s      | 2         | 1.47%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s     | 2         | 1.47%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s     | 2         | 1.47%   |
-| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 2         | 1.47%   |
-| Unknown RAM Module 8192MB SODIMM DDR3 1600MT/s            | 1         | 0.74%   |
-| Unknown RAM Module 4GB SODIMM DDR4 2667MT/s               | 1         | 0.74%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1067MT/s               | 1         | 0.74%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s            | 1         | 0.74%   |
-| Unknown RAM Module 2GB Row Of Chips LPDDR4 4267MT/s       | 1         | 0.74%   |
-| Unknown (C509) RAM Module 4GB SODIMM DDR4 2400MT/s        | 1         | 0.74%   |
-| Unknown (768A) RAM Module 8192MB SODIMM DDR4 3200MT/s     | 1         | 0.74%   |
-| Transcend RAM JM3200HSB-8G 8GB SODIMM DDR4 3200MT/s       | 1         | 0.74%   |
-| Transcend RAM JM2666HSG-8G 8GB SODIMM DDR4 2667MT/s       | 1         | 0.74%   |
-| Transcend RAM JM2400HSB-8G 8GB SODIMM DDR4 2400MT/s       | 1         | 0.74%   |
-| Transcend RAM JM1333KSN-4G 4GB SODIMM 1334MT/s            | 1         | 0.74%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s        | 1         | 0.74%   |
-| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s         | 1         | 0.74%   |
-| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s     | 1         | 0.74%   |
-| Team RAM TEAMGROUP-SD4-2400 16GB SODIMM DDR4 8400MT/s     | 1         | 0.74%   |
-| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s           | 1         | 0.74%   |
-| SK hynix RAM Module 4096MB SODIMM DDR4 2133MT/s           | 1         | 0.74%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 0.74%   |
+| Model                                                    | Notebooks | Percent |
+|----------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s   | 6         | 4.41%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s    | 5         | 3.68%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s   | 4         | 2.94%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 3         | 2.21%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s   | 3         | 2.21%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s   | 3         | 2.21%   |
+| Samsung RAM M471B5173EB0-YK0 4096MB SODIMM DDR3 1600MT/s | 3         | 2.21%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 1.47%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 1.47%   |
+| SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s   | 2         | 1.47%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 1.47%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 1.47%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s    | 2         | 1.47%   |
+| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s    | 2         | 1.47%   |
+| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s   | 2         | 1.47%   |
+| Samsung RAM M471A1K44BM0-CRC 8GB SODIMM DDR4 2400MT/s    | 2         | 1.47%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s    | 2         | 1.47%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s     | 2         | 1.47%   |
+| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s     | 2         | 1.47%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s    | 2         | 1.47%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s    | 2         | 1.47%   |
+| Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s   | 2         | 1.47%   |
+| Unknown RAM Module 8192MB SODIMM DDR3 1600MT/s           | 1         | 0.74%   |
+| Unknown RAM Module 4GB SODIMM DDR4 2667MT/s              | 1         | 0.74%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1067MT/s              | 1         | 0.74%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1600MT/s           | 1         | 0.74%   |
+| Unknown RAM Module 2GB Row Of Chips LPDDR4 4267MT/s      | 1         | 0.74%   |
+| Unknown (C509) RAM Module 4GB SODIMM DDR4 2400MT/s       | 1         | 0.74%   |
+| Unknown (768A) RAM Module 8192MB SODIMM DDR4 3200MT/s    | 1         | 0.74%   |
+| Transcend RAM JM3200HSB-8G 8GB SODIMM DDR4 3200MT/s      | 1         | 0.74%   |
+| Transcend RAM JM2666HSG-8G 8GB SODIMM DDR4 2667MT/s      | 1         | 0.74%   |
+| Transcend RAM JM2400HSB-8G 8GB SODIMM DDR4 2400MT/s      | 1         | 0.74%   |
+| Transcend RAM JM1333KSN-4G 4GB SODIMM 1334MT/s           | 1         | 0.74%   |
+| Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s       | 1         | 0.74%   |
+| Toshiba RAM 64T128020EDL2.5C2 1GB SODIMM 1066MT/s        | 1         | 0.74%   |
+| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s    | 1         | 0.74%   |
+| Team RAM TEAMGROUP-SD4-2400 16GB SODIMM DDR4 8400MT/s    | 1         | 0.74%   |
+| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s          | 1         | 0.74%   |
+| SK hynix RAM Module 4096MB SODIMM DDR4 2133MT/s          | 1         | 0.74%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 1         | 0.74%   |
 
 Memory Kind
 -----------
@@ -2810,11 +2810,11 @@ Camera device vendors
 | Quanta                                 | 11        | 6.51%   |
 | Microdia                               | 11        | 6.51%   |
 | Sunplus Innovation Technology          | 10        | 5.92%   |
+| Acer                                   | 8         | 4.73%   |
 | Lite-On Technology                     | 7         | 4.14%   |
-| Acer                                   | 7         | 4.14%   |
 | Suyin                                  | 5         | 2.96%   |
 | Luxvisions Innotech Limited            | 5         | 2.96%   |
-| Bison Electronics                      | 5         | 2.96%   |
+| Bison Electronics                      | 4         | 2.37%   |
 | Syntek                                 | 2         | 1.18%   |
 | Sonix Technology                       | 2         | 1.18%   |
 | Silicon Motion                         | 2         | 1.18%   |
@@ -2841,7 +2841,6 @@ Camera device models
 | Luxvisions Innotech Limited HP HD Camera                | 4         | 2.37%   |
 | Lite-On HP HD Camera                                    | 4         | 2.37%   |
 | IMC Networks Integrated Camera                          | 4         | 2.37%   |
-| Acer HD Webcam                                          | 4         | 2.37%   |
 | Suyin Integrated_Webcam_HD                              | 3         | 1.78%   |
 | Realtek Integrated_Webcam_HD                            | 3         | 1.78%   |
 | IMC Networks USB2.0 HD IR UVC WebCam                    | 3         | 1.78%   |
@@ -2849,6 +2848,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam           | 3         | 1.78%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD | 3         | 1.78%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera     | 3         | 1.78%   |
+| Acer HD Webcam                                          | 3         | 1.78%   |
 | Suyin HP Truevision HD                                  | 2         | 1.18%   |
 | Sunplus Laptop Integrated Webcam HD                     | 2         | 1.18%   |
 | Sunplus Integrated_Webcam_HD                            | 2         | 1.18%   |
@@ -2867,11 +2867,11 @@ Camera device models
 | Chicony HP HD Camera                                    | 2         | 1.18%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam        | 2         | 1.18%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam     | 2         | 1.18%   |
-| Bison Integrated Camera                                 | 2         | 1.18%   |
-| Bison EasyCamera                                        | 2         | 1.18%   |
+| Acer Integrated Camera                                  | 2         | 1.18%   |
 | Syntek Integrated Camera                                | 1         | 0.59%   |
 | Syntek EasyCamera                                       | 1         | 0.59%   |
 | Sunplus XiaoMi USB 2.0 Webcam                           | 1         | 0.59%   |
+| Sunplus Integrated Webcam                               | 1         | 0.59%   |
 
 Security
 --------
@@ -2956,8 +2956,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 129       | 67.54%  |
-| 1     | 54        | 28.27%  |
+| 0     | 128       | 67.02%  |
+| 1     | 55        | 28.8%   |
 | 2     | 6         | 3.14%   |
 | 5     | 1         | 0.52%   |
 | 3     | 1         | 0.52%   |
@@ -2972,13 +2972,13 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 33        | 47.14%  |
-| Graphics card         | 17        | 24.29%  |
-| Chipcard              | 6         | 8.57%   |
-| Net/wireless          | 4         | 5.71%   |
-| Camera                | 4         | 5.71%   |
-| Multimedia controller | 2         | 2.86%   |
-| Bluetooth             | 2         | 2.86%   |
-| Sound                 | 1         | 1.43%   |
-| Card reader           | 1         | 1.43%   |
+| Fingerprint reader    | 33        | 46.48%  |
+| Graphics card         | 18        | 25.35%  |
+| Chipcard              | 6         | 8.45%   |
+| Net/wireless          | 4         | 5.63%   |
+| Camera                | 4         | 5.63%   |
+| Multimedia controller | 2         | 2.82%   |
+| Bluetooth             | 2         | 2.82%   |
+| Sound                 | 1         | 1.41%   |
+| Card reader           | 1         | 1.41%   |
 

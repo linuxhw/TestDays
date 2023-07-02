@@ -1667,7 +1667,7 @@ Monitor models
 | IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 4.35%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 4.35%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.17%   |
-| Vestel Elektronik 43UHD_LCD_TV VES3700 3840x2160 950x540mm 43.0-inch   | 1        | 2.17%   |
+| Vestel Elektronik 32FHD_LCD_TV VES3700 1920x1080 700x400mm 31.7-inch   | 1        | 2.17%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.17%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.17%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.17%   |
@@ -1699,8 +1699,8 @@ Monitor models
 | Dell S2409W DELA038 1920x1080 531x298mm 24.0-inch                      | 1        | 2.17%   |
 | Dell 2208WFP DEL403C 1680x1050 473x296mm 22.0-inch                     | 1        | 2.17%   |
 | CTV CTV CTV0B01 1366x768 698x393mm 31.5-inch                           | 1        | 2.17%   |
-| BenQ XL2411Z BNQ7F31 1920x1080 530x300mm 24.0-inch                     | 1        | 2.17%   |
-| BenQ GW2780 BNQ78E6 1920x1080 600x340mm 27.2-inch                      | 1        | 2.17%   |
+| BenQ ZOWIE XL LCD BNQ7F31 1920x1080 531x298mm 24.0-inch                | 1        | 2.17%   |
+| BenQ GW2780 BNQ78E6 1920x1080 598x336mm 27.0-inch                      | 1        | 2.17%   |
 | Belinea b.disp2.1_22W MAX08A0 1680x1050 474x297mm 22.0-inch            | 1        | 2.17%   |
 | ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch           | 1        | 2.17%   |
 | AOC LCD Monitor 24E1W1 1920x1080                                       | 1        | 2.17%   |
@@ -2204,7 +2204,7 @@ Memory module models
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s                     | 1        | 3.33%   |
 | Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 3.33%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s                    | 1        | 3.33%   |
-| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s                    | 1        | 3.33%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s                       | 1        | 3.33%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s                     | 1        | 3.33%   |
 | Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s                   | 1        | 3.33%   |
 | Kingston RAM 99U5584-009.A00LF 4096MB DIMM DDR3 1600MT/s                | 1        | 3.33%   |

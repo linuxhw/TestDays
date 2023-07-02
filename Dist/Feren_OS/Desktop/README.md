@@ -921,7 +921,7 @@ Hard drive models
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.39%   |
 | WDC WD Blue SA510 2.5 500GB      | 1        | 1.39%   |
 | Verbatim Vi550 S3 SSD 128GB      | 1        | 1.39%   |
-| Unknown SD/MMC/MS PRO 64GB       | 1        | 1.39%   |
+| Unknown SD/MMC/MS PRO 250GB      | 1        | 1.39%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.39%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.39%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.39%   |
@@ -1608,7 +1608,7 @@ Monitor models
 | Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                  | 1        | 2.44%   |
 | Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1        | 2.44%   |
 | LG Electronics LCD Monitor MP59HT 1920x1080                           | 1        | 2.44%   |
-| Lenovo LEN L171 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.44%   |
+| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.44%   |
 | Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                  | 1        | 2.44%   |
 | Lenovo H61 LEN520B 1600x900 410x230mm 18.5-inch                       | 1        | 2.44%   |
 | Lenovo Group Limited LCD Monitor L24q-10 2560x1440                    | 1        | 2.44%   |
@@ -1627,7 +1627,7 @@ Monitor models
 | AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                        | 1        | 2.44%   |
 | AOC LCD Monitor 1943W 1366x768                                        | 1        | 2.44%   |
 | Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch      | 1        | 2.44%   |
-| Acer VG270U ACR06C9 2560x1440 597x336mm 27.0-inch                     | 1        | 2.44%   |
+| Acer VG270U ACR06C9 2560x1440 600x340mm 27.2-inch                     | 1        | 2.44%   |
 | Acer V273HL ACR02D0 1920x1080 598x336mm 27.0-inch                     | 1        | 2.44%   |
 | Acer S242HL ACR0216 1920x1080 531x299mm 24.0-inch                     | 1        | 2.44%   |
 
@@ -1838,7 +1838,7 @@ Controller models
 | Intel Cannon Lake PCH CNVi WiFi                                              | 1        | 1.75%   |
 | Intel 82579V Gigabit Network Connection                                      | 1        | 1.75%   |
 | Intel 82567LM-3 Gigabit Network Connection                                   | 1        | 1.75%   |
-| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT2870]                     | 1        | 1.75%   |
+| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT3070]                     | 1        | 1.75%   |
 | D-Link DWA-160 802.11abgn Xtreme N Dual Band Adapter(rev.B2) [Ralink RT5572] | 1        | 1.75%   |
 | Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express                      | 1        | 1.75%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                              | 1        | 1.75%   |
@@ -1891,7 +1891,7 @@ Wireless models
 | Linksys WUSB6300 802.11a/b/g/n/ac Wireless Adapter [Realtek RTL8812AU]       | 1        | 5.26%   |
 | Intel Centrino Wireless-N 2230                                               | 1        | 5.26%   |
 | Intel Cannon Lake PCH CNVi WiFi                                              | 1        | 5.26%   |
-| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT2870]                     | 1        | 5.26%   |
+| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT3070]                     | 1        | 5.26%   |
 | D-Link DWA-160 802.11abgn Xtreme N Dual Band Adapter(rev.B2) [Ralink RT5572] | 1        | 5.26%   |
 
 Ethernet Vendor
@@ -2091,8 +2091,8 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.43%   |
 | Hewlett-Packard Speaker Bar                                                                     | 1        | 1.43%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.43%   |
-| C-Media Electronics TONOR TC30 Audio Device                                                     | 1        | 1.43%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.43%   |
+| C-Media Electronics BIRD UM1                                                                    | 1        | 1.43%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.43%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.43%   |
 | AMD Starship/Matisse HD Audio Controller                                                        | 1        | 1.43%   |
@@ -2135,7 +2135,7 @@ Memory module models
 |----------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 4096MB DIMM DDR3 1400MT/s                   | 1        | 8.33%   |
 | SK hynix RAM HKNNNFBMAVAR-NEH 2GB Row Of Chips LPDDR4 3200MT/s | 1        | 8.33%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1        | 8.33%   |
+| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s         | 1        | 8.33%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s             | 1        | 8.33%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
@@ -2144,7 +2144,7 @@ Memory module models
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
 | Crucial RAM CT8G4DFD8213.C16FBR2 8GB DIMM DDR4 2133MT/s        | 1        | 8.33%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1        | 8.33%   |
-| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3600MT/s                   | 1        | 8.33%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                    | 1        | 8.33%   |
 
 Memory Kind
 -----------

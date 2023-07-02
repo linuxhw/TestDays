@@ -736,16 +736,16 @@ Motherboard manufacture year
 | 2019 | 7        | 10.14%  |
 | 2014 | 7        | 10.14%  |
 | 2020 | 5        | 7.25%   |
-| 2013 | 5        | 7.25%   |
 | 2011 | 5        | 7.25%   |
 | 2015 | 4        | 5.8%    |
+| 2013 | 4        | 5.8%    |
 | 2008 | 4        | 5.8%    |
 | 2021 | 3        | 4.35%   |
 | 2017 | 3        | 4.35%   |
+| 2012 | 3        | 4.35%   |
 | 2010 | 3        | 4.35%   |
 | 2006 | 3        | 4.35%   |
 | 2016 | 2        | 2.9%    |
-| 2012 | 2        | 2.9%    |
 | 2009 | 1        | 1.45%   |
 
 Form Factor
@@ -1055,7 +1055,7 @@ Hard drive models
 | Seagate ST2000DX001-1NS164 2TB        | 2        | 1.1%    |
 | SanDisk SDSSDA240G 240GB              | 2        | 1.1%    |
 | Samsung NVMe SSD Drive 1TB            | 2        | 1.1%    |
-| Kingston Company A2000 NVMe SSD 500GB | 2        | 1.1%    |
+| Kingston Company A2000 NVMe SSD 250GB | 2        | 1.1%    |
 | Kingston SA400S37480G 480GB SSD       | 2        | 1.1%    |
 | Intel NVMe SSD Drive 1024GB           | 2        | 1.1%    |
 | Hitachi HTS545032B9A300 320GB         | 2        | 1.1%    |
@@ -1160,10 +1160,10 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 55       | 105    | 51.89%  |
-| 0.51-1.0   | 28       | 42     | 26.42%  |
-| 1.01-2.0   | 16       | 34     | 15.09%  |
+| 0.51-1.0   | 26       | 39     | 24.53%  |
+| 1.01-2.0   | 17       | 35     | 16.04%  |
 | 3.01-4.0   | 4        | 7      | 3.77%   |
-| 4.01-10.0  | 2        | 2      | 1.89%   |
+| 4.01-10.0  | 3        | 4      | 2.83%   |
 | 10.01-20.0 | 1        | 1      | 0.94%   |
 
 Space Total
@@ -1776,7 +1776,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 3.45%   |
+| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 3.45%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 2.3%    |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 2.3%    |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 2        | 2.3%    |
@@ -2158,7 +2158,7 @@ Ethernet models
 | Intel 82583V Gigabit Network Connection                           | 1        | 1.25%   |
 | Intel 82579V Gigabit Network Connection                           | 1        | 1.25%   |
 | Intel 82578DC Gigabit Network Connection                          | 1        | 1.25%   |
-| Huawei ANE-LX1                                                    | 1        | 1.25%   |
+| Huawei LLD-L21                                                    | 1        | 1.25%   |
 | Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1        | 1.25%   |
 | Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 1        | 1.25%   |
 
@@ -2379,32 +2379,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s  | 2        | 8%      |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 4%      |
-| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s           | 1        | 4%      |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 4%      |
-| Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 4%      |
-| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 4%      |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 4%      |
-| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 4%      |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s    | 1        | 4%      |
-| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 4%      |
-| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s  | 1        | 4%      |
-| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 1        | 4%      |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 4%      |
-| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 4%      |
-| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
-| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 1        | 4%      |
-| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3733MT/s  | 1        | 4%      |
-| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s | 1        | 4%      |
-| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s  | 1        | 4%      |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 1        | 4%      |
-| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 4%      |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s    | 2        | 8%      |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 4%      |
+| Unknown RAM Module 4096MB DIMM DDR3 1066MT/s             | 1        | 4%      |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s             | 1        | 4%      |
+| Unknown RAM Module 1GB DIMM 667MT/s                      | 1        | 4%      |
+| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s       | 1        | 4%      |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s        | 1        | 4%      |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s      | 1        | 4%      |
+| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s      | 1        | 4%      |
+| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s      | 1        | 4%      |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s      | 1        | 4%      |
+| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 4%      |
+| G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s    | 1        | 4%      |
+| G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s       | 1        | 4%      |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s    | 1        | 4%      |
+| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s   | 1        | 4%      |
+| Corsair RAM CMY8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
+| Corsair RAM CMX8GX3M2B1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
+| Corsair RAM CMX8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s      | 1        | 4%      |
+| Corsair RAM CMW16GX4M2C3200C16 8GB DIMM DDR4 3733MT/s    | 1        | 4%      |
+| Corsair RAM CMK32GX4M2B3000C15 16GB DIMM DDR4 3000MT/s   | 1        | 4%      |
+| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s | 1        | 4%      |
+| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s              | 1        | 4%      |
 
 Memory Kind
 -----------
@@ -2551,23 +2551,24 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920             | 3        | 15.79%  |
-| Microdia Camera                         | 2        | 10.53%  |
-| Logitech Logitech Webcam C160           | 2        | 10.53%  |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 5.26%   |
-| Microsoft Xbox NUI Camera               | 1        | 5.26%   |
-| Microsoft LifeCam HD-3000               | 1        | 5.26%   |
-| MacroSilicon ShadowCast                 | 1        | 5.26%   |
-| Logitech Webcam C270                    | 1        | 5.26%   |
-| Logitech StreamCam                      | 1        | 5.26%   |
-| Logitech C922 Pro Stream Webcam         | 1        | 5.26%   |
-| LG Optimus (Various Models) MTP Mode    | 1        | 5.26%   |
-| HP Webcam HD 2300                       | 1        | 5.26%   |
-| Bison LENOVO LBG 720P CAM               | 1        | 5.26%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X         | 1        | 5.26%   |
-| A4Tech FHD 1080P PC Camera              | 1        | 5.26%   |
+| Model                                | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| Microdia Camera                      | 2        | 10.53%  |
+| Logitech Logitech Webcam C160        | 2        | 10.53%  |
+| Logitech HD Pro Webcam C920          | 2        | 10.53%  |
+| Samsung Galaxy A5 (MTP)              | 1        | 5.26%   |
+| Microsoft Xbox NUI Camera            | 1        | 5.26%   |
+| Microsoft LifeCam HD-3000            | 1        | 5.26%   |
+| MacroSilicon ShadowCast              | 1        | 5.26%   |
+| Logitech Webcam C270                 | 1        | 5.26%   |
+| Logitech StreamCam                   | 1        | 5.26%   |
+| Logitech C922 Pro Stream Webcam      | 1        | 5.26%   |
+| Logitech C920 PRO HD Webcam          | 1        | 5.26%   |
+| LG Optimus (Various Models) MTP Mode | 1        | 5.26%   |
+| HP Webcam HD 2300                    | 1        | 5.26%   |
+| Bison LENOVO LBG 720P CAM            | 1        | 5.26%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X      | 1        | 5.26%   |
+| A4Tech FHD 1080P PC Camera           | 1        | 5.26%   |
 
 Security
 --------

@@ -792,48 +792,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                             | Desktops | Percent |
-|---------------------------------------------------|----------|---------|
-| Crucial CT500MX500SSD1 500GB                      | 2        | 4.55%   |
-| WDC WDS400T2B0A-00SM50 4TB SSD                    | 1        | 2.27%   |
-| WDC WDS100T2B0C-00PXH0 1TB                        | 1        | 2.27%   |
-| WDC WD60EZAZ-00SF3B0 6TB                          | 1        | 2.27%   |
-| WDC WD40EZAZ-00SF3B0 4TB                          | 1        | 2.27%   |
-| WDC WD20EZRZ-00Z5HB0 2TB                          | 1        | 2.27%   |
-| WDC WD20EFRX-68EUZN0 2TB                          | 1        | 2.27%   |
-| WDC WD10SPZX-60Z10T0 1TB                          | 1        | 2.27%   |
-| WDC WD10JPVX-60JC3T1 1TB                          | 1        | 2.27%   |
-| WDC WD10JPVX-22JC3T0 1TB                          | 1        | 2.27%   |
-| WDC WD10EADX-00TDHB0 1TB                          | 1        | 2.27%   |
-| WDC WD BLACK SDBPNTY-512G-1106 512GB              | 1        | 2.27%   |
-| Toshiba RD400 256GB                               | 1        | 2.27%   |
-| SK hynix SC308 SATA 128GB SSD                     | 1        | 2.27%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 2.27%   |
-| Seagate ST9640320AS 640GB                         | 1        | 2.27%   |
-| Seagate ST6000DM003-2CY186 6TB                    | 1        | 2.27%   |
-| Seagate ST500LT012-1DG142 500GB                   | 1        | 2.27%   |
-| Seagate ST4000LM016-1N2170 4TB                    | 1        | 2.27%   |
-| Seagate ST32000542AS 2TB                          | 1        | 2.27%   |
-| Seagate ST31000524AS 1TB                          | 1        | 2.27%   |
-| Seagate ST3000VN000-1HJ166 3TB                    | 1        | 2.27%   |
-| Seagate ST2000DM008-2FR102 2TB                    | 1        | 2.27%   |
-| Seagate ST2000DL003-9VT166 2TB                    | 1        | 2.27%   |
-| SanDisk Ultra 3D NVMe 1TB                         | 1        | 2.27%   |
-| SanDisk SD8TB8U256G1001 256GB SSD                 | 1        | 2.27%   |
-| SanDisk NVMe SSD Drive 1TB                        | 1        | 2.27%   |
-| Samsung SSD 870 EVO 4TB                           | 1        | 2.27%   |
-| Samsung SSD 860 EVO 4TB                           | 1        | 2.27%   |
-| Samsung SSD 850 EVO 250GB                         | 1        | 2.27%   |
-| Samsung SSD 840 EVO 250GB                         | 1        | 2.27%   |
-| OCZ VERTEX3 120GB SSD                             | 1        | 2.27%   |
-| Mushkin MKNSSDPE2TB-D8                            | 1        | 2.27%   |
-| Kingston SV300S37A120G 120GB SSD                  | 1        | 2.27%   |
-| Kingston SA400S37240G 240GB SSD                   | 1        | 2.27%   |
-| Intel SSDPEKNW020T8 2TB                           | 1        | 2.27%   |
-| HGST HTS725050A7E630 500GB                        | 1        | 2.27%   |
-| GRITRONIX M2 512GB SSD                            | 1        | 2.27%   |
-| Crucial CT750MX300SSD1 752GB                      | 1        | 2.27%   |
-| Crucial CT2000MX500SSD1 2TB                       | 1        | 2.27%   |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Crucial CT500MX500SSD1 500GB                        | 2        | 4.55%   |
+| WDC WDS400T2B0A-00SM50 4TB SSD                      | 1        | 2.27%   |
+| WDC WDS100T2B0C-00PXH0 1TB                          | 1        | 2.27%   |
+| WDC WD60EZAZ-00SF3B0 6TB                            | 1        | 2.27%   |
+| WDC WD40EZAZ-00SF3B0 4TB                            | 1        | 2.27%   |
+| WDC WD20EZRZ-00Z5HB0 2TB                            | 1        | 2.27%   |
+| WDC WD20EFRX-68EUZN0 2TB                            | 1        | 2.27%   |
+| WDC WD10SPZX-60Z10T0 1TB                            | 1        | 2.27%   |
+| WDC WD10JPVX-60JC3T1 1TB                            | 1        | 2.27%   |
+| WDC WD10JPVX-22JC3T0 1TB                            | 1        | 2.27%   |
+| WDC WD10EADX-00TDHB0 1TB                            | 1        | 2.27%   |
+| WDC WD BLACK SDBPNTY-512G-1106 512GB                | 1        | 2.27%   |
+| Toshiba RD400 256GB                                 | 1        | 2.27%   |
+| SK hynix SC308 SATA 128GB SSD                       | 1        | 2.27%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 1        | 2.27%   |
+| Seagate ST9640320AS 640GB                           | 1        | 2.27%   |
+| Seagate ST6000DM003-2CY186 6TB                      | 1        | 2.27%   |
+| Seagate ST500LT012-1DG142 500GB                     | 1        | 2.27%   |
+| Seagate ST4000LM016-1N2170 4TB                      | 1        | 2.27%   |
+| Seagate ST32000542AS 2TB                            | 1        | 2.27%   |
+| Seagate ST31000524AS 1TB                            | 1        | 2.27%   |
+| Seagate ST3000VN000-1HJ166 3TB                      | 1        | 2.27%   |
+| Seagate ST2000DM008-2FR102 2TB                      | 1        | 2.27%   |
+| Seagate ST2000DL003-9VT166 2TB                      | 1        | 2.27%   |
+| SanDisk Ultra 3D NVMe 2TB                           | 1        | 2.27%   |
+| SanDisk SD8TB8U256G1001 256GB SSD                   | 1        | 2.27%   |
+| SanDisk NVMe SSD Drive 1TB                          | 1        | 2.27%   |
+| Samsung SSD 870 EVO 4TB                             | 1        | 2.27%   |
+| Samsung SSD 860 EVO 4TB                             | 1        | 2.27%   |
+| Samsung SSD 850 EVO 250GB                           | 1        | 2.27%   |
+| Samsung SSD 840 EVO 250GB                           | 1        | 2.27%   |
+| OCZ VERTEX3 120GB SSD                               | 1        | 2.27%   |
+| Mushkin MKNSSDPE2TB-D8                              | 1        | 2.27%   |
+| Kingston SV300S37A120G 120GB SSD                    | 1        | 2.27%   |
+| Kingston SA400S37240G 240GB SSD                     | 1        | 2.27%   |
+| Intel SSDPEKNW020T8 2TB                             | 1        | 2.27%   |
+| HGST HTS725050A7E630 500GB                          | 1        | 2.27%   |
+| GRITRONIX M2 512GB SSD                              | 1        | 2.27%   |
+| Crucial CT750MX300SSD1 752GB                        | 1        | 2.27%   |
+| Crucial CT2000MX500SSD1 2TB                         | 1        | 2.27%   |
 
 HDD Vendor
 ----------
@@ -1760,7 +1760,7 @@ Sound card models
 | Intel Comet Lake PCH cAVS                                       | 1        | 3.13%   |
 | Intel C610/X99 series chipset HD Audio Controller               | 1        | 3.13%   |
 | GN Netcom BTD-Q2                                                | 1        | 3.13%   |
-| Cambridge Silicon Radio Avantree C81                            | 1        | 3.13%   |
+| Cambridge Silicon Radio FiiO BTR3K                              | 1        | 3.13%   |
 | C-Media Electronics CMI8738/CMI8768 PCI Audio                   | 1        | 3.13%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)               | 1        | 3.13%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                             | 1        | 3.13%   |
@@ -1805,7 +1805,7 @@ Memory module models
 | Kingston RAM Module 8GB DIMM DDR4 3200MT/s              | 1        | 6.67%   |
 | G.Skill RAM F4-3600C16-8GTZR 8192MB DIMM DDR4 3600MT/s  | 1        | 6.67%   |
 | G.Skill RAM F4-3200C16-16GTZN 16GB DIMM DDR4 3200MT/s   | 1        | 6.67%   |
-| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s  | 1        | 6.67%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s     | 1        | 6.67%   |
 | G.Skill RAM F4-3000C15-8GRBB 8GB DIMM DDR4 3000MT/s     | 1        | 6.67%   |
 | G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s      | 1        | 6.67%   |
 | Crucial RAM BLS8G4D26BFSEK.8FD 8GB DIMM DDR4 3000MT/s   | 1        | 6.67%   |
@@ -1949,7 +1949,7 @@ Camera device models
 | Microsoft LifeCam Cinema     | 1        | 16.67%  |
 | Logitech Webcam C270         | 1        | 16.67%  |
 | Logitech QuickCam Pro 9000   | 1        | 16.67%  |
-| A4Tech USB Live camera       | 1        | 16.67%  |
+| A4Tech REDRAGON Live Camera  | 1        | 16.67%  |
 
 Security
 --------

@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 56
+Total: 57
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [18c2eb78d4](https://linux-hardware.org/?probe=18c2eb78d4) | Jun 26, 2023 |
 | Lenovo        | ThinkPad X1 Carbon Gen 9... | Notebook    | [f7a2bd2ca8](https://linux-hardware.org/?probe=f7a2bd2ca8) | Jun 10, 2023 |
 | TUXEDO        | N8xEJEK                     | Notebook    | [28ca72e1e1](https://linux-hardware.org/?probe=28ca72e1e1) | Jun 05, 2023 |
 | Google        | Sand                        | Notebook    | [e6d70635d6](https://linux-hardware.org/?probe=e6d70635d6) | May 30, 2023 |
@@ -231,8 +232,8 @@ Installed operating systems
 
 | Name       | Computers | Percent |
 |------------|-----------|---------|
-| Lilidog 22 | 40        | 93.02%  |
-| Lilidog 23 | 3         | 6.98%   |
+| Lilidog 22 | 40        | 90.91%  |
+| Lilidog 23 | 4         | 9.09%   |
 
 OS Family
 ---------
@@ -256,32 +257,32 @@ Version of the Linux kernel
 
 | Version                   | Computers | Percent |
 |---------------------------|-----------|---------|
-| 5.10.0-16-amd64           | 6         | 12%     |
-| 5.10.0-18-amd64           | 5         | 10%     |
-| 5.10.0-15-amd64           | 5         | 10%     |
-| 5.10.0-13-amd64           | 4         | 8%      |
-| 5.10.0-21-amd64           | 3         | 6%      |
-| 5.10.0-20-amd64           | 3         | 6%      |
-| 6.1.0-9-amd64             | 2         | 4%      |
-| 6.1.0-7-amd64             | 2         | 4%      |
-| 6.0.8-x64v1-xanmod1       | 2         | 4%      |
-| 5.10.0-14-amd64           | 2         | 4%      |
-| 6.2.12-x64v1-xanmod1      | 1         | 2%      |
-| 6.2.11-x64v1-xanmod1      | 1         | 2%      |
-| 6.1.0-7.2-liquorix-amd64  | 1         | 2%      |
-| 6.1.0-0.deb11.6-amd64     | 1         | 2%      |
-| 6.0.10-x64v1-xanmod1      | 1         | 2%      |
-| 6.0.0-5-amd64             | 1         | 2%      |
-| 6.0.0-2-amd64             | 1         | 2%      |
-| 6.0.0-0.deb11.6-amd64     | 1         | 2%      |
-| 6.0.0-0.deb11.2-amd64     | 1         | 2%      |
-| 5.19.0-7.1-liquorix-amd64 | 1         | 2%      |
-| 5.19.0-0.deb11.2-amd64    | 1         | 2%      |
-| 5.18.0-1-amd64            | 1         | 2%      |
-| 5.17.0-5.1-liquorix-amd64 | 1         | 2%      |
-| 5.10.0-22-amd64           | 1         | 2%      |
-| 5.10.0-19-amd64           | 1         | 2%      |
-| 5.10.0-17-amd64           | 1         | 2%      |
+| 5.10.0-16-amd64           | 6         | 11.76%  |
+| 5.10.0-18-amd64           | 5         | 9.8%    |
+| 5.10.0-15-amd64           | 5         | 9.8%    |
+| 5.10.0-13-amd64           | 4         | 7.84%   |
+| 6.1.0-9-amd64             | 3         | 5.88%   |
+| 5.10.0-21-amd64           | 3         | 5.88%   |
+| 5.10.0-20-amd64           | 3         | 5.88%   |
+| 6.1.0-7-amd64             | 2         | 3.92%   |
+| 6.0.8-x64v1-xanmod1       | 2         | 3.92%   |
+| 5.10.0-14-amd64           | 2         | 3.92%   |
+| 6.2.12-x64v1-xanmod1      | 1         | 1.96%   |
+| 6.2.11-x64v1-xanmod1      | 1         | 1.96%   |
+| 6.1.0-7.2-liquorix-amd64  | 1         | 1.96%   |
+| 6.1.0-0.deb11.6-amd64     | 1         | 1.96%   |
+| 6.0.10-x64v1-xanmod1      | 1         | 1.96%   |
+| 6.0.0-5-amd64             | 1         | 1.96%   |
+| 6.0.0-2-amd64             | 1         | 1.96%   |
+| 6.0.0-0.deb11.6-amd64     | 1         | 1.96%   |
+| 6.0.0-0.deb11.2-amd64     | 1         | 1.96%   |
+| 5.19.0-7.1-liquorix-amd64 | 1         | 1.96%   |
+| 5.19.0-0.deb11.2-amd64    | 1         | 1.96%   |
+| 5.18.0-1-amd64            | 1         | 1.96%   |
+| 5.17.0-5.1-liquorix-amd64 | 1         | 1.96%   |
+| 5.10.0-22-amd64           | 1         | 1.96%   |
+| 5.10.0-19-amd64           | 1         | 1.96%   |
+| 5.10.0-17-amd64           | 1         | 1.96%   |
 
 Kernel Family
 -------------
@@ -293,16 +294,16 @@ Linux kernel without a distro release
 
 | Version | Computers | Percent |
 |---------|-----------|---------|
-| 5.10.0  | 29        | 61.7%   |
-| 6.1.0   | 5         | 10.64%  |
-| 6.0.0   | 4         | 8.51%   |
-| 6.0.8   | 2         | 4.26%   |
-| 5.19.0  | 2         | 4.26%   |
-| 6.2.12  | 1         | 2.13%   |
-| 6.2.11  | 1         | 2.13%   |
-| 6.0.10  | 1         | 2.13%   |
-| 5.18.0  | 1         | 2.13%   |
-| 5.17.0  | 1         | 2.13%   |
+| 5.10.0  | 29        | 60.42%  |
+| 6.1.0   | 6         | 12.5%   |
+| 6.0.0   | 4         | 8.33%   |
+| 6.0.8   | 2         | 4.17%   |
+| 5.19.0  | 2         | 4.17%   |
+| 6.2.12  | 1         | 2.08%   |
+| 6.2.11  | 1         | 2.08%   |
+| 6.0.10  | 1         | 2.08%   |
+| 5.18.0  | 1         | 2.08%   |
+| 5.17.0  | 1         | 2.08%   |
 
 Kernel Major Ver.
 -----------------
@@ -314,13 +315,13 @@ Linux kernel major version
 
 | Version | Computers | Percent |
 |---------|-----------|---------|
-| 5.10    | 29        | 61.7%   |
-| 6.0     | 7         | 14.89%  |
-| 6.1     | 5         | 10.64%  |
-| 6.2     | 2         | 4.26%   |
-| 5.19    | 2         | 4.26%   |
-| 5.18    | 1         | 2.13%   |
-| 5.17    | 1         | 2.13%   |
+| 5.10    | 29        | 60.42%  |
+| 6.0     | 7         | 14.58%  |
+| 6.1     | 6         | 12.5%   |
+| 6.2     | 2         | 4.17%   |
+| 5.19    | 2         | 4.17%   |
+| 5.18    | 1         | 2.08%   |
+| 5.17    | 1         | 2.08%   |
 
 Arch
 ----
@@ -381,12 +382,13 @@ Language
 
 | Lang  | Computers | Percent |
 |-------|-----------|---------|
-| en_US | 34        | 79.07%  |
-| de_DE | 4         | 9.3%    |
-| en_GB | 2         | 4.65%   |
-| ru_RU | 1         | 2.33%   |
-| es_MX | 1         | 2.33%   |
-| cs_CZ | 1         | 2.33%   |
+| en_US | 34        | 77.27%  |
+| de_DE | 4         | 9.09%   |
+| en_GB | 2         | 4.55%   |
+| ru_RU | 1         | 2.27%   |
+| es_MX | 1         | 2.27%   |
+| es_ES | 1         | 2.27%   |
+| cs_CZ | 1         | 2.27%   |
 
 Boot Mode
 ---------
@@ -598,15 +600,14 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2010 | 9         | 20.93%  |
 | 2018 | 7         | 16.28%  |
+| 2021 | 4         | 9.3%    |
 | 2019 | 4         | 9.3%    |
 | 2022 | 3         | 6.98%   |
-| 2021 | 3         | 6.98%   |
 | 2017 | 2         | 4.65%   |
 | 2015 | 2         | 4.65%   |
 | 2014 | 2         | 4.65%   |
 | 2012 | 2         | 4.65%   |
 | 2007 | 2         | 4.65%   |
-| 2023 | 1         | 2.33%   |
 | 2020 | 1         | 2.33%   |
 | 2013 | 1         | 2.33%   |
 | 2011 | 1         | 2.33%   |
@@ -853,7 +854,7 @@ Hard drive vendors
 | Samsung Electronics | 7         | 10     | 12.07%  |
 | SanDisk             | 5         | 6      | 8.62%   |
 | Kingston            | 5         | 6      | 8.62%   |
-| Toshiba             | 3         | 3      | 5.17%   |
+| Toshiba             | 3         | 4      | 5.17%   |
 | Hitachi             | 2         | 2      | 3.45%   |
 | Crucial             | 2         | 2      | 3.45%   |
 | Apacer              | 2         | 2      | 3.45%   |
@@ -863,7 +864,7 @@ Hard drive vendors
 | Silicon Motion      | 1         | 1      | 1.72%   |
 | OWC                 | 1         | 2      | 1.72%   |
 | Mushkin             | 1         | 1      | 1.72%   |
-| Micron Technology   | 1         | 1      | 1.72%   |
+| Micron Technology   | 1         | 2      | 1.72%   |
 | Intel               | 1         | 1      | 1.72%   |
 | ASMedia             | 1         | 1      | 1.72%   |
 | Apple               | 1         | 1      | 1.72%   |
@@ -905,7 +906,7 @@ Hard drive models
 | Seagate ST2000DX002-2DV164 2TB       | 1         | 1.67%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1         | 1.67%   |
 | Seagate Expansion 1TB                | 1         | 1.67%   |
-| Seagate BUP Slim BK 2TB              | 1         | 1.67%   |
+| Seagate BUP Slim BK 1TB              | 1         | 1.67%   |
 | SanDisk SDSA6MM-016G-1006 16GB SSD   | 1         | 1.67%   |
 | SanDisk SD9SN8W256G1002 256GB SSD    | 1         | 1.67%   |
 | SanDisk SD8TN8U256G1001 256GB SSD    | 1         | 1.67%   |
@@ -933,7 +934,7 @@ Hard disk drive vendors
 |---------|-----------|--------|---------|
 | Seagate | 13        | 16     | 52%     |
 | WDC     | 4         | 4      | 16%     |
-| Toshiba | 3         | 3      | 12%     |
+| Toshiba | 3         | 4      | 12%     |
 | Hitachi | 2         | 2      | 8%      |
 | SSK     | 1         | 2      | 4%      |
 | ASMedia | 1         | 1      | 4%      |
@@ -958,7 +959,7 @@ Solid state drive vendors
 | WDC                 | 1         | 2      | 4.76%   |
 | OWC                 | 1         | 2      | 4.76%   |
 | Mushkin             | 1         | 1      | 4.76%   |
-| Micron Technology   | 1         | 1      | 4.76%   |
+| Micron Technology   | 1         | 2      | 4.76%   |
 | A-DATA Technology   | 1         | 1      | 4.76%   |
 
 Drive Kind
@@ -971,8 +972,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 21        | 29     | 39.62%  |
-| SSD  | 20        | 24     | 37.74%  |
+| HDD  | 21        | 30     | 39.62%  |
+| SSD  | 20        | 25     | 37.74%  |
 | NVMe | 10        | 15     | 18.87%  |
 | MMC  | 2         | 4      | 3.77%   |
 
@@ -986,7 +987,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 37        | 47     | 68.52%  |
+| SATA | 37        | 49     | 68.52%  |
 | NVMe | 10        | 15     | 18.52%  |
 | SAS  | 5         | 6      | 9.26%   |
 | MMC  | 2         | 4      | 3.7%    |
@@ -1001,9 +1002,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 29        | 35     | 65.91%  |
-| 0.51-1.0   | 11        | 13     | 25%     |
-| 1.01-2.0   | 3         | 4      | 6.82%   |
+| 0.01-0.5   | 29        | 36     | 65.91%  |
+| 0.51-1.0   | 12        | 15     | 27.27%  |
+| 1.01-2.0   | 2         | 3      | 4.55%   |
 | 4.01-10.0  | 1         | 1      | 2.27%   |
 
 Space Total
@@ -1138,7 +1139,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 33        | 49     | 67.35%  |
+| Works    | 33        | 51     | 67.35%  |
 | Malfunc  | 9         | 12     | 18.37%  |
 | Detected | 6         | 9      | 12.24%  |
 | Failed   | 1         | 2      | 2.04%   |
@@ -1181,7 +1182,6 @@ Storage controller models
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 3.28%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 2         | 3.28%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                             | 2         | 3.28%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                           | 2         | 3.28%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2         | 3.28%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2         | 3.28%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 1.64%   |
@@ -1191,8 +1191,9 @@ Storage controller models
 | Nvidia MCP89 SATA Controller (AHCI mode)                                       | 1         | 1.64%   |
 | Nvidia MCP61 SATA Controller                                                   | 1         | 1.64%   |
 | Nvidia MCP61 IDE                                                               | 1         | 1.64%   |
-| Kingston Company Company Non-Volatile memory controller                        | 1         | 1.64%   |
+| Kingston Company FURY Renegade NVMe SSD                                        | 1         | 1.64%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 1         | 1.64%   |
+| Intel Tiger Lake SATA AHCI Controller                                          | 1         | 1.64%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 1.64%   |
 | Intel NVMe Optane Memory Series                                                | 1         | 1.64%   |
 | Intel Jasper Lake SATA AHCI Controller                                         | 1         | 1.64%   |
@@ -1437,7 +1438,7 @@ Microarchitecture
 | Penryn      | 4         | 9.09%   |
 | Westmere    | 3         | 6.82%   |
 | IvyBridge   | 3         | 6.82%   |
-| Icelake     | 3         | 6.82%   |
+| IceLake     | 3         | 6.82%   |
 | Bonnell     | 3         | 6.82%   |
 | SandyBridge | 2         | 4.55%   |
 | Puma        | 2         | 4.55%   |
@@ -1644,18 +1645,18 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1382 1920x1080 293x165mm 13.2-inch         | 1         | 2.56%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1592 1366x768 344x193mm 15.5-inch | 1         | 2.56%   |
 | BOE LCD Monitor BOE0A06 1920x1080 344x194mm 15.5-inch                    | 1         | 2.56%   |
-| AU Optronics LCD Monitor AUOD291 1920x1200 301x188mm 14.0-inch           | 1         | 2.56%   |
+| AU Optronics LCD Monitor AUOD291 1920x1200 300x190mm 14.0-inch           | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO683D 1920x1080 309x174mm 14.0-inch           | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO60D2 1024x600 222x125mm 10.0-inch            | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO41EC 1366x768 344x193mm 15.5-inch            | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO405C 1366x768 256x144mm 11.6-inch            | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO319D 1920x1080 382x214mm 17.2-inch           | 1         | 2.56%   |
-| AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.56%   |
+| AU Optronics LCD Monitor AUO30ED 1920x1080 340x190mm 15.3-inch           | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO139D 1920x1080 381x214mm 17.2-inch           | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO109E 1600x900 382x214mm 17.2-inch            | 1         | 2.56%   |
 | ASUSTek Computer VA24E AUS24D1 1920x1080 527x296mm 23.8-inch             | 1         | 2.56%   |
 | Apple iMac APPA007 2560x1440 597x336mm 27.0-inch                         | 1         | 2.56%   |
-| AOC E2219 AOC2219 1680x1050 470x300mm 22.0-inch                          | 1         | 2.56%   |
+| AOC 2219 AOC2219 1680x1050 474x296mm 22.0-inch                           | 1         | 2.56%   |
 
 Monitor Resolution
 ------------------
@@ -1855,7 +1856,7 @@ Controller models
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1         | 1.28%   |
 | Prolific USB-Serial Controller                                                        | 1         | 1.28%   |
 | Nvidia MCP61 Ethernet                                                                 | 1         | 1.28%   |
-| MediaTek CPH2211                                                                      | 1         | 1.28%   |
+| MediaTek WP15                                                                         | 1         | 1.28%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                               | 1         | 1.28%   |
 | Intel Wireless-AC 9260                                                                | 1         | 1.28%   |
 | Intel Wireless 8265 / 8275                                                            | 1         | 1.28%   |
@@ -1965,7 +1966,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 2.5%    |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 2.5%    |
 | Nvidia MCP61 Ethernet                                             | 1         | 2.5%    |
-| MediaTek CPH2211                                                  | 1         | 2.5%    |
+| MediaTek WP15                                                     | 1         | 2.5%    |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 2.5%    |
 | Intel NM10/ICH7 Family LAN Controller                             | 1         | 2.5%    |
 | Intel I211 Gigabit Network Connection                             | 1         | 2.5%    |
@@ -2211,7 +2212,7 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR3 667MT/s                       | 1         | 1.82%   |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                       | 1         | 1.82%   |
 | Unknown (08C8) RAM LMKUFG68AHFHD-32A 16GB DIMM DDR4 3200MT/s     | 1         | 1.82%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s              | 1         | 1.82%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s               | 1         | 1.82%   |
 | SK_Hynix RAM Module 8GB SODIMM DDR4 3200MT/s                     | 1         | 1.82%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR4 3200MT/s             | 1         | 1.82%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 1.82%   |

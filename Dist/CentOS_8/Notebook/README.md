@@ -1066,7 +1066,7 @@ Hard drive models
 | WDC WD10JPCX-24UE4T0 1TB                | 1         | 0.63%   |
 | WDC PC SN520 SDAPMUW-512G-1101 512GB    | 1         | 0.63%   |
 | Unknown SD02G  2GB                      | 1         | 0.63%   |
-| Unknown SD/MMC/MS PRO 64GB              | 1         | 0.63%   |
+| Unknown SD/MMC/MS PRO 250GB             | 1         | 0.63%   |
 | Unknown MMC Card  976MB                 | 1         | 0.63%   |
 | Unknown MMC Card  4GB                   | 1         | 0.63%   |
 | Unknown MMC Card  33GB                  | 1         | 0.63%   |
@@ -1379,8 +1379,8 @@ Storage controller models
 | Shenzhen Longsys Non-Volatile memory controller                                | 1         | 0.68%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.68%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 0.68%   |
+| SanDisk PC SN530 NVMe SSD                                                      | 1         | 0.68%   |
 | SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.68%   |
-| SanDisk NVMe Controller                                                        | 1         | 0.68%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.68%   |
 | Samsung Electronics SATA controller                                            | 1         | 0.68%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1         | 0.68%   |
@@ -1789,8 +1789,8 @@ Monitor models
 | Samsung Electronics SMBX2450 SAM0721 1920x1080 531x299mm 24.0-inch    | 1         | 0.71%   |
 | Samsung Electronics S22B420 SAM0979 1680x1050 473x291mm 21.9-inch     | 1         | 0.71%   |
 | Samsung Electronics LU28R55 SAM1017 3840x2160 632x360mm 28.6-inch     | 1         | 0.71%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch  | 1         | 0.71%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SEC5341 1366x768 344x193mm 15.5-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
@@ -1808,7 +1808,7 @@ Monitor models
 | PANDA LCD Monitor NCP002A 1920x1080 344x194mm 15.5-inch               | 1         | 0.71%   |
 | Panasonic TV MEIC122 1280x720 697x392mm 31.5-inch                     | 1         | 0.71%   |
 | Onkyo AV Receiver ONK1151 1920x1080                                   | 1         | 0.71%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1         | 0.71%   |
+| MSI Optix MAG24C MSI1462 1920x1080 521x293mm 23.5-inch                | 1         | 0.71%   |
 | LG Display LCD Monitor LGD065A 1920x1080 344x194mm 15.5-inch          | 1         | 0.71%   |
 | LG Display LCD Monitor LGD061C 1920x1080 294x165mm 13.3-inch          | 1         | 0.71%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch          | 1         | 0.71%   |
@@ -2295,12 +2295,12 @@ Controller models
 | Lite-On Broadcom BCM43142A0 Bluetooth Device        | 1         | 1.04%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 1.04%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.04%   |
-| Intel Bluetooth Device                              | 1         | 1.04%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 1.04%   |
 | IMC Networks Bluetooth Device                       | 1         | 1.04%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 1.04%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 1.04%   |
 | Broadcom HP Portable SoftSailing                    | 1         | 1.04%   |
-| Broadcom Bluetooth 3.0 Dongle                       | 1         | 1.04%   |
+| Broadcom Bluetooth 3.0 USB Dongle                   | 1         | 1.04%   |
 | Broadcom BCM20702A0                                 | 1         | 1.04%   |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 1.04%   |
 | Broadcom BCM2045 Bluetooth                          | 1         | 1.04%   |
@@ -2441,12 +2441,12 @@ Memory module models
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.61%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
 | Samsung RAM M471B5273CM0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.61%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
+| Samsung RAM M471B5173EB0-YK0 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.61%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.61%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s         | 1         | 1.61%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s         | 1         | 1.61%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s   | 1         | 1.61%   |
-| Samsung RAM M471A5143DB0-CPB 4GB SODIMM DDR4 2133MT/s         | 1         | 1.61%   |
+| Samsung RAM M471A5143DB0-CPB 4096MB SODIMM DDR4 2133MT/s      | 1         | 1.61%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.61%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s         | 1         | 1.61%   |
 | Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s     | 1         | 1.61%   |
@@ -2572,14 +2572,14 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 34        | 31.78%  |
 | Microdia                               | 14        | 13.08%  |
+| Bison Electronics                      | 9         | 8.41%   |
 | Realtek Semiconductor                  | 7         | 6.54%   |
 | Lite-On Technology                     | 7         | 6.54%   |
 | IMC Networks                           | 7         | 6.54%   |
-| Bison Electronics                      | 7         | 6.54%   |
 | Sunplus Innovation Technology          | 6         | 5.61%   |
-| Acer                                   | 5         | 4.67%   |
 | Quanta                                 | 4         | 3.74%   |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 3.74%   |
+| Acer                                   | 3         | 2.8%    |
 | Syntek                                 | 2         | 1.87%   |
 | Silicon Motion                         | 2         | 1.87%   |
 | Microsoft                              | 2         | 1.87%   |
@@ -2611,14 +2611,14 @@ Camera device models
 | Chicony HP TrueVision HD                | 3         | 2.8%    |
 | Chicony HP HD Camera                    | 3         | 2.8%    |
 | Chicony HD WebCam                       | 3         | 2.8%    |
-| Bison Lenovo EasyCamera                 | 3         | 2.8%    |
+| Bison Integrated Camera                 | 3         | 2.8%    |
 | Sunplus Integrated_Webcam_HD            | 2         | 1.87%   |
 | Quanta HP TrueVision HD Camera          | 2         | 1.87%   |
 | Microdia Laptop_Integrated_Webcam_HD    | 2         | 1.87%   |
 | Microdia Laptop_Integrated_Webcam_2M    | 2         | 1.87%   |
 | Chicony HP Webcam [2 MP Macro]          | 2         | 1.87%   |
 | Chicony HP HD Webcam                    | 2         | 1.87%   |
-| Acer Integrated Camera                  | 2         | 1.87%   |
+| Bison Lenovo EasyCamera                 | 2         | 1.87%   |
 | Syntek USB2.0 UVC PC Camera             | 1         | 0.93%   |
 | Syntek Lenovo EasyCamera                | 1         | 0.93%   |
 | Suyin Sony Visual Communication Camera  | 1         | 0.93%   |
@@ -2629,7 +2629,7 @@ Camera device models
 | Sunplus Asus Webcam                     | 1         | 0.93%   |
 | Silicon Motion WebCam SC-13HDL11431N    | 1         | 0.93%   |
 | Silicon Motion ATIV VGA Camera          | 1         | 0.93%   |
-| Samsung Galaxy series, misc. (MTP mode) | 1         | 0.93%   |
+| Samsung Galaxy A5 (MTP)                 | 1         | 0.93%   |
 | Realtek USB Camera                      | 1         | 0.93%   |
 | Realtek Rear Camera                     | 1         | 0.93%   |
 | Realtek Integrated Webcam_HD            | 1         | 0.93%   |

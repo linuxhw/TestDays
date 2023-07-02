@@ -1457,7 +1457,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 500GB           | 16       | 2.43%   |
 | Samsung NVMe SSD Drive 1TB             | 11       | 1.67%   |
 | Samsung SSD 850 EVO 250GB              | 9        | 1.37%   |
-| Unknown SD/MMC/MS PRO 64GB             | 8        | 1.21%   |
+| Unknown SD/MMC/MS PRO 250GB            | 8        | 1.21%   |
 | Toshiba DT01ACA100 1TB                 | 8        | 1.21%   |
 | Seagate ST1000DM010-2EP102 1TB         | 8        | 1.21%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 250GB | 7        | 1.06%   |
@@ -1505,21 +1505,20 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 97       | 137    | 42.17%  |
-| WDC                 | 63       | 84     | 27.39%  |
-| Toshiba             | 30       | 47     | 13.04%  |
-| Hitachi             | 10       | 10     | 4.35%   |
-| Unknown             | 8        | 8      | 3.48%   |
-| Samsung Electronics | 7        | 7      | 3.04%   |
-| HGST                | 6        | 10     | 2.61%   |
+| Seagate             | 97       | 137    | 42.36%  |
+| WDC                 | 63       | 84     | 27.51%  |
+| Toshiba             | 30       | 47     | 13.1%   |
+| Hitachi             | 10       | 10     | 4.37%   |
+| Unknown             | 8        | 8      | 3.49%   |
+| Samsung Electronics | 7        | 7      | 3.06%   |
+| HGST                | 6        | 10     | 2.62%   |
 | Maxtor              | 2        | 2      | 0.87%   |
-| USB3.0              | 1        | 1      | 0.43%   |
-| MARVELL             | 1        | 1      | 0.43%   |
-| HPE                 | 1        | 1      | 0.43%   |
-| H/W                 | 1        | 2      | 0.43%   |
-| Fujitsu             | 1        | 1      | 0.43%   |
-| External            | 1        | 1      | 0.43%   |
-| ASMT                | 1        | 2      | 0.43%   |
+| USB3.0              | 1        | 1      | 0.44%   |
+| MARVELL             | 1        | 1      | 0.44%   |
+| HPE                 | 1        | 1      | 0.44%   |
+| H/W                 | 1        | 2      | 0.44%   |
+| Fujitsu             | 1        | 1      | 0.44%   |
+| ASMT                | 1        | 2      | 0.44%   |
 
 SSD Vendor
 ----------
@@ -1531,29 +1530,28 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 46       | 64     | 21.4%   |
-| Kingston            | 25       | 31     | 11.63%  |
-| Crucial             | 23       | 29     | 10.7%   |
-| SanDisk             | 19       | 21     | 8.84%   |
-| A-DATA Technology   | 12       | 12     | 5.58%   |
-| Intel               | 10       | 11     | 4.65%   |
-| WDC                 | 8        | 9      | 3.72%   |
-| SPCC                | 7        | 8      | 3.26%   |
-| Transcend           | 6        | 6      | 2.79%   |
-| Patriot             | 6        | 6      | 2.79%   |
-| Toshiba             | 5        | 5      | 2.33%   |
-| PNY                 | 5        | 9      | 2.33%   |
-| LITEONIT            | 4        | 6      | 1.86%   |
-| China               | 4        | 24     | 1.86%   |
-| Team                | 3        | 3      | 1.4%    |
-| Micron Technology   | 3        | 3      | 1.4%    |
-| JMicron Technology  | 3        | 3      | 1.4%    |
-| Apacer              | 3        | 4      | 1.4%    |
-| Seagate             | 2        | 2      | 0.93%   |
-| KingDian            | 2        | 4      | 0.93%   |
-| Hewlett-Packard     | 2        | 2      | 0.93%   |
-| GOODRAM             | 2        | 2      | 0.93%   |
-| Corsair             | 2        | 6      | 0.93%   |
+| Samsung Electronics | 46       | 64     | 21.6%   |
+| Kingston            | 25       | 31     | 11.74%  |
+| Crucial             | 23       | 29     | 10.8%   |
+| SanDisk             | 19       | 21     | 8.92%   |
+| A-DATA Technology   | 12       | 12     | 5.63%   |
+| Intel               | 10       | 11     | 4.69%   |
+| WDC                 | 8        | 9      | 3.76%   |
+| SPCC                | 7        | 8      | 3.29%   |
+| Transcend           | 6        | 6      | 2.82%   |
+| Patriot             | 6        | 6      | 2.82%   |
+| Toshiba             | 5        | 5      | 2.35%   |
+| PNY                 | 5        | 9      | 2.35%   |
+| LITEONIT            | 4        | 6      | 1.88%   |
+| China               | 4        | 24     | 1.88%   |
+| Team                | 3        | 3      | 1.41%   |
+| Micron Technology   | 3        | 3      | 1.41%   |
+| Apacer              | 3        | 4      | 1.41%   |
+| Seagate             | 2        | 2      | 0.94%   |
+| KingDian            | 2        | 4      | 0.94%   |
+| Hewlett-Packard     | 2        | 2      | 0.94%   |
+| GOODRAM             | 2        | 2      | 0.94%   |
+| Corsair             | 2        | 6      | 0.94%   |
 | WDC WDS2            | 1        | 1      | 0.47%   |
 | Verbatim            | 1        | 2      | 0.47%   |
 | Unknown             | 1        | 1      | 0.47%   |
@@ -1566,6 +1564,7 @@ Solid state drive vendors
 | Hoodisk             | 1        | 2      | 0.47%   |
 | Hikvision           | 1        | 1      | 0.47%   |
 | Gigabyte Technology | 1        | 1      | 0.47%   |
+| External            | 1        | 1      | 0.47%   |
 | Acer                | 1        | 1      | 0.47%   |
 
 Drive Kind
@@ -1578,10 +1577,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 191      | 314    | 38.9%   |
-| SSD     | 172      | 287    | 35.03%  |
-| NVMe    | 115      | 178    | 23.42%  |
-| Unknown | 7        | 9      | 1.43%   |
+| HDD     | 191      | 313    | 38.74%  |
+| SSD     | 172      | 285    | 34.89%  |
+| NVMe    | 117      | 181    | 23.73%  |
+| Unknown | 7        | 9      | 1.42%   |
 | MMC     | 6        | 6      | 1.22%   |
 
 Drive Connector
@@ -1609,13 +1608,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 196      | 367    | 52.55%  |
-| 0.51-1.0   | 93       | 126    | 24.93%  |
-| 1.01-2.0   | 39       | 48     | 10.46%  |
-| 4.01-10.0  | 16       | 22     | 4.29%   |
-| 3.01-4.0   | 14       | 19     | 3.75%   |
-| 2.01-3.0   | 9        | 9      | 2.41%   |
-| 10.01-20.0 | 6        | 10     | 1.61%   |
+| 0.01-0.5   | 195      | 365    | 52.56%  |
+| 0.51-1.0   | 92       | 125    | 24.8%   |
+| 1.01-2.0   | 39       | 48     | 10.51%  |
+| 4.01-10.0  | 17       | 23     | 4.58%   |
+| 3.01-4.0   | 13       | 18     | 3.5%    |
+| 2.01-3.0   | 9        | 9      | 2.43%   |
+| 10.01-20.0 | 6        | 10     | 1.62%   |
 
 Space Total
 -----------
@@ -2239,13 +2238,13 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch             | 5        | 1.4%    |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 4        | 1.12%   |
-| Hitachi HISENSE HEC0030 1920x1080 580x330mm 26.3-inch                 | 4        | 1.12%   |
+| Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch          | 5        | 1.4%    |
+| MSI Optix MAG24C MSI1462 1920x1080 521x293mm 23.5-inch                | 4        | 1.12%   |
+| Hitachi HISENSE HEC0030 3840x2160 1095x616mm 49.5-inch                | 4        | 1.12%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 3        | 0.84%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 3        | 0.84%   |
 | ViewSonic LCD Monitor VA2212 Series                                   | 2        | 0.56%   |
-| Toshiba TV TSB0108 1920x540                                           | 2        | 0.56%   |
+| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                       | 2        | 0.56%   |
 | Samsung Electronics U28E510 SAM0D64 3840x2160 608x345mm 27.5-inch     | 2        | 0.56%   |
 | Samsung Electronics U28E510 SAM0D63 3840x2160 607x345mm 27.5-inch     | 2        | 0.56%   |
 | Samsung Electronics S24D391 SAM0B87 1920x1080 521x293mm 23.5-inch     | 2        | 0.56%   |
@@ -2256,7 +2255,7 @@ Monitor models
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch               | 2        | 0.56%   |
 | Goldstar LG ULTRAWIDE GSM59F2 2560x1080 800x340mm 34.2-inch           | 2        | 0.56%   |
 | Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch            | 2        | 0.56%   |
-| Dell P2414H DELA09A 1920x1080 527x297mm 23.8-inch                     | 2        | 0.56%   |
+| Dell P2414H DELA09A 1920x1080 530x300mm 24.0-inch                     | 2        | 0.56%   |
 | AOC AG352QG2 AOC3520 2560x1080 820x346mm 35.0-inch                    | 2        | 0.56%   |
 | AOC 2276WM AOC2276 1920x1080 477x268mm 21.5-inch                      | 2        | 0.56%   |
 | AOC 2260WG5 AOC2260 1920x1080 477x268mm 21.5-inch                     | 2        | 0.56%   |
@@ -2276,8 +2275,8 @@ Monitor models
 | ViewSonic VX2035wm VSCAF1E 1680x1050 433x271mm 20.1-inch              | 1        | 0.28%   |
 | ViewSonic VP2650wb VSCEB20 1920x1200 550x344mm 25.5-inch              | 1        | 0.28%   |
 | ViewSonic VP171s VSCB716 1280x1024 338x270mm 17.0-inch                | 1        | 0.28%   |
-| ViewSonic VA2465 SERIES VSCB730 1920x1080 521x293mm 23.5-inch         | 1        | 0.28%   |
-| ViewSonic VA2246 SERIES VSC6F2E 1920x1080 477x268mm 21.5-inch         | 1        | 0.28%   |
+| ViewSonic VA2465 SERIES VSCB730 1920x1080 520x290mm 23.4-inch         | 1        | 0.28%   |
+| ViewSonic VA2246 SERIES VSC6F2E 1920x1080 480x270mm 21.7-inch         | 1        | 0.28%   |
 | ViewSonic VA2219 Series VSC7932 1920x1080 477x268mm 21.5-inch         | 1        | 0.28%   |
 
 Monitor Resolution
@@ -2413,9 +2412,9 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 109      | 32.73%  |
+| 201-250        | 110      | 33.03%  |
 | 301-350        | 59       | 17.72%  |
-| 151-200        | 36       | 10.81%  |
+| 151-200        | 35       | 10.51%  |
 | 351-500        | 30       | 9.01%   |
 | More than 1000 | 27       | 8.11%   |
 | 251-300        | 21       | 6.31%   |
@@ -2607,12 +2606,13 @@ Wireless models
 | Realtek 802.11ac NIC                                                                          | 2        | 1.3%    |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 2        | 1.3%    |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                                    | 2        | 1.3%    |
-| Microsoft XBOX ACC                                                                            | 2        | 1.3%    |
+| Microsoft Xbox Wireless Adapter for Windows                                                   | 2        | 1.3%    |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                                         | 1        | 0.65%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1        | 0.65%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 0.65%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                                       | 1        | 0.65%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 0.65%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                                               | 1        | 0.65%   |
 | Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 1        | 0.65%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 1        | 0.65%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                                    | 1        | 0.65%   |
@@ -2620,7 +2620,6 @@ Wireless models
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                               | 1        | 0.65%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                                       | 1        | 0.65%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1        | 0.65%   |
-| Realtek 802.11ac WLAN Adapter                                                                 | 1        | 0.65%   |
 
 Ethernet Vendor
 ---------------
@@ -2685,7 +2684,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.29%   |
 | Realtek RTL8152 Fast Ethernet Adapter                                         | 1        | 0.29%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 0.29%   |
-| MediaTek TECNO SPARK 9T                                                       | 1        | 0.29%   |
+| MediaTek Armor X10 Pro                                                        | 1        | 0.29%   |
 | Intel Ethernet Controller I225-LM                                             | 1        | 0.29%   |
 | Intel Ethernet Connection (12) I219-V                                         | 1        | 0.29%   |
 | Intel Ethernet Connection (11) I219-V                                         | 1        | 0.29%   |
@@ -2859,6 +2858,7 @@ Sound card vendors
 | VIA Technologies                     | 1        | 0.18%   |
 | Texas Instruments                    | 1        | 0.18%   |
 | TEAC                                 | 1        | 0.18%   |
+| Sennheiser Communications            | 1        | 0.18%   |
 | Schiit Audio                         | 1        | 0.18%   |
 | Samsung Electronics                  | 1        | 0.18%   |
 | PreSonus Audio Electronics           | 1        | 0.18%   |
@@ -2869,7 +2869,6 @@ Sound card vendors
 | Giga-Byte Technology                 | 1        | 0.18%   |
 | Generalplus Technology               | 1        | 0.18%   |
 | Focusrite-Novation                   | 1        | 0.18%   |
-| DSEA A/S                             | 1        | 0.18%   |
 | Cooler Master                        | 1        | 0.18%   |
 | Bose                                 | 1        | 0.18%   |
 | BEHRINGER International              | 1        | 0.18%   |
@@ -3139,40 +3138,40 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                           | Desktops | Percent |
-|-------------------------------------------------|----------|---------|
-| Logitech Webcam C270                            | 4        | 10%     |
-| Logitech HD Pro Webcam C920                     | 3        | 7.5%    |
-| Samsung Galaxy series, misc. (MTP mode)         | 2        | 5%      |
-| Microsoft LifeCam HD-3000                       | 2        | 5%      |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X                 | 2        | 5%      |
-| Z-Star Venus USB2.0 Camera                      | 1        | 2.5%    |
-| Sunplus Sandberg USB Webcam Pro                 | 1        | 2.5%    |
-| Sunplus Full HD webcam                          | 1        | 2.5%    |
-| Realtek FULL HD WEB CAM                         | 1        | 2.5%    |
-| Realtek FULL HD 1080P Webcam                    | 1        | 2.5%    |
-| Microsoft LifeCam VX-7000 (UVC-compliant)       | 1        | 2.5%    |
-| Microsoft LifeCam VX-700                        | 1        | 2.5%    |
-| Microsoft LifeCam Studio                        | 1        | 2.5%    |
-| Microsoft LifeCam Cinema                        | 1        | 2.5%    |
-| Microdia Sonix USB 2.0 Camera                   | 1        | 2.5%    |
-| Logitech Webcam C925e                           | 1        | 2.5%    |
-| Logitech QuickCam Zoom                          | 1        | 2.5%    |
-| Logitech Logitech Webcam C160                   | 1        | 2.5%    |
-| Logitech C922 Pro Stream Webcam                 | 1        | 2.5%    |
-| Logitech BRIO 4K Stream Edition                 | 1        | 2.5%    |
-| KYE Systems (Mouse Systems) JOYACCESS JA-Webcam | 1        | 2.5%    |
-| KYE Systems (Mouse Systems) eFace 2050AF        | 1        | 2.5%    |
-| KYE Systems (Mouse Systems) eFace 2025          | 1        | 2.5%    |
-| HP Webcam HD 4310                               | 1        | 2.5%    |
-| HP Webcam HD 2300                               | 1        | 2.5%    |
-| Cubeternet USB2.0 Camera                        | 1        | 2.5%    |
-| Creative Live! Cam Sync HD [VF0770]             | 1        | 2.5%    |
-| Creative Live! Cam Chat HD [VF0700/VF0790]      | 1        | 2.5%    |
-| Arkmicro Webcam Carrefour                       | 1        | 2.5%    |
-| ARC International Camera                        | 1        | 2.5%    |
-| Apple iPod Touch 5.Gen [A1421]                  | 1        | 2.5%    |
-| Anchor Chips USB2.0 Camera                      | 1        | 2.5%    |
+| Model                                      | Desktops | Percent |
+|--------------------------------------------|----------|---------|
+| Logitech Webcam C270                       | 4        | 10%     |
+| Logitech HD Pro Webcam C920                | 3        | 7.5%    |
+| Samsung Galaxy A5 (MTP)                    | 2        | 5%      |
+| Microsoft LifeCam HD-3000                  | 2        | 5%      |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X            | 2        | 5%      |
+| Z-Star Venus USB2.0 Camera                 | 1        | 2.5%    |
+| Sunplus Sandberg USB Webcam Pro            | 1        | 2.5%    |
+| Sunplus Full HD webcam                     | 1        | 2.5%    |
+| Realtek NexiGo N660P FHD Webcam            | 1        | 2.5%    |
+| Realtek FULL HD 1080P Webcam               | 1        | 2.5%    |
+| Microsoft LifeCam VX-7000 (UVC-compliant)  | 1        | 2.5%    |
+| Microsoft LifeCam VX-700                   | 1        | 2.5%    |
+| Microsoft LifeCam Studio                   | 1        | 2.5%    |
+| Microsoft LifeCam Cinema                   | 1        | 2.5%    |
+| Microdia Sonix USB 2.0 Camera              | 1        | 2.5%    |
+| Logitech Webcam C925e                      | 1        | 2.5%    |
+| Logitech QuickCam Zoom                     | 1        | 2.5%    |
+| Logitech Logitech Webcam C160              | 1        | 2.5%    |
+| Logitech C922 Pro Stream Webcam            | 1        | 2.5%    |
+| Logitech BRIO 4K Stream Edition            | 1        | 2.5%    |
+| KYE Systems (Mouse Systems) Genius Webcam  | 1        | 2.5%    |
+| KYE Systems (Mouse Systems) eFace 2050AF   | 1        | 2.5%    |
+| KYE Systems (Mouse Systems) eFace 2025     | 1        | 2.5%    |
+| HP Webcam HD 4310                          | 1        | 2.5%    |
+| HP Webcam HD 2300                          | 1        | 2.5%    |
+| Cubeternet USB2.0 Camera                   | 1        | 2.5%    |
+| Creative Live! Cam Sync HD [VF0770]        | 1        | 2.5%    |
+| Creative Live! Cam Chat HD [VF0700/VF0790] | 1        | 2.5%    |
+| Arkmicro Webcam Carrefour                  | 1        | 2.5%    |
+| ARC International Camera                   | 1        | 2.5%    |
+| Apple iPod Touch 5.Gen [A1421]             | 1        | 2.5%    |
+| Anchor Chips USB2.0 Camera                 | 1        | 2.5%    |
 
 Security
 --------

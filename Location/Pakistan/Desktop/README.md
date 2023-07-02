@@ -1098,7 +1098,7 @@ Hard drive models
 | Crucial CT525MX300SSD1 528GB          | 2        | 0.99%   |
 | ZTE MMC Storage 942MB                 | 1        | 0.49%   |
 | WDC WDS240G2G0A-00JH30 240GB SSD      | 1        | 0.49%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD      | 1        | 0.49%   |
+| WDC WDS120G2G0A-00JH30 128GB SSD      | 1        | 0.49%   |
 | WDC WD800JD-60LUA0 80GB               | 1        | 0.49%   |
 | WDC WD800JD-00LSA0 80GB               | 1        | 0.49%   |
 | WDC WD800ADFS-75SLR2 80GB             | 1        | 0.49%   |
@@ -1832,11 +1832,11 @@ Monitor models
 | NEC Computers LCD72VM NEC6659 1280x1024 338x270mm 17.0-inch          | 1        | 1.61%   |
 | NEC Computers LCD1770NX NEC6665 1280x1024 338x270mm 17.0-inch        | 1        | 1.61%   |
 | NEC Computers EA244WMi NEC68D6 1920x1200 519x324mm 24.1-inch         | 1        | 1.61%   |
-| Lenovo LEN-M93z-B LEN0093 1920x1080 510x290mm 23.1-inch              | 1        | 1.61%   |
+| Lenovo LEN-E92I-C LEN0093 1920x1080 476x268mm 21.5-inch              | 1        | 1.61%   |
 | Lenovo LEN T22i-10 LEN61A9 1920x1080 476x268mm 21.5-inch             | 1        | 1.61%   |
 | LED TV LED2968 1366x768 575x323mm 26.0-inch                          | 1        | 1.61%   |
 | Hitachi PC-DTA15AXGS HTCB88C 1024x768 304x228mm 15.0-inch            | 1        | 1.61%   |
-| Hitachi HISENSE HEC0030 1920x1080 580x330mm 26.3-inch                | 1        | 1.61%   |
+| Hitachi HISENSE HEC0030 3840x2160 1095x616mm 49.5-inch               | 1        | 1.61%   |
 | Hewlett-Packard ZR2440w HWP2956 1920x1080 518x324mm 24.1-inch        | 1        | 1.61%   |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 475x267mm 21.5-inch        | 1        | 1.61%   |
 | Hewlett-Packard Z22i HWP308E 1920x1080 477x268mm 21.5-inch           | 1        | 1.61%   |
@@ -2062,14 +2062,14 @@ Controller models
 | Realtek RTL88x2bu [AC1200 Techkey]                                   | 2        | 1.29%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 2        | 1.29%   |
 | Nvidia MCP51 Ethernet Controller                                     | 2        | 1.29%   |
-| MediaTek TECNO SPARK 9T                                              | 2        | 1.29%   |
+| MediaTek Armor X10 Pro                                               | 2        | 1.29%   |
 | Intel Wireless 7260                                                  | 2        | 1.29%   |
 | Intel Tiger Lake PCH CNVi WiFi                                       | 2        | 1.29%   |
 | Intel Ethernet Connection (11) I219-LM                               | 2        | 1.29%   |
 | Intel 82578DM Gigabit Network Connection                             | 2        | 1.29%   |
 | Intel 82567LM-3 Gigabit Network Connection                           | 2        | 1.29%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express              | 2        | 1.29%   |
-| ZTE WCDMA MSM DEMO Mobile Boardband                                  | 1        | 0.65%   |
+| ZTE WCDMA MSM ZTE Mobile Broadband                                   | 1        | 0.65%   |
 | Zoom Telephonics V.92 56K Mini External Modem Model 3095             | 1        | 0.65%   |
 | VIA VT6105/VT6106S [Rhine-III]                                       | 1        | 0.65%   |
 | Sierra Wireless MC7700                                               | 1        | 0.65%   |
@@ -2146,22 +2146,21 @@ Ethernet vendors
 ![Ethernet Vendor](./images/pie_chart/net_ethernet_vendor.svg)
 
 
-| Vendor                     | Desktops | Percent |
-|----------------------------|----------|---------|
-| Intel                      | 42       | 41.58%  |
-| Realtek Semiconductor      | 22       | 21.78%  |
-| Broadcom                   | 20       | 19.8%   |
-| Samsung Electronics        | 3        | 2.97%   |
-| Nvidia                     | 2        | 1.98%   |
-| MediaTek                   | 2        | 1.98%   |
-| Huawei Technologies        | 2        | 1.98%   |
-| Broadcom Limited           | 2        | 1.98%   |
-| ZTE WCDMA Technologies MSM | 1        | 0.99%   |
-| VIA Technologies           | 1        | 0.99%   |
-| Qualcomm Atheros           | 1        | 0.99%   |
-| Marvell Technology Group   | 1        | 0.99%   |
-| ASIX Electronics           | 1        | 0.99%   |
-| 3Com                       | 1        | 0.99%   |
+| Vendor                   | Desktops | Percent |
+|--------------------------|----------|---------|
+| Intel                    | 42       | 42%     |
+| Realtek Semiconductor    | 22       | 22%     |
+| Broadcom                 | 20       | 20%     |
+| Samsung Electronics      | 3        | 3%      |
+| Nvidia                   | 2        | 2%      |
+| MediaTek                 | 2        | 2%      |
+| Huawei Technologies      | 2        | 2%      |
+| Broadcom Limited         | 2        | 2%      |
+| VIA Technologies         | 1        | 1%      |
+| Qualcomm Atheros         | 1        | 1%      |
+| Marvell Technology Group | 1        | 1%      |
+| ASIX Electronics         | 1        | 1%      |
+| 3Com                     | 1        | 1%      |
 
 Ethernet Model
 --------------
@@ -2173,40 +2172,39 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 19       | 17.92%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 16       | 15.09%  |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 9        | 8.49%   |
-| Intel Ethernet Connection I217-LM                                 | 7        | 6.6%    |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection              | 6        | 5.66%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 3        | 2.83%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 2.83%   |
-| Intel Ethernet Connection (2) I219-V                              | 3        | 2.83%   |
-| Intel 82574L Gigabit Network Connection                           | 3        | 2.83%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 3        | 2.83%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 3        | 2.83%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 3        | 2.83%   |
-| Nvidia MCP51 Ethernet Controller                                  | 2        | 1.89%   |
-| MediaTek TECNO SPARK 9T                                           | 2        | 1.89%   |
-| Intel Ethernet Connection (11) I219-LM                            | 2        | 1.89%   |
-| Intel 82578DM Gigabit Network Connection                          | 2        | 1.89%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 1.89%   |
-| Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express           | 2        | 1.89%   |
-| ZTE WCDMA MSM DEMO Mobile Boardband                               | 1        | 0.94%   |
-| VIA VT6105/VT6106S [Rhine-III]                                    | 1        | 0.94%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 0.94%   |
-| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1        | 0.94%   |
-| Intel I210 Gigabit Network Connection                             | 1        | 0.94%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 0.94%   |
-| Intel 82575GB Gigabit Network Connection                          | 1        | 0.94%   |
-| Huawei Ideos (tethering mode)                                     | 1        | 0.94%   |
-| Huawei E353/E3131                                                 | 1        | 0.94%   |
-| Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 1        | 0.94%   |
-| Broadcom NetXtreme BCM5715 Gigabit Ethernet                       | 1        | 0.94%   |
-| Broadcom NetLink BCM57788 Gigabit Ethernet PCIe                   | 1        | 0.94%   |
-| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe          | 1        | 0.94%   |
-| Broadcom Limited NetXtreme BCM5722 Gigabit Ethernet PCI Express   | 1        | 0.94%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1        | 0.94%   |
-| 3Com 3c905C-TX/TX-M [Tornado]                                     | 1        | 0.94%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 19       | 18.1%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 16       | 15.24%  |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 9        | 8.57%   |
+| Intel Ethernet Connection I217-LM                                 | 7        | 6.67%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection              | 6        | 5.71%   |
+| Samsung Galaxy series, misc. (tethering mode)                     | 3        | 2.86%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 3        | 2.86%   |
+| Intel Ethernet Connection (2) I219-V                              | 3        | 2.86%   |
+| Intel 82574L Gigabit Network Connection                           | 3        | 2.86%   |
+| Intel 82566DM-2 Gigabit Network Connection                        | 3        | 2.86%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 3        | 2.86%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 3        | 2.86%   |
+| Nvidia MCP51 Ethernet Controller                                  | 2        | 1.9%    |
+| MediaTek Armor X10 Pro                                            | 2        | 1.9%    |
+| Intel Ethernet Connection (11) I219-LM                            | 2        | 1.9%    |
+| Intel 82578DM Gigabit Network Connection                          | 2        | 1.9%    |
+| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 1.9%    |
+| Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express           | 2        | 1.9%    |
+| VIA VT6105/VT6106S [Rhine-III]                                    | 1        | 0.95%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 0.95%   |
+| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1        | 0.95%   |
+| Intel I210 Gigabit Network Connection                             | 1        | 0.95%   |
+| Intel Ethernet Controller I225-V                                  | 1        | 0.95%   |
+| Intel 82575GB Gigabit Network Connection                          | 1        | 0.95%   |
+| Huawei Ideos (tethering mode)                                     | 1        | 0.95%   |
+| Huawei E353/E3131                                                 | 1        | 0.95%   |
+| Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 1        | 0.95%   |
+| Broadcom NetXtreme BCM5715 Gigabit Ethernet                       | 1        | 0.95%   |
+| Broadcom NetLink BCM57788 Gigabit Ethernet PCIe                   | 1        | 0.95%   |
+| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe          | 1        | 0.95%   |
+| Broadcom Limited NetXtreme BCM5722 Gigabit Ethernet PCI Express   | 1        | 0.95%   |
+| ASIX AX88179 Gigabit Ethernet                                     | 1        | 0.95%   |
+| 3Com 3c905C-TX/TX-M [Tornado]                                     | 1        | 0.95%   |
 
 Net Controller Kind
 -------------------
@@ -2218,9 +2216,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 81       | 64.8%   |
-| WiFi     | 43       | 34.4%   |
-| Modem    | 1        | 0.8%    |
+| Ethernet | 81       | 64.29%  |
+| WiFi     | 43       | 34.13%  |
+| Modem    | 2        | 1.59%   |
 
 Used Controller
 ---------------
@@ -2418,7 +2416,7 @@ Memory module models
 | Unknown (2C0B) RAM Module 16GB DIMM DDR4 2667MT/s            | 2        | 2.7%    |
 | SK hynix RAM HMT42GR7AFR4A-PB 16GB DIMM DDR3 1600MT/s        | 2        | 2.7%    |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 2        | 2.7%    |
-| SK hynix RAM HMT325U6CFR8C-PB 2048MB DIMM DDR3 1600MT/s      | 2        | 2.7%    |
+| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s         | 2        | 2.7%    |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 2        | 2.7%    |
 | Unknown RAM Module 4GB DIMM SDRAM 1066MT/s                   | 1        | 1.35%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 1        | 1.35%   |
@@ -2426,11 +2424,11 @@ Memory module models
 | Transcend RAM JM2666HLB-16G 16GB DIMM DDR4 2667MT/s          | 1        | 1.35%   |
 | Toshiba-0098 RAM 9965516-069.A00LF 8192MB DIMM DDR3 1067MT/s | 1        | 1.35%   |
 | Toshiba-0098 RAM 9965516-057.A00LF 8192MB DIMM DDR3 1067MT/s | 1        | 1.35%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s          | 1        | 1.35%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s           | 1        | 1.35%   |
 | SK hynix RAM Module 2GB DIMM DDR3 1333MT/s                   | 1        | 1.35%   |
 | SK hynix RAM Module 2048MB DIMM DDR3 1333MT/s                | 1        | 1.35%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s         | 1        | 1.35%   |
-| SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s         | 1        | 1.35%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4096MB DIMM DDR3 1600MT/s      | 1        | 1.35%   |
+| SK hynix RAM HMT451U6AFR8A-PB 4096MB DIMM DDR3 1600MT/s      | 1        | 1.35%   |
 | SK hynix RAM HMT42GR7AFR4A-PB 16GB DIMM DDR3 1067MT/s        | 1        | 1.35%   |
 | SK hynix RAM HMT42GR7AFR4A 16GB DIMM DDR3 1600MT/s           | 1        | 1.35%   |
 | SK hynix RAM HMT41GU6AFR8A-PB 8GB DIMM DDR3 1600MT/s         | 1        | 1.35%   |
@@ -2598,17 +2596,17 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Z-Star Venus USB2.0 Camera              | 2        | 20%     |
-| Sunplus USB Web-CAM                     | 1        | 10%     |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 10%     |
-| OmniVision Monitor Integrated Webcam    | 1        | 10%     |
-| MacroSilicon usb video                  | 1        | 10%     |
-| Asuscom Network REDRAGON Live Camera    | 1        | 10%     |
-| Arkmicro USB2.0 PC CAMERA               | 1        | 10%     |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X         | 1        | 10%     |
-| Acer Integrated Camera                  | 1        | 10%     |
+| Model                                | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| Z-Star Venus USB2.0 Camera           | 2        | 20%     |
+| Sunplus USB Web-CAM                  | 1        | 10%     |
+| Samsung Galaxy A5 (MTP)              | 1        | 10%     |
+| OmniVision Monitor Integrated Webcam | 1        | 10%     |
+| MacroSilicon USB Video               | 1        | 10%     |
+| Asuscom Network REDRAGON Live Camera | 1        | 10%     |
+| Arkmicro USB2.0 PC CAMERA            | 1        | 10%     |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X      | 1        | 10%     |
+| Acer Integrated Camera               | 1        | 10%     |
 
 Security
 --------
@@ -2654,8 +2652,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 62       | 71.26%  |
-| 1     | 16       | 18.39%  |
+| 0     | 61       | 70.11%  |
+| 1     | 17       | 19.54%  |
 | 2     | 5        | 5.75%   |
 | 3     | 2        | 2.3%    |
 | 7     | 1        | 1.15%   |
@@ -2671,11 +2669,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 12       | 32.43%  |
-| Net/wireless             | 11       | 29.73%  |
-| Sound                    | 7        | 18.92%  |
-| Communication controller | 3        | 8.11%   |
-| Net/ethernet             | 2        | 5.41%   |
-| Storage/ata              | 1        | 2.7%    |
-| Network                  | 1        | 2.7%    |
+| Graphics card            | 13       | 34.21%  |
+| Net/wireless             | 11       | 28.95%  |
+| Sound                    | 7        | 18.42%  |
+| Communication controller | 3        | 7.89%   |
+| Net/ethernet             | 2        | 5.26%   |
+| Storage/ata              | 1        | 2.63%   |
+| Network                  | 1        | 2.63%   |
 

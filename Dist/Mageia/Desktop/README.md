@@ -1855,7 +1855,7 @@ Monitor models
 | LG Electronics LCD Monitor LG HDR 4K 5760x2160                        | 1        | 1.18%   |
 | LG Electronics LCD Monitor LG FULL HD 1920x1080                       | 1        | 1.18%   |
 | LG Electronics LCD Monitor 23MB35 1920x1080                           | 1        | 1.18%   |
-| Insignia NS-32D20SNA14 BBY0032 1360x768 544x326mm 25.0-inch           | 1        | 1.18%   |
+| Insignia NS32DD200NA14 BBY0032 1680x1050 700x390mm 31.5-inch          | 1        | 1.18%   |
 | Iiyama PLX2483H IVM6114 1920x1080 531x299mm 24.0-inch                 | 1        | 1.18%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1        | 1.18%   |
 | Idek Iiyama LCD Monitor PLE2283H 1920x1080                            | 1        | 1.18%   |
@@ -2063,7 +2063,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 2.94%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter               | 2        | 1.96%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 2        | 1.96%   |
-| Realtek 802.11ac WLAN Adapter                                     | 2        | 1.96%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 2        | 1.96%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter        | 2        | 1.96%   |
 | Intel Wireless 7265                                               | 2        | 1.96%   |
 | Intel Ethernet Connection (2) I219-V                              | 2        | 1.96%   |
@@ -2127,7 +2127,7 @@ Wireless models
 | Intel Wireless 3165                                        | 3        | 9.68%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter        | 2        | 6.45%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 2        | 6.45%   |
-| Realtek 802.11ac WLAN Adapter                              | 2        | 6.45%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter            | 2        | 6.45%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter | 2        | 6.45%   |
 | Intel Wireless 7265                                        | 2        | 6.45%   |
 | Wilocity Wil6200 802.11ad Wireless Network Adapter         | 1        | 3.23%   |
@@ -2429,14 +2429,14 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 667MT/s                         | 1        | 2.33%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 2.33%   |
 | Team RAM Elite-16 8GB DIMM DDR3 1600MT/s                       | 1        | 2.33%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 2.33%   |
+| Team RAM Elite-1333 4GB DIMM 1333MT/s                          | 1        | 2.33%   |
 | Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3600MT/s           | 1        | 2.33%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 2.33%   |
 | Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
 | Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s            | 1        | 2.33%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s           | 1        | 2.33%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s              | 1        | 2.33%   |
-| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s           | 1        | 2.33%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s              | 1        | 2.33%   |
 | Kingston RAM KHX2133C11D3/8GX 8GB DIMM DDR3 2133MT/s           | 1        | 2.33%   |
 | Kingston RAM KHX1600C9D3/8G 8GB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
 | Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s           | 1        | 2.33%   |
@@ -2446,9 +2446,9 @@ Memory module models
 | Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s         | 1        | 2.33%   |
 | Kingston RAM 9905403-439.A00LF 4GB DIMM DDR3 1600MT/s          | 1        | 2.33%   |
 | GOODRAM RAM GY1600D364L10/8G 8GB DIMM DDR3 1600MT/s            | 1        | 2.33%   |
-| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s             | 1        | 2.33%   |
+| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s          | 1        | 2.33%   |
 | G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s             | 1        | 2.33%   |
-| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s         | 1        | 2.33%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s            | 1        | 2.33%   |
 | G.Skill RAM F4-2133C15-8GNT 8GB DIMM DDR4 2133MT/s             | 1        | 2.33%   |
 | Crucial RAM CT51264BA1339.D16F 4GB DIMM DDR3 1333MT/s          | 1        | 2.33%   |
 | Corsair RAM CMZ32GX3M4A1600C9 8GB DIMM DDR3 1600MT/s           | 1        | 2.33%   |

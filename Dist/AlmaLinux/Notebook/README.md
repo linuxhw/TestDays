@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 44
+Total: 45
 
 | Vendor    | Model                       | Probe                                                      | Date         |
 |-----------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell      | Inspiron 5555               | [7c07dbad40](https://linux-hardware.org/?probe=7c07dbad40) | Jun 29, 2023 |
 | Maibenben | MaiBook X series            | [5ca7ad5fb0](https://linux-hardware.org/?probe=5ca7ad5fb0) | Jun 07, 2023 |
 | Dell      | Inspiron 5555               | [e14ab40d68](https://linux-hardware.org/?probe=e14ab40d68) | Jun 03, 2023 |
 | MSI       | GL75 9SE                    | [7fd4d531c9](https://linux-hardware.org/?probe=7fd4d531c9) | May 18, 2023 |
@@ -835,7 +836,7 @@ Hard drive models
 | WDC WD10SPZX-60Z10T0 1TB                        | 1         | 2.22%   |
 | WDC WD10JPVX-00JC3T0 1TB                        | 1         | 2.22%   |
 | WDC PC SN730 SDBQNTY-256G-1001 256GB            | 1         | 2.22%   |
-| Unknown SD/MMC/MS PRO 64GB                      | 1         | 2.22%   |
+| Unknown SD/MMC/MS PRO 250GB                     | 1         | 2.22%   |
 | Unknown MMC Card  16GB                          | 1         | 2.22%   |
 | Union Memory UMIS RPITJ512VME2OWD 512GB         | 1         | 2.22%   |
 | Transcend TS256GMTE220S 256GB                   | 1         | 2.22%   |
@@ -844,7 +845,7 @@ Hard drive models
 | SK hynix NVMe SSD Drive 256GB                   | 1         | 2.22%   |
 | SK hynix BC511 NVMe 256GB                       | 1         | 2.22%   |
 | Seagate ST250LM004 HN-M250MBB 250GB             | 1         | 2.22%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 512GB | 1         | 2.22%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 500GB | 1         | 2.22%   |
 | SanDisk SD6PP4M-256G-1006 256GB SSD             | 1         | 2.22%   |
 | Samsung SSD PM810 FDE 2.5 256GB                 | 1         | 2.22%   |
 | Samsung MZVLQ512HALU-00000 512GB                | 1         | 2.22%   |
@@ -857,7 +858,7 @@ Hard drive models
 | LITEONIT LSS-16L6G-HP 16GB SSD                  | 1         | 2.22%   |
 | LITEONIT LGT-128M6G 128GB SSD                   | 1         | 2.22%   |
 | KIOXIA KXG60ZNV512G 512GB                       | 1         | 2.22%   |
-| Kingston Company A2000 NVMe SSD 500GB           | 1         | 2.22%   |
+| Kingston Company A2000 NVMe SSD 250GB           | 1         | 2.22%   |
 | Kingston SUV400S37120G 120GB SSD                | 1         | 2.22%   |
 | Kingston SA400S37480G 480GB SSD                 | 1         | 2.22%   |
 | Kingston SA400S37240G 240GB SSD                 | 1         | 2.22%   |
@@ -953,8 +954,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 17        | 23     | 65.38%  |
-| 0.51-1.0   | 8         | 9      | 30.77%  |
-| 1.01-2.0   | 1         | 2      | 3.85%   |
+| 0.51-1.0   | 9         | 11     | 34.62%  |
 
 Space Total
 -----------
@@ -1105,8 +1105,8 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 2         | 5%      |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 2         | 5%      |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                           | 1         | 2.5%    |
-| Solid State Storage Non-Volatile memory controller                             | 1         | 2.5%    |
-| SK hynix BC511                                                                 | 1         | 2.5%    |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 1         | 2.5%    |
+| SK hynix BC511 NVMe SSD                                                        | 1         | 2.5%    |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                  | 1         | 2.5%    |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 1         | 2.5%    |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 2.5%    |
@@ -1476,10 +1476,10 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| AU Optronics LCD Monitor AUO203D 1920x1080 309x174mm 14.0-inch           | 2         | 5.88%   |
+| AU Optronics LCD Monitor AUO203D 1920x1080 309x173mm 13.9-inch           | 2         | 5.88%   |
 | Sharp LC-32LB480U SHP3263 1920x1080 698x392mm 31.5-inch                  | 1         | 2.94%   |
 | Seiki SC32HT04 SEK1366 1366x768 700x390mm 31.5-inch                      | 1         | 2.94%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch     | 1         | 2.94%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 223x125mm 10.1-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SDC4142 3840x2160 294x165mm 13.3-inch    | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SDC4141 3840x2160 344x194mm 15.5-inch    | 1         | 2.94%   |
@@ -1502,7 +1502,7 @@ Monitor models
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                    | 1         | 2.94%   |
 | BOE LCD Monitor BOE07A3 1920x1080 344x193mm 15.5-inch                    | 1         | 2.94%   |
 | BOE LCD Monitor BOE0615 1366x768 309x173mm 13.9-inch                     | 1         | 2.94%   |
-| BenQ GL2450 BNQ78A5 1920x1080 530x300mm 24.0-inch                        | 1         | 2.94%   |
+| BenQ GL2450 BNQ78A5 1920x1080 531x298mm 24.0-inch                        | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUOF992 1920x1080 382x215mm 17.3-inch           | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUOD1ED 1920x1080 344x193mm 15.5-inch           | 1         | 2.94%   |
 | AU Optronics LCD Monitor AUO623D 1920x1080 309x174mm 14.0-inch           | 1         | 2.94%   |
@@ -1681,7 +1681,7 @@ Controller models
 | Ralink MT7601U Wireless Adapter                                   | 1         | 1.69%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.69%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.69%   |
-| MediaTek CPH2211                                                  | 1         | 1.69%   |
+| MediaTek WP15                                                     | 1         | 1.69%   |
 | Intel Wireless 7265                                               | 1         | 1.69%   |
 | Intel Wireless 3165                                               | 1         | 1.69%   |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 1         | 1.69%   |
@@ -1787,7 +1787,7 @@ Ethernet models
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 4.35%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1         | 4.35%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 4.35%   |
-| MediaTek CPH2211                                                  | 1         | 4.35%   |
+| MediaTek WP15                                                     | 1         | 4.35%   |
 | Intel Ethernet Connection I218-LM                                 | 1         | 4.35%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 4.35%   |
 | Intel 82577LM Gigabit Network Connection                          | 1         | 4.35%   |
@@ -1991,7 +1991,7 @@ Memory module models
 | Timetec RAM SD3-1600 8GB SODIMM DDR3 1600MT/s                             | 1         | 3.7%    |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 3.7%    |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 3.7%    |
-| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s                 | 1         | 3.7%    |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s                    | 1         | 3.7%    |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s              | 1         | 3.7%    |
 | SK hynix RAM H9CCNNNBJTALAR-NVD 4GB Row Of Chips LPDDR3 2133MT/s          | 1         | 3.7%    |
 | Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                               | 1         | 3.7%    |

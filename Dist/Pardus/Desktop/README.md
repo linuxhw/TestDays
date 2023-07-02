@@ -1657,7 +1657,7 @@ Memory module models
 | Samsung RAM M378A2K43DB1-CTD 16GB DIMM DDR4 2667MT/s  | 1        | 11.11%  |
 | Micron RAM 4ATF1G64HZ-3G2F1 8GB SODIMM DDR4 3200MT/s  | 1        | 11.11%  |
 | Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s  | 1        | 11.11%  |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s     | 1        | 11.11%  |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s  | 1        | 11.11%  |
 | Kingston RAM 99U5471-057.A00LF 8GB DIMM DDR3 1333MT/s | 1        | 11.11%  |
 | G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s    | 1        | 11.11%  |
 | A-DATA RAM Module 8GB DIMM DDR4 2667MT/s              | 1        | 11.11%  |
@@ -1778,11 +1778,12 @@ Camera device vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Realtek Semiconductor | 1        | 20%     |
-| Microdia              | 1        | 20%     |
-| MacroSilicon          | 1        | 20%     |
-| Arkmicro Technologies | 1        | 20%     |
-| Alcor Micro           | 1        | 20%     |
+| Realtek Semiconductor | 1        | 16.67%  |
+| Microdia              | 1        | 16.67%  |
+| MacroSilicon          | 1        | 16.67%  |
+| Arkmicro Technologies | 1        | 16.67%  |
+| Allwinner Technology  | 1        | 16.67%  |
+| Alcor Micro           | 1        | 16.67%  |
 
 Camera Model
 ------------
@@ -1794,11 +1795,12 @@ Camera device models
 
 | Model                                   | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| Realtek HP 2.0MP High Definition Webcam | 1        | 20%     |
-| Microdia Integrated Camera              | 1        | 20%     |
-| MacroSilicon usb video                  | 1        | 20%     |
-| Arkmicro USB2.0 PC CAMERA               | 1        | 20%     |
-| Alcor Micro USB 2.0 PC Camera           | 1        | 20%     |
+| Realtek HP 2.0MP High Definition Webcam | 1        | 16.67%  |
+| Microdia Integrated Camera              | 1        | 16.67%  |
+| MacroSilicon USB Video                  | 1        | 16.67%  |
+| Arkmicro USB2.0 PC CAMERA               | 1        | 16.67%  |
+| Allwinner TP1005                        | 1        | 16.67%  |
+| Alcor Micro USB 2.0 PC Camera           | 1        | 16.67%  |
 
 Security
 --------

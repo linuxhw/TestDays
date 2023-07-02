@@ -753,8 +753,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 25        | 53.19%  |
-| No        | 22        | 46.81%  |
+| Yes       | 26        | 55.32%  |
+| No        | 21        | 44.68%  |
 
 Has Ethernet
 ------------
@@ -940,7 +940,7 @@ Hard drive models
 | WDC WD3200AAKS-75L9A0 320GB                  | 1         | 1.33%   |
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.33%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.33%   |
-| Unknown SD/MMC/MS PRO 64GB                   | 1         | 1.33%   |
+| Unknown SD/MMC/MS PRO 250GB                  | 1         | 1.33%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.33%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.33%   |
 | Toshiba MQ01ABF050M 500GB                    | 1         | 1.33%   |
@@ -956,7 +956,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                     | 1         | 1.33%   |
 | Seagate ST250DM000-1BD141 250GB              | 1         | 1.33%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 1.33%   |
-| Seagate Expansion Desk 4TB                   | 1         | 1.33%   |
+| Seagate Expansion Desk 5TB                   | 1         | 1.33%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1         | 1.33%   |
 | SanDisk SSD U110 128GB                       | 1         | 1.33%   |
 | SanDisk SSD PLUS 480GB                       | 1         | 1.33%   |
@@ -996,24 +996,23 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 5         | 7      | 18.52%  |
-| SanDisk             | 4         | 4      | 14.81%  |
-| Kingston            | 3         | 4      | 11.11%  |
-| WDC                 | 1         | 1      | 3.7%    |
-| Transcend           | 1         | 1      | 3.7%    |
-| Seagate             | 1         | 1      | 3.7%    |
-| Origin              | 1         | 1      | 3.7%    |
-| Micron Technology   | 1         | 1      | 3.7%    |
-| LITEONIT            | 1         | 1      | 3.7%    |
-| LITEON              | 1         | 2      | 3.7%    |
-| Leven               | 1         | 1      | 3.7%    |
-| JMicron Technology  | 1         | 1      | 3.7%    |
-| Intenso             | 1         | 1      | 3.7%    |
-| Crucial             | 1         | 1      | 3.7%    |
-| China               | 1         | 1      | 3.7%    |
-| ASMT                | 1         | 1      | 3.7%    |
-| Apple               | 1         | 1      | 3.7%    |
-| A-DATA Technology   | 1         | 1      | 3.7%    |
+| Samsung Electronics | 5         | 7      | 19.23%  |
+| SanDisk             | 4         | 4      | 15.38%  |
+| Kingston            | 3         | 4      | 11.54%  |
+| WDC                 | 1         | 1      | 3.85%   |
+| Transcend           | 1         | 1      | 3.85%   |
+| Seagate             | 1         | 1      | 3.85%   |
+| Origin              | 1         | 1      | 3.85%   |
+| Micron Technology   | 1         | 1      | 3.85%   |
+| LITEONIT            | 1         | 1      | 3.85%   |
+| LITEON              | 1         | 2      | 3.85%   |
+| Leven               | 1         | 1      | 3.85%   |
+| Intenso             | 1         | 1      | 3.85%   |
+| Crucial             | 1         | 1      | 3.85%   |
+| China               | 1         | 1      | 3.85%   |
+| ASMT                | 1         | 1      | 3.85%   |
+| Apple               | 1         | 1      | 3.85%   |
+| A-DATA Technology   | 1         | 1      | 3.85%   |
 
 Drive Kind
 ----------
@@ -1026,8 +1025,8 @@ HDD or SSD
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
 | HDD     | 26        | 34     | 41.27%  |
-| SSD     | 23        | 31     | 36.51%  |
-| NVMe    | 9         | 13     | 14.29%  |
+| SSD     | 22        | 30     | 34.92%  |
+| NVMe    | 10        | 14     | 15.87%  |
 | Unknown | 3         | 3      | 4.76%   |
 | MMC     | 2         | 2      | 3.17%   |
 
@@ -1056,10 +1055,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 31        | 46     | 64.58%  |
-| 0.51-1.0   | 15        | 17     | 31.25%  |
-| 3.01-4.0   | 1         | 1      | 2.08%   |
+| 0.01-0.5   | 31        | 44     | 64.58%  |
+| 0.51-1.0   | 15        | 18     | 31.25%  |
 | 1.01-2.0   | 1         | 1      | 2.08%   |
+| 4.01-10.0  | 1         | 1      | 2.08%   |
 
 Space Total
 -----------
@@ -1676,7 +1675,7 @@ Monitor models
 | Goldstar TV SSCR2 GSM8080 3840x2160                                      | 1         | 2.17%   |
 | Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch                      | 1         | 2.17%   |
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                    | 1         | 2.17%   |
-| Element E2SW3918 E2SW3918 ELE6308 1366x768 1365x768mm 61.7-inch          | 1         | 2.17%   |
+| Element ELSW3917BF ELE6308 1366x768 1365x768mm 61.7-inch                 | 1         | 2.17%   |
 | Dell ST2420L DELA067 1920x1080 531x299mm 24.0-inch                       | 1         | 2.17%   |
 | Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch                        | 1         | 2.17%   |
 | Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch                        | 1         | 2.17%   |
@@ -1684,12 +1683,12 @@ Monitor models
 | Dell INSPIRON ONE DELB123 1920x1080 510x287mm 23.0-inch                  | 1         | 2.17%   |
 | Dell Inspiron 7790 DEL93FF 1920x1080 510x287mm 23.0-inch                 | 1         | 2.17%   |
 | Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
+| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 2.17%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 2.17%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 2.17%   |
-| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch                       | 1         | 2.17%   |
+| BenQ EW3270U BNQ7950 3840x2160 700x390mm 31.5-inch                       | 1         | 2.17%   |
 | AUS LCD Monitor VA32AQ 2560x1440                                         | 1         | 2.17%   |
 | AU Optronics LCD Monitor AUO9274 1280x800 331x207mm 15.4-inch            | 1         | 2.17%   |
 
@@ -1973,7 +1972,7 @@ Wireless models
 | Intel Comet Lake PCH-LP CNVi WiFi                                                    | 1         | 2.56%   |
 | Intel Centrino Ultimate-N 6300                                                       | 1         | 2.56%   |
 | Intel Centrino Advanced-N 6235                                                       | 1         | 2.56%   |
-| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT2870]                             | 1         | 2.56%   |
+| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT3070]                             | 1         | 2.56%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]                 | 1         | 2.56%   |
 | D-Link DWA-140 RangeBooster N Adapter(rev.B3) [Ralink RT5372]                        | 1         | 2.56%   |
 | Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                           | 1         | 2.56%   |

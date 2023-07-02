@@ -718,8 +718,8 @@ Hard drive models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 512GB     | 2         | 5.26%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 2         | 5.26%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 500GB     | 2         | 5.26%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 2         | 5.26%   |
 | KIOXIA KBG5AZNT1T02 LA 1TB                          | 2         | 5.26%   |
 | WDC WD10SPZX-60Z10T0 1TB                            | 1         | 2.63%   |
 | Toshiba MQ01ACF050 500GB                            | 1         | 2.63%   |
@@ -730,16 +730,16 @@ Hard drive models
 | SK hynix NVMe SSD Drive 1024GB                      | 1         | 2.63%   |
 | Seagate ST1000LM049-2GH172 1TB                      | 1         | 2.63%   |
 | Seagate Backup+ Hub BK 6TB                          | 1         | 2.63%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 256GB    | 1         | 2.63%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB    | 1         | 2.63%   |
 | SanDisk NVMe SSD Drive 1TB                          | 1         | 2.63%   |
 | Samsung SSD 980 1TB                                 | 1         | 2.63%   |
 | Samsung SSD 883 DCT 960GB                           | 1         | 2.63%   |
 | Samsung NVMe SSD Drive 2TB                          | 1         | 2.63%   |
 | Samsung NVMe SSD Drive 1TB                          | 1         | 2.63%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 1         | 2.63%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 2.63%   |
 | Samsung MZALQ256HAJD-000L2 256GB                    | 1         | 2.63%   |
 | Samsung MZ7LN256HAJQ-000L7 256GB SSD                | 1         | 2.63%   |
-| SABRENT Disk 14TB                                   | 1         | 2.63%   |
+| SABRENT Disk 1TB                                    | 1         | 2.63%   |
 | Plextor PX-128S1G 128GB SSD                         | 1         | 2.63%   |
 | Phison NVMe SSD Drive 960GB                         | 1         | 2.63%   |
 | Micron MTFDHBA256TCK-1AS1AABHA 256GB                | 1         | 2.63%   |
@@ -779,12 +779,11 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 2         | 2      | 28.57%  |
-| SABRENT             | 1         | 1      | 14.29%  |
-| Plextor             | 1         | 1      | 14.29%  |
-| KingSpec            | 1         | 1      | 14.29%  |
-| Intel               | 1         | 2      | 14.29%  |
-| China               | 1         | 1      | 14.29%  |
+| Samsung Electronics | 2         | 2      | 33.33%  |
+| Plextor             | 1         | 1      | 16.67%  |
+| KingSpec            | 1         | 1      | 16.67%  |
+| Intel               | 1         | 2      | 16.67%  |
+| China               | 1         | 1      | 16.67%  |
 
 Drive Kind
 ----------
@@ -796,10 +795,10 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 20        | 24     | 58.82%  |
-| HDD     | 7         | 7      | 20.59%  |
-| SSD     | 6         | 8      | 17.65%  |
-| Unknown | 1         | 1      | 2.94%   |
+| NVMe    | 20        | 25     | 60.61%  |
+| HDD     | 7         | 7      | 21.21%  |
+| SSD     | 5         | 7      | 15.15%  |
+| Unknown | 1         | 1      | 3.03%   |
 
 Drive Connector
 ---------------
@@ -825,10 +824,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 7         | 8      | 53.85%  |
-| 0.01-0.5   | 4         | 5      | 30.77%  |
-| 10.01-20.0 | 1         | 1      | 7.69%   |
-| 4.01-10.0  | 1         | 1      | 7.69%   |
+| 0.51-1.0   | 7         | 8      | 58.33%  |
+| 0.01-0.5   | 4         | 5      | 33.33%  |
+| 4.01-10.0  | 1         | 1      | 8.33%   |
 
 Space Total
 -----------
@@ -973,10 +971,9 @@ Storage controller models
 |-------------------------------------------------------------------------------|-----------|---------|
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 3         | 7.69%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                | 3         | 7.69%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                | 2         | 5.13%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                          | 2         | 5.13%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 2         | 5.13%   |
 | Samsung NVMe SSD Controller 980                                               | 2         | 5.13%   |
-| Micron NVMe Storage Controller                                                | 2         | 5.13%   |
 | KIOXIA Non-Volatile memory controller                                         | 2         | 5.13%   |
 | Intel Volume Management Device NVMe RAID Controller                           | 2         | 5.13%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                            | 2         | 5.13%   |
@@ -985,8 +982,10 @@ Storage controller models
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 1         | 2.56%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 1         | 2.56%   |
 | Phison E12 NVMe Controller                                                    | 1         | 2.56%   |
+| Micron 2450 NVMe SSD (DRAM-less)                                              | 1         | 2.56%   |
+| Micron 2200S NVMe SSD                                                         | 1         | 2.56%   |
 | KIOXIA NVMe SSD Controller BG4                                                | 1         | 2.56%   |
-| Kingston Company Company Non-Volatile memory controller                       | 1         | 2.56%   |
+| Kingston Company FURY Renegade NVMe SSD                                       | 1         | 2.56%   |
 | Intel SSD 660P Series                                                         | 1         | 2.56%   |
 | Intel SATA Controller [RAID mode]                                             | 1         | 2.56%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 1         | 2.56%   |
@@ -1333,8 +1332,8 @@ Monitor models
 | Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch            | 1         | 3.03%   |
 | Lenovo LEN LT2323pwA LEN0BD0 1920x1080 510x287mm 23.0-inch            | 1         | 3.03%   |
 | Hewlett-Packard LCD Monitor Pavilion32                                | 1         | 3.03%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                   | 1         | 3.03%   |
 | Goldstar LG UltraFine GSM5B11                                         | 1         | 3.03%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                                | 1         | 3.03%   |
 | Gigabyte Technology M27Q GBT270D 2560x1440 596x335mm 26.9-inch        | 1         | 3.03%   |
 | Dell P2419HC DELA11D 1920x1080 527x296mm 23.8-inch                    | 1         | 3.03%   |
 | CSO LCD Monitor CSO1303 2160x1350 280x175mm 13.0-inch                 | 1         | 3.03%   |

@@ -734,7 +734,7 @@ Hard drive models
 | Seagate ST2000DX002-2DV164 2TB       | 1        | 3.85%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1        | 3.85%   |
 | Seagate Expansion 1TB                | 1        | 3.85%   |
-| Seagate BUP Slim BK 2TB              | 1        | 3.85%   |
+| Seagate BUP Slim BK 1TB              | 1        | 3.85%   |
 | SanDisk SDSA6MM-016G-1006 16GB SSD   | 1        | 3.85%   |
 | SanDisk SD7SB6S128G1122 128GB SSD    | 1        | 3.85%   |
 | Samsung MZ7TE128HMGR-000L1 128GB SSD | 1        | 3.85%   |
@@ -819,8 +819,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 13       | 17     | 61.9%   |
-| 0.51-1.0   | 5        | 6      | 23.81%  |
-| 1.01-2.0   | 3        | 4      | 14.29%  |
+| 0.51-1.0   | 6        | 7      | 28.57%  |
+| 1.01-2.0   | 2        | 3      | 9.52%   |
 
 Space Total
 -----------
@@ -1479,7 +1479,7 @@ Controller models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 3.57%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 3.57%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 3.57%   |
-| MediaTek CPH2211                                                  | 1        | 3.57%   |
+| MediaTek WP15                                                     | 1        | 3.57%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 3.57%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 3.57%   |
 | Intel Ethernet Connection (14) I219-V                             | 1        | 3.57%   |
@@ -1555,7 +1555,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 5.56%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 5.56%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 5.56%   |
-| MediaTek CPH2211                                                  | 1        | 5.56%   |
+| MediaTek WP15                                                     | 1        | 5.56%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 5.56%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 5.56%   |
 | Intel Ethernet Connection (14) I219-V                             | 1        | 5.56%   |
@@ -1737,7 +1737,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR3 1066MT/s                    | 1        | 4%      |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                   | 1        | 4%      |
 | Unknown (08C8) RAM LMKUFG68AHFHD-32A 16GB DIMM DDR4 3200MT/s | 1        | 4%      |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s          | 1        | 4%      |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s           | 1        | 4%      |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1        | 4%      |
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s         | 1        | 4%      |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1        | 4%      |

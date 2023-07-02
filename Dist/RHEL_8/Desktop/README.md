@@ -911,7 +911,7 @@ Hard drive models
 | Samsung SSD 860 EVO 1TB              | 3        | 2.21%   |
 | WDC WD1003FZEX-00MK2A0 1TB           | 2        | 1.47%   |
 | WDC WD1002FAEX-00Z3A0 1TB            | 2        | 1.47%   |
-| Toshiba NVMe SSD Drive 256GB         | 2        | 1.47%   |
+| Toshiba KBG30ZMS128G 128GB NVMe SSD  | 2        | 1.47%   |
 | Toshiba DT01ACA200 2TB               | 2        | 1.47%   |
 | Seagate ST500DM002-1BD142 500GB      | 2        | 1.47%   |
 | Seagate ST2000DM001-1ER164 2TB       | 2        | 1.47%   |
@@ -947,7 +947,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.74%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.74%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.74%   |
-| Unknown SD/MMC/MS PRO 64GB           | 1        | 0.74%   |
+| Unknown SD/MMC/MS PRO 250GB          | 1        | 0.74%   |
 
 HDD Vendor
 ----------
@@ -1033,12 +1033,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 74     | 42.35%  |
-| 0.51-1.0   | 27       | 43     | 31.76%  |
-| 1.01-2.0   | 13       | 16     | 15.29%  |
-| 3.01-4.0   | 6        | 11     | 7.06%   |
-| 4.01-10.0  | 2        | 5      | 2.35%   |
-| 2.01-3.0   | 1        | 1      | 1.18%   |
+| 0.01-0.5   | 36       | 74     | 41.86%  |
+| 0.51-1.0   | 27       | 42     | 31.4%   |
+| 1.01-2.0   | 14       | 17     | 16.28%  |
+| 3.01-4.0   | 6        | 11     | 6.98%   |
+| 4.01-10.0  | 2        | 5      | 2.33%   |
+| 2.01-3.0   | 1        | 1      | 1.16%   |
 
 Space Total
 -----------
@@ -1629,48 +1629,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| Lenovo TIO24Gen3 LEN10B4 1920x1080 527x296mm 23.8-inch                 | 2        | 2.86%   |
-| Lenovo LEN T2324pA LEN60C7 1920x1080 509x286mm 23.0-inch               | 2        | 2.86%   |
-| Lenovo LEN P27u-10 LEN61B0 3840x2160 600x340mm 27.2-inch               | 2        | 2.86%   |
-| Iiyama PL4840 IVM1065 1920x1080 1054x593mm 47.6-inch                   | 2        | 2.86%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 2        | 2.86%   |
-| ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch          | 1        | 1.43%   |
-| ViewSonic VA2259 Series VSC5E32 1920x1080 476x268mm 21.5-inch          | 1        | 1.43%   |
-| Samsung Electronics SyncMaster SAM05FC 1920x1080                       | 1        | 1.43%   |
-| Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch    | 1        | 1.43%   |
-| Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch      | 1        | 1.43%   |
-| Samsung Electronics S22B300 SAM08A9 1600x900 443x249mm 20.0-inch       | 1        | 1.43%   |
-| Samsung Electronics LCD Monitor SAM7106 1920x1080 1210x680mm 54.6-inch | 1        | 1.43%   |
-| Samsung Electronics LCD Monitor SAM0200 1280x720                       | 1        | 1.43%   |
-| Samsung Electronics LCD Monitor S22B150                                | 1        | 1.43%   |
-| Samsung Electronics LCD Monitor C49HG9x 3840x1080                      | 1        | 1.43%   |
-| Samsung Electronics C32R50x SAM7000 1920x1080 698x393mm 31.5-inch      | 1        | 1.43%   |
-| Samsung Electronics C32HG7x SAM0E14 2560x1440 697x392mm 31.5-inch      | 1        | 1.43%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1        | 1.43%   |
-| Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch                | 1        | 1.43%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 1        | 1.43%   |
-| Microstep LCD Monitor MSI AG32CV 1920x1080                             | 1        | 1.43%   |
-| LG Electronics LCD Monitor W2486 1920x1080                             | 1        | 1.43%   |
-| Lenovo P27h-20 LEN61E9 2560x1440 609x349mm 27.6-inch                   | 1        | 1.43%   |
-| Lenovo LEN L24q-30 LEN65FB 2560x1440 527x296mm 23.8-inch               | 1        | 1.43%   |
-| Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                   | 1        | 1.43%   |
-| Lenovo Group Limited LCD Monitor LEN T2324pA 3840x1080                 | 1        | 1.43%   |
-| Lenovo Group Limited LCD Monitor LEN P27u-10 9600x2160                 | 1        | 1.43%   |
-| Lenovo Group Limited LCD Monitor LEN P27u-10 7680x2160                 | 1        | 1.43%   |
-| Lenovo Group Limited LCD Monitor LEN P27u-10                           | 1        | 1.43%   |
-| Insignia NS-40D420NA16 BBY4000 1920x1080 1210x680mm 54.6-inch          | 1        | 1.43%   |
-| Hewlett-Packard Z38c HPN3411 3840x1600 880x367mm 37.5-inch             | 1        | 1.43%   |
-| Hewlett-Packard LE2002x HWP2963 1600x900 443x249mm 20.0-inch           | 1        | 1.43%   |
-| Hewlett-Packard LCD Monitor LA2306                                     | 1        | 1.43%   |
-| Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch          | 1        | 1.43%   |
-| Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch             | 1        | 1.43%   |
-| Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch             | 1        | 1.43%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                   | 1        | 1.43%   |
-| Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch               | 1        | 1.43%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 1        | 1.43%   |
-| Goldstar ULTRAGEAR GSM5BB1 1920x1080 527x296mm 23.8-inch               | 1        | 1.43%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Lenovo TIO24Gen3 LEN10B4 1920x1080 527x296mm 23.8-inch                | 2        | 2.86%   |
+| Lenovo LEN T2324pA LEN60C7 1920x1080 509x286mm 23.0-inch              | 2        | 2.86%   |
+| Lenovo LEN P27u-10 LEN61B0 3840x2160 600x340mm 27.2-inch              | 2        | 2.86%   |
+| Iiyama PL4840 IVM1065 1920x1080 1054x593mm 47.6-inch                  | 2        | 2.86%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 2        | 2.86%   |
+| ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch         | 1        | 1.43%   |
+| ViewSonic VA2259 Series VSC5E32 1920x1080 476x268mm 21.5-inch         | 1        | 1.43%   |
+| Samsung Electronics SyncMaster SAM05FC 1920x1080                      | 1        | 1.43%   |
+| Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch   | 1        | 1.43%   |
+| Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch     | 1        | 1.43%   |
+| Samsung Electronics S22B300 SAM08A9 1600x900 443x249mm 20.0-inch      | 1        | 1.43%   |
+| Samsung Electronics LCD Monitor SAM7106 1920x1080 600x340mm 27.2-inch | 1        | 1.43%   |
+| Samsung Electronics LCD Monitor SAM0200 1280x720                      | 1        | 1.43%   |
+| Samsung Electronics LCD Monitor S22B150                               | 1        | 1.43%   |
+| Samsung Electronics LCD Monitor C49HG9x 3840x1080                     | 1        | 1.43%   |
+| Samsung Electronics C32R50x SAM7000 1920x1080 698x393mm 31.5-inch     | 1        | 1.43%   |
+| Samsung Electronics C32HG7x SAM0E14 2560x1440 697x392mm 31.5-inch     | 1        | 1.43%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.43%   |
+| Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch               | 1        | 1.43%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch               | 1        | 1.43%   |
+| Microstep LCD Monitor MSI AG32CV 1920x1080                            | 1        | 1.43%   |
+| LG Electronics LCD Monitor W2486 1920x1080                            | 1        | 1.43%   |
+| Lenovo P27h-20 LEN61E9 2560x1440 600x340mm 27.2-inch                  | 1        | 1.43%   |
+| Lenovo LEN L24q-30 LEN65FB 2560x1440 527x296mm 23.8-inch              | 1        | 1.43%   |
+| Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                  | 1        | 1.43%   |
+| Lenovo Group Limited LCD Monitor LEN T2324pA 3840x1080                | 1        | 1.43%   |
+| Lenovo Group Limited LCD Monitor LEN P27u-10 9600x2160                | 1        | 1.43%   |
+| Lenovo Group Limited LCD Monitor LEN P27u-10 7680x2160                | 1        | 1.43%   |
+| Lenovo Group Limited LCD Monitor LEN P27u-10                          | 1        | 1.43%   |
+| Insignia NS-40D420NA16 BBY4000 1920x1080 1210x680mm 54.6-inch         | 1        | 1.43%   |
+| Hewlett-Packard Z38c HPN3411 3840x1600 880x367mm 37.5-inch            | 1        | 1.43%   |
+| Hewlett-Packard LE2002x HWP2963 1600x900 443x249mm 20.0-inch          | 1        | 1.43%   |
+| Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.43%   |
+| Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch         | 1        | 1.43%   |
+| Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.43%   |
+| Hewlett-Packard E233 HPN3460 1920x1080 510x290mm 23.1-inch            | 1        | 1.43%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 1.43%   |
+| Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.43%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1        | 1.43%   |
+| Goldstar ULTRAGEAR GSM5BB1 1920x1080 527x296mm 23.8-inch              | 1        | 1.43%   |
 
 Monitor Resolution
 ------------------
@@ -2219,7 +2219,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 3.13%   |
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 3.13%   |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                | 1        | 3.13%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s            | 1        | 3.13%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s       | 1        | 3.13%   |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3266MT/s       | 1        | 3.13%   |
 | Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s          | 1        | 3.13%   |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                  | 1        | 3.13%   |
@@ -2230,13 +2230,13 @@ Memory module models
 | Kingston RAM KHX2400C12D4/8GX 8GB DIMM DDR4 2400MT/s      | 1        | 3.13%   |
 | Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s     | 1        | 3.13%   |
 | Kingston RAM 9905712-034.A00G 16GB SODIMM DDR4 2400MT/s   | 1        | 3.13%   |
-| GOODRAM RAM GR1600D364L11S/4G 8GB DIMM DDR3 1600MT/s      | 1        | 3.13%   |
+| GOODRAM RAM GR1600D364L11S/4G 4GB DIMM DDR3 1600MT/s      | 1        | 3.13%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
 | Crucial RAM CT4G4DFS824A.M8FG 4GB DIMM DDR4 2400MT/s      | 1        | 3.13%   |
 | Crucial RAM CT16G4DFD824A.C16FBD 16GB DIMM DDR4 2933MT/s  | 1        | 3.13%   |
 | Crucial RAM BLS4G4D240FSB.8FBD2 4096MB DIMM DDR4 2400MT/s | 1        | 3.13%   |
 | Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2472MT/s     | 1        | 3.13%   |
-| Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
+| Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3              | 1        | 3.13%   |
 | Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 1        | 3.13%   |
 | Corsair RAM CMK16GX4M2Z3600C20 8GB DIMM DDR4 3600MT/s     | 1        | 3.13%   |
 
@@ -2334,8 +2334,8 @@ Printer device models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | HP LaserJet Professional P 1102w | 1        | 25%     |
-| Canon LiDE 300                   | 1        | 25%     |
 | Canon E560 series                | 1        | 25%     |
+| Canon CanoScan LiDE 300          | 1        | 25%     |
 | Brother DCP-1610W                | 1        | 25%     |
 
 Scanner Vendor
@@ -2386,7 +2386,7 @@ Camera device models
 |--------------------------------------------------|----------|---------|
 | Hopewin Electronic Material FULL HD 1080P Webcam | 3        | 25%     |
 | Generalplus GENERAL WEBCAM                       | 2        | 16.67%  |
-| Samsung Galaxy series, misc. (MTP mode)          | 1        | 8.33%   |
+| Samsung Galaxy A5 (MTP)                          | 1        | 8.33%   |
 | Ruision UVC Camera                               | 1        | 8.33%   |
 | Microsoft LifeCam HD-3000                        | 1        | 8.33%   |
 | Logitech Webcam C270                             | 1        | 8.33%   |

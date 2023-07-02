@@ -918,7 +918,7 @@ Hard drive vendors
 | Toshiba                      | 10        | 11     | 11.9%   |
 | Kingston                     | 8         | 8      | 9.52%   |
 | WDC                          | 7         | 7      | 8.33%   |
-| Sandisk                      | 4         | 4      | 4.76%   |
+| SanDisk                      | 4         | 4      | 4.76%   |
 | Intel                        | 4         | 5      | 4.76%   |
 | Hitachi                      | 4         | 4      | 4.76%   |
 | Unknown                      | 2         | 2      | 2.38%   |
@@ -945,48 +945,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Notebooks | Percent |
-|-----------------------------------------------------|-----------|---------|
-| Kingston SA400S37240G 240GB SSD                     | 3         | 3.53%   |
-| Toshiba TR200 240GB SSD                             | 2         | 2.35%   |
-| StoreJet Transcend 500GB SSD                        | 2         | 2.35%   |
-| Seagate BUP Slim 2TB                                | 2         | 2.35%   |
-| WDC WD7500BPKX-00HPJT0 752GB                        | 1         | 1.18%   |
-| WDC WD5000BEVT-80A0RT0 500GB                        | 1         | 1.18%   |
-| WDC WD5000BEVT-22A0RT0 500GB                        | 1         | 1.18%   |
-| WDC WD3200BPVT-75JJ5T0 320GB                        | 1         | 1.18%   |
-| WDC WD10JPCX-24UE4T0 1TB                            | 1         | 1.18%   |
-| WDC PC SN810 NVMe 1024GB                            | 1         | 1.18%   |
-| WDC PC SN520 SDAPNUW-256G-1006 256GB                | 1         | 1.18%   |
-| Unknown SDC  4GB                                    | 1         | 1.18%   |
-| Unknown SD32G  32GB                                 | 1         | 1.18%   |
-| Toshiba THNSNK256GCS8 SATA 256GB SSD                | 1         | 1.18%   |
-| Toshiba THNSNC128GMMJ 128GB SSD                     | 1         | 1.18%   |
-| Toshiba MQ04ABF100 1TB                              | 1         | 1.18%   |
-| Toshiba MQ01ABF050 500GB                            | 1         | 1.18%   |
-| Toshiba MQ01ABD100 1TB                              | 1         | 1.18%   |
-| Toshiba MQ01ABD050 500GB                            | 1         | 1.18%   |
-| Toshiba MK8032GSX 80GB                              | 1         | 1.18%   |
-| Toshiba MK5061GSY 500GB                             | 1         | 1.18%   |
-| Toshiba America Info Systems KXG60ZNV1T02 NVM 1TB   | 1         | 1.18%   |
-| SPCC Solid State Disk 256GB                         | 1         | 1.18%   |
-| Smartbuy SSD 120GB                                  | 1         | 1.18%   |
-| SK hynix SH920 2.5 7MM 256GB SSD                    | 1         | 1.18%   |
-| SK hynix SC210 mSATA 256GB SSD                      | 1         | 1.18%   |
-| Seagate ST980813ASG 80GB                            | 1         | 1.18%   |
-| Seagate ST9320328CS 320GB                           | 1         | 1.18%   |
-| Seagate ST9320325AS 320GB                           | 1         | 1.18%   |
-| Seagate ST9120823AS 120GB                           | 1         | 1.18%   |
-| Seagate ST750LM022 HN-M750MBB 752GB                 | 1         | 1.18%   |
-| Seagate ST500LT012-1DG142 500GB                     | 1         | 1.18%   |
-| Seagate ST1000LM048-2E7172 1TB                      | 1         | 1.18%   |
-| Seagate ST1000LM035-1RK172 1TB                      | 1         | 1.18%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 1.18%   |
-| Seagate Expansion 1TB                               | 1         | 1.18%   |
-| Sandisk WDC PC SN730 SDB 512GB                      | 1         | 1.18%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 1TB | 1         | 1.18%   |
-| SanDisk SD9SN8W256G1009 256GB SSD                   | 1         | 1.18%   |
-| SanDisk SD8SN8U-128G-1006 128GB SSD                 | 1         | 1.18%   |
+| Model                                                 | Notebooks | Percent |
+|-------------------------------------------------------|-----------|---------|
+| Kingston SA400S37240G 240GB SSD                       | 3         | 3.53%   |
+| Toshiba TR200 240GB SSD                               | 2         | 2.35%   |
+| StoreJet Transcend 500GB                              | 2         | 2.35%   |
+| Seagate BUP Slim 2TB                                  | 2         | 2.35%   |
+| WDC WD7500BPKX-00HPJT0 752GB                          | 1         | 1.18%   |
+| WDC WD5000BEVT-80A0RT0 500GB                          | 1         | 1.18%   |
+| WDC WD5000BEVT-22A0RT0 500GB                          | 1         | 1.18%   |
+| WDC WD3200BPVT-75JJ5T0 320GB                          | 1         | 1.18%   |
+| WDC WD10JPCX-24UE4T0 1TB                              | 1         | 1.18%   |
+| WDC PC SN810 NVMe 1024GB                              | 1         | 1.18%   |
+| WDC PC SN520 SDAPNUW-256G-1006 256GB                  | 1         | 1.18%   |
+| Unknown SDC  4GB                                      | 1         | 1.18%   |
+| Unknown SD32G  32GB                                   | 1         | 1.18%   |
+| Toshiba THNSNK256GCS8 SATA 256GB SSD                  | 1         | 1.18%   |
+| Toshiba THNSNC128GMMJ 128GB SSD                       | 1         | 1.18%   |
+| Toshiba MQ04ABF100 1TB                                | 1         | 1.18%   |
+| Toshiba MQ01ABF050 500GB                              | 1         | 1.18%   |
+| Toshiba MQ01ABD100 1TB                                | 1         | 1.18%   |
+| Toshiba MQ01ABD050 500GB                              | 1         | 1.18%   |
+| Toshiba MK8032GSX 80GB                                | 1         | 1.18%   |
+| Toshiba MK5061GSY 500GB                               | 1         | 1.18%   |
+| Toshiba America Info Systems KXG60ZNV1T02 NVM 1TB     | 1         | 1.18%   |
+| SPCC Solid State Disk 256GB                           | 1         | 1.18%   |
+| Smartbuy SSD 120GB                                    | 1         | 1.18%   |
+| SK hynix SH920 2.5 7MM 256GB SSD                      | 1         | 1.18%   |
+| SK hynix SC210 mSATA 256GB SSD                        | 1         | 1.18%   |
+| Seagate ST980813ASG 80GB                              | 1         | 1.18%   |
+| Seagate ST9320328CS 320GB                             | 1         | 1.18%   |
+| Seagate ST9320325AS 320GB                             | 1         | 1.18%   |
+| Seagate ST9120823AS 120GB                             | 1         | 1.18%   |
+| Seagate ST750LM022 HN-M750MBB 752GB                   | 1         | 1.18%   |
+| Seagate ST500LT012-1DG142 500GB                       | 1         | 1.18%   |
+| Seagate ST1000LM048-2E7172 1TB                        | 1         | 1.18%   |
+| Seagate ST1000LM035-1RK172 1TB                        | 1         | 1.18%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                    | 1         | 1.18%   |
+| Seagate Expansion 1TB                                 | 1         | 1.18%   |
+| Sandisk WDC PC SN730 SDB 512GB                        | 1         | 1.18%   |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 500GB | 1         | 1.18%   |
+| SanDisk SD9SN8W256G1009 256GB SSD                     | 1         | 1.18%   |
+| SanDisk SD8SN8U-128G-1006 128GB SSD                   | 1         | 1.18%   |
 
 HDD Vendor
 ----------
@@ -1682,7 +1682,7 @@ Monitor models
 | Sharp LCD Monitor SHP144D 3840x2160 276x156mm 12.5-inch               | 1         | 1.28%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch | 1         | 1.28%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch     | 1         | 1.28%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC4C42 1280x800 303x190mm 14.1-inch  | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch  | 1         | 1.28%   |
@@ -1710,7 +1710,7 @@ Monitor models
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch           | 1         | 1.28%   |
 | Lenovo T24i-10 LEN61A6 1920x1080 527x296mm 23.8-inch                  | 1         | 1.28%   |
 | Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.28%   |
-| Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.28%   |
+| Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch               | 1         | 1.28%   |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch               | 1         | 1.28%   |
 | Lenovo LCD Monitor LEN4000 1024x768 246x184mm 12.1-inch               | 1         | 1.28%   |
 | Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch            | 1         | 1.28%   |
@@ -1935,9 +1935,9 @@ Controller models
 | Silicon Integrated Systems [SiS] AC'97 Modem Controller                 | 1         | 0.7%    |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                | 1         | 0.7%    |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                         | 1         | 0.7%    |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                         | 1         | 0.7%    |
 | Realtek RTL8723DE Wireless Network Adapter                              | 1         | 0.7%    |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 1         | 0.7%    |
-| Realtek RTL8188EE Wireless Network Adapter                              | 1         | 0.7%    |
 
 Wireless Vendor
 ---------------
@@ -1991,10 +1991,10 @@ Wireless models
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1         | 1.37%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                      | 1         | 1.37%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 1         | 1.37%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                               | 1         | 1.37%   |
 | Realtek RTL8723DE Wireless Network Adapter                                    | 1         | 1.37%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                               | 1         | 1.37%   |
 | Realtek RTL8188EE Wireless Network Adapter                                    | 1         | 1.37%   |
-| Realtek 802.11ac WLAN Adapter                                                 | 1         | 1.37%   |
 | Ralink Conceptronic C300RU v2 802.11bgn Wireless Adapter [Ralink RT2770]      | 1         | 1.37%   |
 | Ralink RT2500 Wireless 802.11bg                                               | 1         | 1.37%   |
 | Qualcomm Atheros TP-Link TL-WN322G v3 / TL-WN422G v2 802.11g [Atheros AR9271] | 1         | 1.37%   |
@@ -2071,7 +2071,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.49%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 1.49%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.49%   |
-| Huawei ANE-LX1                                                    | 1         | 1.49%   |
+| Huawei LLD-L21                                                    | 1         | 1.49%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.49%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.49%   |
 
@@ -2166,7 +2166,6 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 10        | 20%     |
 | Qualcomm Atheros  Bluetooth Device                                                  | 3         | 6%      |
-| Intel Bluetooth Device                                                              | 3         | 6%      |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 3         | 6%      |
 | Intel AX200 Bluetooth                                                               | 3         | 6%      |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 2         | 4%      |
@@ -2174,6 +2173,7 @@ Controller models
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 2         | 4%      |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 2         | 4%      |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 4%      |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 2         | 4%      |
 | Intel AX201 Bluetooth                                                               | 2         | 4%      |
 | Dell DW375 Bluetooth Module                                                         | 2         | 4%      |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]                                  | 2         | 4%      |
@@ -2181,6 +2181,7 @@ Controller models
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 1         | 2%      |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 2%      |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 2%      |
+| Intel Bluetooth Device                                                              | 1         | 2%      |
 | IMC Networks Bluetooth Device                                                       | 1         | 2%      |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 2%      |
 | Dell BCM20702A0 Bluetooth Module                                                    | 1         | 2%      |
@@ -2308,7 +2309,7 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 1.61%   |
 | Unknown RAM Module 1024MB SODIMM DRAM                        | 1         | 1.61%   |
 | Transcend RAM JM2666HSB-16G 16GB SODIMM DDR4 2667MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 1.61%   |
+| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2048MB SODIMM DDR3 1600MT/s    | 1         | 1.61%   |
@@ -2503,7 +2504,7 @@ Camera device models
 | Sunplus Integrated Webcam                     | 1         | 1.85%   |
 | Sunplus 1.3M HD WebCam                        | 1         | 1.85%   |
 | Silicon Motion WebCam SC-10HDD12636N          | 1         | 1.85%   |
-| Samsung Galaxy series, misc. (MTP mode)       | 1         | 1.85%   |
+| Samsung Galaxy A5 (MTP)                       | 1         | 1.85%   |
 | Ricoh Laptop_Integrated_Webcam_FHD            | 1         | 1.85%   |
 | Ricoh HD Webcam                               | 1         | 1.85%   |
 | Realtek USB2.0 VGA UVC WebCam                 | 1         | 1.85%   |
@@ -2619,9 +2620,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 30        | 43.48%  |
+| 1     | 31        | 44.93%  |
 | 0     | 24        | 34.78%  |
-| 2     | 10        | 14.49%  |
+| 2     | 9         | 13.04%  |
 | 5     | 2         | 2.9%    |
 | 4     | 2         | 2.9%    |
 | 3     | 1         | 1.45%   |
@@ -2636,13 +2637,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 19        | 29.69%  |
-| Fingerprint reader       | 17        | 26.56%  |
-| Communication controller | 8         | 12.5%   |
-| Net/wireless             | 7         | 10.94%  |
-| Chipcard                 | 6         | 9.38%   |
-| Storage                  | 2         | 3.13%   |
-| Sound                    | 2         | 3.13%   |
-| Net/ethernet             | 2         | 3.13%   |
-| Storage/raid             | 1         | 1.56%   |
+| Graphics card            | 17        | 27.42%  |
+| Fingerprint reader       | 17        | 27.42%  |
+| Communication controller | 8         | 12.9%   |
+| Net/wireless             | 7         | 11.29%  |
+| Chipcard                 | 6         | 9.68%   |
+| Storage                  | 2         | 3.23%   |
+| Sound                    | 2         | 3.23%   |
+| Net/ethernet             | 2         | 3.23%   |
+| Storage/raid             | 1         | 1.61%   |
 

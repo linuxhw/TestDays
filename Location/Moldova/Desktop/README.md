@@ -1803,7 +1803,7 @@ Monitor models
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 2        | 2.53%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 2        | 2.53%   |
 | ViewSonic VA521-1 VSCF318 1024x768 304x228mm 15.0-inch                 | 1        | 1.27%   |
-| Toshiba TV TSB0108 1920x540                                            | 1        | 1.27%   |
+| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                        | 1        | 1.27%   |
 | Samsung Electronics SyncMaster SAM03D1 1680x1050 433x271mm 20.1-inch   | 1        | 1.27%   |
 | Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch    | 1        | 1.27%   |
 | Samsung Electronics SyncMaster SAM036E 1280x1024 376x301mm 19.0-inch   | 1        | 1.27%   |
@@ -1826,9 +1826,9 @@ Monitor models
 | Plain Tree Systems XAP-192i PTS03D5 1280x1024 376x301mm 19.0-inch      | 1        | 1.27%   |
 | Philips PHL 275E2F PHLC23A 2560x1440 597x336mm 27.0-inch               | 1        | 1.27%   |
 | Philips PHL 246E7 PHLC107 1920x1080 521x293mm 23.5-inch                | 1        | 1.27%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 1        | 1.27%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch                | 1        | 1.27%   |
 | Philips PHL 240V5A PHLC10C 1920x1080 527x296mm 23.8-inch               | 1        | 1.27%   |
-| Philips PHL 240V5 PHLC10A 1920x1080 527x296mm 23.8-inch                | 1        | 1.27%   |
+| Philips PHL 240V5 PHLC10A 1920x1080 530x300mm 24.0-inch                | 1        | 1.27%   |
 | Philips PHL 234E5 PHLC0C7 1920x1080 509x286mm 23.0-inch                | 1        | 1.27%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 1        | 1.27%   |
 | Philips LCD Monitor PHL 243V5                                          | 1        | 1.27%   |
@@ -2035,7 +2035,6 @@ Controller models
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter               | 1        | 1%      |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 1%      |
 | Ralink RT3060 Wireless 802.11n 1T/1R                                   | 1        | 1%      |
-| Qualcomm Redmi Note 9 Pro                                              | 1        | 1%      |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 1%      |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 1%      |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                       | 1        | 1%      |
@@ -2045,10 +2044,11 @@ Controller models
 | Qualcomm Atheros AR8131 Gigabit Ethernet                               | 1        | 1%      |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet         | 1        | 1%      |
 | Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn] | 1        | 1%      |
+| Qualcomm Android                                                       | 1        | 1%      |
 | Nvidia MCP67 Ethernet                                                  | 1        | 1%      |
 | Nvidia MCP55 Ethernet                                                  | 1        | 1%      |
 | Mercucys 802.11n NIC                                                   | 1        | 1%      |
-| MediaTek TECNO SPARK 9T                                                | 1        | 1%      |
+| MediaTek Armor X10 Pro                                                 | 1        | 1%      |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 1%      |
 | Intel NM10/ICH7 Family LAN Controller                                  | 1        | 1%      |
 | Intel Ethernet Connection I217-V                                       | 1        | 1%      |
@@ -2145,15 +2145,15 @@ Ethernet models
 | Intel Ethernet Connection (11) I219-V                             | 2        | 2.5%    |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.25%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.25%   |
-| Qualcomm Redmi Note 9 Pro                                         | 1        | 1.25%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.25%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.25%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 1.25%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 1.25%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 1.25%   |
+| Qualcomm Android                                                  | 1        | 1.25%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 1.25%   |
 | Nvidia MCP55 Ethernet                                             | 1        | 1.25%   |
-| MediaTek TECNO SPARK 9T                                           | 1        | 1.25%   |
+| MediaTek Armor X10 Pro                                            | 1        | 1.25%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.25%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.25%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 1.25%   |
@@ -2274,12 +2274,12 @@ Sound card vendors
 | Texas Instruments         | 1        | 0.83%   |
 | SteelSeries ApS           | 1        | 0.83%   |
 | Shenzhen Rapoo Technology | 1        | 0.83%   |
-| Sennheiser Communications | 1        | 0.83%   |
 | Plantronics               | 1        | 0.83%   |
 | Kingston Technology       | 1        | 0.83%   |
 | GN Netcom                 | 1        | 0.83%   |
 | Giga-Byte Technology      | 1        | 0.83%   |
 | Fifine Microphones        | 1        | 0.83%   |
+| DSEA A/S                  | 1        | 0.83%   |
 
 Sound Model
 -----------
@@ -2322,7 +2322,6 @@ Sound card models
 | Texas Instruments PCM2902 Audio Codec                                             | 1        | 0.74%   |
 | SteelSeries ApS SteelSeries Arctis 7                                              | 1        | 0.74%   |
 | Shenzhen Rapoo Technology Wireless Audio                                          | 1        | 0.74%   |
-| Sennheiser Communications SC60 for Lync                                           | 1        | 0.74%   |
 | Plantronics Audio 628 USB                                                         | 1        | 0.74%   |
 | Nvidia MCP79 High Definition Audio                                                | 1        | 0.74%   |
 | Nvidia MCP67 High Definition Audio                                                | 1        | 0.74%   |
@@ -2331,6 +2330,7 @@ Sound card models
 | Nvidia GP104 High Definition Audio Controller                                     | 1        | 0.74%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                     | 1        | 0.74%   |
 | Nvidia GK107 HDMI Audio Controller                                                | 1        | 0.74%   |
+| Nvidia GK104 HDMI Audio Controller                                                | 1        | 0.74%   |
 
 Memory
 ------
@@ -2409,7 +2409,7 @@ Memory module models
 | Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s           | 1        | 1.19%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
 | Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s              | 1        | 1.19%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 1.19%   |
+| Team RAM Elite-1333 4GB DIMM 1333MT/s                          | 1        | 1.19%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s            | 1        | 1.19%   |
 | SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s            | 1        | 1.19%   |
 | SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s         | 1        | 1.19%   |
@@ -2418,7 +2418,7 @@ Memory module models
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 1.19%   |
 | Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s           | 1        | 1.19%   |
 | Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s                | 1        | 1.19%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3266MT/s            | 1        | 1.19%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s             | 1        | 1.19%   |
 
 Memory Kind
 -----------
@@ -2575,11 +2575,11 @@ Camera device vendors
 | Microdia                    | 3        | 12.5%   |
 | Z-Star Microelectronics     | 2        | 8.33%   |
 | KYE Systems (Mouse Systems) | 2        | 8.33%   |
+| YGTek                       | 1        | 4.17%   |
 | Trust                       | 1        | 4.17%   |
 | Samsung Electronics         | 1        | 4.17%   |
 | Pixart Imaging              | 1        | 4.17%   |
 | Microsoft                   | 1        | 4.17%   |
-| HD WEBCAM                   | 1        | 4.17%   |
 | Genesys Logic               | 1        | 4.17%   |
 | GEMBIRD                     | 1        | 4.17%   |
 | Cubeternet                  | 1        | 4.17%   |
@@ -2598,6 +2598,7 @@ Camera device models
 | Logitech Webcam C270                      | 4        | 16.67%  |
 | Microdia Camera                           | 3        | 12.5%   |
 | Z-Star Venus USB2.0 Camera                | 2        | 8.33%   |
+| YGTek Webcam                              | 1        | 4.17%   |
 | Trust Full HD Webcam                      | 1        | 4.17%   |
 | Samsung Galaxy (PTP mode)                 | 1        | 4.17%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro      | 1        | 4.17%   |
@@ -2608,7 +2609,6 @@ Camera device models
 | Logitech Brio 500                         | 1        | 4.17%   |
 | KYE Systems (Mouse Systems) FaceCam 1000X | 1        | 4.17%   |
 | KYE Systems (Mouse Systems) eFace 2025    | 1        | 4.17%   |
-| HD WEBCAM Web Camera                      | 1        | 4.17%   |
 | Genesys Logic U2 EE Cam                   | 1        | 4.17%   |
 | GEMBIRD USB2.0 PC CAMERA                  | 1        | 4.17%   |
 | Cubeternet USB2.0 Camera                  | 1        | 4.17%   |

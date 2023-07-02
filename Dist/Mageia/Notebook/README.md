@@ -893,7 +893,7 @@ Hard drive models
 | Kingston SA2000M8500G 500GB                  | 1         | 2.38%   |
 | Kingston NVMe SSD Drive 1TB                  | 1         | 2.38%   |
 | KingFast SSD 256GB                           | 1         | 2.38%   |
-| JMicron Generic 320GB                        | 1         | 2.38%   |
+| JMicron Generic 240GB                        | 1         | 2.38%   |
 | Intel SSDMCEAC120B3A 120GB                   | 1         | 2.38%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 2.38%   |
 | Hitachi HTS725050A7E630 500GB                | 1         | 2.38%   |
@@ -927,16 +927,15 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 4         | 5      | 26.67%  |
-| Kingston            | 2         | 2      | 13.33%  |
-| Crucial             | 2         | 2      | 13.33%  |
-| WDC                 | 1         | 1      | 6.67%   |
-| SanDisk             | 1         | 1      | 6.67%   |
-| LDLC                | 1         | 1      | 6.67%   |
-| KingFast            | 1         | 2      | 6.67%   |
-| JMicron Technology  | 1         | 1      | 6.67%   |
-| Intel               | 1         | 1      | 6.67%   |
-| China               | 1         | 1      | 6.67%   |
+| Samsung Electronics | 4         | 5      | 28.57%  |
+| Kingston            | 2         | 2      | 14.29%  |
+| Crucial             | 2         | 2      | 14.29%  |
+| WDC                 | 1         | 1      | 7.14%   |
+| SanDisk             | 1         | 1      | 7.14%   |
+| LDLC                | 1         | 1      | 7.14%   |
+| KingFast            | 1         | 2      | 7.14%   |
+| Intel               | 1         | 1      | 7.14%   |
+| China               | 1         | 1      | 7.14%   |
 
 Drive Kind
 ----------
@@ -948,10 +947,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 14        | 17     | 36.84%  |
-| HDD  | 11        | 18     | 28.95%  |
-| NVMe | 9         | 12     | 23.68%  |
-| MMC  | 4         | 4      | 10.53%  |
+| SSD  | 14        | 16     | 35.9%   |
+| HDD  | 11        | 18     | 28.21%  |
+| NVMe | 10        | 13     | 25.64%  |
+| MMC  | 4         | 4      | 10.26%  |
 
 Drive Connector
 ---------------
@@ -978,7 +977,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 18        | 22     | 75%     |
+| 0.01-0.5   | 18        | 21     | 75%     |
 | 0.51-1.0   | 6         | 13     | 25%     |
 
 Space Total
@@ -1136,13 +1135,14 @@ Storage controller models
 | AMD SB600 Non-Raid-5 SATA                                                      | 2         | 5.26%   |
 | AMD SB600 IDE                                                                  | 2         | 5.26%   |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                           | 1         | 2.63%   |
-| SK hynix BC511                                                                 | 1         | 2.63%   |
+| SK hynix BC511 NVMe SSD                                                        | 1         | 2.63%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 2.63%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 2.63%   |
 | Samsung NVMe SSD Controller 980                                                | 1         | 2.63%   |
 | Phison E12 NVMe Controller                                                     | 1         | 2.63%   |
 | Kingston Company NVMe Controller                                               | 1         | 2.63%   |
 | Kingston Company A2000 NVMe SSD                                                | 1         | 2.63%   |
+| Intel Tiger Lake SATA AHCI Controller                                          | 1         | 2.63%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 2.63%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 1         | 2.63%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1         | 2.63%   |
@@ -1151,7 +1151,6 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 1         | 2.63%   |
 | Intel 7 Series Chipset Family 4-port SATA Controller [IDE mode]                | 1         | 2.63%   |
 | Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                | 1         | 2.63%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                           | 1         | 2.63%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 1         | 2.63%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 1         | 2.63%   |
 | AMD FCH SATA Controller [AHCI mode]                                            | 1         | 2.63%   |
@@ -1492,7 +1491,7 @@ Monitor models
 | Sharp LCD Monitor SHP1461 3200x1800 294x165mm 13.3-inch                   | 1         | 2.94%   |
 | Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch        | 1         | 2.94%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 2.94%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch      | 1         | 2.94%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch      | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch     | 1         | 2.94%   |
 | Samsung Electronics LCD Monitor SEC314F 1600x900 382x215mm 17.3-inch      | 1         | 2.94%   |
 | LG Display LCD Monitor LGD066A 1920x1080 344x194mm 15.5-inch              | 1         | 2.94%   |
@@ -1668,7 +1667,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 4         | 7.14%   |
 | Intel Wireless 8260                                               | 3         | 5.36%   |
 | Intel Wi-Fi 6 AX200                                               | 3         | 5.36%   |
-| Sierra Wireless MC8305 Modem                                      | 2         | 3.57%   |
+| Sierra Wireless MC8305                                            | 2         | 3.57%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 2         | 3.57%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 3.57%   |
 | Broadcom BCM4311 802.11a/b/g                                      | 2         | 3.57%   |
@@ -1731,7 +1730,7 @@ Wireless models
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 4         | 12.12%  |
 | Intel Wireless 8260                                            | 3         | 9.09%   |
 | Intel Wi-Fi 6 AX200                                            | 3         | 9.09%   |
-| Sierra Wireless MC8305 Modem                                   | 2         | 6.06%   |
+| Sierra Wireless MC8305                                         | 2         | 6.06%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 2         | 6.06%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 6.06%   |
 | Broadcom BCM4311 802.11a/b/g                                   | 2         | 6.06%   |
@@ -1985,7 +1984,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM LPDDR3 1600MT/s                    | 1         | 3.23%   |
 | Unknown RAM Module 4GB SODIMM DDR4 2400MT/s                      | 1         | 3.23%   |
 | Unknown RAM Module 2048MB SODIMM DDR2 975MT/s                    | 1         | 3.23%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 3.23%   |
+| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 1         | 3.23%   |
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s            | 1         | 3.23%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                     | 1         | 3.23%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 3.23%   |
@@ -2133,8 +2132,8 @@ Camera device vendors
 | Suyin                                  | 1         | 3.45%   |
 | Sunplus Innovation Technology          | 1         | 3.45%   |
 | Primax Electronics                     | 1         | 3.45%   |
+| Bison Electronics                      | 1         | 3.45%   |
 | Apple                                  | 1         | 3.45%   |
-| Acer                                   | 1         | 3.45%   |
 
 Camera Model
 ------------
@@ -2165,10 +2164,10 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 3.33%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 3.33%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 3.33%   |
+| Bison BisonCam,NB Pro                                                      | 1         | 3.33%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X                                            | 1         | 3.33%   |
 | Alcor Micro USB 2.0 Camera                                                 | 1         | 3.33%   |
 | Alcor Micro Asus Integrated Webcam                                         | 1         | 3.33%   |
-| Acer BisonCam,NB Pro                                                       | 1         | 3.33%   |
 
 Security
 --------

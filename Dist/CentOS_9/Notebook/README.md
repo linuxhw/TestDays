@@ -718,7 +718,7 @@ Hard drive models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 2         | 6.9%    |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2         | 6.9%    |
 | Samsung MZNLH512HALU-00000 512GB SSD                | 2         | 6.9%    |
 | Micron 2450_MTFDKBA512TFK 512GB                     | 2         | 6.9%    |
 | WDC WD6400BEVT-22A0RT0 640GB                        | 1         | 3.45%   |
@@ -731,7 +731,7 @@ Hard drive models
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 3.45%   |
 | Samsung PSSD T7 1TB                                 | 1         | 3.45%   |
 | Samsung NVMe SSD Drive 1TB                          | 1         | 3.45%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 1         | 3.45%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 1         | 3.45%   |
 | Samsung MZALQ512HALU-000L2 512GB                    | 1         | 3.45%   |
 | LITEON IT LST-32S9G-HP 32GB SSD                     | 1         | 3.45%   |
 | Kingston SH103S3240G 240GB SSD                      | 1         | 3.45%   |
@@ -964,11 +964,11 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 4         | 14.81%  |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 2         | 7.41%   |
 | Samsung NVMe SSD Controller 980                                                | 2         | 7.41%   |
-| Micron NVMe Storage Controller                                                 | 2         | 7.41%   |
+| Micron 2450 NVMe SSD (DRAM-less)                                               | 2         | 7.41%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 7.41%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 7.41%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 7.41%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 1         | 3.7%    |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 1         | 3.7%    |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 3.7%    |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 3.7%    |
 | Intel Volume Management Device NVMe RAID Controller                            | 1         | 3.7%    |
@@ -1304,7 +1304,7 @@ Monitor models
 | Hewlett-Packard L185x HWP298C 1366x768 410x230mm 18.5-inch            | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1608 1920x1080 355x199mm 16.0-inch      | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch      | 1         | 4.17%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch       | 1         | 4.17%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 344x193mm 15.5-inch       | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1515 1920x1080 344x193mm 15.5-inch      | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN14A3 1600x900 309x174mm 14.0-inch       | 1         | 4.17%   |
 | CHD 24VCF CHD0240 1920x1080 368x207mm 16.6-inch                       | 1         | 4.17%   |
@@ -1741,14 +1741,14 @@ Memory module models
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | Smart Brazil RAM SMS4TDC3C0K0446SCG 4GB SODIMM DDR4 2667MT/s | 1         | 7.69%   |
-| SK hynix RAM HMT125S6BFR8C-G7 2048MB SODIMM DDR3 1067MT/s    | 1         | 7.69%   |
+| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s       | 1         | 7.69%   |
 | SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 7.69%   |
 | SHARETRONIC RAM Module 4GB SODIMM DDR3 800MT/s               | 1         | 7.69%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 7.69%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 7.69%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 7.69%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 7.69%   |
-| Samsung RAM K4UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s | 1         | 7.69%   |
+| Samsung RAM K4UBE3D4AA-MGCR 8GB Row Of Chips LPDDR4 4267MT/s | 1         | 7.69%   |
 | Kingston RAM 9905417-083.A00G 4GB SODIMM DDR3 1600MT/s       | 1         | 7.69%   |
 | G.Skill RAM F3-1600C9-8GRSL 8GB SODIMM DDR3 1600MT/s         | 1         | 7.69%   |
 | Corsair RAM CMSO8GX3M1C1600C11 8GB SODIMM DDR3 1600MT/s      | 1         | 7.69%   |
@@ -1879,7 +1879,6 @@ Camera device models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Acer Integrated Camera                              | 2         | 11.11%  |
 | Syntek Integrated Camera                            | 1         | 5.56%   |
 | Realtek Lenovo EasyCamera                           | 1         | 5.56%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 1         | 5.56%   |
@@ -1893,8 +1892,10 @@ Camera device models
 | Chicony Acer CrystalEye Webcam                      | 1         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 1         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera | 1         | 5.56%   |
-| Bison Lenovo Integrated Webcam                      | 1         | 5.56%   |
+| Bison Integrated Camera                             | 1         | 5.56%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X                     | 1         | 5.56%   |
+| Acer Lenovo Integrated Webcam                       | 1         | 5.56%   |
+| Acer Integrated Camera                              | 1         | 5.56%   |
 | Acer HD Webcam                                      | 1         | 5.56%   |
 
 Security

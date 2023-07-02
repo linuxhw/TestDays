@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 201
+Total: 203
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| HP       | 1493                        | [b22e0342bc](https://linux-hardware.org/?probe=b22e0342bc) | Jun 25, 2023 |
+| Gigabyte | GA-78LMT-USB3 SEx           | [99341c9ba0](https://linux-hardware.org/?probe=99341c9ba0) | Jun 23, 2023 |
 | Gigabyte | X570 GAMING X               | [576a624a1b](https://linux-hardware.org/?probe=576a624a1b) | Jun 09, 2023 |
 | AMI      | Cherry Trail CR             | [5816e6a1cf](https://linux-hardware.org/?probe=5816e6a1cf) | Jun 07, 2023 |
 | Gigabyte | GA-78LMT-USB3 SEx           | [d981de6f45](https://linux-hardware.org/?probe=d981de6f45) | Jun 06, 2023 |
@@ -379,9 +381,9 @@ Installed operating systems
 | Ubuntu 22.04                 | 9        | 6.08%   |
 | OpenMandriva 4.3             | 9        | 6.08%   |
 | OpenMandriva 4.2             | 7        | 4.73%   |
+| Manjaro                      | 5        | 3.38%   |
 | Zorin 15                     | 4        | 2.7%    |
 | Ubuntu 19.10                 | 4        | 2.7%    |
-| Manjaro                      | 4        | 2.7%    |
 | Linux Mint 19.3              | 4        | 2.7%    |
 | Debian 11                    | 4        | 2.7%    |
 | Ubuntu 21.10                 | 3        | 2.03%   |
@@ -392,7 +394,6 @@ Installed operating systems
 | openSUSE Tumbleweed-XXXXXXXX | 2        | 1.35%   |
 | OpenMandriva 23.03           | 2        | 1.35%   |
 | OpenMandriva 23.01           | 2        | 1.35%   |
-| Linux Mint 21.1              | 2        | 1.35%   |
 | Linux Mint 19.2              | 2        | 1.35%   |
 | KDE neon 22.04               | 2        | 1.35%   |
 | KDE neon 20.04               | 2        | 1.35%   |
@@ -414,6 +415,7 @@ Installed operating systems
 | ROSA R11                     | 1        | 0.68%   |
 | Q4OS 4                       | 1        | 0.68%   |
 | Peppermint 10                | 1        | 0.68%   |
+| openSUSE Leap-15.3           | 1        | 0.68%   |
 
 OS Family
 ---------
@@ -427,12 +429,12 @@ OS without a version
 |--------------|----------|---------|
 | Ubuntu       | 47       | 33.33%  |
 | OpenMandriva | 21       | 14.89%  |
-| Linux Mint   | 13       | 9.22%   |
+| Linux Mint   | 12       | 8.51%   |
 | ROSA         | 6        | 4.26%   |
+| Manjaro      | 6        | 4.26%   |
 | Debian       | 6        | 4.26%   |
 | Zorin        | 5        | 3.55%   |
 | Ubuntu MATE  | 5        | 3.55%   |
-| Manjaro      | 5        | 3.55%   |
 | openSUSE     | 4        | 2.84%   |
 | KDE neon     | 4        | 2.84%   |
 | Lubuntu      | 3        | 2.13%   |
@@ -479,7 +481,6 @@ Version of the Linux kernel
 | 5.4.0-28-generic                | 2        | 1.21%   |
 | 5.3.0-46-generic                | 2        | 1.21%   |
 | 5.3.0-26-generic                | 2        | 1.21%   |
-| 5.15.0-72-generic               | 2        | 1.21%   |
 | 5.15.0-48-generic               | 2        | 1.21%   |
 | 5.15.0-43-generic               | 2        | 1.21%   |
 | 5.15.0-27-generic               | 2        | 1.21%   |
@@ -500,6 +501,7 @@ Version of the Linux kernel
 | 5.8.0-53-generic                | 1        | 0.61%   |
 | 5.8.0-45-generic                | 1        | 0.61%   |
 | 5.8.0-31-generic                | 1        | 0.61%   |
+| 5.8.0-2-amd64                   | 1        | 0.61%   |
 
 Kernel Family
 -------------
@@ -509,48 +511,48 @@ Linux kernel without a distro release
 ![Kernel Family](./images/pie_chart/os_kernel_family.svg)
 
 
-| Version | Desktops | Percent |
-|---------|----------|---------|
-| 5.4.0   | 29       | 19.21%  |
-| 5.15.0  | 15       | 9.93%   |
-| 5.3.0   | 11       | 7.28%   |
-| 4.15.0  | 10       | 6.62%   |
-| 5.16.7  | 8        | 5.3%    |
-| 5.10.14 | 7        | 4.64%   |
-| 5.8.0   | 6        | 3.97%   |
-| 5.13.0  | 6        | 3.97%   |
-| 4.18.0  | 6        | 3.97%   |
-| 5.11.0  | 5        | 3.31%   |
-| 5.10.0  | 5        | 3.31%   |
-| 6.1.1   | 3        | 1.99%   |
-| 5.19.0  | 3        | 1.99%   |
-| 6.2.6   | 2        | 1.32%   |
-| 5.3.18  | 2        | 1.32%   |
-| 5.17.1  | 2        | 1.32%   |
-| 4.9.20  | 2        | 1.32%   |
-| 6.3.5   | 1        | 0.66%   |
-| 6.3.2   | 1        | 0.66%   |
-| 6.2.0   | 1        | 0.66%   |
-| 6.1.21  | 1        | 0.66%   |
-| 6.0.5   | 1        | 0.66%   |
-| 6.0.10  | 1        | 0.66%   |
-| 5.9.11  | 1        | 0.66%   |
-| 5.8.7   | 1        | 0.66%   |
-| 5.7.9   | 1        | 0.66%   |
-| 5.7.14  | 1        | 0.66%   |
-| 5.6.19  | 1        | 0.66%   |
-| 5.6.0   | 1        | 0.66%   |
-| 5.4.83  | 1        | 0.66%   |
-| 5.4.118 | 1        | 0.66%   |
-| 5.19.5  | 1        | 0.66%   |
-| 5.19.15 | 1        | 0.66%   |
-| 5.18.12 | 1        | 0.66%   |
-| 5.17.5  | 1        | 0.66%   |
-| 5.16.13 | 1        | 0.66%   |
-| 5.16.0  | 1        | 0.66%   |
-| 5.11.19 | 1        | 0.66%   |
-| 5.10.52 | 1        | 0.66%   |
-| 5.10.2  | 1        | 0.66%   |
+| Version  | Desktops | Percent |
+|----------|----------|---------|
+| 5.4.0    | 29       | 19.21%  |
+| 5.15.0   | 14       | 9.27%   |
+| 5.3.0    | 11       | 7.28%   |
+| 4.15.0   | 10       | 6.62%   |
+| 5.16.7   | 8        | 5.3%    |
+| 5.10.14  | 7        | 4.64%   |
+| 5.8.0    | 6        | 3.97%   |
+| 5.13.0   | 6        | 3.97%   |
+| 4.18.0   | 6        | 3.97%   |
+| 5.11.0   | 5        | 3.31%   |
+| 5.10.0   | 5        | 3.31%   |
+| 6.1.1    | 3        | 1.99%   |
+| 5.19.0   | 3        | 1.99%   |
+| 6.2.6    | 2        | 1.32%   |
+| 5.3.18   | 2        | 1.32%   |
+| 5.17.1   | 2        | 1.32%   |
+| 4.9.20   | 2        | 1.32%   |
+| 6.3.5    | 1        | 0.66%   |
+| 6.3.2    | 1        | 0.66%   |
+| 6.2.0    | 1        | 0.66%   |
+| 6.1.21   | 1        | 0.66%   |
+| 6.0.5    | 1        | 0.66%   |
+| 6.0.10   | 1        | 0.66%   |
+| 5.9.11   | 1        | 0.66%   |
+| 5.8.7    | 1        | 0.66%   |
+| 5.7.9    | 1        | 0.66%   |
+| 5.7.14   | 1        | 0.66%   |
+| 5.6.19   | 1        | 0.66%   |
+| 5.6.0    | 1        | 0.66%   |
+| 5.4.83   | 1        | 0.66%   |
+| 5.4.118  | 1        | 0.66%   |
+| 5.19.5   | 1        | 0.66%   |
+| 5.19.15  | 1        | 0.66%   |
+| 5.18.12  | 1        | 0.66%   |
+| 5.17.5   | 1        | 0.66%   |
+| 5.16.13  | 1        | 0.66%   |
+| 5.16.0   | 1        | 0.66%   |
+| 5.15.114 | 1        | 0.66%   |
+| 5.11.19  | 1        | 0.66%   |
+| 5.10.52  | 1        | 0.66%   |
 
 Kernel Major Ver.
 -----------------
@@ -612,9 +614,9 @@ Desktop Environment
 | Name            | Desktops | Percent |
 |-----------------|----------|---------|
 | GNOME           | 55       | 38.46%  |
-| KDE5            | 35       | 24.48%  |
+| KDE5            | 36       | 25.17%  |
 | XFCE            | 11       | 7.69%   |
-| X-Cinnamon      | 11       | 7.69%   |
+| X-Cinnamon      | 10       | 6.99%   |
 | Unknown         | 9        | 6.29%   |
 | MATE            | 7        | 4.9%    |
 | KDE4            | 5        | 3.5%    |
@@ -977,8 +979,8 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 1.01-2.0   | 59       | 38.06%  |
-| 2.01-3.0   | 36       | 23.23%  |
+| 1.01-2.0   | 58       | 37.42%  |
+| 2.01-3.0   | 37       | 23.87%  |
 | 4.01-8.0   | 21       | 13.55%  |
 | 3.01-4.0   | 17       | 10.97%  |
 | 0.51-1.0   | 17       | 10.97%  |
@@ -1012,8 +1014,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 74       | 53.24%  |
-| Yes       | 65       | 46.76%  |
+| No        | 73       | 52.52%  |
+| Yes       | 66       | 47.48%  |
 
 Has Ethernet
 ------------
@@ -1118,7 +1120,7 @@ Hard drive vendors
 | Samsung Electronics       | 18       | 23     | 8.61%   |
 | Toshiba                   | 10       | 11     | 4.78%   |
 | Crucial                   | 6        | 9      | 2.87%   |
-| SanDisk                   | 5        | 6      | 2.39%   |
+| Sandisk                   | 5        | 6      | 2.39%   |
 | Hewlett-Packard           | 4        | 5      | 1.91%   |
 | PNY                       | 3        | 3      | 1.44%   |
 | Micron/Crucial Technology | 3        | 3      | 1.44%   |
@@ -1268,8 +1270,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 97       | 156    | 56.07%  |
-| 0.51-1.0   | 50       | 64     | 28.9%   |
-| 1.01-2.0   | 17       | 26     | 9.83%   |
+| 0.51-1.0   | 51       | 65     | 29.48%  |
+| 1.01-2.0   | 16       | 25     | 9.25%   |
 | 3.01-4.0   | 3        | 5      | 1.73%   |
 | 2.01-3.0   | 3        | 3      | 1.73%   |
 | 4.01-10.0  | 3        | 6      | 1.73%   |
@@ -1305,8 +1307,8 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 59       | 38.31%  |
-| 21-50          | 22       | 14.29%  |
+| 1-20           | 58       | 37.66%  |
+| 21-50          | 23       | 14.94%  |
 | 251-500        | 21       | 13.64%  |
 | 101-250        | 17       | 11.04%  |
 | 51-100         | 11       | 7.14%   |
@@ -1485,8 +1487,8 @@ Storage controller models
 | Micron/Crucial P2 NVMe PCIe SSD                                                         | 2        | 0.89%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                            | 2        | 0.89%   |
 | Marvell Group 88SE6101/6102 single-port PATA133 interface                               | 2        | 0.89%   |
-| Kingston Company Company Non-Volatile memory controller                                 | 2        | 0.89%   |
 | Kingston Company SNVS2000G [NV1 NVMe PCIe SSD 2TB]                                      | 2        | 0.89%   |
+| Kingston Company FURY Renegade NVMe SSD                                                 | 2        | 0.89%   |
 | Kingston Company A2000 NVMe SSD                                                         | 2        | 0.89%   |
 | Intel SATA Controller [RAID mode]                                                       | 2        | 0.89%   |
 | Intel 82801JD/DO (ICH10 Family) 4-port SATA IDE Controller                              | 2        | 0.89%   |
@@ -1695,13 +1697,13 @@ Microcode number
 
 | Number     | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 24       | 16.9%   |
+| Unknown    | 25       | 17.61%  |
 | 0x306a9    | 14       | 9.86%   |
 | 0x306c3    | 8        | 5.63%   |
 | 0x206a7    | 7        | 4.93%   |
-| 0x1067a    | 7        | 4.93%   |
 | 0x08701021 | 7        | 4.93%   |
 | 0x506e3    | 6        | 4.23%   |
+| 0x1067a    | 6        | 4.23%   |
 | 0x6fd      | 5        | 3.52%   |
 | 0x06000852 | 5        | 3.52%   |
 | 0x06003106 | 4        | 2.82%   |
@@ -1941,12 +1943,12 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 6        | 4.41%   |
 | Samsung Electronics SA300/SA350 SAM078D 1600x900 443x249mm 20.0-inch   | 3        | 2.21%   |
-| Goldstar IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch              | 3        | 2.21%   |
-| ViewSonic VA2246 SERIES VSC6F2E 1920x1080 477x268mm 21.5-inch          | 2        | 1.47%   |
+| Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch           | 3        | 2.21%   |
+| ViewSonic VA2246 SERIES VSC6F2E 1920x1080 480x270mm 21.7-inch          | 2        | 1.47%   |
 | Samsung Electronics SA300/SA350 SAM078A 1366x768 410x230mm 18.5-inch   | 2        | 1.47%   |
 | Samsung Electronics LCD Monitor SAM0A7D 1920x1080 1060x626mm 48.5-inch | 2        | 1.47%   |
 | Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch   | 2        | 1.47%   |
-| Samsung Electronics LCD Monitor SAM04FD 1280x720                       | 2        | 1.47%   |
+| Samsung Electronics LCD Monitor SAM04FD 1360x768                       | 2        | 1.47%   |
 | Samsung Electronics C27F591 SAM0D36 1920x1080 600x340mm 27.2-inch      | 2        | 1.47%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 2        | 1.47%   |
 | Hewlett-Packard LA1951 HWP285A 1280x1024 380x300mm 19.1-inch           | 2        | 1.47%   |
@@ -2084,8 +2086,8 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 40       | 32%     |
-| 151-200        | 28       | 22.4%   |
+| 201-250        | 42       | 33.6%   |
+| 151-200        | 26       | 20.8%   |
 | 141-150        | 17       | 13.6%   |
 | Unknown        | 11       | 8.8%    |
 | 351-500        | 10       | 8%      |
@@ -2123,9 +2125,9 @@ Total monitors connected
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 122      | 87.77%  |
+| 1     | 123      | 88.49%  |
 | 2     | 13       | 9.35%   |
-| 0     | 3        | 2.16%   |
+| 0     | 2        | 1.44%   |
 | 3     | 1        | 0.72%   |
 
 Network
@@ -2189,8 +2191,8 @@ Controller models
 | Microsoft Xbox 360 Wireless Adapter                                    | 2        | 1.03%   |
 | Intel Wireless 7265                                                    | 2        | 1.03%   |
 | Intel 82567V-4 Gigabit Network Connection                              | 2        | 1.03%   |
-| Huawei ANE-LX1                                                         | 2        | 1.03%   |
-| ZTE WCDMA MSM ZTE BLADE A530                                           | 1        | 0.52%   |
+| Huawei LLD-L21                                                         | 2        | 1.03%   |
+| ZTE WCDMA MSM Android                                                  | 1        | 0.52%   |
 | TP-Link USB 10/100 LAN                                                 | 1        | 0.52%   |
 | TP-Link TL-WN8200ND [Realtek RTL8192CU]                                | 1        | 0.52%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                 | 1        | 0.52%   |
@@ -2316,8 +2318,8 @@ Ethernet models
 | Intel 82578DC Gigabit Network Connection                          | 3        | 2.04%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 2        | 1.36%   |
 | Intel 82567V-4 Gigabit Network Connection                         | 2        | 1.36%   |
-| Huawei ANE-LX1                                                    | 2        | 1.36%   |
-| ZTE WCDMA MSM ZTE BLADE A530                                      | 1        | 0.68%   |
+| Huawei LLD-L21                                                    | 2        | 1.36%   |
+| ZTE WCDMA MSM Android                                             | 1        | 0.68%   |
 | TP-Link USB 10/100 LAN                                            | 1        | 0.68%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.68%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 0.68%   |
@@ -2560,7 +2562,7 @@ Memory module models
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s             | 3        | 3.3%    |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s            | 2        | 2.2%    |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s            | 2        | 2.2%    |
-| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s            | 2        | 2.2%    |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s               | 2        | 2.2%    |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s             | 2        | 2.2%    |
 | Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s            | 2        | 2.2%    |
 | Kingston RAM CL16-18-18 D4-3200 8GB DIMM DDR4 3200MT/s          | 2        | 2.2%    |
@@ -2576,15 +2578,15 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 800MT/s                             | 1        | 1.1%    |
 | Unknown (0x7FA8000000000000) RAM Module 512MB DIMM DDR2 533MT/s | 1        | 1.1%    |
 | Unknown (0x7F7FB5FFFFFFFFFF) RAM Module 512MB DIMM DDR2 533MT/s | 1        | 1.1%    |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3733MT/s             | 1        | 1.1%    |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s             | 1        | 1.1%    |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3733MT/s              | 1        | 1.1%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s              | 1        | 1.1%    |
 | SK hynix RAM Module 2GB DIMM DDR3 1066MT/s                      | 1        | 1.1%    |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s            | 1        | 1.1%    |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                     | 1        | 1.1%    |
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                       | 1        | 1.1%    |
 | Samsung RAM Module 16GB DIMM DDR4 2400MT/s                      | 1        | 1.1%    |
 | Samsung RAM M471B5273DH0-CK0 4GB DIMM DDR3 1333MT/s             | 1        | 1.1%    |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s                  | 1        | 1.1%    |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s             | 1        | 1.1%    |
 | Samsung RAM M378B5673EH1-CF8 2GB DIMM DDR3 1067MT/s             | 1        | 1.1%    |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM 2200MT/s                  | 1        | 1.1%    |
 | Samsung RAM M378B5173EB0 4096MB DIMM DDR3 1600MT/s              | 1        | 1.1%    |
@@ -2664,8 +2666,8 @@ Memory module speed
 | 2400    | 4        | 4.88%   |
 | 3600    | 3        | 3.66%   |
 | 3400    | 3        | 3.66%   |
-| 2667    | 3        | 3.66%   |
 | 3534    | 2        | 2.44%   |
+| 2667    | 2        | 2.44%   |
 | 1800    | 2        | 2.44%   |
 | 800     | 2        | 2.44%   |
 | 533     | 2        | 2.44%   |
@@ -2674,6 +2676,7 @@ Memory module speed
 | 3733    | 1        | 1.22%   |
 | 3151    | 1        | 1.22%   |
 | 3100    | 1        | 1.22%   |
+| 3000    | 1        | 1.22%   |
 | 2733    | 1        | 1.22%   |
 | 2448    | 1        | 1.22%   |
 | 2200    | 1        | 1.22%   |
@@ -2786,16 +2789,16 @@ Camera device models
 |---------------------------------------------------------------------|----------|---------|
 | Generalplus GENERAL WEBCAM                                          | 3        | 10%     |
 | Microsoft MicrosoftÂ LifeCam HD-6000 for Notebooks                 | 2        | 6.67%   |
-| Microdia USB 2.0 Camera                                             | 2        | 6.67%   |
+| Microdia PC-LM1E                                                    | 2        | 6.67%   |
 | Microdia Camera                                                     | 2        | 6.67%   |
-| Logitech HD Pro Webcam C920                                         | 2        | 6.67%   |
+| Logitech C920 PRO HD Webcam                                         | 2        | 6.67%   |
 | Cubeternet EtronTech CMOS based eSP570 WebCam [Onyx Titanium TC101] | 2        | 6.67%   |
 | Z-Star Venus USB2.0 Camera                                          | 1        | 3.33%   |
 | Z-Star Sirius USB2.0 Camera                                         | 1        | 3.33%   |
 | Z-Star Integrated Camera                                            | 1        | 3.33%   |
 | Z-Star A4 TECH USB2.0 PC Camera E                                   | 1        | 3.33%   |
 | Xiongmai web camera                                                 | 1        | 3.33%   |
-| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 3.33%   |
+| Samsung Galaxy A5 (MTP)                                             | 1        | 3.33%   |
 | Realtek Laptop_Integrated_Webcam_FHD                                | 1        | 3.33%   |
 | Microsoft MicrosoftÂ LifeCam Cinema                                | 1        | 3.33%   |
 | Microsoft LifeCam Cinema                                            | 1        | 3.33%   |

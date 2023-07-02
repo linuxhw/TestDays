@@ -876,12 +876,12 @@ Hard drive models
 | Samsung SSD 850 EVO 500GB                           | 1         | 2.08%   |
 | Samsung SSD 850 EVO 250GB                           | 1         | 2.08%   |
 | Samsung NVMe SSD Drive 1TB                          | 1         | 2.08%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 1         | 2.08%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 2.08%   |
 | Samsung HS08XJC 80GB                                | 1         | 2.08%   |
 | Plextor PX-1TM6Pro 1024GB SSD                       | 1         | 2.08%   |
 | Phison PM8512GPTCB4B8TF-E13T4 512GB                 | 1         | 2.08%   |
 | Mushkin MKNSSDRE250GB-LT                            | 1         | 2.08%   |
-| JMicron Generic 320GB                               | 1         | 2.08%   |
+| JMicron Generic 240GB                               | 1         | 2.08%   |
 | Intel SSDSC2BF180A4H 180GB                          | 1         | 2.08%   |
 | Hitachi HTS545050A7E380 500GB                       | 1         | 2.08%   |
 | HGST HTS721010A9E630 1TB                            | 1         | 2.08%   |
@@ -918,18 +918,17 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 6         | 8      | 28.57%  |
-| SanDisk             | 3         | 3      | 14.29%  |
-| Crucial             | 2         | 4      | 9.52%   |
-| A-DATA Technology   | 2         | 2      | 9.52%   |
-| WDC                 | 1         | 1      | 4.76%   |
-| Transcend           | 1         | 1      | 4.76%   |
-| Plextor             | 1         | 1      | 4.76%   |
-| Mushkin             | 1         | 1      | 4.76%   |
-| JMicron Technology  | 1         | 1      | 4.76%   |
-| Intel               | 1         | 1      | 4.76%   |
-| BIWIN               | 1         | 1      | 4.76%   |
-| Apple               | 1         | 1      | 4.76%   |
+| Samsung Electronics | 6         | 8      | 30%     |
+| SanDisk             | 3         | 3      | 15%     |
+| Crucial             | 2         | 4      | 10%     |
+| A-DATA Technology   | 2         | 2      | 10%     |
+| WDC                 | 1         | 1      | 5%      |
+| Transcend           | 1         | 1      | 5%      |
+| Plextor             | 1         | 1      | 5%      |
+| Mushkin             | 1         | 1      | 5%      |
+| Intel               | 1         | 1      | 5%      |
+| BIWIN               | 1         | 1      | 5%      |
+| Apple               | 1         | 1      | 5%      |
 
 Drive Kind
 ----------
@@ -941,10 +940,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 17        | 25     | 39.53%  |
-| NVMe | 15        | 18     | 34.88%  |
-| HDD  | 7         | 7      | 16.28%  |
-| MMC  | 4         | 4      | 9.3%    |
+| SSD  | 17        | 24     | 38.64%  |
+| NVMe | 16        | 19     | 36.36%  |
+| HDD  | 7         | 7      | 15.91%  |
+| MMC  | 4         | 4      | 9.09%   |
 
 Drive Connector
 ---------------
@@ -971,7 +970,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 16        | 24     | 69.57%  |
+| 0.01-0.5   | 16        | 23     | 69.57%  |
 | 0.51-1.0   | 5         | 5      | 21.74%  |
 | 1.01-2.0   | 2         | 3      | 8.7%    |
 
@@ -1485,7 +1484,7 @@ Monitor models
 | Grundig WUXGA GRU4448 1920x1080                                           | 1         | 2.27%   |
 | Goldstar IPS231 GSM5817 1920x1080 510x290mm 23.1-inch                     | 1         | 2.27%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 2.27%   |
-| Chimei Innolux LCD Monitor CMN15BD 1366x768 344x193mm 15.5-inch           | 1         | 2.27%   |
+| Chimei Innolux LCD Monitor CMN15BD 1366x768 344x194mm 15.5-inch           | 1         | 2.27%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch           | 1         | 2.27%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.27%   |
 | BOE LCD Monitor BOE0877 1920x1080 309x173mm 13.9-inch                     | 1         | 2.27%   |
@@ -1498,7 +1497,7 @@ Monitor models
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                         | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO713C 1366x768 309x173mm 13.9-inch             | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO10ED 1920x1080 344x193mm 15.5-inch            | 1         | 2.27%   |
-| ASUSTek Computer VP249 AUS24AF 1920x1080 527x296mm 23.8-inch              | 1         | 2.27%   |
+| ASUSTek Computer VP249 AUS24AF 1920x1080 530x300mm 24.0-inch              | 1         | 2.27%   |
 | Apple Color LCD APPA034 2880x1800 286x179mm 13.3-inch                     | 1         | 2.27%   |
 | Apple Color LCD APPA027 2304x1440 259x162mm 12.0-inch                     | 1         | 2.27%   |
 | Apple Color LCD APP9CDF 1440x900 286x179mm 13.3-inch                      | 1         | 2.27%   |
@@ -1689,7 +1688,7 @@ Controller models
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter                        | 1         | 1.41%   |
 | Qualcomm Atheros AR9271 802.11n                                               | 1         | 1.41%   |
 | Qualcomm Atheros AR2413/AR2414 Wireless Network Adapter [AR5005G(S) 802.11bg] | 1         | 1.41%   |
-| OPPO SM8350-MTP _SN:1518BD09                                                  | 1         | 1.41%   |
+| OPPO CPH2411                                                                  | 1         | 1.41%   |
 | MediaTek WiFi                                                                 | 1         | 1.41%   |
 | Intel Wireless 8265 / 8275                                                    | 1         | 1.41%   |
 | Intel Gemini Lake PCH CNVi WiFi                                               | 1         | 1.41%   |
@@ -1790,7 +1789,7 @@ Ethernet models
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 3         | 10%     |
 | Intel Ethernet Connection I217-LM                                 | 2         | 6.67%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 2         | 6.67%   |
-| OPPO SM8350-MTP _SN:1518BD09                                      | 1         | 3.33%   |
+| OPPO CPH2411                                                      | 1         | 3.33%   |
 | Intel Ethernet Connection I218-V                                  | 1         | 3.33%   |
 | Intel Ethernet Connection (4) I219-V                              | 1         | 3.33%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1         | 3.33%   |
@@ -1889,7 +1888,7 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                   | 2         | 6.45%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                | 2         | 6.45%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)       | 2         | 6.45%   |
-| Apple Bluetooth Host Controller                      | 2         | 6.45%   |
+| Apple Bluetooth USB Host Controller                  | 2         | 6.45%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter              | 1         | 3.23%   |
 | Realtek RTL8723B Bluetooth                           | 1         | 3.23%   |
 | Qualcomm Atheros Dell Wireless 1802 Bluetooth 4.0 LE | 1         | 3.23%   |
@@ -1897,7 +1896,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)  | 1         | 3.23%   |
 | Broadcom HP Portable Valentine                       | 1         | 3.23%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                   | 1         | 3.23%   |
-| Apple Bluetooth USB Host Controller                  | 1         | 3.23%   |
+| Apple Bluetooth Host Controller                      | 1         | 3.23%   |
 
 Sound
 -----
@@ -1989,8 +1988,8 @@ Memory module models
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                | 1         | 6.25%   |
 | Unknown RAM Module 16384MB 2133MT/s                        | 1         | 6.25%   |
 | Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s         | 1         | 6.25%   |
-| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s          | 1         | 6.25%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 6.25%   |
+| Toshiba RAM 64T128020EDL2.5C2 1GB SODIMM 1066MT/s          | 1         | 6.25%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 6.25%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s     | 1         | 6.25%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 6.25%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 6.25%   |
@@ -2105,7 +2104,7 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Realtek Semiconductor                  | 5         | 16.13%  |
-| Bison Electronics                      | 5         | 16.13%  |
+| Bison Electronics                      | 4         | 12.9%   |
 | Alcor Micro                            | 4         | 12.9%   |
 | Sunplus Innovation Technology          | 3         | 9.68%   |
 | Chicony Electronics                    | 3         | 9.68%   |
@@ -2118,6 +2117,7 @@ Camera device vendors
 | Google                                 | 1         | 3.23%   |
 | Genesys Logic                          | 1         | 3.23%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 3.23%   |
+| Acer                                   | 1         | 3.23%   |
 
 Camera Model
 ------------
@@ -2130,7 +2130,7 @@ Camera device models
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
 | Alcor Micro HD WebCam                                                      | 3         | 9.38%   |
-| Realtek USB Camera                                                         | 2         | 6.25%   |
+| Realtek USB2.0 camera                                                      | 2         | 6.25%   |
 | Chicony HD User Facing                                                     | 2         | 6.25%   |
 | Bison SunplusIT INC. Integrated Camera                                     | 2         | 6.25%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X                                            | 2         | 6.25%   |
@@ -2150,10 +2150,10 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD integrated webcam | 1         | 3.13%   |
 | Bison SunplusIT Integrated Camera                                          | 1         | 3.13%   |
 | Bison Lenovo EasyCamera                                                    | 1         | 3.13%   |
-| Bison BisonCam, NB Pro                                                     | 1         | 3.13%   |
 | Apple iBridge                                                              | 1         | 3.13%   |
 | Apple Built-in iSight                                                      | 1         | 3.13%   |
 | Alcor Micro HP Webcam-101                                                  | 1         | 3.13%   |
+| Acer BisonCam, NB Pro                                                      | 1         | 3.13%   |
 | Unknown                                                                    | 1         | 3.13%   |
 
 Security

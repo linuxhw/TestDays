@@ -1139,7 +1139,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Dell LCD Monitor DEL0001 1280x1024                                    | 6        | 66.67%  |
 | Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1        | 11.11%  |
-| Goldstar LG HDR WFHD GSM7715 2560x1080 800x340mm 34.2-inch            | 1        | 11.11%  |
+| Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1        | 11.11%  |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1        | 11.11%  |
 
 Monitor Resolution

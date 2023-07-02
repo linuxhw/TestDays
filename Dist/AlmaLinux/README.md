@@ -157,10 +157,19 @@ Contents
 Test Cases
 ----------
 
-Total: 196
+Total: 205
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASRockRack    | X470D4U2-2T                 | Desktop     | [70ed50862c](https://linux-hardware.org/?probe=70ed50862c) | Jun 30, 2023 |
+| Supermicro    | H12SSL-i                    | Server      | [52b4c086dc](https://linux-hardware.org/?probe=52b4c086dc) | Jun 30, 2023 |
+| Dell          | Inspiron 5555               | Notebook    | [7c07dbad40](https://linux-hardware.org/?probe=7c07dbad40) | Jun 29, 2023 |
+| Supermicro    | H12SSL-i                    | Server      | [c7e845c965](https://linux-hardware.org/?probe=c7e845c965) | Jun 26, 2023 |
+| ASRockRack    | X470D4U2-2T                 | Desktop     | [f36489e090](https://linux-hardware.org/?probe=f36489e090) | Jun 26, 2023 |
+| Supermicro    | H12SSL-i                    | Server      | [d56f78f3ca](https://linux-hardware.org/?probe=d56f78f3ca) | Jun 25, 2023 |
+| ASRockRack    | X470D4U2-2T                 | Desktop     | [cf3b44c0b6](https://linux-hardware.org/?probe=cf3b44c0b6) | Jun 25, 2023 |
+| Supermicro    | H12SSL-i                    | Server      | [2256046a01](https://linux-hardware.org/?probe=2256046a01) | Jun 11, 2023 |
+| ASRockRack    | X470D4U2-2T                 | Desktop     | [8738063b30](https://linux-hardware.org/?probe=8738063b30) | Jun 11, 2023 |
 | Supermicro    | H12SSL-i                    | Server      | [15fb7b8736](https://linux-hardware.org/?probe=15fb7b8736) | Jun 10, 2023 |
 | ASRockRack    | X470D4U2-2T                 | Desktop     | [8e10de95af](https://linux-hardware.org/?probe=8e10de95af) | Jun 10, 2023 |
 | Maibenben     | MaiBook X series            | Notebook    | [5ca7ad5fb0](https://linux-hardware.org/?probe=5ca7ad5fb0) | Jun 07, 2023 |
@@ -1091,48 +1100,48 @@ Hard drive models
 ![Drive Model](./All/images/pie_chart/drive_model.svg)
 
 
-| Model                                             | Computers | Percent |
-|---------------------------------------------------|-----------|---------|
-| WDC WD10SPZX-24Z10 1TB                            | 2         | 1.77%   |
-| WDC WD10EZEX-08WN4A0 1TB                          | 2         | 1.77%   |
-| Samsung MZVL22T0HBLB-00BL7 2TB                    | 2         | 1.77%   |
-| Kingston Company KC2000 NVMe SSD 1TB              | 2         | 1.77%   |
-| Kingston Company A2000 NVMe SSD 500GB             | 2         | 1.77%   |
-| Kingston SA400S37480G 480GB SSD                   | 2         | 1.77%   |
-| Crucial CT240BX500SSD1 240GB                      | 2         | 1.77%   |
-| WDC WDS100T2B0B-00YS70 1TB SSD                    | 1         | 0.88%   |
-| WDC WDS100T2B0A-00SM50 1TB SSD                    | 1         | 0.88%   |
-| WDC WD5000LPCX-21VHAT0 500GB                      | 1         | 0.88%   |
-| WDC WD20EARS-00J2GB0 2TB                          | 1         | 0.88%   |
-| WDC WD10SPZX-60Z10T1 1TB                          | 1         | 0.88%   |
-| WDC WD10SPZX-60Z10T0 1TB                          | 1         | 0.88%   |
-| WDC WD10JPVX-00JC3T0 1TB                          | 1         | 0.88%   |
-| WDC WD10EZEX-75M2NA0 1TB                          | 1         | 0.88%   |
-| WDC WD10EZEX-00KUWA0 1TB                          | 1         | 0.88%   |
-| WDC PC SN730 SDBQNTY-256G-1001 256GB              | 1         | 0.88%   |
-| WDC PC SN530 SDBPMPZ-512G-1101 512GB              | 1         | 0.88%   |
-| Unknown SD64G  64GB                               | 1         | 0.88%   |
-| Unknown SD/MMC/MS PRO 64GB                        | 1         | 0.88%   |
-| Unknown MMC Card  16GB                            | 1         | 0.88%   |
-| Unknown EC2QT  64GB                               | 1         | 0.88%   |
-| Union Memory UMIS RPITJ512VME2OWD 512GB           | 1         | 0.88%   |
-| Transcend TS256GMTE220S 256GB                     | 1         | 0.88%   |
-| Toshiba MK6475GSX 640GB                           | 1         | 0.88%   |
-| Toshiba MG06ACA800E 8TB                           | 1         | 0.88%   |
-| Toshiba DT01ACA100 1TB                            | 1         | 0.88%   |
-| Team T253X1480G 480GB SSD                         | 1         | 0.88%   |
-| SSSTC CL1-3D256 256GB                             | 1         | 0.88%   |
-| SK hynix SH920 2.5 7MM 256GB SSD                  | 1         | 0.88%   |
-| SK hynix PC300 NVMe Solid State Drive 256GB       | 1         | 0.88%   |
-| SK hynix NVMe SSD Drive 256GB                     | 1         | 0.88%   |
-| SK hynix BC511 NVMe 256GB                         | 1         | 0.88%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1         | 0.88%   |
-| Seagate ST4000NM000A 00MX141 00MX141LEN 4TB       | 1         | 0.88%   |
-| Seagate ST4000NC001-1FS168 4TB                    | 1         | 0.88%   |
-| Seagate ST4000DM000-1F2168 4TB                    | 1         | 0.88%   |
-| Seagate ST31000528AS 1TB                          | 1         | 0.88%   |
-| Seagate ST3000DM001-1CH166 3TB                    | 1         | 0.88%   |
-| Seagate ST250LM004 HN-M250MBB 250GB               | 1         | 0.88%   |
+| Model                                               | Computers | Percent |
+|-----------------------------------------------------|-----------|---------|
+| WDC WD10SPZX-24Z10 1TB                              | 2         | 1.77%   |
+| WDC WD10EZEX-08WN4A0 1TB                            | 2         | 1.77%   |
+| Samsung MZVL22T0HBLB-00BL7 2TB                      | 2         | 1.77%   |
+| Kingston Company KC2000 NVMe SSD 1TB                | 2         | 1.77%   |
+| Kingston Company A2000 NVMe SSD 250GB               | 2         | 1.77%   |
+| Kingston SA400S37480G 480GB SSD                     | 2         | 1.77%   |
+| Crucial CT240BX500SSD1 240GB                        | 2         | 1.77%   |
+| WDC WDS100T2B0B-00YS70 1TB SSD                      | 1         | 0.88%   |
+| WDC WDS100T2B0A-00SM50 1TB SSD                      | 1         | 0.88%   |
+| WDC WD5000LPCX-21VHAT0 500GB                        | 1         | 0.88%   |
+| WDC WD20EARS-00J2GB0 2TB                            | 1         | 0.88%   |
+| WDC WD10SPZX-60Z10T1 1TB                            | 1         | 0.88%   |
+| WDC WD10SPZX-60Z10T0 1TB                            | 1         | 0.88%   |
+| WDC WD10JPVX-00JC3T0 1TB                            | 1         | 0.88%   |
+| WDC WD10EZEX-75M2NA0 1TB                            | 1         | 0.88%   |
+| WDC WD10EZEX-00KUWA0 1TB                            | 1         | 0.88%   |
+| WDC PC SN730 SDBQNTY-256G-1001 256GB                | 1         | 0.88%   |
+| WDC PC SN530 SDBPMPZ-512G-1101 512GB                | 1         | 0.88%   |
+| Unknown SD64G  64GB                                 | 1         | 0.88%   |
+| Unknown SD/MMC/MS PRO 250GB                         | 1         | 0.88%   |
+| Unknown MMC Card  16GB                              | 1         | 0.88%   |
+| Unknown EC2QT  64GB                                 | 1         | 0.88%   |
+| Union Memory UMIS RPITJ512VME2OWD 512GB             | 1         | 0.88%   |
+| Transcend TS256GMTE220S 256GB                       | 1         | 0.88%   |
+| Toshiba MK6475GSX 640GB                             | 1         | 0.88%   |
+| Toshiba MG06ACA800E 8TB                             | 1         | 0.88%   |
+| Toshiba DT01ACA100 1TB                              | 1         | 0.88%   |
+| Team T253X1480G 480GB SSD                           | 1         | 0.88%   |
+| SSSTC CL1-3D256 256GB                               | 1         | 0.88%   |
+| SK hynix SH920 2.5 7MM 256GB SSD                    | 1         | 0.88%   |
+| SK hynix PC300 NVMe Solid State Drive 256GB         | 1         | 0.88%   |
+| SK hynix NVMe SSD Drive 256GB                       | 1         | 0.88%   |
+| SK hynix BC511 NVMe 256GB                           | 1         | 0.88%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 1         | 0.88%   |
+| Seagate ST4000NM000A 00MX141 00MX141LEN 4TB         | 1         | 0.88%   |
+| Seagate ST4000NC001-1FS168 4TB                      | 1         | 0.88%   |
+| Seagate ST4000DM000-1F2168 4TB                      | 1         | 0.88%   |
+| Seagate ST31000528AS 1TB                            | 1         | 0.88%   |
+| Seagate ST3000DM001-1CH166 3TB                      | 1         | 0.88%   |
+| Seagate ST250LM004 HN-M250MBB 250GB                 | 1         | 0.88%   |
 
 HDD Vendor
 ----------
@@ -1226,8 +1235,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 28        | 35     | 44.44%  |
-| 0.51-1.0   | 22        | 35     | 34.92%  |
-| 1.01-2.0   | 6         | 12     | 9.52%   |
+| 0.51-1.0   | 23        | 37     | 36.51%  |
+| 1.01-2.0   | 5         | 10     | 7.94%   |
 | 3.01-4.0   | 3         | 3      | 4.76%   |
 | 4.01-10.0  | 3         | 11     | 4.76%   |
 | 2.01-3.0   | 1         | 1      | 1.59%   |
@@ -1427,13 +1436,13 @@ Storage controller models
 | Intel 500 Series Chipset Family SATA AHCI Controller                           | 2         | 1.92%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 2         | 1.92%   |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                           | 1         | 0.96%   |
-| Solid State Storage Non-Volatile memory controller                             | 1         | 0.96%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 1         | 0.96%   |
 | SK hynix PC300 NVMe Solid State Drive 256GB                                    | 1         | 0.96%   |
-| SK hynix BC511                                                                 | 1         | 0.96%   |
+| SK hynix BC511 NVMe SSD                                                        | 1         | 0.96%   |
 | Seagate FireCuda 530 SSD                                                       | 1         | 0.96%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 1         | 0.96%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.96%   |
-| SanDisk NVMe Controller                                                        | 1         | 0.96%   |
+| SanDisk PC SN530 NVMe SSD                                                      | 1         | 0.96%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.96%   |
 | Red Hat Virtio 1.0 SCSI                                                        | 1         | 0.96%   |
 | Phison E12 NVMe Controller                                                     | 1         | 0.96%   |
@@ -1444,7 +1453,7 @@ Storage controller models
 | Marvell Group 88SE9230 PCIe 2.0 x2 4-port SATA 6 Gb/s RAID Controller          | 1         | 0.96%   |
 | LSI Logic / Symbios Logic SAS3008 PCI-Express Fusion-MPT SAS-3                 | 1         | 0.96%   |
 | LSI Logic / Symbios Logic MegaRAID SAS 2108 [Liberator]                        | 1         | 0.96%   |
-| Kingston Company Company Non-Volatile memory controller                        | 1         | 0.96%   |
+| Kingston Company SNVS2000G [NV1 NVMe PCIe SSD 2TB]                             | 1         | 0.96%   |
 
 Storage Kind
 ------------
@@ -1880,8 +1889,8 @@ Monitor models
 
 | Model                                                                    | Computers | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| AU Optronics LCD Monitor AUO203D 1920x1080 309x174mm 14.0-inch           | 2         | 3.7%    |
-| ViewSonic VX2233wm-1 VSC1D22 1920x1080 477x268mm 21.5-inch               | 1         | 1.85%   |
+| AU Optronics LCD Monitor AUO203D 1920x1080 309x173mm 13.9-inch           | 2         | 3.7%    |
+| ViewSonic VX2233wm-1 VSC1D22 1920x1080 480x270mm 21.7-inch               | 1         | 1.85%   |
 | ViewSonic VA2232 Series VSC8224 1680x1050 470x300mm 22.0-inch            | 1         | 1.85%   |
 | TopView HD TV TOPC37E 1920x1080 700x390mm 31.5-inch                      | 1         | 1.85%   |
 | STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                        | 1         | 1.85%   |
@@ -1890,7 +1899,7 @@ Monitor models
 | Seiki SC32HT04 SEK1366 1366x768 700x390mm 31.5-inch                      | 1         | 1.85%   |
 | Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch     | 1         | 1.85%   |
 | Samsung Electronics S27H65x SAM0E1D 1920x1080 598x336mm 27.0-inch        | 1         | 1.85%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch     | 1         | 1.85%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch     | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 223x125mm 10.1-inch     | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SDC4142 3840x2160 294x165mm 13.3-inch    | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SDC4141 3840x2160 344x194mm 15.5-inch    | 1         | 1.85%   |
@@ -2018,8 +2027,8 @@ Area in inch²
 |----------------|-----------|---------|
 | 101-110        | 14        | 25.93%  |
 | 81-90          | 9         | 16.67%  |
-| 151-200        | 7         | 12.96%  |
-| 201-250        | 6         | 11.11%  |
+| 201-250        | 7         | 12.96%  |
+| 151-200        | 6         | 11.11%  |
 | 351-500        | 5         | 9.26%   |
 | 121-130        | 4         | 7.41%   |
 | 71-80          | 3         | 5.56%   |
@@ -2253,7 +2262,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                         | 1         | 1.39%   |
 | Mellanox MT28800 Family [ConnectX-5 Ex]                               | 1         | 1.39%   |
 | Mellanox MT26448 [ConnectX EN 10GigE, PCIe 2.0 5GT/s]                 | 1         | 1.39%   |
-| MediaTek CPH2211                                                      | 1         | 1.39%   |
+| MediaTek WP15                                                         | 1         | 1.39%   |
 | Intel Ethernet Controller I225-V                                      | 1         | 1.39%   |
 | Intel Ethernet Connection I219-V                                      | 1         | 1.39%   |
 | Intel Ethernet Connection I219-LM                                     | 1         | 1.39%   |
@@ -2273,7 +2282,7 @@ Ethernet models
 | Broadcom Limited NetXtreme II BCM5709 Gigabit Ethernet                | 1         | 1.39%   |
 | Broadcom Limited NetLink BCM57780 Gigabit Ethernet PCIe               | 1         | 1.39%   |
 | Broadcom BCM57416 NetXtreme-E Dual-Media 10G RDMA Ethernet Controller | 1         | 1.39%   |
-| American Megatrends Virtual Ethernet                                  | 1         | 1.39%   |
+| American Megatrends Virtual Ethernet.                                 | 1         | 1.39%   |
 
 Net Controller Kind
 -------------------
@@ -2498,7 +2507,7 @@ Memory module models
 | Timetec RAM SD3-1600 8GB SODIMM DDR3 1600MT/s                    | 1         | 1.75%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.75%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.75%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s        | 1         | 1.75%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 1.75%   |
 | SK hynix RAM HMAA8GR7CJR4N-XN 64GB DIMM DDR4 3200MT/s            | 1         | 1.75%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s     | 1         | 1.75%   |
 | SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s             | 1         | 1.75%   |
@@ -2682,9 +2691,9 @@ Camera device models
 | SunplusIT HD Webcam                                                      | 1         | 2.7%    |
 | Realtek Integrated Webcam HD                                             | 1         | 2.7%    |
 | Realtek EasyCamera                                                       | 1         | 2.7%    |
+| Microdia REDRAGON Live Camera Audio                                      | 1         | 2.7%    |
 | Microdia Integrated_Webcam_HD                                            | 1         | 2.7%    |
 | Microdia Integrated Webcam HD                                            | 1         | 2.7%    |
-| Microdia CameraA                                                         | 1         | 2.7%    |
 | Luxvisions Innotech Limited HP TrueVision HD Camera                      | 1         | 2.7%    |
 | Luxvisions Innotech Limited HP HD Camera                                 | 1         | 2.7%    |
 | Logitech Webcam C120                                                     | 1         | 2.7%    |

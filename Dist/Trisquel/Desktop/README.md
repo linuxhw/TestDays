@@ -705,7 +705,7 @@ Hard drive models
 | Seagate ST1000DM003-9YN162 1TB   | 1        | 6.67%   |
 | Samsung SSD 860 EVO 500GB        | 1        | 6.67%   |
 | Samsung MZVLW256HEHP-000H1 256GB | 1        | 6.67%   |
-| NFHK USB 3.0 32GB                | 1        | 6.67%   |
+| NFHK USB 3.0 120GB               | 1        | 6.67%   |
 | Kingston SA400S37240G 240GB SSD  | 1        | 6.67%   |
 | China SSD 512GB                  | 1        | 6.67%   |
 
@@ -1219,7 +1219,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0216 1280x1024 338x270mm 17.0-inch  | 1        | 8.33%   |
 | Samsung Electronics SMC27A550U SAM07F6 1920x1080 598x336mm 27.0-inch  | 1        | 8.33%   |
 | Plain Tree Systems Monitor PTS076D 1280x1024 376x301mm 19.0-inch      | 1        | 8.33%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 1        | 8.33%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch               | 1        | 8.33%   |
 | Dell E151FPp DEL7006 1024x768 304x228mm 15.0-inch                     | 1        | 8.33%   |
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                       | 1        | 8.33%   |
 | Ancor Communications ASUS VS229 ACI22D3 1920x1080 475x267mm 21.5-inch | 1        | 8.33%   |
@@ -1369,10 +1369,10 @@ Controller models
 | Nvidia MCP61 Ethernet                                               | 2        | 11.11%  |
 | Ralink RT2870/RT3070 Wireless Adapter                               | 1        | 5.56%   |
 | Ralink MT7601U Wireless Adapter                                     | 1        | 5.56%   |
-| Qualcomm Redmi Note 9 Pro                                           | 1        | 5.56%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller           | 1        | 5.56%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 1        | 5.56%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1        | 5.56%   |
+| Qualcomm Android                                                    | 1        | 5.56%   |
 | Intel Ethernet Connection (5) I219-LM                               | 1        | 5.56%   |
 | Intel 82574L Gigabit Network Connection                             | 1        | 5.56%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                     | 1        | 5.56%   |
@@ -1438,9 +1438,9 @@ Ethernet models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4        | 33.33%  |
 | Nvidia MCP61 Ethernet                                             | 2        | 16.67%  |
-| Qualcomm Redmi Note 9 Pro                                         | 1        | 8.33%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 8.33%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 8.33%   |
+| Qualcomm Android                                                  | 1        | 8.33%   |
 | Intel Ethernet Connection (5) I219-LM                             | 1        | 8.33%   |
 | Intel 82574L Gigabit Network Connection                           | 1        | 8.33%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 8.33%   |
@@ -1608,7 +1608,7 @@ Memory module models
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s                      | 1        | 7.69%   |
 | Samsung RAM Module 4096MB DIMM DDR4 2400MT/s                              | 1        | 7.69%   |
 | Samsung RAM Module 4096MB DIMM DDR3 1066MT/s                              | 1        | 7.69%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s                       | 1        | 7.69%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s                    | 1        | 7.69%   |
 | PNY RAM Module 4096MB DIMM DDR3 1066MT/s                                  | 1        | 7.69%   |
 | Micron RAM Module 2048MB DIMM DDR3 1066MT/s                               | 1        | 7.69%   |
 | Micron RAM 36JSF1G72PZ-1 8192MB DIMM DDR3 1866MT/s                        | 1        | 7.69%   |

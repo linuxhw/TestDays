@@ -779,12 +779,12 @@ Hard drive models
 | SanDisk sandisk120 120GB SSD                       | 1        | 2.78%   |
 | Samsung SSD 860 EVO 500GB                          | 1        | 2.78%   |
 | Samsung SSD 850 EVO 120GB                          | 1        | 2.78%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 1        | 2.78%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB | 1        | 2.78%   |
 | Samsung HD250HJ 250GB                              | 1        | 2.78%   |
 | Samsung HD162GJ 160GB                              | 1        | 2.78%   |
 | Samsung HD160JJ 160GB                              | 1        | 2.78%   |
 | Samsung HD080HJ/ 80GB                              | 1        | 2.78%   |
-| Micron/Crucial P1 NVMe PCIe SSD 500GB              | 1        | 2.78%   |
+| Micron/Crucial P1 NVMe PCIe SSD 1TB                | 1        | 2.78%   |
 | Micron/Crucial CT2000P5PSSD8 2TB                   | 1        | 2.78%   |
 | Maxtor Z1 SSD 240GB                                | 1        | 2.78%   |
 | Intel SSDPEKNW010T8 1TB                            | 1        | 2.78%   |

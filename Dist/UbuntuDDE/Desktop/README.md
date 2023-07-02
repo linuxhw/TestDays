@@ -1572,7 +1572,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.5%    |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.5%    |
-| Vestel Elektronik 43UHD_LCD_TV VES3700 3840x2160 950x540mm 43.0-inch   | 1        | 2.5%    |
+| Vestel Elektronik 32FHD_LCD_TV VES3700 1920x1080 700x400mm 31.7-inch   | 1        | 2.5%    |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.5%    |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.5%    |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.5%    |
@@ -1584,7 +1584,7 @@ Monitor models
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                     | 1        | 2.5%    |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 2.5%    |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch                | 1        | 2.5%    |
-| Insignia NS-32D20SNA14 BBY0032 1360x768 544x326mm 25.0-inch            | 1        | 2.5%    |
+| Insignia NS32DD200NA14 BBY0032 1680x1050 700x390mm 31.5-inch           | 1        | 2.5%    |
 | HPN LCD Monitor HP 24o 1920x1080                                       | 1        | 2.5%    |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 475x267mm 21.5-inch          | 1        | 2.5%    |
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.5%    |
@@ -1602,7 +1602,7 @@ Monitor models
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.5%    |
 | Dell LCD Monitor ST2220L                                               | 1        | 2.5%    |
 | BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                      | 1        | 2.5%    |
-| BenQ EW2775ZH BNQ7944 1920x1080 598x336mm 27.0-inch                    | 1        | 2.5%    |
+| BenQ EW2775ZH BNQ7944 1920x1080 600x340mm 27.2-inch                    | 1        | 2.5%    |
 | ASUSTek Computer VC279 AUS27C4 1920x1080 600x340mm 27.2-inch           | 1        | 2.5%    |
 | Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch       | 1        | 2.5%    |
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                  | 1        | 2.5%    |
@@ -2010,7 +2010,7 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                  | 1        | 6.67%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 6.67%   |
 | Integrated System Solution Bluetooth Device         | 1        | 6.67%   |
-| Apple Bluetooth Host Controller                     | 1        | 6.67%   |
+| Apple Bluetooth USB Host Controller                 | 1        | 6.67%   |
 
 Sound
 -----

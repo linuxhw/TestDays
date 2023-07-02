@@ -155,10 +155,14 @@ Contents
 Test Cases
 ----------
 
-Total: 79
+Total: 83
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASRockRack    | X470D4U2-2T                 | [70ed50862c](https://linux-hardware.org/?probe=70ed50862c) | Jun 30, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [f36489e090](https://linux-hardware.org/?probe=f36489e090) | Jun 26, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [cf3b44c0b6](https://linux-hardware.org/?probe=cf3b44c0b6) | Jun 25, 2023 |
+| ASRockRack    | X470D4U2-2T                 | [8738063b30](https://linux-hardware.org/?probe=8738063b30) | Jun 11, 2023 |
 | ASRockRack    | X470D4U2-2T                 | [8e10de95af](https://linux-hardware.org/?probe=8e10de95af) | Jun 10, 2023 |
 | ASRockRack    | X470D4U2-2T                 | [9c282e76a6](https://linux-hardware.org/?probe=9c282e76a6) | Jun 06, 2023 |
 | ASRockRack    | X470D4U2-2T                 | [4592ff63f3](https://linux-hardware.org/?probe=4592ff63f3) | Jun 05, 2023 |
@@ -816,48 +820,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                             | Desktops | Percent |
-|---------------------------------------------------|----------|---------|
-| WDC WD10EZEX-08WN4A0 1TB                          | 2        | 4.35%   |
-| WDC WDS100T2B0B-00YS70 1TB SSD                    | 1        | 2.17%   |
-| WDC WDS100T2B0A-00SM50 1TB SSD                    | 1        | 2.17%   |
-| WDC WD20EARS-00J2GB0 2TB                          | 1        | 2.17%   |
-| WDC WD10EZEX-75M2NA0 1TB                          | 1        | 2.17%   |
-| WDC WD10EZEX-00KUWA0 1TB                          | 1        | 2.17%   |
-| Toshiba MG06ACA800E 8TB                           | 1        | 2.17%   |
-| Toshiba DT01ACA100 1TB                            | 1        | 2.17%   |
-| Team T253X1480G 480GB SSD                         | 1        | 2.17%   |
-| SK hynix SH920 2.5 7MM 256GB SSD                  | 1        | 2.17%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 2.17%   |
-| Seagate ST4000NM000A 00MX141 00MX141LEN 4TB       | 1        | 2.17%   |
-| Seagate ST4000NC001-1FS168 4TB                    | 1        | 2.17%   |
-| Seagate ST4000DM000-1F2168 4TB                    | 1        | 2.17%   |
-| Seagate ST31000528AS 1TB                          | 1        | 2.17%   |
-| Seagate ST3000DM001-1CH166 3TB                    | 1        | 2.17%   |
-| Seagate ST2000DM001-1ER164 2TB                    | 1        | 2.17%   |
-| Seagate ST2000DL003-9VT166 2TB                    | 1        | 2.17%   |
-| Seagate ST1000NM0033-9ZM173 1TB                   | 1        | 2.17%   |
-| Seagate ST1000DM010-2EP102 1TB                    | 1        | 2.17%   |
-| Seagate ST1000DM003-9YN162 1TB                    | 1        | 2.17%   |
-| Seagate ST1000DM003-1CH162 1TB                    | 1        | 2.17%   |
-| Seagate ST10000NM0478-2H7100 10TB                 | 1        | 2.17%   |
-| Seagate Expansion 1TB                             | 1        | 2.17%   |
-| Samsung SSD 980 1TB                               | 1        | 2.17%   |
-| Samsung SSD 870 EVO 1TB                           | 1        | 2.17%   |
-| Samsung SSD 860 EVO M.2 1TB                       | 1        | 2.17%   |
-| Samsung PSSD T7 Touch 1TB                         | 1        | 2.17%   |
-| Samsung MZVLB1T0HALR-000H2 1TB                    | 1        | 2.17%   |
-| Samsung MZVL22T0HBLB-00BL7 2TB                    | 1        | 2.17%   |
-| Samsung MZ7LN256HAJQ-000L2 256GB SSD              | 1        | 2.17%   |
-| Samsung HD642JJ 640GB                             | 1        | 2.17%   |
-| QEMU HARDDISK                                     | 1        | 2.17%   |
-| Netac SSD 512GB                                   | 1        | 2.17%   |
-| LITEON CV1-8B256-HP 256GB SSD                     | 1        | 2.17%   |
-| Kingston Company A2000 NVMe SSD 500GB             | 1        | 2.17%   |
-| Kingston SV300S37A240G 240GB SSD                  | 1        | 2.17%   |
-| Kingston SNVS1000G 1TB                            | 1        | 2.17%   |
-| Kingston SKC3000S1024G 1TB                        | 1        | 2.17%   |
-| Kingston SA400S37480G 480GB SSD                   | 1        | 2.17%   |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| WDC WD10EZEX-08WN4A0 1TB                            | 2        | 4.35%   |
+| WDC WDS100T2B0B-00YS70 1TB SSD                      | 1        | 2.17%   |
+| WDC WDS100T2B0A-00SM50 1TB SSD                      | 1        | 2.17%   |
+| WDC WD20EARS-00J2GB0 2TB                            | 1        | 2.17%   |
+| WDC WD10EZEX-75M2NA0 1TB                            | 1        | 2.17%   |
+| WDC WD10EZEX-00KUWA0 1TB                            | 1        | 2.17%   |
+| Toshiba MG06ACA800E 8TB                             | 1        | 2.17%   |
+| Toshiba DT01ACA100 1TB                              | 1        | 2.17%   |
+| Team T253X1480G 480GB SSD                           | 1        | 2.17%   |
+| SK hynix SH920 2.5 7MM 256GB SSD                    | 1        | 2.17%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 1        | 2.17%   |
+| Seagate ST4000NM000A 00MX141 00MX141LEN 4TB         | 1        | 2.17%   |
+| Seagate ST4000NC001-1FS168 4TB                      | 1        | 2.17%   |
+| Seagate ST4000DM000-1F2168 4TB                      | 1        | 2.17%   |
+| Seagate ST31000528AS 1TB                            | 1        | 2.17%   |
+| Seagate ST3000DM001-1CH166 3TB                      | 1        | 2.17%   |
+| Seagate ST2000DM001-1ER164 2TB                      | 1        | 2.17%   |
+| Seagate ST2000DL003-9VT166 2TB                      | 1        | 2.17%   |
+| Seagate ST1000NM0033-9ZM173 1TB                     | 1        | 2.17%   |
+| Seagate ST1000DM010-2EP102 1TB                      | 1        | 2.17%   |
+| Seagate ST1000DM003-9YN162 1TB                      | 1        | 2.17%   |
+| Seagate ST1000DM003-1CH162 1TB                      | 1        | 2.17%   |
+| Seagate ST10000NM0478-2H7100 10TB                   | 1        | 2.17%   |
+| Seagate Expansion 1TB                               | 1        | 2.17%   |
+| Samsung SSD 980 1TB                                 | 1        | 2.17%   |
+| Samsung SSD 870 EVO 1TB                             | 1        | 2.17%   |
+| Samsung SSD 860 EVO M.2 1TB                         | 1        | 2.17%   |
+| Samsung PSSD T7 Touch 1TB                           | 1        | 2.17%   |
+| Samsung MZVLB1T0HALR-000H2 1TB                      | 1        | 2.17%   |
+| Samsung MZVL22T0HBLB-00BL7 2TB                      | 1        | 2.17%   |
+| Samsung MZ7LN256HAJQ-000L2 256GB SSD                | 1        | 2.17%   |
+| Samsung HD642JJ 640GB                               | 1        | 2.17%   |
+| QEMU HARDDISK                                       | 1        | 2.17%   |
+| Netac SSD 512GB                                     | 1        | 2.17%   |
+| LITEON CV1-8B256-HP 256GB SSD                       | 1        | 2.17%   |
+| Kingston Company A2000 NVMe SSD 250GB               | 1        | 2.17%   |
+| Kingston SV300S37A240G 240GB SSD                    | 1        | 2.17%   |
+| Kingston SNVS1000G 1TB                              | 1        | 2.17%   |
+| Kingston SKC3000S1024G 1024GB                       | 1        | 2.17%   |
+| Kingston SA400S37480G 480GB SSD                     | 1        | 2.17%   |
 
 HDD Vendor
 ----------
@@ -1110,8 +1114,8 @@ Storage controller models
 | Red Hat Virtio 1.0 SCSI                                                                 | 1        | 2.7%    |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                                    | 1        | 2.7%    |
 | LSI Logic / Symbios Logic MegaRAID SAS 2108 [Liberator]                                 | 1        | 2.7%    |
-| Kingston Company Company Non-Volatile memory controller                                 | 1        | 2.7%    |
 | Kingston Company SNVS2000G [NV1 NVMe PCIe SSD 2TB]                                      | 1        | 2.7%    |
+| Kingston Company FURY Renegade NVMe SSD                                                 | 1        | 2.7%    |
 | Kingston Company A2000 NVMe SSD                                                         | 1        | 2.7%    |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 2.7%    |
 | Intel C600/X79 series chipset SATA RAID Controller                                      | 1        | 2.7%    |
@@ -1452,7 +1456,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| ViewSonic VX2233wm-1 VSC1D22 1920x1080 477x268mm 21.5-inch           | 1        | 5.88%   |
+| ViewSonic VX2233wm-1 VSC1D22 1920x1080 480x270mm 21.7-inch           | 1        | 5.88%   |
 | ViewSonic VA2232 Series VSC8224 1680x1050 470x300mm 22.0-inch        | 1        | 5.88%   |
 | TopView HD TV TOPC37E 1920x1080 700x390mm 31.5-inch                  | 1        | 5.88%   |
 | STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 5.88%   |
@@ -1551,8 +1555,8 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 151-200        | 7        | 41.18%  |
-| 201-250        | 5        | 29.41%  |
+| 201-250        | 6        | 35.29%  |
+| 151-200        | 6        | 35.29%  |
 | 351-500        | 3        | 17.65%  |
 | 301-350        | 2        | 11.76%  |
 
@@ -2044,7 +2048,7 @@ Camera device models
 
 | Model                               | Desktops | Percent |
 |-------------------------------------|----------|---------|
-| Microdia CameraA                    | 1        | 33.33%  |
+| Microdia REDRAGON Live Camera Audio | 1        | 33.33%  |
 | Logitech Webcam B500                | 1        | 33.33%  |
 | Creative Live! Cam Chat HD [VF0700] | 1        | 33.33%  |
 

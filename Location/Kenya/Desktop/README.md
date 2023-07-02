@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 55
+Total: 56
 
 | Vendor   | Model                    | Probe                                                      | Date         |
 |----------|--------------------------|------------------------------------------------------------|--------------|
+| HP       | 3047h                    | [e60df0b6d1](https://linux-hardware.org/?probe=e60df0b6d1) | Jun 23, 2023 |
 | Unknown  | Q-790                    | [5f41d7d182](https://linux-hardware.org/?probe=5f41d7d182) | Apr 04, 2023 |
 | HP       | 3047h                    | [bdb6af834f](https://linux-hardware.org/?probe=bdb6af834f) | Feb 08, 2023 |
 | Dell     | 0C8810                   | [1df9a88e4a](https://linux-hardware.org/?probe=1df9a88e4a) | Feb 06, 2023 |
@@ -291,46 +292,46 @@ Version of the Linux kernel
 
 | Version                  | Desktops | Percent |
 |--------------------------|----------|---------|
-| 5.4.0-42-generic         | 2        | 4.76%   |
-| 5.15.0-41-generic        | 2        | 4.76%   |
-| 5.8.4-200.fc32.x86_64    | 1        | 2.38%   |
-| 5.8.13-200.fc32.x86_64   | 1        | 2.38%   |
-| 5.8.0-7642-generic       | 1        | 2.38%   |
-| 5.8.0-63-generic         | 1        | 2.38%   |
-| 5.8.0-53-generic         | 1        | 2.38%   |
-| 5.8.0-43-generic         | 1        | 2.38%   |
-| 5.4.0-7642-generic       | 1        | 2.38%   |
-| 5.4.0-37-generic         | 1        | 2.38%   |
-| 5.4.0-33-generic         | 1        | 2.38%   |
-| 5.4.0-28-generic         | 1        | 2.38%   |
-| 5.4.0-19-generic         | 1        | 2.38%   |
-| 5.4.0-137-generic        | 1        | 2.38%   |
-| 5.4.0-124-generic        | 1        | 2.38%   |
-| 5.3.0-kali2-amd64        | 1        | 2.38%   |
-| 5.3.0-62-generic         | 1        | 2.38%   |
-| 5.3.0-28-generic         | 1        | 2.38%   |
-| 5.19.9-200.fc36.x86_64   | 1        | 2.38%   |
-| 5.19.5-desktop-1omv4090  | 1        | 2.38%   |
-| 5.16.2-zen1-1-zen        | 1        | 2.38%   |
-| 5.15.85-1-MANJARO        | 1        | 2.38%   |
-| 5.15.26-1-lts            | 1        | 2.38%   |
-| 5.15.10-arch1-1          | 1        | 2.38%   |
-| 5.15.0-58-generic        | 1        | 2.38%   |
-| 5.15.0-52-generic        | 1        | 2.38%   |
-| 5.13.0-48-generic        | 1        | 2.38%   |
-| 5.13.0-40-generic        | 1        | 2.38%   |
-| 5.13.0-30-generic        | 1        | 2.38%   |
-| 5.13.0-28-lowlatency     | 1        | 2.38%   |
-| 5.12.11-300.fc34.x86_64  | 1        | 2.38%   |
-| 5.11.0-43-generic        | 1        | 2.38%   |
-| 5.11.0-40-generic        | 1        | 2.38%   |
-| 5.10.14-desktop-1omv4002 | 1        | 2.38%   |
-| 5.10.10-200.fc33.x86_64  | 1        | 2.38%   |
-| 5.10.0-21-amd64          | 1        | 2.38%   |
-| 5.0.0-37-generic         | 1        | 2.38%   |
-| 4.9.56-server-1.mga6     | 1        | 2.38%   |
-| 4.18.16-desktop-1bP      | 1        | 2.38%   |
-| 4.15.0-51-generic        | 1        | 2.38%   |
+| 5.4.0-42-generic         | 2        | 4.65%   |
+| 5.15.0-41-generic        | 2        | 4.65%   |
+| 5.8.4-200.fc32.x86_64    | 1        | 2.33%   |
+| 5.8.13-200.fc32.x86_64   | 1        | 2.33%   |
+| 5.8.0-7642-generic       | 1        | 2.33%   |
+| 5.8.0-63-generic         | 1        | 2.33%   |
+| 5.8.0-53-generic         | 1        | 2.33%   |
+| 5.8.0-43-generic         | 1        | 2.33%   |
+| 5.4.0-7642-generic       | 1        | 2.33%   |
+| 5.4.0-37-generic         | 1        | 2.33%   |
+| 5.4.0-33-generic         | 1        | 2.33%   |
+| 5.4.0-28-generic         | 1        | 2.33%   |
+| 5.4.0-19-generic         | 1        | 2.33%   |
+| 5.4.0-137-generic        | 1        | 2.33%   |
+| 5.4.0-124-generic        | 1        | 2.33%   |
+| 5.3.0-kali2-amd64        | 1        | 2.33%   |
+| 5.3.0-62-generic         | 1        | 2.33%   |
+| 5.3.0-28-generic         | 1        | 2.33%   |
+| 5.19.9-200.fc36.x86_64   | 1        | 2.33%   |
+| 5.19.5-desktop-1omv4090  | 1        | 2.33%   |
+| 5.19.0-45-generic        | 1        | 2.33%   |
+| 5.16.2-zen1-1-zen        | 1        | 2.33%   |
+| 5.15.85-1-MANJARO        | 1        | 2.33%   |
+| 5.15.26-1-lts            | 1        | 2.33%   |
+| 5.15.10-arch1-1          | 1        | 2.33%   |
+| 5.15.0-58-generic        | 1        | 2.33%   |
+| 5.15.0-52-generic        | 1        | 2.33%   |
+| 5.13.0-48-generic        | 1        | 2.33%   |
+| 5.13.0-40-generic        | 1        | 2.33%   |
+| 5.13.0-30-generic        | 1        | 2.33%   |
+| 5.13.0-28-lowlatency     | 1        | 2.33%   |
+| 5.12.11-300.fc34.x86_64  | 1        | 2.33%   |
+| 5.11.0-43-generic        | 1        | 2.33%   |
+| 5.11.0-40-generic        | 1        | 2.33%   |
+| 5.10.14-desktop-1omv4002 | 1        | 2.33%   |
+| 5.10.10-200.fc33.x86_64  | 1        | 2.33%   |
+| 5.10.0-21-amd64          | 1        | 2.33%   |
+| 5.0.0-37-generic         | 1        | 2.33%   |
+| 4.9.56-server-1.mga6     | 1        | 2.33%   |
+| 4.18.16-desktop-1bP      | 1        | 2.33%   |
 
 Kernel Family
 -------------
@@ -342,28 +343,29 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4.0   | 9        | 21.43%  |
-| 5.8.0   | 4        | 9.52%   |
-| 5.15.0  | 4        | 9.52%   |
-| 5.13.0  | 4        | 9.52%   |
-| 5.3.0   | 3        | 7.14%   |
-| 5.11.0  | 2        | 4.76%   |
-| 5.8.4   | 1        | 2.38%   |
-| 5.8.13  | 1        | 2.38%   |
-| 5.19.9  | 1        | 2.38%   |
-| 5.19.5  | 1        | 2.38%   |
-| 5.16.2  | 1        | 2.38%   |
-| 5.15.85 | 1        | 2.38%   |
-| 5.15.26 | 1        | 2.38%   |
-| 5.15.10 | 1        | 2.38%   |
-| 5.12.11 | 1        | 2.38%   |
-| 5.10.14 | 1        | 2.38%   |
-| 5.10.10 | 1        | 2.38%   |
-| 5.10.0  | 1        | 2.38%   |
-| 5.0.0   | 1        | 2.38%   |
-| 4.9.56  | 1        | 2.38%   |
-| 4.18.16 | 1        | 2.38%   |
-| 4.15.0  | 1        | 2.38%   |
+| 5.4.0   | 9        | 20.93%  |
+| 5.8.0   | 4        | 9.3%    |
+| 5.15.0  | 4        | 9.3%    |
+| 5.13.0  | 4        | 9.3%    |
+| 5.3.0   | 3        | 6.98%   |
+| 5.11.0  | 2        | 4.65%   |
+| 5.8.4   | 1        | 2.33%   |
+| 5.8.13  | 1        | 2.33%   |
+| 5.19.9  | 1        | 2.33%   |
+| 5.19.5  | 1        | 2.33%   |
+| 5.19.0  | 1        | 2.33%   |
+| 5.16.2  | 1        | 2.33%   |
+| 5.15.85 | 1        | 2.33%   |
+| 5.15.26 | 1        | 2.33%   |
+| 5.15.10 | 1        | 2.33%   |
+| 5.12.11 | 1        | 2.33%   |
+| 5.10.14 | 1        | 2.33%   |
+| 5.10.10 | 1        | 2.33%   |
+| 5.10.0  | 1        | 2.33%   |
+| 5.0.0   | 1        | 2.33%   |
+| 4.9.56  | 1        | 2.33%   |
+| 4.18.16 | 1        | 2.33%   |
+| 4.15.0  | 1        | 2.33%   |
 
 Kernel Major Ver.
 -----------------
@@ -375,20 +377,20 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4     | 9        | 21.95%  |
-| 5.15    | 7        | 17.07%  |
-| 5.8     | 5        | 12.2%   |
-| 5.13    | 4        | 9.76%   |
-| 5.3     | 3        | 7.32%   |
-| 5.10    | 3        | 7.32%   |
-| 5.19    | 2        | 4.88%   |
-| 5.11    | 2        | 4.88%   |
-| 5.16    | 1        | 2.44%   |
-| 5.12    | 1        | 2.44%   |
-| 5.0     | 1        | 2.44%   |
-| 4.9     | 1        | 2.44%   |
-| 4.18    | 1        | 2.44%   |
-| 4.15    | 1        | 2.44%   |
+| 5.4     | 9        | 21.43%  |
+| 5.15    | 7        | 16.67%  |
+| 5.8     | 5        | 11.9%   |
+| 5.13    | 4        | 9.52%   |
+| 5.3     | 3        | 7.14%   |
+| 5.19    | 3        | 7.14%   |
+| 5.10    | 3        | 7.14%   |
+| 5.11    | 2        | 4.76%   |
+| 5.16    | 1        | 2.38%   |
+| 5.12    | 1        | 2.38%   |
+| 5.0     | 1        | 2.38%   |
+| 4.9     | 1        | 2.38%   |
+| 4.18    | 1        | 2.38%   |
+| 4.15    | 1        | 2.38%   |
 
 Arch
 ----
@@ -490,10 +492,11 @@ Type of filesystem
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Ext4    | 30       | 76.92%  |
-| Overlay | 5        | 12.82%  |
-| Btrfs   | 3        | 7.69%   |
-| Unknown | 1        | 2.56%   |
+| Ext4    | 30       | 75%     |
+| Overlay | 5        | 12.5%   |
+| Btrfs   | 3        | 7.5%    |
+| Tmpfs   | 1        | 2.5%    |
+| Unknown | 1        | 2.5%    |
 
 Part. scheme
 ------------
@@ -767,8 +770,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 20       | 52.63%  |
-| Yes       | 18       | 47.37%  |
+| Yes       | 19       | 50%     |
+| No        | 19       | 50%     |
 
 Has Ethernet
 ------------
@@ -852,8 +855,8 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 22       | 27     | 32.35%  |
-| WDC                 | 13       | 15     | 19.12%  |
+| Seagate             | 22       | 29     | 32.35%  |
+| WDC                 | 13       | 16     | 19.12%  |
 | Toshiba             | 5        | 5      | 7.35%   |
 | Samsung Electronics | 4        | 7      | 5.88%   |
 | HGST                | 4        | 6      | 5.88%   |
@@ -882,7 +885,7 @@ Hard drive models
 | WDC WD3200AAJS-56M0A0 320GB        | 3        | 4.05%   |
 | Seagate ST500DM002-1BD142 500GB    | 3        | 4.05%   |
 | Toshiba DT01ACA100 1TB             | 2        | 2.7%    |
-| Team T253X2001T 1024GB SSD         | 2        | 2.7%    |
+| Team T253X2001T 1TB SSD            | 2        | 2.7%    |
 | SPCC Solid State Disk 256GB        | 2        | 2.7%    |
 | SPCC M.2 PCIe SSD 512GB            | 2        | 2.7%    |
 | Seagate ST500VT000-1BS142 500GB    | 2        | 2.7%    |
@@ -930,8 +933,8 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 21       | 26     | 42%     |
-| WDC                 | 13       | 15     | 26%     |
+| Seagate             | 21       | 28     | 42%     |
+| WDC                 | 13       | 16     | 26%     |
 | Toshiba             | 4        | 4      | 8%      |
 | HGST                | 4        | 6      | 8%      |
 | Hitachi             | 3        | 3      | 6%      |
@@ -970,7 +973,7 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 35       | 59     | 68.63%  |
+| HDD     | 35       | 62     | 68.63%  |
 | SSD     | 10       | 16     | 19.61%  |
 | NVMe    | 4        | 7      | 7.84%   |
 | Unknown | 2        | 2      | 3.92%   |
@@ -985,7 +988,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 38       | 76     | 88.37%  |
+| SATA | 38       | 79     | 88.37%  |
 | NVMe | 4        | 7      | 9.3%    |
 | SAS  | 1        | 1      | 2.33%   |
 
@@ -999,9 +1002,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 32       | 51     | 64%     |
-| 0.51-1.0   | 9        | 11     | 18%     |
-| 1.01-2.0   | 5        | 8      | 10%     |
+| 0.01-0.5   | 32       | 53     | 64%     |
+| 0.51-1.0   | 9        | 14     | 18%     |
+| 1.01-2.0   | 5        | 6      | 10%     |
 | 4.01-10.0  | 2        | 3      | 4%      |
 | 3.01-4.0   | 1        | 1      | 2%      |
 | 2.01-3.0   | 1        | 1      | 2%      |
@@ -1037,14 +1040,14 @@ Amount of used disk space
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1-20      | 16       | 38.1%   |
-| 1001-2000 | 6        | 14.29%  |
-| 21-50     | 5        | 11.9%   |
-| 101-250   | 5        | 11.9%   |
-| 251-500   | 4        | 9.52%   |
-| 501-1000  | 3        | 7.14%   |
-| 51-100    | 2        | 4.76%   |
-| Unknown   | 1        | 2.38%   |
+| 1-20      | 16       | 37.21%  |
+| 1001-2000 | 6        | 13.95%  |
+| 21-50     | 5        | 11.63%  |
+| 101-250   | 5        | 11.63%  |
+| 251-500   | 4        | 9.3%    |
+| 501-1000  | 4        | 9.3%    |
+| 51-100    | 2        | 4.65%   |
+| Unknown   | 1        | 2.33%   |
 
 Malfunc. Drives
 ---------------
@@ -1131,7 +1134,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 27       | 42     | 62.79%  |
+| Detected | 27       | 45     | 62.79%  |
 | Works    | 11       | 35     | 25.58%  |
 | Malfunc  | 5        | 7      | 11.63%  |
 
@@ -1583,7 +1586,7 @@ Monitor models
 | NEC Computers EA193Mi NEC6956 1280x1024 375x300mm 18.9-inch           | 1        | 2.33%   |
 | Lenovo LEN LI1931ewA LEN65A1 1366x768 409x230mm 18.5-inch             | 1        | 2.33%   |
 | Lenovo LEN E2054A LEN60DF 1440x900 419x262mm 19.5-inch                | 1        | 2.33%   |
-| Hitachi HISENSE HEC0030 1920x1080 580x330mm 26.3-inch                 | 1        | 2.33%   |
+| Hitachi HISENSE HEC0030 3840x2160 1095x616mm 49.5-inch                | 1        | 2.33%   |
 | Hewlett-Packard Z27s HWP317F 3840x2160 596x335mm 26.9-inch            | 1        | 2.33%   |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch            | 1        | 2.33%   |
 | Hewlett-Packard P222va HWP322C 1920x1080 477x268mm 21.5-inch          | 1        | 2.33%   |
@@ -1603,7 +1606,7 @@ Monitor models
 | Dell P1914S DELF04B 1280x1024 376x301mm 19.0-inch                     | 1        | 2.33%   |
 | Dell E2316H DELF06B 1920x1080 509x286mm 23.0-inch                     | 1        | 2.33%   |
 | Dell E2011H DEL406B 1600x900 443x249mm 20.0-inch                      | 1        | 2.33%   |
-| Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                     | 1        | 2.33%   |
+| Dell E176FP DELA014 1280x1024 340x270mm 17.1-inch                     | 1        | 2.33%   |
 | Dell 1908FP DEL4026 1280x1024 376x301mm 19.0-inch                     | 1        | 2.33%   |
 | Dell 1908FP DEL4025 1280x1024 376x301mm 19.0-inch                     | 1        | 2.33%   |
 | BenQ LCD BNQ8024 2560x1440 597x336mm 27.0-inch                        | 1        | 2.33%   |
@@ -1786,7 +1789,7 @@ Controller models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 7        | 10.29%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 7.35%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter             | 4        | 5.88%   |
-| MediaTek TECNO SPARK 9T                                           | 4        | 5.88%   |
+| MediaTek Armor X10 Pro                                            | 4        | 5.88%   |
 | Intel I211 Gigabit Network Connection                             | 3        | 4.41%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2        | 2.94%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 2.94%   |
@@ -1796,11 +1799,11 @@ Controller models
 | Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 2.94%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 1.47%   |
 | Ralink RT2870/RT3070 Wireless Adapter                             | 1        | 1.47%   |
-| Qualcomm Redmi Note 9 Pro                                         | 1        | 1.47%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1        | 1.47%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                  | 1        | 1.47%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.47%   |
-| OPPO SM8350-MTP _SN:1518BD09                                      | 1        | 1.47%   |
+| Qualcomm Android                                                  | 1        | 1.47%   |
+| OPPO CPH2411                                                      | 1        | 1.47%   |
 | Intel Wireless-AC 9260                                            | 1        | 1.47%   |
 | Intel Wireless 8265 / 8275                                        | 1        | 1.47%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.47%   |
@@ -1886,7 +1889,7 @@ Ethernet models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 9        | 18.37%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 10.2%   |
-| MediaTek TECNO SPARK 9T                                           | 4        | 8.16%   |
+| MediaTek Armor X10 Pro                                            | 4        | 8.16%   |
 | Intel I211 Gigabit Network Connection                             | 3        | 6.12%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2        | 4.08%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 4.08%   |
@@ -1894,9 +1897,9 @@ Ethernet models
 | Intel 82566DM-2 Gigabit Network Connection                        | 2        | 4.08%   |
 | Broadcom Limited NetXtreme BCM5751 Gigabit Ethernet PCI Express   | 2        | 4.08%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 2.04%   |
-| Qualcomm Redmi Note 9 Pro                                         | 1        | 2.04%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 2.04%   |
-| OPPO SM8350-MTP _SN:1518BD09                                      | 1        | 2.04%   |
+| Qualcomm Android                                                  | 1        | 2.04%   |
+| OPPO CPH2411                                                      | 1        | 2.04%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 2.04%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.04%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1        | 2.04%   |
@@ -2102,17 +2105,17 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s | 2        | 9.52%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s    | 2        | 9.52%   |
 | TwinMOS RAM 9DECBNZB-TATP 4GB DIMM DDR3 1333MT/s        | 1        | 4.76%   |
 | TwinMOS RAM 9DECBMZB-TATP 2048MB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s     | 1        | 4.76%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s      | 1        | 4.76%   |
 | SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
 | SK hynix RAM HMT125U7BFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.76%   |
 | SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.76%   |
 | SK hynix RAM HMA81GU6CJR8N-VK 8192MB DIMM DDR4 2667MT/s | 1        | 4.76%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s  | 1        | 4.76%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s          | 1        | 4.76%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s     | 1        | 4.76%   |
 | Micron RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
 | Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s    | 1        | 4.76%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s     | 1        | 4.76%   |
@@ -2255,7 +2258,7 @@ Camera device models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | Realtek FULL HD 1080P Webcam    | 2        | 40%     |
-| MacroSilicon usb video          | 1        | 20%     |
+| MacroSilicon USB Video          | 1        | 20%     |
 | Logitech Webcam C270            | 1        | 20%     |
 | Cubeternet GL-UPC822 UVC WebCam | 1        | 20%     |
 
@@ -2303,8 +2306,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 33       | 86.84%  |
-| 1     | 5        | 13.16%  |
+| 0     | 32       | 84.21%  |
+| 1     | 6        | 15.79%  |
 
 Unsupported Device Types
 ------------------------
@@ -2316,7 +2319,7 @@ Types of unsupported devices
 
 | Type             | Desktops | Percent |
 |------------------|----------|---------|
-| Graphics card    | 3        | 60%     |
-| Unassigned class | 1        | 20%     |
-| Net/wireless     | 1        | 20%     |
+| Graphics card    | 4        | 66.67%  |
+| Unassigned class | 1        | 16.67%  |
+| Net/wireless     | 1        | 16.67%  |
 

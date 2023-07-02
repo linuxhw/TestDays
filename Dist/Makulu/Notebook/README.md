@@ -606,8 +606,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 9         | 50%     |
-| No        | 9         | 50%     |
+| Yes       | 10        | 55.56%  |
+| No        | 8         | 44.44%  |
 
 Has Ethernet
 ------------
@@ -741,11 +741,11 @@ Hard drive models
 |--------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB               | 2         | 8.33%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 8.33%   |
-| Unknown SD/MMC/MS PRO 64GB           | 1         | 4.17%   |
+| Unknown SD/MMC/MS PRO 250GB          | 1         | 4.17%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 4.17%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 4.17%   |
 | Seagate ST9320325AS 320GB            | 1         | 4.17%   |
-| Seagate Expansion Desk 4TB           | 1         | 4.17%   |
+| Seagate Expansion Desk 5TB           | 1         | 4.17%   |
 | SanDisk SSD U110 128GB               | 1         | 4.17%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 4.17%   |
 | SanDisk NVMe SSD Drive 512GB         | 1         | 4.17%   |
@@ -836,7 +836,7 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 11        | 17     | 68.75%  |
 | 0.51-1.0   | 4         | 4      | 25%     |
-| 3.01-4.0   | 1         | 1      | 6.25%   |
+| 4.01-10.0  | 1         | 1      | 6.25%   |
 
 Space Total
 -----------
@@ -1282,7 +1282,7 @@ Monitor models
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 5.56%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 5.56%   |
 | Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 5.56%   |
-| Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 5.56%   |
+| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 5.56%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 5.56%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 5.56%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 5.56%   |

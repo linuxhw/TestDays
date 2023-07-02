@@ -913,7 +913,7 @@ Hard drive vendors
 | Crucial                   | 7        | 9      | 9.33%   |
 | Kingston                  | 3        | 4      | 4%      |
 | Toshiba                   | 2        | 4      | 2.67%   |
-| SanDisk                   | 2        | 3      | 2.67%   |
+| Sandisk                   | 2        | 3      | 2.67%   |
 | Hitachi                   | 2        | 3      | 2.67%   |
 | Unknown                   | 1        | 2      | 1.33%   |
 | Transcend                 | 1        | 1      | 1.33%   |
@@ -1013,17 +1013,16 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 15       | 19     | 51.72%  |
-| Crucial             | 4        | 6      | 13.79%  |
-| Kingston            | 2        | 3      | 6.9%    |
-| Transcend           | 1        | 1      | 3.45%   |
-| TCSUNBOW            | 1        | 1      | 3.45%   |
-| SanDisk             | 1        | 2      | 3.45%   |
-| SABRENT             | 1        | 1      | 3.45%   |
-| OCZ                 | 1        | 1      | 3.45%   |
-| Maxtor              | 1        | 2      | 3.45%   |
-| KingSpec            | 1        | 1      | 3.45%   |
-| A-DATA Technology   | 1        | 1      | 3.45%   |
+| Samsung Electronics | 15       | 19     | 53.57%  |
+| Crucial             | 4        | 6      | 14.29%  |
+| Kingston            | 2        | 3      | 7.14%   |
+| Transcend           | 1        | 1      | 3.57%   |
+| TCSUNBOW            | 1        | 1      | 3.57%   |
+| SanDisk             | 1        | 2      | 3.57%   |
+| OCZ                 | 1        | 1      | 3.57%   |
+| Maxtor              | 1        | 2      | 3.57%   |
+| KingSpec            | 1        | 1      | 3.57%   |
+| A-DATA Technology   | 1        | 1      | 3.57%   |
 
 Drive Kind
 ----------
@@ -1035,11 +1034,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 24       | 52     | 36.36%  |
-| SSD     | 23       | 38     | 34.85%  |
-| NVMe    | 16       | 20     | 24.24%  |
-| Unknown | 2        | 2      | 3.03%   |
-| MMC     | 1        | 2      | 1.52%   |
+| HDD     | 24       | 52     | 36.92%  |
+| SSD     | 22       | 37     | 33.85%  |
+| NVMe    | 16       | 21     | 24.62%  |
+| Unknown | 2        | 2      | 3.08%   |
+| MMC     | 1        | 2      | 1.54%   |
 
 Drive Connector
 ---------------
@@ -1066,13 +1065,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 46     | 42.86%  |
-| 0.51-1.0   | 16       | 25     | 28.57%  |
-| 3.01-4.0   | 7        | 8      | 12.5%   |
-| 1.01-2.0   | 4        | 5      | 7.14%   |
-| 2.01-3.0   | 2        | 3      | 3.57%   |
-| 10.01-20.0 | 2        | 2      | 3.57%   |
-| 4.01-10.0  | 1        | 1      | 1.79%   |
+| 0.01-0.5   | 24       | 46     | 43.64%  |
+| 0.51-1.0   | 17       | 26     | 30.91%  |
+| 3.01-4.0   | 6        | 7      | 10.91%  |
+| 1.01-2.0   | 4        | 5      | 7.27%   |
+| 2.01-3.0   | 2        | 3      | 3.64%   |
+| 10.01-20.0 | 1        | 1      | 1.82%   |
+| 4.01-10.0  | 1        | 1      | 1.82%   |
 
 Space Total
 -----------
@@ -1643,7 +1642,7 @@ Monitor models
 | Samsung Electronics SM2333T SAM0737 1920x1080 510x290mm 23.1-inch     | 1        | 2.27%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor U28E590 3840x2160                     | 1        | 2.27%   |
-| Samsung Electronics LCD Monitor SAM07C0 1920x1080 890x500mm 40.2-inch | 1        | 2.27%   |
+| Samsung Electronics LCD Monitor SAM07C0 1920x1080 700x390mm 31.5-inch | 1        | 2.27%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.27%   |
 | Philips PHL BDM3270 PHL08E7 2560x1440 708x398mm 32.0-inch             | 1        | 2.27%   |
 | Philips PHL 275C5 PHLC0E4 1920x1080 598x336mm 27.0-inch               | 1        | 2.27%   |
@@ -1656,16 +1655,16 @@ Monitor models
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1        | 2.27%   |
 | Iiyama PL2796HS IVM6669 1920x1080 598x336mm 27.0-inch                 | 1        | 2.27%   |
 | Iiyama PL2773H IVM660A 1920x1080 600x340mm 27.2-inch                  | 1        | 2.27%   |
-| Hewlett-Packard S2331 HWP2907 1920x1080 509x286mm 23.0-inch           | 1        | 2.27%   |
+| Hewlett-Packard S2331 HWP2907 1920x1080 510x290mm 23.1-inch           | 1        | 2.27%   |
 | Hewlett-Packard L1950 HWP26E8 1280x1024 380x300mm 19.1-inch           | 1        | 2.27%   |
 | Hewlett-Packard 24y HPN3506 1920x1080 528x297mm 23.9-inch             | 1        | 2.27%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                   | 1        | 2.27%   |
 | Goldstar TV GSMC0A0 3840x2160                                         | 1        | 2.27%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                                | 1        | 2.27%   |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                  | 1        | 2.27%   |
 | Goldstar 24EA53 GSM59AC 1920x1080 510x290mm 23.1-inch                 | 1        | 2.27%   |
 | Fujitsu Siemens B23T-6 LED FUS07FB 1920x1080 509x286mm 23.0-inch      | 1        | 2.27%   |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                     | 1        | 2.27%   |
-| Dell U2415 DELA0B8 1920x1200 520x320mm 24.0-inch                      | 1        | 2.27%   |
+| Dell U2415 DELA0B8 1920x1200 518x324mm 24.1-inch                      | 1        | 2.27%   |
 | Dell U2211H DEL405E 1920x1080 475x267mm 21.5-inch                     | 1        | 2.27%   |
 | Dell S3220DGF DELD0F4 2560x1440 697x392mm 31.5-inch                   | 1        | 2.27%   |
 | Dell S2721QS DELA196 3840x2160 597x336mm 27.0-inch                    | 1        | 2.27%   |
@@ -1675,7 +1674,7 @@ Monitor models
 | BenQ GL2780 BNQ78EC 1920x1080 598x336mm 27.0-inch                     | 1        | 2.27%   |
 | BenQ GL2250H BNQ78A0 1920x1080 477x268mm 21.5-inch                    | 1        | 2.27%   |
 | Belinea Belinea101540 MAX0604 1024x768 307x230mm 15.1-inch            | 1        | 2.27%   |
-| AOC 27P2DG5 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2.27%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 2.27%   |
 
 Monitor Resolution
 ------------------
@@ -2172,9 +2171,9 @@ Memory module models
 | Kingston RAM 9905734-082.A00G 16GB DIMM DDR4 3200MT/s         | 1        | 3.85%   |
 | Kingston RAM 9905625-074.A00G 16GB DIMM DDR4 2400MT/s         | 1        | 3.85%   |
 | G.Skill RAM F5-6000J3636F16G 16GB DIMM DDR5 6400MT/s          | 1        | 3.85%   |
-| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s       | 1        | 3.85%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s          | 1        | 3.85%   |
 | G.Skill RAM F4-3200C16-16GIS 16GB DIMM DDR4 3600MT/s          | 1        | 3.85%   |
-| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s        | 1        | 3.85%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s           | 1        | 3.85%   |
 | Dane-Elec RAM Module 1GB DIMM DDR2 667MT/s                    | 1        | 3.85%   |
 | Crucial RAM CT8G4DFS8266.C8FE 8GB DIMM DDR4 2667MT/s          | 1        | 3.85%   |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s       | 1        | 3.85%   |
@@ -2315,9 +2314,9 @@ Camera device vendors
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
 | Logitech            | 4        | 50%     |
+| YGTek               | 1        | 12.5%   |
 | Microdia            | 1        | 12.5%   |
 | Huawei Technologies | 1        | 12.5%   |
-| HD WEBCAM           | 1        | 12.5%   |
 | Alcor Micro         | 1        | 12.5%   |
 
 Camera Model
@@ -2328,15 +2327,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| Logitech B525 HD Webcam       | 2        | 25%     |
-| Microdia CameraA              | 1        | 12.5%   |
-| Logitech Webcam C270          | 1        | 12.5%   |
-| Logitech HD Webcam C910       | 1        | 12.5%   |
-| Huawei UVC Camera             | 1        | 12.5%   |
-| HD WEBCAM Web Camera          | 1        | 12.5%   |
-| Alcor Micro USB 2.0 PC Camera | 1        | 12.5%   |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Logitech B525 HD Webcam             | 2        | 25%     |
+| YGTek Webcam                        | 1        | 12.5%   |
+| Microdia REDRAGON Live Camera Audio | 1        | 12.5%   |
+| Logitech Webcam C270                | 1        | 12.5%   |
+| Logitech HD Webcam C910             | 1        | 12.5%   |
+| Huawei UVC Camera                   | 1        | 12.5%   |
+| Alcor Micro USB 2.0 PC Camera       | 1        | 12.5%   |
 
 Security
 --------

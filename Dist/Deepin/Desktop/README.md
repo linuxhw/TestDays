@@ -1010,7 +1010,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB         | 1        | 0.85%   |
 | WDC WD10EARS-00Y5B1 1TB          | 1        | 0.85%   |
 | Vaseky V800/256G 256GB SSD       | 1        | 0.85%   |
-| Unknown SD/MMC/MS PRO 64GB       | 1        | 0.85%   |
+| Unknown SD/MMC/MS PRO 250GB      | 1        | 0.85%   |
 | Toshiba MQ01ABF050 500GB         | 1        | 0.85%   |
 | Toshiba MQ01ABD075 752GB         | 1        | 0.85%   |
 | Toshiba MK8052GSX 80GB           | 1        | 0.85%   |
@@ -1049,21 +1049,20 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SanDisk             | 7        | 11     | 17.5%   |
-| Kingston            | 7        | 12     | 17.5%   |
-| Samsung Electronics | 4        | 5      | 10%     |
-| China               | 4        | 4      | 10%     |
-| WDC                 | 3        | 3      | 7.5%    |
-| Crucial             | 3        | 4      | 7.5%    |
-| A-DATA Technology   | 3        | 4      | 7.5%    |
-| SPCC                | 2        | 2      | 5%      |
-| Vaseky              | 1        | 1      | 2.5%    |
-| KingDian            | 1        | 1      | 2.5%    |
-| KINGBANK            | 1        | 1      | 2.5%    |
-| JMicron Technology  | 1        | 1      | 2.5%    |
-| Intenso             | 1        | 2      | 2.5%    |
-| Hewlett-Packard     | 1        | 1      | 2.5%    |
-| Apacer              | 1        | 3      | 2.5%    |
+| SanDisk             | 7        | 11     | 17.95%  |
+| Kingston            | 7        | 12     | 17.95%  |
+| Samsung Electronics | 4        | 5      | 10.26%  |
+| China               | 4        | 4      | 10.26%  |
+| WDC                 | 3        | 3      | 7.69%   |
+| Crucial             | 3        | 4      | 7.69%   |
+| A-DATA Technology   | 3        | 4      | 7.69%   |
+| SPCC                | 2        | 2      | 5.13%   |
+| Vaseky              | 1        | 1      | 2.56%   |
+| KingDian            | 1        | 1      | 2.56%   |
+| KINGBANK            | 1        | 1      | 2.56%   |
+| Intenso             | 1        | 2      | 2.56%   |
+| Hewlett-Packard     | 1        | 1      | 2.56%   |
+| Apacer              | 1        | 3      | 2.56%   |
 
 Drive Kind
 ----------
@@ -1075,10 +1074,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 40       | 65     | 45.98%  |
-| SSD     | 32       | 55     | 36.78%  |
-| NVMe    | 14       | 16     | 16.09%  |
-| Unknown | 1        | 2      | 1.15%   |
+| HDD     | 40       | 65     | 45.45%  |
+| SSD     | 32       | 54     | 36.36%  |
+| NVMe    | 15       | 17     | 17.05%  |
+| Unknown | 1        | 2      | 1.14%   |
 
 Drive Connector
 ---------------
@@ -1104,7 +1103,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 43       | 78     | 57.33%  |
+| 0.01-0.5   | 43       | 77     | 57.33%  |
 | 0.51-1.0   | 25       | 32     | 33.33%  |
 | 1.01-2.0   | 7        | 10     | 9.33%   |
 
@@ -1733,14 +1732,14 @@ Monitor models
 | Xiaomi Mi TV XMD0076 3840x2160 800x450mm 36.1-inch                    | 1        | 1.59%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch            | 1        | 1.59%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.59%   |
-| Toshiba TV TSB0108 1920x540                                           | 1        | 1.59%   |
+| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                       | 1        | 1.59%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                      | 1        | 1.59%   |
 | SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                       | 1        | 1.59%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.59%   |
 | Samsung Electronics SyncMaster SAM0601 1600x900                       | 1        | 1.59%   |
 | Samsung Electronics SyncMaster SAM05FF 1600x900 443x249mm 20.0-inch   | 1        | 1.59%   |
 | Samsung Electronics SyncMaster SAM02B6 1920x1200 518x324mm 24.1-inch  | 1        | 1.59%   |
-| Samsung Electronics SMT24A550 SAM07B5 1920x1080 530x300mm 24.0-inch   | 1        | 1.59%   |
+| Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch   | 1        | 1.59%   |
 | Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch     | 1        | 1.59%   |
 | Samsung Electronics LCD Monitor SMS23A350H 1920x1080                  | 1        | 1.59%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1        | 1.59%   |
@@ -1962,7 +1961,7 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.1%    |
 | Unknown Network controller                                        | 1        | 1.1%    |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 1.1%    |
-| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 1.1%    |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 1.1%    |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.1%    |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 1.1%    |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 1.1%    |
@@ -1978,8 +1977,8 @@ Controller models
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.1%    |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.1%    |
 | NetGear A6210                                                     | 1        | 1.1%    |
-| MediaTek TECNO SPARK 9T                                           | 1        | 1.1%    |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 1.1%    |
+| MediaTek Armor X10 Pro                                            | 1        | 1.1%    |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.1%    |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.1%    |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.1%    |
@@ -2025,7 +2024,7 @@ Wireless models
 |------------------------------------------------------------|----------|---------|
 | Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)  | 2        | 9.09%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 4.55%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                      | 1        | 4.55%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 1        | 4.55%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 4.55%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 4.55%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter            | 1        | 4.55%   |
@@ -2088,7 +2087,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.49%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.49%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.49%   |
-| MediaTek TECNO SPARK 9T                                           | 1        | 1.49%   |
+| MediaTek Armor X10 Pro                                            | 1        | 1.49%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.49%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.49%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.49%   |
@@ -2328,7 +2327,7 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                     | 1        | 2.86%   |
 | Unknown RAM Module 2GB DIMM SDRAM                          | 1        | 2.86%   |
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s         | 1        | 2.86%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s        | 1        | 2.86%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 2.86%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.86%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.86%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.86%   |
@@ -2338,7 +2337,7 @@ Memory module models
 | Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s         | 1        | 2.86%   |
 | Kingston RAM KTW149-ELF 1GB DIMM DDR3 1333MT/s             | 1        | 2.86%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s          | 1        | 2.86%   |
-| Kingston RAM KHX2400C15/8G 8192MB DIMM DDR4 3400MT/s       | 1        | 2.86%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 2.86%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s        | 1        | 2.86%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 2.86%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s        | 1        | 2.86%   |
@@ -2349,7 +2348,7 @@ Memory module models
 | Kimtigo (HK) Limited RAM Module 8192MB DIMM DDR4 2666MT/s  | 1        | 2.86%   |
 | G.Skill RAM F3-2400C10-8GTX 8GB DIMM DDR3 2400MT/s         | 1        | 2.86%   |
 | G.Skill RAM F3-14900CL10-8GBXL 8GB DIMM DDR3 1867MT/s      | 1        | 2.86%   |
-| CSX RAM V01D3LF4GB26826813 4GB DIMM DDR3 1333MT/s          | 1        | 2.86%   |
+| CSX RAM V01D3LF4GB26826813 4096MB DIMM DDR3 1333MT/s       | 1        | 2.86%   |
 | Corsair RAM CMK8GX4M1A2400C16 8GB DIMM DDR4 2800MT/s       | 1        | 2.86%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s      | 1        | 2.86%   |
 | Corsair RAM CMK16GX4M1B3000C15 16GB DIMM DDR4 3400MT/s     | 1        | 2.86%   |
@@ -2489,11 +2488,11 @@ Camera device vendors
 | Vendor                 | Desktops | Percent |
 |------------------------|----------|---------|
 | Logitech               | 6        | 54.55%  |
-| webcam                 | 1        | 9.09%   |
 | Microdia               | 1        | 9.09%   |
 | Generalplus Technology | 1        | 9.09%   |
 | Chicony Electronics    | 1        | 9.09%   |
 | Arkmicro Technologies  | 1        | 9.09%   |
+| 2M UVC CAMERA          | 1        | 9.09%   |
 
 Camera Model
 ------------
@@ -2506,13 +2505,13 @@ Camera device models
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
 | Logitech Webcam C270                  | 4        | 36.36%  |
-| webcam webcam                         | 1        | 9.09%   |
 | Microdia Integrated_Webcam_HD         | 1        | 9.09%   |
 | Logitech Webcam C200                  | 1        | 9.09%   |
 | Logitech HD Pro Webcam C920           | 1        | 9.09%   |
 | Generalplus GENERAL WEBCAM            | 1        | 9.09%   |
 | Chicony HP High Definition 1MP Webcam | 1        | 9.09%   |
 | Arkmicro USB2.0 PC CAMERA             | 1        | 9.09%   |
+| 2M UVC CAMERA NexiGo N660 FHD Webcam  | 1        | 9.09%   |
 
 Security
 --------

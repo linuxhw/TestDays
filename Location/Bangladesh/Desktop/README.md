@@ -1082,48 +1082,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Toshiba DT01ACA100 1TB                              | 10       | 6.85%   |
-| Seagate ST1000DM010-2EP102 1TB                      | 8        | 5.48%   |
-| Seagate ST500DM002-1BD142 500GB                     | 7        | 4.79%   |
-| Toshiba HDWD110 1TB                                 | 6        | 4.11%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                    | 4        | 2.74%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD                    | 4        | 2.74%   |
-| WDC WD5000AAKX-001CA0 500GB                         | 3        | 2.05%   |
-| WDC WD20EZRZ-00Z5HB0 2TB                            | 3        | 2.05%   |
-| WDC WD10EZEX-60WN4A0 1TB                            | 3        | 2.05%   |
-| Toshiba DT01ACA200 2TB                              | 3        | 2.05%   |
-| Samsung HD502HJ 500GB                               | 3        | 2.05%   |
-| WDC WD40PURX-64N96Y0 4TB                            | 2        | 1.37%   |
-| WDC WD10EZEX-22MFCA0 1TB                            | 2        | 1.37%   |
-| WDC WD10EZEX-00BN5A0 1TB                            | 2        | 1.37%   |
-| Transcend TS256GSSD230S 256GB                       | 2        | 1.37%   |
-| Transcend TS128GSSD370S 128GB                       | 2        | 1.37%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 1TB | 2        | 1.37%   |
-| Samsung SSD 980 PRO 500GB                           | 2        | 1.37%   |
-| Samsung SP2504C 250GB                               | 2        | 1.37%   |
-| Samsung HD322HJ 320GB                               | 2        | 1.37%   |
-| Hitachi HDT721032SLA360 320GB                       | 2        | 1.37%   |
-| Hitachi HDS721050CLA362 500GB                       | 2        | 1.37%   |
-| HP SSD S700 250GB                                   | 2        | 1.37%   |
-| A-DATA SU650 240GB SSD                              | 2        | 1.37%   |
-| WDC WDS240GS2G0A-00JH30 240GB SSD                   | 1        | 0.68%   |
-| WDC WDS240G2G0A 240GB SSD                           | 1        | 0.68%   |
-| WDC WDS120G2G0B-00EPWP 120GB SSD                    | 1        | 0.68%   |
-| WDC WD40EFRX-68WT0N0 4TB                            | 1        | 0.68%   |
-| WDC WD3200AAJS-00L7A0 320GB                         | 1        | 0.68%   |
-| WDC WD30PURX-64P6ZY0 3TB                            | 1        | 0.68%   |
-| WDC WD10JPVX-60JC3T1 1TB                            | 1        | 0.68%   |
-| WDC WD10JPVT-00MS8T0 1TB                            | 1        | 0.68%   |
-| WDC WD10EZEX-22M                                    | 1        | 0.68%   |
-| WDC WD10EZEX-08WN4A0 1TB                            | 1        | 0.68%   |
-| WDC WD1002F9YZ-09H1JL0 1TB                          | 1        | 0.68%   |
-| WDC WD SSD 120GB                                    | 1        | 0.68%   |
-| TwinMOS TWSSD240WT200 240GB                         | 1        | 0.68%   |
-| TwinMOS SSD SATA2.5 -120GB                          | 1        | 0.68%   |
-| Transcend TS256GSSD370S 256GB                       | 1        | 0.68%   |
-| Transcend TS240GSSD220S 240GB                       | 1        | 0.68%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Toshiba DT01ACA100 1TB                                | 10       | 6.85%   |
+| Seagate ST1000DM010-2EP102 1TB                        | 8        | 5.48%   |
+| Seagate ST500DM002-1BD142 500GB                       | 7        | 4.79%   |
+| Toshiba HDWD110 1TB                                   | 6        | 4.11%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                      | 4        | 2.74%   |
+| WDC WDS120G2G0A-00JH30 128GB SSD                      | 4        | 2.74%   |
+| WDC WD5000AAKX-001CA0 500GB                           | 3        | 2.05%   |
+| WDC WD20EZRZ-00Z5HB0 2TB                              | 3        | 2.05%   |
+| WDC WD10EZEX-60WN4A0 1TB                              | 3        | 2.05%   |
+| Toshiba DT01ACA200 2TB                                | 3        | 2.05%   |
+| Samsung HD502HJ 500GB                                 | 3        | 2.05%   |
+| WDC WD40PURX-64N96Y0 4TB                              | 2        | 1.37%   |
+| WDC WD10EZEX-22MFCA0 1TB                              | 2        | 1.37%   |
+| WDC WD10EZEX-00BN5A0 1TB                              | 2        | 1.37%   |
+| Transcend TS256GSSD230S 256GB                         | 2        | 1.37%   |
+| Transcend TS128GSSD370S 128GB                         | 2        | 1.37%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 2        | 1.37%   |
+| Samsung SSD 980 PRO 500GB                             | 2        | 1.37%   |
+| Samsung SP2504C 250GB                                 | 2        | 1.37%   |
+| Samsung HD322HJ 320GB                                 | 2        | 1.37%   |
+| Hitachi HDT721032SLA360 320GB                         | 2        | 1.37%   |
+| Hitachi HDS721050CLA362 500GB                         | 2        | 1.37%   |
+| HP SSD S700 250GB                                     | 2        | 1.37%   |
+| A-DATA SU650 240GB SSD                                | 2        | 1.37%   |
+| WDC WDS240GS2G0A-00JH30 240GB SSD                     | 1        | 0.68%   |
+| WDC WDS240G2G0A 240GB SSD                             | 1        | 0.68%   |
+| WDC WDS120G2G0B-00EPWP 120GB SSD                      | 1        | 0.68%   |
+| WDC WD40EFRX-68WT0N0 4TB                              | 1        | 0.68%   |
+| WDC WD3200AAJS-00L7A0 320GB                           | 1        | 0.68%   |
+| WDC WD30PURX-64P6ZY0 3TB                              | 1        | 0.68%   |
+| WDC WD10JPVX-60JC3T1 1TB                              | 1        | 0.68%   |
+| WDC WD10JPVT-00MS8T0 1TB                              | 1        | 0.68%   |
+| WDC WD10EZEX-22M                                      | 1        | 0.68%   |
+| WDC WD10EZEX-08WN4A0 1TB                              | 1        | 0.68%   |
+| WDC WD1002F9YZ-09H1JL0 1TB                            | 1        | 0.68%   |
+| WDC WD SSD 120GB                                      | 1        | 0.68%   |
+| TwinMOS TWSSD240WT200 240GB                           | 1        | 0.68%   |
+| TwinMOS SSD SATA2.5 -120GB                            | 1        | 0.68%   |
+| Transcend TS256GSSD370S 256GB                         | 1        | 0.68%   |
+| Transcend TS240GSSD220S 240GB                         | 1        | 0.68%   |
 
 HDD Vendor
 ----------
@@ -1870,7 +1870,7 @@ Monitor models
 | Philips PHL 226E9Q PHLC17D 1920x1080 476x268mm 21.5-inch             | 1        | 1.18%   |
 | Philips 224EL PHLC054 1920x1080 480x270mm 21.7-inch                  | 1        | 1.18%   |
 | Philips 196VL PHLC07F 1366x768 409x230mm 18.5-inch                   | 1        | 1.18%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch               | 1        | 1.18%   |
+| MSI Optix MAG24C MSI1462 1920x1080 521x293mm 23.5-inch               | 1        | 1.18%   |
 | LLL LCD LLL0001 1280x1024 320x206mm 15.0-inch                        | 1        | 1.18%   |
 | LG Electronics LCD Monitor W1953 2726x768                            | 1        | 1.18%   |
 
@@ -2064,7 +2064,7 @@ Controller models
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                      | 2        | 1.52%   |
 | Realtek RTL8125 2.5GbE Controller                                          | 2        | 1.52%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                      | 2        | 1.52%   |
-| Qualcomm Fairphone 4 5G                                                    | 2        | 1.52%   |
+| Qualcomm Nokia G400 5G                                                     | 2        | 1.52%   |
 | Intel Ethernet Controller I225-V                                           | 2        | 1.52%   |
 | HMD Global Nokia7.2                                                        | 2        | 1.52%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                       | 1        | 0.76%   |
@@ -2078,7 +2078,7 @@ Controller models
 | Ralink RT5392 PCIe Wireless Network Adapter                                | 1        | 0.76%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                 | 1        | 0.76%   |
 | NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                        | 1        | 0.76%   |
-| MediaTek TECNO SPARK 9T                                                    | 1        | 0.76%   |
+| MediaTek Armor X10 Pro                                                     | 1        | 0.76%   |
 | Intel Wireless 3165                                                        | 1        | 0.76%   |
 | Intel Ethernet Connection (7) I219-V                                       | 1        | 0.76%   |
 | Intel Alder Lake-S PCH CNVi WiFi                                           | 1        | 0.76%   |
@@ -2173,7 +2173,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 3        | 3.06%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 2        | 2.04%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2        | 2.04%   |
-| Qualcomm Fairphone 4 5G                                           | 2        | 2.04%   |
+| Qualcomm Nokia G400 5G                                            | 2        | 2.04%   |
 | Intel Ethernet Controller I225-V                                  | 2        | 2.04%   |
 | HMD Global Nokia7.2                                               | 2        | 2.04%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.02%   |
@@ -2181,7 +2181,7 @@ Ethernet models
 | Sundance Inc / IC Plus IP1000 Family Gigabit Ethernet             | 1        | 1.02%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.02%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 1.02%   |
-| MediaTek TECNO SPARK 9T                                           | 1        | 1.02%   |
+| MediaTek Armor X10 Pro                                            | 1        | 1.02%   |
 | Intel Ethernet Connection (7) I219-V                              | 1        | 1.02%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 1.02%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 1        | 1.02%   |
@@ -2385,7 +2385,7 @@ Memory module models
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
 | Corsair RAM CMK8GX4M1E3200C16 8GB DIMM DDR4 3200MT/s   | 3        | 6.98%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s    | 2        | 4.65%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s     | 2        | 4.65%   |
 | Corsair RAM CMK8GX4M1A2400C16 8GB DIMM DDR4 2800MT/s   | 2        | 4.65%   |
 | Unknown RAM Module 8GB DIMM DDR4 3200MT/s              | 1        | 2.33%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                | 1        | 2.33%   |
@@ -2408,7 +2408,7 @@ Memory module models
 | Qumo RAM Module 8192MB DIMM DDR4 2400MT/s              | 1        | 2.33%   |
 | Patriot RAM PSD48G240082 8GB DIMM DDR4 2400MT/s        | 1        | 2.33%   |
 | Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s     | 1        | 2.33%   |
-| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 3151MT/s    | 1        | 2.33%   |
+| Kingston RAM KHX2400C15D4/4G 4096MB DIMM DDR4 3151MT/s | 1        | 2.33%   |
 | Kingston RAM CL16-18-18 D4-3200 8GB DIMM DDR4 3200MT/s | 1        | 2.33%   |
 | Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s  | 1        | 2.33%   |
 | GeIL RAM CL11-11-11 D3-1600 4GB DIMM DDR3 1600MT/s     | 1        | 2.33%   |

@@ -157,10 +157,12 @@ Contents
 Test Cases
 ----------
 
-Total: 101
+Total: 103
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | VivoBook E14 E402YA_L402... | Notebook    | [54dfdc8842](https://linux-hardware.org/?probe=54dfdc8842) | Jun 28, 2023 |
+| HP            | Pavilion dv6700             | Notebook    | [c5e6819ca8](https://linux-hardware.org/?probe=c5e6819ca8) | Jun 26, 2023 |
 | Dell          | Vostro 1015                 | Notebook    | [c51af54d34](https://linux-hardware.org/?probe=c51af54d34) | May 28, 2023 |
 | MSI           | MPG Z390 GAMING PRO CARB... | Desktop     | [4551c437bf](https://linux-hardware.org/?probe=4551c437bf) | May 18, 2023 |
 | HP            | 620                         | Notebook    | [6b688ce696](https://linux-hardware.org/?probe=6b688ce696) | May 17, 2023 |
@@ -787,12 +789,12 @@ Used RAM memory
 
 | Used GB    | Computers | Percent |
 |------------|-----------|---------|
-| 0.51-1.0   | 29        | 36.25%  |
-| 0.01-0.5   | 28        | 35%     |
-| 1.01-2.0   | 14        | 17.5%   |
-| 2.01-3.0   | 6         | 7.5%    |
-| 4.01-8.0   | 2         | 2.5%    |
-| 32.01-64.0 | 1         | 1.25%   |
+| 0.51-1.0   | 29        | 35.8%   |
+| 0.01-0.5   | 29        | 35.8%   |
+| 1.01-2.0   | 14        | 17.28%  |
+| 2.01-3.0   | 6         | 7.41%   |
+| 4.01-8.0   | 2         | 2.47%   |
+| 32.01-64.0 | 1         | 1.23%   |
 
 Total Drives
 ------------
@@ -804,12 +806,12 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 57        | 71.25%  |
-| 2      | 12        | 15%     |
-| 3      | 4         | 5%      |
-| 4      | 3         | 3.75%   |
-| 0      | 3         | 3.75%   |
-| 5      | 1         | 1.25%   |
+| 1      | 57        | 70.37%  |
+| 2      | 13        | 16.05%  |
+| 3      | 4         | 4.94%   |
+| 4      | 3         | 3.7%    |
+| 0      | 3         | 3.7%    |
+| 5      | 1         | 1.23%   |
 
 Has CD-ROM
 ----------
@@ -915,46 +917,46 @@ Geographic location (city)
 
 | City                      | Computers | Percent |
 |---------------------------|-----------|---------|
-| Shatin                    | 7         | 8.64%   |
-| Sydney                    | 2         | 2.47%   |
-| St Petersburg             | 2         | 2.47%   |
-| Moscow                    | 2         | 2.47%   |
-| Central                   | 2         | 2.47%   |
-| Bratislava                | 2         | 2.47%   |
-| Zagnansk                  | 1         | 1.23%   |
-| Yuzhno-Sakhalinsk         | 1         | 1.23%   |
-| Yokohama                  | 1         | 1.23%   |
-| Ybbs an der Donau         | 1         | 1.23%   |
-| Whitney                   | 1         | 1.23%   |
-| Warsaw                    | 1         | 1.23%   |
-| Violes                    | 1         | 1.23%   |
-| Torricella Sicura         | 1         | 1.23%   |
-| Toms River                | 1         | 1.23%   |
-| Sofia                     | 1         | 1.23%   |
-| Sheung Shui               | 1         | 1.23%   |
-| Schloss Holte-Stukenbrock | 1         | 1.23%   |
-| Santiago                  | 1         | 1.23%   |
-| Salto                     | 1         | 1.23%   |
-| Rotterdam                 | 1         | 1.23%   |
-| Romilly-sur-Seine         | 1         | 1.23%   |
-| Reutlingen                | 1         | 1.23%   |
-| Purmerend                 | 1         | 1.23%   |
-| Portland                  | 1         | 1.23%   |
-| Padova                    | 1         | 1.23%   |
-| Otwock                    | 1         | 1.23%   |
-| Nova Londrina             | 1         | 1.23%   |
-| Norden                    | 1         | 1.23%   |
-| Neyagawa                  | 1         | 1.23%   |
-| Nairobi                   | 1         | 1.23%   |
-| Montevideo                | 1         | 1.23%   |
-| Mittegrossefehn           | 1         | 1.23%   |
-| Milan                     | 1         | 1.23%   |
-| Miami                     | 1         | 1.23%   |
-| Mechanicsburg             | 1         | 1.23%   |
-| Mason                     | 1         | 1.23%   |
-| Maringá                  | 1         | 1.23%   |
-| Marcinelle                | 1         | 1.23%   |
-| Maidstone                 | 1         | 1.23%   |
+| Shatin                    | 7         | 8.54%   |
+| Sydney                    | 2         | 2.44%   |
+| St Petersburg             | 2         | 2.44%   |
+| Moscow                    | 2         | 2.44%   |
+| Central                   | 2         | 2.44%   |
+| Bratislava                | 2         | 2.44%   |
+| Zagnansk                  | 1         | 1.22%   |
+| Yuzhno-Sakhalinsk         | 1         | 1.22%   |
+| Yokohama                  | 1         | 1.22%   |
+| Ybbs an der Donau         | 1         | 1.22%   |
+| Whitney                   | 1         | 1.22%   |
+| Warsaw                    | 1         | 1.22%   |
+| Violes                    | 1         | 1.22%   |
+| Torricella Sicura         | 1         | 1.22%   |
+| Toms River                | 1         | 1.22%   |
+| Sofia                     | 1         | 1.22%   |
+| Sheung Shui               | 1         | 1.22%   |
+| Schloss Holte-Stukenbrock | 1         | 1.22%   |
+| Santiago                  | 1         | 1.22%   |
+| Salto                     | 1         | 1.22%   |
+| Rotterdam                 | 1         | 1.22%   |
+| Romilly-sur-Seine         | 1         | 1.22%   |
+| Reutlingen                | 1         | 1.22%   |
+| Purmerend                 | 1         | 1.22%   |
+| Portland                  | 1         | 1.22%   |
+| Padova                    | 1         | 1.22%   |
+| Otwock                    | 1         | 1.22%   |
+| Nova Londrina             | 1         | 1.22%   |
+| Norden                    | 1         | 1.22%   |
+| Neyagawa                  | 1         | 1.22%   |
+| Nairobi                   | 1         | 1.22%   |
+| Montevideo                | 1         | 1.22%   |
+| Mittegrossefehn           | 1         | 1.22%   |
+| Milan                     | 1         | 1.22%   |
+| Miami                     | 1         | 1.22%   |
+| Mechanicsburg             | 1         | 1.22%   |
+| Mason                     | 1         | 1.22%   |
+| Maringá                  | 1         | 1.22%   |
+| Marcinelle                | 1         | 1.22%   |
+| Maidstone                 | 1         | 1.22%   |
 
 Drives
 ------
@@ -969,34 +971,34 @@ Hard drive vendors
 
 | Vendor                    | Computers | Drives | Percent |
 |---------------------------|-----------|--------|---------|
-| WDC                       | 18        | 20     | 18.18%  |
-| Seagate                   | 15        | 15     | 15.15%  |
-| Hitachi                   | 13        | 14     | 13.13%  |
-| Samsung Electronics       | 11        | 13     | 11.11%  |
-| Toshiba                   | 9         | 10     | 9.09%   |
-| Unknown                   | 4         | 4      | 4.04%   |
-| Kingston                  | 4         | 5      | 4.04%   |
-| BHT                       | 3         | 4      | 3.03%   |
-| Micron/Crucial Technology | 2         | 2      | 2.02%   |
-| Intel                     | 2         | 2      | 2.02%   |
-| Zheino                    | 1         | 1      | 1.01%   |
-| Unknown (CF)              | 1         | 1      | 1.01%   |
-| Transcend                 | 1         | 1      | 1.01%   |
-| SanDisk                   | 1         | 1      | 1.01%   |
-| RECADATA                  | 1         | 1      | 1.01%   |
-| PNY                       | 1         | 1      | 1.01%   |
-| OCZ                       | 1         | 1      | 1.01%   |
-| Maxtor                    | 1         | 1      | 1.01%   |
-| IBM/Hitachi               | 1         | 1      | 1.01%   |
-| HGST                      | 1         | 1      | 1.01%   |
-| Hewlett-Packard           | 1         | 1      | 1.01%   |
-| Fujitsu                   | 1         | 1      | 1.01%   |
-| Crucial                   | 1         | 1      | 1.01%   |
-| China                     | 1         | 1      | 1.01%   |
-| BIWIN                     | 1         | 1      | 1.01%   |
-| ASUS-PHISON               | 1         | 1      | 1.01%   |
-| Apacer                    | 1         | 1      | 1.01%   |
-| Unknown                   | 1         | 1      | 1.01%   |
+| WDC                       | 18        | 20     | 18%     |
+| Seagate                   | 15        | 15     | 15%     |
+| Hitachi                   | 13        | 14     | 13%     |
+| Samsung Electronics       | 11        | 13     | 11%     |
+| Toshiba                   | 9         | 10     | 9%      |
+| Unknown                   | 4         | 4      | 4%      |
+| Kingston                  | 4         | 5      | 4%      |
+| BHT                       | 3         | 5      | 3%      |
+| Micron/Crucial Technology | 2         | 2      | 2%      |
+| Maxtor                    | 2         | 2      | 2%      |
+| Intel                     | 2         | 2      | 2%      |
+| Zheino                    | 1         | 1      | 1%      |
+| Unknown (CF)              | 1         | 1      | 1%      |
+| Transcend                 | 1         | 1      | 1%      |
+| SanDisk                   | 1         | 1      | 1%      |
+| RECADATA                  | 1         | 1      | 1%      |
+| PNY                       | 1         | 1      | 1%      |
+| OCZ                       | 1         | 1      | 1%      |
+| IBM/Hitachi               | 1         | 1      | 1%      |
+| HGST                      | 1         | 1      | 1%      |
+| Hewlett-Packard           | 1         | 1      | 1%      |
+| Fujitsu                   | 1         | 1      | 1%      |
+| Crucial                   | 1         | 1      | 1%      |
+| China                     | 1         | 1      | 1%      |
+| BIWIN                     | 1         | 1      | 1%      |
+| ASUS-PHISON               | 1         | 1      | 1%      |
+| Apacer                    | 1         | 1      | 1%      |
+| Unknown                   | 1         | 1      | 1%      |
 
 Drive Model
 -----------
@@ -1008,46 +1010,46 @@ Hard drive models
 
 | Model                                   | Computers | Percent |
 |-----------------------------------------|-----------|---------|
-| WDC WD800AAJS-75M0A0 80GB               | 2         | 1.96%   |
-| WDC WD5000LPVX-22V0TT0 500GB            | 2         | 1.96%   |
-| WDC WD10SPZX-80Z10T2 1TB                | 2         | 1.96%   |
-| Toshiba MQ01ABD050V -63 500GB           | 2         | 1.96%   |
-| Seagate ST980811AS 80GB                 | 2         | 1.96%   |
-| Samsung SSD 850 EVO 120GB               | 2         | 1.96%   |
-| Samsung SSD 750 EVO 120GB               | 2         | 1.96%   |
-| Kingston SA400S37240G 240GB SSD         | 2         | 1.96%   |
-| Hitachi HTS723232A7A364 320GB           | 2         | 1.96%   |
-| Hitachi HTS548040M9AT00 40GB            | 2         | 1.96%   |
-| Hitachi HTS542525K9SA00 250GB           | 2         | 1.96%   |
-| BHT WR202F0032G 670270F5 32GB SSD       | 2         | 1.96%   |
-| Zheino CHN mSATAM3 128 128GB SSD        | 1         | 0.98%   |
-| WDC WD8088AADS-00M2B0 809GB             | 1         | 0.98%   |
-| WDC WD800JB-00ETA0 80GB                 | 1         | 0.98%   |
-| WDC WD5000LPLX-08ZNTT0 500GB            | 1         | 0.98%   |
-| WDC WD5000LPCX-24VHAT0 500GB            | 1         | 0.98%   |
-| WDC WD5000BEVT-22A0RT0 500GB            | 1         | 0.98%   |
-| WDC WD3200BEVT-60ZCT1 320GB             | 1         | 0.98%   |
-| WDC WD3200BEVT-22ZCT0 320GB             | 1         | 0.98%   |
-| WDC WD2500BEVT-22ZCT0 250GB             | 1         | 0.98%   |
-| WDC WD205BA 21GB                        | 1         | 0.98%   |
-| WDC WD2003FZEX-00Z4SA0 2TB              | 1         | 0.98%   |
-| WDC WD1600BEVS-22RST0 160GB             | 1         | 0.98%   |
-| WDC WD1600AAJS-00PSA0 160GB             | 1         | 0.98%   |
-| WDC WD1200BEVE-00A0HT0 120GB            | 1         | 0.98%   |
-| WDC WD10EADS-65M2B0 1TB                 | 1         | 0.98%   |
-| Unknown SR64G  64GB                     | 1         | 0.98%   |
-| Unknown SD/MMC/MS PRO 64GB              | 1         | 0.98%   |
-| Unknown HAG2e  16GB                     | 1         | 0.98%   |
-| Unknown 2GB ATA Flash Disk              | 1         | 0.98%   |
-| Unknown (CF) Card 16GB SSD              | 1         | 0.98%   |
-| Transcend SSD 2GB                       | 1         | 0.98%   |
-| Toshiba THNSNJ256G8NY 256GB SSD         | 1         | 0.98%   |
-| Toshiba THNS128GG4BAAA-NonFDE 128GB SSD | 1         | 0.98%   |
-| Toshiba MQ01ABF050 500GB                | 1         | 0.98%   |
-| Toshiba MQ01ABD100 1TB                  | 1         | 0.98%   |
-| Toshiba MK2576GSX 250GB                 | 1         | 0.98%   |
-| Toshiba MG06ACA600E 6TB                 | 1         | 0.98%   |
-| Toshiba DT01ACA100 1TB                  | 1         | 0.98%   |
+| WDC WD800AAJS-75M0A0 80GB               | 2         | 1.94%   |
+| WDC WD5000LPVX-22V0TT0 500GB            | 2         | 1.94%   |
+| WDC WD10SPZX-80Z10T2 1TB                | 2         | 1.94%   |
+| Toshiba MQ01ABD050V -63 500GB           | 2         | 1.94%   |
+| Seagate ST980811AS 80GB                 | 2         | 1.94%   |
+| Samsung SSD 850 EVO 120GB               | 2         | 1.94%   |
+| Samsung SSD 750 EVO 120GB               | 2         | 1.94%   |
+| Maxtor Z1 SSD 240GB                     | 2         | 1.94%   |
+| Kingston SA400S37240G 240GB SSD         | 2         | 1.94%   |
+| Hitachi HTS723232A7A364 320GB           | 2         | 1.94%   |
+| Hitachi HTS548040M9AT00 40GB            | 2         | 1.94%   |
+| Hitachi HTS542525K9SA00 250GB           | 2         | 1.94%   |
+| BHT WR202F0032G 670270F5 32GB SSD       | 2         | 1.94%   |
+| Zheino CHN mSATAM3 128 128GB SSD        | 1         | 0.97%   |
+| WDC WD8088AADS-00M2B0 809GB             | 1         | 0.97%   |
+| WDC WD800JB-00ETA0 80GB                 | 1         | 0.97%   |
+| WDC WD5000LPLX-08ZNTT0 500GB            | 1         | 0.97%   |
+| WDC WD5000LPCX-24VHAT0 500GB            | 1         | 0.97%   |
+| WDC WD5000BEVT-22A0RT0 500GB            | 1         | 0.97%   |
+| WDC WD3200BEVT-60ZCT1 320GB             | 1         | 0.97%   |
+| WDC WD3200BEVT-22ZCT0 320GB             | 1         | 0.97%   |
+| WDC WD2500BEVT-22ZCT0 250GB             | 1         | 0.97%   |
+| WDC WD205BA 21GB                        | 1         | 0.97%   |
+| WDC WD2003FZEX-00Z4SA0 2TB              | 1         | 0.97%   |
+| WDC WD1600BEVS-22RST0 160GB             | 1         | 0.97%   |
+| WDC WD1600AAJS-00PSA0 160GB             | 1         | 0.97%   |
+| WDC WD1200BEVE-00A0HT0 120GB            | 1         | 0.97%   |
+| WDC WD10EADS-65M2B0 1TB                 | 1         | 0.97%   |
+| Unknown SR64G  64GB                     | 1         | 0.97%   |
+| Unknown SD/MMC/MS PRO 250GB             | 1         | 0.97%   |
+| Unknown HAG2e  16GB                     | 1         | 0.97%   |
+| Unknown 2GB ATA Flash Disk              | 1         | 0.97%   |
+| Unknown (CF) Card 16GB SSD              | 1         | 0.97%   |
+| Transcend SSD 2GB                       | 1         | 0.97%   |
+| Toshiba THNSNJ256G8NY 256GB SSD         | 1         | 0.97%   |
+| Toshiba THNS128GG4BAAA-NonFDE 128GB SSD | 1         | 0.97%   |
+| Toshiba MQ01ABF050 500GB                | 1         | 0.97%   |
+| Toshiba MQ01ABD100 1TB                  | 1         | 0.97%   |
+| Toshiba MK2576GSX 250GB                 | 1         | 0.97%   |
+| Toshiba MG06ACA600E 6TB                 | 1         | 0.97%   |
 
 HDD Vendor
 ----------
@@ -1079,26 +1081,26 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 5         | 5      | 16.67%  |
-| Kingston            | 4         | 5      | 13.33%  |
-| BHT                 | 3         | 4      | 10%     |
-| Toshiba             | 2         | 2      | 6.67%   |
-| Zheino              | 1         | 1      | 3.33%   |
-| Unknown (CF)        | 1         | 1      | 3.33%   |
-| Transcend           | 1         | 1      | 3.33%   |
-| SanDisk             | 1         | 1      | 3.33%   |
-| RECADATA            | 1         | 1      | 3.33%   |
-| PNY                 | 1         | 1      | 3.33%   |
-| OCZ                 | 1         | 1      | 3.33%   |
-| Maxtor              | 1         | 1      | 3.33%   |
-| Intel               | 1         | 1      | 3.33%   |
-| Hewlett-Packard     | 1         | 1      | 3.33%   |
-| Crucial             | 1         | 1      | 3.33%   |
-| China               | 1         | 1      | 3.33%   |
-| BIWIN               | 1         | 1      | 3.33%   |
-| ASUS-PHISON         | 1         | 1      | 3.33%   |
-| Apacer              | 1         | 1      | 3.33%   |
-| Unknown             | 1         | 1      | 3.33%   |
+| Samsung Electronics | 5         | 5      | 16.13%  |
+| Kingston            | 4         | 5      | 12.9%   |
+| BHT                 | 3         | 5      | 9.68%   |
+| Toshiba             | 2         | 2      | 6.45%   |
+| Maxtor              | 2         | 2      | 6.45%   |
+| Zheino              | 1         | 1      | 3.23%   |
+| Unknown (CF)        | 1         | 1      | 3.23%   |
+| Transcend           | 1         | 1      | 3.23%   |
+| SanDisk             | 1         | 1      | 3.23%   |
+| RECADATA            | 1         | 1      | 3.23%   |
+| PNY                 | 1         | 1      | 3.23%   |
+| OCZ                 | 1         | 1      | 3.23%   |
+| Intel               | 1         | 1      | 3.23%   |
+| Hewlett-Packard     | 1         | 1      | 3.23%   |
+| Crucial             | 1         | 1      | 3.23%   |
+| China               | 1         | 1      | 3.23%   |
+| BIWIN               | 1         | 1      | 3.23%   |
+| ASUS-PHISON         | 1         | 1      | 3.23%   |
+| Apacer              | 1         | 1      | 3.23%   |
+| Unknown             | 1         | 1      | 3.23%   |
 
 Drive Kind
 ----------
@@ -1111,7 +1113,7 @@ HDD or SSD
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
 | HDD  | 55        | 67     | 61.11%  |
-| SSD  | 29        | 32     | 32.22%  |
+| SSD  | 29        | 34     | 32.22%  |
 | NVMe | 4         | 6      | 4.44%   |
 | MMC  | 2         | 2      | 2.22%   |
 
@@ -1125,7 +1127,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 75        | 98     | 91.46%  |
+| SATA | 75        | 100    | 91.46%  |
 | NVMe | 4         | 6      | 4.88%   |
 | MMC  | 2         | 2      | 2.44%   |
 | SAS  | 1         | 1      | 1.22%   |
@@ -1140,7 +1142,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 72        | 86     | 85.71%  |
+| 0.01-0.5   | 72        | 88     | 85.71%  |
 | 0.51-1.0   | 10        | 10     | 11.9%   |
 | 1.01-2.0   | 1         | 1      | 1.19%   |
 | 4.01-10.0  | 1         | 2      | 1.19%   |
@@ -1155,15 +1157,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Computers | Percent |
 |----------------|-----------|---------|
-| 101-250        | 22        | 27.16%  |
-| 1-20           | 21        | 25.93%  |
-| 51-100         | 11        | 13.58%  |
-| 21-50          | 10        | 12.35%  |
-| 251-500        | 8         | 9.88%   |
-| 501-1000       | 6         | 7.41%   |
-| More than 3000 | 1         | 1.23%   |
-| 1001-2000      | 1         | 1.23%   |
-| Unknown        | 1         | 1.23%   |
+| 101-250        | 23        | 28.05%  |
+| 1-20           | 21        | 25.61%  |
+| 51-100         | 11        | 13.41%  |
+| 21-50          | 10        | 12.2%   |
+| 251-500        | 8         | 9.76%   |
+| 501-1000       | 6         | 7.32%   |
+| More than 3000 | 1         | 1.22%   |
+| 1001-2000      | 1         | 1.22%   |
+| Unknown        | 1         | 1.22%   |
 
 Space Used
 ----------
@@ -1294,7 +1296,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 46        | 66     | 53.49%  |
+| Works    | 46        | 68     | 53.49%  |
 | Malfunc  | 32        | 32     | 37.21%  |
 | Detected | 8         | 9      | 9.3%    |
 
@@ -1813,15 +1815,15 @@ Monitor models
 | LG Display LP101WH1-TLB5 LGD0248 1366x768 224x126mm 10.1-inch            | 1         | 1.72%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch             | 1         | 1.72%   |
 | LG Display LCD Monitor LGD04B2 1920x1080 309x175mm 14.0-inch             | 1         | 1.72%   |
-| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 1         | 1.72%   |
-| LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch              | 1         | 1.72%   |
+| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch             | 1         | 1.72%   |
+| LG Display LCD Monitor LGD045E 1366x768 309x174mm 14.0-inch              | 1         | 1.72%   |
 | LG Display LCD Monitor LGD034D 1366x768 344x194mm 15.5-inch              | 1         | 1.72%   |
 | LG Display LCD Monitor LGD033B 1366x768 344x194mm 15.5-inch              | 1         | 1.72%   |
 | LG Display LCD Monitor LGD02C7 1366x768 293x165mm 13.2-inch              | 1         | 1.72%   |
 | LG Display LCD Monitor LGD028A 1366x768 344x194mm 15.5-inch              | 1         | 1.72%   |
 | Lenovo LEN T24i-20 LEN61F7 1920x1080 527x296mm 23.8-inch                 | 1         | 1.72%   |
-| Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 1.72%   |
-| InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch              | 1         | 1.72%   |
+| Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch                  | 1         | 1.72%   |
+| InfoVision LCD Monitor IVO03F4 1920x1200 263x164mm 12.2-inch             | 1         | 1.72%   |
 | HJW HDMI TO USB HJW0001 1920x1080 708x398mm 32.0-inch                    | 1         | 1.72%   |
 | Hewlett-Packard ALL-in-One HPN4018 1920x1080 527x297mm 23.8-inch         | 1         | 1.72%   |
 | HannStar LCD Monitor HSD0325 1024x600 195x113mm 8.9-inch                 | 1         | 1.72%   |
@@ -2236,8 +2238,8 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| WiFi     | 54        | 66.67%  |
-| Ethernet | 27        | 33.33%  |
+| WiFi     | 55        | 67.07%  |
+| Ethernet | 27        | 32.93%  |
 
 NICs
 ----
@@ -2412,24 +2414,24 @@ Memory module vendors
 
 | Vendor              | Computers | Percent |
 |---------------------|-----------|---------|
-| Unknown             | 32        | 37.21%  |
-| SK hynix            | 12        | 13.95%  |
-| Samsung Electronics | 11        | 12.79%  |
-| Unknown             | 7         | 8.14%   |
-| Kingston            | 6         | 6.98%   |
-| Micron Technology   | 4         | 4.65%   |
-| Crucial             | 2         | 2.33%   |
-| Corsair             | 2         | 2.33%   |
-| Unknown (ABCD)      | 1         | 1.16%   |
-| Unknown (8A02)      | 1         | 1.16%   |
-| Unknown (0x0DA2)    | 1         | 1.16%   |
-| tigo                | 1         | 1.16%   |
-| Smart               | 1         | 1.16%   |
-| Ramaxel Technology  | 1         | 1.16%   |
-| Patriot             | 1         | 1.16%   |
-| Kllisre             | 1         | 1.16%   |
-| Avant               | 1         | 1.16%   |
-| A-DATA Technology   | 1         | 1.16%   |
+| Unknown             | 33        | 37.93%  |
+| SK hynix            | 12        | 13.79%  |
+| Samsung Electronics | 11        | 12.64%  |
+| Unknown             | 7         | 8.05%   |
+| Kingston            | 6         | 6.9%    |
+| Micron Technology   | 4         | 4.6%    |
+| Crucial             | 2         | 2.3%    |
+| Corsair             | 2         | 2.3%    |
+| Unknown (ABCD)      | 1         | 1.15%   |
+| Unknown (8A02)      | 1         | 1.15%   |
+| Unknown (0x0DA2)    | 1         | 1.15%   |
+| tigo                | 1         | 1.15%   |
+| Smart               | 1         | 1.15%   |
+| Ramaxel Technology  | 1         | 1.15%   |
+| Patriot             | 1         | 1.15%   |
+| Kllisre             | 1         | 1.15%   |
+| Avant               | 1         | 1.15%   |
+| A-DATA Technology   | 1         | 1.15%   |
 
 Memory Model
 ------------
@@ -2441,46 +2443,46 @@ Memory module models
 
 | Model                                                          | Computers | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Unknown                                                        | 7         | 7.69%   |
-| Unknown RAM Module 2GB DIMM SDRAM                              | 3         | 3.3%    |
-| Unknown RAM Module 1024MB SODIMM DDR                           | 3         | 3.3%    |
-| Unknown RAM Module 512MB SODIMM DDR                            | 2         | 2.2%    |
-| Unknown RAM Module 2GB SODIMM SDRAM                            | 2         | 2.2%    |
-| Unknown RAM Module 256MB SODIMM DRAM                           | 2         | 2.2%    |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s          | 2         | 2.2%    |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 2         | 2.2%    |
-| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3534MT/s         | 2         | 2.2%    |
-| Unknown RAM Module 512MB SODIMM SDRAM                          | 1         | 1.1%    |
-| Unknown RAM Module 512MB SODIMM DRAM                           | 1         | 1.1%    |
-| Unknown RAM Module 512MB SODIMM DDR2 533MT/s                   | 1         | 1.1%    |
-| Unknown RAM Module 512MB DIMM DDR 400MT/s                      | 1         | 1.1%    |
-| Unknown RAM Module 512MB DIMM DDR 333MT/s                      | 1         | 1.1%    |
-| Unknown RAM Module 512MB DIMM                                  | 1         | 1.1%    |
-| Unknown RAM Module 2GB SODIMM DRAM                             | 1         | 1.1%    |
-| Unknown RAM Module 2GB SODIMM DDR3 800MT/s                     | 1         | 1.1%    |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                     | 1         | 1.1%    |
-| Unknown RAM Module 2GB SODIMM DDR2                             | 1         | 1.1%    |
-| Unknown RAM Module 2GB SODIMM DDR                              | 1         | 1.1%    |
-| Unknown RAM Module 2GB DIMM DDR3 800MT/s                       | 1         | 1.1%    |
-| Unknown RAM Module 256MB DIMM SDRAM                            | 1         | 1.1%    |
-| Unknown RAM Module 2048MB SODIMM SDRAM                         | 1         | 1.1%    |
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                  | 1         | 1.1%    |
-| Unknown RAM Module 1GB SODIMM DRAM                             | 1         | 1.1%    |
-| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                     | 1         | 1.1%    |
-| Unknown RAM Module 1GB SODIMM DDR2                             | 1         | 1.1%    |
-| Unknown RAM Module 1GB DIMM SDRAM                              | 1         | 1.1%    |
-| Unknown RAM Module 1GB DIMM DDR 333MT/s                        | 1         | 1.1%    |
-| Unknown RAM Module 1GB DIMM 667MT/s                            | 1         | 1.1%    |
-| Unknown RAM Module 1024MB SODIMM SDRAM                         | 1         | 1.1%    |
-| Unknown RAM Module 1024MB DIMM SDRAM                           | 1         | 1.1%    |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                    | 1         | 1.1%    |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1         | 1.1%    |
-| Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s | 1         | 1.1%    |
-| Unknown (0x0DA2) RAM SB-DR5U-32G 32GB DIMM DDR5 4800MT/s       | 1         | 1.1%    |
-| tigo RAM 1600Mhz-4G 4GB DIMM DDR3 1600MT/s                     | 1         | 1.1%    |
-| Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s             | 1         | 1.1%    |
-| SK hynix RAM Module 512MB SODIMM DDR2 533MT/s                  | 1         | 1.1%    |
-| SK hynix RAM Module 1GB SODIMM DDR3 1067MT/s                   | 1         | 1.1%    |
+| Unknown                                                        | 7         | 7.53%   |
+| Unknown RAM Module 2GB DIMM SDRAM                              | 3         | 3.23%   |
+| Unknown RAM Module 1024MB SODIMM DDR                           | 3         | 3.23%   |
+| Unknown RAM Module 512MB SODIMM DDR                            | 2         | 2.15%   |
+| Unknown RAM Module 2GB SODIMM SDRAM                            | 2         | 2.15%   |
+| Unknown RAM Module 256MB SODIMM DRAM                           | 2         | 2.15%   |
+| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                     | 2         | 2.15%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s          | 2         | 2.15%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 2         | 2.15%   |
+| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3534MT/s         | 2         | 2.15%   |
+| Unknown RAM Module 512MB SODIMM SDRAM                          | 1         | 1.08%   |
+| Unknown RAM Module 512MB SODIMM DRAM                           | 1         | 1.08%   |
+| Unknown RAM Module 512MB SODIMM DDR2 533MT/s                   | 1         | 1.08%   |
+| Unknown RAM Module 512MB DIMM DDR 400MT/s                      | 1         | 1.08%   |
+| Unknown RAM Module 512MB DIMM DDR 333MT/s                      | 1         | 1.08%   |
+| Unknown RAM Module 512MB DIMM                                  | 1         | 1.08%   |
+| Unknown RAM Module 2GB SODIMM DRAM                             | 1         | 1.08%   |
+| Unknown RAM Module 2GB SODIMM DDR3 800MT/s                     | 1         | 1.08%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                     | 1         | 1.08%   |
+| Unknown RAM Module 2GB SODIMM DDR2 533MT/s                     | 1         | 1.08%   |
+| Unknown RAM Module 2GB SODIMM DDR2                             | 1         | 1.08%   |
+| Unknown RAM Module 2GB SODIMM DDR                              | 1         | 1.08%   |
+| Unknown RAM Module 2GB DIMM DDR3 800MT/s                       | 1         | 1.08%   |
+| Unknown RAM Module 256MB DIMM SDRAM                            | 1         | 1.08%   |
+| Unknown RAM Module 2048MB SODIMM SDRAM                         | 1         | 1.08%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                  | 1         | 1.08%   |
+| Unknown RAM Module 1GB SODIMM DRAM                             | 1         | 1.08%   |
+| Unknown RAM Module 1GB SODIMM DDR2                             | 1         | 1.08%   |
+| Unknown RAM Module 1GB DIMM SDRAM                              | 1         | 1.08%   |
+| Unknown RAM Module 1GB DIMM DDR 333MT/s                        | 1         | 1.08%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                            | 1         | 1.08%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                         | 1         | 1.08%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                           | 1         | 1.08%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                    | 1         | 1.08%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1         | 1.08%   |
+| Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s | 1         | 1.08%   |
+| Unknown (0x0DA2) RAM SB-DR5U-32G 32GB DIMM DDR5 4800MT/s       | 1         | 1.08%   |
+| tigo RAM 1600Mhz-4G 4GB DIMM DDR3 1600MT/s                     | 1         | 1.08%   |
+| Smart RAM SG564568FG8N6KFSQR 2GB DIMM DDR2 800MT/s             | 1         | 1.08%   |
+| SK hynix RAM Module 512MB SODIMM DDR2 533MT/s                  | 1         | 1.08%   |
 
 Memory Kind
 -----------
@@ -2492,15 +2494,15 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR3    | 23        | 30.67%  |
-| SDRAM   | 13        | 17.33%  |
-| DDR2    | 13        | 17.33%  |
-| DDR4    | 10        | 13.33%  |
-| DDR     | 8         | 10.67%  |
-| DRAM    | 4         | 5.33%   |
-| Unknown | 2         | 2.67%   |
-| LPDDR4  | 1         | 1.33%   |
-| DDR5    | 1         | 1.33%   |
+| DDR3    | 23        | 30.26%  |
+| DDR2    | 14        | 18.42%  |
+| SDRAM   | 13        | 17.11%  |
+| DDR4    | 10        | 13.16%  |
+| DDR     | 8         | 10.53%  |
+| DRAM    | 4         | 5.26%   |
+| Unknown | 2         | 2.63%   |
+| LPDDR4  | 1         | 1.32%   |
+| DDR5    | 1         | 1.32%   |
 
 Memory Form Factor
 ------------------
@@ -2512,9 +2514,9 @@ Physical design of the memory module
 
 | Name         | Computers | Percent |
 |--------------|-----------|---------|
-| SODIMM       | 52        | 69.33%  |
-| DIMM         | 22        | 29.33%  |
-| Row Of Chips | 1         | 1.33%   |
+| SODIMM       | 53        | 69.74%  |
+| DIMM         | 22        | 28.95%  |
+| Row Of Chips | 1         | 1.32%   |
 
 Memory Size
 -----------
@@ -2526,16 +2528,16 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 2048  | 25        | 29.07%  |
-| 1024  | 18        | 20.93%  |
-| 4096  | 16        | 18.6%   |
-| 512   | 9         | 10.47%  |
-| 16384 | 6         | 6.98%   |
-| 8192  | 5         | 5.81%   |
-| 256   | 3         | 3.49%   |
-| 64    | 2         | 2.33%   |
-| 32768 | 1         | 1.16%   |
-| 232   | 1         | 1.16%   |
+| 2048  | 26        | 29.55%  |
+| 1024  | 19        | 21.59%  |
+| 4096  | 16        | 18.18%  |
+| 512   | 9         | 10.23%  |
+| 16384 | 6         | 6.82%   |
+| 8192  | 5         | 5.68%   |
+| 256   | 3         | 3.41%   |
+| 64    | 2         | 2.27%   |
+| 32768 | 1         | 1.14%   |
+| 232   | 1         | 1.14%   |
 
 Memory Speed
 ------------
@@ -2547,28 +2549,28 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| Unknown | 22        | 28.21%  |
-| 1600    | 15        | 19.23%  |
-| 2400    | 5         | 6.41%   |
-| 800     | 4         | 5.13%   |
-| 667     | 4         | 5.13%   |
-| 1067    | 3         | 3.85%   |
-| 533     | 3         | 3.85%   |
-| 4199    | 2         | 2.56%   |
-| 3534    | 2         | 2.56%   |
-| 3266    | 2         | 2.56%   |
-| 3200    | 2         | 2.56%   |
-| 2667    | 2         | 2.56%   |
-| 1333    | 2         | 2.56%   |
-| 200     | 2         | 2.56%   |
-| 4800    | 1         | 1.28%   |
-| 2048    | 1         | 1.28%   |
-| 1866    | 1         | 1.28%   |
-| 1334    | 1         | 1.28%   |
-| 975     | 1         | 1.28%   |
-| 400     | 1         | 1.28%   |
-| 333     | 1         | 1.28%   |
-| 266     | 1         | 1.28%   |
+| Unknown | 22        | 27.85%  |
+| 1600    | 15        | 18.99%  |
+| 2400    | 5         | 6.33%   |
+| 800     | 4         | 5.06%   |
+| 667     | 4         | 5.06%   |
+| 533     | 4         | 5.06%   |
+| 1067    | 3         | 3.8%    |
+| 4199    | 2         | 2.53%   |
+| 3534    | 2         | 2.53%   |
+| 3266    | 2         | 2.53%   |
+| 3200    | 2         | 2.53%   |
+| 2667    | 2         | 2.53%   |
+| 1333    | 2         | 2.53%   |
+| 200     | 2         | 2.53%   |
+| 4800    | 1         | 1.27%   |
+| 2048    | 1         | 1.27%   |
+| 1866    | 1         | 1.27%   |
+| 1334    | 1         | 1.27%   |
+| 975     | 1         | 1.27%   |
+| 400     | 1         | 1.27%   |
+| 333     | 1         | 1.27%   |
+| 266     | 1         | 1.27%   |
 
 Printers & scanners
 -------------------
@@ -2618,11 +2620,10 @@ Camera device vendors
 | Suyin                                  | 4         | 10.53%  |
 | IMC Networks                           | 4         | 10.53%  |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 10.53%  |
+| Bison Electronics                      | 4         | 10.53%  |
 | Microdia                               | 3         | 7.89%   |
 | Sunplus Innovation Technology          | 2         | 5.26%   |
 | Pixart Imaging                         | 2         | 5.26%   |
-| Bison Electronics                      | 2         | 5.26%   |
-| Acer                                   | 2         | 5.26%   |
 | Syntek                                 | 1         | 2.63%   |
 | Silicon Motion                         | 1         | 2.63%   |
 | Realtek Semiconductor                  | 1         | 2.63%   |
@@ -2644,7 +2645,7 @@ Camera device models
 | Pixart Imaging GE 1.3 MP MiniCam Pro                    | 2         | 5.26%   |
 | Microdia Sonix USB 2.0 Camera                           | 2         | 5.26%   |
 | IMC Networks USB2.0 VGA UVC WebCam                      | 2         | 5.26%   |
-| Acer BisonCam, NB Pro                                   | 2         | 5.26%   |
+| Bison BisonCam, NB Pro                                  | 2         | 5.26%   |
 | Syntek Integrated Camera                                | 1         | 2.63%   |
 | Suyin USB2.0 UVC 1.3M WebCam                            | 1         | 2.63%   |
 | Suyin USB 2.0 Camera                                    | 1         | 2.63%   |
@@ -2746,8 +2747,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 56        | 70%     |
-| 1     | 19        | 23.75%  |
+| 0     | 57        | 71.25%  |
+| 1     | 18        | 22.5%   |
 | 2     | 3         | 3.75%   |
 | 3     | 2         | 2.5%    |
 
@@ -2761,11 +2762,11 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 17        | 54.84%  |
-| Fingerprint reader       | 7         | 22.58%  |
-| Communication controller | 3         | 9.68%   |
-| Sound                    | 1         | 3.23%   |
-| Net/ethernet             | 1         | 3.23%   |
-| Modem                    | 1         | 3.23%   |
-| Chipcard                 | 1         | 3.23%   |
+| Graphics card            | 16        | 53.33%  |
+| Fingerprint reader       | 7         | 23.33%  |
+| Communication controller | 3         | 10%     |
+| Sound                    | 1         | 3.33%   |
+| Net/ethernet             | 1         | 3.33%   |
+| Modem                    | 1         | 3.33%   |
+| Chipcard                 | 1         | 3.33%   |
 

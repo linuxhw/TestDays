@@ -834,12 +834,12 @@ Hard drive models
 | Origin Inception TLC830 SSD 120GB            | 1        | 2.08%   |
 | ORICO CN300-250G                             | 1        | 2.08%   |
 | Micron/Crucial NVMe SSD Drive 500GB          | 1        | 2.08%   |
-| Micron Crucial X6 SSD 500GB                  | 1        | 2.08%   |
+| Micron Crucial X6 SSD 1TB                    | 1        | 2.08%   |
 | Maxtor 7L250S0 256GB                         | 1        | 2.08%   |
 | LITEONIT LMT-512L9M-11 MSATA 512GB SSD       | 1        | 2.08%   |
 | Leven JAJS600M512C 512GB SSD                 | 1        | 2.08%   |
 | Kingston SV300S37A120G 120GB SSD             | 1        | 2.08%   |
-| JMicron Generic 320GB                        | 1        | 2.08%   |
+| JMicron Generic 240GB                        | 1        | 2.08%   |
 | Hitachi HDS728080PLA380 82GB                 | 1        | 2.08%   |
 
 HDD Vendor
@@ -868,20 +868,19 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 3        | 3      | 15.79%  |
-| Kingston            | 3        | 4      | 15.79%  |
-| SanDisk             | 2        | 2      | 10.53%  |
-| WDC                 | 1        | 1      | 5.26%   |
-| Seagate             | 1        | 1      | 5.26%   |
-| Origin              | 1        | 1      | 5.26%   |
-| Micron Technology   | 1        | 1      | 5.26%   |
-| LITEONIT            | 1        | 1      | 5.26%   |
-| Leven               | 1        | 1      | 5.26%   |
-| JMicron Technology  | 1        | 1      | 5.26%   |
-| Crucial             | 1        | 1      | 5.26%   |
-| China               | 1        | 1      | 5.26%   |
-| ASMT                | 1        | 1      | 5.26%   |
-| A-DATA Technology   | 1        | 1      | 5.26%   |
+| Samsung Electronics | 3        | 3      | 16.67%  |
+| Kingston            | 3        | 4      | 16.67%  |
+| SanDisk             | 2        | 2      | 11.11%  |
+| WDC                 | 1        | 1      | 5.56%   |
+| Seagate             | 1        | 1      | 5.56%   |
+| Origin              | 1        | 1      | 5.56%   |
+| Micron Technology   | 1        | 1      | 5.56%   |
+| LITEONIT            | 1        | 1      | 5.56%   |
+| Leven               | 1        | 1      | 5.56%   |
+| Crucial             | 1        | 1      | 5.56%   |
+| China               | 1        | 1      | 5.56%   |
+| ASMT                | 1        | 1      | 5.56%   |
+| A-DATA Technology   | 1        | 1      | 5.56%   |
 
 Drive Kind
 ----------
@@ -893,9 +892,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 16       | 20     | 41.03%  |
+| SSD     | 15       | 19     | 38.46%  |
 | HDD     | 14       | 20     | 35.9%   |
-| NVMe    | 5        | 8      | 12.82%  |
+| NVMe    | 6        | 9      | 15.38%  |
 | MMC     | 2        | 2      | 5.13%   |
 | Unknown | 2        | 2      | 5.13%   |
 
@@ -924,8 +923,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 19       | 28     | 65.52%  |
-| 0.51-1.0   | 9        | 11     | 31.03%  |
+| 0.01-0.5   | 19       | 26     | 65.52%  |
+| 0.51-1.0   | 9        | 12     | 31.03%  |
 | 1.01-2.0   | 1        | 1      | 3.45%   |
 
 Space Total
@@ -1438,33 +1437,33 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                           | Desktops | Percent |
-|-----------------------------------------------------------------|----------|---------|
-| Toshiba LCD Monitor TV 1920x1080                                | 1        | 4%      |
-| Sony TV SNYDC01 1360x768                                        | 1        | 4%      |
-| Samsung Electronics LCD Monitor SMS27A850T 2560x1440            | 1        | 4%      |
-| Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch              | 1        | 4%      |
-| LG Electronics LCD Monitor LG IPS FULLHD                        | 1        | 4%      |
-| LG Electronics LCD Monitor LG HDR 4K 7360x2160                  | 1        | 4%      |
-| Hewlett-Packard LCD Monitor w1907 3120x1050                     | 1        | 4%      |
-| Hewlett-Packard LCD Monitor 2310 1920x1080                      | 1        | 4%      |
-| Hewlett-Packard LCD Monitor 2009                                | 1        | 4%      |
-| HannStar Hanns.G HH241 HSD2275 1920x1080 521x293mm 23.5-inch    | 1        | 4%      |
-| Goldstar W2261 GSM56CE 1920x1080 477x268mm 21.5-inch            | 1        | 4%      |
-| Goldstar TV SSCR2 GSM8080 3840x2160                             | 1        | 4%      |
-| Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch             | 1        | 4%      |
-| Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch           | 1        | 4%      |
-| Element E2SW3918 E2SW3918 ELE6308 1366x768 1365x768mm 61.7-inch | 1        | 4%      |
-| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch               | 1        | 4%      |
-| Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch               | 1        | 4%      |
-| Dell LCD Monitor E228WFP                                        | 1        | 4%      |
-| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch              | 1        | 4%      |
-| AUS LCD Monitor VA32AQ 2560x1440                                | 1        | 4%      |
-| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch    | 1        | 4%      |
-| AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch                | 1        | 4%      |
-| AOC 2243W AOC2243 1920x1080 477x268mm 21.5-inch                 | 1        | 4%      |
-| Acer K243Y ACR08B7 1920x1080 527x296mm 23.8-inch                | 1        | 4%      |
-| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch              | 1        | 4%      |
+| Model                                                        | Desktops | Percent |
+|--------------------------------------------------------------|----------|---------|
+| Toshiba LCD Monitor TV 1920x1080                             | 1        | 4%      |
+| Sony TV SNYDC01 1360x768                                     | 1        | 4%      |
+| Samsung Electronics LCD Monitor SMS27A850T 2560x1440         | 1        | 4%      |
+| Panasonic TV MEIC135 1920x1080 698x392mm 31.5-inch           | 1        | 4%      |
+| LG Electronics LCD Monitor LG IPS FULLHD                     | 1        | 4%      |
+| LG Electronics LCD Monitor LG HDR 4K 7360x2160               | 1        | 4%      |
+| Hewlett-Packard LCD Monitor w1907 3120x1050                  | 1        | 4%      |
+| Hewlett-Packard LCD Monitor 2310 1920x1080                   | 1        | 4%      |
+| Hewlett-Packard LCD Monitor 2009                             | 1        | 4%      |
+| HannStar Hanns.G HH241 HSD2275 1920x1080 521x293mm 23.5-inch | 1        | 4%      |
+| Goldstar W2261 GSM56CE 1920x1080 477x268mm 21.5-inch         | 1        | 4%      |
+| Goldstar TV SSCR2 GSM8080 3840x2160                          | 1        | 4%      |
+| Goldstar E2050 GSM4EAD 1600x900 443x249mm 20.0-inch          | 1        | 4%      |
+| Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch        | 1        | 4%      |
+| Element ELSW3917BF ELE6308 1366x768 1365x768mm 61.7-inch     | 1        | 4%      |
+| Dell P2314H DEL4098 1920x1080 509x286mm 23.0-inch            | 1        | 4%      |
+| Dell P2217H DELA0D7 1920x1080 476x267mm 21.5-inch            | 1        | 4%      |
+| Dell LCD Monitor E228WFP                                     | 1        | 4%      |
+| BenQ EW3270U BNQ7950 3840x2160 700x390mm 31.5-inch           | 1        | 4%      |
+| AUS LCD Monitor VA32AQ 2560x1440                             | 1        | 4%      |
+| ASUSTek Computer VP28U AUS28B1 3840x2160 621x341mm 27.9-inch | 1        | 4%      |
+| AOC L19W931 AOC1993 1360x768 410x256mm 19.0-inch             | 1        | 4%      |
+| AOC 2243W AOC2243 1920x1080 477x268mm 21.5-inch              | 1        | 4%      |
+| Acer K243Y ACR08B7 1920x1080 527x296mm 23.8-inch             | 1        | 4%      |
+| Acer G226HQL ACR02EA 1920x1080 477x268mm 21.5-inch           | 1        | 4%      |
 
 Monitor Resolution
 ------------------
@@ -1641,7 +1640,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-LM                                  | 1        | 2.5%    |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 2.5%    |
 | Intel 82566DC-2 Gigabit Network Connection                             | 1        | 2.5%    |
-| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT2870]               | 1        | 2.5%    |
+| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT3070]               | 1        | 2.5%    |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]   | 1        | 2.5%    |
 | Broadcom NetLink BCM57788 Gigabit Ethernet PCIe                        | 1        | 2.5%    |
 | AVM FRITZ!WLAN AC 860                                                  | 1        | 2.5%    |
@@ -1688,7 +1687,7 @@ Wireless models
 | Intel Wireless-AC 9260                                                 | 1        | 6.67%   |
 | Intel Wireless 7265                                                    | 1        | 6.67%   |
 | Intel Wi-Fi 6 AX200                                                    | 1        | 6.67%   |
-| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT2870]               | 1        | 6.67%   |
+| Edimax EW-7711UTn nLite Wireless Adapter [Ralink RT3070]               | 1        | 6.67%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]   | 1        | 6.67%   |
 | AVM FRITZ!WLAN AC 860                                                  | 1        | 6.67%   |
 

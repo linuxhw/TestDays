@@ -878,7 +878,7 @@ Hard drive models
 | WDC WD5000AAKS-402AA0 500GB          | 1        | 1.96%   |
 | WDC WD5000AACS-00ZUB0 500GB          | 1        | 1.96%   |
 | WDC WD3200AAJS-60M0A1 320GB          | 1        | 1.96%   |
-| WDC WD2500AAJS-75M0A0 250GB          | 1        | 1.96%   |
+| WDC WD2500AAJS-75M0A0 249GB          | 1        | 1.96%   |
 | WDC WD10PURZ-85U8XY0 1TB             | 1        | 1.96%   |
 | WDC WD10EZEX-75WN4A1 1TB             | 1        | 1.96%   |
 | WDC WD10EZEX-00BN5A0 1TB             | 1        | 1.96%   |
@@ -1553,7 +1553,7 @@ Monitor models
 | Hewlett-Packard L1940T HWP2682 1280x1024 376x301mm 19.0-inch         | 1        | 2.7%    |
 | Hewlett-Packard E24i G4 HPN368F 1920x1200 518x324mm 24.1-inch        | 1        | 2.7%    |
 | Hewlett-Packard 2011 HWP2935 1600x900 443x249mm 20.0-inch            | 1        | 2.7%    |
-| Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch            | 1        | 2.7%    |
+| Hewlett-Packard 2011 HWP2934 1600x900 443x250mm 20.0-inch            | 1        | 2.7%    |
 | GDH Digital TV GDH0030 1920x540                                      | 1        | 2.7%    |
 | Dell S2721HGF DEL41E8 1920x1080 600x340mm 27.2-inch                  | 1        | 2.7%    |
 | BenQ T201W BNQ7719 1680x1050 433x271mm 20.1-inch                     | 1        | 2.7%    |
@@ -2010,8 +2010,8 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 3.7%    |
 | TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s               | 1        | 3.7%    |
 | TwinMOS RAM 9D7TBNZB-TATP 4096MB DIMM DDR3 1066MT/s            | 1        | 3.7%    |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s            | 1        | 3.7%    |
-| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2400MT/s             | 1        | 3.7%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s             | 1        | 3.7%    |
+| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s             | 1        | 3.7%    |
 | SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 3.7%    |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 3.7%    |
 | SK hynix RAM HMA82GU7CJR8N-VK 16384MB DIMM DDR4 2667MT/s       | 1        | 3.7%    |

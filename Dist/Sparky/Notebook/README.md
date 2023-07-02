@@ -874,7 +874,7 @@ Hard drive vendors
 | Samsung Electronics | 5         | 5      | 11.11%  |
 | Hitachi             | 4         | 7      | 8.89%   |
 | Intel               | 2         | 2      | 4.44%   |
-| GOODRAM             | 2         | 4      | 4.44%   |
+| Goodram             | 2         | 4      | 4.44%   |
 | SPCC                | 1         | 2      | 2.22%   |
 | Silicon Motion      | 1         | 1      | 2.22%   |
 | ORICO               | 1         | 1      | 2.22%   |
@@ -968,7 +968,7 @@ Solid state drive vendors
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 2         | 2      | 16.67%  |
 | Intel               | 2         | 2      | 16.67%  |
-| Goodram             | 2         | 4      | 16.67%  |
+| GOODRAM             | 2         | 4      | 16.67%  |
 | SPCC                | 1         | 2      | 8.33%   |
 | ORICO               | 1         | 1      | 8.33%   |
 | Netac               | 1         | 1      | 8.33%   |
@@ -1553,7 +1553,7 @@ Monitor models
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics S24D330 SAM0D93 1920x1080 531x299mm 24.0-inch    | 1         | 2.86%   |
 | Samsung Electronics LCD Monitor SEC4F45 1280x800 331x207mm 15.4-inch | 1         | 2.86%   |
-| Samsung Electronics LCD Monitor SEC4141 1280x800 261x163mm 12.1-inch | 1         | 2.86%   |
+| Samsung Electronics LCD Monitor SEC4141 1366x768 344x193mm 15.5-inch | 1         | 2.86%   |
 | Medion MD 20310 MED3645 1920x1080 521x293mm 23.5-inch                | 1         | 2.86%   |
 | LG Philips LCD Monitor LPLA002 1440x900 367x230mm 17.1-inch          | 1         | 2.86%   |
 | LG Display LP156WH1-TLA3 LGD01C2 1366x768 344x194mm 15.5-inch        | 1         | 2.86%   |
@@ -1565,7 +1565,7 @@ Monitor models
 | LG Display LCD Monitor LGD01C5 1366x768 293x165mm 13.2-inch          | 1         | 2.86%   |
 | Lenovo LCD Monitor LEN4033 1440x900 304x190mm 14.1-inch              | 1         | 2.86%   |
 | Lenovo LCD Monitor LEN4022 1400x1050 286x214mm 14.1-inch             | 1         | 2.86%   |
-| Insignia NS-32D20SNA14 BBY0032 1360x768 544x326mm 25.0-inch          | 1         | 2.86%   |
+| Insignia NS32DD200NA14 BBY0032 1680x1050 700x390mm 31.5-inch         | 1         | 2.86%   |
 | Hitachi HDMI HEC0088 1920x540                                        | 1         | 2.86%   |
 | HannStar HSD101PFW2 HSD03E9 1024x600 222x125mm 10.0-inch             | 1         | 2.86%   |
 | CPT LCD Monitor CPT37D5 1920x1200 260x160mm 12.0-inch                | 1         | 2.86%   |
@@ -1768,7 +1768,7 @@ Controller models
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                               | 1         | 1.59%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)          | 1         | 1.59%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                   | 1         | 1.59%   |
-| OPPO SM8350-MTP _SN:1518BD09                                            | 1         | 1.59%   |
+| OPPO CPH2411                                                            | 1         | 1.59%   |
 | Nvidia MCP51 Ethernet Controller                                        | 1         | 1.59%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                 | 1         | 1.59%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                 | 1         | 1.59%   |
@@ -1881,7 +1881,7 @@ Ethernet models
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 3.45%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 3.45%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1         | 3.45%   |
-| OPPO SM8350-MTP _SN:1518BD09                                      | 1         | 3.45%   |
+| OPPO CPH2411                                                      | 1         | 3.45%   |
 | Nvidia MCP51 Ethernet Controller                                  | 1         | 3.45%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 3.45%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 3.45%   |
@@ -2109,7 +2109,7 @@ Memory module models
 | Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 3.23%   |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s      | 1         | 3.23%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s      | 1         | 3.23%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 3.23%   |
+| Samsung RAM M471B5173EB0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 3.23%   |
 | Samsung RAM M471B2873FHS-CH9 1GB SODIMM DDR3 1334MT/s      | 1         | 3.23%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s      | 1         | 3.23%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s      | 1         | 3.23%   |
@@ -2362,8 +2362,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 20        | 57.14%  |
-| 1     | 12        | 34.29%  |
+| 0     | 21        | 60%     |
+| 1     | 11        | 31.43%  |
 | 2     | 3         | 8.57%   |
 
 Unsupported Device Types
@@ -2376,9 +2376,9 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 7         | 35%     |
-| Net/wireless          | 4         | 20%     |
-| Multimedia controller | 4         | 20%     |
-| Graphics card         | 4         | 20%     |
-| Chipcard              | 1         | 5%      |
+| Fingerprint reader    | 7         | 36.84%  |
+| Net/wireless          | 4         | 21.05%  |
+| Multimedia controller | 4         | 21.05%  |
+| Graphics card         | 3         | 15.79%  |
+| Chipcard              | 1         | 5.26%   |
 

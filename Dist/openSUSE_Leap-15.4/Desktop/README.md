@@ -153,10 +153,13 @@ Contents
 Test Cases
 ----------
 
-Total: 77
+Total: 80
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte | Z97-HD3                     | [731b4a6479](https://linux-hardware.org/?probe=731b4a6479) | Jun 26, 2023 |
+| ASUSTek  | P8H61-M LX                  | [23b64edd39](https://linux-hardware.org/?probe=23b64edd39) | Jun 17, 2023 |
+| ASUSTek  | P5Q-PRO                     | [df63208f37](https://linux-hardware.org/?probe=df63208f37) | Jun 15, 2023 |
 | ASUSTek  | PRIME B350-PLUS             | [cc1f571000](https://linux-hardware.org/?probe=cc1f571000) | Jun 09, 2023 |
 | Lenovo   | 1036 SDK0K17763 WIN 1801... | [1d36e85f27](https://linux-hardware.org/?probe=1d36e85f27) | Jun 07, 2023 |
 | ASUSTek  | P5Q-PRO                     | [76cd01b045](https://linux-hardware.org/?probe=76cd01b045) | Jun 03, 2023 |
@@ -248,22 +251,22 @@ Version of the Linux kernel
 
 | Version                             | Desktops | Percent |
 |-------------------------------------|----------|---------|
-| 5.14.21-150400.22-default           | 11       | 17.46%  |
-| 5.14.21-150400.24.46-default        | 7        | 11.11%  |
-| 5.14.21-150400.24.21-default        | 6        | 9.52%   |
-| 5.14.21-150400.24.18-default        | 6        | 9.52%   |
-| 5.14.21-150400.19-default           | 6        | 9.52%   |
-| 5.14.21-150400.24.55-default        | 5        | 7.94%   |
-| 5.14.21-150400.24.41-default        | 5        | 7.94%   |
-| 5.14.21-150400.24.63-default        | 3        | 4.76%   |
-| 5.14.21-150400.24.60-default        | 3        | 4.76%   |
-| 5.14.21-150400.24.33-default        | 3        | 4.76%   |
-| 5.18.0-rc6-lp153.2.ged50f8f-default | 2        | 3.17%   |
-| 5.14.21-150400.24.38-default        | 2        | 3.17%   |
-| 5.18.2-lp153.4.g6d13af9-default     | 1        | 1.59%   |
-| 5.14.21-150500.43-default           | 1        | 1.59%   |
-| 5.14.21-150400.24.11-default        | 1        | 1.59%   |
-| 5.14.19-150400.1-default            | 1        | 1.59%   |
+| 5.14.21-150400.22-default           | 11       | 17.19%  |
+| 5.14.21-150400.24.46-default        | 7        | 10.94%  |
+| 5.14.21-150400.24.21-default        | 6        | 9.38%   |
+| 5.14.21-150400.24.18-default        | 6        | 9.38%   |
+| 5.14.21-150400.19-default           | 6        | 9.38%   |
+| 5.14.21-150400.24.55-default        | 5        | 7.81%   |
+| 5.14.21-150400.24.41-default        | 5        | 7.81%   |
+| 5.14.21-150400.24.63-default        | 4        | 6.25%   |
+| 5.14.21-150400.24.60-default        | 3        | 4.69%   |
+| 5.14.21-150400.24.33-default        | 3        | 4.69%   |
+| 5.18.0-rc6-lp153.2.ged50f8f-default | 2        | 3.13%   |
+| 5.14.21-150400.24.38-default        | 2        | 3.13%   |
+| 5.18.2-lp153.4.g6d13af9-default     | 1        | 1.56%   |
+| 5.14.21-150500.43-default           | 1        | 1.56%   |
+| 5.14.21-150400.24.11-default        | 1        | 1.56%   |
+| 5.14.19-150400.1-default            | 1        | 1.56%   |
 
 Kernel Family
 -------------
@@ -788,46 +791,46 @@ Geographic location (city)
 
 | City                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Haßfurt              | 5        | 8.47%   |
-| Rio de Janeiro        | 2        | 3.39%   |
-| Moscow                | 2        | 3.39%   |
-| Bergisch Gladbach     | 2        | 3.39%   |
-| Almere Stad           | 2        | 3.39%   |
-| Zierikzee             | 1        | 1.69%   |
-| West Bend             | 1        | 1.69%   |
-| Ulyanovsk             | 1        | 1.69%   |
-| Stadthagen            | 1        | 1.69%   |
-| Santa Rosa            | 1        | 1.69%   |
-| Sainte-Tulle          | 1        | 1.69%   |
-| Rostock               | 1        | 1.69%   |
-| Roslindale            | 1        | 1.69%   |
-| Riviere Salee         | 1        | 1.69%   |
-| Rattelsdorf           | 1        | 1.69%   |
-| Ocala                 | 1        | 1.69%   |
-| Nesebar               | 1        | 1.69%   |
-| Mo i Rana             | 1        | 1.69%   |
-| Milan                 | 1        | 1.69%   |
-| Ludwigshafen am Rhein | 1        | 1.69%   |
-| Louisville            | 1        | 1.69%   |
-| Le Lamentin           | 1        | 1.69%   |
-| Lausanne              | 1        | 1.69%   |
-| Kurten                | 1        | 1.69%   |
-| Kulmbach              | 1        | 1.69%   |
-| Kouvola               | 1        | 1.69%   |
-| Kluszkowce            | 1        | 1.69%   |
-| Kiel                  | 1        | 1.69%   |
-| Johannesburg          | 1        | 1.69%   |
-| Jegenstorf            | 1        | 1.69%   |
-| Hyvinkaeae            | 1        | 1.69%   |
-| Hyderabad             | 1        | 1.69%   |
-| Hildesheim            | 1        | 1.69%   |
-| Heilbronn             | 1        | 1.69%   |
-| HaÃŸfurt            | 1        | 1.69%   |
-| Gloucester            | 1        | 1.69%   |
-| Girona                | 1        | 1.69%   |
-| Gaildorf              | 1        | 1.69%   |
-| Dunfermline           | 1        | 1.69%   |
-| Darmstadt             | 1        | 1.69%   |
+| Haßfurt              | 5        | 8.33%   |
+| Rio de Janeiro        | 2        | 3.33%   |
+| Moscow                | 2        | 3.33%   |
+| Bergisch Gladbach     | 2        | 3.33%   |
+| Almere Stad           | 2        | 3.33%   |
+| Zierikzee             | 1        | 1.67%   |
+| West Bend             | 1        | 1.67%   |
+| Ulyanovsk             | 1        | 1.67%   |
+| Stadthagen            | 1        | 1.67%   |
+| Santa Rosa            | 1        | 1.67%   |
+| Sainte-Tulle          | 1        | 1.67%   |
+| Rostock               | 1        | 1.67%   |
+| Roslindale            | 1        | 1.67%   |
+| Riviere Salee         | 1        | 1.67%   |
+| Rattelsdorf           | 1        | 1.67%   |
+| Ocala                 | 1        | 1.67%   |
+| Nesebar               | 1        | 1.67%   |
+| Mo i Rana             | 1        | 1.67%   |
+| Milan                 | 1        | 1.67%   |
+| Lyss                  | 1        | 1.67%   |
+| Ludwigshafen am Rhein | 1        | 1.67%   |
+| Louisville            | 1        | 1.67%   |
+| Le Lamentin           | 1        | 1.67%   |
+| Lausanne              | 1        | 1.67%   |
+| Kurten                | 1        | 1.67%   |
+| Kulmbach              | 1        | 1.67%   |
+| Kouvola               | 1        | 1.67%   |
+| Kluszkowce            | 1        | 1.67%   |
+| Kiel                  | 1        | 1.67%   |
+| Johannesburg          | 1        | 1.67%   |
+| Jegenstorf            | 1        | 1.67%   |
+| Hyvinkaeae            | 1        | 1.67%   |
+| Hyderabad             | 1        | 1.67%   |
+| Hildesheim            | 1        | 1.67%   |
+| Heilbronn             | 1        | 1.67%   |
+| HaÃŸfurt            | 1        | 1.67%   |
+| Gloucester            | 1        | 1.67%   |
+| Girona                | 1        | 1.67%   |
+| Gaildorf              | 1        | 1.67%   |
+| Dunfermline           | 1        | 1.67%   |
 
 Drives
 ------
@@ -844,7 +847,7 @@ Hard drive vendors
 |-----------------------------|----------|--------|---------|
 | Seagate                     | 29       | 46     | 26.36%  |
 | Samsung Electronics         | 23       | 40     | 20.91%  |
-| WDC                         | 16       | 31     | 14.55%  |
+| WDC                         | 16       | 33     | 14.55%  |
 | Kingston                    | 8        | 12     | 7.27%   |
 | Crucial                     | 5        | 6      | 4.55%   |
 | Toshiba                     | 4        | 5      | 3.64%   |
@@ -880,7 +883,7 @@ Hard drive models
 | Samsung SSD 840 EVO 120GB                           | 5        | 3.62%   |
 | Seagate ST2000DM001-1ER164 2TB                      | 3        | 2.17%   |
 | Samsung SSD 860 EVO 500GB                           | 3        | 2.17%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 3        | 2.17%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3        | 2.17%   |
 | Kingston SA400S37480G 480GB SSD                     | 3        | 2.17%   |
 | WDC WD10EZEX-08M2NA0 1TB                            | 2        | 1.45%   |
 | Seagate ST500DM002-1BD142 500GB                     | 2        | 1.45%   |
@@ -929,7 +932,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Seagate             | 28       | 41     | 50%     |
-| WDC                 | 15       | 26     | 26.79%  |
+| WDC                 | 15       | 28     | 26.79%  |
 | Samsung Electronics | 4        | 4      | 7.14%   |
 | Toshiba             | 3        | 4      | 5.36%   |
 | Maxtor              | 2        | 2      | 3.57%   |
@@ -973,7 +976,7 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 44       | 81     | 44.44%  |
+| HDD     | 44       | 83     | 44.44%  |
 | SSD     | 36       | 55     | 36.36%  |
 | NVMe    | 17       | 32     | 17.17%  |
 | Unknown | 2        | 2      | 2.02%   |
@@ -988,7 +991,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 54       | 131    | 69.23%  |
+| SATA | 54       | 133    | 69.23%  |
 | NVMe | 17       | 32     | 21.79%  |
 | SAS  | 7        | 7      | 8.97%   |
 
@@ -1003,7 +1006,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 40       | 59     | 46.51%  |
-| 0.51-1.0   | 20       | 36     | 23.26%  |
+| 0.51-1.0   | 20       | 38     | 23.26%  |
 | 1.01-2.0   | 12       | 19     | 13.95%  |
 | 2.01-3.0   | 6        | 7      | 6.98%   |
 | 3.01-4.0   | 4        | 8      | 4.65%   |
@@ -1139,7 +1142,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Works    | 28       | 72     | 43.75%  |
-| Detected | 26       | 86     | 40.63%  |
+| Detected | 26       | 88     | 40.63%  |
 | Malfunc  | 10       | 12     | 15.63%  |
 
 Storage controller
@@ -1187,12 +1190,12 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                                   | 5        | 4.35%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 5        | 4.35%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 4        | 3.48%   |
-| Kingston Company Company Non-Volatile memory controller                                 | 3        | 2.61%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 3        | 2.61%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 3        | 2.61%   |
 | Seagate FireCuda 530 SSD                                                                | 2        | 1.74%   |
 | SanDisk Non-Volatile memory controller                                                  | 2        | 1.74%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 2        | 1.74%   |
+| Kingston Company Company Non-Volatile memory controller                                 | 2        | 1.74%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 2        | 1.74%   |
 | Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                              | 2        | 1.74%   |
 | Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                              | 2        | 1.74%   |
@@ -1212,6 +1215,7 @@ Storage controller models
 | Marvell Group 88SE6101/6102 single-port PATA133 interface                               | 1        | 0.87%   |
 | LSI Logic / Symbios Logic MegaRAID SAS 2108 [Liberator]                                 | 1        | 0.87%   |
 | LSI Logic / Symbios Logic 53c1030 PCI-X Fusion-MPT Dual Ultra320 SCSI                   | 1        | 0.87%   |
+| Kingston Company FURY Renegade NVMe SSD                                                 | 1        | 0.87%   |
 | Kingston Company A2000 NVMe SSD                                                         | 1        | 0.87%   |
 | JMicron JMB368 IDE controller                                                           | 1        | 0.87%   |
 | JMicron JMB361 AHCI/IDE                                                                 | 1        | 0.87%   |
@@ -1219,7 +1223,6 @@ Storage controller models
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 1        | 0.87%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                      | 1        | 0.87%   |
 | Intel Comet Lake SATA AHCI Controller                                                   | 1        | 0.87%   |
-| Intel Comet Lake PCH-H RAID                                                             | 1        | 0.87%   |
 
 Storage Kind
 ------------
@@ -1630,7 +1633,7 @@ Monitor models
 | Fujitsu Siemens P19-2 FUS0552 1280x1024 376x301mm 19.0-inch           | 6        | 9.68%   |
 | ViewSonic EP3220T VSC33F3 1920x1080 700x390mm 31.5-inch               | 1        | 1.61%   |
 | Unknown SMART TV 0563 1920x1080 1209x680mm 54.6-inch                  | 1        | 1.61%   |
-| Samsung Electronics U28E590 SAM0C4D 1680x1050 610x350mm 27.7-inch     | 1        | 1.61%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 1.61%   |
 | Samsung Electronics SyncMaster SAM058F 1920x1080 477x268mm 21.5-inch  | 1        | 1.61%   |
 | Samsung Electronics SyncMaster SAM0226 1440x900 410x257mm 19.1-inch   | 1        | 1.61%   |
 | Samsung Electronics SMS24A850 SAM0825 1920x1200 518x324mm 24.1-inch   | 1        | 1.61%   |
@@ -1658,7 +1661,7 @@ Monitor models
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                  | 1        | 1.61%   |
 | Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                | 1        | 1.61%   |
 | Goldstar 27MB85R GSM5A8B 2560x1440 597x336mm 27.0-inch                | 1        | 1.61%   |
-| Gigabyte Technology AORUS CV27Q GBT2705 2560x1440 596x335mm 26.9-inch | 1        | 1.61%   |
+| Gigabyte Technology AORUS CV27Q GBT2705 2560x1440 600x340mm 27.2-inch | 1        | 1.61%   |
 | Fujitsu Siemens B19-5G ECO FUS07C0 1280x1024 376x301mm 19.0-inch      | 1        | 1.61%   |
 | Eizo S2433W ENC2112 1920x1200 519x324mm 24.1-inch                     | 1        | 1.61%   |
 | Eizo S2100 ENC1803 1600x1200 432x324mm 21.3-inch                      | 1        | 1.61%   |
@@ -1702,7 +1705,7 @@ Diagonal size in inches
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
 | 19      | 12       | 20%     |
-| 27      | 9        | 15%     |
+| 27      | 10       | 16.67%  |
 | 24      | 9        | 15%     |
 | 23      | 6        | 10%     |
 | 31      | 4        | 6.67%   |
@@ -1715,7 +1718,6 @@ Diagonal size in inches
 | 34      | 1        | 1.67%   |
 | 32      | 1        | 1.67%   |
 | 30      | 1        | 1.67%   |
-| 26      | 1        | 1.67%   |
 | 20      | 1        | 1.67%   |
 | 15      | 1        | 1.67%   |
 
@@ -1858,7 +1860,7 @@ Controller models
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 2        | 2.35%   |
 | Intel 82583V Gigabit Network Connection                           | 2        | 2.35%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 2        | 2.35%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 1.18%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 1.18%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                  | 1        | 1.18%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 1.18%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1        | 1.18%   |
@@ -1920,7 +1922,7 @@ Wireless models
 |---------------------------------------------------------------|----------|---------|
 | Intel Wi-Fi 6 AX200                                           | 3        | 14.29%  |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                        | 2        | 9.52%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                         | 1        | 4.76%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                           | 1        | 4.76%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter              | 1        | 4.76%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                            | 1        | 4.76%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter      | 1        | 4.76%   |
@@ -2105,21 +2107,21 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart/snd_vendor.svg)
 
 
-| Vendor                     | Desktops | Percent |
-|----------------------------|----------|---------|
-| AMD                        | 33       | 34.02%  |
-| Intel                      | 25       | 25.77%  |
-| Nvidia                     | 23       | 23.71%  |
-| C-Media Electronics        | 4        | 4.12%   |
-| Creative Labs              | 3        | 3.09%   |
-| Ensoniq                    | 2        | 2.06%   |
-| VIA Technologies           | 1        | 1.03%   |
-| Texas Instruments          | 1        | 1.03%   |
-| Microsoft                  | 1        | 1.03%   |
-| JMTek                      | 1        | 1.03%   |
-| Guangzhou FiiO Electronics | 1        | 1.03%   |
-| GN Netcom                  | 1        | 1.03%   |
-| ASUSTek Computer           | 1        | 1.03%   |
+| Vendor                      | Desktops | Percent |
+|-----------------------------|----------|---------|
+| AMD                         | 33       | 34.02%  |
+| Intel                       | 25       | 25.77%  |
+| Nvidia                      | 23       | 23.71%  |
+| C-Media Electronics         | 4        | 4.12%   |
+| Creative Labs               | 3        | 3.09%   |
+| Ensoniq                     | 2        | 2.06%   |
+| VIA Technologies            | 1        | 1.03%   |
+| Texas Instruments           | 1        | 1.03%   |
+| Microsoft                   | 1        | 1.03%   |
+| JMTek                       | 1        | 1.03%   |
+| GN Netcom                   | 1        | 1.03%   |
+| FiiO Electronics Technology | 1        | 1.03%   |
+| ASUSTek Computer            | 1        | 1.03%   |
 
 Sound Model
 -----------
@@ -2234,7 +2236,7 @@ Memory module models
 | G.Skill RAM F4-2400C15-8GFX 8GB DIMM DDR4 3000MT/s        | 1        | 2.7%    |
 | CSX RAM V01D2LF1GB18864867 1GB DIMM DDR 533MT/s           | 1        | 2.7%    |
 | Corsair RAM CMW32GX4M4A2666C16 8GB DIMM DDR4 2667MT/s     | 1        | 2.7%    |
-| Corsair RAM CML16GX3M2A1600C9 8192MB DIMM DDR3 2133MT/s   | 1        | 2.7%    |
+| Corsair RAM CML16GX3M2A1600C9 8GB DIMM DDR3 2133MT/s      | 1        | 2.7%    |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s    | 1        | 2.7%    |
 | Corsair RAM CMK32GX5M2B6400C32 16GB DIMM DDR5 4800MT/s    | 1        | 2.7%    |
 | Corsair RAM CMK16GX4M1E3200C16 16GB DIMM DDR4 3200MT/s    | 1        | 2.7%    |
@@ -2385,10 +2387,10 @@ Camera device vendors
 |---------------------|----------|---------|
 | Logitech            | 4        | 40%     |
 | Microdia            | 2        | 20%     |
-| webcam              | 1        | 10%     |
 | Microsoft           | 1        | 10%     |
 | Huawei Technologies | 1        | 10%     |
 | ARC International   | 1        | 10%     |
+| 2M UVC CAMERA       | 1        | 10%     |
 
 Camera Model
 ------------
@@ -2398,18 +2400,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| webcam webcam                 | 1        | 10%     |
-| Microsoft LifeCam VX-700      | 1        | 10%     |
-| Microdia CameraA              | 1        | 10%     |
-| Microdia Camera               | 1        | 10%     |
-| Logitech Webcam C270          | 1        | 10%     |
-| Logitech Webcam C170          | 1        | 10%     |
-| Logitech HD Pro Webcam C920   | 1        | 10%     |
-| Logitech BRIO Ultra HD Webcam | 1        | 10%     |
-| Huawei UVC Camera             | 1        | 10%     |
-| ARC International Camera      | 1        | 10%     |
+| Model                                | Desktops | Percent |
+|--------------------------------------|----------|---------|
+| Microsoft LifeCam VX-700             | 1        | 10%     |
+| Microdia REDRAGON Live Camera Audio  | 1        | 10%     |
+| Microdia Camera                      | 1        | 10%     |
+| Logitech Webcam C270                 | 1        | 10%     |
+| Logitech Webcam C170                 | 1        | 10%     |
+| Logitech HD Pro Webcam C920          | 1        | 10%     |
+| Logitech BRIO Ultra HD Webcam        | 1        | 10%     |
+| Huawei UVC Camera                    | 1        | 10%     |
+| ARC International Camera             | 1        | 10%     |
+| 2M UVC CAMERA NexiGo N660 FHD Webcam | 1        | 10%     |
 
 Security
 --------

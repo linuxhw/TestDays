@@ -1056,27 +1056,26 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 18     | 23.21%  |
-| SanDisk             | 9        | 10     | 16.07%  |
-| Crucial             | 6        | 6      | 10.71%  |
-| Kingston            | 4        | 4      | 7.14%   |
-| Intenso             | 3        | 3      | 5.36%   |
-| WDC                 | 2        | 2      | 3.57%   |
-| Team                | 2        | 2      | 3.57%   |
-| SPCC                | 2        | 2      | 3.57%   |
-| ASMT                | 2        | 2      | 3.57%   |
-| A-DATA Technology   | 2        | 2      | 3.57%   |
-| TO Exter            | 1        | 1      | 1.79%   |
-| Patriot             | 1        | 1      | 1.79%   |
-| OCZ                 | 1        | 1      | 1.79%   |
-| NGFF                | 1        | 1      | 1.79%   |
-| Micron Technology   | 1        | 1      | 1.79%   |
-| Leven               | 1        | 1      | 1.79%   |
-| JMicron Technology  | 1        | 1      | 1.79%   |
-| Integral            | 1        | 1      | 1.79%   |
-| Corsair             | 1        | 1      | 1.79%   |
-| China               | 1        | 1      | 1.79%   |
-| BHT                 | 1        | 1      | 1.79%   |
+| Samsung Electronics | 13       | 18     | 23.64%  |
+| SanDisk             | 9        | 10     | 16.36%  |
+| Crucial             | 6        | 6      | 10.91%  |
+| Kingston            | 4        | 4      | 7.27%   |
+| Intenso             | 3        | 3      | 5.45%   |
+| WDC                 | 2        | 2      | 3.64%   |
+| Team                | 2        | 2      | 3.64%   |
+| SPCC                | 2        | 2      | 3.64%   |
+| ASMT                | 2        | 2      | 3.64%   |
+| A-DATA Technology   | 2        | 2      | 3.64%   |
+| TO Exter            | 1        | 1      | 1.82%   |
+| Patriot             | 1        | 1      | 1.82%   |
+| OCZ                 | 1        | 1      | 1.82%   |
+| NGFF                | 1        | 1      | 1.82%   |
+| Micron Technology   | 1        | 1      | 1.82%   |
+| Leven               | 1        | 1      | 1.82%   |
+| Integral            | 1        | 1      | 1.82%   |
+| Corsair             | 1        | 1      | 1.82%   |
+| China               | 1        | 1      | 1.82%   |
+| BHT                 | 1        | 1      | 1.82%   |
 
 Drive Kind
 ----------
@@ -1089,8 +1088,8 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 51       | 103    | 45.95%  |
-| SSD     | 44       | 62     | 39.64%  |
-| NVMe    | 15       | 21     | 13.51%  |
+| SSD     | 44       | 61     | 39.64%  |
+| NVMe    | 15       | 22     | 13.51%  |
 | Unknown | 1        | 1      | 0.9%    |
 
 Drive Connector
@@ -1117,11 +1116,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 50       | 70     | 44.64%  |
-| 0.51-1.0   | 35       | 45     | 31.25%  |
+| 0.01-0.5   | 49       | 68     | 43.75%  |
+| 0.51-1.0   | 35       | 46     | 31.25%  |
 | 1.01-2.0   | 12       | 15     | 10.71%  |
+| 4.01-10.0  | 7        | 23     | 6.25%   |
 | 3.01-4.0   | 6        | 8      | 5.36%   |
-| 4.01-10.0  | 6        | 23     | 5.36%   |
 | 2.01-3.0   | 3        | 4      | 2.68%   |
 
 Space Total
@@ -1786,7 +1785,7 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                    | 2        | 2.08%   |
+| ONN ONA24HB19T01 ONN0101 1920x1080 517x323mm 24.0-inch                  | 2        | 2.08%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 2        | 2.08%   |
 | ViewSonic VA2432-FHD VSCB639 1920x1080 527x296mm 23.8-inch              | 1        | 1.04%   |
 | VIE LED MONITOR VIE2302 1920x1080 473x296mm 22.0-inch                   | 1        | 1.04%   |
@@ -2420,10 +2419,10 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR2 667MT/s                    | 2        | 1.77%   |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s        | 2        | 1.77%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s         | 2        | 1.77%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3266MT/s         | 2        | 1.77%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s          | 2        | 1.77%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s         | 2        | 1.77%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s       | 2        | 1.77%   |
-| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s     | 2        | 1.77%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s        | 2        | 1.77%   |
 | Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s      | 2        | 1.77%   |
 | Unknown RAM Module 8192MB SODIMM DDR3 1600MT/s              | 1        | 0.88%   |
 | Unknown RAM Module 512MB DIMM DDR 533MT/s                   | 1        | 0.88%   |
@@ -2498,14 +2497,14 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 4096  | 26       | 29.21%  |
-| 8192  | 22       | 24.72%  |
-| 2048  | 13       | 14.61%  |
-| 16384 | 10       | 11.24%  |
-| 1024  | 8        | 8.99%   |
-| 32768 | 7        | 7.87%   |
-| 512   | 2        | 2.25%   |
-| 256   | 1        | 1.12%   |
+| 4096  | 26       | 28.89%  |
+| 8192  | 23       | 25.56%  |
+| 2048  | 13       | 14.44%  |
+| 16384 | 10       | 11.11%  |
+| 1024  | 8        | 8.89%   |
+| 32768 | 7        | 7.78%   |
+| 512   | 2        | 2.22%   |
+| 256   | 1        | 1.11%   |
 
 Memory Speed
 ------------
@@ -2631,24 +2630,24 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Samsung Galaxy series, misc. (MTP mode) | 2        | 11.11%  |
-| Logitech Webcam C270                    | 2        | 11.11%  |
-| ViewSonic PC Camera                     | 1        | 5.56%   |
-| Sweex WC060 Series HD Webcam            | 1        | 5.56%   |
-| Sunplus IT AUKEY PC-LM1 USB Camera      | 1        | 5.56%   |
-| Sunplus HD 720P webcam                  | 1        | 5.56%   |
-| Philips (or NXP) Webcam SPC530NC        | 1        | 5.56%   |
-| Microsoft LifeCam VX-5000               | 1        | 5.56%   |
-| Microsoft LifeCam Cinema                | 1        | 5.56%   |
-| Microdia MSI Starcam Racer              | 1        | 5.56%   |
-| Microdia HoverCam Solo Spark Audio      | 1        | 5.56%   |
-| MacroSilicon usb video                  | 1        | 5.56%   |
-| Logitech QuickCam Communicate MP/S5500  | 1        | 5.56%   |
-| Logitech Portable Webcam C905           | 1        | 5.56%   |
-| Logitech HD Webcam C910                 | 1        | 5.56%   |
-| Logitech HD Pro Webcam C920             | 1        | 5.56%   |
+| Model                                  | Desktops | Percent |
+|----------------------------------------|----------|---------|
+| Samsung Galaxy A5 (MTP)                | 2        | 11.11%  |
+| Logitech Webcam C270                   | 2        | 11.11%  |
+| ViewSonic PC Camera                    | 1        | 5.56%   |
+| Sweex WC060 Series HD Webcam           | 1        | 5.56%   |
+| Sunplus IT AUKEY PC-LM1 USB Camera     | 1        | 5.56%   |
+| Sunplus HD 720P webcam                 | 1        | 5.56%   |
+| Philips (or NXP) Webcam SPC530NC       | 1        | 5.56%   |
+| Microsoft LifeCam VX-5000              | 1        | 5.56%   |
+| Microsoft LifeCam Cinema               | 1        | 5.56%   |
+| Microdia USB 2.0 Camera                | 1        | 5.56%   |
+| Microdia MSI Starcam Racer             | 1        | 5.56%   |
+| MacroSilicon USB Video                 | 1        | 5.56%   |
+| Logitech QuickCam Communicate MP/S5500 | 1        | 5.56%   |
+| Logitech Portable Webcam C905          | 1        | 5.56%   |
+| Logitech HD Webcam C910                | 1        | 5.56%   |
+| Logitech HD Pro Webcam C920            | 1        | 5.56%   |
 
 Security
 --------

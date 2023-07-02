@@ -782,7 +782,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                 | 2         | 4.44%   |
 | Samsung SSD 850 EVO 250GB                | 2         | 4.44%   |
 | Samsung NVMe SSD Drive 500GB             | 2         | 4.44%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 2.22%   |
+| WDC WDS120G2G0A-00JH30 128GB SSD         | 1         | 2.22%   |
 | WDC WD40EZRZ-00GXCB0 4TB                 | 1         | 2.22%   |
 | WDC WD2500BEVT-22A23T0 250GB             | 1         | 2.22%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 2.22%   |
@@ -1410,7 +1410,7 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
@@ -1422,7 +1422,7 @@ Monitor models
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 3.45%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1         | 3.45%   |
-| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 3.45%   |
+| BenQ GL2460 BNQ78CE 1920x1080 530x300mm 24.0-inch                    | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
@@ -1431,7 +1431,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
+| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1818,20 +1818,20 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                      | Computers | Percent |
-|--------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface         | 2         | 13.33%  |
-| Intel Bluetooth Device                     | 2         | 13.33%  |
-| Apple Bluetooth USB Host Controller        | 2         | 13.33%  |
-| Toshiba RT Bluetooth Radio                 | 1         | 6.67%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 6.67%   |
-| Realtek Bluetooth Radio                    | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth          | 1         | 6.67%   |
-| Qualcomm Atheros AR3011 Bluetooth          | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 6.67%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter   | 1         | 6.67%   |
-| Intel AX200 Bluetooth                      | 1         | 6.67%   |
-| Broadcom BCM20702A0 Bluetooth 4.0          | 1         | 6.67%   |
+| Model                                            | Computers | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
+| Intel Bluetooth wireless interface               | 2         | 13.33%  |
+| Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
+| Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
+| Realtek Bluetooth Radio                          | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
+| Intel AX200 Bluetooth                            | 1         | 6.67%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
 
 Sound
 -----

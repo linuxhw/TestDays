@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 22
+Total: 23
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | VivoBook 15_ASUS Laptop ... | [18c2eb78d4](https://linux-hardware.org/?probe=18c2eb78d4) | Jun 26, 2023 |
 | Lenovo        | ThinkPad X1 Carbon Gen 9... | [f7a2bd2ca8](https://linux-hardware.org/?probe=f7a2bd2ca8) | Jun 10, 2023 |
 | TUXEDO        | N8xEJEK                     | [28ca72e1e1](https://linux-hardware.org/?probe=28ca72e1e1) | Jun 05, 2023 |
 | Google        | Sand                        | [e6d70635d6](https://linux-hardware.org/?probe=e6d70635d6) | May 30, 2023 |
@@ -195,8 +196,8 @@ Installed operating systems
 
 | Name       | Notebooks | Percent |
 |------------|-----------|---------|
-| Lilidog 22 | 16        | 88.89%  |
-| Lilidog 23 | 2         | 11.11%  |
+| Lilidog 22 | 16        | 84.21%  |
+| Lilidog 23 | 3         | 15.79%  |
 
 OS Family
 ---------
@@ -220,19 +221,19 @@ Version of the Linux kernel
 
 | Version                   | Notebooks | Percent |
 |---------------------------|-----------|---------|
-| 5.10.0-15-amd64           | 4         | 19.05%  |
-| 5.10.0-16-amd64           | 3         | 14.29%  |
-| 6.1.0-9-amd64             | 2         | 9.52%   |
-| 5.10.0-21-amd64           | 2         | 9.52%   |
-| 5.10.0-18-amd64           | 2         | 9.52%   |
-| 6.1.0-7-amd64             | 1         | 4.76%   |
-| 6.1.0-0.deb11.6-amd64     | 1         | 4.76%   |
-| 6.0.10-x64v1-xanmod1      | 1         | 4.76%   |
-| 6.0.0-0.deb11.2-amd64     | 1         | 4.76%   |
-| 5.17.0-5.1-liquorix-amd64 | 1         | 4.76%   |
-| 5.10.0-22-amd64           | 1         | 4.76%   |
-| 5.10.0-14-amd64           | 1         | 4.76%   |
-| 5.10.0-13-amd64           | 1         | 4.76%   |
+| 5.10.0-15-amd64           | 4         | 18.18%  |
+| 6.1.0-9-amd64             | 3         | 13.64%  |
+| 5.10.0-16-amd64           | 3         | 13.64%  |
+| 5.10.0-21-amd64           | 2         | 9.09%   |
+| 5.10.0-18-amd64           | 2         | 9.09%   |
+| 6.1.0-7-amd64             | 1         | 4.55%   |
+| 6.1.0-0.deb11.6-amd64     | 1         | 4.55%   |
+| 6.0.10-x64v1-xanmod1      | 1         | 4.55%   |
+| 6.0.0-0.deb11.2-amd64     | 1         | 4.55%   |
+| 5.17.0-5.1-liquorix-amd64 | 1         | 4.55%   |
+| 5.10.0-22-amd64           | 1         | 4.55%   |
+| 5.10.0-14-amd64           | 1         | 4.55%   |
+| 5.10.0-13-amd64           | 1         | 4.55%   |
 
 Kernel Family
 -------------
@@ -244,11 +245,11 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.10.0  | 12        | 66.67%  |
-| 6.1.0   | 3         | 16.67%  |
-| 6.0.10  | 1         | 5.56%   |
-| 6.0.0   | 1         | 5.56%   |
-| 5.17.0  | 1         | 5.56%   |
+| 5.10.0  | 12        | 63.16%  |
+| 6.1.0   | 4         | 21.05%  |
+| 6.0.10  | 1         | 5.26%   |
+| 6.0.0   | 1         | 5.26%   |
+| 5.17.0  | 1         | 5.26%   |
 
 Kernel Major Ver.
 -----------------
@@ -260,10 +261,10 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.10    | 12        | 66.67%  |
-| 6.1     | 3         | 16.67%  |
-| 6.0     | 2         | 11.11%  |
-| 5.17    | 1         | 5.56%   |
+| 5.10    | 12        | 63.16%  |
+| 6.1     | 4         | 21.05%  |
+| 6.0     | 2         | 10.53%  |
+| 5.17    | 1         | 5.26%   |
 
 Arch
 ----
@@ -324,9 +325,10 @@ Language
 
 | Lang  | Notebooks | Percent |
 |-------|-----------|---------|
-| en_US | 13        | 72.22%  |
-| de_DE | 4         | 22.22%  |
-| cs_CZ | 1         | 5.56%   |
+| en_US | 13        | 68.42%  |
+| de_DE | 4         | 21.05%  |
+| es_ES | 1         | 5.26%   |
+| cs_CZ | 1         | 5.26%   |
 
 Boot Mode
 ---------
@@ -484,8 +486,7 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2018 | 4         | 22.22%  |
 | 2010 | 4         | 22.22%  |
-| 2023 | 1         | 5.56%   |
-| 2021 | 1         | 5.56%   |
+| 2021 | 2         | 11.11%  |
 | 2020 | 1         | 5.56%   |
 | 2019 | 1         | 5.56%   |
 | 2015 | 1         | 5.56%   |
@@ -691,14 +692,14 @@ Hard drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 4         | 6      | 20%     |
-| Toshiba             | 3         | 3      | 15%     |
+| Toshiba             | 3         | 4      | 15%     |
 | Seagate             | 2         | 3      | 10%     |
 | SanDisk             | 2         | 3      | 10%     |
 | Wibtek              | 1         | 1      | 5%      |
 | WDC                 | 1         | 1      | 5%      |
 | Unknown             | 1         | 1      | 5%      |
 | Mushkin             | 1         | 1      | 5%      |
-| Micron Technology   | 1         | 1      | 5%      |
+| Micron Technology   | 1         | 2      | 5%      |
 | Kingston            | 1         | 1      | 5%      |
 | Hitachi             | 1         | 1      | 5%      |
 | Crucial             | 1         | 1      | 5%      |
@@ -746,7 +747,7 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Toshiba | 3         | 3      | 42.86%  |
+| Toshiba | 3         | 4      | 42.86%  |
 | Seagate | 2         | 3      | 28.57%  |
 | WDC     | 1         | 1      | 14.29%  |
 | Hitachi | 1         | 1      | 14.29%  |
@@ -765,7 +766,7 @@ Solid state drive vendors
 | Wibtek              | 1         | 1      | 12.5%   |
 | SanDisk             | 1         | 1      | 12.5%   |
 | Mushkin             | 1         | 1      | 12.5%   |
-| Micron Technology   | 1         | 1      | 12.5%   |
+| Micron Technology   | 1         | 2      | 12.5%   |
 | Crucial             | 1         | 1      | 12.5%   |
 | Apacer              | 1         | 1      | 12.5%   |
 
@@ -779,8 +780,8 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 8         | 8      | 40%     |
-| HDD  | 7         | 8      | 35%     |
+| SSD  | 8         | 9      | 40%     |
+| HDD  | 7         | 9      | 35%     |
 | NVMe | 4         | 5      | 20%     |
 | MMC  | 1         | 3      | 5%      |
 
@@ -794,7 +795,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 14        | 16     | 73.68%  |
+| SATA | 14        | 18     | 73.68%  |
 | NVMe | 4         | 5      | 21.05%  |
 | MMC  | 1         | 3      | 5.26%   |
 
@@ -808,8 +809,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 11        | 12     | 73.33%  |
-| 0.51-1.0   | 4         | 4      | 26.67%  |
+| 0.01-0.5   | 11        | 13     | 73.33%  |
+| 0.51-1.0   | 4         | 5      | 26.67%  |
 
 Space Total
 -----------
@@ -921,7 +922,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 13        | 16     | 72.22%  |
+| Works    | 13        | 18     | 72.22%  |
 | Malfunc  | 4         | 5      | 22.22%  |
 | Detected | 1         | 3      | 5.56%   |
 
@@ -958,7 +959,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                         | 1         | 4.76%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                        | 1         | 4.76%   |
 | Samsung NVMe SSD Controller 980                                       | 1         | 4.76%   |
-| Kingston Company Company Non-Volatile memory controller               | 1         | 4.76%   |
+| Kingston Company FURY Renegade NVMe SSD                               | 1         | 4.76%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                         | 1         | 4.76%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                     | 1         | 4.76%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode] | 1         | 4.76%   |
@@ -1280,16 +1281,16 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1382 1920x1080 293x165mm 13.2-inch         | 1         | 5.88%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1592 1366x768 344x193mm 15.5-inch | 1         | 5.88%   |
 | BOE LCD Monitor BOE0A06 1920x1080 344x194mm 15.5-inch                    | 1         | 5.88%   |
-| AU Optronics LCD Monitor AUOD291 1920x1200 301x188mm 14.0-inch           | 1         | 5.88%   |
+| AU Optronics LCD Monitor AUOD291 1920x1200 300x190mm 14.0-inch           | 1         | 5.88%   |
 | AU Optronics LCD Monitor AUO683D 1920x1080 309x174mm 14.0-inch           | 1         | 5.88%   |
 | AU Optronics LCD Monitor AUO60D2 1024x600 222x125mm 10.0-inch            | 1         | 5.88%   |
 | AU Optronics LCD Monitor AUO41EC 1366x768 344x193mm 15.5-inch            | 1         | 5.88%   |
 | AU Optronics LCD Monitor AUO405C 1366x768 256x144mm 11.6-inch            | 1         | 5.88%   |
 | AU Optronics LCD Monitor AUO319D 1920x1080 382x214mm 17.2-inch           | 1         | 5.88%   |
-| AU Optronics LCD Monitor AUO30ED 1920x1080 344x193mm 15.5-inch           | 1         | 5.88%   |
+| AU Optronics LCD Monitor AUO30ED 1920x1080 340x190mm 15.3-inch           | 1         | 5.88%   |
 | AU Optronics LCD Monitor AUO139D 1920x1080 381x214mm 17.2-inch           | 1         | 5.88%   |
 | AU Optronics LCD Monitor AUO109E 1600x900 382x214mm 17.2-inch            | 1         | 5.88%   |
-| AOC E2219 AOC2219 1680x1050 470x300mm 22.0-inch                          | 1         | 5.88%   |
+| AOC 2219 AOC2219 1680x1050 474x296mm 22.0-inch                           | 1         | 5.88%   |
 
 Monitor Resolution
 ------------------

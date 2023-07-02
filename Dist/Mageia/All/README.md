@@ -1208,28 +1208,27 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 16        | 18     | 22.22%  |
-| Kingston            | 10        | 16     | 13.89%  |
-| WDC                 | 7         | 17     | 9.72%   |
-| Crucial             | 7         | 12     | 9.72%   |
-| SanDisk             | 6         | 8      | 8.33%   |
-| PNY                 | 5         | 8      | 6.94%   |
-| Intel               | 3         | 3      | 4.17%   |
-| OCZ-VERTEX          | 2         | 2      | 2.78%   |
-| OCZ                 | 2         | 2      | 2.78%   |
-| A-DATA Technology   | 2         | 7      | 2.78%   |
-| Verbatim            | 1         | 1      | 1.39%   |
-| Transcend           | 1         | 1      | 1.39%   |
-| TO Exter            | 1         | 1      | 1.39%   |
-| Team                | 1         | 1      | 1.39%   |
-| SK hynix            | 1         | 1      | 1.39%   |
-| PNY CS90            | 1         | 1      | 1.39%   |
-| LDLC                | 1         | 1      | 1.39%   |
-| KingFast            | 1         | 2      | 1.39%   |
-| JMicron Technology  | 1         | 1      | 1.39%   |
-| FORESEE             | 1         | 1      | 1.39%   |
-| Corsair             | 1         | 1      | 1.39%   |
-| China               | 1         | 1      | 1.39%   |
+| Samsung Electronics | 16        | 18     | 22.54%  |
+| Kingston            | 10        | 16     | 14.08%  |
+| WDC                 | 7         | 17     | 9.86%   |
+| Crucial             | 7         | 12     | 9.86%   |
+| SanDisk             | 6         | 8      | 8.45%   |
+| PNY                 | 5         | 8      | 7.04%   |
+| Intel               | 3         | 3      | 4.23%   |
+| OCZ-VERTEX          | 2         | 2      | 2.82%   |
+| OCZ                 | 2         | 2      | 2.82%   |
+| A-DATA Technology   | 2         | 7      | 2.82%   |
+| Verbatim            | 1         | 1      | 1.41%   |
+| Transcend           | 1         | 1      | 1.41%   |
+| TO Exter            | 1         | 1      | 1.41%   |
+| Team                | 1         | 1      | 1.41%   |
+| SK hynix            | 1         | 1      | 1.41%   |
+| PNY CS90            | 1         | 1      | 1.41%   |
+| LDLC                | 1         | 1      | 1.41%   |
+| KingFast            | 1         | 2      | 1.41%   |
+| FORESEE             | 1         | 1      | 1.41%   |
+| Corsair             | 1         | 1      | 1.41%   |
+| China               | 1         | 1      | 1.41%   |
 
 Drive Kind
 ----------
@@ -1241,11 +1240,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 66        | 196    | 45.83%  |
-| SSD     | 52        | 106    | 36.11%  |
-| NVMe    | 20        | 35     | 13.89%  |
-| MMC     | 4         | 4      | 2.78%   |
-| Unknown | 2         | 7      | 1.39%   |
+| HDD     | 66        | 196    | 45.52%  |
+| SSD     | 52        | 105    | 35.86%  |
+| NVMe    | 21        | 36     | 14.48%  |
+| MMC     | 4         | 4      | 2.76%   |
+| Unknown | 2         | 7      | 1.38%   |
 
 Drive Connector
 ---------------
@@ -1272,7 +1271,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 69        | 132    | 49.64%  |
+| 0.01-0.5   | 69        | 131    | 49.64%  |
 | 0.51-1.0   | 39        | 101    | 28.06%  |
 | 1.01-2.0   | 15        | 24     | 10.79%  |
 | 3.01-4.0   | 6         | 8      | 4.32%   |
@@ -1493,16 +1492,16 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 2         | 1.29%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 2         | 1.29%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 2         | 1.29%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                                    | 2         | 1.29%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                                    | 2         | 1.29%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 2         | 1.29%   |
 | AMD X399 Series Chipset SATA Controller                                                 | 2         | 1.29%   |
 | AMD 500 Series Chipset SATA Controller                                                  | 2         | 1.29%   |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                                    | 1         | 0.65%   |
-| SK hynix BC511                                                                          | 1         | 0.65%   |
+| SK hynix BC511 NVMe SSD                                                                 | 1         | 0.65%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                          | 1         | 0.65%   |
 | Phison E7 NVMe Controller                                                               | 1         | 0.65%   |
 | Phison E12 NVMe Controller                                                              | 1         | 0.65%   |
+| Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller                                 | 1         | 0.65%   |
 
 Storage Kind
 ------------
@@ -1970,7 +1969,7 @@ Monitor models
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch    | 1         | 0.83%   |
 | Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch     | 1         | 0.83%   |
 | Samsung Electronics LS27A80 SAM7184 3840x2160 597x336mm 27.0-inch     | 1         | 0.83%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x174mm 14.0-inch  | 1         | 0.83%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 0.83%   |
 | Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch | 1         | 0.83%   |
 | Samsung Electronics LCD Monitor SEC314F 1600x900 382x215mm 17.3-inch  | 1         | 0.83%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 0.83%   |
@@ -2206,11 +2205,11 @@ Controller models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 4         | 2.48%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 2.48%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 3         | 1.86%   |
-| Sierra Wireless MC8305 Modem                                      | 2         | 1.24%   |
+| Sierra Wireless MC8305                                            | 2         | 1.24%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter               | 2         | 1.24%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 2         | 1.24%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 2         | 1.24%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 1.24%   |
-| Realtek 802.11ac WLAN Adapter                                     | 2         | 1.24%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 2         | 1.24%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                  | 2         | 1.24%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 2         | 1.24%   |
@@ -2273,10 +2272,10 @@ Wireless models
 | Intel Wi-Fi 6 AX200                                            | 4         | 6.06%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 4         | 6.06%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 4         | 6.06%   |
-| Sierra Wireless MC8305 Modem                                   | 2         | 3.03%   |
+| Sierra Wireless MC8305                                         | 2         | 3.03%   |
 | Realtek RTL8814AU 802.11a/b/g/n/ac Wireless Adapter            | 2         | 3.03%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter        | 2         | 3.03%   |
-| Realtek 802.11ac WLAN Adapter                                  | 2         | 3.03%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                | 2         | 3.03%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 2         | 3.03%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter               | 2         | 3.03%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter     | 2         | 3.03%   |
@@ -2626,10 +2625,10 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                     | 1         | 1.33%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 1.33%   |
 | Unknown RAM Module 2048MB DIMM 667MT/s                           | 1         | 1.33%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.33%   |
+| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 1         | 1.33%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 1         | 1.33%   |
 | Team RAM Elite-16 8GB DIMM DDR3 1600MT/s                         | 1         | 1.33%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                       | 1         | 1.33%   |
+| Team RAM Elite-1333 4GB DIMM 1333MT/s                            | 1         | 1.33%   |
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s            | 1         | 1.33%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                     | 1         | 1.33%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.33%   |
@@ -2818,7 +2817,7 @@ Camera device vendors
 | Sunplus IT                             | 1         | 2.33%   |
 | Primax Electronics                     | 1         | 2.33%   |
 | Leap Motion                            | 1         | 2.33%   |
-| Acer                                   | 1         | 2.33%   |
+| Bison Electronics                      | 1         | 2.33%   |
 
 Camera Model
 ------------
@@ -2861,11 +2860,11 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 2.27%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 2.27%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 2.27%   |
+| Bison BisonCam,NB Pro                                                      | 1         | 2.27%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X                                            | 1         | 2.27%   |
 | Apple Built-in iSight                                                      | 1         | 2.27%   |
 | Alcor Micro USB 2.0 Camera                                                 | 1         | 2.27%   |
 | Alcor Micro Asus Integrated Webcam                                         | 1         | 2.27%   |
-| Acer BisonCam,NB Pro                                                       | 1         | 2.27%   |
 
 Security
 --------
