@@ -1650,10 +1650,10 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 2     | 7        | 58.33%  |
+| 2     | 6        | 50%     |
 | 0     | 3        | 25%     |
+| 1     | 2        | 16.67%  |
 | 3     | 1        | 8.33%   |
-| 1     | 1        | 8.33%   |
 
 Unsupported Device Types
 ------------------------

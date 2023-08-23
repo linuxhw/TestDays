@@ -898,7 +898,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1        | 5.56%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1        | 5.56%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo          | 1        | 5.56%   |
-| Kingston Company KC2000 NVMe SSD                                               | 1        | 5.56%   |
+| Kingston Company KC2000/KC2500 NVMe SSD                                        | 1        | 5.56%   |
 | Intel SATA Controller [RAID mode]                                              | 1        | 5.56%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 1        | 5.56%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 5.56%   |

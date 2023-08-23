@@ -1083,7 +1083,7 @@ Storage controller models
 | LSI Logic / Symbios Logic MegaRAID SAS-3 3108 [Invader]                       | 1         | 1.22%   |
 | Intel Volume Management Device NVMe RAID Controller                           | 1         | 1.22%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                            | 1         | 1.22%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                       | 1         | 1.22%   |
+| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                              | 1         | 1.22%   |
 | Intel PCIe Data Center SSD                                                    | 1         | 1.22%   |
 | Intel Comet Lake SATA AHCI Controller                                         | 1         | 1.22%   |
 | Intel C600/X79 series chipset 2-Port SATA IDE Controller                      | 1         | 1.22%   |
@@ -1445,11 +1445,11 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1         | 4.35%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 4.35%   |
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4.35%   |
-| ITE DP2VGA V168 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 4.35%   |
+| ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 4.35%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 4.35%   |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1         | 4.35%   |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1         | 4.35%   |
-| Dell P2217H DELA0D9 1920x1080 480x270mm 21.7-inch                     | 1         | 4.35%   |
+| Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 4.35%   |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 1         | 4.35%   |
 | BOE Technology Group LCD Monitor 1920x1080                            | 1         | 4.35%   |
@@ -1641,7 +1641,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                   | 1         | 1.33%   |
 | QLogic cLOM8214 1/10GbE Controller                                 | 1         | 1.33%   |
 | Prolific USB-Serial Controller                                     | 1         | 1.33%   |
-| OPPO CPH2411                                                       | 1         | 1.33%   |
+| OPPO SM6375-QRD _SN:F4A23F05                                       | 1         | 1.33%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                            | 1         | 1.33%   |
 | Intel Wi-Fi 6 AX200                                                | 1         | 1.33%   |
 | Intel Ethernet Controller I225-LM                                  | 1         | 1.33%   |
@@ -1742,7 +1742,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                            | 2         | 3.39%   |
 | Dell iDRAC Virtual NIC                                            | 2         | 3.39%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.69%   |
-| OPPO CPH2411                                                      | 1         | 1.69%   |
+| OPPO SM6375-QRD _SN:F4A23F05                                      | 1         | 1.69%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.69%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.69%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.69%   |
@@ -1928,35 +1928,35 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Computers | Percent |
-|-----------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s      | 4         | 10.53%  |
-| SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s      | 3         | 7.89%   |
-| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s     | 3         | 7.89%   |
-| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s              | 2         | 5.26%   |
-| SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s     | 2         | 5.26%   |
-| Samsung RAM M393B2G70QH0-YK0 16GB DIMM DDR3 1600MT/s      | 2         | 5.26%   |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s      | 2         | 5.26%   |
-| Transcend RAM JM3200HSE-32G 32GB SODIMM DDR4 3200MT/s     | 1         | 2.63%   |
-| SK hynix RAM HMA84GR7CJR4N-WM 32GB DIMM DDR4 2933MT/s     | 1         | 2.63%   |
-| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s    | 1         | 2.63%   |
-| Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s    | 1         | 2.63%   |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s    | 1         | 2.63%   |
-| Samsung RAM M393B5173FHD-CF8 4096MB DIMM 1066MT/s         | 1         | 2.63%   |
-| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s      | 1         | 2.63%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s      | 1         | 2.63%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s       | 1         | 2.63%   |
-| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s       | 1         | 2.63%   |
-| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s       | 1         | 2.63%   |
-| Micron RAM 9ASF1G72AZ-2G3B1 8192MB DIMM DDR4 2400MT/s     | 1         | 2.63%   |
-| Micron RAM 36KSF2G72PZ-1G6E1 16GB DIMM DDR3 1600MT/s      | 1         | 2.63%   |
-| Micron RAM 36ASF4G72PZ-2G9E2 32GB DIMM DDR4 2933MT/s      | 1         | 2.63%   |
-| Micron RAM 18KSF1G72PDZ-1G6E 8192MB DIMM DDR3 1333MT/s    | 1         | 2.63%   |
-| Kingston RAM 9965589-026.D00G 8192MB RIMM DDR4 2400MT/s   | 1         | 2.63%   |
-| HP RAM 712382-071 8192MB DIMM DDR3 1866MT/s               | 1         | 2.63%   |
-| Elpida RAM EDFA232A2MA-JD-F 4GB Chip LPDDR3 1867MT/s      | 1         | 2.63%   |
-| Elpida RAM EDFA232A2MA-JD-F 4096MB SODIMM LPDDR3 1867MT/s | 1         | 2.63%   |
-| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s     | 1         | 2.63%   |
+| Model                                                   | Computers | Percent |
+|---------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s    | 4         | 10.53%  |
+| SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s    | 3         | 7.89%   |
+| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s   | 3         | 7.89%   |
+| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s            | 2         | 5.26%   |
+| SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s   | 2         | 5.26%   |
+| Samsung RAM M393B2G70QH0-YK0 16GB DIMM DDR3 1600MT/s    | 2         | 5.26%   |
+| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s    | 2         | 5.26%   |
+| Transcend RAM JM3200HSE-32G 32GB SODIMM DDR4 3200MT/s   | 1         | 2.63%   |
+| SK hynix RAM HMA84GR7CJR4N-WM 32GB DIMM DDR4 2933MT/s   | 1         | 2.63%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s  | 1         | 2.63%   |
+| Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s  | 1         | 2.63%   |
+| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s  | 1         | 2.63%   |
+| Samsung RAM M393B5173FHD-CF8 4096MB DIMM 1066MT/s       | 1         | 2.63%   |
+| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s    | 1         | 2.63%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s    | 1         | 2.63%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s     | 1         | 2.63%   |
+| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s     | 1         | 2.63%   |
+| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s     | 1         | 2.63%   |
+| Micron RAM 9ASF1G72AZ-2G3B1 8192MB DIMM DDR4 2400MT/s   | 1         | 2.63%   |
+| Micron RAM 36KSF2G72PZ-1G6E1 16GB DIMM DDR3 1600MT/s    | 1         | 2.63%   |
+| Micron RAM 36ASF4G72PZ-2G9E2 32GB DIMM DDR4 2933MT/s    | 1         | 2.63%   |
+| Micron RAM 18KSF1G72PDZ-1G6E 8192MB DIMM DDR3 1333MT/s  | 1         | 2.63%   |
+| Kingston RAM 9965589-026.D00G 8192MB RIMM DDR4 2400MT/s | 1         | 2.63%   |
+| HP RAM 712382-071 8192MB DIMM DDR3 1866MT/s             | 1         | 2.63%   |
+| Elpida RAM EDFA232A2MA-JD-F 4GB SODIMM LPDDR3 1867MT/s  | 1         | 2.63%   |
+| Elpida RAM EDFA232A2MA-JD-F 4GB Chip LPDDR3 1867MT/s    | 1         | 2.63%   |
+| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s   | 1         | 2.63%   |
 
 Memory Kind
 -----------
@@ -2127,13 +2127,13 @@ Fingerprint sensor models
 ![Fingerprint Model](./All/images/pie_chart/fingerprint_model.svg)
 
 
-| Model                                                      | Computers | Percent |
-|------------------------------------------------------------|-----------|---------|
-| Synaptics Metallica MIS Touch Fingerprint Reader           | 2         | 33.33%  |
-| Validity Sensors VFS7500 Touch Fingerprint Sensor          | 1         | 16.67%  |
-| Validity Sensors Synaptics WBDI                            | 1         | 16.67%  |
-| Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 16.67%  |
-| Synaptics Prometheus MIS Touch Fingerprint Reader          | 1         | 16.67%  |
+| Model                                             | Computers | Percent |
+|---------------------------------------------------|-----------|---------|
+| Synaptics Metallica MIS Touch Fingerprint Reader  | 2         | 33.33%  |
+| Validity Sensors VFS7500 Touch Fingerprint Sensor | 1         | 16.67%  |
+| Validity Sensors Synaptics WBDI                   | 1         | 16.67%  |
+| Synaptics Prometheus MIS Touch Fingerprint Reader | 1         | 16.67%  |
+| Synaptics Fingerprint reader [HP G6]              | 1         | 16.67%  |
 
 Chipcard Vendor
 ---------------
@@ -2176,9 +2176,9 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 16        | 38.1%   |
-| 2     | 11        | 26.19%  |
+| 2     | 10        | 23.81%  |
 | 3     | 7         | 16.67%  |
-| 1     | 5         | 11.9%   |
+| 1     | 6         | 14.29%  |
 | 5     | 3         | 7.14%   |
 
 Unsupported Device Types

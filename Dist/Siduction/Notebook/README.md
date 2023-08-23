@@ -1066,17 +1066,17 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 2         | 6.25%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 2         | 6.25%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 6.25%   |
-| Solid State Storage Non-Volatile memory controller                             | 1         | 3.13%   |
+| Solid State Storage CL4-8D512 NVMe SSD M.2 (DRAM-less)                         | 1         | 3.13%   |
 | SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 1         | 3.13%   |
-| SanDisk PC SN530 NVMe SSD                                                      | 1         | 3.13%   |
+| SanDisk PC SN530 NVMe SSD (DRAM-less)                                          | 1         | 3.13%   |
+| Samsung NVMe SSD Controller S4LV008[Pascal]                                    | 1         | 3.13%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 3.13%   |
-| Samsung Electronics Non-Volatile memory controller                             | 1         | 3.13%   |
 | Kingston Company A2000 NVMe SSD                                                | 1         | 3.13%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 3.13%   |
 | Intel Tiger Lake-LP SATA Controller                                            | 1         | 3.13%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1         | 3.13%   |
-| Intel SSD 665p Series                                                          | 1         | 3.13%   |
-| Intel NVMe Controller                                                          | 1         | 3.13%   |
+| Intel SSD 665p Series [Neptune Harbor Refresh]                                 | 1         | 3.13%   |
+| Intel Optane NVME SSD H10 with Solid State Storage [Teton Glacier]             | 1         | 3.13%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                  | 1         | 3.13%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 1         | 3.13%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 1         | 3.13%   |
@@ -1395,16 +1395,16 @@ Monitor models
 | LG Display LCD Monitor LGD06FF 1920x1080 344x194mm 15.5-inch     | 1         | 4%      |
 | LG Display LCD Monitor LGD059D 1920x1080 309x174mm 14.0-inch     | 1         | 4%      |
 | LG Display LCD Monitor LGD051D 1920x1080 309x174mm 14.0-inch     | 1         | 4%      |
-| LG Display LCD Monitor LGD045E 1366x768 309x174mm 14.0-inch      | 1         | 4%      |
+| LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch      | 1         | 4%      |
 | LG Display LCD Monitor LGD03DE 1600x900 382x215mm 17.3-inch      | 1         | 4%      |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch         | 1         | 4%      |
-| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch          | 1         | 4%      |
+| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch          | 1         | 4%      |
 | Hewlett-Packard E243i HPN3463 1920x1200 518x324mm 24.1-inch      | 1         | 4%      |
-| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch       | 1         | 4%      |
+| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch          | 1         | 4%      |
 | Dell U2415 DELA0BC 1920x1200 518x324mm 24.1-inch                 | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN175A 1920x1080 381x214mm 17.2-inch | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN1610 1920x1200 344x215mm 16.0-inch | 1         | 4%      |
-| Chimei Innolux LCD Monitor CMN15F6 1920x1080 340x190mm 15.3-inch | 1         | 4%      |
+| Chimei Innolux LCD Monitor CMN15F6 1920x1080 344x193mm 15.5-inch | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch  | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch | 1         | 4%      |
@@ -1850,8 +1850,8 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 9.09%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 4.55%   |
 | SK hynix RAM H9CCNNNCLGALAR-NUD 8GB Row Of Chips LPDDR3 1867MT/s | 1         | 4.55%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 1         | 4.55%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 1         | 4.55%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1600MT/s                 | 1         | 4.55%   |
+| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s         | 1         | 4.55%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 1         | 4.55%   |
 | Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s           | 1         | 4.55%   |
 | Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 4.55%   |
@@ -1862,11 +1862,11 @@ Memory module models
 | Micron RAM 4ATF25664HZ-2G3B1 4GB SODIMM DDR4 2400MT/s            | 1         | 4.55%   |
 | Micron RAM ...d 4096MB SODIMM DDR3 1067MT/s                      | 1         | 4.55%   |
 | Kingston RAM LV32D4S2S8HD-8 8GB SODIMM DDR4 3200MT/s             | 1         | 4.55%   |
-| Kingston RAM ACR16D3LS1KFG/4G 4096MB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
+| Kingston RAM ACR16D3LS1KFG/4G 4GB SODIMM DDR3 1600MT/s           | 1         | 4.55%   |
 | Kingston RAM 99U5663-007.A00G 16GB SODIMM DDR4 2667MT/s          | 1         | 4.55%   |
 | Crucial RAM CT8G4SFS824A.M8FE 8GB SODIMM DDR4 2667MT/s           | 1         | 4.55%   |
 | Crucial RAM CT4G3S1067M.C16FKD 4GB SODIMM DDR3 1066MT/s          | 1         | 4.55%   |
-| Crucial RAM CT32G48C40S5.M16A1 32GB SODIMM DDR5 4800MT/s         | 1         | 4.55%   |
+| Crucial RAM CT32G48C40S5.M16A1 32GB SODIMM 4800MT/s              | 1         | 4.55%   |
 | Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s       | 1         | 4.55%   |
 
 Memory Kind

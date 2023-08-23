@@ -579,10 +579,10 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 7        | 17.95%  |
-| 2014 | 6        | 15.38%  |
-| 2015 | 4        | 10.26%  |
+| 2014 | 7        | 17.95%  |
 | 2011 | 4        | 10.26%  |
 | 2020 | 3        | 7.69%   |
+| 2015 | 3        | 7.69%   |
 | 2008 | 3        | 7.69%   |
 | 2021 | 2        | 5.13%   |
 | 2017 | 2        | 5.13%   |
@@ -875,7 +875,7 @@ Hard drive models
 | WDC WD10EZEX-08WN4A0 1TB                            | 2        | 2%      |
 | WDC WD10EZEX-08M2NA0 1TB                            | 2        | 2%      |
 | Toshiba DT01ACA050 500GB                            | 2        | 2%      |
-| Kingston Company A2000 NVMe SSD 250GB               | 2        | 2%      |
+| Kingston Company A2000 NVMe SSD 1TB                 | 2        | 2%      |
 | Kingston SA400S37480G 480GB SSD                     | 2        | 2%      |
 | Kingston SA400S37240G 240GB SSD                     | 2        | 2%      |
 | Crucial CT1000P1SSD8 1TB                            | 2        | 2%      |
@@ -903,11 +903,11 @@ Hard drive models
 | WDC WD10EADS-00M2B0 1TB                             | 1        | 1%      |
 | WDC WD1003FBYX-01Y7B0 1TB                           | 1        | 1%      |
 | WDC WD My Passport 25F3 512GB                       | 1        | 1%      |
-| Unknown SD/MMC/MS PRO 250GB                         | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 128GB                         | 1        | 1%      |
 | Toshiba DT01ACA100 1TB                              | 1        | 1%      |
 | SPCC Sol id State Disk 256GB SSD                    | 1        | 1%      |
 | SK hynix HFS512GD9TNG-L2A0A 512GB                   | 1        | 1%      |
-| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 1        | 1%      |
+| Silicon Motion SM2262/SM2262EN SSD Controller 512GB | 1        | 1%      |
 
 HDD Vendor
 ----------
@@ -991,11 +991,10 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 28       | 55     | 48.28%  |
-| 0.51-1.0   | 16       | 22     | 27.59%  |
+| 0.51-1.0   | 17       | 24     | 29.31%  |
 | 1.01-2.0   | 8        | 9      | 13.79%  |
 | 3.01-4.0   | 4        | 5      | 6.9%    |
 | 10.01-20.0 | 1        | 1      | 1.72%   |
-| 4.01-10.0  | 1        | 2      | 1.72%   |
 
 Space Total
 -----------
@@ -1156,19 +1155,19 @@ Storage controller models
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 3        | 4.35%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 2        | 2.9%    |
 | Phison E12 NVMe Controller                                                              | 2        | 2.9%    |
-| Micron/Crucial P1 NVMe PCIe SSD                                                         | 2        | 2.9%    |
-| Kingston Company KC2000 NVMe SSD                                                        | 2        | 2.9%    |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                               | 2        | 2.9%    |
+| Kingston Company KC2000/KC2500 NVMe SSD                                                 | 2        | 2.9%    |
 | Kingston Company A2000 NVMe SSD                                                         | 2        | 2.9%    |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 2        | 2.9%    |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 2        | 2.9%    |
 | AMD FCH IDE Controller                                                                  | 2        | 2.9%    |
 | AMD 500 Series Chipset SATA Controller                                                  | 2        | 2.9%    |
-| SK hynix Non-Volatile memory controller                                                 | 1        | 1.45%   |
+| SK hynix PC601 NVMe Solid State Drive                                                   | 1        | 1.45%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                           | 1        | 1.45%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.45%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                       | 1        | 1.45%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 1        | 1.45%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                                 | 1        | 1.45%   |
+| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                                        | 1        | 1.45%   |
 | Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                              | 1        | 1.45%   |
 | Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                              | 1        | 1.45%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 1        | 1.45%   |
@@ -1563,12 +1562,12 @@ Monitor models
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 2%      |
 | Microstep LCD Monitor MSI G241                                       | 1        | 2%      |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 2%      |
-| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch           | 1        | 2%      |
 | Lenovo LEN L220xwC LEN1151 1920x1200 474x296mm 22.0-inch             | 1        | 2%      |
+| Lenovo LCD Monitor LEN1144 1920x1080 520x320mm 24.0-inch             | 1        | 2%      |
 | Hewlett-Packard 24y HPN3504 1920x1080 528x297mm 23.9-inch            | 1        | 2%      |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 2%      |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 2%      |
-| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch           | 1        | 2%      |
+| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1        | 2%      |
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                 | 1        | 2%      |
 | Goldstar E2050 GSM4EAE 1600x900 443x249mm 20.0-inch                  | 1        | 2%      |
 | Goldstar 19EN33 GSM4C18 1366x768 410x230mm 18.5-inch                 | 1        | 2%      |
@@ -1578,13 +1577,13 @@ Monitor models
 | BenQ LCD Monitor T2200HD 5760x1080                                   | 1        | 2%      |
 | BenQ LCD Monitor T2200HD                                             | 1        | 2%      |
 | BenQ BL2405 BNQ8016 1920x1080 531x298mm 24.0-inch                    | 1        | 2%      |
-| ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
-| ASUSTek Computer MG248 AUS24A3 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
+| ASUSTek Computer VG245 AUS24A3 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
+| ASUSTek Computer VG245 AUS24A1 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2%      |
-| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
+| AOC Q27G2SG4 AOC2702 2560x1440 597x336mm 27.0-inch                   | 1        | 2%      |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2%      |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2%      |
-| AOC 2460G5 AOC2460 1920x1080 531x299mm 24.0-inch                     | 1        | 2%      |
+| AOC 2460 AOC2460 1920x1080 531x299mm 24.0-inch                       | 1        | 2%      |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2%      |
 
 Monitor Resolution
@@ -1787,7 +1786,7 @@ Controller models
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 1.41%   |
 | Intel PRO/100 VE Network Connection                                                     | 1        | 1.41%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 1.41%   |
-| Huawei LLD-L21                                                                          | 1        | 1.41%   |
+| Huawei WLZ-AN00                                                                         | 1        | 1.41%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 1.41%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                      | 1        | 1.41%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 1.41%   |
@@ -1884,7 +1883,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 2.33%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2.33%   |
 | Intel PRO/100 VE Network Connection                               | 1        | 2.33%   |
-| Huawei LLD-L21                                                    | 1        | 2.33%   |
+| Huawei WLZ-AN00                                                   | 1        | 2.33%   |
 
 Net Controller Kind
 -------------------
@@ -2092,11 +2091,11 @@ Memory module models
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 7.69%   |
 | Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 7.69%   |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 7.69%   |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
+| Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s  | 1        | 7.69%   |
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
 | Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 7.69%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s    | 1        | 7.69%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3             | 1        | 7.69%   |
 | Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
 | Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 7.69%   |
@@ -2113,8 +2112,9 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR3    | 6        | 54.55%  |
+| DDR3    | 5        | 45.45%  |
 | DDR4    | 4        | 36.36%  |
+| SDRAM   | 1        | 9.09%   |
 | Unknown | 1        | 9.09%   |
 
 Memory Form Factor

@@ -153,10 +153,12 @@ Contents
 Test Cases
 ----------
 
-Total: 247
+Total: 249
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | AT4NM10T-I                  | [a650338ead](https://linux-hardware.org/?probe=a650338ead) | Aug 04, 2023 |
+| ASUSTek       | PRIME X370-PRO              | [8ff38f3782](https://linux-hardware.org/?probe=8ff38f3782) | Jul 18, 2023 |
 | ASUSTek       | P8Z77-V DELUXE              | [a7bcb95d10](https://linux-hardware.org/?probe=a7bcb95d10) | Jun 30, 2023 |
 | Gigabyte      | H77N-WIFI                   | [8dce973d6b](https://linux-hardware.org/?probe=8dce973d6b) | Jun 02, 2023 |
 | MSI           | B460M PRO-VDH WIFI          | [8b0573684a](https://linux-hardware.org/?probe=8b0573684a) | Apr 12, 2023 |
@@ -418,46 +420,46 @@ Version of the Linux kernel
 
 | Version                      | Desktops | Percent |
 |------------------------------|----------|---------|
-| 4.18.0-147.8.1.el8_1.x86_64  | 13       | 7.22%   |
-| 4.18.0-193.6.3.el8_2.x86_64  | 12       | 6.67%   |
-| 4.18.0-193.14.2.el8_2.x86_64 | 12       | 6.67%   |
-| 4.18.0-80.11.2.el8_0.x86_64  | 9        | 5%      |
-| 4.18.0-348.2.1.el8_5.x86_64  | 9        | 5%      |
-| 4.18.0-193.28.1.el8_2.x86_64 | 9        | 5%      |
-| 4.18.0-193.19.1.el8_2.x86_64 | 9        | 5%      |
-| 4.18.0-147.5.1.el8_1.x86_64  | 7        | 3.89%   |
-| 4.18.0-240.22.1.el8_3.x86_64 | 6        | 3.33%   |
-| 4.18.0-240.15.1.el8_3.x86_64 | 6        | 3.33%   |
-| 4.18.0-240.10.1.el8_3.x86_64 | 6        | 3.33%   |
-| 4.18.0-240.1.1.el8_3.x86_64  | 6        | 3.33%   |
-| 4.18.0-348.7.1.el8_5.x86_64  | 5        | 2.78%   |
-| 4.18.0-305.19.1.el8_4.x86_64 | 5        | 2.78%   |
-| 4.18.0-305.12.1.el8_4.x86_64 | 4        | 2.22%   |
-| 4.18.0-301.1.el8.x86_64      | 4        | 2.22%   |
-| 4.18.0-147.el8.x86_64        | 4        | 2.22%   |
-| 4.18.0-358.el8.x86_64        | 3        | 1.67%   |
-| 4.18.0-80.el8.x86_64         | 2        | 1.11%   |
-| 4.18.0-394.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-383.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-348.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-338.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-315.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-305.7.1.el8_4.x86_64  | 2        | 1.11%   |
-| 4.18.0-305.10.2.el8_4.x86_64 | 2        | 1.11%   |
-| 4.18.0-305.0.1.el8.x86_64    | 2        | 1.11%   |
-| 4.18.0-294.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-277.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-240.el8.x86_64        | 2        | 1.11%   |
-| 4.18.0-193.10.el8.x86_64     | 2        | 1.11%   |
-| 4.18.0-147.3.1.el8_1.x86_64  | 2        | 1.11%   |
-| 5.18.0-1.el8.elrepo.x86_64   | 1        | 0.56%   |
-| 5.13.11-1.el8.elrepo.x86_64  | 1        | 0.56%   |
-| 5.10.3-1.el8.elrepo.x86_64   | 1        | 0.56%   |
-| 5.10.10                      | 1        | 0.56%   |
-| 4.18.0-80.7.1.el8_0.x86_64   | 1        | 0.56%   |
-| 4.18.0-499.el8.x86_64        | 1        | 0.56%   |
-| 4.18.0-490.el8.x86_64        | 1        | 0.56%   |
-| 4.18.0-448.el8.x86_64        | 1        | 0.56%   |
+| 4.18.0-147.8.1.el8_1.x86_64  | 13       | 7.14%   |
+| 4.18.0-193.6.3.el8_2.x86_64  | 12       | 6.59%   |
+| 4.18.0-193.14.2.el8_2.x86_64 | 12       | 6.59%   |
+| 4.18.0-80.11.2.el8_0.x86_64  | 9        | 4.95%   |
+| 4.18.0-348.2.1.el8_5.x86_64  | 9        | 4.95%   |
+| 4.18.0-193.28.1.el8_2.x86_64 | 9        | 4.95%   |
+| 4.18.0-193.19.1.el8_2.x86_64 | 9        | 4.95%   |
+| 4.18.0-147.5.1.el8_1.x86_64  | 7        | 3.85%   |
+| 4.18.0-348.7.1.el8_5.x86_64  | 6        | 3.3%    |
+| 4.18.0-240.22.1.el8_3.x86_64 | 6        | 3.3%    |
+| 4.18.0-240.15.1.el8_3.x86_64 | 6        | 3.3%    |
+| 4.18.0-240.10.1.el8_3.x86_64 | 6        | 3.3%    |
+| 4.18.0-240.1.1.el8_3.x86_64  | 6        | 3.3%    |
+| 4.18.0-305.19.1.el8_4.x86_64 | 5        | 2.75%   |
+| 4.18.0-305.12.1.el8_4.x86_64 | 4        | 2.2%    |
+| 4.18.0-301.1.el8.x86_64      | 4        | 2.2%    |
+| 4.18.0-147.el8.x86_64        | 4        | 2.2%    |
+| 4.18.0-358.el8.x86_64        | 3        | 1.65%   |
+| 4.18.0-80.el8.x86_64         | 2        | 1.1%    |
+| 4.18.0-394.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-383.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-348.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-338.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-315.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-305.7.1.el8_4.x86_64  | 2        | 1.1%    |
+| 4.18.0-305.10.2.el8_4.x86_64 | 2        | 1.1%    |
+| 4.18.0-305.0.1.el8.x86_64    | 2        | 1.1%    |
+| 4.18.0-294.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-277.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-240.el8.x86_64        | 2        | 1.1%    |
+| 4.18.0-193.10.el8.x86_64     | 2        | 1.1%    |
+| 4.18.0-147.3.1.el8_1.x86_64  | 2        | 1.1%    |
+| 5.18.0-1.el8.elrepo.x86_64   | 1        | 0.55%   |
+| 5.13.11-1.el8.elrepo.x86_64  | 1        | 0.55%   |
+| 5.10.3-1.el8.elrepo.x86_64   | 1        | 0.55%   |
+| 5.10.10                      | 1        | 0.55%   |
+| 4.18.0-80.7.1.el8_0.x86_64   | 1        | 0.55%   |
+| 4.18.0-500.el8.x86_64        | 1        | 0.55%   |
+| 4.18.0-499.el8.x86_64        | 1        | 0.55%   |
+| 4.18.0-490.el8.x86_64        | 1        | 0.55%   |
 
 Kernel Family
 -------------
@@ -1029,8 +1031,8 @@ Geographic location (city)
 
 | City                | Desktops | Percent |
 |---------------------|----------|---------|
-| Portland            | 4        | 2.55%   |
-| Berlin              | 4        | 2.55%   |
+| Portland            | 4        | 2.53%   |
+| Berlin              | 4        | 2.53%   |
 | Warsaw              | 2        | 1.27%   |
 | Sydney              | 2        | 1.27%   |
 | Sao Paulo           | 2        | 1.27%   |
@@ -1044,31 +1046,31 @@ Geographic location (city)
 | Budapest            | 2        | 1.27%   |
 | Bengaluru           | 2        | 1.27%   |
 | Alexandria          | 2        | 1.27%   |
-| Zurich              | 1        | 0.64%   |
-| Zaporizhzhia        | 1        | 0.64%   |
-| Zapopan             | 1        | 0.64%   |
-| Yozgat              | 1        | 0.64%   |
-| Wodzisław Śląski | 1        | 0.64%   |
-| West Bromwich       | 1        | 0.64%   |
-| Waxhaw              | 1        | 0.64%   |
-| Vitebsk             | 1        | 0.64%   |
-| Vaugneray           | 1        | 0.64%   |
-| Val-des-Monts       | 1        | 0.64%   |
-| Tuusula             | 1        | 0.64%   |
-| Tremembe            | 1        | 0.64%   |
-| Tehran              | 1        | 0.64%   |
-| Taubate             | 1        | 0.64%   |
-| Tambov              | 1        | 0.64%   |
-| Sunderland          | 1        | 0.64%   |
-| Sundbyberg          | 1        | 0.64%   |
-| Sucy-en-Brie        | 1        | 0.64%   |
-| Stuttgart           | 1        | 0.64%   |
-| Stockholm           | 1        | 0.64%   |
-| Southlake           | 1        | 0.64%   |
-| South Jordan        | 1        | 0.64%   |
-| Sopot               | 1        | 0.64%   |
-| Sollentuna          | 1        | 0.64%   |
-| Shenzhen            | 1        | 0.64%   |
+| Zurich              | 1        | 0.63%   |
+| Zaporizhzhia        | 1        | 0.63%   |
+| Zapopan             | 1        | 0.63%   |
+| Yozgat              | 1        | 0.63%   |
+| Wodzisław Śląski | 1        | 0.63%   |
+| West Bromwich       | 1        | 0.63%   |
+| Waxhaw              | 1        | 0.63%   |
+| Vitebsk             | 1        | 0.63%   |
+| Vaugneray           | 1        | 0.63%   |
+| Val-des-Monts       | 1        | 0.63%   |
+| Tuusula             | 1        | 0.63%   |
+| Tremembe            | 1        | 0.63%   |
+| Tehran              | 1        | 0.63%   |
+| Taubate             | 1        | 0.63%   |
+| Tambov              | 1        | 0.63%   |
+| Sunderland          | 1        | 0.63%   |
+| Sundbyberg          | 1        | 0.63%   |
+| Sucy-en-Brie        | 1        | 0.63%   |
+| Stuttgart           | 1        | 0.63%   |
+| Stockholm           | 1        | 0.63%   |
+| Southlake           | 1        | 0.63%   |
+| South Jordan        | 1        | 0.63%   |
+| Sopot               | 1        | 0.63%   |
+| Sollentuna          | 1        | 0.63%   |
+| Shenzhen            | 1        | 0.63%   |
 
 Drives
 ------
@@ -1083,12 +1085,12 @@ Hard drive vendors
 
 | Vendor                    | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
-| WDC                       | 66       | 214    | 22.37%  |
-| Seagate                   | 54       | 111    | 18.31%  |
+| WDC                       | 66       | 221    | 22.37%  |
+| Seagate                   | 54       | 113    | 18.31%  |
 | Samsung Electronics       | 44       | 70     | 14.92%  |
 | Kingston                  | 21       | 27     | 7.12%   |
 | Hitachi                   | 11       | 13     | 3.73%   |
-| Toshiba                   | 10       | 17     | 3.39%   |
+| Toshiba                   | 10       | 18     | 3.39%   |
 | SanDisk                   | 9        | 10     | 3.05%   |
 | Intel                     | 8        | 11     | 2.71%   |
 | Crucial                   | 7        | 8      | 2.37%   |
@@ -1104,7 +1106,7 @@ Hard drive vendors
 | PNY                       | 2        | 3      | 0.68%   |
 | OCZ                       | 2        | 3      | 0.68%   |
 | Micron/Crucial Technology | 2        | 3      | 0.68%   |
-| KIOXIA-EXCERIA            | 2        | 4      | 0.68%   |
+| KIOXIA-EXCERIA            | 2        | 5      | 0.68%   |
 | Gigabyte Technology       | 2        | 2      | 0.68%   |
 | Dell                      | 2        | 2      | 0.68%   |
 | Apacer                    | 2        | 2      | 0.68%   |
@@ -1170,7 +1172,7 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.53%   |
-| Seagate Expansion Desk 5TB          | 2        | 0.53%   |
+| Seagate Expansion Desk 8TB          | 2        | 0.53%   |
 | SanDisk NVMe SSD Drive 1TB          | 2        | 0.53%   |
 | Samsung SSD 970 EVO Plus 500GB      | 2        | 0.53%   |
 | Samsung SSD 850 EVO M.2 500GB       | 2        | 0.53%   |
@@ -1185,17 +1187,18 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 63       | 204    | 40.13%  |
-| Seagate             | 52       | 109    | 33.12%  |
-| Hitachi             | 11       | 13     | 7.01%   |
-| Toshiba             | 10       | 17     | 6.37%   |
-| Samsung Electronics | 7        | 7      | 4.46%   |
-| HGST                | 6        | 29     | 3.82%   |
-| Unknown             | 3        | 11     | 1.91%   |
+| WDC                 | 63       | 211    | 39.87%  |
+| Seagate             | 52       | 111    | 32.91%  |
+| Hitachi             | 11       | 13     | 6.96%   |
+| Toshiba             | 10       | 18     | 6.33%   |
+| Samsung Electronics | 7        | 7      | 4.43%   |
+| HGST                | 6        | 29     | 3.8%    |
+| Unknown             | 3        | 11     | 1.9%    |
 | Dell                | 2        | 2      | 1.27%   |
-| Hewlett-Packard     | 1        | 1      | 0.64%   |
-| Fujitsu             | 1        | 2      | 0.64%   |
-| Apple               | 1        | 1      | 0.64%   |
+| Hewlett-Packard     | 1        | 1      | 0.63%   |
+| Fujitsu             | 1        | 2      | 0.63%   |
+| ASMT                | 1        | 1      | 0.63%   |
+| Apple               | 1        | 1      | 0.63%   |
 
 SSD Vendor
 ----------
@@ -1207,31 +1210,30 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 27       | 43     | 27%     |
-| Kingston            | 20       | 26     | 20%     |
-| WDC                 | 7        | 10     | 7%      |
-| Intel               | 7        | 8      | 7%      |
-| Crucial             | 6        | 7      | 6%      |
-| SanDisk             | 5        | 6      | 5%      |
-| SPCC                | 3        | 8      | 3%      |
-| SK hynix            | 3        | 4      | 3%      |
-| PNY                 | 2        | 3      | 2%      |
-| OCZ                 | 2        | 3      | 2%      |
-| Micron Technology   | 2        | 3      | 2%      |
-| Apacer              | 2        | 2      | 2%      |
-| A-DATA Technology   | 2        | 2      | 2%      |
-| Verbatim            | 1        | 1      | 1%      |
-| V-GeN               | 1        | 1      | 1%      |
-| Team                | 1        | 1      | 1%      |
-| Seagate             | 1        | 1      | 1%      |
-| SATADOM-SL          | 1        | 1      | 1%      |
-| Plextor             | 1        | 1      | 1%      |
-| Patriot             | 1        | 3      | 1%      |
-| Lexar               | 1        | 1      | 1%      |
-| KIOXIA-EXCERIA      | 1        | 2      | 1%      |
-| GOODRAM             | 1        | 1      | 1%      |
-| China               | 1        | 4      | 1%      |
-| ASMT                | 1        | 1      | 1%      |
+| Samsung Electronics | 27       | 43     | 27.27%  |
+| Kingston            | 20       | 26     | 20.2%   |
+| WDC                 | 7        | 10     | 7.07%   |
+| Intel               | 7        | 8      | 7.07%   |
+| Crucial             | 6        | 7      | 6.06%   |
+| SanDisk             | 5        | 6      | 5.05%   |
+| SPCC                | 3        | 8      | 3.03%   |
+| SK hynix            | 3        | 4      | 3.03%   |
+| PNY                 | 2        | 3      | 2.02%   |
+| OCZ                 | 2        | 3      | 2.02%   |
+| Micron Technology   | 2        | 3      | 2.02%   |
+| Apacer              | 2        | 2      | 2.02%   |
+| A-DATA Technology   | 2        | 2      | 2.02%   |
+| Verbatim            | 1        | 1      | 1.01%   |
+| V-GeN               | 1        | 1      | 1.01%   |
+| Team                | 1        | 1      | 1.01%   |
+| Seagate             | 1        | 1      | 1.01%   |
+| SATADOM-SL          | 1        | 1      | 1.01%   |
+| Plextor             | 1        | 1      | 1.01%   |
+| Patriot             | 1        | 3      | 1.01%   |
+| Lexar               | 1        | 1      | 1.01%   |
+| KIOXIA-EXCERIA      | 1        | 2      | 1.01%   |
+| GOODRAM             | 1        | 1      | 1.01%   |
+| China               | 1        | 4      | 1.01%   |
 
 Drive Kind
 ----------
@@ -1243,9 +1245,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 110      | 396    | 46.81%  |
-| SSD     | 82       | 143    | 34.89%  |
-| NVMe    | 41       | 57     | 17.45%  |
+| HDD     | 111      | 407    | 47.03%  |
+| SSD     | 82       | 142    | 34.75%  |
+| NVMe    | 41       | 58     | 17.37%  |
 | Unknown | 2        | 2      | 0.85%   |
 
 Drive Connector
@@ -1258,8 +1260,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 144      | 524    | 73.85%  |
-| NVMe | 41       | 57     | 21.03%  |
+| SATA | 144      | 534    | 73.85%  |
+| NVMe | 41       | 58     | 21.03%  |
 | SAS  | 10       | 17     | 5.13%   |
 
 Drive Size
@@ -1272,12 +1274,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 101      | 195    | 43.91%  |
-| 0.51-1.0   | 63       | 114    | 27.39%  |
-| 1.01-2.0   | 36       | 90     | 15.65%  |
-| 4.01-10.0  | 12       | 32     | 5.22%   |
-| 3.01-4.0   | 10       | 41     | 4.35%   |
-| 2.01-3.0   | 5        | 45     | 2.17%   |
+| 0.01-0.5   | 101      | 196    | 43.72%  |
+| 0.51-1.0   | 64       | 116    | 27.71%  |
+| 1.01-2.0   | 36       | 91     | 15.58%  |
+| 4.01-10.0  | 12       | 32     | 5.19%   |
+| 3.01-4.0   | 10       | 47     | 4.33%   |
+| 2.01-3.0   | 5        | 45     | 2.16%   |
 | 10.01-20.0 | 3        | 22     | 1.3%    |
 
 Space Total
@@ -1311,15 +1313,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 48       | 28.24%  |
-| 21-50          | 30       | 17.65%  |
-| 101-250        | 24       | 14.12%  |
-| 51-100         | 15       | 8.82%   |
-| 251-500        | 14       | 8.24%   |
-| More than 3000 | 12       | 7.06%   |
-| 501-1000       | 11       | 6.47%   |
-| 1001-2000      | 9        | 5.29%   |
-| Unknown        | 7        | 4.12%   |
+| 1-20           | 48       | 28.07%  |
+| 21-50          | 30       | 17.54%  |
+| 101-250        | 24       | 14.04%  |
+| 51-100         | 15       | 8.77%   |
+| 251-500        | 14       | 8.19%   |
+| More than 3000 | 12       | 7.02%   |
+| 501-1000       | 12       | 7.02%   |
+| 1001-2000      | 9        | 5.26%   |
+| Unknown        | 7        | 4.09%   |
 
 Malfunc. Drives
 ---------------
@@ -1437,9 +1439,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 94       | 292    | 52.51%  |
-| Works    | 64       | 275    | 35.75%  |
-| Malfunc  | 20       | 29     | 11.17%  |
+| Detected | 93       | 291    | 52.25%  |
+| Works    | 64       | 287    | 35.96%  |
+| Malfunc  | 20       | 29     | 11.24%  |
 | Failed   | 1        | 2      | 0.56%   |
 
 Storage controller
@@ -1515,7 +1517,7 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 4        | 1.38%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                  | 4        | 1.38%   |
 | AMD 500 Series Chipset SATA Controller                                         | 4        | 1.38%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 3        | 1.03%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 3        | 1.03%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3        | 1.03%   |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller               | 3        | 1.03%   |
 | LSI Logic / Symbios Logic SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]        | 3        | 1.03%   |
@@ -1526,7 +1528,7 @@ Storage controller models
 | Silicon Motion SM2262/SM2262EN SSD Controller                                  | 2        | 0.69%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 2        | 0.69%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 2        | 0.69%   |
-| Micron/Crucial P1 NVMe PCIe SSD                                                | 2        | 0.69%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 2        | 0.69%   |
 | JMicron JMB368 IDE controller                                                  | 2        | 0.69%   |
 | Intel C600/X79 series chipset SATA RAID Controller                             | 2        | 0.69%   |
 
@@ -1540,11 +1542,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 111      | 51.39%  |
-| NVMe | 41       | 18.98%  |
-| IDE  | 30       | 13.89%  |
-| RAID | 28       | 12.96%  |
-| SAS  | 4        | 1.85%   |
+| SATA | 111      | 51.63%  |
+| NVMe | 41       | 19.07%  |
+| IDE  | 30       | 13.95%  |
+| RAID | 27       | 12.56%  |
+| SAS  | 4        | 1.86%   |
 | SCSI | 2        | 0.93%   |
 
 Processor
@@ -1975,12 +1977,12 @@ Monitor models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 3        | 1.58%   |
-| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch           | 3        | 1.58%   |
-| Xiaomi Mi TV XMD009A 2880x1800 480x270mm 21.7-inch                   | 2        | 1.05%   |
+| Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3        | 1.58%   |
+| Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 2        | 1.05%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 440x300mm 21.0-inch | 2        | 1.05%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2        | 1.05%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 1.05%   |
-| MStar Demo MST0030 1360x765 708x398mm 32.0-inch                      | 2        | 1.05%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                       | 2        | 1.05%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch         | 2        | 1.05%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch              | 2        | 1.05%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 1.05%   |
@@ -2060,10 +2062,10 @@ Diagonal size in inches
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
 | 27      | 28       | 16.97%  |
-| 24      | 24       | 14.55%  |
+| 24      | 25       | 15.15%  |
 | 21      | 24       | 14.55%  |
 | Unknown | 23       | 13.94%  |
-| 23      | 21       | 12.73%  |
+| 23      | 20       | 12.12%  |
 | 20      | 8        | 4.85%   |
 | 19      | 5        | 3.03%   |
 | 34      | 4        | 2.42%   |
@@ -2635,12 +2637,12 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 1333MT/s                 | 1        | 1.14%   |
 | TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s     | 1        | 1.14%   |
 | Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s        | 1        | 1.14%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s      | 1        | 1.14%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s     | 1        | 1.14%   |
 | Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s      | 1        | 1.14%   |
 | Team RAM Elite-1333 4GB DIMM 1333MT/s                   | 1        | 1.14%   |
 | SK hynix RAM Module 8GB DIMM DDR4 2133MT/s              | 1        | 1.14%   |
 | SK hynix RAM Module 16GB DIMM DDR4 3200MT/s             | 1        | 1.14%   |
-| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR 667MT/s    | 1        | 1.14%   |
+| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR2 667MT/s   | 1        | 1.14%   |
 | SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.14%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 1.14%   |
 | SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 1.14%   |
@@ -2656,7 +2658,7 @@ Memory module models
 | Samsung RAM M378A4G43AB2-CWE 32GB DIMM DDR4 3200MT/s    | 1        | 1.14%   |
 | Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s     | 1        | 1.14%   |
 | Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s     | 1        | 1.14%   |
-| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM 1600MT/s        | 1        | 1.14%   |
+| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.14%   |
 | Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.14%   |
 | Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.14%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 1.14%   |
@@ -2837,10 +2839,10 @@ Camera device models
 | Microdia Defender G-Lens 2577 HD720p Camera       | 2        | 8.33%   |
 | Microdia Camera                                   | 2        | 8.33%   |
 | Logitech Webcam C270                              | 2        | 8.33%   |
-| Lenovo FHD Webcam Audio                           | 2        | 8.33%   |
-| Samsung Galaxy A5 (MTP)                           | 1        | 4.17%   |
-| Realtek Laptop_Integrated_Webcam_FHD              | 1        | 4.17%   |
-| Microdia REDRAGON Live Camera Audio               | 1        | 4.17%   |
+| Lenovo FHD Webcam                                 | 2        | 8.33%   |
+| Samsung Galaxy series, misc. (MTP mode)           | 1        | 4.17%   |
+| Realtek HD Camera                                 | 1        | 4.17%   |
+| Microdia USB 2.0 Camera                           | 1        | 4.17%   |
 | Logitech Webcam C930e                             | 1        | 4.17%   |
 | Logitech Webcam C210                              | 1        | 4.17%   |
 | Logitech StreamCam                                | 1        | 4.17%   |

@@ -625,11 +625,11 @@ Motherboard manufacture year
 | 2008 | 12        | 20.34%  |
 | 2020 | 5         | 8.47%   |
 | 2016 | 5         | 8.47%   |
-| 2015 | 5         | 8.47%   |
+| 2014 | 5         | 8.47%   |
 | 2019 | 4         | 6.78%   |
 | 2018 | 4         | 6.78%   |
 | 2017 | 4         | 6.78%   |
-| 2014 | 4         | 6.78%   |
+| 2015 | 4         | 6.78%   |
 | 2009 | 4         | 6.78%   |
 | 2012 | 3         | 5.08%   |
 | 2011 | 3         | 5.08%   |
@@ -1167,7 +1167,7 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                             | 2         | 3.33%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                  | 2         | 3.33%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                             | 2         | 3.33%   |
-| Union Memory (Shenzhen) Non-Volatile memory controller                        | 1         | 1.67%   |
+| Union Memory (Shenzhen) AM610 PCIe 3.0 NVMe SSD 128GB                         | 1         | 1.67%   |
 | Nvidia MCP51 Serial ATA Controller                                            | 1         | 1.67%   |
 | Nvidia MCP51 IDE                                                              | 1         | 1.67%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo         | 1         | 1.67%   |
@@ -1586,7 +1586,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
@@ -1602,7 +1602,7 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch           | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch               | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch              | 1         | 1.67%   |
-| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch               | 1         | 1.67%   |
+| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch               | 1         | 1.67%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.67%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.67%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.67%   |
@@ -2274,12 +2274,11 @@ Camera device vendors
 | Microdia                               | 2         | 5.71%   |
 | Lite-On Technology                     | 2         | 5.71%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.71%   |
+| Bison Electronics                      | 2         | 5.71%   |
 | Sunplus Innovation Technology          | 1         | 2.86%   |
 | Importek                               | 1         | 2.86%   |
 | IMC Networks                           | 1         | 2.86%   |
-| Bison Electronics                      | 1         | 2.86%   |
 | ARC International                      | 1         | 2.86%   |
-| Acer                                   | 1         | 2.86%   |
 
 Camera Model
 ------------
@@ -2315,8 +2314,8 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101    | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 2.86%   |
 | Bison VGA WebCam                                        | 1         | 2.86%   |
+| Bison EasyCamera                                        | 1         | 2.86%   |
 | ARC International Camera                                | 1         | 2.86%   |
-| Acer EasyCamera                                         | 1         | 2.86%   |
 
 Security
 --------
@@ -2388,9 +2387,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 35        | 58.33%  |
+| 0     | 34        | 56.67%  |
 | 1     | 22        | 36.67%  |
-| 2     | 3         | 5%      |
+| 2     | 4         | 6.67%   |
 
 Unsupported Device Types
 ------------------------
@@ -2402,13 +2401,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 22.22%  |
-| Net/wireless             | 5         | 18.52%  |
-| Fingerprint reader       | 5         | 18.52%  |
-| Graphics card            | 3         | 11.11%  |
-| Chipcard                 | 3         | 11.11%  |
-| Storage                  | 2         | 7.41%   |
-| Storage/ide              | 1         | 3.7%    |
-| Modem                    | 1         | 3.7%    |
-| Communication controller | 1         | 3.7%    |
+| Multimedia controller    | 6         | 20.69%  |
+| Net/wireless             | 5         | 17.24%  |
+| Graphics card            | 5         | 17.24%  |
+| Fingerprint reader       | 5         | 17.24%  |
+| Chipcard                 | 3         | 10.34%  |
+| Storage                  | 2         | 6.9%    |
+| Storage/ide              | 1         | 3.45%   |
+| Modem                    | 1         | 3.45%   |
+| Communication controller | 1         | 3.45%   |
 

@@ -837,8 +837,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 51       | 71.83%  |
-| Yes       | 20       | 28.17%  |
+| No        | 52       | 73.24%  |
+| Yes       | 19       | 26.76%  |
 
 Has Ethernet
 ------------
@@ -986,7 +986,7 @@ Hard drive vendors
 | Samsung Electronics       | 36       | 69     | 23.53%  |
 | WDC                       | 34       | 82     | 22.22%  |
 | Seagate                   | 22       | 44     | 14.38%  |
-| Sandisk                   | 9        | 16     | 5.88%   |
+| SanDisk                   | 9        | 16     | 5.88%   |
 | Toshiba                   | 8        | 13     | 5.23%   |
 | Phison Electronics        | 5        | 8      | 3.27%   |
 | Hitachi                   | 5        | 21     | 3.27%   |
@@ -1020,8 +1020,8 @@ Hard drive models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB   | 14       | 7.18%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB    | 8        | 4.1%    |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB   | 14       | 7.18%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 8        | 4.1%    |
 | Seagate ST2000DM008-2FR102 2TB                        | 5        | 2.56%   |
 | Samsung SSD 860 EVO 500GB                             | 4        | 2.05%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963 256GB   | 4        | 2.05%   |
@@ -1032,17 +1032,17 @@ Hard drive models
 | WDC WD40EZRZ-00WN9B0 4TB                              | 2        | 1.03%   |
 | WDC WD20EARX-00PASB0 2TB                              | 2        | 1.03%   |
 | WDC WD10EZEX-08WN4A0 1TB                              | 2        | 1.03%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 2        | 1.03%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB                    | 2        | 1.03%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 500GB | 2        | 1.03%   |
+| Sandisk WD Blue SN550 NVMe SSD 250GB                  | 2        | 1.03%   |
 | Samsung SSD 980 500GB                                 | 2        | 1.03%   |
 | Samsung SSD 860 QVO 1TB                               | 2        | 1.03%   |
 | Samsung SSD 860 EVO 250GB                             | 2        | 1.03%   |
 | Samsung SSD 850 EVO 500GB                             | 2        | 1.03%   |
-| Phison PS5013 E13 NVMe Controller 512GB               | 2        | 1.03%   |
+| Phison PS5013 E13 NVMe Controller 256GB               | 2        | 1.03%   |
 | Phison E16 PCIe4 NVMe Controller 1TB                  | 2        | 1.03%   |
-| Micron/Crucial P2 NVMe PCIe SSD 4TB                   | 2        | 1.03%   |
+| Micron/Crucial P2 NVMe PCIe SSD 1TB                   | 2        | 1.03%   |
 | GOODRAM SSDPR-CL100-480-G2 480GB                      | 2        | 1.03%   |
-| XPG GAMMIX S70 2TB                                    | 1        | 0.51%   |
+| XPG GAMMIX S70 1TB                                    | 1        | 0.51%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                      | 1        | 0.51%   |
 | WDC WDS200T2B0B-00YS70 2TB SSD                        | 1        | 0.51%   |
 | WDC WDS100T2B0B-00YS70 1TB SSD                        | 1        | 0.51%   |
@@ -1212,9 +1212,9 @@ Drive models with a malfunction
 | WDC WD1001FALS-00J7B1 1TB                                       | 1        | 1      | 7.14%   |
 | Samsung Electronics SSD 980 1TB                                 | 1        | 1      | 7.14%   |
 | Samsung Electronics SP2504C 250GB                               | 1        | 1      | 7.14%   |
-| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 250GB | 1        | 2      | 7.14%   |
-| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 1        | 2      | 7.14%   |
-| Realtek Semiconductor RTS5763DL NVMe SSD Controller 512GB       | 1        | 1      | 7.14%   |
+| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 500GB | 1        | 2      | 7.14%   |
+| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 1        | 2      | 7.14%   |
+| Realtek Semiconductor RTS5763DL NVMe SSD Controller 1TB         | 1        | 1      | 7.14%   |
 | Realtek Semiconductor ADATA SX6000PNP 256GB                     | 1        | 4      | 7.14%   |
 
 Malfunc. Drive Vendor
@@ -1344,12 +1344,11 @@ Storage controller models
 | Intel 500 Series Chipset Family SATA AHCI Controller                          | 3        | 1.89%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                              | 3        | 1.89%   |
 | AMD 300 Series Chipset SATA Controller                                        | 3        | 1.89%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                               | 2        | 1.26%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 2        | 1.26%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                | 2        | 1.26%   |
-| SanDisk Non-Volatile memory controller                                        | 2        | 1.26%   |
 | Phison PS5013 E13 NVMe Controller                                             | 2        | 1.26%   |
 | Phison E16 PCIe4 NVMe Controller                                              | 2        | 1.26%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                               | 2        | 1.26%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)          | 2        | 1.26%   |
 | JMicron JMB363 SATA/IDE Controller                                            | 2        | 1.26%   |
 | Intel Volume Management Device NVMe RAID Controller                           | 2        | 1.26%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                    | 2        | 1.26%   |
@@ -1360,14 +1359,15 @@ Storage controller models
 | SK hynix BC511 NVMe SSD                                                       | 1        | 0.63%   |
 | Silicon Image SiI 3132 Serial ATA Raid II Controller                          | 1        | 0.63%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                    | 1        | 0.63%   |
+| SanDisk WD Green SN350 NVMe SSD 240GB (DRAM-less)                             | 1        | 0.63%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1        | 0.63%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1        | 0.63%   |
+| SanDisk PC SN735 NVMe SSD (DRAM-less)                                         | 1        | 0.63%   |
 | Samsung NVMe SSD Controller SM951/PM951                                       | 1        | 0.63%   |
+| Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                             | 1        | 0.63%   |
 | Realtek RTS5763DL NVMe SSD Controller                                         | 1        | 0.63%   |
-| Realtek NVMe Controller                                                       | 1        | 0.63%   |
 | Phison E12 NVMe Controller                                                    | 1        | 0.63%   |
 | Nvidia MCP78S [GeForce 8200] SATA Controller (non-AHCI mode)                  | 1        | 0.63%   |
-| Nvidia MCP78S [GeForce 8200] IDE                                              | 1        | 0.63%   |
 
 Storage Kind
 ------------
@@ -1379,11 +1379,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 66       | 52.38%  |
-| NVMe | 47       | 37.3%   |
-| IDE  | 7        | 5.56%   |
-| RAID | 5        | 3.97%   |
-| SAS  | 1        | 0.79%   |
+| SATA | 66       | 52.8%   |
+| NVMe | 47       | 37.6%   |
+| IDE  | 7        | 5.6%    |
+| RAID | 4        | 3.2%    |
+| SAS  | 1        | 0.8%    |
 
 Processor
 ---------
@@ -1789,7 +1789,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM059A 1920x1080 477x268mm 21.5-inch  | 2        | 2.17%   |
 | Philips PHL 221V8 PHLC211 1920x1080 477x268mm 21.5-inch               | 2        | 2.17%   |
 | Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch          | 2        | 2.17%   |
-| Goldstar LG ULTRAWIDE GSM59F2 2560x1080 800x340mm 34.2-inch           | 2        | 2.17%   |
+| Goldstar ULTRAWIDE GSM59F2 2560x1080 798x334mm 34.1-inch              | 2        | 2.17%   |
 | ZIS ZWS 28" 240HZ ZIS4ED5 1920x1080 619x348mm 28.0-inch               | 1        | 1.09%   |
 | Viotek GNV27DB VTK2700 2560x1440 597x336mm 27.0-inch                  | 1        | 1.09%   |
 | ViewSonic VX2450 SERIES VSCE226 1920x1080 525x297mm 23.7-inch         | 1        | 1.09%   |
@@ -1803,7 +1803,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch  | 1        | 1.09%   |
 | Samsung Electronics LCD Monitor LC34G55T 3440x2880                    | 1        | 1.09%   |
 | Samsung Electronics LCD Monitor LC34G55T                              | 1        | 1.09%   |
-| Samsung Electronics LC49G95T SAM7053 2560x1440 1193x336mm 48.8-inch   | 1        | 1.09%   |
+| Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch   | 1        | 1.09%   |
 | Samsung Electronics LC24RG50 SAM0F90 1920x1080 532x304mm 24.1-inch    | 1        | 1.09%   |
 | Samsung Electronics C32JG5x SAM0F73 1920x1080 698x393mm 31.5-inch     | 1        | 1.09%   |
 | Samsung Electronics C32HG7x SAM0E13 1680x1050 700x390mm 31.5-inch     | 1        | 1.09%   |
@@ -1811,7 +1811,7 @@ Monitor models
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 1.09%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.09%   |
 | Philips LCD Monitor PHL 499P9 6400x1440                               | 1        | 1.09%   |
-| MPI MPI7002 MPI7002 1280x1024 255x255mm 14.2-inch                     | 1        | 1.09%   |
+| MPI WIMAXIT MPI7002 1920x1080 180x130mm 8.7-inch                      | 1        | 1.09%   |
 | LTM LCD Monitor LTM045E 400x1280                                      | 1        | 1.09%   |
 | LG Electronics LCD Monitor LG TV 3840x1080                            | 1        | 1.09%   |
 | LG Electronics LCD Monitor LG IPS FULLHD 3840x1200                    | 1        | 1.09%   |
@@ -2053,7 +2053,7 @@ Controller models
 | Ralink RT5360 Wireless 802.11n 1T/1R                                          | 1        | 0.83%   |
 | Qualcomm Atheros AR9271 802.11n                                               | 1        | 0.83%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                | 1        | 0.83%   |
-| QinHeng USB Single Serial                                                     | 1        | 0.83%   |
+| QinHeng SONOFF Zigbee 3.0 USB Dongle Plus V2                                  | 1        | 0.83%   |
 | Nvidia MCP77 Ethernet                                                         | 1        | 0.83%   |
 | Intel Wireless 7265                                                           | 1        | 0.83%   |
 | Intel Ethernet Connection (2) I219-V                                          | 1        | 0.83%   |
@@ -2405,8 +2405,8 @@ Memory module models
 | Corsair RAM CMK32GX4M2D3600C18 16GB DIMM DDR4 3800MT/s   | 2        | 2.63%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 1.32%   |
 | Unknown RAM Module 1GB DIMM DDR2                         | 1        | 1.32%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s       | 1        | 1.32%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4096MB DIMM DDR3 1600MT/s  | 1        | 1.32%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s      | 1        | 1.32%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s     | 1        | 1.32%   |
 | SK hynix RAM HMA84GR7MFR4N-UH 32GB DIMM DDR4 2400MT/s    | 1        | 1.32%   |
 | SK hynix RAM HMA42GR7AFR4N-TF 16GB DIMM DDR4 2133MT/s    | 1        | 1.32%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2400MT/s              | 1        | 1.32%   |
@@ -2415,7 +2415,7 @@ Memory module models
 | Samsung RAM M391B5273DH0-CH9 4GB DIMM DDR3 1333MT/s      | 1        | 1.32%   |
 | Samsung RAM M391A2K43BB1-CPB 16GB DIMM DDR4 2133MT/s     | 1        | 1.32%   |
 | Samsung RAM M386A4G40DM0-CPB 32GB DIMM DDR4 2133MT/s     | 1        | 1.32%   |
-| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s   | 1        | 1.32%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s      | 1        | 1.32%   |
 | Qumo RAM QUM4U-16G2666N19 16GB DIMM DDR4 2666MT/s        | 1        | 1.32%   |
 | Nanya RAM NT256D64S88C0G-5T 256MB DIMM DDR 400MT/s       | 1        | 1.32%   |
 | Nanya RAM M2F4G64CB88B7N-DI 4GB DIMM DDR3 1600MT/s       | 1        | 1.32%   |
@@ -2601,12 +2601,12 @@ Camera device models
 | Model                                    | Desktops | Percent |
 |------------------------------------------|----------|---------|
 | Logitech BRIO Ultra HD Webcam            | 3        | 15%     |
-| Microdia REDRAGON Live Camera Audio      | 2        | 10%     |
+| Microdia USB 2.0 Camera                  | 2        | 10%     |
 | Logitech Webcam C270                     | 2        | 10%     |
 | Logitech HD Pro Webcam C920              | 2        | 10%     |
 | Logitech C920 PRO HD Webcam              | 2        | 10%     |
 | WaveRider USB 2.0 Camera                 | 1        | 5%      |
-| Samsung Galaxy A5 (MTP)                  | 1        | 5%      |
+| Samsung Galaxy series, misc. (MTP mode)  | 1        | 5%      |
 | Realtek FULL HD 1080P Webcam             | 1        | 5%      |
 | Logitech HD Webcam C615                  | 1        | 5%      |
 | Logitech HD Webcam C525                  | 1        | 5%      |

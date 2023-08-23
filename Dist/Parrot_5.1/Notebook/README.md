@@ -803,7 +803,7 @@ Hard drive vendors
 | Unknown             | 4         | 4      | 6.67%   |
 | Toshiba             | 4         | 4      | 6.67%   |
 | SK hynix            | 3         | 3      | 5%      |
-| SanDisk             | 3         | 4      | 5%      |
+| Sandisk             | 3         | 4      | 5%      |
 | Micron Technology   | 3         | 3      | 5%      |
 | Kingston            | 3         | 3      | 5%      |
 | Intel               | 3         | 4      | 5%      |
@@ -842,7 +842,7 @@ Hard drive models
 | WDC PC SN530 SDBPMPZ-512G-1001 512GB               | 1         | 1.54%   |
 | WDC PC SN530 SDBPMPZ-256G-1001 256GB               | 1         | 1.54%   |
 | Unknown SD2GB                                      | 1         | 1.54%   |
-| Unknown SD/MMC/MS PRO 250GB                        | 1         | 1.54%   |
+| Unknown SD/MMC/MS PRO 128GB                        | 1         | 1.54%   |
 | Unknown MMC Card  8GB                              | 1         | 1.54%   |
 | Unknown MMC Card  64GB                             | 1         | 1.54%   |
 | Toshiba MQ01ABD100 1TB                             | 1         | 1.54%   |
@@ -864,7 +864,7 @@ Hard drive models
 | Samsung PM981a NVMe 1024GB                         | 1         | 1.54%   |
 | Samsung NVMe SSD Drive 512GB                       | 1         | 1.54%   |
 | Samsung NVMe SSD Drive 1024GB                      | 1         | 1.54%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB | 1         | 1.54%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 1         | 1.54%   |
 | Samsung MZVLQ512HALU-00000 512GB                   | 1         | 1.54%   |
 | Samsung MZVL2512HCJQ-00B00 512GB                   | 1         | 1.54%   |
 | Samsung MZMPC128HBFU-000L1 128GB SSD               | 1         | 1.54%   |
@@ -1127,31 +1127,31 @@ Storage controller models
 | Intel Celeron/Pentium Silver Processor SATA Controller                                 | 3         | 3.75%   |
 | Intel Alder Lake-P SATA AHCI Controller                                                | 3         | 3.75%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                         | 3         | 3.75%   |
-| Yangtze Memory Non-Volatile memory controller                                          | 2         | 2.5%    |
+| Yangtze Memory PC005 NVMe SSD                                                          | 2         | 2.5%    |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                                   | 2         | 2.5%    |
 | SanDisk WD Blue SN550 NVMe SSD                                                         | 2         | 2.5%    |
-| SanDisk PC SN530 NVMe SSD                                                              | 2         | 2.5%    |
+| SanDisk PC SN530 NVMe SSD (DRAM-less)                                                  | 2         | 2.5%    |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                          | 2         | 2.5%    |
 | Samsung NVMe SSD Controller 980                                                        | 2         | 2.5%    |
-| Micron 2450 NVMe SSD (DRAM-less)                                                       | 2         | 2.5%    |
+| Micron 2450 NVMe SSD [HendrixV] (DRAM-less)                                            | 2         | 2.5%    |
 | Intel Tiger Lake-LP SATA Controller                                                    | 2         | 2.5%    |
-| Intel Non-Volatile memory controller                                                   | 2         | 2.5%    |
+| Intel SSD 670p Series [Keystone Harbor]                                                | 2         | 2.5%    |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                         | 2         | 2.5%    |
 | Intel 400 Series Chipset Family SATA AHCI Controller                                   | 2         | 2.5%    |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                                   | 1         | 1.25%   |
 | SK hynix Platinum P41/PC801 NVMe Solid State Drive                                     | 1         | 1.25%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                        | 1         | 1.25%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                      | 1         | 1.25%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                             | 1         | 1.25%   |
+| SanDisk WD Green SN350 NVMe SSD 240GB (DRAM-less)                                      | 1         | 1.25%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                             | 1         | 1.25%   |
-| SanDisk Non-Volatile memory controller                                                 | 1         | 1.25%   |
-| Micron NVMe Storage Controller                                                         | 1         | 1.25%   |
-| KIOXIA NVMe SSD Controller BG4                                                         | 1         | 1.25%   |
-| Kingston Company Company Non-Volatile memory controller                                | 1         | 1.25%   |
+| Micron 2210 NVMe SSD [Cobain]                                                          | 1         | 1.25%   |
+| KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                             | 1         | 1.25%   |
+| Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                          | 1         | 1.25%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                      | 1         | 1.25%   |
 | Kingston Company NVMe Controller                                                       | 1         | 1.25%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                     | 1         | 1.25%   |
 | Intel Tiger Lake SATA AHCI Controller                                                  | 1         | 1.25%   |
-| Intel NVMe Controller                                                                  | 1         | 1.25%   |
+| Intel Optane NVME SSD H10 with Solid State Storage [Teton Glacier]                     | 1         | 1.25%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                                  | 1         | 1.25%   |
 | Intel Comet Lake SATA AHCI Controller                                                  | 1         | 1.25%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 2 port SATA Controller [IDE mode]                   | 1         | 1.25%   |
@@ -1538,11 +1538,11 @@ Monitor models
 | ___ LCDTV16 ___9000 1360x768                                             | 1         | 1.59%   |
 | ViewSonic VA2718-FHD VSCD839 1920x1080 598x336mm 27.0-inch               | 1         | 1.59%   |
 | Unknown LCD TV 9000 1360x768 1600x900mm 72.3-inch                        | 1         | 1.59%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                        | 1         | 1.59%   |
+| STD HDMI TV STD00C7 1680x1050 698x392mm 31.5-inch                        | 1         | 1.59%   |
 | Sharp LCD Monitor SHP1542 1920x1080 309x174mm 14.0-inch                  | 1         | 1.59%   |
 | Samsung Electronics S27B350 SAM08DC 1920x1080 598x336mm 27.0-inch        | 1         | 1.59%   |
 | Samsung Electronics LF27T35 SAM707F 1920x1080 598x337mm 27.0-inch        | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch     | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC315A 1366x768 344x194mm 15.5-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SDC4171 2880x1800 302x189mm 14.0-inch    | 1         | 1.59%   |
@@ -1583,11 +1583,12 @@ Monitor screen resolution
 
 | Resolution       | Notebooks | Percent |
 |------------------|-----------|---------|
-| 1920x1080 (FHD)  | 32        | 54.24%  |
+| 1920x1080 (FHD)  | 31        | 52.54%  |
 | 1366x768 (WXGA)  | 14        | 23.73%  |
 | 1600x900 (HD+)   | 3         | 5.08%   |
 | 1440x900 (WXGA+) | 2         | 3.39%   |
 | 1280x800 (WXGA)  | 2         | 3.39%   |
+| 3840x2160 (4K)   | 1         | 1.69%   |
 | 2880x1800        | 1         | 1.69%   |
 | 2560x1600        | 1         | 1.69%   |
 | 2240x1400        | 1         | 1.69%   |
@@ -1610,13 +1611,14 @@ Diagonal size in inches
 | 17      | 4         | 6.35%   |
 | 27      | 3         | 4.76%   |
 | 16      | 3         | 4.76%   |
-| 13      | 3         | 4.76%   |
 | 12      | 3         | 4.76%   |
 | 24      | 2         | 3.17%   |
+| 13      | 2         | 3.17%   |
 | 11      | 2         | 3.17%   |
 | Unknown | 2         | 3.17%   |
 | 72      | 1         | 1.59%   |
 | 31      | 1         | 1.59%   |
+| 26      | 1         | 1.59%   |
 | 19      | 1         | 1.59%   |
 
 Monitor Width
@@ -1630,9 +1632,9 @@ Physical width
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
 | 301-350     | 39        | 61.9%   |
-| 201-300     | 8         | 12.7%   |
+| 201-300     | 7         | 11.11%  |
+| 501-600     | 6         | 9.52%   |
 | 351-400     | 6         | 9.52%   |
-| 501-600     | 5         | 7.94%   |
 | Unknown     | 2         | 3.17%   |
 | 601-700     | 1         | 1.59%   |
 | 401-500     | 1         | 1.59%   |
@@ -1665,14 +1667,14 @@ Area in inch²
 |----------------|-----------|---------|
 | 101-110        | 33        | 52.38%  |
 | 81-90          | 8         | 12.7%   |
+| 301-350        | 4         | 6.35%   |
 | 121-130        | 4         | 6.35%   |
 | 61-70          | 3         | 4.76%   |
-| 301-350        | 3         | 4.76%   |
-| 71-80          | 2         | 3.17%   |
 | 51-60          | 2         | 3.17%   |
 | 201-250        | 2         | 3.17%   |
 | Unknown        | 2         | 3.17%   |
 | More than 1000 | 1         | 1.59%   |
+| 71-80          | 1         | 1.59%   |
 | 351-500        | 1         | 1.59%   |
 | 151-200        | 1         | 1.59%   |
 | 111-120        | 1         | 1.59%   |
@@ -2109,25 +2111,25 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 2         | 4.26%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 4.26%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 2         | 4.26%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 2         | 4.26%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s             | 2         | 4.26%   |
 | Transcend RAM JM1333KSN-4G 4GB SODIMM 1334MT/s                   | 1         | 2.13%   |
-| Timetec RAM SD3-1333 8192MB SODIMM DDR3 1333MT/s                 | 1         | 2.13%   |
+| Timetec RAM SD3-1333 8GB SODIMM DDR3 1333MT/s                    | 1         | 2.13%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s             | 1         | 2.13%   |
 | SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 2.13%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 2.13%   |
 | SK hynix RAM HMCG66MEBSA092N 8GB SODIMM DDR5 4800MT/s            | 1         | 2.13%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 1         | 2.13%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s        | 1         | 2.13%   |
-| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 2.13%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 2.13%   |
+| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips 6400MT/s        | 1         | 2.13%   |
 | Samsung RAM Module 4GB Row Of Chips DDR4 2400MT/s                | 1         | 2.13%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 2.13%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 2.13%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
+| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s         | 1         | 2.13%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
 | Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s          | 1         | 2.13%   |
 | Samsung RAM K4A8G165WC-BCTD 4GB SODIMM DDR4 2667MT/s             | 1         | 2.13%   |
@@ -2191,11 +2193,11 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 26        | 65%     |
-| 4096  | 5         | 12.5%   |
-| 16384 | 4         | 10%     |
-| 2048  | 4         | 10%     |
-| 1024  | 1         | 2.5%    |
+| 8192  | 27        | 65.85%  |
+| 4096  | 5         | 12.2%   |
+| 16384 | 4         | 9.76%   |
+| 2048  | 4         | 9.76%   |
+| 1024  | 1         | 2.44%   |
 
 Memory Speed
 ------------
@@ -2277,10 +2279,10 @@ Camera device vendors
 | Luxvisions Innotech Limited            | 2         | 4.44%   |
 | Apple                                  | 2         | 4.44%   |
 | USB Camera CS                          | 1         | 2.22%   |
-| USB Camera                             | 1         | 2.22%   |
 | Samsung Electronics                    | 1         | 2.22%   |
 | Logitech                               | 1         | 2.22%   |
 | Importek                               | 1         | 2.22%   |
+| icSpring                               | 1         | 2.22%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 2.22%   |
 | Bison Electronics                      | 1         | 2.22%   |
 | Acer                                   | 1         | 2.22%   |
@@ -2303,14 +2305,13 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam                              | 2         | 4.44%   |
 | IMC Networks Integrated Camera                                 | 2         | 4.44%   |
 | Chicony HD User Facing                                         | 2         | 4.44%   |
-| USB Camera USB Camera                                          | 1         | 2.22%   |
 | USB Camera CS USB Camera CS                                    | 1         | 2.22%   |
 | Suyin USB 2.0 UVC 1.3M WebCam                                  | 1         | 2.22%   |
 | Suyin HP Webcam-50                                             | 1         | 2.22%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                           | 1         | 2.22%   |
 | Sunplus Laptop Integrated Webcam HD                            | 1         | 2.22%   |
 | Sonix USB2.0 FHD UVC WebCam                                    | 1         | 2.22%   |
-| Samsung Galaxy A5 (MTP)                                        | 1         | 2.22%   |
+| Samsung Galaxy series, misc. (MTP mode)                        | 1         | 2.22%   |
 | Quanta HP Wide Vision HD Camera                                | 1         | 2.22%   |
 | Quanta HD Camera                                               | 1         | 2.22%   |
 | Luxvisions Innotech Limited HP Wide Vision HD Camera           | 1         | 2.22%   |
@@ -2320,6 +2321,7 @@ Camera device models
 | IMC Networks USB2.0 VGA UVC WebCam                             | 1         | 2.22%   |
 | IMC Networks HP TrueVision HD Camera                           | 1         | 2.22%   |
 | IMC Networks HD Camera                                         | 1         | 2.22%   |
+| icSpring camera                                                | 1         | 2.22%   |
 | Chicony USB2.0 Camera                                          | 1         | 2.22%   |
 | Chicony TOSHIBA Web Camera - HD                                | 1         | 2.22%   |
 | Chicony LG Webcam                                              | 1         | 2.22%   |

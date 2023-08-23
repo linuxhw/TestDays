@@ -621,11 +621,11 @@ Hard drive models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | WDC WDS500G2B0B-00YS70 500GB SSD | 2        | 15.38%  |
-| SK hynix BC511 256GB             | 1        | 7.69%   |
+| SK hynix BC511 512GB             | 1        | 7.69%   |
 | Seagate ST380215AS 80GB          | 1        | 7.69%   |
 | Seagate ST3802110A 80GB          | 1        | 7.69%   |
 | Seagate ST2000DM008-2FR102 2TB   | 1        | 7.69%   |
-| Seagate Backup+ Hub BK 6TB       | 1        | 7.69%   |
+| Seagate Backup+ Hub BK 8TB       | 1        | 7.69%   |
 | Sandisk WD_BLACK SN770 500GB     | 1        | 7.69%   |
 | SanDisk NVMe SSD Drive 500GB     | 1        | 7.69%   |
 | Samsung SSD 980 1TB              | 1        | 7.69%   |
@@ -847,7 +847,7 @@ Storage controller models
 |-----------------------------------------------------------------------------------------|----------|---------|
 | AMD FCH SATA Controller [AHCI mode]                                                     | 2        | 13.33%  |
 | SK hynix BC511 NVMe SSD                                                                 | 1        | 6.67%   |
-| SanDisk WD Black SN770 NVMe SSD                                                         | 1        | 6.67%   |
+| SanDisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                 | 1        | 6.67%   |
 | Samsung NVMe SSD Controller 980                                                         | 1        | 6.67%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 1        | 6.67%   |
 | Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 1        | 6.67%   |
@@ -1129,7 +1129,7 @@ Monitor models
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch      | 1        | 11.11%  |
 | Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                  | 1        | 11.11%  |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch   | 1        | 11.11%  |
-| Ancor Communications VE228 ACI22FA 1920x1080 480x270mm 21.7-inch   | 1        | 11.11%  |
+| Ancor Communications VE228 ACI22FA 1920x1080 477x268mm 21.5-inch   | 1        | 11.11%  |
 | Acer H193HQV ACR01B8 1366x768 410x230mm 18.5-inch                  | 1        | 11.11%  |
 | Acer G246HL ACR02FF 1920x1080 531x299mm 24.0-inch                  | 1        | 11.11%  |
 
@@ -1498,7 +1498,7 @@ Memory module models
 |----------------------------------------------------------|----------|---------|
 | Ramos RAM EMB2GB481CL4-13HA 2GB DIMM 1227MT/s            | 1        | 16.67%  |
 | PNY RAM 8GBF1X08QFHH38-135-K 8GB DIMM DDR4 3600MT/s      | 1        | 16.67%  |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s       | 1        | 16.67%  |
+| Patriot RAM 3200 C16 Series 8192MB DIMM DDR4 3266MT/s    | 1        | 16.67%  |
 | Crucial RAM RM25664BA1339.8FR 2GB DIMM DDR3 1333MT/s     | 1        | 16.67%  |
 | Crucial RAM BLS16G4D32AESC.M16FE 16GB DIMM DDR4 3200MT/s | 1        | 16.67%  |
 | Unknown                                                  | 1        | 16.67%  |

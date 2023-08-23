@@ -781,7 +781,7 @@ Hard drive models
 | Samsung SSD 850 EVO 2TB          | 1        | 2.86%   |
 | Samsung HD502IJ 500GB            | 1        | 2.86%   |
 | Phison NVMe SSD Drive 1TB        | 1        | 2.86%   |
-| Phison E12 NVMe Controller 1TB   | 1        | 2.86%   |
+| Phison E12 NVMe Controller 2TB   | 1        | 2.86%   |
 | Kingston SUV400S37240G 240GB SSD | 1        | 2.86%   |
 | Intel SSDSA2CW080G3 80GB         | 1        | 2.86%   |
 | HP SSD S700 120GB                | 1        | 2.86%   |
@@ -1351,14 +1351,14 @@ Monitor models
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch   | 1        | 5%      |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch   | 1        | 5%      |
 | Samsung Electronics LCD Monitor S24C650                             | 1        | 5%      |
-| SAC LED MONITOR SAC952D 1920x1080 480x270mm 21.7-inch               | 1        | 5%      |
+| SAC DM-MONB2205 SAC952D 1920x1080 450x270mm 20.7-inch               | 1        | 5%      |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch         | 1        | 5%      |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch          | 1        | 5%      |
 | Hewlett-Packard E273q HPN3474 2560x1440 597x336mm 27.0-inch         | 1        | 5%      |
 | Goldstar E2240 GSM57A3 1920x1080 477x268mm 21.5-inch                | 1        | 5%      |
 | GameMax HDMI-DA GMX0001 1920x540                                    | 1        | 5%      |
 | Eizo EV2460 ENC3129 1920x1080 528x297mm 23.9-inch                   | 1        | 5%      |
-| Dell P2419H DELD0DA 1920x1080 530x300mm 24.0-inch                   | 1        | 5%      |
+| Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                   | 1        | 5%      |
 | Dell LCD Monitor U2415 3840x1200                                    | 1        | 5%      |
 | Dell LCD Monitor DEL0001 1280x1024                                  | 1        | 5%      |
 | BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                   | 1        | 5%      |
@@ -1779,7 +1779,7 @@ Memory module models
 | Unigen RAM Module 4GB DIMM DDR3 1333MT/s                  | 1        | 9.09%   |
 | Samsung RAM M393B2G70BH0-YH9 16GB DIMM DDR3 1333MT/s      | 1        | 9.09%   |
 | Micron RAM 8ATF1G64AZ-2G3H1 8GB DIMM DDR4 2448MT/s        | 1        | 9.09%   |
-| Micron RAM 8ATF1G64AZ-2G3E1 8GB DIMM DDR4 2400MT/s        | 1        | 9.09%   |
+| Micron RAM 8ATF1G64AZ-2G3E1 8192MB DIMM DDR4 2400MT/s     | 1        | 9.09%   |
 | Micron RAM 8ATF1G64AZ-2G3B1 8GB DIMM DDR4 2448MT/s        | 1        | 9.09%   |
 | Micron RAM 4ATF1G64AZ-3G2F1 8GB DIMM DDR4 3200MT/s        | 1        | 9.09%   |
 | Micron RAM 18ASF2G72PDZ-2G3B1 16GB DIMM DDR4 2400MT/s     | 1        | 9.09%   |

@@ -914,7 +914,7 @@ Hard drive models
 | HGST HTS721010A9E630 1TB                            | 2         | 3.39%   |
 | WDC WD2500BPVT-00JJ5T0 250GB                        | 1         | 1.69%   |
 | Unknown SDW32G  32GB                                | 1         | 1.69%   |
-| Unknown SD/MMC/MS PRO 250GB                         | 1         | 1.69%   |
+| Unknown SD/MMC/MS PRO 128GB                         | 1         | 1.69%   |
 | Unknown SB128  128GB                                | 1         | 1.69%   |
 | Unknown SA04G  4GB                                  | 1         | 1.69%   |
 | Unknown MMC Card  32GB                              | 1         | 1.69%   |
@@ -938,7 +938,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 256GB                        | 1         | 1.69%   |
 | Samsung NVMe SSD Drive 1TB                          | 1         | 1.69%   |
 | Samsung NVMe SSD Drive 1024GB                       | 1         | 1.69%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 1.69%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 1         | 1.69%   |
 | Samsung MZVLW256HEHP-000H1 256GB                    | 1         | 1.69%   |
 | Samsung MZVLW128HEGR-00000 128GB                    | 1         | 1.69%   |
 | Samsung MZNTY128HDHP-000L2 128GB SSD                | 1         | 1.69%   |
@@ -1190,7 +1190,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 3.92%   |
 | Phison E12 NVMe Controller                                                     | 2         | 3.92%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 2         | 3.92%   |
-| Intel Non-Volatile memory controller                                           | 2         | 3.92%   |
+| Intel SSD 670p Series [Keystone Harbor]                                        | 2         | 3.92%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 2         | 3.92%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 3.92%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 2         | 3.92%   |
@@ -1199,12 +1199,12 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                            | 2         | 3.92%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 1         | 1.96%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 1.96%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 1.96%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 1.96%   |
 | Samsung NVMe SSD Controller 980                                                | 1         | 1.96%   |
-| Samsung Electronics SATA controller                                            | 1         | 1.96%   |
-| Realtek NVMe Controller                                                        | 1         | 1.96%   |
+| Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                              | 1         | 1.96%   |
 | Nvidia nForce SATA Controller                                                  | 1         | 1.96%   |
-| KIOXIA NVMe SSD Controller BG4                                                 | 1         | 1.96%   |
+| KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 1         | 1.96%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 1.96%   |
 | Intel SSD 600P Series                                                          | 1         | 1.96%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller       | 1         | 1.96%   |
@@ -1591,7 +1591,7 @@ Monitor models
 | Sony AVAMP SNYF400 1920x1080 1440x810mm 65.0-inch                        | 1         | 2.27%   |
 | Sharp LQ156T1JW04 SHP153C 2560x1440 344x194mm 15.5-inch                  | 1         | 2.27%   |
 | Sharp LQ156M1JW03 SHP14C5 1920x1080 344x194mm 15.5-inch                  | 1         | 2.27%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch     | 1         | 2.27%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SDC4161 1920x1080 344x194mm 15.5-inch    | 1         | 2.27%   |
 | Philips 220EW PHL0861 1680x1050 434x270mm 20.1-inch                      | 1         | 2.27%   |
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                  | 1         | 2.27%   |
@@ -1602,7 +1602,7 @@ Monitor models
 | LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch             | 1         | 2.27%   |
 | LG Display LCD Monitor LGD03ED 1366x768 277x156mm 12.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch              | 1         | 2.27%   |
-| LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch              | 1         | 2.27%   |
+| LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD02F1 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 2.27%   |
@@ -1813,13 +1813,13 @@ Controller models
 | Realtek Killer E3000 2.5GbE Controller                                                        | 1         | 1.22%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 1.22%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1         | 1.22%   |
-| Qualcomm Nokia G400 5G                                                                        | 1         | 1.22%   |
+| Qualcomm Redmi Note 8                                                                         | 1         | 1.22%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 1.22%   |
 | Qualcomm Atheros QCA6164 802.11ac Wireless Network Adapter                                    | 1         | 1.22%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                                     | 1         | 1.22%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1         | 1.22%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                                      | 1         | 1.22%   |
-| Motorola PCS moto g(30)                                                                       | 1         | 1.22%   |
+| Motorola PCS XT1032                                                                           | 1         | 1.22%   |
 | Intel Wireless 8265 / 8275                                                                    | 1         | 1.22%   |
 | Intel Wireless 8260                                                                           | 1         | 1.22%   |
 | Intel WiMAX Connection 2400m                                                                  | 1         | 1.22%   |
@@ -1927,10 +1927,10 @@ Ethernet models
 | Research In Motion BlackBerry                                     | 1         | 2.7%    |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 2.7%    |
 | Realtek Killer E3000 2.5GbE Controller                            | 1         | 2.7%    |
-| Qualcomm Nokia G400 5G                                            | 1         | 2.7%    |
+| Qualcomm Redmi Note 8                                             | 1         | 2.7%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 2.7%    |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 2.7%    |
-| Motorola PCS moto g(30)                                           | 1         | 2.7%    |
+| Motorola PCS XT1032                                               | 1         | 2.7%    |
 | Intel WiMAX Connection 2400m                                      | 1         | 2.7%    |
 | Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 2.7%    |
 | Intel Ethernet Connection I219-LM                                 | 1         | 2.7%    |
@@ -2030,11 +2030,12 @@ Controller models
 | Intel Bluetooth wireless interface                  | 6         | 19.35%  |
 | IMC Networks Wireless_Device                        | 3         | 9.68%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 9.68%   |
-| Realtek Bluetooth Radio                             | 2         | 6.45%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 6.45%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 3.23%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 3.23%   |
 | Realtek Bluetooth Radio                             | 1         | 3.23%   |
+| Realtek Bluetooth Radio                             | 1         | 3.23%   |
+| Realtek 802.11ac WLAN Adapter                       | 1         | 3.23%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 3.23%   |
 | Lite-On Bluetooth Device                            | 1         | 3.23%   |
 | Intel AX210 Bluetooth                               | 1         | 3.23%   |
@@ -2158,7 +2159,7 @@ Memory module models
 | Crucial RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
 | Crucial RAM CT51264BF160BJ.C8F 4GB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s  | 1         | 5.26%   |
-| A-DATA RAM AM1U16BC4P2-B19H 4096MB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
+| A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s       | 1         | 5.26%   |
 
 Memory Kind
 -----------
@@ -2243,7 +2244,7 @@ Printer device models
 
 | Model         | Notebooks | Percent |
 |---------------|-----------|---------|
-| HP Laser 107a | 1         | 100%    |
+| HP Laser 107w | 1         | 100%    |
 
 Scanner Vendor
 --------------
@@ -2275,9 +2276,10 @@ Camera device vendors
 | Chicony Electronics                    | 9         | 24.32%  |
 | IMC Networks                           | 8         | 21.62%  |
 | Realtek Semiconductor                  | 4         | 10.81%  |
-| Bison Electronics                      | 4         | 10.81%  |
+| Bison Electronics                      | 3         | 8.11%   |
 | Sunplus Innovation Technology          | 2         | 5.41%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.41%   |
+| Acer                                   | 2         | 5.41%   |
 | Samsung Electronics                    | 1         | 2.7%    |
 | Pixart Imaging                         | 1         | 2.7%    |
 | Microdia                               | 1         | 2.7%    |
@@ -2285,7 +2287,6 @@ Camera device vendors
 | GEMBIRD                                | 1         | 2.7%    |
 | Apple                                  | 1         | 2.7%    |
 | Alcor Micro                            | 1         | 2.7%    |
-| Acer                                   | 1         | 2.7%    |
 
 Camera Model
 ------------
@@ -2302,7 +2303,7 @@ Camera device models
 | Bison Lenovo EasyCamera                                 | 2         | 5.41%   |
 | Sunplus HP HD Webcam [Fixed]                            | 1         | 2.7%    |
 | Sunplus Asus Webcam                                     | 1         | 2.7%    |
-| Samsung Galaxy A5 (MTP)                                 | 1         | 2.7%    |
+| Samsung Galaxy series, misc. (MTP mode)                 | 1         | 2.7%    |
 | Realtek USB Camera                                      | 1         | 2.7%    |
 | Realtek Integrated_Webcam_HD                            | 1         | 2.7%    |
 | Realtek HP Wide Vision HD Camera                        | 1         | 2.7%    |
@@ -2325,10 +2326,10 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam     | 1         | 2.7%    |
 | Bison Integrated Camera                                 | 1         | 2.7%    |
-| Bison HD Camera                                         | 1         | 2.7%    |
 | Apple FaceTime HD Camera                                | 1         | 2.7%    |
 | Alcor Micro USB 2.0 Camera                              | 1         | 2.7%    |
 | Acer Lenovo EasyCamera                                  | 1         | 2.7%    |
+| Acer HD Camera                                          | 1         | 2.7%    |
 
 Security
 --------

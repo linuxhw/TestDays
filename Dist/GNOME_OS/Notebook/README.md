@@ -1010,7 +1010,7 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 5         | 17.24%  |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 4         | 13.79%  |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 2         | 6.9%    |
-| SK hynix Non-Volatile memory controller                                          | 1         | 3.45%   |
+| SK hynix PC601 NVMe Solid State Drive                                            | 1         | 3.45%   |
 | Samsung NVMe SSD Controller 980                                                  | 1         | 3.45%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 1         | 3.45%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 1         | 3.45%   |
@@ -1364,7 +1364,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO223D 1920x1080 309x174mm 14.0-inch       | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO162C 1366x768 293x164mm 13.2-inch        | 1         | 3.57%   |
 | AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch        | 1         | 3.57%   |
-| Apple Color LCD APPA00E 2880x1800 330x210mm 15.4-inch                | 1         | 3.57%   |
+| Apple Color LCD APPA00E 2880x1800 331x207mm 15.4-inch                | 1         | 3.57%   |
 | Apple Color LCD APP9CC7 1280x800 286x179mm 13.3-inch                 | 1         | 3.57%   |
 
 Monitor Resolution
@@ -1531,7 +1531,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 1.85%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.85%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.85%   |
-| Google Pixel 7 Pro                                                | 1         | 1.85%   |
+| Google Pixel 7                                                    | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
@@ -1624,7 +1624,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.85%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 3.85%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 3.85%   |
-| Google Pixel 7 Pro                                                | 1         | 3.85%   |
+| Google Pixel 7                                                    | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 3.85%   |

@@ -488,13 +488,13 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
+| 2018 | 3        | 17.65%  |
 | 2013 | 3        | 17.65%  |
 | 2007 | 3        | 17.65%  |
-| 2021 | 2        | 11.76%  |
-| 2018 | 2        | 11.76%  |
 | 2017 | 2        | 11.76%  |
 | 2010 | 2        | 11.76%  |
 | 2022 | 1        | 5.88%   |
+| 2021 | 1        | 5.88%   |
 | 2020 | 1        | 5.88%   |
 | 2011 | 1        | 5.88%   |
 
@@ -953,7 +953,7 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                                     | 2        | 6.67%   |
 | AMD FCH SATA Controller D                                                               | 2        | 6.67%   |
 | Samsung NVMe SSD Controller 980                                                         | 1        | 3.33%   |
-| KIOXIA Non-Volatile memory controller                                                   | 1        | 3.33%   |
+| KIOXIA NVMe SSD Controller BG5 (DRAM-less)                                              | 1        | 3.33%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 1        | 3.33%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 1        | 3.33%   |
 | Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                                      | 1        | 3.33%   |
@@ -1657,7 +1657,7 @@ Memory module models
 | Samsung RAM M378A2K43DB1-CTD 16GB DIMM DDR4 2667MT/s  | 1        | 11.11%  |
 | Micron RAM 4ATF1G64HZ-3G2F1 8GB SODIMM DDR4 3200MT/s  | 1        | 11.11%  |
 | Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s  | 1        | 11.11%  |
-| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s  | 1        | 11.11%  |
+| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s     | 1        | 11.11%  |
 | Kingston RAM 99U5471-057.A00LF 8GB DIMM DDR3 1333MT/s | 1        | 11.11%  |
 | G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s    | 1        | 11.11%  |
 | A-DATA RAM Module 8GB DIMM DDR4 2667MT/s              | 1        | 11.11%  |

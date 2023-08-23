@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 147
+Total: 148
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| MSI           | B350M MORTAR                | Desktop     | [41a05302e8](https://linux-hardware.org/?probe=41a05302e8) | Jul 12, 2023 |
 | ASUSTek       | ZenBook UX425UA_UM425UA     | Notebook    | [99cc4bf84b](https://linux-hardware.org/?probe=99cc4bf84b) | Jun 16, 2023 |
 | HP            | Stream Notebook PC 13       | Notebook    | [455c6b5e28](https://linux-hardware.org/?probe=455c6b5e28) | Apr 23, 2023 |
 | ASUSTek       | CM1630                      | Desktop     | [d28e40c64b](https://linux-hardware.org/?probe=d28e40c64b) | Mar 29, 2023 |
@@ -348,29 +349,30 @@ Version of the Linux kernel
 
 | Version                 | Computers | Percent |
 |-------------------------|-----------|---------|
-| 5.11.0-37-generic       | 7         | 6.54%   |
-| 5.3.0-46-generic        | 5         | 4.67%   |
-| 5.8.0-55-generic        | 4         | 3.74%   |
-| 5.8.0-53-generic        | 4         | 3.74%   |
-| 5.4.0-42-generic        | 4         | 3.74%   |
-| 5.0.0-37-generic        | 4         | 3.74%   |
-| 5.8.0-48-generic        | 3         | 2.8%    |
-| 5.4.0-52-generic        | 3         | 2.8%    |
-| 5.3.0-51-generic        | 3         | 2.8%    |
-| 5.15.0-48-generic       | 3         | 2.8%    |
-| 5.8.0-50-generic        | 2         | 1.87%   |
-| 5.8.0-36-generic        | 2         | 1.87%   |
-| 5.4.0-54-generic        | 2         | 1.87%   |
-| 5.4.0-48-generic        | 2         | 1.87%   |
-| 5.4.0-47-generic        | 2         | 1.87%   |
-| 5.4.0-45-generic        | 2         | 1.87%   |
-| 5.3.0-59-generic        | 2         | 1.87%   |
-| 5.3.0-53-generic        | 2         | 1.87%   |
-| 5.15.0-69-generic       | 2         | 1.87%   |
-| 5.15.0-53-generic       | 2         | 1.87%   |
-| 5.11.0-40-generic       | 2         | 1.87%   |
-| 5.11.0-27-generic       | 2         | 1.87%   |
-| 4.15.0-48-generic       | 2         | 1.87%   |
+| 5.11.0-37-generic       | 7         | 6.48%   |
+| 5.3.0-46-generic        | 5         | 4.63%   |
+| 5.8.0-55-generic        | 4         | 3.7%    |
+| 5.8.0-53-generic        | 4         | 3.7%    |
+| 5.4.0-42-generic        | 4         | 3.7%    |
+| 5.0.0-37-generic        | 4         | 3.7%    |
+| 5.8.0-48-generic        | 3         | 2.78%   |
+| 5.4.0-52-generic        | 3         | 2.78%   |
+| 5.3.0-51-generic        | 3         | 2.78%   |
+| 5.15.0-48-generic       | 3         | 2.78%   |
+| 5.8.0-50-generic        | 2         | 1.85%   |
+| 5.8.0-36-generic        | 2         | 1.85%   |
+| 5.4.0-54-generic        | 2         | 1.85%   |
+| 5.4.0-48-generic        | 2         | 1.85%   |
+| 5.4.0-47-generic        | 2         | 1.85%   |
+| 5.4.0-45-generic        | 2         | 1.85%   |
+| 5.3.0-59-generic        | 2         | 1.85%   |
+| 5.3.0-53-generic        | 2         | 1.85%   |
+| 5.15.0-69-generic       | 2         | 1.85%   |
+| 5.15.0-53-generic       | 2         | 1.85%   |
+| 5.11.0-40-generic       | 2         | 1.85%   |
+| 5.11.0-27-generic       | 2         | 1.85%   |
+| 4.15.0-48-generic       | 2         | 1.85%   |
+| 6.4.2-060402-generic    | 1         | 0.93%   |
 | 5.8.0-44-generic        | 1         | 0.93%   |
 | 5.8.0-40-generic        | 1         | 0.93%   |
 | 5.8.0-29-generic        | 1         | 0.93%   |
@@ -387,7 +389,6 @@ Version of the Linux kernel
 | 5.3.0-28-generic        | 1         | 0.93%   |
 | 5.17.5-76051705-generic | 1         | 0.93%   |
 | 5.15.6-051506-generic   | 1         | 0.93%   |
-| 5.15.0-73-generic       | 1         | 0.93%   |
 
 Kernel Family
 -------------
@@ -399,17 +400,18 @@ Linux kernel without a distro release
 
 | Version | Computers | Percent |
 |---------|-----------|---------|
-| 5.4.0   | 19        | 20.21%  |
-| 5.8.0   | 17        | 18.09%  |
-| 5.3.0   | 14        | 14.89%  |
-| 5.15.0  | 13        | 13.83%  |
-| 5.11.0  | 12        | 12.77%  |
-| 4.15.0  | 6         | 6.38%   |
-| 5.13.0  | 5         | 5.32%   |
-| 5.0.0   | 5         | 5.32%   |
-| 5.4.66  | 1         | 1.06%   |
-| 5.17.5  | 1         | 1.06%   |
-| 5.15.6  | 1         | 1.06%   |
+| 5.4.0   | 19        | 20%     |
+| 5.8.0   | 17        | 17.89%  |
+| 5.3.0   | 14        | 14.74%  |
+| 5.15.0  | 13        | 13.68%  |
+| 5.11.0  | 12        | 12.63%  |
+| 4.15.0  | 6         | 6.32%   |
+| 5.13.0  | 5         | 5.26%   |
+| 5.0.0   | 5         | 5.26%   |
+| 6.4.2   | 1         | 1.05%   |
+| 5.4.66  | 1         | 1.05%   |
+| 5.17.5  | 1         | 1.05%   |
+| 5.15.6  | 1         | 1.05%   |
 
 Kernel Major Ver.
 -----------------
@@ -421,15 +423,16 @@ Linux kernel major version
 
 | Version | Computers | Percent |
 |---------|-----------|---------|
-| 5.4     | 19        | 20.43%  |
-| 5.8     | 17        | 18.28%  |
-| 5.3     | 14        | 15.05%  |
-| 5.15    | 14        | 15.05%  |
-| 5.11    | 12        | 12.9%   |
-| 4.15    | 6         | 6.45%   |
-| 5.13    | 5         | 5.38%   |
-| 5.0     | 5         | 5.38%   |
-| 5.17    | 1         | 1.08%   |
+| 5.4     | 19        | 20.21%  |
+| 5.8     | 17        | 18.09%  |
+| 5.3     | 14        | 14.89%  |
+| 5.15    | 14        | 14.89%  |
+| 5.11    | 12        | 12.77%  |
+| 4.15    | 6         | 6.38%   |
+| 5.13    | 5         | 5.32%   |
+| 5.0     | 5         | 5.32%   |
+| 6.4     | 1         | 1.06%   |
+| 5.17    | 1         | 1.06%   |
 
 Arch
 ----
@@ -496,29 +499,29 @@ Language
 
 | Lang    | Computers | Percent |
 |---------|-----------|---------|
-| en_US   | 25        | 27.47%  |
-| en_GB   | 17        | 18.68%  |
-| de_CH   | 7         | 7.69%   |
-| Unknown | 7         | 7.69%   |
-| en_AU   | 6         | 6.59%   |
-| de_DE   | 6         | 6.59%   |
-| en_IN   | 3         | 3.3%    |
-| pt_BR   | 2         | 2.2%    |
-| nl_BE   | 2         | 2.2%    |
-| es_VE   | 2         | 2.2%    |
-| en_CA   | 2         | 2.2%    |
-| pt_PT   | 1         | 1.1%    |
-| it_IT   | 1         | 1.1%    |
-| fi_FI   | 1         | 1.1%    |
-| es_UY   | 1         | 1.1%    |
-| es_PE   | 1         | 1.1%    |
-| es_MX   | 1         | 1.1%    |
-| es_HN   | 1         | 1.1%    |
-| es_ES   | 1         | 1.1%    |
-| es_CL   | 1         | 1.1%    |
-| en_IE   | 1         | 1.1%    |
-| en_AG   | 1         | 1.1%    |
-| de_AT   | 1         | 1.1%    |
+| en_US   | 25        | 27.17%  |
+| en_GB   | 17        | 18.48%  |
+| de_CH   | 7         | 7.61%   |
+| Unknown | 7         | 7.61%   |
+| en_AU   | 6         | 6.52%   |
+| de_DE   | 6         | 6.52%   |
+| en_IN   | 3         | 3.26%   |
+| en_CA   | 3         | 3.26%   |
+| pt_BR   | 2         | 2.17%   |
+| nl_BE   | 2         | 2.17%   |
+| es_VE   | 2         | 2.17%   |
+| pt_PT   | 1         | 1.09%   |
+| it_IT   | 1         | 1.09%   |
+| fi_FI   | 1         | 1.09%   |
+| es_UY   | 1         | 1.09%   |
+| es_PE   | 1         | 1.09%   |
+| es_MX   | 1         | 1.09%   |
+| es_HN   | 1         | 1.09%   |
+| es_ES   | 1         | 1.09%   |
+| es_CL   | 1         | 1.09%   |
+| en_IE   | 1         | 1.09%   |
+| en_AG   | 1         | 1.09%   |
+| de_AT   | 1         | 1.09%   |
 
 Boot Mode
 ---------
@@ -530,8 +533,8 @@ EFI or BIOS
 
 | Mode | Computers | Percent |
 |------|-----------|---------|
-| EFI  | 54        | 60.67%  |
-| BIOS | 35        | 39.33%  |
+| EFI  | 54        | 60%     |
+| BIOS | 36        | 40%     |
 
 Filesystem
 ----------
@@ -1015,7 +1018,7 @@ Hard drive vendors
 |---------------------------|-----------|--------|---------|
 | WDC                       | 21        | 32     | 15.44%  |
 | Seagate                   | 19        | 26     | 13.97%  |
-| Samsung Electronics       | 18        | 25     | 13.24%  |
+| Samsung Electronics       | 18        | 26     | 13.24%  |
 | Unknown                   | 10        | 13     | 7.35%   |
 | Toshiba                   | 8         | 11     | 5.88%   |
 | SanDisk                   | 8         | 10     | 5.88%   |
@@ -1049,7 +1052,7 @@ Hard drive models
 
 | Model                              | Computers | Percent |
 |------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 250GB        | 3         | 2.04%   |
+| Unknown SD/MMC/MS PRO 128GB        | 3         | 2.04%   |
 | Unknown MMC Card  32GB             | 2         | 1.36%   |
 | Seagate ST500LT012-9WS142 500GB    | 2         | 1.36%   |
 | Seagate ST4000LM016-1N2170 4TB     | 2         | 1.36%   |
@@ -1088,7 +1091,7 @@ Hard drive models
 | WDC WD10EZEX-00BN5A0 1TB           | 1         | 0.68%   |
 | WDC WD10EURX-83UY4Y0 1TB           | 1         | 0.68%   |
 | WDC WD Blue SA510 2.5 500GB        | 1         | 0.68%   |
-| Verbatim Vi550 S3 SSD 128GB        | 1         | 0.68%   |
+| Verbatim Vi550 S3 SSD 1TB          | 1         | 0.68%   |
 
 HDD Vendor
 ----------
@@ -1147,7 +1150,7 @@ HDD or SSD
 |---------|-----------|--------|---------|
 | HDD     | 48        | 75     | 39.34%  |
 | SSD     | 43        | 66     | 35.25%  |
-| NVMe    | 22        | 29     | 18.03%  |
+| NVMe    | 22        | 30     | 18.03%  |
 | MMC     | 7         | 11     | 5.74%   |
 | Unknown | 2         | 2      | 1.64%   |
 
@@ -1162,7 +1165,7 @@ SATA, SAS, NVMe, etc.
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 74        | 136    | 66.67%  |
-| NVMe | 22        | 29     | 19.82%  |
+| NVMe | 22        | 30     | 19.82%  |
 | SAS  | 8         | 7      | 7.21%   |
 | MMC  | 7         | 11     | 6.31%   |
 
@@ -1176,8 +1179,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 57        | 86     | 60.64%  |
-| 0.51-1.0   | 26        | 39     | 27.66%  |
+| 0.01-0.5   | 57        | 85     | 60.64%  |
+| 0.51-1.0   | 26        | 40     | 27.66%  |
 | 1.01-2.0   | 5         | 6      | 5.32%   |
 | 3.01-4.0   | 3         | 7      | 3.19%   |
 | 2.01-3.0   | 2         | 2      | 2.13%   |
@@ -1193,16 +1196,16 @@ Amount of disk space available on the file system
 
 | Size in GB     | Computers | Percent |
 |----------------|-----------|---------|
-| 101-250        | 25        | 26.04%  |
-| 251-500        | 23        | 23.96%  |
-| 1001-2000      | 17        | 17.71%  |
-| 501-1000       | 13        | 13.54%  |
-| 51-100         | 5         | 5.21%   |
-| More than 3000 | 4         | 4.17%   |
-| 2001-3000      | 4         | 4.17%   |
-| 21-50          | 3         | 3.13%   |
-| 1-20           | 1         | 1.04%   |
-| Unknown        | 1         | 1.04%   |
+| 101-250        | 26        | 26.8%   |
+| 251-500        | 23        | 23.71%  |
+| 1001-2000      | 17        | 17.53%  |
+| 501-1000       | 13        | 13.4%   |
+| 51-100         | 5         | 5.15%   |
+| More than 3000 | 4         | 4.12%   |
+| 2001-3000      | 4         | 4.12%   |
+| 21-50          | 3         | 3.09%   |
+| 1-20           | 1         | 1.03%   |
+| Unknown        | 1         | 1.03%   |
 
 Space Used
 ----------
@@ -1214,14 +1217,14 @@ Amount of used disk space
 
 | Used GB   | Computers | Percent |
 |-----------|-----------|---------|
-| 21-50     | 32        | 32.65%  |
-| 1-20      | 16        | 16.33%  |
-| 251-500   | 14        | 14.29%  |
-| 101-250   | 13        | 13.27%  |
-| 51-100    | 12        | 12.24%  |
-| 501-1000  | 8         | 8.16%   |
-| 1001-2000 | 2         | 2.04%   |
-| Unknown   | 1         | 1.02%   |
+| 21-50     | 32        | 32.32%  |
+| 1-20      | 17        | 17.17%  |
+| 251-500   | 14        | 14.14%  |
+| 101-250   | 13        | 13.13%  |
+| 51-100    | 12        | 12.12%  |
+| 501-1000  | 8         | 8.08%   |
+| 1001-2000 | 2         | 2.02%   |
+| Unknown   | 1         | 1.01%   |
 
 Malfunc. Drives
 ---------------
@@ -1318,7 +1321,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 76        | 148    | 79.17%  |
+| Detected | 76        | 149    | 79.17%  |
 | Works    | 13        | 27     | 13.54%  |
 | Malfunc  | 6         | 7      | 6.25%   |
 | Failed   | 1         | 1      | 1.04%   |
@@ -1380,7 +1383,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 3         | 2.29%   |
 | AMD 300 Series Chipset SATA Controller                                                  | 3         | 2.29%   |
 | Intel Volume Management Device NVMe RAID Controller                                     | 2         | 1.53%   |
-| Intel Non-Volatile memory controller                                                    | 2         | 1.53%   |
+| Intel SSD 670p Series [Keystone Harbor]                                                 | 2         | 1.53%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 2         | 1.53%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                                   | 2         | 1.53%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                                  | 2         | 1.53%   |
@@ -1393,11 +1396,11 @@ Storage controller models
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1         | 0.76%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                          | 1         | 0.76%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1         | 0.76%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                              | 1         | 0.76%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 1         | 0.76%   |
 | Samsung NVMe SSD Controller 980                                                         | 1         | 0.76%   |
-| Samsung Electronics SATA controller                                                     | 1         | 0.76%   |
+| Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                                       | 1         | 0.76%   |
 | Realtek RTS5763DL NVMe SSD Controller                                                   | 1         | 0.76%   |
-| Realtek NVMe Controller                                                                 | 1         | 0.76%   |
 | Nvidia nForce SATA Controller                                                           | 1         | 0.76%   |
 | Nvidia MCP79 AHCI Controller                                                            | 1         | 0.76%   |
 | Nvidia MCP55 SATA Controller                                                            | 1         | 0.76%   |
@@ -1585,46 +1588,46 @@ Microcode number
 
 | Number     | Computers | Percent |
 |------------|-----------|---------|
-| 0x306a9    | 8         | 8.99%   |
-| 0x206a7    | 8         | 8.99%   |
-| 0x306c3    | 7         | 7.87%   |
-| 0x40651    | 6         | 6.74%   |
-| 0x1067a    | 5         | 5.62%   |
-| 0x906ea    | 4         | 4.49%   |
-| 0x906e9    | 4         | 4.49%   |
-| 0x806d1    | 3         | 3.37%   |
-| 0x406e3    | 3         | 3.37%   |
-| Unknown    | 3         | 3.37%   |
-| 0x806ea    | 2         | 2.25%   |
-| 0x806e9    | 2         | 2.25%   |
-| 0x706a8    | 2         | 2.25%   |
-| 0x0800820d | 2         | 2.25%   |
-| 0x08001138 | 2         | 2.25%   |
-| 0x010000c8 | 2         | 2.25%   |
-| 0xf62      | 1         | 1.12%   |
-| 0xa0655    | 1         | 1.12%   |
-| 0xa0652    | 1         | 1.12%   |
-| 0x806eb    | 1         | 1.12%   |
-| 0x806c2    | 1         | 1.12%   |
-| 0x6fb      | 1         | 1.12%   |
-| 0x506e3    | 1         | 1.12%   |
-| 0x506c9    | 1         | 1.12%   |
-| 0x406c4    | 1         | 1.12%   |
-| 0x406c3    | 1         | 1.12%   |
-| 0x306d4    | 1         | 1.12%   |
-| 0x206d7    | 1         | 1.12%   |
-| 0x20655    | 1         | 1.12%   |
-| 0x106e5    | 1         | 1.12%   |
-| 0x106a5    | 1         | 1.12%   |
-| 0x0a50000c | 1         | 1.12%   |
-| 0x08701021 | 1         | 1.12%   |
-| 0x08608103 | 1         | 1.12%   |
-| 0x08108109 | 1         | 1.12%   |
-| 0x0810100b | 1         | 1.12%   |
-| 0x07030105 | 1         | 1.12%   |
-| 0x0600611a | 1         | 1.12%   |
-| 0x06003104 | 1         | 1.12%   |
-| 0x06001119 | 1         | 1.12%   |
+| 0x306a9    | 8         | 8.89%   |
+| 0x206a7    | 8         | 8.89%   |
+| 0x306c3    | 7         | 7.78%   |
+| 0x40651    | 6         | 6.67%   |
+| 0x1067a    | 5         | 5.56%   |
+| 0x906ea    | 4         | 4.44%   |
+| 0x906e9    | 4         | 4.44%   |
+| Unknown    | 4         | 4.44%   |
+| 0x806d1    | 3         | 3.33%   |
+| 0x406e3    | 3         | 3.33%   |
+| 0x806ea    | 2         | 2.22%   |
+| 0x806e9    | 2         | 2.22%   |
+| 0x706a8    | 2         | 2.22%   |
+| 0x0800820d | 2         | 2.22%   |
+| 0x08001138 | 2         | 2.22%   |
+| 0x010000c8 | 2         | 2.22%   |
+| 0xf62      | 1         | 1.11%   |
+| 0xa0655    | 1         | 1.11%   |
+| 0xa0652    | 1         | 1.11%   |
+| 0x806eb    | 1         | 1.11%   |
+| 0x806c2    | 1         | 1.11%   |
+| 0x6fb      | 1         | 1.11%   |
+| 0x506e3    | 1         | 1.11%   |
+| 0x506c9    | 1         | 1.11%   |
+| 0x406c4    | 1         | 1.11%   |
+| 0x406c3    | 1         | 1.11%   |
+| 0x306d4    | 1         | 1.11%   |
+| 0x206d7    | 1         | 1.11%   |
+| 0x20655    | 1         | 1.11%   |
+| 0x106e5    | 1         | 1.11%   |
+| 0x106a5    | 1         | 1.11%   |
+| 0x0a50000c | 1         | 1.11%   |
+| 0x08701021 | 1         | 1.11%   |
+| 0x08608103 | 1         | 1.11%   |
+| 0x08108109 | 1         | 1.11%   |
+| 0x0810100b | 1         | 1.11%   |
+| 0x07030105 | 1         | 1.11%   |
+| 0x0600611a | 1         | 1.11%   |
+| 0x06003104 | 1         | 1.11%   |
+| 0x06001119 | 1         | 1.11%   |
 
 CPU Microarch
 -------------
@@ -1838,48 +1841,48 @@ Monitor models
 ![Monitor Model](./All/images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Computers | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| AU Optronics LCD Monitor AUOC199 2560x1600 344x215mm 16.0-inch        | 2         | 2.11%   |
-| Vestel LCD Monitor 32W_LCD_TV 1920x1080                               | 1         | 1.05%   |
-| Unknown LCD Monitor SAMSUNG                                           | 1         | 1.05%   |
-| Toshiba LCD Monitor LCD0905 1366x768 295x166mm 13.3-inch              | 1         | 1.05%   |
-| Sony AVAMP SNYF400 1920x1080 1440x810mm 65.0-inch                     | 1         | 1.05%   |
-| Sharp LQ156T1JW04 SHP153C 2560x1440 344x194mm 15.5-inch               | 1         | 1.05%   |
-| Sharp LQ156M1JW03 SHP14C5 1920x1080 344x194mm 15.5-inch               | 1         | 1.05%   |
-| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                | 1         | 1.05%   |
-| Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1         | 1.05%   |
-| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor U28E590                               | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 293x165mm 13.2-inch  | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SDC4161 1920x1080 344x194mm 15.5-inch | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch  | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SAM07C5 1920x1080 700x390mm 31.5-inch | 1         | 1.05%   |
-| Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch     | 1         | 1.05%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 1.05%   |
-| Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch     | 1         | 1.05%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 1.05%   |
-| Ruijiang RJT HDMI RJT1200 1920x1080 320x180mm 14.5-inch               | 1         | 1.05%   |
-| Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch              | 1         | 1.05%   |
-| Philips 220EW PHL0861 1680x1050 434x270mm 20.1-inch                   | 1         | 1.05%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.05%   |
-| Panasonic TV MEIC301 1920x1080 698x392mm 31.5-inch                    | 1         | 1.05%   |
-| Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                  | 1         | 1.05%   |
-| Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1         | 1.05%   |
-| LG Electronics LCD Monitor MP59HT 1920x1080                           | 1         | 1.05%   |
-| LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch          | 1         | 1.05%   |
-| LG Display LCD Monitor LGD0468 1366x768 344x194mm 15.5-inch           | 1         | 1.05%   |
-| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch          | 1         | 1.05%   |
-| LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch          | 1         | 1.05%   |
-| LG Display LCD Monitor LGD03ED 1366x768 277x156mm 12.5-inch           | 1         | 1.05%   |
-| LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch           | 1         | 1.05%   |
-| LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch           | 1         | 1.05%   |
-| LG Display LCD Monitor LGD02F1 1366x768 344x194mm 15.5-inch           | 1         | 1.05%   |
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 1         | 1.05%   |
-| LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch           | 1         | 1.05%   |
-| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1         | 1.05%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| AU Optronics LCD Monitor AUOC199 2560x1600 344x215mm 16.0-inch         | 2         | 2.11%   |
+| Vestel LCD Monitor 32W_LCD_TV 1920x1080                                | 1         | 1.05%   |
+| Unknown LCD Monitor SAMSUNG                                            | 1         | 1.05%   |
+| Toshiba LCD Monitor LCD0905 1366x768 295x166mm 13.3-inch               | 1         | 1.05%   |
+| Sony AVAMP SNYF400 1920x1080 1440x810mm 65.0-inch                      | 1         | 1.05%   |
+| Sharp LQ156T1JW04 SHP153C 2560x1440 344x194mm 15.5-inch                | 1         | 1.05%   |
+| Sharp LQ156M1JW03 SHP14C5 1920x1080 344x194mm 15.5-inch                | 1         | 1.05%   |
+| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                 | 1         | 1.05%   |
+| Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch      | 1         | 1.05%   |
+| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch      | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor U28E590 7680x2160                      | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor U28E590                                | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch   | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch  | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SDC4161 1920x1080 344x194mm 15.5-inch  | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch   | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SAM07C5 1920x1080 1210x680mm 54.6-inch | 1         | 1.05%   |
+| Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch      | 1         | 1.05%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 1         | 1.05%   |
+| Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch      | 1         | 1.05%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1         | 1.05%   |
+| Ruijiang RJT HDMI RJT1200 1920x1080 320x180mm 14.5-inch                | 1         | 1.05%   |
+| Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch               | 1         | 1.05%   |
+| Philips 220EW PHL0861 1680x1050 434x270mm 20.1-inch                    | 1         | 1.05%   |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                | 1         | 1.05%   |
+| Panasonic TV MEIC301 1920x1080 698x392mm 31.5-inch                     | 1         | 1.05%   |
+| Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                   | 1         | 1.05%   |
+| Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                  | 1         | 1.05%   |
+| LG Electronics LCD Monitor MP59HT 1920x1080                            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch           | 1         | 1.05%   |
+| LG Display LCD Monitor LGD0468 1366x768 344x194mm 15.5-inch            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch           | 1         | 1.05%   |
+| LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch           | 1         | 1.05%   |
+| LG Display LCD Monitor LGD03ED 1366x768 277x156mm 12.5-inch            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD02F1 1366x768 344x194mm 15.5-inch            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch            | 1         | 1.05%   |
+| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                  | 1         | 1.05%   |
 
 Monitor Resolution
 ------------------
@@ -2250,12 +2253,12 @@ Ethernet models
 | Research In Motion BlackBerry                                     | 1         | 1.18%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.18%   |
 | Realtek Killer E3000 2.5GbE Controller                            | 1         | 1.18%   |
-| Qualcomm Nokia G400 5G                                            | 1         | 1.18%   |
+| Qualcomm Redmi Note 8                                             | 1         | 1.18%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.18%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.18%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 1.18%   |
 | Nvidia MCP55 Ethernet                                             | 1         | 1.18%   |
-| Motorola PCS moto g(30)                                           | 1         | 1.18%   |
+| Motorola PCS XT1032                                               | 1         | 1.18%   |
 | Microsoft RTL8153 GigE [Surface Ethernet Adapter]                 | 1         | 1.18%   |
 | Intel WiMAX Connection 2400m                                      | 1         | 1.18%   |
 | Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 1.18%   |
@@ -2373,11 +2376,12 @@ Controller models
 | Intel AX200 Bluetooth                               | 3         | 6.12%   |
 | IMC Networks Wireless_Device                        | 3         | 6.12%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 2         | 4.08%   |
-| Realtek Bluetooth Radio                             | 2         | 4.08%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 4.08%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 2         | 4.08%   |
 | Apple Bluetooth USB Host Controller                 | 2         | 4.08%   |
 | Realtek Bluetooth Radio                             | 1         | 2.04%   |
+| Realtek Bluetooth Radio                             | 1         | 2.04%   |
+| Realtek 802.11ac WLAN Adapter                       | 1         | 2.04%   |
 | Ralink RT3290 Bluetooth                             | 1         | 2.04%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 2.04%   |
 | Marvell Bluetooth and Wireless LAN Composite Device | 1         | 2.04%   |
@@ -2514,7 +2518,7 @@ Memory module models
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1867MT/s               | 1         | 3.13%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 3.13%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 3.13%   |
-| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s         | 1         | 3.13%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1         | 3.13%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s             | 1         | 3.13%   |
 | Micron RAM Module 2048MB Row Of Chips DDR3 1600MT/s            | 1         | 3.13%   |
@@ -2532,7 +2536,7 @@ Memory module models
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s      | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1         | 3.13%   |
 | A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                    | 1         | 3.13%   |
-| A-DATA RAM AM1U16BC4P2-B19H 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
+| A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
 
 Memory Kind
 -----------
@@ -2631,7 +2635,7 @@ Printer device models
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
 | Star Micronics TUP592 (STR_T-001) | 1         | 14.29%  |
-| HP Laser 107a                     | 1         | 14.29%  |
+| HP Laser 107w                     | 1         | 14.29%  |
 | HP ENVY 5000 series               | 1         | 14.29%  |
 | Canon PIXMA MX490 Series          | 1         | 14.29%  |
 | Canon G3000 series                | 1         | 14.29%  |
@@ -2678,12 +2682,13 @@ Camera device vendors
 | Chicony Electronics                    | 10        | 18.52%  |
 | IMC Networks                           | 8         | 14.81%  |
 | Realtek Semiconductor                  | 4         | 7.41%   |
-| Bison Electronics                      | 4         | 7.41%   |
 | Apple                                  | 4         | 7.41%   |
 | Sunplus Innovation Technology          | 3         | 5.56%   |
 | Logitech                               | 3         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 5.56%   |
+| Bison Electronics                      | 3         | 5.56%   |
 | Microsoft                              | 2         | 3.7%    |
+| Acer                                   | 2         | 3.7%    |
 | Z-Star Microelectronics                | 1         | 1.85%   |
 | Samsung Electronics                    | 1         | 1.85%   |
 | Pixart Imaging                         | 1         | 1.85%   |
@@ -2696,7 +2701,6 @@ Camera device vendors
 | Cubeternet                             | 1         | 1.85%   |
 | ARC International                      | 1         | 1.85%   |
 | Alcor Micro                            | 1         | 1.85%   |
-| Acer                                   | 1         | 1.85%   |
 
 Camera Model
 ------------
@@ -2717,7 +2721,7 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                                               | 1         | 1.85%   |
 | Sunplus HP HD Webcam [Fixed]                                               | 1         | 1.85%   |
 | Sunplus Asus Webcam                                                        | 1         | 1.85%   |
-| Samsung Galaxy A5 (MTP)                                                    | 1         | 1.85%   |
+| Samsung Galaxy series, misc. (MTP mode)                                    | 1         | 1.85%   |
 | Realtek USB Camera                                                         | 1         | 1.85%   |
 | Realtek Integrated_Webcam_HD                                               | 1         | 1.85%   |
 | Realtek HP Wide Vision HD Camera                                           | 1         | 1.85%   |
@@ -2733,7 +2737,7 @@ Camera device models
 | Lite-On Integrated Camera                                                  | 1         | 1.85%   |
 | IMC Networks USB2.0 UVC HD Webcam                                          | 1         | 1.85%   |
 | IMC Networks ov9734_azurewave_camera                                       | 1         | 1.85%   |
-| Huawei UVC Camera                                                          | 1         | 1.85%   |
+| Huawei HiCamera                                                            | 1         | 1.85%   |
 | Generalplus 808 Camera #9 (web-cam mode)                                   | 1         | 1.85%   |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311]                          | 1         | 1.85%   |
 | Cubeternet GL-UPC822 UVC WebCam                                            | 1         | 1.85%   |
@@ -2826,9 +2830,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 67        | 72.83%  |
+| 0     | 68        | 73.91%  |
 | 1     | 21        | 22.83%  |
-| 2     | 4         | 4.35%   |
+| 2     | 3         | 3.26%   |
 
 Unsupported Device Types
 ------------------------
@@ -2840,12 +2844,12 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Graphics card         | 9         | 32.14%  |
-| Fingerprint reader    | 6         | 21.43%  |
-| Net/wireless          | 5         | 17.86%  |
-| Chipcard              | 3         | 10.71%  |
-| Multimedia controller | 2         | 7.14%   |
-| Sound                 | 1         | 3.57%   |
-| Net/ethernet          | 1         | 3.57%   |
-| Bluetooth             | 1         | 3.57%   |
+| Graphics card         | 7         | 26.92%  |
+| Fingerprint reader    | 6         | 23.08%  |
+| Net/wireless          | 5         | 19.23%  |
+| Chipcard              | 3         | 11.54%  |
+| Multimedia controller | 2         | 7.69%   |
+| Sound                 | 1         | 3.85%   |
+| Net/ethernet          | 1         | 3.85%   |
+| Bluetooth             | 1         | 3.85%   |
 

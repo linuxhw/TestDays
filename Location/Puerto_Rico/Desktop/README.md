@@ -794,18 +794,18 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2018 | 14       | 23.73%  |
 | 2019 | 6        | 10.17%  |
+| 2014 | 6        | 10.17%  |
 | 2008 | 6        | 10.17%  |
-| 2014 | 5        | 8.47%   |
 | 2013 | 5        | 8.47%   |
 | 2011 | 4        | 6.78%   |
 | 2021 | 3        | 5.08%   |
 | 2020 | 2        | 3.39%   |
 | 2017 | 2        | 3.39%   |
 | 2016 | 2        | 3.39%   |
-| 2015 | 2        | 3.39%   |
 | 2012 | 2        | 3.39%   |
 | 2009 | 2        | 3.39%   |
 | 2022 | 1        | 1.69%   |
+| 2015 | 1        | 1.69%   |
 | 2010 | 1        | 1.69%   |
 | 2007 | 1        | 1.69%   |
 | 2006 | 1        | 1.69%   |
@@ -1341,8 +1341,8 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                                  | 6        | 5.88%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 5        | 4.9%    |
 | Phison E12 NVMe Controller                                                              | 4        | 3.92%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 3        | 2.94%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                                         | 3        | 2.94%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 3        | 2.94%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                    | 3        | 2.94%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 3        | 2.94%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 3        | 2.94%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                               | 3        | 2.94%   |
@@ -1366,7 +1366,7 @@ Storage controller models
 | Nvidia CK804 Serial ATA Controller                                                      | 1        | 0.98%   |
 | Nvidia CK804 IDE                                                                        | 1        | 0.98%   |
 | Intel Volume Management Device NVMe RAID Controller                                     | 1        | 0.98%   |
-| Intel SSD 665p Series                                                                   | 1        | 0.98%   |
+| Intel SSD 665p Series [Neptune Harbor Refresh]                                          | 1        | 0.98%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 0.98%   |
 | Intel Jasper Lake SATA AHCI Controller                                                  | 1        | 0.98%   |
 | Intel Comet Lake PCH-H RAID                                                             | 1        | 0.98%   |
@@ -1387,10 +1387,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 43       | 50.59%  |
+| SATA | 44       | 51.76%  |
 | NVMe | 18       | 21.18%  |
 | IDE  | 16       | 18.82%  |
-| RAID | 8        | 9.41%   |
+| RAID | 7        | 8.24%   |
 
 Processor
 ---------
@@ -1794,12 +1794,12 @@ Monitor models
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                 | 2        | 2.67%   |
 | Acer LCD Monitor G236HL 5760x1080                                     | 2        | 2.67%   |
 | Vizio M422i-B1 VIZ1006 1920x1080 930x523mm 42.0-inch                  | 1        | 1.33%   |
-| Vizio E260MV VIZ0062 1920x1080 509x286mm 23.0-inch                    | 1        | 1.33%   |
-| Vizio D32x-D1 VIZ1005 1920x1080 698x392mm 31.5-inch                   | 1        | 1.33%   |
+| Vizio E320fi-B2 VIZ1005 1920x1080 477x268mm 21.5-inch                 | 1        | 1.33%   |
+| Vizio E260MV VIZ0062 1920x1080 580x320mm 26.1-inch                    | 1        | 1.33%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch         | 1        | 1.33%   |
 | ViewSonic VG930m-3 VSC991E 1280x1024 376x301mm 19.0-inch              | 1        | 1.33%   |
 | Unknown LCD Monitor Dell S2719DGF 2560x1440                           | 1        | 1.33%   |
-| UGD Artist 156 UGD1501 1920x1080 293x165mm 13.2-inch                  | 1        | 1.33%   |
+| UGD Artist 156 UGD1501 1920x1080 344x193mm 15.5-inch                  | 1        | 1.33%   |
 | Tech Concepts LCD Monitor 43S431 3840x2160                            | 1        | 1.33%   |
 | Tech Concepts LCD Monitor 43S423 1920x1080                            | 1        | 1.33%   |
 | Seiki SE241TS SEK0CF0 1920x1080 520x290mm 23.4-inch                   | 1        | 1.33%   |
@@ -1810,16 +1810,16 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0F0B 1920x1080 708x398mm 32.0-inch | 1        | 1.33%   |
 | Samsung Electronics LCD Monitor SAM0C3C 1366x768 609x347mm 27.6-inch  | 1        | 1.33%   |
 | Samsung Electronics LC27G5xT SAM7079 2560x1440 597x336mm 27.0-inch    | 1        | 1.33%   |
-| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch     | 1        | 1.33%   |
+| Samsung Electronics C32F391 SAM0D34 1920x1080 700x390mm 31.5-inch     | 1        | 1.33%   |
 | MTK Microtek 815C MTK1021 1280x1024 359x287mm 18.1-inch               | 1        | 1.33%   |
-| MStar Demo MST0030 1360x765 708x398mm 32.0-inch                       | 1        | 1.33%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                        | 1        | 1.33%   |
 | Hewlett-Packard P17A HWP3142 1280x1024 338x270mm 17.0-inch            | 1        | 1.33%   |
 | Hewlett-Packard LE1901w HWP2842 1440x900 410x256mm 19.0-inch          | 1        | 1.33%   |
 | Hewlett-Packard 2511 HWP293E 1920x1080 550x310mm 24.9-inch            | 1        | 1.33%   |
-| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch           | 1        | 1.33%   |
+| Hewlett-Packard 22cwa HWP3183 1920x1080 480x270mm 21.7-inch           | 1        | 1.33%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 1        | 1.33%   |
-| Goldstar TV SSCR2 GSMC0C8 3840x2160                                   | 1        | 1.33%   |
-| Goldstar 27GL650F GSM5B70 1920x1080 531x298mm 24.0-inch               | 1        | 1.33%   |
+| Goldstar ULTRAGEAR GSM5B70 1920x1080 531x298mm 24.0-inch              | 1        | 1.33%   |
+| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                                | 1        | 1.33%   |
 | Gateway LCD Monitor FHX2300 3840x1080                                 | 1        | 1.33%   |
 
 Monitor Resolution
@@ -1876,7 +1876,7 @@ Diagonal size in inches
 | 26      | 1        | 1.54%   |
 | 25      | 1        | 1.54%   |
 | 22      | 1        | 1.54%   |
-| 13      | 1        | 1.54%   |
+| 15      | 1        | 1.54%   |
 
 Monitor Width
 -------------
@@ -1894,10 +1894,9 @@ Physical width
 | 601-700     | 6        | 9.68%   |
 | Unknown     | 5        | 8.06%   |
 | 701-800     | 3        | 4.84%   |
+| 301-350     | 3        | 4.84%   |
 | 351-400     | 2        | 3.23%   |
-| 301-350     | 2        | 3.23%   |
 | 1001-1500   | 2        | 3.23%   |
-| 201-300     | 1        | 1.61%   |
 
 Aspect Ratio
 ------------
@@ -1932,8 +1931,8 @@ Area in inch²
 | Unknown        | 5        | 8.2%    |
 | 141-150        | 3        | 4.92%   |
 | 251-300        | 2        | 3.28%   |
-| 71-80          | 1        | 1.64%   |
 | 301-350        | 1        | 1.64%   |
+| 101-110        | 1        | 1.64%   |
 
 Pixel Density
 -------------
@@ -1949,8 +1948,7 @@ Pixels per inch
 | 101-120 | 15       | 25.42%  |
 | 1-50    | 9        | 15.25%  |
 | Unknown | 5        | 8.47%   |
-| 161-240 | 1        | 1.69%   |
-| 121-160 | 1        | 1.69%   |
+| 121-160 | 2        | 3.39%   |
 
 Multiple Monitors
 -----------------
@@ -2388,7 +2386,7 @@ Memory module models
 | G.Skill RAM F3-10666CL9-8GBSQ 8GB DIMM DDR3 1333MT/s      | 1        | 4%      |
 | Crucial RAM CT51264BD160B.C16F 4GB DIMM DDR3 1600MT/s     | 1        | 4%      |
 | Crucial RAM BL16G26C16U4W.16FD 16GB DIMM DDR4 2667MT/s    | 1        | 4%      |
-| Corsair RAM CMK16GX4M2B3200C16 8192MB DIMM DDR4 3600MT/s  | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s     | 1        | 4%      |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s     | 1        | 4%      |
 | Avant RAM W641GU42J7240NC 8GB DIMM DDR4 2400MT/s          | 1        | 4%      |
 
@@ -2527,18 +2525,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Microdia Camera                     | 4        | 28.57%  |
-| Logitech HD Pro Webcam C920         | 2        | 14.29%  |
-| Razer USA Razer Kiyo Pro            | 1        | 7.14%   |
-| Microdia REDRAGON Live Camera Audio | 1        | 7.14%   |
-| Logitech Webcam Pro 9000            | 1        | 7.14%   |
-| Logitech Webcam C310                | 1        | 7.14%   |
-| Logitech Webcam C270                | 1        | 7.14%   |
-| Logitech CrystalCam                 | 1        | 7.14%   |
-| Jieli USB PHY 2.0                   | 1        | 7.14%   |
-| Cubeternet GL-UPC822 UVC WebCam     | 1        | 7.14%   |
+| Model                           | Desktops | Percent |
+|---------------------------------|----------|---------|
+| Microdia Camera                 | 4        | 28.57%  |
+| Logitech HD Pro Webcam C920     | 2        | 14.29%  |
+| Razer USA Razer Kiyo Pro        | 1        | 7.14%   |
+| Microdia USB 2.0 Camera         | 1        | 7.14%   |
+| Logitech Webcam Pro 9000        | 1        | 7.14%   |
+| Logitech Webcam C310            | 1        | 7.14%   |
+| Logitech Webcam C270            | 1        | 7.14%   |
+| Logitech CrystalCam             | 1        | 7.14%   |
+| Jieli USB PHY 2.0               | 1        | 7.14%   |
+| Cubeternet GL-UPC822 UVC WebCam | 1        | 7.14%   |
 
 Security
 --------

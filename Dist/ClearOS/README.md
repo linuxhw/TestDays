@@ -1065,9 +1065,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 20        | 58.82%  |
-| IDE  | 10        | 29.41%  |
-| RAID | 4         | 11.76%  |
+| SATA | 20        | 57.14%  |
+| IDE  | 10        | 28.57%  |
+| RAID | 5         | 14.29%  |
 
 Processor
 ---------
@@ -1359,7 +1359,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0F9F 3840x2160 1872x1053mm 84.6-inch | 1         | 2.08%   |
 | Hewlett-Packard L1502 HWP2600 1024x768 304x228mm 15.0-inch              | 1         | 2.08%   |
 | Goldstar E2241 GSM5818 1920x1080 477x268mm 21.5-inch                    | 1         | 2.08%   |
-| Dell P1917S DELD091 1280x1024 375x300mm 18.9-inch                       | 1         | 2.08%   |
+| Dell P1917S DELD091 1280x1024 380x300mm 19.1-inch                       | 1         | 2.08%   |
 | AOC 1619w AOC1619 1366x768 340x190mm 15.3-inch                          | 1         | 2.08%   |
 
 Monitor Resolution

@@ -907,7 +907,7 @@ Storage controller models
 | Phison E12 NVMe Controller                                                     | 1        | 4.55%   |
 | Nvidia MCP61 SATA Controller                                                   | 1        | 4.55%   |
 | Nvidia MCP61 IDE                                                               | 1        | 4.55%   |
-| Micron NVMe Storage Controller                                                 | 1        | 4.55%   |
+| Micron 3400 NVMe SSD [Hendrix]                                                 | 1        | 4.55%   |
 | Marvell Group 88SE91A3 SATA-600 Controller                                     | 1        | 4.55%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 1        | 4.55%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1        | 4.55%   |
@@ -1210,7 +1210,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM02B7 1280x720                       | 1        | 6.67%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch      | 1        | 6.67%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch            | 1        | 6.67%   |
-| MStar Demo MST0030 1360x765 708x398mm 32.0-inch                        | 1        | 6.67%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1        | 6.67%   |
 | Insignia TV BBY0030 3840x2160 708x398mm 32.0-inch                      | 1        | 6.67%   |
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch          | 1        | 6.67%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 6.67%   |
@@ -1356,6 +1356,7 @@ Controller vendors
 | Intel                    | 5        | 20%     |
 | Qualcomm Atheros         | 3        | 12%     |
 | Ralink Technology        | 2        | 8%      |
+| vivo                     | 1        | 4%      |
 | TP-Link                  | 1        | 4%      |
 | Samsung Electronics      | 1        | 4%      |
 | Nvidia                   | 1        | 4%      |
@@ -1364,7 +1365,6 @@ Controller vendors
 | Lenovo                   | 1        | 4%      |
 | Broadcom                 | 1        | 4%      |
 | ASUSTek Computer         | 1        | 4%      |
-| Android                  | 1        | 4%      |
 
 Net Controller Model
 --------------------
@@ -1378,6 +1378,7 @@ Controller models
 |--------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 5        | 16.67%  |
 | Intel Ethernet Connection I217-V                                   | 2        | 6.67%   |
+| vivo V2027                                                         | 1        | 3.33%   |
 | TP-Link Archer T4U ver.3                                           | 1        | 3.33%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)        | 1        | 3.33%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter           | 1        | 3.33%   |
@@ -1400,7 +1401,6 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)              | 1        | 3.33%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                 | 1        | 3.33%   |
 | ASUS USB-N13 802.11n Network Adapter (rev. B1) [Realtek RTL8192CU] | 1        | 3.33%   |
-| Android Android                                                    | 1        | 3.33%   |
 
 Wireless Vendor
 ---------------
@@ -1659,22 +1659,22 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM 800MT/s                      | 1        | 7.14%   |
-| Unknown RAM Module 4GB DIMM 1066MT/s                     | 1        | 7.14%   |
-| Unknown RAM Module 2GB DIMM 800MT/s                      | 1        | 7.14%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                     | 1        | 7.14%   |
-| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3000MT/s       | 1        | 7.14%   |
-| SK hynix RAM Module 8GB DIMM DDR4 3200MT/s               | 1        | 7.14%   |
-| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 7.14%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s     | 1        | 7.14%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s     | 1        | 7.14%   |
-| Kingston RAM KHYXPX-HYJ 8GB SODIMM DDR4 2667MT/s         | 1        | 7.14%   |
-| G.Skill RAM F3-12800CL10-8GBXL 8GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1800MT/s    | 1        | 7.14%   |
-| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1867MT/s      | 1        | 7.14%   |
-| Corsair RAM CMD16GX4M2B3000C15 8192MB DIMM DDR4 3100MT/s | 1        | 7.14%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM 800MT/s                   | 1        | 7.14%   |
+| Unknown RAM Module 4GB DIMM 1066MT/s                  | 1        | 7.14%   |
+| Unknown RAM Module 2GB DIMM 800MT/s                   | 1        | 7.14%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                  | 1        | 7.14%   |
+| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3000MT/s    | 1        | 7.14%   |
+| SK hynix RAM Module 8GB DIMM DDR4 3200MT/s            | 1        | 7.14%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s  | 1        | 7.14%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s  | 1        | 7.14%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s  | 1        | 7.14%   |
+| Kingston RAM KHYXPX-HYJ 8GB SODIMM DDR4 2667MT/s      | 1        | 7.14%   |
+| G.Skill RAM F3-12800CL10-8GBXL 8GB DIMM DDR3 1600MT/s | 1        | 7.14%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1800MT/s | 1        | 7.14%   |
+| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1867MT/s   | 1        | 7.14%   |
+| Corsair RAM CMD16GX4M2B3000C15 8GB DIMM DDR4 3100MT/s | 1        | 7.14%   |
 
 Memory Kind
 -----------

@@ -779,10 +779,10 @@ Hard drive models
 | SanDisk sandisk120 120GB SSD                       | 1        | 2.78%   |
 | Samsung SSD 860 EVO 500GB                          | 1        | 2.78%   |
 | Samsung SSD 850 EVO 120GB                          | 1        | 2.78%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB | 1        | 2.78%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 1        | 2.78%   |
 | Samsung HD250HJ 250GB                              | 1        | 2.78%   |
 | Samsung HD162GJ 160GB                              | 1        | 2.78%   |
-| Samsung HD160JJ 160GB                              | 1        | 2.78%   |
+| Samsung HD160JJ/ 160GB                             | 1        | 2.78%   |
 | Samsung HD080HJ/ 80GB                              | 1        | 2.78%   |
 | Micron/Crucial P1 NVMe PCIe SSD 1TB                | 1        | 2.78%   |
 | Micron/Crucial CT2000P5PSSD8 2TB                   | 1        | 2.78%   |
@@ -1046,7 +1046,7 @@ Storage controller models
 | Nvidia CK804 Serial ATA Controller                                            | 1        | 2.7%    |
 | Nvidia CK804 IDE                                                              | 1        | 2.7%    |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                          | 1        | 2.7%    |
-| Micron/Crucial P1 NVMe PCIe SSD                                               | 1        | 2.7%    |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                     | 1        | 2.7%    |
 | LSI Logic / Symbios Logic SAS3008 PCI-Express Fusion-MPT SAS-3                | 1        | 2.7%    |
 | Intel SSD 660P Series                                                         | 1        | 2.7%    |
 | Intel SATA Controller [RAID mode]                                             | 1        | 2.7%    |
@@ -1382,7 +1382,7 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Vizio E320i-A0 VIZ1002 1366x768 698x392mm 31.5-inch                   | 1        | 7.14%   |
+| Vizio E320i-B2 VIZ1002 1360x768 700x400mm 31.7-inch                   | 1        | 7.14%   |
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch  | 1        | 7.14%   |
 | Samsung Electronics SMT22A300 SAM087B 1920x1080 480x270mm 21.7-inch   | 1        | 7.14%   |
 | LG Electronics LCD Monitor LG Ultra HD 4480x3600                      | 1        | 7.14%   |
@@ -1837,7 +1837,7 @@ Memory module models
 | SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s     | 1        | 4%      |
 | SK hynix RAM HMT325S6EFR8A-PB 2GB SODIMM DDR3 1600MT/s   | 1        | 4%      |
 | Samsung RAM M378B5673FH0 2GB DIMM DDR3 1333MT/s          | 1        | 4%      |
-| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 3200MT/s     | 1        | 4%      |
+| Samsung RAM M378A2K43CB1-CTD 16384MB DIMM DDR4 3200MT/s  | 1        | 4%      |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 4%      |
 | Ramaxel RAM RMUA5180MH78HBF-2666 16GB DIMM DDR4 2400MT/s | 1        | 4%      |
 | Patriot RAM PSD34G1600L2S 4GB SODIMM DDR3 1600MT/s       | 1        | 4%      |

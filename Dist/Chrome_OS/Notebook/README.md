@@ -1090,7 +1090,7 @@ Storage controller models
 | Intel Mobile 4 Series Chipset PT IDER Controller                             | 2         | 5.41%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                            | 2         | 5.41%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                            | 2         | 5.41%   |
-| Union Memory (Shenzhen) Non-Volatile memory controller                       | 1         | 2.7%    |
+| Union Memory (Shenzhen) AM610 PCIe 3.0 NVMe SSD 128GB                        | 1         | 2.7%    |
 | Kingston Company A2000 NVMe SSD                                              | 1         | 2.7%    |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                           | 1         | 2.7%    |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 1         | 2.7%    |
@@ -1448,7 +1448,7 @@ Monitor models
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.35%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.17%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.17%   |
@@ -1462,7 +1462,7 @@ Monitor models
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 2.17%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 2.17%   |
 | Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 2.17%   |
-| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch                  | 1         | 2.17%   |
+| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch                  | 1         | 2.17%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 2.17%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 2.17%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch                | 1         | 2.17%   |
@@ -2069,11 +2069,10 @@ Camera device vendors
 | Microdia                               | 2         | 6.06%   |
 | Lite-On Technology                     | 2         | 6.06%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 6.06%   |
+| Bison Electronics                      | 2         | 6.06%   |
 | Sunplus Innovation Technology          | 1         | 3.03%   |
 | Importek                               | 1         | 3.03%   |
 | IMC Networks                           | 1         | 3.03%   |
-| Bison Electronics                      | 1         | 3.03%   |
-| Acer                                   | 1         | 3.03%   |
 
 Camera Model
 ------------
@@ -2108,7 +2107,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101    | 1         | 3.03%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 3.03%   |
 | Bison VGA WebCam                                        | 1         | 3.03%   |
-| Acer EasyCamera                                         | 1         | 3.03%   |
+| Bison EasyCamera                                        | 1         | 3.03%   |
 
 Security
 --------
@@ -2181,8 +2180,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 23        | 52.27%  |
-| 1     | 18        | 40.91%  |
-| 2     | 3         | 6.82%   |
+| 1     | 17        | 38.64%  |
+| 2     | 4         | 9.09%   |
 
 Unsupported Device Types
 ------------------------
@@ -2194,13 +2193,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 26.09%  |
-| Fingerprint reader       | 5         | 21.74%  |
-| Graphics card            | 3         | 13.04%  |
-| Chipcard                 | 3         | 13.04%  |
-| Storage                  | 2         | 8.7%    |
-| Storage/ide              | 1         | 4.35%   |
-| Net/wireless             | 1         | 4.35%   |
-| Modem                    | 1         | 4.35%   |
-| Communication controller | 1         | 4.35%   |
+| Multimedia controller    | 6         | 25%     |
+| Fingerprint reader       | 5         | 20.83%  |
+| Graphics card            | 4         | 16.67%  |
+| Chipcard                 | 3         | 12.5%   |
+| Storage                  | 2         | 8.33%   |
+| Storage/ide              | 1         | 4.17%   |
+| Net/wireless             | 1         | 4.17%   |
+| Modem                    | 1         | 4.17%   |
+| Communication controller | 1         | 4.17%   |
 

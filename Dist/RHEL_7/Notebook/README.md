@@ -850,7 +850,7 @@ Storage controller models
 | Toshiba America Info Systems XG6 NVMe SSD Controller             | 1         | 9.09%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                       | 1         | 9.09%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]               | 1         | 9.09%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                          | 1         | 9.09%   |
+| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                 | 1         | 9.09%   |
 | Intel Comet Lake SATA AHCI Controller                            | 1         | 9.09%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode] | 1         | 9.09%   |
 | ADATA IM2P33F8ABR1 NVMe SSD                                      | 1         | 9.09%   |
@@ -1122,9 +1122,9 @@ Monitor models
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 7.69%   |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 7.69%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 7.69%   |
-| ITE DP2VGA V168 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 7.69%   |
+| ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 7.69%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 7.69%   |
-| Dell P2217H DELA0D9 1920x1080 480x270mm 21.7-inch                     | 1         | 7.69%   |
+| Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 1         | 7.69%   |
 | BOE Technology Group LCD Monitor 1920x1080                            | 1         | 7.69%   |
@@ -1280,7 +1280,7 @@ Controller models
 | Realtek RTL8153 Gigabit Ethernet Adapter                           | 1         | 4.35%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 1         | 4.35%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                   | 1         | 4.35%   |
-| OPPO CPH2411                                                       | 1         | 4.35%   |
+| OPPO SM6375-QRD _SN:F4A23F05                                       | 1         | 4.35%   |
 | Intel Wi-Fi 6 AX200                                                | 1         | 4.35%   |
 | Intel Ethernet Connection (7) I219-LM                              | 1         | 4.35%   |
 | Intel Ethernet Connection (6) I219-LM                              | 1         | 4.35%   |
@@ -1354,7 +1354,7 @@ Ethernet models
 | Intel Ethernet Connection (6) I219-V                              | 2         | 18.18%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 9.09%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
-| OPPO CPH2411                                                      | 1         | 9.09%   |
+| OPPO SM6375-QRD _SN:F4A23F05                                      | 1         | 9.09%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (6) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (5) I219-LM                             | 1         | 9.09%   |
@@ -1660,12 +1660,12 @@ Fingerprint sensor models
 ![Fingerprint Model](./images/pie_chart/fingerprint_model.svg)
 
 
-| Model                                                      | Notebooks | Percent |
-|------------------------------------------------------------|-----------|---------|
-| Synaptics Metallica MIS Touch Fingerprint Reader           | 2         | 40%     |
-| Validity Sensors Synaptics WBDI                            | 1         | 20%     |
-| Synaptics  VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 20%     |
-| Synaptics Prometheus MIS Touch Fingerprint Reader          | 1         | 20%     |
+| Model                                             | Notebooks | Percent |
+|---------------------------------------------------|-----------|---------|
+| Synaptics Metallica MIS Touch Fingerprint Reader  | 2         | 40%     |
+| Validity Sensors Synaptics WBDI                   | 1         | 20%     |
+| Synaptics Prometheus MIS Touch Fingerprint Reader | 1         | 20%     |
+| Synaptics Fingerprint reader [HP G6]              | 1         | 20%     |
 
 Chipcard Vendor
 ---------------

@@ -1048,9 +1048,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 19       | 59.38%  |
-| IDE  | 10       | 31.25%  |
-| RAID | 3        | 9.38%   |
+| SATA | 19       | 57.58%  |
+| IDE  | 10       | 30.3%   |
+| RAID | 4        | 12.12%  |
 
 Processor
 ---------
@@ -1333,7 +1333,7 @@ Monitor models
 | Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 2        | 4.35%   |
 | Samsung Electronics LCD Monitor SAM0F9F 3840x2160 1872x1053mm 84.6-inch | 1        | 2.17%   |
 | Hewlett-Packard L1502 HWP2600 1024x768 304x228mm 15.0-inch              | 1        | 2.17%   |
-| Dell P1917S DELD091 1280x1024 375x300mm 18.9-inch                       | 1        | 2.17%   |
+| Dell P1917S DELD091 1280x1024 380x300mm 19.1-inch                       | 1        | 2.17%   |
 
 Monitor Resolution
 ------------------

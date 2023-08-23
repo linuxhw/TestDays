@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 39
+Total: 41
 
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell    | 0T7D40 A01                  | [19c877cd88](https://linux-hardware.org/?probe=19c877cd88) | Jul 31, 2023 |
+| Dell    | 0T7D40 A01                  | [c1b5a5f99b](https://linux-hardware.org/?probe=c1b5a5f99b) | Jul 08, 2023 |
 | Dell    | 0T7D40 A01                  | [0c0dc06847](https://linux-hardware.org/?probe=0c0dc06847) | May 31, 2023 |
 | Dell    | 0JP3NX A00                  | [974cb924d5](https://linux-hardware.org/?probe=974cb924d5) | May 08, 2023 |
 | Dell    | 0T7D40 A01                  | [7ce0658b0f](https://linux-hardware.org/?probe=7ce0658b0f) | Apr 29, 2023 |
@@ -241,39 +243,40 @@ Version of the Linux kernel
 
 | Version                       | Desktops | Percent |
 |-------------------------------|----------|---------|
-| 6.2.2-6-siduction-amd64       | 2        | 5.56%   |
-| 6.1.14-1-siduction-amd64      | 2        | 5.56%   |
-| 5.13.8-1-siduction-amd64      | 2        | 5.56%   |
-| 6.2.6-1-siduction-amd64       | 1        | 2.78%   |
-| 6.2.15-1-siduction-amd64      | 1        | 2.78%   |
-| 6.2.13-1-siduction-amd64      | 1        | 2.78%   |
-| 6.2.10-1-siduction-amd64      | 1        | 2.78%   |
-| 6.1.10-2-siduction-amd64      | 1        | 2.78%   |
-| 6.0.9-1-siduction-amd64       | 1        | 2.78%   |
-| 5.8.12-towo.1-siduction-amd64 | 1        | 2.78%   |
-| 5.7.2-towo.1-siduction-amd64  | 1        | 2.78%   |
-| 5.6.2-towo.1-siduction-amd64  | 1        | 2.78%   |
-| 5.19.5-2-siduction-amd64      | 1        | 2.78%   |
-| 5.19.14-1-siduction-amd64     | 1        | 2.78%   |
-| 5.19.12-1-siduction-amd64     | 1        | 2.78%   |
-| 5.18.8-1-siduction-amd64      | 1        | 2.78%   |
-| 5.18.15-1-siduction-amd64     | 1        | 2.78%   |
-| 5.18.0-1-siduction-amd64      | 1        | 2.78%   |
-| 5.16.7-1-siduction-amd64      | 1        | 2.78%   |
-| 5.16.5-1-siduction-amd64      | 1        | 2.78%   |
-| 5.16.18-1-siduction-amd64     | 1        | 2.78%   |
-| 5.15.2-1-siduction-amd64      | 1        | 2.78%   |
-| 5.15.12-1-siduction-amd64     | 1        | 2.78%   |
-| 5.14.8-1-siduction-amd64      | 1        | 2.78%   |
-| 5.14.0-rc5-siduction-amd64    | 1        | 2.78%   |
-| 5.14.0-rc4-siduction-amd64    | 1        | 2.78%   |
-| 5.13.7-1-siduction-amd64      | 1        | 2.78%   |
-| 5.13.6-1-siduction-amd64      | 1        | 2.78%   |
-| 5.13.15-1-siduction-amd64     | 1        | 2.78%   |
-| 5.12.2-2-siduction-amd64      | 1        | 2.78%   |
-| 5.12.13-2-siduction-amd64     | 1        | 2.78%   |
-| 5.12.12-1-siduction-amd64     | 1        | 2.78%   |
-| 5.12.0-rc8-siduction-amd64    | 1        | 2.78%   |
+| 6.2.2-6-siduction-amd64       | 2        | 5.41%   |
+| 6.1.14-1-siduction-amd64      | 2        | 5.41%   |
+| 5.13.8-1-siduction-amd64      | 2        | 5.41%   |
+| 6.3.10-1-siduction-amd64      | 1        | 2.7%    |
+| 6.2.6-1-siduction-amd64       | 1        | 2.7%    |
+| 6.2.15-1-siduction-amd64      | 1        | 2.7%    |
+| 6.2.13-1-siduction-amd64      | 1        | 2.7%    |
+| 6.2.10-1-siduction-amd64      | 1        | 2.7%    |
+| 6.1.10-2-siduction-amd64      | 1        | 2.7%    |
+| 6.0.9-1-siduction-amd64       | 1        | 2.7%    |
+| 5.8.12-towo.1-siduction-amd64 | 1        | 2.7%    |
+| 5.7.2-towo.1-siduction-amd64  | 1        | 2.7%    |
+| 5.6.2-towo.1-siduction-amd64  | 1        | 2.7%    |
+| 5.19.5-2-siduction-amd64      | 1        | 2.7%    |
+| 5.19.14-1-siduction-amd64     | 1        | 2.7%    |
+| 5.19.12-1-siduction-amd64     | 1        | 2.7%    |
+| 5.18.8-1-siduction-amd64      | 1        | 2.7%    |
+| 5.18.15-1-siduction-amd64     | 1        | 2.7%    |
+| 5.18.0-1-siduction-amd64      | 1        | 2.7%    |
+| 5.16.7-1-siduction-amd64      | 1        | 2.7%    |
+| 5.16.5-1-siduction-amd64      | 1        | 2.7%    |
+| 5.16.18-1-siduction-amd64     | 1        | 2.7%    |
+| 5.15.2-1-siduction-amd64      | 1        | 2.7%    |
+| 5.15.12-1-siduction-amd64     | 1        | 2.7%    |
+| 5.14.8-1-siduction-amd64      | 1        | 2.7%    |
+| 5.14.0-rc5-siduction-amd64    | 1        | 2.7%    |
+| 5.14.0-rc4-siduction-amd64    | 1        | 2.7%    |
+| 5.13.7-1-siduction-amd64      | 1        | 2.7%    |
+| 5.13.6-1-siduction-amd64      | 1        | 2.7%    |
+| 5.13.15-1-siduction-amd64     | 1        | 2.7%    |
+| 5.12.2-2-siduction-amd64      | 1        | 2.7%    |
+| 5.12.13-2-siduction-amd64     | 1        | 2.7%    |
+| 5.12.12-1-siduction-amd64     | 1        | 2.7%    |
+| 5.12.0-rc8-siduction-amd64    | 1        | 2.7%    |
 
 Kernel Family
 -------------
@@ -285,38 +288,39 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 6.2.2   | 2        | 5.56%   |
-| 6.1.14  | 2        | 5.56%   |
-| 5.14.0  | 2        | 5.56%   |
-| 5.13.8  | 2        | 5.56%   |
-| 6.2.6   | 1        | 2.78%   |
-| 6.2.15  | 1        | 2.78%   |
-| 6.2.13  | 1        | 2.78%   |
-| 6.2.10  | 1        | 2.78%   |
-| 6.1.10  | 1        | 2.78%   |
-| 6.0.9   | 1        | 2.78%   |
-| 5.8.12  | 1        | 2.78%   |
-| 5.7.2   | 1        | 2.78%   |
-| 5.6.2   | 1        | 2.78%   |
-| 5.19.5  | 1        | 2.78%   |
-| 5.19.14 | 1        | 2.78%   |
-| 5.19.12 | 1        | 2.78%   |
-| 5.18.8  | 1        | 2.78%   |
-| 5.18.15 | 1        | 2.78%   |
-| 5.18.0  | 1        | 2.78%   |
-| 5.16.7  | 1        | 2.78%   |
-| 5.16.5  | 1        | 2.78%   |
-| 5.16.18 | 1        | 2.78%   |
-| 5.15.2  | 1        | 2.78%   |
-| 5.15.12 | 1        | 2.78%   |
-| 5.14.8  | 1        | 2.78%   |
-| 5.13.7  | 1        | 2.78%   |
-| 5.13.6  | 1        | 2.78%   |
-| 5.13.15 | 1        | 2.78%   |
-| 5.12.2  | 1        | 2.78%   |
-| 5.12.13 | 1        | 2.78%   |
-| 5.12.12 | 1        | 2.78%   |
-| 5.12.0  | 1        | 2.78%   |
+| 6.2.2   | 2        | 5.41%   |
+| 6.1.14  | 2        | 5.41%   |
+| 5.14.0  | 2        | 5.41%   |
+| 5.13.8  | 2        | 5.41%   |
+| 6.3.10  | 1        | 2.7%    |
+| 6.2.6   | 1        | 2.7%    |
+| 6.2.15  | 1        | 2.7%    |
+| 6.2.13  | 1        | 2.7%    |
+| 6.2.10  | 1        | 2.7%    |
+| 6.1.10  | 1        | 2.7%    |
+| 6.0.9   | 1        | 2.7%    |
+| 5.8.12  | 1        | 2.7%    |
+| 5.7.2   | 1        | 2.7%    |
+| 5.6.2   | 1        | 2.7%    |
+| 5.19.5  | 1        | 2.7%    |
+| 5.19.14 | 1        | 2.7%    |
+| 5.19.12 | 1        | 2.7%    |
+| 5.18.8  | 1        | 2.7%    |
+| 5.18.15 | 1        | 2.7%    |
+| 5.18.0  | 1        | 2.7%    |
+| 5.16.7  | 1        | 2.7%    |
+| 5.16.5  | 1        | 2.7%    |
+| 5.16.18 | 1        | 2.7%    |
+| 5.15.2  | 1        | 2.7%    |
+| 5.15.12 | 1        | 2.7%    |
+| 5.14.8  | 1        | 2.7%    |
+| 5.13.7  | 1        | 2.7%    |
+| 5.13.6  | 1        | 2.7%    |
+| 5.13.15 | 1        | 2.7%    |
+| 5.12.2  | 1        | 2.7%    |
+| 5.12.13 | 1        | 2.7%    |
+| 5.12.12 | 1        | 2.7%    |
+| 5.12.0  | 1        | 2.7%    |
 
 Kernel Major Ver.
 -----------------
@@ -328,19 +332,20 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 6.2     | 5        | 15.63%  |
-| 5.13    | 4        | 12.5%   |
-| 6.1     | 3        | 9.38%   |
-| 5.19    | 3        | 9.38%   |
-| 5.16    | 3        | 9.38%   |
-| 5.14    | 3        | 9.38%   |
-| 5.12    | 3        | 9.38%   |
-| 5.18    | 2        | 6.25%   |
-| 5.15    | 2        | 6.25%   |
-| 6.0     | 1        | 3.13%   |
-| 5.8     | 1        | 3.13%   |
-| 5.7     | 1        | 3.13%   |
-| 5.6     | 1        | 3.13%   |
+| 6.2     | 5        | 15.15%  |
+| 5.13    | 4        | 12.12%  |
+| 6.1     | 3        | 9.09%   |
+| 5.19    | 3        | 9.09%   |
+| 5.16    | 3        | 9.09%   |
+| 5.14    | 3        | 9.09%   |
+| 5.12    | 3        | 9.09%   |
+| 5.18    | 2        | 6.06%   |
+| 5.15    | 2        | 6.06%   |
+| 6.3     | 1        | 3.03%   |
+| 6.0     | 1        | 3.03%   |
+| 5.8     | 1        | 3.03%   |
+| 5.7     | 1        | 3.03%   |
+| 5.6     | 1        | 3.03%   |
 
 Arch
 ----
@@ -364,10 +369,10 @@ Desktop Environment
 
 | Name       | Desktops | Percent |
 |------------|----------|---------|
-| KDE5       | 12       | 75%     |
-| LXQt       | 2        | 12.5%   |
-| XFCE       | 1        | 6.25%   |
-| X-Cinnamon | 1        | 6.25%   |
+| KDE5       | 13       | 76.47%  |
+| LXQt       | 2        | 11.76%  |
+| XFCE       | 1        | 5.88%   |
+| X-Cinnamon | 1        | 5.88%   |
 
 Display Server
 --------------
@@ -379,9 +384,9 @@ X11 or Wayland
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| X11     | 13       | 86.67%  |
-| Wayland | 1        | 6.67%   |
-| Tty     | 1        | 6.67%   |
+| X11     | 13       | 81.25%  |
+| Wayland | 2        | 12.5%   |
+| Tty     | 1        | 6.25%   |
 
 Display Manager
 ---------------
@@ -406,12 +411,13 @@ Language
 ![OS Lang](./images/pie_chart/os_lang.svg)
 
 
-| Lang  | Desktops | Percent |
-|-------|----------|---------|
-| de_DE | 7        | 50%     |
-| en_US | 4        | 28.57%  |
-| it_IT | 2        | 14.29%  |
-| en_GB | 1        | 7.14%   |
+| Lang    | Desktops | Percent |
+|---------|----------|---------|
+| de_DE   | 7        | 46.67%  |
+| en_US   | 4        | 26.67%  |
+| it_IT   | 2        | 13.33%  |
+| en_GB   | 1        | 6.67%   |
+| Unknown | 1        | 6.67%   |
 
 Boot Mode
 ---------
@@ -735,25 +741,26 @@ Geographic location (city)
 
 | City           | Desktops | Percent |
 |----------------|----------|---------|
-| Berlin         | 2        | 10%     |
-| Vienna         | 1        | 5%      |
-| Stockholm      | 1        | 5%      |
-| Schrobenhausen | 1        | 5%      |
-| Savannah       | 1        | 5%      |
-| Sanford        | 1        | 5%      |
-| Salzburg       | 1        | 5%      |
-| Piea           | 1        | 5%      |
-| Papenburg      | 1        | 5%      |
-| Oranienburg    | 1        | 5%      |
-| Munich         | 1        | 5%      |
-| Merseburg      | 1        | 5%      |
-| Leipzig        | 1        | 5%      |
-| Kensington     | 1        | 5%      |
-| Innsbruck      | 1        | 5%      |
-| Graz           | 1        | 5%      |
-| Grafenau       | 1        | 5%      |
-| Ceppagna       | 1        | 5%      |
-| Amsterdam      | 1        | 5%      |
+| Berlin         | 2        | 9.52%   |
+| Vienna         | 1        | 4.76%   |
+| Unterbergla    | 1        | 4.76%   |
+| Stockholm      | 1        | 4.76%   |
+| Schrobenhausen | 1        | 4.76%   |
+| Savannah       | 1        | 4.76%   |
+| Sanford        | 1        | 4.76%   |
+| Salzburg       | 1        | 4.76%   |
+| Piea           | 1        | 4.76%   |
+| Papenburg      | 1        | 4.76%   |
+| Oranienburg    | 1        | 4.76%   |
+| Munich         | 1        | 4.76%   |
+| Merseburg      | 1        | 4.76%   |
+| Leipzig        | 1        | 4.76%   |
+| Kensington     | 1        | 4.76%   |
+| Innsbruck      | 1        | 4.76%   |
+| Graz           | 1        | 4.76%   |
+| Grafenau       | 1        | 4.76%   |
+| Ceppagna       | 1        | 4.76%   |
+| Amsterdam      | 1        | 4.76%   |
 
 Drives
 ------
@@ -775,12 +782,12 @@ Hard drive vendors
 | Samsung Electronics | 3        | 11     | 8.57%   |
 | Kingston            | 2        | 2      | 5.71%   |
 | Toshiba             | 1        | 1      | 2.86%   |
-| SK hynix            | 1        | 8      | 2.86%   |
+| SK hynix            | 1        | 9      | 2.86%   |
 | Silicon Motion      | 1        | 1      | 2.86%   |
 | OCZ                 | 1        | 3      | 2.86%   |
 | Mushkin             | 1        | 3      | 2.86%   |
 | Intel               | 1        | 3      | 2.86%   |
-| HGST                | 1        | 10     | 2.86%   |
+| HGST                | 1        | 11     | 2.86%   |
 | GRITRONIX           | 1        | 1      | 2.86%   |
 | Corsair             | 1        | 3      | 2.86%   |
 
@@ -808,7 +815,7 @@ Hard drive models
 | WDC WD BLACK SDBPNTY-512G-1106 512GB                | 1        | 2.27%   |
 | Toshiba RD400 256GB                                 | 1        | 2.27%   |
 | SK hynix SC308 SATA 128GB SSD                       | 1        | 2.27%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 1        | 2.27%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 512GB | 1        | 2.27%   |
 | Seagate ST9640320AS 640GB                           | 1        | 2.27%   |
 | Seagate ST6000DM003-2CY186 6TB                      | 1        | 2.27%   |
 | Seagate ST500LT012-1DG142 500GB                     | 1        | 2.27%   |
@@ -818,7 +825,7 @@ Hard drive models
 | Seagate ST3000VN000-1HJ166 3TB                      | 1        | 2.27%   |
 | Seagate ST2000DM008-2FR102 2TB                      | 1        | 2.27%   |
 | Seagate ST2000DL003-9VT166 2TB                      | 1        | 2.27%   |
-| SanDisk Ultra 3D NVMe 2TB                           | 1        | 2.27%   |
+| SanDisk Ultra 3D NVMe 500GB                         | 1        | 2.27%   |
 | SanDisk SD8TB8U256G1001 256GB SSD                   | 1        | 2.27%   |
 | SanDisk NVMe SSD Drive 1TB                          | 1        | 2.27%   |
 | Samsung SSD 870 EVO 4TB                             | 1        | 2.27%   |
@@ -847,7 +854,7 @@ Hard disk drive vendors
 |---------|----------|--------|---------|
 | WDC     | 7        | 17     | 50%     |
 | Seagate | 6        | 15     | 42.86%  |
-| HGST    | 1        | 10     | 7.14%   |
+| HGST    | 1        | 11     | 7.14%   |
 
 SSD Vendor
 ----------
@@ -863,7 +870,7 @@ Solid state drive vendors
 | Samsung Electronics | 3        | 11     | 21.43%  |
 | Kingston            | 2        | 2      | 14.29%  |
 | WDC                 | 1        | 1      | 7.14%   |
-| SK hynix            | 1        | 8      | 7.14%   |
+| SK hynix            | 1        | 9      | 7.14%   |
 | SanDisk             | 1        | 3      | 7.14%   |
 | OCZ                 | 1        | 3      | 7.14%   |
 | GRITRONIX           | 1        | 1      | 7.14%   |
@@ -878,8 +885,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 11       | 43     | 39.29%  |
-| HDD  | 10       | 42     | 35.71%  |
+| SSD  | 11       | 44     | 39.29%  |
+| HDD  | 10       | 43     | 35.71%  |
 | NVMe | 7        | 20     | 25%     |
 
 Drive Connector
@@ -892,7 +899,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 14       | 85     | 66.67%  |
+| SATA | 14       | 87     | 66.67%  |
 | NVMe | 7        | 20     | 33.33%  |
 
 Drive Size
@@ -905,7 +912,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 9        | 33     | 37.5%   |
+| 0.01-0.5   | 9        | 35     | 37.5%   |
 | 1.01-2.0   | 5        | 18     | 20.83%  |
 | 0.51-1.0   | 4        | 15     | 16.67%  |
 | 3.01-4.0   | 3        | 14     | 12.5%   |
@@ -960,11 +967,11 @@ Drive models with a malfunction
 | Model                               | Desktops | Drives | Percent |
 |-------------------------------------|----------|--------|---------|
 | WDC WD20EZRZ-00Z5HB0 2TB            | 1        | 6      | 14.29%  |
-| SK hynix SC308 SATA 128GB SSD       | 1        | 8      | 14.29%  |
+| SK hynix SC308 SATA 128GB SSD       | 1        | 9      | 14.29%  |
 | Seagate ST32000542AS 2TB            | 1        | 3      | 14.29%  |
 | Samsung Electronics SSD 870 EVO 4TB | 1        | 1      | 14.29%  |
 | OCZ VERTEX3 120GB SSD               | 1        | 3      | 14.29%  |
-| HGST HTS725050A7E630 500GB          | 1        | 10     | 14.29%  |
+| HGST HTS725050A7E630 500GB          | 1        | 11     | 14.29%  |
 | Crucial CT500MX500SSD1 500GB        | 1        | 1      | 14.29%  |
 
 Malfunc. Drive Vendor
@@ -978,11 +985,11 @@ Vendors of faulty drives
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 1        | 6      | 14.29%  |
-| SK hynix            | 1        | 8      | 14.29%  |
+| SK hynix            | 1        | 9      | 14.29%  |
 | Seagate             | 1        | 3      | 14.29%  |
 | Samsung Electronics | 1        | 1      | 14.29%  |
 | OCZ                 | 1        | 3      | 14.29%  |
-| HGST                | 1        | 10     | 14.29%  |
+| HGST                | 1        | 11     | 14.29%  |
 | Crucial             | 1        | 1      | 14.29%  |
 
 Malfunc. HDD Vendor
@@ -997,7 +1004,7 @@ Vendors of faulty HDD drives
 |---------|----------|--------|---------|
 | WDC     | 1        | 6      | 33.33%  |
 | Seagate | 1        | 3      | 33.33%  |
-| HGST    | 1        | 10     | 33.33%  |
+| HGST    | 1        | 11     | 33.33%  |
 
 Malfunc. Drive Kind
 -------------------
@@ -1009,8 +1016,8 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 4        | 13     | 57.14%  |
-| HDD  | 3        | 19     | 42.86%  |
+| SSD  | 4        | 14     | 57.14%  |
+| HDD  | 3        | 20     | 42.86%  |
 
 Failed Drives
 -------------
@@ -1037,7 +1044,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Works    | 12       | 64     | 60%     |
-| Malfunc  | 5        | 32     | 25%     |
+| Malfunc  | 5        | 34     | 25%     |
 | Detected | 3        | 9      | 15%     |
 
 Storage controller
@@ -1080,10 +1087,10 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                        | 2        | 7.41%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                 | 1        | 3.7%    |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 1        | 3.7%    |
-| SanDisk Non-Volatile memory controller                                        | 1        | 3.7%    |
+| SanDisk PC SN735 NVMe SSD (DRAM-less)                                         | 1        | 3.7%    |
 | Phison E7 NVMe Controller                                                     | 1        | 3.7%    |
 | OCZ Group RD400/400A SSD                                                      | 1        | 3.7%    |
-| Micron/Crucial P1 NVMe PCIe SSD                                               | 1        | 3.7%    |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                     | 1        | 3.7%    |
 | Intel SSD 660P Series                                                         | 1        | 3.7%    |
 | Intel SATA Controller [RAID mode]                                             | 1        | 3.7%    |
 | Intel Jasper Lake SATA AHCI Controller                                        | 1        | 3.7%    |
@@ -1382,7 +1389,7 @@ Monitor models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM021E 1680x1050 433x271mm 20.1-inch | 2        | 8.33%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 4.17%   |
+| STD HDMI TV STD00C7 1680x1050 698x392mm 31.5-inch                    | 1        | 4.17%   |
 | Sony SAMSUNG SNY5203 1920x540                                        | 1        | 4.17%   |
 | Samsung Electronics S27E590 SAM0C5D 1920x1080 598x336mm 27.0-inch    | 1        | 4.17%   |
 | Samsung Electronics S27E391 SAM0C15 1920x1080 598x336mm 27.0-inch    | 1        | 4.17%   |
@@ -1396,7 +1403,7 @@ Monitor models
 | Eizo EV3285 ENC2979 3840x2160 698x393mm 31.5-inch                    | 1        | 4.17%   |
 | Dell UP3216Q DEL40C2 3840x2160 700x400mm 31.7-inch                   | 1        | 4.17%   |
 | Dell U2414H DELA0B2 1920x1080 527x296mm 23.8-inch                    | 1        | 4.17%   |
-| BenQ LCD BNQ801E 3840x2160 596x335mm 26.9-inch                       | 1        | 4.17%   |
+| BenQ LCD BNQ801E 3840x2160 600x340mm 27.2-inch                       | 1        | 4.17%   |
 | ASUSTek Computer XG49V AUS49A1 3840x1080 1196x336mm 48.9-inch        | 1        | 4.17%   |
 | Acer X34 P ACR054F 3440x1440 798x335mm 34.1-inch                     | 1        | 4.17%   |
 | Acer KA220HQ ACR0497 1920x1080 477x268mm 21.5-inch                   | 1        | 4.17%   |
@@ -1759,8 +1766,8 @@ Sound card models
 | Intel Jasper Lake HD Audio                                      | 1        | 3.13%   |
 | Intel Comet Lake PCH cAVS                                       | 1        | 3.13%   |
 | Intel C610/X99 series chipset HD Audio Controller               | 1        | 3.13%   |
-| GN Netcom BTD-Q2                                                | 1        | 3.13%   |
-| Cambridge Silicon Radio FiiO BTR3K                              | 1        | 3.13%   |
+| GN Netcom Jabra Link 380                                        | 1        | 3.13%   |
+| Cambridge Silicon Radio B10                                     | 1        | 3.13%   |
 | C-Media Electronics CMI8738/CMI8768 PCI Audio                   | 1        | 3.13%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)               | 1        | 3.13%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                             | 1        | 3.13%   |
@@ -1949,7 +1956,7 @@ Camera device models
 | Microsoft LifeCam Cinema     | 1        | 16.67%  |
 | Logitech Webcam C270         | 1        | 16.67%  |
 | Logitech QuickCam Pro 9000   | 1        | 16.67%  |
-| A4Tech REDRAGON Live Camera  | 1        | 16.67%  |
+| A4Tech HD 720P PC Camera     | 1        | 16.67%  |
 
 Security
 --------

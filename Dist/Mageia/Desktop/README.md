@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 123
+Total: 124
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte | Z87X-UD5H-CF                | [6f489ed497](https://linux-hardware.org/?probe=6f489ed497) | Jul 20, 2023 |
 | ASUSTek  | TUF Gaming B550M-PLUS       | [a2b832afa2](https://linux-hardware.org/?probe=a2b832afa2) | Apr 30, 2023 |
 | Gigabyte | Z97-D3H-CF                  | [a62e386eae](https://linux-hardware.org/?probe=a62e386eae) | Apr 24, 2023 |
 | Gigabyte | Z97-D3H-CF                  | [bd9d832f72](https://linux-hardware.org/?probe=bd9d832f72) | Apr 23, 2023 |
@@ -1011,7 +1012,7 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 40       | 118    | 26.67%  |
+| WDC                 | 40       | 121    | 26.67%  |
 | Seagate             | 24       | 47     | 16%     |
 | Samsung Electronics | 20       | 26     | 13.33%  |
 | Kingston            | 9        | 17     | 6%      |
@@ -1102,7 +1103,7 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 34       | 101    | 41.46%  |
+| WDC                 | 34       | 104    | 41.46%  |
 | Seagate             | 23       | 41     | 28.05%  |
 | Toshiba             | 8        | 15     | 9.76%   |
 | Samsung Electronics | 5        | 9      | 6.1%    |
@@ -1150,7 +1151,7 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 55       | 178    | 52.88%  |
+| HDD     | 55       | 181    | 52.88%  |
 | SSD     | 37       | 88     | 35.58%  |
 | NVMe    | 10       | 22     | 9.62%   |
 | Unknown | 2        | 7      | 1.92%   |
@@ -1165,7 +1166,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 64       | 250    | 76.19%  |
+| SATA | 64       | 253    | 76.19%  |
 | SAS  | 10       | 23     | 11.9%   |
 | NVMe | 10       | 22     | 11.9%   |
 
@@ -1180,7 +1181,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 51       | 110    | 44.74%  |
-| 0.51-1.0   | 32       | 87     | 28.07%  |
+| 0.51-1.0   | 32       | 90     | 28.07%  |
 | 1.01-2.0   | 15       | 24     | 13.16%  |
 | 3.01-4.0   | 6        | 8      | 5.26%   |
 | 2.01-3.0   | 6        | 30     | 5.26%   |
@@ -1216,16 +1217,16 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 251-500        | 13       | 17.11%  |
-| 101-250        | 13       | 17.11%  |
-| 1001-2000      | 10       | 13.16%  |
-| 501-1000       | 10       | 13.16%  |
-| 51-100         | 10       | 13.16%  |
-| 1-20           | 8        | 10.53%  |
-| More than 3000 | 7        | 9.21%   |
-| 2001-3000      | 3        | 3.95%   |
-| 21-50          | 1        | 1.32%   |
-| Unknown        | 1        | 1.32%   |
+| 251-500        | 13       | 16.88%  |
+| 101-250        | 13       | 16.88%  |
+| 501-1000       | 11       | 14.29%  |
+| 1001-2000      | 10       | 12.99%  |
+| 51-100         | 10       | 12.99%  |
+| 1-20           | 8        | 10.39%  |
+| More than 3000 | 7        | 9.09%   |
+| 2001-3000      | 3        | 3.9%    |
+| 21-50          | 1        | 1.3%    |
+| Unknown        | 1        | 1.3%    |
 
 Malfunc. Drives
 ---------------
@@ -1323,7 +1324,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Detected | 33       | 137    | 42.31%  |
-| Works    | 32       | 141    | 41.03%  |
+| Works    | 32       | 144    | 41.03%  |
 | Malfunc  | 13       | 17     | 16.67%  |
 
 Storage controller
@@ -1821,48 +1822,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                   | 4        | 4.71%   |
-| Samsung Electronics LCD Monitor SAM07C5 1920x1080 700x390mm 31.5-inch | 2        | 2.35%   |
-| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                 | 2        | 2.35%   |
-| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch      | 2        | 2.35%   |
-| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch | 2        | 2.35%   |
-| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch         | 1        | 1.18%   |
-| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch           | 1        | 1.18%   |
-| ViewSonic LCD Monitor VP2468 Series 3520x1080                         | 1        | 1.18%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                 | 1        | 1.18%   |
-| Sony TV SNYF301 1920x1080                                             | 1        | 1.18%   |
-| Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                         | 1        | 1.18%   |
-| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                    | 1        | 1.18%   |
-| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch  | 1        | 1.18%   |
-| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch   | 1        | 1.18%   |
-| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch     | 1        | 1.18%   |
-| Samsung Electronics LS27A80 SAM7184 3840x2160 597x336mm 27.0-inch     | 1        | 1.18%   |
-| Samsung Electronics LCD Monitor S24D330 3840x1080                     | 1        | 1.18%   |
-| Samsung Electronics LCD Monitor S24D330                               | 1        | 1.18%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.18%   |
-| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                | 1        | 1.18%   |
-| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch              | 1        | 1.18%   |
-| PKB LCD Monitor Viseo223DX 1920x1080                                  | 1        | 1.18%   |
-| Philips PHL 436M6VBP PHLC179 3840x2160 941x529mm 42.5-inch            | 1        | 1.18%   |
-| Philips LCD Monitor FTV                                               | 1        | 1.18%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                    | 1        | 1.18%   |
-| Onkyo LCD Monitor TX-SR608 5760x2160                                  | 1        | 1.18%   |
-| Onkyo LCD Monitor TX-SR608                                            | 1        | 1.18%   |
-| Onkyo LCD Monitor AV Receiver 5760x2160                               | 1        | 1.18%   |
-| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                 | 1        | 1.18%   |
-| LG Electronics LCD Monitor LG HDR 4K 5760x2160                        | 1        | 1.18%   |
-| LG Electronics LCD Monitor LG FULL HD 1920x1080                       | 1        | 1.18%   |
-| LG Electronics LCD Monitor 23MB35 1920x1080                           | 1        | 1.18%   |
-| Insignia NS32DD200NA14 BBY0032 1680x1050 700x390mm 31.5-inch          | 1        | 1.18%   |
-| Iiyama PLX2483H IVM6114 1920x1080 531x299mm 24.0-inch                 | 1        | 1.18%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1        | 1.18%   |
-| Idek Iiyama LCD Monitor PLE2283H 1920x1080                            | 1        | 1.18%   |
-| Idek Iiyama LCD Monitor PLE2283H                                      | 1        | 1.18%   |
-| Idek Iiyama LCD Monitor PLE2200WSV                                    | 1        | 1.18%   |
-| Hewlett-Packard ZR2440w HWP2956 1920x1080 518x324mm 24.1-inch         | 1        | 1.18%   |
-| Hewlett-Packard w22 HWP26AE 1680x1050 470x300mm 22.0-inch             | 1        | 1.18%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                    | 4        | 4.71%   |
+| Samsung Electronics LCD Monitor SAM07C5 1920x1080 1210x680mm 54.6-inch | 2        | 2.35%   |
+| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                  | 2        | 2.35%   |
+| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch       | 2        | 2.35%   |
+| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch  | 2        | 2.35%   |
+| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch          | 1        | 1.18%   |
+| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch            | 1        | 1.18%   |
+| ViewSonic LCD Monitor VP2468 Series 3520x1080                          | 1        | 1.18%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                  | 1        | 1.18%   |
+| Sony TV SNYF301 1920x1080                                              | 1        | 1.18%   |
+| Sony TV SNYDC02 1920x1080 930x520mm 41.9-inch                          | 1        | 1.18%   |
+| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                     | 1        | 1.18%   |
+| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch   | 1        | 1.18%   |
+| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch    | 1        | 1.18%   |
+| Samsung Electronics S22D300 SAM0B3F 1920x1080 480x270mm 21.7-inch      | 1        | 1.18%   |
+| Samsung Electronics LS27A80 SAM7184 3840x2160 597x336mm 27.0-inch      | 1        | 1.18%   |
+| Samsung Electronics LCD Monitor S24D330 3840x1080                      | 1        | 1.18%   |
+| Samsung Electronics LCD Monitor S24D330                                | 1        | 1.18%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1        | 1.18%   |
+| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                 | 1        | 1.18%   |
+| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch               | 1        | 1.18%   |
+| PKB LCD Monitor Viseo223DX 1920x1080                                   | 1        | 1.18%   |
+| Philips PHL 436M6VBP PHLC179 3840x2160 940x530mm 42.5-inch             | 1        | 1.18%   |
+| Philips LCD Monitor FTV                                                | 1        | 1.18%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1        | 1.18%   |
+| Onkyo LCD Monitor TX-SR608 5760x2160                                   | 1        | 1.18%   |
+| Onkyo LCD Monitor TX-SR608                                             | 1        | 1.18%   |
+| Onkyo LCD Monitor AV Receiver 5760x2160                                | 1        | 1.18%   |
+| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                  | 1        | 1.18%   |
+| LG Electronics LCD Monitor LG HDR 4K 5760x2160                         | 1        | 1.18%   |
+| LG Electronics LCD Monitor LG FULL HD 1920x1080                        | 1        | 1.18%   |
+| LG Electronics LCD Monitor 23MB35 1920x1080                            | 1        | 1.18%   |
+| Insignia BBY LCD BBY0032 1920x540                                      | 1        | 1.18%   |
+| Iiyama PLX2483H IVM6114 1920x1080 531x299mm 24.0-inch                  | 1        | 1.18%   |
+| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                  | 1        | 1.18%   |
+| Idek Iiyama LCD Monitor PLE2283H 1920x1080                             | 1        | 1.18%   |
+| Idek Iiyama LCD Monitor PLE2283H                                       | 1        | 1.18%   |
+| Idek Iiyama LCD Monitor PLE2200WSV                                     | 1        | 1.18%   |
+| Hewlett-Packard ZR2440w HWP2956 1920x1080 518x324mm 24.1-inch          | 1        | 1.18%   |
+| Hewlett-Packard w22 HWP26AE 1680x1050 470x300mm 22.0-inch              | 1        | 1.18%   |
 
 Monitor Resolution
 ------------------
@@ -2412,48 +2413,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                       | 2        | 4.65%   |
-| Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 3334MT/s            | 2        | 4.65%   |
-| G.Skill RAM F3-12800CL9-4GBXM 4096MB DIMM DDR3 1600MT/s        | 2        | 4.65%   |
-| Unknown RAM Module 8GB DIMM 1333MT/s                           | 1        | 2.33%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 2.33%   |
-| Unknown RAM Module 4GB DIMM 667MT/s                            | 1        | 2.33%   |
-| Unknown RAM Module 4096MB DIMM 667MT/s                         | 1        | 2.33%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 1        | 2.33%   |
-| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                      | 1        | 2.33%   |
-| Unknown RAM Module 2GB DIMM 667MT/s                            | 1        | 2.33%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                   | 1        | 2.33%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1        | 2.33%   |
-| Unknown RAM Module 2048MB DIMM 667MT/s                         | 1        | 2.33%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 2.33%   |
-| Team RAM Elite-16 8GB DIMM DDR3 1600MT/s                       | 1        | 2.33%   |
-| Team RAM Elite-1333 4GB DIMM 1333MT/s                          | 1        | 2.33%   |
-| Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3600MT/s           | 1        | 2.33%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 2.33%   |
-| Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
-| Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s            | 1        | 2.33%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s           | 1        | 2.33%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s              | 1        | 2.33%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s              | 1        | 2.33%   |
-| Kingston RAM KHX2133C11D3/8GX 8GB DIMM DDR3 2133MT/s           | 1        | 2.33%   |
-| Kingston RAM KHX1600C9D3/8G 8GB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
-| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s           | 1        | 2.33%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 1        | 2.33%   |
-| Kingston RAM 99U5584-009.A00LF 4096MB DIMM DDR3 1600MT/s       | 1        | 2.33%   |
-| Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2400MT/s           | 1        | 2.33%   |
-| Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s         | 1        | 2.33%   |
-| Kingston RAM 9905403-439.A00LF 4GB DIMM DDR3 1600MT/s          | 1        | 2.33%   |
-| GOODRAM RAM GY1600D364L10/8G 8GB DIMM DDR3 1600MT/s            | 1        | 2.33%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s          | 1        | 2.33%   |
-| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s             | 1        | 2.33%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s            | 1        | 2.33%   |
-| G.Skill RAM F4-2133C15-8GNT 8GB DIMM DDR4 2133MT/s             | 1        | 2.33%   |
-| Crucial RAM CT51264BA1339.D16F 4GB DIMM DDR3 1333MT/s          | 1        | 2.33%   |
-| Corsair RAM CMZ32GX3M4A1600C9 8GB DIMM DDR3 1600MT/s           | 1        | 2.33%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s          | 1        | 2.33%   |
-| Corsair RAM CMSO8GX4M1A2133C15 8GB SODIMM DDR4 2133MT/s        | 1        | 2.33%   |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                          | 2        | 4.65%   |
+| Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 3334MT/s               | 2        | 4.65%   |
+| G.Skill RAM F3-12800CL9-4GBXM 4096MB DIMM DDR3 1600MT/s           | 2        | 4.65%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                              | 1        | 2.33%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                         | 1        | 2.33%   |
+| Unknown RAM Module 4GB DIMM 667MT/s                               | 1        | 2.33%   |
+| Unknown RAM Module 4096MB DIMM 667MT/s                            | 1        | 2.33%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                           | 1        | 2.33%   |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                         | 1        | 2.33%   |
+| Unknown RAM Module 2GB DIMM 667MT/s                               | 1        | 2.33%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                      | 1        | 2.33%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 1        | 2.33%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                            | 1        | 2.33%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 2.33%   |
+| Team RAM Elite-16 8GB DIMM DDR3 1600MT/s                          | 1        | 2.33%   |
+| Team RAM Elite-1333 4GB DIMM 1333MT/s                             | 1        | 2.33%   |
+| Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3600MT/s              | 1        | 2.33%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s               | 1        | 2.33%   |
+| Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1600MT/s                | 1        | 2.33%   |
+| Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s               | 1        | 2.33%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s              | 1        | 2.33%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s                 | 1        | 2.33%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s                 | 1        | 2.33%   |
+| Kingston RAM KHX2133C11D3/8GX 8GB DIMM DDR3 2133MT/s              | 1        | 2.33%   |
+| Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
+| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s              | 1        | 2.33%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s               | 1        | 2.33%   |
+| Kingston RAM 99U5584-009.A00LF 4096MB DIMM DDR3 1600MT/s          | 1        | 2.33%   |
+| Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2400MT/s              | 1        | 2.33%   |
+| Kingston RAM 9905624-054.A00G 8GB SODIMM DDR4 2400MT/s            | 1        | 2.33%   |
+| Kingston RAM 9905403-439.A00LF 4GB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
+| GOODRAM RAM GY1600D364L10/8G 8GB DIMM DDR3 1600MT/s               | 1        | 2.33%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s                | 1        | 2.33%   |
+| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s                | 1        | 2.33%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s               | 1        | 2.33%   |
+| G.Skill RAM F4-2133C15-8GNT 8GB DIMM DDR4 2133MT/s                | 1        | 2.33%   |
+| Crucial RAM CT51264BA1339.D16F 4GB DIMM DDR3 1333MT/s             | 1        | 2.33%   |
+| Corsair RAM CMZ32GX3M4A1600C9 8GB DIMM DDR3 1600MT/s              | 1        | 2.33%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s             | 1        | 2.33%   |
+| Corsair RAM CMSO8GX4M1A2133C15 8GB SODIMM DDR4 2133MT/s           | 1        | 2.33%   |
 
 Memory Kind
 -----------
@@ -2619,7 +2620,7 @@ Camera device models
 | Microdia Camera                    | 2        | 15.38%  |
 | WaveRider USB 2.0 Camera           | 1        | 7.69%   |
 | Sunplus IT AUKEY PC-LM1 USB Camera | 1        | 7.69%   |
-| Sunplus Full HD webcam             | 1        | 7.69%   |
+| Sunplus papalook AF 925            | 1        | 7.69%   |
 | Microsoft LifeCam VX-800           | 1        | 7.69%   |
 | Microsoft LifeCam HD-3000          | 1        | 7.69%   |
 | Microdia Sonix USB 2.0 Camera      | 1        | 7.69%   |

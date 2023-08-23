@@ -700,7 +700,7 @@ Hard drive models
 | Kingston SKC600256G 256GB SSD   | 1        | 5.56%   |
 | Intenso SSD 128GB               | 1        | 5.56%   |
 | Intenso SSD 120GB               | 1        | 5.56%   |
-| ASMT 2235 128GB                 | 1        | 5.56%   |
+| ASMT 2235 500GB                 | 1        | 5.56%   |
 
 HDD Vendor
 ----------
@@ -1204,7 +1204,7 @@ Monitor models
 | PRI Prima TV PRI1600 1920x1080                                       | 1        | 9.09%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 1        | 9.09%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch               | 1        | 9.09%   |
-| Dell P2213 DELF042 1680x1050 470x300mm 22.0-inch                     | 1        | 9.09%   |
+| Dell P2213 DELF042 1680x1050 473x296mm 22.0-inch                     | 1        | 9.09%   |
 | AOC 2050W AOC2050 1600x900 432x240mm 19.5-inch                       | 1        | 9.09%   |
 
 Monitor Resolution
@@ -1752,8 +1752,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 6        | 54.55%  |
-| 1     | 4        | 36.36%  |
+| 0     | 7        | 63.64%  |
+| 1     | 3        | 27.27%  |
 | 2     | 1        | 9.09%   |
 
 Unsupported Device Types
@@ -1766,7 +1766,7 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Net/wireless  | 2        | 40%     |
-| Graphics card | 2        | 40%     |
-| Bluetooth     | 1        | 20%     |
+| Net/wireless  | 2        | 50%     |
+| Graphics card | 1        | 25%     |
+| Bluetooth     | 1        | 25%     |
 

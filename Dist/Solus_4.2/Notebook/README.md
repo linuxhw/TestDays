@@ -674,7 +674,7 @@ Hard drive models
 
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
-| WDC WDS120G2G0A-00JH30 128GB SSD         | 1         | 5.56%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 5.56%   |
 | WDC WD2500BEVT-22A23T0 250GB             | 1         | 5.56%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 5.56%   |
 | WDC WD10JPVX-22JC3T0 1TB                 | 1         | 5.56%   |
@@ -690,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -1181,13 +1181,13 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 6.67%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 6.67%   |
-| BenQ GL2460 BNQ78CE 1920x1080 530x300mm 24.0-inch                    | 1         | 6.67%   |
+| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 6.67%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 6.67%   |
@@ -1632,10 +1632,10 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 32768 | 1         | 25%     |
-| 8192  | 1         | 25%     |
-| 4096  | 1         | 25%     |
-| 2048  | 1         | 25%     |
+| 8192  | 2         | 40%     |
+| 32768 | 1         | 20%     |
+| 4096  | 1         | 20%     |
+| 2048  | 1         | 20%     |
 
 Memory Speed
 ------------

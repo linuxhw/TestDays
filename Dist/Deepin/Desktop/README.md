@@ -1010,7 +1010,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB         | 1        | 0.85%   |
 | WDC WD10EARS-00Y5B1 1TB          | 1        | 0.85%   |
 | Vaseky V800/256G 256GB SSD       | 1        | 0.85%   |
-| Unknown SD/MMC/MS PRO 250GB      | 1        | 0.85%   |
+| Unknown SD/MMC/MS PRO 128GB      | 1        | 0.85%   |
 | Toshiba MQ01ABF050 500GB         | 1        | 0.85%   |
 | Toshiba MQ01ABD075 752GB         | 1        | 0.85%   |
 | Toshiba MK8052GSX 80GB           | 1        | 0.85%   |
@@ -1029,15 +1029,16 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 18       | 23     | 34.62%  |
-| Seagate             | 16       | 19     | 30.77%  |
-| Toshiba             | 8        | 9      | 15.38%  |
-| Hitachi             | 3        | 3      | 5.77%   |
-| Samsung Electronics | 2        | 2      | 3.85%   |
-| Maxtor              | 2        | 4      | 3.85%   |
-| Unknown             | 1        | 2      | 1.92%   |
-| Maxtor 6            | 1        | 1      | 1.92%   |
-| Hewlett-Packard     | 1        | 2      | 1.92%   |
+| WDC                 | 18       | 23     | 33.96%  |
+| Seagate             | 16       | 19     | 30.19%  |
+| Toshiba             | 8        | 9      | 15.09%  |
+| Hitachi             | 3        | 3      | 5.66%   |
+| Samsung Electronics | 2        | 2      | 3.77%   |
+| Maxtor              | 2        | 4      | 3.77%   |
+| Unknown             | 1        | 2      | 1.89%   |
+| Maxtor 6            | 1        | 1      | 1.89%   |
+| JMicron Technology  | 1        | 1      | 1.89%   |
+| Hewlett-Packard     | 1        | 2      | 1.89%   |
 
 SSD Vendor
 ----------
@@ -1074,10 +1075,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 40       | 65     | 45.45%  |
-| SSD     | 32       | 54     | 36.36%  |
-| NVMe    | 15       | 17     | 17.05%  |
-| Unknown | 1        | 2      | 1.14%   |
+| HDD     | 40       | 66     | 45.98%  |
+| SSD     | 32       | 54     | 36.78%  |
+| NVMe    | 14       | 16     | 16.09%  |
+| Unknown | 1        | 2      | 1.15%   |
 
 Drive Connector
 ---------------
@@ -1104,8 +1105,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 43       | 77     | 57.33%  |
-| 0.51-1.0   | 25       | 32     | 33.33%  |
-| 1.01-2.0   | 7        | 10     | 9.33%   |
+| 0.51-1.0   | 26       | 34     | 34.67%  |
+| 1.01-2.0   | 6        | 9      | 8%      |
 
 Space Total
 -----------
@@ -1294,7 +1295,7 @@ Storage controller models
 | Intel 400 Series Chipset Family SATA AHCI Controller                                    | 5        | 5.21%   |
 | AMD FCH SATA Controller [AHCI mode]                                                     | 5        | 5.21%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 4        | 4.17%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 3        | 3.13%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 3        | 3.13%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 3        | 3.13%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 3        | 3.13%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 3        | 3.13%   |
@@ -1309,13 +1310,13 @@ Storage controller models
 | Silicon Motion SM2262/SM2262EN SSD Controller                                           | 1        | 1.04%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.04%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 1        | 1.04%   |
-| Samsung Electronics Non-Volatile memory controller                                      | 1        | 1.04%   |
+| Samsung NVMe SSD Controller S4LV008[Pascal]                                             | 1        | 1.04%   |
 | Realtek RTS5763DL NVMe SSD Controller                                                   | 1        | 1.04%   |
 | Phison PS5013 E13 NVMe Controller                                                       | 1        | 1.04%   |
 | Phison E16 PCIe4 NVMe Controller                                                        | 1        | 1.04%   |
 | Nvidia MCP61 SATA Controller                                                            | 1        | 1.04%   |
 | Nvidia MCP61 IDE                                                                        | 1        | 1.04%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                                         | 1        | 1.04%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                    | 1        | 1.04%   |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 1.04%   |
 | Marvell Group 88SE9123 PCIe SATA 6.0 Gb/s controller                                    | 1        | 1.04%   |
 | Marvell Group 88SE6111/6121 SATA II / PATA Controller                                   | 1        | 1.04%   |
@@ -1732,7 +1733,7 @@ Monitor models
 | Xiaomi Mi TV XMD0076 3840x2160 800x450mm 36.1-inch                    | 1        | 1.59%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch            | 1        | 1.59%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.59%   |
-| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                       | 1        | 1.59%   |
+| Toshiba TV TSB0108 1360x768 930x523mm 42.0-inch                       | 1        | 1.59%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                      | 1        | 1.59%   |
 | SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                       | 1        | 1.59%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.59%   |
@@ -1764,7 +1765,7 @@ Monitor models
 | Hewlett-Packard 2511 HWP293E 1920x1080 550x310mm 24.9-inch            | 1        | 1.59%   |
 | Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch            | 1        | 1.59%   |
 | Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch            | 1        | 1.59%   |
-| Goldstar M227WD GSM56D4 1920x1080 480x270mm 21.7-inch                 | 1        | 1.59%   |
+| Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                 | 1        | 1.59%   |
 | Goldstar L196WTQ GSM4B50 1440x900 408x255mm 18.9-inch                 | 1        | 1.59%   |
 | Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch             | 1        | 1.59%   |
 
@@ -1977,8 +1978,8 @@ Controller models
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.1%    |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.1%    |
 | NetGear A6210                                                     | 1        | 1.1%    |
+| MediaTek Titan pocket                                             | 1        | 1.1%    |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 1.1%    |
-| MediaTek Armor X10 Pro                                            | 1        | 1.1%    |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.1%    |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.1%    |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.1%    |
@@ -2087,7 +2088,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.49%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.49%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.49%   |
-| MediaTek Armor X10 Pro                                            | 1        | 1.49%   |
+| MediaTek Titan pocket                                             | 1        | 1.49%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.49%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.49%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.49%   |
@@ -2329,7 +2330,7 @@ Memory module models
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s         | 1        | 2.86%   |
 | Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 2.86%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.86%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.86%   |
+| Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1        | 2.86%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 2.86%   |
 | Samsung RAM M378B1G73DB0-CK0 8GB DIMM DDR3 2133MT/s        | 1        | 2.86%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s        | 1        | 2.86%   |
@@ -2511,7 +2512,7 @@ Camera device models
 | Generalplus GENERAL WEBCAM            | 1        | 9.09%   |
 | Chicony HP High Definition 1MP Webcam | 1        | 9.09%   |
 | Arkmicro USB2.0 PC CAMERA             | 1        | 9.09%   |
-| 2M UVC CAMERA NexiGo N660 FHD Webcam  | 1        | 9.09%   |
+| 2M UVC CAMERA Web Camera              | 1        | 9.09%   |
 
 Security
 --------
@@ -2557,8 +2558,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 52       | 88.14%  |
-| 1     | 6        | 10.17%  |
+| 0     | 53       | 89.83%  |
+| 1     | 5        | 8.47%   |
 | 2     | 1        | 1.69%   |
 
 Unsupported Device Types
@@ -2571,6 +2572,6 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Net/wireless  | 4        | 50%     |
-| Graphics card | 4        | 50%     |
+| Net/wireless  | 4        | 57.14%  |
+| Graphics card | 3        | 42.86%  |
 

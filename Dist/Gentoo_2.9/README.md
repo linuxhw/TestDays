@@ -1035,8 +1035,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 130       | 81.25%  |
-| Yes       | 30        | 18.75%  |
+| No        | 131       | 81.88%  |
+| Yes       | 29        | 18.13%  |
 
 Has Ethernet
 ------------
@@ -1246,20 +1246,20 @@ Hard drive models
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB   | 29        | 8.87%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB    | 15        | 4.59%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB   | 29        | 8.87%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 15        | 4.59%   |
 | Seagate ST2000DM008-2FR102 2TB                        | 6         | 1.83%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB                    | 4         | 1.22%   |
+| Sandisk WD Blue SN550 NVMe SSD 250GB                  | 4         | 1.22%   |
 | Samsung SSD 860 EVO 500GB                             | 4         | 1.22%   |
 | Samsung SSD 860 EVO 1TB                               | 4         | 1.22%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963 256GB   | 4         | 1.22%   |
 | Phison E16 PCIe4 NVMe Controller 1TB                  | 4         | 1.22%   |
-| Intel SSD 660P Series 512GB                           | 4         | 1.22%   |
+| Intel SSD 660P Series 1024GB                          | 4         | 1.22%   |
 | WDC WD30EFRX-68EUZN0 3TB                              | 3         | 0.92%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 3         | 0.92%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 500GB | 3         | 0.92%   |
 | Seagate ST1000DM010-2EP102 1TB                        | 3         | 0.92%   |
 | Samsung SSD 980 1TB                                   | 3         | 0.92%   |
-| Phison PS5013 E13 NVMe Controller 512GB               | 3         | 0.92%   |
+| Phison PS5013 E13 NVMe Controller 256GB               | 3         | 0.92%   |
 | China SSD 1TB                                         | 3         | 0.92%   |
 | WDC WDS200T2B0B-00YS70 2TB SSD                        | 2         | 0.61%   |
 | WDC WD6003FZBX-00K5WB0 6TB                            | 2         | 0.61%   |
@@ -1278,13 +1278,13 @@ Hard drive models
 | Samsung SSD 860 PRO 1TB                               | 2         | 0.61%   |
 | Samsung SSD 860 EVO 250GB                             | 2         | 0.61%   |
 | Samsung SSD 850 EVO 500GB                             | 2         | 0.61%   |
-| Phison E12 NVMe Controller 1TB                        | 2         | 0.61%   |
-| Micron/Crucial P2 NVMe PCIe SSD 4TB                   | 2         | 0.61%   |
+| Phison E12 NVMe Controller 2TB                        | 2         | 0.61%   |
+| Micron/Crucial P2 NVMe PCIe SSD 1TB                   | 2         | 0.61%   |
 | Kingston SA400S37240G 240GB SSD                       | 2         | 0.61%   |
 | HGST HTS721010A9E630 1TB                              | 2         | 0.61%   |
 | GOODRAM SSDPR-CL100-480-G2 480GB                      | 2         | 0.61%   |
 | Yangtze Memory ZHITAI TiPlus5000 1TB                  | 1         | 0.31%   |
-| XPG GAMMIX S70 2TB                                    | 1         | 0.31%   |
+| XPG GAMMIX S70 1TB                                    | 1         | 0.31%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                      | 1         | 0.31%   |
 
 HDD Vendor
@@ -1384,8 +1384,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 56        | 96     | 33.53%  |
-| 0.51-1.0   | 47        | 62     | 28.14%  |
-| 1.01-2.0   | 27        | 56     | 16.17%  |
+| 0.51-1.0   | 50        | 66     | 29.94%  |
+| 1.01-2.0   | 24        | 52     | 14.37%  |
 | 3.01-4.0   | 11        | 19     | 6.59%   |
 | 2.01-3.0   | 10        | 36     | 5.99%   |
 | 4.01-10.0  | 10        | 22     | 5.99%   |
@@ -1459,9 +1459,9 @@ Drive models with a malfunction
 | Samsung Electronics SSD 980 1TB                                 | 1         | 1      | 4%      |
 | Samsung Electronics SP2504C 250GB                               | 1         | 1      | 4%      |
 | Samsung Electronics PM9A1 NVMe 2048GB                           | 1         | 1      | 4%      |
-| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 2      | 4%      |
-| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 1         | 2      | 4%      |
-| Realtek Semiconductor RTS5763DL NVMe SSD Controller 512GB       | 1         | 1      | 4%      |
+| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 500GB | 1         | 2      | 4%      |
+| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 1         | 2      | 4%      |
+| Realtek Semiconductor RTS5763DL NVMe SSD Controller 1TB         | 1         | 1      | 4%      |
 | Realtek Semiconductor ADATA SX6000PNP 256GB                     | 1         | 4      | 4%      |
 | OCZ VERTEX4 256GB SSD                                           | 1         | 1      | 4%      |
 | Kingston Technology Company KC2000 NVMe SSD 1TB                 | 1         | 1      | 4%      |
@@ -1617,9 +1617,9 @@ Storage controller models
 | Intel C610/X99 series chipset sSATA Controller [AHCI mode]                     | 4         | 1.38%   |
 | Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]               | 4         | 1.38%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 4         | 1.38%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 3         | 1.04%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 3         | 1.04%   |
 | Phison PS5013 E13 NVMe Controller                                              | 3         | 1.04%   |
-| KIOXIA NVMe SSD Controller BG4                                                 | 3         | 1.04%   |
+| KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 3         | 1.04%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 3         | 1.04%   |
 | Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                             | 3         | 1.04%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 3         | 1.04%   |
@@ -1631,13 +1631,13 @@ Storage controller models
 | SK hynix Platinum P41/PC801 NVMe Solid State Drive                             | 2         | 0.69%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 2         | 0.69%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2         | 0.69%   |
-| SanDisk Non-Volatile memory controller                                         | 2         | 0.69%   |
 | Phison E12 NVMe Controller                                                     | 2         | 0.69%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                                | 2         | 0.69%   |
-| Micron 2450 NVMe SSD (DRAM-less)                                               | 2         | 0.69%   |
-| Kingston Company Company Non-Volatile memory controller                        | 2         | 0.69%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 2         | 0.69%   |
+| Micron 2450 NVMe SSD [HendrixV] (DRAM-less)                                    | 2         | 0.69%   |
 | JMicron JMB363 SATA/IDE Controller                                             | 2         | 0.69%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 0.69%   |
+| Intel SSD 670p Series [Keystone Harbor]                                        | 2         | 0.69%   |
+| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 2         | 0.69%   |
 
 Storage Kind
 ------------
@@ -1649,10 +1649,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 112       | 45.34%  |
-| NVMe | 108       | 43.72%  |
-| RAID | 13        | 5.26%   |
-| IDE  | 12        | 4.86%   |
+| SATA | 112       | 45.53%  |
+| NVMe | 108       | 43.9%   |
+| RAID | 12        | 4.88%   |
+| IDE  | 12        | 4.88%   |
 | SAS  | 2         | 0.81%   |
 
 Processor
@@ -2110,7 +2110,7 @@ Monitor models
 | Philips PHL 221V8 PHLC211 1920x1080 477x268mm 21.5-inch                | 2         | 1.1%    |
 | Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch           | 2         | 1.1%    |
 | Hewlett-Packard 22es HWP331B 1920x1080 476x268mm 21.5-inch             | 2         | 1.1%    |
-| Goldstar LG ULTRAWIDE GSM59F2 2560x1080 800x340mm 34.2-inch            | 2         | 1.1%    |
+| Goldstar ULTRAWIDE GSM59F2 2560x1080 798x334mm 34.1-inch               | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO80ED 1920x1080 344x193mm 15.5-inch         | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch         | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO243D 1920x1080 309x173mm 13.9-inch         | 2         | 1.1%    |
@@ -2127,7 +2127,7 @@ Monitor models
 | Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch                | 1         | 0.55%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch                | 1         | 0.55%   |
 | Sharp LCD Monitor SHP1551 3840x2400 288x180mm 13.4-inch                | 1         | 0.55%   |
-| Sharp LCD Monitor SHP14D6 3840x2400 370x230mm 17.2-inch                | 1         | 0.55%   |
+| Sharp LCD Monitor SHP14D6 3840x2400 366x229mm 17.0-inch                | 1         | 0.55%   |
 | Sharp LCD Monitor SHP148D 3840x2160 344x194mm 15.5-inch                | 1         | 0.55%   |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch                | 1         | 0.55%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch      | 1         | 0.55%   |
@@ -2141,7 +2141,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch   | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor LC34G55T 3440x2880                     | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor LC34G55T                               | 1         | 0.55%   |
-| Samsung Electronics LC49G95T SAM7053 2560x1440 1193x336mm 48.8-inch    | 1         | 0.55%   |
+| Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 1         | 0.55%   |
 | Samsung Electronics LC24RG50 SAM0F90 1920x1080 532x304mm 24.1-inch     | 1         | 0.55%   |
 | Samsung Electronics C32JG5x SAM0F73 1920x1080 698x393mm 31.5-inch      | 1         | 0.55%   |
 
@@ -2674,7 +2674,7 @@ Controller models
 | Apple Bluetooth USB Host Controller                                  | 2         | 1.83%   |
 | Apple Bluetooth Host Controller                                      | 2         | 1.83%   |
 | USI Bluetooth Device                                                 | 1         | 0.92%   |
-| Realtek Bluetooth Radio                                              | 1         | 0.92%   |
+| Realtek 802.11ac WLAN Adapter                                        | 1         | 0.92%   |
 | Lite-On Wireless_Device                                              | 1         | 0.92%   |
 | Intel Wireless-AC 3168 Bluetooth                                     | 1         | 0.92%   |
 | IMC Networks Bluetooth module                                        | 1         | 0.92%   |
@@ -2710,13 +2710,13 @@ Sound card vendors
 | Texas Instruments                    | 2         | 0.81%   |
 | JMTek                                | 2         | 0.81%   |
 | Focusrite-Novation                   | 2         | 0.81%   |
-| DSEA A/S                             | 2         | 0.81%   |
 | Corsair                              | 2         | 0.81%   |
 | ASUSTek Computer                     | 2         | 0.81%   |
 | Thesycon Systemsoftware & Consulting | 1         | 0.41%   |
 | Sony                                 | 1         | 0.41%   |
 | Solid State Logic                    | 1         | 0.41%   |
 | Silicon Integrated Systems [SiS]     | 1         | 0.41%   |
+| Sennheiser Communications            | 1         | 0.41%   |
 | Samson Technologies                  | 1         | 0.41%   |
 | Razer USA                            | 1         | 0.41%   |
 | No brand                             | 1         | 0.41%   |
@@ -2725,6 +2725,7 @@ Sound card vendors
 | Hewlett-Packard                      | 1         | 0.41%   |
 | GN Netcom                            | 1         | 0.41%   |
 | EGO SYStems                          | 1         | 0.41%   |
+| DSEA A/S                             | 1         | 0.41%   |
 | Clavia DMI AB                        | 1         | 0.41%   |
 | Blue Microphones                     | 1         | 0.41%   |
 | BEHRINGER International              | 1         | 0.41%   |
@@ -2845,16 +2846,16 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR                                | 1         | 0.57%   |
 | Unknown RAM Module 1GB DIMM DDR2                                 | 1         | 0.57%   |
 | Unknown RAM Module 16GB DIMM DDR3 1333MT/s                       | 1         | 0.57%   |
-| Unknown (ABCD) RAM 123456789012345678 3GB SODIMM LPDDR4 2400MT/s | 1         | 0.57%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 0.57%   |
 | Transcend RAM Module 4GB SODIMM DDR3 1333MT/s                    | 1         | 0.57%   |
 | Timetec RAM SD4-3200 16GB SODIMM DDR4 3200MT/s                   | 1         | 0.57%   |
 | Timetec RAM SD4-2400 8GB SODIMM DDR4 2400MT/s                    | 1         | 0.57%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s               | 1         | 0.57%   |
-| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s             | 1         | 0.57%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3733MT/s              | 1         | 0.57%   |
+| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s            | 1         | 0.57%   |
 | SK hynix RAM Module 4GB Row Of Chips LPDDR4 3733MT/s             | 1         | 0.57%   |
 | SK hynix RAM Module 2GB Row Of Chips LPDDR4 4267MT/s             | 1         | 0.57%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 0.57%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4096MB DIMM DDR3 1600MT/s          | 1         | 0.57%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s             | 1         | 0.57%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.57%   |
 | SK hynix RAM HMCG78MEBSA092N 16GB SODIMM DDR5 4800MT/s           | 1         | 0.57%   |
 | SK hynix RAM HMAA4GS6CJR8N-XN 32GB SODIMM DDR4 3200MT/s          | 1         | 0.57%   |
@@ -2862,7 +2863,7 @@ Memory module models
 | SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 1         | 0.57%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 1         | 0.57%   |
 | SK hynix RAM HMA84GR7MFR4N-UH 32GB DIMM DDR4 2400MT/s            | 1         | 0.57%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8192MB SODIMM DDR4 2667MT/s        | 1         | 0.57%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 0.57%   |
 | SK hynix RAM HMA42GR7AFR4N-TF 16GB DIMM DDR4 2133MT/s            | 1         | 0.57%   |
 | SK hynix RAM H9JCNNNFA5MLYR-N6E 8GB SODIMM LPDDR5 6400MT/s       | 1         | 0.57%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2400MT/s                      | 1         | 0.57%   |
@@ -2915,8 +2916,8 @@ Memory module size
 | Size  | Computers | Percent |
 |-------|-----------|---------|
 | 16384 | 57        | 35.63%  |
-| 8192  | 48        | 30%     |
-| 4096  | 28        | 17.5%   |
+| 8192  | 49        | 30.63%  |
+| 4096  | 27        | 16.88%  |
 | 32768 | 13        | 8.13%   |
 | 2048  | 10        | 6.25%   |
 | 1024  | 2         | 1.25%   |
@@ -2932,25 +2933,26 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 3200    | 39        | 24.22%  |
-| 2667    | 25        | 15.53%  |
-| 1600    | 12        | 7.45%   |
-| 3600    | 11        | 6.83%   |
-| 2133    | 10        | 6.21%   |
-| 6400    | 7         | 4.35%   |
-| 2400    | 7         | 4.35%   |
-| 1333    | 5         | 3.11%   |
-| 4800    | 4         | 2.48%   |
-| 3800    | 4         | 2.48%   |
-| 667     | 4         | 2.48%   |
-| 8400    | 2         | 1.24%   |
-| 3733    | 2         | 1.24%   |
-| 3400    | 2         | 1.24%   |
-| 3266    | 2         | 1.24%   |
-| 3000    | 2         | 1.24%   |
-| 2933    | 2         | 1.24%   |
-| 1334    | 2         | 1.24%   |
-| Unknown | 2         | 1.24%   |
+| 3200    | 39        | 24.07%  |
+| 2667    | 25        | 15.43%  |
+| 1600    | 12        | 7.41%   |
+| 3600    | 11        | 6.79%   |
+| 2133    | 10        | 6.17%   |
+| 6400    | 7         | 4.32%   |
+| 2400    | 7         | 4.32%   |
+| 1333    | 5         | 3.09%   |
+| 4800    | 4         | 2.47%   |
+| 3800    | 4         | 2.47%   |
+| 667     | 4         | 2.47%   |
+| 8400    | 2         | 1.23%   |
+| 3733    | 2         | 1.23%   |
+| 3400    | 2         | 1.23%   |
+| 3266    | 2         | 1.23%   |
+| 3000    | 2         | 1.23%   |
+| 2933    | 2         | 1.23%   |
+| 1866    | 2         | 1.23%   |
+| 1334    | 2         | 1.23%   |
+| Unknown | 2         | 1.23%   |
 | 6000    | 1         | 0.62%   |
 | 5200    | 1         | 0.62%   |
 | 4267    | 1         | 0.62%   |
@@ -2964,7 +2966,6 @@ Memory module speed
 | 2800    | 1         | 0.62%   |
 | 2666    | 1         | 0.62%   |
 | 1867    | 1         | 0.62%   |
-| 1866    | 1         | 0.62%   |
 | 800     | 1         | 0.62%   |
 | 400     | 1         | 0.62%   |
 | 133     | 1         | 0.62%   |
@@ -3032,16 +3033,16 @@ Camera device vendors
 | Realtek Semiconductor                  | 5         | 5.62%   |
 | Quanta                                 | 4         | 4.49%   |
 | Apple                                  | 4         | 4.49%   |
-| Acer                                   | 4         | 4.49%   |
 | Luxvisions Innotech Limited            | 3         | 3.37%   |
 | Lite-On Technology                     | 3         | 3.37%   |
+| Bison Electronics                      | 3         | 3.37%   |
 | Syntek                                 | 2         | 2.25%   |
 | Generalplus Technology                 | 2         | 2.25%   |
+| Acer                                   | 2         | 2.25%   |
 | WaveRider Communications               | 1         | 1.12%   |
 | Samsung Electronics                    | 1         | 1.12%   |
 | Elgato Systems                         | 1         | 1.12%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.12%   |
-| Bison Electronics                      | 1         | 1.12%   |
 
 Camera Model
 ------------
@@ -3057,11 +3058,11 @@ Camera device models
 | IMC Networks Integrated Camera                       | 5         | 5.62%   |
 | IMC Networks USB2.0 HD UVC WebCam                    | 4         | 4.49%   |
 | Chicony Integrated Camera                            | 4         | 4.49%   |
+| Microdia USB 2.0 Camera                              | 3         | 3.37%   |
 | Logitech HD Pro Webcam C920                          | 3         | 3.37%   |
 | Logitech BRIO Ultra HD Webcam                        | 3         | 3.37%   |
 | Syntek Integrated Camera                             | 2         | 2.25%   |
 | Realtek Integrated_Webcam_HD                         | 2         | 2.25%   |
-| Microdia REDRAGON Live Camera Audio                  | 2         | 2.25%   |
 | Microdia Integrated_Webcam_FHD                       | 2         | 2.25%   |
 | Logitech Webcam C270                                 | 2         | 2.25%   |
 | Logitech C920 PRO HD Webcam                          | 2         | 2.25%   |
@@ -3074,7 +3075,7 @@ Camera device models
 | Sunplus HP Universal Camera                          | 1         | 1.12%   |
 | Sunplus HD WebCam                                    | 1         | 1.12%   |
 | Sunplus 1080p FHD Camera                             | 1         | 1.12%   |
-| Samsung Galaxy A5 (MTP)                              | 1         | 1.12%   |
+| Samsung Galaxy series, misc. (MTP mode)              | 1         | 1.12%   |
 | Realtek WebCamera                                    | 1         | 1.12%   |
 | Realtek Integrated_Webcam_FHD                        | 1         | 1.12%   |
 | Realtek FULL HD 1080P Webcam                         | 1         | 1.12%   |
@@ -3082,7 +3083,6 @@ Camera device models
 | Quanta HD User Facing                                | 1         | 1.12%   |
 | Quanta HD Camera                                     | 1         | 1.12%   |
 | Quanta ACER HD User Facing                           | 1         | 1.12%   |
-| Microdia USB 2.0 Camera                              | 1         | 1.12%   |
 | Microdia Sonix 1.3 MP Laptop Integrated Webcam       | 1         | 1.12%   |
 | Microdia Laptop_Integrated_Webcam_FHD                | 1         | 1.12%   |
 | Luxvisions Innotech Limited Integrated Camera        | 1         | 1.12%   |
@@ -3093,6 +3093,7 @@ Camera device models
 | Logitech HD Webcam C510                              | 1         | 1.12%   |
 | Lite-On Integrated Camera                            | 1         | 1.12%   |
 | Lite-On HP Webcam                                    | 1         | 1.12%   |
+| Lite-On HP HD Webcam                                 | 1         | 1.12%   |
 
 Security
 --------
@@ -3180,8 +3181,8 @@ Total unsupported devices on board
 | 1     | 54        | 31.95%  |
 | 2     | 19        | 11.24%  |
 | 3     | 10        | 5.92%   |
-| 4     | 8         | 4.73%   |
-| 5     | 6         | 3.55%   |
+| 4     | 9         | 5.33%   |
+| 5     | 5         | 2.96%   |
 | 6     | 4         | 2.37%   |
 
 Unsupported Device Types

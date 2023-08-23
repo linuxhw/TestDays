@@ -782,7 +782,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                 | 2         | 4.44%   |
 | Samsung SSD 850 EVO 250GB                | 2         | 4.44%   |
 | Samsung NVMe SSD Drive 500GB             | 2         | 4.44%   |
-| WDC WDS120G2G0A-00JH30 128GB SSD         | 1         | 2.22%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 2.22%   |
 | WDC WD40EZRZ-00GXCB0 4TB                 | 1         | 2.22%   |
 | WDC WD2500BEVT-22A23T0 250GB             | 1         | 2.22%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 2.22%   |
@@ -813,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -1052,10 +1052,10 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 2         | 5.71%   |
 | AMD FCH SATA Controller [AHCI mode]                                            | 2         | 5.71%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 2.86%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 2.86%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 2.86%   |
-| Samsung Electronics SATA controller                                            | 1         | 2.86%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo          | 1         | 2.86%   |
-| Kingston Company KC2000 NVMe SSD                                               | 1         | 2.86%   |
+| Kingston Company KC2000/KC2500 NVMe SSD                                        | 1         | 2.86%   |
 | Intel SATA Controller [RAID mode]                                              | 1         | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 2.86%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 1         | 2.86%   |
@@ -1410,7 +1410,7 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
@@ -1422,7 +1422,7 @@ Monitor models
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 3.45%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1         | 3.45%   |
-| BenQ GL2460 BNQ78CE 1920x1080 530x300mm 24.0-inch                    | 1         | 3.45%   |
+| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                    | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO509D 1920x1080 382x215mm 17.3-inch       | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
@@ -1972,11 +1972,11 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 2         | 28.57%  |
-| 4096  | 2         | 28.57%  |
-| 32768 | 1         | 14.29%  |
-| 16384 | 1         | 14.29%  |
-| 2048  | 1         | 14.29%  |
+| 8192  | 3         | 37.5%   |
+| 4096  | 2         | 25%     |
+| 32768 | 1         | 12.5%   |
+| 16384 | 1         | 12.5%   |
+| 2048  | 1         | 12.5%   |
 
 Memory Speed
 ------------
