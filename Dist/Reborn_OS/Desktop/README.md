@@ -1039,7 +1039,7 @@ Hard drive models
 | Seagate ST3500312CS 500GB        | 2        | 1.42%   |
 | Seagate ST2000DM006-2DM164 2TB   | 2        | 1.42%   |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 1.42%   |
-| Seagate Expansion Desk 8TB       | 2        | 1.42%   |
+| Seagate Expansion Desk 2TB       | 2        | 1.42%   |
 | Samsung SSD 850 EVO 500GB        | 2        | 1.42%   |
 | PNY CS900 120GB SSD              | 2        | 1.42%   |
 | Phison NVMe SSD Drive 960GB      | 2        | 1.42%   |
@@ -1082,15 +1082,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 25       | 32     | 40.32%  |
-| Seagate             | 19       | 25     | 30.65%  |
-| Hitachi             | 6        | 6      | 9.68%   |
-| Toshiba             | 5        | 5      | 8.06%   |
-| Samsung Electronics | 3        | 3      | 4.84%   |
-| Unknown             | 1        | 1      | 1.61%   |
-| JMicron Technology  | 1        | 1      | 1.61%   |
-| HGST                | 1        | 1      | 1.61%   |
-| ASMT                | 1        | 1      | 1.61%   |
+| WDC                 | 25       | 32     | 40.98%  |
+| Seagate             | 19       | 25     | 31.15%  |
+| Hitachi             | 6        | 6      | 9.84%   |
+| Toshiba             | 5        | 5      | 8.2%    |
+| Samsung Electronics | 3        | 3      | 4.92%   |
+| Unknown             | 1        | 1      | 1.64%   |
+| JMicron Technology  | 1        | 1      | 1.64%   |
+| HGST                | 1        | 1      | 1.64%   |
 
 SSD Vendor
 ----------
@@ -1102,23 +1101,24 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 13     | 34.21%  |
-| Kingston            | 4        | 4      | 10.53%  |
-| Crucial             | 4        | 5      | 10.53%  |
-| ZOTAC               | 2        | 2      | 5.26%   |
-| SanDisk             | 2        | 3      | 5.26%   |
-| PNY                 | 2        | 2      | 5.26%   |
-| WDC                 | 1        | 1      | 2.63%   |
-| Toshiba             | 1        | 1      | 2.63%   |
-| Patriot             | 1        | 1      | 2.63%   |
-| OCZ                 | 1        | 2      | 2.63%   |
-| KingSpec            | 1        | 1      | 2.63%   |
-| Hewlett-Packard     | 1        | 2      | 2.63%   |
-| Gigabyte Technology | 1        | 2      | 2.63%   |
-| Emtec               | 1        | 1      | 2.63%   |
-| Drevo               | 1        | 1      | 2.63%   |
-| AMD                 | 1        | 1      | 2.63%   |
-| A-DATA Technology   | 1        | 1      | 2.63%   |
+| Samsung Electronics | 13       | 13     | 33.33%  |
+| Kingston            | 4        | 4      | 10.26%  |
+| Crucial             | 4        | 5      | 10.26%  |
+| ZOTAC               | 2        | 2      | 5.13%   |
+| SanDisk             | 2        | 3      | 5.13%   |
+| PNY                 | 2        | 2      | 5.13%   |
+| WDC                 | 1        | 1      | 2.56%   |
+| Toshiba             | 1        | 1      | 2.56%   |
+| Patriot             | 1        | 1      | 2.56%   |
+| OCZ                 | 1        | 2      | 2.56%   |
+| KingSpec            | 1        | 1      | 2.56%   |
+| Hewlett-Packard     | 1        | 2      | 2.56%   |
+| Gigabyte Technology | 1        | 2      | 2.56%   |
+| Emtec               | 1        | 1      | 2.56%   |
+| Drevo               | 1        | 1      | 2.56%   |
+| ASMT                | 1        | 1      | 2.56%   |
+| AMD                 | 1        | 1      | 2.56%   |
+| A-DATA Technology   | 1        | 1      | 2.56%   |
 
 Drive Kind
 ----------
@@ -1130,10 +1130,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 44       | 75     | 44.44%  |
-| SSD     | 30       | 43     | 30.3%   |
-| NVMe    | 23       | 32     | 23.23%  |
-| Unknown | 2        | 2      | 2.02%   |
+| HDD     | 43       | 74     | 43.88%  |
+| SSD     | 30       | 44     | 30.61%  |
+| NVMe    | 23       | 32     | 23.47%  |
+| Unknown | 2        | 2      | 2.04%   |
 
 Drive Connector
 ---------------
@@ -1161,10 +1161,10 @@ Size of hard drive
 |------------|----------|--------|---------|
 | 0.01-0.5   | 42       | 64     | 49.41%  |
 | 0.51-1.0   | 29       | 36     | 34.12%  |
-| 1.01-2.0   | 6        | 8      | 7.06%   |
+| 1.01-2.0   | 8        | 11     | 9.41%   |
 | 2.01-3.0   | 4        | 5      | 4.71%   |
-| 4.01-10.0  | 3        | 4      | 3.53%   |
 | 3.01-4.0   | 1        | 1      | 1.18%   |
+| 4.01-10.0  | 1        | 1      | 1.18%   |
 
 Space Total
 -----------
@@ -1770,7 +1770,7 @@ Monitor models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch   | 2        | 2.5%    |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                  | 2        | 2.5%    |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                  | 2        | 2.5%    |
 | Hewlett-Packard 27ea HPN3395 1920x1080 527x296mm 23.8-inch              | 2        | 2.5%    |
 | Vizio E500i-A1 VIZ1004 1920x1080 1095x616mm 49.5-inch                   | 1        | 1.25%   |
 | Vestel LCD Monitor 32W_LCD_TV                                           | 1        | 1.25%   |
@@ -1790,7 +1790,7 @@ Monitor models
 | Samsung Electronics LCD Monitor S24D300 1920x1080                       | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor S22D300 1920x1080                       | 1        | 1.25%   |
 | Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch       | 1        | 1.25%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch                | 1        | 1.25%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch                | 1        | 1.25%   |
 | Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch                 | 1        | 1.25%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                | 1        | 1.25%   |
 | Philips LCD Monitor PHL 276E8V 7680x2160                                | 1        | 1.25%   |
@@ -2236,8 +2236,8 @@ Controller models
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2        | 8.33%   |
 | Realtek Bluetooth Radio                             | 1        | 4.17%   |
 | MediaTek Wireless_Device                            | 1        | 4.17%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1        | 4.17%   |
 | Intel Bluetooth wireless interface                  | 1        | 4.17%   |
+| Intel Bluetooth Device                              | 1        | 4.17%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 4.17%   |
 | Intel AX210 Bluetooth                               | 1        | 4.17%   |
 | IMC Networks Bluetooth Module                       | 1        | 4.17%   |
@@ -2360,14 +2360,14 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR4 2667MT/s                   | 1        | 4.55%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                | 1        | 4.55%   |
 | Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s       | 1        | 4.55%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s   | 1        | 4.55%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s      | 1        | 4.55%   |
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s         | 1        | 4.55%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s         | 1        | 4.55%   |
 | PNY RAM 8GBU1X08QJLL42-12-K 8GB SODIMM DDR4 3200MT/s        | 1        | 4.55%   |
 | Micron RAM Module 16GB SODIMM DDR4 3200MT/s                 | 1        | 4.55%   |
 | Micron RAM 16ATF1G64AZ-2G1A2 8GB DIMM DDR4 2400MT/s         | 1        | 4.55%   |
 | Kingston RAM Module 8GB DIMM DDR4 2667MT/s                  | 1        | 4.55%   |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s           | 1        | 4.55%   |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s        | 1        | 4.55%   |
 | Kingston RAM HX426C16FB2/8 8GB DIMM DDR4 2667MT/s           | 1        | 4.55%   |
 | Kingston RAM 99P5471-002.A00LF 2GB DIMM DDR3 1600MT/s       | 1        | 4.55%   |
 | Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s       | 1        | 4.55%   |
@@ -2472,13 +2472,13 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Seiko Epson L120 Series            | 1        | 20%     |
-| HP LaserJet 1300                   | 1        | 20%     |
-| HP DeskJet 3830 series             | 1        | 20%     |
-| HP DeskJet 2620 All-in-One Printer | 1        | 20%     |
-| Canon PIXMA MG2500 Series          | 1        | 20%     |
+| Model                     | Desktops | Percent |
+|---------------------------|----------|---------|
+| Seiko Epson L120 Series   | 1        | 20%     |
+| HP LaserJet 1300          | 1        | 20%     |
+| HP DeskJet 3830 series    | 1        | 20%     |
+| HP DeskJet 2600 series    | 1        | 20%     |
+| Canon PIXMA MG2500 Series | 1        | 20%     |
 
 Scanner Vendor
 --------------
@@ -2525,18 +2525,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920              | 2        | 18.18%  |
-| Samsung Galaxy series, misc. (MTP mode)  | 1        | 9.09%   |
-| Microdia USB 2.0 Camera                  | 1        | 9.09%   |
-| Logitech C922 Pro Stream Webcam          | 1        | 9.09%   |
-| KYE Systems (Mouse Systems) Slim 1322AF  | 1        | 9.09%   |
-| IMC Networks XHC Camera                  | 1        | 9.09%   |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 9.09%   |
-| GEMBIRD USB2.0 PC CAMERA                 | 1        | 9.09%   |
-| Alcor Micro USB 2.0 PC Camera            | 1        | 9.09%   |
-| 2M UVC CAMERA Web Camera                 | 1        | 9.09%   |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920             | 2        | 18.18%  |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 9.09%   |
+| Microdia USB 2.0 Camera                 | 1        | 9.09%   |
+| Logitech C922 Pro Stream Webcam         | 1        | 9.09%   |
+| KYE Systems (Mouse Systems) Slim 1322AF | 1        | 9.09%   |
+| IMC Networks XHC Camera                 | 1        | 9.09%   |
+| Generalplus 808 Camera                  | 1        | 9.09%   |
+| GEMBIRD USB2.0 PC CAMERA                | 1        | 9.09%   |
+| Alcor Micro USB 2.0 PC Camera           | 1        | 9.09%   |
+| 2M UVC CAMERA Web Camera                | 1        | 9.09%   |
 
 Security
 --------

@@ -587,8 +587,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 8        | 50%     |
-| No        | 8        | 50%     |
+| No        | 9        | 56.25%  |
+| Yes       | 7        | 43.75%  |
 
 Has Ethernet
 ------------
@@ -724,7 +724,7 @@ Hard drive models
 | Seagate ST2000DM008-2UB102 2TB       | 1        | 3.33%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1        | 3.33%   |
 | SanDisk SD8SB8U-256G-1006 256GB SSD  | 1        | 3.33%   |
-| SanDisk Portable SSD 1TB             | 1        | 3.33%   |
+| SanDisk Portable SSD 2TB             | 1        | 3.33%   |
 | Samsung SSD 980 PRO 1TB              | 1        | 3.33%   |
 | Samsung SSD 970 EVO Plus 500GB       | 1        | 3.33%   |
 | Samsung SSD 970 EVO Plus 1TB         | 1        | 3.33%   |
@@ -736,7 +736,7 @@ Hard drive models
 | Kingston RBUSC180DS37128GH 128GB SSD | 1        | 3.33%   |
 | Intel SSDPEKNW010T8 1TB              | 1        | 3.33%   |
 | China SATA SSD 256GB                 | 1        | 3.33%   |
-| ASMedia asm1153e 160GB               | 1        | 3.33%   |
+| ASMedia ASM1153E 1TB                 | 1        | 3.33%   |
 | A-DATA XPG EX500 240GB SSD           | 1        | 3.33%   |
 | A-DATA SU635 240GB SSD               | 1        | 3.33%   |
 | Unknown                              | 1        | 3.33%   |
@@ -751,11 +751,10 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 5        | 5      | 38.46%  |
-| Seagate             | 5        | 6      | 38.46%  |
-| Toshiba             | 1        | 1      | 7.69%   |
-| Samsung Electronics | 1        | 1      | 7.69%   |
-| ASMedia             | 1        | 1      | 7.69%   |
+| WDC                 | 5        | 5      | 41.67%  |
+| Seagate             | 5        | 6      | 41.67%  |
+| Toshiba             | 1        | 1      | 8.33%   |
+| Samsung Electronics | 1        | 1      | 8.33%   |
 
 SSD Vendor
 ----------
@@ -767,13 +766,14 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 2        | 2      | 16.67%  |
-| SanDisk             | 2        | 2      | 16.67%  |
-| Samsung Electronics | 2        | 2      | 16.67%  |
-| Kingston            | 2        | 2      | 16.67%  |
-| A-DATA Technology   | 2        | 2      | 16.67%  |
-| China               | 1        | 1      | 8.33%   |
-| Unknown             | 1        | 1      | 8.33%   |
+| WDC                 | 2        | 2      | 15.38%  |
+| SanDisk             | 2        | 2      | 15.38%  |
+| Samsung Electronics | 2        | 2      | 15.38%  |
+| Kingston            | 2        | 2      | 15.38%  |
+| A-DATA Technology   | 2        | 2      | 15.38%  |
+| China               | 1        | 1      | 7.69%   |
+| ASMedia             | 1        | 1      | 7.69%   |
+| Unknown             | 1        | 1      | 7.69%   |
 
 Drive Kind
 ----------
@@ -785,8 +785,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 9        | 12     | 40.91%  |
-| HDD  | 9        | 14     | 40.91%  |
+| SSD  | 9        | 13     | 40.91%  |
+| HDD  | 9        | 13     | 40.91%  |
 | NVMe | 4        | 5      | 18.18%  |
 
 Drive Connector
@@ -813,11 +813,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 10       | 14     | 47.62%  |
-| 0.51-1.0   | 5        | 5      | 23.81%  |
-| 1.01-2.0   | 3        | 4      | 14.29%  |
-| 2.01-3.0   | 2        | 2      | 9.52%   |
-| 4.01-10.0  | 1        | 1      | 4.76%   |
+| 0.01-0.5   | 9        | 13     | 45%     |
+| 1.01-2.0   | 4        | 5      | 20%     |
+| 0.51-1.0   | 4        | 5      | 20%     |
+| 2.01-3.0   | 2        | 2      | 10%     |
+| 4.01-10.0  | 1        | 1      | 5%      |
 
 Space Total
 -----------
@@ -1290,11 +1290,11 @@ Monitor models
 | ViewSonic VA2406-FHD VSC3B66 1920x1080 527x296mm 23.8-inch           | 1        | 8.33%   |
 | Samsung Electronics SMB2330H SAM064A 1920x1080 509x286mm 23.0-inch   | 1        | 8.33%   |
 | Samsung Electronics LCD Monitor SAM0D4B 1366x768 609x347mm 27.6-inch | 1        | 8.33%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch              | 1        | 8.33%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch              | 1        | 8.33%   |
 | Hewlett-Packard V221 HWP3111 1920x1080 477x268mm 21.5-inch           | 1        | 8.33%   |
-| Grundig WUXGA GRU4448 1920x1080                                      | 1        | 8.33%   |
+| Grundig WXGA GRU4448 1600x1200                                       | 1        | 8.33%   |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                    | 1        | 8.33%   |
-| Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                  | 1        | 8.33%   |
+| Dell SE2719HR DELF115 1920x1080 600x340mm 27.2-inch                  | 1        | 8.33%   |
 | Dell P2418HT DEL4113 1920x1080 527x296mm 23.8-inch                   | 1        | 8.33%   |
 | Dell P2417H DELA0DB 1920x1080 527x296mm 23.8-inch                    | 1        | 8.33%   |
 | Acer ET322QK ACR0631 3840x2160 698x393mm 31.5-inch                   | 1        | 8.33%   |
@@ -1693,27 +1693,27 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s | 2        | 10%     |
-| Unknown RAM Module 1GB DIMM 400MT/s                    | 1        | 5%      |
-| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s           | 1        | 5%      |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s  | 1        | 5%      |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s   | 1        | 5%      |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s | 1        | 5%      |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 1        | 5%      |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 5%      |
-| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 5%      |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 1        | 5%      |
-| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s   | 1        | 5%      |
-| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s  | 1        | 5%      |
-| Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s   | 1        | 5%      |
-| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s     | 1        | 5%      |
-| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s     | 1        | 5%      |
-| Crucial RAM RM51264BA1339.16FR 4GB DIMM DDR3 1333MT/s  | 1        | 5%      |
-| Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s   | 1        | 5%      |
-| A Force RAM 1GX64V160K 8GB DIMM DDR3 1600MT/s          | 1        | 5%      |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s    | 2        | 10%     |
+| Unknown RAM Module 1GB DIMM 400MT/s                       | 1        | 5%      |
+| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s              | 1        | 5%      |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s     | 1        | 5%      |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1648MT/s      | 1        | 5%      |
+| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1        | 5%      |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s    | 1        | 5%      |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 5%      |
+| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 5%      |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s       | 1        | 5%      |
+| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s      | 1        | 5%      |
+| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s     | 1        | 5%      |
+| Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s      | 1        | 5%      |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s        | 1        | 5%      |
+| G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s        | 1        | 5%      |
+| Crucial RAM RM51264BA1339.16FR 4GB DIMM DDR3 1333MT/s     | 1        | 5%      |
+| Corsair RAM CMX4GX3M1A1600C11 4GB DIMM DDR3 1600MT/s      | 1        | 5%      |
+| A Force RAM 1GX64V160K 8GB DIMM DDR3 1600MT/s             | 1        | 5%      |
 
 Memory Kind
 -----------

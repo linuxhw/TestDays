@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 23
+Total: 24
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | P8H61/USB3                  | [149cb27e46](https://linux-hardware.org/?probe=149cb27e46) | Aug 18, 2023 |
 | ASUSTek       | ROG CROSSHAIR VIII DARK ... | [888c56f232](https://linux-hardware.org/?probe=888c56f232) | Aug 01, 2023 |
 | ASUSTek       | PRIME H670-PLUS D4          | [993a10a30b](https://linux-hardware.org/?probe=993a10a30b) | Aug 01, 2023 |
 | Gateway       | H61H2-AD V1.0               | [9a34a9295c](https://linux-hardware.org/?probe=9a34a9295c) | Jun 15, 2023 |
@@ -194,23 +195,24 @@ Version of the Linux kernel
 
 | Version                        | Desktops | Percent |
 |--------------------------------|----------|---------|
-| 5.14.0-202.el9.x86_64          | 2        | 11.11%  |
-| 5.17.2-lqx3.0.el9.x86_64       | 1        | 5.56%   |
-| 5.14.0-86.el9.x86_64           | 1        | 5.56%   |
-| 5.14.0-344.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-340.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-325.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-319.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-316.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-305.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-302.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-267.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-214.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-183.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-134.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-130.rt21.130.el9.x86_64 | 1        | 5.56%   |
-| 5.14.0-115.el9.x86_64          | 1        | 5.56%   |
-| 5.14.0-109.el9.x86_64          | 1        | 5.56%   |
+| 5.14.0-202.el9.x86_64          | 2        | 10.53%  |
+| 5.17.2-lqx3.0.el9.x86_64       | 1        | 5.26%   |
+| 5.14.0-86.el9.x86_64           | 1        | 5.26%   |
+| 5.14.0-352.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-344.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-340.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-325.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-319.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-316.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-305.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-302.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-267.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-214.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-183.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-134.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-130.rt21.130.el9.x86_64 | 1        | 5.26%   |
+| 5.14.0-115.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-109.el9.x86_64          | 1        | 5.26%   |
 
 Kernel Family
 -------------
@@ -637,22 +639,23 @@ Geographic location (city)
 
 | City           | Desktops | Percent |
 |----------------|----------|---------|
-| Sofia          | 2        | 11.76%  |
-| Yangon         | 1        | 5.88%   |
-| Wuhan          | 1        | 5.88%   |
-| Vitebsk        | 1        | 5.88%   |
-| Tomah          | 1        | 5.88%   |
-| San Juan       | 1        | 5.88%   |
-| Rome           | 1        | 5.88%   |
-| Portland       | 1        | 5.88%   |
-| Perth          | 1        | 5.88%   |
-| Okazaki        | 1        | 5.88%   |
-| New Cumberland | 1        | 5.88%   |
-| Nagoya         | 1        | 5.88%   |
-| Meieki         | 1        | 5.88%   |
-| Kyiv           | 1        | 5.88%   |
-| Dortmund       | 1        | 5.88%   |
-| Burgas         | 1        | 5.88%   |
+| Sofia          | 2        | 11.11%  |
+| Yangon         | 1        | 5.56%   |
+| Wuhan          | 1        | 5.56%   |
+| Vitebsk        | 1        | 5.56%   |
+| Tomah          | 1        | 5.56%   |
+| San Juan       | 1        | 5.56%   |
+| Rome           | 1        | 5.56%   |
+| Portland       | 1        | 5.56%   |
+| Perth          | 1        | 5.56%   |
+| Okazaki        | 1        | 5.56%   |
+| New Cumberland | 1        | 5.56%   |
+| Navapolatsk    | 1        | 5.56%   |
+| Nagoya         | 1        | 5.56%   |
+| Meieki         | 1        | 5.56%   |
+| Kyiv           | 1        | 5.56%   |
+| Dortmund       | 1        | 5.56%   |
+| Burgas         | 1        | 5.56%   |
 
 Drives
 ------
@@ -667,12 +670,12 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 9        | 12     | 24.32%  |
+| WDC                 | 9        | 13     | 24.32%  |
 | Seagate             | 5        | 7      | 13.51%  |
 | Samsung Electronics | 4        | 5      | 10.81%  |
-| Kingston            | 3        | 3      | 8.11%   |
+| Kingston            | 3        | 4      | 8.11%   |
 | Toshiba             | 2        | 3      | 5.41%   |
-| SanDisk             | 2        | 8      | 5.41%   |
+| Sandisk             | 2        | 8      | 5.41%   |
 | Crucial             | 2        | 8      | 5.41%   |
 | WD MediaMax         | 1        | 1      | 2.7%    |
 | Team                | 1        | 2      | 2.7%    |
@@ -744,7 +747,7 @@ Hard disk drive vendors
 
 | Vendor      | Desktops | Drives | Percent |
 |-------------|----------|--------|---------|
-| WDC         | 8        | 11     | 50%     |
+| WDC         | 8        | 12     | 50%     |
 | Seagate     | 4        | 5      | 25%     |
 | Toshiba     | 2        | 3      | 12.5%   |
 | WD MediaMax | 1        | 1      | 6.25%   |
@@ -761,7 +764,7 @@ Solid state drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 4        | 5      | 23.53%  |
-| Kingston            | 3        | 3      | 17.65%  |
+| Kingston            | 3        | 4      | 17.65%  |
 | SanDisk             | 2        | 4      | 11.76%  |
 | Crucial             | 2        | 8      | 11.76%  |
 | WDC                 | 1        | 1      | 5.88%   |
@@ -781,8 +784,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 13       | 28     | 44.83%  |
-| HDD  | 10       | 21     | 34.48%  |
+| SSD  | 13       | 29     | 44.83%  |
+| HDD  | 10       | 22     | 34.48%  |
 | NVMe | 6        | 9      | 20.69%  |
 
 Drive Connector
@@ -795,7 +798,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 16       | 49     | 72.73%  |
+| SATA | 16       | 51     | 72.73%  |
 | NVMe | 6        | 9      | 27.27%  |
 
 Drive Size
@@ -808,9 +811,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 11       | 18     | 44%     |
+| 0.01-0.5   | 11       | 19     | 44%     |
 | 0.51-1.0   | 8        | 22     | 32%     |
-| 1.01-2.0   | 5        | 7      | 20%     |
+| 1.01-2.0   | 5        | 8      | 20%     |
 | 4.01-10.0  | 1        | 2      | 4%      |
 
 Space Total
@@ -927,7 +930,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 12       | 34     | 60%     |
+| Detected | 12       | 36     | 60%     |
 | Works    | 6        | 21     | 30%     |
 | Malfunc  | 2        | 3      | 10%     |
 
@@ -1282,7 +1285,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch | 1        | 4.55%   |
 | LG Electronics LCD Monitor LG FULL HD                                 | 1        | 4.55%   |
 | Hewlett-Packard 2159 HWP282C 1920x1080 479x269mm 21.6-inch            | 1        | 4.55%   |
-| Goldstar ULTRAGEAR GSM5B70 1920x1080 531x298mm 24.0-inch              | 1        | 4.55%   |
+| Goldstar ULTRAGEAR GSM5B70 3840x2160 621x341mm 27.9-inch              | 1        | 4.55%   |
 | Goldstar MP59G GSM5B34 1920x1080 480x270mm 21.7-inch                  | 1        | 4.55%   |
 | Goldstar 22EA53 GSM59A6 1920x1080 477x268mm 21.5-inch                 | 1        | 4.55%   |
 | Dell U2520D DELA150 2560x1440 553x311mm 25.0-inch                     | 1        | 4.55%   |
@@ -1290,7 +1293,7 @@ Monitor models
 | Dell U2520D DELA14C 2560x1440 553x311mm 25.0-inch                     | 1        | 4.55%   |
 | Dell P2418HT DEL4113 1920x1080 527x296mm 23.8-inch                    | 1        | 4.55%   |
 | Dell 2408WFP DELA029 1920x1200 519x324mm 24.1-inch                    | 1        | 4.55%   |
-| BenQ ZOWIE XL LCD BNQ7F83 1920x1080 544x303mm 24.5-inch               | 1        | 4.55%   |
+| BenQ ZOWIE XL LCD BNQ7F83 1920x1080 540x300mm 24.3-inch               | 1        | 4.55%   |
 | AOC LCD Monitor 24G1WG4 3840x1080                                     | 1        | 4.55%   |
 | Acer H236HL ACR0318 1920x1080 509x286mm 23.0-inch                     | 1        | 4.55%   |
 
@@ -1304,12 +1307,12 @@ Monitor screen resolution
 
 | Resolution        | Desktops | Percent |
 |-------------------|----------|---------|
-| 1920x1080 (FHD)   | 13       | 68.42%  |
-| 3840x2160 (4K)    | 2        | 10.53%  |
-| 3840x1080         | 1        | 5.26%   |
-| 2560x1440 (QHD)   | 1        | 5.26%   |
-| 1920x1200 (WUXGA) | 1        | 5.26%   |
-| Unknown           | 1        | 5.26%   |
+| 1920x1080 (FHD)   | 13       | 65%     |
+| 3840x2160 (4K)    | 3        | 15%     |
+| 3840x1080         | 1        | 5%      |
+| 2560x1440 (QHD)   | 1        | 5%      |
+| 1920x1200 (WUXGA) | 1        | 5%      |
+| Unknown           | 1        | 5%      |
 
 Monitor Diagonal
 ----------------
@@ -1321,9 +1324,9 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 27      | 5        | 26.32%  |
+| 27      | 6        | 31.58%  |
 | 21      | 5        | 26.32%  |
-| 24      | 4        | 21.05%  |
+| 24      | 3        | 15.79%  |
 | 23      | 2        | 10.53%  |
 | 84      | 1        | 5.26%   |
 | 25      | 1        | 5.26%   |
@@ -1339,11 +1342,11 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 7        | 41.18%  |
-| 401-500     | 5        | 29.41%  |
-| 601-700     | 3        | 17.65%  |
-| 1501-2000   | 1        | 5.88%   |
-| Unknown     | 1        | 5.88%   |
+| 501-600     | 7        | 38.89%  |
+| 401-500     | 5        | 27.78%  |
+| 601-700     | 4        | 22.22%  |
+| 1501-2000   | 1        | 5.56%   |
+| Unknown     | 1        | 5.56%   |
 
 Aspect Ratio
 ------------
@@ -1369,12 +1372,12 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 7        | 38.89%  |
-| 301-350        | 5        | 27.78%  |
-| 251-300        | 3        | 16.67%  |
-| More than 1000 | 1        | 5.56%   |
-| 151-200        | 1        | 5.56%   |
-| Unknown        | 1        | 5.56%   |
+| 201-250        | 7        | 36.84%  |
+| 301-350        | 6        | 31.58%  |
+| 251-300        | 3        | 15.79%  |
+| More than 1000 | 1        | 5.26%   |
+| 151-200        | 1        | 5.26%   |
+| Unknown        | 1        | 5.26%   |
 
 Pixel Density
 -------------
@@ -1386,10 +1389,10 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 9        | 52.94%  |
-| 101-120 | 6        | 35.29%  |
-| 121-160 | 1        | 5.88%   |
-| Unknown | 1        | 5.88%   |
+| 51-100  | 9        | 50%     |
+| 101-120 | 6        | 33.33%  |
+| 121-160 | 2        | 11.11%  |
+| Unknown | 1        | 5.56%   |
 
 Multiple Monitors
 -----------------
@@ -1704,7 +1707,7 @@ Memory module models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| Team RAM TEAMGROUP-UD3-1600 8GB DIMM DDR3 1600MT/s       | 1        | 12.5%   |
+| Team RAM TEAMGROUP-UD3-1600 8192MB DIMM DDR3 1600MT/s    | 1        | 12.5%   |
 | SK hynix RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 12.5%   |
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s      | 1        | 12.5%   |
 | Kingston RAM 99U5471-034.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 12.5%   |

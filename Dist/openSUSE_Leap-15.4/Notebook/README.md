@@ -906,48 +906,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                              | Notebooks | Percent |
-|----------------------------------------------------|-----------|---------|
-| Unknown MMC Card  128GB                            | 2         | 2.35%   |
-| Seagate ST1000LM035-1RK172 1TB                     | 2         | 2.35%   |
-| Samsung SSD 860 EVO 500GB                          | 2         | 2.35%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 2         | 2.35%   |
-| Unknown                                            | 2         | 2.35%   |
-| WDC WD3200BPVT-22JJ5T0 320GB                       | 1         | 1.18%   |
-| WDC WD10SPZX-24Z10 1TB                             | 1         | 1.18%   |
-| WDC WD10JPVX-22JC3T0 1TB                           | 1         | 1.18%   |
-| WDC PC SN730 SDBQNTY-512G-1001 512GB               | 1         | 1.18%   |
-| WDC PC SN730 SDBPNTY-512G-1006 512GB               | 1         | 1.18%   |
-| VISIPRO SSD 256GB                                  | 1         | 1.18%   |
-| Unknown MMC Card  7GB                              | 1         | 1.18%   |
-| Unknown MMC Card  32GB                             | 1         | 1.18%   |
-| Unknown MMC Card  16GB                             | 1         | 1.18%   |
-| Union Memory (Shenzhen) UMIS RPETJ1T24MGE2QDQ 1TB  | 1         | 1.18%   |
-| Toshiba MQ04ABF100 1TB                             | 1         | 1.18%   |
-| Toshiba MQ01ABD100 1TB                             | 1         | 1.18%   |
-| Toshiba MQ01ABD050 500GB                           | 1         | 1.18%   |
-| Toshiba MK5055GSX 500GB                            | 1         | 1.18%   |
-| Toshiba MK3265GSX 320GB                            | 1         | 1.18%   |
-| Solid State Storage NVMe SSD Drive 256GB           | 1         | 1.18%   |
-| Solid State Storage CL1-3D512-Q11 NVMe SSSTC 512GB | 1         | 1.18%   |
-| SK hynix SC300 M.2 2280 256GB SSD                  | 1         | 1.18%   |
-| SK hynix NVMe SSD Drive 512GB                      | 1         | 1.18%   |
-| SK hynix HFM512GD3JX013N 512GB                     | 1         | 1.18%   |
-| SK hynix BC711 NVMe 512GB                          | 1         | 1.18%   |
-| SK hynix BC711 HFM512GD3JX013N 512GB               | 1         | 1.18%   |
-| SK hynix BC501 NVMe Solid State Drive 512GB        | 1         | 1.18%   |
-| Seagate ST9500325AS 500GB                          | 1         | 1.18%   |
-| Seagate ST9250827AS 250GB                          | 1         | 1.18%   |
-| Seagate ST320LT007-9ZV142 320GB                    | 1         | 1.18%   |
-| Seagate ST2000LM015-2E8174 2TB                     | 1         | 1.18%   |
-| Seagate ST1000LX015-1U7172 1TB                     | 1         | 1.18%   |
-| Seagate ST1000LM048-2E7172 1TB                     | 1         | 1.18%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                 | 1         | 1.18%   |
-| Seagate ST1000LM014-1EJ164 1TB                     | 1         | 1.18%   |
-| Sandisk WD Black SN850 1TB                         | 1         | 1.18%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 1024GB  | 1         | 1.18%   |
-| SanDisk NVMe SSD Drive 256GB                       | 1         | 1.18%   |
-| Samsung SSD PM851 2.5 7mm 128GB                    | 1         | 1.18%   |
+| Model                                                 | Notebooks | Percent |
+|-------------------------------------------------------|-----------|---------|
+| Unknown MMC Card  128GB                               | 2         | 2.35%   |
+| Seagate ST1000LM035-1RK172 1TB                        | 2         | 2.35%   |
+| Samsung SSD 860 EVO 500GB                             | 2         | 2.35%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 2         | 2.35%   |
+| Unknown                                               | 2         | 2.35%   |
+| WDC WD3200BPVT-22JJ5T0 320GB                          | 1         | 1.18%   |
+| WDC WD10SPZX-24Z10 1TB                                | 1         | 1.18%   |
+| WDC WD10JPVX-22JC3T0 1TB                              | 1         | 1.18%   |
+| WDC PC SN730 SDBQNTY-512G-1001 512GB                  | 1         | 1.18%   |
+| WDC PC SN730 SDBPNTY-512G-1006 512GB                  | 1         | 1.18%   |
+| VISIPRO SSD 256GB                                     | 1         | 1.18%   |
+| Unknown MMC Card  7GB                                 | 1         | 1.18%   |
+| Unknown MMC Card  32GB                                | 1         | 1.18%   |
+| Unknown MMC Card  16GB                                | 1         | 1.18%   |
+| Union Memory (Shenzhen) UMIS RPETJ1T24MGE2QDQ 1TB     | 1         | 1.18%   |
+| Toshiba MQ04ABF100 1TB                                | 1         | 1.18%   |
+| Toshiba MQ01ABD100 1TB                                | 1         | 1.18%   |
+| Toshiba MQ01ABD050 500GB                              | 1         | 1.18%   |
+| Toshiba MK5055GSX 500GB                               | 1         | 1.18%   |
+| Toshiba MK3265GSX 320GB                               | 1         | 1.18%   |
+| Solid State Storage NVMe SSD Drive 256GB              | 1         | 1.18%   |
+| Solid State Storage CL1-3D512-Q11 NVMe SSSTC 512GB    | 1         | 1.18%   |
+| SK hynix SC300 M.2 2280 256GB SSD                     | 1         | 1.18%   |
+| SK hynix NVMe SSD Drive 512GB                         | 1         | 1.18%   |
+| SK hynix HFM512GD3JX013N 512GB                        | 1         | 1.18%   |
+| SK hynix BC711 NVMe 512GB                             | 1         | 1.18%   |
+| SK hynix BC711 HFM512GD3JX013N 512GB                  | 1         | 1.18%   |
+| SK hynix BC501 NVMe Solid State Drive 512GB           | 1         | 1.18%   |
+| Seagate ST9500325AS 500GB                             | 1         | 1.18%   |
+| Seagate ST9250827AS 250GB                             | 1         | 1.18%   |
+| Seagate ST320LT007-9ZV142 320GB                       | 1         | 1.18%   |
+| Seagate ST2000LM015-2E8174 2TB                        | 1         | 1.18%   |
+| Seagate ST1000LX015-1U7172 1TB                        | 1         | 1.18%   |
+| Seagate ST1000LM048-2E7172 1TB                        | 1         | 1.18%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                    | 1         | 1.18%   |
+| Seagate ST1000LM014-1EJ164 1TB                        | 1         | 1.18%   |
+| Sandisk WD Black SN850 256GB                          | 1         | 1.18%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 1024GB     | 1         | 1.18%   |
+| SanDisk NVMe SSD Drive 256GB                          | 1         | 1.18%   |
+| Samsung SSD PM851 2.5 7mm 128GB                       | 1         | 1.18%   |
 
 HDD Vendor
 ----------
@@ -1630,14 +1630,14 @@ Monitor models
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | BOE LCD Monitor BOE08CD 1366x768 344x194mm 15.5-inch                  | 3         | 4.11%   |
-| Hewlett-Packard 27f HPN354A 1920x1080 598x336mm 27.0-inch             | 2         | 2.74%   |
+| Hewlett-Packard 27fw HPN354A 1920x1080 598x336mm 27.0-inch            | 2         | 2.74%   |
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                 | 2         | 2.74%   |
 | AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch        | 2         | 2.74%   |
 | ViewSonic VA2265 SERIES VSCB330 1920x1080 476x268mm 21.5-inch         | 1         | 1.37%   |
 | Sharp LQ156M1JW03 SHP155D 1920x1080 344x194mm 15.5-inch               | 1         | 1.37%   |
 | Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch               | 1         | 1.37%   |
 | Samsung Electronics S23B350 SAM08F4 1920x1080 510x287mm 23.0-inch     | 1         | 1.37%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.37%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch  | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 1.37%   |
 | Samsung Electronics LCD Monitor SDC3754 1600x900 382x215mm 17.3-inch  | 1         | 1.37%   |
@@ -1653,8 +1653,8 @@ Monitor models
 | LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch           | 1         | 1.37%   |
 | Lenovo LEN P32p-20 LEN62A2 3840x2160 697x392mm 31.5-inch              | 1         | 1.37%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch              | 1         | 1.37%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.37%   |
-| Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch               | 1         | 1.37%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch               | 1         | 1.37%   |
+| Lenovo LCD Monitor LEN4035 1280x800 303x190mm 14.1-inch               | 1         | 1.37%   |
 | Insignia NS39DR510NA17 BBY3963 1920x1080 853x480mm 38.5-inch          | 1         | 1.37%   |
 | InfoVision LCD Monitor IVO3E94 1920x1200 345x215mm 16.0-inch          | 1         | 1.37%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 1.37%   |
@@ -1665,7 +1665,7 @@ Monitor models
 | Eizo EV2450 ENC2568 1920x1080 528x297mm 23.9-inch                     | 1         | 1.37%   |
 | Dell U2417H DEL40E8 1920x1080 527x296mm 23.8-inch                     | 1         | 1.37%   |
 | Dell SE2216H DELF071 1920x1080 476x268mm 21.5-inch                    | 1         | 1.37%   |
-| Dell P2412H DELA07D 1920x1080 530x300mm 24.0-inch                     | 1         | 1.37%   |
+| Dell P2412H DELA07D 1920x1080 531x299mm 24.0-inch                     | 1         | 1.37%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch      | 1         | 1.37%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch      | 1         | 1.37%   |
 | Chimei Innolux LCD Monitor CMN14F2 1920x1080 309x173mm 13.9-inch      | 1         | 1.37%   |
@@ -2238,7 +2238,7 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 3         | 6.38%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 3         | 6.38%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s           | 2         | 4.26%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 2         | 4.26%   |
 | Unknown                                                          | 2         | 4.26%   |
@@ -2250,7 +2250,7 @@ Memory module models
 | Smart RAM SH564568FH8NWPHSFG 2GB SODIMM DDR3 1333MT/s            | 1         | 2.13%   |
 | Smart RAM SH564288FH8NWPHSFR 1024MB SODIMM DDR3 1067MT/s         | 1         | 2.13%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s             | 1         | 2.13%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 2.13%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s        | 1         | 2.13%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 1         | 2.13%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 2.13%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 2.13%   |
@@ -2277,7 +2277,7 @@ Memory module models
 | Kingston RAM 99U5700-027.A00G 8GB SODIMM DDR4 2667MT/s           | 1         | 2.13%   |
 | Kingston RAM 9905700-086.A00G 8GB SODIMM DDR4 3200MT/s           | 1         | 2.13%   |
 | Crucial RAM CT8G4SFRA32A.M8FRS 8GB Row Of Chips DDR4 2400MT/s    | 1         | 2.13%   |
-| Crucial RAM CT16G4SFD824A.M16FE 16384MB SODIMM DDR4 2400MT/s     | 1         | 2.13%   |
+| Crucial RAM CT16G4SFD824A.M16FE 16GB SODIMM DDR4 2400MT/s        | 1         | 2.13%   |
 
 Memory Kind
 -----------
@@ -2427,7 +2427,7 @@ Camera device models
 |------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                            | 4         | 6.06%   |
 | Microdia Integrated_Webcam_HD                        | 3         | 4.55%   |
-| Alcor Micro USB 2.0 Camera                           | 3         | 4.55%   |
+| Alcor Micro USB 2.0 PC cam                           | 3         | 4.55%   |
 | Syntek Integrated Camera                             | 2         | 3.03%   |
 | Sunplus Integrated_Webcam_HD                         | 2         | 3.03%   |
 | Sunplus HD WebCam                                    | 2         | 3.03%   |
@@ -2441,7 +2441,7 @@ Camera device models
 | Sunplus Laptop Integrated Webcam HD                  | 1         | 1.52%   |
 | Sunplus HD 720P webcam                               | 1         | 1.52%   |
 | Sunplus Dell E5570 integrated webcam                 | 1         | 1.52%   |
-| Realtek USB Camera                                   | 1         | 1.52%   |
+| Realtek MTD camera                                   | 1         | 1.52%   |
 | Quanta HP HD Camera                                  | 1         | 1.52%   |
 | Quanta HD User Facing                                | 1         | 1.52%   |
 | Microdia Integrated Webcam                           | 1         | 1.52%   |

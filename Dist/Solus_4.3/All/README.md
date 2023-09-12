@@ -664,15 +664,15 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2021 | 10        | 13.7%   |
 | 2018 | 10        | 13.7%   |
-| 2014 | 8         | 10.96%  |
+| 2014 | 9         | 12.33%  |
 | 2020 | 7         | 9.59%   |
 | 2019 | 7         | 9.59%   |
 | 2017 | 6         | 8.22%   |
 | 2011 | 6         | 8.22%   |
 | 2016 | 4         | 5.48%   |
 | 2008 | 4         | 5.48%   |
-| 2015 | 3         | 4.11%   |
 | 2010 | 3         | 4.11%   |
+| 2015 | 2         | 2.74%   |
 | 2013 | 2         | 2.74%   |
 | 2012 | 2         | 2.74%   |
 | 2006 | 1         | 1.37%   |
@@ -1024,14 +1024,15 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 25        | 33     | 51.02%  |
-| Seagate             | 13        | 16     | 26.53%  |
-| Toshiba             | 4         | 4      | 8.16%   |
-| Samsung Electronics | 2         | 2      | 4.08%   |
-| Hitachi             | 2         | 2      | 4.08%   |
-| Unknown             | 1         | 1      | 2.04%   |
-| Maxtor              | 1         | 1      | 2.04%   |
-| Intenso             | 1         | 2      | 2.04%   |
+| WDC                 | 25        | 33     | 50%     |
+| Seagate             | 13        | 16     | 26%     |
+| Toshiba             | 4         | 4      | 8%      |
+| Samsung Electronics | 2         | 2      | 4%      |
+| Hitachi             | 2         | 2      | 4%      |
+| Unknown             | 1         | 1      | 2%      |
+| SABRENT             | 1         | 1      | 2%      |
+| Maxtor              | 1         | 1      | 2%      |
+| Intenso             | 1         | 2      | 2%      |
 
 SSD Vendor
 ----------
@@ -1069,11 +1070,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 40        | 61     | 36.36%  |
-| NVMe    | 32        | 43     | 29.09%  |
-| SSD     | 31        | 51     | 28.18%  |
-| Unknown | 4         | 4      | 3.64%   |
-| MMC     | 3         | 3      | 2.73%   |
+| HDD     | 41        | 62     | 36.94%  |
+| NVMe    | 32        | 42     | 28.83%  |
+| SSD     | 31        | 51     | 27.93%  |
+| Unknown | 4         | 4      | 3.6%    |
+| MMC     | 3         | 3      | 2.7%    |
 
 Drive Connector
 ---------------
@@ -1100,11 +1101,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 66     | 50.67%  |
-| 0.51-1.0   | 23        | 30     | 30.67%  |
-| 1.01-2.0   | 9         | 10     | 12%     |
-| 3.01-4.0   | 4         | 5      | 5.33%   |
-| 10.01-20.0 | 1         | 1      | 1.33%   |
+| 0.01-0.5   | 38        | 66     | 50%     |
+| 0.51-1.0   | 24        | 31     | 31.58%  |
+| 1.01-2.0   | 9         | 10     | 11.84%  |
+| 3.01-4.0   | 4         | 5      | 5.26%   |
+| 10.01-20.0 | 1         | 1      | 1.32%   |
 
 Space Total
 -----------
@@ -1716,7 +1717,7 @@ Monitor models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3         | 3.26%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3         | 3.26%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2         | 2.17%   |
 | Unknown                                                              | 2         | 2.17%   |
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch            | 1         | 1.09%   |
@@ -1724,12 +1725,12 @@ Monitor models
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM029A 1920x1200 582x364mm 27.0-inch | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 1         | 1.09%   |
-| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1         | 1.09%   |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 300x230mm 14.9-inch  | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1         | 1.09%   |
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1         | 1.09%   |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1         | 1.09%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.09%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 1.09%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch    | 1         | 1.09%   |
@@ -1745,10 +1746,10 @@ Monitor models
 | LG Display LCD Monitor LGD05FE 1920x1080 344x194mm 15.5-inch         | 1         | 1.09%   |
 | LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch         | 1         | 1.09%   |
 | LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch         | 1         | 1.09%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch           | 1         | 1.09%   |
 | Lenovo LEN L220xwC LEN1151 1920x1200 474x296mm 22.0-inch             | 1         | 1.09%   |
-| Lenovo LCD Monitor LEN1144 1920x1080 520x320mm 24.0-inch             | 1         | 1.09%   |
 | Lenovo D22-10 LEN65E4 1920x1080 476x268mm 21.5-inch                  | 1         | 1.09%   |
-| Hewlett-Packard 24y HPN3504 1920x1080 528x297mm 23.9-inch            | 1         | 1.09%   |
+| Hewlett-Packard 24yh HPN3504 1920x1080 528x297mm 23.9-inch           | 1         | 1.09%   |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1         | 1.09%   |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1         | 1.09%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1         | 1.09%   |
@@ -2113,7 +2114,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.49%   |
 | Intel Ethernet Connection (13) I219-V                             | 1         | 1.49%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 1.49%   |
-| Huawei WLZ-AN00                                                   | 1         | 1.49%   |
+| Huawei MLA-L11                                                    | 1         | 1.49%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 1.49%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.49%   |
 
@@ -2226,7 +2227,7 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.04%   |
 | ISSC Bluetooth Device                               | 1         | 2.04%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.04%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.04%   |
+| Intel Bluetooth Device                              | 1         | 2.04%   |
 | IMC Networks Bluetooth Radio                        | 1         | 2.04%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 2.04%   |
 | Dell DW375 Bluetooth Module                         | 1         | 2.04%   |
@@ -2351,7 +2352,7 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 667MT/s                              | 1         | 2.86%   |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s               | 1         | 2.86%   |
 | Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s            | 1         | 2.86%   |
-| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
+| Team RAM TEAMGROUP-SD4-3200 8192MB SODIMM DDR4 3200MT/s          | 1         | 2.86%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 2.86%   |
 | SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 2.86%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.86%   |
@@ -2370,7 +2371,7 @@ Memory module models
 | Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 2.86%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s              | 1         | 2.86%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3                       | 1         | 2.86%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s              | 1         | 2.86%   |
 | Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s            | 1         | 2.86%   |
 | G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s           | 1         | 2.86%   |
 | Crucial RAM CT8G4SFS824A.M8FJ 8GB SODIMM DDR4 2400MT/s           | 1         | 2.86%   |
@@ -2543,6 +2544,7 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                                    | 2         | 5%      |
 | Quanta HD User Facing                                           | 2         | 5%      |
 | Logitech Webcam C270                                            | 2         | 5%      |
+| Logitech HD Pro Webcam C920                                     | 2         | 5%      |
 | IMC Networks Integrated Camera                                  | 2         | 5%      |
 | Z-Star Webcam                                                   | 1         | 2.5%    |
 | Syntek Integrated Camera                                        | 1         | 2.5%    |
@@ -2555,11 +2557,9 @@ Camera device models
 | Quanta VGA WebCam                                               | 1         | 2.5%    |
 | Quanta USB2.0 HD UVC WebCam                                     | 1         | 2.5%    |
 | Microsoft LifeCam Studio                                        | 1         | 2.5%    |
-| Microdia USB 2.0 Camera                                         | 1         | 2.5%    |
+| Microdia GC02M2                                                 | 1         | 2.5%    |
 | MacroSilicon ShadowCast                                         | 1         | 2.5%    |
-| Logitech HD Pro Webcam C920                                     | 1         | 2.5%    |
 | Logitech C922 Pro Stream Webcam                                 | 1         | 2.5%    |
-| Logitech C920 PRO HD Webcam                                     | 1         | 2.5%    |
 | LG Optimus (Various Models) MTP Mode                            | 1         | 2.5%    |
 | Importek TOSHIBA Web Camera - HD                                | 1         | 2.5%    |
 | IMC Networks USB2.0 VGA UVC WebCam                              | 1         | 2.5%    |

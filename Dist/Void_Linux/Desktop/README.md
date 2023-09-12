@@ -687,16 +687,15 @@ Motherboard manufacture year
 |---------|----------|---------|
 | 2018    | 11       | 22%     |
 | 2020    | 5        | 10%     |
+| 2019    | 5        | 10%     |
 | 2017    | 5        | 10%     |
 | 2013    | 5        | 10%     |
 | 2012    | 5        | 10%     |
-| 2019    | 4        | 8%      |
 | 2021    | 3        | 6%      |
 | 2010    | 3        | 6%      |
 | 2016    | 2        | 4%      |
 | 2011    | 2        | 4%      |
 | Unknown | 2        | 4%      |
-| 2023    | 1        | 2%      |
 | 2022    | 1        | 2%      |
 | 2005    | 1        | 2%      |
 
@@ -828,8 +827,8 @@ Has WiFi module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 35       | 68.63%  |
-| Yes       | 16       | 31.37%  |
+| No        | 34       | 66.67%  |
+| Yes       | 17       | 33.33%  |
 
 Has Bluetooth
 -------------
@@ -1721,9 +1720,9 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Unknown LCD Monitor ENV LCD2460 1920x1080                             | 1        | 1.61%   |
-| Sceptre Tech E248W-1920 SPT099D 1920x1080 443x249mm 20.0-inch         | 1        | 1.61%   |
+| Sceptre Tech E24 SPT099D 1920x1080 521x293mm 23.5-inch                | 1        | 1.61%   |
 | Sceptre LCD Monitor E24 1920x1080                                     | 1        | 1.61%   |
-| Samsung Electronics SyncMaster SAM04D4 1920x1080 530x300mm 24.0-inch  | 1        | 1.61%   |
+| Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch  | 1        | 1.61%   |
 | Samsung Electronics SA300/SA350 SAM07D2 1920x1080 477x268mm 21.5-inch | 1        | 1.61%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 1.61%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 1.61%   |
@@ -1738,11 +1737,11 @@ Monitor models
 | Philips LCD Monitor 227E4LH 1920x1080                                 | 1        | 1.61%   |
 | Philips 220CW PHLC024 1680x1050 474x296mm 22.0-inch                   | 1        | 1.61%   |
 | ONN 100002480 ONN0101 1920x1080 474x296mm 22.0-inch                   | 1        | 1.61%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1        | 1.61%   |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                | 1        | 1.61%   |
 | Lenovo LEN-510A-B LEN1201 1920x1080 509x286mm 23.0-inch               | 1        | 1.61%   |
 | Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                 | 1        | 1.61%   |
 | Iiyama PL2530H IVM6132 1920x1080 544x303mm 24.5-inch                  | 1        | 1.61%   |
-| Iiyama PL2473HD IVM6107 1920x1080 521x293mm 23.5-inch                 | 1        | 1.61%   |
+| Iiyama PL2473HD IVM6107 1920x1080 520x290mm 23.4-inch                 | 1        | 1.61%   |
 | Iiyama PL2409HD IVM560C 1920x1080 521x293mm 23.5-inch                 | 1        | 1.61%   |
 | Idek Iiyama LCD Monitor PL3266Q 2560x1440                             | 1        | 1.61%   |
 | Hewlett-Packard Z24i G2 HPN3481 1920x1200 518x324mm 24.1-inch         | 1        | 1.61%   |
@@ -1751,8 +1750,8 @@ Monitor models
 | Hewlett-Packard E221c HWP3094 1920x1080 497x292mm 22.7-inch           | 1        | 1.61%   |
 | Hewlett-Packard 22cwa HWP3183 1920x1080 480x270mm 21.7-inch           | 1        | 1.61%   |
 | Hewlett-Packard 21kd HWP3329 1920x1080 458x258mm 20.7-inch            | 1        | 1.61%   |
+| Goldstar LG 32 FHD GSM7701 1920x1080 600x340mm 27.2-inch              | 1        | 1.61%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1        | 1.61%   |
-| Goldstar 32 FHD GSM7701 1920x1080 600x340mm 27.2-inch                 | 1        | 1.61%   |
 | Goldstar 23MB35 GSM5A3E 1920x1080 510x290mm 23.1-inch                 | 1        | 1.61%   |
 | Gigabyte Technology AORUS CV27Q GBT2705 2560x1440 600x340mm 27.2-inch | 1        | 1.61%   |
 | FUN HDMI Monitor FUN9D31 3840x2160 480x270mm 21.7-inch                | 1        | 1.61%   |
@@ -1957,7 +1956,7 @@ Controller models
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 1.25%   |
 | OnePlus (Shenzhen) SM8150-MTP _SN:5A38C392                              | 1        | 1.25%   |
 | Nvidia MCP61 Ethernet                                                   | 1        | 1.25%   |
-| MediaTek Titan pocket                                                   | 1        | 1.25%   |
+| MediaTek moto g22                                                       | 1        | 1.25%   |
 | Intel Wireless 7265                                                     | 1        | 1.25%   |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                  | 1        | 1.25%   |
 | Intel Tiger Lake PCH CNVi WiFi                                          | 1        | 1.25%   |
@@ -1983,13 +1982,14 @@ Wireless vendors
 
 | Vendor                          | Desktops | Percent |
 |---------------------------------|----------|---------|
-| Intel                           | 8        | 44.44%  |
-| TP-Link                         | 2        | 11.11%  |
-| Ralink Technology               | 2        | 11.11%  |
-| Qualcomm Atheros Communications | 2        | 11.11%  |
-| Qualcomm Atheros                | 2        | 11.11%  |
-| Realtek Semiconductor           | 1        | 5.56%   |
-| ASUSTek Computer                | 1        | 5.56%   |
+| Intel                           | 8        | 42.11%  |
+| TP-Link                         | 2        | 10.53%  |
+| Ralink Technology               | 2        | 10.53%  |
+| Qualcomm Atheros Communications | 2        | 10.53%  |
+| Qualcomm Atheros                | 2        | 10.53%  |
+| Tenda                           | 1        | 5.26%   |
+| Realtek Semiconductor           | 1        | 5.26%   |
+| ASUSTek Computer                | 1        | 5.26%   |
 
 Wireless Model
 --------------
@@ -2001,20 +2001,21 @@ Wireless models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Intel Wi-Fi 6 AX200                                                     | 4        | 22.22%  |
-| Qualcomm Atheros AR9271 802.11n                                         | 2        | 11.11%  |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 1        | 5.56%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                                  | 1        | 5.56%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                         | 1        | 5.56%   |
-| Ralink RT5572 Wireless Adapter                                          | 1        | 5.56%   |
-| Ralink MT7601U Wireless Adapter                                         | 1        | 5.56%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter              | 1        | 5.56%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 5.56%   |
-| Intel Wireless 7265                                                     | 1        | 5.56%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                  | 1        | 5.56%   |
-| Intel Tiger Lake PCH CNVi WiFi                                          | 1        | 5.56%   |
-| Intel Cannon Lake PCH CNVi WiFi                                         | 1        | 5.56%   |
-| ASUS USB-N13 802.11n Network Adapter (rev. B1) [Realtek RTL8192CU]      | 1        | 5.56%   |
+| Intel Wi-Fi 6 AX200                                                     | 4        | 21.05%  |
+| Qualcomm Atheros AR9271 802.11n                                         | 2        | 10.53%  |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 1        | 5.26%   |
+| TP-Link Archer T3U [Realtek RTL8812BU]                                  | 1        | 5.26%   |
+| Tenda U12                                                               | 1        | 5.26%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                         | 1        | 5.26%   |
+| Ralink RT5572 Wireless Adapter                                          | 1        | 5.26%   |
+| Ralink MT7601U Wireless Adapter                                         | 1        | 5.26%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter              | 1        | 5.26%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 5.26%   |
+| Intel Wireless 7265                                                     | 1        | 5.26%   |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                  | 1        | 5.26%   |
+| Intel Tiger Lake PCH CNVi WiFi                                          | 1        | 5.26%   |
+| Intel Cannon Lake PCH CNVi WiFi                                         | 1        | 5.26%   |
+| ASUS USB-N13 802.11n Network Adapter (rev. B1) [Realtek RTL8192CU]      | 1        | 5.26%   |
 
 Ethernet Vendor
 ---------------
@@ -2026,16 +2027,15 @@ Ethernet vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Realtek Semiconductor | 32       | 54.24%  |
-| Intel                 | 15       | 25.42%  |
-| Broadcom              | 3        | 5.08%   |
-| Xiaomi                | 2        | 3.39%   |
-| Qualcomm Atheros      | 2        | 3.39%   |
-| Tenda                 | 1        | 1.69%   |
-| Nvidia                | 1        | 1.69%   |
-| MediaTek              | 1        | 1.69%   |
-| ASIX Electronics      | 1        | 1.69%   |
-| Apple                 | 1        | 1.69%   |
+| Realtek Semiconductor | 32       | 55.17%  |
+| Intel                 | 15       | 25.86%  |
+| Broadcom              | 3        | 5.17%   |
+| Xiaomi                | 2        | 3.45%   |
+| Qualcomm Atheros      | 2        | 3.45%   |
+| Nvidia                | 1        | 1.72%   |
+| MediaTek              | 1        | 1.72%   |
+| ASIX Electronics      | 1        | 1.72%   |
+| Apple                 | 1        | 1.72%   |
 
 Ethernet Model
 --------------
@@ -2047,27 +2047,26 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 23       | 38.98%  |
-| Realtek RTL8125 2.5GbE Controller                                 | 7        | 11.86%  |
-| Intel I211 Gigabit Network Connection                             | 5        | 8.47%   |
-| Intel Ethernet Connection (2) I219-V                              | 4        | 6.78%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 5.08%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2        | 3.39%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.69%   |
-| Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.69%   |
-| Tenda U12                                                         | 1        | 1.69%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.69%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.69%   |
-| Nvidia MCP61 Ethernet                                             | 1        | 1.69%   |
-| MediaTek Titan pocket                                             | 1        | 1.69%   |
-| Intel Ethernet Connection I218-V                                  | 1        | 1.69%   |
-| Intel Ethernet Connection I217-LM                                 | 1        | 1.69%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 1        | 1.69%   |
-| Broadcom NetXtreme BCM5780 Gigabit Ethernet                       | 1        | 1.69%   |
-| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1        | 1.69%   |
-| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                  | 1        | 1.69%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1        | 1.69%   |
-| Apple iPad 4/Mini1                                                | 1        | 1.69%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 23       | 39.66%  |
+| Realtek RTL8125 2.5GbE Controller                                 | 7        | 12.07%  |
+| Intel I211 Gigabit Network Connection                             | 5        | 8.62%   |
+| Intel Ethernet Connection (2) I219-V                              | 4        | 6.9%    |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 5.17%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2        | 3.45%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.72%   |
+| Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.72%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.72%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.72%   |
+| Nvidia MCP61 Ethernet                                             | 1        | 1.72%   |
+| MediaTek moto g22                                                 | 1        | 1.72%   |
+| Intel Ethernet Connection I218-V                                  | 1        | 1.72%   |
+| Intel Ethernet Connection I217-LM                                 | 1        | 1.72%   |
+| Intel 82567LM-3 Gigabit Network Connection                        | 1        | 1.72%   |
+| Broadcom NetXtreme BCM5780 Gigabit Ethernet                       | 1        | 1.72%   |
+| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1        | 1.72%   |
+| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                  | 1        | 1.72%   |
+| ASIX AX88179 Gigabit Ethernet                                     | 1        | 1.72%   |
+| Apple iPad 4/Mini1                                                | 1        | 1.72%   |
 
 Net Controller Kind
 -------------------
@@ -2079,10 +2078,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 50       | 72.46%  |
-| WiFi     | 16       | 23.19%  |
-| Modem    | 2        | 2.9%    |
-| Unknown  | 1        | 1.45%   |
+| Ethernet | 50       | 71.43%  |
+| WiFi     | 17       | 24.29%  |
+| Modem    | 2        | 2.86%   |
+| Unknown  | 1        | 1.43%   |
 
 Used Controller
 ---------------
@@ -2094,8 +2093,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 44       | 86.27%  |
-| WiFi     | 7        | 13.73%  |
+| Ethernet | 43       | 84.31%  |
+| WiFi     | 8        | 15.69%  |
 
 NICs
 ----
@@ -2292,16 +2291,16 @@ Memory module models
 | Samsung RAM M378B2873EH1-CF8 1GB DIMM DDR3 1067MT/s      | 1        | 2.5%    |
 | Patriot RAM PSD48G24002 8GB DIMM DDR4 2400MT/s           | 1        | 2.5%    |
 | Kingston RAM KHX3200C18D4/8G 8GB DIMM DDR4 3333MT/s      | 1        | 2.5%    |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s        | 1        | 2.5%    |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s     | 1        | 2.5%    |
 | Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s     | 1        | 2.5%    |
-| Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s      | 1        | 2.5%    |
+| Kingston RAM KF3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s   | 1        | 2.5%    |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 2.5%    |
 | Kingston RAM 99U5471-025.A00LF 4096MB DIMM DDR3 1333MT/s | 1        | 2.5%    |
 | Kingston RAM 9905701-017.A00G 16GB DIMM DDR4 2667MT/s    | 1        | 2.5%    |
 | G.Skill RAM F4-3600C16-8GVK 8GB DIMM DDR4 3600MT/s       | 1        | 2.5%    |
 | G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s    | 1        | 2.5%    |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s      | 1        | 2.5%    |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s     | 1        | 2.5%    |
+| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3866MT/s   | 1        | 2.5%    |
+| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s  | 1        | 2.5%    |
 | G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s      | 1        | 2.5%    |
 | G.Skill RAM F4-2800C17-8GIS 8192MB DIMM DDR4 2800MT/s    | 1        | 2.5%    |
 | G.Skill RAM F4-2666C18-4GRS 4GB SODIMM DDR4 2400MT/s     | 1        | 2.5%    |
@@ -2458,7 +2457,7 @@ Camera device models
 | Sunplus USB 2.0 Camera                            | 1        | 6.67%   |
 | Realtek FULL HD 1080P Webcam                      | 1        | 6.67%   |
 | Microsoft LifeCam HD-3000                         | 1        | 6.67%   |
-| Microdia USB 2.0 Camera                           | 1        | 6.67%   |
+| Microdia GC02M2                                   | 1        | 6.67%   |
 | Microdia Camera                                   | 1        | 6.67%   |
 | MacroSilicon USB Video                            | 1        | 6.67%   |
 | MacroSilicon MS210x Video Grabber [EasierCAP]     | 1        | 6.67%   |

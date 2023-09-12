@@ -1200,7 +1200,7 @@ Monitor models
 | Sony TV SNYAB03 1920x1080                                            | 1        | 9.09%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 474x296mm 22.0-inch | 1        | 9.09%   |
 | Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch  | 1        | 9.09%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch | 1        | 9.09%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch | 1        | 9.09%   |
 | PRI Prima TV PRI1600 1920x1080                                       | 1        | 9.09%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 1        | 9.09%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch               | 1        | 9.09%   |

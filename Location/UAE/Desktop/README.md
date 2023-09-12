@@ -869,48 +869,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                              | Desktops | Percent |
-|----------------------------------------------------|----------|---------|
-| Crucial CT500MX500SSD1 500GB                       | 3        | 4%      |
-| WDC WDS240G2G0A-00JH30 240GB SSD                   | 2        | 2.67%   |
-| WDC WD1002FAEX-00Z3A0 1TB                          | 2        | 2.67%   |
-| Seagate ST500VT000-1DK142 500GB                    | 2        | 2.67%   |
-| Seagate ST500DM002-1BD142 500GB                    | 2        | 2.67%   |
-| Samsung SSD 850 PRO 1TB                            | 2        | 2.67%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 2        | 2.67%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD                   | 1        | 1.33%   |
-| WDC WD800BB-55JHC0 80GB                            | 1        | 1.33%   |
-| WDC WD6400AAKS-22A7B0 640GB                        | 1        | 1.33%   |
-| WDC WD5000LPCX-24VHAT0 500GB                       | 1        | 1.33%   |
-| WDC WD5000AAKS-65V0A0 500GB                        | 1        | 1.33%   |
-| WDC WD5000AAKS-00A7B2 500GB                        | 1        | 1.33%   |
-| WDC WD40EFRX-68WT0N0 4TB                           | 1        | 1.33%   |
-| WDC WD40EFRX-68N32N0 4TB                           | 1        | 1.33%   |
-| WDC WD2500AAJS-75M0A0 249GB                        | 1        | 1.33%   |
-| WDC WD20EZRX-00D8PB0 2TB                           | 1        | 1.33%   |
-| WDC WD1600AAJS-60B4A0 160GB                        | 1        | 1.33%   |
-| WDC WD10EZEX-21WN4A0 1TB                           | 1        | 1.33%   |
-| WDC WD10EZEX-08M2NA0 1TB                           | 1        | 1.33%   |
-| WDC WD10EARS-00MVWB0 1TB                           | 1        | 1.33%   |
-| Transcend TS256GSSD370S 256GB                      | 1        | 1.33%   |
-| Toshiba MK3275GSX 320GB                            | 1        | 1.33%   |
-| Toshiba HDWE160 6TB                                | 1        | 1.33%   |
-| Toshiba DT01ACA200 2TB                             | 1        | 1.33%   |
-| Toshiba DT01ACA100 1TB                             | 1        | 1.33%   |
-| Super Talent FTM1TN325H 1TB SSD                    | 1        | 1.33%   |
-| Seagate ST500LT012-1DG142 500GB                    | 1        | 1.33%   |
-| Seagate ST4000DM004-2CV104 4TB                     | 1        | 1.33%   |
-| Seagate ST4000DM001-1FK17N 4TB                     | 1        | 1.33%   |
-| Seagate ST31000528AS 1TB                           | 1        | 1.33%   |
-| Seagate ST2000DM008-2FR102 2TB                     | 1        | 1.33%   |
-| Seagate ST12000NM0008-2H3101 12TB                  | 1        | 1.33%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                 | 1        | 1.33%   |
-| Seagate ST1000DM010-2EP102 1TB                     | 1        | 1.33%   |
-| Seagate Expansion 1TB                              | 1        | 1.33%   |
-| Sandisk WD Black SN850 1TB                         | 1        | 1.33%   |
-| Samsung SSD 980 PRO 2TB                            | 1        | 1.33%   |
-| Samsung SSD 980 1TB                                | 1        | 1.33%   |
-| Samsung SSD 970 EVO Plus 500GB                     | 1        | 1.33%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Crucial CT500MX500SSD1 500GB                          | 3        | 4%      |
+| WDC WDS240G2G0A-00JH30 240GB SSD                      | 2        | 2.67%   |
+| WDC WD1002FAEX-00Z3A0 1TB                             | 2        | 2.67%   |
+| Seagate ST500VT000-1DK142 500GB                       | 2        | 2.67%   |
+| Seagate ST500DM002-1BD142 500GB                       | 2        | 2.67%   |
+| Samsung SSD 850 PRO 1TB                               | 2        | 2.67%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 2        | 2.67%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD                      | 1        | 1.33%   |
+| WDC WD800BB-55JHC0 80GB                               | 1        | 1.33%   |
+| WDC WD6400AAKS-22A7B0 640GB                           | 1        | 1.33%   |
+| WDC WD5000LPCX-24VHAT0 500GB                          | 1        | 1.33%   |
+| WDC WD5000AAKS-65V0A0 500GB                           | 1        | 1.33%   |
+| WDC WD5000AAKS-00A7B2 500GB                           | 1        | 1.33%   |
+| WDC WD40EFRX-68WT0N0 4TB                              | 1        | 1.33%   |
+| WDC WD40EFRX-68N32N0 4TB                              | 1        | 1.33%   |
+| WDC WD2500AAJS-75M0A0 250GB                           | 1        | 1.33%   |
+| WDC WD20EZRX-00D8PB0 2TB                              | 1        | 1.33%   |
+| WDC WD1600AAJS-60B4A0 160GB                           | 1        | 1.33%   |
+| WDC WD10EZEX-21WN4A0 1TB                              | 1        | 1.33%   |
+| WDC WD10EZEX-08M2NA0 1TB                              | 1        | 1.33%   |
+| WDC WD10EARS-00MVWB0 1TB                              | 1        | 1.33%   |
+| Transcend TS256GSSD370S 256GB                         | 1        | 1.33%   |
+| Toshiba MK3275GSX 320GB                               | 1        | 1.33%   |
+| Toshiba HDWE160 6TB                                   | 1        | 1.33%   |
+| Toshiba DT01ACA200 2TB                                | 1        | 1.33%   |
+| Toshiba DT01ACA100 1TB                                | 1        | 1.33%   |
+| Super Talent FTM1TN325H 1TB SSD                       | 1        | 1.33%   |
+| Seagate ST500LT012-1DG142 500GB                       | 1        | 1.33%   |
+| Seagate ST4000DM004-2CV104 4TB                        | 1        | 1.33%   |
+| Seagate ST4000DM001-1FK17N 4TB                        | 1        | 1.33%   |
+| Seagate ST31000528AS 1TB                              | 1        | 1.33%   |
+| Seagate ST2000DM008-2FR102 2TB                        | 1        | 1.33%   |
+| Seagate ST12000NM0008-2H3101 12TB                     | 1        | 1.33%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                    | 1        | 1.33%   |
+| Seagate ST1000DM010-2EP102 1TB                        | 1        | 1.33%   |
+| Seagate Expansion 2TB                                 | 1        | 1.33%   |
+| Sandisk WD Black SN850 256GB                          | 1        | 1.33%   |
+| Samsung SSD 980 PRO 2TB                               | 1        | 1.33%   |
+| Samsung SSD 980 1TB                                   | 1        | 1.33%   |
+| Samsung SSD 970 EVO Plus 500GB                        | 1        | 1.33%   |
 
 HDD Vendor
 ----------
@@ -991,12 +991,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 23       | 33     | 46.94%  |
-| 0.51-1.0   | 14       | 21     | 28.57%  |
-| 1.01-2.0   | 6        | 10     | 12.24%  |
-| 3.01-4.0   | 4        | 11     | 8.16%   |
-| 10.01-20.0 | 1        | 1      | 2.04%   |
-| 4.01-10.0  | 1        | 1      | 2.04%   |
+| 0.01-0.5   | 23       | 33     | 46%     |
+| 0.51-1.0   | 14       | 20     | 28%     |
+| 1.01-2.0   | 7        | 11     | 14%     |
+| 3.01-4.0   | 4        | 11     | 8%      |
+| 10.01-20.0 | 1        | 1      | 2%      |
+| 4.01-10.0  | 1        | 1      | 2%      |
 
 Space Total
 -----------
@@ -1579,7 +1579,7 @@ Monitor models
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch    | 1        | 2.86%   |
 | Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch    | 1        | 2.86%   |
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                   | 1        | 2.86%   |
-| Panasonic TV MEIA296 3840x2160 698x392mm 31.5-inch                   | 1        | 2.86%   |
+| Panasonic TV MEIA296 3840x2160 1280x720mm 57.8-inch                  | 1        | 2.86%   |
 | Mi Monitor XMI3444 3440x1440 797x334mm 34.0-inch                     | 1        | 2.86%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                    | 1        | 2.86%   |
 | Lenovo LEN LT2223pwC LEN60A1 1920x1080 477x268mm 21.5-inch           | 1        | 2.86%   |
@@ -1587,7 +1587,7 @@ Monitor models
 | Hewlett-Packard W2371d HWP3027 1920x1080 510x287mm 23.0-inch         | 1        | 2.86%   |
 | Hewlett-Packard LCD Monitor HWP4101 1920x1080 470x270mm 21.3-inch    | 1        | 2.86%   |
 | Hewlett-Packard E232 HWP3279 1920x1080 509x286mm 23.0-inch           | 1        | 2.86%   |
-| Hewlett-Packard E231 HWP3063 1920x1080 510x287mm 23.0-inch           | 1        | 2.86%   |
+| Hewlett-Packard E231 HWP3063 1920x1080 509x286mm 23.0-inch           | 1        | 2.86%   |
 | Goldstar ULTRAGEAR+ GSM5BEE 3840x2160 600x340mm 27.2-inch            | 1        | 2.86%   |
 | Goldstar M2341A GSM5832 1920x1080 510x290mm 23.1-inch                | 1        | 2.86%   |
 | Goldstar HDR 4K GSM7750 3840x2160 697x392mm 31.5-inch                | 1        | 2.86%   |
@@ -1599,10 +1599,10 @@ Monitor models
 | CTX 315-HDMI CTX6335 2560x1440 698x393mm 31.5-inch                   | 1        | 2.86%   |
 | BenQ XL2720Z BNQ7F29 1920x1080 597x336mm 27.0-inch                   | 1        | 2.86%   |
 | BenQ RL2455 BNQ7F1C 1920x1080 531x298mm 24.0-inch                    | 1        | 2.86%   |
-| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                    | 1        | 2.86%   |
+| BenQ GW2480 BNQ78E7 1920x1080 530x300mm 24.0-inch                    | 1        | 2.86%   |
 | BenQ GW2406Z BNQ78E1 1920x1080 531x299mm 24.0-inch                   | 1        | 2.86%   |
 | ASUSTek Computer PG32UQ AUS32E1 3840x2160 708x399mm 32.0-inch        | 1        | 2.86%   |
-| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1        | 2.86%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1        | 2.86%   |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch     | 1        | 2.86%   |
 | Ancor Communications LCD Monitor ASUS PB287 3840x2160                | 1        | 2.86%   |
 | Ancor Communications ASUS VT207 ACI20F4 1600x900 458x256mm 20.7-inch | 1        | 2.86%   |
@@ -2102,7 +2102,7 @@ Memory module models
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
 | SK hynix RAM HMT31GR7BFR4A-H9 8GB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
-| Samsung RAM M393B5170FH0-CH9 4096MB DIMM 1333MT/s        | 1        | 4.76%   |
+| Samsung RAM M393B5170FH0-CH9 4GB DIMM DDR3 1333MT/s      | 1        | 4.76%   |
 | Samsung RAM M393B1K70DH0-YH9 8GB DIMM 1333MT/s           | 1        | 4.76%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 4.76%   |
 | Micron RAM 36JSZF51272PZ1G4G1 4GB DIMM DDR3 1333MT/s     | 1        | 4.76%   |

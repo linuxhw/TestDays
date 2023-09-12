@@ -675,7 +675,7 @@ Hard drive models
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
 | WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 5.56%   |
-| WDC WD2500BEVT-22A23T0 250GB             | 1         | 5.56%   |
+| WDC WD2500BEVT-22A23T0 208GB             | 1         | 5.56%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 5.56%   |
 | WDC WD10JPVX-22JC3T0 1TB                 | 1         | 5.56%   |
 | Transcend TS240GSSD220S 240GB            | 1         | 5.56%   |
@@ -690,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -1181,7 +1181,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1715,7 +1715,7 @@ Camera device models
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
 | Suyin HP TrueVision HD Integrated Webcam  | 1         | 10%     |
-| Suyin 1.3M HD WebCam                      | 1         | 10%     |
+| Suyin 1.3M Front                          | 1         | 10%     |
 | Microdia Dell Laptop Integrated Webcam HD | 1         | 10%     |
 | Lite-On Integrated Camera                 | 1         | 10%     |
 | Lite-On HP HD Webcam                      | 1         | 10%     |

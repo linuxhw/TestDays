@@ -1050,7 +1050,7 @@ Hard drive models
 | WDC WD1200BEVE-00A0HT0 120GB            | 1         | 0.93%   |
 | WDC WD10EADS-65M2B0 1TB                 | 1         | 0.93%   |
 | Unknown SR64G  64GB                     | 1         | 0.93%   |
-| Unknown SD/MMC/MS PRO 128GB             | 1         | 0.93%   |
+| Unknown SD/MMC/MS PRO 1GB               | 1         | 0.93%   |
 | Unknown HAG2e  16GB                     | 1         | 0.93%   |
 | Unknown 2GB ATA Flash Disk              | 1         | 0.93%   |
 | Unknown (CF) Card 16GB SSD              | 1         | 0.93%   |
@@ -1826,12 +1826,12 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch     | 2         | 3.17%   |
 | AU Optronics LCD Monitor AUO40EC 1366x768 344x193mm 15.5-inch            | 2         | 3.17%   |
-| Vizio E320i-B2 VIZ1002 1360x768 700x400mm 31.7-inch                      | 1         | 1.59%   |
+| Vizio E280i-A1 VIZ1002 1360x768 607x345mm 27.5-inch                      | 1         | 1.59%   |
 | Samsung Electronics SyncMaster SAM0117 1280x1024 312x234mm 15.4-inch     | 1         | 1.59%   |
 | Samsung Electronics SMT22A300 SAM087B 1920x1080 480x270mm 21.7-inch      | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch     | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC3741 1366x768 309x174mm 14.0-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC3051 1366x768 344x194mm 15.5-inch     | 1         | 1.59%   |
 | LG Philips LCD Monitor LPLE800 1280x800 304x190mm 14.1-inch              | 1         | 1.59%   |
 | LG Philips LCD Monitor LPLA101 1440x900 367x230mm 17.1-inch              | 1         | 1.59%   |
@@ -1841,7 +1841,7 @@ Monitor models
 | LG Display LP101WH1-TLB5 LGD0248 1366x768 224x126mm 10.1-inch            | 1         | 1.59%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch             | 1         | 1.59%   |
 | LG Display LCD Monitor LGD04B2 1920x1080 309x175mm 14.0-inch             | 1         | 1.59%   |
-| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 1.59%   |
+| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 1         | 1.59%   |
 | LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch              | 1         | 1.59%   |
 | LG Display LCD Monitor LGD034D 1366x768 344x194mm 15.5-inch              | 1         | 1.59%   |
 | LG Display LCD Monitor LGD033B 1366x768 344x194mm 15.5-inch              | 1         | 1.59%   |
@@ -1849,7 +1849,7 @@ Monitor models
 | LG Display LCD Monitor LGD028A 1366x768 344x194mm 15.5-inch              | 1         | 1.59%   |
 | Lenovo LEN T24i-20 LEN61F7 1920x1080 527x296mm 23.8-inch                 | 1         | 1.59%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 1.59%   |
-| InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch              | 1         | 1.59%   |
+| InfoVision LCD Monitor IVO03F4 1920x1200 263x164mm 12.2-inch             | 1         | 1.59%   |
 | HJW HDMI TO USB HJW0001 1920x1080 708x398mm 32.0-inch                    | 1         | 1.59%   |
 | Hewlett-Packard Contino HPN4018 1920x1080 527x296mm 23.8-inch            | 1         | 1.59%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 1         | 1.59%   |
@@ -2178,16 +2178,17 @@ Ethernet vendors
 
 | Vendor                           | Computers | Percent |
 |----------------------------------|-----------|---------|
-| Realtek Semiconductor            | 35        | 45.45%  |
-| Intel                            | 15        | 19.48%  |
-| Broadcom                         | 8         | 10.39%  |
-| Qualcomm Atheros                 | 5         | 6.49%   |
-| Nvidia                           | 5         | 6.49%   |
-| Marvell Technology Group         | 4         | 5.19%   |
-| Silicon Integrated Systems [SiS] | 2         | 2.6%    |
-| Broadcom Limited                 | 1         | 1.3%    |
-| Attansic Technology              | 1         | 1.3%    |
-| ASIX Electronics                 | 1         | 1.3%    |
+| Realtek Semiconductor            | 35        | 44.87%  |
+| Intel                            | 15        | 19.23%  |
+| Broadcom                         | 8         | 10.26%  |
+| Qualcomm Atheros                 | 5         | 6.41%   |
+| Nvidia                           | 5         | 6.41%   |
+| Marvell Technology Group         | 4         | 5.13%   |
+| Silicon Integrated Systems [SiS] | 2         | 2.56%   |
+| Samsung Electronics              | 1         | 1.28%   |
+| Broadcom Limited                 | 1         | 1.28%   |
+| Attansic Technology              | 1         | 1.28%   |
+| ASIX Electronics                 | 1         | 1.28%   |
 
 Ethernet Model
 --------------
@@ -2199,46 +2200,46 @@ Ethernet models
 
 | Model                                                             | Computers | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 12        | 15.58%  |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11        | 14.29%  |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 7         | 9.09%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3         | 3.9%    |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 2         | 2.6%    |
-| Realtek RTL8125 2.5GbE Controller                                 | 2         | 2.6%    |
-| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 2         | 2.6%    |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 2         | 2.6%    |
-| Marvell Group 88E8039 PCI-E Fast Ethernet Controller              | 2         | 2.6%    |
-| Intel 82540EP Gigabit Ethernet Controller (Mobile)                | 2         | 2.6%    |
-| Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 2         | 2.6%    |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 2         | 2.6%    |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 1.3%    |
-| Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 1.3%    |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 1.3%    |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 1         | 1.3%    |
-| Nvidia MCP89 Ethernet                                             | 1         | 1.3%    |
-| Nvidia MCP67 Ethernet                                             | 1         | 1.3%    |
-| Nvidia MCP61 Ethernet                                             | 1         | 1.3%    |
-| Nvidia CK8S Ethernet Controller                                   | 1         | 1.3%    |
-| Nvidia CK804 Ethernet Controller                                  | 1         | 1.3%    |
-| Marvell Group 88E8072 PCI-E Gigabit Ethernet Controller           | 1         | 1.3%    |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1         | 1.3%    |
-| Intel Ethernet Controller I225-V                                  | 1         | 1.3%    |
-| Intel Ethernet Connection I217-LM                                 | 1         | 1.3%    |
-| Intel Ethernet Connection (7) I219-V                              | 1         | 1.3%    |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 1.3%    |
-| Intel 82801DB PRO/100 VE (LOM) Ethernet Controller                | 1         | 1.3%    |
-| Intel 82801BA/BAM/CA/CAM Ethernet Controller                      | 1         | 1.3%    |
-| Intel 82577LM Gigabit Network Connection                          | 1         | 1.3%    |
-| Intel 82567LM-3 Gigabit Network Connection                        | 1         | 1.3%    |
-| Intel 82567LM Gigabit Network Connection                          | 1         | 1.3%    |
-| Intel 82551QM Ethernet Controller                                 | 1         | 1.3%    |
-| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.3%    |
-| Broadcom NetXtreme BCM57760 Gigabit Ethernet PCIe                 | 1         | 1.3%    |
-| Broadcom NetXtreme BCM5751M Gigabit Ethernet PCI Express          | 1         | 1.3%    |
-| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 1.3%    |
-| Broadcom Limited NetLink BCM5906M Fast Ethernet PCI Express       | 1         | 1.3%    |
-| Attansic AR8152 v2.0 Fast Ethernet                                | 1         | 1.3%    |
-| ASIX AX88772A Fast Ethernet                                       | 1         | 1.3%    |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 12        | 15.38%  |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11        | 14.1%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 7         | 8.97%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3         | 3.85%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 2         | 2.56%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 2         | 2.56%   |
+| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 2         | 2.56%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 2         | 2.56%   |
+| Marvell Group 88E8039 PCI-E Fast Ethernet Controller              | 2         | 2.56%   |
+| Intel 82540EP Gigabit Ethernet Controller (Mobile)                | 2         | 2.56%   |
+| Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 2         | 2.56%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 2         | 2.56%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 1.28%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 1.28%   |
+| Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 1.28%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 1.28%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                             | 1         | 1.28%   |
+| Nvidia MCP89 Ethernet                                             | 1         | 1.28%   |
+| Nvidia MCP67 Ethernet                                             | 1         | 1.28%   |
+| Nvidia MCP61 Ethernet                                             | 1         | 1.28%   |
+| Nvidia CK8S Ethernet Controller                                   | 1         | 1.28%   |
+| Nvidia CK804 Ethernet Controller                                  | 1         | 1.28%   |
+| Marvell Group 88E8072 PCI-E Gigabit Ethernet Controller           | 1         | 1.28%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1         | 1.28%   |
+| Intel Ethernet Controller I225-V                                  | 1         | 1.28%   |
+| Intel Ethernet Connection I217-LM                                 | 1         | 1.28%   |
+| Intel Ethernet Connection (7) I219-V                              | 1         | 1.28%   |
+| Intel Ethernet Connection (4) I219-LM                             | 1         | 1.28%   |
+| Intel 82801DB PRO/100 VE (LOM) Ethernet Controller                | 1         | 1.28%   |
+| Intel 82801BA/BAM/CA/CAM Ethernet Controller                      | 1         | 1.28%   |
+| Intel 82577LM Gigabit Network Connection                          | 1         | 1.28%   |
+| Intel 82567LM-3 Gigabit Network Connection                        | 1         | 1.28%   |
+| Intel 82567LM Gigabit Network Connection                          | 1         | 1.28%   |
+| Intel 82551QM Ethernet Controller                                 | 1         | 1.28%   |
+| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.28%   |
+| Broadcom NetXtreme BCM57760 Gigabit Ethernet PCIe                 | 1         | 1.28%   |
+| Broadcom NetXtreme BCM5751M Gigabit Ethernet PCI Express          | 1         | 1.28%   |
+| Broadcom NetLink BCM5787M Gigabit Ethernet PCI Express            | 1         | 1.28%   |
+| Broadcom Limited NetLink BCM5906M Fast Ethernet PCI Express       | 1         | 1.28%   |
+| Attansic AR8152 v2.0 Fast Ethernet                                | 1         | 1.28%   |
 
 Net Controller Kind
 -------------------
@@ -2250,9 +2251,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 75        | 49.67%  |
-| WiFi     | 68        | 45.03%  |
-| Modem    | 8         | 5.3%    |
+| Ethernet | 75        | 50%     |
+| WiFi     | 68        | 45.33%  |
+| Modem    | 7         | 4.67%   |
 
 Used Controller
 ---------------
@@ -2332,6 +2333,7 @@ Controller models
 | Intel Bluetooth wireless interface                  | 3         | 8.82%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 8.82%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 2         | 5.88%   |
+| Intel Bluetooth Device                              | 2         | 5.88%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 5.88%   |
 | Intel AX201 Bluetooth                               | 2         | 5.88%   |
 | IMC Networks Bluetooth Device                       | 2         | 5.88%   |
@@ -2343,8 +2345,6 @@ Controller models
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 2.94%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 2.94%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 2.94%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.94%   |
-| Intel Bluetooth Device                              | 1         | 2.94%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 2.94%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1         | 2.94%   |
 | Broadcom BCM2070 Bluetooth 2.1 + EDR                | 1         | 2.94%   |
@@ -2469,48 +2469,48 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Unknown                                                           | 8         | 7.92%   |
-| Unknown RAM Module 2GB DIMM SDRAM                                 | 3         | 2.97%   |
-| Unknown RAM Module 1024MB SODIMM DDR                              | 3         | 2.97%   |
-| Unknown RAM Module 512MB SODIMM DDR                               | 2         | 1.98%   |
-| Unknown RAM Module 2GB SODIMM SDRAM                               | 2         | 1.98%   |
-| Unknown RAM Module 2GB DIMM DDR3 800MT/s                          | 2         | 1.98%   |
-| Unknown RAM Module 256MB SODIMM DRAM                              | 2         | 1.98%   |
-| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                        | 2         | 1.98%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 2         | 1.98%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1600MT/s                  | 2         | 1.98%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s          | 2         | 1.98%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 4199MT/s                  | 2         | 1.98%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s             | 2         | 1.98%   |
-| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3534MT/s            | 2         | 1.98%   |
-| Unknown RAM Module 512MB SODIMM SDRAM                             | 1         | 0.99%   |
-| Unknown RAM Module 512MB SODIMM DRAM                              | 1         | 0.99%   |
-| Unknown RAM Module 512MB SODIMM DDR2 533MT/s                      | 1         | 0.99%   |
-| Unknown RAM Module 512MB DIMM DDR 400MT/s                         | 1         | 0.99%   |
-| Unknown RAM Module 512MB DIMM DDR 333MT/s                         | 1         | 0.99%   |
-| Unknown RAM Module 512MB DIMM                                     | 1         | 0.99%   |
-| Unknown RAM Module 2GB SODIMM DRAM                                | 1         | 0.99%   |
-| Unknown RAM Module 2GB SODIMM DDR3 800MT/s                        | 1         | 0.99%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                        | 1         | 0.99%   |
-| Unknown RAM Module 2GB SODIMM DDR2 533MT/s                        | 1         | 0.99%   |
-| Unknown RAM Module 2GB SODIMM DDR2                                | 1         | 0.99%   |
-| Unknown RAM Module 2GB SODIMM DDR                                 | 1         | 0.99%   |
-| Unknown RAM Module 256MB DIMM SDRAM                               | 1         | 0.99%   |
-| Unknown RAM Module 2048MB SODIMM SDRAM                            | 1         | 0.99%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                     | 1         | 0.99%   |
-| Unknown RAM Module 1GB SODIMM DRAM                                | 1         | 0.99%   |
-| Unknown RAM Module 1GB SODIMM DDR2                                | 1         | 0.99%   |
-| Unknown RAM Module 1GB DIMM SDRAM                                 | 1         | 0.99%   |
-| Unknown RAM Module 1GB DIMM DDR 333MT/s                           | 1         | 0.99%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                               | 1         | 0.99%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM                            | 1         | 0.99%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                              | 1         | 0.99%   |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                       | 1         | 0.99%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1         | 0.99%   |
-| Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s    | 1         | 0.99%   |
-| Unknown (0x0DA2) RAM SB-DR5U-32G 32GB DIMM DDR5 4800MT/s          | 1         | 0.99%   |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Unknown                                                        | 8         | 7.92%   |
+| Unknown RAM Module 2GB DIMM SDRAM                              | 3         | 2.97%   |
+| Unknown RAM Module 1024MB SODIMM DDR                           | 3         | 2.97%   |
+| Unknown RAM Module 512MB SODIMM DDR                            | 2         | 1.98%   |
+| Unknown RAM Module 2GB SODIMM SDRAM                            | 2         | 1.98%   |
+| Unknown RAM Module 2GB DIMM DDR3 800MT/s                       | 2         | 1.98%   |
+| Unknown RAM Module 256MB SODIMM DRAM                           | 2         | 1.98%   |
+| Unknown RAM Module 1GB SODIMM DDR2 533MT/s                     | 2         | 1.98%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 1.98%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s          | 2         | 1.98%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 2         | 1.98%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 4199MT/s          | 2         | 1.98%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 2         | 1.98%   |
+| Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3534MT/s         | 2         | 1.98%   |
+| Unknown RAM Module 512MB SODIMM SDRAM                          | 1         | 0.99%   |
+| Unknown RAM Module 512MB SODIMM DRAM                           | 1         | 0.99%   |
+| Unknown RAM Module 512MB SODIMM DDR2 533MT/s                   | 1         | 0.99%   |
+| Unknown RAM Module 512MB DIMM DDR 400MT/s                      | 1         | 0.99%   |
+| Unknown RAM Module 512MB DIMM DDR 333MT/s                      | 1         | 0.99%   |
+| Unknown RAM Module 512MB DIMM                                  | 1         | 0.99%   |
+| Unknown RAM Module 2GB SODIMM DRAM                             | 1         | 0.99%   |
+| Unknown RAM Module 2GB SODIMM DDR3 800MT/s                     | 1         | 0.99%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                     | 1         | 0.99%   |
+| Unknown RAM Module 2GB SODIMM DDR2 533MT/s                     | 1         | 0.99%   |
+| Unknown RAM Module 2GB SODIMM DDR2                             | 1         | 0.99%   |
+| Unknown RAM Module 2GB SODIMM DDR                              | 1         | 0.99%   |
+| Unknown RAM Module 256MB DIMM SDRAM                            | 1         | 0.99%   |
+| Unknown RAM Module 2048MB SODIMM SDRAM                         | 1         | 0.99%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                  | 1         | 0.99%   |
+| Unknown RAM Module 1GB SODIMM DRAM                             | 1         | 0.99%   |
+| Unknown RAM Module 1GB SODIMM DDR2                             | 1         | 0.99%   |
+| Unknown RAM Module 1GB DIMM SDRAM                              | 1         | 0.99%   |
+| Unknown RAM Module 1GB DIMM DDR 333MT/s                        | 1         | 0.99%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                            | 1         | 0.99%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM                         | 1         | 0.99%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                           | 1         | 0.99%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                    | 1         | 0.99%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1         | 0.99%   |
+| Unknown (8A02) RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s | 1         | 0.99%   |
+| Unknown (0x0DA2) RAM SB-DR5U-32G 32GB DIMM DDR5 4800MT/s       | 1         | 0.99%   |
 
 Memory Kind
 -----------
@@ -2671,12 +2671,11 @@ Camera device models
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
 | Microdia Sonix USB 2.0 Camera                           | 3         | 6.98%   |
+| Suyin USB 2.0 Camera                                    | 2         | 4.65%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro                    | 2         | 4.65%   |
 | IMC Networks USB2.0 VGA UVC WebCam                      | 2         | 4.65%   |
 | Bison BisonCam, NB Pro                                  | 2         | 4.65%   |
 | Syntek Integrated Camera                                | 1         | 2.33%   |
-| Suyin USB2.0 UVC 1.3M WebCam                            | 1         | 2.33%   |
-| Suyin USB 2.0 Camera                                    | 1         | 2.33%   |
 | Suyin Laptop_Integrated_Webcam_2HDM                     | 1         | 2.33%   |
 | Suyin Integrated_Webcam_HD                              | 1         | 2.33%   |
 | Sunplus Integrated_Webcam_HD                            | 1         | 2.33%   |

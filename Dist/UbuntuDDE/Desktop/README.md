@@ -901,7 +901,7 @@ Hard drive models
 | WDC WD2500AAKX-001CA0 250GB        | 1        | 1.54%   |
 | WDC WD2002FAEX-007BA0 2TB          | 1        | 1.54%   |
 | WDC WD1003FZEX-00K3CA0 1TB         | 1        | 1.54%   |
-| Vaseky V800/128G 128GB             | 1        | 1.54%   |
+| Vaseky V800/128G 120GB SSD         | 1        | 1.54%   |
 | Toshiba THNSFC128GBSJ SSD          | 1        | 1.54%   |
 | Toshiba MQ01ABD100 1TB             | 1        | 1.54%   |
 | Toshiba MK3275GSX 320GB            | 1        | 1.54%   |
@@ -923,7 +923,7 @@ Hard drive models
 | Samsung HM250HI 250GB              | 1        | 1.54%   |
 | Samsung HD161HJ 160GB              | 1        | 1.54%   |
 | Samsung HD103SJ 1TB                | 1        | 1.54%   |
-| Samsung HD080HJ/ 80GB              | 1        | 1.54%   |
+| Samsung HD080HJ 80GB               | 1        | 1.54%   |
 | PNY CS900 1TB SSD                  | 1        | 1.54%   |
 | Plextor PX-128M5M 128GB SSD        | 1        | 1.54%   |
 | Maxtor STM3160215AS 160GB          | 1        | 1.54%   |
@@ -1589,7 +1589,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.44%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.44%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                       | 1        | 2.44%   |
+| Vestel Elektronik 40W_LCD_TV VES3700 1920x540                          | 1        | 2.44%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.44%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.44%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.44%   |
@@ -1607,9 +1607,9 @@ Monitor models
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.44%   |
 | Hewlett-Packard LA2306 HWP294A 1920x1080 509x286mm 23.0-inch           | 1        | 2.44%   |
 | Hewlett-Packard L1740 HWP2649 1280x1024 338x270mm 17.0-inch            | 1        | 2.44%   |
-| Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch             | 1        | 2.44%   |
+| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 2.44%   |
 | HannStar iH282 HSD20E6 1920x1200 590x370mm 27.4-inch                   | 1        | 2.44%   |
-| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 2.44%   |
+| Goldstar ULTRAWIDE GSM76F9 2560x1080 798x334mm 34.1-inch               | 1        | 2.44%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 2.44%   |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.44%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.44%   |
@@ -1626,7 +1626,7 @@ Monitor models
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                  | 1        | 2.44%   |
 | Ancor Communications LCD Monitor ASUS VS247                            | 1        | 2.44%   |
 | Ancor Communications ASUS PB287Q ACI28A3 3840x2160 621x341mm 27.9-inch | 1        | 2.44%   |
-| Acer P193W ACR000C 1440x900 410x256mm 19.0-inch                        | 1        | 2.44%   |
+| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                        | 1        | 2.44%   |
 
 Monitor Resolution
 ------------------
@@ -2029,10 +2029,10 @@ Controller models
 | Intel Bluetooth wireless interface                  | 4        | 25%     |
 | Realtek  Bluetooth 4.2 Adapter                      | 1        | 6.25%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1        | 6.25%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.25%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 6.25%   |
+| Intel Bluetooth Device                              | 1        | 6.25%   |
 | Integrated System Solution Bluetooth Device         | 1        | 6.25%   |
-| Apple Bluetooth USB Host Controller                 | 1        | 6.25%   |
+| Apple Bluetooth Host Controller                     | 1        | 6.25%   |
 
 Sound
 -----

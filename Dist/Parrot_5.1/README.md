@@ -604,16 +604,17 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2021 | 21        | 28.38%  |
 | 2022 | 9         | 12.16%  |
-| 2012 | 7         | 9.46%   |
+| 2012 | 8         | 10.81%  |
 | 2020 | 6         | 8.11%   |
 | 2019 | 5         | 6.76%   |
-| 2016 | 5         | 6.76%   |
+| 2016 | 4         | 5.41%   |
 | 2011 | 4         | 5.41%   |
 | 2010 | 4         | 5.41%   |
-| 2018 | 3         | 4.05%   |
 | 2014 | 3         | 4.05%   |
+| 2018 | 2         | 2.7%    |
 | 2017 | 2         | 2.7%    |
 | 2009 | 2         | 2.7%    |
+| 2015 | 1         | 1.35%   |
 | 2013 | 1         | 1.35%   |
 | 2008 | 1         | 1.35%   |
 | 2007 | 1         | 1.35%   |
@@ -925,7 +926,7 @@ Hard drive models
 | WDC PC SN530 SDBPMPZ-512G-1001 512GB      | 1         | 1%      |
 | WDC PC SN530 SDBPMPZ-256G-1001 256GB      | 1         | 1%      |
 | Unknown SD2GB                             | 1         | 1%      |
-| Unknown SD/MMC/MS PRO 128GB               | 1         | 1%      |
+| Unknown SD/MMC/MS PRO 1GB                 | 1         | 1%      |
 | Unknown MMC Card  8GB                     | 1         | 1%      |
 | Unknown MMC Card  64GB                    | 1         | 1%      |
 | Toshiba MQ01ABD100 1TB                    | 1         | 1%      |
@@ -1675,7 +1676,7 @@ Monitor models
 | Planar PNR PL1910MW PNR1910 1440x900 410x257mm 19.1-inch               | 1         | 1.15%   |
 | PANDA LCD Monitor NCP004D 1920x1080 344x194mm 15.5-inch                | 1         | 1.15%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch            | 1         | 1.15%   |
-| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1         | 1.15%   |
+| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                       | 1         | 1.15%   |
 | LG Philips LCD Monitor LPLBC00 1280x800 331x207mm 15.4-inch            | 1         | 1.15%   |
 | LG Display LCD Monitor LGD06A5 1920x1080 344x194mm 15.5-inch           | 1         | 1.15%   |
 | LG Display LCD Monitor LGD0637 1920x1080 344x194mm 15.5-inch           | 1         | 1.15%   |
@@ -2019,20 +2020,20 @@ Ethernet vendors
 
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
-| Realtek Semiconductor                  | 31        | 49.21%  |
-| Intel                                  | 13        | 20.63%  |
-| Qualcomm Atheros                       | 6         | 9.52%   |
-| Nvidia                                 | 3         | 4.76%   |
-| Xiaomi                                 | 1         | 1.59%   |
-| Sony Ericsson Mobile Communications AB | 1         | 1.59%   |
-| Samsung Electronics                    | 1         | 1.59%   |
-| Qualcomm                               | 1         | 1.59%   |
-| OPPO Electronics                       | 1         | 1.59%   |
-| Marvell Technology Group               | 1         | 1.59%   |
-| Lenovo                                 | 1         | 1.59%   |
-| JMicron Technology                     | 1         | 1.59%   |
-| Broadcom Limited                       | 1         | 1.59%   |
-| Broadcom                               | 1         | 1.59%   |
+| Realtek Semiconductor                  | 31        | 48.44%  |
+| Intel                                  | 13        | 20.31%  |
+| Qualcomm Atheros                       | 6         | 9.38%   |
+| Nvidia                                 | 3         | 4.69%   |
+| Samsung Electronics                    | 2         | 3.13%   |
+| Xiaomi                                 | 1         | 1.56%   |
+| Sony Ericsson Mobile Communications AB | 1         | 1.56%   |
+| Qualcomm                               | 1         | 1.56%   |
+| OPPO Electronics                       | 1         | 1.56%   |
+| Marvell Technology Group               | 1         | 1.56%   |
+| Lenovo                                 | 1         | 1.56%   |
+| JMicron Technology                     | 1         | 1.56%   |
+| Broadcom Limited                       | 1         | 1.56%   |
+| Broadcom                               | 1         | 1.56%   |
 
 Ethernet Model
 --------------
@@ -2044,38 +2045,39 @@ Ethernet models
 
 | Model                                                             | Computers | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 21        | 32.81%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 7.81%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 3         | 4.69%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 3.13%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 3.13%   |
-| Realtek Killer E3000 2.5GbE Controller                            | 2         | 3.13%   |
-| Nvidia MCP79 Ethernet                                             | 2         | 3.13%   |
-| Intel Ethernet Connection I217-V                                  | 2         | 3.13%   |
-| Intel Ethernet Connection (2) I219-V                              | 2         | 3.13%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 1.56%   |
-| Sony Ericsson Mobile AB G8341                                     | 1         | 1.56%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.56%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1         | 1.56%   |
-| Realtek PCIe GbE Family Controller                                | 1         | 1.56%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.56%   |
-| Realtek Killer E2500 Gigabit Ethernet Controller                  | 1         | 1.56%   |
-| Qualcomm Redmi Note 8                                             | 1         | 1.56%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.56%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.56%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 1.56%   |
-| OPPO SM6375-QRD _SN:F4A23F05                                      | 1         | 1.56%   |
-| Nvidia MCP61 Ethernet                                             | 1         | 1.56%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1         | 1.56%   |
-| Lenovo TB-X606F                                                   | 1         | 1.56%   |
-| JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 1         | 1.56%   |
-| Intel I211 Gigabit Network Connection                             | 1         | 1.56%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 1.56%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 1.56%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 1.56%   |
-| Intel Ethernet Connection (10) I219-V                             | 1         | 1.56%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.56%   |
-| Broadcom Limited NetXtreme BCM5756ME Gigabit Ethernet PCI Express | 1         | 1.56%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 21        | 32.31%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 7.69%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 3         | 4.62%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 3.08%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 3.08%   |
+| Realtek Killer E3000 2.5GbE Controller                            | 2         | 3.08%   |
+| Nvidia MCP79 Ethernet                                             | 2         | 3.08%   |
+| Intel Ethernet Connection I217-V                                  | 2         | 3.08%   |
+| Intel Ethernet Connection (2) I219-V                              | 2         | 3.08%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 1.54%   |
+| Sony Ericsson Mobile AB G8341                                     | 1         | 1.54%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 1.54%   |
+| Samsung Galaxy series, misc. (tethering mode)                     | 1         | 1.54%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 1         | 1.54%   |
+| Realtek PCIe GbE Family Controller                                | 1         | 1.54%   |
+| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.54%   |
+| Realtek Killer E2500 Gigabit Ethernet Controller                  | 1         | 1.54%   |
+| Qualcomm Redmi Note 8                                             | 1         | 1.54%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.54%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.54%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 1.54%   |
+| OPPO OnePlus Nord                                                 | 1         | 1.54%   |
+| Nvidia MCP61 Ethernet                                             | 1         | 1.54%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1         | 1.54%   |
+| Lenovo TB-X606F                                                   | 1         | 1.54%   |
+| JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 1         | 1.54%   |
+| Intel I211 Gigabit Network Connection                             | 1         | 1.54%   |
+| Intel Ethernet Connection I219-LM                                 | 1         | 1.54%   |
+| Intel Ethernet Connection (7) I219-LM                             | 1         | 1.54%   |
+| Intel Ethernet Connection (4) I219-V                              | 1         | 1.54%   |
+| Intel Ethernet Connection (10) I219-V                             | 1         | 1.54%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.54%   |
+| Broadcom Limited NetXtreme BCM5756ME Gigabit Ethernet PCI Express | 1         | 1.54%   |
 
 Net Controller Kind
 -------------------
@@ -2087,10 +2089,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| WiFi     | 70        | 53.85%  |
-| Ethernet | 58        | 44.62%  |
-| Modem    | 1         | 0.77%   |
-| Unknown  | 1         | 0.77%   |
+| WiFi     | 70        | 54.26%  |
+| Ethernet | 58        | 44.96%  |
+| Unknown  | 1         | 0.78%   |
 
 Used Controller
 ---------------
@@ -2171,16 +2172,15 @@ Controller models
 |-------------------------------------------------------|-----------|---------|
 | Intel AX201 Bluetooth                                 | 14        | 25.45%  |
 | Intel Bluetooth wireless interface                    | 7         | 12.73%  |
+| Intel Bluetooth Device                                | 6         | 10.91%  |
 | Realtek Bluetooth Radio                               | 4         | 7.27%   |
-| Intel Bluetooth Device                                | 4         | 7.27%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 3         | 5.45%   |
 | IMC Networks Wireless_Device                          | 3         | 5.45%   |
 | Realtek  Bluetooth 4.2 Adapter                        | 2         | 3.64%   |
 | Qualcomm Atheros Bluetooth                            | 2         | 3.64%   |
-| Intel Wireless-AC 3168 Bluetooth                      | 2         | 3.64%   |
 | Intel AX200 Bluetooth                                 | 2         | 3.64%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                  | 2         | 3.64%   |
-| TP-Link UB500 Adapter                                 | 1         | 1.82%   |
+| TP-Link UB5A Adapter                                  | 1         | 1.82%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                 | 1         | 1.82%   |
 | Lite-On Wireless_Device                               | 1         | 1.82%   |
 | IMC Networks Bluetooth Radio                          | 1         | 1.82%   |
@@ -2308,36 +2308,36 @@ Memory module models
 |------------------------------------------------------------------|-----------|---------|
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 3         | 4.55%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s             | 3         | 4.55%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 3.03%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 3.03%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 2         | 3.03%   |
 | Unknown RAM Module 4GB DIMM 800MT/s                              | 1         | 1.52%   |
 | Unknown RAM Module 4GB DIMM 1066MT/s                             | 1         | 1.52%   |
 | Unknown RAM Module 2GB DIMM 800MT/s                              | 1         | 1.52%   |
 | Unknown RAM Module 2GB DIMM 1333MT/s                             | 1         | 1.52%   |
-| Transcend RAM JM1333KSN-4G 4GB SODIMM 1334MT/s                   | 1         | 1.52%   |
+| Transcend RAM JM1333KSN-4G 4GB SODIMM DDR3 1334MT/s              | 1         | 1.52%   |
 | Timetec RAM SD3-1333 8GB SODIMM DDR3 1333MT/s                    | 1         | 1.52%   |
-| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3000MT/s               | 1         | 1.52%   |
+| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3200MT/s               | 1         | 1.52%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s             | 1         | 1.52%   |
 | SK hynix RAM Module 8GB DIMM DDR4 3200MT/s                       | 1         | 1.52%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s             | 1         | 1.52%   |
 | SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 1.52%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s             | 1         | 1.52%   |
 | SK hynix RAM HMCG66MEBSA092N 8GB SODIMM DDR5 4800MT/s            | 1         | 1.52%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 1.52%   |
-| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips 6400MT/s        | 1         | 1.52%   |
+| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 1.52%   |
 | Samsung RAM Module 4GB Row Of Chips DDR4 2400MT/s                | 1         | 1.52%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.52%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s         | 1         | 1.52%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
 | Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s          | 1         | 1.52%   |
-| Samsung RAM K4A8G165WC-BCTD 4GB SODIMM DDR4 2667MT/s             | 1         | 1.52%   |
+| Samsung RAM K4A8G165WC-BCTD 4096MB SODIMM DDR4 2667MT/s          | 1         | 1.52%   |
 | Samsung RAM K3LKBKB@BM-MGCP 2GB Row Of Chips LPDDR5 6400MT/s     | 1         | 1.52%   |
 | Ramaxel RAM RMSA3260NA78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 1.52%   |
 | PNY RAM Module 8GB SODIMM DDR3 1600MT/s                          | 1         | 1.52%   |
@@ -2407,7 +2407,7 @@ Memory module speed
 
 | Speed | Computers | Percent |
 |-------|-----------|---------|
-| 3200  | 16        | 27.12%  |
+| 3200  | 17        | 28.81%  |
 | 2667  | 9         | 15.25%  |
 | 1600  | 9         | 15.25%  |
 | 2400  | 4         | 6.78%   |
@@ -2420,7 +2420,6 @@ Memory module speed
 | 4267  | 1         | 1.69%   |
 | 3733  | 1         | 1.69%   |
 | 3100  | 1         | 1.69%   |
-| 3000  | 1         | 1.69%   |
 | 2133  | 1         | 1.69%   |
 | 1066  | 1         | 1.69%   |
 | 975   | 1         | 1.69%   |
@@ -2494,13 +2493,12 @@ Camera device vendors
 | Sunplus Innovation Technology          | 2         | 3.64%   |
 | Luxvisions Innotech Limited            | 2         | 3.64%   |
 | Logitech                               | 2         | 3.64%   |
+| Bison Electronics                      | 2         | 3.64%   |
 | USB Camera CS                          | 1         | 1.82%   |
 | Samsung Electronics                    | 1         | 1.82%   |
 | Importek                               | 1         | 1.82%   |
 | icSpring                               | 1         | 1.82%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.82%   |
-| Bison Electronics                      | 1         | 1.82%   |
-| Acer                                   | 1         | 1.82%   |
 
 Camera Model
 ------------

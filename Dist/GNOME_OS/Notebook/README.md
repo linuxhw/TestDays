@@ -795,7 +795,7 @@ Hard drive models
 | Transcend TS64GMTS400 64GB SSD            | 1         | 3.23%   |
 | Toshiba MQ04ABF100 1TB                    | 1         | 3.23%   |
 | Toshiba MQ01ABD032 320GB                  | 1         | 3.23%   |
-| SSSTC CVB-8D128-HP 128GB SSD              | 1         | 3.23%   |
+| SSSTC CVB-8D128-HP 128GB                  | 1         | 3.23%   |
 | SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 3.23%   |
 | SK hynix NVMe SSD Drive 512GB             | 1         | 3.23%   |
 | Seagate ST9500325AS 500GB                 | 1         | 3.23%   |
@@ -804,7 +804,7 @@ Hard drive models
 | SanDisk X300 MSATA 128GB SSD              | 1         | 3.23%   |
 | SanDisk SD8SN8U512G1002 512GB SSD         | 1         | 3.23%   |
 | Samsung SSD 860 EVO 500GB                 | 1         | 3.23%   |
-| Samsung NVMe SSD Drive 256GB              | 1         | 3.23%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 256GB    | 1         | 3.23%   |
 | Patriot Burst Elite 120GB SSD             | 1         | 3.23%   |
 | Micron 1100_MTFDDAV256TBN 256GB SSD       | 1         | 3.23%   |
 | Micron 1100_MTFDDAK256TBN 256GB SSD       | 1         | 3.23%   |
@@ -1531,7 +1531,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 1.85%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 1         | 1.85%   |
 | Intel Centrino Wireless-N 105                                     | 1         | 1.85%   |
-| Google Pixel 7                                                    | 1         | 1.85%   |
+| Google Pixel 6                                                    | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 1.85%   |
@@ -1624,7 +1624,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.85%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 3.85%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 3.85%   |
-| Google Pixel 7                                                    | 1         | 3.85%   |
+| Google Pixel 6                                                    | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 3.85%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 3.85%   |

@@ -578,15 +578,15 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
+| 2014 | 8        | 20.51%  |
 | 2018 | 7        | 17.95%  |
-| 2014 | 7        | 17.95%  |
 | 2011 | 4        | 10.26%  |
 | 2020 | 3        | 7.69%   |
-| 2015 | 3        | 7.69%   |
 | 2008 | 3        | 7.69%   |
 | 2021 | 2        | 5.13%   |
 | 2017 | 2        | 5.13%   |
 | 2016 | 2        | 5.13%   |
+| 2015 | 2        | 5.13%   |
 | 2013 | 2        | 5.13%   |
 | 2019 | 1        | 2.56%   |
 | 2012 | 1        | 2.56%   |
@@ -866,48 +866,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Samsung SSD 850 EVO 250GB                           | 4        | 4%      |
-| Seagate ST4000DM004-2CV104 4TB                      | 3        | 3%      |
-| Seagate ST2000DM006-2DM164 2TB                      | 3        | 3%      |
-| Samsung NVMe SSD Drive 500GB                        | 3        | 3%      |
-| WDC WD10EZEX-08WN4A0 1TB                            | 2        | 2%      |
-| WDC WD10EZEX-08M2NA0 1TB                            | 2        | 2%      |
-| Toshiba DT01ACA050 500GB                            | 2        | 2%      |
-| Kingston Company A2000 NVMe SSD 1TB                 | 2        | 2%      |
-| Kingston SA400S37480G 480GB SSD                     | 2        | 2%      |
-| Kingston SA400S37240G 240GB SSD                     | 2        | 2%      |
-| Crucial CT1000P1SSD8 1TB                            | 2        | 2%      |
-| Crucial CT1000MX500SSD1 1TB                         | 2        | 2%      |
-| WDC WDS480G2G0B-00EPW0 480GB SSD                    | 1        | 1%      |
-| WDC WD6400AAKS-75A7B2 640GB                         | 1        | 1%      |
-| WDC WD5000AVDS-63U7B1 500GB                         | 1        | 1%      |
-| WDC WD5000AVCS-632DY1 500GB                         | 1        | 1%      |
-| WDC WD5000AAKX-003CA0 500GB                         | 1        | 1%      |
-| WDC WD40EZRZ-00GXCB0 4TB                            | 1        | 1%      |
-| WDC WD3200AAJS-00YZCA0 320GB                        | 1        | 1%      |
-| WDC WD32 00AAJS-00L7A0 320GB                        | 1        | 1%      |
-| WDC WD3000GLFS-01F8U0 304GB                         | 1        | 1%      |
-| WDC WD2500HHTZ-04N21V1 250GB                        | 1        | 1%      |
-| WDC WD20EARX-00PASB0 2TB                            | 1        | 1%      |
-| WDC WD2003FZEX-00Z4SA0 2TB                          | 1        | 1%      |
-| WDC WD2003FZEX-00SRLA0 2TB                          | 1        | 1%      |
-| WDC WD1600AAJS-00PSA0 160GB                         | 1        | 1%      |
-| WDC WD1600AAJS-00M0A0 160GB                         | 1        | 1%      |
-| WDC WD140EFGX-68B0GN0 14TB                          | 1        | 1%      |
-| WDC WD10SPSX-00A6WT0 1TB                            | 1        | 1%      |
-| WDC WD10EZRX-00L4HB0 1TB                            | 1        | 1%      |
-| WDC WD10EZEX-21WN4A0 1TB                            | 1        | 1%      |
-| WDC WD10EADS-00P8B0 1TB                             | 1        | 1%      |
-| WDC WD10EADS-00M2B0 1TB                             | 1        | 1%      |
-| WDC WD1003FBYX-01Y7B0 1TB                           | 1        | 1%      |
-| WDC WD My Passport 25F3 512GB                       | 1        | 1%      |
-| Unknown SD/MMC/MS PRO 128GB                         | 1        | 1%      |
-| Toshiba DT01ACA100 1TB                              | 1        | 1%      |
-| SPCC Sol id State Disk 256GB SSD                    | 1        | 1%      |
-| SK hynix HFS512GD9TNG-L2A0A 512GB                   | 1        | 1%      |
-| Silicon Motion SM2262/SM2262EN SSD Controller 512GB | 1        | 1%      |
+| Model                                                | Desktops | Percent |
+|------------------------------------------------------|----------|---------|
+| Samsung SSD 850 EVO 250GB                            | 4        | 4%      |
+| Seagate ST4000DM004-2CV104 4TB                       | 3        | 3%      |
+| Seagate ST2000DM006-2DM164 2TB                       | 3        | 3%      |
+| Samsung NVMe SSD Drive 500GB                         | 3        | 3%      |
+| WDC WD10EZEX-08WN4A0 1TB                             | 2        | 2%      |
+| WDC WD10EZEX-08M2NA0 1TB                             | 2        | 2%      |
+| Toshiba DT01ACA050 500GB                             | 2        | 2%      |
+| Kingston Company A2000 NVMe SSD 1TB                  | 2        | 2%      |
+| Kingston SA400S37480G 480GB SSD                      | 2        | 2%      |
+| Kingston SA400S37240G 240GB SSD                      | 2        | 2%      |
+| Crucial CT1000P1SSD8 1TB                             | 2        | 2%      |
+| Crucial CT1000MX500SSD1 1TB                          | 2        | 2%      |
+| WDC WDS480G2G0B-00EPW0 480GB SSD                     | 1        | 1%      |
+| WDC WD6400AAKS-75A7B2 640GB                          | 1        | 1%      |
+| WDC WD5000AVDS-63U7B1 500GB                          | 1        | 1%      |
+| WDC WD5000AVCS-632DY1 500GB                          | 1        | 1%      |
+| WDC WD5000AAKX-003CA0 500GB                          | 1        | 1%      |
+| WDC WD40EZRZ-00GXCB0 4TB                             | 1        | 1%      |
+| WDC WD3200AAJS-00YZCA0 320GB                         | 1        | 1%      |
+| WDC WD32 00AAJS-00L7A0 320GB                         | 1        | 1%      |
+| WDC WD3000GLFS-01F8U0 304GB                          | 1        | 1%      |
+| WDC WD2500HHTZ-04N21V1 250GB                         | 1        | 1%      |
+| WDC WD20EARX-00PASB0 2TB                             | 1        | 1%      |
+| WDC WD2003FZEX-00Z4SA0 2TB                           | 1        | 1%      |
+| WDC WD2003FZEX-00SRLA0 2TB                           | 1        | 1%      |
+| WDC WD1600AAJS-00PSA0 160GB                          | 1        | 1%      |
+| WDC WD1600AAJS-00M0A0 160GB                          | 1        | 1%      |
+| WDC WD140EFGX-68B0GN0 14TB                           | 1        | 1%      |
+| WDC WD10SPSX-00A6WT0 1TB                             | 1        | 1%      |
+| WDC WD10EZRX-00L4HB0 1TB                             | 1        | 1%      |
+| WDC WD10EZEX-21WN4A0 1TB                             | 1        | 1%      |
+| WDC WD10EADS-00P8B0 1TB                              | 1        | 1%      |
+| WDC WD10EADS-00M2B0 1TB                              | 1        | 1%      |
+| WDC WD1003FBYX-01Y7B0 1TB                            | 1        | 1%      |
+| WDC WD My Passport 25F3 512GB                        | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 1GB                            | 1        | 1%      |
+| Toshiba DT01ACA100 1TB                               | 1        | 1%      |
+| SPCC Sol id State Disk 256GB SSD                     | 1        | 1%      |
+| SK hynix HFS512GD9TNG-L2A0A 512GB                    | 1        | 1%      |
+| Silicon Motion SM2262/SM2262EN SSD Controller 1024GB | 1        | 1%      |
 
 HDD Vendor
 ----------
@@ -1545,14 +1545,14 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 6%      |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 6%      |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 4%      |
 | Unknown                                                              | 2        | 4%      |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM029A 1920x1200 582x364mm 27.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
-| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 2%      |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 300x230mm 14.9-inch  | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1        | 2%      |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1        | 2%      |
@@ -1562,9 +1562,9 @@ Monitor models
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 2%      |
 | Microstep LCD Monitor MSI G241                                       | 1        | 2%      |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 2%      |
+| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch           | 1        | 2%      |
 | Lenovo LEN L220xwC LEN1151 1920x1200 474x296mm 22.0-inch             | 1        | 2%      |
-| Lenovo LCD Monitor LEN1144 1920x1080 520x320mm 24.0-inch             | 1        | 2%      |
-| Hewlett-Packard 24y HPN3504 1920x1080 528x297mm 23.9-inch            | 1        | 2%      |
+| Hewlett-Packard 24yh HPN3504 1920x1080 528x297mm 23.9-inch           | 1        | 2%      |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 2%      |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 2%      |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1        | 2%      |
@@ -1578,12 +1578,12 @@ Monitor models
 | BenQ LCD Monitor T2200HD                                             | 1        | 2%      |
 | BenQ BL2405 BNQ8016 1920x1080 531x298mm 24.0-inch                    | 1        | 2%      |
 | ASUSTek Computer VG245 AUS24A3 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
-| ASUSTek Computer VG245 AUS24A1 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
+| ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2%      |
-| AOC Q27G2SG4 AOC2702 2560x1440 597x336mm 27.0-inch                   | 1        | 2%      |
+| AOC 27G2WG3 AOC2702 1920x1080 598x336mm 27.0-inch                    | 1        | 2%      |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2%      |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2%      |
-| AOC 2460 AOC2460 1920x1080 531x299mm 24.0-inch                       | 1        | 2%      |
+| AOC 2460X AOC2460 1920x1200 518x324mm 24.1-inch                      | 1        | 2%      |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2%      |
 
 Monitor Resolution
@@ -1786,7 +1786,7 @@ Controller models
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 1.41%   |
 | Intel PRO/100 VE Network Connection                                                     | 1        | 1.41%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 1.41%   |
-| Huawei WLZ-AN00                                                                         | 1        | 1.41%   |
+| Huawei MLA-L11                                                                          | 1        | 1.41%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 1.41%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                      | 1        | 1.41%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 1.41%   |
@@ -1883,7 +1883,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 2.33%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2.33%   |
 | Intel PRO/100 VE Network Connection                               | 1        | 2.33%   |
-| Huawei WLZ-AN00                                                   | 1        | 2.33%   |
+| Huawei MLA-L11                                                    | 1        | 2.33%   |
 
 Net Controller Kind
 -------------------
@@ -1979,7 +1979,7 @@ Controller models
 | MediaTek Wireless_Device                            | 1        | 5.26%   |
 | ISSC Bluetooth Device                               | 1        | 5.26%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 5.26%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1        | 5.26%   |
+| Intel Bluetooth Device                              | 1        | 5.26%   |
 | Broadcom BCM2045 Bluetooth                          | 1        | 5.26%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 5.26%   |
 
@@ -2095,7 +2095,7 @@ Memory module models
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
 | Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 7.69%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3             | 1        | 7.69%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
 | Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
 | Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 7.69%   |
@@ -2235,11 +2235,10 @@ Camera device models
 
 | Model                                | Desktops | Percent |
 |--------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920          | 2        | 22.22%  |
 | MacroSilicon ShadowCast              | 1        | 11.11%  |
 | Logitech Webcam C270                 | 1        | 11.11%  |
-| Logitech HD Pro Webcam C920          | 1        | 11.11%  |
 | Logitech C922 Pro Stream Webcam      | 1        | 11.11%  |
-| Logitech C920 PRO HD Webcam          | 1        | 11.11%  |
 | LG Optimus (Various Models) MTP Mode | 1        | 11.11%  |
 | HP Webcam HD 2300                    | 1        | 11.11%  |
 | Bison LENOVO LBG 720P CAM            | 1        | 11.11%  |

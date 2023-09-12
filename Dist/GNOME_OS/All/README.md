@@ -906,7 +906,7 @@ Hard drive models
 | Seagate ST500LM012 HN-M500MBB 500GB       | 2         | 2.7%    |
 | Seagate ST1000LM035-1RK172 1TB            | 2         | 2.7%    |
 | Seagate ST1000DM003-1SB102 1TB            | 2         | 2.7%    |
-| Samsung NVMe SSD Drive 256GB              | 2         | 2.7%    |
+| Samsung PM963 2.5" NVMe PCIe SSD 256GB    | 2         | 2.7%    |
 | PNY CS900 240GB SSD                       | 2         | 2.7%    |
 | Kingston SA400S37120G 120GB SSD           | 2         | 2.7%    |
 | HGST HTS541010A9E680 1TB                  | 2         | 2.7%    |
@@ -926,7 +926,7 @@ Hard drive models
 | Toshiba HDWD120 2TB                       | 1         | 1.35%   |
 | Toshiba DT01ACA100 1TB                    | 1         | 1.35%   |
 | Toshiba DT01ACA050 500GB                  | 1         | 1.35%   |
-| SSSTC CVB-8D128-HP 128GB SSD              | 1         | 1.35%   |
+| SSSTC CVB-8D128-HP 128GB                  | 1         | 1.35%   |
 | SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB | 1         | 1.35%   |
 | SK hynix HFS128G39TND-N210A 128GB SSD     | 1         | 1.35%   |
 | Seagate ST9500420AS 500GB                 | 1         | 1.35%   |
@@ -1588,7 +1588,7 @@ Monitor models
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch    | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SDC3754 1600x900 382x215mm 17.3-inch | 1         | 1.85%   |
-| Samsung Electronics C32F391 SAM0D34 1920x1080 700x390mm 31.5-inch    | 1         | 1.85%   |
+| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch    | 1         | 1.85%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1         | 1.85%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1         | 1.85%   |
 | LG Display LCD Monitor LGD05EC 1920x1080 309x174mm 14.0-inch         | 1         | 1.85%   |
@@ -1600,8 +1600,8 @@ Monitor models
 | Insignia BBY LCD BBY0032 1920x540                                    | 1         | 1.85%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 1.85%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                  | 1         | 1.85%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                               | 1         | 1.85%   |
-| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch             | 1         | 1.85%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                  | 1         | 1.85%   |
+| Goldstar 2D FHD TV GSM59C6 1920x1080 476x268mm 21.5-inch             | 1         | 1.85%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch              | 1         | 1.85%   |
 | Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                    | 1         | 1.85%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch      | 1         | 1.85%   |
@@ -1827,7 +1827,7 @@ Controller models
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.03%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.03%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.03%   |
-| Motorola PCS Moto G Play                                          | 1         | 1.03%   |
+| Motorola PCS moto g stylus (2022)                                 | 1         | 1.03%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.03%   |
 | Intel Wireless 8260                                               | 1         | 1.03%   |
 | Intel Wireless 7265                                               | 1         | 1.03%   |
@@ -1946,7 +1946,7 @@ Ethernet models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 1.96%   |
 | Intel Ethernet Connection (17) I219-V                             | 1         | 1.96%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.96%   |
-| Google Pixel 7                                                    | 1         | 1.96%   |
+| Google Pixel 6                                                    | 1         | 1.96%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 1.96%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.96%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 1.96%   |
@@ -2056,7 +2056,7 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.5%    |
 | Lite-On Bluetooth Device                            | 1         | 2.5%    |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.5%    |
-| Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.5%    |
+| Intel Bluetooth Device                              | 1         | 2.5%    |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 2.5%    |
 | Intel AX201 Bluetooth                               | 1         | 2.5%    |
 | Intel AX200 Bluetooth                               | 1         | 2.5%    |

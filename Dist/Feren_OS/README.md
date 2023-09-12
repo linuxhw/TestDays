@@ -745,10 +745,10 @@ Motherboard manufacture year
 | 2011 | 10        | 11.24%  |
 | 2013 | 9         | 10.11%  |
 | 2012 | 9         | 10.11%  |
+| 2014 | 8         | 8.99%   |
 | 2019 | 7         | 7.87%   |
-| 2016 | 7         | 7.87%   |
-| 2014 | 7         | 7.87%   |
 | 2018 | 6         | 6.74%   |
+| 2016 | 6         | 6.74%   |
 | 2021 | 5         | 5.62%   |
 | 2009 | 5         | 5.62%   |
 | 2020 | 4         | 4.49%   |
@@ -1052,7 +1052,7 @@ Hard drive models
 
 | Model                              | Computers | Percent |
 |------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 128GB        | 3         | 2.04%   |
+| Unknown SD/MMC/MS PRO 1GB          | 3         | 2.04%   |
 | Unknown MMC Card  32GB             | 2         | 1.36%   |
 | Seagate ST500LT012-9WS142 500GB    | 2         | 1.36%   |
 | Seagate ST4000LM016-1N2170 4TB     | 2         | 1.36%   |
@@ -1091,7 +1091,7 @@ Hard drive models
 | WDC WD10EZEX-00BN5A0 1TB           | 1         | 0.68%   |
 | WDC WD10EURX-83UY4Y0 1TB           | 1         | 0.68%   |
 | WDC WD Blue SA510 2.5 500GB        | 1         | 0.68%   |
-| Verbatim Vi550 S3 SSD 1TB          | 1         | 0.68%   |
+| Verbatim Vi550 S3 SSD 128GB        | 1         | 0.68%   |
 
 HDD Vendor
 ----------
@@ -1179,8 +1179,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 57        | 85     | 60.64%  |
-| 0.51-1.0   | 26        | 40     | 27.66%  |
+| 0.01-0.5   | 57        | 86     | 60.64%  |
+| 0.51-1.0   | 26        | 39     | 27.66%  |
 | 1.01-2.0   | 5         | 6      | 5.32%   |
 | 3.01-4.0   | 3         | 7      | 3.19%   |
 | 2.01-3.0   | 2         | 2      | 2.13%   |
@@ -1855,10 +1855,10 @@ Monitor models
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch      | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                      | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor U28E590                                | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch   | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch   | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch  | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor SDC4161 1920x1080 344x194mm 15.5-inch  | 1         | 1.05%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch   | 1         | 1.05%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch   | 1         | 1.05%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 1210x680mm 54.6-inch | 1         | 1.05%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch      | 1         | 1.05%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 1         | 1.05%   |
@@ -1867,7 +1867,7 @@ Monitor models
 | Ruijiang RJT HDMI RJT1200 1920x1080 320x180mm 14.5-inch                | 1         | 1.05%   |
 | Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch               | 1         | 1.05%   |
 | Philips 220EW PHL0861 1680x1050 434x270mm 20.1-inch                    | 1         | 1.05%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                | 1         | 1.05%   |
+| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch                | 1         | 1.05%   |
 | Panasonic TV MEIC301 1920x1080 698x392mm 31.5-inch                     | 1         | 1.05%   |
 | Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                   | 1         | 1.05%   |
 | Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                  | 1         | 1.05%   |
@@ -1878,7 +1878,7 @@ Monitor models
 | LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch           | 1         | 1.05%   |
 | LG Display LCD Monitor LGD03ED 1366x768 277x156mm 12.5-inch            | 1         | 1.05%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch            | 1         | 1.05%   |
-| LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch            | 1         | 1.05%   |
+| LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch            | 1         | 1.05%   |
 | LG Display LCD Monitor LGD02F1 1366x768 344x194mm 15.5-inch            | 1         | 1.05%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch            | 1         | 1.05%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch            | 1         | 1.05%   |
@@ -2258,7 +2258,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.18%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 1.18%   |
 | Nvidia MCP55 Ethernet                                             | 1         | 1.18%   |
-| Motorola PCS XT1032                                               | 1         | 1.18%   |
+| Motorola PCS motorola edge 20 lite                                | 1         | 1.18%   |
 | Microsoft RTL8153 GigE [Surface Ethernet Adapter]                 | 1         | 1.18%   |
 | Intel WiMAX Connection 2400m                                      | 1         | 1.18%   |
 | Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 1.18%   |
@@ -2376,9 +2376,9 @@ Controller models
 | Intel AX200 Bluetooth                               | 3         | 6.12%   |
 | IMC Networks Wireless_Device                        | 3         | 6.12%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 2         | 4.08%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 2         | 4.08%   |
+| Intel Bluetooth Device                              | 2         | 4.08%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 2         | 4.08%   |
-| Apple Bluetooth USB Host Controller                 | 2         | 4.08%   |
+| Apple Bluetooth Host Controller                     | 2         | 4.08%   |
 | Realtek Bluetooth Radio                             | 1         | 2.04%   |
 | Realtek Bluetooth Radio                             | 1         | 2.04%   |
 | Realtek 802.11ac WLAN Adapter                       | 1         | 2.04%   |
@@ -2396,7 +2396,7 @@ Controller models
 | Broadcom BCM43142 Bluetooth 4.0                     | 1         | 2.04%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1         | 2.04%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 1         | 2.04%   |
-| Apple Bluetooth Host Controller                     | 1         | 2.04%   |
+| Apple Bluetooth USB Host Controller                 | 1         | 2.04%   |
 
 Sound
 -----
@@ -2536,7 +2536,7 @@ Memory module models
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s      | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1         | 3.13%   |
 | A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                    | 1         | 3.13%   |
-| A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
+| A-DATA RAM AM1U16BC4P2-B19H 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
 
 Memory Kind
 -----------
@@ -2686,9 +2686,9 @@ Camera device vendors
 | Sunplus Innovation Technology          | 3         | 5.56%   |
 | Logitech                               | 3         | 5.56%   |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 5.56%   |
-| Bison Electronics                      | 3         | 5.56%   |
+| Acer                                   | 3         | 5.56%   |
 | Microsoft                              | 2         | 3.7%    |
-| Acer                                   | 2         | 3.7%    |
+| Bison Electronics                      | 2         | 3.7%    |
 | Z-Star Microelectronics                | 1         | 1.85%   |
 | Samsung Electronics                    | 1         | 1.85%   |
 | Pixart Imaging                         | 1         | 1.85%   |
@@ -2715,8 +2715,8 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam                                          | 4         | 7.41%   |
 | IMC Networks USB2.0 VGA UVC WebCam                                         | 2         | 3.7%    |
 | Chicony Integrated Camera                                                  | 2         | 3.7%    |
-| Bison Lenovo EasyCamera                                                    | 2         | 3.7%    |
 | Apple Built-in iSight                                                      | 2         | 3.7%    |
+| Acer Lenovo EasyCamera                                                     | 2         | 3.7%    |
 | Z-Star Integrated Camera                                                   | 1         | 1.85%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 1.85%   |
 | Sunplus HP HD Webcam [Fixed]                                               | 1         | 1.85%   |
@@ -2738,7 +2738,7 @@ Camera device models
 | IMC Networks USB2.0 UVC HD Webcam                                          | 1         | 1.85%   |
 | IMC Networks ov9734_azurewave_camera                                       | 1         | 1.85%   |
 | Huawei HiCamera                                                            | 1         | 1.85%   |
-| Generalplus 808 Camera #9 (web-cam mode)                                   | 1         | 1.85%   |
+| Generalplus 808 Camera                                                     | 1         | 1.85%   |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311]                          | 1         | 1.85%   |
 | Cubeternet GL-UPC822 UVC WebCam                                            | 1         | 1.85%   |
 | Chicony WebCam                                                             | 1         | 1.85%   |

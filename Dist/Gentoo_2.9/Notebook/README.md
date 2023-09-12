@@ -1018,8 +1018,8 @@ Hard drive models
 | Model                                                 | Notebooks | Percent |
 |-------------------------------------------------------|-----------|---------|
 | Samsung NVMe SSD Controller SM981/PM981/PM983 500GB   | 14        | 13.59%  |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 6         | 5.83%   |
-| Intel SSD 660P Series 1024GB                          | 3         | 2.91%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 6         | 5.83%   |
+| Intel SSD 660P Series 512GB                           | 3         | 2.91%   |
 | China SSD 1TB                                         | 3         | 2.91%   |
 | Unknown MMC Card  32GB                                | 2         | 1.94%   |
 | SK hynix BC501 NVMe Solid State Drive 512GB           | 2         | 1.94%   |
@@ -1032,7 +1032,7 @@ Hard drive models
 | WDC WD10JPVX-75JC3T0 1TB                              | 1         | 0.97%   |
 | Unknown MMC Card  128GB                               | 1         | 0.97%   |
 | TrekStor I.GEAR 128GB                                 | 1         | 0.97%   |
-| Toshiba XG6 NVMe SSD Controller 512GB                 | 1         | 0.97%   |
+| Toshiba XG6 NVMe SSD Controller 1024GB                | 1         | 0.97%   |
 | Toshiba MQ04ABF100 1TB                                | 1         | 0.97%   |
 | Toshiba MQ02ABD100H 1TB                               | 1         | 0.97%   |
 | Toshiba MQ01ACF050 500GB                              | 1         | 0.97%   |
@@ -1042,20 +1042,20 @@ Hard drive models
 | Smartbuy SSD 240GB                                    | 1         | 0.97%   |
 | SK hynix PC801 NVMe 2TB                               | 1         | 0.97%   |
 | SK hynix PC801 NVMe 1TB                               | 1         | 0.97%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 500GB | 1         | 0.97%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 1         | 0.97%   |
 | Seagate ST9250315AS 250GB                             | 1         | 0.97%   |
 | Seagate ST1000LM049-2GH172 1TB                        | 1         | 0.97%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                    | 1         | 0.97%   |
 | Seagate ST1000LM014-SSHD-8GB                          | 1         | 0.97%   |
 | Sandisk WD_BLACK SN850X 1000GB                        | 1         | 0.97%   |
 | Sandisk WD Blue SN550 NVMe SSD 250GB                  | 1         | 0.97%   |
-| Sandisk WD Black SN850 1TB                            | 1         | 0.97%   |
+| Sandisk WD Black SN850 256GB                          | 1         | 0.97%   |
 | Sandisk WD Black SN750 / PC SN730 NVMe SSD 1024GB     | 1         | 0.97%   |
 | SanDisk SSD PLUS 240GB                                | 1         | 0.97%   |
 | SanDisk SD9SN8W-128G-1006 128GB SSD                   | 1         | 0.97%   |
 | SanDisk SD8SNAT128G1002 128GB SSD                     | 1         | 0.97%   |
 | SanDisk SD7TN3Q-256G-1006 256GB SSD                   | 1         | 0.97%   |
-| Sandisk PC SN520 NVMe SSD 512GB                       | 1         | 0.97%   |
+| Sandisk PC SN520 NVMe SSD 256GB                       | 1         | 0.97%   |
 | SanDisk Extreme 55AE 1TB SSD                          | 1         | 0.97%   |
 
 HDD Vendor
@@ -1591,7 +1591,7 @@ Microarchitecture
 | Zen 3            | 7         | 9.21%   |
 | CometLake        | 5         | 6.58%   |
 | Zen 2            | 4         | 5.26%   |
-| IceLake          | 4         | 5.26%   |
+| Icelake          | 4         | 5.26%   |
 | Zen+             | 3         | 3.95%   |
 | Skylake          | 3         | 3.95%   |
 | SandyBridge      | 3         | 3.95%   |
@@ -1777,7 +1777,7 @@ Monitor models
 |------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics S27B350 SAM08DC 1920x1080 598x336mm 27.0-inch      | 2         | 2.56%   |
 | AU Optronics LCD Monitor AUO80ED 1920x1080 344x193mm 15.5-inch         | 2         | 2.56%   |
-| AU Optronics LCD Monitor AUO243D 1920x1080 309x173mm 13.9-inch         | 2         | 2.56%   |
+| AU Optronics LCD Monitor AUO243D 1920x1080 310x170mm 13.9-inch         | 2         | 2.56%   |
 | AU Optronics LCD Monitor AUO109D 1920x1080 381x214mm 17.2-inch         | 2         | 2.56%   |
 | Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                    | 1         | 1.28%   |
 | Sharp LQ173M1JW03 SHP14DC 1920x1080 382x215mm 17.3-inch                | 1         | 1.28%   |
@@ -1790,9 +1790,9 @@ Monitor models
 | Samsung Electronics Odyssey G40B SAM727A 1920x1080 597x336mm 27.0-inch | 1         | 1.28%   |
 | Samsung Electronics LCD Monitor SDC4163 3456x2160 288x180mm 13.4-inch  | 1         | 1.28%   |
 | Philips PHL19PFL3405 PHLD071 1360x768 410x230mm 18.5-inch              | 1         | 1.28%   |
-| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                | 1         | 1.28%   |
+| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch                | 1         | 1.28%   |
 | PANDA LCD Monitor NCP002D 1920x1080 344x194mm 15.5-inch                | 1         | 1.28%   |
-| Panasonic LCD Monitor MEI96A2 2560x1440 309x173mm 13.9-inch            | 1         | 1.28%   |
+| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch               | 1         | 1.28%   |
 | MSI MAG274QRF-QD MSI3CA8 2560x1440 597x336mm 27.0-inch                 | 1         | 1.28%   |
 | LG Display LCD Monitor LGD06FF 1920x1080 344x194mm 15.5-inch           | 1         | 1.28%   |
 | LG Display LCD Monitor LGD0657 1920x1080 344x194mm 15.5-inch           | 1         | 1.28%   |
@@ -2317,7 +2317,7 @@ Sound card models
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 2         | 1.59%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 2         | 1.59%   |
 | AMD Navi 10 HDMI Audio                                                     | 2         | 1.59%   |
-| Thesycon Systemsoftware & Consulting D10                                   | 1         | 0.79%   |
+| Thesycon Systemsoftware & Consulting DX5                                   | 1         | 0.79%   |
 | Silicon Integrated Systems [SiS] SiS7012 AC'97 Sound Controller            | 1         | 0.79%   |
 | Sennheiser Communications SC60 for Lync                                    | 1         | 0.79%   |
 | Nvidia TU104 HD Audio Controller                                           | 1         | 0.79%   |
@@ -2386,13 +2386,13 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM 667MT/s                            | 1         | 1.19%   |
 | Unknown RAM Module 256MB SODIMM DDR 133MT/s                      | 1         | 1.19%   |
 | Unknown RAM Module 1GB SODIMM DDR                                | 1         | 1.19%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.19%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 1.19%   |
 | Transcend RAM Module 4GB SODIMM DDR3 1333MT/s                    | 1         | 1.19%   |
 | Timetec RAM SD4-3200 16GB SODIMM DDR4 3200MT/s                   | 1         | 1.19%   |
 | Timetec RAM SD4-2400 8GB SODIMM DDR4 2400MT/s                    | 1         | 1.19%   |
 | Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s            | 1         | 1.19%   |
 | SK hynix RAM Module 4GB Row Of Chips LPDDR4 3733MT/s             | 1         | 1.19%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 1.19%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.19%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.19%   |
 | SK hynix RAM HMCG78MEBSA092N 16GB SODIMM DDR5 4800MT/s           | 1         | 1.19%   |
 | SK hynix RAM HMAA4GS6CJR8N-XN 32GB SODIMM DDR4 3200MT/s          | 1         | 1.19%   |
@@ -2406,12 +2406,12 @@ Memory module models
 | Samsung RAM Module 4GB Row Of Chips LPDDR3 2133MT/s              | 1         | 1.19%   |
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                     | 1         | 1.19%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.19%   |
-| Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s         | 1         | 1.19%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 1.19%   |
 | Samsung RAM M471A2G43BB2-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 1.19%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.19%   |
-| Samsung RAM M471A1K43DB1-CWE 8192MB SODIMM DDR4 3200MT/s         | 1         | 1.19%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A1K43BB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.19%   |
@@ -2546,16 +2546,16 @@ Camera device vendors
 | Microdia                               | 10        | 15.87%  |
 | Sunplus Innovation Technology          | 4         | 6.35%   |
 | Quanta                                 | 4         | 6.35%   |
+| Bison Electronics                      | 4         | 6.35%   |
 | Realtek Semiconductor                  | 3         | 4.76%   |
 | Lite-On Technology                     | 3         | 4.76%   |
-| Bison Electronics                      | 3         | 4.76%   |
 | Apple                                  | 3         | 4.76%   |
 | Syntek                                 | 2         | 3.17%   |
 | Luxvisions Innotech Limited            | 2         | 3.17%   |
-| Acer                                   | 2         | 3.17%   |
 | Logitech                               | 1         | 1.59%   |
 | Elgato Systems                         | 1         | 1.59%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.59%   |
+| Acer                                   | 1         | 1.59%   |
 
 Camera Model
 ------------
@@ -2689,8 +2689,8 @@ Total unsupported devices on board
 | 1     | 28        | 34.57%  |
 | 3     | 7         | 8.64%   |
 | 2     | 6         | 7.41%   |
-| 5     | 4         | 4.94%   |
-| 4     | 4         | 4.94%   |
+| 5     | 5         | 6.17%   |
+| 4     | 3         | 3.7%    |
 | 6     | 2         | 2.47%   |
 
 Unsupported Device Types

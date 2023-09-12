@@ -785,7 +785,7 @@ Hard drive models
 | Maxtor 6Y080L0 82GB                 | 2        | 4.17%   |
 | Maxtor 6L200M0 208GB                | 2        | 4.17%   |
 | LITEONIT LMT-128M6M mSATA 128GB SSD | 2        | 4.17%   |
-| KingSpec MT-128 128GB               | 2        | 4.17%   |
+| KingSpec MT-128 128GB SSD           | 2        | 4.17%   |
 | WDC WD40EFRX-68N32N0 4TB            | 1        | 2.08%   |
 | WDC WD2500BEVE-00A0HT0 250GB        | 1        | 2.08%   |
 | WDC WD2000JB-16FUA0 200GB           | 1        | 2.08%   |
@@ -1901,9 +1901,9 @@ Total unsupported devices on board
 | Total | Desktops | Percent |
 |-------|----------|---------|
 | 0     | 17       | 56.67%  |
-| 1     | 11       | 36.67%  |
+| 1     | 10       | 33.33%  |
+| 2     | 2        | 6.67%   |
 | 4     | 1        | 3.33%   |
-| 2     | 1        | 3.33%   |
 
 Unsupported Device Types
 ------------------------

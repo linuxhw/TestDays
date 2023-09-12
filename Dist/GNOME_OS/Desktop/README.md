@@ -738,11 +738,11 @@ Hard drive models
 | SanDisk NVMe SSD Drive 500GB            | 1        | 2.94%   |
 | Samsung SSD 860 QVO 1TB                 | 1        | 2.94%   |
 | Samsung SSD 840 EVO 250GB               | 1        | 2.94%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 256GB  | 1        | 2.94%   |
 | Samsung NVMe SSD Drive 512GB            | 1        | 2.94%   |
-| Samsung NVMe SSD Drive 256GB            | 1        | 2.94%   |
 | Samsung NVMe SSD Drive 1024GB           | 1        | 2.94%   |
 | PNY CS900 240GB SSD                     | 1        | 2.94%   |
-| Phison PS5013 E13 NVMe Controller 256GB | 1        | 2.94%   |
+| Phison PS5013 E13 NVMe Controller 512GB | 1        | 2.94%   |
 | Kingston SV300S37A240G 240GB SSD        | 1        | 2.94%   |
 | Kingston SV300S37A120G 120GB SSD        | 1        | 2.94%   |
 | Kingston SUV400S37120G 120GB SSD        | 1        | 2.94%   |
@@ -1271,17 +1271,17 @@ Monitor models
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch | 1        | 5.26%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 5.26%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 5.26%   |
-| Samsung Electronics C32F391 SAM0D34 1920x1080 700x390mm 31.5-inch   | 1        | 5.26%   |
+| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch   | 1        | 5.26%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 5.26%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 5.26%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 5.26%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                              | 1        | 5.26%   |
-| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch            | 1        | 5.26%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 5.26%   |
+| Goldstar 2D FHD TV GSM59C6 1920x1080 476x268mm 21.5-inch            | 1        | 5.26%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 5.26%   |
 | AOC G2490W1G4 AOC2490 1920x1080 527x296mm 23.8-inch                 | 1        | 5.26%   |
 | AOC 2260WG5 AOC2260 1920x1080 477x268mm 21.5-inch                   | 1        | 5.26%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 5.26%   |
-| Acer K222HQL ACR0512 1920x1080 476x268mm 21.5-inch                  | 1        | 5.26%   |
+| Acer K222HQL ACR0512 1920x1080 480x270mm 21.7-inch                  | 1        | 5.26%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 5.26%   |
 
 Monitor Resolution
@@ -1439,7 +1439,7 @@ Controller models
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.33%   |
 | Ralink RT2770 Wireless Adapter                                    | 1        | 3.33%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 3.33%   |
-| Motorola PCS Moto G Play                                          | 1        | 3.33%   |
+| Motorola PCS moto g stylus (2022)                                 | 1        | 3.33%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.33%   |
 | Intel Wireless 8260                                               | 1        | 3.33%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 3.33%   |
@@ -1603,8 +1603,8 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                      | 2        | 22.22%  |
 | Realtek Bluetooth Radio                             | 1        | 11.11%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 11.11%  |
-| Intel Wireless-AC 3168 Bluetooth                    | 1        | 11.11%  |
 | Intel Bluetooth wireless interface                  | 1        | 11.11%  |
+| Intel Bluetooth Device                              | 1        | 11.11%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1        | 11.11%  |
 | Broadcom BCM2045 Bluetooth                          | 1        | 11.11%  |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 11.11%  |

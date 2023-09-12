@@ -928,10 +928,10 @@ Motherboard manufacture year
 | 2014 | 10        | 7.25%   |
 | 2010 | 9         | 6.52%   |
 | 2016 | 7         | 5.07%   |
-| 2022 | 5         | 3.62%   |
+| 2022 | 6         | 4.35%   |
 | 2011 | 5         | 3.62%   |
-| 2023 | 4         | 2.9%    |
 | 2015 | 4         | 2.9%    |
+| 2023 | 3         | 2.17%   |
 | 2012 | 3         | 2.17%   |
 | 2009 | 3         | 2.17%   |
 | 2007 | 2         | 1.45%   |
@@ -1050,8 +1050,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 96        | 69.57%  |
-| Yes       | 42        | 30.43%  |
+| No        | 97        | 70.29%  |
+| Yes       | 41        | 29.71%  |
 
 Has Ethernet
 ------------
@@ -1222,7 +1222,7 @@ Hard drive models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Seagate Expansion 1TB                               | 4         | 1.67%   |
+| Seagate Expansion 2TB                               | 4         | 1.67%   |
 | Samsung SSD 840 EVO 250GB                           | 3         | 1.26%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 3         | 1.26%   |
 | Kingston SA400S37240G 240GB SSD                     | 3         | 1.26%   |
@@ -1273,17 +1273,18 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 26        | 35     | 39.39%  |
-| WDC                 | 16        | 27     | 24.24%  |
-| Toshiba             | 8         | 11     | 12.12%  |
-| Hitachi             | 4         | 5      | 6.06%   |
-| Samsung Electronics | 3         | 3      | 4.55%   |
-| HGST                | 3         | 4      | 4.55%   |
-| Apple               | 2         | 2      | 3.03%   |
-| PHD 3.0             | 1         | 1      | 1.52%   |
-| Intenso             | 1         | 1      | 1.52%   |
-| Inateck             | 1         | 1      | 1.52%   |
-| ASMT                | 1         | 4      | 1.52%   |
+| Seagate             | 26        | 35     | 38.81%  |
+| WDC                 | 16        | 27     | 23.88%  |
+| Toshiba             | 8         | 11     | 11.94%  |
+| Hitachi             | 4         | 5      | 5.97%   |
+| Samsung Electronics | 3         | 3      | 4.48%   |
+| HGST                | 3         | 4      | 4.48%   |
+| Apple               | 2         | 2      | 2.99%   |
+| SABRENT             | 1         | 1      | 1.49%   |
+| PHD 3.0             | 1         | 1      | 1.49%   |
+| Intenso             | 1         | 1      | 1.49%   |
+| Inateck             | 1         | 1      | 1.49%   |
+| ASMT                | 1         | 4      | 1.49%   |
 
 SSD Vendor
 ----------
@@ -1327,11 +1328,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 64        | 77     | 33.68%  |
-| SSD     | 61        | 100    | 32.11%  |
-| HDD     | 57        | 94     | 30%     |
-| Unknown | 5         | 6      | 2.63%   |
-| MMC     | 3         | 4      | 1.58%   |
+| NVMe    | 64        | 76     | 33.51%  |
+| SSD     | 61        | 100    | 31.94%  |
+| HDD     | 58        | 95     | 30.37%  |
+| Unknown | 5         | 6      | 2.62%   |
+| MMC     | 3         | 4      | 1.57%   |
 
 Drive Connector
 ---------------
@@ -1358,13 +1359,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 67        | 105    | 50%     |
-| 0.51-1.0   | 44        | 60     | 32.84%  |
-| 1.01-2.0   | 11        | 13     | 8.21%   |
-| 3.01-4.0   | 8         | 11     | 5.97%   |
-| 2.01-3.0   | 2         | 3      | 1.49%   |
-| 10.01-20.0 | 1         | 1      | 0.75%   |
-| 4.01-10.0  | 1         | 1      | 0.75%   |
+| 0.01-0.5   | 67        | 105    | 48.91%  |
+| 0.51-1.0   | 44        | 58     | 32.12%  |
+| 1.01-2.0   | 14        | 16     | 10.22%  |
+| 3.01-4.0   | 8         | 11     | 5.84%   |
+| 2.01-3.0   | 2         | 3      | 1.46%   |
+| 10.01-20.0 | 1         | 1      | 0.73%   |
+| 4.01-10.0  | 1         | 1      | 0.73%   |
 
 Space Total
 -----------
@@ -2012,48 +2013,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Computers | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 2         | 1.25%   |
-| Sharp LCD Monitor SHP13F8 3200x1800 346x194mm 15.6-inch               | 2         | 1.25%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch      | 2         | 1.25%   |
-| Chimei Innolux LCD Monitor CMN1604 1920x1080 355x199mm 16.0-inch      | 2         | 1.25%   |
-| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 2         | 1.25%   |
-| AOC 2250W AOC2250 1920x1080 477x268mm 21.5-inch                       | 2         | 1.25%   |
-| Videoseven L27ADS IGM2700 1920x1080 598x336mm 27.0-inch               | 1         | 0.63%   |
-| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                 | 1         | 0.63%   |
-| Sharp LCD Monitor SHP1516 3840x2400 336x210mm 15.6-inch               | 1         | 0.63%   |
-| Sharp LCD Monitor SHP1476 3840x2160 346x194mm 15.6-inch               | 1         | 0.63%   |
-| Samsung Electronics U28H75x SAM0DFE 3840x2160 608x345mm 27.5-inch     | 1         | 0.63%   |
-| Samsung Electronics T24B350 SAM093E 1920x1080 530x300mm 24.0-inch     | 1         | 0.63%   |
-| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch  | 1         | 0.63%   |
-| Samsung Electronics SyncMaster SAM04DF 1360x768 410x230mm 18.5-inch   | 1         | 0.63%   |
-| Samsung Electronics SMT27A950 SAM080F 1920x1080 598x336mm 27.0-inch   | 1         | 0.63%   |
-| Samsung Electronics SM2333T SAM0737 1920x1080 510x290mm 23.1-inch     | 1         | 0.63%   |
-| Samsung Electronics S27D390 SAM0B67 1920x1080 598x336mm 27.0-inch     | 1         | 0.63%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1         | 0.63%   |
-| Samsung Electronics Odyssey G8 SAM7231 3440x1440 809x354mm 34.8-inch  | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor U28E590 3840x2160                     | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SEC444E 1600x900 310x174mm 14.0-inch  | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDC5844 1920x1080 344x194mm 15.5-inch | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch  | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDC4171 2880x1800 302x189mm 14.0-inch | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDC4159 1920x1080 344x194mm 15.5-inch | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SDC4141 3840x2160 344x194mm 15.5-inch | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SAM0B60 1920x1080 887x500mm 40.1-inch | 1         | 0.63%   |
-| Samsung Electronics LCD Monitor SAM07C0 1920x1080 480x270mm 21.7-inch | 1         | 0.63%   |
-| Samsung Electronics C49HG9x SAM0E5E 1920x1080 1200x340mm 49.1-inch    | 1         | 0.63%   |
-| Samsung Electronics C49HG9x SAM0E5D 1920x1080 1200x340mm 49.1-inch    | 1         | 0.63%   |
-| Samsung Electronics C27R50x SAM0F9D 1920x1080 600x340mm 27.2-inch     | 1         | 0.63%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 0.63%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 0.63%   |
-| Philips PHL BDM3270 PHL08E7 2560x1440 708x398mm 32.0-inch             | 1         | 0.63%   |
-| Philips PHL 346B1C PHL095C 3440x1440 797x334mm 34.0-inch              | 1         | 0.63%   |
-| Philips PHL 275C5 PHLC0E4 1920x1080 598x336mm 27.0-inch               | 1         | 0.63%   |
-| Philips PHL 272E1GJ PHLC245 1920x1080 598x336mm 27.0-inch             | 1         | 0.63%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch                | 2         | 1.25%   |
+| Sharp LCD Monitor SHP13F8 3200x1800 346x194mm 15.6-inch                | 2         | 1.25%   |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch       | 2         | 1.25%   |
+| Chimei Innolux LCD Monitor CMN1604 1920x1080 355x199mm 16.0-inch       | 2         | 1.25%   |
+| Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch       | 2         | 1.25%   |
+| AOC 2250W AOC2250 1920x1080 477x268mm 21.5-inch                        | 2         | 1.25%   |
+| Videoseven L27ADS IGM2700 1920x1080 598x336mm 27.0-inch                | 1         | 0.63%   |
+| Sony LCD Monitor SNY05FA 1366x768 340x190mm 15.3-inch                  | 1         | 0.63%   |
+| Sharp LCD Monitor SHP1516 3840x2400 336x210mm 15.6-inch                | 1         | 0.63%   |
+| Sharp LCD Monitor SHP1476 3840x2160 346x194mm 15.6-inch                | 1         | 0.63%   |
+| Samsung Electronics U28H75x SAM0DFE 3840x2160 608x345mm 27.5-inch      | 1         | 0.63%   |
+| Samsung Electronics T24B350 SAM093E 1920x1080 530x300mm 24.0-inch      | 1         | 0.63%   |
+| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch   | 1         | 0.63%   |
+| Samsung Electronics SyncMaster SAM04DF 1360x768 410x230mm 18.5-inch    | 1         | 0.63%   |
+| Samsung Electronics SMT27A950 SAM080F 1920x1080 598x336mm 27.0-inch    | 1         | 0.63%   |
+| Samsung Electronics SM2333T SAM0737 1920x1080 510x290mm 23.1-inch      | 1         | 0.63%   |
+| Samsung Electronics S27D390 SAM0B67 1920x1080 598x336mm 27.0-inch      | 1         | 0.63%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 1         | 0.63%   |
+| Samsung Electronics Odyssey G8 SAM7231 3440x1440 809x354mm 34.8-inch   | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor U28E590 3840x2160                      | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SEC444E 1600x900 310x174mm 14.0-inch   | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SDC5844 1920x1080 344x194mm 15.5-inch  | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch   | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch  | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch   | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SDC4171 2880x1800 302x189mm 14.0-inch  | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SDC4159 1920x1080 344x194mm 15.5-inch  | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SDC4141 1366x768 344x194mm 15.5-inch   | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SAM0B60 1920x1080 887x500mm 40.1-inch  | 1         | 0.63%   |
+| Samsung Electronics LCD Monitor SAM07C0 1920x1080 1020x570mm 46.0-inch | 1         | 0.63%   |
+| Samsung Electronics Color LCD SDCA029 2160x1440 252x168mm 11.9-inch    | 1         | 0.63%   |
+| Samsung Electronics C49HG9x SAM0E5E 1920x1080 1200x340mm 49.1-inch     | 1         | 0.63%   |
+| Samsung Electronics C49HG9x SAM0E5D 1920x1080 1200x340mm 49.1-inch     | 1         | 0.63%   |
+| Samsung Electronics C27R50x SAM0F9D 1920x1080 598x336mm 27.0-inch      | 1         | 0.63%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 1         | 0.63%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1         | 0.63%   |
+| Philips PHL BDM3270 PHL08E7 2560x1440 708x398mm 32.0-inch              | 1         | 0.63%   |
+| Philips PHL 346B1C PHL095C 3440x1440 797x334mm 34.0-inch               | 1         | 0.63%   |
+| Philips PHL 275C5 PHLC0E4 1920x1080 598x336mm 27.0-inch                | 1         | 0.63%   |
+| Philips PHL 272E1GJ PHLC245 1920x1080 598x336mm 27.0-inch              | 1         | 0.63%   |
 
 Monitor Resolution
 ------------------
@@ -2551,14 +2552,13 @@ Controller models
 | Intel AX200 Bluetooth                                                               | 15        | 15.31%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 8         | 8.16%   |
 | Intel AX201 Bluetooth                                                               | 8         | 8.16%   |
-| Intel Bluetooth Device                                                              | 5         | 5.1%    |
+| Intel Bluetooth Device                                                              | 7         | 7.14%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 4         | 4.08%   |
 | Intel AX210 Bluetooth                                                               | 3         | 3.06%   |
 | Realtek 802.11ac WLAN Adapter                                                       | 2         | 2.04%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 2         | 2.04%   |
 | Lite-On Bluetooth Device                                                            | 2         | 2.04%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 2         | 2.04%   |
-| Intel Wireless-AC 3168 Bluetooth                                                    | 2         | 2.04%   |
 | HP Broadcom 2070 Bluetooth Combo                                                    | 2         | 2.04%   |
 | Apple Bluetooth USB Host Controller                                                 | 2         | 2.04%   |
 | Toshiba Bluetooth Device                                                            | 1         | 1.02%   |
@@ -2702,7 +2702,7 @@ Memory module models
 
 | Model                                                         | Computers | Percent |
 |---------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s     | 3         | 3.16%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s        | 3         | 3.16%   |
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                  | 2         | 2.11%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 2         | 2.11%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 2         | 2.11%   |
@@ -2725,12 +2725,12 @@ Memory module models
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s        | 1         | 1.05%   |
 | SK hynix RAM HMCG88MEBSA092N 32GB SODIMM DDR5 4800MT/s        | 1         | 1.05%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s        | 1         | 1.05%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2400MT/s     | 1         | 1.05%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.05%   |
 | SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s       | 1         | 1.05%   |
 | SK hynix RAM HMA82GS6DJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.05%   |
 | SK hynix RAM HMA82GR7CJR8N-VK 16GB DIMM DDR4 2666MT/s         | 1         | 1.05%   |
 | SK hynix RAM HMA82GR7AFR8N-VK 16GB DIMM DDR4 2666MT/s         | 1         | 1.05%   |
-| SK hynix RAM HMA81GS6MFR8N-UH 8GB SODIMM DDR4 2400MT/s        | 1         | 1.05%   |
+| SK hynix RAM HMA81GS6MFR8N-UH 8192MB SODIMM DDR4 2400MT/s     | 1         | 1.05%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s        | 1         | 1.05%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                   | 1         | 1.05%   |
 | Samsung RAM Module 8GB Row Of Chips LPDDR4 2933MT/s           | 1         | 1.05%   |
@@ -2738,7 +2738,7 @@ Memory module models
 | Samsung RAM Module 4GB SODIMM DDR3 1067MT/s                   | 1         | 1.05%   |
 | Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s               | 1         | 1.05%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s         | 1         | 1.05%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s      | 1         | 1.05%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.05%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.05%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s         | 1         | 1.05%   |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s         | 1         | 1.05%   |
@@ -2901,17 +2901,17 @@ Camera device vendors
 | Realtek Semiconductor                  | 3         | 3.45%   |
 | Luxvisions Innotech Limited            | 3         | 3.45%   |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 3.45%   |
+| Bison Electronics                      | 3         | 3.45%   |
 | Alcor Micro                            | 3         | 3.45%   |
 | Sunplus Innovation Technology          | 2         | 2.3%    |
-| Bison Electronics                      | 2         | 2.3%    |
 | Apple                                  | 2         | 2.3%    |
-| Acer                                   | 2         | 2.3%    |
-| YGTek                                  | 1         | 1.15%   |
 | ShineTech                              | 1         | 1.15%   |
 | Shenzhen Kingcome Optoelectronic       | 1         | 1.15%   |
 | Lite-On Technology                     | 1         | 1.15%   |
 | Huawei Technologies                    | 1         | 1.15%   |
+| Fifine K420                            | 1         | 1.15%   |
 | ALi                                    | 1         | 1.15%   |
+| Acer                                   | 1         | 1.15%   |
 
 Camera Model
 ------------
@@ -2939,8 +2939,6 @@ Camera device models
 | Chicony HP Wide Vision HD Camera                 | 2         | 2.3%    |
 | Chicony HP HD Camera                             | 2         | 2.3%    |
 | Cheng Uei Precision Industry (Foxlink) HD Camera | 2         | 2.3%    |
-| Alcor Micro USB 2.0 Camera                       | 2         | 2.3%    |
-| YGTek Webcam                                     | 1         | 1.15%   |
 | Sunplus HP HD Webcam [Fixed]                     | 1         | 1.15%   |
 | Sunplus HD WebCam                                | 1         | 1.15%   |
 | ShineTech HD Camera                              | 1         | 1.15%   |
@@ -2953,7 +2951,7 @@ Camera device models
 | Quanta HP Webcam                                 | 1         | 1.15%   |
 | Microdia Webcam Vitade AF                        | 1         | 1.15%   |
 | Microdia Webcam                                  | 1         | 1.15%   |
-| Microdia USB 2.0 Camera                          | 1         | 1.15%   |
+| Microdia GC02M2                                  | 1         | 1.15%   |
 | Luxvisions Innotech Limited HP 5MP Camera        | 1         | 1.15%   |
 | Logitech Webcam C270                             | 1         | 1.15%   |
 | Logitech HD Webcam C910                          | 1         | 1.15%   |
@@ -2961,8 +2959,10 @@ Camera device models
 | Lite-On HP Full-HD Camera                        | 1         | 1.15%   |
 | IMC Networks HD Camera                           | 1         | 1.15%   |
 | Huawei HiCamera                                  | 1         | 1.15%   |
+| Fifine K420 Fifine K420                          | 1         | 1.15%   |
 | Chicony USB2.0 VGA UVC WebCam                    | 1         | 1.15%   |
 | Chicony USB2.0 HD UVC WebCam                     | 1         | 1.15%   |
+| Chicony USB 2.0 Camera                           | 1         | 1.15%   |
 
 Security
 --------

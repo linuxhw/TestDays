@@ -1674,7 +1674,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO40EC 1366x768 344x193mm 15.5-inch            | 2         | 4.55%   |
 | Samsung Electronics LCD Monitor SEC4D42 1280x800 303x190mm 14.1-inch     | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 2.27%   |
-| Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch     | 1         | 2.27%   |
+| Samsung Electronics LCD Monitor SEC3741 1366x768 309x174mm 14.0-inch     | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SEC3051 1366x768 344x194mm 15.5-inch     | 1         | 2.27%   |
 | LG Philips LCD Monitor LPLE800 1280x800 304x190mm 14.1-inch              | 1         | 2.27%   |
 | LG Philips LCD Monitor LPLA101 1440x900 367x230mm 17.1-inch              | 1         | 2.27%   |
@@ -1683,7 +1683,7 @@ Monitor models
 | LG Display LP101WH1-TLB5 LGD0248 1366x768 224x126mm 10.1-inch            | 1         | 2.27%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch             | 1         | 2.27%   |
 | LG Display LCD Monitor LGD04B2 1920x1080 309x175mm 14.0-inch             | 1         | 2.27%   |
-| LG Display LCD Monitor LGD046F 1920x1080 344x194mm 15.5-inch             | 1         | 2.27%   |
+| LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 1         | 2.27%   |
 | LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD034D 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD033B 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
@@ -1691,7 +1691,7 @@ Monitor models
 | LG Display LCD Monitor LGD028A 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | Lenovo LEN T24i-20 LEN61F7 1920x1080 527x296mm 23.8-inch                 | 1         | 2.27%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 2.27%   |
-| InfoVision LCD Monitor IVO03F4 1024x600 223x125mm 10.1-inch              | 1         | 2.27%   |
+| InfoVision LCD Monitor IVO03F4 1920x1200 263x164mm 12.2-inch             | 1         | 2.27%   |
 | HJW HDMI TO USB HJW0001 1920x1080 708x398mm 32.0-inch                    | 1         | 2.27%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 1         | 2.27%   |
 | HannStar LCD Monitor HSD0325 1024x600 195x113mm 8.9-inch                 | 1         | 2.27%   |
@@ -2141,7 +2141,7 @@ Controller models
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 3.85%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 3.85%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.85%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1         | 3.85%   |
+| Intel Bluetooth Device                              | 1         | 3.85%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 3.85%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 3.85%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 3.85%   |
@@ -2257,9 +2257,9 @@ Memory module models
 | Unknown RAM Module 256MB SODIMM DRAM                           | 2         | 2.86%   |
 | Unknown RAM Module 1GB SODIMM DDR2 533MT/s                     | 2         | 2.86%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 2.86%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1600MT/s               | 2         | 2.86%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s       | 2         | 2.86%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 4199MT/s               | 2         | 2.86%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s          | 2         | 2.86%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 2         | 2.86%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 4199MT/s          | 2         | 2.86%   |
 | Unknown RAM Module 512MB SODIMM SDRAM                          | 1         | 1.43%   |
 | Unknown RAM Module 512MB SODIMM DRAM                           | 1         | 1.43%   |
 | Unknown RAM Module 512MB SODIMM DDR2 533MT/s                   | 1         | 1.43%   |
@@ -2285,7 +2285,7 @@ Memory module models
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 1.43%   |
 | SK hynix RAM HMT451S6MFR8A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.43%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 1.43%   |
-| SK hynix RAM HMT325S6CFR8C-H9 2048MB SODIMM 1334MT/s           | 1         | 1.43%   |
+| SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s         | 1         | 1.43%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1334MT/s         | 1         | 1.43%   |
 | SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s         | 1         | 1.43%   |
 | SK hynix RAM HMT112S6BFR6C-G7 1GB SODIMM 1067MT/s              | 1         | 1.43%   |
@@ -2440,12 +2440,11 @@ Camera device models
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
 | Microdia Sonix USB 2.0 Camera                           | 3         | 7.32%   |
+| Suyin USB 2.0 Camera                                    | 2         | 4.88%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro                    | 2         | 4.88%   |
 | IMC Networks USB2.0 VGA UVC WebCam                      | 2         | 4.88%   |
 | Bison BisonCam, NB Pro                                  | 2         | 4.88%   |
 | Syntek Integrated Camera                                | 1         | 2.44%   |
-| Suyin USB2.0 UVC 1.3M WebCam                            | 1         | 2.44%   |
-| Suyin USB 2.0 Camera                                    | 1         | 2.44%   |
 | Suyin Laptop_Integrated_Webcam_2HDM                     | 1         | 2.44%   |
 | Suyin Integrated_Webcam_HD                              | 1         | 2.44%   |
 | Sunplus Integrated_Webcam_HD                            | 1         | 2.44%   |

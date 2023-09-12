@@ -509,10 +509,11 @@ Motherboard manufacture year
 | 2021    | 5         | 23.81%  |
 | 2022    | 4         | 19.05%  |
 | 2016    | 3         | 14.29%  |
-| 2020    | 2         | 9.52%   |
 | 2018    | 2         | 9.52%   |
 | 2014    | 2         | 9.52%   |
+| 2020    | 1         | 4.76%   |
 | 2015    | 1         | 4.76%   |
+| 2012    | 1         | 4.76%   |
 | 2008    | 1         | 4.76%   |
 | Unknown | 1         | 4.76%   |
 
@@ -735,32 +736,32 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Notebooks | Percent |
-|-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 2         | 7.69%   |
-| Micron MTFDKBA512TFH 512GB                          | 2         | 7.69%   |
-| ZX1 1TB Disk 1TB                                    | 1         | 3.85%   |
-| WDC PC SN530 SDBPNPZ-512G-1014 512GB                | 1         | 3.85%   |
-| Unknown NVMe SSD Drive 256GB                        | 1         | 3.85%   |
-| Toshiba MQ01ABD100 1TB                              | 1         | 3.85%   |
-| Toshiba KXG60ZNV512G KIOXIA 512GB                   | 1         | 3.85%   |
-| SK hynix SKHynix_HFS512GDE9X084N 512GB              | 1         | 3.85%   |
-| SanDisk SD6SP1M256G1102 256GB SSD                   | 1         | 3.85%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 1         | 3.85%   |
-| Samsung MZVLW256HEHP-000L2 256GB                    | 1         | 3.85%   |
-| Samsung MZVLB512HBJQ-000L7 512GB                    | 1         | 3.85%   |
-| Samsung MZVLB512HAJQ-00000 512GB                    | 1         | 3.85%   |
-| Samsung MZVL2512HCJQ-00BL7 512GB                    | 1         | 3.85%   |
-| Samsung MZNTY128HDHP-00000 128GB SSD                | 1         | 3.85%   |
-| Samsung KLUFG8RHDA-B2D1 512GB                       | 1         | 3.85%   |
-| Samsung KLUFG8RHDA-B2D1 1GB                         | 1         | 3.85%   |
-| Phison ThinkPlus ST8000 PCI-E M.2 256G              | 1         | 3.85%   |
-| Micron 2450_MTFDKBA1T0TFK 1TB                       | 1         | 3.85%   |
-| Lenovo SSD SL500 240G                               | 1         | 3.85%   |
-| Kingchuxing SSD 128GB                               | 1         | 3.85%   |
-| HISI THR920GFCV100HAE 256GB                         | 1         | 3.85%   |
-| HP SSD EX950 1TB                                    | 1         | 3.85%   |
-| Apple SSD SM0256G 256GB                             | 1         | 3.85%   |
+| Model                                                 | Notebooks | Percent |
+|-------------------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 2         | 7.69%   |
+| Micron MTFDKBA512TFH 512GB                            | 2         | 7.69%   |
+| ZX1 1TB Disk 1TB                                      | 1         | 3.85%   |
+| WDC PC SN530 SDBPNPZ-512G-1014 512GB                  | 1         | 3.85%   |
+| Unknown NVMe SSD Drive 256GB                          | 1         | 3.85%   |
+| Toshiba MQ01ABD100 1TB                                | 1         | 3.85%   |
+| Toshiba KXG60ZNV512G KIOXIA 512GB                     | 1         | 3.85%   |
+| SK hynix SKHynix_HFS512GDE9X084N 512GB                | 1         | 3.85%   |
+| SanDisk SD6SP1M256G1102 256GB SSD                     | 1         | 3.85%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB   | 1         | 3.85%   |
+| Samsung MZVLW256HEHP-000L2 256GB                      | 1         | 3.85%   |
+| Samsung MZVLB512HBJQ-000L7 512GB                      | 1         | 3.85%   |
+| Samsung MZVLB512HAJQ-00000 512GB                      | 1         | 3.85%   |
+| Samsung MZVL2512HCJQ-00BL7 512GB                      | 1         | 3.85%   |
+| Samsung MZNTY128HDHP-00000 128GB SSD                  | 1         | 3.85%   |
+| Samsung KLUFG8RHDA-B2D1 512GB                         | 1         | 3.85%   |
+| Samsung KLUFG8RHDA-B2D1 1GB                           | 1         | 3.85%   |
+| Phison ThinkPlus ST8000 PCI-E M.2 256G                | 1         | 3.85%   |
+| Micron 2450_MTFDKBA1T0TFK 1TB                         | 1         | 3.85%   |
+| Lenovo SSD SL500 240G                                 | 1         | 3.85%   |
+| Kingchuxing SSD 128GB                                 | 1         | 3.85%   |
+| HISI THR920GFCV100HAE 256GB                           | 1         | 3.85%   |
+| HP SSD EX950 1TB                                      | 1         | 3.85%   |
+| Apple SSD SM0256G 256GB                               | 1         | 3.85%   |
 
 HDD Vendor
 ----------
@@ -1482,7 +1483,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2.78%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 2.78%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 2.78%   |
-| ICS Advent 10/100M LAN                                            | 1         | 2.78%   |
+| ICS Advent USB 10/100 LAN                                         | 1         | 2.78%   |
 | Broadcom BCM43602 802.11ac Wireless LAN SoC                       | 1         | 2.78%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 2.78%   |
 
@@ -1559,7 +1560,7 @@ Ethernet models
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 6.67%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 6.67%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 6.67%   |
-| ICS Advent 10/100M LAN                                            | 1         | 6.67%   |
+| ICS Advent USB 10/100 LAN                                         | 1         | 6.67%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 6.67%   |
 
 Net Controller Kind
@@ -1734,22 +1735,22 @@ Memory module models
 | UNILC RAM 6478545886 8192MB SODIMM DDR4 2400MT/s                 | 1         | 5.26%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1867MT/s                     | 1         | 5.26%   |
 | SK hynix RAM Module 4096MB SODIMM LPDDR3 1867MT/s                | 1         | 5.26%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 1         | 5.26%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 1         | 5.26%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 5.26%   |
-| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips 6400MT/s        | 1         | 5.26%   |
+| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 5.26%   |
 | SK hynix RAM H9HKNNNFBMBUDR 8192MB Row Of Chips LPDDR4 4266MT/s  | 1         | 5.26%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2667MT/s                   | 1         | 5.26%   |
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1867MT/s                 | 1         | 5.26%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 5.26%   |
 | Samsung RAM K3UH7H70AM 8192MB Row Of Chips LPDDR4 4266MT/s       | 1         | 5.26%   |
 | Nanya RAM M2N2G64CB8HA5N-BE 2GB SODIMM 1066MT/s                  | 1         | 5.26%   |
-| Micron RAM MT62F2G32D8DR-031 WT 8GB Row Of Chips LPDDR5 6400MT/s | 1         | 5.26%   |
+| Micron RAM MT62F2G32D8DR-031 WT 8GB Row Of Chips 6400MT/s        | 1         | 5.26%   |
 | Micron RAM MT62F1G32D4DR-031 2GB Row Of Chips LPDDR5 6400MT/s    | 1         | 5.26%   |
 | Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s    | 1         | 5.26%   |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s             | 1         | 5.26%   |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s       | 1         | 5.26%   |
 | Elpida RAM Module 2048MB SODIMM DDR3 1600MT/s                    | 1         | 5.26%   |
-| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1067MT/s            | 1         | 5.26%   |
+| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM 1067MT/s                 | 1         | 5.26%   |
 
 Memory Kind
 -----------
@@ -1791,9 +1792,9 @@ Memory module size
 
 | Size | Notebooks | Percent |
 |------|-----------|---------|
-| 8192 | 10        | 58.82%  |
-| 2048 | 4         | 23.53%  |
+| 8192 | 11        | 64.71%  |
 | 4096 | 3         | 17.65%  |
+| 2048 | 3         | 17.65%  |
 
 Memory Speed
 ------------
@@ -1960,8 +1961,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 12        | 57.14%  |
-| 1     | 8         | 38.1%   |
-| 2     | 1         | 4.76%   |
+| 1     | 7         | 33.33%  |
+| 2     | 2         | 9.52%   |
 
 Unsupported Device Types
 ------------------------
@@ -1973,8 +1974,8 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 5         | 50%     |
-| Multimedia controller | 2         | 20%     |
-| Graphics card         | 2         | 20%     |
-| Camera                | 1         | 10%     |
+| Fingerprint reader    | 5         | 45.45%  |
+| Graphics card         | 3         | 27.27%  |
+| Multimedia controller | 2         | 18.18%  |
+| Camera                | 1         | 9.09%   |
 

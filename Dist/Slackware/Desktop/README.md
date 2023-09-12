@@ -1031,7 +1031,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB   | 2        | 1.05%   |
 | Seagate ST1000DM003-1SB102 1TB   | 2        | 1.05%   |
 | Seagate ST1000DM003-1ER162 1TB   | 2        | 1.05%   |
-| Seagate Expansion Desk 8TB       | 2        | 1.05%   |
+| Seagate Expansion Desk 2TB       | 2        | 1.05%   |
 | Samsung SSD 970 EVO Plus 1TB     | 2        | 1.05%   |
 | Kingston SA400S37240G 240GB SSD  | 2        | 1.05%   |
 | Kingston SA400S37120G 120GB SSD  | 2        | 1.05%   |
@@ -1144,13 +1144,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 80     | 40.68%  |
-| 0.51-1.0   | 27       | 63     | 22.88%  |
-| 1.01-2.0   | 17       | 24     | 14.41%  |
-| 3.01-4.0   | 10       | 23     | 8.47%   |
-| 2.01-3.0   | 8        | 19     | 6.78%   |
-| 4.01-10.0  | 6        | 8      | 5.08%   |
-| 10.01-20.0 | 2        | 5      | 1.69%   |
+| 0.01-0.5   | 48       | 80     | 41.03%  |
+| 0.51-1.0   | 27       | 63     | 23.08%  |
+| 1.01-2.0   | 18       | 26     | 15.38%  |
+| 3.01-4.0   | 10       | 23     | 8.55%   |
+| 2.01-3.0   | 8        | 19     | 6.84%   |
+| 4.01-10.0  | 4        | 6      | 3.42%   |
+| 10.01-20.0 | 2        | 5      | 1.71%   |
 
 Space Total
 -----------
@@ -1833,7 +1833,7 @@ Monitor models
 | ViewSonic LCD Monitor VX2276 Series 1920x1080                        | 1        | 1.37%   |
 | ViewSonic LCD Monitor VA2448 SERIES 1920x1080                        | 1        | 1.37%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch            | 1        | 1.37%   |
-| Toshiba TV TSB0206 1920x1080 1600x1000mm 74.3-inch                   | 1        | 1.37%   |
+| Toshiba TV TSB0206 1920x1080                                         | 1        | 1.37%   |
 | Samsung Electronics SyncMaster SAM0578 1920x1080 476x268mm 21.5-inch | 1        | 1.37%   |
 | Samsung Electronics SyncMaster SAM03F2 1680x1050                     | 1        | 1.37%   |
 | Samsung Electronics SyncMaster SAM03F0 1680x1050 433x271mm 20.1-inch | 1        | 1.37%   |
@@ -1880,11 +1880,11 @@ Monitor screen resolution
 |--------------------|----------|---------|
 | 1920x1080 (FHD)    | 31       | 44.93%  |
 | 1280x1024 (SXGA)   | 7        | 10.14%  |
-| 2560x1440 (QHD)    | 5        | 7.25%   |
 | 1680x1050 (WSXGA+) | 5        | 7.25%   |
+| 3840x2160 (4K)     | 4        | 5.8%    |
+| 2560x1440 (QHD)    | 4        | 5.8%    |
 | 1920x1200 (WUXGA)  | 4        | 5.8%    |
 | 1366x768 (WXGA)    | 4        | 5.8%    |
-| 3840x2160 (4K)     | 3        | 4.35%   |
 | 3440x1440          | 2        | 2.9%    |
 | 1440x900 (WXGA+)   | 2        | 2.9%    |
 | 3200x1080          | 1        | 1.45%   |
@@ -2051,48 +2051,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 27       | 23.48%  |
-| Intel I211 Gigabit Network Connection                             | 7        | 6.09%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 4        | 3.48%   |
-| Intel Ethernet Connection (2) I218-V                              | 4        | 3.48%   |
-| Intel 82574L Gigabit Network Connection                           | 4        | 3.48%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 2.61%   |
-| Ralink MT7601U Wireless Adapter                                   | 3        | 2.61%   |
-| Nvidia MCP61 Ethernet                                             | 3        | 2.61%   |
-| Intel Wi-Fi 6 AX200                                               | 3        | 2.61%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 2.61%   |
-| Realtek RTL8188EE Wireless Network Adapter                        | 2        | 1.74%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 2        | 1.74%   |
-| Intel I350 Gigabit Network Connection                             | 2        | 1.74%   |
-| Intel Ethernet Controller I225-V                                  | 2        | 1.74%   |
-| Intel Ethernet Connection (7) I219-V                              | 2        | 1.74%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 2        | 1.74%   |
-| Intel 82579V Gigabit Network Connection                           | 2        | 1.74%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 1.74%   |
-| Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express           | 2        | 1.74%   |
-| VIA VT6105/VT6106S [Rhine-III]                                    | 1        | 0.87%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 0.87%   |
-| TP-Link RTL8812AU Archer T4U 802.11ac                             | 1        | 0.87%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 0.87%   |
-| Realtek USB 10/100/1G/2.5G LAN                                    | 1        | 0.87%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 0.87%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1        | 0.87%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                           | 1        | 0.87%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.87%   |
-| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                         | 1        | 0.87%   |
-| Qualcomm Redmi Note 8                                             | 1        | 0.87%   |
-| Qualcomm Atheros AR93xx Wireless Network Adapter                  | 1        | 0.87%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1        | 0.87%   |
-| Qualcomm Atheros AR9227 Wireless Network Adapter                  | 1        | 0.87%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 0.87%   |
-| Nvidia MCP79 Ethernet                                             | 1        | 0.87%   |
-| Micro Star International 802.11 n WLAN                            | 1        | 0.87%   |
-| Mellanox MT26448 [ConnectX EN 10GigE, PCIe 2.0 5GT/s]             | 1        | 0.87%   |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                           | 1        | 0.87%   |
-| Intel Wireless-AC 9260                                            | 1        | 0.87%   |
-| Intel Wireless 7260                                               | 1        | 0.87%   |
+| Model                                                                      | Desktops | Percent |
+|----------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller          | 27       | 23.48%  |
+| Intel I211 Gigabit Network Connection                                      | 7        | 6.09%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                      | 4        | 3.48%   |
+| Intel Ethernet Connection (2) I218-V                                       | 4        | 3.48%   |
+| Intel 82574L Gigabit Network Connection                                    | 4        | 3.48%   |
+| Realtek RTL8125 2.5GbE Controller                                          | 3        | 2.61%   |
+| Ralink MT7601U Wireless Adapter                                            | 3        | 2.61%   |
+| Nvidia MCP61 Ethernet                                                      | 3        | 2.61%   |
+| Intel Wi-Fi 6 AX200                                                        | 3        | 2.61%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                      | 3        | 2.61%   |
+| Realtek RTL8188EE Wireless Network Adapter                                 | 2        | 1.74%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                  | 2        | 1.74%   |
+| Intel I350 Gigabit Network Connection                                      | 2        | 1.74%   |
+| Intel Ethernet Controller I225-V                                           | 2        | 1.74%   |
+| Intel Ethernet Connection (7) I219-V                                       | 2        | 1.74%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                           | 2        | 1.74%   |
+| Intel 82579V Gigabit Network Connection                                    | 2        | 1.74%   |
+| Intel 82567LM-3 Gigabit Network Connection                                 | 2        | 1.74%   |
+| Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express                    | 2        | 1.74%   |
+| VIA VT6105/VT6106S [Rhine-III]                                             | 1        | 0.87%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                | 1        | 0.87%   |
+| TP-Link RTL8812AU Archer T4U 802.11ac                                      | 1        | 0.87%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 1        | 0.87%   |
+| Realtek USB 10/100/1G/2.5G LAN                                             | 1        | 0.87%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                         | 1        | 0.87%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                   | 1        | 0.87%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                                    | 1        | 0.87%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                      | 1        | 0.87%   |
+| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                  | 1        | 0.87%   |
+| Qualcomm Redmi Note 8                                                      | 1        | 0.87%   |
+| Qualcomm Atheros AR93xx Wireless Network Adapter                           | 1        | 0.87%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)             | 1        | 0.87%   |
+| Qualcomm Atheros AR9227 Wireless Network Adapter                           | 1        | 0.87%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet             | 1        | 0.87%   |
+| Nvidia MCP79 Ethernet                                                      | 1        | 0.87%   |
+| Micro Star International MS-3871 802.11bgn Wireless Module [Ralink RT8070] | 1        | 0.87%   |
+| Mellanox MT26448 [ConnectX EN 10GigE, PCIe 2.0 5GT/s]                      | 1        | 0.87%   |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                    | 1        | 0.87%   |
+| Intel Wireless-AC 9260                                                     | 1        | 0.87%   |
+| Intel Wireless 7260                                                        | 1        | 0.87%   |
 
 Wireless Vendor
 ---------------
@@ -2122,29 +2122,29 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Ralink MT7601U Wireless Adapter                                       | 3        | 11.11%  |
-| Intel Wi-Fi 6 AX200                                                   | 3        | 11.11%  |
-| Realtek RTL8188EE Wireless Network Adapter                            | 2        | 7.41%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                      | 2        | 7.41%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                           | 1        | 3.7%    |
-| TP-Link RTL8812AU Archer T4U 802.11ac                                 | 1        | 3.7%    |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]            | 1        | 3.7%    |
-| Realtek RTL88x2bu [AC1200 Techkey]                                    | 1        | 3.7%    |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter              | 1        | 3.7%    |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                               | 1        | 3.7%    |
-| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                             | 1        | 3.7%    |
-| Qualcomm Atheros AR93xx Wireless Network Adapter                      | 1        | 3.7%    |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)        | 1        | 3.7%    |
-| Qualcomm Atheros AR9227 Wireless Network Adapter                      | 1        | 3.7%    |
-| Micro Star International 802.11 n WLAN                                | 1        | 3.7%    |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                               | 1        | 3.7%    |
-| Intel Wireless-AC 9260                                                | 1        | 3.7%    |
-| Intel Wireless 7260                                                   | 1        | 3.7%    |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                | 1        | 3.7%    |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                          | 1        | 3.7%    |
-| Dell Wireless 1450 Dual-band (802.11a/b/g) Adapter [Intersil ISL3887] | 1        | 3.7%    |
+| Model                                                                      | Desktops | Percent |
+|----------------------------------------------------------------------------|----------|---------|
+| Ralink MT7601U Wireless Adapter                                            | 3        | 11.11%  |
+| Intel Wi-Fi 6 AX200                                                        | 3        | 11.11%  |
+| Realtek RTL8188EE Wireless Network Adapter                                 | 2        | 7.41%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                           | 2        | 7.41%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                | 1        | 3.7%    |
+| TP-Link RTL8812AU Archer T4U 802.11ac                                      | 1        | 3.7%    |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 1        | 3.7%    |
+| Realtek RTL88x2bu [AC1200 Techkey]                                         | 1        | 3.7%    |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                   | 1        | 3.7%    |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                                    | 1        | 3.7%    |
+| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                  | 1        | 3.7%    |
+| Qualcomm Atheros AR93xx Wireless Network Adapter                           | 1        | 3.7%    |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)             | 1        | 3.7%    |
+| Qualcomm Atheros AR9227 Wireless Network Adapter                           | 1        | 3.7%    |
+| Micro Star International MS-3871 802.11bgn Wireless Module [Ralink RT8070] | 1        | 3.7%    |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                    | 1        | 3.7%    |
+| Intel Wireless-AC 9260                                                     | 1        | 3.7%    |
+| Intel Wireless 7260                                                        | 1        | 3.7%    |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                     | 1        | 3.7%    |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 1        | 3.7%    |
+| Dell Wireless 1450 Dual-band (802.11a/b/g) Adapter [Intersil ISL3887]      | 1        | 3.7%    |
 
 Ethernet Vendor
 ---------------
@@ -2302,8 +2302,8 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 12       | 44.44%  |
 | Intel AX200 Bluetooth                               | 3        | 11.11%  |
 | MediaTek Wireless_Device                            | 2        | 7.41%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 2        | 7.41%   |
-| TP-Link UB500 Adapter                               | 1        | 3.7%    |
+| Intel Bluetooth Device                              | 2        | 7.41%   |
+| TP-Link UB5A Adapter                                | 1        | 3.7%    |
 | Realtek Bluetooth Radio                             | 1        | 3.7%    |
 | Micro Star International Bluetooth Dongle           | 1        | 3.7%    |
 | Micro Star International Bluetooth Device           | 1        | 3.7%    |
@@ -2448,8 +2448,8 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 667MT/s                      | 1        | 1.16%   |
 | Transcend RAM TS256MLQ72V6U 2GB DIMM DDR2 667MT/s           | 1        | 1.16%   |
 | Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 1.16%   |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3733MT/s          | 1        | 1.16%   |
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s          | 1        | 1.16%   |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3733MT/s         | 1        | 1.16%   |
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.16%   |
 | Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3 1600MT/s         | 1        | 1.16%   |
 | SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.16%   |
@@ -2474,7 +2474,7 @@ Memory module models
 | Kingston RAM Module 2048MB FB-DIMM DDR2 667MT/s             | 1        | 1.16%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.16%   |
 | Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.16%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.16%   |
+| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s     | 1        | 1.16%   |
 
 Memory Kind
 -----------

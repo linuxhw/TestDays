@@ -865,14 +865,13 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor             | Desktops | Drives | Percent |
-|--------------------|----------|--------|---------|
-| Seagate            | 9        | 11     | 45%     |
-| WDC                | 5        | 7      | 25%     |
-| Toshiba            | 2        | 2      | 10%     |
-| Hitachi            | 2        | 2      | 10%     |
-| Maxtor             | 1        | 1      | 5%      |
-| JMicron Technology | 1        | 1      | 5%      |
+| Vendor  | Desktops | Drives | Percent |
+|---------|----------|--------|---------|
+| Seagate | 9        | 11     | 47.37%  |
+| WDC     | 5        | 7      | 26.32%  |
+| Toshiba | 2        | 2      | 10.53%  |
+| Hitachi | 2        | 2      | 10.53%  |
+| Maxtor  | 1        | 1      | 5.26%   |
 
 SSD Vendor
 ----------
@@ -884,21 +883,22 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SanDisk             | 3        | 3      | 13.04%  |
-| Samsung Electronics | 3        | 3      | 13.04%  |
-| Kingston            | 3        | 4      | 13.04%  |
-| Crucial             | 3        | 3      | 13.04%  |
-| WDC                 | 1        | 1      | 4.35%   |
-| Seagate             | 1        | 1      | 4.35%   |
-| Patriot             | 1        | 1      | 4.35%   |
-| Origin              | 1        | 1      | 4.35%   |
-| Micron Technology   | 1        | 1      | 4.35%   |
-| LITEONIT            | 1        | 1      | 4.35%   |
-| Leven               | 1        | 1      | 4.35%   |
-| Intenso             | 1        | 1      | 4.35%   |
-| China               | 1        | 1      | 4.35%   |
-| ASMT                | 1        | 1      | 4.35%   |
-| A-DATA Technology   | 1        | 1      | 4.35%   |
+| SanDisk             | 3        | 3      | 12.5%   |
+| Samsung Electronics | 3        | 3      | 12.5%   |
+| Kingston            | 3        | 4      | 12.5%   |
+| Crucial             | 3        | 3      | 12.5%   |
+| WDC                 | 1        | 1      | 4.17%   |
+| Seagate             | 1        | 1      | 4.17%   |
+| Patriot             | 1        | 1      | 4.17%   |
+| Origin              | 1        | 1      | 4.17%   |
+| Micron Technology   | 1        | 1      | 4.17%   |
+| LITEONIT            | 1        | 1      | 4.17%   |
+| Leven               | 1        | 1      | 4.17%   |
+| JMicron Technology  | 1        | 1      | 4.17%   |
+| Intenso             | 1        | 1      | 4.17%   |
+| China               | 1        | 1      | 4.17%   |
+| ASMT                | 1        | 1      | 4.17%   |
+| A-DATA Technology   | 1        | 1      | 4.17%   |
 
 Drive Kind
 ----------
@@ -910,11 +910,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 17       | 24     | 40.48%  |
-| HDD     | 15       | 24     | 35.71%  |
-| NVMe    | 6        | 9      | 14.29%  |
-| MMC     | 2        | 2      | 4.76%   |
-| Unknown | 2        | 2      | 4.76%   |
+| SSD     | 18       | 25     | 41.86%  |
+| HDD     | 15       | 23     | 34.88%  |
+| NVMe    | 6        | 9      | 13.95%  |
+| MMC     | 2        | 2      | 4.65%   |
+| Unknown | 2        | 2      | 4.65%   |
 
 Drive Connector
 ---------------

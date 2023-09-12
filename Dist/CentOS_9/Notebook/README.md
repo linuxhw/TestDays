@@ -724,36 +724,36 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Notebooks | Percent |
-|-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 2         | 6.45%   |
-| Samsung MZNLH512HALU-00000 512GB SSD                | 2         | 6.45%   |
-| Micron 2450_MTFDKBA512TFK 512GB                     | 2         | 6.45%   |
-| WDC WD6400BEVT-22A0RT0 640GB                        | 1         | 3.23%   |
-| WDC WD5000LPLX-60ZNTT1 500GB                        | 1         | 3.23%   |
-| Unknown MMC Card  7GB                               | 1         | 3.23%   |
-| Union Memory UMIS RPJTJ256MEE1OWX 256GB             | 1         | 3.23%   |
-| Toshiba MQ04ABF100 1TB                              | 1         | 3.23%   |
-| SK hynix NVMe SSD Drive 256GB                       | 1         | 3.23%   |
-| SK hynix BC501 NVMe 256GB                           | 1         | 3.23%   |
-| Seagate ST500LT012-9WS142 500GB                     | 1         | 3.23%   |
-| Seagate ST1000LM035-1RK172 1TB                      | 1         | 3.23%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 3.23%   |
-| Samsung PSSD T7 1TB                                 | 1         | 3.23%   |
-| Samsung NVMe SSD Drive 1TB                          | 1         | 3.23%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 1         | 3.23%   |
-| Samsung MZALQ512HALU-000L2 512GB                    | 1         | 3.23%   |
-| LITEON IT LST-32S9G-HP 32GB SSD                     | 1         | 3.23%   |
-| Kingston SH103S3240G 240GB SSD                      | 1         | 3.23%   |
-| Kingston SA400S37240G 240GB SSD                     | 1         | 3.23%   |
-| Kingston RBU-SC100S37128GD 128GB SSD                | 1         | 3.23%   |
-| Intel SSDSCKKF256H6L 256GB                          | 1         | 3.23%   |
-| Intel SSDPEKNW512G8L 512GB                          | 1         | 3.23%   |
-| Hjwdz MS2160 8MB                                    | 1         | 3.23%   |
-| HGST HTS725032A7E630 320GB                          | 1         | 3.23%   |
-| HGST HTS721010A9E630 1TB                            | 1         | 3.23%   |
-| HGST HTS541010A9E680 1TB                            | 1         | 3.23%   |
-| HP SSD S700 500GB                                   | 1         | 3.23%   |
+| Model                                                 | Notebooks | Percent |
+|-------------------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB   | 2         | 6.45%   |
+| Samsung MZNLH512HALU-00000 512GB SSD                  | 2         | 6.45%   |
+| Micron 2450_MTFDKBA512TFK 512GB                       | 2         | 6.45%   |
+| WDC WD6400BEVT-22A0RT0 640GB                          | 1         | 3.23%   |
+| WDC WD5000LPLX-60ZNTT1 500GB                          | 1         | 3.23%   |
+| Unknown MMC Card  7GB                                 | 1         | 3.23%   |
+| Union Memory UMIS RPJTJ256MEE1OWX 256GB               | 1         | 3.23%   |
+| Toshiba MQ04ABF100 1TB                                | 1         | 3.23%   |
+| SK hynix NVMe SSD Drive 256GB                         | 1         | 3.23%   |
+| SK hynix BC501 NVMe 256GB                             | 1         | 3.23%   |
+| Seagate ST500LT012-9WS142 500GB                       | 1         | 3.23%   |
+| Seagate ST1000LM035-1RK172 1TB                        | 1         | 3.23%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                    | 1         | 3.23%   |
+| Samsung PSSD T7 1TB                                   | 1         | 3.23%   |
+| Samsung NVMe SSD Drive 1TB                            | 1         | 3.23%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 1         | 3.23%   |
+| Samsung MZALQ512HALU-000L2 512GB                      | 1         | 3.23%   |
+| LITEON IT LST-32S9G-HP 32GB SSD                       | 1         | 3.23%   |
+| Kingston SH103S3240G 240GB SSD                        | 1         | 3.23%   |
+| Kingston SA400S37240G 240GB SSD                       | 1         | 3.23%   |
+| Kingston RBU-SC100S37128GD 128GB SSD                  | 1         | 3.23%   |
+| Intel SSDSCKKF256H6L 256GB                            | 1         | 3.23%   |
+| Intel SSDPEKNW512G8L 512GB                            | 1         | 3.23%   |
+| Hjwdz MS2160 8MB                                      | 1         | 3.23%   |
+| HGST HTS725032A7E630 320GB                            | 1         | 3.23%   |
+| HGST HTS721010A9E630 1TB                              | 1         | 3.23%   |
+| HGST HTS541010A9E680 1TB                              | 1         | 3.23%   |
+| HP SSD S700 500GB                                     | 1         | 3.23%   |
 
 HDD Vendor
 ----------
@@ -1306,7 +1306,7 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| TMX TL156MDMP01-0 TMX1560 3200x2000 336x210mm 15.6-inch               | 1         | 4%      |
+| TMX TL156MDMP01-1 TMX1560 3200x2000 336x210mm 15.6-inch               | 1         | 4%      |
 | SKY 22X1-M225F SKY2150 1920x1080 476x268mm 21.5-inch                  | 1         | 4%      |
 | Samsung Electronics SMT22A350 SAM07A7 1920x1080 477x268mm 21.5-inch   | 1         | 4%      |
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 1         | 4%      |
@@ -1323,7 +1323,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch       | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN1515 1920x1080 344x193mm 15.5-inch      | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN14A3 1600x900 309x174mm 14.0-inch       | 1         | 4%      |
-| CHD 24VCF CHD0240 1920x1080 368x207mm 16.6-inch                       | 1         | 4%      |
+| CHD PMO S241-IFC CHD0240 1920x1080 530x300mm 24.0-inch                | 1         | 4%      |
 | BOE LCD Monitor BOE08D5 1920x1080 344x194mm 15.5-inch                 | 1         | 4%      |
 | BOE LCD Monitor BOE0697 1366x768 309x173mm 13.9-inch                  | 1         | 4%      |
 | AU Optronics LCD Monitor AUO5A3D 1920x1080 309x174mm 14.0-inch        | 1         | 4%      |
@@ -1758,22 +1758,22 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                           | Notebooks | Percent |
-|-----------------------------------------------------------------|-----------|---------|
-| Smart Brazil RAM SMS4TDC3C0K0446SCG 4096MB SODIMM DDR4 2667MT/s | 1         | 7.14%   |
-| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s          | 1         | 7.14%   |
-| SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 7.14%   |
-| SHARETRONIC RAM Module 4GB SODIMM DDR3 800MT/s                  | 1         | 7.14%   |
-| Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                     | 1         | 7.14%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s           | 1         | 7.14%   |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s           | 1         | 7.14%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s     | 1         | 7.14%   |
-| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s           | 1         | 7.14%   |
-| Samsung RAM K4UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s    | 1         | 7.14%   |
-| Kingston RAM 9905417-083.A00G 4GB SODIMM DDR3 1600MT/s          | 1         | 7.14%   |
-| G.Skill RAM F3-1600C9-8GRSL 8GB SODIMM DDR3 1600MT/s            | 1         | 7.14%   |
-| Corsair RAM CMSO8GX3M1C1600C11 8GB SODIMM DDR3 1600MT/s         | 1         | 7.14%   |
-| A-DATA RAM Module 32GB SODIMM DDR4 3200MT/s                     | 1         | 7.14%   |
+| Model                                                        | Notebooks | Percent |
+|--------------------------------------------------------------|-----------|---------|
+| Smart Brazil RAM SMS4TDC3C0K0446SCG 4GB SODIMM DDR4 2667MT/s | 1         | 7.14%   |
+| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s       | 1         | 7.14%   |
+| SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 7.14%   |
+| SHARETRONIC RAM Module 4GB SODIMM DDR3 800MT/s               | 1         | 7.14%   |
+| Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 7.14%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 7.14%   |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 7.14%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 1         | 7.14%   |
+| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 7.14%   |
+| Samsung RAM K4UBE3D4AA-MGCR 8GB Row Of Chips LPDDR4 4267MT/s | 1         | 7.14%   |
+| Kingston RAM 9905417-083.A00G 4GB SODIMM DDR3 1600MT/s       | 1         | 7.14%   |
+| G.Skill RAM F3-1600C9-8GRSL 8GB SODIMM DDR3 1600MT/s         | 1         | 7.14%   |
+| Corsair RAM CMSO8GX3M1C1600C11 8GB SODIMM DDR3 1600MT/s      | 1         | 7.14%   |
+| A-DATA RAM Module 32GB SODIMM DDR4 3200MT/s                  | 1         | 7.14%   |
 
 Memory Kind
 -----------
@@ -1881,11 +1881,10 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 5         | 26.32%  |
+| Bison Electronics                      | 4         | 21.05%  |
 | IMC Networks                           | 3         | 15.79%  |
 | Syntek                                 | 2         | 10.53%  |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 10.53%  |
-| Bison Electronics                      | 2         | 10.53%  |
-| Acer                                   | 2         | 10.53%  |
 | Realtek Semiconductor                  | 1         | 5.26%   |
 | Luxvisions Innotech Limited            | 1         | 5.26%   |
 | Apple                                  | 1         | 5.26%   |
@@ -1901,6 +1900,7 @@ Camera device models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Syntek Integrated Camera                            | 2         | 10.53%  |
+| Bison Integrated Camera                             | 2         | 10.53%  |
 | Realtek Lenovo EasyCamera                           | 1         | 5.26%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 1         | 5.26%   |
 | IMC Networks USB2.0 UVC HD Webcam                   | 1         | 5.26%   |
@@ -1914,10 +1914,8 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 1         | 5.26%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera | 1         | 5.26%   |
 | Bison Lenovo Integrated Webcam                      | 1         | 5.26%   |
-| Bison Integrated Camera                             | 1         | 5.26%   |
+| Bison HD Webcam                                     | 1         | 5.26%   |
 | Apple iPhone 5/5C/5S/6/SE/7/8/X                     | 1         | 5.26%   |
-| Acer Integrated Camera                              | 1         | 5.26%   |
-| Acer HD Webcam                                      | 1         | 5.26%   |
 
 Security
 --------

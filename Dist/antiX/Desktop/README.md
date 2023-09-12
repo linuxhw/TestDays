@@ -758,39 +758,39 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                              | Desktops | Percent |
-|----------------------------------------------------|----------|---------|
-| WDC WD800AAJS-75M0A0 80GB                          | 2        | 5.56%   |
-| WDC WD10SPZX-80Z10T2 1TB                           | 2        | 5.56%   |
-| Toshiba MQ01ABD050V -63 500GB                      | 2        | 5.56%   |
-| Kingston SA400S37240G 240GB SSD                    | 2        | 5.56%   |
-| BHT WR202F0032G 670270F5 32GB SSD                  | 2        | 5.56%   |
-| WDC WD800JB-00ETA0 80GB                            | 1        | 2.78%   |
-| WDC WD205BA 21GB                                   | 1        | 2.78%   |
-| WDC WD2003FZEX-00Z4SA0 2TB                         | 1        | 2.78%   |
-| WDC WD1600AAJS-00PSA0 160GB                        | 1        | 2.78%   |
-| WDC WD10EADS-65M2B0 1TB                            | 1        | 2.78%   |
-| Unknown 2GB ATA Flash Disk                         | 1        | 2.78%   |
-| Toshiba MG06ACA600E 6TB                            | 1        | 2.78%   |
-| Seagate ST500DM002-1BD142 500GB                    | 1        | 2.78%   |
-| Seagate ST3320620AS 320GB                          | 1        | 2.78%   |
-| Seagate ST3320413CS 320GB                          | 1        | 2.78%   |
-| Seagate ST1000DM010-2EP102 1TB                     | 1        | 2.78%   |
-| SanDisk sandisk120 120GB SSD                       | 1        | 2.78%   |
-| Samsung SSD 860 EVO 500GB                          | 1        | 2.78%   |
-| Samsung SSD 850 EVO 120GB                          | 1        | 2.78%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 1        | 2.78%   |
-| Samsung HD250HJ 250GB                              | 1        | 2.78%   |
-| Samsung HD162GJ 160GB                              | 1        | 2.78%   |
-| Samsung HD160JJ/ 160GB                             | 1        | 2.78%   |
-| Samsung HD080HJ/ 80GB                              | 1        | 2.78%   |
-| Micron/Crucial P1 NVMe PCIe SSD 1TB                | 1        | 2.78%   |
-| Micron/Crucial CT2000P5PSSD8 2TB                   | 1        | 2.78%   |
-| Maxtor Z1 SSD 240GB                                | 1        | 2.78%   |
-| Intel SSDPEKNW010T8 1TB                            | 1        | 2.78%   |
-| Hitachi HTS723232A7A364 320GB                      | 1        | 2.78%   |
-| Crucial CT500MX500SSD1 500GB                       | 1        | 2.78%   |
-| Apacer 32GB SATA Flash Drive SSD                   | 1        | 2.78%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| WDC WD800AAJS-75M0A0 80GB                             | 2        | 5.56%   |
+| WDC WD10SPZX-80Z10T2 1TB                              | 2        | 5.56%   |
+| Toshiba MQ01ABD050V -63 500GB                         | 2        | 5.56%   |
+| Kingston SA400S37240G 240GB SSD                       | 2        | 5.56%   |
+| BHT WR202F0032G 670270F5 32GB SSD                     | 2        | 5.56%   |
+| WDC WD800JB-00ETA0 80GB                               | 1        | 2.78%   |
+| WDC WD205BA 21GB                                      | 1        | 2.78%   |
+| WDC WD2003FZEX-00Z4SA0 2TB                            | 1        | 2.78%   |
+| WDC WD1600AAJS-00PSA0 160GB                           | 1        | 2.78%   |
+| WDC WD10EADS-65M2B0 1TB                               | 1        | 2.78%   |
+| Unknown 2GB ATA Flash Disk                            | 1        | 2.78%   |
+| Toshiba MG06ACA600E 6TB                               | 1        | 2.78%   |
+| Seagate ST500DM002-1BD142 500GB                       | 1        | 2.78%   |
+| Seagate ST3320620AS 320GB                             | 1        | 2.78%   |
+| Seagate ST3320413CS 320GB                             | 1        | 2.78%   |
+| Seagate ST1000DM010-2EP102 1TB                        | 1        | 2.78%   |
+| SanDisk sandisk120 120GB SSD                          | 1        | 2.78%   |
+| Samsung SSD 860 EVO 500GB                             | 1        | 2.78%   |
+| Samsung SSD 850 EVO 120GB                             | 1        | 2.78%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 1        | 2.78%   |
+| Samsung HD250HJ 250GB                                 | 1        | 2.78%   |
+| Samsung HD162GJ 160GB                                 | 1        | 2.78%   |
+| Samsung HD160JJ 160GB                                 | 1        | 2.78%   |
+| Samsung HD080HJ 80GB                                  | 1        | 2.78%   |
+| Micron/Crucial P1 NVMe PCIe SSD 500GB                 | 1        | 2.78%   |
+| Micron/Crucial CT2000P5PSSD8 2TB                      | 1        | 2.78%   |
+| Maxtor Z1 SSD 240GB                                   | 1        | 2.78%   |
+| Intel SSDPEKNW010T8 1TB                               | 1        | 2.78%   |
+| Hitachi HTS723232A7A364 320GB                         | 1        | 2.78%   |
+| Crucial CT500MX500SSD1 500GB                          | 1        | 2.78%   |
+| Apacer 32GB SATA Flash Drive SSD                      | 1        | 2.78%   |
 
 HDD Vendor
 ----------
@@ -1382,7 +1382,7 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Vizio E320i-B2 VIZ1002 1360x768 700x400mm 31.7-inch                   | 1        | 7.14%   |
+| Vizio E280i-A1 VIZ1002 1360x768 607x345mm 27.5-inch                   | 1        | 7.14%   |
 | Samsung Electronics SyncMaster SAM0091 1600x1200 432x324mm 21.3-inch  | 1        | 7.14%   |
 | Samsung Electronics SMT22A300 SAM087B 1920x1080 480x270mm 21.7-inch   | 1        | 7.14%   |
 | LG Electronics LCD Monitor LG Ultra HD 4480x3600                      | 1        | 7.14%   |
@@ -1613,11 +1613,12 @@ Ethernet vendors
 
 | Vendor                   | Desktops | Percent |
 |--------------------------|----------|---------|
-| Realtek Semiconductor    | 13       | 59.09%  |
-| Intel                    | 4        | 18.18%  |
-| Nvidia                   | 3        | 13.64%  |
-| Marvell Technology Group | 1        | 4.55%   |
-| Broadcom                 | 1        | 4.55%   |
+| Realtek Semiconductor    | 13       | 56.52%  |
+| Intel                    | 4        | 17.39%  |
+| Nvidia                   | 3        | 13.04%  |
+| Samsung Electronics      | 1        | 4.35%   |
+| Marvell Technology Group | 1        | 4.35%   |
+| Broadcom                 | 1        | 4.35%   |
 
 Ethernet Model
 --------------
@@ -1629,21 +1630,22 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4        | 18.18%  |
-| Realtek RTL8125 2.5GbE Controller                                 | 2        | 9.09%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 9.09%   |
-| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 2        | 9.09%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2        | 9.09%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 4.55%   |
-| Nvidia MCP61 Ethernet                                             | 1        | 4.55%   |
-| Nvidia CK8S Ethernet Controller                                   | 1        | 4.55%   |
-| Nvidia CK804 Ethernet Controller                                  | 1        | 4.55%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 4.55%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 4.55%   |
-| Intel Ethernet Connection (7) I219-V                              | 1        | 4.55%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 4.55%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 1        | 4.55%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1        | 4.55%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4        | 17.39%  |
+| Realtek RTL8125 2.5GbE Controller                                 | 2        | 8.7%    |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 8.7%    |
+| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 2        | 8.7%    |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2        | 8.7%    |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 4.35%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 4.35%   |
+| Nvidia MCP61 Ethernet                                             | 1        | 4.35%   |
+| Nvidia CK8S Ethernet Controller                                   | 1        | 4.35%   |
+| Nvidia CK804 Ethernet Controller                                  | 1        | 4.35%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 4.35%   |
+| Intel Ethernet Controller I225-V                                  | 1        | 4.35%   |
+| Intel Ethernet Connection (7) I219-V                              | 1        | 4.35%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 4.35%   |
+| Intel 82567LM-3 Gigabit Network Connection                        | 1        | 4.35%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1        | 4.35%   |
 
 Net Controller Kind
 -------------------
@@ -1655,9 +1657,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 20       | 68.97%  |
-| WiFi     | 7        | 24.14%  |
-| Modem    | 2        | 6.9%    |
+| Ethernet | 20       | 71.43%  |
+| WiFi     | 7        | 25%     |
+| Modem    | 1        | 3.57%   |
 
 Used Controller
 ---------------

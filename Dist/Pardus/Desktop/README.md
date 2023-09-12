@@ -1268,7 +1268,7 @@ Monitor models
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 5%      |
 | Dell P2717H DEL40F6 1920x1080 598x336mm 27.0-inch                     | 1        | 5%      |
 | Dell E2421HN DELF129 1920x1080 527x296mm 23.8-inch                    | 1        | 5%      |
-| Beko TV BEK4448 1920x1080 1210x680mm 54.6-inch                        | 1        | 5%      |
+| Beko BK WUXGA BEK4448 1920x1080                                       | 1        | 5%      |
 | Ancor Communications ASUS VP228 ACI22C3 1920x1080 476x268mm 21.5-inch | 1        | 5%      |
 | AGO LCD Monitor AGO0001 1920x1080 256x192mm 12.6-inch                 | 1        | 5%      |
 | Acer V226HQL ACR032D 1920x1080 477x268mm 21.5-inch                    | 1        | 5%      |
@@ -1284,10 +1284,10 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 10       | 55.56%  |
+| 1920x1080 (FHD)    | 9        | 50%     |
 | 1680x1050 (WSXGA+) | 3        | 16.67%  |
+| 3840x2160 (4K)     | 2        | 11.11%  |
 | 1600x900 (HD+)     | 2        | 11.11%  |
-| 3840x2160 (4K)     | 1        | 5.56%   |
 | 1366x768 (WXGA)    | 1        | 5.56%   |
 | 1280x1024 (SXGA)   | 1        | 5.56%   |
 
@@ -1657,7 +1657,7 @@ Memory module models
 | Samsung RAM M378A2K43DB1-CTD 16GB DIMM DDR4 2667MT/s  | 1        | 11.11%  |
 | Micron RAM 4ATF1G64HZ-3G2F1 8GB SODIMM DDR4 3200MT/s  | 1        | 11.11%  |
 | Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s  | 1        | 11.11%  |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2400MT/s     | 1        | 11.11%  |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s  | 1        | 11.11%  |
 | Kingston RAM 99U5471-057.A00LF 8GB DIMM DDR3 1333MT/s | 1        | 11.11%  |
 | G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s    | 1        | 11.11%  |
 | A-DATA RAM Module 8GB DIMM DDR4 2667MT/s              | 1        | 11.11%  |

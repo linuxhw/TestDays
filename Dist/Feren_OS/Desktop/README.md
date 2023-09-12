@@ -924,8 +924,8 @@ Hard drive models
 | WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.39%   |
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.39%   |
 | WDC WD Blue SA510 2.5 500GB      | 1        | 1.39%   |
-| Verbatim Vi550 S3 SSD 1TB        | 1        | 1.39%   |
-| Unknown SD/MMC/MS PRO 128GB      | 1        | 1.39%   |
+| Verbatim Vi550 S3 SSD 128GB      | 1        | 1.39%   |
+| Unknown SD/MMC/MS PRO 1GB        | 1        | 1.39%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.39%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.39%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.39%   |
@@ -1013,8 +1013,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 25       | 40     | 46.3%   |
-| 0.51-1.0   | 18       | 31     | 33.33%  |
+| 0.01-0.5   | 25       | 41     | 46.3%   |
+| 0.51-1.0   | 18       | 30     | 33.33%  |
 | 1.01-2.0   | 5        | 6      | 9.26%   |
 | 3.01-4.0   | 3        | 7      | 5.56%   |
 | 2.01-3.0   | 2        | 2      | 3.7%    |
@@ -1601,7 +1601,7 @@ Monitor models
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch      | 1        | 2.44%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                      | 1        | 2.44%   |
 | Samsung Electronics LCD Monitor U28E590                                | 1        | 2.44%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch   | 1        | 2.44%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch   | 1        | 2.44%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 1210x680mm 54.6-inch | 1        | 2.44%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch      | 1        | 2.44%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 1        | 2.44%   |
@@ -1622,7 +1622,7 @@ Monitor models
 | Hewlett-Packard 2509 HWP283A 1920x1080 553x311mm 25.0-inch             | 1        | 2.44%   |
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                   | 1        | 2.44%   |
 | FNI LCD Monitor LCD TV 1920x1080                                       | 1        | 2.44%   |
-| Dell UP3017 DEL40FA 2560x1600 640x400mm 29.7-inch                      | 1        | 2.44%   |
+| Dell UP3017 DEL40FA 2560x1600 641x401mm 29.8-inch                      | 1        | 2.44%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.44%   |
 | Dell SP1908FP DEL4030 1280x1024 376x301mm 19.0-inch                    | 1        | 2.44%   |
 | Dell S2715H DEL40BB 1920x1080 598x336mm 27.0-inch                      | 1        | 2.44%   |
@@ -1631,7 +1631,7 @@ Monitor models
 | AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                         | 1        | 2.44%   |
 | AOC LCD Monitor 1943W 1366x768                                         | 1        | 2.44%   |
 | Ancor Communications MX279 ACI27C3 1920x1080 600x340mm 27.2-inch       | 1        | 2.44%   |
-| Acer VG270U ACR06C9 2560x1440 600x340mm 27.2-inch                      | 1        | 2.44%   |
+| Acer VG270U ACR06C9 2560x1440 597x336mm 27.0-inch                      | 1        | 2.44%   |
 | Acer V273HL ACR02D0 1920x1080 598x336mm 27.0-inch                      | 1        | 2.44%   |
 | Acer S242HL ACR0216 1920x1080 531x299mm 24.0-inch                      | 1        | 2.44%   |
 
@@ -2095,7 +2095,7 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.43%   |
 | Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.43%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.43%   |
-| C-Media Electronics TONOR TC30 Audio Device                                                     | 1        | 1.43%   |
+| C-Media Electronics USB PnP Audio Device                                                        | 1        | 1.43%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.43%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.43%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.43%   |
@@ -2303,18 +2303,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Z-Star Integrated Camera                 | 1        | 10%     |
-| Novatek DEMO1                            | 1        | 10%     |
-| Microsoft LifeCam VX-5000                | 1        | 10%     |
-| Microsoft LifeCam VX-500 [1357]          | 1        | 10%     |
-| Logitech Webcam C270                     | 1        | 10%     |
-| Logitech QuickCam Communicate MP/S5500   | 1        | 10%     |
-| Huawei HiCamera                          | 1        | 10%     |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
-| Cubeternet GL-UPC822 UVC WebCam          | 1        | 10%     |
-| ARC International Camera                 | 1        | 10%     |
+| Model                                  | Desktops | Percent |
+|----------------------------------------|----------|---------|
+| Z-Star Integrated Camera               | 1        | 10%     |
+| Novatek DEMO1                          | 1        | 10%     |
+| Microsoft LifeCam VX-5000              | 1        | 10%     |
+| Microsoft LifeCam VX-500 [1357]        | 1        | 10%     |
+| Logitech Webcam C270                   | 1        | 10%     |
+| Logitech QuickCam Communicate MP/S5500 | 1        | 10%     |
+| Huawei HiCamera                        | 1        | 10%     |
+| Generalplus 808 Camera                 | 1        | 10%     |
+| Cubeternet GL-UPC822 UVC WebCam        | 1        | 10%     |
+| ARC International Camera               | 1        | 10%     |
 
 Security
 --------

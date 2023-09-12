@@ -781,7 +781,7 @@ Hard drive models
 | Samsung SSD 850 EVO 2TB          | 1        | 2.86%   |
 | Samsung HD502IJ 500GB            | 1        | 2.86%   |
 | Phison NVMe SSD Drive 1TB        | 1        | 2.86%   |
-| Phison E12 NVMe Controller 2TB   | 1        | 2.86%   |
+| Phison E12 NVMe Controller 256GB | 1        | 2.86%   |
 | Kingston SUV400S37240G 240GB SSD | 1        | 2.86%   |
 | Intel SSDSA2CW080G3 80GB         | 1        | 2.86%   |
 | HP SSD S700 120GB                | 1        | 2.86%   |
@@ -1351,7 +1351,7 @@ Monitor models
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch   | 1        | 5%      |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch   | 1        | 5%      |
 | Samsung Electronics LCD Monitor S24C650                             | 1        | 5%      |
-| SAC DM-MONB2205 SAC952D 1920x1080 450x270mm 20.7-inch               | 1        | 5%      |
+| SAC LED MONITOR SAC952D 1920x1080 480x260mm 21.5-inch               | 1        | 5%      |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch         | 1        | 5%      |
 | Hewlett-Packard Z24i HWP309E 1920x1200 518x324mm 24.1-inch          | 1        | 5%      |
 | Hewlett-Packard E273q HPN3474 2560x1440 597x336mm 27.0-inch         | 1        | 5%      |
@@ -1361,7 +1361,7 @@ Monitor models
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                   | 1        | 5%      |
 | Dell LCD Monitor U2415 3840x1200                                    | 1        | 5%      |
 | Dell LCD Monitor DEL0001 1280x1024                                  | 1        | 5%      |
-| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                   | 1        | 5%      |
+| BenQ GW2480 BNQ78E7 1920x1080 530x300mm 24.0-inch                   | 1        | 5%      |
 | ASUSTek Computer PA248QV AUS2400 1920x1200 518x324mm 24.1-inch      | 1        | 5%      |
 
 Monitor Resolution

@@ -623,12 +623,12 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2008 | 12        | 20.34%  |
+| 2014 | 6         | 10.17%  |
 | 2020 | 5         | 8.47%   |
-| 2016 | 5         | 8.47%   |
-| 2014 | 5         | 8.47%   |
 | 2019 | 4         | 6.78%   |
 | 2018 | 4         | 6.78%   |
 | 2017 | 4         | 6.78%   |
+| 2016 | 4         | 6.78%   |
 | 2015 | 4         | 6.78%   |
 | 2009 | 4         | 6.78%   |
 | 2012 | 3         | 5.08%   |
@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 1TB                     | 1         | 1.49%   |
+| TO Exter nal USB 3.0 2TB                     | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1038,7 +1038,7 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 40        | 48     | 97.56%  |
-| 0.51-1.0   | 1         | 1      | 2.44%   |
+| 1.01-2.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1583,10 +1583,10 @@ Monitor models
 | Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                      | 1         | 1.67%   |
 | Sony TV SNY9C01 1360x768                                              | 1         | 1.67%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch               | 1         | 1.67%   |
-| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
@@ -1601,8 +1601,8 @@ Monitor models
 | LG Display LCD Monitor LGD01F7 1366x768 293x165mm 13.2-inch           | 1         | 1.67%   |
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch           | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch               | 1         | 1.67%   |
-| Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch              | 1         | 1.67%   |
-| Lenovo LCD Monitor LEN4031 1280x800 303x190mm 14.1-inch               | 1         | 1.67%   |
+| Lenovo LCD Monitor LEN4053 1680x1050 330x210mm 15.4-inch              | 1         | 1.67%   |
+| Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch               | 1         | 1.67%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.67%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.67%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.67%   |
@@ -2040,12 +2040,11 @@ Controller models
 | Intel Bluetooth wireless interface                  | 7         | 21.21%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 12.12%  |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 4         | 12.12%  |
+| Realtek Bluetooth Radio                             | 2         | 6.06%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.06%   |
 | IMC Networks Bluetooth Device                       | 2         | 6.06%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 6.06%   |
 | Toshiba Askey for                                   | 1         | 3.03%   |
-| Realtek RTL8723B Bluetooth                          | 1         | 3.03%   |
-| Realtek Bluetooth Radio                             | 1         | 3.03%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.03%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.03%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.03%   |
@@ -2290,7 +2289,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 17.14%  |
+| Alcor Micro USB 2.0 PC cam                              | 6         | 17.14%  |
 | Lenovo UVC Camera                                       | 3         | 8.57%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.71%   |
 | Lite-On Integrated Camera                               | 2         | 5.71%   |
@@ -2300,9 +2299,9 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 2.86%   |
 | Sunplus HD WebCam                                       | 1         | 2.86%   |
 | Realtek WebCamera                                       | 1         | 2.86%   |
+| Realtek USB2.0-Camera                                   | 1         | 2.86%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.86%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.86%   |
-| Realtek 2SF022                                          | 1         | 2.86%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.86%   |
 | Microdia HP Webcam                                      | 1         | 2.86%   |
 | Importek HP Webcam                                      | 1         | 2.86%   |
@@ -2387,9 +2386,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 34        | 56.67%  |
-| 1     | 22        | 36.67%  |
-| 2     | 4         | 6.67%   |
+| 0     | 35        | 58.33%  |
+| 1     | 20        | 33.33%  |
+| 2     | 5         | 8.33%   |
 
 Unsupported Device Types
 ------------------------

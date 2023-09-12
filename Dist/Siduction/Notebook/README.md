@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 42
+Total: 43
 
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
+| HP      | 250 G7 Notebook PC          | [f2b0e180d4](https://linux-hardware.org/?probe=f2b0e180d4) | Aug 27, 2023 |
 | HP      | ZBook 15 G6                 | [eb23ebb0b8](https://linux-hardware.org/?probe=eb23ebb0b8) | Jun 10, 2023 |
 | Apple   | MacBookPro9,2               | [baf92c8b36](https://linux-hardware.org/?probe=baf92c8b36) | Jun 08, 2023 |
 | HP      | 250 G7 Notebook PC          | [2f0f83bda2](https://linux-hardware.org/?probe=2f0f83bda2) | May 25, 2023 |
@@ -215,10 +216,11 @@ Installed operating systems
 
 | Name               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Siduction 12       | 9         | 39.13%  |
-| Siduction 11       | 7         | 30.43%  |
-| Siduction Unstable | 4         | 17.39%  |
-| Siduction 10       | 3         | 13.04%  |
+| Siduction 12       | 9         | 37.5%   |
+| Siduction 11       | 7         | 29.17%  |
+| Siduction Unstable | 4         | 16.67%  |
+| Siduction 10       | 3         | 12.5%   |
+| Siduction          | 1         | 4.17%   |
 
 OS Family
 ---------
@@ -242,37 +244,38 @@ Version of the Linux kernel
 
 | Version                        | Notebooks | Percent |
 |--------------------------------|-----------|---------|
-| 6.2.8-1-siduction-amd64        | 2         | 6.06%   |
-| 6.2.6-1-siduction-amd64        | 2         | 6.06%   |
-| 6.3.7-1-siduction-amd64        | 1         | 3.03%   |
-| 6.3.3-1-siduction-amd64        | 1         | 3.03%   |
-| 6.2.15-1-siduction-amd64       | 1         | 3.03%   |
-| 6.2.13-1-siduction-amd64       | 1         | 3.03%   |
-| 6.2.11-1-siduction-amd64       | 1         | 3.03%   |
-| 6.2.0-rc6-siduction-amd64      | 1         | 3.03%   |
-| 6.1.1-4-siduction-amd64        | 1         | 3.03%   |
-| 5.9.8-towo.3-siduction-amd64   | 1         | 3.03%   |
-| 5.9.13-towo.1-siduction-amd64  | 1         | 3.03%   |
-| 5.8.5-towo.1-siduction-amd64   | 1         | 3.03%   |
-| 5.7.11-towo.2-siduction-amd64  | 1         | 3.03%   |
-| 5.4.5-towo.2-siduction-amd64   | 1         | 3.03%   |
-| 5.4.18-towo.1-siduction-amd64  | 1         | 3.03%   |
-| 5.3.12-towo.2-siduction-amd64  | 1         | 3.03%   |
-| 5.3.1-towo.2-siduction-amd64   | 1         | 3.03%   |
-| 5.16.17-1-siduction-amd64      | 1         | 3.03%   |
-| 5.15.15-1-siduction-amd64      | 1         | 3.03%   |
-| 5.13.8-1-siduction-amd64       | 1         | 3.03%   |
-| 5.13.6-1-siduction-amd64       | 1         | 3.03%   |
-| 5.13.4-3-siduction-amd64       | 1         | 3.03%   |
-| 5.13.1-1-siduction-amd64       | 1         | 3.03%   |
-| 5.12.12-1-siduction-amd64      | 1         | 3.03%   |
-| 5.11.18-1-siduction-amd64      | 1         | 3.03%   |
-| 5.11.11-1-siduction-amd64      | 1         | 3.03%   |
-| 5.10.4-towo.1-siduction-amd64  | 1         | 3.03%   |
-| 5.10.19-towo.1-siduction-amd64 | 1         | 3.03%   |
-| 5.10.17-towo.1-siduction-amd64 | 1         | 3.03%   |
-| 5.10.12-towo.1-siduction-amd64 | 1         | 3.03%   |
-| 4.20.11-towo.2-siduction-amd64 | 1         | 3.03%   |
+| 6.2.8-1-siduction-amd64        | 2         | 5.88%   |
+| 6.2.6-1-siduction-amd64        | 2         | 5.88%   |
+| 6.4.12-1-siduction-amd64       | 1         | 2.94%   |
+| 6.3.7-1-siduction-amd64        | 1         | 2.94%   |
+| 6.3.3-1-siduction-amd64        | 1         | 2.94%   |
+| 6.2.15-1-siduction-amd64       | 1         | 2.94%   |
+| 6.2.13-1-siduction-amd64       | 1         | 2.94%   |
+| 6.2.11-1-siduction-amd64       | 1         | 2.94%   |
+| 6.2.0-rc6-siduction-amd64      | 1         | 2.94%   |
+| 6.1.1-4-siduction-amd64        | 1         | 2.94%   |
+| 5.9.8-towo.3-siduction-amd64   | 1         | 2.94%   |
+| 5.9.13-towo.1-siduction-amd64  | 1         | 2.94%   |
+| 5.8.5-towo.1-siduction-amd64   | 1         | 2.94%   |
+| 5.7.11-towo.2-siduction-amd64  | 1         | 2.94%   |
+| 5.4.5-towo.2-siduction-amd64   | 1         | 2.94%   |
+| 5.4.18-towo.1-siduction-amd64  | 1         | 2.94%   |
+| 5.3.12-towo.2-siduction-amd64  | 1         | 2.94%   |
+| 5.3.1-towo.2-siduction-amd64   | 1         | 2.94%   |
+| 5.16.17-1-siduction-amd64      | 1         | 2.94%   |
+| 5.15.15-1-siduction-amd64      | 1         | 2.94%   |
+| 5.13.8-1-siduction-amd64       | 1         | 2.94%   |
+| 5.13.6-1-siduction-amd64       | 1         | 2.94%   |
+| 5.13.4-3-siduction-amd64       | 1         | 2.94%   |
+| 5.13.1-1-siduction-amd64       | 1         | 2.94%   |
+| 5.12.12-1-siduction-amd64      | 1         | 2.94%   |
+| 5.11.18-1-siduction-amd64      | 1         | 2.94%   |
+| 5.11.11-1-siduction-amd64      | 1         | 2.94%   |
+| 5.10.4-towo.1-siduction-amd64  | 1         | 2.94%   |
+| 5.10.19-towo.1-siduction-amd64 | 1         | 2.94%   |
+| 5.10.17-towo.1-siduction-amd64 | 1         | 2.94%   |
+| 5.10.12-towo.1-siduction-amd64 | 1         | 2.94%   |
+| 4.20.11-towo.2-siduction-amd64 | 1         | 2.94%   |
 
 Kernel Family
 -------------
@@ -284,37 +287,38 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 6.2.8   | 2         | 6.06%   |
-| 6.2.6   | 2         | 6.06%   |
-| 6.3.7   | 1         | 3.03%   |
-| 6.3.3   | 1         | 3.03%   |
-| 6.2.15  | 1         | 3.03%   |
-| 6.2.13  | 1         | 3.03%   |
-| 6.2.11  | 1         | 3.03%   |
-| 6.2.0   | 1         | 3.03%   |
-| 6.1.1   | 1         | 3.03%   |
-| 5.9.8   | 1         | 3.03%   |
-| 5.9.13  | 1         | 3.03%   |
-| 5.8.5   | 1         | 3.03%   |
-| 5.7.11  | 1         | 3.03%   |
-| 5.4.5   | 1         | 3.03%   |
-| 5.4.18  | 1         | 3.03%   |
-| 5.3.12  | 1         | 3.03%   |
-| 5.3.1   | 1         | 3.03%   |
-| 5.16.17 | 1         | 3.03%   |
-| 5.15.15 | 1         | 3.03%   |
-| 5.13.8  | 1         | 3.03%   |
-| 5.13.6  | 1         | 3.03%   |
-| 5.13.4  | 1         | 3.03%   |
-| 5.13.1  | 1         | 3.03%   |
-| 5.12.12 | 1         | 3.03%   |
-| 5.11.18 | 1         | 3.03%   |
-| 5.11.11 | 1         | 3.03%   |
-| 5.10.4  | 1         | 3.03%   |
-| 5.10.19 | 1         | 3.03%   |
-| 5.10.17 | 1         | 3.03%   |
-| 5.10.12 | 1         | 3.03%   |
-| 4.20.11 | 1         | 3.03%   |
+| 6.2.8   | 2         | 5.88%   |
+| 6.2.6   | 2         | 5.88%   |
+| 6.4.12  | 1         | 2.94%   |
+| 6.3.7   | 1         | 2.94%   |
+| 6.3.3   | 1         | 2.94%   |
+| 6.2.15  | 1         | 2.94%   |
+| 6.2.13  | 1         | 2.94%   |
+| 6.2.11  | 1         | 2.94%   |
+| 6.2.0   | 1         | 2.94%   |
+| 6.1.1   | 1         | 2.94%   |
+| 5.9.8   | 1         | 2.94%   |
+| 5.9.13  | 1         | 2.94%   |
+| 5.8.5   | 1         | 2.94%   |
+| 5.7.11  | 1         | 2.94%   |
+| 5.4.5   | 1         | 2.94%   |
+| 5.4.18  | 1         | 2.94%   |
+| 5.3.12  | 1         | 2.94%   |
+| 5.3.1   | 1         | 2.94%   |
+| 5.16.17 | 1         | 2.94%   |
+| 5.15.15 | 1         | 2.94%   |
+| 5.13.8  | 1         | 2.94%   |
+| 5.13.6  | 1         | 2.94%   |
+| 5.13.4  | 1         | 2.94%   |
+| 5.13.1  | 1         | 2.94%   |
+| 5.12.12 | 1         | 2.94%   |
+| 5.11.18 | 1         | 2.94%   |
+| 5.11.11 | 1         | 2.94%   |
+| 5.10.4  | 1         | 2.94%   |
+| 5.10.19 | 1         | 2.94%   |
+| 5.10.17 | 1         | 2.94%   |
+| 5.10.12 | 1         | 2.94%   |
+| 4.20.11 | 1         | 2.94%   |
 
 Kernel Major Ver.
 -----------------
@@ -326,21 +330,22 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 6.2     | 7         | 25%     |
-| 5.13    | 4         | 14.29%  |
-| 6.3     | 2         | 7.14%   |
-| 5.4     | 2         | 7.14%   |
-| 5.3     | 2         | 7.14%   |
-| 5.10    | 2         | 7.14%   |
-| 6.1     | 1         | 3.57%   |
-| 5.9     | 1         | 3.57%   |
-| 5.8     | 1         | 3.57%   |
-| 5.7     | 1         | 3.57%   |
-| 5.16    | 1         | 3.57%   |
-| 5.15    | 1         | 3.57%   |
-| 5.12    | 1         | 3.57%   |
-| 5.11    | 1         | 3.57%   |
-| 4.20    | 1         | 3.57%   |
+| 6.2     | 7         | 24.14%  |
+| 5.13    | 4         | 13.79%  |
+| 6.3     | 2         | 6.9%    |
+| 5.4     | 2         | 6.9%    |
+| 5.3     | 2         | 6.9%    |
+| 5.10    | 2         | 6.9%    |
+| 6.4     | 1         | 3.45%   |
+| 6.1     | 1         | 3.45%   |
+| 5.9     | 1         | 3.45%   |
+| 5.8     | 1         | 3.45%   |
+| 5.7     | 1         | 3.45%   |
+| 5.16    | 1         | 3.45%   |
+| 5.15    | 1         | 3.45%   |
+| 5.12    | 1         | 3.45%   |
+| 5.11    | 1         | 3.45%   |
+| 4.20    | 1         | 3.45%   |
 
 Arch
 ----
@@ -364,13 +369,13 @@ Desktop Environment
 
 | Name            | Notebooks | Percent |
 |-----------------|-----------|---------|
-| KDE5            | 10        | 45.45%  |
-| XFCE            | 4         | 18.18%  |
-| Unknown         | 3         | 13.64%  |
-| X-Cinnamon      | 2         | 9.09%   |
-| LXQt            | 1         | 4.55%   |
-| GNOME Flashback | 1         | 4.55%   |
-| Cinnamon        | 1         | 4.55%   |
+| KDE5            | 10        | 43.48%  |
+| XFCE            | 4         | 17.39%  |
+| Unknown         | 4         | 17.39%  |
+| X-Cinnamon      | 2         | 8.7%    |
+| LXQt            | 1         | 4.35%   |
+| GNOME Flashback | 1         | 4.35%   |
+| Cinnamon        | 1         | 4.35%   |
 
 Display Server
 --------------
@@ -396,10 +401,10 @@ SDDM, LightDM, etc.
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| SDDM    | 13        | 61.9%   |
-| Unknown | 6         | 28.57%  |
-| TDM     | 1         | 4.76%   |
-| GDM     | 1         | 4.76%   |
+| SDDM    | 13        | 59.09%  |
+| Unknown | 7         | 31.82%  |
+| TDM     | 1         | 4.55%   |
+| GDM     | 1         | 4.55%   |
 
 OS Lang
 -------
@@ -757,33 +762,34 @@ Geographic location (city)
 
 | City                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| Munich               | 2         | 7.14%   |
-| Zurich               | 1         | 3.57%   |
-| Vienna               | 1         | 3.57%   |
-| Turin                | 1         | 3.57%   |
-| Toronto              | 1         | 3.57%   |
-| Suisun               | 1         | 3.57%   |
-| Stuttgart            | 1         | 3.57%   |
-| Stockholm            | 1         | 3.57%   |
-| Sidney               | 1         | 3.57%   |
-| Schrobenhausen       | 1         | 3.57%   |
-| San Francisco        | 1         | 3.57%   |
-| Reading              | 1         | 3.57%   |
-| Paris                | 1         | 3.57%   |
-| Mittenwald           | 1         | 3.57%   |
-| Milan                | 1         | 3.57%   |
-| Mannheim             | 1         | 3.57%   |
-| Malmo                | 1         | 3.57%   |
-| Langewiesen          | 1         | 3.57%   |
-| Jerusalem            | 1         | 3.57%   |
-| Iserlohn             | 1         | 3.57%   |
-| Hamburg              | 1         | 3.57%   |
-| Friedrichsthal       | 1         | 3.57%   |
-| Freiburg im Breisgau | 1         | 3.57%   |
-| Edmonton             | 1         | 3.57%   |
-| Düsseldorf          | 1         | 3.57%   |
-| Blackwood            | 1         | 3.57%   |
-| Berlin               | 1         | 3.57%   |
+| Munich               | 2         | 6.9%    |
+| Zurich               | 1         | 3.45%   |
+| Vienna               | 1         | 3.45%   |
+| Turin                | 1         | 3.45%   |
+| Toronto              | 1         | 3.45%   |
+| Suisun               | 1         | 3.45%   |
+| Stuttgart            | 1         | 3.45%   |
+| Stockholm            | 1         | 3.45%   |
+| Sidney               | 1         | 3.45%   |
+| Schrobenhausen       | 1         | 3.45%   |
+| San Francisco        | 1         | 3.45%   |
+| Reading              | 1         | 3.45%   |
+| Paris                | 1         | 3.45%   |
+| Mittenwald           | 1         | 3.45%   |
+| Milan                | 1         | 3.45%   |
+| Mannheim             | 1         | 3.45%   |
+| Malmo                | 1         | 3.45%   |
+| Langewiesen          | 1         | 3.45%   |
+| Jerusalem            | 1         | 3.45%   |
+| Iserlohn             | 1         | 3.45%   |
+| Hamburg              | 1         | 3.45%   |
+| Guglingen            | 1         | 3.45%   |
+| Friedrichsthal       | 1         | 3.45%   |
+| Freiburg im Breisgau | 1         | 3.45%   |
+| Edmonton             | 1         | 3.45%   |
+| Düsseldorf          | 1         | 3.45%   |
+| Blackwood            | 1         | 3.45%   |
+| Berlin               | 1         | 3.45%   |
 
 Drives
 ------
@@ -803,7 +809,7 @@ Hard drive vendors
 | WDC                 | 4         | 5      | 13.79%  |
 | SK hynix            | 2         | 2      | 6.9%    |
 | Seagate             | 2         | 2      | 6.9%    |
-| SanDisk             | 2         | 2      | 6.9%    |
+| Sandisk             | 2         | 3      | 6.9%    |
 | Intel               | 2         | 4      | 6.9%    |
 | SSSTC               | 1         | 1      | 3.45%   |
 | Kingston            | 1         | 1      | 3.45%   |
@@ -889,7 +895,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 11        | 15     | 42.31%  |
+| NVMe | 11        | 16     | 42.31%  |
 | HDD  | 8         | 17     | 30.77%  |
 | SSD  | 7         | 11     | 26.92%  |
 
@@ -904,7 +910,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 14        | 28     | 56%     |
-| NVMe | 11        | 15     | 44%     |
+| NVMe | 11        | 16     | 44%     |
 
 Drive Size
 ----------
@@ -948,14 +954,14 @@ Amount of used disk space
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1-20      | 11        | 42.31%  |
-| Unknown   | 4         | 15.38%  |
-| 101-250   | 3         | 11.54%  |
-| 251-500   | 2         | 7.69%   |
-| 501-1000  | 2         | 7.69%   |
-| 51-100    | 2         | 7.69%   |
-| 21-50     | 1         | 3.85%   |
-| 1001-2000 | 1         | 3.85%   |
+| 1-20      | 11        | 40.74%  |
+| Unknown   | 4         | 14.81%  |
+| 101-250   | 3         | 11.11%  |
+| 251-500   | 2         | 7.41%   |
+| 21-50     | 2         | 7.41%   |
+| 501-1000  | 2         | 7.41%   |
+| 51-100    | 2         | 7.41%   |
+| 1001-2000 | 1         | 3.7%    |
 
 Malfunc. Drives
 ---------------
@@ -1025,7 +1031,7 @@ Number of failed and malfunc. drives
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
 | Works    | 17        | 34     | 70.83%  |
-| Detected | 6         | 8      | 25%     |
+| Detected | 6         | 9      | 25%     |
 | Malfunc  | 1         | 1      | 4.17%   |
 
 Storage controller
@@ -1398,7 +1404,7 @@ Monitor models
 | LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch      | 1         | 4%      |
 | LG Display LCD Monitor LGD03DE 1600x900 382x215mm 17.3-inch      | 1         | 4%      |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch         | 1         | 4%      |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch          | 1         | 4%      |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch          | 1         | 4%      |
 | Hewlett-Packard E243i HPN3463 1920x1200 518x324mm 24.1-inch      | 1         | 4%      |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch          | 1         | 4%      |
 | Dell U2415 DELA0BC 1920x1200 518x324mm 24.1-inch                 | 1         | 4%      |
@@ -1562,33 +1568,34 @@ Controller models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11        | 27.5%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 2         | 5%      |
-| Intel Wi-Fi 6 AX200                                               | 2         | 5%      |
-| Intel Ice Lake-LP PCH CNVi WiFi                                   | 2         | 5%      |
-| Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 2.5%    |
-| Realtek RTL8723DE Wireless Network Adapter                        | 1         | 2.5%    |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 2.5%    |
-| Qualcomm QCNFA765 Wireless Network Adapter                        | 1         | 2.5%    |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 2.5%    |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 2.5%    |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 2.5%    |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 2.5%    |
-| NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]       | 1         | 2.5%    |
-| Intel Wireless-AC 9260                                            | 1         | 2.5%    |
-| Intel Wireless 8265 / 8275                                        | 1         | 2.5%    |
-| Intel Wireless 7260                                               | 1         | 2.5%    |
-| Intel Wireless 3160                                               | 1         | 2.5%    |
-| Intel Wi-Fi 6 AX201                                               | 1         | 2.5%    |
-| Intel Ethernet Connection I217-V                                  | 1         | 2.5%    |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 2.5%    |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 2.5%    |
-| Intel Centrino Wireless-N 1000 [Condor Peak]                      | 1         | 2.5%    |
-| Intel Centrino Advanced-N 6200                                    | 1         | 2.5%    |
-| Intel Cannon Lake PCH CNVi WiFi                                   | 1         | 2.5%    |
-| Intel 82577LM Gigabit Network Connection                          | 1         | 2.5%    |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 2.5%    |
-| Broadcom BCM43228 802.11a/b/g/n                                   | 1         | 2.5%    |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11        | 26.83%  |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 2         | 4.88%   |
+| Intel Wi-Fi 6 AX200                                               | 2         | 4.88%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                   | 2         | 4.88%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 2.44%   |
+| Realtek RTL8723DE Wireless Network Adapter                        | 1         | 2.44%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 2.44%   |
+| Realtek 802.11ac WLAN Adapter                                     | 1         | 2.44%   |
+| Qualcomm QCNFA765 Wireless Network Adapter                        | 1         | 2.44%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 2.44%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 2.44%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 2.44%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 2.44%   |
+| NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]       | 1         | 2.44%   |
+| Intel Wireless-AC 9260                                            | 1         | 2.44%   |
+| Intel Wireless 8265 / 8275                                        | 1         | 2.44%   |
+| Intel Wireless 7260                                               | 1         | 2.44%   |
+| Intel Wireless 3160                                               | 1         | 2.44%   |
+| Intel Wi-Fi 6 AX201                                               | 1         | 2.44%   |
+| Intel Ethernet Connection I217-V                                  | 1         | 2.44%   |
+| Intel Ethernet Connection (7) I219-LM                             | 1         | 2.44%   |
+| Intel Ethernet Connection (4) I219-LM                             | 1         | 2.44%   |
+| Intel Centrino Wireless-N 1000 [Condor Peak]                      | 1         | 2.44%   |
+| Intel Centrino Advanced-N 6200                                    | 1         | 2.44%   |
+| Intel Cannon Lake PCH CNVi WiFi                                   | 1         | 2.44%   |
+| Intel 82577LM Gigabit Network Connection                          | 1         | 2.44%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 2.44%   |
+| Broadcom BCM43228 802.11a/b/g/n                                   | 1         | 2.44%   |
 
 Wireless Vendor
 ---------------
@@ -1617,26 +1624,27 @@ Wireless models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 2         | 8.7%    |
-| Intel Wi-Fi 6 AX200                                            | 2         | 8.7%    |
-| Intel Ice Lake-LP PCH CNVi WiFi                                | 2         | 8.7%    |
-| Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 4.35%   |
-| Realtek RTL8723DE Wireless Network Adapter                     | 1         | 4.35%   |
-| Qualcomm QCNFA765 Wireless Network Adapter                     | 1         | 4.35%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 1         | 4.35%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 1         | 4.35%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 1         | 4.35%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 1         | 4.35%   |
-| NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]    | 1         | 4.35%   |
-| Intel Wireless-AC 9260                                         | 1         | 4.35%   |
-| Intel Wireless 8265 / 8275                                     | 1         | 4.35%   |
-| Intel Wireless 7260                                            | 1         | 4.35%   |
-| Intel Wireless 3160                                            | 1         | 4.35%   |
-| Intel Wi-Fi 6 AX201                                            | 1         | 4.35%   |
-| Intel Centrino Wireless-N 1000 [Condor Peak]                   | 1         | 4.35%   |
-| Intel Centrino Advanced-N 6200                                 | 1         | 4.35%   |
-| Intel Cannon Lake PCH CNVi WiFi                                | 1         | 4.35%   |
-| Broadcom BCM43228 802.11a/b/g/n                                | 1         | 4.35%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 2         | 8.33%   |
+| Intel Wi-Fi 6 AX200                                            | 2         | 8.33%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                | 2         | 8.33%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 4.17%   |
+| Realtek RTL8723DE Wireless Network Adapter                     | 1         | 4.17%   |
+| Realtek 802.11ac WLAN Adapter                                  | 1         | 4.17%   |
+| Qualcomm QCNFA765 Wireless Network Adapter                     | 1         | 4.17%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 1         | 4.17%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 1         | 4.17%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 1         | 4.17%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 1         | 4.17%   |
+| NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]    | 1         | 4.17%   |
+| Intel Wireless-AC 9260                                         | 1         | 4.17%   |
+| Intel Wireless 8265 / 8275                                     | 1         | 4.17%   |
+| Intel Wireless 7260                                            | 1         | 4.17%   |
+| Intel Wireless 3160                                            | 1         | 4.17%   |
+| Intel Wi-Fi 6 AX201                                            | 1         | 4.17%   |
+| Intel Centrino Wireless-N 1000 [Condor Peak]                   | 1         | 4.17%   |
+| Intel Centrino Advanced-N 6200                                 | 1         | 4.17%   |
+| Intel Cannon Lake PCH CNVi WiFi                                | 1         | 4.17%   |
+| Broadcom BCM43228 802.11a/b/g/n                                | 1         | 4.17%   |
 
 Ethernet Vendor
 ---------------
@@ -1850,7 +1858,7 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 9.09%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 4.55%   |
 | SK hynix RAM H9CCNNNCLGALAR-NUD 8GB Row Of Chips LPDDR3 1867MT/s | 1         | 4.55%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1600MT/s                 | 1         | 4.55%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 1         | 4.55%   |
 | Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s         | 1         | 4.55%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 1         | 4.55%   |
 | Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s           | 1         | 4.55%   |
@@ -1866,7 +1874,7 @@ Memory module models
 | Kingston RAM 99U5663-007.A00G 16GB SODIMM DDR4 2667MT/s          | 1         | 4.55%   |
 | Crucial RAM CT8G4SFS824A.M8FE 8GB SODIMM DDR4 2667MT/s           | 1         | 4.55%   |
 | Crucial RAM CT4G3S1067M.C16FKD 4GB SODIMM DDR3 1066MT/s          | 1         | 4.55%   |
-| Crucial RAM CT32G48C40S5.M16A1 32GB SODIMM 4800MT/s              | 1         | 4.55%   |
+| Crucial RAM CT32G48C40S5.M16A1 32GB SODIMM DDR5 4800MT/s         | 1         | 4.55%   |
 | Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s       | 1         | 4.55%   |
 
 Memory Kind
@@ -2013,7 +2021,7 @@ Camera device models
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
 | Chicony HD WebCam                                              | 4         | 21.05%  |
-| Suyin 1.3M HD WebCam                                           | 1         | 5.26%   |
+| Suyin 1.3M Front                                               | 1         | 5.26%   |
 | Silicon Motion USB 2.0 PC Cam                                  | 1         | 5.26%   |
 | Realtek Integrated_Webcam_HD                                   | 1         | 5.26%   |
 | Quanta HP Webcam                                               | 1         | 5.26%   |

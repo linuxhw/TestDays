@@ -1563,7 +1563,7 @@ Monitor models
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 1.92%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 1.92%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 1.92%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 1.92%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 1.92%   |
@@ -1573,7 +1573,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch     | 1         | 1.92%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                   | 1         | 1.92%   |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                   | 1         | 1.92%   |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch             | 1         | 1.92%   |
 | LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch             | 1         | 1.92%   |
 | LG Display LCD Monitor LGD046D 1920x1080 309x174mm 14.0-inch             | 1         | 1.92%   |
@@ -2117,12 +2117,12 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 2         | 8%      |
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM 1334MT/s          | 1         | 4%      |
+| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s     | 1         | 4%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
-| Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
@@ -2249,10 +2249,10 @@ Camera device vendors
 | Realtek Semiconductor         | 3         | 7.5%    |
 | Quanta                        | 3         | 7.5%    |
 | IMC Networks                  | 3         | 7.5%    |
+| Bison Electronics             | 3         | 7.5%    |
 | Silicon Motion                | 2         | 5%      |
-| Bison Electronics             | 2         | 5%      |
-| Acer                          | 2         | 5%      |
 | Importek                      | 1         | 2.5%    |
+| Acer                          | 1         | 2.5%    |
 
 Camera Model
 ------------
@@ -2297,9 +2297,9 @@ Camera device models
 | Chicony HP HD Camera                                                  | 1         | 2.5%    |
 | Chicony HD WebCam                                                     | 1         | 2.5%    |
 | Chicony EasyCamera                                                    | 1         | 2.5%    |
+| Bison Integrated Camera                                               | 1         | 2.5%    |
 | Bison HP TrueVision HD Webcam                                         | 1         | 2.5%    |
 | Bison BisonCam, NB Pro                                                | 1         | 2.5%    |
-| Acer Integrated Camera                                                | 1         | 2.5%    |
 | Acer EasyCamera                                                       | 1         | 2.5%    |
 
 Security
@@ -2374,8 +2374,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 32        | 69.57%  |
-| 1     | 13        | 28.26%  |
-| 2     | 1         | 2.17%   |
+| 1     | 12        | 26.09%  |
+| 2     | 2         | 4.35%   |
 
 Unsupported Device Types
 ------------------------
@@ -2387,8 +2387,8 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 5         | 38.46%  |
-| Graphics card      | 4         | 30.77%  |
-| Chipcard           | 3         | 23.08%  |
-| Net/ethernet       | 1         | 7.69%   |
+| Graphics card      | 5         | 35.71%  |
+| Fingerprint reader | 5         | 35.71%  |
+| Chipcard           | 3         | 21.43%  |
+| Net/ethernet       | 1         | 7.14%   |
 

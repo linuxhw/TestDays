@@ -431,12 +431,11 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2016 | 2        | 15.38%  |
 | 2014 | 2        | 15.38%  |
+| 2012 | 2        | 15.38%  |
 | 2010 | 2        | 15.38%  |
 | 2022 | 1        | 7.69%   |
 | 2020 | 1        | 7.69%   |
-| 2018 | 1        | 7.69%   |
 | 2013 | 1        | 7.69%   |
-| 2012 | 1        | 7.69%   |
 | 2011 | 1        | 7.69%   |
 | 2007 | 1        | 7.69%   |
 
@@ -650,33 +649,33 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| WDC WD5002ABYS-01B1B0 500GB         | 1        | 4%      |
-| WDC WD3200BPVT-80JJ5T0 320GB        | 1        | 4%      |
-| WDC WD2000FYYZ-01UL1B2 2TB          | 1        | 4%      |
-| WDC WD10EZEX-00BN5A0 1TB            | 1        | 4%      |
-| WDC WD10EURX-63UY4Y0 1TB            | 1        | 4%      |
-| WDC WD10EADS-22M2B0 1TB             | 1        | 4%      |
-| WDC WD1002FAEX-00Z3A0 1TB           | 1        | 4%      |
-| Toshiba DT01ACA200 2TB              | 1        | 4%      |
-| Toshiba DT01ACA100 1TB              | 1        | 4%      |
-| Toshiba DT01ABA100V 1TB             | 1        | 4%      |
-| SK hynix BC511 NVMe 256GB           | 1        | 4%      |
-| Seagate ST9500325ASG 500GB          | 1        | 4%      |
-| Seagate ST9250315AS 250GB           | 1        | 4%      |
-| Seagate ST3160215AS 160GB           | 1        | 4%      |
-| Seagate ST31000528AS 1TB            | 1        | 4%      |
-| Seagate ST2000LM003 HN-M201RAD 2TB  | 1        | 4%      |
-| Seagate ST1000DM003-1CH162 1TB      | 1        | 4%      |
-| SanDisk SD6SF1M128G1022I 128GB SSD  | 1        | 4%      |
-| Samsung SSD 860 EVO 250GB           | 1        | 4%      |
-| Samsung HD161HJ 160GB               | 1        | 4%      |
-| Phison Sabrent 1TB                  | 1        | 4%      |
-| Micron MTFDKBA1T0TFH-1BC1AABHA 1TB  | 1        | 4%      |
-| Micron 1100_MTFDDAV256TBN 256GB SSD | 1        | 4%      |
-| Hitachi HTS545016B9A300 160GB       | 1        | 4%      |
-| Corsair Force GS 128GB SSD          | 1        | 4%      |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| WDC WD5002ABYS-01B1B0 500GB           | 1        | 4%      |
+| WDC WD3200BPVT-80JJ5T0 320GB          | 1        | 4%      |
+| WDC WD2000FYYZ-01UL1B2 2TB            | 1        | 4%      |
+| WDC WD10EZEX-00BN5A0 1TB              | 1        | 4%      |
+| WDC WD10EURX-63UY4Y0 1TB              | 1        | 4%      |
+| WDC WD10EADS-22M2B0 1TB               | 1        | 4%      |
+| WDC WD1002FAEX-00Z3A0 1TB             | 1        | 4%      |
+| Toshiba DT01ACA200 2TB                | 1        | 4%      |
+| Toshiba DT01ACA100 1TB                | 1        | 4%      |
+| Toshiba DT01ABA100V 1TB               | 1        | 4%      |
+| SK hynix BC511 NVMe 256GB             | 1        | 4%      |
+| Seagate ST9500325ASG 500GB            | 1        | 4%      |
+| Seagate ST9250315AS 250GB             | 1        | 4%      |
+| Seagate ST3160215AS 160GB             | 1        | 4%      |
+| Seagate ST31000528AS 1TB              | 1        | 4%      |
+| Seagate ST2000LM003 HN-M201RAD 2TB    | 1        | 4%      |
+| Seagate ST1000DM003-1CH162 1TB        | 1        | 4%      |
+| SanDisk SD6SF1M128G1022I 128GB SSD    | 1        | 4%      |
+| Samsung SSD 860 EVO 250GB             | 1        | 4%      |
+| Samsung HD161HJ 160GB                 | 1        | 4%      |
+| Phison Sabrent 256GB                  | 1        | 4%      |
+| Micron MTFDKBA1T0TFH-1BC1AABHA 1024GB | 1        | 4%      |
+| Micron 1100_MTFDDAV256TBN 256GB SSD   | 1        | 4%      |
+| Hitachi HTS545016B9A300 160GB         | 1        | 4%      |
+| Corsair Force GS 128GB SSD            | 1        | 4%      |
 
 HDD Vendor
 ----------
@@ -1210,7 +1209,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM02B7 1280x720                       | 1        | 6.67%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch      | 1        | 6.67%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch            | 1        | 6.67%   |
-| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1        | 6.67%   |
+| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                       | 1        | 6.67%   |
 | Insignia TV BBY0030 3840x2160 708x398mm 32.0-inch                      | 1        | 6.67%   |
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch          | 1        | 6.67%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 6.67%   |
@@ -1454,12 +1453,13 @@ Ethernet vendors
 
 | Vendor                   | Desktops | Percent |
 |--------------------------|----------|---------|
-| Realtek Semiconductor    | 5        | 33.33%  |
-| Intel                    | 5        | 33.33%  |
-| Qualcomm Atheros         | 2        | 13.33%  |
-| Nvidia                   | 1        | 6.67%   |
-| Marvell Technology Group | 1        | 6.67%   |
-| Lenovo                   | 1        | 6.67%   |
+| Realtek Semiconductor    | 5        | 31.25%  |
+| Intel                    | 5        | 31.25%  |
+| Qualcomm Atheros         | 2        | 12.5%   |
+| Samsung Electronics      | 1        | 6.25%   |
+| Nvidia                   | 1        | 6.25%   |
+| Marvell Technology Group | 1        | 6.25%   |
+| Lenovo                   | 1        | 6.25%   |
 
 Ethernet Model
 --------------
@@ -1471,17 +1471,18 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 31.25%  |
-| Intel Ethernet Connection I217-V                                  | 2        | 12.5%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 6.25%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 6.25%   |
-| Nvidia MCP61 Ethernet                                             | 1        | 6.25%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 6.25%   |
-| Lenovo TB-X606F                                                   | 1        | 6.25%   |
-| Intel I211 Gigabit Network Connection                             | 1        | 6.25%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1        | 6.25%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 6.25%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 6.25%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 29.41%  |
+| Intel Ethernet Connection I217-V                                  | 2        | 11.76%  |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 5.88%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 5.88%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 5.88%   |
+| Nvidia MCP61 Ethernet                                             | 1        | 5.88%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 5.88%   |
+| Lenovo TB-X606F                                                   | 1        | 5.88%   |
+| Intel I211 Gigabit Network Connection                             | 1        | 5.88%   |
+| Intel Ethernet Connection (7) I219-LM                             | 1        | 5.88%   |
+| Intel Ethernet Connection (2) I219-V                              | 1        | 5.88%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 5.88%   |
 
 Net Controller Kind
 -------------------
@@ -1493,10 +1494,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 13       | 54.17%  |
-| WiFi     | 9        | 37.5%   |
-| Modem    | 1        | 4.17%   |
-| Unknown  | 1        | 4.17%   |
+| Ethernet | 13       | 56.52%  |
+| WiFi     | 9        | 39.13%  |
+| Unknown  | 1        | 4.35%   |
 
 Used Controller
 ---------------
@@ -1665,7 +1665,7 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1066MT/s                  | 1        | 7.14%   |
 | Unknown RAM Module 2GB DIMM 800MT/s                   | 1        | 7.14%   |
 | Unknown RAM Module 2GB DIMM 1333MT/s                  | 1        | 7.14%   |
-| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3000MT/s    | 1        | 7.14%   |
+| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3200MT/s    | 1        | 7.14%   |
 | SK hynix RAM Module 8GB DIMM DDR4 3200MT/s            | 1        | 7.14%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s  | 1        | 7.14%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s  | 1        | 7.14%   |
@@ -1728,11 +1728,10 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 3200  | 2        | 15.38%  |
+| 3200  | 3        | 23.08%  |
 | 1800  | 2        | 15.38%  |
 | 1600  | 2        | 15.38%  |
 | 3100  | 1        | 7.69%   |
-| 3000  | 1        | 7.69%   |
 | 2667  | 1        | 7.69%   |
 | 1867  | 1        | 7.69%   |
 | 1333  | 1        | 7.69%   |

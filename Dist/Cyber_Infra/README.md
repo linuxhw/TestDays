@@ -694,7 +694,7 @@ Hard drive models
 | Model                                                        | Computers | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | Seagate ST4000NM000A-2HZ100 4TB                              | 11        | 9.73%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB           | 11        | 9.73%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB        | 11        | 9.73%   |
 | Samsung MZ7L3480HBLT-00A07 480GB SSD                         | 10        | 8.85%   |
 | Intel SSDSC2KG240G8 240GB                                    | 10        | 8.85%   |
 | Intel SSDSC2KB960G8 960GB                                    | 10        | 8.85%   |
@@ -702,7 +702,7 @@ Hard drive models
 | Intel NVMe Datacenter SSD [3DNAND, Beta Rock Controller] 2TB | 5         | 4.42%   |
 | Samsung MZ7L31T9HBLT-00A07 2TB SSD                           | 4         | 3.54%   |
 | Micron 7300_MTFDHBE3T8TDF 4TB                                | 4         | 3.54%   |
-| Intel PCIe Data Center SSD 400GB                             | 4         | 3.54%   |
+| Intel PCIe Data Center SSD 1TB                               | 4         | 3.54%   |
 | Toshiba MG04ACA400E 4TB                                      | 3         | 2.65%   |
 | Toshiba MG03ACA100 1TB                                       | 2         | 1.77%   |
 | Toshiba HDWD130 3TB                                          | 2         | 1.77%   |
@@ -713,7 +713,7 @@ Hard drive models
 | WDC WD4002FYYZ-01B7CB1 4TB                                   | 1         | 0.88%   |
 | WDC WD1003FBYZ-010FB0 1TB                                    | 1         | 0.88%   |
 | VSTORAGE VSTOR-DISK 5.4TB                                    | 1         | 0.88%   |
-| Toshiba XG6 NVMe SSD Controller 512GB                        | 1         | 0.88%   |
+| Toshiba XG6 NVMe SSD Controller 1024GB                       | 1         | 0.88%   |
 | Toshiba MG03SCA100 1TB                                       | 1         | 0.88%   |
 | SCST_BIO LD4 4TB                                             | 1         | 0.88%   |
 | SCST_BIO LD33 1TB                                            | 1         | 0.88%   |

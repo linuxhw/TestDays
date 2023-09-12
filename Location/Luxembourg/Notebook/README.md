@@ -1074,7 +1074,7 @@ Hard drive models
 
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
-| Seagate Expansion 1TB                             | 3         | 2.73%   |
+| Seagate Expansion 2TB                             | 3         | 2.73%   |
 | WDC WD10JPVX-22JC3T0 1TB                          | 2         | 1.82%   |
 | Toshiba MQ01ABF050 500GB                          | 2         | 1.82%   |
 | SanDisk SD8SN8U128G1122 128GB SSD                 | 2         | 1.82%   |
@@ -1200,9 +1200,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 35        | 48     | 57.38%  |
-| 0.51-1.0   | 23        | 29     | 37.7%   |
-| 1.01-2.0   | 3         | 3      | 4.92%   |
+| 0.01-0.5   | 35        | 48     | 55.56%  |
+| 0.51-1.0   | 22        | 26     | 34.92%  |
+| 1.01-2.0   | 6         | 6      | 9.52%   |
 
 Space Total
 -----------
@@ -1803,7 +1803,7 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 2         | 2.04%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch               | 2         | 2.04%   |
 | Sharp LCD Monitor SHP13F8 3200x1800 346x194mm 15.6-inch               | 2         | 2.04%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch      | 2         | 2.04%   |
 | Chimei Innolux LCD Monitor CMN1604 1920x1080 355x199mm 16.0-inch      | 2         | 2.04%   |
@@ -1821,9 +1821,9 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 1.02%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 1.02%   |
 | Samsung Electronics LCD Monitor SDC4171 2880x1800 302x189mm 14.0-inch | 1         | 1.02%   |
-| Samsung Electronics LCD Monitor SDC4141 3840x2160 344x194mm 15.5-inch | 1         | 1.02%   |
+| Samsung Electronics LCD Monitor SDC4141 1366x768 344x194mm 15.5-inch  | 1         | 1.02%   |
 | Samsung Electronics LCD Monitor SAM0B60 1920x1080 887x500mm 40.1-inch | 1         | 1.02%   |
-| Samsung Electronics C27R50x SAM0F9D 1920x1080 600x340mm 27.2-inch     | 1         | 1.02%   |
+| Samsung Electronics C27R50x SAM0F9D 1920x1080 598x336mm 27.0-inch     | 1         | 1.02%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 1.02%   |
 | Philips PHL 346B1C PHL095C 3440x1440 797x334mm 34.0-inch              | 1         | 1.02%   |
 | PANDA LCD Monitor NCP002D 1920x1080 344x194mm 15.5-inch               | 1         | 1.02%   |
@@ -2306,7 +2306,7 @@ Controller models
 | Intel AX200 Bluetooth                                                               | 9         | 12.86%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 8         | 11.43%  |
 | Intel AX201 Bluetooth                                                               | 6         | 8.57%   |
-| Intel Bluetooth Device                                                              | 4         | 5.71%   |
+| Intel Bluetooth Device                                                              | 5         | 7.14%   |
 | Realtek 802.11ac WLAN Adapter                                                       | 2         | 2.86%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 2         | 2.86%   |
 | Lite-On Bluetooth Device                                                            | 2         | 2.86%   |
@@ -2317,7 +2317,6 @@ Controller models
 | Realtek Bluetooth Radio                                                             | 1         | 1.43%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 1.43%   |
 | Micro Star International Motorola Bluetooth 2.1+EDR Device                          | 1         | 1.43%   |
-| Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 1.43%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 1.43%   |
 | Intel AX210 Bluetooth                                                               | 1         | 1.43%   |
 | IMC Networks Wireless_Device                                                        | 1         | 1.43%   |
@@ -2437,7 +2436,7 @@ Memory module models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s      | 3         | 5%      |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 3         | 5%      |
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                   | 2         | 3.33%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 3.33%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s          | 2         | 3.33%   |
@@ -2455,17 +2454,17 @@ Memory module models
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 1.67%   |
 | SK hynix RAM HMCG88MEBSA092N 32GB SODIMM DDR5 4800MT/s         | 1         | 1.67%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s         | 1         | 1.67%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2400MT/s      | 1         | 1.67%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s         | 1         | 1.67%   |
 | SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s        | 1         | 1.67%   |
 | SK hynix RAM HMA82GS6DJR8N-VK 16GB SODIMM DDR4 2667MT/s        | 1         | 1.67%   |
-| SK hynix RAM HMA81GS6MFR8N-UH 8GB SODIMM DDR4 2400MT/s         | 1         | 1.67%   |
+| SK hynix RAM HMA81GS6MFR8N-UH 8192MB SODIMM DDR4 2400MT/s      | 1         | 1.67%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s         | 1         | 1.67%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                    | 1         | 1.67%   |
 | Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                    | 1         | 1.67%   |
 | Samsung RAM Module 4GB SODIMM DDR3 1067MT/s                    | 1         | 1.67%   |
 | Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s                | 1         | 1.67%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s          | 1         | 1.67%   |
-| Samsung RAM M471B5673FH0-CF8 2048MB SODIMM DDR3 1067MT/s       | 1         | 1.67%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 1.67%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 1.67%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s          | 1         | 1.67%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s         | 1         | 1.67%   |
@@ -2608,14 +2607,14 @@ Camera device vendors
 | Realtek Semiconductor                  | 3         | 4.05%   |
 | Luxvisions Innotech Limited            | 3         | 4.05%   |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 4.05%   |
+| Bison Electronics                      | 3         | 4.05%   |
 | Sunplus Innovation Technology          | 2         | 2.7%    |
-| Bison Electronics                      | 2         | 2.7%    |
 | Alcor Micro                            | 2         | 2.7%    |
-| Acer                                   | 2         | 2.7%    |
 | ShineTech                              | 1         | 1.35%   |
 | Logitech                               | 1         | 1.35%   |
 | Apple                                  | 1         | 1.35%   |
 | ALi                                    | 1         | 1.35%   |
+| Acer                                   | 1         | 1.35%   |
 
 Camera Model
 ------------
@@ -2641,7 +2640,6 @@ Camera device models
 | Chicony Integrated Camera (1280x720@30)          | 2         | 2.7%    |
 | Chicony HP HD Camera                             | 2         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) HD Camera | 2         | 2.7%    |
-| Alcor Micro USB 2.0 Camera                       | 2         | 2.7%    |
 | Sunplus HP HD Webcam [Fixed]                     | 1         | 1.35%   |
 | Sunplus HD WebCam                                | 1         | 1.35%   |
 | ShineTech HD Camera                              | 1         | 1.35%   |
@@ -2667,6 +2665,7 @@ Camera device models
 | Chicony HD WebCam (Asus N-series)                | 1         | 1.35%   |
 | Chicony HD WebCam                                | 1         | 1.35%   |
 | Chicony FJ Camera                                | 1         | 1.35%   |
+| Chicony EasyCamera                               | 1         | 1.35%   |
 
 Security
 --------

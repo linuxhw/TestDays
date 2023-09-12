@@ -784,7 +784,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 500GB             | 2         | 4.44%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 2.22%   |
 | WDC WD40EZRZ-00GXCB0 4TB                 | 1         | 2.22%   |
-| WDC WD2500BEVT-22A23T0 250GB             | 1         | 2.22%   |
+| WDC WD2500BEVT-22A23T0 208GB             | 1         | 2.22%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 2.22%   |
 | WDC WD10JPVX-22JC3T0 1TB                 | 1         | 2.22%   |
 | WDC WD10EZEX-08WN4A0 1TB                 | 1         | 2.22%   |
@@ -813,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -1410,7 +1410,7 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
@@ -1431,7 +1431,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24P1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -2071,7 +2071,7 @@ Camera device models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Suyin HP TrueVision HD Integrated Webcam  | 1         | 7.14%   |
-| Suyin 1.3M HD WebCam                      | 1         | 7.14%   |
+| Suyin 1.3M Front                          | 1         | 7.14%   |
 | Microsoft LifeCam HD-3000                 | 1         | 7.14%   |
 | Microdia Dell Laptop Integrated Webcam HD | 1         | 7.14%   |
 | Logitech Logitech Webcam C160             | 1         | 7.14%   |

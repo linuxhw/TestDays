@@ -541,12 +541,13 @@ Motherboard manufacture year
 |---------|-----------|---------|
 | 2021    | 6         | 22.22%  |
 | 2022    | 4         | 14.81%  |
-| 2020    | 4         | 14.81%  |
+| 2020    | 3         | 11.11%  |
 | 2016    | 3         | 11.11%  |
 | 2014    | 3         | 11.11%  |
 | Unknown | 3         | 11.11%  |
 | 2018    | 2         | 7.41%   |
 | 2015    | 1         | 3.7%    |
+| 2012    | 1         | 3.7%    |
 | 2008    | 1         | 3.7%    |
 
 Form Factor
@@ -782,39 +783,39 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Computers | Percent |
-|-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 2         | 5.88%   |
-| Micron MTFDKBA512TFH 512GB                          | 2         | 5.88%   |
-| FORESEE 64GB SSD                                    | 2         | 5.88%   |
-| ZX1 1TB Disk 1TB                                    | 1         | 2.94%   |
-| WDC PC SN530 SDBPNPZ-512G-1014 512GB                | 1         | 2.94%   |
-| Unknown NVMe SSD Drive 256GB                        | 1         | 2.94%   |
-| Toshiba MQ01ABD100 1TB                              | 1         | 2.94%   |
-| Toshiba KXG60ZNV512G KIOXIA 512GB                   | 1         | 2.94%   |
-| SK hynix SKHynix_HFS512GDE9X084N 512GB              | 1         | 2.94%   |
-| Seagate ST1000DM010-2EP102 1TB                      | 1         | 2.94%   |
-| SanDisk SD6SP1M256G1102 256GB SSD                   | 1         | 2.94%   |
-| Samsung PM991 NVMe 256GB                            | 1         | 2.94%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 1         | 2.94%   |
-| Samsung MZVLW256HEHP-000L2 256GB                    | 1         | 2.94%   |
-| Samsung MZVLB512HBJQ-000L7 512GB                    | 1         | 2.94%   |
-| Samsung MZVLB512HAJQ-00000 512GB                    | 1         | 2.94%   |
-| Samsung MZVL2512HCJQ-00BL7 512GB                    | 1         | 2.94%   |
-| Samsung MZNTY128HDHP-00000 128GB SSD                | 1         | 2.94%   |
-| Samsung KLUFG8RHDA-B2D1 512GB                       | 1         | 2.94%   |
-| Samsung KLUFG8RHDA-B2D1 1GB                         | 1         | 2.94%   |
-| Phison ThinkPlus ST8000 PCI-E M.2 256G              | 1         | 2.94%   |
-| Pear 2TB Disk 2TB                                   | 1         | 2.94%   |
-| Micron 2450_MTFDKBA1T0TFK 1TB                       | 1         | 2.94%   |
-| Lenovo SSD SL500 240G                               | 1         | 2.94%   |
-| Kingston OM3PDP3128B-AH 128GB                       | 1         | 2.94%   |
-| Kingchuxing SSD 128GB                               | 1         | 2.94%   |
-| HISI THR920GFCV100HAE 256GB                         | 1         | 2.94%   |
-| Hikvision HS-SSD-E2000L 512G                        | 1         | 2.94%   |
-| HP SSD EX950 1TB                                    | 1         | 2.94%   |
-| FC-1307 SD to CF Adapter V1.4                       | 1         | 2.94%   |
-| Apple SSD SM0256G 256GB                             | 1         | 2.94%   |
+| Model                                                 | Computers | Percent |
+|-------------------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 2         | 5.88%   |
+| Micron MTFDKBA512TFH 512GB                            | 2         | 5.88%   |
+| FORESEE 64GB SSD                                      | 2         | 5.88%   |
+| ZX1 1TB Disk 1TB                                      | 1         | 2.94%   |
+| WDC PC SN530 SDBPNPZ-512G-1014 512GB                  | 1         | 2.94%   |
+| Unknown NVMe SSD Drive 256GB                          | 1         | 2.94%   |
+| Toshiba MQ01ABD100 1TB                                | 1         | 2.94%   |
+| Toshiba KXG60ZNV512G KIOXIA 512GB                     | 1         | 2.94%   |
+| SK hynix SKHynix_HFS512GDE9X084N 512GB                | 1         | 2.94%   |
+| Seagate ST1000DM010-2EP102 1TB                        | 1         | 2.94%   |
+| SanDisk SD6SP1M256G1102 256GB SSD                     | 1         | 2.94%   |
+| Samsung PM991 NVMe 256GB                              | 1         | 2.94%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB   | 1         | 2.94%   |
+| Samsung MZVLW256HEHP-000L2 256GB                      | 1         | 2.94%   |
+| Samsung MZVLB512HBJQ-000L7 512GB                      | 1         | 2.94%   |
+| Samsung MZVLB512HAJQ-00000 512GB                      | 1         | 2.94%   |
+| Samsung MZVL2512HCJQ-00BL7 512GB                      | 1         | 2.94%   |
+| Samsung MZNTY128HDHP-00000 128GB SSD                  | 1         | 2.94%   |
+| Samsung KLUFG8RHDA-B2D1 512GB                         | 1         | 2.94%   |
+| Samsung KLUFG8RHDA-B2D1 1GB                           | 1         | 2.94%   |
+| Phison ThinkPlus ST8000 PCI-E M.2 256G                | 1         | 2.94%   |
+| Pear 2TB Disk 2TB                                     | 1         | 2.94%   |
+| Micron 2450_MTFDKBA1T0TFK 1TB                         | 1         | 2.94%   |
+| Lenovo SSD SL500 240G                                 | 1         | 2.94%   |
+| Kingston OM3PDP3128B-AH 128GB                         | 1         | 2.94%   |
+| Kingchuxing SSD 128GB                                 | 1         | 2.94%   |
+| HISI THR920GFCV100HAE 256GB                           | 1         | 2.94%   |
+| Hikvision HS-SSD-E2000L 512G                          | 1         | 2.94%   |
+| HP SSD EX950 1TB                                      | 1         | 2.94%   |
+| FC-1307 SD to CF Adapter V1.4                         | 1         | 2.94%   |
+| Apple SSD SM0256G 256GB                               | 1         | 2.94%   |
 
 HDD Vendor
 ----------
@@ -1597,7 +1598,7 @@ Controller models
 | Intel Ethernet Connection (11) I219-V                             | 1         | 2.33%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 2.33%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 2.33%   |
-| ICS Advent 10/100M LAN                                            | 1         | 2.33%   |
+| ICS Advent USB 10/100 LAN                                         | 1         | 2.33%   |
 | Broadcom BCM43602 802.11ac Wireless LAN SoC                       | 1         | 2.33%   |
 
 Wireless Vendor
@@ -1680,7 +1681,7 @@ Ethernet models
 | Intel Ethernet Connection (11) I219-V                             | 1         | 5.56%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 5.56%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 5.56%   |
-| ICS Advent 10/100M LAN                                            | 1         | 5.56%   |
+| ICS Advent USB 10/100 LAN                                         | 1         | 5.56%   |
 
 Net Controller Kind
 -------------------
@@ -1868,10 +1869,10 @@ Memory module models
 | UNILC RAM 6478545886 8192MB SODIMM DDR4 2400MT/s                 | 1         | 4%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1867MT/s                     | 1         | 4%      |
 | SK hynix RAM Module 4096MB SODIMM LPDDR3 1867MT/s                | 1         | 4%      |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 1         | 4%      |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 1         | 4%      |
 | SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 3200MT/s             | 1         | 4%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 4%      |
-| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips 6400MT/s        | 1         | 4%      |
+| SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 4%      |
 | SK hynix RAM H9HKNNNFBMBUDR 8192MB Row Of Chips LPDDR4 4266MT/s  | 1         | 4%      |
 | Samsung RAM Module 8192MB SODIMM DDR4 2667MT/s                   | 1         | 4%      |
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1867MT/s                 | 1         | 4%      |
@@ -1879,14 +1880,14 @@ Memory module models
 | Samsung RAM K3UH7H70AM 8192MB Row Of Chips LPDDR4 4266MT/s       | 1         | 4%      |
 | Samsung RAM 6478545886 16GB DIMM DDR4 2668MT/s                   | 1         | 4%      |
 | Nanya RAM M2N2G64CB8HA5N-BE 2GB SODIMM 1066MT/s                  | 1         | 4%      |
-| Micron RAM MT62F2G32D8DR-031 WT 8GB Row Of Chips LPDDR5 6400MT/s | 1         | 4%      |
+| Micron RAM MT62F2G32D8DR-031 WT 8GB Row Of Chips 6400MT/s        | 1         | 4%      |
 | Micron RAM MT62F1G32D4DR-031 2GB Row Of Chips LPDDR5 6400MT/s    | 1         | 4%      |
 | Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s    | 1         | 4%      |
 | Micron RAM 53E512M32D2NP-046 1GB Row Of Chips LPDDR4 4267MT/s    | 1         | 4%      |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s             | 1         | 4%      |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s       | 1         | 4%      |
 | Elpida RAM Module 2048MB SODIMM DDR3 1600MT/s                    | 1         | 4%      |
-| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1067MT/s            | 1         | 4%      |
+| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM 1067MT/s                 | 1         | 4%      |
 | Unknown                                                          | 1         | 4%      |
 
 Memory Kind
@@ -1930,9 +1931,9 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 14        | 60.87%  |
+| 8192  | 15        | 65.22%  |
 | 4096  | 4         | 17.39%  |
-| 2048  | 4         | 17.39%  |
+| 2048  | 3         | 13.04%  |
 | 16384 | 1         | 4.35%   |
 
 Memory Speed
@@ -2115,8 +2116,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 17        | 62.96%  |
-| 1     | 9         | 33.33%  |
-| 2     | 1         | 3.7%    |
+| 1     | 8         | 29.63%  |
+| 2     | 2         | 7.41%   |
 
 Unsupported Device Types
 ------------------------
@@ -2128,9 +2129,9 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 5         | 45.45%  |
-| Multimedia controller | 2         | 18.18%  |
-| Graphics card         | 2         | 18.18%  |
-| Net/wireless          | 1         | 9.09%   |
-| Camera                | 1         | 9.09%   |
+| Fingerprint reader    | 5         | 41.67%  |
+| Graphics card         | 3         | 25%     |
+| Multimedia controller | 2         | 16.67%  |
+| Net/wireless          | 1         | 8.33%   |
+| Camera                | 1         | 8.33%   |
 

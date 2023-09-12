@@ -1073,7 +1073,7 @@ Hard drive models
 | WDC WD10SPZX-24Z10 1TB             | 1         | 0.76%   |
 | WDC WD10JPLX-00MBPT0 1TB           | 1         | 0.76%   |
 | WDC WD1003FZEX-00K3CA0 1TB         | 1         | 0.76%   |
-| Vaseky V800/128G 128GB             | 1         | 0.76%   |
+| Vaseky V800/128G 120GB SSD         | 1         | 0.76%   |
 | Unknown SD16G  16GB                | 1         | 0.76%   |
 | Unknown MMC Card  16GB             | 1         | 0.76%   |
 | Unknown HAG4a2  16GB               | 1         | 0.76%   |
@@ -1807,7 +1807,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 2         | 2.02%   |
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1         | 1.01%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1         | 1.01%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                      | 1         | 1.01%   |
+| Vestel Elektronik 40W_LCD_TV VES3700 1920x540                         | 1         | 1.01%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                             | 1         | 1.01%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1         | 1.01%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                   | 1         | 1.01%   |
@@ -1816,7 +1816,7 @@ Monitor models
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1         | 1.01%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch     | 1         | 1.01%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch     | 1         | 1.01%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.01%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 1.01%   |
@@ -1830,7 +1830,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch  | 1         | 1.01%   |
 | Philips LCD Monitor 150C4 1024x768                                    | 1         | 1.01%   |
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                    | 1         | 1.01%   |
-| MSI Optix G241VC MSI1462 1920x1080 521x294mm 23.6-inch                | 1         | 1.01%   |
+| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                | 1         | 1.01%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                     | 1         | 1.01%   |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch          | 1         | 1.01%   |
 | LG Display LCD Monitor LGD0582 3000x2000 275x183mm 13.0-inch          | 1         | 1.01%   |
@@ -2206,7 +2206,7 @@ Ethernet models
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                        | 1         | 1.16%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.16%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.16%   |
-| Qualcomm MDM9207-MTP _SN:A962C7E3                                 | 1         | 1.16%   |
+| Qualcomm Coolpad                                                  | 1         | 1.16%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.16%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.16%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.16%   |
@@ -2333,12 +2333,11 @@ Controller models
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 3.45%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 2         | 3.45%   |
 | IMC Networks Bluetooth Radio                        | 2         | 3.45%   |
-| Apple Bluetooth USB Host Controller                 | 2         | 3.45%   |
 | Toshiba Bluetooth Device                            | 1         | 1.72%   |
 | Realtek Bluetooth Radio                             | 1         | 1.72%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 1.72%   |
-| Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.72%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 1.72%   |
+| Intel Bluetooth Device                              | 1         | 1.72%   |
 | Intel AX210 Bluetooth                               | 1         | 1.72%   |
 | Integrated System Solution Bluetooth Device         | 1         | 1.72%   |
 | IMC Networks Bluetooth USB Host Controller          | 1         | 1.72%   |
@@ -2348,6 +2347,8 @@ Controller models
 | Dell BCM20702A0 Bluetooth Module                    | 1         | 1.72%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 1         | 1.72%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 1         | 1.72%   |
+| Apple Bluetooth USB Host Controller                 | 1         | 1.72%   |
+| Apple Bluetooth Host Controller                     | 1         | 1.72%   |
 | Apple Bluetooth HCI                                 | 1         | 1.72%   |
 
 Sound
@@ -2471,12 +2472,12 @@ Memory module models
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                      | 1         | 2.27%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM 1334MT/s                          | 1         | 2.27%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                     | 1         | 2.27%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s                        | 1         | 2.27%   |
-| Samsung RAM M471B5173QH0-YK0 4096MB SODIMM DDR3 1600MT/s                   | 1         | 2.27%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
@@ -2644,16 +2645,16 @@ Camera device vendors
 | Realtek Semiconductor         | 3         | 6%      |
 | Quanta                        | 3         | 6%      |
 | IMC Networks                  | 3         | 6%      |
+| Bison Electronics             | 3         | 6%      |
 | Silicon Motion                | 2         | 4%      |
 | Huawei Technologies           | 2         | 4%      |
-| Bison Electronics             | 2         | 4%      |
 | Apple                         | 2         | 4%      |
-| Acer                          | 2         | 4%      |
 | Z-Star Microelectronics       | 1         | 2%      |
 | Logitech                      | 1         | 2%      |
 | Jieli Technology              | 1         | 2%      |
 | Importek                      | 1         | 2%      |
 | Cubeternet                    | 1         | 2%      |
+| Acer                          | 1         | 2%      |
 
 Camera Model
 ------------
@@ -2704,7 +2705,7 @@ Camera device models
 | Chicony HP HD Camera                                                  | 1         | 2%      |
 | Chicony HD WebCam                                                     | 1         | 2%      |
 | Chicony EasyCamera                                                    | 1         | 2%      |
-| Bison HP TrueVision HD Webcam                                         | 1         | 2%      |
+| Bison Integrated Camera                                               | 1         | 2%      |
 
 Security
 --------
@@ -2780,8 +2781,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 71        | 77.17%  |
-| 1     | 19        | 20.65%  |
-| 2     | 2         | 2.17%   |
+| 1     | 18        | 19.57%  |
+| 2     | 3         | 3.26%   |
 
 Unsupported Device Types
 ------------------------
@@ -2793,10 +2794,10 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 7         | 35%     |
-| Fingerprint reader | 6         | 30%     |
-| Chipcard           | 3         | 15%     |
-| Net/wireless       | 2         | 10%     |
-| Net/ethernet       | 1         | 5%      |
-| Bluetooth          | 1         | 5%      |
+| Graphics card      | 8         | 38.1%   |
+| Fingerprint reader | 6         | 28.57%  |
+| Chipcard           | 3         | 14.29%  |
+| Net/wireless       | 2         | 9.52%   |
+| Net/ethernet       | 1         | 4.76%   |
+| Bluetooth          | 1         | 4.76%   |
 
