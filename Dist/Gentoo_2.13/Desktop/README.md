@@ -1177,26 +1177,26 @@ Hard drive models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB   | 14       | 4.23%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1024GB | 14       | 4.23%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB   | 14       | 4.23%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 14       | 4.23%   |
 | Seagate ST4000DM004-2CV104 4TB                        | 6        | 1.81%   |
 | Samsung SSD 980 1TB                                   | 5        | 1.51%   |
 | Crucial CT1000MX500SSD1 1TB                           | 5        | 1.51%   |
 | Seagate ST1000DM010-2EP102 1TB                        | 4        | 1.21%   |
 | Sandisk WD_BLACK SN770 1TB                            | 4        | 1.21%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 1024GB  | 4        | 1.21%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 500GB   | 4        | 1.21%   |
 | WDC WD30EFRX-68EUZN0 3TB                              | 3        | 0.91%   |
 | Toshiba DT01ACA200 2TB                                | 3        | 0.91%   |
 | Toshiba DT01ACA100 1TB                                | 3        | 0.91%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 3        | 0.91%   |
-| Sandisk WD Blue SN550 NVMe SSD 250GB                  | 3        | 0.91%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 512GB | 3        | 0.91%   |
+| Sandisk WD Blue SN550 NVMe SSD 512GB                  | 3        | 0.91%   |
 | Samsung SSD 870 EVO 1TB                               | 3        | 0.91%   |
 | Samsung SSD 860 EVO 1TB                               | 3        | 0.91%   |
-| Phison E12 NVMe Controller 256GB                      | 3        | 0.91%   |
+| Phison E12 NVMe Controller 2TB                        | 3        | 0.91%   |
 | Micron/Crucial P2 NVMe PCIe SSD 1TB                   | 3        | 0.91%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 1024GB   | 3        | 0.91%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 512GB    | 3        | 0.91%   |
 | Kingston SA400S37480G 480GB SSD                       | 3        | 0.91%   |
-| Intel SSD 660P Series 512GB                           | 3        | 0.91%   |
+| Intel SSD 660P Series 1024GB                          | 3        | 0.91%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                      | 2        | 0.6%    |
 | WDC WD80EFAX-68KNBN0 8TB                              | 2        | 0.6%    |
 | WDC WD5000LPLX-66ZNTT1 500GB                          | 2        | 0.6%    |
@@ -1208,13 +1208,13 @@ Hard drive models
 | WDC WD120EFBX-68B0EN0 12TB                            | 2        | 0.6%    |
 | Seagate ST6000DM003-2CY186 6TB                        | 2        | 0.6%    |
 | Seagate ST2000DM001-1ER164 2TB                        | 2        | 0.6%    |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 1024GB     | 2        | 0.6%    |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 512GB      | 2        | 0.6%    |
 | Samsung SSD 870 QVO 2TB                               | 2        | 0.6%    |
 | Samsung SSD 860 EVO 500GB                             | 2        | 0.6%    |
 | Samsung SSD 860 EVO 4TB                               | 2        | 0.6%    |
 | Samsung SSD 850 EVO 250GB                             | 2        | 0.6%    |
 | Phison E7 NVMe Controller 240GB                       | 2        | 0.6%    |
-| Phison E16 PCIe4 NVMe Controller 1TB                  | 2        | 0.6%    |
+| Phison E16 PCIe4 NVMe Controller 500GB                | 2        | 0.6%    |
 | Phison Corsair MP600 PRO XT 2TB                       | 2        | 0.6%    |
 | Kingston Company SNV2S2000G 2TB                       | 2        | 0.6%    |
 
@@ -1310,13 +1310,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 62       | 112    | 33.7%   |
-| 0.51-1.0   | 46       | 107    | 25%     |
-| 1.01-2.0   | 30       | 49     | 16.3%   |
-| 3.01-4.0   | 20       | 41     | 10.87%  |
-| 4.01-10.0  | 14       | 35     | 7.61%   |
-| 2.01-3.0   | 8        | 32     | 4.35%   |
-| 10.01-20.0 | 4        | 9      | 2.17%   |
+| 0.01-0.5   | 62       | 112    | 33.33%  |
+| 0.51-1.0   | 46       | 105    | 24.73%  |
+| 1.01-2.0   | 31       | 50     | 16.67%  |
+| 3.01-4.0   | 20       | 41     | 10.75%  |
+| 4.01-10.0  | 15       | 36     | 8.06%   |
+| 2.01-3.0   | 8        | 32     | 4.3%    |
+| 10.01-20.0 | 4        | 9      | 2.15%   |
 
 Space Total
 -----------
@@ -1389,7 +1389,7 @@ Drive models with a malfunction
 | Samsung Electronics SSD 980 1TB                           | 1        | 1      | 3.45%   |
 | Samsung Electronics SSD 870 EVO 1TB                       | 1        | 8      | 3.45%   |
 | Samsung Electronics SP2504C 250GB                         | 1        | 1      | 3.45%   |
-| Realtek Semiconductor RTS5763DL NVMe SSD Controller 512GB | 1        | 2      | 3.45%   |
+| Realtek Semiconductor RTS5763DL NVMe SSD Controller 256GB | 1        | 2      | 3.45%   |
 | PNY SSD2SC120G1LC763C121S459P 120GB                       | 1        | 1      | 3.45%   |
 | Intel SSDSCKKF180G8L 180GB                                | 1        | 1      | 3.45%   |
 | Intel SSDSC2BB160G4T 160GB                                | 1        | 2      | 3.45%   |
@@ -2025,21 +2025,21 @@ Monitor models
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 2        | 1.46%   |
 | Samsung Electronics SyncMaster SAM059A 1920x1080 477x268mm 21.5-inch    | 2        | 1.46%   |
 | Samsung Electronics LCD Monitor SAM7004 3840x2160 1872x1053mm 84.6-inch | 2        | 1.46%   |
-| Samsung Electronics LCD Monitor SAM7003 3840x2160 1420x800mm 64.2-inch  | 2        | 1.46%   |
+| Samsung Electronics LCD Monitor SAM7003 3840x2160 1872x1053mm 84.6-inch | 2        | 1.46%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 2        | 1.46%   |
 | Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                   | 2        | 1.46%   |
 | Gigabyte Technology G27FC A GBT2715 1920x1080 598x336mm 27.0-inch       | 2        | 1.46%   |
 | Eizo CS2731 ENC3069 2560x1440 597x336mm 27.0-inch                       | 2        | 1.46%   |
 | BenQ PD3200U BNQ8025 3840x2160 708x399mm 32.0-inch                      | 2        | 1.46%   |
-| ASUSTek Computer VG27A AUS2722 2560x1440 600x340mm 27.2-inch            | 2        | 1.46%   |
+| ASUSTek Computer VG27A AUS2722 2560x1440 597x336mm 27.0-inch            | 2        | 1.46%   |
 | AOC LCD Monitor U2879G6 3840x2160                                       | 2        | 1.46%   |
-| AOC 2460X AOC2460 1920x1200 518x324mm 24.1-inch                         | 2        | 1.46%   |
+| AOC 2460G4 AOC2460 1920x1080 531x299mm 24.0-inch                        | 2        | 1.46%   |
 | Acer ED320QR S ACR0805 1920x1080 609x348mm 27.6-inch                    | 2        | 1.46%   |
 | Vizio VX20L VIZ2000 1280x720 444x249mm 20.0-inch                        | 1        | 0.73%   |
 | Vizio D43n-E1 VIZ1009 1920x1080 953x543mm 43.2-inch                     | 1        | 0.73%   |
 | Unknown LCD Monitor RTK                                                 | 1        | 0.73%   |
 | Sceptre Tech C305W-2560UN SPT0C0D 2560x1080 690x291mm 29.5-inch         | 1        | 0.73%   |
-| Samsung Electronics U32R59x SAM0F96 3840x2160 700x390mm 31.5-inch       | 1        | 0.73%   |
+| Samsung Electronics U32R59x SAM0F96 3840x2160 697x392mm 31.5-inch       | 1        | 0.73%   |
 | Samsung Electronics SyncMaster SAM05E8 1920x1080                        | 1        | 0.73%   |
 | Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch    | 1        | 0.73%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 474x296mm 22.0-inch    | 1        | 0.73%   |
@@ -2057,7 +2057,7 @@ Monitor models
 | Samsung Electronics LCD Monitor C27FG7x 1920x1080                       | 1        | 0.73%   |
 | Samsung Electronics LC27G5xT SAM707A 2560x1440 597x336mm 27.0-inch      | 1        | 0.73%   |
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch      | 1        | 0.73%   |
-| Samsung Electronics C49HG9x SAM0E5E 1920x1080 1200x340mm 49.1-inch      | 1        | 0.73%   |
+| Samsung Electronics C49HG9x SAM0E5E 3840x1080 1196x336mm 48.9-inch      | 1        | 0.73%   |
 | Samsung Electronics C27HG7x SAM0E16 2560x1440 598x336mm 27.0-inch       | 1        | 0.73%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch       | 1        | 0.73%   |
 | Philips LCD Monitor PHL 276E8V 5760x2160                                | 1        | 0.73%   |
@@ -2654,7 +2654,7 @@ Sound card models
 | Intel 82801JI (ICH10 Family) HD Audio Controller                                                | 2        | 0.73%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 2        | 0.73%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 2        | 0.73%   |
-| C-Media Electronics KLIM Mantis Audio 7.1                                                       | 2        | 0.73%   |
+| C-Media Electronics USB Audio Device                                                            | 2        | 0.73%   |
 | Audient EVO4                                                                                    | 2        | 0.73%   |
 | ASUSTek Computer Xonar SoundCard                                                                | 2        | 0.73%   |
 
@@ -2706,8 +2706,8 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1333MT/s                  | 2        | 1.53%   |
 | Unknown RAM Module 2GB DIMM DDR2 667MT/s                   | 2        | 1.53%   |
 | Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s     | 2        | 1.53%   |
-| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3866MT/s     | 2        | 1.53%   |
-| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s    | 2        | 1.53%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s        | 2        | 1.53%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s       | 2        | 1.53%   |
 | Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 2        | 1.53%   |
 | Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 2        | 1.53%   |
 | Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s     | 2        | 1.53%   |
@@ -2731,7 +2731,7 @@ Memory module models
 | Samsung RAM M393A2G40EB1-CPB 16GB DIMM DDR4 2133MT/s       | 1        | 0.76%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 0.76%   |
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s        | 1        | 0.76%   |
-| Samsung RAM M378A5244CB0-CRC 4096MB DIMM DDR4 3066MT/s     | 1        | 0.76%   |
+| Samsung RAM M378A5244CB0-CRC 4GB DIMM DDR4 3066MT/s        | 1        | 0.76%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s        | 1        | 0.76%   |
 | Patriot RAM Module 8GB DIMM DDR4 2666MT/s                  | 1        | 0.76%   |
 | Patriot Memory RAM 3200 C16 Series 16GB DIMM DDR4 3200MT/s | 1        | 0.76%   |
@@ -2937,11 +2937,11 @@ Camera device models
 |-----------------------------------------|----------|---------|
 | Logitech C922 Pro Stream Webcam         | 4        | 13.33%  |
 | Samsung Galaxy series, misc. (MTP mode) | 2        | 6.67%   |
-| Microdia GC02M2                         | 2        | 6.67%   |
-| MacroSilicon USB Video                  | 2        | 6.67%   |
+| Microdia USB 2.0 Camera                 | 2        | 6.67%   |
+| MacroSilicon USB3. 0 capture            | 2        | 6.67%   |
 | Trust QHD Webcam                        | 1        | 3.33%   |
 | Sunplus video capture device            | 1        | 3.33%   |
-| Sunplus Canyon CNS-CWC5 Webcam          | 1        | 3.33%   |
+| Sunplus NexiGo N930AF FHD Webcam        | 1        | 3.33%   |
 | Quanta RGB-IR Camera                    | 1        | 3.33%   |
 | Microsoft MicrosoftÂ LifeCam Studio    | 1        | 3.33%   |
 | Microsoft LifeCam Cinema                | 1        | 3.33%   |
@@ -2952,13 +2952,13 @@ Camera device models
 | Logitech HD Webcam C910                 | 1        | 3.33%   |
 | Logitech HD Webcam C525                 | 1        | 3.33%   |
 | Logitech HD Pro Webcam C920             | 1        | 3.33%   |
-| Logitech BRIO Ultra HD Webcam           | 1        | 3.33%   |
 | Logitech BRIO 4K Stream Edition         | 1        | 3.33%   |
+| Logitech BRIO                           | 1        | 3.33%   |
 | GEMBIRD USB2.0 PC CAMERA                | 1        | 3.33%   |
 | Elgato Systems Elgato Facecam           | 1        | 3.33%   |
 | Creative Live! Cam Chat HD [VF0700]     | 1        | 3.33%   |
 | Chicony Gateway Webcam                  | 1        | 3.33%   |
-| A4Tech REDRAGON Live Camera             | 1        | 3.33%   |
+| A4Tech HD 720P PC Camera                | 1        | 3.33%   |
 
 Security
 --------

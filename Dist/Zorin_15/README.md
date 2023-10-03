@@ -1617,17 +1617,17 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2010    | 159       | 9.7%    |
+| 2010    | 157       | 9.57%   |
 | 2011    | 152       | 9.27%   |
-| 2008    | 144       | 8.78%   |
+| 2008    | 145       | 8.84%   |
 | 2007    | 138       | 8.41%   |
-| 2009    | 136       | 8.29%   |
+| 2009    | 137       | 8.35%   |
 | 2013    | 121       | 7.38%   |
 | 2012    | 121       | 7.38%   |
 | 2018    | 104       | 6.34%   |
-| 2014    | 94        | 5.73%   |
+| 2014    | 95        | 5.79%   |
 | 2017    | 90        | 5.49%   |
-| 2015    | 74        | 4.51%   |
+| 2015    | 73        | 4.45%   |
 | 2016    | 69        | 4.21%   |
 | 2019    | 66        | 4.02%   |
 | 2006    | 64        | 3.9%    |
@@ -1734,8 +1734,8 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 1168      | 69.69%  |
-| 2      | 366       | 21.84%  |
+| 1      | 1167      | 69.63%  |
+| 2      | 367       | 21.9%   |
 | 3      | 88        | 5.25%   |
 | 4      | 26        | 1.55%   |
 | 5      | 13        | 0.78%   |
@@ -1755,8 +1755,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 966       | 58.51%  |
-| No        | 685       | 41.49%  |
+| Yes       | 964       | 58.39%  |
+| No        | 687       | 41.61%  |
 
 Has Ethernet
 ------------
@@ -2000,7 +2000,7 @@ Hard drive models
 | Hitachi HTS543232A7A384 320GB          | 9         | 0.41%   |
 | Seagate ST1000DM003-1ER162 1TB         | 8         | 0.37%   |
 | WDC WD10EZEX-08WN4A0 1TB               | 7         | 0.32%   |
-| Unknown SD/MMC/MS PRO 1GB              | 7         | 0.32%   |
+| Unknown SD/MMC/MS PRO 128GB            | 7         | 0.32%   |
 | Seagate ST9250315AS 250GB              | 7         | 0.32%   |
 | Seagate ST31000528AS 1TB               | 7         | 0.32%   |
 | Samsung SSD 850 EVO 250GB              | 7         | 0.32%   |
@@ -2127,12 +2127,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 1231      | 1650   | 74.65%  |
-| 0.51-1.0   | 329       | 446    | 19.95%  |
-| 1.01-2.0   | 59        | 90     | 3.58%   |
+| 0.01-0.5   | 1231      | 1660   | 74.79%  |
+| 0.51-1.0   | 332       | 447    | 20.17%  |
+| 1.01-2.0   | 49        | 75     | 2.98%   |
 | 3.01-4.0   | 13        | 31     | 0.79%   |
-| 4.01-10.0  | 9         | 11     | 0.55%   |
-| 2.01-3.0   | 7         | 12     | 0.42%   |
+| 4.01-10.0  | 13        | 15     | 0.79%   |
+| 2.01-3.0   | 7         | 12     | 0.43%   |
 | 10.01-20.0 | 1         | 1      | 0.06%   |
 
 Space Total
@@ -2377,9 +2377,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 1077      | 57.26%  |
+| SATA | 1078      | 57.31%  |
 | IDE  | 582       | 30.94%  |
-| NVMe | 119       | 6.33%   |
+| NVMe | 118       | 6.27%   |
 | RAID | 99        | 5.26%   |
 | SAS  | 2         | 0.11%   |
 | SCSI | 2         | 0.11%   |
@@ -2860,28 +2860,28 @@ Monitor models
 | Model                                                                    | Computers | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch           | 15        | 0.96%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch     | 13        | 0.83%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 13        | 0.83%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 9         | 0.58%   |
 | AU Optronics LCD Monitor AUO71EC 1366x768 344x193mm 15.5-inch            | 9         | 0.58%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 7         | 0.45%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 7         | 0.45%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 7         | 0.45%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch     | 6         | 0.38%   |
-| InfoVision LCD Monitor IVO03F4 1920x1200 263x164mm 12.2-inch             | 6         | 0.38%   |
+| InfoVision LCD Monitor IVO03F4 1366x768 344x193mm 15.5-inch              | 6         | 0.38%   |
 | AU Optronics LCD Monitor AUO123D 1920x1080 309x173mm 13.9-inch           | 6         | 0.38%   |
 | Samsung Electronics LCD Monitor SEC3633 1280x800 331x207mm 15.4-inch     | 5         | 0.32%   |
 | LG Philips LCD Monitor LPLDB00 1280x800 331x207mm 15.4-inch              | 5         | 0.32%   |
 | LG Display LCD Monitor LGD046F 1920x1080 345x194mm 15.6-inch             | 5         | 0.32%   |
 | LG Display LCD Monitor LGD02E9 1366x768 309x174mm 14.0-inch              | 5         | 0.32%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                  | 5         | 0.32%   |
-| InfoVision LCD Monitor IVO0489 1366x768 256x144mm 11.6-inch              | 5         | 0.32%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch                  | 5         | 0.32%   |
+| InfoVision LCD Monitor IVO0489 1366x768 344x193mm 15.5-inch              | 5         | 0.32%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1007 1024x600 222x125mm 10.0-inch | 5         | 0.32%   |
 | BOE LCD Monitor BOE06A5 1366x768 344x194mm 15.5-inch                     | 5         | 0.32%   |
 | BOE LCD Monitor BOE06A4 1366x768 344x194mm 15.5-inch                     | 5         | 0.32%   |
 | AU Optronics LCD Monitor AUO8174 1280x800 331x207mm 15.4-inch            | 5         | 0.32%   |
 | AU Optronics LCD Monitor AUO21EC 1366x768 344x193mm 15.5-inch            | 5         | 0.32%   |
 | AU Optronics LCD Monitor AUO20EC 1366x768 344x193mm 15.5-inch            | 5         | 0.32%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 4         | 0.26%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch     | 4         | 0.26%   |
 | Samsung Electronics LCD Monitor SEC4E45 1280x800 331x207mm 15.4-inch     | 4         | 0.26%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 4         | 0.26%   |
 | Samsung Electronics LCD Monitor SEC3345 1280x800 331x207mm 15.4-inch     | 4         | 0.26%   |
@@ -2895,7 +2895,7 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO1526 1280x800 331x207mm 15.4-inch | 4         | 0.26%   |
 | AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch            | 4         | 0.26%   |
 | AU Optronics LCD Monitor AUO235C 1366x768 256x144mm 11.6-inch            | 4         | 0.26%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch           | 4         | 0.26%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch           | 4         | 0.26%   |
 | AU Optronics LCD Monitor AUO193C 1366x768 309x173mm 13.9-inch            | 4         | 0.26%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch            | 4         | 0.26%   |
 | Seiko/Epson LCD Monitor 1280x800                                         | 3         | 0.19%   |
@@ -3523,7 +3523,7 @@ Controller models
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 125       | 17.24%  |
-| Realtek Bluetooth Radio                                                             | 44        | 6.07%   |
+| Realtek Bluetooth Radio                                                             | 42        | 5.79%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 38        | 5.24%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 37        | 5.1%    |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 29        | 4%      |
@@ -3541,11 +3541,12 @@ Controller models
 | Intel AX201 Bluetooth                                                               | 9         | 1.24%   |
 | Broadcom BCM2045 Bluetooth                                                          | 9         | 1.24%   |
 | Ralink RT3290 Bluetooth                                                             | 8         | 1.1%    |
+| Intel Wireless-AC 3168 Bluetooth                                                    | 8         | 1.1%    |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 8         | 1.1%    |
-| Intel Bluetooth Device                                                              | 8         | 1.1%    |
 | IMC Networks Bluetooth Radio                                                        | 8         | 1.1%    |
 | HP Broadcom 2070 Bluetooth Combo                                                    | 8         | 1.1%    |
 | Apple Built-in Bluetooth 2.0+EDR HCI                                                | 8         | 1.1%    |
+| Realtek Bluetooth Radio                                                             | 7         | 0.97%   |
 | Dell Wireless 365 Bluetooth                                                         | 7         | 0.97%   |
 | Apple Bluetooth USB Host Controller                                                 | 7         | 0.97%   |
 | Lite-On Bluetooth Device                                                            | 6         | 0.83%   |
@@ -3553,7 +3554,6 @@ Controller models
 | IMC Networks Bluetooth Device                                                       | 6         | 0.83%   |
 | Foxconn International BCM43142A0 Bluetooth module                                   | 6         | 0.83%   |
 | Dell DW375 Bluetooth Module                                                         | 6         | 0.83%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 5         | 0.69%   |
 | Qualcomm Atheros Bluetooth USB Host Controller                                      | 5         | 0.69%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 5         | 0.69%   |
 | Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0]                            | 5         | 0.69%   |
@@ -3717,13 +3717,13 @@ Memory module models
 
 | Model                                                            | Computers | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s         | 6         | 1.65%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s             | 5         | 1.37%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 6         | 1.65%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 5         | 1.37%   |
 | Unknown RAM Module 1GB DIMM SDRAM                                | 4         | 1.1%    |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 4         | 1.1%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 4         | 1.1%    |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 3         | 0.82%   |
 | SK hynix RAM HYMP112S64CP6-S6 1GB SODIMM DDR2 975MT/s            | 3         | 0.82%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 3         | 0.82%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 3         | 0.82%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 3         | 0.82%   |
 | Unknown RAM Module 512MB SODIMM DDR                              | 2         | 0.55%   |
@@ -3739,7 +3739,7 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM DDR2 667MT/s                    | 2         | 0.55%   |
 | Unknown RAM Module 1024MB DIMM DDR2 333MT/s                      | 2         | 0.55%   |
 | Unknown RAM Module 1024MB DIMM                                   | 2         | 0.55%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 0.55%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 2         | 0.55%   |
 | SK hynix RAM Module 4096MB DIMM DDR3 1066MT/s                    | 2         | 0.55%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 2         | 0.55%   |
 | SK hynix RAM Module 2048MB SODIMM DDR3 1066MT/s                  | 2         | 0.55%   |
@@ -3750,7 +3750,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 2         | 0.55%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s           | 2         | 0.55%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 2         | 0.55%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 2         | 0.55%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s         | 2         | 0.55%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 2         | 0.55%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 2         | 0.55%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 2         | 0.55%   |
@@ -3932,7 +3932,7 @@ Printer device models
 | Canon PIXMA MG3600 Series                                 | 1         | 1.75%   |
 | Canon Pixma iP4500 Printer                                | 1         | 1.75%   |
 | Canon MG2100 series                                       | 1         | 1.75%   |
-| Canon LBP810                                              | 1         | 1.75%   |
+| Canon LiDE 300                                            | 1         | 1.75%   |
 
 Scanner Vendor
 --------------
@@ -3978,8 +3978,8 @@ Camera device vendors
 | Suyin                                  | 58        | 6.79%   |
 | Realtek Semiconductor                  | 53        | 6.21%   |
 | IMC Networks                           | 50        | 5.85%   |
-| Bison Electronics                      | 42        | 4.92%   |
 | Sunplus Innovation Technology          | 38        | 4.45%   |
+| Bison Electronics                      | 38        | 4.45%   |
 | Apple                                  | 33        | 3.86%   |
 | Cheng Uei Precision Industry (Foxlink) | 32        | 3.75%   |
 | Silicon Motion                         | 25        | 2.93%   |
@@ -3987,9 +3987,9 @@ Camera device vendors
 | Syntek                                 | 18        | 2.11%   |
 | Logitech                               | 18        | 2.11%   |
 | Alcor Micro                            | 18        | 2.11%   |
+| Acer                                   | 18        | 2.11%   |
 | Lite-On Technology                     | 17        | 1.99%   |
 | Ricoh                                  | 14        | 1.64%   |
-| Acer                                   | 14        | 1.64%   |
 | Importek                               | 11        | 1.29%   |
 | ALi                                    | 11        | 1.29%   |
 | Z-Star Microelectronics                | 9         | 1.05%   |
@@ -4025,11 +4025,11 @@ Camera device models
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                               | 18        | 2.1%    |
-| Chicony USB 2.0 Camera                                  | 17        | 1.98%   |
+| Chicony USB 2.0 Camera                                  | 16        | 1.87%   |
 | Realtek Integrated_Webcam_HD                            | 12        | 1.4%    |
 | Microdia Sonix USB 2.0 Camera                           | 11        | 1.28%   |
 | Chicony EasyCamera                                      | 11        | 1.28%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X                         | 11        | 1.28%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                      | 11        | 1.28%   |
 | Suyin HP Truevision HD                                  | 10        | 1.17%   |
 | Microdia Integrated Webcam                              | 10        | 1.17%   |
 | IMC Networks USB2.0 HD UVC WebCam                       | 10        | 1.17%   |
@@ -4037,12 +4037,10 @@ Camera device models
 | Samsung Galaxy series, misc. (MTP mode)                 | 9         | 1.05%   |
 | Chicony HP Truevision HD camera                         | 9         | 1.05%   |
 | Chicony HP Truevision HD                                | 9         | 1.05%   |
-| Bison Lenovo EasyCamera                                 | 9         | 1.05%   |
 | ALi Gateway Webcam                                      | 9         | 1.05%   |
 | Sunplus Integrated_Webcam_HD                            | 8         | 0.93%   |
 | Realtek Integrated Webcam                               | 8         | 0.93%   |
 | Chicony VGA WebCam                                      | 8         | 0.93%   |
-| Chicony TOSHIBA Web Camera - HD                         | 8         | 0.93%   |
 | Chicony Lenovo EasyCamera                               | 8         | 0.93%   |
 | Chicony HP HD Webcam                                    | 8         | 0.93%   |
 | Apple Built-in iSight                                   | 8         | 0.93%   |
@@ -4059,11 +4057,13 @@ Camera device models
 | Chicony HD WebCam                                       | 6         | 0.7%    |
 | Chicony CNF9055 Toshiba Webcam                          | 6         | 0.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 6         | 0.7%    |
-| Bison Integrated Camera                                 | 6         | 0.7%    |
-| Alcor Micro USB 2.0 PC cam                              | 6         | 0.7%    |
+| Bison Lenovo EasyCamera                                 | 6         | 0.7%    |
+| Alcor Micro USB 2.0 Web Camera                          | 6         | 0.7%    |
+| Acer Lenovo EasyCamera                                  | 6         | 0.7%    |
 | Syntek EasyCamera                                       | 5         | 0.58%   |
 | Sunplus HP HD Webcam [Fixed]                            | 5         | 0.58%   |
 | Sunplus HD WebCam                                       | 5         | 0.58%   |
+| Silicon Motion Web Camera                               | 5         | 0.58%   |
 
 Security
 --------
@@ -4185,9 +4185,9 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 1081      | 64.92%  |
-| 1     | 460       | 27.63%  |
-| 2     | 107       | 6.43%   |
-| 3     | 13        | 0.78%   |
+| 1     | 459       | 27.57%  |
+| 2     | 109       | 6.55%   |
+| 3     | 12        | 0.72%   |
 | 4     | 3         | 0.18%   |
 | 7     | 1         | 0.06%   |
 
@@ -4201,14 +4201,14 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 232       | 33.38%  |
-| Fingerprint reader       | 141       | 20.29%  |
-| Net/wireless             | 118       | 16.98%  |
-| Chipcard                 | 58        | 8.35%   |
+| Graphics card            | 232       | 33.33%  |
+| Fingerprint reader       | 141       | 20.26%  |
+| Net/wireless             | 119       | 17.1%   |
+| Chipcard                 | 58        | 8.33%   |
 | Modem                    | 32        | 4.6%    |
-| Communication controller | 23        | 3.31%   |
+| Communication controller | 23        | 3.3%    |
 | Multimedia controller    | 21        | 3.02%   |
-| Storage                  | 17        | 2.45%   |
+| Storage                  | 17        | 2.44%   |
 | Flash memory             | 11        | 1.58%   |
 | Bluetooth                | 11        | 1.58%   |
 | Sound                    | 10        | 1.44%   |

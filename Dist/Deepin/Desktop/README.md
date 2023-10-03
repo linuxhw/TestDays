@@ -1020,7 +1020,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB         | 1        | 0.81%   |
 | WDC WD10EARS-00Y5B1 1TB          | 1        | 0.81%   |
 | Vaseky V800/256G 256GB SSD       | 1        | 0.81%   |
-| Unknown SD/MMC/MS PRO 1GB        | 1        | 0.81%   |
+| Unknown SD/MMC/MS PRO 128GB      | 1        | 0.81%   |
 | Toshiba MQ01ABF050 500GB         | 1        | 0.81%   |
 | Toshiba MQ01ABD075 752GB         | 1        | 0.81%   |
 | Toshiba MK8052GSX 80GB           | 1        | 0.81%   |
@@ -1112,9 +1112,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 43       | 77     | 55.13%  |
-| 0.51-1.0   | 29       | 37     | 37.18%  |
-| 1.01-2.0   | 6        | 9      | 7.69%   |
+| 0.01-0.5   | 43       | 78     | 55.13%  |
+| 0.51-1.0   | 28       | 35     | 35.9%   |
+| 1.01-2.0   | 7        | 10     | 8.97%   |
 
 Space Total
 -----------
@@ -1741,7 +1741,7 @@ Monitor models
 | Xiaomi Mi TV XMD0076 3840x2160 800x450mm 36.1-inch                    | 1        | 1.52%   |
 | ViewSonic VA2430-H-3 VSC3A3E 1920x1080 527x296mm 23.8-inch            | 1        | 1.52%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 1.52%   |
-| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                       | 1        | 1.52%   |
+| Toshiba TV TSB0108 1920x540                                           | 1        | 1.52%   |
 | TFC TF2411 TFC0238 1920x1080 527x296mm 23.8-inch                      | 1        | 1.52%   |
 | SKY 24X1Q SKY2380 2560x1440 520x290mm 23.4-inch                       | 1        | 1.52%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.52%   |
@@ -1751,7 +1751,7 @@ Monitor models
 | Samsung Electronics SMT24A550 SAM07B5 1920x1080 531x299mm 24.0-inch   | 1        | 1.52%   |
 | Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch     | 1        | 1.52%   |
 | Samsung Electronics LCD Monitor SMS23A350H 1920x1080                  | 1        | 1.52%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1        | 1.52%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 890x500mm 40.2-inch | 1        | 1.52%   |
 | Samsung Electronics LCD Monitor SAM0E90 1366x768 609x347mm 27.6-inch  | 1        | 1.52%   |
 | Samsung Electronics LCD Monitor SAM0DF6 3840x2160 890x500mm 40.2-inch | 1        | 1.52%   |
 | Samsung Electronics LCD Monitor S24E390 1920x1080                     | 1        | 1.52%   |
@@ -1770,11 +1770,11 @@ Monitor models
 | HKC PL24V2 HKC0238 1920x1080 527x296mm 23.8-inch                      | 1        | 1.52%   |
 | HKC 27E6QC HKC274F 2560x1440 597x336mm 27.0-inch                      | 1        | 1.52%   |
 | Hisense LCD Monitor HDMI 1360x768                                     | 1        | 1.52%   |
-| Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch          | 1        | 1.52%   |
+| Hewlett-Packard VH240a HPN3499 1920x1080 530x300mm 24.0-inch          | 1        | 1.52%   |
 | Hewlett-Packard Compaq F191 HWP3177 1366x768 410x230mm 18.5-inch      | 1        | 1.52%   |
 | Hewlett-Packard 2511 HWP293E 1920x1080 550x310mm 24.9-inch            | 1        | 1.52%   |
 | Hewlett-Packard 2311 HWP293A 1920x1080 509x286mm 23.0-inch            | 1        | 1.52%   |
-| Hewlett-Packard 22fw HPN3542 1920x1080 476x267mm 21.5-inch            | 1        | 1.52%   |
+| Hewlett-Packard 22f HPN3542 1920x1080 476x267mm 21.5-inch             | 1        | 1.52%   |
 | Goldstar M227WD GSM56D4 1920x1080 476x268mm 21.5-inch                 | 1        | 1.52%   |
 
 Monitor Resolution
@@ -1987,7 +1987,7 @@ Controller models
 | Nvidia MCP61 Ethernet                                             | 1        | 1.06%   |
 | NetGear A6210                                                     | 1        | 1.06%   |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 1.06%   |
-| MediaTek moto g22                                                 | 1        | 1.06%   |
+| MediaTek Infinix SMART 6 HD                                       | 1        | 1.06%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.06%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.06%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.06%   |
@@ -2096,7 +2096,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.43%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.43%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.43%   |
-| MediaTek moto g22                                                 | 1        | 1.43%   |
+| MediaTek Infinix SMART 6 HD                                       | 1        | 1.43%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.43%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.43%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.43%   |
@@ -2203,12 +2203,13 @@ Controller models
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)      | 10       | 47.62%  |
-| Intel Bluetooth Device                                   | 2        | 9.52%   |
 | Realtek Bluetooth Radio                                  | 1        | 4.76%   |
 | Qualcomm Atheros Bluetooth USB Host Controller           | 1        | 4.76%   |
 | MediaTek BT                                              | 1        | 4.76%   |
 | Lite-On Bluetooth Device                                 | 1        | 4.76%   |
+| Intel Wireless-AC 3168 Bluetooth                         | 1        | 4.76%   |
 | Intel Bluetooth wireless interface                       | 1        | 4.76%   |
+| Intel Bluetooth Device                                   | 1        | 4.76%   |
 | Intel AX201 Bluetooth                                    | 1        | 4.76%   |
 | Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 4.76%   |
 | Broadcom HP Portable Bumble Bee                          | 1        | 4.76%   |
@@ -2349,7 +2350,7 @@ Memory module models
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 2.7%    |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s        | 1        | 2.7%    |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 2.7%    |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s        | 1        | 2.7%    |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s        | 1        | 2.7%    |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s   | 1        | 2.7%    |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 2.7%    |
 | Kingston RAM 99U5403-034.A00LF 4GB DIMM 1333MT/s           | 1        | 2.7%    |
@@ -2357,7 +2358,7 @@ Memory module models
 | Kimtigo (HK) Limited RAM Module 8192MB DIMM DDR4 2666MT/s  | 1        | 2.7%    |
 | G.Skill RAM F3-2400C10-8GTX 8GB DIMM DDR3 2400MT/s         | 1        | 2.7%    |
 | G.Skill RAM F3-14900CL10-8GBXL 8GB DIMM DDR3 1867MT/s      | 1        | 2.7%    |
-| CSX RAM V01D3LF4GB26826813 4096MB DIMM DDR3 1333MT/s       | 1        | 2.7%    |
+| CSX RAM V01D3LF4GB26826813 4GB DIMM DDR3 1333MT/s          | 1        | 2.7%    |
 | Corsair RAM CMK8GX4M1A2400C16 8GB DIMM DDR4 2800MT/s       | 1        | 2.7%    |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s      | 1        | 2.7%    |
 | Corsair RAM CMK16GX4M1B3000C15 16GB DIMM DDR4 3400MT/s     | 1        | 2.7%    |
@@ -2498,11 +2499,11 @@ Camera device vendors
 | Vendor                 | Desktops | Percent |
 |------------------------|----------|---------|
 | Logitech               | 6        | 54.55%  |
+| webcamvendor           | 1        | 9.09%   |
 | Microdia               | 1        | 9.09%   |
 | Generalplus Technology | 1        | 9.09%   |
 | Chicony Electronics    | 1        | 9.09%   |
 | Arkmicro Technologies  | 1        | 9.09%   |
-| 2M UVC CAMERA          | 1        | 9.09%   |
 
 Camera Model
 ------------
@@ -2515,13 +2516,13 @@ Camera device models
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
 | Logitech Webcam C270                  | 4        | 36.36%  |
+| webcamvendor webcamproduct            | 1        | 9.09%   |
 | Microdia Integrated_Webcam_HD         | 1        | 9.09%   |
 | Logitech Webcam C200                  | 1        | 9.09%   |
 | Logitech HD Pro Webcam C920           | 1        | 9.09%   |
 | Generalplus CAMERA - UVC              | 1        | 9.09%   |
 | Chicony HP High Definition 1MP Webcam | 1        | 9.09%   |
 | Arkmicro USB2.0 PC CAMERA             | 1        | 9.09%   |
-| 2M UVC CAMERA Web Camera              | 1        | 9.09%   |
 
 Security
 --------

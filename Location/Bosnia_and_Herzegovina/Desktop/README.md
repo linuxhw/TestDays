@@ -1305,10 +1305,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 28       | 48.28%  |
-| IDE  | 25       | 43.1%   |
-| NVMe | 3        | 5.17%   |
-| RAID | 2        | 3.45%   |
+| SATA | 28       | 49.12%  |
+| IDE  | 25       | 43.86%  |
+| NVMe | 3        | 5.26%   |
+| RAID | 1        | 1.75%   |
 
 Processor
 ---------
@@ -1687,11 +1687,11 @@ Monitor models
 
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch   | 2        | 4.08%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch   | 2        | 4.08%   |
 | IBM C170 CRT IBM1A51 1280x1024 310x230mm 15.2-inch                     | 2        | 4.08%   |
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 4.08%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 2.04%   |
-| Vestel Elektronik 40W_LCD_TV VES3700 1920x540                          | 1        | 2.04%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch     | 1        | 2.04%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 2.04%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 2.04%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 2.04%   |
@@ -2107,7 +2107,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2        | 40%     |
-| Intel Bluetooth Device                              | 1        | 20%     |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 20%     |
 | Integrated System Solution Bluetooth Device         | 1        | 20%     |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 UHE Dongle | 1        | 20%     |
 
@@ -2215,7 +2215,7 @@ Memory module models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s                     | 2        | 6.45%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s                     | 2        | 6.45%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                   | 2        | 6.45%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 6.45%   |
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 3.23%   |
@@ -2226,15 +2226,15 @@ Memory module models
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s                    | 1        | 3.23%   |
 | SK hynix RAM HMT351U6CFR8C 4096MB DIMM DDR3 1333MT/s                    | 1        | 3.23%   |
 | SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s                    | 1        | 3.23%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s                     | 1        | 3.23%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM 1867MT/s                          | 1        | 3.23%   |
 | Micron RAM 16HTF25664AY-800G1 2GB DIMM DDR2 800MT/s                     | 1        | 3.23%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s                 | 1        | 3.23%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s                    | 1        | 3.23%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s                       | 1        | 3.23%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s                     | 1        | 3.23%   |
 | Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s                   | 1        | 3.23%   |
 | Kingston RAM 99U5584-009.A00LF 4096MB DIMM DDR3 1600MT/s                | 1        | 3.23%   |
 | Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 3.23%   |
-| Kingston RAM 99U5584-003.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 3.23%   |
+| Kingston RAM 99U5584-003.A00LF 8GB DIMM DDR3 1600MT/s                   | 1        | 3.23%   |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 3.23%   |
 | Kingston RAM 99U5403-067.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 3.23%   |
 | Kingston RAM 9905474-040.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 3.23%   |
@@ -2282,10 +2282,10 @@ Memory module size
 
 | Size | Desktops | Percent |
 |------|----------|---------|
-| 8192 | 8        | 33.33%  |
-| 4096 | 8        | 33.33%  |
-| 2048 | 5        | 20.83%  |
-| 1024 | 3        | 12.5%   |
+| 8192 | 9        | 36%     |
+| 4096 | 8        | 32%     |
+| 2048 | 5        | 20%     |
+| 1024 | 3        | 12%     |
 
 Memory Speed
 ------------
@@ -2428,8 +2428,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 46       | 92%     |
-| 1     | 4        | 8%      |
+| 0     | 45       | 90%     |
+| 1     | 5        | 10%     |
 
 Unsupported Device Types
 ------------------------
@@ -2441,6 +2441,6 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 3        | 75%     |
-| Communication controller | 1        | 25%     |
+| Graphics card            | 4        | 80%     |
+| Communication controller | 1        | 20%     |
 

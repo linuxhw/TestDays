@@ -734,9 +734,9 @@ Motherboard manufacture year
 | 2010 | 8         | 8.7%    |
 | 2008 | 8         | 8.7%    |
 | 2020 | 6         | 6.52%   |
-| 2019 | 6         | 6.52%   |
+| 2019 | 5         | 5.43%   |
+| 2016 | 5         | 5.43%   |
 | 2021 | 4         | 4.35%   |
-| 2016 | 4         | 4.35%   |
 | 2009 | 3         | 3.26%   |
 | 2017 | 2         | 2.17%   |
 | 2015 | 2         | 2.17%   |
@@ -1173,12 +1173,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 52        | 63     | 53.06%  |
-| 0.51-1.0   | 36        | 40     | 36.73%  |
-| 1.01-2.0   | 6         | 6      | 6.12%   |
-| 2.01-3.0   | 2         | 3      | 2.04%   |
-| 3.01-4.0   | 1         | 1      | 1.02%   |
-| 4.01-10.0  | 1         | 2      | 1.02%   |
+| 0.01-0.5   | 51        | 62     | 52.58%  |
+| 0.51-1.0   | 36        | 41     | 37.11%  |
+| 1.01-2.0   | 6         | 6      | 6.19%   |
+| 2.01-3.0   | 2         | 3      | 2.06%   |
+| 3.01-4.0   | 1         | 1      | 1.03%   |
+| 4.01-10.0  | 1         | 2      | 1.03%   |
 
 Space Total
 -----------
@@ -1807,7 +1807,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 2         | 2.02%   |
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1         | 1.01%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1         | 1.01%   |
-| Vestel Elektronik 40W_LCD_TV VES3700 1920x540                         | 1         | 1.01%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch    | 1         | 1.01%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                             | 1         | 1.01%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1         | 1.01%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                   | 1         | 1.01%   |
@@ -1816,10 +1816,10 @@ Monitor models
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1         | 1.01%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch     | 1         | 1.01%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch     | 1         | 1.01%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 1.01%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 1.01%   |
-| Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch  | 1         | 1.01%   |
+| Samsung Electronics LCD Monitor SEC3942 1280x800 261x163mm 12.1-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch  | 1         | 1.01%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch  | 1         | 1.01%   |
@@ -1839,7 +1839,7 @@ Monitor models
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch           | 1         | 1.01%   |
 | LG Display LCD Monitor LGD037C 1366x768 310x174mm 14.0-inch           | 1         | 1.01%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 1         | 1.01%   |
-| LG Display LCD Monitor LGD02AC 1366x768 344x194mm 15.5-inch           | 1         | 1.01%   |
+| LG Display LCD Monitor LGD02AC 1366x768 340x190mm 15.3-inch           | 1         | 1.01%   |
 | LG Display LCD Monitor LGD024F 1280x800 260x160mm 12.0-inch           | 1         | 1.01%   |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch               | 1         | 1.01%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.01%   |
@@ -2206,7 +2206,7 @@ Ethernet models
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                        | 1         | 1.16%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.16%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.16%   |
-| Qualcomm Coolpad                                                  | 1         | 1.16%   |
+| Qualcomm MDM9207-MTP _SN:F0A6D599                                 | 1         | 1.16%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.16%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.16%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.16%   |
@@ -2336,8 +2336,8 @@ Controller models
 | Toshiba Bluetooth Device                            | 1         | 1.72%   |
 | Realtek Bluetooth Radio                             | 1         | 1.72%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 1.72%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.72%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 1.72%   |
-| Intel Bluetooth Device                              | 1         | 1.72%   |
 | Intel AX210 Bluetooth                               | 1         | 1.72%   |
 | Integrated System Solution Bluetooth Device         | 1         | 1.72%   |
 | IMC Networks Bluetooth USB Host Controller          | 1         | 1.72%   |
@@ -2472,8 +2472,8 @@ Memory module models
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                      | 1         | 2.27%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                     | 1         | 2.27%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                     | 1         | 2.27%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s                        | 1         | 2.27%   |
@@ -2482,7 +2482,7 @@ Memory module models
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s                      | 1         | 2.27%   |
-| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s                     | 1         | 2.27%   |
+| Samsung RAM M471A2K43DB1-CWE 16384MB SODIMM DDR4 3200MT/s                  | 1         | 2.27%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s                      | 1         | 2.27%   |
@@ -2671,7 +2671,7 @@ Camera device models
 | Microdia Integrated Webcam                                            | 2         | 4%      |
 | Huawei HiCamera                                                       | 2         | 4%      |
 | Chicony Integrated Camera                                             | 2         | 4%      |
-| Z-Star Vimicro USB Camera (Altair)                                    | 1         | 2%      |
+| Z-Star A4 tech USB2.0 Camera                                          | 1         | 2%      |
 | Suyin WebCam                                                          | 1         | 2%      |
 | Suyin HP Truevision HD                                                | 1         | 2%      |
 | Suyin Asus Integrated Webcam                                          | 1         | 2%      |
@@ -2696,8 +2696,8 @@ Camera device models
 | IMC Networks USB2.0 UVC HD Webcam                                     | 1         | 2%      |
 | IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 2%      |
 | Cubeternet HDMI to U3 capture                                         | 1         | 2%      |
+| Chicony Web Camera - HD                                               | 1         | 2%      |
 | Chicony USB 2.0 Camera                                                | 1         | 2%      |
-| Chicony TOSHIBA Web Camera - HD                                       | 1         | 2%      |
 | Chicony Lenovo EasyCamera                                             | 1         | 2%      |
 | Chicony HP Wide Vision HD Camera                                      | 1         | 2%      |
 | Chicony HP Webcam [2 MP Macro]                                        | 1         | 2%      |
@@ -2705,7 +2705,7 @@ Camera device models
 | Chicony HP HD Camera                                                  | 1         | 2%      |
 | Chicony HD WebCam                                                     | 1         | 2%      |
 | Chicony EasyCamera                                                    | 1         | 2%      |
-| Bison Integrated Camera                                               | 1         | 2%      |
+| Bison HP TrueVision HD Webcam                                         | 1         | 2%      |
 
 Security
 --------

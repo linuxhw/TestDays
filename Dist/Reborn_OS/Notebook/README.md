@@ -726,12 +726,12 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2019 | 10        | 13.7%   |
+| 2012 | 10        | 13.7%   |
 | 2011 | 10        | 13.7%   |
-| 2012 | 9         | 12.33%  |
 | 2018 | 8         | 10.96%  |
 | 2020 | 6         | 8.22%   |
-| 2013 | 6         | 8.22%   |
 | 2021 | 5         | 6.85%   |
+| 2013 | 5         | 6.85%   |
 | 2009 | 5         | 6.85%   |
 | 2016 | 4         | 5.48%   |
 | 2015 | 3         | 4.11%   |
@@ -1008,48 +1008,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                  | Notebooks | Percent |
-|----------------------------------------|-----------|---------|
-| Unknown MMC Card  64GB                 | 4         | 4.44%   |
-| Kingston SA400S37480G 480GB SSD        | 3         | 3.33%   |
-| Intel NVMe SSD Drive 512GB             | 3         | 3.33%   |
-| HGST HTS725050A7E630 500GB             | 3         | 3.33%   |
-| WDC WD10JPVT-08A1YT2 1TB               | 2         | 2.22%   |
-| SK hynix NVMe SSD Drive 256GB          | 2         | 2.22%   |
-| Seagate ST9500325AS 500GB              | 2         | 2.22%   |
-| Seagate ST500LT012-1DG142 500GB        | 2         | 2.22%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB     | 2         | 2.22%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD       | 1         | 1.11%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD       | 1         | 1.11%   |
-| WDC WD7500LPCX-60HWST0 752GB           | 1         | 1.11%   |
-| WDC WD5000LPVX-22V0TT0 500GB           | 1         | 1.11%   |
-| WDC WD5000LPCX-00VHAT0 500GB           | 1         | 1.11%   |
-| WDC WD3200BEVT-22ZCT0 320GB            | 1         | 1.11%   |
-| WDC WD10SPZX-22Z10T0 1TB               | 1         | 1.11%   |
-| WDC WD10JPVX-60JC3T0 1TB               | 1         | 1.11%   |
-| WDC WD10JPVX-22JC3T0 1TB               | 1         | 1.11%   |
-| WDC WD10JPCX-24UE4T0 1TB               | 1         | 1.11%   |
-| Unknown SD/MMC/MS PRO 1GB              | 1         | 1.11%   |
-| Transcend TS1TSSD230S 1TB              | 1         | 1.11%   |
-| Transcend TS128GMSA370 128GB SSD       | 1         | 1.11%   |
-| Toshiba XG6 NVMe SSD Controller 1024GB | 1         | 1.11%   |
-| Toshiba TR200 240GB SSD                | 1         | 1.11%   |
-| Toshiba NVMe SSD Drive 512GB           | 1         | 1.11%   |
-| Toshiba MQ01ABD100M 1TB                | 1         | 1.11%   |
-| Toshiba MQ01ABD075 752GB               | 1         | 1.11%   |
-| Toshiba MK5065GSXN 500GB               | 1         | 1.11%   |
-| Toshiba MK3265GSX 320GB                | 1         | 1.11%   |
-| Toshiba KBG30ZMS256G NVMe 256GB        | 1         | 1.11%   |
-| SPCC Solid State Disk 256GB            | 1         | 1.11%   |
-| SK hynix PC711 NVMe 1TB                | 1         | 1.11%   |
-| Seagate ST9500420AS 500GB              | 1         | 1.11%   |
-| Seagate ST9320423AS 320GB              | 1         | 1.11%   |
-| Seagate ST500LT012-9WS142 500GB        | 1         | 1.11%   |
-| Seagate ST1000LX015-1U7172 1TB         | 1         | 1.11%   |
-| Seagate ST1000LM035-1RK1 1TB           | 1         | 1.11%   |
-| Seagate Expansion 2TB                  | 1         | 1.11%   |
-| SanDisk SSD PLUS 240 GB                | 1         | 1.11%   |
-| SanDisk SD9SN8W512G1002 512GB SSD      | 1         | 1.11%   |
+| Model                                 | Notebooks | Percent |
+|---------------------------------------|-----------|---------|
+| Unknown MMC Card  64GB                | 4         | 4.44%   |
+| Kingston SA400S37480G 480GB SSD       | 3         | 3.33%   |
+| Intel NVMe SSD Drive 512GB            | 3         | 3.33%   |
+| HGST HTS725050A7E630 500GB            | 3         | 3.33%   |
+| WDC WD10JPVT-08A1YT2 1TB              | 2         | 2.22%   |
+| SK hynix NVMe SSD Drive 256GB         | 2         | 2.22%   |
+| Seagate ST9500325AS 500GB             | 2         | 2.22%   |
+| Seagate ST500LT012-1DG142 500GB       | 2         | 2.22%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB    | 2         | 2.22%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD      | 1         | 1.11%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD      | 1         | 1.11%   |
+| WDC WD7500LPCX-60HWST0 752GB          | 1         | 1.11%   |
+| WDC WD5000LPVX-22V0TT0 500GB          | 1         | 1.11%   |
+| WDC WD5000LPCX-00VHAT0 500GB          | 1         | 1.11%   |
+| WDC WD3200BEVT-22ZCT0 320GB           | 1         | 1.11%   |
+| WDC WD10SPZX-22Z10T0 1TB              | 1         | 1.11%   |
+| WDC WD10JPVX-60JC3T0 1TB              | 1         | 1.11%   |
+| WDC WD10JPVX-22JC3T0 1TB              | 1         | 1.11%   |
+| WDC WD10JPCX-24UE4T0 1TB              | 1         | 1.11%   |
+| Unknown SD/MMC/MS PRO 128GB           | 1         | 1.11%   |
+| Transcend TS1TSSD230S 1TB             | 1         | 1.11%   |
+| Transcend TS128GMSA370 128GB SSD      | 1         | 1.11%   |
+| Toshiba XG6 NVMe SSD Controller 512GB | 1         | 1.11%   |
+| Toshiba TR200 240GB SSD               | 1         | 1.11%   |
+| Toshiba NVMe SSD Drive 512GB          | 1         | 1.11%   |
+| Toshiba MQ01ABD100M 1TB               | 1         | 1.11%   |
+| Toshiba MQ01ABD075 752GB              | 1         | 1.11%   |
+| Toshiba MK5065GSXN 500GB              | 1         | 1.11%   |
+| Toshiba MK3265GSX 320GB               | 1         | 1.11%   |
+| Toshiba KBG30ZMS256G NVMe 256GB       | 1         | 1.11%   |
+| SPCC Solid State Disk 256GB           | 1         | 1.11%   |
+| SK hynix PC711 NVMe 1TB               | 1         | 1.11%   |
+| Seagate ST9500420AS 500GB             | 1         | 1.11%   |
+| Seagate ST9320423AS 320GB             | 1         | 1.11%   |
+| Seagate ST500LT012-9WS142 500GB       | 1         | 1.11%   |
+| Seagate ST1000LX015-1U7172 1TB        | 1         | 1.11%   |
+| Seagate ST1000LM035-1RK1 1TB          | 1         | 1.11%   |
+| Seagate Expansion 1TB                 | 1         | 1.11%   |
+| SanDisk SSD PLUS 240 GB               | 1         | 1.11%   |
+| SanDisk SD9SN8W512G1002 512GB SSD     | 1         | 1.11%   |
 
 HDD Vendor
 ----------
@@ -1132,9 +1132,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 44     | 64.06%  |
-| 0.51-1.0   | 22        | 25     | 34.38%  |
-| 1.01-2.0   | 1         | 1      | 1.56%   |
+| 0.01-0.5   | 41        | 44     | 65.08%  |
+| 0.51-1.0   | 22        | 26     | 34.92%  |
 
 Space Total
 -----------
@@ -1686,15 +1685,15 @@ Monitor models
 | Sharp LCD Monitor SHP14AD 3840x2160 294x165mm 13.3-inch                  | 1         | 1.22%   |
 | Samsung Electronics SyncMaster SAM037B 1680x1050 474x296mm 22.0-inch     | 1         | 1.22%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 1.22%   |
-| Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch    | 1         | 1.22%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 1         | 1.22%   |
+| Samsung Electronics SMS22A300B SAM078E 1920x1080 477x268mm 21.5-inch     | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch     | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch     | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SEC3551 1366x768 344x194mm 15.5-inch     | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch     | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SDC464C 1366x768 309x174mm 14.0-inch     | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SDC4150 3456x2160 336x210mm 15.6-inch    | 1         | 1.22%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 480x270mm 21.7-inch    | 1         | 1.22%   |
-| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                         | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch    | 1         | 1.22%   |
+| MStar Demo MST0030 1360x765 1150x650mm 52.0-inch                         | 1         | 1.22%   |
 | LG Display LCD Monitor LGD1325 1600x900 382x215mm 17.3-inch              | 1         | 1.22%   |
 | LG Display LCD Monitor LGD05FF 1920x1080 344x194mm 15.5-inch             | 1         | 1.22%   |
 | LG Display LCD Monitor LGD05F3 1920x1080 309x174mm 14.0-inch             | 1         | 1.22%   |
@@ -1709,13 +1708,13 @@ Monitor models
 | LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch             | 1         | 1.22%   |
 | Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 1.22%   |
 | InfoVision LCD Monitor IVO0579 1366x768 310x170mm 13.9-inch              | 1         | 1.22%   |
-| Hewlett-Packard LA2205 HWP2847 1680x1050 473x296mm 22.0-inch             | 1         | 1.22%   |
+| Hewlett-Packard LA2205 HWP2847 1680x1050 470x300mm 22.0-inch             | 1         | 1.22%   |
 | Goldstar 27EA63 GSM598B 1920x1080 600x340mm 27.2-inch                    | 1         | 1.22%   |
 | Dell ST2220L DELA065 1920x1080 477x268mm 21.5-inch                       | 1         | 1.22%   |
 | CSO LCD Monitor CSO1602 2560x1600 344x215mm 16.0-inch                    | 1         | 1.22%   |
+| Chimei Innolux P140ZKA-BZ1 CMN8C03 2160x1440 296x197mm 14.0-inch         | 1         | 1.22%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch         | 1         | 1.22%   |
 | Chimei Innolux LCD Monitor CMN15C9 1366x768 344x193mm 15.5-inch          | 1         | 1.22%   |
-| Chimei Innolux LCD Monitor CMN15C4 1920x1080 344x193mm 15.5-inch         | 1         | 1.22%   |
 
 Monitor Resolution
 ------------------
@@ -1905,7 +1904,7 @@ Controller models
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 1.39%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 0.69%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1         | 0.69%   |
-| Spreadtrum Spreadtrum Phone                                       | 1         | 0.69%   |
+| Spreadtrum realme Phone                                           | 1         | 0.69%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 0.69%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1         | 0.69%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1         | 0.69%   |
@@ -1929,17 +1928,16 @@ Wireless vendors
 ![Wireless Vendor](./images/pie_chart/net_wireless_vendor.svg)
 
 
-| Vendor                            | Notebooks | Percent |
-|-----------------------------------|-----------|---------|
-| Intel                             | 33        | 42.86%  |
-| Qualcomm Atheros                  | 22        | 28.57%  |
-| Realtek Semiconductor             | 12        | 15.58%  |
-| Broadcom                          | 5         | 6.49%   |
-| TP-Link                           | 1         | 1.3%    |
-| Ralink Technology                 | 1         | 1.3%    |
-| Ralink                            | 1         | 1.3%    |
-| Ericsson Business Mobile Networks | 1         | 1.3%    |
-| Broadcom Limited                  | 1         | 1.3%    |
+| Vendor                | Notebooks | Percent |
+|-----------------------|-----------|---------|
+| Intel                 | 33        | 43.42%  |
+| Qualcomm Atheros      | 22        | 28.95%  |
+| Realtek Semiconductor | 12        | 15.79%  |
+| Broadcom              | 5         | 6.58%   |
+| TP-Link               | 1         | 1.32%   |
+| Ralink Technology     | 1         | 1.32%   |
+| Ralink                | 1         | 1.32%   |
+| Broadcom Limited      | 1         | 1.32%   |
 
 Wireless Model
 --------------
@@ -1951,45 +1949,44 @@ Wireless models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 6         | 7.69%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 6         | 7.69%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter               | 5         | 6.41%   |
-| Intel Centrino Ultimate-N 6300                                 | 5         | 6.41%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 4         | 5.13%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 4         | 5.13%   |
-| Intel Wi-Fi 6 AX200                                            | 4         | 5.13%   |
-| Intel Gemini Lake PCH CNVi WiFi                                | 3         | 3.85%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 3         | 3.85%   |
-| Broadcom BCM43142 802.11b/g/n                                  | 3         | 3.85%   |
-| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter       | 2         | 2.56%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                | 2         | 2.56%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 2         | 2.56%   |
-| Intel Wireless 8265 / 8275                                     | 2         | 2.56%   |
-| Intel Wireless 7265                                            | 2         | 2.56%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 2.56%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 1.28%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 1.28%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1         | 1.28%   |
-| Realtek RTL8188EE Wireless Network Adapter                     | 1         | 1.28%   |
-| Ralink MT7601U Wireless Adapter                                | 1         | 1.28%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                      | 1         | 1.28%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 1         | 1.28%   |
-| Intel Wireless-AC 9260                                         | 1         | 1.28%   |
-| Intel Wireless 7260                                            | 1         | 1.28%   |
-| Intel Tiger Lake PCH CNVi WiFi                                 | 1         | 1.28%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection        | 1         | 1.28%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                | 1         | 1.28%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                              | 1         | 1.28%   |
-| Intel Comet Lake PCH CNVi WiFi                                 | 1         | 1.28%   |
-| Intel Centrino Wireless-N 2230                                 | 1         | 1.28%   |
-| Intel Centrino Wireless-N 2200                                 | 1         | 1.28%   |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                  | 1         | 1.28%   |
-| Intel Centrino Advanced-N 6235                                 | 1         | 1.28%   |
-| Intel Centrino Advanced-N 6200                                 | 1         | 1.28%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                       | 1         | 1.28%   |
-| Intel Cannon Lake PCH CNVi WiFi                                | 1         | 1.28%   |
-| Ericsson Business Mobile Networks N5321 gw                     | 1         | 1.28%   |
-| Broadcom Limited BCM4312 802.11b/g LP-PHY                      | 1         | 1.28%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 6         | 7.79%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 6         | 7.79%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter               | 5         | 6.49%   |
+| Intel Centrino Ultimate-N 6300                                 | 5         | 6.49%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 4         | 5.19%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 4         | 5.19%   |
+| Intel Wi-Fi 6 AX200                                            | 4         | 5.19%   |
+| Intel Gemini Lake PCH CNVi WiFi                                | 3         | 3.9%    |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 3         | 3.9%    |
+| Broadcom BCM43142 802.11b/g/n                                  | 3         | 3.9%    |
+| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter       | 2         | 2.6%    |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                | 2         | 2.6%    |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 2         | 2.6%    |
+| Intel Wireless 8265 / 8275                                     | 2         | 2.6%    |
+| Intel Wireless 7265                                            | 2         | 2.6%    |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 2.6%    |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 1.3%    |
+| Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 1.3%    |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1         | 1.3%    |
+| Realtek RTL8188EE Wireless Network Adapter                     | 1         | 1.3%    |
+| Ralink MT7601U Wireless Adapter                                | 1         | 1.3%    |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                      | 1         | 1.3%    |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 1         | 1.3%    |
+| Intel Wireless-AC 9260                                         | 1         | 1.3%    |
+| Intel Wireless 7260                                            | 1         | 1.3%    |
+| Intel Tiger Lake PCH CNVi WiFi                                 | 1         | 1.3%    |
+| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection        | 1         | 1.3%    |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                | 1         | 1.3%    |
+| Intel Comet Lake PCH-LP CNVi WiFi                              | 1         | 1.3%    |
+| Intel Comet Lake PCH CNVi WiFi                                 | 1         | 1.3%    |
+| Intel Centrino Wireless-N 2230                                 | 1         | 1.3%    |
+| Intel Centrino Wireless-N 2200                                 | 1         | 1.3%    |
+| Intel Centrino Wireless-N 1030 [Rainbow Peak]                  | 1         | 1.3%    |
+| Intel Centrino Advanced-N 6235                                 | 1         | 1.3%    |
+| Intel Centrino Advanced-N 6200                                 | 1         | 1.3%    |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                       | 1         | 1.3%    |
+| Intel Cannon Lake PCH CNVi WiFi                                | 1         | 1.3%    |
+| Broadcom Limited BCM4312 802.11b/g LP-PHY                      | 1         | 1.3%    |
 
 Ethernet Vendor
 ---------------
@@ -2029,7 +2026,7 @@ Ethernet models
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 3.08%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 3.08%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 1.54%   |
-| Spreadtrum Spreadtrum Phone                                       | 1         | 1.54%   |
+| Spreadtrum realme Phone                                           | 1         | 1.54%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 1.54%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.54%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.54%   |
@@ -2053,9 +2050,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 73        | 54.48%  |
-| Ethernet | 60        | 44.78%  |
-| Modem    | 1         | 0.75%   |
+| WiFi     | 73        | 54.07%  |
+| Ethernet | 60        | 44.44%  |
+| Modem    | 2         | 1.48%   |
 
 Used Controller
 ---------------
@@ -2130,7 +2127,7 @@ Controller models
 
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
-| Realtek Bluetooth Radio                           | 7         | 13.21%  |
+| Realtek Bluetooth Radio                           | 6         | 11.32%  |
 | Intel Bluetooth wireless interface                | 6         | 11.32%  |
 | Qualcomm Atheros  Bluetooth Device                | 4         | 7.55%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 4         | 7.55%   |
@@ -2140,6 +2137,7 @@ Controller models
 | Intel Centrino Bluetooth Wireless Transceiver     | 2         | 3.77%   |
 | HP Broadcom 2070 Bluetooth Combo                  | 2         | 3.77%   |
 | Dell BCM20702A0 Bluetooth Module                  | 2         | 3.77%   |
+| Realtek RTL8723B Bluetooth                        | 1         | 1.89%   |
 | Realtek  Bluetooth 4.2 Adapter                    | 1         | 1.89%   |
 | Qualcomm Atheros Bluetooth USB Host Controller    | 1         | 1.89%   |
 | Qualcomm Atheros AR3011 Bluetooth                 | 1         | 1.89%   |
@@ -2261,8 +2259,8 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM 800MT/s                            | 1         | 6.25%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 6.25%   |
-| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s            | 1         | 6.25%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 6.25%   |
+| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s             | 1         | 6.25%   |
 | Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s            | 1         | 6.25%   |
 | SK hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 6.25%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 6.25%   |
@@ -2397,19 +2395,19 @@ Camera device vendors
 | Microdia                               | 12        | 17.14%  |
 | Realtek Semiconductor                  | 9         | 12.86%  |
 | IMC Networks                           | 7         | 10%     |
-| Acer                                   | 5         | 7.14%   |
+| Acer                                   | 6         | 8.57%   |
 | Syntek                                 | 3         | 4.29%   |
 | Suyin                                  | 3         | 4.29%   |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 4.29%   |
 | Sunplus Innovation Technology          | 2         | 2.86%   |
 | Quanta                                 | 2         | 2.86%   |
-| Bison Electronics                      | 2         | 2.86%   |
 | Samsung Electronics                    | 1         | 1.43%   |
 | Ricoh                                  | 1         | 1.43%   |
 | Logitech                               | 1         | 1.43%   |
 | Lite-On Technology                     | 1         | 1.43%   |
 | Lenovo                                 | 1         | 1.43%   |
 | Cubeternet                             | 1         | 1.43%   |
+| Bison Electronics                      | 1         | 1.43%   |
 | Alcor Micro                            | 1         | 1.43%   |
 
 Camera Model
@@ -2431,6 +2429,7 @@ Camera device models
 | Realtek Integrated_Webcam_HD                            | 2         | 2.86%   |
 | IMC Networks Integrated Camera                          | 2         | 2.86%   |
 | Chicony Integrated HP HD Webcam                         | 2         | 2.86%   |
+| Acer Lenovo EasyCamera                                  | 2         | 2.86%   |
 | Syntek Lenovo EasyCamera                                | 1         | 1.43%   |
 | Suyin Sony Visual Communication Camera                  | 1         | 1.43%   |
 | Suyin Lenovo EasyCamera                                 | 1         | 1.43%   |
@@ -2461,7 +2460,6 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam                       | 1         | 1.43%   |
 | IMC Networks Lenovo EasyCamera                          | 1         | 1.43%   |
 | IMC Networks EasyCamera                                 | 1         | 1.43%   |
-| Cubeternet USB2.0 Camera                                | 1         | 1.43%   |
 
 Security
 --------
@@ -2542,8 +2540,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 43        | 58.9%   |
-| 1     | 25        | 34.25%  |
+| 0     | 44        | 60.27%  |
+| 1     | 24        | 32.88%  |
 | 2     | 5         | 6.85%   |
 
 Unsupported Device Types
@@ -2556,11 +2554,11 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 13        | 36.11%  |
-| Net/wireless          | 6         | 16.67%  |
-| Chipcard              | 6         | 16.67%  |
-| Graphics card         | 5         | 13.89%  |
-| Multimedia controller | 3         | 8.33%   |
-| Storage               | 2         | 5.56%   |
-| Camera                | 1         | 2.78%   |
+| Fingerprint reader    | 13        | 37.14%  |
+| Net/wireless          | 6         | 17.14%  |
+| Chipcard              | 6         | 17.14%  |
+| Graphics card         | 4         | 11.43%  |
+| Multimedia controller | 3         | 8.57%   |
+| Storage               | 2         | 5.71%   |
+| Camera                | 1         | 2.86%   |
 

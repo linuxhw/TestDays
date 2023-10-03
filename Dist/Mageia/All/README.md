@@ -1177,7 +1177,7 @@ Hard drive models
 | Seagate ST32000644NS 2TB         | 2         | 0.89%   |
 | Seagate ST1000DM003-1CH162 1TB   | 2         | 0.89%   |
 | SanDisk SDSSDA120G 120GB         | 2         | 0.89%   |
-| SanDisk Extreme SSD 500GB        | 2         | 0.89%   |
+| SanDisk Extreme SSD 1TB          | 2         | 0.89%   |
 | Samsung NVMe SSD Drive 500GB     | 2         | 0.89%   |
 | PNY CS900 120GB SSD              | 2         | 0.89%   |
 | OCZ-VERTEX PLUS R2 128GB SSD     | 2         | 0.89%   |
@@ -1293,9 +1293,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 72        | 134    | 49.32%  |
-| 0.51-1.0   | 40        | 98     | 27.4%   |
-| 1.01-2.0   | 18        | 35     | 12.33%  |
+| 0.01-0.5   | 73        | 134    | 50%     |
+| 0.51-1.0   | 42        | 108    | 28.77%  |
+| 1.01-2.0   | 15        | 25     | 10.27%  |
 | 3.01-4.0   | 6         | 8      | 4.11%   |
 | 2.01-3.0   | 6         | 30     | 4.11%   |
 | 4.01-10.0  | 3         | 6      | 2.05%   |
@@ -1976,48 +1976,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Computers | Percent |
-|------------------------------------------------------------------------|-----------|---------|
-| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                    | 4         | 3.1%    |
-| Samsung Electronics LCD Monitor SAM07C5 1920x1080 1210x680mm 54.6-inch | 2         | 1.55%   |
-| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                  | 2         | 1.55%   |
-| AU Optronics LCD Monitor AUO8074 1280x800 331x207mm 15.4-inch          | 2         | 1.55%   |
-| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch       | 2         | 1.55%   |
-| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch  | 2         | 1.55%   |
-| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch          | 1         | 0.78%   |
-| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch            | 1         | 0.78%   |
-| ViewSonic LCD Monitor VP2468 Series 3520x1080                          | 1         | 0.78%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                  | 1         | 0.78%   |
-| Sony TV SNYF301 1920x1080                                              | 1         | 0.78%   |
-| Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                          | 1         | 0.78%   |
-| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                     | 1         | 0.78%   |
-| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                | 1         | 0.78%   |
-| Sharp LCD Monitor SHP1461 3200x1800 294x165mm 13.3-inch                | 1         | 0.78%   |
-| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch   | 1         | 0.78%   |
-| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch    | 1         | 0.78%   |
-| Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch     | 1         | 0.78%   |
-| Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch     | 1         | 0.78%   |
-| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1         | 0.78%   |
-| Samsung Electronics LS27A80 SAM7184 3840x2160 597x336mm 27.0-inch      | 1         | 0.78%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch   | 1         | 0.78%   |
-| Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch  | 1         | 0.78%   |
-| Samsung Electronics LCD Monitor SEC314F 1600x900 382x215mm 17.3-inch   | 1         | 0.78%   |
-| Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch  | 1         | 0.78%   |
-| Samsung Electronics LCD Monitor S24D330 3840x1080                      | 1         | 0.78%   |
-| Samsung Electronics LCD Monitor S24D330                                | 1         | 0.78%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1         | 0.78%   |
-| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                 | 1         | 0.78%   |
-| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch               | 1         | 0.78%   |
-| PKB LCD Monitor Viseo223DX 1920x1080                                   | 1         | 0.78%   |
-| Philips PHL 436M6VBP PHLC179 3840x2160 940x530mm 42.5-inch             | 1         | 0.78%   |
-| Philips LCD Monitor FTV                                                | 1         | 0.78%   |
-| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                     | 1         | 0.78%   |
-| Onkyo LCD Monitor TX-SR608 5760x2160                                   | 1         | 0.78%   |
-| Onkyo LCD Monitor TX-SR608                                             | 1         | 0.78%   |
-| Onkyo LCD Monitor AV Receiver 5760x2160                                | 1         | 0.78%   |
-| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                  | 1         | 0.78%   |
-| LG Electronics LCD Monitor LG HDR 4K 5760x2160                         | 1         | 0.78%   |
-| LG Electronics LCD Monitor LG FULL HD 1920x1080                        | 1         | 0.78%   |
+| Model                                                                 | Computers | Percent |
+|-----------------------------------------------------------------------|-----------|---------|
+| SNC PHOTO 190V SNC1850 1366x768 409x230mm 18.5-inch                   | 4         | 3.1%    |
+| Samsung Electronics LCD Monitor SAM07C5 1920x1080 700x390mm 31.5-inch | 2         | 1.55%   |
+| Goldstar 27EA33 GSM59BC 1920x1080 598x337mm 27.0-inch                 | 2         | 1.55%   |
+| AU Optronics LCD Monitor AUO8074 1280x800 331x207mm 15.4-inch         | 2         | 1.55%   |
+| Ancor Communications PA248 ACI24B1 1920x1200 546x352mm 25.6-inch      | 2         | 1.55%   |
+| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch | 2         | 1.55%   |
+| ViewSonic VA903-3Series VSC701E 1280x1024 376x301mm 19.0-inch         | 1         | 0.78%   |
+| ViewSonic LCD Monitor VSC6C2E 1920x1080 520x290mm 23.4-inch           | 1         | 0.78%   |
+| ViewSonic LCD Monitor VP2468 Series 3520x1080                         | 1         | 0.78%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                 | 1         | 0.78%   |
+| Sony TV SNYF301 1920x1080                                             | 1         | 0.78%   |
+| Sony TV SNYDC02 1920x1080 930x523mm 42.0-inch                         | 1         | 0.78%   |
+| Sony SDM-X72 SNY1E70 1280x1024 338x270mm 17.0-inch                    | 1         | 0.78%   |
+| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 0.78%   |
+| Sharp LCD Monitor SHP1461 3200x1800 294x165mm 13.3-inch               | 1         | 0.78%   |
+| Samsung Electronics SyncMaster SAM0612 1920x1080 604x342mm 27.3-inch  | 1         | 0.78%   |
+| Samsung Electronics SyncMaster SAM0471 1360x768 344x194mm 15.5-inch   | 1         | 0.78%   |
+| Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch    | 1         | 0.78%   |
+| Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch    | 1         | 0.78%   |
+| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch     | 1         | 0.78%   |
+| Samsung Electronics LS27A80 SAM7184 3840x2160 597x336mm 27.0-inch     | 1         | 0.78%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 0.78%   |
+| Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch | 1         | 0.78%   |
+| Samsung Electronics LCD Monitor SEC314F 1600x900 382x215mm 17.3-inch  | 1         | 0.78%   |
+| Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 0.78%   |
+| Samsung Electronics LCD Monitor S24D330 3840x1080                     | 1         | 0.78%   |
+| Samsung Electronics LCD Monitor S24D330                               | 1         | 0.78%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 0.78%   |
+| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                | 1         | 0.78%   |
+| QBell QB.19F-4WLHGB QBL3EC6 1440x900 410x257mm 19.1-inch              | 1         | 0.78%   |
+| PKB LCD Monitor Viseo223DX 1920x1080                                  | 1         | 0.78%   |
+| Philips PHL 436M6VBP PHLC179 3840x2160 940x530mm 42.5-inch            | 1         | 0.78%   |
+| Philips LCD Monitor FTV                                               | 1         | 0.78%   |
+| Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                    | 1         | 0.78%   |
+| Onkyo LCD Monitor TX-SR608 5760x2160                                  | 1         | 0.78%   |
+| Onkyo LCD Monitor TX-SR608                                            | 1         | 0.78%   |
+| Onkyo LCD Monitor AV Receiver 5760x2160                               | 1         | 0.78%   |
+| Medion MD 20122 MED3601 1680x1050 474x296mm 22.0-inch                 | 1         | 0.78%   |
+| LG Electronics LCD Monitor LG HDR 4K 5760x2160                        | 1         | 0.78%   |
+| LG Electronics LCD Monitor LG FULL HD 1920x1080                       | 1         | 0.78%   |
 
 Monitor Resolution
 ------------------
@@ -2506,7 +2506,7 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 12        | 20%     |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 9         | 15%     |
-| Intel Bluetooth Device                              | 4         | 6.67%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 4         | 6.67%   |
 | Intel AX200 Bluetooth                               | 4         | 6.67%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 5%      |
 | Realtek Bluetooth Radio                             | 2         | 3.33%   |
@@ -2664,8 +2664,8 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                     | 1         | 1.27%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 1.27%   |
 | Unknown RAM Module 2048MB DIMM 667MT/s                           | 1         | 1.27%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 1.27%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 1         | 1.27%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s   | 1         | 1.27%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 1.27%   |
 | Team RAM Elite-16 8GB DIMM DDR3 1600MT/s                         | 1         | 1.27%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                       | 1         | 1.27%   |
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s            | 1         | 1.27%   |
@@ -2684,7 +2684,7 @@ Memory module models
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 1.27%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.27%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.27%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s             | 1         | 1.27%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s         | 1         | 1.27%   |
 | Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3600MT/s             | 1         | 1.27%   |
 
 Memory Kind
@@ -2851,14 +2851,13 @@ Camera device vendors
 | Cheng Uei Precision Industry (Foxlink) | 2         | 4.17%   |
 | Apple                                  | 2         | 4.17%   |
 | Alcor Micro                            | 2         | 4.17%   |
+| Acer                                   | 2         | 4.17%   |
 | WaveRider Communications               | 1         | 2.08%   |
 | Suyin                                  | 1         | 2.08%   |
 | Sunplus IT                             | 1         | 2.08%   |
 | Primax Electronics                     | 1         | 2.08%   |
 | Lite-On Technology                     | 1         | 2.08%   |
 | Leap Motion                            | 1         | 2.08%   |
-| Bison Electronics                      | 1         | 2.08%   |
-| Acer                                   | 1         | 2.08%   |
 
 Camera Model
 ------------
@@ -2879,7 +2878,7 @@ Camera device models
 | WaveRider USB 2.0 Camera                                                   | 1         | 2.04%   |
 | Suyin HP TrueVision HD Integrated Webcam                                   | 1         | 2.04%   |
 | Sunplus IT AUKEY PC-LM1 USB Camera                                         | 1         | 2.04%   |
-| Sunplus papalook AF 925                                                    | 1         | 2.04%   |
+| Sunplus Full HD webcam                                                     | 1         | 2.04%   |
 | Sunplus Dell E5570 integrated webcam                                       | 1         | 2.04%   |
 | Realtek USB Camera                                                         | 1         | 2.04%   |
 | Primax HP Truevision FHD                                                   | 1         | 2.04%   |
@@ -2904,12 +2903,12 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 2.04%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 2.04%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 2.04%   |
-| Bison BisonCam,NB Pro                                                      | 1         | 2.04%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X                                            | 1         | 2.04%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                                         | 1         | 2.04%   |
 | Apple Built-in iSight                                                      | 1         | 2.04%   |
-| Alcor Micro USB 2.0 PC cam                                                 | 1         | 2.04%   |
+| Alcor Micro USB 2.0 Web Camera                                             | 1         | 2.04%   |
 | Alcor Micro Asus Integrated Webcam                                         | 1         | 2.04%   |
 | Acer EasyCamera                                                            | 1         | 2.04%   |
+| Acer BisonCam,NB Pro                                                       | 1         | 2.04%   |
 
 Security
 --------
@@ -2991,10 +2990,10 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 72        | 67.92%  |
-| 1     | 24        | 22.64%  |
-| 2     | 7         | 6.6%    |
-| 3     | 3         | 2.83%   |
+| 0     | 72        | 67.29%  |
+| 1     | 25        | 23.36%  |
+| 2     | 7         | 6.54%   |
+| 3     | 3         | 2.8%    |
 
 Unsupported Device Types
 ------------------------
@@ -3006,14 +3005,14 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 13        | 30.95%  |
-| Fingerprint reader       | 11        | 26.19%  |
-| Chipcard                 | 6         | 14.29%  |
-| Net/wireless             | 4         | 9.52%   |
-| Multimedia controller    | 3         | 7.14%   |
-| Unassigned class         | 1         | 2.38%   |
-| Storage                  | 1         | 2.38%   |
-| Sound                    | 1         | 2.38%   |
-| Communication controller | 1         | 2.38%   |
-| Camera                   | 1         | 2.38%   |
+| Graphics card            | 14        | 32.56%  |
+| Fingerprint reader       | 11        | 25.58%  |
+| Chipcard                 | 6         | 13.95%  |
+| Net/wireless             | 4         | 9.3%    |
+| Multimedia controller    | 3         | 6.98%   |
+| Unassigned class         | 1         | 2.33%   |
+| Storage                  | 1         | 2.33%   |
+| Sound                    | 1         | 2.33%   |
+| Communication controller | 1         | 2.33%   |
+| Camera                   | 1         | 2.33%   |
 

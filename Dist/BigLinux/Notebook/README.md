@@ -862,7 +862,7 @@ Hard drive models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | WDC WD10SPZX-21Z10T0 1TB                            | 3         | 6.67%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 3         | 6.67%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 3         | 6.67%   |
 | Unknown MMC Card  64GB                              | 2         | 4.44%   |
 | WDC WDS100T2G0A-00JH30 1TB SSD                      | 1         | 2.22%   |
 | WDC WD7500BPKX-75HPJT0 752GB                        | 1         | 2.22%   |
@@ -875,7 +875,7 @@ Hard drive models
 | Seagate ST2000LM003 HN-M201RAD 2TB                  | 1         | 2.22%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 2.22%   |
 | Seagate ST1000LM014-1EJ164 1TB                      | 1         | 2.22%   |
-| Seagate Expansion HDD 8TB                           | 1         | 2.22%   |
+| Seagate Expansion HDD 16TB                          | 1         | 2.22%   |
 | Samsung HM501II 500GB                               | 1         | 2.22%   |
 | PNY CS900 500GB SSD                                 | 1         | 2.22%   |
 | Netac NVMe SSD 2TB                                  | 1         | 2.22%   |
@@ -883,7 +883,7 @@ Hard drive models
 | LITEON CV3-8D128-11 SATA 128GB SSD                  | 1         | 2.22%   |
 | LITEON CV1-8B128 128GB SSD                          | 1         | 2.22%   |
 | KingSpec P4-120 120GB                               | 1         | 2.22%   |
-| KingSpec P3-512 512GB SSD                           | 1         | 2.22%   |
+| KingSpec P3-512 512GB                               | 1         | 2.22%   |
 | JMicron Tech 250GB                                  | 1         | 2.22%   |
 | Hitachi HTS727575A9E364 752GB                       | 1         | 2.22%   |
 | Hitachi HTS545032A7E380 320GB                       | 1         | 2.22%   |
@@ -980,8 +980,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 15        | 21     | 50%     |
 | 0.51-1.0   | 13        | 15     | 43.33%  |
+| 10.01-20.0 | 1         | 1      | 3.33%   |
 | 1.01-2.0   | 1         | 1      | 3.33%   |
-| 4.01-10.0  | 1         | 1      | 3.33%   |
 
 Space Total
 -----------
@@ -1510,7 +1510,7 @@ Monitor models
 |--------------------------------------------------------------------------|-----------|---------|
 | Panasonic TV MEIC10C 1920x540 697x392mm 31.5-inch                        | 2         | 5.26%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 2.63%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch     | 1         | 2.63%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch     | 1         | 2.63%   |
 | LG Display LCD Monitor LGD04BD 1366x768 344x194mm 15.5-inch              | 1         | 2.63%   |
 | LG Display LCD Monitor LGD0469 1920x1080 382x215mm 17.3-inch             | 1         | 2.63%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch              | 1         | 2.63%   |
@@ -2233,7 +2233,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 1         | 3.57%   |
 | Bison HD Webcam                                  | 1         | 3.57%   |
 | Apple FaceTime HD Camera                         | 1         | 3.57%   |
-| Alcor Micro USB 2.0 PC cam                       | 1         | 3.57%   |
+| Alcor Micro USB 2.0 Web Camera                   | 1         | 3.57%   |
 
 Security
 --------

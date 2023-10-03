@@ -1098,15 +1098,15 @@ Motherboard manufacture year
 | 2012 | 39        | 12%     |
 | 2018 | 34        | 10.46%  |
 | 2020 | 32        | 9.85%   |
-| 2016 | 30        | 9.23%   |
+| 2016 | 29        | 8.92%   |
 | 2017 | 24        | 7.38%   |
+| 2014 | 22        | 6.77%   |
 | 2013 | 22        | 6.77%   |
-| 2014 | 21        | 6.46%   |
-| 2010 | 19        | 5.85%   |
+| 2010 | 18        | 5.54%   |
 | 2011 | 17        | 5.23%   |
 | 2015 | 15        | 4.62%   |
 | 2021 | 10        | 3.08%   |
-| 2009 | 8         | 2.46%   |
+| 2009 | 9         | 2.77%   |
 | 2008 | 7         | 2.15%   |
 | 2007 | 5         | 1.54%   |
 | 2022 | 1         | 0.31%   |
@@ -1601,12 +1601,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 190       | 327    | 47.86%  |
-| 0.51-1.0   | 106       | 172    | 26.7%   |
-| 1.01-2.0   | 47        | 109    | 11.84%  |
-| 4.01-10.0  | 20        | 201    | 5.04%   |
-| 3.01-4.0   | 18        | 157    | 4.53%   |
-| 10.01-20.0 | 9         | 85     | 2.27%   |
+| 0.01-0.5   | 190       | 327    | 47.74%  |
+| 0.51-1.0   | 105       | 171    | 26.38%  |
+| 1.01-2.0   | 48        | 107    | 12.06%  |
+| 4.01-10.0  | 21        | 204    | 5.28%   |
+| 3.01-4.0   | 18        | 157    | 4.52%   |
+| 10.01-20.0 | 9         | 85     | 2.26%   |
 | 2.01-3.0   | 7         | 54     | 1.76%   |
 
 Space Total
@@ -2355,14 +2355,14 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 3         | 0.8%    |
-| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch             | 3         | 0.8%    |
+| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch          | 3         | 0.8%    |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 3         | 0.8%    |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3         | 0.8%    |
 | Xiaomi Mi TV XMD009A 3440x1440 480x270mm 21.7-inch                   | 2         | 0.53%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch | 2         | 0.53%   |
 | Samsung Electronics SyncMaster SAM0094 1280x1024 338x270mm 17.0-inch | 2         | 0.53%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2         | 0.53%   |
-| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                     | 2         | 0.53%   |
+| MStar Demo MST0030 1360x765 1150x650mm 52.0-inch                     | 2         | 0.53%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch          | 2         | 0.53%   |
 | LG Display LCD Monitor LGD021D 1600x900 382x215mm 17.3-inch          | 2         | 0.53%   |
 | Hewlett-Packard ZR2440w HWP2955 1920x1200 520x320mm 24.0-inch        | 2         | 0.53%   |
@@ -2733,7 +2733,7 @@ Wireless models
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 3         | 1.49%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 2         | 1%      |
 | Realtek RTL8723DE Wireless Network Adapter                     | 2         | 1%      |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                     | 2         | 1%      |
+| Realtek 802.11n WLAN Adapter                                   | 2         | 1%      |
 | Ralink RT2870/RT3070 Wireless Adapter                          | 2         | 1%      |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 2         | 1%      |
 | Qualcomm Atheros AR93xx Wireless Network Adapter               | 2         | 1%      |
@@ -2926,9 +2926,9 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 15        | 9.04%   |
 | Intel AX200 Bluetooth                               | 13        | 7.83%   |
 | Realtek Bluetooth Radio                             | 11        | 6.63%   |
-| Intel Bluetooth Device                              | 9         | 5.42%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 9         | 5.42%   |
 | Intel AX201 Bluetooth                               | 9         | 5.42%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 8         | 4.82%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 6         | 3.61%   |
 | Qualcomm Atheros  Bluetooth Device                  | 4         | 2.41%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 4         | 2.41%   |
@@ -2950,18 +2950,18 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 0.6%    |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device        | 1         | 0.6%    |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 0.6%    |
+| Intel Bluetooth Device                              | 1         | 0.6%    |
 | Intel AX210 Bluetooth                               | 1         | 0.6%    |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 0.6%    |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 0.6%    |
 | Broadcom HP Portable SoftSailing                    | 1         | 0.6%    |
 | Broadcom HP Portable Bumble Bee                     | 1         | 0.6%    |
-| Broadcom Bluetooth 3.0 USB Dongle                   | 1         | 0.6%    |
+| Broadcom Bluetooth 3.0 Dongle                       | 1         | 0.6%    |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 1         | 0.6%    |
 | Broadcom BCM20702A0                                 | 1         | 0.6%    |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 0.6%    |
 | Broadcom BCM2045 Bluetooth                          | 1         | 0.6%    |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1         | 0.6%    |
-| ASUS Bluetooth Radio                                | 1         | 0.6%    |
 
 Sound
 -----
@@ -3304,10 +3304,10 @@ Camera device vendors
 | Logitech                               | 12        | 8.51%   |
 | Realtek Semiconductor                  | 10        | 7.09%   |
 | Lite-On Technology                     | 9         | 6.38%   |
+| Bison Electronics                      | 8         | 5.67%   |
 | IMC Networks                           | 7         | 4.96%   |
-| Bison Electronics                      | 7         | 4.96%   |
 | Sunplus Innovation Technology          | 6         | 4.26%   |
-| Acer                                   | 6         | 4.26%   |
+| Acer                                   | 5         | 3.55%   |
 | Quanta                                 | 4         | 2.84%   |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 2.84%   |
 | Syntek                                 | 2         | 1.42%   |
@@ -3360,8 +3360,8 @@ Camera device models
 | Lenovo FHD Webcam                               | 2         | 1.42%   |
 | Chicony HP Webcam [2 MP Macro]                  | 2         | 1.42%   |
 | Chicony HP HD Webcam                            | 2         | 1.42%   |
-| Bison Integrated Camera                         | 2         | 1.42%   |
-| Acer Lenovo EasyCamera                          | 2         | 1.42%   |
+| Bison Lenovo EasyCamera                         | 2         | 1.42%   |
+| Acer Integrated Camera                          | 2         | 1.42%   |
 | Syntek USB2.0 UVC PC Camera                     | 1         | 0.71%   |
 | Syntek Lenovo EasyCamera                        | 1         | 0.71%   |
 | Suyin Sony Visual Communication Camera          | 1         | 0.71%   |

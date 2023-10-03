@@ -1199,8 +1199,8 @@ Monitor models
 | Philips TV PHL5035 1920x1080 640x360mm 28.9-inch                     | 2        | 18.18%  |
 | Sony TV SNYAB03 1920x1080                                            | 1        | 9.09%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 474x296mm 22.0-inch | 1        | 9.09%   |
-| Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch  | 1        | 9.09%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch | 1        | 9.09%   |
+| Samsung Electronics SyncMaster SAM01D3 1440x900 410x260mm 19.1-inch  | 1        | 9.09%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch | 1        | 9.09%   |
 | PRI Prima TV PRI1600 1920x1080                                       | 1        | 9.09%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 1        | 9.09%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch               | 1        | 9.09%   |
@@ -1574,15 +1574,15 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s               | 1        | 14.29%  |
-| Unknown RAM Module 4GB DIMM 1600MT/s                    | 1        | 14.29%  |
-| Toshiba RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s   | 1        | 14.29%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4096MB DIMM DDR3 1600MT/s | 1        | 14.29%  |
-| SK hynix RAM HMP125U6EFR8C-S6 2GB DIMM DDR2 800MT/s     | 1        | 14.29%  |
-| Micron RAM 16HTF25664AZ-800H1 2GB DIMM DDR2 800MT/s     | 1        | 14.29%  |
-| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 14.29%  |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s             | 1        | 14.29%  |
+| Unknown RAM Module 4GB DIMM 1600MT/s                  | 1        | 14.29%  |
+| Toshiba RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s | 1        | 14.29%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s  | 1        | 14.29%  |
+| SK hynix RAM HMP125U6EFR8C-S6 2GB DIMM DDR2 800MT/s   | 1        | 14.29%  |
+| Micron RAM 16HTF25664AZ-800H1 2GB DIMM DDR2 800MT/s   | 1        | 14.29%  |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 14.29%  |
 
 Memory Kind
 -----------

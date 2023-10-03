@@ -1267,7 +1267,7 @@ Monitor models
 |---------------------------------------------------------------------|----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch   | 2        | 10.53%  |
 | Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                 | 1        | 5.26%   |
-| Sony TV SNY4803 1920x1080 1107x623mm 50.0-inch                      | 1        | 5.26%   |
+| Sony TV SNY4803 1920x1080 930x523mm 42.0-inch                       | 1        | 5.26%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch | 1        | 5.26%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 5.26%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 5.26%   |
@@ -1275,13 +1275,13 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 5.26%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 5.26%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 5.26%   |
-| Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 5.26%   |
+| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                              | 1        | 5.26%   |
 | Goldstar 2D FHD TV GSM59C6 1920x1080 476x268mm 21.5-inch            | 1        | 5.26%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 5.26%   |
-| AOC G2490W1G4 AOC2490 1920x1080 527x296mm 23.8-inch                 | 1        | 5.26%   |
-| AOC 2260WG5 AOC2260 1920x1080 477x268mm 21.5-inch                   | 1        | 5.26%   |
+| AOC 2490W1 AOC2490 1920x1080 527x296mm 23.8-inch                    | 1        | 5.26%   |
+| AOC 2260 AOC2260 1680x1050 474x296mm 22.0-inch                      | 1        | 5.26%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 5.26%   |
-| Acer K222HQL ACR0512 1920x1080 480x270mm 21.7-inch                  | 1        | 5.26%   |
+| Acer k222HQL ACR0512 1920x1080 477x268mm 21.5-inch                  | 1        | 5.26%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 5.26%   |
 
 Monitor Resolution
@@ -1439,7 +1439,7 @@ Controller models
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.33%   |
 | Ralink RT2770 Wireless Adapter                                    | 1        | 3.33%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 3.33%   |
-| Motorola PCS moto g stylus (2022)                                 | 1        | 3.33%   |
+| Motorola PCS moto g power (2022)                                  | 1        | 3.33%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.33%   |
 | Intel Wireless 8260                                               | 1        | 3.33%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 3.33%   |
@@ -1603,8 +1603,8 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                      | 2        | 22.22%  |
 | Realtek Bluetooth Radio                             | 1        | 11.11%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 11.11%  |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 11.11%  |
 | Intel Bluetooth wireless interface                  | 1        | 11.11%  |
-| Intel Bluetooth Device                              | 1        | 11.11%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1        | 11.11%  |
 | Broadcom BCM2045 Bluetooth                          | 1        | 11.11%  |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 11.11%  |
@@ -1752,10 +1752,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor        | Desktops | Percent |
-|---------------|----------|---------|
-| Logitech      | 1        | 50%     |
-| 2M UVC CAMERA | 1        | 50%     |
+| Vendor       | Desktops | Percent |
+|--------------|----------|---------|
+| webcamvendor | 1        | 50%     |
+| Logitech     | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1767,8 +1767,8 @@ Camera device models
 
 | Model                       | Desktops | Percent |
 |-----------------------------|----------|---------|
+| webcamvendor webcamproduct  | 1        | 50%     |
 | Logitech HD Pro Webcam C920 | 1        | 50%     |
-| 2M UVC CAMERA Web Camera    | 1        | 50%     |
 
 Security
 --------

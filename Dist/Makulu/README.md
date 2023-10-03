@@ -959,7 +959,7 @@ Hard drive models
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.15%   |
 | WDC WD10SPZX-60Z10T0 1TB                     | 1         | 1.15%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.15%   |
-| Unknown SD/MMC/MS PRO 1GB                    | 1         | 1.15%   |
+| Unknown SD/MMC/MS PRO 128GB                  | 1         | 1.15%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.15%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.15%   |
 | Toshiba MQ01ABF050M 500GB                    | 1         | 1.15%   |
@@ -977,7 +977,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                     | 1         | 1.15%   |
 | Seagate ST250DM000-1BD141 250GB              | 1         | 1.15%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 1.15%   |
-| Seagate Expansion Desk 2TB                   | 1         | 1.15%   |
+| Seagate Expansion Desk 8TB                   | 1         | 1.15%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1         | 1.15%   |
 | SanDisk SSD U110 128GB                       | 1         | 1.15%   |
 | SanDisk SSD PLUS 480GB                       | 1         | 1.15%   |
@@ -1074,11 +1074,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 34        | 50     | 59.65%  |
-| 0.51-1.0   | 18        | 21     | 31.58%  |
-| 1.01-2.0   | 3         | 3      | 5.26%   |
+| 0.01-0.5   | 34        | 51     | 59.65%  |
+| 0.51-1.0   | 18        | 20     | 31.58%  |
+| 1.01-2.0   | 2         | 2      | 3.51%   |
 | 3.01-4.0   | 1         | 1      | 1.75%   |
 | 2.01-3.0   | 1         | 1      | 1.75%   |
+| 4.01-10.0  | 1         | 1      | 1.75%   |
 
 Space Total
 -----------
@@ -1706,10 +1707,10 @@ Monitor models
 | Dell LCD Monitor E228WFP                                                 | 1         | 1.92%   |
 | Dell INSPIRON ONE DELB123 1920x1080 510x287mm 23.0-inch                  | 1         | 1.92%   |
 | Dell Inspiron 7790 DEL93FF 1920x1080 510x287mm 23.0-inch                 | 1         | 1.92%   |
-| Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 1.92%   |
+| Chimei Innolux P130ZDZ-EF1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 1.92%   |
 | Chimei Innolux LCD Monitor CMN1746 1600x900 382x214mm 17.2-inch          | 1         | 1.92%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 1.92%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 1.92%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 1.92%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 1.92%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 1.92%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 1.92%   |
@@ -2415,7 +2416,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD        | 2         | 8.33%   |
 | Z-Star WebCam SCB-1900N                                        | 1         | 4.17%   |
 | Suyin UVC HD Webcam                                            | 1         | 4.17%   |
-| Suyin Integrated_Webcam_HD                                     | 1         | 4.17%   |
+| Suyin Laptop_Integrated_Webcam_HD                              | 1         | 4.17%   |
 | Suyin HP Truevision HD                                         | 1         | 4.17%   |
 | Sunplus Integrated_Webcam_HD                                   | 1         | 4.17%   |
 | Sonix USB 2.0 Camera                                           | 1         | 4.17%   |

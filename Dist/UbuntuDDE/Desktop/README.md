@@ -611,11 +611,11 @@ Motherboard manufacture year
 | 2012 | 4        | 10%     |
 | 2011 | 4        | 10%     |
 | 2008 | 4        | 10%     |
-| 2019 | 3        | 7.5%    |
+| 2016 | 3        | 7.5%    |
 | 2014 | 3        | 7.5%    |
 | 2010 | 3        | 7.5%    |
 | 2020 | 2        | 5%      |
-| 2016 | 2        | 5%      |
+| 2019 | 2        | 5%      |
 | 2009 | 2        | 5%      |
 | 2007 | 2        | 5%      |
 | 2021 | 1        | 2.5%    |
@@ -1589,7 +1589,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.44%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.44%   |
-| Vestel Elektronik 40W_LCD_TV VES3700 1920x540                          | 1        | 2.44%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch     | 1        | 2.44%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.44%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.44%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.44%   |
@@ -1614,7 +1614,7 @@ Monitor models
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.44%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.44%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.44%   |
-| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 1        | 2.44%   |
+| Dell U2410 DELF016 1920x1200 520x320mm 24.0-inch                       | 1        | 2.44%   |
 | Dell S2722DGM DEL423A 2560x1440 597x336mm 27.0-inch                    | 1        | 2.44%   |
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.44%   |
 | Dell LCD Monitor ST2220L                                               | 1        | 2.44%   |
@@ -2029,8 +2029,8 @@ Controller models
 | Intel Bluetooth wireless interface                  | 4        | 25%     |
 | Realtek  Bluetooth 4.2 Adapter                      | 1        | 6.25%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1        | 6.25%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.25%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 6.25%   |
-| Intel Bluetooth Device                              | 1        | 6.25%   |
 | Integrated System Solution Bluetooth Device         | 1        | 6.25%   |
 | Apple Bluetooth Host Controller                     | 1        | 6.25%   |
 
@@ -2095,7 +2095,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                                                | 1        | 1.25%   |
 | M2Tech hiFaceDAC UAC2                                                                             | 1        | 1.25%   |
 | Logitech QuickCam Fusion                                                                          | 1        | 1.25%   |
-| Logitech Logitech G PRO X Gaming Headset                                                          | 1        | 1.25%   |
+| Logitech PRO X                                                                                    | 1        | 1.25%   |
 | Logitech Headset H390                                                                             | 1        | 1.25%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 1        | 1.25%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.25%   |
@@ -2301,13 +2301,13 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Huawei HiCamera                    | 2        | 33.33%  |
-| Z-Star Vimicro USB Camera (Altair) | 1        | 16.67%  |
-| Microdia Sonix USB 2.0 Camera      | 1        | 16.67%  |
-| Logitech HD Pro Webcam C920        | 1        | 16.67%  |
-| Cubeternet HDMI to U3 capture      | 1        | 16.67%  |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Huawei HiCamera               | 2        | 33.33%  |
+| Z-Star A4 tech USB2.0 Camera  | 1        | 16.67%  |
+| Microdia Sonix USB 2.0 Camera | 1        | 16.67%  |
+| Logitech HD Pro Webcam C920   | 1        | 16.67%  |
+| Cubeternet HDMI to U3 capture | 1        | 16.67%  |
 
 Security
 --------

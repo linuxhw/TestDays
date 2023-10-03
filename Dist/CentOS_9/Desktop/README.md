@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 24
+Total: 25
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | P8H61/USB3                  | [ecf1a70c5d](https://linux-hardware.org/?probe=ecf1a70c5d) | Sep 08, 2023 |
 | ASUSTek       | P8H61/USB3                  | [149cb27e46](https://linux-hardware.org/?probe=149cb27e46) | Aug 18, 2023 |
 | ASUSTek       | ROG CROSSHAIR VIII DARK ... | [888c56f232](https://linux-hardware.org/?probe=888c56f232) | Aug 01, 2023 |
 | ASUSTek       | PRIME H670-PLUS D4          | [993a10a30b](https://linux-hardware.org/?probe=993a10a30b) | Aug 01, 2023 |
@@ -195,24 +196,25 @@ Version of the Linux kernel
 
 | Version                        | Desktops | Percent |
 |--------------------------------|----------|---------|
-| 5.14.0-202.el9.x86_64          | 2        | 10.53%  |
-| 5.17.2-lqx3.0.el9.x86_64       | 1        | 5.26%   |
-| 5.14.0-86.el9.x86_64           | 1        | 5.26%   |
-| 5.14.0-352.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-344.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-340.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-325.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-319.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-316.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-305.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-302.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-267.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-214.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-183.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-134.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-130.rt21.130.el9.x86_64 | 1        | 5.26%   |
-| 5.14.0-115.el9.x86_64          | 1        | 5.26%   |
-| 5.14.0-109.el9.x86_64          | 1        | 5.26%   |
+| 5.14.0-202.el9.x86_64          | 2        | 10%     |
+| 5.17.2-lqx3.0.el9.x86_64       | 1        | 5%      |
+| 5.14.0-86.el9.x86_64           | 1        | 5%      |
+| 5.14.0-362.el9.x86_64          | 1        | 5%      |
+| 5.14.0-352.el9.x86_64          | 1        | 5%      |
+| 5.14.0-344.el9.x86_64          | 1        | 5%      |
+| 5.14.0-340.el9.x86_64          | 1        | 5%      |
+| 5.14.0-325.el9.x86_64          | 1        | 5%      |
+| 5.14.0-319.el9.x86_64          | 1        | 5%      |
+| 5.14.0-316.el9.x86_64          | 1        | 5%      |
+| 5.14.0-305.el9.x86_64          | 1        | 5%      |
+| 5.14.0-302.el9.x86_64          | 1        | 5%      |
+| 5.14.0-267.el9.x86_64          | 1        | 5%      |
+| 5.14.0-214.el9.x86_64          | 1        | 5%      |
+| 5.14.0-183.el9.x86_64          | 1        | 5%      |
+| 5.14.0-134.el9.x86_64          | 1        | 5%      |
+| 5.14.0-130.rt21.130.el9.x86_64 | 1        | 5%      |
+| 5.14.0-115.el9.x86_64          | 1        | 5%      |
+| 5.14.0-109.el9.x86_64          | 1        | 5%      |
 
 Kernel Family
 -------------
@@ -670,12 +672,12 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 9        | 13     | 24.32%  |
+| WDC                 | 9        | 14     | 24.32%  |
 | Seagate             | 5        | 7      | 13.51%  |
 | Samsung Electronics | 4        | 5      | 10.81%  |
-| Kingston            | 3        | 4      | 8.11%   |
+| Kingston            | 3        | 5      | 8.11%   |
 | Toshiba             | 2        | 3      | 5.41%   |
-| Sandisk             | 2        | 8      | 5.41%   |
+| SanDisk             | 2        | 8      | 5.41%   |
 | Crucial             | 2        | 8      | 5.41%   |
 | WD MediaMax         | 1        | 1      | 2.7%    |
 | Team                | 1        | 2      | 2.7%    |
@@ -727,7 +729,7 @@ Hard drive models
 | Samsung MZ7LN256HAJQ-00000 256GB SSD       | 1        | 2.44%   |
 | Plextor PX-256M8VC 256GB SSD               | 1        | 2.44%   |
 | Phison NVMe SSD Drive 1024GB               | 1        | 2.44%   |
-| Phison E16 PCIe4 NVMe Controller 1TB       | 1        | 2.44%   |
+| Phison E16 PCIe4 NVMe Controller 500GB     | 1        | 2.44%   |
 | OCZ AGILITY3 64GB SSD                      | 1        | 2.44%   |
 | Kingston SUV400S37480G 480GB SSD           | 1        | 2.44%   |
 | Kingston SHFS37A480G 480GB SSD             | 1        | 2.44%   |
@@ -747,7 +749,7 @@ Hard disk drive vendors
 
 | Vendor      | Desktops | Drives | Percent |
 |-------------|----------|--------|---------|
-| WDC         | 8        | 12     | 50%     |
+| WDC         | 8        | 13     | 50%     |
 | Seagate     | 4        | 5      | 25%     |
 | Toshiba     | 2        | 3      | 12.5%   |
 | WD MediaMax | 1        | 1      | 6.25%   |
@@ -764,7 +766,7 @@ Solid state drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 4        | 5      | 23.53%  |
-| Kingston            | 3        | 4      | 17.65%  |
+| Kingston            | 3        | 5      | 17.65%  |
 | SanDisk             | 2        | 4      | 11.76%  |
 | Crucial             | 2        | 8      | 11.76%  |
 | WDC                 | 1        | 1      | 5.88%   |
@@ -784,8 +786,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 13       | 29     | 44.83%  |
-| HDD  | 10       | 22     | 34.48%  |
+| SSD  | 13       | 30     | 44.83%  |
+| HDD  | 10       | 23     | 34.48%  |
 | NVMe | 6        | 9      | 20.69%  |
 
 Drive Connector
@@ -798,7 +800,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 16       | 51     | 72.73%  |
+| SATA | 16       | 53     | 72.73%  |
 | NVMe | 6        | 9      | 27.27%  |
 
 Drive Size
@@ -811,9 +813,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 11       | 19     | 44%     |
+| 0.01-0.5   | 11       | 20     | 44%     |
 | 0.51-1.0   | 8        | 22     | 32%     |
-| 1.01-2.0   | 5        | 8      | 20%     |
+| 1.01-2.0   | 5        | 9      | 20%     |
 | 4.01-10.0  | 1        | 2      | 4%      |
 
 Space Total
@@ -930,7 +932,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 12       | 36     | 60%     |
+| Detected | 12       | 38     | 60%     |
 | Works    | 6        | 21     | 30%     |
 | Malfunc  | 2        | 3      | 10%     |
 
@@ -1273,29 +1275,29 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Iiyama PL2888H IVM7106 1920x1080 620x340mm 27.8-inch                  | 2        | 9.09%   |
-| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch         | 1        | 4.55%   |
-| ViewSonic VX2250 SERIES VSCCB25 1920x1080 477x268mm 21.5-inch         | 1        | 4.55%   |
-| Samsung Electronics U28D590 SAM0B80 3840x2160 607x345mm 27.5-inch     | 1        | 4.55%   |
-| Samsung Electronics SyncMaster SAM05EB 1920x1080 597x336mm 27.0-inch  | 1        | 4.55%   |
-| Samsung Electronics SMEX2220 SAM0686 1920x1080 477x268mm 21.5-inch    | 1        | 4.55%   |
-| Samsung Electronics S27C450 SAM09D9 1920x1080 598x336mm 27.0-inch     | 1        | 4.55%   |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch | 1        | 4.55%   |
-| LG Electronics LCD Monitor LG FULL HD                                 | 1        | 4.55%   |
-| Hewlett-Packard 2159 HWP282C 1920x1080 479x269mm 21.6-inch            | 1        | 4.55%   |
-| Goldstar ULTRAGEAR GSM5B70 3840x2160 621x341mm 27.9-inch              | 1        | 4.55%   |
-| Goldstar MP59G GSM5B34 1920x1080 480x270mm 21.7-inch                  | 1        | 4.55%   |
-| Goldstar 22EA53 GSM59A6 1920x1080 477x268mm 21.5-inch                 | 1        | 4.55%   |
-| Dell U2520D DELA150 2560x1440 553x311mm 25.0-inch                     | 1        | 4.55%   |
-| Dell U2520D DELA14E 2560x1440 553x311mm 25.0-inch                     | 1        | 4.55%   |
-| Dell U2520D DELA14C 2560x1440 553x311mm 25.0-inch                     | 1        | 4.55%   |
-| Dell P2418HT DEL4113 1920x1080 527x296mm 23.8-inch                    | 1        | 4.55%   |
-| Dell 2408WFP DELA029 1920x1200 519x324mm 24.1-inch                    | 1        | 4.55%   |
-| BenQ ZOWIE XL LCD BNQ7F83 1920x1080 540x300mm 24.3-inch               | 1        | 4.55%   |
-| AOC LCD Monitor 24G1WG4 3840x1080                                     | 1        | 4.55%   |
-| Acer H236HL ACR0318 1920x1080 509x286mm 23.0-inch                     | 1        | 4.55%   |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| Iiyama PL2888H IVM7106 1920x1080 621x341mm 27.9-inch                    | 2        | 9.09%   |
+| ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch           | 1        | 4.55%   |
+| ViewSonic VX2250 SERIES VSCCB25 1920x1080 477x268mm 21.5-inch           | 1        | 4.55%   |
+| Samsung Electronics U28D590 SAM0B80 3840x2160 607x345mm 27.5-inch       | 1        | 4.55%   |
+| Samsung Electronics SyncMaster SAM05EB 1920x1080 597x336mm 27.0-inch    | 1        | 4.55%   |
+| Samsung Electronics SMEX2220 SAM0686 1920x1080 477x268mm 21.5-inch      | 1        | 4.55%   |
+| Samsung Electronics S27C450 SAM09D9 1920x1080 598x336mm 27.0-inch       | 1        | 4.55%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 4.55%   |
+| LG Electronics LCD Monitor LG FULL HD                                   | 1        | 4.55%   |
+| Hewlett-Packard 2159 HWP282C 1920x1080 479x269mm 21.6-inch              | 1        | 4.55%   |
+| Goldstar MP59G GSM5B34 1920x1080 480x270mm 21.7-inch                    | 1        | 4.55%   |
+| Goldstar 27GL650F GSM5B70 1920x1080 531x298mm 24.0-inch                 | 1        | 4.55%   |
+| Goldstar 22EA53 GSM59A6 1920x1080 477x268mm 21.5-inch                   | 1        | 4.55%   |
+| Dell U2520D DELA150 2560x1440 553x311mm 25.0-inch                       | 1        | 4.55%   |
+| Dell U2520D DELA14E 2560x1440 553x311mm 25.0-inch                       | 1        | 4.55%   |
+| Dell U2520D DELA14C 2560x1440 553x311mm 25.0-inch                       | 1        | 4.55%   |
+| Dell P2418HT DEL4113 1920x1080 527x296mm 23.8-inch                      | 1        | 4.55%   |
+| Dell 2408WFP DELA029 1920x1200 519x324mm 24.1-inch                      | 1        | 4.55%   |
+| BenQ ZOWIE XL LCD BNQ7F83 1920x1080 540x300mm 24.3-inch                 | 1        | 4.55%   |
+| AOC LCD Monitor 24G1WG4 3840x1080                                       | 1        | 4.55%   |
+| Acer H236HL ACR0318 1920x1080 509x286mm 23.0-inch                       | 1        | 4.55%   |
 
 Monitor Resolution
 ------------------
@@ -1828,10 +1830,10 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                   | Desktops | Percent |
-|-------------------------|----------|---------|
-| Sunplus papalook AF 925 | 2        | 66.67%  |
-| Logitech Webcam C270    | 1        | 33.33%  |
+| Model                  | Desktops | Percent |
+|------------------------|----------|---------|
+| Sunplus Full HD webcam | 2        | 66.67%  |
+| Logitech Webcam C270   | 1        | 33.33%  |
 
 Security
 --------

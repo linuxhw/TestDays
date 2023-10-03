@@ -1074,11 +1074,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 96     | 50.53%  |
-| 0.51-1.0   | 23       | 32     | 24.21%  |
-| 1.01-2.0   | 13       | 28     | 13.68%  |
+| 0.01-0.5   | 49       | 97     | 51.58%  |
+| 0.51-1.0   | 22       | 31     | 23.16%  |
+| 1.01-2.0   | 13       | 27     | 13.68%  |
 | 3.01-4.0   | 8        | 12     | 8.42%   |
-| 4.01-10.0  | 3        | 4      | 3.16%   |
+| 4.01-10.0  | 3        | 5      | 3.16%   |
 
 Space Total
 -----------
@@ -1712,7 +1712,7 @@ Monitor models
 | Samsung Electronics S24C650 SAM09E9 1920x1080 521x293mm 23.5-inch      | 1        | 1.23%   |
 | Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch      | 1        | 1.23%   |
 | Samsung Electronics S24B300 SAM08B4 1920x1080 521x293mm 23.5-inch      | 1        | 1.23%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 480x270mm 21.7-inch  | 1        | 1.23%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch  | 1        | 1.23%   |
 | Samsung Electronics LCD Monitor SAM06CA 1920x1080 1110x620mm 50.1-inch | 1        | 1.23%   |
 | Samsung Electronics LCD Monitor S24E310 3840x1080                      | 1        | 1.23%   |
 | Samsung Electronics LCD Monitor S24E310                                | 1        | 1.23%   |
@@ -1724,7 +1724,7 @@ Monitor models
 | Philips 236VL PHLC082 1920x1080 509x286mm 23.0-inch                    | 1        | 1.23%   |
 | NEC Computers LCD2070NX NEC667B 1600x1200 410x310mm 20.2-inch          | 1        | 1.23%   |
 | NEC Computers LCD2070NX NEC667B 1600x1200 408x306mm 20.1-inch          | 1        | 1.23%   |
-| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                       | 1        | 1.23%   |
+| MStar Demo MST0030 1360x765 1150x650mm 52.0-inch                       | 1        | 1.23%   |
 | MPI WIMAXIT MPI7002 1920x1080 180x130mm 8.7-inch                       | 1        | 1.23%   |
 | Medion MD41077EA MED078B 1280x1024 330x270mm 16.8-inch                 | 1        | 1.23%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 1.23%   |
@@ -2184,8 +2184,8 @@ Controller models
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 2        | 6.9%    |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter | 2        | 6.9%    |
 | Qualcomm Atheros AR3011 Bluetooth                     | 1        | 3.45%   |
+| Intel Wireless-AC 3168 Bluetooth                      | 1        | 3.45%   |
 | Intel Bluetooth wireless interface                    | 1        | 3.45%   |
-| Intel Bluetooth Device                                | 1        | 3.45%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter      | 1        | 3.45%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 1        | 3.45%   |
 | ASUS Bluetooth Adapter                                | 1        | 3.45%   |
@@ -2304,45 +2304,45 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s    | 2        | 5.26%   |
-| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s              | 1        | 2.63%   |
-| Unknown RAM Module 4096MB DIMM DDR 1066MT/s               | 1        | 2.63%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                      | 1        | 2.63%   |
-| Unknown RAM Module 2048MB DIMM DDR 1333MT/s               | 1        | 2.63%   |
-| Unknown RAM Module 2048MB DIMM DDR 1066MT/s               | 1        | 2.63%   |
-| Timetec RAM ED3-1600 8192MB DIMM DDR3 1600MT/s            | 1        | 2.63%   |
-| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 3007MT/s       | 1        | 2.63%   |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s           | 1        | 2.63%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s      | 1        | 2.63%   |
-| Sesame RAM S939A2UGS-ITR 8GB DIMM 1600MT/s                | 1        | 2.63%   |
-| Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s    | 1        | 2.63%   |
-| Samsung RAM M378A2G43AB3-CWE 16GB DIMM DDR4 3200MT/s      | 1        | 2.63%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s       | 1        | 2.63%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s       | 1        | 2.63%   |
-| Micron RAM CT8G4DFD8213.16FA2 8192MB DIMM DDR4 2133MT/s   | 1        | 2.63%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s      | 1        | 2.63%   |
-| Kingston RAM KHX2133C11D3/4GX 4GB DIMM DDR3 2134MT/s      | 1        | 2.63%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1600MT/s         | 1        | 2.63%   |
-| Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 2.63%   |
-| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3              | 1        | 2.63%   |
-| Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 2.63%   |
-| G.Skill RAM F4-3200C16-8GVKB 8192MB DIMM DDR4 3866MT/s    | 1        | 2.63%   |
-| G.Skill RAM F4-3200C16-8GVK 8GB DIMM DDR4 3200MT/s        | 1        | 2.63%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s       | 1        | 2.63%   |
-| G.Skill RAM F3-1600C11-4GNT 4096MB DIMM DDR3 1600MT/s     | 1        | 2.63%   |
-| Crucial RAM CT8G4SFS8266.M8FD 8192MB SODIMM DDR4 2667MT/s | 1        | 2.63%   |
-| Crucial RAM CT4G4DFS824A.M8FB 4GB DIMM DDR4 2400MT/s      | 1        | 2.63%   |
-| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s     | 1        | 2.63%   |
-| Crucial RAM BLT8G3D1608DT1TX0. 8GB DIMM 1600MT/s          | 1        | 2.63%   |
-| Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2472MT/s     | 1        | 2.63%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s     | 1        | 2.63%   |
-| Corsair RAM CMD16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s     | 1        | 2.63%   |
-| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s               | 1        | 2.63%   |
-| Unknown                                                   | 1        | 2.63%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s  | 2        | 5.26%   |
+| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s            | 1        | 2.63%   |
+| Unknown RAM Module 4096MB DIMM DDR 1066MT/s             | 1        | 2.63%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                    | 1        | 2.63%   |
+| Unknown RAM Module 2048MB DIMM DDR 1333MT/s             | 1        | 2.63%   |
+| Unknown RAM Module 2048MB DIMM DDR 1066MT/s             | 1        | 2.63%   |
+| Timetec RAM ED3-1600 8192MB DIMM DDR3 1600MT/s          | 1        | 2.63%   |
+| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 3007MT/s     | 1        | 2.63%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s         | 1        | 2.63%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 2.63%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s    | 1        | 2.63%   |
+| Sesame RAM S939A2UGS-ITR 8GB DIMM 1600MT/s              | 1        | 2.63%   |
+| Samsung RAM M391B5673EH1-CF8 2048MB DIMM DDR3 1066MT/s  | 1        | 2.63%   |
+| Samsung RAM M378A2G43AB3-CWE 16GB DIMM DDR4 3200MT/s    | 1        | 2.63%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s     | 1        | 2.63%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s     | 1        | 2.63%   |
+| Micron RAM CT8G4DFD8213.16FA2 8192MB DIMM DDR4 2133MT/s | 1        | 2.63%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s    | 1        | 2.63%   |
+| Kingston RAM KHX2133C11D3/4GX 4GB DIMM DDR3 2134MT/s    | 1        | 2.63%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s     | 1        | 2.63%   |
+| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1600MT/s       | 1        | 2.63%   |
+| Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 2.63%   |
+| Kingston RAM 99U5403-159.A01LF 8GB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
+| Kingston RAM 9905403-199.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s     | 1        | 2.63%   |
+| G.Skill RAM F4-3200C16-8GVK 8GB DIMM DDR4 3200MT/s      | 1        | 2.63%   |
+| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s  | 1        | 2.63%   |
+| G.Skill RAM F3-1600C11-4GNT 4096MB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
+| Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s  | 1        | 2.63%   |
+| Crucial RAM CT4G4DFS824A.M8FB 4GB DIMM DDR4 2400MT/s    | 1        | 2.63%   |
+| Crucial RAM CT102464BD160B.C16 8GB DIMM DDR3 1600MT/s   | 1        | 2.63%   |
+| Crucial RAM BLT8G3D1608DT1TX0. 8GB DIMM 1600MT/s        | 1        | 2.63%   |
+| Crucial RAM BLS4G4D240FSB.8FBD 4GB DIMM DDR4 2472MT/s   | 1        | 2.63%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s   | 1        | 2.63%   |
+| Corsair RAM CMD16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 1        | 2.63%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s             | 1        | 2.63%   |
+| Unknown                                                 | 1        | 2.63%   |
 
 Memory Kind
 -----------

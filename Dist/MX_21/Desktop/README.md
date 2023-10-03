@@ -709,16 +709,16 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2022 | 11       | 9.73%   |
 | 2021 | 10       | 8.85%   |
-| 2020 | 9        | 7.96%   |
 | 2014 | 9        | 7.96%   |
 | 2013 | 9        | 7.96%   |
 | 2011 | 9        | 7.96%   |
+| 2020 | 8        | 7.08%   |
 | 2018 | 8        | 7.08%   |
 | 2009 | 7        | 6.19%   |
+| 2019 | 6        | 5.31%   |
 | 2016 | 6        | 5.31%   |
 | 2012 | 6        | 5.31%   |
 | 2010 | 6        | 5.31%   |
-| 2019 | 5        | 4.42%   |
 | 2007 | 5        | 4.42%   |
 | 2008 | 4        | 3.54%   |
 | 2015 | 3        | 2.65%   |
@@ -1171,10 +1171,10 @@ Size of hard drive
 |------------|----------|--------|---------|
 | 0.01-0.5   | 79       | 126    | 50.32%  |
 | 0.51-1.0   | 44       | 52     | 28.03%  |
-| 1.01-2.0   | 19       | 24     | 12.1%   |
+| 1.01-2.0   | 20       | 25     | 12.74%  |
 | 3.01-4.0   | 5        | 5      | 3.18%   |
-| 4.01-10.0  | 5        | 12     | 3.18%   |
 | 2.01-3.0   | 4        | 5      | 2.55%   |
+| 4.01-10.0  | 4        | 11     | 2.55%   |
 | 10.01-20.0 | 1        | 1      | 0.64%   |
 
 Space Total
@@ -1877,23 +1877,23 @@ Monitor models
 | MSI G27C6 MSI5CA9 1920x1080 598x336mm 27.0-inch                       | 2        | 1.59%   |
 | Medion MD22322 MEB8101 2560x1440 699x393mm 31.6-inch                  | 2        | 1.59%   |
 | Fujitsu Siemens B22W-7 LED FUS0838 1680x1050 474x296mm 22.0-inch      | 2        | 1.59%   |
-| Xiaomi Mi TV XMD004A 1920x1080 890x500mm 40.2-inch                    | 1        | 0.79%   |
-| Vizio E260MV VIZ0062 1920x1080 580x320mm 26.1-inch                    | 1        | 0.79%   |
+| Xiaomi Mi TV XMD004A 1440x900 708x398mm 32.0-inch                     | 1        | 0.79%   |
+| Vizio E260MV VIZ0062 1920x1080 509x286mm 23.0-inch                    | 1        | 0.79%   |
 | ViewSonic VX2433wm VSC3822 1920x1080 520x290mm 23.4-inch              | 1        | 0.79%   |
-| Vestel Elektronik 40W_LCD_TV VES3700 1920x540                         | 1        | 0.79%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch    | 1        | 0.79%   |
 | Sony TV *00 SNY7105 3840x2160 1218x685mm 55.0-inch                    | 1        | 0.79%   |
 | Sony SDM-HS74P SNY3170 1280x1024 338x270mm 17.0-inch                  | 1        | 0.79%   |
 | Sony SDM-HS53 SNY2250 1024x768 304x228mm 15.0-inch                    | 1        | 0.79%   |
 | Sangyo LCD Monitor M27A3 1920x1080                                    | 1        | 0.79%   |
 | Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1        | 0.79%   |
 | Samsung Electronics U28H75x SAM0DFE 3840x2160 608x345mm 27.5-inch     | 1        | 0.79%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 0.79%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch     | 1        | 0.79%   |
 | Samsung Electronics SyncMaster SAM05CD 1920x1080                      | 1        | 0.79%   |
 | Samsung Electronics SyncMaster SAM0594 1680x1050 459x296mm 21.5-inch  | 1        | 0.79%   |
 | Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch  | 1        | 0.79%   |
 | Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch   | 1        | 0.79%   |
 | Samsung Electronics SyncMaster SAM0286 1280x720 372x209mm 16.8-inch   | 1        | 0.79%   |
-| Samsung Electronics SyncMaster SAM01E1 1280x1024 376x301mm 19.0-inch  | 1        | 0.79%   |
+| Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch  | 1        | 0.79%   |
 | Samsung Electronics SMB2030 SAM063C 1600x900 443x249mm 20.0-inch      | 1        | 0.79%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 0.79%   |
 | Samsung Electronics S23B550 SAM0919 1920x1080 510x287mm 23.0-inch     | 1        | 0.79%   |
@@ -1904,7 +1904,7 @@ Monitor models
 | SAC HDMI SAC2700 2560x1440 596x335mm 26.9-inch                        | 1        | 0.79%   |
 | RTK FHD HDR RTKBC32 1920x1080 597x336mm 27.0-inch                     | 1        | 0.79%   |
 | Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1        | 0.79%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch              | 1        | 0.79%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch              | 1        | 0.79%   |
 | Philips 226VL PHLC081 1920x1080 480x268mm 21.6-inch                   | 1        | 0.79%   |
 | Philips 170C PHL0848 1280x1024 338x270mm 17.0-inch                    | 1        | 0.79%   |
 | Philips 109E5 PHL000E 1920x1440 360x270mm 17.7-inch                   | 1        | 0.79%   |
@@ -2291,7 +2291,7 @@ Ethernet models
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 0.83%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 0.83%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 0.83%   |
-| OPPO OnePlus Nord                                                 | 1        | 0.83%   |
+| OPPO 8                                                            | 1        | 0.83%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 1        | 0.83%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 0.83%   |
 | Intel Ethernet Connection I218-V                                  | 1        | 0.83%   |
@@ -2436,7 +2436,6 @@ Sound card vendors
 | M-Audio                 | 1        | 0.51%   |
 | Kingston Technology     | 1        | 0.51%   |
 | JMTek                   | 1        | 0.51%   |
-| Jieli Technology        | 1        | 0.51%   |
 | GYROCOM C&C             | 1        | 0.51%   |
 | GN Netcom               | 1        | 0.51%   |
 | Giga-Byte Technology    | 1        | 0.51%   |
@@ -2444,6 +2443,7 @@ Sound card vendors
 | Ensoniq                 | 1        | 0.51%   |
 | Digidesign              | 1        | 0.51%   |
 | Cambridge Silicon Radio | 1        | 0.51%   |
+| BR23                    | 1        | 0.51%   |
 | BEHRINGER International | 1        | 0.51%   |
 
 Sound Model
@@ -2546,11 +2546,11 @@ Memory module models
 | Model                                                            | Desktops | Percent |
 |------------------------------------------------------------------|----------|---------|
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s            | 4        | 2.94%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 3        | 2.21%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s   | 3        | 2.21%   |
 | Unknown RAM Module 4GB DIMM SDRAM                                | 2        | 1.47%   |
 | Unknown RAM Module 2GB DIMM DDR2 333MT/s                         | 2        | 1.47%   |
 | Unknown RAM Module 2GB DIMM 667MT/s                              | 2        | 1.47%   |
-| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s             | 2        | 1.47%   |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM 1333MT/s                  | 2        | 1.47%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s              | 2        | 1.47%   |
 | G.Skill RAM F4-4000C18-16GTZR 16GB DIMM DDR4 2667MT/s            | 2        | 1.47%   |
 | Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s          | 2        | 1.47%   |
@@ -2656,10 +2656,10 @@ Memory module speed
 | 800     | 4        | 3.31%   |
 | 667     | 4        | 3.31%   |
 | Unknown | 4        | 3.31%   |
+| 6000    | 3        | 2.48%   |
 | 2666    | 3        | 2.48%   |
 | 2133    | 3        | 2.48%   |
 | 1800    | 3        | 2.48%   |
-| 6000    | 2        | 1.65%   |
 | 3400    | 2        | 1.65%   |
 | 3000    | 2        | 1.65%   |
 | 2933    | 2        | 1.65%   |
@@ -2669,7 +2669,6 @@ Memory module speed
 | 533     | 2        | 1.65%   |
 | 333     | 2        | 1.65%   |
 | 5800    | 1        | 0.83%   |
-| 4800    | 1        | 0.83%   |
 | 4133    | 1        | 0.83%   |
 | 3866    | 1        | 0.83%   |
 | 3533    | 1        | 0.83%   |
@@ -2777,10 +2776,10 @@ Camera device models
 | Logitech Webcam C930e                | 2        | 9.52%   |
 | Logitech Webcam C270                 | 2        | 9.52%   |
 | Sunplus Aukey-PC-LM1E Camera         | 1        | 4.76%   |
-| Sonix HDF Webcam USB                 | 1        | 4.76%   |
+| Sonix USB Camera                     | 1        | 4.76%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro | 1        | 4.76%   |
 | Microsoft LifeCam VX-500 [1357]      | 1        | 4.76%   |
-| Microdia GC02M2                      | 1        | 4.76%   |
+| Microdia USB 2.0 Camera              | 1        | 4.76%   |
 | Microdia Camera                      | 1        | 4.76%   |
 | Logitech Webcam C110                 | 1        | 4.76%   |
 | Logitech HD Webcam C615              | 1        | 4.76%   |
@@ -2844,8 +2843,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 92       | 81.42%  |
-| 1     | 18       | 15.93%  |
+| 0     | 91       | 80.53%  |
+| 1     | 19       | 16.81%  |
 | 2     | 2        | 1.77%   |
 | 3     | 1        | 0.88%   |
 
@@ -2859,10 +2858,10 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 9        | 39.13%  |
-| Net/wireless             | 6        | 26.09%  |
-| Unassigned class         | 3        | 13.04%  |
-| Communication controller | 3        | 13.04%  |
-| Fingerprint reader       | 1        | 4.35%   |
-| Dvb card                 | 1        | 4.35%   |
+| Graphics card            | 10       | 41.67%  |
+| Net/wireless             | 6        | 25%     |
+| Unassigned class         | 3        | 12.5%   |
+| Communication controller | 3        | 12.5%   |
+| Fingerprint reader       | 1        | 4.17%   |
+| Dvb card                 | 1        | 4.17%   |
 

@@ -1339,7 +1339,7 @@ Hard drive models
 | WDC WD5000AAKS-00UU3A0 500GB           | 2         | 0.48%   |
 | WDC WD20EZRZ-00Z5HB0 2TB               | 2         | 0.48%   |
 | WDC WD10SPZX-60Z10T0 1TB               | 2         | 0.48%   |
-| Unknown SD/MMC/MS PRO 1GB              | 2         | 0.48%   |
+| Unknown SD/MMC/MS PRO 128GB            | 2         | 0.48%   |
 | Toshiba MQ01ABF050 500GB               | 2         | 0.48%   |
 | SK hynix NVMe SSD Drive 256GB          | 2         | 0.48%   |
 | Seagate ST500LT012-1DG142 500GB        | 2         | 0.48%   |
@@ -1458,11 +1458,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 132       | 203    | 58.41%  |
-| 0.51-1.0   | 65        | 86     | 28.76%  |
-| 1.01-2.0   | 18        | 34     | 7.96%   |
+| 0.01-0.5   | 133       | 204    | 58.85%  |
+| 0.51-1.0   | 64        | 85     | 28.32%  |
+| 1.01-2.0   | 18        | 33     | 7.96%   |
 | 3.01-4.0   | 8         | 12     | 3.54%   |
-| 4.01-10.0  | 3         | 4      | 1.33%   |
+| 4.01-10.0  | 3         | 5      | 1.33%   |
 
 Space Total
 -----------
@@ -2177,11 +2177,11 @@ Monitor models
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch        | 3         | 0.93%   |
 | Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch               | 2         | 0.62%   |
 | Samsung Electronics S27B550 SAM091B 1920x1080 598x336mm 27.0-inch     | 2         | 0.62%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 2         | 0.62%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 2         | 0.62%   |
+| Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch | 2         | 0.62%   |
 | Samsung Electronics LCD Monitor SAM0BB4 3840x2160 890x500mm 40.2-inch | 2         | 0.62%   |
 | Samsung Electronics LCD Monitor C34H89x 3440x1440                     | 2         | 0.62%   |
-| Samsung Electronics Color LCD SDCA029 2160x1440 252x168mm 11.9-inch   | 2         | 0.62%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch               | 2         | 0.62%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 2         | 0.62%   |
 | LGD LCD Monitor 1920x1080                                             | 2         | 0.62%   |
 | LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch          | 2         | 0.62%   |
 | LG Display LCD Monitor LGD02D8 1366x768 277x156mm 12.5-inch           | 2         | 0.62%   |
@@ -2737,48 +2737,48 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                                                               | Computers | Percent |
-|-------------------------------------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                                                  | 30        | 15.87%  |
-| Intel AX200 Bluetooth                                                               | 30        | 15.87%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 12        | 6.35%   |
-| Intel AX201 Bluetooth                                                               | 12        | 6.35%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter                                            | 10        | 5.29%   |
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 8         | 4.23%   |
-| Qualcomm Atheros  Bluetooth Device                                                  | 5         | 2.65%   |
-| Intel Bluetooth Device                                                              | 5         | 2.65%   |
-| Dell DW375 Bluetooth Module                                                         | 5         | 2.65%   |
-| Realtek Bluetooth Radio                                                             | 4         | 2.12%   |
-| Qualcomm Atheros AR3011 Bluetooth                                                   | 4         | 2.12%   |
-| Realtek  Bluetooth 4.2 Adapter                                                      | 3         | 1.59%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 3         | 1.59%   |
-| Lite-On Bluetooth Device                                                            | 3         | 1.59%   |
-| HP Broadcom 2070 Bluetooth Combo                                                    | 3         | 1.59%   |
-| Broadcom BCM20702A0 Bluetooth 4.0                                                   | 3         | 1.59%   |
-| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 3         | 1.59%   |
-| Apple Bluetooth Host Controller                                                     | 3         | 1.59%   |
-| Apple Bluetooth HCI                                                                 | 3         | 1.59%   |
-| Ralink RT3290 Bluetooth                                                             | 2         | 1.06%   |
-| Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 2         | 1.06%   |
-| Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter                               | 2         | 1.06%   |
-| Apple Built-in Bluetooth 2.0+EDR HCI                                                | 2         | 1.06%   |
-| Apple Bluetooth USB Host Controller                                                 | 2         | 1.06%   |
-| Toshiba Integrated Bluetooth HCI                                                    | 1         | 0.53%   |
-| Realtek RTL8821A Bluetooth                                                          | 1         | 0.53%   |
-| Realtek RTL8723B Bluetooth                                                          | 1         | 0.53%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 1         | 0.53%   |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 0.53%   |
-| Qualcomm Atheros AR9462 Bluetooth                                                   | 1         | 0.53%   |
-| Marvell Bluetooth and Wireless LAN Composite                                        | 1         | 0.53%   |
-| Lite-On Broadcom BCM43142A0 Bluetooth Device                                        | 1         | 0.53%   |
-| Lite-On Atheros Bluetooth                                                           | 1         | 0.53%   |
-| Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 0.53%   |
-| Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 0.53%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 0.53%   |
-| IMC Networks Wireless_Device                                                        | 1         | 0.53%   |
-| IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter                                   | 1         | 0.53%   |
-| HP Integrated Module with Bluetooth 2.1 Wireless technology                         | 1         | 0.53%   |
-| Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 0.53%   |
+| Model                                                       | Computers | Percent |
+|-------------------------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface                          | 30        | 15.87%  |
+| Intel AX200 Bluetooth                                       | 30        | 15.87%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)              | 12        | 6.35%   |
+| Intel AX201 Bluetooth                                       | 12        | 6.35%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter                    | 10        | 5.29%   |
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 8         | 4.23%   |
+| Qualcomm Atheros  Bluetooth Device                          | 5         | 2.65%   |
+| Dell DW375 Bluetooth Module                                 | 5         | 2.65%   |
+| Realtek Bluetooth Radio                                     | 4         | 2.12%   |
+| Qualcomm Atheros AR3011 Bluetooth                           | 4         | 2.12%   |
+| Intel Wireless-AC 3168 Bluetooth                            | 4         | 2.12%   |
+| Realtek  Bluetooth 4.2 Adapter                              | 3         | 1.59%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 3         | 1.59%   |
+| Lite-On Bluetooth Device                                    | 3         | 1.59%   |
+| HP Broadcom 2070 Bluetooth Combo                            | 3         | 1.59%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                           | 3         | 1.59%   |
+| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                  | 3         | 1.59%   |
+| Apple Bluetooth Host Controller                             | 3         | 1.59%   |
+| Apple Bluetooth HCI                                         | 3         | 1.59%   |
+| Ralink RT3290 Bluetooth                                     | 2         | 1.06%   |
+| Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 1.06%   |
+| Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter       | 2         | 1.06%   |
+| Apple Built-in Bluetooth 2.0+EDR HCI                        | 2         | 1.06%   |
+| Apple Bluetooth USB Host Controller                         | 2         | 1.06%   |
+| Toshiba Integrated Bluetooth HCI                            | 1         | 0.53%   |
+| Realtek RTL8821A Bluetooth                                  | 1         | 0.53%   |
+| Realtek RTL8723B Bluetooth                                  | 1         | 0.53%   |
+| Realtek Bluetooth Radio                                     | 1         | 0.53%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0                      | 1         | 0.53%   |
+| Qualcomm Atheros AR9462 Bluetooth                           | 1         | 0.53%   |
+| Marvell Bluetooth and Wireless LAN Composite                | 1         | 0.53%   |
+| Lite-On Broadcom BCM43142A0 Bluetooth Device                | 1         | 0.53%   |
+| Lite-On Atheros Bluetooth                                   | 1         | 0.53%   |
+| Lite-On Atheros AR3012 Bluetooth                            | 1         | 0.53%   |
+| Intel Centrino Bluetooth Wireless Transceiver               | 1         | 0.53%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter            | 1         | 0.53%   |
+| Intel Bluetooth Device                                      | 1         | 0.53%   |
+| IMC Networks Wireless_Device                                | 1         | 0.53%   |
+| IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter           | 1         | 0.53%   |
+| HP Integrated Module with Bluetooth 2.1 Wireless technology | 1         | 0.53%   |
 
 Sound
 -----
@@ -2919,7 +2919,7 @@ Memory module models
 | Model                                                        | Computers | Percent |
 |--------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s       | 6         | 3.14%   |
-| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s       | 6         | 3.14%   |
+| Samsung RAM M471A2K43DB1-CWE 16384MB SODIMM DDR4 3200MT/s    | 6         | 3.14%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 4         | 2.09%   |
 | Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s       | 3         | 1.57%   |
 | Unknown                                                      | 3         | 1.57%   |
@@ -2936,7 +2936,7 @@ Memory module models
 | Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 2         | 1.05%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 2         | 1.05%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s        | 2         | 1.05%   |
-| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s    | 2         | 1.05%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s       | 2         | 1.05%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s       | 2         | 1.05%   |
 | Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s       | 2         | 1.05%   |
 | Unknown RAM Module 8192MB SODIMM DDR4 2400MT/s               | 1         | 0.52%   |
@@ -3122,14 +3122,15 @@ Camera device vendors
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 50        | 26.6%   |
-| Bison Electronics                      | 18        | 9.57%   |
 | Sunplus Innovation Technology          | 17        | 9.04%   |
 | Realtek Semiconductor                  | 16        | 8.51%   |
+| Bison Electronics                      | 11        | 5.85%   |
 | Logitech                               | 10        | 5.32%   |
 | Microdia                               | 9         | 4.79%   |
 | IMC Networks                           | 9         | 4.79%   |
 | Apple                                  | 9         | 4.79%   |
 | Cheng Uei Precision Industry (Foxlink) | 8         | 4.26%   |
+| Acer                                   | 8         | 4.26%   |
 | Quanta                                 | 7         | 3.72%   |
 | Suyin                                  | 5         | 2.66%   |
 | Silicon Motion                         | 5         | 2.66%   |
@@ -3149,7 +3150,6 @@ Camera device vendors
 | Cubeternet                             | 1         | 0.53%   |
 | Creative Technology                    | 1         | 0.53%   |
 | Alcor Micro                            | 1         | 0.53%   |
-| Acer                                   | 1         | 0.53%   |
 
 Camera Model
 ------------
@@ -3173,9 +3173,9 @@ Camera device models
 | Sunplus Asus Webcam                                                        | 3         | 1.6%    |
 | Logitech HD Pro Webcam C920                                                | 3         | 1.6%    |
 | IMC Networks Integrated Camera                                             | 3         | 1.6%    |
-| Bison BisonCam,NB Pro                                                      | 3         | 1.6%    |
-| Bison BisonCam, NB Pro                                                     | 3         | 1.6%    |
 | Apple Built-in iSight                                                      | 3         | 1.6%    |
+| Acer BisonCam,NB Pro                                                       | 3         | 1.6%    |
+| Acer BisonCam, NB Pro                                                      | 3         | 1.6%    |
 | Suyin HP Truevision HD                                                     | 2         | 1.06%   |
 | Sunplus USB Camera                                                         | 2         | 1.06%   |
 | Sunplus Integrated_Webcam_HD                                               | 2         | 1.06%   |
@@ -3194,7 +3194,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 2         | 1.06%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD                    | 2         | 1.06%   |
 | Bison SunplusIT Integrated Camera                                          | 2         | 1.06%   |
-| Z-Star Vimicro USB Camera (Altair)                                         | 1         | 0.53%   |
+| Z-Star A4 tech USB2.0 Camera                                               | 1         | 0.53%   |
 | Syntek Web Cam - Asus F3SA, F9J, F9S                                       | 1         | 0.53%   |
 | Syntek USB2.0 Camera                                                       | 1         | 0.53%   |
 | Syntek Integrated Camera                                                   | 1         | 0.53%   |

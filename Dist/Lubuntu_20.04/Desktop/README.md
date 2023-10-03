@@ -782,17 +782,17 @@ Motherboard manufacture year
 | 2012 | 14       | 9.03%   |
 | 2011 | 14       | 9.03%   |
 | 2009 | 13       | 8.39%   |
+| 2014 | 12       | 7.74%   |
 | 2013 | 12       | 7.74%   |
 | 2010 | 11       | 7.1%    |
 | 2008 | 11       | 7.1%    |
 | 2007 | 11       | 7.1%    |
 | 2017 | 10       | 6.45%   |
-| 2014 | 10       | 6.45%   |
 | 2006 | 9        | 5.81%   |
-| 2019 | 8        | 5.16%   |
 | 2020 | 7        | 4.52%   |
 | 2015 | 7        | 4.52%   |
 | 2021 | 6        | 3.87%   |
+| 2019 | 6        | 3.87%   |
 | 2018 | 4        | 2.58%   |
 | 2005 | 4        | 2.58%   |
 | 2016 | 3        | 1.94%   |
@@ -1250,9 +1250,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 116      | 177    | 62.37%  |
-| 0.51-1.0   | 48       | 88     | 25.81%  |
-| 1.01-2.0   | 13       | 17     | 6.99%   |
+| 0.01-0.5   | 117      | 179    | 62.9%   |
+| 0.51-1.0   | 48       | 87     | 25.81%  |
+| 1.01-2.0   | 12       | 16     | 6.45%   |
 | 3.01-4.0   | 4        | 12     | 2.15%   |
 | 2.01-3.0   | 4        | 4      | 2.15%   |
 | 4.01-10.0  | 1        | 1      | 0.54%   |
@@ -1520,11 +1520,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 94       | 51.93%  |
-| IDE  | 66       | 36.46%  |
-| RAID | 11       | 6.08%   |
-| NVMe | 8        | 4.42%   |
-| SCSI | 2        | 1.1%    |
+| SATA | 94       | 52.22%  |
+| IDE  | 66       | 36.67%  |
+| RAID | 10       | 5.56%   |
+| NVMe | 8        | 4.44%   |
+| SCSI | 2        | 1.11%   |
 
 Processor
 ---------
@@ -1989,12 +1989,13 @@ Monitor models
 | Unknown LCD Monitor DELL3007WFPHC 2560x1600                           | 1        | 0.65%   |
 | Unknown LCD Monitor DELL3007WFPHC 1280x800                            | 1        | 0.65%   |
 | Unknown (ADA) LCD Monitor ADA0004 1280x800 150x100mm 7.1-inch         | 1        | 0.65%   |
-| Sony TV SNYAA01 1360x768                                              | 1        | 0.65%   |
+| Sony TV SNYAA01 1920x1080 880x490mm 39.7-inch                         | 1        | 0.65%   |
 | Sony SDM-S53 SNY2450 1024x768 304x228mm 15.0-inch                     | 1        | 0.65%   |
 | SHD 701Lite SHD02BD 1920x1080 110x62mm 5.0-inch                       | 1        | 0.65%   |
-| Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x290mm 29.5-inch        | 1        | 0.65%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch     | 1        | 0.65%   |
+| Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x291mm 29.5-inch        | 1        | 0.65%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch     | 1        | 0.65%   |
 | Samsung Electronics T24C300 SAM0A9B 1920x1080 531x299mm 24.0-inch     | 1        | 0.65%   |
+| Samsung Electronics SyncMaster SAM06A3 1360x768 410x230mm 18.5-inch   | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM058C 1600x900 443x249mm 20.0-inch   | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM052A 1920x1080 510x290mm 23.1-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM03E1 1440x900 410x257mm 19.1-inch   | 1        | 0.65%   |
@@ -2003,9 +2004,8 @@ Monitor models
 | Samsung Electronics SyncMaster SAM027C 1680x1050 433x271mm 20.1-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM021E 1680x1050 433x271mm 20.1-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM0218 1280x1024 376x301mm 19.0-inch  | 1        | 0.65%   |
-| Samsung Electronics SyncMaster SAM01D0 1600x1200 430x320mm 21.1-inch  | 1        | 0.65%   |
-| Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch  | 1        | 0.65%   |
-| Samsung Electronics SME1920N SAM06A3 1366x768 410x230mm 18.5-inch     | 1        | 0.65%   |
+| Samsung Electronics SyncMaster SAM01D0 1600x1200 432x324mm 21.3-inch  | 1        | 0.65%   |
+| Samsung Electronics SyncMaster SAM010B 1280x1024 338x270mm 17.0-inch  | 1        | 0.65%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 0.65%   |
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 0.65%   |
 
@@ -2511,8 +2511,8 @@ Controller models
 | Ralink RT3290 Bluetooth                             | 1        | 3.45%   |
 | Logitech BT Mini-Receiver (HCI mode)                | 1        | 3.45%   |
 | Lite-On Bluetooth Device                            | 1        | 3.45%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 3.45%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 3.45%   |
-| Intel Bluetooth Device                              | 1        | 3.45%   |
 | Intel AX210 Bluetooth                               | 1        | 3.45%   |
 | Intel AX201 Bluetooth                               | 1        | 3.45%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1        | 3.45%   |
@@ -2648,10 +2648,10 @@ Memory module models
 | SK hynix RAM Module 2048MB DIMM DDR3 1600MT/s                  | 4        | 3.23%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 2        | 1.61%   |
 | Unknown RAM Module 2048MB DIMM 400MT/s                         | 2        | 1.61%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 2        | 1.61%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 2        | 1.61%   |
 | SK hynix RAM Module 2048MB DIMM DDR3 1066MT/s                  | 2        | 1.61%   |
 | Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s            | 2        | 1.61%   |
-| Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s             | 2        | 1.61%   |
+| Nanya RAM NT2GT64U8HD0BY-AD 2048MB DIMM DDR2 2048MT/s          | 2        | 1.61%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1866MT/s                   | 1        | 0.81%   |
 | Unknown RAM Module 8192MB DIMM 667MT/s                         | 1        | 0.81%   |
 | Unknown RAM Module 512MB DIMM 400MT/s                          | 1        | 0.81%   |
@@ -2750,10 +2750,10 @@ Memory module speed
 | 1333    | 12       | 10.62%  |
 | 800     | 11       | 9.73%   |
 | 2133    | 8        | 7.08%   |
-| 2400    | 6        | 5.31%   |
 | 1066    | 6        | 5.31%   |
 | 667     | 6        | 5.31%   |
 | 400     | 6        | 5.31%   |
+| 2400    | 5        | 4.42%   |
 | 3200    | 4        | 3.54%   |
 | 1866    | 4        | 3.54%   |
 | Unknown | 4        | 3.54%   |
@@ -2761,6 +2761,7 @@ Memory module speed
 | 1867    | 3        | 2.65%   |
 | 3600    | 2        | 1.77%   |
 | 3000    | 2        | 1.77%   |
+| 2733    | 2        | 1.77%   |
 | 2667    | 2        | 1.77%   |
 | 533     | 2        | 1.77%   |
 | 49926   | 1        | 0.88%   |
@@ -2768,7 +2769,6 @@ Memory module speed
 | 3866    | 1        | 0.88%   |
 | 3066    | 1        | 0.88%   |
 | 2933    | 1        | 0.88%   |
-| 2733    | 1        | 0.88%   |
 | 1639    | 1        | 0.88%   |
 | 1334    | 1        | 0.88%   |
 | 333     | 1        | 0.88%   |
@@ -2867,7 +2867,7 @@ Camera device models
 | Generalplus CAMERA - UVC                  | 2        | 10.53%  |
 | Z-Star Sirius USB2.0 Camera               | 1        | 5.26%   |
 | SunplusIT USB 2.0 Camera                  | 1        | 5.26%   |
-| Sunplus papalook AF 925                   | 1        | 5.26%   |
+| Sunplus Full HD webcam                    | 1        | 5.26%   |
 | Samsung Galaxy series, misc. (MTP mode)   | 1        | 5.26%   |
 | Microsoft LifeCam HD-3000                 | 1        | 5.26%   |
 | Logitech Webcam B500                      | 1        | 5.26%   |

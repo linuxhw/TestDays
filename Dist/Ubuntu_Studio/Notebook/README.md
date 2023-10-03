@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 95
+Total: 96
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | VivoBook_ASUSLaptop X515... | [bab5438645](https://linux-hardware.org/?probe=bab5438645) | Sep 22, 2023 |
 | ASUSTek       | VivoBook_ASUSLaptop X515... | [ab3c1508f9](https://linux-hardware.org/?probe=ab3c1508f9) | Aug 30, 2023 |
 | Toshiba       | Satellite A505              | [a7b1465809](https://linux-hardware.org/?probe=a7b1465809) | Aug 25, 2023 |
 | Acer          | Nitro AN515-55              | [191aa2a04f](https://linux-hardware.org/?probe=191aa2a04f) | Aug 04, 2023 |
@@ -300,46 +301,46 @@ Version of the Linux kernel
 
 | Version                 | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| 6.2.0-1003-lowlatency   | 3         | 3.57%   |
-| 5.4.0-52-lowlatency     | 3         | 3.57%   |
-| 5.15.0-56-lowlatency    | 3         | 3.57%   |
-| 5.15.0-47-lowlatency    | 3         | 3.57%   |
-| 5.13.0-28-lowlatency    | 3         | 3.57%   |
-| 6.2.0-1009-lowlatency   | 2         | 2.38%   |
-| 5.8.0-55-lowlatency     | 2         | 2.38%   |
-| 5.4.0-94-lowlatency     | 2         | 2.38%   |
-| 5.4.0-65-lowlatency     | 2         | 2.38%   |
-| 5.4.0-45-lowlatency     | 2         | 2.38%   |
-| 5.4.0-42-lowlatency     | 2         | 2.38%   |
-| 5.19.0-1015-lowlatency  | 2         | 2.38%   |
-| 5.15.0-67-lowlatency    | 2         | 2.38%   |
-| 5.15.0-50-lowlatency    | 2         | 2.38%   |
-| 5.15.0-48-lowlatency    | 2         | 2.38%   |
-| 5.15.0-46-lowlatency    | 2         | 2.38%   |
-| 5.13.0-30-lowlatency    | 2         | 2.38%   |
-| 5.11.0-34-lowlatency    | 2         | 2.38%   |
-| 5.11.0-27-lowlatency    | 2         | 2.38%   |
-| 6.2.8-x64v3-xanmod1     | 1         | 1.19%   |
-| 6.2.0-1008-lowlatency   | 1         | 1.19%   |
-| 5.8.0-59-lowlatency     | 1         | 1.19%   |
-| 5.8.0-50-lowlatency     | 1         | 1.19%   |
-| 5.8.0-44-lowlatency     | 1         | 1.19%   |
-| 5.8.0-43-lowlatency     | 1         | 1.19%   |
-| 5.8.0-34-generic        | 1         | 1.19%   |
-| 5.8.0-29-lowlatency     | 1         | 1.19%   |
-| 5.8.0-25-lowlatency     | 1         | 1.19%   |
-| 5.7.6-050706-lowlatency | 1         | 1.19%   |
-| 5.7.6-050706-generic    | 1         | 1.19%   |
-| 5.4.0-96-lowlatency     | 1         | 1.19%   |
-| 5.4.0-88-lowlatency     | 1         | 1.19%   |
-| 5.4.0-52-generic        | 1         | 1.19%   |
-| 5.4.0-45-generic        | 1         | 1.19%   |
-| 5.4.0-34-lowlatency     | 1         | 1.19%   |
-| 5.4.0-26-lowlatency     | 1         | 1.19%   |
-| 5.4.0-132-lowlatency    | 1         | 1.19%   |
-| 5.4.0-107-lowlatency    | 1         | 1.19%   |
-| 5.4.0-100-lowlatency    | 1         | 1.19%   |
-| 5.3.0-19-lowlatency     | 1         | 1.19%   |
+| 6.2.0-1003-lowlatency   | 3         | 3.53%   |
+| 5.4.0-52-lowlatency     | 3         | 3.53%   |
+| 5.15.0-56-lowlatency    | 3         | 3.53%   |
+| 5.15.0-47-lowlatency    | 3         | 3.53%   |
+| 5.13.0-28-lowlatency    | 3         | 3.53%   |
+| 6.2.0-1009-lowlatency   | 2         | 2.35%   |
+| 5.8.0-55-lowlatency     | 2         | 2.35%   |
+| 5.4.0-94-lowlatency     | 2         | 2.35%   |
+| 5.4.0-65-lowlatency     | 2         | 2.35%   |
+| 5.4.0-45-lowlatency     | 2         | 2.35%   |
+| 5.4.0-42-lowlatency     | 2         | 2.35%   |
+| 5.19.0-1015-lowlatency  | 2         | 2.35%   |
+| 5.15.0-67-lowlatency    | 2         | 2.35%   |
+| 5.15.0-50-lowlatency    | 2         | 2.35%   |
+| 5.15.0-48-lowlatency    | 2         | 2.35%   |
+| 5.15.0-46-lowlatency    | 2         | 2.35%   |
+| 5.13.0-30-lowlatency    | 2         | 2.35%   |
+| 5.11.0-34-lowlatency    | 2         | 2.35%   |
+| 5.11.0-27-lowlatency    | 2         | 2.35%   |
+| 6.2.8-x64v3-xanmod1     | 1         | 1.18%   |
+| 6.2.0-1008-lowlatency   | 1         | 1.18%   |
+| 5.8.0-59-lowlatency     | 1         | 1.18%   |
+| 5.8.0-50-lowlatency     | 1         | 1.18%   |
+| 5.8.0-44-lowlatency     | 1         | 1.18%   |
+| 5.8.0-43-lowlatency     | 1         | 1.18%   |
+| 5.8.0-34-generic        | 1         | 1.18%   |
+| 5.8.0-29-lowlatency     | 1         | 1.18%   |
+| 5.8.0-25-lowlatency     | 1         | 1.18%   |
+| 5.7.6-050706-lowlatency | 1         | 1.18%   |
+| 5.7.6-050706-generic    | 1         | 1.18%   |
+| 5.4.0-96-lowlatency     | 1         | 1.18%   |
+| 5.4.0-88-lowlatency     | 1         | 1.18%   |
+| 5.4.0-52-generic        | 1         | 1.18%   |
+| 5.4.0-45-generic        | 1         | 1.18%   |
+| 5.4.0-34-lowlatency     | 1         | 1.18%   |
+| 5.4.0-26-lowlatency     | 1         | 1.18%   |
+| 5.4.0-132-lowlatency    | 1         | 1.18%   |
+| 5.4.0-107-lowlatency    | 1         | 1.18%   |
+| 5.4.0-100-lowlatency    | 1         | 1.18%   |
+| 5.3.0-19-lowlatency     | 1         | 1.18%   |
 
 Kernel Family
 -------------
@@ -812,8 +813,8 @@ Has Ethernet on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 67        | 82.72%  |
-| No        | 14        | 17.28%  |
+| Yes       | 67        | 81.71%  |
+| No        | 15        | 18.29%  |
 
 Has WiFi
 --------
@@ -955,7 +956,7 @@ Hard drive vendors
 | SanDisk                     | 7         | 7      | 7%      |
 | SK hynix                    | 5         | 6      | 5%      |
 | Seagate                     | 5         | 5      | 5%      |
-| Intel                       | 5         | 7      | 5%      |
+| Intel                       | 5         | 8      | 5%      |
 | Unknown                     | 4         | 4      | 4%      |
 | Micron Technology           | 3         | 3      | 3%      |
 | Kingston                    | 3         | 3      | 3%      |
@@ -995,46 +996,46 @@ Hard drive models
 
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
-| WDC PC SN530 SDBPNPZ-512G-1002 512GB      | 2         | 1.96%   |
-| Toshiba MQ04ABF100 1TB                    | 2         | 1.96%   |
-| Toshiba MQ01ABD100 1TB                    | 2         | 1.96%   |
-| SK hynix SKHynix_HFM512GDHTNI-87A0B 512GB | 2         | 1.96%   |
-| Samsung SSD 870 EVO 1TB                   | 2         | 1.96%   |
-| Samsung MZ7TD256HAFV-000L7 256GB SSD      | 2         | 1.96%   |
-| Kingston SA400S37240G 240GB SSD           | 2         | 1.96%   |
-| China SSD 1TB                             | 2         | 1.96%   |
-| XPG GAMMIX S7 1TB                         | 1         | 0.98%   |
-| Wibtek W800S 512GB SSD                    | 1         | 0.98%   |
-| WDC WDS100T2G0A-00JH30 1TB SSD            | 1         | 0.98%   |
-| WDC WDS100T2B0C-00PXH0 1TB                | 1         | 0.98%   |
-| WDC WDS100T2B0A-00SM50 1TB SSD            | 1         | 0.98%   |
-| WDC WD5000LPVX-75V0TT0 500GB              | 1         | 0.98%   |
-| WDC WD5000LPLX-08ZNTT0 500GB              | 1         | 0.98%   |
-| WDC WD5000BEKT-60KA9T0 500GB              | 1         | 0.98%   |
-| WDC WD3200BPVT-80ZEST0 320GB              | 1         | 0.98%   |
-| WDC WD3200BEKT-75PVMT1 320GB              | 1         | 0.98%   |
-| WDC WD3200BEKT-60V5T1 320GB               | 1         | 0.98%   |
-| WDC WD2500BEVT-22ZCT0 250GB               | 1         | 0.98%   |
-| WDC WD10SPZX-21Z10T0 1TB                  | 1         | 0.98%   |
-| WDC WD10JPVT-75A1YT0 1TB                  | 1         | 0.98%   |
-| WDC PC SN530 SDBPMPZ-256G-1001 256GB      | 1         | 0.98%   |
-| Unknown MMC Card  4GB                     | 1         | 0.98%   |
-| Unknown MMC Card  16GB                    | 1         | 0.98%   |
-| Unknown DA4128  128GB                     | 1         | 0.98%   |
-| Unknown 032G34  32GB                      | 1         | 0.98%   |
-| Union Memory UMIS RPJTJ256MEE1OWX 256GB   | 1         | 0.98%   |
-| UMIS RPJTJ256MEE1OWX 256GB                | 1         | 0.98%   |
-| Toshiba TR150 240GB SSD                   | 1         | 0.98%   |
-| Toshiba MK1637GSX 160GB                   | 1         | 0.98%   |
-| Toshiba HDWL110 1TB                       | 1         | 0.98%   |
-| Team TM8FP4001T 1TB                       | 1         | 0.98%   |
-| SPCC Solid State Disk 1TB                 | 1         | 0.98%   |
-| SK hynix SKHynix_HFS256GD9TNI-L2A0B 256GB | 1         | 0.98%   |
-| SK hynix SC401 SATA 256GB SSD             | 1         | 0.98%   |
-| SK hynix BC501 NVMe 256GB                 | 1         | 0.98%   |
-| Seagate ST9500420AS 500GB                 | 1         | 0.98%   |
-| Seagate ST9320320AS 320GB                 | 1         | 0.98%   |
-| Seagate ST500LM012 HN-M500MBB 500GB       | 1         | 0.98%   |
+| WDC PC SN530 SDBPNPZ-512G-1002 512GB      | 2         | 1.94%   |
+| Toshiba MQ04ABF100 1TB                    | 2         | 1.94%   |
+| Toshiba MQ01ABD100 1TB                    | 2         | 1.94%   |
+| SK hynix SKHynix_HFM512GDHTNI-87A0B 512GB | 2         | 1.94%   |
+| Samsung SSD 870 EVO 1TB                   | 2         | 1.94%   |
+| Samsung MZ7TD256HAFV-000L7 256GB SSD      | 2         | 1.94%   |
+| Kingston SA400S37240G 240GB SSD           | 2         | 1.94%   |
+| China SSD 1TB                             | 2         | 1.94%   |
+| XPG GAMMIX S7 1TB                         | 1         | 0.97%   |
+| Wibtek W800S 512GB SSD                    | 1         | 0.97%   |
+| WDC WDS100T2G0A-00JH30 1TB SSD            | 1         | 0.97%   |
+| WDC WDS100T2B0C-00PXH0 1TB                | 1         | 0.97%   |
+| WDC WDS100T2B0A-00SM50 1TB SSD            | 1         | 0.97%   |
+| WDC WD5000LPVX-75V0TT0 500GB              | 1         | 0.97%   |
+| WDC WD5000LPLX-08ZNTT0 500GB              | 1         | 0.97%   |
+| WDC WD5000BEKT-60KA9T0 500GB              | 1         | 0.97%   |
+| WDC WD3200BPVT-80ZEST0 320GB              | 1         | 0.97%   |
+| WDC WD3200BEKT-75PVMT1 320GB              | 1         | 0.97%   |
+| WDC WD3200BEKT-60V5T1 320GB               | 1         | 0.97%   |
+| WDC WD2500BEVT-22ZCT0 250GB               | 1         | 0.97%   |
+| WDC WD10SPZX-21Z10T0 1TB                  | 1         | 0.97%   |
+| WDC WD10JPVT-75A1YT0 1TB                  | 1         | 0.97%   |
+| WDC PC SN530 SDBPMPZ-256G-1001 256GB      | 1         | 0.97%   |
+| Unknown MMC Card  4GB                     | 1         | 0.97%   |
+| Unknown MMC Card  16GB                    | 1         | 0.97%   |
+| Unknown DA4128  128GB                     | 1         | 0.97%   |
+| Unknown 032G34  32GB                      | 1         | 0.97%   |
+| Union Memory UMIS RPJTJ256MEE1OWX 256GB   | 1         | 0.97%   |
+| UMIS RPJTJ256MEE1OWX 256GB                | 1         | 0.97%   |
+| Toshiba TR150 240GB SSD                   | 1         | 0.97%   |
+| Toshiba MK1637GSX 160GB                   | 1         | 0.97%   |
+| Toshiba HDWL110 1TB                       | 1         | 0.97%   |
+| Team TM8FP4001T 1TB                       | 1         | 0.97%   |
+| SPCC Solid State Disk 1TB                 | 1         | 0.97%   |
+| SK hynix SKHynix_HFS256GD9TNI-L2A0B 256GB | 1         | 0.97%   |
+| SK hynix SC401 SATA 256GB SSD             | 1         | 0.97%   |
+| SK hynix BC501 NVMe 256GB                 | 1         | 0.97%   |
+| Seagate ST9500420AS 500GB                 | 1         | 0.97%   |
+| Seagate ST9320320AS 320GB                 | 1         | 0.97%   |
+| Seagate ST500LM012 HN-M500MBB 500GB       | 1         | 0.97%   |
 
 HDD Vendor
 ----------
@@ -1046,15 +1047,14 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 9         | 10     | 32.14%  |
-| Toshiba             | 6         | 6      | 21.43%  |
-| Seagate             | 4         | 4      | 14.29%  |
-| Hitachi             | 3         | 3      | 10.71%  |
-| Samsung Electronics | 2         | 2      | 7.14%   |
-| Inateck             | 1         | 1      | 3.57%   |
-| HGST                | 1         | 1      | 3.57%   |
-| Fujitsu             | 1         | 1      | 3.57%   |
-| ASMT                | 1         | 1      | 3.57%   |
+| WDC                 | 9         | 10     | 33.33%  |
+| Toshiba             | 6         | 6      | 22.22%  |
+| Seagate             | 4         | 4      | 14.81%  |
+| Hitachi             | 3         | 3      | 11.11%  |
+| Samsung Electronics | 2         | 2      | 7.41%   |
+| HGST                | 1         | 1      | 3.7%    |
+| Fujitsu             | 1         | 1      | 3.7%    |
+| ASMT                | 1         | 1      | 3.7%    |
 
 SSD Vendor
 ----------
@@ -1066,24 +1066,25 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 8         | 8      | 22.86%  |
-| SanDisk             | 5         | 5      | 14.29%  |
-| WDC                 | 2         | 2      | 5.71%   |
-| PNY                 | 2         | 2      | 5.71%   |
-| Micron Technology   | 2         | 2      | 5.71%   |
-| Kingston            | 2         | 2      | 5.71%   |
-| Crucial             | 2         | 2      | 5.71%   |
-| China               | 2         | 2      | 5.71%   |
-| Wibtek              | 1         | 1      | 2.86%   |
-| Toshiba             | 1         | 1      | 2.86%   |
-| SPCC                | 1         | 1      | 2.86%   |
-| SK hynix            | 1         | 1      | 2.86%   |
-| Reeinno             | 1         | 1      | 2.86%   |
-| KingSpec            | 1         | 1      | 2.86%   |
-| JMicron Technology  | 1         | 1      | 2.86%   |
-| Intel               | 1         | 1      | 2.86%   |
-| Dogfish             | 1         | 1      | 2.86%   |
-| BHT                 | 1         | 1      | 2.86%   |
+| Samsung Electronics | 8         | 8      | 22.22%  |
+| SanDisk             | 5         | 5      | 13.89%  |
+| WDC                 | 2         | 2      | 5.56%   |
+| PNY                 | 2         | 2      | 5.56%   |
+| Micron Technology   | 2         | 2      | 5.56%   |
+| Kingston            | 2         | 2      | 5.56%   |
+| Crucial             | 2         | 2      | 5.56%   |
+| China               | 2         | 2      | 5.56%   |
+| Wibtek              | 1         | 1      | 2.78%   |
+| Toshiba             | 1         | 1      | 2.78%   |
+| SPCC                | 1         | 1      | 2.78%   |
+| SK hynix            | 1         | 1      | 2.78%   |
+| Reeinno             | 1         | 1      | 2.78%   |
+| KingSpec            | 1         | 1      | 2.78%   |
+| JMicron Technology  | 1         | 1      | 2.78%   |
+| Intel               | 1         | 1      | 2.78%   |
+| Inateck             | 1         | 1      | 2.78%   |
+| Dogfish             | 1         | 1      | 2.78%   |
+| BHT                 | 1         | 1      | 2.78%   |
 
 Drive Kind
 ----------
@@ -1095,9 +1096,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 30        | 35     | 33.33%  |
-| HDD  | 28        | 29     | 31.11%  |
-| NVMe | 26        | 34     | 28.89%  |
+| SSD  | 31        | 36     | 34.44%  |
+| HDD  | 27        | 28     | 30%     |
+| NVMe | 26        | 35     | 28.89%  |
 | MMC  | 6         | 7      | 6.67%   |
 
 Drive Connector
@@ -1111,7 +1112,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 52        | 60     | 58.43%  |
-| NVMe | 26        | 33     | 29.21%  |
+| NVMe | 26        | 34     | 29.21%  |
 | MMC  | 6         | 7      | 6.74%   |
 | SAS  | 5         | 5      | 5.62%   |
 
@@ -1125,10 +1126,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 44     | 67.8%   |
-| 0.51-1.0   | 17        | 18     | 28.81%  |
-| 3.01-4.0   | 1         | 1      | 1.69%   |
-| 1.01-2.0   | 1         | 1      | 1.69%   |
+| 0.01-0.5   | 41        | 44     | 67.21%  |
+| 0.51-1.0   | 17        | 17     | 27.87%  |
+| 1.01-2.0   | 2         | 2      | 3.28%   |
+| 3.01-4.0   | 1         | 1      | 1.64%   |
 
 Space Total
 -----------
@@ -1268,7 +1269,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 60        | 77     | 68.97%  |
+| Works    | 60        | 78     | 68.97%  |
 | Malfunc  | 18        | 18     | 20.69%  |
 | Detected | 9         | 10     | 10.34%  |
 
@@ -1525,42 +1526,42 @@ Microcode number
 
 | Number     | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 10        | 12.2%   |
-| 0x206a7    | 7         | 8.54%   |
-| 0x306a9    | 6         | 7.32%   |
-| 0x306d4    | 5         | 6.1%    |
-| 0x906ea    | 4         | 4.88%   |
-| 0x08600104 | 4         | 4.88%   |
-| 0xa0652    | 3         | 3.66%   |
-| 0x806ea    | 3         | 3.66%   |
-| 0x706e5    | 3         | 3.66%   |
-| 0x406e3    | 3         | 3.66%   |
-| 0x906e9    | 2         | 2.44%   |
-| 0x806c1    | 2         | 2.44%   |
-| 0x6fd      | 2         | 2.44%   |
-| 0x40651    | 2         | 2.44%   |
-| 0x106e5    | 2         | 2.44%   |
-| 0x0a50000c | 2         | 2.44%   |
-| 0x08108109 | 2         | 2.44%   |
-| 0x07030105 | 2         | 2.44%   |
-| 0x706a1    | 1         | 1.22%   |
-| 0x6fb      | 1         | 1.22%   |
-| 0x506e3    | 1         | 1.22%   |
-| 0x506c9    | 1         | 1.22%   |
-| 0x406c4    | 1         | 1.22%   |
-| 0x40661    | 1         | 1.22%   |
-| 0x306c3    | 1         | 1.22%   |
-| 0x1067a    | 1         | 1.22%   |
-| 0x10676    | 1         | 1.22%   |
-| 0x08608103 | 1         | 1.22%   |
-| 0x08608102 | 1         | 1.22%   |
-| 0x08600106 | 1         | 1.22%   |
-| 0x08600103 | 1         | 1.22%   |
-| 0x07030104 | 1         | 1.22%   |
-| 0x06006110 | 1         | 1.22%   |
-| 0x0500010d | 1         | 1.22%   |
-| 0x05000029 | 1         | 1.22%   |
-| 0x03000027 | 1         | 1.22%   |
+| Unknown    | 11        | 13.25%  |
+| 0x206a7    | 7         | 8.43%   |
+| 0x306a9    | 6         | 7.23%   |
+| 0x306d4    | 5         | 6.02%   |
+| 0x906ea    | 4         | 4.82%   |
+| 0x08600104 | 4         | 4.82%   |
+| 0xa0652    | 3         | 3.61%   |
+| 0x806ea    | 3         | 3.61%   |
+| 0x706e5    | 3         | 3.61%   |
+| 0x406e3    | 3         | 3.61%   |
+| 0x906e9    | 2         | 2.41%   |
+| 0x806c1    | 2         | 2.41%   |
+| 0x6fd      | 2         | 2.41%   |
+| 0x40651    | 2         | 2.41%   |
+| 0x106e5    | 2         | 2.41%   |
+| 0x0a50000c | 2         | 2.41%   |
+| 0x08108109 | 2         | 2.41%   |
+| 0x07030105 | 2         | 2.41%   |
+| 0x706a1    | 1         | 1.2%    |
+| 0x6fb      | 1         | 1.2%    |
+| 0x506e3    | 1         | 1.2%    |
+| 0x506c9    | 1         | 1.2%    |
+| 0x406c4    | 1         | 1.2%    |
+| 0x40661    | 1         | 1.2%    |
+| 0x306c3    | 1         | 1.2%    |
+| 0x1067a    | 1         | 1.2%    |
+| 0x10676    | 1         | 1.2%    |
+| 0x08608103 | 1         | 1.2%    |
+| 0x08608102 | 1         | 1.2%    |
+| 0x08600106 | 1         | 1.2%    |
+| 0x08600103 | 1         | 1.2%    |
+| 0x07030104 | 1         | 1.2%    |
+| 0x06006110 | 1         | 1.2%    |
+| 0x0500010d | 1         | 1.2%    |
+| 0x05000029 | 1         | 1.2%    |
+| 0x03000027 | 1         | 1.2%    |
 
 CPU Microarch
 -------------
@@ -1777,9 +1778,9 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC314A 1920x1080 408x230mm 18.4-inch | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC3041 1366x768 353x198mm 15.9-inch  | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 239x134mm 10.8-inch | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4852 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 890x500mm 40.2-inch | 1         | 1.04%   |
 | Philips PHL 216V6 PHLC10D 1920x1080 419x262mm 19.5-inch               | 1         | 1.04%   |
 | LG Philips LCD Monitor LPL1901 1680x1050 331x207mm 15.4-inch          | 1         | 1.04%   |
 | LG Display LCD Monitor LGDD801 1366x768 344x194mm 15.5-inch           | 1         | 1.04%   |
@@ -1797,7 +1798,7 @@ Monitor models
 | LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch          | 1         | 1.04%   |
 | Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch              | 1         | 1.04%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch              | 1         | 1.04%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch               | 1         | 1.04%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.04%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 1         | 1.04%   |
 | Hewlett-Packard E242 HWP326F 1920x1200 518x324mm 24.1-inch            | 1         | 1.04%   |
 
@@ -2126,7 +2127,7 @@ Ethernet models
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.39%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.39%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.39%   |
-| MediaTek moto g22                                                 | 1         | 1.39%   |
+| MediaTek Infinix SMART 6 HD                                       | 1         | 1.39%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 1.39%   |
 | Intel Ethernet Connection I219-V                                  | 1         | 1.39%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.39%   |
@@ -2236,15 +2237,16 @@ Controller models
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                | 18        | 29.03%  |
-| Realtek Bluetooth Radio                           | 5         | 8.06%   |
 | Intel AX201 Bluetooth                             | 5         | 8.06%   |
+| Realtek Bluetooth Radio                           | 4         | 6.45%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 4         | 6.45%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]        | 4         | 6.45%   |
 | Intel AX200 Bluetooth                             | 3         | 4.84%   |
-| Realtek 802.11ac WLAN Adapter                     | 2         | 3.23%   |
+| Realtek Bluetooth Radio                           | 2         | 3.23%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0            | 2         | 3.23%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth        | 2         | 3.23%   |
 | Apple Bluetooth Host Controller                   | 2         | 3.23%   |
+| Realtek RTL8723B Bluetooth                        | 1         | 1.61%   |
 | Realtek  Bluetooth 4.2 Adapter                    | 1         | 1.61%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter      | 1         | 1.61%   |
 | Ralink CSR BS8510                                 | 1         | 1.61%   |
@@ -2282,10 +2284,10 @@ Sound card vendors
 | QinHeng Electronics        | 1         | 0.87%   |
 | Mackie Designs             | 1         | 0.87%   |
 | Logitech                   | 1         | 0.87%   |
-| Jieli Technology           | 1         | 0.87%   |
 | Focusrite-Novation         | 1         | 0.87%   |
 | Dell                       | 1         | 0.87%   |
 | C-Media Electronics        | 1         | 0.87%   |
+| BR23                       | 1         | 0.87%   |
 | Behringer.......           | 1         | 0.87%   |
 | ASUSTek Computer           | 1         | 0.87%   |
 
@@ -2338,7 +2340,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                         | 1         | 0.71%   |
 | Mackie Designs BIG KNOB STUDIO+                                            | 1         | 0.71%   |
 | Logitech 960 Headset                                                       | 1         | 0.71%   |
-| Jieli Technology UACDemoV1.0                                               | 1         | 0.71%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1         | 0.71%   |
 
 Memory
 ------
@@ -2383,10 +2385,10 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s        | 3         | 2.91%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 3         | 2.91%   |
 | Kingston RAM LV32D4S2S8HD-8 8GB SODIMM DDR4 3200MT/s         | 3         | 2.91%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s    | 2         | 1.94%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 2         | 1.94%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.94%   |
 | SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s       | 2         | 1.94%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s        | 2         | 1.94%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s     | 2         | 1.94%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s        | 2         | 1.94%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s        | 2         | 1.94%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s       | 2         | 1.94%   |
@@ -2401,10 +2403,10 @@ Memory module models
 | SK hynix RAM HYMP512S64CP8-Y5 1GB SODIMM DDR 667MT/s         | 1         | 0.97%   |
 | SK hynix RAM HMT451S6DFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 0.97%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.97%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 0.97%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 0.97%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.97%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1334MT/s       | 1         | 0.97%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s    | 1         | 0.97%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s       | 1         | 0.97%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s       | 1         | 0.97%   |
 | SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s       | 1         | 0.97%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s       | 1         | 0.97%   |
@@ -2722,8 +2724,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 44        | 54.32%  |
-| 1     | 32        | 39.51%  |
-| 2     | 4         | 4.94%   |
+| 1     | 33        | 40.74%  |
+| 2     | 3         | 3.7%    |
 | 3     | 1         | 1.23%   |
 
 Unsupported Device Types
@@ -2736,10 +2738,10 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 16        | 40%     |
-| Graphics card         | 9         | 22.5%   |
-| Chipcard              | 9         | 22.5%   |
-| Net/wireless          | 2         | 5%      |
-| Multimedia controller | 2         | 5%      |
-| Camera                | 2         | 5%      |
+| Fingerprint reader    | 16        | 41.03%  |
+| Chipcard              | 9         | 23.08%  |
+| Graphics card         | 8         | 20.51%  |
+| Net/wireless          | 2         | 5.13%   |
+| Multimedia controller | 2         | 5.13%   |
+| Camera                | 2         | 5.13%   |
 

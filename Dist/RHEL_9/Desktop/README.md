@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 32
+Total: 33
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek    | ROG CROSSHAIR VIII DARK ... | [ff1efba80e](https://linux-hardware.org/?probe=ff1efba80e) | Sep 13, 2023 |
 | ASUSTek    | ROG CROSSHAIR VIII DARK ... | [c190907cc8](https://linux-hardware.org/?probe=c190907cc8) | Aug 29, 2023 |
 | ASRock     | A320M-HDV R4.0              | [f88687d2f0](https://linux-hardware.org/?probe=f88687d2f0) | Aug 15, 2023 |
 | ASUSTek    | ROG STRIX Z590-E GAMING ... | [f6892c6532](https://linux-hardware.org/?probe=f6892c6532) | Aug 15, 2023 |
@@ -203,16 +204,17 @@ Version of the Linux kernel
 
 | Version                      | Desktops | Percent |
 |------------------------------|----------|---------|
-| 5.14.0-162.6.1.el9_1.x86_64  | 5        | 20.83%  |
-| 5.14.0-70.17.1.el9_0.x86_64  | 3        | 12.5%   |
-| 5.14.0-284.25.1.el9_2.x86_64 | 3        | 12.5%   |
-| 5.14.0-284.11.1.el9_2.x86_64 | 3        | 12.5%   |
-| 5.14.0-162.22.2.el9_1.x86_64 | 3        | 12.5%   |
-| 5.14.0-70.22.1.el9_0.x86_64  | 2        | 8.33%   |
-| 5.14.0-162.12.1.el9_1.x86_64 | 2        | 8.33%   |
-| 5.14.0-70.5.1.el9_0.x86_64   | 1        | 4.17%   |
-| 5.14.0-284.18.1.el9_2.x86_64 | 1        | 4.17%   |
-| 5.14.0-162.23.1.el9_1.x86_64 | 1        | 4.17%   |
+| 5.14.0-162.6.1.el9_1.x86_64  | 5        | 20%     |
+| 5.14.0-70.17.1.el9_0.x86_64  | 3        | 12%     |
+| 5.14.0-284.25.1.el9_2.x86_64 | 3        | 12%     |
+| 5.14.0-284.11.1.el9_2.x86_64 | 3        | 12%     |
+| 5.14.0-162.22.2.el9_1.x86_64 | 3        | 12%     |
+| 5.14.0-70.22.1.el9_0.x86_64  | 2        | 8%      |
+| 5.14.0-162.12.1.el9_1.x86_64 | 2        | 8%      |
+| 5.14.0-70.5.1.el9_0.x86_64   | 1        | 4%      |
+| 5.14.0-284.30.1.el9_2.x86_64 | 1        | 4%      |
+| 5.14.0-284.18.1.el9_2.x86_64 | 1        | 4%      |
+| 5.14.0-162.23.1.el9_1.x86_64 | 1        | 4%      |
 
 Kernel Family
 -------------
@@ -476,12 +478,13 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2021 | 5        | 21.74%  |
 | 2022 | 3        | 13.04%  |
-| 2019 | 3        | 13.04%  |
 | 2017 | 3        | 13.04%  |
 | 2023 | 2        | 8.7%    |
 | 2020 | 2        | 8.7%    |
+| 2019 | 2        | 8.7%    |
 | 2018 | 2        | 8.7%    |
 | 2016 | 2        | 8.7%    |
+| 2014 | 1        | 4.35%   |
 | 2010 | 1        | 4.35%   |
 
 Form Factor
@@ -549,11 +552,11 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 2.01-3.0  | 9        | 37.5%   |
-| 3.01-4.0  | 7        | 29.17%  |
-| 4.01-8.0  | 4        | 16.67%  |
-| 1.01-2.0  | 3        | 12.5%   |
-| 8.01-16.0 | 1        | 4.17%   |
+| 2.01-3.0  | 10       | 40%     |
+| 3.01-4.0  | 7        | 28%     |
+| 4.01-8.0  | 4        | 16%     |
+| 1.01-2.0  | 3        | 12%     |
+| 8.01-16.0 | 1        | 4%      |
 
 Total Drives
 ------------
@@ -608,8 +611,8 @@ Has WiFi module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 14       | 60.87%  |
-| No        | 9        | 39.13%  |
+| Yes       | 14       | 58.33%  |
+| No        | 10       | 41.67%  |
 
 Has Bluetooth
 -------------
@@ -621,8 +624,8 @@ Has Bluetooth module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 12       | 52.17%  |
-| No        | 11       | 47.83%  |
+| Yes       | 12       | 50%     |
+| No        | 12       | 50%     |
 
 Location
 --------
@@ -658,29 +661,30 @@ Geographic location (city)
 
 | City           | Desktops | Percent |
 |----------------|----------|---------|
-| Wildomar       | 1        | 4.35%   |
-| Wellington     | 1        | 4.35%   |
-| Valencia       | 1        | 4.35%   |
-| Tokyo          | 1        | 4.35%   |
-| Sutton         | 1        | 4.35%   |
-| Stavropol      | 1        | 4.35%   |
-| Sainte-Marie   | 1        | 4.35%   |
-| Rio de Janeiro | 1        | 4.35%   |
-| Ribeirao Preto | 1        | 4.35%   |
-| Pforzheim      | 1        | 4.35%   |
-| Oldham         | 1        | 4.35%   |
-| Lansing        | 1        | 4.35%   |
-| Kochi          | 1        | 4.35%   |
-| Ghaziabad      | 1        | 4.35%   |
-| Ernakulam      | 1        | 4.35%   |
-| East Peoria    | 1        | 4.35%   |
-| Cherry Hill    | 1        | 4.35%   |
-| Canton         | 1        | 4.35%   |
-| Canning Town   | 1        | 4.35%   |
-| Birmingham     | 1        | 4.35%   |
-| Bengaluru      | 1        | 4.35%   |
-| Beeton         | 1        | 4.35%   |
-| Alliston       | 1        | 4.35%   |
+| Wildomar       | 1        | 4.17%   |
+| Wellington     | 1        | 4.17%   |
+| Valencia       | 1        | 4.17%   |
+| Tokyo          | 1        | 4.17%   |
+| Sutton         | 1        | 4.17%   |
+| Stavropol      | 1        | 4.17%   |
+| Sainte-Marie   | 1        | 4.17%   |
+| Rio de Janeiro | 1        | 4.17%   |
+| Ribeirao Preto | 1        | 4.17%   |
+| Pforzheim      | 1        | 4.17%   |
+| Oldham         | 1        | 4.17%   |
+| Newham         | 1        | 4.17%   |
+| Lansing        | 1        | 4.17%   |
+| Kochi          | 1        | 4.17%   |
+| Ghaziabad      | 1        | 4.17%   |
+| Ernakulam      | 1        | 4.17%   |
+| East Peoria    | 1        | 4.17%   |
+| Cherry Hill    | 1        | 4.17%   |
+| Canton         | 1        | 4.17%   |
+| Canning Town   | 1        | 4.17%   |
+| Birmingham     | 1        | 4.17%   |
+| Bengaluru      | 1        | 4.17%   |
+| Beeton         | 1        | 4.17%   |
+| Alliston       | 1        | 4.17%   |
 
 Drives
 ------
@@ -696,13 +700,13 @@ Hard drive vendors
 | Vendor                    | Desktops | Drives | Percent |
 |---------------------------|----------|--------|---------|
 | WDC                       | 10       | 17     | 18.87%  |
-| Seagate                   | 8        | 11     | 15.09%  |
+| Seagate                   | 8        | 12     | 15.09%  |
 | Samsung Electronics       | 7        | 10     | 13.21%  |
-| Sandisk                   | 4        | 4      | 7.55%   |
+| Sandisk                   | 4        | 5      | 7.55%   |
 | Unknown                   | 2        | 4      | 3.77%   |
 | Phison                    | 2        | 2      | 3.77%   |
 | Kingston                  | 2        | 2      | 3.77%   |
-| Intel                     | 2        | 3      | 3.77%   |
+| Intel                     | 2        | 5      | 3.77%   |
 | Crucial                   | 2        | 3      | 3.77%   |
 | China                     | 2        | 2      | 3.77%   |
 | XUM                       | 1        | 1      | 1.89%   |
@@ -728,7 +732,7 @@ Hard drive models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Intel SSD 660P Series 512GB       | 2        | 2.99%   |
+| Intel SSD 660P Series 1024GB      | 2        | 2.99%   |
 | XUM HX256GSSDSATA3 256GB          | 1        | 1.49%   |
 | WDC WDBA3V5000ANC-WRSN 500GB      | 1        | 1.49%   |
 | WDC WD80EFAX-68KNBN0 8TB          | 1        | 1.49%   |
@@ -746,7 +750,7 @@ Hard drive models
 | WDC WD10JPCX-24UE4T0 1TB          | 1        | 1.49%   |
 | WDC WD10EZEX-00BBHA0 1TB          | 1        | 1.49%   |
 | WDC WD100EFAX-68LHPN0 10TB        | 1        | 1.49%   |
-| Unknown SD/MMC/MS PRO 1GB         | 1        | 1.49%   |
+| Unknown SD/MMC/MS PRO 128GB       | 1        | 1.49%   |
 | Unknown SD/MMC/M.S.PRO 32GB       | 1        | 1.49%   |
 | Unknown SD/MMC 2GB                | 1        | 1.49%   |
 | Unknown M.S./M.S.Pro/HG 16GB      | 1        | 1.49%   |
@@ -761,7 +765,7 @@ Hard drive models
 | Seagate ST18000NM000J-2TV103 18TB | 1        | 1.49%   |
 | Seagate ST1000DM010-2EP102 1TB    | 1        | 1.49%   |
 | Sandisk WD Blue SN570 500GB       | 1        | 1.49%   |
-| Sandisk WD Black SN850 256GB      | 1        | 1.49%   |
+| Sandisk WD Black SN850 1TB        | 1        | 1.49%   |
 | SanDisk SSD PLUS 480GB            | 1        | 1.49%   |
 | SanDisk SDSSDHII480G 480GB        | 1        | 1.49%   |
 | Samsung SSD PM851a 2.5 7mm 1024GB | 1        | 1.49%   |
@@ -780,7 +784,7 @@ Hard disk drive vendors
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | WDC     | 9        | 16     | 39.13%  |
-| Seagate | 8        | 11     | 34.78%  |
+| Seagate | 8        | 12     | 34.78%  |
 | Unknown | 1        | 1      | 4.35%   |
 | Toshiba | 1        | 1      | 4.35%   |
 | SABRENT | 1        | 1      | 4.35%   |
@@ -806,7 +810,7 @@ Solid state drive vendors
 | XUM                 | 1        | 1      | 5.88%   |
 | PNY                 | 1        | 1      | 5.88%   |
 | KingSpec            | 1        | 1      | 5.88%   |
-| Intel               | 1        | 1      | 5.88%   |
+| Intel               | 1        | 2      | 5.88%   |
 | Gigabyte Technology | 1        | 1      | 5.88%   |
 
 Drive Kind
@@ -819,9 +823,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 15       | 18     | 33.33%  |
-| HDD     | 15       | 33     | 33.33%  |
-| NVMe    | 14       | 18     | 31.11%  |
+| SSD     | 15       | 19     | 33.33%  |
+| HDD     | 15       | 34     | 33.33%  |
+| NVMe    | 14       | 20     | 31.11%  |
 | Unknown | 1        | 3      | 2.22%   |
 
 Drive Connector
@@ -834,8 +838,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 21       | 47     | 53.85%  |
-| NVMe | 14       | 18     | 35.9%   |
+| SATA | 21       | 49     | 53.85%  |
+| NVMe | 14       | 20     | 35.9%   |
 | SAS  | 4        | 7      | 10.26%  |
 
 Drive Size
@@ -848,9 +852,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 15       | 21     | 44.12%  |
+| 0.01-0.5   | 15       | 22     | 44.12%  |
 | 0.51-1.0   | 8        | 10     | 23.53%  |
-| 3.01-4.0   | 3        | 5      | 8.82%   |
+| 3.01-4.0   | 3        | 6      | 8.82%   |
 | 1.01-2.0   | 3        | 4      | 8.82%   |
 | 10.01-20.0 | 2        | 4      | 5.88%   |
 | 4.01-10.0  | 2        | 5      | 5.88%   |
@@ -967,7 +971,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 13       | 37     | 50%     |
+| Detected | 13       | 41     | 50%     |
 | Works    | 11       | 32     | 42.31%  |
 | Malfunc  | 2        | 3      | 7.69%   |
 
@@ -1378,7 +1382,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM7016 3840x2160 950x540mm 43.0-inch  | 1        | 3.85%   |
 | Samsung Electronics LCD Monitor SAM0C04 3840x2160 1420x800mm 64.2-inch | 1        | 3.85%   |
 | Philips PHL 322E1 PHLC20F 1920x1080 698x393mm 31.5-inch                | 1        | 3.85%   |
-| Panasonic TV MEIA296 3840x2160 1280x720mm 57.8-inch                    | 1        | 3.85%   |
+| Panasonic TV MEIA296 3840x2160 698x392mm 31.5-inch                     | 1        | 3.85%   |
 | OUT Analog OUT0096 1280x800 341x256mm 16.8-inch                        | 1        | 3.85%   |
 | Haier LED39C800F HAI17FC 1920x1080 1150x650mm 52.0-inch                | 1        | 3.85%   |
 | Goldstar IPS226 GSM5807 1920x1080 477x268mm 21.5-inch                  | 1        | 3.85%   |
@@ -1687,10 +1691,10 @@ Total network controllers on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 10       | 43.48%  |
-| 2     | 7        | 30.43%  |
-| 3     | 4        | 17.39%  |
-| 4     | 2        | 8.7%    |
+| 1     | 11       | 45.83%  |
+| 2     | 7        | 29.17%  |
+| 3     | 4        | 16.67%  |
+| 4     | 2        | 8.33%   |
 
 IPv6
 ----
@@ -1702,8 +1706,8 @@ IPv6 vs IPv4
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 14       | 60.87%  |
-| Yes  | 9        | 39.13%  |
+| No   | 15       | 62.5%   |
+| Yes  | 9        | 37.5%   |
 
 Bluetooth
 ---------
@@ -1733,7 +1737,7 @@ Controller models
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
 | Intel AX210 Bluetooth                                 | 4        | 30.77%  |
-| Intel Bluetooth Device                                | 3        | 23.08%  |
+| Intel Wireless-AC 3168 Bluetooth                      | 3        | 23.08%  |
 | Intel AX201 Bluetooth                                 | 2        | 15.38%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 2        | 15.38%  |
 | Intel AX200 Bluetooth                                 | 1        | 7.69%   |
@@ -1839,19 +1843,19 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s   | 2        | 16.67%  |
-| Unknown RAM Module 8GB DIMM DDR3 1333MT/s               | 1        | 8.33%   |
-| Team RAM TEAMGROUP-ED4-2400 16GB DIMM DDR4 2400MT/s     | 1        | 8.33%   |
-| SK hynix RAM Module 16GB Row Of Chips LPDDR4 2933MT/s   | 1        | 8.33%   |
-| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s    | 1        | 8.33%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s     | 1        | 8.33%   |
-| Kingston RAM KF3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s  | 1        | 8.33%   |
-| G.Skill RAM F5-6000J3636F16G 16GB DIMM DDR5 6400MT/s    | 1        | 8.33%   |
-| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s  | 1        | 8.33%   |
-| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s | 1        | 8.33%   |
-| Crucial RAM CT8G4S24AM.M8FJ 8GB SODIMM DDR4 2400MT/s    | 1        | 8.33%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s  | 2        | 16.67%  |
+| Unknown RAM Module 8GB DIMM DDR3 1333MT/s              | 1        | 8.33%   |
+| Team RAM TEAMGROUP-ED4-2400 16GB DIMM DDR4 2400MT/s    | 1        | 8.33%   |
+| SK hynix RAM Module 16GB Row Of Chips LPDDR4 2933MT/s  | 1        | 8.33%   |
+| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s   | 1        | 8.33%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM 1867MT/s         | 1        | 8.33%   |
+| Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s    | 1        | 8.33%   |
+| G.Skill RAM F5-6000J3636F16G 16GB DIMM DDR5 6400MT/s   | 1        | 8.33%   |
+| G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s | 1        | 8.33%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s   | 1        | 8.33%   |
+| Crucial RAM CT8G4S24AM.M8FJ 8GB SODIMM DDR4 2400MT/s   | 1        | 8.33%   |
 
 Memory Kind
 -----------
@@ -1983,14 +1987,14 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                        | Desktops | Percent |
-|------------------------------|----------|---------|
-| vivo V2023                   | 1        | 16.67%  |
-| Realtek FULL HD 1080P Webcam | 1        | 16.67%  |
-| Owon USB CAMERA              | 1        | 16.67%  |
-| Microdia GC02M2              | 1        | 16.67%  |
-| Logitech Webcam C250         | 1        | 16.67%  |
-| IMC Networks XHC Camera      | 1        | 16.67%  |
+| Model                   | Desktops | Percent |
+|-------------------------|----------|---------|
+| vivo V2023              | 1        | 16.67%  |
+| Realtek Full HD webcam  | 1        | 16.67%  |
+| Owon USB CAMERA         | 1        | 16.67%  |
+| Microdia USB 2.0 Camera | 1        | 16.67%  |
+| Logitech Webcam C250    | 1        | 16.67%  |
+| IMC Networks XHC Camera | 1        | 16.67%  |
 
 Security
 --------
@@ -2036,9 +2040,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 18       | 78.26%  |
-| 1     | 4        | 17.39%  |
-| 2     | 1        | 4.35%   |
+| 0     | 19       | 79.17%  |
+| 1     | 4        | 16.67%  |
+| 2     | 1        | 4.17%   |
 
 Unsupported Device Types
 ------------------------

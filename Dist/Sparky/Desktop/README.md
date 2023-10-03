@@ -846,7 +846,7 @@ Hard drive models
 |-----------------------------------------|----------|---------|
 | Seagate ST500LT012-1DG142 500GB         | 2        | 4.17%   |
 | Samsung HD161GJ 160GB                   | 2        | 4.17%   |
-| XPG GAMMIX S11 Pro 256GB                | 1        | 2.08%   |
+| XPG GAMMIX S11 Pro 1TB                  | 1        | 2.08%   |
 | WDC WD800JD-08MSA1 80GB                 | 1        | 2.08%   |
 | WDC WD5000AVVS-63ZWB0 500GB             | 1        | 2.08%   |
 | WDC WD5000AAKS-75V0A0 500GB             | 1        | 2.08%   |
@@ -1956,7 +1956,7 @@ Sound card models
 | Intel 200 Series PCH HD Audio                                              | 1        | 2.17%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 2.17%   |
 | Creative Labs CA0106/CA0111 [SB Live!/Audigy/X-Fi Series]                  | 1        | 2.17%   |
-| C-Media Electronics KLIM Mantis Audio 7.1                                  | 1        | 2.17%   |
+| C-Media Electronics USB Audio Device                                       | 1        | 2.17%   |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                  | 1        | 2.17%   |
 | AMD Redwood HDMI Audio [Radeon HD 5000 Series]                             | 1        | 2.17%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 1        | 2.17%   |

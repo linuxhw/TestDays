@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 181
+Total: 183
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| HP            | EliteBook 845 14 inch G1... | [b409947c26](https://linux-hardware.org/?probe=b409947c26) | Sep 11, 2023 |
+| HP            | EliteBook 845 14 inch G1... | [f7f7964c03](https://linux-hardware.org/?probe=f7f7964c03) | Sep 09, 2023 |
 | HP            | EliteBook 845 14 inch G1... | [6459a498c5](https://linux-hardware.org/?probe=6459a498c5) | Sep 07, 2023 |
 | HP            | EliteBook 845 14 inch G1... | [c57f9232a2](https://linux-hardware.org/?probe=c57f9232a2) | Sep 05, 2023 |
 | HP            | EliteBook 845 14 inch G1... | [8b11ecfd36](https://linux-hardware.org/?probe=8b11ecfd36) | Sep 04, 2023 |
@@ -1254,9 +1256,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 63        | 78     | 62.38%  |
-| 0.51-1.0   | 35        | 39     | 34.65%  |
-| 1.01-2.0   | 2         | 4      | 1.98%   |
+| 0.01-0.5   | 63        | 79     | 62.38%  |
+| 0.51-1.0   | 35        | 40     | 34.65%  |
+| 1.01-2.0   | 2         | 2      | 1.98%   |
 | 4.01-10.0  | 1         | 1      | 0.99%   |
 
 Space Total
@@ -1924,7 +1926,7 @@ Monitor models
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch         | 3         | 2.14%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 3         | 2.14%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 3         | 2.14%   |
 | LG Display LCD Monitor LGD0468 1366x768 344x194mm 15.5-inch           | 2         | 1.43%   |
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch      | 2         | 1.43%   |
 | Chimei Innolux LCD Monitor CMN14C4 1366x768 309x173mm 13.9-inch       | 2         | 1.43%   |
@@ -1938,11 +1940,11 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0167 1280x1024 338x270mm 17.0-inch  | 1         | 0.71%   |
 | Samsung Electronics S32B80P SAM71F1 3840x2160 698x393mm 31.5-inch     | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch | 1         | 0.71%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 0.71%   |
-| Samsung Electronics LCD Monitor SEC314B 1600x900 344x194mm 15.5-inch  | 1         | 0.71%   |
+| Samsung Electronics LCD Monitor SEC314B 1680x945 409x230mm 18.5-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SDC864D 1920x1080 293x165mm 13.2-inch | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SDC534B 1600x900 382x215mm 17.3-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
@@ -1952,7 +1954,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4193 2880x1800 302x189mm 14.0-inch | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SDC4147 1366x768 344x194mm 15.5-inch  | 1         | 0.71%   |
 | Samsung Electronics LCD Monitor SAM03BC 1920x1080                     | 1         | 0.71%   |
-| SAC LED MONITOR SAC952D 1920x1080 480x260mm 21.5-inch                 | 1         | 0.71%   |
+| SAC DM-MONB2205 SAC952D 1920x1080 450x270mm 20.7-inch                 | 1         | 0.71%   |
 | PANDA LCD Monitor NCP004D 1920x1080 344x194mm 15.5-inch               | 1         | 0.71%   |
 | LG Display LP156WH1-TLA1 LGD6301 1366x768 344x194mm 15.5-inch         | 1         | 0.71%   |
 | LG Display LCD Monitor LGD0608 1920x1080 309x174mm 14.0-inch          | 1         | 0.71%   |
@@ -2253,9 +2255,9 @@ Wireless models
 | Broadcom BCM43142 802.11b/g/n                                  | 2         | 1.48%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                             | 1         | 0.74%   |
 | Realtek RTL8852BE PCIe 802.11ax Wireless Network Controller    | 1         | 0.74%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                     | 1         | 0.74%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                    | 1         | 0.74%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1         | 0.74%   |
+| Realtek 802.11n WLAN Adapter                                   | 1         | 0.74%   |
 | Realtek 802.11ac NIC                                           | 1         | 0.74%   |
 | Ralink RT2870/RT3070 Wireless Adapter                          | 1         | 0.74%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                      | 1         | 0.74%   |
@@ -2303,15 +2305,15 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 1%      |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 1%      |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 1%      |
-| OPPO OnePlus Nord                                                 | 1         | 1%      |
+| OPPO 8                                                            | 1         | 1%      |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1%      |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1%      |
 | Intel Ethernet Connection I218-V                                  | 1         | 1%      |
 | Intel Ethernet Connection (6) I219-V                              | 1         | 1%      |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 1%      |
 | Intel Ethernet Connection (3) I218-LM                             | 1         | 1%      |
-| Huawei MLA-L11                                                    | 1         | 1%      |
-| HP HP lt4120 Snapdragon X5 LTE                                    | 1         | 1%      |
+| Huawei JKM-LX1                                                    | 1         | 1%      |
+| HP lt4120 Snapdragon X5 LTE                                       | 1         | 1%      |
 
 Net Controller Kind
 -------------------
@@ -2405,35 +2407,37 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 21        | 19.44%  |
 | Qualcomm Atheros  Bluetooth Device                                                  | 15        | 13.89%  |
-| Realtek Bluetooth Radio                                                             | 7         | 6.48%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 7         | 6.48%   |
 | Intel AX201 Bluetooth                                                               | 7         | 6.48%   |
+| Realtek Bluetooth Radio                                                             | 6         | 5.56%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 5         | 4.63%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 5         | 4.63%   |
+| Realtek Bluetooth Radio                                                             | 5         | 4.63%   |
 | Intel AX200 Bluetooth                                                               | 5         | 4.63%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 4         | 3.7%    |
-| Intel Bluetooth Device                                                              | 3         | 2.78%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 2         | 1.85%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 2         | 1.85%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 1.85%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 1.85%   |
+| Intel Bluetooth Device                                                              | 2         | 1.85%   |
 | Foxconn / Hon Hai Bluetooth Device                                                  | 2         | 1.85%   |
 | Broadcom HP Portable SoftSailing                                                    | 2         | 1.85%   |
 | Toshiba Bluetooth Radio                                                             | 1         | 0.93%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 1         | 0.93%   |
 | Realtek RTL8821A Bluetooth                                                          | 1         | 0.93%   |
+| Realtek RTL8723B Bluetooth                                                          | 1         | 0.93%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                                        | 1         | 0.93%   |
 | Qualcomm Atheros Bluetooth USB Host Controller                                      | 1         | 0.93%   |
 | Lite-On Bluetooth Device                                                            | 1         | 0.93%   |
+| Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 0.93%   |
 | IMC Networks Wireless_Device                                                        | 1         | 0.93%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 0.93%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter                                   | 1         | 0.93%   |
 | Foxconn / Hon Hai Wireless_Device                                                   | 1         | 0.93%   |
 | Foxconn / Hon Hai MediaTek Bluetooth Adapter                                        | 1         | 0.93%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 0.93%   |
+| Foxconn / Hon Hai Broadcom BCM20702A1 Bluetooth                                     | 1         | 0.93%   |
 | Foxconn / Hon Hai Bluetooth USB Host Controller                                     | 1         | 0.93%   |
 | Foxconn / Hon Hai BCM43142A0                                                        | 1         | 0.93%   |
-| Foxconn / Hon Hai BCM20702A0                                                        | 1         | 0.93%   |
 | Dell DW375 Bluetooth Module                                                         | 1         | 0.93%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 1         | 0.93%   |
 
@@ -2570,7 +2574,7 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2                            | 1         | 1.04%   |
 | Unknown RAM Module 1024MB SODIMM LPDDR4 2400MT/s                 | 1         | 1.04%   |
 | Unknown RAM Module 1024MB SODIMM DDR2                            | 1         | 1.04%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 1.04%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 1.04%   |
 | Unknown (07FB) RAM GST32G08SCL196P-26 32GB SODIMM DDR4 2667MT/s  | 1         | 1.04%   |
 | Smart RAM SH564568FJ8NZRNSDR 2GB SODIMM DDR3 1600MT/s            | 1         | 1.04%   |
 | Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s            | 1         | 1.04%   |
@@ -2747,12 +2751,11 @@ Camera device models
 |------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                | 8         | 6.84%   |
 | IMC Networks Integrated Camera           | 5         | 4.27%   |
-| IMC Networks HD Camera                   | 4         | 3.42%   |
 | Chicony EasyCamera                       | 4         | 3.42%   |
 | Syntek EasyCamera                        | 3         | 2.56%   |
 | Silicon Motion Web Camera                | 3         | 2.56%   |
 | Quanta HD User Facing                    | 3         | 2.56%   |
-| Chicony TOSHIBA Web Camera - HD          | 3         | 2.56%   |
+| IMC Networks ov9734_azurewave_camera     | 3         | 2.56%   |
 | Syntek Integrated Camera                 | 2         | 1.71%   |
 | Sunplus Integrated_Webcam_HD             | 2         | 1.71%   |
 | Sunplus HD WebCam                        | 2         | 1.71%   |
@@ -2760,10 +2763,11 @@ Camera device models
 | Realtek HP "Truevision HD" laptop camera | 2         | 1.71%   |
 | Quanta HP TrueVision HD Camera           | 2         | 1.71%   |
 | Primax HP HD Webcam [Fixed]              | 2         | 1.71%   |
+| Microdia USB 2.0 Camera                  | 2         | 1.71%   |
 | Microdia Integrated_Webcam_HD            | 2         | 1.71%   |
+| Chicony TOSHIBA Web Camera - HD          | 2         | 1.71%   |
 | Chicony HP Webcam                        | 2         | 1.71%   |
 | Chicony HP HD Webcam                     | 2         | 1.71%   |
-| Chicony HD WebCam                        | 2         | 1.71%   |
 | Syntek Lenovo EasyCamera                 | 1         | 0.85%   |
 | Suyin Integrated_Webcam_HD               | 1         | 0.85%   |
 | Suyin HP Truevision HD                   | 1         | 0.85%   |
@@ -2869,9 +2873,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 87        | 64.44%  |
-| 1     | 40        | 29.63%  |
-| 2     | 8         | 5.93%   |
+| 0     | 86        | 64.18%  |
+| 1     | 40        | 29.85%  |
+| 2     | 8         | 5.97%   |
 
 Unsupported Device Types
 ------------------------

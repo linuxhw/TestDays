@@ -848,14 +848,14 @@ Hard drive models
 | Samsung SSD 860 EVO mSATA 500GB                     | 1        | 1.75%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 250GB              | 1        | 1.75%   |
 | Samsung NVMe SSD Drive 1TB                          | 1        | 1.75%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 1        | 1.75%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 1        | 1.75%   |
 | Samsung MZVLB256HAHQ-000L7 256GB                    | 1        | 1.75%   |
 | Samsung MZMPC064HBDR-000L1 64GB SSD                 | 1        | 1.75%   |
 | Patriot Burst 120GB SSD                             | 1        | 1.75%   |
 | Origin Inception TLC830 SSD 120GB                   | 1        | 1.75%   |
 | ORICO CN300-250G                                    | 1        | 1.75%   |
 | Micron/Crucial NVMe SSD Drive 500GB                 | 1        | 1.75%   |
-| Micron Crucial X6 SSD 1TB                           | 1        | 1.75%   |
+| Micron Crucial X6 SSD 500GB                         | 1        | 1.75%   |
 
 HDD Vendor
 ----------
@@ -941,8 +941,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 21       | 31     | 60%     |
-| 0.51-1.0   | 11       | 14     | 31.43%  |
+| 0.01-0.5   | 21       | 32     | 60%     |
+| 0.51-1.0   | 11       | 13     | 31.43%  |
 | 3.01-4.0   | 1        | 1      | 2.86%   |
 | 2.01-3.0   | 1        | 1      | 2.86%   |
 | 1.01-2.0   | 1        | 1      | 2.86%   |

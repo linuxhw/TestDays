@@ -1466,8 +1466,8 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2010 | 63       | 11.39%  |
-| 2009 | 58       | 10.49%  |
+| 2010 | 62       | 11.21%  |
+| 2009 | 59       | 10.67%  |
 | 2011 | 51       | 9.22%   |
 | 2008 | 47       | 8.5%    |
 | 2007 | 46       | 8.32%   |
@@ -1837,7 +1837,7 @@ Hard drive models
 | Samsung HD502HI 500GB            | 4        | 0.44%   |
 | Samsung HD322HJ 320GB            | 4        | 0.44%   |
 | Samsung HD161HJ 160GB            | 4        | 0.44%   |
-| Hitachi HDT722516DLA380 160GB    | 4        | 0.44%   |
+| Hitachi HDT722516DLA380 165GB    | 4        | 0.44%   |
 | Crucial CT240BX500SSD1 240GB     | 4        | 0.44%   |
 | WDC WDS240G2G0A-00JH30 240GB SSD | 3        | 0.33%   |
 | WDC WD5000AZRX-00A8LB0 500GB     | 3        | 0.33%   |
@@ -1965,12 +1965,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 442      | 707    | 67.38%  |
-| 0.51-1.0   | 144      | 222    | 21.95%  |
-| 1.01-2.0   | 42       | 66     | 6.4%    |
+| 0.01-0.5   | 442      | 713    | 67.38%  |
+| 0.51-1.0   | 145      | 218    | 22.1%   |
+| 1.01-2.0   | 39       | 62     | 5.95%   |
 | 3.01-4.0   | 13       | 31     | 1.98%   |
+| 4.01-10.0  | 9        | 10     | 1.37%   |
 | 2.01-3.0   | 7        | 12     | 1.07%   |
-| 4.01-10.0  | 7        | 8      | 1.07%   |
 | 10.01-20.0 | 1        | 1      | 0.15%   |
 
 Space Total
@@ -2691,7 +2691,7 @@ Monitor models
 | Dell 1907FP DEL4014 1280x1024 376x301mm 19.0-inch                      | 2        | 0.37%   |
 | Dell 1708FP DEL4023 1280x1024 338x270mm 17.0-inch                      | 2        | 0.37%   |
 | Dell 1704FPT DEL4004 1280x1024 338x270mm 17.0-inch                     | 2        | 0.37%   |
-| CVT CVTE TV CVT0003 1360x768 575x323mm 26.0-inch                       | 2        | 0.37%   |
+| CVT CVTE TV CVT0003 1920x1080 575x323mm 26.0-inch                      | 2        | 0.37%   |
 | BenQ LCD Monitor GW2765 2560x1440                                      | 2        | 0.37%   |
 | BenQ LCD Monitor GW2480 1920x1080                                      | 2        | 0.37%   |
 | BenQ GL2450H BNQ78A7 1920x1080 531x298mm 24.0-inch                     | 2        | 0.37%   |
@@ -3175,7 +3175,7 @@ Ethernet models
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet         | 3        | 0.49%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 3        | 0.49%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 3        | 0.49%   |
-| MediaTek moto g22                                                 | 3        | 0.49%   |
+| MediaTek Infinix SMART 6 HD                                       | 3        | 0.49%   |
 | Intel 82567LF-2 Gigabit Network Connection                        | 3        | 0.49%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 3        | 0.49%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 3        | 0.49%   |
@@ -3284,7 +3284,7 @@ Controller models
 | Intel Wireless-AC 9260 Bluetooth Adapter                 | 5        | 4.81%   |
 | Intel AX201 Bluetooth                                    | 5        | 4.81%   |
 | Intel AX200 Bluetooth                                    | 5        | 4.81%   |
-| Intel Bluetooth Device                                   | 4        | 3.85%   |
+| Intel Wireless-AC 3168 Bluetooth                         | 4        | 3.85%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                        | 4        | 3.85%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)           | 3        | 2.88%   |
 | IMC Networks Bluetooth Radio                             | 3        | 2.88%   |
@@ -3444,48 +3444,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 1GB DIMM SDRAM                       | 4        | 3.67%   |
-| Unknown RAM Module 2GB DIMM 667MT/s                     | 2        | 1.83%   |
-| Unknown RAM Module 2048MB DIMM 800MT/s                  | 2        | 1.83%   |
-| Unknown RAM Module 1GB DIMM DDR2                        | 2        | 1.83%   |
-| Unknown RAM Module 1024MB DIMM DDR2 333MT/s             | 2        | 1.83%   |
-| Unknown RAM Module 1024MB DIMM                          | 2        | 1.83%   |
-| Kingston RAM KCM633-ELC 1GB DIMM DDR2 2048MT/s          | 2        | 1.83%   |
-| Elpida RAM EBJ20UF8BCF0-DJ-F 2GB DIMM DDR3 1333MT/s     | 2        | 1.83%   |
-| Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s   | 2        | 1.83%   |
-| Unknown RAM Module 8GB DIMM DDR3 1333MT/s               | 1        | 0.92%   |
-| Unknown RAM Module 8192MB DIMM SDRAM                    | 1        | 0.92%   |
-| Unknown RAM Module 512MB DIMM 400MT/s                   | 1        | 0.92%   |
-| Unknown RAM Module 512MB DIMM 333MT/s                   | 1        | 0.92%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s               | 1        | 0.92%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                    | 1        | 0.92%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s            | 1        | 0.92%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s            | 1        | 0.92%   |
-| Unknown RAM Module 4096MB DIMM 667MT/s                  | 1        | 0.92%   |
-| Unknown RAM Module 4096MB DIMM                          | 1        | 0.92%   |
-| Unknown RAM Module 2GB DIMM SDRAM 800MT/s               | 1        | 0.92%   |
-| Unknown RAM Module 2GB DIMM SDRAM                       | 1        | 0.92%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 0.92%   |
-| Unknown RAM Module 2GB DIMM DDR 667MT/s                 | 1        | 0.92%   |
-| Unknown RAM Module 2GB DIMM 800MT/s                     | 1        | 0.92%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s            | 1        | 0.92%   |
-| Unknown RAM Module 2048MB DIMM DDR2 333MT/s             | 1        | 0.92%   |
-| Unknown RAM Module 2048MB DIMM                          | 1        | 0.92%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                    | 1        | 0.92%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s             | 1        | 0.92%   |
-| Unknown RAM Module 1024MB DIMM 800MT/s                  | 1        | 0.92%   |
-| SK hynix RAM Module 8192MB SODIMM DDR4 2666MT/s         | 1        | 0.92%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s   | 1        | 0.92%   |
-| SK hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 1639MT/s    | 1        | 0.92%   |
-| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 0.92%   |
-| SK hynix RAM HMT451U6AFR8A-PB 4096MB DIMM DDR3 1600MT/s | 1        | 0.92%   |
-| SK hynix RAM HMT41GU6BFR8C-PB 8GB DIMM DDR3 1600MT/s    | 1        | 0.92%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 1        | 0.92%   |
-| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 0.92%   |
-| SK hynix RAM HMT325U6BFR8C-H9 2048MB DIMM 1333MT/s      | 1        | 0.92%   |
-| SK hynix RAM HMT151R7BFR4C 4GB DIMM DDR3 1333MT/s       | 1        | 0.92%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 1GB DIMM SDRAM                         | 4        | 3.67%   |
+| Unknown RAM Module 2GB DIMM 667MT/s                       | 2        | 1.83%   |
+| Unknown RAM Module 2048MB DIMM 800MT/s                    | 2        | 1.83%   |
+| Unknown RAM Module 1GB DIMM DDR2                          | 2        | 1.83%   |
+| Unknown RAM Module 1024MB DIMM DDR2 333MT/s               | 2        | 1.83%   |
+| Unknown RAM Module 1024MB DIMM                            | 2        | 1.83%   |
+| Kingston RAM KCM633-ELC 1GB DIMM DDR2 2048MT/s            | 2        | 1.83%   |
+| Elpida RAM EBJ20UF8BCF0-DJ-F 2048MB DIMM DDR3 1333MT/s    | 2        | 1.83%   |
+| Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s     | 2        | 1.83%   |
+| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                 | 1        | 0.92%   |
+| Unknown RAM Module 8192MB DIMM SDRAM                      | 1        | 0.92%   |
+| Unknown RAM Module 512MB DIMM 400MT/s                     | 1        | 0.92%   |
+| Unknown RAM Module 512MB DIMM 333MT/s                     | 1        | 0.92%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                 | 1        | 0.92%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                      | 1        | 0.92%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s              | 1        | 0.92%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s              | 1        | 0.92%   |
+| Unknown RAM Module 4096MB DIMM 667MT/s                    | 1        | 0.92%   |
+| Unknown RAM Module 4096MB DIMM                            | 1        | 0.92%   |
+| Unknown RAM Module 2GB DIMM SDRAM 800MT/s                 | 1        | 0.92%   |
+| Unknown RAM Module 2GB DIMM SDRAM                         | 1        | 0.92%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                  | 1        | 0.92%   |
+| Unknown RAM Module 2GB DIMM DDR 667MT/s                   | 1        | 0.92%   |
+| Unknown RAM Module 2GB DIMM 800MT/s                       | 1        | 0.92%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s              | 1        | 0.92%   |
+| Unknown RAM Module 2048MB DIMM DDR2 333MT/s               | 1        | 0.92%   |
+| Unknown RAM Module 2048MB DIMM                            | 1        | 0.92%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                      | 1        | 0.92%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 0.92%   |
+| Unknown RAM Module 1024MB DIMM 800MT/s                    | 1        | 0.92%   |
+| SK hynix RAM Module 8192MB SODIMM DDR4 2666MT/s           | 1        | 0.92%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s     | 1        | 0.92%   |
+| SK hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 1639MT/s      | 1        | 0.92%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 0.92%   |
+| SK hynix RAM HMT451U6AFR8A-PB 4096MB DIMM DDR3 1600MT/s   | 1        | 0.92%   |
+| SK hynix RAM HMT41GU6BFR8C-PB 8GB DIMM DDR3 1600MT/s      | 1        | 0.92%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s | 1        | 0.92%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 0.92%   |
+| SK hynix RAM HMT325U6BFR8C-H9 2048MB DIMM 1333MT/s        | 1        | 0.92%   |
+| SK hynix RAM HMT151R7BFR4C 4GB DIMM DDR3 1333MT/s         | 1        | 0.92%   |
 
 Memory Kind
 -----------
@@ -3635,10 +3635,10 @@ Printer device models
 | HP Deskjet 1050 J410                         | 1        | 2.5%    |
 | Canon TS3100 series                          | 1        | 2.5%    |
 | Canon Pixma iP4500 Printer                   | 1        | 2.5%    |
+| Canon LiDE 300                               | 1        | 2.5%    |
 | Canon LBP810                                 | 1        | 2.5%    |
 | Canon iP7200 series                          | 1        | 2.5%    |
 | Canon FAXPHONE L80                           | 1        | 2.5%    |
-| Canon CanoScan LiDE 300                      | 1        | 2.5%    |
 | Brother MFC-J470DW                           | 1        | 2.5%    |
 | Brother HL-L2380DW                           | 1        | 2.5%    |
 | Brother HL-L2350DW series                    | 1        | 2.5%    |
@@ -3719,7 +3719,7 @@ Camera device models
 |---------------------------------------------------|----------|---------|
 | Samsung Galaxy series, misc. (MTP mode)           | 4        | 6.9%    |
 | Logitech Webcam C270                              | 4        | 6.9%    |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X                   | 4        | 6.9%    |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                | 4        | 6.9%    |
 | Microsoft LifeCam HD-3000                         | 2        | 3.45%   |
 | Logitech Webcam C250                              | 2        | 3.45%   |
 | Logitech HD Pro Webcam C920                       | 2        | 3.45%   |
@@ -3754,7 +3754,7 @@ Camera device models
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311] | 1        | 1.72%   |
 | Cubeternet WebCam                                 | 1        | 1.72%   |
 | Cubeternet USB2.0 Camera                          | 1        | 1.72%   |
-| Chicony USB 2.0 Camera                            | 1        | 1.72%   |
+| Chicony Integrated_Webcam_1.3M                    | 1        | 1.72%   |
 | Chicony CNF7042                                   | 1        | 1.72%   |
 | AVerMedia Live Streamer CAM 313                   | 1        | 1.72%   |
 
@@ -3825,8 +3825,8 @@ Total unsupported devices on board
 | Total | Desktops | Percent |
 |-------|----------|---------|
 | 0     | 424      | 75.58%  |
-| 1     | 112      | 19.96%  |
-| 2     | 21       | 3.74%   |
+| 1     | 111      | 19.79%  |
+| 2     | 22       | 3.92%   |
 | 3     | 3        | 0.53%   |
 | 4     | 1        | 0.18%   |
 
@@ -3840,14 +3840,14 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 74       | 46.84%  |
-| Net/wireless             | 42       | 26.58%  |
-| Communication controller | 15       | 9.49%   |
-| Multimedia controller    | 9        | 5.7%    |
-| Unassigned class         | 5        | 3.16%   |
-| Modem                    | 5        | 3.16%   |
-| Sound                    | 2        | 1.27%   |
-| Chipcard                 | 2        | 1.27%   |
+| Graphics card            | 74       | 46.54%  |
+| Net/wireless             | 43       | 27.04%  |
+| Communication controller | 15       | 9.43%   |
+| Multimedia controller    | 9        | 5.66%   |
+| Unassigned class         | 5        | 3.14%   |
+| Modem                    | 5        | 3.14%   |
+| Sound                    | 2        | 1.26%   |
+| Chipcard                 | 2        | 1.26%   |
 | Storage/raid             | 1        | 0.63%   |
 | Storage/nvme             | 1        | 0.63%   |
 | Storage                  | 1        | 0.63%   |

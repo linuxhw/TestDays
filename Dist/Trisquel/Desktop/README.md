@@ -1235,7 +1235,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0216 1280x1024 338x270mm 17.0-inch  | 1        | 7.69%   |
 | Samsung Electronics SMC27A550U SAM07F6 1920x1080 598x336mm 27.0-inch  | 1        | 7.69%   |
 | Plain Tree Systems Monitor PTS076D 1280x1024 376x301mm 19.0-inch      | 1        | 7.69%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch               | 1        | 7.69%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 1        | 7.69%   |
 | Dell E151FPp DEL7006 1024x768 300x230mm 14.9-inch                     | 1        | 7.69%   |
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                       | 1        | 7.69%   |
 | Ancor Communications ASUS VS229 ACI22D3 1920x1080 475x267mm 21.5-inch | 1        | 7.69%   |
@@ -1386,10 +1386,10 @@ Controller models
 | Nvidia MCP61 Ethernet                                               | 2        | 10.53%  |
 | Ralink RT2870/RT3070 Wireless Adapter                               | 1        | 5.26%   |
 | Ralink MT7601U Wireless Adapter                                     | 1        | 5.26%   |
+| Qualcomm POCO M2 Pro                                                | 1        | 5.26%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller           | 1        | 5.26%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 1        | 5.26%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1        | 5.26%   |
-| Qualcomm Android                                                    | 1        | 5.26%   |
 | Intel Ethernet Connection (5) I219-LM                               | 1        | 5.26%   |
 | Intel 82574L Gigabit Network Connection                             | 1        | 5.26%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                     | 1        | 5.26%   |
@@ -1455,9 +1455,9 @@ Ethernet models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 38.46%  |
 | Nvidia MCP61 Ethernet                                             | 2        | 15.38%  |
+| Qualcomm POCO M2 Pro                                              | 1        | 7.69%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 7.69%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 7.69%   |
-| Qualcomm Android                                                  | 1        | 7.69%   |
 | Intel Ethernet Connection (5) I219-LM                             | 1        | 7.69%   |
 | Intel 82574L Gigabit Network Connection                           | 1        | 7.69%   |
 | Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 7.69%   |
@@ -1607,7 +1607,7 @@ Memory module vendors
 | Micron Technology   | 2        | 15.38%  |
 | PNY                 | 1        | 7.69%   |
 | Kingston            | 1        | 7.69%   |
-| Goodram             | 1        | 7.69%   |
+| GOODRAM             | 1        | 7.69%   |
 | G.Skill             | 1        | 7.69%   |
 
 Memory Model
@@ -1631,7 +1631,7 @@ Memory module models
 | Micron RAM Module 2048MB DIMM DDR3 1066MT/s                               | 1        | 7.69%   |
 | Micron RAM 36JSF1G72PZ-1 8192MB DIMM DDR3 1866MT/s                        | 1        | 7.69%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                     | 1        | 7.69%   |
-| Goodram RAM GY1600D364L9/4G 4GB DIMM DDR3 1333MT/s                        | 1        | 7.69%   |
+| GOODRAM RAM GY1600D364L9/4G 4GB DIMM DDR3 1333MT/s                        | 1        | 7.69%   |
 | G.Skill RAM F3-2400C11-8GXM 8GB DIMM DDR3 2400MT/s                        | 1        | 7.69%   |
 
 Memory Kind

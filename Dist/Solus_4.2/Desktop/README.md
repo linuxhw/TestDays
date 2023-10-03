@@ -1207,7 +1207,7 @@ Monitor models
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
+| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                  | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
@@ -1722,11 +1722,11 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                           | Desktops | Percent |
-|---------------------------------|----------|---------|
-| Microsoft LifeCam HD-3000       | 1        | 33.33%  |
-| Logitech Logitech Webcam C160   | 1        | 33.33%  |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X | 1        | 33.33%  |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Microsoft LifeCam HD-3000          | 1        | 33.33%  |
+| Logitech Logitech Webcam C160      | 1        | 33.33%  |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR | 1        | 33.33%  |
 
 Security
 --------

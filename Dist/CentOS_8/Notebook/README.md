@@ -723,8 +723,8 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2012 | 18        | 15.13%  |
 | 2019 | 16        | 13.45%  |
-| 2016 | 14        | 11.76%  |
-| 2014 | 12        | 10.08%  |
+| 2016 | 13        | 10.92%  |
+| 2014 | 13        | 10.92%  |
 | 2015 | 10        | 8.4%    |
 | 2020 | 9         | 7.56%   |
 | 2018 | 9         | 7.56%   |
@@ -1067,7 +1067,7 @@ Hard drive models
 | WDC WD10JPCX-24UE4T0 1TB                | 1         | 0.62%   |
 | WDC PC SN520 SDAPMUW-512G-1101 512GB    | 1         | 0.62%   |
 | Unknown SD02G  2GB                      | 1         | 0.62%   |
-| Unknown SD/MMC/MS PRO 1GB               | 1         | 0.62%   |
+| Unknown SD/MMC/MS PRO 128GB             | 1         | 0.62%   |
 | Unknown MMC Card  976MB                 | 1         | 0.62%   |
 | Unknown MMC Card  4GB                   | 1         | 0.62%   |
 | Unknown MMC Card  33GB                  | 1         | 0.62%   |
@@ -1775,7 +1775,7 @@ Monitor models
 
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
-| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch              | 3         | 2.11%   |
+| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch           | 3         | 2.11%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 2         | 1.41%   |
 | LG Display LCD Monitor LGD021D 1600x900 382x215mm 17.3-inch           | 2         | 1.41%   |
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch      | 2         | 1.41%   |
@@ -1790,8 +1790,8 @@ Monitor models
 | Samsung Electronics SMBX2450 SAM0721 1920x1080 531x299mm 24.0-inch    | 1         | 0.7%    |
 | Samsung Electronics S22B420 SAM0979 1680x1050 473x291mm 21.9-inch     | 1         | 0.7%    |
 | Samsung Electronics LU28R55 SAM1017 3840x2160 632x360mm 28.6-inch     | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 0.7%    |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 0.7%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC5341 1366x768 344x193mm 15.5-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.7%    |
@@ -2295,13 +2295,13 @@ Controller models
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 1.03%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device        | 1         | 1.03%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 1.03%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.03%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 1.03%   |
-| Intel Bluetooth Device                              | 1         | 1.03%   |
 | IMC Networks Bluetooth Device                       | 1         | 1.03%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 1.03%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 1.03%   |
 | Broadcom HP Portable SoftSailing                    | 1         | 1.03%   |
-| Broadcom Bluetooth 3.0 USB Dongle                   | 1         | 1.03%   |
+| Broadcom Bluetooth 3.0 Dongle                       | 1         | 1.03%   |
 | Broadcom BCM20702A0                                 | 1         | 1.03%   |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 1.03%   |
 | Broadcom BCM2045 Bluetooth                          | 1         | 1.03%   |
@@ -2429,16 +2429,16 @@ Memory module models
 | SK hynix RAM HMT851S6AMR6R-PB N0 4GB Chip DDR3 1600MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s     | 1         | 1.61%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT125S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s        | 1         | 1.61%   |
+| SK hynix RAM HMT125S6BFR8C-H9 2GB SODIMM 1333MT/s             | 1         | 1.61%   |
 | SK hynix RAM HMT125S6AFP8C-G7 2GB SODIMM 1066MT/s             | 1         | 1.61%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s  | 1         | 1.61%   |
 | SK hynix RAM HMA851S6CJR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s        | 1         | 1.61%   |
-| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s    | 1         | 1.61%   |
+| Samsung RAM UBE3D4AA-MGCR 2048MB Row Of Chips LPDDR4 4267MT/s | 1         | 1.61%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.61%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
 | Samsung RAM M471B5273CM0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.61%   |
@@ -2573,14 +2573,14 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 34        | 31.48%  |
 | Microdia                               | 14        | 12.96%  |
+| Bison Electronics                      | 8         | 7.41%   |
 | Realtek Semiconductor                  | 7         | 6.48%   |
 | Lite-On Technology                     | 7         | 6.48%   |
 | IMC Networks                           | 7         | 6.48%   |
-| Bison Electronics                      | 7         | 6.48%   |
 | Sunplus Innovation Technology          | 6         | 5.56%   |
-| Acer                                   | 5         | 4.63%   |
 | Quanta                                 | 4         | 3.7%    |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 3.7%    |
+| Acer                                   | 4         | 3.7%    |
 | Syntek                                 | 2         | 1.85%   |
 | Suyin                                  | 2         | 1.85%   |
 | Silicon Motion                         | 2         | 1.85%   |
@@ -2618,8 +2618,8 @@ Camera device models
 | Microdia Laptop_Integrated_Webcam_2M    | 2         | 1.85%   |
 | Chicony HP Webcam [2 MP Macro]          | 2         | 1.85%   |
 | Chicony HP HD Webcam                    | 2         | 1.85%   |
-| Bison Integrated Camera                 | 2         | 1.85%   |
-| Acer Lenovo EasyCamera                  | 2         | 1.85%   |
+| Bison Lenovo EasyCamera                 | 2         | 1.85%   |
+| Acer Integrated Camera                  | 2         | 1.85%   |
 | Syntek USB2.0 UVC PC Camera             | 1         | 0.93%   |
 | Syntek Lenovo EasyCamera                | 1         | 0.93%   |
 | Suyin Sony Visual Communication Camera  | 1         | 0.93%   |

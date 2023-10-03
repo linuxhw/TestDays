@@ -1022,7 +1022,7 @@ Hard drive models
 | Seagate ST3160023A 160GB                            | 2        | 1.43%   |
 | Seagate ST1000DL002-9TT153 1TB                      | 2        | 1.43%   |
 | Samsung SSD 860 EVO 500GB                           | 2        | 1.43%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 2        | 1.43%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 2        | 1.43%   |
 | Samsung HD251HJ 250GB                               | 2        | 1.43%   |
 | Samsung HD082GJ 80GB                                | 2        | 1.43%   |
 | XPG NVMe SSD Drive 512GB                            | 1        | 0.71%   |
@@ -1813,7 +1813,7 @@ Monitor models
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 2        | 2.44%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 2        | 2.44%   |
 | ViewSonic VA521-1 VSCF318 1024x768 304x228mm 15.0-inch                 | 1        | 1.22%   |
-| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                        | 1        | 1.22%   |
+| Toshiba TV TSB0108 1920x540                                            | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM03D1 1680x1050 433x271mm 20.1-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch    | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM036E 1280x1024 376x301mm 19.0-inch   | 1        | 1.22%   |
@@ -1822,7 +1822,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0214 1680x1050 408x306mm 20.1-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0213 1680x1050 408x306mm 20.1-inch   | 1        | 1.22%   |
-| Samsung Electronics SyncMaster SAM01E1 1280x1024 376x301mm 19.0-inch   | 1        | 1.22%   |
+| Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0088 1024x768 304x228mm 15.0-inch    | 1        | 1.22%   |
 | Samsung Electronics SMB2440 SAM06AF 1920x1080 531x299mm 24.0-inch      | 1        | 1.22%   |
 | Samsung Electronics SMB2030 SAM063D 1600x900 443x249mm 20.0-inch       | 1        | 1.22%   |
@@ -1838,7 +1838,7 @@ Monitor models
 | Plain Tree Systems XAP-192i PTS03D5 1280x1024 376x301mm 19.0-inch      | 1        | 1.22%   |
 | Philips PHL 275E2F PHLC23A 2560x1440 600x340mm 27.2-inch               | 1        | 1.22%   |
 | Philips PHL 246E7 PHLC107 1920x1080 521x293mm 23.5-inch                | 1        | 1.22%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch                | 1        | 1.22%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 1        | 1.22%   |
 | Philips PHL 240V5A PHLC10C 1920x1080 527x296mm 23.8-inch               | 1        | 1.22%   |
 | Philips PHL 240V5 PHLC10A 1920x1080 527x296mm 23.8-inch                | 1        | 1.22%   |
 | Philips PHL 234E5 PHLC0C7 1920x1080 509x286mm 23.0-inch                | 1        | 1.22%   |
@@ -2047,6 +2047,7 @@ Controller models
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter               | 1        | 0.98%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 0.98%   |
 | Ralink RT3060 Wireless 802.11n 1T/1R                                   | 1        | 0.98%   |
+| Qualcomm POCO M2 Pro                                                   | 1        | 0.98%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 0.98%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 0.98%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                       | 1        | 0.98%   |
@@ -2057,11 +2058,10 @@ Controller models
 | Qualcomm Atheros AR8131 Gigabit Ethernet                               | 1        | 0.98%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet         | 1        | 0.98%   |
 | Qualcomm Atheros AR5416 Wireless Network Adapter [AR5008 802.11(a)bgn] | 1        | 0.98%   |
-| Qualcomm Android                                                       | 1        | 0.98%   |
 | Nvidia MCP67 Ethernet                                                  | 1        | 0.98%   |
 | Nvidia MCP55 Ethernet                                                  | 1        | 0.98%   |
 | Mercucys 802.11n NIC                                                   | 1        | 0.98%   |
-| MediaTek moto g22                                                      | 1        | 0.98%   |
+| MediaTek Infinix SMART 6 HD                                            | 1        | 0.98%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 0.98%   |
 | Intel NM10/ICH7 Family LAN Controller                                  | 1        | 0.98%   |
 | Intel Ethernet Connection I217-V                                       | 1        | 0.98%   |
@@ -2157,16 +2157,16 @@ Ethernet models
 | Intel Ethernet Connection (11) I219-V                             | 2        | 2.44%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.22%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.22%   |
+| Qualcomm POCO M2 Pro                                              | 1        | 1.22%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                     | 1        | 1.22%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 1.22%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 1.22%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 1.22%   |
-| Qualcomm Android                                                  | 1        | 1.22%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 1.22%   |
 | Nvidia MCP55 Ethernet                                             | 1        | 1.22%   |
-| MediaTek moto g22                                                 | 1        | 1.22%   |
+| MediaTek Infinix SMART 6 HD                                       | 1        | 1.22%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.22%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.22%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 1.22%   |
@@ -2420,7 +2420,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 667MT/s                     | 1        | 1.19%   |
 | Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s      | 1        | 1.19%   |
 | Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s           | 1        | 1.19%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
 | Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s              | 1        | 1.19%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 1.19%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s            | 1        | 1.19%   |

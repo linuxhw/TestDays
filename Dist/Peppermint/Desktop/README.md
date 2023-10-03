@@ -1822,7 +1822,7 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 600x340mm 27.2-inch                       | 2        | 2.08%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.04%   |
 | ViewSonic VG2230wm-EU VSCA21E 1680x1050 474x296mm 22.0-inch             | 1        | 1.04%   |
-| Vestel Elektronik 40W_LCD_TV VES3700 1920x540                           | 1        | 1.04%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch      | 1        | 1.04%   |
 | Toshiba TV TSB0206 1920x1080                                            | 1        | 1.04%   |
 | Sony TV SNYB800 1280x768 690x390mm 31.2-inch                            | 1        | 1.04%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.04%   |
@@ -1850,7 +1850,7 @@ Monitor models
 | LG Electronics LCD Monitor LG IPS FULLHD 1920x1080                      | 1        | 1.04%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.04%   |
 | Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                   | 1        | 1.04%   |
-| Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 1        | 1.04%   |
+| Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.04%   |
 | KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                        | 1        | 1.04%   |
 | Hitachi 40E31 HTC0139 1920x1080 575x323mm 26.0-inch                     | 1        | 1.04%   |
 | Hewlett-Packard w2338h HWP281B 1920x1080 510x290mm 23.1-inch            | 1        | 1.04%   |
@@ -2470,10 +2470,10 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 800MT/s                  | 1        | 4.17%   |
 | Unknown RAM Module 1024MB DIMM 41632MT/s                | 1        | 4.17%   |
 | SK hynix RAM Module 2GB DIMM DDR3 1600MT/s              | 1        | 4.17%   |
-| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4.17%   |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM 1333MT/s         | 1        | 4.17%   |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s            | 1        | 4.17%   |
 | Samsung RAM M378B2873FHS-CH9 1GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 4.17%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s   | 1        | 4.17%   |
 | Nanya RAM NT1GT64UH8D0FN-AD 1GB DIMM DDR2 2048MT/s      | 1        | 4.17%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 4.17%   |
 | Micron RAM 8HTF12864AY-800J1 1GB DIMM DDR2 800MT/s      | 1        | 4.17%   |
@@ -2637,7 +2637,7 @@ Camera device models
 
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
-| Sunplus SPCA2281 Web Camera                                         | 1        | 11.11%  |
+| Sunplus HD720P Webcam                                               | 1        | 11.11%  |
 | Samsung Galaxy series, misc. (MTP mode)                             | 1        | 11.11%  |
 | Logitech Webcam C270                                                | 1        | 11.11%  |
 | Logitech Webcam C210                                                | 1        | 11.11%  |
@@ -2691,8 +2691,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 78       | 77.23%  |
-| 1     | 20       | 19.8%   |
+| 0     | 77       | 76.24%  |
+| 1     | 21       | 20.79%  |
 | 2     | 3        | 2.97%   |
 
 Unsupported Device Types
@@ -2705,11 +2705,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 8        | 30.77%  |
-| Communication controller | 8        | 30.77%  |
-| Graphics card            | 5        | 19.23%  |
-| Camera                   | 2        | 7.69%   |
-| Unassigned class         | 1        | 3.85%   |
-| Sound                    | 1        | 3.85%   |
-| Net/ethernet             | 1        | 3.85%   |
+| Net/wireless             | 8        | 29.63%  |
+| Communication controller | 8        | 29.63%  |
+| Graphics card            | 6        | 22.22%  |
+| Camera                   | 2        | 7.41%   |
+| Unassigned class         | 1        | 3.7%    |
+| Sound                    | 1        | 3.7%    |
+| Net/ethernet             | 1        | 3.7%    |
 

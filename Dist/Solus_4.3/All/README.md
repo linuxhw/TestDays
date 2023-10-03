@@ -1101,11 +1101,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 66     | 50%     |
-| 0.51-1.0   | 24        | 31     | 31.58%  |
-| 1.01-2.0   | 9         | 10     | 11.84%  |
-| 3.01-4.0   | 4         | 5      | 5.26%   |
-| 10.01-20.0 | 1         | 1      | 1.32%   |
+| 0.01-0.5   | 37        | 65     | 49.33%  |
+| 0.51-1.0   | 23        | 30     | 30.67%  |
+| 1.01-2.0   | 9         | 10     | 12%     |
+| 3.01-4.0   | 4         | 5      | 5.33%   |
+| 2.01-3.0   | 1         | 2      | 1.33%   |
+| 10.01-20.0 | 1         | 1      | 1.33%   |
 
 Space Total
 -----------
@@ -1717,7 +1718,7 @@ Monitor models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3         | 3.26%   |
+| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                      | 3         | 3.26%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2         | 2.17%   |
 | Unknown                                                              | 2         | 2.17%   |
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch            | 1         | 1.09%   |
@@ -1730,7 +1731,7 @@ Monitor models
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1         | 1.09%   |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1         | 1.09%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch | 1         | 1.09%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 1.09%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch    | 1         | 1.09%   |
@@ -2114,7 +2115,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 1.49%   |
 | Intel Ethernet Connection (13) I219-V                             | 1         | 1.49%   |
 | Intel Ethernet Connection (10) I219-V                             | 1         | 1.49%   |
-| Huawei MLA-L11                                                    | 1         | 1.49%   |
+| Huawei JKM-LX1                                                    | 1         | 1.49%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 1.49%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.49%   |
 
@@ -2227,7 +2228,7 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.04%   |
 | ISSC Bluetooth Device                               | 1         | 2.04%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.04%   |
-| Intel Bluetooth Device                              | 1         | 2.04%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.04%   |
 | IMC Networks Bluetooth Radio                        | 1         | 2.04%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 2.04%   |
 | Dell DW375 Bluetooth Module                         | 1         | 2.04%   |
@@ -2352,7 +2353,7 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 667MT/s                              | 1         | 2.86%   |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s               | 1         | 2.86%   |
 | Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s            | 1         | 2.86%   |
-| Team RAM TEAMGROUP-SD4-3200 8192MB SODIMM DDR4 3200MT/s          | 1         | 2.86%   |
+| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 2.86%   |
 | SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 2.86%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.86%   |
@@ -2519,7 +2520,6 @@ Camera device vendors
 | IMC Networks                           | 3         | 7.5%    |
 | Chicony Electronics                    | 3         | 7.5%    |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5%      |
-| Bison Electronics                      | 2         | 5%      |
 | Z-Star Microelectronics                | 1         | 2.5%    |
 | Syntek                                 | 1         | 2.5%    |
 | Microsoft                              | 1         | 2.5%    |
@@ -2527,7 +2527,9 @@ Camera device vendors
 | LG Electronics                         | 1         | 2.5%    |
 | Importek                               | 1         | 2.5%    |
 | Hewlett-Packard                        | 1         | 2.5%    |
+| Bison Electronics                      | 1         | 2.5%    |
 | Apple                                  | 1         | 2.5%    |
+| Acer                                   | 1         | 2.5%    |
 | A4Tech                                 | 1         | 2.5%    |
 
 Camera Model
@@ -2557,7 +2559,7 @@ Camera device models
 | Quanta VGA WebCam                                               | 1         | 2.5%    |
 | Quanta USB2.0 HD UVC WebCam                                     | 1         | 2.5%    |
 | Microsoft LifeCam Studio                                        | 1         | 2.5%    |
-| Microdia GC02M2                                                 | 1         | 2.5%    |
+| Microdia USB 2.0 Camera                                         | 1         | 2.5%    |
 | MacroSilicon ShadowCast                                         | 1         | 2.5%    |
 | Logitech C922 Pro Stream Webcam                                 | 1         | 2.5%    |
 | LG Optimus (Various Models) MTP Mode                            | 1         | 2.5%    |
@@ -2570,8 +2572,8 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam                   | 1         | 2.5%    |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 2.5%    |
 | Bison LENOVO LBG 720P CAM                                       | 1         | 2.5%    |
-| Bison Lenovo EasyCamera                                         | 1         | 2.5%    |
 | Apple FaceTime HD Camera (Built-in)                             | 1         | 2.5%    |
+| Acer Lenovo EasyCamera                                          | 1         | 2.5%    |
 | A4Tech FHD 1080P PC Camera                                      | 1         | 2.5%    |
 
 Security

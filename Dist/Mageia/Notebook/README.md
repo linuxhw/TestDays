@@ -935,7 +935,7 @@ Hard drive models
 | Kingston SA2000M8500G 500GB                  | 1         | 2.08%   |
 | Kingston NVMe SSD Drive 1TB                  | 1         | 2.08%   |
 | KingFast SSD 256GB                           | 1         | 2.08%   |
-| JMicron Generic 1TB                          | 1         | 2.08%   |
+| JMicron Generic 240GB                        | 1         | 2.08%   |
 | Intel SSDMCEAC120B3A 120GB                   | 1         | 2.08%   |
 | Hitachi HTS725050A9A364 500GB                | 1         | 2.08%   |
 | Hitachi HTS725050A7E630 500GB                | 1         | 2.08%   |
@@ -1019,8 +1019,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 22        | 25     | 70.97%  |
-| 0.51-1.0   | 9         | 16     | 29.03%  |
+| 0.01-0.5   | 22        | 26     | 73.33%  |
+| 0.51-1.0   | 8         | 15     | 26.67%  |
 
 Space Total
 -----------
@@ -1554,7 +1554,7 @@ Monitor models
 | Sharp LCD Monitor SHP1461 3200x1800 294x165mm 13.3-inch                   | 1         | 2.63%   |
 | Samsung Electronics SMB2240W SAM0699 1680x1050 459x296mm 21.5-inch        | 1         | 2.63%   |
 | Samsung Electronics SMB2240W SAM0698 1680x1050 474x296mm 22.0-inch        | 1         | 2.63%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch      | 1         | 2.63%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch      | 1         | 2.63%   |
 | Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch     | 1         | 2.63%   |
 | Samsung Electronics LCD Monitor SEC314F 1600x900 382x215mm 17.3-inch      | 1         | 2.63%   |
 | LG Display LCD Monitor LGD066A 1920x1080 344x194mm 15.5-inch              | 1         | 2.63%   |
@@ -1565,15 +1565,15 @@ Monitor models
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 2.63%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 2.63%   |
 | LG Display LCD Monitor LGD0215 1920x1080 345x194mm 15.6-inch              | 1         | 2.63%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x194mm 15.5-inch                   | 1         | 2.63%   |
-| Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 1         | 2.63%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch                   | 1         | 2.63%   |
+| Chimei Innolux LCD Monitor CMN1735 1920x1080 381x214mm 17.2-inch          | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN15C6 1366x768 344x193mm 15.5-inch           | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN14D7 1920x1080 309x173mm 13.9-inch          | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN1364 1366x768 293x164mm 13.2-inch           | 1         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN1357 1920x1080 293x165mm 13.2-inch          | 1         | 2.63%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.63%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 380x210mm 17.1-inch | 1         | 2.63%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch  | 1         | 2.63%   |
 | BOE LCD Monitor BOE0868 1920x1080 309x174mm 14.0-inch                     | 1         | 2.63%   |
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                     | 1         | 2.63%   |
@@ -2068,7 +2068,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR4 2400MT/s                      | 1         | 2.86%   |
 | Unknown RAM Module 2GB SODIMM 533MT/s                            | 1         | 2.86%   |
 | Unknown RAM Module 2048MB SODIMM DDR2 975MT/s                    | 1         | 2.86%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 2.86%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 2.86%   |
 | Smart RAM SH564128FH8NZQNSCG 4GB SODIMM DDR3 1600MT/s            | 1         | 2.86%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1066MT/s                     | 1         | 2.86%   |
@@ -2084,11 +2084,11 @@ Memory module models
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 2.86%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 2.86%   |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR 667MT/s             | 1         | 2.86%   |
+| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s         | 1         | 2.86%   |
 | Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 2.86%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s            | 1         | 2.86%   |
-| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s        | 1         | 2.86%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s           | 1         | 2.86%   |
 | Kingston RAM KFYHV1-HYC 4GB SODIMM DDR3 1600MT/s                 | 1         | 2.86%   |
 | Kingston RAM KCRXJ6-MIE 16GB SODIMM DDR4 2667MT/s                | 1         | 2.86%   |
 | Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s           | 1         | 2.86%   |
@@ -2222,8 +2222,8 @@ Camera device vendors
 | Primax Electronics                     | 1         | 3.03%   |
 | Logitech                               | 1         | 3.03%   |
 | Lite-On Technology                     | 1         | 3.03%   |
-| Bison Electronics                      | 1         | 3.03%   |
 | Apple                                  | 1         | 3.03%   |
+| Acer                                   | 1         | 3.03%   |
 
 Camera Model
 ------------
@@ -2257,10 +2257,10 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 2.94%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 2.94%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 2.94%   |
-| Bison BisonCam,NB Pro                                                      | 1         | 2.94%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X                                            | 1         | 2.94%   |
-| Alcor Micro USB 2.0 PC cam                                                 | 1         | 2.94%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                                         | 1         | 2.94%   |
+| Alcor Micro USB 2.0 Web Camera                                             | 1         | 2.94%   |
 | Alcor Micro Asus Integrated Webcam                                         | 1         | 2.94%   |
+| Acer BisonCam,NB Pro                                                       | 1         | 2.94%   |
 
 Security
 --------

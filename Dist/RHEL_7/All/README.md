@@ -1462,17 +1462,17 @@ Monitor models
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
 | ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 4%      |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
-| Hewlett-Packard 24es HWP3320 1920x1080 530x300mm 24.0-inch            | 1         | 4%      |
-| Goldstar LG HDR WFHD GSM7715 2560x1080 800x340mm 34.2-inch            | 1         | 4%      |
+| Hewlett-Packard 24es HWP3320 1920x1080 527x296mm 23.8-inch            | 1         | 4%      |
+| Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1         | 4%      |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1         | 4%      |
 | Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 4%      |
-| Dell P2217H DELA0D8 1920x1080 480x270mm 21.7-inch                     | 1         | 4%      |
+| Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 1         | 4%      |
 | BOE Technology Group LCD Monitor 1920x1080                            | 1         | 4%      |
 | BOE LCD Monitor BOE07EF 1920x1080 309x174mm 14.0-inch                 | 1         | 4%      |
 | AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch        | 1         | 4%      |
 | AU Optronics LCD Monitor AUO315C 1366x768 256x144mm 11.6-inch         | 1         | 4%      |
-| AU Optronics LCD Monitor AUO103D 1920x1080 309x173mm 13.9-inch        | 1         | 4%      |
+| AU Optronics LCD Monitor AUO103D 1920x1080 310x170mm 13.9-inch        | 1         | 4%      |
 
 Monitor Resolution
 ------------------
@@ -1660,7 +1660,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 1.28%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.28%   |
 | Prolific USB-Serial Controller                                    | 1         | 1.28%   |
-| OPPO OnePlus Nord                                                 | 1         | 1.28%   |
+| OPPO 8                                                            | 1         | 1.28%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.28%   |
 | Intel Wi-Fi 6 AX200                                               | 1         | 1.28%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.28%   |
@@ -1762,7 +1762,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                            | 2         | 3.28%   |
 | Dell iDRAC Virtual NIC                                            | 2         | 3.28%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.64%   |
-| OPPO OnePlus Nord                                                 | 1         | 1.64%   |
+| OPPO 8                                                            | 1         | 1.64%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.64%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.64%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.64%   |
@@ -1976,7 +1976,7 @@ Memory module models
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s     | 1         | 2.56%   |
 | Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s     | 1         | 2.56%   |
 | Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s     | 1         | 2.56%   |
-| Micron RAM 9ASF1G72AZ-2G3B1 8192MB DIMM DDR4 2400MT/s   | 1         | 2.56%   |
+| Micron RAM 9ASF1G72AZ-2G3B1 8GB DIMM DDR4 2400MT/s      | 1         | 2.56%   |
 | Micron RAM 36KSF2G72PZ-1G6E1 16GB DIMM DDR3 1600MT/s    | 1         | 2.56%   |
 | Micron RAM 36ASF4G72PZ-2G9E2 32GB DIMM DDR4 2933MT/s    | 1         | 2.56%   |
 | Micron RAM 18KSF1G72PDZ-1G6E 8192MB DIMM DDR3 1333MT/s  | 1         | 2.56%   |

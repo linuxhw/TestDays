@@ -747,7 +747,7 @@ Hard drive models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 2        | 5%      |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 2        | 5%      |
 | WDC WD5000AAKX-75U6AA0 500GB                        | 1        | 2.5%    |
 | WDC WD5000AAKX-60U6AA0 500GB                        | 1        | 2.5%    |
 | WDC WD5000AAKX-08U6AA0 500GB                        | 1        | 2.5%    |
@@ -765,13 +765,13 @@ Hard drive models
 | Seagate ST31500341AS 1TB                            | 1        | 2.5%    |
 | Seagate ST2000DM 008-2FR102 2TB                     | 1        | 2.5%    |
 | Seagate ST1000DM010-2EP102 1TB                      | 1        | 2.5%    |
-| Seagate Expansion Desk 2TB                          | 1        | 2.5%    |
+| Seagate Expansion Desk 8TB                          | 1        | 2.5%    |
 | Sandisk WD_BLACK SN770 1TB                          | 1        | 2.5%    |
 | SanDisk SDSSDA240G 240GB                            | 1        | 2.5%    |
 | Samsung SSD 970 EVO Plus 1TB                        | 1        | 2.5%    |
 | ROG ESD-S1C 1024GB                                  | 1        | 2.5%    |
-| Phison E16 PCIe4 NVMe Controller 1TB                | 1        | 2.5%    |
-| Phison E12 NVMe Controller 256GB                    | 1        | 2.5%    |
+| Phison E16 PCIe4 NVMe Controller 500GB              | 1        | 2.5%    |
+| Phison E12 NVMe Controller 2TB                      | 1        | 2.5%    |
 | Patriot Burst 120GB SSD                             | 1        | 2.5%    |
 | Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 1        | 2.5%    |
 | Kingston SFYRS500G 500GB                            | 1        | 2.5%    |
@@ -861,10 +861,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 11       | 19     | 57.89%  |
-| 0.51-1.0   | 5        | 10     | 26.32%  |
-| 1.01-2.0   | 2        | 4      | 10.53%  |
-| 4.01-10.0  | 1        | 1      | 5.26%   |
+| 0.01-0.5   | 11       | 19     | 55%     |
+| 0.51-1.0   | 5        | 10     | 25%     |
+| 1.01-2.0   | 2        | 3      | 10%     |
+| 4.01-10.0  | 2        | 2      | 10%     |
 
 Space Total
 -----------

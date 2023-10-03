@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 43
+Total: 44
 
 | Vendor  | Model                       | Probe                                                      | Date         |
 |---------|-----------------------------|------------------------------------------------------------|--------------|
+| HP      | 250 G7 Notebook PC          | [428177914f](https://linux-hardware.org/?probe=428177914f) | Sep 17, 2023 |
 | HP      | 250 G7 Notebook PC          | [f2b0e180d4](https://linux-hardware.org/?probe=f2b0e180d4) | Aug 27, 2023 |
 | HP      | ZBook 15 G6                 | [eb23ebb0b8](https://linux-hardware.org/?probe=eb23ebb0b8) | Jun 10, 2023 |
 | Apple   | MacBookPro9,2               | [baf92c8b36](https://linux-hardware.org/?probe=baf92c8b36) | Jun 08, 2023 |
@@ -244,38 +245,39 @@ Version of the Linux kernel
 
 | Version                        | Notebooks | Percent |
 |--------------------------------|-----------|---------|
-| 6.2.8-1-siduction-amd64        | 2         | 5.88%   |
-| 6.2.6-1-siduction-amd64        | 2         | 5.88%   |
-| 6.4.12-1-siduction-amd64       | 1         | 2.94%   |
-| 6.3.7-1-siduction-amd64        | 1         | 2.94%   |
-| 6.3.3-1-siduction-amd64        | 1         | 2.94%   |
-| 6.2.15-1-siduction-amd64       | 1         | 2.94%   |
-| 6.2.13-1-siduction-amd64       | 1         | 2.94%   |
-| 6.2.11-1-siduction-amd64       | 1         | 2.94%   |
-| 6.2.0-rc6-siduction-amd64      | 1         | 2.94%   |
-| 6.1.1-4-siduction-amd64        | 1         | 2.94%   |
-| 5.9.8-towo.3-siduction-amd64   | 1         | 2.94%   |
-| 5.9.13-towo.1-siduction-amd64  | 1         | 2.94%   |
-| 5.8.5-towo.1-siduction-amd64   | 1         | 2.94%   |
-| 5.7.11-towo.2-siduction-amd64  | 1         | 2.94%   |
-| 5.4.5-towo.2-siduction-amd64   | 1         | 2.94%   |
-| 5.4.18-towo.1-siduction-amd64  | 1         | 2.94%   |
-| 5.3.12-towo.2-siduction-amd64  | 1         | 2.94%   |
-| 5.3.1-towo.2-siduction-amd64   | 1         | 2.94%   |
-| 5.16.17-1-siduction-amd64      | 1         | 2.94%   |
-| 5.15.15-1-siduction-amd64      | 1         | 2.94%   |
-| 5.13.8-1-siduction-amd64       | 1         | 2.94%   |
-| 5.13.6-1-siduction-amd64       | 1         | 2.94%   |
-| 5.13.4-3-siduction-amd64       | 1         | 2.94%   |
-| 5.13.1-1-siduction-amd64       | 1         | 2.94%   |
-| 5.12.12-1-siduction-amd64      | 1         | 2.94%   |
-| 5.11.18-1-siduction-amd64      | 1         | 2.94%   |
-| 5.11.11-1-siduction-amd64      | 1         | 2.94%   |
-| 5.10.4-towo.1-siduction-amd64  | 1         | 2.94%   |
-| 5.10.19-towo.1-siduction-amd64 | 1         | 2.94%   |
-| 5.10.17-towo.1-siduction-amd64 | 1         | 2.94%   |
-| 5.10.12-towo.1-siduction-amd64 | 1         | 2.94%   |
-| 4.20.11-towo.2-siduction-amd64 | 1         | 2.94%   |
+| 6.2.8-1-siduction-amd64        | 2         | 5.71%   |
+| 6.2.6-1-siduction-amd64        | 2         | 5.71%   |
+| 6.5.3-1-siduction-amd64        | 1         | 2.86%   |
+| 6.4.12-1-siduction-amd64       | 1         | 2.86%   |
+| 6.3.7-1-siduction-amd64        | 1         | 2.86%   |
+| 6.3.3-1-siduction-amd64        | 1         | 2.86%   |
+| 6.2.15-1-siduction-amd64       | 1         | 2.86%   |
+| 6.2.13-1-siduction-amd64       | 1         | 2.86%   |
+| 6.2.11-1-siduction-amd64       | 1         | 2.86%   |
+| 6.2.0-rc6-siduction-amd64      | 1         | 2.86%   |
+| 6.1.1-4-siduction-amd64        | 1         | 2.86%   |
+| 5.9.8-towo.3-siduction-amd64   | 1         | 2.86%   |
+| 5.9.13-towo.1-siduction-amd64  | 1         | 2.86%   |
+| 5.8.5-towo.1-siduction-amd64   | 1         | 2.86%   |
+| 5.7.11-towo.2-siduction-amd64  | 1         | 2.86%   |
+| 5.4.5-towo.2-siduction-amd64   | 1         | 2.86%   |
+| 5.4.18-towo.1-siduction-amd64  | 1         | 2.86%   |
+| 5.3.12-towo.2-siduction-amd64  | 1         | 2.86%   |
+| 5.3.1-towo.2-siduction-amd64   | 1         | 2.86%   |
+| 5.16.17-1-siduction-amd64      | 1         | 2.86%   |
+| 5.15.15-1-siduction-amd64      | 1         | 2.86%   |
+| 5.13.8-1-siduction-amd64       | 1         | 2.86%   |
+| 5.13.6-1-siduction-amd64       | 1         | 2.86%   |
+| 5.13.4-3-siduction-amd64       | 1         | 2.86%   |
+| 5.13.1-1-siduction-amd64       | 1         | 2.86%   |
+| 5.12.12-1-siduction-amd64      | 1         | 2.86%   |
+| 5.11.18-1-siduction-amd64      | 1         | 2.86%   |
+| 5.11.11-1-siduction-amd64      | 1         | 2.86%   |
+| 5.10.4-towo.1-siduction-amd64  | 1         | 2.86%   |
+| 5.10.19-towo.1-siduction-amd64 | 1         | 2.86%   |
+| 5.10.17-towo.1-siduction-amd64 | 1         | 2.86%   |
+| 5.10.12-towo.1-siduction-amd64 | 1         | 2.86%   |
+| 4.20.11-towo.2-siduction-amd64 | 1         | 2.86%   |
 
 Kernel Family
 -------------
@@ -287,38 +289,39 @@ Linux kernel without a distro release
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 6.2.8   | 2         | 5.88%   |
-| 6.2.6   | 2         | 5.88%   |
-| 6.4.12  | 1         | 2.94%   |
-| 6.3.7   | 1         | 2.94%   |
-| 6.3.3   | 1         | 2.94%   |
-| 6.2.15  | 1         | 2.94%   |
-| 6.2.13  | 1         | 2.94%   |
-| 6.2.11  | 1         | 2.94%   |
-| 6.2.0   | 1         | 2.94%   |
-| 6.1.1   | 1         | 2.94%   |
-| 5.9.8   | 1         | 2.94%   |
-| 5.9.13  | 1         | 2.94%   |
-| 5.8.5   | 1         | 2.94%   |
-| 5.7.11  | 1         | 2.94%   |
-| 5.4.5   | 1         | 2.94%   |
-| 5.4.18  | 1         | 2.94%   |
-| 5.3.12  | 1         | 2.94%   |
-| 5.3.1   | 1         | 2.94%   |
-| 5.16.17 | 1         | 2.94%   |
-| 5.15.15 | 1         | 2.94%   |
-| 5.13.8  | 1         | 2.94%   |
-| 5.13.6  | 1         | 2.94%   |
-| 5.13.4  | 1         | 2.94%   |
-| 5.13.1  | 1         | 2.94%   |
-| 5.12.12 | 1         | 2.94%   |
-| 5.11.18 | 1         | 2.94%   |
-| 5.11.11 | 1         | 2.94%   |
-| 5.10.4  | 1         | 2.94%   |
-| 5.10.19 | 1         | 2.94%   |
-| 5.10.17 | 1         | 2.94%   |
-| 5.10.12 | 1         | 2.94%   |
-| 4.20.11 | 1         | 2.94%   |
+| 6.2.8   | 2         | 5.71%   |
+| 6.2.6   | 2         | 5.71%   |
+| 6.5.3   | 1         | 2.86%   |
+| 6.4.12  | 1         | 2.86%   |
+| 6.3.7   | 1         | 2.86%   |
+| 6.3.3   | 1         | 2.86%   |
+| 6.2.15  | 1         | 2.86%   |
+| 6.2.13  | 1         | 2.86%   |
+| 6.2.11  | 1         | 2.86%   |
+| 6.2.0   | 1         | 2.86%   |
+| 6.1.1   | 1         | 2.86%   |
+| 5.9.8   | 1         | 2.86%   |
+| 5.9.13  | 1         | 2.86%   |
+| 5.8.5   | 1         | 2.86%   |
+| 5.7.11  | 1         | 2.86%   |
+| 5.4.5   | 1         | 2.86%   |
+| 5.4.18  | 1         | 2.86%   |
+| 5.3.12  | 1         | 2.86%   |
+| 5.3.1   | 1         | 2.86%   |
+| 5.16.17 | 1         | 2.86%   |
+| 5.15.15 | 1         | 2.86%   |
+| 5.13.8  | 1         | 2.86%   |
+| 5.13.6  | 1         | 2.86%   |
+| 5.13.4  | 1         | 2.86%   |
+| 5.13.1  | 1         | 2.86%   |
+| 5.12.12 | 1         | 2.86%   |
+| 5.11.18 | 1         | 2.86%   |
+| 5.11.11 | 1         | 2.86%   |
+| 5.10.4  | 1         | 2.86%   |
+| 5.10.19 | 1         | 2.86%   |
+| 5.10.17 | 1         | 2.86%   |
+| 5.10.12 | 1         | 2.86%   |
+| 4.20.11 | 1         | 2.86%   |
 
 Kernel Major Ver.
 -----------------
@@ -330,22 +333,23 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 6.2     | 7         | 24.14%  |
-| 5.13    | 4         | 13.79%  |
-| 6.3     | 2         | 6.9%    |
-| 5.4     | 2         | 6.9%    |
-| 5.3     | 2         | 6.9%    |
-| 5.10    | 2         | 6.9%    |
-| 6.4     | 1         | 3.45%   |
-| 6.1     | 1         | 3.45%   |
-| 5.9     | 1         | 3.45%   |
-| 5.8     | 1         | 3.45%   |
-| 5.7     | 1         | 3.45%   |
-| 5.16    | 1         | 3.45%   |
-| 5.15    | 1         | 3.45%   |
-| 5.12    | 1         | 3.45%   |
-| 5.11    | 1         | 3.45%   |
-| 4.20    | 1         | 3.45%   |
+| 6.2     | 7         | 23.33%  |
+| 5.13    | 4         | 13.33%  |
+| 6.3     | 2         | 6.67%   |
+| 5.4     | 2         | 6.67%   |
+| 5.3     | 2         | 6.67%   |
+| 5.10    | 2         | 6.67%   |
+| 6.5     | 1         | 3.33%   |
+| 6.4     | 1         | 3.33%   |
+| 6.1     | 1         | 3.33%   |
+| 5.9     | 1         | 3.33%   |
+| 5.8     | 1         | 3.33%   |
+| 5.7     | 1         | 3.33%   |
+| 5.16    | 1         | 3.33%   |
+| 5.15    | 1         | 3.33%   |
+| 5.12    | 1         | 3.33%   |
+| 5.11    | 1         | 3.33%   |
+| 4.20    | 1         | 3.33%   |
 
 Arch
 ----
@@ -369,13 +373,13 @@ Desktop Environment
 
 | Name            | Notebooks | Percent |
 |-----------------|-----------|---------|
-| KDE5            | 10        | 43.48%  |
-| XFCE            | 4         | 17.39%  |
-| Unknown         | 4         | 17.39%  |
-| X-Cinnamon      | 2         | 8.7%    |
-| LXQt            | 1         | 4.35%   |
-| GNOME Flashback | 1         | 4.35%   |
-| Cinnamon        | 1         | 4.35%   |
+| KDE5            | 11        | 45.83%  |
+| XFCE            | 4         | 16.67%  |
+| Unknown         | 4         | 16.67%  |
+| X-Cinnamon      | 2         | 8.33%   |
+| LXQt            | 1         | 4.17%   |
+| GNOME Flashback | 1         | 4.17%   |
+| Cinnamon        | 1         | 4.17%   |
 
 Display Server
 --------------
@@ -435,8 +439,8 @@ EFI or BIOS
 
 | Mode | Notebooks | Percent |
 |------|-----------|---------|
-| EFI  | 12        | 57.14%  |
-| BIOS | 9         | 42.86%  |
+| EFI  | 13        | 59.09%  |
+| BIOS | 9         | 40.91%  |
 
 Filesystem
 ----------
@@ -762,34 +766,35 @@ Geographic location (city)
 
 | City                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| Munich               | 2         | 6.9%    |
-| Zurich               | 1         | 3.45%   |
-| Vienna               | 1         | 3.45%   |
-| Turin                | 1         | 3.45%   |
-| Toronto              | 1         | 3.45%   |
-| Suisun               | 1         | 3.45%   |
-| Stuttgart            | 1         | 3.45%   |
-| Stockholm            | 1         | 3.45%   |
-| Sidney               | 1         | 3.45%   |
-| Schrobenhausen       | 1         | 3.45%   |
-| San Francisco        | 1         | 3.45%   |
-| Reading              | 1         | 3.45%   |
-| Paris                | 1         | 3.45%   |
-| Mittenwald           | 1         | 3.45%   |
-| Milan                | 1         | 3.45%   |
-| Mannheim             | 1         | 3.45%   |
-| Malmo                | 1         | 3.45%   |
-| Langewiesen          | 1         | 3.45%   |
-| Jerusalem            | 1         | 3.45%   |
-| Iserlohn             | 1         | 3.45%   |
-| Hamburg              | 1         | 3.45%   |
-| Guglingen            | 1         | 3.45%   |
-| Friedrichsthal       | 1         | 3.45%   |
-| Freiburg im Breisgau | 1         | 3.45%   |
-| Edmonton             | 1         | 3.45%   |
-| Düsseldorf          | 1         | 3.45%   |
-| Blackwood            | 1         | 3.45%   |
-| Berlin               | 1         | 3.45%   |
+| Munich               | 2         | 6.67%   |
+| Zurich               | 1         | 3.33%   |
+| Vienna               | 1         | 3.33%   |
+| Turin                | 1         | 3.33%   |
+| Toronto              | 1         | 3.33%   |
+| Suisun               | 1         | 3.33%   |
+| Stuttgart            | 1         | 3.33%   |
+| Stockholm            | 1         | 3.33%   |
+| Sidney               | 1         | 3.33%   |
+| Schrobenhausen       | 1         | 3.33%   |
+| San Francisco        | 1         | 3.33%   |
+| Reading              | 1         | 3.33%   |
+| Paris                | 1         | 3.33%   |
+| Mittenwald           | 1         | 3.33%   |
+| Milan                | 1         | 3.33%   |
+| Mannheim             | 1         | 3.33%   |
+| Malmo                | 1         | 3.33%   |
+| Langewiesen          | 1         | 3.33%   |
+| Landau               | 1         | 3.33%   |
+| Jerusalem            | 1         | 3.33%   |
+| Iserlohn             | 1         | 3.33%   |
+| Hamburg              | 1         | 3.33%   |
+| Guglingen            | 1         | 3.33%   |
+| Friedrichsthal       | 1         | 3.33%   |
+| Freiburg im Breisgau | 1         | 3.33%   |
+| Edmonton             | 1         | 3.33%   |
+| Düsseldorf          | 1         | 3.33%   |
+| Blackwood            | 1         | 3.33%   |
+| Berlin               | 1         | 3.33%   |
 
 Drives
 ------
@@ -809,7 +814,7 @@ Hard drive vendors
 | WDC                 | 4         | 5      | 13.79%  |
 | SK hynix            | 2         | 2      | 6.9%    |
 | Seagate             | 2         | 2      | 6.9%    |
-| Sandisk             | 2         | 3      | 6.9%    |
+| Sandisk             | 2         | 4      | 6.9%    |
 | Intel               | 2         | 4      | 6.9%    |
 | SSSTC               | 1         | 1      | 3.45%   |
 | Kingston            | 1         | 1      | 3.45%   |
@@ -849,7 +854,7 @@ Hard drive models
 | Samsung MZVLQ128HBHQ-00000 128GB        | 1         | 3.33%   |
 | Samsung HM321HI 320GB                   | 1         | 3.33%   |
 | Kingston SA2000M8500G 500GB             | 1         | 3.33%   |
-| Intel SSDPEKNW010T9 1024GB              | 1         | 3.33%   |
+| Intel SSDPEKNW010T9 1TB                 | 1         | 3.33%   |
 | Intel HBRPEKNX0203AO 32GB               | 1         | 3.33%   |
 | Intel HBRPEKNX0203A 1TB                 | 1         | 3.33%   |
 | Crucial CT1000MX500SSD1 1TB             | 1         | 3.33%   |
@@ -895,7 +900,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 11        | 16     | 42.31%  |
+| NVMe | 11        | 17     | 42.31%  |
 | HDD  | 8         | 17     | 30.77%  |
 | SSD  | 7         | 11     | 26.92%  |
 
@@ -910,7 +915,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 14        | 28     | 56%     |
-| NVMe | 11        | 16     | 44%     |
+| NVMe | 11        | 17     | 44%     |
 
 Drive Size
 ----------
@@ -1031,7 +1036,7 @@ Number of failed and malfunc. drives
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
 | Works    | 17        | 34     | 70.83%  |
-| Detected | 6         | 9      | 25%     |
+| Detected | 6         | 10     | 25%     |
 | Malfunc  | 1         | 1      | 4.17%   |
 
 Storage controller
@@ -1743,13 +1748,14 @@ Controller vendors
 
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
-| Intel                           | 9         | 50%     |
-| Realtek Semiconductor           | 3         | 16.67%  |
-| Lite-On Technology              | 2         | 11.11%  |
-| Qualcomm Atheros Communications | 1         | 5.56%   |
-| Foxconn / Hon Hai               | 1         | 5.56%   |
-| Cambridge Silicon Radio         | 1         | 5.56%   |
-| Broadcom                        | 1         | 5.56%   |
+| Intel                           | 9         | 47.37%  |
+| Realtek Semiconductor           | 3         | 15.79%  |
+| Lite-On Technology              | 2         | 10.53%  |
+| Qualcomm Atheros Communications | 1         | 5.26%   |
+| Foxconn / Hon Hai               | 1         | 5.26%   |
+| Edimax Technology               | 1         | 5.26%   |
+| Cambridge Silicon Radio         | 1         | 5.26%   |
+| Broadcom                        | 1         | 5.26%   |
 
 Bluetooth Model
 ---------------
@@ -1761,18 +1767,19 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Realtek  Bluetooth 4.2 Adapter                      | 3         | 16.67%  |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 16.67%  |
-| Intel Bluetooth wireless interface                  | 2         | 11.11%  |
-| Intel AX200 Bluetooth                               | 2         | 11.11%  |
-| Qualcomm Atheros AR3011 Bluetooth                   | 1         | 5.56%   |
-| Lite-On Bluetooth Device                            | 1         | 5.56%   |
-| Lite-On Atheros AR3012 Bluetooth                    | 1         | 5.56%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 5.56%   |
-| Intel AX201 Bluetooth                               | 1         | 5.56%   |
-| Foxconn / Hon Hai Bluetooth Device                  | 1         | 5.56%   |
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 5.56%   |
-| Broadcom HP Portable Bumble Bee                     | 1         | 5.56%   |
+| Realtek  Bluetooth 4.2 Adapter                      | 3         | 15.79%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 15.79%  |
+| Intel Bluetooth wireless interface                  | 2         | 10.53%  |
+| Intel AX200 Bluetooth                               | 2         | 10.53%  |
+| Qualcomm Atheros AR3011 Bluetooth                   | 1         | 5.26%   |
+| Lite-On Bluetooth Device                            | 1         | 5.26%   |
+| Lite-On Atheros AR3012 Bluetooth                    | 1         | 5.26%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 5.26%   |
+| Intel AX201 Bluetooth                               | 1         | 5.26%   |
+| Foxconn / Hon Hai Bluetooth Device                  | 1         | 5.26%   |
+| Edimax Bluetooth Adapter                            | 1         | 5.26%   |
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 5.26%   |
+| Broadcom HP Portable Bumble Bee                     | 1         | 5.26%   |
 
 Sound
 -----
@@ -1858,8 +1865,8 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 9.09%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 4.55%   |
 | SK hynix RAM H9CCNNNCLGALAR-NUD 8GB Row Of Chips LPDDR3 1867MT/s | 1         | 4.55%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 1         | 4.55%   |
-| Samsung RAM M471B5773CHS-CH9 2048MB SODIMM DDR3 4199MT/s         | 1         | 4.55%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s         | 1         | 4.55%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 1         | 4.55%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 1         | 4.55%   |
 | Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s           | 1         | 4.55%   |
 | Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 4.55%   |

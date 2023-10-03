@@ -950,7 +950,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.71%   |
-| Unknown SD/MMC/MS PRO 1GB            | 1        | 0.71%   |
+| Unknown SD/MMC/MS PRO 128GB          | 1        | 0.71%   |
 
 HDD Vendor
 ----------
@@ -1639,7 +1639,7 @@ Monitor models
 | Lenovo LEN P27u-10 LEN61B0 3840x2160 597x336mm 27.0-inch              | 2        | 2.86%   |
 | Iiyama PL4840 IVM1065 1920x1080 1054x593mm 47.6-inch                  | 2        | 2.86%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 2        | 2.86%   |
-| ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch         | 1        | 1.43%   |
+| ViewSonic VX2776 Series VSC3E32 1920x1080 600x340mm 27.2-inch         | 1        | 1.43%   |
 | ViewSonic VA2259 Series VSC5E32 1920x1080 476x268mm 21.5-inch         | 1        | 1.43%   |
 | Samsung Electronics SyncMaster SAM05FC 1920x1080                      | 1        | 1.43%   |
 | Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch   | 1        | 1.43%   |
@@ -1652,8 +1652,8 @@ Monitor models
 | Samsung Electronics C32R50x SAM7000 1920x1080 698x393mm 31.5-inch     | 1        | 1.43%   |
 | Samsung Electronics C32HG7x SAM0E14 2560x1440 697x392mm 31.5-inch     | 1        | 1.43%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 1.43%   |
-| Philips PHL 273V7 PHLC156 1920x1080 598x336mm 27.0-inch               | 1        | 1.43%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch               | 1        | 1.43%   |
+| Philips PHL 273V7 PHLC156 1920x1080 600x340mm 27.2-inch               | 1        | 1.43%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 1        | 1.43%   |
 | Microstep LCD Monitor MSI AG32CV 1920x1080                            | 1        | 1.43%   |
 | LG Electronics LCD Monitor W2486 1920x1080                            | 1        | 1.43%   |
 | Lenovo P27h-20 LEN61E9 2560x1440 609x349mm 27.6-inch                  | 1        | 1.43%   |
@@ -1663,7 +1663,7 @@ Monitor models
 | Lenovo Group Limited LCD Monitor LEN P27u-10 9600x2160                | 1        | 1.43%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10 7680x2160                | 1        | 1.43%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10                          | 1        | 1.43%   |
-| Insignia NS-46E440NA14 BBY4000 1920x1080 591x355mm 27.1-inch          | 1        | 1.43%   |
+| Insignia NS-39E340A13 BBY4000 1920x1080 591x355mm 27.1-inch           | 1        | 1.43%   |
 | Hewlett-Packard Z38c HPN3411 3840x1600 880x367mm 37.5-inch            | 1        | 1.43%   |
 | Hewlett-Packard LE2002x HWP2963 1600x900 443x249mm 20.0-inch          | 1        | 1.43%   |
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.43%   |
@@ -2223,7 +2223,7 @@ Memory module models
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 3.13%   |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                | 1        | 3.13%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s       | 1        | 3.13%   |
-| Samsung RAM M378A1K43CB2-CTD 8192MB DIMM DDR4 3266MT/s    | 1        | 3.13%   |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3266MT/s       | 1        | 3.13%   |
 | Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s          | 1        | 3.13%   |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                  | 1        | 3.13%   |
 | Micron RAM 36ASF4G72PZ-2G3B1 32GB DIMM DDR4 2400MT/s      | 1        | 3.13%   |
@@ -2337,8 +2337,8 @@ Printer device models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | HP LaserJet Professional P 1102w | 1        | 25%     |
+| Canon LiDE 300                   | 1        | 25%     |
 | Canon E560 series                | 1        | 25%     |
-| Canon CanoScan LiDE 300          | 1        | 25%     |
 | Brother DCP-1610W                | 1        | 25%     |
 
 Scanner Vendor

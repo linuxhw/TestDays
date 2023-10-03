@@ -1367,7 +1367,7 @@ Monitor models
 | Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 3        | 18.75%  |
 | ViewSonic VX3211-4K VSCC336 3840x2160 698x393mm 31.5-inch               | 1        | 6.25%   |
 | VIE S20W VIE2080 1600x900 440x250mm 19.9-inch                           | 1        | 6.25%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch       | 1        | 6.25%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch       | 1        | 6.25%   |
 | Samsung Electronics SMB1630N SAM0630 1366x768 344x194mm 15.5-inch       | 1        | 6.25%   |
 | Samsung Electronics S24B20/S24B30 SAM09ED 1920x1080 521x293mm 23.5-inch | 1        | 6.25%   |
 | Orion ORION ORN120A 1920x540                                            | 1        | 6.25%   |
@@ -1376,7 +1376,7 @@ Monitor models
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 6.25%   |
 | Dell DELL2407WFPHC DELA025 1920x1200 520x330mm 24.2-inch                | 1        | 6.25%   |
 | Dell 1704FPV DEL3015 1280x1024 338x270mm 17.0-inch                      | 1        | 6.25%   |
-| AOC 2460G5 AOC246A 1920x1080 531x299mm 24.0-inch                        | 1        | 6.25%   |
+| AOC G2460 AOC246A 1920x1080 531x299mm 24.0-inch                         | 1        | 6.25%   |
 | Acer K222HQL ACR03E1 1920x1080 477x268mm 21.5-inch                      | 1        | 6.25%   |
 
 Monitor Resolution
@@ -1751,7 +1751,7 @@ Sound card models
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 1        | 3.45%   |
 | Nvidia GK107 HDMI Audio Controller                                         | 1        | 3.45%   |
 | Nvidia Audio device                                                        | 1        | 3.45%   |
-| Logitech Logitech G PRO X Gaming Headset                                   | 1        | 3.45%   |
+| Logitech PRO X                                                             | 1        | 3.45%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1        | 3.45%   |
 | Intel Alder Lake-S HD Audio Controller                                     | 1        | 3.45%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 3.45%   |
@@ -1812,7 +1812,7 @@ Memory module models
 | M RAM Module 1GB DIMM DDR3 1333MT/s                      | 1        | 5%      |
 | Kingston RAM CBD26D4S9S8K1C-8 8GB SODIMM DDR4 2667MT/s   | 1        | 5%      |
 | Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s  | 1        | 5%      |
-| G.Skill RAM F4-3200C16-16GVK 16384MB DIMM DDR4 3600MT/s  | 1        | 5%      |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s     | 1        | 5%      |
 | Crucial RAM CT16G4DFD8266.C16FD1 16GB DIMM DDR4 2667MT/s | 1        | 5%      |
 | A-DATA RAM Module 4GB DIMM DDR4 2666MT/s                 | 1        | 5%      |
 | Unknown                                                  | 1        | 5%      |

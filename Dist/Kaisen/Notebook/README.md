@@ -784,7 +784,7 @@ Hard drive models
 | WDC WD10JPVX-75JC3T0 1TB                  | 1         | 2.7%    |
 | Toshiba MQ01ABF050 500GB                  | 1         | 2.7%    |
 | Toshiba KXG6AZNV1T02 1TB                  | 1         | 2.7%    |
-| TO Exter nal USB 3.0 2TB                  | 1         | 2.7%    |
+| TO Exter nal USB 3.0 120GB                | 1         | 2.7%    |
 | TCSUNBOW N4 120GB SSD                     | 1         | 2.7%    |
 | SK hynix SKHynix_HFM256GDHTNI-87A0B 256GB | 1         | 2.7%    |
 | Seagate ST500LM000-1EJ162 500GB           | 1         | 2.7%    |
@@ -795,7 +795,7 @@ Hard drive models
 | Samsung SSD 750 EVO 250GB                 | 1         | 2.7%    |
 | Samsung MZMPA024HMCD-000L1 24GB SSD       | 1         | 2.7%    |
 | Samsung MZ7LN256HCHP-000L7 256GB SSD      | 1         | 2.7%    |
-| Micron 2450_MTFDKBA1T0TFK 1TB             | 1         | 2.7%    |
+| Micron 2450_MTFDKBA1T0TFK 1024GB          | 1         | 2.7%    |
 | MAXIO (Hangzhou) NVMe SSD Drive 512GB     | 1         | 2.7%    |
 | MARSHAL MAL2500SA-T54L 500GB              | 1         | 2.7%    |
 | LITEONIT LMT-64M6M mSATA 64GB SSD         | 1         | 2.7%    |
@@ -805,7 +805,7 @@ Hard drive models
 | Kingston SV300S37A240G 240GB SSD          | 1         | 2.7%    |
 | Kingston SNVS1000GB 1TB                   | 1         | 2.7%    |
 | Kingston SA400S37240G 240GB SSD           | 1         | 2.7%    |
-| JMicron Generic 1TB                       | 1         | 2.7%    |
+| JMicron Generic 240GB                     | 1         | 2.7%    |
 | Intel SSDSC2BX480G4 480GB                 | 1         | 2.7%    |
 | Hitachi HTS545050A7E380 500GB             | 1         | 2.7%    |
 | HGST HTS725050A7E630 500GB                | 1         | 2.7%    |
@@ -892,9 +892,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 22     | 73.08%  |
-| 0.51-1.0   | 6         | 6      | 23.08%  |
-| 1.01-2.0   | 1         | 1      | 3.85%   |
+| 0.01-0.5   | 19        | 24     | 79.17%  |
+| 0.51-1.0   | 5         | 5      | 20.83%  |
 
 Space Total
 -----------
@@ -1097,10 +1096,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 22        | 70.97%  |
-| NVMe | 7         | 22.58%  |
-| RAID | 1         | 3.23%   |
-| IDE  | 1         | 3.23%   |
+| SATA | 22        | 73.33%  |
+| NVMe | 6         | 20%     |
+| RAID | 1         | 3.33%   |
+| IDE  | 1         | 3.33%   |
 
 Processor
 ---------
@@ -1424,7 +1423,7 @@ Monitor models
 | LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch               | 2         | 6.25%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch           | 2         | 6.25%   |
 | Sharp LQ173M1JW08 SHP1544 1920x1080 382x215mm 17.3-inch                   | 1         | 3.13%   |
-| Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch     | 1         | 3.13%   |
+| Samsung Electronics SMS22A300B SAM078E 1920x1080 477x268mm 21.5-inch      | 1         | 3.13%   |
 | PANDA LCD Monitor NCP005F 1920x1080 344x194mm 15.5-inch                   | 1         | 3.13%   |
 | LG Display LCD Monitor LGD40BA 1920x1080 344x194mm 15.5-inch              | 1         | 3.13%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch              | 1         | 3.13%   |
@@ -1438,15 +1437,15 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch           | 1         | 3.13%   |
 | Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch           | 1         | 3.13%   |
 | Chimei Innolux LCD Monitor CMN1495 1366x768 309x173mm 13.9-inch           | 1         | 3.13%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 3.13%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 380x210mm 17.1-inch | 1         | 3.13%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1100 1366x768 256x144mm 11.6-inch  | 1         | 3.13%   |
 | BOE LCD Monitor BOE09DC 1920x1080 344x194mm 15.5-inch                     | 1         | 3.13%   |
-| BOE LCD Monitor BOE06B3 1920x1080                                         | 1         | 3.13%   |
+| BOE LCD Monitor BOE06B3 1366x768 309x173mm 13.9-inch                      | 1         | 3.13%   |
 | BOE LCD Monitor BOE05FE 1366x768 309x173mm 13.9-inch                      | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 3.13%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.13%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO203D 1920x1080 309x174mm 14.0-inch            | 1         | 3.13%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                    | 1         | 3.13%   |
 | Acer K202HQL ACR03E0 1366x768 434x236mm 19.4-inch                         | 1         | 3.13%   |
@@ -1922,14 +1921,14 @@ Memory module models
 | Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s      | 2         | 5.56%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s         | 1         | 2.78%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.78%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 2.78%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 2.78%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 2.78%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s    | 1         | 2.78%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.78%   |
 | SK hynix RAM HMAA2GS6CJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 2.78%   |
 | SK hynix RAM HMAA1GS6CMR6N-XN 8GB Row Of Chips DDR4 3200MT/s | 1         | 2.78%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s       | 1         | 2.78%   |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
-| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 2.78%   |
+| SK hynix RAM HMA81GS6DJR8N-XN 8192MB SODIMM DDR4 3200MT/s    | 1         | 2.78%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 2.78%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 2.78%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 2.78%   |
@@ -1937,13 +1936,13 @@ Memory module models
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 2.78%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 2.78%   |
 | Samsung RAM 456789ABCDEFGHIJKL 8GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
-| Ramaxel RAM RMSA3260MD78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| Ramaxel RAM RMSA3260MD78HAF-2666 8192MB SODIMM DDR4 2667MT/s | 1         | 2.78%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 2.78%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s        | 1         | 2.78%   |
 | Kingston RAM KF3200C20S4/8G 8GB SODIMM DDR4 3200MT/s         | 1         | 2.78%   |
-| Kingston RAM ASU16D3LS1KBG/4G 4096MB SODIMM DDR3 1600MT/s    | 1         | 2.78%   |
+| Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s       | 1         | 2.78%   |
 | Elpida RAM EBJ81UG8EFU0-GN-F 8GB SODIMM DDR3 1600MT/s        | 1         | 2.78%   |
-| Crucial RAM CT8G4SFS8266.M8FD 8192MB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
+| Crucial RAM CT8G4SFS8266.M8FD 8GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
 | Crucial RAM CT102464BF160B.Y16 8GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
 | Crucial RAM BLS16G4S26BFSD.16FD 16GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
 | Corsair RAM CMSX16GX4M1A2400C16 16GB SODIMM DDR4 2400MT/s    | 1         | 2.78%   |
@@ -2068,8 +2067,8 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 6         | 24%     |
-| Bison Electronics                      | 4         | 16%     |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 12%     |
+| Bison Electronics                      | 3         | 12%     |
 | Sunplus Innovation Technology          | 2         | 8%      |
 | Realtek Semiconductor                  | 2         | 8%      |
 | Microdia                               | 2         | 8%      |
@@ -2079,6 +2078,7 @@ Camera device vendors
 | Lite-On Technology                     | 1         | 4%      |
 | IMC Networks                           | 1         | 4%      |
 | Apple                                  | 1         | 4%      |
+| Acer                                   | 1         | 4%      |
 
 Camera Model
 ------------
@@ -2090,9 +2090,9 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Bison Integrated Camera                                 | 3         | 12%     |
 | Chicony Integrated Camera                               | 2         | 8%      |
 | Chicony HP HD Webcam                                    | 2         | 8%      |
+| Bison Integrated Camera                                 | 2         | 8%      |
 | Suyin Acer/Lenovo Webcam [CN0316]                       | 1         | 4%      |
 | Sunplus Integrated Webcam                               | 1         | 4%      |
 | Sunplus Asus Webcam                                     | 1         | 4%      |
@@ -2111,6 +2111,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam     | 1         | 4%      |
 | Bison HD Webcam                                         | 1         | 4%      |
 | Apple FaceTime HD Camera                                | 1         | 4%      |
+| Acer Integrated Camera                                  | 1         | 4%      |
 
 Security
 --------

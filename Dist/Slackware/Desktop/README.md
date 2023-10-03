@@ -1031,7 +1031,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB   | 2        | 1.05%   |
 | Seagate ST1000DM003-1SB102 1TB   | 2        | 1.05%   |
 | Seagate ST1000DM003-1ER162 1TB   | 2        | 1.05%   |
-| Seagate Expansion Desk 2TB       | 2        | 1.05%   |
+| Seagate Expansion Desk 8TB       | 2        | 1.05%   |
 | Samsung SSD 970 EVO Plus 1TB     | 2        | 1.05%   |
 | Kingston SA400S37240G 240GB SSD  | 2        | 1.05%   |
 | Kingston SA400S37120G 120GB SSD  | 2        | 1.05%   |
@@ -1144,13 +1144,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 80     | 41.03%  |
-| 0.51-1.0   | 27       | 63     | 23.08%  |
-| 1.01-2.0   | 18       | 26     | 15.38%  |
-| 3.01-4.0   | 10       | 23     | 8.55%   |
-| 2.01-3.0   | 8        | 19     | 6.84%   |
-| 4.01-10.0  | 4        | 6      | 3.42%   |
-| 10.01-20.0 | 2        | 5      | 1.71%   |
+| 0.01-0.5   | 48       | 80     | 40.68%  |
+| 0.51-1.0   | 27       | 63     | 22.88%  |
+| 1.01-2.0   | 17       | 24     | 14.41%  |
+| 3.01-4.0   | 10       | 23     | 8.47%   |
+| 2.01-3.0   | 8        | 19     | 6.78%   |
+| 4.01-10.0  | 6        | 8      | 5.08%   |
+| 10.01-20.0 | 2        | 5      | 1.69%   |
 
 Space Total
 -----------
@@ -2302,7 +2302,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 12       | 44.44%  |
 | Intel AX200 Bluetooth                               | 3        | 11.11%  |
 | MediaTek Wireless_Device                            | 2        | 7.41%   |
-| Intel Bluetooth Device                              | 2        | 7.41%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 2        | 7.41%   |
 | TP-Link UB5A Adapter                                | 1        | 3.7%    |
 | Realtek Bluetooth Radio                             | 1        | 3.7%    |
 | Micro Star International Bluetooth Dongle           | 1        | 3.7%    |
@@ -2474,7 +2474,7 @@ Memory module models
 | Kingston RAM Module 2048MB FB-DIMM DDR2 667MT/s             | 1        | 1.16%   |
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.16%   |
 | Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.16%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s     | 1        | 1.16%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 1.16%   |
 
 Memory Kind
 -----------
@@ -2595,7 +2595,7 @@ Printer device models
 | HP ENVY 4520 series          | 1        | 11.11%  |
 | HP ENVY 4500 series          | 1        | 11.11%  |
 | Dell 2330d Laser Printer     | 1        | 11.11%  |
-| Canon CanoScan LiDE 300      | 1        | 11.11%  |
+| Canon LiDE 300               | 1        | 11.11%  |
 | Brother Printer              | 1        | 11.11%  |
 | Brother HL-L5102DW           | 1        | 11.11%  |
 | Brother HL-L2320D series     | 1        | 11.11%  |

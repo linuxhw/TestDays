@@ -207,7 +207,7 @@ Total: 80
 | ASUSTek       | P5G41T-M LX2/BR             | [05f1d12390](https://linux-hardware.org/?probe=05f1d12390) | May 26, 2021 |
 | Gigabyte      | H170-HD3-CF                 | [2ffdc89c2a](https://linux-hardware.org/?probe=2ffdc89c2a) | Apr 28, 2021 |
 | Gigabyte      | Z390 GAMING SLI-CF          | [50f8ddb45c](https://linux-hardware.org/?probe=50f8ddb45c) | Apr 28, 2021 |
-| Google        | Panther                     | [666794d603](https://linux-hardware.org/?probe=666794d603) | Apr 26, 2021 |
+| Google        | Tricky                      | [666794d603](https://linux-hardware.org/?probe=666794d603) | Apr 26, 2021 |
 | ASUSTek       | F1A55-M LX                  | [630bbb748a](https://linux-hardware.org/?probe=630bbb748a) | Apr 17, 2021 |
 | Gigabyte      | H170-HD3-CF                 | [f103eefd66](https://linux-hardware.org/?probe=f103eefd66) | Apr 17, 2021 |
 | Gigabyte      | Z390 GAMING SLI-CF          | [e802fc9ff5](https://linux-hardware.org/?probe=e802fc9ff5) | Apr 17, 2021 |
@@ -602,7 +602,7 @@ Motherboard model
 | HP ProDesk 600 G1 SFF                             | 1        | 1.64%   |
 | HP EliteDesk 800 G1 DM                            | 1        | 1.64%   |
 | HP Compaq 8200 Elite SFF PC                       | 1        | 1.64%   |
-| Google Panther                                    | 1        | 1.64%   |
+| Google Tricky                                     | 1        | 1.64%   |
 | Gigabyte Z390 GAMING SLI                          | 1        | 1.64%   |
 | Gigabyte P55A-UD3                                 | 1        | 1.64%   |
 | Gigabyte MZGLKBP-00                               | 1        | 1.64%   |
@@ -655,7 +655,7 @@ Motherboard model prefix
 | HP ProDesk              | 1        | 1.64%   |
 | HP EliteDesk            | 1        | 1.64%   |
 | HP Compaq               | 1        | 1.64%   |
-| Google Panther          | 1        | 1.64%   |
+| Google Tricky           | 1        | 1.64%   |
 | Gigabyte Z390           | 1        | 1.64%   |
 | Gigabyte P55A-UD3       | 1        | 1.64%   |
 | Gigabyte MZGLKBP-00     | 1        | 1.64%   |
@@ -1305,7 +1305,7 @@ Storage controller vendors
 |----------------------------------|----------|---------|
 | Intel                            | 43       | 50%     |
 | AMD                              | 17       | 19.77%  |
-| SanDisk                          | 4        | 4.65%   |
+| Sandisk                          | 4        | 4.65%   |
 | Samsung Electronics              | 4        | 4.65%   |
 | Kingston Technology Company      | 4        | 4.65%   |
 | Micron/Crucial Technology        | 3        | 3.49%   |
@@ -1807,7 +1807,7 @@ Monitor models
 | Samsung Electronics S/T 77/76BDF STN0007 1280x1024 312x234mm 15.4-inch | 1        | 1.47%   |
 | Samsung Electronics LCD Monitor SyncMaster 1280x1024                   | 1        | 1.47%   |
 | Samsung Electronics LCD Monitor SyncMaster                             | 1        | 1.47%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 480x270mm 21.7-inch  | 1        | 1.47%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch  | 1        | 1.47%   |
 | Samsung Electronics LCD Monitor SA300/350/360                          | 1        | 1.47%   |
 | Samsung Electronics LCD Monitor S24D340                                | 1        | 1.47%   |
 | Samsung Electronics LCD Monitor C27F390 5760x1080                      | 1        | 1.47%   |
@@ -1826,7 +1826,7 @@ Monitor models
 | HJW HDMI TO USB HJW0001 1920x1080 700x390mm 31.5-inch                  | 1        | 1.47%   |
 | Hewlett-Packard LA2206 HWP2947 1920x1080 477x268mm 21.5-inch           | 1        | 1.47%   |
 | Hewlett-Packard L2245w HWP26FC 1680x1050 473x296mm 22.0-inch           | 1        | 1.47%   |
-| Hewlett-Packard ENVY 34c HWP3204 3440x1440 800x330mm 34.1-inch         | 1        | 1.47%   |
+| Hewlett-Packard ENVY 34c HWP3204 3440x1440 797x333mm 34.0-inch         | 1        | 1.47%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 1.47%   |
 | Hewlett-Packard Compaq S2321a HWP2915 1920x1080 509x286mm 23.0-inch    | 1        | 1.47%   |
 
@@ -2250,8 +2250,8 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device | 1        | 11.11%  |
 | Qualcomm Atheros AR3011 Bluetooth  | 1        | 11.11%  |
 | MediaTek Wireless_Device           | 1        | 11.11%  |
+| Intel Wireless-AC 3168 Bluetooth   | 1        | 11.11%  |
 | Intel Bluetooth wireless interface | 1        | 11.11%  |
-| Intel Bluetooth Device             | 1        | 11.11%  |
 | Intel AX200 Bluetooth              | 1        | 11.11%  |
 | ASUS Broadcom BCM20702A0 Bluetooth | 1        | 11.11%  |
 
@@ -2399,7 +2399,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR                             | 1        | 1.35%   |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s             | 1        | 1.35%   |
 | Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s          | 1        | 1.35%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.35%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 1        | 1.35%   |
 | Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s          | 1        | 1.35%   |
 | Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s             | 1        | 1.35%   |
 | SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                     | 1        | 1.35%   |
@@ -2585,21 +2585,21 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                     | Desktops | Percent |
-|-------------------------------------------|----------|---------|
-| Logitech Webcam C270                      | 2        | 13.33%  |
-| Cubeternet GL-UPC822 UVC WebCam           | 2        | 13.33%  |
-| Z-Star Vimicro USB Camera (Altair)        | 1        | 6.67%   |
-| Softkinetic DepthSense 325                | 1        | 6.67%   |
-| Realtek HD 720P Webcam                    | 1        | 6.67%   |
-| Microsoft LifeCam Studio                  | 1        | 6.67%   |
-| Microdia Camera                           | 1        | 6.67%   |
-| MacroSilicon USB Video                    | 1        | 6.67%   |
-| Logitech HD Pro Webcam C920               | 1        | 6.67%   |
-| Logitech BRIO Ultra HD Webcam             | 1        | 6.67%   |
-| KYE Systems (Mouse Systems) Genius Webcam | 1        | 6.67%   |
-| Hauppauge HD PVR Pro 60                   | 1        | 6.67%   |
-| GEMBIRD USB2.0 PC CAMERA                  | 1        | 6.67%   |
+| Model                                      | Desktops | Percent |
+|--------------------------------------------|----------|---------|
+| Logitech Webcam C270                       | 2        | 13.33%  |
+| Cubeternet GL-UPC822 UVC WebCam            | 2        | 13.33%  |
+| Z-Star A4 tech USB2.0 Camera               | 1        | 6.67%   |
+| Softkinetic DepthSense 325                 | 1        | 6.67%   |
+| Realtek HD 720P Webcam                     | 1        | 6.67%   |
+| Microsoft LifeCam Studio                   | 1        | 6.67%   |
+| Microdia Camera                            | 1        | 6.67%   |
+| MacroSilicon USB3. 0 capture               | 1        | 6.67%   |
+| Logitech HD Pro Webcam C920                | 1        | 6.67%   |
+| Logitech BRIO                              | 1        | 6.67%   |
+| KYE Systems (Mouse Systems) PC-LM1E Camera | 1        | 6.67%   |
+| Hauppauge HD PVR Pro 60                    | 1        | 6.67%   |
+| GEMBIRD USB2.0 PC CAMERA                   | 1        | 6.67%   |
 
 Security
 --------

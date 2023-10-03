@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 169
+Total: 170
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Shenzhen M... | F6BFC                       | [ca89a07b9e](https://linux-hardware.org/?probe=ca89a07b9e) | Sep 10, 2023 |
 | Shenzhen M... | F6BFC                       | [a33ec74b50](https://linux-hardware.org/?probe=a33ec74b50) | Sep 05, 2023 |
 | Shenzhen M... | F6BFC                       | [d5cd8916d0](https://linux-hardware.org/?probe=d5cd8916d0) | Sep 05, 2023 |
 | HP            | 0A9Ch                       | [f5d07e235d](https://linux-hardware.org/?probe=f5d07e235d) | Aug 24, 2023 |
@@ -1162,7 +1163,7 @@ Hard drive models
 | Samsung SSD 850 EVO 250GB                           | 2        | 0.9%    |
 | Samsung SSD 650 120GB                               | 2        | 0.9%    |
 | Samsung SP2504C 250GB                               | 2        | 0.9%    |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 500GB | 2        | 0.9%    |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 2        | 0.9%    |
 | Samsung HD501LJ 500GB                               | 2        | 0.9%    |
 | Samsung HD103UJ 1TB                                 | 2        | 0.9%    |
 | Phison PS5013 E13 NVMe Controller 512GB             | 2        | 0.9%    |
@@ -1262,11 +1263,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 79       | 173    | 58.96%  |
-| 0.51-1.0   | 38       | 67     | 28.36%  |
-| 1.01-2.0   | 10       | 22     | 7.46%   |
-| 2.01-3.0   | 3        | 5      | 2.24%   |
-| 4.01-10.0  | 3        | 3      | 2.24%   |
+| 0.01-0.5   | 80       | 174    | 60.15%  |
+| 0.51-1.0   | 37       | 67     | 27.82%  |
+| 1.01-2.0   | 9        | 21     | 6.77%   |
+| 2.01-3.0   | 3        | 5      | 2.26%   |
+| 4.01-10.0  | 3        | 3      | 2.26%   |
 | 3.01-4.0   | 1        | 1      | 0.75%   |
 
 Space Total
@@ -1938,7 +1939,7 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Goldstar L194WT GSM4B06 1440x900 408x255mm 18.9-inch                  | 3        | 2.73%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch              | 2        | 1.82%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch              | 2        | 1.82%   |
 | LG Electronics LCD Monitor LG TV 1920x1080                            | 2        | 1.82%   |
 | Lenovo P24q-10 LEN61A5 2560x1440 527x296mm 23.8-inch                  | 2        | 1.82%   |
 | BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                    | 2        | 1.82%   |
@@ -1956,7 +1957,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM026E 1280x1024 376x301mm 19.0-inch  | 1        | 0.91%   |
 | Samsung Electronics SyncMaster SAM0259 1280x1024 376x301mm 19.0-inch  | 1        | 0.91%   |
 | Samsung Electronics SyncMaster SAM0217 1280x1024 376x301mm 19.0-inch  | 1        | 0.91%   |
-| Samsung Electronics SyncMaster SAM01E1 1280x1024 376x301mm 19.0-inch  | 1        | 0.91%   |
+| Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch  | 1        | 0.91%   |
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch  | 1        | 0.91%   |
 | Samsung Electronics SyncMaster SAM006B 1280x1024 338x270mm 17.0-inch  | 1        | 0.91%   |
 | Samsung Electronics SA300/SA350 SAM0793 1920x1080 531x299mm 24.0-inch | 1        | 0.91%   |
@@ -2594,7 +2595,7 @@ Memory module models
 | Kingston RAM KHX2133C11D3/4GX 4GB DIMM DDR3 2134MT/s    | 1        | 1.28%   |
 | Kingston RAM KHX1600C9D3/8GX 8GB DIMM DDR3 2133MT/s     | 1        | 1.28%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s     | 1        | 1.28%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s     | 1        | 1.28%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s     | 1        | 1.28%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s     | 1        | 1.28%   |
 | Kingston RAM KF3600C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 1        | 1.28%   |
 | Kingston RAM HX316C10F/4 4GB DIMM DDR3 1600MT/s         | 1        | 1.28%   |
@@ -2783,13 +2784,13 @@ Camera device models
 | Logitech Webcam C270                        | 3        | 11.11%  |
 | Z-Star Full HD 1080P PC Camera              | 2        | 7.41%   |
 | Logitech Webcam C170                        | 2        | 7.41%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X             | 2        | 7.41%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR          | 2        | 7.41%   |
 | Z-Star Vega USB 2.0 Camera                  | 1        | 3.7%    |
 | Tobii AB EyeChip                            | 1        | 3.7%    |
 | Samsung Galaxy series, misc. (MTP mode)     | 1        | 3.7%    |
 | Razer USA Gaming Webcam [Kiyo]              | 1        | 3.7%    |
 | Pixart Imaging GE 1.3 MP MiniCam Pro        | 1        | 3.7%    |
-| Microdia USB Live camera                    | 1        | 3.7%    |
+| Microdia USB 2.0 Camera                     | 1        | 3.7%    |
 | Microdia Defender G-Lens 2577 HD720p Camera | 1        | 3.7%    |
 | Logitech Webcam C310                        | 1        | 3.7%    |
 | Logitech Webcam C250                        | 1        | 3.7%    |
@@ -2859,8 +2860,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 92       | 88.46%  |
-| 1     | 11       | 10.58%  |
+| 0     | 91       | 87.5%   |
+| 1     | 12       | 11.54%  |
 | 2     | 1        | 0.96%   |
 
 Unsupported Device Types
@@ -2873,11 +2874,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 5        | 38.46%  |
-| Net/wireless             | 2        | 15.38%  |
-| Communication controller | 2        | 15.38%  |
-| Storage/raid             | 1        | 7.69%   |
-| Net/ethernet             | 1        | 7.69%   |
-| Multimedia controller    | 1        | 7.69%   |
-| Chipcard                 | 1        | 7.69%   |
+| Graphics card            | 6        | 42.86%  |
+| Net/wireless             | 2        | 14.29%  |
+| Communication controller | 2        | 14.29%  |
+| Storage/raid             | 1        | 7.14%   |
+| Net/ethernet             | 1        | 7.14%   |
+| Multimedia controller    | 1        | 7.14%   |
+| Chipcard                 | 1        | 7.14%   |
 

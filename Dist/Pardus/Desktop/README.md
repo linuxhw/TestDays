@@ -1267,7 +1267,7 @@ Monitor models
 | Goldstar L1753T GSM4476 1280x1024 338x270mm 17.0-inch                 | 1        | 5%      |
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 5%      |
 | Dell P2717H DEL40F6 1920x1080 598x336mm 27.0-inch                     | 1        | 5%      |
-| Dell E2421HN DELF129 1920x1080 527x296mm 23.8-inch                    | 1        | 5%      |
+| Dell E2421HN DELF129 1920x1080 530x300mm 24.0-inch                    | 1        | 5%      |
 | Beko BK WUXGA BEK4448 1920x1080                                       | 1        | 5%      |
 | Ancor Communications ASUS VP228 ACI22C3 1920x1080 476x268mm 21.5-inch | 1        | 5%      |
 | AGO LCD Monitor AGO0001 1920x1080 256x192mm 12.6-inch                 | 1        | 5%      |
@@ -1301,12 +1301,13 @@ Diagonal size in inches
 
 | Inches | Desktops | Percent |
 |--------|----------|---------|
-| 23     | 6        | 31.58%  |
+| 23     | 5        | 26.32%  |
 | 21     | 3        | 15.79%  |
 | 27     | 2        | 10.53%  |
 | 17     | 2        | 10.53%  |
 | 72     | 1        | 5.26%   |
 | 31     | 1        | 5.26%   |
+| 24     | 1        | 5.26%   |
 | 20     | 1        | 5.26%   |
 | 19     | 1        | 5.26%   |
 | 15     | 1        | 5.26%   |
@@ -1797,7 +1798,7 @@ Camera device models
 |-----------------------------------------|----------|---------|
 | Realtek HP 2.0MP High Definition Webcam | 1        | 16.67%  |
 | Microdia Integrated Camera              | 1        | 16.67%  |
-| MacroSilicon USB Video                  | 1        | 16.67%  |
+| MacroSilicon USB3. 0 capture            | 1        | 16.67%  |
 | Arkmicro USB2.0 PC CAMERA               | 1        | 16.67%  |
 | Allwinner TP1005                        | 1        | 16.67%  |
 | Alcor Micro USB 2.0 PC Camera           | 1        | 16.67%  |

@@ -604,7 +604,7 @@ Hard drive vendors
 | Seagate             | 3        | 4      | 27.27%  |
 | WDC                 | 2        | 2      | 18.18%  |
 | SK hynix            | 1        | 1      | 9.09%   |
-| Sandisk             | 1        | 2      | 9.09%   |
+| SanDisk             | 1        | 2      | 9.09%   |
 | Samsung Electronics | 1        | 1      | 9.09%   |
 | Hitachi             | 1        | 1      | 9.09%   |
 | HGST                | 1        | 1      | 9.09%   |
@@ -1129,7 +1129,7 @@ Monitor models
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch      | 1        | 11.11%  |
 | Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                  | 1        | 11.11%  |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch   | 1        | 11.11%  |
-| Ancor Communications VE228 ACI22FA 1920x1080 477x268mm 21.5-inch   | 1        | 11.11%  |
+| Ancor Communications VE228 ACI22FA 1920x1080 531x299mm 24.0-inch   | 1        | 11.11%  |
 | Acer H193HQV ACR01B8 1366x768 410x230mm 18.5-inch                  | 1        | 11.11%  |
 | Acer G246HL ACR02FF 1920x1080 531x299mm 24.0-inch                  | 1        | 11.11%  |
 

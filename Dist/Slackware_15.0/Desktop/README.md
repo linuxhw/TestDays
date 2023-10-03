@@ -874,7 +874,7 @@ Hard drive models
 | Seagate ST2000DM008-2FR102 2TB   | 2        | 2%      |
 | Seagate ST2000DL003-9VT166 2TB   | 2        | 2%      |
 | Seagate ST1000DM003-1SB102 1TB   | 2        | 2%      |
-| Seagate Expansion Desk 2TB       | 2        | 2%      |
+| Seagate Expansion Desk 8TB       | 2        | 2%      |
 | Samsung SSD 970 EVO 250GB        | 2        | 2%      |
 | Kingston SA400S37120G 120GB SSD  | 2        | 2%      |
 | Crucial CT500MX500SSD1 500GB     | 2        | 2%      |
@@ -993,12 +993,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 40     | 42.42%  |
-| 0.51-1.0   | 13       | 28     | 19.7%   |
-| 1.01-2.0   | 11       | 15     | 16.67%  |
-| 3.01-4.0   | 7        | 14     | 10.61%  |
-| 2.01-3.0   | 4        | 11     | 6.06%   |
-| 4.01-10.0  | 3        | 5      | 4.55%   |
+| 0.01-0.5   | 28       | 40     | 41.79%  |
+| 0.51-1.0   | 13       | 28     | 19.4%   |
+| 1.01-2.0   | 10       | 13     | 14.93%  |
+| 3.01-4.0   | 7        | 14     | 10.45%  |
+| 4.01-10.0  | 5        | 7      | 7.46%   |
+| 2.01-3.0   | 4        | 11     | 5.97%   |
 
 Space Total
 -----------
@@ -1623,8 +1623,8 @@ Monitor models
 | BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                      | 1        | 2.56%   |
 | BenQ G610HDAL BNQ785B 1366x768 344x194mm 15.5-inch                     | 1        | 2.56%   |
 | BenQ EW2440L BNQ7938 1920x1080 531x298mm 24.0-inch                     | 1        | 2.56%   |
-| ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch           | 1        | 2.56%   |
-| AOC 27G2WG3 AOC2702 1920x1080 598x336mm 27.0-inch                      | 1        | 2.56%   |
+| ASUSTek Computer VG245 AUS24A1 1920x1080 530x300mm 24.0-inch           | 1        | 2.56%   |
+| AOC 27B2 AOC2702 1920x1080 598x336mm 27.0-inch                         | 1        | 2.56%   |
 | AOC 2778X AOC2778 2560x1440 600x340mm 27.2-inch                        | 1        | 2.56%   |
 | Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch  | 1        | 2.56%   |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch  | 1        | 2.56%   |
@@ -2034,7 +2034,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 1        | 6.67%   |
 | Micro Star International Bluetooth Dongle           | 1        | 6.67%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 6.67%   |
-| Intel Bluetooth Device                              | 1        | 6.67%   |
+| Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.67%   |
 | Intel AX210 Bluetooth                               | 1        | 6.67%   |
 
 Sound
@@ -2173,7 +2173,7 @@ Memory module models
 | Patriot RAM PSD48G240081 8GB DIMM DDR4 2800MT/s             | 1        | 2.17%   |
 | Kingston RAM Module 2048MB FB-DIMM DDR2 667MT/s             | 1        | 2.17%   |
 | Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 2.17%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s     | 1        | 2.17%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s        | 1        | 2.17%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s         | 1        | 2.17%   |
 | Kingston RAM HP32D4U2S8MR-8 8GB DIMM DDR4 3200MT/s          | 1        | 2.17%   |
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 975MT/s      | 1        | 2.17%   |
@@ -2182,7 +2182,7 @@ Memory module models
 | GOODRAM RAM GR2666D464L19S/8G 8GB DIMM DDR4 2667MT/s        | 1        | 2.17%   |
 | GLOWAY RAM TYA4U2666D19161C 16384MB DIMM DDR4 2667MT/s      | 1        | 2.17%   |
 | G.Skill RAM F4-3200C16-16GTZSW 16GB DIMM DDR4 3200MT/s      | 1        | 2.17%   |
-| G.Skill RAM F4-3200C16-16GIS 16384MB DIMM DDR4 3600MT/s     | 1        | 2.17%   |
+| G.Skill RAM F4-3200C16-16GIS 16GB DIMM DDR4 3600MT/s        | 1        | 2.17%   |
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s          | 1        | 2.17%   |
 | Crucial RAM CT8G4DFRA32A.C8FJ 8GB DIMM DDR4 2400MT/s        | 1        | 2.17%   |
 | Crucial RAM BLS4G4D240FSB.8FBD2 4096MB DIMM DDR4 2400MT/s   | 1        | 2.17%   |
@@ -2304,7 +2304,7 @@ Printer device models
 | QinHeng CH340S               | 1        | 20%     |
 | HP OfficeJet Pro 9010 series | 1        | 20%     |
 | Dell 2330d Laser Printer     | 1        | 20%     |
-| Canon CanoScan LiDE 300      | 1        | 20%     |
+| Canon LiDE 300               | 1        | 20%     |
 | Brother HL-L5102DW           | 1        | 20%     |
 
 Scanner Vendor

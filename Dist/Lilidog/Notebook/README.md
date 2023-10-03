@@ -1859,7 +1859,7 @@ Memory module models
 | Elpida RAM EDFA232A2MA-JD-F 4GB SODIMM LPDDR3 1867MT/s           | 1         | 3.85%   |
 | Elpida RAM EDFA232A2MA-JD-F 4GB Chip LPDDR3 1867MT/s             | 1         | 3.85%   |
 | Elpida RAM EBJ40UG8EFU0-GN-F 4GB SODIMM DDR3 1600MT/s            | 1         | 3.85%   |
-| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM 1067MT/s                 | 1         | 3.85%   |
+| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1067MT/s            | 1         | 3.85%   |
 | A-DATA RAM Module 2GB SODIMM DDR3 1067MT/s                       | 1         | 3.85%   |
 | A-DATA RAM AO1P26KC8T1-BXPS 8GB SODIMM DDR4 2667MT/s             | 1         | 3.85%   |
 | A-DATA RAM AM1L16BC2P1-B1FS 2GB SODIMM DDR3 1600MT/s             | 1         | 3.85%   |
@@ -1985,7 +1985,7 @@ Camera device vendors
 | ALi                           | 2         | 10%     |
 | Suyin                         | 1         | 5%      |
 | Luxvisions Innotech Limited   | 1         | 5%      |
-| Bison Electronics             | 1         | 5%      |
+| Acer                          | 1         | 5%      |
 
 Camera Model
 ------------
@@ -2001,8 +2001,8 @@ Camera device models
 | Suyin Acer/HP Integrated Webcam [CN0314]            | 1         | 5%      |
 | Sunplus Integrated_Webcam_HD                        | 1         | 5%      |
 | Sunplus HD WebCam                                   | 1         | 5%      |
-| Realtek USB2.0-Camera                               | 1         | 5%      |
 | Realtek Lenovo EasyCamera                           | 1         | 5%      |
+| Realtek 2SF022                                      | 1         | 5%      |
 | Microdia Integrated_Webcam_HD                       | 1         | 5%      |
 | Microdia Integrated Webcam                          | 1         | 5%      |
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 1         | 5%      |
@@ -2011,11 +2011,11 @@ Camera device models
 | Chicony Integrated Camera                           | 1         | 5%      |
 | Chicony HP Integrated Webcam                        | 1         | 5%      |
 | Chicony HD WebCam (Acer)                            | 1         | 5%      |
-| Bison BisonCam, NB Pro                              | 1         | 5%      |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X                     | 1         | 5%      |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                  | 1         | 5%      |
 | Apple Built-in iSight                               | 1         | 5%      |
 | ALi WebCam                                          | 1         | 5%      |
 | ALi Gateway Webcam                                  | 1         | 5%      |
+| Acer BisonCam, NB Pro                               | 1         | 5%      |
 
 Security
 --------

@@ -928,7 +928,7 @@ Hard drive models
 | Toshiba MQ04ABF100 1TB               | 1         | 1.43%   |
 | Toshiba MK6034GSX 64GB               | 1         | 1.43%   |
 | Toshiba MK1665GSX 160GB              | 1         | 1.43%   |
-| SSK Disk 1TB                         | 1         | 1.43%   |
+| SSK Disk 256GB                       | 1         | 1.43%   |
 | SK hynix C2S3T/480G 480GB SSD        | 1         | 1.43%   |
 | Silicon Motion NE-128 128GB          | 1         | 1.43%   |
 | Seagate ST9320325ASG 320GB           | 1         | 1.43%   |
@@ -940,7 +940,7 @@ Hard drive models
 | Seagate ST3160023AS 160GB            | 1         | 1.43%   |
 | Seagate ST2000DX002-2DV164 2TB       | 1         | 1.43%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1         | 1.43%   |
-| Seagate Expansion 2TB                | 1         | 1.43%   |
+| Seagate Expansion 1TB                | 1         | 1.43%   |
 | Seagate BUP Slim BK 1TB              | 1         | 1.43%   |
 | SanDisk SDSA6MM-016G-1006 16GB SSD   | 1         | 1.43%   |
 | SanDisk SD9SN8W256G1002 256GB SSD    | 1         | 1.43%   |
@@ -1036,10 +1036,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 35        | 42     | 70%     |
-| 0.51-1.0   | 11        | 16     | 22%     |
-| 1.01-2.0   | 3         | 4      | 6%      |
-| 4.01-10.0  | 1         | 1      | 2%      |
+| 0.01-0.5   | 36        | 44     | 70.59%  |
+| 0.51-1.0   | 12        | 15     | 23.53%  |
+| 1.01-2.0   | 2         | 3      | 3.92%   |
+| 4.01-10.0  | 1         | 1      | 1.96%   |
 
 Space Total
 -----------
@@ -1668,14 +1668,14 @@ Monitor models
 | Model                                                                    | Computers | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Zoran HDMI TV ZRN0294 1360x768 500x281mm 22.6-inch                       | 2         | 4.17%   |
-| Sceptre Tech E24 SPT099D 1920x1080 521x293mm 23.5-inch                   | 2         | 4.17%   |
+| Sceptre Tech E24 SPT099D 1920x1080 530x300mm 24.0-inch                   | 2         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch         | 2         | 4.17%   |
 | Sony TV SNY0101 1360x768                                                 | 1         | 2.08%   |
 | Sharp LCD Monitor SHP1416 1366x768 309x174mm 14.0-inch                   | 1         | 2.08%   |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch    | 1         | 2.08%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch  | 1         | 2.08%   |
 | Samsung Electronics C32R50x SAM7001 1920x1080 698x393mm 31.5-inch        | 1         | 2.08%   |
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch        | 1         | 2.08%   |
-| SAC LED MONITOR SAC952D 1920x1080 480x260mm 21.5-inch                    | 1         | 2.08%   |
+| SAC DM-MONB2205 SAC952D 1920x1080 450x270mm 20.7-inch                    | 1         | 2.08%   |
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                       | 1         | 2.08%   |
 | LG Display LP101WSB-TLN1 LGD026E 1024x600 224x126mm 10.1-inch            | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0479 1920x1080 309x174mm 14.0-inch             | 1         | 2.08%   |
@@ -1689,7 +1689,7 @@ Monitor models
 | InfoVision LCD Monitor IVO03FA 1366x768 223x125mm 10.1-inch              | 1         | 2.08%   |
 | HUAWEI ZQE-CBA HWV6A25 3440x1440 797x334mm 34.0-inch                     | 1         | 2.08%   |
 | Hewlett-Packard W2271d HWP3102 1920x1080 477x268mm 21.5-inch             | 1         | 2.08%   |
-| Goldstar ULTRAGEAR GSM776E 2560x1440 697x392mm 31.5-inch                 | 1         | 2.08%   |
+| Goldstar LG ULTRAGEAR GSM776E 2560x1440 700x390mm 31.5-inch              | 1         | 2.08%   |
 | Goldstar 32ML600 GSM772D 1920x1080 480x270mm 21.7-inch                   | 1         | 2.08%   |
 | eMachines E15T4W EMA05E1 1280x800 332x207mm 15.4-inch                    | 1         | 2.08%   |
 | Dell P2415Q DELA0C0 3840x2160 527x296mm 23.8-inch                        | 1         | 2.08%   |
@@ -2278,7 +2278,7 @@ Memory module models
 | SK hynix RAM HMT451S6MFR8C-PB 4GB SODIMM DDR3 1334MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB DDR3 1600MT/s                  | 1         | 1.52%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 1.52%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s             | 1         | 1.52%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s             | 1         | 1.52%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1600MT/s           | 1         | 1.52%   |
@@ -2463,7 +2463,7 @@ Camera device vendors
 | Suyin                         | 1         | 3.85%   |
 | Quanta                        | 1         | 3.85%   |
 | Luxvisions Innotech Limited   | 1         | 3.85%   |
-| Bison Electronics             | 1         | 3.85%   |
+| Acer                          | 1         | 3.85%   |
 
 Camera Model
 ------------
@@ -2480,8 +2480,8 @@ Camera device models
 | Suyin Acer/HP Integrated Webcam [CN0314]            | 1         | 3.85%   |
 | Sunplus Integrated_Webcam_HD                        | 1         | 3.85%   |
 | Sunplus HD WebCam                                   | 1         | 3.85%   |
-| Realtek USB2.0-Camera                               | 1         | 3.85%   |
 | Realtek Lenovo EasyCamera                           | 1         | 3.85%   |
+| Realtek 2SF022                                      | 1         | 3.85%   |
 | Quanta HP 2.0MP High Definition Webcam              | 1         | 3.85%   |
 | Microdia Integrated_Webcam_HD                       | 1         | 3.85%   |
 | Microdia Integrated Webcam                          | 1         | 3.85%   |
@@ -2494,11 +2494,11 @@ Camera device models
 | Chicony Integrated Camera                           | 1         | 3.85%   |
 | Chicony HP Integrated Webcam                        | 1         | 3.85%   |
 | Chicony HD WebCam (Acer)                            | 1         | 3.85%   |
-| Bison BisonCam, NB Pro                              | 1         | 3.85%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X                     | 1         | 3.85%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                  | 1         | 3.85%   |
 | Apple FaceTime HD Camera (Built-in)                 | 1         | 3.85%   |
 | ALi WebCam                                          | 1         | 3.85%   |
 | ALi Gateway Webcam                                  | 1         | 3.85%   |
+| Acer BisonCam, NB Pro                               | 1         | 3.85%   |
 
 Security
 --------

@@ -1348,14 +1348,14 @@ Monitor models
 
 | Model                                                                   | Computers | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch     | 11        | 22.92%  |
+| Samsung Electronics SyncMaster SAM01D3 1440x900 410x260mm 19.1-inch     | 11        | 22.92%  |
 | ___ LCDTV16 ___0101 1920x1080                                           | 9         | 18.75%  |
 | Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5         | 10.42%  |
 | Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5         | 10.42%  |
 | ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch               | 4         | 8.33%   |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 4         | 8.33%   |
 | BenQ FP91G+ BNQ76A5 1280x1024 376x301mm 19.0-inch                       | 3         | 6.25%   |
-| Lenovo LEN L1711pC LEN13B7 1280x1024 360x300mm 18.4-inch                | 2         | 4.17%   |
+| Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 2         | 4.17%   |
 | Samsung Electronics LCD Monitor SAM0F9F 3840x2160 1872x1053mm 84.6-inch | 1         | 2.08%   |
 | Hewlett-Packard L1502 HWP2600 1024x768 304x228mm 15.0-inch              | 1         | 2.08%   |
 | Goldstar E2241 GSM5818 1920x1080 477x268mm 21.5-inch                    | 1         | 2.08%   |
@@ -1774,7 +1774,7 @@ Memory module models
 | pqi RAM Module 1024MB DIMM DDR2 800MT/s                        | 1         | 3.13%   |
 | Nanya RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 3.13%   |
 | Kingston RAM Module 2048MB DIMM DDR2 533MT/s                   | 1         | 3.13%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
+| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s       | 1         | 3.13%   |
 | Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s            | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s          | 1         | 3.13%   |
 
@@ -1935,9 +1935,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 18        | 58.06%  |
-| 1     | 10        | 32.26%  |
-| 2     | 2         | 6.45%   |
+| 0     | 15        | 48.39%  |
+| 1     | 12        | 38.71%  |
+| 2     | 3         | 9.68%   |
 | 4     | 1         | 3.23%   |
 
 Unsupported Device Types
@@ -1950,10 +1950,10 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 11        | 68.75%  |
-| Network                  | 1         | 6.25%   |
-| Net/wireless             | 1         | 6.25%   |
-| Net/ethernet             | 1         | 6.25%   |
-| Communication controller | 1         | 6.25%   |
-| Card reader              | 1         | 6.25%   |
+| Graphics card            | 13        | 72.22%  |
+| Network                  | 1         | 5.56%   |
+| Net/wireless             | 1         | 5.56%   |
+| Net/ethernet             | 1         | 5.56%   |
+| Communication controller | 1         | 5.56%   |
+| Card reader              | 1         | 5.56%   |
 

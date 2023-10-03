@@ -1789,7 +1789,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SMB1930N 1366x768                    | 1        | 1.28%   |
 | Samsung Electronics LCD Monitor SA300/SA350 1366x768                 | 1        | 1.28%   |
 | NEC Computers LCD1850E NEC65D1 1280x1024 359x287mm 18.1-inch         | 1        | 1.28%   |
-| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                     | 1        | 1.28%   |
+| MStar Demo MST0030 1360x765 1150x650mm 52.0-inch                     | 1        | 1.28%   |
 | LG Electronics LCD Monitor W2043 3520x1080                           | 1        | 1.28%   |
 | LG Electronics LCD Monitor 2D HD LG TV                               | 1        | 1.28%   |
 | LG Electronics LCD Monitor 23MP55                                    | 1        | 1.28%   |
@@ -2345,7 +2345,7 @@ Memory module models
 | Micron RAM Module 2048MB DIMM DDR3 1333MT/s              | 1        | 2.27%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 2.27%   |
 | Kingston RAM Module 2048MB DIMM DDR2 667MT/s             | 1        | 2.27%   |
-| Kingston RAM KHX3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s  | 1        | 2.27%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 1        | 2.27%   |
 | Kingston RAM KHX3000C16D4/16GX 16GB DIMM DDR4 3000MT/s   | 1        | 2.27%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 1        | 2.27%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s      | 1        | 2.27%   |
@@ -2530,7 +2530,7 @@ Camera device models
 | Pixart Imaging Multimedia audio controller | 1        | 5.26%   |
 | Microdia Webcam Vitade AF                  | 1        | 5.26%   |
 | KYE Systems (Mouse Systems) WideCam 1050   | 1        | 5.26%   |
-| KYE Systems (Mouse Systems) Genius Webcam  | 1        | 5.26%   |
+| KYE Systems (Mouse Systems) PC-LM1E Camera | 1        | 5.26%   |
 | KYE Systems (Mouse Systems) FaceCam 310    | 1        | 5.26%   |
 | Jieli USB PHY 2.0                          | 1        | 5.26%   |
 | IMC Networks XHC Camera                    | 1        | 5.26%   |

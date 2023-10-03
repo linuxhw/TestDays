@@ -804,12 +804,12 @@ Motherboard manufacture year
 | 2018 | 17       | 10.9%   |
 | 2013 | 14       | 8.97%   |
 | 2017 | 12       | 7.69%   |
-| 2010 | 12       | 7.69%   |
 | 2016 | 11       | 7.05%   |
+| 2010 | 11       | 7.05%   |
 | 2020 | 9        | 5.77%   |
 | 2011 | 9        | 5.77%   |
+| 2009 | 8        | 5.13%   |
 | 2014 | 7        | 4.49%   |
-| 2009 | 7        | 4.49%   |
 | 2015 | 5        | 3.21%   |
 | 2008 | 5        | 3.21%   |
 | 2007 | 4        | 2.56%   |
@@ -1172,7 +1172,7 @@ Hard drive models
 | Seagate ST2000DM006-2DM164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.53%   |
-| Seagate Expansion Desk 2TB          | 2        | 0.53%   |
+| Seagate Expansion Desk 8TB          | 2        | 0.53%   |
 | SanDisk NVMe SSD Drive 1TB          | 2        | 0.53%   |
 | Samsung SSD 970 EVO Plus 500GB      | 2        | 0.53%   |
 | Samsung SSD 850 EVO M.2 500GB       | 2        | 0.53%   |
@@ -1274,13 +1274,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 101      | 197    | 44.1%   |
-| 0.51-1.0   | 63       | 115    | 27.51%  |
-| 1.01-2.0   | 36       | 94     | 15.72%  |
-| 4.01-10.0  | 11       | 29     | 4.8%    |
-| 3.01-4.0   | 10       | 47     | 4.37%   |
-| 2.01-3.0   | 5        | 45     | 2.18%   |
-| 10.01-20.0 | 3        | 22     | 1.31%   |
+| 0.01-0.5   | 101      | 197    | 43.91%  |
+| 0.51-1.0   | 62       | 114    | 26.96%  |
+| 1.01-2.0   | 37       | 92     | 16.09%  |
+| 4.01-10.0  | 12       | 32     | 5.22%   |
+| 3.01-4.0   | 10       | 47     | 4.35%   |
+| 2.01-3.0   | 5        | 45     | 2.17%   |
+| 10.01-20.0 | 3        | 22     | 1.3%    |
 
 Space Total
 -----------
@@ -1982,7 +1982,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch | 2        | 1.05%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2        | 1.05%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 1.05%   |
-| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                     | 2        | 1.05%   |
+| MStar Demo MST0030 1360x765 1150x650mm 52.0-inch                     | 2        | 1.05%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch         | 2        | 1.05%   |
 | Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch              | 2        | 1.05%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 1.05%   |
@@ -1999,7 +1999,7 @@ Monitor models
 | Unknown LCD Monitor XXX AAA 1366x768                                 | 1        | 0.53%   |
 | Unknown LCD Monitor BENQ G2200W 5520x2160                            | 1        | 0.53%   |
 | Sony TV *00 SNY8404 3840x2160 1218x685mm 55.0-inch                   | 1        | 0.53%   |
-| Sony TV  *00 SNY7C04 3840x2160 1080x610mm 48.8-inch                  | 1        | 0.53%   |
+| Sony TV *00 SNY7C04 3840x2160 1085x610mm 49.0-inch                   | 1        | 0.53%   |
 | Sony SDM-E96D SNYB400 1280x1024 376x301mm 19.0-inch                  | 1        | 0.53%   |
 | Sceptre Tech U435CV-UMC SPT1109 3840x2160 575x323mm 26.0-inch        | 1        | 0.53%   |
 | Samsung Electronics U28E850 SAM0CCD 3840x2160 608x345mm 27.5-inch    | 1        | 0.53%   |
@@ -2237,8 +2237,8 @@ Controller models
 | Intel Ethernet Connection (2) I219-LM                                         | 3        | 1.19%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 3        | 1.19%   |
 | Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]             | 3        | 1.19%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                    | 2        | 0.79%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                      | 2        | 0.79%   |
+| Realtek 802.11n WLAN Adapter                                                  | 2        | 0.79%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 2        | 0.79%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 2        | 0.79%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                              | 2        | 0.79%   |
@@ -2293,7 +2293,7 @@ Wireless models
 | Ralink MT7601U Wireless Adapter                                                               | 3        | 5.36%   |
 | Intel Wireless-AC 9260                                                                        | 3        | 5.36%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                                            | 3        | 5.36%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 2        | 3.57%   |
+| Realtek 802.11n WLAN Adapter                                                                  | 2        | 3.57%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 2        | 3.57%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                              | 2        | 3.57%   |
 | Intel Wireless 8265 / 8275                                                                    | 2        | 3.57%   |
@@ -2485,13 +2485,14 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 13       | 26.53%  |
-| Intel Bluetooth Device                              | 7        | 14.29%  |
 | Intel AX200 Bluetooth                               | 7        | 14.29%  |
+| Intel Wireless-AC 3168 Bluetooth                    | 6        | 12.24%  |
 | Intel Bluetooth wireless interface                  | 5        | 10.2%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 4        | 8.16%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 3        | 6.12%   |
 | Realtek Bluetooth Radio                             | 2        | 4.08%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 2.04%   |
+| Intel Bluetooth Device                              | 1        | 2.04%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 2.04%   |
 | IMC Networks Bluetooth Device                       | 1        | 2.04%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 1        | 2.04%   |
@@ -2656,9 +2657,9 @@ Memory module models
 | Samsung RAM M391B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.14%   |
 | Samsung RAM M378A4G43AB2-CWE 32GB DIMM DDR4 3200MT/s    | 1        | 1.14%   |
 | Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s     | 1        | 1.14%   |
-| Samsung RAM M3 78T2953EZ3-CE6 1024MB DIMM DDR 1331MT/s  | 1        | 1.14%   |
+| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 1331MT/s    | 1        | 1.14%   |
 | Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.14%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.14%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2048MB DIMM DDR3 1333MT/s   | 1        | 1.14%   |
 | Nanya RAM NT2GC64B88G0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.14%   |
 | Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s     | 1        | 1.14%   |
 
@@ -2843,7 +2844,7 @@ Camera device models
 | Lenovo FHD Webcam                                 | 2        | 8.33%   |
 | Samsung Galaxy series, misc. (MTP mode)           | 1        | 4.17%   |
 | Realtek HD Camera                                 | 1        | 4.17%   |
-| Microdia GC02M2                                   | 1        | 4.17%   |
+| Microdia USB 2.0 Camera                           | 1        | 4.17%   |
 | Logitech Webcam C930e                             | 1        | 4.17%   |
 | Logitech Webcam C210                              | 1        | 4.17%   |
 | Logitech StreamCam                                | 1        | 4.17%   |

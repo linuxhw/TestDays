@@ -692,7 +692,7 @@ Hard drive models
 | Seagate ST3160812AS 41N3268 LEN 160GB | 1        | 6.67%   |
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
-| KingSpec NT-256 256GB SSD             | 1        | 6.67%   |
+| KingSpec NT-256 256GB                 | 1        | 6.67%   |
 | KingDian S200 60GB SSD                | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |

@@ -1563,10 +1563,10 @@ Monitor models
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 1.92%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 1.92%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 1.92%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch     | 1         | 1.92%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 1.92%   |
-| Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 1.92%   |
+| Samsung Electronics LCD Monitor SEC3942 1280x800 261x163mm 12.1-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 1.92%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch     | 1         | 1.92%   |
@@ -1580,7 +1580,7 @@ Monitor models
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 1.92%   |
 | LG Display LCD Monitor LGD037C 1366x768 310x174mm 14.0-inch              | 1         | 1.92%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 1.92%   |
-| LG Display LCD Monitor LGD02AC 1366x768 344x194mm 15.5-inch              | 1         | 1.92%   |
+| LG Display LCD Monitor LGD02AC 1366x768 340x190mm 15.3-inch              | 1         | 1.92%   |
 | LG Display LCD Monitor LGD024F 1280x800 260x160mm 12.0-inch              | 1         | 1.92%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 1.92%   |
 | JDI LCD Monitor JDI422A 3000x2000 293x196mm 13.9-inch                    | 1         | 1.92%   |
@@ -2117,8 +2117,8 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 2         | 8%      |
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s  | 1         | 4%      |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s     | 1         | 4%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s        | 1         | 4%      |
@@ -2127,7 +2127,7 @@ Memory module models
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s      | 1         | 4%      |
-| Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s     | 1         | 4%      |
+| Samsung RAM M471A2K43DB1-CWE 16384MB SODIMM DDR4 3200MT/s  | 1         | 4%      |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 4%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | Ramaxel RAM RMSA3270MB86H9F2400 4GB SODIMM DDR4 2400MT/s   | 1         | 4%      |
@@ -2287,8 +2287,8 @@ Camera device models
 | IMC Networks USB2.0 VGA UVC WebCam                                    | 1         | 2.5%    |
 | IMC Networks USB2.0 UVC HD Webcam                                     | 1         | 2.5%    |
 | IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 2.5%    |
+| Chicony Web Camera - HD                                               | 1         | 2.5%    |
 | Chicony USB 2.0 Camera                                                | 1         | 2.5%    |
-| Chicony TOSHIBA Web Camera - HD                                       | 1         | 2.5%    |
 | Chicony Lenovo EasyCamera                                             | 1         | 2.5%    |
 | Chicony Integrated Camera                                             | 1         | 2.5%    |
 | Chicony HP Wide Vision HD Camera                                      | 1         | 2.5%    |
@@ -2297,10 +2297,10 @@ Camera device models
 | Chicony HP HD Camera                                                  | 1         | 2.5%    |
 | Chicony HD WebCam                                                     | 1         | 2.5%    |
 | Chicony EasyCamera                                                    | 1         | 2.5%    |
-| Bison Integrated Camera                                               | 1         | 2.5%    |
 | Bison HP TrueVision HD Webcam                                         | 1         | 2.5%    |
+| Bison EasyCamera                                                      | 1         | 2.5%    |
 | Bison BisonCam, NB Pro                                                | 1         | 2.5%    |
-| Acer EasyCamera                                                       | 1         | 2.5%    |
+| Acer Integrated Camera                                                | 1         | 2.5%    |
 
 Security
 --------

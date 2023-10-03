@@ -649,33 +649,33 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| WDC WD5002ABYS-01B1B0 500GB           | 1        | 4%      |
-| WDC WD3200BPVT-80JJ5T0 320GB          | 1        | 4%      |
-| WDC WD2000FYYZ-01UL1B2 2TB            | 1        | 4%      |
-| WDC WD10EZEX-00BN5A0 1TB              | 1        | 4%      |
-| WDC WD10EURX-63UY4Y0 1TB              | 1        | 4%      |
-| WDC WD10EADS-22M2B0 1TB               | 1        | 4%      |
-| WDC WD1002FAEX-00Z3A0 1TB             | 1        | 4%      |
-| Toshiba DT01ACA200 2TB                | 1        | 4%      |
-| Toshiba DT01ACA100 1TB                | 1        | 4%      |
-| Toshiba DT01ABA100V 1TB               | 1        | 4%      |
-| SK hynix BC511 NVMe 256GB             | 1        | 4%      |
-| Seagate ST9500325ASG 500GB            | 1        | 4%      |
-| Seagate ST9250315AS 250GB             | 1        | 4%      |
-| Seagate ST3160215AS 160GB             | 1        | 4%      |
-| Seagate ST31000528AS 1TB              | 1        | 4%      |
-| Seagate ST2000LM003 HN-M201RAD 2TB    | 1        | 4%      |
-| Seagate ST1000DM003-1CH162 1TB        | 1        | 4%      |
-| SanDisk SD6SF1M128G1022I 128GB SSD    | 1        | 4%      |
-| Samsung SSD 860 EVO 250GB             | 1        | 4%      |
-| Samsung HD161HJ 160GB                 | 1        | 4%      |
-| Phison Sabrent 256GB                  | 1        | 4%      |
-| Micron MTFDKBA1T0TFH-1BC1AABHA 1024GB | 1        | 4%      |
-| Micron 1100_MTFDDAV256TBN 256GB SSD   | 1        | 4%      |
-| Hitachi HTS545016B9A300 160GB         | 1        | 4%      |
-| Corsair Force GS 128GB SSD            | 1        | 4%      |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| WDC WD5002ABYS-01B1B0 500GB         | 1        | 4%      |
+| WDC WD3200BPVT-80JJ5T0 320GB        | 1        | 4%      |
+| WDC WD2000FYYZ-01UL1B2 2TB          | 1        | 4%      |
+| WDC WD10EZEX-00BN5A0 1TB            | 1        | 4%      |
+| WDC WD10EURX-63UY4Y0 1TB            | 1        | 4%      |
+| WDC WD10EADS-22M2B0 1TB             | 1        | 4%      |
+| WDC WD1002FAEX-00Z3A0 1TB           | 1        | 4%      |
+| Toshiba DT01ACA200 2TB              | 1        | 4%      |
+| Toshiba DT01ACA100 1TB              | 1        | 4%      |
+| Toshiba DT01ABA100V 1TB             | 1        | 4%      |
+| SK hynix BC511 NVMe 256GB           | 1        | 4%      |
+| Seagate ST9500325ASG 500GB          | 1        | 4%      |
+| Seagate ST9250315AS 250GB           | 1        | 4%      |
+| Seagate ST3160215AS 160GB           | 1        | 4%      |
+| Seagate ST31000528AS 1TB            | 1        | 4%      |
+| Seagate ST2000LM003 HN-M201RAD 2TB  | 1        | 4%      |
+| Seagate ST1000DM003-1CH162 1TB      | 1        | 4%      |
+| SanDisk SD6SF1M128G1022I 128GB SSD  | 1        | 4%      |
+| Samsung SSD 860 EVO 250GB           | 1        | 4%      |
+| Samsung HD161HJ 160GB               | 1        | 4%      |
+| Phison Sabrent 256GB                | 1        | 4%      |
+| Micron MTFDKBA1T0TFH-1BC1AABHA 1TB  | 1        | 4%      |
+| Micron 1100_MTFDDAV256TBN 256GB SSD | 1        | 4%      |
+| Hitachi HTS545016B9A300 160GB       | 1        | 4%      |
+| Corsair Force GS 128GB SSD          | 1        | 4%      |
 
 HDD Vendor
 ----------
@@ -1209,11 +1209,11 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM02B7 1280x720                       | 1        | 6.67%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch      | 1        | 6.67%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch            | 1        | 6.67%   |
-| MStar Demo MST0030 2288x1430 708x398mm 32.0-inch                       | 1        | 6.67%   |
+| MStar Demo MST0030 1360x765 1150x650mm 52.0-inch                       | 1        | 6.67%   |
 | Insignia TV BBY0030 3840x2160 708x398mm 32.0-inch                      | 1        | 6.67%   |
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch          | 1        | 6.67%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 6.67%   |
-| GDH CHHWJT GDH9021 1280x1024 708x398mm 32.0-inch                       | 1        | 6.67%   |
+| GDH PHILCO GDH9021 1280x720 708x398mm 32.0-inch                        | 1        | 6.67%   |
 | Dell P2210 DEL404C 1680x1050 474x296mm 22.0-inch                       | 1        | 6.67%   |
 | BenQ GW2283 BNQ78E9 1920x1080 476x268mm 21.5-inch                      | 1        | 6.67%   |
 | ASUSTek Computer ROG PG258Q AUS25B1 1920x1080 544x303mm 24.5-inch      | 1        | 6.67%   |
