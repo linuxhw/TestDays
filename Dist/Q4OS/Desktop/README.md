@@ -760,7 +760,7 @@ Hard drive models
 | WDC WD1600AAJS-75M0A0 160GB       | 1        | 3.23%   |
 | WDC WD1600AAJS-00L7A0 160GB       | 1        | 3.23%   |
 | WDC WD10EFRX-68JCSN0 1TB          | 1        | 3.23%   |
-| Unknown (CF) Card 16GB SSD        | 1        | 3.23%   |
+| Unknown (CF) Card 32GB            | 1        | 3.23%   |
 | Transcend TS32GHSD370 32GB SSD    | 1        | 3.23%   |
 | Seagate ST8000DM004-2CX188 8TB    | 1        | 3.23%   |
 | Seagate ST3500413AS 500GB         | 1        | 3.23%   |
@@ -1030,7 +1030,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller | 2        | 6.25%   |
 | VIA VX900 Series Serial-ATA Controller                                        | 1        | 3.13%   |
 | Silicon Integrated Systems [SiS] RAID bus controller 180 SATA/PATA  [SiS]     | 1        | 3.13%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1        | 3.13%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                   | 1        | 3.13%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 1        | 3.13%   |
 | Nvidia MCP61 SATA Controller                                                  | 1        | 3.13%   |
 | Nvidia MCP61 IDE                                                              | 1        | 3.13%   |
@@ -1364,7 +1364,7 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 3        | 18.75%  |
+| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch                 | 3        | 18.75%  |
 | ViewSonic VX3211-4K VSCC336 3840x2160 698x393mm 31.5-inch               | 1        | 6.25%   |
 | VIE S20W VIE2080 1600x900 440x250mm 19.9-inch                           | 1        | 6.25%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch       | 1        | 6.25%   |
@@ -1372,11 +1372,11 @@ Monitor models
 | Samsung Electronics S24B20/S24B30 SAM09ED 1920x1080 521x293mm 23.5-inch | 1        | 6.25%   |
 | Orion ORION ORN120A 1920x540                                            | 1        | 6.25%   |
 | Iiyama PLB2403WS IVM5601 1920x1200 519x324mm 24.1-inch                  | 1        | 6.25%   |
-| Hewlett-Packard 2009 HWP2827 1600x900 443x250mm 20.0-inch               | 1        | 6.25%   |
+| Hewlett-Packard 2009 HWP2827 1600x900 440x250mm 19.9-inch               | 1        | 6.25%   |
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 6.25%   |
 | Dell DELL2407WFPHC DELA025 1920x1200 520x330mm 24.2-inch                | 1        | 6.25%   |
 | Dell 1704FPV DEL3015 1280x1024 338x270mm 17.0-inch                      | 1        | 6.25%   |
-| AOC G2460 AOC246A 1920x1080 531x299mm 24.0-inch                         | 1        | 6.25%   |
+| AOC 2460G5 AOC246A 1920x1080 531x299mm 24.0-inch                        | 1        | 6.25%   |
 | Acer K222HQL ACR03E1 1920x1080 477x268mm 21.5-inch                      | 1        | 6.25%   |
 
 Monitor Resolution
@@ -1751,7 +1751,7 @@ Sound card models
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 1        | 3.45%   |
 | Nvidia GK107 HDMI Audio Controller                                         | 1        | 3.45%   |
 | Nvidia Audio device                                                        | 1        | 3.45%   |
-| Logitech PRO X                                                             | 1        | 3.45%   |
+| Logitech Logitech G PRO X Gaming Headset                                   | 1        | 3.45%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1        | 3.45%   |
 | Intel Alder Lake-S HD Audio Controller                                     | 1        | 3.45%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 3.45%   |

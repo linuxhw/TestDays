@@ -846,8 +846,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 36       | 53.73%  |
-| Yes       | 31       | 46.27%  |
+| No        | 37       | 55.22%  |
+| Yes       | 30       | 44.78%  |
 
 Has Ethernet
 ------------
@@ -1039,7 +1039,7 @@ Hard drive models
 | Seagate ST3500312CS 500GB        | 2        | 1.42%   |
 | Seagate ST2000DM006-2DM164 2TB   | 2        | 1.42%   |
 | Seagate ST1000DM003-1CH162 1TB   | 2        | 1.42%   |
-| Seagate Expansion Desk 8TB       | 2        | 1.42%   |
+| Seagate Expansion Desk 3TB       | 2        | 1.42%   |
 | Samsung SSD 850 EVO 500GB        | 2        | 1.42%   |
 | PNY CS900 120GB SSD              | 2        | 1.42%   |
 | Phison NVMe SSD Drive 960GB      | 2        | 1.42%   |
@@ -1159,12 +1159,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 42       | 64     | 49.41%  |
-| 0.51-1.0   | 29       | 36     | 34.12%  |
-| 1.01-2.0   | 6        | 8      | 7.06%   |
-| 2.01-3.0   | 4        | 5      | 4.71%   |
-| 4.01-10.0  | 3        | 4      | 3.53%   |
-| 3.01-4.0   | 1        | 1      | 1.18%   |
+| 0.01-0.5   | 42       | 64     | 48.84%  |
+| 0.51-1.0   | 30       | 36     | 34.88%  |
+| 2.01-3.0   | 6        | 8      | 6.98%   |
+| 1.01-2.0   | 6        | 8      | 6.98%   |
+| 3.01-4.0   | 1        | 1      | 1.16%   |
+| 4.01-10.0  | 1        | 1      | 1.16%   |
 
 Space Total
 -----------
@@ -1349,13 +1349,13 @@ Storage controller models
 | Toshiba America Info Systems XG5 NVMe SSD Controller                                    | 1        | 0.81%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                                    | 1        | 0.81%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 0.81%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 0.81%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 0.81%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1        | 0.81%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 0.81%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD                    | 1        | 0.81%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                             | 1        | 0.81%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 0.81%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 1        | 0.81%   |
 | Phison PS5019-E19 PCIe4 NVMe Controller (DRAM-less)                                     | 1        | 0.81%   |
-| Phison PS5013 E13 NVMe Controller                                                       | 1        | 0.81%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 1        | 0.81%   |
 | Phison E7 NVMe Controller                                                               | 1        | 0.81%   |
 | Nvidia MCP61 SATA Controller                                                            | 1        | 0.81%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                               | 1        | 0.81%   |
@@ -1767,48 +1767,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch | 2        | 2.5%    |
-| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                | 2        | 2.5%    |
-| Hewlett-Packard 27ea HPN3395 1920x1080 527x296mm 23.8-inch            | 2        | 2.5%    |
-| Vizio E500i-A1 VIZ1004 1920x1080 1095x616mm 49.5-inch                 | 1        | 1.25%   |
-| Vestel LCD Monitor 32W_LCD_TV                                         | 1        | 1.25%   |
-| Unknown LCD Monitor DAC Moniter 5760x1080                             | 1        | 1.25%   |
-| Sony TV SNYF301 1920x1080                                             | 1        | 1.25%   |
-| Sceptre Tech Sceptre M25 SPT0A05 1920x1080 597x336mm 27.0-inch        | 1        | 1.25%   |
-| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch  | 1        | 1.25%   |
-| Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch   | 1        | 1.25%   |
-| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch     | 1        | 1.25%   |
-| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch     | 1        | 1.25%   |
-| Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 1.25%   |
-| Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch     | 1        | 1.25%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 890x500mm 40.2-inch | 1        | 1.25%   |
-| Samsung Electronics LCD Monitor SAM094E 1920x1080 700x390mm 31.5-inch | 1        | 1.25%   |
-| Samsung Electronics LCD Monitor SAM07BA 1920x1080 890x500mm 40.2-inch | 1        | 1.25%   |
-| Samsung Electronics LCD Monitor SAM0297 1360x768 885x498mm 40.0-inch  | 1        | 1.25%   |
-| Samsung Electronics LCD Monitor S24D300 1920x1080                     | 1        | 1.25%   |
-| Samsung Electronics LCD Monitor S22D300 1920x1080                     | 1        | 1.25%   |
-| Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch     | 1        | 1.25%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch              | 1        | 1.25%   |
-| Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch               | 1        | 1.25%   |
-| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch              | 1        | 1.25%   |
-| Philips LCD Monitor PHL 276E8V 7680x2160                              | 1        | 1.25%   |
-| Philips LCD Monitor PHL 276E8V                                        | 1        | 1.25%   |
-| ONN onn. TV ONN007D 3840x2160 800x450mm 36.1-inch                     | 1        | 1.25%   |
-| MSI Optix G27C2 MSI1462 1920x1080 600x330mm 27.0-inch                 | 1        | 1.25%   |
-| MSI MPG341CQR MSI3DA0 3440x1440 797x334mm 34.0-inch                   | 1        | 1.25%   |
-| Microstep LCD Monitor Optix MAG24C 3840x1200                          | 1        | 1.25%   |
-| Medion Medion23.6 PC MEDB603 1920x1080 477x268mm 21.5-inch            | 1        | 1.25%   |
-| Lenovo G24-20 LEN66CF 1920x1080 530x300mm 24.0-inch                   | 1        | 1.25%   |
-| Iiyama PL2493H IVM6148 1920x1080 527x296mm 23.8-inch                  | 1        | 1.25%   |
-| Hitachi HISENSE HEC002F 3840x2160 1872x1053mm 84.6-inch               | 1        | 1.25%   |
-| Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch          | 1        | 1.25%   |
-| Hewlett-Packard w2228h HWP2810 1680x1050 473x296mm 22.0-inch          | 1        | 1.25%   |
-| Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch           | 1        | 1.25%   |
-| Hewlett-Packard vs19x HWP2658 1280x1024 376x301mm 19.0-inch           | 1        | 1.25%   |
-| Hewlett-Packard LCD Monitor x23LED 1920x1080                          | 1        | 1.25%   |
-| Hewlett-Packard LA1905 HWP2845 1440x900 408x255mm 18.9-inch           | 1        | 1.25%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch  | 2        | 2.5%    |
+| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                     | 2        | 2.5%    |
+| Hewlett-Packard 27ea HPN3395 1920x1080 527x296mm 23.8-inch             | 2        | 2.5%    |
+| Vizio E550i-B2 VIZ1004 1920x1080 477x268mm 21.5-inch                   | 1        | 1.25%   |
+| Vestel LCD Monitor 32W_LCD_TV                                          | 1        | 1.25%   |
+| Unknown LCD Monitor DAC Moniter 5760x1080                              | 1        | 1.25%   |
+| Sony TV SNYF301 1920x1080                                              | 1        | 1.25%   |
+| Sceptre Tech Sceptre M25 SPT0A05 1920x1080 597x336mm 27.0-inch         | 1        | 1.25%   |
+| Samsung Electronics SyncMaster SAM0593 1920x1080 477x268mm 21.5-inch   | 1        | 1.25%   |
+| Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch    | 1        | 1.25%   |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch      | 1        | 1.25%   |
+| Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch      | 1        | 1.25%   |
+| Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch      | 1        | 1.25%   |
+| Samsung Electronics LU28R55 SAM1016 3840x2160 632x360mm 28.6-inch      | 1        | 1.25%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1110x620mm 50.1-inch | 1        | 1.25%   |
+| Samsung Electronics LCD Monitor SAM094E 1920x1080 700x390mm 31.5-inch  | 1        | 1.25%   |
+| Samsung Electronics LCD Monitor SAM07BA 1920x1080                      | 1        | 1.25%   |
+| Samsung Electronics LCD Monitor SAM0297 1360x768 885x498mm 40.0-inch   | 1        | 1.25%   |
+| Samsung Electronics LCD Monitor S24D300 1920x1080                      | 1        | 1.25%   |
+| Samsung Electronics LCD Monitor S22D300 1920x1080                      | 1        | 1.25%   |
+| Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch      | 1        | 1.25%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch               | 1        | 1.25%   |
+| Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch                | 1        | 1.25%   |
+| Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch               | 1        | 1.25%   |
+| Philips LCD Monitor PHL 276E8V 7680x2160                               | 1        | 1.25%   |
+| Philips LCD Monitor PHL 276E8V                                         | 1        | 1.25%   |
+| ONN onn. TV ONN007D 3840x2160 800x450mm 36.1-inch                      | 1        | 1.25%   |
+| MSI Optix MAG24C MSI1462 1920x1080 520x290mm 23.4-inch                 | 1        | 1.25%   |
+| MSI MPG341CQR MSI3DA0 3440x1440 797x334mm 34.0-inch                    | 1        | 1.25%   |
+| Microstep LCD Monitor Optix MAG24C 3840x1200                           | 1        | 1.25%   |
+| Medion Medion23.6 PC MEDB603 1920x1080 477x268mm 21.5-inch             | 1        | 1.25%   |
+| Lenovo G24-20 LEN66CF 1920x1080 527x296mm 23.8-inch                    | 1        | 1.25%   |
+| Iiyama PL2493H IVM6148 1920x1080 527x296mm 23.8-inch                   | 1        | 1.25%   |
+| Hitachi HISENSE HEC002F 3840x2160 1872x1053mm 84.6-inch                | 1        | 1.25%   |
+| Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch           | 1        | 1.25%   |
+| Hewlett-Packard w2228h HWP2810 1680x1050 473x296mm 22.0-inch           | 1        | 1.25%   |
+| Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch            | 1        | 1.25%   |
+| Hewlett-Packard vs19x HWP2658 1280x1024 376x301mm 19.0-inch            | 1        | 1.25%   |
+| Hewlett-Packard LCD Monitor x23LED 1920x1080                           | 1        | 1.25%   |
+| Hewlett-Packard LA1905 HWP2845 1440x900 408x255mm 18.9-inch            | 1        | 1.25%   |
 
 Monitor Resolution
 ------------------
@@ -1855,12 +1855,11 @@ Diagonal size in inches
 | 18      | 4        | 5.48%   |
 | 22      | 3        | 4.11%   |
 | 84      | 2        | 2.74%   |
+| 54      | 2        | 2.74%   |
 | 34      | 2        | 2.74%   |
 | 31      | 2        | 2.74%   |
 | 20      | 2        | 2.74%   |
 | 72      | 1        | 1.37%   |
-| 54      | 1        | 1.37%   |
-| 49      | 1        | 1.37%   |
 | 46      | 1        | 1.37%   |
 | 40      | 1        | 1.37%   |
 | 36      | 1        | 1.37%   |
@@ -2010,7 +2009,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-V                                    | 2        | 1.94%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                          | 1        | 0.97%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                   | 1        | 0.97%   |
-| TP-Link 802.11n NIC                                                     | 1        | 0.97%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                               | 1        | 0.97%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1        | 0.97%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1        | 0.97%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1        | 0.97%   |
@@ -2074,7 +2073,7 @@ Wireless models
 | Ralink RT5572 Wireless Adapter                                          | 2        | 5.71%   |
 | Intel Wireless-AC 9260                                                  | 2        | 5.71%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                   | 1        | 2.86%   |
-| TP-Link 802.11n NIC                                                     | 1        | 2.86%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                               | 1        | 2.86%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1        | 2.86%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                             | 1        | 2.86%   |
 | Realtek RTL8188EE Wireless Network Adapter                              | 1        | 2.86%   |
@@ -2359,7 +2358,7 @@ Memory module models
 |-------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 8GB DIMM DDR4 2667MT/s                   | 1        | 4.55%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                | 1        | 4.55%   |
-| Team RAM TEAMGROUP-SD4-2666 8GB SODIMM DDR4 2667MT/s        | 1        | 4.55%   |
+| Team RAM TEAMGROUP-SD4-2666 32GB SODIMM DDR4 2667MT/s       | 1        | 4.55%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s      | 1        | 4.55%   |
 | Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s         | 1        | 4.55%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s         | 1        | 4.55%   |
@@ -2367,7 +2366,7 @@ Memory module models
 | Micron RAM Module 16GB SODIMM DDR4 3200MT/s                 | 1        | 4.55%   |
 | Micron RAM 16ATF1G64AZ-2G1A2 8GB DIMM DDR4 2400MT/s         | 1        | 4.55%   |
 | Kingston RAM Module 8GB DIMM DDR4 2667MT/s                  | 1        | 4.55%   |
-| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2400MT/s        | 1        | 4.55%   |
+| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2666MT/s           | 1        | 4.55%   |
 | Kingston RAM HX426C16FB2/8 8GB DIMM DDR4 2667MT/s           | 1        | 4.55%   |
 | Kingston RAM 99P5471-002.A00LF 2GB DIMM DDR3 1600MT/s       | 1        | 4.55%   |
 | Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s       | 1        | 4.55%   |
@@ -2438,13 +2437,14 @@ Memory module speed
 | 3200  | 3        | 15.79%  |
 | 2667  | 3        | 15.79%  |
 | 1600  | 3        | 15.79%  |
-| 2400  | 2        | 10.53%  |
 | 1333  | 2        | 10.53%  |
 | 6400  | 1        | 5.26%   |
 | 3733  | 1        | 5.26%   |
 | 3600  | 1        | 5.26%   |
 | 3500  | 1        | 5.26%   |
 | 3000  | 1        | 5.26%   |
+| 2666  | 1        | 5.26%   |
+| 2400  | 1        | 5.26%   |
 | 1867  | 1        | 5.26%   |
 
 Printers & scanners
@@ -2508,11 +2508,11 @@ Camera device vendors
 | Vendor                      | Desktops | Percent |
 |-----------------------------|----------|---------|
 | Logitech                    | 3        | 27.27%  |
-| webcamvendor                | 1        | 9.09%   |
 | Samsung Electronics         | 1        | 9.09%   |
 | Microdia                    | 1        | 9.09%   |
 | KYE Systems (Mouse Systems) | 1        | 9.09%   |
 | IMC Networks                | 1        | 9.09%   |
+| HD 2MP WEBCAM               | 1        | 9.09%   |
 | Generalplus Technology      | 1        | 9.09%   |
 | GEMBIRD                     | 1        | 9.09%   |
 | Alcor Micro                 | 1        | 9.09%   |
@@ -2525,18 +2525,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                   | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920             | 2        | 18.18%  |
-| webcamvendor webcamproduct              | 1        | 9.09%   |
-| Samsung Galaxy series, misc. (MTP mode) | 1        | 9.09%   |
-| Microdia USB 2.0 Camera                 | 1        | 9.09%   |
-| Logitech C922 Pro Stream Webcam         | 1        | 9.09%   |
-| KYE Systems (Mouse Systems) Slim 1322AF | 1        | 9.09%   |
-| IMC Networks XHC Camera                 | 1        | 9.09%   |
-| Generalplus 808 Camera                  | 1        | 9.09%   |
-| GEMBIRD USB2.0 PC CAMERA                | 1        | 9.09%   |
-| Alcor Micro USB 2.0 PC Camera           | 1        | 9.09%   |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920              | 2        | 18.18%  |
+| Samsung Galaxy series, misc. (MTP mode)  | 1        | 9.09%   |
+| Microdia USB 2.0 Camera                  | 1        | 9.09%   |
+| Logitech C922 Pro Stream Webcam          | 1        | 9.09%   |
+| KYE Systems (Mouse Systems) Slim 1322AF  | 1        | 9.09%   |
+| IMC Networks XHC Camera                  | 1        | 9.09%   |
+| HD 2MP WEBCAM HD 2MP WEBCAM              | 1        | 9.09%   |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 9.09%   |
+| GEMBIRD USB2.0 PC CAMERA                 | 1        | 9.09%   |
+| Alcor Micro USB 2.0 PC Camera            | 1        | 9.09%   |
 
 Security
 --------

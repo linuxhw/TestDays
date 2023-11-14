@@ -866,48 +866,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Notebooks | Percent |
-|-----------------------------------------------------|-----------|---------|
-| Unknown MMC Card  64GB                              | 2         | 3.92%   |
-| Seagate ST1000LM048-2E7172 1TB                      | 2         | 3.92%   |
-| Samsung SSD 970 PRO 1TB                             | 2         | 3.92%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 1.96%   |
-| WDC WDS100T2B0C-00PXH0 1TB                          | 1         | 1.96%   |
-| Unknown MMC Card  32GB                              | 1         | 1.96%   |
-| Unknown DA4128  128GB                               | 1         | 1.96%   |
-| Transcend TS240GMTS420S 240GB SSD                   | 1         | 1.96%   |
-| Toshiba NVMe SSD Drive 512GB                        | 1         | 1.96%   |
-| Seagate NVMe SSD Drive 2TB                          | 1         | 1.96%   |
-| SanDisk SSD i100 24GB                               | 1         | 1.96%   |
-| SanDisk SDSSDP128G 128GB                            | 1         | 1.96%   |
-| SanDisk SDSSDH3500G 500GB                           | 1         | 1.96%   |
-| Samsung SSD 970 EVO Plus 500GB                      | 1         | 1.96%   |
-| Samsung SSD 970 EVO Plus 2TB                        | 1         | 1.96%   |
-| Samsung SSD 970 EVO 250GB                           | 1         | 1.96%   |
-| Samsung SSD 960 EVO 500GB                           | 1         | 1.96%   |
-| Samsung SSD 960 EVO 250GB                           | 1         | 1.96%   |
-| Samsung SSD 860 EVO 500GB                           | 1         | 1.96%   |
-| Samsung SSD 860 EVO 250GB                           | 1         | 1.96%   |
-| Samsung SSD 860 EVO 1TB                             | 1         | 1.96%   |
-| Samsung SSD 850 EVO 500GB                           | 1         | 1.96%   |
-| Samsung SSD 850 EVO 250GB                           | 1         | 1.96%   |
-| Samsung NVMe SSD Drive 1TB                          | 1         | 1.96%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 1         | 1.96%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB  | 1         | 1.96%   |
-| Samsung HS08XJC 80GB                                | 1         | 1.96%   |
-| Samsung HM321HI 320GB                               | 1         | 1.96%   |
-| Qumo SSD 120GB                                      | 1         | 1.96%   |
-| Plextor PX-1TM6Pro 1024GB SSD                       | 1         | 1.96%   |
-| Phison PM8512GPTCB4B8TF-E13T4 512GB                 | 1         | 1.96%   |
-| Mushkin MKNSSDRE250GB-LT                            | 1         | 1.96%   |
-| JMicron Generic 240GB                               | 1         | 1.96%   |
-| Intel SSDSC2BF180A4H 180GB                          | 1         | 1.96%   |
-| Hitachi HTS545050A7E380 500GB                       | 1         | 1.96%   |
-| HGST HTS721010A9E630 1TB                            | 1         | 1.96%   |
-| HGST HTS545050B7E660 500GB                          | 1         | 1.96%   |
-| HGST HTS541010A9E680 1TB                            | 1         | 1.96%   |
-| Crucial CT250MX500SSD4 250GB                        | 1         | 1.96%   |
-| Crucial CT2000MX500SSD1 2TB                         | 1         | 1.96%   |
+| Model                                              | Notebooks | Percent |
+|----------------------------------------------------|-----------|---------|
+| Unknown MMC Card  64GB                             | 2         | 3.92%   |
+| Seagate ST1000LM048-2E7172 1TB                     | 2         | 3.92%   |
+| Samsung SSD 970 PRO 1TB                            | 2         | 3.92%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD                   | 1         | 1.96%   |
+| WDC WDS100T2B0C-00PXH0 1TB                         | 1         | 1.96%   |
+| Unknown MMC Card  32GB                             | 1         | 1.96%   |
+| Unknown DA4128  128GB                              | 1         | 1.96%   |
+| Transcend TS240GMTS420S 240GB SSD                  | 1         | 1.96%   |
+| Toshiba NVMe SSD Drive 512GB                       | 1         | 1.96%   |
+| Seagate NVMe SSD Drive 2TB                         | 1         | 1.96%   |
+| SanDisk SSD i100 24GB                              | 1         | 1.96%   |
+| SanDisk SDSSDP128G 128GB                           | 1         | 1.96%   |
+| SanDisk SDSSDH3500G 500GB                          | 1         | 1.96%   |
+| Samsung SSD 970 EVO Plus 500GB                     | 1         | 1.96%   |
+| Samsung SSD 970 EVO Plus 2TB                       | 1         | 1.96%   |
+| Samsung SSD 970 EVO 250GB                          | 1         | 1.96%   |
+| Samsung SSD 960 EVO 500GB                          | 1         | 1.96%   |
+| Samsung SSD 960 EVO 250GB                          | 1         | 1.96%   |
+| Samsung SSD 860 EVO 500GB                          | 1         | 1.96%   |
+| Samsung SSD 860 EVO 250GB                          | 1         | 1.96%   |
+| Samsung SSD 860 EVO 1TB                            | 1         | 1.96%   |
+| Samsung SSD 850 EVO 500GB                          | 1         | 1.96%   |
+| Samsung SSD 850 EVO 250GB                          | 1         | 1.96%   |
+| Samsung NVMe SSD Drive 1TB                         | 1         | 1.96%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB  | 1         | 1.96%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 1         | 1.96%   |
+| Samsung HS08XJC 80GB                               | 1         | 1.96%   |
+| Samsung HM321HI 320GB                              | 1         | 1.96%   |
+| Qumo SSD 120GB                                     | 1         | 1.96%   |
+| Plextor PX-1TM6Pro 1024GB SSD                      | 1         | 1.96%   |
+| Phison PM8512GPTCB4B8TF-E13T4 512GB                | 1         | 1.96%   |
+| Mushkin MKNSSDRE250GB-LT                           | 1         | 1.96%   |
+| JMicron Generic 256GB                              | 1         | 1.96%   |
+| Intel SSDSC2BF180A4H 180GB                         | 1         | 1.96%   |
+| Hitachi HTS545050A7E380 500GB                      | 1         | 1.96%   |
+| HGST HTS721010A9E630 1TB                           | 1         | 1.96%   |
+| HGST HTS545050B7E660 500GB                         | 1         | 1.96%   |
+| HGST HTS541010A9E680 1TB                           | 1         | 1.96%   |
+| Crucial CT250MX500SSD4 250GB                       | 1         | 1.96%   |
+| Crucial CT2000MX500SSD1 2TB                        | 1         | 1.96%   |
 
 HDD Vendor
 ----------
@@ -934,19 +934,18 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 6         | 8      | 27.27%  |
-| SanDisk             | 3         | 3      | 13.64%  |
-| Crucial             | 2         | 4      | 9.09%   |
-| A-DATA Technology   | 2         | 2      | 9.09%   |
-| WDC                 | 1         | 1      | 4.55%   |
-| Transcend           | 1         | 1      | 4.55%   |
-| Qumo                | 1         | 1      | 4.55%   |
-| Plextor             | 1         | 1      | 4.55%   |
-| Mushkin             | 1         | 1      | 4.55%   |
-| JMicron Technology  | 1         | 1      | 4.55%   |
-| Intel               | 1         | 1      | 4.55%   |
-| BIWIN               | 1         | 1      | 4.55%   |
-| Apple               | 1         | 1      | 4.55%   |
+| Samsung Electronics | 6         | 8      | 28.57%  |
+| SanDisk             | 3         | 3      | 14.29%  |
+| Crucial             | 2         | 4      | 9.52%   |
+| A-DATA Technology   | 2         | 2      | 9.52%   |
+| WDC                 | 1         | 1      | 4.76%   |
+| Transcend           | 1         | 1      | 4.76%   |
+| Qumo                | 1         | 1      | 4.76%   |
+| Plextor             | 1         | 1      | 4.76%   |
+| Mushkin             | 1         | 1      | 4.76%   |
+| Intel               | 1         | 1      | 4.76%   |
+| BIWIN               | 1         | 1      | 4.76%   |
+| Apple               | 1         | 1      | 4.76%   |
 
 Drive Kind
 ----------
@@ -958,10 +957,10 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 18        | 26     | 39.13%  |
-| NVMe | 16        | 20     | 34.78%  |
-| HDD  | 8         | 8      | 17.39%  |
-| MMC  | 4         | 4      | 8.7%    |
+| SSD  | 18        | 25     | 38.3%   |
+| NVMe | 17        | 21     | 36.17%  |
+| HDD  | 8         | 8      | 17.02%  |
+| MMC  | 4         | 4      | 8.51%   |
 
 Drive Connector
 ---------------
@@ -988,7 +987,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 18        | 26     | 72%     |
+| 0.01-0.5   | 18        | 25     | 72%     |
 | 0.51-1.0   | 5         | 5      | 20%     |
 | 1.01-2.0   | 2         | 3      | 8%      |
 
@@ -1143,10 +1142,10 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                            | 2         | 4.65%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1         | 2.33%   |
 | Seagate FireCuda/IronWolf 510 SSD                                              | 1         | 2.33%   |
-| SanDisk WD Green SN350 NVMe SSD 240GB (DRAM-less)                              | 1         | 2.33%   |
+| SanDisk WD Green SN350 240GB (DRAM-less) / SN560E NVMe SSD                     | 1         | 2.33%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 2.33%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 2.33%   |
-| Phison PS5013 E13 NVMe Controller                                              | 1         | 2.33%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 1         | 2.33%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 2.33%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 1         | 2.33%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 1         | 2.33%   |
@@ -1523,7 +1522,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 2.08%   |
 | Chimei Innolux LCD Monitor CMN15BD 1366x768 344x193mm 15.5-inch           | 1         | 2.08%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch           | 1         | 2.08%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 380x210mm 17.1-inch | 1         | 2.08%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.08%   |
 | BOE LCD Monitor BOE0877 1920x1080 309x173mm 13.9-inch                     | 1         | 2.08%   |
 | BOE LCD Monitor BOE07DB 1920x1080 309x174mm 14.0-inch                     | 1         | 2.08%   |
 | BOE LCD Monitor BOE079A 1920x1080 309x173mm 13.9-inch                     | 1         | 2.08%   |
@@ -1714,7 +1713,7 @@ Controller models
 | Intel Wireless 7265                                                           | 3         | 3.8%    |
 | Intel Wireless 7260                                                           | 3         | 3.8%    |
 | Intel Ethernet Connection I217-LM                                             | 2         | 2.53%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                    | 2         | 2.53%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter          | 2         | 2.53%   |
 | ASIX AX88179 Gigabit Ethernet                                                 | 2         | 2.53%   |
 | Realtek USB 10/100/1G/2.5G LAN                                                | 1         | 1.27%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                            | 1         | 1.27%   |
@@ -1727,7 +1726,7 @@ Controller models
 | Qualcomm Atheros QCA8172 Fast Ethernet                                        | 1         | 1.27%   |
 | Qualcomm Atheros AR9271 802.11n                                               | 1         | 1.27%   |
 | Qualcomm Atheros AR2413/AR2414 Wireless Network Adapter [AR5005G(S) 802.11bg] | 1         | 1.27%   |
-| OPPO 8                                                                        | 1         | 1.27%   |
+| OPPO RMX2027                                                                  | 1         | 1.27%   |
 | MediaTek WiFi                                                                 | 1         | 1.27%   |
 | Intel Wireless 8265 / 8275                                                    | 1         | 1.27%   |
 | Intel Wireless 8260                                                           | 1         | 1.27%   |
@@ -1737,7 +1736,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-LM                                         | 1         | 1.27%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                                             | 1         | 1.27%   |
 | Intel Centrino Advanced-N 6235                                                | 1         | 1.27%   |
-| DisplayLink USB-C Triple-4K Dock                                              | 1         | 1.27%   |
+| DisplayLink USB-C Dual-4K Dock                                                | 1         | 1.27%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                             | 1         | 1.27%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express                       | 1         | 1.27%   |
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express                           | 1         | 1.27%   |
@@ -1780,7 +1779,7 @@ Wireless models
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                    | 3         | 6.82%   |
 | Intel Wireless 7265                                                           | 3         | 6.82%   |
 | Intel Wireless 7260                                                           | 3         | 6.82%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                    | 2         | 4.55%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter          | 2         | 4.55%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                            | 1         | 2.27%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                               | 1         | 2.27%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                       | 1         | 2.27%   |
@@ -1838,11 +1837,11 @@ Ethernet models
 | ASIX AX88179 Gigabit Ethernet                                     | 2         | 5.71%   |
 | Realtek USB 10/100/1G/2.5G LAN                                    | 1         | 2.86%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 2.86%   |
-| OPPO 8                                                            | 1         | 2.86%   |
+| OPPO RMX2027                                                      | 1         | 2.86%   |
 | Intel Ethernet Connection I218-V                                  | 1         | 2.86%   |
 | Intel Ethernet Connection (4) I219-V                              | 1         | 2.86%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 2.86%   |
-| DisplayLink USB-C Triple-4K Dock                                  | 1         | 2.86%   |
+| DisplayLink USB-C Dual-4K Dock                                    | 1         | 2.86%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1         | 2.86%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express           | 1         | 2.86%   |
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 1         | 2.86%   |
@@ -2049,14 +2048,14 @@ Memory module models
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                | 1         | 5.56%   |
 | Unknown RAM Module 16384MB 2133MT/s                        | 1         | 5.56%   |
 | Toshiba RAM 8HTF12864HDY-800G1 2GB SODIMM 1066MT/s         | 1         | 5.56%   |
-| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM 1066MT/s          | 1         | 5.56%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8192MB SODIMM DDR3 1600MT/s  | 1         | 5.56%   |
+| Toshiba RAM 64T128020EDL2.5C2 2GB SODIMM DDR2 1066MT/s     | 1         | 5.56%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 1         | 5.56%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s     | 1         | 5.56%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s     | 1         | 5.56%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 5.56%   |
 | Samsung RAM Module 4GB SODIMM LPDDR3 1867MT/s              | 1         | 5.56%   |
-| Samsung RAM K4A8G165WC-BCTD 4096MB SODIMM DDR4 2667MT/s    | 1         | 5.56%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s    | 1         | 5.56%   |
+| Samsung RAM K4A8G165WC-BCTD 4GB SODIMM DDR4 2667MT/s       | 1         | 5.56%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s | 1         | 5.56%   |
 | Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1067MT/s      | 1         | 5.56%   |
 | Crucial RAM CT4G4SFS8213.C8FBD1 4GB SODIMM DDR4 2133MT/s   | 1         | 5.56%   |
 | Crucial RAM CT16G4S24AM.M16FE 16GB SODIMM DDR4 2400MT/s    | 1         | 5.56%   |
@@ -2169,11 +2168,12 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Realtek Semiconductor                  | 6         | 17.65%  |
-| Bison Electronics                      | 5         | 14.71%  |
 | Chicony Electronics                    | 4         | 11.76%  |
 | Alcor Micro                            | 4         | 11.76%  |
 | Sunplus Innovation Technology          | 3         | 8.82%   |
 | Apple                                  | 3         | 8.82%   |
+| Acer                                   | 3         | 8.82%   |
+| Bison Electronics                      | 2         | 5.88%   |
 | Suyin                                  | 1         | 2.94%   |
 | Silicon Motion                         | 1         | 2.94%   |
 | Quanta                                 | 1         | 2.94%   |
@@ -2197,8 +2197,8 @@ Camera device models
 | Alcor Micro HD WebCam                                                      | 3         | 8.57%   |
 | Realtek USB2.0 camera                                                      | 2         | 5.71%   |
 | Chicony HD User Facing                                                     | 2         | 5.71%   |
-| Bison SunplusIT INC. Integrated Camera                                     | 2         | 5.71%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                                         | 2         | 5.71%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X                                            | 2         | 5.71%   |
+| Acer SunplusIT INC. Integrated Camera                                      | 2         | 5.71%   |
 | Suyin HP Integrated Webcam                                                 | 1         | 2.86%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 2.86%   |
 | Sunplus Integrated Camera                                                  | 1         | 2.86%   |
@@ -2209,7 +2209,7 @@ Camera device models
 | Realtek Integrated Webcam                                                  | 1         | 2.86%   |
 | Realtek HP Truevision HD                                                   | 1         | 2.86%   |
 | Quanta HD Camera                                                           | 1         | 2.86%   |
-| Microdia HP Integrated Webcam                                              | 1         | 2.86%   |
+| Microdia HP Webcam-101                                                     | 1         | 2.86%   |
 | Lite-On Integrated Camera                                                  | 1         | 2.86%   |
 | IMC Networks Lenovo EasyCamera                                             | 1         | 2.86%   |
 | Genesys Logic Camera                                                       | 1         | 2.86%   |
@@ -2218,10 +2218,10 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD integrated webcam | 1         | 2.86%   |
 | Bison SunplusIT Integrated Camera                                          | 1         | 2.86%   |
 | Bison Lenovo EasyCamera                                                    | 1         | 2.86%   |
-| Bison BisonCam, NB Pro                                                     | 1         | 2.86%   |
 | Apple iBridge                                                              | 1         | 2.86%   |
 | Apple Built-in iSight                                                      | 1         | 2.86%   |
 | Alcor Micro HP Webcam-101                                                  | 1         | 2.86%   |
+| Acer BisonCam, NB Pro                                                      | 1         | 2.86%   |
 | Unknown                                                                    | 1         | 2.86%   |
 
 Security

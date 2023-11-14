@@ -930,8 +930,8 @@ Hard drive models
 | WDC WD10EZEX-00BN5A0 1TB         | 1        | 1.35%   |
 | WDC WD10EURX-83UY4Y0 1TB         | 1        | 1.35%   |
 | WDC WD Blue SA510 2.5 500GB      | 1        | 1.35%   |
-| Verbatim Vi550 S3 SSD 128GB      | 1        | 1.35%   |
-| Unknown SD/MMC/MS PRO 128GB      | 1        | 1.35%   |
+| Verbatim Vi550 S3 SSD 256GB      | 1        | 1.35%   |
+| Unknown SD/MMC/MS PRO 16GB       | 1        | 1.35%   |
 | Toshiba THNSNJ256GCST 256GB SSD  | 1        | 1.35%   |
 | Toshiba MK3275GSX 320GB          | 1        | 1.35%   |
 | Toshiba MK1234GSX 120GB          | 1        | 1.35%   |
@@ -1203,9 +1203,9 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 2        | 2.94%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 2        | 2.94%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 1.47%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.47%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 1.47%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.47%   |
-| Realtek RTS5763DL NVMe SSD Controller                                                   | 1        | 1.47%   |
+| Realtek RTS5762 NVMe SSD Controller                                                     | 1        | 1.47%   |
 | Nvidia MCP55 SATA Controller                                                            | 1        | 1.47%   |
 | Nvidia MCP55 IDE                                                                        | 1        | 1.47%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                              | 1        | 1.47%   |
@@ -1601,12 +1601,12 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Vestel LCD Monitor 32W_LCD_TV 1920x1080                               | 1        | 2.44%   |
 | Unknown LCD Monitor SAMSUNG                                           | 1        | 2.44%   |
-| Sceptre Tech Sceptre F27 SPT0ABF 1920x1080 597x336mm 27.0-inch        | 1        | 2.44%   |
+| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                | 1        | 2.44%   |
 | Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1        | 2.44%   |
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1        | 2.44%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1        | 2.44%   |
 | Samsung Electronics LCD Monitor U28E590                               | 1        | 2.44%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch  | 1        | 2.44%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 580x320mm 26.1-inch  | 1        | 2.44%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 700x390mm 31.5-inch | 1        | 2.44%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch     | 1        | 2.44%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 2.44%   |
@@ -1635,7 +1635,7 @@ Monitor models
 | BenQ BL3200 BNQ8017 2560x1440 708x398mm 32.0-inch                     | 1        | 2.44%   |
 | AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                        | 1        | 2.44%   |
 | AOC LCD Monitor 1943W 1366x768                                        | 1        | 2.44%   |
-| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch      | 1        | 2.44%   |
+| Ancor Communications MX279 ACI27C3 1920x1080 600x340mm 27.2-inch      | 1        | 2.44%   |
 | Acer VG270U ACR06C9 2560x1440 597x336mm 27.0-inch                     | 1        | 2.44%   |
 | Acer V273HL ACR02D0 1920x1080 598x336mm 27.0-inch                     | 1        | 2.44%   |
 | Acer S242HL ACR0216 1920x1080 531x299mm 24.0-inch                     | 1        | 2.44%   |
@@ -2104,8 +2104,8 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.41%   |
 | Hewlett-Packard Speaker Bar                                                                     | 1        | 1.41%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.41%   |
+| C-Media Electronics TONOR TC30 Audio Device                                                     | 1        | 1.41%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.41%   |
-| C-Media Electronics Auna Mic CM900                                                              | 1        | 1.41%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.41%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.41%   |
 | AMD Starship/Matisse HD Audio Controller                                                        | 1        | 1.41%   |
@@ -2148,7 +2148,7 @@ Memory module models
 |----------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 4096MB DIMM DDR3 1400MT/s                   | 1        | 8.33%   |
 | SK hynix RAM HKNNNFBMAVAR-NEH 2GB Row Of Chips LPDDR4 3200MT/s | 1        | 8.33%   |
-| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s         | 1        | 8.33%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1        | 8.33%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2048MB DIMM DDR2 2048MT/s          | 1        | 8.33%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
@@ -2312,18 +2312,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Z-Star Integrated Camera               | 1        | 10%     |
-| Novatek DEMO1                          | 1        | 10%     |
-| Microsoft LifeCam VX-5000              | 1        | 10%     |
-| Microsoft LifeCam VX-500 [1357]        | 1        | 10%     |
-| Logitech Webcam C270                   | 1        | 10%     |
-| Logitech QuickCam Communicate MP/S5500 | 1        | 10%     |
-| Huawei HiCamera                        | 1        | 10%     |
-| Generalplus 808 Camera                 | 1        | 10%     |
-| Cubeternet GL-UPC822 UVC WebCam        | 1        | 10%     |
-| ARC International Camera               | 1        | 10%     |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Z-Star Integrated Camera                 | 1        | 10%     |
+| Novatek DEMO1                            | 1        | 10%     |
+| Microsoft LifeCam VX-5000                | 1        | 10%     |
+| Microsoft LifeCam VX-500 [1357]          | 1        | 10%     |
+| Logitech Webcam C270                     | 1        | 10%     |
+| Logitech QuickCam Communicate MP/S5500   | 1        | 10%     |
+| Huawei UVC Camera                        | 1        | 10%     |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 10%     |
+| Cubeternet GL-UPC822 UVC WebCam          | 1        | 10%     |
+| ARC International Camera                 | 1        | 10%     |
 
 Security
 --------
@@ -2353,7 +2353,7 @@ Chipcard module vendors
 | Vendor            | Desktops | Percent |
 |-------------------|----------|---------|
 | Mako Technologies | 1        | 50%     |
-| BIT4ID            | 1        | 50%     |
+| Bit4id            | 1        | 50%     |
 
 Chipcard Model
 --------------
@@ -2366,7 +2366,7 @@ Chipcard module models
 | Model                         | Desktops | Percent |
 |-------------------------------|----------|---------|
 | Mako Technologies SZZCS-ZCS80 | 1        | 50%     |
-| BIT4ID miniLector EVO         | 1        | 50%     |
+| Bit4id miniLector EVO         | 1        | 50%     |
 
 Unsupported
 -----------
@@ -2383,7 +2383,7 @@ Total unsupported devices on board
 |-------|----------|---------|
 | 0     | 32       | 82.05%  |
 | 1     | 6        | 15.38%  |
-| 2     | 1        | 2.56%   |
+| 3     | 1        | 2.56%   |
 
 Unsupported Device Types
 ------------------------

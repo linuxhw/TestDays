@@ -769,8 +769,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 26        | 50.98%  |
-| No        | 25        | 49.02%  |
+| No        | 26        | 50.98%  |
+| Yes       | 25        | 49.02%  |
 
 Has Ethernet
 ------------
@@ -959,7 +959,7 @@ Hard drive models
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.15%   |
 | WDC WD10SPZX-60Z10T0 1TB                     | 1         | 1.15%   |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.15%   |
-| Unknown SD/MMC/MS PRO 128GB                  | 1         | 1.15%   |
+| Unknown SD/MMC/MS PRO 16GB                   | 1         | 1.15%   |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.15%   |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.15%   |
 | Toshiba MQ01ABF050M 500GB                    | 1         | 1.15%   |
@@ -977,7 +977,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                     | 1         | 1.15%   |
 | Seagate ST250DM000-1BD141 250GB              | 1         | 1.15%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 1.15%   |
-| Seagate Expansion Desk 8TB                   | 1         | 1.15%   |
+| Seagate Expansion Desk 3TB                   | 1         | 1.15%   |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1         | 1.15%   |
 | SanDisk SSD U110 128GB                       | 1         | 1.15%   |
 | SanDisk SSD PLUS 480GB                       | 1         | 1.15%   |
@@ -1013,25 +1013,24 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SanDisk             | 6         | 6      | 17.65%  |
-| Samsung Electronics | 5         | 7      | 14.71%  |
-| Crucial             | 4         | 4      | 11.76%  |
-| Kingston            | 3         | 4      | 8.82%   |
-| Intenso             | 2         | 2      | 5.88%   |
-| WDC                 | 1         | 1      | 2.94%   |
-| Transcend           | 1         | 1      | 2.94%   |
-| Seagate             | 1         | 1      | 2.94%   |
-| Patriot             | 1         | 1      | 2.94%   |
-| Origin              | 1         | 1      | 2.94%   |
-| Micron Technology   | 1         | 1      | 2.94%   |
-| LITEONIT            | 1         | 1      | 2.94%   |
-| LITEON              | 1         | 2      | 2.94%   |
-| Leven               | 1         | 1      | 2.94%   |
-| JMicron Technology  | 1         | 1      | 2.94%   |
-| China               | 1         | 1      | 2.94%   |
-| ASMT                | 1         | 1      | 2.94%   |
-| Apple               | 1         | 1      | 2.94%   |
-| A-DATA Technology   | 1         | 1      | 2.94%   |
+| SanDisk             | 6         | 6      | 18.18%  |
+| Samsung Electronics | 5         | 7      | 15.15%  |
+| Crucial             | 4         | 4      | 12.12%  |
+| Kingston            | 3         | 4      | 9.09%   |
+| Intenso             | 2         | 2      | 6.06%   |
+| WDC                 | 1         | 1      | 3.03%   |
+| Transcend           | 1         | 1      | 3.03%   |
+| Seagate             | 1         | 1      | 3.03%   |
+| Patriot             | 1         | 1      | 3.03%   |
+| Origin              | 1         | 1      | 3.03%   |
+| Micron Technology   | 1         | 1      | 3.03%   |
+| LITEONIT            | 1         | 1      | 3.03%   |
+| LITEON              | 1         | 2      | 3.03%   |
+| Leven               | 1         | 1      | 3.03%   |
+| China               | 1         | 1      | 3.03%   |
+| ASMT                | 1         | 1      | 3.03%   |
+| Apple               | 1         | 1      | 3.03%   |
+| A-DATA Technology   | 1         | 1      | 3.03%   |
 
 Drive Kind
 ----------
@@ -1044,8 +1043,8 @@ HDD or SSD
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
 | HDD     | 28        | 38     | 40%     |
-| SSD     | 27        | 38     | 38.57%  |
-| NVMe    | 10        | 14     | 14.29%  |
+| SSD     | 26        | 37     | 37.14%  |
+| NVMe    | 11        | 15     | 15.71%  |
 | Unknown | 3         | 3      | 4.29%   |
 | MMC     | 2         | 2      | 2.86%   |
 
@@ -1074,12 +1073,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 34        | 51     | 59.65%  |
-| 0.51-1.0   | 18        | 20     | 31.58%  |
-| 1.01-2.0   | 2         | 2      | 3.51%   |
-| 3.01-4.0   | 1         | 1      | 1.75%   |
-| 2.01-3.0   | 1         | 1      | 1.75%   |
-| 4.01-10.0  | 1         | 1      | 1.75%   |
+| 0.01-0.5   | 32        | 48     | 57.14%  |
+| 0.51-1.0   | 18        | 21     | 32.14%  |
+| 1.01-2.0   | 3         | 3      | 5.36%   |
+| 2.01-3.0   | 2         | 2      | 3.57%   |
+| 3.01-4.0   | 1         | 1      | 1.79%   |
 
 Space Total
 -----------
@@ -1248,15 +1246,15 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                         | 2         | 2.7%    |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1         | 1.35%   |
 | SK hynix PC400 NVMe SSD                                                        | 1         | 1.35%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 1.35%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 1         | 1.35%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                          | 1         | 1.35%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1         | 1.35%   |
 | SanDisk PC SN735 NVMe SSD (DRAM-less)                                          | 1         | 1.35%   |
 | Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                             | 1         | 1.35%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 1.35%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1         | 1.35%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 1         | 1.35%   |
 | Marvell Group 88SE6111/6121 SATA II / PATA Controller                          | 1         | 1.35%   |
-| Lite-On Non-Volatile memory controller                                         | 1         | 1.35%   |
+| Lite-On CB1-SD256, CB1-SD512 NVMe SSD                                          | 1         | 1.35%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 1         | 1.35%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 1.35%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1         | 1.35%   |
@@ -1707,10 +1705,10 @@ Monitor models
 | Dell LCD Monitor E228WFP                                                 | 1         | 1.92%   |
 | Dell INSPIRON ONE DELB123 1920x1080 510x287mm 23.0-inch                  | 1         | 1.92%   |
 | Dell Inspiron 7790 DEL93FF 1920x1080 510x287mm 23.0-inch                 | 1         | 1.92%   |
-| Chimei Innolux P130ZDZ-EF1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 1.92%   |
+| Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 1.92%   |
 | Chimei Innolux LCD Monitor CMN1746 1600x900 382x214mm 17.2-inch          | 1         | 1.92%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 1.92%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 1.92%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 1.92%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 1.92%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 1.92%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 1.92%   |
@@ -1749,7 +1747,7 @@ Diagonal size in inches
 
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
-| 15      | 10        | 20.83%  |
+| 15      | 9         | 18.75%  |
 | 23      | 7         | 14.58%  |
 | Unknown | 6         | 12.5%   |
 | 13      | 4         | 8.33%   |
@@ -1765,6 +1763,7 @@ Diagonal size in inches
 | 24      | 1         | 2.08%   |
 | 20      | 1         | 2.08%   |
 | 19      | 1         | 2.08%   |
+| 16      | 1         | 2.08%   |
 | 11      | 1         | 2.08%   |
 
 Monitor Width
@@ -1813,15 +1812,15 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 101-110        | 10        | 20.83%  |
 | 201-250        | 9         | 18.75%  |
+| 101-110        | 9         | 18.75%  |
 | 81-90          | 6         | 12.5%   |
 | Unknown        | 6         | 12.5%   |
 | More than 1000 | 4         | 8.33%   |
 | 151-200        | 4         | 8.33%   |
+| 121-130        | 3         | 6.25%   |
 | 351-500        | 2         | 4.17%   |
 | 301-350        | 2         | 4.17%   |
-| 121-130        | 2         | 4.17%   |
 | 71-80          | 1         | 2.08%   |
 | 51-60          | 1         | 2.08%   |
 | 501-1000       | 1         | 2.08%   |
@@ -2005,8 +2004,8 @@ Wireless models
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]                 | 1         | 2.33%   |
 | D-Link DWA-140 RangeBooster N Adapter(rev.B3) [Ralink RT5372]                        | 1         | 2.33%   |
 | Broadcom Network controller                                                          | 1         | 2.33%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                           | 1         | 2.33%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                                   | 1         | 2.33%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter                 | 1         | 2.33%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter                         | 1         | 2.33%   |
 | Broadcom BCM43142 802.11b/g/n                                                        | 1         | 2.33%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                  | 1         | 2.33%   |
 | AVM FRITZ!WLAN AC 860                                                                | 1         | 2.33%   |

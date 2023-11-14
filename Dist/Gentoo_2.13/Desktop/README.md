@@ -1132,7 +1132,7 @@ Hard drive vendors
 | Samsung Electronics         | 48       | 102    | 17.98%  |
 | WDC                         | 38       | 78     | 14.23%  |
 | Seagate                     | 36       | 85     | 13.48%  |
-| SanDisk                     | 19       | 23     | 7.12%   |
+| Sandisk                     | 19       | 23     | 7.12%   |
 | Toshiba                     | 16       | 24     | 5.99%   |
 | Crucial                     | 16       | 34     | 5.99%   |
 | Kingston                    | 12       | 15     | 4.49%   |
@@ -1177,24 +1177,24 @@ Hard drive models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB   | 14       | 4.23%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB     | 14       | 4.23%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 14       | 4.23%   |
 | Seagate ST4000DM004-2CV104 4TB                        | 6        | 1.81%   |
 | Samsung SSD 980 1TB                                   | 5        | 1.51%   |
 | Crucial CT1000MX500SSD1 1TB                           | 5        | 1.51%   |
 | Seagate ST1000DM010-2EP102 1TB                        | 4        | 1.21%   |
 | Sandisk WD_BLACK SN770 1TB                            | 4        | 1.21%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 500GB   | 4        | 1.21%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 121GB   | 4        | 1.21%   |
 | WDC WD30EFRX-68EUZN0 3TB                              | 3        | 0.91%   |
 | Toshiba DT01ACA200 2TB                                | 3        | 0.91%   |
 | Toshiba DT01ACA100 1TB                                | 3        | 0.91%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 512GB | 3        | 0.91%   |
-| Sandisk WD Blue SN550 NVMe SSD 512GB                  | 3        | 0.91%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 3        | 0.91%   |
+| Sandisk WD Blue SN550 NVMe SSD 1TB                    | 3        | 0.91%   |
 | Samsung SSD 870 EVO 1TB                               | 3        | 0.91%   |
 | Samsung SSD 860 EVO 1TB                               | 3        | 0.91%   |
-| Phison E12 NVMe Controller 2TB                        | 3        | 0.91%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                   | 3        | 0.91%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 512GB    | 3        | 0.91%   |
+| Phison E12 NVMe Controller 1TB                        | 3        | 0.91%   |
+| Micron/Crucial P2 NVMe PCIe SSD 500GB                 | 3        | 0.91%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 250GB    | 3        | 0.91%   |
 | Kingston SA400S37480G 480GB SSD                       | 3        | 0.91%   |
 | Intel SSD 660P Series 1024GB                          | 3        | 0.91%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                      | 2        | 0.6%    |
@@ -1208,12 +1208,12 @@ Hard drive models
 | WDC WD120EFBX-68B0EN0 12TB                            | 2        | 0.6%    |
 | Seagate ST6000DM003-2CY186 6TB                        | 2        | 0.6%    |
 | Seagate ST2000DM001-1ER164 2TB                        | 2        | 0.6%    |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 512GB      | 2        | 0.6%    |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 1024GB     | 2        | 0.6%    |
 | Samsung SSD 870 QVO 2TB                               | 2        | 0.6%    |
 | Samsung SSD 860 EVO 500GB                             | 2        | 0.6%    |
 | Samsung SSD 860 EVO 4TB                               | 2        | 0.6%    |
 | Samsung SSD 850 EVO 250GB                             | 2        | 0.6%    |
-| Phison E7 NVMe Controller 240GB                       | 2        | 0.6%    |
+| Phison E7 NVMe Controller 120GB                       | 2        | 0.6%    |
 | Phison E16 PCIe4 NVMe Controller 500GB                | 2        | 0.6%    |
 | Phison Corsair MP600 PRO XT 2TB                       | 2        | 0.6%    |
 | Kingston Company SNV2S2000G 2TB                       | 2        | 0.6%    |
@@ -1228,15 +1228,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 36       | 83     | 35.64%  |
-| WDC                 | 34       | 72     | 33.66%  |
-| Toshiba             | 15       | 23     | 14.85%  |
-| Hitachi             | 8        | 29     | 7.92%   |
-| Samsung Electronics | 3        | 3      | 2.97%   |
-| HGST                | 2        | 2      | 1.98%   |
-| Unknown             | 1        | 1      | 0.99%   |
-| SABRENT             | 1        | 1      | 0.99%   |
-| Maxtor              | 1        | 1      | 0.99%   |
+| Seagate             | 36       | 83     | 36%     |
+| WDC                 | 34       | 72     | 34%     |
+| Toshiba             | 15       | 23     | 15%     |
+| Hitachi             | 8        | 29     | 8%      |
+| Samsung Electronics | 3        | 3      | 3%      |
+| HGST                | 2        | 2      | 2%      |
+| Unknown             | 1        | 1      | 1%      |
+| Maxtor              | 1        | 1      | 1%      |
 
 SSD Vendor
 ----------
@@ -1248,28 +1247,29 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 24       | 42     | 24.74%  |
-| Crucial             | 16       | 34     | 16.49%  |
-| Kingston            | 11       | 13     | 11.34%  |
-| SanDisk             | 8        | 10     | 8.25%   |
-| China               | 7        | 19     | 7.22%   |
-| WDC                 | 5        | 6      | 5.15%   |
-| OCZ                 | 3        | 3      | 3.09%   |
-| Intel               | 3        | 4      | 3.09%   |
-| GOODRAM             | 3        | 16     | 3.09%   |
-| PNY                 | 2        | 4      | 2.06%   |
-| Micron Technology   | 2        | 4      | 2.06%   |
-| ADROITLARK          | 2        | 3      | 2.06%   |
-| A-DATA Technology   | 2        | 2      | 2.06%   |
-| Verbatim            | 1        | 1      | 1.03%   |
-| V-GeN               | 1        | 1      | 1.03%   |
-| Transcend           | 1        | 1      | 1.03%   |
-| Toshiba             | 1        | 1      | 1.03%   |
-| T-FORCE             | 1        | 1      | 1.03%   |
-| Netac               | 1        | 1      | 1.03%   |
-| LITEONIT            | 1        | 2      | 1.03%   |
-| KingSpec            | 1        | 1      | 1.03%   |
-| Unknown             | 1        | 1      | 1.03%   |
+| Samsung Electronics | 24       | 42     | 24.49%  |
+| Crucial             | 16       | 34     | 16.33%  |
+| Kingston            | 11       | 13     | 11.22%  |
+| SanDisk             | 8        | 10     | 8.16%   |
+| China               | 7        | 19     | 7.14%   |
+| WDC                 | 5        | 6      | 5.1%    |
+| OCZ                 | 3        | 3      | 3.06%   |
+| Intel               | 3        | 4      | 3.06%   |
+| GOODRAM             | 3        | 16     | 3.06%   |
+| PNY                 | 2        | 4      | 2.04%   |
+| Micron Technology   | 2        | 4      | 2.04%   |
+| ADROITLARK          | 2        | 3      | 2.04%   |
+| A-DATA Technology   | 2        | 2      | 2.04%   |
+| Verbatim            | 1        | 1      | 1.02%   |
+| V-GeN               | 1        | 1      | 1.02%   |
+| Transcend           | 1        | 1      | 1.02%   |
+| Toshiba             | 1        | 1      | 1.02%   |
+| T-FORCE             | 1        | 1      | 1.02%   |
+| SABRENT             | 1        | 1      | 1.02%   |
+| Netac               | 1        | 1      | 1.02%   |
+| LITEONIT            | 1        | 2      | 1.02%   |
+| KingSpec            | 1        | 1      | 1.02%   |
+| Unknown             | 1        | 1      | 1.02%   |
 
 Drive Kind
 ----------
@@ -1281,10 +1281,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 72       | 215    | 34.95%  |
-| SSD     | 69       | 170    | 33.5%   |
-| NVMe    | 63       | 119    | 30.58%  |
-| Unknown | 2        | 3      | 0.97%   |
+| HDD     | 71       | 214    | 34.63%  |
+| SSD     | 69       | 171    | 33.66%  |
+| NVMe    | 63       | 119    | 30.73%  |
+| Unknown | 2        | 3      | 0.98%   |
 
 Drive Connector
 ---------------
@@ -1310,13 +1310,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 62       | 112    | 33.33%  |
-| 0.51-1.0   | 46       | 105    | 24.73%  |
-| 1.01-2.0   | 31       | 50     | 16.67%  |
-| 3.01-4.0   | 20       | 41     | 10.75%  |
-| 4.01-10.0  | 15       | 36     | 8.06%   |
-| 2.01-3.0   | 8        | 32     | 4.3%    |
-| 10.01-20.0 | 4        | 9      | 2.15%   |
+| 0.01-0.5   | 63       | 114    | 34.05%  |
+| 0.51-1.0   | 45       | 105    | 24.32%  |
+| 1.01-2.0   | 30       | 48     | 16.22%  |
+| 3.01-4.0   | 20       | 41     | 10.81%  |
+| 4.01-10.0  | 14       | 35     | 7.57%   |
+| 2.01-3.0   | 9        | 33     | 4.86%   |
+| 10.01-20.0 | 4        | 9      | 2.16%   |
 
 Space Total
 -----------
@@ -1367,36 +1367,36 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                                                     | Desktops | Drives | Percent |
-|-----------------------------------------------------------|----------|--------|---------|
-| Toshiba DT01ACA200 2TB                                    | 2        | 2      | 6.9%    |
-| WDC WD60PURZ-85ZUFY1 6TB                                  | 1        | 1      | 3.45%   |
-| WDC WD60EZRX-00MVLB1 6TB                                  | 1        | 1      | 3.45%   |
-| WDC WD60EFAX-68SHWN0 6TB                                  | 1        | 1      | 3.45%   |
-| WDC WD30EFRX-68EUZN0 3TB                                  | 1        | 2      | 3.45%   |
-| WDC WD30EFRX-68AX9N0 3TB                                  | 1        | 1      | 3.45%   |
-| Toshiba MK1633GSG 160GB                                   | 1        | 1      | 3.45%   |
-| Seagate ST750LM022 HN-M750MBB 752GB                       | 1        | 1      | 3.45%   |
-| Seagate ST500DM002-1BC142 500GB                           | 1        | 1      | 3.45%   |
-| Seagate ST4000VN008-2DR166 4TB                            | 1        | 2      | 3.45%   |
-| Seagate ST380011A 80GB                                    | 1        | 1      | 3.45%   |
-| Seagate ST3500630NS 500GB                                 | 1        | 2      | 3.45%   |
-| Seagate ST3000DM001-9YN166 3TB                            | 1        | 1      | 3.45%   |
-| Seagate ST2000DX002-2DV164 2TB                            | 1        | 1      | 3.45%   |
-| Seagate ST2000DM001-1CH164 2TB                            | 1        | 1      | 3.45%   |
-| Seagate ST1000DM010-2EP102 1TB                            | 1        | 1      | 3.45%   |
-| SanDisk SSD PLUS 480GB                                    | 1        | 1      | 3.45%   |
-| Samsung Electronics SSD 980 1TB                           | 1        | 1      | 3.45%   |
-| Samsung Electronics SSD 870 EVO 1TB                       | 1        | 8      | 3.45%   |
-| Samsung Electronics SP2504C 250GB                         | 1        | 1      | 3.45%   |
-| Realtek Semiconductor RTS5763DL NVMe SSD Controller 256GB | 1        | 2      | 3.45%   |
-| PNY SSD2SC120G1LC763C121S459P 120GB                       | 1        | 1      | 3.45%   |
-| Intel SSDSCKKF180G8L 180GB                                | 1        | 1      | 3.45%   |
-| Intel SSDSC2BB160G4T 160GB                                | 1        | 2      | 3.45%   |
-| Hitachi HTS721080G9SA00 80GB                              | 1        | 1      | 3.45%   |
-| Crucial M4-CT512M4SSD2 512GB                              | 1        | 1      | 3.45%   |
-| China SSD 240GB                                           | 1        | 1      | 3.45%   |
-| China SATA SSD 960GB                                      | 1        | 2      | 3.45%   |
+| Model                                                   | Desktops | Drives | Percent |
+|---------------------------------------------------------|----------|--------|---------|
+| Toshiba DT01ACA200 2TB                                  | 2        | 2      | 6.9%    |
+| WDC WD60PURZ-85ZUFY1 6TB                                | 1        | 1      | 3.45%   |
+| WDC WD60EZRX-00MVLB1 6TB                                | 1        | 1      | 3.45%   |
+| WDC WD60EFAX-68SHWN0 6TB                                | 1        | 1      | 3.45%   |
+| WDC WD30EFRX-68EUZN0 3TB                                | 1        | 2      | 3.45%   |
+| WDC WD30EFRX-68AX9N0 3TB                                | 1        | 1      | 3.45%   |
+| Toshiba MK1633GSG 160GB                                 | 1        | 1      | 3.45%   |
+| Seagate ST750LM022 HN-M750MBB 752GB                     | 1        | 1      | 3.45%   |
+| Seagate ST500DM002-1BC142 500GB                         | 1        | 1      | 3.45%   |
+| Seagate ST4000VN008-2DR166 4TB                          | 1        | 2      | 3.45%   |
+| Seagate ST380011A 80GB                                  | 1        | 1      | 3.45%   |
+| Seagate ST3500630NS 500GB                               | 1        | 2      | 3.45%   |
+| Seagate ST3000DM001-9YN166 3TB                          | 1        | 1      | 3.45%   |
+| Seagate ST2000DX002-2DV164 2TB                          | 1        | 1      | 3.45%   |
+| Seagate ST2000DM001-1CH164 2TB                          | 1        | 1      | 3.45%   |
+| Seagate ST1000DM010-2EP102 1TB                          | 1        | 1      | 3.45%   |
+| SanDisk SSD PLUS 480GB                                  | 1        | 1      | 3.45%   |
+| Samsung Electronics SSD 980 1TB                         | 1        | 1      | 3.45%   |
+| Samsung Electronics SSD 870 EVO 1TB                     | 1        | 8      | 3.45%   |
+| Samsung Electronics SP2504C 250GB                       | 1        | 1      | 3.45%   |
+| Realtek Semiconductor RTS5763DL NVMe SSD Controller 1TB | 1        | 2      | 3.45%   |
+| PNY SSD2SC120G1LC763C121S459P 120GB                     | 1        | 1      | 3.45%   |
+| Intel SSDSCKKF180G8L 180GB                              | 1        | 1      | 3.45%   |
+| Intel SSDSC2BB160G4T 160GB                              | 1        | 2      | 3.45%   |
+| Hitachi HTS721080G9SA00 80GB                            | 1        | 1      | 3.45%   |
+| Crucial M4-CT512M4SSD2 512GB                            | 1        | 1      | 3.45%   |
+| China SSD 240GB                                         | 1        | 1      | 3.45%   |
+| China SATA SSD 960GB                                    | 1        | 2      | 3.45%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1539,7 +1539,7 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                          | 12       | 4.67%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 7        | 2.72%   |
 | AMD 400 Series Chipset SATA Controller                                         | 7        | 2.72%   |
-| Samsung NVMe SSD Controller 980                                                | 6        | 2.33%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 6        | 2.33%   |
 | Intel 500 Series Chipset Family SATA AHCI Controller                           | 6        | 2.33%   |
 | AMD 500 Series Chipset SATA Controller                                         | 6        | 2.33%   |
 | Phison E18 PCIe4 NVMe Controller                                               | 5        | 1.95%   |
@@ -1551,24 +1551,24 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 4        | 1.56%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 4        | 1.56%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 3        | 1.17%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 3        | 1.17%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 3        | 1.17%   |
 | Phison E12 NVMe Controller                                                     | 3        | 1.17%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 3        | 1.17%   |
 | MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                   | 3        | 1.17%   |
-| Kingston Company Company Non-Volatile memory controller                        | 3        | 1.17%   |
 | Intel SSD 660P Series                                                          | 3        | 1.17%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                             | 3        | 1.17%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 3        | 1.17%   |
 | Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                             | 3        | 1.17%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                               | 3        | 1.17%   |
-| SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 2        | 0.78%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 2        | 0.78%   |
+| SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                          | 2        | 0.78%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 2        | 0.78%   |
 | Realtek RTS5765DL NVMe SSD Controller (DRAM-less)                              | 2        | 0.78%   |
 | Phison E7 NVMe Controller                                                      | 2        | 0.78%   |
 | Phison E16 PCIe4 NVMe Controller                                               | 2        | 0.78%   |
 | Nvidia MCP79 SATA Controller                                                   | 2        | 0.78%   |
-| Kingston Company KC3000/Renegade NVMe SSD                                      | 2        | 0.78%   |
-| Kingston Company A2000 NVMe SSD                                                | 2        | 0.78%   |
+| Kingston Company NV2 NVMe SSD SM2267XT                                         | 2        | 0.78%   |
+| Kingston Company KC3000/FURY Renegade NVMe SSD E18                             | 2        | 0.78%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                       | 2        | 0.78%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 2        | 0.78%   |
 | Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 2        | 0.78%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 2        | 0.78%   |
@@ -2026,20 +2026,20 @@ Monitor models
 | Samsung Electronics SyncMaster SAM059A 1920x1080 477x268mm 21.5-inch    | 2        | 1.46%   |
 | Samsung Electronics LCD Monitor SAM7004 3840x2160 1872x1053mm 84.6-inch | 2        | 1.46%   |
 | Samsung Electronics LCD Monitor SAM7003 3840x2160 1872x1053mm 84.6-inch | 2        | 1.46%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 2        | 1.46%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch             | 2        | 1.46%   |
 | Goldstar HDR 4K GSM7707 3840x2160 600x340mm 27.2-inch                   | 2        | 1.46%   |
 | Gigabyte Technology G27FC A GBT2715 1920x1080 598x336mm 27.0-inch       | 2        | 1.46%   |
 | Eizo CS2731 ENC3069 2560x1440 597x336mm 27.0-inch                       | 2        | 1.46%   |
 | BenQ PD3200U BNQ8025 3840x2160 708x399mm 32.0-inch                      | 2        | 1.46%   |
 | ASUSTek Computer VG27A AUS2722 2560x1440 597x336mm 27.0-inch            | 2        | 1.46%   |
 | AOC LCD Monitor U2879G6 3840x2160                                       | 2        | 1.46%   |
-| AOC 2460G4 AOC2460 1920x1080 531x299mm 24.0-inch                        | 2        | 1.46%   |
+| AOC G2460 AOC2460 1920x1080 531x299mm 24.0-inch                         | 2        | 1.46%   |
 | Acer ED320QR S ACR0805 1920x1080 609x348mm 27.6-inch                    | 2        | 1.46%   |
 | Vizio VX20L VIZ2000 1280x720 444x249mm 20.0-inch                        | 1        | 0.73%   |
 | Vizio D43n-E1 VIZ1009 1920x1080 953x543mm 43.2-inch                     | 1        | 0.73%   |
 | Unknown LCD Monitor RTK                                                 | 1        | 0.73%   |
 | Sceptre Tech C305W-2560UN SPT0C0D 2560x1080 690x291mm 29.5-inch         | 1        | 0.73%   |
-| Samsung Electronics U32R59x SAM0F96 3840x2160 697x392mm 31.5-inch       | 1        | 0.73%   |
+| Samsung Electronics U32R59x SAM0F96 3840x2160 700x390mm 31.5-inch       | 1        | 0.73%   |
 | Samsung Electronics SyncMaster SAM05E8 1920x1080                        | 1        | 0.73%   |
 | Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch    | 1        | 0.73%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 474x296mm 22.0-inch    | 1        | 0.73%   |
@@ -2053,9 +2053,9 @@ Monitor models
 | Samsung Electronics S22B300 SAM08C8 1920x1080 477x268mm 21.5-inch       | 1        | 0.73%   |
 | Samsung Electronics LCD Monitor SAM7002 3840x2160 1420x800mm 64.2-inch  | 1        | 0.73%   |
 | Samsung Electronics LCD Monitor SAM0A7C 1366x768 698x393mm 31.5-inch    | 1        | 0.73%   |
-| Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch    | 1        | 0.73%   |
+| Samsung Electronics LCD Monitor SAM07D0 1360x768 580x320mm 26.1-inch    | 1        | 0.73%   |
 | Samsung Electronics LCD Monitor C27FG7x 1920x1080                       | 1        | 0.73%   |
-| Samsung Electronics LC27G5xT SAM707A 2560x1440 597x336mm 27.0-inch      | 1        | 0.73%   |
+| Samsung Electronics LC27G5xT SAM707A 2560x1440 698x393mm 31.5-inch      | 1        | 0.73%   |
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch      | 1        | 0.73%   |
 | Samsung Electronics C49HG9x SAM0E5E 3840x1080 1196x336mm 48.9-inch      | 1        | 0.73%   |
 | Samsung Electronics C27HG7x SAM0E16 2560x1440 598x336mm 27.0-inch       | 1        | 0.73%   |
@@ -2103,7 +2103,7 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 27      | 32       | 25.2%   |
+| 27      | 31       | 24.41%  |
 | 24      | 15       | 11.81%  |
 | Unknown | 12       | 9.45%   |
 | 31      | 9        | 7.09%   |
@@ -2112,19 +2112,18 @@ Diagonal size in inches
 | 21      | 8        | 6.3%    |
 | 32      | 4        | 3.15%   |
 | 84      | 3        | 2.36%   |
+| 40      | 3        | 2.36%   |
 | 19      | 3        | 2.36%   |
 | 17      | 3        | 2.36%   |
 | 142     | 2        | 1.57%   |
-| 40      | 2        | 1.57%   |
+| 49      | 2        | 1.57%   |
 | 22      | 2        | 1.57%   |
 | 20      | 2        | 1.57%   |
 | 18      | 2        | 1.57%   |
-| 49      | 1        | 0.79%   |
 | 48      | 1        | 0.79%   |
 | 43      | 1        | 0.79%   |
 | 42      | 1        | 0.79%   |
 | 41      | 1        | 0.79%   |
-| 35      | 1        | 0.79%   |
 | 29      | 1        | 0.79%   |
 | 26      | 1        | 0.79%   |
 | 25      | 1        | 0.79%   |
@@ -2141,19 +2140,19 @@ Physical width
 
 | Width in mm    | Desktops | Percent |
 |----------------|----------|---------|
-| 501-600        | 48       | 40.68%  |
-| 401-500        | 15       | 12.71%  |
-| 601-700        | 13       | 11.02%  |
-| 701-800        | 12       | 10.17%  |
-| Unknown        | 12       | 10.17%  |
-| 801-900        | 3        | 2.54%   |
-| 301-350        | 3        | 2.54%   |
-| 1501-2000      | 3        | 2.54%   |
-| 901-1000       | 3        | 2.54%   |
-| More than 2000 | 2        | 1.69%   |
-| 1001-1500      | 2        | 1.69%   |
-| 351-400        | 1        | 0.85%   |
-| 201-300        | 1        | 0.85%   |
+| 501-600        | 48       | 40.34%  |
+| 401-500        | 15       | 12.61%  |
+| 601-700        | 13       | 10.92%  |
+| 701-800        | 12       | 10.08%  |
+| Unknown        | 12       | 10.08%  |
+| 801-900        | 3        | 2.52%   |
+| 301-350        | 3        | 2.52%   |
+| 1501-2000      | 3        | 2.52%   |
+| 1001-1500      | 3        | 2.52%   |
+| 901-1000       | 3        | 2.52%   |
+| More than 2000 | 2        | 1.68%   |
+| 351-400        | 1        | 0.84%   |
+| 201-300        | 1        | 0.84%   |
 
 Aspect Ratio
 ------------
@@ -2168,10 +2167,10 @@ Proportional relationship between the width and the height
 | 16/9    | 72       | 64.29%  |
 | 16/10   | 13       | 11.61%  |
 | Unknown | 10       | 8.93%   |
-| 21/9    | 9        | 8.04%   |
+| 21/9    | 8        | 7.14%   |
+| 32/9    | 3        | 2.68%   |
 | 5/4     | 2        | 1.79%   |
 | 4/3     | 2        | 1.79%   |
-| 32/9    | 2        | 1.79%   |
 | 1.00    | 2        | 1.79%   |
 
 Monitor Area
@@ -2184,18 +2183,18 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 301-350        | 33       | 27.27%  |
-| 201-250        | 23       | 19.01%  |
-| 351-500        | 22       | 18.18%  |
-| Unknown        | 12       | 9.92%   |
-| 151-200        | 7        | 5.79%   |
-| 501-1000       | 7        | 5.79%   |
-| 251-300        | 6        | 4.96%   |
-| More than 1000 | 5        | 4.13%   |
-| 141-150        | 3        | 2.48%   |
-| 41-50          | 1        | 0.83%   |
-| 121-130        | 1        | 0.83%   |
-| 101-110        | 1        | 0.83%   |
+| 301-350        | 33       | 27.05%  |
+| 201-250        | 23       | 18.85%  |
+| 351-500        | 21       | 17.21%  |
+| Unknown        | 12       | 9.84%   |
+| 501-1000       | 9        | 7.38%   |
+| 151-200        | 7        | 5.74%   |
+| 251-300        | 6        | 4.92%   |
+| More than 1000 | 5        | 4.1%    |
+| 141-150        | 3        | 2.46%   |
+| 41-50          | 1        | 0.82%   |
+| 121-130        | 1        | 0.82%   |
+| 101-110        | 1        | 0.82%   |
 
 Pixel Density
 -------------
@@ -2207,12 +2206,12 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 54       | 46.55%  |
-| 101-120 | 27       | 23.28%  |
-| Unknown | 12       | 10.34%  |
-| 121-160 | 10       | 8.62%   |
-| 161-240 | 8        | 6.9%    |
-| 1-50    | 5        | 4.31%   |
+| 51-100  | 54       | 47.37%  |
+| 101-120 | 25       | 21.93%  |
+| Unknown | 12       | 10.53%  |
+| 121-160 | 10       | 8.77%   |
+| 161-240 | 8        | 7.02%   |
+| 1-50    | 5        | 4.39%   |
 
 Multiple Monitors
 -----------------
@@ -2373,7 +2372,7 @@ Wireless models
 | Intel Wireless 8260                                                            | 1        | 1.49%   |
 | Intel Comet Lake PCH CNVi WiFi                                                 | 1        | 1.49%   |
 | Broadcom Network controller                                                    | 1        | 1.49%   |
-| Broadcom Limited BCM4352 802.11ac Wireless Network Adapter                     | 1        | 1.49%   |
+| Broadcom Limited BCM4352 802.11ac Dual Band Wireless Network Adapter           | 1        | 1.49%   |
 
 Ethernet Vendor
 ---------------
@@ -2698,48 +2697,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                      | Desktops | Percent |
-|------------------------------------------------------------|----------|---------|
-| G.Skill RAM F5-6000J3636F16G 16GB DIMM DDR5 6400MT/s       | 5        | 3.82%   |
-| G.Skill RAM F5-6000J3040G32G 32GB DIMM DDR5 6000MT/s       | 4        | 3.05%   |
-| Crucial RAM BL16G32C16U4B.M16FE1 16GB DIMM DDR4 3400MT/s   | 3        | 2.29%   |
-| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                  | 2        | 1.53%   |
-| Unknown RAM Module 2GB DIMM DDR2 667MT/s                   | 2        | 1.53%   |
-| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s     | 2        | 1.53%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s        | 2        | 1.53%   |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s       | 2        | 1.53%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s      | 2        | 1.53%   |
-| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s     | 2        | 1.53%   |
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s     | 2        | 1.53%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s      | 2        | 1.53%   |
-| Unknown RAM Module 512MB DIMM                              | 1        | 0.76%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                       | 1        | 0.76%   |
-| Unknown RAM Module 2GB SODIMM DDR2 800MT/s                 | 1        | 0.76%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                 | 1        | 0.76%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                   | 1        | 0.76%   |
-| Unknown RAM Module 2GB DIMM 1066MT/s                       | 1        | 0.76%   |
-| Unknown RAM Module 2GB DIMM                                | 1        | 0.76%   |
-| Unknown RAM Module 1GB DIMM DDR 333MT/s                    | 1        | 0.76%   |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s         | 1        | 0.76%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s         | 1        | 0.76%   |
-| Team RAM Elite-800 2GB DIMM SDRAM 2048MT/s                 | 1        | 0.76%   |
-| SK hynix RAM Module 16GB DIMM DDR4 2133MT/s                | 1        | 0.76%   |
-| SK hynix RAM HMA851U6JJR6N-VK 4GB DIMM DDR4 2667MT/s       | 1        | 0.76%   |
-| SGS/Thomson RAM Module 1GB DIMM SDRAM 2048MT/s             | 1        | 0.76%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 0.76%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s     | 1        | 0.76%   |
-| Samsung RAM M393A2G40EB1-CPB 16GB DIMM DDR4 2133MT/s       | 1        | 0.76%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s        | 1        | 0.76%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s        | 1        | 0.76%   |
-| Samsung RAM M378A5244CB0-CRC 4GB DIMM DDR4 3066MT/s        | 1        | 0.76%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s        | 1        | 0.76%   |
-| Patriot RAM Module 8GB DIMM DDR4 2666MT/s                  | 1        | 0.76%   |
-| Patriot Memory RAM 3200 C16 Series 16GB DIMM DDR4 3200MT/s | 1        | 0.76%   |
-| Nanya RAM M2F4G64CB88B7N-DI 4GB DIMM DDR3 1600MT/s         | 1        | 0.76%   |
-| Micron RAM Module 8GB SODIMM DDR4 3200MT/s                 | 1        | 0.76%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s        | 1        | 0.76%   |
-| Micron RAM 36JSF2G72PZ-1G9N1 16GB DIMM DDR3 1866MT/s       | 1        | 0.76%   |
-| Micron RAM 36JSF2G72PZ-1G9E1 16GB DIMM DDR3 1866MT/s       | 1        | 0.76%   |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| G.Skill RAM F5-6000J3636F16G 16GB DIMM DDR5 6400MT/s      | 5        | 3.82%   |
+| G.Skill RAM F5-6000J3040G32G 32GB DIMM DDR5 6000MT/s      | 4        | 3.05%   |
+| Crucial RAM BL16G32C16U4B.M16FE1 16GB DIMM DDR4 3400MT/s  | 3        | 2.29%   |
+| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                 | 2        | 1.53%   |
+| Unknown RAM Module 2GB DIMM DDR2 667MT/s                  | 2        | 1.53%   |
+| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3800MT/s    | 2        | 1.53%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s       | 2        | 1.53%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s      | 2        | 1.53%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 2        | 1.53%   |
+| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s    | 2        | 1.53%   |
+| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s    | 2        | 1.53%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s     | 2        | 1.53%   |
+| Unknown RAM Module 512MB DIMM                             | 1        | 0.76%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                      | 1        | 0.76%   |
+| Unknown RAM Module 2GB SODIMM DDR2 800MT/s                | 1        | 0.76%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                | 1        | 0.76%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                  | 1        | 0.76%   |
+| Unknown RAM Module 2GB DIMM 1066MT/s                      | 1        | 0.76%   |
+| Unknown RAM Module 2GB DIMM                               | 1        | 0.76%   |
+| Unknown RAM Module 1GB DIMM DDR 333MT/s                   | 1        | 0.76%   |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s        | 1        | 0.76%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s       | 1        | 0.76%   |
+| Team RAM Elite-800 2GB DIMM SDRAM 2048MT/s                | 1        | 0.76%   |
+| SK hynix RAM Module 16GB DIMM DDR4 2133MT/s               | 1        | 0.76%   |
+| SK hynix RAM HMA851U6JJR6N-VK 4GB DIMM DDR4 2667MT/s      | 1        | 0.76%   |
+| SGS/Thomson RAM Module 1GB DIMM SDRAM 2048MT/s            | 1        | 0.76%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1        | 0.76%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s    | 1        | 0.76%   |
+| Samsung RAM M393A2G40EB1-CPB 16GB DIMM DDR4 2133MT/s      | 1        | 0.76%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 0.76%   |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s       | 1        | 0.76%   |
+| Samsung RAM M378A5244CB0-CRC 4GB DIMM DDR4 3066MT/s       | 1        | 0.76%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s       | 1        | 0.76%   |
+| Patriot RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 0.76%   |
+| Patriot Memory RAM 3200 C16 Series 8GB DIMM DDR4 3200MT/s | 1        | 0.76%   |
+| Nanya RAM M2F4G64CB88B7N-DI 4GB DIMM DDR3 1600MT/s        | 1        | 0.76%   |
+| Micron RAM Module 8GB SODIMM DDR4 3200MT/s                | 1        | 0.76%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s       | 1        | 0.76%   |
+| Micron RAM 36JSF2G72PZ-1G9N1 16GB DIMM DDR3               | 1        | 0.76%   |
+| Micron RAM 36JSF2G72PZ-1G9E1 16GB DIMM DDR3 1866MT/s      | 1        | 0.76%   |
 
 Memory Kind
 -----------
@@ -2800,7 +2799,7 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 3600    | 15       | 12.2%   |
+| 3600    | 14       | 11.38%  |
 | 1600    | 12       | 9.76%   |
 | 3200    | 9        | 7.32%   |
 | 6400    | 7        | 5.69%   |
@@ -2819,6 +2818,7 @@ Memory module speed
 | 2666    | 3        | 2.44%   |
 | 2400    | 3        | 2.44%   |
 | 5200    | 2        | 1.63%   |
+| 3733    | 2        | 1.63%   |
 | 3534    | 2        | 1.63%   |
 | 3466    | 2        | 1.63%   |
 | 2048    | 2        | 1.63%   |
@@ -2827,7 +2827,6 @@ Memory module speed
 | 5808    | 1        | 0.81%   |
 | 5600    | 1        | 0.81%   |
 | 3933    | 1        | 0.81%   |
-| 3733    | 1        | 0.81%   |
 | 3533    | 1        | 0.81%   |
 | 3500    | 1        | 0.81%   |
 | 3100    | 1        | 0.81%   |
@@ -2938,10 +2937,10 @@ Camera device models
 | Logitech C922 Pro Stream Webcam         | 4        | 13.33%  |
 | Samsung Galaxy series, misc. (MTP mode) | 2        | 6.67%   |
 | Microdia USB 2.0 Camera                 | 2        | 6.67%   |
-| MacroSilicon USB3. 0 capture            | 2        | 6.67%   |
+| MacroSilicon USB Video                  | 2        | 6.67%   |
 | Trust QHD Webcam                        | 1        | 3.33%   |
-| Sunplus video capture device            | 1        | 3.33%   |
-| Sunplus NexiGo N930AF FHD Webcam        | 1        | 3.33%   |
+| Sunplus Full HD webcam                  | 1        | 3.33%   |
+| Sunplus FHD Capture                     | 1        | 3.33%   |
 | Quanta RGB-IR Camera                    | 1        | 3.33%   |
 | Microsoft MicrosoftÂ LifeCam Studio    | 1        | 3.33%   |
 | Microsoft LifeCam Cinema                | 1        | 3.33%   |
@@ -2952,8 +2951,8 @@ Camera device models
 | Logitech HD Webcam C910                 | 1        | 3.33%   |
 | Logitech HD Webcam C525                 | 1        | 3.33%   |
 | Logitech HD Pro Webcam C920             | 1        | 3.33%   |
+| Logitech BRIO Ultra HD Webcam           | 1        | 3.33%   |
 | Logitech BRIO 4K Stream Edition         | 1        | 3.33%   |
-| Logitech BRIO                           | 1        | 3.33%   |
 | GEMBIRD USB2.0 PC CAMERA                | 1        | 3.33%   |
 | Elgato Systems Elgato Facecam           | 1        | 3.33%   |
 | Creative Live! Cam Chat HD [VF0700]     | 1        | 3.33%   |

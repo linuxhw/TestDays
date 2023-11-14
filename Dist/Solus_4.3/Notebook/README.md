@@ -805,48 +805,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                            | Notebooks | Percent |
-|--------------------------------------------------|-----------|---------|
-| SK hynix NVMe SSD Drive 128GB                    | 2         | 4.65%   |
-| SanDisk NVMe SSD Drive 256GB                     | 2         | 4.65%   |
-| WDC WD3200BEVT-75ZCT2 320GB                      | 1         | 2.33%   |
-| WDC WD2500BEVT-22ZCT0 250GB                      | 1         | 2.33%   |
-| WDC WD10SPZX-24Z10T0 1TB                         | 1         | 2.33%   |
-| WDC WD10SPZX-24Z10 1TB                           | 1         | 2.33%   |
-| WDC WD10JPCX-24UE4T0 1TB                         | 1         | 2.33%   |
-| Unknown USB DISK 3.2 250GB                       | 1         | 2.33%   |
-| Unknown MMC Card  64GB                           | 1         | 2.33%   |
-| Unknown MMC Card  128GB                          | 1         | 2.33%   |
-| Toshiba MQ01ABF050 500GB                         | 1         | 2.33%   |
-| Toshiba KXG60ZNV512G NVMe 512GB                  | 1         | 2.33%   |
-| SK hynix SC311 SATA 256GB SSD                    | 1         | 2.33%   |
-| SK hynix NVMe SSD Drive 500GB                    | 1         | 2.33%   |
-| SK hynix NVMe SSD Drive 256GB                    | 1         | 2.33%   |
-| Silicon Motion NVMe SSD Drive 512GB              | 1         | 2.33%   |
-| Seagate ST9320325AS 320GB                        | 1         | 2.33%   |
-| Seagate ST1000LM049-2GH172 1TB                   | 1         | 2.33%   |
-| Seagate ST1000LM035-1RK172 1TB                   | 1         | 2.33%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 512GB | 1         | 2.33%   |
-| SanDisk SDSSDH32000G 2TB                         | 1         | 2.33%   |
-| Sandisk PC SN520 NVMe SSD 512GB                  | 1         | 2.33%   |
-| SanDisk NVMe SSD Drive 1TB                       | 1         | 2.33%   |
-| SanDisk Extreme Pro 1TB                          | 1         | 2.33%   |
-| SanDisk DF4032  32GB                             | 1         | 2.33%   |
-| Samsung SSD 850 EVO 250GB                        | 1         | 2.33%   |
-| Samsung NVMe SSD Drive 512GB                     | 1         | 2.33%   |
-| Samsung NVMe SSD Drive 2TB                       | 1         | 2.33%   |
-| Samsung MZVL22T0HBLB-00BL7 2TB                   | 1         | 2.33%   |
-| Samsung MZALQ512HBLU-00BL2 512GB                 | 1         | 2.33%   |
-| SABRENT Disk 752GB                               | 1         | 2.33%   |
-| PNY CS900 240GB SSD                              | 1         | 2.33%   |
-| Phison NVMe SSD Drive 512GB                      | 1         | 2.33%   |
-| KIOXIA KXG60ZNV512G NVMe 512GB                   | 1         | 2.33%   |
-| Kingston SA400S37240G 240GB SSD                  | 1         | 2.33%   |
-| Kingston OM8PCP3512F-AI1 512GB                   | 1         | 2.33%   |
-| Intel SSDPEKKW512G7 512GB                        | 1         | 2.33%   |
-| Intel NVMe SSD Drive 512GB                       | 1         | 2.33%   |
-| Intel NVMe SSD Drive 256GB                       | 1         | 2.33%   |
-| Advantech SQF-S25M8-128G-AAG 128GB SSD           | 1         | 2.33%   |
+| Model                                             | Notebooks | Percent |
+|---------------------------------------------------|-----------|---------|
+| SK hynix NVMe SSD Drive 128GB                     | 2         | 4.65%   |
+| SanDisk NVMe SSD Drive 256GB                      | 2         | 4.65%   |
+| WDC WD3200BEVT-75ZCT2 320GB                       | 1         | 2.33%   |
+| WDC WD2500BEVT-22ZCT0 250GB                       | 1         | 2.33%   |
+| WDC WD10SPZX-24Z10T0 1TB                          | 1         | 2.33%   |
+| WDC WD10SPZX-24Z10 1TB                            | 1         | 2.33%   |
+| WDC WD10JPCX-24UE4T0 1TB                          | 1         | 2.33%   |
+| Unknown USB DISK 3.2 1TB                          | 1         | 2.33%   |
+| Unknown MMC Card  64GB                            | 1         | 2.33%   |
+| Unknown MMC Card  128GB                           | 1         | 2.33%   |
+| Toshiba MQ01ABF050 500GB                          | 1         | 2.33%   |
+| Toshiba KXG60ZNV512G NVMe 512GB                   | 1         | 2.33%   |
+| SK hynix SC311 SATA 256GB SSD                     | 1         | 2.33%   |
+| SK hynix NVMe SSD Drive 500GB                     | 1         | 2.33%   |
+| SK hynix NVMe SSD Drive 256GB                     | 1         | 2.33%   |
+| Silicon Motion NVMe SSD Drive 512GB               | 1         | 2.33%   |
+| Seagate ST9320325AS 320GB                         | 1         | 2.33%   |
+| Seagate ST1000LM049-2GH172 1TB                    | 1         | 2.33%   |
+| Seagate ST1000LM035-1RK172 1TB                    | 1         | 2.33%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 1024GB | 1         | 2.33%   |
+| SanDisk SDSSDH32000G 2TB                          | 1         | 2.33%   |
+| Sandisk PC SN520 NVMe SSD 256GB                   | 1         | 2.33%   |
+| SanDisk NVMe SSD Drive 1TB                        | 1         | 2.33%   |
+| SanDisk Extreme Pro 1TB                           | 1         | 2.33%   |
+| SanDisk DF4032  32GB                              | 1         | 2.33%   |
+| Samsung SSD 850 EVO 250GB                         | 1         | 2.33%   |
+| Samsung NVMe SSD Drive 512GB                      | 1         | 2.33%   |
+| Samsung NVMe SSD Drive 2TB                        | 1         | 2.33%   |
+| Samsung MZVL22T0HBLB-00BL7 2TB                    | 1         | 2.33%   |
+| Samsung MZALQ512HBLU-00BL2 512GB                  | 1         | 2.33%   |
+| SABRENT Disk 240GB SSD                            | 1         | 2.33%   |
+| PNY CS900 240GB SSD                               | 1         | 2.33%   |
+| Phison NVMe SSD Drive 512GB                       | 1         | 2.33%   |
+| KIOXIA KXG60ZNV512G NVMe 512GB                    | 1         | 2.33%   |
+| Kingston SA400S37240G 240GB SSD                   | 1         | 2.33%   |
+| Kingston OM8PCP3512F-AI1 512GB                    | 1         | 2.33%   |
+| Intel SSDPEKKW512G7 512GB                         | 1         | 2.33%   |
+| Intel NVMe SSD Drive 512GB                        | 1         | 2.33%   |
+| Intel NVMe SSD Drive 256GB                        | 1         | 2.33%   |
+| Advantech SQF-S25M8-128G-AAG 128GB SSD            | 1         | 2.33%   |
 
 HDD Vendor
 ----------
@@ -858,10 +858,9 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| WDC     | 5         | 5      | 50%     |
-| Seagate | 3         | 4      | 30%     |
-| Toshiba | 1         | 1      | 10%     |
-| SABRENT | 1         | 1      | 10%     |
+| WDC     | 5         | 5      | 55.56%  |
+| Seagate | 3         | 4      | 33.33%  |
+| Toshiba | 1         | 1      | 11.11%  |
 
 SSD Vendor
 ----------
@@ -873,12 +872,13 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SK hynix            | 1         | 1      | 16.67%  |
-| SanDisk             | 1         | 1      | 16.67%  |
-| Samsung Electronics | 1         | 1      | 16.67%  |
-| PNY                 | 1         | 1      | 16.67%  |
-| Kingston            | 1         | 1      | 16.67%  |
-| Advantech           | 1         | 1      | 16.67%  |
+| SK hynix            | 1         | 1      | 14.29%  |
+| SanDisk             | 1         | 1      | 14.29%  |
+| Samsung Electronics | 1         | 1      | 14.29%  |
+| SABRENT             | 1         | 1      | 14.29%  |
+| PNY                 | 1         | 1      | 14.29%  |
+| Kingston            | 1         | 1      | 14.29%  |
+| Advantech           | 1         | 1      | 14.29%  |
 
 Drive Kind
 ----------
@@ -890,11 +890,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 19        | 25     | 48.72%  |
-| HDD     | 10        | 11     | 25.64%  |
-| SSD     | 6         | 6      | 15.38%  |
-| MMC     | 3         | 3      | 7.69%   |
-| Unknown | 1         | 1      | 2.56%   |
+| NVMe    | 19        | 25     | 50%     |
+| HDD     | 9         | 10     | 23.68%  |
+| SSD     | 6         | 7      | 15.79%  |
+| MMC     | 3         | 3      | 7.89%   |
+| Unknown | 1         | 1      | 2.63%   |
 
 Drive Connector
 ---------------
@@ -921,9 +921,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 10     | 56.25%  |
-| 0.51-1.0   | 6         | 6      | 37.5%   |
-| 1.01-2.0   | 1         | 1      | 6.25%   |
+| 0.01-0.5   | 9         | 11     | 60%     |
+| 0.51-1.0   | 5         | 5      | 33.33%  |
+| 1.01-2.0   | 1         | 1      | 6.67%   |
 
 Space Total
 -----------
@@ -1082,15 +1082,15 @@ Storage controller models
 | SK hynix PC300 NVMe Solid State Drive 256GB                                   | 1         | 2.22%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                          | 1         | 2.22%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 1         | 2.22%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                | 1         | 2.22%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1         | 2.22%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 1         | 2.22%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1         | 2.22%   |
-| SanDisk PC SN520 NVMe SSD                                                     | 1         | 2.22%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                         | 1         | 2.22%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                     | 1         | 2.22%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                         | 1         | 2.22%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD          | 1         | 2.22%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                   | 1         | 2.22%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 1         | 2.22%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 1         | 2.22%   |
-| Samsung NVMe SSD Controller 980                                               | 1         | 2.22%   |
-| Phison PS5013 E13 NVMe Controller                                             | 1         | 2.22%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                   | 1         | 2.22%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                           | 1         | 2.22%   |
 | Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                 | 1         | 2.22%   |
 | Intel Tiger Lake-LP SATA Controller                                           | 1         | 2.22%   |
 | Intel SSD 660P Series                                                         | 1         | 2.22%   |
@@ -1366,7 +1366,7 @@ Graphics card models
 | AMD Wrestler [Radeon HD 6310]                                                            | 1         | 2.5%    |
 | AMD Sun LE [Radeon HD 8550M / R5 M230]                                                   | 1         | 2.5%    |
 | AMD Seymour [Radeon HD 6400M/7400M Series]                                               | 1         | 2.5%    |
-| AMD Renoir                                                                               | 1         | 2.5%    |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 1         | 2.5%    |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 1         | 2.5%    |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 1         | 2.5%    |
 
@@ -1456,7 +1456,7 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch                | 1         | 2.44%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.44%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 2.44%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.44%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.44%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch        | 1         | 2.44%   |
@@ -1663,7 +1663,7 @@ Controller models
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 2         | 3.51%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 3.51%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 1.75%   |
-| T & A Mobile Phones Alcatel 3X                                    | 1         | 1.75%   |
+| T & A Mobile Phones TCL 20E                                       | 1         | 1.75%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 1.75%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.75%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.75%   |
@@ -1774,7 +1774,7 @@ Ethernet models
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 2         | 8.7%    |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 8.7%    |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 4.35%   |
-| T & A Mobile Phones Alcatel 3X                                    | 1         | 4.35%   |
+| T & A Mobile Phones TCL 20E                                       | 1         | 4.35%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 4.35%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 4.35%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 4.35%   |
@@ -1978,7 +1978,7 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 1GB SODIMM DDR                                | 1         | 4.55%   |
-| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s            | 1         | 4.55%   |
+| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s             | 1         | 4.55%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 4.55%   |
 | SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 4.55%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 4.55%   |
@@ -1987,12 +1987,12 @@ Memory module models
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 4.55%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 1         | 4.55%   |
 | Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 4.55%   |
-| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 4.55%   |
+| Samsung RAM M471A2G44AM0-CWE 16384MB SODIMM DDR4 3200MT/s        | 1         | 4.55%   |
 | Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 4.55%   |
 | Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 4.55%   |
 | Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s           | 1         | 4.55%   |
 | Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2 667MT/s            | 1         | 4.55%   |
-| Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 4.55%   |
+| Micron RAM 8ATF1G64HZ-2G3H1 8192MB SODIMM DDR4 2400MT/s          | 1         | 4.55%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 1         | 4.55%   |
 | G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s           | 1         | 4.55%   |
 | Crucial RAM CT8G4SFS824A.M8FJ 8GB SODIMM DDR4 2400MT/s           | 1         | 4.55%   |
@@ -2124,7 +2124,7 @@ Camera device vendors
 | Microsoft                              | 1         | 3.33%   |
 | Logitech                               | 1         | 3.33%   |
 | Importek                               | 1         | 3.33%   |
-| Acer                                   | 1         | 3.33%   |
+| Bison Electronics                      | 1         | 3.33%   |
 
 Camera Model
 ------------
@@ -2160,7 +2160,7 @@ Camera device models
 | Chicony EasyCamera                                              | 1         | 3.33%   |
 | Cheng Uei Precision Industry (Foxlink) Webcam                   | 1         | 3.33%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 3.33%   |
-| Acer Lenovo EasyCamera                                          | 1         | 3.33%   |
+| Bison Lenovo EasyCamera                                         | 1         | 3.33%   |
 
 Security
 --------
@@ -2239,8 +2239,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 20        | 60.61%  |
-| 1     | 7         | 21.21%  |
-| 2     | 6         | 18.18%  |
+| 2     | 7         | 21.21%  |
+| 1     | 6         | 18.18%  |
 
 Unsupported Device Types
 ------------------------
@@ -2252,11 +2252,11 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 6         | 28.57%  |
-| Chipcard              | 5         | 23.81%  |
-| Net/wireless          | 4         | 19.05%  |
-| Multimedia controller | 3         | 14.29%  |
-| Unassigned class      | 1         | 4.76%   |
-| Storage               | 1         | 4.76%   |
-| Graphics card         | 1         | 4.76%   |
+| Fingerprint reader    | 6         | 27.27%  |
+| Chipcard              | 5         | 22.73%  |
+| Net/wireless          | 4         | 18.18%  |
+| Multimedia controller | 3         | 13.64%  |
+| Graphics card         | 2         | 9.09%   |
+| Unassigned class      | 1         | 4.55%   |
+| Storage               | 1         | 4.55%   |
 

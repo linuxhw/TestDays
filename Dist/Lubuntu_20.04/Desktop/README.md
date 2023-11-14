@@ -779,8 +779,8 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2012 | 14       | 9.03%   |
-| 2011 | 14       | 9.03%   |
+| 2011 | 15       | 9.68%   |
+| 2012 | 13       | 8.39%   |
 | 2009 | 13       | 8.39%   |
 | 2014 | 12       | 7.74%   |
 | 2013 | 12       | 7.74%   |
@@ -1118,7 +1118,7 @@ Hard drive models
 | WDC WD7500BPVX-55JC3T3 752GB        | 2        | 0.74%   |
 | WDC WD40EFRX-68N32N0 4TB            | 2        | 0.74%   |
 | WDC WD2500AAKX-07U6AA1 250GB        | 2        | 0.74%   |
-| WDC WD2500AAJS-75M0A0 250GB         | 2        | 0.74%   |
+| WDC WD2500AAJS-75M0A0 249GB         | 2        | 0.74%   |
 | WDC WD10EZEX-00WN4A0 1TB            | 2        | 0.74%   |
 | WDC WD10EACS-00D6B0 1TB             | 2        | 0.74%   |
 | Unknown M52516  16GB                | 2        | 0.74%   |
@@ -1181,33 +1181,32 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 11       | 17     | 14.47%  |
-| WDC                 | 9        | 11     | 11.84%  |
-| Kingston            | 9        | 9      | 11.84%  |
-| Crucial             | 8        | 21     | 10.53%  |
-| SanDisk             | 5        | 5      | 6.58%   |
-| China               | 4        | 4      | 5.26%   |
-| Team                | 3        | 3      | 3.95%   |
-| Corsair             | 3        | 3      | 3.95%   |
-| A-DATA Technology   | 3        | 4      | 3.95%   |
-| Toshiba             | 2        | 2      | 2.63%   |
-| PNY                 | 2        | 2      | 2.63%   |
-| Intenso             | 2        | 2      | 2.63%   |
-| Transcend           | 1        | 1      | 1.32%   |
-| TO Exter            | 1        | 1      | 1.32%   |
-| PNY USB             | 1        | 1      | 1.32%   |
-| Patriot             | 1        | 1      | 1.32%   |
-| ORTIAL              | 1        | 1      | 1.32%   |
-| OCZ                 | 1        | 1      | 1.32%   |
-| Maxtor              | 1        | 1      | 1.32%   |
-| Londisk             | 1        | 1      | 1.32%   |
-| Lexar               | 1        | 1      | 1.32%   |
-| Leven               | 1        | 2      | 1.32%   |
-| LDLC                | 1        | 1      | 1.32%   |
-| JMicron Technology  | 1        | 1      | 1.32%   |
-| Intel               | 1        | 1      | 1.32%   |
-| Hewlett-Packard     | 1        | 6      | 1.32%   |
-| GOODRAM             | 1        | 1      | 1.32%   |
+| Samsung Electronics | 11       | 17     | 14.67%  |
+| WDC                 | 9        | 11     | 12%     |
+| Kingston            | 9        | 9      | 12%     |
+| Crucial             | 8        | 21     | 10.67%  |
+| SanDisk             | 5        | 5      | 6.67%   |
+| China               | 4        | 4      | 5.33%   |
+| Team                | 3        | 3      | 4%      |
+| Corsair             | 3        | 3      | 4%      |
+| A-DATA Technology   | 3        | 4      | 4%      |
+| Toshiba             | 2        | 2      | 2.67%   |
+| PNY                 | 2        | 2      | 2.67%   |
+| Intenso             | 2        | 2      | 2.67%   |
+| Transcend           | 1        | 1      | 1.33%   |
+| TO Exter            | 1        | 1      | 1.33%   |
+| PNY USB             | 1        | 1      | 1.33%   |
+| Patriot             | 1        | 1      | 1.33%   |
+| ORTIAL              | 1        | 1      | 1.33%   |
+| OCZ                 | 1        | 1      | 1.33%   |
+| Maxtor              | 1        | 1      | 1.33%   |
+| Londisk             | 1        | 1      | 1.33%   |
+| Lexar               | 1        | 1      | 1.33%   |
+| Leven               | 1        | 2      | 1.33%   |
+| LDLC                | 1        | 1      | 1.33%   |
+| Intel               | 1        | 1      | 1.33%   |
+| Hewlett-Packard     | 1        | 6      | 1.33%   |
+| GOODRAM             | 1        | 1      | 1.33%   |
 
 Drive Kind
 ----------
@@ -1219,11 +1218,11 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 113      | 195    | 56.78%  |
-| SSD     | 68       | 104    | 34.17%  |
-| MMC     | 8        | 10     | 4.02%   |
-| NVMe    | 8        | 21     | 4.02%   |
-| Unknown | 2        | 2      | 1.01%   |
+| HDD     | 113      | 195    | 56.5%   |
+| SSD     | 68       | 103    | 34%     |
+| NVMe    | 9        | 22     | 4.5%    |
+| MMC     | 8        | 10     | 4%      |
+| Unknown | 2        | 2      | 1%      |
 
 Drive Connector
 ---------------
@@ -1250,9 +1249,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 117      | 179    | 62.9%   |
-| 0.51-1.0   | 48       | 87     | 25.81%  |
-| 1.01-2.0   | 12       | 16     | 6.45%   |
+| 0.01-0.5   | 115      | 175    | 61.83%  |
+| 0.51-1.0   | 48       | 82     | 25.81%  |
+| 1.01-2.0   | 14       | 24     | 7.53%   |
 | 3.01-4.0   | 4        | 12     | 2.15%   |
 | 2.01-3.0   | 4        | 4      | 2.15%   |
 | 4.01-10.0  | 1        | 1      | 0.54%   |
@@ -1313,7 +1312,7 @@ Drive models with a malfunction
 | WDC WDS240G2G0A-00JH30 240GB SSD  | 1        | 1      | 3.13%   |
 | WDC WD5000AAKX-003CA0 500GB       | 1        | 1      | 3.13%   |
 | WDC WD400EB-00CPF0 40GB           | 1        | 1      | 3.13%   |
-| WDC WD2500AAJS-75M0A0 250GB       | 1        | 1      | 3.13%   |
+| WDC WD2500AAJS-75M0A0 249GB       | 1        | 1      | 3.13%   |
 | WDC WD1600AAJS-60B4A0 160GB       | 1        | 2      | 3.13%   |
 | WDC WD10EADS-65M2B0 1TB           | 1        | 1      | 3.13%   |
 | Seagate ST500DM002-1BD142 500GB   | 1        | 1      | 3.13%   |
@@ -1332,7 +1331,7 @@ Drive models with a malfunction
 | Samsung Electronics HD502IJ 500GB | 1        | 1      | 3.13%   |
 | Maxtor STM3300622A 304GB          | 1        | 1      | 3.13%   |
 | Maxtor 6Y080L0 82GB               | 1        | 1      | 3.13%   |
-| Maxtor 6B200M0 200GB              | 1        | 1      | 3.13%   |
+| Maxtor 6B200M0 208GB              | 1        | 1      | 3.13%   |
 | LDLC SSD 120GB                    | 1        | 1      | 3.13%   |
 | Kingston SHFS37A120G 120GB SSD    | 1        | 1      | 3.13%   |
 | Kingston SA400S37120G 120GB SSD   | 1        | 1      | 3.13%   |
@@ -1970,14 +1969,14 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics S24D300 SAM0B40 1920x1080 521x293mm 23.5-inch     | 2        | 1.29%   |
 | Lenovo LEN L24q-30 LEN65FB 2560x1440 527x296mm 23.8-inch              | 2        | 1.29%   |
-| Iiyama PL2283H IVM562E 1920x1080 496x292mm 22.7-inch                  | 2        | 1.29%   |
+| Iiyama PL2283H IVM562E 1920x1080 480x270mm 21.7-inch                  | 2        | 1.29%   |
 | Goldstar M228WA GSM563C 1680x1050 434x270mm 20.1-inch                 | 2        | 1.29%   |
 | FL_ HDMI4K FL_2801 2560x1600 480x270mm 21.7-inch                      | 2        | 1.29%   |
 | Dell U2711 DELA057 2560x1440 597x336mm 27.0-inch                      | 2        | 1.29%   |
 | Dell E176FP DELA014 1280x1024 338x270mm 17.0-inch                     | 2        | 1.29%   |
-| Ancor Communications ASUS VW193D ACI19D5 1440x900 408x255mm 18.9-inch | 2        | 1.29%   |
-| ___ LCDTV16 ___9000 1360x768                                          | 1        | 0.65%   |
+| Ancor Communications ASUS VW193D ACI19D5 1440x900 410x260mm 19.1-inch | 2        | 1.29%   |
 | ___ LCDTV16 ___0101 1920x1080                                         | 1        | 0.65%   |
+| ___ LCD TV ___9000 1360x768                                           | 1        | 0.65%   |
 | Vizio VOJ320F1A VIZ0050 1920x1080 700x390mm 31.5-inch                 | 1        | 0.65%   |
 | Vizio VO42LFHDTV10A VIZ0043 1920x1080 930x520mm 41.9-inch             | 1        | 0.65%   |
 | Vizio E421VO VIZ0090 1920x1080 930x530mm 42.1-inch                    | 1        | 0.65%   |
@@ -2000,12 +1999,12 @@ Monitor models
 | Samsung Electronics SyncMaster SAM052A 1920x1080 510x290mm 23.1-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM03E1 1440x900 410x257mm 19.1-inch   | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM03C2 1680x1050 459x296mm 21.5-inch  | 1        | 0.65%   |
-| Samsung Electronics SyncMaster SAM027F 1680x1050 470x300mm 22.0-inch  | 1        | 0.65%   |
+| Samsung Electronics SyncMaster SAM027F 1680x1050 474x296mm 22.0-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM027C 1680x1050 433x271mm 20.1-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM021E 1680x1050 433x271mm 20.1-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM0218 1280x1024 376x301mm 19.0-inch  | 1        | 0.65%   |
 | Samsung Electronics SyncMaster SAM01D0 1600x1200 432x324mm 21.3-inch  | 1        | 0.65%   |
-| Samsung Electronics SyncMaster SAM010B 1280x1024 338x270mm 17.0-inch  | 1        | 0.65%   |
+| Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch  | 1        | 0.65%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 0.65%   |
 | Samsung Electronics S22D300 SAM0B3E 1920x1080 477x268mm 21.5-inch     | 1        | 0.65%   |
 
@@ -2049,33 +2048,33 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 17      | 17       | 11.41%  |
-| 23      | 15       | 10.07%  |
-| 19      | 14       | 9.4%    |
-| 24      | 12       | 8.05%   |
-| 21      | 12       | 8.05%   |
-| Unknown | 12       | 8.05%   |
-| 27      | 11       | 7.38%   |
-| 22      | 10       | 6.71%   |
-| 20      | 10       | 6.71%   |
-| 18      | 8        | 5.37%   |
-| 15      | 7        | 4.7%    |
-| 34      | 3        | 2.01%   |
-| 47      | 2        | 1.34%   |
-| 39      | 2        | 1.34%   |
-| 31      | 2        | 1.34%   |
-| 84      | 1        | 0.67%   |
-| 72      | 1        | 0.67%   |
-| 52      | 1        | 0.67%   |
-| 48      | 1        | 0.67%   |
-| 41      | 1        | 0.67%   |
-| 40      | 1        | 0.67%   |
-| 38      | 1        | 0.67%   |
-| 29      | 1        | 0.67%   |
-| 14      | 1        | 0.67%   |
-| 11      | 1        | 0.67%   |
-| 7       | 1        | 0.67%   |
-| 5       | 1        | 0.67%   |
+| 17      | 17       | 11.49%  |
+| 23      | 15       | 10.14%  |
+| 19      | 14       | 9.46%   |
+| 24      | 12       | 8.11%   |
+| 21      | 12       | 8.11%   |
+| Unknown | 12       | 8.11%   |
+| 27      | 11       | 7.43%   |
+| 22      | 10       | 6.76%   |
+| 20      | 10       | 6.76%   |
+| 18      | 7        | 4.73%   |
+| 15      | 7        | 4.73%   |
+| 34      | 3        | 2.03%   |
+| 47      | 2        | 1.35%   |
+| 39      | 2        | 1.35%   |
+| 31      | 2        | 1.35%   |
+| 84      | 1        | 0.68%   |
+| 72      | 1        | 0.68%   |
+| 52      | 1        | 0.68%   |
+| 48      | 1        | 0.68%   |
+| 41      | 1        | 0.68%   |
+| 40      | 1        | 0.68%   |
+| 38      | 1        | 0.68%   |
+| 29      | 1        | 0.68%   |
+| 14      | 1        | 0.68%   |
+| 11      | 1        | 0.68%   |
+| 7       | 1        | 0.68%   |
+| 5       | 1        | 0.68%   |
 
 Monitor Width
 -------------
@@ -2648,9 +2647,9 @@ Memory module models
 | SK hynix RAM Module 2048MB DIMM DDR3 1600MT/s                  | 4        | 3.23%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 2        | 1.61%   |
 | Unknown RAM Module 2048MB DIMM 400MT/s                         | 2        | 1.61%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 2        | 1.61%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 2        | 1.61%   |
 | SK hynix RAM Module 2048MB DIMM DDR3 1066MT/s                  | 2        | 1.61%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s            | 2        | 1.61%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s         | 2        | 1.61%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2048MB DIMM DDR2 2048MT/s          | 2        | 1.61%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1866MT/s                   | 1        | 0.81%   |
 | Unknown RAM Module 8192MB DIMM 667MT/s                         | 1        | 0.81%   |
@@ -2674,7 +2673,7 @@ Memory module models
 | Unifosa RAM GU512303EP0202 2048MB DIMM DDR3 1333MT/s           | 1        | 0.81%   |
 | Timetec RAM UD3-1600 8GB DIMM DDR3 1600MT/s                    | 1        | 0.81%   |
 | Timetec RAM SD3-1600 8GB SODIMM DDR3 1600MT/s                  | 1        | 0.81%   |
-| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s             | 1        | 0.81%   |
+| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2933MT/s            | 1        | 0.81%   |
 | SK hynix RAM Module 8192MB DIMM DDR4 2133MT/s                  | 1        | 0.81%   |
 | SK hynix RAM HYMP525P72CP4-Y5 2048MB DIMM DDR2 667MT/s         | 1        | 0.81%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 0.81%   |
@@ -2684,7 +2683,7 @@ Memory module models
 | SK hynix RAM HMT41GU6AFR8A-PB 8192MB DIMM DDR3 1600MT/s        | 1        | 0.81%   |
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s           | 1        | 0.81%   |
 | SK hynix RAM HMT125S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s         | 1        | 0.81%   |
-| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 3200MT/s           | 1        | 0.81%   |
+| SK hynix RAM HMA81GU6DJR8N-XN 8192MB DIMM DDR4 3200MT/s        | 1        | 0.81%   |
 
 Memory Kind
 -----------
@@ -2731,9 +2730,9 @@ Memory module size
 | 8192  | 25       | 23.36%  |
 | 4096  | 24       | 22.43%  |
 | 1024  | 11       | 10.28%  |
-| 16384 | 9        | 8.41%   |
+| 16384 | 8        | 7.48%   |
+| 32768 | 3        | 2.8%    |
 | 512   | 3        | 2.8%    |
-| 32768 | 2        | 1.87%   |
 | 65536 | 1        | 0.93%   |
 
 Memory Speed
@@ -2864,7 +2863,7 @@ Camera device models
 | Model                                     | Desktops | Percent |
 |-------------------------------------------|----------|---------|
 | Logitech Webcam C270                      | 2        | 10.53%  |
-| Generalplus CAMERA - UVC                  | 2        | 10.53%  |
+| Generalplus GENERAL WEBCAM                | 2        | 10.53%  |
 | Z-Star Sirius USB2.0 Camera               | 1        | 5.26%   |
 | SunplusIT USB 2.0 Camera                  | 1        | 5.26%   |
 | Sunplus Full HD webcam                    | 1        | 5.26%   |

@@ -649,14 +649,14 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                               | Notebooks | Percent |
-|-------------------------------------|-----------|---------|
-| Unknown MMC Card  64GB              | 8         | 50%     |
-| Unknown DA4064  64GB                | 3         | 18.75%  |
-| Unknown MMC Card  128GB             | 2         | 12.5%   |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD | 1         | 6.25%   |
-| Phison NVMe SSD Drive 256GB         | 1         | 6.25%   |
-| Intel NVMe SSD Drive 512GB          | 1         | 6.25%   |
+| Model                        | Notebooks | Percent |
+|------------------------------|-----------|---------|
+| Unknown MMC Card  64GB       | 8         | 50%     |
+| Unknown DA4064  64GB         | 3         | 18.75%  |
+| Unknown MMC Card  128GB      | 2         | 12.5%   |
+| Toshiba NVMe SSD Drive 256GB | 1         | 6.25%   |
+| Phison NVMe SSD Drive 256GB  | 1         | 6.25%   |
+| Intel NVMe SSD Drive 512GB   | 1         | 6.25%   |
 
 HDD Vendor
 ----------
@@ -1321,9 +1321,9 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Notebooks | Percent |
-|-------------------------------|-----------|---------|
-| Microdia HP Integrated Webcam | 10        | 100%    |
+| Model                  | Notebooks | Percent |
+|------------------------|-----------|---------|
+| Microdia HP Webcam-101 | 10        | 100%    |
 
 Security
 --------

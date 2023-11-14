@@ -1323,7 +1323,7 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SyncMaster SAM01D3 1440x900 410x260mm 19.1-inch     | 11       | 23.91%  |
+| Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch     | 11       | 23.91%  |
 | ___ LCDTV16 ___0101 1920x1080                                           | 9        | 19.57%  |
 | Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5        | 10.87%  |
 | Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5        | 10.87%  |
@@ -1720,29 +1720,29 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| G.Skill RAM F3-12800CL8-4GBXM 4GB DIMM DDR3 1600MT/s     | 3        | 9.68%   |
-| Unknown RAM Module 8192MB DIMM                           | 2        | 6.45%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s             | 2        | 6.45%   |
-| Unknown RAM Module 4096MB DIMM                           | 2        | 6.45%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 800MT/s            | 2        | 6.45%   |
-| Unknown RAM Module 2048MB DIMM 667MT/s                   | 2        | 6.45%   |
-| Kingston RAM 99U5471-011.A 2048MB DIMM DDR3 667MT/s      | 2        | 6.45%   |
-| Kingston RAM 99U5471-002.A 2048MB DIMM DDR3 667MT/s      | 2        | 6.45%   |
-| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s    | 2        | 6.45%   |
-| Unknown RAM Module 4096MB SODIMM DDR2 800MT/s            | 1        | 3.23%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 3.23%   |
-| Unknown RAM Module 2048MB DIMM 400MT/s                   | 1        | 3.23%   |
-| Unknown RAM Module 1024MB SODIMM DDR2 800MT/s            | 1        | 3.23%   |
-| Unknown RAM Module 1024MB DIMM DDR 333MT/s               | 1        | 3.23%   |
-| Samsung RAM M471B5273DH0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 3.23%   |
-| pqi RAM Module 1024MB DIMM DDR2 800MT/s                  | 1        | 3.23%   |
-| Nanya RAM Module 2048MB DIMM DDR2 800MT/s                | 1        | 3.23%   |
-| Kingston RAM Module 2048MB DIMM DDR2 533MT/s             | 1        | 3.23%   |
-| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 3.23%   |
-| Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s      | 1        | 3.23%   |
-| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s    | 1        | 3.23%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| G.Skill RAM F3-12800CL8-4GBXM 4GB DIMM DDR3 1600MT/s  | 3        | 9.68%   |
+| Unknown RAM Module 8192MB DIMM                        | 2        | 6.45%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s          | 2        | 6.45%   |
+| Unknown RAM Module 4096MB DIMM                        | 2        | 6.45%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 800MT/s         | 2        | 6.45%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                | 2        | 6.45%   |
+| Kingston RAM 99U5471-011.A 2048MB DIMM DDR3 667MT/s   | 2        | 6.45%   |
+| Kingston RAM 99U5471-002.A 2048MB DIMM DDR3 667MT/s   | 2        | 6.45%   |
+| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s | 2        | 6.45%   |
+| Unknown RAM Module 4096MB SODIMM DDR2 800MT/s         | 1        | 3.23%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s               | 1        | 3.23%   |
+| Unknown RAM Module 2048MB DIMM 400MT/s                | 1        | 3.23%   |
+| Unknown RAM Module 1024MB SODIMM DDR2 800MT/s         | 1        | 3.23%   |
+| Unknown RAM Module 1024MB DIMM DDR 333MT/s            | 1        | 3.23%   |
+| Samsung RAM M471B5273DH0-YK0 4GB DIMM DDR3 1600MT/s   | 1        | 3.23%   |
+| pqi RAM Module 1024MB DIMM DDR2 800MT/s               | 1        | 3.23%   |
+| Nanya RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 3.23%   |
+| Kingston RAM Module 2048MB DIMM DDR2 533MT/s          | 1        | 3.23%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 3.23%   |
+| Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s   | 1        | 3.23%   |
+| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s | 1        | 3.23%   |
 
 Memory Kind
 -----------

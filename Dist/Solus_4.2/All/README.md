@@ -784,7 +784,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 500GB             | 2         | 4.44%   |
 | WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 2.22%   |
 | WDC WD40EZRZ-00GXCB0 4TB                 | 1         | 2.22%   |
-| WDC WD2500BEVT-22A23T0 208GB             | 1         | 2.22%   |
+| WDC WD2500BEVT-22A23T0 250GB             | 1         | 2.22%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 2.22%   |
 | WDC WD10JPVX-22JC3T0 1TB                 | 1         | 2.22%   |
 | WDC WD10EZEX-08WN4A0 1TB                 | 1         | 2.22%   |
@@ -802,7 +802,7 @@ Hard drive models
 | SanDisk SDSSDP064G 64GB                  | 1         | 2.22%   |
 | SanDisk SDSSDA240G 240GB                 | 1         | 2.22%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 2.22%   |
-| SanDisk Extreme SSD 1TB                  | 1         | 2.22%   |
+| SanDisk Extreme SSD 500GB                | 1         | 2.22%   |
 | Samsung SSD 970 EVO Plus 2TB             | 1         | 2.22%   |
 | Samsung SSD 970 EVO 500GB                | 1         | 2.22%   |
 | Samsung PSSD T7 500GB                    | 1         | 2.22%   |
@@ -844,20 +844,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SanDisk             | 4         | 5      | 20%     |
-| Samsung Electronics | 3         | 3      | 15%     |
-| Micron Technology   | 2         | 3      | 10%     |
-| WDC                 | 1         | 1      | 5%      |
-| Unknown             | 1         | 1      | 5%      |
-| Transcend           | 1         | 1      | 5%      |
-| Patriot             | 1         | 1      | 5%      |
-| Kingston            | 1         | 1      | 5%      |
-| Intel               | 1         | 1      | 5%      |
-| Gigabyte Technology | 1         | 1      | 5%      |
-| Corsair             | 1         | 1      | 5%      |
-| China               | 1         | 1      | 5%      |
-| Apple               | 1         | 3      | 5%      |
-| A-DATA Technology   | 1         | 1      | 5%      |
+| SanDisk             | 4         | 5      | 21.05%  |
+| Samsung Electronics | 2         | 2      | 10.53%  |
+| Micron Technology   | 2         | 3      | 10.53%  |
+| WDC                 | 1         | 1      | 5.26%   |
+| Unknown             | 1         | 1      | 5.26%   |
+| Transcend           | 1         | 1      | 5.26%   |
+| Patriot             | 1         | 1      | 5.26%   |
+| Kingston            | 1         | 1      | 5.26%   |
+| Intel               | 1         | 1      | 5.26%   |
+| Gigabyte Technology | 1         | 1      | 5.26%   |
+| Corsair             | 1         | 1      | 5.26%   |
+| China               | 1         | 1      | 5.26%   |
+| Apple               | 1         | 3      | 5.26%   |
+| A-DATA Technology   | 1         | 1      | 5.26%   |
 
 Drive Kind
 ----------
@@ -869,9 +869,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 18        | 24     | 48.65%  |
-| HDD  | 14        | 21     | 37.84%  |
-| NVMe | 5         | 8      | 13.51%  |
+| SSD  | 17        | 23     | 47.22%  |
+| HDD  | 14        | 21     | 38.89%  |
+| NVMe | 5         | 9      | 13.89%  |
 
 Drive Connector
 ---------------
@@ -897,8 +897,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 23     | 61.29%  |
-| 0.51-1.0   | 10        | 17     | 32.26%  |
+| 0.01-0.5   | 19        | 24     | 61.29%  |
+| 0.51-1.0   | 10        | 15     | 32.26%  |
 | 3.01-4.0   | 1         | 1      | 3.23%   |
 | 1.01-2.0   | 1         | 4      | 3.23%   |
 
@@ -1055,7 +1055,7 @@ Storage controller models
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 2.86%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 2.86%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo          | 1         | 2.86%   |
-| Kingston Company KC2000/KC2500 NVMe SSD                                        | 1         | 2.86%   |
+| Kingston Company KC2000/KC2500 NVMe SSD SM2262EN                               | 1         | 2.86%   |
 | Intel SATA Controller [RAID mode]                                              | 1         | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 2.86%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 1         | 2.86%   |
@@ -1410,13 +1410,13 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
-| JRY HDMI JRY1950 1600x900 368x207mm 16.6-inch                        | 1         | 3.45%   |
+| JRY Analog JRY1950 1600x900 368x207mm 16.6-inch                      | 1         | 3.45%   |
 | Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1         | 3.45%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch          | 1         | 3.45%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
@@ -1431,7 +1431,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24P1X AOC2401 1920x1200 518x324mm 24.1-inch                      | 1         | 3.45%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1818,20 +1818,20 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                            | Computers | Percent |
-|--------------------------------------------------|-----------|---------|
-| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
-| Intel Bluetooth wireless interface               | 2         | 13.33%  |
-| Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
-| Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
-| Realtek Bluetooth Radio                          | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
-| Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
-| Intel AX200 Bluetooth                            | 1         | 6.67%   |
-| Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
+| Model                                      | Computers | Percent |
+|--------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface         | 2         | 13.33%  |
+| Intel Bluetooth Device                     | 2         | 13.33%  |
+| Apple Bluetooth USB Host Controller        | 2         | 13.33%  |
+| Toshiba RT Bluetooth Radio                 | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 6.67%   |
+| Realtek Bluetooth Radio                    | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth          | 1         | 6.67%   |
+| Qualcomm Atheros AR3011 Bluetooth          | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 6.67%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter   | 1         | 6.67%   |
+| Intel AX200 Bluetooth                      | 1         | 6.67%   |
+| Broadcom BCM20702A0 Bluetooth 4.0          | 1         | 6.67%   |
 
 Sound
 -----
@@ -2071,7 +2071,7 @@ Camera device models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Suyin HP TrueVision HD Integrated Webcam  | 1         | 7.14%   |
-| Suyin 1.3M Front                          | 1         | 7.14%   |
+| Suyin 1.3M HD WebCam                      | 1         | 7.14%   |
 | Microsoft LifeCam HD-3000                 | 1         | 7.14%   |
 | Microdia Dell Laptop Integrated Webcam HD | 1         | 7.14%   |
 | Logitech Logitech Webcam C160             | 1         | 7.14%   |
@@ -2082,7 +2082,7 @@ Camera device models
 | Chicony Integrated Camera                 | 1         | 7.14%   |
 | Chicony HD WebCam                         | 1         | 7.14%   |
 | Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR        | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X           | 1         | 7.14%   |
 | Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security
@@ -2128,7 +2128,7 @@ Chipcard module vendors
 |--------|-----------|---------|
 | Upek   | 1         | 33.33%  |
 | Lenovo | 1         | 33.33%  |
-| BIT4ID | 1         | 33.33%  |
+| Bit4id | 1         | 33.33%  |
 
 Chipcard Model
 --------------
@@ -2142,7 +2142,7 @@ Chipcard module models
 |------------------------------------------------------------|-----------|---------|
 | Upek TouchChip Fingerprint Coprocessor (WBF advanced mode) | 1         | 33.33%  |
 | Lenovo Integrated Smart Card Reader                        | 1         | 33.33%  |
-| BIT4ID miniLector EVO                                      | 1         | 33.33%  |
+| Bit4id miniLector EVO                                      | 1         | 33.33%  |
 
 Unsupported
 -----------

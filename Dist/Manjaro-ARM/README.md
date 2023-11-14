@@ -1014,44 +1014,44 @@ Hard drive models
 ![Drive Model](./All/images/pie_chart/drive_model.svg)
 
 
-| Model                               | Computers | Percent |
-|-------------------------------------|-----------|---------|
-| Unknown MMC Card  32GB              | 29        | 23.2%   |
-| Unknown MMC Card  64GB              | 24        | 19.2%   |
-| Unknown MMC Card  128GB             | 21        | 16.8%   |
-| Unknown SLD32G  32GB                | 5         | 4%      |
-| Unknown SE32G  32GB                 | 5         | 4%      |
-| Unknown DA4064  64GB                | 4         | 3.2%    |
-| Unknown MMC Card  256GB             | 3         | 2.4%    |
-| ASMT 2115 250GB                     | 3         | 2.4%    |
-| Unknown MMC Card  16GB              | 2         | 1.6%    |
-| Seagate Expansion 1TB               | 2         | 1.6%    |
-| Argon Forty 64GB                    | 2         | 1.6%    |
-| USB3.0 Disk 500GB                   | 1         | 0.8%    |
-| Unknown SN64G  64GB                 | 1         | 0.8%    |
-| Unknown SN128  128GB                | 1         | 0.8%    |
-| Unknown SL64G  64GB                 | 1         | 0.8%    |
-| Unknown SC32G  32GB                 | 1         | 0.8%    |
-| Unknown MMC Card  512GB             | 1         | 0.8%    |
-| Unknown MMC Card  272GB             | 1         | 0.8%    |
-| Unknown MMC Card  249GB             | 1         | 0.8%    |
-| Unknown CJTD4R  64GB                | 1         | 0.8%    |
-| Toshiba KBG30ZMS128G 128GB NVMe SSD | 1         | 0.8%    |
-| Toshiba HDWD240 4TB                 | 1         | 0.8%    |
-| SK hynix HBG4e  32GB                | 1         | 0.8%    |
-| Seagate ST925031 5AS 250GB          | 1         | 0.8%    |
-| Seagate Expansion Desk 8TB          | 1         | 0.8%    |
-| SanDisk SSD PLUS 240GB              | 1         | 0.8%    |
-| SanDisk SL32G  32GB                 | 1         | 0.8%    |
-| SanDisk Portable SSD 480GB          | 1         | 0.8%    |
-| SanDisk Extreme 55AE 1TB SSD        | 1         | 0.8%    |
-| Samsung PSSD T7 500GB               | 1         | 0.8%    |
-| Samsung Portable SSD T5 500GB       | 1         | 0.8%    |
-| PNY USB 3.0 to SATA- 500GB SSD      | 1         | 0.8%    |
-| Phison NVMe SSD Drive 256GB         | 1         | 0.8%    |
-| LaCie Rugged USB-C 4TB              | 1         | 0.8%    |
-| Kingston SHFS37A120G 120GB SSD      | 1         | 0.8%    |
-| Intel NVMe SSD Drive 512GB          | 1         | 0.8%    |
+| Model                          | Computers | Percent |
+|--------------------------------|-----------|---------|
+| Unknown MMC Card  32GB         | 29        | 23.2%   |
+| Unknown MMC Card  64GB         | 24        | 19.2%   |
+| Unknown MMC Card  128GB        | 21        | 16.8%   |
+| Unknown SLD32G  32GB           | 5         | 4%      |
+| Unknown SE32G  32GB            | 5         | 4%      |
+| Unknown DA4064  64GB           | 4         | 3.2%    |
+| Unknown MMC Card  256GB        | 3         | 2.4%    |
+| ASMT 2115 1TB                  | 3         | 2.4%    |
+| Unknown MMC Card  16GB         | 2         | 1.6%    |
+| Seagate Expansion 1TB          | 2         | 1.6%    |
+| Argon Forty 64GB               | 2         | 1.6%    |
+| USB3.0 Disk 500GB              | 1         | 0.8%    |
+| Unknown SN64G  64GB            | 1         | 0.8%    |
+| Unknown SN128  128GB           | 1         | 0.8%    |
+| Unknown SL64G  64GB            | 1         | 0.8%    |
+| Unknown SC32G  32GB            | 1         | 0.8%    |
+| Unknown MMC Card  512GB        | 1         | 0.8%    |
+| Unknown MMC Card  272GB        | 1         | 0.8%    |
+| Unknown MMC Card  249GB        | 1         | 0.8%    |
+| Unknown CJTD4R  64GB           | 1         | 0.8%    |
+| Toshiba NVMe SSD Drive 256GB   | 1         | 0.8%    |
+| Toshiba HDWD240 4TB            | 1         | 0.8%    |
+| SK hynix HBG4e  32GB           | 1         | 0.8%    |
+| Seagate ST925031 5AS 250GB     | 1         | 0.8%    |
+| Seagate Expansion Desk 3TB     | 1         | 0.8%    |
+| SanDisk SSD PLUS 240GB         | 1         | 0.8%    |
+| SanDisk SL32G  32GB            | 1         | 0.8%    |
+| SanDisk Portable SSD 1TB       | 1         | 0.8%    |
+| SanDisk Extreme 55AE 1TB SSD   | 1         | 0.8%    |
+| Samsung PSSD T7 500GB          | 1         | 0.8%    |
+| Samsung Portable SSD T5 500GB  | 1         | 0.8%    |
+| PNY USB 3.0 to SATA- 500GB SSD | 1         | 0.8%    |
+| Phison NVMe SSD Drive 256GB    | 1         | 0.8%    |
+| LaCie Rugged USB-C 2TB         | 1         | 0.8%    |
+| Kingston SHFS37A120G 120GB SSD | 1         | 0.8%    |
+| Intel NVMe SSD Drive 512GB     | 1         | 0.8%    |
 
 HDD Vendor
 ----------
@@ -1080,7 +1080,7 @@ Solid state drive vendors
 | SanDisk             | 3         | 3      | 27.27%  |
 | ASMT                | 3         | 3      | 27.27%  |
 | Argon               | 2         | 3      | 18.18%  |
-| Samsung Electronics | 1         | 6      | 9.09%   |
+| Samsung Electronics | 1         | 5      | 9.09%   |
 | PNY USB             | 1         | 1      | 9.09%   |
 | Kingston            | 1         | 1      | 9.09%   |
 
@@ -1094,11 +1094,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| MMC     | 85        | 126    | 80.95%  |
-| SSD     | 11        | 17     | 10.48%  |
-| HDD     | 5         | 9      | 4.76%   |
-| NVMe    | 3         | 3      | 2.86%   |
-| Unknown | 1         | 1      | 0.95%   |
+| MMC     | 85        | 126    | 80.19%  |
+| SSD     | 11        | 16     | 10.38%  |
+| HDD     | 5         | 9      | 4.72%   |
+| NVMe    | 4         | 4      | 3.77%   |
+| Unknown | 1         | 1      | 0.94%   |
 
 Drive Connector
 ---------------
@@ -1125,10 +1125,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 12        | 19     | 70.59%  |
-| 0.51-1.0   | 3         | 5      | 17.65%  |
+| 0.01-0.5   | 8         | 14     | 47.06%  |
+| 0.51-1.0   | 7         | 9      | 41.18%  |
 | 3.01-4.0   | 1         | 1      | 5.88%   |
-| 4.01-10.0  | 1         | 1      | 5.88%   |
+| 2.01-3.0   | 1         | 1      | 5.88%   |
 
 Space Total
 -----------
@@ -1490,8 +1490,8 @@ Monitor models
 | Iiyama PL4071UH IVM000A 3840x2160 878x485mm 39.5-inch                   | 3         | 5.88%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch       | 2         | 3.92%   |
 | Ancor Communications ASUS VH242 ACI24FA 1920x1080 521x293mm 23.5-inch   | 2         | 3.92%   |
-| ViewSonic VX2776 Series VSC3E32 1920x1080 600x340mm 27.2-inch           | 1         | 1.96%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch      | 1         | 1.96%   |
+| ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch           | 1         | 1.96%   |
+| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                        | 1         | 1.96%   |
 | Unknown (XXX) HDMI     XXX0029 1920x1080 1150x650mm 52.0-inch           | 1         | 1.96%   |
 | Unknown (ADA) MPI4008 ADA0004 480x800 150x100mm 7.1-inch                | 1         | 1.96%   |
 | TXD Display TXD7825 1024x600 410x230mm 18.5-inch                        | 1         | 1.96%   |
@@ -1514,9 +1514,9 @@ Monitor models
 | ONN 100002480 ONN0101 1920x1080 470x290mm 21.7-inch                     | 1         | 1.96%   |
 | InfoVision LCD Monitor IVO0536 1920x1080 294x165mm 13.3-inch            | 1         | 1.96%   |
 | HJW HDMI TO USB HJW0001 1920x1080 700x390mm 31.5-inch                   | 1         | 1.96%   |
-| Hewlett-Packard LP2475w HWP26F8 1920x1200 540x350mm 25.3-inch           | 1         | 1.96%   |
+| Hewlett-Packard LP2475w HWP26F8 1920x1200 546x352mm 25.6-inch           | 1         | 1.96%   |
 | Hewlett-Packard f1523 HWP2607 1024x768 304x228mm 15.0-inch              | 1         | 1.96%   |
-| Hewlett-Packard 22cw HWP3183 1920x1080 476x268mm 21.5-inch              | 1         | 1.96%   |
+| Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch             | 1         | 1.96%   |
 | Grundig WXGA GRU4448 1600x1200                                          | 1         | 1.96%   |
 | Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                   | 1         | 1.96%   |
 | GKK MONITOR GKK3034 1920x1080                                           | 1         | 1.96%   |
@@ -2014,7 +2014,7 @@ Camera device vendors
 | OnePlus Technology (Shenzhen) | 1         | 6.25%   |
 | MacroSilicon                  | 1         | 6.25%   |
 | LG Electronics                | 1         | 6.25%   |
-| Bison Electronics             | 1         | 6.25%   |
+| Acer                          | 1         | 6.25%   |
 
 Camera Model
 ------------
@@ -2026,11 +2026,11 @@ Camera device models
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Microdia HP Integrated Webcam                         | 12        | 75%     |
+| Microdia HP Webcam-101                                | 12        | 75%     |
 | OnePlus (Shenzhen) SM8150-MTP _SN:A05FE1A2            | 1         | 6.25%   |
-| MacroSilicon USB3. 0 capture                          | 1         | 6.25%   |
+| MacroSilicon USB Video                                | 1         | 6.25%   |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode) | 1         | 6.25%   |
-| Bison Integrated Camera                               | 1         | 6.25%   |
+| Acer Integrated Camera                                | 1         | 6.25%   |
 
 Security
 --------

@@ -1086,9 +1086,9 @@ Storage controller models
 | HP Smart Array Gen8 Controllers                                               | 2         | 2.41%   |
 | Western Digital Ultrastar DC SN630 NVMe SSD                                   | 1         | 1.2%    |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                          | 1         | 1.2%    |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 1         | 1.2%    |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD          | 1         | 1.2%    |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 1         | 1.2%    |
-| Phison PS5013 E13 NVMe Controller                                             | 1         | 1.2%    |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                           | 1         | 1.2%    |
 | LSI Logic / Symbios Logic MegaRAID SAS-3 3108 [Invader]                       | 1         | 1.2%    |
 | Intel Volume Management Device NVMe RAID Controller                           | 1         | 1.2%    |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                            | 1         | 1.2%    |
@@ -1103,7 +1103,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                              | 1         | 1.2%    |
 | HP Smart Array G6 controllers                                                 | 1         | 1.2%    |
 | Broadcom / LSI MegaRAID SAS 2208 [Thunderbolt]                                | 1         | 1.2%    |
-| ADATA IM2P33F8ABR1 NVMe SSD                                                   | 1         | 1.2%    |
+| ADATA IM2P33F8 series NVMe SSD (DRAM-less)                                    | 1         | 1.2%    |
 
 Storage Kind
 ------------
@@ -1457,7 +1457,7 @@ Monitor models
 | ViewSonic VA2419 Series VSC7B32 1920x1080 527x296mm 23.8-inch         | 1         | 4%      |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 4%      |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 4%      |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch | 1         | 4%      |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1         | 4%      |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 4%      |
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
 | ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 4%      |
@@ -1465,14 +1465,14 @@ Monitor models
 | Hewlett-Packard 24es HWP3320 1920x1080 527x296mm 23.8-inch            | 1         | 4%      |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1         | 4%      |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1         | 4%      |
-| Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 4%      |
+| Dell P2217H DELA0D9 1920x1080 480x270mm 21.7-inch                     | 1         | 4%      |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 1         | 4%      |
 | BOE Technology Group LCD Monitor 1920x1080                            | 1         | 4%      |
 | BOE LCD Monitor BOE07EF 1920x1080 309x174mm 14.0-inch                 | 1         | 4%      |
 | AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch        | 1         | 4%      |
 | AU Optronics LCD Monitor AUO315C 1366x768 256x144mm 11.6-inch         | 1         | 4%      |
-| AU Optronics LCD Monitor AUO103D 1920x1080 310x170mm 13.9-inch        | 1         | 4%      |
+| AU Optronics LCD Monitor AUO103D 1920x1080 309x173mm 13.9-inch        | 1         | 4%      |
 
 Monitor Resolution
 ------------------
@@ -1660,7 +1660,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 1.28%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.28%   |
 | Prolific USB-Serial Controller                                    | 1         | 1.28%   |
-| OPPO 8                                                            | 1         | 1.28%   |
+| OPPO RMX2027                                                      | 1         | 1.28%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.28%   |
 | Intel Wi-Fi 6 AX200                                               | 1         | 1.28%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.28%   |
@@ -1762,7 +1762,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                            | 2         | 3.28%   |
 | Dell iDRAC Virtual NIC                                            | 2         | 3.28%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.64%   |
-| OPPO 8                                                            | 1         | 1.64%   |
+| OPPO RMX2027                                                      | 1         | 1.64%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.64%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.64%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.64%   |

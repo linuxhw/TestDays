@@ -913,7 +913,7 @@ Storage controller models
 |--------------------------------------------------------------------------------|----------|---------|
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2        | 13.33%  |
 | AMD FCH SATA Controller [AHCI mode]                                            | 2        | 13.33%  |
-| SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 1        | 6.67%   |
+| SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                          | 1        | 6.67%   |
 | Nvidia MCP61 SATA Controller                                                   | 1        | 6.67%   |
 | Nvidia MCP61 IDE                                                               | 1        | 6.67%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 1        | 6.67%   |
@@ -1199,13 +1199,13 @@ Monitor models
 | Philips TV PHL5035 1920x1080 640x360mm 28.9-inch                     | 2        | 18.18%  |
 | Sony TV SNYAB03 1920x1080                                            | 1        | 9.09%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 474x296mm 22.0-inch | 1        | 9.09%   |
-| Samsung Electronics SyncMaster SAM01D3 1440x900 410x260mm 19.1-inch  | 1        | 9.09%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 410x230mm 18.5-inch | 1        | 9.09%   |
+| Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch  | 1        | 9.09%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 580x320mm 26.1-inch | 1        | 9.09%   |
 | PRI Prima TV PRI1600 1920x1080                                       | 1        | 9.09%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 1        | 9.09%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch               | 1        | 9.09%   |
-| Dell P2213 DELF042 1680x1050 473x296mm 22.0-inch                     | 1        | 9.09%   |
-| AOC 2050W AOC2050 1600x900 432x240mm 19.5-inch                       | 1        | 9.09%   |
+| Dell P2213 DELF042 1680x1050 470x300mm 22.0-inch                     | 1        | 9.09%   |
+| AOC 2050 AOC2050 1600x900 443x249mm 20.0-inch                        | 1        | 9.09%   |
 
 Monitor Resolution
 ------------------

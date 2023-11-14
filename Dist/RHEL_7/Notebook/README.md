@@ -630,19 +630,19 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                         | Notebooks | Percent |
-|-----------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Drive 512GB                  | 2         | 16.67%  |
-| WDC WD10SPCX-75KHST0 1TB                      | 1         | 8.33%   |
-| Unknown NVMe SSD Drive 1TB                    | 1         | 8.33%   |
-| Unknown MMC Card  128GB                       | 1         | 8.33%   |
-| Transcend TS512GMTS800 512GB SSD              | 1         | 8.33%   |
-| Toshiba NVMe SSD Drive 1024GB                 | 1         | 8.33%   |
-| SanDisk NVMe SSD Drive 512GB                  | 1         | 8.33%   |
-| Samsung SSD PM871b M.2 2280 512GB             | 1         | 8.33%   |
-| Samsung NVMe SSD Controller SM981/PM981 512GB | 1         | 8.33%   |
-| Intel NVMe SSD Drive 512GB                    | 1         | 8.33%   |
-| Crucial CT120BX300SSD1 120GB                  | 1         | 8.33%   |
+| Model                                       | Notebooks | Percent |
+|---------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Drive 512GB                | 2         | 16.67%  |
+| WDC WD10SPCX-75KHST0 1TB                    | 1         | 8.33%   |
+| Unknown NVMe SSD Drive 1TB                  | 1         | 8.33%   |
+| Unknown MMC Card  128GB                     | 1         | 8.33%   |
+| Transcend TS512GMTS800 512GB SSD            | 1         | 8.33%   |
+| Toshiba NVMe SSD Drive 1024GB               | 1         | 8.33%   |
+| SanDisk NVMe SSD Drive 512GB                | 1         | 8.33%   |
+| Samsung SSD PM871b M.2 2280 512GB           | 1         | 8.33%   |
+| Samsung NVMe SSD Controller SM981/PM981 2TB | 1         | 8.33%   |
+| Intel NVMe SSD Drive 512GB                  | 1         | 8.33%   |
+| Crucial CT120BX300SSD1 120GB                | 1         | 8.33%   |
 
 HDD Vendor
 ----------
@@ -843,17 +843,17 @@ Storage controller models
 ![Storage Model](./images/pie_chart/storage_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983                    | 2         | 18.18%  |
-| Intel SATA Controller [RAID mode]                                | 2         | 18.18%  |
-| Toshiba America Info Systems XG6 NVMe SSD Controller             | 1         | 9.09%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                       | 1         | 9.09%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]               | 1         | 9.09%   |
-| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                 | 1         | 9.09%   |
-| Intel Comet Lake SATA AHCI Controller                            | 1         | 9.09%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode] | 1         | 9.09%   |
-| ADATA IM2P33F8ABR1 NVMe SSD                                      | 1         | 9.09%   |
+| Model                                                                | Notebooks | Percent |
+|----------------------------------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Controller SM981/PM981/PM983                        | 2         | 18.18%  |
+| Intel SATA Controller [RAID mode]                                    | 2         | 18.18%  |
+| Toshiba America Info Systems XG6 NVMe SSD Controller                 | 1         | 9.09%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD | 1         | 9.09%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                   | 1         | 9.09%   |
+| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                     | 1         | 9.09%   |
+| Intel Comet Lake SATA AHCI Controller                                | 1         | 9.09%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]     | 1         | 9.09%   |
+| ADATA IM2P33F8 series NVMe SSD (DRAM-less)                           | 1         | 9.09%   |
 
 Storage Kind
 ------------
@@ -1124,14 +1124,14 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 7.69%   |
 | ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 7.69%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 7.69%   |
-| Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
+| Dell P2217H DELA0D9 1920x1080 480x270mm 21.7-inch                     | 1         | 7.69%   |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 1         | 7.69%   |
 | BOE Technology Group LCD Monitor 1920x1080                            | 1         | 7.69%   |
 | BOE LCD Monitor BOE07EF 1920x1080 309x174mm 14.0-inch                 | 1         | 7.69%   |
 | AU Optronics LCD Monitor AUO462D 1920x1080 293x165mm 13.2-inch        | 1         | 7.69%   |
 | AU Optronics LCD Monitor AUO315C 1366x768 256x144mm 11.6-inch         | 1         | 7.69%   |
-| AU Optronics LCD Monitor AUO103D 1920x1080 310x170mm 13.9-inch        | 1         | 7.69%   |
+| AU Optronics LCD Monitor AUO103D 1920x1080 309x173mm 13.9-inch        | 1         | 7.69%   |
 
 Monitor Resolution
 ------------------
@@ -1280,7 +1280,7 @@ Controller models
 | Realtek RTL8153 Gigabit Ethernet Adapter                           | 1         | 4.35%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 1         | 4.35%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                   | 1         | 4.35%   |
-| OPPO 8                                                             | 1         | 4.35%   |
+| OPPO RMX2027                                                       | 1         | 4.35%   |
 | Intel Wi-Fi 6 AX200                                                | 1         | 4.35%   |
 | Intel Ethernet Connection (7) I219-LM                              | 1         | 4.35%   |
 | Intel Ethernet Connection (6) I219-LM                              | 1         | 4.35%   |
@@ -1354,7 +1354,7 @@ Ethernet models
 | Intel Ethernet Connection (6) I219-V                              | 2         | 18.18%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 9.09%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
-| OPPO 8                                                            | 1         | 9.09%   |
+| OPPO RMX2027                                                      | 1         | 9.09%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (6) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (5) I219-LM                             | 1         | 9.09%   |

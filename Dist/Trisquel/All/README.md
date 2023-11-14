@@ -1171,10 +1171,10 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 2         | 4.35%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                                    | 1         | 2.17%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1         | 2.17%   |
-| SanDisk WD Blue SN570 NVMe SSD 1TB                                                      | 1         | 2.17%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1         | 2.17%   |
+| SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                                   | 1         | 2.17%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD                    | 1         | 2.17%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1         | 2.17%   |
-| Samsung NVMe SSD Controller 980                                                         | 1         | 2.17%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                             | 1         | 2.17%   |
 | Nvidia MCP61 IDE                                                                        | 1         | 2.17%   |
 | Intel Volume Management Device NVMe RAID Controller                                     | 1         | 2.17%   |
 | Intel Tiger Lake SATA AHCI Controller                                                   | 1         | 2.17%   |
@@ -1569,7 +1569,7 @@ Monitor models
 
 | Model                                                                    | Computers | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| Iiyama PL2283H IVM562E 1920x1080 496x292mm 22.7-inch                     | 3         | 8.11%   |
+| Iiyama PL2283H IVM562E 1920x1080 480x270mm 21.7-inch                     | 3         | 8.11%   |
 | Samsung Electronics LCD Monitor SDC414D 3456x2160 336x210mm 15.6-inch    | 2         | 5.41%   |
 | LG Display LCD Monitor LGD02E2 1600x900 310x174mm 14.0-inch              | 2         | 5.41%   |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch                  | 2         | 5.41%   |
@@ -1577,9 +1577,9 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0216 1280x1024 338x270mm 17.0-inch     | 1         | 2.7%    |
 | Samsung Electronics SMC27A550U SAM07F6 1920x1080 598x336mm 27.0-inch     | 1         | 2.7%    |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.7%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.7%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 2.7%    |
 | Samsung Electronics LCD Monitor SEC374E 1024x600 223x125mm 10.1-inch     | 1         | 2.7%    |
-| Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 1         | 2.7%    |
+| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 1         | 2.7%    |
 | Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch    | 1         | 2.7%    |
 | Plain Tree Systems Monitor PTS076D 1280x1024 376x301mm 19.0-inch         | 1         | 2.7%    |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                  | 1         | 2.7%    |
@@ -1787,7 +1787,7 @@ Controller models
 | Realtek Killer E2600 Gigabit Ethernet Controller                    | 1         | 1.33%   |
 | Ralink RT2870/RT3070 Wireless Adapter                               | 1         | 1.33%   |
 | Ralink MT7601U Wireless Adapter                                     | 1         | 1.33%   |
-| Qualcomm POCO M2 Pro                                                | 1         | 1.33%   |
+| Qualcomm Redmi Note 8                                               | 1         | 1.33%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter          | 1         | 1.33%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter          | 1         | 1.33%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                              | 1         | 1.33%   |
@@ -1797,7 +1797,7 @@ Controller models
 | Qualcomm Atheros AR8162 Fast Ethernet                               | 1         | 1.33%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                          | 1         | 1.33%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1         | 1.33%   |
-| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                   | 1         | 1.33%   |
+| Microsoft Ethernet Adapter                                          | 1         | 1.33%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller             | 1         | 1.33%   |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller                | 1         | 1.33%   |
 | Intel Wireless 7265                                                 | 1         | 1.33%   |
@@ -1896,12 +1896,12 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 2         | 5.41%   |
 | Nvidia MCP61 Ethernet                                             | 2         | 5.41%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 2.7%    |
-| Qualcomm POCO M2 Pro                                              | 1         | 2.7%    |
+| Qualcomm Redmi Note 8                                             | 1         | 2.7%    |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 2.7%    |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 2.7%    |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 2.7%    |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 2.7%    |
-| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                 | 1         | 2.7%    |
+| Microsoft Ethernet Adapter                                        | 1         | 2.7%    |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 2.7%    |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 2.7%    |
 | Intel Ethernet Connection (5) I219-LM                             | 1         | 2.7%    |
@@ -2109,7 +2109,7 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                              | 1         | 3.13%   |
 | Unknown RAM 3634543235363032304555322E3543322020 2048MB DIMM DDR2 800MT/s | 1         | 3.13%   |
 | SK hynix RAM Module 1024MB DIMM DDR3 1066MT/s                             | 1         | 3.13%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s                     | 1         | 3.13%   |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 975MT/s                   | 1         | 3.13%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s                      | 1         | 3.13%   |
 | SK hynix RAM HMT41GS6AFR8A-H9 8192MB SODIMM DDR3 1333MT/s                 | 1         | 3.13%   |
 | SK hynix RAM HMA851S6CJR6N-UH 4GB SODIMM DDR4 2400MT/s                    | 1         | 3.13%   |
@@ -2118,8 +2118,8 @@ Memory module models
 | Samsung RAM Module 2GB Row Of Chips DDR3 1600MT/s                         | 1         | 3.13%   |
 | Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s                     | 1         | 3.13%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 1         | 3.13%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s                       | 1         | 3.13%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s                   | 1         | 3.13%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s                    | 1         | 3.13%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s                | 1         | 3.13%   |
 | Qimonda RAM 64T512022EDL2.5A 4096MB SODIMM DDR 800MT/s                    | 1         | 3.13%   |
 | PNY RAM Module 4096MB DIMM DDR3 1066MT/s                                  | 1         | 3.13%   |
 | Micron RAM MT52L512M32D2PF-10 4GB Row Of Chips LPDDR3 1867MT/s            | 1         | 3.13%   |
@@ -2282,9 +2282,9 @@ Camera device models
 |--------------------------------------------------------------|-----------|---------|
 | Lenovo Integrated Webcam                                     | 3         | 13.64%  |
 | Z-Star Webcam                                                | 1         | 4.55%   |
+| Sunplus ZET USB WEBCAM                                       | 1         | 4.55%   |
 | Sunplus HD WebCam                                            | 1         | 4.55%   |
 | Sunplus Asus Webcam                                          | 1         | 4.55%   |
-| Sunplus 2K FHD camera                                        | 1         | 4.55%   |
 | Realtek Lenovo EasyCamera                                    | 1         | 4.55%   |
 | Quanta HD User Facing                                        | 1         | 4.55%   |
 | Microdia Integrated_Webcam_HD                                | 1         | 4.55%   |
@@ -2367,9 +2367,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 25        | 62.5%   |
-| 1     | 10        | 25%     |
-| 2     | 5         | 12.5%   |
+| 0     | 26        | 65%     |
+| 1     | 12        | 30%     |
+| 2     | 2         | 5%      |
 
 Unsupported Device Types
 ------------------------
@@ -2381,10 +2381,10 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Graphics card         | 9         | 52.94%  |
-| Net/wireless          | 2         | 11.76%  |
-| Multimedia controller | 2         | 11.76%  |
-| Chipcard              | 2         | 11.76%  |
-| Fingerprint reader    | 1         | 5.88%   |
-| Bluetooth             | 1         | 5.88%   |
+| Graphics card         | 5         | 38.46%  |
+| Net/wireless          | 2         | 15.38%  |
+| Multimedia controller | 2         | 15.38%  |
+| Chipcard              | 2         | 15.38%  |
+| Fingerprint reader    | 1         | 7.69%   |
+| Bluetooth             | 1         | 7.69%   |
 

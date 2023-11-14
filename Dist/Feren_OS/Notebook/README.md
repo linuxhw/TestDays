@@ -906,48 +906,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Notebooks | Percent |
-|-----------------------------------------------------|-----------|---------|
-| Seagate ST500LT012-9WS142 500GB                     | 2         | 3.39%   |
-| Phison NVMe SSD Drive 1TB                           | 2         | 3.39%   |
-| Intel NVMe SSD Drive 512GB                          | 2         | 3.39%   |
-| HGST HTS721010A9E630 1TB                            | 2         | 3.39%   |
-| WDC WD2500BPVT-00JJ5T0 250GB                        | 1         | 1.69%   |
-| Unknown SDW32G  32GB                                | 1         | 1.69%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 1         | 1.69%   |
-| Unknown SB128  128GB                                | 1         | 1.69%   |
-| Unknown SA04G  4GB                                  | 1         | 1.69%   |
-| Unknown MMC Card  32GB                              | 1         | 1.69%   |
-| Unknown MMC Card  256GB                             | 1         | 1.69%   |
-| Unknown MMC Card  128GB                             | 1         | 1.69%   |
-| Unknown APPSD  134GB                                | 1         | 1.69%   |
-| Toshiba THNSNC128GNSJ 128GB SSD                     | 1         | 1.69%   |
-| Toshiba Q300. 240GB SSD                             | 1         | 1.69%   |
-| Toshiba MQ01ABD100 1TB                              | 1         | 1.69%   |
-| SK hynix HFS128G32TND-N210A 128GB SSD               | 1         | 1.69%   |
-| SK hynix HFM001TD3JX013N 1024GB                     | 1         | 1.69%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 1.69%   |
-| SanDisk SSD U100 24GB                               | 1         | 1.69%   |
-| SanDisk SD9SB8W256G1002 256GB SSD                   | 1         | 1.69%   |
-| SanDisk SD8SN8U-128G-1006 128GB SSD                 | 1         | 1.69%   |
-| SanDisk SD6SN1M-256G-1006 256GB SSD                 | 1         | 1.69%   |
-| SanDisk NVMe SSD Drive 256GB                        | 1         | 1.69%   |
-| Samsung SSD 860 EVO 250GB                           | 1         | 1.69%   |
-| Samsung SSD 840 Series 120GB                        | 1         | 1.69%   |
-| Samsung Portable SSD T5 500GB                       | 1         | 1.69%   |
-| Samsung PM963 2.5" NVMe PCIe SSD 256GB              | 1         | 1.69%   |
-| Samsung NVMe SSD Drive 1TB                          | 1         | 1.69%   |
-| Samsung NVMe SSD Drive 1024GB                       | 1         | 1.69%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 1         | 1.69%   |
-| Samsung MZVLW256HEHP-000H1 256GB                    | 1         | 1.69%   |
-| Samsung MZVLW128HEGR-00000 128GB                    | 1         | 1.69%   |
-| Samsung MZNTY128HDHP-000L2 128GB SSD                | 1         | 1.69%   |
-| Realtek NVMe SSD Drive 512GB                        | 1         | 1.69%   |
-| PNY CS900 500GB SSD                                 | 1         | 1.69%   |
-| OCZ VERTEX2 90GB SSD                                | 1         | 1.69%   |
-| OCZ AGILITY3 120GB SSD                              | 1         | 1.69%   |
-| LITEON IT LCS-128L9S-HP 128GB SSD                   | 1         | 1.69%   |
-| KIOXIA KBG40ZNS256G NVMe 256GB                      | 1         | 1.69%   |
+| Model                                             | Notebooks | Percent |
+|---------------------------------------------------|-----------|---------|
+| Seagate ST500LT012-9WS142 500GB                   | 2         | 3.39%   |
+| Phison NVMe SSD Drive 1TB                         | 2         | 3.39%   |
+| Intel NVMe SSD Drive 512GB                        | 2         | 3.39%   |
+| HGST HTS721010A9E630 1TB                          | 2         | 3.39%   |
+| WDC WD2500BPVT-00JJ5T0 250GB                      | 1         | 1.69%   |
+| Unknown SDW32G  32GB                              | 1         | 1.69%   |
+| Unknown SD/MMC/MS PRO 16GB                        | 1         | 1.69%   |
+| Unknown SB128  128GB                              | 1         | 1.69%   |
+| Unknown SA04G  4GB                                | 1         | 1.69%   |
+| Unknown MMC Card  32GB                            | 1         | 1.69%   |
+| Unknown MMC Card  256GB                           | 1         | 1.69%   |
+| Unknown MMC Card  128GB                           | 1         | 1.69%   |
+| Unknown APPSD  134GB                              | 1         | 1.69%   |
+| Toshiba THNSNC128GNSJ 128GB SSD                   | 1         | 1.69%   |
+| Toshiba Q300 240GB SSD                            | 1         | 1.69%   |
+| Toshiba MQ01ABD100 1TB                            | 1         | 1.69%   |
+| SK hynix HFS128G32TND-N210A 128GB SSD             | 1         | 1.69%   |
+| SK hynix HFM001TD3JX013N 1024GB                   | 1         | 1.69%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                | 1         | 1.69%   |
+| SanDisk SSD U100 24GB                             | 1         | 1.69%   |
+| SanDisk SD9SB8W256G1002 256GB SSD                 | 1         | 1.69%   |
+| SanDisk SD8SN8U-128G-1006 128GB SSD               | 1         | 1.69%   |
+| SanDisk SD6SN1M-256G-1006 256GB SSD               | 1         | 1.69%   |
+| SanDisk NVMe SSD Drive 256GB                      | 1         | 1.69%   |
+| Samsung SSD 860 EVO 250GB                         | 1         | 1.69%   |
+| Samsung SSD 840 Series 120GB                      | 1         | 1.69%   |
+| Samsung Portable SSD T5 500GB                     | 1         | 1.69%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 256GB            | 1         | 1.69%   |
+| Samsung NVMe SSD Drive 1TB                        | 1         | 1.69%   |
+| Samsung NVMe SSD Drive 1024GB                     | 1         | 1.69%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 1         | 1.69%   |
+| Samsung MZVLW256HEHP-000H1 256GB                  | 1         | 1.69%   |
+| Samsung MZVLW128HEGR-00000 128GB                  | 1         | 1.69%   |
+| Samsung MZNTY128HDHP-000L2 128GB SSD              | 1         | 1.69%   |
+| Realtek NVMe SSD Drive 512GB                      | 1         | 1.69%   |
+| PNY CS900 500GB SSD                               | 1         | 1.69%   |
+| OCZ VERTEX2 90GB SSD                              | 1         | 1.69%   |
+| OCZ AGILITY3 120GB SSD                            | 1         | 1.69%   |
+| LITEON IT LCS-128L9S-HP 128GB SSD                 | 1         | 1.69%   |
+| KIOXIA KBG40ZNS256G NVMe 256GB                    | 1         | 1.69%   |
 
 HDD Vendor
 ----------
@@ -1198,10 +1198,10 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 2         | 3.92%   |
 | AMD FCH SATA Controller [AHCI mode]                                            | 2         | 3.92%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 1         | 1.96%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 1.96%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1         | 1.96%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 1.96%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 1.96%   |
-| Samsung NVMe SSD Controller 980                                                | 1         | 1.96%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1         | 1.96%   |
 | Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                              | 1         | 1.96%   |
 | Nvidia nForce SATA Controller                                                  | 1         | 1.96%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 1         | 1.96%   |
@@ -1591,10 +1591,10 @@ Monitor models
 | Sony AVAMP SNYF400 1920x1080 1440x810mm 65.0-inch                        | 1         | 2.27%   |
 | Sharp LQ156T1JW04 SHP153C 2560x1440 344x194mm 15.5-inch                  | 1         | 2.27%   |
 | Sharp LQ156M1JW03 SHP14C5 1920x1080 344x194mm 15.5-inch                  | 1         | 2.27%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.27%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 2.27%   |
 | Samsung Electronics LCD Monitor SDC4161 1920x1080 344x194mm 15.5-inch    | 1         | 2.27%   |
 | Philips 220EW PHL0861 1680x1050 434x270mm 20.1-inch                      | 1         | 2.27%   |
-| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch                  | 1         | 2.27%   |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch                  | 1         | 2.27%   |
 | Panasonic TV MEIC301 1920x1080 698x392mm 31.5-inch                       | 1         | 2.27%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch             | 1         | 2.27%   |
 | LG Display LCD Monitor LGD0468 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
@@ -1602,7 +1602,7 @@ Monitor models
 | LG Display LCD Monitor LGD040A 1920x1080 309x175mm 14.0-inch             | 1         | 2.27%   |
 | LG Display LCD Monitor LGD03ED 1366x768 277x156mm 12.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch              | 1         | 2.27%   |
-| LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch              | 1         | 2.27%   |
+| LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD02F1 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 2.27%   |
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 2.27%   |
@@ -1624,7 +1624,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO303C 1366x768 309x173mm 13.9-inch            | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch           | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch            | 1         | 2.27%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch            | 1         | 2.27%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch            | 1         | 2.27%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                   | 1         | 2.27%   |
 
 Monitor Resolution
@@ -1805,21 +1805,21 @@ Controller models
 | Research In Motion BlackBerry                                                                 | 1         | 1.22%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.22%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.22%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 1         | 1.22%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 1         | 1.22%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                                                   | 1         | 1.22%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                                      | 1         | 1.22%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1         | 1.22%   |
 | Realtek Killer E3000 2.5GbE Controller                                                        | 1         | 1.22%   |
-| Realtek 802.11n WLAN Adapter                                                                  | 1         | 1.22%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 1.22%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1         | 1.22%   |
-| Qualcomm Redmi Note 8                                                                         | 1         | 1.22%   |
+| Qualcomm SDM630-MTP _SN:0B9EB96E                                                              | 1         | 1.22%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 1.22%   |
 | Qualcomm Atheros QCA6164 802.11ac Wireless Network Adapter                                    | 1         | 1.22%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                                     | 1         | 1.22%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1         | 1.22%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                                      | 1         | 1.22%   |
-| Motorola PCS moto g51 5G                                                                      | 1         | 1.22%   |
+| Motorola PCS motorola one macro                                                               | 1         | 1.22%   |
 | Intel Wireless 8265 / 8275                                                                    | 1         | 1.22%   |
 | Intel Wireless 8260                                                                           | 1         | 1.22%   |
 | Intel WiMAX Connection 2400m                                                                  | 1         | 1.22%   |
@@ -1871,10 +1871,10 @@ Wireless models
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 2.22%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 2.22%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 2.22%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                                                    | 1         | 2.22%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                               | 1         | 2.22%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                                                   | 1         | 2.22%   |
 | Realtek Realtek 8812AU/8821AU 802.11ac WLAN Adapter [USB Wireless Dual-Band Adapter 2.4/5Ghz] | 1         | 2.22%   |
-| Realtek 802.11n WLAN Adapter                                                                  | 1         | 2.22%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 2.22%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1         | 2.22%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 2.22%   |
@@ -1888,7 +1888,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                               | 1         | 2.22%   |
 | Intel Comet Lake PCH CNVi WiFi                                                                | 1         | 2.22%   |
 | Intel Centrino Advanced-N + WiMAX 6250 [Kilmer Peak]                                          | 1         | 2.22%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                                    | 1         | 2.22%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter                          | 1         | 2.22%   |
 | Broadcom BCM4331 802.11a/b/g/n                                                                | 1         | 2.22%   |
 
 Ethernet Vendor
@@ -1927,10 +1927,10 @@ Ethernet models
 | Research In Motion BlackBerry                                     | 1         | 2.7%    |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 2.7%    |
 | Realtek Killer E3000 2.5GbE Controller                            | 1         | 2.7%    |
-| Qualcomm Redmi Note 8                                             | 1         | 2.7%    |
+| Qualcomm SDM630-MTP _SN:0B9EB96E                                  | 1         | 2.7%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 2.7%    |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 2.7%    |
-| Motorola PCS moto g51 5G                                          | 1         | 2.7%    |
+| Motorola PCS motorola one macro                                   | 1         | 2.7%    |
 | Intel WiMAX Connection 2400m                                      | 1         | 2.7%    |
 | Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 2.7%    |
 | Intel Ethernet Connection I219-LM                                 | 1         | 2.7%    |
@@ -2157,7 +2157,7 @@ Memory module models
 | Kingston RAM MSI24D4S7D8MH-16 16384MB SODIMM DDR4 2400MT/s | 1         | 5.26%   |
 | Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Crucial RAM Module 4096MB SODIMM DDR3 1600MT/s             | 1         | 5.26%   |
-| Crucial RAM CT51264BF160BJ.C8F 4GB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
+| Crucial RAM CT51264BF160BJ.C8F 4096MB SODIMM DDR3 1600MT/s | 1         | 5.26%   |
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s  | 1         | 5.26%   |
 | A-DATA RAM AM1U16BC4P2-B19H 4096MB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
 
@@ -2275,11 +2275,10 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 9         | 24.32%  |
 | IMC Networks                           | 8         | 21.62%  |
+| Bison Electronics                      | 5         | 13.51%  |
 | Realtek Semiconductor                  | 4         | 10.81%  |
-| Bison Electronics                      | 3         | 8.11%   |
 | Sunplus Innovation Technology          | 2         | 5.41%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.41%   |
-| Acer                                   | 2         | 5.41%   |
 | Samsung Electronics                    | 1         | 2.7%    |
 | Pixart Imaging                         | 1         | 2.7%    |
 | Microdia                               | 1         | 2.7%    |
@@ -2299,8 +2298,8 @@ Camera device models
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
 | IMC Networks USB2.0 HD UVC WebCam                       | 4         | 10.81%  |
+| Bison Lenovo EasyCamera                                 | 3         | 8.11%   |
 | IMC Networks USB2.0 VGA UVC WebCam                      | 2         | 5.41%   |
-| Bison Lenovo EasyCamera                                 | 2         | 5.41%   |
 | Sunplus HP HD Webcam [Fixed]                            | 1         | 2.7%    |
 | Sunplus Asus Webcam                                     | 1         | 2.7%    |
 | Samsung Galaxy series, misc. (MTP mode)                 | 1         | 2.7%    |
@@ -2326,10 +2325,9 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam     | 1         | 2.7%    |
 | Bison Integrated Camera                                 | 1         | 2.7%    |
+| Bison HD Camera                                         | 1         | 2.7%    |
 | Apple FaceTime HD Camera                                | 1         | 2.7%    |
-| Alcor Micro USB 2.0 Web Camera                          | 1         | 2.7%    |
-| Acer Lenovo EasyCamera                                  | 1         | 2.7%    |
-| Acer HD Camera                                          | 1         | 2.7%    |
+| Alcor Micro USB 2.0 Camera                              | 1         | 2.7%    |
 
 Security
 --------

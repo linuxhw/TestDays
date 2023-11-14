@@ -675,7 +675,7 @@ Hard drive models
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
 | WDC WDS120G2G0A-00JH30 120GB SSD         | 1         | 5.56%   |
-| WDC WD2500BEVT-22A23T0 208GB             | 1         | 5.56%   |
+| WDC WD2500BEVT-22A23T0 250GB             | 1         | 5.56%   |
 | WDC WD10SPZX-24Z10 1TB                   | 1         | 5.56%   |
 | WDC WD10JPVX-22JC3T0 1TB                 | 1         | 5.56%   |
 | Transcend TS240GSSD220S 240GB            | 1         | 5.56%   |
@@ -717,14 +717,13 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Micron Technology   | 2         | 3      | 22.22%  |
-| WDC                 | 1         | 1      | 11.11%  |
-| Transcend           | 1         | 1      | 11.11%  |
-| SanDisk             | 1         | 1      | 11.11%  |
-| Samsung Electronics | 1         | 1      | 11.11%  |
-| Kingston            | 1         | 1      | 11.11%  |
-| Intel               | 1         | 1      | 11.11%  |
-| Gigabyte Technology | 1         | 1      | 11.11%  |
+| Micron Technology   | 2         | 3      | 25%     |
+| WDC                 | 1         | 1      | 12.5%   |
+| Transcend           | 1         | 1      | 12.5%   |
+| SanDisk             | 1         | 1      | 12.5%   |
+| Kingston            | 1         | 1      | 12.5%   |
+| Intel               | 1         | 1      | 12.5%   |
+| Gigabyte Technology | 1         | 1      | 12.5%   |
 
 Drive Kind
 ----------
@@ -736,9 +735,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 8         | 10     | 50%     |
-| HDD  | 6         | 7      | 37.5%   |
-| NVMe | 2         | 3      | 12.5%   |
+| SSD  | 7         | 9      | 46.67%  |
+| HDD  | 6         | 7      | 40%     |
+| NVMe | 2         | 4      | 13.33%  |
 
 Drive Connector
 ---------------
@@ -764,8 +763,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 11     | 64.29%  |
-| 0.51-1.0   | 5         | 6      | 35.71%  |
+| 0.01-0.5   | 8         | 10     | 61.54%  |
+| 0.51-1.0   | 5         | 6      | 38.46%  |
 
 Space Total
 -----------
@@ -1181,7 +1180,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1509,16 +1508,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                            | Notebooks | Percent |
-|--------------------------------------------------|-----------|---------|
-| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
-| Intel Bluetooth wireless interface               | 2         | 20%     |
-| Toshiba RT Bluetooth Radio                       | 1         | 10%     |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
-| Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
-| Intel AX200 Bluetooth                            | 1         | 10%     |
+| Model                                      | Notebooks | Percent |
+|--------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface         | 2         | 20%     |
+| Intel Bluetooth Device                     | 2         | 20%     |
+| Toshiba RT Bluetooth Radio                 | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth          | 1         | 10%     |
+| Qualcomm Atheros AR3011 Bluetooth          | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 10%     |
+| Intel AX200 Bluetooth                      | 1         | 10%     |
 
 Sound
 -----
@@ -1715,7 +1714,7 @@ Camera device models
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
 | Suyin HP TrueVision HD Integrated Webcam  | 1         | 10%     |
-| Suyin 1.3M Front                          | 1         | 10%     |
+| Suyin 1.3M HD WebCam                      | 1         | 10%     |
 | Microdia Dell Laptop Integrated Webcam HD | 1         | 10%     |
 | Lite-On Integrated Camera                 | 1         | 10%     |
 | Lite-On HP HD Webcam                      | 1         | 10%     |

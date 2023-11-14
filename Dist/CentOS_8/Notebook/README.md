@@ -1067,7 +1067,7 @@ Hard drive models
 | WDC WD10JPCX-24UE4T0 1TB                | 1         | 0.62%   |
 | WDC PC SN520 SDAPMUW-512G-1101 512GB    | 1         | 0.62%   |
 | Unknown SD02G  2GB                      | 1         | 0.62%   |
-| Unknown SD/MMC/MS PRO 128GB             | 1         | 0.62%   |
+| Unknown SD/MMC/MS PRO 16GB              | 1         | 0.62%   |
 | Unknown MMC Card  976MB                 | 1         | 0.62%   |
 | Unknown MMC Card  4GB                   | 1         | 0.62%   |
 | Unknown MMC Card  33GB                  | 1         | 0.62%   |
@@ -1363,25 +1363,25 @@ Storage controller models
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 3         | 2.03%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 3         | 2.03%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 3         | 2.03%   |
-| Union Memory (Shenzhen) AM610 PCIe 3.0 NVMe SSD 128GB                          | 2         | 1.35%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 2         | 1.35%   |
+| Union Memory (Shenzhen) AM610 PCIe 3.0 x2 NVMe SSD 128GB, 256GB                | 2         | 1.35%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 2         | 1.35%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 2         | 1.35%   |
-| Samsung NVMe SSD Controller 980                                                | 2         | 1.35%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 2         | 1.35%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 2         | 1.35%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 2         | 1.35%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                  | 2         | 1.35%   |
 | Intel Atom Processor E3800 Series SATA AHCI Controller                         | 2         | 1.35%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 1.35%   |
-| Union Memory (Shenzhen) AM611 PCIe 3.0 NVMe SSD 256GB                          | 1         | 0.68%   |
+| Union Memory (Shenzhen) AM611 PCIe 3.0 x2 NVMe SSD 256GB                       | 1         | 0.68%   |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                           | 1         | 0.68%   |
 | SK hynix PC401 NVMe Solid State Drive 256GB                                    | 1         | 0.68%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 0.68%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1         | 0.68%   |
-| Shenzhen Longsys Non-Volatile memory controller                                | 1         | 0.68%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.68%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 0.68%   |
+| Shenzhen Longsys FORESEE P900 BGA NVMe SSD (DRAM-less)                         | 1         | 0.68%   |
 | SanDisk PC SN530 NVMe SSD (DRAM-less)                                          | 1         | 0.68%   |
-| SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.68%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                          | 1         | 0.68%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1         | 0.68%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 1         | 0.68%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 0.68%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.68%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1         | 0.68%   |
@@ -1790,26 +1790,26 @@ Monitor models
 | Samsung Electronics SMBX2450 SAM0721 1920x1080 531x299mm 24.0-inch    | 1         | 0.7%    |
 | Samsung Electronics S22B420 SAM0979 1680x1050 473x291mm 21.9-inch     | 1         | 0.7%    |
 | Samsung Electronics LU28R55 SAM1017 3840x2160 632x360mm 28.6-inch     | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.7%    |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch  | 1         | 0.7%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC5341 1366x768 344x193mm 15.5-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC3848 1920x1200 367x230mm 17.1-inch | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC3646 1680x1050 330x210mm 15.4-inch | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC324C 1600x900 310x174mm 14.0-inch  | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC3245 1280x800 331x207mm 15.4-inch  | 1         | 0.7%    |
+| Samsung Electronics LCD Monitor SEC3245 1366x768 344x194mm 15.5-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC3147 1600x900 332x187mm 15.0-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SDC834E 1920x1080 309x174mm 14.0-inch | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SDC364D 1920x1080 309x174mm 14.0-inch | 1         | 0.7%    |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1         | 0.7%    |
 | Philips PHL 278E9Q PHLC17F 1920x1080 598x336mm 27.0-inch              | 1         | 0.7%    |
-| PANDA LCD Monitor NCP0035 1920x1080 344x194mm 15.5-inch               | 1         | 0.7%    |
+| PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 0.7%    |
 | PANDA LCD Monitor NCP002A 1920x1080 344x194mm 15.5-inch               | 1         | 0.7%    |
 | Panasonic TV MEIC122 1280x720 697x392mm 31.5-inch                     | 1         | 0.7%    |
-| Onkyo AV Receiver ONK1151 1920x1080                                   | 1         | 0.7%    |
-| MSI Optix MAG27C MSI1462 1920x1080 598x336mm 27.0-inch                | 1         | 0.7%    |
+| Onkyo AV Receiver ONK1151 1280x720 609x347mm 27.6-inch                | 1         | 0.7%    |
+| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                    | 1         | 0.7%    |
 | LG Display LCD Monitor LGD065A 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
 | LG Display LCD Monitor LGD061C 1920x1080 294x165mm 13.3-inch          | 1         | 0.7%    |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
@@ -1849,7 +1849,7 @@ Diagonal size in inches
 
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
-| 15      | 60        | 42.55%  |
+| 15      | 59        | 41.84%  |
 | 14      | 17        | 12.06%  |
 | 13      | 17        | 12.06%  |
 | 17      | 13        | 9.22%   |
@@ -1857,9 +1857,8 @@ Diagonal size in inches
 | 23      | 5         | 3.55%   |
 | 12      | 5         | 3.55%   |
 | 21      | 4         | 2.84%   |
-| 27      | 2         | 1.42%   |
+| 27      | 3         | 2.13%   |
 | 11      | 2         | 1.42%   |
-| Unknown | 2         | 1.42%   |
 | 42      | 1         | 0.71%   |
 | 40      | 1         | 0.71%   |
 | 34      | 1         | 0.71%   |
@@ -1868,6 +1867,8 @@ Diagonal size in inches
 | 29      | 1         | 0.71%   |
 | 28      | 1         | 0.71%   |
 | 20      | 1         | 0.71%   |
+| 16      | 1         | 0.71%   |
+| Unknown | 1         | 0.71%   |
 
 Monitor Width
 -------------
@@ -1884,11 +1885,11 @@ Physical width
 | 501-600     | 11        | 7.91%   |
 | 201-300     | 10        | 7.19%   |
 | 401-500     | 6         | 4.32%   |
-| 601-700     | 4         | 2.88%   |
+| 601-700     | 5         | 3.6%    |
 | 701-800     | 2         | 1.44%   |
-| Unknown     | 2         | 1.44%   |
 | 801-900     | 1         | 0.72%   |
 | 901-1000    | 1         | 0.72%   |
+| Unknown     | 1         | 0.72%   |
 
 Aspect Ratio
 ------------
@@ -1917,22 +1918,22 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 101-110        | 59        | 41.55%  |
+| 101-110        | 58        | 40.85%  |
 | 81-90          | 32        | 22.54%  |
 | 201-250        | 13        | 9.15%   |
-| 121-130        | 10        | 7.04%   |
+| 121-130        | 11        | 7.75%   |
 | 61-70          | 5         | 3.52%   |
 | 351-500        | 5         | 3.52%   |
+| 301-350        | 3         | 2.11%   |
 | 71-80          | 2         | 1.41%   |
 | 51-60          | 2         | 1.41%   |
-| 301-350        | 2         | 1.41%   |
 | 251-300        | 2         | 1.41%   |
 | 151-200        | 2         | 1.41%   |
 | 141-150        | 2         | 1.41%   |
 | 501-1000       | 2         | 1.41%   |
-| Unknown        | 2         | 1.41%   |
 | 131-140        | 1         | 0.7%    |
 | 91-100         | 1         | 0.7%    |
+| Unknown        | 1         | 0.7%    |
 
 Pixel Density
 -------------
@@ -1946,11 +1947,11 @@ Pixels per inch
 |---------------|-----------|---------|
 | 121-160       | 65        | 47.45%  |
 | 101-120       | 38        | 27.74%  |
-| 51-100        | 23        | 16.79%  |
+| 51-100        | 24        | 17.52%  |
 | More than 240 | 4         | 2.92%   |
 | 161-240       | 4         | 2.92%   |
-| Unknown       | 2         | 1.46%   |
 | 1-50          | 1         | 0.73%   |
+| Unknown       | 1         | 0.73%   |
 
 Multiple Monitors
 -----------------
@@ -2296,12 +2297,12 @@ Controller models
 | Lite-On Broadcom BCM43142A0 Bluetooth Device        | 1         | 1.03%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 1.03%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.03%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 1.03%   |
+| Intel Bluetooth Device                              | 1         | 1.03%   |
 | IMC Networks Bluetooth Device                       | 1         | 1.03%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 1.03%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 1.03%   |
 | Broadcom HP Portable SoftSailing                    | 1         | 1.03%   |
-| Broadcom Bluetooth 3.0 Dongle                       | 1         | 1.03%   |
+| Broadcom Bluetooth 3.0 USB Dongle                   | 1         | 1.03%   |
 | Broadcom BCM20702A0                                 | 1         | 1.03%   |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 1.03%   |
 | Broadcom BCM2045 Bluetooth                          | 1         | 1.03%   |
@@ -2429,7 +2430,7 @@ Memory module models
 | SK hynix RAM HMT851S6AMR6R-PB N0 4GB Chip DDR3 1600MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s     | 1         | 1.61%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMT125S6BFR8C-H9 2GB SODIMM 1333MT/s             | 1         | 1.61%   |
@@ -2438,7 +2439,7 @@ Memory module models
 | SK hynix RAM HMA851S6CJR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.61%   |
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.61%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s        | 1         | 1.61%   |
-| Samsung RAM UBE3D4AA-MGCR 2048MB Row Of Chips LPDDR4 4267MT/s | 1         | 1.61%   |
+| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s    | 1         | 1.61%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.61%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
 | Samsung RAM M471B5273CM0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.61%   |
@@ -2573,18 +2574,18 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 34        | 31.48%  |
 | Microdia                               | 14        | 12.96%  |
-| Bison Electronics                      | 8         | 7.41%   |
+| Bison Electronics                      | 10        | 9.26%   |
 | Realtek Semiconductor                  | 7         | 6.48%   |
 | Lite-On Technology                     | 7         | 6.48%   |
 | IMC Networks                           | 7         | 6.48%   |
 | Sunplus Innovation Technology          | 6         | 5.56%   |
 | Quanta                                 | 4         | 3.7%    |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 3.7%    |
-| Acer                                   | 4         | 3.7%    |
 | Syntek                                 | 2         | 1.85%   |
 | Suyin                                  | 2         | 1.85%   |
 | Silicon Motion                         | 2         | 1.85%   |
 | Microsoft                              | 2         | 1.85%   |
+| Acer                                   | 2         | 1.85%   |
 | Sunplus Technology                     | 1         | 0.93%   |
 | Samsung Electronics                    | 1         | 0.93%   |
 | Logitech                               | 1         | 0.93%   |
@@ -2602,7 +2603,7 @@ Camera device models
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
 | Chicony Integrated Camera               | 7         | 6.48%   |
-| Microdia Integrated_Webcam_HD           | 4         | 3.7%    |
+| Microdia Integrated_Webcam_HD           | 5         | 4.63%   |
 | Lite-On Integrated Camera               | 3         | 2.78%   |
 | Lite-On HP HD Camera                    | 3         | 2.78%   |
 | IMC Networks USB2.0 HD UVC WebCam       | 3         | 2.78%   |
@@ -2612,14 +2613,13 @@ Camera device models
 | Chicony HP TrueVision HD                | 3         | 2.78%   |
 | Chicony HP HD Camera                    | 3         | 2.78%   |
 | Chicony HD WebCam                       | 3         | 2.78%   |
+| Bison Lenovo EasyCamera                 | 3         | 2.78%   |
 | Sunplus Integrated_Webcam_HD            | 2         | 1.85%   |
 | Quanta HP TrueVision HD Camera          | 2         | 1.85%   |
-| Microdia Laptop_Integrated_Webcam_HD    | 2         | 1.85%   |
 | Microdia Laptop_Integrated_Webcam_2M    | 2         | 1.85%   |
 | Chicony HP Webcam [2 MP Macro]          | 2         | 1.85%   |
 | Chicony HP HD Webcam                    | 2         | 1.85%   |
-| Bison Lenovo EasyCamera                 | 2         | 1.85%   |
-| Acer Integrated Camera                  | 2         | 1.85%   |
+| Bison Integrated Camera                 | 2         | 1.85%   |
 | Syntek USB2.0 UVC PC Camera             | 1         | 0.93%   |
 | Syntek Lenovo EasyCamera                | 1         | 0.93%   |
 | Suyin Sony Visual Communication Camera  | 1         | 0.93%   |
@@ -2641,6 +2641,7 @@ Camera device models
 | Realtek EasyCamera                      | 1         | 0.93%   |
 | Quanta HD Webcam                        | 1         | 0.93%   |
 | Quanta HD User Facing                   | 1         | 0.93%   |
+| Microsoft LifeCam VX-500 [1357]         | 1         | 0.93%   |
 
 Security
 --------
@@ -2735,8 +2736,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 60        | 50%     |
-| 1     | 53        | 44.17%  |
+| 0     | 61        | 50.83%  |
+| 1     | 52        | 43.33%  |
 | 2     | 5         | 4.17%   |
 | 6     | 1         | 0.83%   |
 | 3     | 1         | 0.83%   |
@@ -2751,15 +2752,15 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 34        | 48.57%  |
-| Graphics card            | 13        | 18.57%  |
-| Net/wireless             | 6         | 8.57%   |
-| Chipcard                 | 6         | 8.57%   |
-| Multimedia controller    | 4         | 5.71%   |
-| Bluetooth                | 2         | 2.86%   |
-| Storage                  | 1         | 1.43%   |
-| Sound                    | 1         | 1.43%   |
-| Net/ethernet             | 1         | 1.43%   |
-| Communication controller | 1         | 1.43%   |
-| Camera                   | 1         | 1.43%   |
+| Fingerprint reader       | 34        | 49.28%  |
+| Graphics card            | 12        | 17.39%  |
+| Net/wireless             | 6         | 8.7%    |
+| Chipcard                 | 6         | 8.7%    |
+| Multimedia controller    | 4         | 5.8%    |
+| Bluetooth                | 2         | 2.9%    |
+| Storage                  | 1         | 1.45%   |
+| Sound                    | 1         | 1.45%   |
+| Net/ethernet             | 1         | 1.45%   |
+| Communication controller | 1         | 1.45%   |
+| Camera                   | 1         | 1.45%   |
 

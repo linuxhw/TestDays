@@ -736,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 32        | 54.24%  |
-| Yes       | 27        | 45.76%  |
+| No        | 33        | 55.93%  |
+| Yes       | 26        | 44.07%  |
 
 Has Ethernet
 ------------
@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 120GB                   | 1         | 1.49%   |
+| TO Exter nal USB 3.0 2TB                     | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -952,7 +952,7 @@ Hard drive models
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.49%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.49%   |
 | Kingston SA2000M81000G 1TB                   | 1         | 1.49%   |
-| KingSpec NT-256 256GB                        | 1         | 1.49%   |
+| KingSpec NT-256 256GB SSD                    | 1         | 1.49%   |
 
 HDD Vendor
 ----------
@@ -1037,7 +1037,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 49     | 100%    |
+| 0.01-0.5   | 40        | 48     | 97.56%  |
+| 1.01-2.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1166,11 +1167,11 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                             | 2         | 3.33%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                  | 2         | 3.33%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                             | 2         | 3.33%   |
-| Union Memory (Shenzhen) AM610 PCIe 3.0 NVMe SSD 128GB                         | 1         | 1.67%   |
+| Union Memory (Shenzhen) AM610 PCIe 3.0 x2 NVMe SSD 128GB, 256GB               | 1         | 1.67%   |
 | Nvidia MCP51 Serial ATA Controller                                            | 1         | 1.67%   |
 | Nvidia MCP51 IDE                                                              | 1         | 1.67%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo         | 1         | 1.67%   |
-| Kingston Company A2000 NVMe SSD                                               | 1         | 1.67%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                      | 1         | 1.67%   |
 | JMicron JMB363 SATA/IDE Controller                                            | 1         | 1.67%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                            | 1         | 1.67%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                            | 1         | 1.67%   |
@@ -1579,18 +1580,18 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch       | 3         | 5%      |
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                 | 3         | 5%      |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                  | 2         | 3.33%   |
-| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                      | 1         | 1.67%   |
+| Toshiba TV TSB0106 1366x768                                           | 1         | 1.67%   |
 | Sony TV SNY9C01 1360x768                                              | 1         | 1.67%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch               | 1         | 1.67%   |
-| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC3651 1366x768 340x190mm 15.3-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768                      | 1         | 1.67%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                        | 1         | 1.67%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch                | 1         | 1.67%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch           | 1         | 1.67%   |
@@ -1803,8 +1804,8 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 4.12%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 4.12%   |
 | Intel 82567LM Gigabit Network Connection                                | 4         | 4.12%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 3.09%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                   | 3         | 3.09%   |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 3.09%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 3.09%   |
 | Intel Wireless 7260                                                     | 3         | 3.09%   |
 | Intel WiFi Link 5100                                                    | 3         | 3.09%   |
@@ -1869,7 +1870,7 @@ Wireless models
 |-------------------------------------------------------------------------|-----------|---------|
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 7.55%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 7.55%   |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 5.66%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 5.66%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 5.66%   |
 | Intel Wireless 7260                                                     | 3         | 5.66%   |
 | Intel WiFi Link 5100                                                    | 3         | 5.66%   |
@@ -1893,7 +1894,7 @@ Wireless models
 | Intel Ultimate N WiFi Link 5300                                         | 1         | 1.89%   |
 | Intel PRO/Wireless 3945ABG [Golan] Network Connection                   | 1         | 1.89%   |
 | Intel Centrino Wireless-N 2230                                          | 1         | 1.89%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter              | 1         | 1.89%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter    | 1         | 1.89%   |
 | Broadcom BCM43228 802.11a/b/g/n                                         | 1         | 1.89%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                  | 1         | 1.89%   |
 | Broadcom BCM43142 802.11b/g/n                                           | 1         | 1.89%   |
@@ -2289,7 +2290,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Web Camera                          | 6         | 17.14%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 17.14%  |
 | Lenovo UVC Camera                                       | 3         | 8.57%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.71%   |
 | Lite-On Integrated Camera                               | 2         | 5.71%   |
@@ -2299,9 +2300,9 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 2.86%   |
 | Sunplus HD WebCam                                       | 1         | 2.86%   |
 | Realtek WebCamera                                       | 1         | 2.86%   |
+| Realtek USB2.0-Camera                                   | 1         | 2.86%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.86%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.86%   |
-| Realtek 2SF022                                          | 1         | 2.86%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.86%   |
 | Microdia HP Webcam                                      | 1         | 2.86%   |
 | Importek HP Webcam                                      | 1         | 2.86%   |
@@ -2386,9 +2387,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 35        | 58.33%  |
-| 1     | 19        | 31.67%  |
-| 2     | 6         | 10%     |
+| 0     | 36        | 60%     |
+| 1     | 21        | 35%     |
+| 2     | 3         | 5%      |
 
 Unsupported Device Types
 ------------------------
@@ -2400,13 +2401,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 20%     |
-| Graphics card            | 6         | 20%     |
-| Net/wireless             | 5         | 16.67%  |
-| Fingerprint reader       | 5         | 16.67%  |
-| Chipcard                 | 3         | 10%     |
-| Storage                  | 2         | 6.67%   |
-| Storage/ide              | 1         | 3.33%   |
-| Modem                    | 1         | 3.33%   |
-| Communication controller | 1         | 3.33%   |
+| Multimedia controller    | 6         | 23.08%  |
+| Net/wireless             | 5         | 19.23%  |
+| Fingerprint reader       | 5         | 19.23%  |
+| Chipcard                 | 3         | 11.54%  |
+| Storage                  | 2         | 7.69%   |
+| Graphics card            | 2         | 7.69%   |
+| Storage/ide              | 1         | 3.85%   |
+| Modem                    | 1         | 3.85%   |
+| Communication controller | 1         | 3.85%   |
 

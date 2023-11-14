@@ -814,48 +814,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Unknown MMC Card  128GB                             | 2        | 3.51%   |
-| SanDisk NVMe SSD Drive 500GB                        | 2        | 3.51%   |
-| Kingston SA400S37240G 240GB SSD                     | 2        | 3.51%   |
-| WDC WDS100T2B0A-00SM50 1TB SSD                      | 1        | 1.75%   |
-| WDC WD5000AADS-00L4B1 500GB                         | 1        | 1.75%   |
-| WDC WD40EZRZ-00GXCB0 4TB                            | 1        | 1.75%   |
-| WDC WD3200AAKS-75L9A0 320GB                         | 1        | 1.75%   |
-| WDC WD1600AAJS-22PSA0 160GB                         | 1        | 1.75%   |
-| WDC WD10EZEX-00KUWA0 1TB                            | 1        | 1.75%   |
-| Toshiba NVMe SSD Drive 512GB                        | 1        | 1.75%   |
-| Toshiba HDWD130 3TB                                 | 1        | 1.75%   |
-| Toshiba DT01ACA050 500GB                            | 1        | 1.75%   |
-| T-FORCE 1TB                                         | 1        | 1.75%   |
-| SK hynix NVMe SSD Drive 512GB                       | 1        | 1.75%   |
-| Seagate ST9500325AS 500GB                           | 1        | 1.75%   |
-| Seagate ST940210AS 40GB                             | 1        | 1.75%   |
-| Seagate ST500DM002-1BD142 500GB                     | 1        | 1.75%   |
-| Seagate ST3500418AS 500GB                           | 1        | 1.75%   |
-| Seagate ST3320820AS 320GB                           | 1        | 1.75%   |
-| Seagate ST3320620AS 320GB                           | 1        | 1.75%   |
-| Seagate ST31000524AS 1TB                            | 1        | 1.75%   |
-| Seagate ST250DM000-1BD141 250GB                     | 1        | 1.75%   |
-| Seagate ST1000LM035-1RK172 1TB                      | 1        | 1.75%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                  | 1        | 1.75%   |
-| Seagate BarraCuda 120 SSD ZA500CM10003 500GB        | 1        | 1.75%   |
-| SanDisk SSD PLUS 480GB                              | 1        | 1.75%   |
-| SanDisk SSD PLUS 1000GB                             | 1        | 1.75%   |
-| SanDisk SDSSDH3 512G                                | 1        | 1.75%   |
-| Samsung SSD 870 QVO 2TB                             | 1        | 1.75%   |
-| Samsung SSD 860 EVO mSATA 500GB                     | 1        | 1.75%   |
-| Samsung SM963 2.5" NVMe PCIe SSD 250GB              | 1        | 1.75%   |
-| Samsung NVMe SSD Drive 1TB                          | 1        | 1.75%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 1        | 1.75%   |
-| Samsung MZVLB256HAHQ-000L7 256GB                    | 1        | 1.75%   |
-| Samsung MZMPC064HBDR-000L1 64GB SSD                 | 1        | 1.75%   |
-| Patriot Burst 120GB SSD                             | 1        | 1.75%   |
-| Origin Inception TLC830 SSD 120GB                   | 1        | 1.75%   |
-| ORICO CN300-250G                                    | 1        | 1.75%   |
-| Micron/Crucial NVMe SSD Drive 500GB                 | 1        | 1.75%   |
-| Micron Crucial X6 SSD 500GB                         | 1        | 1.75%   |
+| Model                                             | Desktops | Percent |
+|---------------------------------------------------|----------|---------|
+| Unknown MMC Card  128GB                           | 2        | 3.51%   |
+| SanDisk NVMe SSD Drive 500GB                      | 2        | 3.51%   |
+| Kingston SA400S37240G 240GB SSD                   | 2        | 3.51%   |
+| WDC WDS100T2B0A-00SM50 1TB SSD                    | 1        | 1.75%   |
+| WDC WD5000AADS-00L4B1 500GB                       | 1        | 1.75%   |
+| WDC WD40EZRZ-00GXCB0 4TB                          | 1        | 1.75%   |
+| WDC WD3200AAKS-75L9A0 320GB                       | 1        | 1.75%   |
+| WDC WD1600AAJS-22PSA0 160GB                       | 1        | 1.75%   |
+| WDC WD10EZEX-00KUWA0 1TB                          | 1        | 1.75%   |
+| Toshiba NVMe SSD Drive 512GB                      | 1        | 1.75%   |
+| Toshiba HDWD130 3TB                               | 1        | 1.75%   |
+| Toshiba DT01ACA050 500GB                          | 1        | 1.75%   |
+| T-FORCE 1TB                                       | 1        | 1.75%   |
+| SK hynix NVMe SSD Drive 512GB                     | 1        | 1.75%   |
+| Seagate ST9500325AS 500GB                         | 1        | 1.75%   |
+| Seagate ST940210AS 40GB                           | 1        | 1.75%   |
+| Seagate ST500DM002-1BD142 500GB                   | 1        | 1.75%   |
+| Seagate ST3500418AS 500GB                         | 1        | 1.75%   |
+| Seagate ST3320820AS 320GB                         | 1        | 1.75%   |
+| Seagate ST3320620AS 320GB                         | 1        | 1.75%   |
+| Seagate ST31000524AS 1TB                          | 1        | 1.75%   |
+| Seagate ST250DM000-1BD141 250GB                   | 1        | 1.75%   |
+| Seagate ST1000LM035-1RK172 1TB                    | 1        | 1.75%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                | 1        | 1.75%   |
+| Seagate BarraCuda 120 SSD ZA500CM10003 500GB      | 1        | 1.75%   |
+| SanDisk SSD PLUS 480GB                            | 1        | 1.75%   |
+| SanDisk SSD PLUS 1000GB                           | 1        | 1.75%   |
+| SanDisk SDSSDH3 512G                              | 1        | 1.75%   |
+| Samsung SSD 870 QVO 2TB                           | 1        | 1.75%   |
+| Samsung SSD 860 EVO mSATA 500GB                   | 1        | 1.75%   |
+| Samsung SM963 2.5" NVMe PCIe SSD 250GB            | 1        | 1.75%   |
+| Samsung NVMe SSD Drive 1TB                        | 1        | 1.75%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 1        | 1.75%   |
+| Samsung MZVLB256HAHQ-000L7 256GB                  | 1        | 1.75%   |
+| Samsung MZMPC064HBDR-000L1 64GB SSD               | 1        | 1.75%   |
+| Patriot Burst 120GB SSD                           | 1        | 1.75%   |
+| Origin Inception TLC830 SSD 512GB                 | 1        | 1.75%   |
+| ORICO CN300-250G                                  | 1        | 1.75%   |
+| Micron/Crucial NVMe SSD Drive 500GB               | 1        | 1.75%   |
+| Micron Crucial X6 SSD 500GB                       | 1        | 1.75%   |
 
 HDD Vendor
 ----------
@@ -883,22 +883,21 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| SanDisk             | 3        | 3      | 12.5%   |
-| Samsung Electronics | 3        | 3      | 12.5%   |
-| Kingston            | 3        | 4      | 12.5%   |
-| Crucial             | 3        | 3      | 12.5%   |
-| WDC                 | 1        | 1      | 4.17%   |
-| Seagate             | 1        | 1      | 4.17%   |
-| Patriot             | 1        | 1      | 4.17%   |
-| Origin              | 1        | 1      | 4.17%   |
-| Micron Technology   | 1        | 1      | 4.17%   |
-| LITEONIT            | 1        | 1      | 4.17%   |
-| Leven               | 1        | 1      | 4.17%   |
-| JMicron Technology  | 1        | 1      | 4.17%   |
-| Intenso             | 1        | 1      | 4.17%   |
-| China               | 1        | 1      | 4.17%   |
-| ASMT                | 1        | 1      | 4.17%   |
-| A-DATA Technology   | 1        | 1      | 4.17%   |
+| SanDisk             | 3        | 3      | 13.04%  |
+| Samsung Electronics | 3        | 3      | 13.04%  |
+| Kingston            | 3        | 4      | 13.04%  |
+| Crucial             | 3        | 3      | 13.04%  |
+| WDC                 | 1        | 1      | 4.35%   |
+| Seagate             | 1        | 1      | 4.35%   |
+| Patriot             | 1        | 1      | 4.35%   |
+| Origin              | 1        | 1      | 4.35%   |
+| Micron Technology   | 1        | 1      | 4.35%   |
+| LITEONIT            | 1        | 1      | 4.35%   |
+| Leven               | 1        | 1      | 4.35%   |
+| Intenso             | 1        | 1      | 4.35%   |
+| China               | 1        | 1      | 4.35%   |
+| ASMT                | 1        | 1      | 4.35%   |
+| A-DATA Technology   | 1        | 1      | 4.35%   |
 
 Drive Kind
 ----------
@@ -910,9 +909,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 18       | 25     | 41.86%  |
+| SSD     | 17       | 24     | 39.53%  |
 | HDD     | 15       | 23     | 34.88%  |
-| NVMe    | 6        | 9      | 13.95%  |
+| NVMe    | 7        | 10     | 16.28%  |
 | MMC     | 2        | 2      | 4.65%   |
 | Unknown | 2        | 2      | 4.65%   |
 
@@ -941,11 +940,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 21       | 32     | 60%     |
+| 0.01-0.5   | 20       | 30     | 57.14%  |
 | 0.51-1.0   | 11       | 13     | 31.43%  |
+| 1.01-2.0   | 2        | 2      | 5.71%   |
 | 3.01-4.0   | 1        | 1      | 2.86%   |
 | 2.01-3.0   | 1        | 1      | 2.86%   |
-| 1.01-2.0   | 1        | 1      | 2.86%   |
 
 Space Total
 -----------
@@ -1105,7 +1104,7 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                         | 2        | 4.08%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1        | 2.04%   |
 | SK hynix PC400 NVMe SSD                                                        | 1        | 2.04%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1        | 2.04%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1        | 2.04%   |
 | SanDisk PC SN735 NVMe SSD (DRAM-less)                                          | 1        | 2.04%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1        | 2.04%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 1        | 2.04%   |

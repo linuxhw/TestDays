@@ -1313,7 +1313,7 @@ Hard drive models
 | WDC WD20EZRZ-22Z5HB0 2TB         | 2        | 0.41%   |
 | WDC WD20EARX-00PASB0 2TB         | 2        | 0.41%   |
 | WDC WD10EARX-00N0YB0 1TB         | 2        | 0.41%   |
-| Unknown SD/MMC/MS PRO 128GB      | 2        | 0.41%   |
+| Unknown SD/MMC/MS PRO 16GB       | 2        | 0.41%   |
 | Toshiba HDWD110 1TB              | 2        | 0.41%   |
 | Seagate ST3500413AS 500GB        | 2        | 0.41%   |
 
@@ -1348,17 +1348,17 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 27       | 44     | 20.15%  |
-| Kingston            | 26       | 31     | 19.4%   |
-| SanDisk             | 16       | 19     | 11.94%  |
-| WDC                 | 13       | 21     | 9.7%    |
-| Crucial             | 13       | 19     | 9.7%    |
-| Intel               | 6        | 8      | 4.48%   |
-| A-DATA Technology   | 6        | 6      | 4.48%   |
-| PNY                 | 3        | 4      | 2.24%   |
-| Patriot             | 2        | 4      | 1.49%   |
-| Intenso             | 2        | 2      | 1.49%   |
-| Apacer              | 2        | 2      | 1.49%   |
+| Samsung Electronics | 27       | 44     | 20.3%   |
+| Kingston            | 26       | 31     | 19.55%  |
+| SanDisk             | 16       | 19     | 12.03%  |
+| WDC                 | 13       | 21     | 9.77%   |
+| Crucial             | 13       | 19     | 9.77%   |
+| Intel               | 6        | 8      | 4.51%   |
+| A-DATA Technology   | 6        | 6      | 4.51%   |
+| PNY                 | 3        | 4      | 2.26%   |
+| Patriot             | 2        | 4      | 1.5%    |
+| Intenso             | 2        | 2      | 1.5%    |
+| Apacer              | 2        | 2      | 1.5%    |
 | Transcend           | 1        | 1      | 0.75%   |
 | TO Exter            | 1        | 1      | 0.75%   |
 | SMI                 | 1        | 1      | 0.75%   |
@@ -1370,7 +1370,6 @@ Solid state drive vendors
 | Lexar               | 1        | 1      | 0.75%   |
 | Leven               | 1        | 1      | 0.75%   |
 | LDLC                | 1        | 1      | 0.75%   |
-| JMicron Technology  | 1        | 2      | 0.75%   |
 | Emtec               | 1        | 1      | 0.75%   |
 | China               | 1        | 1      | 0.75%   |
 | ASMT                | 1        | 2      | 0.75%   |
@@ -1389,8 +1388,8 @@ HDD or SSD
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | HDD     | 205      | 364    | 56.32%  |
-| SSD     | 114      | 182    | 31.32%  |
-| NVMe    | 41       | 63     | 11.26%  |
+| SSD     | 114      | 180    | 31.32%  |
+| NVMe    | 41       | 65     | 11.26%  |
 | Unknown | 3        | 3      | 0.82%   |
 | MMC     | 1        | 1      | 0.27%   |
 
@@ -1419,13 +1418,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 199      | 310    | 56.7%   |
-| 0.51-1.0   | 78       | 118    | 22.22%  |
-| 1.01-2.0   | 41       | 56     | 11.68%  |
-| 3.01-4.0   | 13       | 20     | 3.7%    |
-| 4.01-10.0  | 11       | 26     | 3.13%   |
-| 2.01-3.0   | 7        | 14     | 1.99%   |
-| 10.01-20.0 | 2        | 2      | 0.57%   |
+| 0.01-0.5   | 198      | 306    | 56.57%  |
+| 0.51-1.0   | 77       | 116    | 22%     |
+| 1.01-2.0   | 43       | 60     | 12.29%  |
+| 3.01-4.0   | 13       | 20     | 3.71%   |
+| 4.01-10.0  | 11       | 26     | 3.14%   |
+| 2.01-3.0   | 7        | 15     | 2%      |
+| 10.01-20.0 | 1        | 1      | 0.29%   |
 
 Space Total
 -----------
@@ -1489,7 +1488,7 @@ Drive models with a malfunction
 | WDC WD40EFAX-68JH4N0 4TB              | 1        | 2      | 1.72%   |
 | WDC WD2500YS-01SHB1 256GB             | 1        | 1      | 1.72%   |
 | WDC WD2500AAKX-75U6AA0 250GB          | 1        | 1      | 1.72%   |
-| WDC WD2500AAJS-75M0A0 250GB           | 1        | 1      | 1.72%   |
+| WDC WD2500AAJS-75M0A0 249GB           | 1        | 1      | 1.72%   |
 | WDC WD20EZRZ-00Z5HB0 2TB              | 1        | 1      | 1.72%   |
 | WDC WD1600AAJS-75M0A0 160GB           | 1        | 2      | 1.72%   |
 | WDC WD15EADS-00P8B0 1TB               | 1        | 1      | 1.72%   |
@@ -1681,7 +1680,7 @@ Storage controller models
 | Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                              | 3        | 0.68%   |
 | VIA VT6415 PATA IDE Host Controller                                                     | 2        | 0.45%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                           | 2        | 0.45%   |
-| Samsung NVMe SSD Controller 980                                                         | 2        | 0.45%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                             | 2        | 0.45%   |
 | Phison E12 NVMe Controller                                                              | 2        | 0.45%   |
 | Marvell Group 88SE9172 SATA III 6Gb/s RAID Controller                                   | 2        | 0.45%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                            | 2        | 0.45%   |
@@ -2159,7 +2158,7 @@ Monitor models
 | ViewSonic VA703-4SERIES VSC6A1E 1280x1024 338x270mm 17.0-inch        | 4        | 1.34%   |
 | Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                     | 3        | 1.01%   |
 | Dell 1708FP DEL4024 1280x1024 338x270mm 17.0-inch                    | 3        | 1.01%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch   | 2        | 0.67%   |
+| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                     | 2        | 0.67%   |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 2        | 0.67%   |
 | Samsung Electronics LCD Monitor SAM03BC 1920x1080                    | 2        | 0.67%   |
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch    | 2        | 0.67%   |
@@ -2188,7 +2187,7 @@ Monitor models
 | Unknown LCD Monitor ELE E4SW5017RKU                                  | 1        | 0.34%   |
 | Unknown LCD Monitor CHHWJT 1920x1080                                 | 1        | 0.34%   |
 | Toshiba TV TSB2017 3840x2160                                         | 1        | 0.34%   |
-| Toshiba 50UHD_LCD_TV TSB3700 3840x2160 1872x1053mm 84.6-inch         | 1        | 0.34%   |
+| Toshiba 24W_LCD_TV TSB3700 1920x1080 706x398mm 31.9-inch             | 1        | 0.34%   |
 | Targa LCD Monitor LCDTV16                                            | 1        | 0.34%   |
 | STD Monitor STD0001 1920x1080                                        | 1        | 0.34%   |
 | Sony TV SNYEE01 1920x1080                                            | 1        | 0.34%   |
@@ -2242,10 +2241,10 @@ Diagonal size in inches
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
 | 17      | 52       | 18.64%  |
+| 24      | 32       | 11.47%  |
 | Unknown | 32       | 11.47%  |
-| 24      | 31       | 11.11%  |
-| 23      | 25       | 8.96%   |
 | 21      | 25       | 8.96%   |
+| 23      | 24       | 8.6%    |
 | 27      | 21       | 7.53%   |
 | 18      | 19       | 6.81%   |
 | 19      | 13       | 4.66%   |
@@ -2438,7 +2437,6 @@ Controller models
 | Broadcom Limited NetLink BCM5787 Gigabit Ethernet PCI Express     | 3        | 0.76%   |
 | ASIX AX88179 Gigabit Ethernet                                     | 3        | 0.76%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 2        | 0.51%   |
-| TP-Link 802.11n NIC                                               | 2        | 0.51%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                   | 2        | 0.51%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                   | 2        | 0.51%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 2        | 0.51%   |
@@ -2450,6 +2448,7 @@ Controller models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 2        | 0.51%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 2        | 0.51%   |
 | Intel Wireless-AC 9260                                            | 2        | 0.51%   |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 2        | 0.51%   |
 
 Wireless Vendor
 ---------------
@@ -2496,7 +2495,6 @@ Wireless models
 | Intel Wireless 7260                                                | 3        | 3.26%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                   | 3        | 3.26%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                        | 2        | 2.17%   |
-| TP-Link 802.11n NIC                                                | 2        | 2.17%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                    | 2        | 2.17%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                    | 2        | 2.17%   |
 | Ralink RT5370 Wireless Adapter                                     | 2        | 2.17%   |
@@ -2511,6 +2509,8 @@ Wireless models
 | Xiaomi MediaTek MT7601U [MI WiFi]                                  | 1        | 1.09%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                       | 1        | 1.09%   |
 | TP-Link RTL8812AU Archer T4U 802.11ac                              | 1        | 1.09%   |
+| TP-Link Archer T4U v2 [Realtek RTL8812AU]                          | 1        | 1.09%   |
+| TP-Link 802.11n NIC                                                | 1        | 1.09%   |
 | TP-Link 802.11ac WLAN Adapter                                      | 1        | 1.09%   |
 | Sitecom Europe 802.11n WLAN Adapter                                | 1        | 1.09%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                    | 1        | 1.09%   |
@@ -2528,7 +2528,6 @@ Wireless models
 | Ralink RT5572 Wireless Adapter                                     | 1        | 1.09%   |
 | Ralink RT2870/RT3070 Wireless Adapter                              | 1        | 1.09%   |
 | Ralink RT5360 Wireless 802.11n 1T/1R                               | 1        | 1.09%   |
-| Ralink RT3062 Wireless 802.11n 2T/2R                               | 1        | 1.09%   |
 
 Ethernet Vendor
 ---------------
@@ -2739,10 +2738,10 @@ Sound card vendors
 | Razer USA                            | 2        | 0.49%   |
 | Kingston Technology                  | 2        | 0.49%   |
 | JMTek                                | 2        | 0.49%   |
+| Jieli Technology                     | 2        | 0.49%   |
 | Generalplus Technology               | 2        | 0.49%   |
 | Creative Labs                        | 2        | 0.49%   |
 | Corsair                              | 2        | 0.49%   |
-| BR23                                 | 2        | 0.49%   |
 | XMOS                                 | 1        | 0.25%   |
 | Thesycon Systemsoftware & Consulting | 1        | 0.25%   |
 | Realtek Semiconductor                | 1        | 0.25%   |
@@ -2875,7 +2874,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 667MT/s               | 2        | 0.87%   |
 | Unknown RAM Module 1024MB DIMM SDRAM                      | 2        | 0.87%   |
 | Unknown RAM Module 1024MB DIMM DDR 533MT/s                | 2        | 0.87%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s        | 2        | 0.87%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s       | 2        | 0.87%   |
 | Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s       | 2        | 0.87%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s     | 2        | 0.87%   |
 | Kingston RAM 2G-UDIMM 2GB DIMM DDR2 800MT/s               | 2        | 0.87%   |
@@ -3120,9 +3119,9 @@ Camera device models
 |----------------------------------------------|----------|---------|
 | Logitech Webcam C270                         | 7        | 21.88%  |
 | Microdia USB 2.0 Camera                      | 2        | 6.25%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR           | 2        | 6.25%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X              | 2        | 6.25%   |
 | Z-Star Venus USB2.0 Camera                   | 1        | 3.13%   |
-| Sunplus Integrated_Webcam_HD                 | 1        | 3.13%   |
+| Sunplus MTD Camera                           | 1        | 3.13%   |
 | Microsoft LifeCam VX-2000                    | 1        | 3.13%   |
 | Microsoft LifeCam HD-3000                    | 1        | 3.13%   |
 | Microdia Integrated Camera                   | 1        | 3.13%   |
@@ -3141,7 +3140,7 @@ Camera device models
 | Chicony Gateway Webcam                       | 1        | 3.13%   |
 | Aveo UVC camera (Bresser microscope)         | 1        | 3.13%   |
 | ARC International Camera                     | 1        | 3.13%   |
-| Alcor Micro USB 2.0 Web Camera               | 1        | 3.13%   |
+| Alcor Micro USB 2.0 Camera                   | 1        | 3.13%   |
 
 Security
 --------
@@ -3197,8 +3196,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 232      | 87.22%  |
-| 1     | 28       | 10.53%  |
+| 0     | 234      | 87.97%  |
+| 1     | 26       | 9.77%   |
 | 2     | 5        | 1.88%   |
 | 4     | 1        | 0.38%   |
 
@@ -3212,15 +3211,15 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 15       | 38.46%  |
-| Communication controller | 6        | 15.38%  |
-| Net/wireless             | 4        | 10.26%  |
-| Unassigned class         | 3        | 7.69%   |
-| Network                  | 3        | 7.69%   |
-| Sound                    | 2        | 5.13%   |
-| Multimedia controller    | 2        | 5.13%   |
-| Tv card                  | 1        | 2.56%   |
-| Storage/ata              | 1        | 2.56%   |
-| Net/ethernet             | 1        | 2.56%   |
-| Firewire controller      | 1        | 2.56%   |
+| Graphics card            | 13       | 35.14%  |
+| Communication controller | 6        | 16.22%  |
+| Net/wireless             | 4        | 10.81%  |
+| Unassigned class         | 3        | 8.11%   |
+| Network                  | 3        | 8.11%   |
+| Sound                    | 2        | 5.41%   |
+| Multimedia controller    | 2        | 5.41%   |
+| Tv card                  | 1        | 2.7%    |
+| Storage/ata              | 1        | 2.7%    |
+| Net/ethernet             | 1        | 2.7%    |
+| Firewire controller      | 1        | 2.7%    |
 

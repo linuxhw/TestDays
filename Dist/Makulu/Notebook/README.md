@@ -620,8 +620,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 10        | 50%     |
-| No        | 10        | 50%     |
+| No        | 11        | 55%     |
+| Yes       | 9         | 45%     |
 
 Has Ethernet
 ------------
@@ -760,11 +760,11 @@ Hard drive models
 | Toshiba MQ01ABD100 1TB               | 2         | 7.41%   |
 | Seagate ST500LT012-1DG142 500GB      | 2         | 7.41%   |
 | WDC WD10SPZX-60Z10T0 1TB             | 1         | 3.7%    |
-| Unknown SD/MMC/MS PRO 128GB          | 1         | 3.7%    |
+| Unknown SD/MMC/MS PRO 16GB           | 1         | 3.7%    |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 3.7%    |
 | Toshiba MQ01ABF050M 500GB            | 1         | 3.7%    |
 | Seagate ST9320325AS 320GB            | 1         | 3.7%    |
-| Seagate Expansion Desk 8TB           | 1         | 3.7%    |
+| Seagate Expansion Desk 3TB           | 1         | 3.7%    |
 | SanDisk SSD U110 128GB               | 1         | 3.7%    |
 | SanDisk SSD PLUS 1000GB              | 1         | 3.7%    |
 | SanDisk SD9SN8W-128G-1006 128GB SSD  | 1         | 3.7%    |
@@ -859,8 +859,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 12        | 18     | 63.16%  |
 | 0.51-1.0   | 5         | 5      | 26.32%  |
+| 2.01-3.0   | 1         | 1      | 5.26%   |
 | 1.01-2.0   | 1         | 1      | 5.26%   |
-| 4.01-10.0  | 1         | 1      | 5.26%   |
 
 Space Total
 -----------
@@ -985,10 +985,10 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                            | 5         | 22.73%  |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 2         | 9.09%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 2         | 9.09%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 1         | 4.55%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                          | 1         | 4.55%   |
 | Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                             | 1         | 4.55%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 4.55%   |
-| Lite-On Non-Volatile memory controller                                         | 1         | 4.55%   |
+| Lite-On CB1-SD256, CB1-SD512 NVMe SSD                                          | 1         | 4.55%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 1         | 4.55%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 4.55%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1         | 4.55%   |
@@ -1313,10 +1313,10 @@ Monitor models
 | LG Display LCD Monitor LGD03E5 1366x768 309x174mm 14.0-inch              | 1         | 4.76%   |
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 4.76%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 4.76%   |
-| Chimei Innolux P130ZDZ-EF1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 4.76%   |
+| Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 4.76%   |
 | Chimei Innolux LCD Monitor CMN1746 1600x900 382x214mm 17.2-inch          | 1         | 4.76%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 4.76%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 4.76%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 4.76%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 4.76%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 4.76%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 4.76%   |
@@ -1352,11 +1352,12 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 15     | 10        | 47.62%  |
+| 15     | 9         | 42.86%  |
 | 13     | 4         | 19.05%  |
 | 14     | 3         | 14.29%  |
 | 17     | 2         | 9.52%   |
 | 38     | 1         | 4.76%   |
+| 16     | 1         | 4.76%   |
 | 11     | 1         | 4.76%   |
 
 Monitor Width
@@ -1398,9 +1399,9 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 101-110        | 10        | 47.62%  |
+| 101-110        | 9         | 42.86%  |
 | 81-90          | 6         | 28.57%  |
-| 121-130        | 2         | 9.52%   |
+| 121-130        | 3         | 14.29%  |
 | 71-80          | 1         | 4.76%   |
 | 51-60          | 1         | 4.76%   |
 | 501-1000       | 1         | 4.76%   |
@@ -1497,8 +1498,8 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                | 1         | 2.56%   |
 | D-Link DWA-140 RangeBooster N Adapter(rev.B3) [Ralink RT5372]                        | 1         | 2.56%   |
 | Broadcom Limited NetLink BCM5906M Fast Ethernet PCI Express                          | 1         | 2.56%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                           | 1         | 2.56%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                                   | 1         | 2.56%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter                 | 1         | 2.56%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter                         | 1         | 2.56%   |
 | Broadcom BCM43142 802.11b/g/n                                                        | 1         | 2.56%   |
 
 Wireless Vendor
@@ -1549,8 +1550,8 @@ Wireless models
 | Intel Centrino Ultimate-N 6300                                                       | 1         | 4.17%   |
 | Intel Centrino Advanced-N 6235                                                       | 1         | 4.17%   |
 | D-Link DWA-140 RangeBooster N Adapter(rev.B3) [Ralink RT5372]                        | 1         | 4.17%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter                           | 1         | 4.17%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                                   | 1         | 4.17%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter                 | 1         | 4.17%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter                         | 1         | 4.17%   |
 | Broadcom BCM43142 802.11b/g/n                                                        | 1         | 4.17%   |
 
 Ethernet Vendor

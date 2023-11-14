@@ -667,13 +667,13 @@ Motherboard manufacture year
 | 2011 | 10       | 18.18%  |
 | 2012 | 8        | 14.55%  |
 | 2008 | 8        | 14.55%  |
-| 2010 | 6        | 10.91%  |
+| 2010 | 5        | 9.09%   |
 | 2007 | 4        | 7.27%   |
 | 2021 | 3        | 5.45%   |
 | 2018 | 3        | 5.45%   |
+| 2009 | 3        | 5.45%   |
 | 2020 | 2        | 3.64%   |
 | 2015 | 2        | 3.64%   |
-| 2009 | 2        | 3.64%   |
 | 2023 | 1        | 1.82%   |
 | 2022 | 1        | 1.82%   |
 | 2019 | 1        | 1.82%   |
@@ -970,7 +970,7 @@ Hard drive models
 | WDC WD800JD-60LSA0 80GB                | 1        | 1.15%   |
 | WDC WD5000AAKX-003CA0 500GB            | 1        | 1.15%   |
 | WDC WD5000AAKS-60WWPA0 500GB           | 1        | 1.15%   |
-| WDC WD5000AADS-56S9B0 500GB            | 1        | 1.15%   |
+| WDC WD5000AADS-56S9B0 499GB            | 1        | 1.15%   |
 | WDC WD5000AADS-00S9B0 500GB            | 1        | 1.15%   |
 | WDC WD5000AACS-00G8B1 500GB            | 1        | 1.15%   |
 | WDC WD20PURX-64PFUY0 2TB               | 1        | 1.15%   |
@@ -1151,7 +1151,7 @@ Drive models with a malfunction
 | Maxtor 6Y250M0 256GB          | 1        | 1      | 8.33%   |
 | Maxtor 6V300F0 304GB          | 1        | 3      | 8.33%   |
 | Hitachi HDS722020ALA330 2TB   | 1        | 1      | 8.33%   |
-| Hitachi HDS721616PLA380 160GB | 1        | 1      | 8.33%   |
+| Hitachi HDS721616PLA380 164GB | 1        | 1      | 8.33%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1283,7 +1283,7 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                                  | 2        | 2.2%    |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                                    | 1        | 1.1%    |
 | Silicon Image SiI 3132 Serial ATA Raid II Controller                                    | 1        | 1.1%    |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 1.1%    |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD                    | 1        | 1.1%    |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 1        | 1.1%    |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.1%    |
 | Phison E16 PCIe4 NVMe Controller                                                        | 1        | 1.1%    |
@@ -1299,7 +1299,7 @@ Storage controller models
 | Marvell Group 88SE912x IDE Controller                                                   | 1        | 1.1%    |
 | Marvell Group 88SE9123 PCIe SATA 6.0 Gb/s controller                                    | 1        | 1.1%    |
 | LSI Logic / Symbios Logic 53c1030 PCI-X Fusion-MPT Dual Ultra320 SCSI                   | 1        | 1.1%    |
-| Kingston Company NVMe Controller                                                        | 1        | 1.1%    |
+| Kingston Company NV1 NVMe SSD SM2263XT                                                  | 1        | 1.1%    |
 | JMicron JMB368 IDE controller                                                           | 1        | 1.1%    |
 | Intel SATA Controller [RAID mode]                                                       | 1        | 1.1%    |
 
@@ -1711,7 +1711,7 @@ Monitor models
 | ViewSonic LCD Monitor VP2365WB 1920x1080                             | 1        | 1.64%   |
 | Toshiba L705A LCD705A 1280x1024 340x270mm 17.1-inch                  | 1        | 1.64%   |
 | Sony TV SNYDC01 1360x768                                             | 1        | 1.64%   |
-| Sony TV SNY3002 1920x1080 710x400mm 32.1-inch                        | 1        | 1.64%   |
+| Sony TV SNY3002 1920x1080 886x498mm 40.0-inch                        | 1        | 1.64%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch    | 1        | 1.64%   |
 | Samsung Electronics SyncMaster SAM055A 1920x1200 518x324mm 24.1-inch | 1        | 1.64%   |
 | Samsung Electronics SyncMaster SAM0426 1920x1200                     | 1        | 1.64%   |
@@ -1733,12 +1733,12 @@ Monitor models
 | MSI G271 MSI3CB5 1920x1080 598x336mm 27.0-inch                       | 1        | 1.64%   |
 | Hitachi N91W DVI HIT6D0D 1440x900 410x260mm 19.1-inch                | 1        | 1.64%   |
 | Hewlett-Packard w17e HWP26E0 1440x900 408x255mm 18.9-inch            | 1        | 1.64%   |
-| Hewlett-Packard vs17e HWP2647 1280x1024 337x270mm 17.0-inch          | 1        | 1.64%   |
+| Hewlett-Packard vs17 HWP2647 1280x1024 340x270mm 17.1-inch           | 1        | 1.64%   |
 | Hewlett-Packard V214a HPN3490 1920x1080 458x258mm 20.7-inch          | 1        | 1.64%   |
 | Hewlett-Packard V214a HPN348C 1920x1080 458x258mm 20.7-inch          | 1        | 1.64%   |
 | Hewlett-Packard P201 HWP3056 1600x900 443x249mm 20.0-inch            | 1        | 1.64%   |
 | Hewlett-Packard LV2311 HWP3006 1920x1080 510x287mm 23.0-inch         | 1        | 1.64%   |
-| Hewlett-Packard LCD Monitor HWP285A 1920x1080 470x270mm 21.3-inch    | 1        | 1.64%   |
+| Hewlett-Packard LA1951 HWP285A 1280x1024 380x300mm 19.1-inch         | 1        | 1.64%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch          | 1        | 1.64%   |
 | Hewlett-Packard f1503 HWP2590 1024x768 304x228mm 15.0-inch           | 1        | 1.64%   |
 | Hewlett-Packard All-in-One HWP4211 1920x1080 509x286mm 23.0-inch     | 1        | 1.64%   |
@@ -1938,9 +1938,9 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 4        | 4.26%   |
 | Ralink MT7601U Wireless Adapter                                                               | 3        | 3.19%   |
 | Intel 82566DM-2 Gigabit Network Connection                                                    | 2        | 2.13%   |
-| ZTE WCDMA MSM ZTE Blade A31                                                                   | 1        | 1.06%   |
+| ZTE WCDMA MSM Unisoc Phone                                                                    | 1        | 1.06%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 1.06%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                         | 1        | 1.06%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 1.06%   |
 | TP-Link TL-WN8200ND [Realtek RTL8192CU]                                                       | 1        | 1.06%   |
 | Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY                    | 1        | 1.06%   |
 | Sitecom Europe RTL8188S WLAN Adapter                                                          | 1        | 1.06%   |
@@ -2013,7 +2013,7 @@ Wireless models
 |--------------------------------------------------------------------------------------------------------|----------|---------|
 | Ralink MT7601U Wireless Adapter                                                                        | 3        | 9.09%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                            | 1        | 3.03%   |
-| TP-Link TL-WN821N Version 5 RTL8192EU                                                                  | 1        | 3.03%   |
+| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                                    | 1        | 3.03%   |
 | TP-Link TL-WN8200ND [Realtek RTL8192CU]                                                                | 1        | 3.03%   |
 | Sitecom Europe RTL8188S WLAN Adapter                                                                   | 1        | 3.03%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                               | 1        | 3.03%   |
@@ -2079,7 +2079,7 @@ Ethernet models
 | Realtek RTL810xE PCI Express Fast Ethernet controller                         | 4        | 6.56%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                         | 4        | 6.56%   |
 | Intel 82566DM-2 Gigabit Network Connection                                    | 2        | 3.28%   |
-| ZTE WCDMA MSM ZTE Blade A31                                                   | 1        | 1.64%   |
+| ZTE WCDMA MSM Unisoc Phone                                                    | 1        | 1.64%   |
 | Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY    | 1        | 1.64%   |
 | Samsung Galaxy series, misc. (tethering mode)                                 | 1        | 1.64%   |
 | Realtek RTL8125 2.5GbE Controller                                             | 1        | 1.64%   |
@@ -2330,7 +2330,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM SDRAM                           | 1        | 1.75%   |
 | Unknown RAM Module 1024MB DIMM DDR2                            | 1        | 1.75%   |
 | Unknown RAM Module 1024MB DIMM DDR 133MT/s                     | 1        | 1.75%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 1        | 1.75%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.75%   |
 | Unknown (0x7F61) RAM Module 1GB FB-DIMM DDR2 667MT/s           | 1        | 1.75%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 1.75%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 1.75%   |
@@ -2339,7 +2339,7 @@ Memory module models
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s           | 1        | 1.75%   |
 | SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s           | 1        | 1.75%   |
 | Samsung RAM Module 4GB DIMM DDR3 1067MT/s                      | 1        | 1.75%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s            | 1        | 1.75%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s                 | 1        | 1.75%   |
 | Samsung RAM M378B2873FH0-CH9 1GB DIMM DDR3 1333MT/s            | 1        | 1.75%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 1.75%   |
 | Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 1.75%   |
@@ -2351,7 +2351,7 @@ Memory module models
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB DIMM DDR3 1600MT/s            | 1        | 1.75%   |
 | Kingston RAM Module 1GB DIMM DDR2 667MT/s                      | 1        | 1.75%   |
 | Kingston RAM Module 1024MB DIMM DDR2 800MT/s                   | 1        | 1.75%   |
-| Kingston RAM KTW149-ELD 1024MB DIMM DDR3 1333MT/s              | 1        | 1.75%   |
+| Kingston RAM KTW149-ELD 1GB DIMM DDR3 1333MT/s                 | 1        | 1.75%   |
 
 Memory Kind
 -----------
@@ -2515,7 +2515,7 @@ Camera device models
 | Jieli USB PHY 2.0                                   | 1        | 11.11%  |
 | Hopewin Electronic Material Integrated RGB Camera   | 1        | 11.11%  |
 | HP Webcam HD 2300                                   | 1        | 11.11%  |
-| Generalplus CAMERA - UVC                            | 1        | 11.11%  |
+| Generalplus GENERAL WEBCAM                          | 1        | 11.11%  |
 | Chicony HP Webcam                                   | 1        | 11.11%  |
 
 Security

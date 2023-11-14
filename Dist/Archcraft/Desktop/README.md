@@ -745,47 +745,47 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 2        | 5%      |
-| WDC WD5000AAKX-75U6AA0 500GB                        | 1        | 2.5%    |
-| WDC WD5000AAKX-60U6AA0 500GB                        | 1        | 2.5%    |
-| WDC WD5000AAKX-08U6AA0 500GB                        | 1        | 2.5%    |
-| WDC WD3200BPVT-22JJ5T0 320GB                        | 1        | 2.5%    |
-| WDC WD20 EARX-00PASB0 2TB                           | 1        | 2.5%    |
-| WDC WD10EZEX-22RKKA0 1TB                            | 1        | 2.5%    |
-| WDC WD10EZEX-21M2NA0 1TB                            | 1        | 2.5%    |
-| WDC WD10EARS-00MVWB0 1TB                            | 1        | 2.5%    |
-| Toshiba DT01ACA200 2TB                              | 1        | 2.5%    |
-| Toshiba DT01ACA100 1TB                              | 1        | 2.5%    |
-| Seagate ST6000DM003-2CY186 6TB                      | 1        | 2.5%    |
-| Seagate ST3500410AS 500GB                           | 1        | 2.5%    |
-| Seagate ST320LM001 HN-M320MBB 320GB                 | 1        | 2.5%    |
-| Seagate ST3160815AS 160GB                           | 1        | 2.5%    |
-| Seagate ST31500341AS 1TB                            | 1        | 2.5%    |
-| Seagate ST2000DM 008-2FR102 2TB                     | 1        | 2.5%    |
-| Seagate ST1000DM010-2EP102 1TB                      | 1        | 2.5%    |
-| Seagate Expansion Desk 8TB                          | 1        | 2.5%    |
-| Sandisk WD_BLACK SN770 1TB                          | 1        | 2.5%    |
-| SanDisk SDSSDA240G 240GB                            | 1        | 2.5%    |
-| Samsung SSD 970 EVO Plus 1TB                        | 1        | 2.5%    |
-| ROG ESD-S1C 1024GB                                  | 1        | 2.5%    |
-| Phison E16 PCIe4 NVMe Controller 500GB              | 1        | 2.5%    |
-| Phison E12 NVMe Controller 2TB                      | 1        | 2.5%    |
-| Patriot Burst 120GB SSD                             | 1        | 2.5%    |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 1        | 2.5%    |
-| Kingston SFYRS500G 500GB                            | 1        | 2.5%    |
-| Kingston SA400M8240G 240GB SSD                      | 1        | 2.5%    |
-| Intel SSDSC2KW256G8 256GB                           | 1        | 2.5%    |
-| Intel SSDPE21D480GA 480GB                           | 1        | 2.5%    |
-| Hitachi HTS547550A9E384 500GB                       | 1        | 2.5%    |
-| Hitachi HTS545050A7E380 500GB                       | 1        | 2.5%    |
-| Hitachi HDS721010CLA332 1TB                         | 1        | 2.5%    |
-| Crucial M4-CT064M4SSD2 64GB                         | 1        | 2.5%    |
-| China SATA SSD 512GB                                | 1        | 2.5%    |
-| Apacer AS350 128GB SSD                              | 1        | 2.5%    |
-| A-DATA SU650 240GB SSD                              | 1        | 2.5%    |
-| Unknown                                             | 1        | 2.5%    |
+| Model                                             | Desktops | Percent |
+|---------------------------------------------------|----------|---------|
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 2        | 5%      |
+| WDC WD5000AAKX-75U6AA0 500GB                      | 1        | 2.5%    |
+| WDC WD5000AAKX-60U6AA0 500GB                      | 1        | 2.5%    |
+| WDC WD5000AAKX-08U6AA0 500GB                      | 1        | 2.5%    |
+| WDC WD3200BPVT-22JJ5T0 320GB                      | 1        | 2.5%    |
+| WDC WD20 EARX-00PASB0 2TB                         | 1        | 2.5%    |
+| WDC WD10EZEX-22RKKA0 1TB                          | 1        | 2.5%    |
+| WDC WD10EZEX-21M2NA0 1TB                          | 1        | 2.5%    |
+| WDC WD10EARS-00MVWB0 1TB                          | 1        | 2.5%    |
+| Toshiba DT01ACA200 2TB                            | 1        | 2.5%    |
+| Toshiba DT01ACA100 1TB                            | 1        | 2.5%    |
+| Seagate ST6000DM003-2CY186 6TB                    | 1        | 2.5%    |
+| Seagate ST3500410AS 500GB                         | 1        | 2.5%    |
+| Seagate ST320LM001 HN-M320MBB 320GB               | 1        | 2.5%    |
+| Seagate ST3160815AS 160GB                         | 1        | 2.5%    |
+| Seagate ST31500341AS 1TB                          | 1        | 2.5%    |
+| Seagate ST2000DM 008-2FR102 2TB                   | 1        | 2.5%    |
+| Seagate ST1000DM010-2EP102 1TB                    | 1        | 2.5%    |
+| Seagate Expansion Desk 3TB                        | 1        | 2.5%    |
+| Sandisk WD_BLACK SN770 1TB                        | 1        | 2.5%    |
+| SanDisk SDSSDA240G 240GB                          | 1        | 2.5%    |
+| Samsung SSD 970 EVO Plus 1TB                      | 1        | 2.5%    |
+| ROG ESD-S1C 1024GB                                | 1        | 2.5%    |
+| Phison E16 PCIe4 NVMe Controller 500GB            | 1        | 2.5%    |
+| Phison E12 NVMe Controller 1TB                    | 1        | 2.5%    |
+| Patriot Burst 120GB SSD                           | 1        | 2.5%    |
+| Micron/Crucial P2 NVMe PCIe SSD 500GB             | 1        | 2.5%    |
+| Kingston SFYRS500G 500GB                          | 1        | 2.5%    |
+| Kingston SA400M8240G 240GB SSD                    | 1        | 2.5%    |
+| Intel SSDSC2KW256G8 256GB                         | 1        | 2.5%    |
+| Intel SSDPE21D480GA 480GB                         | 1        | 2.5%    |
+| Hitachi HTS547550A9E384 500GB                     | 1        | 2.5%    |
+| Hitachi HTS545050A7E380 500GB                     | 1        | 2.5%    |
+| Hitachi HDS721010CLA332 1TB                       | 1        | 2.5%    |
+| Crucial M4-CT064M4SSD2 64GB                       | 1        | 2.5%    |
+| China SATA SSD 512GB                              | 1        | 2.5%    |
+| Apacer AS350 128GB SSD                            | 1        | 2.5%    |
+| A-DATA SU650 240GB SSD                            | 1        | 2.5%    |
+| Unknown                                           | 1        | 2.5%    |
 
 HDD Vendor
 ----------
@@ -864,7 +864,8 @@ Size of hard drive
 | 0.01-0.5   | 11       | 19     | 55%     |
 | 0.51-1.0   | 5        | 10     | 25%     |
 | 1.01-2.0   | 2        | 3      | 10%     |
-| 4.01-10.0  | 2        | 2      | 10%     |
+| 2.01-3.0   | 1        | 1      | 5%      |
+| 4.01-10.0  | 1        | 1      | 5%      |
 
 Space Total
 -----------
@@ -1039,7 +1040,7 @@ Storage controller models
 | Phison E16 PCIe4 NVMe Controller                                              | 1        | 3.23%   |
 | Phison E12 NVMe Controller                                                    | 1        | 3.23%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)          | 1        | 3.23%   |
-| Kingston Company KC3000/Renegade NVMe SSD                                     | 1        | 3.23%   |
+| Kingston Company KC3000/FURY Renegade NVMe SSD E18                            | 1        | 3.23%   |
 | Intel Volume Management Device NVMe RAID Controller                           | 1        | 3.23%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 1        | 3.23%   |
 | Intel Optane SSD 900P Series                                                  | 1        | 3.23%   |
@@ -1267,7 +1268,7 @@ Graphics card models
 | Intel HD Graphics 530                                                 | 1        | 4.76%   |
 | Intel 82G33/G31 Express Integrated Graphics Controller                | 1        | 4.76%   |
 | AMD RV710 [Radeon HD 4350/4550]                                       | 1        | 4.76%   |
-| AMD Renoir                                                            | 1        | 4.76%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]         | 1        | 4.76%   |
 | AMD Raphael                                                           | 1        | 4.76%   |
 | AMD Pitcairn PRO [Radeon HD 7850 / R7 265 / R9 270 1024SP]            | 1        | 4.76%   |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM] | 1        | 4.76%   |
@@ -1359,7 +1360,7 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Toshiba TV TSB0206 1920x1080                                          | 1        | 4.55%   |
+| Toshiba TSB-TV TSB0206 1360x768 930x520mm 41.9-inch                   | 1        | 4.55%   |
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch    | 1        | 4.55%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 4.55%   |
 | Lenovo P24h-10 LEN61AE 2560x1440 527x296mm 23.8-inch                  | 1        | 4.55%   |
@@ -1368,7 +1369,7 @@ Monitor models
 | Goldstar HDR WFHD GSM5BB9 2560x1080 798x334mm 34.1-inch               | 1        | 4.55%   |
 | Goldstar FULL HD GSM5BFB 1920x1080 480x270mm 21.7-inch                | 1        | 4.55%   |
 | Dell SE2417HG DELD08E 1920x1080 521x293mm 23.5-inch                   | 1        | 4.55%   |
-| Dell SE2417HG DELD08D 1920x1080 521x293mm 23.5-inch                   | 1        | 4.55%   |
+| Dell SE2417HG DELD08D 1920x1080 520x290mm 23.4-inch                   | 1        | 4.55%   |
 | Dell S2421NX DEL41FB 1920x1080 527x296mm 23.8-inch                    | 1        | 4.55%   |
 | Dell S2240T DELA094 1920x1080 477x268mm 21.5-inch                     | 1        | 4.55%   |
 | Dell E198WFP DELF005 1440x900 408x255mm 18.9-inch                     | 1        | 4.55%   |
@@ -1831,11 +1832,11 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s             | 1        | 5.56%   |
 | Unknown RAM Module 2GB DIMM SDRAM                     | 1        | 5.56%   |
 | Unknown RAM Module 1GB DIMM SDRAM                     | 1        | 5.56%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s    | 1        | 5.56%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s   | 1        | 5.56%   |
 | SK hynix RAM HYMP512U64CP8-S6 1GB DIMM DDR2 800MT/s   | 1        | 5.56%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s | 1        | 5.56%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s | 1        | 5.56%   |
-| Micron RAM F6451U64F9333G 4GB DIMM DDR3 1333MT/s      | 1        | 5.56%   |
+| Micron RAM F6451U64F9333G 4096MB DIMM DDR3 1333MT/s   | 1        | 5.56%   |
 | Kingston RAM KF552C40-8 8GB DIMM DDR5 4800MT/s        | 1        | 5.56%   |
 | Kingston RAM KF3600C16D4/16GX 16GB DIMM DDR4 3600MT/s | 1        | 5.56%   |
 | Kingston RAM 9905402-532.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 5.56%   |

@@ -1348,7 +1348,7 @@ Monitor models
 
 | Model                                                                   | Computers | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics SyncMaster SAM01D3 1440x900 410x260mm 19.1-inch     | 11        | 22.92%  |
+| Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch     | 11        | 22.92%  |
 | ___ LCDTV16 ___0101 1920x1080                                           | 9         | 18.75%  |
 | Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5         | 10.42%  |
 | Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5         | 10.42%  |
@@ -1774,7 +1774,7 @@ Memory module models
 | pqi RAM Module 1024MB DIMM DDR2 800MT/s                        | 1         | 3.13%   |
 | Nanya RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 3.13%   |
 | Kingston RAM Module 2048MB DIMM DDR2 533MT/s                   | 1         | 3.13%   |
-| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s       | 1         | 3.13%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
 | Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s            | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s          | 1         | 3.13%   |
 

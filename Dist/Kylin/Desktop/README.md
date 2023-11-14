@@ -757,7 +757,7 @@ Storage controller models
 
 | Model                                                     | Desktops | Percent |
 |-----------------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller 980                           | 1        | 33.33%  |
+| Samsung NVMe SSD Controller 980 (DRAM-less)               | 1        | 33.33%  |
 | Intel Comet Lake SATA AHCI Controller                     | 1        | 33.33%  |
 | Intel 9 Series Chipset Family SATA Controller [AHCI Mode] | 1        | 33.33%  |
 
@@ -1303,9 +1303,9 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                | Desktops | Percent |
-|------------------------------------------------------|----------|---------|
-| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 3200MT/s | 1        | 100%    |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| SK hynix RAM HMA81GU6DJR8N-XN 8192MB DIMM DDR4 3200MT/s | 1        | 100%    |
 
 Memory Kind
 -----------

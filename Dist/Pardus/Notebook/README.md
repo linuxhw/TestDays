@@ -884,9 +884,9 @@ Hard drive models
 | Samsung MZ7LF192HCGS-000L1 192GB SSD               | 1         | 1.92%   |
 | Samsung HM250HI 250GB                              | 1         | 1.92%   |
 | Phison 311CD0512GB                                 | 1         | 1.92%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                | 1         | 1.92%   |
+| Micron/Crucial P2 NVMe PCIe SSD 500GB              | 1         | 1.92%   |
 | Micron 1300_MTFDDAK512TDL 512GB SSD                | 1         | 1.92%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 512GB | 1         | 1.92%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 250GB | 1         | 1.92%   |
 | LITEON LCH-256V2S-HP 256GB SSD                     | 1         | 1.92%   |
 | Lexar 120GB SSD                                    | 1         | 1.92%   |
 
@@ -1138,8 +1138,8 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                         | 2         | 4.17%   |
 | SK hynix BC511 NVMe SSD                                                                | 1         | 2.08%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                      | 1         | 2.08%   |
-| Samsung NVMe SSD Controller 980                                                        | 1         | 2.08%   |
-| Phison PS5013 E13 NVMe Controller                                                      | 1         | 2.08%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                            | 1         | 2.08%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                    | 1         | 2.08%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                   | 1         | 2.08%   |
 | MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                           | 1         | 2.08%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                      | 1         | 2.08%   |
@@ -1525,7 +1525,7 @@ Monitor models
 | LG Display LCD Monitor LGD0414 1920x1080 276x156mm 12.5-inch             | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0395 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0384 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
-| LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch              | 1         | 2.44%   |
+| LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch              | 1         | 2.44%   |
@@ -1534,7 +1534,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN15C9 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN14D5 1920x1080 309x173mm 13.9-inch         | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN14B1 1920x1080 308x173mm 13.9-inch         | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch          | 1         | 2.44%   |
@@ -1945,7 +1945,7 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.94%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.94%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 2.94%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 2.94%   |
+| Intel Bluetooth Device                              | 1         | 2.94%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 2.94%   |
 | IMC Networks Bluetooth Device                       | 1         | 2.94%   |
 | Foxconn International BCM43142A0 Bluetooth module   | 1         | 2.94%   |
@@ -2179,16 +2179,17 @@ Camera device vendors
 | Realtek Semiconductor                  | 4         | 11.43%  |
 | Microdia                               | 3         | 8.57%   |
 | IMC Networks                           | 3         | 8.57%   |
-| Luxvisions Innotech Limited            | 2         | 5.71%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.71%   |
 | Bison Electronics                      | 2         | 5.71%   |
 | Suyin                                  | 1         | 2.86%   |
 | Silicon Motion                         | 1         | 2.86%   |
 | Quanta                                 | 1         | 2.86%   |
+| Luxvisions Innotech Limited            | 1         | 2.86%   |
 | Lite-On Technology                     | 1         | 2.86%   |
 | Foxconn / Hon Hai                      | 1         | 2.86%   |
 | ALi                                    | 1         | 2.86%   |
 | Alcor Micro                            | 1         | 2.86%   |
+| 8SSC20F27114V1SR0BK1X4S                | 1         | 2.86%   |
 
 Camera Model
 ------------
@@ -2210,7 +2211,6 @@ Camera device models
 | Realtek Asus laptop camera                                               | 1         | 2.86%   |
 | Quanta USB HD Webcam                                                     | 1         | 2.86%   |
 | Microdia Laptop_Integrated_Webcam_HD                                     | 1         | 2.86%   |
-| Luxvisions Innotech Limited Integrated Camera                            | 1         | 2.86%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera                      | 1         | 2.86%   |
 | Lite-On TOSHIBA Web Camera - HD                                          | 1         | 2.86%   |
 | IMC Networks USB2.0 VGA UVC WebCam                                       | 1         | 2.86%   |
@@ -2230,7 +2230,8 @@ Camera device models
 | Bison SunplusIT Integrated Camera                                        | 1         | 2.86%   |
 | Bison EasyCamera                                                         | 1         | 2.86%   |
 | ALi Gateway Webcam                                                       | 1         | 2.86%   |
-| Alcor Micro USB 2.0 Camera                                               | 1         | 2.86%   |
+| Alcor Micro TOSHIBA Web Camera - MP                                      | 1         | 2.86%   |
+| 8SSC20F27114V1SR0BK1X4S Integrated Camera                                | 1         | 2.86%   |
 
 Security
 --------
@@ -2301,8 +2302,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 31        | 73.81%  |
-| 1     | 8         | 19.05%  |
+| 0     | 30        | 71.43%  |
+| 1     | 9         | 21.43%  |
 | 2     | 3         | 7.14%   |
 
 Unsupported Device Types
@@ -2315,10 +2316,10 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 4         | 28.57%  |
-| Graphics card      | 3         | 21.43%  |
-| Bluetooth          | 3         | 21.43%  |
-| Camera             | 2         | 14.29%  |
-| Net/wireless       | 1         | 7.14%   |
-| Chipcard           | 1         | 7.14%   |
+| Graphics card      | 4         | 26.67%  |
+| Fingerprint reader | 4         | 26.67%  |
+| Bluetooth          | 3         | 20%     |
+| Camera             | 2         | 13.33%  |
+| Net/wireless       | 1         | 6.67%   |
+| Chipcard           | 1         | 6.67%   |
 

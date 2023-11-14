@@ -692,8 +692,8 @@ Hard drive models
 | Seagate ST3160812AS 41N3268 LEN 160GB | 1        | 6.67%   |
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
-| KingSpec NT-256 256GB                 | 1        | 6.67%   |
-| KingDian S200 60GB SSD                | 1        | 6.67%   |
+| KingSpec NT-256 256GB SSD             | 1        | 6.67%   |
+| KingDian S200 60GB                    | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
 | Crucial CT256MX100SSD1 256GB          | 1        | 6.67%   |
@@ -1194,7 +1194,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Toshiba TV TSB0106 1920x1080 708x398mm 32.0-inch                     | 1        | 7.69%   |
+| Toshiba TV TSB0106 1366x768                                          | 1        | 7.69%   |
 | Sony TV SNY9C01 1360x768                                             | 1        | 7.69%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch | 1        | 7.69%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                       | 1        | 7.69%   |
@@ -1745,8 +1745,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 10       | 66.67%  |
-| 1     | 5        | 33.33%  |
+| 0     | 11       | 73.33%  |
+| 1     | 4        | 26.67%  |
 
 Unsupported Device Types
 ------------------------
@@ -1756,8 +1756,7 @@ Types of unsupported devices
 ![Unsupported Device Types](./images/pie_chart/device_unsupported_type.svg)
 
 
-| Type          | Desktops | Percent |
-|---------------|----------|---------|
-| Net/wireless  | 4        | 80%     |
-| Graphics card | 1        | 20%     |
+| Type         | Desktops | Percent |
+|--------------|----------|---------|
+| Net/wireless | 4        | 100%    |
 

@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 94
+Total: 95
 
 | Vendor    | Model                       | Probe                                                      | Date         |
 |-----------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek   | P8H61-MX R2.0               | [b756b81d33](https://linux-hardware.org/?probe=b756b81d33) | Oct 12, 2023 |
 | Gigabyte  | H110M-S2H-CF                | [3513d5bcf3](https://linux-hardware.org/?probe=3513d5bcf3) | Sep 28, 2023 |
 | Gigabyte  | GA-MA790XT-UD4P             | [945e2bc260](https://linux-hardware.org/?probe=945e2bc260) | Sep 24, 2023 |
 | HP        | 2ADC                        | [b4794f247b](https://linux-hardware.org/?probe=b4794f247b) | Sep 21, 2023 |
@@ -605,9 +606,9 @@ Motherboard manufacture year
 | 2013 | 9        | 13.64%  |
 | 2018 | 7        | 10.61%  |
 | 2021 | 6        | 9.09%   |
-| 2012 | 6        | 9.09%   |
 | 2009 | 6        | 9.09%   |
 | 2016 | 5        | 7.58%   |
+| 2012 | 5        | 7.58%   |
 | 2019 | 4        | 6.06%   |
 | 2017 | 4        | 6.06%   |
 | 2015 | 4        | 6.06%   |
@@ -615,9 +616,9 @@ Motherboard manufacture year
 | 2014 | 3        | 4.55%   |
 | 2008 | 3        | 4.55%   |
 | 2022 | 2        | 3.03%   |
+| 2011 | 2        | 3.03%   |
 | 2010 | 2        | 3.03%   |
 | 2023 | 1        | 1.52%   |
-| 2011 | 1        | 1.52%   |
 
 Form Factor
 -----------
@@ -902,48 +903,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Kingston SA400S37240G 240GB SSD                     | 5        | 3.82%   |
-| WDC WD10EZEX-60WN4A0 1TB                            | 3        | 2.29%   |
-| WDC WD10EZEX-08WN4A0 1TB                            | 3        | 2.29%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 3        | 2.29%   |
-| WDC WD10EZEX-21WN4A0 1TB                            | 2        | 1.53%   |
-| Toshiba MQ01ABD100 1TB                              | 2        | 1.53%   |
-| Toshiba DT01ACA200 2TB                              | 2        | 1.53%   |
-| Toshiba DT01ACA050 500GB                            | 2        | 1.53%   |
-| Seagate ST4000DM004-2CV104 4TB                      | 2        | 1.53%   |
-| Samsung SSD 850 EVO 250GB                           | 2        | 1.53%   |
-| Crucial CT500MX500SSD1 500GB                        | 2        | 1.53%   |
-| Crucial CT240BX500SSD1 240GB                        | 2        | 1.53%   |
-| Crucial CT128MX100SSD1 128GB                        | 2        | 1.53%   |
-| Unknown                                             | 2        | 1.53%   |
-| Yeestor 512GB                                       | 1        | 0.76%   |
-| XrayDisk 512GB SSD                                  | 1        | 0.76%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD                    | 1        | 0.76%   |
-| WDC WDS480G2G0C-00AJM0 480GB                        | 1        | 0.76%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                    | 1        | 0.76%   |
-| WDC WDS100T2B0A-00SM50 1TB SSD                      | 1        | 0.76%   |
-| WDC WD6400AAKS-22A7B2 640GB                         | 1        | 0.76%   |
-| WDC WD5000AAKS-00V6A0 500GB                         | 1        | 0.76%   |
-| WDC WD5000AAKS-00UU3A0 500GB                        | 1        | 0.76%   |
-| WDC WD40EZRZ-00GXCB0 4TB                            | 1        | 0.76%   |
-| WDC WD3200AAKX-001CA0 320GB                         | 1        | 0.76%   |
-| WDC WD2500JB-55GVA0 250GB                           | 1        | 0.76%   |
-| WDC WD2500AAJS-08L7A0 250GB                         | 1        | 0.76%   |
-| WDC WD20EZRX-22D8PB0 2TB                            | 1        | 0.76%   |
-| WDC WD20EZRX-00D8PB0 2TB                            | 1        | 0.76%   |
-| WDC WD20EZBX-00AYRA0 2TB                            | 1        | 0.76%   |
-| WDC WD10PURZ-85U8XY0 1TB                            | 1        | 0.76%   |
-| WDC WD10EZEX-60ZF5A0 1TB                            | 1        | 0.76%   |
-| WDC WD10EZEX-00BN5A0 1TB                            | 1        | 0.76%   |
-| WDC WD10EZEX-00BBHA0 1TB                            | 1        | 0.76%   |
-| WDC WD1002FBYS-18W8B0 1TB                           | 1        | 0.76%   |
-| Verbatim Vi550 S3 SSD 128GB                         | 1        | 0.76%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 1        | 0.76%   |
-| Toshiba XG4 NVMe SSD Controller 512GB               | 1        | 0.76%   |
-| Toshiba HDWD110 1TB                                 | 1        | 0.76%   |
-| Toshiba DT01ACA100 1TB                              | 1        | 0.76%   |
+| Model                                             | Desktops | Percent |
+|---------------------------------------------------|----------|---------|
+| Kingston SA400S37240G 240GB SSD                   | 5        | 3.82%   |
+| WDC WD10EZEX-60WN4A0 1TB                          | 3        | 2.29%   |
+| WDC WD10EZEX-08WN4A0 1TB                          | 3        | 2.29%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 3        | 2.29%   |
+| WDC WD10EZEX-21WN4A0 1TB                          | 2        | 1.53%   |
+| Toshiba MQ01ABD100 1TB                            | 2        | 1.53%   |
+| Toshiba DT01ACA200 2TB                            | 2        | 1.53%   |
+| Toshiba DT01ACA050 500GB                          | 2        | 1.53%   |
+| Seagate ST4000DM004-2CV104 4TB                    | 2        | 1.53%   |
+| Samsung SSD 850 EVO 250GB                         | 2        | 1.53%   |
+| Crucial CT500MX500SSD1 500GB                      | 2        | 1.53%   |
+| Crucial CT240BX500SSD1 240GB                      | 2        | 1.53%   |
+| Crucial CT128MX100SSD1 128GB                      | 2        | 1.53%   |
+| Unknown                                           | 2        | 1.53%   |
+| Yeestor 512GB                                     | 1        | 0.76%   |
+| XrayDisk 512GB SSD                                | 1        | 0.76%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD                  | 1        | 0.76%   |
+| WDC WDS480G2G0C-00AJM0 480GB                      | 1        | 0.76%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                  | 1        | 0.76%   |
+| WDC WDS100T2B0A-00SM50 1TB SSD                    | 1        | 0.76%   |
+| WDC WD6400AAKS-22A7B2 640GB                       | 1        | 0.76%   |
+| WDC WD5000AAKS-00V6A0 500GB                       | 1        | 0.76%   |
+| WDC WD5000AAKS-00UU3A0 500GB                      | 1        | 0.76%   |
+| WDC WD40EZRZ-00GXCB0 4TB                          | 1        | 0.76%   |
+| WDC WD3200AAKX-001CA0 320GB                       | 1        | 0.76%   |
+| WDC WD2500JB-55GVA0 250GB                         | 1        | 0.76%   |
+| WDC WD2500AAJS-08L7A0 250GB                       | 1        | 0.76%   |
+| WDC WD20EZRX-22D8PB0 2TB                          | 1        | 0.76%   |
+| WDC WD20EZRX-00D8PB0 2TB                          | 1        | 0.76%   |
+| WDC WD20EZBX-00AYRA0 2TB                          | 1        | 0.76%   |
+| WDC WD10PURZ-85U8XY0 1TB                          | 1        | 0.76%   |
+| WDC WD10EZEX-60ZF5A0 1TB                          | 1        | 0.76%   |
+| WDC WD10EZEX-00BN5A0 1TB                          | 1        | 0.76%   |
+| WDC WD10EZEX-00BBHA0 1TB                          | 1        | 0.76%   |
+| WDC WD1002FBYS-18W8B0 1TB                         | 1        | 0.76%   |
+| Verbatim Vi550 S3 SSD 256GB                       | 1        | 0.76%   |
+| Unknown SD/MMC/MS PRO 16GB                        | 1        | 0.76%   |
+| Toshiba XG4 NVMe SSD Controller 256GB             | 1        | 0.76%   |
+| Toshiba HDWD110 1TB                               | 1        | 0.76%   |
+| Toshiba DT01ACA100 1TB                            | 1        | 0.76%   |
 
 HDD Vendor
 ----------
@@ -1037,8 +1038,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 72     | 55.17%  |
-| 0.51-1.0   | 30       | 43     | 34.48%  |
+| 0.01-0.5   | 47       | 70     | 54.02%  |
+| 0.51-1.0   | 31       | 45     | 35.63%  |
 | 1.01-2.0   | 6        | 7      | 6.9%    |
 | 3.01-4.0   | 3        | 3      | 3.45%   |
 
@@ -1212,13 +1213,13 @@ Storage controller models
 | AMD 300 Series Chipset SATA Controller                                         | 2        | 1.83%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                           | 1        | 0.92%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1        | 0.92%   |
-| SanDisk WD Green SN350 NVMe SSD 240GB (DRAM-less)                              | 1        | 0.92%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1        | 0.92%   |
+| SanDisk WD Green SN350 240GB (DRAM-less) / SN560E NVMe SSD                     | 1        | 0.92%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1        | 0.92%   |
 | SanDisk PC SN735 NVMe SSD (DRAM-less)                                          | 1        | 0.92%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1        | 0.92%   |
-| Samsung NVMe SSD Controller PM9B1                                              | 1        | 0.92%   |
+| Samsung NVMe SSD Controller PM9B1 (DRAM-less)                                  | 1        | 0.92%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1        | 0.92%   |
-| Samsung NVMe SSD Controller 980                                                | 1        | 0.92%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1        | 0.92%   |
 | Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                              | 1        | 0.92%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1        | 0.92%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1        | 0.92%   |
@@ -1622,48 +1623,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| ViewSonic VA2719 Series VSCC132 1920x1080 598x336mm 27.0-inch          | 2        | 2.63%   |
-| ___ LCDTV16 ___3393 1920x1080                                          | 1        | 1.32%   |
-| Vizio E420VO VIZ0070 1920x1080 930x523mm 42.0-inch                     | 1        | 1.32%   |
-| ViewSonic VP201b VSC6911 1600x1200 408x306mm 20.1-inch                 | 1        | 1.32%   |
-| Unknown LCDTV16 3393 1920x1080 1600x900mm 72.3-inch                    | 1        | 1.32%   |
-| Sony TV SNY7A02 1360x768 576x324mm 26.0-inch                           | 1        | 1.32%   |
-| Sharp HDMI SHP1048 1920x1080 820x460mm 37.0-inch                       | 1        | 1.32%   |
-| Seiki SC32FI SEK3201 1680x1050 698x392mm 31.5-inch                     | 1        | 1.32%   |
-| Sceptre Tech Sceptre Q27 SPT0AD2 2560x1440 597x336mm 27.0-inch         | 1        | 1.32%   |
-| Sceptre Tech E24 SPT099D 1920x1080 530x300mm 24.0-inch                 | 1        | 1.32%   |
-| Samsung Electronics SyncMaster SAM05CC 1920x1080 530x300mm 24.0-inch   | 1        | 1.32%   |
-| Samsung Electronics SyncMaster SAM0059 2048x1536 312x234mm 15.4-inch   | 1        | 1.32%   |
-| Samsung Electronics SMB2030HD SAM0709 1600x900 443x249mm 20.0-inch     | 1        | 1.32%   |
-| Samsung Electronics S27A950D SAM079F 1920x1080 598x336mm 27.0-inch     | 1        | 1.32%   |
-| Samsung Electronics S24E650C SAM0CD7 1920x1080 521x293mm 23.5-inch     | 1        | 1.32%   |
-| Samsung Electronics S24E450 SAM0C7F 1920x1080 521x293mm 23.5-inch      | 1        | 1.32%   |
-| Samsung Electronics S19D300 SAM0B36 1366x768 410x230mm 18.5-inch       | 1        | 1.32%   |
-| Samsung Electronics LS27AG55x SAM71E0 2560x1440 597x336mm 27.0-inch    | 1        | 1.32%   |
-| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch | 1        | 1.32%   |
-| Samsung Electronics C49J89x SAM0F21 3840x1080 1196x336mm 48.9-inch     | 1        | 1.32%   |
-| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch      | 1        | 1.32%   |
-| RCA RTR3261-B-CA RCA0B01 1920x1080 698x392mm 31.5-inch                 | 1        | 1.32%   |
-| Positivo MC35120QWQHD NON3503 3440x1440 819x346mm 35.0-inch            | 1        | 1.32%   |
-| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                | 1        | 1.32%   |
-| Philips 220TS PHLC06B 1920x1080 477x268mm 21.5-inch                    | 1        | 1.32%   |
-| NSL RGB-27QHD NSL2711 2560x1440 597x336mm 27.0-inch                    | 1        | 1.32%   |
-| NEC Computers EA234WMi NEC691E 1920x1080 509x286mm 23.0-inch           | 1        | 1.32%   |
-| NEC Computers EA221WM NEC673D 1680x1050 474x296mm 22.0-inch            | 1        | 1.32%   |
-| MYS LCD Monitor MYS1700 1280x1024 360x240mm 17.0-inch                  | 1        | 1.32%   |
-| MSI G241 MSI3BA4 1920x1080 527x296mm 23.8-inch                         | 1        | 1.32%   |
-| Lenovo LI2215sD LEN65CC 1920x1080 476x267mm 21.5-inch                  | 1        | 1.32%   |
-| Lenovo L197 Wide LEN1152 1440x900 410x257mm 19.1-inch                  | 1        | 1.32%   |
-| Kogan KAMN27QF7TA KGN0270 2560x1440 698x393mm 31.5-inch                | 1        | 1.32%   |
-| Hitachi Hisense HEC0030 1920x1080 580x330mm 26.3-inch                  | 1        | 1.32%   |
-| Hewlett-Packard ZR30w HWP286C 2560x1600 641x400mm 29.7-inch            | 1        | 1.32%   |
-| Hewlett-Packard VH240a HPN3499 1920x1080 530x300mm 24.0-inch           | 1        | 1.32%   |
-| Hewlett-Packard E231 HWP3063 1920x1080 509x286mm 23.0-inch             | 1        | 1.32%   |
-| Hewlett-Packard All-in-One HWP4270 1920x1080 598x336mm 27.0-inch       | 1        | 1.32%   |
-| HannStar HSG1074 HSP0019 1920x1080 543x305mm 24.5-inch                 | 1        | 1.32%   |
-| Goldstar W1953 GSM4BA7 1360x768 406x229mm 18.4-inch                    | 1        | 1.32%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| ViewSonic VA2719 Series VSCC132 1920x1080 598x336mm 27.0-inch         | 2        | 2.63%   |
+| ___ LCDTV16 ___3393 1920x1080                                         | 1        | 1.32%   |
+| Vizio E420VO VIZ0070 1920x1080 930x523mm 42.0-inch                    | 1        | 1.32%   |
+| ViewSonic VP201b VSC6911 1600x1200 408x306mm 20.1-inch                | 1        | 1.32%   |
+| Unknown LCDTV16 3393 1920x1080 1600x900mm 72.3-inch                   | 1        | 1.32%   |
+| Sony TV SNY7A02 1360x768 576x324mm 26.0-inch                          | 1        | 1.32%   |
+| Sharp HDMI SHP1048 1920x1080 820x460mm 37.0-inch                      | 1        | 1.32%   |
+| Seiki SC32FI SEK3201 1680x1050 698x392mm 31.5-inch                    | 1        | 1.32%   |
+| Sceptre Tech Sceptre Q27 SPT0AD2 2560x1440 597x336mm 27.0-inch        | 1        | 1.32%   |
+| Sceptre Tech Sceptre E24 SPT099D 1920x1080 521x293mm 23.5-inch        | 1        | 1.32%   |
+| Samsung Electronics SyncMaster SAM05CC 1920x1080 530x300mm 24.0-inch  | 1        | 1.32%   |
+| Samsung Electronics SyncMaster SAM0059 2048x1536 312x234mm 15.4-inch  | 1        | 1.32%   |
+| Samsung Electronics SMB2030HD SAM0709 1600x900 443x249mm 20.0-inch    | 1        | 1.32%   |
+| Samsung Electronics S27A950D SAM079F 1920x1080 598x336mm 27.0-inch    | 1        | 1.32%   |
+| Samsung Electronics S24E650C SAM0CD7 1920x1080 521x293mm 23.5-inch    | 1        | 1.32%   |
+| Samsung Electronics S24E450 SAM0C7F 1920x1080 521x293mm 23.5-inch     | 1        | 1.32%   |
+| Samsung Electronics S19D300 SAM0B36 1366x768 410x230mm 18.5-inch      | 1        | 1.32%   |
+| Samsung Electronics LS27AG55x SAM71E0 2560x1440 597x336mm 27.0-inch   | 1        | 1.32%   |
+| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 410x230mm 18.5-inch | 1        | 1.32%   |
+| Samsung Electronics C49J89x SAM0F21 3840x1080 1196x336mm 48.9-inch    | 1        | 1.32%   |
+| Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch     | 1        | 1.32%   |
+| RCA RTRU4328CA RCA0B01 3840x2160 800x450mm 36.1-inch                  | 1        | 1.32%   |
+| Positivo MC35120QWQHD NON3503 3440x1440 819x346mm 35.0-inch           | 1        | 1.32%   |
+| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch               | 1        | 1.32%   |
+| Philips 220TS PHLC06B 1920x1080 477x268mm 21.5-inch                   | 1        | 1.32%   |
+| NSL RGB-27QHD NSL2711 2560x1440 597x336mm 27.0-inch                   | 1        | 1.32%   |
+| NEC Computers EA234WMi NEC691E 1920x1080 509x286mm 23.0-inch          | 1        | 1.32%   |
+| NEC Computers EA221WM NEC673D 1680x1050 474x296mm 22.0-inch           | 1        | 1.32%   |
+| MYS LCD Monitor MYS1700 1280x1024 360x240mm 17.0-inch                 | 1        | 1.32%   |
+| MSI G241 MSI3BA4 1920x1080 527x296mm 23.8-inch                        | 1        | 1.32%   |
+| Lenovo LI2215sD LEN65CC 1920x1080 476x267mm 21.5-inch                 | 1        | 1.32%   |
+| Lenovo L197 Wide LEN1152 1440x900 410x257mm 19.1-inch                 | 1        | 1.32%   |
+| Kogan KAMN27QF7TA KGN0270 2560x1440 698x393mm 31.5-inch               | 1        | 1.32%   |
+| Hitachi Hisense HEC0030 1920x1080 580x330mm 26.3-inch                 | 1        | 1.32%   |
+| Hewlett-Packard ZR30w HWP286C 2560x1600 641x400mm 29.7-inch           | 1        | 1.32%   |
+| Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch          | 1        | 1.32%   |
+| Hewlett-Packard E231 HWP3063 1920x1080 509x286mm 23.0-inch            | 1        | 1.32%   |
+| Hewlett-Packard All-in-One HWP4270 1920x1080 598x336mm 27.0-inch      | 1        | 1.32%   |
+| HannStar HSG1074 HSP0019 1920x1080 543x305mm 24.5-inch                | 1        | 1.32%   |
+| Goldstar W1953 GSM4BA7 1360x768 406x229mm 18.4-inch                   | 1        | 1.32%   |
 
 Monitor Resolution
 ------------------
@@ -1891,7 +1892,7 @@ Controller models
 | Realtek 802.11ac NIC                                              | 1        | 0.94%   |
 | Ralink MT7601U Wireless Adapter                                   | 1        | 0.94%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                         | 1        | 0.94%   |
-| Qualcomm Redmi Note 8                                             | 1        | 0.94%   |
+| Qualcomm SDM630-MTP _SN:0B9EB96E                                  | 1        | 0.94%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1        | 0.94%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1        | 0.94%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 0.94%   |
@@ -1961,7 +1962,7 @@ Wireless models
 | Intel Wireless-AC 9260                                        | 1        | 3.03%   |
 | Intel Wireless 8260                                           | 1        | 3.03%   |
 | Intel Wi-Fi 6 AX200                                           | 1        | 3.03%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter            | 1        | 3.03%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter  | 1        | 3.03%   |
 | Broadcom BCM43228 802.11a/b/g/n                               | 1        | 3.03%   |
 | ASUS 802.11ac WLAN Adapter                                    | 1        | 3.03%   |
 
@@ -2009,7 +2010,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.37%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1        | 1.37%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 1.37%   |
-| Qualcomm Redmi Note 8                                             | 1        | 1.37%   |
+| Qualcomm SDM630-MTP _SN:0B9EB96E                                  | 1        | 1.37%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.37%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.37%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.37%   |
@@ -2020,7 +2021,7 @@ Ethernet models
 | Intel 82578DC Gigabit Network Connection                          | 1        | 1.37%   |
 | Intel 82574L Gigabit Network Connection                           | 1        | 1.37%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 1        | 1.37%   |
-| Huawei JKM-LX1                                                    | 1        | 1.37%   |
+| Huawei ALP-AL00                                                   | 1        | 1.37%   |
 | Broadcom NetXtreme II BCM5706 Gigabit Ethernet                    | 1        | 1.37%   |
 | Broadcom NetXtreme BCM5762 Gigabit Ethernet PCIe                  | 1        | 1.37%   |
 
@@ -2120,7 +2121,7 @@ Controller models
 | Intel AX201 Bluetooth                               | 1        | 3.85%   |
 | Intel AX200 Bluetooth                               | 1        | 3.85%   |
 | Broadcom HP Portable Bumble Bee                     | 1        | 3.85%   |
-| Broadcom Bluetooth 3.0 Dongle                       | 1        | 3.85%   |
+| Broadcom Bluetooth 3.0 USB Dongle                   | 1        | 3.85%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 3.85%   |
 | ASUS Bluetooth Radio                                | 1        | 3.85%   |
 | ASUS ASUS USB-BT500                                 | 1        | 3.85%   |
@@ -2237,12 +2238,12 @@ Memory module models
 |---------------------------------------------------------------|----------|---------|
 | Unknown (0x5846) RAM DDR4 NB 8G 2666 8GB SODIMM DDR4 2667MT/s | 1        | 8.33%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1        | 8.33%   |
-| Samsung RAM M378B5273CH0-CK0 4096MB DIMM DDR3 2000MT/s        | 1        | 8.33%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s           | 1        | 8.33%   |
 | Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
 | Kingston RAM HX426C16FB/4 4GB DIMM DDR4 2800MT/s              | 1        | 8.33%   |
 | Kingston RAM HX318C10F/8 8GB DIMM DDR3 1600MT/s               | 1        | 8.33%   |
-| Kingston RAM ASU16D3LU1KBG/4G 4GB DIMM DDR3 3200MT/s          | 1        | 8.33%   |
-| CSX RAM V01D3L82GB26826813 2GB DIMM 1066MT/s                  | 1        | 8.33%   |
+| Kingston RAM ASU16D3LU1KBG/4G 4096MB DIMM DDR3 3200MT/s       | 1        | 8.33%   |
+| CSX RAM V01D3L82GB26826813 2GB DIMM DDR3 1333MT/s             | 1        | 8.33%   |
 | Corsair RAM CMK8GX4M1A2400C16 8GB DIMM DDR4 2800MT/s          | 1        | 8.33%   |
 | Apacer RAM 78.CAGP7.C7Z0B 8GB DIMM DDR4 2400MT/s              | 1        | 8.33%   |
 | A-DATA RAM Module 4GB DIMM DDR3 1600MT/s                      | 1        | 8.33%   |
@@ -2306,7 +2307,7 @@ Memory module speed
 | 2667  | 1        | 8.33%   |
 | 2400  | 1        | 8.33%   |
 | 2000  | 1        | 8.33%   |
-| 1066  | 1        | 8.33%   |
+| 1333  | 1        | 8.33%   |
 | 533   | 1        | 8.33%   |
 
 Printers & scanners
@@ -2396,13 +2397,13 @@ Camera device models
 
 | Model                                   | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| Sunplus Integrated_Webcam_HD            | 1        | 14.29%  |
+| Sunplus MTD Camera                      | 1        | 14.29%  |
 | Samsung Galaxy series, misc. (MTP mode) | 1        | 14.29%  |
 | Logitech Webcam C270                    | 1        | 14.29%  |
 | Logitech HD Pro Webcam C920             | 1        | 14.29%  |
 | Generalplus WEB CAM                     | 1        | 14.29%  |
 | AVerMedia USB Device                    | 1        | 14.29%  |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 1        | 14.29%  |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X         | 1        | 14.29%  |
 
 Security
 --------

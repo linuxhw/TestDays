@@ -686,8 +686,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 26        | 59.09%  |
-| Yes       | 18        | 40.91%  |
+| No        | 27        | 61.36%  |
+| Yes       | 17        | 38.64%  |
 
 Has Ethernet
 ------------
@@ -870,7 +870,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 120GB                   | 1         | 1.96%   |
+| TO Exter nal USB 3.0 2TB                     | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -966,7 +966,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 32     | 100%    |
+| 0.01-0.5   | 26        | 31     | 96.3%   |
+| 1.01-2.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1089,8 +1090,8 @@ Storage controller models
 | Intel Mobile 4 Series Chipset PT IDER Controller                             | 2         | 5.41%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                            | 2         | 5.41%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                            | 2         | 5.41%   |
-| Union Memory (Shenzhen) AM610 PCIe 3.0 NVMe SSD 128GB                        | 1         | 2.7%    |
-| Kingston Company A2000 NVMe SSD                                              | 1         | 2.7%    |
+| Union Memory (Shenzhen) AM610 PCIe 3.0 x2 NVMe SSD 128GB, 256GB              | 1         | 2.7%    |
+| Kingston Company A2000 NVMe SSD SM2263EN                                     | 1         | 2.7%    |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                           | 1         | 2.7%    |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 1         | 2.7%    |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                            | 1         | 2.7%    |
@@ -1445,14 +1446,14 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 3         | 6.52%   |
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                    | 3         | 6.52%   |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.35%   |
-| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.17%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch                  | 1         | 2.17%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC3651 1366x768 340x190mm 15.3-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768                         | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch              | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL2D01 1920x1200 331x207mm 15.4-inch             | 1         | 2.17%   |
 | LG Display LCD Monitor LGD0395 1366x768 344x194mm 15.5-inch              | 1         | 2.17%   |
@@ -1649,7 +1650,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 5.8%    |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 5.8%    |
 | Intel 82567LM Gigabit Network Connection                                | 4         | 5.8%    |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 4.35%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 4.35%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 4.35%   |
 | Intel WiFi Link 5100                                                    | 3         | 4.35%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 2.9%    |
@@ -1677,7 +1678,7 @@ Controller models
 | Dell F3507g Mobile Broadband Module                                     | 1         | 1.45%   |
 | Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe                | 1         | 1.45%   |
 | Broadcom Limited NetLink BCM5787M Gigabit Ethernet PCI Express          | 1         | 1.45%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter              | 1         | 1.45%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter    | 1         | 1.45%   |
 | Broadcom BCM43228 802.11a/b/g/n                                         | 1         | 1.45%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                  | 1         | 1.45%   |
 | Broadcom BCM43142 802.11b/g/n                                           | 1         | 1.45%   |
@@ -1712,7 +1713,7 @@ Wireless models
 |-------------------------------------------------------------------------|-----------|---------|
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 9.52%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 9.52%   |
-| Realtek 802.11n WLAN Adapter                                            | 3         | 7.14%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                              | 3         | 7.14%   |
 | Ralink MT7601U Wireless Adapter                                         | 3         | 7.14%   |
 | Intel WiFi Link 5100                                                    | 3         | 7.14%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 4.76%   |
@@ -1730,7 +1731,7 @@ Wireless models
 | Intel Ultimate N WiFi Link 5300                                         | 1         | 2.38%   |
 | Intel PRO/Wireless 3945ABG [Golan] Network Connection                   | 1         | 2.38%   |
 | Intel Centrino Wireless-N 2230                                          | 1         | 2.38%   |
-| Broadcom Limited BCM4360 802.11ac Wireless Network Adapter              | 1         | 2.38%   |
+| Broadcom Limited BCM4360 802.11ac Dual Band Wireless Network Adapter    | 1         | 2.38%   |
 | Broadcom BCM43228 802.11a/b/g/n                                         | 1         | 2.38%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                  | 1         | 2.38%   |
 | Broadcom BCM43142 802.11b/g/n                                           | 1         | 2.38%   |
@@ -2083,7 +2084,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Web Camera                          | 6         | 18.18%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.18%  |
 | Lenovo UVC Camera                                       | 3         | 9.09%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.06%   |
 | Lite-On Integrated Camera                               | 2         | 6.06%   |
@@ -2092,9 +2093,9 @@ Camera device models
 | Suyin HP Truevision HD                                  | 1         | 3.03%   |
 | Suyin HD Video WebCam                                   | 1         | 3.03%   |
 | Sunplus HD WebCam                                       | 1         | 3.03%   |
+| Realtek USB2.0-Camera                                   | 1         | 3.03%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.03%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.03%   |
-| Realtek 2SF022                                          | 1         | 3.03%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.03%   |
 | Microdia HP Webcam                                      | 1         | 3.03%   |
 | Importek HP Webcam                                      | 1         | 3.03%   |
@@ -2179,8 +2180,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 0     | 24        | 54.55%  |
-| 1     | 14        | 31.82%  |
-| 2     | 6         | 13.64%  |
+| 1     | 17        | 38.64%  |
+| 2     | 3         | 6.82%   |
 
 Unsupported Device Types
 ------------------------
@@ -2192,13 +2193,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 24%     |
-| Graphics card            | 5         | 20%     |
-| Fingerprint reader       | 5         | 20%     |
-| Chipcard                 | 3         | 12%     |
-| Storage                  | 2         | 8%      |
-| Storage/ide              | 1         | 4%      |
-| Net/wireless             | 1         | 4%      |
-| Modem                    | 1         | 4%      |
-| Communication controller | 1         | 4%      |
+| Multimedia controller    | 6         | 27.27%  |
+| Fingerprint reader       | 5         | 22.73%  |
+| Chipcard                 | 3         | 13.64%  |
+| Storage                  | 2         | 9.09%   |
+| Graphics card            | 2         | 9.09%   |
+| Storage/ide              | 1         | 4.55%   |
+| Net/wireless             | 1         | 4.55%   |
+| Modem                    | 1         | 4.55%   |
+| Communication controller | 1         | 4.55%   |
 

@@ -1006,48 +1006,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Toshiba DT01ACA050 500GB                            | 4        | 2.86%   |
-| Toshiba HDWD110 1TB                                 | 3        | 2.14%   |
-| Toshiba DT01ACA100 1TB                              | 3        | 2.14%   |
-| Seagate ST2000DM008-2FR102 2TB                      | 3        | 2.14%   |
-| Samsung HD502HJ 500GB                               | 3        | 2.14%   |
-| Kingston SHFS37A120G 120GB SSD                      | 3        | 2.14%   |
-| WDC WD5000AZRX-00A8LB0 500GB                        | 2        | 1.43%   |
-| Transcend TS64GSSD370S 64GB                         | 2        | 1.43%   |
-| SPCC Solid State Disk 128GB                         | 2        | 1.43%   |
-| Seagate ST500DM002-1BD142 500GB                     | 2        | 1.43%   |
-| Seagate ST4000VM000-2AF166 4TB                      | 2        | 1.43%   |
-| Seagate ST3160023A 160GB                            | 2        | 1.43%   |
-| Seagate ST1000DL002-9TT153 1TB                      | 2        | 1.43%   |
-| Samsung SSD 860 EVO 500GB                           | 2        | 1.43%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 256GB | 2        | 1.43%   |
-| Samsung HD251HJ 250GB                               | 2        | 1.43%   |
-| Samsung HD082GJ 80GB                                | 2        | 1.43%   |
-| XPG NVMe SSD Drive 512GB                            | 1        | 0.71%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                    | 1        | 0.71%   |
-| WDC WD800JD-22LSA0 80GB                             | 1        | 0.71%   |
-| WDC WD62PURZ-85B3AY0 6TB                            | 1        | 0.71%   |
-| WDC WD5000AZRZ-00HTKB0 500GB                        | 1        | 0.71%   |
-| WDC WD5000AUDX-63WNHY0 500GB                        | 1        | 0.71%   |
-| WDC WD5000AAKX-08ERMA0 500GB                        | 1        | 0.71%   |
-| WDC WD5000AAKX-00ERMA0 500GB                        | 1        | 0.71%   |
-| WDC WD5000AAKS-75V0A0 500GB                         | 1        | 0.71%   |
-| WDC WD5000AAKS-00WWPA0 500GB                        | 1        | 0.71%   |
-| WDC WD5000AAJS-00A8B0 500GB                         | 1        | 0.71%   |
-| WDC WD5000AADS-56S9B1 500GB                         | 1        | 0.71%   |
-| WDC WD3200BPVT-24ZEST0 320GB                        | 1        | 0.71%   |
-| WDC WD3200AVJS-63B6A0 320GB                         | 1        | 0.71%   |
-| WDC WD2500AAKX-00U6AA0 250GB                        | 1        | 0.71%   |
-| WDC WD20EZBX-00AYRA0 2TB                            | 1        | 0.71%   |
-| WDC WD20EZAZ-00GGJB0 2TB                            | 1        | 0.71%   |
-| WDC WD200EB-00CPF0 20GB                             | 1        | 0.71%   |
-| WDC WD1600BEVS-60RST0 160GB                         | 1        | 0.71%   |
-| WDC WD10SPZX-22Z10T1 1TB                            | 1        | 0.71%   |
-| WDC WD10EZEX-00WN4A0 1TB                            | 1        | 0.71%   |
-| WDC WD1001FALS-00J7B0 1TB                           | 1        | 0.71%   |
-| Transcend TS256GSSD370S 256GB                       | 1        | 0.71%   |
+| Model                                             | Desktops | Percent |
+|---------------------------------------------------|----------|---------|
+| Toshiba DT01ACA050 500GB                          | 4        | 2.86%   |
+| Toshiba HDWD110 1TB                               | 3        | 2.14%   |
+| Toshiba DT01ACA100 1TB                            | 3        | 2.14%   |
+| Seagate ST2000DM008-2FR102 2TB                    | 3        | 2.14%   |
+| Samsung HD502HJ 500GB                             | 3        | 2.14%   |
+| Kingston SHFS37A120G 120GB SSD                    | 3        | 2.14%   |
+| WDC WD5000AZRX-00A8LB0 500GB                      | 2        | 1.43%   |
+| Transcend TS64GSSD370S 64GB                       | 2        | 1.43%   |
+| SPCC Solid State Disk 128GB                       | 2        | 1.43%   |
+| Seagate ST500DM002-1BD142 500GB                   | 2        | 1.43%   |
+| Seagate ST4000VM000-2AF166 4TB                    | 2        | 1.43%   |
+| Seagate ST3160023A 160GB                          | 2        | 1.43%   |
+| Seagate ST1000DL002-9TT153 1TB                    | 2        | 1.43%   |
+| Samsung SSD 860 EVO 500GB                         | 2        | 1.43%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 2        | 1.43%   |
+| Samsung HD251HJ 250GB                             | 2        | 1.43%   |
+| Samsung HD082GJ 80GB                              | 2        | 1.43%   |
+| XPG NVMe SSD Drive 512GB                          | 1        | 0.71%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                  | 1        | 0.71%   |
+| WDC WD800JD-22LSA0 80GB                           | 1        | 0.71%   |
+| WDC WD62PURZ-85B3AY0 6TB                          | 1        | 0.71%   |
+| WDC WD5000AZRZ-00HTKB0 500GB                      | 1        | 0.71%   |
+| WDC WD5000AUDX-63WNHY0 500GB                      | 1        | 0.71%   |
+| WDC WD5000AAKX-08ERMA0 500GB                      | 1        | 0.71%   |
+| WDC WD5000AAKX-00ERMA0 500GB                      | 1        | 0.71%   |
+| WDC WD5000AAKS-75V0A0 500GB                       | 1        | 0.71%   |
+| WDC WD5000AAKS-00WWPA0 500GB                      | 1        | 0.71%   |
+| WDC WD5000AAJS-00A8B0 500GB                       | 1        | 0.71%   |
+| WDC WD5000AADS-56S9B1 500GB                       | 1        | 0.71%   |
+| WDC WD3200BPVT-24ZEST0 320GB                      | 1        | 0.71%   |
+| WDC WD3200AVJS-63B6A0 320GB                       | 1        | 0.71%   |
+| WDC WD2500AAKX-00U6AA0 250GB                      | 1        | 0.71%   |
+| WDC WD20EZBX-00AYRA0 2TB                          | 1        | 0.71%   |
+| WDC WD20EZAZ-00GGJB0 2TB                          | 1        | 0.71%   |
+| WDC WD200EB-00CPF0 20GB                           | 1        | 0.71%   |
+| WDC WD1600BEVS-60RST0 160GB                       | 1        | 0.71%   |
+| WDC WD10SPZX-22Z10T1 1TB                          | 1        | 0.71%   |
+| WDC WD10EZEX-00WN4A0 1TB                          | 1        | 0.71%   |
+| WDC WD1001FALS-00J7B0 1TB                         | 1        | 0.71%   |
+| Transcend TS256GSSD370S 256GB                     | 1        | 0.71%   |
 
 HDD Vendor
 ----------
@@ -1382,13 +1382,13 @@ Storage controller models
 | Toshiba America Info Systems XG4 NVMe SSD Controller                                    | 1        | 0.72%   |
 | SK hynix BC501 NVMe Solid State Drive                                                   | 1        | 0.72%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 0.72%   |
-| Phison PS5013 E13 NVMe Controller                                                       | 1        | 0.72%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 1        | 0.72%   |
 | Nvidia MCP79 SATA Controller                                                            | 1        | 0.72%   |
 | Nvidia MCP67 IDE Controller                                                             | 1        | 0.72%   |
 | Nvidia MCP67 AHCI Controller                                                            | 1        | 0.72%   |
 | Nvidia MCP55 SATA Controller                                                            | 1        | 0.72%   |
 | Nvidia MCP55 IDE                                                                        | 1        | 0.72%   |
-| Netac Non-Volatile memory controller                                                    | 1        | 0.72%   |
+| Netac PCIe 4 INNOGRIT based NVMe SSD                                                    | 1        | 0.72%   |
 | Marvell Group 88SE914D SATA-600 Controller                                              | 1        | 0.72%   |
 | Intel SSD 600P Series                                                                   | 1        | 0.72%   |
 
@@ -1811,9 +1811,9 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0108 1280x1024 312x234mm 15.4-inch   | 2        | 2.44%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 2        | 2.44%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 2        | 2.44%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch            | 2        | 2.44%   |
 | ViewSonic VA521-1 VSCF318 1024x768 304x228mm 15.0-inch                 | 1        | 1.22%   |
-| Toshiba TV TSB0108 1920x540                                            | 1        | 1.22%   |
+| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                        | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM03D1 1680x1050 433x271mm 20.1-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch    | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM036E 1280x1024 376x301mm 19.0-inch   | 1        | 1.22%   |
@@ -1822,7 +1822,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0214 1680x1050 408x306mm 20.1-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0213 1680x1050 408x306mm 20.1-inch   | 1        | 1.22%   |
-| Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch   | 1        | 1.22%   |
+| Samsung Electronics SyncMaster SAM01E1 1280x1024 376x301mm 19.0-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0088 1024x768 304x228mm 15.0-inch    | 1        | 1.22%   |
 | Samsung Electronics SMB2440 SAM06AF 1920x1080 531x299mm 24.0-inch      | 1        | 1.22%   |
 | Samsung Electronics SMB2030 SAM063D 1600x900 443x249mm 20.0-inch       | 1        | 1.22%   |
@@ -1848,7 +1848,7 @@ Monitor models
 | Philips 196VL PHLC07F 1366x768 409x230mm 18.5-inch                     | 1        | 1.22%   |
 | Medion MD32119PR MED89C1 1280x1024 376x301mm 19.0-inch                 | 1        | 1.22%   |
 | LG Electronics LCD Monitor L1942 3200x1080                             | 1        | 1.22%   |
-| KTC Q3202S KTC3200 2560x1440 698x392mm 31.5-inch                       | 1        | 1.22%   |
+| KTC 32'TV KTC3200 1360x768 708x398mm 32.0-inch                         | 1        | 1.22%   |
 
 Monitor Resolution
 ------------------
@@ -2047,7 +2047,7 @@ Controller models
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter               | 1        | 0.98%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 0.98%   |
 | Ralink RT3060 Wireless 802.11n 1T/1R                                   | 1        | 0.98%   |
-| Qualcomm POCO M2 Pro                                                   | 1        | 0.98%   |
+| Qualcomm Redmi Note 8                                                  | 1        | 0.98%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 0.98%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 0.98%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                       | 1        | 0.98%   |
@@ -2061,7 +2061,7 @@ Controller models
 | Nvidia MCP67 Ethernet                                                  | 1        | 0.98%   |
 | Nvidia MCP55 Ethernet                                                  | 1        | 0.98%   |
 | Mercucys 802.11n NIC                                                   | 1        | 0.98%   |
-| MediaTek Infinix SMART 6 HD                                            | 1        | 0.98%   |
+| MediaTek Wiko U316AT                                                   | 1        | 0.98%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 0.98%   |
 | Intel NM10/ICH7 Family LAN Controller                                  | 1        | 0.98%   |
 | Intel Ethernet Connection I217-V                                       | 1        | 0.98%   |
@@ -2114,7 +2114,7 @@ Wireless models
 | Mercucys 802.11n NIC                                                   | 1        | 5%      |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]   | 1        | 5%      |
 | D-Link DWA-137 Wireless N High-Gain Adapter [Ralink RT5372]            | 1        | 5%      |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                     | 1        | 5%      |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter           | 1        | 5%      |
 
 Ethernet Vendor
 ---------------
@@ -2157,7 +2157,7 @@ Ethernet models
 | Intel Ethernet Connection (11) I219-V                             | 2        | 2.44%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.22%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.22%   |
-| Qualcomm POCO M2 Pro                                              | 1        | 1.22%   |
+| Qualcomm Redmi Note 8                                             | 1        | 1.22%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                     | 1        | 1.22%   |
@@ -2166,7 +2166,7 @@ Ethernet models
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 1.22%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 1.22%   |
 | Nvidia MCP55 Ethernet                                             | 1        | 1.22%   |
-| MediaTek Infinix SMART 6 HD                                       | 1        | 1.22%   |
+| MediaTek Wiko U316AT                                              | 1        | 1.22%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.22%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.22%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 1.22%   |
@@ -2420,7 +2420,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 667MT/s                     | 1        | 1.19%   |
 | Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s      | 1        | 1.19%   |
 | Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s           | 1        | 1.19%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
 | Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s              | 1        | 1.19%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 1.19%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s            | 1        | 1.19%   |
@@ -2431,7 +2431,7 @@ Memory module models
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 1.19%   |
 | Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s           | 1        | 1.19%   |
 | Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s                | 1        | 1.19%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3266MT/s            | 1        | 1.19%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s             | 1        | 1.19%   |
 
 Memory Kind
 -----------
@@ -2541,12 +2541,12 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| Seiko Epson USB2.0 Printer (Hi-speed) | 1        | 25%     |
-| HP LaserJet M14-M17                   | 1        | 25%     |
-| HP LaserJet 1020                      | 1        | 25%     |
-| Canon LaserShot LBP-1120 Printer      | 1        | 25%     |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Seiko Epson USB2.0 Printer       | 1        | 25%     |
+| HP LaserJet M14-M17              | 1        | 25%     |
+| HP LaserJet 1020                 | 1        | 25%     |
+| Canon LaserShot LBP-1120 Printer | 1        | 25%     |
 
 Scanner Vendor
 --------------
@@ -2589,13 +2589,13 @@ Camera device vendors
 | Microdia                    | 3        | 12.5%   |
 | Z-Star Microelectronics     | 2        | 8.33%   |
 | KYE Systems (Mouse Systems) | 2        | 8.33%   |
+| YGTek                       | 1        | 4.17%   |
 | Trust                       | 1        | 4.17%   |
 | Samsung Electronics         | 1        | 4.17%   |
 | Pixart Imaging              | 1        | 4.17%   |
 | Microsoft                   | 1        | 4.17%   |
 | Genesys Logic               | 1        | 4.17%   |
 | GEMBIRD                     | 1        | 4.17%   |
-| Fifine K420                 | 1        | 4.17%   |
 | Cubeternet                  | 1        | 4.17%   |
 | Aveo Technology             | 1        | 4.17%   |
 
@@ -2612,6 +2612,7 @@ Camera device models
 | Logitech Webcam C270                      | 4        | 16.67%  |
 | Microdia Camera                           | 3        | 12.5%   |
 | Z-Star Venus USB2.0 Camera                | 2        | 8.33%   |
+| YGTek Webcam                              | 1        | 4.17%   |
 | Trust Full HD Webcam                      | 1        | 4.17%   |
 | Samsung Galaxy (PTP mode)                 | 1        | 4.17%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro      | 1        | 4.17%   |
@@ -2624,7 +2625,6 @@ Camera device models
 | KYE Systems (Mouse Systems) eFace 2025    | 1        | 4.17%   |
 | Genesys Logic U2 EE Cam                   | 1        | 4.17%   |
 | GEMBIRD USB2.0 PC CAMERA                  | 1        | 4.17%   |
-| Fifine K420 Fifine K420                   | 1        | 4.17%   |
 | Cubeternet USB2.0 Camera                  | 1        | 4.17%   |
 | Aveo Camera                               | 1        | 4.17%   |
 

@@ -813,7 +813,7 @@ Hard drive models
 | Seagate ST380215AS 80GB                 | 1         | 2.04%   |
 | Seagate ST3802110A 80GB                 | 1         | 2.04%   |
 | Seagate ST2000DM008-2FR102 2TB          | 1         | 2.04%   |
-| Seagate BUP Slim BK 1TB                 | 1         | 2.04%   |
+| Seagate BUP Slim BK 2TB                 | 1         | 2.04%   |
 | Seagate Backup+ Hub BK 8TB              | 1         | 2.04%   |
 | Sandisk WD_BLACK SN770 500GB            | 1         | 2.04%   |
 | SanDisk SD8SN8U-256G-1006 256GB SSD     | 1         | 2.04%   |
@@ -826,10 +826,10 @@ Hard drive models
 | Samsung MZVL2512HCJQ-00BL7 512GB        | 1         | 2.04%   |
 | Samsung MZVL2512HCJQ-00B00 512GB        | 1         | 2.04%   |
 | Samsung MZAL4512HBLU-00BL2 512GB        | 1         | 2.04%   |
-| Samsung MZ7TY256HDHP-000L7 256GB        | 1         | 2.04%   |
+| Samsung MZ7TY256HDHP-000L7 256GB SSD    | 1         | 2.04%   |
 | Phison Dash Pro 2TB                     | 1         | 2.04%   |
-| Micron MTFDKCD1T0TFK 1024GB             | 1         | 2.04%   |
-| Micron 2450_MTFDKBA1T0TFK 1024GB        | 1         | 2.04%   |
+| Micron MTFDKCD1T0TFK 1TB                | 1         | 2.04%   |
+| Micron 2450_MTFDKBA1T0TFK 1TB           | 1         | 2.04%   |
 | Micron 2400_MTFDKBA512QFM 512GB         | 1         | 2.04%   |
 | Lexar SSD NS100 512GB                   | 1         | 2.04%   |
 | KIOXIA KXG60ZNV1T02 1TB                 | 1         | 2.04%   |
@@ -918,8 +918,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 11        | 13     | 52.38%  |
-| 0.51-1.0   | 7         | 7      | 33.33%  |
-| 1.01-2.0   | 2         | 2      | 9.52%   |
+| 0.51-1.0   | 6         | 6      | 28.57%  |
+| 1.01-2.0   | 3         | 3      | 14.29%  |
 | 4.01-10.0  | 1         | 1      | 4.76%   |
 
 Space Total
@@ -1086,7 +1086,7 @@ Storage controller models
 | SanDisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                 | 2         | 3.77%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 2         | 3.77%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 2         | 3.77%   |
-| Samsung NVMe SSD Controller 980                                                         | 2         | 3.77%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                             | 2         | 3.77%   |
 | Micron 2450 NVMe SSD [HendrixV] (DRAM-less)                                             | 2         | 3.77%   |
 | Intel Volume Management Device NVMe RAID Controller                                     | 2         | 3.77%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 2         | 3.77%   |
@@ -1096,14 +1096,14 @@ Storage controller models
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                                    | 1         | 1.89%   |
 | SK hynix BC511 NVMe SSD                                                                 | 1         | 1.89%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1         | 1.89%   |
-| Samsung NVMe SSD Controller PM9B1                                                       | 1         | 1.89%   |
-| Phison PS5013 E13 NVMe Controller                                                       | 1         | 1.89%   |
+| Samsung NVMe SSD Controller PM9B1 (DRAM-less)                                           | 1         | 1.89%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 1         | 1.89%   |
 | Micron 2400 NVMe SSD (DRAM-less)                                                        | 1         | 1.89%   |
 | KIOXIA NVMe SSD Controller BG5 (DRAM-less)                                              | 1         | 1.89%   |
-| Kingston Company Company Non-Volatile memory controller                                 | 1         | 1.89%   |
 | Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                           | 1         | 1.89%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                       | 1         | 1.89%   |
-| Kingston Company NVMe Controller                                                        | 1         | 1.89%   |
+| Kingston Company NV2 NVMe SSD SM2267XT                                                  | 1         | 1.89%   |
+| Kingston Company NV1 NVMe SSD SM2263XT                                                  | 1         | 1.89%   |
 | Intel Tiger Lake-LP SATA Controller                                                     | 1         | 1.89%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                       | 1         | 1.89%   |
 | Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 1         | 1.89%   |
@@ -1354,11 +1354,11 @@ Graphics card models
 |---------------------------------------------------------------------------------------|-----------|---------|
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller             | 4         | 9.09%   |
 | Intel Alder Lake-UP3 GT2 [Iris Xe Graphics]                                           | 3         | 6.82%   |
-| Intel Alder Lake-P Integrated Graphics Controller                                     | 3         | 6.82%   |
 | Intel 3rd Gen Core processor Graphics Controller                                      | 3         | 6.82%   |
 | Nvidia TU116 [GeForce GTX 1660]                                                       | 2         | 4.55%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                             | 2         | 4.55%   |
 | Intel Skylake GT2 [HD Graphics 520]                                                   | 2         | 4.55%   |
+| Intel Alder Lake-P Integrated Graphics Controller                                     | 2         | 4.55%   |
 | AMD Barcelo                                                                           | 2         | 4.55%   |
 | Nvidia TU117GLM [T600 Laptop GPU]                                                     | 1         | 2.27%   |
 | Nvidia TU117GLM [T550 Laptop GPU]                                                     | 1         | 2.27%   |
@@ -1376,6 +1376,7 @@ Graphics card models
 | Intel HD Graphics 620                                                                 | 1         | 2.27%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                             | 1         | 2.27%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                             | 1         | 2.27%   |
+| Intel Alder Lake-P GT2 [Iris Xe Graphics]                                             | 1         | 2.27%   |
 | AMD Topaz XT [Radeon R7 M260/M265 / M340/M360 / M440/M445 / 530/535 / 620/625 Mobile] | 1         | 2.27%   |
 | AMD Thames [Radeon HD 7550M/7570M/7650M]                                              | 1         | 2.27%   |
 | AMD Sun XT [Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile]         | 1         | 2.27%   |
@@ -1479,7 +1480,7 @@ Monitor models
 | VIZ LCD Monitor VA19L HDTV10T                                         | 1         | 2.56%   |
 | Sharp LQ156M1JW03 SHP14C5 1920x1080 344x194mm 15.5-inch               | 1         | 2.56%   |
 | Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch    | 1         | 2.56%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch  | 1         | 2.56%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch  | 1         | 2.56%   |
 | Samsung Electronics LCD Monitor SDC4171 2880x1800 302x189mm 14.0-inch | 1         | 2.56%   |
 | Pixio SFP24DFI FLAT WAM2380 1920x1080 527x296mm 23.8-inch             | 1         | 2.56%   |
 | LG Electronics LCD Monitor LG HDR WFHD 2560x1080                      | 1         | 2.56%   |
@@ -1493,7 +1494,7 @@ Monitor models
 | Hewlett-Packard TouchSmart HWP4212 1920x1080 509x286mm 23.0-inch      | 1         | 2.56%   |
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch         | 1         | 2.56%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                   | 1         | 2.56%   |
-| Element ELEFW328C ELE3553 1360x768 640x384mm 29.4-inch                | 1         | 2.56%   |
+| Element ELEFW195 ELE3553 1920x1080 708x398mm 32.0-inch                | 1         | 2.56%   |
 | Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                     | 1         | 2.56%   |
 | Dell P2314T DEL409E 1920x1080 509x286mm 23.0-inch                     | 1         | 2.56%   |
 | CSO LCD Monitor CSO1506 1920x1080 344x194mm 15.5-inch                 | 1         | 2.56%   |
@@ -1507,10 +1508,10 @@ Monitor models
 | AU Optronics LCD Monitor AUO662D 1920x1080 293x165mm 13.2-inch        | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO5A99 1920x1200 301x188mm 14.0-inch        | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO1496 2560x1440 382x214mm 17.2-inch        | 1         | 2.56%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch         | 1         | 2.56%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch         | 1         | 2.56%   |
 | Apple iMac APPAE19 3840x2160 475x267mm 21.5-inch                      | 1         | 2.56%   |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch      | 1         | 2.56%   |
-| Ancor Communications VE228 ACI22FA 1920x1080 531x299mm 24.0-inch      | 1         | 2.56%   |
+| Ancor Communications VE228 ACI22FA 1920x1080 477x268mm 21.5-inch      | 1         | 2.56%   |
 | Acer H193HQV ACR01B8 1366x768 410x230mm 18.5-inch                     | 1         | 2.56%   |
 | Acer G246HL ACR02FF 1920x1080 531x299mm 24.0-inch                     | 1         | 2.56%   |
 
@@ -1693,7 +1694,7 @@ Controller models
 | Intel Ethernet Connection (16) I219-V                                                         | 3         | 4.29%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                                      | 2         | 2.86%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                         | 2         | 2.86%   |
-| OPPO KALAMA-MTP_CID:0437_SN:7EF55BBA                                                          | 2         | 2.86%   |
+| OPPO WAIPIO-MTP _SN:AC53F926                                                                  | 2         | 2.86%   |
 | Intel Wireless 8265 / 8275                                                                    | 2         | 2.86%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                                          | 1         | 1.43%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                                      | 1         | 1.43%   |
@@ -1706,7 +1707,7 @@ Controller models
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 1.43%   |
 | Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 1.43%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 1.43%   |
-| Qualcomm POCO M2 Pro                                                                          | 1         | 1.43%   |
+| Qualcomm Redmi Note 8                                                                         | 1         | 1.43%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1         | 1.43%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                    | 1         | 1.43%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 1.43%   |
@@ -1715,7 +1716,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 1         | 1.43%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1         | 1.43%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                                      | 1         | 1.43%   |
-| OPPO 8                                                                                        | 1         | 1.43%   |
+| OPPO RMX2027                                                                                  | 1         | 1.43%   |
 | NetGear A6210                                                                                 | 1         | 1.43%   |
 | Mercucys 802.11n NIC                                                                          | 1         | 1.43%   |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter                                 | 1         | 1.43%   |
@@ -1821,21 +1822,21 @@ Ethernet models
 | Intel Ethernet Connection (16) I219-V                             | 3         | 8.82%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 5.88%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 5.88%   |
-| OPPO KALAMA-MTP_CID:0437_SN:7EF55BBA                              | 2         | 5.88%   |
+| OPPO WAIPIO-MTP _SN:AC53F926                                      | 2         | 5.88%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 2.94%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1         | 2.94%   |
-| Qualcomm POCO M2 Pro                                              | 1         | 2.94%   |
+| Qualcomm Redmi Note 8                                             | 1         | 2.94%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 2.94%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 2.94%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 2.94%   |
-| OPPO 8                                                            | 1         | 2.94%   |
+| OPPO RMX2027                                                      | 1         | 2.94%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 2.94%   |
 | Intel Ethernet Connection I219-V                                  | 1         | 2.94%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 2.94%   |
 | Intel Ethernet Connection (4) I219-LM                             | 1         | 2.94%   |
 | Intel Ethernet Connection (11) I219-V                             | 1         | 2.94%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 1         | 2.94%   |
-| Google Pixel 7 Pro                                                | 1         | 2.94%   |
+| Google Pixel 8 Pro                                                | 1         | 2.94%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 2.94%   |
 
 Net Controller Kind
@@ -1935,7 +1936,7 @@ Controller models
 | Intel AX200 Bluetooth                          | 1         | 5%      |
 | IMC Networks Wireless_Device                   | 1         | 5%      |
 | IMC Networks Bluetooth Radio                   | 1         | 5%      |
-| Foxconn / Hon Hai MediaTek Bluetooth Adapter   | 1         | 5%      |
+| Foxconn / Hon Hai Wireless_Device              | 1         | 5%      |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]     | 1         | 5%      |
 
 Sound
@@ -2030,7 +2031,7 @@ Memory module models
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.94%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 2.94%   |
 | SK hynix RAM HMCG78MEBSA092N 16GB SODIMM DDR5 4800MT/s       | 1         | 2.94%   |
-| SK hynix RAM HMAB2GS6CMR6N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 2.94%   |
+| SK hynix RAM HMAB2GS6CMR6N-XN 16384MB SODIMM DDR4 3200MT/s   | 1         | 2.94%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s       | 1         | 2.94%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s       | 1         | 2.94%   |
 | Samsung RAM Module 1GB Row Of Chips LPDDR4 3733MT/s          | 1         | 2.94%   |
@@ -2042,13 +2043,13 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s        | 1         | 2.94%   |
 | Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 2.94%   |
 | Samsung RAM K4UBE3D4AA-MGCR 8GB SODIMM LPDDR4 4266MT/s       | 1         | 2.94%   |
-| Samsung RAM K4F8E304HB-MGCJ 1GB LPDDR4 2400MT/s              | 1         | 2.94%   |
+| Samsung RAM K4F8E304HB-MGCJ 1GB 2400MT/s                     | 1         | 2.94%   |
 | Ramos RAM EMB2GB481CL4-13HA 2GB DIMM 1227MT/s                | 1         | 2.94%   |
 | PNY RAM 8GBF1X08QFHH38-135-K 8GB DIMM DDR4 3600MT/s          | 1         | 2.94%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3266MT/s          | 1         | 2.94%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s           | 1         | 2.94%   |
 | Micron RAM MT40A1G16RC-062E:B 8GB SODIMM DDR4 3200MT/s       | 1         | 2.94%   |
 | Micron RAM MT40A1G16RC-062E:B 8GB Row Of Chips DDR4 3200MT/s | 1         | 2.94%   |
-| Micron RAM 4ATF51264HZ-2G6E3 4GB SODIMM DDR4 2667MT/s        | 1         | 2.94%   |
+| Micron RAM 4ATF51264HZ-2G6E3 4096MB SODIMM DDR4 2667MT/s     | 1         | 2.94%   |
 | Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s        | 1         | 2.94%   |
 | Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 3200MT/s        | 1         | 2.94%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s       | 1         | 2.94%   |
@@ -2179,15 +2180,14 @@ Camera device vendors
 | IMC Networks                  | 4         | 14.81%  |
 | Realtek Semiconductor         | 3         | 11.11%  |
 | Sunplus Innovation Technology | 2         | 7.41%   |
+| Bison Electronics             | 2         | 7.41%   |
 | Tobii Technology AB           | 1         | 3.7%    |
 | Syntek                        | 1         | 3.7%    |
 | Sonix Technology              | 1         | 3.7%    |
 | Quanta                        | 1         | 3.7%    |
 | Primax Electronics            | 1         | 3.7%    |
 | Microdia                      | 1         | 3.7%    |
-| Bison Electronics             | 1         | 3.7%    |
 | Apple                         | 1         | 3.7%    |
-| Acer                          | 1         | 3.7%    |
 | 8SSC21D67422V1SR28902JL       | 1         | 3.7%    |
 
 Camera Model
@@ -2204,8 +2204,8 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam                                     | 2         | 7.41%   |
 | Tobii AB Eyechip                                                      | 1         | 3.7%    |
 | Syntek Integrated Camera                                              | 1         | 3.7%    |
+| Sunplus MTD Camera                                                    | 1         | 3.7%    |
 | Sunplus Laptop Integrated Webcam FHD                                  | 1         | 3.7%    |
-| Sunplus Integrated_Webcam_HD                                          | 1         | 3.7%    |
 | Sonix USB2.0 FHD UVC WebCam                                           | 1         | 3.7%    |
 | Realtek Integrated Webcam_HD                                          | 1         | 3.7%    |
 | Realtek Integrated Webcam HD                                          | 1         | 3.7%    |
@@ -2219,9 +2219,9 @@ Camera device models
 | Chicony HP High Definition 1MP Webcam                                 | 1         | 3.7%    |
 | Chicony HP HD Camera                                                  | 1         | 3.7%    |
 | Chicony HP 5MP Camera                                                 | 1         | 3.7%    |
+| Bison Integrated Camera                                               | 1         | 3.7%    |
 | Bison HD Webcam                                                       | 1         | 3.7%    |
 | Apple FaceTime HD Camera (Built-in)                                   | 1         | 3.7%    |
-| Acer Integrated Camera                                                | 1         | 3.7%    |
 | 8SSC21D67422V1SR28902JL Integrated RGB Camera                         | 1         | 3.7%    |
 
 Security

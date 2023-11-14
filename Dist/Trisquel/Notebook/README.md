@@ -1044,9 +1044,9 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]             | 2         | 7.14%   |
 | AMD FCH SATA Controller [AHCI mode]                                          | 2         | 7.14%   |
 | Toshiba America Info Systems XG4 NVMe SSD Controller                         | 1         | 3.57%   |
-| SanDisk WD Blue SN570 NVMe SSD 1TB                                           | 1         | 3.57%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                   | 1         | 3.57%   |
-| Samsung NVMe SSD Controller 980                                              | 1         | 3.57%   |
+| SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                        | 1         | 3.57%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD         | 1         | 3.57%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                  | 1         | 3.57%   |
 | Intel Volume Management Device NVMe RAID Controller                          | 1         | 3.57%   |
 | Intel Tiger Lake SATA AHCI Controller                                        | 1         | 3.57%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                           | 1         | 3.57%   |
@@ -1382,9 +1382,9 @@ Monitor models
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch                  | 2         | 8.7%    |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch                  | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 4.35%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SEC374E 1024x600 223x125mm 10.1-inch     | 1         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC3052 1024x600 223x125mm 10.1-inch     | 1         | 4.35%   |
+| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 1         | 4.35%   |
 | LG Display LCD Monitor LGD033C 1366x768 309x174mm 14.0-inch              | 1         | 4.35%   |
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch              | 1         | 4.35%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 4.35%   |
@@ -1567,7 +1567,7 @@ Controller models
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.85%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.85%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.85%   |
-| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                 | 1         | 1.85%   |
+| Microsoft Ethernet Adapter                                        | 1         | 1.85%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 1.85%   |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 1.85%   |
 | Intel Wireless 7265                                               | 1         | 1.85%   |
@@ -1660,7 +1660,7 @@ Ethernet models
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 4.35%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 4.35%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 4.35%   |
-| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                 | 1         | 4.35%   |
+| Microsoft Ethernet Adapter                                        | 1         | 4.35%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 4.35%   |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 4.35%   |
 | Intel 82567LF Gigabit Network Connection                          | 1         | 4.35%   |
@@ -1838,13 +1838,13 @@ Memory module models
 |----------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s          | 2         | 10.53%  |
 | Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s          | 2         | 10.53%  |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s          | 1         | 5.26%   |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 975MT/s        | 1         | 5.26%   |
 | SK hynix RAM HMT41GS6AFR8A-H9 8192MB SODIMM DDR3 1333MT/s      | 1         | 5.26%   |
 | SK hynix RAM HMA851S6CJR6N-UH 4GB SODIMM DDR4 2400MT/s         | 1         | 5.26%   |
 | Samsung RAM Module 2GB Row Of Chips DDR3 1600MT/s              | 1         | 5.26%   |
 | Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s          | 1         | 5.26%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s          | 1         | 5.26%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s        | 1         | 5.26%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Qimonda RAM 64T512022EDL2.5A 4096MB SODIMM DDR 800MT/s         | 1         | 5.26%   |
 | Micron RAM MT52L512M32D2PF-10 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 5.26%   |
 | Micron RAM H6451U64F7066G 4096MB SODIMM DDR3 1067MT/s          | 1         | 5.26%   |
@@ -2068,9 +2068,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 14        | 56%     |
-| 1     | 7         | 28%     |
-| 2     | 4         | 16%     |
+| 0     | 15        | 60%     |
+| 1     | 9         | 36%     |
+| 2     | 1         | 4%      |
 
 Unsupported Device Types
 ------------------------
@@ -2082,10 +2082,10 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Graphics card         | 8         | 57.14%  |
-| Chipcard              | 2         | 14.29%  |
-| Net/wireless          | 1         | 7.14%   |
-| Multimedia controller | 1         | 7.14%   |
-| Fingerprint reader    | 1         | 7.14%   |
-| Bluetooth             | 1         | 7.14%   |
+| Graphics card         | 4         | 40%     |
+| Chipcard              | 2         | 20%     |
+| Net/wireless          | 1         | 10%     |
+| Multimedia controller | 1         | 10%     |
+| Fingerprint reader    | 1         | 10%     |
+| Bluetooth             | 1         | 10%     |
 

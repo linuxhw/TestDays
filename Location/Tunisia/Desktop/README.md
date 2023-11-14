@@ -900,7 +900,7 @@ Hard drive models
 | WDC WD5000AAKS-402AA0 500GB          | 1        | 1.75%   |
 | WDC WD5000AACS-00ZUB0 500GB          | 1        | 1.75%   |
 | WDC WD3200AAJS-60M0A1 320GB          | 1        | 1.75%   |
-| WDC WD2500AAJS-75M0A0 250GB          | 1        | 1.75%   |
+| WDC WD2500AAJS-75M0A0 249GB          | 1        | 1.75%   |
 | WDC WD10PURZ-85U8XY0 1TB             | 1        | 1.75%   |
 | WDC WD10EZEX-75WN4A1 1TB             | 1        | 1.75%   |
 | WDC WD10EZEX-00BN5A0 1TB             | 1        | 1.75%   |
@@ -1179,15 +1179,15 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 3        | 5.77%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 3        | 5.77%   |
 | AMD FCH SATA Controller [AHCI mode]                                                     | 3        | 5.77%   |
-| Samsung NVMe SSD Controller 980                                                         | 2        | 3.85%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                             | 2        | 3.85%   |
 | Intel SATA Controller [RAID mode]                                                       | 2        | 3.85%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 2        | 3.85%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                               | 2        | 3.85%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 2        | 3.85%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 2        | 3.85%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 2        | 3.85%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.92%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1        | 1.92%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 1.92%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                             | 1        | 1.92%   |
 | Intel Volume Management Device NVMe RAID Controller                                     | 1        | 1.92%   |
 | Intel Comet Lake SATA AHCI Controller                                                   | 1        | 1.92%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                                  | 1        | 1.92%   |
@@ -1585,7 +1585,7 @@ Monitor models
 | Hewlett-Packard E241i HWP3123 1920x1200 518x324mm 24.1-inch          | 1        | 2.5%    |
 | Hewlett-Packard 2011 HWP2935 1600x900 443x249mm 20.0-inch            | 1        | 2.5%    |
 | Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch            | 1        | 2.5%    |
-| GDH PHILCO GDH0030 1440x900 708x398mm 32.0-inch                      | 1        | 2.5%    |
+| GDH TV PHILCO GDH0030 1920x1080 708x398mm 32.0-inch                  | 1        | 2.5%    |
 | Dell S2721HGF DEL41E8 1920x1080 600x340mm 27.2-inch                  | 1        | 2.5%    |
 | BenQ T201W BNQ7719 1680x1050 433x271mm 20.1-inch                     | 1        | 2.5%    |
 | AU Optronics LCD Monitor AUO61D2 1024x600 222x125mm 10.0-inch        | 1        | 2.5%    |
@@ -2046,12 +2046,12 @@ Memory module models
 | Unknown RAM Module 4GB DIMM DDR3 1066MT/s                      | 1        | 3.45%   |
 | Unknown RAM Module 4GB DIMM DDR3                               | 1        | 3.45%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                         | 1        | 3.45%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM LPDDR4 2400MT/s | 1        | 3.45%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 3.45%   |
 | TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s               | 1        | 3.45%   |
 | TwinMOS RAM 9D7TBNZB-TATP 4096MB DIMM DDR3 1066MT/s            | 1        | 3.45%   |
 | Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s          | 1        | 3.45%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3800MT/s             | 1        | 3.45%   |
-| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2400MT/s             | 1        | 3.45%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s            | 1        | 3.45%   |
+| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s            | 1        | 3.45%   |
 | SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 3.45%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 3.45%   |
 | SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s           | 1        | 3.45%   |
@@ -2069,7 +2069,7 @@ Memory module models
 | Melco RAM Module 2GB DIMM DDR2 667MT/s                         | 1        | 3.45%   |
 | GOODRAM RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s             | 1        | 3.45%   |
 | Elpida RAM HMT451S6AFR8C-H9 4GB DIMM DDR3                      | 1        | 3.45%   |
-| Crucial RAM BL16G32C16U4B.16FE 16GB DIMM DDR4 3200MT/s         | 1        | 3.45%   |
+| Crucial RAM BL16G32C16U4B.16FE 16384MB DIMM DDR4 3200MT/s      | 1        | 3.45%   |
 | 0BBA00000000 RAM KBN1333D3N9/4G 4096MB DIMM DDR3 1066MT/s      | 1        | 3.45%   |
 
 Memory Kind
