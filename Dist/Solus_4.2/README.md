@@ -844,20 +844,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SanDisk             | 4         | 5      | 21.05%  |
-| Samsung Electronics | 2         | 2      | 10.53%  |
-| Micron Technology   | 2         | 3      | 10.53%  |
-| WDC                 | 1         | 1      | 5.26%   |
-| Unknown             | 1         | 1      | 5.26%   |
-| Transcend           | 1         | 1      | 5.26%   |
-| Patriot             | 1         | 1      | 5.26%   |
-| Kingston            | 1         | 1      | 5.26%   |
-| Intel               | 1         | 1      | 5.26%   |
-| Gigabyte Technology | 1         | 1      | 5.26%   |
-| Corsair             | 1         | 1      | 5.26%   |
-| China               | 1         | 1      | 5.26%   |
-| Apple               | 1         | 3      | 5.26%   |
-| A-DATA Technology   | 1         | 1      | 5.26%   |
+| SanDisk             | 4         | 5      | 20%     |
+| Samsung Electronics | 3         | 3      | 15%     |
+| Micron Technology   | 2         | 3      | 10%     |
+| WDC                 | 1         | 1      | 5%      |
+| Unknown             | 1         | 1      | 5%      |
+| Transcend           | 1         | 1      | 5%      |
+| Patriot             | 1         | 1      | 5%      |
+| Kingston            | 1         | 1      | 5%      |
+| Intel               | 1         | 1      | 5%      |
+| Gigabyte Technology | 1         | 1      | 5%      |
+| Corsair             | 1         | 1      | 5%      |
+| China               | 1         | 1      | 5%      |
+| Apple               | 1         | 3      | 5%      |
+| A-DATA Technology   | 1         | 1      | 5%      |
 
 Drive Kind
 ----------
@@ -869,9 +869,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 17        | 23     | 47.22%  |
-| HDD  | 14        | 21     | 38.89%  |
-| NVMe | 5         | 9      | 13.89%  |
+| SSD  | 18        | 24     | 48.65%  |
+| HDD  | 14        | 21     | 37.84%  |
+| NVMe | 5         | 8      | 13.51%  |
 
 Drive Connector
 ---------------
@@ -897,10 +897,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 24     | 61.29%  |
-| 0.51-1.0   | 10        | 15     | 32.26%  |
-| 3.01-4.0   | 1         | 1      | 3.23%   |
-| 1.01-2.0   | 1         | 4      | 3.23%   |
+| 0.01-0.5   | 20        | 25     | 62.5%   |
+| 0.51-1.0   | 10        | 15     | 31.25%  |
+| 3.01-4.0   | 1         | 1      | 3.13%   |
+| 1.01-2.0   | 1         | 4      | 3.13%   |
 
 Space Total
 -----------
@@ -1431,7 +1431,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
+| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
@@ -1615,7 +1615,7 @@ Controller models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.89%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:5A38C392                        | 1         | 1.89%   |
+| OnePlus (Shenzhen) OnePlus                                        | 1         | 1.89%   |
 | NetGear A6150                                                     | 1         | 1.89%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Intel Wireless-AC 9260                                            | 1         | 1.89%   |
@@ -1818,20 +1818,20 @@ Controller models
 ![Bluetooth Model](./All/images/pie_chart/bt_model.svg)
 
 
-| Model                                      | Computers | Percent |
-|--------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface         | 2         | 13.33%  |
-| Intel Bluetooth Device                     | 2         | 13.33%  |
-| Apple Bluetooth USB Host Controller        | 2         | 13.33%  |
-| Toshiba RT Bluetooth Radio                 | 1         | 6.67%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 6.67%   |
-| Realtek Bluetooth Radio                    | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth          | 1         | 6.67%   |
-| Qualcomm Atheros AR3011 Bluetooth          | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 6.67%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter   | 1         | 6.67%   |
-| Intel AX200 Bluetooth                      | 1         | 6.67%   |
-| Broadcom BCM20702A0 Bluetooth 4.0          | 1         | 6.67%   |
+| Model                                            | Computers | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
+| Intel Bluetooth wireless interface               | 2         | 13.33%  |
+| Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
+| Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
+| Realtek Bluetooth Radio                          | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
+| Intel AX200 Bluetooth                            | 1         | 6.67%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
 
 Sound
 -----
@@ -2082,7 +2082,7 @@ Camera device models
 | Chicony Integrated Camera                 | 1         | 7.14%   |
 | Chicony HD WebCam                         | 1         | 7.14%   |
 | Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X           | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR        | 1         | 7.14%   |
 | Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security
@@ -2157,8 +2157,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 17        | 65.38%  |
-| 1     | 6         | 23.08%  |
+| 0     | 16        | 61.54%  |
+| 1     | 7         | 26.92%  |
 | 2     | 3         | 11.54%  |
 
 Unsupported Device Types
@@ -2171,8 +2171,9 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Net/wireless       | 4         | 36.36%  |
-| Fingerprint reader | 4         | 36.36%  |
-| Chipcard           | 2         | 18.18%  |
-| Unassigned class   | 1         | 9.09%   |
+| Net/wireless       | 4         | 33.33%  |
+| Fingerprint reader | 4         | 33.33%  |
+| Chipcard           | 2         | 16.67%  |
+| Unassigned class   | 1         | 8.33%   |
+| Graphics card      | 1         | 8.33%   |
 

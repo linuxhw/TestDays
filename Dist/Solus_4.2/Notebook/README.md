@@ -717,13 +717,14 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Micron Technology   | 2         | 3      | 25%     |
-| WDC                 | 1         | 1      | 12.5%   |
-| Transcend           | 1         | 1      | 12.5%   |
-| SanDisk             | 1         | 1      | 12.5%   |
-| Kingston            | 1         | 1      | 12.5%   |
-| Intel               | 1         | 1      | 12.5%   |
-| Gigabyte Technology | 1         | 1      | 12.5%   |
+| Micron Technology   | 2         | 3      | 22.22%  |
+| WDC                 | 1         | 1      | 11.11%  |
+| Transcend           | 1         | 1      | 11.11%  |
+| SanDisk             | 1         | 1      | 11.11%  |
+| Samsung Electronics | 1         | 1      | 11.11%  |
+| Kingston            | 1         | 1      | 11.11%  |
+| Intel               | 1         | 1      | 11.11%  |
+| Gigabyte Technology | 1         | 1      | 11.11%  |
 
 Drive Kind
 ----------
@@ -735,9 +736,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 7         | 9      | 46.67%  |
-| HDD  | 6         | 7      | 40%     |
-| NVMe | 2         | 4      | 13.33%  |
+| SSD  | 8         | 10     | 50%     |
+| HDD  | 6         | 7      | 37.5%   |
+| NVMe | 2         | 3      | 12.5%   |
 
 Drive Connector
 ---------------
@@ -763,8 +764,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 8         | 10     | 61.54%  |
-| 0.51-1.0   | 5         | 6      | 38.46%  |
+| 0.01-0.5   | 9         | 11     | 64.29%  |
+| 0.51-1.0   | 5         | 6      | 35.71%  |
 
 Space Total
 -----------
@@ -1339,7 +1340,7 @@ Controller models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
-| OnePlus (Shenzhen) SM8150-MTP _SN:5A38C392                        | 1         | 3.57%   |
+| OnePlus (Shenzhen) OnePlus                                        | 1         | 3.57%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
 | Intel Wireless 8260                                               | 1         | 3.57%   |
 | Intel Wireless 7260                                               | 1         | 3.57%   |
@@ -1508,16 +1509,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                      | Notebooks | Percent |
-|--------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface         | 2         | 20%     |
-| Intel Bluetooth Device                     | 2         | 20%     |
-| Toshiba RT Bluetooth Radio                 | 1         | 10%     |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth          | 1         | 10%     |
-| Qualcomm Atheros AR3011 Bluetooth          | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 10%     |
-| Intel AX200 Bluetooth                      | 1         | 10%     |
+| Model                                            | Notebooks | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
+| Intel Bluetooth wireless interface               | 2         | 20%     |
+| Toshiba RT Bluetooth Radio                       | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
+| Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
 -----
@@ -1794,8 +1795,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 7         | 53.85%  |
-| 1     | 4         | 30.77%  |
+| 0     | 6         | 46.15%  |
+| 1     | 5         | 38.46%  |
 | 2     | 2         | 15.38%  |
 
 Unsupported Device Types
@@ -1808,7 +1809,8 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 4         | 57.14%  |
-| Net/wireless       | 2         | 28.57%  |
-| Chipcard           | 1         | 14.29%  |
+| Fingerprint reader | 4         | 50%     |
+| Net/wireless       | 2         | 25%     |
+| Graphics card      | 1         | 12.5%   |
+| Chipcard           | 1         | 12.5%   |
 

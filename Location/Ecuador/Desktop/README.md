@@ -908,8 +908,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 40       | 51.95%  |
-| No        | 37       | 48.05%  |
+| Yes       | 41       | 53.25%  |
+| No        | 36       | 46.75%  |
 
 Has Ethernet
 ------------
@@ -1779,14 +1779,14 @@ Monitor models
 | BenQ G2420HDBL BNQ785E 1920x1080 477x268mm 21.5-inch                 | 3        | 3.8%    |
 | Samsung Electronics S19C150 SAM0AE6 1366x768 410x230mm 18.5-inch     | 2        | 2.53%   |
 | LG Electronics LCD Monitor LG TV 1360x768                            | 2        | 2.53%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                 | 2        | 2.53%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                 | 2        | 2.53%   |
 | Goldstar IPS WSXGA GSM5B20 1440x900 419x262mm 19.5-inch              | 2        | 2.53%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                  | 2        | 2.53%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                 | 2        | 2.53%   |
 | BenQ GL930A BNQ7870 1366x768 410x230mm 18.5-inch                     | 2        | 2.53%   |
 | AOC 2251w AOC2251 1920x1080 477x268mm 21.5-inch                      | 2        | 2.53%   |
 | Unknown (XXX) Union TV XXX2841 1920x1080 1209x680mm 54.6-inch        | 1        | 1.27%   |
-| Samsung Electronics SyncMaster SAM01CE 1024x768 300x230mm 14.9-inch  | 1        | 1.27%   |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 1.27%   |
 | Samsung Electronics SyncMaster SAM00A4 1024x768 304x228mm 15.0-inch  | 1        | 1.27%   |
 | Samsung Electronics SyncMaster SAM0027 1280x1024 312x234mm 15.4-inch | 1        | 1.27%   |
 | Samsung Electronics SA300/SA350 SAM0788 1366x768 410x230mm 18.5-inch | 1        | 1.27%   |
@@ -1806,7 +1806,7 @@ Monitor models
 | Hewlett-Packard Omni/Pro HWP410E 1366x768 410x230mm 18.5-inch        | 1        | 1.27%   |
 | Hewlett-Packard LCD Monitor L1710 2646x1024                          | 1        | 1.27%   |
 | Hewlett-Packard E241i HWP3124 1920x1200 518x324mm 24.1-inch          | 1        | 1.27%   |
-| Hewlett-Packard E241i HWP3122 1920x1200 518x324mm 24.1-inch          | 1        | 1.27%   |
+| Hewlett-Packard E241i HWP3122 1920x1200 520x320mm 24.0-inch          | 1        | 1.27%   |
 | Goldstar T1910 GSM4BD8 1280x1024 376x301mm 19.0-inch                 | 1        | 1.27%   |
 | Goldstar M237WA GSM5724 1920x1080 509x286mm 23.0-inch                | 1        | 1.27%   |
 | Goldstar L177WSB GSM448D 1440x900 370x232mm 17.2-inch                | 1        | 1.27%   |
@@ -2005,7 +2005,7 @@ Controller models
 | TP-Link Archer T4U ver.3                                                                      | 1        | 0.89%   |
 | TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]                           | 1        | 0.89%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                                    | 1        | 0.89%   |
-| TP-Link 802.11 NIC                                                                            | 1        | 0.89%   |
+| TP-Link 802.11n NIC                                                                           | 1        | 0.89%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                                   | 1        | 0.89%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 0.89%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 0.89%   |
@@ -2063,7 +2063,7 @@ Wireless models
 | TP-Link Archer T4U ver.3                                                                      | 1        | 3.33%   |
 | TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]                           | 1        | 3.33%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                                    | 1        | 3.33%   |
-| TP-Link 802.11 NIC                                                                            | 1        | 3.33%   |
+| TP-Link 802.11n NIC                                                                           | 1        | 3.33%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 3.33%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 3.33%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                                               | 1        | 3.33%   |
@@ -2090,15 +2090,14 @@ Ethernet vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Realtek Semiconductor | 50       | 61.73%  |
-| Intel                 | 18       | 22.22%  |
-| Qualcomm Atheros      | 5        | 6.17%   |
-| D-Link System         | 2        | 2.47%   |
-| Broadcom              | 2        | 2.47%   |
-| Xiaomi                | 1        | 1.23%   |
-| VIA Technologies      | 1        | 1.23%   |
-| Samsung Electronics   | 1        | 1.23%   |
-| Nvidia                | 1        | 1.23%   |
+| Realtek Semiconductor | 50       | 62.5%   |
+| Intel                 | 18       | 22.5%   |
+| Qualcomm Atheros      | 5        | 6.25%   |
+| D-Link System         | 2        | 2.5%    |
+| Broadcom              | 2        | 2.5%    |
+| Xiaomi                | 1        | 1.25%   |
+| VIA Technologies      | 1        | 1.25%   |
+| Nvidia                | 1        | 1.25%   |
 
 Ethernet Model
 --------------
@@ -2110,33 +2109,32 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 39       | 48.15%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 6        | 7.41%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 3.7%    |
-| Intel Ethernet Connection I217-LM                                 | 3        | 3.7%    |
-| Intel Ethernet Connection (2) I219-V                              | 3        | 3.7%    |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 2        | 2.47%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2        | 2.47%   |
-| Intel I211 Gigabit Network Connection                             | 2        | 2.47%   |
-| Intel 82579V Gigabit Network Connection                           | 2        | 2.47%   |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                   | 2        | 2.47%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.23%   |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 1.23%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 1.23%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.23%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.23%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 1.23%   |
-| Nvidia MCP61 Ethernet                                             | 1        | 1.23%   |
-| Intel Ethernet Connection I217-V                                  | 1        | 1.23%   |
-| Intel Ethernet Connection (7) I219-V                              | 1        | 1.23%   |
-| Intel Ethernet Connection (17) I219-V                             | 1        | 1.23%   |
-| Intel Ethernet Connection (11) I219-V                             | 1        | 1.23%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 1.23%   |
-| Intel 82578DC Gigabit Network Connection                          | 1        | 1.23%   |
-| Intel 82566DC-2 Gigabit Network Connection                        | 1        | 1.23%   |
-| Intel 82566DC Gigabit Network Connection                          | 1        | 1.23%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 1        | 1.23%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                  | 1        | 1.23%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 39       | 48.75%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 6        | 7.5%    |
+| Realtek RTL8125 2.5GbE Controller                                 | 3        | 3.75%   |
+| Intel Ethernet Connection I217-LM                                 | 3        | 3.75%   |
+| Intel Ethernet Connection (2) I219-V                              | 3        | 3.75%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 2        | 2.5%    |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2        | 2.5%    |
+| Intel I211 Gigabit Network Connection                             | 2        | 2.5%    |
+| Intel 82579V Gigabit Network Connection                           | 2        | 2.5%    |
+| D-Link System DGE-528T Gigabit Ethernet Adapter                   | 2        | 2.5%    |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.25%   |
+| VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 1.25%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.25%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.25%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 1.25%   |
+| Nvidia MCP61 Ethernet                                             | 1        | 1.25%   |
+| Intel Ethernet Connection I217-V                                  | 1        | 1.25%   |
+| Intel Ethernet Connection (7) I219-V                              | 1        | 1.25%   |
+| Intel Ethernet Connection (17) I219-V                             | 1        | 1.25%   |
+| Intel Ethernet Connection (11) I219-V                             | 1        | 1.25%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 1.25%   |
+| Intel 82578DC Gigabit Network Connection                          | 1        | 1.25%   |
+| Intel 82566DC-2 Gigabit Network Connection                        | 1        | 1.25%   |
+| Intel 82566DC Gigabit Network Connection                          | 1        | 1.25%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 1        | 1.25%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                  | 1        | 1.25%   |
 
 Net Controller Kind
 -------------------
@@ -2148,9 +2146,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 75       | 72.12%  |
-| WiFi     | 28       | 26.92%  |
-| Modem    | 1        | 0.96%   |
+| Ethernet | 75       | 71.43%  |
+| WiFi     | 28       | 26.67%  |
+| Modem    | 2        | 1.9%    |
 
 Used Controller
 ---------------
@@ -2223,7 +2221,7 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 9        | 60%     |
-| TP-Link UB500 Adapter                               | 1        | 6.67%   |
+| TP-Link TP-Cdj+ UB5A Adapter                        | 1        | 6.67%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1        | 6.67%   |
 | Intel Bluetooth Device                              | 1        | 6.67%   |
 | Intel AX201 Bluetooth                               | 1        | 6.67%   |
@@ -2536,7 +2534,7 @@ Camera device models
 | Pixart Imaging Multimedia audio controller | 1        | 5.26%   |
 | Microdia Webcam Vitade AF                  | 1        | 5.26%   |
 | KYE Systems (Mouse Systems) WideCam 1050   | 1        | 5.26%   |
-| KYE Systems (Mouse Systems) PC-LM1E Camera | 1        | 5.26%   |
+| KYE Systems (Mouse Systems) Genius Webcam  | 1        | 5.26%   |
 | KYE Systems (Mouse Systems) FaceCam 310    | 1        | 5.26%   |
 | Jieli USB PHY 2.0                          | 1        | 5.26%   |
 | IMC Networks XHC Camera                    | 1        | 5.26%   |
@@ -2545,7 +2543,7 @@ Camera device models
 | Generalplus 808 Camera #9 (web-cam mode)   | 1        | 5.26%   |
 | GEMBIRD USB2.0 PC CAMERA                   | 1        | 5.26%   |
 | Chicony HP High Definition 1MP Webcam      | 1        | 5.26%   |
-| Arkmicro USB2.0 PC CAMERA                  | 1        | 5.26%   |
+| Arkmicro Acme CA04                         | 1        | 5.26%   |
 
 Security
 --------
@@ -2611,8 +2609,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 64       | 82.05%  |
-| 1     | 12       | 15.38%  |
+| 0     | 63       | 80.77%  |
+| 1     | 13       | 16.67%  |
 | 2     | 2        | 2.56%   |
 
 Unsupported Device Types
@@ -2625,9 +2623,9 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 7        | 43.75%  |
-| Net/wireless             | 5        | 31.25%  |
-| Communication controller | 2        | 12.5%   |
-| Fingerprint reader       | 1        | 6.25%   |
-| Chipcard                 | 1        | 6.25%   |
+| Graphics card            | 8        | 47.06%  |
+| Net/wireless             | 5        | 29.41%  |
+| Communication controller | 2        | 11.76%  |
+| Fingerprint reader       | 1        | 5.88%   |
+| Chipcard                 | 1        | 5.88%   |
 

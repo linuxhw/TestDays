@@ -622,7 +622,7 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2008 | 12        | 20.34%  |
+| 2008 | 13        | 22.03%  |
 | 2014 | 6         | 10.17%  |
 | 2020 | 5         | 8.47%   |
 | 2019 | 4         | 6.78%   |
@@ -630,10 +630,10 @@ Motherboard manufacture year
 | 2017 | 4         | 6.78%   |
 | 2016 | 4         | 6.78%   |
 | 2015 | 4         | 6.78%   |
-| 2009 | 4         | 6.78%   |
-| 2012 | 3         | 5.08%   |
-| 2011 | 3         | 5.08%   |
+| 2011 | 4         | 6.78%   |
+| 2009 | 3         | 5.08%   |
 | 2007 | 3         | 5.08%   |
+| 2012 | 2         | 3.39%   |
 | 2013 | 1         | 1.69%   |
 | 2010 | 1         | 1.69%   |
 | 2005 | 1         | 1.69%   |
@@ -736,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 33        | 55.93%  |
-| Yes       | 26        | 44.07%  |
+| No        | 34        | 57.63%  |
+| Yes       | 25        | 42.37%  |
 
 Has Ethernet
 ------------
@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 2TB                     | 1         | 1.49%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -964,13 +964,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 6         | 7      | 26.09%  |
-| WDC                 | 5         | 5      | 21.74%  |
-| Hitachi             | 5         | 5      | 21.74%  |
-| Toshiba             | 2         | 2      | 8.7%    |
-| HGST                | 2         | 3      | 8.7%    |
-| Fujitsu             | 2         | 2      | 8.7%    |
-| Samsung Electronics | 1         | 1      | 4.35%   |
+| Seagate             | 6         | 7      | 25%     |
+| WDC                 | 5         | 5      | 20.83%  |
+| Hitachi             | 5         | 5      | 20.83%  |
+| Toshiba             | 2         | 2      | 8.33%   |
+| HGST                | 2         | 3      | 8.33%   |
+| Fujitsu             | 2         | 2      | 8.33%   |
+| TO Exter            | 1         | 1      | 4.17%   |
+| Samsung Electronics | 1         | 1      | 4.17%   |
 
 SSD Vendor
 ----------
@@ -982,20 +983,19 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 4         | 5      | 20%     |
-| Kingston            | 3         | 4      | 15%     |
-| Crucial             | 2         | 2      | 10%     |
-| WDC                 | 1         | 1      | 5%      |
-| TO Exter            | 1         | 1      | 5%      |
-| SPCC                | 1         | 1      | 5%      |
-| SanDisk             | 1         | 1      | 5%      |
-| Patriot             | 1         | 2      | 5%      |
-| Netac               | 1         | 2      | 5%      |
-| MyDigitalSSD        | 1         | 1      | 5%      |
-| KingSpec            | 1         | 1      | 5%      |
-| KingDian            | 1         | 1      | 5%      |
-| Intel               | 1         | 1      | 5%      |
-| China               | 1         | 1      | 5%      |
+| Samsung Electronics | 4         | 5      | 21.05%  |
+| Kingston            | 3         | 4      | 15.79%  |
+| Crucial             | 2         | 2      | 10.53%  |
+| WDC                 | 1         | 1      | 5.26%   |
+| SPCC                | 1         | 1      | 5.26%   |
+| SanDisk             | 1         | 1      | 5.26%   |
+| Patriot             | 1         | 2      | 5.26%   |
+| Netac               | 1         | 2      | 5.26%   |
+| MyDigitalSSD        | 1         | 1      | 5.26%   |
+| KingSpec            | 1         | 1      | 5.26%   |
+| KingDian            | 1         | 1      | 5.26%   |
+| Intel               | 1         | 1      | 5.26%   |
+| China               | 1         | 1      | 5.26%   |
 
 Drive Kind
 ----------
@@ -1007,8 +1007,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 23        | 25     | 35.94%  |
-| SSD  | 20        | 24     | 31.25%  |
+| HDD  | 24        | 26     | 37.5%   |
+| SSD  | 19        | 23     | 29.69%  |
 | MMC  | 18        | 24     | 28.13%  |
 | NVMe | 3         | 4      | 4.69%   |
 
@@ -1038,7 +1038,7 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 40        | 48     | 97.56%  |
-| 1.01-2.0   | 1         | 1      | 2.44%   |
+| 0.51-1.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1583,7 +1583,7 @@ Monitor models
 | Toshiba TV TSB0106 1366x768                                           | 1         | 1.67%   |
 | Sony TV SNY9C01 1360x768                                              | 1         | 1.67%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch               | 1         | 1.67%   |
-| Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch               | 1         | 1.67%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
@@ -1591,7 +1591,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768                      | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch  | 1         | 1.67%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                        | 1         | 1.67%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch                | 1         | 1.67%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch           | 1         | 1.67%   |
@@ -1601,7 +1601,7 @@ Monitor models
 | LG Display LCD Monitor LGD01F7 1366x768 293x165mm 13.2-inch           | 1         | 1.67%   |
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch           | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch               | 1         | 1.67%   |
-| Lenovo LCD Monitor LEN4053 1680x1050 330x210mm 15.4-inch              | 1         | 1.67%   |
+| Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch              | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch               | 1         | 1.67%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.67%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.67%   |
@@ -2223,10 +2223,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Computers | Percent |
-|----------------------------|-----------|---------|
-| Seiko Epson ET-2710 Series | 1         | 50%     |
-| HP LaserJet 1012           | 1         | 50%     |
+| Model                    | Computers | Percent |
+|--------------------------|-----------|---------|
+| Seiko Epson L3150 Series | 1         | 50%     |
+| HP LaserJet 1012         | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2300,8 +2300,8 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 2.86%   |
 | Sunplus HD WebCam                                       | 1         | 2.86%   |
 | Realtek WebCamera                                       | 1         | 2.86%   |
-| Realtek USB2.0-Camera                                   | 1         | 2.86%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.86%   |
+| Realtek USB Camera                                      | 1         | 2.86%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.86%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.86%   |
 | Microdia HP Webcam                                      | 1         | 2.86%   |
@@ -2387,9 +2387,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 36        | 60%     |
-| 1     | 21        | 35%     |
-| 2     | 3         | 5%      |
+| 0     | 32        | 53.33%  |
+| 1     | 22        | 36.67%  |
+| 2     | 6         | 10%     |
 
 Unsupported Device Types
 ------------------------
@@ -2401,13 +2401,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 23.08%  |
-| Net/wireless             | 5         | 19.23%  |
-| Fingerprint reader       | 5         | 19.23%  |
-| Chipcard                 | 3         | 11.54%  |
-| Storage                  | 2         | 7.69%   |
-| Graphics card            | 2         | 7.69%   |
-| Storage/ide              | 1         | 3.85%   |
-| Modem                    | 1         | 3.85%   |
-| Communication controller | 1         | 3.85%   |
+| Graphics card            | 8         | 25%     |
+| Multimedia controller    | 6         | 18.75%  |
+| Net/wireless             | 5         | 15.63%  |
+| Fingerprint reader       | 5         | 15.63%  |
+| Chipcard                 | 3         | 9.38%   |
+| Storage                  | 2         | 6.25%   |
+| Storage/ide              | 1         | 3.13%   |
+| Modem                    | 1         | 3.13%   |
+| Communication controller | 1         | 3.13%   |
 

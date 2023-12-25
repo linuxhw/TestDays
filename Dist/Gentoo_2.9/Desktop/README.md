@@ -839,8 +839,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 53       | 73.61%  |
-| Yes       | 19       | 26.39%  |
+| No        | 51       | 70.83%  |
+| Yes       | 21       | 29.17%  |
 
 Has Ethernet
 ------------
@@ -988,7 +988,7 @@ Hard drive vendors
 | Samsung Electronics       | 37       | 70     | 23.72%  |
 | WDC                       | 35       | 83     | 22.44%  |
 | Seagate                   | 22       | 44     | 14.1%   |
-| Sandisk                   | 9        | 16     | 5.77%   |
+| SanDisk                   | 9        | 16     | 5.77%   |
 | Toshiba                   | 8        | 13     | 5.13%   |
 | Phison Electronics        | 6        | 9      | 3.85%   |
 | Hitachi                   | 5        | 21     | 3.21%   |
@@ -1022,11 +1022,11 @@ Hard drive models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB     | 15       | 7.58%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 8        | 4.04%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB   | 15       | 7.58%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB    | 8        | 4.04%   |
 | Seagate ST2000DM008-2FR102 2TB                        | 5        | 2.53%   |
 | Samsung SSD 860 EVO 500GB                             | 4        | 2.02%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 121GB   | 4        | 2.02%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 256GB   | 4        | 2.02%   |
 | WDC WD30EFRX-68EUZN0 3TB                              | 3        | 1.52%   |
 | WDC WD10EZEX-08WN4A0 1TB                              | 3        | 1.52%   |
 | Seagate ST1000DM010-2EP102 1TB                        | 3        | 1.52%   |
@@ -1035,14 +1035,14 @@ Hard drive models
 | WDC WD40EZRZ-00WN9B0 4TB                              | 2        | 1.01%   |
 | WDC WD20EARX-00PASB0 2TB                              | 2        | 1.01%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 2        | 1.01%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB                    | 2        | 1.01%   |
+| Sandisk WD Blue SN550 NVMe SSD 512GB                  | 2        | 1.01%   |
 | Samsung SSD 980 500GB                                 | 2        | 1.01%   |
 | Samsung SSD 860 QVO 1TB                               | 2        | 1.01%   |
 | Samsung SSD 860 EVO 250GB                             | 2        | 1.01%   |
 | Samsung SSD 850 EVO 500GB                             | 2        | 1.01%   |
-| Phison PS5013 E13 NVMe Controller 256GB               | 2        | 1.01%   |
+| Phison PS5013 E13 NVMe Controller 512GB               | 2        | 1.01%   |
 | Phison E16 PCIe4 NVMe Controller 500GB                | 2        | 1.01%   |
-| Micron/Crucial P2 NVMe PCIe SSD 500GB                 | 2        | 1.01%   |
+| Micron/Crucial P2 NVMe PCIe SSD 1TB                   | 2        | 1.01%   |
 | GOODRAM SSDPR-CL100-480-G2 480GB                      | 2        | 1.01%   |
 | XPG GAMMIX S70 1TB                                    | 1        | 0.51%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                      | 1        | 0.51%   |
@@ -1202,22 +1202,22 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                                                          | Desktops | Drives | Percent |
-|----------------------------------------------------------------|----------|--------|---------|
-| WDC WD6400AAKS-65A7B0 640GB                                    | 1        | 1      | 7.14%   |
-| WDC WD60EFAX-68SHWN0 6TB                                       | 1        | 3      | 7.14%   |
-| WDC WD5000AAKX-753CA1 500GB                                    | 1        | 1      | 7.14%   |
-| WDC WD30EFRX-68EUZN0 3TB                                       | 1        | 1      | 7.14%   |
-| WDC WD30EFRX-68AX9N0 3TB                                       | 1        | 3      | 7.14%   |
-| WDC WD10EFRX-68PJCN0 1TB                                       | 1        | 1      | 7.14%   |
-| WDC WD10EADS-22M2B0 1TB                                        | 1        | 1      | 7.14%   |
-| WDC WD1001FALS-00J7B1 1TB                                      | 1        | 1      | 7.14%   |
-| Samsung Electronics SSD 980 1TB                                | 1        | 1      | 7.14%   |
-| Samsung Electronics SP2504C 250GB                              | 1        | 1      | 7.14%   |
-| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 1TB  | 1        | 2      | 7.14%   |
-| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 1        | 2      | 7.14%   |
-| Realtek Semiconductor RTS5763DL NVMe SSD Controller 1TB        | 1        | 1      | 7.14%   |
-| Realtek Semiconductor ADATA SX6000PNP 256GB                    | 1        | 4      | 7.14%   |
+| Model                                                           | Desktops | Drives | Percent |
+|-----------------------------------------------------------------|----------|--------|---------|
+| WDC WD6400AAKS-65A7B0 640GB                                     | 1        | 1      | 7.14%   |
+| WDC WD60EFAX-68SHWN0 6TB                                        | 1        | 3      | 7.14%   |
+| WDC WD5000AAKX-753CA1 500GB                                     | 1        | 1      | 7.14%   |
+| WDC WD30EFRX-68EUZN0 3TB                                        | 1        | 1      | 7.14%   |
+| WDC WD30EFRX-68AX9N0 3TB                                        | 1        | 3      | 7.14%   |
+| WDC WD10EFRX-68PJCN0 1TB                                        | 1        | 1      | 7.14%   |
+| WDC WD10EADS-22M2B0 1TB                                         | 1        | 1      | 7.14%   |
+| WDC WD1001FALS-00J7B1 1TB                                       | 1        | 1      | 7.14%   |
+| Samsung Electronics SSD 980 1TB                                 | 1        | 1      | 7.14%   |
+| Samsung Electronics SP2504C 250GB                               | 1        | 1      | 7.14%   |
+| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 250GB | 1        | 2      | 7.14%   |
+| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 1        | 2      | 7.14%   |
+| Realtek Semiconductor RTS5763DL NVMe SSD Controller 512GB       | 1        | 1      | 7.14%   |
+| Realtek Semiconductor ADATA SX6000PNP 1024GB                    | 1        | 4      | 7.14%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1381,11 +1381,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 67       | 52.76%  |
-| NVMe | 48       | 37.8%   |
-| IDE  | 7        | 5.51%   |
-| RAID | 4        | 3.15%   |
-| SAS  | 1        | 0.79%   |
+| SATA | 69       | 53.91%  |
+| NVMe | 48       | 37.5%   |
+| IDE  | 6        | 4.69%   |
+| RAID | 4        | 3.13%   |
+| SAS  | 1        | 0.78%   |
 
 Processor
 ---------
@@ -1801,8 +1801,8 @@ Monitor models
 | Samsung Electronics T24C550 SAM0AA0 1920x1080 521x293mm 23.5-inch     | 1        | 1.08%   |
 | Samsung Electronics S22B300 SAM08C8 1920x1080 477x268mm 21.5-inch     | 1        | 1.08%   |
 | Samsung Electronics LCD Monitor SyncMaster                            | 1        | 1.08%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1        | 1.08%   |
-| Samsung Electronics LCD Monitor SAM07D0 1360x768 580x320mm 26.1-inch  | 1        | 1.08%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch | 1        | 1.08%   |
+| Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch  | 1        | 1.08%   |
 | Samsung Electronics LCD Monitor LC34G55T 3440x2880                    | 1        | 1.08%   |
 | Samsung Electronics LCD Monitor LC34G55T                              | 1        | 1.08%   |
 | Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch   | 1        | 1.08%   |
@@ -1817,9 +1817,9 @@ Monitor models
 | LTM LCD Monitor LTM045E 400x1280                                      | 1        | 1.08%   |
 | LG Electronics LCD Monitor LG TV 3840x1080                            | 1        | 1.08%   |
 | LG Electronics LCD Monitor LG IPS FULLHD 3840x1200                    | 1        | 1.08%   |
-| Lenovo LEN D24f-10 LEN65EB 1920x1080 520x290mm 23.4-inch              | 1        | 1.08%   |
+| Lenovo LEN D24f-10 LEN65EB 1920x1080 521x293mm 23.5-inch              | 1        | 1.08%   |
 | Lenovo G27q-20 LEN66C3 2560x1440 597x336mm 27.0-inch                  | 1        | 1.08%   |
-| ITE DP2VGA V226 ITE6516 1920x1080 600x340mm 27.2-inch                 | 1        | 1.08%   |
+| ITE DP2VGA V235 ITE6516 1920x1080 600x340mm 27.2-inch                 | 1        | 1.08%   |
 | Iiyama PLG2488H IVM6127 1920x1080 530x300mm 24.0-inch                 | 1        | 1.08%   |
 | Iiyama PL2760Q IVM663D 2560x1440 597x336mm 27.0-inch                  | 1        | 1.08%   |
 | Iiyama PL2740HS IVM6663 1920x1080 598x336mm 27.0-inch                 | 1        | 1.08%   |
@@ -1877,7 +1877,7 @@ Diagonal size in inches
 | Unknown | 7        | 8.64%   |
 | 23      | 6        | 7.41%   |
 | 34      | 5        | 6.17%   |
-| 31      | 5        | 6.17%   |
+| 31      | 4        | 4.94%   |
 | 22      | 4        | 4.94%   |
 | 142     | 2        | 2.47%   |
 | 18      | 2        | 2.47%   |
@@ -1885,6 +1885,7 @@ Diagonal size in inches
 | 72      | 1        | 1.23%   |
 | 54      | 1        | 1.23%   |
 | 48      | 1        | 1.23%   |
+| 42      | 1        | 1.23%   |
 | 40      | 1        | 1.23%   |
 | 28      | 1        | 1.23%   |
 | 20      | 1        | 1.23%   |
@@ -1904,7 +1905,7 @@ Physical width
 |----------------|----------|---------|
 | 501-600        | 28       | 37.33%  |
 | 401-500        | 17       | 22.67%  |
-| 601-700        | 8        | 10.67%  |
+| 601-700        | 7        | 9.33%   |
 | Unknown        | 7        | 9.33%   |
 | 701-800        | 5        | 6.67%   |
 | More than 2000 | 2        | 2.67%   |
@@ -1914,6 +1915,7 @@ Physical width
 | 351-400        | 1        | 1.33%   |
 | 201-300        | 1        | 1.33%   |
 | 1501-2000      | 1        | 1.33%   |
+| 901-1000       | 1        | 1.33%   |
 
 Aspect Ratio
 ------------
@@ -1947,13 +1949,13 @@ Area in inch²
 |----------------|----------|---------|
 | 201-250        | 21       | 27.27%  |
 | 301-350        | 20       | 25.97%  |
-| 351-500        | 9        | 11.69%  |
+| 351-500        | 8        | 10.39%  |
 | Unknown        | 7        | 9.09%   |
 | More than 1000 | 4        | 5.19%   |
 | 251-300        | 4        | 5.19%   |
 | 151-200        | 4        | 5.19%   |
 | 141-150        | 3        | 3.9%    |
-| 501-1000       | 2        | 2.6%    |
+| 501-1000       | 3        | 3.9%    |
 | 121-130        | 1        | 1.3%    |
 | 111-120        | 1        | 1.3%    |
 | 101-110        | 1        | 1.3%    |
@@ -1969,10 +1971,10 @@ Pixels per inch
 | Density | Desktops | Percent |
 |---------|----------|---------|
 | 51-100  | 33       | 45.21%  |
-| 101-120 | 21       | 28.77%  |
+| 101-120 | 22       | 30.14%  |
 | Unknown | 7        | 9.59%   |
 | 1-50    | 5        | 6.85%   |
-| 121-160 | 5        | 6.85%   |
+| 121-160 | 4        | 5.48%   |
 | 161-240 | 2        | 2.74%   |
 
 Multiple Monitors
@@ -2343,7 +2345,6 @@ Sound card models
 | Nvidia GP106 High Definition Audio Controller                              | 2        | 1.27%   |
 | Nvidia GP104 High Definition Audio Controller                              | 2        | 1.27%   |
 | Nvidia GA104 High Definition Audio Controller                              | 2        | 1.27%   |
-| JMTek USB PnP Audio Device                                                 | 2        | 1.27%   |
 | Intel Alder Lake-S HD Audio Controller                                     | 2        | 1.27%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 1.27%   |
 | AMD SBx00 Azalia (Intel HDA)                                               | 2        | 1.27%   |
@@ -2363,6 +2364,7 @@ Sound card models
 | Nvidia GM200 High Definition Audio                                         | 1        | 0.64%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 1        | 0.64%   |
 | Nvidia GF119 HDMI Audio Controller                                         | 1        | 0.64%   |
+| Nvidia GF108 High Definition Audio Controller                              | 1        | 0.64%   |
 
 Memory
 ------
@@ -2408,7 +2410,7 @@ Memory module models
 | Corsair RAM CMK32GX4M2D3600C18 16GB DIMM DDR4 3800MT/s  | 2        | 2.6%    |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 1.3%    |
 | Unknown RAM Module 1GB DIMM DDR2                        | 1        | 1.3%    |
-| Team RAM TEAMGROUP-UD4-3200 8192MB DIMM DDR4 3733MT/s   | 1        | 1.3%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s      | 1        | 1.3%    |
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s    | 1        | 1.3%    |
 | SK hynix RAM HMA84GR7MFR4N-UH 32GB DIMM DDR4 2400MT/s   | 1        | 1.3%    |
 | SK hynix RAM HMA42GR7AFR4N-TF 16GB DIMM DDR4 2133MT/s   | 1        | 1.3%    |
@@ -2418,7 +2420,7 @@ Memory module models
 | Samsung RAM M391B5273DH0-CH9 4GB DIMM DDR3 1333MT/s     | 1        | 1.3%    |
 | Samsung RAM M391A2K43BB1-CPB 16GB DIMM DDR4 2133MT/s    | 1        | 1.3%    |
 | Samsung RAM M386A4G40DM0-CPB 32GB DIMM DDR4 2400MT/s    | 1        | 1.3%    |
-| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR3 2133MT/s  | 1        | 1.3%    |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s     | 1        | 1.3%    |
 | Qumo RAM QUM4U-16G2666N19 16GB DIMM DDR4 2666MT/s       | 1        | 1.3%    |
 | Nanya RAM NT256D64S88C0G-5T 256MB DIMM DDR 400MT/s      | 1        | 1.3%    |
 | Nanya RAM M2F4G64CB88B7N-DI 4GB DIMM DDR3 1600MT/s      | 1        | 1.3%    |
@@ -2430,7 +2432,7 @@ Memory module models
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s       | 1        | 1.3%    |
 | Kingston RAM KF560C40-16 16GB DIMM DDR5 6000MT/s        | 1        | 1.3%    |
 | Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3600MT/s   | 1        | 1.3%    |
-| Kingston RAM KF3600C18D4/16GX 16GB DIMM DDR4 3600MT/s   | 1        | 1.3%    |
+| Kingston RAM KF3600C18D4/16GX 16GB DIMM DDR4 3733MT/s   | 1        | 1.3%    |
 | Kingston RAM KF3600C17D4/8GX 8GB DIMM DDR4 3600MT/s     | 1        | 1.3%    |
 | Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s   | 1        | 1.3%    |
 | Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s   | 1        | 1.3%    |
@@ -2502,7 +2504,7 @@ Memory module speed
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
 | 3200    | 12       | 16.44%  |
-| 3600    | 11       | 15.07%  |
+| 3600    | 10       | 13.7%   |
 | 2133    | 6        | 8.22%   |
 | 3800    | 4        | 5.48%   |
 | 2667    | 4        | 5.48%   |
@@ -2510,6 +2512,7 @@ Memory module speed
 | 1600    | 4        | 5.48%   |
 | 667     | 3        | 4.11%   |
 | 4800    | 2        | 2.74%   |
+| 3733    | 2        | 2.74%   |
 | 3400    | 2        | 2.74%   |
 | 3000    | 2        | 2.74%   |
 | 1333    | 2        | 2.74%   |
@@ -2518,7 +2521,6 @@ Memory module speed
 | 5200    | 1        | 1.37%   |
 | 4000    | 1        | 1.37%   |
 | 3933    | 1        | 1.37%   |
-| 3733    | 1        | 1.37%   |
 | 3666    | 1        | 1.37%   |
 | 3534    | 1        | 1.37%   |
 | 3533    | 1        | 1.37%   |
@@ -2604,7 +2606,7 @@ Camera device models
 | Model                                    | Desktops | Percent |
 |------------------------------------------|----------|---------|
 | Logitech BRIO Ultra HD Webcam            | 3        | 15%     |
-| Microdia USB 2.0 Camera                  | 2        | 10%     |
+| Microdia USB Camera                      | 2        | 10%     |
 | Logitech Webcam C270                     | 2        | 10%     |
 | Logitech HD Pro Webcam C920              | 2        | 10%     |
 | Logitech C920 PRO HD Webcam              | 2        | 10%     |
@@ -2616,7 +2618,7 @@ Camera device models
 | Logitech HD Webcam C510                  | 1        | 5%      |
 | Generalplus WEB CAM                      | 1        | 5%      |
 | Generalplus 808 Camera #9 (web-cam mode) | 1        | 5%      |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X          | 1        | 5%      |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR       | 1        | 5%      |
 
 Security
 --------

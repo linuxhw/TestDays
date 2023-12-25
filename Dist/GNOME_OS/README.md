@@ -907,48 +907,48 @@ Hard drive models
 ![Drive Model](./All/images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Computers | Percent |
-|-----------------------------------------------------|-----------|---------|
-| SK hynix NVMe SSD Drive 512GB                       | 2         | 2.63%   |
-| Seagate ST9500325AS 500GB                           | 2         | 2.63%   |
-| Seagate ST500LM012 HN-M500MBB 500GB                 | 2         | 2.63%   |
-| Seagate ST1000LM035-1RK172 1TB                      | 2         | 2.63%   |
-| Seagate ST1000DM003-1SB102 1TB                      | 2         | 2.63%   |
-| Samsung PM963 2.5" NVMe PCIe SSD 256GB              | 2         | 2.63%   |
-| PNY CS900 240GB SSD                                 | 2         | 2.63%   |
-| Kingston SA400S37120G 120GB SSD                     | 2         | 2.63%   |
-| HGST HTS541010A9E680 1TB                            | 2         | 2.63%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                    | 1         | 1.32%   |
-| WDC WD5000LPVX-75V0TT0 500GB                        | 1         | 1.32%   |
-| WDC WD5000LPVX-08V0TT5 500GB                        | 1         | 1.32%   |
-| WDC WD5000AAKX-003CA0 500GB                         | 1         | 1.32%   |
-| WDC WD3200LPVX-08V0TT5 320GB                        | 1         | 1.32%   |
-| WDC WD20SPZX-11UA7T0 2TB                            | 1         | 1.32%   |
-| WDC WD1600AAJS-22L7A0 160GB                         | 1         | 1.32%   |
-| WDC WD10SPZX-24Z10 1TB                              | 1         | 1.32%   |
-| WDC WD10SPZX-22Z10T0 1TB                            | 1         | 1.32%   |
-| WDC WD10EALX-009BA0 1TB                             | 1         | 1.32%   |
-| Transcend TS64GMTS400 64GB SSD                      | 1         | 1.32%   |
-| Toshiba MQ04ABF100 1TB                              | 1         | 1.32%   |
-| Toshiba MQ01ABD032 320GB                            | 1         | 1.32%   |
-| Toshiba HDWD120 2TB                                 | 1         | 1.32%   |
-| Toshiba DT01ACA100 1TB                              | 1         | 1.32%   |
-| Toshiba DT01ACA050 500GB                            | 1         | 1.32%   |
-| SSSTC CVB-8D128-HP 128GB                            | 1         | 1.32%   |
-| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB           | 1         | 1.32%   |
-| SK hynix HFS128G39TND-N210A 128GB SSD               | 1         | 1.32%   |
-| Seagate ST9500420AS 500GB                           | 1         | 1.32%   |
-| Seagate ST8000DM004-2CX188 8TB                      | 1         | 1.32%   |
-| Seagate ST500DM002-1BD142 500GB                     | 1         | 1.32%   |
-| Seagate ST4000DX001-1CE168 4TB                      | 1         | 1.32%   |
-| Seagate ST3500312CS 500GB                           | 1         | 1.32%   |
-| Seagate ST2000DM001-1ER164 2TB                      | 1         | 1.32%   |
-| Seagate ST1000DM010-2EP102 1TB                      | 1         | 1.32%   |
-| Seagate ST1000DM003-1CH162 1TB                      | 1         | 1.32%   |
-| SanDisk X300 MSATA 128GB SSD                        | 1         | 1.32%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 1TB | 1         | 1.32%   |
-| SanDisk SSD PLUS 120 GB                             | 1         | 1.32%   |
-| SanDisk SD8SN8U512G1002 512GB SSD                   | 1         | 1.32%   |
+| Model                                                  | Computers | Percent |
+|--------------------------------------------------------|-----------|---------|
+| SK hynix NVMe SSD Drive 512GB                          | 2         | 2.63%   |
+| Seagate ST9500325AS 500GB                              | 2         | 2.63%   |
+| Seagate ST500LM012 HN-M500MBB 500GB                    | 2         | 2.63%   |
+| Seagate ST1000LM035-1RK172 1TB                         | 2         | 2.63%   |
+| Seagate ST1000DM003-1SB102 1TB                         | 2         | 2.63%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 256GB                 | 2         | 2.63%   |
+| PNY CS900 240GB SSD                                    | 2         | 2.63%   |
+| Kingston SA400S37120G 120GB SSD                        | 2         | 2.63%   |
+| HGST HTS541010A9E680 1TB                               | 2         | 2.63%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                       | 1         | 1.32%   |
+| WDC WD5000LPVX-75V0TT0 500GB                           | 1         | 1.32%   |
+| WDC WD5000LPVX-08V0TT5 500GB                           | 1         | 1.32%   |
+| WDC WD5000AAKX-003CA0 500GB                            | 1         | 1.32%   |
+| WDC WD3200LPVX-08V0TT5 320GB                           | 1         | 1.32%   |
+| WDC WD20SPZX-11UA7T0 2TB                               | 1         | 1.32%   |
+| WDC WD1600AAJS-22L7A0 160GB                            | 1         | 1.32%   |
+| WDC WD10SPZX-24Z10 1TB                                 | 1         | 1.32%   |
+| WDC WD10SPZX-22Z10T0 1TB                               | 1         | 1.32%   |
+| WDC WD10EALX-009BA0 1TB                                | 1         | 1.32%   |
+| Transcend TS64GMTS400 64GB SSD                         | 1         | 1.32%   |
+| Toshiba MQ04ABF100 1TB                                 | 1         | 1.32%   |
+| Toshiba MQ01ABD032 320GB                               | 1         | 1.32%   |
+| Toshiba HDWD120 2TB                                    | 1         | 1.32%   |
+| Toshiba DT01ACA100 1TB                                 | 1         | 1.32%   |
+| Toshiba DT01ACA050 500GB                               | 1         | 1.32%   |
+| SSSTC CVB-8D128-HP 128GB SSD                           | 1         | 1.32%   |
+| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB              | 1         | 1.32%   |
+| SK hynix HFS128G39TND-N210A 128GB SSD                  | 1         | 1.32%   |
+| Seagate ST9500420AS 500GB                              | 1         | 1.32%   |
+| Seagate ST8000DM004-2CX188 8TB                         | 1         | 1.32%   |
+| Seagate ST500DM002-1BD142 500GB                        | 1         | 1.32%   |
+| Seagate ST4000DX001-1CE168 4TB                         | 1         | 1.32%   |
+| Seagate ST3500312CS 500GB                              | 1         | 1.32%   |
+| Seagate ST2000DM001-1ER164 2TB                         | 1         | 1.32%   |
+| Seagate ST1000DM010-2EP102 1TB                         | 1         | 1.32%   |
+| Seagate ST1000DM003-1CH162 1TB                         | 1         | 1.32%   |
+| SanDisk X300 MSATA 128GB SSD                           | 1         | 1.32%   |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 1024GB | 1         | 1.32%   |
+| SanDisk SSD PLUS 120 GB                                | 1         | 1.32%   |
+| SanDisk SD8SN8U512G1002 512GB SSD                      | 1         | 1.32%   |
 
 HDD Vendor
 ----------
@@ -1605,8 +1605,8 @@ Monitor models
 | LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch          | 1         | 1.79%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch          | 1         | 1.79%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch          | 1         | 1.79%   |
-| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch         | 1         | 1.79%   |
-| Insignia BBY LCD BBY0032 1920x540                                    | 1         | 1.79%   |
+| LG Display LCD Monitor LGD02DA 1920x1080 380x220mm 17.3-inch         | 1         | 1.79%   |
+| Insignia DX-32L200NA14 BBY0032 1360x768 544x326mm 25.0-inch          | 1         | 1.79%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 1.79%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                  | 1         | 1.79%   |
 | Goldstar LG TV SSCR2 GSMC0C8 3840x2160                               | 1         | 1.79%   |
@@ -1837,7 +1837,7 @@ Controller models
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 0.99%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 0.99%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 0.99%   |
-| Motorola PCS motorola one 5G UW                                   | 1         | 0.99%   |
+| Motorola PCS moto g stylus 5G - 2023                              | 1         | 0.99%   |
 | Intel Wireless-AC 9260                                            | 1         | 0.99%   |
 | Intel Wireless 8265 / 8275                                        | 1         | 0.99%   |
 | Intel Wireless 8260                                               | 1         | 0.99%   |
@@ -1956,7 +1956,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 1         | 1.89%   |
 | Intel Ethernet Connection (17) I219-V                             | 1         | 1.89%   |
 | Intel 82579V Gigabit Network Connection                           | 1         | 1.89%   |
-| Google Pixel 8 Pro                                                | 1         | 1.89%   |
+| Google Pixel 7 Pro                                                | 1         | 1.89%   |
 | Google Nexus/Pixel Device (tether)                                | 1         | 1.89%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.89%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 1.89%   |
@@ -2061,7 +2061,7 @@ Controller models
 | Apple Bluetooth HCI MacBookPro (HID mode)           | 2         | 4.76%   |
 | Apple Bluetooth HCI                                 | 2         | 4.76%   |
 | Toshiba Bluetooth Device                            | 1         | 2.38%   |
-| Realtek RTL8821A Bluetooth                          | 1         | 2.38%   |
+| Realtek 802.11ac WLAN Adapter                       | 1         | 2.38%   |
 | Ralink RT3290 Bluetooth                             | 1         | 2.38%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 2.38%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.38%   |
@@ -2175,7 +2175,7 @@ Memory module models
 
 | Model                                                            | Computers | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Micron RAM MT53E1G32D4NQ-046WTE 4GB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
+| Micron RAM MT53E1G32D4NQ-046WTE 8GB Row Of Chips LPDDR4 4266MT/s | 1         | 100%    |
 
 Memory Kind
 -----------
@@ -2280,7 +2280,7 @@ Camera device vendors
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.71%   |
 | Quanta                                 | 1         | 2.86%   |
 | IMC Networks                           | 1         | 2.86%   |
-| HD 2MP WEBCAM                          | 1         | 2.86%   |
+| HDR webcam                             | 1         | 2.86%   |
 
 Camera Model
 ------------
@@ -2309,7 +2309,7 @@ Camera device models
 | Logitech Webcam C270                             | 1         | 2.78%   |
 | Logitech HD Pro Webcam C920                      | 1         | 2.78%   |
 | IMC Networks HP TrueVision HD Camera             | 1         | 2.78%   |
-| HD 2MP WEBCAM HD 2MP WEBCAM                      | 1         | 2.78%   |
+| HDR webcam HDR webcam                            | 1         | 2.78%   |
 | Chicony USB2.0 VGA UVC WebCam                    | 1         | 2.78%   |
 | Chicony USB2.0 HD UVC WebCam                     | 1         | 2.78%   |
 | Chicony TOSHIBA Web Camera - HD                  | 1         | 2.78%   |

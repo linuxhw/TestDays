@@ -462,10 +462,11 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2014 | 3        | 21.43%  |
 | 2007 | 3        | 21.43%  |
-| 2012 | 2        | 14.29%  |
 | 2008 | 2        | 14.29%  |
 | 2019 | 1        | 7.14%   |
 | 2016 | 1        | 7.14%   |
+| 2012 | 1        | 7.14%   |
+| 2011 | 1        | 7.14%   |
 | 2010 | 1        | 7.14%   |
 | 2005 | 1        | 7.14%   |
 
@@ -693,7 +694,7 @@ Hard drive models
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
 | KingSpec NT-256 256GB SSD             | 1        | 6.67%   |
-| KingDian S200 60GB                    | 1        | 6.67%   |
+| KingDian S200 60GB SSD                | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
 | Crucial CT256MX100SSD1 256GB          | 1        | 6.67%   |
@@ -1645,10 +1646,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Desktops | Percent |
-|----------------------------|----------|---------|
-| Seiko Epson ET-2710 Series | 1        | 50%     |
-| HP LaserJet 1012           | 1        | 50%     |
+| Model                    | Desktops | Percent |
+|--------------------------|----------|---------|
+| Seiko Epson L3150 Series | 1        | 50%     |
+| HP LaserJet 1012         | 1        | 50%     |
 
 Scanner Vendor
 --------------
@@ -1745,8 +1746,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 11       | 73.33%  |
-| 1     | 4        | 26.67%  |
+| 0     | 9        | 60%     |
+| 1     | 5        | 33.33%  |
+| 2     | 1        | 6.67%   |
 
 Unsupported Device Types
 ------------------------
@@ -1756,7 +1758,8 @@ Types of unsupported devices
 ![Unsupported Device Types](./images/pie_chart/device_unsupported_type.svg)
 
 
-| Type         | Desktops | Percent |
-|--------------|----------|---------|
-| Net/wireless | 4        | 100%    |
+| Type          | Desktops | Percent |
+|---------------|----------|---------|
+| Net/wireless  | 4        | 66.67%  |
+| Graphics card | 2        | 33.33%  |
 

@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 161
+Total: 162
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| MSI      | MAG B550 TORPEDO            | [fc34295ec7](https://linux-hardware.org/?probe=fc34295ec7) | Nov 07, 2023 |
 | ECS      | CHICAGO2                    | [e33ec52f5a](https://linux-hardware.org/?probe=e33ec52f5a) | Oct 21, 2023 |
 | ASUSTek  | M11BB                       | [acf7108592](https://linux-hardware.org/?probe=acf7108592) | Oct 20, 2023 |
 | ASUSTek  | M11BB                       | [38436a17ef](https://linux-hardware.org/?probe=38436a17ef) | Oct 20, 2023 |
@@ -422,46 +423,46 @@ Version of the Linux kernel
 
 | Version                   | Desktops | Percent |
 |---------------------------|----------|---------|
-| 5.4.0-52-generic          | 3        | 2.46%   |
-| 6.2.0-34-generic          | 2        | 1.64%   |
-| 6.2.0-33-generic          | 2        | 1.64%   |
-| 5.8.16-2-MANJARO          | 2        | 1.64%   |
-| 5.8.0-55-generic          | 2        | 1.64%   |
-| 5.4.0-90-generic          | 2        | 1.64%   |
-| 5.3.0-18-generic          | 2        | 1.64%   |
-| 5.16.7-desktop-1omv4003   | 2        | 1.64%   |
-| 5.15.0-57-generic         | 2        | 1.64%   |
-| 5.13.0-51-generic         | 2        | 1.64%   |
-| 5.13.0-28-generic         | 2        | 1.64%   |
-| 5.11.0-37-generic         | 2        | 1.64%   |
-| 5.11.0-16-generic         | 2        | 1.64%   |
-| 5.10.14-desktop-1omv4002  | 2        | 1.64%   |
-| 4.15.0-42-generic         | 2        | 1.64%   |
-| 6.4.9-1-MANJARO           | 1        | 0.82%   |
-| 6.4.7-200.fc38.x86_64     | 1        | 0.82%   |
-| 6.4.3-arch1-1             | 1        | 0.82%   |
-| 6.2.11-arch1-1            | 1        | 0.82%   |
-| 6.2.0-36-generic          | 1        | 0.82%   |
-| 6.2.0-32-generic          | 1        | 0.82%   |
-| 6.2.0-26-generic          | 1        | 0.82%   |
-| 6.1.8-zen1-1-zen          | 1        | 0.82%   |
-| 6.1.8-060108-generic      | 1        | 0.82%   |
-| 6.1.12-arch1-1            | 1        | 0.82%   |
-| 6.0.10-300.fc37.x86_64    | 1        | 0.82%   |
-| 6.0.0-Phaco-g8f10ff49057f | 1        | 0.82%   |
-| 5.9.16-1-MANJARO          | 1        | 0.82%   |
-| 5.8.6-1-MANJARO           | 1        | 0.82%   |
-| 5.8.16-300.fc33.x86_64    | 1        | 0.82%   |
-| 5.8.0-41-generic          | 1        | 0.82%   |
-| 5.8.0-38-generic          | 1        | 0.82%   |
-| 5.7.17-200.fc32.x86_64    | 1        | 0.82%   |
-| 5.7.15-ck                 | 1        | 0.82%   |
-| 5.6.15-1-MANJARO          | 1        | 0.82%   |
-| 5.6.14-desktop-2bP        | 1        | 0.82%   |
-| 5.6.11-1-MANJARO          | 1        | 0.82%   |
-| 5.4.70-amd64-desktop      | 1        | 0.82%   |
-| 5.4.0-91-generic          | 1        | 0.82%   |
-| 5.4.0-81-generic          | 1        | 0.82%   |
+| 5.4.0-52-generic          | 3        | 2.44%   |
+| 6.2.0-34-generic          | 2        | 1.63%   |
+| 6.2.0-33-generic          | 2        | 1.63%   |
+| 5.8.16-2-MANJARO          | 2        | 1.63%   |
+| 5.8.0-55-generic          | 2        | 1.63%   |
+| 5.4.0-90-generic          | 2        | 1.63%   |
+| 5.3.0-18-generic          | 2        | 1.63%   |
+| 5.16.7-desktop-1omv4003   | 2        | 1.63%   |
+| 5.15.0-57-generic         | 2        | 1.63%   |
+| 5.13.0-51-generic         | 2        | 1.63%   |
+| 5.13.0-28-generic         | 2        | 1.63%   |
+| 5.11.0-37-generic         | 2        | 1.63%   |
+| 5.11.0-16-generic         | 2        | 1.63%   |
+| 5.10.14-desktop-1omv4002  | 2        | 1.63%   |
+| 4.15.0-42-generic         | 2        | 1.63%   |
+| 6.6.0-1-MANJARO           | 1        | 0.81%   |
+| 6.4.9-1-MANJARO           | 1        | 0.81%   |
+| 6.4.7-200.fc38.x86_64     | 1        | 0.81%   |
+| 6.4.3-arch1-1             | 1        | 0.81%   |
+| 6.2.11-arch1-1            | 1        | 0.81%   |
+| 6.2.0-36-generic          | 1        | 0.81%   |
+| 6.2.0-32-generic          | 1        | 0.81%   |
+| 6.2.0-26-generic          | 1        | 0.81%   |
+| 6.1.8-zen1-1-zen          | 1        | 0.81%   |
+| 6.1.8-060108-generic      | 1        | 0.81%   |
+| 6.1.12-arch1-1            | 1        | 0.81%   |
+| 6.0.10-300.fc37.x86_64    | 1        | 0.81%   |
+| 6.0.0-Phaco-g8f10ff49057f | 1        | 0.81%   |
+| 5.9.16-1-MANJARO          | 1        | 0.81%   |
+| 5.8.6-1-MANJARO           | 1        | 0.81%   |
+| 5.8.16-300.fc33.x86_64    | 1        | 0.81%   |
+| 5.8.0-41-generic          | 1        | 0.81%   |
+| 5.8.0-38-generic          | 1        | 0.81%   |
+| 5.7.17-200.fc32.x86_64    | 1        | 0.81%   |
+| 5.7.15-ck                 | 1        | 0.81%   |
+| 5.6.15-1-MANJARO          | 1        | 0.81%   |
+| 5.6.14-desktop-2bP        | 1        | 0.81%   |
+| 5.6.11-1-MANJARO          | 1        | 0.81%   |
+| 5.4.70-amd64-desktop      | 1        | 0.81%   |
+| 5.4.0-91-generic          | 1        | 0.81%   |
 
 Kernel Family
 -------------
@@ -473,46 +474,46 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4.0   | 12       | 10.34%  |
-| 5.15.0  | 9        | 7.76%   |
-| 5.13.0  | 8        | 6.9%    |
-| 6.2.0   | 7        | 6.03%   |
-| 5.3.0   | 7        | 6.03%   |
-| 5.11.0  | 7        | 6.03%   |
-| 5.19.0  | 5        | 4.31%   |
-| 5.8.0   | 4        | 3.45%   |
-| 5.8.16  | 3        | 2.59%   |
-| 5.10.0  | 3        | 2.59%   |
-| 5.0.0   | 3        | 2.59%   |
-| 4.15.0  | 3        | 2.59%   |
-| 6.1.8   | 2        | 1.72%   |
-| 5.16.7  | 2        | 1.72%   |
-| 5.16.11 | 2        | 1.72%   |
-| 5.15.7  | 2        | 1.72%   |
-| 5.10.14 | 2        | 1.72%   |
-| 4.18.0  | 2        | 1.72%   |
-| 6.4.9   | 1        | 0.86%   |
-| 6.4.7   | 1        | 0.86%   |
-| 6.4.3   | 1        | 0.86%   |
-| 6.2.11  | 1        | 0.86%   |
-| 6.1.12  | 1        | 0.86%   |
-| 6.0.10  | 1        | 0.86%   |
-| 6.0.0   | 1        | 0.86%   |
-| 5.9.16  | 1        | 0.86%   |
-| 5.8.6   | 1        | 0.86%   |
-| 5.7.17  | 1        | 0.86%   |
-| 5.7.15  | 1        | 0.86%   |
-| 5.6.15  | 1        | 0.86%   |
-| 5.6.14  | 1        | 0.86%   |
-| 5.6.11  | 1        | 0.86%   |
-| 5.4.70  | 1        | 0.86%   |
-| 5.17.0  | 1        | 0.86%   |
-| 5.16.14 | 1        | 0.86%   |
-| 5.16.13 | 1        | 0.86%   |
-| 5.16.1  | 1        | 0.86%   |
-| 5.15.60 | 1        | 0.86%   |
-| 5.15.41 | 1        | 0.86%   |
-| 5.15.21 | 1        | 0.86%   |
+| 5.4.0   | 12       | 10.26%  |
+| 5.15.0  | 9        | 7.69%   |
+| 5.13.0  | 8        | 6.84%   |
+| 6.2.0   | 7        | 5.98%   |
+| 5.3.0   | 7        | 5.98%   |
+| 5.11.0  | 7        | 5.98%   |
+| 5.19.0  | 5        | 4.27%   |
+| 5.8.0   | 4        | 3.42%   |
+| 5.8.16  | 3        | 2.56%   |
+| 5.10.0  | 3        | 2.56%   |
+| 5.0.0   | 3        | 2.56%   |
+| 4.15.0  | 3        | 2.56%   |
+| 6.1.8   | 2        | 1.71%   |
+| 5.16.7  | 2        | 1.71%   |
+| 5.16.11 | 2        | 1.71%   |
+| 5.15.7  | 2        | 1.71%   |
+| 5.10.14 | 2        | 1.71%   |
+| 4.18.0  | 2        | 1.71%   |
+| 6.6.0   | 1        | 0.85%   |
+| 6.4.9   | 1        | 0.85%   |
+| 6.4.7   | 1        | 0.85%   |
+| 6.4.3   | 1        | 0.85%   |
+| 6.2.11  | 1        | 0.85%   |
+| 6.1.12  | 1        | 0.85%   |
+| 6.0.10  | 1        | 0.85%   |
+| 6.0.0   | 1        | 0.85%   |
+| 5.9.16  | 1        | 0.85%   |
+| 5.8.6   | 1        | 0.85%   |
+| 5.7.17  | 1        | 0.85%   |
+| 5.7.15  | 1        | 0.85%   |
+| 5.6.15  | 1        | 0.85%   |
+| 5.6.14  | 1        | 0.85%   |
+| 5.6.11  | 1        | 0.85%   |
+| 5.4.70  | 1        | 0.85%   |
+| 5.17.0  | 1        | 0.85%   |
+| 5.16.14 | 1        | 0.85%   |
+| 5.16.13 | 1        | 0.85%   |
+| 5.16.1  | 1        | 0.85%   |
+| 5.15.60 | 1        | 0.85%   |
+| 5.15.41 | 1        | 0.85%   |
 
 Kernel Major Ver.
 -----------------
@@ -524,31 +525,32 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.15    | 16       | 13.91%  |
-| 5.4     | 13       | 11.3%   |
-| 5.13    | 9        | 7.83%   |
-| 5.11    | 9        | 7.83%   |
-| 6.2     | 8        | 6.96%   |
-| 5.8     | 8        | 6.96%   |
-| 5.3     | 7        | 6.09%   |
-| 5.16    | 6        | 5.22%   |
-| 5.10    | 6        | 5.22%   |
-| 5.19    | 5        | 4.35%   |
-| 6.4     | 3        | 2.61%   |
-| 6.1     | 3        | 2.61%   |
-| 5.6     | 3        | 2.61%   |
-| 5.0     | 3        | 2.61%   |
-| 4.15    | 3        | 2.61%   |
-| 6.0     | 2        | 1.74%   |
-| 5.7     | 2        | 1.74%   |
-| 4.18    | 2        | 1.74%   |
-| 5.9     | 1        | 0.87%   |
-| 5.17    | 1        | 0.87%   |
-| 5.14    | 1        | 0.87%   |
-| 4.9     | 1        | 0.87%   |
-| 4.4     | 1        | 0.87%   |
-| 4.19    | 1        | 0.87%   |
-| 4.13    | 1        | 0.87%   |
+| 5.15    | 16       | 13.79%  |
+| 5.4     | 13       | 11.21%  |
+| 5.13    | 9        | 7.76%   |
+| 5.11    | 9        | 7.76%   |
+| 6.2     | 8        | 6.9%    |
+| 5.8     | 8        | 6.9%    |
+| 5.3     | 7        | 6.03%   |
+| 5.16    | 6        | 5.17%   |
+| 5.10    | 6        | 5.17%   |
+| 5.19    | 5        | 4.31%   |
+| 6.4     | 3        | 2.59%   |
+| 6.1     | 3        | 2.59%   |
+| 5.6     | 3        | 2.59%   |
+| 5.0     | 3        | 2.59%   |
+| 4.15    | 3        | 2.59%   |
+| 6.0     | 2        | 1.72%   |
+| 5.7     | 2        | 1.72%   |
+| 4.18    | 2        | 1.72%   |
+| 6.6     | 1        | 0.86%   |
+| 5.9     | 1        | 0.86%   |
+| 5.17    | 1        | 0.86%   |
+| 5.14    | 1        | 0.86%   |
+| 4.9     | 1        | 0.86%   |
+| 4.4     | 1        | 0.86%   |
+| 4.19    | 1        | 0.86%   |
+| 4.13    | 1        | 0.86%   |
 
 Arch
 ----
@@ -846,8 +848,8 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2019 | 13       | 13%     |
 | 2018 | 11       | 11%     |
-| 2013 | 10       | 10%     |
-| 2012 | 9        | 9%      |
+| 2012 | 10       | 10%     |
+| 2013 | 9        | 9%      |
 | 2016 | 8        | 8%      |
 | 2021 | 7        | 7%      |
 | 2020 | 7        | 7%      |
@@ -926,14 +928,14 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 1.01-2.0   | 45       | 40.18%  |
-| 2.01-3.0   | 34       | 30.36%  |
-| 4.01-8.0   | 15       | 13.39%  |
-| 3.01-4.0   | 10       | 8.93%   |
-| 0.51-1.0   | 4        | 3.57%   |
-| 8.01-16.0  | 2        | 1.79%   |
-| 16.01-24.0 | 1        | 0.89%   |
-| 0.01-0.5   | 1        | 0.89%   |
+| 1.01-2.0   | 45       | 39.82%  |
+| 2.01-3.0   | 34       | 30.09%  |
+| 4.01-8.0   | 16       | 14.16%  |
+| 3.01-4.0   | 10       | 8.85%   |
+| 0.51-1.0   | 4        | 3.54%   |
+| 8.01-16.0  | 2        | 1.77%   |
+| 16.01-24.0 | 1        | 0.88%   |
+| 0.01-0.5   | 1        | 0.88%   |
 
 Total Drives
 ------------
@@ -961,8 +963,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 74       | 72.55%  |
-| Yes       | 28       | 27.45%  |
+| No        | 74       | 73.27%  |
+| Yes       | 27       | 26.73%  |
 
 Has Ethernet
 ------------
@@ -987,8 +989,8 @@ Has WiFi module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 69       | 66.35%  |
-| Yes       | 35       | 33.65%  |
+| No        | 70       | 66.67%  |
+| Yes       | 35       | 33.33%  |
 
 Has Bluetooth
 -------------
@@ -1070,22 +1072,22 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 28       | 40     | 18.3%   |
-| Toshiba             | 25       | 30     | 16.34%  |
-| Seagate             | 23       | 28     | 15.03%  |
-| Samsung Electronics | 22       | 31     | 14.38%  |
-| Transcend           | 12       | 12     | 7.84%   |
-| Hitachi             | 7        | 10     | 4.58%   |
-| Teutons             | 5        | 9      | 3.27%   |
-| Silicon Motion      | 3        | 7      | 1.96%   |
-| Hewlett-Packard     | 3        | 3      | 1.96%   |
-| A-DATA Technology   | 3        | 4      | 1.96%   |
-| TwinMOS             | 2        | 2      | 1.31%   |
-| PNY                 | 2        | 2      | 1.31%   |
-| Phison              | 2        | 2      | 1.31%   |
-| Corsair             | 2        | 2      | 1.31%   |
+| WDC                 | 28       | 40     | 18.18%  |
+| Toshiba             | 25       | 30     | 16.23%  |
+| Seagate             | 23       | 29     | 14.94%  |
+| Samsung Electronics | 22       | 31     | 14.29%  |
+| Transcend           | 12       | 12     | 7.79%   |
+| Hitachi             | 7        | 11     | 4.55%   |
+| Teutons             | 5        | 9      | 3.25%   |
+| Silicon Motion      | 3        | 7      | 1.95%   |
+| Hewlett-Packard     | 3        | 3      | 1.95%   |
+| A-DATA Technology   | 3        | 4      | 1.95%   |
+| TwinMOS             | 2        | 2      | 1.3%    |
+| PNY                 | 2        | 2      | 1.3%    |
+| Phison Electronics  | 2        | 2      | 1.3%    |
+| Phison              | 2        | 2      | 1.3%    |
+| Corsair             | 2        | 2      | 1.3%    |
 | Team                | 1        | 1      | 0.65%   |
-| Phison Electronics  | 1        | 1      | 0.65%   |
 | Patriot             | 1        | 1      | 0.65%   |
 | OCZ                 | 1        | 1      | 0.65%   |
 | KingFast            | 1        | 1      | 0.65%   |
@@ -1109,33 +1111,33 @@ Hard drive models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Toshiba DT01ACA100 1TB                                | 10       | 6.1%    |
-| Seagate ST1000DM010-2EP102 1TB                        | 8        | 4.88%   |
-| Toshiba HDWD110 1TB                                   | 7        | 4.27%   |
-| Seagate ST500DM002-1BD142 500GB                       | 7        | 4.27%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                      | 4        | 2.44%   |
-| WDC WDS120G2G0A-00JH30 120GB SSD                      | 4        | 2.44%   |
-| WDC WD5000AAKX-001CA0 500GB                           | 3        | 1.83%   |
-| WDC WD20EZRZ-00Z5HB0 2TB                              | 3        | 1.83%   |
-| WDC WD10EZEX-60WN4A0 1TB                              | 3        | 1.83%   |
-| Toshiba DT01ACA200 2TB                                | 3        | 1.83%   |
-| Teutons PLATINUM SSD 128GB                            | 3        | 1.83%   |
-| Samsung HD502HJ 500GB                                 | 3        | 1.83%   |
-| WDC WD40PURX-64N96Y0 4TB                              | 2        | 1.22%   |
-| WDC WD10EZEX-22MFCA0 1TB                              | 2        | 1.22%   |
-| WDC WD10EZEX-00BN5A0 1TB                              | 2        | 1.22%   |
-| Transcend TS256GSSD230S 256GB                         | 2        | 1.22%   |
-| Transcend TS128GSSD370S 128GB                         | 2        | 1.22%   |
-| Transcend TS120GSSD220S 120GB                         | 2        | 1.22%   |
-| Toshiba HDWD120 2TB                                   | 2        | 1.22%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 2        | 1.22%   |
-| Samsung SSD 980 PRO 500GB                             | 2        | 1.22%   |
-| Samsung SP2504C 250GB                                 | 2        | 1.22%   |
-| Samsung HD322HJ 320GB                                 | 2        | 1.22%   |
-| Hitachi HDT721032SLA360 320GB                         | 2        | 1.22%   |
-| Hitachi HDS721050CLA362 500GB                         | 2        | 1.22%   |
-| HP SSD S700 250GB                                     | 2        | 1.22%   |
-| A-DATA SU650 240GB SSD                                | 2        | 1.22%   |
+| Toshiba DT01ACA100 1TB                                | 10       | 6.06%   |
+| Seagate ST1000DM010-2EP102 1TB                        | 8        | 4.85%   |
+| Toshiba HDWD110 1TB                                   | 7        | 4.24%   |
+| Seagate ST500DM002-1BD142 500GB                       | 7        | 4.24%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                      | 4        | 2.42%   |
+| WDC WDS120G2G0A-00JH30 120GB SSD                      | 4        | 2.42%   |
+| WDC WD5000AAKX-001CA0 500GB                           | 3        | 1.82%   |
+| WDC WD20EZRZ-00Z5HB0 2TB                              | 3        | 1.82%   |
+| WDC WD10EZEX-60WN4A0 1TB                              | 3        | 1.82%   |
+| Toshiba DT01ACA200 2TB                                | 3        | 1.82%   |
+| Teutons PLATINUM SSD 128GB                            | 3        | 1.82%   |
+| Samsung HD502HJ 500GB                                 | 3        | 1.82%   |
+| WDC WD40PURX-64N96Y0 4TB                              | 2        | 1.21%   |
+| WDC WD10EZEX-22MFCA0 1TB                              | 2        | 1.21%   |
+| WDC WD10EZEX-00BN5A0 1TB                              | 2        | 1.21%   |
+| Transcend TS256GSSD230S 256GB                         | 2        | 1.21%   |
+| Transcend TS128GSSD370S 128GB                         | 2        | 1.21%   |
+| Transcend TS120GSSD220S 120GB                         | 2        | 1.21%   |
+| Toshiba HDWD120 2TB                                   | 2        | 1.21%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 2        | 1.21%   |
+| Samsung SSD 980 PRO 500GB                             | 2        | 1.21%   |
+| Samsung SP2504C 250GB                                 | 2        | 1.21%   |
+| Samsung HD322HJ 320GB                                 | 2        | 1.21%   |
+| Hitachi HDT721032SLA360 320GB                         | 2        | 1.21%   |
+| Hitachi HDS721050CLA362 500GB                         | 2        | 1.21%   |
+| HP SSD S700 250GB                                     | 2        | 1.21%   |
+| A-DATA SU650 240GB SSD                                | 2        | 1.21%   |
 | WDC WDS240GS2G0A-00JH30 240GB SSD                     | 1        | 0.61%   |
 | WDC WDS240G2G0A 240GB SSD                             | 1        | 0.61%   |
 | WDC WDS120G2G0B-00EPWP 120GB SSD                      | 1        | 0.61%   |
@@ -1161,10 +1163,10 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Toshiba             | 24       | 29     | 27.27%  |
-| Seagate             | 23       | 28     | 26.14%  |
+| Seagate             | 23       | 29     | 26.14%  |
 | WDC                 | 20       | 27     | 22.73%  |
 | Samsung Electronics | 13       | 21     | 14.77%  |
-| Hitachi             | 7        | 10     | 7.95%   |
+| Hitachi             | 7        | 11     | 7.95%   |
 | HGST                | 1        | 1      | 1.14%   |
 
 SSD Vendor
@@ -1206,9 +1208,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 78       | 116    | 53.06%  |
+| HDD     | 78       | 118    | 53.06%  |
 | SSD     | 49       | 57     | 33.33%  |
-| NVMe    | 16       | 21     | 10.88%  |
+| NVMe    | 16       | 22     | 10.88%  |
 | Unknown | 4        | 4      | 2.72%   |
 
 Drive Connector
@@ -1221,8 +1223,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 94       | 177    | 85.45%  |
-| NVMe | 16       | 21     | 14.55%  |
+| SATA | 94       | 179    | 85.45%  |
+| NVMe | 16       | 22     | 14.55%  |
 
 Drive Size
 ----------
@@ -1234,8 +1236,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 70       | 104    | 56.91%  |
-| 0.51-1.0   | 38       | 49     | 30.89%  |
+| 0.01-0.5   | 70       | 105    | 56.91%  |
+| 0.51-1.0   | 38       | 50     | 30.89%  |
 | 1.01-2.0   | 11       | 12     | 8.94%   |
 | 3.01-4.0   | 2        | 3      | 1.63%   |
 | 2.01-3.0   | 1        | 4      | 0.81%   |
@@ -1251,15 +1253,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 101-250        | 38       | 34.55%  |
-| 501-1000       | 18       | 16.36%  |
-| 251-500        | 14       | 12.73%  |
-| 1001-2000      | 12       | 10.91%  |
-| 21-50          | 11       | 10%     |
-| 51-100         | 9        | 8.18%   |
-| 1-20           | 4        | 3.64%   |
-| More than 3000 | 2        | 1.82%   |
-| Unknown        | 2        | 1.82%   |
+| 101-250        | 38       | 34.23%  |
+| 501-1000       | 19       | 17.12%  |
+| 251-500        | 14       | 12.61%  |
+| 1001-2000      | 12       | 10.81%  |
+| 21-50          | 11       | 9.91%   |
+| 51-100         | 9        | 8.11%   |
+| 1-20           | 4        | 3.6%    |
+| More than 3000 | 2        | 1.8%    |
+| Unknown        | 2        | 1.8%    |
 
 Space Used
 ----------
@@ -1271,15 +1273,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 40       | 37.04%  |
-| 21-50          | 29       | 26.85%  |
-| 51-100         | 13       | 12.04%  |
-| 101-250        | 11       | 10.19%  |
-| 251-500        | 5        | 4.63%   |
-| 501-1000       | 5        | 4.63%   |
-| 1001-2000      | 2        | 1.85%   |
-| Unknown        | 2        | 1.85%   |
-| More than 3000 | 1        | 0.93%   |
+| 1-20           | 40       | 36.7%   |
+| 21-50          | 29       | 26.61%  |
+| 51-100         | 13       | 11.93%  |
+| 101-250        | 12       | 11.01%  |
+| 251-500        | 5        | 4.59%   |
+| 501-1000       | 5        | 4.59%   |
+| 1001-2000      | 2        | 1.83%   |
+| Unknown        | 2        | 1.83%   |
+| More than 3000 | 1        | 0.92%   |
 
 Malfunc. Drives
 ---------------
@@ -1389,7 +1391,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 64       | 114    | 55.17%  |
+| Detected | 64       | 117    | 55.17%  |
 | Works    | 34       | 62     | 29.31%  |
 | Malfunc  | 17       | 21     | 14.66%  |
 | Failed   | 1        | 1      | 0.86%   |
@@ -1869,7 +1871,7 @@ Monitor models
 |----------------------------------------------------------------------|----------|---------|
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 5        | 5.1%    |
 | Hewlett-Packard 22fw HPN3541 1920x1080 476x268mm 21.5-inch           | 4        | 4.08%   |
-| Dell SE2219H DELF10F 1920x1080 476x268mm 21.5-inch                   | 4        | 4.08%   |
+| Dell SE2219HX DELF10F 1920x1080 476x268mm 21.5-inch                  | 4        | 4.08%   |
 | Samsung Electronics S19F350 SAM0D46 1366x768 410x230mm 18.5-inch     | 3        | 3.06%   |
 | Hewlett-Packard V194 HWP3346 1366x768 410x230mm 18.5-inch            | 3        | 3.06%   |
 | Dell E1916HV DELF06C 1366x768 409x230mm 18.5-inch                    | 3        | 3.06%   |
@@ -1878,8 +1880,8 @@ Monitor models
 | Hewlett-Packard v185w HWP2820 1366x768 410x230mm 18.5-inch           | 2        | 2.04%   |
 | Hewlett-Packard 22f HPN3542 1920x1080 476x267mm 21.5-inch            | 2        | 2.04%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 2        | 2.04%   |
-| Dell S2240L DELD054 1920x1080 476x267mm 21.5-inch                    | 2        | 2.04%   |
-| Dell S2218H DELD0B8 1920x1080 476x268mm 21.5-inch                    | 2        | 2.04%   |
+| Dell S2240L DELD054 1920x1080 480x270mm 21.7-inch                    | 2        | 2.04%   |
+| Dell S2218H DELD0B8 1920x1080 480x270mm 21.7-inch                    | 2        | 2.04%   |
 | Dell D1918H DEL2005 1366x768 410x230mm 18.5-inch                     | 2        | 2.04%   |
 | ___ AAA ___1062 1440x900 410x260mm 19.1-inch                         | 1        | 1.02%   |
 | ViewSonic VX2276-FHD VSCEE38 1920x1080 476x268mm 21.5-inch           | 1        | 1.02%   |
@@ -1906,7 +1908,7 @@ Monitor models
 | Philips PHL 226E9Q PHLC17D 1920x1080 477x268mm 21.5-inch             | 1        | 1.02%   |
 | Philips 224EL PHLC054 1920x1080 476x268mm 21.5-inch                  | 1        | 1.02%   |
 | Philips 196VL PHLC07F 1366x768 409x230mm 18.5-inch                   | 1        | 1.02%   |
-| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                   | 1        | 1.02%   |
+| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch              | 1        | 1.02%   |
 
 Monitor Resolution
 ------------------
@@ -2100,8 +2102,8 @@ Controller models
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 2        | 1.33%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                     | 2        | 1.33%   |
 | Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)                  | 2        | 1.33%   |
-| Qualcomm SDM630-MTP _SN:0B9EB96E                                           | 2        | 1.33%   |
-| MediaTek Wiko U316AT                                                       | 2        | 1.33%   |
+| Qualcomm Redmi 9T                                                          | 2        | 1.33%   |
+| MediaTek X55                                                               | 2        | 1.33%   |
 | Intel Ethernet Controller I225-V                                           | 2        | 1.33%   |
 | HMD Global Nokia7.2                                                        | 2        | 1.33%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                       | 1        | 0.67%   |
@@ -2211,8 +2213,8 @@ Ethernet models
 | Realtek RTL8125 2.5GbE Controller                                 | 4        | 3.54%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 3        | 2.65%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 3        | 2.65%   |
-| Qualcomm SDM630-MTP _SN:0B9EB96E                                  | 2        | 1.77%   |
-| MediaTek Wiko U316AT                                              | 2        | 1.77%   |
+| Qualcomm Redmi 9T                                                 | 2        | 1.77%   |
+| MediaTek X55                                                      | 2        | 1.77%   |
 | Intel Ethernet Controller I225-V                                  | 2        | 1.77%   |
 | HMD Global Nokia7.2                                               | 2        | 1.77%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 0.88%   |
@@ -2438,13 +2440,13 @@ Memory module models
 | Transcend RAM TX2133KLN-8GK 4096MB DIMM DDR3 2000MT/s    | 1        | 2.08%   |
 | Transcend RAM JM1600KLN-4GK 2GB DIMM DDR3 1600MT/s       | 1        | 2.08%   |
 | Transcend RAM JM1600KLN-4G 4GB DIMM DDR3 1600MT/s        | 1        | 2.08%   |
-| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2933MT/s      | 1        | 2.08%   |
+| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s       | 1        | 2.08%   |
 | Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s               | 1        | 2.08%   |
 | SemsoTai RAM Module 4GB DIMM DDR4 2400MT/s               | 1        | 2.08%   |
 | SemsoTai RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 2.08%   |
 | SemsoTai RAM Module 4096MB DIMM DDR4 2400MT/s            | 1        | 2.08%   |
 | Ramos RAM EWB4GB681PAE-16IC 4GB DIMM DDR3 1600MT/s       | 1        | 2.08%   |
-| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3             | 1        | 2.08%   |
+| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s    | 1        | 2.08%   |
 | Ramaxel RAM RMR5030ME68F9F1600 4GB DIMM DDR3 1600MT/s    | 1        | 2.08%   |
 | Qumo RAM Module 8192MB DIMM DDR4 2400MT/s                | 1        | 2.08%   |
 | Patriot RAM PSD48G240082 8GB DIMM DDR4 2400MT/s          | 1        | 2.08%   |
@@ -2452,7 +2454,7 @@ Memory module models
 | Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 3151MT/s      | 1        | 2.08%   |
 | Kingston RAM CL16-18-18 D4-3200 16GB DIMM DDR4 3200MT/s  | 1        | 2.08%   |
 | Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s    | 1        | 2.08%   |
-| GeIL RAM CL11-11-11 D3-1600 4GB DIMM DDR3 1600MT/s       | 1        | 2.08%   |
+| GeIL RAM CL11-11-11 D3-1600 8192MB DIMM DDR3 1600MT/s    | 1        | 2.08%   |
 | G.Skill RAM F4-3200C16-4GTZB 4GB DIMM DDR4 2800MT/s      | 1        | 2.08%   |
 | G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s     | 1        | 2.08%   |
 | G.Skill RAM F4-3200C16-16GTZR 16GB DIMM DDR4 3600MT/s    | 1        | 2.08%   |
@@ -2607,7 +2609,7 @@ Camera device models
 |-----------------------------------|----------|---------|
 | Z-Star A4 TECH USB2.0 PC Camera J | 2        | 16.67%  |
 | Logitech Webcam C270              | 2        | 16.67%  |
-| ANYKA V380 FHD Camera             | 2        | 16.67%  |
+| ANYKA FHD Camera                  | 2        | 16.67%  |
 | WCM_USB WEB CAM                   | 1        | 8.33%   |
 | SiGma Micro WebCam SiGma Micro    | 1        | 8.33%   |
 | Realtek Integrated_Webcam_FHD     | 1        | 8.33%   |

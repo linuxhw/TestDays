@@ -937,48 +937,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                             | Notebooks | Percent |
-|---------------------------------------------------|-----------|---------|
-| Unknown MMC Card  32GB                            | 2         | 3.57%   |
-| Seagate ST500LM030-2E717D 500GB                   | 2         | 3.57%   |
-| Phison PS5013 E13 NVMe Controller 256GB           | 2         | 3.57%   |
-| Unknown                                           | 2         | 3.57%   |
-| Yangtze Memory YMTC PC005 256GB                   | 1         | 1.79%   |
-| WDC WDS500G2B0C-00PXH0 500GB                      | 1         | 1.79%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD                  | 1         | 1.79%   |
-| WDC WD10SPZX-75Z10T3 1TB                          | 1         | 1.79%   |
-| WDC WD10SPZX-24Z10T0 1TB                          | 1         | 1.79%   |
-| WDC WD10JPVX-22JC3T0 1TB                          | 1         | 1.79%   |
-| Unknown SD/MMC/MS PRO 16GB                        | 1         | 1.79%   |
-| Unknown SC128  128GB                              | 1         | 1.79%   |
-| Unknown MMC Card  64GB                            | 1         | 1.79%   |
-| Unknown MMC Card  16GB                            | 1         | 1.79%   |
-| Unknown MMC Card  128GB                           | 1         | 1.79%   |
-| Unknown Essentiel B 1TB                           | 1         | 1.79%   |
-| Toshiba MQ01ABF050 500GB                          | 1         | 1.79%   |
-| Toshiba MQ01ABD100 1TB                            | 1         | 1.79%   |
-| Solid State Storage SSSTC CL1-4D256 256GB         | 1         | 1.79%   |
-| SK hynix NVMe SSD Drive 128GB                     | 1         | 1.79%   |
-| SK hynix HFS128G39TND-N210A 128GB SSD             | 1         | 1.79%   |
-| Seagate ST1000LM048-2E7172 1TB                    | 1         | 1.79%   |
-| Seagate Expansion 1TB                             | 1         | 1.79%   |
-| Sandisk WD PC SN735 SDBPNHH-512G-1002 512GB       | 1         | 1.79%   |
-| Sandisk WD Blue SN570 1TB                         | 1         | 1.79%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 512GB   | 1         | 1.79%   |
-| Samsung SSD PM871 mSATA 256GB                     | 1         | 1.79%   |
-| Samsung SSD 860 EVO 1TB                           | 1         | 1.79%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 1         | 1.79%   |
-| Samsung MZVLQ512HBLU-00B00 512GB                  | 1         | 1.79%   |
-| Phison Sabrent Rocket 4.0 Plus 4TB                | 1         | 1.79%   |
-| Phison E16 PCIe4 NVMe Controller 500GB            | 1         | 1.79%   |
-| Netac S535N8/256 256GB SSD                        | 1         | 1.79%   |
-| Mushkin MKNSSDPE500GB-D8                          | 1         | 1.79%   |
-| Mushkin MKNSSDPE1TB-D8                            | 1         | 1.79%   |
-| Micron/Crucial NVMe SSD Drive 2TB                 | 1         | 1.79%   |
-| KIOXIA KBG40ZNV512G 512GB                         | 1         | 1.79%   |
-| KIOXIA KBG40ZNV256G 256GB                         | 1         | 1.79%   |
-| Kingston Company SNV2S1000G 1TB                   | 1         | 1.79%   |
-| Kingston Company OM3PDP3 NVMe SSD 512GB           | 1         | 1.79%   |
+| Model                                               | Notebooks | Percent |
+|-----------------------------------------------------|-----------|---------|
+| Unknown MMC Card  32GB                              | 2         | 3.57%   |
+| Seagate ST500LM030-2E717D 500GB                     | 2         | 3.57%   |
+| Phison PS5013 E13 NVMe Controller 512GB             | 2         | 3.57%   |
+| Unknown                                             | 2         | 3.57%   |
+| Yangtze Memory YMTC PC005 256GB                     | 1         | 1.79%   |
+| WDC WDS500G2B0C-00PXH0 500GB                        | 1         | 1.79%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 1.79%   |
+| WDC WD10SPZX-75Z10T3 1TB                            | 1         | 1.79%   |
+| WDC WD10SPZX-24Z10T0 1TB                            | 1         | 1.79%   |
+| WDC WD10JPVX-22JC3T0 1TB                            | 1         | 1.79%   |
+| Unknown SD/MMC/MS PRO 128GB                         | 1         | 1.79%   |
+| Unknown SC128  128GB                                | 1         | 1.79%   |
+| Unknown MMC Card  64GB                              | 1         | 1.79%   |
+| Unknown MMC Card  16GB                              | 1         | 1.79%   |
+| Unknown MMC Card  128GB                             | 1         | 1.79%   |
+| Unknown Essentiel B 1TB                             | 1         | 1.79%   |
+| Toshiba MQ01ABF050 500GB                            | 1         | 1.79%   |
+| Toshiba MQ01ABD100 1TB                              | 1         | 1.79%   |
+| Solid State Storage SSSTC CL1-4D256 256GB           | 1         | 1.79%   |
+| SK hynix NVMe SSD Drive 128GB                       | 1         | 1.79%   |
+| SK hynix HFS128G39TND-N210A 128GB SSD               | 1         | 1.79%   |
+| Seagate ST1000LM048-2E7172 1TB                      | 1         | 1.79%   |
+| Seagate Expansion 1TB                               | 1         | 1.79%   |
+| Sandisk WD PC SN735 SDBPNHH-512G-1002 512GB         | 1         | 1.79%   |
+| Sandisk WD Blue SN570 1TB                           | 1         | 1.79%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 500GB     | 1         | 1.79%   |
+| Samsung SSD PM871 mSATA 256GB                       | 1         | 1.79%   |
+| Samsung SSD 860 EVO 1TB                             | 1         | 1.79%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 1.79%   |
+| Samsung MZVLQ512HBLU-00B00 512GB                    | 1         | 1.79%   |
+| Phison Sabrent Rocket 4.0 Plus 1TB                  | 1         | 1.79%   |
+| Phison E16 PCIe4 NVMe Controller 500GB              | 1         | 1.79%   |
+| Netac S535N8/256 256GB SSD                          | 1         | 1.79%   |
+| Mushkin MKNSSDPE500GB-D8                            | 1         | 1.79%   |
+| Mushkin MKNSSDPE1TB-D8                              | 1         | 1.79%   |
+| Micron/Crucial NVMe SSD Drive 2TB                   | 1         | 1.79%   |
+| KIOXIA KBG40ZNV512G 512GB                           | 1         | 1.79%   |
+| KIOXIA KBG40ZNV256G 256GB                           | 1         | 1.79%   |
+| Kingston Company SNV2S1000G 1TB                     | 1         | 1.79%   |
+| Kingston Company OM3PDP3 NVMe SSD 256GB             | 1         | 1.79%   |
 
 HDD Vendor
 ----------
@@ -1448,7 +1448,7 @@ Microarchitecture
 | Name          | Notebooks | Percent |
 |---------------|-----------|---------|
 | KabyLake      | 6         | 15%     |
-| IceLake       | 4         | 10%     |
+| Icelake       | 4         | 10%     |
 | TigerLake     | 3         | 7.5%    |
 | Silvermont    | 3         | 7.5%    |
 | SandyBridge   | 3         | 7.5%    |
@@ -1626,7 +1626,7 @@ Monitor models
 | LG Display LCD Monitor LGD04B1 1366x768 310x174mm 14.0-inch          | 1         | 2.38%   |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch              | 1         | 2.38%   |
 | HJC LCD Monitor HJC003D 1920x1080 309x174mm 14.0-inch                | 1         | 2.38%   |
-| Dell AW2518HF DELA101 1920x1080 540x300mm 24.3-inch                  | 1         | 2.38%   |
+| Dell AW2518HF DELA101 1920x1080 544x303mm 24.5-inch                  | 1         | 2.38%   |
 | Chimei Innolux P140ZKA-BZ1 CMN8C03 2160x1440 296x197mm 14.0-inch     | 1         | 2.38%   |
 | Chimei Innolux LCD Monitor CMN1604 1920x1080 355x199mm 16.0-inch     | 1         | 2.38%   |
 | Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch     | 1         | 2.38%   |
@@ -1644,7 +1644,7 @@ Monitor models
 | BOE LCD Monitor BOE0644 1366x768 309x173mm 13.9-inch                 | 1         | 2.38%   |
 | AU Optronics LCD Monitor AUOB78F 1920x1080 344x194mm 15.5-inch       | 1         | 2.38%   |
 | AU Optronics LCD Monitor AUOAF90 1920x1080 344x193mm 15.5-inch       | 1         | 2.38%   |
-| AU Optronics LCD Monitor AUO80ED 1920x1080 344x194mm 15.5-inch       | 1         | 2.38%   |
+| AU Optronics LCD Monitor AUO80ED 1920x1080 344x193mm 15.5-inch       | 1         | 2.38%   |
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch       | 1         | 2.38%   |
 | AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch       | 1         | 2.38%   |
 | AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch        | 1         | 2.38%   |
@@ -2025,13 +2025,14 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel AX201 Bluetooth                               | 7         | 21.88%  |
-| Realtek Bluetooth Radio                             | 4         | 12.5%   |
+| Realtek Bluetooth Radio                             | 3         | 9.38%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.25%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 6.25%   |
 | Intel Bluetooth wireless interface                  | 2         | 6.25%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 6.25%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 3.13%   |
-| Realtek Bluetooth Radio                             | 1         | 3.13%   |
+| Realtek 802.11ac WLAN Adapter                       | 1         | 3.13%   |
+| Realtek 802.11ac WLAN Adapter                       | 1         | 3.13%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.13%   |
 | MediaTek Wireless_Device                            | 1         | 3.13%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 3.13%   |
@@ -2139,9 +2140,9 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                      | 1         | 2.33%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 2.33%   |
 | SK hynix RAM HMT451S6MFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.33%   |
-| SK hynix RAM HMT451S6CFR6A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 2.33%   |
+| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.33%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.33%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s        | 1         | 2.33%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 2.33%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 2.33%   |
 | SK hynix RAM HMAA1GS6CMR6N-VK 8GB Row Of Chips DDR4 2667MT/s     | 1         | 2.33%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 2.33%   |
@@ -2149,13 +2150,13 @@ Memory module models
 | Samsung RAM Module 2GB SODIMM DDR3 1333MT/s                      | 1         | 2.33%   |
 | Samsung RAM M474A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s           | 1         | 2.33%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s            | 1         | 2.33%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 2.33%   |
+| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 1         | 2.33%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.33%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.33%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 2.33%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 2.33%   |
+| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s         | 1         | 2.33%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.33%   |
-| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s          | 1         | 2.33%   |
+| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM 4800MT/s               | 1         | 2.33%   |
 | Samsung RAM K4A8G165WC-BCTD 4GB Row Of Chips DDR4 2667MT/s       | 1         | 2.33%   |
 | Nanya RAM Module 1GB SODIMM DDR2 667MT/s                         | 1         | 2.33%   |
 | Micron RAM MTC4C10163S1SC48BA1 8GB SODIMM DDR5 4800MT/s          | 1         | 2.33%   |
@@ -2292,16 +2293,17 @@ Camera device vendors
 | Chicony Electronics                    | 7         | 22.58%  |
 | Microdia                               | 4         | 12.9%   |
 | IMC Networks                           | 3         | 9.68%   |
-| Bison Electronics                      | 3         | 9.68%   |
 | Suyin                                  | 2         | 6.45%   |
 | Realtek Semiconductor                  | 2         | 6.45%   |
 | Quanta                                 | 2         | 6.45%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 6.45%   |
+| Bison Electronics                      | 2         | 6.45%   |
 | Apple                                  | 2         | 6.45%   |
 | Sunplus Innovation Technology          | 1         | 3.23%   |
 | Ricoh                                  | 1         | 3.23%   |
 | Luxvisions Innotech Limited            | 1         | 3.23%   |
 | Alcor Micro                            | 1         | 3.23%   |
+| Acer                                   | 1         | 3.23%   |
 
 Camera Model
 ------------
@@ -2334,10 +2336,10 @@ Camera device models
 | Chicony HD User Facing                                          | 1         | 3.23%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 3.23%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera  | 1         | 3.23%   |
-| Bison Integrated Camera                                         | 1         | 3.23%   |
 | Apple FaceTime Camera                                           | 1         | 3.23%   |
 | Apple Built-in iSight [Micron]                                  | 1         | 3.23%   |
 | Alcor Micro USB 2.0 Camera                                      | 1         | 3.23%   |
+| Acer Integrated Camera                                          | 1         | 3.23%   |
 
 Security
 --------

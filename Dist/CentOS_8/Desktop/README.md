@@ -805,9 +805,9 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2019 | 20       | 12.66%  |
 | 2012 | 19       | 12.03%  |
-| 2018 | 18       | 11.39%  |
+| 2018 | 16       | 10.13%  |
 | 2013 | 15       | 9.49%   |
-| 2017 | 12       | 7.59%   |
+| 2017 | 14       | 8.86%   |
 | 2016 | 11       | 6.96%   |
 | 2010 | 11       | 6.96%   |
 | 2011 | 10       | 6.33%   |
@@ -930,8 +930,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 95       | 59.75%  |
-| Yes       | 64       | 40.25%  |
+| No        | 94       | 59.12%  |
+| Yes       | 65       | 40.88%  |
 
 Has Ethernet
 ------------
@@ -1164,20 +1164,20 @@ Hard drive models
 | WDC WD5000AAKX-60U6AA0 500GB        | 2        | 0.53%   |
 | WDC WD40EZRZ-00GXCB0 4TB            | 2        | 0.53%   |
 | WDC WD3200BEVT-22ZCT0 320GB         | 2        | 0.53%   |
-| WDC WD2500AAJS-75M0A0 249GB         | 2        | 0.53%   |
+| WDC WD2500AAJS-75M0A0 250GB         | 2        | 0.53%   |
 | WDC WD20PURZ-85AKKY0 2TB            | 2        | 0.53%   |
 | WDC WD20PURX-64PFUY0 2TB            | 2        | 0.53%   |
 | WDC WD20EFRX-68EUZN0 2TB            | 2        | 0.53%   |
 | WDC WD2003FZEX-00Z4SA0 2TB          | 2        | 0.53%   |
 | WDC WD2002FAEX-007BA0 2TB           | 2        | 0.53%   |
-| Unknown SD/MMC/MS PRO 16GB          | 2        | 0.53%   |
+| Unknown SD/MMC/MS PRO 128GB         | 2        | 0.53%   |
 | Unknown HUH728080ALE601 8TB         | 2        | 0.53%   |
 | Silicon Motion NVMe SSD Drive 512GB | 2        | 0.53%   |
 | Seagate ST31000524AS 1TB            | 2        | 0.53%   |
 | Seagate ST2000DM006-2DM164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.53%   |
-| Seagate Expansion Desk 3TB          | 2        | 0.53%   |
+| Seagate Expansion Desk 6TB          | 2        | 0.53%   |
 | SanDisk NVMe SSD Drive 1TB          | 2        | 0.53%   |
 | Samsung SSD 970 EVO Plus 500GB      | 2        | 0.53%   |
 
@@ -1278,12 +1278,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 102      | 197    | 43.78%  |
+| 0.01-0.5   | 102      | 196    | 43.78%  |
 | 0.51-1.0   | 64       | 117    | 27.47%  |
-| 1.01-2.0   | 36       | 91     | 15.45%  |
-| 4.01-10.0  | 11       | 29     | 4.72%   |
+| 1.01-2.0   | 37       | 92     | 15.88%  |
+| 4.01-10.0  | 12       | 32     | 5.15%   |
 | 3.01-4.0   | 10       | 47     | 4.29%   |
-| 2.01-3.0   | 7        | 48     | 3%      |
+| 2.01-3.0   | 5        | 45     | 2.15%   |
 | 10.01-20.0 | 3        | 22     | 1.29%   |
 
 Space Total
@@ -1981,15 +1981,15 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 3        | 1.56%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3        | 1.56%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch          | 3        | 1.56%   |
-| Xiaomi DPF90435 XMD009A 2224x1668 341x192mm 15.4-inch                | 2        | 1.04%   |
+| Xiaomi Woieyeks-4K XMD009A 2880x1800 480x270mm 21.7-inch             | 2        | 1.04%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch | 2        | 1.04%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2        | 1.04%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 1.04%   |
 | MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                     | 2        | 1.04%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch         | 2        | 1.04%   |
-| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch              | 2        | 1.04%   |
+| Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch           | 2        | 1.04%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 1.04%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 2        | 1.04%   |
 | BenQ LCD Monitor GW2283 3840x1080                                    | 2        | 1.04%   |
@@ -2631,48 +2631,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM 1600MT/s                    | 2        | 2.22%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                    | 2        | 2.22%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                 | 2        | 2.22%   |
-| Unknown RAM Module 2GB DIMM SDRAM                       | 2        | 2.22%   |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s   | 2        | 2.22%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s             | 1        | 1.11%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 1.11%   |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                | 1        | 1.11%   |
-| Unknown RAM Module 4096MB DIMM 400MT/s                  | 1        | 1.11%   |
-| Unknown RAM Module 2GB SODIMM DDR3 800MT/s              | 1        | 1.11%   |
-| Unknown RAM Module 2GB DIMM DDR 667MT/s                 | 1        | 1.11%   |
-| Unknown RAM Module 2048MB DIMM DDR2                     | 1        | 1.11%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                 | 1        | 1.11%   |
-| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s     | 1        | 1.11%   |
-| Transcend RAM JM800QLU-2G 2048MB DIMM DDR2 2048MT/s     | 1        | 1.11%   |
-| Team RAM TEAMGROUP-UD4-3200 8192MB DIMM DDR4 3733MT/s   | 1        | 1.11%   |
-| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s     | 1        | 1.11%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s              | 1        | 1.11%   |
-| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s              | 1        | 1.11%   |
-| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s             | 1        | 1.11%   |
-| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR 667MT/s    | 1        | 1.11%   |
-| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.11%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 1.11%   |
-| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 1.11%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s    | 1        | 1.11%   |
-| SK hynix RAM HMT151R7TFR4C-H9 4GB DIMM DDR3 1333MT/s    | 1        | 1.11%   |
-| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s    | 1        | 1.11%   |
-| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s    | 1        | 1.11%   |
-| SK hynix RAM HMA81GR7AFR8N-UH 8192MB DIMM DDR4 2400MT/s | 1        | 1.11%   |
-| Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.11%   |
-| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s            | 1        | 1.11%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s   | 1        | 1.11%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s    | 1        | 1.11%   |
-| Samsung RAM M391B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.11%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.11%   |
-| Samsung RAM M378A4G43AB2-CWE 32GB DIMM DDR4 3200MT/s    | 1        | 1.11%   |
-| Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s     | 1        | 1.11%   |
-| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 1331MT/s    | 1        | 1.11%   |
-| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3            | 1        | 1.11%   |
-| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.11%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM 1600MT/s                   | 2        | 2.22%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                   | 2        | 2.22%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                | 2        | 2.22%   |
+| Unknown RAM Module 2GB DIMM SDRAM                      | 2        | 2.22%   |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s  | 2        | 2.22%   |
+| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s            | 1        | 1.11%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s              | 1        | 1.11%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s               | 1        | 1.11%   |
+| Unknown RAM Module 4096MB DIMM 400MT/s                 | 1        | 1.11%   |
+| Unknown RAM Module 2GB SODIMM DDR3 800MT/s             | 1        | 1.11%   |
+| Unknown RAM Module 2GB DIMM DDR 667MT/s                | 1        | 1.11%   |
+| Unknown RAM Module 2048MB DIMM DDR2                    | 1        | 1.11%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                | 1        | 1.11%   |
+| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s    | 1        | 1.11%   |
+| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s       | 1        | 1.11%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s     | 1        | 1.11%   |
+| Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 2400MT/s  | 1        | 1.11%   |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s             | 1        | 1.11%   |
+| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s             | 1        | 1.11%   |
+| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s            | 1        | 1.11%   |
+| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR 667MT/s   | 1        | 1.11%   |
+| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s   | 1        | 1.11%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1        | 1.11%   |
+| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s   | 1        | 1.11%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s   | 1        | 1.11%   |
+| SK hynix RAM HMT151R7TFR4C-H9 4GB DIMM DDR3 1333MT/s   | 1        | 1.11%   |
+| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s   | 1        | 1.11%   |
+| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s   | 1        | 1.11%   |
+| SK hynix RAM HMA81GR7AFR8N-UH 8GB DIMM DDR4 2400MT/s   | 1        | 1.11%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s              | 1        | 1.11%   |
+| Samsung RAM Module 8192MB DIMM DDR4 2666MT/s           | 1        | 1.11%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s  | 1        | 1.11%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s   | 1        | 1.11%   |
+| Samsung RAM M391B5273DH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.11%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.11%   |
+| Samsung RAM M378A4G43AB2-CWE 32GB DIMM DDR4 3200MT/s   | 1        | 1.11%   |
+| Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 2733MT/s    | 1        | 1.11%   |
+| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 1331MT/s   | 1        | 1.11%   |
+| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s  | 1        | 1.11%   |
+| Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s     | 1        | 1.11%   |
 
 Memory Kind
 -----------
@@ -2854,10 +2854,10 @@ Camera device models
 | Microdia Defender G-Lens 2577 HD720p Camera       | 2        | 8.33%   |
 | Microdia Camera                                   | 2        | 8.33%   |
 | Logitech Webcam C270                              | 2        | 8.33%   |
-| Lenovo FHD Webcam Audio                           | 2        | 8.33%   |
+| Lenovo FHD Webcam                                 | 2        | 8.33%   |
 | Samsung Galaxy series, misc. (MTP mode)           | 1        | 4.17%   |
 | Realtek HD Camera                                 | 1        | 4.17%   |
-| Microdia USB 2.0 Camera                           | 1        | 4.17%   |
+| Microdia USB Camera                               | 1        | 4.17%   |
 | Logitech Webcam C930e                             | 1        | 4.17%   |
 | Logitech Webcam C210                              | 1        | 4.17%   |
 | Logitech StreamCam                                | 1        | 4.17%   |

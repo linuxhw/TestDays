@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 102
+Total: 103
 
 | Vendor   | Model               | Probe                                                      | Date         |
 |----------|---------------------|------------------------------------------------------------|--------------|
+| Gigabyte | G41MT-S2            | [06a0da716b](https://linux-hardware.org/?probe=06a0da716b) | Dec 05, 2023 |
 | ASUSTek  | TUF B450-PRO GAMING | [0c0067ae1b](https://linux-hardware.org/?probe=0c0067ae1b) | Jul 30, 2023 |
 | Gigabyte | G41MT-S2            | [d625267663](https://linux-hardware.org/?probe=d625267663) | Jul 17, 2023 |
 | ASUSTek  | PRIME B350M-A       | [ba4bfc1fe1](https://linux-hardware.org/?probe=ba4bfc1fe1) | Jun 08, 2023 |
@@ -340,46 +341,46 @@ Version of the Linux kernel
 
 | Version                             | Desktops | Percent |
 |-------------------------------------|----------|---------|
-| 5.10.14-desktop-1omv4002            | 6        | 7.23%   |
-| 4.9.60-nrj-desktop-1rosa-x86_64     | 6        | 7.23%   |
-| 4.15.0-desktop-45.1rosa-x86_64      | 4        | 4.82%   |
-| 4.1.34-nrj-desktop-2rosa-x86_64     | 4        | 4.82%   |
-| 5.16.7-desktop-1omv4003             | 3        | 3.61%   |
-| 5.10.74-generic-2rosa2021.1-x86_64  | 3        | 3.61%   |
-| 5.15.79-generic-1rosa2021.1-x86_64  | 2        | 2.41%   |
-| 4.9.20-nrj-desktop-1rosa-x86_64     | 2        | 2.41%   |
-| 4.9.155-nrj-desktop-1rosa-x86_64    | 2        | 2.41%   |
-| 4.15.0-desktop-68.5rosa-x86_64      | 2        | 2.41%   |
-| 4.15.0-desktop-47.2rosa-x86_64      | 2        | 2.41%   |
-| 4.15.0-desktop-122.124.1rosa-x86_64 | 2        | 2.41%   |
-| 4.1.34-nrj-desktop-2rosa-i586       | 2        | 2.41%   |
-| 6.1.1-arch1-1                       | 1        | 1.2%    |
-| 5.9.3-050903-generic                | 1        | 1.2%    |
-| 5.8.0-7642-generic                  | 1        | 1.2%    |
-| 5.8.0-38-generic                    | 1        | 1.2%    |
-| 5.5.9-zen1-2-zen                    | 1        | 1.2%    |
-| 5.4.83-generic-2rosa-x86_64         | 1        | 1.2%    |
-| 5.4.32-generic-2rosa-x86_64         | 1        | 1.2%    |
-| 5.4.32-generic-2rosa-i586           | 1        | 1.2%    |
-| 5.4.0-90-generic                    | 1        | 1.2%    |
-| 5.4.0-7634-generic                  | 1        | 1.2%    |
-| 5.4.0-56-generic                    | 1        | 1.2%    |
-| 5.4.0-48-generic                    | 1        | 1.2%    |
-| 5.4.0-135-generic                   | 1        | 1.2%    |
-| 5.2.0-kali2-amd64                   | 1        | 1.2%    |
-| 5.19.0-46-generic                   | 1        | 1.2%    |
-| 5.17.9-arch1-1                      | 1        | 1.2%    |
-| 5.17.8-zen1-1-zen                   | 1        | 1.2%    |
-| 5.17.11-generic-2rosa2021.1-x86_64  | 1        | 1.2%    |
-| 5.16.9-200.fc35.x86_64              | 1        | 1.2%    |
-| 5.15.48-1-MANJARO                   | 1        | 1.2%    |
-| 5.15.11-76051511-generic            | 1        | 1.2%    |
-| 5.15.0-76-generic                   | 1        | 1.2%    |
-| 5.14.14-arch1-1                     | 1        | 1.2%    |
-| 5.13.0-52-generic                   | 1        | 1.2%    |
-| 5.13.0-39-generic                   | 1        | 1.2%    |
-| 5.10.53-1-MANJARO                   | 1        | 1.2%    |
-| 5.10.26-1-MANJARO                   | 1        | 1.2%    |
+| 5.10.14-desktop-1omv4002            | 6        | 7.14%   |
+| 4.9.60-nrj-desktop-1rosa-x86_64     | 6        | 7.14%   |
+| 4.15.0-desktop-45.1rosa-x86_64      | 4        | 4.76%   |
+| 4.1.34-nrj-desktop-2rosa-x86_64     | 4        | 4.76%   |
+| 5.16.7-desktop-1omv4003             | 3        | 3.57%   |
+| 5.10.74-generic-2rosa2021.1-x86_64  | 3        | 3.57%   |
+| 5.15.79-generic-1rosa2021.1-x86_64  | 2        | 2.38%   |
+| 4.9.20-nrj-desktop-1rosa-x86_64     | 2        | 2.38%   |
+| 4.9.155-nrj-desktop-1rosa-x86_64    | 2        | 2.38%   |
+| 4.15.0-desktop-68.5rosa-x86_64      | 2        | 2.38%   |
+| 4.15.0-desktop-47.2rosa-x86_64      | 2        | 2.38%   |
+| 4.15.0-desktop-122.124.1rosa-x86_64 | 2        | 2.38%   |
+| 4.1.34-nrj-desktop-2rosa-i586       | 2        | 2.38%   |
+| 6.1.1-arch1-1                       | 1        | 1.19%   |
+| 5.9.3-050903-generic                | 1        | 1.19%   |
+| 5.8.0-7642-generic                  | 1        | 1.19%   |
+| 5.8.0-38-generic                    | 1        | 1.19%   |
+| 5.5.9-zen1-2-zen                    | 1        | 1.19%   |
+| 5.4.83-generic-2rosa-x86_64         | 1        | 1.19%   |
+| 5.4.32-generic-2rosa-x86_64         | 1        | 1.19%   |
+| 5.4.32-generic-2rosa-i586           | 1        | 1.19%   |
+| 5.4.0-90-generic                    | 1        | 1.19%   |
+| 5.4.0-7634-generic                  | 1        | 1.19%   |
+| 5.4.0-56-generic                    | 1        | 1.19%   |
+| 5.4.0-48-generic                    | 1        | 1.19%   |
+| 5.4.0-135-generic                   | 1        | 1.19%   |
+| 5.2.0-kali2-amd64                   | 1        | 1.19%   |
+| 5.19.0-46-generic                   | 1        | 1.19%   |
+| 5.17.9-arch1-1                      | 1        | 1.19%   |
+| 5.17.8-zen1-1-zen                   | 1        | 1.19%   |
+| 5.17.11-generic-2rosa2021.1-x86_64  | 1        | 1.19%   |
+| 5.16.9-200.fc35.x86_64              | 1        | 1.19%   |
+| 5.15.48-1-MANJARO                   | 1        | 1.19%   |
+| 5.15.11-76051511-generic            | 1        | 1.19%   |
+| 5.15.0-89-generic                   | 1        | 1.19%   |
+| 5.15.0-76-generic                   | 1        | 1.19%   |
+| 5.14.14-arch1-1                     | 1        | 1.19%   |
+| 5.13.0-52-generic                   | 1        | 1.19%   |
+| 5.13.0-39-generic                   | 1        | 1.19%   |
+| 5.10.53-1-MANJARO                   | 1        | 1.19%   |
 
 Kernel Family
 -------------
@@ -871,8 +872,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 44       | 57.14%  |
-| Yes       | 33       | 42.86%  |
+| No        | 43       | 55.84%  |
+| Yes       | 34       | 44.16%  |
 
 Has Ethernet
 ------------
@@ -971,7 +972,7 @@ Hard drive vendors
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 29       | 33     | 21.8%   |
 | Seagate             | 23       | 26     | 17.29%  |
-| WDC                 | 22       | 23     | 16.54%  |
+| WDC                 | 22       | 24     | 16.54%  |
 | Toshiba             | 14       | 15     | 10.53%  |
 | SPCC                | 6        | 8      | 4.51%   |
 | Hitachi             | 6        | 8      | 4.51%   |
@@ -1006,48 +1007,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                             | Desktops | Percent |
-|---------------------------------------------------|----------|---------|
-| Toshiba DT01ACA050 500GB                          | 4        | 2.86%   |
-| Toshiba HDWD110 1TB                               | 3        | 2.14%   |
-| Toshiba DT01ACA100 1TB                            | 3        | 2.14%   |
-| Seagate ST2000DM008-2FR102 2TB                    | 3        | 2.14%   |
-| Samsung HD502HJ 500GB                             | 3        | 2.14%   |
-| Kingston SHFS37A120G 120GB SSD                    | 3        | 2.14%   |
-| WDC WD5000AZRX-00A8LB0 500GB                      | 2        | 1.43%   |
-| Transcend TS64GSSD370S 64GB                       | 2        | 1.43%   |
-| SPCC Solid State Disk 128GB                       | 2        | 1.43%   |
-| Seagate ST500DM002-1BD142 500GB                   | 2        | 1.43%   |
-| Seagate ST4000VM000-2AF166 4TB                    | 2        | 1.43%   |
-| Seagate ST3160023A 160GB                          | 2        | 1.43%   |
-| Seagate ST1000DL002-9TT153 1TB                    | 2        | 1.43%   |
-| Samsung SSD 860 EVO 500GB                         | 2        | 1.43%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 2        | 1.43%   |
-| Samsung HD251HJ 250GB                             | 2        | 1.43%   |
-| Samsung HD082GJ 80GB                              | 2        | 1.43%   |
-| XPG NVMe SSD Drive 512GB                          | 1        | 0.71%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                  | 1        | 0.71%   |
-| WDC WD800JD-22LSA0 80GB                           | 1        | 0.71%   |
-| WDC WD62PURZ-85B3AY0 6TB                          | 1        | 0.71%   |
-| WDC WD5000AZRZ-00HTKB0 500GB                      | 1        | 0.71%   |
-| WDC WD5000AUDX-63WNHY0 500GB                      | 1        | 0.71%   |
-| WDC WD5000AAKX-08ERMA0 500GB                      | 1        | 0.71%   |
-| WDC WD5000AAKX-00ERMA0 500GB                      | 1        | 0.71%   |
-| WDC WD5000AAKS-75V0A0 500GB                       | 1        | 0.71%   |
-| WDC WD5000AAKS-00WWPA0 500GB                      | 1        | 0.71%   |
-| WDC WD5000AAJS-00A8B0 500GB                       | 1        | 0.71%   |
-| WDC WD5000AADS-56S9B1 500GB                       | 1        | 0.71%   |
-| WDC WD3200BPVT-24ZEST0 320GB                      | 1        | 0.71%   |
-| WDC WD3200AVJS-63B6A0 320GB                       | 1        | 0.71%   |
-| WDC WD2500AAKX-00U6AA0 250GB                      | 1        | 0.71%   |
-| WDC WD20EZBX-00AYRA0 2TB                          | 1        | 0.71%   |
-| WDC WD20EZAZ-00GGJB0 2TB                          | 1        | 0.71%   |
-| WDC WD200EB-00CPF0 20GB                           | 1        | 0.71%   |
-| WDC WD1600BEVS-60RST0 160GB                       | 1        | 0.71%   |
-| WDC WD10SPZX-22Z10T1 1TB                          | 1        | 0.71%   |
-| WDC WD10EZEX-00WN4A0 1TB                          | 1        | 0.71%   |
-| WDC WD1001FALS-00J7B0 1TB                         | 1        | 0.71%   |
-| Transcend TS256GSSD370S 256GB                     | 1        | 0.71%   |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Toshiba DT01ACA050 500GB                            | 4        | 2.86%   |
+| Toshiba HDWD110 1TB                                 | 3        | 2.14%   |
+| Toshiba DT01ACA100 1TB                              | 3        | 2.14%   |
+| Seagate ST2000DM008-2FR102 2TB                      | 3        | 2.14%   |
+| Samsung HD502HJ 500GB                               | 3        | 2.14%   |
+| Kingston SHFS37A120G 120GB SSD                      | 3        | 2.14%   |
+| WDC WD5000AZRX-00A8LB0 500GB                        | 2        | 1.43%   |
+| Transcend TS64GSSD370S 64GB                         | 2        | 1.43%   |
+| SPCC Solid State Disk 128GB                         | 2        | 1.43%   |
+| Seagate ST500DM002-1BD142 500GB                     | 2        | 1.43%   |
+| Seagate ST4000VM000-2AF166 4TB                      | 2        | 1.43%   |
+| Seagate ST3160023A 160GB                            | 2        | 1.43%   |
+| Seagate ST1000DL002-9TT153 1TB                      | 2        | 1.43%   |
+| Samsung SSD 860 EVO 500GB                           | 2        | 1.43%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2        | 1.43%   |
+| Samsung HD251HJ 250GB                               | 2        | 1.43%   |
+| Samsung HD082GJ 80GB                                | 2        | 1.43%   |
+| XPG NVMe SSD Drive 512GB                            | 1        | 0.71%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                    | 1        | 0.71%   |
+| WDC WD800JD-22LSA0 80GB                             | 1        | 0.71%   |
+| WDC WD62PURZ-85B3AY0 6TB                            | 1        | 0.71%   |
+| WDC WD5000AZRZ-00HTKB0 500GB                        | 1        | 0.71%   |
+| WDC WD5000AUDX-63WNHY0 500GB                        | 1        | 0.71%   |
+| WDC WD5000AAKX-08ERMA0 500GB                        | 1        | 0.71%   |
+| WDC WD5000AAKX-00ERMA0 500GB                        | 1        | 0.71%   |
+| WDC WD5000AAKS-75V0A0 500GB                         | 1        | 0.71%   |
+| WDC WD5000AAKS-00WWPA0 500GB                        | 1        | 0.71%   |
+| WDC WD5000AAJS-00A8B0 500GB                         | 1        | 0.71%   |
+| WDC WD5000AADS-56S9B1 500GB                         | 1        | 0.71%   |
+| WDC WD3200BPVT-24ZEST0 320GB                        | 1        | 0.71%   |
+| WDC WD3200AVJS-63B6A0 320GB                         | 1        | 0.71%   |
+| WDC WD2500AAKX-00U6AA0 250GB                        | 1        | 0.71%   |
+| WDC WD20EZBX-00AYRA0 2TB                            | 1        | 0.71%   |
+| WDC WD20EZAZ-00GGJB0 2TB                            | 1        | 0.71%   |
+| WDC WD200EB-00CPF0 20GB                             | 1        | 0.71%   |
+| WDC WD1600BEVS-60RST0 160GB                         | 1        | 0.71%   |
+| WDC WD10SPZX-22Z10T1 1TB                            | 1        | 0.71%   |
+| WDC WD10EZEX-00WN4A0 1TB                            | 1        | 0.71%   |
+| WDC WD1001FALS-00J7B0 1TB                           | 1        | 0.71%   |
+| Transcend TS256GSSD370S 256GB                       | 1        | 0.71%   |
 
 HDD Vendor
 ----------
@@ -1060,7 +1061,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Seagate             | 23       | 26     | 27.38%  |
-| WDC                 | 21       | 22     | 25%     |
+| WDC                 | 21       | 23     | 25%     |
 | Samsung Electronics | 18       | 21     | 21.43%  |
 | Toshiba             | 12       | 13     | 14.29%  |
 | Hitachi             | 6        | 8      | 7.14%   |
@@ -1107,7 +1108,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 64       | 95     | 60.95%  |
+| HDD  | 64       | 96     | 60.95%  |
 | SSD  | 31       | 40     | 29.52%  |
 | NVMe | 10       | 14     | 9.52%   |
 
@@ -1121,7 +1122,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 72       | 135    | 87.8%   |
+| SATA | 72       | 136    | 87.8%   |
 | NVMe | 10       | 14     | 12.2%   |
 
 Drive Size
@@ -1134,7 +1135,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 63       | 100    | 68.48%  |
+| 0.01-0.5   | 63       | 101    | 68.48%  |
 | 0.51-1.0   | 16       | 22     | 17.39%  |
 | 1.01-2.0   | 9        | 9      | 9.78%   |
 | 3.01-4.0   | 3        | 3      | 3.26%   |
@@ -1171,15 +1172,15 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 40       | 49.38%  |
-| 21-50          | 12       | 14.81%  |
-| 51-100         | 8        | 9.88%   |
-| 101-250        | 6        | 7.41%   |
-| 251-500        | 5        | 6.17%   |
-| 501-1000       | 4        | 4.94%   |
-| 1001-2000      | 3        | 3.7%    |
-| Unknown        | 2        | 2.47%   |
-| More than 3000 | 1        | 1.23%   |
+| 1-20           | 40       | 48.78%  |
+| 21-50          | 12       | 14.63%  |
+| 51-100         | 9        | 10.98%  |
+| 101-250        | 6        | 7.32%   |
+| 251-500        | 5        | 6.1%    |
+| 501-1000       | 4        | 4.88%   |
+| 1001-2000      | 3        | 3.66%   |
+| Unknown        | 2        | 2.44%   |
+| More than 3000 | 1        | 1.22%   |
 
 Malfunc. Drives
 ---------------
@@ -1312,7 +1313,7 @@ Number of failed and malfunc. drives
 |----------|----------|--------|---------|
 | Works    | 43       | 73     | 45.74%  |
 | Malfunc  | 28       | 36     | 29.79%  |
-| Detected | 20       | 36     | 21.28%  |
+| Detected | 20       | 37     | 21.28%  |
 | Failed   | 3        | 4      | 3.19%   |
 
 Storage controller
@@ -1811,9 +1812,9 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0108 1280x1024 312x234mm 15.4-inch   | 2        | 2.44%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 2        | 2.44%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch            | 2        | 2.44%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 2        | 2.44%   |
 | ViewSonic VA521-1 VSCF318 1024x768 304x228mm 15.0-inch                 | 1        | 1.22%   |
-| Toshiba TV TSB0108 1360x768 698x393mm 31.5-inch                        | 1        | 1.22%   |
+| Toshiba TV TSB0108 1280x1024 708x398mm 32.0-inch                       | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM03D1 1680x1050 433x271mm 20.1-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM036F 1440x900 428x255mm 19.6-inch    | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM036E 1280x1024 376x301mm 19.0-inch   | 1        | 1.22%   |
@@ -1822,8 +1823,8 @@ Monitor models
 | Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0214 1680x1050 408x306mm 20.1-inch   | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM0213 1680x1050 408x306mm 20.1-inch   | 1        | 1.22%   |
-| Samsung Electronics SyncMaster SAM01E1 1280x1024 376x301mm 19.0-inch   | 1        | 1.22%   |
-| Samsung Electronics SyncMaster SAM0088 1024x768 304x228mm 15.0-inch    | 1        | 1.22%   |
+| Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch   | 1        | 1.22%   |
+| Samsung Electronics SyncMaster SAM0088 1024x768 300x230mm 14.9-inch    | 1        | 1.22%   |
 | Samsung Electronics SMB2440 SAM06AF 1920x1080 531x299mm 24.0-inch      | 1        | 1.22%   |
 | Samsung Electronics SMB2030 SAM063D 1600x900 443x249mm 20.0-inch       | 1        | 1.22%   |
 | Samsung Electronics S27F358 SAM0D73 1920x1080 598x336mm 27.0-inch      | 1        | 1.22%   |
@@ -2047,7 +2048,7 @@ Controller models
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter               | 1        | 0.98%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 0.98%   |
 | Ralink RT3060 Wireless 802.11n 1T/1R                                   | 1        | 0.98%   |
-| Qualcomm Redmi Note 8                                                  | 1        | 0.98%   |
+| Qualcomm Fairphone 4 5G                                                | 1        | 0.98%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 0.98%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 0.98%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                       | 1        | 0.98%   |
@@ -2061,7 +2062,7 @@ Controller models
 | Nvidia MCP67 Ethernet                                                  | 1        | 0.98%   |
 | Nvidia MCP55 Ethernet                                                  | 1        | 0.98%   |
 | Mercucys 802.11n NIC                                                   | 1        | 0.98%   |
-| MediaTek Wiko U316AT                                                   | 1        | 0.98%   |
+| MediaTek X55                                                           | 1        | 0.98%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 0.98%   |
 | Intel NM10/ICH7 Family LAN Controller                                  | 1        | 0.98%   |
 | Intel Ethernet Connection I217-V                                       | 1        | 0.98%   |
@@ -2157,7 +2158,7 @@ Ethernet models
 | Intel Ethernet Connection (11) I219-V                             | 2        | 2.44%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.22%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.22%   |
-| Qualcomm Redmi Note 8                                             | 1        | 1.22%   |
+| Qualcomm Fairphone 4 5G                                           | 1        | 1.22%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                     | 1        | 1.22%   |
@@ -2166,7 +2167,7 @@ Ethernet models
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 1.22%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 1.22%   |
 | Nvidia MCP55 Ethernet                                             | 1        | 1.22%   |
-| MediaTek Wiko U316AT                                              | 1        | 1.22%   |
+| MediaTek X55                                                      | 1        | 1.22%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.22%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.22%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 1.22%   |
@@ -2243,9 +2244,9 @@ Controller vendors
 | Cambridge Silicon Radio    | 4        | 33.33%  |
 | Intel                      | 3        | 25%     |
 | Realtek Semiconductor      | 1        | 8.33%   |
-| ISSC                       | 1        | 8.33%   |
 | Integrated System Solution | 1        | 8.33%   |
 | IMC Networks               | 1        | 8.33%   |
+| Broadcom                   | 1        | 8.33%   |
 | ASUSTek Computer           | 1        | 8.33%   |
 
 Bluetooth Model
@@ -2261,9 +2262,9 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4        | 33.33%  |
 | Intel AX200 Bluetooth                               | 3        | 25%     |
 | Realtek Bluetooth Radio                             | 1        | 8.33%   |
-| ISSC Bluetooth Device                               | 1        | 8.33%   |
 | Integrated System Solution Bluetooth Device         | 1        | 8.33%   |
 | IMC Networks Bluetooth Radio                        | 1        | 8.33%   |
+| Broadcom BCM92045B3 ROM                             | 1        | 8.33%   |
 | ASUS BCM20702A0                                     | 1        | 8.33%   |
 
 Sound
@@ -2390,48 +2391,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                    | 3        | 3.57%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 3        | 3.57%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 2.38%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 2        | 2.38%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                   | 2        | 2.38%   |
-| Unknown RAM Module 2048MB DIMM 800MT/s                         | 2        | 2.38%   |
-| Unknown RAM Module 1024MB DIMM DDR2 333MT/s                    | 2        | 2.38%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s            | 2        | 2.38%   |
-| Unknown RAM Module 8192MB DIMM 1333MT/s                        | 1        | 1.19%   |
-| Unknown RAM Module 512MB DIMM SDRAM                            | 1        | 1.19%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 1.19%   |
-| Unknown RAM Module 4GB DIMM 667MT/s                            | 1        | 1.19%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                           | 1        | 1.19%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                   | 1        | 1.19%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                       | 1        | 1.19%   |
-| Unknown RAM Module 2GB DIMM 667MT/s                            | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                   | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                           | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM DDR 667MT/s                     | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM DDR 1333MT/s                    | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM                                 | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                           | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                    | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM DDR2 400MT/s                    | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM DDR 667MT/s                     | 1        | 1.19%   |
-| Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s      | 1        | 1.19%   |
-| Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s           | 1        | 1.19%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
-| Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s              | 1        | 1.19%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 1.19%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s            | 1        | 1.19%   |
-| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s            | 1        | 1.19%   |
-| SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s         | 1        | 1.19%   |
-| Silicon Power RAM DCLT2GN568S 2048MB DIMM DDR3 1600MT/s        | 1        | 1.19%   |
-| SGS/Thomson RAM GR800S264L5/2G 2048MB DIMM SDRAM 2048MT/s      | 1        | 1.19%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 1.19%   |
-| Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s           | 1        | 1.19%   |
-| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s                | 1        | 1.19%   |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s             | 1        | 1.19%   |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                       | 3        | 3.57%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                           | 3        | 3.57%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                           | 2        | 2.38%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                           | 2        | 2.38%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                      | 2        | 2.38%   |
+| Unknown RAM Module 2048MB DIMM 800MT/s                            | 2        | 2.38%   |
+| Unknown RAM Module 1024MB DIMM DDR2 333MT/s                       | 2        | 2.38%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s               | 2        | 2.38%   |
+| Unknown RAM Module 8192MB DIMM 1333MT/s                           | 1        | 1.19%   |
+| Unknown RAM Module 512MB DIMM SDRAM                               | 1        | 1.19%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                         | 1        | 1.19%   |
+| Unknown RAM Module 4GB DIMM 667MT/s                               | 1        | 1.19%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                              | 1        | 1.19%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                      | 1        | 1.19%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                          | 1        | 1.19%   |
+| Unknown RAM Module 2GB DIMM 667MT/s                               | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                      | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                              | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM DDR 667MT/s                        | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM DDR 1333MT/s                       | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM                                    | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                              | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                       | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM DDR2 400MT/s                       | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM DDR 667MT/s                        | 1        | 1.19%   |
+| Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s         | 1        | 1.19%   |
+| Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s              | 1        | 1.19%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
+| Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s                 | 1        | 1.19%   |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                        | 1        | 1.19%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s               | 1        | 1.19%   |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s               | 1        | 1.19%   |
+| SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s            | 1        | 1.19%   |
+| Silicon Power RAM DCLT2GN568S 2048MB DIMM DDR3 1600MT/s           | 1        | 1.19%   |
+| SGS/Thomson RAM GR800S264L5/2G 2048MB DIMM SDRAM 2048MT/s         | 1        | 1.19%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s               | 1        | 1.19%   |
+| Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s              | 1        | 1.19%   |
+| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s                   | 1        | 1.19%   |
+| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s               | 1        | 1.19%   |
 
 Memory Kind
 -----------
@@ -2496,8 +2497,8 @@ Memory module speed
 | 1600    | 12       | 16.67%  |
 | 800     | 7        | 9.72%   |
 | 2133    | 5        | 6.94%   |
+| 3600    | 4        | 5.56%   |
 | 2667    | 4        | 5.56%   |
-| 3600    | 3        | 4.17%   |
 | 667     | 3        | 4.17%   |
 | 333     | 3        | 4.17%   |
 | Unknown | 3        | 4.17%   |
@@ -2508,7 +2509,6 @@ Memory module speed
 | 400     | 2        | 2.78%   |
 | 6000    | 1        | 1.39%   |
 | 3500    | 1        | 1.39%   |
-| 3266    | 1        | 1.39%   |
 | 2800    | 1        | 1.39%   |
 | 2666    | 1        | 1.39%   |
 | 2048    | 1        | 1.39%   |

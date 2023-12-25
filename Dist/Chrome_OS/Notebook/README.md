@@ -579,16 +579,16 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2008 | 10        | 22.73%  |
+| 2008 | 11        | 25%     |
 | 2020 | 4         | 9.09%   |
 | 2018 | 4         | 9.09%   |
 | 2017 | 4         | 9.09%   |
 | 2015 | 4         | 9.09%   |
-| 2009 | 4         | 9.09%   |
 | 2019 | 3         | 6.82%   |
 | 2016 | 3         | 6.82%   |
 | 2014 | 3         | 6.82%   |
 | 2011 | 3         | 6.82%   |
+| 2009 | 3         | 6.82%   |
 | 2013 | 1         | 2.27%   |
 | 2012 | 1         | 2.27%   |
 
@@ -686,8 +686,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 27        | 61.36%  |
-| Yes       | 17        | 38.64%  |
+| No        | 28        | 63.64%  |
+| Yes       | 16        | 36.36%  |
 
 Has Ethernet
 ------------
@@ -870,7 +870,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 2TB                     | 1         | 1.96%   |
+| TO Exter nal USB 3.0 1TB                     | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -900,14 +900,15 @@ Hard disk drive vendors
 ![HDD Vendor](./images/pie_chart/drive_hdd_vendor.svg)
 
 
-| Vendor  | Notebooks | Drives | Percent |
-|---------|-----------|--------|---------|
-| Hitachi | 5         | 5      | 29.41%  |
-| WDC     | 4         | 4      | 23.53%  |
-| Toshiba | 2         | 2      | 11.76%  |
-| Seagate | 2         | 2      | 11.76%  |
-| HGST    | 2         | 3      | 11.76%  |
-| Fujitsu | 2         | 2      | 11.76%  |
+| Vendor   | Notebooks | Drives | Percent |
+|----------|-----------|--------|---------|
+| Hitachi  | 5         | 5      | 27.78%  |
+| WDC      | 4         | 4      | 22.22%  |
+| Toshiba  | 2         | 2      | 11.11%  |
+| Seagate  | 2         | 2      | 11.11%  |
+| HGST     | 2         | 3      | 11.11%  |
+| Fujitsu  | 2         | 2      | 11.11%  |
+| TO Exter | 1         | 1      | 5.56%   |
 
 SSD Vendor
 ----------
@@ -919,12 +920,11 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 4         | 5      | 36.36%  |
-| Kingston            | 3         | 4      | 27.27%  |
-| TO Exter            | 1         | 1      | 9.09%   |
-| SanDisk             | 1         | 1      | 9.09%   |
-| Netac               | 1         | 2      | 9.09%   |
-| MyDigitalSSD        | 1         | 1      | 9.09%   |
+| Samsung Electronics | 4         | 5      | 40%     |
+| Kingston            | 3         | 4      | 30%     |
+| SanDisk             | 1         | 1      | 10%     |
+| Netac               | 1         | 2      | 10%     |
+| MyDigitalSSD        | 1         | 1      | 10%     |
 
 Drive Kind
 ----------
@@ -936,9 +936,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
+| HDD  | 18        | 19     | 37.5%   |
 | MMC  | 17        | 23     | 35.42%  |
-| HDD  | 17        | 18     | 35.42%  |
-| SSD  | 11        | 14     | 22.92%  |
+| SSD  | 10        | 13     | 20.83%  |
 | NVMe | 3         | 4      | 6.25%   |
 
 Drive Connector
@@ -967,7 +967,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 26        | 31     | 96.3%   |
-| 1.01-2.0   | 1         | 1      | 3.7%    |
+| 0.51-1.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1446,14 +1446,14 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 3         | 6.52%   |
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                    | 3         | 6.52%   |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.35%   |
-| Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch                  | 1         | 2.17%   |
+| Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.17%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch    | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768                         | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch     | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch              | 1         | 2.17%   |
 | LG Philips LCD Monitor LPL2D01 1920x1200 331x207mm 15.4-inch             | 1         | 2.17%   |
 | LG Display LCD Monitor LGD0395 1366x768 344x194mm 15.5-inch              | 1         | 2.17%   |
@@ -1461,7 +1461,7 @@ Monitor models
 | LG Display LCD Monitor LGD01F7 1366x768 293x165mm 13.2-inch              | 1         | 2.17%   |
 | LG Display LCD Monitor LGD01BC 1366x768 294x166mm 13.3-inch              | 1         | 2.17%   |
 | Lenovo LCD Monitor LEN4057 1280x800 331x207mm 15.4-inch                  | 1         | 2.17%   |
-| Lenovo LCD Monitor LEN4053 1680x1050 330x210mm 15.4-inch                 | 1         | 2.17%   |
+| Lenovo LCD Monitor LEN4053 1680x1050 331x207mm 15.4-inch                 | 1         | 2.17%   |
 | Lenovo LCD Monitor LEN4031 1280x800 304x190mm 14.1-inch                  | 1         | 2.17%   |
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch         | 1         | 2.17%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch               | 1         | 2.17%   |
@@ -2093,8 +2093,8 @@ Camera device models
 | Suyin HP Truevision HD                                  | 1         | 3.03%   |
 | Suyin HD Video WebCam                                   | 1         | 3.03%   |
 | Sunplus HD WebCam                                       | 1         | 3.03%   |
-| Realtek USB2.0-Camera                                   | 1         | 3.03%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.03%   |
+| Realtek USB Camera                                      | 1         | 3.03%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.03%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.03%   |
 | Microdia HP Webcam                                      | 1         | 3.03%   |
@@ -2179,9 +2179,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 24        | 54.55%  |
+| 0     | 22        | 50%     |
 | 1     | 17        | 38.64%  |
-| 2     | 3         | 6.82%   |
+| 2     | 5         | 11.36%  |
 
 Unsupported Device Types
 ------------------------
@@ -2193,13 +2193,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 27.27%  |
-| Fingerprint reader       | 5         | 22.73%  |
-| Chipcard                 | 3         | 13.64%  |
-| Storage                  | 2         | 9.09%   |
-| Graphics card            | 2         | 9.09%   |
-| Storage/ide              | 1         | 4.55%   |
-| Net/wireless             | 1         | 4.55%   |
-| Modem                    | 1         | 4.55%   |
-| Communication controller | 1         | 4.55%   |
+| Multimedia controller    | 6         | 23.08%  |
+| Graphics card            | 6         | 23.08%  |
+| Fingerprint reader       | 5         | 19.23%  |
+| Chipcard                 | 3         | 11.54%  |
+| Storage                  | 2         | 7.69%   |
+| Storage/ide              | 1         | 3.85%   |
+| Net/wireless             | 1         | 3.85%   |
+| Modem                    | 1         | 3.85%   |
+| Communication controller | 1         | 3.85%   |
 

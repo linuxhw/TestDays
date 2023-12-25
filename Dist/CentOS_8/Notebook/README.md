@@ -721,13 +721,13 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2012 | 18        | 15.13%  |
-| 2019 | 16        | 13.45%  |
+| 2012 | 19        | 15.97%  |
+| 2019 | 15        | 12.61%  |
+| 2014 | 14        | 11.76%  |
 | 2016 | 13        | 10.92%  |
-| 2014 | 13        | 10.92%  |
-| 2015 | 10        | 8.4%    |
 | 2020 | 9         | 7.56%   |
 | 2018 | 9         | 7.56%   |
+| 2015 | 9         | 7.56%   |
 | 2017 | 8         | 6.72%   |
 | 2010 | 7         | 5.88%   |
 | 2013 | 6         | 5.04%   |
@@ -1067,7 +1067,7 @@ Hard drive models
 | WDC WD10JPCX-24UE4T0 1TB                | 1         | 0.62%   |
 | WDC PC SN520 SDAPMUW-512G-1101 512GB    | 1         | 0.62%   |
 | Unknown SD02G  2GB                      | 1         | 0.62%   |
-| Unknown SD/MMC/MS PRO 16GB              | 1         | 0.62%   |
+| Unknown SD/MMC/MS PRO 128GB             | 1         | 0.62%   |
 | Unknown MMC Card  976MB                 | 1         | 0.62%   |
 | Unknown MMC Card  4GB                   | 1         | 0.62%   |
 | Unknown MMC Card  33GB                  | 1         | 0.62%   |
@@ -1165,10 +1165,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 70        | 90     | 64.81%  |
-| 0.51-1.0   | 33        | 41     | 30.56%  |
-| 1.01-2.0   | 4         | 4      | 3.7%    |
-| 3.01-4.0   | 1         | 1      | 0.93%   |
+| 0.01-0.5   | 70        | 89     | 64.22%  |
+| 0.51-1.0   | 33        | 41     | 30.28%  |
+| 1.01-2.0   | 5         | 5      | 4.59%   |
+| 3.01-4.0   | 1         | 1      | 0.92%   |
 
 Space Total
 -----------
@@ -1782,7 +1782,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.41%   |
 | AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch         | 2         | 1.41%   |
 | AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch         | 2         | 1.41%   |
-| Vizio E420VO VIZ0070 1920x1080 930x523mm 42.0-inch                    | 1         | 0.7%    |
+| Vizio E221VA VIZ0070 1920x1080 476x268mm 21.5-inch                    | 1         | 0.7%    |
 | Sharp LCD Monitor SHP14B9 3840x2160 344x194mm 15.5-inch               | 1         | 0.7%    |
 | Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 0.7%    |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 0.7%    |
@@ -1790,7 +1790,7 @@ Monitor models
 | Samsung Electronics SMBX2450 SAM0721 1920x1080 531x299mm 24.0-inch    | 1         | 0.7%    |
 | Samsung Electronics S22B420 SAM0979 1680x1050 473x291mm 21.9-inch     | 1         | 0.7%    |
 | Samsung Electronics LU28R55 SAM1017 3840x2160 632x360mm 28.6-inch     | 1         | 0.7%    |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 382x214mm 17.2-inch  | 1         | 0.7%    |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC5341 1366x768 344x193mm 15.5-inch  | 1         | 0.7%    |
 | Samsung Electronics LCD Monitor SEC434E 1600x900 310x174mm 14.0-inch  | 1         | 0.7%    |
@@ -1809,7 +1809,7 @@ Monitor models
 | PANDA LCD Monitor NCP002A 1920x1080 344x194mm 15.5-inch               | 1         | 0.7%    |
 | Panasonic TV MEIC122 1280x720 697x392mm 31.5-inch                     | 1         | 0.7%    |
 | Onkyo AV Receiver ONK1151 1280x720 609x347mm 27.6-inch                | 1         | 0.7%    |
-| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                    | 1         | 0.7%    |
+| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch               | 1         | 0.7%    |
 | LG Display LCD Monitor LGD065A 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
 | LG Display LCD Monitor LGD061C 1920x1080 294x165mm 13.3-inch          | 1         | 0.7%    |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch          | 1         | 0.7%    |
@@ -2174,7 +2174,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 0.9%    |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 0.9%    |
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                        | 1         | 0.9%    |
-| OnePlus (Shenzhen) OnePlus                                        | 1         | 0.9%    |
+| OnePlus (Shenzhen) Android                                        | 1         | 0.9%    |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 0.9%    |
 | Intel Ethernet Connection I219-V                                  | 1         | 0.9%    |
 | Intel Ethernet Connection (5) I219-LM                             | 1         | 0.9%    |
@@ -2276,7 +2276,7 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 29        | 29.9%   |
-| Realtek Bluetooth Radio                             | 9         | 9.28%   |
+| Realtek Bluetooth Radio                             | 8         | 8.25%   |
 | Intel AX201 Bluetooth                               | 7         | 7.22%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 6         | 6.19%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 5         | 5.15%   |
@@ -2284,25 +2284,25 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                  | 4         | 4.12%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 3         | 3.09%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 2         | 2.06%   |
+| Realtek 802.11ac WLAN Adapter                       | 2         | 2.06%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 2.06%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 2         | 2.06%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 2         | 2.06%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 2.06%   |
 | Toshiba Bluetooth Radio                             | 1         | 1.03%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 1.03%   |
-| Realtek RTL8821A Bluetooth                          | 1         | 1.03%   |
 | Ralink RT3290 Bluetooth                             | 1         | 1.03%   |
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 1.03%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 1.03%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device        | 1         | 1.03%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 1.03%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.03%   |
-| Intel Bluetooth Device                              | 1         | 1.03%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 1.03%   |
 | IMC Networks Bluetooth Device                       | 1         | 1.03%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 1.03%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 1.03%   |
 | Broadcom HP Portable SoftSailing                    | 1         | 1.03%   |
-| Broadcom Bluetooth 3.0 USB Dongle                   | 1         | 1.03%   |
+| Broadcom Bluetooth 3.0 Dongle                       | 1         | 1.03%   |
 | Broadcom BCM20702A0                                 | 1         | 1.03%   |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 1.03%   |
 | Broadcom BCM2045 Bluetooth                          | 1         | 1.03%   |
@@ -2416,48 +2416,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                         | Notebooks | Percent |
-|---------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s         | 2         | 3.23%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s        | 2         | 3.23%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                   | 1         | 1.61%   |
-| Unknown RAM Module 4GB SODIMM DDR2 667MT/s                    | 1         | 1.61%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s                | 1         | 1.61%   |
-| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 1.61%   |
-| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s               | 1         | 1.61%   |
-| SK hynix RAM Module 8192MB SODIMM DDR4 2133MT/s               | 1         | 1.61%   |
-| SK hynix RAM Module 16GB SODIMM DDR4 2667MT/s                 | 1         | 1.61%   |
-| SK hynix RAM HMT851S6AMR6R-PB N0 4GB Chip DDR3 1600MT/s       | 1         | 1.61%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s     | 1         | 1.61%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMT125S6BFR8C-H9 2GB SODIMM 1333MT/s             | 1         | 1.61%   |
-| SK hynix RAM HMT125S6AFP8C-G7 2GB SODIMM 1066MT/s             | 1         | 1.61%   |
-| SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s  | 1         | 1.61%   |
-| SK hynix RAM HMA851S6CJR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.61%   |
-| SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.61%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s        | 1         | 1.61%   |
-| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s    | 1         | 1.61%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.61%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
-| Samsung RAM M471B5273CM0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.61%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.61%   |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s         | 1         | 1.61%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s         | 1         | 1.61%   |
-| Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s   | 1         | 1.61%   |
-| Samsung RAM M471A5143DB0-CPB 4GB SODIMM DDR4 2133MT/s         | 1         | 1.61%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.61%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s         | 1         | 1.61%   |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s     | 1         | 1.61%   |
-| Nanya RAM NT2GC64B8HC0NS-CG 2GB SODIMM DDR3 1334MT/s          | 1         | 1.61%   |
-| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.61%   |
-| Micron RAM 8ATF1G64HZ-2G6D1 8GB SODIMM DDR4 2667MT/s          | 1         | 1.61%   |
-| Micron RAM 53E2G32D4NQ-046 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 1.61%   |
-| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s         | 1         | 1.61%   |
-| Kingston RAM Module 4GB SODIMM DDR3 1600MT/s                  | 1         | 1.61%   |
+| Model                                                          | Notebooks | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s          | 2         | 3.23%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s         | 2         | 3.23%   |
+| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                    | 1         | 1.61%   |
+| Unknown RAM Module 4GB SODIMM DDR2 667MT/s                     | 1         | 1.61%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s                 | 1         | 1.61%   |
+| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s                   | 1         | 1.61%   |
+| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s                | 1         | 1.61%   |
+| SK hynix RAM Module 8192MB SODIMM DDR4 2133MT/s                | 1         | 1.61%   |
+| SK hynix RAM Module 16GB SODIMM DDR4 2667MT/s                  | 1         | 1.61%   |
+| SK hynix RAM HMT851S6AMR6R-PB N0 4GB Chip DDR3 1600MT/s        | 1         | 1.61%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.61%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.61%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 1.61%   |
+| SK hynix RAM HMT125S6BFR8C-H9 2GB SODIMM 1333MT/s              | 1         | 1.61%   |
+| SK hynix RAM HMT125S6AFP8C-G7 2GB SODIMM 1066MT/s              | 1         | 1.61%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s   | 1         | 1.61%   |
+| SK hynix RAM HMA851S6CJR6N-UH 4GB SODIMM DDR4 2400MT/s         | 1         | 1.61%   |
+| SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s        | 1         | 1.61%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s         | 1         | 1.61%   |
+| Samsung RAM UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s     | 1         | 1.61%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 1         | 1.61%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s          | 1         | 1.61%   |
+| Samsung RAM M471B5273CM0-CH9 4GB SODIMM 1334MT/s               | 1         | 1.61%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 1.61%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s          | 1         | 1.61%   |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s          | 1         | 1.61%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s          | 1         | 1.61%   |
+| Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s    | 1         | 1.61%   |
+| Samsung RAM M471A5143DB0-CPB 4GB SODIMM DDR4 2133MT/s          | 1         | 1.61%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 1.61%   |
+| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s       | 1         | 1.61%   |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s      | 1         | 1.61%   |
+| Nanya RAM NT2GC64B8HC0NS-CG 2GB SODIMM DDR3 1334MT/s           | 1         | 1.61%   |
+| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s  | 1         | 1.61%   |
+| Micron RAM 8ATF1G64HZ-2G6D1 8GB SODIMM DDR4 2667MT/s           | 1         | 1.61%   |
+| Micron RAM 53E2G32D4NQ-046 4096MB Row Of Chips LPDDR4 4267MT/s | 1         | 1.61%   |
+| Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s          | 1         | 1.61%   |
+| Kingston RAM Module 4GB SODIMM DDR3 1600MT/s                   | 1         | 1.61%   |
 
 Memory Kind
 -----------
@@ -2574,7 +2574,7 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 34        | 31.48%  |
 | Microdia                               | 14        | 12.96%  |
-| Bison Electronics                      | 10        | 9.26%   |
+| Bison Electronics                      | 11        | 10.19%  |
 | Realtek Semiconductor                  | 7         | 6.48%   |
 | Lite-On Technology                     | 7         | 6.48%   |
 | IMC Networks                           | 7         | 6.48%   |
@@ -2585,12 +2585,12 @@ Camera device vendors
 | Suyin                                  | 2         | 1.85%   |
 | Silicon Motion                         | 2         | 1.85%   |
 | Microsoft                              | 2         | 1.85%   |
-| Acer                                   | 2         | 1.85%   |
 | Sunplus Technology                     | 1         | 0.93%   |
 | Samsung Electronics                    | 1         | 0.93%   |
 | Logitech                               | 1         | 0.93%   |
 | Intel                                  | 1         | 0.93%   |
 | Alcor Micro                            | 1         | 0.93%   |
+| Acer                                   | 1         | 0.93%   |
 
 Camera Model
 ------------
@@ -2603,7 +2603,7 @@ Camera device models
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
 | Chicony Integrated Camera               | 7         | 6.48%   |
-| Microdia Integrated_Webcam_HD           | 5         | 4.63%   |
+| Microdia Integrated_Webcam_HD           | 4         | 3.7%    |
 | Lite-On Integrated Camera               | 3         | 2.78%   |
 | Lite-On HP HD Camera                    | 3         | 2.78%   |
 | IMC Networks USB2.0 HD UVC WebCam       | 3         | 2.78%   |
@@ -2616,6 +2616,7 @@ Camera device models
 | Bison Lenovo EasyCamera                 | 3         | 2.78%   |
 | Sunplus Integrated_Webcam_HD            | 2         | 1.85%   |
 | Quanta HP TrueVision HD Camera          | 2         | 1.85%   |
+| Microdia Laptop_Integrated_Webcam_HD    | 2         | 1.85%   |
 | Microdia Laptop_Integrated_Webcam_2M    | 2         | 1.85%   |
 | Chicony HP Webcam [2 MP Macro]          | 2         | 1.85%   |
 | Chicony HP HD Webcam                    | 2         | 1.85%   |
@@ -2641,7 +2642,6 @@ Camera device models
 | Realtek EasyCamera                      | 1         | 0.93%   |
 | Quanta HD Webcam                        | 1         | 0.93%   |
 | Quanta HD User Facing                   | 1         | 0.93%   |
-| Microsoft LifeCam VX-500 [1357]         | 1         | 0.93%   |
 
 Security
 --------
@@ -2736,8 +2736,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 61        | 50.83%  |
-| 1     | 52        | 43.33%  |
+| 0     | 60        | 50%     |
+| 1     | 53        | 44.17%  |
 | 2     | 5         | 4.17%   |
 | 6     | 1         | 0.83%   |
 | 3     | 1         | 0.83%   |
@@ -2752,15 +2752,15 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 34        | 49.28%  |
-| Graphics card            | 12        | 17.39%  |
-| Net/wireless             | 6         | 8.7%    |
-| Chipcard                 | 6         | 8.7%    |
-| Multimedia controller    | 4         | 5.8%    |
-| Bluetooth                | 2         | 2.9%    |
-| Storage                  | 1         | 1.45%   |
-| Sound                    | 1         | 1.45%   |
-| Net/ethernet             | 1         | 1.45%   |
-| Communication controller | 1         | 1.45%   |
-| Camera                   | 1         | 1.45%   |
+| Fingerprint reader       | 34        | 48.57%  |
+| Graphics card            | 13        | 18.57%  |
+| Net/wireless             | 6         | 8.57%   |
+| Chipcard                 | 6         | 8.57%   |
+| Multimedia controller    | 4         | 5.71%   |
+| Bluetooth                | 2         | 2.86%   |
+| Storage                  | 1         | 1.43%   |
+| Sound                    | 1         | 1.43%   |
+| Net/ethernet             | 1         | 1.43%   |
+| Communication controller | 1         | 1.43%   |
+| Camera                   | 1         | 1.43%   |
 

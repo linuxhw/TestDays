@@ -1077,7 +1077,7 @@ Hard drive models
 | SanDisk NVMe SSD Drive 1TB           | 2        | 1.87%   |
 | Samsung SSD 850 EVO 500GB            | 2        | 1.87%   |
 | Samsung NVMe SSD Drive 500GB         | 2        | 1.87%   |
-| SABRENT Disk 240GB SSD               | 2        | 1.87%   |
+| SABRENT Disk 500GB                   | 2        | 1.87%   |
 | Micron/Crucial NVMe SSD Drive 500GB  | 2        | 1.87%   |
 | China SATA SSD 512GB                 | 2        | 1.87%   |
 | China SATA SSD 1024GB                | 2        | 1.87%   |
@@ -1133,17 +1133,16 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| China               | 5        | 7      | 20.83%  |
-| Samsung Electronics | 4        | 8      | 16.67%  |
-| WDC                 | 3        | 5      | 12.5%   |
-| Crucial             | 3        | 3      | 12.5%   |
-| SABRENT             | 2        | 3      | 8.33%   |
-| LITEONIT            | 2        | 2      | 8.33%   |
-| SanDisk             | 1        | 1      | 4.17%   |
-| Patriot             | 1        | 2      | 4.17%   |
-| OCZ                 | 1        | 1      | 4.17%   |
-| Kingston            | 1        | 1      | 4.17%   |
-| A-DATA Technology   | 1        | 5      | 4.17%   |
+| China               | 5        | 7      | 22.73%  |
+| Samsung Electronics | 4        | 8      | 18.18%  |
+| WDC                 | 3        | 5      | 13.64%  |
+| Crucial             | 3        | 3      | 13.64%  |
+| LITEONIT            | 2        | 2      | 9.09%   |
+| SanDisk             | 1        | 1      | 4.55%   |
+| Patriot             | 1        | 2      | 4.55%   |
+| OCZ                 | 1        | 1      | 4.55%   |
+| Kingston            | 1        | 1      | 4.55%   |
+| A-DATA Technology   | 1        | 5      | 4.55%   |
 
 Drive Kind
 ----------
@@ -1155,10 +1154,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 43       | 117    | 48.86%  |
-| SSD     | 23       | 38     | 26.14%  |
-| NVMe    | 19       | 25     | 21.59%  |
-| Unknown | 3        | 9      | 3.41%   |
+| HDD     | 43       | 117    | 50%     |
+| SSD     | 21       | 35     | 24.42%  |
+| NVMe    | 19       | 28     | 22.09%  |
+| Unknown | 3        | 9      | 3.49%   |
 
 Drive Connector
 ---------------
@@ -1184,12 +1183,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 32       | 55     | 43.24%  |
-| 0.51-1.0   | 25       | 56     | 33.78%  |
-| 1.01-2.0   | 8        | 20     | 10.81%  |
-| 3.01-4.0   | 5        | 10     | 6.76%   |
-| 10.01-20.0 | 3        | 13     | 4.05%   |
-| 2.01-3.0   | 1        | 1      | 1.35%   |
+| 0.01-0.5   | 31       | 52     | 42.47%  |
+| 0.51-1.0   | 24       | 55     | 32.88%  |
+| 1.01-2.0   | 9        | 21     | 12.33%  |
+| 3.01-4.0   | 5        | 10     | 6.85%   |
+| 10.01-20.0 | 3        | 13     | 4.11%   |
+| 2.01-3.0   | 1        | 1      | 1.37%   |
 
 Space Total
 -----------
@@ -1396,10 +1395,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 45       | 51.72%  |
-| NVMe | 19       | 21.84%  |
-| IDE  | 16       | 18.39%  |
-| RAID | 7        | 8.05%   |
+| SATA | 45       | 51.14%  |
+| NVMe | 19       | 21.59%  |
+| IDE  | 16       | 18.18%  |
+| RAID | 8        | 9.09%   |
 
 Processor
 ---------
@@ -1792,7 +1791,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 5        | 6.58%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                | 3        | 3.95%   |
-| Element ELCFW329 ELE1366 1366x768 700x390mm 31.5-inch                 | 3        | 3.95%   |
+| Element ELEFW408 ELE1366 1920x1080 890x500mm 40.2-inch                | 3        | 3.95%   |
 | VIZ LCD Monitor M551d-A2R                                             | 2        | 2.63%   |
 | ViewSonic VA2448 SERIES VSC3828 1920x1080 521x293mm 23.5-inch         | 2        | 2.63%   |
 | Sony TV SNY4502 1920x1080                                             | 2        | 2.63%   |
@@ -1803,8 +1802,8 @@ Monitor models
 | Gateway FHX2300 GWY00BF 1920x1080 509x286mm 23.0-inch                 | 2        | 2.63%   |
 | Acer LCD Monitor G236HL 5760x1080                                     | 2        | 2.63%   |
 | Vizio M422i-B1 VIZ1006 1920x1080 930x523mm 42.0-inch                  | 1        | 1.32%   |
-| Vizio E260MV VIZ0062 1920x1080 509x286mm 23.0-inch                    | 1        | 1.32%   |
-| Vizio E241i-B1 VIZ1005 1920x1080 521x293mm 23.5-inch                  | 1        | 1.32%   |
+| Vizio M220MV VIZ0062 1920x1080 480x270mm 21.7-inch                    | 1        | 1.32%   |
+| Vizio E241i-A1 VIZ1005 1920x1080 521x293mm 23.5-inch                  | 1        | 1.32%   |
 | ViewSonic VX2453 Series VSC0C28 1920x1080 520x290mm 23.4-inch         | 1        | 1.32%   |
 | ViewSonic VG930m-3 VSC991E 1280x1024 376x301mm 19.0-inch              | 1        | 1.32%   |
 | Unknown LCD Monitor Dell S2719DGF 2560x1440                           | 1        | 1.32%   |
@@ -1814,7 +1813,7 @@ Monitor models
 | Seiki SE241TS SEK0CF0 1920x1080 520x290mm 23.4-inch                   | 1        | 1.32%   |
 | Sceptre Tech Sceptre X22HG SPT2204 1920x1080 474x296mm 22.0-inch      | 1        | 1.32%   |
 | Sceptre Tech Sceptre F22 SPT08E3 1920x1080 480x260mm 21.5-inch        | 1        | 1.32%   |
-| Sceptre Tech E27 SPT0ABF 1920x1080 521x293mm 23.5-inch                | 1        | 1.32%   |
+| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                | 1        | 1.32%   |
 | Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1        | 1.32%   |
 | Samsung Electronics S27C230 SAM0A87 1920x1080 598x336mm 27.0-inch     | 1        | 1.32%   |
 | Samsung Electronics LCD Monitor SAM0F0B 1920x1080 708x398mm 32.0-inch | 1        | 1.32%   |
@@ -2109,7 +2108,7 @@ Wireless models
 | NetGear WNA1100 Wireless-N 150 [Atheros AR9271]               | 1        | 2%      |
 | NetGear MA111(v2) 802.11b Wireless [SIS SIS 162]              | 1        | 2%      |
 | NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]   | 1        | 2%      |
-| Microsoft Xbox Wireless Adapter for Windows                   | 1        | 2%      |
+| Microsoft XBOX ACC                                            | 1        | 2%      |
 | MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter | 1        | 2%      |
 | Intel Wireless 8265 / 8275                                    | 1        | 2%      |
 | Intel Wireless 3160                                           | 1        | 2%      |
@@ -2384,10 +2383,10 @@ Memory module models
 | Unknown RAM Module 1GB DIMM                               | 1        | 3.85%   |
 | Unknown RAM CL18-22-22 D4-3600 16384MB DIMM DDR4 3600MT/s | 1        | 3.85%   |
 | Unknown RAM CL18-20-20 D4-3600 8192MB DIMM DDR4 3600MT/s  | 1        | 3.85%   |
-| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 3200MT/s        | 1        | 3.85%   |
+| Team RAM TEAMGROUP-UD4-3000 8192MB DIMM DDR4 3200MT/s     | 1        | 3.85%   |
 | SK hynix RAM Module 8GB DIMM DDR4 3200MT/s                | 1        | 3.85%   |
 | SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s      | 1        | 3.85%   |
-| Sesame RAM S939A2UGS-ITR.. 8GB DIMM DDR3 1600MT/s         | 1        | 3.85%   |
+| Sesame RAM S939A2UGS-ITR 8GB DIMM DDR3 1600MT/s           | 1        | 3.85%   |
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s       | 1        | 3.85%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 3.85%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 3.85%   |
@@ -2543,7 +2542,7 @@ Camera device models
 | Microdia Camera                 | 4        | 28.57%  |
 | Logitech HD Pro Webcam C920     | 2        | 14.29%  |
 | Razer USA Razer Kiyo Pro        | 1        | 7.14%   |
-| Microdia USB 2.0 Camera         | 1        | 7.14%   |
+| Microdia USB Camera             | 1        | 7.14%   |
 | Logitech Webcam Pro 9000        | 1        | 7.14%   |
 | Logitech Webcam C310            | 1        | 7.14%   |
 | Logitech Webcam C270            | 1        | 7.14%   |
@@ -2595,8 +2594,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 48       | 70.59%  |
-| 1     | 15       | 22.06%  |
+| 0     | 49       | 72.06%  |
+| 1     | 14       | 20.59%  |
 | 2     | 5        | 7.35%   |
 
 Unsupported Device Types
@@ -2609,9 +2608,9 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 13       | 61.9%   |
-| Graphics card            | 5        | 23.81%  |
-| Net/ethernet             | 1        | 4.76%   |
-| Multimedia controller    | 1        | 4.76%   |
-| Communication controller | 1        | 4.76%   |
+| Net/wireless             | 13       | 65%     |
+| Graphics card            | 4        | 20%     |
+| Net/ethernet             | 1        | 5%      |
+| Multimedia controller    | 1        | 5%      |
+| Communication controller | 1        | 5%      |
 

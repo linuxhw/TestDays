@@ -155,10 +155,14 @@ Contents
 Test Cases
 ----------
 
-Total: 19
+Total: 23
 
 | Vendor   | Model           | Probe                                                      | Date         |
 |----------|-----------------|------------------------------------------------------------|--------------|
+| Shuttle  | DS10U           | [2b28414f3d](https://linux-hardware.org/?probe=2b28414f3d) | Dec 14, 2023 |
+| Shuttle  | DS10U           | [0a9d211454](https://linux-hardware.org/?probe=0a9d211454) | Dec 14, 2023 |
+| ASUSTek  | A88X-PLUS/USB   | [0856a3d881](https://linux-hardware.org/?probe=0856a3d881) | Dec 11, 2023 |
+| ASUSTek  | A88X-PLUS/USB   | [8603cdd73e](https://linux-hardware.org/?probe=8603cdd73e) | Nov 28, 2023 |
 | ASUSTek  | M4N68T V2       | [4be2f626a3](https://linux-hardware.org/?probe=4be2f626a3) | Jun 11, 2023 |
 | Shuttle  | DS10U           | [ffcce61d82](https://linux-hardware.org/?probe=ffcce61d82) | Apr 22, 2023 |
 | Shuttle  | DS10U           | [b25013d04f](https://linux-hardware.org/?probe=b25013d04f) | Apr 18, 2023 |
@@ -192,9 +196,10 @@ Installed operating systems
 
 | Name        | Desktops | Percent |
 |-------------|----------|---------|
-| PureOS 10   | 5        | 45.45%  |
-| PureOS 9.0  | 3        | 27.27%  |
-| PureOS 10.0 | 3        | 27.27%  |
+| PureOS 10   | 7        | 50%     |
+| PureOS 9.0  | 3        | 21.43%  |
+| PureOS 10.0 | 3        | 21.43%  |
+| PureOS 10.x | 1        | 7.14%   |
 
 OS Family
 ---------
@@ -216,16 +221,19 @@ Version of the Linux kernel
 ![Kernel](./images/pie_chart/os_kernel.svg)
 
 
-| Version         | Desktops | Percent |
-|-----------------|----------|---------|
-| 4.19.0-14-amd64 | 3        | 27.27%  |
-| 5.10.0-14-amd64 | 2        | 18.18%  |
-| 5.10.0-21-amd64 | 1        | 9.09%   |
-| 5.10.0-20-amd64 | 1        | 9.09%   |
-| 5.10.0-19-amd64 | 1        | 9.09%   |
-| 5.10.0-16-amd64 | 1        | 9.09%   |
-| 5.10.0-15-amd64 | 1        | 9.09%   |
-| 5.10.0-11-amd64 | 1        | 9.09%   |
+| Version              | Desktops | Percent |
+|----------------------|----------|---------|
+| 4.19.0-14-amd64      | 3        | 21.43%  |
+| 5.10.0-14-amd64      | 2        | 14.29%  |
+| 6.1.66-x64v2-xanmod1 | 1        | 7.14%   |
+| 5.10.0-26-amd64      | 1        | 7.14%   |
+| 5.10.0-23-amd64      | 1        | 7.14%   |
+| 5.10.0-21-amd64      | 1        | 7.14%   |
+| 5.10.0-20-amd64      | 1        | 7.14%   |
+| 5.10.0-19-amd64      | 1        | 7.14%   |
+| 5.10.0-16-amd64      | 1        | 7.14%   |
+| 5.10.0-15-amd64      | 1        | 7.14%   |
+| 5.10.0-11-amd64      | 1        | 7.14%   |
 
 Kernel Family
 -------------
@@ -237,8 +245,9 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.10.0  | 8        | 72.73%  |
-| 4.19.0  | 3        | 27.27%  |
+| 5.10.0  | 9        | 69.23%  |
+| 4.19.0  | 3        | 23.08%  |
+| 6.1.66  | 1        | 7.69%   |
 
 Kernel Major Ver.
 -----------------
@@ -250,8 +259,9 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.10    | 8        | 72.73%  |
-| 4.19    | 3        | 27.27%  |
+| 5.10    | 9        | 69.23%  |
+| 4.19    | 3        | 23.08%  |
+| 6.1     | 1        | 7.69%   |
 
 Arch
 ----
@@ -289,9 +299,9 @@ X11 or Wayland
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Wayland | 8        | 66.67%  |
-| X11     | 3        | 25%     |
-| Unknown | 1        | 8.33%   |
+| Wayland | 8        | 61.54%  |
+| X11     | 4        | 30.77%  |
+| Unknown | 1        | 7.69%   |
 
 Display Manager
 ---------------
@@ -303,10 +313,10 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 6        | 54.55%  |
-| GDM3    | 2        | 18.18%  |
-| GDM     | 2        | 18.18%  |
-| SDDM    | 1        | 9.09%   |
+| Unknown | 6        | 50%     |
+| GDM     | 3        | 25%     |
+| GDM3    | 2        | 16.67%  |
+| SDDM    | 1        | 8.33%   |
 
 OS Lang
 -------
@@ -374,8 +384,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 9        | 81.82%  |
-| Yes       | 2        | 18.18%  |
+| No        | 9        | 75%     |
+| Yes       | 3        | 25%     |
 
 Dual Boot (Win)
 ---------------
@@ -536,10 +546,10 @@ Used RAM memory
 
 | Used GB  | Desktops | Percent |
 |----------|----------|---------|
-| 1.01-2.0 | 5        | 38.46%  |
-| 2.01-3.0 | 4        | 30.77%  |
-| 4.01-8.0 | 2        | 15.38%  |
-| 3.01-4.0 | 2        | 15.38%  |
+| 1.01-2.0 | 5        | 35.71%  |
+| 2.01-3.0 | 4        | 28.57%  |
+| 4.01-8.0 | 3        | 21.43%  |
+| 3.01-4.0 | 2        | 14.29%  |
 
 Total Drives
 ------------
@@ -551,10 +561,10 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 7        | 63.64%  |
-| 2      | 2        | 18.18%  |
-| 5      | 1        | 9.09%   |
-| 3      | 1        | 9.09%   |
+| 1      | 7        | 58.33%  |
+| 2      | 3        | 25%     |
+| 5      | 1        | 8.33%   |
+| 3      | 1        | 8.33%   |
 
 Has CD-ROM
 ----------
@@ -566,8 +576,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 9        | 81.82%  |
-| Yes       | 2        | 18.18%  |
+| No        | 9        | 75%     |
+| Yes       | 3        | 25%     |
 
 Has Ethernet
 ------------
@@ -663,15 +673,16 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 4        | 9      | 28.57%  |
-| WDC                 | 2        | 3      | 14.29%  |
-| Samsung Electronics | 2        | 3      | 14.29%  |
-| SanDisk             | 1        | 1      | 7.14%   |
-| PNY                 | 1        | 1      | 7.14%   |
-| Patriot             | 1        | 1      | 7.14%   |
-| Kingston            | 1        | 1      | 7.14%   |
-| Intenso             | 1        | 2      | 7.14%   |
-| ASMT                | 1        | 2      | 7.14%   |
+| Seagate             | 4        | 11     | 26.67%  |
+| WDC                 | 2        | 3      | 13.33%  |
+| Samsung Electronics | 2        | 3      | 13.33%  |
+| SanDisk             | 1        | 1      | 6.67%   |
+| PNY                 | 1        | 2      | 6.67%   |
+| Patriot             | 1        | 1      | 6.67%   |
+| Kingston            | 1        | 1      | 6.67%   |
+| Intenso             | 1        | 2      | 6.67%   |
+| China               | 1        | 2      | 6.67%   |
+| ASMT                | 1        | 2      | 6.67%   |
 
 Drive Model
 -----------
@@ -683,24 +694,25 @@ Hard drive models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| WDC WDBNCE2500PNC 250GB SSD     | 1        | 5.56%   |
-| WDC WD5000AZRX-00A8LB0 500GB    | 1        | 5.56%   |
-| Seagate ST480HM000-1G5162 480GB | 1        | 5.56%   |
-| Seagate ST3320418AS 320GB       | 1        | 5.56%   |
-| Seagate ST3250410AS 250GB       | 1        | 5.56%   |
-| Seagate ST3250312CS 250GB       | 1        | 5.56%   |
-| Seagate ST31000524AS 1TB        | 1        | 5.56%   |
-| Seagate ST1000DM003-1ER162 1TB  | 1        | 5.56%   |
-| SanDisk NVMe SSD Drive 500GB    | 1        | 5.56%   |
-| Samsung SSD 860 EVO M.2 250GB   | 1        | 5.56%   |
-| Samsung SSD 860 EVO 250GB       | 1        | 5.56%   |
-| Samsung SSD 830 Series 128GB    | 1        | 5.56%   |
-| PNY CS900 240GB SSD             | 1        | 5.56%   |
-| Patriot Burst Elite 120GB SSD   | 1        | 5.56%   |
-| Kingston SKC600256G 256GB SSD   | 1        | 5.56%   |
-| Intenso SSD 128GB               | 1        | 5.56%   |
-| Intenso SSD 120GB               | 1        | 5.56%   |
-| ASMT 2235 500GB                 | 1        | 5.56%   |
+| WDC WDBNCE2500PNC 250GB SSD     | 1        | 5.26%   |
+| WDC WD5000AZRX-00A8LB0 500GB    | 1        | 5.26%   |
+| Seagate ST480HM000-1G5162 480GB | 1        | 5.26%   |
+| Seagate ST3320418AS 320GB       | 1        | 5.26%   |
+| Seagate ST3250410AS 250GB       | 1        | 5.26%   |
+| Seagate ST3250312CS 250GB       | 1        | 5.26%   |
+| Seagate ST31000524AS 1TB        | 1        | 5.26%   |
+| Seagate ST1000DM003-1ER162 1TB  | 1        | 5.26%   |
+| SanDisk NVMe SSD Drive 500GB    | 1        | 5.26%   |
+| Samsung SSD 860 EVO M.2 250GB   | 1        | 5.26%   |
+| Samsung SSD 860 EVO 250GB       | 1        | 5.26%   |
+| Samsung SSD 830 Series 128GB    | 1        | 5.26%   |
+| PNY CS900 240GB SSD             | 1        | 5.26%   |
+| Patriot Burst Elite 120GB SSD   | 1        | 5.26%   |
+| Kingston SKC600256G 256GB SSD   | 1        | 5.26%   |
+| Intenso SSD 128GB               | 1        | 5.26%   |
+| Intenso SSD 120GB               | 1        | 5.26%   |
+| China SATA SSD 128GB            | 1        | 5.26%   |
+| ASMT 2235 500GB                 | 1        | 5.26%   |
 
 HDD Vendor
 ----------
@@ -712,7 +724,7 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 4        | 9      | 66.67%  |
+| Seagate | 4        | 11     | 66.67%  |
 | WDC     | 1        | 1      | 16.67%  |
 | ASMT    | 1        | 2      | 16.67%  |
 
@@ -726,12 +738,13 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 2        | 3      | 28.57%  |
-| WDC                 | 1        | 2      | 14.29%  |
-| PNY                 | 1        | 1      | 14.29%  |
-| Patriot             | 1        | 1      | 14.29%  |
-| Kingston            | 1        | 1      | 14.29%  |
-| Intenso             | 1        | 2      | 14.29%  |
+| Samsung Electronics | 2        | 3      | 25%     |
+| WDC                 | 1        | 2      | 12.5%   |
+| PNY                 | 1        | 2      | 12.5%   |
+| Patriot             | 1        | 1      | 12.5%   |
+| Kingston            | 1        | 1      | 12.5%   |
+| Intenso             | 1        | 2      | 12.5%   |
+| China               | 1        | 2      | 12.5%   |
 
 Drive Kind
 ----------
@@ -743,9 +756,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 7        | 10     | 53.85%  |
-| HDD  | 5        | 12     | 38.46%  |
-| NVMe | 1        | 1      | 7.69%   |
+| SSD  | 8        | 13     | 57.14%  |
+| HDD  | 5        | 14     | 35.71%  |
+| NVMe | 1        | 1      | 7.14%   |
 
 Drive Connector
 ---------------
@@ -757,7 +770,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 10       | 20     | 83.33%  |
+| SATA | 10       | 25     | 83.33%  |
 | SAS  | 1        | 2      | 8.33%   |
 | NVMe | 1        | 1      | 8.33%   |
 
@@ -771,8 +784,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 9        | 18     | 81.82%  |
-| 0.51-1.0   | 2        | 4      | 18.18%  |
+| 0.01-0.5   | 10       | 21     | 83.33%  |
+| 0.51-1.0   | 2        | 6      | 16.67%  |
 
 Space Total
 -----------
@@ -784,12 +797,12 @@ Amount of disk space available on the file system
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 1-20       | 5        | 38.46%  |
-| 251-500    | 4        | 30.77%  |
-| 101-250    | 1        | 7.69%   |
-| 1001-2000  | 1        | 7.69%   |
-| 501-1000   | 1        | 7.69%   |
-| 51-100     | 1        | 7.69%   |
+| 1-20       | 6        | 42.86%  |
+| 251-500    | 4        | 28.57%  |
+| 101-250    | 1        | 7.14%   |
+| 1001-2000  | 1        | 7.14%   |
+| 501-1000   | 1        | 7.14%   |
+| 51-100     | 1        | 7.14%   |
 
 Space Used
 ----------
@@ -801,9 +814,9 @@ Amount of used disk space
 
 | Used GB | Desktops | Percent |
 |---------|----------|---------|
-| 1-20    | 7        | 53.85%  |
-| 21-50   | 4        | 30.77%  |
-| 101-250 | 2        | 15.38%  |
+| 1-20    | 8        | 53.33%  |
+| 21-50   | 5        | 33.33%  |
+| 101-250 | 2        | 13.33%  |
 
 Malfunc. Drives
 ---------------
@@ -817,7 +830,7 @@ Drive models with a malfunction
 |---------------------------|----------|--------|---------|
 | Seagate ST3250410AS 250GB | 1        | 1      | 33.33%  |
 | Seagate ST3250312CS 250GB | 1        | 1      | 33.33%  |
-| Seagate ST31000524AS 1TB  | 1        | 1      | 33.33%  |
+| Seagate ST31000524AS 1TB  | 1        | 2      | 33.33%  |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -829,7 +842,7 @@ Vendors of faulty drives
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 2        | 3      | 100%    |
+| Seagate | 2        | 4      | 100%    |
 
 Malfunc. HDD Vendor
 -------------------
@@ -841,7 +854,7 @@ Vendors of faulty HDD drives
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 2        | 3      | 100%    |
+| Seagate | 2        | 4      | 100%    |
 
 Malfunc. Drive Kind
 -------------------
@@ -853,7 +866,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 2        | 3      | 100%    |
+| HDD  | 2        | 4      | 100%    |
 
 Failed Drives
 -------------
@@ -879,9 +892,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 7        | 15     | 53.85%  |
-| Works    | 4        | 5      | 30.77%  |
-| Malfunc  | 2        | 3      | 15.38%  |
+| Detected | 7        | 18     | 50%     |
+| Works    | 5        | 6      | 35.71%  |
+| Malfunc  | 2        | 4      | 14.29%  |
 
 Storage controller
 ------------------
@@ -1200,12 +1213,12 @@ Monitor models
 | Sony TV SNYAB03 1920x1080                                            | 1        | 9.09%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 474x296mm 22.0-inch | 1        | 9.09%   |
 | Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch  | 1        | 9.09%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 580x320mm 26.1-inch | 1        | 9.09%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch | 1        | 9.09%   |
 | PRI Prima TV PRI1600 1920x1080                                       | 1        | 9.09%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 1        | 9.09%   |
 | Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch               | 1        | 9.09%   |
 | Dell P2213 DELF042 1680x1050 470x300mm 22.0-inch                     | 1        | 9.09%   |
-| AOC 2050 AOC2050 1600x900 443x249mm 20.0-inch                        | 1        | 9.09%   |
+| AOC 2050W AOC2050 1600x900 432x240mm 19.5-inch                       | 1        | 9.09%   |
 
 Monitor Resolution
 ------------------
@@ -1441,7 +1454,8 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 11       | 100%    |
+| Ethernet | 11       | 91.67%  |
+| WiFi     | 1        | 8.33%   |
 
 NICs
 ----
@@ -1467,8 +1481,8 @@ IPv6 vs IPv4
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 10       | 90.91%  |
-| Yes  | 1        | 9.09%   |
+| No   | 10       | 83.33%  |
+| Yes  | 2        | 16.67%  |
 
 Bluetooth
 ---------
@@ -1752,9 +1766,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 7        | 63.64%  |
-| 1     | 3        | 27.27%  |
-| 2     | 1        | 9.09%   |
+| 0     | 8        | 66.67%  |
+| 1     | 3        | 25%     |
+| 2     | 1        | 8.33%   |
 
 Unsupported Device Types
 ------------------------

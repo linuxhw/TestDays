@@ -1818,7 +1818,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 2         | 1.94%   |
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1         | 0.97%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1         | 0.97%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                      | 1         | 0.97%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 1         | 0.97%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                             | 1         | 0.97%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1         | 0.97%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                   | 1         | 0.97%   |
@@ -1833,7 +1833,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SEC3942 1280x800 261x163mm 12.1-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch  | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch  | 1         | 0.97%   |
@@ -1842,7 +1842,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch  | 1         | 0.97%   |
 | Philips LCD Monitor 150C4 1024x768                                    | 1         | 0.97%   |
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                    | 1         | 0.97%   |
-| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                    | 1         | 0.97%   |
+| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch               | 1         | 0.97%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                     | 1         | 0.97%   |
 | LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch          | 1         | 0.97%   |
 | LG Display LCD Monitor LGD0582 3000x2000 275x183mm 13.0-inch          | 1         | 0.97%   |
@@ -2217,7 +2217,7 @@ Ethernet models
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                        | 1         | 1.12%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.12%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.12%   |
-| Qualcomm MDM9207-MTP _SN:F0A6D599                                 | 1         | 1.12%   |
+| Qualcomm MDM9207-MTP _SN:F0565CAE                                 | 1         | 1.12%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.12%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.12%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.12%   |
@@ -2344,7 +2344,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 2         | 3.33%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 3.33%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 3.33%   |
-| Intel Bluetooth Device                              | 2         | 3.33%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 2         | 3.33%   |
 | IMC Networks Bluetooth Radio                        | 2         | 3.33%   |
 | Toshiba Bluetooth Device                            | 1         | 1.67%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 1.67%   |
@@ -2485,14 +2485,14 @@ Memory module models
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                   | 1         | 2.27%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s               | 1         | 2.27%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s               | 1         | 2.27%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                  | 1         | 2.27%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                  | 1         | 2.27%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s                     | 1         | 2.27%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                   | 1         | 2.27%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s                   | 1         | 2.27%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s                   | 1         | 2.27%   |
+| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s                | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s                   | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s                   | 1         | 2.27%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s                  | 1         | 2.27%   |
@@ -2503,7 +2503,7 @@ Memory module models
 | Samsung RAM 4D332037385432383633515A532D43463720 1GB DIMM DDR2 800MT/s  | 1         | 2.27%   |
 | Ramaxel RAM RMSA3270MB86H9F2400 4096MB SODIMM DDR4 2400MT/s             | 1         | 2.27%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                        | 1         | 2.27%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                     | 1         | 2.27%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR 49926MT/s                      | 1         | 2.27%   |
 | Micron RAM Module 4GB SODIMM DDR3 1600MT/s                              | 1         | 2.27%   |
 | Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                | 1         | 2.27%   |
 | Micron RAM 8ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2400MT/s                    | 1         | 2.27%   |
@@ -2658,17 +2658,17 @@ Camera device vendors
 | Realtek Semiconductor         | 3         | 5.77%   |
 | Quanta                        | 3         | 5.77%   |
 | IMC Networks                  | 3         | 5.77%   |
+| Acer                          | 3         | 5.77%   |
 | Silicon Motion                | 2         | 3.85%   |
 | Huawei Technologies           | 2         | 3.85%   |
-| Bison Electronics             | 2         | 3.85%   |
 | Apple                         | 2         | 3.85%   |
-| Acer                          | 2         | 3.85%   |
 | Z-Star Microelectronics       | 1         | 1.92%   |
 | Syntek                        | 1         | 1.92%   |
 | Logitech                      | 1         | 1.92%   |
 | Jieli Technology              | 1         | 1.92%   |
 | Importek                      | 1         | 1.92%   |
 | Cubeternet                    | 1         | 1.92%   |
+| Bison Electronics             | 1         | 1.92%   |
 
 Camera Model
 ------------
@@ -2678,48 +2678,48 @@ Camera device models
 ![Camera Model](./All/images/pie_chart/camera_model.svg)
 
 
-| Model                                                                 | Computers | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| Sunplus Integrated_Webcam_HD                                          | 2         | 3.85%   |
-| Microdia Integrated_Webcam_HD                                         | 2         | 3.85%   |
-| Microdia Integrated Webcam                                            | 2         | 3.85%   |
-| Huawei UVC Camera                                                     | 2         | 3.85%   |
-| Chicony Integrated Camera                                             | 2         | 3.85%   |
-| Chicony HP Webcam                                                     | 2         | 3.85%   |
-| Z-Star A4 TECH USB2.0 PC Camera E                                     | 1         | 1.92%   |
-| Syntek Lenovo EasyCamera                                              | 1         | 1.92%   |
-| Suyin WebCam                                                          | 1         | 1.92%   |
-| Suyin HP Truevision HD                                                | 1         | 1.92%   |
-| Suyin Asus Integrated Webcam                                          | 1         | 1.92%   |
-| Suyin 1.3M HD WebCam                                                  | 1         | 1.92%   |
-| Sunplus Laptop_Integrated_Webcam_HD                                   | 1         | 1.92%   |
-| Sunplus HD WebCam                                                     | 1         | 1.92%   |
-| Silicon Motion WebCam SC-13HDL11939N                                  | 1         | 1.92%   |
-| Silicon Motion HP Webcam-101 Integrated Camera                        | 1         | 1.92%   |
-| Realtek USB2.0 VGA UVC WebCam                                         | 1         | 1.92%   |
-| Realtek Laptop Camera                                                 | 1         | 1.92%   |
-| Realtek HP Truevision HD                                              | 1         | 1.92%   |
-| Quanta Laptop_Integrated_Webcam_2HDM                                  | 1         | 1.92%   |
-| Quanta HP TrueVision HD Camera                                        | 1         | 1.92%   |
-| Quanta HD Webcam                                                      | 1         | 1.92%   |
-| Microdia Sonix USB 2.0 Camera                                         | 1         | 1.92%   |
-| Microdia Sonix 1.3 MP Laptop Integrated Webcam                        | 1         | 1.92%   |
-| Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 1.92%   |
-| Logitech HD Pro Webcam C920                                           | 1         | 1.92%   |
-| Jieli USB PHY 2.0                                                     | 1         | 1.92%   |
-| Importek HP Truevision HD Integrated Webcam                           | 1         | 1.92%   |
-| IMC Networks USB2.0 VGA UVC WebCam                                    | 1         | 1.92%   |
-| IMC Networks USB2.0 UVC HD Webcam                                     | 1         | 1.92%   |
-| IMC Networks USB2.0 HD UVC WebCam                                     | 1         | 1.92%   |
-| Cubeternet HDMI to U3 capture                                         | 1         | 1.92%   |
-| Chicony USB 2.0 Camera                                                | 1         | 1.92%   |
-| Chicony TOSHIBA Web Camera - HD                                       | 1         | 1.92%   |
-| Chicony Lenovo EasyCamera                                             | 1         | 1.92%   |
-| Chicony HP Wide Vision HD Camera                                      | 1         | 1.92%   |
-| Chicony HP Webcam [2 MP Macro]                                        | 1         | 1.92%   |
-| Chicony HP HD Camera                                                  | 1         | 1.92%   |
-| Chicony HD WebCam                                                     | 1         | 1.92%   |
-| Chicony EasyCamera                                                    | 1         | 1.92%   |
+| Model                                          | Computers | Percent |
+|------------------------------------------------|-----------|---------|
+| Sunplus Integrated_Webcam_HD                   | 2         | 3.85%   |
+| Microdia Integrated_Webcam_HD                  | 2         | 3.85%   |
+| Microdia Integrated Webcam                     | 2         | 3.85%   |
+| Huawei UVC Camera                              | 2         | 3.85%   |
+| Chicony Integrated Camera                      | 2         | 3.85%   |
+| Chicony HP Webcam                              | 2         | 3.85%   |
+| Z-Star A4 TECH USB2.0 PC Camera E              | 1         | 1.92%   |
+| Syntek Lenovo EasyCamera                       | 1         | 1.92%   |
+| Suyin WebCam                                   | 1         | 1.92%   |
+| Suyin HP Truevision HD                         | 1         | 1.92%   |
+| Suyin Asus Integrated Webcam                   | 1         | 1.92%   |
+| Suyin 1.3M HD WebCam                           | 1         | 1.92%   |
+| Sunplus Laptop_Integrated_Webcam_HD            | 1         | 1.92%   |
+| Sunplus HD WebCam                              | 1         | 1.92%   |
+| Silicon Motion WebCam SC-13HDL11939N           | 1         | 1.92%   |
+| Silicon Motion HP Webcam-101 Integrated Camera | 1         | 1.92%   |
+| Realtek USB2.0 VGA UVC WebCam                  | 1         | 1.92%   |
+| Realtek Laptop Camera                          | 1         | 1.92%   |
+| Realtek HP Truevision HD                       | 1         | 1.92%   |
+| Quanta Laptop_Integrated_Webcam_2HDM           | 1         | 1.92%   |
+| Quanta HP TrueVision HD Camera                 | 1         | 1.92%   |
+| Quanta HD Webcam                               | 1         | 1.92%   |
+| Microdia Sonix USB 2.0 Camera                  | 1         | 1.92%   |
+| Microdia Sonix 1.3 MP Laptop Integrated Webcam | 1         | 1.92%   |
+| Microdia Laptop_Integrated_Webcam_0.3M         | 1         | 1.92%   |
+| Logitech HD Pro Webcam C920                    | 1         | 1.92%   |
+| Jieli USB PHY 2.0                              | 1         | 1.92%   |
+| Importek HP Truevision HD Integrated Webcam    | 1         | 1.92%   |
+| IMC Networks USB2.0 VGA UVC WebCam             | 1         | 1.92%   |
+| IMC Networks USB2.0 UVC HD Webcam              | 1         | 1.92%   |
+| IMC Networks USB2.0 HD UVC WebCam              | 1         | 1.92%   |
+| Cubeternet HDMI to U3 capture                  | 1         | 1.92%   |
+| Chicony USB 2.0 Camera                         | 1         | 1.92%   |
+| Chicony TOSHIBA Web Camera - HD                | 1         | 1.92%   |
+| Chicony Lenovo EasyCamera                      | 1         | 1.92%   |
+| Chicony HP Wide Vision HD Camera               | 1         | 1.92%   |
+| Chicony HP Webcam [2 MP Macro]                 | 1         | 1.92%   |
+| Chicony HP HD Camera                           | 1         | 1.92%   |
+| Chicony HD WebCam                              | 1         | 1.92%   |
+| Chicony EasyCamera                             | 1         | 1.92%   |
 
 Security
 --------
@@ -2795,8 +2795,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 72        | 75.79%  |
-| 1     | 21        | 22.11%  |
-| 2     | 2         | 2.11%   |
+| 1     | 20        | 21.05%  |
+| 2     | 3         | 3.16%   |
 
 Unsupported Device Types
 ------------------------
@@ -2808,10 +2808,10 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Graphics card      | 8         | 36.36%  |
-| Fingerprint reader | 6         | 27.27%  |
-| Chipcard           | 3         | 13.64%  |
-| Net/wireless       | 2         | 9.09%   |
-| Bluetooth          | 2         | 9.09%   |
-| Net/ethernet       | 1         | 4.55%   |
+| Graphics card      | 9         | 39.13%  |
+| Fingerprint reader | 6         | 26.09%  |
+| Chipcard           | 3         | 13.04%  |
+| Net/wireless       | 2         | 8.7%    |
+| Bluetooth          | 2         | 8.7%    |
+| Net/ethernet       | 1         | 4.35%   |
 

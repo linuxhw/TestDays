@@ -847,48 +847,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                              | Notebooks | Percent |
-|----------------------------------------------------|-----------|---------|
-| HGST HTS545050A7E680 500GB                         | 2         | 3.85%   |
-| WDC WDS120G2G0B-00EPW0 120GB SSD                   | 1         | 1.92%   |
-| WDC WD5000LPVX-55V0TT0 500GB                       | 1         | 1.92%   |
-| WDC WD5000LPCX-60VHAT0 500GB                       | 1         | 1.92%   |
-| WDC WD5000LPCX-21VHAT0 500GB                       | 1         | 1.92%   |
-| WDC WD3200BPVT-35JJ5T0 320GB                       | 1         | 1.92%   |
-| WDC WD2500BEVS-00UST0 250GB                        | 1         | 1.92%   |
-| WDC WD10JPVX-60JC3T0 1TB                           | 1         | 1.92%   |
-| WDC WD10JPCX-24UE4T0 1TB                           | 1         | 1.92%   |
-| Toshiba MQ01ABD075 752GB                           | 1         | 1.92%   |
-| Toshiba MK6475GSX 640GB                            | 1         | 1.92%   |
-| SPCC Solid State Disk 512GB                        | 1         | 1.92%   |
-| SK hynix SC311 SATA 256GB SSD                      | 1         | 1.92%   |
-| SK hynix BC511 HFM256GDJTNI-82A0A 256GB            | 1         | 1.92%   |
-| Silicon Motion Longline SSD 512GB                  | 1         | 1.92%   |
-| Seagate ST9500325AS 500GB                          | 1         | 1.92%   |
-| Seagate ST9120822AS 120GB                          | 1         | 1.92%   |
-| Seagate ST750LM022 HN-M750MBB 752GB                | 1         | 1.92%   |
-| Seagate ST500LM000-1EJ162 500GB                    | 1         | 1.92%   |
-| Seagate ST1000LM035-1RK172 1TB                     | 1         | 1.92%   |
-| Seagate ST1000LM024 HN-M101MBB 1TB                 | 1         | 1.92%   |
-| Seagate Expansion 1TB                              | 1         | 1.92%   |
-| Seagate BarraCuda Q1 SSD ZA480CV10001 480GB        | 1         | 1.92%   |
-| SanDisk SSD U110 16GB                              | 1         | 1.92%   |
-| SanDisk SSD PLUS 240GB                             | 1         | 1.92%   |
-| SanDisk SSD PLUS 120GB                             | 1         | 1.92%   |
-| SanDisk SDSSDA480G 480GB                           | 1         | 1.92%   |
-| Samsung SSD 860 EVO 500GB                          | 1         | 1.92%   |
-| Samsung SSD 850 PRO 256GB                          | 1         | 1.92%   |
-| Samsung MZMTD256HAGM-000L1 256GB SSD               | 1         | 1.92%   |
-| Samsung MZALQ256HAJD-000L1 256GB                   | 1         | 1.92%   |
-| Samsung MZ7LN128HAHQ-000L2 128GB SSD               | 1         | 1.92%   |
-| Samsung MZ7LF192HCGS-000L1 192GB SSD               | 1         | 1.92%   |
-| Samsung HM250HI 250GB                              | 1         | 1.92%   |
-| Phison 311CD0512GB                                 | 1         | 1.92%   |
-| Micron/Crucial P2 NVMe PCIe SSD 500GB              | 1         | 1.92%   |
-| Micron 1300_MTFDDAK512TDL 512GB SSD                | 1         | 1.92%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 250GB | 1         | 1.92%   |
-| LITEON LCH-256V2S-HP 256GB SSD                     | 1         | 1.92%   |
-| Lexar 120GB SSD                                    | 1         | 1.92%   |
+| Model                                               | Notebooks | Percent |
+|-----------------------------------------------------|-----------|---------|
+| HGST HTS545050A7E680 500GB                          | 2         | 3.85%   |
+| WDC WDS120G2G0B-00EPW0 120GB SSD                    | 1         | 1.92%   |
+| WDC WD5000LPVX-55V0TT0 500GB                        | 1         | 1.92%   |
+| WDC WD5000LPCX-60VHAT0 500GB                        | 1         | 1.92%   |
+| WDC WD5000LPCX-21VHAT0 500GB                        | 1         | 1.92%   |
+| WDC WD3200BPVT-35JJ5T0 320GB                        | 1         | 1.92%   |
+| WDC WD2500BEVS-00UST0 250GB                         | 1         | 1.92%   |
+| WDC WD10JPVX-60JC3T0 1TB                            | 1         | 1.92%   |
+| WDC WD10JPCX-24UE4T0 1TB                            | 1         | 1.92%   |
+| Toshiba MQ01ABD075 752GB                            | 1         | 1.92%   |
+| Toshiba MK6475GSX 640GB                             | 1         | 1.92%   |
+| SPCC Solid State Disk 512GB                         | 1         | 1.92%   |
+| SK hynix SC311 SATA 256GB SSD                       | 1         | 1.92%   |
+| SK hynix BC511 HFM256GDJTNI-82A0A 256GB             | 1         | 1.92%   |
+| Silicon Motion Longline SSD 512GB                   | 1         | 1.92%   |
+| Seagate ST9500325AS 500GB                           | 1         | 1.92%   |
+| Seagate ST9120822AS 120GB                           | 1         | 1.92%   |
+| Seagate ST750LM022 HN-M750MBB 752GB                 | 1         | 1.92%   |
+| Seagate ST500LM000-1EJ162 500GB                     | 1         | 1.92%   |
+| Seagate ST1000LM035-1RK172 1TB                      | 1         | 1.92%   |
+| Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 1.92%   |
+| Seagate Expansion 1TB                               | 1         | 1.92%   |
+| Seagate BarraCuda Q1 SSD ZA480CV10001 480GB         | 1         | 1.92%   |
+| SanDisk SSD U110 16GB                               | 1         | 1.92%   |
+| SanDisk SSD PLUS 240GB                              | 1         | 1.92%   |
+| SanDisk SSD PLUS 120GB                              | 1         | 1.92%   |
+| SanDisk SDSSDA480G 480GB                            | 1         | 1.92%   |
+| Samsung SSD 860 EVO 500GB                           | 1         | 1.92%   |
+| Samsung SSD 850 PRO 256GB                           | 1         | 1.92%   |
+| Samsung MZMTD256HAGM-000L1 256GB SSD                | 1         | 1.92%   |
+| Samsung MZALQ256HAJD-000L1 256GB                    | 1         | 1.92%   |
+| Samsung MZ7LN128HAHQ-000L2 128GB SSD                | 1         | 1.92%   |
+| Samsung MZ7LF192HCGS-000L1 192GB SSD                | 1         | 1.92%   |
+| Samsung HM250HI 250GB                               | 1         | 1.92%   |
+| Phison 311CD0512GB                                  | 1         | 1.92%   |
+| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 1         | 1.92%   |
+| Micron 1300_MTFDDAK512TDL 512GB SSD                 | 1         | 1.92%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 1024GB | 1         | 1.92%   |
+| LITEON LCH-256V2S-HP 256GB SSD                      | 1         | 1.92%   |
+| Lexar 120GB SSD                                     | 1         | 1.92%   |
 
 HDD Vendor
 ----------
@@ -1510,7 +1510,7 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch     | 1         | 2.44%   |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch     | 1         | 2.44%   |
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch     | 1         | 2.44%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 344x194mm 15.5-inch     | 1         | 2.44%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.44%   |
@@ -1525,7 +1525,7 @@ Monitor models
 | LG Display LCD Monitor LGD0414 1920x1080 276x156mm 12.5-inch             | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0395 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0384 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
-| LG Display LCD Monitor LGD033F 1366x768 310x174mm 14.0-inch              | 1         | 2.44%   |
+| LG Display LCD Monitor LGD033F 1366x768 309x174mm 14.0-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch              | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0250 1366x768 345x194mm 15.6-inch              | 1         | 2.44%   |
@@ -1533,8 +1533,8 @@ Monitor models
 | Goldstar 2D HD TV GSM59CA 1366x768 509x286mm 23.0-inch                   | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN15C9 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
-| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 2.44%   |
+| Chimei Innolux LCD Monitor CMN15BC 1366x768 344x194mm 15.5-inch          | 1         | 2.44%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN14D5 1920x1080 309x173mm 13.9-inch         | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN14B1 1920x1080 308x173mm 13.9-inch         | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch          | 1         | 2.44%   |
@@ -1931,7 +1931,7 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 6         | 17.65%  |
-| Realtek Bluetooth Radio                             | 4         | 11.76%  |
+| Realtek Bluetooth Radio                             | 5         | 14.71%  |
 | Ralink RT3290 Bluetooth                             | 2         | 5.88%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 5.88%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 2         | 5.88%   |
@@ -1939,13 +1939,12 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 5.88%   |
 | Toshiba RT Bluetooth Radio                          | 1         | 2.94%   |
 | Toshiba Integrated Bluetooth HCI                    | 1         | 2.94%   |
-| Realtek RTL8821A Bluetooth                          | 1         | 2.94%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 2.94%   |
-| Realtek Bluetooth Radio                             | 1         | 2.94%   |
+| Realtek 802.11ac WLAN Adapter                       | 1         | 2.94%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.94%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.94%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 2.94%   |
-| Intel Bluetooth Device                              | 1         | 2.94%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 2.94%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 2.94%   |
 | IMC Networks Bluetooth Device                       | 1         | 2.94%   |
 | Foxconn International BCM43142A0 Bluetooth module   | 1         | 2.94%   |
@@ -2052,7 +2051,7 @@ Memory module models
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s              | 1         | 6.25%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s              | 1         | 6.25%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s              | 1         | 6.25%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s              | 1         | 6.25%   |
+| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s           | 1         | 6.25%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s              | 1         | 6.25%   |
 | Micron RAM 8KTF51264HDZ-1G6E1 4GB SODIMM DDR3 1600MT/s             | 1         | 6.25%   |
 | Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s            | 1         | 6.25%   |
@@ -2230,7 +2229,7 @@ Camera device models
 | Bison SunplusIT Integrated Camera                                        | 1         | 2.86%   |
 | Bison EasyCamera                                                         | 1         | 2.86%   |
 | ALi Gateway Webcam                                                       | 1         | 2.86%   |
-| Alcor Micro TOSHIBA Web Camera - MP                                      | 1         | 2.86%   |
+| Alcor Micro USB 2.0 Camera                                               | 1         | 2.86%   |
 | 8SSC20F27114V1SR0BK1X4S Integrated Camera                                | 1         | 2.86%   |
 
 Security

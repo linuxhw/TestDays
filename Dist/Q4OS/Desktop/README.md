@@ -1364,7 +1364,7 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch                 | 3        | 18.75%  |
+| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 3        | 18.75%  |
 | ViewSonic VX3211-4K VSCC336 3840x2160 698x393mm 31.5-inch               | 1        | 6.25%   |
 | VIE S20W VIE2080 1600x900 440x250mm 19.9-inch                           | 1        | 6.25%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch       | 1        | 6.25%   |
@@ -1372,7 +1372,7 @@ Monitor models
 | Samsung Electronics S24B20/S24B30 SAM09ED 1920x1080 521x293mm 23.5-inch | 1        | 6.25%   |
 | Orion ORION ORN120A 1920x540                                            | 1        | 6.25%   |
 | Iiyama PLB2403WS IVM5601 1920x1200 519x324mm 24.1-inch                  | 1        | 6.25%   |
-| Hewlett-Packard 2009 HWP2827 1600x900 440x250mm 19.9-inch               | 1        | 6.25%   |
+| Hewlett-Packard 2009 HWP2827 1600x900 442x249mm 20.0-inch               | 1        | 6.25%   |
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 6.25%   |
 | Dell DELL2407WFPHC DELA025 1920x1200 520x330mm 24.2-inch                | 1        | 6.25%   |
 | Dell 1704FPV DEL3015 1280x1024 338x270mm 17.0-inch                      | 1        | 6.25%   |
@@ -1806,7 +1806,7 @@ Memory module models
 | Transcend RAM Module 1GB DIMM SDRAM 266MT/s              | 1        | 5%      |
 | Teikon RAM TMT41GU6AFR8C-PBHJ 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s       | 1        | 5%      |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s     | 1        | 5%      |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM 1600MT/s          | 1        | 5%      |
 | SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s   | 1        | 5%      |
 | S RAM Module 2GB DIMM DDR3 1333MT/s                      | 1        | 5%      |
 | M RAM Module 1GB DIMM DDR3 1333MT/s                      | 1        | 5%      |

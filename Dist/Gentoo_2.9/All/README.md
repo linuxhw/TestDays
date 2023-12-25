@@ -1036,8 +1036,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 132       | 81.99%  |
-| Yes       | 29        | 18.01%  |
+| No        | 129       | 80.12%  |
+| Yes       | 32        | 19.88%  |
 
 Has Ethernet
 ------------
@@ -1247,21 +1247,21 @@ Hard drive models
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB     | 30        | 9.09%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 15        | 4.55%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB   | 30        | 9.09%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB    | 15        | 4.55%   |
 | Seagate ST2000DM008-2FR102 2TB                        | 6         | 1.82%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB                    | 4         | 1.21%   |
+| Sandisk WD Blue SN550 NVMe SSD 512GB                  | 4         | 1.21%   |
 | Samsung SSD 860 EVO 500GB                             | 4         | 1.21%   |
 | Samsung SSD 860 EVO 1TB                               | 4         | 1.21%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 121GB   | 4         | 1.21%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 256GB   | 4         | 1.21%   |
 | Phison E16 PCIe4 NVMe Controller 500GB                | 4         | 1.21%   |
-| Intel SSD 660P Series 1024GB                          | 4         | 1.21%   |
+| Intel SSD 660P Series 512GB                           | 4         | 1.21%   |
 | WDC WD30EFRX-68EUZN0 3TB                              | 3         | 0.91%   |
 | WDC WD10EZEX-08WN4A0 1TB                              | 3         | 0.91%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 3         | 0.91%   |
 | Seagate ST1000DM010-2EP102 1TB                        | 3         | 0.91%   |
 | Samsung SSD 980 1TB                                   | 3         | 0.91%   |
-| Phison PS5013 E13 NVMe Controller 256GB               | 3         | 0.91%   |
+| Phison PS5013 E13 NVMe Controller 512GB               | 3         | 0.91%   |
 | China SSD 1TB                                         | 3         | 0.91%   |
 | WDC WDS200T2B0B-00YS70 2TB SSD                        | 2         | 0.61%   |
 | WDC WD6003FZBX-00K5WB0 6TB                            | 2         | 0.61%   |
@@ -1271,7 +1271,7 @@ Hard drive models
 | Unknown MMC Card  32GB                                | 2         | 0.61%   |
 | SK hynix BC501 NVMe Solid State Drive 512GB           | 2         | 0.61%   |
 | Seagate ST1000LM049-2GH172 1TB                        | 2         | 0.61%   |
-| Sandisk WD Black SN850 1TB                            | 2         | 0.61%   |
+| Sandisk WD Black SN850 1024GB                         | 2         | 0.61%   |
 | SanDisk SSD PLUS 240GB                                | 2         | 0.61%   |
 | SanDisk Extreme 55AE 1TB SSD                          | 2         | 0.61%   |
 | Samsung SSD 980 500GB                                 | 2         | 0.61%   |
@@ -1279,8 +1279,8 @@ Hard drive models
 | Samsung SSD 860 PRO 1TB                               | 2         | 0.61%   |
 | Samsung SSD 860 EVO 250GB                             | 2         | 0.61%   |
 | Samsung SSD 850 EVO 500GB                             | 2         | 0.61%   |
-| Phison E12 NVMe Controller 1TB                        | 2         | 0.61%   |
-| Micron/Crucial P2 NVMe PCIe SSD 500GB                 | 2         | 0.61%   |
+| Phison E12 NVMe Controller 512GB                      | 2         | 0.61%   |
+| Micron/Crucial P2 NVMe PCIe SSD 1TB                   | 2         | 0.61%   |
 | Kingston SA400S37240G 240GB SSD                       | 2         | 0.61%   |
 | HGST HTS721010A9E630 1TB                              | 2         | 0.61%   |
 | GOODRAM SSDPR-CL100-480-G2 480GB                      | 2         | 0.61%   |
@@ -1442,33 +1442,33 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                                                          | Computers | Drives | Percent |
-|----------------------------------------------------------------|-----------|--------|---------|
-| WDC WD6400AAKS-65A7B0 640GB                                    | 1         | 1      | 4%      |
-| WDC WD60EFAX-68SHWN0 6TB                                       | 1         | 3      | 4%      |
-| WDC WD5000BEVT-22ZAT0 500GB                                    | 1         | 1      | 4%      |
-| WDC WD5000AAKX-753CA1 500GB                                    | 1         | 1      | 4%      |
-| WDC WD30EFRX-68EUZN0 3TB                                       | 1         | 1      | 4%      |
-| WDC WD30EFRX-68AX9N0 3TB                                       | 1         | 3      | 4%      |
-| WDC WD20EFRX-68EUZN0 2TB                                       | 1         | 2      | 4%      |
-| WDC WD10JPVX-75JC3T0 1TB                                       | 1         | 1      | 4%      |
-| WDC WD10EFRX-68PJCN0 1TB                                       | 1         | 1      | 4%      |
-| WDC WD10EADS-22M2B0 1TB                                        | 1         | 1      | 4%      |
-| WDC WD1001FALS-00J7B1 1TB                                      | 1         | 1      | 4%      |
-| Toshiba MQ02ABD100H 1TB                                        | 1         | 1      | 4%      |
-| SK hynix BC501 NVMe Solid State Drive 512GB                    | 1         | 2      | 4%      |
-| Samsung Electronics SSD 980 1TB                                | 1         | 1      | 4%      |
-| Samsung Electronics SP2504C 250GB                              | 1         | 1      | 4%      |
-| Samsung Electronics PM9A1 NVMe 2048GB                          | 1         | 1      | 4%      |
-| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 1TB  | 1         | 2      | 4%      |
-| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB | 1         | 2      | 4%      |
-| Realtek Semiconductor RTS5763DL NVMe SSD Controller 1TB        | 1         | 1      | 4%      |
-| Realtek Semiconductor ADATA SX6000PNP 256GB                    | 1         | 4      | 4%      |
-| OCZ VERTEX4 256GB SSD                                          | 1         | 1      | 4%      |
-| Kingston Technology Company KC2000 NVMe SSD 1TB                | 1         | 1      | 4%      |
-| IBM/Hitachi IC25N040ATMR04-0 40GB                              | 1         | 1      | 4%      |
-| Hitachi HTS725050A9A364 500GB                                  | 1         | 1      | 4%      |
-| HGST HTS 541075A9E680 752GB                                    | 1         | 1      | 4%      |
+| Model                                                           | Computers | Drives | Percent |
+|-----------------------------------------------------------------|-----------|--------|---------|
+| WDC WD6400AAKS-65A7B0 640GB                                     | 1         | 1      | 4%      |
+| WDC WD60EFAX-68SHWN0 6TB                                        | 1         | 3      | 4%      |
+| WDC WD5000BEVT-22ZAT0 500GB                                     | 1         | 1      | 4%      |
+| WDC WD5000AAKX-753CA1 500GB                                     | 1         | 1      | 4%      |
+| WDC WD30EFRX-68EUZN0 3TB                                        | 1         | 1      | 4%      |
+| WDC WD30EFRX-68AX9N0 3TB                                        | 1         | 3      | 4%      |
+| WDC WD20EFRX-68EUZN0 2TB                                        | 1         | 2      | 4%      |
+| WDC WD10JPVX-75JC3T0 1TB                                        | 1         | 1      | 4%      |
+| WDC WD10EFRX-68PJCN0 1TB                                        | 1         | 1      | 4%      |
+| WDC WD10EADS-22M2B0 1TB                                         | 1         | 1      | 4%      |
+| WDC WD1001FALS-00J7B1 1TB                                       | 1         | 1      | 4%      |
+| Toshiba MQ02ABD100H 1TB                                         | 1         | 1      | 4%      |
+| SK hynix BC501 NVMe Solid State Drive 512GB                     | 1         | 2      | 4%      |
+| Samsung Electronics SSD 980 1TB                                 | 1         | 1      | 4%      |
+| Samsung Electronics SP2504C 250GB                               | 1         | 1      | 4%      |
+| Samsung Electronics PM9A1 NVMe 2048GB                           | 1         | 1      | 4%      |
+| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 2      | 4%      |
+| Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 1         | 2      | 4%      |
+| Realtek Semiconductor RTS5763DL NVMe SSD Controller 512GB       | 1         | 1      | 4%      |
+| Realtek Semiconductor ADATA SX6000PNP 1024GB                    | 1         | 4      | 4%      |
+| OCZ VERTEX4 256GB SSD                                           | 1         | 1      | 4%      |
+| Kingston Technology Company KC2000 NVMe SSD 1TB                 | 1         | 1      | 4%      |
+| IBM/Hitachi IC25N040ATMR04-0 40GB                               | 1         | 1      | 4%      |
+| Hitachi HTS725050A9A364 500GB                                   | 1         | 1      | 4%      |
+| HGST HTS 541075A9E680 752GB                                     | 1         | 1      | 4%      |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1650,11 +1650,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 113       | 45.56%  |
-| NVMe | 109       | 43.95%  |
-| RAID | 12        | 4.84%   |
-| IDE  | 12        | 4.84%   |
-| SAS  | 2         | 0.81%   |
+| SATA | 115       | 46.18%  |
+| NVMe | 109       | 43.78%  |
+| RAID | 12        | 4.82%   |
+| IDE  | 11        | 4.42%   |
+| SAS  | 2         | 0.8%    |
 
 Processor
 ---------
@@ -2110,10 +2110,10 @@ Monitor models
 | Samsung Electronics S27B350 SAM08DC 1920x1080 598x336mm 27.0-inch      | 2         | 1.1%    |
 | Philips PHL 221V8 PHLC211 1920x1080 477x268mm 21.5-inch                | 2         | 1.1%    |
 | Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch           | 2         | 1.1%    |
-| Hewlett-Packard 22er HWP331B 1920x1080 476x268mm 21.5-inch             | 2         | 1.1%    |
+| Hewlett-Packard 22es HWP331B 1920x1080 476x268mm 21.5-inch             | 2         | 1.1%    |
 | Goldstar ULTRAWIDE GSM59F2 2560x1080 677x290mm 29.0-inch               | 2         | 1.1%    |
-| AU Optronics LCD Monitor AUO80ED 1920x1080 344x194mm 15.5-inch         | 2         | 1.1%    |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch         | 2         | 1.1%    |
+| AU Optronics LCD Monitor AUO80ED 1920x1080 344x193mm 15.5-inch         | 2         | 1.1%    |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch         | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO243D 1920x1080 309x173mm 13.9-inch         | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO109D 1920x1080 381x214mm 17.2-inch         | 2         | 1.1%    |
 | ASUSTek Computer VG278 AUS27AF 1920x1080 598x336mm 27.0-inch           | 2         | 1.1%    |
@@ -2138,8 +2138,8 @@ Monitor models
 | Samsung Electronics LCD Monitor SyncMaster                             | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor SDC4163 3456x2160 288x180mm 13.4-inch  | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor SDC4159 1920x1080 344x194mm 15.5-inch  | 1         | 0.55%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch  | 1         | 0.55%   |
-| Samsung Electronics LCD Monitor SAM07D0 1360x768 580x320mm 26.1-inch   | 1         | 0.55%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch  | 1         | 0.55%   |
+| Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch   | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor LC34G55T 3440x2880                     | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor LC34G55T                               | 1         | 0.55%   |
 | Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 1         | 0.55%   |
@@ -2209,8 +2209,8 @@ Diagonal size in inches
 | 13      | 10        | 5.92%   |
 | Unknown | 8         | 4.73%   |
 | 34      | 7         | 4.14%   |
-| 31      | 5         | 2.96%   |
 | 22      | 5         | 2.96%   |
+| 31      | 4         | 2.37%   |
 | 16      | 3         | 1.78%   |
 | 142     | 2         | 1.18%   |
 | 18      | 2         | 1.18%   |
@@ -2218,6 +2218,7 @@ Diagonal size in inches
 | 72      | 1         | 0.59%   |
 | 54      | 1         | 0.59%   |
 | 48      | 1         | 0.59%   |
+| 42      | 1         | 0.59%   |
 | 40      | 1         | 0.59%   |
 | 28      | 1         | 0.59%   |
 | 20      | 1         | 0.59%   |
@@ -2240,13 +2241,14 @@ Physical width
 | 401-500        | 21        | 12.96%  |
 | 201-300        | 13        | 8.02%   |
 | 351-400        | 10        | 6.17%   |
-| 601-700        | 8         | 4.94%   |
 | Unknown        | 8         | 4.94%   |
 | 701-800        | 7         | 4.32%   |
+| 601-700        | 7         | 4.32%   |
 | More than 2000 | 2         | 1.23%   |
 | 1001-1500      | 2         | 1.23%   |
 | 801-900        | 1         | 0.62%   |
 | 1501-2000      | 1         | 0.62%   |
+| 901-1000       | 1         | 0.62%   |
 
 Aspect Ratio
 ------------
@@ -2283,7 +2285,7 @@ Area in inch²
 | 301-350        | 28        | 16.97%  |
 | 201-250        | 28        | 16.97%  |
 | 81-90          | 18        | 10.91%  |
-| 351-500        | 11        | 6.67%   |
+| 351-500        | 10        | 6.06%   |
 | 121-130        | 9         | 5.45%   |
 | Unknown        | 8         | 4.85%   |
 | 71-80          | 6         | 3.64%   |
@@ -2292,8 +2294,8 @@ Area in inch²
 | 251-300        | 4         | 2.42%   |
 | 111-120        | 4         | 2.42%   |
 | 141-150        | 3         | 1.82%   |
+| 501-1000       | 3         | 1.82%   |
 | 61-70          | 2         | 1.21%   |
-| 501-1000       | 2         | 1.21%   |
 | 51-60          | 1         | 0.61%   |
 | 41-50          | 1         | 0.61%   |
 | 131-140        | 1         | 0.61%   |
@@ -2308,9 +2310,9 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 121-160       | 49        | 30.43%  |
+| 121-160       | 48        | 29.81%  |
 | 51-100        | 47        | 29.19%  |
-| 101-120       | 32        | 19.88%  |
+| 101-120       | 33        | 20.5%   |
 | 161-240       | 14        | 8.7%    |
 | Unknown       | 8         | 4.97%   |
 | More than 240 | 6         | 3.73%   |
@@ -2661,24 +2663,26 @@ Controller models
 | Intel AX200 Bluetooth                                                | 14        | 12.84%  |
 | Intel AX201 Bluetooth                                                | 12        | 11.01%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 11        | 10.09%  |
-| Realtek Bluetooth Radio                                              | 7         | 6.42%   |
+| Realtek Bluetooth Radio                                              | 6         | 5.5%    |
 | Intel Bluetooth Device                                               | 6         | 5.5%    |
 | Intel Wireless-AC 9260 Bluetooth Adapter                             | 4         | 3.67%   |
 | Intel AX210 Bluetooth                                                | 4         | 3.67%   |
 | Intel Centrino Bluetooth Wireless Transceiver                        | 3         | 2.75%   |
 | IMC Networks Wireless_Device                                         | 3         | 2.75%   |
 | IMC Networks Bluetooth Radio                                         | 3         | 2.75%   |
-| Foxconn / Hon Hai Wireless_Device                                    | 3         | 2.75%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                  | 3         | 2.75%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                                    | 3         | 2.75%   |
 | Apple Bluetooth Host Controller                                      | 3         | 2.75%   |
 | MediaTek Wireless_Device                                             | 2         | 1.83%   |
+| Foxconn / Hon Hai MediaTek Bluetooth Adapter                         | 2         | 1.83%   |
 | USI Bluetooth Device                                                 | 1         | 0.92%   |
-| Realtek Bluetooth Radio                                              | 1         | 0.92%   |
+| Realtek 802.11ac WLAN Adapter                                        | 1         | 0.92%   |
+| Realtek 802.11ac WLAN Adapter                                        | 1         | 0.92%   |
 | Lite-On Wireless_Device                                              | 1         | 0.92%   |
 | Intel Wireless-AC 3168 Bluetooth                                     | 1         | 0.92%   |
 | IMC Networks Bluetooth module                                        | 1         | 0.92%   |
 | HTC (High Tech Computer) Vive Hub Bluetooth 4.1 (Broadcom BCM920703) | 1         | 0.92%   |
+| Foxconn / Hon Hai Wireless_Device                                    | 1         | 0.92%   |
 | Dell Wireless 365 Bluetooth                                          | 1         | 0.92%   |
 | Broadcom HP Portable SoftSailing                                     | 1         | 0.92%   |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter                | 1         | 0.92%   |
@@ -2781,7 +2785,7 @@ Sound card models
 | Nvidia GP107GL High Definition Audio Controller                            | 2         | 0.67%   |
 | Nvidia GM204 High Definition Audio Controller                              | 2         | 0.67%   |
 | Logitech H390 headset with microphone                                      | 2         | 0.67%   |
-| JMTek USB PnP Audio Device                                                 | 2         | 0.67%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 2         | 0.67%   |
 
 Memory
 ------
@@ -2850,7 +2854,7 @@ Memory module models
 | Transcend RAM Module 4GB SODIMM DDR3 1333MT/s                    | 1         | 0.57%   |
 | Timetec RAM SD4-3200 16GB SODIMM DDR4 3200MT/s                   | 1         | 0.57%   |
 | Timetec RAM SD4-2400 8GB SODIMM DDR4 2400MT/s                    | 1         | 0.57%   |
-| Team RAM TEAMGROUP-UD4-3200 8192MB DIMM DDR4 3733MT/s            | 1         | 0.57%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s               | 1         | 0.57%   |
 | Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s            | 1         | 0.57%   |
 | SK hynix RAM Module 4GB Row Of Chips LPDDR4 3733MT/s             | 1         | 0.57%   |
 | SK hynix RAM Module 2GB Row Of Chips LPDDR4 4267MT/s             | 1         | 0.57%   |
@@ -2937,7 +2941,7 @@ Memory module speed
 | 3200    | 40        | 24.54%  |
 | 2667    | 25        | 15.34%  |
 | 1600    | 12        | 7.36%   |
-| 3600    | 11        | 6.75%   |
+| 3600    | 10        | 6.13%   |
 | 2133    | 9         | 5.52%   |
 | 2400    | 8         | 4.91%   |
 | 6400    | 7         | 4.29%   |
@@ -2945,8 +2949,8 @@ Memory module speed
 | 4800    | 4         | 2.45%   |
 | 3800    | 4         | 2.45%   |
 | 667     | 4         | 2.45%   |
+| 3733    | 3         | 1.84%   |
 | 8400    | 2         | 1.23%   |
-| 3733    | 2         | 1.23%   |
 | 3400    | 2         | 1.23%   |
 | 3266    | 2         | 1.23%   |
 | 3000    | 2         | 1.23%   |
@@ -3032,14 +3036,13 @@ Camera device vendors
 | Chicony Electronics                    | 12        | 13.48%  |
 | Sunplus Innovation Technology          | 5         | 5.62%   |
 | Realtek Semiconductor                  | 5         | 5.62%   |
+| Bison Electronics                      | 5         | 5.62%   |
 | Quanta                                 | 4         | 4.49%   |
 | Apple                                  | 4         | 4.49%   |
 | Luxvisions Innotech Limited            | 3         | 3.37%   |
 | Lite-On Technology                     | 3         | 3.37%   |
-| Bison Electronics                      | 3         | 3.37%   |
 | Syntek                                 | 2         | 2.25%   |
 | Generalplus Technology                 | 2         | 2.25%   |
-| Acer                                   | 2         | 2.25%   |
 | WaveRider Communications               | 1         | 1.12%   |
 | Samsung Electronics                    | 1         | 1.12%   |
 | Elgato Systems                         | 1         | 1.12%   |
@@ -3059,11 +3062,11 @@ Camera device models
 | IMC Networks Integrated Camera                       | 5         | 5.62%   |
 | IMC Networks USB2.0 HD UVC WebCam                    | 4         | 4.49%   |
 | Chicony Integrated Camera                            | 4         | 4.49%   |
-| Microdia USB 2.0 Camera                              | 3         | 3.37%   |
 | Logitech HD Pro Webcam C920                          | 3         | 3.37%   |
 | Logitech BRIO Ultra HD Webcam                        | 3         | 3.37%   |
 | Syntek Integrated Camera                             | 2         | 2.25%   |
 | Realtek Integrated_Webcam_HD                         | 2         | 2.25%   |
+| Microdia USB Camera                                  | 2         | 2.25%   |
 | Microdia Integrated_Webcam_FHD                       | 2         | 2.25%   |
 | Logitech Webcam C270                                 | 2         | 2.25%   |
 | Logitech C920 PRO HD Webcam                          | 2         | 2.25%   |
@@ -3084,6 +3087,7 @@ Camera device models
 | Quanta HD User Facing                                | 1         | 1.12%   |
 | Quanta HD Camera                                     | 1         | 1.12%   |
 | Quanta ACER HD User Facing                           | 1         | 1.12%   |
+| Microdia USB 2.0 Camera                              | 1         | 1.12%   |
 | Microdia Sonix 1.3 MP Laptop Integrated Webcam       | 1         | 1.12%   |
 | Microdia Laptop_Integrated_Webcam_FHD                | 1         | 1.12%   |
 | Luxvisions Innotech Limited Integrated Camera        | 1         | 1.12%   |
@@ -3094,7 +3098,6 @@ Camera device models
 | Logitech HD Webcam C510                              | 1         | 1.12%   |
 | Lite-On Integrated Camera                            | 1         | 1.12%   |
 | Lite-On HP Webcam                                    | 1         | 1.12%   |
-| Lite-On HP HD Webcam                                 | 1         | 1.12%   |
 
 Security
 --------
@@ -3182,8 +3185,8 @@ Total unsupported devices on board
 | 1     | 53        | 31.18%  |
 | 2     | 20        | 11.76%  |
 | 3     | 10        | 5.88%   |
-| 4     | 8         | 4.71%   |
-| 5     | 6         | 3.53%   |
+| 4     | 9         | 5.29%   |
+| 5     | 5         | 2.94%   |
 | 6     | 4         | 2.35%   |
 
 Unsupported Device Types

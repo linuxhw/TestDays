@@ -727,8 +727,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 31       | 55.36%  |
-| Yes       | 25       | 44.64%  |
+| No        | 30       | 53.57%  |
+| Yes       | 26       | 46.43%  |
 
 Has Ethernet
 ------------
@@ -953,7 +953,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.71%   |
-| Unknown SD/MMC/MS PRO 16GB           | 1        | 0.71%   |
+| Unknown SD/MMC/MS PRO 128GB          | 1        | 0.71%   |
 
 HDD Vendor
 ----------
@@ -1674,10 +1674,10 @@ Monitor models
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.41%   |
 | Hewlett-Packard LA2405x HWP301F 1920x1200 520x320mm 24.0-inch         | 1        | 1.41%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.41%   |
-| Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch            | 1        | 1.41%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 1.41%   |
+| Hewlett-Packard E233 HPN3460 1920x1080 510x290mm 23.1-inch            | 1        | 1.41%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.41%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.41%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch           | 1        | 1.41%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1        | 1.41%   |
 
 Monitor Resolution
 ------------------
@@ -2228,7 +2228,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2666MT/s                 | 1        | 3.13%   |
 | Samsung RAM Module 4GB DIMM DDR4 2133MT/s                 | 1        | 3.13%   |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                | 1        | 3.13%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1600MT/s            | 1        | 3.13%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s       | 1        | 3.13%   |
 | Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3266MT/s       | 1        | 3.13%   |
 | Patriot RAM PSD416G26662 16GB DIMM DDR4 2667MT/s          | 1        | 3.13%   |
 | Micron RAM Module 4GB DIMM DDR4 2133MT/s                  | 1        | 3.13%   |
@@ -2343,8 +2343,8 @@ Printer device models
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
 | HP LaserJet Professional P 1102w | 1        | 25%     |
-| Canon LiDE 300                   | 1        | 25%     |
 | Canon E560 series                | 1        | 25%     |
+| Canon CanoScan LiDE 300          | 1        | 25%     |
 | Brother DCP-1610W                | 1        | 25%     |
 
 Scanner Vendor

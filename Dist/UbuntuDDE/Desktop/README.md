@@ -1598,7 +1598,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.38%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.38%   |
-| Vestel Elektronik 42 FHD_LCD-TV VES3700 1920x540                       | 1        | 2.38%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch     | 1        | 2.38%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.38%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.38%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.38%   |
@@ -1611,16 +1611,16 @@ Monitor models
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                     | 1        | 2.38%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 2.38%   |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch                | 1        | 2.38%   |
-| Insignia BBY LCD BBY0032 1920x540                                      | 1        | 2.38%   |
+| Insignia DX-32L200NA14 BBY0032 1360x768 544x326mm 25.0-inch            | 1        | 2.38%   |
 | HPN LCD Monitor HP 24o 1920x1080                                       | 1        | 2.38%   |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 475x267mm 21.5-inch          | 1        | 2.38%   |
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.38%   |
-| Hewlett-Packard LA2306 HWP294A 1920x1080 509x286mm 23.0-inch           | 1        | 2.38%   |
+| Hewlett-Packard LA2306 HWP294A 1920x1080 510x287mm 23.0-inch           | 1        | 2.38%   |
 | Hewlett-Packard L1740 HWP2649 1280x1024 338x270mm 17.0-inch            | 1        | 2.38%   |
 | Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 2.38%   |
 | HannStar iH282 HSD20E6 1920x1200 590x370mm 27.4-inch                   | 1        | 2.38%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 2.38%   |
-| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 2.38%   |
+| Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch             | 1        | 2.38%   |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.38%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.38%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.38%   |
@@ -1631,7 +1631,7 @@ Monitor models
 | BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                      | 1        | 2.38%   |
 | BenQ EW2775ZH BNQ7944 1920x1080 598x336mm 27.0-inch                    | 1        | 2.38%   |
 | ASUSTek Computer VG249 AUS2421 1920x1080 527x296mm 23.8-inch           | 1        | 2.38%   |
-| ASUSTek Computer VC279 AUS27C4 1920x1080 600x340mm 27.2-inch           | 1        | 2.38%   |
+| ASUSTek Computer VC279 AUS27C4 1920x1080 598x336mm 27.0-inch           | 1        | 2.38%   |
 | Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch       | 1        | 2.38%   |
 | Ancor Communications LCD Monitor ASUS VS247 3840x1080                  | 1        | 2.38%   |
 | Ancor Communications LCD Monitor ASUS VS247                            | 1        | 2.38%   |
@@ -2160,7 +2160,7 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                   | 1        | 5.56%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1GB DIMM DDR2 800MT/s  | 1        | 5.56%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                        | 1        | 5.56%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 49926MT/s                     | 1        | 5.56%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR 49926MT/s                      | 1        | 5.56%   |
 | Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                | 1        | 5.56%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                               | 1        | 5.56%   |
 | Kingston RAM 9905734-018.A00G 16384MB DIMM DDR4 2667MT/s                | 1        | 5.56%   |

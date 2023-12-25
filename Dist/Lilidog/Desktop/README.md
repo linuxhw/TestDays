@@ -742,7 +742,7 @@ Hard drive models
 | Seagate ST2000DX002-2DV164 2TB       | 1        | 3.7%    |
 | Seagate ST2000DM008-2FR102 2TB       | 1        | 3.7%    |
 | Seagate Expansion 1TB                | 1        | 3.7%    |
-| Seagate BUP Slim BK 2TB              | 1        | 3.7%    |
+| Seagate BUP Slim BK 1TB              | 1        | 3.7%    |
 | SanDisk SDSA6MM-016G-1006 16GB SSD   | 1        | 3.7%    |
 | SanDisk SD7SB6S128G1122 128GB SSD    | 1        | 3.7%    |
 | Samsung MZ7TE128HMGR-000L1 128GB SSD | 1        | 3.7%    |
@@ -828,8 +828,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 14       | 18     | 63.64%  |
-| 0.51-1.0   | 5        | 6      | 22.73%  |
-| 1.01-2.0   | 3        | 4      | 13.64%  |
+| 0.51-1.0   | 6        | 7      | 27.27%  |
+| 1.01-2.0   | 2        | 3      | 9.09%   |
 
 Space Total
 -----------
@@ -1325,15 +1325,15 @@ Monitor models
 |-------------------------------------------------------------------|----------|---------|
 | Zoran HDMI TV ZRN0294 1360x768 500x281mm 22.6-inch                | 1        | 5.88%   |
 | Sony TV SNY0101 1360x768                                          | 1        | 5.88%   |
-| Sceptre Tech Sceptre E24 SPT099D 1920x1080 521x293mm 23.5-inch    | 1        | 5.88%   |
+| Sceptre Tech E24 SPT099D 1920x1080 521x293mm 23.5-inch            | 1        | 5.88%   |
 | Samsung Electronics C32R50x SAM7001 1920x1080 698x393mm 31.5-inch | 1        | 5.88%   |
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch | 1        | 5.88%   |
-| SAC DM-MONB2205 SAC952D 1920x1080 450x270mm 20.7-inch             | 1        | 5.88%   |
+| SAC LED MONITOR SAC952D 1920x1080 443x249mm 20.0-inch             | 1        | 5.88%   |
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                | 1        | 5.88%   |
 | Lenovo L24i-10 LEN65D6 1920x1080 527x296mm 23.8-inch              | 1        | 5.88%   |
 | Insignia DX-LCD32 BBYCD32 1360x768 709x399mm 32.0-inch            | 1        | 5.88%   |
 | Hewlett-Packard W2271d HWP3102 1920x1080 477x268mm 21.5-inch      | 1        | 5.88%   |
-| Goldstar LG ULTRAGEAR GSM776E 2560x1440 700x390mm 31.5-inch       | 1        | 5.88%   |
+| Goldstar ULTRAGEAR GSM776E 2560x1440 697x392mm 31.5-inch          | 1        | 5.88%   |
 | Goldstar 32ML600 GSM772D 1920x1080 480x270mm 21.7-inch            | 1        | 5.88%   |
 | eMachines E15T4W EMA05E1 1280x800 332x207mm 15.4-inch             | 1        | 5.88%   |
 | Dell P2415Q DELA0C0 3840x2160 527x296mm 23.8-inch                 | 1        | 5.88%   |
@@ -1496,7 +1496,7 @@ Controller models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 3.45%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 3.45%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 3.45%   |
-| MediaTek RMX3085                                                  | 1        | 3.45%   |
+| MediaTek P8                                                       | 1        | 3.45%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 3.45%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 3.45%   |
 | Intel Ethernet Connection (14) I219-V                             | 1        | 3.45%   |
@@ -1572,7 +1572,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 5.26%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 5.26%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 5.26%   |
-| MediaTek RMX3085                                                  | 1        | 5.26%   |
+| MediaTek P8                                                       | 1        | 5.26%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 5.26%   |
 | Intel I211 Gigabit Network Connection                             | 1        | 5.26%   |
 | Intel Ethernet Connection (14) I219-V                             | 1        | 5.26%   |
@@ -1755,13 +1755,13 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR3 1066MT/s                    | 1        | 3.7%    |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                   | 1        | 3.7%    |
 | Unknown (08C8) RAM LMKUFG68AHFHD-32A 16GB DIMM DDR4 3200MT/s | 1        | 3.7%    |
-| Team RAM TEAMGROUP-UD4-3200 8192MB DIMM DDR4 3733MT/s        | 1        | 3.7%    |
-| SK hynix RAM HMT41GS6BFR8A-PB 8192MB SODIMM DDR3 1600MT/s    | 1        | 3.7%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s           | 1        | 3.7%    |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1        | 3.7%    |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s         | 1        | 3.7%    |
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s         | 1        | 3.7%    |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1        | 3.7%    |
 | Samsung RAM M393B1K70CH0 8GB DIMM DDR3 1866MT/s              | 1        | 3.7%    |
-| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s          | 1        | 3.7%    |
+| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3                   | 1        | 3.7%    |
 | Micron RAM 16HTF12864AY-53EB1 1GB DIMM DDR 533MT/s           | 1        | 3.7%    |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                    | 1        | 3.7%    |
 | Kingston RAM Module 2GB DIMM DDR2 667MT/s                    | 1        | 3.7%    |
@@ -1977,8 +1977,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 15       | 83.33%  |
-| 1     | 3        | 16.67%  |
+| 0     | 15       | 78.95%  |
+| 1     | 4        | 21.05%  |
 
 Unsupported Device Types
 ------------------------
@@ -1990,7 +1990,7 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Multimedia controller    | 1        | 33.33%  |
-| Graphics card            | 1        | 33.33%  |
-| Communication controller | 1        | 33.33%  |
+| Graphics card            | 2        | 50%     |
+| Multimedia controller    | 1        | 25%     |
+| Communication controller | 1        | 25%     |
 

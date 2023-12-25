@@ -578,7 +578,7 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2014 | 8        | 20.51%  |
+| 2014 | 9        | 23.08%  |
 | 2018 | 7        | 17.95%  |
 | 2011 | 4        | 10.26%  |
 | 2020 | 3        | 7.69%   |
@@ -586,10 +586,10 @@ Motherboard manufacture year
 | 2021 | 2        | 5.13%   |
 | 2017 | 2        | 5.13%   |
 | 2016 | 2        | 5.13%   |
-| 2015 | 2        | 5.13%   |
-| 2013 | 2        | 5.13%   |
+| 2012 | 2        | 5.13%   |
 | 2019 | 1        | 2.56%   |
-| 2012 | 1        | 2.56%   |
+| 2015 | 1        | 2.56%   |
+| 2013 | 1        | 2.56%   |
 | 2010 | 1        | 2.56%   |
 | 2006 | 1        | 2.56%   |
 
@@ -690,8 +690,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 23       | 57.5%   |
-| Yes       | 17       | 42.5%   |
+| No        | 22       | 53.66%  |
+| Yes       | 19       | 46.34%  |
 
 Has Ethernet
 ------------
@@ -902,12 +902,12 @@ Hard drive models
 | WDC WD10EADS-00P8B0 1TB                           | 1        | 1%      |
 | WDC WD10EADS-00M2B0 1TB                           | 1        | 1%      |
 | WDC WD1003FBYX-01Y7B0 1TB                         | 1        | 1%      |
-| WDC WD My Passport 25F3 256GB                     | 1        | 1%      |
-| Unknown SD/MMC/MS PRO 16GB                        | 1        | 1%      |
+| WDC WD My Passport 25F3 512GB                     | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 128GB                       | 1        | 1%      |
 | Toshiba DT01ACA100 1TB                            | 1        | 1%      |
 | SPCC Sol id State Disk 128GB SSD                  | 1        | 1%      |
 | SK hynix HFS512GD9TNG-L2A0A 512GB                 | 1        | 1%      |
-| Silicon Motion SM2262/SM2262EN SSD Controller 2TB | 1        | 1%      |
+| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 1%      |
 
 HDD Vendor
 ----------
@@ -993,8 +993,7 @@ Size of hard drive
 | 0.01-0.5   | 28       | 55     | 48.28%  |
 | 0.51-1.0   | 16       | 22     | 27.59%  |
 | 1.01-2.0   | 8        | 9      | 13.79%  |
-| 3.01-4.0   | 4        | 5      | 6.9%    |
-| 2.01-3.0   | 1        | 2      | 1.72%   |
+| 3.01-4.0   | 5        | 7      | 8.62%   |
 | 10.01-20.0 | 1        | 1      | 1.72%   |
 
 Space Total
@@ -1546,15 +1545,15 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 6%      |
+| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 3        | 6%      |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 4%      |
 | Unknown                                                              | 2        | 4%      |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM029A 1920x1200 582x364mm 27.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
-| Samsung Electronics SyncMaster SAM01CE 1024x768 300x230mm 14.9-inch  | 1        | 2%      |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 2%      |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch | 1        | 2%      |
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1        | 2%      |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1        | 2%      |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1        | 2%      |
@@ -1563,7 +1562,7 @@ Monitor models
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 2%      |
 | Microstep LCD Monitor MSI G241                                       | 1        | 2%      |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 2%      |
-| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch           | 1        | 2%      |
+| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch           | 1        | 2%      |
 | Lenovo LEN L220xwC LEN1151 1920x1200 474x296mm 22.0-inch             | 1        | 2%      |
 | Hewlett-Packard 24yh HPN3504 1920x1080 528x297mm 23.9-inch           | 1        | 2%      |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 2%      |
@@ -1581,10 +1580,10 @@ Monitor models
 | ASUSTek Computer VG245 AUS24A3 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2%      |
-| AOC Q27P2W AOC2702 2560x1440 597x336mm 27.0-inch                     | 1        | 2%      |
-| AOC G2460 AOC2460 1920x1080 531x299mm 24.0-inch                      | 1        | 2%      |
+| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2%      |
-| AOC 2470W1M AOC2470 1920x1080 527x296mm 23.8-inch                    | 1        | 2%      |
+| AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2%      |
+| AOC 2460 AOC2460 1920x1080 531x299mm 24.0-inch                       | 1        | 2%      |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2%      |
 
 Monitor Resolution
@@ -1771,7 +1770,7 @@ Controller models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                     | 1        | 1.41%   |
 | Realtek RTL8187 Wireless Adapter                                                        | 1        | 1.41%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                                   | 1        | 1.41%   |
-| Realtek 802.11ac NIC                                                                    | 1        | 1.41%   |
+| Realtek 802.11ac WLAN Adapter                                                           | 1        | 1.41%   |
 | Ralink MT7601U Wireless Adapter                                                         | 1        | 1.41%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                               | 1        | 1.41%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                        | 1        | 1.41%   |
@@ -1787,7 +1786,7 @@ Controller models
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 1.41%   |
 | Intel PRO/100 VE Network Connection                                                     | 1        | 1.41%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 1.41%   |
-| Huawei ALP-AL00                                                                         | 1        | 1.41%   |
+| Huawei MAR-LX1M                                                                         | 1        | 1.41%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 1.41%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                            | 1        | 1.41%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 1.41%   |
@@ -1829,7 +1828,7 @@ Wireless models
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                         | 1        | 3.57%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                     | 1        | 3.57%   |
 | Realtek RTL8187 Wireless Adapter                                                        | 1        | 3.57%   |
-| Realtek 802.11ac NIC                                                                    | 1        | 3.57%   |
+| Realtek 802.11ac WLAN Adapter                                                           | 1        | 3.57%   |
 | Ralink MT7601U Wireless Adapter                                                         | 1        | 3.57%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                        | 1        | 3.57%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                                        | 1        | 3.57%   |
@@ -1884,7 +1883,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 2.33%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2.33%   |
 | Intel PRO/100 VE Network Connection                               | 1        | 2.33%   |
-| Huawei ALP-AL00                                                   | 1        | 2.33%   |
+| Huawei MAR-LX1M                                                   | 1        | 2.33%   |
 
 Net Controller Kind
 -------------------
@@ -1955,10 +1954,9 @@ Controller vendors
 | Intel                           | 8        | 42.11%  |
 | Cambridge Silicon Radio         | 4        | 21.05%  |
 | Qualcomm Atheros Communications | 2        | 10.53%  |
+| Broadcom                        | 2        | 10.53%  |
 | Realtek Semiconductor           | 1        | 5.26%   |
 | MediaTek                        | 1        | 5.26%   |
-| ISSC                            | 1        | 5.26%   |
-| Broadcom                        | 1        | 5.26%   |
 | ASUSTek Computer                | 1        | 5.26%   |
 
 Bluetooth Model
@@ -1978,9 +1976,9 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                  | 1        | 5.26%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1        | 5.26%   |
 | MediaTek Wireless_Device                            | 1        | 5.26%   |
-| ISSC Bluetooth Device                               | 1        | 5.26%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 5.26%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 5.26%   |
+| Broadcom BCM92045B3 ROM                             | 1        | 5.26%   |
 | Broadcom BCM2045 Bluetooth                          | 1        | 5.26%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 5.26%   |
 

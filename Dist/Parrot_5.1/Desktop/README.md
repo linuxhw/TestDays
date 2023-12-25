@@ -671,7 +671,7 @@ Hard drive models
 | SanDisk SD6SF1M128G1022I 128GB SSD  | 1        | 4%      |
 | Samsung SSD 860 EVO 250GB           | 1        | 4%      |
 | Samsung HD161HJ 160GB               | 1        | 4%      |
-| Phison Sabrent 256GB                | 1        | 4%      |
+| Phison Sabrent 512GB                | 1        | 4%      |
 | Micron MTFDKBA1T0TFH-1BC1AABHA 1TB  | 1        | 4%      |
 | Micron 1100_MTFDDAV256TBN 256GB SSD | 1        | 4%      |
 | Hitachi HTS545016B9A300 160GB       | 1        | 4%      |
@@ -1377,7 +1377,7 @@ Controller models
 |--------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 5        | 16.67%  |
 | Intel Ethernet Connection I217-V                                   | 2        | 6.67%   |
-| vivo V2027                                                         | 1        | 3.33%   |
+| vivo V2134                                                         | 1        | 3.33%   |
 | TP-Link Archer T4U ver.3                                           | 1        | 3.33%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)        | 1        | 3.33%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter           | 1        | 3.33%   |
@@ -1453,13 +1453,12 @@ Ethernet vendors
 
 | Vendor                   | Desktops | Percent |
 |--------------------------|----------|---------|
-| Realtek Semiconductor    | 5        | 31.25%  |
-| Intel                    | 5        | 31.25%  |
-| Qualcomm Atheros         | 2        | 12.5%   |
-| Samsung Electronics      | 1        | 6.25%   |
-| Nvidia                   | 1        | 6.25%   |
-| Marvell Technology Group | 1        | 6.25%   |
-| Lenovo                   | 1        | 6.25%   |
+| Realtek Semiconductor    | 5        | 33.33%  |
+| Intel                    | 5        | 33.33%  |
+| Qualcomm Atheros         | 2        | 13.33%  |
+| Nvidia                   | 1        | 6.67%   |
+| Marvell Technology Group | 1        | 6.67%   |
+| Lenovo                   | 1        | 6.67%   |
 
 Ethernet Model
 --------------
@@ -1471,18 +1470,17 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 29.41%  |
-| Intel Ethernet Connection I217-V                                  | 2        | 11.76%  |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 5.88%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 5.88%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 5.88%   |
-| Nvidia MCP61 Ethernet                                             | 1        | 5.88%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 5.88%   |
-| Lenovo TB-X606F                                                   | 1        | 5.88%   |
-| Intel I211 Gigabit Network Connection                             | 1        | 5.88%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1        | 5.88%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 5.88%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 5.88%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 31.25%  |
+| Intel Ethernet Connection I217-V                                  | 2        | 12.5%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 6.25%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 6.25%   |
+| Nvidia MCP61 Ethernet                                             | 1        | 6.25%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 6.25%   |
+| Lenovo TB-X606F                                                   | 1        | 6.25%   |
+| Intel I211 Gigabit Network Connection                             | 1        | 6.25%   |
+| Intel Ethernet Connection (7) I219-LM                             | 1        | 6.25%   |
+| Intel Ethernet Connection (2) I219-V                              | 1        | 6.25%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 6.25%   |
 
 Net Controller Kind
 -------------------
@@ -1494,9 +1492,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 13       | 56.52%  |
-| WiFi     | 9        | 39.13%  |
-| Unknown  | 1        | 4.35%   |
+| Ethernet | 13       | 54.17%  |
+| WiFi     | 9        | 37.5%   |
+| Modem    | 1        | 4.17%   |
+| Unknown  | 1        | 4.17%   |
 
 Used Controller
 ---------------

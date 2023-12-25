@@ -742,7 +742,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 512GB            | 1        | 2.94%   |
 | Samsung NVMe SSD Drive 1024GB           | 1        | 2.94%   |
 | PNY CS900 240GB SSD                     | 1        | 2.94%   |
-| Phison PS5013 E13 NVMe Controller 256GB | 1        | 2.94%   |
+| Phison PS5013 E13 NVMe Controller 512GB | 1        | 2.94%   |
 | Kingston SV300S37A240G 240GB SSD        | 1        | 2.94%   |
 | Kingston SV300S37A120G 120GB SSD        | 1        | 2.94%   |
 | Kingston SUV400S37120G 120GB SSD        | 1        | 2.94%   |
@@ -1281,7 +1281,7 @@ Monitor models
 | AOC 2490W1 AOC2490 1920x1080 527x296mm 23.8-inch                    | 1        | 5.26%   |
 | AOC 2260WG5 AOC2260 1920x1080 477x268mm 21.5-inch                   | 1        | 5.26%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 5.26%   |
-| Acer k222HQL ACR0512 1920x1080 477x268mm 21.5-inch                  | 1        | 5.26%   |
+| Acer K222HQL ACR0512 1920x1080 477x268mm 21.5-inch                  | 1        | 5.26%   |
 | Acer FT220HQL ACR03D2 1920x1080 476x268mm 21.5-inch                 | 1        | 5.26%   |
 
 Monitor Resolution
@@ -1439,7 +1439,7 @@ Controller models
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.33%   |
 | Ralink RT2770 Wireless Adapter                                    | 1        | 3.33%   |
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 3.33%   |
-| Motorola PCS motorola one 5G UW                                   | 1        | 3.33%   |
+| Motorola PCS moto g stylus 5G - 2023                              | 1        | 3.33%   |
 | Intel Wireless-AC 9260                                            | 1        | 3.33%   |
 | Intel Wireless 8260                                               | 1        | 3.33%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 3.33%   |
@@ -1752,10 +1752,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor        | Desktops | Percent |
-|---------------|----------|---------|
-| Logitech      | 1        | 50%     |
-| HD 2MP WEBCAM | 1        | 50%     |
+| Vendor     | Desktops | Percent |
+|------------|----------|---------|
+| Logitech   | 1        | 50%     |
+| HDR webcam | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1768,7 +1768,7 @@ Camera device models
 | Model                       | Desktops | Percent |
 |-----------------------------|----------|---------|
 | Logitech HD Pro Webcam C920 | 1        | 50%     |
-| HD 2MP WEBCAM HD 2MP WEBCAM | 1        | 50%     |
+| HDR webcam HDR webcam       | 1        | 50%     |
 
 Security
 --------

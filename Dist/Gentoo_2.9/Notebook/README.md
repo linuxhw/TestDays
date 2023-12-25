@@ -828,8 +828,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 68        | 89.47%  |
-| Yes       | 8         | 10.53%  |
+| No        | 67        | 88.16%  |
+| Yes       | 9         | 11.84%  |
 
 Has Ethernet
 ------------
@@ -977,7 +977,7 @@ Hard drive vendors
 | Vendor                      | Notebooks | Drives | Percent |
 |-----------------------------|-----------|--------|---------|
 | Samsung Electronics         | 27        | 37     | 27.27%  |
-| Sandisk                     | 10        | 12     | 10.1%   |
+| SanDisk                     | 10        | 12     | 10.1%   |
 | Intel                       | 6         | 8      | 6.06%   |
 | Toshiba                     | 5         | 6      | 5.05%   |
 | Phison Electronics          | 5         | 5      | 5.05%   |
@@ -1017,9 +1017,9 @@ Hard drive models
 
 | Model                                                 | Notebooks | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB     | 14        | 13.59%  |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 1TB    | 6         | 5.83%   |
-| Intel SSD 660P Series 1024GB                          | 3         | 2.91%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB   | 14        | 13.59%  |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB    | 6         | 5.83%   |
+| Intel SSD 660P Series 512GB                           | 3         | 2.91%   |
 | China SSD 1TB                                         | 3         | 2.91%   |
 | Unknown MMC Card  32GB                                | 2         | 1.94%   |
 | SK hynix BC501 NVMe Solid State Drive 512GB           | 2         | 1.94%   |
@@ -1032,12 +1032,12 @@ Hard drive models
 | WDC WD10JPVX-75JC3T0 1TB                              | 1         | 0.97%   |
 | Unknown MMC Card  128GB                               | 1         | 0.97%   |
 | TrekStor I.GEAR 128GB                                 | 1         | 0.97%   |
-| Toshiba XG6 NVMe SSD Controller 256GB                 | 1         | 0.97%   |
+| Toshiba XG6 NVMe SSD Controller 512GB                 | 1         | 0.97%   |
 | Toshiba MQ04ABF100 1TB                                | 1         | 0.97%   |
 | Toshiba MQ02ABD100H 1TB                               | 1         | 0.97%   |
 | Toshiba MQ01ACF050 500GB                              | 1         | 0.97%   |
 | Toshiba MQ01ABF050 500GB                              | 1         | 0.97%   |
-| Star Drive SATA SSD 240GB                             | 1         | 0.97%   |
+| Star Drive SATA SSD 480GB                             | 1         | 0.97%   |
 | Solid State Storage SSSTC CL1-4D256 256GB             | 1         | 0.97%   |
 | Smartbuy SSD 240GB                                    | 1         | 0.97%   |
 | SK hynix PC801 NVMe 2TB                               | 1         | 0.97%   |
@@ -1048,9 +1048,9 @@ Hard drive models
 | Seagate ST1000LM024 HN-M101MBB 1TB                    | 1         | 0.97%   |
 | Seagate ST1000LM014-SSHD-8GB                          | 1         | 0.97%   |
 | Sandisk WD_BLACK SN850X 1000GB                        | 1         | 0.97%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB                    | 1         | 0.97%   |
-| Sandisk WD Black SN850 1TB                            | 1         | 0.97%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 1024GB     | 1         | 0.97%   |
+| Sandisk WD Blue SN550 NVMe SSD 512GB                  | 1         | 0.97%   |
+| Sandisk WD Black SN850 1024GB                         | 1         | 0.97%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB      | 1         | 0.97%   |
 | SanDisk SSD PLUS 240GB                                | 1         | 0.97%   |
 | SanDisk SD9SN8W-128G-1006 128GB SSD                   | 1         | 0.97%   |
 | SanDisk SD8SNAT128G1002 128GB SSD                     | 1         | 0.97%   |
@@ -1776,7 +1776,7 @@ Monitor models
 | Model                                                                  | Notebooks | Percent |
 |------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics S27B350 SAM08DC 1920x1080 598x336mm 27.0-inch      | 2         | 2.56%   |
-| AU Optronics LCD Monitor AUO80ED 1920x1080 344x194mm 15.5-inch         | 2         | 2.56%   |
+| AU Optronics LCD Monitor AUO80ED 1920x1080 344x193mm 15.5-inch         | 2         | 2.56%   |
 | AU Optronics LCD Monitor AUO243D 1920x1080 309x173mm 13.9-inch         | 2         | 2.56%   |
 | AU Optronics LCD Monitor AUO109D 1920x1080 381x214mm 17.2-inch         | 2         | 2.56%   |
 | Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                    | 1         | 1.28%   |
@@ -1802,12 +1802,12 @@ Monitor models
 | LG Display LCD Monitor LGD0521 1920x1080 309x174mm 14.0-inch           | 1         | 1.28%   |
 | LG Display LCD Monitor LGD048A 1920x1080 276x156mm 12.5-inch           | 1         | 1.28%   |
 | LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch            | 1         | 1.28%   |
-| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch           | 1         | 1.28%   |
+| LG Display LCD Monitor LGD02DA 1920x1080 380x220mm 17.3-inch           | 1         | 1.28%   |
 | LG Display LCD Monitor LGD0258 1600x900 345x194mm 15.6-inch            | 1         | 1.28%   |
 | InnoLux Display BT156GW01 INL0007 1366x768 344x194mm 15.5-inch         | 1         | 1.28%   |
 | InfoVision LCD Monitor IVO8C78 1920x1080 309x174mm 14.0-inch           | 1         | 1.28%   |
 | Hewlett-Packard 22m HPN3575 1920x1080 476x268mm 21.5-inch              | 1         | 1.28%   |
-| Hewlett-Packard 22er HWP331B 1920x1080 476x268mm 21.5-inch             | 1         | 1.28%   |
+| Hewlett-Packard 22es HWP331B 1920x1080 476x268mm 21.5-inch             | 1         | 1.28%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch              | 1         | 1.28%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                   | 1         | 1.28%   |
 | Goldstar HDR WQHD GSM772E 3440x1440 800x335mm 34.1-inch                | 1         | 1.28%   |
@@ -2249,10 +2249,10 @@ Controller models
 | IMC Networks Bluetooth Radio                   | 3         | 4.41%   |
 | Intel AX210 Bluetooth                          | 2         | 2.94%   |
 | IMC Networks Wireless_Device                   | 2         | 2.94%   |
-| Foxconn / Hon Hai Wireless_Device              | 2         | 2.94%   |
+| Foxconn / Hon Hai MediaTek Bluetooth Adapter   | 2         | 2.94%   |
 | Apple Bluetooth Host Controller                | 2         | 2.94%   |
 | USI Bluetooth Device                           | 1         | 1.47%   |
-| Realtek Bluetooth Radio                        | 1         | 1.47%   |
+| Realtek 802.11ac WLAN Adapter                  | 1         | 1.47%   |
 | Lite-On Wireless_Device                        | 1         | 1.47%   |
 | IMC Networks Bluetooth module                  | 1         | 1.47%   |
 | Dell Wireless 365 Bluetooth                    | 1         | 1.47%   |
@@ -2317,7 +2317,7 @@ Sound card models
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 2         | 1.59%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 2         | 1.59%   |
 | AMD Navi 10 HDMI Audio                                                     | 2         | 1.59%   |
-| Thesycon Systemsoftware & Consulting DX3 Pro+                              | 1         | 0.79%   |
+| Thesycon Systemsoftware & Consulting DX3 Pro                               | 1         | 0.79%   |
 | Silicon Integrated Systems [SiS] SiS7012 AC'97 Sound Controller            | 1         | 0.79%   |
 | Sennheiser Communications SC60 for Lync                                    | 1         | 0.79%   |
 | Nvidia TU104 HD Audio Controller                                           | 1         | 0.79%   |
@@ -2414,7 +2414,7 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A1K43BB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 1.19%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 1.19%   |
+| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s         | 1         | 1.19%   |
 | Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.19%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.19%   |
 
@@ -2544,15 +2544,14 @@ Camera device vendors
 | IMC Networks                           | 13        | 20.63%  |
 | Chicony Electronics                    | 11        | 17.46%  |
 | Microdia                               | 10        | 15.87%  |
+| Bison Electronics                      | 5         | 7.94%   |
 | Sunplus Innovation Technology          | 4         | 6.35%   |
 | Quanta                                 | 4         | 6.35%   |
 | Realtek Semiconductor                  | 3         | 4.76%   |
 | Lite-On Technology                     | 3         | 4.76%   |
-| Bison Electronics                      | 3         | 4.76%   |
 | Apple                                  | 3         | 4.76%   |
 | Syntek                                 | 2         | 3.17%   |
 | Luxvisions Innotech Limited            | 2         | 3.17%   |
-| Acer                                   | 2         | 3.17%   |
 | Logitech                               | 1         | 1.59%   |
 | Elgato Systems                         | 1         | 1.59%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 1.59%   |
@@ -2594,7 +2593,7 @@ Camera device models
 | Logitech HD Pro Webcam C920                                     | 1         | 1.59%   |
 | Lite-On Integrated Camera                                       | 1         | 1.59%   |
 | Lite-On HP Webcam                                               | 1         | 1.59%   |
-| Lite-On HP HD Webcam                                            | 1         | 1.59%   |
+| Lite-On HP HD Camera                                            | 1         | 1.59%   |
 | IMC Networks UVC VGA Webcam                                     | 1         | 1.59%   |
 | IMC Networks TOSHIBA Web Camera - HD                            | 1         | 1.59%   |
 | IMC Networks Integrated RGB Camera                              | 1         | 1.59%   |
@@ -2689,8 +2688,8 @@ Total unsupported devices on board
 | 1     | 27        | 33.33%  |
 | 3     | 7         | 8.64%   |
 | 2     | 7         | 8.64%   |
-| 5     | 5         | 6.17%   |
-| 4     | 3         | 3.7%    |
+| 5     | 4         | 4.94%   |
+| 4     | 4         | 4.94%   |
 | 6     | 2         | 2.47%   |
 
 Unsupported Device Types

@@ -823,7 +823,7 @@ Hard drive models
 | WDC WD BLACK SDBPNTY-512G-1106 512GB              | 1        | 2.22%   |
 | Toshiba RD400 256GB                               | 1        | 2.22%   |
 | SK hynix SC308 SATA 128GB SSD                     | 1        | 2.22%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller 2TB | 1        | 2.22%   |
+| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 2.22%   |
 | Seagate ST9640320AS 640GB                         | 1        | 2.22%   |
 | Seagate ST6000DM003-2CY186 6TB                    | 1        | 2.22%   |
 | Seagate ST500LT012-1DG142 500GB                   | 1        | 2.22%   |
@@ -1401,7 +1401,7 @@ Monitor models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM021E 1680x1050 433x271mm 20.1-inch | 2        | 7.41%   |
-| STD HDMI TV STD00C7 1680x1050 698x392mm 31.5-inch                    | 1        | 3.7%    |
+| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 3.7%    |
 | Sony SAMSUNG SNY5203 1920x540                                        | 1        | 3.7%    |
 | Samsung Electronics S27E590 SAM0C5D 1920x1080 598x336mm 27.0-inch    | 1        | 3.7%    |
 | Samsung Electronics S27E391 SAM0C15 1920x1080 598x336mm 27.0-inch    | 1        | 3.7%    |
@@ -1409,7 +1409,7 @@ Monitor models
 | Philips 200V4 PHLC0BF 1600x900 432x240mm 19.5-inch                   | 1        | 3.7%    |
 | MSI G241 MSI3BA4 1920x1080 527x296mm 23.8-inch                       | 1        | 3.7%    |
 | Hewlett-Packard X27i HPN3678 2560x1440 597x336mm 27.0-inch           | 1        | 3.7%    |
-| Hewlett-Packard 27fw HPN354A 1920x1080 598x336mm 27.0-inch           | 1        | 3.7%    |
+| Hewlett-Packard 27fh HPN354A 1920x1080 598x336mm 27.0-inch           | 1        | 3.7%    |
 | Hewlett-Packard 27f HPN354B 1920x1080 598x336mm 27.0-inch            | 1        | 3.7%    |
 | Hewlett-Packard 23xw HWP318C 1920x1080 509x286mm 23.0-inch           | 1        | 3.7%    |
 | Hewlett-Packard 23cw HWP3187 1920x1080 509x286mm 23.0-inch           | 1        | 3.7%    |
@@ -1423,7 +1423,7 @@ Monitor models
 | Acer X34 P ACR054F 3440x1440 798x335mm 34.1-inch                     | 1        | 3.7%    |
 | Acer KA220HQ ACR0497 1920x1080 477x268mm 21.5-inch                   | 1        | 3.7%    |
 | Acer K272HUL ACR0524 2560x1440 598x336mm 27.0-inch                   | 1        | 3.7%    |
-| Acer K272HL ACR0523 1920x1080 600x340mm 27.2-inch                    | 1        | 3.7%    |
+| Acer K272HL ACR0523 1920x1080 598x336mm 27.0-inch                    | 1        | 3.7%    |
 | Acer G236HL ACR02EB 1920x1080 509x286mm 23.0-inch                    | 1        | 3.7%    |
 | Acer B326HUL ACR03F0 2560x1440 710x400mm 32.1-inch                   | 1        | 3.7%    |
 
@@ -1835,7 +1835,7 @@ Memory module models
 | Kingston RAM Module 8GB DIMM DDR4 3200MT/s              | 1        | 6.25%   |
 | G.Skill RAM F4-3600C16-8GTZR 8192MB DIMM DDR4 3600MT/s  | 1        | 6.25%   |
 | G.Skill RAM F4-3200C16-16GTZN 16GB DIMM DDR4 3200MT/s   | 1        | 6.25%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s     | 1        | 6.25%   |
+| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s  | 1        | 6.25%   |
 | G.Skill RAM F4-3000C15-8GRBB 8GB DIMM DDR4 3000MT/s     | 1        | 6.25%   |
 | G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s      | 1        | 6.25%   |
 | Crucial RAM BLS8G4D26BFSEK.8FD 8GB DIMM DDR4 3000MT/s   | 1        | 6.25%   |
@@ -1972,14 +1972,14 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                      | Desktops | Percent |
-|----------------------------|----------|---------|
-| WaveRider USB Live camera  | 1        | 16.67%  |
-| Realtek Full HD webcam     | 1        | 16.67%  |
-| Microsoft LifeCam Cinema   | 1        | 16.67%  |
-| Logitech Webcam C270       | 1        | 16.67%  |
-| Logitech QuickCam Pro 9000 | 1        | 16.67%  |
-| A4Tech HD 720P PC Camera   | 1        | 16.67%  |
+| Model                        | Desktops | Percent |
+|------------------------------|----------|---------|
+| WaveRider USB Live camera    | 1        | 16.67%  |
+| Realtek FULL HD 1080P Webcam | 1        | 16.67%  |
+| Microsoft LifeCam Cinema     | 1        | 16.67%  |
+| Logitech Webcam C270         | 1        | 16.67%  |
+| Logitech QuickCam Pro 9000   | 1        | 16.67%  |
+| A4Tech REDRAGON Live Camera  | 1        | 16.67%  |
 
 Security
 --------

@@ -604,7 +604,7 @@ Hard drive vendors
 | Seagate             | 3        | 4      | 27.27%  |
 | WDC                 | 2        | 2      | 18.18%  |
 | SK hynix            | 1        | 1      | 9.09%   |
-| Sandisk             | 1        | 2      | 9.09%   |
+| SanDisk             | 1        | 2      | 9.09%   |
 | Samsung Electronics | 1        | 1      | 9.09%   |
 | Hitachi             | 1        | 1      | 9.09%   |
 | HGST                | 1        | 1      | 9.09%   |
@@ -1498,7 +1498,7 @@ Memory module models
 |----------------------------------------------------------|----------|---------|
 | Ramos RAM EMB2GB481CL4-13HA 2GB DIMM 1227MT/s            | 1        | 16.67%  |
 | PNY RAM 8GBF1X08QFHH38-135-K 8GB DIMM DDR4 3600MT/s      | 1        | 16.67%  |
-| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3266MT/s       | 1        | 16.67%  |
+| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s      | 1        | 16.67%  |
 | Crucial RAM RM25664BA1339.8FR 2GB DIMM DDR3 1333MT/s     | 1        | 16.67%  |
 | Crucial RAM BLS16G4D32AESC.M16FE 16GB DIMM DDR4 3200MT/s | 1        | 16.67%  |
 | Unknown                                                  | 1        | 16.67%  |
@@ -1554,8 +1554,7 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 3600  | 1        | 20%     |
-| 3266  | 1        | 20%     |
+| 3600  | 2        | 40%     |
 | 3200  | 1        | 20%     |
 | 1333  | 1        | 20%     |
 | 1227  | 1        | 20%     |
